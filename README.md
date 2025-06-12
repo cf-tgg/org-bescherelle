@@ -32,252 +32,19 @@ Mes besoins, vis-à-vis d'un Bescherelle, se résument bien souvent
 
 ### Usage le plus simple
 
-    $0  <verbe>
+```
+   $0  <verbe>
+```
 
-    conjuge être
+```
+   conjuge être
+```
 
-    #!/bin/sh
-    # -*- mode: sh; -*- vim: ft=sh:ts=4:sw=4:norl:et:
-    
-    #                    _
-    #   _______  ___    (_)_ _____ ____
-    #  / __/ _ \/ _ \  / / // / _ `/ -_)
-    #  \__/\___/_//_/_/ /\_,_/\_, /\__/
-    #              |___/     /___/
-    
-    #   conjuge --- Un bescherelle pour ton shell
-    #
-    #   USAGE
-    #        ${SCRIPT_NAME}  -[V:d:sqcETh] [-V <verbe>] [-d <BESCHERELLE_DIR>]
-    #
-    #   OPTIONS
-    #        -V     <verbe>               Search for a specifif verb
-    #        -d     <BESCHERELLE_DIR>     Specify alternate directory for retrieved org files
-    #                                     (default: ~/Documents/Bescherelle)
-    #        -s                           fuzzy search
-    #        -E                           open org file in EDITOR
-    #        -B                           Bescherelle search (search in all BESCHERELLE_DIR)
-    #        -f                           feminin form output
-    #        -m                           masculin form output
-    #        -c                           output native compose chars (i.e. `’` intead of `'`)
-    #        -t                           tts output (requires working piper-tts configuration)
-    #        -T                           output verb tenses in output (TRIM_TENSE=0)
-    #        -q                           quiet (default)
-    #        -v                           verbose (VERBOSE=0)
-    #        -h                           display this help message
-    
-    #{{{ Default Variables
-    BESCHERELLE_DIR="$HOME/Documents/Bescherelle"
-    OPEN=0
-    SEARCH=0
-    COMPOSE=0
-    QUIET=1
-    TTS_OUT=0
-    TRIM_TENSE=1
-    BESCHERELLE=0
-    MASCULIN=0
-    FEMININ=0
-    #}}}
-    
-    #{{{ Functions
-    usage() {
-        env SCRIPT_NAME=$0 envsubst <<-'MAN'
-                        _
-       _______  ___    (_)_ _____ ____
-      / __/ _ \/ _ \  / / // / _ `/ -_)
-      \__/\___/_//_/_/ /\_,_/\_, /\__/
-                  |___/     /___/
-    
-       conjuge --- Un bescherelle pour ton shell
-    
-       USAGE
-            ${SCRIPT_NAME}  -[V:d:sqcETh] [-V <verbe>] [-d <BESCHERELLE_DIR>]
-    
-       OPTIONS
-            -V     <verbe>               Search for a specifif verb
-            -d     <BESCHERELLE_DIR>     Specify alternate directory for retrieved org files
-                                         (default: ~/Documents/Bescherelle)
-            -s                           fuzzy search
-            -E                           open org file in EDITOR
-            -B                           Bescherelle search (search in all BESCHERELLE_DIR)
-            -f                           feminin form output
-            -m                           masculin form output
-            -c                           output native compose chars (i.e. `’` intead of `'`)
-            -t                           tts output (requires working piper-tts configuration)
-            -T                           output verb tenses in output (TRIM_TENSE=0)
-            -q                           quiet (default)
-            -v                           verbose (QUIET=0)
-            -h                           display this help message
-    
-    
-       SEE ALSO
-    
-          parallel(1)     fzf(1)    curl(1)   gettext(1)
-    
-       CITE
-    
-          Tange, O. (2025, May 22). GNU Parallel 20250522 ('Iberian Blackout').
-          Zenodo. https://doi.org/10.5281/zenodo.15484911
-    
-    MAN
-    }
-    
-    trim_if_match() {
-        pattern="$1"
-        awk -v IGNORECASE=1 -v pat="$pattern" '
-              { lines[NR] = $0 }
-              END {
-                if (lines[NR] ~ pat) NR--
-                for (i = 1; i <= NR; i++) print lines[i]
-              }
-            '
-    }
-    
-    convert_compose_chars() {
-        f="$1"
-        [ -f "$f" ] && input=$(cat "$f") || input=$(cat)
-        echo "$input"| sed "s/'/’/g;s/oe/[œ]/gI"
-    }
-    
-    to_ascii() {
-        f="$1"
-        [ -f "$f" ] && input=$(cat "$f") || input=$(cat)
-        echo "$input" | sed -e 'y/àáâäèéêëìíîïòóôöùúûüçÀÁÂÄÈÉÊËÌÍÎÏÒÓÔÖÙÚÛÜÇ/aaaaeeeeiiiioooouuuucAAAAEEEEIIIIOOOOUUUUC/' \
-                            -e 's/œ/oe/g; s/Œ/OE/g'
-    }
-    
-    to_lowercase() {
-        [ $# -gt 0 ] && input="$*" || input=$(cat)
-        echo "$input" | sed 's/.*/\L&/'
-    }
-    
-    org_concat_headers() {
-      awk '
-        function titlecase(s,   i, n, a, w) {
-          n = split(s, a, /[ \t]+/)
-          for (i = 1; i <= n; i++) {
-            w = tolower(a[i])
-            a[i] = toupper(substr(w,1,1)) substr(w,2)
-          }
-          return a[1] (n > 1 ? " " a[2] : "") (n > 2 ? " " a[3] : "") (n > 3 ? " " a[4] : "") (n > 4 ? " " a[5] : "") (n > 5 ? " " a[6] : "") (n > 6 ? " " a[7] : "") (n > 7 ? " " a[8] : "")
-        }
-    
-        /^* /      { h1 = titlecase(gensub(/^\* +/, "", 1)); next }
-        /^** /     { sub(/^\*\* +/, "", $0); print h1 " " $0; next }
-        /^[^*]/    { print }
-      ' "${1:--}"
-    }
-    
-    to_title_case() {
-        [ $# -gt 0 ] && input="$*" || input=$(cat)
-        echo "$input" | sed -E 's/(^|[^a-zA-Z])([a-z])/\1\u\2/g'
-    }
-    
-    trim_tense() {
-        [ $# -gt 0 ] && input="$*" || input=$(cat)
-        echo "$input" | grep -vE '^(Conditionnel|Indicatif|Impératif|Infinitif|Subjonctif|Participe)'
-    }
-    
-    verbcat() {
-        v="${1%.org}.org" ;
-        [ -f "$v" ] && output=$(cat "$v" | org_concat_headers | sed "/^$/" | fzf --multi)
-        [ -n "$output" ] && echo "$output"
-    }
-    
-    bescherelle () { cat "${BESCHERELLE_DIR}"/* | grep -vE '^[*#]' | sed "/^$/d" | fzf --multi ; }
-    
-    #}}}
-    
-    verb=$(echo "$1" | to_ascii | to_lowercase)
-    
-    while getopts "V:d:smBfOTqctvh" opt ; do
-        case "$opt" in
-            V) verb=$(echo "$OPTARG" | to_ascii | to_lowercase) ;;
-            d) BESCHERELLE_DIR="$OPTARG" ;;
-            O) OPEN=1 ;;
-            B) BESCHERELLE=1 ;;
-            s) SEARCH=1 ;;
-            m) MASCULIN=1 ;;
-            f) FEMININ=1 ;;
-            v) QUIET=0 ;;
-            q) QUIET=1 ;;
-            c) COMPOSE=1 ;;
-            T) TRIM_TENSE=0 ;;
-            t) TTS_OUT=1 ;;
-            h) usage >&2 ; exit 0 ;;
-        esac
-    done
-    shift $((OPTIND - 1))
-    
-    [ -n "$verb" ] || verb=$(echo "$1" | to_ascii | to_lowercase)
-    [ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
-    # [ -e "$verb_list" ] || curl
-    [ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
-    # [ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
-    #         printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
-    #         printf 'parallel -j0 --joblog %s %s :::: %s\n' "$VERB_DIR" "$(which conjuge)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
-    #         exit 1
-    # }
-    orgverb="${BESCHERELLE_DIR}/${verb}.org"
-    
-    if [ -f "$orgverb" ] && [ $(wc -l < "$orgverb") -gt 2 ] ; then
-        [ $QUIET -lt 1 ] && echo "$verb est déjà là: $orgverb" >&2
-        [ $OPEN -eq 1 ] && setsid -f $EDITOR "$orgverb" >/dev/null 2>&1
-        [ $SEARCH -gt 0 ] && output=$(grep -rn "$verb" "$BESCHERELLE_DIR" | cut -d ':' -f1 | sort -u | xargs cat | grep -vE '^[*#]' |sed "/^$/d" | fzf --multi) || \
-                output=$(cat "$orgverb" | grep -vE '^#'  | org_concat_headers | sed "/^$/d" | fzf --multi)
-    else
-        LC_ALL=en_US.UTF-8 curl -sL "https://conjugaison.bescherelle.com/verbes/$verb" |
-            iconv -f utf-8 -t utf-8 2>/dev/null |
-            xmllint --html --xpath '//div[contains(@class,"card-type")]/div/h4 | //div[contains(@class,"card-body")]/h5 | //p' - 2>/dev/null |
-            sed -e 's~<h4[^>]*>~\n#MODE# ~g' \
-                -e 's~<h5[^>]*>~\n#TENSE# ~g' \
-                -e 's~<personal-pronoun>~\n#PP# ~g' -e 's~</personal-pronoun>~~g' \
-                -e 's~<auxiliary>~ #AUX# ~g' -e 's~</auxiliary>~~g' \
-                -e 's~<verb>~ #V# ~g' -e 's~</verb>~~g' \
-                -e 's~<[^>]*>~~g' |
-            sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/  */ /g' |
-            awk -v verb="$verb" '
-          BEGIN {
-              print "#+title: Conjugaison du verbe " verb
-          }
-          /^#MODE#/ {
-              sub(/^#MODE# /, "", $0)
-              print "\n* " $0
-              next
-          }
-          /^#TENSE#/ {
-              sub(/^#TENSE# /, "", $0)
-              print "\n** " $0 "\n"
-              next
-          }
-          {
-              gsub(/#PP# /, "", $0)
-              gsub(/#AUX# /, "", $0)
-              gsub(/#V# /, "", $0)
-              if (NF) print $0
-          }
-          ' | sed "s/’ /'/g;s/  / /g" | trim_if_match "contacter" >"$orgverb"
-        [ -f "$orgverb" ] && output=$(verbcat "$orgverb")
-    fi
-    
-    if [ -n "$output" ]; then
-        [ $FEMININ -eq 1 ] && output=$(echo "$output" | sed 's/il (//g;s/ils (//g;s/(e)/e/g;s/e)/e/g;s/elles)/elles/g;s/  / /g' )
-        [ $MASCULIN -eq 1 ] && output=$(echo "$output" | sed 's/ (elle)//g;s/ (elles)//g;s/(e)//g')
-        [ $COMPOSE -eq 1 ] && output=$(echo "$output" | convert_compose_chars)
-        [ $TRIM_TENSE -eq 1 ] && output=$(echo "$output" | trim_tense)
-        [ $TRIM_TENSE -eq 0 ] && output=$(echo "$output" | sed 's/^\(Conditionnel\|Indicatif\|Impératif\|Infinitif\|Subjonctif\|Participe\)\(.*$\)/\n\\033\[4;1\;97m\1 ~\2\\033\[0m/')
-        [ $TTS_OUT -gt 0 ] && tts -m "fr_FR-gilles-low" "$output" || echo -e "$output"
-    fi
-    
-    exit 0
+``` org
 
-\#+begin<sub>example</sub> org
+* INDICATIF
 
-
-# INDICATIF
-
-
-## Présent
+** Présent
 
 je suis
 tu es
@@ -286,8 +53,7 @@ nous sommes
 vous êtes
 ils (elles) sont
 
-
-## Imparfait
+** Imparfait
 
 j’étais
 tu étais
@@ -296,8 +62,7 @@ nous étions
 vous étiez
 ils (elles) étaient
 
-
-## Passé simple
+** Passé simple
 
 je fus
 tu fus
@@ -306,8 +71,7 @@ nous fûmes
 vous fûtes
 ils (elles) furent
 
-
-## Futur simple
+** Futur simple
 
 je serai
 tu seras
@@ -316,11 +80,9 @@ nous serons
 vous serez
 ils (elles) seront
 
+* CONDITIONNEL
 
-# CONDITIONNEL
-
-
-## Présent
+** Présent
 
 je serais
 tu serais
@@ -329,11 +91,9 @@ nous serions
 vous seriez
 ils (elles) seraient
 
+* SUBJONCTIF
 
-# SUBJONCTIF
-
-
-## Présent
+** Présent
 
 que je sois
 que tu sois
@@ -342,8 +102,7 @@ que nous soyons
 que vous soyez
 qu’ils (elles) soient
 
-
-## Imparfait
+** Imparfait
 
 que je fusse
 que tu fusses
@@ -352,37 +111,29 @@ que nous fussions
 que vous fussiez
 qu’ils (elles) fussent
 
+* IMPÉRATIF
 
-# IMPÉRATIF
-
-
-## Présent
+** Présent
 
 sois
 soyons
 soyez
 
+* INFINITIF
 
-# INFINITIF
-
-
-## Présent
+** Présent
 
 être
 
+* PARTICIPE
 
-# PARTICIPE
-
-
-## Présent
+** Présent
 
 étant
 
+* INDICATIF
 
-# INDICATIF
-
-
-## Passé composé
+** Passé composé
 
 j’ai été
 tu as été
@@ -391,8 +142,7 @@ nous avons été
 vous avez été
 ils (elles) ont été
 
-
-## Plus-que-parfait
+** Plus-que-parfait
 
 j’avais été
 tu avais été
@@ -401,8 +151,7 @@ nous avions été
 vous aviez été
 ils (elles) avaient été
 
-
-## Passé antérieur
+** Passé antérieur
 
 j’eus été
 tu eus été
@@ -411,8 +160,7 @@ nous eûmes été
 vous eûtes été
 ils (elles) eurent été
 
-
-## Futur antérieur
+** Futur antérieur
 
 j’aurai été
 tu auras été
@@ -421,11 +169,9 @@ nous aurons été
 vous aurez été
 ils (elles) auront été
 
+* CONDITIONNEL
 
-# CONDITIONNEL
-
-
-## Passé
+** Passé
 
 j’aurais été
 tu aurais été
@@ -434,11 +180,9 @@ nous aurions été
 vous auriez été
 ils (elles) auraient été
 
+* SUBJONCTIF
 
-# SUBJONCTIF
-
-
-## Passé
+** Passé
 
 que j’aie été
 que tu aies été
@@ -447,8 +191,7 @@ que nous ayons été
 que vous ayez été
 qu’ils (elles) aient été
 
-
-## Plus-que-parfait
+** Plus-que-parfait
 
 que j’eusse été
 que tu eusses été
@@ -457,34 +200,27 @@ que nous eussions été
 que vous eussiez été
 qu’ils (elles) eussent été
 
+* IMPÉRATIF
 
-# IMPÉRATIF
-
-
-## Passé
+** Passé
 
 ayons été
 ayez été
 
+* INFINITIF
 
-# INFINITIF
-
-
-## Passé
+** Passé
 
 avoir été
 
+* PARTICIPE
 
-# PARTICIPE
-
-
-## Passé
+** Passé
 
 ayant été
 été (invar.)
 
-\#+end<sub>example</sub>
-
+```
 
 ## Acquérir une liste de tous les verbes
 
@@ -519,7 +255,7 @@ Ensuite, une petite ligne de `sed` pour faire le ménage:
     zapper
     zezayer
 
-cf. [verbes](./verbes), [verbes-na](./verbes-na)
+cf. [verbes](./verbes)
 
 
 ## Générer les verbes
@@ -541,4 +277,3 @@ précedemment acquis.
     parallel -j0 --joblog ./conjuge.log conjuge -V {} -d ~/Templates/org-bescherelle/bescherelle -v :::: ~/Templates/org-bescherelle/verbes
 
     head ~/Templates/org-bescherelle/conjuge.log ; tail ~/Templates/org-bescherelle/conjuge.log ;
-
