@@ -1,6 +1,6 @@
 #+title: Bescherelle Org
 #+author: cf [Linux 6.14.6-zen1-1-zen x86_64 GNU/Linux]
-#+date: <2025-06-12 08:37>
+#+date: <2025-06-12 08:38>
 
 + References:
   - [[https://conjugaison.bescherelle.com][Bescherelle Conjugaison | Le conjugueur Bescherelle, la référence en conjugai...]]
@@ -215,13 +215,14 @@ shift $((OPTIND - 1))
 
 [ -n "$verb" ] || verb=$(echo "$1" | to_ascii | to_lowercase)
 [ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
-# [ -e "$verb_list" ] || curl
+[ -e "$verb_list" ] || curl -sSL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
 [ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
-# [ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
-#         printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
-#         printf 'parallel -j0 --joblog %s %s :::: %s\n' "$VERB_DIR" "$(which conjuge)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
-#         exit 1
-# }
+[ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
+         printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
+         printf 'parallel -j0 --joblog %s %s :::: %s\n' "$VERB_DIR" "$(which conjuge)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
+        exit 1
+}
+
 orgverb="${BESCHERELLE_DIR}/${verb}.org"
 
 if [ -f "$orgverb" ] && [ $(wc -l < "$orgverb") -gt 2 ] ; then
