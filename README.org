@@ -1,0 +1,584 @@
+#+title: Bescherelle Org
+#+author: cf [Linux 6.14.6-zen1-1-zen x86_64 GNU/Linux]
+#+date: <2025-06-12 08:37>
+
++ References:
+  - [[https://conjugaison.bescherelle.com][Bescherelle Conjugaison | Le conjugueur Bescherelle, la référence en conjugai...]]
+  - [[https://www.digischool.fr/education/conjugaison/verbes][Liste de tous les verbes français et leur conjugaison - digiSchool]]
+  - [[https://github.com/junegunn/fzf][GitHub - junegunn/fzf: :cherry_blossom: A command-line fuzzy finder]]
+  - man:fzf
+  - man:parallel
+
+* Bescherelle Org
+
+ Le site du [[https://conjugaison.bescherelle.com][Bescherelle]] nous offre les tables de conjugaisons en
+ ligne, mais le rendu dans EWW (Emacs) pour configuration ne semblait
+ pas coopérer avec le javascript de leur plateforme.  Cependant, la
+ richesse sémantique de leur XML rend la création d'une version locale
+ adaptée à mes besoins simplistes relativement facile.
+
+** Pourquoi?
+
+J'y ai vu une belle occasion de démontrer l'efficacité et la
+versatilité d'un simple script POSIX, extensible aux outils standard de ligne de commande (grep, sed, awk, fzf, etc.).
+D'une part, pour mettre en pratique des concepts récemment lus dans
+les pages de manuel, d'autre part parce que j'abhore les applications web qui compliquent, au point d'y rendre inutilisable, la fonction première de leur application.
+
+** Le script - Version 0.2.1
+
+Mes besoins, vis-à-vis d'un Bescherelle, se résument bien souvent
+ simplement à trouver la conjugaison d'un verbe donné. Conséquemment,
+ le script fourni ci-dessous, sous sa plus simple forme se résume à:
+
+*** Usage le plus simple
+#+begin_example shell
+ $0  <verbe>
+#+end_example
+
+#+begin_example shell
+ conjuge être
+#+end_example
+
+#+begin_src shell :async :results output :cmdline etre
+#!/bin/sh
+# -*- mode: sh; -*- vim: ft=sh:ts=4:sw=4:norl:et:
+
+#                    _
+#   _______  ___    (_)_ _____ ____
+#  / __/ _ \/ _ \  / / // / _ `/ -_)
+#  \__/\___/_//_/_/ /\_,_/\_, /\__/
+#              |___/     /___/
+
+#   conjuge --- Un bescherelle pour ton shell
+#
+#   USAGE
+#        ${SCRIPT_NAME}  -[V:d:sqcETh] [-V <verbe>] [-d <BESCHERELLE_DIR>]
+#
+#   OPTIONS
+#        -V     <verbe>               Search for a specifif verb
+#        -d     <BESCHERELLE_DIR>     Specify alternate directory for retrieved org files
+#                                     (default: ~/Documents/Bescherelle)
+#        -s                           fuzzy search
+#        -E                           open org file in EDITOR
+#        -B                           Bescherelle search (search in all BESCHERELLE_DIR)
+#        -f                           feminin form output
+#        -m                           masculin form output
+#        -c                           output native compose chars (i.e. `’` intead of `'`)
+#        -t                           tts output (requires working piper-tts configuration)
+#        -T                           output verb tenses in output (TRIM_TENSE=0)
+#        -q                           quiet (default)
+#        -v                           verbose (VERBOSE=0)
+#        -h                           display this help message
+
+#{{{ Default Variables
+BESCHERELLE_DIR="$HOME/Documents/Bescherelle"
+OPEN=0
+SEARCH=0
+COMPOSE=0
+QUIET=1
+TTS_OUT=0
+TRIM_TENSE=1
+BESCHERELLE=0
+MASCULIN=0
+FEMININ=0
+#}}}
+
+#{{{ Functions
+usage() {
+    env SCRIPT_NAME=$0 envsubst <<-'MAN'
+                    _
+   _______  ___    (_)_ _____ ____
+  / __/ _ \/ _ \  / / // / _ `/ -_)
+  \__/\___/_//_/_/ /\_,_/\_, /\__/
+              |___/     /___/
+
+   conjuge --- Un bescherelle pour ton shell
+
+   USAGE
+        ${SCRIPT_NAME}  -[V:d:sqcETh] [-V <verbe>] [-d <BESCHERELLE_DIR>]
+
+   OPTIONS
+        -V     <verbe>               Search for a specifif verb
+        -d     <BESCHERELLE_DIR>     Specify alternate directory for retrieved org files
+                                     (default: ~/Documents/Bescherelle)
+        -s                           fuzzy search
+        -E                           open org file in EDITOR
+        -B                           Bescherelle search (search in all BESCHERELLE_DIR)
+        -f                           feminin form output
+        -m                           masculin form output
+        -c                           output native compose chars (i.e. `’` intead of `'`)
+        -t                           tts output (requires working piper-tts configuration)
+        -T                           output verb tenses in output (TRIM_TENSE=0)
+        -q                           quiet (default)
+        -v                           verbose (QUIET=0)
+        -h                           display this help message
+
+
+   SEE ALSO
+
+      parallel(1)     fzf(1)    curl(1)   gettext(1)
+
+   CITE
+
+      Tange, O. (2025, May 22). GNU Parallel 20250522 ('Iberian Blackout').
+      Zenodo. https://doi.org/10.5281/zenodo.15484911
+
+MAN
+}
+
+trim_if_match() {
+    pattern="$1"
+    awk -v IGNORECASE=1 -v pat="$pattern" '
+          { lines[NR] = $0 }
+          END {
+            if (lines[NR] ~ pat) NR--
+            for (i = 1; i <= NR; i++) print lines[i]
+          }
+        '
+}
+
+convert_compose_chars() {
+    f="$1"
+    [ -f "$f" ] && input=$(cat "$f") || input=$(cat)
+    echo "$input"| sed "s/'/’/g;s/oe/[œ]/gI"
+}
+
+to_ascii() {
+    f="$1"
+    [ -f "$f" ] && input=$(cat "$f") || input=$(cat)
+    echo "$input" | sed -e 'y/àáâäèéêëìíîïòóôöùúûüçÀÁÂÄÈÉÊËÌÍÎÏÒÓÔÖÙÚÛÜÇ/aaaaeeeeiiiioooouuuucAAAAEEEEIIIIOOOOUUUUC/' \
+                        -e 's/œ/oe/g; s/Œ/OE/g'
+}
+
+to_lowercase() {
+    [ $# -gt 0 ] && input="$*" || input=$(cat)
+    echo "$input" | sed 's/.*/\L&/'
+}
+
+org_concat_headers() {
+  awk '
+    function titlecase(s,   i, n, a, w) {
+      n = split(s, a, /[ \t]+/)
+      for (i = 1; i <= n; i++) {
+        w = tolower(a[i])
+        a[i] = toupper(substr(w,1,1)) substr(w,2)
+      }
+      return a[1] (n > 1 ? " " a[2] : "") (n > 2 ? " " a[3] : "") (n > 3 ? " " a[4] : "") (n > 4 ? " " a[5] : "") (n > 5 ? " " a[6] : "") (n > 6 ? " " a[7] : "") (n > 7 ? " " a[8] : "")
+    }
+
+    /^* /      { h1 = titlecase(gensub(/^\* +/, "", 1)); next }
+    /^** /     { sub(/^\*\* +/, "", $0); print h1 " " $0; next }
+    /^[^*]/    { print }
+  ' "${1:--}"
+}
+
+to_title_case() {
+    [ $# -gt 0 ] && input="$*" || input=$(cat)
+    echo "$input" | sed -E 's/(^|[^a-zA-Z])([a-z])/\1\u\2/g'
+}
+
+trim_tense() {
+    [ $# -gt 0 ] && input="$*" || input=$(cat)
+    echo "$input" | grep -vE '^(Conditionnel|Indicatif|Impératif|Infinitif|Subjonctif|Participe)'
+}
+
+verbcat() {
+    v="${1%.org}.org" ;
+    [ -f "$v" ] && output=$(cat "$v" | org_concat_headers | sed "/^$/" | fzf --multi)
+    [ -n "$output" ] && echo "$output"
+}
+
+bescherelle () { cat "${BESCHERELLE_DIR}"/* | grep -vE '^[*#]' | sed "/^$/d" | fzf --multi ; }
+
+#}}}
+
+verb=$(echo "$1" | to_ascii | to_lowercase)
+
+while getopts "V:d:smBfOTqctvh" opt ; do
+    case "$opt" in
+        V) verb=$(echo "$OPTARG" | to_ascii | to_lowercase) ;;
+        d) BESCHERELLE_DIR="$OPTARG" ;;
+        O) OPEN=1 ;;
+        B) BESCHERELLE=1 ;;
+        s) SEARCH=1 ;;
+        m) MASCULIN=1 ;;
+        f) FEMININ=1 ;;
+        v) QUIET=0 ;;
+        q) QUIET=1 ;;
+        c) COMPOSE=1 ;;
+        T) TRIM_TENSE=0 ;;
+        t) TTS_OUT=1 ;;
+        h) usage >&2 ; exit 0 ;;
+    esac
+done
+shift $((OPTIND - 1))
+
+[ -n "$verb" ] || verb=$(echo "$1" | to_ascii | to_lowercase)
+[ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
+# [ -e "$verb_list" ] || curl
+[ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
+# [ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
+#         printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
+#         printf 'parallel -j0 --joblog %s %s :::: %s\n' "$VERB_DIR" "$(which conjuge)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
+#         exit 1
+# }
+orgverb="${BESCHERELLE_DIR}/${verb}.org"
+
+if [ -f "$orgverb" ] && [ $(wc -l < "$orgverb") -gt 2 ] ; then
+    [ $QUIET -lt 1 ] && echo "$verb est déjà là: $orgverb" >&2
+    [ $OPEN -eq 1 ] && setsid -f $EDITOR "$orgverb" >/dev/null 2>&1
+    [ $SEARCH -gt 0 ] && output=$(grep -rn "$verb" "$BESCHERELLE_DIR" | cut -d ':' -f1 | sort -u | xargs cat | grep -vE '^[*#]' |sed "/^$/d" | fzf --multi) || \
+            output=$(cat "$orgverb" | grep -vE '^#'  | org_concat_headers | sed "/^$/d" | fzf --multi)
+else
+    LC_ALL=en_US.UTF-8 curl -sL "https://conjugaison.bescherelle.com/verbes/$verb" |
+        iconv -f utf-8 -t utf-8 2>/dev/null |
+        xmllint --html --xpath '//div[contains(@class,"card-type")]/div/h4 | //div[contains(@class,"card-body")]/h5 | //p' - 2>/dev/null |
+        sed -e 's~<h4[^>]*>~\n#MODE# ~g' \
+            -e 's~<h5[^>]*>~\n#TENSE# ~g' \
+            -e 's~<personal-pronoun>~\n#PP# ~g' -e 's~</personal-pronoun>~~g' \
+            -e 's~<auxiliary>~ #AUX# ~g' -e 's~</auxiliary>~~g' \
+            -e 's~<verb>~ #V# ~g' -e 's~</verb>~~g' \
+            -e 's~<[^>]*>~~g' |
+        sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//' -e 's/  */ /g' |
+        awk -v verb="$verb" '
+      BEGIN {
+          print "#+title: Conjugaison du verbe " verb
+      }
+      /^#MODE#/ {
+          sub(/^#MODE# /, "", $0)
+          print "\n* " $0
+          next
+      }
+      /^#TENSE#/ {
+          sub(/^#TENSE# /, "", $0)
+          print "\n** " $0 "\n"
+          next
+      }
+      {
+          gsub(/#PP# /, "", $0)
+          gsub(/#AUX# /, "", $0)
+          gsub(/#V# /, "", $0)
+          if (NF) print $0
+      }
+      ' | sed "s/’ /'/g;s/  / /g" | trim_if_match "contacter" >"$orgverb"
+    [ -f "$orgverb" ] && output=$(verbcat "$orgverb")
+fi
+
+if [ -n "$output" ]; then
+    [ $FEMININ -eq 1 ] && output=$(echo "$output" | sed 's/il (//g;s/ils (//g;s/(e)/e/g;s/e)/e/g;s/elles)/elles/g;s/  / /g' )
+    [ $MASCULIN -eq 1 ] && output=$(echo "$output" | sed 's/ (elle)//g;s/ (elles)//g;s/(e)//g')
+    [ $COMPOSE -eq 1 ] && output=$(echo "$output" | convert_compose_chars)
+    [ $TRIM_TENSE -eq 1 ] && output=$(echo "$output" | trim_tense)
+    [ $TRIM_TENSE -eq 0 ] && output=$(echo "$output" | sed 's/^\(Conditionnel\|Indicatif\|Impératif\|Infinitif\|Subjonctif\|Participe\)\(.*$\)/\n\\033\[4;1\;97m\1 ~\2\\033\[0m/')
+    [ $TTS_OUT -gt 0 ] && tts -m "fr_FR-gilles-low" "$output" || echo -e "$output"
+fi
+
+exit 0
+#+end_src
+
+#+RESULTS:
+
+#+begin_example org
+#+title: Conjugaison du verbe etre
+
+
+* INDICATIF
+
+** Présent
+
+je suis
+tu es
+il (elle) est
+nous sommes
+vous êtes
+ils (elles) sont
+
+** Imparfait
+
+j’étais
+tu étais
+il (elle) était
+nous étions
+vous étiez
+ils (elles) étaient
+
+** Passé simple
+
+je fus
+tu fus
+il (elle) fut
+nous fûmes
+vous fûtes
+ils (elles) furent
+
+** Futur simple
+
+je serai
+tu seras
+il (elle) sera
+nous serons
+vous serez
+ils (elles) seront
+
+* CONDITIONNEL
+
+** Présent
+
+je serais
+tu serais
+il (elle) serait
+nous serions
+vous seriez
+ils (elles) seraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois
+que tu sois
+qu’il (elle) soit
+que nous soyons
+que vous soyez
+qu’ils (elles) soient
+
+** Imparfait
+
+que je fusse
+que tu fusses
+qu’il (elle) fût
+que nous fussions
+que vous fussiez
+qu’ils (elles) fussent
+
+* IMPÉRATIF
+
+** Présent
+
+sois
+soyons
+soyez
+
+* INFINITIF
+
+** Présent
+
+être
+
+* PARTICIPE
+
+** Présent
+
+étant
+
+* INDICATIF
+
+** Passé composé
+
+j’ai été
+tu as été
+il (elle) a été
+nous avons été
+vous avez été
+ils (elles) ont été
+
+** Plus-que-parfait
+
+j’avais été
+tu avais été
+il (elle) avait été
+nous avions été
+vous aviez été
+ils (elles) avaient été
+
+** Passé antérieur
+
+j’eus été
+tu eus été
+il (elle) eut été
+nous eûmes été
+vous eûtes été
+ils (elles) eurent été
+
+** Futur antérieur
+
+j’aurai été
+tu auras été
+il (elle) aura été
+nous aurons été
+vous aurez été
+ils (elles) auront été
+
+* CONDITIONNEL
+
+** Passé
+
+j’aurais été
+tu aurais été
+il (elle) aurait été
+nous aurions été
+vous auriez été
+ils (elles) auraient été
+
+* SUBJONCTIF
+
+** Passé
+
+que j’aie été
+que tu aies été
+qu’il (elle) ait été
+que nous ayons été
+que vous ayez été
+qu’ils (elles) aient été
+
+** Plus-que-parfait
+
+que j’eusse été
+que tu eusses été
+qu’il (elle) eût été
+que nous eussions été
+que vous eussiez été
+qu’ils (elles) eussent été
+
+* IMPÉRATIF
+
+** Passé
+
+ayons été
+ayez été
+
+* INFINITIF
+
+** Passé
+
+avoir été
+
+* PARTICIPE
+
+** Passé
+
+ayant été
+été (invar.)
+
+#+end_example
+
+
+** Acquérir une liste de tous les verbes
+
+Une méthode ou une autre, en autant que les verbes y sont. Quoiqu'il
+en soit, à défault d'une méthode plus optimale (et après quelques
+tentatives ridicules de Mr.GPT), j'ai opté pour un copié-collé de la
+[[https://www.digischool.fr/education/conjugaison/verbes][Liste de tous les verbes français et leur conjugaison]]
+dans un tampon Emacs sauvegardé sous le nom très recherché de =verbes=
+Ensuite, une petite ligne de =sed= pour faire le ménage:
+#+begin_src shell :results output
+cat ./verbes | grep -ivE "Verbes en " | sed -e 's/ - /\n/g' -e 's/^ *- *//; s/ *- *$//; s/^ *//; s/ *$//' | sed "/^$/d" | sed 's/[àáâä]/a/gI; s/[ÀÁÂÄ]/A/gI;s/[èéêë]/e/gI;s/[ÈÉÊË]/E/gI;s/[ìíîï]/i/gI;s/[ÌÍÎÏ]/I/gI;s/[òóôö]/o/gI;s/[ÒÓÔÖ]/O/gI;s/[ùúûü]/u/gI;s/[ÙÚÛÜ]/U/gI;s/[ç]/c/gI;s/[Ç]/C/gI;s/[œ]/oe/gI;s/[Œ]/OE/gI;' | tee ./verbes-na | wc -l ; head ./verbes-na ; tail ./verbes-na ;
+#+end_src
+
+#+RESULTS:
+#+begin_example
+1976
+abaisser
+abandonner
+abasourdir
+abattre
+abetir
+abhorrer
+abimer
+abolir
+abonder
+abonner
+voleter
+vomir
+voter
+vouer
+vouloir
+vouter
+vouvoyer
+voyager
+zapper
+zezayer
+#+end_example
+
+#+Résultat: 1976 verbes non-accentués
+#+begin_example
+1976
+abaisser
+abandonner
+abasourdir
+abattre
+abetir
+abhorrer
+abimer
+abolir
+abonder
+abonner
+voleter
+vomir
+voter
+vouer
+vouloir
+vouter
+vouvoyer
+voyager
+zapper
+zezayer
+#+end_example
+
+cf. [[./verbes][verbes]], [[./verbes-na][verbes-na]]
+
+** Générer les verbes
+
+=GNU Parallel= optimise l'exécution des processus par parallélisation.
+Il m'a semblé être le candidat idéal pour générer les 1976 verbes
+précedemment acquis.
+
+#+begin_src emacs-lisp
+  (defvar org-babel-async-content nil)
+  (use-package ob-async
+    :ensure t
+    :after org
+    :config
+    (require 'ob-async))
+#+end_src
+
+#+begin_src shell :async :results output
+ulimit -n ; ulimit -Hn
+#+end_src
+
+#+RESULTS:
+: 1024
+: 524288
+
+#+begin_src shell :async :results output
+ulimit -n 262144
+parallel -j0 --joblog ./conjuge.log conjuge -V {} -d ~/Templates/org-bescherelle/bescherelle -v :::: ~/Templates/org-bescherelle/verbes
+#+end_src
+
+#+begin_src shell :results output
+head ~/Templates/org-bescherelle/conjuge.log ; tail ~/Templates/org-bescherelle/conjuge.log ;
+#+end_src
+
+#+RESULTS:
+#+begin_example
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+332	:	1749468067.504	    20.052	0	0	0	0	conjuge -V celer -d /home/cf/Templates/org-bescherelle/bescherelle -v
+335	:	1749468067.528	    20.054	0	0	0	0	conjuge -V cesser -d /home/cf/Templates/org-bescherelle/bescherelle -v
+400	:	1749468068.109	    20.045	0	0	0	0	conjuge -V compenser -d /home/cf/Templates/org-bescherelle/bescherelle -v
+402	:	1749468068.133	    20.047	0	0	0	0	conjuge -V complaire -d /home/cf/Templates/org-bescherelle/bescherelle -v
+403	:	1749468068.146	    20.057	0	0	0	0	conjuge -V 'compléter' -d /home/cf/Templates/org-bescherelle/bescherelle -v
+405	:	1749468068.166	    20.060	0	0	0	0	conjuge -V compliquer -d /home/cf/Templates/org-bescherelle/bescherelle -v
+406	:	1749468068.176	    20.050	0	0	0	0	conjuge -V comporter -d /home/cf/Templates/org-bescherelle/bescherelle -v
+407	:	1749468068.185	    20.042	0	0	0	0	conjuge -V composer -d /home/cf/Templates/org-bescherelle/bescherelle -v
+408	:	1749468068.195	    20.057	0	0	0	0	conjuge -V comprendre -d /home/cf/Templates/org-bescherelle/bescherelle -v
+1962	:	1749468094.325	   657.282	0	0	0	0	conjuge -V vivre -d /home/cf/Templates/org-bescherelle/bescherelle -v
+612	:	1749468070.672	   746.473	0	0	0	0	conjuge -V 'déplacer' -d /home/cf/Templates/org-bescherelle/bescherelle -v
+1126	:	1749468078.114	   800.470	0	0	0	0	conjuge -V 'interférer' -d /home/cf/Templates/org-bescherelle/bescherelle -v
+78	:	1749468065.716	   816.967	0	0	0	0	conjuge -V affliger -d /home/cf/Templates/org-bescherelle/bescherelle -v
+348	:	1749468067.638	   851.907	0	0	0	0	conjuge -V chercher -d /home/cf/Templates/org-bescherelle/bescherelle -v
+604	:	1749468070.565	   848.980	0	0	0	0	conjuge -V 'départir' -d /home/cf/Templates/org-bescherelle/bescherelle -v
+374	:	1749468067.862	   954.081	0	0	0	0	conjuge -V clouer -d /home/cf/Templates/org-bescherelle/bescherelle -v
+1737	:	1749468089.029	  1014.835	0	0	0	0	conjuge -V saouler -d /home/cf/Templates/org-bescherelle/bescherelle -v
+409	:	1749468068.205	  1097.098	0	0	0	0	conjuge -V compromettre -d /home/cf/Templates/org-bescherelle/bescherelle -v
+1667	:	1749468087.556	  1106.420	0	0	0	0	conjuge -V ressaisir -d /home/cf/Templates/org-bescherelle/bescherelle -v
+#+end_example
