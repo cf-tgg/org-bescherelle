@@ -30,7 +30,7 @@
 
 #{{{ Default Variables
 BESCHERELLE_DIR="$HOME/Documents/Bescherelle"
-verb_list="${.:-"$BESCHERELLE_DIR"}/verbes"
+verb_list="$BESCHERELLE_DIR/verbes"
 OPEN=0
 SEARCH=0
 COMPOSE=0
@@ -174,11 +174,12 @@ shift $((OPTIND - 1))
 
 [ -n "$verb" ] || verb=$(echo "$1" | to_ascii | to_lowercase)
 [ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
-[ -e "$verb_list" ] || curl -sL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
 [ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
 [ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
-         printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
-         printf 'parallel -j0 --joblog %s %s :::: %s\n' "$VERB_DIR" "$(which conjuge)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
+        [ -f "$(find . -type f -name 'verbes')" ] && mv ./verbes "$verb_list"
+        [ -f "$verb_list" ] || curl -sL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
+        printf '%s est vide.. Peut-être essayer: `parallel -j0 --joblog %s %s :::: %s` ?\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" >&2
+        printf 'parallel -j0 --joblog %s %s :::: %s\n' "$BESCHERELLE_DIR" "$0" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$verb_list" | xclip -in -selection clipboard
         exit 1
 }
 
