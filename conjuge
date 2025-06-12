@@ -185,6 +185,7 @@ shift $((OPTIND - 1))
                 printf "dry run completed. Run the real job? [y/N] "
                 stty -echo -icanon
                 ans=$(dd bs=1 count=1 2>/dev/null)
+                stty -sane
                 echo "$ans" | grep -i "y" && sed -i 's/ --dry-run//' "$bootstrap_script" && "$bootstrap_script"
                 exit 0
             }
