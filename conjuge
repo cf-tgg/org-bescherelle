@@ -180,12 +180,12 @@ shift $((OPTIND - 1))
         [ -f "$verb_list" ] || curl -sL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
         bootstrap_script="$BESCHERELLE_DIR/bescherelle-parallel-bootstrap.sh"
         printf '%s est vide.. Peut-être essayer: `hul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ; parallel --progress --verbose --dry-run -j0 --joblog "%s" "%s" -v -V {} :::: "%s` ?\n' "$BESCHERELLE_DIR" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$0" "$verb_list" >&2
-        printf '#!/bin/sh\n\nhul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ;\n %s --progress --verbose --dry-run -j0 --joblog %s %s -v -V {} :::: %s\n' "$(command -v parallel)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$0" "$verb_list" | tee "$bootstrap_script"
+        printf '#!/bin/sh\n\nhul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ;\n %s --progress --verbose --dry-run -j0 --joblog %s %s/%s -v -V {} :::: %s\n' "$(command -v parallel)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$(pwd)" "${0##*/}" "$verb_list" | tee "$bootstrap_script"
         [ -f "$bootstrap_script" ] && chmod 0700 "$bootstrap_script" && "$bootstrap_script" && {
                 printf "dry run completed. Run the real job? [y/N] "
                 stty -echo -icanon
                 ans=$(dd bs=1 count=1 2>/dev/null)
-                stty -sane
+                stty sane
                 echo "$ans" | grep -i "y" && sed -i 's/ --dry-run//' "$bootstrap_script" && "$bootstrap_script"
                 exit 0
             }
