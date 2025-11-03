@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conformer
+
+* INDICATIF
+
+** Présent
+
+je conforme
+tu conformes
+il (elle) conforme
+nous conformons
+vous conformez
+ils (elles) conforment
+
+** Imparfait
+
+je conformais
+tu conformais
+il (elle) conformait
+nous conformions
+vous conformiez
+ils (elles) conformaient
+
+** Passé simple
+
+je conformai
+tu conformas
+il (elle) conforma
+nous conformâmes
+vous conformâtes
+ils (elles) conformèrent
+
+** Futur simple
+
+je conformerai
+tu conformeras
+il (elle) conformera
+nous conformerons
+vous conformerez
+ils (elles) conformeront
+
+* CONDITIONNEL
+
+** Présent
+
+je conformerais
+tu conformerais
+il (elle) conformerait
+nous conformerions
+vous conformeriez
+ils (elles) conformeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conforme
+que tu conformes
+qu’il (elle) conforme
+que nous conformions
+que vous conformiez
+qu’ils (elles) conforment
+
+** Imparfait
+
+que je conformasse
+que tu conformasses
+qu’il (elle) conformât
+que nous conformassions
+que vous conformassiez
+qu’ils (elles) conformassent
+
+* IMPÉRATIF
+
+** Présent
+
+conforme
+conformons
+conformez
+
+* INFINITIF
+
+** Présent
+
+conformer
+
+* PARTICIPE
+
+** Présent
+
+conformant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conformé
+tu as conformé
+il (elle) a conformé
+nous avons conformé
+vous avez conformé
+ils (elles) ont conformé
+
+** Plus-que-parfait
+
+j'avais conformé
+tu avais conformé
+il (elle) avait conformé
+nous avions conformé
+vous aviez conformé
+ils (elles) avaient conformé
+
+** Passé antérieur
+
+j'eus conformé
+tu eus conformé
+il (elle) eut conformé
+nous eûmes conformé
+vous eûtes conformé
+ils (elles) eurent conformé
+
+** Futur antérieur
+
+j'aurai conformé
+tu auras conformé
+il (elle) aura conformé
+nous aurons conformé
+vous aurez conformé
+ils (elles) auront conformé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conformé
+tu aurais conformé
+il (elle) aurait conformé
+nous aurions conformé
+vous auriez conformé
+ils (elles) auraient conformé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conformé
+que tu aies conformé
+qu’il (elle) ait conformé
+que nous ayons conformé
+que vous ayez conformé
+qu’ils (elles) aient conformé
+
+** Plus-que-parfait
+
+que j'eusse conformé
+que tu eusses conformé
+qu’il (elle) eût conformé
+que nous eussions conformé
+que vous eussiez conformé
+qu’ils (elles) eussent conformé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conformé
+ayez conformé
+
+* INFINITIF
+
+** Passé
+
+avoir conformé
+
+* PARTICIPE
+
+** Passé
+
+ayant conformé
+conformé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conformé(e)
+tu es conformé(e)
+il (elle) est conformé(e)
+nous sommes conformé(e)s
+vous êtes conformé(e)s
+ils (elles) sont conformé(e)s
+
+** Imparfait
+
+j'étais conformé(e)
+tu étais conformé(e)
+il (elle) était conformé(e)
+nous étions conformé(e)s
+vous étiez conformé(e)s
+ils (elles) étaient conformé(e)s
+
+** Passé simple
+
+je fus conformé(e)
+tu fus conformé(e)
+il (elle) fut conformé(e)
+nous fûmes conformé(e)s
+vous fûtes conformé(e)s
+ils (elles) furent conformé(e)s
+
+** Futur simple
+
+je serai conformé(e)
+tu seras conformé(e)
+il (elle) sera conformé(e)
+nous serons conformé(e)s
+vous serez conformé(e)s
+ils (elles) seront conformé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conformé(e)
+tu serais conformé(e)
+il (elle) serait conformé(e)
+nous serions conformé(e)s
+vous seriez conformé(e)s
+ils (elles) seraient conformé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conformé(e)
+que tu sois conformé(e)
+qu’il (elle) soit conformé(e)
+que nous soyons conformé(e)s
+que vous soyez conformé(e)s
+qu’ils (elles) soient conformé(e)s
+
+** Imparfait
+
+que je fusse conformé(e)
+que tu fusses conformé(e)
+qu’il (elle) fût conformé(e)
+que nous fussions conformé(e)s
+que vous fussiez conformé(e)s
+qu’ils (elles) fussent conformé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conformé(e)s
+soyez conformé(e)s
+
+* INFINITIF
+
+** Présent
+
+être conformé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conformé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conformé(e)
+tu as été conformé(e)
+il (elle) a été conformé(e)
+nous avons été conformé(e)s
+vous avez été conformé(e)s
+ils (elles) ont été conformé(e)s
+
+** Plus-que-parfait
+
+j'avais été conformé(e)
+il (elle) avait été conformé(e)
+nous avions été conformé(e)s
+ils (elles) avaient été conformé(e)s
+
+** Passé antérieur
+
+j'eus été conformé(e)
+tu eus été conformé(e)
+il (elle) eut été conformé(e)
+nous eûmes été conformé(e)s
+vous eûtes été conformé(e)s
+ils (elles) eurent été conformé(e)s
+
+** Futur antérieur
+
+j'aurai été conformé(e)
+tu auras été conformé(e)
+il (elle) aura été conformé(e)
+nous aurons été conformé(e)s
+vous aurez été conformé(e)s
+ils (elles) auront été conformé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conformé(e)
+j'aurais été conformé(e)
+il (elle) aurait été conformé(e)
+nous aurions été conformé(e)s
+vous auriez été conformé(e)s
+ils (elles) auraient été conformé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conformé(e)
+que tu aies été conformé(e)
+qu’il (elle) ait été conformé(e)
+que nous ayons été conformé(e)s
+que vous ayez été conformé(e)s
+qu’ils (elles) aient été conformé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conformé(e)
+que tu eusses été conformé(e)
+qu’il (elle) eût été conformé(e)
+que nous eussions été conformé(e)s
+que vous eussiez été conformé(e)s
+qu’ils (elles) eussent été conformé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conformé(e)
+ayons été conformé(e)s
+ayez été conformé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conformé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conformé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe refermer
+
+* INDICATIF
+
+** Présent
+
+je referme
+tu refermes
+il (elle) referme
+nous refermons
+vous refermez
+ils (elles) referment
+
+** Imparfait
+
+je refermais
+tu refermais
+il (elle) refermait
+nous refermions
+vous refermiez
+ils (elles) refermaient
+
+** Passé simple
+
+je refermai
+tu refermas
+il (elle) referma
+nous refermâmes
+vous refermâtes
+ils (elles) refermèrent
+
+** Futur simple
+
+je refermerai
+tu refermeras
+il (elle) refermera
+nous refermerons
+vous refermerez
+ils (elles) refermeront
+
+* CONDITIONNEL
+
+** Présent
+
+je refermerais
+tu refermerais
+il (elle) refermerait
+nous refermerions
+vous refermeriez
+ils (elles) refermeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je referme
+que tu refermes
+qu’il (elle) referme
+que nous refermions
+que vous refermiez
+qu’ils (elles) referment
+
+** Imparfait
+
+que je refermasse
+que tu refermasses
+qu’il (elle) refermât
+que nous refermassions
+que vous refermassiez
+qu’ils (elles) refermassent
+
+* IMPÉRATIF
+
+** Présent
+
+referme
+refermons
+refermez
+
+* INFINITIF
+
+** Présent
+
+refermer
+
+* PARTICIPE
+
+** Présent
+
+refermant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai refermé
+tu as refermé
+il (elle) a refermé
+nous avons refermé
+vous avez refermé
+ils (elles) ont refermé
+
+** Plus-que-parfait
+
+j'avais refermé
+tu avais refermé
+il (elle) avait refermé
+nous avions refermé
+vous aviez refermé
+ils (elles) avaient refermé
+
+** Passé antérieur
+
+j'eus refermé
+tu eus refermé
+il (elle) eut refermé
+nous eûmes refermé
+vous eûtes refermé
+ils (elles) eurent refermé
+
+** Futur antérieur
+
+j'aurai refermé
+tu auras refermé
+il (elle) aura refermé
+nous aurons refermé
+vous aurez refermé
+ils (elles) auront refermé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais refermé
+tu aurais refermé
+il (elle) aurait refermé
+nous aurions refermé
+vous auriez refermé
+ils (elles) auraient refermé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie refermé
+que tu aies refermé
+qu’il (elle) ait refermé
+que nous ayons refermé
+que vous ayez refermé
+qu’ils (elles) aient refermé
+
+** Plus-que-parfait
+
+que j'eusse refermé
+que tu eusses refermé
+qu’il (elle) eût refermé
+que nous eussions refermé
+que vous eussiez refermé
+qu’ils (elles) eussent refermé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons refermé
+ayez refermé
+
+* INFINITIF
+
+** Passé
+
+avoir refermé
+
+* PARTICIPE
+
+** Passé
+
+ayant refermé
+refermé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis refermé(e)
+tu es refermé(e)
+il (elle) est refermé(e)
+nous sommes refermé(e)s
+vous êtes refermé(e)s
+ils (elles) sont refermé(e)s
+
+** Imparfait
+
+j'étais refermé(e)
+tu étais refermé(e)
+il (elle) était refermé(e)
+nous étions refermé(e)s
+vous étiez refermé(e)s
+ils (elles) étaient refermé(e)s
+
+** Passé simple
+
+je fus refermé(e)
+tu fus refermé(e)
+il (elle) fut refermé(e)
+nous fûmes refermé(e)s
+vous fûtes refermé(e)s
+ils (elles) furent refermé(e)s
+
+** Futur simple
+
+je serai refermé(e)
+tu seras refermé(e)
+il (elle) sera refermé(e)
+nous serons refermé(e)s
+vous serez refermé(e)s
+ils (elles) seront refermé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais refermé(e)
+tu serais refermé(e)
+il (elle) serait refermé(e)
+nous serions refermé(e)s
+vous seriez refermé(e)s
+ils (elles) seraient refermé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois refermé(e)
+que tu sois refermé(e)
+qu’il (elle) soit refermé(e)
+que nous soyons refermé(e)s
+que vous soyez refermé(e)s
+qu’ils (elles) soient refermé(e)s
+
+** Imparfait
+
+que je fusse refermé(e)
+que tu fusses refermé(e)
+qu’il (elle) fût refermé(e)
+que nous fussions refermé(e)s
+que vous fussiez refermé(e)s
+qu’ils (elles) fussent refermé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons refermé(e)s
+soyez refermé(e)s
+
+* INFINITIF
+
+** Présent
+
+être refermé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant refermé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été refermé(e)
+tu as été refermé(e)
+il (elle) a été refermé(e)
+nous avons été refermé(e)s
+vous avez été refermé(e)s
+ils (elles) ont été refermé(e)s
+
+** Plus-que-parfait
+
+j'avais été refermé(e)
+il (elle) avait été refermé(e)
+nous avions été refermé(e)s
+ils (elles) avaient été refermé(e)s
+
+** Passé antérieur
+
+j'eus été refermé(e)
+tu eus été refermé(e)
+il (elle) eut été refermé(e)
+nous eûmes été refermé(e)s
+vous eûtes été refermé(e)s
+ils (elles) eurent été refermé(e)s
+
+** Futur antérieur
+
+j'aurai été refermé(e)
+tu auras été refermé(e)
+il (elle) aura été refermé(e)
+nous aurons été refermé(e)s
+vous aurez été refermé(e)s
+ils (elles) auront été refermé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été refermé(e)
+j'aurais été refermé(e)
+il (elle) aurait été refermé(e)
+nous aurions été refermé(e)s
+vous auriez été refermé(e)s
+ils (elles) auraient été refermé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été refermé(e)
+que tu aies été refermé(e)
+qu’il (elle) ait été refermé(e)
+que nous ayons été refermé(e)s
+que vous ayez été refermé(e)s
+qu’ils (elles) aient été refermé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été refermé(e)
+que tu eusses été refermé(e)
+qu’il (elle) eût été refermé(e)
+que nous eussions été refermé(e)s
+que vous eussiez été refermé(e)s
+qu’ils (elles) eussent été refermé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été refermé(e)
+ayons été refermé(e)s
+ayez été refermé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été refermé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été refermé(e)(s)

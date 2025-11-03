@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deployer
+
+* INDICATIF
+
+** Présent
+
+je déploie
+tu déploies
+il (elle) déploie
+nous déployons
+vous déployez
+ils (elles) déploient
+
+** Imparfait
+
+je déployais
+tu déployais
+il (elle) déployait
+nous déployions
+vous déployiez
+ils (elles) déployaient
+
+** Passé simple
+
+je déployai
+tu déployas
+il (elle) déploya
+nous déployâmes
+vous déployâtes
+ils (elles) déployèrent
+
+** Futur simple
+
+je déploierai
+tu déploieras
+il (elle) déploiera
+nous déploierons
+vous déploierez
+ils (elles) déploieront
+
+* CONDITIONNEL
+
+** Présent
+
+je déploierais
+tu déploierais
+il (elle) déploierait
+nous déploierions
+vous déploieriez
+ils (elles) déploieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déploie
+que tu déploies
+qu’il (elle) déploie
+que nous déployions
+que vous déployiez
+qu’ils (elles) déploient
+
+** Imparfait
+
+que je déployasse
+que tu déployasses
+qu’il (elle) déployât
+que nous déployassions
+que vous déployassiez
+qu’ils (elles) déployassent
+
+* IMPÉRATIF
+
+** Présent
+
+déploie
+déployons
+déployez
+
+* INFINITIF
+
+** Présent
+
+déployer
+
+* PARTICIPE
+
+** Présent
+
+déployant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déployé
+tu as déployé
+il (elle) a déployé
+nous avons déployé
+vous avez déployé
+ils (elles) ont déployé
+
+** Plus-que-parfait
+
+j'avais déployé
+tu avais déployé
+il (elle) avait déployé
+nous avions déployé
+vous aviez déployé
+ils (elles) avaient déployé
+
+** Passé antérieur
+
+j'eus déployé
+tu eus déployé
+il (elle) eut déployé
+nous eûmes déployé
+vous eûtes déployé
+ils (elles) eurent déployé
+
+** Futur antérieur
+
+j'aurai déployé
+tu auras déployé
+il (elle) aura déployé
+nous aurons déployé
+vous aurez déployé
+ils (elles) auront déployé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déployé
+tu aurais déployé
+il (elle) aurait déployé
+nous aurions déployé
+vous auriez déployé
+ils (elles) auraient déployé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déployé
+que tu aies déployé
+qu’il (elle) ait déployé
+que nous ayons déployé
+que vous ayez déployé
+qu’ils (elles) aient déployé
+
+** Plus-que-parfait
+
+que j'eusse déployé
+que tu eusses déployé
+qu’il (elle) eût déployé
+que nous eussions déployé
+que vous eussiez déployé
+qu’ils (elles) eussent déployé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déployé
+ayez déployé
+
+* INFINITIF
+
+** Passé
+
+avoir déployé
+
+* PARTICIPE
+
+** Passé
+
+ayant déployé
+déployé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis déployé(e)
+tu es déployé(e)
+il (elle) est déployé(e)
+nous sommes déployé(e)s
+vous êtes déployé(e)s
+ils (elles) sont déployé(e)s
+
+** Imparfait
+
+j'étais déployé(e)
+tu étais déployé(e)
+il (elle) était déployé(e)
+nous étions déployé(e)s
+vous étiez déployé(e)s
+ils (elles) étaient déployé(e)s
+
+** Passé simple
+
+je fus déployé(e)
+tu fus déployé(e)
+il (elle) fut déployé(e)
+nous fûmes déployé(e)s
+vous fûtes déployé(e)s
+ils (elles) furent déployé(e)s
+
+** Futur simple
+
+je serai déployé(e)
+tu seras déployé(e)
+il (elle) sera déployé(e)
+nous serons déployé(e)s
+vous serez déployé(e)s
+ils (elles) seront déployé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais déployé(e)
+tu serais déployé(e)
+il (elle) serait déployé(e)
+nous serions déployé(e)s
+vous seriez déployé(e)s
+ils (elles) seraient déployé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois déployé(e)
+que tu sois déployé(e)
+qu’il (elle) soit déployé(e)
+que nous soyons déployé(e)s
+que vous soyez déployé(e)s
+qu’ils (elles) soient déployé(e)s
+
+** Imparfait
+
+que je fusse déployé(e)
+que tu fusses déployé(e)
+qu’il (elle) fût déployé(e)
+que nous fussions déployé(e)s
+que vous fussiez déployé(e)s
+qu’ils (elles) fussent déployé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons déployé(e)s
+soyez déployé(e)s
+
+* INFINITIF
+
+** Présent
+
+être déployé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant déployé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été déployé(e)
+tu as été déployé(e)
+il (elle) a été déployé(e)
+nous avons été déployé(e)s
+vous avez été déployé(e)s
+ils (elles) ont été déployé(e)s
+
+** Plus-que-parfait
+
+j'avais été déployé(e)
+il (elle) avait été déployé(e)
+nous avions été déployé(e)s
+ils (elles) avaient été déployé(e)s
+
+** Passé antérieur
+
+j'eus été déployé(e)
+tu eus été déployé(e)
+il (elle) eut été déployé(e)
+nous eûmes été déployé(e)s
+vous eûtes été déployé(e)s
+ils (elles) eurent été déployé(e)s
+
+** Futur antérieur
+
+j'aurai été déployé(e)
+tu auras été déployé(e)
+il (elle) aura été déployé(e)
+nous aurons été déployé(e)s
+vous aurez été déployé(e)s
+ils (elles) auront été déployé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été déployé(e)
+j'aurais été déployé(e)
+il (elle) aurait été déployé(e)
+nous aurions été déployé(e)s
+vous auriez été déployé(e)s
+ils (elles) auraient été déployé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été déployé(e)
+que tu aies été déployé(e)
+qu’il (elle) ait été déployé(e)
+que nous ayons été déployé(e)s
+que vous ayez été déployé(e)s
+qu’ils (elles) aient été déployé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été déployé(e)
+que tu eusses été déployé(e)
+qu’il (elle) eût été déployé(e)
+que nous eussions été déployé(e)s
+que vous eussiez été déployé(e)s
+qu’ils (elles) eussent été déployé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été déployé(e)
+ayons été déployé(e)s
+ayez été déployé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été déployé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été déployé(e)(s)

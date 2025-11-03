@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe apparaitre
+
+* INDICATIF
+
+** Présent
+
+j'apparais
+tu apparais
+il (elle) apparaît
+nous apparaissons
+vous apparaissez
+ils (elles) apparaissent
+
+** Imparfait
+
+j'apparaissais
+tu apparaissais
+il (elle) apparaissait
+nous apparaissions
+vous apparaissiez
+ils (elles) apparaissaient
+
+** Passé simple
+
+j'apparus
+tu apparus
+il (elle) apparut
+nous apparûmes
+vous apparûtes
+ils (elles) apparurent
+
+** Futur simple
+
+j'apparaîtrai
+tu apparaîtras
+il (elle) apparaîtra
+nous apparaîtrons
+vous apparaîtrez
+ils (elles) apparaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apparaîtrais
+tu apparaîtrais
+il (elle) apparaîtrait
+nous apparaîtrions
+vous apparaîtriez
+ils (elles) apparaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apparaisse
+que tu apparaisses
+qu’il (elle) apparaisse
+que nous apparaissions
+que vous apparaissiez
+qu’ils (elles) apparaissent
+
+** Imparfait
+
+que j'apparusse
+que tu apparusses
+qu’il (elle) apparût
+que nous apparussions
+que vous apparussiez
+qu’ils (elles) apparussent
+
+* IMPÉRATIF
+
+** Présent
+
+apparais
+apparaissons
+apparaissez
+
+* INFINITIF
+
+** Présent
+
+apparaître
+
+* PARTICIPE
+
+** Présent
+
+apparaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis apparu(e)
+tu as ou es apparu(e)
+il (elle) a ou est apparu(e)
+nous avons ou sommes apparu(e)s
+vous avez ou êtes apparu(e)s
+ils (elles) ont ou sont apparu(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais apparu(e)
+tu avais ou étais apparu(e)
+il (elle) avait ou était apparu(e)
+nous avions ou étions apparu(e)s
+vous aviez ou étiez apparu(e)s
+ils (elles) avaient ou étaient apparu(e)s
+
+** Passé antérieur
+
+j'eus ou fus apparu(e)
+tu eus ou fus apparu(e)
+il (elle) eut ou fut apparu(e)
+nous eûmes ou fûmes apparu(e)s
+vous eûtes ou fûtes apparu(e)s
+ils (elles) eurent ou furent apparu(e)s
+
+** Futur antérieur
+
+j'aurai ou serai apparu(e)
+tu auras ou seras apparu(e)
+il (elle) aura ou sera apparu(e)
+nous aurons ou serons apparu(e)s
+vous aurez ou serez apparu(e)s
+ils (elles) auront ou seront apparu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais apparu(e)
+tu aurais ou serais apparu(e)
+il (elle) aurait ou serait apparu(e)
+nous aurions ou serions apparu(e)s
+vous auriez ou seriez apparu(e)s
+ils (elles) auraient ou seraient apparu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois apparu(e)
+que tu aies ou sois apparu(e)
+qu’il (elle) ait ou soit apparu(e)
+que nous ayons ou soyons apparu(e)s
+que vous ayez ou soyez apparu(e)s
+qu’ils (elles) aient ou soient apparu(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse apparu(e)
+que tu eusses ou fusses apparu(e)
+qu’il (elle) eût ou fût apparu(e)
+que nous eussions ou fussions apparu(e)s
+que vous eussiez ou fussiez apparu(e)s
+qu’ils (elles) eussent ou fussent apparu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons apparu(e)s
+ayez ou soyez apparu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être apparu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant apparu(e)(s)
+apparu (u, ue, us, ues)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe terminer
+
+* INDICATIF
+
+** Présent
+
+je termine
+tu termines
+il (elle) termine
+nous terminons
+vous terminez
+ils (elles) terminent
+
+** Imparfait
+
+je terminais
+tu terminais
+il (elle) terminait
+nous terminions
+vous terminiez
+ils (elles) terminaient
+
+** Passé simple
+
+je terminai
+tu terminas
+il (elle) termina
+nous terminâmes
+vous terminâtes
+ils (elles) terminèrent
+
+** Futur simple
+
+je terminerai
+tu termineras
+il (elle) terminera
+nous terminerons
+vous terminerez
+ils (elles) termineront
+
+* CONDITIONNEL
+
+** Présent
+
+je terminerais
+tu terminerais
+il (elle) terminerait
+nous terminerions
+vous termineriez
+ils (elles) termineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je termine
+que tu termines
+qu’il (elle) termine
+que nous terminions
+que vous terminiez
+qu’ils (elles) terminent
+
+** Imparfait
+
+que je terminasse
+que tu terminasses
+qu’il (elle) terminât
+que nous terminassions
+que vous terminassiez
+qu’ils (elles) terminassent
+
+* IMPÉRATIF
+
+** Présent
+
+termine
+terminons
+terminez
+
+* INFINITIF
+
+** Présent
+
+terminer
+
+* PARTICIPE
+
+** Présent
+
+terminant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai terminé
+tu as terminé
+il (elle) a terminé
+nous avons terminé
+vous avez terminé
+ils (elles) ont terminé
+
+** Plus-que-parfait
+
+j'avais terminé
+tu avais terminé
+il (elle) avait terminé
+nous avions terminé
+vous aviez terminé
+ils (elles) avaient terminé
+
+** Passé antérieur
+
+j'eus terminé
+tu eus terminé
+il (elle) eut terminé
+nous eûmes terminé
+vous eûtes terminé
+ils (elles) eurent terminé
+
+** Futur antérieur
+
+j'aurai terminé
+tu auras terminé
+il (elle) aura terminé
+nous aurons terminé
+vous aurez terminé
+ils (elles) auront terminé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais terminé
+tu aurais terminé
+il (elle) aurait terminé
+nous aurions terminé
+vous auriez terminé
+ils (elles) auraient terminé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie terminé
+que tu aies terminé
+qu’il (elle) ait terminé
+que nous ayons terminé
+que vous ayez terminé
+qu’ils (elles) aient terminé
+
+** Plus-que-parfait
+
+que j'eusse terminé
+que tu eusses terminé
+qu’il (elle) eût terminé
+que nous eussions terminé
+que vous eussiez terminé
+qu’ils (elles) eussent terminé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons terminé
+ayez terminé
+
+* INFINITIF
+
+** Passé
+
+avoir terminé
+
+* PARTICIPE
+
+** Passé
+
+ayant terminé
+terminé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis terminé(e)
+tu es terminé(e)
+il (elle) est terminé(e)
+nous sommes terminé(e)s
+vous êtes terminé(e)s
+ils (elles) sont terminé(e)s
+
+** Imparfait
+
+j'étais terminé(e)
+tu étais terminé(e)
+il (elle) était terminé(e)
+nous étions terminé(e)s
+vous étiez terminé(e)s
+ils (elles) étaient terminé(e)s
+
+** Passé simple
+
+je fus terminé(e)
+tu fus terminé(e)
+il (elle) fut terminé(e)
+nous fûmes terminé(e)s
+vous fûtes terminé(e)s
+ils (elles) furent terminé(e)s
+
+** Futur simple
+
+je serai terminé(e)
+tu seras terminé(e)
+il (elle) sera terminé(e)
+nous serons terminé(e)s
+vous serez terminé(e)s
+ils (elles) seront terminé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais terminé(e)
+tu serais terminé(e)
+il (elle) serait terminé(e)
+nous serions terminé(e)s
+vous seriez terminé(e)s
+ils (elles) seraient terminé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois terminé(e)
+que tu sois terminé(e)
+qu’il (elle) soit terminé(e)
+que nous soyons terminé(e)s
+que vous soyez terminé(e)s
+qu’ils (elles) soient terminé(e)s
+
+** Imparfait
+
+que je fusse terminé(e)
+que tu fusses terminé(e)
+qu’il (elle) fût terminé(e)
+que nous fussions terminé(e)s
+que vous fussiez terminé(e)s
+qu’ils (elles) fussent terminé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons terminé(e)s
+soyez terminé(e)s
+
+* INFINITIF
+
+** Présent
+
+être terminé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant terminé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été terminé(e)
+tu as été terminé(e)
+il (elle) a été terminé(e)
+nous avons été terminé(e)s
+vous avez été terminé(e)s
+ils (elles) ont été terminé(e)s
+
+** Plus-que-parfait
+
+j'avais été terminé(e)
+il (elle) avait été terminé(e)
+nous avions été terminé(e)s
+ils (elles) avaient été terminé(e)s
+
+** Passé antérieur
+
+j'eus été terminé(e)
+tu eus été terminé(e)
+il (elle) eut été terminé(e)
+nous eûmes été terminé(e)s
+vous eûtes été terminé(e)s
+ils (elles) eurent été terminé(e)s
+
+** Futur antérieur
+
+j'aurai été terminé(e)
+tu auras été terminé(e)
+il (elle) aura été terminé(e)
+nous aurons été terminé(e)s
+vous aurez été terminé(e)s
+ils (elles) auront été terminé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été terminé(e)
+j'aurais été terminé(e)
+il (elle) aurait été terminé(e)
+nous aurions été terminé(e)s
+vous auriez été terminé(e)s
+ils (elles) auraient été terminé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été terminé(e)
+que tu aies été terminé(e)
+qu’il (elle) ait été terminé(e)
+que nous ayons été terminé(e)s
+que vous ayez été terminé(e)s
+qu’ils (elles) aient été terminé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été terminé(e)
+que tu eusses été terminé(e)
+qu’il (elle) eût été terminé(e)
+que nous eussions été terminé(e)s
+que vous eussiez été terminé(e)s
+qu’ils (elles) eussent été terminé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été terminé(e)
+ayons été terminé(e)s
+ayez été terminé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été terminé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été terminé(e)(s)

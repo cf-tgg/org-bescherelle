@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe caler
+
+* INDICATIF
+
+** Présent
+
+je cale
+tu cales
+il (elle) cale
+nous calons
+vous calez
+ils (elles) calent
+
+** Imparfait
+
+je calais
+tu calais
+il (elle) calait
+nous calions
+vous caliez
+ils (elles) calaient
+
+** Passé simple
+
+je calai
+tu calas
+il (elle) cala
+nous calâmes
+vous calâtes
+ils (elles) calèrent
+
+** Futur simple
+
+je calerai
+tu caleras
+il (elle) calera
+nous calerons
+vous calerez
+ils (elles) caleront
+
+* CONDITIONNEL
+
+** Présent
+
+je calerais
+tu calerais
+il (elle) calerait
+nous calerions
+vous caleriez
+ils (elles) caleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cale
+que tu cales
+qu’il (elle) cale
+que nous calions
+que vous caliez
+qu’ils (elles) calent
+
+** Imparfait
+
+que je calasse
+que tu calasses
+qu’il (elle) calât
+que nous calassions
+que vous calassiez
+qu’ils (elles) calassent
+
+* IMPÉRATIF
+
+** Présent
+
+cale
+calons
+calez
+
+* INFINITIF
+
+** Présent
+
+caler
+
+* PARTICIPE
+
+** Présent
+
+calant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai calé
+tu as calé
+il (elle) a calé
+nous avons calé
+vous avez calé
+ils (elles) ont calé
+
+** Plus-que-parfait
+
+j'avais calé
+tu avais calé
+il (elle) avait calé
+nous avions calé
+vous aviez calé
+ils (elles) avaient calé
+
+** Passé antérieur
+
+j'eus calé
+tu eus calé
+il (elle) eut calé
+nous eûmes calé
+vous eûtes calé
+ils (elles) eurent calé
+
+** Futur antérieur
+
+j'aurai calé
+tu auras calé
+il (elle) aura calé
+nous aurons calé
+vous aurez calé
+ils (elles) auront calé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais calé
+tu aurais calé
+il (elle) aurait calé
+nous aurions calé
+vous auriez calé
+ils (elles) auraient calé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie calé
+que tu aies calé
+qu’il (elle) ait calé
+que nous ayons calé
+que vous ayez calé
+qu’ils (elles) aient calé
+
+** Plus-que-parfait
+
+que j'eusse calé
+que tu eusses calé
+qu’il (elle) eût calé
+que nous eussions calé
+que vous eussiez calé
+qu’ils (elles) eussent calé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons calé
+ayez calé
+
+* INFINITIF
+
+** Passé
+
+avoir calé
+
+* PARTICIPE
+
+** Passé
+
+ayant calé
+calé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis calé(e)
+tu es calé(e)
+il (elle) est calé(e)
+nous sommes calé(e)s
+vous êtes calé(e)s
+ils (elles) sont calé(e)s
+
+** Imparfait
+
+j'étais calé(e)
+tu étais calé(e)
+il (elle) était calé(e)
+nous étions calé(e)s
+vous étiez calé(e)s
+ils (elles) étaient calé(e)s
+
+** Passé simple
+
+je fus calé(e)
+tu fus calé(e)
+il (elle) fut calé(e)
+nous fûmes calé(e)s
+vous fûtes calé(e)s
+ils (elles) furent calé(e)s
+
+** Futur simple
+
+je serai calé(e)
+tu seras calé(e)
+il (elle) sera calé(e)
+nous serons calé(e)s
+vous serez calé(e)s
+ils (elles) seront calé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais calé(e)
+tu serais calé(e)
+il (elle) serait calé(e)
+nous serions calé(e)s
+vous seriez calé(e)s
+ils (elles) seraient calé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois calé(e)
+que tu sois calé(e)
+qu’il (elle) soit calé(e)
+que nous soyons calé(e)s
+que vous soyez calé(e)s
+qu’ils (elles) soient calé(e)s
+
+** Imparfait
+
+que je fusse calé(e)
+que tu fusses calé(e)
+qu’il (elle) fût calé(e)
+que nous fussions calé(e)s
+que vous fussiez calé(e)s
+qu’ils (elles) fussent calé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons calé(e)s
+soyez calé(e)s
+
+* INFINITIF
+
+** Présent
+
+être calé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant calé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été calé(e)
+tu as été calé(e)
+il (elle) a été calé(e)
+nous avons été calé(e)s
+vous avez été calé(e)s
+ils (elles) ont été calé(e)s
+
+** Plus-que-parfait
+
+j'avais été calé(e)
+il (elle) avait été calé(e)
+nous avions été calé(e)s
+ils (elles) avaient été calé(e)s
+
+** Passé antérieur
+
+j'eus été calé(e)
+tu eus été calé(e)
+il (elle) eut été calé(e)
+nous eûmes été calé(e)s
+vous eûtes été calé(e)s
+ils (elles) eurent été calé(e)s
+
+** Futur antérieur
+
+j'aurai été calé(e)
+tu auras été calé(e)
+il (elle) aura été calé(e)
+nous aurons été calé(e)s
+vous aurez été calé(e)s
+ils (elles) auront été calé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été calé(e)
+j'aurais été calé(e)
+il (elle) aurait été calé(e)
+nous aurions été calé(e)s
+vous auriez été calé(e)s
+ils (elles) auraient été calé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été calé(e)
+que tu aies été calé(e)
+qu’il (elle) ait été calé(e)
+que nous ayons été calé(e)s
+que vous ayez été calé(e)s
+qu’ils (elles) aient été calé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été calé(e)
+que tu eusses été calé(e)
+qu’il (elle) eût été calé(e)
+que nous eussions été calé(e)s
+que vous eussiez été calé(e)s
+qu’ils (elles) eussent été calé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été calé(e)
+ayons été calé(e)s
+ayez été calé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été calé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été calé(e)(s)

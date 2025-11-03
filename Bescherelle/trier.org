@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe trier
+
+* INDICATIF
+
+** Présent
+
+je trie
+tu tries
+il (elle) trie
+nous trions
+vous triez
+ils (elles) trient
+
+** Imparfait
+
+je triais
+tu triais
+il (elle) triait
+nous triions
+vous triiez
+ils (elles) triaient
+
+** Passé simple
+
+je triai
+tu trias
+il (elle) tria
+nous triâmes
+vous triâtes
+ils (elles) trièrent
+
+** Futur simple
+
+je trierai
+tu trieras
+il (elle) triera
+nous trierons
+vous trierez
+ils (elles) trieront
+
+* CONDITIONNEL
+
+** Présent
+
+je trierais
+tu trierais
+il (elle) trierait
+nous trierions
+vous trieriez
+ils (elles) trieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trie
+que tu tries
+qu’il (elle) trie
+que nous triions
+que vous triiez
+qu’ils (elles) trient
+
+** Imparfait
+
+que je triasse
+que tu triasses
+qu’il (elle) triât
+que nous triassions
+que vous triassiez
+qu’ils (elles) triassent
+
+* IMPÉRATIF
+
+** Présent
+
+trie
+trions
+triez
+
+* INFINITIF
+
+** Présent
+
+trier
+
+* PARTICIPE
+
+** Présent
+
+triant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trié
+tu as trié
+il (elle) a trié
+nous avons trié
+vous avez trié
+ils (elles) ont trié
+
+** Plus-que-parfait
+
+j'avais trié
+tu avais trié
+il (elle) avait trié
+nous avions trié
+vous aviez trié
+ils (elles) avaient trié
+
+** Passé antérieur
+
+j'eus trié
+tu eus trié
+il (elle) eut trié
+nous eûmes trié
+vous eûtes trié
+ils (elles) eurent trié
+
+** Futur antérieur
+
+j'aurai trié
+tu auras trié
+il (elle) aura trié
+nous aurons trié
+vous aurez trié
+ils (elles) auront trié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trié
+tu aurais trié
+il (elle) aurait trié
+nous aurions trié
+vous auriez trié
+ils (elles) auraient trié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trié
+que tu aies trié
+qu’il (elle) ait trié
+que nous ayons trié
+que vous ayez trié
+qu’ils (elles) aient trié
+
+** Plus-que-parfait
+
+que j'eusse trié
+que tu eusses trié
+qu’il (elle) eût trié
+que nous eussions trié
+que vous eussiez trié
+qu’ils (elles) eussent trié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trié
+ayez trié
+
+* INFINITIF
+
+** Passé
+
+avoir trié
+
+* PARTICIPE
+
+** Passé
+
+ayant trié
+trié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis trié(e)
+tu es trié(e)
+il (elle) est trié(e)
+nous sommes trié(e)s
+vous êtes trié(e)s
+ils (elles) sont trié(e)s
+
+** Imparfait
+
+j'étais trié(e)
+tu étais trié(e)
+il (elle) était trié(e)
+nous étions trié(e)s
+vous étiez trié(e)s
+ils (elles) étaient trié(e)s
+
+** Passé simple
+
+je fus trié(e)
+tu fus trié(e)
+il (elle) fut trié(e)
+nous fûmes trié(e)s
+vous fûtes trié(e)s
+ils (elles) furent trié(e)s
+
+** Futur simple
+
+je serai trié(e)
+tu seras trié(e)
+il (elle) sera trié(e)
+nous serons trié(e)s
+vous serez trié(e)s
+ils (elles) seront trié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trié(e)
+tu serais trié(e)
+il (elle) serait trié(e)
+nous serions trié(e)s
+vous seriez trié(e)s
+ils (elles) seraient trié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trié(e)
+que tu sois trié(e)
+qu’il (elle) soit trié(e)
+que nous soyons trié(e)s
+que vous soyez trié(e)s
+qu’ils (elles) soient trié(e)s
+
+** Imparfait
+
+que je fusse trié(e)
+que tu fusses trié(e)
+qu’il (elle) fût trié(e)
+que nous fussions trié(e)s
+que vous fussiez trié(e)s
+qu’ils (elles) fussent trié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trié(e)s
+soyez trié(e)s
+
+* INFINITIF
+
+** Présent
+
+être trié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trié(e)
+tu as été trié(e)
+il (elle) a été trié(e)
+nous avons été trié(e)s
+vous avez été trié(e)s
+ils (elles) ont été trié(e)s
+
+** Plus-que-parfait
+
+j'avais été trié(e)
+il (elle) avait été trié(e)
+nous avions été trié(e)s
+ils (elles) avaient été trié(e)s
+
+** Passé antérieur
+
+j'eus été trié(e)
+tu eus été trié(e)
+il (elle) eut été trié(e)
+nous eûmes été trié(e)s
+vous eûtes été trié(e)s
+ils (elles) eurent été trié(e)s
+
+** Futur antérieur
+
+j'aurai été trié(e)
+tu auras été trié(e)
+il (elle) aura été trié(e)
+nous aurons été trié(e)s
+vous aurez été trié(e)s
+ils (elles) auront été trié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trié(e)
+j'aurais été trié(e)
+il (elle) aurait été trié(e)
+nous aurions été trié(e)s
+vous auriez été trié(e)s
+ils (elles) auraient été trié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trié(e)
+que tu aies été trié(e)
+qu’il (elle) ait été trié(e)
+que nous ayons été trié(e)s
+que vous ayez été trié(e)s
+qu’ils (elles) aient été trié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trié(e)
+que tu eusses été trié(e)
+qu’il (elle) eût été trié(e)
+que nous eussions été trié(e)s
+que vous eussiez été trié(e)s
+qu’ils (elles) eussent été trié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trié(e)
+ayons été trié(e)s
+ayez été trié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trié(e)(s)

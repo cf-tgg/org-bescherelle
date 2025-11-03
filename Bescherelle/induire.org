@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe induire
+
+* INDICATIF
+
+** Présent
+
+j'induis
+tu induis
+il (elle) induit
+nous induisons
+vous induisez
+ils (elles) induisent
+
+** Imparfait
+
+j'induisais
+tu induisais
+il (elle) induisait
+nous induisions
+vous induisiez
+ils (elles) induisaient
+
+** Passé simple
+
+j'induisis
+tu induisis
+il (elle) induisit
+nous induisîmes
+vous induisîtes
+ils (elles) induisirent
+
+** Futur simple
+
+j'induirai
+tu induiras
+il (elle) induira
+nous induirons
+vous induirez
+ils (elles) induiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'induirais
+tu induirais
+il (elle) induirait
+nous induirions
+vous induiriez
+ils (elles) induiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'induise
+que tu induises
+qu’il (elle) induise
+que nous induisions
+que vous induisiez
+qu’ils (elles) induisent
+
+** Imparfait
+
+que j'induisisse
+que tu induisisses
+qu’il (elle) induisît
+que nous induisissions
+que vous induisissiez
+qu’ils (elles) induisissent
+
+* IMPÉRATIF
+
+** Présent
+
+induis
+induisons
+induisez
+
+* INFINITIF
+
+** Présent
+
+induire
+
+* PARTICIPE
+
+** Présent
+
+induisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai induit
+tu as induit
+il (elle) a induit
+nous avons induit
+vous avez induit
+ils (elles) ont induit
+
+** Plus-que-parfait
+
+j'avais induit
+tu avais induit
+il (elle) avait induit
+nous avions induit
+vous aviez induit
+ils (elles) avaient induit
+
+** Passé antérieur
+
+j'eus induit
+tu eus induit
+il (elle) eut induit
+nous eûmes induit
+vous eûtes induit
+ils (elles) eurent induit
+
+** Futur antérieur
+
+j'aurai induit
+tu auras induit
+il (elle) aura induit
+nous aurons induit
+vous aurez induit
+ils (elles) auront induit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais induit
+tu aurais induit
+il (elle) aurait induit
+nous aurions induit
+vous auriez induit
+ils (elles) auraient induit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie induit
+que tu aies induit
+qu’il (elle) ait induit
+que nous ayons induit
+que vous ayez induit
+qu’ils (elles) aient induit
+
+** Plus-que-parfait
+
+que j'eusse induit
+que tu eusses induit
+qu’il (elle) eût induit
+que nous eussions induit
+que vous eussiez induit
+qu’ils (elles) eussent induit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons induit
+ayez induit
+
+* INFINITIF
+
+** Passé
+
+avoir induit
+
+* PARTICIPE
+
+** Passé
+
+ayant induit
+induit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis induit(e)
+tu es induit(e)
+il (elle) est induit(e)
+nous sommes induit(e)s
+vous êtes induit(e)s
+ils (elles) sont induit(e)s
+
+** Imparfait
+
+j'étais induit(e)
+tu étais induit(e)
+il (elle) était induit(e)
+nous étions induit(e)s
+vous étiez induit(e)s
+ils (elles) étaient induit(e)s
+
+** Passé simple
+
+je fus induit(e)
+tu fus induit(e)
+il (elle) fut induit(e)
+nous fûmes induit(e)s
+vous fûtes induit(e)s
+ils (elles) furent induit(e)s
+
+** Futur simple
+
+je serai induit(e)
+tu seras induit(e)
+il (elle) sera induit(e)
+nous serons induit(e)s
+vous serez induit(e)s
+ils (elles) seront induit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais induit(e)
+tu serais induit(e)
+il (elle) serait induit(e)
+nous serions induit(e)s
+vous seriez induit(e)s
+ils (elles) seraient induit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois induit(e)
+que tu sois induit(e)
+qu’il (elle) soit induit(e)
+que nous soyons induit(e)s
+que vous soyez induit(e)s
+qu’ils (elles) soient induit(e)s
+
+** Imparfait
+
+que je fusse induit(e)
+que tu fusses induit(e)
+qu’il (elle) fût induit(e)
+que nous fussions induit(e)s
+que vous fussiez induit(e)s
+qu’ils (elles) fussent induit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons induit(e)s
+soyez induit(e)s
+
+* INFINITIF
+
+** Présent
+
+être induit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant induit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été induit(e)
+tu as été induit(e)
+il (elle) a été induit(e)
+nous avons été induit(e)s
+vous avez été induit(e)s
+ils (elles) ont été induit(e)s
+
+** Plus-que-parfait
+
+j'avais été induit(e)
+il (elle) avait été induit(e)
+nous avions été induit(e)s
+ils (elles) avaient été induit(e)s
+
+** Passé antérieur
+
+j'eus été induit(e)
+tu eus été induit(e)
+il (elle) eut été induit(e)
+nous eûmes été induit(e)s
+vous eûtes été induit(e)s
+ils (elles) eurent été induit(e)s
+
+** Futur antérieur
+
+j'aurai été induit(e)
+tu auras été induit(e)
+il (elle) aura été induit(e)
+nous aurons été induit(e)s
+vous aurez été induit(e)s
+ils (elles) auront été induit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été induit(e)
+j'aurais été induit(e)
+il (elle) aurait été induit(e)
+nous aurions été induit(e)s
+vous auriez été induit(e)s
+ils (elles) auraient été induit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été induit(e)
+que tu aies été induit(e)
+qu’il (elle) ait été induit(e)
+que nous ayons été induit(e)s
+que vous ayez été induit(e)s
+qu’ils (elles) aient été induit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été induit(e)
+que tu eusses été induit(e)
+qu’il (elle) eût été induit(e)
+que nous eussions été induit(e)s
+que vous eussiez été induit(e)s
+qu’ils (elles) eussent été induit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été induit(e)
+ayons été induit(e)s
+ayez été induit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été induit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été induit(e)(s)

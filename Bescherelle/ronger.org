@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ronger
+
+* INDICATIF
+
+** Présent
+
+je ronge
+tu ronges
+il (elle) ronge
+nous rongeons
+vous rongez
+ils (elles) rongent
+
+** Imparfait
+
+je rongeais
+tu rongeais
+il (elle) rongeait
+nous rongions
+vous rongiez
+ils (elles) rongeaient
+
+** Passé simple
+
+je rongeai
+tu rongeas
+il (elle) rongea
+nous rongeâmes
+vous rongeâtes
+ils (elles) rongèrent
+
+** Futur simple
+
+je rongerai
+tu rongeras
+il (elle) rongera
+nous rongerons
+vous rongerez
+ils (elles) rongeront
+
+* CONDITIONNEL
+
+** Présent
+
+je rongerais
+tu rongerais
+il (elle) rongerait
+nous rongerions
+vous rongeriez
+ils (elles) rongeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ronge
+que tu ronges
+qu’il (elle) ronge
+que nous rongions
+que vous rongiez
+qu’ils (elles) rongent
+
+** Imparfait
+
+que je rongeasse
+que tu rongeasses
+qu’il (elle) rongeât
+que nous rongeassions
+que vous rongeassiez
+qu’ils (elles) rongeassent
+
+* IMPÉRATIF
+
+** Présent
+
+ronge
+rongeons
+rongez
+
+* INFINITIF
+
+** Présent
+
+ronger
+
+* PARTICIPE
+
+** Présent
+
+rongeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rongé
+tu as rongé
+il (elle) a rongé
+nous avons rongé
+vous avez rongé
+ils (elles) ont rongé
+
+** Plus-que-parfait
+
+j'avais rongé
+tu avais rongé
+il (elle) avait rongé
+nous avions rongé
+vous aviez rongé
+ils (elles) avaient rongé
+
+** Passé antérieur
+
+j'eus rongé
+tu eus rongé
+il (elle) eut rongé
+nous eûmes rongé
+vous eûtes rongé
+ils (elles) eurent rongé
+
+** Futur antérieur
+
+j'aurai rongé
+tu auras rongé
+il (elle) aura rongé
+nous aurons rongé
+vous aurez rongé
+ils (elles) auront rongé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rongé
+tu aurais rongé
+il (elle) aurait rongé
+nous aurions rongé
+vous auriez rongé
+ils (elles) auraient rongé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rongé
+que tu aies rongé
+qu’il (elle) ait rongé
+que nous ayons rongé
+que vous ayez rongé
+qu’ils (elles) aient rongé
+
+** Plus-que-parfait
+
+que j'eusse rongé
+que tu eusses rongé
+qu’il (elle) eût rongé
+que nous eussions rongé
+que vous eussiez rongé
+qu’ils (elles) eussent rongé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rongé
+ayez rongé
+
+* INFINITIF
+
+** Passé
+
+avoir rongé
+
+* PARTICIPE
+
+** Passé
+
+ayant rongé
+rongé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rongé(e)
+tu es rongé(e)
+il (elle) est rongé(e)
+nous sommes rongé(e)s
+vous êtes rongé(e)s
+ils (elles) sont rongé(e)s
+
+** Imparfait
+
+j'étais rongé(e)
+tu étais rongé(e)
+il (elle) était rongé(e)
+nous étions rongé(e)s
+vous étiez rongé(e)s
+ils (elles) étaient rongé(e)s
+
+** Passé simple
+
+je fus rongé(e)
+tu fus rongé(e)
+il (elle) fut rongé(e)
+nous fûmes rongé(e)s
+vous fûtes rongé(e)s
+ils (elles) furent rongé(e)s
+
+** Futur simple
+
+je serai rongé(e)
+tu seras rongé(e)
+il (elle) sera rongé(e)
+nous serons rongé(e)s
+vous serez rongé(e)s
+ils (elles) seront rongé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rongé(e)
+tu serais rongé(e)
+il (elle) serait rongé(e)
+nous serions rongé(e)s
+vous seriez rongé(e)s
+ils (elles) seraient rongé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rongé(e)
+que tu sois rongé(e)
+qu’il (elle) soit rongé(e)
+que nous soyons rongé(e)s
+que vous soyez rongé(e)s
+qu’ils (elles) soient rongé(e)s
+
+** Imparfait
+
+que je fusse rongé(e)
+que tu fusses rongé(e)
+qu’il (elle) fût rongé(e)
+que nous fussions rongé(e)s
+que vous fussiez rongé(e)s
+qu’ils (elles) fussent rongé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rongé(e)s
+soyez rongé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rongé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rongé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rongé(e)
+tu as été rongé(e)
+il (elle) a été rongé(e)
+nous avons été rongé(e)s
+vous avez été rongé(e)s
+ils (elles) ont été rongé(e)s
+
+** Plus-que-parfait
+
+j'avais été rongé(e)
+il (elle) avait été rongé(e)
+nous avions été rongé(e)s
+ils (elles) avaient été rongé(e)s
+
+** Passé antérieur
+
+j'eus été rongé(e)
+tu eus été rongé(e)
+il (elle) eut été rongé(e)
+nous eûmes été rongé(e)s
+vous eûtes été rongé(e)s
+ils (elles) eurent été rongé(e)s
+
+** Futur antérieur
+
+j'aurai été rongé(e)
+tu auras été rongé(e)
+il (elle) aura été rongé(e)
+nous aurons été rongé(e)s
+vous aurez été rongé(e)s
+ils (elles) auront été rongé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rongé(e)
+j'aurais été rongé(e)
+il (elle) aurait été rongé(e)
+nous aurions été rongé(e)s
+vous auriez été rongé(e)s
+ils (elles) auraient été rongé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rongé(e)
+que tu aies été rongé(e)
+qu’il (elle) ait été rongé(e)
+que nous ayons été rongé(e)s
+que vous ayez été rongé(e)s
+qu’ils (elles) aient été rongé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rongé(e)
+que tu eusses été rongé(e)
+qu’il (elle) eût été rongé(e)
+que nous eussions été rongé(e)s
+que vous eussiez été rongé(e)s
+qu’ils (elles) eussent été rongé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rongé(e)
+ayons été rongé(e)s
+ayez été rongé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rongé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rongé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe danser
+
+* INDICATIF
+
+** Présent
+
+je danse
+tu danses
+il (elle) danse
+nous dansons
+vous dansez
+ils (elles) dansent
+
+** Imparfait
+
+je dansais
+tu dansais
+il (elle) dansait
+nous dansions
+vous dansiez
+ils (elles) dansaient
+
+** Passé simple
+
+je dansai
+tu dansas
+il (elle) dansa
+nous dansâmes
+vous dansâtes
+ils (elles) dansèrent
+
+** Futur simple
+
+je danserai
+tu danseras
+il (elle) dansera
+nous danserons
+vous danserez
+ils (elles) danseront
+
+* CONDITIONNEL
+
+** Présent
+
+je danserais
+tu danserais
+il (elle) danserait
+nous danserions
+vous danseriez
+ils (elles) danseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je danse
+que tu danses
+qu’il (elle) danse
+que nous dansions
+que vous dansiez
+qu’ils (elles) dansent
+
+** Imparfait
+
+que je dansasse
+que tu dansasses
+qu’il (elle) dansât
+que nous dansassions
+que vous dansassiez
+qu’ils (elles) dansassent
+
+* IMPÉRATIF
+
+** Présent
+
+danse
+dansons
+dansez
+
+* INFINITIF
+
+** Présent
+
+danser
+
+* PARTICIPE
+
+** Présent
+
+dansant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dansé
+tu as dansé
+il (elle) a dansé
+nous avons dansé
+vous avez dansé
+ils (elles) ont dansé
+
+** Plus-que-parfait
+
+j'avais dansé
+tu avais dansé
+il (elle) avait dansé
+nous avions dansé
+vous aviez dansé
+ils (elles) avaient dansé
+
+** Passé antérieur
+
+j'eus dansé
+tu eus dansé
+il (elle) eut dansé
+nous eûmes dansé
+vous eûtes dansé
+ils (elles) eurent dansé
+
+** Futur antérieur
+
+j'aurai dansé
+tu auras dansé
+il (elle) aura dansé
+nous aurons dansé
+vous aurez dansé
+ils (elles) auront dansé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dansé
+tu aurais dansé
+il (elle) aurait dansé
+nous aurions dansé
+vous auriez dansé
+ils (elles) auraient dansé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dansé
+que tu aies dansé
+qu’il (elle) ait dansé
+que nous ayons dansé
+que vous ayez dansé
+qu’ils (elles) aient dansé
+
+** Plus-que-parfait
+
+que j'eusse dansé
+que tu eusses dansé
+qu’il (elle) eût dansé
+que nous eussions dansé
+que vous eussiez dansé
+qu’ils (elles) eussent dansé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dansé
+ayez dansé
+
+* INFINITIF
+
+** Passé
+
+avoir dansé
+
+* PARTICIPE
+
+** Passé
+
+ayant dansé
+dansé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dansé(e)
+tu es dansé(e)
+il (elle) est dansé(e)
+nous sommes dansé(e)s
+vous êtes dansé(e)s
+ils (elles) sont dansé(e)s
+
+** Imparfait
+
+j'étais dansé(e)
+tu étais dansé(e)
+il (elle) était dansé(e)
+nous étions dansé(e)s
+vous étiez dansé(e)s
+ils (elles) étaient dansé(e)s
+
+** Passé simple
+
+je fus dansé(e)
+tu fus dansé(e)
+il (elle) fut dansé(e)
+nous fûmes dansé(e)s
+vous fûtes dansé(e)s
+ils (elles) furent dansé(e)s
+
+** Futur simple
+
+je serai dansé(e)
+tu seras dansé(e)
+il (elle) sera dansé(e)
+nous serons dansé(e)s
+vous serez dansé(e)s
+ils (elles) seront dansé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dansé(e)
+tu serais dansé(e)
+il (elle) serait dansé(e)
+nous serions dansé(e)s
+vous seriez dansé(e)s
+ils (elles) seraient dansé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dansé(e)
+que tu sois dansé(e)
+qu’il (elle) soit dansé(e)
+que nous soyons dansé(e)s
+que vous soyez dansé(e)s
+qu’ils (elles) soient dansé(e)s
+
+** Imparfait
+
+que je fusse dansé(e)
+que tu fusses dansé(e)
+qu’il (elle) fût dansé(e)
+que nous fussions dansé(e)s
+que vous fussiez dansé(e)s
+qu’ils (elles) fussent dansé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dansé(e)s
+soyez dansé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dansé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dansé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dansé(e)
+tu as été dansé(e)
+il (elle) a été dansé(e)
+nous avons été dansé(e)s
+vous avez été dansé(e)s
+ils (elles) ont été dansé(e)s
+
+** Plus-que-parfait
+
+j'avais été dansé(e)
+il (elle) avait été dansé(e)
+nous avions été dansé(e)s
+ils (elles) avaient été dansé(e)s
+
+** Passé antérieur
+
+j'eus été dansé(e)
+tu eus été dansé(e)
+il (elle) eut été dansé(e)
+nous eûmes été dansé(e)s
+vous eûtes été dansé(e)s
+ils (elles) eurent été dansé(e)s
+
+** Futur antérieur
+
+j'aurai été dansé(e)
+tu auras été dansé(e)
+il (elle) aura été dansé(e)
+nous aurons été dansé(e)s
+vous aurez été dansé(e)s
+ils (elles) auront été dansé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dansé(e)
+j'aurais été dansé(e)
+il (elle) aurait été dansé(e)
+nous aurions été dansé(e)s
+vous auriez été dansé(e)s
+ils (elles) auraient été dansé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dansé(e)
+que tu aies été dansé(e)
+qu’il (elle) ait été dansé(e)
+que nous ayons été dansé(e)s
+que vous ayez été dansé(e)s
+qu’ils (elles) aient été dansé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dansé(e)
+que tu eusses été dansé(e)
+qu’il (elle) eût été dansé(e)
+que nous eussions été dansé(e)s
+que vous eussiez été dansé(e)s
+qu’ils (elles) eussent été dansé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dansé(e)
+ayons été dansé(e)s
+ayez été dansé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dansé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dansé(e)(s)

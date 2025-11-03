@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe feindre
+
+* INDICATIF
+
+** Présent
+
+je feins
+tu feins
+il (elle) feint
+nous feignons
+vous feignez
+ils (elles) feignent
+
+** Imparfait
+
+je feignais
+tu feignais
+il (elle) feignait
+nous feignions
+vous feigniez
+ils (elles) feignaient
+
+** Passé simple
+
+je feignis
+tu feignis
+il (elle) feignit
+nous feignîmes
+vous feignîtes
+ils (elles) feignirent
+
+** Futur simple
+
+je feindrai
+tu feindras
+il (elle) feindra
+nous feindrons
+vous feindrez
+ils (elles) feindront
+
+* CONDITIONNEL
+
+** Présent
+
+je feindrais
+tu feindrais
+il (elle) feindrait
+nous feindrions
+vous feindriez
+ils (elles) feindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je feigne
+que tu feignes
+qu’il (elle) feigne
+que nous feignions
+que vous feigniez
+qu’ils (elles) feignent
+
+** Imparfait
+
+que je feignisse
+que tu feignisses
+qu’il (elle) feignît
+que nous feignissions
+que vous feignissiez
+qu’ils (elles) feignissent
+
+* IMPÉRATIF
+
+** Présent
+
+feins
+feignons
+feignez
+
+* INFINITIF
+
+** Présent
+
+feindre
+
+* PARTICIPE
+
+** Présent
+
+feignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai feint
+tu as feint
+il (elle) a feint
+nous avons feint
+vous avez feint
+ils (elles) ont feint
+
+** Plus-que-parfait
+
+j'avais feint
+tu avais feint
+il (elle) avait feint
+nous avions feint
+vous aviez feint
+ils (elles) avaient feint
+
+** Passé antérieur
+
+j'eus feint
+tu eus feint
+il (elle) eut feint
+nous eûmes feint
+vous eûtes feint
+ils (elles) eurent feint
+
+** Futur antérieur
+
+j'aurai feint
+tu auras feint
+il (elle) aura feint
+nous aurons feint
+vous aurez feint
+ils (elles) auront feint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais feint
+tu aurais feint
+il (elle) aurait feint
+nous aurions feint
+vous auriez feint
+ils (elles) auraient feint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie feint
+que tu aies feint
+qu’il (elle) ait feint
+que nous ayons feint
+que vous ayez feint
+qu’ils (elles) aient feint
+
+** Plus-que-parfait
+
+que j'eusse feint
+que tu eusses feint
+qu’il (elle) eût feint
+que nous eussions feint
+que vous eussiez feint
+qu’ils (elles) eussent feint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons feint
+ayez feint
+
+* INFINITIF
+
+** Passé
+
+avoir feint
+
+* PARTICIPE
+
+** Passé
+
+ayant feint
+feint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis feint(e)
+tu es feint(e)
+il (elle) est feint(e)
+nous sommes feint(e)s
+vous êtes feint(e)s
+ils (elles) sont feint(e)s
+
+** Imparfait
+
+j'étais feint(e)
+tu étais feint(e)
+il (elle) était feint(e)
+nous étions feint(e)s
+vous étiez feint(e)s
+ils (elles) étaient feint(e)s
+
+** Passé simple
+
+je fus feint(e)
+tu fus feint(e)
+il (elle) fut feint(e)
+nous fûmes feint(e)s
+vous fûtes feint(e)s
+ils (elles) furent feint(e)s
+
+** Futur simple
+
+je serai feint(e)
+tu seras feint(e)
+il (elle) sera feint(e)
+nous serons feint(e)s
+vous serez feint(e)s
+ils (elles) seront feint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais feint(e)
+tu serais feint(e)
+il (elle) serait feint(e)
+nous serions feint(e)s
+vous seriez feint(e)s
+ils (elles) seraient feint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois feint(e)
+que tu sois feint(e)
+qu’il (elle) soit feint(e)
+que nous soyons feint(e)s
+que vous soyez feint(e)s
+qu’ils (elles) soient feint(e)s
+
+** Imparfait
+
+que je fusse feint(e)
+que tu fusses feint(e)
+qu’il (elle) fût feint(e)
+que nous fussions feint(e)s
+que vous fussiez feint(e)s
+qu’ils (elles) fussent feint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons feint(e)s
+soyez feint(e)s
+
+* INFINITIF
+
+** Présent
+
+être feint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant feint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été feint(e)
+tu as été feint(e)
+il (elle) a été feint(e)
+nous avons été feint(e)s
+vous avez été feint(e)s
+ils (elles) ont été feint(e)s
+
+** Plus-que-parfait
+
+j'avais été feint(e)
+il (elle) avait été feint(e)
+nous avions été feint(e)s
+ils (elles) avaient été feint(e)s
+
+** Passé antérieur
+
+j'eus été feint(e)
+tu eus été feint(e)
+il (elle) eut été feint(e)
+nous eûmes été feint(e)s
+vous eûtes été feint(e)s
+ils (elles) eurent été feint(e)s
+
+** Futur antérieur
+
+j'aurai été feint(e)
+tu auras été feint(e)
+il (elle) aura été feint(e)
+nous aurons été feint(e)s
+vous aurez été feint(e)s
+ils (elles) auront été feint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été feint(e)
+j'aurais été feint(e)
+il (elle) aurait été feint(e)
+nous aurions été feint(e)s
+vous auriez été feint(e)s
+ils (elles) auraient été feint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été feint(e)
+que tu aies été feint(e)
+qu’il (elle) ait été feint(e)
+que nous ayons été feint(e)s
+que vous ayez été feint(e)s
+qu’ils (elles) aient été feint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été feint(e)
+que tu eusses été feint(e)
+qu’il (elle) eût été feint(e)
+que nous eussions été feint(e)s
+que vous eussiez été feint(e)s
+qu’ils (elles) eussent été feint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été feint(e)
+ayons été feint(e)s
+ayez été feint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été feint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été feint(e)(s)

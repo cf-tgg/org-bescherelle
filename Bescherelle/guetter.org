@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe guetter
+
+* INDICATIF
+
+** Présent
+
+je guette
+tu guettes
+il (elle) guette
+nous guettons
+vous guettez
+ils (elles) guettent
+
+** Imparfait
+
+je guettais
+tu guettais
+il (elle) guettait
+nous guettions
+vous guettiez
+ils (elles) guettaient
+
+** Passé simple
+
+je guettai
+tu guettas
+il (elle) guetta
+nous guettâmes
+vous guettâtes
+ils (elles) guettèrent
+
+** Futur simple
+
+je guetterai
+tu guetteras
+il (elle) guettera
+nous guetterons
+vous guetterez
+ils (elles) guetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je guetterais
+tu guetterais
+il (elle) guetterait
+nous guetterions
+vous guetteriez
+ils (elles) guetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je guette
+que tu guettes
+qu’il (elle) guette
+que nous guettions
+que vous guettiez
+qu’ils (elles) guettent
+
+** Imparfait
+
+que je guettasse
+que tu guettasses
+qu’il (elle) guettât
+que nous guettassions
+que vous guettassiez
+qu’ils (elles) guettassent
+
+* IMPÉRATIF
+
+** Présent
+
+guette
+guettons
+guettez
+
+* INFINITIF
+
+** Présent
+
+guetter
+
+* PARTICIPE
+
+** Présent
+
+guettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai guetté
+tu as guetté
+il (elle) a guetté
+nous avons guetté
+vous avez guetté
+ils (elles) ont guetté
+
+** Plus-que-parfait
+
+j'avais guetté
+tu avais guetté
+il (elle) avait guetté
+nous avions guetté
+vous aviez guetté
+ils (elles) avaient guetté
+
+** Passé antérieur
+
+j'eus guetté
+tu eus guetté
+il (elle) eut guetté
+nous eûmes guetté
+vous eûtes guetté
+ils (elles) eurent guetté
+
+** Futur antérieur
+
+j'aurai guetté
+tu auras guetté
+il (elle) aura guetté
+nous aurons guetté
+vous aurez guetté
+ils (elles) auront guetté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais guetté
+tu aurais guetté
+il (elle) aurait guetté
+nous aurions guetté
+vous auriez guetté
+ils (elles) auraient guetté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie guetté
+que tu aies guetté
+qu’il (elle) ait guetté
+que nous ayons guetté
+que vous ayez guetté
+qu’ils (elles) aient guetté
+
+** Plus-que-parfait
+
+que j'eusse guetté
+que tu eusses guetté
+qu’il (elle) eût guetté
+que nous eussions guetté
+que vous eussiez guetté
+qu’ils (elles) eussent guetté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons guetté
+ayez guetté
+
+* INFINITIF
+
+** Passé
+
+avoir guetté
+
+* PARTICIPE
+
+** Passé
+
+ayant guetté
+guetté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis guetté(e)
+tu es guetté(e)
+il (elle) est guetté(e)
+nous sommes guetté(e)s
+vous êtes guetté(e)s
+ils (elles) sont guetté(e)s
+
+** Imparfait
+
+j'étais guetté(e)
+tu étais guetté(e)
+il (elle) était guetté(e)
+nous étions guetté(e)s
+vous étiez guetté(e)s
+ils (elles) étaient guetté(e)s
+
+** Passé simple
+
+je fus guetté(e)
+tu fus guetté(e)
+il (elle) fut guetté(e)
+nous fûmes guetté(e)s
+vous fûtes guetté(e)s
+ils (elles) furent guetté(e)s
+
+** Futur simple
+
+je serai guetté(e)
+tu seras guetté(e)
+il (elle) sera guetté(e)
+nous serons guetté(e)s
+vous serez guetté(e)s
+ils (elles) seront guetté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais guetté(e)
+tu serais guetté(e)
+il (elle) serait guetté(e)
+nous serions guetté(e)s
+vous seriez guetté(e)s
+ils (elles) seraient guetté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois guetté(e)
+que tu sois guetté(e)
+qu’il (elle) soit guetté(e)
+que nous soyons guetté(e)s
+que vous soyez guetté(e)s
+qu’ils (elles) soient guetté(e)s
+
+** Imparfait
+
+que je fusse guetté(e)
+que tu fusses guetté(e)
+qu’il (elle) fût guetté(e)
+que nous fussions guetté(e)s
+que vous fussiez guetté(e)s
+qu’ils (elles) fussent guetté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons guetté(e)s
+soyez guetté(e)s
+
+* INFINITIF
+
+** Présent
+
+être guetté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant guetté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été guetté(e)
+tu as été guetté(e)
+il (elle) a été guetté(e)
+nous avons été guetté(e)s
+vous avez été guetté(e)s
+ils (elles) ont été guetté(e)s
+
+** Plus-que-parfait
+
+j'avais été guetté(e)
+il (elle) avait été guetté(e)
+nous avions été guetté(e)s
+ils (elles) avaient été guetté(e)s
+
+** Passé antérieur
+
+j'eus été guetté(e)
+tu eus été guetté(e)
+il (elle) eut été guetté(e)
+nous eûmes été guetté(e)s
+vous eûtes été guetté(e)s
+ils (elles) eurent été guetté(e)s
+
+** Futur antérieur
+
+j'aurai été guetté(e)
+tu auras été guetté(e)
+il (elle) aura été guetté(e)
+nous aurons été guetté(e)s
+vous aurez été guetté(e)s
+ils (elles) auront été guetté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été guetté(e)
+j'aurais été guetté(e)
+il (elle) aurait été guetté(e)
+nous aurions été guetté(e)s
+vous auriez été guetté(e)s
+ils (elles) auraient été guetté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été guetté(e)
+que tu aies été guetté(e)
+qu’il (elle) ait été guetté(e)
+que nous ayons été guetté(e)s
+que vous ayez été guetté(e)s
+qu’ils (elles) aient été guetté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été guetté(e)
+que tu eusses été guetté(e)
+qu’il (elle) eût été guetté(e)
+que nous eussions été guetté(e)s
+que vous eussiez été guetté(e)s
+qu’ils (elles) eussent été guetté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été guetté(e)
+ayons été guetté(e)s
+ayez été guetté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été guetté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été guetté(e)(s)

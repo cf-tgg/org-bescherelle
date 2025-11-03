@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe devier
+
+* INDICATIF
+
+** Présent
+
+je dévie
+tu dévies
+il (elle) dévie
+nous dévions
+vous déviez
+ils (elles) dévient
+
+** Imparfait
+
+je déviais
+tu déviais
+il (elle) déviait
+nous déviions
+vous déviiez
+ils (elles) déviaient
+
+** Passé simple
+
+je déviai
+tu dévias
+il (elle) dévia
+nous déviâmes
+vous déviâtes
+ils (elles) dévièrent
+
+** Futur simple
+
+je dévierai
+tu dévieras
+il (elle) déviera
+nous dévierons
+vous dévierez
+ils (elles) dévieront
+
+* CONDITIONNEL
+
+** Présent
+
+je dévierais
+tu dévierais
+il (elle) dévierait
+nous dévierions
+vous dévieriez
+ils (elles) dévieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dévie
+que tu dévies
+qu’il (elle) dévie
+que nous déviions
+que vous déviiez
+qu’ils (elles) dévient
+
+** Imparfait
+
+que je déviasse
+que tu déviasses
+qu’il (elle) déviât
+que nous déviassions
+que vous déviassiez
+qu’ils (elles) déviassent
+
+* IMPÉRATIF
+
+** Présent
+
+dévie
+dévions
+déviez
+
+* INFINITIF
+
+** Présent
+
+dévier
+
+* PARTICIPE
+
+** Présent
+
+déviant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dévié
+tu as dévié
+il (elle) a dévié
+nous avons dévié
+vous avez dévié
+ils (elles) ont dévié
+
+** Plus-que-parfait
+
+j'avais dévié
+tu avais dévié
+il (elle) avait dévié
+nous avions dévié
+vous aviez dévié
+ils (elles) avaient dévié
+
+** Passé antérieur
+
+j'eus dévié
+tu eus dévié
+il (elle) eut dévié
+nous eûmes dévié
+vous eûtes dévié
+ils (elles) eurent dévié
+
+** Futur antérieur
+
+j'aurai dévié
+tu auras dévié
+il (elle) aura dévié
+nous aurons dévié
+vous aurez dévié
+ils (elles) auront dévié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dévié
+tu aurais dévié
+il (elle) aurait dévié
+nous aurions dévié
+vous auriez dévié
+ils (elles) auraient dévié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dévié
+que tu aies dévié
+qu’il (elle) ait dévié
+que nous ayons dévié
+que vous ayez dévié
+qu’ils (elles) aient dévié
+
+** Plus-que-parfait
+
+que j'eusse dévié
+que tu eusses dévié
+qu’il (elle) eût dévié
+que nous eussions dévié
+que vous eussiez dévié
+qu’ils (elles) eussent dévié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dévié
+ayez dévié
+
+* INFINITIF
+
+** Passé
+
+avoir dévié
+
+* PARTICIPE
+
+** Passé
+
+ayant dévié
+dévié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dévié(e)
+tu es dévié(e)
+il (elle) est dévié(e)
+nous sommes dévié(e)s
+vous êtes dévié(e)s
+ils (elles) sont dévié(e)s
+
+** Imparfait
+
+j'étais dévié(e)
+tu étais dévié(e)
+il (elle) était dévié(e)
+nous étions dévié(e)s
+vous étiez dévié(e)s
+ils (elles) étaient dévié(e)s
+
+** Passé simple
+
+je fus dévié(e)
+tu fus dévié(e)
+il (elle) fut dévié(e)
+nous fûmes dévié(e)s
+vous fûtes dévié(e)s
+ils (elles) furent dévié(e)s
+
+** Futur simple
+
+je serai dévié(e)
+tu seras dévié(e)
+il (elle) sera dévié(e)
+nous serons dévié(e)s
+vous serez dévié(e)s
+ils (elles) seront dévié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dévié(e)
+tu serais dévié(e)
+il (elle) serait dévié(e)
+nous serions dévié(e)s
+vous seriez dévié(e)s
+ils (elles) seraient dévié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dévié(e)
+que tu sois dévié(e)
+qu’il (elle) soit dévié(e)
+que nous soyons dévié(e)s
+que vous soyez dévié(e)s
+qu’ils (elles) soient dévié(e)s
+
+** Imparfait
+
+que je fusse dévié(e)
+que tu fusses dévié(e)
+qu’il (elle) fût dévié(e)
+que nous fussions dévié(e)s
+que vous fussiez dévié(e)s
+qu’ils (elles) fussent dévié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dévié(e)s
+soyez dévié(e)s
+
+* INFINITIF
+
+** Présent
+
+être dévié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dévié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dévié(e)
+tu as été dévié(e)
+il (elle) a été dévié(e)
+nous avons été dévié(e)s
+vous avez été dévié(e)s
+ils (elles) ont été dévié(e)s
+
+** Plus-que-parfait
+
+j'avais été dévié(e)
+il (elle) avait été dévié(e)
+nous avions été dévié(e)s
+ils (elles) avaient été dévié(e)s
+
+** Passé antérieur
+
+j'eus été dévié(e)
+tu eus été dévié(e)
+il (elle) eut été dévié(e)
+nous eûmes été dévié(e)s
+vous eûtes été dévié(e)s
+ils (elles) eurent été dévié(e)s
+
+** Futur antérieur
+
+j'aurai été dévié(e)
+tu auras été dévié(e)
+il (elle) aura été dévié(e)
+nous aurons été dévié(e)s
+vous aurez été dévié(e)s
+ils (elles) auront été dévié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dévié(e)
+j'aurais été dévié(e)
+il (elle) aurait été dévié(e)
+nous aurions été dévié(e)s
+vous auriez été dévié(e)s
+ils (elles) auraient été dévié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dévié(e)
+que tu aies été dévié(e)
+qu’il (elle) ait été dévié(e)
+que nous ayons été dévié(e)s
+que vous ayez été dévié(e)s
+qu’ils (elles) aient été dévié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dévié(e)
+que tu eusses été dévié(e)
+qu’il (elle) eût été dévié(e)
+que nous eussions été dévié(e)s
+que vous eussiez été dévié(e)s
+qu’ils (elles) eussent été dévié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dévié(e)
+ayons été dévié(e)s
+ayez été dévié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dévié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dévié(e)(s)

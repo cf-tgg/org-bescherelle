@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe absoudre
+
+* INDICATIF
+
+** Présent
+
+j'absous
+tu absous
+il (elle) absout
+nous absolvons
+vous absolvez
+ils (elles) absolvent
+
+** Imparfait
+
+j'absolvais
+tu absolvais
+il (elle) absolvait
+nous absolvions
+vous absolviez
+ils (elles) absolvaient
+
+** Passé simple
+
+j'absolus
+tu absolus
+il (elle) absolut
+nous absolûmes
+vous absolûtes
+ils (elles) absolurent
+
+** Futur simple
+
+j'absoudrai
+tu absoudras
+il (elle) absoudra
+nous absoudrons
+vous absoudrez
+ils (elles) absoudront
+
+* CONDITIONNEL
+
+** Présent
+
+j'absoudrais
+tu absoudrais
+il (elle) absoudrait
+nous absoudrions
+vous absoudriez
+ils (elles) absoudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'absolve
+que tu absolves
+qu’il (elle) absolve
+que nous absolvions
+que vous absolviez
+qu’ils (elles) absolvent
+
+** Imparfait
+
+que j'absolusse
+que tu absolusses
+qu’il (elle) absolût
+que nous absolussions
+que vous absolussiez
+qu’ils (elles) absolussent
+
+* IMPÉRATIF
+
+** Présent
+
+absous
+absolvons
+absolvez
+
+* INFINITIF
+
+** Présent
+
+absoudre
+
+* PARTICIPE
+
+** Présent
+
+absolvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai absous
+tu as absous
+il (elle) a absous
+nous avons absous
+vous avez absous
+ils (elles) ont absous
+
+** Plus-que-parfait
+
+j'avais absous
+tu avais absous
+il (elle) avait absous
+nous avions absous
+vous aviez absous
+ils (elles) avaient absous
+
+** Passé antérieur
+
+j'eus absous
+tu eus absous
+il (elle) eut absous
+nous eûmes absous
+vous eûtes absous
+ils (elles) eurent absous
+
+** Futur antérieur
+
+j'aurai absous
+tu auras absous
+il (elle) aura absous
+nous aurons absous
+vous aurez absous
+ils (elles) auront absous
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais absous
+tu aurais absous
+il (elle) aurait absous
+nous aurions absous
+vous auriez absous
+ils (elles) auraient absous
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie absous
+que tu aies absous
+qu’il (elle) ait absous
+que nous ayons absous
+que vous ayez absous
+qu’ils (elles) aient absous
+
+** Plus-que-parfait
+
+que j'eusse absous
+que tu eusses absous
+qu’il (elle) eût absous
+que nous eussions absous
+que vous eussiez absous
+qu’ils (elles) eussent absous
+
+* IMPÉRATIF
+
+** Passé
+
+ayons absous
+ayez absous
+
+* INFINITIF
+
+** Passé
+
+avoir absous
+
+* PARTICIPE
+
+** Passé
+
+ayant absous
+absous (s, te, s, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis absous (s, te)
+tu es absous (s, te)
+il (elle) est absous (s, te)
+nous sommes absous (s, tes)
+vous êtes absous (s, tes)
+ils (elles) sont absous (s, tes)
+
+** Imparfait
+
+j'étais absous (s, te)
+tu étais absous (s, te)
+il (elle) était absous (s, te)
+nous étions absous (s, tes)
+vous étiez absous (s, tes)
+ils (elles) étaient absous (s, tes)
+
+** Passé simple
+
+je fus absous (s, te)
+tu fus absous (s, te)
+il (elle) fut absous (s, te)
+nous fûmes absous (s, tes)
+vous fûtes absous (s, tes)
+ils (elles) furent absous (s, tes)
+
+** Futur simple
+
+je serai absous (s, te)
+tu seras absous (s, te)
+il (elle) sera absous (s, te)
+nous serons absous (s, tes)
+vous serez absous (s, tes)
+ils (elles) seront absous (s, tes)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais absous (s, te)
+tu serais absous (s, te)
+il (elle) serait absous (s, te)
+nous serions absous (s, tes)
+vous seriez absous (s, tes)
+ils (elles) seraient absous (s, tes)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois absous (s, te)
+que tu sois absous (s, te)
+qu’il (elle) soit absous (s, te)
+que nous soyons absous (s, tes)
+que vous soyez absous (s, tes)
+qu’ils (elles) soient absous (s, tes)
+
+** Imparfait
+
+que je fusse absous (s, te)
+que tu fusses absous (s, te)
+qu’il (elle) fût absous (s, te)
+que nous fussions absous (s, tes)
+que vous fussiez absous (s, tes)
+qu’ils (elles) fussent absous (s, tes)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons absous (s, tes)
+soyez absous (s, tes)
+
+* INFINITIF
+
+** Présent
+
+être absous (s, te, s, tes)
+
+* PARTICIPE
+
+** Présent
+
+étant absous (s, te, s, tes)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été absous (s, te)
+tu as été absous (s, te)
+il (elle) a été absous (s, te)
+nous avons été absous (s, tes)
+vous avez été absous (s, tes)
+ils (elles) ont été absous (s, tes)
+
+** Plus-que-parfait
+
+j'avais été absous (s, te)
+il (elle) avait été absous (s, te)
+nous avions été absous (s, tes)
+ils (elles) avaient été absous (s, tes)
+
+** Passé antérieur
+
+j'eus été absous (s, te)
+tu eus été absous (s, te)
+il (elle) eut été absous (s, te)
+nous eûmes été absous (s, tes)
+vous eûtes été absous (s, tes)
+ils (elles) eurent été absous (s, tes)
+
+** Futur antérieur
+
+j'aurai été absous (s, te)
+tu auras été absous (s, te)
+il (elle) aura été absous (s, te)
+nous aurons été absous (s, tes)
+vous aurez été absous (s, tes)
+ils (elles) auront été absous (s, tes)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été absous (s, te)
+j'aurais été absous (s, te)
+il (elle) aurait été absous (s, te)
+nous aurions été absous (s, tes)
+vous auriez été absous (s, tes)
+ils (elles) auraient été absous (s, tes)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été absous (s, te)
+que tu aies été absous (s, te)
+qu’il (elle) ait été absous (s, te)
+que nous ayons été absous (s, tes)
+que vous ayez été absous (s, tes)
+qu’ils (elles) aient été absous (s, tes)
+
+** Plus-que-parfait
+
+que j'eusse été absous (s, te)
+que tu eusses été absous (s, te)
+qu’il (elle) eût été absous (s, te)
+que nous eussions été absous (s, tes)
+que vous eussiez été absous (s, tes)
+qu’ils (elles) eussent été absous (s, tes)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été absous (s, te)
+ayons été absous (s, tes)
+ayez été absous (s, tes)
+
+* INFINITIF
+
+** Passé
+
+avoir été absous (s, te, s, tes)
+
+* PARTICIPE
+
+** Passé
+
+ayant été absous (s, te, s, tes)

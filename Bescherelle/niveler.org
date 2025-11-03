@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe niveler
+
+* INDICATIF
+
+** Présent
+
+je nivelle
+tu nivelles
+il (elle) nivelle
+nous nivelons
+vous nivelez
+ils (elles) nivellent
+
+** Imparfait
+
+je nivelais
+tu nivelais
+il (elle) nivelait
+nous nivelions
+vous niveliez
+ils (elles) nivelaient
+
+** Passé simple
+
+je nivelai
+tu nivelas
+il (elle) nivela
+nous nivelâmes
+vous nivelâtes
+ils (elles) nivelèrent
+
+** Futur simple
+
+je nivellerai
+tu nivelleras
+il (elle) nivellera
+nous nivellerons
+vous nivellerez
+ils (elles) nivelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je nivellerais
+tu nivellerais
+il (elle) nivellerait
+nous nivellerions
+vous nivelleriez
+ils (elles) nivelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nivelle
+que tu nivelles
+qu’il (elle) nivelle
+que nous nivelions
+que vous niveliez
+qu’ils (elles) nivellent
+
+** Imparfait
+
+que je nivelasse
+que tu nivelasses
+qu’il (elle) nivelât
+que nous nivelassions
+que vous nivelassiez
+qu’ils (elles) nivelassent
+
+* IMPÉRATIF
+
+** Présent
+
+nivelle
+nivelons
+nivelez
+
+* INFINITIF
+
+** Présent
+
+niveler
+
+* PARTICIPE
+
+** Présent
+
+nivelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nivelé
+tu as nivelé
+il (elle) a nivelé
+nous avons nivelé
+vous avez nivelé
+ils (elles) ont nivelé
+
+** Plus-que-parfait
+
+j'avais nivelé
+tu avais nivelé
+il (elle) avait nivelé
+nous avions nivelé
+vous aviez nivelé
+ils (elles) avaient nivelé
+
+** Passé antérieur
+
+j'eus nivelé
+tu eus nivelé
+il (elle) eut nivelé
+nous eûmes nivelé
+vous eûtes nivelé
+ils (elles) eurent nivelé
+
+** Futur antérieur
+
+j'aurai nivelé
+tu auras nivelé
+il (elle) aura nivelé
+nous aurons nivelé
+vous aurez nivelé
+ils (elles) auront nivelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nivelé
+tu aurais nivelé
+il (elle) aurait nivelé
+nous aurions nivelé
+vous auriez nivelé
+ils (elles) auraient nivelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nivelé
+que tu aies nivelé
+qu’il (elle) ait nivelé
+que nous ayons nivelé
+que vous ayez nivelé
+qu’ils (elles) aient nivelé
+
+** Plus-que-parfait
+
+que j'eusse nivelé
+que tu eusses nivelé
+qu’il (elle) eût nivelé
+que nous eussions nivelé
+que vous eussiez nivelé
+qu’ils (elles) eussent nivelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nivelé
+ayez nivelé
+
+* INFINITIF
+
+** Passé
+
+avoir nivelé
+
+* PARTICIPE
+
+** Passé
+
+ayant nivelé
+nivelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nivelé(e)
+tu es nivelé(e)
+il (elle) est nivelé(e)
+nous sommes nivelé(e)s
+vous êtes nivelé(e)s
+ils (elles) sont nivelé(e)s
+
+** Imparfait
+
+j'étais nivelé(e)
+tu étais nivelé(e)
+il (elle) était nivelé(e)
+nous étions nivelé(e)s
+vous étiez nivelé(e)s
+ils (elles) étaient nivelé(e)s
+
+** Passé simple
+
+je fus nivelé(e)
+tu fus nivelé(e)
+il (elle) fut nivelé(e)
+nous fûmes nivelé(e)s
+vous fûtes nivelé(e)s
+ils (elles) furent nivelé(e)s
+
+** Futur simple
+
+je serai nivelé(e)
+tu seras nivelé(e)
+il (elle) sera nivelé(e)
+nous serons nivelé(e)s
+vous serez nivelé(e)s
+ils (elles) seront nivelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nivelé(e)
+tu serais nivelé(e)
+il (elle) serait nivelé(e)
+nous serions nivelé(e)s
+vous seriez nivelé(e)s
+ils (elles) seraient nivelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nivelé(e)
+que tu sois nivelé(e)
+qu’il (elle) soit nivelé(e)
+que nous soyons nivelé(e)s
+que vous soyez nivelé(e)s
+qu’ils (elles) soient nivelé(e)s
+
+** Imparfait
+
+que je fusse nivelé(e)
+que tu fusses nivelé(e)
+qu’il (elle) fût nivelé(e)
+que nous fussions nivelé(e)s
+que vous fussiez nivelé(e)s
+qu’ils (elles) fussent nivelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nivelé(e)s
+soyez nivelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être nivelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nivelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nivelé(e)
+tu as été nivelé(e)
+il (elle) a été nivelé(e)
+nous avons été nivelé(e)s
+vous avez été nivelé(e)s
+ils (elles) ont été nivelé(e)s
+
+** Plus-que-parfait
+
+j'avais été nivelé(e)
+il (elle) avait été nivelé(e)
+nous avions été nivelé(e)s
+ils (elles) avaient été nivelé(e)s
+
+** Passé antérieur
+
+j'eus été nivelé(e)
+tu eus été nivelé(e)
+il (elle) eut été nivelé(e)
+nous eûmes été nivelé(e)s
+vous eûtes été nivelé(e)s
+ils (elles) eurent été nivelé(e)s
+
+** Futur antérieur
+
+j'aurai été nivelé(e)
+tu auras été nivelé(e)
+il (elle) aura été nivelé(e)
+nous aurons été nivelé(e)s
+vous aurez été nivelé(e)s
+ils (elles) auront été nivelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nivelé(e)
+j'aurais été nivelé(e)
+il (elle) aurait été nivelé(e)
+nous aurions été nivelé(e)s
+vous auriez été nivelé(e)s
+ils (elles) auraient été nivelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nivelé(e)
+que tu aies été nivelé(e)
+qu’il (elle) ait été nivelé(e)
+que nous ayons été nivelé(e)s
+que vous ayez été nivelé(e)s
+qu’ils (elles) aient été nivelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nivelé(e)
+que tu eusses été nivelé(e)
+qu’il (elle) eût été nivelé(e)
+que nous eussions été nivelé(e)s
+que vous eussiez été nivelé(e)s
+qu’ils (elles) eussent été nivelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nivelé(e)
+ayons été nivelé(e)s
+ayez été nivelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nivelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nivelé(e)(s)

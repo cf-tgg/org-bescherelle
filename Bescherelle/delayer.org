@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe delayer
+
+* INDICATIF
+
+** Présent
+
+je délaie / délaye
+tu délaies / délayes
+il (elle) délaie / délaye
+nous délayons
+vous délayez
+ils (elles) délaient / délayent
+
+** Imparfait
+
+je délayais
+tu délayais
+il (elle) délayait
+nous délayions
+vous délayiez
+ils (elles) délayaient
+
+** Passé simple
+
+je délayai
+tu délayas
+il (elle) délaya
+nous délayâmes
+vous délayâtes
+ils (elles) délayèrent
+
+** Futur simple
+
+je délaierai / délayerai
+tu délaieras / délayeras
+il (elle) délaiera / délayera
+nous délaierons / délayerons
+vous délaierez / délayerez
+ils (elles) délaieront / délayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je délaierais / délayerais
+tu délaierais / délayerais
+il (elle) délaierait / délayerait
+nous délaierions / délayerions
+vous délaieriez / délayeriez
+ils (elles) délaieraient / délayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je délaie / délaye
+que tu délaies / délayes
+qu’il (elle) délaie / délaye
+que nous délayions
+que vous délayiez
+qu’ils (elles) délaient / délayent
+
+** Imparfait
+
+que je délayasse
+que tu délayasses
+qu’il (elle) délayât
+que nous délayassions
+que vous délayassiez
+qu’ils (elles) délayassent
+
+* IMPÉRATIF
+
+** Présent
+
+délaie / délaye
+délayons
+délayez
+
+* INFINITIF
+
+** Présent
+
+délayer
+
+* PARTICIPE
+
+** Présent
+
+délayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai délayé
+tu as délayé
+il (elle) a délayé
+nous avons délayé
+vous avez délayé
+ils (elles) ont délayé
+
+** Plus-que-parfait
+
+j'avais délayé
+tu avais délayé
+il (elle) avait délayé
+nous avions délayé
+vous aviez délayé
+ils (elles) avaient délayé
+
+** Passé antérieur
+
+j'eus délayé
+tu eus délayé
+il (elle) eut délayé
+nous eûmes délayé
+vous eûtes délayé
+ils (elles) eurent délayé
+
+** Futur antérieur
+
+j'aurai délayé
+tu auras délayé
+il (elle) aura délayé
+nous aurons délayé
+vous aurez délayé
+ils (elles) auront délayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais délayé
+tu aurais délayé
+il (elle) aurait délayé
+nous aurions délayé
+vous auriez délayé
+ils (elles) auraient délayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie délayé
+que tu aies délayé
+qu’il (elle) ait délayé
+que nous ayons délayé
+que vous ayez délayé
+qu’ils (elles) aient délayé
+
+** Plus-que-parfait
+
+que j'eusse délayé
+que tu eusses délayé
+qu’il (elle) eût délayé
+que nous eussions délayé
+que vous eussiez délayé
+qu’ils (elles) eussent délayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons délayé
+ayez délayé
+
+* INFINITIF
+
+** Passé
+
+avoir délayé
+
+* PARTICIPE
+
+** Passé
+
+ayant délayé
+délayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis délayé(e)
+tu es délayé(e)
+il (elle) est délayé(e)
+nous sommes délayé(e)s
+vous êtes délayé(e)s
+ils (elles) sont délayé(e)s
+
+** Imparfait
+
+j'étais délayé(e)
+tu étais délayé(e)
+il (elle) était délayé(e)
+nous étions délayé(e)s
+vous étiez délayé(e)s
+ils (elles) étaient délayé(e)s
+
+** Passé simple
+
+je fus délayé(e)
+tu fus délayé(e)
+il (elle) fut délayé(e)
+nous fûmes délayé(e)s
+vous fûtes délayé(e)s
+ils (elles) furent délayé(e)s
+
+** Futur simple
+
+je serai délayé(e)
+tu seras délayé(e)
+il (elle) sera délayé(e)
+nous serons délayé(e)s
+vous serez délayé(e)s
+ils (elles) seront délayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais délayé(e)
+tu serais délayé(e)
+il (elle) serait délayé(e)
+nous serions délayé(e)s
+vous seriez délayé(e)s
+ils (elles) seraient délayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois délayé(e)
+que tu sois délayé(e)
+qu’il (elle) soit délayé(e)
+que nous soyons délayé(e)s
+que vous soyez délayé(e)s
+qu’ils (elles) soient délayé(e)s
+
+** Imparfait
+
+que je fusse délayé(e)
+que tu fusses délayé(e)
+qu’il (elle) fût délayé(e)
+que nous fussions délayé(e)s
+que vous fussiez délayé(e)s
+qu’ils (elles) fussent délayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons délayé(e)s
+soyez délayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être délayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant délayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été délayé(e)
+tu as été délayé(e)
+il (elle) a été délayé(e)
+nous avons été délayé(e)s
+vous avez été délayé(e)s
+ils (elles) ont été délayé(e)s
+
+** Plus-que-parfait
+
+j'avais été délayé(e)
+il (elle) avait été délayé(e)
+nous avions été délayé(e)s
+ils (elles) avaient été délayé(e)s
+
+** Passé antérieur
+
+j'eus été délayé(e)
+tu eus été délayé(e)
+il (elle) eut été délayé(e)
+nous eûmes été délayé(e)s
+vous eûtes été délayé(e)s
+ils (elles) eurent été délayé(e)s
+
+** Futur antérieur
+
+j'aurai été délayé(e)
+tu auras été délayé(e)
+il (elle) aura été délayé(e)
+nous aurons été délayé(e)s
+vous aurez été délayé(e)s
+ils (elles) auront été délayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été délayé(e)
+j'aurais été délayé(e)
+il (elle) aurait été délayé(e)
+nous aurions été délayé(e)s
+vous auriez été délayé(e)s
+ils (elles) auraient été délayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été délayé(e)
+que tu aies été délayé(e)
+qu’il (elle) ait été délayé(e)
+que nous ayons été délayé(e)s
+que vous ayez été délayé(e)s
+qu’ils (elles) aient été délayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été délayé(e)
+que tu eusses été délayé(e)
+qu’il (elle) eût été délayé(e)
+que nous eussions été délayé(e)s
+que vous eussiez été délayé(e)s
+qu’ils (elles) eussent été délayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été délayé(e)
+ayons été délayé(e)s
+ayez été délayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été délayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été délayé(e)(s)

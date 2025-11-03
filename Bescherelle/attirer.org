@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attirer
+
+* INDICATIF
+
+** Présent
+
+j'attire
+tu attires
+il (elle) attire
+nous attirons
+vous attirez
+ils (elles) attirent
+
+** Imparfait
+
+j'attirais
+tu attirais
+il (elle) attirait
+nous attirions
+vous attiriez
+ils (elles) attiraient
+
+** Passé simple
+
+j'attirai
+tu attiras
+il (elle) attira
+nous attirâmes
+vous attirâtes
+ils (elles) attirèrent
+
+** Futur simple
+
+j'attirerai
+tu attireras
+il (elle) attirera
+nous attirerons
+vous attirerez
+ils (elles) attireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attirerais
+tu attirerais
+il (elle) attirerait
+nous attirerions
+vous attireriez
+ils (elles) attireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attire
+que tu attires
+qu’il (elle) attire
+que nous attirions
+que vous attiriez
+qu’ils (elles) attirent
+
+** Imparfait
+
+que j'attirasse
+que tu attirasses
+qu’il (elle) attirât
+que nous attirassions
+que vous attirassiez
+qu’ils (elles) attirassent
+
+* IMPÉRATIF
+
+** Présent
+
+attire
+attirons
+attirez
+
+* INFINITIF
+
+** Présent
+
+attirer
+
+* PARTICIPE
+
+** Présent
+
+attirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attiré
+tu as attiré
+il (elle) a attiré
+nous avons attiré
+vous avez attiré
+ils (elles) ont attiré
+
+** Plus-que-parfait
+
+j'avais attiré
+tu avais attiré
+il (elle) avait attiré
+nous avions attiré
+vous aviez attiré
+ils (elles) avaient attiré
+
+** Passé antérieur
+
+j'eus attiré
+tu eus attiré
+il (elle) eut attiré
+nous eûmes attiré
+vous eûtes attiré
+ils (elles) eurent attiré
+
+** Futur antérieur
+
+j'aurai attiré
+tu auras attiré
+il (elle) aura attiré
+nous aurons attiré
+vous aurez attiré
+ils (elles) auront attiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attiré
+tu aurais attiré
+il (elle) aurait attiré
+nous aurions attiré
+vous auriez attiré
+ils (elles) auraient attiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attiré
+que tu aies attiré
+qu’il (elle) ait attiré
+que nous ayons attiré
+que vous ayez attiré
+qu’ils (elles) aient attiré
+
+** Plus-que-parfait
+
+que j'eusse attiré
+que tu eusses attiré
+qu’il (elle) eût attiré
+que nous eussions attiré
+que vous eussiez attiré
+qu’ils (elles) eussent attiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attiré
+ayez attiré
+
+* INFINITIF
+
+** Passé
+
+avoir attiré
+
+* PARTICIPE
+
+** Passé
+
+ayant attiré
+attiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attiré(e)
+tu es attiré(e)
+il (elle) est attiré(e)
+nous sommes attiré(e)s
+vous êtes attiré(e)s
+ils (elles) sont attiré(e)s
+
+** Imparfait
+
+j'étais attiré(e)
+tu étais attiré(e)
+il (elle) était attiré(e)
+nous étions attiré(e)s
+vous étiez attiré(e)s
+ils (elles) étaient attiré(e)s
+
+** Passé simple
+
+je fus attiré(e)
+tu fus attiré(e)
+il (elle) fut attiré(e)
+nous fûmes attiré(e)s
+vous fûtes attiré(e)s
+ils (elles) furent attiré(e)s
+
+** Futur simple
+
+je serai attiré(e)
+tu seras attiré(e)
+il (elle) sera attiré(e)
+nous serons attiré(e)s
+vous serez attiré(e)s
+ils (elles) seront attiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attiré(e)
+tu serais attiré(e)
+il (elle) serait attiré(e)
+nous serions attiré(e)s
+vous seriez attiré(e)s
+ils (elles) seraient attiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attiré(e)
+que tu sois attiré(e)
+qu’il (elle) soit attiré(e)
+que nous soyons attiré(e)s
+que vous soyez attiré(e)s
+qu’ils (elles) soient attiré(e)s
+
+** Imparfait
+
+que je fusse attiré(e)
+que tu fusses attiré(e)
+qu’il (elle) fût attiré(e)
+que nous fussions attiré(e)s
+que vous fussiez attiré(e)s
+qu’ils (elles) fussent attiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attiré(e)s
+soyez attiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être attiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attiré(e)
+tu as été attiré(e)
+il (elle) a été attiré(e)
+nous avons été attiré(e)s
+vous avez été attiré(e)s
+ils (elles) ont été attiré(e)s
+
+** Plus-que-parfait
+
+j'avais été attiré(e)
+il (elle) avait été attiré(e)
+nous avions été attiré(e)s
+ils (elles) avaient été attiré(e)s
+
+** Passé antérieur
+
+j'eus été attiré(e)
+tu eus été attiré(e)
+il (elle) eut été attiré(e)
+nous eûmes été attiré(e)s
+vous eûtes été attiré(e)s
+ils (elles) eurent été attiré(e)s
+
+** Futur antérieur
+
+j'aurai été attiré(e)
+tu auras été attiré(e)
+il (elle) aura été attiré(e)
+nous aurons été attiré(e)s
+vous aurez été attiré(e)s
+ils (elles) auront été attiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attiré(e)
+j'aurais été attiré(e)
+il (elle) aurait été attiré(e)
+nous aurions été attiré(e)s
+vous auriez été attiré(e)s
+ils (elles) auraient été attiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attiré(e)
+que tu aies été attiré(e)
+qu’il (elle) ait été attiré(e)
+que nous ayons été attiré(e)s
+que vous ayez été attiré(e)s
+qu’ils (elles) aient été attiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attiré(e)
+que tu eusses été attiré(e)
+qu’il (elle) eût été attiré(e)
+que nous eussions été attiré(e)s
+que vous eussiez été attiré(e)s
+qu’ils (elles) eussent été attiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attiré(e)
+ayons été attiré(e)s
+ayez été attiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attiré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ficher
+
+* INDICATIF
+
+** Présent
+
+je fiche
+tu fiches
+il (elle) fiche
+nous fichons
+vous fichez
+ils (elles) fichent
+
+** Imparfait
+
+je fichais
+tu fichais
+il (elle) fichait
+nous fichions
+vous fichiez
+ils (elles) fichaient
+
+** Passé simple
+
+je fichai
+tu fichas
+il (elle) ficha
+nous fichâmes
+vous fichâtes
+ils (elles) fichèrent
+
+** Futur simple
+
+je ficherai
+tu ficheras
+il (elle) fichera
+nous ficherons
+vous ficherez
+ils (elles) ficheront
+
+* CONDITIONNEL
+
+** Présent
+
+je ficherais
+tu ficherais
+il (elle) ficherait
+nous ficherions
+vous ficheriez
+ils (elles) ficheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fiche
+que tu fiches
+qu’il (elle) fiche
+que nous fichions
+que vous fichiez
+qu’ils (elles) fichent
+
+** Imparfait
+
+que je fichasse
+que tu fichasses
+qu’il (elle) fichât
+que nous fichassions
+que vous fichassiez
+qu’ils (elles) fichassent
+
+* IMPÉRATIF
+
+** Présent
+
+fiche
+fichons
+fichez
+
+* INFINITIF
+
+** Présent
+
+ficher
+
+* PARTICIPE
+
+** Présent
+
+fichant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fiché
+tu as fiché
+il (elle) a fiché
+nous avons fiché
+vous avez fiché
+ils (elles) ont fiché
+
+** Plus-que-parfait
+
+j'avais fiché
+tu avais fiché
+il (elle) avait fiché
+nous avions fiché
+vous aviez fiché
+ils (elles) avaient fiché
+
+** Passé antérieur
+
+j'eus fiché
+tu eus fiché
+il (elle) eut fiché
+nous eûmes fiché
+vous eûtes fiché
+ils (elles) eurent fiché
+
+** Futur antérieur
+
+j'aurai fiché
+tu auras fiché
+il (elle) aura fiché
+nous aurons fiché
+vous aurez fiché
+ils (elles) auront fiché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fiché
+tu aurais fiché
+il (elle) aurait fiché
+nous aurions fiché
+vous auriez fiché
+ils (elles) auraient fiché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fiché
+que tu aies fiché
+qu’il (elle) ait fiché
+que nous ayons fiché
+que vous ayez fiché
+qu’ils (elles) aient fiché
+
+** Plus-que-parfait
+
+que j'eusse fiché
+que tu eusses fiché
+qu’il (elle) eût fiché
+que nous eussions fiché
+que vous eussiez fiché
+qu’ils (elles) eussent fiché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fiché
+ayez fiché
+
+* INFINITIF
+
+** Passé
+
+avoir fiché
+
+* PARTICIPE
+
+** Passé
+
+ayant fiché
+fiché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fiché(e)
+tu es fiché(e)
+il (elle) est fiché(e)
+nous sommes fiché(e)s
+vous êtes fiché(e)s
+ils (elles) sont fiché(e)s
+
+** Imparfait
+
+j'étais fiché(e)
+tu étais fiché(e)
+il (elle) était fiché(e)
+nous étions fiché(e)s
+vous étiez fiché(e)s
+ils (elles) étaient fiché(e)s
+
+** Passé simple
+
+je fus fiché(e)
+tu fus fiché(e)
+il (elle) fut fiché(e)
+nous fûmes fiché(e)s
+vous fûtes fiché(e)s
+ils (elles) furent fiché(e)s
+
+** Futur simple
+
+je serai fiché(e)
+tu seras fiché(e)
+il (elle) sera fiché(e)
+nous serons fiché(e)s
+vous serez fiché(e)s
+ils (elles) seront fiché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fiché(e)
+tu serais fiché(e)
+il (elle) serait fiché(e)
+nous serions fiché(e)s
+vous seriez fiché(e)s
+ils (elles) seraient fiché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fiché(e)
+que tu sois fiché(e)
+qu’il (elle) soit fiché(e)
+que nous soyons fiché(e)s
+que vous soyez fiché(e)s
+qu’ils (elles) soient fiché(e)s
+
+** Imparfait
+
+que je fusse fiché(e)
+que tu fusses fiché(e)
+qu’il (elle) fût fiché(e)
+que nous fussions fiché(e)s
+que vous fussiez fiché(e)s
+qu’ils (elles) fussent fiché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fiché(e)s
+soyez fiché(e)s
+
+* INFINITIF
+
+** Présent
+
+être fiché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fiché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fiché(e)
+tu as été fiché(e)
+il (elle) a été fiché(e)
+nous avons été fiché(e)s
+vous avez été fiché(e)s
+ils (elles) ont été fiché(e)s
+
+** Plus-que-parfait
+
+j'avais été fiché(e)
+il (elle) avait été fiché(e)
+nous avions été fiché(e)s
+ils (elles) avaient été fiché(e)s
+
+** Passé antérieur
+
+j'eus été fiché(e)
+tu eus été fiché(e)
+il (elle) eut été fiché(e)
+nous eûmes été fiché(e)s
+vous eûtes été fiché(e)s
+ils (elles) eurent été fiché(e)s
+
+** Futur antérieur
+
+j'aurai été fiché(e)
+tu auras été fiché(e)
+il (elle) aura été fiché(e)
+nous aurons été fiché(e)s
+vous aurez été fiché(e)s
+ils (elles) auront été fiché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fiché(e)
+j'aurais été fiché(e)
+il (elle) aurait été fiché(e)
+nous aurions été fiché(e)s
+vous auriez été fiché(e)s
+ils (elles) auraient été fiché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fiché(e)
+que tu aies été fiché(e)
+qu’il (elle) ait été fiché(e)
+que nous ayons été fiché(e)s
+que vous ayez été fiché(e)s
+qu’ils (elles) aient été fiché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fiché(e)
+que tu eusses été fiché(e)
+qu’il (elle) eût été fiché(e)
+que nous eussions été fiché(e)s
+que vous eussiez été fiché(e)s
+qu’ils (elles) eussent été fiché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fiché(e)
+ayons été fiché(e)s
+ayez été fiché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fiché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fiché(e)(s)

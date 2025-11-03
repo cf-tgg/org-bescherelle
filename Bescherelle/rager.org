@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe rager
+
+* INDICATIF
+
+** Présent
+
+je rage
+tu rages
+il (elle) rage
+nous rageons
+vous ragez
+ils (elles) ragent
+
+** Imparfait
+
+je rageais
+tu rageais
+il (elle) rageait
+nous ragions
+vous ragiez
+ils (elles) rageaient
+
+** Passé simple
+
+je rageai
+tu rageas
+il (elle) ragea
+nous rageâmes
+vous rageâtes
+ils (elles) ragèrent
+
+** Futur simple
+
+je ragerai
+tu rageras
+il (elle) ragera
+nous ragerons
+vous ragerez
+ils (elles) rageront
+
+* CONDITIONNEL
+
+** Présent
+
+je ragerais
+tu ragerais
+il (elle) ragerait
+nous ragerions
+vous rageriez
+ils (elles) rageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rage
+que tu rages
+qu’il (elle) rage
+que nous ragions
+que vous ragiez
+qu’ils (elles) ragent
+
+** Imparfait
+
+que je rageasse
+que tu rageasses
+qu’il (elle) rageât
+que nous rageassions
+que vous rageassiez
+qu’ils (elles) rageassent
+
+* IMPÉRATIF
+
+** Présent
+
+rage
+rageons
+ragez
+
+* INFINITIF
+
+** Présent
+
+rager
+
+* PARTICIPE
+
+** Présent
+
+rageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ragé
+tu as ragé
+il (elle) a ragé
+nous avons ragé
+vous avez ragé
+ils (elles) ont ragé
+
+** Plus-que-parfait
+
+j'avais ragé
+tu avais ragé
+il (elle) avait ragé
+nous avions ragé
+vous aviez ragé
+ils (elles) avaient ragé
+
+** Passé antérieur
+
+j'eus ragé
+tu eus ragé
+il (elle) eut ragé
+nous eûmes ragé
+vous eûtes ragé
+ils (elles) eurent ragé
+
+** Futur antérieur
+
+j'aurai ragé
+tu auras ragé
+il (elle) aura ragé
+nous aurons ragé
+vous aurez ragé
+ils (elles) auront ragé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ragé
+tu aurais ragé
+il (elle) aurait ragé
+nous aurions ragé
+vous auriez ragé
+ils (elles) auraient ragé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ragé
+que tu aies ragé
+qu’il (elle) ait ragé
+que nous ayons ragé
+que vous ayez ragé
+qu’ils (elles) aient ragé
+
+** Plus-que-parfait
+
+que j'eusse ragé
+que tu eusses ragé
+qu’il (elle) eût ragé
+que nous eussions ragé
+que vous eussiez ragé
+qu’ils (elles) eussent ragé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ragé
+ayez ragé
+
+* INFINITIF
+
+** Passé
+
+avoir ragé
+
+* PARTICIPE
+
+** Passé
+
+ayant ragé
+ragé (invar.)

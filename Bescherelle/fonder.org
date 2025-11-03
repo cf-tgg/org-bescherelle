@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fonder
+
+* INDICATIF
+
+** Présent
+
+je fonde
+tu fondes
+il (elle) fonde
+nous fondons
+vous fondez
+ils (elles) fondent
+
+** Imparfait
+
+je fondais
+tu fondais
+il (elle) fondait
+nous fondions
+vous fondiez
+ils (elles) fondaient
+
+** Passé simple
+
+je fondai
+tu fondas
+il (elle) fonda
+nous fondâmes
+vous fondâtes
+ils (elles) fondèrent
+
+** Futur simple
+
+je fonderai
+tu fonderas
+il (elle) fondera
+nous fonderons
+vous fonderez
+ils (elles) fonderont
+
+* CONDITIONNEL
+
+** Présent
+
+je fonderais
+tu fonderais
+il (elle) fonderait
+nous fonderions
+vous fonderiez
+ils (elles) fonderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fonde
+que tu fondes
+qu’il (elle) fonde
+que nous fondions
+que vous fondiez
+qu’ils (elles) fondent
+
+** Imparfait
+
+que je fondasse
+que tu fondasses
+qu’il (elle) fondât
+que nous fondassions
+que vous fondassiez
+qu’ils (elles) fondassent
+
+* IMPÉRATIF
+
+** Présent
+
+fonde
+fondons
+fondez
+
+* INFINITIF
+
+** Présent
+
+fonder
+
+* PARTICIPE
+
+** Présent
+
+fondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fondé
+tu as fondé
+il (elle) a fondé
+nous avons fondé
+vous avez fondé
+ils (elles) ont fondé
+
+** Plus-que-parfait
+
+j'avais fondé
+tu avais fondé
+il (elle) avait fondé
+nous avions fondé
+vous aviez fondé
+ils (elles) avaient fondé
+
+** Passé antérieur
+
+j'eus fondé
+tu eus fondé
+il (elle) eut fondé
+nous eûmes fondé
+vous eûtes fondé
+ils (elles) eurent fondé
+
+** Futur antérieur
+
+j'aurai fondé
+tu auras fondé
+il (elle) aura fondé
+nous aurons fondé
+vous aurez fondé
+ils (elles) auront fondé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fondé
+tu aurais fondé
+il (elle) aurait fondé
+nous aurions fondé
+vous auriez fondé
+ils (elles) auraient fondé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fondé
+que tu aies fondé
+qu’il (elle) ait fondé
+que nous ayons fondé
+que vous ayez fondé
+qu’ils (elles) aient fondé
+
+** Plus-que-parfait
+
+que j'eusse fondé
+que tu eusses fondé
+qu’il (elle) eût fondé
+que nous eussions fondé
+que vous eussiez fondé
+qu’ils (elles) eussent fondé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fondé
+ayez fondé
+
+* INFINITIF
+
+** Passé
+
+avoir fondé
+
+* PARTICIPE
+
+** Passé
+
+ayant fondé
+fondé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fondé(e)
+tu es fondé(e)
+il (elle) est fondé(e)
+nous sommes fondé(e)s
+vous êtes fondé(e)s
+ils (elles) sont fondé(e)s
+
+** Imparfait
+
+j'étais fondé(e)
+tu étais fondé(e)
+il (elle) était fondé(e)
+nous étions fondé(e)s
+vous étiez fondé(e)s
+ils (elles) étaient fondé(e)s
+
+** Passé simple
+
+je fus fondé(e)
+tu fus fondé(e)
+il (elle) fut fondé(e)
+nous fûmes fondé(e)s
+vous fûtes fondé(e)s
+ils (elles) furent fondé(e)s
+
+** Futur simple
+
+je serai fondé(e)
+tu seras fondé(e)
+il (elle) sera fondé(e)
+nous serons fondé(e)s
+vous serez fondé(e)s
+ils (elles) seront fondé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fondé(e)
+tu serais fondé(e)
+il (elle) serait fondé(e)
+nous serions fondé(e)s
+vous seriez fondé(e)s
+ils (elles) seraient fondé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fondé(e)
+que tu sois fondé(e)
+qu’il (elle) soit fondé(e)
+que nous soyons fondé(e)s
+que vous soyez fondé(e)s
+qu’ils (elles) soient fondé(e)s
+
+** Imparfait
+
+que je fusse fondé(e)
+que tu fusses fondé(e)
+qu’il (elle) fût fondé(e)
+que nous fussions fondé(e)s
+que vous fussiez fondé(e)s
+qu’ils (elles) fussent fondé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fondé(e)s
+soyez fondé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fondé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fondé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fondé(e)
+tu as été fondé(e)
+il (elle) a été fondé(e)
+nous avons été fondé(e)s
+vous avez été fondé(e)s
+ils (elles) ont été fondé(e)s
+
+** Plus-que-parfait
+
+j'avais été fondé(e)
+il (elle) avait été fondé(e)
+nous avions été fondé(e)s
+ils (elles) avaient été fondé(e)s
+
+** Passé antérieur
+
+j'eus été fondé(e)
+tu eus été fondé(e)
+il (elle) eut été fondé(e)
+nous eûmes été fondé(e)s
+vous eûtes été fondé(e)s
+ils (elles) eurent été fondé(e)s
+
+** Futur antérieur
+
+j'aurai été fondé(e)
+tu auras été fondé(e)
+il (elle) aura été fondé(e)
+nous aurons été fondé(e)s
+vous aurez été fondé(e)s
+ils (elles) auront été fondé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fondé(e)
+j'aurais été fondé(e)
+il (elle) aurait été fondé(e)
+nous aurions été fondé(e)s
+vous auriez été fondé(e)s
+ils (elles) auraient été fondé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fondé(e)
+que tu aies été fondé(e)
+qu’il (elle) ait été fondé(e)
+que nous ayons été fondé(e)s
+que vous ayez été fondé(e)s
+qu’ils (elles) aient été fondé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fondé(e)
+que tu eusses été fondé(e)
+qu’il (elle) eût été fondé(e)
+que nous eussions été fondé(e)s
+que vous eussiez été fondé(e)s
+qu’ils (elles) eussent été fondé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fondé(e)
+ayons été fondé(e)s
+ayez été fondé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fondé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fondé(e)(s)

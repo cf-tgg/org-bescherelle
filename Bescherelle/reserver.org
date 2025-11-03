@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reserver
+
+* INDICATIF
+
+** Présent
+
+je réserve
+tu réserves
+il (elle) réserve
+nous réservons
+vous réservez
+ils (elles) réservent
+
+** Imparfait
+
+je réservais
+tu réservais
+il (elle) réservait
+nous réservions
+vous réserviez
+ils (elles) réservaient
+
+** Passé simple
+
+je réservai
+tu réservas
+il (elle) réserva
+nous réservâmes
+vous réservâtes
+ils (elles) réservèrent
+
+** Futur simple
+
+je réserverai
+tu réserveras
+il (elle) réservera
+nous réserverons
+vous réserverez
+ils (elles) réserveront
+
+* CONDITIONNEL
+
+** Présent
+
+je réserverais
+tu réserverais
+il (elle) réserverait
+nous réserverions
+vous réserveriez
+ils (elles) réserveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réserve
+que tu réserves
+qu’il (elle) réserve
+que nous réservions
+que vous réserviez
+qu’ils (elles) réservent
+
+** Imparfait
+
+que je réservasse
+que tu réservasses
+qu’il (elle) réservât
+que nous réservassions
+que vous réservassiez
+qu’ils (elles) réservassent
+
+* IMPÉRATIF
+
+** Présent
+
+réserve
+réservons
+réservez
+
+* INFINITIF
+
+** Présent
+
+réserver
+
+* PARTICIPE
+
+** Présent
+
+réservant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réservé
+tu as réservé
+il (elle) a réservé
+nous avons réservé
+vous avez réservé
+ils (elles) ont réservé
+
+** Plus-que-parfait
+
+j'avais réservé
+tu avais réservé
+il (elle) avait réservé
+nous avions réservé
+vous aviez réservé
+ils (elles) avaient réservé
+
+** Passé antérieur
+
+j'eus réservé
+tu eus réservé
+il (elle) eut réservé
+nous eûmes réservé
+vous eûtes réservé
+ils (elles) eurent réservé
+
+** Futur antérieur
+
+j'aurai réservé
+tu auras réservé
+il (elle) aura réservé
+nous aurons réservé
+vous aurez réservé
+ils (elles) auront réservé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réservé
+tu aurais réservé
+il (elle) aurait réservé
+nous aurions réservé
+vous auriez réservé
+ils (elles) auraient réservé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réservé
+que tu aies réservé
+qu’il (elle) ait réservé
+que nous ayons réservé
+que vous ayez réservé
+qu’ils (elles) aient réservé
+
+** Plus-que-parfait
+
+que j'eusse réservé
+que tu eusses réservé
+qu’il (elle) eût réservé
+que nous eussions réservé
+que vous eussiez réservé
+qu’ils (elles) eussent réservé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réservé
+ayez réservé
+
+* INFINITIF
+
+** Passé
+
+avoir réservé
+
+* PARTICIPE
+
+** Passé
+
+ayant réservé
+réservé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis réservé(e)
+tu es réservé(e)
+il (elle) est réservé(e)
+nous sommes réservé(e)s
+vous êtes réservé(e)s
+ils (elles) sont réservé(e)s
+
+** Imparfait
+
+j'étais réservé(e)
+tu étais réservé(e)
+il (elle) était réservé(e)
+nous étions réservé(e)s
+vous étiez réservé(e)s
+ils (elles) étaient réservé(e)s
+
+** Passé simple
+
+je fus réservé(e)
+tu fus réservé(e)
+il (elle) fut réservé(e)
+nous fûmes réservé(e)s
+vous fûtes réservé(e)s
+ils (elles) furent réservé(e)s
+
+** Futur simple
+
+je serai réservé(e)
+tu seras réservé(e)
+il (elle) sera réservé(e)
+nous serons réservé(e)s
+vous serez réservé(e)s
+ils (elles) seront réservé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réservé(e)
+tu serais réservé(e)
+il (elle) serait réservé(e)
+nous serions réservé(e)s
+vous seriez réservé(e)s
+ils (elles) seraient réservé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réservé(e)
+que tu sois réservé(e)
+qu’il (elle) soit réservé(e)
+que nous soyons réservé(e)s
+que vous soyez réservé(e)s
+qu’ils (elles) soient réservé(e)s
+
+** Imparfait
+
+que je fusse réservé(e)
+que tu fusses réservé(e)
+qu’il (elle) fût réservé(e)
+que nous fussions réservé(e)s
+que vous fussiez réservé(e)s
+qu’ils (elles) fussent réservé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réservé(e)s
+soyez réservé(e)s
+
+* INFINITIF
+
+** Présent
+
+être réservé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réservé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réservé(e)
+tu as été réservé(e)
+il (elle) a été réservé(e)
+nous avons été réservé(e)s
+vous avez été réservé(e)s
+ils (elles) ont été réservé(e)s
+
+** Plus-que-parfait
+
+j'avais été réservé(e)
+il (elle) avait été réservé(e)
+nous avions été réservé(e)s
+ils (elles) avaient été réservé(e)s
+
+** Passé antérieur
+
+j'eus été réservé(e)
+tu eus été réservé(e)
+il (elle) eut été réservé(e)
+nous eûmes été réservé(e)s
+vous eûtes été réservé(e)s
+ils (elles) eurent été réservé(e)s
+
+** Futur antérieur
+
+j'aurai été réservé(e)
+tu auras été réservé(e)
+il (elle) aura été réservé(e)
+nous aurons été réservé(e)s
+vous aurez été réservé(e)s
+ils (elles) auront été réservé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réservé(e)
+j'aurais été réservé(e)
+il (elle) aurait été réservé(e)
+nous aurions été réservé(e)s
+vous auriez été réservé(e)s
+ils (elles) auraient été réservé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réservé(e)
+que tu aies été réservé(e)
+qu’il (elle) ait été réservé(e)
+que nous ayons été réservé(e)s
+que vous ayez été réservé(e)s
+qu’ils (elles) aient été réservé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réservé(e)
+que tu eusses été réservé(e)
+qu’il (elle) eût été réservé(e)
+que nous eussions été réservé(e)s
+que vous eussiez été réservé(e)s
+qu’ils (elles) eussent été réservé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réservé(e)
+ayons été réservé(e)s
+ayez été réservé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réservé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réservé(e)(s)

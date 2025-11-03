@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe louper
+
+* INDICATIF
+
+** Présent
+
+je loupe
+tu loupes
+il (elle) loupe
+nous loupons
+vous loupez
+ils (elles) loupent
+
+** Imparfait
+
+je loupais
+tu loupais
+il (elle) loupait
+nous loupions
+vous loupiez
+ils (elles) loupaient
+
+** Passé simple
+
+je loupai
+tu loupas
+il (elle) loupa
+nous loupâmes
+vous loupâtes
+ils (elles) loupèrent
+
+** Futur simple
+
+je louperai
+tu louperas
+il (elle) loupera
+nous louperons
+vous louperez
+ils (elles) louperont
+
+* CONDITIONNEL
+
+** Présent
+
+je louperais
+tu louperais
+il (elle) louperait
+nous louperions
+vous louperiez
+ils (elles) louperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je loupe
+que tu loupes
+qu’il (elle) loupe
+que nous loupions
+que vous loupiez
+qu’ils (elles) loupent
+
+** Imparfait
+
+que je loupasse
+que tu loupasses
+qu’il (elle) loupât
+que nous loupassions
+que vous loupassiez
+qu’ils (elles) loupassent
+
+* IMPÉRATIF
+
+** Présent
+
+loupe
+loupons
+loupez
+
+* INFINITIF
+
+** Présent
+
+louper
+
+* PARTICIPE
+
+** Présent
+
+loupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai loupé
+tu as loupé
+il (elle) a loupé
+nous avons loupé
+vous avez loupé
+ils (elles) ont loupé
+
+** Plus-que-parfait
+
+j'avais loupé
+tu avais loupé
+il (elle) avait loupé
+nous avions loupé
+vous aviez loupé
+ils (elles) avaient loupé
+
+** Passé antérieur
+
+j'eus loupé
+tu eus loupé
+il (elle) eut loupé
+nous eûmes loupé
+vous eûtes loupé
+ils (elles) eurent loupé
+
+** Futur antérieur
+
+j'aurai loupé
+tu auras loupé
+il (elle) aura loupé
+nous aurons loupé
+vous aurez loupé
+ils (elles) auront loupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais loupé
+tu aurais loupé
+il (elle) aurait loupé
+nous aurions loupé
+vous auriez loupé
+ils (elles) auraient loupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie loupé
+que tu aies loupé
+qu’il (elle) ait loupé
+que nous ayons loupé
+que vous ayez loupé
+qu’ils (elles) aient loupé
+
+** Plus-que-parfait
+
+que j'eusse loupé
+que tu eusses loupé
+qu’il (elle) eût loupé
+que nous eussions loupé
+que vous eussiez loupé
+qu’ils (elles) eussent loupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons loupé
+ayez loupé
+
+* INFINITIF
+
+** Passé
+
+avoir loupé
+
+* PARTICIPE
+
+** Passé
+
+ayant loupé
+loupé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis loupé(e)
+tu es loupé(e)
+il (elle) est loupé(e)
+nous sommes loupé(e)s
+vous êtes loupé(e)s
+ils (elles) sont loupé(e)s
+
+** Imparfait
+
+j'étais loupé(e)
+tu étais loupé(e)
+il (elle) était loupé(e)
+nous étions loupé(e)s
+vous étiez loupé(e)s
+ils (elles) étaient loupé(e)s
+
+** Passé simple
+
+je fus loupé(e)
+tu fus loupé(e)
+il (elle) fut loupé(e)
+nous fûmes loupé(e)s
+vous fûtes loupé(e)s
+ils (elles) furent loupé(e)s
+
+** Futur simple
+
+je serai loupé(e)
+tu seras loupé(e)
+il (elle) sera loupé(e)
+nous serons loupé(e)s
+vous serez loupé(e)s
+ils (elles) seront loupé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais loupé(e)
+tu serais loupé(e)
+il (elle) serait loupé(e)
+nous serions loupé(e)s
+vous seriez loupé(e)s
+ils (elles) seraient loupé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois loupé(e)
+que tu sois loupé(e)
+qu’il (elle) soit loupé(e)
+que nous soyons loupé(e)s
+que vous soyez loupé(e)s
+qu’ils (elles) soient loupé(e)s
+
+** Imparfait
+
+que je fusse loupé(e)
+que tu fusses loupé(e)
+qu’il (elle) fût loupé(e)
+que nous fussions loupé(e)s
+que vous fussiez loupé(e)s
+qu’ils (elles) fussent loupé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons loupé(e)s
+soyez loupé(e)s
+
+* INFINITIF
+
+** Présent
+
+être loupé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant loupé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été loupé(e)
+tu as été loupé(e)
+il (elle) a été loupé(e)
+nous avons été loupé(e)s
+vous avez été loupé(e)s
+ils (elles) ont été loupé(e)s
+
+** Plus-que-parfait
+
+j'avais été loupé(e)
+il (elle) avait été loupé(e)
+nous avions été loupé(e)s
+ils (elles) avaient été loupé(e)s
+
+** Passé antérieur
+
+j'eus été loupé(e)
+tu eus été loupé(e)
+il (elle) eut été loupé(e)
+nous eûmes été loupé(e)s
+vous eûtes été loupé(e)s
+ils (elles) eurent été loupé(e)s
+
+** Futur antérieur
+
+j'aurai été loupé(e)
+tu auras été loupé(e)
+il (elle) aura été loupé(e)
+nous aurons été loupé(e)s
+vous aurez été loupé(e)s
+ils (elles) auront été loupé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été loupé(e)
+j'aurais été loupé(e)
+il (elle) aurait été loupé(e)
+nous aurions été loupé(e)s
+vous auriez été loupé(e)s
+ils (elles) auraient été loupé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été loupé(e)
+que tu aies été loupé(e)
+qu’il (elle) ait été loupé(e)
+que nous ayons été loupé(e)s
+que vous ayez été loupé(e)s
+qu’ils (elles) aient été loupé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été loupé(e)
+que tu eusses été loupé(e)
+qu’il (elle) eût été loupé(e)
+que nous eussions été loupé(e)s
+que vous eussiez été loupé(e)s
+qu’ils (elles) eussent été loupé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été loupé(e)
+ayons été loupé(e)s
+ayez été loupé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été loupé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été loupé(e)(s)

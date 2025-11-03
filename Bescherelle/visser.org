@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe visser
+
+* INDICATIF
+
+** Présent
+
+je visse
+tu visses
+il (elle) visse
+nous vissons
+vous vissez
+ils (elles) vissent
+
+** Imparfait
+
+je vissais
+tu vissais
+il (elle) vissait
+nous vissions
+vous vissiez
+ils (elles) vissaient
+
+** Passé simple
+
+je vissai
+tu vissas
+il (elle) vissa
+nous vissâmes
+vous vissâtes
+ils (elles) vissèrent
+
+** Futur simple
+
+je visserai
+tu visseras
+il (elle) vissera
+nous visserons
+vous visserez
+ils (elles) visseront
+
+* CONDITIONNEL
+
+** Présent
+
+je visserais
+tu visserais
+il (elle) visserait
+nous visserions
+vous visseriez
+ils (elles) visseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je visse
+que tu visses
+qu’il (elle) visse
+que nous vissions
+que vous vissiez
+qu’ils (elles) vissent
+
+** Imparfait
+
+que je vissasse
+que tu vissasses
+qu’il (elle) vissât
+que nous vissassions
+que vous vissassiez
+qu’ils (elles) vissassent
+
+* IMPÉRATIF
+
+** Présent
+
+visse
+vissons
+vissez
+
+* INFINITIF
+
+** Présent
+
+visser
+
+* PARTICIPE
+
+** Présent
+
+vissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vissé
+tu as vissé
+il (elle) a vissé
+nous avons vissé
+vous avez vissé
+ils (elles) ont vissé
+
+** Plus-que-parfait
+
+j'avais vissé
+tu avais vissé
+il (elle) avait vissé
+nous avions vissé
+vous aviez vissé
+ils (elles) avaient vissé
+
+** Passé antérieur
+
+j'eus vissé
+tu eus vissé
+il (elle) eut vissé
+nous eûmes vissé
+vous eûtes vissé
+ils (elles) eurent vissé
+
+** Futur antérieur
+
+j'aurai vissé
+tu auras vissé
+il (elle) aura vissé
+nous aurons vissé
+vous aurez vissé
+ils (elles) auront vissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vissé
+tu aurais vissé
+il (elle) aurait vissé
+nous aurions vissé
+vous auriez vissé
+ils (elles) auraient vissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vissé
+que tu aies vissé
+qu’il (elle) ait vissé
+que nous ayons vissé
+que vous ayez vissé
+qu’ils (elles) aient vissé
+
+** Plus-que-parfait
+
+que j'eusse vissé
+que tu eusses vissé
+qu’il (elle) eût vissé
+que nous eussions vissé
+que vous eussiez vissé
+qu’ils (elles) eussent vissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vissé
+ayez vissé
+
+* INFINITIF
+
+** Passé
+
+avoir vissé
+
+* PARTICIPE
+
+** Passé
+
+ayant vissé
+vissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vissé(e)
+tu es vissé(e)
+il (elle) est vissé(e)
+nous sommes vissé(e)s
+vous êtes vissé(e)s
+ils (elles) sont vissé(e)s
+
+** Imparfait
+
+j'étais vissé(e)
+tu étais vissé(e)
+il (elle) était vissé(e)
+nous étions vissé(e)s
+vous étiez vissé(e)s
+ils (elles) étaient vissé(e)s
+
+** Passé simple
+
+je fus vissé(e)
+tu fus vissé(e)
+il (elle) fut vissé(e)
+nous fûmes vissé(e)s
+vous fûtes vissé(e)s
+ils (elles) furent vissé(e)s
+
+** Futur simple
+
+je serai vissé(e)
+tu seras vissé(e)
+il (elle) sera vissé(e)
+nous serons vissé(e)s
+vous serez vissé(e)s
+ils (elles) seront vissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vissé(e)
+tu serais vissé(e)
+il (elle) serait vissé(e)
+nous serions vissé(e)s
+vous seriez vissé(e)s
+ils (elles) seraient vissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vissé(e)
+que tu sois vissé(e)
+qu’il (elle) soit vissé(e)
+que nous soyons vissé(e)s
+que vous soyez vissé(e)s
+qu’ils (elles) soient vissé(e)s
+
+** Imparfait
+
+que je fusse vissé(e)
+que tu fusses vissé(e)
+qu’il (elle) fût vissé(e)
+que nous fussions vissé(e)s
+que vous fussiez vissé(e)s
+qu’ils (elles) fussent vissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vissé(e)s
+soyez vissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être vissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vissé(e)
+tu as été vissé(e)
+il (elle) a été vissé(e)
+nous avons été vissé(e)s
+vous avez été vissé(e)s
+ils (elles) ont été vissé(e)s
+
+** Plus-que-parfait
+
+j'avais été vissé(e)
+il (elle) avait été vissé(e)
+nous avions été vissé(e)s
+ils (elles) avaient été vissé(e)s
+
+** Passé antérieur
+
+j'eus été vissé(e)
+tu eus été vissé(e)
+il (elle) eut été vissé(e)
+nous eûmes été vissé(e)s
+vous eûtes été vissé(e)s
+ils (elles) eurent été vissé(e)s
+
+** Futur antérieur
+
+j'aurai été vissé(e)
+tu auras été vissé(e)
+il (elle) aura été vissé(e)
+nous aurons été vissé(e)s
+vous aurez été vissé(e)s
+ils (elles) auront été vissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vissé(e)
+j'aurais été vissé(e)
+il (elle) aurait été vissé(e)
+nous aurions été vissé(e)s
+vous auriez été vissé(e)s
+ils (elles) auraient été vissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vissé(e)
+que tu aies été vissé(e)
+qu’il (elle) ait été vissé(e)
+que nous ayons été vissé(e)s
+que vous ayez été vissé(e)s
+qu’ils (elles) aient été vissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vissé(e)
+que tu eusses été vissé(e)
+qu’il (elle) eût été vissé(e)
+que nous eussions été vissé(e)s
+que vous eussiez été vissé(e)s
+qu’ils (elles) eussent été vissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vissé(e)
+ayons été vissé(e)s
+ayez été vissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vissé(e)(s)

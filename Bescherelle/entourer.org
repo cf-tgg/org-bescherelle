@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entourer
+
+* INDICATIF
+
+** Présent
+
+j'entoure
+tu entoures
+il (elle) entoure
+nous entourons
+vous entourez
+ils (elles) entourent
+
+** Imparfait
+
+j'entourais
+tu entourais
+il (elle) entourait
+nous entourions
+vous entouriez
+ils (elles) entouraient
+
+** Passé simple
+
+j'entourai
+tu entouras
+il (elle) entoura
+nous entourâmes
+vous entourâtes
+ils (elles) entourèrent
+
+** Futur simple
+
+j'entourerai
+tu entoureras
+il (elle) entourera
+nous entourerons
+vous entourerez
+ils (elles) entoureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entourerais
+tu entourerais
+il (elle) entourerait
+nous entourerions
+vous entoureriez
+ils (elles) entoureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entoure
+que tu entoures
+qu’il (elle) entoure
+que nous entourions
+que vous entouriez
+qu’ils (elles) entourent
+
+** Imparfait
+
+que j'entourasse
+que tu entourasses
+qu’il (elle) entourât
+que nous entourassions
+que vous entourassiez
+qu’ils (elles) entourassent
+
+* IMPÉRATIF
+
+** Présent
+
+entoure
+entourons
+entourez
+
+* INFINITIF
+
+** Présent
+
+entourer
+
+* PARTICIPE
+
+** Présent
+
+entourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entouré
+tu as entouré
+il (elle) a entouré
+nous avons entouré
+vous avez entouré
+ils (elles) ont entouré
+
+** Plus-que-parfait
+
+j'avais entouré
+tu avais entouré
+il (elle) avait entouré
+nous avions entouré
+vous aviez entouré
+ils (elles) avaient entouré
+
+** Passé antérieur
+
+j'eus entouré
+tu eus entouré
+il (elle) eut entouré
+nous eûmes entouré
+vous eûtes entouré
+ils (elles) eurent entouré
+
+** Futur antérieur
+
+j'aurai entouré
+tu auras entouré
+il (elle) aura entouré
+nous aurons entouré
+vous aurez entouré
+ils (elles) auront entouré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entouré
+tu aurais entouré
+il (elle) aurait entouré
+nous aurions entouré
+vous auriez entouré
+ils (elles) auraient entouré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entouré
+que tu aies entouré
+qu’il (elle) ait entouré
+que nous ayons entouré
+que vous ayez entouré
+qu’ils (elles) aient entouré
+
+** Plus-que-parfait
+
+que j'eusse entouré
+que tu eusses entouré
+qu’il (elle) eût entouré
+que nous eussions entouré
+que vous eussiez entouré
+qu’ils (elles) eussent entouré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entouré
+ayez entouré
+
+* INFINITIF
+
+** Passé
+
+avoir entouré
+
+* PARTICIPE
+
+** Passé
+
+ayant entouré
+entouré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis entouré(e)
+tu es entouré(e)
+il (elle) est entouré(e)
+nous sommes entouré(e)s
+vous êtes entouré(e)s
+ils (elles) sont entouré(e)s
+
+** Imparfait
+
+j'étais entouré(e)
+tu étais entouré(e)
+il (elle) était entouré(e)
+nous étions entouré(e)s
+vous étiez entouré(e)s
+ils (elles) étaient entouré(e)s
+
+** Passé simple
+
+je fus entouré(e)
+tu fus entouré(e)
+il (elle) fut entouré(e)
+nous fûmes entouré(e)s
+vous fûtes entouré(e)s
+ils (elles) furent entouré(e)s
+
+** Futur simple
+
+je serai entouré(e)
+tu seras entouré(e)
+il (elle) sera entouré(e)
+nous serons entouré(e)s
+vous serez entouré(e)s
+ils (elles) seront entouré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entouré(e)
+tu serais entouré(e)
+il (elle) serait entouré(e)
+nous serions entouré(e)s
+vous seriez entouré(e)s
+ils (elles) seraient entouré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entouré(e)
+que tu sois entouré(e)
+qu’il (elle) soit entouré(e)
+que nous soyons entouré(e)s
+que vous soyez entouré(e)s
+qu’ils (elles) soient entouré(e)s
+
+** Imparfait
+
+que je fusse entouré(e)
+que tu fusses entouré(e)
+qu’il (elle) fût entouré(e)
+que nous fussions entouré(e)s
+que vous fussiez entouré(e)s
+qu’ils (elles) fussent entouré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entouré(e)s
+soyez entouré(e)s
+
+* INFINITIF
+
+** Présent
+
+être entouré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entouré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entouré(e)
+tu as été entouré(e)
+il (elle) a été entouré(e)
+nous avons été entouré(e)s
+vous avez été entouré(e)s
+ils (elles) ont été entouré(e)s
+
+** Plus-que-parfait
+
+j'avais été entouré(e)
+il (elle) avait été entouré(e)
+nous avions été entouré(e)s
+ils (elles) avaient été entouré(e)s
+
+** Passé antérieur
+
+j'eus été entouré(e)
+tu eus été entouré(e)
+il (elle) eut été entouré(e)
+nous eûmes été entouré(e)s
+vous eûtes été entouré(e)s
+ils (elles) eurent été entouré(e)s
+
+** Futur antérieur
+
+j'aurai été entouré(e)
+tu auras été entouré(e)
+il (elle) aura été entouré(e)
+nous aurons été entouré(e)s
+vous aurez été entouré(e)s
+ils (elles) auront été entouré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entouré(e)
+j'aurais été entouré(e)
+il (elle) aurait été entouré(e)
+nous aurions été entouré(e)s
+vous auriez été entouré(e)s
+ils (elles) auraient été entouré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entouré(e)
+que tu aies été entouré(e)
+qu’il (elle) ait été entouré(e)
+que nous ayons été entouré(e)s
+que vous ayez été entouré(e)s
+qu’ils (elles) aient été entouré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entouré(e)
+que tu eusses été entouré(e)
+qu’il (elle) eût été entouré(e)
+que nous eussions été entouré(e)s
+que vous eussiez été entouré(e)s
+qu’ils (elles) eussent été entouré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entouré(e)
+ayons été entouré(e)s
+ayez été entouré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entouré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entouré(e)(s)

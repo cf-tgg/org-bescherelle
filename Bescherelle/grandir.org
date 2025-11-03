@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe grandir
+
+* INDICATIF
+
+** Présent
+
+je grandis
+tu grandis
+il (elle) grandit
+nous grandissons
+vous grandissez
+ils (elles) grandissent
+
+** Imparfait
+
+je grandissais
+tu grandissais
+il (elle) grandissait
+nous grandissions
+vous grandissiez
+ils (elles) grandissaient
+
+** Passé simple
+
+je grandis
+tu grandis
+il (elle) grandit
+nous grandîmes
+vous grandîtes
+ils (elles) grandirent
+
+** Futur simple
+
+je grandirai
+tu grandiras
+il (elle) grandira
+nous grandirons
+vous grandirez
+ils (elles) grandiront
+
+* CONDITIONNEL
+
+** Présent
+
+je grandirais
+tu grandirais
+il (elle) grandirait
+nous grandirions
+vous grandiriez
+ils (elles) grandiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je grandisse
+que tu grandisses
+qu’il (elle) grandisse
+que nous grandissions
+que vous grandissiez
+qu’ils (elles) grandissent
+
+** Imparfait
+
+que je grandisse
+que tu grandisses
+qu’il (elle) grandît
+que nous grandissions
+que vous grandissiez
+qu’ils (elles) grandissent
+
+* IMPÉRATIF
+
+** Présent
+
+grandis
+grandissons
+grandissez
+
+* INFINITIF
+
+** Présent
+
+grandir
+
+* PARTICIPE
+
+** Présent
+
+grandissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai grandi
+tu as grandi
+il (elle) a grandi
+nous avons grandi
+vous avez grandi
+ils (elles) ont grandi
+
+** Plus-que-parfait
+
+j'avais grandi
+tu avais grandi
+il (elle) avait grandi
+nous avions grandi
+vous aviez grandi
+ils (elles) avaient grandi
+
+** Passé antérieur
+
+j'eus grandi
+tu eus grandi
+il (elle) eut grandi
+nous eûmes grandi
+vous eûtes grandi
+ils (elles) eurent grandi
+
+** Futur antérieur
+
+j'aurai grandi
+tu auras grandi
+il (elle) aura grandi
+nous aurons grandi
+vous aurez grandi
+ils (elles) auront grandi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais grandi
+tu aurais grandi
+il (elle) aurait grandi
+nous aurions grandi
+vous auriez grandi
+ils (elles) auraient grandi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie grandi
+que tu aies grandi
+qu’il (elle) ait grandi
+que nous ayons grandi
+que vous ayez grandi
+qu’ils (elles) aient grandi
+
+** Plus-que-parfait
+
+que j'eusse grandi
+que tu eusses grandi
+qu’il (elle) eût grandi
+que nous eussions grandi
+que vous eussiez grandi
+qu’ils (elles) eussent grandi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons grandi
+ayez grandi
+
+* INFINITIF
+
+** Passé
+
+avoir grandi
+
+* PARTICIPE
+
+** Passé
+
+ayant grandi
+grandi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis grandi(e)
+tu es grandi(e)
+il (elle) est grandi(e)
+nous sommes grandi(e)s
+vous êtes grandi(e)s
+ils (elles) sont grandi(e)s
+
+** Imparfait
+
+j'étais grandi(e)
+tu étais grandi(e)
+il (elle) était grandi(e)
+nous étions grandi(e)s
+vous étiez grandi(e)s
+ils (elles) étaient grandi(e)s
+
+** Passé simple
+
+je fus grandi(e)
+tu fus grandi(e)
+il (elle) fut grandi(e)
+nous fûmes grandi(e)s
+vous fûtes grandi(e)s
+ils (elles) furent grandi(e)s
+
+** Futur simple
+
+je serai grandi(e)
+tu seras grandi(e)
+il (elle) sera grandi(e)
+nous serons grandi(e)s
+vous serez grandi(e)s
+ils (elles) seront grandi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais grandi(e)
+tu serais grandi(e)
+il (elle) serait grandi(e)
+nous serions grandi(e)s
+vous seriez grandi(e)s
+ils (elles) seraient grandi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois grandi(e)
+que tu sois grandi(e)
+qu’il (elle) soit grandi(e)
+que nous soyons grandi(e)s
+que vous soyez grandi(e)s
+qu’ils (elles) soient grandi(e)s
+
+** Imparfait
+
+que je fusse grandi(e)
+que tu fusses grandi(e)
+qu’il (elle) fût grandi(e)
+que nous fussions grandi(e)s
+que vous fussiez grandi(e)s
+qu’ils (elles) fussent grandi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons grandi(e)s
+soyez grandi(e)s
+
+* INFINITIF
+
+** Présent
+
+être grandi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant grandi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été grandi(e)
+tu as été grandi(e)
+il (elle) a été grandi(e)
+nous avons été grandi(e)s
+vous avez été grandi(e)s
+ils (elles) ont été grandi(e)s
+
+** Plus-que-parfait
+
+j'avais été grandi(e)
+il (elle) avait été grandi(e)
+nous avions été grandi(e)s
+ils (elles) avaient été grandi(e)s
+
+** Passé antérieur
+
+j'eus été grandi(e)
+tu eus été grandi(e)
+il (elle) eut été grandi(e)
+nous eûmes été grandi(e)s
+vous eûtes été grandi(e)s
+ils (elles) eurent été grandi(e)s
+
+** Futur antérieur
+
+j'aurai été grandi(e)
+tu auras été grandi(e)
+il (elle) aura été grandi(e)
+nous aurons été grandi(e)s
+vous aurez été grandi(e)s
+ils (elles) auront été grandi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été grandi(e)
+j'aurais été grandi(e)
+il (elle) aurait été grandi(e)
+nous aurions été grandi(e)s
+vous auriez été grandi(e)s
+ils (elles) auraient été grandi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été grandi(e)
+que tu aies été grandi(e)
+qu’il (elle) ait été grandi(e)
+que nous ayons été grandi(e)s
+que vous ayez été grandi(e)s
+qu’ils (elles) aient été grandi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été grandi(e)
+que tu eusses été grandi(e)
+qu’il (elle) eût été grandi(e)
+que nous eussions été grandi(e)s
+que vous eussiez été grandi(e)s
+qu’ils (elles) eussent été grandi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été grandi(e)
+ayons été grandi(e)s
+ayez été grandi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été grandi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été grandi(e)(s)

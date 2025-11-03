@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rejeter
+
+* INDICATIF
+
+** Présent
+
+je rejette
+tu rejettes
+il (elle) rejette
+nous rejetons
+vous rejetez
+ils (elles) rejettent
+
+** Imparfait
+
+je rejetais
+tu rejetais
+il (elle) rejetait
+nous rejetions
+vous rejetiez
+ils (elles) rejetaient
+
+** Passé simple
+
+je rejetai
+tu rejetas
+il (elle) rejeta
+nous rejetâmes
+vous rejetâtes
+ils (elles) rejetèrent
+
+** Futur simple
+
+je rejetterai
+tu rejetteras
+il (elle) rejettera
+nous rejetterons
+vous rejetterez
+ils (elles) rejetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je rejetterais
+tu rejetterais
+il (elle) rejetterait
+nous rejetterions
+vous rejetteriez
+ils (elles) rejetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rejette
+que tu rejettes
+qu’il (elle) rejette
+que nous rejetions
+que vous rejetiez
+qu’ils (elles) rejettent
+
+** Imparfait
+
+que je rejetasse
+que tu rejetasses
+qu’il (elle) rejetât
+que nous rejetassions
+que vous rejetassiez
+qu’ils (elles) rejetassent
+
+* IMPÉRATIF
+
+** Présent
+
+rejette
+rejetons
+rejetez
+
+* INFINITIF
+
+** Présent
+
+rejeter
+
+* PARTICIPE
+
+** Présent
+
+rejetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rejeté
+tu as rejeté
+il (elle) a rejeté
+nous avons rejeté
+vous avez rejeté
+ils (elles) ont rejeté
+
+** Plus-que-parfait
+
+j'avais rejeté
+tu avais rejeté
+il (elle) avait rejeté
+nous avions rejeté
+vous aviez rejeté
+ils (elles) avaient rejeté
+
+** Passé antérieur
+
+j'eus rejeté
+tu eus rejeté
+il (elle) eut rejeté
+nous eûmes rejeté
+vous eûtes rejeté
+ils (elles) eurent rejeté
+
+** Futur antérieur
+
+j'aurai rejeté
+tu auras rejeté
+il (elle) aura rejeté
+nous aurons rejeté
+vous aurez rejeté
+ils (elles) auront rejeté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rejeté
+tu aurais rejeté
+il (elle) aurait rejeté
+nous aurions rejeté
+vous auriez rejeté
+ils (elles) auraient rejeté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rejeté
+que tu aies rejeté
+qu’il (elle) ait rejeté
+que nous ayons rejeté
+que vous ayez rejeté
+qu’ils (elles) aient rejeté
+
+** Plus-que-parfait
+
+que j'eusse rejeté
+que tu eusses rejeté
+qu’il (elle) eût rejeté
+que nous eussions rejeté
+que vous eussiez rejeté
+qu’ils (elles) eussent rejeté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rejeté
+ayez rejeté
+
+* INFINITIF
+
+** Passé
+
+avoir rejeté
+
+* PARTICIPE
+
+** Passé
+
+ayant rejeté
+rejeté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rejeté(e)
+tu es rejeté(e)
+il (elle) est rejeté(e)
+nous sommes rejeté(e)s
+vous êtes rejeté(e)s
+ils (elles) sont rejeté(e)s
+
+** Imparfait
+
+j'étais rejeté(e)
+tu étais rejeté(e)
+il (elle) était rejeté(e)
+nous étions rejeté(e)s
+vous étiez rejeté(e)s
+ils (elles) étaient rejeté(e)s
+
+** Passé simple
+
+je fus rejeté(e)
+tu fus rejeté(e)
+il (elle) fut rejeté(e)
+nous fûmes rejeté(e)s
+vous fûtes rejeté(e)s
+ils (elles) furent rejeté(e)s
+
+** Futur simple
+
+je serai rejeté(e)
+tu seras rejeté(e)
+il (elle) sera rejeté(e)
+nous serons rejeté(e)s
+vous serez rejeté(e)s
+ils (elles) seront rejeté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rejeté(e)
+tu serais rejeté(e)
+il (elle) serait rejeté(e)
+nous serions rejeté(e)s
+vous seriez rejeté(e)s
+ils (elles) seraient rejeté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rejeté(e)
+que tu sois rejeté(e)
+qu’il (elle) soit rejeté(e)
+que nous soyons rejeté(e)s
+que vous soyez rejeté(e)s
+qu’ils (elles) soient rejeté(e)s
+
+** Imparfait
+
+que je fusse rejeté(e)
+que tu fusses rejeté(e)
+qu’il (elle) fût rejeté(e)
+que nous fussions rejeté(e)s
+que vous fussiez rejeté(e)s
+qu’ils (elles) fussent rejeté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rejeté(e)s
+soyez rejeté(e)s
+
+* INFINITIF
+
+** Présent
+
+être rejeté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rejeté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rejeté(e)
+tu as été rejeté(e)
+il (elle) a été rejeté(e)
+nous avons été rejeté(e)s
+vous avez été rejeté(e)s
+ils (elles) ont été rejeté(e)s
+
+** Plus-que-parfait
+
+j'avais été rejeté(e)
+il (elle) avait été rejeté(e)
+nous avions été rejeté(e)s
+ils (elles) avaient été rejeté(e)s
+
+** Passé antérieur
+
+j'eus été rejeté(e)
+tu eus été rejeté(e)
+il (elle) eut été rejeté(e)
+nous eûmes été rejeté(e)s
+vous eûtes été rejeté(e)s
+ils (elles) eurent été rejeté(e)s
+
+** Futur antérieur
+
+j'aurai été rejeté(e)
+tu auras été rejeté(e)
+il (elle) aura été rejeté(e)
+nous aurons été rejeté(e)s
+vous aurez été rejeté(e)s
+ils (elles) auront été rejeté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rejeté(e)
+j'aurais été rejeté(e)
+il (elle) aurait été rejeté(e)
+nous aurions été rejeté(e)s
+vous auriez été rejeté(e)s
+ils (elles) auraient été rejeté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rejeté(e)
+que tu aies été rejeté(e)
+qu’il (elle) ait été rejeté(e)
+que nous ayons été rejeté(e)s
+que vous ayez été rejeté(e)s
+qu’ils (elles) aient été rejeté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rejeté(e)
+que tu eusses été rejeté(e)
+qu’il (elle) eût été rejeté(e)
+que nous eussions été rejeté(e)s
+que vous eussiez été rejeté(e)s
+qu’ils (elles) eussent été rejeté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rejeté(e)
+ayons été rejeté(e)s
+ayez été rejeté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rejeté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rejeté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nier
+
+* INDICATIF
+
+** Présent
+
+je nie
+tu nies
+il (elle) nie
+nous nions
+vous niez
+ils (elles) nient
+
+** Imparfait
+
+je niais
+tu niais
+il (elle) niait
+nous niions
+vous niiez
+ils (elles) niaient
+
+** Passé simple
+
+je niai
+tu nias
+il (elle) nia
+nous niâmes
+vous niâtes
+ils (elles) nièrent
+
+** Futur simple
+
+je nierai
+tu nieras
+il (elle) niera
+nous nierons
+vous nierez
+ils (elles) nieront
+
+* CONDITIONNEL
+
+** Présent
+
+je nierais
+tu nierais
+il (elle) nierait
+nous nierions
+vous nieriez
+ils (elles) nieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nie
+que tu nies
+qu’il (elle) nie
+que nous niions
+que vous niiez
+qu’ils (elles) nient
+
+** Imparfait
+
+que je niasse
+que tu niasses
+qu’il (elle) niât
+que nous niassions
+que vous niassiez
+qu’ils (elles) niassent
+
+* IMPÉRATIF
+
+** Présent
+
+nie
+nions
+niez
+
+* INFINITIF
+
+** Présent
+
+nier
+
+* PARTICIPE
+
+** Présent
+
+niant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nié
+tu as nié
+il (elle) a nié
+nous avons nié
+vous avez nié
+ils (elles) ont nié
+
+** Plus-que-parfait
+
+j'avais nié
+tu avais nié
+il (elle) avait nié
+nous avions nié
+vous aviez nié
+ils (elles) avaient nié
+
+** Passé antérieur
+
+j'eus nié
+tu eus nié
+il (elle) eut nié
+nous eûmes nié
+vous eûtes nié
+ils (elles) eurent nié
+
+** Futur antérieur
+
+j'aurai nié
+tu auras nié
+il (elle) aura nié
+nous aurons nié
+vous aurez nié
+ils (elles) auront nié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nié
+tu aurais nié
+il (elle) aurait nié
+nous aurions nié
+vous auriez nié
+ils (elles) auraient nié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nié
+que tu aies nié
+qu’il (elle) ait nié
+que nous ayons nié
+que vous ayez nié
+qu’ils (elles) aient nié
+
+** Plus-que-parfait
+
+que j'eusse nié
+que tu eusses nié
+qu’il (elle) eût nié
+que nous eussions nié
+que vous eussiez nié
+qu’ils (elles) eussent nié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nié
+ayez nié
+
+* INFINITIF
+
+** Passé
+
+avoir nié
+
+* PARTICIPE
+
+** Passé
+
+ayant nié
+nié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nié(e)
+tu es nié(e)
+il (elle) est nié(e)
+nous sommes nié(e)s
+vous êtes nié(e)s
+ils (elles) sont nié(e)s
+
+** Imparfait
+
+j'étais nié(e)
+tu étais nié(e)
+il (elle) était nié(e)
+nous étions nié(e)s
+vous étiez nié(e)s
+ils (elles) étaient nié(e)s
+
+** Passé simple
+
+je fus nié(e)
+tu fus nié(e)
+il (elle) fut nié(e)
+nous fûmes nié(e)s
+vous fûtes nié(e)s
+ils (elles) furent nié(e)s
+
+** Futur simple
+
+je serai nié(e)
+tu seras nié(e)
+il (elle) sera nié(e)
+nous serons nié(e)s
+vous serez nié(e)s
+ils (elles) seront nié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nié(e)
+tu serais nié(e)
+il (elle) serait nié(e)
+nous serions nié(e)s
+vous seriez nié(e)s
+ils (elles) seraient nié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nié(e)
+que tu sois nié(e)
+qu’il (elle) soit nié(e)
+que nous soyons nié(e)s
+que vous soyez nié(e)s
+qu’ils (elles) soient nié(e)s
+
+** Imparfait
+
+que je fusse nié(e)
+que tu fusses nié(e)
+qu’il (elle) fût nié(e)
+que nous fussions nié(e)s
+que vous fussiez nié(e)s
+qu’ils (elles) fussent nié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nié(e)s
+soyez nié(e)s
+
+* INFINITIF
+
+** Présent
+
+être nié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nié(e)
+tu as été nié(e)
+il (elle) a été nié(e)
+nous avons été nié(e)s
+vous avez été nié(e)s
+ils (elles) ont été nié(e)s
+
+** Plus-que-parfait
+
+j'avais été nié(e)
+il (elle) avait été nié(e)
+nous avions été nié(e)s
+ils (elles) avaient été nié(e)s
+
+** Passé antérieur
+
+j'eus été nié(e)
+tu eus été nié(e)
+il (elle) eut été nié(e)
+nous eûmes été nié(e)s
+vous eûtes été nié(e)s
+ils (elles) eurent été nié(e)s
+
+** Futur antérieur
+
+j'aurai été nié(e)
+tu auras été nié(e)
+il (elle) aura été nié(e)
+nous aurons été nié(e)s
+vous aurez été nié(e)s
+ils (elles) auront été nié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nié(e)
+j'aurais été nié(e)
+il (elle) aurait été nié(e)
+nous aurions été nié(e)s
+vous auriez été nié(e)s
+ils (elles) auraient été nié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nié(e)
+que tu aies été nié(e)
+qu’il (elle) ait été nié(e)
+que nous ayons été nié(e)s
+que vous ayez été nié(e)s
+qu’ils (elles) aient été nié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nié(e)
+que tu eusses été nié(e)
+qu’il (elle) eût été nié(e)
+que nous eussions été nié(e)s
+que vous eussiez été nié(e)s
+qu’ils (elles) eussent été nié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nié(e)
+ayons été nié(e)s
+ayez été nié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nié(e)(s)

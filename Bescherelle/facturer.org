@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe facturer
+
+* INDICATIF
+
+** Présent
+
+je facture
+tu factures
+il (elle) facture
+nous facturons
+vous facturez
+ils (elles) facturent
+
+** Imparfait
+
+je facturais
+tu facturais
+il (elle) facturait
+nous facturions
+vous facturiez
+ils (elles) facturaient
+
+** Passé simple
+
+je facturai
+tu facturas
+il (elle) factura
+nous facturâmes
+vous facturâtes
+ils (elles) facturèrent
+
+** Futur simple
+
+je facturerai
+tu factureras
+il (elle) facturera
+nous facturerons
+vous facturerez
+ils (elles) factureront
+
+* CONDITIONNEL
+
+** Présent
+
+je facturerais
+tu facturerais
+il (elle) facturerait
+nous facturerions
+vous factureriez
+ils (elles) factureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je facture
+que tu factures
+qu’il (elle) facture
+que nous facturions
+que vous facturiez
+qu’ils (elles) facturent
+
+** Imparfait
+
+que je facturasse
+que tu facturasses
+qu’il (elle) facturât
+que nous facturassions
+que vous facturassiez
+qu’ils (elles) facturassent
+
+* IMPÉRATIF
+
+** Présent
+
+facture
+facturons
+facturez
+
+* INFINITIF
+
+** Présent
+
+facturer
+
+* PARTICIPE
+
+** Présent
+
+facturant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai facturé
+tu as facturé
+il (elle) a facturé
+nous avons facturé
+vous avez facturé
+ils (elles) ont facturé
+
+** Plus-que-parfait
+
+j'avais facturé
+tu avais facturé
+il (elle) avait facturé
+nous avions facturé
+vous aviez facturé
+ils (elles) avaient facturé
+
+** Passé antérieur
+
+j'eus facturé
+tu eus facturé
+il (elle) eut facturé
+nous eûmes facturé
+vous eûtes facturé
+ils (elles) eurent facturé
+
+** Futur antérieur
+
+j'aurai facturé
+tu auras facturé
+il (elle) aura facturé
+nous aurons facturé
+vous aurez facturé
+ils (elles) auront facturé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais facturé
+tu aurais facturé
+il (elle) aurait facturé
+nous aurions facturé
+vous auriez facturé
+ils (elles) auraient facturé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie facturé
+que tu aies facturé
+qu’il (elle) ait facturé
+que nous ayons facturé
+que vous ayez facturé
+qu’ils (elles) aient facturé
+
+** Plus-que-parfait
+
+que j'eusse facturé
+que tu eusses facturé
+qu’il (elle) eût facturé
+que nous eussions facturé
+que vous eussiez facturé
+qu’ils (elles) eussent facturé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons facturé
+ayez facturé
+
+* INFINITIF
+
+** Passé
+
+avoir facturé
+
+* PARTICIPE
+
+** Passé
+
+ayant facturé
+facturé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis facturé(e)
+tu es facturé(e)
+il (elle) est facturé(e)
+nous sommes facturé(e)s
+vous êtes facturé(e)s
+ils (elles) sont facturé(e)s
+
+** Imparfait
+
+j'étais facturé(e)
+tu étais facturé(e)
+il (elle) était facturé(e)
+nous étions facturé(e)s
+vous étiez facturé(e)s
+ils (elles) étaient facturé(e)s
+
+** Passé simple
+
+je fus facturé(e)
+tu fus facturé(e)
+il (elle) fut facturé(e)
+nous fûmes facturé(e)s
+vous fûtes facturé(e)s
+ils (elles) furent facturé(e)s
+
+** Futur simple
+
+je serai facturé(e)
+tu seras facturé(e)
+il (elle) sera facturé(e)
+nous serons facturé(e)s
+vous serez facturé(e)s
+ils (elles) seront facturé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais facturé(e)
+tu serais facturé(e)
+il (elle) serait facturé(e)
+nous serions facturé(e)s
+vous seriez facturé(e)s
+ils (elles) seraient facturé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois facturé(e)
+que tu sois facturé(e)
+qu’il (elle) soit facturé(e)
+que nous soyons facturé(e)s
+que vous soyez facturé(e)s
+qu’ils (elles) soient facturé(e)s
+
+** Imparfait
+
+que je fusse facturé(e)
+que tu fusses facturé(e)
+qu’il (elle) fût facturé(e)
+que nous fussions facturé(e)s
+que vous fussiez facturé(e)s
+qu’ils (elles) fussent facturé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons facturé(e)s
+soyez facturé(e)s
+
+* INFINITIF
+
+** Présent
+
+être facturé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant facturé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été facturé(e)
+tu as été facturé(e)
+il (elle) a été facturé(e)
+nous avons été facturé(e)s
+vous avez été facturé(e)s
+ils (elles) ont été facturé(e)s
+
+** Plus-que-parfait
+
+j'avais été facturé(e)
+il (elle) avait été facturé(e)
+nous avions été facturé(e)s
+ils (elles) avaient été facturé(e)s
+
+** Passé antérieur
+
+j'eus été facturé(e)
+tu eus été facturé(e)
+il (elle) eut été facturé(e)
+nous eûmes été facturé(e)s
+vous eûtes été facturé(e)s
+ils (elles) eurent été facturé(e)s
+
+** Futur antérieur
+
+j'aurai été facturé(e)
+tu auras été facturé(e)
+il (elle) aura été facturé(e)
+nous aurons été facturé(e)s
+vous aurez été facturé(e)s
+ils (elles) auront été facturé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été facturé(e)
+j'aurais été facturé(e)
+il (elle) aurait été facturé(e)
+nous aurions été facturé(e)s
+vous auriez été facturé(e)s
+ils (elles) auraient été facturé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été facturé(e)
+que tu aies été facturé(e)
+qu’il (elle) ait été facturé(e)
+que nous ayons été facturé(e)s
+que vous ayez été facturé(e)s
+qu’ils (elles) aient été facturé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été facturé(e)
+que tu eusses été facturé(e)
+qu’il (elle) eût été facturé(e)
+que nous eussions été facturé(e)s
+que vous eussiez été facturé(e)s
+qu’ils (elles) eussent été facturé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été facturé(e)
+ayons été facturé(e)s
+ayez été facturé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été facturé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été facturé(e)(s)

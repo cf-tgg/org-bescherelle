@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe former
+
+* INDICATIF
+
+** Présent
+
+je forme
+tu formes
+il (elle) forme
+nous formons
+vous formez
+ils (elles) forment
+
+** Imparfait
+
+je formais
+tu formais
+il (elle) formait
+nous formions
+vous formiez
+ils (elles) formaient
+
+** Passé simple
+
+je formai
+tu formas
+il (elle) forma
+nous formâmes
+vous formâtes
+ils (elles) formèrent
+
+** Futur simple
+
+je formerai
+tu formeras
+il (elle) formera
+nous formerons
+vous formerez
+ils (elles) formeront
+
+* CONDITIONNEL
+
+** Présent
+
+je formerais
+tu formerais
+il (elle) formerait
+nous formerions
+vous formeriez
+ils (elles) formeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je forme
+que tu formes
+qu’il (elle) forme
+que nous formions
+que vous formiez
+qu’ils (elles) forment
+
+** Imparfait
+
+que je formasse
+que tu formasses
+qu’il (elle) formât
+que nous formassions
+que vous formassiez
+qu’ils (elles) formassent
+
+* IMPÉRATIF
+
+** Présent
+
+forme
+formons
+formez
+
+* INFINITIF
+
+** Présent
+
+former
+
+* PARTICIPE
+
+** Présent
+
+formant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai formé
+tu as formé
+il (elle) a formé
+nous avons formé
+vous avez formé
+ils (elles) ont formé
+
+** Plus-que-parfait
+
+j'avais formé
+tu avais formé
+il (elle) avait formé
+nous avions formé
+vous aviez formé
+ils (elles) avaient formé
+
+** Passé antérieur
+
+j'eus formé
+tu eus formé
+il (elle) eut formé
+nous eûmes formé
+vous eûtes formé
+ils (elles) eurent formé
+
+** Futur antérieur
+
+j'aurai formé
+tu auras formé
+il (elle) aura formé
+nous aurons formé
+vous aurez formé
+ils (elles) auront formé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais formé
+tu aurais formé
+il (elle) aurait formé
+nous aurions formé
+vous auriez formé
+ils (elles) auraient formé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie formé
+que tu aies formé
+qu’il (elle) ait formé
+que nous ayons formé
+que vous ayez formé
+qu’ils (elles) aient formé
+
+** Plus-que-parfait
+
+que j'eusse formé
+que tu eusses formé
+qu’il (elle) eût formé
+que nous eussions formé
+que vous eussiez formé
+qu’ils (elles) eussent formé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons formé
+ayez formé
+
+* INFINITIF
+
+** Passé
+
+avoir formé
+
+* PARTICIPE
+
+** Passé
+
+ayant formé
+formé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis formé(e)
+tu es formé(e)
+il (elle) est formé(e)
+nous sommes formé(e)s
+vous êtes formé(e)s
+ils (elles) sont formé(e)s
+
+** Imparfait
+
+j'étais formé(e)
+tu étais formé(e)
+il (elle) était formé(e)
+nous étions formé(e)s
+vous étiez formé(e)s
+ils (elles) étaient formé(e)s
+
+** Passé simple
+
+je fus formé(e)
+tu fus formé(e)
+il (elle) fut formé(e)
+nous fûmes formé(e)s
+vous fûtes formé(e)s
+ils (elles) furent formé(e)s
+
+** Futur simple
+
+je serai formé(e)
+tu seras formé(e)
+il (elle) sera formé(e)
+nous serons formé(e)s
+vous serez formé(e)s
+ils (elles) seront formé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais formé(e)
+tu serais formé(e)
+il (elle) serait formé(e)
+nous serions formé(e)s
+vous seriez formé(e)s
+ils (elles) seraient formé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois formé(e)
+que tu sois formé(e)
+qu’il (elle) soit formé(e)
+que nous soyons formé(e)s
+que vous soyez formé(e)s
+qu’ils (elles) soient formé(e)s
+
+** Imparfait
+
+que je fusse formé(e)
+que tu fusses formé(e)
+qu’il (elle) fût formé(e)
+que nous fussions formé(e)s
+que vous fussiez formé(e)s
+qu’ils (elles) fussent formé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons formé(e)s
+soyez formé(e)s
+
+* INFINITIF
+
+** Présent
+
+être formé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant formé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été formé(e)
+tu as été formé(e)
+il (elle) a été formé(e)
+nous avons été formé(e)s
+vous avez été formé(e)s
+ils (elles) ont été formé(e)s
+
+** Plus-que-parfait
+
+j'avais été formé(e)
+il (elle) avait été formé(e)
+nous avions été formé(e)s
+ils (elles) avaient été formé(e)s
+
+** Passé antérieur
+
+j'eus été formé(e)
+tu eus été formé(e)
+il (elle) eut été formé(e)
+nous eûmes été formé(e)s
+vous eûtes été formé(e)s
+ils (elles) eurent été formé(e)s
+
+** Futur antérieur
+
+j'aurai été formé(e)
+tu auras été formé(e)
+il (elle) aura été formé(e)
+nous aurons été formé(e)s
+vous aurez été formé(e)s
+ils (elles) auront été formé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été formé(e)
+j'aurais été formé(e)
+il (elle) aurait été formé(e)
+nous aurions été formé(e)s
+vous auriez été formé(e)s
+ils (elles) auraient été formé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été formé(e)
+que tu aies été formé(e)
+qu’il (elle) ait été formé(e)
+que nous ayons été formé(e)s
+que vous ayez été formé(e)s
+qu’ils (elles) aient été formé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été formé(e)
+que tu eusses été formé(e)
+qu’il (elle) eût été formé(e)
+que nous eussions été formé(e)s
+que vous eussiez été formé(e)s
+qu’ils (elles) eussent été formé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été formé(e)
+ayons été formé(e)s
+ayez été formé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été formé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été formé(e)(s)

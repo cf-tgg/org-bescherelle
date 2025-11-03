@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gager
+
+* INDICATIF
+
+** Présent
+
+je gage
+tu gages
+il (elle) gage
+nous gageons
+vous gagez
+ils (elles) gagent
+
+** Imparfait
+
+je gageais
+tu gageais
+il (elle) gageait
+nous gagions
+vous gagiez
+ils (elles) gageaient
+
+** Passé simple
+
+je gageai
+tu gageas
+il (elle) gagea
+nous gageâmes
+vous gageâtes
+ils (elles) gagèrent
+
+** Futur simple
+
+je gagerai
+tu gageras
+il (elle) gagera
+nous gagerons
+vous gagerez
+ils (elles) gageront
+
+* CONDITIONNEL
+
+** Présent
+
+je gagerais
+tu gagerais
+il (elle) gagerait
+nous gagerions
+vous gageriez
+ils (elles) gageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gage
+que tu gages
+qu’il (elle) gage
+que nous gagions
+que vous gagiez
+qu’ils (elles) gagent
+
+** Imparfait
+
+que je gageasse
+que tu gageasses
+qu’il (elle) gageât
+que nous gageassions
+que vous gageassiez
+qu’ils (elles) gageassent
+
+* IMPÉRATIF
+
+** Présent
+
+gage
+gageons
+gagez
+
+* INFINITIF
+
+** Présent
+
+gager
+
+* PARTICIPE
+
+** Présent
+
+gageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gagé
+tu as gagé
+il (elle) a gagé
+nous avons gagé
+vous avez gagé
+ils (elles) ont gagé
+
+** Plus-que-parfait
+
+j'avais gagé
+tu avais gagé
+il (elle) avait gagé
+nous avions gagé
+vous aviez gagé
+ils (elles) avaient gagé
+
+** Passé antérieur
+
+j'eus gagé
+tu eus gagé
+il (elle) eut gagé
+nous eûmes gagé
+vous eûtes gagé
+ils (elles) eurent gagé
+
+** Futur antérieur
+
+j'aurai gagé
+tu auras gagé
+il (elle) aura gagé
+nous aurons gagé
+vous aurez gagé
+ils (elles) auront gagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gagé
+tu aurais gagé
+il (elle) aurait gagé
+nous aurions gagé
+vous auriez gagé
+ils (elles) auraient gagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gagé
+que tu aies gagé
+qu’il (elle) ait gagé
+que nous ayons gagé
+que vous ayez gagé
+qu’ils (elles) aient gagé
+
+** Plus-que-parfait
+
+que j'eusse gagé
+que tu eusses gagé
+qu’il (elle) eût gagé
+que nous eussions gagé
+que vous eussiez gagé
+qu’ils (elles) eussent gagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gagé
+ayez gagé
+
+* INFINITIF
+
+** Passé
+
+avoir gagé
+
+* PARTICIPE
+
+** Passé
+
+ayant gagé
+gagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gagé(e)
+tu es gagé(e)
+il (elle) est gagé(e)
+nous sommes gagé(e)s
+vous êtes gagé(e)s
+ils (elles) sont gagé(e)s
+
+** Imparfait
+
+j'étais gagé(e)
+tu étais gagé(e)
+il (elle) était gagé(e)
+nous étions gagé(e)s
+vous étiez gagé(e)s
+ils (elles) étaient gagé(e)s
+
+** Passé simple
+
+je fus gagé(e)
+tu fus gagé(e)
+il (elle) fut gagé(e)
+nous fûmes gagé(e)s
+vous fûtes gagé(e)s
+ils (elles) furent gagé(e)s
+
+** Futur simple
+
+je serai gagé(e)
+tu seras gagé(e)
+il (elle) sera gagé(e)
+nous serons gagé(e)s
+vous serez gagé(e)s
+ils (elles) seront gagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gagé(e)
+tu serais gagé(e)
+il (elle) serait gagé(e)
+nous serions gagé(e)s
+vous seriez gagé(e)s
+ils (elles) seraient gagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gagé(e)
+que tu sois gagé(e)
+qu’il (elle) soit gagé(e)
+que nous soyons gagé(e)s
+que vous soyez gagé(e)s
+qu’ils (elles) soient gagé(e)s
+
+** Imparfait
+
+que je fusse gagé(e)
+que tu fusses gagé(e)
+qu’il (elle) fût gagé(e)
+que nous fussions gagé(e)s
+que vous fussiez gagé(e)s
+qu’ils (elles) fussent gagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gagé(e)s
+soyez gagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gagé(e)
+tu as été gagé(e)
+il (elle) a été gagé(e)
+nous avons été gagé(e)s
+vous avez été gagé(e)s
+ils (elles) ont été gagé(e)s
+
+** Plus-que-parfait
+
+j'avais été gagé(e)
+il (elle) avait été gagé(e)
+nous avions été gagé(e)s
+ils (elles) avaient été gagé(e)s
+
+** Passé antérieur
+
+j'eus été gagé(e)
+tu eus été gagé(e)
+il (elle) eut été gagé(e)
+nous eûmes été gagé(e)s
+vous eûtes été gagé(e)s
+ils (elles) eurent été gagé(e)s
+
+** Futur antérieur
+
+j'aurai été gagé(e)
+tu auras été gagé(e)
+il (elle) aura été gagé(e)
+nous aurons été gagé(e)s
+vous aurez été gagé(e)s
+ils (elles) auront été gagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gagé(e)
+j'aurais été gagé(e)
+il (elle) aurait été gagé(e)
+nous aurions été gagé(e)s
+vous auriez été gagé(e)s
+ils (elles) auraient été gagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gagé(e)
+que tu aies été gagé(e)
+qu’il (elle) ait été gagé(e)
+que nous ayons été gagé(e)s
+que vous ayez été gagé(e)s
+qu’ils (elles) aient été gagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gagé(e)
+que tu eusses été gagé(e)
+qu’il (elle) eût été gagé(e)
+que nous eussions été gagé(e)s
+que vous eussiez été gagé(e)s
+qu’ils (elles) eussent été gagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gagé(e)
+ayons été gagé(e)s
+ayez été gagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gagé(e)(s)

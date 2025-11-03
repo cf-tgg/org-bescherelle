@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reapprendre
+
+* INDICATIF
+
+** Présent
+
+je réapprends
+tu réapprends
+il (elle) réapprend
+nous réapprenons
+vous réapprenez
+ils (elles) réapprennent
+
+** Imparfait
+
+je réapprenais
+tu réapprenais
+il (elle) réapprenait
+nous réapprenions
+vous réappreniez
+ils (elles) réapprenaient
+
+** Passé simple
+
+je réappris
+tu réappris
+il (elle) réapprit
+nous réapprîmes
+vous réapprîtes
+ils (elles) réapprirent
+
+** Futur simple
+
+je réapprendrai
+tu réapprendras
+il (elle) réapprendra
+nous réapprendrons
+vous réapprendrez
+ils (elles) réapprendront
+
+* CONDITIONNEL
+
+** Présent
+
+je réapprendrais
+tu réapprendrais
+il (elle) réapprendrait
+nous réapprendrions
+vous réapprendriez
+ils (elles) réapprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réapprenne
+que tu réapprennes
+qu’il (elle) réapprenne
+que nous réapprenions
+que vous réappreniez
+qu’ils (elles) réapprennent
+
+** Imparfait
+
+que je réapprisse
+que tu réapprisses
+qu’il (elle) réapprît
+que nous réapprissions
+que vous réapprissiez
+qu’ils (elles) réapprissent
+
+* IMPÉRATIF
+
+** Présent
+
+réapprends
+réapprenons
+réapprenez
+
+* INFINITIF
+
+** Présent
+
+réapprendre
+
+* PARTICIPE
+
+** Présent
+
+réapprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réappris
+tu as réappris
+il (elle) a réappris
+nous avons réappris
+vous avez réappris
+ils (elles) ont réappris
+
+** Plus-que-parfait
+
+j'avais réappris
+tu avais réappris
+il (elle) avait réappris
+nous avions réappris
+vous aviez réappris
+ils (elles) avaient réappris
+
+** Passé antérieur
+
+j'eus réappris
+tu eus réappris
+il (elle) eut réappris
+nous eûmes réappris
+vous eûtes réappris
+ils (elles) eurent réappris
+
+** Futur antérieur
+
+j'aurai réappris
+tu auras réappris
+il (elle) aura réappris
+nous aurons réappris
+vous aurez réappris
+ils (elles) auront réappris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réappris
+tu aurais réappris
+il (elle) aurait réappris
+nous aurions réappris
+vous auriez réappris
+ils (elles) auraient réappris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réappris
+que tu aies réappris
+qu’il (elle) ait réappris
+que nous ayons réappris
+que vous ayez réappris
+qu’ils (elles) aient réappris
+
+** Plus-que-parfait
+
+que j'eusse réappris
+que tu eusses réappris
+qu’il (elle) eût réappris
+que nous eussions réappris
+que vous eussiez réappris
+qu’ils (elles) eussent réappris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réappris
+ayez réappris
+
+* INFINITIF
+
+** Passé
+
+avoir réappris
+
+* PARTICIPE
+
+** Passé
+
+ayant réappris
+réappris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis réappris(e)
+tu es réappris(e)
+il (elle) est réappris(e)
+nous sommes réappris(es)
+vous êtes réappris(es)
+ils (elles) sont réappris(es)
+
+** Imparfait
+
+j'étais réappris(e)
+tu étais réappris(e)
+il (elle) était réappris(e)
+nous étions réappris(es)
+vous étiez réappris(es)
+ils (elles) étaient réappris(es)
+
+** Passé simple
+
+je fus réappris(e)
+tu fus réappris(e)
+il (elle) fut réappris(e)
+nous fûmes réappris(es)
+vous fûtes réappris(es)
+ils (elles) furent réappris(es)
+
+** Futur simple
+
+je serai réappris(e)
+tu seras réappris(e)
+il (elle) sera réappris(e)
+nous serons réappris(es)
+vous serez réappris(es)
+ils (elles) seront réappris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réappris(e)
+tu serais réappris(e)
+il (elle) serait réappris(e)
+nous serions réappris(es)
+vous seriez réappris(es)
+ils (elles) seraient réappris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réappris(e)
+que tu sois réappris(e)
+qu’il (elle) soit réappris(e)
+que nous soyons réappris(es)
+que vous soyez réappris(es)
+qu’ils (elles) soient réappris(es)
+
+** Imparfait
+
+que je fusse réappris(e)
+que tu fusses réappris(e)
+qu’il (elle) fût réappris(e)
+que nous fussions réappris(es)
+que vous fussiez réappris(es)
+qu’ils (elles) fussent réappris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réappris(es)
+soyez réappris(es)
+
+* INFINITIF
+
+** Présent
+
+être réappris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant réappris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réappris(e)
+tu as été réappris(e)
+il (elle) a été réappris(e)
+nous avons été réappris(es)
+vous avez été réappris(es)
+ils (elles) ont été réappris(es)
+
+** Plus-que-parfait
+
+j'avais été réappris(e)
+il (elle) avait été réappris(e)
+nous avions été réappris(es)
+ils (elles) avaient été réappris(es)
+
+** Passé antérieur
+
+j'eus été réappris(e)
+tu eus été réappris(e)
+il (elle) eut été réappris(e)
+nous eûmes été réappris(es)
+vous eûtes été réappris(es)
+ils (elles) eurent été réappris(es)
+
+** Futur antérieur
+
+j'aurai été réappris(e)
+tu auras été réappris(e)
+il (elle) aura été réappris(e)
+nous aurons été réappris(es)
+vous aurez été réappris(es)
+ils (elles) auront été réappris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réappris(e)
+j'aurais été réappris(e)
+il (elle) aurait été réappris(e)
+nous aurions été réappris(es)
+vous auriez été réappris(es)
+ils (elles) auraient été réappris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réappris(e)
+que tu aies été réappris(e)
+qu’il (elle) ait été réappris(e)
+que nous ayons été réappris(es)
+que vous ayez été réappris(es)
+qu’ils (elles) aient été réappris(es)
+
+** Plus-que-parfait
+
+que j'eusse été réappris(e)
+que tu eusses été réappris(e)
+qu’il (elle) eût été réappris(e)
+que nous eussions été réappris(es)
+que vous eussiez été réappris(es)
+qu’ils (elles) eussent été réappris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réappris(e)
+ayons été réappris(es)
+ayez été réappris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été réappris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réappris (s, se, s, ses)

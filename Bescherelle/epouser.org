@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe epouser
+
+* INDICATIF
+
+** Présent
+
+j'épouse
+tu épouses
+il (elle) épouse
+nous épousons
+vous épousez
+ils (elles) épousent
+
+** Imparfait
+
+j'épousais
+tu épousais
+il (elle) épousait
+nous épousions
+vous épousiez
+ils (elles) épousaient
+
+** Passé simple
+
+j'épousai
+tu épousas
+il (elle) épousa
+nous épousâmes
+vous épousâtes
+ils (elles) épousèrent
+
+** Futur simple
+
+j'épouserai
+tu épouseras
+il (elle) épousera
+nous épouserons
+vous épouserez
+ils (elles) épouseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'épouserais
+tu épouserais
+il (elle) épouserait
+nous épouserions
+vous épouseriez
+ils (elles) épouseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'épouse
+que tu épouses
+qu’il (elle) épouse
+que nous épousions
+que vous épousiez
+qu’ils (elles) épousent
+
+** Imparfait
+
+que j'épousasse
+que tu épousasses
+qu’il (elle) épousât
+que nous épousassions
+que vous épousassiez
+qu’ils (elles) épousassent
+
+* IMPÉRATIF
+
+** Présent
+
+épouse
+épousons
+épousez
+
+* INFINITIF
+
+** Présent
+
+épouser
+
+* PARTICIPE
+
+** Présent
+
+épousant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai épousé
+tu as épousé
+il (elle) a épousé
+nous avons épousé
+vous avez épousé
+ils (elles) ont épousé
+
+** Plus-que-parfait
+
+j'avais épousé
+tu avais épousé
+il (elle) avait épousé
+nous avions épousé
+vous aviez épousé
+ils (elles) avaient épousé
+
+** Passé antérieur
+
+j'eus épousé
+tu eus épousé
+il (elle) eut épousé
+nous eûmes épousé
+vous eûtes épousé
+ils (elles) eurent épousé
+
+** Futur antérieur
+
+j'aurai épousé
+tu auras épousé
+il (elle) aura épousé
+nous aurons épousé
+vous aurez épousé
+ils (elles) auront épousé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais épousé
+tu aurais épousé
+il (elle) aurait épousé
+nous aurions épousé
+vous auriez épousé
+ils (elles) auraient épousé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie épousé
+que tu aies épousé
+qu’il (elle) ait épousé
+que nous ayons épousé
+que vous ayez épousé
+qu’ils (elles) aient épousé
+
+** Plus-que-parfait
+
+que j'eusse épousé
+que tu eusses épousé
+qu’il (elle) eût épousé
+que nous eussions épousé
+que vous eussiez épousé
+qu’ils (elles) eussent épousé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons épousé
+ayez épousé
+
+* INFINITIF
+
+** Passé
+
+avoir épousé
+
+* PARTICIPE
+
+** Passé
+
+ayant épousé
+épousé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis épousé(e)
+tu es épousé(e)
+il (elle) est épousé(e)
+nous sommes épousé(e)s
+vous êtes épousé(e)s
+ils (elles) sont épousé(e)s
+
+** Imparfait
+
+j'étais épousé(e)
+tu étais épousé(e)
+il (elle) était épousé(e)
+nous étions épousé(e)s
+vous étiez épousé(e)s
+ils (elles) étaient épousé(e)s
+
+** Passé simple
+
+je fus épousé(e)
+tu fus épousé(e)
+il (elle) fut épousé(e)
+nous fûmes épousé(e)s
+vous fûtes épousé(e)s
+ils (elles) furent épousé(e)s
+
+** Futur simple
+
+je serai épousé(e)
+tu seras épousé(e)
+il (elle) sera épousé(e)
+nous serons épousé(e)s
+vous serez épousé(e)s
+ils (elles) seront épousé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais épousé(e)
+tu serais épousé(e)
+il (elle) serait épousé(e)
+nous serions épousé(e)s
+vous seriez épousé(e)s
+ils (elles) seraient épousé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois épousé(e)
+que tu sois épousé(e)
+qu’il (elle) soit épousé(e)
+que nous soyons épousé(e)s
+que vous soyez épousé(e)s
+qu’ils (elles) soient épousé(e)s
+
+** Imparfait
+
+que je fusse épousé(e)
+que tu fusses épousé(e)
+qu’il (elle) fût épousé(e)
+que nous fussions épousé(e)s
+que vous fussiez épousé(e)s
+qu’ils (elles) fussent épousé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons épousé(e)s
+soyez épousé(e)s
+
+* INFINITIF
+
+** Présent
+
+être épousé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant épousé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été épousé(e)
+tu as été épousé(e)
+il (elle) a été épousé(e)
+nous avons été épousé(e)s
+vous avez été épousé(e)s
+ils (elles) ont été épousé(e)s
+
+** Plus-que-parfait
+
+j'avais été épousé(e)
+il (elle) avait été épousé(e)
+nous avions été épousé(e)s
+ils (elles) avaient été épousé(e)s
+
+** Passé antérieur
+
+j'eus été épousé(e)
+tu eus été épousé(e)
+il (elle) eut été épousé(e)
+nous eûmes été épousé(e)s
+vous eûtes été épousé(e)s
+ils (elles) eurent été épousé(e)s
+
+** Futur antérieur
+
+j'aurai été épousé(e)
+tu auras été épousé(e)
+il (elle) aura été épousé(e)
+nous aurons été épousé(e)s
+vous aurez été épousé(e)s
+ils (elles) auront été épousé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été épousé(e)
+j'aurais été épousé(e)
+il (elle) aurait été épousé(e)
+nous aurions été épousé(e)s
+vous auriez été épousé(e)s
+ils (elles) auraient été épousé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été épousé(e)
+que tu aies été épousé(e)
+qu’il (elle) ait été épousé(e)
+que nous ayons été épousé(e)s
+que vous ayez été épousé(e)s
+qu’ils (elles) aient été épousé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été épousé(e)
+que tu eusses été épousé(e)
+qu’il (elle) eût été épousé(e)
+que nous eussions été épousé(e)s
+que vous eussiez été épousé(e)s
+qu’ils (elles) eussent été épousé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été épousé(e)
+ayons été épousé(e)s
+ayez été épousé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été épousé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été épousé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe consentir
+
+* INDICATIF
+
+** Présent
+
+je consens
+tu consens
+il (elle) consent
+nous consentons
+vous consentez
+ils (elles) consentent
+
+** Imparfait
+
+je consentais
+tu consentais
+il (elle) consentait
+nous consentions
+vous consentiez
+ils (elles) consentaient
+
+** Passé simple
+
+je consentis
+tu consentis
+il (elle) consentit
+nous consentîmes
+vous consentîtes
+ils (elles) consentirent
+
+** Futur simple
+
+je consentirai
+tu consentiras
+il (elle) consentira
+nous consentirons
+vous consentirez
+ils (elles) consentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je consentirais
+tu consentirais
+il (elle) consentirait
+nous consentirions
+vous consentiriez
+ils (elles) consentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je consente
+que tu consentes
+qu’il (elle) consente
+que nous consentions
+que vous consentiez
+qu’ils (elles) consentent
+
+** Imparfait
+
+que je consentisse
+que tu consentisses
+qu’il (elle) consentît
+que nous consentissions
+que vous consentissiez
+qu’ils (elles) consentissent
+
+* IMPÉRATIF
+
+** Présent
+
+consens
+consentons
+consentez
+
+* INFINITIF
+
+** Présent
+
+consentir
+
+* PARTICIPE
+
+** Présent
+
+consentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consenti
+tu as consenti
+il (elle) a consenti
+nous avons consenti
+vous avez consenti
+ils (elles) ont consenti
+
+** Plus-que-parfait
+
+j'avais consenti
+tu avais consenti
+il (elle) avait consenti
+nous avions consenti
+vous aviez consenti
+ils (elles) avaient consenti
+
+** Passé antérieur
+
+j'eus consenti
+tu eus consenti
+il (elle) eut consenti
+nous eûmes consenti
+vous eûtes consenti
+ils (elles) eurent consenti
+
+** Futur antérieur
+
+j'aurai consenti
+tu auras consenti
+il (elle) aura consenti
+nous aurons consenti
+vous aurez consenti
+ils (elles) auront consenti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consenti
+tu aurais consenti
+il (elle) aurait consenti
+nous aurions consenti
+vous auriez consenti
+ils (elles) auraient consenti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consenti
+que tu aies consenti
+qu’il (elle) ait consenti
+que nous ayons consenti
+que vous ayez consenti
+qu’ils (elles) aient consenti
+
+** Plus-que-parfait
+
+que j'eusse consenti
+que tu eusses consenti
+qu’il (elle) eût consenti
+que nous eussions consenti
+que vous eussiez consenti
+qu’ils (elles) eussent consenti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consenti
+ayez consenti
+
+* INFINITIF
+
+** Passé
+
+avoir consenti
+
+* PARTICIPE
+
+** Passé
+
+ayant consenti
+consenti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis consenti(e)
+tu es consenti(e)
+il (elle) est consenti(e)
+nous sommes consenti(e)s
+vous êtes consenti(e)s
+ils (elles) sont consenti(e)s
+
+** Imparfait
+
+j'étais consenti(e)
+tu étais consenti(e)
+il (elle) était consenti(e)
+nous étions consenti(e)s
+vous étiez consenti(e)s
+ils (elles) étaient consenti(e)s
+
+** Passé simple
+
+je fus consenti(e)
+tu fus consenti(e)
+il (elle) fut consenti(e)
+nous fûmes consenti(e)s
+vous fûtes consenti(e)s
+ils (elles) furent consenti(e)s
+
+** Futur simple
+
+je serai consenti(e)
+tu seras consenti(e)
+il (elle) sera consenti(e)
+nous serons consenti(e)s
+vous serez consenti(e)s
+ils (elles) seront consenti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais consenti(e)
+tu serais consenti(e)
+il (elle) serait consenti(e)
+nous serions consenti(e)s
+vous seriez consenti(e)s
+ils (elles) seraient consenti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois consenti(e)
+que tu sois consenti(e)
+qu’il (elle) soit consenti(e)
+que nous soyons consenti(e)s
+que vous soyez consenti(e)s
+qu’ils (elles) soient consenti(e)s
+
+** Imparfait
+
+que je fusse consenti(e)
+que tu fusses consenti(e)
+qu’il (elle) fût consenti(e)
+que nous fussions consenti(e)s
+que vous fussiez consenti(e)s
+qu’ils (elles) fussent consenti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons consenti(e)s
+soyez consenti(e)s
+
+* INFINITIF
+
+** Présent
+
+être consenti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant consenti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été consenti(e)
+tu as été consenti(e)
+il (elle) a été consenti(e)
+nous avons été consenti(e)s
+vous avez été consenti(e)s
+ils (elles) ont été consenti(e)s
+
+** Plus-que-parfait
+
+j'avais été consenti(e)
+il (elle) avait été consenti(e)
+nous avions été consenti(e)s
+ils (elles) avaient été consenti(e)s
+
+** Passé antérieur
+
+j'eus été consenti(e)
+tu eus été consenti(e)
+il (elle) eut été consenti(e)
+nous eûmes été consenti(e)s
+vous eûtes été consenti(e)s
+ils (elles) eurent été consenti(e)s
+
+** Futur antérieur
+
+j'aurai été consenti(e)
+tu auras été consenti(e)
+il (elle) aura été consenti(e)
+nous aurons été consenti(e)s
+vous aurez été consenti(e)s
+ils (elles) auront été consenti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été consenti(e)
+j'aurais été consenti(e)
+il (elle) aurait été consenti(e)
+nous aurions été consenti(e)s
+vous auriez été consenti(e)s
+ils (elles) auraient été consenti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été consenti(e)
+que tu aies été consenti(e)
+qu’il (elle) ait été consenti(e)
+que nous ayons été consenti(e)s
+que vous ayez été consenti(e)s
+qu’ils (elles) aient été consenti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été consenti(e)
+que tu eusses été consenti(e)
+qu’il (elle) eût été consenti(e)
+que nous eussions été consenti(e)s
+que vous eussiez été consenti(e)s
+qu’ils (elles) eussent été consenti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été consenti(e)
+ayons été consenti(e)s
+ayez été consenti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été consenti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été consenti(e)(s)

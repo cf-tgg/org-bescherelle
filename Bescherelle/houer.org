@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe houer
+
+* INDICATIF
+
+** Présent
+
+je houe
+tu houes
+il (elle) houe
+nous houons
+vous houez
+ils (elles) houent
+
+** Imparfait
+
+je houais
+tu houais
+il (elle) houait
+nous houions
+vous houiez
+ils (elles) houaient
+
+** Passé simple
+
+je houai
+tu houas
+il (elle) houa
+nous houâmes
+vous houâtes
+ils (elles) houèrent
+
+** Futur simple
+
+je houerai
+tu houeras
+il (elle) houera
+nous houerons
+vous houerez
+ils (elles) houeront
+
+* CONDITIONNEL
+
+** Présent
+
+je houerais
+tu houerais
+il (elle) houerait
+nous houerions
+vous houeriez
+ils (elles) houeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je houe
+que tu houes
+qu’il (elle) houe
+que nous houions
+que vous houiez
+qu’ils (elles) houent
+
+** Imparfait
+
+que je houasse
+que tu houasses
+qu’il (elle) houât
+que nous houassions
+que vous houassiez
+qu’ils (elles) houassent
+
+* IMPÉRATIF
+
+** Présent
+
+houe
+houons
+houez
+
+* INFINITIF
+
+** Présent
+
+houer
+
+* PARTICIPE
+
+** Présent
+
+houant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai houé
+tu as houé
+il (elle) a houé
+nous avons houé
+vous avez houé
+ils (elles) ont houé
+
+** Plus-que-parfait
+
+j'avais houé
+tu avais houé
+il (elle) avait houé
+nous avions houé
+vous aviez houé
+ils (elles) avaient houé
+
+** Passé antérieur
+
+j'eus houé
+tu eus houé
+il (elle) eut houé
+nous eûmes houé
+vous eûtes houé
+ils (elles) eurent houé
+
+** Futur antérieur
+
+j'aurai houé
+tu auras houé
+il (elle) aura houé
+nous aurons houé
+vous aurez houé
+ils (elles) auront houé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais houé
+tu aurais houé
+il (elle) aurait houé
+nous aurions houé
+vous auriez houé
+ils (elles) auraient houé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie houé
+que tu aies houé
+qu’il (elle) ait houé
+que nous ayons houé
+que vous ayez houé
+qu’ils (elles) aient houé
+
+** Plus-que-parfait
+
+que j'eusse houé
+que tu eusses houé
+qu’il (elle) eût houé
+que nous eussions houé
+que vous eussiez houé
+qu’ils (elles) eussent houé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons houé
+ayez houé
+
+* INFINITIF
+
+** Passé
+
+avoir houé
+
+* PARTICIPE
+
+** Passé
+
+ayant houé
+houé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis houé(e)
+tu es houé(e)
+il (elle) est houé(e)
+nous sommes houé(e)s
+vous êtes houé(e)s
+ils (elles) sont houé(e)s
+
+** Imparfait
+
+j'étais houé(e)
+tu étais houé(e)
+il (elle) était houé(e)
+nous étions houé(e)s
+vous étiez houé(e)s
+ils (elles) étaient houé(e)s
+
+** Passé simple
+
+je fus houé(e)
+tu fus houé(e)
+il (elle) fut houé(e)
+nous fûmes houé(e)s
+vous fûtes houé(e)s
+ils (elles) furent houé(e)s
+
+** Futur simple
+
+je serai houé(e)
+tu seras houé(e)
+il (elle) sera houé(e)
+nous serons houé(e)s
+vous serez houé(e)s
+ils (elles) seront houé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais houé(e)
+tu serais houé(e)
+il (elle) serait houé(e)
+nous serions houé(e)s
+vous seriez houé(e)s
+ils (elles) seraient houé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois houé(e)
+que tu sois houé(e)
+qu’il (elle) soit houé(e)
+que nous soyons houé(e)s
+que vous soyez houé(e)s
+qu’ils (elles) soient houé(e)s
+
+** Imparfait
+
+que je fusse houé(e)
+que tu fusses houé(e)
+qu’il (elle) fût houé(e)
+que nous fussions houé(e)s
+que vous fussiez houé(e)s
+qu’ils (elles) fussent houé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons houé(e)s
+soyez houé(e)s
+
+* INFINITIF
+
+** Présent
+
+être houé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant houé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été houé(e)
+tu as été houé(e)
+il (elle) a été houé(e)
+nous avons été houé(e)s
+vous avez été houé(e)s
+ils (elles) ont été houé(e)s
+
+** Plus-que-parfait
+
+j'avais été houé(e)
+il (elle) avait été houé(e)
+nous avions été houé(e)s
+ils (elles) avaient été houé(e)s
+
+** Passé antérieur
+
+j'eus été houé(e)
+tu eus été houé(e)
+il (elle) eut été houé(e)
+nous eûmes été houé(e)s
+vous eûtes été houé(e)s
+ils (elles) eurent été houé(e)s
+
+** Futur antérieur
+
+j'aurai été houé(e)
+tu auras été houé(e)
+il (elle) aura été houé(e)
+nous aurons été houé(e)s
+vous aurez été houé(e)s
+ils (elles) auront été houé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été houé(e)
+j'aurais été houé(e)
+il (elle) aurait été houé(e)
+nous aurions été houé(e)s
+vous auriez été houé(e)s
+ils (elles) auraient été houé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été houé(e)
+que tu aies été houé(e)
+qu’il (elle) ait été houé(e)
+que nous ayons été houé(e)s
+que vous ayez été houé(e)s
+qu’ils (elles) aient été houé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été houé(e)
+que tu eusses été houé(e)
+qu’il (elle) eût été houé(e)
+que nous eussions été houé(e)s
+que vous eussiez été houé(e)s
+qu’ils (elles) eussent été houé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été houé(e)
+ayons été houé(e)s
+ayez été houé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été houé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été houé(e)(s)

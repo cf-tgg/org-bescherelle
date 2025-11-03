@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe examiner
+
+* INDICATIF
+
+** Présent
+
+j'examine
+tu examines
+il (elle) examine
+nous examinons
+vous examinez
+ils (elles) examinent
+
+** Imparfait
+
+j'examinais
+tu examinais
+il (elle) examinait
+nous examinions
+vous examiniez
+ils (elles) examinaient
+
+** Passé simple
+
+j'examinai
+tu examinas
+il (elle) examina
+nous examinâmes
+vous examinâtes
+ils (elles) examinèrent
+
+** Futur simple
+
+j'examinerai
+tu examineras
+il (elle) examinera
+nous examinerons
+vous examinerez
+ils (elles) examineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'examinerais
+tu examinerais
+il (elle) examinerait
+nous examinerions
+vous examineriez
+ils (elles) examineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'examine
+que tu examines
+qu’il (elle) examine
+que nous examinions
+que vous examiniez
+qu’ils (elles) examinent
+
+** Imparfait
+
+que j'examinasse
+que tu examinasses
+qu’il (elle) examinât
+que nous examinassions
+que vous examinassiez
+qu’ils (elles) examinassent
+
+* IMPÉRATIF
+
+** Présent
+
+examine
+examinons
+examinez
+
+* INFINITIF
+
+** Présent
+
+examiner
+
+* PARTICIPE
+
+** Présent
+
+examinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai examiné
+tu as examiné
+il (elle) a examiné
+nous avons examiné
+vous avez examiné
+ils (elles) ont examiné
+
+** Plus-que-parfait
+
+j'avais examiné
+tu avais examiné
+il (elle) avait examiné
+nous avions examiné
+vous aviez examiné
+ils (elles) avaient examiné
+
+** Passé antérieur
+
+j'eus examiné
+tu eus examiné
+il (elle) eut examiné
+nous eûmes examiné
+vous eûtes examiné
+ils (elles) eurent examiné
+
+** Futur antérieur
+
+j'aurai examiné
+tu auras examiné
+il (elle) aura examiné
+nous aurons examiné
+vous aurez examiné
+ils (elles) auront examiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais examiné
+tu aurais examiné
+il (elle) aurait examiné
+nous aurions examiné
+vous auriez examiné
+ils (elles) auraient examiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie examiné
+que tu aies examiné
+qu’il (elle) ait examiné
+que nous ayons examiné
+que vous ayez examiné
+qu’ils (elles) aient examiné
+
+** Plus-que-parfait
+
+que j'eusse examiné
+que tu eusses examiné
+qu’il (elle) eût examiné
+que nous eussions examiné
+que vous eussiez examiné
+qu’ils (elles) eussent examiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons examiné
+ayez examiné
+
+* INFINITIF
+
+** Passé
+
+avoir examiné
+
+* PARTICIPE
+
+** Passé
+
+ayant examiné
+examiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis examiné(e)
+tu es examiné(e)
+il (elle) est examiné(e)
+nous sommes examiné(e)s
+vous êtes examiné(e)s
+ils (elles) sont examiné(e)s
+
+** Imparfait
+
+j'étais examiné(e)
+tu étais examiné(e)
+il (elle) était examiné(e)
+nous étions examiné(e)s
+vous étiez examiné(e)s
+ils (elles) étaient examiné(e)s
+
+** Passé simple
+
+je fus examiné(e)
+tu fus examiné(e)
+il (elle) fut examiné(e)
+nous fûmes examiné(e)s
+vous fûtes examiné(e)s
+ils (elles) furent examiné(e)s
+
+** Futur simple
+
+je serai examiné(e)
+tu seras examiné(e)
+il (elle) sera examiné(e)
+nous serons examiné(e)s
+vous serez examiné(e)s
+ils (elles) seront examiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais examiné(e)
+tu serais examiné(e)
+il (elle) serait examiné(e)
+nous serions examiné(e)s
+vous seriez examiné(e)s
+ils (elles) seraient examiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois examiné(e)
+que tu sois examiné(e)
+qu’il (elle) soit examiné(e)
+que nous soyons examiné(e)s
+que vous soyez examiné(e)s
+qu’ils (elles) soient examiné(e)s
+
+** Imparfait
+
+que je fusse examiné(e)
+que tu fusses examiné(e)
+qu’il (elle) fût examiné(e)
+que nous fussions examiné(e)s
+que vous fussiez examiné(e)s
+qu’ils (elles) fussent examiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons examiné(e)s
+soyez examiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être examiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant examiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été examiné(e)
+tu as été examiné(e)
+il (elle) a été examiné(e)
+nous avons été examiné(e)s
+vous avez été examiné(e)s
+ils (elles) ont été examiné(e)s
+
+** Plus-que-parfait
+
+j'avais été examiné(e)
+il (elle) avait été examiné(e)
+nous avions été examiné(e)s
+ils (elles) avaient été examiné(e)s
+
+** Passé antérieur
+
+j'eus été examiné(e)
+tu eus été examiné(e)
+il (elle) eut été examiné(e)
+nous eûmes été examiné(e)s
+vous eûtes été examiné(e)s
+ils (elles) eurent été examiné(e)s
+
+** Futur antérieur
+
+j'aurai été examiné(e)
+tu auras été examiné(e)
+il (elle) aura été examiné(e)
+nous aurons été examiné(e)s
+vous aurez été examiné(e)s
+ils (elles) auront été examiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été examiné(e)
+j'aurais été examiné(e)
+il (elle) aurait été examiné(e)
+nous aurions été examiné(e)s
+vous auriez été examiné(e)s
+ils (elles) auraient été examiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été examiné(e)
+que tu aies été examiné(e)
+qu’il (elle) ait été examiné(e)
+que nous ayons été examiné(e)s
+que vous ayez été examiné(e)s
+qu’ils (elles) aient été examiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été examiné(e)
+que tu eusses été examiné(e)
+qu’il (elle) eût été examiné(e)
+que nous eussions été examiné(e)s
+que vous eussiez été examiné(e)s
+qu’ils (elles) eussent été examiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été examiné(e)
+ayons été examiné(e)s
+ayez été examiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été examiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été examiné(e)(s)

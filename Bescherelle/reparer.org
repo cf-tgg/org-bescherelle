@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reparer
+
+* INDICATIF
+
+** Présent
+
+je répare
+tu répares
+il (elle) répare
+nous réparons
+vous réparez
+ils (elles) réparent
+
+** Imparfait
+
+je réparais
+tu réparais
+il (elle) réparait
+nous réparions
+vous répariez
+ils (elles) réparaient
+
+** Passé simple
+
+je réparai
+tu réparas
+il (elle) répara
+nous réparâmes
+vous réparâtes
+ils (elles) réparèrent
+
+** Futur simple
+
+je réparerai
+tu répareras
+il (elle) réparera
+nous réparerons
+vous réparerez
+ils (elles) répareront
+
+* CONDITIONNEL
+
+** Présent
+
+je réparerais
+tu réparerais
+il (elle) réparerait
+nous réparerions
+vous répareriez
+ils (elles) répareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je répare
+que tu répares
+qu’il (elle) répare
+que nous réparions
+que vous répariez
+qu’ils (elles) réparent
+
+** Imparfait
+
+que je réparasse
+que tu réparasses
+qu’il (elle) réparât
+que nous réparassions
+que vous réparassiez
+qu’ils (elles) réparassent
+
+* IMPÉRATIF
+
+** Présent
+
+répare
+réparons
+réparez
+
+* INFINITIF
+
+** Présent
+
+réparer
+
+* PARTICIPE
+
+** Présent
+
+réparant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réparé
+tu as réparé
+il (elle) a réparé
+nous avons réparé
+vous avez réparé
+ils (elles) ont réparé
+
+** Plus-que-parfait
+
+j'avais réparé
+tu avais réparé
+il (elle) avait réparé
+nous avions réparé
+vous aviez réparé
+ils (elles) avaient réparé
+
+** Passé antérieur
+
+j'eus réparé
+tu eus réparé
+il (elle) eut réparé
+nous eûmes réparé
+vous eûtes réparé
+ils (elles) eurent réparé
+
+** Futur antérieur
+
+j'aurai réparé
+tu auras réparé
+il (elle) aura réparé
+nous aurons réparé
+vous aurez réparé
+ils (elles) auront réparé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réparé
+tu aurais réparé
+il (elle) aurait réparé
+nous aurions réparé
+vous auriez réparé
+ils (elles) auraient réparé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réparé
+que tu aies réparé
+qu’il (elle) ait réparé
+que nous ayons réparé
+que vous ayez réparé
+qu’ils (elles) aient réparé
+
+** Plus-que-parfait
+
+que j'eusse réparé
+que tu eusses réparé
+qu’il (elle) eût réparé
+que nous eussions réparé
+que vous eussiez réparé
+qu’ils (elles) eussent réparé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réparé
+ayez réparé
+
+* INFINITIF
+
+** Passé
+
+avoir réparé
+
+* PARTICIPE
+
+** Passé
+
+ayant réparé
+réparé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis réparé(e)
+tu es réparé(e)
+il (elle) est réparé(e)
+nous sommes réparé(e)s
+vous êtes réparé(e)s
+ils (elles) sont réparé(e)s
+
+** Imparfait
+
+j'étais réparé(e)
+tu étais réparé(e)
+il (elle) était réparé(e)
+nous étions réparé(e)s
+vous étiez réparé(e)s
+ils (elles) étaient réparé(e)s
+
+** Passé simple
+
+je fus réparé(e)
+tu fus réparé(e)
+il (elle) fut réparé(e)
+nous fûmes réparé(e)s
+vous fûtes réparé(e)s
+ils (elles) furent réparé(e)s
+
+** Futur simple
+
+je serai réparé(e)
+tu seras réparé(e)
+il (elle) sera réparé(e)
+nous serons réparé(e)s
+vous serez réparé(e)s
+ils (elles) seront réparé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réparé(e)
+tu serais réparé(e)
+il (elle) serait réparé(e)
+nous serions réparé(e)s
+vous seriez réparé(e)s
+ils (elles) seraient réparé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réparé(e)
+que tu sois réparé(e)
+qu’il (elle) soit réparé(e)
+que nous soyons réparé(e)s
+que vous soyez réparé(e)s
+qu’ils (elles) soient réparé(e)s
+
+** Imparfait
+
+que je fusse réparé(e)
+que tu fusses réparé(e)
+qu’il (elle) fût réparé(e)
+que nous fussions réparé(e)s
+que vous fussiez réparé(e)s
+qu’ils (elles) fussent réparé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réparé(e)s
+soyez réparé(e)s
+
+* INFINITIF
+
+** Présent
+
+être réparé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réparé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réparé(e)
+tu as été réparé(e)
+il (elle) a été réparé(e)
+nous avons été réparé(e)s
+vous avez été réparé(e)s
+ils (elles) ont été réparé(e)s
+
+** Plus-que-parfait
+
+j'avais été réparé(e)
+il (elle) avait été réparé(e)
+nous avions été réparé(e)s
+ils (elles) avaient été réparé(e)s
+
+** Passé antérieur
+
+j'eus été réparé(e)
+tu eus été réparé(e)
+il (elle) eut été réparé(e)
+nous eûmes été réparé(e)s
+vous eûtes été réparé(e)s
+ils (elles) eurent été réparé(e)s
+
+** Futur antérieur
+
+j'aurai été réparé(e)
+tu auras été réparé(e)
+il (elle) aura été réparé(e)
+nous aurons été réparé(e)s
+vous aurez été réparé(e)s
+ils (elles) auront été réparé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réparé(e)
+j'aurais été réparé(e)
+il (elle) aurait été réparé(e)
+nous aurions été réparé(e)s
+vous auriez été réparé(e)s
+ils (elles) auraient été réparé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réparé(e)
+que tu aies été réparé(e)
+qu’il (elle) ait été réparé(e)
+que nous ayons été réparé(e)s
+que vous ayez été réparé(e)s
+qu’ils (elles) aient été réparé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réparé(e)
+que tu eusses été réparé(e)
+qu’il (elle) eût été réparé(e)
+que nous eussions été réparé(e)s
+que vous eussiez été réparé(e)s
+qu’ils (elles) eussent été réparé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réparé(e)
+ayons été réparé(e)s
+ayez été réparé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réparé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réparé(e)(s)

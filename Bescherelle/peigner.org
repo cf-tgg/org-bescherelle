@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe peigner
+
+* INDICATIF
+
+** Présent
+
+je peigne
+tu peignes
+il (elle) peigne
+nous peignons
+vous peignez
+ils (elles) peignent
+
+** Imparfait
+
+je peignais
+tu peignais
+il (elle) peignait
+nous peignions
+vous peigniez
+ils (elles) peignaient
+
+** Passé simple
+
+je peignai
+tu peignas
+il (elle) peigna
+nous peignâmes
+vous peignâtes
+ils (elles) peignèrent
+
+** Futur simple
+
+je peignerai
+tu peigneras
+il (elle) peignera
+nous peignerons
+vous peignerez
+ils (elles) peigneront
+
+* CONDITIONNEL
+
+** Présent
+
+je peignerais
+tu peignerais
+il (elle) peignerait
+nous peignerions
+vous peigneriez
+ils (elles) peigneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je peigne
+que tu peignes
+qu’il (elle) peigne
+que nous peignions
+que vous peigniez
+qu’ils (elles) peignent
+
+** Imparfait
+
+que je peignasse
+que tu peignasses
+qu’il (elle) peignât
+que nous peignassions
+que vous peignassiez
+qu’ils (elles) peignassent
+
+* IMPÉRATIF
+
+** Présent
+
+peigne
+peignons
+peignez
+
+* INFINITIF
+
+** Présent
+
+peigner
+
+* PARTICIPE
+
+** Présent
+
+peignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai peigné
+tu as peigné
+il (elle) a peigné
+nous avons peigné
+vous avez peigné
+ils (elles) ont peigné
+
+** Plus-que-parfait
+
+j'avais peigné
+tu avais peigné
+il (elle) avait peigné
+nous avions peigné
+vous aviez peigné
+ils (elles) avaient peigné
+
+** Passé antérieur
+
+j'eus peigné
+tu eus peigné
+il (elle) eut peigné
+nous eûmes peigné
+vous eûtes peigné
+ils (elles) eurent peigné
+
+** Futur antérieur
+
+j'aurai peigné
+tu auras peigné
+il (elle) aura peigné
+nous aurons peigné
+vous aurez peigné
+ils (elles) auront peigné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais peigné
+tu aurais peigné
+il (elle) aurait peigné
+nous aurions peigné
+vous auriez peigné
+ils (elles) auraient peigné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie peigné
+que tu aies peigné
+qu’il (elle) ait peigné
+que nous ayons peigné
+que vous ayez peigné
+qu’ils (elles) aient peigné
+
+** Plus-que-parfait
+
+que j'eusse peigné
+que tu eusses peigné
+qu’il (elle) eût peigné
+que nous eussions peigné
+que vous eussiez peigné
+qu’ils (elles) eussent peigné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons peigné
+ayez peigné
+
+* INFINITIF
+
+** Passé
+
+avoir peigné
+
+* PARTICIPE
+
+** Passé
+
+ayant peigné
+peigné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis peigné(e)
+tu es peigné(e)
+il (elle) est peigné(e)
+nous sommes peigné(e)s
+vous êtes peigné(e)s
+ils (elles) sont peigné(e)s
+
+** Imparfait
+
+j'étais peigné(e)
+tu étais peigné(e)
+il (elle) était peigné(e)
+nous étions peigné(e)s
+vous étiez peigné(e)s
+ils (elles) étaient peigné(e)s
+
+** Passé simple
+
+je fus peigné(e)
+tu fus peigné(e)
+il (elle) fut peigné(e)
+nous fûmes peigné(e)s
+vous fûtes peigné(e)s
+ils (elles) furent peigné(e)s
+
+** Futur simple
+
+je serai peigné(e)
+tu seras peigné(e)
+il (elle) sera peigné(e)
+nous serons peigné(e)s
+vous serez peigné(e)s
+ils (elles) seront peigné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais peigné(e)
+tu serais peigné(e)
+il (elle) serait peigné(e)
+nous serions peigné(e)s
+vous seriez peigné(e)s
+ils (elles) seraient peigné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois peigné(e)
+que tu sois peigné(e)
+qu’il (elle) soit peigné(e)
+que nous soyons peigné(e)s
+que vous soyez peigné(e)s
+qu’ils (elles) soient peigné(e)s
+
+** Imparfait
+
+que je fusse peigné(e)
+que tu fusses peigné(e)
+qu’il (elle) fût peigné(e)
+que nous fussions peigné(e)s
+que vous fussiez peigné(e)s
+qu’ils (elles) fussent peigné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons peigné(e)s
+soyez peigné(e)s
+
+* INFINITIF
+
+** Présent
+
+être peigné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant peigné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été peigné(e)
+tu as été peigné(e)
+il (elle) a été peigné(e)
+nous avons été peigné(e)s
+vous avez été peigné(e)s
+ils (elles) ont été peigné(e)s
+
+** Plus-que-parfait
+
+j'avais été peigné(e)
+il (elle) avait été peigné(e)
+nous avions été peigné(e)s
+ils (elles) avaient été peigné(e)s
+
+** Passé antérieur
+
+j'eus été peigné(e)
+tu eus été peigné(e)
+il (elle) eut été peigné(e)
+nous eûmes été peigné(e)s
+vous eûtes été peigné(e)s
+ils (elles) eurent été peigné(e)s
+
+** Futur antérieur
+
+j'aurai été peigné(e)
+tu auras été peigné(e)
+il (elle) aura été peigné(e)
+nous aurons été peigné(e)s
+vous aurez été peigné(e)s
+ils (elles) auront été peigné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été peigné(e)
+j'aurais été peigné(e)
+il (elle) aurait été peigné(e)
+nous aurions été peigné(e)s
+vous auriez été peigné(e)s
+ils (elles) auraient été peigné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été peigné(e)
+que tu aies été peigné(e)
+qu’il (elle) ait été peigné(e)
+que nous ayons été peigné(e)s
+que vous ayez été peigné(e)s
+qu’ils (elles) aient été peigné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été peigné(e)
+que tu eusses été peigné(e)
+qu’il (elle) eût été peigné(e)
+que nous eussions été peigné(e)s
+que vous eussiez été peigné(e)s
+qu’ils (elles) eussent été peigné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été peigné(e)
+ayons été peigné(e)s
+ayez été peigné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été peigné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été peigné(e)(s)

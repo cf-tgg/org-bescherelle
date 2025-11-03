@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe coucher
+
+* INDICATIF
+
+** Présent
+
+je couche
+tu couches
+il (elle) couche
+nous couchons
+vous couchez
+ils (elles) couchent
+
+** Imparfait
+
+je couchais
+tu couchais
+il (elle) couchait
+nous couchions
+vous couchiez
+ils (elles) couchaient
+
+** Passé simple
+
+je couchai
+tu couchas
+il (elle) coucha
+nous couchâmes
+vous couchâtes
+ils (elles) couchèrent
+
+** Futur simple
+
+je coucherai
+tu coucheras
+il (elle) couchera
+nous coucherons
+vous coucherez
+ils (elles) coucheront
+
+* CONDITIONNEL
+
+** Présent
+
+je coucherais
+tu coucherais
+il (elle) coucherait
+nous coucherions
+vous coucheriez
+ils (elles) coucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je couche
+que tu couches
+qu’il (elle) couche
+que nous couchions
+que vous couchiez
+qu’ils (elles) couchent
+
+** Imparfait
+
+que je couchasse
+que tu couchasses
+qu’il (elle) couchât
+que nous couchassions
+que vous couchassiez
+qu’ils (elles) couchassent
+
+* IMPÉRATIF
+
+** Présent
+
+couche
+couchons
+couchez
+
+* INFINITIF
+
+** Présent
+
+coucher
+
+* PARTICIPE
+
+** Présent
+
+couchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai couché
+tu as couché
+il (elle) a couché
+nous avons couché
+vous avez couché
+ils (elles) ont couché
+
+** Plus-que-parfait
+
+j'avais couché
+tu avais couché
+il (elle) avait couché
+nous avions couché
+vous aviez couché
+ils (elles) avaient couché
+
+** Passé antérieur
+
+j'eus couché
+tu eus couché
+il (elle) eut couché
+nous eûmes couché
+vous eûtes couché
+ils (elles) eurent couché
+
+** Futur antérieur
+
+j'aurai couché
+tu auras couché
+il (elle) aura couché
+nous aurons couché
+vous aurez couché
+ils (elles) auront couché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais couché
+tu aurais couché
+il (elle) aurait couché
+nous aurions couché
+vous auriez couché
+ils (elles) auraient couché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie couché
+que tu aies couché
+qu’il (elle) ait couché
+que nous ayons couché
+que vous ayez couché
+qu’ils (elles) aient couché
+
+** Plus-que-parfait
+
+que j'eusse couché
+que tu eusses couché
+qu’il (elle) eût couché
+que nous eussions couché
+que vous eussiez couché
+qu’ils (elles) eussent couché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons couché
+ayez couché
+
+* INFINITIF
+
+** Passé
+
+avoir couché
+
+* PARTICIPE
+
+** Passé
+
+ayant couché
+couché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis couché(e)
+tu es couché(e)
+il (elle) est couché(e)
+nous sommes couché(e)s
+vous êtes couché(e)s
+ils (elles) sont couché(e)s
+
+** Imparfait
+
+j'étais couché(e)
+tu étais couché(e)
+il (elle) était couché(e)
+nous étions couché(e)s
+vous étiez couché(e)s
+ils (elles) étaient couché(e)s
+
+** Passé simple
+
+je fus couché(e)
+tu fus couché(e)
+il (elle) fut couché(e)
+nous fûmes couché(e)s
+vous fûtes couché(e)s
+ils (elles) furent couché(e)s
+
+** Futur simple
+
+je serai couché(e)
+tu seras couché(e)
+il (elle) sera couché(e)
+nous serons couché(e)s
+vous serez couché(e)s
+ils (elles) seront couché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais couché(e)
+tu serais couché(e)
+il (elle) serait couché(e)
+nous serions couché(e)s
+vous seriez couché(e)s
+ils (elles) seraient couché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois couché(e)
+que tu sois couché(e)
+qu’il (elle) soit couché(e)
+que nous soyons couché(e)s
+que vous soyez couché(e)s
+qu’ils (elles) soient couché(e)s
+
+** Imparfait
+
+que je fusse couché(e)
+que tu fusses couché(e)
+qu’il (elle) fût couché(e)
+que nous fussions couché(e)s
+que vous fussiez couché(e)s
+qu’ils (elles) fussent couché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons couché(e)s
+soyez couché(e)s
+
+* INFINITIF
+
+** Présent
+
+être couché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant couché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été couché(e)
+tu as été couché(e)
+il (elle) a été couché(e)
+nous avons été couché(e)s
+vous avez été couché(e)s
+ils (elles) ont été couché(e)s
+
+** Plus-que-parfait
+
+j'avais été couché(e)
+il (elle) avait été couché(e)
+nous avions été couché(e)s
+ils (elles) avaient été couché(e)s
+
+** Passé antérieur
+
+j'eus été couché(e)
+tu eus été couché(e)
+il (elle) eut été couché(e)
+nous eûmes été couché(e)s
+vous eûtes été couché(e)s
+ils (elles) eurent été couché(e)s
+
+** Futur antérieur
+
+j'aurai été couché(e)
+tu auras été couché(e)
+il (elle) aura été couché(e)
+nous aurons été couché(e)s
+vous aurez été couché(e)s
+ils (elles) auront été couché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été couché(e)
+j'aurais été couché(e)
+il (elle) aurait été couché(e)
+nous aurions été couché(e)s
+vous auriez été couché(e)s
+ils (elles) auraient été couché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été couché(e)
+que tu aies été couché(e)
+qu’il (elle) ait été couché(e)
+que nous ayons été couché(e)s
+que vous ayez été couché(e)s
+qu’ils (elles) aient été couché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été couché(e)
+que tu eusses été couché(e)
+qu’il (elle) eût été couché(e)
+que nous eussions été couché(e)s
+que vous eussiez été couché(e)s
+qu’ils (elles) eussent été couché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été couché(e)
+ayons été couché(e)s
+ayez été couché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été couché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été couché(e)(s)

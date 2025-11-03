@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pelleter
+
+* INDICATIF
+
+** Présent
+
+je pellette
+tu pellettes
+il (elle) pellette
+nous pelletons
+vous pelletez
+ils (elles) pellettent
+
+** Imparfait
+
+je pelletais
+tu pelletais
+il (elle) pelletait
+nous pelletions
+vous pelletiez
+ils (elles) pelletaient
+
+** Passé simple
+
+je pelletai
+tu pelletas
+il (elle) pelleta
+nous pelletâmes
+vous pelletâtes
+ils (elles) pelletèrent
+
+** Futur simple
+
+je pelletterai
+tu pelletteras
+il (elle) pellettera
+nous pelletterons
+vous pelletterez
+ils (elles) pelletteront
+
+* CONDITIONNEL
+
+** Présent
+
+je pelletterais
+tu pelletterais
+il (elle) pelletterait
+nous pelletterions
+vous pelletteriez
+ils (elles) pelletteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pellette
+que tu pellettes
+qu’il (elle) pellette
+que nous pelletions
+que vous pelletiez
+qu’ils (elles) pellettent
+
+** Imparfait
+
+que je pelletasse
+que tu pelletasses
+qu’il (elle) pelletât
+que nous pelletassions
+que vous pelletassiez
+qu’ils (elles) pelletassent
+
+* IMPÉRATIF
+
+** Présent
+
+pellette
+pelletons
+pelletez
+
+* INFINITIF
+
+** Présent
+
+pelleter
+
+* PARTICIPE
+
+** Présent
+
+pelletant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pelleté
+tu as pelleté
+il (elle) a pelleté
+nous avons pelleté
+vous avez pelleté
+ils (elles) ont pelleté
+
+** Plus-que-parfait
+
+j'avais pelleté
+tu avais pelleté
+il (elle) avait pelleté
+nous avions pelleté
+vous aviez pelleté
+ils (elles) avaient pelleté
+
+** Passé antérieur
+
+j'eus pelleté
+tu eus pelleté
+il (elle) eut pelleté
+nous eûmes pelleté
+vous eûtes pelleté
+ils (elles) eurent pelleté
+
+** Futur antérieur
+
+j'aurai pelleté
+tu auras pelleté
+il (elle) aura pelleté
+nous aurons pelleté
+vous aurez pelleté
+ils (elles) auront pelleté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pelleté
+tu aurais pelleté
+il (elle) aurait pelleté
+nous aurions pelleté
+vous auriez pelleté
+ils (elles) auraient pelleté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pelleté
+que tu aies pelleté
+qu’il (elle) ait pelleté
+que nous ayons pelleté
+que vous ayez pelleté
+qu’ils (elles) aient pelleté
+
+** Plus-que-parfait
+
+que j'eusse pelleté
+que tu eusses pelleté
+qu’il (elle) eût pelleté
+que nous eussions pelleté
+que vous eussiez pelleté
+qu’ils (elles) eussent pelleté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pelleté
+ayez pelleté
+
+* INFINITIF
+
+** Passé
+
+avoir pelleté
+
+* PARTICIPE
+
+** Passé
+
+ayant pelleté
+pelleté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pelleté(e)
+tu es pelleté(e)
+il (elle) est pelleté(e)
+nous sommes pelleté(e)s
+vous êtes pelleté(e)s
+ils (elles) sont pelleté(e)s
+
+** Imparfait
+
+j'étais pelleté(e)
+tu étais pelleté(e)
+il (elle) était pelleté(e)
+nous étions pelleté(e)s
+vous étiez pelleté(e)s
+ils (elles) étaient pelleté(e)s
+
+** Passé simple
+
+je fus pelleté(e)
+tu fus pelleté(e)
+il (elle) fut pelleté(e)
+nous fûmes pelleté(e)s
+vous fûtes pelleté(e)s
+ils (elles) furent pelleté(e)s
+
+** Futur simple
+
+je serai pelleté(e)
+tu seras pelleté(e)
+il (elle) sera pelleté(e)
+nous serons pelleté(e)s
+vous serez pelleté(e)s
+ils (elles) seront pelleté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pelleté(e)
+tu serais pelleté(e)
+il (elle) serait pelleté(e)
+nous serions pelleté(e)s
+vous seriez pelleté(e)s
+ils (elles) seraient pelleté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pelleté(e)
+que tu sois pelleté(e)
+qu’il (elle) soit pelleté(e)
+que nous soyons pelleté(e)s
+que vous soyez pelleté(e)s
+qu’ils (elles) soient pelleté(e)s
+
+** Imparfait
+
+que je fusse pelleté(e)
+que tu fusses pelleté(e)
+qu’il (elle) fût pelleté(e)
+que nous fussions pelleté(e)s
+que vous fussiez pelleté(e)s
+qu’ils (elles) fussent pelleté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pelleté(e)s
+soyez pelleté(e)s
+
+* INFINITIF
+
+** Présent
+
+être pelleté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pelleté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pelleté(e)
+tu as été pelleté(e)
+il (elle) a été pelleté(e)
+nous avons été pelleté(e)s
+vous avez été pelleté(e)s
+ils (elles) ont été pelleté(e)s
+
+** Plus-que-parfait
+
+j'avais été pelleté(e)
+il (elle) avait été pelleté(e)
+nous avions été pelleté(e)s
+ils (elles) avaient été pelleté(e)s
+
+** Passé antérieur
+
+j'eus été pelleté(e)
+tu eus été pelleté(e)
+il (elle) eut été pelleté(e)
+nous eûmes été pelleté(e)s
+vous eûtes été pelleté(e)s
+ils (elles) eurent été pelleté(e)s
+
+** Futur antérieur
+
+j'aurai été pelleté(e)
+tu auras été pelleté(e)
+il (elle) aura été pelleté(e)
+nous aurons été pelleté(e)s
+vous aurez été pelleté(e)s
+ils (elles) auront été pelleté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pelleté(e)
+j'aurais été pelleté(e)
+il (elle) aurait été pelleté(e)
+nous aurions été pelleté(e)s
+vous auriez été pelleté(e)s
+ils (elles) auraient été pelleté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pelleté(e)
+que tu aies été pelleté(e)
+qu’il (elle) ait été pelleté(e)
+que nous ayons été pelleté(e)s
+que vous ayez été pelleté(e)s
+qu’ils (elles) aient été pelleté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pelleté(e)
+que tu eusses été pelleté(e)
+qu’il (elle) eût été pelleté(e)
+que nous eussions été pelleté(e)s
+que vous eussiez été pelleté(e)s
+qu’ils (elles) eussent été pelleté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pelleté(e)
+ayons été pelleté(e)s
+ayez été pelleté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pelleté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pelleté(e)(s)

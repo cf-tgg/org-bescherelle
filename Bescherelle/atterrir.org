@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe atterrir
+
+* INDICATIF
+
+** Présent
+
+j'atterris
+tu atterris
+il (elle) atterrit
+nous atterrissons
+vous atterrissez
+ils (elles) atterrissent
+
+** Imparfait
+
+j'atterrissais
+tu atterrissais
+il (elle) atterrissait
+nous atterrissions
+vous atterrissiez
+ils (elles) atterrissaient
+
+** Passé simple
+
+j'atterris
+tu atterris
+il (elle) atterrit
+nous atterrîmes
+vous atterrîtes
+ils (elles) atterrirent
+
+** Futur simple
+
+j'atterrirai
+tu atterriras
+il (elle) atterrira
+nous atterrirons
+vous atterrirez
+ils (elles) atterriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'atterrirais
+tu atterrirais
+il (elle) atterrirait
+nous atterririons
+vous atterririez
+ils (elles) atterriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'atterrisse
+que tu atterrisses
+qu’il (elle) atterrisse
+que nous atterrissions
+que vous atterrissiez
+qu’ils (elles) atterrissent
+
+** Imparfait
+
+que j'atterrisse
+que tu atterrisses
+qu’il (elle) atterrît
+que nous atterrissions
+que vous atterrissiez
+qu’ils (elles) atterrissent
+
+* IMPÉRATIF
+
+** Présent
+
+atterris
+atterrissons
+atterrissez
+
+* INFINITIF
+
+** Présent
+
+atterrir
+
+* PARTICIPE
+
+** Présent
+
+atterrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai atterri
+tu as atterri
+il (elle) a atterri
+nous avons atterri
+vous avez atterri
+ils (elles) ont atterri
+
+** Plus-que-parfait
+
+j'avais atterri
+tu avais atterri
+il (elle) avait atterri
+nous avions atterri
+vous aviez atterri
+ils (elles) avaient atterri
+
+** Passé antérieur
+
+j'eus atterri
+tu eus atterri
+il (elle) eut atterri
+nous eûmes atterri
+vous eûtes atterri
+ils (elles) eurent atterri
+
+** Futur antérieur
+
+j'aurai atterri
+tu auras atterri
+il (elle) aura atterri
+nous aurons atterri
+vous aurez atterri
+ils (elles) auront atterri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais atterri
+tu aurais atterri
+il (elle) aurait atterri
+nous aurions atterri
+vous auriez atterri
+ils (elles) auraient atterri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie atterri
+que tu aies atterri
+qu’il (elle) ait atterri
+que nous ayons atterri
+que vous ayez atterri
+qu’ils (elles) aient atterri
+
+** Plus-que-parfait
+
+que j'eusse atterri
+que tu eusses atterri
+qu’il (elle) eût atterri
+que nous eussions atterri
+que vous eussiez atterri
+qu’ils (elles) eussent atterri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons atterri
+ayez atterri
+
+* INFINITIF
+
+** Passé
+
+avoir atterri
+
+* PARTICIPE
+
+** Passé
+
+ayant atterri
+atterri (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tripoter
+
+* INDICATIF
+
+** Présent
+
+je tripote
+tu tripotes
+il (elle) tripote
+nous tripotons
+vous tripotez
+ils (elles) tripotent
+
+** Imparfait
+
+je tripotais
+tu tripotais
+il (elle) tripotait
+nous tripotions
+vous tripotiez
+ils (elles) tripotaient
+
+** Passé simple
+
+je tripotai
+tu tripotas
+il (elle) tripota
+nous tripotâmes
+vous tripotâtes
+ils (elles) tripotèrent
+
+** Futur simple
+
+je tripoterai
+tu tripoteras
+il (elle) tripotera
+nous tripoterons
+vous tripoterez
+ils (elles) tripoteront
+
+* CONDITIONNEL
+
+** Présent
+
+je tripoterais
+tu tripoterais
+il (elle) tripoterait
+nous tripoterions
+vous tripoteriez
+ils (elles) tripoteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tripote
+que tu tripotes
+qu’il (elle) tripote
+que nous tripotions
+que vous tripotiez
+qu’ils (elles) tripotent
+
+** Imparfait
+
+que je tripotasse
+que tu tripotasses
+qu’il (elle) tripotât
+que nous tripotassions
+que vous tripotassiez
+qu’ils (elles) tripotassent
+
+* IMPÉRATIF
+
+** Présent
+
+tripote
+tripotons
+tripotez
+
+* INFINITIF
+
+** Présent
+
+tripoter
+
+* PARTICIPE
+
+** Présent
+
+tripotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tripoté
+tu as tripoté
+il (elle) a tripoté
+nous avons tripoté
+vous avez tripoté
+ils (elles) ont tripoté
+
+** Plus-que-parfait
+
+j'avais tripoté
+tu avais tripoté
+il (elle) avait tripoté
+nous avions tripoté
+vous aviez tripoté
+ils (elles) avaient tripoté
+
+** Passé antérieur
+
+j'eus tripoté
+tu eus tripoté
+il (elle) eut tripoté
+nous eûmes tripoté
+vous eûtes tripoté
+ils (elles) eurent tripoté
+
+** Futur antérieur
+
+j'aurai tripoté
+tu auras tripoté
+il (elle) aura tripoté
+nous aurons tripoté
+vous aurez tripoté
+ils (elles) auront tripoté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tripoté
+tu aurais tripoté
+il (elle) aurait tripoté
+nous aurions tripoté
+vous auriez tripoté
+ils (elles) auraient tripoté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tripoté
+que tu aies tripoté
+qu’il (elle) ait tripoté
+que nous ayons tripoté
+que vous ayez tripoté
+qu’ils (elles) aient tripoté
+
+** Plus-que-parfait
+
+que j'eusse tripoté
+que tu eusses tripoté
+qu’il (elle) eût tripoté
+que nous eussions tripoté
+que vous eussiez tripoté
+qu’ils (elles) eussent tripoté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tripoté
+ayez tripoté
+
+* INFINITIF
+
+** Passé
+
+avoir tripoté
+
+* PARTICIPE
+
+** Passé
+
+ayant tripoté
+tripoté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tripoté(e)
+tu es tripoté(e)
+il (elle) est tripoté(e)
+nous sommes tripoté(e)s
+vous êtes tripoté(e)s
+ils (elles) sont tripoté(e)s
+
+** Imparfait
+
+j'étais tripoté(e)
+tu étais tripoté(e)
+il (elle) était tripoté(e)
+nous étions tripoté(e)s
+vous étiez tripoté(e)s
+ils (elles) étaient tripoté(e)s
+
+** Passé simple
+
+je fus tripoté(e)
+tu fus tripoté(e)
+il (elle) fut tripoté(e)
+nous fûmes tripoté(e)s
+vous fûtes tripoté(e)s
+ils (elles) furent tripoté(e)s
+
+** Futur simple
+
+je serai tripoté(e)
+tu seras tripoté(e)
+il (elle) sera tripoté(e)
+nous serons tripoté(e)s
+vous serez tripoté(e)s
+ils (elles) seront tripoté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tripoté(e)
+tu serais tripoté(e)
+il (elle) serait tripoté(e)
+nous serions tripoté(e)s
+vous seriez tripoté(e)s
+ils (elles) seraient tripoté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tripoté(e)
+que tu sois tripoté(e)
+qu’il (elle) soit tripoté(e)
+que nous soyons tripoté(e)s
+que vous soyez tripoté(e)s
+qu’ils (elles) soient tripoté(e)s
+
+** Imparfait
+
+que je fusse tripoté(e)
+que tu fusses tripoté(e)
+qu’il (elle) fût tripoté(e)
+que nous fussions tripoté(e)s
+que vous fussiez tripoté(e)s
+qu’ils (elles) fussent tripoté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tripoté(e)s
+soyez tripoté(e)s
+
+* INFINITIF
+
+** Présent
+
+être tripoté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tripoté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tripoté(e)
+tu as été tripoté(e)
+il (elle) a été tripoté(e)
+nous avons été tripoté(e)s
+vous avez été tripoté(e)s
+ils (elles) ont été tripoté(e)s
+
+** Plus-que-parfait
+
+j'avais été tripoté(e)
+il (elle) avait été tripoté(e)
+nous avions été tripoté(e)s
+ils (elles) avaient été tripoté(e)s
+
+** Passé antérieur
+
+j'eus été tripoté(e)
+tu eus été tripoté(e)
+il (elle) eut été tripoté(e)
+nous eûmes été tripoté(e)s
+vous eûtes été tripoté(e)s
+ils (elles) eurent été tripoté(e)s
+
+** Futur antérieur
+
+j'aurai été tripoté(e)
+tu auras été tripoté(e)
+il (elle) aura été tripoté(e)
+nous aurons été tripoté(e)s
+vous aurez été tripoté(e)s
+ils (elles) auront été tripoté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tripoté(e)
+j'aurais été tripoté(e)
+il (elle) aurait été tripoté(e)
+nous aurions été tripoté(e)s
+vous auriez été tripoté(e)s
+ils (elles) auraient été tripoté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tripoté(e)
+que tu aies été tripoté(e)
+qu’il (elle) ait été tripoté(e)
+que nous ayons été tripoté(e)s
+que vous ayez été tripoté(e)s
+qu’ils (elles) aient été tripoté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tripoté(e)
+que tu eusses été tripoté(e)
+qu’il (elle) eût été tripoté(e)
+que nous eussions été tripoté(e)s
+que vous eussiez été tripoté(e)s
+qu’ils (elles) eussent été tripoté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tripoté(e)
+ayons été tripoté(e)s
+ayez été tripoté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tripoté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tripoté(e)(s)

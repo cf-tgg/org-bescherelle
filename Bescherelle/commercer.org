@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe commercer
+
+* INDICATIF
+
+** Présent
+
+je commerce
+tu commerces
+il (elle) commerce
+nous commerçons
+vous commercez
+ils (elles) commercent
+
+** Imparfait
+
+je commerçais
+tu commerçais
+il (elle) commerçait
+nous commercions
+vous commerciez
+ils (elles) commerçaient
+
+** Passé simple
+
+je commerçai
+tu commerças
+il (elle) commerça
+nous commerçâmes
+vous commerçâtes
+ils (elles) commercèrent
+
+** Futur simple
+
+je commercerai
+tu commerceras
+il (elle) commercera
+nous commercerons
+vous commercerez
+ils (elles) commerceront
+
+* CONDITIONNEL
+
+** Présent
+
+je commercerais
+tu commercerais
+il (elle) commercerait
+nous commercerions
+vous commerceriez
+ils (elles) commerceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je commerce
+que tu commerces
+qu’il (elle) commerce
+que nous commercions
+que vous commerciez
+qu’ils (elles) commercent
+
+** Imparfait
+
+que je commerçasse
+que tu commerçasses
+qu’il (elle) commerçât
+que nous commerçassions
+que vous commerçassiez
+qu’ils (elles) commerçassent
+
+* IMPÉRATIF
+
+** Présent
+
+commerce
+commerçons
+commercez
+
+* INFINITIF
+
+** Présent
+
+commercer
+
+* PARTICIPE
+
+** Présent
+
+commerçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai commercé
+tu as commercé
+il (elle) a commercé
+nous avons commercé
+vous avez commercé
+ils (elles) ont commercé
+
+** Plus-que-parfait
+
+j'avais commercé
+tu avais commercé
+il (elle) avait commercé
+nous avions commercé
+vous aviez commercé
+ils (elles) avaient commercé
+
+** Passé antérieur
+
+j'eus commercé
+tu eus commercé
+il (elle) eut commercé
+nous eûmes commercé
+vous eûtes commercé
+ils (elles) eurent commercé
+
+** Futur antérieur
+
+j'aurai commercé
+tu auras commercé
+il (elle) aura commercé
+nous aurons commercé
+vous aurez commercé
+ils (elles) auront commercé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais commercé
+tu aurais commercé
+il (elle) aurait commercé
+nous aurions commercé
+vous auriez commercé
+ils (elles) auraient commercé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie commercé
+que tu aies commercé
+qu’il (elle) ait commercé
+que nous ayons commercé
+que vous ayez commercé
+qu’ils (elles) aient commercé
+
+** Plus-que-parfait
+
+que j'eusse commercé
+que tu eusses commercé
+qu’il (elle) eût commercé
+que nous eussions commercé
+que vous eussiez commercé
+qu’ils (elles) eussent commercé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons commercé
+ayez commercé
+
+* INFINITIF
+
+** Passé
+
+avoir commercé
+
+* PARTICIPE
+
+** Passé
+
+ayant commercé
+commercé (invar.)

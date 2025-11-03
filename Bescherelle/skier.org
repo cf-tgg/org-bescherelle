@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe skier
+
+* INDICATIF
+
+** Présent
+
+je skie
+tu skies
+il (elle) skie
+nous skions
+vous skiez
+ils (elles) skient
+
+** Imparfait
+
+je skiais
+tu skiais
+il (elle) skiait
+nous skiions
+vous skiiez
+ils (elles) skiaient
+
+** Passé simple
+
+je skiai
+tu skias
+il (elle) skia
+nous skiâmes
+vous skiâtes
+ils (elles) skièrent
+
+** Futur simple
+
+je skierai
+tu skieras
+il (elle) skiera
+nous skierons
+vous skierez
+ils (elles) skieront
+
+* CONDITIONNEL
+
+** Présent
+
+je skierais
+tu skierais
+il (elle) skierait
+nous skierions
+vous skieriez
+ils (elles) skieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je skie
+que tu skies
+qu’il (elle) skie
+que nous skiions
+que vous skiiez
+qu’ils (elles) skient
+
+** Imparfait
+
+que je skiasse
+que tu skiasses
+qu’il (elle) skiât
+que nous skiassions
+que vous skiassiez
+qu’ils (elles) skiassent
+
+* IMPÉRATIF
+
+** Présent
+
+skie
+skions
+skiez
+
+* INFINITIF
+
+** Présent
+
+skier
+
+* PARTICIPE
+
+** Présent
+
+skiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai skié
+tu as skié
+il (elle) a skié
+nous avons skié
+vous avez skié
+ils (elles) ont skié
+
+** Plus-que-parfait
+
+j'avais skié
+tu avais skié
+il (elle) avait skié
+nous avions skié
+vous aviez skié
+ils (elles) avaient skié
+
+** Passé antérieur
+
+j'eus skié
+tu eus skié
+il (elle) eut skié
+nous eûmes skié
+vous eûtes skié
+ils (elles) eurent skié
+
+** Futur antérieur
+
+j'aurai skié
+tu auras skié
+il (elle) aura skié
+nous aurons skié
+vous aurez skié
+ils (elles) auront skié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais skié
+tu aurais skié
+il (elle) aurait skié
+nous aurions skié
+vous auriez skié
+ils (elles) auraient skié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie skié
+que tu aies skié
+qu’il (elle) ait skié
+que nous ayons skié
+que vous ayez skié
+qu’ils (elles) aient skié
+
+** Plus-que-parfait
+
+que j'eusse skié
+que tu eusses skié
+qu’il (elle) eût skié
+que nous eussions skié
+que vous eussiez skié
+qu’ils (elles) eussent skié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons skié
+ayez skié
+
+* INFINITIF
+
+** Passé
+
+avoir skié
+
+* PARTICIPE
+
+** Passé
+
+ayant skié
+skié (invar.)

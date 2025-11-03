@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe applaudir
+
+* INDICATIF
+
+** Présent
+
+j'applaudis
+tu applaudis
+il (elle) applaudit
+nous applaudissons
+vous applaudissez
+ils (elles) applaudissent
+
+** Imparfait
+
+j'applaudissais
+tu applaudissais
+il (elle) applaudissait
+nous applaudissions
+vous applaudissiez
+ils (elles) applaudissaient
+
+** Passé simple
+
+j'applaudis
+tu applaudis
+il (elle) applaudit
+nous applaudîmes
+vous applaudîtes
+ils (elles) applaudirent
+
+** Futur simple
+
+j'applaudirai
+tu applaudiras
+il (elle) applaudira
+nous applaudirons
+vous applaudirez
+ils (elles) applaudiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'applaudirais
+tu applaudirais
+il (elle) applaudirait
+nous applaudirions
+vous applaudiriez
+ils (elles) applaudiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'applaudisse
+que tu applaudisses
+qu’il (elle) applaudisse
+que nous applaudissions
+que vous applaudissiez
+qu’ils (elles) applaudissent
+
+** Imparfait
+
+que j'applaudisse
+que tu applaudisses
+qu’il (elle) applaudît
+que nous applaudissions
+que vous applaudissiez
+qu’ils (elles) applaudissent
+
+* IMPÉRATIF
+
+** Présent
+
+applaudis
+applaudissons
+applaudissez
+
+* INFINITIF
+
+** Présent
+
+applaudir
+
+* PARTICIPE
+
+** Présent
+
+applaudissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai applaudi
+tu as applaudi
+il (elle) a applaudi
+nous avons applaudi
+vous avez applaudi
+ils (elles) ont applaudi
+
+** Plus-que-parfait
+
+j'avais applaudi
+tu avais applaudi
+il (elle) avait applaudi
+nous avions applaudi
+vous aviez applaudi
+ils (elles) avaient applaudi
+
+** Passé antérieur
+
+j'eus applaudi
+tu eus applaudi
+il (elle) eut applaudi
+nous eûmes applaudi
+vous eûtes applaudi
+ils (elles) eurent applaudi
+
+** Futur antérieur
+
+j'aurai applaudi
+tu auras applaudi
+il (elle) aura applaudi
+nous aurons applaudi
+vous aurez applaudi
+ils (elles) auront applaudi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais applaudi
+tu aurais applaudi
+il (elle) aurait applaudi
+nous aurions applaudi
+vous auriez applaudi
+ils (elles) auraient applaudi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie applaudi
+que tu aies applaudi
+qu’il (elle) ait applaudi
+que nous ayons applaudi
+que vous ayez applaudi
+qu’ils (elles) aient applaudi
+
+** Plus-que-parfait
+
+que j'eusse applaudi
+que tu eusses applaudi
+qu’il (elle) eût applaudi
+que nous eussions applaudi
+que vous eussiez applaudi
+qu’ils (elles) eussent applaudi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons applaudi
+ayez applaudi
+
+* INFINITIF
+
+** Passé
+
+avoir applaudi
+
+* PARTICIPE
+
+** Passé
+
+ayant applaudi
+applaudi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis applaudi(e)
+tu es applaudi(e)
+il (elle) est applaudi(e)
+nous sommes applaudi(e)s
+vous êtes applaudi(e)s
+ils (elles) sont applaudi(e)s
+
+** Imparfait
+
+j'étais applaudi(e)
+tu étais applaudi(e)
+il (elle) était applaudi(e)
+nous étions applaudi(e)s
+vous étiez applaudi(e)s
+ils (elles) étaient applaudi(e)s
+
+** Passé simple
+
+je fus applaudi(e)
+tu fus applaudi(e)
+il (elle) fut applaudi(e)
+nous fûmes applaudi(e)s
+vous fûtes applaudi(e)s
+ils (elles) furent applaudi(e)s
+
+** Futur simple
+
+je serai applaudi(e)
+tu seras applaudi(e)
+il (elle) sera applaudi(e)
+nous serons applaudi(e)s
+vous serez applaudi(e)s
+ils (elles) seront applaudi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais applaudi(e)
+tu serais applaudi(e)
+il (elle) serait applaudi(e)
+nous serions applaudi(e)s
+vous seriez applaudi(e)s
+ils (elles) seraient applaudi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois applaudi(e)
+que tu sois applaudi(e)
+qu’il (elle) soit applaudi(e)
+que nous soyons applaudi(e)s
+que vous soyez applaudi(e)s
+qu’ils (elles) soient applaudi(e)s
+
+** Imparfait
+
+que je fusse applaudi(e)
+que tu fusses applaudi(e)
+qu’il (elle) fût applaudi(e)
+que nous fussions applaudi(e)s
+que vous fussiez applaudi(e)s
+qu’ils (elles) fussent applaudi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons applaudi(e)s
+soyez applaudi(e)s
+
+* INFINITIF
+
+** Présent
+
+être applaudi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant applaudi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été applaudi(e)
+tu as été applaudi(e)
+il (elle) a été applaudi(e)
+nous avons été applaudi(e)s
+vous avez été applaudi(e)s
+ils (elles) ont été applaudi(e)s
+
+** Plus-que-parfait
+
+j'avais été applaudi(e)
+il (elle) avait été applaudi(e)
+nous avions été applaudi(e)s
+ils (elles) avaient été applaudi(e)s
+
+** Passé antérieur
+
+j'eus été applaudi(e)
+tu eus été applaudi(e)
+il (elle) eut été applaudi(e)
+nous eûmes été applaudi(e)s
+vous eûtes été applaudi(e)s
+ils (elles) eurent été applaudi(e)s
+
+** Futur antérieur
+
+j'aurai été applaudi(e)
+tu auras été applaudi(e)
+il (elle) aura été applaudi(e)
+nous aurons été applaudi(e)s
+vous aurez été applaudi(e)s
+ils (elles) auront été applaudi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été applaudi(e)
+j'aurais été applaudi(e)
+il (elle) aurait été applaudi(e)
+nous aurions été applaudi(e)s
+vous auriez été applaudi(e)s
+ils (elles) auraient été applaudi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été applaudi(e)
+que tu aies été applaudi(e)
+qu’il (elle) ait été applaudi(e)
+que nous ayons été applaudi(e)s
+que vous ayez été applaudi(e)s
+qu’ils (elles) aient été applaudi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été applaudi(e)
+que tu eusses été applaudi(e)
+qu’il (elle) eût été applaudi(e)
+que nous eussions été applaudi(e)s
+que vous eussiez été applaudi(e)s
+qu’ils (elles) eussent été applaudi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été applaudi(e)
+ayons été applaudi(e)s
+ayez été applaudi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été applaudi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été applaudi(e)(s)

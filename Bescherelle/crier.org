@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe crier
+
+* INDICATIF
+
+** Présent
+
+je crie
+tu cries
+il (elle) crie
+nous crions
+vous criez
+ils (elles) crient
+
+** Imparfait
+
+je criais
+tu criais
+il (elle) criait
+nous criions
+vous criiez
+ils (elles) criaient
+
+** Passé simple
+
+je criai
+tu crias
+il (elle) cria
+nous criâmes
+vous criâtes
+ils (elles) crièrent
+
+** Futur simple
+
+je crierai
+tu crieras
+il (elle) criera
+nous crierons
+vous crierez
+ils (elles) crieront
+
+* CONDITIONNEL
+
+** Présent
+
+je crierais
+tu crierais
+il (elle) crierait
+nous crierions
+vous crieriez
+ils (elles) crieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je crie
+que tu cries
+qu’il (elle) crie
+que nous criions
+que vous criiez
+qu’ils (elles) crient
+
+** Imparfait
+
+que je criasse
+que tu criasses
+qu’il (elle) criât
+que nous criassions
+que vous criassiez
+qu’ils (elles) criassent
+
+* IMPÉRATIF
+
+** Présent
+
+crie
+crions
+criez
+
+* INFINITIF
+
+** Présent
+
+crier
+
+* PARTICIPE
+
+** Présent
+
+criant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai crié
+tu as crié
+il (elle) a crié
+nous avons crié
+vous avez crié
+ils (elles) ont crié
+
+** Plus-que-parfait
+
+j'avais crié
+tu avais crié
+il (elle) avait crié
+nous avions crié
+vous aviez crié
+ils (elles) avaient crié
+
+** Passé antérieur
+
+j'eus crié
+tu eus crié
+il (elle) eut crié
+nous eûmes crié
+vous eûtes crié
+ils (elles) eurent crié
+
+** Futur antérieur
+
+j'aurai crié
+tu auras crié
+il (elle) aura crié
+nous aurons crié
+vous aurez crié
+ils (elles) auront crié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais crié
+tu aurais crié
+il (elle) aurait crié
+nous aurions crié
+vous auriez crié
+ils (elles) auraient crié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie crié
+que tu aies crié
+qu’il (elle) ait crié
+que nous ayons crié
+que vous ayez crié
+qu’ils (elles) aient crié
+
+** Plus-que-parfait
+
+que j'eusse crié
+que tu eusses crié
+qu’il (elle) eût crié
+que nous eussions crié
+que vous eussiez crié
+qu’ils (elles) eussent crié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons crié
+ayez crié
+
+* INFINITIF
+
+** Passé
+
+avoir crié
+
+* PARTICIPE
+
+** Passé
+
+ayant crié
+crié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis crié(e)
+tu es crié(e)
+il (elle) est crié(e)
+nous sommes crié(e)s
+vous êtes crié(e)s
+ils (elles) sont crié(e)s
+
+** Imparfait
+
+j'étais crié(e)
+tu étais crié(e)
+il (elle) était crié(e)
+nous étions crié(e)s
+vous étiez crié(e)s
+ils (elles) étaient crié(e)s
+
+** Passé simple
+
+je fus crié(e)
+tu fus crié(e)
+il (elle) fut crié(e)
+nous fûmes crié(e)s
+vous fûtes crié(e)s
+ils (elles) furent crié(e)s
+
+** Futur simple
+
+je serai crié(e)
+tu seras crié(e)
+il (elle) sera crié(e)
+nous serons crié(e)s
+vous serez crié(e)s
+ils (elles) seront crié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais crié(e)
+tu serais crié(e)
+il (elle) serait crié(e)
+nous serions crié(e)s
+vous seriez crié(e)s
+ils (elles) seraient crié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois crié(e)
+que tu sois crié(e)
+qu’il (elle) soit crié(e)
+que nous soyons crié(e)s
+que vous soyez crié(e)s
+qu’ils (elles) soient crié(e)s
+
+** Imparfait
+
+que je fusse crié(e)
+que tu fusses crié(e)
+qu’il (elle) fût crié(e)
+que nous fussions crié(e)s
+que vous fussiez crié(e)s
+qu’ils (elles) fussent crié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons crié(e)s
+soyez crié(e)s
+
+* INFINITIF
+
+** Présent
+
+être crié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant crié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été crié(e)
+tu as été crié(e)
+il (elle) a été crié(e)
+nous avons été crié(e)s
+vous avez été crié(e)s
+ils (elles) ont été crié(e)s
+
+** Plus-que-parfait
+
+j'avais été crié(e)
+il (elle) avait été crié(e)
+nous avions été crié(e)s
+ils (elles) avaient été crié(e)s
+
+** Passé antérieur
+
+j'eus été crié(e)
+tu eus été crié(e)
+il (elle) eut été crié(e)
+nous eûmes été crié(e)s
+vous eûtes été crié(e)s
+ils (elles) eurent été crié(e)s
+
+** Futur antérieur
+
+j'aurai été crié(e)
+tu auras été crié(e)
+il (elle) aura été crié(e)
+nous aurons été crié(e)s
+vous aurez été crié(e)s
+ils (elles) auront été crié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été crié(e)
+j'aurais été crié(e)
+il (elle) aurait été crié(e)
+nous aurions été crié(e)s
+vous auriez été crié(e)s
+ils (elles) auraient été crié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été crié(e)
+que tu aies été crié(e)
+qu’il (elle) ait été crié(e)
+que nous ayons été crié(e)s
+que vous ayez été crié(e)s
+qu’ils (elles) aient été crié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été crié(e)
+que tu eusses été crié(e)
+qu’il (elle) eût été crié(e)
+que nous eussions été crié(e)s
+que vous eussiez été crié(e)s
+qu’ils (elles) eussent été crié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été crié(e)
+ayons été crié(e)s
+ayez été crié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été crié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été crié(e)(s)

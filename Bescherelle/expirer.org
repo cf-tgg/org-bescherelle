@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe expirer
+
+* INDICATIF
+
+** Présent
+
+j'expire
+tu expires
+il (elle) expire
+nous expirons
+vous expirez
+ils (elles) expirent
+
+** Imparfait
+
+j'expirais
+tu expirais
+il (elle) expirait
+nous expirions
+vous expiriez
+ils (elles) expiraient
+
+** Passé simple
+
+j'expirai
+tu expiras
+il (elle) expira
+nous expirâmes
+vous expirâtes
+ils (elles) expirèrent
+
+** Futur simple
+
+j'expirerai
+tu expireras
+il (elle) expirera
+nous expirerons
+vous expirerez
+ils (elles) expireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'expirerais
+tu expirerais
+il (elle) expirerait
+nous expirerions
+vous expireriez
+ils (elles) expireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'expire
+que tu expires
+qu’il (elle) expire
+que nous expirions
+que vous expiriez
+qu’ils (elles) expirent
+
+** Imparfait
+
+que j'expirasse
+que tu expirasses
+qu’il (elle) expirât
+que nous expirassions
+que vous expirassiez
+qu’ils (elles) expirassent
+
+* IMPÉRATIF
+
+** Présent
+
+expire
+expirons
+expirez
+
+* INFINITIF
+
+** Présent
+
+expirer
+
+* PARTICIPE
+
+** Présent
+
+expirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis expiré(e)
+tu as ou es expiré(e)
+il (elle) a ou est expiré(e)
+nous avons ou sommes expiré(e)s
+vous avez ou êtes expiré(e)s
+ils (elles) ont ou sont expiré(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais expiré(e)
+tu avais ou étais expiré(e)
+il (elle) avait ou était expiré(e)
+nous avions ou étions expiré(e)s
+vous aviez ou étiez expiré(e)s
+ils (elles) avaient ou étaient expiré(e)s
+
+** Passé antérieur
+
+j'eus ou fus expiré(e)
+tu eus ou fus expiré(e)
+il (elle) eut ou fut expiré(e)
+nous eûmes ou fûmes expiré(e)s
+vous eûtes ou fûtes expiré(e)s
+ils (elles) eurent ou furent expiré(e)s
+
+** Futur antérieur
+
+j'aurai ou serai expiré(e)
+tu auras ou seras expiré(e)
+il (elle) aura ou sera expiré(e)
+nous aurons ou serons expiré(e)s
+vous aurez ou serez expiré(e)s
+ils (elles) auront ou seront expiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais expiré(e)
+tu aurais ou serais expiré(e)
+il (elle) aurait ou serait expiré(e)
+nous aurions ou serions expiré(e)s
+vous auriez ou seriez expiré(e)s
+ils (elles) auraient ou seraient expiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois expiré(e)
+que tu aies ou sois expiré(e)
+qu’il (elle) ait ou soit expiré(e)
+que nous ayons ou soyons expiré(e)s
+que vous ayez ou soyez expiré(e)s
+qu’ils (elles) aient ou soient expiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse expiré(e)
+que tu eusses ou fusses expiré(e)
+qu’il (elle) eût ou fût expiré(e)
+que nous eussions ou fussions expiré(e)s
+que vous eussiez ou fussiez expiré(e)s
+qu’ils (elles) eussent ou fussent expiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons expiré(e)s
+ayez ou soyez expiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être expiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant expiré(e)(s)
+expiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis expiré(e)
+tu es expiré(e)
+il (elle) est expiré(e)
+nous sommes expiré(e)s
+vous êtes expiré(e)s
+ils (elles) sont expiré(e)s
+
+** Imparfait
+
+j'étais expiré(e)
+tu étais expiré(e)
+il (elle) était expiré(e)
+nous étions expiré(e)s
+vous étiez expiré(e)s
+ils (elles) étaient expiré(e)s
+
+** Passé simple
+
+je fus expiré(e)
+tu fus expiré(e)
+il (elle) fut expiré(e)
+nous fûmes expiré(e)s
+vous fûtes expiré(e)s
+ils (elles) furent expiré(e)s
+
+** Futur simple
+
+je serai expiré(e)
+tu seras expiré(e)
+il (elle) sera expiré(e)
+nous serons expiré(e)s
+vous serez expiré(e)s
+ils (elles) seront expiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais expiré(e)
+tu serais expiré(e)
+il (elle) serait expiré(e)
+nous serions expiré(e)s
+vous seriez expiré(e)s
+ils (elles) seraient expiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois expiré(e)
+que tu sois expiré(e)
+qu’il (elle) soit expiré(e)
+que nous soyons expiré(e)s
+que vous soyez expiré(e)s
+qu’ils (elles) soient expiré(e)s
+
+** Imparfait
+
+que je fusse expiré(e)
+que tu fusses expiré(e)
+qu’il (elle) fût expiré(e)
+que nous fussions expiré(e)s
+que vous fussiez expiré(e)s
+qu’ils (elles) fussent expiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons expiré(e)s
+soyez expiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être expiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant expiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été expiré(e)
+tu as été expiré(e)
+il (elle) a été expiré(e)
+nous avons été expiré(e)s
+vous avez été expiré(e)s
+ils (elles) ont été expiré(e)s
+
+** Plus-que-parfait
+
+j'avais été expiré(e)
+il (elle) avait été expiré(e)
+nous avions été expiré(e)s
+ils (elles) avaient été expiré(e)s
+
+** Passé antérieur
+
+j'eus été expiré(e)
+tu eus été expiré(e)
+il (elle) eut été expiré(e)
+nous eûmes été expiré(e)s
+vous eûtes été expiré(e)s
+ils (elles) eurent été expiré(e)s
+
+** Futur antérieur
+
+j'aurai été expiré(e)
+tu auras été expiré(e)
+il (elle) aura été expiré(e)
+nous aurons été expiré(e)s
+vous aurez été expiré(e)s
+ils (elles) auront été expiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été expiré(e)
+j'aurais été expiré(e)
+il (elle) aurait été expiré(e)
+nous aurions été expiré(e)s
+vous auriez été expiré(e)s
+ils (elles) auraient été expiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été expiré(e)
+que tu aies été expiré(e)
+qu’il (elle) ait été expiré(e)
+que nous ayons été expiré(e)s
+que vous ayez été expiré(e)s
+qu’ils (elles) aient été expiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été expiré(e)
+que tu eusses été expiré(e)
+qu’il (elle) eût été expiré(e)
+que nous eussions été expiré(e)s
+que vous eussiez été expiré(e)s
+qu’ils (elles) eussent été expiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été expiré(e)
+ayons été expiré(e)s
+ayez été expiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été expiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été expiré(e)(s)

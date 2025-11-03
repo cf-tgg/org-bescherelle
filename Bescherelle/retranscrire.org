@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe retranscrire
+
+* INDICATIF
+
+** Présent
+
+je retranscris
+tu retranscris
+il (elle) retranscrit
+nous retranscrivons
+vous retranscrivez
+ils (elles) retranscrivent
+
+** Imparfait
+
+je retranscrivais
+tu retranscrivais
+il (elle) retranscrivait
+nous retranscrivions
+vous retranscriviez
+ils (elles) retranscrivaient
+
+** Passé simple
+
+je retranscrivis
+tu retranscrivis
+il (elle) retranscrivit
+nous retranscrivîmes
+vous retranscrivîtes
+ils (elles) retranscrivirent
+
+** Futur simple
+
+je retranscrirai
+tu retranscriras
+il (elle) retranscrira
+nous retranscrirons
+vous retranscrirez
+ils (elles) retranscriront
+
+* CONDITIONNEL
+
+** Présent
+
+je retranscrirais
+tu retranscrirais
+il (elle) retranscrirait
+nous retranscririons
+vous retranscririez
+ils (elles) retranscriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retranscrive
+que tu retranscrives
+qu’il (elle) retranscrive
+que nous retranscrivions
+que vous retranscriviez
+qu’ils (elles) retranscrivent
+
+** Imparfait
+
+que je retranscrivisse
+que tu retranscrivisses
+qu’il (elle) retranscrivît
+que nous retranscrivissions
+que vous retranscrivissiez
+qu’ils (elles) retranscrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+retranscris
+retranscrivons
+retranscrivez
+
+* INFINITIF
+
+** Présent
+
+retranscrire
+
+* PARTICIPE
+
+** Présent
+
+retranscrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retranscrit
+tu as retranscrit
+il (elle) a retranscrit
+nous avons retranscrit
+vous avez retranscrit
+ils (elles) ont retranscrit
+
+** Plus-que-parfait
+
+j'avais retranscrit
+tu avais retranscrit
+il (elle) avait retranscrit
+nous avions retranscrit
+vous aviez retranscrit
+ils (elles) avaient retranscrit
+
+** Passé antérieur
+
+j'eus retranscrit
+tu eus retranscrit
+il (elle) eut retranscrit
+nous eûmes retranscrit
+vous eûtes retranscrit
+ils (elles) eurent retranscrit
+
+** Futur antérieur
+
+j'aurai retranscrit
+tu auras retranscrit
+il (elle) aura retranscrit
+nous aurons retranscrit
+vous aurez retranscrit
+ils (elles) auront retranscrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retranscrit
+tu aurais retranscrit
+il (elle) aurait retranscrit
+nous aurions retranscrit
+vous auriez retranscrit
+ils (elles) auraient retranscrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retranscrit
+que tu aies retranscrit
+qu’il (elle) ait retranscrit
+que nous ayons retranscrit
+que vous ayez retranscrit
+qu’ils (elles) aient retranscrit
+
+** Plus-que-parfait
+
+que j'eusse retranscrit
+que tu eusses retranscrit
+qu’il (elle) eût retranscrit
+que nous eussions retranscrit
+que vous eussiez retranscrit
+qu’ils (elles) eussent retranscrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retranscrit
+ayez retranscrit
+
+* INFINITIF
+
+** Passé
+
+avoir retranscrit
+
+* PARTICIPE
+
+** Passé
+
+ayant retranscrit
+retranscrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis retranscrit(e)
+tu es retranscrit(e)
+il (elle) est retranscrit(e)
+nous sommes retranscrit(e)s
+vous êtes retranscrit(e)s
+ils (elles) sont retranscrit(e)s
+
+** Imparfait
+
+j'étais retranscrit(e)
+tu étais retranscrit(e)
+il (elle) était retranscrit(e)
+nous étions retranscrit(e)s
+vous étiez retranscrit(e)s
+ils (elles) étaient retranscrit(e)s
+
+** Passé simple
+
+je fus retranscrit(e)
+tu fus retranscrit(e)
+il (elle) fut retranscrit(e)
+nous fûmes retranscrit(e)s
+vous fûtes retranscrit(e)s
+ils (elles) furent retranscrit(e)s
+
+** Futur simple
+
+je serai retranscrit(e)
+tu seras retranscrit(e)
+il (elle) sera retranscrit(e)
+nous serons retranscrit(e)s
+vous serez retranscrit(e)s
+ils (elles) seront retranscrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais retranscrit(e)
+tu serais retranscrit(e)
+il (elle) serait retranscrit(e)
+nous serions retranscrit(e)s
+vous seriez retranscrit(e)s
+ils (elles) seraient retranscrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois retranscrit(e)
+que tu sois retranscrit(e)
+qu’il (elle) soit retranscrit(e)
+que nous soyons retranscrit(e)s
+que vous soyez retranscrit(e)s
+qu’ils (elles) soient retranscrit(e)s
+
+** Imparfait
+
+que je fusse retranscrit(e)
+que tu fusses retranscrit(e)
+qu’il (elle) fût retranscrit(e)
+que nous fussions retranscrit(e)s
+que vous fussiez retranscrit(e)s
+qu’ils (elles) fussent retranscrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons retranscrit(e)s
+soyez retranscrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être retranscrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant retranscrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été retranscrit(e)
+tu as été retranscrit(e)
+il (elle) a été retranscrit(e)
+nous avons été retranscrit(e)s
+vous avez été retranscrit(e)s
+ils (elles) ont été retranscrit(e)s
+
+** Plus-que-parfait
+
+j'avais été retranscrit(e)
+il (elle) avait été retranscrit(e)
+nous avions été retranscrit(e)s
+ils (elles) avaient été retranscrit(e)s
+
+** Passé antérieur
+
+j'eus été retranscrit(e)
+tu eus été retranscrit(e)
+il (elle) eut été retranscrit(e)
+nous eûmes été retranscrit(e)s
+vous eûtes été retranscrit(e)s
+ils (elles) eurent été retranscrit(e)s
+
+** Futur antérieur
+
+j'aurai été retranscrit(e)
+tu auras été retranscrit(e)
+il (elle) aura été retranscrit(e)
+nous aurons été retranscrit(e)s
+vous aurez été retranscrit(e)s
+ils (elles) auront été retranscrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été retranscrit(e)
+j'aurais été retranscrit(e)
+il (elle) aurait été retranscrit(e)
+nous aurions été retranscrit(e)s
+vous auriez été retranscrit(e)s
+ils (elles) auraient été retranscrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été retranscrit(e)
+que tu aies été retranscrit(e)
+qu’il (elle) ait été retranscrit(e)
+que nous ayons été retranscrit(e)s
+que vous ayez été retranscrit(e)s
+qu’ils (elles) aient été retranscrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été retranscrit(e)
+que tu eusses été retranscrit(e)
+qu’il (elle) eût été retranscrit(e)
+que nous eussions été retranscrit(e)s
+que vous eussiez été retranscrit(e)s
+qu’ils (elles) eussent été retranscrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été retranscrit(e)
+ayons été retranscrit(e)s
+ayez été retranscrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été retranscrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été retranscrit(e)(s)

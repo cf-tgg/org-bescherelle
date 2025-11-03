@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe referencer
+
+* INDICATIF
+
+** Présent
+
+je référence
+tu références
+il (elle) référence
+nous référençons
+vous référencez
+ils (elles) référencent
+
+** Imparfait
+
+je référençais
+tu référençais
+il (elle) référençait
+nous référencions
+vous référenciez
+ils (elles) référençaient
+
+** Passé simple
+
+je référençai
+tu référenças
+il (elle) référença
+nous référençâmes
+vous référençâtes
+ils (elles) référencèrent
+
+** Futur simple
+
+je référencerai
+tu référenceras
+il (elle) référencera
+nous référencerons
+vous référencerez
+ils (elles) référenceront
+
+* CONDITIONNEL
+
+** Présent
+
+je référencerais
+tu référencerais
+il (elle) référencerait
+nous référencerions
+vous référenceriez
+ils (elles) référenceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je référence
+que tu références
+qu’il (elle) référence
+que nous référencions
+que vous référenciez
+qu’ils (elles) référencent
+
+** Imparfait
+
+que je référençasse
+que tu référençasses
+qu’il (elle) référençât
+que nous référençassions
+que vous référençassiez
+qu’ils (elles) référençassent
+
+* IMPÉRATIF
+
+** Présent
+
+référence
+référençons
+référencez
+
+* INFINITIF
+
+** Présent
+
+référencer
+
+* PARTICIPE
+
+** Présent
+
+référençant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai référencé
+tu as référencé
+il (elle) a référencé
+nous avons référencé
+vous avez référencé
+ils (elles) ont référencé
+
+** Plus-que-parfait
+
+j'avais référencé
+tu avais référencé
+il (elle) avait référencé
+nous avions référencé
+vous aviez référencé
+ils (elles) avaient référencé
+
+** Passé antérieur
+
+j'eus référencé
+tu eus référencé
+il (elle) eut référencé
+nous eûmes référencé
+vous eûtes référencé
+ils (elles) eurent référencé
+
+** Futur antérieur
+
+j'aurai référencé
+tu auras référencé
+il (elle) aura référencé
+nous aurons référencé
+vous aurez référencé
+ils (elles) auront référencé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais référencé
+tu aurais référencé
+il (elle) aurait référencé
+nous aurions référencé
+vous auriez référencé
+ils (elles) auraient référencé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie référencé
+que tu aies référencé
+qu’il (elle) ait référencé
+que nous ayons référencé
+que vous ayez référencé
+qu’ils (elles) aient référencé
+
+** Plus-que-parfait
+
+que j'eusse référencé
+que tu eusses référencé
+qu’il (elle) eût référencé
+que nous eussions référencé
+que vous eussiez référencé
+qu’ils (elles) eussent référencé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons référencé
+ayez référencé
+
+* INFINITIF
+
+** Passé
+
+avoir référencé
+
+* PARTICIPE
+
+** Passé
+
+ayant référencé
+référencé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis référencé(e)
+tu es référencé(e)
+il (elle) est référencé(e)
+nous sommes référencé(e)s
+vous êtes référencé(e)s
+ils (elles) sont référencé(e)s
+
+** Imparfait
+
+j'étais référencé(e)
+tu étais référencé(e)
+il (elle) était référencé(e)
+nous étions référencé(e)s
+vous étiez référencé(e)s
+ils (elles) étaient référencé(e)s
+
+** Passé simple
+
+je fus référencé(e)
+tu fus référencé(e)
+il (elle) fut référencé(e)
+nous fûmes référencé(e)s
+vous fûtes référencé(e)s
+ils (elles) furent référencé(e)s
+
+** Futur simple
+
+je serai référencé(e)
+tu seras référencé(e)
+il (elle) sera référencé(e)
+nous serons référencé(e)s
+vous serez référencé(e)s
+ils (elles) seront référencé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais référencé(e)
+tu serais référencé(e)
+il (elle) serait référencé(e)
+nous serions référencé(e)s
+vous seriez référencé(e)s
+ils (elles) seraient référencé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois référencé(e)
+que tu sois référencé(e)
+qu’il (elle) soit référencé(e)
+que nous soyons référencé(e)s
+que vous soyez référencé(e)s
+qu’ils (elles) soient référencé(e)s
+
+** Imparfait
+
+que je fusse référencé(e)
+que tu fusses référencé(e)
+qu’il (elle) fût référencé(e)
+que nous fussions référencé(e)s
+que vous fussiez référencé(e)s
+qu’ils (elles) fussent référencé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons référencé(e)s
+soyez référencé(e)s
+
+* INFINITIF
+
+** Présent
+
+être référencé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant référencé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été référencé(e)
+tu as été référencé(e)
+il (elle) a été référencé(e)
+nous avons été référencé(e)s
+vous avez été référencé(e)s
+ils (elles) ont été référencé(e)s
+
+** Plus-que-parfait
+
+j'avais été référencé(e)
+il (elle) avait été référencé(e)
+nous avions été référencé(e)s
+ils (elles) avaient été référencé(e)s
+
+** Passé antérieur
+
+j'eus été référencé(e)
+tu eus été référencé(e)
+il (elle) eut été référencé(e)
+nous eûmes été référencé(e)s
+vous eûtes été référencé(e)s
+ils (elles) eurent été référencé(e)s
+
+** Futur antérieur
+
+j'aurai été référencé(e)
+tu auras été référencé(e)
+il (elle) aura été référencé(e)
+nous aurons été référencé(e)s
+vous aurez été référencé(e)s
+ils (elles) auront été référencé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été référencé(e)
+j'aurais été référencé(e)
+il (elle) aurait été référencé(e)
+nous aurions été référencé(e)s
+vous auriez été référencé(e)s
+ils (elles) auraient été référencé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été référencé(e)
+que tu aies été référencé(e)
+qu’il (elle) ait été référencé(e)
+que nous ayons été référencé(e)s
+que vous ayez été référencé(e)s
+qu’ils (elles) aient été référencé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été référencé(e)
+que tu eusses été référencé(e)
+qu’il (elle) eût été référencé(e)
+que nous eussions été référencé(e)s
+que vous eussiez été référencé(e)s
+qu’ils (elles) eussent été référencé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été référencé(e)
+ayons été référencé(e)s
+ayez été référencé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été référencé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été référencé(e)(s)

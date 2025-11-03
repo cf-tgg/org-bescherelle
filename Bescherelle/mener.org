@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mener
+
+* INDICATIF
+
+** Présent
+
+je mène
+tu mènes
+il (elle) mène
+nous menons
+vous menez
+ils (elles) mènent
+
+** Imparfait
+
+je menais
+tu menais
+il (elle) menait
+nous menions
+vous meniez
+ils (elles) menaient
+
+** Passé simple
+
+je menai
+tu menas
+il (elle) mena
+nous menâmes
+vous menâtes
+ils (elles) menèrent
+
+** Futur simple
+
+je mènerai
+tu mèneras
+il (elle) mènera
+nous mènerons
+vous mènerez
+ils (elles) mèneront
+
+* CONDITIONNEL
+
+** Présent
+
+je mènerais
+tu mènerais
+il (elle) mènerait
+nous mènerions
+vous mèneriez
+ils (elles) mèneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mène
+que tu mènes
+qu’il (elle) mène
+que nous menions
+que vous meniez
+qu’ils (elles) mènent
+
+** Imparfait
+
+que je menasse
+que tu menasses
+qu’il (elle) menât
+que nous menassions
+que vous menassiez
+qu’ils (elles) menassent
+
+* IMPÉRATIF
+
+** Présent
+
+mène
+menons
+menez
+
+* INFINITIF
+
+** Présent
+
+mener
+
+* PARTICIPE
+
+** Présent
+
+menant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mené
+tu as mené
+il (elle) a mené
+nous avons mené
+vous avez mené
+ils (elles) ont mené
+
+** Plus-que-parfait
+
+j'avais mené
+tu avais mené
+il (elle) avait mené
+nous avions mené
+vous aviez mené
+ils (elles) avaient mené
+
+** Passé antérieur
+
+j'eus mené
+tu eus mené
+il (elle) eut mené
+nous eûmes mené
+vous eûtes mené
+ils (elles) eurent mené
+
+** Futur antérieur
+
+j'aurai mené
+tu auras mené
+il (elle) aura mené
+nous aurons mené
+vous aurez mené
+ils (elles) auront mené
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mené
+tu aurais mené
+il (elle) aurait mené
+nous aurions mené
+vous auriez mené
+ils (elles) auraient mené
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mené
+que tu aies mené
+qu’il (elle) ait mené
+que nous ayons mené
+que vous ayez mené
+qu’ils (elles) aient mené
+
+** Plus-que-parfait
+
+que j'eusse mené
+que tu eusses mené
+qu’il (elle) eût mené
+que nous eussions mené
+que vous eussiez mené
+qu’ils (elles) eussent mené
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mené
+ayez mené
+
+* INFINITIF
+
+** Passé
+
+avoir mené
+
+* PARTICIPE
+
+** Passé
+
+ayant mené
+mené (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mené(e)
+tu es mené(e)
+il (elle) est mené(e)
+nous sommes mené(e)s
+vous êtes mené(e)s
+ils (elles) sont mené(e)s
+
+** Imparfait
+
+j'étais mené(e)
+tu étais mené(e)
+il (elle) était mené(e)
+nous étions mené(e)s
+vous étiez mené(e)s
+ils (elles) étaient mené(e)s
+
+** Passé simple
+
+je fus mené(e)
+tu fus mené(e)
+il (elle) fut mené(e)
+nous fûmes mené(e)s
+vous fûtes mené(e)s
+ils (elles) furent mené(e)s
+
+** Futur simple
+
+je serai mené(e)
+tu seras mené(e)
+il (elle) sera mené(e)
+nous serons mené(e)s
+vous serez mené(e)s
+ils (elles) seront mené(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mené(e)
+tu serais mené(e)
+il (elle) serait mené(e)
+nous serions mené(e)s
+vous seriez mené(e)s
+ils (elles) seraient mené(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mené(e)
+que tu sois mené(e)
+qu’il (elle) soit mené(e)
+que nous soyons mené(e)s
+que vous soyez mené(e)s
+qu’ils (elles) soient mené(e)s
+
+** Imparfait
+
+que je fusse mené(e)
+que tu fusses mené(e)
+qu’il (elle) fût mené(e)
+que nous fussions mené(e)s
+que vous fussiez mené(e)s
+qu’ils (elles) fussent mené(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mené(e)s
+soyez mené(e)s
+
+* INFINITIF
+
+** Présent
+
+être mené(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mené(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mené(e)
+tu as été mené(e)
+il (elle) a été mené(e)
+nous avons été mené(e)s
+vous avez été mené(e)s
+ils (elles) ont été mené(e)s
+
+** Plus-que-parfait
+
+j'avais été mené(e)
+il (elle) avait été mené(e)
+nous avions été mené(e)s
+ils (elles) avaient été mené(e)s
+
+** Passé antérieur
+
+j'eus été mené(e)
+tu eus été mené(e)
+il (elle) eut été mené(e)
+nous eûmes été mené(e)s
+vous eûtes été mené(e)s
+ils (elles) eurent été mené(e)s
+
+** Futur antérieur
+
+j'aurai été mené(e)
+tu auras été mené(e)
+il (elle) aura été mené(e)
+nous aurons été mené(e)s
+vous aurez été mené(e)s
+ils (elles) auront été mené(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mené(e)
+j'aurais été mené(e)
+il (elle) aurait été mené(e)
+nous aurions été mené(e)s
+vous auriez été mené(e)s
+ils (elles) auraient été mené(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mené(e)
+que tu aies été mené(e)
+qu’il (elle) ait été mené(e)
+que nous ayons été mené(e)s
+que vous ayez été mené(e)s
+qu’ils (elles) aient été mené(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mené(e)
+que tu eusses été mené(e)
+qu’il (elle) eût été mené(e)
+que nous eussions été mené(e)s
+que vous eussiez été mené(e)s
+qu’ils (elles) eussent été mené(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mené(e)
+ayons été mené(e)s
+ayez été mené(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mené(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mené(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe arborer
+
+* INDICATIF
+
+** Présent
+
+j'arbore
+tu arbores
+il (elle) arbore
+nous arborons
+vous arborez
+ils (elles) arborent
+
+** Imparfait
+
+j'arborais
+tu arborais
+il (elle) arborait
+nous arborions
+vous arboriez
+ils (elles) arboraient
+
+** Passé simple
+
+j'arborai
+tu arboras
+il (elle) arbora
+nous arborâmes
+vous arborâtes
+ils (elles) arborèrent
+
+** Futur simple
+
+j'arborerai
+tu arboreras
+il (elle) arborera
+nous arborerons
+vous arborerez
+ils (elles) arboreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'arborerais
+tu arborerais
+il (elle) arborerait
+nous arborerions
+vous arboreriez
+ils (elles) arboreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'arbore
+que tu arbores
+qu’il (elle) arbore
+que nous arborions
+que vous arboriez
+qu’ils (elles) arborent
+
+** Imparfait
+
+que j'arborasse
+que tu arborasses
+qu’il (elle) arborât
+que nous arborassions
+que vous arborassiez
+qu’ils (elles) arborassent
+
+* IMPÉRATIF
+
+** Présent
+
+arbore
+arborons
+arborez
+
+* INFINITIF
+
+** Présent
+
+arborer
+
+* PARTICIPE
+
+** Présent
+
+arborant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai arboré
+tu as arboré
+il (elle) a arboré
+nous avons arboré
+vous avez arboré
+ils (elles) ont arboré
+
+** Plus-que-parfait
+
+j'avais arboré
+tu avais arboré
+il (elle) avait arboré
+nous avions arboré
+vous aviez arboré
+ils (elles) avaient arboré
+
+** Passé antérieur
+
+j'eus arboré
+tu eus arboré
+il (elle) eut arboré
+nous eûmes arboré
+vous eûtes arboré
+ils (elles) eurent arboré
+
+** Futur antérieur
+
+j'aurai arboré
+tu auras arboré
+il (elle) aura arboré
+nous aurons arboré
+vous aurez arboré
+ils (elles) auront arboré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais arboré
+tu aurais arboré
+il (elle) aurait arboré
+nous aurions arboré
+vous auriez arboré
+ils (elles) auraient arboré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie arboré
+que tu aies arboré
+qu’il (elle) ait arboré
+que nous ayons arboré
+que vous ayez arboré
+qu’ils (elles) aient arboré
+
+** Plus-que-parfait
+
+que j'eusse arboré
+que tu eusses arboré
+qu’il (elle) eût arboré
+que nous eussions arboré
+que vous eussiez arboré
+qu’ils (elles) eussent arboré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons arboré
+ayez arboré
+
+* INFINITIF
+
+** Passé
+
+avoir arboré
+
+* PARTICIPE
+
+** Passé
+
+ayant arboré
+arboré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis arboré(e)
+tu es arboré(e)
+il (elle) est arboré(e)
+nous sommes arboré(e)s
+vous êtes arboré(e)s
+ils (elles) sont arboré(e)s
+
+** Imparfait
+
+j'étais arboré(e)
+tu étais arboré(e)
+il (elle) était arboré(e)
+nous étions arboré(e)s
+vous étiez arboré(e)s
+ils (elles) étaient arboré(e)s
+
+** Passé simple
+
+je fus arboré(e)
+tu fus arboré(e)
+il (elle) fut arboré(e)
+nous fûmes arboré(e)s
+vous fûtes arboré(e)s
+ils (elles) furent arboré(e)s
+
+** Futur simple
+
+je serai arboré(e)
+tu seras arboré(e)
+il (elle) sera arboré(e)
+nous serons arboré(e)s
+vous serez arboré(e)s
+ils (elles) seront arboré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais arboré(e)
+tu serais arboré(e)
+il (elle) serait arboré(e)
+nous serions arboré(e)s
+vous seriez arboré(e)s
+ils (elles) seraient arboré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois arboré(e)
+que tu sois arboré(e)
+qu’il (elle) soit arboré(e)
+que nous soyons arboré(e)s
+que vous soyez arboré(e)s
+qu’ils (elles) soient arboré(e)s
+
+** Imparfait
+
+que je fusse arboré(e)
+que tu fusses arboré(e)
+qu’il (elle) fût arboré(e)
+que nous fussions arboré(e)s
+que vous fussiez arboré(e)s
+qu’ils (elles) fussent arboré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons arboré(e)s
+soyez arboré(e)s
+
+* INFINITIF
+
+** Présent
+
+être arboré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant arboré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été arboré(e)
+tu as été arboré(e)
+il (elle) a été arboré(e)
+nous avons été arboré(e)s
+vous avez été arboré(e)s
+ils (elles) ont été arboré(e)s
+
+** Plus-que-parfait
+
+j'avais été arboré(e)
+il (elle) avait été arboré(e)
+nous avions été arboré(e)s
+ils (elles) avaient été arboré(e)s
+
+** Passé antérieur
+
+j'eus été arboré(e)
+tu eus été arboré(e)
+il (elle) eut été arboré(e)
+nous eûmes été arboré(e)s
+vous eûtes été arboré(e)s
+ils (elles) eurent été arboré(e)s
+
+** Futur antérieur
+
+j'aurai été arboré(e)
+tu auras été arboré(e)
+il (elle) aura été arboré(e)
+nous aurons été arboré(e)s
+vous aurez été arboré(e)s
+ils (elles) auront été arboré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été arboré(e)
+j'aurais été arboré(e)
+il (elle) aurait été arboré(e)
+nous aurions été arboré(e)s
+vous auriez été arboré(e)s
+ils (elles) auraient été arboré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été arboré(e)
+que tu aies été arboré(e)
+qu’il (elle) ait été arboré(e)
+que nous ayons été arboré(e)s
+que vous ayez été arboré(e)s
+qu’ils (elles) aient été arboré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été arboré(e)
+que tu eusses été arboré(e)
+qu’il (elle) eût été arboré(e)
+que nous eussions été arboré(e)s
+que vous eussiez été arboré(e)s
+qu’ils (elles) eussent été arboré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été arboré(e)
+ayons été arboré(e)s
+ayez été arboré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été arboré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été arboré(e)(s)

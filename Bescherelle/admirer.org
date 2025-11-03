@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe admirer
+
+* INDICATIF
+
+** Présent
+
+j'admire
+tu admires
+il (elle) admire
+nous admirons
+vous admirez
+ils (elles) admirent
+
+** Imparfait
+
+j'admirais
+tu admirais
+il (elle) admirait
+nous admirions
+vous admiriez
+ils (elles) admiraient
+
+** Passé simple
+
+j'admirai
+tu admiras
+il (elle) admira
+nous admirâmes
+vous admirâtes
+ils (elles) admirèrent
+
+** Futur simple
+
+j'admirerai
+tu admireras
+il (elle) admirera
+nous admirerons
+vous admirerez
+ils (elles) admireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'admirerais
+tu admirerais
+il (elle) admirerait
+nous admirerions
+vous admireriez
+ils (elles) admireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'admire
+que tu admires
+qu’il (elle) admire
+que nous admirions
+que vous admiriez
+qu’ils (elles) admirent
+
+** Imparfait
+
+que j'admirasse
+que tu admirasses
+qu’il (elle) admirât
+que nous admirassions
+que vous admirassiez
+qu’ils (elles) admirassent
+
+* IMPÉRATIF
+
+** Présent
+
+admire
+admirons
+admirez
+
+* INFINITIF
+
+** Présent
+
+admirer
+
+* PARTICIPE
+
+** Présent
+
+admirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai admiré
+tu as admiré
+il (elle) a admiré
+nous avons admiré
+vous avez admiré
+ils (elles) ont admiré
+
+** Plus-que-parfait
+
+j'avais admiré
+tu avais admiré
+il (elle) avait admiré
+nous avions admiré
+vous aviez admiré
+ils (elles) avaient admiré
+
+** Passé antérieur
+
+j'eus admiré
+tu eus admiré
+il (elle) eut admiré
+nous eûmes admiré
+vous eûtes admiré
+ils (elles) eurent admiré
+
+** Futur antérieur
+
+j'aurai admiré
+tu auras admiré
+il (elle) aura admiré
+nous aurons admiré
+vous aurez admiré
+ils (elles) auront admiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais admiré
+tu aurais admiré
+il (elle) aurait admiré
+nous aurions admiré
+vous auriez admiré
+ils (elles) auraient admiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie admiré
+que tu aies admiré
+qu’il (elle) ait admiré
+que nous ayons admiré
+que vous ayez admiré
+qu’ils (elles) aient admiré
+
+** Plus-que-parfait
+
+que j'eusse admiré
+que tu eusses admiré
+qu’il (elle) eût admiré
+que nous eussions admiré
+que vous eussiez admiré
+qu’ils (elles) eussent admiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons admiré
+ayez admiré
+
+* INFINITIF
+
+** Passé
+
+avoir admiré
+
+* PARTICIPE
+
+** Passé
+
+ayant admiré
+admiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis admiré(e)
+tu es admiré(e)
+il (elle) est admiré(e)
+nous sommes admiré(e)s
+vous êtes admiré(e)s
+ils (elles) sont admiré(e)s
+
+** Imparfait
+
+j'étais admiré(e)
+tu étais admiré(e)
+il (elle) était admiré(e)
+nous étions admiré(e)s
+vous étiez admiré(e)s
+ils (elles) étaient admiré(e)s
+
+** Passé simple
+
+je fus admiré(e)
+tu fus admiré(e)
+il (elle) fut admiré(e)
+nous fûmes admiré(e)s
+vous fûtes admiré(e)s
+ils (elles) furent admiré(e)s
+
+** Futur simple
+
+je serai admiré(e)
+tu seras admiré(e)
+il (elle) sera admiré(e)
+nous serons admiré(e)s
+vous serez admiré(e)s
+ils (elles) seront admiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais admiré(e)
+tu serais admiré(e)
+il (elle) serait admiré(e)
+nous serions admiré(e)s
+vous seriez admiré(e)s
+ils (elles) seraient admiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois admiré(e)
+que tu sois admiré(e)
+qu’il (elle) soit admiré(e)
+que nous soyons admiré(e)s
+que vous soyez admiré(e)s
+qu’ils (elles) soient admiré(e)s
+
+** Imparfait
+
+que je fusse admiré(e)
+que tu fusses admiré(e)
+qu’il (elle) fût admiré(e)
+que nous fussions admiré(e)s
+que vous fussiez admiré(e)s
+qu’ils (elles) fussent admiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons admiré(e)s
+soyez admiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être admiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant admiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été admiré(e)
+tu as été admiré(e)
+il (elle) a été admiré(e)
+nous avons été admiré(e)s
+vous avez été admiré(e)s
+ils (elles) ont été admiré(e)s
+
+** Plus-que-parfait
+
+j'avais été admiré(e)
+il (elle) avait été admiré(e)
+nous avions été admiré(e)s
+ils (elles) avaient été admiré(e)s
+
+** Passé antérieur
+
+j'eus été admiré(e)
+tu eus été admiré(e)
+il (elle) eut été admiré(e)
+nous eûmes été admiré(e)s
+vous eûtes été admiré(e)s
+ils (elles) eurent été admiré(e)s
+
+** Futur antérieur
+
+j'aurai été admiré(e)
+tu auras été admiré(e)
+il (elle) aura été admiré(e)
+nous aurons été admiré(e)s
+vous aurez été admiré(e)s
+ils (elles) auront été admiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été admiré(e)
+j'aurais été admiré(e)
+il (elle) aurait été admiré(e)
+nous aurions été admiré(e)s
+vous auriez été admiré(e)s
+ils (elles) auraient été admiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été admiré(e)
+que tu aies été admiré(e)
+qu’il (elle) ait été admiré(e)
+que nous ayons été admiré(e)s
+que vous ayez été admiré(e)s
+qu’ils (elles) aient été admiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été admiré(e)
+que tu eusses été admiré(e)
+qu’il (elle) eût été admiré(e)
+que nous eussions été admiré(e)s
+que vous eussiez été admiré(e)s
+qu’ils (elles) eussent été admiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été admiré(e)
+ayons été admiré(e)s
+ayez été admiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été admiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été admiré(e)(s)

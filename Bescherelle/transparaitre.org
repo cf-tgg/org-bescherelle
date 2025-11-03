@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe transparaitre
+
+* INDICATIF
+
+** Présent
+
+je transparais
+tu transparais
+il (elle) transparaît
+nous transparaissons
+vous transparaissez
+ils (elles) transparaissent
+
+** Imparfait
+
+je transparaissais
+tu transparaissais
+il (elle) transparaissait
+nous transparaissions
+vous transparaissiez
+ils (elles) transparaissaient
+
+** Passé simple
+
+je transparus
+tu transparus
+il (elle) transparut
+nous transparûmes
+vous transparûtes
+ils (elles) transparurent
+
+** Futur simple
+
+je transparaîtrai
+tu transparaîtras
+il (elle) transparaîtra
+nous transparaîtrons
+vous transparaîtrez
+ils (elles) transparaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je transparaîtrais
+tu transparaîtrais
+il (elle) transparaîtrait
+nous transparaîtrions
+vous transparaîtriez
+ils (elles) transparaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je transparaisse
+que tu transparaisses
+qu’il (elle) transparaisse
+que nous transparaissions
+que vous transparaissiez
+qu’ils (elles) transparaissent
+
+** Imparfait
+
+que je transparusse
+que tu transparusses
+qu’il (elle) transparût
+que nous transparussions
+que vous transparussiez
+qu’ils (elles) transparussent
+
+* IMPÉRATIF
+
+** Présent
+
+transparais
+transparaissons
+transparaissez
+
+* INFINITIF
+
+** Présent
+
+transparaître
+
+* PARTICIPE
+
+** Présent
+
+transparaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai transparu
+tu as transparu
+il (elle) a transparu
+nous avons transparu
+vous avez transparu
+ils (elles) ont transparu
+
+** Plus-que-parfait
+
+j'avais transparu
+tu avais transparu
+il (elle) avait transparu
+nous avions transparu
+vous aviez transparu
+ils (elles) avaient transparu
+
+** Passé antérieur
+
+j'eus transparu
+tu eus transparu
+il (elle) eut transparu
+nous eûmes transparu
+vous eûtes transparu
+ils (elles) eurent transparu
+
+** Futur antérieur
+
+j'aurai transparu
+tu auras transparu
+il (elle) aura transparu
+nous aurons transparu
+vous aurez transparu
+ils (elles) auront transparu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais transparu
+tu aurais transparu
+il (elle) aurait transparu
+nous aurions transparu
+vous auriez transparu
+ils (elles) auraient transparu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie transparu
+que tu aies transparu
+qu’il (elle) ait transparu
+que nous ayons transparu
+que vous ayez transparu
+qu’ils (elles) aient transparu
+
+** Plus-que-parfait
+
+que j'eusse transparu
+que tu eusses transparu
+qu’il (elle) eût transparu
+que nous eussions transparu
+que vous eussiez transparu
+qu’ils (elles) eussent transparu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons transparu
+ayez transparu
+
+* INFINITIF
+
+** Passé
+
+avoir transparu
+
+* PARTICIPE
+
+** Passé
+
+ayant transparu
+transparu (invar.)

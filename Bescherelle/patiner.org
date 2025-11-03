@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe patiner
+
+* INDICATIF
+
+** Présent
+
+je patine
+tu patines
+il (elle) patine
+nous patinons
+vous patinez
+ils (elles) patinent
+
+** Imparfait
+
+je patinais
+tu patinais
+il (elle) patinait
+nous patinions
+vous patiniez
+ils (elles) patinaient
+
+** Passé simple
+
+je patinai
+tu patinas
+il (elle) patina
+nous patinâmes
+vous patinâtes
+ils (elles) patinèrent
+
+** Futur simple
+
+je patinerai
+tu patineras
+il (elle) patinera
+nous patinerons
+vous patinerez
+ils (elles) patineront
+
+* CONDITIONNEL
+
+** Présent
+
+je patinerais
+tu patinerais
+il (elle) patinerait
+nous patinerions
+vous patineriez
+ils (elles) patineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je patine
+que tu patines
+qu’il (elle) patine
+que nous patinions
+que vous patiniez
+qu’ils (elles) patinent
+
+** Imparfait
+
+que je patinasse
+que tu patinasses
+qu’il (elle) patinât
+que nous patinassions
+que vous patinassiez
+qu’ils (elles) patinassent
+
+* IMPÉRATIF
+
+** Présent
+
+patine
+patinons
+patinez
+
+* INFINITIF
+
+** Présent
+
+patiner
+
+* PARTICIPE
+
+** Présent
+
+patinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai patiné
+tu as patiné
+il (elle) a patiné
+nous avons patiné
+vous avez patiné
+ils (elles) ont patiné
+
+** Plus-que-parfait
+
+j'avais patiné
+tu avais patiné
+il (elle) avait patiné
+nous avions patiné
+vous aviez patiné
+ils (elles) avaient patiné
+
+** Passé antérieur
+
+j'eus patiné
+tu eus patiné
+il (elle) eut patiné
+nous eûmes patiné
+vous eûtes patiné
+ils (elles) eurent patiné
+
+** Futur antérieur
+
+j'aurai patiné
+tu auras patiné
+il (elle) aura patiné
+nous aurons patiné
+vous aurez patiné
+ils (elles) auront patiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais patiné
+tu aurais patiné
+il (elle) aurait patiné
+nous aurions patiné
+vous auriez patiné
+ils (elles) auraient patiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie patiné
+que tu aies patiné
+qu’il (elle) ait patiné
+que nous ayons patiné
+que vous ayez patiné
+qu’ils (elles) aient patiné
+
+** Plus-que-parfait
+
+que j'eusse patiné
+que tu eusses patiné
+qu’il (elle) eût patiné
+que nous eussions patiné
+que vous eussiez patiné
+qu’ils (elles) eussent patiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons patiné
+ayez patiné
+
+* INFINITIF
+
+** Passé
+
+avoir patiné
+
+* PARTICIPE
+
+** Passé
+
+ayant patiné
+patiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis patiné(e)
+tu es patiné(e)
+il (elle) est patiné(e)
+nous sommes patiné(e)s
+vous êtes patiné(e)s
+ils (elles) sont patiné(e)s
+
+** Imparfait
+
+j'étais patiné(e)
+tu étais patiné(e)
+il (elle) était patiné(e)
+nous étions patiné(e)s
+vous étiez patiné(e)s
+ils (elles) étaient patiné(e)s
+
+** Passé simple
+
+je fus patiné(e)
+tu fus patiné(e)
+il (elle) fut patiné(e)
+nous fûmes patiné(e)s
+vous fûtes patiné(e)s
+ils (elles) furent patiné(e)s
+
+** Futur simple
+
+je serai patiné(e)
+tu seras patiné(e)
+il (elle) sera patiné(e)
+nous serons patiné(e)s
+vous serez patiné(e)s
+ils (elles) seront patiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais patiné(e)
+tu serais patiné(e)
+il (elle) serait patiné(e)
+nous serions patiné(e)s
+vous seriez patiné(e)s
+ils (elles) seraient patiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois patiné(e)
+que tu sois patiné(e)
+qu’il (elle) soit patiné(e)
+que nous soyons patiné(e)s
+que vous soyez patiné(e)s
+qu’ils (elles) soient patiné(e)s
+
+** Imparfait
+
+que je fusse patiné(e)
+que tu fusses patiné(e)
+qu’il (elle) fût patiné(e)
+que nous fussions patiné(e)s
+que vous fussiez patiné(e)s
+qu’ils (elles) fussent patiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons patiné(e)s
+soyez patiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être patiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant patiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été patiné(e)
+tu as été patiné(e)
+il (elle) a été patiné(e)
+nous avons été patiné(e)s
+vous avez été patiné(e)s
+ils (elles) ont été patiné(e)s
+
+** Plus-que-parfait
+
+j'avais été patiné(e)
+il (elle) avait été patiné(e)
+nous avions été patiné(e)s
+ils (elles) avaient été patiné(e)s
+
+** Passé antérieur
+
+j'eus été patiné(e)
+tu eus été patiné(e)
+il (elle) eut été patiné(e)
+nous eûmes été patiné(e)s
+vous eûtes été patiné(e)s
+ils (elles) eurent été patiné(e)s
+
+** Futur antérieur
+
+j'aurai été patiné(e)
+tu auras été patiné(e)
+il (elle) aura été patiné(e)
+nous aurons été patiné(e)s
+vous aurez été patiné(e)s
+ils (elles) auront été patiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été patiné(e)
+j'aurais été patiné(e)
+il (elle) aurait été patiné(e)
+nous aurions été patiné(e)s
+vous auriez été patiné(e)s
+ils (elles) auraient été patiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été patiné(e)
+que tu aies été patiné(e)
+qu’il (elle) ait été patiné(e)
+que nous ayons été patiné(e)s
+que vous ayez été patiné(e)s
+qu’ils (elles) aient été patiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été patiné(e)
+que tu eusses été patiné(e)
+qu’il (elle) eût été patiné(e)
+que nous eussions été patiné(e)s
+que vous eussiez été patiné(e)s
+qu’ils (elles) eussent été patiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été patiné(e)
+ayons été patiné(e)s
+ayez été patiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été patiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été patiné(e)(s)

@@ -1,0 +1,41 @@
+#+title: Conjugaison du verbe gesir
+
+* INDICATIF
+
+** Présent
+
+je gis
+tu gis
+il (elle) gît
+nous gisons
+vous gisez
+ils (elles) gisent
+
+** Imparfait
+
+je gisais
+tu gisais
+il (elle) gisait
+nous gisions
+vous gisiez
+ils (elles) gisaient
+
+* IMPÉRATIF
+
+** Présent
+
+gis
+gisons
+gisez
+
+* INFINITIF
+
+** Présent
+
+gésir
+
+* PARTICIPE
+
+** Présent
+
+gisant

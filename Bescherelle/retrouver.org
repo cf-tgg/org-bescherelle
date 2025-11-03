@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe retrouver
+
+* INDICATIF
+
+** Présent
+
+je retrouve
+tu retrouves
+il (elle) retrouve
+nous retrouvons
+vous retrouvez
+ils (elles) retrouvent
+
+** Imparfait
+
+je retrouvais
+tu retrouvais
+il (elle) retrouvait
+nous retrouvions
+vous retrouviez
+ils (elles) retrouvaient
+
+** Passé simple
+
+je retrouvai
+tu retrouvas
+il (elle) retrouva
+nous retrouvâmes
+vous retrouvâtes
+ils (elles) retrouvèrent
+
+** Futur simple
+
+je retrouverai
+tu retrouveras
+il (elle) retrouvera
+nous retrouverons
+vous retrouverez
+ils (elles) retrouveront
+
+* CONDITIONNEL
+
+** Présent
+
+je retrouverais
+tu retrouverais
+il (elle) retrouverait
+nous retrouverions
+vous retrouveriez
+ils (elles) retrouveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retrouve
+que tu retrouves
+qu’il (elle) retrouve
+que nous retrouvions
+que vous retrouviez
+qu’ils (elles) retrouvent
+
+** Imparfait
+
+que je retrouvasse
+que tu retrouvasses
+qu’il (elle) retrouvât
+que nous retrouvassions
+que vous retrouvassiez
+qu’ils (elles) retrouvassent
+
+* IMPÉRATIF
+
+** Présent
+
+retrouve
+retrouvons
+retrouvez
+
+* INFINITIF
+
+** Présent
+
+retrouver
+
+* PARTICIPE
+
+** Présent
+
+retrouvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retrouvé
+tu as retrouvé
+il (elle) a retrouvé
+nous avons retrouvé
+vous avez retrouvé
+ils (elles) ont retrouvé
+
+** Plus-que-parfait
+
+j'avais retrouvé
+tu avais retrouvé
+il (elle) avait retrouvé
+nous avions retrouvé
+vous aviez retrouvé
+ils (elles) avaient retrouvé
+
+** Passé antérieur
+
+j'eus retrouvé
+tu eus retrouvé
+il (elle) eut retrouvé
+nous eûmes retrouvé
+vous eûtes retrouvé
+ils (elles) eurent retrouvé
+
+** Futur antérieur
+
+j'aurai retrouvé
+tu auras retrouvé
+il (elle) aura retrouvé
+nous aurons retrouvé
+vous aurez retrouvé
+ils (elles) auront retrouvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retrouvé
+tu aurais retrouvé
+il (elle) aurait retrouvé
+nous aurions retrouvé
+vous auriez retrouvé
+ils (elles) auraient retrouvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retrouvé
+que tu aies retrouvé
+qu’il (elle) ait retrouvé
+que nous ayons retrouvé
+que vous ayez retrouvé
+qu’ils (elles) aient retrouvé
+
+** Plus-que-parfait
+
+que j'eusse retrouvé
+que tu eusses retrouvé
+qu’il (elle) eût retrouvé
+que nous eussions retrouvé
+que vous eussiez retrouvé
+qu’ils (elles) eussent retrouvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retrouvé
+ayez retrouvé
+
+* INFINITIF
+
+** Passé
+
+avoir retrouvé
+
+* PARTICIPE
+
+** Passé
+
+ayant retrouvé
+retrouvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis retrouvé(e)
+tu es retrouvé(e)
+il (elle) est retrouvé(e)
+nous sommes retrouvé(e)s
+vous êtes retrouvé(e)s
+ils (elles) sont retrouvé(e)s
+
+** Imparfait
+
+j'étais retrouvé(e)
+tu étais retrouvé(e)
+il (elle) était retrouvé(e)
+nous étions retrouvé(e)s
+vous étiez retrouvé(e)s
+ils (elles) étaient retrouvé(e)s
+
+** Passé simple
+
+je fus retrouvé(e)
+tu fus retrouvé(e)
+il (elle) fut retrouvé(e)
+nous fûmes retrouvé(e)s
+vous fûtes retrouvé(e)s
+ils (elles) furent retrouvé(e)s
+
+** Futur simple
+
+je serai retrouvé(e)
+tu seras retrouvé(e)
+il (elle) sera retrouvé(e)
+nous serons retrouvé(e)s
+vous serez retrouvé(e)s
+ils (elles) seront retrouvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais retrouvé(e)
+tu serais retrouvé(e)
+il (elle) serait retrouvé(e)
+nous serions retrouvé(e)s
+vous seriez retrouvé(e)s
+ils (elles) seraient retrouvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois retrouvé(e)
+que tu sois retrouvé(e)
+qu’il (elle) soit retrouvé(e)
+que nous soyons retrouvé(e)s
+que vous soyez retrouvé(e)s
+qu’ils (elles) soient retrouvé(e)s
+
+** Imparfait
+
+que je fusse retrouvé(e)
+que tu fusses retrouvé(e)
+qu’il (elle) fût retrouvé(e)
+que nous fussions retrouvé(e)s
+que vous fussiez retrouvé(e)s
+qu’ils (elles) fussent retrouvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons retrouvé(e)s
+soyez retrouvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être retrouvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant retrouvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été retrouvé(e)
+tu as été retrouvé(e)
+il (elle) a été retrouvé(e)
+nous avons été retrouvé(e)s
+vous avez été retrouvé(e)s
+ils (elles) ont été retrouvé(e)s
+
+** Plus-que-parfait
+
+j'avais été retrouvé(e)
+il (elle) avait été retrouvé(e)
+nous avions été retrouvé(e)s
+ils (elles) avaient été retrouvé(e)s
+
+** Passé antérieur
+
+j'eus été retrouvé(e)
+tu eus été retrouvé(e)
+il (elle) eut été retrouvé(e)
+nous eûmes été retrouvé(e)s
+vous eûtes été retrouvé(e)s
+ils (elles) eurent été retrouvé(e)s
+
+** Futur antérieur
+
+j'aurai été retrouvé(e)
+tu auras été retrouvé(e)
+il (elle) aura été retrouvé(e)
+nous aurons été retrouvé(e)s
+vous aurez été retrouvé(e)s
+ils (elles) auront été retrouvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été retrouvé(e)
+j'aurais été retrouvé(e)
+il (elle) aurait été retrouvé(e)
+nous aurions été retrouvé(e)s
+vous auriez été retrouvé(e)s
+ils (elles) auraient été retrouvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été retrouvé(e)
+que tu aies été retrouvé(e)
+qu’il (elle) ait été retrouvé(e)
+que nous ayons été retrouvé(e)s
+que vous ayez été retrouvé(e)s
+qu’ils (elles) aient été retrouvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été retrouvé(e)
+que tu eusses été retrouvé(e)
+qu’il (elle) eût été retrouvé(e)
+que nous eussions été retrouvé(e)s
+que vous eussiez été retrouvé(e)s
+qu’ils (elles) eussent été retrouvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été retrouvé(e)
+ayons été retrouvé(e)s
+ayez été retrouvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été retrouvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été retrouvé(e)(s)

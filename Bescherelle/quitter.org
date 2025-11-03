@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe quitter
+
+* INDICATIF
+
+** Présent
+
+je quitte
+tu quittes
+il (elle) quitte
+nous quittons
+vous quittez
+ils (elles) quittent
+
+** Imparfait
+
+je quittais
+tu quittais
+il (elle) quittait
+nous quittions
+vous quittiez
+ils (elles) quittaient
+
+** Passé simple
+
+je quittai
+tu quittas
+il (elle) quitta
+nous quittâmes
+vous quittâtes
+ils (elles) quittèrent
+
+** Futur simple
+
+je quitterai
+tu quitteras
+il (elle) quittera
+nous quitterons
+vous quitterez
+ils (elles) quitteront
+
+* CONDITIONNEL
+
+** Présent
+
+je quitterais
+tu quitterais
+il (elle) quitterait
+nous quitterions
+vous quitteriez
+ils (elles) quitteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je quitte
+que tu quittes
+qu’il (elle) quitte
+que nous quittions
+que vous quittiez
+qu’ils (elles) quittent
+
+** Imparfait
+
+que je quittasse
+que tu quittasses
+qu’il (elle) quittât
+que nous quittassions
+que vous quittassiez
+qu’ils (elles) quittassent
+
+* IMPÉRATIF
+
+** Présent
+
+quitte
+quittons
+quittez
+
+* INFINITIF
+
+** Présent
+
+quitter
+
+* PARTICIPE
+
+** Présent
+
+quittant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai quitté
+tu as quitté
+il (elle) a quitté
+nous avons quitté
+vous avez quitté
+ils (elles) ont quitté
+
+** Plus-que-parfait
+
+j'avais quitté
+tu avais quitté
+il (elle) avait quitté
+nous avions quitté
+vous aviez quitté
+ils (elles) avaient quitté
+
+** Passé antérieur
+
+j'eus quitté
+tu eus quitté
+il (elle) eut quitté
+nous eûmes quitté
+vous eûtes quitté
+ils (elles) eurent quitté
+
+** Futur antérieur
+
+j'aurai quitté
+tu auras quitté
+il (elle) aura quitté
+nous aurons quitté
+vous aurez quitté
+ils (elles) auront quitté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais quitté
+tu aurais quitté
+il (elle) aurait quitté
+nous aurions quitté
+vous auriez quitté
+ils (elles) auraient quitté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie quitté
+que tu aies quitté
+qu’il (elle) ait quitté
+que nous ayons quitté
+que vous ayez quitté
+qu’ils (elles) aient quitté
+
+** Plus-que-parfait
+
+que j'eusse quitté
+que tu eusses quitté
+qu’il (elle) eût quitté
+que nous eussions quitté
+que vous eussiez quitté
+qu’ils (elles) eussent quitté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons quitté
+ayez quitté
+
+* INFINITIF
+
+** Passé
+
+avoir quitté
+
+* PARTICIPE
+
+** Passé
+
+ayant quitté
+quitté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis quitté(e)
+tu es quitté(e)
+il (elle) est quitté(e)
+nous sommes quitté(e)s
+vous êtes quitté(e)s
+ils (elles) sont quitté(e)s
+
+** Imparfait
+
+j'étais quitté(e)
+tu étais quitté(e)
+il (elle) était quitté(e)
+nous étions quitté(e)s
+vous étiez quitté(e)s
+ils (elles) étaient quitté(e)s
+
+** Passé simple
+
+je fus quitté(e)
+tu fus quitté(e)
+il (elle) fut quitté(e)
+nous fûmes quitté(e)s
+vous fûtes quitté(e)s
+ils (elles) furent quitté(e)s
+
+** Futur simple
+
+je serai quitté(e)
+tu seras quitté(e)
+il (elle) sera quitté(e)
+nous serons quitté(e)s
+vous serez quitté(e)s
+ils (elles) seront quitté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais quitté(e)
+tu serais quitté(e)
+il (elle) serait quitté(e)
+nous serions quitté(e)s
+vous seriez quitté(e)s
+ils (elles) seraient quitté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois quitté(e)
+que tu sois quitté(e)
+qu’il (elle) soit quitté(e)
+que nous soyons quitté(e)s
+que vous soyez quitté(e)s
+qu’ils (elles) soient quitté(e)s
+
+** Imparfait
+
+que je fusse quitté(e)
+que tu fusses quitté(e)
+qu’il (elle) fût quitté(e)
+que nous fussions quitté(e)s
+que vous fussiez quitté(e)s
+qu’ils (elles) fussent quitté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons quitté(e)s
+soyez quitté(e)s
+
+* INFINITIF
+
+** Présent
+
+être quitté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant quitté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été quitté(e)
+tu as été quitté(e)
+il (elle) a été quitté(e)
+nous avons été quitté(e)s
+vous avez été quitté(e)s
+ils (elles) ont été quitté(e)s
+
+** Plus-que-parfait
+
+j'avais été quitté(e)
+il (elle) avait été quitté(e)
+nous avions été quitté(e)s
+ils (elles) avaient été quitté(e)s
+
+** Passé antérieur
+
+j'eus été quitté(e)
+tu eus été quitté(e)
+il (elle) eut été quitté(e)
+nous eûmes été quitté(e)s
+vous eûtes été quitté(e)s
+ils (elles) eurent été quitté(e)s
+
+** Futur antérieur
+
+j'aurai été quitté(e)
+tu auras été quitté(e)
+il (elle) aura été quitté(e)
+nous aurons été quitté(e)s
+vous aurez été quitté(e)s
+ils (elles) auront été quitté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été quitté(e)
+j'aurais été quitté(e)
+il (elle) aurait été quitté(e)
+nous aurions été quitté(e)s
+vous auriez été quitté(e)s
+ils (elles) auraient été quitté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été quitté(e)
+que tu aies été quitté(e)
+qu’il (elle) ait été quitté(e)
+que nous ayons été quitté(e)s
+que vous ayez été quitté(e)s
+qu’ils (elles) aient été quitté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été quitté(e)
+que tu eusses été quitté(e)
+qu’il (elle) eût été quitté(e)
+que nous eussions été quitté(e)s
+que vous eussiez été quitté(e)s
+qu’ils (elles) eussent été quitté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été quitté(e)
+ayons été quitté(e)s
+ayez été quitté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été quitté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été quitté(e)(s)

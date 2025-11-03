@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe coiffer
+
+* INDICATIF
+
+** Présent
+
+je coiffe
+tu coiffes
+il (elle) coiffe
+nous coiffons
+vous coiffez
+ils (elles) coiffent
+
+** Imparfait
+
+je coiffais
+tu coiffais
+il (elle) coiffait
+nous coiffions
+vous coiffiez
+ils (elles) coiffaient
+
+** Passé simple
+
+je coiffai
+tu coiffas
+il (elle) coiffa
+nous coiffâmes
+vous coiffâtes
+ils (elles) coiffèrent
+
+** Futur simple
+
+je coifferai
+tu coifferas
+il (elle) coiffera
+nous coifferons
+vous coifferez
+ils (elles) coifferont
+
+* CONDITIONNEL
+
+** Présent
+
+je coifferais
+tu coifferais
+il (elle) coifferait
+nous coifferions
+vous coifferiez
+ils (elles) coifferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coiffe
+que tu coiffes
+qu’il (elle) coiffe
+que nous coiffions
+que vous coiffiez
+qu’ils (elles) coiffent
+
+** Imparfait
+
+que je coiffasse
+que tu coiffasses
+qu’il (elle) coiffât
+que nous coiffassions
+que vous coiffassiez
+qu’ils (elles) coiffassent
+
+* IMPÉRATIF
+
+** Présent
+
+coiffe
+coiffons
+coiffez
+
+* INFINITIF
+
+** Présent
+
+coiffer
+
+* PARTICIPE
+
+** Présent
+
+coiffant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coiffé
+tu as coiffé
+il (elle) a coiffé
+nous avons coiffé
+vous avez coiffé
+ils (elles) ont coiffé
+
+** Plus-que-parfait
+
+j'avais coiffé
+tu avais coiffé
+il (elle) avait coiffé
+nous avions coiffé
+vous aviez coiffé
+ils (elles) avaient coiffé
+
+** Passé antérieur
+
+j'eus coiffé
+tu eus coiffé
+il (elle) eut coiffé
+nous eûmes coiffé
+vous eûtes coiffé
+ils (elles) eurent coiffé
+
+** Futur antérieur
+
+j'aurai coiffé
+tu auras coiffé
+il (elle) aura coiffé
+nous aurons coiffé
+vous aurez coiffé
+ils (elles) auront coiffé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coiffé
+tu aurais coiffé
+il (elle) aurait coiffé
+nous aurions coiffé
+vous auriez coiffé
+ils (elles) auraient coiffé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coiffé
+que tu aies coiffé
+qu’il (elle) ait coiffé
+que nous ayons coiffé
+que vous ayez coiffé
+qu’ils (elles) aient coiffé
+
+** Plus-que-parfait
+
+que j'eusse coiffé
+que tu eusses coiffé
+qu’il (elle) eût coiffé
+que nous eussions coiffé
+que vous eussiez coiffé
+qu’ils (elles) eussent coiffé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coiffé
+ayez coiffé
+
+* INFINITIF
+
+** Passé
+
+avoir coiffé
+
+* PARTICIPE
+
+** Passé
+
+ayant coiffé
+coiffé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coiffé(e)
+tu es coiffé(e)
+il (elle) est coiffé(e)
+nous sommes coiffé(e)s
+vous êtes coiffé(e)s
+ils (elles) sont coiffé(e)s
+
+** Imparfait
+
+j'étais coiffé(e)
+tu étais coiffé(e)
+il (elle) était coiffé(e)
+nous étions coiffé(e)s
+vous étiez coiffé(e)s
+ils (elles) étaient coiffé(e)s
+
+** Passé simple
+
+je fus coiffé(e)
+tu fus coiffé(e)
+il (elle) fut coiffé(e)
+nous fûmes coiffé(e)s
+vous fûtes coiffé(e)s
+ils (elles) furent coiffé(e)s
+
+** Futur simple
+
+je serai coiffé(e)
+tu seras coiffé(e)
+il (elle) sera coiffé(e)
+nous serons coiffé(e)s
+vous serez coiffé(e)s
+ils (elles) seront coiffé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coiffé(e)
+tu serais coiffé(e)
+il (elle) serait coiffé(e)
+nous serions coiffé(e)s
+vous seriez coiffé(e)s
+ils (elles) seraient coiffé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coiffé(e)
+que tu sois coiffé(e)
+qu’il (elle) soit coiffé(e)
+que nous soyons coiffé(e)s
+que vous soyez coiffé(e)s
+qu’ils (elles) soient coiffé(e)s
+
+** Imparfait
+
+que je fusse coiffé(e)
+que tu fusses coiffé(e)
+qu’il (elle) fût coiffé(e)
+que nous fussions coiffé(e)s
+que vous fussiez coiffé(e)s
+qu’ils (elles) fussent coiffé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coiffé(e)s
+soyez coiffé(e)s
+
+* INFINITIF
+
+** Présent
+
+être coiffé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coiffé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coiffé(e)
+tu as été coiffé(e)
+il (elle) a été coiffé(e)
+nous avons été coiffé(e)s
+vous avez été coiffé(e)s
+ils (elles) ont été coiffé(e)s
+
+** Plus-que-parfait
+
+j'avais été coiffé(e)
+il (elle) avait été coiffé(e)
+nous avions été coiffé(e)s
+ils (elles) avaient été coiffé(e)s
+
+** Passé antérieur
+
+j'eus été coiffé(e)
+tu eus été coiffé(e)
+il (elle) eut été coiffé(e)
+nous eûmes été coiffé(e)s
+vous eûtes été coiffé(e)s
+ils (elles) eurent été coiffé(e)s
+
+** Futur antérieur
+
+j'aurai été coiffé(e)
+tu auras été coiffé(e)
+il (elle) aura été coiffé(e)
+nous aurons été coiffé(e)s
+vous aurez été coiffé(e)s
+ils (elles) auront été coiffé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coiffé(e)
+j'aurais été coiffé(e)
+il (elle) aurait été coiffé(e)
+nous aurions été coiffé(e)s
+vous auriez été coiffé(e)s
+ils (elles) auraient été coiffé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coiffé(e)
+que tu aies été coiffé(e)
+qu’il (elle) ait été coiffé(e)
+que nous ayons été coiffé(e)s
+que vous ayez été coiffé(e)s
+qu’ils (elles) aient été coiffé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coiffé(e)
+que tu eusses été coiffé(e)
+qu’il (elle) eût été coiffé(e)
+que nous eussions été coiffé(e)s
+que vous eussiez été coiffé(e)s
+qu’ils (elles) eussent été coiffé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coiffé(e)
+ayons été coiffé(e)s
+ayez été coiffé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coiffé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coiffé(e)(s)

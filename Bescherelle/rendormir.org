@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rendormir
+
+* INDICATIF
+
+** Présent
+
+je rendors
+tu rendors
+il (elle) rendort
+nous rendormons
+vous rendormez
+ils (elles) rendorment
+
+** Imparfait
+
+je rendormais
+tu rendormais
+il (elle) rendormait
+nous rendormions
+vous rendormiez
+ils (elles) rendormaient
+
+** Passé simple
+
+je rendormis
+tu rendormis
+il (elle) rendormit
+nous rendormîmes
+vous rendormîtes
+ils (elles) rendormirent
+
+** Futur simple
+
+je rendormirai
+tu rendormiras
+il (elle) rendormira
+nous rendormirons
+vous rendormirez
+ils (elles) rendormiront
+
+* CONDITIONNEL
+
+** Présent
+
+je rendormirais
+tu rendormirais
+il (elle) rendormirait
+nous rendormirions
+vous rendormiriez
+ils (elles) rendormiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rendorme
+que tu rendormes
+qu’il (elle) rendorme
+que nous rendormions
+que vous rendormiez
+qu’ils (elles) rendorment
+
+** Imparfait
+
+que je rendormisse
+que tu rendormisses
+qu’il (elle) rendormît
+que nous rendormissions
+que vous rendormissiez
+qu’ils (elles) rendormissent
+
+* IMPÉRATIF
+
+** Présent
+
+rendors
+rendormons
+rendormez
+
+* INFINITIF
+
+** Présent
+
+rendormir
+
+* PARTICIPE
+
+** Présent
+
+rendormant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rendormi
+tu as rendormi
+il (elle) a rendormi
+nous avons rendormi
+vous avez rendormi
+ils (elles) ont rendormi
+
+** Plus-que-parfait
+
+j'avais rendormi
+tu avais rendormi
+il (elle) avait rendormi
+nous avions rendormi
+vous aviez rendormi
+ils (elles) avaient rendormi
+
+** Passé antérieur
+
+j'eus rendormi
+tu eus rendormi
+il (elle) eut rendormi
+nous eûmes rendormi
+vous eûtes rendormi
+ils (elles) eurent rendormi
+
+** Futur antérieur
+
+j'aurai rendormi
+tu auras rendormi
+il (elle) aura rendormi
+nous aurons rendormi
+vous aurez rendormi
+ils (elles) auront rendormi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rendormi
+tu aurais rendormi
+il (elle) aurait rendormi
+nous aurions rendormi
+vous auriez rendormi
+ils (elles) auraient rendormi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rendormi
+que tu aies rendormi
+qu’il (elle) ait rendormi
+que nous ayons rendormi
+que vous ayez rendormi
+qu’ils (elles) aient rendormi
+
+** Plus-que-parfait
+
+que j'eusse rendormi
+que tu eusses rendormi
+qu’il (elle) eût rendormi
+que nous eussions rendormi
+que vous eussiez rendormi
+qu’ils (elles) eussent rendormi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rendormi
+ayez rendormi
+
+* INFINITIF
+
+** Passé
+
+avoir rendormi
+
+* PARTICIPE
+
+** Passé
+
+ayant rendormi
+rendormi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis rendormi(e)
+tu es rendormi(e)
+il (elle) est rendormi(e)
+nous sommes rendormi(e)s
+vous êtes rendormi(e)s
+ils (elles) sont rendormi(e)s
+
+** Imparfait
+
+j'étais rendormi(e)
+tu étais rendormi(e)
+il (elle) était rendormi(e)
+nous étions rendormi(e)s
+vous étiez rendormi(e)s
+ils (elles) étaient rendormi(e)s
+
+** Passé simple
+
+je fus rendormi(e)
+tu fus rendormi(e)
+il (elle) fut rendormi(e)
+nous fûmes rendormi(e)s
+vous fûtes rendormi(e)s
+ils (elles) furent rendormi(e)s
+
+** Futur simple
+
+je serai rendormi(e)
+tu seras rendormi(e)
+il (elle) sera rendormi(e)
+nous serons rendormi(e)s
+vous serez rendormi(e)s
+ils (elles) seront rendormi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rendormi(e)
+tu serais rendormi(e)
+il (elle) serait rendormi(e)
+nous serions rendormi(e)s
+vous seriez rendormi(e)s
+ils (elles) seraient rendormi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rendormi(e)
+que tu sois rendormi(e)
+qu’il (elle) soit rendormi(e)
+que nous soyons rendormi(e)s
+que vous soyez rendormi(e)s
+qu’ils (elles) soient rendormi(e)s
+
+** Imparfait
+
+que je fusse rendormi(e)
+que tu fusses rendormi(e)
+qu’il (elle) fût rendormi(e)
+que nous fussions rendormi(e)s
+que vous fussiez rendormi(e)s
+qu’ils (elles) fussent rendormi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rendormi(e)s
+soyez rendormi(e)s
+
+* INFINITIF
+
+** Présent
+
+être rendormi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rendormi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rendormi(e)
+tu as été rendormi(e)
+il (elle) a été rendormi(e)
+nous avons été rendormi(e)s
+vous avez été rendormi(e)s
+ils (elles) ont été rendormi(e)s
+
+** Plus-que-parfait
+
+j'avais été rendormi(e)
+il (elle) avait été rendormi(e)
+nous avions été rendormi(e)s
+ils (elles) avaient été rendormi(e)s
+
+** Passé antérieur
+
+j'eus été rendormi(e)
+tu eus été rendormi(e)
+il (elle) eut été rendormi(e)
+nous eûmes été rendormi(e)s
+vous eûtes été rendormi(e)s
+ils (elles) eurent été rendormi(e)s
+
+** Futur antérieur
+
+j'aurai été rendormi(e)
+tu auras été rendormi(e)
+il (elle) aura été rendormi(e)
+nous aurons été rendormi(e)s
+vous aurez été rendormi(e)s
+ils (elles) auront été rendormi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rendormi(e)
+j'aurais été rendormi(e)
+il (elle) aurait été rendormi(e)
+nous aurions été rendormi(e)s
+vous auriez été rendormi(e)s
+ils (elles) auraient été rendormi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rendormi(e)
+que tu aies été rendormi(e)
+qu’il (elle) ait été rendormi(e)
+que nous ayons été rendormi(e)s
+que vous ayez été rendormi(e)s
+qu’ils (elles) aient été rendormi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rendormi(e)
+que tu eusses été rendormi(e)
+qu’il (elle) eût été rendormi(e)
+que nous eussions été rendormi(e)s
+que vous eussiez été rendormi(e)s
+qu’ils (elles) eussent été rendormi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rendormi(e)
+ayons été rendormi(e)s
+ayez été rendormi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rendormi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rendormi(e)(s)

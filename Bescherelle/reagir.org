@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe reagir
+
+* INDICATIF
+
+** Présent
+
+je réagis
+tu réagis
+il (elle) réagit
+nous réagissons
+vous réagissez
+ils (elles) réagissent
+
+** Imparfait
+
+je réagissais
+tu réagissais
+il (elle) réagissait
+nous réagissions
+vous réagissiez
+ils (elles) réagissaient
+
+** Passé simple
+
+je réagis
+tu réagis
+il (elle) réagit
+nous réagîmes
+vous réagîtes
+ils (elles) réagirent
+
+** Futur simple
+
+je réagirai
+tu réagiras
+il (elle) réagira
+nous réagirons
+vous réagirez
+ils (elles) réagiront
+
+* CONDITIONNEL
+
+** Présent
+
+je réagirais
+tu réagirais
+il (elle) réagirait
+nous réagirions
+vous réagiriez
+ils (elles) réagiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réagisse
+que tu réagisses
+qu’il (elle) réagisse
+que nous réagissions
+que vous réagissiez
+qu’ils (elles) réagissent
+
+** Imparfait
+
+que je réagisse
+que tu réagisses
+qu’il (elle) réagît
+que nous réagissions
+que vous réagissiez
+qu’ils (elles) réagissent
+
+* IMPÉRATIF
+
+** Présent
+
+réagis
+réagissons
+réagissez
+
+* INFINITIF
+
+** Présent
+
+réagir
+
+* PARTICIPE
+
+** Présent
+
+réagissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réagi
+tu as réagi
+il (elle) a réagi
+nous avons réagi
+vous avez réagi
+ils (elles) ont réagi
+
+** Plus-que-parfait
+
+j'avais réagi
+tu avais réagi
+il (elle) avait réagi
+nous avions réagi
+vous aviez réagi
+ils (elles) avaient réagi
+
+** Passé antérieur
+
+j'eus réagi
+tu eus réagi
+il (elle) eut réagi
+nous eûmes réagi
+vous eûtes réagi
+ils (elles) eurent réagi
+
+** Futur antérieur
+
+j'aurai réagi
+tu auras réagi
+il (elle) aura réagi
+nous aurons réagi
+vous aurez réagi
+ils (elles) auront réagi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réagi
+tu aurais réagi
+il (elle) aurait réagi
+nous aurions réagi
+vous auriez réagi
+ils (elles) auraient réagi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réagi
+que tu aies réagi
+qu’il (elle) ait réagi
+que nous ayons réagi
+que vous ayez réagi
+qu’ils (elles) aient réagi
+
+** Plus-que-parfait
+
+que j'eusse réagi
+que tu eusses réagi
+qu’il (elle) eût réagi
+que nous eussions réagi
+que vous eussiez réagi
+qu’ils (elles) eussent réagi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réagi
+ayez réagi
+
+* INFINITIF
+
+** Passé
+
+avoir réagi
+
+* PARTICIPE
+
+** Passé
+
+ayant réagi
+réagi (invar.)

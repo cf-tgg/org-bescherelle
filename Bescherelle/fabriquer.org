@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fabriquer
+
+* INDICATIF
+
+** Présent
+
+je fabrique
+tu fabriques
+il (elle) fabrique
+nous fabriquons
+vous fabriquez
+ils (elles) fabriquent
+
+** Imparfait
+
+je fabriquais
+tu fabriquais
+il (elle) fabriquait
+nous fabriquions
+vous fabriquiez
+ils (elles) fabriquaient
+
+** Passé simple
+
+je fabriquai
+tu fabriquas
+il (elle) fabriqua
+nous fabriquâmes
+vous fabriquâtes
+ils (elles) fabriquèrent
+
+** Futur simple
+
+je fabriquerai
+tu fabriqueras
+il (elle) fabriquera
+nous fabriquerons
+vous fabriquerez
+ils (elles) fabriqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je fabriquerais
+tu fabriquerais
+il (elle) fabriquerait
+nous fabriquerions
+vous fabriqueriez
+ils (elles) fabriqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fabrique
+que tu fabriques
+qu’il (elle) fabrique
+que nous fabriquions
+que vous fabriquiez
+qu’ils (elles) fabriquent
+
+** Imparfait
+
+que je fabriquasse
+que tu fabriquasses
+qu’il (elle) fabriquât
+que nous fabriquassions
+que vous fabriquassiez
+qu’ils (elles) fabriquassent
+
+* IMPÉRATIF
+
+** Présent
+
+fabrique
+fabriquons
+fabriquez
+
+* INFINITIF
+
+** Présent
+
+fabriquer
+
+* PARTICIPE
+
+** Présent
+
+fabriquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fabriqué
+tu as fabriqué
+il (elle) a fabriqué
+nous avons fabriqué
+vous avez fabriqué
+ils (elles) ont fabriqué
+
+** Plus-que-parfait
+
+j'avais fabriqué
+tu avais fabriqué
+il (elle) avait fabriqué
+nous avions fabriqué
+vous aviez fabriqué
+ils (elles) avaient fabriqué
+
+** Passé antérieur
+
+j'eus fabriqué
+tu eus fabriqué
+il (elle) eut fabriqué
+nous eûmes fabriqué
+vous eûtes fabriqué
+ils (elles) eurent fabriqué
+
+** Futur antérieur
+
+j'aurai fabriqué
+tu auras fabriqué
+il (elle) aura fabriqué
+nous aurons fabriqué
+vous aurez fabriqué
+ils (elles) auront fabriqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fabriqué
+tu aurais fabriqué
+il (elle) aurait fabriqué
+nous aurions fabriqué
+vous auriez fabriqué
+ils (elles) auraient fabriqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fabriqué
+que tu aies fabriqué
+qu’il (elle) ait fabriqué
+que nous ayons fabriqué
+que vous ayez fabriqué
+qu’ils (elles) aient fabriqué
+
+** Plus-que-parfait
+
+que j'eusse fabriqué
+que tu eusses fabriqué
+qu’il (elle) eût fabriqué
+que nous eussions fabriqué
+que vous eussiez fabriqué
+qu’ils (elles) eussent fabriqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fabriqué
+ayez fabriqué
+
+* INFINITIF
+
+** Passé
+
+avoir fabriqué
+
+* PARTICIPE
+
+** Passé
+
+ayant fabriqué
+fabriqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fabriqué(e)
+tu es fabriqué(e)
+il (elle) est fabriqué(e)
+nous sommes fabriqué(e)s
+vous êtes fabriqué(e)s
+ils (elles) sont fabriqué(e)s
+
+** Imparfait
+
+j'étais fabriqué(e)
+tu étais fabriqué(e)
+il (elle) était fabriqué(e)
+nous étions fabriqué(e)s
+vous étiez fabriqué(e)s
+ils (elles) étaient fabriqué(e)s
+
+** Passé simple
+
+je fus fabriqué(e)
+tu fus fabriqué(e)
+il (elle) fut fabriqué(e)
+nous fûmes fabriqué(e)s
+vous fûtes fabriqué(e)s
+ils (elles) furent fabriqué(e)s
+
+** Futur simple
+
+je serai fabriqué(e)
+tu seras fabriqué(e)
+il (elle) sera fabriqué(e)
+nous serons fabriqué(e)s
+vous serez fabriqué(e)s
+ils (elles) seront fabriqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fabriqué(e)
+tu serais fabriqué(e)
+il (elle) serait fabriqué(e)
+nous serions fabriqué(e)s
+vous seriez fabriqué(e)s
+ils (elles) seraient fabriqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fabriqué(e)
+que tu sois fabriqué(e)
+qu’il (elle) soit fabriqué(e)
+que nous soyons fabriqué(e)s
+que vous soyez fabriqué(e)s
+qu’ils (elles) soient fabriqué(e)s
+
+** Imparfait
+
+que je fusse fabriqué(e)
+que tu fusses fabriqué(e)
+qu’il (elle) fût fabriqué(e)
+que nous fussions fabriqué(e)s
+que vous fussiez fabriqué(e)s
+qu’ils (elles) fussent fabriqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fabriqué(e)s
+soyez fabriqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être fabriqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fabriqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fabriqué(e)
+tu as été fabriqué(e)
+il (elle) a été fabriqué(e)
+nous avons été fabriqué(e)s
+vous avez été fabriqué(e)s
+ils (elles) ont été fabriqué(e)s
+
+** Plus-que-parfait
+
+j'avais été fabriqué(e)
+il (elle) avait été fabriqué(e)
+nous avions été fabriqué(e)s
+ils (elles) avaient été fabriqué(e)s
+
+** Passé antérieur
+
+j'eus été fabriqué(e)
+tu eus été fabriqué(e)
+il (elle) eut été fabriqué(e)
+nous eûmes été fabriqué(e)s
+vous eûtes été fabriqué(e)s
+ils (elles) eurent été fabriqué(e)s
+
+** Futur antérieur
+
+j'aurai été fabriqué(e)
+tu auras été fabriqué(e)
+il (elle) aura été fabriqué(e)
+nous aurons été fabriqué(e)s
+vous aurez été fabriqué(e)s
+ils (elles) auront été fabriqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fabriqué(e)
+j'aurais été fabriqué(e)
+il (elle) aurait été fabriqué(e)
+nous aurions été fabriqué(e)s
+vous auriez été fabriqué(e)s
+ils (elles) auraient été fabriqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fabriqué(e)
+que tu aies été fabriqué(e)
+qu’il (elle) ait été fabriqué(e)
+que nous ayons été fabriqué(e)s
+que vous ayez été fabriqué(e)s
+qu’ils (elles) aient été fabriqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fabriqué(e)
+que tu eusses été fabriqué(e)
+qu’il (elle) eût été fabriqué(e)
+que nous eussions été fabriqué(e)s
+que vous eussiez été fabriqué(e)s
+qu’ils (elles) eussent été fabriqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fabriqué(e)
+ayons été fabriqué(e)s
+ayez été fabriqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fabriqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fabriqué(e)(s)

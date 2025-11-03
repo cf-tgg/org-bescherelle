@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe presser
+
+* INDICATIF
+
+** Présent
+
+je presse
+tu presses
+il (elle) presse
+nous pressons
+vous pressez
+ils (elles) pressent
+
+** Imparfait
+
+je pressais
+tu pressais
+il (elle) pressait
+nous pressions
+vous pressiez
+ils (elles) pressaient
+
+** Passé simple
+
+je pressai
+tu pressas
+il (elle) pressa
+nous pressâmes
+vous pressâtes
+ils (elles) pressèrent
+
+** Futur simple
+
+je presserai
+tu presseras
+il (elle) pressera
+nous presserons
+vous presserez
+ils (elles) presseront
+
+* CONDITIONNEL
+
+** Présent
+
+je presserais
+tu presserais
+il (elle) presserait
+nous presserions
+vous presseriez
+ils (elles) presseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je presse
+que tu presses
+qu’il (elle) presse
+que nous pressions
+que vous pressiez
+qu’ils (elles) pressent
+
+** Imparfait
+
+que je pressasse
+que tu pressasses
+qu’il (elle) pressât
+que nous pressassions
+que vous pressassiez
+qu’ils (elles) pressassent
+
+* IMPÉRATIF
+
+** Présent
+
+presse
+pressons
+pressez
+
+* INFINITIF
+
+** Présent
+
+presser
+
+* PARTICIPE
+
+** Présent
+
+pressant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pressé
+tu as pressé
+il (elle) a pressé
+nous avons pressé
+vous avez pressé
+ils (elles) ont pressé
+
+** Plus-que-parfait
+
+j'avais pressé
+tu avais pressé
+il (elle) avait pressé
+nous avions pressé
+vous aviez pressé
+ils (elles) avaient pressé
+
+** Passé antérieur
+
+j'eus pressé
+tu eus pressé
+il (elle) eut pressé
+nous eûmes pressé
+vous eûtes pressé
+ils (elles) eurent pressé
+
+** Futur antérieur
+
+j'aurai pressé
+tu auras pressé
+il (elle) aura pressé
+nous aurons pressé
+vous aurez pressé
+ils (elles) auront pressé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pressé
+tu aurais pressé
+il (elle) aurait pressé
+nous aurions pressé
+vous auriez pressé
+ils (elles) auraient pressé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pressé
+que tu aies pressé
+qu’il (elle) ait pressé
+que nous ayons pressé
+que vous ayez pressé
+qu’ils (elles) aient pressé
+
+** Plus-que-parfait
+
+que j'eusse pressé
+que tu eusses pressé
+qu’il (elle) eût pressé
+que nous eussions pressé
+que vous eussiez pressé
+qu’ils (elles) eussent pressé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pressé
+ayez pressé
+
+* INFINITIF
+
+** Passé
+
+avoir pressé
+
+* PARTICIPE
+
+** Passé
+
+ayant pressé
+pressé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pressé(e)
+tu es pressé(e)
+il (elle) est pressé(e)
+nous sommes pressé(e)s
+vous êtes pressé(e)s
+ils (elles) sont pressé(e)s
+
+** Imparfait
+
+j'étais pressé(e)
+tu étais pressé(e)
+il (elle) était pressé(e)
+nous étions pressé(e)s
+vous étiez pressé(e)s
+ils (elles) étaient pressé(e)s
+
+** Passé simple
+
+je fus pressé(e)
+tu fus pressé(e)
+il (elle) fut pressé(e)
+nous fûmes pressé(e)s
+vous fûtes pressé(e)s
+ils (elles) furent pressé(e)s
+
+** Futur simple
+
+je serai pressé(e)
+tu seras pressé(e)
+il (elle) sera pressé(e)
+nous serons pressé(e)s
+vous serez pressé(e)s
+ils (elles) seront pressé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pressé(e)
+tu serais pressé(e)
+il (elle) serait pressé(e)
+nous serions pressé(e)s
+vous seriez pressé(e)s
+ils (elles) seraient pressé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pressé(e)
+que tu sois pressé(e)
+qu’il (elle) soit pressé(e)
+que nous soyons pressé(e)s
+que vous soyez pressé(e)s
+qu’ils (elles) soient pressé(e)s
+
+** Imparfait
+
+que je fusse pressé(e)
+que tu fusses pressé(e)
+qu’il (elle) fût pressé(e)
+que nous fussions pressé(e)s
+que vous fussiez pressé(e)s
+qu’ils (elles) fussent pressé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pressé(e)s
+soyez pressé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pressé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pressé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pressé(e)
+tu as été pressé(e)
+il (elle) a été pressé(e)
+nous avons été pressé(e)s
+vous avez été pressé(e)s
+ils (elles) ont été pressé(e)s
+
+** Plus-que-parfait
+
+j'avais été pressé(e)
+il (elle) avait été pressé(e)
+nous avions été pressé(e)s
+ils (elles) avaient été pressé(e)s
+
+** Passé antérieur
+
+j'eus été pressé(e)
+tu eus été pressé(e)
+il (elle) eut été pressé(e)
+nous eûmes été pressé(e)s
+vous eûtes été pressé(e)s
+ils (elles) eurent été pressé(e)s
+
+** Futur antérieur
+
+j'aurai été pressé(e)
+tu auras été pressé(e)
+il (elle) aura été pressé(e)
+nous aurons été pressé(e)s
+vous aurez été pressé(e)s
+ils (elles) auront été pressé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pressé(e)
+j'aurais été pressé(e)
+il (elle) aurait été pressé(e)
+nous aurions été pressé(e)s
+vous auriez été pressé(e)s
+ils (elles) auraient été pressé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pressé(e)
+que tu aies été pressé(e)
+qu’il (elle) ait été pressé(e)
+que nous ayons été pressé(e)s
+que vous ayez été pressé(e)s
+qu’ils (elles) aient été pressé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pressé(e)
+que tu eusses été pressé(e)
+qu’il (elle) eût été pressé(e)
+que nous eussions été pressé(e)s
+que vous eussiez été pressé(e)s
+qu’ils (elles) eussent été pressé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pressé(e)
+ayons été pressé(e)s
+ayez été pressé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pressé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pressé(e)(s)

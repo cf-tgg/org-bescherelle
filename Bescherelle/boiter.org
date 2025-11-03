@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe boiter
+
+* INDICATIF
+
+** Présent
+
+je boite
+tu boites
+il (elle) boite
+nous boitons
+vous boitez
+ils (elles) boitent
+
+** Imparfait
+
+je boitais
+tu boitais
+il (elle) boitait
+nous boitions
+vous boitiez
+ils (elles) boitaient
+
+** Passé simple
+
+je boitai
+tu boitas
+il (elle) boita
+nous boitâmes
+vous boitâtes
+ils (elles) boitèrent
+
+** Futur simple
+
+je boiterai
+tu boiteras
+il (elle) boitera
+nous boiterons
+vous boiterez
+ils (elles) boiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je boiterais
+tu boiterais
+il (elle) boiterait
+nous boiterions
+vous boiteriez
+ils (elles) boiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boite
+que tu boites
+qu’il (elle) boite
+que nous boitions
+que vous boitiez
+qu’ils (elles) boitent
+
+** Imparfait
+
+que je boitasse
+que tu boitasses
+qu’il (elle) boitât
+que nous boitassions
+que vous boitassiez
+qu’ils (elles) boitassent
+
+* IMPÉRATIF
+
+** Présent
+
+boite
+boitons
+boitez
+
+* INFINITIF
+
+** Présent
+
+boiter
+
+* PARTICIPE
+
+** Présent
+
+boitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai boité
+tu as boité
+il (elle) a boité
+nous avons boité
+vous avez boité
+ils (elles) ont boité
+
+** Plus-que-parfait
+
+j'avais boité
+tu avais boité
+il (elle) avait boité
+nous avions boité
+vous aviez boité
+ils (elles) avaient boité
+
+** Passé antérieur
+
+j'eus boité
+tu eus boité
+il (elle) eut boité
+nous eûmes boité
+vous eûtes boité
+ils (elles) eurent boité
+
+** Futur antérieur
+
+j'aurai boité
+tu auras boité
+il (elle) aura boité
+nous aurons boité
+vous aurez boité
+ils (elles) auront boité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais boité
+tu aurais boité
+il (elle) aurait boité
+nous aurions boité
+vous auriez boité
+ils (elles) auraient boité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie boité
+que tu aies boité
+qu’il (elle) ait boité
+que nous ayons boité
+que vous ayez boité
+qu’ils (elles) aient boité
+
+** Plus-que-parfait
+
+que j'eusse boité
+que tu eusses boité
+qu’il (elle) eût boité
+que nous eussions boité
+que vous eussiez boité
+qu’ils (elles) eussent boité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons boité
+ayez boité
+
+* INFINITIF
+
+** Passé
+
+avoir boité
+
+* PARTICIPE
+
+** Passé
+
+ayant boité
+boité (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entendre
+
+* INDICATIF
+
+** Présent
+
+j'entends
+tu entends
+il (elle) entend
+nous entendons
+vous entendez
+ils (elles) entendent
+
+** Imparfait
+
+j'entendais
+tu entendais
+il (elle) entendait
+nous entendions
+vous entendiez
+ils (elles) entendaient
+
+** Passé simple
+
+j'entendis
+tu entendis
+il (elle) entendit
+nous entendîmes
+vous entendîtes
+ils (elles) entendirent
+
+** Futur simple
+
+j'entendrai
+tu entendras
+il (elle) entendra
+nous entendrons
+vous entendrez
+ils (elles) entendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entendrais
+tu entendrais
+il (elle) entendrait
+nous entendrions
+vous entendriez
+ils (elles) entendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entende
+que tu entendes
+qu’il (elle) entende
+que nous entendions
+que vous entendiez
+qu’ils (elles) entendent
+
+** Imparfait
+
+que j'entendisse
+que tu entendisses
+qu’il (elle) entendît
+que nous entendissions
+que vous entendissiez
+qu’ils (elles) entendissent
+
+* IMPÉRATIF
+
+** Présent
+
+entends
+entendons
+entendez
+
+* INFINITIF
+
+** Présent
+
+entendre
+
+* PARTICIPE
+
+** Présent
+
+entendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entendu
+tu as entendu
+il (elle) a entendu
+nous avons entendu
+vous avez entendu
+ils (elles) ont entendu
+
+** Plus-que-parfait
+
+j'avais entendu
+tu avais entendu
+il (elle) avait entendu
+nous avions entendu
+vous aviez entendu
+ils (elles) avaient entendu
+
+** Passé antérieur
+
+j'eus entendu
+tu eus entendu
+il (elle) eut entendu
+nous eûmes entendu
+vous eûtes entendu
+ils (elles) eurent entendu
+
+** Futur antérieur
+
+j'aurai entendu
+tu auras entendu
+il (elle) aura entendu
+nous aurons entendu
+vous aurez entendu
+ils (elles) auront entendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entendu
+tu aurais entendu
+il (elle) aurait entendu
+nous aurions entendu
+vous auriez entendu
+ils (elles) auraient entendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entendu
+que tu aies entendu
+qu’il (elle) ait entendu
+que nous ayons entendu
+que vous ayez entendu
+qu’ils (elles) aient entendu
+
+** Plus-que-parfait
+
+que j'eusse entendu
+que tu eusses entendu
+qu’il (elle) eût entendu
+que nous eussions entendu
+que vous eussiez entendu
+qu’ils (elles) eussent entendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entendu
+ayez entendu
+
+* INFINITIF
+
+** Passé
+
+avoir entendu
+
+* PARTICIPE
+
+** Passé
+
+ayant entendu
+entendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis entendu(e)
+tu es entendu(e)
+il (elle) est entendu(e)
+nous sommes entendu(e)s
+vous êtes entendu(e)s
+ils (elles) sont entendu(e)s
+
+** Imparfait
+
+j'étais entendu(e)
+tu étais entendu(e)
+il (elle) était entendu(e)
+nous étions entendu(e)s
+vous étiez entendu(e)s
+ils (elles) étaient entendu(e)s
+
+** Passé simple
+
+je fus entendu(e)
+tu fus entendu(e)
+il (elle) fut entendu(e)
+nous fûmes entendu(e)s
+vous fûtes entendu(e)s
+ils (elles) furent entendu(e)s
+
+** Futur simple
+
+je serai entendu(e)
+tu seras entendu(e)
+il (elle) sera entendu(e)
+nous serons entendu(e)s
+vous serez entendu(e)s
+ils (elles) seront entendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entendu(e)
+tu serais entendu(e)
+il (elle) serait entendu(e)
+nous serions entendu(e)s
+vous seriez entendu(e)s
+ils (elles) seraient entendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entendu(e)
+que tu sois entendu(e)
+qu’il (elle) soit entendu(e)
+que nous soyons entendu(e)s
+que vous soyez entendu(e)s
+qu’ils (elles) soient entendu(e)s
+
+** Imparfait
+
+que je fusse entendu(e)
+que tu fusses entendu(e)
+qu’il (elle) fût entendu(e)
+que nous fussions entendu(e)s
+que vous fussiez entendu(e)s
+qu’ils (elles) fussent entendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entendu(e)s
+soyez entendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être entendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entendu(e)
+tu as été entendu(e)
+il (elle) a été entendu(e)
+nous avons été entendu(e)s
+vous avez été entendu(e)s
+ils (elles) ont été entendu(e)s
+
+** Plus-que-parfait
+
+j'avais été entendu(e)
+il (elle) avait été entendu(e)
+nous avions été entendu(e)s
+ils (elles) avaient été entendu(e)s
+
+** Passé antérieur
+
+j'eus été entendu(e)
+tu eus été entendu(e)
+il (elle) eut été entendu(e)
+nous eûmes été entendu(e)s
+vous eûtes été entendu(e)s
+ils (elles) eurent été entendu(e)s
+
+** Futur antérieur
+
+j'aurai été entendu(e)
+tu auras été entendu(e)
+il (elle) aura été entendu(e)
+nous aurons été entendu(e)s
+vous aurez été entendu(e)s
+ils (elles) auront été entendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entendu(e)
+j'aurais été entendu(e)
+il (elle) aurait été entendu(e)
+nous aurions été entendu(e)s
+vous auriez été entendu(e)s
+ils (elles) auraient été entendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entendu(e)
+que tu aies été entendu(e)
+qu’il (elle) ait été entendu(e)
+que nous ayons été entendu(e)s
+que vous ayez été entendu(e)s
+qu’ils (elles) aient été entendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entendu(e)
+que tu eusses été entendu(e)
+qu’il (elle) eût été entendu(e)
+que nous eussions été entendu(e)s
+que vous eussiez été entendu(e)s
+qu’ils (elles) eussent été entendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entendu(e)
+ayons été entendu(e)s
+ayez été entendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entendu(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe tomber
+
+* INDICATIF
+
+** Présent
+
+je tombe
+tu tombes
+il (elle) tombe
+nous tombons
+vous tombez
+ils (elles) tombent
+
+** Imparfait
+
+je tombais
+tu tombais
+il (elle) tombait
+nous tombions
+vous tombiez
+ils (elles) tombaient
+
+** Passé simple
+
+je tombai
+tu tombas
+il (elle) tomba
+nous tombâmes
+vous tombâtes
+ils (elles) tombèrent
+
+** Futur simple
+
+je tomberai
+tu tomberas
+il (elle) tombera
+nous tomberons
+vous tomberez
+ils (elles) tomberont
+
+* CONDITIONNEL
+
+** Présent
+
+je tomberais
+tu tomberais
+il (elle) tomberait
+nous tomberions
+vous tomberiez
+ils (elles) tomberaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tombe
+que tu tombes
+qu’il (elle) tombe
+que nous tombions
+que vous tombiez
+qu’ils (elles) tombent
+
+** Imparfait
+
+que je tombasse
+que tu tombasses
+qu’il (elle) tombât
+que nous tombassions
+que vous tombassiez
+qu’ils (elles) tombassent
+
+* IMPÉRATIF
+
+** Présent
+
+tombe
+tombons
+tombez
+
+* INFINITIF
+
+** Présent
+
+tomber
+
+* PARTICIPE
+
+** Présent
+
+tombant
+
+* INDICATIF
+
+** Passé composé
+
+je suis tombé(e)
+tu es tombé(e)
+il (elle) est tombé(e)
+nous sommes tombé(e)s
+vous êtes tombé(e)s
+ils (elles) sont tombé(e)s
+
+** Plus-que-parfait
+
+j'étais tombé(e)
+tu étais tombé(e)
+il (elle) était tombé(e)
+nous étions tombé(e)s
+vous étiez tombé(e)s
+ils (elles) étaient tombé(e)s
+
+** Passé antérieur
+
+je fus tombé(e)
+tu fus tombé(e)
+il (elle) fut tombé(e)
+nous fûmes tombé(e)s
+vous fûtes tombé(e)s
+ils (elles) furent tombé(e)s
+
+** Futur antérieur
+
+je serai tombé(e)
+tu seras tombé(e)
+il (elle) sera tombé(e)
+nous serons tombé(e)s
+vous serez tombé(e)s
+ils (elles) seront tombé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais tombé(e)
+tu serais tombé(e)
+il (elle) serait tombé(e)
+nous serions tombé(e)s
+vous seriez tombé(e)s
+ils (elles) seraient tombé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois tombé(e)
+que tu sois tombé(e)
+qu’il (elle) soit tombé(e)
+que nous soyons tombé(e)s
+que vous soyez tombé(e)s
+qu’ils (elles) soient tombé(e)s
+
+** Plus-que-parfait
+
+que je fusse tombé(e)
+que tu fusses tombé(e)
+qu’il (elle) fût tombé(e)
+que nous fussions tombé(e)s
+que vous fussiez tombé(e)s
+qu’ils (elles) fussent tombé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons tombé(e)s
+soyez tombé(e)s
+
+* INFINITIF
+
+** Passé
+
+être tombé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant tombé(e)(s)
+tombé (é, ée, és, ées)

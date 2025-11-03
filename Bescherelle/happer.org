@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe happer
+
+* INDICATIF
+
+** Présent
+
+je happe
+tu happes
+il (elle) happe
+nous happons
+vous happez
+ils (elles) happent
+
+** Imparfait
+
+je happais
+tu happais
+il (elle) happait
+nous happions
+vous happiez
+ils (elles) happaient
+
+** Passé simple
+
+je happai
+tu happas
+il (elle) happa
+nous happâmes
+vous happâtes
+ils (elles) happèrent
+
+** Futur simple
+
+je happerai
+tu happeras
+il (elle) happera
+nous happerons
+vous happerez
+ils (elles) happeront
+
+* CONDITIONNEL
+
+** Présent
+
+je happerais
+tu happerais
+il (elle) happerait
+nous happerions
+vous happeriez
+ils (elles) happeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je happe
+que tu happes
+qu’il (elle) happe
+que nous happions
+que vous happiez
+qu’ils (elles) happent
+
+** Imparfait
+
+que je happasse
+que tu happasses
+qu’il (elle) happât
+que nous happassions
+que vous happassiez
+qu’ils (elles) happassent
+
+* IMPÉRATIF
+
+** Présent
+
+happe
+happons
+happez
+
+* INFINITIF
+
+** Présent
+
+happer
+
+* PARTICIPE
+
+** Présent
+
+happant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai happé
+tu as happé
+il (elle) a happé
+nous avons happé
+vous avez happé
+ils (elles) ont happé
+
+** Plus-que-parfait
+
+j'avais happé
+tu avais happé
+il (elle) avait happé
+nous avions happé
+vous aviez happé
+ils (elles) avaient happé
+
+** Passé antérieur
+
+j'eus happé
+tu eus happé
+il (elle) eut happé
+nous eûmes happé
+vous eûtes happé
+ils (elles) eurent happé
+
+** Futur antérieur
+
+j'aurai happé
+tu auras happé
+il (elle) aura happé
+nous aurons happé
+vous aurez happé
+ils (elles) auront happé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais happé
+tu aurais happé
+il (elle) aurait happé
+nous aurions happé
+vous auriez happé
+ils (elles) auraient happé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie happé
+que tu aies happé
+qu’il (elle) ait happé
+que nous ayons happé
+que vous ayez happé
+qu’ils (elles) aient happé
+
+** Plus-que-parfait
+
+que j'eusse happé
+que tu eusses happé
+qu’il (elle) eût happé
+que nous eussions happé
+que vous eussiez happé
+qu’ils (elles) eussent happé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons happé
+ayez happé
+
+* INFINITIF
+
+** Passé
+
+avoir happé
+
+* PARTICIPE
+
+** Passé
+
+ayant happé
+happé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis happé(e)
+tu es happé(e)
+il (elle) est happé(e)
+nous sommes happé(e)s
+vous êtes happé(e)s
+ils (elles) sont happé(e)s
+
+** Imparfait
+
+j'étais happé(e)
+tu étais happé(e)
+il (elle) était happé(e)
+nous étions happé(e)s
+vous étiez happé(e)s
+ils (elles) étaient happé(e)s
+
+** Passé simple
+
+je fus happé(e)
+tu fus happé(e)
+il (elle) fut happé(e)
+nous fûmes happé(e)s
+vous fûtes happé(e)s
+ils (elles) furent happé(e)s
+
+** Futur simple
+
+je serai happé(e)
+tu seras happé(e)
+il (elle) sera happé(e)
+nous serons happé(e)s
+vous serez happé(e)s
+ils (elles) seront happé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais happé(e)
+tu serais happé(e)
+il (elle) serait happé(e)
+nous serions happé(e)s
+vous seriez happé(e)s
+ils (elles) seraient happé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois happé(e)
+que tu sois happé(e)
+qu’il (elle) soit happé(e)
+que nous soyons happé(e)s
+que vous soyez happé(e)s
+qu’ils (elles) soient happé(e)s
+
+** Imparfait
+
+que je fusse happé(e)
+que tu fusses happé(e)
+qu’il (elle) fût happé(e)
+que nous fussions happé(e)s
+que vous fussiez happé(e)s
+qu’ils (elles) fussent happé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons happé(e)s
+soyez happé(e)s
+
+* INFINITIF
+
+** Présent
+
+être happé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant happé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été happé(e)
+tu as été happé(e)
+il (elle) a été happé(e)
+nous avons été happé(e)s
+vous avez été happé(e)s
+ils (elles) ont été happé(e)s
+
+** Plus-que-parfait
+
+j'avais été happé(e)
+il (elle) avait été happé(e)
+nous avions été happé(e)s
+ils (elles) avaient été happé(e)s
+
+** Passé antérieur
+
+j'eus été happé(e)
+tu eus été happé(e)
+il (elle) eut été happé(e)
+nous eûmes été happé(e)s
+vous eûtes été happé(e)s
+ils (elles) eurent été happé(e)s
+
+** Futur antérieur
+
+j'aurai été happé(e)
+tu auras été happé(e)
+il (elle) aura été happé(e)
+nous aurons été happé(e)s
+vous aurez été happé(e)s
+ils (elles) auront été happé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été happé(e)
+j'aurais été happé(e)
+il (elle) aurait été happé(e)
+nous aurions été happé(e)s
+vous auriez été happé(e)s
+ils (elles) auraient été happé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été happé(e)
+que tu aies été happé(e)
+qu’il (elle) ait été happé(e)
+que nous ayons été happé(e)s
+que vous ayez été happé(e)s
+qu’ils (elles) aient été happé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été happé(e)
+que tu eusses été happé(e)
+qu’il (elle) eût été happé(e)
+que nous eussions été happé(e)s
+que vous eussiez été happé(e)s
+qu’ils (elles) eussent été happé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été happé(e)
+ayons été happé(e)s
+ayez été happé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été happé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été happé(e)(s)

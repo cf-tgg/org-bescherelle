@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saler
+
+* INDICATIF
+
+** Présent
+
+je sale
+tu sales
+il (elle) sale
+nous salons
+vous salez
+ils (elles) salent
+
+** Imparfait
+
+je salais
+tu salais
+il (elle) salait
+nous salions
+vous saliez
+ils (elles) salaient
+
+** Passé simple
+
+je salai
+tu salas
+il (elle) sala
+nous salâmes
+vous salâtes
+ils (elles) salèrent
+
+** Futur simple
+
+je salerai
+tu saleras
+il (elle) salera
+nous salerons
+vous salerez
+ils (elles) saleront
+
+* CONDITIONNEL
+
+** Présent
+
+je salerais
+tu salerais
+il (elle) salerait
+nous salerions
+vous saleriez
+ils (elles) saleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sale
+que tu sales
+qu’il (elle) sale
+que nous salions
+que vous saliez
+qu’ils (elles) salent
+
+** Imparfait
+
+que je salasse
+que tu salasses
+qu’il (elle) salât
+que nous salassions
+que vous salassiez
+qu’ils (elles) salassent
+
+* IMPÉRATIF
+
+** Présent
+
+sale
+salons
+salez
+
+* INFINITIF
+
+** Présent
+
+saler
+
+* PARTICIPE
+
+** Présent
+
+salant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai salé
+tu as salé
+il (elle) a salé
+nous avons salé
+vous avez salé
+ils (elles) ont salé
+
+** Plus-que-parfait
+
+j'avais salé
+tu avais salé
+il (elle) avait salé
+nous avions salé
+vous aviez salé
+ils (elles) avaient salé
+
+** Passé antérieur
+
+j'eus salé
+tu eus salé
+il (elle) eut salé
+nous eûmes salé
+vous eûtes salé
+ils (elles) eurent salé
+
+** Futur antérieur
+
+j'aurai salé
+tu auras salé
+il (elle) aura salé
+nous aurons salé
+vous aurez salé
+ils (elles) auront salé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais salé
+tu aurais salé
+il (elle) aurait salé
+nous aurions salé
+vous auriez salé
+ils (elles) auraient salé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie salé
+que tu aies salé
+qu’il (elle) ait salé
+que nous ayons salé
+que vous ayez salé
+qu’ils (elles) aient salé
+
+** Plus-que-parfait
+
+que j'eusse salé
+que tu eusses salé
+qu’il (elle) eût salé
+que nous eussions salé
+que vous eussiez salé
+qu’ils (elles) eussent salé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons salé
+ayez salé
+
+* INFINITIF
+
+** Passé
+
+avoir salé
+
+* PARTICIPE
+
+** Passé
+
+ayant salé
+salé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis salé(e)
+tu es salé(e)
+il (elle) est salé(e)
+nous sommes salé(e)s
+vous êtes salé(e)s
+ils (elles) sont salé(e)s
+
+** Imparfait
+
+j'étais salé(e)
+tu étais salé(e)
+il (elle) était salé(e)
+nous étions salé(e)s
+vous étiez salé(e)s
+ils (elles) étaient salé(e)s
+
+** Passé simple
+
+je fus salé(e)
+tu fus salé(e)
+il (elle) fut salé(e)
+nous fûmes salé(e)s
+vous fûtes salé(e)s
+ils (elles) furent salé(e)s
+
+** Futur simple
+
+je serai salé(e)
+tu seras salé(e)
+il (elle) sera salé(e)
+nous serons salé(e)s
+vous serez salé(e)s
+ils (elles) seront salé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais salé(e)
+tu serais salé(e)
+il (elle) serait salé(e)
+nous serions salé(e)s
+vous seriez salé(e)s
+ils (elles) seraient salé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois salé(e)
+que tu sois salé(e)
+qu’il (elle) soit salé(e)
+que nous soyons salé(e)s
+que vous soyez salé(e)s
+qu’ils (elles) soient salé(e)s
+
+** Imparfait
+
+que je fusse salé(e)
+que tu fusses salé(e)
+qu’il (elle) fût salé(e)
+que nous fussions salé(e)s
+que vous fussiez salé(e)s
+qu’ils (elles) fussent salé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons salé(e)s
+soyez salé(e)s
+
+* INFINITIF
+
+** Présent
+
+être salé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant salé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été salé(e)
+tu as été salé(e)
+il (elle) a été salé(e)
+nous avons été salé(e)s
+vous avez été salé(e)s
+ils (elles) ont été salé(e)s
+
+** Plus-que-parfait
+
+j'avais été salé(e)
+il (elle) avait été salé(e)
+nous avions été salé(e)s
+ils (elles) avaient été salé(e)s
+
+** Passé antérieur
+
+j'eus été salé(e)
+tu eus été salé(e)
+il (elle) eut été salé(e)
+nous eûmes été salé(e)s
+vous eûtes été salé(e)s
+ils (elles) eurent été salé(e)s
+
+** Futur antérieur
+
+j'aurai été salé(e)
+tu auras été salé(e)
+il (elle) aura été salé(e)
+nous aurons été salé(e)s
+vous aurez été salé(e)s
+ils (elles) auront été salé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été salé(e)
+j'aurais été salé(e)
+il (elle) aurait été salé(e)
+nous aurions été salé(e)s
+vous auriez été salé(e)s
+ils (elles) auraient été salé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été salé(e)
+que tu aies été salé(e)
+qu’il (elle) ait été salé(e)
+que nous ayons été salé(e)s
+que vous ayez été salé(e)s
+qu’ils (elles) aient été salé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été salé(e)
+que tu eusses été salé(e)
+qu’il (elle) eût été salé(e)
+que nous eussions été salé(e)s
+que vous eussiez été salé(e)s
+qu’ils (elles) eussent été salé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été salé(e)
+ayons été salé(e)s
+ayez été salé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été salé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été salé(e)(s)

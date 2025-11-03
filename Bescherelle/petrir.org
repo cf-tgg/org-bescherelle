@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe petrir
+
+* INDICATIF
+
+** Présent
+
+je pétris
+tu pétris
+il (elle) pétrit
+nous pétrissons
+vous pétrissez
+ils (elles) pétrissent
+
+** Imparfait
+
+je pétrissais
+tu pétrissais
+il (elle) pétrissait
+nous pétrissions
+vous pétrissiez
+ils (elles) pétrissaient
+
+** Passé simple
+
+je pétris
+tu pétris
+il (elle) pétrit
+nous pétrîmes
+vous pétrîtes
+ils (elles) pétrirent
+
+** Futur simple
+
+je pétrirai
+tu pétriras
+il (elle) pétrira
+nous pétrirons
+vous pétrirez
+ils (elles) pétriront
+
+* CONDITIONNEL
+
+** Présent
+
+je pétrirais
+tu pétrirais
+il (elle) pétrirait
+nous pétririons
+vous pétririez
+ils (elles) pétriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pétrisse
+que tu pétrisses
+qu’il (elle) pétrisse
+que nous pétrissions
+que vous pétrissiez
+qu’ils (elles) pétrissent
+
+** Imparfait
+
+que je pétrisse
+que tu pétrisses
+qu’il (elle) pétrît
+que nous pétrissions
+que vous pétrissiez
+qu’ils (elles) pétrissent
+
+* IMPÉRATIF
+
+** Présent
+
+pétris
+pétrissons
+pétrissez
+
+* INFINITIF
+
+** Présent
+
+pétrir
+
+* PARTICIPE
+
+** Présent
+
+pétrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pétri
+tu as pétri
+il (elle) a pétri
+nous avons pétri
+vous avez pétri
+ils (elles) ont pétri
+
+** Plus-que-parfait
+
+j'avais pétri
+tu avais pétri
+il (elle) avait pétri
+nous avions pétri
+vous aviez pétri
+ils (elles) avaient pétri
+
+** Passé antérieur
+
+j'eus pétri
+tu eus pétri
+il (elle) eut pétri
+nous eûmes pétri
+vous eûtes pétri
+ils (elles) eurent pétri
+
+** Futur antérieur
+
+j'aurai pétri
+tu auras pétri
+il (elle) aura pétri
+nous aurons pétri
+vous aurez pétri
+ils (elles) auront pétri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pétri
+tu aurais pétri
+il (elle) aurait pétri
+nous aurions pétri
+vous auriez pétri
+ils (elles) auraient pétri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pétri
+que tu aies pétri
+qu’il (elle) ait pétri
+que nous ayons pétri
+que vous ayez pétri
+qu’ils (elles) aient pétri
+
+** Plus-que-parfait
+
+que j'eusse pétri
+que tu eusses pétri
+qu’il (elle) eût pétri
+que nous eussions pétri
+que vous eussiez pétri
+qu’ils (elles) eussent pétri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pétri
+ayez pétri
+
+* INFINITIF
+
+** Passé
+
+avoir pétri
+
+* PARTICIPE
+
+** Passé
+
+ayant pétri
+pétri (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis pétri(e)
+tu es pétri(e)
+il (elle) est pétri(e)
+nous sommes pétri(e)s
+vous êtes pétri(e)s
+ils (elles) sont pétri(e)s
+
+** Imparfait
+
+j'étais pétri(e)
+tu étais pétri(e)
+il (elle) était pétri(e)
+nous étions pétri(e)s
+vous étiez pétri(e)s
+ils (elles) étaient pétri(e)s
+
+** Passé simple
+
+je fus pétri(e)
+tu fus pétri(e)
+il (elle) fut pétri(e)
+nous fûmes pétri(e)s
+vous fûtes pétri(e)s
+ils (elles) furent pétri(e)s
+
+** Futur simple
+
+je serai pétri(e)
+tu seras pétri(e)
+il (elle) sera pétri(e)
+nous serons pétri(e)s
+vous serez pétri(e)s
+ils (elles) seront pétri(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pétri(e)
+tu serais pétri(e)
+il (elle) serait pétri(e)
+nous serions pétri(e)s
+vous seriez pétri(e)s
+ils (elles) seraient pétri(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pétri(e)
+que tu sois pétri(e)
+qu’il (elle) soit pétri(e)
+que nous soyons pétri(e)s
+que vous soyez pétri(e)s
+qu’ils (elles) soient pétri(e)s
+
+** Imparfait
+
+que je fusse pétri(e)
+que tu fusses pétri(e)
+qu’il (elle) fût pétri(e)
+que nous fussions pétri(e)s
+que vous fussiez pétri(e)s
+qu’ils (elles) fussent pétri(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pétri(e)s
+soyez pétri(e)s
+
+* INFINITIF
+
+** Présent
+
+être pétri(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pétri(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pétri(e)
+tu as été pétri(e)
+il (elle) a été pétri(e)
+nous avons été pétri(e)s
+vous avez été pétri(e)s
+ils (elles) ont été pétri(e)s
+
+** Plus-que-parfait
+
+j'avais été pétri(e)
+il (elle) avait été pétri(e)
+nous avions été pétri(e)s
+ils (elles) avaient été pétri(e)s
+
+** Passé antérieur
+
+j'eus été pétri(e)
+tu eus été pétri(e)
+il (elle) eut été pétri(e)
+nous eûmes été pétri(e)s
+vous eûtes été pétri(e)s
+ils (elles) eurent été pétri(e)s
+
+** Futur antérieur
+
+j'aurai été pétri(e)
+tu auras été pétri(e)
+il (elle) aura été pétri(e)
+nous aurons été pétri(e)s
+vous aurez été pétri(e)s
+ils (elles) auront été pétri(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pétri(e)
+j'aurais été pétri(e)
+il (elle) aurait été pétri(e)
+nous aurions été pétri(e)s
+vous auriez été pétri(e)s
+ils (elles) auraient été pétri(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pétri(e)
+que tu aies été pétri(e)
+qu’il (elle) ait été pétri(e)
+que nous ayons été pétri(e)s
+que vous ayez été pétri(e)s
+qu’ils (elles) aient été pétri(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pétri(e)
+que tu eusses été pétri(e)
+qu’il (elle) eût été pétri(e)
+que nous eussions été pétri(e)s
+que vous eussiez été pétri(e)s
+qu’ils (elles) eussent été pétri(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pétri(e)
+ayons été pétri(e)s
+ayez été pétri(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pétri(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pétri(e)(s)

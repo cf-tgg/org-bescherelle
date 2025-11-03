@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe frayer
+
+* INDICATIF
+
+** Présent
+
+je fraie / fraye
+tu fraies / frayes
+il (elle) fraie / fraye
+nous frayons
+vous frayez
+ils (elles) fraient / frayent
+
+** Imparfait
+
+je frayais
+tu frayais
+il (elle) frayait
+nous frayions
+vous frayiez
+ils (elles) frayaient
+
+** Passé simple
+
+je frayai
+tu frayas
+il (elle) fraya
+nous frayâmes
+vous frayâtes
+ils (elles) frayèrent
+
+** Futur simple
+
+je fraierai / frayerai
+tu fraieras / frayeras
+il (elle) fraiera / frayera
+nous fraierons / frayerons
+vous fraierez / frayerez
+ils (elles) fraieront / frayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je fraierais / frayerais
+tu fraierais / frayerais
+il (elle) fraierait / frayerait
+nous fraierions / frayerions
+vous fraieriez / frayeriez
+ils (elles) fraieraient / frayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fraie / fraye
+que tu fraies / frayes
+qu’il (elle) fraie / fraye
+que nous frayions
+que vous frayiez
+qu’ils (elles) fraient / frayent
+
+** Imparfait
+
+que je frayasse
+que tu frayasses
+qu’il (elle) frayât
+que nous frayassions
+que vous frayassiez
+qu’ils (elles) frayassent
+
+* IMPÉRATIF
+
+** Présent
+
+fraie / fraye
+frayons
+frayez
+
+* INFINITIF
+
+** Présent
+
+frayer
+
+* PARTICIPE
+
+** Présent
+
+frayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai frayé
+tu as frayé
+il (elle) a frayé
+nous avons frayé
+vous avez frayé
+ils (elles) ont frayé
+
+** Plus-que-parfait
+
+j'avais frayé
+tu avais frayé
+il (elle) avait frayé
+nous avions frayé
+vous aviez frayé
+ils (elles) avaient frayé
+
+** Passé antérieur
+
+j'eus frayé
+tu eus frayé
+il (elle) eut frayé
+nous eûmes frayé
+vous eûtes frayé
+ils (elles) eurent frayé
+
+** Futur antérieur
+
+j'aurai frayé
+tu auras frayé
+il (elle) aura frayé
+nous aurons frayé
+vous aurez frayé
+ils (elles) auront frayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais frayé
+tu aurais frayé
+il (elle) aurait frayé
+nous aurions frayé
+vous auriez frayé
+ils (elles) auraient frayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie frayé
+que tu aies frayé
+qu’il (elle) ait frayé
+que nous ayons frayé
+que vous ayez frayé
+qu’ils (elles) aient frayé
+
+** Plus-que-parfait
+
+que j'eusse frayé
+que tu eusses frayé
+qu’il (elle) eût frayé
+que nous eussions frayé
+que vous eussiez frayé
+qu’ils (elles) eussent frayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons frayé
+ayez frayé
+
+* INFINITIF
+
+** Passé
+
+avoir frayé
+
+* PARTICIPE
+
+** Passé
+
+ayant frayé
+frayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis frayé(e)
+tu es frayé(e)
+il (elle) est frayé(e)
+nous sommes frayé(e)s
+vous êtes frayé(e)s
+ils (elles) sont frayé(e)s
+
+** Imparfait
+
+j'étais frayé(e)
+tu étais frayé(e)
+il (elle) était frayé(e)
+nous étions frayé(e)s
+vous étiez frayé(e)s
+ils (elles) étaient frayé(e)s
+
+** Passé simple
+
+je fus frayé(e)
+tu fus frayé(e)
+il (elle) fut frayé(e)
+nous fûmes frayé(e)s
+vous fûtes frayé(e)s
+ils (elles) furent frayé(e)s
+
+** Futur simple
+
+je serai frayé(e)
+tu seras frayé(e)
+il (elle) sera frayé(e)
+nous serons frayé(e)s
+vous serez frayé(e)s
+ils (elles) seront frayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais frayé(e)
+tu serais frayé(e)
+il (elle) serait frayé(e)
+nous serions frayé(e)s
+vous seriez frayé(e)s
+ils (elles) seraient frayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois frayé(e)
+que tu sois frayé(e)
+qu’il (elle) soit frayé(e)
+que nous soyons frayé(e)s
+que vous soyez frayé(e)s
+qu’ils (elles) soient frayé(e)s
+
+** Imparfait
+
+que je fusse frayé(e)
+que tu fusses frayé(e)
+qu’il (elle) fût frayé(e)
+que nous fussions frayé(e)s
+que vous fussiez frayé(e)s
+qu’ils (elles) fussent frayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons frayé(e)s
+soyez frayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être frayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant frayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été frayé(e)
+tu as été frayé(e)
+il (elle) a été frayé(e)
+nous avons été frayé(e)s
+vous avez été frayé(e)s
+ils (elles) ont été frayé(e)s
+
+** Plus-que-parfait
+
+j'avais été frayé(e)
+il (elle) avait été frayé(e)
+nous avions été frayé(e)s
+ils (elles) avaient été frayé(e)s
+
+** Passé antérieur
+
+j'eus été frayé(e)
+tu eus été frayé(e)
+il (elle) eut été frayé(e)
+nous eûmes été frayé(e)s
+vous eûtes été frayé(e)s
+ils (elles) eurent été frayé(e)s
+
+** Futur antérieur
+
+j'aurai été frayé(e)
+tu auras été frayé(e)
+il (elle) aura été frayé(e)
+nous aurons été frayé(e)s
+vous aurez été frayé(e)s
+ils (elles) auront été frayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été frayé(e)
+j'aurais été frayé(e)
+il (elle) aurait été frayé(e)
+nous aurions été frayé(e)s
+vous auriez été frayé(e)s
+ils (elles) auraient été frayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été frayé(e)
+que tu aies été frayé(e)
+qu’il (elle) ait été frayé(e)
+que nous ayons été frayé(e)s
+que vous ayez été frayé(e)s
+qu’ils (elles) aient été frayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été frayé(e)
+que tu eusses été frayé(e)
+qu’il (elle) eût été frayé(e)
+que nous eussions été frayé(e)s
+que vous eussiez été frayé(e)s
+qu’ils (elles) eussent été frayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été frayé(e)
+ayons été frayé(e)s
+ayez été frayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été frayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été frayé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vetir
+
+* INDICATIF
+
+** Présent
+
+je vêts
+tu vêts
+il (elle) vêt
+nous vêtons
+vous vêtez
+ils (elles) vêtent
+
+** Imparfait
+
+je vêtais
+tu vêtais
+il (elle) vêtait
+nous vêtions
+vous vêtiez
+ils (elles) vêtaient
+
+** Passé simple
+
+je vêtis
+tu vêtis
+il (elle) vêtit
+nous vêtîmes
+vous vêtîtes
+ils (elles) vêtirent
+
+** Futur simple
+
+je vêtirai
+tu vêtiras
+il (elle) vêtira
+nous vêtirons
+vous vêtirez
+ils (elles) vêtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je vêtirais
+tu vêtirais
+il (elle) vêtirait
+nous vêtirions
+vous vêtiriez
+ils (elles) vêtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vête
+que tu vêtes
+qu’il (elle) vête
+que nous vêtions
+que vous vêtiez
+qu’ils (elles) vêtent
+
+** Imparfait
+
+que je vêtisse
+que tu vêtisses
+qu’il (elle) vêtît
+que nous vêtissions
+que vous vêtissiez
+qu’ils (elles) vêtissent
+
+* IMPÉRATIF
+
+** Présent
+
+vêts
+vêtons
+vêtez
+
+* INFINITIF
+
+** Présent
+
+vêtir
+
+* PARTICIPE
+
+** Présent
+
+vêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vêtu
+tu as vêtu
+il (elle) a vêtu
+nous avons vêtu
+vous avez vêtu
+ils (elles) ont vêtu
+
+** Plus-que-parfait
+
+j'avais vêtu
+tu avais vêtu
+il (elle) avait vêtu
+nous avions vêtu
+vous aviez vêtu
+ils (elles) avaient vêtu
+
+** Passé antérieur
+
+j'eus vêtu
+tu eus vêtu
+il (elle) eut vêtu
+nous eûmes vêtu
+vous eûtes vêtu
+ils (elles) eurent vêtu
+
+** Futur antérieur
+
+j'aurai vêtu
+tu auras vêtu
+il (elle) aura vêtu
+nous aurons vêtu
+vous aurez vêtu
+ils (elles) auront vêtu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vêtu
+tu aurais vêtu
+il (elle) aurait vêtu
+nous aurions vêtu
+vous auriez vêtu
+ils (elles) auraient vêtu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vêtu
+que tu aies vêtu
+qu’il (elle) ait vêtu
+que nous ayons vêtu
+que vous ayez vêtu
+qu’ils (elles) aient vêtu
+
+** Plus-que-parfait
+
+que j'eusse vêtu
+que tu eusses vêtu
+qu’il (elle) eût vêtu
+que nous eussions vêtu
+que vous eussiez vêtu
+qu’ils (elles) eussent vêtu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vêtu
+ayez vêtu
+
+* INFINITIF
+
+** Passé
+
+avoir vêtu
+
+* PARTICIPE
+
+** Passé
+
+ayant vêtu
+vêtu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis vêtu(e)
+tu es vêtu(e)
+il (elle) est vêtu(e)
+nous sommes vêtu(e)s
+vous êtes vêtu(e)s
+ils (elles) sont vêtu(e)s
+
+** Imparfait
+
+j'étais vêtu(e)
+tu étais vêtu(e)
+il (elle) était vêtu(e)
+nous étions vêtu(e)s
+vous étiez vêtu(e)s
+ils (elles) étaient vêtu(e)s
+
+** Passé simple
+
+je fus vêtu(e)
+tu fus vêtu(e)
+il (elle) fut vêtu(e)
+nous fûmes vêtu(e)s
+vous fûtes vêtu(e)s
+ils (elles) furent vêtu(e)s
+
+** Futur simple
+
+je serai vêtu(e)
+tu seras vêtu(e)
+il (elle) sera vêtu(e)
+nous serons vêtu(e)s
+vous serez vêtu(e)s
+ils (elles) seront vêtu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vêtu(e)
+tu serais vêtu(e)
+il (elle) serait vêtu(e)
+nous serions vêtu(e)s
+vous seriez vêtu(e)s
+ils (elles) seraient vêtu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vêtu(e)
+que tu sois vêtu(e)
+qu’il (elle) soit vêtu(e)
+que nous soyons vêtu(e)s
+que vous soyez vêtu(e)s
+qu’ils (elles) soient vêtu(e)s
+
+** Imparfait
+
+que je fusse vêtu(e)
+que tu fusses vêtu(e)
+qu’il (elle) fût vêtu(e)
+que nous fussions vêtu(e)s
+que vous fussiez vêtu(e)s
+qu’ils (elles) fussent vêtu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vêtu(e)s
+soyez vêtu(e)s
+
+* INFINITIF
+
+** Présent
+
+être vêtu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vêtu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vêtu(e)
+tu as été vêtu(e)
+il (elle) a été vêtu(e)
+nous avons été vêtu(e)s
+vous avez été vêtu(e)s
+ils (elles) ont été vêtu(e)s
+
+** Plus-que-parfait
+
+j'avais été vêtu(e)
+il (elle) avait été vêtu(e)
+nous avions été vêtu(e)s
+ils (elles) avaient été vêtu(e)s
+
+** Passé antérieur
+
+j'eus été vêtu(e)
+tu eus été vêtu(e)
+il (elle) eut été vêtu(e)
+nous eûmes été vêtu(e)s
+vous eûtes été vêtu(e)s
+ils (elles) eurent été vêtu(e)s
+
+** Futur antérieur
+
+j'aurai été vêtu(e)
+tu auras été vêtu(e)
+il (elle) aura été vêtu(e)
+nous aurons été vêtu(e)s
+vous aurez été vêtu(e)s
+ils (elles) auront été vêtu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vêtu(e)
+j'aurais été vêtu(e)
+il (elle) aurait été vêtu(e)
+nous aurions été vêtu(e)s
+vous auriez été vêtu(e)s
+ils (elles) auraient été vêtu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vêtu(e)
+que tu aies été vêtu(e)
+qu’il (elle) ait été vêtu(e)
+que nous ayons été vêtu(e)s
+que vous ayez été vêtu(e)s
+qu’ils (elles) aient été vêtu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vêtu(e)
+que tu eusses été vêtu(e)
+qu’il (elle) eût été vêtu(e)
+que nous eussions été vêtu(e)s
+que vous eussiez été vêtu(e)s
+qu’ils (elles) eussent été vêtu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vêtu(e)
+ayons été vêtu(e)s
+ayez été vêtu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vêtu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vêtu(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe croitre
+
+* INDICATIF
+
+** Présent
+
+je croîs
+tu croîs
+il (elle) croît
+nous croissons
+vous croissez
+ils (elles) croissent
+
+** Imparfait
+
+je croissais
+tu croissais
+il (elle) croissait
+nous croissions
+vous croissiez
+ils (elles) croissaient
+
+** Passé simple
+
+je crûs
+tu crûs
+il (elle) crût
+nous crûmes
+vous crûtes
+ils (elles) crûrent
+
+** Futur simple
+
+je croîtrai
+tu croîtras
+il (elle) croîtra
+nous croîtrons
+vous croîtrez
+ils (elles) croîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je croîtrais
+tu croîtrais
+il (elle) croîtrait
+nous croîtrions
+vous croîtriez
+ils (elles) croîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je croisse
+que tu croisses
+qu’il (elle) croisse
+que nous croissions
+que vous croissiez
+qu’ils (elles) croissent
+
+** Imparfait
+
+que je crûsse
+que tu crûsses
+qu’il (elle) crût
+que nous crûssions
+que vous crûssiez
+qu’ils (elles) crûssent
+
+* IMPÉRATIF
+
+** Présent
+
+croîs
+croissons
+croissez
+
+* INFINITIF
+
+** Présent
+
+croître
+
+* PARTICIPE
+
+** Présent
+
+croissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai crû
+tu as crû
+il (elle) a crû
+nous avons crû
+vous avez crû
+ils (elles) ont crû
+
+** Plus-que-parfait
+
+j'avais crû
+tu avais crû
+il (elle) avait crû
+nous avions crû
+vous aviez crû
+ils (elles) avaient crû
+
+** Passé antérieur
+
+j'eus crû
+tu eus crû
+il (elle) eut crû
+nous eûmes crû
+vous eûtes crû
+ils (elles) eurent crû
+
+** Futur antérieur
+
+j'aurai crû
+tu auras crû
+il (elle) aura crû
+nous aurons crû
+vous aurez crû
+ils (elles) auront crû
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais crû
+tu aurais crû
+il (elle) aurait crû
+nous aurions crû
+vous auriez crû
+ils (elles) auraient crû
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie crû
+que tu aies crû
+qu’il (elle) ait crû
+que nous ayons crû
+que vous ayez crû
+qu’ils (elles) aient crû
+
+** Plus-que-parfait
+
+que j'eusse crû
+que tu eusses crû
+qu’il (elle) eût crû
+que nous eussions crû
+que vous eussiez crû
+qu’ils (elles) eussent crû
+
+* IMPÉRATIF
+
+** Passé
+
+ayons crû
+ayez crû
+
+* INFINITIF
+
+** Passé
+
+avoir crû
+
+* PARTICIPE
+
+** Passé
+
+ayant crû
+crû (invar.)

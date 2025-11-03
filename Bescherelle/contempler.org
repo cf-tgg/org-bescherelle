@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe contempler
+
+* INDICATIF
+
+** Présent
+
+je contemple
+tu contemples
+il (elle) contemple
+nous contemplons
+vous contemplez
+ils (elles) contemplent
+
+** Imparfait
+
+je contemplais
+tu contemplais
+il (elle) contemplait
+nous contemplions
+vous contempliez
+ils (elles) contemplaient
+
+** Passé simple
+
+je contemplai
+tu contemplas
+il (elle) contempla
+nous contemplâmes
+vous contemplâtes
+ils (elles) contemplèrent
+
+** Futur simple
+
+je contemplerai
+tu contempleras
+il (elle) contemplera
+nous contemplerons
+vous contemplerez
+ils (elles) contempleront
+
+* CONDITIONNEL
+
+** Présent
+
+je contemplerais
+tu contemplerais
+il (elle) contemplerait
+nous contemplerions
+vous contempleriez
+ils (elles) contempleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contemple
+que tu contemples
+qu’il (elle) contemple
+que nous contemplions
+que vous contempliez
+qu’ils (elles) contemplent
+
+** Imparfait
+
+que je contemplasse
+que tu contemplasses
+qu’il (elle) contemplât
+que nous contemplassions
+que vous contemplassiez
+qu’ils (elles) contemplassent
+
+* IMPÉRATIF
+
+** Présent
+
+contemple
+contemplons
+contemplez
+
+* INFINITIF
+
+** Présent
+
+contempler
+
+* PARTICIPE
+
+** Présent
+
+contemplant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contemplé
+tu as contemplé
+il (elle) a contemplé
+nous avons contemplé
+vous avez contemplé
+ils (elles) ont contemplé
+
+** Plus-que-parfait
+
+j'avais contemplé
+tu avais contemplé
+il (elle) avait contemplé
+nous avions contemplé
+vous aviez contemplé
+ils (elles) avaient contemplé
+
+** Passé antérieur
+
+j'eus contemplé
+tu eus contemplé
+il (elle) eut contemplé
+nous eûmes contemplé
+vous eûtes contemplé
+ils (elles) eurent contemplé
+
+** Futur antérieur
+
+j'aurai contemplé
+tu auras contemplé
+il (elle) aura contemplé
+nous aurons contemplé
+vous aurez contemplé
+ils (elles) auront contemplé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contemplé
+tu aurais contemplé
+il (elle) aurait contemplé
+nous aurions contemplé
+vous auriez contemplé
+ils (elles) auraient contemplé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contemplé
+que tu aies contemplé
+qu’il (elle) ait contemplé
+que nous ayons contemplé
+que vous ayez contemplé
+qu’ils (elles) aient contemplé
+
+** Plus-que-parfait
+
+que j'eusse contemplé
+que tu eusses contemplé
+qu’il (elle) eût contemplé
+que nous eussions contemplé
+que vous eussiez contemplé
+qu’ils (elles) eussent contemplé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contemplé
+ayez contemplé
+
+* INFINITIF
+
+** Passé
+
+avoir contemplé
+
+* PARTICIPE
+
+** Passé
+
+ayant contemplé
+contemplé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis contemplé(e)
+tu es contemplé(e)
+il (elle) est contemplé(e)
+nous sommes contemplé(e)s
+vous êtes contemplé(e)s
+ils (elles) sont contemplé(e)s
+
+** Imparfait
+
+j'étais contemplé(e)
+tu étais contemplé(e)
+il (elle) était contemplé(e)
+nous étions contemplé(e)s
+vous étiez contemplé(e)s
+ils (elles) étaient contemplé(e)s
+
+** Passé simple
+
+je fus contemplé(e)
+tu fus contemplé(e)
+il (elle) fut contemplé(e)
+nous fûmes contemplé(e)s
+vous fûtes contemplé(e)s
+ils (elles) furent contemplé(e)s
+
+** Futur simple
+
+je serai contemplé(e)
+tu seras contemplé(e)
+il (elle) sera contemplé(e)
+nous serons contemplé(e)s
+vous serez contemplé(e)s
+ils (elles) seront contemplé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais contemplé(e)
+tu serais contemplé(e)
+il (elle) serait contemplé(e)
+nous serions contemplé(e)s
+vous seriez contemplé(e)s
+ils (elles) seraient contemplé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois contemplé(e)
+que tu sois contemplé(e)
+qu’il (elle) soit contemplé(e)
+que nous soyons contemplé(e)s
+que vous soyez contemplé(e)s
+qu’ils (elles) soient contemplé(e)s
+
+** Imparfait
+
+que je fusse contemplé(e)
+que tu fusses contemplé(e)
+qu’il (elle) fût contemplé(e)
+que nous fussions contemplé(e)s
+que vous fussiez contemplé(e)s
+qu’ils (elles) fussent contemplé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons contemplé(e)s
+soyez contemplé(e)s
+
+* INFINITIF
+
+** Présent
+
+être contemplé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant contemplé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été contemplé(e)
+tu as été contemplé(e)
+il (elle) a été contemplé(e)
+nous avons été contemplé(e)s
+vous avez été contemplé(e)s
+ils (elles) ont été contemplé(e)s
+
+** Plus-que-parfait
+
+j'avais été contemplé(e)
+il (elle) avait été contemplé(e)
+nous avions été contemplé(e)s
+ils (elles) avaient été contemplé(e)s
+
+** Passé antérieur
+
+j'eus été contemplé(e)
+tu eus été contemplé(e)
+il (elle) eut été contemplé(e)
+nous eûmes été contemplé(e)s
+vous eûtes été contemplé(e)s
+ils (elles) eurent été contemplé(e)s
+
+** Futur antérieur
+
+j'aurai été contemplé(e)
+tu auras été contemplé(e)
+il (elle) aura été contemplé(e)
+nous aurons été contemplé(e)s
+vous aurez été contemplé(e)s
+ils (elles) auront été contemplé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été contemplé(e)
+j'aurais été contemplé(e)
+il (elle) aurait été contemplé(e)
+nous aurions été contemplé(e)s
+vous auriez été contemplé(e)s
+ils (elles) auraient été contemplé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été contemplé(e)
+que tu aies été contemplé(e)
+qu’il (elle) ait été contemplé(e)
+que nous ayons été contemplé(e)s
+que vous ayez été contemplé(e)s
+qu’ils (elles) aient été contemplé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été contemplé(e)
+que tu eusses été contemplé(e)
+qu’il (elle) eût été contemplé(e)
+que nous eussions été contemplé(e)s
+que vous eussiez été contemplé(e)s
+qu’ils (elles) eussent été contemplé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été contemplé(e)
+ayons été contemplé(e)s
+ayez été contemplé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été contemplé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été contemplé(e)(s)

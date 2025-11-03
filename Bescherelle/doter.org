@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe doter
+
+* INDICATIF
+
+** Présent
+
+je dote
+tu dotes
+il (elle) dote
+nous dotons
+vous dotez
+ils (elles) dotent
+
+** Imparfait
+
+je dotais
+tu dotais
+il (elle) dotait
+nous dotions
+vous dotiez
+ils (elles) dotaient
+
+** Passé simple
+
+je dotai
+tu dotas
+il (elle) dota
+nous dotâmes
+vous dotâtes
+ils (elles) dotèrent
+
+** Futur simple
+
+je doterai
+tu doteras
+il (elle) dotera
+nous doterons
+vous doterez
+ils (elles) doteront
+
+* CONDITIONNEL
+
+** Présent
+
+je doterais
+tu doterais
+il (elle) doterait
+nous doterions
+vous doteriez
+ils (elles) doteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dote
+que tu dotes
+qu’il (elle) dote
+que nous dotions
+que vous dotiez
+qu’ils (elles) dotent
+
+** Imparfait
+
+que je dotasse
+que tu dotasses
+qu’il (elle) dotât
+que nous dotassions
+que vous dotassiez
+qu’ils (elles) dotassent
+
+* IMPÉRATIF
+
+** Présent
+
+dote
+dotons
+dotez
+
+* INFINITIF
+
+** Présent
+
+doter
+
+* PARTICIPE
+
+** Présent
+
+dotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai doté
+tu as doté
+il (elle) a doté
+nous avons doté
+vous avez doté
+ils (elles) ont doté
+
+** Plus-que-parfait
+
+j'avais doté
+tu avais doté
+il (elle) avait doté
+nous avions doté
+vous aviez doté
+ils (elles) avaient doté
+
+** Passé antérieur
+
+j'eus doté
+tu eus doté
+il (elle) eut doté
+nous eûmes doté
+vous eûtes doté
+ils (elles) eurent doté
+
+** Futur antérieur
+
+j'aurai doté
+tu auras doté
+il (elle) aura doté
+nous aurons doté
+vous aurez doté
+ils (elles) auront doté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais doté
+tu aurais doté
+il (elle) aurait doté
+nous aurions doté
+vous auriez doté
+ils (elles) auraient doté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie doté
+que tu aies doté
+qu’il (elle) ait doté
+que nous ayons doté
+que vous ayez doté
+qu’ils (elles) aient doté
+
+** Plus-que-parfait
+
+que j'eusse doté
+que tu eusses doté
+qu’il (elle) eût doté
+que nous eussions doté
+que vous eussiez doté
+qu’ils (elles) eussent doté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons doté
+ayez doté
+
+* INFINITIF
+
+** Passé
+
+avoir doté
+
+* PARTICIPE
+
+** Passé
+
+ayant doté
+doté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis doté(e)
+tu es doté(e)
+il (elle) est doté(e)
+nous sommes doté(e)s
+vous êtes doté(e)s
+ils (elles) sont doté(e)s
+
+** Imparfait
+
+j'étais doté(e)
+tu étais doté(e)
+il (elle) était doté(e)
+nous étions doté(e)s
+vous étiez doté(e)s
+ils (elles) étaient doté(e)s
+
+** Passé simple
+
+je fus doté(e)
+tu fus doté(e)
+il (elle) fut doté(e)
+nous fûmes doté(e)s
+vous fûtes doté(e)s
+ils (elles) furent doté(e)s
+
+** Futur simple
+
+je serai doté(e)
+tu seras doté(e)
+il (elle) sera doté(e)
+nous serons doté(e)s
+vous serez doté(e)s
+ils (elles) seront doté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais doté(e)
+tu serais doté(e)
+il (elle) serait doté(e)
+nous serions doté(e)s
+vous seriez doté(e)s
+ils (elles) seraient doté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois doté(e)
+que tu sois doté(e)
+qu’il (elle) soit doté(e)
+que nous soyons doté(e)s
+que vous soyez doté(e)s
+qu’ils (elles) soient doté(e)s
+
+** Imparfait
+
+que je fusse doté(e)
+que tu fusses doté(e)
+qu’il (elle) fût doté(e)
+que nous fussions doté(e)s
+que vous fussiez doté(e)s
+qu’ils (elles) fussent doté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons doté(e)s
+soyez doté(e)s
+
+* INFINITIF
+
+** Présent
+
+être doté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant doté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été doté(e)
+tu as été doté(e)
+il (elle) a été doté(e)
+nous avons été doté(e)s
+vous avez été doté(e)s
+ils (elles) ont été doté(e)s
+
+** Plus-que-parfait
+
+j'avais été doté(e)
+il (elle) avait été doté(e)
+nous avions été doté(e)s
+ils (elles) avaient été doté(e)s
+
+** Passé antérieur
+
+j'eus été doté(e)
+tu eus été doté(e)
+il (elle) eut été doté(e)
+nous eûmes été doté(e)s
+vous eûtes été doté(e)s
+ils (elles) eurent été doté(e)s
+
+** Futur antérieur
+
+j'aurai été doté(e)
+tu auras été doté(e)
+il (elle) aura été doté(e)
+nous aurons été doté(e)s
+vous aurez été doté(e)s
+ils (elles) auront été doté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été doté(e)
+j'aurais été doté(e)
+il (elle) aurait été doté(e)
+nous aurions été doté(e)s
+vous auriez été doté(e)s
+ils (elles) auraient été doté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été doté(e)
+que tu aies été doté(e)
+qu’il (elle) ait été doté(e)
+que nous ayons été doté(e)s
+que vous ayez été doté(e)s
+qu’ils (elles) aient été doté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été doté(e)
+que tu eusses été doté(e)
+qu’il (elle) eût été doté(e)
+que nous eussions été doté(e)s
+que vous eussiez été doté(e)s
+qu’ils (elles) eussent été doté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été doté(e)
+ayons été doté(e)s
+ayez été doté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été doté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été doté(e)(s)

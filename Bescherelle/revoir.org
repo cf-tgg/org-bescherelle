@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe revoir
+
+* INDICATIF
+
+** Présent
+
+je revois
+tu revois
+il (elle) revoit
+nous revoyons
+vous revoyez
+ils (elles) revoient
+
+** Imparfait
+
+je revoyais
+tu revoyais
+il (elle) revoyait
+nous revoyions
+vous revoyiez
+ils (elles) revoyaient
+
+** Passé simple
+
+je revis
+tu revis
+il (elle) revit
+nous revîmes
+vous revîtes
+ils (elles) revirent
+
+** Futur simple
+
+je reverrai
+tu reverras
+il (elle) reverra
+nous reverrons
+vous reverrez
+ils (elles) reverront
+
+* CONDITIONNEL
+
+** Présent
+
+je reverrais
+tu reverrais
+il (elle) reverrait
+nous reverrions
+vous reverriez
+ils (elles) reverraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je revoie
+que tu revoies
+qu’il (elle) revoie
+que nous revoyions
+que vous revoyiez
+qu’ils (elles) revoient
+
+** Imparfait
+
+que je revisse
+que tu revisses
+qu’il (elle) revît
+que nous revissions
+que vous revissiez
+qu’ils (elles) revissent
+
+* IMPÉRATIF
+
+** Présent
+
+revois
+revoyons
+revoyez
+
+* INFINITIF
+
+** Présent
+
+revoir
+
+* PARTICIPE
+
+** Présent
+
+revoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai revu
+tu as revu
+il (elle) a revu
+nous avons revu
+vous avez revu
+ils (elles) ont revu
+
+** Plus-que-parfait
+
+j'avais revu
+tu avais revu
+il (elle) avait revu
+nous avions revu
+vous aviez revu
+ils (elles) avaient revu
+
+** Passé antérieur
+
+j'eus revu
+tu eus revu
+il (elle) eut revu
+nous eûmes revu
+vous eûtes revu
+ils (elles) eurent revu
+
+** Futur antérieur
+
+j'aurai revu
+tu auras revu
+il (elle) aura revu
+nous aurons revu
+vous aurez revu
+ils (elles) auront revu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais revu
+tu aurais revu
+il (elle) aurait revu
+nous aurions revu
+vous auriez revu
+ils (elles) auraient revu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie revu
+que tu aies revu
+qu’il (elle) ait revu
+que nous ayons revu
+que vous ayez revu
+qu’ils (elles) aient revu
+
+** Plus-que-parfait
+
+que j'eusse revu
+que tu eusses revu
+qu’il (elle) eût revu
+que nous eussions revu
+que vous eussiez revu
+qu’ils (elles) eussent revu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons revu
+ayez revu
+
+* INFINITIF
+
+** Passé
+
+avoir revu
+
+* PARTICIPE
+
+** Passé
+
+ayant revu
+revu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis revu(e)
+tu es revu(e)
+il (elle) est revu(e)
+nous sommes revu(e)s
+vous êtes revu(e)s
+ils (elles) sont revu(e)s
+
+** Imparfait
+
+j'étais revu(e)
+tu étais revu(e)
+il (elle) était revu(e)
+nous étions revu(e)s
+vous étiez revu(e)s
+ils (elles) étaient revu(e)s
+
+** Passé simple
+
+je fus revu(e)
+tu fus revu(e)
+il (elle) fut revu(e)
+nous fûmes revu(e)s
+vous fûtes revu(e)s
+ils (elles) furent revu(e)s
+
+** Futur simple
+
+je serai revu(e)
+tu seras revu(e)
+il (elle) sera revu(e)
+nous serons revu(e)s
+vous serez revu(e)s
+ils (elles) seront revu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais revu(e)
+tu serais revu(e)
+il (elle) serait revu(e)
+nous serions revu(e)s
+vous seriez revu(e)s
+ils (elles) seraient revu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois revu(e)
+que tu sois revu(e)
+qu’il (elle) soit revu(e)
+que nous soyons revu(e)s
+que vous soyez revu(e)s
+qu’ils (elles) soient revu(e)s
+
+** Imparfait
+
+que je fusse revu(e)
+que tu fusses revu(e)
+qu’il (elle) fût revu(e)
+que nous fussions revu(e)s
+que vous fussiez revu(e)s
+qu’ils (elles) fussent revu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons revu(e)s
+soyez revu(e)s
+
+* INFINITIF
+
+** Présent
+
+être revu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant revu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été revu(e)
+tu as été revu(e)
+il (elle) a été revu(e)
+nous avons été revu(e)s
+vous avez été revu(e)s
+ils (elles) ont été revu(e)s
+
+** Plus-que-parfait
+
+j'avais été revu(e)
+il (elle) avait été revu(e)
+nous avions été revu(e)s
+ils (elles) avaient été revu(e)s
+
+** Passé antérieur
+
+j'eus été revu(e)
+tu eus été revu(e)
+il (elle) eut été revu(e)
+nous eûmes été revu(e)s
+vous eûtes été revu(e)s
+ils (elles) eurent été revu(e)s
+
+** Futur antérieur
+
+j'aurai été revu(e)
+tu auras été revu(e)
+il (elle) aura été revu(e)
+nous aurons été revu(e)s
+vous aurez été revu(e)s
+ils (elles) auront été revu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été revu(e)
+j'aurais été revu(e)
+il (elle) aurait été revu(e)
+nous aurions été revu(e)s
+vous auriez été revu(e)s
+ils (elles) auraient été revu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été revu(e)
+que tu aies été revu(e)
+qu’il (elle) ait été revu(e)
+que nous ayons été revu(e)s
+que vous ayez été revu(e)s
+qu’ils (elles) aient été revu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été revu(e)
+que tu eusses été revu(e)
+qu’il (elle) eût été revu(e)
+que nous eussions été revu(e)s
+que vous eussiez été revu(e)s
+qu’ils (elles) eussent été revu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été revu(e)
+ayons été revu(e)s
+ayez été revu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été revu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été revu(e)(s)

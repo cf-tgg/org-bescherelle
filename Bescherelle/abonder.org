@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abonder
+
+* INDICATIF
+
+** Présent
+
+j'abonde
+tu abondes
+il (elle) abonde
+nous abondons
+vous abondez
+ils (elles) abondent
+
+** Imparfait
+
+j'abondais
+tu abondais
+il (elle) abondait
+nous abondions
+vous abondiez
+ils (elles) abondaient
+
+** Passé simple
+
+j'abondai
+tu abondas
+il (elle) abonda
+nous abondâmes
+vous abondâtes
+ils (elles) abondèrent
+
+** Futur simple
+
+j'abonderai
+tu abonderas
+il (elle) abondera
+nous abonderons
+vous abonderez
+ils (elles) abonderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'abonderais
+tu abonderais
+il (elle) abonderait
+nous abonderions
+vous abonderiez
+ils (elles) abonderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abonde
+que tu abondes
+qu’il (elle) abonde
+que nous abondions
+que vous abondiez
+qu’ils (elles) abondent
+
+** Imparfait
+
+que j'abondasse
+que tu abondasses
+qu’il (elle) abondât
+que nous abondassions
+que vous abondassiez
+qu’ils (elles) abondassent
+
+* IMPÉRATIF
+
+** Présent
+
+abonde
+abondons
+abondez
+
+* INFINITIF
+
+** Présent
+
+abonder
+
+* PARTICIPE
+
+** Présent
+
+abondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abondé
+tu as abondé
+il (elle) a abondé
+nous avons abondé
+vous avez abondé
+ils (elles) ont abondé
+
+** Plus-que-parfait
+
+j'avais abondé
+tu avais abondé
+il (elle) avait abondé
+nous avions abondé
+vous aviez abondé
+ils (elles) avaient abondé
+
+** Passé antérieur
+
+j'eus abondé
+tu eus abondé
+il (elle) eut abondé
+nous eûmes abondé
+vous eûtes abondé
+ils (elles) eurent abondé
+
+** Futur antérieur
+
+j'aurai abondé
+tu auras abondé
+il (elle) aura abondé
+nous aurons abondé
+vous aurez abondé
+ils (elles) auront abondé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abondé
+tu aurais abondé
+il (elle) aurait abondé
+nous aurions abondé
+vous auriez abondé
+ils (elles) auraient abondé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abondé
+que tu aies abondé
+qu’il (elle) ait abondé
+que nous ayons abondé
+que vous ayez abondé
+qu’ils (elles) aient abondé
+
+** Plus-que-parfait
+
+que j'eusse abondé
+que tu eusses abondé
+qu’il (elle) eût abondé
+que nous eussions abondé
+que vous eussiez abondé
+qu’ils (elles) eussent abondé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abondé
+ayez abondé
+
+* INFINITIF
+
+** Passé
+
+avoir abondé
+
+* PARTICIPE
+
+** Passé
+
+ayant abondé
+abondé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abondé(e)
+tu es abondé(e)
+il (elle) est abondé(e)
+nous sommes abondé(e)s
+vous êtes abondé(e)s
+ils (elles) sont abondé(e)s
+
+** Imparfait
+
+j'étais abondé(e)
+tu étais abondé(e)
+il (elle) était abondé(e)
+nous étions abondé(e)s
+vous étiez abondé(e)s
+ils (elles) étaient abondé(e)s
+
+** Passé simple
+
+je fus abondé(e)
+tu fus abondé(e)
+il (elle) fut abondé(e)
+nous fûmes abondé(e)s
+vous fûtes abondé(e)s
+ils (elles) furent abondé(e)s
+
+** Futur simple
+
+je serai abondé(e)
+tu seras abondé(e)
+il (elle) sera abondé(e)
+nous serons abondé(e)s
+vous serez abondé(e)s
+ils (elles) seront abondé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abondé(e)
+tu serais abondé(e)
+il (elle) serait abondé(e)
+nous serions abondé(e)s
+vous seriez abondé(e)s
+ils (elles) seraient abondé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abondé(e)
+que tu sois abondé(e)
+qu’il (elle) soit abondé(e)
+que nous soyons abondé(e)s
+que vous soyez abondé(e)s
+qu’ils (elles) soient abondé(e)s
+
+** Imparfait
+
+que je fusse abondé(e)
+que tu fusses abondé(e)
+qu’il (elle) fût abondé(e)
+que nous fussions abondé(e)s
+que vous fussiez abondé(e)s
+qu’ils (elles) fussent abondé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abondé(e)s
+soyez abondé(e)s
+
+* INFINITIF
+
+** Présent
+
+être abondé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abondé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abondé(e)
+tu as été abondé(e)
+il (elle) a été abondé(e)
+nous avons été abondé(e)s
+vous avez été abondé(e)s
+ils (elles) ont été abondé(e)s
+
+** Plus-que-parfait
+
+j'avais été abondé(e)
+il (elle) avait été abondé(e)
+nous avions été abondé(e)s
+ils (elles) avaient été abondé(e)s
+
+** Passé antérieur
+
+j'eus été abondé(e)
+tu eus été abondé(e)
+il (elle) eut été abondé(e)
+nous eûmes été abondé(e)s
+vous eûtes été abondé(e)s
+ils (elles) eurent été abondé(e)s
+
+** Futur antérieur
+
+j'aurai été abondé(e)
+tu auras été abondé(e)
+il (elle) aura été abondé(e)
+nous aurons été abondé(e)s
+vous aurez été abondé(e)s
+ils (elles) auront été abondé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abondé(e)
+j'aurais été abondé(e)
+il (elle) aurait été abondé(e)
+nous aurions été abondé(e)s
+vous auriez été abondé(e)s
+ils (elles) auraient été abondé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abondé(e)
+que tu aies été abondé(e)
+qu’il (elle) ait été abondé(e)
+que nous ayons été abondé(e)s
+que vous ayez été abondé(e)s
+qu’ils (elles) aient été abondé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abondé(e)
+que tu eusses été abondé(e)
+qu’il (elle) eût été abondé(e)
+que nous eussions été abondé(e)s
+que vous eussiez été abondé(e)s
+qu’ils (elles) eussent été abondé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abondé(e)
+ayons été abondé(e)s
+ayez été abondé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abondé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abondé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe revetir
+
+* INDICATIF
+
+** Présent
+
+je revêts
+tu revêts
+il (elle) revêt
+nous revêtons
+vous revêtez
+ils (elles) revêtent
+
+** Imparfait
+
+je revêtais
+tu revêtais
+il (elle) revêtait
+nous revêtions
+vous revêtiez
+ils (elles) revêtaient
+
+** Passé simple
+
+je revêtis
+tu revêtis
+il (elle) revêtit
+nous revêtîmes
+vous revêtîtes
+ils (elles) revêtirent
+
+** Futur simple
+
+je revêtirai
+tu revêtiras
+il (elle) revêtira
+nous revêtirons
+vous revêtirez
+ils (elles) revêtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je revêtirais
+tu revêtirais
+il (elle) revêtirait
+nous revêtirions
+vous revêtiriez
+ils (elles) revêtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je revête
+que tu revêtes
+qu’il (elle) revête
+que nous revêtions
+que vous revêtiez
+qu’ils (elles) revêtent
+
+** Imparfait
+
+que je revêtisse
+que tu revêtisses
+qu’il (elle) revêtît
+que nous revêtissions
+que vous revêtissiez
+qu’ils (elles) revêtissent
+
+* IMPÉRATIF
+
+** Présent
+
+revêts
+revêtons
+revêtez
+
+* INFINITIF
+
+** Présent
+
+revêtir
+
+* PARTICIPE
+
+** Présent
+
+revêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai revêtu
+tu as revêtu
+il (elle) a revêtu
+nous avons revêtu
+vous avez revêtu
+ils (elles) ont revêtu
+
+** Plus-que-parfait
+
+j'avais revêtu
+tu avais revêtu
+il (elle) avait revêtu
+nous avions revêtu
+vous aviez revêtu
+ils (elles) avaient revêtu
+
+** Passé antérieur
+
+j'eus revêtu
+tu eus revêtu
+il (elle) eut revêtu
+nous eûmes revêtu
+vous eûtes revêtu
+ils (elles) eurent revêtu
+
+** Futur antérieur
+
+j'aurai revêtu
+tu auras revêtu
+il (elle) aura revêtu
+nous aurons revêtu
+vous aurez revêtu
+ils (elles) auront revêtu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais revêtu
+tu aurais revêtu
+il (elle) aurait revêtu
+nous aurions revêtu
+vous auriez revêtu
+ils (elles) auraient revêtu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie revêtu
+que tu aies revêtu
+qu’il (elle) ait revêtu
+que nous ayons revêtu
+que vous ayez revêtu
+qu’ils (elles) aient revêtu
+
+** Plus-que-parfait
+
+que j'eusse revêtu
+que tu eusses revêtu
+qu’il (elle) eût revêtu
+que nous eussions revêtu
+que vous eussiez revêtu
+qu’ils (elles) eussent revêtu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons revêtu
+ayez revêtu
+
+* INFINITIF
+
+** Passé
+
+avoir revêtu
+
+* PARTICIPE
+
+** Passé
+
+ayant revêtu
+revêtu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis revêtu(e)
+tu es revêtu(e)
+il (elle) est revêtu(e)
+nous sommes revêtu(e)s
+vous êtes revêtu(e)s
+ils (elles) sont revêtu(e)s
+
+** Imparfait
+
+j'étais revêtu(e)
+tu étais revêtu(e)
+il (elle) était revêtu(e)
+nous étions revêtu(e)s
+vous étiez revêtu(e)s
+ils (elles) étaient revêtu(e)s
+
+** Passé simple
+
+je fus revêtu(e)
+tu fus revêtu(e)
+il (elle) fut revêtu(e)
+nous fûmes revêtu(e)s
+vous fûtes revêtu(e)s
+ils (elles) furent revêtu(e)s
+
+** Futur simple
+
+je serai revêtu(e)
+tu seras revêtu(e)
+il (elle) sera revêtu(e)
+nous serons revêtu(e)s
+vous serez revêtu(e)s
+ils (elles) seront revêtu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais revêtu(e)
+tu serais revêtu(e)
+il (elle) serait revêtu(e)
+nous serions revêtu(e)s
+vous seriez revêtu(e)s
+ils (elles) seraient revêtu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois revêtu(e)
+que tu sois revêtu(e)
+qu’il (elle) soit revêtu(e)
+que nous soyons revêtu(e)s
+que vous soyez revêtu(e)s
+qu’ils (elles) soient revêtu(e)s
+
+** Imparfait
+
+que je fusse revêtu(e)
+que tu fusses revêtu(e)
+qu’il (elle) fût revêtu(e)
+que nous fussions revêtu(e)s
+que vous fussiez revêtu(e)s
+qu’ils (elles) fussent revêtu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons revêtu(e)s
+soyez revêtu(e)s
+
+* INFINITIF
+
+** Présent
+
+être revêtu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant revêtu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été revêtu(e)
+tu as été revêtu(e)
+il (elle) a été revêtu(e)
+nous avons été revêtu(e)s
+vous avez été revêtu(e)s
+ils (elles) ont été revêtu(e)s
+
+** Plus-que-parfait
+
+j'avais été revêtu(e)
+il (elle) avait été revêtu(e)
+nous avions été revêtu(e)s
+ils (elles) avaient été revêtu(e)s
+
+** Passé antérieur
+
+j'eus été revêtu(e)
+tu eus été revêtu(e)
+il (elle) eut été revêtu(e)
+nous eûmes été revêtu(e)s
+vous eûtes été revêtu(e)s
+ils (elles) eurent été revêtu(e)s
+
+** Futur antérieur
+
+j'aurai été revêtu(e)
+tu auras été revêtu(e)
+il (elle) aura été revêtu(e)
+nous aurons été revêtu(e)s
+vous aurez été revêtu(e)s
+ils (elles) auront été revêtu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été revêtu(e)
+j'aurais été revêtu(e)
+il (elle) aurait été revêtu(e)
+nous aurions été revêtu(e)s
+vous auriez été revêtu(e)s
+ils (elles) auraient été revêtu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été revêtu(e)
+que tu aies été revêtu(e)
+qu’il (elle) ait été revêtu(e)
+que nous ayons été revêtu(e)s
+que vous ayez été revêtu(e)s
+qu’ils (elles) aient été revêtu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été revêtu(e)
+que tu eusses été revêtu(e)
+qu’il (elle) eût été revêtu(e)
+que nous eussions été revêtu(e)s
+que vous eussiez été revêtu(e)s
+qu’ils (elles) eussent été revêtu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été revêtu(e)
+ayons été revêtu(e)s
+ayez été revêtu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été revêtu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été revêtu(e)(s)

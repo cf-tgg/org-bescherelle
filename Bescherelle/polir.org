@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe polir
+
+* INDICATIF
+
+** Présent
+
+je polis
+tu polis
+il (elle) polit
+nous polissons
+vous polissez
+ils (elles) polissent
+
+** Imparfait
+
+je polissais
+tu polissais
+il (elle) polissait
+nous polissions
+vous polissiez
+ils (elles) polissaient
+
+** Passé simple
+
+je polis
+tu polis
+il (elle) polit
+nous polîmes
+vous polîtes
+ils (elles) polirent
+
+** Futur simple
+
+je polirai
+tu poliras
+il (elle) polira
+nous polirons
+vous polirez
+ils (elles) poliront
+
+* CONDITIONNEL
+
+** Présent
+
+je polirais
+tu polirais
+il (elle) polirait
+nous polirions
+vous poliriez
+ils (elles) poliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je polisse
+que tu polisses
+qu’il (elle) polisse
+que nous polissions
+que vous polissiez
+qu’ils (elles) polissent
+
+** Imparfait
+
+que je polisse
+que tu polisses
+qu’il (elle) polît
+que nous polissions
+que vous polissiez
+qu’ils (elles) polissent
+
+* IMPÉRATIF
+
+** Présent
+
+polis
+polissons
+polissez
+
+* INFINITIF
+
+** Présent
+
+polir
+
+* PARTICIPE
+
+** Présent
+
+polissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai poli
+tu as poli
+il (elle) a poli
+nous avons poli
+vous avez poli
+ils (elles) ont poli
+
+** Plus-que-parfait
+
+j'avais poli
+tu avais poli
+il (elle) avait poli
+nous avions poli
+vous aviez poli
+ils (elles) avaient poli
+
+** Passé antérieur
+
+j'eus poli
+tu eus poli
+il (elle) eut poli
+nous eûmes poli
+vous eûtes poli
+ils (elles) eurent poli
+
+** Futur antérieur
+
+j'aurai poli
+tu auras poli
+il (elle) aura poli
+nous aurons poli
+vous aurez poli
+ils (elles) auront poli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais poli
+tu aurais poli
+il (elle) aurait poli
+nous aurions poli
+vous auriez poli
+ils (elles) auraient poli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie poli
+que tu aies poli
+qu’il (elle) ait poli
+que nous ayons poli
+que vous ayez poli
+qu’ils (elles) aient poli
+
+** Plus-que-parfait
+
+que j'eusse poli
+que tu eusses poli
+qu’il (elle) eût poli
+que nous eussions poli
+que vous eussiez poli
+qu’ils (elles) eussent poli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons poli
+ayez poli
+
+* INFINITIF
+
+** Passé
+
+avoir poli
+
+* PARTICIPE
+
+** Passé
+
+ayant poli
+poli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis poli(e)
+tu es poli(e)
+il (elle) est poli(e)
+nous sommes poli(e)s
+vous êtes poli(e)s
+ils (elles) sont poli(e)s
+
+** Imparfait
+
+j'étais poli(e)
+tu étais poli(e)
+il (elle) était poli(e)
+nous étions poli(e)s
+vous étiez poli(e)s
+ils (elles) étaient poli(e)s
+
+** Passé simple
+
+je fus poli(e)
+tu fus poli(e)
+il (elle) fut poli(e)
+nous fûmes poli(e)s
+vous fûtes poli(e)s
+ils (elles) furent poli(e)s
+
+** Futur simple
+
+je serai poli(e)
+tu seras poli(e)
+il (elle) sera poli(e)
+nous serons poli(e)s
+vous serez poli(e)s
+ils (elles) seront poli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais poli(e)
+tu serais poli(e)
+il (elle) serait poli(e)
+nous serions poli(e)s
+vous seriez poli(e)s
+ils (elles) seraient poli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois poli(e)
+que tu sois poli(e)
+qu’il (elle) soit poli(e)
+que nous soyons poli(e)s
+que vous soyez poli(e)s
+qu’ils (elles) soient poli(e)s
+
+** Imparfait
+
+que je fusse poli(e)
+que tu fusses poli(e)
+qu’il (elle) fût poli(e)
+que nous fussions poli(e)s
+que vous fussiez poli(e)s
+qu’ils (elles) fussent poli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons poli(e)s
+soyez poli(e)s
+
+* INFINITIF
+
+** Présent
+
+être poli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant poli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été poli(e)
+tu as été poli(e)
+il (elle) a été poli(e)
+nous avons été poli(e)s
+vous avez été poli(e)s
+ils (elles) ont été poli(e)s
+
+** Plus-que-parfait
+
+j'avais été poli(e)
+il (elle) avait été poli(e)
+nous avions été poli(e)s
+ils (elles) avaient été poli(e)s
+
+** Passé antérieur
+
+j'eus été poli(e)
+tu eus été poli(e)
+il (elle) eut été poli(e)
+nous eûmes été poli(e)s
+vous eûtes été poli(e)s
+ils (elles) eurent été poli(e)s
+
+** Futur antérieur
+
+j'aurai été poli(e)
+tu auras été poli(e)
+il (elle) aura été poli(e)
+nous aurons été poli(e)s
+vous aurez été poli(e)s
+ils (elles) auront été poli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été poli(e)
+j'aurais été poli(e)
+il (elle) aurait été poli(e)
+nous aurions été poli(e)s
+vous auriez été poli(e)s
+ils (elles) auraient été poli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été poli(e)
+que tu aies été poli(e)
+qu’il (elle) ait été poli(e)
+que nous ayons été poli(e)s
+que vous ayez été poli(e)s
+qu’ils (elles) aient été poli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été poli(e)
+que tu eusses été poli(e)
+qu’il (elle) eût été poli(e)
+que nous eussions été poli(e)s
+que vous eussiez été poli(e)s
+qu’ils (elles) eussent été poli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été poli(e)
+ayons été poli(e)s
+ayez été poli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été poli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été poli(e)(s)

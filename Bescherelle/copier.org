@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe copier
+
+* INDICATIF
+
+** Présent
+
+je copie
+tu copies
+il (elle) copie
+nous copions
+vous copiez
+ils (elles) copient
+
+** Imparfait
+
+je copiais
+tu copiais
+il (elle) copiait
+nous copiions
+vous copiiez
+ils (elles) copiaient
+
+** Passé simple
+
+je copiai
+tu copias
+il (elle) copia
+nous copiâmes
+vous copiâtes
+ils (elles) copièrent
+
+** Futur simple
+
+je copierai
+tu copieras
+il (elle) copiera
+nous copierons
+vous copierez
+ils (elles) copieront
+
+* CONDITIONNEL
+
+** Présent
+
+je copierais
+tu copierais
+il (elle) copierait
+nous copierions
+vous copieriez
+ils (elles) copieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je copie
+que tu copies
+qu’il (elle) copie
+que nous copiions
+que vous copiiez
+qu’ils (elles) copient
+
+** Imparfait
+
+que je copiasse
+que tu copiasses
+qu’il (elle) copiât
+que nous copiassions
+que vous copiassiez
+qu’ils (elles) copiassent
+
+* IMPÉRATIF
+
+** Présent
+
+copie
+copions
+copiez
+
+* INFINITIF
+
+** Présent
+
+copier
+
+* PARTICIPE
+
+** Présent
+
+copiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai copié
+tu as copié
+il (elle) a copié
+nous avons copié
+vous avez copié
+ils (elles) ont copié
+
+** Plus-que-parfait
+
+j'avais copié
+tu avais copié
+il (elle) avait copié
+nous avions copié
+vous aviez copié
+ils (elles) avaient copié
+
+** Passé antérieur
+
+j'eus copié
+tu eus copié
+il (elle) eut copié
+nous eûmes copié
+vous eûtes copié
+ils (elles) eurent copié
+
+** Futur antérieur
+
+j'aurai copié
+tu auras copié
+il (elle) aura copié
+nous aurons copié
+vous aurez copié
+ils (elles) auront copié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais copié
+tu aurais copié
+il (elle) aurait copié
+nous aurions copié
+vous auriez copié
+ils (elles) auraient copié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie copié
+que tu aies copié
+qu’il (elle) ait copié
+que nous ayons copié
+que vous ayez copié
+qu’ils (elles) aient copié
+
+** Plus-que-parfait
+
+que j'eusse copié
+que tu eusses copié
+qu’il (elle) eût copié
+que nous eussions copié
+que vous eussiez copié
+qu’ils (elles) eussent copié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons copié
+ayez copié
+
+* INFINITIF
+
+** Passé
+
+avoir copié
+
+* PARTICIPE
+
+** Passé
+
+ayant copié
+copié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis copié(e)
+tu es copié(e)
+il (elle) est copié(e)
+nous sommes copié(e)s
+vous êtes copié(e)s
+ils (elles) sont copié(e)s
+
+** Imparfait
+
+j'étais copié(e)
+tu étais copié(e)
+il (elle) était copié(e)
+nous étions copié(e)s
+vous étiez copié(e)s
+ils (elles) étaient copié(e)s
+
+** Passé simple
+
+je fus copié(e)
+tu fus copié(e)
+il (elle) fut copié(e)
+nous fûmes copié(e)s
+vous fûtes copié(e)s
+ils (elles) furent copié(e)s
+
+** Futur simple
+
+je serai copié(e)
+tu seras copié(e)
+il (elle) sera copié(e)
+nous serons copié(e)s
+vous serez copié(e)s
+ils (elles) seront copié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais copié(e)
+tu serais copié(e)
+il (elle) serait copié(e)
+nous serions copié(e)s
+vous seriez copié(e)s
+ils (elles) seraient copié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois copié(e)
+que tu sois copié(e)
+qu’il (elle) soit copié(e)
+que nous soyons copié(e)s
+que vous soyez copié(e)s
+qu’ils (elles) soient copié(e)s
+
+** Imparfait
+
+que je fusse copié(e)
+que tu fusses copié(e)
+qu’il (elle) fût copié(e)
+que nous fussions copié(e)s
+que vous fussiez copié(e)s
+qu’ils (elles) fussent copié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons copié(e)s
+soyez copié(e)s
+
+* INFINITIF
+
+** Présent
+
+être copié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant copié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été copié(e)
+tu as été copié(e)
+il (elle) a été copié(e)
+nous avons été copié(e)s
+vous avez été copié(e)s
+ils (elles) ont été copié(e)s
+
+** Plus-que-parfait
+
+j'avais été copié(e)
+il (elle) avait été copié(e)
+nous avions été copié(e)s
+ils (elles) avaient été copié(e)s
+
+** Passé antérieur
+
+j'eus été copié(e)
+tu eus été copié(e)
+il (elle) eut été copié(e)
+nous eûmes été copié(e)s
+vous eûtes été copié(e)s
+ils (elles) eurent été copié(e)s
+
+** Futur antérieur
+
+j'aurai été copié(e)
+tu auras été copié(e)
+il (elle) aura été copié(e)
+nous aurons été copié(e)s
+vous aurez été copié(e)s
+ils (elles) auront été copié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été copié(e)
+j'aurais été copié(e)
+il (elle) aurait été copié(e)
+nous aurions été copié(e)s
+vous auriez été copié(e)s
+ils (elles) auraient été copié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été copié(e)
+que tu aies été copié(e)
+qu’il (elle) ait été copié(e)
+que nous ayons été copié(e)s
+que vous ayez été copié(e)s
+qu’ils (elles) aient été copié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été copié(e)
+que tu eusses été copié(e)
+qu’il (elle) eût été copié(e)
+que nous eussions été copié(e)s
+que vous eussiez été copié(e)s
+qu’ils (elles) eussent été copié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été copié(e)
+ayons été copié(e)s
+ayez été copié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été copié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été copié(e)(s)

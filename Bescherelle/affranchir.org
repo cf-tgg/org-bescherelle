@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe affranchir
+
+* INDICATIF
+
+** Présent
+
+j'affranchis
+tu affranchis
+il (elle) affranchit
+nous affranchissons
+vous affranchissez
+ils (elles) affranchissent
+
+** Imparfait
+
+j'affranchissais
+tu affranchissais
+il (elle) affranchissait
+nous affranchissions
+vous affranchissiez
+ils (elles) affranchissaient
+
+** Passé simple
+
+j'affranchis
+tu affranchis
+il (elle) affranchit
+nous affranchîmes
+vous affranchîtes
+ils (elles) affranchirent
+
+** Futur simple
+
+j'affranchirai
+tu affranchiras
+il (elle) affranchira
+nous affranchirons
+vous affranchirez
+ils (elles) affranchiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'affranchirais
+tu affranchirais
+il (elle) affranchirait
+nous affranchirions
+vous affranchiriez
+ils (elles) affranchiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'affranchisse
+que tu affranchisses
+qu’il (elle) affranchisse
+que nous affranchissions
+que vous affranchissiez
+qu’ils (elles) affranchissent
+
+** Imparfait
+
+que j'affranchisse
+que tu affranchisses
+qu’il (elle) affranchît
+que nous affranchissions
+que vous affranchissiez
+qu’ils (elles) affranchissent
+
+* IMPÉRATIF
+
+** Présent
+
+affranchis
+affranchissons
+affranchissez
+
+* INFINITIF
+
+** Présent
+
+affranchir
+
+* PARTICIPE
+
+** Présent
+
+affranchissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai affranchi
+tu as affranchi
+il (elle) a affranchi
+nous avons affranchi
+vous avez affranchi
+ils (elles) ont affranchi
+
+** Plus-que-parfait
+
+j'avais affranchi
+tu avais affranchi
+il (elle) avait affranchi
+nous avions affranchi
+vous aviez affranchi
+ils (elles) avaient affranchi
+
+** Passé antérieur
+
+j'eus affranchi
+tu eus affranchi
+il (elle) eut affranchi
+nous eûmes affranchi
+vous eûtes affranchi
+ils (elles) eurent affranchi
+
+** Futur antérieur
+
+j'aurai affranchi
+tu auras affranchi
+il (elle) aura affranchi
+nous aurons affranchi
+vous aurez affranchi
+ils (elles) auront affranchi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais affranchi
+tu aurais affranchi
+il (elle) aurait affranchi
+nous aurions affranchi
+vous auriez affranchi
+ils (elles) auraient affranchi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie affranchi
+que tu aies affranchi
+qu’il (elle) ait affranchi
+que nous ayons affranchi
+que vous ayez affranchi
+qu’ils (elles) aient affranchi
+
+** Plus-que-parfait
+
+que j'eusse affranchi
+que tu eusses affranchi
+qu’il (elle) eût affranchi
+que nous eussions affranchi
+que vous eussiez affranchi
+qu’ils (elles) eussent affranchi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons affranchi
+ayez affranchi
+
+* INFINITIF
+
+** Passé
+
+avoir affranchi
+
+* PARTICIPE
+
+** Passé
+
+ayant affranchi
+affranchi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis affranchi(e)
+tu es affranchi(e)
+il (elle) est affranchi(e)
+nous sommes affranchi(e)s
+vous êtes affranchi(e)s
+ils (elles) sont affranchi(e)s
+
+** Imparfait
+
+j'étais affranchi(e)
+tu étais affranchi(e)
+il (elle) était affranchi(e)
+nous étions affranchi(e)s
+vous étiez affranchi(e)s
+ils (elles) étaient affranchi(e)s
+
+** Passé simple
+
+je fus affranchi(e)
+tu fus affranchi(e)
+il (elle) fut affranchi(e)
+nous fûmes affranchi(e)s
+vous fûtes affranchi(e)s
+ils (elles) furent affranchi(e)s
+
+** Futur simple
+
+je serai affranchi(e)
+tu seras affranchi(e)
+il (elle) sera affranchi(e)
+nous serons affranchi(e)s
+vous serez affranchi(e)s
+ils (elles) seront affranchi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais affranchi(e)
+tu serais affranchi(e)
+il (elle) serait affranchi(e)
+nous serions affranchi(e)s
+vous seriez affranchi(e)s
+ils (elles) seraient affranchi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois affranchi(e)
+que tu sois affranchi(e)
+qu’il (elle) soit affranchi(e)
+que nous soyons affranchi(e)s
+que vous soyez affranchi(e)s
+qu’ils (elles) soient affranchi(e)s
+
+** Imparfait
+
+que je fusse affranchi(e)
+que tu fusses affranchi(e)
+qu’il (elle) fût affranchi(e)
+que nous fussions affranchi(e)s
+que vous fussiez affranchi(e)s
+qu’ils (elles) fussent affranchi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons affranchi(e)s
+soyez affranchi(e)s
+
+* INFINITIF
+
+** Présent
+
+être affranchi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant affranchi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été affranchi(e)
+tu as été affranchi(e)
+il (elle) a été affranchi(e)
+nous avons été affranchi(e)s
+vous avez été affranchi(e)s
+ils (elles) ont été affranchi(e)s
+
+** Plus-que-parfait
+
+j'avais été affranchi(e)
+il (elle) avait été affranchi(e)
+nous avions été affranchi(e)s
+ils (elles) avaient été affranchi(e)s
+
+** Passé antérieur
+
+j'eus été affranchi(e)
+tu eus été affranchi(e)
+il (elle) eut été affranchi(e)
+nous eûmes été affranchi(e)s
+vous eûtes été affranchi(e)s
+ils (elles) eurent été affranchi(e)s
+
+** Futur antérieur
+
+j'aurai été affranchi(e)
+tu auras été affranchi(e)
+il (elle) aura été affranchi(e)
+nous aurons été affranchi(e)s
+vous aurez été affranchi(e)s
+ils (elles) auront été affranchi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été affranchi(e)
+j'aurais été affranchi(e)
+il (elle) aurait été affranchi(e)
+nous aurions été affranchi(e)s
+vous auriez été affranchi(e)s
+ils (elles) auraient été affranchi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été affranchi(e)
+que tu aies été affranchi(e)
+qu’il (elle) ait été affranchi(e)
+que nous ayons été affranchi(e)s
+que vous ayez été affranchi(e)s
+qu’ils (elles) aient été affranchi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été affranchi(e)
+que tu eusses été affranchi(e)
+qu’il (elle) eût été affranchi(e)
+que nous eussions été affranchi(e)s
+que vous eussiez été affranchi(e)s
+qu’ils (elles) eussent été affranchi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été affranchi(e)
+ayons été affranchi(e)s
+ayez été affranchi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été affranchi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été affranchi(e)(s)

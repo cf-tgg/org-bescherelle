@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe haler
+
+* INDICATIF
+
+** Présent
+
+je hale
+tu hales
+il (elle) hale
+nous halons
+vous halez
+ils (elles) halent
+
+** Imparfait
+
+je halais
+tu halais
+il (elle) halait
+nous halions
+vous haliez
+ils (elles) halaient
+
+** Passé simple
+
+je halai
+tu halas
+il (elle) hala
+nous halâmes
+vous halâtes
+ils (elles) halèrent
+
+** Futur simple
+
+je halerai
+tu haleras
+il (elle) halera
+nous halerons
+vous halerez
+ils (elles) haleront
+
+* CONDITIONNEL
+
+** Présent
+
+je halerais
+tu halerais
+il (elle) halerait
+nous halerions
+vous haleriez
+ils (elles) haleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hale
+que tu hales
+qu’il (elle) hale
+que nous halions
+que vous haliez
+qu’ils (elles) halent
+
+** Imparfait
+
+que je halasse
+que tu halasses
+qu’il (elle) halât
+que nous halassions
+que vous halassiez
+qu’ils (elles) halassent
+
+* IMPÉRATIF
+
+** Présent
+
+hale
+halons
+halez
+
+* INFINITIF
+
+** Présent
+
+haler
+
+* PARTICIPE
+
+** Présent
+
+halant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai halé
+tu as halé
+il (elle) a halé
+nous avons halé
+vous avez halé
+ils (elles) ont halé
+
+** Plus-que-parfait
+
+j'avais halé
+tu avais halé
+il (elle) avait halé
+nous avions halé
+vous aviez halé
+ils (elles) avaient halé
+
+** Passé antérieur
+
+j'eus halé
+tu eus halé
+il (elle) eut halé
+nous eûmes halé
+vous eûtes halé
+ils (elles) eurent halé
+
+** Futur antérieur
+
+j'aurai halé
+tu auras halé
+il (elle) aura halé
+nous aurons halé
+vous aurez halé
+ils (elles) auront halé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais halé
+tu aurais halé
+il (elle) aurait halé
+nous aurions halé
+vous auriez halé
+ils (elles) auraient halé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie halé
+que tu aies halé
+qu’il (elle) ait halé
+que nous ayons halé
+que vous ayez halé
+qu’ils (elles) aient halé
+
+** Plus-que-parfait
+
+que j'eusse halé
+que tu eusses halé
+qu’il (elle) eût halé
+que nous eussions halé
+que vous eussiez halé
+qu’ils (elles) eussent halé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons halé
+ayez halé
+
+* INFINITIF
+
+** Passé
+
+avoir halé
+
+* PARTICIPE
+
+** Passé
+
+ayant halé
+halé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis halé(e)
+tu es halé(e)
+il (elle) est halé(e)
+nous sommes halé(e)s
+vous êtes halé(e)s
+ils (elles) sont halé(e)s
+
+** Imparfait
+
+j'étais halé(e)
+tu étais halé(e)
+il (elle) était halé(e)
+nous étions halé(e)s
+vous étiez halé(e)s
+ils (elles) étaient halé(e)s
+
+** Passé simple
+
+je fus halé(e)
+tu fus halé(e)
+il (elle) fut halé(e)
+nous fûmes halé(e)s
+vous fûtes halé(e)s
+ils (elles) furent halé(e)s
+
+** Futur simple
+
+je serai halé(e)
+tu seras halé(e)
+il (elle) sera halé(e)
+nous serons halé(e)s
+vous serez halé(e)s
+ils (elles) seront halé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais halé(e)
+tu serais halé(e)
+il (elle) serait halé(e)
+nous serions halé(e)s
+vous seriez halé(e)s
+ils (elles) seraient halé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois halé(e)
+que tu sois halé(e)
+qu’il (elle) soit halé(e)
+que nous soyons halé(e)s
+que vous soyez halé(e)s
+qu’ils (elles) soient halé(e)s
+
+** Imparfait
+
+que je fusse halé(e)
+que tu fusses halé(e)
+qu’il (elle) fût halé(e)
+que nous fussions halé(e)s
+que vous fussiez halé(e)s
+qu’ils (elles) fussent halé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons halé(e)s
+soyez halé(e)s
+
+* INFINITIF
+
+** Présent
+
+être halé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant halé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été halé(e)
+tu as été halé(e)
+il (elle) a été halé(e)
+nous avons été halé(e)s
+vous avez été halé(e)s
+ils (elles) ont été halé(e)s
+
+** Plus-que-parfait
+
+j'avais été halé(e)
+il (elle) avait été halé(e)
+nous avions été halé(e)s
+ils (elles) avaient été halé(e)s
+
+** Passé antérieur
+
+j'eus été halé(e)
+tu eus été halé(e)
+il (elle) eut été halé(e)
+nous eûmes été halé(e)s
+vous eûtes été halé(e)s
+ils (elles) eurent été halé(e)s
+
+** Futur antérieur
+
+j'aurai été halé(e)
+tu auras été halé(e)
+il (elle) aura été halé(e)
+nous aurons été halé(e)s
+vous aurez été halé(e)s
+ils (elles) auront été halé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été halé(e)
+j'aurais été halé(e)
+il (elle) aurait été halé(e)
+nous aurions été halé(e)s
+vous auriez été halé(e)s
+ils (elles) auraient été halé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été halé(e)
+que tu aies été halé(e)
+qu’il (elle) ait été halé(e)
+que nous ayons été halé(e)s
+que vous ayez été halé(e)s
+qu’ils (elles) aient été halé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été halé(e)
+que tu eusses été halé(e)
+qu’il (elle) eût été halé(e)
+que nous eussions été halé(e)s
+que vous eussiez été halé(e)s
+qu’ils (elles) eussent été halé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été halé(e)
+ayons été halé(e)s
+ayez été halé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été halé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été halé(e)(s)

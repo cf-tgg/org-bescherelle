@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe racheter
+
+* INDICATIF
+
+** Présent
+
+je rachète
+tu rachètes
+il (elle) rachète
+nous rachetons
+vous rachetez
+ils (elles) rachètent
+
+** Imparfait
+
+je rachetais
+tu rachetais
+il (elle) rachetait
+nous rachetions
+vous rachetiez
+ils (elles) rachetaient
+
+** Passé simple
+
+je rachetai
+tu rachetas
+il (elle) racheta
+nous rachetâmes
+vous rachetâtes
+ils (elles) rachetèrent
+
+** Futur simple
+
+je rachèterai
+tu rachèteras
+il (elle) rachètera
+nous rachèterons
+vous rachèterez
+ils (elles) rachèteront
+
+* CONDITIONNEL
+
+** Présent
+
+je rachèterais
+tu rachèterais
+il (elle) rachèterait
+nous rachèterions
+vous rachèteriez
+ils (elles) rachèteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rachète
+que tu rachètes
+qu’il (elle) rachète
+que nous rachetions
+que vous rachetiez
+qu’ils (elles) rachètent
+
+** Imparfait
+
+que je rachetasse
+que tu rachetasses
+qu’il (elle) rachetât
+que nous rachetassions
+que vous rachetassiez
+qu’ils (elles) rachetassent
+
+* IMPÉRATIF
+
+** Présent
+
+rachète
+rachetons
+rachetez
+
+* INFINITIF
+
+** Présent
+
+racheter
+
+* PARTICIPE
+
+** Présent
+
+rachetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai racheté
+tu as racheté
+il (elle) a racheté
+nous avons racheté
+vous avez racheté
+ils (elles) ont racheté
+
+** Plus-que-parfait
+
+j'avais racheté
+tu avais racheté
+il (elle) avait racheté
+nous avions racheté
+vous aviez racheté
+ils (elles) avaient racheté
+
+** Passé antérieur
+
+j'eus racheté
+tu eus racheté
+il (elle) eut racheté
+nous eûmes racheté
+vous eûtes racheté
+ils (elles) eurent racheté
+
+** Futur antérieur
+
+j'aurai racheté
+tu auras racheté
+il (elle) aura racheté
+nous aurons racheté
+vous aurez racheté
+ils (elles) auront racheté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais racheté
+tu aurais racheté
+il (elle) aurait racheté
+nous aurions racheté
+vous auriez racheté
+ils (elles) auraient racheté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie racheté
+que tu aies racheté
+qu’il (elle) ait racheté
+que nous ayons racheté
+que vous ayez racheté
+qu’ils (elles) aient racheté
+
+** Plus-que-parfait
+
+que j'eusse racheté
+que tu eusses racheté
+qu’il (elle) eût racheté
+que nous eussions racheté
+que vous eussiez racheté
+qu’ils (elles) eussent racheté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons racheté
+ayez racheté
+
+* INFINITIF
+
+** Passé
+
+avoir racheté
+
+* PARTICIPE
+
+** Passé
+
+ayant racheté
+racheté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis racheté(e)
+tu es racheté(e)
+il (elle) est racheté(e)
+nous sommes racheté(e)s
+vous êtes racheté(e)s
+ils (elles) sont racheté(e)s
+
+** Imparfait
+
+j'étais racheté(e)
+tu étais racheté(e)
+il (elle) était racheté(e)
+nous étions racheté(e)s
+vous étiez racheté(e)s
+ils (elles) étaient racheté(e)s
+
+** Passé simple
+
+je fus racheté(e)
+tu fus racheté(e)
+il (elle) fut racheté(e)
+nous fûmes racheté(e)s
+vous fûtes racheté(e)s
+ils (elles) furent racheté(e)s
+
+** Futur simple
+
+je serai racheté(e)
+tu seras racheté(e)
+il (elle) sera racheté(e)
+nous serons racheté(e)s
+vous serez racheté(e)s
+ils (elles) seront racheté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais racheté(e)
+tu serais racheté(e)
+il (elle) serait racheté(e)
+nous serions racheté(e)s
+vous seriez racheté(e)s
+ils (elles) seraient racheté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois racheté(e)
+que tu sois racheté(e)
+qu’il (elle) soit racheté(e)
+que nous soyons racheté(e)s
+que vous soyez racheté(e)s
+qu’ils (elles) soient racheté(e)s
+
+** Imparfait
+
+que je fusse racheté(e)
+que tu fusses racheté(e)
+qu’il (elle) fût racheté(e)
+que nous fussions racheté(e)s
+que vous fussiez racheté(e)s
+qu’ils (elles) fussent racheté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons racheté(e)s
+soyez racheté(e)s
+
+* INFINITIF
+
+** Présent
+
+être racheté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant racheté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été racheté(e)
+tu as été racheté(e)
+il (elle) a été racheté(e)
+nous avons été racheté(e)s
+vous avez été racheté(e)s
+ils (elles) ont été racheté(e)s
+
+** Plus-que-parfait
+
+j'avais été racheté(e)
+il (elle) avait été racheté(e)
+nous avions été racheté(e)s
+ils (elles) avaient été racheté(e)s
+
+** Passé antérieur
+
+j'eus été racheté(e)
+tu eus été racheté(e)
+il (elle) eut été racheté(e)
+nous eûmes été racheté(e)s
+vous eûtes été racheté(e)s
+ils (elles) eurent été racheté(e)s
+
+** Futur antérieur
+
+j'aurai été racheté(e)
+tu auras été racheté(e)
+il (elle) aura été racheté(e)
+nous aurons été racheté(e)s
+vous aurez été racheté(e)s
+ils (elles) auront été racheté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été racheté(e)
+j'aurais été racheté(e)
+il (elle) aurait été racheté(e)
+nous aurions été racheté(e)s
+vous auriez été racheté(e)s
+ils (elles) auraient été racheté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été racheté(e)
+que tu aies été racheté(e)
+qu’il (elle) ait été racheté(e)
+que nous ayons été racheté(e)s
+que vous ayez été racheté(e)s
+qu’ils (elles) aient été racheté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été racheté(e)
+que tu eusses été racheté(e)
+qu’il (elle) eût été racheté(e)
+que nous eussions été racheté(e)s
+que vous eussiez été racheté(e)s
+qu’ils (elles) eussent été racheté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été racheté(e)
+ayons été racheté(e)s
+ayez été racheté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été racheté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été racheté(e)(s)

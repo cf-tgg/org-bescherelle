@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe decider
+
+* INDICATIF
+
+** Présent
+
+je décide
+tu décides
+il (elle) décide
+nous décidons
+vous décidez
+ils (elles) décident
+
+** Imparfait
+
+je décidais
+tu décidais
+il (elle) décidait
+nous décidions
+vous décidiez
+ils (elles) décidaient
+
+** Passé simple
+
+je décidai
+tu décidas
+il (elle) décida
+nous décidâmes
+vous décidâtes
+ils (elles) décidèrent
+
+** Futur simple
+
+je déciderai
+tu décideras
+il (elle) décidera
+nous déciderons
+vous déciderez
+ils (elles) décideront
+
+* CONDITIONNEL
+
+** Présent
+
+je déciderais
+tu déciderais
+il (elle) déciderait
+nous déciderions
+vous décideriez
+ils (elles) décideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je décide
+que tu décides
+qu’il (elle) décide
+que nous décidions
+que vous décidiez
+qu’ils (elles) décident
+
+** Imparfait
+
+que je décidasse
+que tu décidasses
+qu’il (elle) décidât
+que nous décidassions
+que vous décidassiez
+qu’ils (elles) décidassent
+
+* IMPÉRATIF
+
+** Présent
+
+décide
+décidons
+décidez
+
+* INFINITIF
+
+** Présent
+
+décider
+
+* PARTICIPE
+
+** Présent
+
+décidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai décidé
+tu as décidé
+il (elle) a décidé
+nous avons décidé
+vous avez décidé
+ils (elles) ont décidé
+
+** Plus-que-parfait
+
+j'avais décidé
+tu avais décidé
+il (elle) avait décidé
+nous avions décidé
+vous aviez décidé
+ils (elles) avaient décidé
+
+** Passé antérieur
+
+j'eus décidé
+tu eus décidé
+il (elle) eut décidé
+nous eûmes décidé
+vous eûtes décidé
+ils (elles) eurent décidé
+
+** Futur antérieur
+
+j'aurai décidé
+tu auras décidé
+il (elle) aura décidé
+nous aurons décidé
+vous aurez décidé
+ils (elles) auront décidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais décidé
+tu aurais décidé
+il (elle) aurait décidé
+nous aurions décidé
+vous auriez décidé
+ils (elles) auraient décidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie décidé
+que tu aies décidé
+qu’il (elle) ait décidé
+que nous ayons décidé
+que vous ayez décidé
+qu’ils (elles) aient décidé
+
+** Plus-que-parfait
+
+que j'eusse décidé
+que tu eusses décidé
+qu’il (elle) eût décidé
+que nous eussions décidé
+que vous eussiez décidé
+qu’ils (elles) eussent décidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons décidé
+ayez décidé
+
+* INFINITIF
+
+** Passé
+
+avoir décidé
+
+* PARTICIPE
+
+** Passé
+
+ayant décidé
+décidé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis décidé(e)
+tu es décidé(e)
+il (elle) est décidé(e)
+nous sommes décidé(e)s
+vous êtes décidé(e)s
+ils (elles) sont décidé(e)s
+
+** Imparfait
+
+j'étais décidé(e)
+tu étais décidé(e)
+il (elle) était décidé(e)
+nous étions décidé(e)s
+vous étiez décidé(e)s
+ils (elles) étaient décidé(e)s
+
+** Passé simple
+
+je fus décidé(e)
+tu fus décidé(e)
+il (elle) fut décidé(e)
+nous fûmes décidé(e)s
+vous fûtes décidé(e)s
+ils (elles) furent décidé(e)s
+
+** Futur simple
+
+je serai décidé(e)
+tu seras décidé(e)
+il (elle) sera décidé(e)
+nous serons décidé(e)s
+vous serez décidé(e)s
+ils (elles) seront décidé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais décidé(e)
+tu serais décidé(e)
+il (elle) serait décidé(e)
+nous serions décidé(e)s
+vous seriez décidé(e)s
+ils (elles) seraient décidé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois décidé(e)
+que tu sois décidé(e)
+qu’il (elle) soit décidé(e)
+que nous soyons décidé(e)s
+que vous soyez décidé(e)s
+qu’ils (elles) soient décidé(e)s
+
+** Imparfait
+
+que je fusse décidé(e)
+que tu fusses décidé(e)
+qu’il (elle) fût décidé(e)
+que nous fussions décidé(e)s
+que vous fussiez décidé(e)s
+qu’ils (elles) fussent décidé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons décidé(e)s
+soyez décidé(e)s
+
+* INFINITIF
+
+** Présent
+
+être décidé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant décidé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été décidé(e)
+tu as été décidé(e)
+il (elle) a été décidé(e)
+nous avons été décidé(e)s
+vous avez été décidé(e)s
+ils (elles) ont été décidé(e)s
+
+** Plus-que-parfait
+
+j'avais été décidé(e)
+il (elle) avait été décidé(e)
+nous avions été décidé(e)s
+ils (elles) avaient été décidé(e)s
+
+** Passé antérieur
+
+j'eus été décidé(e)
+tu eus été décidé(e)
+il (elle) eut été décidé(e)
+nous eûmes été décidé(e)s
+vous eûtes été décidé(e)s
+ils (elles) eurent été décidé(e)s
+
+** Futur antérieur
+
+j'aurai été décidé(e)
+tu auras été décidé(e)
+il (elle) aura été décidé(e)
+nous aurons été décidé(e)s
+vous aurez été décidé(e)s
+ils (elles) auront été décidé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été décidé(e)
+j'aurais été décidé(e)
+il (elle) aurait été décidé(e)
+nous aurions été décidé(e)s
+vous auriez été décidé(e)s
+ils (elles) auraient été décidé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été décidé(e)
+que tu aies été décidé(e)
+qu’il (elle) ait été décidé(e)
+que nous ayons été décidé(e)s
+que vous ayez été décidé(e)s
+qu’ils (elles) aient été décidé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été décidé(e)
+que tu eusses été décidé(e)
+qu’il (elle) eût été décidé(e)
+que nous eussions été décidé(e)s
+que vous eussiez été décidé(e)s
+qu’ils (elles) eussent été décidé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été décidé(e)
+ayons été décidé(e)s
+ayez été décidé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été décidé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été décidé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe habiller
+
+* INDICATIF
+
+** Présent
+
+j'habille
+tu habilles
+il (elle) habille
+nous habillons
+vous habillez
+ils (elles) habillent
+
+** Imparfait
+
+j'habillais
+tu habillais
+il (elle) habillait
+nous habillions
+vous habilliez
+ils (elles) habillaient
+
+** Passé simple
+
+j'habillai
+tu habillas
+il (elle) habilla
+nous habillâmes
+vous habillâtes
+ils (elles) habillèrent
+
+** Futur simple
+
+j'habillerai
+tu habilleras
+il (elle) habillera
+nous habillerons
+vous habillerez
+ils (elles) habilleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'habillerais
+tu habillerais
+il (elle) habillerait
+nous habillerions
+vous habilleriez
+ils (elles) habilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'habille
+que tu habilles
+qu’il (elle) habille
+que nous habillions
+que vous habilliez
+qu’ils (elles) habillent
+
+** Imparfait
+
+que j'habillasse
+que tu habillasses
+qu’il (elle) habillât
+que nous habillassions
+que vous habillassiez
+qu’ils (elles) habillassent
+
+* IMPÉRATIF
+
+** Présent
+
+habille
+habillons
+habillez
+
+* INFINITIF
+
+** Présent
+
+habiller
+
+* PARTICIPE
+
+** Présent
+
+habillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai habillé
+tu as habillé
+il (elle) a habillé
+nous avons habillé
+vous avez habillé
+ils (elles) ont habillé
+
+** Plus-que-parfait
+
+j'avais habillé
+tu avais habillé
+il (elle) avait habillé
+nous avions habillé
+vous aviez habillé
+ils (elles) avaient habillé
+
+** Passé antérieur
+
+j'eus habillé
+tu eus habillé
+il (elle) eut habillé
+nous eûmes habillé
+vous eûtes habillé
+ils (elles) eurent habillé
+
+** Futur antérieur
+
+j'aurai habillé
+tu auras habillé
+il (elle) aura habillé
+nous aurons habillé
+vous aurez habillé
+ils (elles) auront habillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais habillé
+tu aurais habillé
+il (elle) aurait habillé
+nous aurions habillé
+vous auriez habillé
+ils (elles) auraient habillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie habillé
+que tu aies habillé
+qu’il (elle) ait habillé
+que nous ayons habillé
+que vous ayez habillé
+qu’ils (elles) aient habillé
+
+** Plus-que-parfait
+
+que j'eusse habillé
+que tu eusses habillé
+qu’il (elle) eût habillé
+que nous eussions habillé
+que vous eussiez habillé
+qu’ils (elles) eussent habillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons habillé
+ayez habillé
+
+* INFINITIF
+
+** Passé
+
+avoir habillé
+
+* PARTICIPE
+
+** Passé
+
+ayant habillé
+habillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis habillé(e)
+tu es habillé(e)
+il (elle) est habillé(e)
+nous sommes habillé(e)s
+vous êtes habillé(e)s
+ils (elles) sont habillé(e)s
+
+** Imparfait
+
+j'étais habillé(e)
+tu étais habillé(e)
+il (elle) était habillé(e)
+nous étions habillé(e)s
+vous étiez habillé(e)s
+ils (elles) étaient habillé(e)s
+
+** Passé simple
+
+je fus habillé(e)
+tu fus habillé(e)
+il (elle) fut habillé(e)
+nous fûmes habillé(e)s
+vous fûtes habillé(e)s
+ils (elles) furent habillé(e)s
+
+** Futur simple
+
+je serai habillé(e)
+tu seras habillé(e)
+il (elle) sera habillé(e)
+nous serons habillé(e)s
+vous serez habillé(e)s
+ils (elles) seront habillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais habillé(e)
+tu serais habillé(e)
+il (elle) serait habillé(e)
+nous serions habillé(e)s
+vous seriez habillé(e)s
+ils (elles) seraient habillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois habillé(e)
+que tu sois habillé(e)
+qu’il (elle) soit habillé(e)
+que nous soyons habillé(e)s
+que vous soyez habillé(e)s
+qu’ils (elles) soient habillé(e)s
+
+** Imparfait
+
+que je fusse habillé(e)
+que tu fusses habillé(e)
+qu’il (elle) fût habillé(e)
+que nous fussions habillé(e)s
+que vous fussiez habillé(e)s
+qu’ils (elles) fussent habillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons habillé(e)s
+soyez habillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être habillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant habillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été habillé(e)
+tu as été habillé(e)
+il (elle) a été habillé(e)
+nous avons été habillé(e)s
+vous avez été habillé(e)s
+ils (elles) ont été habillé(e)s
+
+** Plus-que-parfait
+
+j'avais été habillé(e)
+il (elle) avait été habillé(e)
+nous avions été habillé(e)s
+ils (elles) avaient été habillé(e)s
+
+** Passé antérieur
+
+j'eus été habillé(e)
+tu eus été habillé(e)
+il (elle) eut été habillé(e)
+nous eûmes été habillé(e)s
+vous eûtes été habillé(e)s
+ils (elles) eurent été habillé(e)s
+
+** Futur antérieur
+
+j'aurai été habillé(e)
+tu auras été habillé(e)
+il (elle) aura été habillé(e)
+nous aurons été habillé(e)s
+vous aurez été habillé(e)s
+ils (elles) auront été habillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été habillé(e)
+j'aurais été habillé(e)
+il (elle) aurait été habillé(e)
+nous aurions été habillé(e)s
+vous auriez été habillé(e)s
+ils (elles) auraient été habillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été habillé(e)
+que tu aies été habillé(e)
+qu’il (elle) ait été habillé(e)
+que nous ayons été habillé(e)s
+que vous ayez été habillé(e)s
+qu’ils (elles) aient été habillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été habillé(e)
+que tu eusses été habillé(e)
+qu’il (elle) eût été habillé(e)
+que nous eussions été habillé(e)s
+que vous eussiez été habillé(e)s
+qu’ils (elles) eussent été habillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été habillé(e)
+ayons été habillé(e)s
+ayez été habillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été habillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été habillé(e)(s)

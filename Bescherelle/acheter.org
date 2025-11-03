@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe acheter
+
+* INDICATIF
+
+** Présent
+
+j'achète
+tu achètes
+il (elle) achète
+nous achetons
+vous achetez
+ils (elles) achètent
+
+** Imparfait
+
+j'achetais
+tu achetais
+il (elle) achetait
+nous achetions
+vous achetiez
+ils (elles) achetaient
+
+** Passé simple
+
+j'achetai
+tu achetas
+il (elle) acheta
+nous achetâmes
+vous achetâtes
+ils (elles) achetèrent
+
+** Futur simple
+
+j'achèterai
+tu achèteras
+il (elle) achètera
+nous achèterons
+vous achèterez
+ils (elles) achèteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'achèterais
+tu achèterais
+il (elle) achèterait
+nous achèterions
+vous achèteriez
+ils (elles) achèteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'achète
+que tu achètes
+qu’il (elle) achète
+que nous achetions
+que vous achetiez
+qu’ils (elles) achètent
+
+** Imparfait
+
+que j'achetasse
+que tu achetasses
+qu’il (elle) achetât
+que nous achetassions
+que vous achetassiez
+qu’ils (elles) achetassent
+
+* IMPÉRATIF
+
+** Présent
+
+achète
+achetons
+achetez
+
+* INFINITIF
+
+** Présent
+
+acheter
+
+* PARTICIPE
+
+** Présent
+
+achetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai acheté
+tu as acheté
+il (elle) a acheté
+nous avons acheté
+vous avez acheté
+ils (elles) ont acheté
+
+** Plus-que-parfait
+
+j'avais acheté
+tu avais acheté
+il (elle) avait acheté
+nous avions acheté
+vous aviez acheté
+ils (elles) avaient acheté
+
+** Passé antérieur
+
+j'eus acheté
+tu eus acheté
+il (elle) eut acheté
+nous eûmes acheté
+vous eûtes acheté
+ils (elles) eurent acheté
+
+** Futur antérieur
+
+j'aurai acheté
+tu auras acheté
+il (elle) aura acheté
+nous aurons acheté
+vous aurez acheté
+ils (elles) auront acheté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais acheté
+tu aurais acheté
+il (elle) aurait acheté
+nous aurions acheté
+vous auriez acheté
+ils (elles) auraient acheté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie acheté
+que tu aies acheté
+qu’il (elle) ait acheté
+que nous ayons acheté
+que vous ayez acheté
+qu’ils (elles) aient acheté
+
+** Plus-que-parfait
+
+que j'eusse acheté
+que tu eusses acheté
+qu’il (elle) eût acheté
+que nous eussions acheté
+que vous eussiez acheté
+qu’ils (elles) eussent acheté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons acheté
+ayez acheté
+
+* INFINITIF
+
+** Passé
+
+avoir acheté
+
+* PARTICIPE
+
+** Passé
+
+ayant acheté
+acheté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis acheté(e)
+tu es acheté(e)
+il (elle) est acheté(e)
+nous sommes acheté(e)s
+vous êtes acheté(e)s
+ils (elles) sont acheté(e)s
+
+** Imparfait
+
+j'étais acheté(e)
+tu étais acheté(e)
+il (elle) était acheté(e)
+nous étions acheté(e)s
+vous étiez acheté(e)s
+ils (elles) étaient acheté(e)s
+
+** Passé simple
+
+je fus acheté(e)
+tu fus acheté(e)
+il (elle) fut acheté(e)
+nous fûmes acheté(e)s
+vous fûtes acheté(e)s
+ils (elles) furent acheté(e)s
+
+** Futur simple
+
+je serai acheté(e)
+tu seras acheté(e)
+il (elle) sera acheté(e)
+nous serons acheté(e)s
+vous serez acheté(e)s
+ils (elles) seront acheté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais acheté(e)
+tu serais acheté(e)
+il (elle) serait acheté(e)
+nous serions acheté(e)s
+vous seriez acheté(e)s
+ils (elles) seraient acheté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois acheté(e)
+que tu sois acheté(e)
+qu’il (elle) soit acheté(e)
+que nous soyons acheté(e)s
+que vous soyez acheté(e)s
+qu’ils (elles) soient acheté(e)s
+
+** Imparfait
+
+que je fusse acheté(e)
+que tu fusses acheté(e)
+qu’il (elle) fût acheté(e)
+que nous fussions acheté(e)s
+que vous fussiez acheté(e)s
+qu’ils (elles) fussent acheté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons acheté(e)s
+soyez acheté(e)s
+
+* INFINITIF
+
+** Présent
+
+être acheté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant acheté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été acheté(e)
+tu as été acheté(e)
+il (elle) a été acheté(e)
+nous avons été acheté(e)s
+vous avez été acheté(e)s
+ils (elles) ont été acheté(e)s
+
+** Plus-que-parfait
+
+j'avais été acheté(e)
+il (elle) avait été acheté(e)
+nous avions été acheté(e)s
+ils (elles) avaient été acheté(e)s
+
+** Passé antérieur
+
+j'eus été acheté(e)
+tu eus été acheté(e)
+il (elle) eut été acheté(e)
+nous eûmes été acheté(e)s
+vous eûtes été acheté(e)s
+ils (elles) eurent été acheté(e)s
+
+** Futur antérieur
+
+j'aurai été acheté(e)
+tu auras été acheté(e)
+il (elle) aura été acheté(e)
+nous aurons été acheté(e)s
+vous aurez été acheté(e)s
+ils (elles) auront été acheté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été acheté(e)
+j'aurais été acheté(e)
+il (elle) aurait été acheté(e)
+nous aurions été acheté(e)s
+vous auriez été acheté(e)s
+ils (elles) auraient été acheté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été acheté(e)
+que tu aies été acheté(e)
+qu’il (elle) ait été acheté(e)
+que nous ayons été acheté(e)s
+que vous ayez été acheté(e)s
+qu’ils (elles) aient été acheté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été acheté(e)
+que tu eusses été acheté(e)
+qu’il (elle) eût été acheté(e)
+que nous eussions été acheté(e)s
+que vous eussiez été acheté(e)s
+qu’ils (elles) eussent été acheté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été acheté(e)
+ayons été acheté(e)s
+ayez été acheté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été acheté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été acheté(e)(s)

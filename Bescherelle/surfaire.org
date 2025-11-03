@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe surfaire
+
+* INDICATIF
+
+** Présent
+
+je surfais
+tu surfais
+il (elle) surfait
+nous surfaisons
+vous surfaites
+ils (elles) surfont
+
+** Imparfait
+
+je surfaisais
+tu surfaisais
+il (elle) surfaisait
+nous surfaisions
+vous surfaisiez
+ils (elles) surfaisaient
+
+** Passé simple
+
+je surfis
+tu surfis
+il (elle) surfit
+nous surfîmes
+vous surfîtes
+ils (elles) surfirent
+
+** Futur simple
+
+je surferai
+tu surferas
+il (elle) surfera
+nous surferons
+vous surferez
+ils (elles) surferont
+
+* CONDITIONNEL
+
+** Présent
+
+je surferais
+tu surferais
+il (elle) surferait
+nous surferions
+vous surferiez
+ils (elles) surferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je surfasse
+que tu surfasses
+qu’il (elle) surfasse
+que nous surfassions
+que vous surfassiez
+qu’ils (elles) surfassent
+
+** Imparfait
+
+que je surfisse
+que tu surfisses
+qu’il (elle) surfît
+que nous surfissions
+que vous surfissiez
+qu’ils (elles) surfissent
+
+* IMPÉRATIF
+
+** Présent
+
+surfais
+surfaisons
+surfaites
+
+* INFINITIF
+
+** Présent
+
+surfaire
+
+* PARTICIPE
+
+** Présent
+
+surfaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai surfait
+tu as surfait
+il (elle) a surfait
+nous avons surfait
+vous avez surfait
+ils (elles) ont surfait
+
+** Plus-que-parfait
+
+j'avais surfait
+tu avais surfait
+il (elle) avait surfait
+nous avions surfait
+vous aviez surfait
+ils (elles) avaient surfait
+
+** Passé antérieur
+
+j'eus surfait
+tu eus surfait
+il (elle) eut surfait
+nous eûmes surfait
+vous eûtes surfait
+ils (elles) eurent surfait
+
+** Futur antérieur
+
+j'aurai surfait
+tu auras surfait
+il (elle) aura surfait
+nous aurons surfait
+vous aurez surfait
+ils (elles) auront surfait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais surfait
+tu aurais surfait
+il (elle) aurait surfait
+nous aurions surfait
+vous auriez surfait
+ils (elles) auraient surfait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie surfait
+que tu aies surfait
+qu’il (elle) ait surfait
+que nous ayons surfait
+que vous ayez surfait
+qu’ils (elles) aient surfait
+
+** Plus-que-parfait
+
+que j'eusse surfait
+que tu eusses surfait
+qu’il (elle) eût surfait
+que nous eussions surfait
+que vous eussiez surfait
+qu’ils (elles) eussent surfait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons surfait
+ayez surfait
+
+* INFINITIF
+
+** Passé
+
+avoir surfait
+
+* PARTICIPE
+
+** Passé
+
+ayant surfait
+surfait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis surfait(e)
+tu es surfait(e)
+il (elle) est surfait(e)
+nous sommes surfait(e)s
+vous êtes surfait(e)s
+ils (elles) sont surfait(e)s
+
+** Imparfait
+
+j'étais surfait(e)
+tu étais surfait(e)
+il (elle) était surfait(e)
+nous étions surfait(e)s
+vous étiez surfait(e)s
+ils (elles) étaient surfait(e)s
+
+** Passé simple
+
+je fus surfait(e)
+tu fus surfait(e)
+il (elle) fut surfait(e)
+nous fûmes surfait(e)s
+vous fûtes surfait(e)s
+ils (elles) furent surfait(e)s
+
+** Futur simple
+
+je serai surfait(e)
+tu seras surfait(e)
+il (elle) sera surfait(e)
+nous serons surfait(e)s
+vous serez surfait(e)s
+ils (elles) seront surfait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais surfait(e)
+tu serais surfait(e)
+il (elle) serait surfait(e)
+nous serions surfait(e)s
+vous seriez surfait(e)s
+ils (elles) seraient surfait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois surfait(e)
+que tu sois surfait(e)
+qu’il (elle) soit surfait(e)
+que nous soyons surfait(e)s
+que vous soyez surfait(e)s
+qu’ils (elles) soient surfait(e)s
+
+** Imparfait
+
+que je fusse surfait(e)
+que tu fusses surfait(e)
+qu’il (elle) fût surfait(e)
+que nous fussions surfait(e)s
+que vous fussiez surfait(e)s
+qu’ils (elles) fussent surfait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons surfait(e)s
+soyez surfait(e)s
+
+* INFINITIF
+
+** Présent
+
+être surfait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant surfait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été surfait(e)
+tu as été surfait(e)
+il (elle) a été surfait(e)
+nous avons été surfait(e)s
+vous avez été surfait(e)s
+ils (elles) ont été surfait(e)s
+
+** Plus-que-parfait
+
+j'avais été surfait(e)
+il (elle) avait été surfait(e)
+nous avions été surfait(e)s
+ils (elles) avaient été surfait(e)s
+
+** Passé antérieur
+
+j'eus été surfait(e)
+tu eus été surfait(e)
+il (elle) eut été surfait(e)
+nous eûmes été surfait(e)s
+vous eûtes été surfait(e)s
+ils (elles) eurent été surfait(e)s
+
+** Futur antérieur
+
+j'aurai été surfait(e)
+tu auras été surfait(e)
+il (elle) aura été surfait(e)
+nous aurons été surfait(e)s
+vous aurez été surfait(e)s
+ils (elles) auront été surfait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été surfait(e)
+j'aurais été surfait(e)
+il (elle) aurait été surfait(e)
+nous aurions été surfait(e)s
+vous auriez été surfait(e)s
+ils (elles) auraient été surfait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été surfait(e)
+que tu aies été surfait(e)
+qu’il (elle) ait été surfait(e)
+que nous ayons été surfait(e)s
+que vous ayez été surfait(e)s
+qu’ils (elles) aient été surfait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été surfait(e)
+que tu eusses été surfait(e)
+qu’il (elle) eût été surfait(e)
+que nous eussions été surfait(e)s
+que vous eussiez été surfait(e)s
+qu’ils (elles) eussent été surfait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été surfait(e)
+ayons été surfait(e)s
+ayez été surfait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été surfait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été surfait(e)(s)

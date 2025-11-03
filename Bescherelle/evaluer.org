@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe evaluer
+
+* INDICATIF
+
+** Présent
+
+j'évalue
+tu évalues
+il (elle) évalue
+nous évaluons
+vous évaluez
+ils (elles) évaluent
+
+** Imparfait
+
+j'évaluais
+tu évaluais
+il (elle) évaluait
+nous évaluions
+vous évaluiez
+ils (elles) évaluaient
+
+** Passé simple
+
+j'évaluai
+tu évaluas
+il (elle) évalua
+nous évaluâmes
+vous évaluâtes
+ils (elles) évaluèrent
+
+** Futur simple
+
+j'évaluerai
+tu évalueras
+il (elle) évaluera
+nous évaluerons
+vous évaluerez
+ils (elles) évalueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'évaluerais
+tu évaluerais
+il (elle) évaluerait
+nous évaluerions
+vous évalueriez
+ils (elles) évalueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'évalue
+que tu évalues
+qu’il (elle) évalue
+que nous évaluions
+que vous évaluiez
+qu’ils (elles) évaluent
+
+** Imparfait
+
+que j'évaluasse
+que tu évaluasses
+qu’il (elle) évaluât
+que nous évaluassions
+que vous évaluassiez
+qu’ils (elles) évaluassent
+
+* IMPÉRATIF
+
+** Présent
+
+évalue
+évaluons
+évaluez
+
+* INFINITIF
+
+** Présent
+
+évaluer
+
+* PARTICIPE
+
+** Présent
+
+évaluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai évalué
+tu as évalué
+il (elle) a évalué
+nous avons évalué
+vous avez évalué
+ils (elles) ont évalué
+
+** Plus-que-parfait
+
+j'avais évalué
+tu avais évalué
+il (elle) avait évalué
+nous avions évalué
+vous aviez évalué
+ils (elles) avaient évalué
+
+** Passé antérieur
+
+j'eus évalué
+tu eus évalué
+il (elle) eut évalué
+nous eûmes évalué
+vous eûtes évalué
+ils (elles) eurent évalué
+
+** Futur antérieur
+
+j'aurai évalué
+tu auras évalué
+il (elle) aura évalué
+nous aurons évalué
+vous aurez évalué
+ils (elles) auront évalué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais évalué
+tu aurais évalué
+il (elle) aurait évalué
+nous aurions évalué
+vous auriez évalué
+ils (elles) auraient évalué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie évalué
+que tu aies évalué
+qu’il (elle) ait évalué
+que nous ayons évalué
+que vous ayez évalué
+qu’ils (elles) aient évalué
+
+** Plus-que-parfait
+
+que j'eusse évalué
+que tu eusses évalué
+qu’il (elle) eût évalué
+que nous eussions évalué
+que vous eussiez évalué
+qu’ils (elles) eussent évalué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons évalué
+ayez évalué
+
+* INFINITIF
+
+** Passé
+
+avoir évalué
+
+* PARTICIPE
+
+** Passé
+
+ayant évalué
+évalué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis évalué(e)
+tu es évalué(e)
+il (elle) est évalué(e)
+nous sommes évalué(e)s
+vous êtes évalué(e)s
+ils (elles) sont évalué(e)s
+
+** Imparfait
+
+j'étais évalué(e)
+tu étais évalué(e)
+il (elle) était évalué(e)
+nous étions évalué(e)s
+vous étiez évalué(e)s
+ils (elles) étaient évalué(e)s
+
+** Passé simple
+
+je fus évalué(e)
+tu fus évalué(e)
+il (elle) fut évalué(e)
+nous fûmes évalué(e)s
+vous fûtes évalué(e)s
+ils (elles) furent évalué(e)s
+
+** Futur simple
+
+je serai évalué(e)
+tu seras évalué(e)
+il (elle) sera évalué(e)
+nous serons évalué(e)s
+vous serez évalué(e)s
+ils (elles) seront évalué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais évalué(e)
+tu serais évalué(e)
+il (elle) serait évalué(e)
+nous serions évalué(e)s
+vous seriez évalué(e)s
+ils (elles) seraient évalué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois évalué(e)
+que tu sois évalué(e)
+qu’il (elle) soit évalué(e)
+que nous soyons évalué(e)s
+que vous soyez évalué(e)s
+qu’ils (elles) soient évalué(e)s
+
+** Imparfait
+
+que je fusse évalué(e)
+que tu fusses évalué(e)
+qu’il (elle) fût évalué(e)
+que nous fussions évalué(e)s
+que vous fussiez évalué(e)s
+qu’ils (elles) fussent évalué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons évalué(e)s
+soyez évalué(e)s
+
+* INFINITIF
+
+** Présent
+
+être évalué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant évalué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été évalué(e)
+tu as été évalué(e)
+il (elle) a été évalué(e)
+nous avons été évalué(e)s
+vous avez été évalué(e)s
+ils (elles) ont été évalué(e)s
+
+** Plus-que-parfait
+
+j'avais été évalué(e)
+il (elle) avait été évalué(e)
+nous avions été évalué(e)s
+ils (elles) avaient été évalué(e)s
+
+** Passé antérieur
+
+j'eus été évalué(e)
+tu eus été évalué(e)
+il (elle) eut été évalué(e)
+nous eûmes été évalué(e)s
+vous eûtes été évalué(e)s
+ils (elles) eurent été évalué(e)s
+
+** Futur antérieur
+
+j'aurai été évalué(e)
+tu auras été évalué(e)
+il (elle) aura été évalué(e)
+nous aurons été évalué(e)s
+vous aurez été évalué(e)s
+ils (elles) auront été évalué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été évalué(e)
+j'aurais été évalué(e)
+il (elle) aurait été évalué(e)
+nous aurions été évalué(e)s
+vous auriez été évalué(e)s
+ils (elles) auraient été évalué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été évalué(e)
+que tu aies été évalué(e)
+qu’il (elle) ait été évalué(e)
+que nous ayons été évalué(e)s
+que vous ayez été évalué(e)s
+qu’ils (elles) aient été évalué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été évalué(e)
+que tu eusses été évalué(e)
+qu’il (elle) eût été évalué(e)
+que nous eussions été évalué(e)s
+que vous eussiez été évalué(e)s
+qu’ils (elles) eussent été évalué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été évalué(e)
+ayons été évalué(e)s
+ayez été évalué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été évalué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été évalué(e)(s)

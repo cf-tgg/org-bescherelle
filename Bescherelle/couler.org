@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe couler
+
+* INDICATIF
+
+** Présent
+
+je coule
+tu coules
+il (elle) coule
+nous coulons
+vous coulez
+ils (elles) coulent
+
+** Imparfait
+
+je coulais
+tu coulais
+il (elle) coulait
+nous coulions
+vous couliez
+ils (elles) coulaient
+
+** Passé simple
+
+je coulai
+tu coulas
+il (elle) coula
+nous coulâmes
+vous coulâtes
+ils (elles) coulèrent
+
+** Futur simple
+
+je coulerai
+tu couleras
+il (elle) coulera
+nous coulerons
+vous coulerez
+ils (elles) couleront
+
+* CONDITIONNEL
+
+** Présent
+
+je coulerais
+tu coulerais
+il (elle) coulerait
+nous coulerions
+vous couleriez
+ils (elles) couleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coule
+que tu coules
+qu’il (elle) coule
+que nous coulions
+que vous couliez
+qu’ils (elles) coulent
+
+** Imparfait
+
+que je coulasse
+que tu coulasses
+qu’il (elle) coulât
+que nous coulassions
+que vous coulassiez
+qu’ils (elles) coulassent
+
+* IMPÉRATIF
+
+** Présent
+
+coule
+coulons
+coulez
+
+* INFINITIF
+
+** Présent
+
+couler
+
+* PARTICIPE
+
+** Présent
+
+coulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coulé
+tu as coulé
+il (elle) a coulé
+nous avons coulé
+vous avez coulé
+ils (elles) ont coulé
+
+** Plus-que-parfait
+
+j'avais coulé
+tu avais coulé
+il (elle) avait coulé
+nous avions coulé
+vous aviez coulé
+ils (elles) avaient coulé
+
+** Passé antérieur
+
+j'eus coulé
+tu eus coulé
+il (elle) eut coulé
+nous eûmes coulé
+vous eûtes coulé
+ils (elles) eurent coulé
+
+** Futur antérieur
+
+j'aurai coulé
+tu auras coulé
+il (elle) aura coulé
+nous aurons coulé
+vous aurez coulé
+ils (elles) auront coulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coulé
+tu aurais coulé
+il (elle) aurait coulé
+nous aurions coulé
+vous auriez coulé
+ils (elles) auraient coulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coulé
+que tu aies coulé
+qu’il (elle) ait coulé
+que nous ayons coulé
+que vous ayez coulé
+qu’ils (elles) aient coulé
+
+** Plus-que-parfait
+
+que j'eusse coulé
+que tu eusses coulé
+qu’il (elle) eût coulé
+que nous eussions coulé
+que vous eussiez coulé
+qu’ils (elles) eussent coulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coulé
+ayez coulé
+
+* INFINITIF
+
+** Passé
+
+avoir coulé
+
+* PARTICIPE
+
+** Passé
+
+ayant coulé
+coulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coulé(e)
+tu es coulé(e)
+il (elle) est coulé(e)
+nous sommes coulé(e)s
+vous êtes coulé(e)s
+ils (elles) sont coulé(e)s
+
+** Imparfait
+
+j'étais coulé(e)
+tu étais coulé(e)
+il (elle) était coulé(e)
+nous étions coulé(e)s
+vous étiez coulé(e)s
+ils (elles) étaient coulé(e)s
+
+** Passé simple
+
+je fus coulé(e)
+tu fus coulé(e)
+il (elle) fut coulé(e)
+nous fûmes coulé(e)s
+vous fûtes coulé(e)s
+ils (elles) furent coulé(e)s
+
+** Futur simple
+
+je serai coulé(e)
+tu seras coulé(e)
+il (elle) sera coulé(e)
+nous serons coulé(e)s
+vous serez coulé(e)s
+ils (elles) seront coulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coulé(e)
+tu serais coulé(e)
+il (elle) serait coulé(e)
+nous serions coulé(e)s
+vous seriez coulé(e)s
+ils (elles) seraient coulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coulé(e)
+que tu sois coulé(e)
+qu’il (elle) soit coulé(e)
+que nous soyons coulé(e)s
+que vous soyez coulé(e)s
+qu’ils (elles) soient coulé(e)s
+
+** Imparfait
+
+que je fusse coulé(e)
+que tu fusses coulé(e)
+qu’il (elle) fût coulé(e)
+que nous fussions coulé(e)s
+que vous fussiez coulé(e)s
+qu’ils (elles) fussent coulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coulé(e)s
+soyez coulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être coulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coulé(e)
+tu as été coulé(e)
+il (elle) a été coulé(e)
+nous avons été coulé(e)s
+vous avez été coulé(e)s
+ils (elles) ont été coulé(e)s
+
+** Plus-que-parfait
+
+j'avais été coulé(e)
+il (elle) avait été coulé(e)
+nous avions été coulé(e)s
+ils (elles) avaient été coulé(e)s
+
+** Passé antérieur
+
+j'eus été coulé(e)
+tu eus été coulé(e)
+il (elle) eut été coulé(e)
+nous eûmes été coulé(e)s
+vous eûtes été coulé(e)s
+ils (elles) eurent été coulé(e)s
+
+** Futur antérieur
+
+j'aurai été coulé(e)
+tu auras été coulé(e)
+il (elle) aura été coulé(e)
+nous aurons été coulé(e)s
+vous aurez été coulé(e)s
+ils (elles) auront été coulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coulé(e)
+j'aurais été coulé(e)
+il (elle) aurait été coulé(e)
+nous aurions été coulé(e)s
+vous auriez été coulé(e)s
+ils (elles) auraient été coulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coulé(e)
+que tu aies été coulé(e)
+qu’il (elle) ait été coulé(e)
+que nous ayons été coulé(e)s
+que vous ayez été coulé(e)s
+qu’ils (elles) aient été coulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coulé(e)
+que tu eusses été coulé(e)
+qu’il (elle) eût été coulé(e)
+que nous eussions été coulé(e)s
+que vous eussiez été coulé(e)s
+qu’ils (elles) eussent été coulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coulé(e)
+ayons été coulé(e)s
+ayez été coulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coulé(e)(s)

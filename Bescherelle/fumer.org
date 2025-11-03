@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fumer
+
+* INDICATIF
+
+** Présent
+
+je fume
+tu fumes
+il (elle) fume
+nous fumons
+vous fumez
+ils (elles) fument
+
+** Imparfait
+
+je fumais
+tu fumais
+il (elle) fumait
+nous fumions
+vous fumiez
+ils (elles) fumaient
+
+** Passé simple
+
+je fumai
+tu fumas
+il (elle) fuma
+nous fumâmes
+vous fumâtes
+ils (elles) fumèrent
+
+** Futur simple
+
+je fumerai
+tu fumeras
+il (elle) fumera
+nous fumerons
+vous fumerez
+ils (elles) fumeront
+
+* CONDITIONNEL
+
+** Présent
+
+je fumerais
+tu fumerais
+il (elle) fumerait
+nous fumerions
+vous fumeriez
+ils (elles) fumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fume
+que tu fumes
+qu’il (elle) fume
+que nous fumions
+que vous fumiez
+qu’ils (elles) fument
+
+** Imparfait
+
+que je fumasse
+que tu fumasses
+qu’il (elle) fumât
+que nous fumassions
+que vous fumassiez
+qu’ils (elles) fumassent
+
+* IMPÉRATIF
+
+** Présent
+
+fume
+fumons
+fumez
+
+* INFINITIF
+
+** Présent
+
+fumer
+
+* PARTICIPE
+
+** Présent
+
+fumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fumé
+tu as fumé
+il (elle) a fumé
+nous avons fumé
+vous avez fumé
+ils (elles) ont fumé
+
+** Plus-que-parfait
+
+j'avais fumé
+tu avais fumé
+il (elle) avait fumé
+nous avions fumé
+vous aviez fumé
+ils (elles) avaient fumé
+
+** Passé antérieur
+
+j'eus fumé
+tu eus fumé
+il (elle) eut fumé
+nous eûmes fumé
+vous eûtes fumé
+ils (elles) eurent fumé
+
+** Futur antérieur
+
+j'aurai fumé
+tu auras fumé
+il (elle) aura fumé
+nous aurons fumé
+vous aurez fumé
+ils (elles) auront fumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fumé
+tu aurais fumé
+il (elle) aurait fumé
+nous aurions fumé
+vous auriez fumé
+ils (elles) auraient fumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fumé
+que tu aies fumé
+qu’il (elle) ait fumé
+que nous ayons fumé
+que vous ayez fumé
+qu’ils (elles) aient fumé
+
+** Plus-que-parfait
+
+que j'eusse fumé
+que tu eusses fumé
+qu’il (elle) eût fumé
+que nous eussions fumé
+que vous eussiez fumé
+qu’ils (elles) eussent fumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fumé
+ayez fumé
+
+* INFINITIF
+
+** Passé
+
+avoir fumé
+
+* PARTICIPE
+
+** Passé
+
+ayant fumé
+fumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fumé(e)
+tu es fumé(e)
+il (elle) est fumé(e)
+nous sommes fumé(e)s
+vous êtes fumé(e)s
+ils (elles) sont fumé(e)s
+
+** Imparfait
+
+j'étais fumé(e)
+tu étais fumé(e)
+il (elle) était fumé(e)
+nous étions fumé(e)s
+vous étiez fumé(e)s
+ils (elles) étaient fumé(e)s
+
+** Passé simple
+
+je fus fumé(e)
+tu fus fumé(e)
+il (elle) fut fumé(e)
+nous fûmes fumé(e)s
+vous fûtes fumé(e)s
+ils (elles) furent fumé(e)s
+
+** Futur simple
+
+je serai fumé(e)
+tu seras fumé(e)
+il (elle) sera fumé(e)
+nous serons fumé(e)s
+vous serez fumé(e)s
+ils (elles) seront fumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fumé(e)
+tu serais fumé(e)
+il (elle) serait fumé(e)
+nous serions fumé(e)s
+vous seriez fumé(e)s
+ils (elles) seraient fumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fumé(e)
+que tu sois fumé(e)
+qu’il (elle) soit fumé(e)
+que nous soyons fumé(e)s
+que vous soyez fumé(e)s
+qu’ils (elles) soient fumé(e)s
+
+** Imparfait
+
+que je fusse fumé(e)
+que tu fusses fumé(e)
+qu’il (elle) fût fumé(e)
+que nous fussions fumé(e)s
+que vous fussiez fumé(e)s
+qu’ils (elles) fussent fumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fumé(e)s
+soyez fumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fumé(e)
+tu as été fumé(e)
+il (elle) a été fumé(e)
+nous avons été fumé(e)s
+vous avez été fumé(e)s
+ils (elles) ont été fumé(e)s
+
+** Plus-que-parfait
+
+j'avais été fumé(e)
+il (elle) avait été fumé(e)
+nous avions été fumé(e)s
+ils (elles) avaient été fumé(e)s
+
+** Passé antérieur
+
+j'eus été fumé(e)
+tu eus été fumé(e)
+il (elle) eut été fumé(e)
+nous eûmes été fumé(e)s
+vous eûtes été fumé(e)s
+ils (elles) eurent été fumé(e)s
+
+** Futur antérieur
+
+j'aurai été fumé(e)
+tu auras été fumé(e)
+il (elle) aura été fumé(e)
+nous aurons été fumé(e)s
+vous aurez été fumé(e)s
+ils (elles) auront été fumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fumé(e)
+j'aurais été fumé(e)
+il (elle) aurait été fumé(e)
+nous aurions été fumé(e)s
+vous auriez été fumé(e)s
+ils (elles) auraient été fumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fumé(e)
+que tu aies été fumé(e)
+qu’il (elle) ait été fumé(e)
+que nous ayons été fumé(e)s
+que vous ayez été fumé(e)s
+qu’ils (elles) aient été fumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fumé(e)
+que tu eusses été fumé(e)
+qu’il (elle) eût été fumé(e)
+que nous eussions été fumé(e)s
+que vous eussiez été fumé(e)s
+qu’ils (elles) eussent été fumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fumé(e)
+ayons été fumé(e)s
+ayez été fumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fumé(e)(s)

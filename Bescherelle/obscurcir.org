@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe obscurcir
+
+* INDICATIF
+
+** Présent
+
+j'obscurcis
+tu obscurcis
+il (elle) obscurcit
+nous obscurcissons
+vous obscurcissez
+ils (elles) obscurcissent
+
+** Imparfait
+
+j'obscurcissais
+tu obscurcissais
+il (elle) obscurcissait
+nous obscurcissions
+vous obscurcissiez
+ils (elles) obscurcissaient
+
+** Passé simple
+
+j'obscurcis
+tu obscurcis
+il (elle) obscurcit
+nous obscurcîmes
+vous obscurcîtes
+ils (elles) obscurcirent
+
+** Futur simple
+
+j'obscurcirai
+tu obscurciras
+il (elle) obscurcira
+nous obscurcirons
+vous obscurcirez
+ils (elles) obscurciront
+
+* CONDITIONNEL
+
+** Présent
+
+j'obscurcirais
+tu obscurcirais
+il (elle) obscurcirait
+nous obscurcirions
+vous obscurciriez
+ils (elles) obscurciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'obscurcisse
+que tu obscurcisses
+qu’il (elle) obscurcisse
+que nous obscurcissions
+que vous obscurcissiez
+qu’ils (elles) obscurcissent
+
+** Imparfait
+
+que j'obscurcisse
+que tu obscurcisses
+qu’il (elle) obscurcît
+que nous obscurcissions
+que vous obscurcissiez
+qu’ils (elles) obscurcissent
+
+* IMPÉRATIF
+
+** Présent
+
+obscurcis
+obscurcissons
+obscurcissez
+
+* INFINITIF
+
+** Présent
+
+obscurcir
+
+* PARTICIPE
+
+** Présent
+
+obscurcissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai obscurci
+tu as obscurci
+il (elle) a obscurci
+nous avons obscurci
+vous avez obscurci
+ils (elles) ont obscurci
+
+** Plus-que-parfait
+
+j'avais obscurci
+tu avais obscurci
+il (elle) avait obscurci
+nous avions obscurci
+vous aviez obscurci
+ils (elles) avaient obscurci
+
+** Passé antérieur
+
+j'eus obscurci
+tu eus obscurci
+il (elle) eut obscurci
+nous eûmes obscurci
+vous eûtes obscurci
+ils (elles) eurent obscurci
+
+** Futur antérieur
+
+j'aurai obscurci
+tu auras obscurci
+il (elle) aura obscurci
+nous aurons obscurci
+vous aurez obscurci
+ils (elles) auront obscurci
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais obscurci
+tu aurais obscurci
+il (elle) aurait obscurci
+nous aurions obscurci
+vous auriez obscurci
+ils (elles) auraient obscurci
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie obscurci
+que tu aies obscurci
+qu’il (elle) ait obscurci
+que nous ayons obscurci
+que vous ayez obscurci
+qu’ils (elles) aient obscurci
+
+** Plus-que-parfait
+
+que j'eusse obscurci
+que tu eusses obscurci
+qu’il (elle) eût obscurci
+que nous eussions obscurci
+que vous eussiez obscurci
+qu’ils (elles) eussent obscurci
+
+* IMPÉRATIF
+
+** Passé
+
+ayons obscurci
+ayez obscurci
+
+* INFINITIF
+
+** Passé
+
+avoir obscurci
+
+* PARTICIPE
+
+** Passé
+
+ayant obscurci
+obscurci (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis obscurci(e)
+tu es obscurci(e)
+il (elle) est obscurci(e)
+nous sommes obscurci(e)s
+vous êtes obscurci(e)s
+ils (elles) sont obscurci(e)s
+
+** Imparfait
+
+j'étais obscurci(e)
+tu étais obscurci(e)
+il (elle) était obscurci(e)
+nous étions obscurci(e)s
+vous étiez obscurci(e)s
+ils (elles) étaient obscurci(e)s
+
+** Passé simple
+
+je fus obscurci(e)
+tu fus obscurci(e)
+il (elle) fut obscurci(e)
+nous fûmes obscurci(e)s
+vous fûtes obscurci(e)s
+ils (elles) furent obscurci(e)s
+
+** Futur simple
+
+je serai obscurci(e)
+tu seras obscurci(e)
+il (elle) sera obscurci(e)
+nous serons obscurci(e)s
+vous serez obscurci(e)s
+ils (elles) seront obscurci(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais obscurci(e)
+tu serais obscurci(e)
+il (elle) serait obscurci(e)
+nous serions obscurci(e)s
+vous seriez obscurci(e)s
+ils (elles) seraient obscurci(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois obscurci(e)
+que tu sois obscurci(e)
+qu’il (elle) soit obscurci(e)
+que nous soyons obscurci(e)s
+que vous soyez obscurci(e)s
+qu’ils (elles) soient obscurci(e)s
+
+** Imparfait
+
+que je fusse obscurci(e)
+que tu fusses obscurci(e)
+qu’il (elle) fût obscurci(e)
+que nous fussions obscurci(e)s
+que vous fussiez obscurci(e)s
+qu’ils (elles) fussent obscurci(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons obscurci(e)s
+soyez obscurci(e)s
+
+* INFINITIF
+
+** Présent
+
+être obscurci(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant obscurci(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été obscurci(e)
+tu as été obscurci(e)
+il (elle) a été obscurci(e)
+nous avons été obscurci(e)s
+vous avez été obscurci(e)s
+ils (elles) ont été obscurci(e)s
+
+** Plus-que-parfait
+
+j'avais été obscurci(e)
+il (elle) avait été obscurci(e)
+nous avions été obscurci(e)s
+ils (elles) avaient été obscurci(e)s
+
+** Passé antérieur
+
+j'eus été obscurci(e)
+tu eus été obscurci(e)
+il (elle) eut été obscurci(e)
+nous eûmes été obscurci(e)s
+vous eûtes été obscurci(e)s
+ils (elles) eurent été obscurci(e)s
+
+** Futur antérieur
+
+j'aurai été obscurci(e)
+tu auras été obscurci(e)
+il (elle) aura été obscurci(e)
+nous aurons été obscurci(e)s
+vous aurez été obscurci(e)s
+ils (elles) auront été obscurci(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été obscurci(e)
+j'aurais été obscurci(e)
+il (elle) aurait été obscurci(e)
+nous aurions été obscurci(e)s
+vous auriez été obscurci(e)s
+ils (elles) auraient été obscurci(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été obscurci(e)
+que tu aies été obscurci(e)
+qu’il (elle) ait été obscurci(e)
+que nous ayons été obscurci(e)s
+que vous ayez été obscurci(e)s
+qu’ils (elles) aient été obscurci(e)s
+
+** Plus-que-parfait
+
+que j'eusse été obscurci(e)
+que tu eusses été obscurci(e)
+qu’il (elle) eût été obscurci(e)
+que nous eussions été obscurci(e)s
+que vous eussiez été obscurci(e)s
+qu’ils (elles) eussent été obscurci(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été obscurci(e)
+ayons été obscurci(e)s
+ayez été obscurci(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été obscurci(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été obscurci(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe contribuer
+
+* INDICATIF
+
+** Présent
+
+je contribue
+tu contribues
+il (elle) contribue
+nous contribuons
+vous contribuez
+ils (elles) contribuent
+
+** Imparfait
+
+je contribuais
+tu contribuais
+il (elle) contribuait
+nous contribuions
+vous contribuiez
+ils (elles) contribuaient
+
+** Passé simple
+
+je contribuai
+tu contribuas
+il (elle) contribua
+nous contribuâmes
+vous contribuâtes
+ils (elles) contribuèrent
+
+** Futur simple
+
+je contribuerai
+tu contribueras
+il (elle) contribuera
+nous contribuerons
+vous contribuerez
+ils (elles) contribueront
+
+* CONDITIONNEL
+
+** Présent
+
+je contribuerais
+tu contribuerais
+il (elle) contribuerait
+nous contribuerions
+vous contribueriez
+ils (elles) contribueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contribue
+que tu contribues
+qu’il (elle) contribue
+que nous contribuions
+que vous contribuiez
+qu’ils (elles) contribuent
+
+** Imparfait
+
+que je contribuasse
+que tu contribuasses
+qu’il (elle) contribuât
+que nous contribuassions
+que vous contribuassiez
+qu’ils (elles) contribuassent
+
+* IMPÉRATIF
+
+** Présent
+
+contribue
+contribuons
+contribuez
+
+* INFINITIF
+
+** Présent
+
+contribuer
+
+* PARTICIPE
+
+** Présent
+
+contribuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contribué
+tu as contribué
+il (elle) a contribué
+nous avons contribué
+vous avez contribué
+ils (elles) ont contribué
+
+** Plus-que-parfait
+
+j'avais contribué
+tu avais contribué
+il (elle) avait contribué
+nous avions contribué
+vous aviez contribué
+ils (elles) avaient contribué
+
+** Passé antérieur
+
+j'eus contribué
+tu eus contribué
+il (elle) eut contribué
+nous eûmes contribué
+vous eûtes contribué
+ils (elles) eurent contribué
+
+** Futur antérieur
+
+j'aurai contribué
+tu auras contribué
+il (elle) aura contribué
+nous aurons contribué
+vous aurez contribué
+ils (elles) auront contribué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contribué
+tu aurais contribué
+il (elle) aurait contribué
+nous aurions contribué
+vous auriez contribué
+ils (elles) auraient contribué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contribué
+que tu aies contribué
+qu’il (elle) ait contribué
+que nous ayons contribué
+que vous ayez contribué
+qu’ils (elles) aient contribué
+
+** Plus-que-parfait
+
+que j'eusse contribué
+que tu eusses contribué
+qu’il (elle) eût contribué
+que nous eussions contribué
+que vous eussiez contribué
+qu’ils (elles) eussent contribué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contribué
+ayez contribué
+
+* INFINITIF
+
+** Passé
+
+avoir contribué
+
+* PARTICIPE
+
+** Passé
+
+ayant contribué
+contribué (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe offenser
+
+* INDICATIF
+
+** Présent
+
+j'offense
+tu offenses
+il (elle) offense
+nous offensons
+vous offensez
+ils (elles) offensent
+
+** Imparfait
+
+j'offensais
+tu offensais
+il (elle) offensait
+nous offensions
+vous offensiez
+ils (elles) offensaient
+
+** Passé simple
+
+j'offensai
+tu offensas
+il (elle) offensa
+nous offensâmes
+vous offensâtes
+ils (elles) offensèrent
+
+** Futur simple
+
+j'offenserai
+tu offenseras
+il (elle) offensera
+nous offenserons
+vous offenserez
+ils (elles) offenseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'offenserais
+tu offenserais
+il (elle) offenserait
+nous offenserions
+vous offenseriez
+ils (elles) offenseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'offense
+que tu offenses
+qu’il (elle) offense
+que nous offensions
+que vous offensiez
+qu’ils (elles) offensent
+
+** Imparfait
+
+que j'offensasse
+que tu offensasses
+qu’il (elle) offensât
+que nous offensassions
+que vous offensassiez
+qu’ils (elles) offensassent
+
+* IMPÉRATIF
+
+** Présent
+
+offense
+offensons
+offensez
+
+* INFINITIF
+
+** Présent
+
+offenser
+
+* PARTICIPE
+
+** Présent
+
+offensant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai offensé
+tu as offensé
+il (elle) a offensé
+nous avons offensé
+vous avez offensé
+ils (elles) ont offensé
+
+** Plus-que-parfait
+
+j'avais offensé
+tu avais offensé
+il (elle) avait offensé
+nous avions offensé
+vous aviez offensé
+ils (elles) avaient offensé
+
+** Passé antérieur
+
+j'eus offensé
+tu eus offensé
+il (elle) eut offensé
+nous eûmes offensé
+vous eûtes offensé
+ils (elles) eurent offensé
+
+** Futur antérieur
+
+j'aurai offensé
+tu auras offensé
+il (elle) aura offensé
+nous aurons offensé
+vous aurez offensé
+ils (elles) auront offensé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais offensé
+tu aurais offensé
+il (elle) aurait offensé
+nous aurions offensé
+vous auriez offensé
+ils (elles) auraient offensé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie offensé
+que tu aies offensé
+qu’il (elle) ait offensé
+que nous ayons offensé
+que vous ayez offensé
+qu’ils (elles) aient offensé
+
+** Plus-que-parfait
+
+que j'eusse offensé
+que tu eusses offensé
+qu’il (elle) eût offensé
+que nous eussions offensé
+que vous eussiez offensé
+qu’ils (elles) eussent offensé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons offensé
+ayez offensé
+
+* INFINITIF
+
+** Passé
+
+avoir offensé
+
+* PARTICIPE
+
+** Passé
+
+ayant offensé
+offensé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis offensé(e)
+tu es offensé(e)
+il (elle) est offensé(e)
+nous sommes offensé(e)s
+vous êtes offensé(e)s
+ils (elles) sont offensé(e)s
+
+** Imparfait
+
+j'étais offensé(e)
+tu étais offensé(e)
+il (elle) était offensé(e)
+nous étions offensé(e)s
+vous étiez offensé(e)s
+ils (elles) étaient offensé(e)s
+
+** Passé simple
+
+je fus offensé(e)
+tu fus offensé(e)
+il (elle) fut offensé(e)
+nous fûmes offensé(e)s
+vous fûtes offensé(e)s
+ils (elles) furent offensé(e)s
+
+** Futur simple
+
+je serai offensé(e)
+tu seras offensé(e)
+il (elle) sera offensé(e)
+nous serons offensé(e)s
+vous serez offensé(e)s
+ils (elles) seront offensé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais offensé(e)
+tu serais offensé(e)
+il (elle) serait offensé(e)
+nous serions offensé(e)s
+vous seriez offensé(e)s
+ils (elles) seraient offensé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois offensé(e)
+que tu sois offensé(e)
+qu’il (elle) soit offensé(e)
+que nous soyons offensé(e)s
+que vous soyez offensé(e)s
+qu’ils (elles) soient offensé(e)s
+
+** Imparfait
+
+que je fusse offensé(e)
+que tu fusses offensé(e)
+qu’il (elle) fût offensé(e)
+que nous fussions offensé(e)s
+que vous fussiez offensé(e)s
+qu’ils (elles) fussent offensé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons offensé(e)s
+soyez offensé(e)s
+
+* INFINITIF
+
+** Présent
+
+être offensé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant offensé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été offensé(e)
+tu as été offensé(e)
+il (elle) a été offensé(e)
+nous avons été offensé(e)s
+vous avez été offensé(e)s
+ils (elles) ont été offensé(e)s
+
+** Plus-que-parfait
+
+j'avais été offensé(e)
+il (elle) avait été offensé(e)
+nous avions été offensé(e)s
+ils (elles) avaient été offensé(e)s
+
+** Passé antérieur
+
+j'eus été offensé(e)
+tu eus été offensé(e)
+il (elle) eut été offensé(e)
+nous eûmes été offensé(e)s
+vous eûtes été offensé(e)s
+ils (elles) eurent été offensé(e)s
+
+** Futur antérieur
+
+j'aurai été offensé(e)
+tu auras été offensé(e)
+il (elle) aura été offensé(e)
+nous aurons été offensé(e)s
+vous aurez été offensé(e)s
+ils (elles) auront été offensé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été offensé(e)
+j'aurais été offensé(e)
+il (elle) aurait été offensé(e)
+nous aurions été offensé(e)s
+vous auriez été offensé(e)s
+ils (elles) auraient été offensé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été offensé(e)
+que tu aies été offensé(e)
+qu’il (elle) ait été offensé(e)
+que nous ayons été offensé(e)s
+que vous ayez été offensé(e)s
+qu’ils (elles) aient été offensé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été offensé(e)
+que tu eusses été offensé(e)
+qu’il (elle) eût été offensé(e)
+que nous eussions été offensé(e)s
+que vous eussiez été offensé(e)s
+qu’ils (elles) eussent été offensé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été offensé(e)
+ayons été offensé(e)s
+ayez été offensé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été offensé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été offensé(e)(s)

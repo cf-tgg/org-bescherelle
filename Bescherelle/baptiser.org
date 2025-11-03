@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe baptiser
+
+* INDICATIF
+
+** Présent
+
+je baptise
+tu baptises
+il (elle) baptise
+nous baptisons
+vous baptisez
+ils (elles) baptisent
+
+** Imparfait
+
+je baptisais
+tu baptisais
+il (elle) baptisait
+nous baptisions
+vous baptisiez
+ils (elles) baptisaient
+
+** Passé simple
+
+je baptisai
+tu baptisas
+il (elle) baptisa
+nous baptisâmes
+vous baptisâtes
+ils (elles) baptisèrent
+
+** Futur simple
+
+je baptiserai
+tu baptiseras
+il (elle) baptisera
+nous baptiserons
+vous baptiserez
+ils (elles) baptiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je baptiserais
+tu baptiserais
+il (elle) baptiserait
+nous baptiserions
+vous baptiseriez
+ils (elles) baptiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je baptise
+que tu baptises
+qu’il (elle) baptise
+que nous baptisions
+que vous baptisiez
+qu’ils (elles) baptisent
+
+** Imparfait
+
+que je baptisasse
+que tu baptisasses
+qu’il (elle) baptisât
+que nous baptisassions
+que vous baptisassiez
+qu’ils (elles) baptisassent
+
+* IMPÉRATIF
+
+** Présent
+
+baptise
+baptisons
+baptisez
+
+* INFINITIF
+
+** Présent
+
+baptiser
+
+* PARTICIPE
+
+** Présent
+
+baptisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai baptisé
+tu as baptisé
+il (elle) a baptisé
+nous avons baptisé
+vous avez baptisé
+ils (elles) ont baptisé
+
+** Plus-que-parfait
+
+j'avais baptisé
+tu avais baptisé
+il (elle) avait baptisé
+nous avions baptisé
+vous aviez baptisé
+ils (elles) avaient baptisé
+
+** Passé antérieur
+
+j'eus baptisé
+tu eus baptisé
+il (elle) eut baptisé
+nous eûmes baptisé
+vous eûtes baptisé
+ils (elles) eurent baptisé
+
+** Futur antérieur
+
+j'aurai baptisé
+tu auras baptisé
+il (elle) aura baptisé
+nous aurons baptisé
+vous aurez baptisé
+ils (elles) auront baptisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais baptisé
+tu aurais baptisé
+il (elle) aurait baptisé
+nous aurions baptisé
+vous auriez baptisé
+ils (elles) auraient baptisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie baptisé
+que tu aies baptisé
+qu’il (elle) ait baptisé
+que nous ayons baptisé
+que vous ayez baptisé
+qu’ils (elles) aient baptisé
+
+** Plus-que-parfait
+
+que j'eusse baptisé
+que tu eusses baptisé
+qu’il (elle) eût baptisé
+que nous eussions baptisé
+que vous eussiez baptisé
+qu’ils (elles) eussent baptisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons baptisé
+ayez baptisé
+
+* INFINITIF
+
+** Passé
+
+avoir baptisé
+
+* PARTICIPE
+
+** Passé
+
+ayant baptisé
+baptisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis baptisé(e)
+tu es baptisé(e)
+il (elle) est baptisé(e)
+nous sommes baptisé(e)s
+vous êtes baptisé(e)s
+ils (elles) sont baptisé(e)s
+
+** Imparfait
+
+j'étais baptisé(e)
+tu étais baptisé(e)
+il (elle) était baptisé(e)
+nous étions baptisé(e)s
+vous étiez baptisé(e)s
+ils (elles) étaient baptisé(e)s
+
+** Passé simple
+
+je fus baptisé(e)
+tu fus baptisé(e)
+il (elle) fut baptisé(e)
+nous fûmes baptisé(e)s
+vous fûtes baptisé(e)s
+ils (elles) furent baptisé(e)s
+
+** Futur simple
+
+je serai baptisé(e)
+tu seras baptisé(e)
+il (elle) sera baptisé(e)
+nous serons baptisé(e)s
+vous serez baptisé(e)s
+ils (elles) seront baptisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais baptisé(e)
+tu serais baptisé(e)
+il (elle) serait baptisé(e)
+nous serions baptisé(e)s
+vous seriez baptisé(e)s
+ils (elles) seraient baptisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois baptisé(e)
+que tu sois baptisé(e)
+qu’il (elle) soit baptisé(e)
+que nous soyons baptisé(e)s
+que vous soyez baptisé(e)s
+qu’ils (elles) soient baptisé(e)s
+
+** Imparfait
+
+que je fusse baptisé(e)
+que tu fusses baptisé(e)
+qu’il (elle) fût baptisé(e)
+que nous fussions baptisé(e)s
+que vous fussiez baptisé(e)s
+qu’ils (elles) fussent baptisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons baptisé(e)s
+soyez baptisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être baptisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant baptisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été baptisé(e)
+tu as été baptisé(e)
+il (elle) a été baptisé(e)
+nous avons été baptisé(e)s
+vous avez été baptisé(e)s
+ils (elles) ont été baptisé(e)s
+
+** Plus-que-parfait
+
+j'avais été baptisé(e)
+il (elle) avait été baptisé(e)
+nous avions été baptisé(e)s
+ils (elles) avaient été baptisé(e)s
+
+** Passé antérieur
+
+j'eus été baptisé(e)
+tu eus été baptisé(e)
+il (elle) eut été baptisé(e)
+nous eûmes été baptisé(e)s
+vous eûtes été baptisé(e)s
+ils (elles) eurent été baptisé(e)s
+
+** Futur antérieur
+
+j'aurai été baptisé(e)
+tu auras été baptisé(e)
+il (elle) aura été baptisé(e)
+nous aurons été baptisé(e)s
+vous aurez été baptisé(e)s
+ils (elles) auront été baptisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été baptisé(e)
+j'aurais été baptisé(e)
+il (elle) aurait été baptisé(e)
+nous aurions été baptisé(e)s
+vous auriez été baptisé(e)s
+ils (elles) auraient été baptisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été baptisé(e)
+que tu aies été baptisé(e)
+qu’il (elle) ait été baptisé(e)
+que nous ayons été baptisé(e)s
+que vous ayez été baptisé(e)s
+qu’ils (elles) aient été baptisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été baptisé(e)
+que tu eusses été baptisé(e)
+qu’il (elle) eût été baptisé(e)
+que nous eussions été baptisé(e)s
+que vous eussiez été baptisé(e)s
+qu’ils (elles) eussent été baptisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été baptisé(e)
+ayons été baptisé(e)s
+ayez été baptisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été baptisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été baptisé(e)(s)

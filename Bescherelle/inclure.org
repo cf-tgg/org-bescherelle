@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inclure
+
+* INDICATIF
+
+** Présent
+
+j'inclus
+tu inclus
+il (elle) inclut
+nous incluons
+vous incluez
+ils (elles) incluent
+
+** Imparfait
+
+j'incluais
+tu incluais
+il (elle) incluait
+nous incluions
+vous incluiez
+ils (elles) incluaient
+
+** Passé simple
+
+j'inclus
+tu inclus
+il (elle) inclut
+nous inclûmes
+vous inclûtes
+ils (elles) inclurent
+
+** Futur simple
+
+j'inclurai
+tu incluras
+il (elle) inclura
+nous inclurons
+vous inclurez
+ils (elles) incluront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inclurais
+tu inclurais
+il (elle) inclurait
+nous inclurions
+vous incluriez
+ils (elles) incluraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inclue
+que tu inclues
+qu’il (elle) inclue
+que nous incluions
+que vous incluiez
+qu’ils (elles) incluent
+
+** Imparfait
+
+que j'inclusse
+que tu inclusses
+qu’il (elle) inclût
+que nous inclussions
+que vous inclussiez
+qu’ils (elles) inclussent
+
+* IMPÉRATIF
+
+** Présent
+
+inclus
+incluons
+incluez
+
+* INFINITIF
+
+** Présent
+
+inclure
+
+* PARTICIPE
+
+** Présent
+
+incluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inclus
+tu as inclus
+il (elle) a inclus
+nous avons inclus
+vous avez inclus
+ils (elles) ont inclus
+
+** Plus-que-parfait
+
+j'avais inclus
+tu avais inclus
+il (elle) avait inclus
+nous avions inclus
+vous aviez inclus
+ils (elles) avaient inclus
+
+** Passé antérieur
+
+j'eus inclus
+tu eus inclus
+il (elle) eut inclus
+nous eûmes inclus
+vous eûtes inclus
+ils (elles) eurent inclus
+
+** Futur antérieur
+
+j'aurai inclus
+tu auras inclus
+il (elle) aura inclus
+nous aurons inclus
+vous aurez inclus
+ils (elles) auront inclus
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inclus
+tu aurais inclus
+il (elle) aurait inclus
+nous aurions inclus
+vous auriez inclus
+ils (elles) auraient inclus
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inclus
+que tu aies inclus
+qu’il (elle) ait inclus
+que nous ayons inclus
+que vous ayez inclus
+qu’ils (elles) aient inclus
+
+** Plus-que-parfait
+
+que j'eusse inclus
+que tu eusses inclus
+qu’il (elle) eût inclus
+que nous eussions inclus
+que vous eussiez inclus
+qu’ils (elles) eussent inclus
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inclus
+ayez inclus
+
+* INFINITIF
+
+** Passé
+
+avoir inclus
+
+* PARTICIPE
+
+** Passé
+
+ayant inclus
+inclus (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis inclus(e)
+tu es inclus(e)
+il (elle) est inclus(e)
+nous sommes inclus(es)
+vous êtes inclus(es)
+ils (elles) sont inclus(es)
+
+** Imparfait
+
+j'étais inclus(e)
+tu étais inclus(e)
+il (elle) était inclus(e)
+nous étions inclus(es)
+vous étiez inclus(es)
+ils (elles) étaient inclus(es)
+
+** Passé simple
+
+je fus inclus(e)
+tu fus inclus(e)
+il (elle) fut inclus(e)
+nous fûmes inclus(es)
+vous fûtes inclus(es)
+ils (elles) furent inclus(es)
+
+** Futur simple
+
+je serai inclus(e)
+tu seras inclus(e)
+il (elle) sera inclus(e)
+nous serons inclus(es)
+vous serez inclus(es)
+ils (elles) seront inclus(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inclus(e)
+tu serais inclus(e)
+il (elle) serait inclus(e)
+nous serions inclus(es)
+vous seriez inclus(es)
+ils (elles) seraient inclus(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inclus(e)
+que tu sois inclus(e)
+qu’il (elle) soit inclus(e)
+que nous soyons inclus(es)
+que vous soyez inclus(es)
+qu’ils (elles) soient inclus(es)
+
+** Imparfait
+
+que je fusse inclus(e)
+que tu fusses inclus(e)
+qu’il (elle) fût inclus(e)
+que nous fussions inclus(es)
+que vous fussiez inclus(es)
+qu’ils (elles) fussent inclus(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inclus(es)
+soyez inclus(es)
+
+* INFINITIF
+
+** Présent
+
+être inclus (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant inclus (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inclus(e)
+tu as été inclus(e)
+il (elle) a été inclus(e)
+nous avons été inclus(es)
+vous avez été inclus(es)
+ils (elles) ont été inclus(es)
+
+** Plus-que-parfait
+
+j'avais été inclus(e)
+il (elle) avait été inclus(e)
+nous avions été inclus(es)
+ils (elles) avaient été inclus(es)
+
+** Passé antérieur
+
+j'eus été inclus(e)
+tu eus été inclus(e)
+il (elle) eut été inclus(e)
+nous eûmes été inclus(es)
+vous eûtes été inclus(es)
+ils (elles) eurent été inclus(es)
+
+** Futur antérieur
+
+j'aurai été inclus(e)
+tu auras été inclus(e)
+il (elle) aura été inclus(e)
+nous aurons été inclus(es)
+vous aurez été inclus(es)
+ils (elles) auront été inclus(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inclus(e)
+j'aurais été inclus(e)
+il (elle) aurait été inclus(e)
+nous aurions été inclus(es)
+vous auriez été inclus(es)
+ils (elles) auraient été inclus(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inclus(e)
+que tu aies été inclus(e)
+qu’il (elle) ait été inclus(e)
+que nous ayons été inclus(es)
+que vous ayez été inclus(es)
+qu’ils (elles) aient été inclus(es)
+
+** Plus-que-parfait
+
+que j'eusse été inclus(e)
+que tu eusses été inclus(e)
+qu’il (elle) eût été inclus(e)
+que nous eussions été inclus(es)
+que vous eussiez été inclus(es)
+qu’ils (elles) eussent été inclus(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inclus(e)
+ayons été inclus(es)
+ayez été inclus(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été inclus (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inclus (s, se, s, ses)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe circoncire
+
+* INDICATIF
+
+** Présent
+
+je circoncis
+tu circoncis
+il (elle) circoncit
+nous circoncisons
+vous circoncisez
+ils (elles) circoncisent
+
+** Imparfait
+
+je circoncisais
+tu circoncisais
+il (elle) circoncisait
+nous circoncisions
+vous circoncisiez
+ils (elles) circoncisaient
+
+** Passé simple
+
+je circoncis
+tu circoncis
+il (elle) circoncit
+nous circoncîmes
+vous circoncîtes
+ils (elles) circoncirent
+
+** Futur simple
+
+je circoncirai
+tu circonciras
+il (elle) circoncira
+nous circoncirons
+vous circoncirez
+ils (elles) circonciront
+
+* CONDITIONNEL
+
+** Présent
+
+je circoncirais
+tu circoncirais
+il (elle) circoncirait
+nous circoncirions
+vous circonciriez
+ils (elles) circonciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je circoncise
+que tu circoncises
+qu’il (elle) circoncise
+que nous circoncisions
+que vous circoncisiez
+qu’ils (elles) circoncisent
+
+** Imparfait
+
+que je circoncisse
+que tu circoncisses
+qu’il (elle) circoncît
+que nous circoncissions
+que vous circoncissiez
+qu’ils (elles) circoncissent
+
+* IMPÉRATIF
+
+** Présent
+
+circoncis
+circoncisons
+circoncisez
+
+* INFINITIF
+
+** Présent
+
+circoncire
+
+* PARTICIPE
+
+** Présent
+
+circoncisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai circoncis
+tu as circoncis
+il (elle) a circoncis
+nous avons circoncis
+vous avez circoncis
+ils (elles) ont circoncis
+
+** Plus-que-parfait
+
+j'avais circoncis
+tu avais circoncis
+il (elle) avait circoncis
+nous avions circoncis
+vous aviez circoncis
+ils (elles) avaient circoncis
+
+** Passé antérieur
+
+j'eus circoncis
+tu eus circoncis
+il (elle) eut circoncis
+nous eûmes circoncis
+vous eûtes circoncis
+ils (elles) eurent circoncis
+
+** Futur antérieur
+
+j'aurai circoncis
+tu auras circoncis
+il (elle) aura circoncis
+nous aurons circoncis
+vous aurez circoncis
+ils (elles) auront circoncis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais circoncis
+tu aurais circoncis
+il (elle) aurait circoncis
+nous aurions circoncis
+vous auriez circoncis
+ils (elles) auraient circoncis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie circoncis
+que tu aies circoncis
+qu’il (elle) ait circoncis
+que nous ayons circoncis
+que vous ayez circoncis
+qu’ils (elles) aient circoncis
+
+** Plus-que-parfait
+
+que j'eusse circoncis
+que tu eusses circoncis
+qu’il (elle) eût circoncis
+que nous eussions circoncis
+que vous eussiez circoncis
+qu’ils (elles) eussent circoncis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons circoncis
+ayez circoncis
+
+* INFINITIF
+
+** Passé
+
+avoir circoncis
+
+* PARTICIPE
+
+** Passé
+
+ayant circoncis
+circoncis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis circoncis(e)
+tu es circoncis(e)
+il (elle) est circoncis(e)
+nous sommes circoncis(es)
+vous êtes circoncis(es)
+ils (elles) sont circoncis(es)
+
+** Imparfait
+
+j'étais circoncis(e)
+tu étais circoncis(e)
+il (elle) était circoncis(e)
+nous étions circoncis(es)
+vous étiez circoncis(es)
+ils (elles) étaient circoncis(es)
+
+** Passé simple
+
+je fus circoncis(e)
+tu fus circoncis(e)
+il (elle) fut circoncis(e)
+nous fûmes circoncis(es)
+vous fûtes circoncis(es)
+ils (elles) furent circoncis(es)
+
+** Futur simple
+
+je serai circoncis(e)
+tu seras circoncis(e)
+il (elle) sera circoncis(e)
+nous serons circoncis(es)
+vous serez circoncis(es)
+ils (elles) seront circoncis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais circoncis(e)
+tu serais circoncis(e)
+il (elle) serait circoncis(e)
+nous serions circoncis(es)
+vous seriez circoncis(es)
+ils (elles) seraient circoncis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois circoncis(e)
+que tu sois circoncis(e)
+qu’il (elle) soit circoncis(e)
+que nous soyons circoncis(es)
+que vous soyez circoncis(es)
+qu’ils (elles) soient circoncis(es)
+
+** Imparfait
+
+que je fusse circoncis(e)
+que tu fusses circoncis(e)
+qu’il (elle) fût circoncis(e)
+que nous fussions circoncis(es)
+que vous fussiez circoncis(es)
+qu’ils (elles) fussent circoncis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons circoncis(es)
+soyez circoncis(es)
+
+* INFINITIF
+
+** Présent
+
+être circoncis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant circoncis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été circoncis(e)
+tu as été circoncis(e)
+il (elle) a été circoncis(e)
+nous avons été circoncis(es)
+vous avez été circoncis(es)
+ils (elles) ont été circoncis(es)
+
+** Plus-que-parfait
+
+j'avais été circoncis(e)
+il (elle) avait été circoncis(e)
+nous avions été circoncis(es)
+ils (elles) avaient été circoncis(es)
+
+** Passé antérieur
+
+j'eus été circoncis(e)
+tu eus été circoncis(e)
+il (elle) eut été circoncis(e)
+nous eûmes été circoncis(es)
+vous eûtes été circoncis(es)
+ils (elles) eurent été circoncis(es)
+
+** Futur antérieur
+
+j'aurai été circoncis(e)
+tu auras été circoncis(e)
+il (elle) aura été circoncis(e)
+nous aurons été circoncis(es)
+vous aurez été circoncis(es)
+ils (elles) auront été circoncis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été circoncis(e)
+j'aurais été circoncis(e)
+il (elle) aurait été circoncis(e)
+nous aurions été circoncis(es)
+vous auriez été circoncis(es)
+ils (elles) auraient été circoncis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été circoncis(e)
+que tu aies été circoncis(e)
+qu’il (elle) ait été circoncis(e)
+que nous ayons été circoncis(es)
+que vous ayez été circoncis(es)
+qu’ils (elles) aient été circoncis(es)
+
+** Plus-que-parfait
+
+que j'eusse été circoncis(e)
+que tu eusses été circoncis(e)
+qu’il (elle) eût été circoncis(e)
+que nous eussions été circoncis(es)
+que vous eussiez été circoncis(es)
+qu’ils (elles) eussent été circoncis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été circoncis(e)
+ayons été circoncis(es)
+ayez été circoncis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été circoncis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été circoncis (s, se, s, ses)

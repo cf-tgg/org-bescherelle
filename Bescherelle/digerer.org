@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe digerer
+
+* INDICATIF
+
+** Présent
+
+je digère
+tu digères
+il (elle) digère
+nous digérons
+vous digérez
+ils (elles) digèrent
+
+** Imparfait
+
+je digérais
+tu digérais
+il (elle) digérait
+nous digérions
+vous digériez
+ils (elles) digéraient
+
+** Passé simple
+
+je digérai
+tu digéras
+il (elle) digéra
+nous digérâmes
+vous digérâtes
+ils (elles) digérèrent
+
+** Futur simple
+
+je digérerai
+tu digéreras
+il (elle) digérera
+nous digérerons
+vous digérerez
+ils (elles) digéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je digérerais
+tu digérerais
+il (elle) digérerait
+nous digérerions
+vous digéreriez
+ils (elles) digéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je digère
+que tu digères
+qu’il (elle) digère
+que nous digérions
+que vous digériez
+qu’ils (elles) digèrent
+
+** Imparfait
+
+que je digérasse
+que tu digérasses
+qu’il (elle) digérât
+que nous digérassions
+que vous digérassiez
+qu’ils (elles) digérassent
+
+* IMPÉRATIF
+
+** Présent
+
+digère
+digérons
+digérez
+
+* INFINITIF
+
+** Présent
+
+digérer
+
+* PARTICIPE
+
+** Présent
+
+digérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai digéré
+tu as digéré
+il (elle) a digéré
+nous avons digéré
+vous avez digéré
+ils (elles) ont digéré
+
+** Plus-que-parfait
+
+j'avais digéré
+tu avais digéré
+il (elle) avait digéré
+nous avions digéré
+vous aviez digéré
+ils (elles) avaient digéré
+
+** Passé antérieur
+
+j'eus digéré
+tu eus digéré
+il (elle) eut digéré
+nous eûmes digéré
+vous eûtes digéré
+ils (elles) eurent digéré
+
+** Futur antérieur
+
+j'aurai digéré
+tu auras digéré
+il (elle) aura digéré
+nous aurons digéré
+vous aurez digéré
+ils (elles) auront digéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais digéré
+tu aurais digéré
+il (elle) aurait digéré
+nous aurions digéré
+vous auriez digéré
+ils (elles) auraient digéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie digéré
+que tu aies digéré
+qu’il (elle) ait digéré
+que nous ayons digéré
+que vous ayez digéré
+qu’ils (elles) aient digéré
+
+** Plus-que-parfait
+
+que j'eusse digéré
+que tu eusses digéré
+qu’il (elle) eût digéré
+que nous eussions digéré
+que vous eussiez digéré
+qu’ils (elles) eussent digéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons digéré
+ayez digéré
+
+* INFINITIF
+
+** Passé
+
+avoir digéré
+
+* PARTICIPE
+
+** Passé
+
+ayant digéré
+digéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis digéré(e)
+tu es digéré(e)
+il (elle) est digéré(e)
+nous sommes digéré(e)s
+vous êtes digéré(e)s
+ils (elles) sont digéré(e)s
+
+** Imparfait
+
+j'étais digéré(e)
+tu étais digéré(e)
+il (elle) était digéré(e)
+nous étions digéré(e)s
+vous étiez digéré(e)s
+ils (elles) étaient digéré(e)s
+
+** Passé simple
+
+je fus digéré(e)
+tu fus digéré(e)
+il (elle) fut digéré(e)
+nous fûmes digéré(e)s
+vous fûtes digéré(e)s
+ils (elles) furent digéré(e)s
+
+** Futur simple
+
+je serai digéré(e)
+tu seras digéré(e)
+il (elle) sera digéré(e)
+nous serons digéré(e)s
+vous serez digéré(e)s
+ils (elles) seront digéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais digéré(e)
+tu serais digéré(e)
+il (elle) serait digéré(e)
+nous serions digéré(e)s
+vous seriez digéré(e)s
+ils (elles) seraient digéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois digéré(e)
+que tu sois digéré(e)
+qu’il (elle) soit digéré(e)
+que nous soyons digéré(e)s
+que vous soyez digéré(e)s
+qu’ils (elles) soient digéré(e)s
+
+** Imparfait
+
+que je fusse digéré(e)
+que tu fusses digéré(e)
+qu’il (elle) fût digéré(e)
+que nous fussions digéré(e)s
+que vous fussiez digéré(e)s
+qu’ils (elles) fussent digéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons digéré(e)s
+soyez digéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être digéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant digéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été digéré(e)
+tu as été digéré(e)
+il (elle) a été digéré(e)
+nous avons été digéré(e)s
+vous avez été digéré(e)s
+ils (elles) ont été digéré(e)s
+
+** Plus-que-parfait
+
+j'avais été digéré(e)
+il (elle) avait été digéré(e)
+nous avions été digéré(e)s
+ils (elles) avaient été digéré(e)s
+
+** Passé antérieur
+
+j'eus été digéré(e)
+tu eus été digéré(e)
+il (elle) eut été digéré(e)
+nous eûmes été digéré(e)s
+vous eûtes été digéré(e)s
+ils (elles) eurent été digéré(e)s
+
+** Futur antérieur
+
+j'aurai été digéré(e)
+tu auras été digéré(e)
+il (elle) aura été digéré(e)
+nous aurons été digéré(e)s
+vous aurez été digéré(e)s
+ils (elles) auront été digéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été digéré(e)
+j'aurais été digéré(e)
+il (elle) aurait été digéré(e)
+nous aurions été digéré(e)s
+vous auriez été digéré(e)s
+ils (elles) auraient été digéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été digéré(e)
+que tu aies été digéré(e)
+qu’il (elle) ait été digéré(e)
+que nous ayons été digéré(e)s
+que vous ayez été digéré(e)s
+qu’ils (elles) aient été digéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été digéré(e)
+que tu eusses été digéré(e)
+qu’il (elle) eût été digéré(e)
+que nous eussions été digéré(e)s
+que vous eussiez été digéré(e)s
+qu’ils (elles) eussent été digéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été digéré(e)
+ayons été digéré(e)s
+ayez été digéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été digéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été digéré(e)(s)

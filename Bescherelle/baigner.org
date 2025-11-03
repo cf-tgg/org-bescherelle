@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe baigner
+
+* INDICATIF
+
+** Présent
+
+je baigne
+tu baignes
+il (elle) baigne
+nous baignons
+vous baignez
+ils (elles) baignent
+
+** Imparfait
+
+je baignais
+tu baignais
+il (elle) baignait
+nous baignions
+vous baigniez
+ils (elles) baignaient
+
+** Passé simple
+
+je baignai
+tu baignas
+il (elle) baigna
+nous baignâmes
+vous baignâtes
+ils (elles) baignèrent
+
+** Futur simple
+
+je baignerai
+tu baigneras
+il (elle) baignera
+nous baignerons
+vous baignerez
+ils (elles) baigneront
+
+* CONDITIONNEL
+
+** Présent
+
+je baignerais
+tu baignerais
+il (elle) baignerait
+nous baignerions
+vous baigneriez
+ils (elles) baigneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je baigne
+que tu baignes
+qu’il (elle) baigne
+que nous baignions
+que vous baigniez
+qu’ils (elles) baignent
+
+** Imparfait
+
+que je baignasse
+que tu baignasses
+qu’il (elle) baignât
+que nous baignassions
+que vous baignassiez
+qu’ils (elles) baignassent
+
+* IMPÉRATIF
+
+** Présent
+
+baigne
+baignons
+baignez
+
+* INFINITIF
+
+** Présent
+
+baigner
+
+* PARTICIPE
+
+** Présent
+
+baignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai baigné
+tu as baigné
+il (elle) a baigné
+nous avons baigné
+vous avez baigné
+ils (elles) ont baigné
+
+** Plus-que-parfait
+
+j'avais baigné
+tu avais baigné
+il (elle) avait baigné
+nous avions baigné
+vous aviez baigné
+ils (elles) avaient baigné
+
+** Passé antérieur
+
+j'eus baigné
+tu eus baigné
+il (elle) eut baigné
+nous eûmes baigné
+vous eûtes baigné
+ils (elles) eurent baigné
+
+** Futur antérieur
+
+j'aurai baigné
+tu auras baigné
+il (elle) aura baigné
+nous aurons baigné
+vous aurez baigné
+ils (elles) auront baigné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais baigné
+tu aurais baigné
+il (elle) aurait baigné
+nous aurions baigné
+vous auriez baigné
+ils (elles) auraient baigné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie baigné
+que tu aies baigné
+qu’il (elle) ait baigné
+que nous ayons baigné
+que vous ayez baigné
+qu’ils (elles) aient baigné
+
+** Plus-que-parfait
+
+que j'eusse baigné
+que tu eusses baigné
+qu’il (elle) eût baigné
+que nous eussions baigné
+que vous eussiez baigné
+qu’ils (elles) eussent baigné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons baigné
+ayez baigné
+
+* INFINITIF
+
+** Passé
+
+avoir baigné
+
+* PARTICIPE
+
+** Passé
+
+ayant baigné
+baigné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis baigné(e)
+tu es baigné(e)
+il (elle) est baigné(e)
+nous sommes baigné(e)s
+vous êtes baigné(e)s
+ils (elles) sont baigné(e)s
+
+** Imparfait
+
+j'étais baigné(e)
+tu étais baigné(e)
+il (elle) était baigné(e)
+nous étions baigné(e)s
+vous étiez baigné(e)s
+ils (elles) étaient baigné(e)s
+
+** Passé simple
+
+je fus baigné(e)
+tu fus baigné(e)
+il (elle) fut baigné(e)
+nous fûmes baigné(e)s
+vous fûtes baigné(e)s
+ils (elles) furent baigné(e)s
+
+** Futur simple
+
+je serai baigné(e)
+tu seras baigné(e)
+il (elle) sera baigné(e)
+nous serons baigné(e)s
+vous serez baigné(e)s
+ils (elles) seront baigné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais baigné(e)
+tu serais baigné(e)
+il (elle) serait baigné(e)
+nous serions baigné(e)s
+vous seriez baigné(e)s
+ils (elles) seraient baigné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois baigné(e)
+que tu sois baigné(e)
+qu’il (elle) soit baigné(e)
+que nous soyons baigné(e)s
+que vous soyez baigné(e)s
+qu’ils (elles) soient baigné(e)s
+
+** Imparfait
+
+que je fusse baigné(e)
+que tu fusses baigné(e)
+qu’il (elle) fût baigné(e)
+que nous fussions baigné(e)s
+que vous fussiez baigné(e)s
+qu’ils (elles) fussent baigné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons baigné(e)s
+soyez baigné(e)s
+
+* INFINITIF
+
+** Présent
+
+être baigné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant baigné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été baigné(e)
+tu as été baigné(e)
+il (elle) a été baigné(e)
+nous avons été baigné(e)s
+vous avez été baigné(e)s
+ils (elles) ont été baigné(e)s
+
+** Plus-que-parfait
+
+j'avais été baigné(e)
+il (elle) avait été baigné(e)
+nous avions été baigné(e)s
+ils (elles) avaient été baigné(e)s
+
+** Passé antérieur
+
+j'eus été baigné(e)
+tu eus été baigné(e)
+il (elle) eut été baigné(e)
+nous eûmes été baigné(e)s
+vous eûtes été baigné(e)s
+ils (elles) eurent été baigné(e)s
+
+** Futur antérieur
+
+j'aurai été baigné(e)
+tu auras été baigné(e)
+il (elle) aura été baigné(e)
+nous aurons été baigné(e)s
+vous aurez été baigné(e)s
+ils (elles) auront été baigné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été baigné(e)
+j'aurais été baigné(e)
+il (elle) aurait été baigné(e)
+nous aurions été baigné(e)s
+vous auriez été baigné(e)s
+ils (elles) auraient été baigné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été baigné(e)
+que tu aies été baigné(e)
+qu’il (elle) ait été baigné(e)
+que nous ayons été baigné(e)s
+que vous ayez été baigné(e)s
+qu’ils (elles) aient été baigné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été baigné(e)
+que tu eusses été baigné(e)
+qu’il (elle) eût été baigné(e)
+que nous eussions été baigné(e)s
+que vous eussiez été baigné(e)s
+qu’ils (elles) eussent été baigné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été baigné(e)
+ayons été baigné(e)s
+ayez été baigné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été baigné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été baigné(e)(s)

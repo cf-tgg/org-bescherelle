@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe corriger
+
+* INDICATIF
+
+** Présent
+
+je corrige
+tu corriges
+il (elle) corrige
+nous corrigeons
+vous corrigez
+ils (elles) corrigent
+
+** Imparfait
+
+je corrigeais
+tu corrigeais
+il (elle) corrigeait
+nous corrigions
+vous corrigiez
+ils (elles) corrigeaient
+
+** Passé simple
+
+je corrigeai
+tu corrigeas
+il (elle) corrigea
+nous corrigeâmes
+vous corrigeâtes
+ils (elles) corrigèrent
+
+** Futur simple
+
+je corrigerai
+tu corrigeras
+il (elle) corrigera
+nous corrigerons
+vous corrigerez
+ils (elles) corrigeront
+
+* CONDITIONNEL
+
+** Présent
+
+je corrigerais
+tu corrigerais
+il (elle) corrigerait
+nous corrigerions
+vous corrigeriez
+ils (elles) corrigeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je corrige
+que tu corriges
+qu’il (elle) corrige
+que nous corrigions
+que vous corrigiez
+qu’ils (elles) corrigent
+
+** Imparfait
+
+que je corrigeasse
+que tu corrigeasses
+qu’il (elle) corrigeât
+que nous corrigeassions
+que vous corrigeassiez
+qu’ils (elles) corrigeassent
+
+* IMPÉRATIF
+
+** Présent
+
+corrige
+corrigeons
+corrigez
+
+* INFINITIF
+
+** Présent
+
+corriger
+
+* PARTICIPE
+
+** Présent
+
+corrigeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai corrigé
+tu as corrigé
+il (elle) a corrigé
+nous avons corrigé
+vous avez corrigé
+ils (elles) ont corrigé
+
+** Plus-que-parfait
+
+j'avais corrigé
+tu avais corrigé
+il (elle) avait corrigé
+nous avions corrigé
+vous aviez corrigé
+ils (elles) avaient corrigé
+
+** Passé antérieur
+
+j'eus corrigé
+tu eus corrigé
+il (elle) eut corrigé
+nous eûmes corrigé
+vous eûtes corrigé
+ils (elles) eurent corrigé
+
+** Futur antérieur
+
+j'aurai corrigé
+tu auras corrigé
+il (elle) aura corrigé
+nous aurons corrigé
+vous aurez corrigé
+ils (elles) auront corrigé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais corrigé
+tu aurais corrigé
+il (elle) aurait corrigé
+nous aurions corrigé
+vous auriez corrigé
+ils (elles) auraient corrigé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie corrigé
+que tu aies corrigé
+qu’il (elle) ait corrigé
+que nous ayons corrigé
+que vous ayez corrigé
+qu’ils (elles) aient corrigé
+
+** Plus-que-parfait
+
+que j'eusse corrigé
+que tu eusses corrigé
+qu’il (elle) eût corrigé
+que nous eussions corrigé
+que vous eussiez corrigé
+qu’ils (elles) eussent corrigé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons corrigé
+ayez corrigé
+
+* INFINITIF
+
+** Passé
+
+avoir corrigé
+
+* PARTICIPE
+
+** Passé
+
+ayant corrigé
+corrigé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis corrigé(e)
+tu es corrigé(e)
+il (elle) est corrigé(e)
+nous sommes corrigé(e)s
+vous êtes corrigé(e)s
+ils (elles) sont corrigé(e)s
+
+** Imparfait
+
+j'étais corrigé(e)
+tu étais corrigé(e)
+il (elle) était corrigé(e)
+nous étions corrigé(e)s
+vous étiez corrigé(e)s
+ils (elles) étaient corrigé(e)s
+
+** Passé simple
+
+je fus corrigé(e)
+tu fus corrigé(e)
+il (elle) fut corrigé(e)
+nous fûmes corrigé(e)s
+vous fûtes corrigé(e)s
+ils (elles) furent corrigé(e)s
+
+** Futur simple
+
+je serai corrigé(e)
+tu seras corrigé(e)
+il (elle) sera corrigé(e)
+nous serons corrigé(e)s
+vous serez corrigé(e)s
+ils (elles) seront corrigé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais corrigé(e)
+tu serais corrigé(e)
+il (elle) serait corrigé(e)
+nous serions corrigé(e)s
+vous seriez corrigé(e)s
+ils (elles) seraient corrigé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois corrigé(e)
+que tu sois corrigé(e)
+qu’il (elle) soit corrigé(e)
+que nous soyons corrigé(e)s
+que vous soyez corrigé(e)s
+qu’ils (elles) soient corrigé(e)s
+
+** Imparfait
+
+que je fusse corrigé(e)
+que tu fusses corrigé(e)
+qu’il (elle) fût corrigé(e)
+que nous fussions corrigé(e)s
+que vous fussiez corrigé(e)s
+qu’ils (elles) fussent corrigé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons corrigé(e)s
+soyez corrigé(e)s
+
+* INFINITIF
+
+** Présent
+
+être corrigé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant corrigé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été corrigé(e)
+tu as été corrigé(e)
+il (elle) a été corrigé(e)
+nous avons été corrigé(e)s
+vous avez été corrigé(e)s
+ils (elles) ont été corrigé(e)s
+
+** Plus-que-parfait
+
+j'avais été corrigé(e)
+il (elle) avait été corrigé(e)
+nous avions été corrigé(e)s
+ils (elles) avaient été corrigé(e)s
+
+** Passé antérieur
+
+j'eus été corrigé(e)
+tu eus été corrigé(e)
+il (elle) eut été corrigé(e)
+nous eûmes été corrigé(e)s
+vous eûtes été corrigé(e)s
+ils (elles) eurent été corrigé(e)s
+
+** Futur antérieur
+
+j'aurai été corrigé(e)
+tu auras été corrigé(e)
+il (elle) aura été corrigé(e)
+nous aurons été corrigé(e)s
+vous aurez été corrigé(e)s
+ils (elles) auront été corrigé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été corrigé(e)
+j'aurais été corrigé(e)
+il (elle) aurait été corrigé(e)
+nous aurions été corrigé(e)s
+vous auriez été corrigé(e)s
+ils (elles) auraient été corrigé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été corrigé(e)
+que tu aies été corrigé(e)
+qu’il (elle) ait été corrigé(e)
+que nous ayons été corrigé(e)s
+que vous ayez été corrigé(e)s
+qu’ils (elles) aient été corrigé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été corrigé(e)
+que tu eusses été corrigé(e)
+qu’il (elle) eût été corrigé(e)
+que nous eussions été corrigé(e)s
+que vous eussiez été corrigé(e)s
+qu’ils (elles) eussent été corrigé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été corrigé(e)
+ayons été corrigé(e)s
+ayez été corrigé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été corrigé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été corrigé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interviewer
+
+* INDICATIF
+
+** Présent
+
+j'interviewe
+tu interviewes
+il (elle) interviewe
+nous interviewons
+vous interviewez
+ils (elles) interviewent
+
+** Imparfait
+
+j'interviewais
+tu interviewais
+il (elle) interviewait
+nous interviewions
+vous interviewiez
+ils (elles) interviewaient
+
+** Passé simple
+
+j'interviewai
+tu interviewas
+il (elle) interviewa
+nous interviewâmes
+vous interviewâtes
+ils (elles) interviewèrent
+
+** Futur simple
+
+j'interviewerai
+tu intervieweras
+il (elle) interviewera
+nous interviewerons
+vous interviewerez
+ils (elles) intervieweront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interviewerais
+tu interviewerais
+il (elle) interviewerait
+nous interviewerions
+vous intervieweriez
+ils (elles) intervieweraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interviewe
+que tu interviewes
+qu’il (elle) interviewe
+que nous interviewions
+que vous interviewiez
+qu’ils (elles) interviewent
+
+** Imparfait
+
+que j'interviewasse
+que tu interviewasses
+qu’il (elle) interviewât
+que nous interviewassions
+que vous interviewassiez
+qu’ils (elles) interviewassent
+
+* IMPÉRATIF
+
+** Présent
+
+interviewe
+interviewons
+interviewez
+
+* INFINITIF
+
+** Présent
+
+interviewer
+
+* PARTICIPE
+
+** Présent
+
+interviewant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interviewé
+tu as interviewé
+il (elle) a interviewé
+nous avons interviewé
+vous avez interviewé
+ils (elles) ont interviewé
+
+** Plus-que-parfait
+
+j'avais interviewé
+tu avais interviewé
+il (elle) avait interviewé
+nous avions interviewé
+vous aviez interviewé
+ils (elles) avaient interviewé
+
+** Passé antérieur
+
+j'eus interviewé
+tu eus interviewé
+il (elle) eut interviewé
+nous eûmes interviewé
+vous eûtes interviewé
+ils (elles) eurent interviewé
+
+** Futur antérieur
+
+j'aurai interviewé
+tu auras interviewé
+il (elle) aura interviewé
+nous aurons interviewé
+vous aurez interviewé
+ils (elles) auront interviewé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interviewé
+tu aurais interviewé
+il (elle) aurait interviewé
+nous aurions interviewé
+vous auriez interviewé
+ils (elles) auraient interviewé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interviewé
+que tu aies interviewé
+qu’il (elle) ait interviewé
+que nous ayons interviewé
+que vous ayez interviewé
+qu’ils (elles) aient interviewé
+
+** Plus-que-parfait
+
+que j'eusse interviewé
+que tu eusses interviewé
+qu’il (elle) eût interviewé
+que nous eussions interviewé
+que vous eussiez interviewé
+qu’ils (elles) eussent interviewé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interviewé
+ayez interviewé
+
+* INFINITIF
+
+** Passé
+
+avoir interviewé
+
+* PARTICIPE
+
+** Passé
+
+ayant interviewé
+interviewé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis interviewé(e)
+tu es interviewé(e)
+il (elle) est interviewé(e)
+nous sommes interviewé(e)s
+vous êtes interviewé(e)s
+ils (elles) sont interviewé(e)s
+
+** Imparfait
+
+j'étais interviewé(e)
+tu étais interviewé(e)
+il (elle) était interviewé(e)
+nous étions interviewé(e)s
+vous étiez interviewé(e)s
+ils (elles) étaient interviewé(e)s
+
+** Passé simple
+
+je fus interviewé(e)
+tu fus interviewé(e)
+il (elle) fut interviewé(e)
+nous fûmes interviewé(e)s
+vous fûtes interviewé(e)s
+ils (elles) furent interviewé(e)s
+
+** Futur simple
+
+je serai interviewé(e)
+tu seras interviewé(e)
+il (elle) sera interviewé(e)
+nous serons interviewé(e)s
+vous serez interviewé(e)s
+ils (elles) seront interviewé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interviewé(e)
+tu serais interviewé(e)
+il (elle) serait interviewé(e)
+nous serions interviewé(e)s
+vous seriez interviewé(e)s
+ils (elles) seraient interviewé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interviewé(e)
+que tu sois interviewé(e)
+qu’il (elle) soit interviewé(e)
+que nous soyons interviewé(e)s
+que vous soyez interviewé(e)s
+qu’ils (elles) soient interviewé(e)s
+
+** Imparfait
+
+que je fusse interviewé(e)
+que tu fusses interviewé(e)
+qu’il (elle) fût interviewé(e)
+que nous fussions interviewé(e)s
+que vous fussiez interviewé(e)s
+qu’ils (elles) fussent interviewé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interviewé(e)s
+soyez interviewé(e)s
+
+* INFINITIF
+
+** Présent
+
+être interviewé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interviewé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interviewé(e)
+tu as été interviewé(e)
+il (elle) a été interviewé(e)
+nous avons été interviewé(e)s
+vous avez été interviewé(e)s
+ils (elles) ont été interviewé(e)s
+
+** Plus-que-parfait
+
+j'avais été interviewé(e)
+il (elle) avait été interviewé(e)
+nous avions été interviewé(e)s
+ils (elles) avaient été interviewé(e)s
+
+** Passé antérieur
+
+j'eus été interviewé(e)
+tu eus été interviewé(e)
+il (elle) eut été interviewé(e)
+nous eûmes été interviewé(e)s
+vous eûtes été interviewé(e)s
+ils (elles) eurent été interviewé(e)s
+
+** Futur antérieur
+
+j'aurai été interviewé(e)
+tu auras été interviewé(e)
+il (elle) aura été interviewé(e)
+nous aurons été interviewé(e)s
+vous aurez été interviewé(e)s
+ils (elles) auront été interviewé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interviewé(e)
+j'aurais été interviewé(e)
+il (elle) aurait été interviewé(e)
+nous aurions été interviewé(e)s
+vous auriez été interviewé(e)s
+ils (elles) auraient été interviewé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interviewé(e)
+que tu aies été interviewé(e)
+qu’il (elle) ait été interviewé(e)
+que nous ayons été interviewé(e)s
+que vous ayez été interviewé(e)s
+qu’ils (elles) aient été interviewé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interviewé(e)
+que tu eusses été interviewé(e)
+qu’il (elle) eût été interviewé(e)
+que nous eussions été interviewé(e)s
+que vous eussiez été interviewé(e)s
+qu’ils (elles) eussent été interviewé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interviewé(e)
+ayons été interviewé(e)s
+ayez été interviewé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interviewé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interviewé(e)(s)

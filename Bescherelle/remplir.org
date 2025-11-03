@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe remplir
+
+* INDICATIF
+
+** Présent
+
+je remplis
+tu remplis
+il (elle) remplit
+nous remplissons
+vous remplissez
+ils (elles) remplissent
+
+** Imparfait
+
+je remplissais
+tu remplissais
+il (elle) remplissait
+nous remplissions
+vous remplissiez
+ils (elles) remplissaient
+
+** Passé simple
+
+je remplis
+tu remplis
+il (elle) remplit
+nous remplîmes
+vous remplîtes
+ils (elles) remplirent
+
+** Futur simple
+
+je remplirai
+tu rempliras
+il (elle) remplira
+nous remplirons
+vous remplirez
+ils (elles) rempliront
+
+* CONDITIONNEL
+
+** Présent
+
+je remplirais
+tu remplirais
+il (elle) remplirait
+nous remplirions
+vous rempliriez
+ils (elles) rempliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je remplisse
+que tu remplisses
+qu’il (elle) remplisse
+que nous remplissions
+que vous remplissiez
+qu’ils (elles) remplissent
+
+** Imparfait
+
+que je remplisse
+que tu remplisses
+qu’il (elle) remplît
+que nous remplissions
+que vous remplissiez
+qu’ils (elles) remplissent
+
+* IMPÉRATIF
+
+** Présent
+
+remplis
+remplissons
+remplissez
+
+* INFINITIF
+
+** Présent
+
+remplir
+
+* PARTICIPE
+
+** Présent
+
+remplissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rempli
+tu as rempli
+il (elle) a rempli
+nous avons rempli
+vous avez rempli
+ils (elles) ont rempli
+
+** Plus-que-parfait
+
+j'avais rempli
+tu avais rempli
+il (elle) avait rempli
+nous avions rempli
+vous aviez rempli
+ils (elles) avaient rempli
+
+** Passé antérieur
+
+j'eus rempli
+tu eus rempli
+il (elle) eut rempli
+nous eûmes rempli
+vous eûtes rempli
+ils (elles) eurent rempli
+
+** Futur antérieur
+
+j'aurai rempli
+tu auras rempli
+il (elle) aura rempli
+nous aurons rempli
+vous aurez rempli
+ils (elles) auront rempli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rempli
+tu aurais rempli
+il (elle) aurait rempli
+nous aurions rempli
+vous auriez rempli
+ils (elles) auraient rempli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rempli
+que tu aies rempli
+qu’il (elle) ait rempli
+que nous ayons rempli
+que vous ayez rempli
+qu’ils (elles) aient rempli
+
+** Plus-que-parfait
+
+que j'eusse rempli
+que tu eusses rempli
+qu’il (elle) eût rempli
+que nous eussions rempli
+que vous eussiez rempli
+qu’ils (elles) eussent rempli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rempli
+ayez rempli
+
+* INFINITIF
+
+** Passé
+
+avoir rempli
+
+* PARTICIPE
+
+** Passé
+
+ayant rempli
+rempli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis rempli(e)
+tu es rempli(e)
+il (elle) est rempli(e)
+nous sommes rempli(e)s
+vous êtes rempli(e)s
+ils (elles) sont rempli(e)s
+
+** Imparfait
+
+j'étais rempli(e)
+tu étais rempli(e)
+il (elle) était rempli(e)
+nous étions rempli(e)s
+vous étiez rempli(e)s
+ils (elles) étaient rempli(e)s
+
+** Passé simple
+
+je fus rempli(e)
+tu fus rempli(e)
+il (elle) fut rempli(e)
+nous fûmes rempli(e)s
+vous fûtes rempli(e)s
+ils (elles) furent rempli(e)s
+
+** Futur simple
+
+je serai rempli(e)
+tu seras rempli(e)
+il (elle) sera rempli(e)
+nous serons rempli(e)s
+vous serez rempli(e)s
+ils (elles) seront rempli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rempli(e)
+tu serais rempli(e)
+il (elle) serait rempli(e)
+nous serions rempli(e)s
+vous seriez rempli(e)s
+ils (elles) seraient rempli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rempli(e)
+que tu sois rempli(e)
+qu’il (elle) soit rempli(e)
+que nous soyons rempli(e)s
+que vous soyez rempli(e)s
+qu’ils (elles) soient rempli(e)s
+
+** Imparfait
+
+que je fusse rempli(e)
+que tu fusses rempli(e)
+qu’il (elle) fût rempli(e)
+que nous fussions rempli(e)s
+que vous fussiez rempli(e)s
+qu’ils (elles) fussent rempli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rempli(e)s
+soyez rempli(e)s
+
+* INFINITIF
+
+** Présent
+
+être rempli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rempli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rempli(e)
+tu as été rempli(e)
+il (elle) a été rempli(e)
+nous avons été rempli(e)s
+vous avez été rempli(e)s
+ils (elles) ont été rempli(e)s
+
+** Plus-que-parfait
+
+j'avais été rempli(e)
+il (elle) avait été rempli(e)
+nous avions été rempli(e)s
+ils (elles) avaient été rempli(e)s
+
+** Passé antérieur
+
+j'eus été rempli(e)
+tu eus été rempli(e)
+il (elle) eut été rempli(e)
+nous eûmes été rempli(e)s
+vous eûtes été rempli(e)s
+ils (elles) eurent été rempli(e)s
+
+** Futur antérieur
+
+j'aurai été rempli(e)
+tu auras été rempli(e)
+il (elle) aura été rempli(e)
+nous aurons été rempli(e)s
+vous aurez été rempli(e)s
+ils (elles) auront été rempli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rempli(e)
+j'aurais été rempli(e)
+il (elle) aurait été rempli(e)
+nous aurions été rempli(e)s
+vous auriez été rempli(e)s
+ils (elles) auraient été rempli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rempli(e)
+que tu aies été rempli(e)
+qu’il (elle) ait été rempli(e)
+que nous ayons été rempli(e)s
+que vous ayez été rempli(e)s
+qu’ils (elles) aient été rempli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rempli(e)
+que tu eusses été rempli(e)
+qu’il (elle) eût été rempli(e)
+que nous eussions été rempli(e)s
+que vous eussiez été rempli(e)s
+qu’ils (elles) eussent été rempli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rempli(e)
+ayons été rempli(e)s
+ayez été rempli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rempli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rempli(e)(s)

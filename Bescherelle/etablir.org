@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etablir
+
+* INDICATIF
+
+** Présent
+
+j'établis
+tu établis
+il (elle) établit
+nous établissons
+vous établissez
+ils (elles) établissent
+
+** Imparfait
+
+j'établissais
+tu établissais
+il (elle) établissait
+nous établissions
+vous établissiez
+ils (elles) établissaient
+
+** Passé simple
+
+j'établis
+tu établis
+il (elle) établit
+nous établîmes
+vous établîtes
+ils (elles) établirent
+
+** Futur simple
+
+j'établirai
+tu établiras
+il (elle) établira
+nous établirons
+vous établirez
+ils (elles) établiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'établirais
+tu établirais
+il (elle) établirait
+nous établirions
+vous établiriez
+ils (elles) établiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'établisse
+que tu établisses
+qu’il (elle) établisse
+que nous établissions
+que vous établissiez
+qu’ils (elles) établissent
+
+** Imparfait
+
+que j'établisse
+que tu établisses
+qu’il (elle) établît
+que nous établissions
+que vous établissiez
+qu’ils (elles) établissent
+
+* IMPÉRATIF
+
+** Présent
+
+établis
+établissons
+établissez
+
+* INFINITIF
+
+** Présent
+
+établir
+
+* PARTICIPE
+
+** Présent
+
+établissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai établi
+tu as établi
+il (elle) a établi
+nous avons établi
+vous avez établi
+ils (elles) ont établi
+
+** Plus-que-parfait
+
+j'avais établi
+tu avais établi
+il (elle) avait établi
+nous avions établi
+vous aviez établi
+ils (elles) avaient établi
+
+** Passé antérieur
+
+j'eus établi
+tu eus établi
+il (elle) eut établi
+nous eûmes établi
+vous eûtes établi
+ils (elles) eurent établi
+
+** Futur antérieur
+
+j'aurai établi
+tu auras établi
+il (elle) aura établi
+nous aurons établi
+vous aurez établi
+ils (elles) auront établi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais établi
+tu aurais établi
+il (elle) aurait établi
+nous aurions établi
+vous auriez établi
+ils (elles) auraient établi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie établi
+que tu aies établi
+qu’il (elle) ait établi
+que nous ayons établi
+que vous ayez établi
+qu’ils (elles) aient établi
+
+** Plus-que-parfait
+
+que j'eusse établi
+que tu eusses établi
+qu’il (elle) eût établi
+que nous eussions établi
+que vous eussiez établi
+qu’ils (elles) eussent établi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons établi
+ayez établi
+
+* INFINITIF
+
+** Passé
+
+avoir établi
+
+* PARTICIPE
+
+** Passé
+
+ayant établi
+établi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis établi(e)
+tu es établi(e)
+il (elle) est établi(e)
+nous sommes établi(e)s
+vous êtes établi(e)s
+ils (elles) sont établi(e)s
+
+** Imparfait
+
+j'étais établi(e)
+tu étais établi(e)
+il (elle) était établi(e)
+nous étions établi(e)s
+vous étiez établi(e)s
+ils (elles) étaient établi(e)s
+
+** Passé simple
+
+je fus établi(e)
+tu fus établi(e)
+il (elle) fut établi(e)
+nous fûmes établi(e)s
+vous fûtes établi(e)s
+ils (elles) furent établi(e)s
+
+** Futur simple
+
+je serai établi(e)
+tu seras établi(e)
+il (elle) sera établi(e)
+nous serons établi(e)s
+vous serez établi(e)s
+ils (elles) seront établi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais établi(e)
+tu serais établi(e)
+il (elle) serait établi(e)
+nous serions établi(e)s
+vous seriez établi(e)s
+ils (elles) seraient établi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois établi(e)
+que tu sois établi(e)
+qu’il (elle) soit établi(e)
+que nous soyons établi(e)s
+que vous soyez établi(e)s
+qu’ils (elles) soient établi(e)s
+
+** Imparfait
+
+que je fusse établi(e)
+que tu fusses établi(e)
+qu’il (elle) fût établi(e)
+que nous fussions établi(e)s
+que vous fussiez établi(e)s
+qu’ils (elles) fussent établi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons établi(e)s
+soyez établi(e)s
+
+* INFINITIF
+
+** Présent
+
+être établi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant établi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été établi(e)
+tu as été établi(e)
+il (elle) a été établi(e)
+nous avons été établi(e)s
+vous avez été établi(e)s
+ils (elles) ont été établi(e)s
+
+** Plus-que-parfait
+
+j'avais été établi(e)
+il (elle) avait été établi(e)
+nous avions été établi(e)s
+ils (elles) avaient été établi(e)s
+
+** Passé antérieur
+
+j'eus été établi(e)
+tu eus été établi(e)
+il (elle) eut été établi(e)
+nous eûmes été établi(e)s
+vous eûtes été établi(e)s
+ils (elles) eurent été établi(e)s
+
+** Futur antérieur
+
+j'aurai été établi(e)
+tu auras été établi(e)
+il (elle) aura été établi(e)
+nous aurons été établi(e)s
+vous aurez été établi(e)s
+ils (elles) auront été établi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été établi(e)
+j'aurais été établi(e)
+il (elle) aurait été établi(e)
+nous aurions été établi(e)s
+vous auriez été établi(e)s
+ils (elles) auraient été établi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été établi(e)
+que tu aies été établi(e)
+qu’il (elle) ait été établi(e)
+que nous ayons été établi(e)s
+que vous ayez été établi(e)s
+qu’ils (elles) aient été établi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été établi(e)
+que tu eusses été établi(e)
+qu’il (elle) eût été établi(e)
+que nous eussions été établi(e)s
+que vous eussiez été établi(e)s
+qu’ils (elles) eussent été établi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été établi(e)
+ayons été établi(e)s
+ayez été établi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été établi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été établi(e)(s)

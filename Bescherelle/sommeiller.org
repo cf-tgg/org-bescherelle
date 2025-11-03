@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sommeiller
+
+* INDICATIF
+
+** Présent
+
+je sommeille
+tu sommeilles
+il (elle) sommeille
+nous sommeillons
+vous sommeillez
+ils (elles) sommeillent
+
+** Imparfait
+
+je sommeillais
+tu sommeillais
+il (elle) sommeillait
+nous sommeillions
+vous sommeilliez
+ils (elles) sommeillaient
+
+** Passé simple
+
+je sommeillai
+tu sommeillas
+il (elle) sommeilla
+nous sommeillâmes
+vous sommeillâtes
+ils (elles) sommeillèrent
+
+** Futur simple
+
+je sommeillerai
+tu sommeilleras
+il (elle) sommeillera
+nous sommeillerons
+vous sommeillerez
+ils (elles) sommeilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je sommeillerais
+tu sommeillerais
+il (elle) sommeillerait
+nous sommeillerions
+vous sommeilleriez
+ils (elles) sommeilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sommeille
+que tu sommeilles
+qu’il (elle) sommeille
+que nous sommeillions
+que vous sommeilliez
+qu’ils (elles) sommeillent
+
+** Imparfait
+
+que je sommeillasse
+que tu sommeillasses
+qu’il (elle) sommeillât
+que nous sommeillassions
+que vous sommeillassiez
+qu’ils (elles) sommeillassent
+
+* IMPÉRATIF
+
+** Présent
+
+sommeille
+sommeillons
+sommeillez
+
+* INFINITIF
+
+** Présent
+
+sommeiller
+
+* PARTICIPE
+
+** Présent
+
+sommeillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sommeillé
+tu as sommeillé
+il (elle) a sommeillé
+nous avons sommeillé
+vous avez sommeillé
+ils (elles) ont sommeillé
+
+** Plus-que-parfait
+
+j'avais sommeillé
+tu avais sommeillé
+il (elle) avait sommeillé
+nous avions sommeillé
+vous aviez sommeillé
+ils (elles) avaient sommeillé
+
+** Passé antérieur
+
+j'eus sommeillé
+tu eus sommeillé
+il (elle) eut sommeillé
+nous eûmes sommeillé
+vous eûtes sommeillé
+ils (elles) eurent sommeillé
+
+** Futur antérieur
+
+j'aurai sommeillé
+tu auras sommeillé
+il (elle) aura sommeillé
+nous aurons sommeillé
+vous aurez sommeillé
+ils (elles) auront sommeillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sommeillé
+tu aurais sommeillé
+il (elle) aurait sommeillé
+nous aurions sommeillé
+vous auriez sommeillé
+ils (elles) auraient sommeillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sommeillé
+que tu aies sommeillé
+qu’il (elle) ait sommeillé
+que nous ayons sommeillé
+que vous ayez sommeillé
+qu’ils (elles) aient sommeillé
+
+** Plus-que-parfait
+
+que j'eusse sommeillé
+que tu eusses sommeillé
+qu’il (elle) eût sommeillé
+que nous eussions sommeillé
+que vous eussiez sommeillé
+qu’ils (elles) eussent sommeillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sommeillé
+ayez sommeillé
+
+* INFINITIF
+
+** Passé
+
+avoir sommeillé
+
+* PARTICIPE
+
+** Passé
+
+ayant sommeillé
+sommeillé (invar.)

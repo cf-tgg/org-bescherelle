@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe offrir
+
+* INDICATIF
+
+** Présent
+
+j'offre
+tu offres
+il (elle) offre
+nous offrons
+vous offrez
+ils (elles) offrent
+
+** Imparfait
+
+j'offrais
+tu offrais
+il (elle) offrait
+nous offrions
+vous offriez
+ils (elles) offraient
+
+** Passé simple
+
+j'offris
+tu offris
+il (elle) offrit
+nous offrîmes
+vous offrîtes
+ils (elles) offrirent
+
+** Futur simple
+
+j'offrirai
+tu offriras
+il (elle) offrira
+nous offrirons
+vous offrirez
+ils (elles) offriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'offrirais
+tu offrirais
+il (elle) offrirait
+nous offririons
+vous offririez
+ils (elles) offriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'offre
+que tu offres
+qu’il (elle) offre
+que nous offrions
+que vous offriez
+qu’ils (elles) offrent
+
+** Imparfait
+
+que j'offrisse
+que tu offrisses
+qu’il (elle) offrît
+que nous offrissions
+que vous offrissiez
+qu’ils (elles) offrissent
+
+* IMPÉRATIF
+
+** Présent
+
+offre
+offrons
+offrez
+
+* INFINITIF
+
+** Présent
+
+offrir
+
+* PARTICIPE
+
+** Présent
+
+offrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai offert
+tu as offert
+il (elle) a offert
+nous avons offert
+vous avez offert
+ils (elles) ont offert
+
+** Plus-que-parfait
+
+j'avais offert
+tu avais offert
+il (elle) avait offert
+nous avions offert
+vous aviez offert
+ils (elles) avaient offert
+
+** Passé antérieur
+
+j'eus offert
+tu eus offert
+il (elle) eut offert
+nous eûmes offert
+vous eûtes offert
+ils (elles) eurent offert
+
+** Futur antérieur
+
+j'aurai offert
+tu auras offert
+il (elle) aura offert
+nous aurons offert
+vous aurez offert
+ils (elles) auront offert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais offert
+tu aurais offert
+il (elle) aurait offert
+nous aurions offert
+vous auriez offert
+ils (elles) auraient offert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie offert
+que tu aies offert
+qu’il (elle) ait offert
+que nous ayons offert
+que vous ayez offert
+qu’ils (elles) aient offert
+
+** Plus-que-parfait
+
+que j'eusse offert
+que tu eusses offert
+qu’il (elle) eût offert
+que nous eussions offert
+que vous eussiez offert
+qu’ils (elles) eussent offert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons offert
+ayez offert
+
+* INFINITIF
+
+** Passé
+
+avoir offert
+
+* PARTICIPE
+
+** Passé
+
+ayant offert
+offert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis offert(e)
+tu es offert(e)
+il (elle) est offert(e)
+nous sommes offert(e)s
+vous êtes offert(e)s
+ils (elles) sont offert(e)s
+
+** Imparfait
+
+j'étais offert(e)
+tu étais offert(e)
+il (elle) était offert(e)
+nous étions offert(e)s
+vous étiez offert(e)s
+ils (elles) étaient offert(e)s
+
+** Passé simple
+
+je fus offert(e)
+tu fus offert(e)
+il (elle) fut offert(e)
+nous fûmes offert(e)s
+vous fûtes offert(e)s
+ils (elles) furent offert(e)s
+
+** Futur simple
+
+je serai offert(e)
+tu seras offert(e)
+il (elle) sera offert(e)
+nous serons offert(e)s
+vous serez offert(e)s
+ils (elles) seront offert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais offert(e)
+tu serais offert(e)
+il (elle) serait offert(e)
+nous serions offert(e)s
+vous seriez offert(e)s
+ils (elles) seraient offert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois offert(e)
+que tu sois offert(e)
+qu’il (elle) soit offert(e)
+que nous soyons offert(e)s
+que vous soyez offert(e)s
+qu’ils (elles) soient offert(e)s
+
+** Imparfait
+
+que je fusse offert(e)
+que tu fusses offert(e)
+qu’il (elle) fût offert(e)
+que nous fussions offert(e)s
+que vous fussiez offert(e)s
+qu’ils (elles) fussent offert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons offert(e)s
+soyez offert(e)s
+
+* INFINITIF
+
+** Présent
+
+être offert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant offert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été offert(e)
+tu as été offert(e)
+il (elle) a été offert(e)
+nous avons été offert(e)s
+vous avez été offert(e)s
+ils (elles) ont été offert(e)s
+
+** Plus-que-parfait
+
+j'avais été offert(e)
+il (elle) avait été offert(e)
+nous avions été offert(e)s
+ils (elles) avaient été offert(e)s
+
+** Passé antérieur
+
+j'eus été offert(e)
+tu eus été offert(e)
+il (elle) eut été offert(e)
+nous eûmes été offert(e)s
+vous eûtes été offert(e)s
+ils (elles) eurent été offert(e)s
+
+** Futur antérieur
+
+j'aurai été offert(e)
+tu auras été offert(e)
+il (elle) aura été offert(e)
+nous aurons été offert(e)s
+vous aurez été offert(e)s
+ils (elles) auront été offert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été offert(e)
+j'aurais été offert(e)
+il (elle) aurait été offert(e)
+nous aurions été offert(e)s
+vous auriez été offert(e)s
+ils (elles) auraient été offert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été offert(e)
+que tu aies été offert(e)
+qu’il (elle) ait été offert(e)
+que nous ayons été offert(e)s
+que vous ayez été offert(e)s
+qu’ils (elles) aient été offert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été offert(e)
+que tu eusses été offert(e)
+qu’il (elle) eût été offert(e)
+que nous eussions été offert(e)s
+que vous eussiez été offert(e)s
+qu’ils (elles) eussent été offert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été offert(e)
+ayons été offert(e)s
+ayez été offert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été offert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été offert(e)(s)

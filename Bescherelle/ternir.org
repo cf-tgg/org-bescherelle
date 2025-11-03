@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ternir
+
+* INDICATIF
+
+** Présent
+
+je ternis
+tu ternis
+il (elle) ternit
+nous ternissons
+vous ternissez
+ils (elles) ternissent
+
+** Imparfait
+
+je ternissais
+tu ternissais
+il (elle) ternissait
+nous ternissions
+vous ternissiez
+ils (elles) ternissaient
+
+** Passé simple
+
+je ternis
+tu ternis
+il (elle) ternit
+nous ternîmes
+vous ternîtes
+ils (elles) ternirent
+
+** Futur simple
+
+je ternirai
+tu terniras
+il (elle) ternira
+nous ternirons
+vous ternirez
+ils (elles) terniront
+
+* CONDITIONNEL
+
+** Présent
+
+je ternirais
+tu ternirais
+il (elle) ternirait
+nous ternirions
+vous terniriez
+ils (elles) terniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ternisse
+que tu ternisses
+qu’il (elle) ternisse
+que nous ternissions
+que vous ternissiez
+qu’ils (elles) ternissent
+
+** Imparfait
+
+que je ternisse
+que tu ternisses
+qu’il (elle) ternît
+que nous ternissions
+que vous ternissiez
+qu’ils (elles) ternissent
+
+* IMPÉRATIF
+
+** Présent
+
+ternis
+ternissons
+ternissez
+
+* INFINITIF
+
+** Présent
+
+ternir
+
+* PARTICIPE
+
+** Présent
+
+ternissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai terni
+tu as terni
+il (elle) a terni
+nous avons terni
+vous avez terni
+ils (elles) ont terni
+
+** Plus-que-parfait
+
+j'avais terni
+tu avais terni
+il (elle) avait terni
+nous avions terni
+vous aviez terni
+ils (elles) avaient terni
+
+** Passé antérieur
+
+j'eus terni
+tu eus terni
+il (elle) eut terni
+nous eûmes terni
+vous eûtes terni
+ils (elles) eurent terni
+
+** Futur antérieur
+
+j'aurai terni
+tu auras terni
+il (elle) aura terni
+nous aurons terni
+vous aurez terni
+ils (elles) auront terni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais terni
+tu aurais terni
+il (elle) aurait terni
+nous aurions terni
+vous auriez terni
+ils (elles) auraient terni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie terni
+que tu aies terni
+qu’il (elle) ait terni
+que nous ayons terni
+que vous ayez terni
+qu’ils (elles) aient terni
+
+** Plus-que-parfait
+
+que j'eusse terni
+que tu eusses terni
+qu’il (elle) eût terni
+que nous eussions terni
+que vous eussiez terni
+qu’ils (elles) eussent terni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons terni
+ayez terni
+
+* INFINITIF
+
+** Passé
+
+avoir terni
+
+* PARTICIPE
+
+** Passé
+
+ayant terni
+terni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis terni(e)
+tu es terni(e)
+il (elle) est terni(e)
+nous sommes terni(e)s
+vous êtes terni(e)s
+ils (elles) sont terni(e)s
+
+** Imparfait
+
+j'étais terni(e)
+tu étais terni(e)
+il (elle) était terni(e)
+nous étions terni(e)s
+vous étiez terni(e)s
+ils (elles) étaient terni(e)s
+
+** Passé simple
+
+je fus terni(e)
+tu fus terni(e)
+il (elle) fut terni(e)
+nous fûmes terni(e)s
+vous fûtes terni(e)s
+ils (elles) furent terni(e)s
+
+** Futur simple
+
+je serai terni(e)
+tu seras terni(e)
+il (elle) sera terni(e)
+nous serons terni(e)s
+vous serez terni(e)s
+ils (elles) seront terni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais terni(e)
+tu serais terni(e)
+il (elle) serait terni(e)
+nous serions terni(e)s
+vous seriez terni(e)s
+ils (elles) seraient terni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois terni(e)
+que tu sois terni(e)
+qu’il (elle) soit terni(e)
+que nous soyons terni(e)s
+que vous soyez terni(e)s
+qu’ils (elles) soient terni(e)s
+
+** Imparfait
+
+que je fusse terni(e)
+que tu fusses terni(e)
+qu’il (elle) fût terni(e)
+que nous fussions terni(e)s
+que vous fussiez terni(e)s
+qu’ils (elles) fussent terni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons terni(e)s
+soyez terni(e)s
+
+* INFINITIF
+
+** Présent
+
+être terni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant terni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été terni(e)
+tu as été terni(e)
+il (elle) a été terni(e)
+nous avons été terni(e)s
+vous avez été terni(e)s
+ils (elles) ont été terni(e)s
+
+** Plus-que-parfait
+
+j'avais été terni(e)
+il (elle) avait été terni(e)
+nous avions été terni(e)s
+ils (elles) avaient été terni(e)s
+
+** Passé antérieur
+
+j'eus été terni(e)
+tu eus été terni(e)
+il (elle) eut été terni(e)
+nous eûmes été terni(e)s
+vous eûtes été terni(e)s
+ils (elles) eurent été terni(e)s
+
+** Futur antérieur
+
+j'aurai été terni(e)
+tu auras été terni(e)
+il (elle) aura été terni(e)
+nous aurons été terni(e)s
+vous aurez été terni(e)s
+ils (elles) auront été terni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été terni(e)
+j'aurais été terni(e)
+il (elle) aurait été terni(e)
+nous aurions été terni(e)s
+vous auriez été terni(e)s
+ils (elles) auraient été terni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été terni(e)
+que tu aies été terni(e)
+qu’il (elle) ait été terni(e)
+que nous ayons été terni(e)s
+que vous ayez été terni(e)s
+qu’ils (elles) aient été terni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été terni(e)
+que tu eusses été terni(e)
+qu’il (elle) eût été terni(e)
+que nous eussions été terni(e)s
+que vous eussiez été terni(e)s
+qu’ils (elles) eussent été terni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été terni(e)
+ayons été terni(e)s
+ayez été terni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été terni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été terni(e)(s)

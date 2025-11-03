@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe havir
+
+* INDICATIF
+
+** Présent
+
+je havis
+tu havis
+il (elle) havit
+nous havissons
+vous havissez
+ils (elles) havissent
+
+** Imparfait
+
+je havissais
+tu havissais
+il (elle) havissait
+nous havissions
+vous havissiez
+ils (elles) havissaient
+
+** Passé simple
+
+je havis
+tu havis
+il (elle) havit
+nous havîmes
+vous havîtes
+ils (elles) havirent
+
+** Futur simple
+
+je havirai
+tu haviras
+il (elle) havira
+nous havirons
+vous havirez
+ils (elles) haviront
+
+* CONDITIONNEL
+
+** Présent
+
+je havirais
+tu havirais
+il (elle) havirait
+nous havirions
+vous haviriez
+ils (elles) haviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je havisse
+que tu havisses
+qu’il (elle) havisse
+que nous havissions
+que vous havissiez
+qu’ils (elles) havissent
+
+** Imparfait
+
+que je havisse
+que tu havisses
+qu’il (elle) havît
+que nous havissions
+que vous havissiez
+qu’ils (elles) havissent
+
+* IMPÉRATIF
+
+** Présent
+
+havis
+havissons
+havissez
+
+* INFINITIF
+
+** Présent
+
+havir
+
+* PARTICIPE
+
+** Présent
+
+havissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai havi
+tu as havi
+il (elle) a havi
+nous avons havi
+vous avez havi
+ils (elles) ont havi
+
+** Plus-que-parfait
+
+j'avais havi
+tu avais havi
+il (elle) avait havi
+nous avions havi
+vous aviez havi
+ils (elles) avaient havi
+
+** Passé antérieur
+
+j'eus havi
+tu eus havi
+il (elle) eut havi
+nous eûmes havi
+vous eûtes havi
+ils (elles) eurent havi
+
+** Futur antérieur
+
+j'aurai havi
+tu auras havi
+il (elle) aura havi
+nous aurons havi
+vous aurez havi
+ils (elles) auront havi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais havi
+tu aurais havi
+il (elle) aurait havi
+nous aurions havi
+vous auriez havi
+ils (elles) auraient havi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie havi
+que tu aies havi
+qu’il (elle) ait havi
+que nous ayons havi
+que vous ayez havi
+qu’ils (elles) aient havi
+
+** Plus-que-parfait
+
+que j'eusse havi
+que tu eusses havi
+qu’il (elle) eût havi
+que nous eussions havi
+que vous eussiez havi
+qu’ils (elles) eussent havi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons havi
+ayez havi
+
+* INFINITIF
+
+** Passé
+
+avoir havi
+
+* PARTICIPE
+
+** Passé
+
+ayant havi
+havi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis havi(e)
+tu es havi(e)
+il (elle) est havi(e)
+nous sommes havi(e)s
+vous êtes havi(e)s
+ils (elles) sont havi(e)s
+
+** Imparfait
+
+j'étais havi(e)
+tu étais havi(e)
+il (elle) était havi(e)
+nous étions havi(e)s
+vous étiez havi(e)s
+ils (elles) étaient havi(e)s
+
+** Passé simple
+
+je fus havi(e)
+tu fus havi(e)
+il (elle) fut havi(e)
+nous fûmes havi(e)s
+vous fûtes havi(e)s
+ils (elles) furent havi(e)s
+
+** Futur simple
+
+je serai havi(e)
+tu seras havi(e)
+il (elle) sera havi(e)
+nous serons havi(e)s
+vous serez havi(e)s
+ils (elles) seront havi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais havi(e)
+tu serais havi(e)
+il (elle) serait havi(e)
+nous serions havi(e)s
+vous seriez havi(e)s
+ils (elles) seraient havi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois havi(e)
+que tu sois havi(e)
+qu’il (elle) soit havi(e)
+que nous soyons havi(e)s
+que vous soyez havi(e)s
+qu’ils (elles) soient havi(e)s
+
+** Imparfait
+
+que je fusse havi(e)
+que tu fusses havi(e)
+qu’il (elle) fût havi(e)
+que nous fussions havi(e)s
+que vous fussiez havi(e)s
+qu’ils (elles) fussent havi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons havi(e)s
+soyez havi(e)s
+
+* INFINITIF
+
+** Présent
+
+être havi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant havi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été havi(e)
+tu as été havi(e)
+il (elle) a été havi(e)
+nous avons été havi(e)s
+vous avez été havi(e)s
+ils (elles) ont été havi(e)s
+
+** Plus-que-parfait
+
+j'avais été havi(e)
+il (elle) avait été havi(e)
+nous avions été havi(e)s
+ils (elles) avaient été havi(e)s
+
+** Passé antérieur
+
+j'eus été havi(e)
+tu eus été havi(e)
+il (elle) eut été havi(e)
+nous eûmes été havi(e)s
+vous eûtes été havi(e)s
+ils (elles) eurent été havi(e)s
+
+** Futur antérieur
+
+j'aurai été havi(e)
+tu auras été havi(e)
+il (elle) aura été havi(e)
+nous aurons été havi(e)s
+vous aurez été havi(e)s
+ils (elles) auront été havi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été havi(e)
+j'aurais été havi(e)
+il (elle) aurait été havi(e)
+nous aurions été havi(e)s
+vous auriez été havi(e)s
+ils (elles) auraient été havi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été havi(e)
+que tu aies été havi(e)
+qu’il (elle) ait été havi(e)
+que nous ayons été havi(e)s
+que vous ayez été havi(e)s
+qu’ils (elles) aient été havi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été havi(e)
+que tu eusses été havi(e)
+qu’il (elle) eût été havi(e)
+que nous eussions été havi(e)s
+que vous eussiez été havi(e)s
+qu’ils (elles) eussent été havi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été havi(e)
+ayons été havi(e)s
+ayez été havi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été havi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été havi(e)(s)

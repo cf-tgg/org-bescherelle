@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe transformer
+
+* INDICATIF
+
+** Présent
+
+je transforme
+tu transformes
+il (elle) transforme
+nous transformons
+vous transformez
+ils (elles) transforment
+
+** Imparfait
+
+je transformais
+tu transformais
+il (elle) transformait
+nous transformions
+vous transformiez
+ils (elles) transformaient
+
+** Passé simple
+
+je transformai
+tu transformas
+il (elle) transforma
+nous transformâmes
+vous transformâtes
+ils (elles) transformèrent
+
+** Futur simple
+
+je transformerai
+tu transformeras
+il (elle) transformera
+nous transformerons
+vous transformerez
+ils (elles) transformeront
+
+* CONDITIONNEL
+
+** Présent
+
+je transformerais
+tu transformerais
+il (elle) transformerait
+nous transformerions
+vous transformeriez
+ils (elles) transformeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je transforme
+que tu transformes
+qu’il (elle) transforme
+que nous transformions
+que vous transformiez
+qu’ils (elles) transforment
+
+** Imparfait
+
+que je transformasse
+que tu transformasses
+qu’il (elle) transformât
+que nous transformassions
+que vous transformassiez
+qu’ils (elles) transformassent
+
+* IMPÉRATIF
+
+** Présent
+
+transforme
+transformons
+transformez
+
+* INFINITIF
+
+** Présent
+
+transformer
+
+* PARTICIPE
+
+** Présent
+
+transformant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai transformé
+tu as transformé
+il (elle) a transformé
+nous avons transformé
+vous avez transformé
+ils (elles) ont transformé
+
+** Plus-que-parfait
+
+j'avais transformé
+tu avais transformé
+il (elle) avait transformé
+nous avions transformé
+vous aviez transformé
+ils (elles) avaient transformé
+
+** Passé antérieur
+
+j'eus transformé
+tu eus transformé
+il (elle) eut transformé
+nous eûmes transformé
+vous eûtes transformé
+ils (elles) eurent transformé
+
+** Futur antérieur
+
+j'aurai transformé
+tu auras transformé
+il (elle) aura transformé
+nous aurons transformé
+vous aurez transformé
+ils (elles) auront transformé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais transformé
+tu aurais transformé
+il (elle) aurait transformé
+nous aurions transformé
+vous auriez transformé
+ils (elles) auraient transformé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie transformé
+que tu aies transformé
+qu’il (elle) ait transformé
+que nous ayons transformé
+que vous ayez transformé
+qu’ils (elles) aient transformé
+
+** Plus-que-parfait
+
+que j'eusse transformé
+que tu eusses transformé
+qu’il (elle) eût transformé
+que nous eussions transformé
+que vous eussiez transformé
+qu’ils (elles) eussent transformé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons transformé
+ayez transformé
+
+* INFINITIF
+
+** Passé
+
+avoir transformé
+
+* PARTICIPE
+
+** Passé
+
+ayant transformé
+transformé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis transformé(e)
+tu es transformé(e)
+il (elle) est transformé(e)
+nous sommes transformé(e)s
+vous êtes transformé(e)s
+ils (elles) sont transformé(e)s
+
+** Imparfait
+
+j'étais transformé(e)
+tu étais transformé(e)
+il (elle) était transformé(e)
+nous étions transformé(e)s
+vous étiez transformé(e)s
+ils (elles) étaient transformé(e)s
+
+** Passé simple
+
+je fus transformé(e)
+tu fus transformé(e)
+il (elle) fut transformé(e)
+nous fûmes transformé(e)s
+vous fûtes transformé(e)s
+ils (elles) furent transformé(e)s
+
+** Futur simple
+
+je serai transformé(e)
+tu seras transformé(e)
+il (elle) sera transformé(e)
+nous serons transformé(e)s
+vous serez transformé(e)s
+ils (elles) seront transformé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais transformé(e)
+tu serais transformé(e)
+il (elle) serait transformé(e)
+nous serions transformé(e)s
+vous seriez transformé(e)s
+ils (elles) seraient transformé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois transformé(e)
+que tu sois transformé(e)
+qu’il (elle) soit transformé(e)
+que nous soyons transformé(e)s
+que vous soyez transformé(e)s
+qu’ils (elles) soient transformé(e)s
+
+** Imparfait
+
+que je fusse transformé(e)
+que tu fusses transformé(e)
+qu’il (elle) fût transformé(e)
+que nous fussions transformé(e)s
+que vous fussiez transformé(e)s
+qu’ils (elles) fussent transformé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons transformé(e)s
+soyez transformé(e)s
+
+* INFINITIF
+
+** Présent
+
+être transformé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant transformé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été transformé(e)
+tu as été transformé(e)
+il (elle) a été transformé(e)
+nous avons été transformé(e)s
+vous avez été transformé(e)s
+ils (elles) ont été transformé(e)s
+
+** Plus-que-parfait
+
+j'avais été transformé(e)
+il (elle) avait été transformé(e)
+nous avions été transformé(e)s
+ils (elles) avaient été transformé(e)s
+
+** Passé antérieur
+
+j'eus été transformé(e)
+tu eus été transformé(e)
+il (elle) eut été transformé(e)
+nous eûmes été transformé(e)s
+vous eûtes été transformé(e)s
+ils (elles) eurent été transformé(e)s
+
+** Futur antérieur
+
+j'aurai été transformé(e)
+tu auras été transformé(e)
+il (elle) aura été transformé(e)
+nous aurons été transformé(e)s
+vous aurez été transformé(e)s
+ils (elles) auront été transformé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été transformé(e)
+j'aurais été transformé(e)
+il (elle) aurait été transformé(e)
+nous aurions été transformé(e)s
+vous auriez été transformé(e)s
+ils (elles) auraient été transformé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été transformé(e)
+que tu aies été transformé(e)
+qu’il (elle) ait été transformé(e)
+que nous ayons été transformé(e)s
+que vous ayez été transformé(e)s
+qu’ils (elles) aient été transformé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été transformé(e)
+que tu eusses été transformé(e)
+qu’il (elle) eût été transformé(e)
+que nous eussions été transformé(e)s
+que vous eussiez été transformé(e)s
+qu’ils (elles) eussent été transformé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été transformé(e)
+ayons été transformé(e)s
+ayez été transformé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été transformé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été transformé(e)(s)

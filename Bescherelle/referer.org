@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe referer
+
+* INDICATIF
+
+** Présent
+
+je réfère
+tu réfères
+il (elle) réfère
+nous référons
+vous référez
+ils (elles) réfèrent
+
+** Imparfait
+
+je référais
+tu référais
+il (elle) référait
+nous référions
+vous référiez
+ils (elles) référaient
+
+** Passé simple
+
+je référai
+tu référas
+il (elle) référa
+nous référâmes
+vous référâtes
+ils (elles) référèrent
+
+** Futur simple
+
+je référerai
+tu référeras
+il (elle) référera
+nous référerons
+vous référerez
+ils (elles) référeront
+
+* CONDITIONNEL
+
+** Présent
+
+je référerais
+tu référerais
+il (elle) référerait
+nous référerions
+vous référeriez
+ils (elles) référeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réfère
+que tu réfères
+qu’il (elle) réfère
+que nous référions
+que vous référiez
+qu’ils (elles) réfèrent
+
+** Imparfait
+
+que je référasse
+que tu référasses
+qu’il (elle) référât
+que nous référassions
+que vous référassiez
+qu’ils (elles) référassent
+
+* IMPÉRATIF
+
+** Présent
+
+réfère
+référons
+référez
+
+* INFINITIF
+
+** Présent
+
+référer
+
+* PARTICIPE
+
+** Présent
+
+référant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai référé
+tu as référé
+il (elle) a référé
+nous avons référé
+vous avez référé
+ils (elles) ont référé
+
+** Plus-que-parfait
+
+j'avais référé
+tu avais référé
+il (elle) avait référé
+nous avions référé
+vous aviez référé
+ils (elles) avaient référé
+
+** Passé antérieur
+
+j'eus référé
+tu eus référé
+il (elle) eut référé
+nous eûmes référé
+vous eûtes référé
+ils (elles) eurent référé
+
+** Futur antérieur
+
+j'aurai référé
+tu auras référé
+il (elle) aura référé
+nous aurons référé
+vous aurez référé
+ils (elles) auront référé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais référé
+tu aurais référé
+il (elle) aurait référé
+nous aurions référé
+vous auriez référé
+ils (elles) auraient référé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie référé
+que tu aies référé
+qu’il (elle) ait référé
+que nous ayons référé
+que vous ayez référé
+qu’ils (elles) aient référé
+
+** Plus-que-parfait
+
+que j'eusse référé
+que tu eusses référé
+qu’il (elle) eût référé
+que nous eussions référé
+que vous eussiez référé
+qu’ils (elles) eussent référé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons référé
+ayez référé
+
+* INFINITIF
+
+** Passé
+
+avoir référé
+
+* PARTICIPE
+
+** Passé
+
+ayant référé
+référé (invar.)

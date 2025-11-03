@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rabattre
+
+* INDICATIF
+
+** Présent
+
+je rabats
+tu rabats
+il (elle) rabat
+nous rabattons
+vous rabattez
+ils (elles) rabattent
+
+** Imparfait
+
+je rabattais
+tu rabattais
+il (elle) rabattait
+nous rabattions
+vous rabattiez
+ils (elles) rabattaient
+
+** Passé simple
+
+je rabattis
+tu rabattis
+il (elle) rabattit
+nous rabattîmes
+vous rabattîtes
+ils (elles) rabattirent
+
+** Futur simple
+
+je rabattrai
+tu rabattras
+il (elle) rabattra
+nous rabattrons
+vous rabattrez
+ils (elles) rabattront
+
+* CONDITIONNEL
+
+** Présent
+
+je rabattrais
+tu rabattrais
+il (elle) rabattrait
+nous rabattrions
+vous rabattriez
+ils (elles) rabattraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rabatte
+que tu rabattes
+qu’il (elle) rabatte
+que nous rabattions
+que vous rabattiez
+qu’ils (elles) rabattent
+
+** Imparfait
+
+que je rabattisse
+que tu rabattisses
+qu’il (elle) rabattît
+que nous rabattissions
+que vous rabattissiez
+qu’ils (elles) rabattissent
+
+* IMPÉRATIF
+
+** Présent
+
+rabats
+rabattons
+rabattez
+
+* INFINITIF
+
+** Présent
+
+rabattre
+
+* PARTICIPE
+
+** Présent
+
+rabattant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rabattu
+tu as rabattu
+il (elle) a rabattu
+nous avons rabattu
+vous avez rabattu
+ils (elles) ont rabattu
+
+** Plus-que-parfait
+
+j'avais rabattu
+tu avais rabattu
+il (elle) avait rabattu
+nous avions rabattu
+vous aviez rabattu
+ils (elles) avaient rabattu
+
+** Passé antérieur
+
+j'eus rabattu
+tu eus rabattu
+il (elle) eut rabattu
+nous eûmes rabattu
+vous eûtes rabattu
+ils (elles) eurent rabattu
+
+** Futur antérieur
+
+j'aurai rabattu
+tu auras rabattu
+il (elle) aura rabattu
+nous aurons rabattu
+vous aurez rabattu
+ils (elles) auront rabattu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rabattu
+tu aurais rabattu
+il (elle) aurait rabattu
+nous aurions rabattu
+vous auriez rabattu
+ils (elles) auraient rabattu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rabattu
+que tu aies rabattu
+qu’il (elle) ait rabattu
+que nous ayons rabattu
+que vous ayez rabattu
+qu’ils (elles) aient rabattu
+
+** Plus-que-parfait
+
+que j'eusse rabattu
+que tu eusses rabattu
+qu’il (elle) eût rabattu
+que nous eussions rabattu
+que vous eussiez rabattu
+qu’ils (elles) eussent rabattu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rabattu
+ayez rabattu
+
+* INFINITIF
+
+** Passé
+
+avoir rabattu
+
+* PARTICIPE
+
+** Passé
+
+ayant rabattu
+rabattu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis rabattu(e)
+tu es rabattu(e)
+il (elle) est rabattu(e)
+nous sommes rabattu(e)s
+vous êtes rabattu(e)s
+ils (elles) sont rabattu(e)s
+
+** Imparfait
+
+j'étais rabattu(e)
+tu étais rabattu(e)
+il (elle) était rabattu(e)
+nous étions rabattu(e)s
+vous étiez rabattu(e)s
+ils (elles) étaient rabattu(e)s
+
+** Passé simple
+
+je fus rabattu(e)
+tu fus rabattu(e)
+il (elle) fut rabattu(e)
+nous fûmes rabattu(e)s
+vous fûtes rabattu(e)s
+ils (elles) furent rabattu(e)s
+
+** Futur simple
+
+je serai rabattu(e)
+tu seras rabattu(e)
+il (elle) sera rabattu(e)
+nous serons rabattu(e)s
+vous serez rabattu(e)s
+ils (elles) seront rabattu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rabattu(e)
+tu serais rabattu(e)
+il (elle) serait rabattu(e)
+nous serions rabattu(e)s
+vous seriez rabattu(e)s
+ils (elles) seraient rabattu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rabattu(e)
+que tu sois rabattu(e)
+qu’il (elle) soit rabattu(e)
+que nous soyons rabattu(e)s
+que vous soyez rabattu(e)s
+qu’ils (elles) soient rabattu(e)s
+
+** Imparfait
+
+que je fusse rabattu(e)
+que tu fusses rabattu(e)
+qu’il (elle) fût rabattu(e)
+que nous fussions rabattu(e)s
+que vous fussiez rabattu(e)s
+qu’ils (elles) fussent rabattu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rabattu(e)s
+soyez rabattu(e)s
+
+* INFINITIF
+
+** Présent
+
+être rabattu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rabattu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rabattu(e)
+tu as été rabattu(e)
+il (elle) a été rabattu(e)
+nous avons été rabattu(e)s
+vous avez été rabattu(e)s
+ils (elles) ont été rabattu(e)s
+
+** Plus-que-parfait
+
+j'avais été rabattu(e)
+il (elle) avait été rabattu(e)
+nous avions été rabattu(e)s
+ils (elles) avaient été rabattu(e)s
+
+** Passé antérieur
+
+j'eus été rabattu(e)
+tu eus été rabattu(e)
+il (elle) eut été rabattu(e)
+nous eûmes été rabattu(e)s
+vous eûtes été rabattu(e)s
+ils (elles) eurent été rabattu(e)s
+
+** Futur antérieur
+
+j'aurai été rabattu(e)
+tu auras été rabattu(e)
+il (elle) aura été rabattu(e)
+nous aurons été rabattu(e)s
+vous aurez été rabattu(e)s
+ils (elles) auront été rabattu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rabattu(e)
+j'aurais été rabattu(e)
+il (elle) aurait été rabattu(e)
+nous aurions été rabattu(e)s
+vous auriez été rabattu(e)s
+ils (elles) auraient été rabattu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rabattu(e)
+que tu aies été rabattu(e)
+qu’il (elle) ait été rabattu(e)
+que nous ayons été rabattu(e)s
+que vous ayez été rabattu(e)s
+qu’ils (elles) aient été rabattu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rabattu(e)
+que tu eusses été rabattu(e)
+qu’il (elle) eût été rabattu(e)
+que nous eussions été rabattu(e)s
+que vous eussiez été rabattu(e)s
+qu’ils (elles) eussent été rabattu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rabattu(e)
+ayons été rabattu(e)s
+ayez été rabattu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rabattu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rabattu(e)(s)

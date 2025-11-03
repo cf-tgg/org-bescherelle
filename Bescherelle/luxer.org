@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe luxer
+
+* INDICATIF
+
+** Présent
+
+je luxe
+tu luxes
+il (elle) luxe
+nous luxons
+vous luxez
+ils (elles) luxent
+
+** Imparfait
+
+je luxais
+tu luxais
+il (elle) luxait
+nous luxions
+vous luxiez
+ils (elles) luxaient
+
+** Passé simple
+
+je luxai
+tu luxas
+il (elle) luxa
+nous luxâmes
+vous luxâtes
+ils (elles) luxèrent
+
+** Futur simple
+
+je luxerai
+tu luxeras
+il (elle) luxera
+nous luxerons
+vous luxerez
+ils (elles) luxeront
+
+* CONDITIONNEL
+
+** Présent
+
+je luxerais
+tu luxerais
+il (elle) luxerait
+nous luxerions
+vous luxeriez
+ils (elles) luxeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je luxe
+que tu luxes
+qu’il (elle) luxe
+que nous luxions
+que vous luxiez
+qu’ils (elles) luxent
+
+** Imparfait
+
+que je luxasse
+que tu luxasses
+qu’il (elle) luxât
+que nous luxassions
+que vous luxassiez
+qu’ils (elles) luxassent
+
+* IMPÉRATIF
+
+** Présent
+
+luxe
+luxons
+luxez
+
+* INFINITIF
+
+** Présent
+
+luxer
+
+* PARTICIPE
+
+** Présent
+
+luxant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai luxé
+tu as luxé
+il (elle) a luxé
+nous avons luxé
+vous avez luxé
+ils (elles) ont luxé
+
+** Plus-que-parfait
+
+j'avais luxé
+tu avais luxé
+il (elle) avait luxé
+nous avions luxé
+vous aviez luxé
+ils (elles) avaient luxé
+
+** Passé antérieur
+
+j'eus luxé
+tu eus luxé
+il (elle) eut luxé
+nous eûmes luxé
+vous eûtes luxé
+ils (elles) eurent luxé
+
+** Futur antérieur
+
+j'aurai luxé
+tu auras luxé
+il (elle) aura luxé
+nous aurons luxé
+vous aurez luxé
+ils (elles) auront luxé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais luxé
+tu aurais luxé
+il (elle) aurait luxé
+nous aurions luxé
+vous auriez luxé
+ils (elles) auraient luxé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie luxé
+que tu aies luxé
+qu’il (elle) ait luxé
+que nous ayons luxé
+que vous ayez luxé
+qu’ils (elles) aient luxé
+
+** Plus-que-parfait
+
+que j'eusse luxé
+que tu eusses luxé
+qu’il (elle) eût luxé
+que nous eussions luxé
+que vous eussiez luxé
+qu’ils (elles) eussent luxé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons luxé
+ayez luxé
+
+* INFINITIF
+
+** Passé
+
+avoir luxé
+
+* PARTICIPE
+
+** Passé
+
+ayant luxé
+luxé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis luxé(e)
+tu es luxé(e)
+il (elle) est luxé(e)
+nous sommes luxé(e)s
+vous êtes luxé(e)s
+ils (elles) sont luxé(e)s
+
+** Imparfait
+
+j'étais luxé(e)
+tu étais luxé(e)
+il (elle) était luxé(e)
+nous étions luxé(e)s
+vous étiez luxé(e)s
+ils (elles) étaient luxé(e)s
+
+** Passé simple
+
+je fus luxé(e)
+tu fus luxé(e)
+il (elle) fut luxé(e)
+nous fûmes luxé(e)s
+vous fûtes luxé(e)s
+ils (elles) furent luxé(e)s
+
+** Futur simple
+
+je serai luxé(e)
+tu seras luxé(e)
+il (elle) sera luxé(e)
+nous serons luxé(e)s
+vous serez luxé(e)s
+ils (elles) seront luxé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais luxé(e)
+tu serais luxé(e)
+il (elle) serait luxé(e)
+nous serions luxé(e)s
+vous seriez luxé(e)s
+ils (elles) seraient luxé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois luxé(e)
+que tu sois luxé(e)
+qu’il (elle) soit luxé(e)
+que nous soyons luxé(e)s
+que vous soyez luxé(e)s
+qu’ils (elles) soient luxé(e)s
+
+** Imparfait
+
+que je fusse luxé(e)
+que tu fusses luxé(e)
+qu’il (elle) fût luxé(e)
+que nous fussions luxé(e)s
+que vous fussiez luxé(e)s
+qu’ils (elles) fussent luxé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons luxé(e)s
+soyez luxé(e)s
+
+* INFINITIF
+
+** Présent
+
+être luxé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant luxé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été luxé(e)
+tu as été luxé(e)
+il (elle) a été luxé(e)
+nous avons été luxé(e)s
+vous avez été luxé(e)s
+ils (elles) ont été luxé(e)s
+
+** Plus-que-parfait
+
+j'avais été luxé(e)
+il (elle) avait été luxé(e)
+nous avions été luxé(e)s
+ils (elles) avaient été luxé(e)s
+
+** Passé antérieur
+
+j'eus été luxé(e)
+tu eus été luxé(e)
+il (elle) eut été luxé(e)
+nous eûmes été luxé(e)s
+vous eûtes été luxé(e)s
+ils (elles) eurent été luxé(e)s
+
+** Futur antérieur
+
+j'aurai été luxé(e)
+tu auras été luxé(e)
+il (elle) aura été luxé(e)
+nous aurons été luxé(e)s
+vous aurez été luxé(e)s
+ils (elles) auront été luxé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été luxé(e)
+j'aurais été luxé(e)
+il (elle) aurait été luxé(e)
+nous aurions été luxé(e)s
+vous auriez été luxé(e)s
+ils (elles) auraient été luxé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été luxé(e)
+que tu aies été luxé(e)
+qu’il (elle) ait été luxé(e)
+que nous ayons été luxé(e)s
+que vous ayez été luxé(e)s
+qu’ils (elles) aient été luxé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été luxé(e)
+que tu eusses été luxé(e)
+qu’il (elle) eût été luxé(e)
+que nous eussions été luxé(e)s
+que vous eussiez été luxé(e)s
+qu’ils (elles) eussent été luxé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été luxé(e)
+ayons été luxé(e)s
+ayez été luxé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été luxé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été luxé(e)(s)

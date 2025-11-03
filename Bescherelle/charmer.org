@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe charmer
+
+* INDICATIF
+
+** Présent
+
+je charme
+tu charmes
+il (elle) charme
+nous charmons
+vous charmez
+ils (elles) charment
+
+** Imparfait
+
+je charmais
+tu charmais
+il (elle) charmait
+nous charmions
+vous charmiez
+ils (elles) charmaient
+
+** Passé simple
+
+je charmai
+tu charmas
+il (elle) charma
+nous charmâmes
+vous charmâtes
+ils (elles) charmèrent
+
+** Futur simple
+
+je charmerai
+tu charmeras
+il (elle) charmera
+nous charmerons
+vous charmerez
+ils (elles) charmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je charmerais
+tu charmerais
+il (elle) charmerait
+nous charmerions
+vous charmeriez
+ils (elles) charmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je charme
+que tu charmes
+qu’il (elle) charme
+que nous charmions
+que vous charmiez
+qu’ils (elles) charment
+
+** Imparfait
+
+que je charmasse
+que tu charmasses
+qu’il (elle) charmât
+que nous charmassions
+que vous charmassiez
+qu’ils (elles) charmassent
+
+* IMPÉRATIF
+
+** Présent
+
+charme
+charmons
+charmez
+
+* INFINITIF
+
+** Présent
+
+charmer
+
+* PARTICIPE
+
+** Présent
+
+charmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai charmé
+tu as charmé
+il (elle) a charmé
+nous avons charmé
+vous avez charmé
+ils (elles) ont charmé
+
+** Plus-que-parfait
+
+j'avais charmé
+tu avais charmé
+il (elle) avait charmé
+nous avions charmé
+vous aviez charmé
+ils (elles) avaient charmé
+
+** Passé antérieur
+
+j'eus charmé
+tu eus charmé
+il (elle) eut charmé
+nous eûmes charmé
+vous eûtes charmé
+ils (elles) eurent charmé
+
+** Futur antérieur
+
+j'aurai charmé
+tu auras charmé
+il (elle) aura charmé
+nous aurons charmé
+vous aurez charmé
+ils (elles) auront charmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais charmé
+tu aurais charmé
+il (elle) aurait charmé
+nous aurions charmé
+vous auriez charmé
+ils (elles) auraient charmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie charmé
+que tu aies charmé
+qu’il (elle) ait charmé
+que nous ayons charmé
+que vous ayez charmé
+qu’ils (elles) aient charmé
+
+** Plus-que-parfait
+
+que j'eusse charmé
+que tu eusses charmé
+qu’il (elle) eût charmé
+que nous eussions charmé
+que vous eussiez charmé
+qu’ils (elles) eussent charmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons charmé
+ayez charmé
+
+* INFINITIF
+
+** Passé
+
+avoir charmé
+
+* PARTICIPE
+
+** Passé
+
+ayant charmé
+charmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis charmé(e)
+tu es charmé(e)
+il (elle) est charmé(e)
+nous sommes charmé(e)s
+vous êtes charmé(e)s
+ils (elles) sont charmé(e)s
+
+** Imparfait
+
+j'étais charmé(e)
+tu étais charmé(e)
+il (elle) était charmé(e)
+nous étions charmé(e)s
+vous étiez charmé(e)s
+ils (elles) étaient charmé(e)s
+
+** Passé simple
+
+je fus charmé(e)
+tu fus charmé(e)
+il (elle) fut charmé(e)
+nous fûmes charmé(e)s
+vous fûtes charmé(e)s
+ils (elles) furent charmé(e)s
+
+** Futur simple
+
+je serai charmé(e)
+tu seras charmé(e)
+il (elle) sera charmé(e)
+nous serons charmé(e)s
+vous serez charmé(e)s
+ils (elles) seront charmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais charmé(e)
+tu serais charmé(e)
+il (elle) serait charmé(e)
+nous serions charmé(e)s
+vous seriez charmé(e)s
+ils (elles) seraient charmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois charmé(e)
+que tu sois charmé(e)
+qu’il (elle) soit charmé(e)
+que nous soyons charmé(e)s
+que vous soyez charmé(e)s
+qu’ils (elles) soient charmé(e)s
+
+** Imparfait
+
+que je fusse charmé(e)
+que tu fusses charmé(e)
+qu’il (elle) fût charmé(e)
+que nous fussions charmé(e)s
+que vous fussiez charmé(e)s
+qu’ils (elles) fussent charmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons charmé(e)s
+soyez charmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être charmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant charmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été charmé(e)
+tu as été charmé(e)
+il (elle) a été charmé(e)
+nous avons été charmé(e)s
+vous avez été charmé(e)s
+ils (elles) ont été charmé(e)s
+
+** Plus-que-parfait
+
+j'avais été charmé(e)
+il (elle) avait été charmé(e)
+nous avions été charmé(e)s
+ils (elles) avaient été charmé(e)s
+
+** Passé antérieur
+
+j'eus été charmé(e)
+tu eus été charmé(e)
+il (elle) eut été charmé(e)
+nous eûmes été charmé(e)s
+vous eûtes été charmé(e)s
+ils (elles) eurent été charmé(e)s
+
+** Futur antérieur
+
+j'aurai été charmé(e)
+tu auras été charmé(e)
+il (elle) aura été charmé(e)
+nous aurons été charmé(e)s
+vous aurez été charmé(e)s
+ils (elles) auront été charmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été charmé(e)
+j'aurais été charmé(e)
+il (elle) aurait été charmé(e)
+nous aurions été charmé(e)s
+vous auriez été charmé(e)s
+ils (elles) auraient été charmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été charmé(e)
+que tu aies été charmé(e)
+qu’il (elle) ait été charmé(e)
+que nous ayons été charmé(e)s
+que vous ayez été charmé(e)s
+qu’ils (elles) aient été charmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été charmé(e)
+que tu eusses été charmé(e)
+qu’il (elle) eût été charmé(e)
+que nous eussions été charmé(e)s
+que vous eussiez été charmé(e)s
+qu’ils (elles) eussent été charmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été charmé(e)
+ayons été charmé(e)s
+ayez été charmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été charmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été charmé(e)(s)

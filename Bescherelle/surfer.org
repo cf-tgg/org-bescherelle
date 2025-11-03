@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe surfer
+
+* INDICATIF
+
+** Présent
+
+je surfe
+tu surfes
+il (elle) surfe
+nous surfons
+vous surfez
+ils (elles) surfent
+
+** Imparfait
+
+je surfais
+tu surfais
+il (elle) surfait
+nous surfions
+vous surfiez
+ils (elles) surfaient
+
+** Passé simple
+
+je surfai
+tu surfas
+il (elle) surfa
+nous surfâmes
+vous surfâtes
+ils (elles) surfèrent
+
+** Futur simple
+
+je surferai
+tu surferas
+il (elle) surfera
+nous surferons
+vous surferez
+ils (elles) surferont
+
+* CONDITIONNEL
+
+** Présent
+
+je surferais
+tu surferais
+il (elle) surferait
+nous surferions
+vous surferiez
+ils (elles) surferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je surfe
+que tu surfes
+qu’il (elle) surfe
+que nous surfions
+que vous surfiez
+qu’ils (elles) surfent
+
+** Imparfait
+
+que je surfasse
+que tu surfasses
+qu’il (elle) surfât
+que nous surfassions
+que vous surfassiez
+qu’ils (elles) surfassent
+
+* IMPÉRATIF
+
+** Présent
+
+surfe
+surfons
+surfez
+
+* INFINITIF
+
+** Présent
+
+surfer
+
+* PARTICIPE
+
+** Présent
+
+surfant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai surfé
+tu as surfé
+il (elle) a surfé
+nous avons surfé
+vous avez surfé
+ils (elles) ont surfé
+
+** Plus-que-parfait
+
+j'avais surfé
+tu avais surfé
+il (elle) avait surfé
+nous avions surfé
+vous aviez surfé
+ils (elles) avaient surfé
+
+** Passé antérieur
+
+j'eus surfé
+tu eus surfé
+il (elle) eut surfé
+nous eûmes surfé
+vous eûtes surfé
+ils (elles) eurent surfé
+
+** Futur antérieur
+
+j'aurai surfé
+tu auras surfé
+il (elle) aura surfé
+nous aurons surfé
+vous aurez surfé
+ils (elles) auront surfé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais surfé
+tu aurais surfé
+il (elle) aurait surfé
+nous aurions surfé
+vous auriez surfé
+ils (elles) auraient surfé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie surfé
+que tu aies surfé
+qu’il (elle) ait surfé
+que nous ayons surfé
+que vous ayez surfé
+qu’ils (elles) aient surfé
+
+** Plus-que-parfait
+
+que j'eusse surfé
+que tu eusses surfé
+qu’il (elle) eût surfé
+que nous eussions surfé
+que vous eussiez surfé
+qu’ils (elles) eussent surfé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons surfé
+ayez surfé
+
+* INFINITIF
+
+** Passé
+
+avoir surfé
+
+* PARTICIPE
+
+** Passé
+
+ayant surfé
+surfé (invar.)

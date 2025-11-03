@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe finir
+
+* INDICATIF
+
+** Présent
+
+je finis
+tu finis
+il (elle) finit
+nous finissons
+vous finissez
+ils (elles) finissent
+
+** Imparfait
+
+je finissais
+tu finissais
+il (elle) finissait
+nous finissions
+vous finissiez
+ils (elles) finissaient
+
+** Passé simple
+
+je finis
+tu finis
+il (elle) finit
+nous finîmes
+vous finîtes
+ils (elles) finirent
+
+** Futur simple
+
+je finirai
+tu finiras
+il (elle) finira
+nous finirons
+vous finirez
+ils (elles) finiront
+
+* CONDITIONNEL
+
+** Présent
+
+je finirais
+tu finirais
+il (elle) finirait
+nous finirions
+vous finiriez
+ils (elles) finiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je finisse
+que tu finisses
+qu’il (elle) finisse
+que nous finissions
+que vous finissiez
+qu’ils (elles) finissent
+
+** Imparfait
+
+que je finisse
+que tu finisses
+qu’il (elle) finît
+que nous finissions
+que vous finissiez
+qu’ils (elles) finissent
+
+* IMPÉRATIF
+
+** Présent
+
+finis
+finissons
+finissez
+
+* INFINITIF
+
+** Présent
+
+finir
+
+* PARTICIPE
+
+** Présent
+
+finissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fini
+tu as fini
+il (elle) a fini
+nous avons fini
+vous avez fini
+ils (elles) ont fini
+
+** Plus-que-parfait
+
+j'avais fini
+tu avais fini
+il (elle) avait fini
+nous avions fini
+vous aviez fini
+ils (elles) avaient fini
+
+** Passé antérieur
+
+j'eus fini
+tu eus fini
+il (elle) eut fini
+nous eûmes fini
+vous eûtes fini
+ils (elles) eurent fini
+
+** Futur antérieur
+
+j'aurai fini
+tu auras fini
+il (elle) aura fini
+nous aurons fini
+vous aurez fini
+ils (elles) auront fini
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fini
+tu aurais fini
+il (elle) aurait fini
+nous aurions fini
+vous auriez fini
+ils (elles) auraient fini
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fini
+que tu aies fini
+qu’il (elle) ait fini
+que nous ayons fini
+que vous ayez fini
+qu’ils (elles) aient fini
+
+** Plus-que-parfait
+
+que j'eusse fini
+que tu eusses fini
+qu’il (elle) eût fini
+que nous eussions fini
+que vous eussiez fini
+qu’ils (elles) eussent fini
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fini
+ayez fini
+
+* INFINITIF
+
+** Passé
+
+avoir fini
+
+* PARTICIPE
+
+** Passé
+
+ayant fini
+fini (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis fini(e)
+tu es fini(e)
+il (elle) est fini(e)
+nous sommes fini(e)s
+vous êtes fini(e)s
+ils (elles) sont fini(e)s
+
+** Imparfait
+
+j'étais fini(e)
+tu étais fini(e)
+il (elle) était fini(e)
+nous étions fini(e)s
+vous étiez fini(e)s
+ils (elles) étaient fini(e)s
+
+** Passé simple
+
+je fus fini(e)
+tu fus fini(e)
+il (elle) fut fini(e)
+nous fûmes fini(e)s
+vous fûtes fini(e)s
+ils (elles) furent fini(e)s
+
+** Futur simple
+
+je serai fini(e)
+tu seras fini(e)
+il (elle) sera fini(e)
+nous serons fini(e)s
+vous serez fini(e)s
+ils (elles) seront fini(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fini(e)
+tu serais fini(e)
+il (elle) serait fini(e)
+nous serions fini(e)s
+vous seriez fini(e)s
+ils (elles) seraient fini(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fini(e)
+que tu sois fini(e)
+qu’il (elle) soit fini(e)
+que nous soyons fini(e)s
+que vous soyez fini(e)s
+qu’ils (elles) soient fini(e)s
+
+** Imparfait
+
+que je fusse fini(e)
+que tu fusses fini(e)
+qu’il (elle) fût fini(e)
+que nous fussions fini(e)s
+que vous fussiez fini(e)s
+qu’ils (elles) fussent fini(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fini(e)s
+soyez fini(e)s
+
+* INFINITIF
+
+** Présent
+
+être fini(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fini(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fini(e)
+tu as été fini(e)
+il (elle) a été fini(e)
+nous avons été fini(e)s
+vous avez été fini(e)s
+ils (elles) ont été fini(e)s
+
+** Plus-que-parfait
+
+j'avais été fini(e)
+il (elle) avait été fini(e)
+nous avions été fini(e)s
+ils (elles) avaient été fini(e)s
+
+** Passé antérieur
+
+j'eus été fini(e)
+tu eus été fini(e)
+il (elle) eut été fini(e)
+nous eûmes été fini(e)s
+vous eûtes été fini(e)s
+ils (elles) eurent été fini(e)s
+
+** Futur antérieur
+
+j'aurai été fini(e)
+tu auras été fini(e)
+il (elle) aura été fini(e)
+nous aurons été fini(e)s
+vous aurez été fini(e)s
+ils (elles) auront été fini(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fini(e)
+j'aurais été fini(e)
+il (elle) aurait été fini(e)
+nous aurions été fini(e)s
+vous auriez été fini(e)s
+ils (elles) auraient été fini(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fini(e)
+que tu aies été fini(e)
+qu’il (elle) ait été fini(e)
+que nous ayons été fini(e)s
+que vous ayez été fini(e)s
+qu’ils (elles) aient été fini(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fini(e)
+que tu eusses été fini(e)
+qu’il (elle) eût été fini(e)
+que nous eussions été fini(e)s
+que vous eussiez été fini(e)s
+qu’ils (elles) eussent été fini(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fini(e)
+ayons été fini(e)s
+ayez été fini(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fini(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fini(e)(s)

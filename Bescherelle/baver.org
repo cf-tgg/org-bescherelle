@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe baver
+
+* INDICATIF
+
+** Présent
+
+je bave
+tu baves
+il (elle) bave
+nous bavons
+vous bavez
+ils (elles) bavent
+
+** Imparfait
+
+je bavais
+tu bavais
+il (elle) bavait
+nous bavions
+vous baviez
+ils (elles) bavaient
+
+** Passé simple
+
+je bavai
+tu bavas
+il (elle) bava
+nous bavâmes
+vous bavâtes
+ils (elles) bavèrent
+
+** Futur simple
+
+je baverai
+tu baveras
+il (elle) bavera
+nous baverons
+vous baverez
+ils (elles) baveront
+
+* CONDITIONNEL
+
+** Présent
+
+je baverais
+tu baverais
+il (elle) baverait
+nous baverions
+vous baveriez
+ils (elles) baveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bave
+que tu baves
+qu’il (elle) bave
+que nous bavions
+que vous baviez
+qu’ils (elles) bavent
+
+** Imparfait
+
+que je bavasse
+que tu bavasses
+qu’il (elle) bavât
+que nous bavassions
+que vous bavassiez
+qu’ils (elles) bavassent
+
+* IMPÉRATIF
+
+** Présent
+
+bave
+bavons
+bavez
+
+* INFINITIF
+
+** Présent
+
+baver
+
+* PARTICIPE
+
+** Présent
+
+bavant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bavé
+tu as bavé
+il (elle) a bavé
+nous avons bavé
+vous avez bavé
+ils (elles) ont bavé
+
+** Plus-que-parfait
+
+j'avais bavé
+tu avais bavé
+il (elle) avait bavé
+nous avions bavé
+vous aviez bavé
+ils (elles) avaient bavé
+
+** Passé antérieur
+
+j'eus bavé
+tu eus bavé
+il (elle) eut bavé
+nous eûmes bavé
+vous eûtes bavé
+ils (elles) eurent bavé
+
+** Futur antérieur
+
+j'aurai bavé
+tu auras bavé
+il (elle) aura bavé
+nous aurons bavé
+vous aurez bavé
+ils (elles) auront bavé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bavé
+tu aurais bavé
+il (elle) aurait bavé
+nous aurions bavé
+vous auriez bavé
+ils (elles) auraient bavé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bavé
+que tu aies bavé
+qu’il (elle) ait bavé
+que nous ayons bavé
+que vous ayez bavé
+qu’ils (elles) aient bavé
+
+** Plus-que-parfait
+
+que j'eusse bavé
+que tu eusses bavé
+qu’il (elle) eût bavé
+que nous eussions bavé
+que vous eussiez bavé
+qu’ils (elles) eussent bavé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bavé
+ayez bavé
+
+* INFINITIF
+
+** Passé
+
+avoir bavé
+
+* PARTICIPE
+
+** Passé
+
+ayant bavé
+bavé (invar.)

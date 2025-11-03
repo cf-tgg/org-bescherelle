@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lister
+
+* INDICATIF
+
+** Présent
+
+je liste
+tu listes
+il (elle) liste
+nous listons
+vous listez
+ils (elles) listent
+
+** Imparfait
+
+je listais
+tu listais
+il (elle) listait
+nous listions
+vous listiez
+ils (elles) listaient
+
+** Passé simple
+
+je listai
+tu listas
+il (elle) lista
+nous listâmes
+vous listâtes
+ils (elles) listèrent
+
+** Futur simple
+
+je listerai
+tu listeras
+il (elle) listera
+nous listerons
+vous listerez
+ils (elles) listeront
+
+* CONDITIONNEL
+
+** Présent
+
+je listerais
+tu listerais
+il (elle) listerait
+nous listerions
+vous listeriez
+ils (elles) listeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je liste
+que tu listes
+qu’il (elle) liste
+que nous listions
+que vous listiez
+qu’ils (elles) listent
+
+** Imparfait
+
+que je listasse
+que tu listasses
+qu’il (elle) listât
+que nous listassions
+que vous listassiez
+qu’ils (elles) listassent
+
+* IMPÉRATIF
+
+** Présent
+
+liste
+listons
+listez
+
+* INFINITIF
+
+** Présent
+
+lister
+
+* PARTICIPE
+
+** Présent
+
+listant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai listé
+tu as listé
+il (elle) a listé
+nous avons listé
+vous avez listé
+ils (elles) ont listé
+
+** Plus-que-parfait
+
+j'avais listé
+tu avais listé
+il (elle) avait listé
+nous avions listé
+vous aviez listé
+ils (elles) avaient listé
+
+** Passé antérieur
+
+j'eus listé
+tu eus listé
+il (elle) eut listé
+nous eûmes listé
+vous eûtes listé
+ils (elles) eurent listé
+
+** Futur antérieur
+
+j'aurai listé
+tu auras listé
+il (elle) aura listé
+nous aurons listé
+vous aurez listé
+ils (elles) auront listé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais listé
+tu aurais listé
+il (elle) aurait listé
+nous aurions listé
+vous auriez listé
+ils (elles) auraient listé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie listé
+que tu aies listé
+qu’il (elle) ait listé
+que nous ayons listé
+que vous ayez listé
+qu’ils (elles) aient listé
+
+** Plus-que-parfait
+
+que j'eusse listé
+que tu eusses listé
+qu’il (elle) eût listé
+que nous eussions listé
+que vous eussiez listé
+qu’ils (elles) eussent listé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons listé
+ayez listé
+
+* INFINITIF
+
+** Passé
+
+avoir listé
+
+* PARTICIPE
+
+** Passé
+
+ayant listé
+listé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis listé(e)
+tu es listé(e)
+il (elle) est listé(e)
+nous sommes listé(e)s
+vous êtes listé(e)s
+ils (elles) sont listé(e)s
+
+** Imparfait
+
+j'étais listé(e)
+tu étais listé(e)
+il (elle) était listé(e)
+nous étions listé(e)s
+vous étiez listé(e)s
+ils (elles) étaient listé(e)s
+
+** Passé simple
+
+je fus listé(e)
+tu fus listé(e)
+il (elle) fut listé(e)
+nous fûmes listé(e)s
+vous fûtes listé(e)s
+ils (elles) furent listé(e)s
+
+** Futur simple
+
+je serai listé(e)
+tu seras listé(e)
+il (elle) sera listé(e)
+nous serons listé(e)s
+vous serez listé(e)s
+ils (elles) seront listé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais listé(e)
+tu serais listé(e)
+il (elle) serait listé(e)
+nous serions listé(e)s
+vous seriez listé(e)s
+ils (elles) seraient listé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois listé(e)
+que tu sois listé(e)
+qu’il (elle) soit listé(e)
+que nous soyons listé(e)s
+que vous soyez listé(e)s
+qu’ils (elles) soient listé(e)s
+
+** Imparfait
+
+que je fusse listé(e)
+que tu fusses listé(e)
+qu’il (elle) fût listé(e)
+que nous fussions listé(e)s
+que vous fussiez listé(e)s
+qu’ils (elles) fussent listé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons listé(e)s
+soyez listé(e)s
+
+* INFINITIF
+
+** Présent
+
+être listé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant listé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été listé(e)
+tu as été listé(e)
+il (elle) a été listé(e)
+nous avons été listé(e)s
+vous avez été listé(e)s
+ils (elles) ont été listé(e)s
+
+** Plus-que-parfait
+
+j'avais été listé(e)
+il (elle) avait été listé(e)
+nous avions été listé(e)s
+ils (elles) avaient été listé(e)s
+
+** Passé antérieur
+
+j'eus été listé(e)
+tu eus été listé(e)
+il (elle) eut été listé(e)
+nous eûmes été listé(e)s
+vous eûtes été listé(e)s
+ils (elles) eurent été listé(e)s
+
+** Futur antérieur
+
+j'aurai été listé(e)
+tu auras été listé(e)
+il (elle) aura été listé(e)
+nous aurons été listé(e)s
+vous aurez été listé(e)s
+ils (elles) auront été listé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été listé(e)
+j'aurais été listé(e)
+il (elle) aurait été listé(e)
+nous aurions été listé(e)s
+vous auriez été listé(e)s
+ils (elles) auraient été listé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été listé(e)
+que tu aies été listé(e)
+qu’il (elle) ait été listé(e)
+que nous ayons été listé(e)s
+que vous ayez été listé(e)s
+qu’ils (elles) aient été listé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été listé(e)
+que tu eusses été listé(e)
+qu’il (elle) eût été listé(e)
+que nous eussions été listé(e)s
+que vous eussiez été listé(e)s
+qu’ils (elles) eussent été listé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été listé(e)
+ayons été listé(e)s
+ayez été listé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été listé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été listé(e)(s)

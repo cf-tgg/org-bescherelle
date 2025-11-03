@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe juter
+
+* INDICATIF
+
+** Présent
+
+je jute
+tu jutes
+il (elle) jute
+nous jutons
+vous jutez
+ils (elles) jutent
+
+** Imparfait
+
+je jutais
+tu jutais
+il (elle) jutait
+nous jutions
+vous jutiez
+ils (elles) jutaient
+
+** Passé simple
+
+je jutai
+tu jutas
+il (elle) juta
+nous jutâmes
+vous jutâtes
+ils (elles) jutèrent
+
+** Futur simple
+
+je juterai
+tu juteras
+il (elle) jutera
+nous juterons
+vous juterez
+ils (elles) juteront
+
+* CONDITIONNEL
+
+** Présent
+
+je juterais
+tu juterais
+il (elle) juterait
+nous juterions
+vous juteriez
+ils (elles) juteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jute
+que tu jutes
+qu’il (elle) jute
+que nous jutions
+que vous jutiez
+qu’ils (elles) jutent
+
+** Imparfait
+
+que je jutasse
+que tu jutasses
+qu’il (elle) jutât
+que nous jutassions
+que vous jutassiez
+qu’ils (elles) jutassent
+
+* IMPÉRATIF
+
+** Présent
+
+jute
+jutons
+jutez
+
+* INFINITIF
+
+** Présent
+
+juter
+
+* PARTICIPE
+
+** Présent
+
+jutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai juté
+tu as juté
+il (elle) a juté
+nous avons juté
+vous avez juté
+ils (elles) ont juté
+
+** Plus-que-parfait
+
+j'avais juté
+tu avais juté
+il (elle) avait juté
+nous avions juté
+vous aviez juté
+ils (elles) avaient juté
+
+** Passé antérieur
+
+j'eus juté
+tu eus juté
+il (elle) eut juté
+nous eûmes juté
+vous eûtes juté
+ils (elles) eurent juté
+
+** Futur antérieur
+
+j'aurai juté
+tu auras juté
+il (elle) aura juté
+nous aurons juté
+vous aurez juté
+ils (elles) auront juté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais juté
+tu aurais juté
+il (elle) aurait juté
+nous aurions juté
+vous auriez juté
+ils (elles) auraient juté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie juté
+que tu aies juté
+qu’il (elle) ait juté
+que nous ayons juté
+que vous ayez juté
+qu’ils (elles) aient juté
+
+** Plus-que-parfait
+
+que j'eusse juté
+que tu eusses juté
+qu’il (elle) eût juté
+que nous eussions juté
+que vous eussiez juté
+qu’ils (elles) eussent juté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons juté
+ayez juté
+
+* INFINITIF
+
+** Passé
+
+avoir juté
+
+* PARTICIPE
+
+** Passé
+
+ayant juté
+juté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis juté(e)
+tu es juté(e)
+il (elle) est juté(e)
+nous sommes juté(e)s
+vous êtes juté(e)s
+ils (elles) sont juté(e)s
+
+** Imparfait
+
+j'étais juté(e)
+tu étais juté(e)
+il (elle) était juté(e)
+nous étions juté(e)s
+vous étiez juté(e)s
+ils (elles) étaient juté(e)s
+
+** Passé simple
+
+je fus juté(e)
+tu fus juté(e)
+il (elle) fut juté(e)
+nous fûmes juté(e)s
+vous fûtes juté(e)s
+ils (elles) furent juté(e)s
+
+** Futur simple
+
+je serai juté(e)
+tu seras juté(e)
+il (elle) sera juté(e)
+nous serons juté(e)s
+vous serez juté(e)s
+ils (elles) seront juté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais juté(e)
+tu serais juté(e)
+il (elle) serait juté(e)
+nous serions juté(e)s
+vous seriez juté(e)s
+ils (elles) seraient juté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois juté(e)
+que tu sois juté(e)
+qu’il (elle) soit juté(e)
+que nous soyons juté(e)s
+que vous soyez juté(e)s
+qu’ils (elles) soient juté(e)s
+
+** Imparfait
+
+que je fusse juté(e)
+que tu fusses juté(e)
+qu’il (elle) fût juté(e)
+que nous fussions juté(e)s
+que vous fussiez juté(e)s
+qu’ils (elles) fussent juté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons juté(e)s
+soyez juté(e)s
+
+* INFINITIF
+
+** Présent
+
+être juté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant juté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été juté(e)
+tu as été juté(e)
+il (elle) a été juté(e)
+nous avons été juté(e)s
+vous avez été juté(e)s
+ils (elles) ont été juté(e)s
+
+** Plus-que-parfait
+
+j'avais été juté(e)
+il (elle) avait été juté(e)
+nous avions été juté(e)s
+ils (elles) avaient été juté(e)s
+
+** Passé antérieur
+
+j'eus été juté(e)
+tu eus été juté(e)
+il (elle) eut été juté(e)
+nous eûmes été juté(e)s
+vous eûtes été juté(e)s
+ils (elles) eurent été juté(e)s
+
+** Futur antérieur
+
+j'aurai été juté(e)
+tu auras été juté(e)
+il (elle) aura été juté(e)
+nous aurons été juté(e)s
+vous aurez été juté(e)s
+ils (elles) auront été juté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été juté(e)
+j'aurais été juté(e)
+il (elle) aurait été juté(e)
+nous aurions été juté(e)s
+vous auriez été juté(e)s
+ils (elles) auraient été juté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été juté(e)
+que tu aies été juté(e)
+qu’il (elle) ait été juté(e)
+que nous ayons été juté(e)s
+que vous ayez été juté(e)s
+qu’ils (elles) aient été juté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été juté(e)
+que tu eusses été juté(e)
+qu’il (elle) eût été juté(e)
+que nous eussions été juté(e)s
+que vous eussiez été juté(e)s
+qu’ils (elles) eussent été juté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été juté(e)
+ayons été juté(e)s
+ayez été juté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été juté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été juté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gagner
+
+* INDICATIF
+
+** Présent
+
+je gagne
+tu gagnes
+il (elle) gagne
+nous gagnons
+vous gagnez
+ils (elles) gagnent
+
+** Imparfait
+
+je gagnais
+tu gagnais
+il (elle) gagnait
+nous gagnions
+vous gagniez
+ils (elles) gagnaient
+
+** Passé simple
+
+je gagnai
+tu gagnas
+il (elle) gagna
+nous gagnâmes
+vous gagnâtes
+ils (elles) gagnèrent
+
+** Futur simple
+
+je gagnerai
+tu gagneras
+il (elle) gagnera
+nous gagnerons
+vous gagnerez
+ils (elles) gagneront
+
+* CONDITIONNEL
+
+** Présent
+
+je gagnerais
+tu gagnerais
+il (elle) gagnerait
+nous gagnerions
+vous gagneriez
+ils (elles) gagneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gagne
+que tu gagnes
+qu’il (elle) gagne
+que nous gagnions
+que vous gagniez
+qu’ils (elles) gagnent
+
+** Imparfait
+
+que je gagnasse
+que tu gagnasses
+qu’il (elle) gagnât
+que nous gagnassions
+que vous gagnassiez
+qu’ils (elles) gagnassent
+
+* IMPÉRATIF
+
+** Présent
+
+gagne
+gagnons
+gagnez
+
+* INFINITIF
+
+** Présent
+
+gagner
+
+* PARTICIPE
+
+** Présent
+
+gagnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gagné
+tu as gagné
+il (elle) a gagné
+nous avons gagné
+vous avez gagné
+ils (elles) ont gagné
+
+** Plus-que-parfait
+
+j'avais gagné
+tu avais gagné
+il (elle) avait gagné
+nous avions gagné
+vous aviez gagné
+ils (elles) avaient gagné
+
+** Passé antérieur
+
+j'eus gagné
+tu eus gagné
+il (elle) eut gagné
+nous eûmes gagné
+vous eûtes gagné
+ils (elles) eurent gagné
+
+** Futur antérieur
+
+j'aurai gagné
+tu auras gagné
+il (elle) aura gagné
+nous aurons gagné
+vous aurez gagné
+ils (elles) auront gagné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gagné
+tu aurais gagné
+il (elle) aurait gagné
+nous aurions gagné
+vous auriez gagné
+ils (elles) auraient gagné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gagné
+que tu aies gagné
+qu’il (elle) ait gagné
+que nous ayons gagné
+que vous ayez gagné
+qu’ils (elles) aient gagné
+
+** Plus-que-parfait
+
+que j'eusse gagné
+que tu eusses gagné
+qu’il (elle) eût gagné
+que nous eussions gagné
+que vous eussiez gagné
+qu’ils (elles) eussent gagné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gagné
+ayez gagné
+
+* INFINITIF
+
+** Passé
+
+avoir gagné
+
+* PARTICIPE
+
+** Passé
+
+ayant gagné
+gagné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gagné(e)
+tu es gagné(e)
+il (elle) est gagné(e)
+nous sommes gagné(e)s
+vous êtes gagné(e)s
+ils (elles) sont gagné(e)s
+
+** Imparfait
+
+j'étais gagné(e)
+tu étais gagné(e)
+il (elle) était gagné(e)
+nous étions gagné(e)s
+vous étiez gagné(e)s
+ils (elles) étaient gagné(e)s
+
+** Passé simple
+
+je fus gagné(e)
+tu fus gagné(e)
+il (elle) fut gagné(e)
+nous fûmes gagné(e)s
+vous fûtes gagné(e)s
+ils (elles) furent gagné(e)s
+
+** Futur simple
+
+je serai gagné(e)
+tu seras gagné(e)
+il (elle) sera gagné(e)
+nous serons gagné(e)s
+vous serez gagné(e)s
+ils (elles) seront gagné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gagné(e)
+tu serais gagné(e)
+il (elle) serait gagné(e)
+nous serions gagné(e)s
+vous seriez gagné(e)s
+ils (elles) seraient gagné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gagné(e)
+que tu sois gagné(e)
+qu’il (elle) soit gagné(e)
+que nous soyons gagné(e)s
+que vous soyez gagné(e)s
+qu’ils (elles) soient gagné(e)s
+
+** Imparfait
+
+que je fusse gagné(e)
+que tu fusses gagné(e)
+qu’il (elle) fût gagné(e)
+que nous fussions gagné(e)s
+que vous fussiez gagné(e)s
+qu’ils (elles) fussent gagné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gagné(e)s
+soyez gagné(e)s
+
+* INFINITIF
+
+** Présent
+
+être gagné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gagné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gagné(e)
+tu as été gagné(e)
+il (elle) a été gagné(e)
+nous avons été gagné(e)s
+vous avez été gagné(e)s
+ils (elles) ont été gagné(e)s
+
+** Plus-que-parfait
+
+j'avais été gagné(e)
+il (elle) avait été gagné(e)
+nous avions été gagné(e)s
+ils (elles) avaient été gagné(e)s
+
+** Passé antérieur
+
+j'eus été gagné(e)
+tu eus été gagné(e)
+il (elle) eut été gagné(e)
+nous eûmes été gagné(e)s
+vous eûtes été gagné(e)s
+ils (elles) eurent été gagné(e)s
+
+** Futur antérieur
+
+j'aurai été gagné(e)
+tu auras été gagné(e)
+il (elle) aura été gagné(e)
+nous aurons été gagné(e)s
+vous aurez été gagné(e)s
+ils (elles) auront été gagné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gagné(e)
+j'aurais été gagné(e)
+il (elle) aurait été gagné(e)
+nous aurions été gagné(e)s
+vous auriez été gagné(e)s
+ils (elles) auraient été gagné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gagné(e)
+que tu aies été gagné(e)
+qu’il (elle) ait été gagné(e)
+que nous ayons été gagné(e)s
+que vous ayez été gagné(e)s
+qu’ils (elles) aient été gagné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gagné(e)
+que tu eusses été gagné(e)
+qu’il (elle) eût été gagné(e)
+que nous eussions été gagné(e)s
+que vous eussiez été gagné(e)s
+qu’ils (elles) eussent été gagné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gagné(e)
+ayons été gagné(e)s
+ayez été gagné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gagné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gagné(e)(s)

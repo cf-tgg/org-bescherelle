@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe briser
+
+* INDICATIF
+
+** Présent
+
+je brise
+tu brises
+il (elle) brise
+nous brisons
+vous brisez
+ils (elles) brisent
+
+** Imparfait
+
+je brisais
+tu brisais
+il (elle) brisait
+nous brisions
+vous brisiez
+ils (elles) brisaient
+
+** Passé simple
+
+je brisai
+tu brisas
+il (elle) brisa
+nous brisâmes
+vous brisâtes
+ils (elles) brisèrent
+
+** Futur simple
+
+je briserai
+tu briseras
+il (elle) brisera
+nous briserons
+vous briserez
+ils (elles) briseront
+
+* CONDITIONNEL
+
+** Présent
+
+je briserais
+tu briserais
+il (elle) briserait
+nous briserions
+vous briseriez
+ils (elles) briseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brise
+que tu brises
+qu’il (elle) brise
+que nous brisions
+que vous brisiez
+qu’ils (elles) brisent
+
+** Imparfait
+
+que je brisasse
+que tu brisasses
+qu’il (elle) brisât
+que nous brisassions
+que vous brisassiez
+qu’ils (elles) brisassent
+
+* IMPÉRATIF
+
+** Présent
+
+brise
+brisons
+brisez
+
+* INFINITIF
+
+** Présent
+
+briser
+
+* PARTICIPE
+
+** Présent
+
+brisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brisé
+tu as brisé
+il (elle) a brisé
+nous avons brisé
+vous avez brisé
+ils (elles) ont brisé
+
+** Plus-que-parfait
+
+j'avais brisé
+tu avais brisé
+il (elle) avait brisé
+nous avions brisé
+vous aviez brisé
+ils (elles) avaient brisé
+
+** Passé antérieur
+
+j'eus brisé
+tu eus brisé
+il (elle) eut brisé
+nous eûmes brisé
+vous eûtes brisé
+ils (elles) eurent brisé
+
+** Futur antérieur
+
+j'aurai brisé
+tu auras brisé
+il (elle) aura brisé
+nous aurons brisé
+vous aurez brisé
+ils (elles) auront brisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brisé
+tu aurais brisé
+il (elle) aurait brisé
+nous aurions brisé
+vous auriez brisé
+ils (elles) auraient brisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brisé
+que tu aies brisé
+qu’il (elle) ait brisé
+que nous ayons brisé
+que vous ayez brisé
+qu’ils (elles) aient brisé
+
+** Plus-que-parfait
+
+que j'eusse brisé
+que tu eusses brisé
+qu’il (elle) eût brisé
+que nous eussions brisé
+que vous eussiez brisé
+qu’ils (elles) eussent brisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brisé
+ayez brisé
+
+* INFINITIF
+
+** Passé
+
+avoir brisé
+
+* PARTICIPE
+
+** Passé
+
+ayant brisé
+brisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis brisé(e)
+tu es brisé(e)
+il (elle) est brisé(e)
+nous sommes brisé(e)s
+vous êtes brisé(e)s
+ils (elles) sont brisé(e)s
+
+** Imparfait
+
+j'étais brisé(e)
+tu étais brisé(e)
+il (elle) était brisé(e)
+nous étions brisé(e)s
+vous étiez brisé(e)s
+ils (elles) étaient brisé(e)s
+
+** Passé simple
+
+je fus brisé(e)
+tu fus brisé(e)
+il (elle) fut brisé(e)
+nous fûmes brisé(e)s
+vous fûtes brisé(e)s
+ils (elles) furent brisé(e)s
+
+** Futur simple
+
+je serai brisé(e)
+tu seras brisé(e)
+il (elle) sera brisé(e)
+nous serons brisé(e)s
+vous serez brisé(e)s
+ils (elles) seront brisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais brisé(e)
+tu serais brisé(e)
+il (elle) serait brisé(e)
+nous serions brisé(e)s
+vous seriez brisé(e)s
+ils (elles) seraient brisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois brisé(e)
+que tu sois brisé(e)
+qu’il (elle) soit brisé(e)
+que nous soyons brisé(e)s
+que vous soyez brisé(e)s
+qu’ils (elles) soient brisé(e)s
+
+** Imparfait
+
+que je fusse brisé(e)
+que tu fusses brisé(e)
+qu’il (elle) fût brisé(e)
+que nous fussions brisé(e)s
+que vous fussiez brisé(e)s
+qu’ils (elles) fussent brisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons brisé(e)s
+soyez brisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être brisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant brisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été brisé(e)
+tu as été brisé(e)
+il (elle) a été brisé(e)
+nous avons été brisé(e)s
+vous avez été brisé(e)s
+ils (elles) ont été brisé(e)s
+
+** Plus-que-parfait
+
+j'avais été brisé(e)
+il (elle) avait été brisé(e)
+nous avions été brisé(e)s
+ils (elles) avaient été brisé(e)s
+
+** Passé antérieur
+
+j'eus été brisé(e)
+tu eus été brisé(e)
+il (elle) eut été brisé(e)
+nous eûmes été brisé(e)s
+vous eûtes été brisé(e)s
+ils (elles) eurent été brisé(e)s
+
+** Futur antérieur
+
+j'aurai été brisé(e)
+tu auras été brisé(e)
+il (elle) aura été brisé(e)
+nous aurons été brisé(e)s
+vous aurez été brisé(e)s
+ils (elles) auront été brisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été brisé(e)
+j'aurais été brisé(e)
+il (elle) aurait été brisé(e)
+nous aurions été brisé(e)s
+vous auriez été brisé(e)s
+ils (elles) auraient été brisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été brisé(e)
+que tu aies été brisé(e)
+qu’il (elle) ait été brisé(e)
+que nous ayons été brisé(e)s
+que vous ayez été brisé(e)s
+qu’ils (elles) aient été brisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été brisé(e)
+que tu eusses été brisé(e)
+qu’il (elle) eût été brisé(e)
+que nous eussions été brisé(e)s
+que vous eussiez été brisé(e)s
+qu’ils (elles) eussent été brisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été brisé(e)
+ayons été brisé(e)s
+ayez été brisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été brisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été brisé(e)(s)

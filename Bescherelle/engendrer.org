@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe engendrer
+
+* INDICATIF
+
+** Présent
+
+j'engendre
+tu engendres
+il (elle) engendre
+nous engendrons
+vous engendrez
+ils (elles) engendrent
+
+** Imparfait
+
+j'engendrais
+tu engendrais
+il (elle) engendrait
+nous engendrions
+vous engendriez
+ils (elles) engendraient
+
+** Passé simple
+
+j'engendrai
+tu engendras
+il (elle) engendra
+nous engendrâmes
+vous engendrâtes
+ils (elles) engendrèrent
+
+** Futur simple
+
+j'engendrerai
+tu engendreras
+il (elle) engendrera
+nous engendrerons
+vous engendrerez
+ils (elles) engendreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'engendrerais
+tu engendrerais
+il (elle) engendrerait
+nous engendrerions
+vous engendreriez
+ils (elles) engendreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'engendre
+que tu engendres
+qu’il (elle) engendre
+que nous engendrions
+que vous engendriez
+qu’ils (elles) engendrent
+
+** Imparfait
+
+que j'engendrasse
+que tu engendrasses
+qu’il (elle) engendrât
+que nous engendrassions
+que vous engendrassiez
+qu’ils (elles) engendrassent
+
+* IMPÉRATIF
+
+** Présent
+
+engendre
+engendrons
+engendrez
+
+* INFINITIF
+
+** Présent
+
+engendrer
+
+* PARTICIPE
+
+** Présent
+
+engendrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai engendré
+tu as engendré
+il (elle) a engendré
+nous avons engendré
+vous avez engendré
+ils (elles) ont engendré
+
+** Plus-que-parfait
+
+j'avais engendré
+tu avais engendré
+il (elle) avait engendré
+nous avions engendré
+vous aviez engendré
+ils (elles) avaient engendré
+
+** Passé antérieur
+
+j'eus engendré
+tu eus engendré
+il (elle) eut engendré
+nous eûmes engendré
+vous eûtes engendré
+ils (elles) eurent engendré
+
+** Futur antérieur
+
+j'aurai engendré
+tu auras engendré
+il (elle) aura engendré
+nous aurons engendré
+vous aurez engendré
+ils (elles) auront engendré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais engendré
+tu aurais engendré
+il (elle) aurait engendré
+nous aurions engendré
+vous auriez engendré
+ils (elles) auraient engendré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie engendré
+que tu aies engendré
+qu’il (elle) ait engendré
+que nous ayons engendré
+que vous ayez engendré
+qu’ils (elles) aient engendré
+
+** Plus-que-parfait
+
+que j'eusse engendré
+que tu eusses engendré
+qu’il (elle) eût engendré
+que nous eussions engendré
+que vous eussiez engendré
+qu’ils (elles) eussent engendré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons engendré
+ayez engendré
+
+* INFINITIF
+
+** Passé
+
+avoir engendré
+
+* PARTICIPE
+
+** Passé
+
+ayant engendré
+engendré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis engendré(e)
+tu es engendré(e)
+il (elle) est engendré(e)
+nous sommes engendré(e)s
+vous êtes engendré(e)s
+ils (elles) sont engendré(e)s
+
+** Imparfait
+
+j'étais engendré(e)
+tu étais engendré(e)
+il (elle) était engendré(e)
+nous étions engendré(e)s
+vous étiez engendré(e)s
+ils (elles) étaient engendré(e)s
+
+** Passé simple
+
+je fus engendré(e)
+tu fus engendré(e)
+il (elle) fut engendré(e)
+nous fûmes engendré(e)s
+vous fûtes engendré(e)s
+ils (elles) furent engendré(e)s
+
+** Futur simple
+
+je serai engendré(e)
+tu seras engendré(e)
+il (elle) sera engendré(e)
+nous serons engendré(e)s
+vous serez engendré(e)s
+ils (elles) seront engendré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais engendré(e)
+tu serais engendré(e)
+il (elle) serait engendré(e)
+nous serions engendré(e)s
+vous seriez engendré(e)s
+ils (elles) seraient engendré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois engendré(e)
+que tu sois engendré(e)
+qu’il (elle) soit engendré(e)
+que nous soyons engendré(e)s
+que vous soyez engendré(e)s
+qu’ils (elles) soient engendré(e)s
+
+** Imparfait
+
+que je fusse engendré(e)
+que tu fusses engendré(e)
+qu’il (elle) fût engendré(e)
+que nous fussions engendré(e)s
+que vous fussiez engendré(e)s
+qu’ils (elles) fussent engendré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons engendré(e)s
+soyez engendré(e)s
+
+* INFINITIF
+
+** Présent
+
+être engendré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant engendré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été engendré(e)
+tu as été engendré(e)
+il (elle) a été engendré(e)
+nous avons été engendré(e)s
+vous avez été engendré(e)s
+ils (elles) ont été engendré(e)s
+
+** Plus-que-parfait
+
+j'avais été engendré(e)
+il (elle) avait été engendré(e)
+nous avions été engendré(e)s
+ils (elles) avaient été engendré(e)s
+
+** Passé antérieur
+
+j'eus été engendré(e)
+tu eus été engendré(e)
+il (elle) eut été engendré(e)
+nous eûmes été engendré(e)s
+vous eûtes été engendré(e)s
+ils (elles) eurent été engendré(e)s
+
+** Futur antérieur
+
+j'aurai été engendré(e)
+tu auras été engendré(e)
+il (elle) aura été engendré(e)
+nous aurons été engendré(e)s
+vous aurez été engendré(e)s
+ils (elles) auront été engendré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été engendré(e)
+j'aurais été engendré(e)
+il (elle) aurait été engendré(e)
+nous aurions été engendré(e)s
+vous auriez été engendré(e)s
+ils (elles) auraient été engendré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été engendré(e)
+que tu aies été engendré(e)
+qu’il (elle) ait été engendré(e)
+que nous ayons été engendré(e)s
+que vous ayez été engendré(e)s
+qu’ils (elles) aient été engendré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été engendré(e)
+que tu eusses été engendré(e)
+qu’il (elle) eût été engendré(e)
+que nous eussions été engendré(e)s
+que vous eussiez été engendré(e)s
+qu’ils (elles) eussent été engendré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été engendré(e)
+ayons été engendré(e)s
+ayez été engendré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été engendré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été engendré(e)(s)

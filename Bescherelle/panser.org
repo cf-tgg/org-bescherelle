@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe panser
+
+* INDICATIF
+
+** Présent
+
+je panse
+tu panses
+il (elle) panse
+nous pansons
+vous pansez
+ils (elles) pansent
+
+** Imparfait
+
+je pansais
+tu pansais
+il (elle) pansait
+nous pansions
+vous pansiez
+ils (elles) pansaient
+
+** Passé simple
+
+je pansai
+tu pansas
+il (elle) pansa
+nous pansâmes
+vous pansâtes
+ils (elles) pansèrent
+
+** Futur simple
+
+je panserai
+tu panseras
+il (elle) pansera
+nous panserons
+vous panserez
+ils (elles) panseront
+
+* CONDITIONNEL
+
+** Présent
+
+je panserais
+tu panserais
+il (elle) panserait
+nous panserions
+vous panseriez
+ils (elles) panseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je panse
+que tu panses
+qu’il (elle) panse
+que nous pansions
+que vous pansiez
+qu’ils (elles) pansent
+
+** Imparfait
+
+que je pansasse
+que tu pansasses
+qu’il (elle) pansât
+que nous pansassions
+que vous pansassiez
+qu’ils (elles) pansassent
+
+* IMPÉRATIF
+
+** Présent
+
+panse
+pansons
+pansez
+
+* INFINITIF
+
+** Présent
+
+panser
+
+* PARTICIPE
+
+** Présent
+
+pansant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pansé
+tu as pansé
+il (elle) a pansé
+nous avons pansé
+vous avez pansé
+ils (elles) ont pansé
+
+** Plus-que-parfait
+
+j'avais pansé
+tu avais pansé
+il (elle) avait pansé
+nous avions pansé
+vous aviez pansé
+ils (elles) avaient pansé
+
+** Passé antérieur
+
+j'eus pansé
+tu eus pansé
+il (elle) eut pansé
+nous eûmes pansé
+vous eûtes pansé
+ils (elles) eurent pansé
+
+** Futur antérieur
+
+j'aurai pansé
+tu auras pansé
+il (elle) aura pansé
+nous aurons pansé
+vous aurez pansé
+ils (elles) auront pansé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pansé
+tu aurais pansé
+il (elle) aurait pansé
+nous aurions pansé
+vous auriez pansé
+ils (elles) auraient pansé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pansé
+que tu aies pansé
+qu’il (elle) ait pansé
+que nous ayons pansé
+que vous ayez pansé
+qu’ils (elles) aient pansé
+
+** Plus-que-parfait
+
+que j'eusse pansé
+que tu eusses pansé
+qu’il (elle) eût pansé
+que nous eussions pansé
+que vous eussiez pansé
+qu’ils (elles) eussent pansé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pansé
+ayez pansé
+
+* INFINITIF
+
+** Passé
+
+avoir pansé
+
+* PARTICIPE
+
+** Passé
+
+ayant pansé
+pansé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pansé(e)
+tu es pansé(e)
+il (elle) est pansé(e)
+nous sommes pansé(e)s
+vous êtes pansé(e)s
+ils (elles) sont pansé(e)s
+
+** Imparfait
+
+j'étais pansé(e)
+tu étais pansé(e)
+il (elle) était pansé(e)
+nous étions pansé(e)s
+vous étiez pansé(e)s
+ils (elles) étaient pansé(e)s
+
+** Passé simple
+
+je fus pansé(e)
+tu fus pansé(e)
+il (elle) fut pansé(e)
+nous fûmes pansé(e)s
+vous fûtes pansé(e)s
+ils (elles) furent pansé(e)s
+
+** Futur simple
+
+je serai pansé(e)
+tu seras pansé(e)
+il (elle) sera pansé(e)
+nous serons pansé(e)s
+vous serez pansé(e)s
+ils (elles) seront pansé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pansé(e)
+tu serais pansé(e)
+il (elle) serait pansé(e)
+nous serions pansé(e)s
+vous seriez pansé(e)s
+ils (elles) seraient pansé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pansé(e)
+que tu sois pansé(e)
+qu’il (elle) soit pansé(e)
+que nous soyons pansé(e)s
+que vous soyez pansé(e)s
+qu’ils (elles) soient pansé(e)s
+
+** Imparfait
+
+que je fusse pansé(e)
+que tu fusses pansé(e)
+qu’il (elle) fût pansé(e)
+que nous fussions pansé(e)s
+que vous fussiez pansé(e)s
+qu’ils (elles) fussent pansé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pansé(e)s
+soyez pansé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pansé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pansé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pansé(e)
+tu as été pansé(e)
+il (elle) a été pansé(e)
+nous avons été pansé(e)s
+vous avez été pansé(e)s
+ils (elles) ont été pansé(e)s
+
+** Plus-que-parfait
+
+j'avais été pansé(e)
+il (elle) avait été pansé(e)
+nous avions été pansé(e)s
+ils (elles) avaient été pansé(e)s
+
+** Passé antérieur
+
+j'eus été pansé(e)
+tu eus été pansé(e)
+il (elle) eut été pansé(e)
+nous eûmes été pansé(e)s
+vous eûtes été pansé(e)s
+ils (elles) eurent été pansé(e)s
+
+** Futur antérieur
+
+j'aurai été pansé(e)
+tu auras été pansé(e)
+il (elle) aura été pansé(e)
+nous aurons été pansé(e)s
+vous aurez été pansé(e)s
+ils (elles) auront été pansé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pansé(e)
+j'aurais été pansé(e)
+il (elle) aurait été pansé(e)
+nous aurions été pansé(e)s
+vous auriez été pansé(e)s
+ils (elles) auraient été pansé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pansé(e)
+que tu aies été pansé(e)
+qu’il (elle) ait été pansé(e)
+que nous ayons été pansé(e)s
+que vous ayez été pansé(e)s
+qu’ils (elles) aient été pansé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pansé(e)
+que tu eusses été pansé(e)
+qu’il (elle) eût été pansé(e)
+que nous eussions été pansé(e)s
+que vous eussiez été pansé(e)s
+qu’ils (elles) eussent été pansé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pansé(e)
+ayons été pansé(e)s
+ayez été pansé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pansé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pansé(e)(s)

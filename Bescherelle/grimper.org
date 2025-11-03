@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe grimper
+
+* INDICATIF
+
+** Présent
+
+je grimpe
+tu grimpes
+il (elle) grimpe
+nous grimpons
+vous grimpez
+ils (elles) grimpent
+
+** Imparfait
+
+je grimpais
+tu grimpais
+il (elle) grimpait
+nous grimpions
+vous grimpiez
+ils (elles) grimpaient
+
+** Passé simple
+
+je grimpai
+tu grimpas
+il (elle) grimpa
+nous grimpâmes
+vous grimpâtes
+ils (elles) grimpèrent
+
+** Futur simple
+
+je grimperai
+tu grimperas
+il (elle) grimpera
+nous grimperons
+vous grimperez
+ils (elles) grimperont
+
+* CONDITIONNEL
+
+** Présent
+
+je grimperais
+tu grimperais
+il (elle) grimperait
+nous grimperions
+vous grimperiez
+ils (elles) grimperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je grimpe
+que tu grimpes
+qu’il (elle) grimpe
+que nous grimpions
+que vous grimpiez
+qu’ils (elles) grimpent
+
+** Imparfait
+
+que je grimpasse
+que tu grimpasses
+qu’il (elle) grimpât
+que nous grimpassions
+que vous grimpassiez
+qu’ils (elles) grimpassent
+
+* IMPÉRATIF
+
+** Présent
+
+grimpe
+grimpons
+grimpez
+
+* INFINITIF
+
+** Présent
+
+grimper
+
+* PARTICIPE
+
+** Présent
+
+grimpant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai grimpé
+tu as grimpé
+il (elle) a grimpé
+nous avons grimpé
+vous avez grimpé
+ils (elles) ont grimpé
+
+** Plus-que-parfait
+
+j'avais grimpé
+tu avais grimpé
+il (elle) avait grimpé
+nous avions grimpé
+vous aviez grimpé
+ils (elles) avaient grimpé
+
+** Passé antérieur
+
+j'eus grimpé
+tu eus grimpé
+il (elle) eut grimpé
+nous eûmes grimpé
+vous eûtes grimpé
+ils (elles) eurent grimpé
+
+** Futur antérieur
+
+j'aurai grimpé
+tu auras grimpé
+il (elle) aura grimpé
+nous aurons grimpé
+vous aurez grimpé
+ils (elles) auront grimpé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais grimpé
+tu aurais grimpé
+il (elle) aurait grimpé
+nous aurions grimpé
+vous auriez grimpé
+ils (elles) auraient grimpé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie grimpé
+que tu aies grimpé
+qu’il (elle) ait grimpé
+que nous ayons grimpé
+que vous ayez grimpé
+qu’ils (elles) aient grimpé
+
+** Plus-que-parfait
+
+que j'eusse grimpé
+que tu eusses grimpé
+qu’il (elle) eût grimpé
+que nous eussions grimpé
+que vous eussiez grimpé
+qu’ils (elles) eussent grimpé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons grimpé
+ayez grimpé
+
+* INFINITIF
+
+** Passé
+
+avoir grimpé
+
+* PARTICIPE
+
+** Passé
+
+ayant grimpé
+grimpé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis grimpé(e)
+tu es grimpé(e)
+il (elle) est grimpé(e)
+nous sommes grimpé(e)s
+vous êtes grimpé(e)s
+ils (elles) sont grimpé(e)s
+
+** Imparfait
+
+j'étais grimpé(e)
+tu étais grimpé(e)
+il (elle) était grimpé(e)
+nous étions grimpé(e)s
+vous étiez grimpé(e)s
+ils (elles) étaient grimpé(e)s
+
+** Passé simple
+
+je fus grimpé(e)
+tu fus grimpé(e)
+il (elle) fut grimpé(e)
+nous fûmes grimpé(e)s
+vous fûtes grimpé(e)s
+ils (elles) furent grimpé(e)s
+
+** Futur simple
+
+je serai grimpé(e)
+tu seras grimpé(e)
+il (elle) sera grimpé(e)
+nous serons grimpé(e)s
+vous serez grimpé(e)s
+ils (elles) seront grimpé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais grimpé(e)
+tu serais grimpé(e)
+il (elle) serait grimpé(e)
+nous serions grimpé(e)s
+vous seriez grimpé(e)s
+ils (elles) seraient grimpé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois grimpé(e)
+que tu sois grimpé(e)
+qu’il (elle) soit grimpé(e)
+que nous soyons grimpé(e)s
+que vous soyez grimpé(e)s
+qu’ils (elles) soient grimpé(e)s
+
+** Imparfait
+
+que je fusse grimpé(e)
+que tu fusses grimpé(e)
+qu’il (elle) fût grimpé(e)
+que nous fussions grimpé(e)s
+que vous fussiez grimpé(e)s
+qu’ils (elles) fussent grimpé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons grimpé(e)s
+soyez grimpé(e)s
+
+* INFINITIF
+
+** Présent
+
+être grimpé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant grimpé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été grimpé(e)
+tu as été grimpé(e)
+il (elle) a été grimpé(e)
+nous avons été grimpé(e)s
+vous avez été grimpé(e)s
+ils (elles) ont été grimpé(e)s
+
+** Plus-que-parfait
+
+j'avais été grimpé(e)
+il (elle) avait été grimpé(e)
+nous avions été grimpé(e)s
+ils (elles) avaient été grimpé(e)s
+
+** Passé antérieur
+
+j'eus été grimpé(e)
+tu eus été grimpé(e)
+il (elle) eut été grimpé(e)
+nous eûmes été grimpé(e)s
+vous eûtes été grimpé(e)s
+ils (elles) eurent été grimpé(e)s
+
+** Futur antérieur
+
+j'aurai été grimpé(e)
+tu auras été grimpé(e)
+il (elle) aura été grimpé(e)
+nous aurons été grimpé(e)s
+vous aurez été grimpé(e)s
+ils (elles) auront été grimpé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été grimpé(e)
+j'aurais été grimpé(e)
+il (elle) aurait été grimpé(e)
+nous aurions été grimpé(e)s
+vous auriez été grimpé(e)s
+ils (elles) auraient été grimpé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été grimpé(e)
+que tu aies été grimpé(e)
+qu’il (elle) ait été grimpé(e)
+que nous ayons été grimpé(e)s
+que vous ayez été grimpé(e)s
+qu’ils (elles) aient été grimpé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été grimpé(e)
+que tu eusses été grimpé(e)
+qu’il (elle) eût été grimpé(e)
+que nous eussions été grimpé(e)s
+que vous eussiez été grimpé(e)s
+qu’ils (elles) eussent été grimpé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été grimpé(e)
+ayons été grimpé(e)s
+ayez été grimpé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été grimpé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été grimpé(e)(s)

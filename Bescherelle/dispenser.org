@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dispenser
+
+* INDICATIF
+
+** Présent
+
+je dispense
+tu dispenses
+il (elle) dispense
+nous dispensons
+vous dispensez
+ils (elles) dispensent
+
+** Imparfait
+
+je dispensais
+tu dispensais
+il (elle) dispensait
+nous dispensions
+vous dispensiez
+ils (elles) dispensaient
+
+** Passé simple
+
+je dispensai
+tu dispensas
+il (elle) dispensa
+nous dispensâmes
+vous dispensâtes
+ils (elles) dispensèrent
+
+** Futur simple
+
+je dispenserai
+tu dispenseras
+il (elle) dispensera
+nous dispenserons
+vous dispenserez
+ils (elles) dispenseront
+
+* CONDITIONNEL
+
+** Présent
+
+je dispenserais
+tu dispenserais
+il (elle) dispenserait
+nous dispenserions
+vous dispenseriez
+ils (elles) dispenseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dispense
+que tu dispenses
+qu’il (elle) dispense
+que nous dispensions
+que vous dispensiez
+qu’ils (elles) dispensent
+
+** Imparfait
+
+que je dispensasse
+que tu dispensasses
+qu’il (elle) dispensât
+que nous dispensassions
+que vous dispensassiez
+qu’ils (elles) dispensassent
+
+* IMPÉRATIF
+
+** Présent
+
+dispense
+dispensons
+dispensez
+
+* INFINITIF
+
+** Présent
+
+dispenser
+
+* PARTICIPE
+
+** Présent
+
+dispensant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dispensé
+tu as dispensé
+il (elle) a dispensé
+nous avons dispensé
+vous avez dispensé
+ils (elles) ont dispensé
+
+** Plus-que-parfait
+
+j'avais dispensé
+tu avais dispensé
+il (elle) avait dispensé
+nous avions dispensé
+vous aviez dispensé
+ils (elles) avaient dispensé
+
+** Passé antérieur
+
+j'eus dispensé
+tu eus dispensé
+il (elle) eut dispensé
+nous eûmes dispensé
+vous eûtes dispensé
+ils (elles) eurent dispensé
+
+** Futur antérieur
+
+j'aurai dispensé
+tu auras dispensé
+il (elle) aura dispensé
+nous aurons dispensé
+vous aurez dispensé
+ils (elles) auront dispensé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dispensé
+tu aurais dispensé
+il (elle) aurait dispensé
+nous aurions dispensé
+vous auriez dispensé
+ils (elles) auraient dispensé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dispensé
+que tu aies dispensé
+qu’il (elle) ait dispensé
+que nous ayons dispensé
+que vous ayez dispensé
+qu’ils (elles) aient dispensé
+
+** Plus-que-parfait
+
+que j'eusse dispensé
+que tu eusses dispensé
+qu’il (elle) eût dispensé
+que nous eussions dispensé
+que vous eussiez dispensé
+qu’ils (elles) eussent dispensé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dispensé
+ayez dispensé
+
+* INFINITIF
+
+** Passé
+
+avoir dispensé
+
+* PARTICIPE
+
+** Passé
+
+ayant dispensé
+dispensé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dispensé(e)
+tu es dispensé(e)
+il (elle) est dispensé(e)
+nous sommes dispensé(e)s
+vous êtes dispensé(e)s
+ils (elles) sont dispensé(e)s
+
+** Imparfait
+
+j'étais dispensé(e)
+tu étais dispensé(e)
+il (elle) était dispensé(e)
+nous étions dispensé(e)s
+vous étiez dispensé(e)s
+ils (elles) étaient dispensé(e)s
+
+** Passé simple
+
+je fus dispensé(e)
+tu fus dispensé(e)
+il (elle) fut dispensé(e)
+nous fûmes dispensé(e)s
+vous fûtes dispensé(e)s
+ils (elles) furent dispensé(e)s
+
+** Futur simple
+
+je serai dispensé(e)
+tu seras dispensé(e)
+il (elle) sera dispensé(e)
+nous serons dispensé(e)s
+vous serez dispensé(e)s
+ils (elles) seront dispensé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dispensé(e)
+tu serais dispensé(e)
+il (elle) serait dispensé(e)
+nous serions dispensé(e)s
+vous seriez dispensé(e)s
+ils (elles) seraient dispensé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dispensé(e)
+que tu sois dispensé(e)
+qu’il (elle) soit dispensé(e)
+que nous soyons dispensé(e)s
+que vous soyez dispensé(e)s
+qu’ils (elles) soient dispensé(e)s
+
+** Imparfait
+
+que je fusse dispensé(e)
+que tu fusses dispensé(e)
+qu’il (elle) fût dispensé(e)
+que nous fussions dispensé(e)s
+que vous fussiez dispensé(e)s
+qu’ils (elles) fussent dispensé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dispensé(e)s
+soyez dispensé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dispensé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dispensé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dispensé(e)
+tu as été dispensé(e)
+il (elle) a été dispensé(e)
+nous avons été dispensé(e)s
+vous avez été dispensé(e)s
+ils (elles) ont été dispensé(e)s
+
+** Plus-que-parfait
+
+j'avais été dispensé(e)
+il (elle) avait été dispensé(e)
+nous avions été dispensé(e)s
+ils (elles) avaient été dispensé(e)s
+
+** Passé antérieur
+
+j'eus été dispensé(e)
+tu eus été dispensé(e)
+il (elle) eut été dispensé(e)
+nous eûmes été dispensé(e)s
+vous eûtes été dispensé(e)s
+ils (elles) eurent été dispensé(e)s
+
+** Futur antérieur
+
+j'aurai été dispensé(e)
+tu auras été dispensé(e)
+il (elle) aura été dispensé(e)
+nous aurons été dispensé(e)s
+vous aurez été dispensé(e)s
+ils (elles) auront été dispensé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dispensé(e)
+j'aurais été dispensé(e)
+il (elle) aurait été dispensé(e)
+nous aurions été dispensé(e)s
+vous auriez été dispensé(e)s
+ils (elles) auraient été dispensé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dispensé(e)
+que tu aies été dispensé(e)
+qu’il (elle) ait été dispensé(e)
+que nous ayons été dispensé(e)s
+que vous ayez été dispensé(e)s
+qu’ils (elles) aient été dispensé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dispensé(e)
+que tu eusses été dispensé(e)
+qu’il (elle) eût été dispensé(e)
+que nous eussions été dispensé(e)s
+que vous eussiez été dispensé(e)s
+qu’ils (elles) eussent été dispensé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dispensé(e)
+ayons été dispensé(e)s
+ayez été dispensé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dispensé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dispensé(e)(s)

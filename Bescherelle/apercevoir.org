@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apercevoir
+
+* INDICATIF
+
+** Présent
+
+j'aperçois
+tu aperçois
+il (elle) aperçoit
+nous apercevons
+vous apercevez
+ils (elles) aperçoivent
+
+** Imparfait
+
+j'apercevais
+tu apercevais
+il (elle) apercevait
+nous apercevions
+vous aperceviez
+ils (elles) apercevaient
+
+** Passé simple
+
+j'aperçus
+tu aperçus
+il (elle) aperçut
+nous aperçûmes
+vous aperçûtes
+ils (elles) aperçurent
+
+** Futur simple
+
+j'apercevrai
+tu apercevras
+il (elle) apercevra
+nous apercevrons
+vous apercevrez
+ils (elles) apercevront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apercevrais
+tu apercevrais
+il (elle) apercevrait
+nous apercevrions
+vous apercevriez
+ils (elles) apercevraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aperçoive
+que tu aperçoives
+qu’il (elle) aperçoive
+que nous apercevions
+que vous aperceviez
+qu’ils (elles) aperçoivent
+
+** Imparfait
+
+que j'aperçusse
+que tu aperçusses
+qu’il (elle) aperçût
+que nous aperçussions
+que vous aperçussiez
+qu’ils (elles) aperçussent
+
+* IMPÉRATIF
+
+** Présent
+
+aperçois
+apercevons
+apercevez
+
+* INFINITIF
+
+** Présent
+
+apercevoir
+
+* PARTICIPE
+
+** Présent
+
+apercevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aperçu
+tu as aperçu
+il (elle) a aperçu
+nous avons aperçu
+vous avez aperçu
+ils (elles) ont aperçu
+
+** Plus-que-parfait
+
+j'avais aperçu
+tu avais aperçu
+il (elle) avait aperçu
+nous avions aperçu
+vous aviez aperçu
+ils (elles) avaient aperçu
+
+** Passé antérieur
+
+j'eus aperçu
+tu eus aperçu
+il (elle) eut aperçu
+nous eûmes aperçu
+vous eûtes aperçu
+ils (elles) eurent aperçu
+
+** Futur antérieur
+
+j'aurai aperçu
+tu auras aperçu
+il (elle) aura aperçu
+nous aurons aperçu
+vous aurez aperçu
+ils (elles) auront aperçu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aperçu
+tu aurais aperçu
+il (elle) aurait aperçu
+nous aurions aperçu
+vous auriez aperçu
+ils (elles) auraient aperçu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aperçu
+que tu aies aperçu
+qu’il (elle) ait aperçu
+que nous ayons aperçu
+que vous ayez aperçu
+qu’ils (elles) aient aperçu
+
+** Plus-que-parfait
+
+que j'eusse aperçu
+que tu eusses aperçu
+qu’il (elle) eût aperçu
+que nous eussions aperçu
+que vous eussiez aperçu
+qu’ils (elles) eussent aperçu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aperçu
+ayez aperçu
+
+* INFINITIF
+
+** Passé
+
+avoir aperçu
+
+* PARTICIPE
+
+** Passé
+
+ayant aperçu
+aperçu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis aperçu(e)
+tu es aperçu(e)
+il (elle) est aperçu(e)
+nous sommes aperçu(e)s
+vous êtes aperçu(e)s
+ils (elles) sont aperçu(e)s
+
+** Imparfait
+
+j'étais aperçu(e)
+tu étais aperçu(e)
+il (elle) était aperçu(e)
+nous étions aperçu(e)s
+vous étiez aperçu(e)s
+ils (elles) étaient aperçu(e)s
+
+** Passé simple
+
+je fus aperçu(e)
+tu fus aperçu(e)
+il (elle) fut aperçu(e)
+nous fûmes aperçu(e)s
+vous fûtes aperçu(e)s
+ils (elles) furent aperçu(e)s
+
+** Futur simple
+
+je serai aperçu(e)
+tu seras aperçu(e)
+il (elle) sera aperçu(e)
+nous serons aperçu(e)s
+vous serez aperçu(e)s
+ils (elles) seront aperçu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aperçu(e)
+tu serais aperçu(e)
+il (elle) serait aperçu(e)
+nous serions aperçu(e)s
+vous seriez aperçu(e)s
+ils (elles) seraient aperçu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aperçu(e)
+que tu sois aperçu(e)
+qu’il (elle) soit aperçu(e)
+que nous soyons aperçu(e)s
+que vous soyez aperçu(e)s
+qu’ils (elles) soient aperçu(e)s
+
+** Imparfait
+
+que je fusse aperçu(e)
+que tu fusses aperçu(e)
+qu’il (elle) fût aperçu(e)
+que nous fussions aperçu(e)s
+que vous fussiez aperçu(e)s
+qu’ils (elles) fussent aperçu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aperçu(e)s
+soyez aperçu(e)s
+
+* INFINITIF
+
+** Présent
+
+être aperçu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aperçu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aperçu(e)
+tu as été aperçu(e)
+il (elle) a été aperçu(e)
+nous avons été aperçu(e)s
+vous avez été aperçu(e)s
+ils (elles) ont été aperçu(e)s
+
+** Plus-que-parfait
+
+j'avais été aperçu(e)
+il (elle) avait été aperçu(e)
+nous avions été aperçu(e)s
+ils (elles) avaient été aperçu(e)s
+
+** Passé antérieur
+
+j'eus été aperçu(e)
+tu eus été aperçu(e)
+il (elle) eut été aperçu(e)
+nous eûmes été aperçu(e)s
+vous eûtes été aperçu(e)s
+ils (elles) eurent été aperçu(e)s
+
+** Futur antérieur
+
+j'aurai été aperçu(e)
+tu auras été aperçu(e)
+il (elle) aura été aperçu(e)
+nous aurons été aperçu(e)s
+vous aurez été aperçu(e)s
+ils (elles) auront été aperçu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aperçu(e)
+j'aurais été aperçu(e)
+il (elle) aurait été aperçu(e)
+nous aurions été aperçu(e)s
+vous auriez été aperçu(e)s
+ils (elles) auraient été aperçu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aperçu(e)
+que tu aies été aperçu(e)
+qu’il (elle) ait été aperçu(e)
+que nous ayons été aperçu(e)s
+que vous ayez été aperçu(e)s
+qu’ils (elles) aient été aperçu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aperçu(e)
+que tu eusses été aperçu(e)
+qu’il (elle) eût été aperçu(e)
+que nous eussions été aperçu(e)s
+que vous eussiez été aperçu(e)s
+qu’ils (elles) eussent été aperçu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aperçu(e)
+ayons été aperçu(e)s
+ayez été aperçu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aperçu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aperçu(e)(s)

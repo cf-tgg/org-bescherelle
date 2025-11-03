@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recoudre
+
+* INDICATIF
+
+** Présent
+
+je recouds
+tu recouds
+il (elle) recoud
+nous recousons
+vous recousez
+ils (elles) recousent
+
+** Imparfait
+
+je recousais
+tu recousais
+il (elle) recousait
+nous recousions
+vous recousiez
+ils (elles) recousaient
+
+** Passé simple
+
+je recousis
+tu recousis
+il (elle) recousit
+nous recousîmes
+vous recousîtes
+ils (elles) recousirent
+
+** Futur simple
+
+je recoudrai
+tu recoudras
+il (elle) recoudra
+nous recoudrons
+vous recoudrez
+ils (elles) recoudront
+
+* CONDITIONNEL
+
+** Présent
+
+je recoudrais
+tu recoudrais
+il (elle) recoudrait
+nous recoudrions
+vous recoudriez
+ils (elles) recoudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recouse
+que tu recouses
+qu’il (elle) recouse
+que nous recousions
+que vous recousiez
+qu’ils (elles) recousent
+
+** Imparfait
+
+que je recousisse
+que tu recousisses
+qu’il (elle) recousît
+que nous recousissions
+que vous recousissiez
+qu’ils (elles) recousissent
+
+* IMPÉRATIF
+
+** Présent
+
+recouds
+recousons
+recousez
+
+* INFINITIF
+
+** Présent
+
+recoudre
+
+* PARTICIPE
+
+** Présent
+
+recousant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recousu
+tu as recousu
+il (elle) a recousu
+nous avons recousu
+vous avez recousu
+ils (elles) ont recousu
+
+** Plus-que-parfait
+
+j'avais recousu
+tu avais recousu
+il (elle) avait recousu
+nous avions recousu
+vous aviez recousu
+ils (elles) avaient recousu
+
+** Passé antérieur
+
+j'eus recousu
+tu eus recousu
+il (elle) eut recousu
+nous eûmes recousu
+vous eûtes recousu
+ils (elles) eurent recousu
+
+** Futur antérieur
+
+j'aurai recousu
+tu auras recousu
+il (elle) aura recousu
+nous aurons recousu
+vous aurez recousu
+ils (elles) auront recousu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recousu
+tu aurais recousu
+il (elle) aurait recousu
+nous aurions recousu
+vous auriez recousu
+ils (elles) auraient recousu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recousu
+que tu aies recousu
+qu’il (elle) ait recousu
+que nous ayons recousu
+que vous ayez recousu
+qu’ils (elles) aient recousu
+
+** Plus-que-parfait
+
+que j'eusse recousu
+que tu eusses recousu
+qu’il (elle) eût recousu
+que nous eussions recousu
+que vous eussiez recousu
+qu’ils (elles) eussent recousu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recousu
+ayez recousu
+
+* INFINITIF
+
+** Passé
+
+avoir recousu
+
+* PARTICIPE
+
+** Passé
+
+ayant recousu
+recousu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis recousu(e)
+tu es recousu(e)
+il (elle) est recousu(e)
+nous sommes recousu(e)s
+vous êtes recousu(e)s
+ils (elles) sont recousu(e)s
+
+** Imparfait
+
+j'étais recousu(e)
+tu étais recousu(e)
+il (elle) était recousu(e)
+nous étions recousu(e)s
+vous étiez recousu(e)s
+ils (elles) étaient recousu(e)s
+
+** Passé simple
+
+je fus recousu(e)
+tu fus recousu(e)
+il (elle) fut recousu(e)
+nous fûmes recousu(e)s
+vous fûtes recousu(e)s
+ils (elles) furent recousu(e)s
+
+** Futur simple
+
+je serai recousu(e)
+tu seras recousu(e)
+il (elle) sera recousu(e)
+nous serons recousu(e)s
+vous serez recousu(e)s
+ils (elles) seront recousu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recousu(e)
+tu serais recousu(e)
+il (elle) serait recousu(e)
+nous serions recousu(e)s
+vous seriez recousu(e)s
+ils (elles) seraient recousu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recousu(e)
+que tu sois recousu(e)
+qu’il (elle) soit recousu(e)
+que nous soyons recousu(e)s
+que vous soyez recousu(e)s
+qu’ils (elles) soient recousu(e)s
+
+** Imparfait
+
+que je fusse recousu(e)
+que tu fusses recousu(e)
+qu’il (elle) fût recousu(e)
+que nous fussions recousu(e)s
+que vous fussiez recousu(e)s
+qu’ils (elles) fussent recousu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recousu(e)s
+soyez recousu(e)s
+
+* INFINITIF
+
+** Présent
+
+être recousu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recousu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recousu(e)
+tu as été recousu(e)
+il (elle) a été recousu(e)
+nous avons été recousu(e)s
+vous avez été recousu(e)s
+ils (elles) ont été recousu(e)s
+
+** Plus-que-parfait
+
+j'avais été recousu(e)
+il (elle) avait été recousu(e)
+nous avions été recousu(e)s
+ils (elles) avaient été recousu(e)s
+
+** Passé antérieur
+
+j'eus été recousu(e)
+tu eus été recousu(e)
+il (elle) eut été recousu(e)
+nous eûmes été recousu(e)s
+vous eûtes été recousu(e)s
+ils (elles) eurent été recousu(e)s
+
+** Futur antérieur
+
+j'aurai été recousu(e)
+tu auras été recousu(e)
+il (elle) aura été recousu(e)
+nous aurons été recousu(e)s
+vous aurez été recousu(e)s
+ils (elles) auront été recousu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recousu(e)
+j'aurais été recousu(e)
+il (elle) aurait été recousu(e)
+nous aurions été recousu(e)s
+vous auriez été recousu(e)s
+ils (elles) auraient été recousu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recousu(e)
+que tu aies été recousu(e)
+qu’il (elle) ait été recousu(e)
+que nous ayons été recousu(e)s
+que vous ayez été recousu(e)s
+qu’ils (elles) aient été recousu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recousu(e)
+que tu eusses été recousu(e)
+qu’il (elle) eût été recousu(e)
+que nous eussions été recousu(e)s
+que vous eussiez été recousu(e)s
+qu’ils (elles) eussent été recousu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recousu(e)
+ayons été recousu(e)s
+ayez été recousu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recousu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recousu(e)(s)

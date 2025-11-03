@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe couvrir
+
+* INDICATIF
+
+** Présent
+
+je couvre
+tu couvres
+il (elle) couvre
+nous couvrons
+vous couvrez
+ils (elles) couvrent
+
+** Imparfait
+
+je couvrais
+tu couvrais
+il (elle) couvrait
+nous couvrions
+vous couvriez
+ils (elles) couvraient
+
+** Passé simple
+
+je couvris
+tu couvris
+il (elle) couvrit
+nous couvrîmes
+vous couvrîtes
+ils (elles) couvrirent
+
+** Futur simple
+
+je couvrirai
+tu couvriras
+il (elle) couvrira
+nous couvrirons
+vous couvrirez
+ils (elles) couvriront
+
+* CONDITIONNEL
+
+** Présent
+
+je couvrirais
+tu couvrirais
+il (elle) couvrirait
+nous couvririons
+vous couvririez
+ils (elles) couvriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je couvre
+que tu couvres
+qu’il (elle) couvre
+que nous couvrions
+que vous couvriez
+qu’ils (elles) couvrent
+
+** Imparfait
+
+que je couvrisse
+que tu couvrisses
+qu’il (elle) couvrît
+que nous couvrissions
+que vous couvrissiez
+qu’ils (elles) couvrissent
+
+* IMPÉRATIF
+
+** Présent
+
+couvre
+couvrons
+couvrez
+
+* INFINITIF
+
+** Présent
+
+couvrir
+
+* PARTICIPE
+
+** Présent
+
+couvrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai couvert
+tu as couvert
+il (elle) a couvert
+nous avons couvert
+vous avez couvert
+ils (elles) ont couvert
+
+** Plus-que-parfait
+
+j'avais couvert
+tu avais couvert
+il (elle) avait couvert
+nous avions couvert
+vous aviez couvert
+ils (elles) avaient couvert
+
+** Passé antérieur
+
+j'eus couvert
+tu eus couvert
+il (elle) eut couvert
+nous eûmes couvert
+vous eûtes couvert
+ils (elles) eurent couvert
+
+** Futur antérieur
+
+j'aurai couvert
+tu auras couvert
+il (elle) aura couvert
+nous aurons couvert
+vous aurez couvert
+ils (elles) auront couvert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais couvert
+tu aurais couvert
+il (elle) aurait couvert
+nous aurions couvert
+vous auriez couvert
+ils (elles) auraient couvert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie couvert
+que tu aies couvert
+qu’il (elle) ait couvert
+que nous ayons couvert
+que vous ayez couvert
+qu’ils (elles) aient couvert
+
+** Plus-que-parfait
+
+que j'eusse couvert
+que tu eusses couvert
+qu’il (elle) eût couvert
+que nous eussions couvert
+que vous eussiez couvert
+qu’ils (elles) eussent couvert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons couvert
+ayez couvert
+
+* INFINITIF
+
+** Passé
+
+avoir couvert
+
+* PARTICIPE
+
+** Passé
+
+ayant couvert
+couvert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis couvert(e)
+tu es couvert(e)
+il (elle) est couvert(e)
+nous sommes couvert(e)s
+vous êtes couvert(e)s
+ils (elles) sont couvert(e)s
+
+** Imparfait
+
+j'étais couvert(e)
+tu étais couvert(e)
+il (elle) était couvert(e)
+nous étions couvert(e)s
+vous étiez couvert(e)s
+ils (elles) étaient couvert(e)s
+
+** Passé simple
+
+je fus couvert(e)
+tu fus couvert(e)
+il (elle) fut couvert(e)
+nous fûmes couvert(e)s
+vous fûtes couvert(e)s
+ils (elles) furent couvert(e)s
+
+** Futur simple
+
+je serai couvert(e)
+tu seras couvert(e)
+il (elle) sera couvert(e)
+nous serons couvert(e)s
+vous serez couvert(e)s
+ils (elles) seront couvert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais couvert(e)
+tu serais couvert(e)
+il (elle) serait couvert(e)
+nous serions couvert(e)s
+vous seriez couvert(e)s
+ils (elles) seraient couvert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois couvert(e)
+que tu sois couvert(e)
+qu’il (elle) soit couvert(e)
+que nous soyons couvert(e)s
+que vous soyez couvert(e)s
+qu’ils (elles) soient couvert(e)s
+
+** Imparfait
+
+que je fusse couvert(e)
+que tu fusses couvert(e)
+qu’il (elle) fût couvert(e)
+que nous fussions couvert(e)s
+que vous fussiez couvert(e)s
+qu’ils (elles) fussent couvert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons couvert(e)s
+soyez couvert(e)s
+
+* INFINITIF
+
+** Présent
+
+être couvert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant couvert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été couvert(e)
+tu as été couvert(e)
+il (elle) a été couvert(e)
+nous avons été couvert(e)s
+vous avez été couvert(e)s
+ils (elles) ont été couvert(e)s
+
+** Plus-que-parfait
+
+j'avais été couvert(e)
+il (elle) avait été couvert(e)
+nous avions été couvert(e)s
+ils (elles) avaient été couvert(e)s
+
+** Passé antérieur
+
+j'eus été couvert(e)
+tu eus été couvert(e)
+il (elle) eut été couvert(e)
+nous eûmes été couvert(e)s
+vous eûtes été couvert(e)s
+ils (elles) eurent été couvert(e)s
+
+** Futur antérieur
+
+j'aurai été couvert(e)
+tu auras été couvert(e)
+il (elle) aura été couvert(e)
+nous aurons été couvert(e)s
+vous aurez été couvert(e)s
+ils (elles) auront été couvert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été couvert(e)
+j'aurais été couvert(e)
+il (elle) aurait été couvert(e)
+nous aurions été couvert(e)s
+vous auriez été couvert(e)s
+ils (elles) auraient été couvert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été couvert(e)
+que tu aies été couvert(e)
+qu’il (elle) ait été couvert(e)
+que nous ayons été couvert(e)s
+que vous ayez été couvert(e)s
+qu’ils (elles) aient été couvert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été couvert(e)
+que tu eusses été couvert(e)
+qu’il (elle) eût été couvert(e)
+que nous eussions été couvert(e)s
+que vous eussiez été couvert(e)s
+qu’ils (elles) eussent été couvert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été couvert(e)
+ayons été couvert(e)s
+ayez été couvert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été couvert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été couvert(e)(s)

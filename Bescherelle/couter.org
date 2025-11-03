@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe couter
+
+* INDICATIF
+
+** Présent
+
+je coûte
+tu coûtes
+il (elle) coûte
+nous coûtons
+vous coûtez
+ils (elles) coûtent
+
+** Imparfait
+
+je coûtais
+tu coûtais
+il (elle) coûtait
+nous coûtions
+vous coûtiez
+ils (elles) coûtaient
+
+** Passé simple
+
+je coûtai
+tu coûtas
+il (elle) coûta
+nous coûtâmes
+vous coûtâtes
+ils (elles) coûtèrent
+
+** Futur simple
+
+je coûterai
+tu coûteras
+il (elle) coûtera
+nous coûterons
+vous coûterez
+ils (elles) coûteront
+
+* CONDITIONNEL
+
+** Présent
+
+je coûterais
+tu coûterais
+il (elle) coûterait
+nous coûterions
+vous coûteriez
+ils (elles) coûteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coûte
+que tu coûtes
+qu’il (elle) coûte
+que nous coûtions
+que vous coûtiez
+qu’ils (elles) coûtent
+
+** Imparfait
+
+que je coûtasse
+que tu coûtasses
+qu’il (elle) coûtât
+que nous coûtassions
+que vous coûtassiez
+qu’ils (elles) coûtassent
+
+* IMPÉRATIF
+
+** Présent
+
+coûte
+coûtons
+coûtez
+
+* INFINITIF
+
+** Présent
+
+coûter
+
+* PARTICIPE
+
+** Présent
+
+coûtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coûté
+tu as coûté
+il (elle) a coûté
+nous avons coûté
+vous avez coûté
+ils (elles) ont coûté
+
+** Plus-que-parfait
+
+j'avais coûté
+tu avais coûté
+il (elle) avait coûté
+nous avions coûté
+vous aviez coûté
+ils (elles) avaient coûté
+
+** Passé antérieur
+
+j'eus coûté
+tu eus coûté
+il (elle) eut coûté
+nous eûmes coûté
+vous eûtes coûté
+ils (elles) eurent coûté
+
+** Futur antérieur
+
+j'aurai coûté
+tu auras coûté
+il (elle) aura coûté
+nous aurons coûté
+vous aurez coûté
+ils (elles) auront coûté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coûté
+tu aurais coûté
+il (elle) aurait coûté
+nous aurions coûté
+vous auriez coûté
+ils (elles) auraient coûté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coûté
+que tu aies coûté
+qu’il (elle) ait coûté
+que nous ayons coûté
+que vous ayez coûté
+qu’ils (elles) aient coûté
+
+** Plus-que-parfait
+
+que j'eusse coûté
+que tu eusses coûté
+qu’il (elle) eût coûté
+que nous eussions coûté
+que vous eussiez coûté
+qu’ils (elles) eussent coûté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coûté
+ayez coûté
+
+* INFINITIF
+
+** Passé
+
+avoir coûté
+
+* PARTICIPE
+
+** Passé
+
+ayant coûté
+coûté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coûté(e)
+tu es coûté(e)
+il (elle) est coûté(e)
+nous sommes coûté(e)s
+vous êtes coûté(e)s
+ils (elles) sont coûté(e)s
+
+** Imparfait
+
+j'étais coûté(e)
+tu étais coûté(e)
+il (elle) était coûté(e)
+nous étions coûté(e)s
+vous étiez coûté(e)s
+ils (elles) étaient coûté(e)s
+
+** Passé simple
+
+je fus coûté(e)
+tu fus coûté(e)
+il (elle) fut coûté(e)
+nous fûmes coûté(e)s
+vous fûtes coûté(e)s
+ils (elles) furent coûté(e)s
+
+** Futur simple
+
+je serai coûté(e)
+tu seras coûté(e)
+il (elle) sera coûté(e)
+nous serons coûté(e)s
+vous serez coûté(e)s
+ils (elles) seront coûté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coûté(e)
+tu serais coûté(e)
+il (elle) serait coûté(e)
+nous serions coûté(e)s
+vous seriez coûté(e)s
+ils (elles) seraient coûté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coûté(e)
+que tu sois coûté(e)
+qu’il (elle) soit coûté(e)
+que nous soyons coûté(e)s
+que vous soyez coûté(e)s
+qu’ils (elles) soient coûté(e)s
+
+** Imparfait
+
+que je fusse coûté(e)
+que tu fusses coûté(e)
+qu’il (elle) fût coûté(e)
+que nous fussions coûté(e)s
+que vous fussiez coûté(e)s
+qu’ils (elles) fussent coûté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coûté(e)s
+soyez coûté(e)s
+
+* INFINITIF
+
+** Présent
+
+être coûté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coûté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coûté(e)
+tu as été coûté(e)
+il (elle) a été coûté(e)
+nous avons été coûté(e)s
+vous avez été coûté(e)s
+ils (elles) ont été coûté(e)s
+
+** Plus-que-parfait
+
+j'avais été coûté(e)
+il (elle) avait été coûté(e)
+nous avions été coûté(e)s
+ils (elles) avaient été coûté(e)s
+
+** Passé antérieur
+
+j'eus été coûté(e)
+tu eus été coûté(e)
+il (elle) eut été coûté(e)
+nous eûmes été coûté(e)s
+vous eûtes été coûté(e)s
+ils (elles) eurent été coûté(e)s
+
+** Futur antérieur
+
+j'aurai été coûté(e)
+tu auras été coûté(e)
+il (elle) aura été coûté(e)
+nous aurons été coûté(e)s
+vous aurez été coûté(e)s
+ils (elles) auront été coûté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coûté(e)
+j'aurais été coûté(e)
+il (elle) aurait été coûté(e)
+nous aurions été coûté(e)s
+vous auriez été coûté(e)s
+ils (elles) auraient été coûté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coûté(e)
+que tu aies été coûté(e)
+qu’il (elle) ait été coûté(e)
+que nous ayons été coûté(e)s
+que vous ayez été coûté(e)s
+qu’ils (elles) aient été coûté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coûté(e)
+que tu eusses été coûté(e)
+qu’il (elle) eût été coûté(e)
+que nous eussions été coûté(e)s
+que vous eussiez été coûté(e)s
+qu’ils (elles) eussent été coûté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coûté(e)
+ayons été coûté(e)s
+ayez été coûté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coûté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coûté(e)(s)

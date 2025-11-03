@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe impartir
+
+* INDICATIF
+
+** Présent
+
+j'impartis
+tu impartis
+il (elle) impartit
+nous impartissons
+vous impartissez
+ils (elles) impartissent
+
+** Imparfait
+
+j'impartissais
+tu impartissais
+il (elle) impartissait
+nous impartissions
+vous impartissiez
+ils (elles) impartissaient
+
+** Passé simple
+
+j'impartis
+tu impartis
+il (elle) impartit
+nous impartîmes
+vous impartîtes
+ils (elles) impartirent
+
+** Futur simple
+
+j'impartirai
+tu impartiras
+il (elle) impartira
+nous impartirons
+vous impartirez
+ils (elles) impartiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'impartirais
+tu impartirais
+il (elle) impartirait
+nous impartirions
+vous impartiriez
+ils (elles) impartiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'impartisse
+que tu impartisses
+qu’il (elle) impartisse
+que nous impartissions
+que vous impartissiez
+qu’ils (elles) impartissent
+
+** Imparfait
+
+que j'impartisse
+que tu impartisses
+qu’il (elle) impartît
+que nous impartissions
+que vous impartissiez
+qu’ils (elles) impartissent
+
+* IMPÉRATIF
+
+** Présent
+
+impartis
+impartissons
+impartissez
+
+* INFINITIF
+
+** Présent
+
+impartir
+
+* PARTICIPE
+
+** Présent
+
+impartissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imparti
+tu as imparti
+il (elle) a imparti
+nous avons imparti
+vous avez imparti
+ils (elles) ont imparti
+
+** Plus-que-parfait
+
+j'avais imparti
+tu avais imparti
+il (elle) avait imparti
+nous avions imparti
+vous aviez imparti
+ils (elles) avaient imparti
+
+** Passé antérieur
+
+j'eus imparti
+tu eus imparti
+il (elle) eut imparti
+nous eûmes imparti
+vous eûtes imparti
+ils (elles) eurent imparti
+
+** Futur antérieur
+
+j'aurai imparti
+tu auras imparti
+il (elle) aura imparti
+nous aurons imparti
+vous aurez imparti
+ils (elles) auront imparti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imparti
+tu aurais imparti
+il (elle) aurait imparti
+nous aurions imparti
+vous auriez imparti
+ils (elles) auraient imparti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imparti
+que tu aies imparti
+qu’il (elle) ait imparti
+que nous ayons imparti
+que vous ayez imparti
+qu’ils (elles) aient imparti
+
+** Plus-que-parfait
+
+que j'eusse imparti
+que tu eusses imparti
+qu’il (elle) eût imparti
+que nous eussions imparti
+que vous eussiez imparti
+qu’ils (elles) eussent imparti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imparti
+ayez imparti
+
+* INFINITIF
+
+** Passé
+
+avoir imparti
+
+* PARTICIPE
+
+** Passé
+
+ayant imparti
+imparti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis imparti(e)
+tu es imparti(e)
+il (elle) est imparti(e)
+nous sommes imparti(e)s
+vous êtes imparti(e)s
+ils (elles) sont imparti(e)s
+
+** Imparfait
+
+j'étais imparti(e)
+tu étais imparti(e)
+il (elle) était imparti(e)
+nous étions imparti(e)s
+vous étiez imparti(e)s
+ils (elles) étaient imparti(e)s
+
+** Passé simple
+
+je fus imparti(e)
+tu fus imparti(e)
+il (elle) fut imparti(e)
+nous fûmes imparti(e)s
+vous fûtes imparti(e)s
+ils (elles) furent imparti(e)s
+
+** Futur simple
+
+je serai imparti(e)
+tu seras imparti(e)
+il (elle) sera imparti(e)
+nous serons imparti(e)s
+vous serez imparti(e)s
+ils (elles) seront imparti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imparti(e)
+tu serais imparti(e)
+il (elle) serait imparti(e)
+nous serions imparti(e)s
+vous seriez imparti(e)s
+ils (elles) seraient imparti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imparti(e)
+que tu sois imparti(e)
+qu’il (elle) soit imparti(e)
+que nous soyons imparti(e)s
+que vous soyez imparti(e)s
+qu’ils (elles) soient imparti(e)s
+
+** Imparfait
+
+que je fusse imparti(e)
+que tu fusses imparti(e)
+qu’il (elle) fût imparti(e)
+que nous fussions imparti(e)s
+que vous fussiez imparti(e)s
+qu’ils (elles) fussent imparti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imparti(e)s
+soyez imparti(e)s
+
+* INFINITIF
+
+** Présent
+
+être imparti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imparti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imparti(e)
+tu as été imparti(e)
+il (elle) a été imparti(e)
+nous avons été imparti(e)s
+vous avez été imparti(e)s
+ils (elles) ont été imparti(e)s
+
+** Plus-que-parfait
+
+j'avais été imparti(e)
+il (elle) avait été imparti(e)
+nous avions été imparti(e)s
+ils (elles) avaient été imparti(e)s
+
+** Passé antérieur
+
+j'eus été imparti(e)
+tu eus été imparti(e)
+il (elle) eut été imparti(e)
+nous eûmes été imparti(e)s
+vous eûtes été imparti(e)s
+ils (elles) eurent été imparti(e)s
+
+** Futur antérieur
+
+j'aurai été imparti(e)
+tu auras été imparti(e)
+il (elle) aura été imparti(e)
+nous aurons été imparti(e)s
+vous aurez été imparti(e)s
+ils (elles) auront été imparti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imparti(e)
+j'aurais été imparti(e)
+il (elle) aurait été imparti(e)
+nous aurions été imparti(e)s
+vous auriez été imparti(e)s
+ils (elles) auraient été imparti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imparti(e)
+que tu aies été imparti(e)
+qu’il (elle) ait été imparti(e)
+que nous ayons été imparti(e)s
+que vous ayez été imparti(e)s
+qu’ils (elles) aient été imparti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imparti(e)
+que tu eusses été imparti(e)
+qu’il (elle) eût été imparti(e)
+que nous eussions été imparti(e)s
+que vous eussiez été imparti(e)s
+qu’ils (elles) eussent été imparti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imparti(e)
+ayons été imparti(e)s
+ayez été imparti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imparti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imparti(e)(s)

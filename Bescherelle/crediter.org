@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe crediter
+
+* INDICATIF
+
+** Présent
+
+je crédite
+tu crédites
+il (elle) crédite
+nous créditons
+vous créditez
+ils (elles) créditent
+
+** Imparfait
+
+je créditais
+tu créditais
+il (elle) créditait
+nous créditions
+vous créditiez
+ils (elles) créditaient
+
+** Passé simple
+
+je créditai
+tu créditas
+il (elle) crédita
+nous créditâmes
+vous créditâtes
+ils (elles) créditèrent
+
+** Futur simple
+
+je créditerai
+tu créditeras
+il (elle) créditera
+nous créditerons
+vous créditerez
+ils (elles) créditeront
+
+* CONDITIONNEL
+
+** Présent
+
+je créditerais
+tu créditerais
+il (elle) créditerait
+nous créditerions
+vous créditeriez
+ils (elles) créditeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je crédite
+que tu crédites
+qu’il (elle) crédite
+que nous créditions
+que vous créditiez
+qu’ils (elles) créditent
+
+** Imparfait
+
+que je créditasse
+que tu créditasses
+qu’il (elle) créditât
+que nous créditassions
+que vous créditassiez
+qu’ils (elles) créditassent
+
+* IMPÉRATIF
+
+** Présent
+
+crédite
+créditons
+créditez
+
+* INFINITIF
+
+** Présent
+
+créditer
+
+* PARTICIPE
+
+** Présent
+
+créditant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai crédité
+tu as crédité
+il (elle) a crédité
+nous avons crédité
+vous avez crédité
+ils (elles) ont crédité
+
+** Plus-que-parfait
+
+j'avais crédité
+tu avais crédité
+il (elle) avait crédité
+nous avions crédité
+vous aviez crédité
+ils (elles) avaient crédité
+
+** Passé antérieur
+
+j'eus crédité
+tu eus crédité
+il (elle) eut crédité
+nous eûmes crédité
+vous eûtes crédité
+ils (elles) eurent crédité
+
+** Futur antérieur
+
+j'aurai crédité
+tu auras crédité
+il (elle) aura crédité
+nous aurons crédité
+vous aurez crédité
+ils (elles) auront crédité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais crédité
+tu aurais crédité
+il (elle) aurait crédité
+nous aurions crédité
+vous auriez crédité
+ils (elles) auraient crédité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie crédité
+que tu aies crédité
+qu’il (elle) ait crédité
+que nous ayons crédité
+que vous ayez crédité
+qu’ils (elles) aient crédité
+
+** Plus-que-parfait
+
+que j'eusse crédité
+que tu eusses crédité
+qu’il (elle) eût crédité
+que nous eussions crédité
+que vous eussiez crédité
+qu’ils (elles) eussent crédité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons crédité
+ayez crédité
+
+* INFINITIF
+
+** Passé
+
+avoir crédité
+
+* PARTICIPE
+
+** Passé
+
+ayant crédité
+crédité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis crédité(e)
+tu es crédité(e)
+il (elle) est crédité(e)
+nous sommes crédité(e)s
+vous êtes crédité(e)s
+ils (elles) sont crédité(e)s
+
+** Imparfait
+
+j'étais crédité(e)
+tu étais crédité(e)
+il (elle) était crédité(e)
+nous étions crédité(e)s
+vous étiez crédité(e)s
+ils (elles) étaient crédité(e)s
+
+** Passé simple
+
+je fus crédité(e)
+tu fus crédité(e)
+il (elle) fut crédité(e)
+nous fûmes crédité(e)s
+vous fûtes crédité(e)s
+ils (elles) furent crédité(e)s
+
+** Futur simple
+
+je serai crédité(e)
+tu seras crédité(e)
+il (elle) sera crédité(e)
+nous serons crédité(e)s
+vous serez crédité(e)s
+ils (elles) seront crédité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais crédité(e)
+tu serais crédité(e)
+il (elle) serait crédité(e)
+nous serions crédité(e)s
+vous seriez crédité(e)s
+ils (elles) seraient crédité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois crédité(e)
+que tu sois crédité(e)
+qu’il (elle) soit crédité(e)
+que nous soyons crédité(e)s
+que vous soyez crédité(e)s
+qu’ils (elles) soient crédité(e)s
+
+** Imparfait
+
+que je fusse crédité(e)
+que tu fusses crédité(e)
+qu’il (elle) fût crédité(e)
+que nous fussions crédité(e)s
+que vous fussiez crédité(e)s
+qu’ils (elles) fussent crédité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons crédité(e)s
+soyez crédité(e)s
+
+* INFINITIF
+
+** Présent
+
+être crédité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant crédité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été crédité(e)
+tu as été crédité(e)
+il (elle) a été crédité(e)
+nous avons été crédité(e)s
+vous avez été crédité(e)s
+ils (elles) ont été crédité(e)s
+
+** Plus-que-parfait
+
+j'avais été crédité(e)
+il (elle) avait été crédité(e)
+nous avions été crédité(e)s
+ils (elles) avaient été crédité(e)s
+
+** Passé antérieur
+
+j'eus été crédité(e)
+tu eus été crédité(e)
+il (elle) eut été crédité(e)
+nous eûmes été crédité(e)s
+vous eûtes été crédité(e)s
+ils (elles) eurent été crédité(e)s
+
+** Futur antérieur
+
+j'aurai été crédité(e)
+tu auras été crédité(e)
+il (elle) aura été crédité(e)
+nous aurons été crédité(e)s
+vous aurez été crédité(e)s
+ils (elles) auront été crédité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été crédité(e)
+j'aurais été crédité(e)
+il (elle) aurait été crédité(e)
+nous aurions été crédité(e)s
+vous auriez été crédité(e)s
+ils (elles) auraient été crédité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été crédité(e)
+que tu aies été crédité(e)
+qu’il (elle) ait été crédité(e)
+que nous ayons été crédité(e)s
+que vous ayez été crédité(e)s
+qu’ils (elles) aient été crédité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été crédité(e)
+que tu eusses été crédité(e)
+qu’il (elle) eût été crédité(e)
+que nous eussions été crédité(e)s
+que vous eussiez été crédité(e)s
+qu’ils (elles) eussent été crédité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été crédité(e)
+ayons été crédité(e)s
+ayez été crédité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été crédité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été crédité(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tuiler
+
+* INDICATIF
+
+** Présent
+
+je tuile
+tu tuiles
+il (elle) tuile
+nous tuilons
+vous tuilez
+ils (elles) tuilent
+
+** Imparfait
+
+je tuilais
+tu tuilais
+il (elle) tuilait
+nous tuilions
+vous tuiliez
+ils (elles) tuilaient
+
+** Passé simple
+
+je tuilai
+tu tuilas
+il (elle) tuila
+nous tuilâmes
+vous tuilâtes
+ils (elles) tuilèrent
+
+** Futur simple
+
+je tuilerai
+tu tuileras
+il (elle) tuilera
+nous tuilerons
+vous tuilerez
+ils (elles) tuileront
+
+* CONDITIONNEL
+
+** Présent
+
+je tuilerais
+tu tuilerais
+il (elle) tuilerait
+nous tuilerions
+vous tuileriez
+ils (elles) tuileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tuile
+que tu tuiles
+qu’il (elle) tuile
+que nous tuilions
+que vous tuiliez
+qu’ils (elles) tuilent
+
+** Imparfait
+
+que je tuilasse
+que tu tuilasses
+qu’il (elle) tuilât
+que nous tuilassions
+que vous tuilassiez
+qu’ils (elles) tuilassent
+
+* IMPÉRATIF
+
+** Présent
+
+tuile
+tuilons
+tuilez
+
+* INFINITIF
+
+** Présent
+
+tuiler
+
+* PARTICIPE
+
+** Présent
+
+tuilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tuilé
+tu as tuilé
+il (elle) a tuilé
+nous avons tuilé
+vous avez tuilé
+ils (elles) ont tuilé
+
+** Plus-que-parfait
+
+j'avais tuilé
+tu avais tuilé
+il (elle) avait tuilé
+nous avions tuilé
+vous aviez tuilé
+ils (elles) avaient tuilé
+
+** Passé antérieur
+
+j'eus tuilé
+tu eus tuilé
+il (elle) eut tuilé
+nous eûmes tuilé
+vous eûtes tuilé
+ils (elles) eurent tuilé
+
+** Futur antérieur
+
+j'aurai tuilé
+tu auras tuilé
+il (elle) aura tuilé
+nous aurons tuilé
+vous aurez tuilé
+ils (elles) auront tuilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tuilé
+tu aurais tuilé
+il (elle) aurait tuilé
+nous aurions tuilé
+vous auriez tuilé
+ils (elles) auraient tuilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tuilé
+que tu aies tuilé
+qu’il (elle) ait tuilé
+que nous ayons tuilé
+que vous ayez tuilé
+qu’ils (elles) aient tuilé
+
+** Plus-que-parfait
+
+que j'eusse tuilé
+que tu eusses tuilé
+qu’il (elle) eût tuilé
+que nous eussions tuilé
+que vous eussiez tuilé
+qu’ils (elles) eussent tuilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tuilé
+ayez tuilé
+
+* INFINITIF
+
+** Passé
+
+avoir tuilé
+
+* PARTICIPE
+
+** Passé
+
+ayant tuilé
+tuilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tuilé(e)
+tu es tuilé(e)
+il (elle) est tuilé(e)
+nous sommes tuilé(e)s
+vous êtes tuilé(e)s
+ils (elles) sont tuilé(e)s
+
+** Imparfait
+
+j'étais tuilé(e)
+tu étais tuilé(e)
+il (elle) était tuilé(e)
+nous étions tuilé(e)s
+vous étiez tuilé(e)s
+ils (elles) étaient tuilé(e)s
+
+** Passé simple
+
+je fus tuilé(e)
+tu fus tuilé(e)
+il (elle) fut tuilé(e)
+nous fûmes tuilé(e)s
+vous fûtes tuilé(e)s
+ils (elles) furent tuilé(e)s
+
+** Futur simple
+
+je serai tuilé(e)
+tu seras tuilé(e)
+il (elle) sera tuilé(e)
+nous serons tuilé(e)s
+vous serez tuilé(e)s
+ils (elles) seront tuilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tuilé(e)
+tu serais tuilé(e)
+il (elle) serait tuilé(e)
+nous serions tuilé(e)s
+vous seriez tuilé(e)s
+ils (elles) seraient tuilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tuilé(e)
+que tu sois tuilé(e)
+qu’il (elle) soit tuilé(e)
+que nous soyons tuilé(e)s
+que vous soyez tuilé(e)s
+qu’ils (elles) soient tuilé(e)s
+
+** Imparfait
+
+que je fusse tuilé(e)
+que tu fusses tuilé(e)
+qu’il (elle) fût tuilé(e)
+que nous fussions tuilé(e)s
+que vous fussiez tuilé(e)s
+qu’ils (elles) fussent tuilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tuilé(e)s
+soyez tuilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tuilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tuilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tuilé(e)
+tu as été tuilé(e)
+il (elle) a été tuilé(e)
+nous avons été tuilé(e)s
+vous avez été tuilé(e)s
+ils (elles) ont été tuilé(e)s
+
+** Plus-que-parfait
+
+j'avais été tuilé(e)
+il (elle) avait été tuilé(e)
+nous avions été tuilé(e)s
+ils (elles) avaient été tuilé(e)s
+
+** Passé antérieur
+
+j'eus été tuilé(e)
+tu eus été tuilé(e)
+il (elle) eut été tuilé(e)
+nous eûmes été tuilé(e)s
+vous eûtes été tuilé(e)s
+ils (elles) eurent été tuilé(e)s
+
+** Futur antérieur
+
+j'aurai été tuilé(e)
+tu auras été tuilé(e)
+il (elle) aura été tuilé(e)
+nous aurons été tuilé(e)s
+vous aurez été tuilé(e)s
+ils (elles) auront été tuilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tuilé(e)
+j'aurais été tuilé(e)
+il (elle) aurait été tuilé(e)
+nous aurions été tuilé(e)s
+vous auriez été tuilé(e)s
+ils (elles) auraient été tuilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tuilé(e)
+que tu aies été tuilé(e)
+qu’il (elle) ait été tuilé(e)
+que nous ayons été tuilé(e)s
+que vous ayez été tuilé(e)s
+qu’ils (elles) aient été tuilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tuilé(e)
+que tu eusses été tuilé(e)
+qu’il (elle) eût été tuilé(e)
+que nous eussions été tuilé(e)s
+que vous eussiez été tuilé(e)s
+qu’ils (elles) eussent été tuilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tuilé(e)
+ayons été tuilé(e)s
+ayez été tuilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tuilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tuilé(e)(s)

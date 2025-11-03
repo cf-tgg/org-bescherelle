@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe chanter
+
+* INDICATIF
+
+** Présent
+
+je chante
+tu chantes
+il (elle) chante
+nous chantons
+vous chantez
+ils (elles) chantent
+
+** Imparfait
+
+je chantais
+tu chantais
+il (elle) chantait
+nous chantions
+vous chantiez
+ils (elles) chantaient
+
+** Passé simple
+
+je chantai
+tu chantas
+il (elle) chanta
+nous chantâmes
+vous chantâtes
+ils (elles) chantèrent
+
+** Futur simple
+
+je chanterai
+tu chanteras
+il (elle) chantera
+nous chanterons
+vous chanterez
+ils (elles) chanteront
+
+* CONDITIONNEL
+
+** Présent
+
+je chanterais
+tu chanterais
+il (elle) chanterait
+nous chanterions
+vous chanteriez
+ils (elles) chanteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chante
+que tu chantes
+qu’il (elle) chante
+que nous chantions
+que vous chantiez
+qu’ils (elles) chantent
+
+** Imparfait
+
+que je chantasse
+que tu chantasses
+qu’il (elle) chantât
+que nous chantassions
+que vous chantassiez
+qu’ils (elles) chantassent
+
+* IMPÉRATIF
+
+** Présent
+
+chante
+chantons
+chantez
+
+* INFINITIF
+
+** Présent
+
+chanter
+
+* PARTICIPE
+
+** Présent
+
+chantant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chanté
+tu as chanté
+il (elle) a chanté
+nous avons chanté
+vous avez chanté
+ils (elles) ont chanté
+
+** Plus-que-parfait
+
+j'avais chanté
+tu avais chanté
+il (elle) avait chanté
+nous avions chanté
+vous aviez chanté
+ils (elles) avaient chanté
+
+** Passé antérieur
+
+j'eus chanté
+tu eus chanté
+il (elle) eut chanté
+nous eûmes chanté
+vous eûtes chanté
+ils (elles) eurent chanté
+
+** Futur antérieur
+
+j'aurai chanté
+tu auras chanté
+il (elle) aura chanté
+nous aurons chanté
+vous aurez chanté
+ils (elles) auront chanté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chanté
+tu aurais chanté
+il (elle) aurait chanté
+nous aurions chanté
+vous auriez chanté
+ils (elles) auraient chanté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chanté
+que tu aies chanté
+qu’il (elle) ait chanté
+que nous ayons chanté
+que vous ayez chanté
+qu’ils (elles) aient chanté
+
+** Plus-que-parfait
+
+que j'eusse chanté
+que tu eusses chanté
+qu’il (elle) eût chanté
+que nous eussions chanté
+que vous eussiez chanté
+qu’ils (elles) eussent chanté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chanté
+ayez chanté
+
+* INFINITIF
+
+** Passé
+
+avoir chanté
+
+* PARTICIPE
+
+** Passé
+
+ayant chanté
+chanté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chanté(e)
+tu es chanté(e)
+il (elle) est chanté(e)
+nous sommes chanté(e)s
+vous êtes chanté(e)s
+ils (elles) sont chanté(e)s
+
+** Imparfait
+
+j'étais chanté(e)
+tu étais chanté(e)
+il (elle) était chanté(e)
+nous étions chanté(e)s
+vous étiez chanté(e)s
+ils (elles) étaient chanté(e)s
+
+** Passé simple
+
+je fus chanté(e)
+tu fus chanté(e)
+il (elle) fut chanté(e)
+nous fûmes chanté(e)s
+vous fûtes chanté(e)s
+ils (elles) furent chanté(e)s
+
+** Futur simple
+
+je serai chanté(e)
+tu seras chanté(e)
+il (elle) sera chanté(e)
+nous serons chanté(e)s
+vous serez chanté(e)s
+ils (elles) seront chanté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chanté(e)
+tu serais chanté(e)
+il (elle) serait chanté(e)
+nous serions chanté(e)s
+vous seriez chanté(e)s
+ils (elles) seraient chanté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chanté(e)
+que tu sois chanté(e)
+qu’il (elle) soit chanté(e)
+que nous soyons chanté(e)s
+que vous soyez chanté(e)s
+qu’ils (elles) soient chanté(e)s
+
+** Imparfait
+
+que je fusse chanté(e)
+que tu fusses chanté(e)
+qu’il (elle) fût chanté(e)
+que nous fussions chanté(e)s
+que vous fussiez chanté(e)s
+qu’ils (elles) fussent chanté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chanté(e)s
+soyez chanté(e)s
+
+* INFINITIF
+
+** Présent
+
+être chanté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chanté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chanté(e)
+tu as été chanté(e)
+il (elle) a été chanté(e)
+nous avons été chanté(e)s
+vous avez été chanté(e)s
+ils (elles) ont été chanté(e)s
+
+** Plus-que-parfait
+
+j'avais été chanté(e)
+il (elle) avait été chanté(e)
+nous avions été chanté(e)s
+ils (elles) avaient été chanté(e)s
+
+** Passé antérieur
+
+j'eus été chanté(e)
+tu eus été chanté(e)
+il (elle) eut été chanté(e)
+nous eûmes été chanté(e)s
+vous eûtes été chanté(e)s
+ils (elles) eurent été chanté(e)s
+
+** Futur antérieur
+
+j'aurai été chanté(e)
+tu auras été chanté(e)
+il (elle) aura été chanté(e)
+nous aurons été chanté(e)s
+vous aurez été chanté(e)s
+ils (elles) auront été chanté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chanté(e)
+j'aurais été chanté(e)
+il (elle) aurait été chanté(e)
+nous aurions été chanté(e)s
+vous auriez été chanté(e)s
+ils (elles) auraient été chanté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chanté(e)
+que tu aies été chanté(e)
+qu’il (elle) ait été chanté(e)
+que nous ayons été chanté(e)s
+que vous ayez été chanté(e)s
+qu’ils (elles) aient été chanté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chanté(e)
+que tu eusses été chanté(e)
+qu’il (elle) eût été chanté(e)
+que nous eussions été chanté(e)s
+que vous eussiez été chanté(e)s
+qu’ils (elles) eussent été chanté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chanté(e)
+ayons été chanté(e)s
+ayez été chanté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chanté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chanté(e)(s)

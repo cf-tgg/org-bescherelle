@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mirer
+
+* INDICATIF
+
+** Présent
+
+je mire
+tu mires
+il (elle) mire
+nous mirons
+vous mirez
+ils (elles) mirent
+
+** Imparfait
+
+je mirais
+tu mirais
+il (elle) mirait
+nous mirions
+vous miriez
+ils (elles) miraient
+
+** Passé simple
+
+je mirai
+tu miras
+il (elle) mira
+nous mirâmes
+vous mirâtes
+ils (elles) mirèrent
+
+** Futur simple
+
+je mirerai
+tu mireras
+il (elle) mirera
+nous mirerons
+vous mirerez
+ils (elles) mireront
+
+* CONDITIONNEL
+
+** Présent
+
+je mirerais
+tu mirerais
+il (elle) mirerait
+nous mirerions
+vous mireriez
+ils (elles) mireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mire
+que tu mires
+qu’il (elle) mire
+que nous mirions
+que vous miriez
+qu’ils (elles) mirent
+
+** Imparfait
+
+que je mirasse
+que tu mirasses
+qu’il (elle) mirât
+que nous mirassions
+que vous mirassiez
+qu’ils (elles) mirassent
+
+* IMPÉRATIF
+
+** Présent
+
+mire
+mirons
+mirez
+
+* INFINITIF
+
+** Présent
+
+mirer
+
+* PARTICIPE
+
+** Présent
+
+mirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai miré
+tu as miré
+il (elle) a miré
+nous avons miré
+vous avez miré
+ils (elles) ont miré
+
+** Plus-que-parfait
+
+j'avais miré
+tu avais miré
+il (elle) avait miré
+nous avions miré
+vous aviez miré
+ils (elles) avaient miré
+
+** Passé antérieur
+
+j'eus miré
+tu eus miré
+il (elle) eut miré
+nous eûmes miré
+vous eûtes miré
+ils (elles) eurent miré
+
+** Futur antérieur
+
+j'aurai miré
+tu auras miré
+il (elle) aura miré
+nous aurons miré
+vous aurez miré
+ils (elles) auront miré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais miré
+tu aurais miré
+il (elle) aurait miré
+nous aurions miré
+vous auriez miré
+ils (elles) auraient miré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie miré
+que tu aies miré
+qu’il (elle) ait miré
+que nous ayons miré
+que vous ayez miré
+qu’ils (elles) aient miré
+
+** Plus-que-parfait
+
+que j'eusse miré
+que tu eusses miré
+qu’il (elle) eût miré
+que nous eussions miré
+que vous eussiez miré
+qu’ils (elles) eussent miré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons miré
+ayez miré
+
+* INFINITIF
+
+** Passé
+
+avoir miré
+
+* PARTICIPE
+
+** Passé
+
+ayant miré
+miré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis miré(e)
+tu es miré(e)
+il (elle) est miré(e)
+nous sommes miré(e)s
+vous êtes miré(e)s
+ils (elles) sont miré(e)s
+
+** Imparfait
+
+j'étais miré(e)
+tu étais miré(e)
+il (elle) était miré(e)
+nous étions miré(e)s
+vous étiez miré(e)s
+ils (elles) étaient miré(e)s
+
+** Passé simple
+
+je fus miré(e)
+tu fus miré(e)
+il (elle) fut miré(e)
+nous fûmes miré(e)s
+vous fûtes miré(e)s
+ils (elles) furent miré(e)s
+
+** Futur simple
+
+je serai miré(e)
+tu seras miré(e)
+il (elle) sera miré(e)
+nous serons miré(e)s
+vous serez miré(e)s
+ils (elles) seront miré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais miré(e)
+tu serais miré(e)
+il (elle) serait miré(e)
+nous serions miré(e)s
+vous seriez miré(e)s
+ils (elles) seraient miré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois miré(e)
+que tu sois miré(e)
+qu’il (elle) soit miré(e)
+que nous soyons miré(e)s
+que vous soyez miré(e)s
+qu’ils (elles) soient miré(e)s
+
+** Imparfait
+
+que je fusse miré(e)
+que tu fusses miré(e)
+qu’il (elle) fût miré(e)
+que nous fussions miré(e)s
+que vous fussiez miré(e)s
+qu’ils (elles) fussent miré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons miré(e)s
+soyez miré(e)s
+
+* INFINITIF
+
+** Présent
+
+être miré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant miré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été miré(e)
+tu as été miré(e)
+il (elle) a été miré(e)
+nous avons été miré(e)s
+vous avez été miré(e)s
+ils (elles) ont été miré(e)s
+
+** Plus-que-parfait
+
+j'avais été miré(e)
+il (elle) avait été miré(e)
+nous avions été miré(e)s
+ils (elles) avaient été miré(e)s
+
+** Passé antérieur
+
+j'eus été miré(e)
+tu eus été miré(e)
+il (elle) eut été miré(e)
+nous eûmes été miré(e)s
+vous eûtes été miré(e)s
+ils (elles) eurent été miré(e)s
+
+** Futur antérieur
+
+j'aurai été miré(e)
+tu auras été miré(e)
+il (elle) aura été miré(e)
+nous aurons été miré(e)s
+vous aurez été miré(e)s
+ils (elles) auront été miré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été miré(e)
+j'aurais été miré(e)
+il (elle) aurait été miré(e)
+nous aurions été miré(e)s
+vous auriez été miré(e)s
+ils (elles) auraient été miré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été miré(e)
+que tu aies été miré(e)
+qu’il (elle) ait été miré(e)
+que nous ayons été miré(e)s
+que vous ayez été miré(e)s
+qu’ils (elles) aient été miré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été miré(e)
+que tu eusses été miré(e)
+qu’il (elle) eût été miré(e)
+que nous eussions été miré(e)s
+que vous eussiez été miré(e)s
+qu’ils (elles) eussent été miré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été miré(e)
+ayons été miré(e)s
+ayez été miré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été miré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été miré(e)(s)

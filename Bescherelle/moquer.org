@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe moquer
+
+* INDICATIF
+
+** Présent
+
+je moque
+tu moques
+il (elle) moque
+nous moquons
+vous moquez
+ils (elles) moquent
+
+** Imparfait
+
+je moquais
+tu moquais
+il (elle) moquait
+nous moquions
+vous moquiez
+ils (elles) moquaient
+
+** Passé simple
+
+je moquai
+tu moquas
+il (elle) moqua
+nous moquâmes
+vous moquâtes
+ils (elles) moquèrent
+
+** Futur simple
+
+je moquerai
+tu moqueras
+il (elle) moquera
+nous moquerons
+vous moquerez
+ils (elles) moqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je moquerais
+tu moquerais
+il (elle) moquerait
+nous moquerions
+vous moqueriez
+ils (elles) moqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je moque
+que tu moques
+qu’il (elle) moque
+que nous moquions
+que vous moquiez
+qu’ils (elles) moquent
+
+** Imparfait
+
+que je moquasse
+que tu moquasses
+qu’il (elle) moquât
+que nous moquassions
+que vous moquassiez
+qu’ils (elles) moquassent
+
+* IMPÉRATIF
+
+** Présent
+
+moque
+moquons
+moquez
+
+* INFINITIF
+
+** Présent
+
+moquer
+
+* PARTICIPE
+
+** Présent
+
+moquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai moqué
+tu as moqué
+il (elle) a moqué
+nous avons moqué
+vous avez moqué
+ils (elles) ont moqué
+
+** Plus-que-parfait
+
+j'avais moqué
+tu avais moqué
+il (elle) avait moqué
+nous avions moqué
+vous aviez moqué
+ils (elles) avaient moqué
+
+** Passé antérieur
+
+j'eus moqué
+tu eus moqué
+il (elle) eut moqué
+nous eûmes moqué
+vous eûtes moqué
+ils (elles) eurent moqué
+
+** Futur antérieur
+
+j'aurai moqué
+tu auras moqué
+il (elle) aura moqué
+nous aurons moqué
+vous aurez moqué
+ils (elles) auront moqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais moqué
+tu aurais moqué
+il (elle) aurait moqué
+nous aurions moqué
+vous auriez moqué
+ils (elles) auraient moqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie moqué
+que tu aies moqué
+qu’il (elle) ait moqué
+que nous ayons moqué
+que vous ayez moqué
+qu’ils (elles) aient moqué
+
+** Plus-que-parfait
+
+que j'eusse moqué
+que tu eusses moqué
+qu’il (elle) eût moqué
+que nous eussions moqué
+que vous eussiez moqué
+qu’ils (elles) eussent moqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons moqué
+ayez moqué
+
+* INFINITIF
+
+** Passé
+
+avoir moqué
+
+* PARTICIPE
+
+** Passé
+
+ayant moqué
+moqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis moqué(e)
+tu es moqué(e)
+il (elle) est moqué(e)
+nous sommes moqué(e)s
+vous êtes moqué(e)s
+ils (elles) sont moqué(e)s
+
+** Imparfait
+
+j'étais moqué(e)
+tu étais moqué(e)
+il (elle) était moqué(e)
+nous étions moqué(e)s
+vous étiez moqué(e)s
+ils (elles) étaient moqué(e)s
+
+** Passé simple
+
+je fus moqué(e)
+tu fus moqué(e)
+il (elle) fut moqué(e)
+nous fûmes moqué(e)s
+vous fûtes moqué(e)s
+ils (elles) furent moqué(e)s
+
+** Futur simple
+
+je serai moqué(e)
+tu seras moqué(e)
+il (elle) sera moqué(e)
+nous serons moqué(e)s
+vous serez moqué(e)s
+ils (elles) seront moqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais moqué(e)
+tu serais moqué(e)
+il (elle) serait moqué(e)
+nous serions moqué(e)s
+vous seriez moqué(e)s
+ils (elles) seraient moqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois moqué(e)
+que tu sois moqué(e)
+qu’il (elle) soit moqué(e)
+que nous soyons moqué(e)s
+que vous soyez moqué(e)s
+qu’ils (elles) soient moqué(e)s
+
+** Imparfait
+
+que je fusse moqué(e)
+que tu fusses moqué(e)
+qu’il (elle) fût moqué(e)
+que nous fussions moqué(e)s
+que vous fussiez moqué(e)s
+qu’ils (elles) fussent moqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons moqué(e)s
+soyez moqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être moqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant moqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été moqué(e)
+tu as été moqué(e)
+il (elle) a été moqué(e)
+nous avons été moqué(e)s
+vous avez été moqué(e)s
+ils (elles) ont été moqué(e)s
+
+** Plus-que-parfait
+
+j'avais été moqué(e)
+il (elle) avait été moqué(e)
+nous avions été moqué(e)s
+ils (elles) avaient été moqué(e)s
+
+** Passé antérieur
+
+j'eus été moqué(e)
+tu eus été moqué(e)
+il (elle) eut été moqué(e)
+nous eûmes été moqué(e)s
+vous eûtes été moqué(e)s
+ils (elles) eurent été moqué(e)s
+
+** Futur antérieur
+
+j'aurai été moqué(e)
+tu auras été moqué(e)
+il (elle) aura été moqué(e)
+nous aurons été moqué(e)s
+vous aurez été moqué(e)s
+ils (elles) auront été moqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été moqué(e)
+j'aurais été moqué(e)
+il (elle) aurait été moqué(e)
+nous aurions été moqué(e)s
+vous auriez été moqué(e)s
+ils (elles) auraient été moqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été moqué(e)
+que tu aies été moqué(e)
+qu’il (elle) ait été moqué(e)
+que nous ayons été moqué(e)s
+que vous ayez été moqué(e)s
+qu’ils (elles) aient été moqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été moqué(e)
+que tu eusses été moqué(e)
+qu’il (elle) eût été moqué(e)
+que nous eussions été moqué(e)s
+que vous eussiez été moqué(e)s
+qu’ils (elles) eussent été moqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été moqué(e)
+ayons été moqué(e)s
+ayez été moqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été moqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été moqué(e)(s)

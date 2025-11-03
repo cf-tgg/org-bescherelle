@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe pedaler
+
+* INDICATIF
+
+** Présent
+
+je pédale
+tu pédales
+il (elle) pédale
+nous pédalons
+vous pédalez
+ils (elles) pédalent
+
+** Imparfait
+
+je pédalais
+tu pédalais
+il (elle) pédalait
+nous pédalions
+vous pédaliez
+ils (elles) pédalaient
+
+** Passé simple
+
+je pédalai
+tu pédalas
+il (elle) pédala
+nous pédalâmes
+vous pédalâtes
+ils (elles) pédalèrent
+
+** Futur simple
+
+je pédalerai
+tu pédaleras
+il (elle) pédalera
+nous pédalerons
+vous pédalerez
+ils (elles) pédaleront
+
+* CONDITIONNEL
+
+** Présent
+
+je pédalerais
+tu pédalerais
+il (elle) pédalerait
+nous pédalerions
+vous pédaleriez
+ils (elles) pédaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pédale
+que tu pédales
+qu’il (elle) pédale
+que nous pédalions
+que vous pédaliez
+qu’ils (elles) pédalent
+
+** Imparfait
+
+que je pédalasse
+que tu pédalasses
+qu’il (elle) pédalât
+que nous pédalassions
+que vous pédalassiez
+qu’ils (elles) pédalassent
+
+* IMPÉRATIF
+
+** Présent
+
+pédale
+pédalons
+pédalez
+
+* INFINITIF
+
+** Présent
+
+pédaler
+
+* PARTICIPE
+
+** Présent
+
+pédalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pédalé
+tu as pédalé
+il (elle) a pédalé
+nous avons pédalé
+vous avez pédalé
+ils (elles) ont pédalé
+
+** Plus-que-parfait
+
+j'avais pédalé
+tu avais pédalé
+il (elle) avait pédalé
+nous avions pédalé
+vous aviez pédalé
+ils (elles) avaient pédalé
+
+** Passé antérieur
+
+j'eus pédalé
+tu eus pédalé
+il (elle) eut pédalé
+nous eûmes pédalé
+vous eûtes pédalé
+ils (elles) eurent pédalé
+
+** Futur antérieur
+
+j'aurai pédalé
+tu auras pédalé
+il (elle) aura pédalé
+nous aurons pédalé
+vous aurez pédalé
+ils (elles) auront pédalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pédalé
+tu aurais pédalé
+il (elle) aurait pédalé
+nous aurions pédalé
+vous auriez pédalé
+ils (elles) auraient pédalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pédalé
+que tu aies pédalé
+qu’il (elle) ait pédalé
+que nous ayons pédalé
+que vous ayez pédalé
+qu’ils (elles) aient pédalé
+
+** Plus-que-parfait
+
+que j'eusse pédalé
+que tu eusses pédalé
+qu’il (elle) eût pédalé
+que nous eussions pédalé
+que vous eussiez pédalé
+qu’ils (elles) eussent pédalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pédalé
+ayez pédalé
+
+* INFINITIF
+
+** Passé
+
+avoir pédalé
+
+* PARTICIPE
+
+** Passé
+
+ayant pédalé
+pédalé (invar.)

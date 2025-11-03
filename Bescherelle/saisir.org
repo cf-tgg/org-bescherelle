@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saisir
+
+* INDICATIF
+
+** Présent
+
+je saisis
+tu saisis
+il (elle) saisit
+nous saisissons
+vous saisissez
+ils (elles) saisissent
+
+** Imparfait
+
+je saisissais
+tu saisissais
+il (elle) saisissait
+nous saisissions
+vous saisissiez
+ils (elles) saisissaient
+
+** Passé simple
+
+je saisis
+tu saisis
+il (elle) saisit
+nous saisîmes
+vous saisîtes
+ils (elles) saisirent
+
+** Futur simple
+
+je saisirai
+tu saisiras
+il (elle) saisira
+nous saisirons
+vous saisirez
+ils (elles) saisiront
+
+* CONDITIONNEL
+
+** Présent
+
+je saisirais
+tu saisirais
+il (elle) saisirait
+nous saisirions
+vous saisiriez
+ils (elles) saisiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je saisisse
+que tu saisisses
+qu’il (elle) saisisse
+que nous saisissions
+que vous saisissiez
+qu’ils (elles) saisissent
+
+** Imparfait
+
+que je saisisse
+que tu saisisses
+qu’il (elle) saisît
+que nous saisissions
+que vous saisissiez
+qu’ils (elles) saisissent
+
+* IMPÉRATIF
+
+** Présent
+
+saisis
+saisissons
+saisissez
+
+* INFINITIF
+
+** Présent
+
+saisir
+
+* PARTICIPE
+
+** Présent
+
+saisissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai saisi
+tu as saisi
+il (elle) a saisi
+nous avons saisi
+vous avez saisi
+ils (elles) ont saisi
+
+** Plus-que-parfait
+
+j'avais saisi
+tu avais saisi
+il (elle) avait saisi
+nous avions saisi
+vous aviez saisi
+ils (elles) avaient saisi
+
+** Passé antérieur
+
+j'eus saisi
+tu eus saisi
+il (elle) eut saisi
+nous eûmes saisi
+vous eûtes saisi
+ils (elles) eurent saisi
+
+** Futur antérieur
+
+j'aurai saisi
+tu auras saisi
+il (elle) aura saisi
+nous aurons saisi
+vous aurez saisi
+ils (elles) auront saisi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais saisi
+tu aurais saisi
+il (elle) aurait saisi
+nous aurions saisi
+vous auriez saisi
+ils (elles) auraient saisi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie saisi
+que tu aies saisi
+qu’il (elle) ait saisi
+que nous ayons saisi
+que vous ayez saisi
+qu’ils (elles) aient saisi
+
+** Plus-que-parfait
+
+que j'eusse saisi
+que tu eusses saisi
+qu’il (elle) eût saisi
+que nous eussions saisi
+que vous eussiez saisi
+qu’ils (elles) eussent saisi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons saisi
+ayez saisi
+
+* INFINITIF
+
+** Passé
+
+avoir saisi
+
+* PARTICIPE
+
+** Passé
+
+ayant saisi
+saisi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis saisi(e)
+tu es saisi(e)
+il (elle) est saisi(e)
+nous sommes saisi(e)s
+vous êtes saisi(e)s
+ils (elles) sont saisi(e)s
+
+** Imparfait
+
+j'étais saisi(e)
+tu étais saisi(e)
+il (elle) était saisi(e)
+nous étions saisi(e)s
+vous étiez saisi(e)s
+ils (elles) étaient saisi(e)s
+
+** Passé simple
+
+je fus saisi(e)
+tu fus saisi(e)
+il (elle) fut saisi(e)
+nous fûmes saisi(e)s
+vous fûtes saisi(e)s
+ils (elles) furent saisi(e)s
+
+** Futur simple
+
+je serai saisi(e)
+tu seras saisi(e)
+il (elle) sera saisi(e)
+nous serons saisi(e)s
+vous serez saisi(e)s
+ils (elles) seront saisi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais saisi(e)
+tu serais saisi(e)
+il (elle) serait saisi(e)
+nous serions saisi(e)s
+vous seriez saisi(e)s
+ils (elles) seraient saisi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois saisi(e)
+que tu sois saisi(e)
+qu’il (elle) soit saisi(e)
+que nous soyons saisi(e)s
+que vous soyez saisi(e)s
+qu’ils (elles) soient saisi(e)s
+
+** Imparfait
+
+que je fusse saisi(e)
+que tu fusses saisi(e)
+qu’il (elle) fût saisi(e)
+que nous fussions saisi(e)s
+que vous fussiez saisi(e)s
+qu’ils (elles) fussent saisi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons saisi(e)s
+soyez saisi(e)s
+
+* INFINITIF
+
+** Présent
+
+être saisi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant saisi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été saisi(e)
+tu as été saisi(e)
+il (elle) a été saisi(e)
+nous avons été saisi(e)s
+vous avez été saisi(e)s
+ils (elles) ont été saisi(e)s
+
+** Plus-que-parfait
+
+j'avais été saisi(e)
+il (elle) avait été saisi(e)
+nous avions été saisi(e)s
+ils (elles) avaient été saisi(e)s
+
+** Passé antérieur
+
+j'eus été saisi(e)
+tu eus été saisi(e)
+il (elle) eut été saisi(e)
+nous eûmes été saisi(e)s
+vous eûtes été saisi(e)s
+ils (elles) eurent été saisi(e)s
+
+** Futur antérieur
+
+j'aurai été saisi(e)
+tu auras été saisi(e)
+il (elle) aura été saisi(e)
+nous aurons été saisi(e)s
+vous aurez été saisi(e)s
+ils (elles) auront été saisi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été saisi(e)
+j'aurais été saisi(e)
+il (elle) aurait été saisi(e)
+nous aurions été saisi(e)s
+vous auriez été saisi(e)s
+ils (elles) auraient été saisi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été saisi(e)
+que tu aies été saisi(e)
+qu’il (elle) ait été saisi(e)
+que nous ayons été saisi(e)s
+que vous ayez été saisi(e)s
+qu’ils (elles) aient été saisi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été saisi(e)
+que tu eusses été saisi(e)
+qu’il (elle) eût été saisi(e)
+que nous eussions été saisi(e)s
+que vous eussiez été saisi(e)s
+qu’ils (elles) eussent été saisi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été saisi(e)
+ayons été saisi(e)s
+ayez été saisi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été saisi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été saisi(e)(s)

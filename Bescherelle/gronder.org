@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gronder
+
+* INDICATIF
+
+** Présent
+
+je gronde
+tu grondes
+il (elle) gronde
+nous grondons
+vous grondez
+ils (elles) grondent
+
+** Imparfait
+
+je grondais
+tu grondais
+il (elle) grondait
+nous grondions
+vous grondiez
+ils (elles) grondaient
+
+** Passé simple
+
+je grondai
+tu grondas
+il (elle) gronda
+nous grondâmes
+vous grondâtes
+ils (elles) grondèrent
+
+** Futur simple
+
+je gronderai
+tu gronderas
+il (elle) grondera
+nous gronderons
+vous gronderez
+ils (elles) gronderont
+
+* CONDITIONNEL
+
+** Présent
+
+je gronderais
+tu gronderais
+il (elle) gronderait
+nous gronderions
+vous gronderiez
+ils (elles) gronderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gronde
+que tu grondes
+qu’il (elle) gronde
+que nous grondions
+que vous grondiez
+qu’ils (elles) grondent
+
+** Imparfait
+
+que je grondasse
+que tu grondasses
+qu’il (elle) grondât
+que nous grondassions
+que vous grondassiez
+qu’ils (elles) grondassent
+
+* IMPÉRATIF
+
+** Présent
+
+gronde
+grondons
+grondez
+
+* INFINITIF
+
+** Présent
+
+gronder
+
+* PARTICIPE
+
+** Présent
+
+grondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai grondé
+tu as grondé
+il (elle) a grondé
+nous avons grondé
+vous avez grondé
+ils (elles) ont grondé
+
+** Plus-que-parfait
+
+j'avais grondé
+tu avais grondé
+il (elle) avait grondé
+nous avions grondé
+vous aviez grondé
+ils (elles) avaient grondé
+
+** Passé antérieur
+
+j'eus grondé
+tu eus grondé
+il (elle) eut grondé
+nous eûmes grondé
+vous eûtes grondé
+ils (elles) eurent grondé
+
+** Futur antérieur
+
+j'aurai grondé
+tu auras grondé
+il (elle) aura grondé
+nous aurons grondé
+vous aurez grondé
+ils (elles) auront grondé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais grondé
+tu aurais grondé
+il (elle) aurait grondé
+nous aurions grondé
+vous auriez grondé
+ils (elles) auraient grondé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie grondé
+que tu aies grondé
+qu’il (elle) ait grondé
+que nous ayons grondé
+que vous ayez grondé
+qu’ils (elles) aient grondé
+
+** Plus-que-parfait
+
+que j'eusse grondé
+que tu eusses grondé
+qu’il (elle) eût grondé
+que nous eussions grondé
+que vous eussiez grondé
+qu’ils (elles) eussent grondé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons grondé
+ayez grondé
+
+* INFINITIF
+
+** Passé
+
+avoir grondé
+
+* PARTICIPE
+
+** Passé
+
+ayant grondé
+grondé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis grondé(e)
+tu es grondé(e)
+il (elle) est grondé(e)
+nous sommes grondé(e)s
+vous êtes grondé(e)s
+ils (elles) sont grondé(e)s
+
+** Imparfait
+
+j'étais grondé(e)
+tu étais grondé(e)
+il (elle) était grondé(e)
+nous étions grondé(e)s
+vous étiez grondé(e)s
+ils (elles) étaient grondé(e)s
+
+** Passé simple
+
+je fus grondé(e)
+tu fus grondé(e)
+il (elle) fut grondé(e)
+nous fûmes grondé(e)s
+vous fûtes grondé(e)s
+ils (elles) furent grondé(e)s
+
+** Futur simple
+
+je serai grondé(e)
+tu seras grondé(e)
+il (elle) sera grondé(e)
+nous serons grondé(e)s
+vous serez grondé(e)s
+ils (elles) seront grondé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais grondé(e)
+tu serais grondé(e)
+il (elle) serait grondé(e)
+nous serions grondé(e)s
+vous seriez grondé(e)s
+ils (elles) seraient grondé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois grondé(e)
+que tu sois grondé(e)
+qu’il (elle) soit grondé(e)
+que nous soyons grondé(e)s
+que vous soyez grondé(e)s
+qu’ils (elles) soient grondé(e)s
+
+** Imparfait
+
+que je fusse grondé(e)
+que tu fusses grondé(e)
+qu’il (elle) fût grondé(e)
+que nous fussions grondé(e)s
+que vous fussiez grondé(e)s
+qu’ils (elles) fussent grondé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons grondé(e)s
+soyez grondé(e)s
+
+* INFINITIF
+
+** Présent
+
+être grondé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant grondé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été grondé(e)
+tu as été grondé(e)
+il (elle) a été grondé(e)
+nous avons été grondé(e)s
+vous avez été grondé(e)s
+ils (elles) ont été grondé(e)s
+
+** Plus-que-parfait
+
+j'avais été grondé(e)
+il (elle) avait été grondé(e)
+nous avions été grondé(e)s
+ils (elles) avaient été grondé(e)s
+
+** Passé antérieur
+
+j'eus été grondé(e)
+tu eus été grondé(e)
+il (elle) eut été grondé(e)
+nous eûmes été grondé(e)s
+vous eûtes été grondé(e)s
+ils (elles) eurent été grondé(e)s
+
+** Futur antérieur
+
+j'aurai été grondé(e)
+tu auras été grondé(e)
+il (elle) aura été grondé(e)
+nous aurons été grondé(e)s
+vous aurez été grondé(e)s
+ils (elles) auront été grondé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été grondé(e)
+j'aurais été grondé(e)
+il (elle) aurait été grondé(e)
+nous aurions été grondé(e)s
+vous auriez été grondé(e)s
+ils (elles) auraient été grondé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été grondé(e)
+que tu aies été grondé(e)
+qu’il (elle) ait été grondé(e)
+que nous ayons été grondé(e)s
+que vous ayez été grondé(e)s
+qu’ils (elles) aient été grondé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été grondé(e)
+que tu eusses été grondé(e)
+qu’il (elle) eût été grondé(e)
+que nous eussions été grondé(e)s
+que vous eussiez été grondé(e)s
+qu’ils (elles) eussent été grondé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été grondé(e)
+ayons été grondé(e)s
+ayez été grondé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été grondé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été grondé(e)(s)

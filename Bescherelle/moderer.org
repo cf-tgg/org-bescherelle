@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe moderer
+
+* INDICATIF
+
+** Présent
+
+je modère
+tu modères
+il (elle) modère
+nous modérons
+vous modérez
+ils (elles) modèrent
+
+** Imparfait
+
+je modérais
+tu modérais
+il (elle) modérait
+nous modérions
+vous modériez
+ils (elles) modéraient
+
+** Passé simple
+
+je modérai
+tu modéras
+il (elle) modéra
+nous modérâmes
+vous modérâtes
+ils (elles) modérèrent
+
+** Futur simple
+
+je modérerai
+tu modéreras
+il (elle) modérera
+nous modérerons
+vous modérerez
+ils (elles) modéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je modérerais
+tu modérerais
+il (elle) modérerait
+nous modérerions
+vous modéreriez
+ils (elles) modéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je modère
+que tu modères
+qu’il (elle) modère
+que nous modérions
+que vous modériez
+qu’ils (elles) modèrent
+
+** Imparfait
+
+que je modérasse
+que tu modérasses
+qu’il (elle) modérât
+que nous modérassions
+que vous modérassiez
+qu’ils (elles) modérassent
+
+* IMPÉRATIF
+
+** Présent
+
+modère
+modérons
+modérez
+
+* INFINITIF
+
+** Présent
+
+modérer
+
+* PARTICIPE
+
+** Présent
+
+modérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai modéré
+tu as modéré
+il (elle) a modéré
+nous avons modéré
+vous avez modéré
+ils (elles) ont modéré
+
+** Plus-que-parfait
+
+j'avais modéré
+tu avais modéré
+il (elle) avait modéré
+nous avions modéré
+vous aviez modéré
+ils (elles) avaient modéré
+
+** Passé antérieur
+
+j'eus modéré
+tu eus modéré
+il (elle) eut modéré
+nous eûmes modéré
+vous eûtes modéré
+ils (elles) eurent modéré
+
+** Futur antérieur
+
+j'aurai modéré
+tu auras modéré
+il (elle) aura modéré
+nous aurons modéré
+vous aurez modéré
+ils (elles) auront modéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais modéré
+tu aurais modéré
+il (elle) aurait modéré
+nous aurions modéré
+vous auriez modéré
+ils (elles) auraient modéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie modéré
+que tu aies modéré
+qu’il (elle) ait modéré
+que nous ayons modéré
+que vous ayez modéré
+qu’ils (elles) aient modéré
+
+** Plus-que-parfait
+
+que j'eusse modéré
+que tu eusses modéré
+qu’il (elle) eût modéré
+que nous eussions modéré
+que vous eussiez modéré
+qu’ils (elles) eussent modéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons modéré
+ayez modéré
+
+* INFINITIF
+
+** Passé
+
+avoir modéré
+
+* PARTICIPE
+
+** Passé
+
+ayant modéré
+modéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis modéré(e)
+tu es modéré(e)
+il (elle) est modéré(e)
+nous sommes modéré(e)s
+vous êtes modéré(e)s
+ils (elles) sont modéré(e)s
+
+** Imparfait
+
+j'étais modéré(e)
+tu étais modéré(e)
+il (elle) était modéré(e)
+nous étions modéré(e)s
+vous étiez modéré(e)s
+ils (elles) étaient modéré(e)s
+
+** Passé simple
+
+je fus modéré(e)
+tu fus modéré(e)
+il (elle) fut modéré(e)
+nous fûmes modéré(e)s
+vous fûtes modéré(e)s
+ils (elles) furent modéré(e)s
+
+** Futur simple
+
+je serai modéré(e)
+tu seras modéré(e)
+il (elle) sera modéré(e)
+nous serons modéré(e)s
+vous serez modéré(e)s
+ils (elles) seront modéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais modéré(e)
+tu serais modéré(e)
+il (elle) serait modéré(e)
+nous serions modéré(e)s
+vous seriez modéré(e)s
+ils (elles) seraient modéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois modéré(e)
+que tu sois modéré(e)
+qu’il (elle) soit modéré(e)
+que nous soyons modéré(e)s
+que vous soyez modéré(e)s
+qu’ils (elles) soient modéré(e)s
+
+** Imparfait
+
+que je fusse modéré(e)
+que tu fusses modéré(e)
+qu’il (elle) fût modéré(e)
+que nous fussions modéré(e)s
+que vous fussiez modéré(e)s
+qu’ils (elles) fussent modéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons modéré(e)s
+soyez modéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être modéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant modéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été modéré(e)
+tu as été modéré(e)
+il (elle) a été modéré(e)
+nous avons été modéré(e)s
+vous avez été modéré(e)s
+ils (elles) ont été modéré(e)s
+
+** Plus-que-parfait
+
+j'avais été modéré(e)
+il (elle) avait été modéré(e)
+nous avions été modéré(e)s
+ils (elles) avaient été modéré(e)s
+
+** Passé antérieur
+
+j'eus été modéré(e)
+tu eus été modéré(e)
+il (elle) eut été modéré(e)
+nous eûmes été modéré(e)s
+vous eûtes été modéré(e)s
+ils (elles) eurent été modéré(e)s
+
+** Futur antérieur
+
+j'aurai été modéré(e)
+tu auras été modéré(e)
+il (elle) aura été modéré(e)
+nous aurons été modéré(e)s
+vous aurez été modéré(e)s
+ils (elles) auront été modéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été modéré(e)
+j'aurais été modéré(e)
+il (elle) aurait été modéré(e)
+nous aurions été modéré(e)s
+vous auriez été modéré(e)s
+ils (elles) auraient été modéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été modéré(e)
+que tu aies été modéré(e)
+qu’il (elle) ait été modéré(e)
+que nous ayons été modéré(e)s
+que vous ayez été modéré(e)s
+qu’ils (elles) aient été modéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été modéré(e)
+que tu eusses été modéré(e)
+qu’il (elle) eût été modéré(e)
+que nous eussions été modéré(e)s
+que vous eussiez été modéré(e)s
+qu’ils (elles) eussent été modéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été modéré(e)
+ayons été modéré(e)s
+ayez été modéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été modéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été modéré(e)(s)

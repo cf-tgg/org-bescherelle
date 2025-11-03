@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe negocier
+
+* INDICATIF
+
+** Présent
+
+je négocie
+tu négocies
+il (elle) négocie
+nous négocions
+vous négociez
+ils (elles) négocient
+
+** Imparfait
+
+je négociais
+tu négociais
+il (elle) négociait
+nous négociions
+vous négociiez
+ils (elles) négociaient
+
+** Passé simple
+
+je négociai
+tu négocias
+il (elle) négocia
+nous négociâmes
+vous négociâtes
+ils (elles) négocièrent
+
+** Futur simple
+
+je négocierai
+tu négocieras
+il (elle) négociera
+nous négocierons
+vous négocierez
+ils (elles) négocieront
+
+* CONDITIONNEL
+
+** Présent
+
+je négocierais
+tu négocierais
+il (elle) négocierait
+nous négocierions
+vous négocieriez
+ils (elles) négocieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je négocie
+que tu négocies
+qu’il (elle) négocie
+que nous négociions
+que vous négociiez
+qu’ils (elles) négocient
+
+** Imparfait
+
+que je négociasse
+que tu négociasses
+qu’il (elle) négociât
+que nous négociassions
+que vous négociassiez
+qu’ils (elles) négociassent
+
+* IMPÉRATIF
+
+** Présent
+
+négocie
+négocions
+négociez
+
+* INFINITIF
+
+** Présent
+
+négocier
+
+* PARTICIPE
+
+** Présent
+
+négociant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai négocié
+tu as négocié
+il (elle) a négocié
+nous avons négocié
+vous avez négocié
+ils (elles) ont négocié
+
+** Plus-que-parfait
+
+j'avais négocié
+tu avais négocié
+il (elle) avait négocié
+nous avions négocié
+vous aviez négocié
+ils (elles) avaient négocié
+
+** Passé antérieur
+
+j'eus négocié
+tu eus négocié
+il (elle) eut négocié
+nous eûmes négocié
+vous eûtes négocié
+ils (elles) eurent négocié
+
+** Futur antérieur
+
+j'aurai négocié
+tu auras négocié
+il (elle) aura négocié
+nous aurons négocié
+vous aurez négocié
+ils (elles) auront négocié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais négocié
+tu aurais négocié
+il (elle) aurait négocié
+nous aurions négocié
+vous auriez négocié
+ils (elles) auraient négocié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie négocié
+que tu aies négocié
+qu’il (elle) ait négocié
+que nous ayons négocié
+que vous ayez négocié
+qu’ils (elles) aient négocié
+
+** Plus-que-parfait
+
+que j'eusse négocié
+que tu eusses négocié
+qu’il (elle) eût négocié
+que nous eussions négocié
+que vous eussiez négocié
+qu’ils (elles) eussent négocié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons négocié
+ayez négocié
+
+* INFINITIF
+
+** Passé
+
+avoir négocié
+
+* PARTICIPE
+
+** Passé
+
+ayant négocié
+négocié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis négocié(e)
+tu es négocié(e)
+il (elle) est négocié(e)
+nous sommes négocié(e)s
+vous êtes négocié(e)s
+ils (elles) sont négocié(e)s
+
+** Imparfait
+
+j'étais négocié(e)
+tu étais négocié(e)
+il (elle) était négocié(e)
+nous étions négocié(e)s
+vous étiez négocié(e)s
+ils (elles) étaient négocié(e)s
+
+** Passé simple
+
+je fus négocié(e)
+tu fus négocié(e)
+il (elle) fut négocié(e)
+nous fûmes négocié(e)s
+vous fûtes négocié(e)s
+ils (elles) furent négocié(e)s
+
+** Futur simple
+
+je serai négocié(e)
+tu seras négocié(e)
+il (elle) sera négocié(e)
+nous serons négocié(e)s
+vous serez négocié(e)s
+ils (elles) seront négocié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais négocié(e)
+tu serais négocié(e)
+il (elle) serait négocié(e)
+nous serions négocié(e)s
+vous seriez négocié(e)s
+ils (elles) seraient négocié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois négocié(e)
+que tu sois négocié(e)
+qu’il (elle) soit négocié(e)
+que nous soyons négocié(e)s
+que vous soyez négocié(e)s
+qu’ils (elles) soient négocié(e)s
+
+** Imparfait
+
+que je fusse négocié(e)
+que tu fusses négocié(e)
+qu’il (elle) fût négocié(e)
+que nous fussions négocié(e)s
+que vous fussiez négocié(e)s
+qu’ils (elles) fussent négocié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons négocié(e)s
+soyez négocié(e)s
+
+* INFINITIF
+
+** Présent
+
+être négocié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant négocié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été négocié(e)
+tu as été négocié(e)
+il (elle) a été négocié(e)
+nous avons été négocié(e)s
+vous avez été négocié(e)s
+ils (elles) ont été négocié(e)s
+
+** Plus-que-parfait
+
+j'avais été négocié(e)
+il (elle) avait été négocié(e)
+nous avions été négocié(e)s
+ils (elles) avaient été négocié(e)s
+
+** Passé antérieur
+
+j'eus été négocié(e)
+tu eus été négocié(e)
+il (elle) eut été négocié(e)
+nous eûmes été négocié(e)s
+vous eûtes été négocié(e)s
+ils (elles) eurent été négocié(e)s
+
+** Futur antérieur
+
+j'aurai été négocié(e)
+tu auras été négocié(e)
+il (elle) aura été négocié(e)
+nous aurons été négocié(e)s
+vous aurez été négocié(e)s
+ils (elles) auront été négocié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été négocié(e)
+j'aurais été négocié(e)
+il (elle) aurait été négocié(e)
+nous aurions été négocié(e)s
+vous auriez été négocié(e)s
+ils (elles) auraient été négocié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été négocié(e)
+que tu aies été négocié(e)
+qu’il (elle) ait été négocié(e)
+que nous ayons été négocié(e)s
+que vous ayez été négocié(e)s
+qu’ils (elles) aient été négocié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été négocié(e)
+que tu eusses été négocié(e)
+qu’il (elle) eût été négocié(e)
+que nous eussions été négocié(e)s
+que vous eussiez été négocié(e)s
+qu’ils (elles) eussent été négocié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été négocié(e)
+ayons été négocié(e)s
+ayez été négocié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été négocié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été négocié(e)(s)

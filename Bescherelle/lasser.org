@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lasser
+
+* INDICATIF
+
+** Présent
+
+je lasse
+tu lasses
+il (elle) lasse
+nous lassons
+vous lassez
+ils (elles) lassent
+
+** Imparfait
+
+je lassais
+tu lassais
+il (elle) lassait
+nous lassions
+vous lassiez
+ils (elles) lassaient
+
+** Passé simple
+
+je lassai
+tu lassas
+il (elle) lassa
+nous lassâmes
+vous lassâtes
+ils (elles) lassèrent
+
+** Futur simple
+
+je lasserai
+tu lasseras
+il (elle) lassera
+nous lasserons
+vous lasserez
+ils (elles) lasseront
+
+* CONDITIONNEL
+
+** Présent
+
+je lasserais
+tu lasserais
+il (elle) lasserait
+nous lasserions
+vous lasseriez
+ils (elles) lasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lasse
+que tu lasses
+qu’il (elle) lasse
+que nous lassions
+que vous lassiez
+qu’ils (elles) lassent
+
+** Imparfait
+
+que je lassasse
+que tu lassasses
+qu’il (elle) lassât
+que nous lassassions
+que vous lassassiez
+qu’ils (elles) lassassent
+
+* IMPÉRATIF
+
+** Présent
+
+lasse
+lassons
+lassez
+
+* INFINITIF
+
+** Présent
+
+lasser
+
+* PARTICIPE
+
+** Présent
+
+lassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lassé
+tu as lassé
+il (elle) a lassé
+nous avons lassé
+vous avez lassé
+ils (elles) ont lassé
+
+** Plus-que-parfait
+
+j'avais lassé
+tu avais lassé
+il (elle) avait lassé
+nous avions lassé
+vous aviez lassé
+ils (elles) avaient lassé
+
+** Passé antérieur
+
+j'eus lassé
+tu eus lassé
+il (elle) eut lassé
+nous eûmes lassé
+vous eûtes lassé
+ils (elles) eurent lassé
+
+** Futur antérieur
+
+j'aurai lassé
+tu auras lassé
+il (elle) aura lassé
+nous aurons lassé
+vous aurez lassé
+ils (elles) auront lassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lassé
+tu aurais lassé
+il (elle) aurait lassé
+nous aurions lassé
+vous auriez lassé
+ils (elles) auraient lassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lassé
+que tu aies lassé
+qu’il (elle) ait lassé
+que nous ayons lassé
+que vous ayez lassé
+qu’ils (elles) aient lassé
+
+** Plus-que-parfait
+
+que j'eusse lassé
+que tu eusses lassé
+qu’il (elle) eût lassé
+que nous eussions lassé
+que vous eussiez lassé
+qu’ils (elles) eussent lassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lassé
+ayez lassé
+
+* INFINITIF
+
+** Passé
+
+avoir lassé
+
+* PARTICIPE
+
+** Passé
+
+ayant lassé
+lassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lassé(e)
+tu es lassé(e)
+il (elle) est lassé(e)
+nous sommes lassé(e)s
+vous êtes lassé(e)s
+ils (elles) sont lassé(e)s
+
+** Imparfait
+
+j'étais lassé(e)
+tu étais lassé(e)
+il (elle) était lassé(e)
+nous étions lassé(e)s
+vous étiez lassé(e)s
+ils (elles) étaient lassé(e)s
+
+** Passé simple
+
+je fus lassé(e)
+tu fus lassé(e)
+il (elle) fut lassé(e)
+nous fûmes lassé(e)s
+vous fûtes lassé(e)s
+ils (elles) furent lassé(e)s
+
+** Futur simple
+
+je serai lassé(e)
+tu seras lassé(e)
+il (elle) sera lassé(e)
+nous serons lassé(e)s
+vous serez lassé(e)s
+ils (elles) seront lassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lassé(e)
+tu serais lassé(e)
+il (elle) serait lassé(e)
+nous serions lassé(e)s
+vous seriez lassé(e)s
+ils (elles) seraient lassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lassé(e)
+que tu sois lassé(e)
+qu’il (elle) soit lassé(e)
+que nous soyons lassé(e)s
+que vous soyez lassé(e)s
+qu’ils (elles) soient lassé(e)s
+
+** Imparfait
+
+que je fusse lassé(e)
+que tu fusses lassé(e)
+qu’il (elle) fût lassé(e)
+que nous fussions lassé(e)s
+que vous fussiez lassé(e)s
+qu’ils (elles) fussent lassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lassé(e)s
+soyez lassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lassé(e)
+tu as été lassé(e)
+il (elle) a été lassé(e)
+nous avons été lassé(e)s
+vous avez été lassé(e)s
+ils (elles) ont été lassé(e)s
+
+** Plus-que-parfait
+
+j'avais été lassé(e)
+il (elle) avait été lassé(e)
+nous avions été lassé(e)s
+ils (elles) avaient été lassé(e)s
+
+** Passé antérieur
+
+j'eus été lassé(e)
+tu eus été lassé(e)
+il (elle) eut été lassé(e)
+nous eûmes été lassé(e)s
+vous eûtes été lassé(e)s
+ils (elles) eurent été lassé(e)s
+
+** Futur antérieur
+
+j'aurai été lassé(e)
+tu auras été lassé(e)
+il (elle) aura été lassé(e)
+nous aurons été lassé(e)s
+vous aurez été lassé(e)s
+ils (elles) auront été lassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lassé(e)
+j'aurais été lassé(e)
+il (elle) aurait été lassé(e)
+nous aurions été lassé(e)s
+vous auriez été lassé(e)s
+ils (elles) auraient été lassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lassé(e)
+que tu aies été lassé(e)
+qu’il (elle) ait été lassé(e)
+que nous ayons été lassé(e)s
+que vous ayez été lassé(e)s
+qu’ils (elles) aient été lassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lassé(e)
+que tu eusses été lassé(e)
+qu’il (elle) eût été lassé(e)
+que nous eussions été lassé(e)s
+que vous eussiez été lassé(e)s
+qu’ils (elles) eussent été lassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lassé(e)
+ayons été lassé(e)s
+ayez été lassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lassé(e)(s)

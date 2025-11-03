@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe marquer
+
+* INDICATIF
+
+** Présent
+
+je marque
+tu marques
+il (elle) marque
+nous marquons
+vous marquez
+ils (elles) marquent
+
+** Imparfait
+
+je marquais
+tu marquais
+il (elle) marquait
+nous marquions
+vous marquiez
+ils (elles) marquaient
+
+** Passé simple
+
+je marquai
+tu marquas
+il (elle) marqua
+nous marquâmes
+vous marquâtes
+ils (elles) marquèrent
+
+** Futur simple
+
+je marquerai
+tu marqueras
+il (elle) marquera
+nous marquerons
+vous marquerez
+ils (elles) marqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je marquerais
+tu marquerais
+il (elle) marquerait
+nous marquerions
+vous marqueriez
+ils (elles) marqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je marque
+que tu marques
+qu’il (elle) marque
+que nous marquions
+que vous marquiez
+qu’ils (elles) marquent
+
+** Imparfait
+
+que je marquasse
+que tu marquasses
+qu’il (elle) marquât
+que nous marquassions
+que vous marquassiez
+qu’ils (elles) marquassent
+
+* IMPÉRATIF
+
+** Présent
+
+marque
+marquons
+marquez
+
+* INFINITIF
+
+** Présent
+
+marquer
+
+* PARTICIPE
+
+** Présent
+
+marquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai marqué
+tu as marqué
+il (elle) a marqué
+nous avons marqué
+vous avez marqué
+ils (elles) ont marqué
+
+** Plus-que-parfait
+
+j'avais marqué
+tu avais marqué
+il (elle) avait marqué
+nous avions marqué
+vous aviez marqué
+ils (elles) avaient marqué
+
+** Passé antérieur
+
+j'eus marqué
+tu eus marqué
+il (elle) eut marqué
+nous eûmes marqué
+vous eûtes marqué
+ils (elles) eurent marqué
+
+** Futur antérieur
+
+j'aurai marqué
+tu auras marqué
+il (elle) aura marqué
+nous aurons marqué
+vous aurez marqué
+ils (elles) auront marqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais marqué
+tu aurais marqué
+il (elle) aurait marqué
+nous aurions marqué
+vous auriez marqué
+ils (elles) auraient marqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie marqué
+que tu aies marqué
+qu’il (elle) ait marqué
+que nous ayons marqué
+que vous ayez marqué
+qu’ils (elles) aient marqué
+
+** Plus-que-parfait
+
+que j'eusse marqué
+que tu eusses marqué
+qu’il (elle) eût marqué
+que nous eussions marqué
+que vous eussiez marqué
+qu’ils (elles) eussent marqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons marqué
+ayez marqué
+
+* INFINITIF
+
+** Passé
+
+avoir marqué
+
+* PARTICIPE
+
+** Passé
+
+ayant marqué
+marqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis marqué(e)
+tu es marqué(e)
+il (elle) est marqué(e)
+nous sommes marqué(e)s
+vous êtes marqué(e)s
+ils (elles) sont marqué(e)s
+
+** Imparfait
+
+j'étais marqué(e)
+tu étais marqué(e)
+il (elle) était marqué(e)
+nous étions marqué(e)s
+vous étiez marqué(e)s
+ils (elles) étaient marqué(e)s
+
+** Passé simple
+
+je fus marqué(e)
+tu fus marqué(e)
+il (elle) fut marqué(e)
+nous fûmes marqué(e)s
+vous fûtes marqué(e)s
+ils (elles) furent marqué(e)s
+
+** Futur simple
+
+je serai marqué(e)
+tu seras marqué(e)
+il (elle) sera marqué(e)
+nous serons marqué(e)s
+vous serez marqué(e)s
+ils (elles) seront marqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais marqué(e)
+tu serais marqué(e)
+il (elle) serait marqué(e)
+nous serions marqué(e)s
+vous seriez marqué(e)s
+ils (elles) seraient marqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois marqué(e)
+que tu sois marqué(e)
+qu’il (elle) soit marqué(e)
+que nous soyons marqué(e)s
+que vous soyez marqué(e)s
+qu’ils (elles) soient marqué(e)s
+
+** Imparfait
+
+que je fusse marqué(e)
+que tu fusses marqué(e)
+qu’il (elle) fût marqué(e)
+que nous fussions marqué(e)s
+que vous fussiez marqué(e)s
+qu’ils (elles) fussent marqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons marqué(e)s
+soyez marqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être marqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant marqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été marqué(e)
+tu as été marqué(e)
+il (elle) a été marqué(e)
+nous avons été marqué(e)s
+vous avez été marqué(e)s
+ils (elles) ont été marqué(e)s
+
+** Plus-que-parfait
+
+j'avais été marqué(e)
+il (elle) avait été marqué(e)
+nous avions été marqué(e)s
+ils (elles) avaient été marqué(e)s
+
+** Passé antérieur
+
+j'eus été marqué(e)
+tu eus été marqué(e)
+il (elle) eut été marqué(e)
+nous eûmes été marqué(e)s
+vous eûtes été marqué(e)s
+ils (elles) eurent été marqué(e)s
+
+** Futur antérieur
+
+j'aurai été marqué(e)
+tu auras été marqué(e)
+il (elle) aura été marqué(e)
+nous aurons été marqué(e)s
+vous aurez été marqué(e)s
+ils (elles) auront été marqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été marqué(e)
+j'aurais été marqué(e)
+il (elle) aurait été marqué(e)
+nous aurions été marqué(e)s
+vous auriez été marqué(e)s
+ils (elles) auraient été marqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été marqué(e)
+que tu aies été marqué(e)
+qu’il (elle) ait été marqué(e)
+que nous ayons été marqué(e)s
+que vous ayez été marqué(e)s
+qu’ils (elles) aient été marqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été marqué(e)
+que tu eusses été marqué(e)
+qu’il (elle) eût été marqué(e)
+que nous eussions été marqué(e)s
+que vous eussiez été marqué(e)s
+qu’ils (elles) eussent été marqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été marqué(e)
+ayons été marqué(e)s
+ayez été marqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été marqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été marqué(e)(s)

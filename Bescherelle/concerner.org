@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe concerner
+
+* INDICATIF
+
+** Présent
+
+je concerne
+tu concernes
+il (elle) concerne
+nous concernons
+vous concernez
+ils (elles) concernent
+
+** Imparfait
+
+je concernais
+tu concernais
+il (elle) concernait
+nous concernions
+vous concerniez
+ils (elles) concernaient
+
+** Passé simple
+
+je concernai
+tu concernas
+il (elle) concerna
+nous concernâmes
+vous concernâtes
+ils (elles) concernèrent
+
+** Futur simple
+
+je concernerai
+tu concerneras
+il (elle) concernera
+nous concernerons
+vous concernerez
+ils (elles) concerneront
+
+* CONDITIONNEL
+
+** Présent
+
+je concernerais
+tu concernerais
+il (elle) concernerait
+nous concernerions
+vous concerneriez
+ils (elles) concerneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je concerne
+que tu concernes
+qu’il (elle) concerne
+que nous concernions
+que vous concerniez
+qu’ils (elles) concernent
+
+** Imparfait
+
+que je concernasse
+que tu concernasses
+qu’il (elle) concernât
+que nous concernassions
+que vous concernassiez
+qu’ils (elles) concernassent
+
+* IMPÉRATIF
+
+** Présent
+
+concerne
+concernons
+concernez
+
+* INFINITIF
+
+** Présent
+
+concerner
+
+* PARTICIPE
+
+** Présent
+
+concernant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai concerné
+tu as concerné
+il (elle) a concerné
+nous avons concerné
+vous avez concerné
+ils (elles) ont concerné
+
+** Plus-que-parfait
+
+j'avais concerné
+tu avais concerné
+il (elle) avait concerné
+nous avions concerné
+vous aviez concerné
+ils (elles) avaient concerné
+
+** Passé antérieur
+
+j'eus concerné
+tu eus concerné
+il (elle) eut concerné
+nous eûmes concerné
+vous eûtes concerné
+ils (elles) eurent concerné
+
+** Futur antérieur
+
+j'aurai concerné
+tu auras concerné
+il (elle) aura concerné
+nous aurons concerné
+vous aurez concerné
+ils (elles) auront concerné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais concerné
+tu aurais concerné
+il (elle) aurait concerné
+nous aurions concerné
+vous auriez concerné
+ils (elles) auraient concerné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie concerné
+que tu aies concerné
+qu’il (elle) ait concerné
+que nous ayons concerné
+que vous ayez concerné
+qu’ils (elles) aient concerné
+
+** Plus-que-parfait
+
+que j'eusse concerné
+que tu eusses concerné
+qu’il (elle) eût concerné
+que nous eussions concerné
+que vous eussiez concerné
+qu’ils (elles) eussent concerné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons concerné
+ayez concerné
+
+* INFINITIF
+
+** Passé
+
+avoir concerné
+
+* PARTICIPE
+
+** Passé
+
+ayant concerné
+concerné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis concerné(e)
+tu es concerné(e)
+il (elle) est concerné(e)
+nous sommes concerné(e)s
+vous êtes concerné(e)s
+ils (elles) sont concerné(e)s
+
+** Imparfait
+
+j'étais concerné(e)
+tu étais concerné(e)
+il (elle) était concerné(e)
+nous étions concerné(e)s
+vous étiez concerné(e)s
+ils (elles) étaient concerné(e)s
+
+** Passé simple
+
+je fus concerné(e)
+tu fus concerné(e)
+il (elle) fut concerné(e)
+nous fûmes concerné(e)s
+vous fûtes concerné(e)s
+ils (elles) furent concerné(e)s
+
+** Futur simple
+
+je serai concerné(e)
+tu seras concerné(e)
+il (elle) sera concerné(e)
+nous serons concerné(e)s
+vous serez concerné(e)s
+ils (elles) seront concerné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais concerné(e)
+tu serais concerné(e)
+il (elle) serait concerné(e)
+nous serions concerné(e)s
+vous seriez concerné(e)s
+ils (elles) seraient concerné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois concerné(e)
+que tu sois concerné(e)
+qu’il (elle) soit concerné(e)
+que nous soyons concerné(e)s
+que vous soyez concerné(e)s
+qu’ils (elles) soient concerné(e)s
+
+** Imparfait
+
+que je fusse concerné(e)
+que tu fusses concerné(e)
+qu’il (elle) fût concerné(e)
+que nous fussions concerné(e)s
+que vous fussiez concerné(e)s
+qu’ils (elles) fussent concerné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons concerné(e)s
+soyez concerné(e)s
+
+* INFINITIF
+
+** Présent
+
+être concerné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant concerné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été concerné(e)
+tu as été concerné(e)
+il (elle) a été concerné(e)
+nous avons été concerné(e)s
+vous avez été concerné(e)s
+ils (elles) ont été concerné(e)s
+
+** Plus-que-parfait
+
+j'avais été concerné(e)
+il (elle) avait été concerné(e)
+nous avions été concerné(e)s
+ils (elles) avaient été concerné(e)s
+
+** Passé antérieur
+
+j'eus été concerné(e)
+tu eus été concerné(e)
+il (elle) eut été concerné(e)
+nous eûmes été concerné(e)s
+vous eûtes été concerné(e)s
+ils (elles) eurent été concerné(e)s
+
+** Futur antérieur
+
+j'aurai été concerné(e)
+tu auras été concerné(e)
+il (elle) aura été concerné(e)
+nous aurons été concerné(e)s
+vous aurez été concerné(e)s
+ils (elles) auront été concerné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été concerné(e)
+j'aurais été concerné(e)
+il (elle) aurait été concerné(e)
+nous aurions été concerné(e)s
+vous auriez été concerné(e)s
+ils (elles) auraient été concerné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été concerné(e)
+que tu aies été concerné(e)
+qu’il (elle) ait été concerné(e)
+que nous ayons été concerné(e)s
+que vous ayez été concerné(e)s
+qu’ils (elles) aient été concerné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été concerné(e)
+que tu eusses été concerné(e)
+qu’il (elle) eût été concerné(e)
+que nous eussions été concerné(e)s
+que vous eussiez été concerné(e)s
+qu’ils (elles) eussent été concerné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été concerné(e)
+ayons été concerné(e)s
+ayez été concerné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été concerné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été concerné(e)(s)

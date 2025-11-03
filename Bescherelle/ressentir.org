@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ressentir
+
+* INDICATIF
+
+** Présent
+
+je ressens
+tu ressens
+il (elle) ressent
+nous ressentons
+vous ressentez
+ils (elles) ressentent
+
+** Imparfait
+
+je ressentais
+tu ressentais
+il (elle) ressentait
+nous ressentions
+vous ressentiez
+ils (elles) ressentaient
+
+** Passé simple
+
+je ressentis
+tu ressentis
+il (elle) ressentit
+nous ressentîmes
+vous ressentîtes
+ils (elles) ressentirent
+
+** Futur simple
+
+je ressentirai
+tu ressentiras
+il (elle) ressentira
+nous ressentirons
+vous ressentirez
+ils (elles) ressentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je ressentirais
+tu ressentirais
+il (elle) ressentirait
+nous ressentirions
+vous ressentiriez
+ils (elles) ressentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ressente
+que tu ressentes
+qu’il (elle) ressente
+que nous ressentions
+que vous ressentiez
+qu’ils (elles) ressentent
+
+** Imparfait
+
+que je ressentisse
+que tu ressentisses
+qu’il (elle) ressentît
+que nous ressentissions
+que vous ressentissiez
+qu’ils (elles) ressentissent
+
+* IMPÉRATIF
+
+** Présent
+
+ressens
+ressentons
+ressentez
+
+* INFINITIF
+
+** Présent
+
+ressentir
+
+* PARTICIPE
+
+** Présent
+
+ressentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ressenti
+tu as ressenti
+il (elle) a ressenti
+nous avons ressenti
+vous avez ressenti
+ils (elles) ont ressenti
+
+** Plus-que-parfait
+
+j'avais ressenti
+tu avais ressenti
+il (elle) avait ressenti
+nous avions ressenti
+vous aviez ressenti
+ils (elles) avaient ressenti
+
+** Passé antérieur
+
+j'eus ressenti
+tu eus ressenti
+il (elle) eut ressenti
+nous eûmes ressenti
+vous eûtes ressenti
+ils (elles) eurent ressenti
+
+** Futur antérieur
+
+j'aurai ressenti
+tu auras ressenti
+il (elle) aura ressenti
+nous aurons ressenti
+vous aurez ressenti
+ils (elles) auront ressenti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ressenti
+tu aurais ressenti
+il (elle) aurait ressenti
+nous aurions ressenti
+vous auriez ressenti
+ils (elles) auraient ressenti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ressenti
+que tu aies ressenti
+qu’il (elle) ait ressenti
+que nous ayons ressenti
+que vous ayez ressenti
+qu’ils (elles) aient ressenti
+
+** Plus-que-parfait
+
+que j'eusse ressenti
+que tu eusses ressenti
+qu’il (elle) eût ressenti
+que nous eussions ressenti
+que vous eussiez ressenti
+qu’ils (elles) eussent ressenti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ressenti
+ayez ressenti
+
+* INFINITIF
+
+** Passé
+
+avoir ressenti
+
+* PARTICIPE
+
+** Passé
+
+ayant ressenti
+ressenti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis ressenti(e)
+tu es ressenti(e)
+il (elle) est ressenti(e)
+nous sommes ressenti(e)s
+vous êtes ressenti(e)s
+ils (elles) sont ressenti(e)s
+
+** Imparfait
+
+j'étais ressenti(e)
+tu étais ressenti(e)
+il (elle) était ressenti(e)
+nous étions ressenti(e)s
+vous étiez ressenti(e)s
+ils (elles) étaient ressenti(e)s
+
+** Passé simple
+
+je fus ressenti(e)
+tu fus ressenti(e)
+il (elle) fut ressenti(e)
+nous fûmes ressenti(e)s
+vous fûtes ressenti(e)s
+ils (elles) furent ressenti(e)s
+
+** Futur simple
+
+je serai ressenti(e)
+tu seras ressenti(e)
+il (elle) sera ressenti(e)
+nous serons ressenti(e)s
+vous serez ressenti(e)s
+ils (elles) seront ressenti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ressenti(e)
+tu serais ressenti(e)
+il (elle) serait ressenti(e)
+nous serions ressenti(e)s
+vous seriez ressenti(e)s
+ils (elles) seraient ressenti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ressenti(e)
+que tu sois ressenti(e)
+qu’il (elle) soit ressenti(e)
+que nous soyons ressenti(e)s
+que vous soyez ressenti(e)s
+qu’ils (elles) soient ressenti(e)s
+
+** Imparfait
+
+que je fusse ressenti(e)
+que tu fusses ressenti(e)
+qu’il (elle) fût ressenti(e)
+que nous fussions ressenti(e)s
+que vous fussiez ressenti(e)s
+qu’ils (elles) fussent ressenti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ressenti(e)s
+soyez ressenti(e)s
+
+* INFINITIF
+
+** Présent
+
+être ressenti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ressenti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ressenti(e)
+tu as été ressenti(e)
+il (elle) a été ressenti(e)
+nous avons été ressenti(e)s
+vous avez été ressenti(e)s
+ils (elles) ont été ressenti(e)s
+
+** Plus-que-parfait
+
+j'avais été ressenti(e)
+il (elle) avait été ressenti(e)
+nous avions été ressenti(e)s
+ils (elles) avaient été ressenti(e)s
+
+** Passé antérieur
+
+j'eus été ressenti(e)
+tu eus été ressenti(e)
+il (elle) eut été ressenti(e)
+nous eûmes été ressenti(e)s
+vous eûtes été ressenti(e)s
+ils (elles) eurent été ressenti(e)s
+
+** Futur antérieur
+
+j'aurai été ressenti(e)
+tu auras été ressenti(e)
+il (elle) aura été ressenti(e)
+nous aurons été ressenti(e)s
+vous aurez été ressenti(e)s
+ils (elles) auront été ressenti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ressenti(e)
+j'aurais été ressenti(e)
+il (elle) aurait été ressenti(e)
+nous aurions été ressenti(e)s
+vous auriez été ressenti(e)s
+ils (elles) auraient été ressenti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ressenti(e)
+que tu aies été ressenti(e)
+qu’il (elle) ait été ressenti(e)
+que nous ayons été ressenti(e)s
+que vous ayez été ressenti(e)s
+qu’ils (elles) aient été ressenti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ressenti(e)
+que tu eusses été ressenti(e)
+qu’il (elle) eût été ressenti(e)
+que nous eussions été ressenti(e)s
+que vous eussiez été ressenti(e)s
+qu’ils (elles) eussent été ressenti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ressenti(e)
+ayons été ressenti(e)s
+ayez été ressenti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ressenti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ressenti(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rouler
+
+* INDICATIF
+
+** Présent
+
+je roule
+tu roules
+il (elle) roule
+nous roulons
+vous roulez
+ils (elles) roulent
+
+** Imparfait
+
+je roulais
+tu roulais
+il (elle) roulait
+nous roulions
+vous rouliez
+ils (elles) roulaient
+
+** Passé simple
+
+je roulai
+tu roulas
+il (elle) roula
+nous roulâmes
+vous roulâtes
+ils (elles) roulèrent
+
+** Futur simple
+
+je roulerai
+tu rouleras
+il (elle) roulera
+nous roulerons
+vous roulerez
+ils (elles) rouleront
+
+* CONDITIONNEL
+
+** Présent
+
+je roulerais
+tu roulerais
+il (elle) roulerait
+nous roulerions
+vous rouleriez
+ils (elles) rouleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je roule
+que tu roules
+qu’il (elle) roule
+que nous roulions
+que vous rouliez
+qu’ils (elles) roulent
+
+** Imparfait
+
+que je roulasse
+que tu roulasses
+qu’il (elle) roulât
+que nous roulassions
+que vous roulassiez
+qu’ils (elles) roulassent
+
+* IMPÉRATIF
+
+** Présent
+
+roule
+roulons
+roulez
+
+* INFINITIF
+
+** Présent
+
+rouler
+
+* PARTICIPE
+
+** Présent
+
+roulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai roulé
+tu as roulé
+il (elle) a roulé
+nous avons roulé
+vous avez roulé
+ils (elles) ont roulé
+
+** Plus-que-parfait
+
+j'avais roulé
+tu avais roulé
+il (elle) avait roulé
+nous avions roulé
+vous aviez roulé
+ils (elles) avaient roulé
+
+** Passé antérieur
+
+j'eus roulé
+tu eus roulé
+il (elle) eut roulé
+nous eûmes roulé
+vous eûtes roulé
+ils (elles) eurent roulé
+
+** Futur antérieur
+
+j'aurai roulé
+tu auras roulé
+il (elle) aura roulé
+nous aurons roulé
+vous aurez roulé
+ils (elles) auront roulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais roulé
+tu aurais roulé
+il (elle) aurait roulé
+nous aurions roulé
+vous auriez roulé
+ils (elles) auraient roulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie roulé
+que tu aies roulé
+qu’il (elle) ait roulé
+que nous ayons roulé
+que vous ayez roulé
+qu’ils (elles) aient roulé
+
+** Plus-que-parfait
+
+que j'eusse roulé
+que tu eusses roulé
+qu’il (elle) eût roulé
+que nous eussions roulé
+que vous eussiez roulé
+qu’ils (elles) eussent roulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons roulé
+ayez roulé
+
+* INFINITIF
+
+** Passé
+
+avoir roulé
+
+* PARTICIPE
+
+** Passé
+
+ayant roulé
+roulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis roulé(e)
+tu es roulé(e)
+il (elle) est roulé(e)
+nous sommes roulé(e)s
+vous êtes roulé(e)s
+ils (elles) sont roulé(e)s
+
+** Imparfait
+
+j'étais roulé(e)
+tu étais roulé(e)
+il (elle) était roulé(e)
+nous étions roulé(e)s
+vous étiez roulé(e)s
+ils (elles) étaient roulé(e)s
+
+** Passé simple
+
+je fus roulé(e)
+tu fus roulé(e)
+il (elle) fut roulé(e)
+nous fûmes roulé(e)s
+vous fûtes roulé(e)s
+ils (elles) furent roulé(e)s
+
+** Futur simple
+
+je serai roulé(e)
+tu seras roulé(e)
+il (elle) sera roulé(e)
+nous serons roulé(e)s
+vous serez roulé(e)s
+ils (elles) seront roulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais roulé(e)
+tu serais roulé(e)
+il (elle) serait roulé(e)
+nous serions roulé(e)s
+vous seriez roulé(e)s
+ils (elles) seraient roulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois roulé(e)
+que tu sois roulé(e)
+qu’il (elle) soit roulé(e)
+que nous soyons roulé(e)s
+que vous soyez roulé(e)s
+qu’ils (elles) soient roulé(e)s
+
+** Imparfait
+
+que je fusse roulé(e)
+que tu fusses roulé(e)
+qu’il (elle) fût roulé(e)
+que nous fussions roulé(e)s
+que vous fussiez roulé(e)s
+qu’ils (elles) fussent roulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons roulé(e)s
+soyez roulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être roulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant roulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été roulé(e)
+tu as été roulé(e)
+il (elle) a été roulé(e)
+nous avons été roulé(e)s
+vous avez été roulé(e)s
+ils (elles) ont été roulé(e)s
+
+** Plus-que-parfait
+
+j'avais été roulé(e)
+il (elle) avait été roulé(e)
+nous avions été roulé(e)s
+ils (elles) avaient été roulé(e)s
+
+** Passé antérieur
+
+j'eus été roulé(e)
+tu eus été roulé(e)
+il (elle) eut été roulé(e)
+nous eûmes été roulé(e)s
+vous eûtes été roulé(e)s
+ils (elles) eurent été roulé(e)s
+
+** Futur antérieur
+
+j'aurai été roulé(e)
+tu auras été roulé(e)
+il (elle) aura été roulé(e)
+nous aurons été roulé(e)s
+vous aurez été roulé(e)s
+ils (elles) auront été roulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été roulé(e)
+j'aurais été roulé(e)
+il (elle) aurait été roulé(e)
+nous aurions été roulé(e)s
+vous auriez été roulé(e)s
+ils (elles) auraient été roulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été roulé(e)
+que tu aies été roulé(e)
+qu’il (elle) ait été roulé(e)
+que nous ayons été roulé(e)s
+que vous ayez été roulé(e)s
+qu’ils (elles) aient été roulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été roulé(e)
+que tu eusses été roulé(e)
+qu’il (elle) eût été roulé(e)
+que nous eussions été roulé(e)s
+que vous eussiez été roulé(e)s
+qu’ils (elles) eussent été roulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été roulé(e)
+ayons été roulé(e)s
+ayez été roulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été roulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été roulé(e)(s)

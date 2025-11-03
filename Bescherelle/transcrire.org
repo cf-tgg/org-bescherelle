@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe transcrire
+
+* INDICATIF
+
+** Présent
+
+je transcris
+tu transcris
+il (elle) transcrit
+nous transcrivons
+vous transcrivez
+ils (elles) transcrivent
+
+** Imparfait
+
+je transcrivais
+tu transcrivais
+il (elle) transcrivait
+nous transcrivions
+vous transcriviez
+ils (elles) transcrivaient
+
+** Passé simple
+
+je transcrivis
+tu transcrivis
+il (elle) transcrivit
+nous transcrivîmes
+vous transcrivîtes
+ils (elles) transcrivirent
+
+** Futur simple
+
+je transcrirai
+tu transcriras
+il (elle) transcrira
+nous transcrirons
+vous transcrirez
+ils (elles) transcriront
+
+* CONDITIONNEL
+
+** Présent
+
+je transcrirais
+tu transcrirais
+il (elle) transcrirait
+nous transcririons
+vous transcririez
+ils (elles) transcriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je transcrive
+que tu transcrives
+qu’il (elle) transcrive
+que nous transcrivions
+que vous transcriviez
+qu’ils (elles) transcrivent
+
+** Imparfait
+
+que je transcrivisse
+que tu transcrivisses
+qu’il (elle) transcrivît
+que nous transcrivissions
+que vous transcrivissiez
+qu’ils (elles) transcrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+transcris
+transcrivons
+transcrivez
+
+* INFINITIF
+
+** Présent
+
+transcrire
+
+* PARTICIPE
+
+** Présent
+
+transcrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai transcrit
+tu as transcrit
+il (elle) a transcrit
+nous avons transcrit
+vous avez transcrit
+ils (elles) ont transcrit
+
+** Plus-que-parfait
+
+j'avais transcrit
+tu avais transcrit
+il (elle) avait transcrit
+nous avions transcrit
+vous aviez transcrit
+ils (elles) avaient transcrit
+
+** Passé antérieur
+
+j'eus transcrit
+tu eus transcrit
+il (elle) eut transcrit
+nous eûmes transcrit
+vous eûtes transcrit
+ils (elles) eurent transcrit
+
+** Futur antérieur
+
+j'aurai transcrit
+tu auras transcrit
+il (elle) aura transcrit
+nous aurons transcrit
+vous aurez transcrit
+ils (elles) auront transcrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais transcrit
+tu aurais transcrit
+il (elle) aurait transcrit
+nous aurions transcrit
+vous auriez transcrit
+ils (elles) auraient transcrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie transcrit
+que tu aies transcrit
+qu’il (elle) ait transcrit
+que nous ayons transcrit
+que vous ayez transcrit
+qu’ils (elles) aient transcrit
+
+** Plus-que-parfait
+
+que j'eusse transcrit
+que tu eusses transcrit
+qu’il (elle) eût transcrit
+que nous eussions transcrit
+que vous eussiez transcrit
+qu’ils (elles) eussent transcrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons transcrit
+ayez transcrit
+
+* INFINITIF
+
+** Passé
+
+avoir transcrit
+
+* PARTICIPE
+
+** Passé
+
+ayant transcrit
+transcrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis transcrit(e)
+tu es transcrit(e)
+il (elle) est transcrit(e)
+nous sommes transcrit(e)s
+vous êtes transcrit(e)s
+ils (elles) sont transcrit(e)s
+
+** Imparfait
+
+j'étais transcrit(e)
+tu étais transcrit(e)
+il (elle) était transcrit(e)
+nous étions transcrit(e)s
+vous étiez transcrit(e)s
+ils (elles) étaient transcrit(e)s
+
+** Passé simple
+
+je fus transcrit(e)
+tu fus transcrit(e)
+il (elle) fut transcrit(e)
+nous fûmes transcrit(e)s
+vous fûtes transcrit(e)s
+ils (elles) furent transcrit(e)s
+
+** Futur simple
+
+je serai transcrit(e)
+tu seras transcrit(e)
+il (elle) sera transcrit(e)
+nous serons transcrit(e)s
+vous serez transcrit(e)s
+ils (elles) seront transcrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais transcrit(e)
+tu serais transcrit(e)
+il (elle) serait transcrit(e)
+nous serions transcrit(e)s
+vous seriez transcrit(e)s
+ils (elles) seraient transcrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois transcrit(e)
+que tu sois transcrit(e)
+qu’il (elle) soit transcrit(e)
+que nous soyons transcrit(e)s
+que vous soyez transcrit(e)s
+qu’ils (elles) soient transcrit(e)s
+
+** Imparfait
+
+que je fusse transcrit(e)
+que tu fusses transcrit(e)
+qu’il (elle) fût transcrit(e)
+que nous fussions transcrit(e)s
+que vous fussiez transcrit(e)s
+qu’ils (elles) fussent transcrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons transcrit(e)s
+soyez transcrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être transcrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant transcrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été transcrit(e)
+tu as été transcrit(e)
+il (elle) a été transcrit(e)
+nous avons été transcrit(e)s
+vous avez été transcrit(e)s
+ils (elles) ont été transcrit(e)s
+
+** Plus-que-parfait
+
+j'avais été transcrit(e)
+il (elle) avait été transcrit(e)
+nous avions été transcrit(e)s
+ils (elles) avaient été transcrit(e)s
+
+** Passé antérieur
+
+j'eus été transcrit(e)
+tu eus été transcrit(e)
+il (elle) eut été transcrit(e)
+nous eûmes été transcrit(e)s
+vous eûtes été transcrit(e)s
+ils (elles) eurent été transcrit(e)s
+
+** Futur antérieur
+
+j'aurai été transcrit(e)
+tu auras été transcrit(e)
+il (elle) aura été transcrit(e)
+nous aurons été transcrit(e)s
+vous aurez été transcrit(e)s
+ils (elles) auront été transcrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été transcrit(e)
+j'aurais été transcrit(e)
+il (elle) aurait été transcrit(e)
+nous aurions été transcrit(e)s
+vous auriez été transcrit(e)s
+ils (elles) auraient été transcrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été transcrit(e)
+que tu aies été transcrit(e)
+qu’il (elle) ait été transcrit(e)
+que nous ayons été transcrit(e)s
+que vous ayez été transcrit(e)s
+qu’ils (elles) aient été transcrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été transcrit(e)
+que tu eusses été transcrit(e)
+qu’il (elle) eût été transcrit(e)
+que nous eussions été transcrit(e)s
+que vous eussiez été transcrit(e)s
+qu’ils (elles) eussent été transcrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été transcrit(e)
+ayons été transcrit(e)s
+ayez été transcrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été transcrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été transcrit(e)(s)

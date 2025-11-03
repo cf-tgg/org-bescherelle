@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mediter
+
+* INDICATIF
+
+** Présent
+
+je médite
+tu médites
+il (elle) médite
+nous méditons
+vous méditez
+ils (elles) méditent
+
+** Imparfait
+
+je méditais
+tu méditais
+il (elle) méditait
+nous méditions
+vous méditiez
+ils (elles) méditaient
+
+** Passé simple
+
+je méditai
+tu méditas
+il (elle) médita
+nous méditâmes
+vous méditâtes
+ils (elles) méditèrent
+
+** Futur simple
+
+je méditerai
+tu méditeras
+il (elle) méditera
+nous méditerons
+vous méditerez
+ils (elles) méditeront
+
+* CONDITIONNEL
+
+** Présent
+
+je méditerais
+tu méditerais
+il (elle) méditerait
+nous méditerions
+vous méditeriez
+ils (elles) méditeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je médite
+que tu médites
+qu’il (elle) médite
+que nous méditions
+que vous méditiez
+qu’ils (elles) méditent
+
+** Imparfait
+
+que je méditasse
+que tu méditasses
+qu’il (elle) méditât
+que nous méditassions
+que vous méditassiez
+qu’ils (elles) méditassent
+
+* IMPÉRATIF
+
+** Présent
+
+médite
+méditons
+méditez
+
+* INFINITIF
+
+** Présent
+
+méditer
+
+* PARTICIPE
+
+** Présent
+
+méditant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai médité
+tu as médité
+il (elle) a médité
+nous avons médité
+vous avez médité
+ils (elles) ont médité
+
+** Plus-que-parfait
+
+j'avais médité
+tu avais médité
+il (elle) avait médité
+nous avions médité
+vous aviez médité
+ils (elles) avaient médité
+
+** Passé antérieur
+
+j'eus médité
+tu eus médité
+il (elle) eut médité
+nous eûmes médité
+vous eûtes médité
+ils (elles) eurent médité
+
+** Futur antérieur
+
+j'aurai médité
+tu auras médité
+il (elle) aura médité
+nous aurons médité
+vous aurez médité
+ils (elles) auront médité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais médité
+tu aurais médité
+il (elle) aurait médité
+nous aurions médité
+vous auriez médité
+ils (elles) auraient médité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie médité
+que tu aies médité
+qu’il (elle) ait médité
+que nous ayons médité
+que vous ayez médité
+qu’ils (elles) aient médité
+
+** Plus-que-parfait
+
+que j'eusse médité
+que tu eusses médité
+qu’il (elle) eût médité
+que nous eussions médité
+que vous eussiez médité
+qu’ils (elles) eussent médité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons médité
+ayez médité
+
+* INFINITIF
+
+** Passé
+
+avoir médité
+
+* PARTICIPE
+
+** Passé
+
+ayant médité
+médité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis médité(e)
+tu es médité(e)
+il (elle) est médité(e)
+nous sommes médité(e)s
+vous êtes médité(e)s
+ils (elles) sont médité(e)s
+
+** Imparfait
+
+j'étais médité(e)
+tu étais médité(e)
+il (elle) était médité(e)
+nous étions médité(e)s
+vous étiez médité(e)s
+ils (elles) étaient médité(e)s
+
+** Passé simple
+
+je fus médité(e)
+tu fus médité(e)
+il (elle) fut médité(e)
+nous fûmes médité(e)s
+vous fûtes médité(e)s
+ils (elles) furent médité(e)s
+
+** Futur simple
+
+je serai médité(e)
+tu seras médité(e)
+il (elle) sera médité(e)
+nous serons médité(e)s
+vous serez médité(e)s
+ils (elles) seront médité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais médité(e)
+tu serais médité(e)
+il (elle) serait médité(e)
+nous serions médité(e)s
+vous seriez médité(e)s
+ils (elles) seraient médité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois médité(e)
+que tu sois médité(e)
+qu’il (elle) soit médité(e)
+que nous soyons médité(e)s
+que vous soyez médité(e)s
+qu’ils (elles) soient médité(e)s
+
+** Imparfait
+
+que je fusse médité(e)
+que tu fusses médité(e)
+qu’il (elle) fût médité(e)
+que nous fussions médité(e)s
+que vous fussiez médité(e)s
+qu’ils (elles) fussent médité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons médité(e)s
+soyez médité(e)s
+
+* INFINITIF
+
+** Présent
+
+être médité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant médité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été médité(e)
+tu as été médité(e)
+il (elle) a été médité(e)
+nous avons été médité(e)s
+vous avez été médité(e)s
+ils (elles) ont été médité(e)s
+
+** Plus-que-parfait
+
+j'avais été médité(e)
+il (elle) avait été médité(e)
+nous avions été médité(e)s
+ils (elles) avaient été médité(e)s
+
+** Passé antérieur
+
+j'eus été médité(e)
+tu eus été médité(e)
+il (elle) eut été médité(e)
+nous eûmes été médité(e)s
+vous eûtes été médité(e)s
+ils (elles) eurent été médité(e)s
+
+** Futur antérieur
+
+j'aurai été médité(e)
+tu auras été médité(e)
+il (elle) aura été médité(e)
+nous aurons été médité(e)s
+vous aurez été médité(e)s
+ils (elles) auront été médité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été médité(e)
+j'aurais été médité(e)
+il (elle) aurait été médité(e)
+nous aurions été médité(e)s
+vous auriez été médité(e)s
+ils (elles) auraient été médité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été médité(e)
+que tu aies été médité(e)
+qu’il (elle) ait été médité(e)
+que nous ayons été médité(e)s
+que vous ayez été médité(e)s
+qu’ils (elles) aient été médité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été médité(e)
+que tu eusses été médité(e)
+qu’il (elle) eût été médité(e)
+que nous eussions été médité(e)s
+que vous eussiez été médité(e)s
+qu’ils (elles) eussent été médité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été médité(e)
+ayons été médité(e)s
+ayez été médité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été médité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été médité(e)(s)

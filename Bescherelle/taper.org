@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe taper
+
+* INDICATIF
+
+** Présent
+
+je tape
+tu tapes
+il (elle) tape
+nous tapons
+vous tapez
+ils (elles) tapent
+
+** Imparfait
+
+je tapais
+tu tapais
+il (elle) tapait
+nous tapions
+vous tapiez
+ils (elles) tapaient
+
+** Passé simple
+
+je tapai
+tu tapas
+il (elle) tapa
+nous tapâmes
+vous tapâtes
+ils (elles) tapèrent
+
+** Futur simple
+
+je taperai
+tu taperas
+il (elle) tapera
+nous taperons
+vous taperez
+ils (elles) taperont
+
+* CONDITIONNEL
+
+** Présent
+
+je taperais
+tu taperais
+il (elle) taperait
+nous taperions
+vous taperiez
+ils (elles) taperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tape
+que tu tapes
+qu’il (elle) tape
+que nous tapions
+que vous tapiez
+qu’ils (elles) tapent
+
+** Imparfait
+
+que je tapasse
+que tu tapasses
+qu’il (elle) tapât
+que nous tapassions
+que vous tapassiez
+qu’ils (elles) tapassent
+
+* IMPÉRATIF
+
+** Présent
+
+tape
+tapons
+tapez
+
+* INFINITIF
+
+** Présent
+
+taper
+
+* PARTICIPE
+
+** Présent
+
+tapant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tapé
+tu as tapé
+il (elle) a tapé
+nous avons tapé
+vous avez tapé
+ils (elles) ont tapé
+
+** Plus-que-parfait
+
+j'avais tapé
+tu avais tapé
+il (elle) avait tapé
+nous avions tapé
+vous aviez tapé
+ils (elles) avaient tapé
+
+** Passé antérieur
+
+j'eus tapé
+tu eus tapé
+il (elle) eut tapé
+nous eûmes tapé
+vous eûtes tapé
+ils (elles) eurent tapé
+
+** Futur antérieur
+
+j'aurai tapé
+tu auras tapé
+il (elle) aura tapé
+nous aurons tapé
+vous aurez tapé
+ils (elles) auront tapé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tapé
+tu aurais tapé
+il (elle) aurait tapé
+nous aurions tapé
+vous auriez tapé
+ils (elles) auraient tapé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tapé
+que tu aies tapé
+qu’il (elle) ait tapé
+que nous ayons tapé
+que vous ayez tapé
+qu’ils (elles) aient tapé
+
+** Plus-que-parfait
+
+que j'eusse tapé
+que tu eusses tapé
+qu’il (elle) eût tapé
+que nous eussions tapé
+que vous eussiez tapé
+qu’ils (elles) eussent tapé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tapé
+ayez tapé
+
+* INFINITIF
+
+** Passé
+
+avoir tapé
+
+* PARTICIPE
+
+** Passé
+
+ayant tapé
+tapé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tapé(e)
+tu es tapé(e)
+il (elle) est tapé(e)
+nous sommes tapé(e)s
+vous êtes tapé(e)s
+ils (elles) sont tapé(e)s
+
+** Imparfait
+
+j'étais tapé(e)
+tu étais tapé(e)
+il (elle) était tapé(e)
+nous étions tapé(e)s
+vous étiez tapé(e)s
+ils (elles) étaient tapé(e)s
+
+** Passé simple
+
+je fus tapé(e)
+tu fus tapé(e)
+il (elle) fut tapé(e)
+nous fûmes tapé(e)s
+vous fûtes tapé(e)s
+ils (elles) furent tapé(e)s
+
+** Futur simple
+
+je serai tapé(e)
+tu seras tapé(e)
+il (elle) sera tapé(e)
+nous serons tapé(e)s
+vous serez tapé(e)s
+ils (elles) seront tapé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tapé(e)
+tu serais tapé(e)
+il (elle) serait tapé(e)
+nous serions tapé(e)s
+vous seriez tapé(e)s
+ils (elles) seraient tapé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tapé(e)
+que tu sois tapé(e)
+qu’il (elle) soit tapé(e)
+que nous soyons tapé(e)s
+que vous soyez tapé(e)s
+qu’ils (elles) soient tapé(e)s
+
+** Imparfait
+
+que je fusse tapé(e)
+que tu fusses tapé(e)
+qu’il (elle) fût tapé(e)
+que nous fussions tapé(e)s
+que vous fussiez tapé(e)s
+qu’ils (elles) fussent tapé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tapé(e)s
+soyez tapé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tapé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tapé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tapé(e)
+tu as été tapé(e)
+il (elle) a été tapé(e)
+nous avons été tapé(e)s
+vous avez été tapé(e)s
+ils (elles) ont été tapé(e)s
+
+** Plus-que-parfait
+
+j'avais été tapé(e)
+il (elle) avait été tapé(e)
+nous avions été tapé(e)s
+ils (elles) avaient été tapé(e)s
+
+** Passé antérieur
+
+j'eus été tapé(e)
+tu eus été tapé(e)
+il (elle) eut été tapé(e)
+nous eûmes été tapé(e)s
+vous eûtes été tapé(e)s
+ils (elles) eurent été tapé(e)s
+
+** Futur antérieur
+
+j'aurai été tapé(e)
+tu auras été tapé(e)
+il (elle) aura été tapé(e)
+nous aurons été tapé(e)s
+vous aurez été tapé(e)s
+ils (elles) auront été tapé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tapé(e)
+j'aurais été tapé(e)
+il (elle) aurait été tapé(e)
+nous aurions été tapé(e)s
+vous auriez été tapé(e)s
+ils (elles) auraient été tapé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tapé(e)
+que tu aies été tapé(e)
+qu’il (elle) ait été tapé(e)
+que nous ayons été tapé(e)s
+que vous ayez été tapé(e)s
+qu’ils (elles) aient été tapé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tapé(e)
+que tu eusses été tapé(e)
+qu’il (elle) eût été tapé(e)
+que nous eussions été tapé(e)s
+que vous eussiez été tapé(e)s
+qu’ils (elles) eussent été tapé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tapé(e)
+ayons été tapé(e)s
+ayez été tapé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tapé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tapé(e)(s)

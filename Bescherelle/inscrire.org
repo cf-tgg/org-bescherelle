@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inscrire
+
+* INDICATIF
+
+** Présent
+
+j'inscris
+tu inscris
+il (elle) inscrit
+nous inscrivons
+vous inscrivez
+ils (elles) inscrivent
+
+** Imparfait
+
+j'inscrivais
+tu inscrivais
+il (elle) inscrivait
+nous inscrivions
+vous inscriviez
+ils (elles) inscrivaient
+
+** Passé simple
+
+j'inscrivis
+tu inscrivis
+il (elle) inscrivit
+nous inscrivîmes
+vous inscrivîtes
+ils (elles) inscrivirent
+
+** Futur simple
+
+j'inscrirai
+tu inscriras
+il (elle) inscrira
+nous inscrirons
+vous inscrirez
+ils (elles) inscriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inscrirais
+tu inscrirais
+il (elle) inscrirait
+nous inscririons
+vous inscririez
+ils (elles) inscriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inscrive
+que tu inscrives
+qu’il (elle) inscrive
+que nous inscrivions
+que vous inscriviez
+qu’ils (elles) inscrivent
+
+** Imparfait
+
+que j'inscrivisse
+que tu inscrivisses
+qu’il (elle) inscrivît
+que nous inscrivissions
+que vous inscrivissiez
+qu’ils (elles) inscrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+inscris
+inscrivons
+inscrivez
+
+* INFINITIF
+
+** Présent
+
+inscrire
+
+* PARTICIPE
+
+** Présent
+
+inscrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inscrit
+tu as inscrit
+il (elle) a inscrit
+nous avons inscrit
+vous avez inscrit
+ils (elles) ont inscrit
+
+** Plus-que-parfait
+
+j'avais inscrit
+tu avais inscrit
+il (elle) avait inscrit
+nous avions inscrit
+vous aviez inscrit
+ils (elles) avaient inscrit
+
+** Passé antérieur
+
+j'eus inscrit
+tu eus inscrit
+il (elle) eut inscrit
+nous eûmes inscrit
+vous eûtes inscrit
+ils (elles) eurent inscrit
+
+** Futur antérieur
+
+j'aurai inscrit
+tu auras inscrit
+il (elle) aura inscrit
+nous aurons inscrit
+vous aurez inscrit
+ils (elles) auront inscrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inscrit
+tu aurais inscrit
+il (elle) aurait inscrit
+nous aurions inscrit
+vous auriez inscrit
+ils (elles) auraient inscrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inscrit
+que tu aies inscrit
+qu’il (elle) ait inscrit
+que nous ayons inscrit
+que vous ayez inscrit
+qu’ils (elles) aient inscrit
+
+** Plus-que-parfait
+
+que j'eusse inscrit
+que tu eusses inscrit
+qu’il (elle) eût inscrit
+que nous eussions inscrit
+que vous eussiez inscrit
+qu’ils (elles) eussent inscrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inscrit
+ayez inscrit
+
+* INFINITIF
+
+** Passé
+
+avoir inscrit
+
+* PARTICIPE
+
+** Passé
+
+ayant inscrit
+inscrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis inscrit(e)
+tu es inscrit(e)
+il (elle) est inscrit(e)
+nous sommes inscrit(e)s
+vous êtes inscrit(e)s
+ils (elles) sont inscrit(e)s
+
+** Imparfait
+
+j'étais inscrit(e)
+tu étais inscrit(e)
+il (elle) était inscrit(e)
+nous étions inscrit(e)s
+vous étiez inscrit(e)s
+ils (elles) étaient inscrit(e)s
+
+** Passé simple
+
+je fus inscrit(e)
+tu fus inscrit(e)
+il (elle) fut inscrit(e)
+nous fûmes inscrit(e)s
+vous fûtes inscrit(e)s
+ils (elles) furent inscrit(e)s
+
+** Futur simple
+
+je serai inscrit(e)
+tu seras inscrit(e)
+il (elle) sera inscrit(e)
+nous serons inscrit(e)s
+vous serez inscrit(e)s
+ils (elles) seront inscrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inscrit(e)
+tu serais inscrit(e)
+il (elle) serait inscrit(e)
+nous serions inscrit(e)s
+vous seriez inscrit(e)s
+ils (elles) seraient inscrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inscrit(e)
+que tu sois inscrit(e)
+qu’il (elle) soit inscrit(e)
+que nous soyons inscrit(e)s
+que vous soyez inscrit(e)s
+qu’ils (elles) soient inscrit(e)s
+
+** Imparfait
+
+que je fusse inscrit(e)
+que tu fusses inscrit(e)
+qu’il (elle) fût inscrit(e)
+que nous fussions inscrit(e)s
+que vous fussiez inscrit(e)s
+qu’ils (elles) fussent inscrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inscrit(e)s
+soyez inscrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être inscrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inscrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inscrit(e)
+tu as été inscrit(e)
+il (elle) a été inscrit(e)
+nous avons été inscrit(e)s
+vous avez été inscrit(e)s
+ils (elles) ont été inscrit(e)s
+
+** Plus-que-parfait
+
+j'avais été inscrit(e)
+il (elle) avait été inscrit(e)
+nous avions été inscrit(e)s
+ils (elles) avaient été inscrit(e)s
+
+** Passé antérieur
+
+j'eus été inscrit(e)
+tu eus été inscrit(e)
+il (elle) eut été inscrit(e)
+nous eûmes été inscrit(e)s
+vous eûtes été inscrit(e)s
+ils (elles) eurent été inscrit(e)s
+
+** Futur antérieur
+
+j'aurai été inscrit(e)
+tu auras été inscrit(e)
+il (elle) aura été inscrit(e)
+nous aurons été inscrit(e)s
+vous aurez été inscrit(e)s
+ils (elles) auront été inscrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inscrit(e)
+j'aurais été inscrit(e)
+il (elle) aurait été inscrit(e)
+nous aurions été inscrit(e)s
+vous auriez été inscrit(e)s
+ils (elles) auraient été inscrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inscrit(e)
+que tu aies été inscrit(e)
+qu’il (elle) ait été inscrit(e)
+que nous ayons été inscrit(e)s
+que vous ayez été inscrit(e)s
+qu’ils (elles) aient été inscrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inscrit(e)
+que tu eusses été inscrit(e)
+qu’il (elle) eût été inscrit(e)
+que nous eussions été inscrit(e)s
+que vous eussiez été inscrit(e)s
+qu’ils (elles) eussent été inscrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inscrit(e)
+ayons été inscrit(e)s
+ayez été inscrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inscrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inscrit(e)(s)

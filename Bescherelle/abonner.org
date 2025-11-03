@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abonner
+
+* INDICATIF
+
+** Présent
+
+j'abonne
+tu abonnes
+il (elle) abonne
+nous abonnons
+vous abonnez
+ils (elles) abonnent
+
+** Imparfait
+
+j'abonnais
+tu abonnais
+il (elle) abonnait
+nous abonnions
+vous abonniez
+ils (elles) abonnaient
+
+** Passé simple
+
+j'abonnai
+tu abonnas
+il (elle) abonna
+nous abonnâmes
+vous abonnâtes
+ils (elles) abonnèrent
+
+** Futur simple
+
+j'abonnerai
+tu abonneras
+il (elle) abonnera
+nous abonnerons
+vous abonnerez
+ils (elles) abonneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abonnerais
+tu abonnerais
+il (elle) abonnerait
+nous abonnerions
+vous abonneriez
+ils (elles) abonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abonne
+que tu abonnes
+qu’il (elle) abonne
+que nous abonnions
+que vous abonniez
+qu’ils (elles) abonnent
+
+** Imparfait
+
+que j'abonnasse
+que tu abonnasses
+qu’il (elle) abonnât
+que nous abonnassions
+que vous abonnassiez
+qu’ils (elles) abonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+abonne
+abonnons
+abonnez
+
+* INFINITIF
+
+** Présent
+
+abonner
+
+* PARTICIPE
+
+** Présent
+
+abonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abonné
+tu as abonné
+il (elle) a abonné
+nous avons abonné
+vous avez abonné
+ils (elles) ont abonné
+
+** Plus-que-parfait
+
+j'avais abonné
+tu avais abonné
+il (elle) avait abonné
+nous avions abonné
+vous aviez abonné
+ils (elles) avaient abonné
+
+** Passé antérieur
+
+j'eus abonné
+tu eus abonné
+il (elle) eut abonné
+nous eûmes abonné
+vous eûtes abonné
+ils (elles) eurent abonné
+
+** Futur antérieur
+
+j'aurai abonné
+tu auras abonné
+il (elle) aura abonné
+nous aurons abonné
+vous aurez abonné
+ils (elles) auront abonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abonné
+tu aurais abonné
+il (elle) aurait abonné
+nous aurions abonné
+vous auriez abonné
+ils (elles) auraient abonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abonné
+que tu aies abonné
+qu’il (elle) ait abonné
+que nous ayons abonné
+que vous ayez abonné
+qu’ils (elles) aient abonné
+
+** Plus-que-parfait
+
+que j'eusse abonné
+que tu eusses abonné
+qu’il (elle) eût abonné
+que nous eussions abonné
+que vous eussiez abonné
+qu’ils (elles) eussent abonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abonné
+ayez abonné
+
+* INFINITIF
+
+** Passé
+
+avoir abonné
+
+* PARTICIPE
+
+** Passé
+
+ayant abonné
+abonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abonné(e)
+tu es abonné(e)
+il (elle) est abonné(e)
+nous sommes abonné(e)s
+vous êtes abonné(e)s
+ils (elles) sont abonné(e)s
+
+** Imparfait
+
+j'étais abonné(e)
+tu étais abonné(e)
+il (elle) était abonné(e)
+nous étions abonné(e)s
+vous étiez abonné(e)s
+ils (elles) étaient abonné(e)s
+
+** Passé simple
+
+je fus abonné(e)
+tu fus abonné(e)
+il (elle) fut abonné(e)
+nous fûmes abonné(e)s
+vous fûtes abonné(e)s
+ils (elles) furent abonné(e)s
+
+** Futur simple
+
+je serai abonné(e)
+tu seras abonné(e)
+il (elle) sera abonné(e)
+nous serons abonné(e)s
+vous serez abonné(e)s
+ils (elles) seront abonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abonné(e)
+tu serais abonné(e)
+il (elle) serait abonné(e)
+nous serions abonné(e)s
+vous seriez abonné(e)s
+ils (elles) seraient abonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abonné(e)
+que tu sois abonné(e)
+qu’il (elle) soit abonné(e)
+que nous soyons abonné(e)s
+que vous soyez abonné(e)s
+qu’ils (elles) soient abonné(e)s
+
+** Imparfait
+
+que je fusse abonné(e)
+que tu fusses abonné(e)
+qu’il (elle) fût abonné(e)
+que nous fussions abonné(e)s
+que vous fussiez abonné(e)s
+qu’ils (elles) fussent abonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abonné(e)s
+soyez abonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être abonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abonné(e)
+tu as été abonné(e)
+il (elle) a été abonné(e)
+nous avons été abonné(e)s
+vous avez été abonné(e)s
+ils (elles) ont été abonné(e)s
+
+** Plus-que-parfait
+
+j'avais été abonné(e)
+il (elle) avait été abonné(e)
+nous avions été abonné(e)s
+ils (elles) avaient été abonné(e)s
+
+** Passé antérieur
+
+j'eus été abonné(e)
+tu eus été abonné(e)
+il (elle) eut été abonné(e)
+nous eûmes été abonné(e)s
+vous eûtes été abonné(e)s
+ils (elles) eurent été abonné(e)s
+
+** Futur antérieur
+
+j'aurai été abonné(e)
+tu auras été abonné(e)
+il (elle) aura été abonné(e)
+nous aurons été abonné(e)s
+vous aurez été abonné(e)s
+ils (elles) auront été abonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abonné(e)
+j'aurais été abonné(e)
+il (elle) aurait été abonné(e)
+nous aurions été abonné(e)s
+vous auriez été abonné(e)s
+ils (elles) auraient été abonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abonné(e)
+que tu aies été abonné(e)
+qu’il (elle) ait été abonné(e)
+que nous ayons été abonné(e)s
+que vous ayez été abonné(e)s
+qu’ils (elles) aient été abonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abonné(e)
+que tu eusses été abonné(e)
+qu’il (elle) eût été abonné(e)
+que nous eussions été abonné(e)s
+que vous eussiez été abonné(e)s
+qu’ils (elles) eussent été abonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abonné(e)
+ayons été abonné(e)s
+ayez été abonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abonné(e)(s)

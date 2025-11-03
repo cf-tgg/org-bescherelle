@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe remporter
+
+* INDICATIF
+
+** Présent
+
+je remporte
+tu remportes
+il (elle) remporte
+nous remportons
+vous remportez
+ils (elles) remportent
+
+** Imparfait
+
+je remportais
+tu remportais
+il (elle) remportait
+nous remportions
+vous remportiez
+ils (elles) remportaient
+
+** Passé simple
+
+je remportai
+tu remportas
+il (elle) remporta
+nous remportâmes
+vous remportâtes
+ils (elles) remportèrent
+
+** Futur simple
+
+je remporterai
+tu remporteras
+il (elle) remportera
+nous remporterons
+vous remporterez
+ils (elles) remporteront
+
+* CONDITIONNEL
+
+** Présent
+
+je remporterais
+tu remporterais
+il (elle) remporterait
+nous remporterions
+vous remporteriez
+ils (elles) remporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je remporte
+que tu remportes
+qu’il (elle) remporte
+que nous remportions
+que vous remportiez
+qu’ils (elles) remportent
+
+** Imparfait
+
+que je remportasse
+que tu remportasses
+qu’il (elle) remportât
+que nous remportassions
+que vous remportassiez
+qu’ils (elles) remportassent
+
+* IMPÉRATIF
+
+** Présent
+
+remporte
+remportons
+remportez
+
+* INFINITIF
+
+** Présent
+
+remporter
+
+* PARTICIPE
+
+** Présent
+
+remportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai remporté
+tu as remporté
+il (elle) a remporté
+nous avons remporté
+vous avez remporté
+ils (elles) ont remporté
+
+** Plus-que-parfait
+
+j'avais remporté
+tu avais remporté
+il (elle) avait remporté
+nous avions remporté
+vous aviez remporté
+ils (elles) avaient remporté
+
+** Passé antérieur
+
+j'eus remporté
+tu eus remporté
+il (elle) eut remporté
+nous eûmes remporté
+vous eûtes remporté
+ils (elles) eurent remporté
+
+** Futur antérieur
+
+j'aurai remporté
+tu auras remporté
+il (elle) aura remporté
+nous aurons remporté
+vous aurez remporté
+ils (elles) auront remporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais remporté
+tu aurais remporté
+il (elle) aurait remporté
+nous aurions remporté
+vous auriez remporté
+ils (elles) auraient remporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie remporté
+que tu aies remporté
+qu’il (elle) ait remporté
+que nous ayons remporté
+que vous ayez remporté
+qu’ils (elles) aient remporté
+
+** Plus-que-parfait
+
+que j'eusse remporté
+que tu eusses remporté
+qu’il (elle) eût remporté
+que nous eussions remporté
+que vous eussiez remporté
+qu’ils (elles) eussent remporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons remporté
+ayez remporté
+
+* INFINITIF
+
+** Passé
+
+avoir remporté
+
+* PARTICIPE
+
+** Passé
+
+ayant remporté
+remporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis remporté(e)
+tu es remporté(e)
+il (elle) est remporté(e)
+nous sommes remporté(e)s
+vous êtes remporté(e)s
+ils (elles) sont remporté(e)s
+
+** Imparfait
+
+j'étais remporté(e)
+tu étais remporté(e)
+il (elle) était remporté(e)
+nous étions remporté(e)s
+vous étiez remporté(e)s
+ils (elles) étaient remporté(e)s
+
+** Passé simple
+
+je fus remporté(e)
+tu fus remporté(e)
+il (elle) fut remporté(e)
+nous fûmes remporté(e)s
+vous fûtes remporté(e)s
+ils (elles) furent remporté(e)s
+
+** Futur simple
+
+je serai remporté(e)
+tu seras remporté(e)
+il (elle) sera remporté(e)
+nous serons remporté(e)s
+vous serez remporté(e)s
+ils (elles) seront remporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais remporté(e)
+tu serais remporté(e)
+il (elle) serait remporté(e)
+nous serions remporté(e)s
+vous seriez remporté(e)s
+ils (elles) seraient remporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois remporté(e)
+que tu sois remporté(e)
+qu’il (elle) soit remporté(e)
+que nous soyons remporté(e)s
+que vous soyez remporté(e)s
+qu’ils (elles) soient remporté(e)s
+
+** Imparfait
+
+que je fusse remporté(e)
+que tu fusses remporté(e)
+qu’il (elle) fût remporté(e)
+que nous fussions remporté(e)s
+que vous fussiez remporté(e)s
+qu’ils (elles) fussent remporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons remporté(e)s
+soyez remporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être remporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant remporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été remporté(e)
+tu as été remporté(e)
+il (elle) a été remporté(e)
+nous avons été remporté(e)s
+vous avez été remporté(e)s
+ils (elles) ont été remporté(e)s
+
+** Plus-que-parfait
+
+j'avais été remporté(e)
+il (elle) avait été remporté(e)
+nous avions été remporté(e)s
+ils (elles) avaient été remporté(e)s
+
+** Passé antérieur
+
+j'eus été remporté(e)
+tu eus été remporté(e)
+il (elle) eut été remporté(e)
+nous eûmes été remporté(e)s
+vous eûtes été remporté(e)s
+ils (elles) eurent été remporté(e)s
+
+** Futur antérieur
+
+j'aurai été remporté(e)
+tu auras été remporté(e)
+il (elle) aura été remporté(e)
+nous aurons été remporté(e)s
+vous aurez été remporté(e)s
+ils (elles) auront été remporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été remporté(e)
+j'aurais été remporté(e)
+il (elle) aurait été remporté(e)
+nous aurions été remporté(e)s
+vous auriez été remporté(e)s
+ils (elles) auraient été remporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été remporté(e)
+que tu aies été remporté(e)
+qu’il (elle) ait été remporté(e)
+que nous ayons été remporté(e)s
+que vous ayez été remporté(e)s
+qu’ils (elles) aient été remporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été remporté(e)
+que tu eusses été remporté(e)
+qu’il (elle) eût été remporté(e)
+que nous eussions été remporté(e)s
+que vous eussiez été remporté(e)s
+qu’ils (elles) eussent été remporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été remporté(e)
+ayons été remporté(e)s
+ayez été remporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été remporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été remporté(e)(s)

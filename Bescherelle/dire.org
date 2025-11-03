@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dire
+
+* INDICATIF
+
+** Présent
+
+je dis
+tu dis
+il (elle) dit
+nous disons
+vous dites
+ils (elles) disent
+
+** Imparfait
+
+je disais
+tu disais
+il (elle) disait
+nous disions
+vous disiez
+ils (elles) disaient
+
+** Passé simple
+
+je dis
+tu dis
+il (elle) dit
+nous dîmes
+vous dîtes
+ils (elles) dirent
+
+** Futur simple
+
+je dirai
+tu diras
+il (elle) dira
+nous dirons
+vous direz
+ils (elles) diront
+
+* CONDITIONNEL
+
+** Présent
+
+je dirais
+tu dirais
+il (elle) dirait
+nous dirions
+vous diriez
+ils (elles) diraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dise
+que tu dises
+qu’il (elle) dise
+que nous disions
+que vous disiez
+qu’ils (elles) disent
+
+** Imparfait
+
+que je disse
+que tu disses
+qu’il (elle) dît
+que nous dissions
+que vous dissiez
+qu’ils (elles) dissent
+
+* IMPÉRATIF
+
+** Présent
+
+dis
+disons
+dites
+
+* INFINITIF
+
+** Présent
+
+dire
+
+* PARTICIPE
+
+** Présent
+
+disant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dit
+tu as dit
+il (elle) a dit
+nous avons dit
+vous avez dit
+ils (elles) ont dit
+
+** Plus-que-parfait
+
+j'avais dit
+tu avais dit
+il (elle) avait dit
+nous avions dit
+vous aviez dit
+ils (elles) avaient dit
+
+** Passé antérieur
+
+j'eus dit
+tu eus dit
+il (elle) eut dit
+nous eûmes dit
+vous eûtes dit
+ils (elles) eurent dit
+
+** Futur antérieur
+
+j'aurai dit
+tu auras dit
+il (elle) aura dit
+nous aurons dit
+vous aurez dit
+ils (elles) auront dit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dit
+tu aurais dit
+il (elle) aurait dit
+nous aurions dit
+vous auriez dit
+ils (elles) auraient dit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dit
+que tu aies dit
+qu’il (elle) ait dit
+que nous ayons dit
+que vous ayez dit
+qu’ils (elles) aient dit
+
+** Plus-que-parfait
+
+que j'eusse dit
+que tu eusses dit
+qu’il (elle) eût dit
+que nous eussions dit
+que vous eussiez dit
+qu’ils (elles) eussent dit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dit
+ayez dit
+
+* INFINITIF
+
+** Passé
+
+avoir dit
+
+* PARTICIPE
+
+** Passé
+
+ayant dit
+dit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis dit(e)
+tu es dit(e)
+il (elle) est dit(e)
+nous sommes dit(e)s
+vous êtes dit(e)s
+ils (elles) sont dit(e)s
+
+** Imparfait
+
+j'étais dit(e)
+tu étais dit(e)
+il (elle) était dit(e)
+nous étions dit(e)s
+vous étiez dit(e)s
+ils (elles) étaient dit(e)s
+
+** Passé simple
+
+je fus dit(e)
+tu fus dit(e)
+il (elle) fut dit(e)
+nous fûmes dit(e)s
+vous fûtes dit(e)s
+ils (elles) furent dit(e)s
+
+** Futur simple
+
+je serai dit(e)
+tu seras dit(e)
+il (elle) sera dit(e)
+nous serons dit(e)s
+vous serez dit(e)s
+ils (elles) seront dit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dit(e)
+tu serais dit(e)
+il (elle) serait dit(e)
+nous serions dit(e)s
+vous seriez dit(e)s
+ils (elles) seraient dit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dit(e)
+que tu sois dit(e)
+qu’il (elle) soit dit(e)
+que nous soyons dit(e)s
+que vous soyez dit(e)s
+qu’ils (elles) soient dit(e)s
+
+** Imparfait
+
+que je fusse dit(e)
+que tu fusses dit(e)
+qu’il (elle) fût dit(e)
+que nous fussions dit(e)s
+que vous fussiez dit(e)s
+qu’ils (elles) fussent dit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dit(e)s
+soyez dit(e)s
+
+* INFINITIF
+
+** Présent
+
+être dit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dit(e)
+tu as été dit(e)
+il (elle) a été dit(e)
+nous avons été dit(e)s
+vous avez été dit(e)s
+ils (elles) ont été dit(e)s
+
+** Plus-que-parfait
+
+j'avais été dit(e)
+il (elle) avait été dit(e)
+nous avions été dit(e)s
+ils (elles) avaient été dit(e)s
+
+** Passé antérieur
+
+j'eus été dit(e)
+tu eus été dit(e)
+il (elle) eut été dit(e)
+nous eûmes été dit(e)s
+vous eûtes été dit(e)s
+ils (elles) eurent été dit(e)s
+
+** Futur antérieur
+
+j'aurai été dit(e)
+tu auras été dit(e)
+il (elle) aura été dit(e)
+nous aurons été dit(e)s
+vous aurez été dit(e)s
+ils (elles) auront été dit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dit(e)
+j'aurais été dit(e)
+il (elle) aurait été dit(e)
+nous aurions été dit(e)s
+vous auriez été dit(e)s
+ils (elles) auraient été dit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dit(e)
+que tu aies été dit(e)
+qu’il (elle) ait été dit(e)
+que nous ayons été dit(e)s
+que vous ayez été dit(e)s
+qu’ils (elles) aient été dit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dit(e)
+que tu eusses été dit(e)
+qu’il (elle) eût été dit(e)
+que nous eussions été dit(e)s
+que vous eussiez été dit(e)s
+qu’ils (elles) eussent été dit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dit(e)
+ayons été dit(e)s
+ayez été dit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dit(e)(s)

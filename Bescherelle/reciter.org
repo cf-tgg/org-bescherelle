@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reciter
+
+* INDICATIF
+
+** Présent
+
+je récite
+tu récites
+il (elle) récite
+nous récitons
+vous récitez
+ils (elles) récitent
+
+** Imparfait
+
+je récitais
+tu récitais
+il (elle) récitait
+nous récitions
+vous récitiez
+ils (elles) récitaient
+
+** Passé simple
+
+je récitai
+tu récitas
+il (elle) récita
+nous récitâmes
+vous récitâtes
+ils (elles) récitèrent
+
+** Futur simple
+
+je réciterai
+tu réciteras
+il (elle) récitera
+nous réciterons
+vous réciterez
+ils (elles) réciteront
+
+* CONDITIONNEL
+
+** Présent
+
+je réciterais
+tu réciterais
+il (elle) réciterait
+nous réciterions
+vous réciteriez
+ils (elles) réciteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je récite
+que tu récites
+qu’il (elle) récite
+que nous récitions
+que vous récitiez
+qu’ils (elles) récitent
+
+** Imparfait
+
+que je récitasse
+que tu récitasses
+qu’il (elle) récitât
+que nous récitassions
+que vous récitassiez
+qu’ils (elles) récitassent
+
+* IMPÉRATIF
+
+** Présent
+
+récite
+récitons
+récitez
+
+* INFINITIF
+
+** Présent
+
+réciter
+
+* PARTICIPE
+
+** Présent
+
+récitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai récité
+tu as récité
+il (elle) a récité
+nous avons récité
+vous avez récité
+ils (elles) ont récité
+
+** Plus-que-parfait
+
+j'avais récité
+tu avais récité
+il (elle) avait récité
+nous avions récité
+vous aviez récité
+ils (elles) avaient récité
+
+** Passé antérieur
+
+j'eus récité
+tu eus récité
+il (elle) eut récité
+nous eûmes récité
+vous eûtes récité
+ils (elles) eurent récité
+
+** Futur antérieur
+
+j'aurai récité
+tu auras récité
+il (elle) aura récité
+nous aurons récité
+vous aurez récité
+ils (elles) auront récité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais récité
+tu aurais récité
+il (elle) aurait récité
+nous aurions récité
+vous auriez récité
+ils (elles) auraient récité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie récité
+que tu aies récité
+qu’il (elle) ait récité
+que nous ayons récité
+que vous ayez récité
+qu’ils (elles) aient récité
+
+** Plus-que-parfait
+
+que j'eusse récité
+que tu eusses récité
+qu’il (elle) eût récité
+que nous eussions récité
+que vous eussiez récité
+qu’ils (elles) eussent récité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons récité
+ayez récité
+
+* INFINITIF
+
+** Passé
+
+avoir récité
+
+* PARTICIPE
+
+** Passé
+
+ayant récité
+récité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis récité(e)
+tu es récité(e)
+il (elle) est récité(e)
+nous sommes récité(e)s
+vous êtes récité(e)s
+ils (elles) sont récité(e)s
+
+** Imparfait
+
+j'étais récité(e)
+tu étais récité(e)
+il (elle) était récité(e)
+nous étions récité(e)s
+vous étiez récité(e)s
+ils (elles) étaient récité(e)s
+
+** Passé simple
+
+je fus récité(e)
+tu fus récité(e)
+il (elle) fut récité(e)
+nous fûmes récité(e)s
+vous fûtes récité(e)s
+ils (elles) furent récité(e)s
+
+** Futur simple
+
+je serai récité(e)
+tu seras récité(e)
+il (elle) sera récité(e)
+nous serons récité(e)s
+vous serez récité(e)s
+ils (elles) seront récité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais récité(e)
+tu serais récité(e)
+il (elle) serait récité(e)
+nous serions récité(e)s
+vous seriez récité(e)s
+ils (elles) seraient récité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois récité(e)
+que tu sois récité(e)
+qu’il (elle) soit récité(e)
+que nous soyons récité(e)s
+que vous soyez récité(e)s
+qu’ils (elles) soient récité(e)s
+
+** Imparfait
+
+que je fusse récité(e)
+que tu fusses récité(e)
+qu’il (elle) fût récité(e)
+que nous fussions récité(e)s
+que vous fussiez récité(e)s
+qu’ils (elles) fussent récité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons récité(e)s
+soyez récité(e)s
+
+* INFINITIF
+
+** Présent
+
+être récité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant récité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été récité(e)
+tu as été récité(e)
+il (elle) a été récité(e)
+nous avons été récité(e)s
+vous avez été récité(e)s
+ils (elles) ont été récité(e)s
+
+** Plus-que-parfait
+
+j'avais été récité(e)
+il (elle) avait été récité(e)
+nous avions été récité(e)s
+ils (elles) avaient été récité(e)s
+
+** Passé antérieur
+
+j'eus été récité(e)
+tu eus été récité(e)
+il (elle) eut été récité(e)
+nous eûmes été récité(e)s
+vous eûtes été récité(e)s
+ils (elles) eurent été récité(e)s
+
+** Futur antérieur
+
+j'aurai été récité(e)
+tu auras été récité(e)
+il (elle) aura été récité(e)
+nous aurons été récité(e)s
+vous aurez été récité(e)s
+ils (elles) auront été récité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été récité(e)
+j'aurais été récité(e)
+il (elle) aurait été récité(e)
+nous aurions été récité(e)s
+vous auriez été récité(e)s
+ils (elles) auraient été récité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été récité(e)
+que tu aies été récité(e)
+qu’il (elle) ait été récité(e)
+que nous ayons été récité(e)s
+que vous ayez été récité(e)s
+qu’ils (elles) aient été récité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été récité(e)
+que tu eusses été récité(e)
+qu’il (elle) eût été récité(e)
+que nous eussions été récité(e)s
+que vous eussiez été récité(e)s
+qu’ils (elles) eussent été récité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été récité(e)
+ayons été récité(e)s
+ayez été récité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été récité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été récité(e)(s)

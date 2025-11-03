@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe subir
+
+* INDICATIF
+
+** Présent
+
+je subis
+tu subis
+il (elle) subit
+nous subissons
+vous subissez
+ils (elles) subissent
+
+** Imparfait
+
+je subissais
+tu subissais
+il (elle) subissait
+nous subissions
+vous subissiez
+ils (elles) subissaient
+
+** Passé simple
+
+je subis
+tu subis
+il (elle) subit
+nous subîmes
+vous subîtes
+ils (elles) subirent
+
+** Futur simple
+
+je subirai
+tu subiras
+il (elle) subira
+nous subirons
+vous subirez
+ils (elles) subiront
+
+* CONDITIONNEL
+
+** Présent
+
+je subirais
+tu subirais
+il (elle) subirait
+nous subirions
+vous subiriez
+ils (elles) subiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je subisse
+que tu subisses
+qu’il (elle) subisse
+que nous subissions
+que vous subissiez
+qu’ils (elles) subissent
+
+** Imparfait
+
+que je subisse
+que tu subisses
+qu’il (elle) subît
+que nous subissions
+que vous subissiez
+qu’ils (elles) subissent
+
+* IMPÉRATIF
+
+** Présent
+
+subis
+subissons
+subissez
+
+* INFINITIF
+
+** Présent
+
+subir
+
+* PARTICIPE
+
+** Présent
+
+subissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai subi
+tu as subi
+il (elle) a subi
+nous avons subi
+vous avez subi
+ils (elles) ont subi
+
+** Plus-que-parfait
+
+j'avais subi
+tu avais subi
+il (elle) avait subi
+nous avions subi
+vous aviez subi
+ils (elles) avaient subi
+
+** Passé antérieur
+
+j'eus subi
+tu eus subi
+il (elle) eut subi
+nous eûmes subi
+vous eûtes subi
+ils (elles) eurent subi
+
+** Futur antérieur
+
+j'aurai subi
+tu auras subi
+il (elle) aura subi
+nous aurons subi
+vous aurez subi
+ils (elles) auront subi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais subi
+tu aurais subi
+il (elle) aurait subi
+nous aurions subi
+vous auriez subi
+ils (elles) auraient subi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie subi
+que tu aies subi
+qu’il (elle) ait subi
+que nous ayons subi
+que vous ayez subi
+qu’ils (elles) aient subi
+
+** Plus-que-parfait
+
+que j'eusse subi
+que tu eusses subi
+qu’il (elle) eût subi
+que nous eussions subi
+que vous eussiez subi
+qu’ils (elles) eussent subi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons subi
+ayez subi
+
+* INFINITIF
+
+** Passé
+
+avoir subi
+
+* PARTICIPE
+
+** Passé
+
+ayant subi
+subi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis subi(e)
+tu es subi(e)
+il (elle) est subi(e)
+nous sommes subi(e)s
+vous êtes subi(e)s
+ils (elles) sont subi(e)s
+
+** Imparfait
+
+j'étais subi(e)
+tu étais subi(e)
+il (elle) était subi(e)
+nous étions subi(e)s
+vous étiez subi(e)s
+ils (elles) étaient subi(e)s
+
+** Passé simple
+
+je fus subi(e)
+tu fus subi(e)
+il (elle) fut subi(e)
+nous fûmes subi(e)s
+vous fûtes subi(e)s
+ils (elles) furent subi(e)s
+
+** Futur simple
+
+je serai subi(e)
+tu seras subi(e)
+il (elle) sera subi(e)
+nous serons subi(e)s
+vous serez subi(e)s
+ils (elles) seront subi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais subi(e)
+tu serais subi(e)
+il (elle) serait subi(e)
+nous serions subi(e)s
+vous seriez subi(e)s
+ils (elles) seraient subi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois subi(e)
+que tu sois subi(e)
+qu’il (elle) soit subi(e)
+que nous soyons subi(e)s
+que vous soyez subi(e)s
+qu’ils (elles) soient subi(e)s
+
+** Imparfait
+
+que je fusse subi(e)
+que tu fusses subi(e)
+qu’il (elle) fût subi(e)
+que nous fussions subi(e)s
+que vous fussiez subi(e)s
+qu’ils (elles) fussent subi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons subi(e)s
+soyez subi(e)s
+
+* INFINITIF
+
+** Présent
+
+être subi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant subi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été subi(e)
+tu as été subi(e)
+il (elle) a été subi(e)
+nous avons été subi(e)s
+vous avez été subi(e)s
+ils (elles) ont été subi(e)s
+
+** Plus-que-parfait
+
+j'avais été subi(e)
+il (elle) avait été subi(e)
+nous avions été subi(e)s
+ils (elles) avaient été subi(e)s
+
+** Passé antérieur
+
+j'eus été subi(e)
+tu eus été subi(e)
+il (elle) eut été subi(e)
+nous eûmes été subi(e)s
+vous eûtes été subi(e)s
+ils (elles) eurent été subi(e)s
+
+** Futur antérieur
+
+j'aurai été subi(e)
+tu auras été subi(e)
+il (elle) aura été subi(e)
+nous aurons été subi(e)s
+vous aurez été subi(e)s
+ils (elles) auront été subi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été subi(e)
+j'aurais été subi(e)
+il (elle) aurait été subi(e)
+nous aurions été subi(e)s
+vous auriez été subi(e)s
+ils (elles) auraient été subi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été subi(e)
+que tu aies été subi(e)
+qu’il (elle) ait été subi(e)
+que nous ayons été subi(e)s
+que vous ayez été subi(e)s
+qu’ils (elles) aient été subi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été subi(e)
+que tu eusses été subi(e)
+qu’il (elle) eût été subi(e)
+que nous eussions été subi(e)s
+que vous eussiez été subi(e)s
+qu’ils (elles) eussent été subi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été subi(e)
+ayons été subi(e)s
+ayez été subi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été subi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été subi(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe menacer
+
+* INDICATIF
+
+** Présent
+
+je menace
+tu menaces
+il (elle) menace
+nous menaçons
+vous menacez
+ils (elles) menacent
+
+** Imparfait
+
+je menaçais
+tu menaçais
+il (elle) menaçait
+nous menacions
+vous menaciez
+ils (elles) menaçaient
+
+** Passé simple
+
+je menaçai
+tu menaças
+il (elle) menaça
+nous menaçâmes
+vous menaçâtes
+ils (elles) menacèrent
+
+** Futur simple
+
+je menacerai
+tu menaceras
+il (elle) menacera
+nous menacerons
+vous menacerez
+ils (elles) menaceront
+
+* CONDITIONNEL
+
+** Présent
+
+je menacerais
+tu menacerais
+il (elle) menacerait
+nous menacerions
+vous menaceriez
+ils (elles) menaceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je menace
+que tu menaces
+qu’il (elle) menace
+que nous menacions
+que vous menaciez
+qu’ils (elles) menacent
+
+** Imparfait
+
+que je menaçasse
+que tu menaçasses
+qu’il (elle) menaçât
+que nous menaçassions
+que vous menaçassiez
+qu’ils (elles) menaçassent
+
+* IMPÉRATIF
+
+** Présent
+
+menace
+menaçons
+menacez
+
+* INFINITIF
+
+** Présent
+
+menacer
+
+* PARTICIPE
+
+** Présent
+
+menaçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai menacé
+tu as menacé
+il (elle) a menacé
+nous avons menacé
+vous avez menacé
+ils (elles) ont menacé
+
+** Plus-que-parfait
+
+j'avais menacé
+tu avais menacé
+il (elle) avait menacé
+nous avions menacé
+vous aviez menacé
+ils (elles) avaient menacé
+
+** Passé antérieur
+
+j'eus menacé
+tu eus menacé
+il (elle) eut menacé
+nous eûmes menacé
+vous eûtes menacé
+ils (elles) eurent menacé
+
+** Futur antérieur
+
+j'aurai menacé
+tu auras menacé
+il (elle) aura menacé
+nous aurons menacé
+vous aurez menacé
+ils (elles) auront menacé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais menacé
+tu aurais menacé
+il (elle) aurait menacé
+nous aurions menacé
+vous auriez menacé
+ils (elles) auraient menacé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie menacé
+que tu aies menacé
+qu’il (elle) ait menacé
+que nous ayons menacé
+que vous ayez menacé
+qu’ils (elles) aient menacé
+
+** Plus-que-parfait
+
+que j'eusse menacé
+que tu eusses menacé
+qu’il (elle) eût menacé
+que nous eussions menacé
+que vous eussiez menacé
+qu’ils (elles) eussent menacé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons menacé
+ayez menacé
+
+* INFINITIF
+
+** Passé
+
+avoir menacé
+
+* PARTICIPE
+
+** Passé
+
+ayant menacé
+menacé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis menacé(e)
+tu es menacé(e)
+il (elle) est menacé(e)
+nous sommes menacé(e)s
+vous êtes menacé(e)s
+ils (elles) sont menacé(e)s
+
+** Imparfait
+
+j'étais menacé(e)
+tu étais menacé(e)
+il (elle) était menacé(e)
+nous étions menacé(e)s
+vous étiez menacé(e)s
+ils (elles) étaient menacé(e)s
+
+** Passé simple
+
+je fus menacé(e)
+tu fus menacé(e)
+il (elle) fut menacé(e)
+nous fûmes menacé(e)s
+vous fûtes menacé(e)s
+ils (elles) furent menacé(e)s
+
+** Futur simple
+
+je serai menacé(e)
+tu seras menacé(e)
+il (elle) sera menacé(e)
+nous serons menacé(e)s
+vous serez menacé(e)s
+ils (elles) seront menacé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais menacé(e)
+tu serais menacé(e)
+il (elle) serait menacé(e)
+nous serions menacé(e)s
+vous seriez menacé(e)s
+ils (elles) seraient menacé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois menacé(e)
+que tu sois menacé(e)
+qu’il (elle) soit menacé(e)
+que nous soyons menacé(e)s
+que vous soyez menacé(e)s
+qu’ils (elles) soient menacé(e)s
+
+** Imparfait
+
+que je fusse menacé(e)
+que tu fusses menacé(e)
+qu’il (elle) fût menacé(e)
+que nous fussions menacé(e)s
+que vous fussiez menacé(e)s
+qu’ils (elles) fussent menacé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons menacé(e)s
+soyez menacé(e)s
+
+* INFINITIF
+
+** Présent
+
+être menacé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant menacé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été menacé(e)
+tu as été menacé(e)
+il (elle) a été menacé(e)
+nous avons été menacé(e)s
+vous avez été menacé(e)s
+ils (elles) ont été menacé(e)s
+
+** Plus-que-parfait
+
+j'avais été menacé(e)
+il (elle) avait été menacé(e)
+nous avions été menacé(e)s
+ils (elles) avaient été menacé(e)s
+
+** Passé antérieur
+
+j'eus été menacé(e)
+tu eus été menacé(e)
+il (elle) eut été menacé(e)
+nous eûmes été menacé(e)s
+vous eûtes été menacé(e)s
+ils (elles) eurent été menacé(e)s
+
+** Futur antérieur
+
+j'aurai été menacé(e)
+tu auras été menacé(e)
+il (elle) aura été menacé(e)
+nous aurons été menacé(e)s
+vous aurez été menacé(e)s
+ils (elles) auront été menacé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été menacé(e)
+j'aurais été menacé(e)
+il (elle) aurait été menacé(e)
+nous aurions été menacé(e)s
+vous auriez été menacé(e)s
+ils (elles) auraient été menacé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été menacé(e)
+que tu aies été menacé(e)
+qu’il (elle) ait été menacé(e)
+que nous ayons été menacé(e)s
+que vous ayez été menacé(e)s
+qu’ils (elles) aient été menacé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été menacé(e)
+que tu eusses été menacé(e)
+qu’il (elle) eût été menacé(e)
+que nous eussions été menacé(e)s
+que vous eussiez été menacé(e)s
+qu’ils (elles) eussent été menacé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été menacé(e)
+ayons été menacé(e)s
+ayez été menacé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été menacé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été menacé(e)(s)

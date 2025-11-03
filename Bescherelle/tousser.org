@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe tousser
+
+* INDICATIF
+
+** Présent
+
+je tousse
+tu tousses
+il (elle) tousse
+nous toussons
+vous toussez
+ils (elles) toussent
+
+** Imparfait
+
+je toussais
+tu toussais
+il (elle) toussait
+nous toussions
+vous toussiez
+ils (elles) toussaient
+
+** Passé simple
+
+je toussai
+tu toussas
+il (elle) toussa
+nous toussâmes
+vous toussâtes
+ils (elles) toussèrent
+
+** Futur simple
+
+je tousserai
+tu tousseras
+il (elle) toussera
+nous tousserons
+vous tousserez
+ils (elles) tousseront
+
+* CONDITIONNEL
+
+** Présent
+
+je tousserais
+tu tousserais
+il (elle) tousserait
+nous tousserions
+vous tousseriez
+ils (elles) tousseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tousse
+que tu tousses
+qu’il (elle) tousse
+que nous toussions
+que vous toussiez
+qu’ils (elles) toussent
+
+** Imparfait
+
+que je toussasse
+que tu toussasses
+qu’il (elle) toussât
+que nous toussassions
+que vous toussassiez
+qu’ils (elles) toussassent
+
+* IMPÉRATIF
+
+** Présent
+
+tousse
+toussons
+toussez
+
+* INFINITIF
+
+** Présent
+
+tousser
+
+* PARTICIPE
+
+** Présent
+
+toussant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai toussé
+tu as toussé
+il (elle) a toussé
+nous avons toussé
+vous avez toussé
+ils (elles) ont toussé
+
+** Plus-que-parfait
+
+j'avais toussé
+tu avais toussé
+il (elle) avait toussé
+nous avions toussé
+vous aviez toussé
+ils (elles) avaient toussé
+
+** Passé antérieur
+
+j'eus toussé
+tu eus toussé
+il (elle) eut toussé
+nous eûmes toussé
+vous eûtes toussé
+ils (elles) eurent toussé
+
+** Futur antérieur
+
+j'aurai toussé
+tu auras toussé
+il (elle) aura toussé
+nous aurons toussé
+vous aurez toussé
+ils (elles) auront toussé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais toussé
+tu aurais toussé
+il (elle) aurait toussé
+nous aurions toussé
+vous auriez toussé
+ils (elles) auraient toussé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie toussé
+que tu aies toussé
+qu’il (elle) ait toussé
+que nous ayons toussé
+que vous ayez toussé
+qu’ils (elles) aient toussé
+
+** Plus-que-parfait
+
+que j'eusse toussé
+que tu eusses toussé
+qu’il (elle) eût toussé
+que nous eussions toussé
+que vous eussiez toussé
+qu’ils (elles) eussent toussé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons toussé
+ayez toussé
+
+* INFINITIF
+
+** Passé
+
+avoir toussé
+
+* PARTICIPE
+
+** Passé
+
+ayant toussé
+toussé (invar.)

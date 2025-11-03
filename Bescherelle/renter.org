@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe renter
+
+* INDICATIF
+
+** Présent
+
+je rente
+tu rentes
+il (elle) rente
+nous rentons
+vous rentez
+ils (elles) rentent
+
+** Imparfait
+
+je rentais
+tu rentais
+il (elle) rentait
+nous rentions
+vous rentiez
+ils (elles) rentaient
+
+** Passé simple
+
+je rentai
+tu rentas
+il (elle) renta
+nous rentâmes
+vous rentâtes
+ils (elles) rentèrent
+
+** Futur simple
+
+je renterai
+tu renteras
+il (elle) rentera
+nous renterons
+vous renterez
+ils (elles) renteront
+
+* CONDITIONNEL
+
+** Présent
+
+je renterais
+tu renterais
+il (elle) renterait
+nous renterions
+vous renteriez
+ils (elles) renteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rente
+que tu rentes
+qu’il (elle) rente
+que nous rentions
+que vous rentiez
+qu’ils (elles) rentent
+
+** Imparfait
+
+que je rentasse
+que tu rentasses
+qu’il (elle) rentât
+que nous rentassions
+que vous rentassiez
+qu’ils (elles) rentassent
+
+* IMPÉRATIF
+
+** Présent
+
+rente
+rentons
+rentez
+
+* INFINITIF
+
+** Présent
+
+renter
+
+* PARTICIPE
+
+** Présent
+
+rentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai renté
+tu as renté
+il (elle) a renté
+nous avons renté
+vous avez renté
+ils (elles) ont renté
+
+** Plus-que-parfait
+
+j'avais renté
+tu avais renté
+il (elle) avait renté
+nous avions renté
+vous aviez renté
+ils (elles) avaient renté
+
+** Passé antérieur
+
+j'eus renté
+tu eus renté
+il (elle) eut renté
+nous eûmes renté
+vous eûtes renté
+ils (elles) eurent renté
+
+** Futur antérieur
+
+j'aurai renté
+tu auras renté
+il (elle) aura renté
+nous aurons renté
+vous aurez renté
+ils (elles) auront renté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais renté
+tu aurais renté
+il (elle) aurait renté
+nous aurions renté
+vous auriez renté
+ils (elles) auraient renté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie renté
+que tu aies renté
+qu’il (elle) ait renté
+que nous ayons renté
+que vous ayez renté
+qu’ils (elles) aient renté
+
+** Plus-que-parfait
+
+que j'eusse renté
+que tu eusses renté
+qu’il (elle) eût renté
+que nous eussions renté
+que vous eussiez renté
+qu’ils (elles) eussent renté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons renté
+ayez renté
+
+* INFINITIF
+
+** Passé
+
+avoir renté
+
+* PARTICIPE
+
+** Passé
+
+ayant renté
+renté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis renté(e)
+tu es renté(e)
+il (elle) est renté(e)
+nous sommes renté(e)s
+vous êtes renté(e)s
+ils (elles) sont renté(e)s
+
+** Imparfait
+
+j'étais renté(e)
+tu étais renté(e)
+il (elle) était renté(e)
+nous étions renté(e)s
+vous étiez renté(e)s
+ils (elles) étaient renté(e)s
+
+** Passé simple
+
+je fus renté(e)
+tu fus renté(e)
+il (elle) fut renté(e)
+nous fûmes renté(e)s
+vous fûtes renté(e)s
+ils (elles) furent renté(e)s
+
+** Futur simple
+
+je serai renté(e)
+tu seras renté(e)
+il (elle) sera renté(e)
+nous serons renté(e)s
+vous serez renté(e)s
+ils (elles) seront renté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais renté(e)
+tu serais renté(e)
+il (elle) serait renté(e)
+nous serions renté(e)s
+vous seriez renté(e)s
+ils (elles) seraient renté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois renté(e)
+que tu sois renté(e)
+qu’il (elle) soit renté(e)
+que nous soyons renté(e)s
+que vous soyez renté(e)s
+qu’ils (elles) soient renté(e)s
+
+** Imparfait
+
+que je fusse renté(e)
+que tu fusses renté(e)
+qu’il (elle) fût renté(e)
+que nous fussions renté(e)s
+que vous fussiez renté(e)s
+qu’ils (elles) fussent renté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons renté(e)s
+soyez renté(e)s
+
+* INFINITIF
+
+** Présent
+
+être renté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant renté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été renté(e)
+tu as été renté(e)
+il (elle) a été renté(e)
+nous avons été renté(e)s
+vous avez été renté(e)s
+ils (elles) ont été renté(e)s
+
+** Plus-que-parfait
+
+j'avais été renté(e)
+il (elle) avait été renté(e)
+nous avions été renté(e)s
+ils (elles) avaient été renté(e)s
+
+** Passé antérieur
+
+j'eus été renté(e)
+tu eus été renté(e)
+il (elle) eut été renté(e)
+nous eûmes été renté(e)s
+vous eûtes été renté(e)s
+ils (elles) eurent été renté(e)s
+
+** Futur antérieur
+
+j'aurai été renté(e)
+tu auras été renté(e)
+il (elle) aura été renté(e)
+nous aurons été renté(e)s
+vous aurez été renté(e)s
+ils (elles) auront été renté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été renté(e)
+j'aurais été renté(e)
+il (elle) aurait été renté(e)
+nous aurions été renté(e)s
+vous auriez été renté(e)s
+ils (elles) auraient été renté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été renté(e)
+que tu aies été renté(e)
+qu’il (elle) ait été renté(e)
+que nous ayons été renté(e)s
+que vous ayez été renté(e)s
+qu’ils (elles) aient été renté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été renté(e)
+que tu eusses été renté(e)
+qu’il (elle) eût été renté(e)
+que nous eussions été renté(e)s
+que vous eussiez été renté(e)s
+qu’ils (elles) eussent été renté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été renté(e)
+ayons été renté(e)s
+ayez été renté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été renté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été renté(e)(s)

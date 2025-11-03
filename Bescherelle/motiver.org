@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe motiver
+
+* INDICATIF
+
+** Présent
+
+je motive
+tu motives
+il (elle) motive
+nous motivons
+vous motivez
+ils (elles) motivent
+
+** Imparfait
+
+je motivais
+tu motivais
+il (elle) motivait
+nous motivions
+vous motiviez
+ils (elles) motivaient
+
+** Passé simple
+
+je motivai
+tu motivas
+il (elle) motiva
+nous motivâmes
+vous motivâtes
+ils (elles) motivèrent
+
+** Futur simple
+
+je motiverai
+tu motiveras
+il (elle) motivera
+nous motiverons
+vous motiverez
+ils (elles) motiveront
+
+* CONDITIONNEL
+
+** Présent
+
+je motiverais
+tu motiverais
+il (elle) motiverait
+nous motiverions
+vous motiveriez
+ils (elles) motiveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je motive
+que tu motives
+qu’il (elle) motive
+que nous motivions
+que vous motiviez
+qu’ils (elles) motivent
+
+** Imparfait
+
+que je motivasse
+que tu motivasses
+qu’il (elle) motivât
+que nous motivassions
+que vous motivassiez
+qu’ils (elles) motivassent
+
+* IMPÉRATIF
+
+** Présent
+
+motive
+motivons
+motivez
+
+* INFINITIF
+
+** Présent
+
+motiver
+
+* PARTICIPE
+
+** Présent
+
+motivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai motivé
+tu as motivé
+il (elle) a motivé
+nous avons motivé
+vous avez motivé
+ils (elles) ont motivé
+
+** Plus-que-parfait
+
+j'avais motivé
+tu avais motivé
+il (elle) avait motivé
+nous avions motivé
+vous aviez motivé
+ils (elles) avaient motivé
+
+** Passé antérieur
+
+j'eus motivé
+tu eus motivé
+il (elle) eut motivé
+nous eûmes motivé
+vous eûtes motivé
+ils (elles) eurent motivé
+
+** Futur antérieur
+
+j'aurai motivé
+tu auras motivé
+il (elle) aura motivé
+nous aurons motivé
+vous aurez motivé
+ils (elles) auront motivé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais motivé
+tu aurais motivé
+il (elle) aurait motivé
+nous aurions motivé
+vous auriez motivé
+ils (elles) auraient motivé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie motivé
+que tu aies motivé
+qu’il (elle) ait motivé
+que nous ayons motivé
+que vous ayez motivé
+qu’ils (elles) aient motivé
+
+** Plus-que-parfait
+
+que j'eusse motivé
+que tu eusses motivé
+qu’il (elle) eût motivé
+que nous eussions motivé
+que vous eussiez motivé
+qu’ils (elles) eussent motivé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons motivé
+ayez motivé
+
+* INFINITIF
+
+** Passé
+
+avoir motivé
+
+* PARTICIPE
+
+** Passé
+
+ayant motivé
+motivé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis motivé(e)
+tu es motivé(e)
+il (elle) est motivé(e)
+nous sommes motivé(e)s
+vous êtes motivé(e)s
+ils (elles) sont motivé(e)s
+
+** Imparfait
+
+j'étais motivé(e)
+tu étais motivé(e)
+il (elle) était motivé(e)
+nous étions motivé(e)s
+vous étiez motivé(e)s
+ils (elles) étaient motivé(e)s
+
+** Passé simple
+
+je fus motivé(e)
+tu fus motivé(e)
+il (elle) fut motivé(e)
+nous fûmes motivé(e)s
+vous fûtes motivé(e)s
+ils (elles) furent motivé(e)s
+
+** Futur simple
+
+je serai motivé(e)
+tu seras motivé(e)
+il (elle) sera motivé(e)
+nous serons motivé(e)s
+vous serez motivé(e)s
+ils (elles) seront motivé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais motivé(e)
+tu serais motivé(e)
+il (elle) serait motivé(e)
+nous serions motivé(e)s
+vous seriez motivé(e)s
+ils (elles) seraient motivé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois motivé(e)
+que tu sois motivé(e)
+qu’il (elle) soit motivé(e)
+que nous soyons motivé(e)s
+que vous soyez motivé(e)s
+qu’ils (elles) soient motivé(e)s
+
+** Imparfait
+
+que je fusse motivé(e)
+que tu fusses motivé(e)
+qu’il (elle) fût motivé(e)
+que nous fussions motivé(e)s
+que vous fussiez motivé(e)s
+qu’ils (elles) fussent motivé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons motivé(e)s
+soyez motivé(e)s
+
+* INFINITIF
+
+** Présent
+
+être motivé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant motivé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été motivé(e)
+tu as été motivé(e)
+il (elle) a été motivé(e)
+nous avons été motivé(e)s
+vous avez été motivé(e)s
+ils (elles) ont été motivé(e)s
+
+** Plus-que-parfait
+
+j'avais été motivé(e)
+il (elle) avait été motivé(e)
+nous avions été motivé(e)s
+ils (elles) avaient été motivé(e)s
+
+** Passé antérieur
+
+j'eus été motivé(e)
+tu eus été motivé(e)
+il (elle) eut été motivé(e)
+nous eûmes été motivé(e)s
+vous eûtes été motivé(e)s
+ils (elles) eurent été motivé(e)s
+
+** Futur antérieur
+
+j'aurai été motivé(e)
+tu auras été motivé(e)
+il (elle) aura été motivé(e)
+nous aurons été motivé(e)s
+vous aurez été motivé(e)s
+ils (elles) auront été motivé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été motivé(e)
+j'aurais été motivé(e)
+il (elle) aurait été motivé(e)
+nous aurions été motivé(e)s
+vous auriez été motivé(e)s
+ils (elles) auraient été motivé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été motivé(e)
+que tu aies été motivé(e)
+qu’il (elle) ait été motivé(e)
+que nous ayons été motivé(e)s
+que vous ayez été motivé(e)s
+qu’ils (elles) aient été motivé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été motivé(e)
+que tu eusses été motivé(e)
+qu’il (elle) eût été motivé(e)
+que nous eussions été motivé(e)s
+que vous eussiez été motivé(e)s
+qu’ils (elles) eussent été motivé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été motivé(e)
+ayons été motivé(e)s
+ayez été motivé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été motivé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été motivé(e)(s)

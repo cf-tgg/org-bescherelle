@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe complaire
+
+* INDICATIF
+
+** Présent
+
+je complais
+tu complais
+il (elle) complaît
+nous complaisons
+vous complaisez
+ils (elles) complaisent
+
+** Imparfait
+
+je complaisais
+tu complaisais
+il (elle) complaisait
+nous complaisions
+vous complaisiez
+ils (elles) complaisaient
+
+** Passé simple
+
+je complus
+tu complus
+il (elle) complut
+nous complûmes
+vous complûtes
+ils (elles) complurent
+
+** Futur simple
+
+je complairai
+tu complairas
+il (elle) complaira
+nous complairons
+vous complairez
+ils (elles) complairont
+
+* CONDITIONNEL
+
+** Présent
+
+je complairais
+tu complairais
+il (elle) complairait
+nous complairions
+vous complairiez
+ils (elles) complairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je complaise
+que tu complaises
+qu’il (elle) complaise
+que nous complaisions
+que vous complaisiez
+qu’ils (elles) complaisent
+
+** Imparfait
+
+que je complusse
+que tu complusses
+qu’il (elle) complût
+que nous complussions
+que vous complussiez
+qu’ils (elles) complussent
+
+* IMPÉRATIF
+
+** Présent
+
+complais
+complaisons
+complaisez
+
+* INFINITIF
+
+** Présent
+
+complaire
+
+* PARTICIPE
+
+** Présent
+
+complaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai complu
+tu as complu
+il (elle) a complu
+nous avons complu
+vous avez complu
+ils (elles) ont complu
+
+** Plus-que-parfait
+
+j'avais complu
+tu avais complu
+il (elle) avait complu
+nous avions complu
+vous aviez complu
+ils (elles) avaient complu
+
+** Passé antérieur
+
+j'eus complu
+tu eus complu
+il (elle) eut complu
+nous eûmes complu
+vous eûtes complu
+ils (elles) eurent complu
+
+** Futur antérieur
+
+j'aurai complu
+tu auras complu
+il (elle) aura complu
+nous aurons complu
+vous aurez complu
+ils (elles) auront complu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais complu
+tu aurais complu
+il (elle) aurait complu
+nous aurions complu
+vous auriez complu
+ils (elles) auraient complu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie complu
+que tu aies complu
+qu’il (elle) ait complu
+que nous ayons complu
+que vous ayez complu
+qu’ils (elles) aient complu
+
+** Plus-que-parfait
+
+que j'eusse complu
+que tu eusses complu
+qu’il (elle) eût complu
+que nous eussions complu
+que vous eussiez complu
+qu’ils (elles) eussent complu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons complu
+ayez complu
+
+* INFINITIF
+
+** Passé
+
+avoir complu
+
+* PARTICIPE
+
+** Passé
+
+ayant complu
+complu (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouler
+
+* INDICATIF
+
+** Présent
+
+je boule
+tu boules
+il (elle) boule
+nous boulons
+vous boulez
+ils (elles) boulent
+
+** Imparfait
+
+je boulais
+tu boulais
+il (elle) boulait
+nous boulions
+vous bouliez
+ils (elles) boulaient
+
+** Passé simple
+
+je boulai
+tu boulas
+il (elle) boula
+nous boulâmes
+vous boulâtes
+ils (elles) boulèrent
+
+** Futur simple
+
+je boulerai
+tu bouleras
+il (elle) boulera
+nous boulerons
+vous boulerez
+ils (elles) bouleront
+
+* CONDITIONNEL
+
+** Présent
+
+je boulerais
+tu boulerais
+il (elle) boulerait
+nous boulerions
+vous bouleriez
+ils (elles) bouleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boule
+que tu boules
+qu’il (elle) boule
+que nous boulions
+que vous bouliez
+qu’ils (elles) boulent
+
+** Imparfait
+
+que je boulasse
+que tu boulasses
+qu’il (elle) boulât
+que nous boulassions
+que vous boulassiez
+qu’ils (elles) boulassent
+
+* IMPÉRATIF
+
+** Présent
+
+boule
+boulons
+boulez
+
+* INFINITIF
+
+** Présent
+
+bouler
+
+* PARTICIPE
+
+** Présent
+
+boulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai boulé
+tu as boulé
+il (elle) a boulé
+nous avons boulé
+vous avez boulé
+ils (elles) ont boulé
+
+** Plus-que-parfait
+
+j'avais boulé
+tu avais boulé
+il (elle) avait boulé
+nous avions boulé
+vous aviez boulé
+ils (elles) avaient boulé
+
+** Passé antérieur
+
+j'eus boulé
+tu eus boulé
+il (elle) eut boulé
+nous eûmes boulé
+vous eûtes boulé
+ils (elles) eurent boulé
+
+** Futur antérieur
+
+j'aurai boulé
+tu auras boulé
+il (elle) aura boulé
+nous aurons boulé
+vous aurez boulé
+ils (elles) auront boulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais boulé
+tu aurais boulé
+il (elle) aurait boulé
+nous aurions boulé
+vous auriez boulé
+ils (elles) auraient boulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie boulé
+que tu aies boulé
+qu’il (elle) ait boulé
+que nous ayons boulé
+que vous ayez boulé
+qu’ils (elles) aient boulé
+
+** Plus-que-parfait
+
+que j'eusse boulé
+que tu eusses boulé
+qu’il (elle) eût boulé
+que nous eussions boulé
+que vous eussiez boulé
+qu’ils (elles) eussent boulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons boulé
+ayez boulé
+
+* INFINITIF
+
+** Passé
+
+avoir boulé
+
+* PARTICIPE
+
+** Passé
+
+ayant boulé
+boulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis boulé(e)
+tu es boulé(e)
+il (elle) est boulé(e)
+nous sommes boulé(e)s
+vous êtes boulé(e)s
+ils (elles) sont boulé(e)s
+
+** Imparfait
+
+j'étais boulé(e)
+tu étais boulé(e)
+il (elle) était boulé(e)
+nous étions boulé(e)s
+vous étiez boulé(e)s
+ils (elles) étaient boulé(e)s
+
+** Passé simple
+
+je fus boulé(e)
+tu fus boulé(e)
+il (elle) fut boulé(e)
+nous fûmes boulé(e)s
+vous fûtes boulé(e)s
+ils (elles) furent boulé(e)s
+
+** Futur simple
+
+je serai boulé(e)
+tu seras boulé(e)
+il (elle) sera boulé(e)
+nous serons boulé(e)s
+vous serez boulé(e)s
+ils (elles) seront boulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais boulé(e)
+tu serais boulé(e)
+il (elle) serait boulé(e)
+nous serions boulé(e)s
+vous seriez boulé(e)s
+ils (elles) seraient boulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois boulé(e)
+que tu sois boulé(e)
+qu’il (elle) soit boulé(e)
+que nous soyons boulé(e)s
+que vous soyez boulé(e)s
+qu’ils (elles) soient boulé(e)s
+
+** Imparfait
+
+que je fusse boulé(e)
+que tu fusses boulé(e)
+qu’il (elle) fût boulé(e)
+que nous fussions boulé(e)s
+que vous fussiez boulé(e)s
+qu’ils (elles) fussent boulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons boulé(e)s
+soyez boulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être boulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant boulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été boulé(e)
+tu as été boulé(e)
+il (elle) a été boulé(e)
+nous avons été boulé(e)s
+vous avez été boulé(e)s
+ils (elles) ont été boulé(e)s
+
+** Plus-que-parfait
+
+j'avais été boulé(e)
+il (elle) avait été boulé(e)
+nous avions été boulé(e)s
+ils (elles) avaient été boulé(e)s
+
+** Passé antérieur
+
+j'eus été boulé(e)
+tu eus été boulé(e)
+il (elle) eut été boulé(e)
+nous eûmes été boulé(e)s
+vous eûtes été boulé(e)s
+ils (elles) eurent été boulé(e)s
+
+** Futur antérieur
+
+j'aurai été boulé(e)
+tu auras été boulé(e)
+il (elle) aura été boulé(e)
+nous aurons été boulé(e)s
+vous aurez été boulé(e)s
+ils (elles) auront été boulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été boulé(e)
+j'aurais été boulé(e)
+il (elle) aurait été boulé(e)
+nous aurions été boulé(e)s
+vous auriez été boulé(e)s
+ils (elles) auraient été boulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été boulé(e)
+que tu aies été boulé(e)
+qu’il (elle) ait été boulé(e)
+que nous ayons été boulé(e)s
+que vous ayez été boulé(e)s
+qu’ils (elles) aient été boulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été boulé(e)
+que tu eusses été boulé(e)
+qu’il (elle) eût été boulé(e)
+que nous eussions été boulé(e)s
+que vous eussiez été boulé(e)s
+qu’ils (elles) eussent été boulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été boulé(e)
+ayons été boulé(e)s
+ayez été boulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été boulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été boulé(e)(s)

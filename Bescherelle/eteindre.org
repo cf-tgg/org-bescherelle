@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe eteindre
+
+* INDICATIF
+
+** Présent
+
+j'éteins
+tu éteins
+il (elle) éteint
+nous éteignons
+vous éteignez
+ils (elles) éteignent
+
+** Imparfait
+
+j'éteignais
+tu éteignais
+il (elle) éteignait
+nous éteignions
+vous éteigniez
+ils (elles) éteignaient
+
+** Passé simple
+
+j'éteignis
+tu éteignis
+il (elle) éteignit
+nous éteignîmes
+vous éteignîtes
+ils (elles) éteignirent
+
+** Futur simple
+
+j'éteindrai
+tu éteindras
+il (elle) éteindra
+nous éteindrons
+vous éteindrez
+ils (elles) éteindront
+
+* CONDITIONNEL
+
+** Présent
+
+j'éteindrais
+tu éteindrais
+il (elle) éteindrait
+nous éteindrions
+vous éteindriez
+ils (elles) éteindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'éteigne
+que tu éteignes
+qu’il (elle) éteigne
+que nous éteignions
+que vous éteigniez
+qu’ils (elles) éteignent
+
+** Imparfait
+
+que j'éteignisse
+que tu éteignisses
+qu’il (elle) éteignît
+que nous éteignissions
+que vous éteignissiez
+qu’ils (elles) éteignissent
+
+* IMPÉRATIF
+
+** Présent
+
+éteins
+éteignons
+éteignez
+
+* INFINITIF
+
+** Présent
+
+éteindre
+
+* PARTICIPE
+
+** Présent
+
+éteignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai éteint
+tu as éteint
+il (elle) a éteint
+nous avons éteint
+vous avez éteint
+ils (elles) ont éteint
+
+** Plus-que-parfait
+
+j'avais éteint
+tu avais éteint
+il (elle) avait éteint
+nous avions éteint
+vous aviez éteint
+ils (elles) avaient éteint
+
+** Passé antérieur
+
+j'eus éteint
+tu eus éteint
+il (elle) eut éteint
+nous eûmes éteint
+vous eûtes éteint
+ils (elles) eurent éteint
+
+** Futur antérieur
+
+j'aurai éteint
+tu auras éteint
+il (elle) aura éteint
+nous aurons éteint
+vous aurez éteint
+ils (elles) auront éteint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais éteint
+tu aurais éteint
+il (elle) aurait éteint
+nous aurions éteint
+vous auriez éteint
+ils (elles) auraient éteint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie éteint
+que tu aies éteint
+qu’il (elle) ait éteint
+que nous ayons éteint
+que vous ayez éteint
+qu’ils (elles) aient éteint
+
+** Plus-que-parfait
+
+que j'eusse éteint
+que tu eusses éteint
+qu’il (elle) eût éteint
+que nous eussions éteint
+que vous eussiez éteint
+qu’ils (elles) eussent éteint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons éteint
+ayez éteint
+
+* INFINITIF
+
+** Passé
+
+avoir éteint
+
+* PARTICIPE
+
+** Passé
+
+ayant éteint
+éteint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis éteint(e)
+tu es éteint(e)
+il (elle) est éteint(e)
+nous sommes éteint(e)s
+vous êtes éteint(e)s
+ils (elles) sont éteint(e)s
+
+** Imparfait
+
+j'étais éteint(e)
+tu étais éteint(e)
+il (elle) était éteint(e)
+nous étions éteint(e)s
+vous étiez éteint(e)s
+ils (elles) étaient éteint(e)s
+
+** Passé simple
+
+je fus éteint(e)
+tu fus éteint(e)
+il (elle) fut éteint(e)
+nous fûmes éteint(e)s
+vous fûtes éteint(e)s
+ils (elles) furent éteint(e)s
+
+** Futur simple
+
+je serai éteint(e)
+tu seras éteint(e)
+il (elle) sera éteint(e)
+nous serons éteint(e)s
+vous serez éteint(e)s
+ils (elles) seront éteint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais éteint(e)
+tu serais éteint(e)
+il (elle) serait éteint(e)
+nous serions éteint(e)s
+vous seriez éteint(e)s
+ils (elles) seraient éteint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois éteint(e)
+que tu sois éteint(e)
+qu’il (elle) soit éteint(e)
+que nous soyons éteint(e)s
+que vous soyez éteint(e)s
+qu’ils (elles) soient éteint(e)s
+
+** Imparfait
+
+que je fusse éteint(e)
+que tu fusses éteint(e)
+qu’il (elle) fût éteint(e)
+que nous fussions éteint(e)s
+que vous fussiez éteint(e)s
+qu’ils (elles) fussent éteint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons éteint(e)s
+soyez éteint(e)s
+
+* INFINITIF
+
+** Présent
+
+être éteint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant éteint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été éteint(e)
+tu as été éteint(e)
+il (elle) a été éteint(e)
+nous avons été éteint(e)s
+vous avez été éteint(e)s
+ils (elles) ont été éteint(e)s
+
+** Plus-que-parfait
+
+j'avais été éteint(e)
+il (elle) avait été éteint(e)
+nous avions été éteint(e)s
+ils (elles) avaient été éteint(e)s
+
+** Passé antérieur
+
+j'eus été éteint(e)
+tu eus été éteint(e)
+il (elle) eut été éteint(e)
+nous eûmes été éteint(e)s
+vous eûtes été éteint(e)s
+ils (elles) eurent été éteint(e)s
+
+** Futur antérieur
+
+j'aurai été éteint(e)
+tu auras été éteint(e)
+il (elle) aura été éteint(e)
+nous aurons été éteint(e)s
+vous aurez été éteint(e)s
+ils (elles) auront été éteint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été éteint(e)
+j'aurais été éteint(e)
+il (elle) aurait été éteint(e)
+nous aurions été éteint(e)s
+vous auriez été éteint(e)s
+ils (elles) auraient été éteint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été éteint(e)
+que tu aies été éteint(e)
+qu’il (elle) ait été éteint(e)
+que nous ayons été éteint(e)s
+que vous ayez été éteint(e)s
+qu’ils (elles) aient été éteint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été éteint(e)
+que tu eusses été éteint(e)
+qu’il (elle) eût été éteint(e)
+que nous eussions été éteint(e)s
+que vous eussiez été éteint(e)s
+qu’ils (elles) eussent été éteint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été éteint(e)
+ayons été éteint(e)s
+ayez été éteint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été éteint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été éteint(e)(s)

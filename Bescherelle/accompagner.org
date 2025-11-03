@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accompagner
+
+* INDICATIF
+
+** Présent
+
+j'accompagne
+tu accompagnes
+il (elle) accompagne
+nous accompagnons
+vous accompagnez
+ils (elles) accompagnent
+
+** Imparfait
+
+j'accompagnais
+tu accompagnais
+il (elle) accompagnait
+nous accompagnions
+vous accompagniez
+ils (elles) accompagnaient
+
+** Passé simple
+
+j'accompagnai
+tu accompagnas
+il (elle) accompagna
+nous accompagnâmes
+vous accompagnâtes
+ils (elles) accompagnèrent
+
+** Futur simple
+
+j'accompagnerai
+tu accompagneras
+il (elle) accompagnera
+nous accompagnerons
+vous accompagnerez
+ils (elles) accompagneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accompagnerais
+tu accompagnerais
+il (elle) accompagnerait
+nous accompagnerions
+vous accompagneriez
+ils (elles) accompagneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accompagne
+que tu accompagnes
+qu’il (elle) accompagne
+que nous accompagnions
+que vous accompagniez
+qu’ils (elles) accompagnent
+
+** Imparfait
+
+que j'accompagnasse
+que tu accompagnasses
+qu’il (elle) accompagnât
+que nous accompagnassions
+que vous accompagnassiez
+qu’ils (elles) accompagnassent
+
+* IMPÉRATIF
+
+** Présent
+
+accompagne
+accompagnons
+accompagnez
+
+* INFINITIF
+
+** Présent
+
+accompagner
+
+* PARTICIPE
+
+** Présent
+
+accompagnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accompagné
+tu as accompagné
+il (elle) a accompagné
+nous avons accompagné
+vous avez accompagné
+ils (elles) ont accompagné
+
+** Plus-que-parfait
+
+j'avais accompagné
+tu avais accompagné
+il (elle) avait accompagné
+nous avions accompagné
+vous aviez accompagné
+ils (elles) avaient accompagné
+
+** Passé antérieur
+
+j'eus accompagné
+tu eus accompagné
+il (elle) eut accompagné
+nous eûmes accompagné
+vous eûtes accompagné
+ils (elles) eurent accompagné
+
+** Futur antérieur
+
+j'aurai accompagné
+tu auras accompagné
+il (elle) aura accompagné
+nous aurons accompagné
+vous aurez accompagné
+ils (elles) auront accompagné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accompagné
+tu aurais accompagné
+il (elle) aurait accompagné
+nous aurions accompagné
+vous auriez accompagné
+ils (elles) auraient accompagné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accompagné
+que tu aies accompagné
+qu’il (elle) ait accompagné
+que nous ayons accompagné
+que vous ayez accompagné
+qu’ils (elles) aient accompagné
+
+** Plus-que-parfait
+
+que j'eusse accompagné
+que tu eusses accompagné
+qu’il (elle) eût accompagné
+que nous eussions accompagné
+que vous eussiez accompagné
+qu’ils (elles) eussent accompagné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accompagné
+ayez accompagné
+
+* INFINITIF
+
+** Passé
+
+avoir accompagné
+
+* PARTICIPE
+
+** Passé
+
+ayant accompagné
+accompagné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accompagné(e)
+tu es accompagné(e)
+il (elle) est accompagné(e)
+nous sommes accompagné(e)s
+vous êtes accompagné(e)s
+ils (elles) sont accompagné(e)s
+
+** Imparfait
+
+j'étais accompagné(e)
+tu étais accompagné(e)
+il (elle) était accompagné(e)
+nous étions accompagné(e)s
+vous étiez accompagné(e)s
+ils (elles) étaient accompagné(e)s
+
+** Passé simple
+
+je fus accompagné(e)
+tu fus accompagné(e)
+il (elle) fut accompagné(e)
+nous fûmes accompagné(e)s
+vous fûtes accompagné(e)s
+ils (elles) furent accompagné(e)s
+
+** Futur simple
+
+je serai accompagné(e)
+tu seras accompagné(e)
+il (elle) sera accompagné(e)
+nous serons accompagné(e)s
+vous serez accompagné(e)s
+ils (elles) seront accompagné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accompagné(e)
+tu serais accompagné(e)
+il (elle) serait accompagné(e)
+nous serions accompagné(e)s
+vous seriez accompagné(e)s
+ils (elles) seraient accompagné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accompagné(e)
+que tu sois accompagné(e)
+qu’il (elle) soit accompagné(e)
+que nous soyons accompagné(e)s
+que vous soyez accompagné(e)s
+qu’ils (elles) soient accompagné(e)s
+
+** Imparfait
+
+que je fusse accompagné(e)
+que tu fusses accompagné(e)
+qu’il (elle) fût accompagné(e)
+que nous fussions accompagné(e)s
+que vous fussiez accompagné(e)s
+qu’ils (elles) fussent accompagné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accompagné(e)s
+soyez accompagné(e)s
+
+* INFINITIF
+
+** Présent
+
+être accompagné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accompagné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accompagné(e)
+tu as été accompagné(e)
+il (elle) a été accompagné(e)
+nous avons été accompagné(e)s
+vous avez été accompagné(e)s
+ils (elles) ont été accompagné(e)s
+
+** Plus-que-parfait
+
+j'avais été accompagné(e)
+il (elle) avait été accompagné(e)
+nous avions été accompagné(e)s
+ils (elles) avaient été accompagné(e)s
+
+** Passé antérieur
+
+j'eus été accompagné(e)
+tu eus été accompagné(e)
+il (elle) eut été accompagné(e)
+nous eûmes été accompagné(e)s
+vous eûtes été accompagné(e)s
+ils (elles) eurent été accompagné(e)s
+
+** Futur antérieur
+
+j'aurai été accompagné(e)
+tu auras été accompagné(e)
+il (elle) aura été accompagné(e)
+nous aurons été accompagné(e)s
+vous aurez été accompagné(e)s
+ils (elles) auront été accompagné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accompagné(e)
+j'aurais été accompagné(e)
+il (elle) aurait été accompagné(e)
+nous aurions été accompagné(e)s
+vous auriez été accompagné(e)s
+ils (elles) auraient été accompagné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accompagné(e)
+que tu aies été accompagné(e)
+qu’il (elle) ait été accompagné(e)
+que nous ayons été accompagné(e)s
+que vous ayez été accompagné(e)s
+qu’ils (elles) aient été accompagné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accompagné(e)
+que tu eusses été accompagné(e)
+qu’il (elle) eût été accompagné(e)
+que nous eussions été accompagné(e)s
+que vous eussiez été accompagné(e)s
+qu’ils (elles) eussent été accompagné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accompagné(e)
+ayons été accompagné(e)s
+ayez été accompagné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accompagné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accompagné(e)(s)

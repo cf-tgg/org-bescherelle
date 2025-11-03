@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe peser
+
+* INDICATIF
+
+** Présent
+
+je pèse
+tu pèses
+il (elle) pèse
+nous pesons
+vous pesez
+ils (elles) pèsent
+
+** Imparfait
+
+je pesais
+tu pesais
+il (elle) pesait
+nous pesions
+vous pesiez
+ils (elles) pesaient
+
+** Passé simple
+
+je pesai
+tu pesas
+il (elle) pesa
+nous pesâmes
+vous pesâtes
+ils (elles) pesèrent
+
+** Futur simple
+
+je pèserai
+tu pèseras
+il (elle) pèsera
+nous pèserons
+vous pèserez
+ils (elles) pèseront
+
+* CONDITIONNEL
+
+** Présent
+
+je pèserais
+tu pèserais
+il (elle) pèserait
+nous pèserions
+vous pèseriez
+ils (elles) pèseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pèse
+que tu pèses
+qu’il (elle) pèse
+que nous pesions
+que vous pesiez
+qu’ils (elles) pèsent
+
+** Imparfait
+
+que je pesasse
+que tu pesasses
+qu’il (elle) pesât
+que nous pesassions
+que vous pesassiez
+qu’ils (elles) pesassent
+
+* IMPÉRATIF
+
+** Présent
+
+pèse
+pesons
+pesez
+
+* INFINITIF
+
+** Présent
+
+peser
+
+* PARTICIPE
+
+** Présent
+
+pesant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pesé
+tu as pesé
+il (elle) a pesé
+nous avons pesé
+vous avez pesé
+ils (elles) ont pesé
+
+** Plus-que-parfait
+
+j'avais pesé
+tu avais pesé
+il (elle) avait pesé
+nous avions pesé
+vous aviez pesé
+ils (elles) avaient pesé
+
+** Passé antérieur
+
+j'eus pesé
+tu eus pesé
+il (elle) eut pesé
+nous eûmes pesé
+vous eûtes pesé
+ils (elles) eurent pesé
+
+** Futur antérieur
+
+j'aurai pesé
+tu auras pesé
+il (elle) aura pesé
+nous aurons pesé
+vous aurez pesé
+ils (elles) auront pesé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pesé
+tu aurais pesé
+il (elle) aurait pesé
+nous aurions pesé
+vous auriez pesé
+ils (elles) auraient pesé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pesé
+que tu aies pesé
+qu’il (elle) ait pesé
+que nous ayons pesé
+que vous ayez pesé
+qu’ils (elles) aient pesé
+
+** Plus-que-parfait
+
+que j'eusse pesé
+que tu eusses pesé
+qu’il (elle) eût pesé
+que nous eussions pesé
+que vous eussiez pesé
+qu’ils (elles) eussent pesé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pesé
+ayez pesé
+
+* INFINITIF
+
+** Passé
+
+avoir pesé
+
+* PARTICIPE
+
+** Passé
+
+ayant pesé
+pesé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pesé(e)
+tu es pesé(e)
+il (elle) est pesé(e)
+nous sommes pesé(e)s
+vous êtes pesé(e)s
+ils (elles) sont pesé(e)s
+
+** Imparfait
+
+j'étais pesé(e)
+tu étais pesé(e)
+il (elle) était pesé(e)
+nous étions pesé(e)s
+vous étiez pesé(e)s
+ils (elles) étaient pesé(e)s
+
+** Passé simple
+
+je fus pesé(e)
+tu fus pesé(e)
+il (elle) fut pesé(e)
+nous fûmes pesé(e)s
+vous fûtes pesé(e)s
+ils (elles) furent pesé(e)s
+
+** Futur simple
+
+je serai pesé(e)
+tu seras pesé(e)
+il (elle) sera pesé(e)
+nous serons pesé(e)s
+vous serez pesé(e)s
+ils (elles) seront pesé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pesé(e)
+tu serais pesé(e)
+il (elle) serait pesé(e)
+nous serions pesé(e)s
+vous seriez pesé(e)s
+ils (elles) seraient pesé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pesé(e)
+que tu sois pesé(e)
+qu’il (elle) soit pesé(e)
+que nous soyons pesé(e)s
+que vous soyez pesé(e)s
+qu’ils (elles) soient pesé(e)s
+
+** Imparfait
+
+que je fusse pesé(e)
+que tu fusses pesé(e)
+qu’il (elle) fût pesé(e)
+que nous fussions pesé(e)s
+que vous fussiez pesé(e)s
+qu’ils (elles) fussent pesé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pesé(e)s
+soyez pesé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pesé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pesé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pesé(e)
+tu as été pesé(e)
+il (elle) a été pesé(e)
+nous avons été pesé(e)s
+vous avez été pesé(e)s
+ils (elles) ont été pesé(e)s
+
+** Plus-que-parfait
+
+j'avais été pesé(e)
+il (elle) avait été pesé(e)
+nous avions été pesé(e)s
+ils (elles) avaient été pesé(e)s
+
+** Passé antérieur
+
+j'eus été pesé(e)
+tu eus été pesé(e)
+il (elle) eut été pesé(e)
+nous eûmes été pesé(e)s
+vous eûtes été pesé(e)s
+ils (elles) eurent été pesé(e)s
+
+** Futur antérieur
+
+j'aurai été pesé(e)
+tu auras été pesé(e)
+il (elle) aura été pesé(e)
+nous aurons été pesé(e)s
+vous aurez été pesé(e)s
+ils (elles) auront été pesé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pesé(e)
+j'aurais été pesé(e)
+il (elle) aurait été pesé(e)
+nous aurions été pesé(e)s
+vous auriez été pesé(e)s
+ils (elles) auraient été pesé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pesé(e)
+que tu aies été pesé(e)
+qu’il (elle) ait été pesé(e)
+que nous ayons été pesé(e)s
+que vous ayez été pesé(e)s
+qu’ils (elles) aient été pesé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pesé(e)
+que tu eusses été pesé(e)
+qu’il (elle) eût été pesé(e)
+que nous eussions été pesé(e)s
+que vous eussiez été pesé(e)s
+qu’ils (elles) eussent été pesé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pesé(e)
+ayons été pesé(e)s
+ayez été pesé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pesé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pesé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe selectionner
+
+* INDICATIF
+
+** Présent
+
+je sélectionne
+tu sélectionnes
+il (elle) sélectionne
+nous sélectionnons
+vous sélectionnez
+ils (elles) sélectionnent
+
+** Imparfait
+
+je sélectionnais
+tu sélectionnais
+il (elle) sélectionnait
+nous sélectionnions
+vous sélectionniez
+ils (elles) sélectionnaient
+
+** Passé simple
+
+je sélectionnai
+tu sélectionnas
+il (elle) sélectionna
+nous sélectionnâmes
+vous sélectionnâtes
+ils (elles) sélectionnèrent
+
+** Futur simple
+
+je sélectionnerai
+tu sélectionneras
+il (elle) sélectionnera
+nous sélectionnerons
+vous sélectionnerez
+ils (elles) sélectionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je sélectionnerais
+tu sélectionnerais
+il (elle) sélectionnerait
+nous sélectionnerions
+vous sélectionneriez
+ils (elles) sélectionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sélectionne
+que tu sélectionnes
+qu’il (elle) sélectionne
+que nous sélectionnions
+que vous sélectionniez
+qu’ils (elles) sélectionnent
+
+** Imparfait
+
+que je sélectionnasse
+que tu sélectionnasses
+qu’il (elle) sélectionnât
+que nous sélectionnassions
+que vous sélectionnassiez
+qu’ils (elles) sélectionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+sélectionne
+sélectionnons
+sélectionnez
+
+* INFINITIF
+
+** Présent
+
+sélectionner
+
+* PARTICIPE
+
+** Présent
+
+sélectionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sélectionné
+tu as sélectionné
+il (elle) a sélectionné
+nous avons sélectionné
+vous avez sélectionné
+ils (elles) ont sélectionné
+
+** Plus-que-parfait
+
+j'avais sélectionné
+tu avais sélectionné
+il (elle) avait sélectionné
+nous avions sélectionné
+vous aviez sélectionné
+ils (elles) avaient sélectionné
+
+** Passé antérieur
+
+j'eus sélectionné
+tu eus sélectionné
+il (elle) eut sélectionné
+nous eûmes sélectionné
+vous eûtes sélectionné
+ils (elles) eurent sélectionné
+
+** Futur antérieur
+
+j'aurai sélectionné
+tu auras sélectionné
+il (elle) aura sélectionné
+nous aurons sélectionné
+vous aurez sélectionné
+ils (elles) auront sélectionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sélectionné
+tu aurais sélectionné
+il (elle) aurait sélectionné
+nous aurions sélectionné
+vous auriez sélectionné
+ils (elles) auraient sélectionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sélectionné
+que tu aies sélectionné
+qu’il (elle) ait sélectionné
+que nous ayons sélectionné
+que vous ayez sélectionné
+qu’ils (elles) aient sélectionné
+
+** Plus-que-parfait
+
+que j'eusse sélectionné
+que tu eusses sélectionné
+qu’il (elle) eût sélectionné
+que nous eussions sélectionné
+que vous eussiez sélectionné
+qu’ils (elles) eussent sélectionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sélectionné
+ayez sélectionné
+
+* INFINITIF
+
+** Passé
+
+avoir sélectionné
+
+* PARTICIPE
+
+** Passé
+
+ayant sélectionné
+sélectionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sélectionné(e)
+tu es sélectionné(e)
+il (elle) est sélectionné(e)
+nous sommes sélectionné(e)s
+vous êtes sélectionné(e)s
+ils (elles) sont sélectionné(e)s
+
+** Imparfait
+
+j'étais sélectionné(e)
+tu étais sélectionné(e)
+il (elle) était sélectionné(e)
+nous étions sélectionné(e)s
+vous étiez sélectionné(e)s
+ils (elles) étaient sélectionné(e)s
+
+** Passé simple
+
+je fus sélectionné(e)
+tu fus sélectionné(e)
+il (elle) fut sélectionné(e)
+nous fûmes sélectionné(e)s
+vous fûtes sélectionné(e)s
+ils (elles) furent sélectionné(e)s
+
+** Futur simple
+
+je serai sélectionné(e)
+tu seras sélectionné(e)
+il (elle) sera sélectionné(e)
+nous serons sélectionné(e)s
+vous serez sélectionné(e)s
+ils (elles) seront sélectionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sélectionné(e)
+tu serais sélectionné(e)
+il (elle) serait sélectionné(e)
+nous serions sélectionné(e)s
+vous seriez sélectionné(e)s
+ils (elles) seraient sélectionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sélectionné(e)
+que tu sois sélectionné(e)
+qu’il (elle) soit sélectionné(e)
+que nous soyons sélectionné(e)s
+que vous soyez sélectionné(e)s
+qu’ils (elles) soient sélectionné(e)s
+
+** Imparfait
+
+que je fusse sélectionné(e)
+que tu fusses sélectionné(e)
+qu’il (elle) fût sélectionné(e)
+que nous fussions sélectionné(e)s
+que vous fussiez sélectionné(e)s
+qu’ils (elles) fussent sélectionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sélectionné(e)s
+soyez sélectionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être sélectionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sélectionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sélectionné(e)
+tu as été sélectionné(e)
+il (elle) a été sélectionné(e)
+nous avons été sélectionné(e)s
+vous avez été sélectionné(e)s
+ils (elles) ont été sélectionné(e)s
+
+** Plus-que-parfait
+
+j'avais été sélectionné(e)
+il (elle) avait été sélectionné(e)
+nous avions été sélectionné(e)s
+ils (elles) avaient été sélectionné(e)s
+
+** Passé antérieur
+
+j'eus été sélectionné(e)
+tu eus été sélectionné(e)
+il (elle) eut été sélectionné(e)
+nous eûmes été sélectionné(e)s
+vous eûtes été sélectionné(e)s
+ils (elles) eurent été sélectionné(e)s
+
+** Futur antérieur
+
+j'aurai été sélectionné(e)
+tu auras été sélectionné(e)
+il (elle) aura été sélectionné(e)
+nous aurons été sélectionné(e)s
+vous aurez été sélectionné(e)s
+ils (elles) auront été sélectionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sélectionné(e)
+j'aurais été sélectionné(e)
+il (elle) aurait été sélectionné(e)
+nous aurions été sélectionné(e)s
+vous auriez été sélectionné(e)s
+ils (elles) auraient été sélectionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sélectionné(e)
+que tu aies été sélectionné(e)
+qu’il (elle) ait été sélectionné(e)
+que nous ayons été sélectionné(e)s
+que vous ayez été sélectionné(e)s
+qu’ils (elles) aient été sélectionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sélectionné(e)
+que tu eusses été sélectionné(e)
+qu’il (elle) eût été sélectionné(e)
+que nous eussions été sélectionné(e)s
+que vous eussiez été sélectionné(e)s
+qu’ils (elles) eussent été sélectionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sélectionné(e)
+ayons été sélectionné(e)s
+ayez été sélectionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sélectionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sélectionné(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exaucer
+
+* INDICATIF
+
+** Présent
+
+j'exauce
+tu exauces
+il (elle) exauce
+nous exauçons
+vous exaucez
+ils (elles) exaucent
+
+** Imparfait
+
+j'exauçais
+tu exauçais
+il (elle) exauçait
+nous exaucions
+vous exauciez
+ils (elles) exauçaient
+
+** Passé simple
+
+j'exauçai
+tu exauças
+il (elle) exauça
+nous exauçâmes
+vous exauçâtes
+ils (elles) exaucèrent
+
+** Futur simple
+
+j'exaucerai
+tu exauceras
+il (elle) exaucera
+nous exaucerons
+vous exaucerez
+ils (elles) exauceront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exaucerais
+tu exaucerais
+il (elle) exaucerait
+nous exaucerions
+vous exauceriez
+ils (elles) exauceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'exauce
+que tu exauces
+qu’il (elle) exauce
+que nous exaucions
+que vous exauciez
+qu’ils (elles) exaucent
+
+** Imparfait
+
+que j'exauçasse
+que tu exauçasses
+qu’il (elle) exauçât
+que nous exauçassions
+que vous exauçassiez
+qu’ils (elles) exauçassent
+
+* IMPÉRATIF
+
+** Présent
+
+exauce
+exauçons
+exaucez
+
+* INFINITIF
+
+** Présent
+
+exaucer
+
+* PARTICIPE
+
+** Présent
+
+exauçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exaucé
+tu as exaucé
+il (elle) a exaucé
+nous avons exaucé
+vous avez exaucé
+ils (elles) ont exaucé
+
+** Plus-que-parfait
+
+j'avais exaucé
+tu avais exaucé
+il (elle) avait exaucé
+nous avions exaucé
+vous aviez exaucé
+ils (elles) avaient exaucé
+
+** Passé antérieur
+
+j'eus exaucé
+tu eus exaucé
+il (elle) eut exaucé
+nous eûmes exaucé
+vous eûtes exaucé
+ils (elles) eurent exaucé
+
+** Futur antérieur
+
+j'aurai exaucé
+tu auras exaucé
+il (elle) aura exaucé
+nous aurons exaucé
+vous aurez exaucé
+ils (elles) auront exaucé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exaucé
+tu aurais exaucé
+il (elle) aurait exaucé
+nous aurions exaucé
+vous auriez exaucé
+ils (elles) auraient exaucé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exaucé
+que tu aies exaucé
+qu’il (elle) ait exaucé
+que nous ayons exaucé
+que vous ayez exaucé
+qu’ils (elles) aient exaucé
+
+** Plus-que-parfait
+
+que j'eusse exaucé
+que tu eusses exaucé
+qu’il (elle) eût exaucé
+que nous eussions exaucé
+que vous eussiez exaucé
+qu’ils (elles) eussent exaucé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exaucé
+ayez exaucé
+
+* INFINITIF
+
+** Passé
+
+avoir exaucé
+
+* PARTICIPE
+
+** Passé
+
+ayant exaucé
+exaucé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis exaucé(e)
+tu es exaucé(e)
+il (elle) est exaucé(e)
+nous sommes exaucé(e)s
+vous êtes exaucé(e)s
+ils (elles) sont exaucé(e)s
+
+** Imparfait
+
+j'étais exaucé(e)
+tu étais exaucé(e)
+il (elle) était exaucé(e)
+nous étions exaucé(e)s
+vous étiez exaucé(e)s
+ils (elles) étaient exaucé(e)s
+
+** Passé simple
+
+je fus exaucé(e)
+tu fus exaucé(e)
+il (elle) fut exaucé(e)
+nous fûmes exaucé(e)s
+vous fûtes exaucé(e)s
+ils (elles) furent exaucé(e)s
+
+** Futur simple
+
+je serai exaucé(e)
+tu seras exaucé(e)
+il (elle) sera exaucé(e)
+nous serons exaucé(e)s
+vous serez exaucé(e)s
+ils (elles) seront exaucé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exaucé(e)
+tu serais exaucé(e)
+il (elle) serait exaucé(e)
+nous serions exaucé(e)s
+vous seriez exaucé(e)s
+ils (elles) seraient exaucé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exaucé(e)
+que tu sois exaucé(e)
+qu’il (elle) soit exaucé(e)
+que nous soyons exaucé(e)s
+que vous soyez exaucé(e)s
+qu’ils (elles) soient exaucé(e)s
+
+** Imparfait
+
+que je fusse exaucé(e)
+que tu fusses exaucé(e)
+qu’il (elle) fût exaucé(e)
+que nous fussions exaucé(e)s
+que vous fussiez exaucé(e)s
+qu’ils (elles) fussent exaucé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exaucé(e)s
+soyez exaucé(e)s
+
+* INFINITIF
+
+** Présent
+
+être exaucé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exaucé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exaucé(e)
+tu as été exaucé(e)
+il (elle) a été exaucé(e)
+nous avons été exaucé(e)s
+vous avez été exaucé(e)s
+ils (elles) ont été exaucé(e)s
+
+** Plus-que-parfait
+
+j'avais été exaucé(e)
+il (elle) avait été exaucé(e)
+nous avions été exaucé(e)s
+ils (elles) avaient été exaucé(e)s
+
+** Passé antérieur
+
+j'eus été exaucé(e)
+tu eus été exaucé(e)
+il (elle) eut été exaucé(e)
+nous eûmes été exaucé(e)s
+vous eûtes été exaucé(e)s
+ils (elles) eurent été exaucé(e)s
+
+** Futur antérieur
+
+j'aurai été exaucé(e)
+tu auras été exaucé(e)
+il (elle) aura été exaucé(e)
+nous aurons été exaucé(e)s
+vous aurez été exaucé(e)s
+ils (elles) auront été exaucé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exaucé(e)
+j'aurais été exaucé(e)
+il (elle) aurait été exaucé(e)
+nous aurions été exaucé(e)s
+vous auriez été exaucé(e)s
+ils (elles) auraient été exaucé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exaucé(e)
+que tu aies été exaucé(e)
+qu’il (elle) ait été exaucé(e)
+que nous ayons été exaucé(e)s
+que vous ayez été exaucé(e)s
+qu’ils (elles) aient été exaucé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exaucé(e)
+que tu eusses été exaucé(e)
+qu’il (elle) eût été exaucé(e)
+que nous eussions été exaucé(e)s
+que vous eussiez été exaucé(e)s
+qu’ils (elles) eussent été exaucé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exaucé(e)
+ayons été exaucé(e)s
+ayez été exaucé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exaucé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exaucé(e)(s)

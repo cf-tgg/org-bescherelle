@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe patienter
+
+* INDICATIF
+
+** Présent
+
+je patiente
+tu patientes
+il (elle) patiente
+nous patientons
+vous patientez
+ils (elles) patientent
+
+** Imparfait
+
+je patientais
+tu patientais
+il (elle) patientait
+nous patientions
+vous patientiez
+ils (elles) patientaient
+
+** Passé simple
+
+je patientai
+tu patientas
+il (elle) patienta
+nous patientâmes
+vous patientâtes
+ils (elles) patientèrent
+
+** Futur simple
+
+je patienterai
+tu patienteras
+il (elle) patientera
+nous patienterons
+vous patienterez
+ils (elles) patienteront
+
+* CONDITIONNEL
+
+** Présent
+
+je patienterais
+tu patienterais
+il (elle) patienterait
+nous patienterions
+vous patienteriez
+ils (elles) patienteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je patiente
+que tu patientes
+qu’il (elle) patiente
+que nous patientions
+que vous patientiez
+qu’ils (elles) patientent
+
+** Imparfait
+
+que je patientasse
+que tu patientasses
+qu’il (elle) patientât
+que nous patientassions
+que vous patientassiez
+qu’ils (elles) patientassent
+
+* IMPÉRATIF
+
+** Présent
+
+patiente
+patientons
+patientez
+
+* INFINITIF
+
+** Présent
+
+patienter
+
+* PARTICIPE
+
+** Présent
+
+patientant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai patienté
+tu as patienté
+il (elle) a patienté
+nous avons patienté
+vous avez patienté
+ils (elles) ont patienté
+
+** Plus-que-parfait
+
+j'avais patienté
+tu avais patienté
+il (elle) avait patienté
+nous avions patienté
+vous aviez patienté
+ils (elles) avaient patienté
+
+** Passé antérieur
+
+j'eus patienté
+tu eus patienté
+il (elle) eut patienté
+nous eûmes patienté
+vous eûtes patienté
+ils (elles) eurent patienté
+
+** Futur antérieur
+
+j'aurai patienté
+tu auras patienté
+il (elle) aura patienté
+nous aurons patienté
+vous aurez patienté
+ils (elles) auront patienté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais patienté
+tu aurais patienté
+il (elle) aurait patienté
+nous aurions patienté
+vous auriez patienté
+ils (elles) auraient patienté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie patienté
+que tu aies patienté
+qu’il (elle) ait patienté
+que nous ayons patienté
+que vous ayez patienté
+qu’ils (elles) aient patienté
+
+** Plus-que-parfait
+
+que j'eusse patienté
+que tu eusses patienté
+qu’il (elle) eût patienté
+que nous eussions patienté
+que vous eussiez patienté
+qu’ils (elles) eussent patienté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons patienté
+ayez patienté
+
+* INFINITIF
+
+** Passé
+
+avoir patienté
+
+* PARTICIPE
+
+** Passé
+
+ayant patienté
+patienté (invar.)

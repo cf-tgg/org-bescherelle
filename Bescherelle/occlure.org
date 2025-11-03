@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe occlure
+
+* INDICATIF
+
+** Présent
+
+j'occlus
+tu occlus
+il (elle) occlut
+nous occluons
+vous occluez
+ils (elles) occluent
+
+** Imparfait
+
+j'occluais
+tu occluais
+il (elle) occluait
+nous occluions
+vous occluiez
+ils (elles) occluaient
+
+** Passé simple
+
+j'occlus
+tu occlus
+il (elle) occlut
+nous occlûmes
+vous occlûtes
+ils (elles) occlurent
+
+** Futur simple
+
+j'occlurai
+tu occluras
+il (elle) occlura
+nous occlurons
+vous occlurez
+ils (elles) occluront
+
+* CONDITIONNEL
+
+** Présent
+
+j'occlurais
+tu occlurais
+il (elle) occlurait
+nous occlurions
+vous occluriez
+ils (elles) occluraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'occlue
+que tu occlues
+qu’il (elle) occlue
+que nous occluions
+que vous occluiez
+qu’ils (elles) occluent
+
+** Imparfait
+
+que j'occlusse
+que tu occlusses
+qu’il (elle) occlût
+que nous occlussions
+que vous occlussiez
+qu’ils (elles) occlussent
+
+* IMPÉRATIF
+
+** Présent
+
+occlus
+occluons
+occluez
+
+* INFINITIF
+
+** Présent
+
+occlure
+
+* PARTICIPE
+
+** Présent
+
+occluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai occlus
+tu as occlus
+il (elle) a occlus
+nous avons occlus
+vous avez occlus
+ils (elles) ont occlus
+
+** Plus-que-parfait
+
+j'avais occlus
+tu avais occlus
+il (elle) avait occlus
+nous avions occlus
+vous aviez occlus
+ils (elles) avaient occlus
+
+** Passé antérieur
+
+j'eus occlus
+tu eus occlus
+il (elle) eut occlus
+nous eûmes occlus
+vous eûtes occlus
+ils (elles) eurent occlus
+
+** Futur antérieur
+
+j'aurai occlus
+tu auras occlus
+il (elle) aura occlus
+nous aurons occlus
+vous aurez occlus
+ils (elles) auront occlus
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais occlus
+tu aurais occlus
+il (elle) aurait occlus
+nous aurions occlus
+vous auriez occlus
+ils (elles) auraient occlus
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie occlus
+que tu aies occlus
+qu’il (elle) ait occlus
+que nous ayons occlus
+que vous ayez occlus
+qu’ils (elles) aient occlus
+
+** Plus-que-parfait
+
+que j'eusse occlus
+que tu eusses occlus
+qu’il (elle) eût occlus
+que nous eussions occlus
+que vous eussiez occlus
+qu’ils (elles) eussent occlus
+
+* IMPÉRATIF
+
+** Passé
+
+ayons occlus
+ayez occlus
+
+* INFINITIF
+
+** Passé
+
+avoir occlus
+
+* PARTICIPE
+
+** Passé
+
+ayant occlus
+occlus (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis occlus(e)
+tu es occlus(e)
+il (elle) est occlus(e)
+nous sommes occlus(es)
+vous êtes occlus(es)
+ils (elles) sont occlus(es)
+
+** Imparfait
+
+j'étais occlus(e)
+tu étais occlus(e)
+il (elle) était occlus(e)
+nous étions occlus(es)
+vous étiez occlus(es)
+ils (elles) étaient occlus(es)
+
+** Passé simple
+
+je fus occlus(e)
+tu fus occlus(e)
+il (elle) fut occlus(e)
+nous fûmes occlus(es)
+vous fûtes occlus(es)
+ils (elles) furent occlus(es)
+
+** Futur simple
+
+je serai occlus(e)
+tu seras occlus(e)
+il (elle) sera occlus(e)
+nous serons occlus(es)
+vous serez occlus(es)
+ils (elles) seront occlus(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais occlus(e)
+tu serais occlus(e)
+il (elle) serait occlus(e)
+nous serions occlus(es)
+vous seriez occlus(es)
+ils (elles) seraient occlus(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois occlus(e)
+que tu sois occlus(e)
+qu’il (elle) soit occlus(e)
+que nous soyons occlus(es)
+que vous soyez occlus(es)
+qu’ils (elles) soient occlus(es)
+
+** Imparfait
+
+que je fusse occlus(e)
+que tu fusses occlus(e)
+qu’il (elle) fût occlus(e)
+que nous fussions occlus(es)
+que vous fussiez occlus(es)
+qu’ils (elles) fussent occlus(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons occlus(es)
+soyez occlus(es)
+
+* INFINITIF
+
+** Présent
+
+être occlus (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant occlus (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été occlus(e)
+tu as été occlus(e)
+il (elle) a été occlus(e)
+nous avons été occlus(es)
+vous avez été occlus(es)
+ils (elles) ont été occlus(es)
+
+** Plus-que-parfait
+
+j'avais été occlus(e)
+il (elle) avait été occlus(e)
+nous avions été occlus(es)
+ils (elles) avaient été occlus(es)
+
+** Passé antérieur
+
+j'eus été occlus(e)
+tu eus été occlus(e)
+il (elle) eut été occlus(e)
+nous eûmes été occlus(es)
+vous eûtes été occlus(es)
+ils (elles) eurent été occlus(es)
+
+** Futur antérieur
+
+j'aurai été occlus(e)
+tu auras été occlus(e)
+il (elle) aura été occlus(e)
+nous aurons été occlus(es)
+vous aurez été occlus(es)
+ils (elles) auront été occlus(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été occlus(e)
+j'aurais été occlus(e)
+il (elle) aurait été occlus(e)
+nous aurions été occlus(es)
+vous auriez été occlus(es)
+ils (elles) auraient été occlus(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été occlus(e)
+que tu aies été occlus(e)
+qu’il (elle) ait été occlus(e)
+que nous ayons été occlus(es)
+que vous ayez été occlus(es)
+qu’ils (elles) aient été occlus(es)
+
+** Plus-que-parfait
+
+que j'eusse été occlus(e)
+que tu eusses été occlus(e)
+qu’il (elle) eût été occlus(e)
+que nous eussions été occlus(es)
+que vous eussiez été occlus(es)
+qu’ils (elles) eussent été occlus(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été occlus(e)
+ayons été occlus(es)
+ayez été occlus(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été occlus (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été occlus (s, se, s, ses)

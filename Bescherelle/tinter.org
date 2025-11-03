@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tinter
+
+* INDICATIF
+
+** Présent
+
+je tinte
+tu tintes
+il (elle) tinte
+nous tintons
+vous tintez
+ils (elles) tintent
+
+** Imparfait
+
+je tintais
+tu tintais
+il (elle) tintait
+nous tintions
+vous tintiez
+ils (elles) tintaient
+
+** Passé simple
+
+je tintai
+tu tintas
+il (elle) tinta
+nous tintâmes
+vous tintâtes
+ils (elles) tintèrent
+
+** Futur simple
+
+je tinterai
+tu tinteras
+il (elle) tintera
+nous tinterons
+vous tinterez
+ils (elles) tinteront
+
+* CONDITIONNEL
+
+** Présent
+
+je tinterais
+tu tinterais
+il (elle) tinterait
+nous tinterions
+vous tinteriez
+ils (elles) tinteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tinte
+que tu tintes
+qu’il (elle) tinte
+que nous tintions
+que vous tintiez
+qu’ils (elles) tintent
+
+** Imparfait
+
+que je tintasse
+que tu tintasses
+qu’il (elle) tintât
+que nous tintassions
+que vous tintassiez
+qu’ils (elles) tintassent
+
+* IMPÉRATIF
+
+** Présent
+
+tinte
+tintons
+tintez
+
+* INFINITIF
+
+** Présent
+
+tinter
+
+* PARTICIPE
+
+** Présent
+
+tintant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tinté
+tu as tinté
+il (elle) a tinté
+nous avons tinté
+vous avez tinté
+ils (elles) ont tinté
+
+** Plus-que-parfait
+
+j'avais tinté
+tu avais tinté
+il (elle) avait tinté
+nous avions tinté
+vous aviez tinté
+ils (elles) avaient tinté
+
+** Passé antérieur
+
+j'eus tinté
+tu eus tinté
+il (elle) eut tinté
+nous eûmes tinté
+vous eûtes tinté
+ils (elles) eurent tinté
+
+** Futur antérieur
+
+j'aurai tinté
+tu auras tinté
+il (elle) aura tinté
+nous aurons tinté
+vous aurez tinté
+ils (elles) auront tinté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tinté
+tu aurais tinté
+il (elle) aurait tinté
+nous aurions tinté
+vous auriez tinté
+ils (elles) auraient tinté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tinté
+que tu aies tinté
+qu’il (elle) ait tinté
+que nous ayons tinté
+que vous ayez tinté
+qu’ils (elles) aient tinté
+
+** Plus-que-parfait
+
+que j'eusse tinté
+que tu eusses tinté
+qu’il (elle) eût tinté
+que nous eussions tinté
+que vous eussiez tinté
+qu’ils (elles) eussent tinté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tinté
+ayez tinté
+
+* INFINITIF
+
+** Passé
+
+avoir tinté
+
+* PARTICIPE
+
+** Passé
+
+ayant tinté
+tinté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tinté(e)
+tu es tinté(e)
+il (elle) est tinté(e)
+nous sommes tinté(e)s
+vous êtes tinté(e)s
+ils (elles) sont tinté(e)s
+
+** Imparfait
+
+j'étais tinté(e)
+tu étais tinté(e)
+il (elle) était tinté(e)
+nous étions tinté(e)s
+vous étiez tinté(e)s
+ils (elles) étaient tinté(e)s
+
+** Passé simple
+
+je fus tinté(e)
+tu fus tinté(e)
+il (elle) fut tinté(e)
+nous fûmes tinté(e)s
+vous fûtes tinté(e)s
+ils (elles) furent tinté(e)s
+
+** Futur simple
+
+je serai tinté(e)
+tu seras tinté(e)
+il (elle) sera tinté(e)
+nous serons tinté(e)s
+vous serez tinté(e)s
+ils (elles) seront tinté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tinté(e)
+tu serais tinté(e)
+il (elle) serait tinté(e)
+nous serions tinté(e)s
+vous seriez tinté(e)s
+ils (elles) seraient tinté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tinté(e)
+que tu sois tinté(e)
+qu’il (elle) soit tinté(e)
+que nous soyons tinté(e)s
+que vous soyez tinté(e)s
+qu’ils (elles) soient tinté(e)s
+
+** Imparfait
+
+que je fusse tinté(e)
+que tu fusses tinté(e)
+qu’il (elle) fût tinté(e)
+que nous fussions tinté(e)s
+que vous fussiez tinté(e)s
+qu’ils (elles) fussent tinté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tinté(e)s
+soyez tinté(e)s
+
+* INFINITIF
+
+** Présent
+
+être tinté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tinté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tinté(e)
+tu as été tinté(e)
+il (elle) a été tinté(e)
+nous avons été tinté(e)s
+vous avez été tinté(e)s
+ils (elles) ont été tinté(e)s
+
+** Plus-que-parfait
+
+j'avais été tinté(e)
+il (elle) avait été tinté(e)
+nous avions été tinté(e)s
+ils (elles) avaient été tinté(e)s
+
+** Passé antérieur
+
+j'eus été tinté(e)
+tu eus été tinté(e)
+il (elle) eut été tinté(e)
+nous eûmes été tinté(e)s
+vous eûtes été tinté(e)s
+ils (elles) eurent été tinté(e)s
+
+** Futur antérieur
+
+j'aurai été tinté(e)
+tu auras été tinté(e)
+il (elle) aura été tinté(e)
+nous aurons été tinté(e)s
+vous aurez été tinté(e)s
+ils (elles) auront été tinté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tinté(e)
+j'aurais été tinté(e)
+il (elle) aurait été tinté(e)
+nous aurions été tinté(e)s
+vous auriez été tinté(e)s
+ils (elles) auraient été tinté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tinté(e)
+que tu aies été tinté(e)
+qu’il (elle) ait été tinté(e)
+que nous ayons été tinté(e)s
+que vous ayez été tinté(e)s
+qu’ils (elles) aient été tinté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tinté(e)
+que tu eusses été tinté(e)
+qu’il (elle) eût été tinté(e)
+que nous eussions été tinté(e)s
+que vous eussiez été tinté(e)s
+qu’ils (elles) eussent été tinté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tinté(e)
+ayons été tinté(e)s
+ayez été tinté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tinté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tinté(e)(s)

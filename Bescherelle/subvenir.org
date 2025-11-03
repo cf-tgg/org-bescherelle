@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe subvenir
+
+* INDICATIF
+
+** Présent
+
+je subviens
+tu subviens
+il (elle) subvient
+nous subvenons
+vous subvenez
+ils (elles) subviennent
+
+** Imparfait
+
+je subvenais
+tu subvenais
+il (elle) subvenait
+nous subvenions
+vous subveniez
+ils (elles) subvenaient
+
+** Passé simple
+
+je subvins
+tu subvins
+il (elle) subvint
+nous subvînmes
+vous subvîntes
+ils (elles) subvinrent
+
+** Futur simple
+
+je subviendrai
+tu subviendras
+il (elle) subviendra
+nous subviendrons
+vous subviendrez
+ils (elles) subviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je subviendrais
+tu subviendrais
+il (elle) subviendrait
+nous subviendrions
+vous subviendriez
+ils (elles) subviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je subvienne
+que tu subviennes
+qu’il (elle) subvienne
+que nous subvenions
+que vous subveniez
+qu’ils (elles) subviennent
+
+** Imparfait
+
+que je subvinsse
+que tu subvinsses
+qu’il (elle) subvînt
+que nous subvinssions
+que vous subvinssiez
+qu’ils (elles) subvinssent
+
+* IMPÉRATIF
+
+** Présent
+
+subviens
+subvenons
+subvenez
+
+* INFINITIF
+
+** Présent
+
+subvenir
+
+* PARTICIPE
+
+** Présent
+
+subvenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai subvenu
+tu as subvenu
+il (elle) a subvenu
+nous avons subvenu
+vous avez subvenu
+ils (elles) ont subvenu
+
+** Plus-que-parfait
+
+j'avais subvenu
+tu avais subvenu
+il (elle) avait subvenu
+nous avions subvenu
+vous aviez subvenu
+ils (elles) avaient subvenu
+
+** Passé antérieur
+
+j'eus subvenu
+tu eus subvenu
+il (elle) eut subvenu
+nous eûmes subvenu
+vous eûtes subvenu
+ils (elles) eurent subvenu
+
+** Futur antérieur
+
+j'aurai subvenu
+tu auras subvenu
+il (elle) aura subvenu
+nous aurons subvenu
+vous aurez subvenu
+ils (elles) auront subvenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais subvenu
+tu aurais subvenu
+il (elle) aurait subvenu
+nous aurions subvenu
+vous auriez subvenu
+ils (elles) auraient subvenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie subvenu
+que tu aies subvenu
+qu’il (elle) ait subvenu
+que nous ayons subvenu
+que vous ayez subvenu
+qu’ils (elles) aient subvenu
+
+** Plus-que-parfait
+
+que j'eusse subvenu
+que tu eusses subvenu
+qu’il (elle) eût subvenu
+que nous eussions subvenu
+que vous eussiez subvenu
+qu’ils (elles) eussent subvenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons subvenu
+ayez subvenu
+
+* INFINITIF
+
+** Passé
+
+avoir subvenu
+
+* PARTICIPE
+
+** Passé
+
+ayant subvenu
+subvenu (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recevoir
+
+* INDICATIF
+
+** Présent
+
+je reçois
+tu reçois
+il (elle) reçoit
+nous recevons
+vous recevez
+ils (elles) reçoivent
+
+** Imparfait
+
+je recevais
+tu recevais
+il (elle) recevait
+nous recevions
+vous receviez
+ils (elles) recevaient
+
+** Passé simple
+
+je reçus
+tu reçus
+il (elle) reçut
+nous reçûmes
+vous reçûtes
+ils (elles) reçurent
+
+** Futur simple
+
+je recevrai
+tu recevras
+il (elle) recevra
+nous recevrons
+vous recevrez
+ils (elles) recevront
+
+* CONDITIONNEL
+
+** Présent
+
+je recevrais
+tu recevrais
+il (elle) recevrait
+nous recevrions
+vous recevriez
+ils (elles) recevraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reçoive
+que tu reçoives
+qu’il (elle) reçoive
+que nous recevions
+que vous receviez
+qu’ils (elles) reçoivent
+
+** Imparfait
+
+que je reçusse
+que tu reçusses
+qu’il (elle) reçût
+que nous reçussions
+que vous reçussiez
+qu’ils (elles) reçussent
+
+* IMPÉRATIF
+
+** Présent
+
+reçois
+recevons
+recevez
+
+* INFINITIF
+
+** Présent
+
+recevoir
+
+* PARTICIPE
+
+** Présent
+
+recevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reçu
+tu as reçu
+il (elle) a reçu
+nous avons reçu
+vous avez reçu
+ils (elles) ont reçu
+
+** Plus-que-parfait
+
+j'avais reçu
+tu avais reçu
+il (elle) avait reçu
+nous avions reçu
+vous aviez reçu
+ils (elles) avaient reçu
+
+** Passé antérieur
+
+j'eus reçu
+tu eus reçu
+il (elle) eut reçu
+nous eûmes reçu
+vous eûtes reçu
+ils (elles) eurent reçu
+
+** Futur antérieur
+
+j'aurai reçu
+tu auras reçu
+il (elle) aura reçu
+nous aurons reçu
+vous aurez reçu
+ils (elles) auront reçu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reçu
+tu aurais reçu
+il (elle) aurait reçu
+nous aurions reçu
+vous auriez reçu
+ils (elles) auraient reçu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reçu
+que tu aies reçu
+qu’il (elle) ait reçu
+que nous ayons reçu
+que vous ayez reçu
+qu’ils (elles) aient reçu
+
+** Plus-que-parfait
+
+que j'eusse reçu
+que tu eusses reçu
+qu’il (elle) eût reçu
+que nous eussions reçu
+que vous eussiez reçu
+qu’ils (elles) eussent reçu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reçu
+ayez reçu
+
+* INFINITIF
+
+** Passé
+
+avoir reçu
+
+* PARTICIPE
+
+** Passé
+
+ayant reçu
+reçu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis reçu(e)
+tu es reçu(e)
+il (elle) est reçu(e)
+nous sommes reçu(e)s
+vous êtes reçu(e)s
+ils (elles) sont reçu(e)s
+
+** Imparfait
+
+j'étais reçu(e)
+tu étais reçu(e)
+il (elle) était reçu(e)
+nous étions reçu(e)s
+vous étiez reçu(e)s
+ils (elles) étaient reçu(e)s
+
+** Passé simple
+
+je fus reçu(e)
+tu fus reçu(e)
+il (elle) fut reçu(e)
+nous fûmes reçu(e)s
+vous fûtes reçu(e)s
+ils (elles) furent reçu(e)s
+
+** Futur simple
+
+je serai reçu(e)
+tu seras reçu(e)
+il (elle) sera reçu(e)
+nous serons reçu(e)s
+vous serez reçu(e)s
+ils (elles) seront reçu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reçu(e)
+tu serais reçu(e)
+il (elle) serait reçu(e)
+nous serions reçu(e)s
+vous seriez reçu(e)s
+ils (elles) seraient reçu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reçu(e)
+que tu sois reçu(e)
+qu’il (elle) soit reçu(e)
+que nous soyons reçu(e)s
+que vous soyez reçu(e)s
+qu’ils (elles) soient reçu(e)s
+
+** Imparfait
+
+que je fusse reçu(e)
+que tu fusses reçu(e)
+qu’il (elle) fût reçu(e)
+que nous fussions reçu(e)s
+que vous fussiez reçu(e)s
+qu’ils (elles) fussent reçu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reçu(e)s
+soyez reçu(e)s
+
+* INFINITIF
+
+** Présent
+
+être reçu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reçu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reçu(e)
+tu as été reçu(e)
+il (elle) a été reçu(e)
+nous avons été reçu(e)s
+vous avez été reçu(e)s
+ils (elles) ont été reçu(e)s
+
+** Plus-que-parfait
+
+j'avais été reçu(e)
+il (elle) avait été reçu(e)
+nous avions été reçu(e)s
+ils (elles) avaient été reçu(e)s
+
+** Passé antérieur
+
+j'eus été reçu(e)
+tu eus été reçu(e)
+il (elle) eut été reçu(e)
+nous eûmes été reçu(e)s
+vous eûtes été reçu(e)s
+ils (elles) eurent été reçu(e)s
+
+** Futur antérieur
+
+j'aurai été reçu(e)
+tu auras été reçu(e)
+il (elle) aura été reçu(e)
+nous aurons été reçu(e)s
+vous aurez été reçu(e)s
+ils (elles) auront été reçu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reçu(e)
+j'aurais été reçu(e)
+il (elle) aurait été reçu(e)
+nous aurions été reçu(e)s
+vous auriez été reçu(e)s
+ils (elles) auraient été reçu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reçu(e)
+que tu aies été reçu(e)
+qu’il (elle) ait été reçu(e)
+que nous ayons été reçu(e)s
+que vous ayez été reçu(e)s
+qu’ils (elles) aient été reçu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reçu(e)
+que tu eusses été reçu(e)
+qu’il (elle) eût été reçu(e)
+que nous eussions été reçu(e)s
+que vous eussiez été reçu(e)s
+qu’ils (elles) eussent été reçu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reçu(e)
+ayons été reçu(e)s
+ayez été reçu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reçu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reçu(e)(s)

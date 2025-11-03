@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe craindre
+
+* INDICATIF
+
+** Présent
+
+je crains
+tu crains
+il (elle) craint
+nous craignons
+vous craignez
+ils (elles) craignent
+
+** Imparfait
+
+je craignais
+tu craignais
+il (elle) craignait
+nous craignions
+vous craigniez
+ils (elles) craignaient
+
+** Passé simple
+
+je craignis
+tu craignis
+il (elle) craignit
+nous craignîmes
+vous craignîtes
+ils (elles) craignirent
+
+** Futur simple
+
+je craindrai
+tu craindras
+il (elle) craindra
+nous craindrons
+vous craindrez
+ils (elles) craindront
+
+* CONDITIONNEL
+
+** Présent
+
+je craindrais
+tu craindrais
+il (elle) craindrait
+nous craindrions
+vous craindriez
+ils (elles) craindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je craigne
+que tu craignes
+qu’il (elle) craigne
+que nous craignions
+que vous craigniez
+qu’ils (elles) craignent
+
+** Imparfait
+
+que je craignisse
+que tu craignisses
+qu’il (elle) craignît
+que nous craignissions
+que vous craignissiez
+qu’ils (elles) craignissent
+
+* IMPÉRATIF
+
+** Présent
+
+crains
+craignons
+craignez
+
+* INFINITIF
+
+** Présent
+
+craindre
+
+* PARTICIPE
+
+** Présent
+
+craignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai craint
+tu as craint
+il (elle) a craint
+nous avons craint
+vous avez craint
+ils (elles) ont craint
+
+** Plus-que-parfait
+
+j'avais craint
+tu avais craint
+il (elle) avait craint
+nous avions craint
+vous aviez craint
+ils (elles) avaient craint
+
+** Passé antérieur
+
+j'eus craint
+tu eus craint
+il (elle) eut craint
+nous eûmes craint
+vous eûtes craint
+ils (elles) eurent craint
+
+** Futur antérieur
+
+j'aurai craint
+tu auras craint
+il (elle) aura craint
+nous aurons craint
+vous aurez craint
+ils (elles) auront craint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais craint
+tu aurais craint
+il (elle) aurait craint
+nous aurions craint
+vous auriez craint
+ils (elles) auraient craint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie craint
+que tu aies craint
+qu’il (elle) ait craint
+que nous ayons craint
+que vous ayez craint
+qu’ils (elles) aient craint
+
+** Plus-que-parfait
+
+que j'eusse craint
+que tu eusses craint
+qu’il (elle) eût craint
+que nous eussions craint
+que vous eussiez craint
+qu’ils (elles) eussent craint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons craint
+ayez craint
+
+* INFINITIF
+
+** Passé
+
+avoir craint
+
+* PARTICIPE
+
+** Passé
+
+ayant craint
+craint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis craint(e)
+tu es craint(e)
+il (elle) est craint(e)
+nous sommes craint(e)s
+vous êtes craint(e)s
+ils (elles) sont craint(e)s
+
+** Imparfait
+
+j'étais craint(e)
+tu étais craint(e)
+il (elle) était craint(e)
+nous étions craint(e)s
+vous étiez craint(e)s
+ils (elles) étaient craint(e)s
+
+** Passé simple
+
+je fus craint(e)
+tu fus craint(e)
+il (elle) fut craint(e)
+nous fûmes craint(e)s
+vous fûtes craint(e)s
+ils (elles) furent craint(e)s
+
+** Futur simple
+
+je serai craint(e)
+tu seras craint(e)
+il (elle) sera craint(e)
+nous serons craint(e)s
+vous serez craint(e)s
+ils (elles) seront craint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais craint(e)
+tu serais craint(e)
+il (elle) serait craint(e)
+nous serions craint(e)s
+vous seriez craint(e)s
+ils (elles) seraient craint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois craint(e)
+que tu sois craint(e)
+qu’il (elle) soit craint(e)
+que nous soyons craint(e)s
+que vous soyez craint(e)s
+qu’ils (elles) soient craint(e)s
+
+** Imparfait
+
+que je fusse craint(e)
+que tu fusses craint(e)
+qu’il (elle) fût craint(e)
+que nous fussions craint(e)s
+que vous fussiez craint(e)s
+qu’ils (elles) fussent craint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons craint(e)s
+soyez craint(e)s
+
+* INFINITIF
+
+** Présent
+
+être craint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant craint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été craint(e)
+tu as été craint(e)
+il (elle) a été craint(e)
+nous avons été craint(e)s
+vous avez été craint(e)s
+ils (elles) ont été craint(e)s
+
+** Plus-que-parfait
+
+j'avais été craint(e)
+il (elle) avait été craint(e)
+nous avions été craint(e)s
+ils (elles) avaient été craint(e)s
+
+** Passé antérieur
+
+j'eus été craint(e)
+tu eus été craint(e)
+il (elle) eut été craint(e)
+nous eûmes été craint(e)s
+vous eûtes été craint(e)s
+ils (elles) eurent été craint(e)s
+
+** Futur antérieur
+
+j'aurai été craint(e)
+tu auras été craint(e)
+il (elle) aura été craint(e)
+nous aurons été craint(e)s
+vous aurez été craint(e)s
+ils (elles) auront été craint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été craint(e)
+j'aurais été craint(e)
+il (elle) aurait été craint(e)
+nous aurions été craint(e)s
+vous auriez été craint(e)s
+ils (elles) auraient été craint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été craint(e)
+que tu aies été craint(e)
+qu’il (elle) ait été craint(e)
+que nous ayons été craint(e)s
+que vous ayez été craint(e)s
+qu’ils (elles) aient été craint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été craint(e)
+que tu eusses été craint(e)
+qu’il (elle) eût été craint(e)
+que nous eussions été craint(e)s
+que vous eussiez été craint(e)s
+qu’ils (elles) eussent été craint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été craint(e)
+ayons été craint(e)s
+ayez été craint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été craint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été craint(e)(s)

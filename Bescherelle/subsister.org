@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe subsister
+
+* INDICATIF
+
+** Présent
+
+je subsiste
+tu subsistes
+il (elle) subsiste
+nous subsistons
+vous subsistez
+ils (elles) subsistent
+
+** Imparfait
+
+je subsistais
+tu subsistais
+il (elle) subsistait
+nous subsistions
+vous subsistiez
+ils (elles) subsistaient
+
+** Passé simple
+
+je subsistai
+tu subsistas
+il (elle) subsista
+nous subsistâmes
+vous subsistâtes
+ils (elles) subsistèrent
+
+** Futur simple
+
+je subsisterai
+tu subsisteras
+il (elle) subsistera
+nous subsisterons
+vous subsisterez
+ils (elles) subsisteront
+
+* CONDITIONNEL
+
+** Présent
+
+je subsisterais
+tu subsisterais
+il (elle) subsisterait
+nous subsisterions
+vous subsisteriez
+ils (elles) subsisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je subsiste
+que tu subsistes
+qu’il (elle) subsiste
+que nous subsistions
+que vous subsistiez
+qu’ils (elles) subsistent
+
+** Imparfait
+
+que je subsistasse
+que tu subsistasses
+qu’il (elle) subsistât
+que nous subsistassions
+que vous subsistassiez
+qu’ils (elles) subsistassent
+
+* IMPÉRATIF
+
+** Présent
+
+subsiste
+subsistons
+subsistez
+
+* INFINITIF
+
+** Présent
+
+subsister
+
+* PARTICIPE
+
+** Présent
+
+subsistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai subsisté
+tu as subsisté
+il (elle) a subsisté
+nous avons subsisté
+vous avez subsisté
+ils (elles) ont subsisté
+
+** Plus-que-parfait
+
+j'avais subsisté
+tu avais subsisté
+il (elle) avait subsisté
+nous avions subsisté
+vous aviez subsisté
+ils (elles) avaient subsisté
+
+** Passé antérieur
+
+j'eus subsisté
+tu eus subsisté
+il (elle) eut subsisté
+nous eûmes subsisté
+vous eûtes subsisté
+ils (elles) eurent subsisté
+
+** Futur antérieur
+
+j'aurai subsisté
+tu auras subsisté
+il (elle) aura subsisté
+nous aurons subsisté
+vous aurez subsisté
+ils (elles) auront subsisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais subsisté
+tu aurais subsisté
+il (elle) aurait subsisté
+nous aurions subsisté
+vous auriez subsisté
+ils (elles) auraient subsisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie subsisté
+que tu aies subsisté
+qu’il (elle) ait subsisté
+que nous ayons subsisté
+que vous ayez subsisté
+qu’ils (elles) aient subsisté
+
+** Plus-que-parfait
+
+que j'eusse subsisté
+que tu eusses subsisté
+qu’il (elle) eût subsisté
+que nous eussions subsisté
+que vous eussiez subsisté
+qu’ils (elles) eussent subsisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons subsisté
+ayez subsisté
+
+* INFINITIF
+
+** Passé
+
+avoir subsisté
+
+* PARTICIPE
+
+** Passé
+
+ayant subsisté
+subsisté (invar.)

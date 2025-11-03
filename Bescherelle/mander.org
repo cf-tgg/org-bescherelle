@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mander
+
+* INDICATIF
+
+** Présent
+
+je mande
+tu mandes
+il (elle) mande
+nous mandons
+vous mandez
+ils (elles) mandent
+
+** Imparfait
+
+je mandais
+tu mandais
+il (elle) mandait
+nous mandions
+vous mandiez
+ils (elles) mandaient
+
+** Passé simple
+
+je mandai
+tu mandas
+il (elle) manda
+nous mandâmes
+vous mandâtes
+ils (elles) mandèrent
+
+** Futur simple
+
+je manderai
+tu manderas
+il (elle) mandera
+nous manderons
+vous manderez
+ils (elles) manderont
+
+* CONDITIONNEL
+
+** Présent
+
+je manderais
+tu manderais
+il (elle) manderait
+nous manderions
+vous manderiez
+ils (elles) manderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mande
+que tu mandes
+qu’il (elle) mande
+que nous mandions
+que vous mandiez
+qu’ils (elles) mandent
+
+** Imparfait
+
+que je mandasse
+que tu mandasses
+qu’il (elle) mandât
+que nous mandassions
+que vous mandassiez
+qu’ils (elles) mandassent
+
+* IMPÉRATIF
+
+** Présent
+
+mande
+mandons
+mandez
+
+* INFINITIF
+
+** Présent
+
+mander
+
+* PARTICIPE
+
+** Présent
+
+mandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mandé
+tu as mandé
+il (elle) a mandé
+nous avons mandé
+vous avez mandé
+ils (elles) ont mandé
+
+** Plus-que-parfait
+
+j'avais mandé
+tu avais mandé
+il (elle) avait mandé
+nous avions mandé
+vous aviez mandé
+ils (elles) avaient mandé
+
+** Passé antérieur
+
+j'eus mandé
+tu eus mandé
+il (elle) eut mandé
+nous eûmes mandé
+vous eûtes mandé
+ils (elles) eurent mandé
+
+** Futur antérieur
+
+j'aurai mandé
+tu auras mandé
+il (elle) aura mandé
+nous aurons mandé
+vous aurez mandé
+ils (elles) auront mandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mandé
+tu aurais mandé
+il (elle) aurait mandé
+nous aurions mandé
+vous auriez mandé
+ils (elles) auraient mandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mandé
+que tu aies mandé
+qu’il (elle) ait mandé
+que nous ayons mandé
+que vous ayez mandé
+qu’ils (elles) aient mandé
+
+** Plus-que-parfait
+
+que j'eusse mandé
+que tu eusses mandé
+qu’il (elle) eût mandé
+que nous eussions mandé
+que vous eussiez mandé
+qu’ils (elles) eussent mandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mandé
+ayez mandé
+
+* INFINITIF
+
+** Passé
+
+avoir mandé
+
+* PARTICIPE
+
+** Passé
+
+ayant mandé
+mandé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mandé(e)
+tu es mandé(e)
+il (elle) est mandé(e)
+nous sommes mandé(e)s
+vous êtes mandé(e)s
+ils (elles) sont mandé(e)s
+
+** Imparfait
+
+j'étais mandé(e)
+tu étais mandé(e)
+il (elle) était mandé(e)
+nous étions mandé(e)s
+vous étiez mandé(e)s
+ils (elles) étaient mandé(e)s
+
+** Passé simple
+
+je fus mandé(e)
+tu fus mandé(e)
+il (elle) fut mandé(e)
+nous fûmes mandé(e)s
+vous fûtes mandé(e)s
+ils (elles) furent mandé(e)s
+
+** Futur simple
+
+je serai mandé(e)
+tu seras mandé(e)
+il (elle) sera mandé(e)
+nous serons mandé(e)s
+vous serez mandé(e)s
+ils (elles) seront mandé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mandé(e)
+tu serais mandé(e)
+il (elle) serait mandé(e)
+nous serions mandé(e)s
+vous seriez mandé(e)s
+ils (elles) seraient mandé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mandé(e)
+que tu sois mandé(e)
+qu’il (elle) soit mandé(e)
+que nous soyons mandé(e)s
+que vous soyez mandé(e)s
+qu’ils (elles) soient mandé(e)s
+
+** Imparfait
+
+que je fusse mandé(e)
+que tu fusses mandé(e)
+qu’il (elle) fût mandé(e)
+que nous fussions mandé(e)s
+que vous fussiez mandé(e)s
+qu’ils (elles) fussent mandé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mandé(e)s
+soyez mandé(e)s
+
+* INFINITIF
+
+** Présent
+
+être mandé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mandé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mandé(e)
+tu as été mandé(e)
+il (elle) a été mandé(e)
+nous avons été mandé(e)s
+vous avez été mandé(e)s
+ils (elles) ont été mandé(e)s
+
+** Plus-que-parfait
+
+j'avais été mandé(e)
+il (elle) avait été mandé(e)
+nous avions été mandé(e)s
+ils (elles) avaient été mandé(e)s
+
+** Passé antérieur
+
+j'eus été mandé(e)
+tu eus été mandé(e)
+il (elle) eut été mandé(e)
+nous eûmes été mandé(e)s
+vous eûtes été mandé(e)s
+ils (elles) eurent été mandé(e)s
+
+** Futur antérieur
+
+j'aurai été mandé(e)
+tu auras été mandé(e)
+il (elle) aura été mandé(e)
+nous aurons été mandé(e)s
+vous aurez été mandé(e)s
+ils (elles) auront été mandé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mandé(e)
+j'aurais été mandé(e)
+il (elle) aurait été mandé(e)
+nous aurions été mandé(e)s
+vous auriez été mandé(e)s
+ils (elles) auraient été mandé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mandé(e)
+que tu aies été mandé(e)
+qu’il (elle) ait été mandé(e)
+que nous ayons été mandé(e)s
+que vous ayez été mandé(e)s
+qu’ils (elles) aient été mandé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mandé(e)
+que tu eusses été mandé(e)
+qu’il (elle) eût été mandé(e)
+que nous eussions été mandé(e)s
+que vous eussiez été mandé(e)s
+qu’ils (elles) eussent été mandé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mandé(e)
+ayons été mandé(e)s
+ayez été mandé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mandé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mandé(e)(s)

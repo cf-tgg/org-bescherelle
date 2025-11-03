@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe celer
+
+* INDICATIF
+
+** Présent
+
+je cèle
+tu cèles
+il (elle) cèle
+nous celons
+vous celez
+ils (elles) cèlent
+
+** Imparfait
+
+je celais
+tu celais
+il (elle) celait
+nous celions
+vous celiez
+ils (elles) celaient
+
+** Passé simple
+
+je celai
+tu celas
+il (elle) cela
+nous celâmes
+vous celâtes
+ils (elles) celèrent
+
+** Futur simple
+
+je cèlerai
+tu cèleras
+il (elle) cèlera
+nous cèlerons
+vous cèlerez
+ils (elles) cèleront
+
+* CONDITIONNEL
+
+** Présent
+
+je cèlerais
+tu cèlerais
+il (elle) cèlerait
+nous cèlerions
+vous cèleriez
+ils (elles) cèleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cèle
+que tu cèles
+qu’il (elle) cèle
+que nous celions
+que vous celiez
+qu’ils (elles) cèlent
+
+** Imparfait
+
+que je celasse
+que tu celasses
+qu’il (elle) celât
+que nous celassions
+que vous celassiez
+qu’ils (elles) celassent
+
+* IMPÉRATIF
+
+** Présent
+
+cèle
+celons
+celez
+
+* INFINITIF
+
+** Présent
+
+celer
+
+* PARTICIPE
+
+** Présent
+
+celant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai celé
+tu as celé
+il (elle) a celé
+nous avons celé
+vous avez celé
+ils (elles) ont celé
+
+** Plus-que-parfait
+
+j'avais celé
+tu avais celé
+il (elle) avait celé
+nous avions celé
+vous aviez celé
+ils (elles) avaient celé
+
+** Passé antérieur
+
+j'eus celé
+tu eus celé
+il (elle) eut celé
+nous eûmes celé
+vous eûtes celé
+ils (elles) eurent celé
+
+** Futur antérieur
+
+j'aurai celé
+tu auras celé
+il (elle) aura celé
+nous aurons celé
+vous aurez celé
+ils (elles) auront celé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais celé
+tu aurais celé
+il (elle) aurait celé
+nous aurions celé
+vous auriez celé
+ils (elles) auraient celé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie celé
+que tu aies celé
+qu’il (elle) ait celé
+que nous ayons celé
+que vous ayez celé
+qu’ils (elles) aient celé
+
+** Plus-que-parfait
+
+que j'eusse celé
+que tu eusses celé
+qu’il (elle) eût celé
+que nous eussions celé
+que vous eussiez celé
+qu’ils (elles) eussent celé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons celé
+ayez celé
+
+* INFINITIF
+
+** Passé
+
+avoir celé
+
+* PARTICIPE
+
+** Passé
+
+ayant celé
+celé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis celé(e)
+tu es celé(e)
+il (elle) est celé(e)
+nous sommes celé(e)s
+vous êtes celé(e)s
+ils (elles) sont celé(e)s
+
+** Imparfait
+
+j'étais celé(e)
+tu étais celé(e)
+il (elle) était celé(e)
+nous étions celé(e)s
+vous étiez celé(e)s
+ils (elles) étaient celé(e)s
+
+** Passé simple
+
+je fus celé(e)
+tu fus celé(e)
+il (elle) fut celé(e)
+nous fûmes celé(e)s
+vous fûtes celé(e)s
+ils (elles) furent celé(e)s
+
+** Futur simple
+
+je serai celé(e)
+tu seras celé(e)
+il (elle) sera celé(e)
+nous serons celé(e)s
+vous serez celé(e)s
+ils (elles) seront celé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais celé(e)
+tu serais celé(e)
+il (elle) serait celé(e)
+nous serions celé(e)s
+vous seriez celé(e)s
+ils (elles) seraient celé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois celé(e)
+que tu sois celé(e)
+qu’il (elle) soit celé(e)
+que nous soyons celé(e)s
+que vous soyez celé(e)s
+qu’ils (elles) soient celé(e)s
+
+** Imparfait
+
+que je fusse celé(e)
+que tu fusses celé(e)
+qu’il (elle) fût celé(e)
+que nous fussions celé(e)s
+que vous fussiez celé(e)s
+qu’ils (elles) fussent celé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons celé(e)s
+soyez celé(e)s
+
+* INFINITIF
+
+** Présent
+
+être celé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant celé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été celé(e)
+tu as été celé(e)
+il (elle) a été celé(e)
+nous avons été celé(e)s
+vous avez été celé(e)s
+ils (elles) ont été celé(e)s
+
+** Plus-que-parfait
+
+j'avais été celé(e)
+il (elle) avait été celé(e)
+nous avions été celé(e)s
+ils (elles) avaient été celé(e)s
+
+** Passé antérieur
+
+j'eus été celé(e)
+tu eus été celé(e)
+il (elle) eut été celé(e)
+nous eûmes été celé(e)s
+vous eûtes été celé(e)s
+ils (elles) eurent été celé(e)s
+
+** Futur antérieur
+
+j'aurai été celé(e)
+tu auras été celé(e)
+il (elle) aura été celé(e)
+nous aurons été celé(e)s
+vous aurez été celé(e)s
+ils (elles) auront été celé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été celé(e)
+j'aurais été celé(e)
+il (elle) aurait été celé(e)
+nous aurions été celé(e)s
+vous auriez été celé(e)s
+ils (elles) auraient été celé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été celé(e)
+que tu aies été celé(e)
+qu’il (elle) ait été celé(e)
+que nous ayons été celé(e)s
+que vous ayez été celé(e)s
+qu’ils (elles) aient été celé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été celé(e)
+que tu eusses été celé(e)
+qu’il (elle) eût été celé(e)
+que nous eussions été celé(e)s
+que vous eussiez été celé(e)s
+qu’ils (elles) eussent été celé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été celé(e)
+ayons été celé(e)s
+ayez été celé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été celé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été celé(e)(s)

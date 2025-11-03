@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe trouver
+
+* INDICATIF
+
+** Présent
+
+je trouve
+tu trouves
+il (elle) trouve
+nous trouvons
+vous trouvez
+ils (elles) trouvent
+
+** Imparfait
+
+je trouvais
+tu trouvais
+il (elle) trouvait
+nous trouvions
+vous trouviez
+ils (elles) trouvaient
+
+** Passé simple
+
+je trouvai
+tu trouvas
+il (elle) trouva
+nous trouvâmes
+vous trouvâtes
+ils (elles) trouvèrent
+
+** Futur simple
+
+je trouverai
+tu trouveras
+il (elle) trouvera
+nous trouverons
+vous trouverez
+ils (elles) trouveront
+
+* CONDITIONNEL
+
+** Présent
+
+je trouverais
+tu trouverais
+il (elle) trouverait
+nous trouverions
+vous trouveriez
+ils (elles) trouveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trouve
+que tu trouves
+qu’il (elle) trouve
+que nous trouvions
+que vous trouviez
+qu’ils (elles) trouvent
+
+** Imparfait
+
+que je trouvasse
+que tu trouvasses
+qu’il (elle) trouvât
+que nous trouvassions
+que vous trouvassiez
+qu’ils (elles) trouvassent
+
+* IMPÉRATIF
+
+** Présent
+
+trouve
+trouvons
+trouvez
+
+* INFINITIF
+
+** Présent
+
+trouver
+
+* PARTICIPE
+
+** Présent
+
+trouvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trouvé
+tu as trouvé
+il (elle) a trouvé
+nous avons trouvé
+vous avez trouvé
+ils (elles) ont trouvé
+
+** Plus-que-parfait
+
+j'avais trouvé
+tu avais trouvé
+il (elle) avait trouvé
+nous avions trouvé
+vous aviez trouvé
+ils (elles) avaient trouvé
+
+** Passé antérieur
+
+j'eus trouvé
+tu eus trouvé
+il (elle) eut trouvé
+nous eûmes trouvé
+vous eûtes trouvé
+ils (elles) eurent trouvé
+
+** Futur antérieur
+
+j'aurai trouvé
+tu auras trouvé
+il (elle) aura trouvé
+nous aurons trouvé
+vous aurez trouvé
+ils (elles) auront trouvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trouvé
+tu aurais trouvé
+il (elle) aurait trouvé
+nous aurions trouvé
+vous auriez trouvé
+ils (elles) auraient trouvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trouvé
+que tu aies trouvé
+qu’il (elle) ait trouvé
+que nous ayons trouvé
+que vous ayez trouvé
+qu’ils (elles) aient trouvé
+
+** Plus-que-parfait
+
+que j'eusse trouvé
+que tu eusses trouvé
+qu’il (elle) eût trouvé
+que nous eussions trouvé
+que vous eussiez trouvé
+qu’ils (elles) eussent trouvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trouvé
+ayez trouvé
+
+* INFINITIF
+
+** Passé
+
+avoir trouvé
+
+* PARTICIPE
+
+** Passé
+
+ayant trouvé
+trouvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis trouvé(e)
+tu es trouvé(e)
+il (elle) est trouvé(e)
+nous sommes trouvé(e)s
+vous êtes trouvé(e)s
+ils (elles) sont trouvé(e)s
+
+** Imparfait
+
+j'étais trouvé(e)
+tu étais trouvé(e)
+il (elle) était trouvé(e)
+nous étions trouvé(e)s
+vous étiez trouvé(e)s
+ils (elles) étaient trouvé(e)s
+
+** Passé simple
+
+je fus trouvé(e)
+tu fus trouvé(e)
+il (elle) fut trouvé(e)
+nous fûmes trouvé(e)s
+vous fûtes trouvé(e)s
+ils (elles) furent trouvé(e)s
+
+** Futur simple
+
+je serai trouvé(e)
+tu seras trouvé(e)
+il (elle) sera trouvé(e)
+nous serons trouvé(e)s
+vous serez trouvé(e)s
+ils (elles) seront trouvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trouvé(e)
+tu serais trouvé(e)
+il (elle) serait trouvé(e)
+nous serions trouvé(e)s
+vous seriez trouvé(e)s
+ils (elles) seraient trouvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trouvé(e)
+que tu sois trouvé(e)
+qu’il (elle) soit trouvé(e)
+que nous soyons trouvé(e)s
+que vous soyez trouvé(e)s
+qu’ils (elles) soient trouvé(e)s
+
+** Imparfait
+
+que je fusse trouvé(e)
+que tu fusses trouvé(e)
+qu’il (elle) fût trouvé(e)
+que nous fussions trouvé(e)s
+que vous fussiez trouvé(e)s
+qu’ils (elles) fussent trouvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trouvé(e)s
+soyez trouvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être trouvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trouvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trouvé(e)
+tu as été trouvé(e)
+il (elle) a été trouvé(e)
+nous avons été trouvé(e)s
+vous avez été trouvé(e)s
+ils (elles) ont été trouvé(e)s
+
+** Plus-que-parfait
+
+j'avais été trouvé(e)
+il (elle) avait été trouvé(e)
+nous avions été trouvé(e)s
+ils (elles) avaient été trouvé(e)s
+
+** Passé antérieur
+
+j'eus été trouvé(e)
+tu eus été trouvé(e)
+il (elle) eut été trouvé(e)
+nous eûmes été trouvé(e)s
+vous eûtes été trouvé(e)s
+ils (elles) eurent été trouvé(e)s
+
+** Futur antérieur
+
+j'aurai été trouvé(e)
+tu auras été trouvé(e)
+il (elle) aura été trouvé(e)
+nous aurons été trouvé(e)s
+vous aurez été trouvé(e)s
+ils (elles) auront été trouvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trouvé(e)
+j'aurais été trouvé(e)
+il (elle) aurait été trouvé(e)
+nous aurions été trouvé(e)s
+vous auriez été trouvé(e)s
+ils (elles) auraient été trouvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trouvé(e)
+que tu aies été trouvé(e)
+qu’il (elle) ait été trouvé(e)
+que nous ayons été trouvé(e)s
+que vous ayez été trouvé(e)s
+qu’ils (elles) aient été trouvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trouvé(e)
+que tu eusses été trouvé(e)
+qu’il (elle) eût été trouvé(e)
+que nous eussions été trouvé(e)s
+que vous eussiez été trouvé(e)s
+qu’ils (elles) eussent été trouvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trouvé(e)
+ayons été trouvé(e)s
+ayez été trouvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trouvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trouvé(e)(s)

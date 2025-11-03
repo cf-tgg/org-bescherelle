@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe evoquer
+
+* INDICATIF
+
+** Présent
+
+j'évoque
+tu évoques
+il (elle) évoque
+nous évoquons
+vous évoquez
+ils (elles) évoquent
+
+** Imparfait
+
+j'évoquais
+tu évoquais
+il (elle) évoquait
+nous évoquions
+vous évoquiez
+ils (elles) évoquaient
+
+** Passé simple
+
+j'évoquai
+tu évoquas
+il (elle) évoqua
+nous évoquâmes
+vous évoquâtes
+ils (elles) évoquèrent
+
+** Futur simple
+
+j'évoquerai
+tu évoqueras
+il (elle) évoquera
+nous évoquerons
+vous évoquerez
+ils (elles) évoqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'évoquerais
+tu évoquerais
+il (elle) évoquerait
+nous évoquerions
+vous évoqueriez
+ils (elles) évoqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'évoque
+que tu évoques
+qu’il (elle) évoque
+que nous évoquions
+que vous évoquiez
+qu’ils (elles) évoquent
+
+** Imparfait
+
+que j'évoquasse
+que tu évoquasses
+qu’il (elle) évoquât
+que nous évoquassions
+que vous évoquassiez
+qu’ils (elles) évoquassent
+
+* IMPÉRATIF
+
+** Présent
+
+évoque
+évoquons
+évoquez
+
+* INFINITIF
+
+** Présent
+
+évoquer
+
+* PARTICIPE
+
+** Présent
+
+évoquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai évoqué
+tu as évoqué
+il (elle) a évoqué
+nous avons évoqué
+vous avez évoqué
+ils (elles) ont évoqué
+
+** Plus-que-parfait
+
+j'avais évoqué
+tu avais évoqué
+il (elle) avait évoqué
+nous avions évoqué
+vous aviez évoqué
+ils (elles) avaient évoqué
+
+** Passé antérieur
+
+j'eus évoqué
+tu eus évoqué
+il (elle) eut évoqué
+nous eûmes évoqué
+vous eûtes évoqué
+ils (elles) eurent évoqué
+
+** Futur antérieur
+
+j'aurai évoqué
+tu auras évoqué
+il (elle) aura évoqué
+nous aurons évoqué
+vous aurez évoqué
+ils (elles) auront évoqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais évoqué
+tu aurais évoqué
+il (elle) aurait évoqué
+nous aurions évoqué
+vous auriez évoqué
+ils (elles) auraient évoqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie évoqué
+que tu aies évoqué
+qu’il (elle) ait évoqué
+que nous ayons évoqué
+que vous ayez évoqué
+qu’ils (elles) aient évoqué
+
+** Plus-que-parfait
+
+que j'eusse évoqué
+que tu eusses évoqué
+qu’il (elle) eût évoqué
+que nous eussions évoqué
+que vous eussiez évoqué
+qu’ils (elles) eussent évoqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons évoqué
+ayez évoqué
+
+* INFINITIF
+
+** Passé
+
+avoir évoqué
+
+* PARTICIPE
+
+** Passé
+
+ayant évoqué
+évoqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis évoqué(e)
+tu es évoqué(e)
+il (elle) est évoqué(e)
+nous sommes évoqué(e)s
+vous êtes évoqué(e)s
+ils (elles) sont évoqué(e)s
+
+** Imparfait
+
+j'étais évoqué(e)
+tu étais évoqué(e)
+il (elle) était évoqué(e)
+nous étions évoqué(e)s
+vous étiez évoqué(e)s
+ils (elles) étaient évoqué(e)s
+
+** Passé simple
+
+je fus évoqué(e)
+tu fus évoqué(e)
+il (elle) fut évoqué(e)
+nous fûmes évoqué(e)s
+vous fûtes évoqué(e)s
+ils (elles) furent évoqué(e)s
+
+** Futur simple
+
+je serai évoqué(e)
+tu seras évoqué(e)
+il (elle) sera évoqué(e)
+nous serons évoqué(e)s
+vous serez évoqué(e)s
+ils (elles) seront évoqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais évoqué(e)
+tu serais évoqué(e)
+il (elle) serait évoqué(e)
+nous serions évoqué(e)s
+vous seriez évoqué(e)s
+ils (elles) seraient évoqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois évoqué(e)
+que tu sois évoqué(e)
+qu’il (elle) soit évoqué(e)
+que nous soyons évoqué(e)s
+que vous soyez évoqué(e)s
+qu’ils (elles) soient évoqué(e)s
+
+** Imparfait
+
+que je fusse évoqué(e)
+que tu fusses évoqué(e)
+qu’il (elle) fût évoqué(e)
+que nous fussions évoqué(e)s
+que vous fussiez évoqué(e)s
+qu’ils (elles) fussent évoqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons évoqué(e)s
+soyez évoqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être évoqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant évoqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été évoqué(e)
+tu as été évoqué(e)
+il (elle) a été évoqué(e)
+nous avons été évoqué(e)s
+vous avez été évoqué(e)s
+ils (elles) ont été évoqué(e)s
+
+** Plus-que-parfait
+
+j'avais été évoqué(e)
+il (elle) avait été évoqué(e)
+nous avions été évoqué(e)s
+ils (elles) avaient été évoqué(e)s
+
+** Passé antérieur
+
+j'eus été évoqué(e)
+tu eus été évoqué(e)
+il (elle) eut été évoqué(e)
+nous eûmes été évoqué(e)s
+vous eûtes été évoqué(e)s
+ils (elles) eurent été évoqué(e)s
+
+** Futur antérieur
+
+j'aurai été évoqué(e)
+tu auras été évoqué(e)
+il (elle) aura été évoqué(e)
+nous aurons été évoqué(e)s
+vous aurez été évoqué(e)s
+ils (elles) auront été évoqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été évoqué(e)
+j'aurais été évoqué(e)
+il (elle) aurait été évoqué(e)
+nous aurions été évoqué(e)s
+vous auriez été évoqué(e)s
+ils (elles) auraient été évoqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été évoqué(e)
+que tu aies été évoqué(e)
+qu’il (elle) ait été évoqué(e)
+que nous ayons été évoqué(e)s
+que vous ayez été évoqué(e)s
+qu’ils (elles) aient été évoqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été évoqué(e)
+que tu eusses été évoqué(e)
+qu’il (elle) eût été évoqué(e)
+que nous eussions été évoqué(e)s
+que vous eussiez été évoqué(e)s
+qu’ils (elles) eussent été évoqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été évoqué(e)
+ayons été évoqué(e)s
+ayez été évoqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été évoqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été évoqué(e)(s)

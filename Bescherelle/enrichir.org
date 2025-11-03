@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enrichir
+
+* INDICATIF
+
+** Présent
+
+j'enrichis
+tu enrichis
+il (elle) enrichit
+nous enrichissons
+vous enrichissez
+ils (elles) enrichissent
+
+** Imparfait
+
+j'enrichissais
+tu enrichissais
+il (elle) enrichissait
+nous enrichissions
+vous enrichissiez
+ils (elles) enrichissaient
+
+** Passé simple
+
+j'enrichis
+tu enrichis
+il (elle) enrichit
+nous enrichîmes
+vous enrichîtes
+ils (elles) enrichirent
+
+** Futur simple
+
+j'enrichirai
+tu enrichiras
+il (elle) enrichira
+nous enrichirons
+vous enrichirez
+ils (elles) enrichiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enrichirais
+tu enrichirais
+il (elle) enrichirait
+nous enrichirions
+vous enrichiriez
+ils (elles) enrichiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enrichisse
+que tu enrichisses
+qu’il (elle) enrichisse
+que nous enrichissions
+que vous enrichissiez
+qu’ils (elles) enrichissent
+
+** Imparfait
+
+que j'enrichisse
+que tu enrichisses
+qu’il (elle) enrichît
+que nous enrichissions
+que vous enrichissiez
+qu’ils (elles) enrichissent
+
+* IMPÉRATIF
+
+** Présent
+
+enrichis
+enrichissons
+enrichissez
+
+* INFINITIF
+
+** Présent
+
+enrichir
+
+* PARTICIPE
+
+** Présent
+
+enrichissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enrichi
+tu as enrichi
+il (elle) a enrichi
+nous avons enrichi
+vous avez enrichi
+ils (elles) ont enrichi
+
+** Plus-que-parfait
+
+j'avais enrichi
+tu avais enrichi
+il (elle) avait enrichi
+nous avions enrichi
+vous aviez enrichi
+ils (elles) avaient enrichi
+
+** Passé antérieur
+
+j'eus enrichi
+tu eus enrichi
+il (elle) eut enrichi
+nous eûmes enrichi
+vous eûtes enrichi
+ils (elles) eurent enrichi
+
+** Futur antérieur
+
+j'aurai enrichi
+tu auras enrichi
+il (elle) aura enrichi
+nous aurons enrichi
+vous aurez enrichi
+ils (elles) auront enrichi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enrichi
+tu aurais enrichi
+il (elle) aurait enrichi
+nous aurions enrichi
+vous auriez enrichi
+ils (elles) auraient enrichi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enrichi
+que tu aies enrichi
+qu’il (elle) ait enrichi
+que nous ayons enrichi
+que vous ayez enrichi
+qu’ils (elles) aient enrichi
+
+** Plus-que-parfait
+
+que j'eusse enrichi
+que tu eusses enrichi
+qu’il (elle) eût enrichi
+que nous eussions enrichi
+que vous eussiez enrichi
+qu’ils (elles) eussent enrichi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enrichi
+ayez enrichi
+
+* INFINITIF
+
+** Passé
+
+avoir enrichi
+
+* PARTICIPE
+
+** Passé
+
+ayant enrichi
+enrichi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis enrichi(e)
+tu es enrichi(e)
+il (elle) est enrichi(e)
+nous sommes enrichi(e)s
+vous êtes enrichi(e)s
+ils (elles) sont enrichi(e)s
+
+** Imparfait
+
+j'étais enrichi(e)
+tu étais enrichi(e)
+il (elle) était enrichi(e)
+nous étions enrichi(e)s
+vous étiez enrichi(e)s
+ils (elles) étaient enrichi(e)s
+
+** Passé simple
+
+je fus enrichi(e)
+tu fus enrichi(e)
+il (elle) fut enrichi(e)
+nous fûmes enrichi(e)s
+vous fûtes enrichi(e)s
+ils (elles) furent enrichi(e)s
+
+** Futur simple
+
+je serai enrichi(e)
+tu seras enrichi(e)
+il (elle) sera enrichi(e)
+nous serons enrichi(e)s
+vous serez enrichi(e)s
+ils (elles) seront enrichi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enrichi(e)
+tu serais enrichi(e)
+il (elle) serait enrichi(e)
+nous serions enrichi(e)s
+vous seriez enrichi(e)s
+ils (elles) seraient enrichi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enrichi(e)
+que tu sois enrichi(e)
+qu’il (elle) soit enrichi(e)
+que nous soyons enrichi(e)s
+que vous soyez enrichi(e)s
+qu’ils (elles) soient enrichi(e)s
+
+** Imparfait
+
+que je fusse enrichi(e)
+que tu fusses enrichi(e)
+qu’il (elle) fût enrichi(e)
+que nous fussions enrichi(e)s
+que vous fussiez enrichi(e)s
+qu’ils (elles) fussent enrichi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enrichi(e)s
+soyez enrichi(e)s
+
+* INFINITIF
+
+** Présent
+
+être enrichi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enrichi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enrichi(e)
+tu as été enrichi(e)
+il (elle) a été enrichi(e)
+nous avons été enrichi(e)s
+vous avez été enrichi(e)s
+ils (elles) ont été enrichi(e)s
+
+** Plus-que-parfait
+
+j'avais été enrichi(e)
+il (elle) avait été enrichi(e)
+nous avions été enrichi(e)s
+ils (elles) avaient été enrichi(e)s
+
+** Passé antérieur
+
+j'eus été enrichi(e)
+tu eus été enrichi(e)
+il (elle) eut été enrichi(e)
+nous eûmes été enrichi(e)s
+vous eûtes été enrichi(e)s
+ils (elles) eurent été enrichi(e)s
+
+** Futur antérieur
+
+j'aurai été enrichi(e)
+tu auras été enrichi(e)
+il (elle) aura été enrichi(e)
+nous aurons été enrichi(e)s
+vous aurez été enrichi(e)s
+ils (elles) auront été enrichi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enrichi(e)
+j'aurais été enrichi(e)
+il (elle) aurait été enrichi(e)
+nous aurions été enrichi(e)s
+vous auriez été enrichi(e)s
+ils (elles) auraient été enrichi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enrichi(e)
+que tu aies été enrichi(e)
+qu’il (elle) ait été enrichi(e)
+que nous ayons été enrichi(e)s
+que vous ayez été enrichi(e)s
+qu’ils (elles) aient été enrichi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enrichi(e)
+que tu eusses été enrichi(e)
+qu’il (elle) eût été enrichi(e)
+que nous eussions été enrichi(e)s
+que vous eussiez été enrichi(e)s
+qu’ils (elles) eussent été enrichi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enrichi(e)
+ayons été enrichi(e)s
+ayez été enrichi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enrichi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enrichi(e)(s)

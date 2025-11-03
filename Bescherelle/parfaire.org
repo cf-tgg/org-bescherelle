@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parfaire
+
+* INDICATIF
+
+** Présent
+
+je parfais
+tu parfais
+il (elle) parfait
+nous parfaisons
+vous parfaites
+ils (elles) parfont
+
+** Imparfait
+
+je parfaisais
+tu parfaisais
+il (elle) parfaisait
+nous parfaisions
+vous parfaisiez
+ils (elles) parfaisaient
+
+** Passé simple
+
+je parfis
+tu parfis
+il (elle) parfit
+nous parfîmes
+vous parfîtes
+ils (elles) parfirent
+
+** Futur simple
+
+je parferai
+tu parferas
+il (elle) parfera
+nous parferons
+vous parferez
+ils (elles) parferont
+
+* CONDITIONNEL
+
+** Présent
+
+je parferais
+tu parferais
+il (elle) parferait
+nous parferions
+vous parferiez
+ils (elles) parferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parfasse
+que tu parfasses
+qu’il (elle) parfasse
+que nous parfassions
+que vous parfassiez
+qu’ils (elles) parfassent
+
+** Imparfait
+
+que je parfisse
+que tu parfisses
+qu’il (elle) parfît
+que nous parfissions
+que vous parfissiez
+qu’ils (elles) parfissent
+
+* IMPÉRATIF
+
+** Présent
+
+parfais
+parfaisons
+parfaites
+
+* INFINITIF
+
+** Présent
+
+parfaire
+
+* PARTICIPE
+
+** Présent
+
+parfaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai parfait
+tu as parfait
+il (elle) a parfait
+nous avons parfait
+vous avez parfait
+ils (elles) ont parfait
+
+** Plus-que-parfait
+
+j'avais parfait
+tu avais parfait
+il (elle) avait parfait
+nous avions parfait
+vous aviez parfait
+ils (elles) avaient parfait
+
+** Passé antérieur
+
+j'eus parfait
+tu eus parfait
+il (elle) eut parfait
+nous eûmes parfait
+vous eûtes parfait
+ils (elles) eurent parfait
+
+** Futur antérieur
+
+j'aurai parfait
+tu auras parfait
+il (elle) aura parfait
+nous aurons parfait
+vous aurez parfait
+ils (elles) auront parfait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais parfait
+tu aurais parfait
+il (elle) aurait parfait
+nous aurions parfait
+vous auriez parfait
+ils (elles) auraient parfait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie parfait
+que tu aies parfait
+qu’il (elle) ait parfait
+que nous ayons parfait
+que vous ayez parfait
+qu’ils (elles) aient parfait
+
+** Plus-que-parfait
+
+que j'eusse parfait
+que tu eusses parfait
+qu’il (elle) eût parfait
+que nous eussions parfait
+que vous eussiez parfait
+qu’ils (elles) eussent parfait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons parfait
+ayez parfait
+
+* INFINITIF
+
+** Passé
+
+avoir parfait
+
+* PARTICIPE
+
+** Passé
+
+ayant parfait
+parfait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis parfait(e)
+tu es parfait(e)
+il (elle) est parfait(e)
+nous sommes parfait(e)s
+vous êtes parfait(e)s
+ils (elles) sont parfait(e)s
+
+** Imparfait
+
+j'étais parfait(e)
+tu étais parfait(e)
+il (elle) était parfait(e)
+nous étions parfait(e)s
+vous étiez parfait(e)s
+ils (elles) étaient parfait(e)s
+
+** Passé simple
+
+je fus parfait(e)
+tu fus parfait(e)
+il (elle) fut parfait(e)
+nous fûmes parfait(e)s
+vous fûtes parfait(e)s
+ils (elles) furent parfait(e)s
+
+** Futur simple
+
+je serai parfait(e)
+tu seras parfait(e)
+il (elle) sera parfait(e)
+nous serons parfait(e)s
+vous serez parfait(e)s
+ils (elles) seront parfait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais parfait(e)
+tu serais parfait(e)
+il (elle) serait parfait(e)
+nous serions parfait(e)s
+vous seriez parfait(e)s
+ils (elles) seraient parfait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois parfait(e)
+que tu sois parfait(e)
+qu’il (elle) soit parfait(e)
+que nous soyons parfait(e)s
+que vous soyez parfait(e)s
+qu’ils (elles) soient parfait(e)s
+
+** Imparfait
+
+que je fusse parfait(e)
+que tu fusses parfait(e)
+qu’il (elle) fût parfait(e)
+que nous fussions parfait(e)s
+que vous fussiez parfait(e)s
+qu’ils (elles) fussent parfait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons parfait(e)s
+soyez parfait(e)s
+
+* INFINITIF
+
+** Présent
+
+être parfait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant parfait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été parfait(e)
+tu as été parfait(e)
+il (elle) a été parfait(e)
+nous avons été parfait(e)s
+vous avez été parfait(e)s
+ils (elles) ont été parfait(e)s
+
+** Plus-que-parfait
+
+j'avais été parfait(e)
+il (elle) avait été parfait(e)
+nous avions été parfait(e)s
+ils (elles) avaient été parfait(e)s
+
+** Passé antérieur
+
+j'eus été parfait(e)
+tu eus été parfait(e)
+il (elle) eut été parfait(e)
+nous eûmes été parfait(e)s
+vous eûtes été parfait(e)s
+ils (elles) eurent été parfait(e)s
+
+** Futur antérieur
+
+j'aurai été parfait(e)
+tu auras été parfait(e)
+il (elle) aura été parfait(e)
+nous aurons été parfait(e)s
+vous aurez été parfait(e)s
+ils (elles) auront été parfait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été parfait(e)
+j'aurais été parfait(e)
+il (elle) aurait été parfait(e)
+nous aurions été parfait(e)s
+vous auriez été parfait(e)s
+ils (elles) auraient été parfait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été parfait(e)
+que tu aies été parfait(e)
+qu’il (elle) ait été parfait(e)
+que nous ayons été parfait(e)s
+que vous ayez été parfait(e)s
+qu’ils (elles) aient été parfait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été parfait(e)
+que tu eusses été parfait(e)
+qu’il (elle) eût été parfait(e)
+que nous eussions été parfait(e)s
+que vous eussiez été parfait(e)s
+qu’ils (elles) eussent été parfait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été parfait(e)
+ayons été parfait(e)s
+ayez été parfait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été parfait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été parfait(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exprimer
+
+* INDICATIF
+
+** Présent
+
+j'exprime
+tu exprimes
+il (elle) exprime
+nous exprimons
+vous exprimez
+ils (elles) expriment
+
+** Imparfait
+
+j'exprimais
+tu exprimais
+il (elle) exprimait
+nous exprimions
+vous exprimiez
+ils (elles) exprimaient
+
+** Passé simple
+
+j'exprimai
+tu exprimas
+il (elle) exprima
+nous exprimâmes
+vous exprimâtes
+ils (elles) exprimèrent
+
+** Futur simple
+
+j'exprimerai
+tu exprimeras
+il (elle) exprimera
+nous exprimerons
+vous exprimerez
+ils (elles) exprimeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exprimerais
+tu exprimerais
+il (elle) exprimerait
+nous exprimerions
+vous exprimeriez
+ils (elles) exprimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'exprime
+que tu exprimes
+qu’il (elle) exprime
+que nous exprimions
+que vous exprimiez
+qu’ils (elles) expriment
+
+** Imparfait
+
+que j'exprimasse
+que tu exprimasses
+qu’il (elle) exprimât
+que nous exprimassions
+que vous exprimassiez
+qu’ils (elles) exprimassent
+
+* IMPÉRATIF
+
+** Présent
+
+exprime
+exprimons
+exprimez
+
+* INFINITIF
+
+** Présent
+
+exprimer
+
+* PARTICIPE
+
+** Présent
+
+exprimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exprimé
+tu as exprimé
+il (elle) a exprimé
+nous avons exprimé
+vous avez exprimé
+ils (elles) ont exprimé
+
+** Plus-que-parfait
+
+j'avais exprimé
+tu avais exprimé
+il (elle) avait exprimé
+nous avions exprimé
+vous aviez exprimé
+ils (elles) avaient exprimé
+
+** Passé antérieur
+
+j'eus exprimé
+tu eus exprimé
+il (elle) eut exprimé
+nous eûmes exprimé
+vous eûtes exprimé
+ils (elles) eurent exprimé
+
+** Futur antérieur
+
+j'aurai exprimé
+tu auras exprimé
+il (elle) aura exprimé
+nous aurons exprimé
+vous aurez exprimé
+ils (elles) auront exprimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exprimé
+tu aurais exprimé
+il (elle) aurait exprimé
+nous aurions exprimé
+vous auriez exprimé
+ils (elles) auraient exprimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exprimé
+que tu aies exprimé
+qu’il (elle) ait exprimé
+que nous ayons exprimé
+que vous ayez exprimé
+qu’ils (elles) aient exprimé
+
+** Plus-que-parfait
+
+que j'eusse exprimé
+que tu eusses exprimé
+qu’il (elle) eût exprimé
+que nous eussions exprimé
+que vous eussiez exprimé
+qu’ils (elles) eussent exprimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exprimé
+ayez exprimé
+
+* INFINITIF
+
+** Passé
+
+avoir exprimé
+
+* PARTICIPE
+
+** Passé
+
+ayant exprimé
+exprimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis exprimé(e)
+tu es exprimé(e)
+il (elle) est exprimé(e)
+nous sommes exprimé(e)s
+vous êtes exprimé(e)s
+ils (elles) sont exprimé(e)s
+
+** Imparfait
+
+j'étais exprimé(e)
+tu étais exprimé(e)
+il (elle) était exprimé(e)
+nous étions exprimé(e)s
+vous étiez exprimé(e)s
+ils (elles) étaient exprimé(e)s
+
+** Passé simple
+
+je fus exprimé(e)
+tu fus exprimé(e)
+il (elle) fut exprimé(e)
+nous fûmes exprimé(e)s
+vous fûtes exprimé(e)s
+ils (elles) furent exprimé(e)s
+
+** Futur simple
+
+je serai exprimé(e)
+tu seras exprimé(e)
+il (elle) sera exprimé(e)
+nous serons exprimé(e)s
+vous serez exprimé(e)s
+ils (elles) seront exprimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exprimé(e)
+tu serais exprimé(e)
+il (elle) serait exprimé(e)
+nous serions exprimé(e)s
+vous seriez exprimé(e)s
+ils (elles) seraient exprimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exprimé(e)
+que tu sois exprimé(e)
+qu’il (elle) soit exprimé(e)
+que nous soyons exprimé(e)s
+que vous soyez exprimé(e)s
+qu’ils (elles) soient exprimé(e)s
+
+** Imparfait
+
+que je fusse exprimé(e)
+que tu fusses exprimé(e)
+qu’il (elle) fût exprimé(e)
+que nous fussions exprimé(e)s
+que vous fussiez exprimé(e)s
+qu’ils (elles) fussent exprimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exprimé(e)s
+soyez exprimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être exprimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exprimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exprimé(e)
+tu as été exprimé(e)
+il (elle) a été exprimé(e)
+nous avons été exprimé(e)s
+vous avez été exprimé(e)s
+ils (elles) ont été exprimé(e)s
+
+** Plus-que-parfait
+
+j'avais été exprimé(e)
+il (elle) avait été exprimé(e)
+nous avions été exprimé(e)s
+ils (elles) avaient été exprimé(e)s
+
+** Passé antérieur
+
+j'eus été exprimé(e)
+tu eus été exprimé(e)
+il (elle) eut été exprimé(e)
+nous eûmes été exprimé(e)s
+vous eûtes été exprimé(e)s
+ils (elles) eurent été exprimé(e)s
+
+** Futur antérieur
+
+j'aurai été exprimé(e)
+tu auras été exprimé(e)
+il (elle) aura été exprimé(e)
+nous aurons été exprimé(e)s
+vous aurez été exprimé(e)s
+ils (elles) auront été exprimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exprimé(e)
+j'aurais été exprimé(e)
+il (elle) aurait été exprimé(e)
+nous aurions été exprimé(e)s
+vous auriez été exprimé(e)s
+ils (elles) auraient été exprimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exprimé(e)
+que tu aies été exprimé(e)
+qu’il (elle) ait été exprimé(e)
+que nous ayons été exprimé(e)s
+que vous ayez été exprimé(e)s
+qu’ils (elles) aient été exprimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exprimé(e)
+que tu eusses été exprimé(e)
+qu’il (elle) eût été exprimé(e)
+que nous eussions été exprimé(e)s
+que vous eussiez été exprimé(e)s
+qu’ils (elles) eussent été exprimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exprimé(e)
+ayons été exprimé(e)s
+ayez été exprimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exprimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exprimé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tacher
+
+* INDICATIF
+
+** Présent
+
+je tache
+tu taches
+il (elle) tache
+nous tachons
+vous tachez
+ils (elles) tachent
+
+** Imparfait
+
+je tachais
+tu tachais
+il (elle) tachait
+nous tachions
+vous tachiez
+ils (elles) tachaient
+
+** Passé simple
+
+je tachai
+tu tachas
+il (elle) tacha
+nous tachâmes
+vous tachâtes
+ils (elles) tachèrent
+
+** Futur simple
+
+je tacherai
+tu tacheras
+il (elle) tachera
+nous tacherons
+vous tacherez
+ils (elles) tacheront
+
+* CONDITIONNEL
+
+** Présent
+
+je tacherais
+tu tacherais
+il (elle) tacherait
+nous tacherions
+vous tacheriez
+ils (elles) tacheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tache
+que tu taches
+qu’il (elle) tache
+que nous tachions
+que vous tachiez
+qu’ils (elles) tachent
+
+** Imparfait
+
+que je tachasse
+que tu tachasses
+qu’il (elle) tachât
+que nous tachassions
+que vous tachassiez
+qu’ils (elles) tachassent
+
+* IMPÉRATIF
+
+** Présent
+
+tache
+tachons
+tachez
+
+* INFINITIF
+
+** Présent
+
+tacher
+
+* PARTICIPE
+
+** Présent
+
+tachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai taché
+tu as taché
+il (elle) a taché
+nous avons taché
+vous avez taché
+ils (elles) ont taché
+
+** Plus-que-parfait
+
+j'avais taché
+tu avais taché
+il (elle) avait taché
+nous avions taché
+vous aviez taché
+ils (elles) avaient taché
+
+** Passé antérieur
+
+j'eus taché
+tu eus taché
+il (elle) eut taché
+nous eûmes taché
+vous eûtes taché
+ils (elles) eurent taché
+
+** Futur antérieur
+
+j'aurai taché
+tu auras taché
+il (elle) aura taché
+nous aurons taché
+vous aurez taché
+ils (elles) auront taché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais taché
+tu aurais taché
+il (elle) aurait taché
+nous aurions taché
+vous auriez taché
+ils (elles) auraient taché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie taché
+que tu aies taché
+qu’il (elle) ait taché
+que nous ayons taché
+que vous ayez taché
+qu’ils (elles) aient taché
+
+** Plus-que-parfait
+
+que j'eusse taché
+que tu eusses taché
+qu’il (elle) eût taché
+que nous eussions taché
+que vous eussiez taché
+qu’ils (elles) eussent taché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons taché
+ayez taché
+
+* INFINITIF
+
+** Passé
+
+avoir taché
+
+* PARTICIPE
+
+** Passé
+
+ayant taché
+taché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis taché(e)
+tu es taché(e)
+il (elle) est taché(e)
+nous sommes taché(e)s
+vous êtes taché(e)s
+ils (elles) sont taché(e)s
+
+** Imparfait
+
+j'étais taché(e)
+tu étais taché(e)
+il (elle) était taché(e)
+nous étions taché(e)s
+vous étiez taché(e)s
+ils (elles) étaient taché(e)s
+
+** Passé simple
+
+je fus taché(e)
+tu fus taché(e)
+il (elle) fut taché(e)
+nous fûmes taché(e)s
+vous fûtes taché(e)s
+ils (elles) furent taché(e)s
+
+** Futur simple
+
+je serai taché(e)
+tu seras taché(e)
+il (elle) sera taché(e)
+nous serons taché(e)s
+vous serez taché(e)s
+ils (elles) seront taché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais taché(e)
+tu serais taché(e)
+il (elle) serait taché(e)
+nous serions taché(e)s
+vous seriez taché(e)s
+ils (elles) seraient taché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois taché(e)
+que tu sois taché(e)
+qu’il (elle) soit taché(e)
+que nous soyons taché(e)s
+que vous soyez taché(e)s
+qu’ils (elles) soient taché(e)s
+
+** Imparfait
+
+que je fusse taché(e)
+que tu fusses taché(e)
+qu’il (elle) fût taché(e)
+que nous fussions taché(e)s
+que vous fussiez taché(e)s
+qu’ils (elles) fussent taché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons taché(e)s
+soyez taché(e)s
+
+* INFINITIF
+
+** Présent
+
+être taché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant taché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été taché(e)
+tu as été taché(e)
+il (elle) a été taché(e)
+nous avons été taché(e)s
+vous avez été taché(e)s
+ils (elles) ont été taché(e)s
+
+** Plus-que-parfait
+
+j'avais été taché(e)
+il (elle) avait été taché(e)
+nous avions été taché(e)s
+ils (elles) avaient été taché(e)s
+
+** Passé antérieur
+
+j'eus été taché(e)
+tu eus été taché(e)
+il (elle) eut été taché(e)
+nous eûmes été taché(e)s
+vous eûtes été taché(e)s
+ils (elles) eurent été taché(e)s
+
+** Futur antérieur
+
+j'aurai été taché(e)
+tu auras été taché(e)
+il (elle) aura été taché(e)
+nous aurons été taché(e)s
+vous aurez été taché(e)s
+ils (elles) auront été taché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été taché(e)
+j'aurais été taché(e)
+il (elle) aurait été taché(e)
+nous aurions été taché(e)s
+vous auriez été taché(e)s
+ils (elles) auraient été taché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été taché(e)
+que tu aies été taché(e)
+qu’il (elle) ait été taché(e)
+que nous ayons été taché(e)s
+que vous ayez été taché(e)s
+qu’ils (elles) aient été taché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été taché(e)
+que tu eusses été taché(e)
+qu’il (elle) eût été taché(e)
+que nous eussions été taché(e)s
+que vous eussiez été taché(e)s
+qu’ils (elles) eussent été taché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été taché(e)
+ayons été taché(e)s
+ayez été taché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été taché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été taché(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe amener
+
+* INDICATIF
+
+** Présent
+
+j'amène
+tu amènes
+il (elle) amène
+nous amenons
+vous amenez
+ils (elles) amènent
+
+** Imparfait
+
+j'amenais
+tu amenais
+il (elle) amenait
+nous amenions
+vous ameniez
+ils (elles) amenaient
+
+** Passé simple
+
+j'amenai
+tu amenas
+il (elle) amena
+nous amenâmes
+vous amenâtes
+ils (elles) amenèrent
+
+** Futur simple
+
+j'amènerai
+tu amèneras
+il (elle) amènera
+nous amènerons
+vous amènerez
+ils (elles) amèneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amènerais
+tu amènerais
+il (elle) amènerait
+nous amènerions
+vous amèneriez
+ils (elles) amèneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amène
+que tu amènes
+qu’il (elle) amène
+que nous amenions
+que vous ameniez
+qu’ils (elles) amènent
+
+** Imparfait
+
+que j'amenasse
+que tu amenasses
+qu’il (elle) amenât
+que nous amenassions
+que vous amenassiez
+qu’ils (elles) amenassent
+
+* IMPÉRATIF
+
+** Présent
+
+amène
+amenons
+amenez
+
+* INFINITIF
+
+** Présent
+
+amener
+
+* PARTICIPE
+
+** Présent
+
+amenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amené
+tu as amené
+il (elle) a amené
+nous avons amené
+vous avez amené
+ils (elles) ont amené
+
+** Plus-que-parfait
+
+j'avais amené
+tu avais amené
+il (elle) avait amené
+nous avions amené
+vous aviez amené
+ils (elles) avaient amené
+
+** Passé antérieur
+
+j'eus amené
+tu eus amené
+il (elle) eut amené
+nous eûmes amené
+vous eûtes amené
+ils (elles) eurent amené
+
+** Futur antérieur
+
+j'aurai amené
+tu auras amené
+il (elle) aura amené
+nous aurons amené
+vous aurez amené
+ils (elles) auront amené
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amené
+tu aurais amené
+il (elle) aurait amené
+nous aurions amené
+vous auriez amené
+ils (elles) auraient amené
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amené
+que tu aies amené
+qu’il (elle) ait amené
+que nous ayons amené
+que vous ayez amené
+qu’ils (elles) aient amené
+
+** Plus-que-parfait
+
+que j'eusse amené
+que tu eusses amené
+qu’il (elle) eût amené
+que nous eussions amené
+que vous eussiez amené
+qu’ils (elles) eussent amené
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amené
+ayez amené
+
+* INFINITIF
+
+** Passé
+
+avoir amené
+
+* PARTICIPE
+
+** Passé
+
+ayant amené
+amené (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis amené(e)
+tu es amené(e)
+il (elle) est amené(e)
+nous sommes amené(e)s
+vous êtes amené(e)s
+ils (elles) sont amené(e)s
+
+** Imparfait
+
+j'étais amené(e)
+tu étais amené(e)
+il (elle) était amené(e)
+nous étions amené(e)s
+vous étiez amené(e)s
+ils (elles) étaient amené(e)s
+
+** Passé simple
+
+je fus amené(e)
+tu fus amené(e)
+il (elle) fut amené(e)
+nous fûmes amené(e)s
+vous fûtes amené(e)s
+ils (elles) furent amené(e)s
+
+** Futur simple
+
+je serai amené(e)
+tu seras amené(e)
+il (elle) sera amené(e)
+nous serons amené(e)s
+vous serez amené(e)s
+ils (elles) seront amené(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais amené(e)
+tu serais amené(e)
+il (elle) serait amené(e)
+nous serions amené(e)s
+vous seriez amené(e)s
+ils (elles) seraient amené(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois amené(e)
+que tu sois amené(e)
+qu’il (elle) soit amené(e)
+que nous soyons amené(e)s
+que vous soyez amené(e)s
+qu’ils (elles) soient amené(e)s
+
+** Imparfait
+
+que je fusse amené(e)
+que tu fusses amené(e)
+qu’il (elle) fût amené(e)
+que nous fussions amené(e)s
+que vous fussiez amené(e)s
+qu’ils (elles) fussent amené(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons amené(e)s
+soyez amené(e)s
+
+* INFINITIF
+
+** Présent
+
+être amené(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant amené(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été amené(e)
+tu as été amené(e)
+il (elle) a été amené(e)
+nous avons été amené(e)s
+vous avez été amené(e)s
+ils (elles) ont été amené(e)s
+
+** Plus-que-parfait
+
+j'avais été amené(e)
+il (elle) avait été amené(e)
+nous avions été amené(e)s
+ils (elles) avaient été amené(e)s
+
+** Passé antérieur
+
+j'eus été amené(e)
+tu eus été amené(e)
+il (elle) eut été amené(e)
+nous eûmes été amené(e)s
+vous eûtes été amené(e)s
+ils (elles) eurent été amené(e)s
+
+** Futur antérieur
+
+j'aurai été amené(e)
+tu auras été amené(e)
+il (elle) aura été amené(e)
+nous aurons été amené(e)s
+vous aurez été amené(e)s
+ils (elles) auront été amené(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été amené(e)
+j'aurais été amené(e)
+il (elle) aurait été amené(e)
+nous aurions été amené(e)s
+vous auriez été amené(e)s
+ils (elles) auraient été amené(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été amené(e)
+que tu aies été amené(e)
+qu’il (elle) ait été amené(e)
+que nous ayons été amené(e)s
+que vous ayez été amené(e)s
+qu’ils (elles) aient été amené(e)s
+
+** Plus-que-parfait
+
+que j'eusse été amené(e)
+que tu eusses été amené(e)
+qu’il (elle) eût été amené(e)
+que nous eussions été amené(e)s
+que vous eussiez été amené(e)s
+qu’ils (elles) eussent été amené(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été amené(e)
+ayons été amené(e)s
+ayez été amené(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été amené(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été amené(e)(s)

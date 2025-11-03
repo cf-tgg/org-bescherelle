@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe epeler
+
+* INDICATIF
+
+** Présent
+
+j'épelle
+tu épelles
+il (elle) épelle
+nous épelons
+vous épelez
+ils (elles) épellent
+
+** Imparfait
+
+j'épelais
+tu épelais
+il (elle) épelait
+nous épelions
+vous épeliez
+ils (elles) épelaient
+
+** Passé simple
+
+j'épelai
+tu épelas
+il (elle) épela
+nous épelâmes
+vous épelâtes
+ils (elles) épelèrent
+
+** Futur simple
+
+j'épellerai
+tu épelleras
+il (elle) épellera
+nous épellerons
+vous épellerez
+ils (elles) épelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'épellerais
+tu épellerais
+il (elle) épellerait
+nous épellerions
+vous épelleriez
+ils (elles) épelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'épelle
+que tu épelles
+qu’il (elle) épelle
+que nous épelions
+que vous épeliez
+qu’ils (elles) épellent
+
+** Imparfait
+
+que j'épelasse
+que tu épelasses
+qu’il (elle) épelât
+que nous épelassions
+que vous épelassiez
+qu’ils (elles) épelassent
+
+* IMPÉRATIF
+
+** Présent
+
+épelle
+épelons
+épelez
+
+* INFINITIF
+
+** Présent
+
+épeler
+
+* PARTICIPE
+
+** Présent
+
+épelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai épelé
+tu as épelé
+il (elle) a épelé
+nous avons épelé
+vous avez épelé
+ils (elles) ont épelé
+
+** Plus-que-parfait
+
+j'avais épelé
+tu avais épelé
+il (elle) avait épelé
+nous avions épelé
+vous aviez épelé
+ils (elles) avaient épelé
+
+** Passé antérieur
+
+j'eus épelé
+tu eus épelé
+il (elle) eut épelé
+nous eûmes épelé
+vous eûtes épelé
+ils (elles) eurent épelé
+
+** Futur antérieur
+
+j'aurai épelé
+tu auras épelé
+il (elle) aura épelé
+nous aurons épelé
+vous aurez épelé
+ils (elles) auront épelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais épelé
+tu aurais épelé
+il (elle) aurait épelé
+nous aurions épelé
+vous auriez épelé
+ils (elles) auraient épelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie épelé
+que tu aies épelé
+qu’il (elle) ait épelé
+que nous ayons épelé
+que vous ayez épelé
+qu’ils (elles) aient épelé
+
+** Plus-que-parfait
+
+que j'eusse épelé
+que tu eusses épelé
+qu’il (elle) eût épelé
+que nous eussions épelé
+que vous eussiez épelé
+qu’ils (elles) eussent épelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons épelé
+ayez épelé
+
+* INFINITIF
+
+** Passé
+
+avoir épelé
+
+* PARTICIPE
+
+** Passé
+
+ayant épelé
+épelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis épelé(e)
+tu es épelé(e)
+il (elle) est épelé(e)
+nous sommes épelé(e)s
+vous êtes épelé(e)s
+ils (elles) sont épelé(e)s
+
+** Imparfait
+
+j'étais épelé(e)
+tu étais épelé(e)
+il (elle) était épelé(e)
+nous étions épelé(e)s
+vous étiez épelé(e)s
+ils (elles) étaient épelé(e)s
+
+** Passé simple
+
+je fus épelé(e)
+tu fus épelé(e)
+il (elle) fut épelé(e)
+nous fûmes épelé(e)s
+vous fûtes épelé(e)s
+ils (elles) furent épelé(e)s
+
+** Futur simple
+
+je serai épelé(e)
+tu seras épelé(e)
+il (elle) sera épelé(e)
+nous serons épelé(e)s
+vous serez épelé(e)s
+ils (elles) seront épelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais épelé(e)
+tu serais épelé(e)
+il (elle) serait épelé(e)
+nous serions épelé(e)s
+vous seriez épelé(e)s
+ils (elles) seraient épelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois épelé(e)
+que tu sois épelé(e)
+qu’il (elle) soit épelé(e)
+que nous soyons épelé(e)s
+que vous soyez épelé(e)s
+qu’ils (elles) soient épelé(e)s
+
+** Imparfait
+
+que je fusse épelé(e)
+que tu fusses épelé(e)
+qu’il (elle) fût épelé(e)
+que nous fussions épelé(e)s
+que vous fussiez épelé(e)s
+qu’ils (elles) fussent épelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons épelé(e)s
+soyez épelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être épelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant épelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été épelé(e)
+tu as été épelé(e)
+il (elle) a été épelé(e)
+nous avons été épelé(e)s
+vous avez été épelé(e)s
+ils (elles) ont été épelé(e)s
+
+** Plus-que-parfait
+
+j'avais été épelé(e)
+il (elle) avait été épelé(e)
+nous avions été épelé(e)s
+ils (elles) avaient été épelé(e)s
+
+** Passé antérieur
+
+j'eus été épelé(e)
+tu eus été épelé(e)
+il (elle) eut été épelé(e)
+nous eûmes été épelé(e)s
+vous eûtes été épelé(e)s
+ils (elles) eurent été épelé(e)s
+
+** Futur antérieur
+
+j'aurai été épelé(e)
+tu auras été épelé(e)
+il (elle) aura été épelé(e)
+nous aurons été épelé(e)s
+vous aurez été épelé(e)s
+ils (elles) auront été épelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été épelé(e)
+j'aurais été épelé(e)
+il (elle) aurait été épelé(e)
+nous aurions été épelé(e)s
+vous auriez été épelé(e)s
+ils (elles) auraient été épelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été épelé(e)
+que tu aies été épelé(e)
+qu’il (elle) ait été épelé(e)
+que nous ayons été épelé(e)s
+que vous ayez été épelé(e)s
+qu’ils (elles) aient été épelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été épelé(e)
+que tu eusses été épelé(e)
+qu’il (elle) eût été épelé(e)
+que nous eussions été épelé(e)s
+que vous eussiez été épelé(e)s
+qu’ils (elles) eussent été épelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été épelé(e)
+ayons été épelé(e)s
+ayez été épelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été épelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été épelé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rincer
+
+* INDICATIF
+
+** Présent
+
+je rince
+tu rinces
+il (elle) rince
+nous rinçons
+vous rincez
+ils (elles) rincent
+
+** Imparfait
+
+je rinçais
+tu rinçais
+il (elle) rinçait
+nous rincions
+vous rinciez
+ils (elles) rinçaient
+
+** Passé simple
+
+je rinçai
+tu rinças
+il (elle) rinça
+nous rinçâmes
+vous rinçâtes
+ils (elles) rincèrent
+
+** Futur simple
+
+je rincerai
+tu rinceras
+il (elle) rincera
+nous rincerons
+vous rincerez
+ils (elles) rinceront
+
+* CONDITIONNEL
+
+** Présent
+
+je rincerais
+tu rincerais
+il (elle) rincerait
+nous rincerions
+vous rinceriez
+ils (elles) rinceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rince
+que tu rinces
+qu’il (elle) rince
+que nous rincions
+que vous rinciez
+qu’ils (elles) rincent
+
+** Imparfait
+
+que je rinçasse
+que tu rinçasses
+qu’il (elle) rinçât
+que nous rinçassions
+que vous rinçassiez
+qu’ils (elles) rinçassent
+
+* IMPÉRATIF
+
+** Présent
+
+rince
+rinçons
+rincez
+
+* INFINITIF
+
+** Présent
+
+rincer
+
+* PARTICIPE
+
+** Présent
+
+rinçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rincé
+tu as rincé
+il (elle) a rincé
+nous avons rincé
+vous avez rincé
+ils (elles) ont rincé
+
+** Plus-que-parfait
+
+j'avais rincé
+tu avais rincé
+il (elle) avait rincé
+nous avions rincé
+vous aviez rincé
+ils (elles) avaient rincé
+
+** Passé antérieur
+
+j'eus rincé
+tu eus rincé
+il (elle) eut rincé
+nous eûmes rincé
+vous eûtes rincé
+ils (elles) eurent rincé
+
+** Futur antérieur
+
+j'aurai rincé
+tu auras rincé
+il (elle) aura rincé
+nous aurons rincé
+vous aurez rincé
+ils (elles) auront rincé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rincé
+tu aurais rincé
+il (elle) aurait rincé
+nous aurions rincé
+vous auriez rincé
+ils (elles) auraient rincé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rincé
+que tu aies rincé
+qu’il (elle) ait rincé
+que nous ayons rincé
+que vous ayez rincé
+qu’ils (elles) aient rincé
+
+** Plus-que-parfait
+
+que j'eusse rincé
+que tu eusses rincé
+qu’il (elle) eût rincé
+que nous eussions rincé
+que vous eussiez rincé
+qu’ils (elles) eussent rincé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rincé
+ayez rincé
+
+* INFINITIF
+
+** Passé
+
+avoir rincé
+
+* PARTICIPE
+
+** Passé
+
+ayant rincé
+rincé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rincé(e)
+tu es rincé(e)
+il (elle) est rincé(e)
+nous sommes rincé(e)s
+vous êtes rincé(e)s
+ils (elles) sont rincé(e)s
+
+** Imparfait
+
+j'étais rincé(e)
+tu étais rincé(e)
+il (elle) était rincé(e)
+nous étions rincé(e)s
+vous étiez rincé(e)s
+ils (elles) étaient rincé(e)s
+
+** Passé simple
+
+je fus rincé(e)
+tu fus rincé(e)
+il (elle) fut rincé(e)
+nous fûmes rincé(e)s
+vous fûtes rincé(e)s
+ils (elles) furent rincé(e)s
+
+** Futur simple
+
+je serai rincé(e)
+tu seras rincé(e)
+il (elle) sera rincé(e)
+nous serons rincé(e)s
+vous serez rincé(e)s
+ils (elles) seront rincé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rincé(e)
+tu serais rincé(e)
+il (elle) serait rincé(e)
+nous serions rincé(e)s
+vous seriez rincé(e)s
+ils (elles) seraient rincé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rincé(e)
+que tu sois rincé(e)
+qu’il (elle) soit rincé(e)
+que nous soyons rincé(e)s
+que vous soyez rincé(e)s
+qu’ils (elles) soient rincé(e)s
+
+** Imparfait
+
+que je fusse rincé(e)
+que tu fusses rincé(e)
+qu’il (elle) fût rincé(e)
+que nous fussions rincé(e)s
+que vous fussiez rincé(e)s
+qu’ils (elles) fussent rincé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rincé(e)s
+soyez rincé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rincé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rincé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rincé(e)
+tu as été rincé(e)
+il (elle) a été rincé(e)
+nous avons été rincé(e)s
+vous avez été rincé(e)s
+ils (elles) ont été rincé(e)s
+
+** Plus-que-parfait
+
+j'avais été rincé(e)
+il (elle) avait été rincé(e)
+nous avions été rincé(e)s
+ils (elles) avaient été rincé(e)s
+
+** Passé antérieur
+
+j'eus été rincé(e)
+tu eus été rincé(e)
+il (elle) eut été rincé(e)
+nous eûmes été rincé(e)s
+vous eûtes été rincé(e)s
+ils (elles) eurent été rincé(e)s
+
+** Futur antérieur
+
+j'aurai été rincé(e)
+tu auras été rincé(e)
+il (elle) aura été rincé(e)
+nous aurons été rincé(e)s
+vous aurez été rincé(e)s
+ils (elles) auront été rincé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rincé(e)
+j'aurais été rincé(e)
+il (elle) aurait été rincé(e)
+nous aurions été rincé(e)s
+vous auriez été rincé(e)s
+ils (elles) auraient été rincé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rincé(e)
+que tu aies été rincé(e)
+qu’il (elle) ait été rincé(e)
+que nous ayons été rincé(e)s
+que vous ayez été rincé(e)s
+qu’ils (elles) aient été rincé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rincé(e)
+que tu eusses été rincé(e)
+qu’il (elle) eût été rincé(e)
+que nous eussions été rincé(e)s
+que vous eussiez été rincé(e)s
+qu’ils (elles) eussent été rincé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rincé(e)
+ayons été rincé(e)s
+ayez été rincé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rincé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rincé(e)(s)

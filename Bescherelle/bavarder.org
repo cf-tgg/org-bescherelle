@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe bavarder
+
+* INDICATIF
+
+** Présent
+
+je bavarde
+tu bavardes
+il (elle) bavarde
+nous bavardons
+vous bavardez
+ils (elles) bavardent
+
+** Imparfait
+
+je bavardais
+tu bavardais
+il (elle) bavardait
+nous bavardions
+vous bavardiez
+ils (elles) bavardaient
+
+** Passé simple
+
+je bavardai
+tu bavardas
+il (elle) bavarda
+nous bavardâmes
+vous bavardâtes
+ils (elles) bavardèrent
+
+** Futur simple
+
+je bavarderai
+tu bavarderas
+il (elle) bavardera
+nous bavarderons
+vous bavarderez
+ils (elles) bavarderont
+
+* CONDITIONNEL
+
+** Présent
+
+je bavarderais
+tu bavarderais
+il (elle) bavarderait
+nous bavarderions
+vous bavarderiez
+ils (elles) bavarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bavarde
+que tu bavardes
+qu’il (elle) bavarde
+que nous bavardions
+que vous bavardiez
+qu’ils (elles) bavardent
+
+** Imparfait
+
+que je bavardasse
+que tu bavardasses
+qu’il (elle) bavardât
+que nous bavardassions
+que vous bavardassiez
+qu’ils (elles) bavardassent
+
+* IMPÉRATIF
+
+** Présent
+
+bavarde
+bavardons
+bavardez
+
+* INFINITIF
+
+** Présent
+
+bavarder
+
+* PARTICIPE
+
+** Présent
+
+bavardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bavardé
+tu as bavardé
+il (elle) a bavardé
+nous avons bavardé
+vous avez bavardé
+ils (elles) ont bavardé
+
+** Plus-que-parfait
+
+j'avais bavardé
+tu avais bavardé
+il (elle) avait bavardé
+nous avions bavardé
+vous aviez bavardé
+ils (elles) avaient bavardé
+
+** Passé antérieur
+
+j'eus bavardé
+tu eus bavardé
+il (elle) eut bavardé
+nous eûmes bavardé
+vous eûtes bavardé
+ils (elles) eurent bavardé
+
+** Futur antérieur
+
+j'aurai bavardé
+tu auras bavardé
+il (elle) aura bavardé
+nous aurons bavardé
+vous aurez bavardé
+ils (elles) auront bavardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bavardé
+tu aurais bavardé
+il (elle) aurait bavardé
+nous aurions bavardé
+vous auriez bavardé
+ils (elles) auraient bavardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bavardé
+que tu aies bavardé
+qu’il (elle) ait bavardé
+que nous ayons bavardé
+que vous ayez bavardé
+qu’ils (elles) aient bavardé
+
+** Plus-que-parfait
+
+que j'eusse bavardé
+que tu eusses bavardé
+qu’il (elle) eût bavardé
+que nous eussions bavardé
+que vous eussiez bavardé
+qu’ils (elles) eussent bavardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bavardé
+ayez bavardé
+
+* INFINITIF
+
+** Passé
+
+avoir bavardé
+
+* PARTICIPE
+
+** Passé
+
+ayant bavardé
+bavardé (invar.)

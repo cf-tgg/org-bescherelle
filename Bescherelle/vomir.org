@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vomir
+
+* INDICATIF
+
+** Présent
+
+je vomis
+tu vomis
+il (elle) vomit
+nous vomissons
+vous vomissez
+ils (elles) vomissent
+
+** Imparfait
+
+je vomissais
+tu vomissais
+il (elle) vomissait
+nous vomissions
+vous vomissiez
+ils (elles) vomissaient
+
+** Passé simple
+
+je vomis
+tu vomis
+il (elle) vomit
+nous vomîmes
+vous vomîtes
+ils (elles) vomirent
+
+** Futur simple
+
+je vomirai
+tu vomiras
+il (elle) vomira
+nous vomirons
+vous vomirez
+ils (elles) vomiront
+
+* CONDITIONNEL
+
+** Présent
+
+je vomirais
+tu vomirais
+il (elle) vomirait
+nous vomirions
+vous vomiriez
+ils (elles) vomiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vomisse
+que tu vomisses
+qu’il (elle) vomisse
+que nous vomissions
+que vous vomissiez
+qu’ils (elles) vomissent
+
+** Imparfait
+
+que je vomisse
+que tu vomisses
+qu’il (elle) vomît
+que nous vomissions
+que vous vomissiez
+qu’ils (elles) vomissent
+
+* IMPÉRATIF
+
+** Présent
+
+vomis
+vomissons
+vomissez
+
+* INFINITIF
+
+** Présent
+
+vomir
+
+* PARTICIPE
+
+** Présent
+
+vomissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vomi
+tu as vomi
+il (elle) a vomi
+nous avons vomi
+vous avez vomi
+ils (elles) ont vomi
+
+** Plus-que-parfait
+
+j'avais vomi
+tu avais vomi
+il (elle) avait vomi
+nous avions vomi
+vous aviez vomi
+ils (elles) avaient vomi
+
+** Passé antérieur
+
+j'eus vomi
+tu eus vomi
+il (elle) eut vomi
+nous eûmes vomi
+vous eûtes vomi
+ils (elles) eurent vomi
+
+** Futur antérieur
+
+j'aurai vomi
+tu auras vomi
+il (elle) aura vomi
+nous aurons vomi
+vous aurez vomi
+ils (elles) auront vomi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vomi
+tu aurais vomi
+il (elle) aurait vomi
+nous aurions vomi
+vous auriez vomi
+ils (elles) auraient vomi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vomi
+que tu aies vomi
+qu’il (elle) ait vomi
+que nous ayons vomi
+que vous ayez vomi
+qu’ils (elles) aient vomi
+
+** Plus-que-parfait
+
+que j'eusse vomi
+que tu eusses vomi
+qu’il (elle) eût vomi
+que nous eussions vomi
+que vous eussiez vomi
+qu’ils (elles) eussent vomi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vomi
+ayez vomi
+
+* INFINITIF
+
+** Passé
+
+avoir vomi
+
+* PARTICIPE
+
+** Passé
+
+ayant vomi
+vomi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis vomi(e)
+tu es vomi(e)
+il (elle) est vomi(e)
+nous sommes vomi(e)s
+vous êtes vomi(e)s
+ils (elles) sont vomi(e)s
+
+** Imparfait
+
+j'étais vomi(e)
+tu étais vomi(e)
+il (elle) était vomi(e)
+nous étions vomi(e)s
+vous étiez vomi(e)s
+ils (elles) étaient vomi(e)s
+
+** Passé simple
+
+je fus vomi(e)
+tu fus vomi(e)
+il (elle) fut vomi(e)
+nous fûmes vomi(e)s
+vous fûtes vomi(e)s
+ils (elles) furent vomi(e)s
+
+** Futur simple
+
+je serai vomi(e)
+tu seras vomi(e)
+il (elle) sera vomi(e)
+nous serons vomi(e)s
+vous serez vomi(e)s
+ils (elles) seront vomi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vomi(e)
+tu serais vomi(e)
+il (elle) serait vomi(e)
+nous serions vomi(e)s
+vous seriez vomi(e)s
+ils (elles) seraient vomi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vomi(e)
+que tu sois vomi(e)
+qu’il (elle) soit vomi(e)
+que nous soyons vomi(e)s
+que vous soyez vomi(e)s
+qu’ils (elles) soient vomi(e)s
+
+** Imparfait
+
+que je fusse vomi(e)
+que tu fusses vomi(e)
+qu’il (elle) fût vomi(e)
+que nous fussions vomi(e)s
+que vous fussiez vomi(e)s
+qu’ils (elles) fussent vomi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vomi(e)s
+soyez vomi(e)s
+
+* INFINITIF
+
+** Présent
+
+être vomi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vomi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vomi(e)
+tu as été vomi(e)
+il (elle) a été vomi(e)
+nous avons été vomi(e)s
+vous avez été vomi(e)s
+ils (elles) ont été vomi(e)s
+
+** Plus-que-parfait
+
+j'avais été vomi(e)
+il (elle) avait été vomi(e)
+nous avions été vomi(e)s
+ils (elles) avaient été vomi(e)s
+
+** Passé antérieur
+
+j'eus été vomi(e)
+tu eus été vomi(e)
+il (elle) eut été vomi(e)
+nous eûmes été vomi(e)s
+vous eûtes été vomi(e)s
+ils (elles) eurent été vomi(e)s
+
+** Futur antérieur
+
+j'aurai été vomi(e)
+tu auras été vomi(e)
+il (elle) aura été vomi(e)
+nous aurons été vomi(e)s
+vous aurez été vomi(e)s
+ils (elles) auront été vomi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vomi(e)
+j'aurais été vomi(e)
+il (elle) aurait été vomi(e)
+nous aurions été vomi(e)s
+vous auriez été vomi(e)s
+ils (elles) auraient été vomi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vomi(e)
+que tu aies été vomi(e)
+qu’il (elle) ait été vomi(e)
+que nous ayons été vomi(e)s
+que vous ayez été vomi(e)s
+qu’ils (elles) aient été vomi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vomi(e)
+que tu eusses été vomi(e)
+qu’il (elle) eût été vomi(e)
+que nous eussions été vomi(e)s
+que vous eussiez été vomi(e)s
+qu’ils (elles) eussent été vomi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vomi(e)
+ayons été vomi(e)s
+ayez été vomi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vomi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vomi(e)(s)

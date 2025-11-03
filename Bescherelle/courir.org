@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe courir
+
+* INDICATIF
+
+** Présent
+
+je cours
+tu cours
+il (elle) court
+nous courons
+vous courez
+ils (elles) courent
+
+** Imparfait
+
+je courais
+tu courais
+il (elle) courait
+nous courions
+vous couriez
+ils (elles) couraient
+
+** Passé simple
+
+je courus
+tu courus
+il (elle) courut
+nous courûmes
+vous courûtes
+ils (elles) coururent
+
+** Futur simple
+
+je courrai
+tu courras
+il (elle) courra
+nous courrons
+vous courrez
+ils (elles) courront
+
+* CONDITIONNEL
+
+** Présent
+
+je courrais
+tu courrais
+il (elle) courrait
+nous courrions
+vous courriez
+ils (elles) courraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coure
+que tu coures
+qu’il (elle) coure
+que nous courions
+que vous couriez
+qu’ils (elles) courent
+
+** Imparfait
+
+que je courusse
+que tu courusses
+qu’il (elle) courût
+que nous courussions
+que vous courussiez
+qu’ils (elles) courussent
+
+* IMPÉRATIF
+
+** Présent
+
+cours
+courons
+courez
+
+* INFINITIF
+
+** Présent
+
+courir
+
+* PARTICIPE
+
+** Présent
+
+courant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai couru
+tu as couru
+il (elle) a couru
+nous avons couru
+vous avez couru
+ils (elles) ont couru
+
+** Plus-que-parfait
+
+j'avais couru
+tu avais couru
+il (elle) avait couru
+nous avions couru
+vous aviez couru
+ils (elles) avaient couru
+
+** Passé antérieur
+
+j'eus couru
+tu eus couru
+il (elle) eut couru
+nous eûmes couru
+vous eûtes couru
+ils (elles) eurent couru
+
+** Futur antérieur
+
+j'aurai couru
+tu auras couru
+il (elle) aura couru
+nous aurons couru
+vous aurez couru
+ils (elles) auront couru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais couru
+tu aurais couru
+il (elle) aurait couru
+nous aurions couru
+vous auriez couru
+ils (elles) auraient couru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie couru
+que tu aies couru
+qu’il (elle) ait couru
+que nous ayons couru
+que vous ayez couru
+qu’ils (elles) aient couru
+
+** Plus-que-parfait
+
+que j'eusse couru
+que tu eusses couru
+qu’il (elle) eût couru
+que nous eussions couru
+que vous eussiez couru
+qu’ils (elles) eussent couru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons couru
+ayez couru
+
+* INFINITIF
+
+** Passé
+
+avoir couru
+
+* PARTICIPE
+
+** Passé
+
+ayant couru
+couru (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis couru(e)
+tu es couru(e)
+il (elle) est couru(e)
+nous sommes couru(e)s
+vous êtes couru(e)s
+ils (elles) sont couru(e)s
+
+** Imparfait
+
+j'étais couru(e)
+tu étais couru(e)
+il (elle) était couru(e)
+nous étions couru(e)s
+vous étiez couru(e)s
+ils (elles) étaient couru(e)s
+
+** Passé simple
+
+je fus couru(e)
+tu fus couru(e)
+il (elle) fut couru(e)
+nous fûmes couru(e)s
+vous fûtes couru(e)s
+ils (elles) furent couru(e)s
+
+** Futur simple
+
+je serai couru(e)
+tu seras couru(e)
+il (elle) sera couru(e)
+nous serons couru(e)s
+vous serez couru(e)s
+ils (elles) seront couru(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais couru(e)
+tu serais couru(e)
+il (elle) serait couru(e)
+nous serions couru(e)s
+vous seriez couru(e)s
+ils (elles) seraient couru(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois couru(e)
+que tu sois couru(e)
+qu’il (elle) soit couru(e)
+que nous soyons couru(e)s
+que vous soyez couru(e)s
+qu’ils (elles) soient couru(e)s
+
+** Imparfait
+
+que je fusse couru(e)
+que tu fusses couru(e)
+qu’il (elle) fût couru(e)
+que nous fussions couru(e)s
+que vous fussiez couru(e)s
+qu’ils (elles) fussent couru(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons couru(e)s
+soyez couru(e)s
+
+* INFINITIF
+
+** Présent
+
+être couru(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant couru(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été couru(e)
+tu as été couru(e)
+il (elle) a été couru(e)
+nous avons été couru(e)s
+vous avez été couru(e)s
+ils (elles) ont été couru(e)s
+
+** Plus-que-parfait
+
+j'avais été couru(e)
+il (elle) avait été couru(e)
+nous avions été couru(e)s
+ils (elles) avaient été couru(e)s
+
+** Passé antérieur
+
+j'eus été couru(e)
+tu eus été couru(e)
+il (elle) eut été couru(e)
+nous eûmes été couru(e)s
+vous eûtes été couru(e)s
+ils (elles) eurent été couru(e)s
+
+** Futur antérieur
+
+j'aurai été couru(e)
+tu auras été couru(e)
+il (elle) aura été couru(e)
+nous aurons été couru(e)s
+vous aurez été couru(e)s
+ils (elles) auront été couru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été couru(e)
+j'aurais été couru(e)
+il (elle) aurait été couru(e)
+nous aurions été couru(e)s
+vous auriez été couru(e)s
+ils (elles) auraient été couru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été couru(e)
+que tu aies été couru(e)
+qu’il (elle) ait été couru(e)
+que nous ayons été couru(e)s
+que vous ayez été couru(e)s
+qu’ils (elles) aient été couru(e)s
+
+** Plus-que-parfait
+
+que j'eusse été couru(e)
+que tu eusses été couru(e)
+qu’il (elle) eût été couru(e)
+que nous eussions été couru(e)s
+que vous eussiez été couru(e)s
+qu’ils (elles) eussent été couru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été couru(e)
+ayons été couru(e)s
+ayez été couru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été couru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été couru(e)(s)

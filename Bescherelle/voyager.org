@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe voyager
+
+* INDICATIF
+
+** Présent
+
+je voyage
+tu voyages
+il (elle) voyage
+nous voyageons
+vous voyagez
+ils (elles) voyagent
+
+** Imparfait
+
+je voyageais
+tu voyageais
+il (elle) voyageait
+nous voyagions
+vous voyagiez
+ils (elles) voyageaient
+
+** Passé simple
+
+je voyageai
+tu voyageas
+il (elle) voyagea
+nous voyageâmes
+vous voyageâtes
+ils (elles) voyagèrent
+
+** Futur simple
+
+je voyagerai
+tu voyageras
+il (elle) voyagera
+nous voyagerons
+vous voyagerez
+ils (elles) voyageront
+
+* CONDITIONNEL
+
+** Présent
+
+je voyagerais
+tu voyagerais
+il (elle) voyagerait
+nous voyagerions
+vous voyageriez
+ils (elles) voyageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je voyage
+que tu voyages
+qu’il (elle) voyage
+que nous voyagions
+que vous voyagiez
+qu’ils (elles) voyagent
+
+** Imparfait
+
+que je voyageasse
+que tu voyageasses
+qu’il (elle) voyageât
+que nous voyageassions
+que vous voyageassiez
+qu’ils (elles) voyageassent
+
+* IMPÉRATIF
+
+** Présent
+
+voyage
+voyageons
+voyagez
+
+* INFINITIF
+
+** Présent
+
+voyager
+
+* PARTICIPE
+
+** Présent
+
+voyageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voyagé
+tu as voyagé
+il (elle) a voyagé
+nous avons voyagé
+vous avez voyagé
+ils (elles) ont voyagé
+
+** Plus-que-parfait
+
+j'avais voyagé
+tu avais voyagé
+il (elle) avait voyagé
+nous avions voyagé
+vous aviez voyagé
+ils (elles) avaient voyagé
+
+** Passé antérieur
+
+j'eus voyagé
+tu eus voyagé
+il (elle) eut voyagé
+nous eûmes voyagé
+vous eûtes voyagé
+ils (elles) eurent voyagé
+
+** Futur antérieur
+
+j'aurai voyagé
+tu auras voyagé
+il (elle) aura voyagé
+nous aurons voyagé
+vous aurez voyagé
+ils (elles) auront voyagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voyagé
+tu aurais voyagé
+il (elle) aurait voyagé
+nous aurions voyagé
+vous auriez voyagé
+ils (elles) auraient voyagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voyagé
+que tu aies voyagé
+qu’il (elle) ait voyagé
+que nous ayons voyagé
+que vous ayez voyagé
+qu’ils (elles) aient voyagé
+
+** Plus-que-parfait
+
+que j'eusse voyagé
+que tu eusses voyagé
+qu’il (elle) eût voyagé
+que nous eussions voyagé
+que vous eussiez voyagé
+qu’ils (elles) eussent voyagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voyagé
+ayez voyagé
+
+* INFINITIF
+
+** Passé
+
+avoir voyagé
+
+* PARTICIPE
+
+** Passé
+
+ayant voyagé
+voyagé (invar.)

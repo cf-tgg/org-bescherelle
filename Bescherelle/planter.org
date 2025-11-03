@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe planter
+
+* INDICATIF
+
+** Présent
+
+je plante
+tu plantes
+il (elle) plante
+nous plantons
+vous plantez
+ils (elles) plantent
+
+** Imparfait
+
+je plantais
+tu plantais
+il (elle) plantait
+nous plantions
+vous plantiez
+ils (elles) plantaient
+
+** Passé simple
+
+je plantai
+tu plantas
+il (elle) planta
+nous plantâmes
+vous plantâtes
+ils (elles) plantèrent
+
+** Futur simple
+
+je planterai
+tu planteras
+il (elle) plantera
+nous planterons
+vous planterez
+ils (elles) planteront
+
+* CONDITIONNEL
+
+** Présent
+
+je planterais
+tu planterais
+il (elle) planterait
+nous planterions
+vous planteriez
+ils (elles) planteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plante
+que tu plantes
+qu’il (elle) plante
+que nous plantions
+que vous plantiez
+qu’ils (elles) plantent
+
+** Imparfait
+
+que je plantasse
+que tu plantasses
+qu’il (elle) plantât
+que nous plantassions
+que vous plantassiez
+qu’ils (elles) plantassent
+
+* IMPÉRATIF
+
+** Présent
+
+plante
+plantons
+plantez
+
+* INFINITIF
+
+** Présent
+
+planter
+
+* PARTICIPE
+
+** Présent
+
+plantant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai planté
+tu as planté
+il (elle) a planté
+nous avons planté
+vous avez planté
+ils (elles) ont planté
+
+** Plus-que-parfait
+
+j'avais planté
+tu avais planté
+il (elle) avait planté
+nous avions planté
+vous aviez planté
+ils (elles) avaient planté
+
+** Passé antérieur
+
+j'eus planté
+tu eus planté
+il (elle) eut planté
+nous eûmes planté
+vous eûtes planté
+ils (elles) eurent planté
+
+** Futur antérieur
+
+j'aurai planté
+tu auras planté
+il (elle) aura planté
+nous aurons planté
+vous aurez planté
+ils (elles) auront planté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais planté
+tu aurais planté
+il (elle) aurait planté
+nous aurions planté
+vous auriez planté
+ils (elles) auraient planté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie planté
+que tu aies planté
+qu’il (elle) ait planté
+que nous ayons planté
+que vous ayez planté
+qu’ils (elles) aient planté
+
+** Plus-que-parfait
+
+que j'eusse planté
+que tu eusses planté
+qu’il (elle) eût planté
+que nous eussions planté
+que vous eussiez planté
+qu’ils (elles) eussent planté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons planté
+ayez planté
+
+* INFINITIF
+
+** Passé
+
+avoir planté
+
+* PARTICIPE
+
+** Passé
+
+ayant planté
+planté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis planté(e)
+tu es planté(e)
+il (elle) est planté(e)
+nous sommes planté(e)s
+vous êtes planté(e)s
+ils (elles) sont planté(e)s
+
+** Imparfait
+
+j'étais planté(e)
+tu étais planté(e)
+il (elle) était planté(e)
+nous étions planté(e)s
+vous étiez planté(e)s
+ils (elles) étaient planté(e)s
+
+** Passé simple
+
+je fus planté(e)
+tu fus planté(e)
+il (elle) fut planté(e)
+nous fûmes planté(e)s
+vous fûtes planté(e)s
+ils (elles) furent planté(e)s
+
+** Futur simple
+
+je serai planté(e)
+tu seras planté(e)
+il (elle) sera planté(e)
+nous serons planté(e)s
+vous serez planté(e)s
+ils (elles) seront planté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais planté(e)
+tu serais planté(e)
+il (elle) serait planté(e)
+nous serions planté(e)s
+vous seriez planté(e)s
+ils (elles) seraient planté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois planté(e)
+que tu sois planté(e)
+qu’il (elle) soit planté(e)
+que nous soyons planté(e)s
+que vous soyez planté(e)s
+qu’ils (elles) soient planté(e)s
+
+** Imparfait
+
+que je fusse planté(e)
+que tu fusses planté(e)
+qu’il (elle) fût planté(e)
+que nous fussions planté(e)s
+que vous fussiez planté(e)s
+qu’ils (elles) fussent planté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons planté(e)s
+soyez planté(e)s
+
+* INFINITIF
+
+** Présent
+
+être planté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant planté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été planté(e)
+tu as été planté(e)
+il (elle) a été planté(e)
+nous avons été planté(e)s
+vous avez été planté(e)s
+ils (elles) ont été planté(e)s
+
+** Plus-que-parfait
+
+j'avais été planté(e)
+il (elle) avait été planté(e)
+nous avions été planté(e)s
+ils (elles) avaient été planté(e)s
+
+** Passé antérieur
+
+j'eus été planté(e)
+tu eus été planté(e)
+il (elle) eut été planté(e)
+nous eûmes été planté(e)s
+vous eûtes été planté(e)s
+ils (elles) eurent été planté(e)s
+
+** Futur antérieur
+
+j'aurai été planté(e)
+tu auras été planté(e)
+il (elle) aura été planté(e)
+nous aurons été planté(e)s
+vous aurez été planté(e)s
+ils (elles) auront été planté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été planté(e)
+j'aurais été planté(e)
+il (elle) aurait été planté(e)
+nous aurions été planté(e)s
+vous auriez été planté(e)s
+ils (elles) auraient été planté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été planté(e)
+que tu aies été planté(e)
+qu’il (elle) ait été planté(e)
+que nous ayons été planté(e)s
+que vous ayez été planté(e)s
+qu’ils (elles) aient été planté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été planté(e)
+que tu eusses été planté(e)
+qu’il (elle) eût été planté(e)
+que nous eussions été planté(e)s
+que vous eussiez été planté(e)s
+qu’ils (elles) eussent été planté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été planté(e)
+ayons été planté(e)s
+ayez été planté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été planté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été planté(e)(s)

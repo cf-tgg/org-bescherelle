@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe influer
+
+* INDICATIF
+
+** Présent
+
+j'influe
+tu influes
+il (elle) influe
+nous influons
+vous influez
+ils (elles) influent
+
+** Imparfait
+
+j'influais
+tu influais
+il (elle) influait
+nous influions
+vous influiez
+ils (elles) influaient
+
+** Passé simple
+
+j'influai
+tu influas
+il (elle) influa
+nous influâmes
+vous influâtes
+ils (elles) influèrent
+
+** Futur simple
+
+j'influerai
+tu influeras
+il (elle) influera
+nous influerons
+vous influerez
+ils (elles) influeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'influerais
+tu influerais
+il (elle) influerait
+nous influerions
+vous influeriez
+ils (elles) influeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'influe
+que tu influes
+qu’il (elle) influe
+que nous influions
+que vous influiez
+qu’ils (elles) influent
+
+** Imparfait
+
+que j'influasse
+que tu influasses
+qu’il (elle) influât
+que nous influassions
+que vous influassiez
+qu’ils (elles) influassent
+
+* IMPÉRATIF
+
+** Présent
+
+influe
+influons
+influez
+
+* INFINITIF
+
+** Présent
+
+influer
+
+* PARTICIPE
+
+** Présent
+
+influant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai influé
+tu as influé
+il (elle) a influé
+nous avons influé
+vous avez influé
+ils (elles) ont influé
+
+** Plus-que-parfait
+
+j'avais influé
+tu avais influé
+il (elle) avait influé
+nous avions influé
+vous aviez influé
+ils (elles) avaient influé
+
+** Passé antérieur
+
+j'eus influé
+tu eus influé
+il (elle) eut influé
+nous eûmes influé
+vous eûtes influé
+ils (elles) eurent influé
+
+** Futur antérieur
+
+j'aurai influé
+tu auras influé
+il (elle) aura influé
+nous aurons influé
+vous aurez influé
+ils (elles) auront influé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais influé
+tu aurais influé
+il (elle) aurait influé
+nous aurions influé
+vous auriez influé
+ils (elles) auraient influé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie influé
+que tu aies influé
+qu’il (elle) ait influé
+que nous ayons influé
+que vous ayez influé
+qu’ils (elles) aient influé
+
+** Plus-que-parfait
+
+que j'eusse influé
+que tu eusses influé
+qu’il (elle) eût influé
+que nous eussions influé
+que vous eussiez influé
+qu’ils (elles) eussent influé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons influé
+ayez influé
+
+* INFINITIF
+
+** Passé
+
+avoir influé
+
+* PARTICIPE
+
+** Passé
+
+ayant influé
+influé (invar.)

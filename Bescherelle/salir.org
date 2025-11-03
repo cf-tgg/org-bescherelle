@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe salir
+
+* INDICATIF
+
+** Présent
+
+je salis
+tu salis
+il (elle) salit
+nous salissons
+vous salissez
+ils (elles) salissent
+
+** Imparfait
+
+je salissais
+tu salissais
+il (elle) salissait
+nous salissions
+vous salissiez
+ils (elles) salissaient
+
+** Passé simple
+
+je salis
+tu salis
+il (elle) salit
+nous salîmes
+vous salîtes
+ils (elles) salirent
+
+** Futur simple
+
+je salirai
+tu saliras
+il (elle) salira
+nous salirons
+vous salirez
+ils (elles) saliront
+
+* CONDITIONNEL
+
+** Présent
+
+je salirais
+tu salirais
+il (elle) salirait
+nous salirions
+vous saliriez
+ils (elles) saliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je salisse
+que tu salisses
+qu’il (elle) salisse
+que nous salissions
+que vous salissiez
+qu’ils (elles) salissent
+
+** Imparfait
+
+que je salisse
+que tu salisses
+qu’il (elle) salît
+que nous salissions
+que vous salissiez
+qu’ils (elles) salissent
+
+* IMPÉRATIF
+
+** Présent
+
+salis
+salissons
+salissez
+
+* INFINITIF
+
+** Présent
+
+salir
+
+* PARTICIPE
+
+** Présent
+
+salissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sali
+tu as sali
+il (elle) a sali
+nous avons sali
+vous avez sali
+ils (elles) ont sali
+
+** Plus-que-parfait
+
+j'avais sali
+tu avais sali
+il (elle) avait sali
+nous avions sali
+vous aviez sali
+ils (elles) avaient sali
+
+** Passé antérieur
+
+j'eus sali
+tu eus sali
+il (elle) eut sali
+nous eûmes sali
+vous eûtes sali
+ils (elles) eurent sali
+
+** Futur antérieur
+
+j'aurai sali
+tu auras sali
+il (elle) aura sali
+nous aurons sali
+vous aurez sali
+ils (elles) auront sali
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sali
+tu aurais sali
+il (elle) aurait sali
+nous aurions sali
+vous auriez sali
+ils (elles) auraient sali
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sali
+que tu aies sali
+qu’il (elle) ait sali
+que nous ayons sali
+que vous ayez sali
+qu’ils (elles) aient sali
+
+** Plus-que-parfait
+
+que j'eusse sali
+que tu eusses sali
+qu’il (elle) eût sali
+que nous eussions sali
+que vous eussiez sali
+qu’ils (elles) eussent sali
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sali
+ayez sali
+
+* INFINITIF
+
+** Passé
+
+avoir sali
+
+* PARTICIPE
+
+** Passé
+
+ayant sali
+sali (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis sali(e)
+tu es sali(e)
+il (elle) est sali(e)
+nous sommes sali(e)s
+vous êtes sali(e)s
+ils (elles) sont sali(e)s
+
+** Imparfait
+
+j'étais sali(e)
+tu étais sali(e)
+il (elle) était sali(e)
+nous étions sali(e)s
+vous étiez sali(e)s
+ils (elles) étaient sali(e)s
+
+** Passé simple
+
+je fus sali(e)
+tu fus sali(e)
+il (elle) fut sali(e)
+nous fûmes sali(e)s
+vous fûtes sali(e)s
+ils (elles) furent sali(e)s
+
+** Futur simple
+
+je serai sali(e)
+tu seras sali(e)
+il (elle) sera sali(e)
+nous serons sali(e)s
+vous serez sali(e)s
+ils (elles) seront sali(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sali(e)
+tu serais sali(e)
+il (elle) serait sali(e)
+nous serions sali(e)s
+vous seriez sali(e)s
+ils (elles) seraient sali(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sali(e)
+que tu sois sali(e)
+qu’il (elle) soit sali(e)
+que nous soyons sali(e)s
+que vous soyez sali(e)s
+qu’ils (elles) soient sali(e)s
+
+** Imparfait
+
+que je fusse sali(e)
+que tu fusses sali(e)
+qu’il (elle) fût sali(e)
+que nous fussions sali(e)s
+que vous fussiez sali(e)s
+qu’ils (elles) fussent sali(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sali(e)s
+soyez sali(e)s
+
+* INFINITIF
+
+** Présent
+
+être sali(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sali(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sali(e)
+tu as été sali(e)
+il (elle) a été sali(e)
+nous avons été sali(e)s
+vous avez été sali(e)s
+ils (elles) ont été sali(e)s
+
+** Plus-que-parfait
+
+j'avais été sali(e)
+il (elle) avait été sali(e)
+nous avions été sali(e)s
+ils (elles) avaient été sali(e)s
+
+** Passé antérieur
+
+j'eus été sali(e)
+tu eus été sali(e)
+il (elle) eut été sali(e)
+nous eûmes été sali(e)s
+vous eûtes été sali(e)s
+ils (elles) eurent été sali(e)s
+
+** Futur antérieur
+
+j'aurai été sali(e)
+tu auras été sali(e)
+il (elle) aura été sali(e)
+nous aurons été sali(e)s
+vous aurez été sali(e)s
+ils (elles) auront été sali(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sali(e)
+j'aurais été sali(e)
+il (elle) aurait été sali(e)
+nous aurions été sali(e)s
+vous auriez été sali(e)s
+ils (elles) auraient été sali(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sali(e)
+que tu aies été sali(e)
+qu’il (elle) ait été sali(e)
+que nous ayons été sali(e)s
+que vous ayez été sali(e)s
+qu’ils (elles) aient été sali(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sali(e)
+que tu eusses été sali(e)
+qu’il (elle) eût été sali(e)
+que nous eussions été sali(e)s
+que vous eussiez été sali(e)s
+qu’ils (elles) eussent été sali(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sali(e)
+ayons été sali(e)s
+ayez été sali(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sali(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sali(e)(s)

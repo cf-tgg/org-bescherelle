@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe balbutier
+
+* INDICATIF
+
+** Présent
+
+je balbutie
+tu balbuties
+il (elle) balbutie
+nous balbutions
+vous balbutiez
+ils (elles) balbutient
+
+** Imparfait
+
+je balbutiais
+tu balbutiais
+il (elle) balbutiait
+nous balbutiions
+vous balbutiiez
+ils (elles) balbutiaient
+
+** Passé simple
+
+je balbutiai
+tu balbutias
+il (elle) balbutia
+nous balbutiâmes
+vous balbutiâtes
+ils (elles) balbutièrent
+
+** Futur simple
+
+je balbutierai
+tu balbutieras
+il (elle) balbutiera
+nous balbutierons
+vous balbutierez
+ils (elles) balbutieront
+
+* CONDITIONNEL
+
+** Présent
+
+je balbutierais
+tu balbutierais
+il (elle) balbutierait
+nous balbutierions
+vous balbutieriez
+ils (elles) balbutieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je balbutie
+que tu balbuties
+qu’il (elle) balbutie
+que nous balbutiions
+que vous balbutiiez
+qu’ils (elles) balbutient
+
+** Imparfait
+
+que je balbutiasse
+que tu balbutiasses
+qu’il (elle) balbutiât
+que nous balbutiassions
+que vous balbutiassiez
+qu’ils (elles) balbutiassent
+
+* IMPÉRATIF
+
+** Présent
+
+balbutie
+balbutions
+balbutiez
+
+* INFINITIF
+
+** Présent
+
+balbutier
+
+* PARTICIPE
+
+** Présent
+
+balbutiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai balbutié
+tu as balbutié
+il (elle) a balbutié
+nous avons balbutié
+vous avez balbutié
+ils (elles) ont balbutié
+
+** Plus-que-parfait
+
+j'avais balbutié
+tu avais balbutié
+il (elle) avait balbutié
+nous avions balbutié
+vous aviez balbutié
+ils (elles) avaient balbutié
+
+** Passé antérieur
+
+j'eus balbutié
+tu eus balbutié
+il (elle) eut balbutié
+nous eûmes balbutié
+vous eûtes balbutié
+ils (elles) eurent balbutié
+
+** Futur antérieur
+
+j'aurai balbutié
+tu auras balbutié
+il (elle) aura balbutié
+nous aurons balbutié
+vous aurez balbutié
+ils (elles) auront balbutié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais balbutié
+tu aurais balbutié
+il (elle) aurait balbutié
+nous aurions balbutié
+vous auriez balbutié
+ils (elles) auraient balbutié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie balbutié
+que tu aies balbutié
+qu’il (elle) ait balbutié
+que nous ayons balbutié
+que vous ayez balbutié
+qu’ils (elles) aient balbutié
+
+** Plus-que-parfait
+
+que j'eusse balbutié
+que tu eusses balbutié
+qu’il (elle) eût balbutié
+que nous eussions balbutié
+que vous eussiez balbutié
+qu’ils (elles) eussent balbutié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons balbutié
+ayez balbutié
+
+* INFINITIF
+
+** Passé
+
+avoir balbutié
+
+* PARTICIPE
+
+** Passé
+
+ayant balbutié
+balbutié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis balbutié(e)
+tu es balbutié(e)
+il (elle) est balbutié(e)
+nous sommes balbutié(e)s
+vous êtes balbutié(e)s
+ils (elles) sont balbutié(e)s
+
+** Imparfait
+
+j'étais balbutié(e)
+tu étais balbutié(e)
+il (elle) était balbutié(e)
+nous étions balbutié(e)s
+vous étiez balbutié(e)s
+ils (elles) étaient balbutié(e)s
+
+** Passé simple
+
+je fus balbutié(e)
+tu fus balbutié(e)
+il (elle) fut balbutié(e)
+nous fûmes balbutié(e)s
+vous fûtes balbutié(e)s
+ils (elles) furent balbutié(e)s
+
+** Futur simple
+
+je serai balbutié(e)
+tu seras balbutié(e)
+il (elle) sera balbutié(e)
+nous serons balbutié(e)s
+vous serez balbutié(e)s
+ils (elles) seront balbutié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais balbutié(e)
+tu serais balbutié(e)
+il (elle) serait balbutié(e)
+nous serions balbutié(e)s
+vous seriez balbutié(e)s
+ils (elles) seraient balbutié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois balbutié(e)
+que tu sois balbutié(e)
+qu’il (elle) soit balbutié(e)
+que nous soyons balbutié(e)s
+que vous soyez balbutié(e)s
+qu’ils (elles) soient balbutié(e)s
+
+** Imparfait
+
+que je fusse balbutié(e)
+que tu fusses balbutié(e)
+qu’il (elle) fût balbutié(e)
+que nous fussions balbutié(e)s
+que vous fussiez balbutié(e)s
+qu’ils (elles) fussent balbutié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons balbutié(e)s
+soyez balbutié(e)s
+
+* INFINITIF
+
+** Présent
+
+être balbutié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant balbutié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été balbutié(e)
+tu as été balbutié(e)
+il (elle) a été balbutié(e)
+nous avons été balbutié(e)s
+vous avez été balbutié(e)s
+ils (elles) ont été balbutié(e)s
+
+** Plus-que-parfait
+
+j'avais été balbutié(e)
+il (elle) avait été balbutié(e)
+nous avions été balbutié(e)s
+ils (elles) avaient été balbutié(e)s
+
+** Passé antérieur
+
+j'eus été balbutié(e)
+tu eus été balbutié(e)
+il (elle) eut été balbutié(e)
+nous eûmes été balbutié(e)s
+vous eûtes été balbutié(e)s
+ils (elles) eurent été balbutié(e)s
+
+** Futur antérieur
+
+j'aurai été balbutié(e)
+tu auras été balbutié(e)
+il (elle) aura été balbutié(e)
+nous aurons été balbutié(e)s
+vous aurez été balbutié(e)s
+ils (elles) auront été balbutié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été balbutié(e)
+j'aurais été balbutié(e)
+il (elle) aurait été balbutié(e)
+nous aurions été balbutié(e)s
+vous auriez été balbutié(e)s
+ils (elles) auraient été balbutié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été balbutié(e)
+que tu aies été balbutié(e)
+qu’il (elle) ait été balbutié(e)
+que nous ayons été balbutié(e)s
+que vous ayez été balbutié(e)s
+qu’ils (elles) aient été balbutié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été balbutié(e)
+que tu eusses été balbutié(e)
+qu’il (elle) eût été balbutié(e)
+que nous eussions été balbutié(e)s
+que vous eussiez été balbutié(e)s
+qu’ils (elles) eussent été balbutié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été balbutié(e)
+ayons été balbutié(e)s
+ayez été balbutié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été balbutié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été balbutié(e)(s)

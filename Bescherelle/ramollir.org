@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ramollir
+
+* INDICATIF
+
+** Présent
+
+je ramollis
+tu ramollis
+il (elle) ramollit
+nous ramollissons
+vous ramollissez
+ils (elles) ramollissent
+
+** Imparfait
+
+je ramollissais
+tu ramollissais
+il (elle) ramollissait
+nous ramollissions
+vous ramollissiez
+ils (elles) ramollissaient
+
+** Passé simple
+
+je ramollis
+tu ramollis
+il (elle) ramollit
+nous ramollîmes
+vous ramollîtes
+ils (elles) ramollirent
+
+** Futur simple
+
+je ramollirai
+tu ramolliras
+il (elle) ramollira
+nous ramollirons
+vous ramollirez
+ils (elles) ramolliront
+
+* CONDITIONNEL
+
+** Présent
+
+je ramollirais
+tu ramollirais
+il (elle) ramollirait
+nous ramollirions
+vous ramolliriez
+ils (elles) ramolliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ramollisse
+que tu ramollisses
+qu’il (elle) ramollisse
+que nous ramollissions
+que vous ramollissiez
+qu’ils (elles) ramollissent
+
+** Imparfait
+
+que je ramollisse
+que tu ramollisses
+qu’il (elle) ramollît
+que nous ramollissions
+que vous ramollissiez
+qu’ils (elles) ramollissent
+
+* IMPÉRATIF
+
+** Présent
+
+ramollis
+ramollissons
+ramollissez
+
+* INFINITIF
+
+** Présent
+
+ramollir
+
+* PARTICIPE
+
+** Présent
+
+ramollissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ramolli
+tu as ramolli
+il (elle) a ramolli
+nous avons ramolli
+vous avez ramolli
+ils (elles) ont ramolli
+
+** Plus-que-parfait
+
+j'avais ramolli
+tu avais ramolli
+il (elle) avait ramolli
+nous avions ramolli
+vous aviez ramolli
+ils (elles) avaient ramolli
+
+** Passé antérieur
+
+j'eus ramolli
+tu eus ramolli
+il (elle) eut ramolli
+nous eûmes ramolli
+vous eûtes ramolli
+ils (elles) eurent ramolli
+
+** Futur antérieur
+
+j'aurai ramolli
+tu auras ramolli
+il (elle) aura ramolli
+nous aurons ramolli
+vous aurez ramolli
+ils (elles) auront ramolli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ramolli
+tu aurais ramolli
+il (elle) aurait ramolli
+nous aurions ramolli
+vous auriez ramolli
+ils (elles) auraient ramolli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ramolli
+que tu aies ramolli
+qu’il (elle) ait ramolli
+que nous ayons ramolli
+que vous ayez ramolli
+qu’ils (elles) aient ramolli
+
+** Plus-que-parfait
+
+que j'eusse ramolli
+que tu eusses ramolli
+qu’il (elle) eût ramolli
+que nous eussions ramolli
+que vous eussiez ramolli
+qu’ils (elles) eussent ramolli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ramolli
+ayez ramolli
+
+* INFINITIF
+
+** Passé
+
+avoir ramolli
+
+* PARTICIPE
+
+** Passé
+
+ayant ramolli
+ramolli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis ramolli(e)
+tu es ramolli(e)
+il (elle) est ramolli(e)
+nous sommes ramolli(e)s
+vous êtes ramolli(e)s
+ils (elles) sont ramolli(e)s
+
+** Imparfait
+
+j'étais ramolli(e)
+tu étais ramolli(e)
+il (elle) était ramolli(e)
+nous étions ramolli(e)s
+vous étiez ramolli(e)s
+ils (elles) étaient ramolli(e)s
+
+** Passé simple
+
+je fus ramolli(e)
+tu fus ramolli(e)
+il (elle) fut ramolli(e)
+nous fûmes ramolli(e)s
+vous fûtes ramolli(e)s
+ils (elles) furent ramolli(e)s
+
+** Futur simple
+
+je serai ramolli(e)
+tu seras ramolli(e)
+il (elle) sera ramolli(e)
+nous serons ramolli(e)s
+vous serez ramolli(e)s
+ils (elles) seront ramolli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ramolli(e)
+tu serais ramolli(e)
+il (elle) serait ramolli(e)
+nous serions ramolli(e)s
+vous seriez ramolli(e)s
+ils (elles) seraient ramolli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ramolli(e)
+que tu sois ramolli(e)
+qu’il (elle) soit ramolli(e)
+que nous soyons ramolli(e)s
+que vous soyez ramolli(e)s
+qu’ils (elles) soient ramolli(e)s
+
+** Imparfait
+
+que je fusse ramolli(e)
+que tu fusses ramolli(e)
+qu’il (elle) fût ramolli(e)
+que nous fussions ramolli(e)s
+que vous fussiez ramolli(e)s
+qu’ils (elles) fussent ramolli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ramolli(e)s
+soyez ramolli(e)s
+
+* INFINITIF
+
+** Présent
+
+être ramolli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ramolli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ramolli(e)
+tu as été ramolli(e)
+il (elle) a été ramolli(e)
+nous avons été ramolli(e)s
+vous avez été ramolli(e)s
+ils (elles) ont été ramolli(e)s
+
+** Plus-que-parfait
+
+j'avais été ramolli(e)
+il (elle) avait été ramolli(e)
+nous avions été ramolli(e)s
+ils (elles) avaient été ramolli(e)s
+
+** Passé antérieur
+
+j'eus été ramolli(e)
+tu eus été ramolli(e)
+il (elle) eut été ramolli(e)
+nous eûmes été ramolli(e)s
+vous eûtes été ramolli(e)s
+ils (elles) eurent été ramolli(e)s
+
+** Futur antérieur
+
+j'aurai été ramolli(e)
+tu auras été ramolli(e)
+il (elle) aura été ramolli(e)
+nous aurons été ramolli(e)s
+vous aurez été ramolli(e)s
+ils (elles) auront été ramolli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ramolli(e)
+j'aurais été ramolli(e)
+il (elle) aurait été ramolli(e)
+nous aurions été ramolli(e)s
+vous auriez été ramolli(e)s
+ils (elles) auraient été ramolli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ramolli(e)
+que tu aies été ramolli(e)
+qu’il (elle) ait été ramolli(e)
+que nous ayons été ramolli(e)s
+que vous ayez été ramolli(e)s
+qu’ils (elles) aient été ramolli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ramolli(e)
+que tu eusses été ramolli(e)
+qu’il (elle) eût été ramolli(e)
+que nous eussions été ramolli(e)s
+que vous eussiez été ramolli(e)s
+qu’ils (elles) eussent été ramolli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ramolli(e)
+ayons été ramolli(e)s
+ayez été ramolli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ramolli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ramolli(e)(s)

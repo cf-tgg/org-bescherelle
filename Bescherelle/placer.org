@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe placer
+
+* INDICATIF
+
+** Présent
+
+je place
+tu places
+il (elle) place
+nous plaçons
+vous placez
+ils (elles) placent
+
+** Imparfait
+
+je plaçais
+tu plaçais
+il (elle) plaçait
+nous placions
+vous placiez
+ils (elles) plaçaient
+
+** Passé simple
+
+je plaçai
+tu plaças
+il (elle) plaça
+nous plaçâmes
+vous plaçâtes
+ils (elles) placèrent
+
+** Futur simple
+
+je placerai
+tu placeras
+il (elle) placera
+nous placerons
+vous placerez
+ils (elles) placeront
+
+* CONDITIONNEL
+
+** Présent
+
+je placerais
+tu placerais
+il (elle) placerait
+nous placerions
+vous placeriez
+ils (elles) placeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je place
+que tu places
+qu’il (elle) place
+que nous placions
+que vous placiez
+qu’ils (elles) placent
+
+** Imparfait
+
+que je plaçasse
+que tu plaçasses
+qu’il (elle) plaçât
+que nous plaçassions
+que vous plaçassiez
+qu’ils (elles) plaçassent
+
+* IMPÉRATIF
+
+** Présent
+
+place
+plaçons
+placez
+
+* INFINITIF
+
+** Présent
+
+placer
+
+* PARTICIPE
+
+** Présent
+
+plaçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai placé
+tu as placé
+il (elle) a placé
+nous avons placé
+vous avez placé
+ils (elles) ont placé
+
+** Plus-que-parfait
+
+j'avais placé
+tu avais placé
+il (elle) avait placé
+nous avions placé
+vous aviez placé
+ils (elles) avaient placé
+
+** Passé antérieur
+
+j'eus placé
+tu eus placé
+il (elle) eut placé
+nous eûmes placé
+vous eûtes placé
+ils (elles) eurent placé
+
+** Futur antérieur
+
+j'aurai placé
+tu auras placé
+il (elle) aura placé
+nous aurons placé
+vous aurez placé
+ils (elles) auront placé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais placé
+tu aurais placé
+il (elle) aurait placé
+nous aurions placé
+vous auriez placé
+ils (elles) auraient placé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie placé
+que tu aies placé
+qu’il (elle) ait placé
+que nous ayons placé
+que vous ayez placé
+qu’ils (elles) aient placé
+
+** Plus-que-parfait
+
+que j'eusse placé
+que tu eusses placé
+qu’il (elle) eût placé
+que nous eussions placé
+que vous eussiez placé
+qu’ils (elles) eussent placé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons placé
+ayez placé
+
+* INFINITIF
+
+** Passé
+
+avoir placé
+
+* PARTICIPE
+
+** Passé
+
+ayant placé
+placé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis placé(e)
+tu es placé(e)
+il (elle) est placé(e)
+nous sommes placé(e)s
+vous êtes placé(e)s
+ils (elles) sont placé(e)s
+
+** Imparfait
+
+j'étais placé(e)
+tu étais placé(e)
+il (elle) était placé(e)
+nous étions placé(e)s
+vous étiez placé(e)s
+ils (elles) étaient placé(e)s
+
+** Passé simple
+
+je fus placé(e)
+tu fus placé(e)
+il (elle) fut placé(e)
+nous fûmes placé(e)s
+vous fûtes placé(e)s
+ils (elles) furent placé(e)s
+
+** Futur simple
+
+je serai placé(e)
+tu seras placé(e)
+il (elle) sera placé(e)
+nous serons placé(e)s
+vous serez placé(e)s
+ils (elles) seront placé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais placé(e)
+tu serais placé(e)
+il (elle) serait placé(e)
+nous serions placé(e)s
+vous seriez placé(e)s
+ils (elles) seraient placé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois placé(e)
+que tu sois placé(e)
+qu’il (elle) soit placé(e)
+que nous soyons placé(e)s
+que vous soyez placé(e)s
+qu’ils (elles) soient placé(e)s
+
+** Imparfait
+
+que je fusse placé(e)
+que tu fusses placé(e)
+qu’il (elle) fût placé(e)
+que nous fussions placé(e)s
+que vous fussiez placé(e)s
+qu’ils (elles) fussent placé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons placé(e)s
+soyez placé(e)s
+
+* INFINITIF
+
+** Présent
+
+être placé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant placé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été placé(e)
+tu as été placé(e)
+il (elle) a été placé(e)
+nous avons été placé(e)s
+vous avez été placé(e)s
+ils (elles) ont été placé(e)s
+
+** Plus-que-parfait
+
+j'avais été placé(e)
+il (elle) avait été placé(e)
+nous avions été placé(e)s
+ils (elles) avaient été placé(e)s
+
+** Passé antérieur
+
+j'eus été placé(e)
+tu eus été placé(e)
+il (elle) eut été placé(e)
+nous eûmes été placé(e)s
+vous eûtes été placé(e)s
+ils (elles) eurent été placé(e)s
+
+** Futur antérieur
+
+j'aurai été placé(e)
+tu auras été placé(e)
+il (elle) aura été placé(e)
+nous aurons été placé(e)s
+vous aurez été placé(e)s
+ils (elles) auront été placé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été placé(e)
+j'aurais été placé(e)
+il (elle) aurait été placé(e)
+nous aurions été placé(e)s
+vous auriez été placé(e)s
+ils (elles) auraient été placé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été placé(e)
+que tu aies été placé(e)
+qu’il (elle) ait été placé(e)
+que nous ayons été placé(e)s
+que vous ayez été placé(e)s
+qu’ils (elles) aient été placé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été placé(e)
+que tu eusses été placé(e)
+qu’il (elle) eût été placé(e)
+que nous eussions été placé(e)s
+que vous eussiez été placé(e)s
+qu’ils (elles) eussent été placé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été placé(e)
+ayons été placé(e)s
+ayez été placé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été placé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été placé(e)(s)

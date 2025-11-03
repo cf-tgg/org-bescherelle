@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tester
+
+* INDICATIF
+
+** Présent
+
+je teste
+tu testes
+il (elle) teste
+nous testons
+vous testez
+ils (elles) testent
+
+** Imparfait
+
+je testais
+tu testais
+il (elle) testait
+nous testions
+vous testiez
+ils (elles) testaient
+
+** Passé simple
+
+je testai
+tu testas
+il (elle) testa
+nous testâmes
+vous testâtes
+ils (elles) testèrent
+
+** Futur simple
+
+je testerai
+tu testeras
+il (elle) testera
+nous testerons
+vous testerez
+ils (elles) testeront
+
+* CONDITIONNEL
+
+** Présent
+
+je testerais
+tu testerais
+il (elle) testerait
+nous testerions
+vous testeriez
+ils (elles) testeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je teste
+que tu testes
+qu’il (elle) teste
+que nous testions
+que vous testiez
+qu’ils (elles) testent
+
+** Imparfait
+
+que je testasse
+que tu testasses
+qu’il (elle) testât
+que nous testassions
+que vous testassiez
+qu’ils (elles) testassent
+
+* IMPÉRATIF
+
+** Présent
+
+teste
+testons
+testez
+
+* INFINITIF
+
+** Présent
+
+tester
+
+* PARTICIPE
+
+** Présent
+
+testant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai testé
+tu as testé
+il (elle) a testé
+nous avons testé
+vous avez testé
+ils (elles) ont testé
+
+** Plus-que-parfait
+
+j'avais testé
+tu avais testé
+il (elle) avait testé
+nous avions testé
+vous aviez testé
+ils (elles) avaient testé
+
+** Passé antérieur
+
+j'eus testé
+tu eus testé
+il (elle) eut testé
+nous eûmes testé
+vous eûtes testé
+ils (elles) eurent testé
+
+** Futur antérieur
+
+j'aurai testé
+tu auras testé
+il (elle) aura testé
+nous aurons testé
+vous aurez testé
+ils (elles) auront testé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais testé
+tu aurais testé
+il (elle) aurait testé
+nous aurions testé
+vous auriez testé
+ils (elles) auraient testé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie testé
+que tu aies testé
+qu’il (elle) ait testé
+que nous ayons testé
+que vous ayez testé
+qu’ils (elles) aient testé
+
+** Plus-que-parfait
+
+que j'eusse testé
+que tu eusses testé
+qu’il (elle) eût testé
+que nous eussions testé
+que vous eussiez testé
+qu’ils (elles) eussent testé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons testé
+ayez testé
+
+* INFINITIF
+
+** Passé
+
+avoir testé
+
+* PARTICIPE
+
+** Passé
+
+ayant testé
+testé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis testé(e)
+tu es testé(e)
+il (elle) est testé(e)
+nous sommes testé(e)s
+vous êtes testé(e)s
+ils (elles) sont testé(e)s
+
+** Imparfait
+
+j'étais testé(e)
+tu étais testé(e)
+il (elle) était testé(e)
+nous étions testé(e)s
+vous étiez testé(e)s
+ils (elles) étaient testé(e)s
+
+** Passé simple
+
+je fus testé(e)
+tu fus testé(e)
+il (elle) fut testé(e)
+nous fûmes testé(e)s
+vous fûtes testé(e)s
+ils (elles) furent testé(e)s
+
+** Futur simple
+
+je serai testé(e)
+tu seras testé(e)
+il (elle) sera testé(e)
+nous serons testé(e)s
+vous serez testé(e)s
+ils (elles) seront testé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais testé(e)
+tu serais testé(e)
+il (elle) serait testé(e)
+nous serions testé(e)s
+vous seriez testé(e)s
+ils (elles) seraient testé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois testé(e)
+que tu sois testé(e)
+qu’il (elle) soit testé(e)
+que nous soyons testé(e)s
+que vous soyez testé(e)s
+qu’ils (elles) soient testé(e)s
+
+** Imparfait
+
+que je fusse testé(e)
+que tu fusses testé(e)
+qu’il (elle) fût testé(e)
+que nous fussions testé(e)s
+que vous fussiez testé(e)s
+qu’ils (elles) fussent testé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons testé(e)s
+soyez testé(e)s
+
+* INFINITIF
+
+** Présent
+
+être testé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant testé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été testé(e)
+tu as été testé(e)
+il (elle) a été testé(e)
+nous avons été testé(e)s
+vous avez été testé(e)s
+ils (elles) ont été testé(e)s
+
+** Plus-que-parfait
+
+j'avais été testé(e)
+il (elle) avait été testé(e)
+nous avions été testé(e)s
+ils (elles) avaient été testé(e)s
+
+** Passé antérieur
+
+j'eus été testé(e)
+tu eus été testé(e)
+il (elle) eut été testé(e)
+nous eûmes été testé(e)s
+vous eûtes été testé(e)s
+ils (elles) eurent été testé(e)s
+
+** Futur antérieur
+
+j'aurai été testé(e)
+tu auras été testé(e)
+il (elle) aura été testé(e)
+nous aurons été testé(e)s
+vous aurez été testé(e)s
+ils (elles) auront été testé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été testé(e)
+j'aurais été testé(e)
+il (elle) aurait été testé(e)
+nous aurions été testé(e)s
+vous auriez été testé(e)s
+ils (elles) auraient été testé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été testé(e)
+que tu aies été testé(e)
+qu’il (elle) ait été testé(e)
+que nous ayons été testé(e)s
+que vous ayez été testé(e)s
+qu’ils (elles) aient été testé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été testé(e)
+que tu eusses été testé(e)
+qu’il (elle) eût été testé(e)
+que nous eussions été testé(e)s
+que vous eussiez été testé(e)s
+qu’ils (elles) eussent été testé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été testé(e)
+ayons été testé(e)s
+ayez été testé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été testé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été testé(e)(s)

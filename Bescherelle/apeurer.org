@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apeurer
+
+* INDICATIF
+
+** Présent
+
+j'apeure
+tu apeures
+il (elle) apeure
+nous apeurons
+vous apeurez
+ils (elles) apeurent
+
+** Imparfait
+
+j'apeurais
+tu apeurais
+il (elle) apeurait
+nous apeurions
+vous apeuriez
+ils (elles) apeuraient
+
+** Passé simple
+
+j'apeurai
+tu apeuras
+il (elle) apeura
+nous apeurâmes
+vous apeurâtes
+ils (elles) apeurèrent
+
+** Futur simple
+
+j'apeurerai
+tu apeureras
+il (elle) apeurera
+nous apeurerons
+vous apeurerez
+ils (elles) apeureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apeurerais
+tu apeurerais
+il (elle) apeurerait
+nous apeurerions
+vous apeureriez
+ils (elles) apeureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apeure
+que tu apeures
+qu’il (elle) apeure
+que nous apeurions
+que vous apeuriez
+qu’ils (elles) apeurent
+
+** Imparfait
+
+que j'apeurasse
+que tu apeurasses
+qu’il (elle) apeurât
+que nous apeurassions
+que vous apeurassiez
+qu’ils (elles) apeurassent
+
+* IMPÉRATIF
+
+** Présent
+
+apeure
+apeurons
+apeurez
+
+* INFINITIF
+
+** Présent
+
+apeurer
+
+* PARTICIPE
+
+** Présent
+
+apeurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apeuré
+tu as apeuré
+il (elle) a apeuré
+nous avons apeuré
+vous avez apeuré
+ils (elles) ont apeuré
+
+** Plus-que-parfait
+
+j'avais apeuré
+tu avais apeuré
+il (elle) avait apeuré
+nous avions apeuré
+vous aviez apeuré
+ils (elles) avaient apeuré
+
+** Passé antérieur
+
+j'eus apeuré
+tu eus apeuré
+il (elle) eut apeuré
+nous eûmes apeuré
+vous eûtes apeuré
+ils (elles) eurent apeuré
+
+** Futur antérieur
+
+j'aurai apeuré
+tu auras apeuré
+il (elle) aura apeuré
+nous aurons apeuré
+vous aurez apeuré
+ils (elles) auront apeuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apeuré
+tu aurais apeuré
+il (elle) aurait apeuré
+nous aurions apeuré
+vous auriez apeuré
+ils (elles) auraient apeuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apeuré
+que tu aies apeuré
+qu’il (elle) ait apeuré
+que nous ayons apeuré
+que vous ayez apeuré
+qu’ils (elles) aient apeuré
+
+** Plus-que-parfait
+
+que j'eusse apeuré
+que tu eusses apeuré
+qu’il (elle) eût apeuré
+que nous eussions apeuré
+que vous eussiez apeuré
+qu’ils (elles) eussent apeuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apeuré
+ayez apeuré
+
+* INFINITIF
+
+** Passé
+
+avoir apeuré
+
+* PARTICIPE
+
+** Passé
+
+ayant apeuré
+apeuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apeuré(e)
+tu es apeuré(e)
+il (elle) est apeuré(e)
+nous sommes apeuré(e)s
+vous êtes apeuré(e)s
+ils (elles) sont apeuré(e)s
+
+** Imparfait
+
+j'étais apeuré(e)
+tu étais apeuré(e)
+il (elle) était apeuré(e)
+nous étions apeuré(e)s
+vous étiez apeuré(e)s
+ils (elles) étaient apeuré(e)s
+
+** Passé simple
+
+je fus apeuré(e)
+tu fus apeuré(e)
+il (elle) fut apeuré(e)
+nous fûmes apeuré(e)s
+vous fûtes apeuré(e)s
+ils (elles) furent apeuré(e)s
+
+** Futur simple
+
+je serai apeuré(e)
+tu seras apeuré(e)
+il (elle) sera apeuré(e)
+nous serons apeuré(e)s
+vous serez apeuré(e)s
+ils (elles) seront apeuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apeuré(e)
+tu serais apeuré(e)
+il (elle) serait apeuré(e)
+nous serions apeuré(e)s
+vous seriez apeuré(e)s
+ils (elles) seraient apeuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apeuré(e)
+que tu sois apeuré(e)
+qu’il (elle) soit apeuré(e)
+que nous soyons apeuré(e)s
+que vous soyez apeuré(e)s
+qu’ils (elles) soient apeuré(e)s
+
+** Imparfait
+
+que je fusse apeuré(e)
+que tu fusses apeuré(e)
+qu’il (elle) fût apeuré(e)
+que nous fussions apeuré(e)s
+que vous fussiez apeuré(e)s
+qu’ils (elles) fussent apeuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apeuré(e)s
+soyez apeuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être apeuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apeuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apeuré(e)
+tu as été apeuré(e)
+il (elle) a été apeuré(e)
+nous avons été apeuré(e)s
+vous avez été apeuré(e)s
+ils (elles) ont été apeuré(e)s
+
+** Plus-que-parfait
+
+j'avais été apeuré(e)
+il (elle) avait été apeuré(e)
+nous avions été apeuré(e)s
+ils (elles) avaient été apeuré(e)s
+
+** Passé antérieur
+
+j'eus été apeuré(e)
+tu eus été apeuré(e)
+il (elle) eut été apeuré(e)
+nous eûmes été apeuré(e)s
+vous eûtes été apeuré(e)s
+ils (elles) eurent été apeuré(e)s
+
+** Futur antérieur
+
+j'aurai été apeuré(e)
+tu auras été apeuré(e)
+il (elle) aura été apeuré(e)
+nous aurons été apeuré(e)s
+vous aurez été apeuré(e)s
+ils (elles) auront été apeuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apeuré(e)
+j'aurais été apeuré(e)
+il (elle) aurait été apeuré(e)
+nous aurions été apeuré(e)s
+vous auriez été apeuré(e)s
+ils (elles) auraient été apeuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apeuré(e)
+que tu aies été apeuré(e)
+qu’il (elle) ait été apeuré(e)
+que nous ayons été apeuré(e)s
+que vous ayez été apeuré(e)s
+qu’ils (elles) aient été apeuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apeuré(e)
+que tu eusses été apeuré(e)
+qu’il (elle) eût été apeuré(e)
+que nous eussions été apeuré(e)s
+que vous eussiez été apeuré(e)s
+qu’ils (elles) eussent été apeuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apeuré(e)
+ayons été apeuré(e)s
+ayez été apeuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apeuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apeuré(e)(s)

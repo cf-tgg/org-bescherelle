@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dedire
+
+* INDICATIF
+
+** Présent
+
+je dédis
+tu dédis
+il (elle) dédit
+nous dédisons
+vous dédisez
+ils (elles) dédisent
+
+** Imparfait
+
+je dédisais
+tu dédisais
+il (elle) dédisait
+nous dédisions
+vous dédisiez
+ils (elles) dédisaient
+
+** Passé simple
+
+je dédis
+tu dédis
+il (elle) dédit
+nous dédîmes
+vous dédîtes
+ils (elles) dédirent
+
+** Futur simple
+
+je dédirai
+tu dédiras
+il (elle) dédira
+nous dédirons
+vous dédirez
+ils (elles) dédiront
+
+* CONDITIONNEL
+
+** Présent
+
+je dédirais
+tu dédirais
+il (elle) dédirait
+nous dédirions
+vous dédiriez
+ils (elles) dédiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dédise
+que tu dédises
+qu’il (elle) dédise
+que nous dédisions
+que vous dédisiez
+qu’ils (elles) dédisent
+
+** Imparfait
+
+que je dédisse
+que tu dédisses
+qu’il (elle) dédît
+que nous dédissions
+que vous dédissiez
+qu’ils (elles) dédissent
+
+* IMPÉRATIF
+
+** Présent
+
+dédis
+dédisons
+dédisez
+
+* INFINITIF
+
+** Présent
+
+dédire
+
+* PARTICIPE
+
+** Présent
+
+dédisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dédit
+tu as dédit
+il (elle) a dédit
+nous avons dédit
+vous avez dédit
+ils (elles) ont dédit
+
+** Plus-que-parfait
+
+j'avais dédit
+tu avais dédit
+il (elle) avait dédit
+nous avions dédit
+vous aviez dédit
+ils (elles) avaient dédit
+
+** Passé antérieur
+
+j'eus dédit
+tu eus dédit
+il (elle) eut dédit
+nous eûmes dédit
+vous eûtes dédit
+ils (elles) eurent dédit
+
+** Futur antérieur
+
+j'aurai dédit
+tu auras dédit
+il (elle) aura dédit
+nous aurons dédit
+vous aurez dédit
+ils (elles) auront dédit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dédit
+tu aurais dédit
+il (elle) aurait dédit
+nous aurions dédit
+vous auriez dédit
+ils (elles) auraient dédit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dédit
+que tu aies dédit
+qu’il (elle) ait dédit
+que nous ayons dédit
+que vous ayez dédit
+qu’ils (elles) aient dédit
+
+** Plus-que-parfait
+
+que j'eusse dédit
+que tu eusses dédit
+qu’il (elle) eût dédit
+que nous eussions dédit
+que vous eussiez dédit
+qu’ils (elles) eussent dédit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dédit
+ayez dédit
+
+* INFINITIF
+
+** Passé
+
+avoir dédit
+
+* PARTICIPE
+
+** Passé
+
+ayant dédit
+dédit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis dédit(e)
+tu es dédit(e)
+il (elle) est dédit(e)
+nous sommes dédit(e)s
+vous êtes dédit(e)s
+ils (elles) sont dédit(e)s
+
+** Imparfait
+
+j'étais dédit(e)
+tu étais dédit(e)
+il (elle) était dédit(e)
+nous étions dédit(e)s
+vous étiez dédit(e)s
+ils (elles) étaient dédit(e)s
+
+** Passé simple
+
+je fus dédit(e)
+tu fus dédit(e)
+il (elle) fut dédit(e)
+nous fûmes dédit(e)s
+vous fûtes dédit(e)s
+ils (elles) furent dédit(e)s
+
+** Futur simple
+
+je serai dédit(e)
+tu seras dédit(e)
+il (elle) sera dédit(e)
+nous serons dédit(e)s
+vous serez dédit(e)s
+ils (elles) seront dédit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dédit(e)
+tu serais dédit(e)
+il (elle) serait dédit(e)
+nous serions dédit(e)s
+vous seriez dédit(e)s
+ils (elles) seraient dédit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dédit(e)
+que tu sois dédit(e)
+qu’il (elle) soit dédit(e)
+que nous soyons dédit(e)s
+que vous soyez dédit(e)s
+qu’ils (elles) soient dédit(e)s
+
+** Imparfait
+
+que je fusse dédit(e)
+que tu fusses dédit(e)
+qu’il (elle) fût dédit(e)
+que nous fussions dédit(e)s
+que vous fussiez dédit(e)s
+qu’ils (elles) fussent dédit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dédit(e)s
+soyez dédit(e)s
+
+* INFINITIF
+
+** Présent
+
+être dédit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dédit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dédit(e)
+tu as été dédit(e)
+il (elle) a été dédit(e)
+nous avons été dédit(e)s
+vous avez été dédit(e)s
+ils (elles) ont été dédit(e)s
+
+** Plus-que-parfait
+
+j'avais été dédit(e)
+il (elle) avait été dédit(e)
+nous avions été dédit(e)s
+ils (elles) avaient été dédit(e)s
+
+** Passé antérieur
+
+j'eus été dédit(e)
+tu eus été dédit(e)
+il (elle) eut été dédit(e)
+nous eûmes été dédit(e)s
+vous eûtes été dédit(e)s
+ils (elles) eurent été dédit(e)s
+
+** Futur antérieur
+
+j'aurai été dédit(e)
+tu auras été dédit(e)
+il (elle) aura été dédit(e)
+nous aurons été dédit(e)s
+vous aurez été dédit(e)s
+ils (elles) auront été dédit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dédit(e)
+j'aurais été dédit(e)
+il (elle) aurait été dédit(e)
+nous aurions été dédit(e)s
+vous auriez été dédit(e)s
+ils (elles) auraient été dédit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dédit(e)
+que tu aies été dédit(e)
+qu’il (elle) ait été dédit(e)
+que nous ayons été dédit(e)s
+que vous ayez été dédit(e)s
+qu’ils (elles) aient été dédit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dédit(e)
+que tu eusses été dédit(e)
+qu’il (elle) eût été dédit(e)
+que nous eussions été dédit(e)s
+que vous eussiez été dédit(e)s
+qu’ils (elles) eussent été dédit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dédit(e)
+ayons été dédit(e)s
+ayez été dédit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dédit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dédit(e)(s)

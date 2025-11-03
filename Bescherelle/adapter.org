@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe adapter
+
+* INDICATIF
+
+** Présent
+
+j'adapte
+tu adaptes
+il (elle) adapte
+nous adaptons
+vous adaptez
+ils (elles) adaptent
+
+** Imparfait
+
+j'adaptais
+tu adaptais
+il (elle) adaptait
+nous adaptions
+vous adaptiez
+ils (elles) adaptaient
+
+** Passé simple
+
+j'adaptai
+tu adaptas
+il (elle) adapta
+nous adaptâmes
+vous adaptâtes
+ils (elles) adaptèrent
+
+** Futur simple
+
+j'adapterai
+tu adapteras
+il (elle) adaptera
+nous adapterons
+vous adapterez
+ils (elles) adapteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adapterais
+tu adapterais
+il (elle) adapterait
+nous adapterions
+vous adapteriez
+ils (elles) adapteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adapte
+que tu adaptes
+qu’il (elle) adapte
+que nous adaptions
+que vous adaptiez
+qu’ils (elles) adaptent
+
+** Imparfait
+
+que j'adaptasse
+que tu adaptasses
+qu’il (elle) adaptât
+que nous adaptassions
+que vous adaptassiez
+qu’ils (elles) adaptassent
+
+* IMPÉRATIF
+
+** Présent
+
+adapte
+adaptons
+adaptez
+
+* INFINITIF
+
+** Présent
+
+adapter
+
+* PARTICIPE
+
+** Présent
+
+adaptant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adapté
+tu as adapté
+il (elle) a adapté
+nous avons adapté
+vous avez adapté
+ils (elles) ont adapté
+
+** Plus-que-parfait
+
+j'avais adapté
+tu avais adapté
+il (elle) avait adapté
+nous avions adapté
+vous aviez adapté
+ils (elles) avaient adapté
+
+** Passé antérieur
+
+j'eus adapté
+tu eus adapté
+il (elle) eut adapté
+nous eûmes adapté
+vous eûtes adapté
+ils (elles) eurent adapté
+
+** Futur antérieur
+
+j'aurai adapté
+tu auras adapté
+il (elle) aura adapté
+nous aurons adapté
+vous aurez adapté
+ils (elles) auront adapté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adapté
+tu aurais adapté
+il (elle) aurait adapté
+nous aurions adapté
+vous auriez adapté
+ils (elles) auraient adapté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adapté
+que tu aies adapté
+qu’il (elle) ait adapté
+que nous ayons adapté
+que vous ayez adapté
+qu’ils (elles) aient adapté
+
+** Plus-que-parfait
+
+que j'eusse adapté
+que tu eusses adapté
+qu’il (elle) eût adapté
+que nous eussions adapté
+que vous eussiez adapté
+qu’ils (elles) eussent adapté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adapté
+ayez adapté
+
+* INFINITIF
+
+** Passé
+
+avoir adapté
+
+* PARTICIPE
+
+** Passé
+
+ayant adapté
+adapté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis adapté(e)
+tu es adapté(e)
+il (elle) est adapté(e)
+nous sommes adapté(e)s
+vous êtes adapté(e)s
+ils (elles) sont adapté(e)s
+
+** Imparfait
+
+j'étais adapté(e)
+tu étais adapté(e)
+il (elle) était adapté(e)
+nous étions adapté(e)s
+vous étiez adapté(e)s
+ils (elles) étaient adapté(e)s
+
+** Passé simple
+
+je fus adapté(e)
+tu fus adapté(e)
+il (elle) fut adapté(e)
+nous fûmes adapté(e)s
+vous fûtes adapté(e)s
+ils (elles) furent adapté(e)s
+
+** Futur simple
+
+je serai adapté(e)
+tu seras adapté(e)
+il (elle) sera adapté(e)
+nous serons adapté(e)s
+vous serez adapté(e)s
+ils (elles) seront adapté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais adapté(e)
+tu serais adapté(e)
+il (elle) serait adapté(e)
+nous serions adapté(e)s
+vous seriez adapté(e)s
+ils (elles) seraient adapté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois adapté(e)
+que tu sois adapté(e)
+qu’il (elle) soit adapté(e)
+que nous soyons adapté(e)s
+que vous soyez adapté(e)s
+qu’ils (elles) soient adapté(e)s
+
+** Imparfait
+
+que je fusse adapté(e)
+que tu fusses adapté(e)
+qu’il (elle) fût adapté(e)
+que nous fussions adapté(e)s
+que vous fussiez adapté(e)s
+qu’ils (elles) fussent adapté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons adapté(e)s
+soyez adapté(e)s
+
+* INFINITIF
+
+** Présent
+
+être adapté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant adapté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été adapté(e)
+tu as été adapté(e)
+il (elle) a été adapté(e)
+nous avons été adapté(e)s
+vous avez été adapté(e)s
+ils (elles) ont été adapté(e)s
+
+** Plus-que-parfait
+
+j'avais été adapté(e)
+il (elle) avait été adapté(e)
+nous avions été adapté(e)s
+ils (elles) avaient été adapté(e)s
+
+** Passé antérieur
+
+j'eus été adapté(e)
+tu eus été adapté(e)
+il (elle) eut été adapté(e)
+nous eûmes été adapté(e)s
+vous eûtes été adapté(e)s
+ils (elles) eurent été adapté(e)s
+
+** Futur antérieur
+
+j'aurai été adapté(e)
+tu auras été adapté(e)
+il (elle) aura été adapté(e)
+nous aurons été adapté(e)s
+vous aurez été adapté(e)s
+ils (elles) auront été adapté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été adapté(e)
+j'aurais été adapté(e)
+il (elle) aurait été adapté(e)
+nous aurions été adapté(e)s
+vous auriez été adapté(e)s
+ils (elles) auraient été adapté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été adapté(e)
+que tu aies été adapté(e)
+qu’il (elle) ait été adapté(e)
+que nous ayons été adapté(e)s
+que vous ayez été adapté(e)s
+qu’ils (elles) aient été adapté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été adapté(e)
+que tu eusses été adapté(e)
+qu’il (elle) eût été adapté(e)
+que nous eussions été adapté(e)s
+que vous eussiez été adapté(e)s
+qu’ils (elles) eussent été adapté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été adapté(e)
+ayons été adapté(e)s
+ayez été adapté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été adapté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été adapté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe importer
+
+* INDICATIF
+
+** Présent
+
+j'importe
+tu importes
+il (elle) importe
+nous importons
+vous importez
+ils (elles) importent
+
+** Imparfait
+
+j'importais
+tu importais
+il (elle) importait
+nous importions
+vous importiez
+ils (elles) importaient
+
+** Passé simple
+
+j'importai
+tu importas
+il (elle) importa
+nous importâmes
+vous importâtes
+ils (elles) importèrent
+
+** Futur simple
+
+j'importerai
+tu importeras
+il (elle) importera
+nous importerons
+vous importerez
+ils (elles) importeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'importerais
+tu importerais
+il (elle) importerait
+nous importerions
+vous importeriez
+ils (elles) importeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'importe
+que tu importes
+qu’il (elle) importe
+que nous importions
+que vous importiez
+qu’ils (elles) importent
+
+** Imparfait
+
+que j'importasse
+que tu importasses
+qu’il (elle) importât
+que nous importassions
+que vous importassiez
+qu’ils (elles) importassent
+
+* IMPÉRATIF
+
+** Présent
+
+importe
+importons
+importez
+
+* INFINITIF
+
+** Présent
+
+importer
+
+* PARTICIPE
+
+** Présent
+
+important
+
+* INDICATIF
+
+** Passé composé
+
+j'ai importé
+tu as importé
+il (elle) a importé
+nous avons importé
+vous avez importé
+ils (elles) ont importé
+
+** Plus-que-parfait
+
+j'avais importé
+tu avais importé
+il (elle) avait importé
+nous avions importé
+vous aviez importé
+ils (elles) avaient importé
+
+** Passé antérieur
+
+j'eus importé
+tu eus importé
+il (elle) eut importé
+nous eûmes importé
+vous eûtes importé
+ils (elles) eurent importé
+
+** Futur antérieur
+
+j'aurai importé
+tu auras importé
+il (elle) aura importé
+nous aurons importé
+vous aurez importé
+ils (elles) auront importé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais importé
+tu aurais importé
+il (elle) aurait importé
+nous aurions importé
+vous auriez importé
+ils (elles) auraient importé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie importé
+que tu aies importé
+qu’il (elle) ait importé
+que nous ayons importé
+que vous ayez importé
+qu’ils (elles) aient importé
+
+** Plus-que-parfait
+
+que j'eusse importé
+que tu eusses importé
+qu’il (elle) eût importé
+que nous eussions importé
+que vous eussiez importé
+qu’ils (elles) eussent importé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons importé
+ayez importé
+
+* INFINITIF
+
+** Passé
+
+avoir importé
+
+* PARTICIPE
+
+** Passé
+
+ayant importé
+importé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis importé(e)
+tu es importé(e)
+il (elle) est importé(e)
+nous sommes importé(e)s
+vous êtes importé(e)s
+ils (elles) sont importé(e)s
+
+** Imparfait
+
+j'étais importé(e)
+tu étais importé(e)
+il (elle) était importé(e)
+nous étions importé(e)s
+vous étiez importé(e)s
+ils (elles) étaient importé(e)s
+
+** Passé simple
+
+je fus importé(e)
+tu fus importé(e)
+il (elle) fut importé(e)
+nous fûmes importé(e)s
+vous fûtes importé(e)s
+ils (elles) furent importé(e)s
+
+** Futur simple
+
+je serai importé(e)
+tu seras importé(e)
+il (elle) sera importé(e)
+nous serons importé(e)s
+vous serez importé(e)s
+ils (elles) seront importé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais importé(e)
+tu serais importé(e)
+il (elle) serait importé(e)
+nous serions importé(e)s
+vous seriez importé(e)s
+ils (elles) seraient importé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois importé(e)
+que tu sois importé(e)
+qu’il (elle) soit importé(e)
+que nous soyons importé(e)s
+que vous soyez importé(e)s
+qu’ils (elles) soient importé(e)s
+
+** Imparfait
+
+que je fusse importé(e)
+que tu fusses importé(e)
+qu’il (elle) fût importé(e)
+que nous fussions importé(e)s
+que vous fussiez importé(e)s
+qu’ils (elles) fussent importé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons importé(e)s
+soyez importé(e)s
+
+* INFINITIF
+
+** Présent
+
+être importé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant importé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été importé(e)
+tu as été importé(e)
+il (elle) a été importé(e)
+nous avons été importé(e)s
+vous avez été importé(e)s
+ils (elles) ont été importé(e)s
+
+** Plus-que-parfait
+
+j'avais été importé(e)
+il (elle) avait été importé(e)
+nous avions été importé(e)s
+ils (elles) avaient été importé(e)s
+
+** Passé antérieur
+
+j'eus été importé(e)
+tu eus été importé(e)
+il (elle) eut été importé(e)
+nous eûmes été importé(e)s
+vous eûtes été importé(e)s
+ils (elles) eurent été importé(e)s
+
+** Futur antérieur
+
+j'aurai été importé(e)
+tu auras été importé(e)
+il (elle) aura été importé(e)
+nous aurons été importé(e)s
+vous aurez été importé(e)s
+ils (elles) auront été importé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été importé(e)
+j'aurais été importé(e)
+il (elle) aurait été importé(e)
+nous aurions été importé(e)s
+vous auriez été importé(e)s
+ils (elles) auraient été importé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été importé(e)
+que tu aies été importé(e)
+qu’il (elle) ait été importé(e)
+que nous ayons été importé(e)s
+que vous ayez été importé(e)s
+qu’ils (elles) aient été importé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été importé(e)
+que tu eusses été importé(e)
+qu’il (elle) eût été importé(e)
+que nous eussions été importé(e)s
+que vous eussiez été importé(e)s
+qu’ils (elles) eussent été importé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été importé(e)
+ayons été importé(e)s
+ayez été importé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été importé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été importé(e)(s)

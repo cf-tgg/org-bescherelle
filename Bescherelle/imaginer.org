@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe imaginer
+
+* INDICATIF
+
+** Présent
+
+j'imagine
+tu imagines
+il (elle) imagine
+nous imaginons
+vous imaginez
+ils (elles) imaginent
+
+** Imparfait
+
+j'imaginais
+tu imaginais
+il (elle) imaginait
+nous imaginions
+vous imaginiez
+ils (elles) imaginaient
+
+** Passé simple
+
+j'imaginai
+tu imaginas
+il (elle) imagina
+nous imaginâmes
+vous imaginâtes
+ils (elles) imaginèrent
+
+** Futur simple
+
+j'imaginerai
+tu imagineras
+il (elle) imaginera
+nous imaginerons
+vous imaginerez
+ils (elles) imagineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'imaginerais
+tu imaginerais
+il (elle) imaginerait
+nous imaginerions
+vous imagineriez
+ils (elles) imagineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'imagine
+que tu imagines
+qu’il (elle) imagine
+que nous imaginions
+que vous imaginiez
+qu’ils (elles) imaginent
+
+** Imparfait
+
+que j'imaginasse
+que tu imaginasses
+qu’il (elle) imaginât
+que nous imaginassions
+que vous imaginassiez
+qu’ils (elles) imaginassent
+
+* IMPÉRATIF
+
+** Présent
+
+imagine
+imaginons
+imaginez
+
+* INFINITIF
+
+** Présent
+
+imaginer
+
+* PARTICIPE
+
+** Présent
+
+imaginant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imaginé
+tu as imaginé
+il (elle) a imaginé
+nous avons imaginé
+vous avez imaginé
+ils (elles) ont imaginé
+
+** Plus-que-parfait
+
+j'avais imaginé
+tu avais imaginé
+il (elle) avait imaginé
+nous avions imaginé
+vous aviez imaginé
+ils (elles) avaient imaginé
+
+** Passé antérieur
+
+j'eus imaginé
+tu eus imaginé
+il (elle) eut imaginé
+nous eûmes imaginé
+vous eûtes imaginé
+ils (elles) eurent imaginé
+
+** Futur antérieur
+
+j'aurai imaginé
+tu auras imaginé
+il (elle) aura imaginé
+nous aurons imaginé
+vous aurez imaginé
+ils (elles) auront imaginé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imaginé
+tu aurais imaginé
+il (elle) aurait imaginé
+nous aurions imaginé
+vous auriez imaginé
+ils (elles) auraient imaginé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imaginé
+que tu aies imaginé
+qu’il (elle) ait imaginé
+que nous ayons imaginé
+que vous ayez imaginé
+qu’ils (elles) aient imaginé
+
+** Plus-que-parfait
+
+que j'eusse imaginé
+que tu eusses imaginé
+qu’il (elle) eût imaginé
+que nous eussions imaginé
+que vous eussiez imaginé
+qu’ils (elles) eussent imaginé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imaginé
+ayez imaginé
+
+* INFINITIF
+
+** Passé
+
+avoir imaginé
+
+* PARTICIPE
+
+** Passé
+
+ayant imaginé
+imaginé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis imaginé(e)
+tu es imaginé(e)
+il (elle) est imaginé(e)
+nous sommes imaginé(e)s
+vous êtes imaginé(e)s
+ils (elles) sont imaginé(e)s
+
+** Imparfait
+
+j'étais imaginé(e)
+tu étais imaginé(e)
+il (elle) était imaginé(e)
+nous étions imaginé(e)s
+vous étiez imaginé(e)s
+ils (elles) étaient imaginé(e)s
+
+** Passé simple
+
+je fus imaginé(e)
+tu fus imaginé(e)
+il (elle) fut imaginé(e)
+nous fûmes imaginé(e)s
+vous fûtes imaginé(e)s
+ils (elles) furent imaginé(e)s
+
+** Futur simple
+
+je serai imaginé(e)
+tu seras imaginé(e)
+il (elle) sera imaginé(e)
+nous serons imaginé(e)s
+vous serez imaginé(e)s
+ils (elles) seront imaginé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imaginé(e)
+tu serais imaginé(e)
+il (elle) serait imaginé(e)
+nous serions imaginé(e)s
+vous seriez imaginé(e)s
+ils (elles) seraient imaginé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imaginé(e)
+que tu sois imaginé(e)
+qu’il (elle) soit imaginé(e)
+que nous soyons imaginé(e)s
+que vous soyez imaginé(e)s
+qu’ils (elles) soient imaginé(e)s
+
+** Imparfait
+
+que je fusse imaginé(e)
+que tu fusses imaginé(e)
+qu’il (elle) fût imaginé(e)
+que nous fussions imaginé(e)s
+que vous fussiez imaginé(e)s
+qu’ils (elles) fussent imaginé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imaginé(e)s
+soyez imaginé(e)s
+
+* INFINITIF
+
+** Présent
+
+être imaginé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imaginé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imaginé(e)
+tu as été imaginé(e)
+il (elle) a été imaginé(e)
+nous avons été imaginé(e)s
+vous avez été imaginé(e)s
+ils (elles) ont été imaginé(e)s
+
+** Plus-que-parfait
+
+j'avais été imaginé(e)
+il (elle) avait été imaginé(e)
+nous avions été imaginé(e)s
+ils (elles) avaient été imaginé(e)s
+
+** Passé antérieur
+
+j'eus été imaginé(e)
+tu eus été imaginé(e)
+il (elle) eut été imaginé(e)
+nous eûmes été imaginé(e)s
+vous eûtes été imaginé(e)s
+ils (elles) eurent été imaginé(e)s
+
+** Futur antérieur
+
+j'aurai été imaginé(e)
+tu auras été imaginé(e)
+il (elle) aura été imaginé(e)
+nous aurons été imaginé(e)s
+vous aurez été imaginé(e)s
+ils (elles) auront été imaginé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imaginé(e)
+j'aurais été imaginé(e)
+il (elle) aurait été imaginé(e)
+nous aurions été imaginé(e)s
+vous auriez été imaginé(e)s
+ils (elles) auraient été imaginé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imaginé(e)
+que tu aies été imaginé(e)
+qu’il (elle) ait été imaginé(e)
+que nous ayons été imaginé(e)s
+que vous ayez été imaginé(e)s
+qu’ils (elles) aient été imaginé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imaginé(e)
+que tu eusses été imaginé(e)
+qu’il (elle) eût été imaginé(e)
+que nous eussions été imaginé(e)s
+que vous eussiez été imaginé(e)s
+qu’ils (elles) eussent été imaginé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imaginé(e)
+ayons été imaginé(e)s
+ayez été imaginé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imaginé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imaginé(e)(s)

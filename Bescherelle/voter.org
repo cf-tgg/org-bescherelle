@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe voter
+
+* INDICATIF
+
+** Présent
+
+je vote
+tu votes
+il (elle) vote
+nous votons
+vous votez
+ils (elles) votent
+
+** Imparfait
+
+je votais
+tu votais
+il (elle) votait
+nous votions
+vous votiez
+ils (elles) votaient
+
+** Passé simple
+
+je votai
+tu votas
+il (elle) vota
+nous votâmes
+vous votâtes
+ils (elles) votèrent
+
+** Futur simple
+
+je voterai
+tu voteras
+il (elle) votera
+nous voterons
+vous voterez
+ils (elles) voteront
+
+* CONDITIONNEL
+
+** Présent
+
+je voterais
+tu voterais
+il (elle) voterait
+nous voterions
+vous voteriez
+ils (elles) voteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vote
+que tu votes
+qu’il (elle) vote
+que nous votions
+que vous votiez
+qu’ils (elles) votent
+
+** Imparfait
+
+que je votasse
+que tu votasses
+qu’il (elle) votât
+que nous votassions
+que vous votassiez
+qu’ils (elles) votassent
+
+* IMPÉRATIF
+
+** Présent
+
+vote
+votons
+votez
+
+* INFINITIF
+
+** Présent
+
+voter
+
+* PARTICIPE
+
+** Présent
+
+votant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voté
+tu as voté
+il (elle) a voté
+nous avons voté
+vous avez voté
+ils (elles) ont voté
+
+** Plus-que-parfait
+
+j'avais voté
+tu avais voté
+il (elle) avait voté
+nous avions voté
+vous aviez voté
+ils (elles) avaient voté
+
+** Passé antérieur
+
+j'eus voté
+tu eus voté
+il (elle) eut voté
+nous eûmes voté
+vous eûtes voté
+ils (elles) eurent voté
+
+** Futur antérieur
+
+j'aurai voté
+tu auras voté
+il (elle) aura voté
+nous aurons voté
+vous aurez voté
+ils (elles) auront voté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voté
+tu aurais voté
+il (elle) aurait voté
+nous aurions voté
+vous auriez voté
+ils (elles) auraient voté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voté
+que tu aies voté
+qu’il (elle) ait voté
+que nous ayons voté
+que vous ayez voté
+qu’ils (elles) aient voté
+
+** Plus-que-parfait
+
+que j'eusse voté
+que tu eusses voté
+qu’il (elle) eût voté
+que nous eussions voté
+que vous eussiez voté
+qu’ils (elles) eussent voté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voté
+ayez voté
+
+* INFINITIF
+
+** Passé
+
+avoir voté
+
+* PARTICIPE
+
+** Passé
+
+ayant voté
+voté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis voté(e)
+tu es voté(e)
+il (elle) est voté(e)
+nous sommes voté(e)s
+vous êtes voté(e)s
+ils (elles) sont voté(e)s
+
+** Imparfait
+
+j'étais voté(e)
+tu étais voté(e)
+il (elle) était voté(e)
+nous étions voté(e)s
+vous étiez voté(e)s
+ils (elles) étaient voté(e)s
+
+** Passé simple
+
+je fus voté(e)
+tu fus voté(e)
+il (elle) fut voté(e)
+nous fûmes voté(e)s
+vous fûtes voté(e)s
+ils (elles) furent voté(e)s
+
+** Futur simple
+
+je serai voté(e)
+tu seras voté(e)
+il (elle) sera voté(e)
+nous serons voté(e)s
+vous serez voté(e)s
+ils (elles) seront voté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais voté(e)
+tu serais voté(e)
+il (elle) serait voté(e)
+nous serions voté(e)s
+vous seriez voté(e)s
+ils (elles) seraient voté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois voté(e)
+que tu sois voté(e)
+qu’il (elle) soit voté(e)
+que nous soyons voté(e)s
+que vous soyez voté(e)s
+qu’ils (elles) soient voté(e)s
+
+** Imparfait
+
+que je fusse voté(e)
+que tu fusses voté(e)
+qu’il (elle) fût voté(e)
+que nous fussions voté(e)s
+que vous fussiez voté(e)s
+qu’ils (elles) fussent voté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons voté(e)s
+soyez voté(e)s
+
+* INFINITIF
+
+** Présent
+
+être voté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant voté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été voté(e)
+tu as été voté(e)
+il (elle) a été voté(e)
+nous avons été voté(e)s
+vous avez été voté(e)s
+ils (elles) ont été voté(e)s
+
+** Plus-que-parfait
+
+j'avais été voté(e)
+il (elle) avait été voté(e)
+nous avions été voté(e)s
+ils (elles) avaient été voté(e)s
+
+** Passé antérieur
+
+j'eus été voté(e)
+tu eus été voté(e)
+il (elle) eut été voté(e)
+nous eûmes été voté(e)s
+vous eûtes été voté(e)s
+ils (elles) eurent été voté(e)s
+
+** Futur antérieur
+
+j'aurai été voté(e)
+tu auras été voté(e)
+il (elle) aura été voté(e)
+nous aurons été voté(e)s
+vous aurez été voté(e)s
+ils (elles) auront été voté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été voté(e)
+j'aurais été voté(e)
+il (elle) aurait été voté(e)
+nous aurions été voté(e)s
+vous auriez été voté(e)s
+ils (elles) auraient été voté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été voté(e)
+que tu aies été voté(e)
+qu’il (elle) ait été voté(e)
+que nous ayons été voté(e)s
+que vous ayez été voté(e)s
+qu’ils (elles) aient été voté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été voté(e)
+que tu eusses été voté(e)
+qu’il (elle) eût été voté(e)
+que nous eussions été voté(e)s
+que vous eussiez été voté(e)s
+qu’ils (elles) eussent été voté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été voté(e)
+ayons été voté(e)s
+ayez été voté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été voté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été voté(e)(s)

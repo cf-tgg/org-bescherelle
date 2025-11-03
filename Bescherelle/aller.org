@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe aller
+
+* INDICATIF
+
+** Présent
+
+je vais
+tu vas
+il (elle) va
+nous allons
+vous allez
+ils (elles) vont
+
+** Imparfait
+
+j'allais
+tu allais
+il (elle) allait
+nous allions
+vous alliez
+ils (elles) allaient / vous vous
+
+** Passé simple
+
+j'allai
+tu allas
+il (elle) alla
+nous allâmes
+vous allâtes
+ils (elles) allèrent
+
+** Futur simple
+
+j'irai
+tu iras
+il (elle) ira
+nous irons
+vous irez
+ils (elles) iront
+
+* CONDITIONNEL
+
+** Présent
+
+j'irais
+tu irais
+il (elle) irait
+nous irions
+vous iriez
+ils (elles) iraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aille
+que tu ailles
+qu’il (elle) aille
+que nous allions
+que vous alliez
+qu’ils (elles) aillent
+
+** Imparfait
+
+que j'allasse
+que tu allasses
+qu’il (elle) allât
+que nous allassions
+que vous allassiez
+qu’ils (elles) allassent
+
+* IMPÉRATIF
+
+** Présent
+
+va
+allons
+allez
+
+* INFINITIF
+
+** Présent
+
+aller
+
+* PARTICIPE
+
+** Présent
+
+allant
+
+* INDICATIF
+
+** Passé composé
+
+je suis allé(e)
+tu es allé(e)
+il (elle) est allé(e)
+nous sommes allé(e)s
+vous êtes allé(e)s
+ils (elles) sont allé(e)s
+
+** Plus-que-parfait
+
+j'étais allé(e)
+tu étais allé(e)
+il (elle) était allé(e)
+nous étions allé(e)s
+vous étiez allé(e)s
+ils (elles) étaient allé(e)s
+
+** Passé antérieur
+
+je fus allé(e)
+tu fus allé(e)
+il (elle) fut allé(e)
+nous fûmes allé(e)s
+vous fûtes allé(e)s
+ils (elles) furent allé(e)s
+
+** Futur antérieur
+
+je serai allé(e)
+tu seras allé(e)
+il (elle) sera allé(e)
+nous serons allé(e)s
+vous serez allé(e)s
+ils (elles) seront allé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais allé(e)
+tu serais allé(e)
+il (elle) serait allé(e)
+nous serions allé(e)s
+vous seriez allé(e)s
+ils (elles) seraient allé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois allé(e)
+que tu sois allé(e)
+qu’il (elle) soit allé(e)
+que nous soyons allé(e)s
+que vous soyez allé(e)s
+qu’ils (elles) soient allé(e)s
+
+** Plus-que-parfait
+
+que je fusse allé(e)
+que tu fusses allé(e)
+qu’il (elle) fût allé(e)
+que nous fussions allé(e)s
+que vous fussiez allé(e)s
+qu’ils (elles) fussent allé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons allé(e)s
+soyez allé(e)s
+
+* INFINITIF
+
+** Passé
+
+être allé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant allé(e)(s)
+allé (é, ée, és, ées)

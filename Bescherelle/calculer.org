@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe calculer
+
+* INDICATIF
+
+** Présent
+
+je calcule
+tu calcules
+il (elle) calcule
+nous calculons
+vous calculez
+ils (elles) calculent
+
+** Imparfait
+
+je calculais
+tu calculais
+il (elle) calculait
+nous calculions
+vous calculiez
+ils (elles) calculaient
+
+** Passé simple
+
+je calculai
+tu calculas
+il (elle) calcula
+nous calculâmes
+vous calculâtes
+ils (elles) calculèrent
+
+** Futur simple
+
+je calculerai
+tu calculeras
+il (elle) calculera
+nous calculerons
+vous calculerez
+ils (elles) calculeront
+
+* CONDITIONNEL
+
+** Présent
+
+je calculerais
+tu calculerais
+il (elle) calculerait
+nous calculerions
+vous calculeriez
+ils (elles) calculeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je calcule
+que tu calcules
+qu’il (elle) calcule
+que nous calculions
+que vous calculiez
+qu’ils (elles) calculent
+
+** Imparfait
+
+que je calculasse
+que tu calculasses
+qu’il (elle) calculât
+que nous calculassions
+que vous calculassiez
+qu’ils (elles) calculassent
+
+* IMPÉRATIF
+
+** Présent
+
+calcule
+calculons
+calculez
+
+* INFINITIF
+
+** Présent
+
+calculer
+
+* PARTICIPE
+
+** Présent
+
+calculant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai calculé
+tu as calculé
+il (elle) a calculé
+nous avons calculé
+vous avez calculé
+ils (elles) ont calculé
+
+** Plus-que-parfait
+
+j'avais calculé
+tu avais calculé
+il (elle) avait calculé
+nous avions calculé
+vous aviez calculé
+ils (elles) avaient calculé
+
+** Passé antérieur
+
+j'eus calculé
+tu eus calculé
+il (elle) eut calculé
+nous eûmes calculé
+vous eûtes calculé
+ils (elles) eurent calculé
+
+** Futur antérieur
+
+j'aurai calculé
+tu auras calculé
+il (elle) aura calculé
+nous aurons calculé
+vous aurez calculé
+ils (elles) auront calculé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais calculé
+tu aurais calculé
+il (elle) aurait calculé
+nous aurions calculé
+vous auriez calculé
+ils (elles) auraient calculé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie calculé
+que tu aies calculé
+qu’il (elle) ait calculé
+que nous ayons calculé
+que vous ayez calculé
+qu’ils (elles) aient calculé
+
+** Plus-que-parfait
+
+que j'eusse calculé
+que tu eusses calculé
+qu’il (elle) eût calculé
+que nous eussions calculé
+que vous eussiez calculé
+qu’ils (elles) eussent calculé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons calculé
+ayez calculé
+
+* INFINITIF
+
+** Passé
+
+avoir calculé
+
+* PARTICIPE
+
+** Passé
+
+ayant calculé
+calculé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis calculé(e)
+tu es calculé(e)
+il (elle) est calculé(e)
+nous sommes calculé(e)s
+vous êtes calculé(e)s
+ils (elles) sont calculé(e)s
+
+** Imparfait
+
+j'étais calculé(e)
+tu étais calculé(e)
+il (elle) était calculé(e)
+nous étions calculé(e)s
+vous étiez calculé(e)s
+ils (elles) étaient calculé(e)s
+
+** Passé simple
+
+je fus calculé(e)
+tu fus calculé(e)
+il (elle) fut calculé(e)
+nous fûmes calculé(e)s
+vous fûtes calculé(e)s
+ils (elles) furent calculé(e)s
+
+** Futur simple
+
+je serai calculé(e)
+tu seras calculé(e)
+il (elle) sera calculé(e)
+nous serons calculé(e)s
+vous serez calculé(e)s
+ils (elles) seront calculé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais calculé(e)
+tu serais calculé(e)
+il (elle) serait calculé(e)
+nous serions calculé(e)s
+vous seriez calculé(e)s
+ils (elles) seraient calculé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois calculé(e)
+que tu sois calculé(e)
+qu’il (elle) soit calculé(e)
+que nous soyons calculé(e)s
+que vous soyez calculé(e)s
+qu’ils (elles) soient calculé(e)s
+
+** Imparfait
+
+que je fusse calculé(e)
+que tu fusses calculé(e)
+qu’il (elle) fût calculé(e)
+que nous fussions calculé(e)s
+que vous fussiez calculé(e)s
+qu’ils (elles) fussent calculé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons calculé(e)s
+soyez calculé(e)s
+
+* INFINITIF
+
+** Présent
+
+être calculé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant calculé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été calculé(e)
+tu as été calculé(e)
+il (elle) a été calculé(e)
+nous avons été calculé(e)s
+vous avez été calculé(e)s
+ils (elles) ont été calculé(e)s
+
+** Plus-que-parfait
+
+j'avais été calculé(e)
+il (elle) avait été calculé(e)
+nous avions été calculé(e)s
+ils (elles) avaient été calculé(e)s
+
+** Passé antérieur
+
+j'eus été calculé(e)
+tu eus été calculé(e)
+il (elle) eut été calculé(e)
+nous eûmes été calculé(e)s
+vous eûtes été calculé(e)s
+ils (elles) eurent été calculé(e)s
+
+** Futur antérieur
+
+j'aurai été calculé(e)
+tu auras été calculé(e)
+il (elle) aura été calculé(e)
+nous aurons été calculé(e)s
+vous aurez été calculé(e)s
+ils (elles) auront été calculé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été calculé(e)
+j'aurais été calculé(e)
+il (elle) aurait été calculé(e)
+nous aurions été calculé(e)s
+vous auriez été calculé(e)s
+ils (elles) auraient été calculé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été calculé(e)
+que tu aies été calculé(e)
+qu’il (elle) ait été calculé(e)
+que nous ayons été calculé(e)s
+que vous ayez été calculé(e)s
+qu’ils (elles) aient été calculé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été calculé(e)
+que tu eusses été calculé(e)
+qu’il (elle) eût été calculé(e)
+que nous eussions été calculé(e)s
+que vous eussiez été calculé(e)s
+qu’ils (elles) eussent été calculé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été calculé(e)
+ayons été calculé(e)s
+ayez été calculé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été calculé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été calculé(e)(s)

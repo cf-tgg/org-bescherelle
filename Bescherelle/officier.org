@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe officier
+
+* INDICATIF
+
+** Présent
+
+j'officie
+tu officies
+il (elle) officie
+nous officions
+vous officiez
+ils (elles) officient
+
+** Imparfait
+
+j'officiais
+tu officiais
+il (elle) officiait
+nous officiions
+vous officiiez
+ils (elles) officiaient
+
+** Passé simple
+
+j'officiai
+tu officias
+il (elle) officia
+nous officiâmes
+vous officiâtes
+ils (elles) officièrent
+
+** Futur simple
+
+j'officierai
+tu officieras
+il (elle) officiera
+nous officierons
+vous officierez
+ils (elles) officieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'officierais
+tu officierais
+il (elle) officierait
+nous officierions
+vous officieriez
+ils (elles) officieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'officie
+que tu officies
+qu’il (elle) officie
+que nous officiions
+que vous officiiez
+qu’ils (elles) officient
+
+** Imparfait
+
+que j'officiasse
+que tu officiasses
+qu’il (elle) officiât
+que nous officiassions
+que vous officiassiez
+qu’ils (elles) officiassent
+
+* IMPÉRATIF
+
+** Présent
+
+officie
+officions
+officiez
+
+* INFINITIF
+
+** Présent
+
+officier
+
+* PARTICIPE
+
+** Présent
+
+officiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai officié
+tu as officié
+il (elle) a officié
+nous avons officié
+vous avez officié
+ils (elles) ont officié
+
+** Plus-que-parfait
+
+j'avais officié
+tu avais officié
+il (elle) avait officié
+nous avions officié
+vous aviez officié
+ils (elles) avaient officié
+
+** Passé antérieur
+
+j'eus officié
+tu eus officié
+il (elle) eut officié
+nous eûmes officié
+vous eûtes officié
+ils (elles) eurent officié
+
+** Futur antérieur
+
+j'aurai officié
+tu auras officié
+il (elle) aura officié
+nous aurons officié
+vous aurez officié
+ils (elles) auront officié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais officié
+tu aurais officié
+il (elle) aurait officié
+nous aurions officié
+vous auriez officié
+ils (elles) auraient officié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie officié
+que tu aies officié
+qu’il (elle) ait officié
+que nous ayons officié
+que vous ayez officié
+qu’ils (elles) aient officié
+
+** Plus-que-parfait
+
+que j'eusse officié
+que tu eusses officié
+qu’il (elle) eût officié
+que nous eussions officié
+que vous eussiez officié
+qu’ils (elles) eussent officié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons officié
+ayez officié
+
+* INFINITIF
+
+** Passé
+
+avoir officié
+
+* PARTICIPE
+
+** Passé
+
+ayant officié
+officié (invar.)

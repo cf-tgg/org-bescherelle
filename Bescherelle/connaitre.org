@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe connaitre
+
+* INDICATIF
+
+** Présent
+
+je connais
+tu connais
+il (elle) connaît
+nous connaissons
+vous connaissez
+ils (elles) connaissent
+
+** Imparfait
+
+je connaissais
+tu connaissais
+il (elle) connaissait
+nous connaissions
+vous connaissiez
+ils (elles) connaissaient
+
+** Passé simple
+
+je connus
+tu connus
+il (elle) connut
+nous connûmes
+vous connûtes
+ils (elles) connurent
+
+** Futur simple
+
+je connaîtrai
+tu connaîtras
+il (elle) connaîtra
+nous connaîtrons
+vous connaîtrez
+ils (elles) connaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je connaîtrais
+tu connaîtrais
+il (elle) connaîtrait
+nous connaîtrions
+vous connaîtriez
+ils (elles) connaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je connaisse
+que tu connaisses
+qu’il (elle) connaisse
+que nous connaissions
+que vous connaissiez
+qu’ils (elles) connaissent
+
+** Imparfait
+
+que je connusse
+que tu connusses
+qu’il (elle) connût
+que nous connussions
+que vous connussiez
+qu’ils (elles) connussent
+
+* IMPÉRATIF
+
+** Présent
+
+connais
+connaissons
+connaissez
+
+* INFINITIF
+
+** Présent
+
+connaître
+
+* PARTICIPE
+
+** Présent
+
+connaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai connu
+tu as connu
+il (elle) a connu
+nous avons connu
+vous avez connu
+ils (elles) ont connu
+
+** Plus-que-parfait
+
+j'avais connu
+tu avais connu
+il (elle) avait connu
+nous avions connu
+vous aviez connu
+ils (elles) avaient connu
+
+** Passé antérieur
+
+j'eus connu
+tu eus connu
+il (elle) eut connu
+nous eûmes connu
+vous eûtes connu
+ils (elles) eurent connu
+
+** Futur antérieur
+
+j'aurai connu
+tu auras connu
+il (elle) aura connu
+nous aurons connu
+vous aurez connu
+ils (elles) auront connu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais connu
+tu aurais connu
+il (elle) aurait connu
+nous aurions connu
+vous auriez connu
+ils (elles) auraient connu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie connu
+que tu aies connu
+qu’il (elle) ait connu
+que nous ayons connu
+que vous ayez connu
+qu’ils (elles) aient connu
+
+** Plus-que-parfait
+
+que j'eusse connu
+que tu eusses connu
+qu’il (elle) eût connu
+que nous eussions connu
+que vous eussiez connu
+qu’ils (elles) eussent connu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons connu
+ayez connu
+
+* INFINITIF
+
+** Passé
+
+avoir connu
+
+* PARTICIPE
+
+** Passé
+
+ayant connu
+connu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis connu(e)
+tu es connu(e)
+il (elle) est connu(e)
+nous sommes connu(e)s
+vous êtes connu(e)s
+ils (elles) sont connu(e)s
+
+** Imparfait
+
+j'étais connu(e)
+tu étais connu(e)
+il (elle) était connu(e)
+nous étions connu(e)s
+vous étiez connu(e)s
+ils (elles) étaient connu(e)s
+
+** Passé simple
+
+je fus connu(e)
+tu fus connu(e)
+il (elle) fut connu(e)
+nous fûmes connu(e)s
+vous fûtes connu(e)s
+ils (elles) furent connu(e)s
+
+** Futur simple
+
+je serai connu(e)
+tu seras connu(e)
+il (elle) sera connu(e)
+nous serons connu(e)s
+vous serez connu(e)s
+ils (elles) seront connu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais connu(e)
+tu serais connu(e)
+il (elle) serait connu(e)
+nous serions connu(e)s
+vous seriez connu(e)s
+ils (elles) seraient connu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois connu(e)
+que tu sois connu(e)
+qu’il (elle) soit connu(e)
+que nous soyons connu(e)s
+que vous soyez connu(e)s
+qu’ils (elles) soient connu(e)s
+
+** Imparfait
+
+que je fusse connu(e)
+que tu fusses connu(e)
+qu’il (elle) fût connu(e)
+que nous fussions connu(e)s
+que vous fussiez connu(e)s
+qu’ils (elles) fussent connu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons connu(e)s
+soyez connu(e)s
+
+* INFINITIF
+
+** Présent
+
+être connu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant connu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été connu(e)
+tu as été connu(e)
+il (elle) a été connu(e)
+nous avons été connu(e)s
+vous avez été connu(e)s
+ils (elles) ont été connu(e)s
+
+** Plus-que-parfait
+
+j'avais été connu(e)
+il (elle) avait été connu(e)
+nous avions été connu(e)s
+ils (elles) avaient été connu(e)s
+
+** Passé antérieur
+
+j'eus été connu(e)
+tu eus été connu(e)
+il (elle) eut été connu(e)
+nous eûmes été connu(e)s
+vous eûtes été connu(e)s
+ils (elles) eurent été connu(e)s
+
+** Futur antérieur
+
+j'aurai été connu(e)
+tu auras été connu(e)
+il (elle) aura été connu(e)
+nous aurons été connu(e)s
+vous aurez été connu(e)s
+ils (elles) auront été connu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été connu(e)
+j'aurais été connu(e)
+il (elle) aurait été connu(e)
+nous aurions été connu(e)s
+vous auriez été connu(e)s
+ils (elles) auraient été connu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été connu(e)
+que tu aies été connu(e)
+qu’il (elle) ait été connu(e)
+que nous ayons été connu(e)s
+que vous ayez été connu(e)s
+qu’ils (elles) aient été connu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été connu(e)
+que tu eusses été connu(e)
+qu’il (elle) eût été connu(e)
+que nous eussions été connu(e)s
+que vous eussiez été connu(e)s
+qu’ils (elles) eussent été connu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été connu(e)
+ayons été connu(e)s
+ayez été connu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été connu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été connu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe affecter
+
+* INDICATIF
+
+** Présent
+
+j'affecte
+tu affectes
+il (elle) affecte
+nous affectons
+vous affectez
+ils (elles) affectent
+
+** Imparfait
+
+j'affectais
+tu affectais
+il (elle) affectait
+nous affections
+vous affectiez
+ils (elles) affectaient
+
+** Passé simple
+
+j'affectai
+tu affectas
+il (elle) affecta
+nous affectâmes
+vous affectâtes
+ils (elles) affectèrent
+
+** Futur simple
+
+j'affecterai
+tu affecteras
+il (elle) affectera
+nous affecterons
+vous affecterez
+ils (elles) affecteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'affecterais
+tu affecterais
+il (elle) affecterait
+nous affecterions
+vous affecteriez
+ils (elles) affecteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'affecte
+que tu affectes
+qu’il (elle) affecte
+que nous affections
+que vous affectiez
+qu’ils (elles) affectent
+
+** Imparfait
+
+que j'affectasse
+que tu affectasses
+qu’il (elle) affectât
+que nous affectassions
+que vous affectassiez
+qu’ils (elles) affectassent
+
+* IMPÉRATIF
+
+** Présent
+
+affecte
+affectons
+affectez
+
+* INFINITIF
+
+** Présent
+
+affecter
+
+* PARTICIPE
+
+** Présent
+
+affectant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai affecté
+tu as affecté
+il (elle) a affecté
+nous avons affecté
+vous avez affecté
+ils (elles) ont affecté
+
+** Plus-que-parfait
+
+j'avais affecté
+tu avais affecté
+il (elle) avait affecté
+nous avions affecté
+vous aviez affecté
+ils (elles) avaient affecté
+
+** Passé antérieur
+
+j'eus affecté
+tu eus affecté
+il (elle) eut affecté
+nous eûmes affecté
+vous eûtes affecté
+ils (elles) eurent affecté
+
+** Futur antérieur
+
+j'aurai affecté
+tu auras affecté
+il (elle) aura affecté
+nous aurons affecté
+vous aurez affecté
+ils (elles) auront affecté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais affecté
+tu aurais affecté
+il (elle) aurait affecté
+nous aurions affecté
+vous auriez affecté
+ils (elles) auraient affecté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie affecté
+que tu aies affecté
+qu’il (elle) ait affecté
+que nous ayons affecté
+que vous ayez affecté
+qu’ils (elles) aient affecté
+
+** Plus-que-parfait
+
+que j'eusse affecté
+que tu eusses affecté
+qu’il (elle) eût affecté
+que nous eussions affecté
+que vous eussiez affecté
+qu’ils (elles) eussent affecté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons affecté
+ayez affecté
+
+* INFINITIF
+
+** Passé
+
+avoir affecté
+
+* PARTICIPE
+
+** Passé
+
+ayant affecté
+affecté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis affecté(e)
+tu es affecté(e)
+il (elle) est affecté(e)
+nous sommes affecté(e)s
+vous êtes affecté(e)s
+ils (elles) sont affecté(e)s
+
+** Imparfait
+
+j'étais affecté(e)
+tu étais affecté(e)
+il (elle) était affecté(e)
+nous étions affecté(e)s
+vous étiez affecté(e)s
+ils (elles) étaient affecté(e)s
+
+** Passé simple
+
+je fus affecté(e)
+tu fus affecté(e)
+il (elle) fut affecté(e)
+nous fûmes affecté(e)s
+vous fûtes affecté(e)s
+ils (elles) furent affecté(e)s
+
+** Futur simple
+
+je serai affecté(e)
+tu seras affecté(e)
+il (elle) sera affecté(e)
+nous serons affecté(e)s
+vous serez affecté(e)s
+ils (elles) seront affecté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais affecté(e)
+tu serais affecté(e)
+il (elle) serait affecté(e)
+nous serions affecté(e)s
+vous seriez affecté(e)s
+ils (elles) seraient affecté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois affecté(e)
+que tu sois affecté(e)
+qu’il (elle) soit affecté(e)
+que nous soyons affecté(e)s
+que vous soyez affecté(e)s
+qu’ils (elles) soient affecté(e)s
+
+** Imparfait
+
+que je fusse affecté(e)
+que tu fusses affecté(e)
+qu’il (elle) fût affecté(e)
+que nous fussions affecté(e)s
+que vous fussiez affecté(e)s
+qu’ils (elles) fussent affecté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons affecté(e)s
+soyez affecté(e)s
+
+* INFINITIF
+
+** Présent
+
+être affecté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant affecté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été affecté(e)
+tu as été affecté(e)
+il (elle) a été affecté(e)
+nous avons été affecté(e)s
+vous avez été affecté(e)s
+ils (elles) ont été affecté(e)s
+
+** Plus-que-parfait
+
+j'avais été affecté(e)
+il (elle) avait été affecté(e)
+nous avions été affecté(e)s
+ils (elles) avaient été affecté(e)s
+
+** Passé antérieur
+
+j'eus été affecté(e)
+tu eus été affecté(e)
+il (elle) eut été affecté(e)
+nous eûmes été affecté(e)s
+vous eûtes été affecté(e)s
+ils (elles) eurent été affecté(e)s
+
+** Futur antérieur
+
+j'aurai été affecté(e)
+tu auras été affecté(e)
+il (elle) aura été affecté(e)
+nous aurons été affecté(e)s
+vous aurez été affecté(e)s
+ils (elles) auront été affecté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été affecté(e)
+j'aurais été affecté(e)
+il (elle) aurait été affecté(e)
+nous aurions été affecté(e)s
+vous auriez été affecté(e)s
+ils (elles) auraient été affecté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été affecté(e)
+que tu aies été affecté(e)
+qu’il (elle) ait été affecté(e)
+que nous ayons été affecté(e)s
+que vous ayez été affecté(e)s
+qu’ils (elles) aient été affecté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été affecté(e)
+que tu eusses été affecté(e)
+qu’il (elle) eût été affecté(e)
+que nous eussions été affecté(e)s
+que vous eussiez été affecté(e)s
+qu’ils (elles) eussent été affecté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été affecté(e)
+ayons été affecté(e)s
+ayez été affecté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été affecté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été affecté(e)(s)

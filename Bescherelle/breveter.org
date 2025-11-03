@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe breveter
+
+* INDICATIF
+
+** Présent
+
+je brevette
+tu brevettes
+il (elle) brevette
+nous brevetons
+vous brevetez
+ils (elles) brevettent
+
+** Imparfait
+
+je brevetais
+tu brevetais
+il (elle) brevetait
+nous brevetions
+vous brevetiez
+ils (elles) brevetaient
+
+** Passé simple
+
+je brevetai
+tu brevetas
+il (elle) breveta
+nous brevetâmes
+vous brevetâtes
+ils (elles) brevetèrent
+
+** Futur simple
+
+je brevetterai
+tu brevetteras
+il (elle) brevettera
+nous brevetterons
+vous brevetterez
+ils (elles) brevetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je brevetterais
+tu brevetterais
+il (elle) brevetterait
+nous brevetterions
+vous brevetteriez
+ils (elles) brevetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brevette
+que tu brevettes
+qu’il (elle) brevette
+que nous brevetions
+que vous brevetiez
+qu’ils (elles) brevettent
+
+** Imparfait
+
+que je brevetasse
+que tu brevetasses
+qu’il (elle) brevetât
+que nous brevetassions
+que vous brevetassiez
+qu’ils (elles) brevetassent
+
+* IMPÉRATIF
+
+** Présent
+
+brevette
+brevetons
+brevetez
+
+* INFINITIF
+
+** Présent
+
+breveter
+
+* PARTICIPE
+
+** Présent
+
+brevetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai breveté
+tu as breveté
+il (elle) a breveté
+nous avons breveté
+vous avez breveté
+ils (elles) ont breveté
+
+** Plus-que-parfait
+
+j'avais breveté
+tu avais breveté
+il (elle) avait breveté
+nous avions breveté
+vous aviez breveté
+ils (elles) avaient breveté
+
+** Passé antérieur
+
+j'eus breveté
+tu eus breveté
+il (elle) eut breveté
+nous eûmes breveté
+vous eûtes breveté
+ils (elles) eurent breveté
+
+** Futur antérieur
+
+j'aurai breveté
+tu auras breveté
+il (elle) aura breveté
+nous aurons breveté
+vous aurez breveté
+ils (elles) auront breveté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais breveté
+tu aurais breveté
+il (elle) aurait breveté
+nous aurions breveté
+vous auriez breveté
+ils (elles) auraient breveté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie breveté
+que tu aies breveté
+qu’il (elle) ait breveté
+que nous ayons breveté
+que vous ayez breveté
+qu’ils (elles) aient breveté
+
+** Plus-que-parfait
+
+que j'eusse breveté
+que tu eusses breveté
+qu’il (elle) eût breveté
+que nous eussions breveté
+que vous eussiez breveté
+qu’ils (elles) eussent breveté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons breveté
+ayez breveté
+
+* INFINITIF
+
+** Passé
+
+avoir breveté
+
+* PARTICIPE
+
+** Passé
+
+ayant breveté
+breveté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis breveté(e)
+tu es breveté(e)
+il (elle) est breveté(e)
+nous sommes breveté(e)s
+vous êtes breveté(e)s
+ils (elles) sont breveté(e)s
+
+** Imparfait
+
+j'étais breveté(e)
+tu étais breveté(e)
+il (elle) était breveté(e)
+nous étions breveté(e)s
+vous étiez breveté(e)s
+ils (elles) étaient breveté(e)s
+
+** Passé simple
+
+je fus breveté(e)
+tu fus breveté(e)
+il (elle) fut breveté(e)
+nous fûmes breveté(e)s
+vous fûtes breveté(e)s
+ils (elles) furent breveté(e)s
+
+** Futur simple
+
+je serai breveté(e)
+tu seras breveté(e)
+il (elle) sera breveté(e)
+nous serons breveté(e)s
+vous serez breveté(e)s
+ils (elles) seront breveté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais breveté(e)
+tu serais breveté(e)
+il (elle) serait breveté(e)
+nous serions breveté(e)s
+vous seriez breveté(e)s
+ils (elles) seraient breveté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois breveté(e)
+que tu sois breveté(e)
+qu’il (elle) soit breveté(e)
+que nous soyons breveté(e)s
+que vous soyez breveté(e)s
+qu’ils (elles) soient breveté(e)s
+
+** Imparfait
+
+que je fusse breveté(e)
+que tu fusses breveté(e)
+qu’il (elle) fût breveté(e)
+que nous fussions breveté(e)s
+que vous fussiez breveté(e)s
+qu’ils (elles) fussent breveté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons breveté(e)s
+soyez breveté(e)s
+
+* INFINITIF
+
+** Présent
+
+être breveté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant breveté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été breveté(e)
+tu as été breveté(e)
+il (elle) a été breveté(e)
+nous avons été breveté(e)s
+vous avez été breveté(e)s
+ils (elles) ont été breveté(e)s
+
+** Plus-que-parfait
+
+j'avais été breveté(e)
+il (elle) avait été breveté(e)
+nous avions été breveté(e)s
+ils (elles) avaient été breveté(e)s
+
+** Passé antérieur
+
+j'eus été breveté(e)
+tu eus été breveté(e)
+il (elle) eut été breveté(e)
+nous eûmes été breveté(e)s
+vous eûtes été breveté(e)s
+ils (elles) eurent été breveté(e)s
+
+** Futur antérieur
+
+j'aurai été breveté(e)
+tu auras été breveté(e)
+il (elle) aura été breveté(e)
+nous aurons été breveté(e)s
+vous aurez été breveté(e)s
+ils (elles) auront été breveté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été breveté(e)
+j'aurais été breveté(e)
+il (elle) aurait été breveté(e)
+nous aurions été breveté(e)s
+vous auriez été breveté(e)s
+ils (elles) auraient été breveté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été breveté(e)
+que tu aies été breveté(e)
+qu’il (elle) ait été breveté(e)
+que nous ayons été breveté(e)s
+que vous ayez été breveté(e)s
+qu’ils (elles) aient été breveté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été breveté(e)
+que tu eusses été breveté(e)
+qu’il (elle) eût été breveté(e)
+que nous eussions été breveté(e)s
+que vous eussiez été breveté(e)s
+qu’ils (elles) eussent été breveté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été breveté(e)
+ayons été breveté(e)s
+ayez été breveté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été breveté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été breveté(e)(s)

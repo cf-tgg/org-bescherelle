@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tenter
+
+* INDICATIF
+
+** Présent
+
+je tente
+tu tentes
+il (elle) tente
+nous tentons
+vous tentez
+ils (elles) tentent
+
+** Imparfait
+
+je tentais
+tu tentais
+il (elle) tentait
+nous tentions
+vous tentiez
+ils (elles) tentaient
+
+** Passé simple
+
+je tentai
+tu tentas
+il (elle) tenta
+nous tentâmes
+vous tentâtes
+ils (elles) tentèrent
+
+** Futur simple
+
+je tenterai
+tu tenteras
+il (elle) tentera
+nous tenterons
+vous tenterez
+ils (elles) tenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je tenterais
+tu tenterais
+il (elle) tenterait
+nous tenterions
+vous tenteriez
+ils (elles) tenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tente
+que tu tentes
+qu’il (elle) tente
+que nous tentions
+que vous tentiez
+qu’ils (elles) tentent
+
+** Imparfait
+
+que je tentasse
+que tu tentasses
+qu’il (elle) tentât
+que nous tentassions
+que vous tentassiez
+qu’ils (elles) tentassent
+
+* IMPÉRATIF
+
+** Présent
+
+tente
+tentons
+tentez
+
+* INFINITIF
+
+** Présent
+
+tenter
+
+* PARTICIPE
+
+** Présent
+
+tentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tenté
+tu as tenté
+il (elle) a tenté
+nous avons tenté
+vous avez tenté
+ils (elles) ont tenté
+
+** Plus-que-parfait
+
+j'avais tenté
+tu avais tenté
+il (elle) avait tenté
+nous avions tenté
+vous aviez tenté
+ils (elles) avaient tenté
+
+** Passé antérieur
+
+j'eus tenté
+tu eus tenté
+il (elle) eut tenté
+nous eûmes tenté
+vous eûtes tenté
+ils (elles) eurent tenté
+
+** Futur antérieur
+
+j'aurai tenté
+tu auras tenté
+il (elle) aura tenté
+nous aurons tenté
+vous aurez tenté
+ils (elles) auront tenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tenté
+tu aurais tenté
+il (elle) aurait tenté
+nous aurions tenté
+vous auriez tenté
+ils (elles) auraient tenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tenté
+que tu aies tenté
+qu’il (elle) ait tenté
+que nous ayons tenté
+que vous ayez tenté
+qu’ils (elles) aient tenté
+
+** Plus-que-parfait
+
+que j'eusse tenté
+que tu eusses tenté
+qu’il (elle) eût tenté
+que nous eussions tenté
+que vous eussiez tenté
+qu’ils (elles) eussent tenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tenté
+ayez tenté
+
+* INFINITIF
+
+** Passé
+
+avoir tenté
+
+* PARTICIPE
+
+** Passé
+
+ayant tenté
+tenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tenté(e)
+tu es tenté(e)
+il (elle) est tenté(e)
+nous sommes tenté(e)s
+vous êtes tenté(e)s
+ils (elles) sont tenté(e)s
+
+** Imparfait
+
+j'étais tenté(e)
+tu étais tenté(e)
+il (elle) était tenté(e)
+nous étions tenté(e)s
+vous étiez tenté(e)s
+ils (elles) étaient tenté(e)s
+
+** Passé simple
+
+je fus tenté(e)
+tu fus tenté(e)
+il (elle) fut tenté(e)
+nous fûmes tenté(e)s
+vous fûtes tenté(e)s
+ils (elles) furent tenté(e)s
+
+** Futur simple
+
+je serai tenté(e)
+tu seras tenté(e)
+il (elle) sera tenté(e)
+nous serons tenté(e)s
+vous serez tenté(e)s
+ils (elles) seront tenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tenté(e)
+tu serais tenté(e)
+il (elle) serait tenté(e)
+nous serions tenté(e)s
+vous seriez tenté(e)s
+ils (elles) seraient tenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tenté(e)
+que tu sois tenté(e)
+qu’il (elle) soit tenté(e)
+que nous soyons tenté(e)s
+que vous soyez tenté(e)s
+qu’ils (elles) soient tenté(e)s
+
+** Imparfait
+
+que je fusse tenté(e)
+que tu fusses tenté(e)
+qu’il (elle) fût tenté(e)
+que nous fussions tenté(e)s
+que vous fussiez tenté(e)s
+qu’ils (elles) fussent tenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tenté(e)s
+soyez tenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être tenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tenté(e)
+tu as été tenté(e)
+il (elle) a été tenté(e)
+nous avons été tenté(e)s
+vous avez été tenté(e)s
+ils (elles) ont été tenté(e)s
+
+** Plus-que-parfait
+
+j'avais été tenté(e)
+il (elle) avait été tenté(e)
+nous avions été tenté(e)s
+ils (elles) avaient été tenté(e)s
+
+** Passé antérieur
+
+j'eus été tenté(e)
+tu eus été tenté(e)
+il (elle) eut été tenté(e)
+nous eûmes été tenté(e)s
+vous eûtes été tenté(e)s
+ils (elles) eurent été tenté(e)s
+
+** Futur antérieur
+
+j'aurai été tenté(e)
+tu auras été tenté(e)
+il (elle) aura été tenté(e)
+nous aurons été tenté(e)s
+vous aurez été tenté(e)s
+ils (elles) auront été tenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tenté(e)
+j'aurais été tenté(e)
+il (elle) aurait été tenté(e)
+nous aurions été tenté(e)s
+vous auriez été tenté(e)s
+ils (elles) auraient été tenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tenté(e)
+que tu aies été tenté(e)
+qu’il (elle) ait été tenté(e)
+que nous ayons été tenté(e)s
+que vous ayez été tenté(e)s
+qu’ils (elles) aient été tenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tenté(e)
+que tu eusses été tenté(e)
+qu’il (elle) eût été tenté(e)
+que nous eussions été tenté(e)s
+que vous eussiez été tenté(e)s
+qu’ils (elles) eussent été tenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tenté(e)
+ayons été tenté(e)s
+ayez été tenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tenté(e)(s)

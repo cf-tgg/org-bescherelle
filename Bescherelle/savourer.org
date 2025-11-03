@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe savourer
+
+* INDICATIF
+
+** Présent
+
+je savoure
+tu savoures
+il (elle) savoure
+nous savourons
+vous savourez
+ils (elles) savourent
+
+** Imparfait
+
+je savourais
+tu savourais
+il (elle) savourait
+nous savourions
+vous savouriez
+ils (elles) savouraient
+
+** Passé simple
+
+je savourai
+tu savouras
+il (elle) savoura
+nous savourâmes
+vous savourâtes
+ils (elles) savourèrent
+
+** Futur simple
+
+je savourerai
+tu savoureras
+il (elle) savourera
+nous savourerons
+vous savourerez
+ils (elles) savoureront
+
+* CONDITIONNEL
+
+** Présent
+
+je savourerais
+tu savourerais
+il (elle) savourerait
+nous savourerions
+vous savoureriez
+ils (elles) savoureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je savoure
+que tu savoures
+qu’il (elle) savoure
+que nous savourions
+que vous savouriez
+qu’ils (elles) savourent
+
+** Imparfait
+
+que je savourasse
+que tu savourasses
+qu’il (elle) savourât
+que nous savourassions
+que vous savourassiez
+qu’ils (elles) savourassent
+
+* IMPÉRATIF
+
+** Présent
+
+savoure
+savourons
+savourez
+
+* INFINITIF
+
+** Présent
+
+savourer
+
+* PARTICIPE
+
+** Présent
+
+savourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai savouré
+tu as savouré
+il (elle) a savouré
+nous avons savouré
+vous avez savouré
+ils (elles) ont savouré
+
+** Plus-que-parfait
+
+j'avais savouré
+tu avais savouré
+il (elle) avait savouré
+nous avions savouré
+vous aviez savouré
+ils (elles) avaient savouré
+
+** Passé antérieur
+
+j'eus savouré
+tu eus savouré
+il (elle) eut savouré
+nous eûmes savouré
+vous eûtes savouré
+ils (elles) eurent savouré
+
+** Futur antérieur
+
+j'aurai savouré
+tu auras savouré
+il (elle) aura savouré
+nous aurons savouré
+vous aurez savouré
+ils (elles) auront savouré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais savouré
+tu aurais savouré
+il (elle) aurait savouré
+nous aurions savouré
+vous auriez savouré
+ils (elles) auraient savouré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie savouré
+que tu aies savouré
+qu’il (elle) ait savouré
+que nous ayons savouré
+que vous ayez savouré
+qu’ils (elles) aient savouré
+
+** Plus-que-parfait
+
+que j'eusse savouré
+que tu eusses savouré
+qu’il (elle) eût savouré
+que nous eussions savouré
+que vous eussiez savouré
+qu’ils (elles) eussent savouré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons savouré
+ayez savouré
+
+* INFINITIF
+
+** Passé
+
+avoir savouré
+
+* PARTICIPE
+
+** Passé
+
+ayant savouré
+savouré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis savouré(e)
+tu es savouré(e)
+il (elle) est savouré(e)
+nous sommes savouré(e)s
+vous êtes savouré(e)s
+ils (elles) sont savouré(e)s
+
+** Imparfait
+
+j'étais savouré(e)
+tu étais savouré(e)
+il (elle) était savouré(e)
+nous étions savouré(e)s
+vous étiez savouré(e)s
+ils (elles) étaient savouré(e)s
+
+** Passé simple
+
+je fus savouré(e)
+tu fus savouré(e)
+il (elle) fut savouré(e)
+nous fûmes savouré(e)s
+vous fûtes savouré(e)s
+ils (elles) furent savouré(e)s
+
+** Futur simple
+
+je serai savouré(e)
+tu seras savouré(e)
+il (elle) sera savouré(e)
+nous serons savouré(e)s
+vous serez savouré(e)s
+ils (elles) seront savouré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais savouré(e)
+tu serais savouré(e)
+il (elle) serait savouré(e)
+nous serions savouré(e)s
+vous seriez savouré(e)s
+ils (elles) seraient savouré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois savouré(e)
+que tu sois savouré(e)
+qu’il (elle) soit savouré(e)
+que nous soyons savouré(e)s
+que vous soyez savouré(e)s
+qu’ils (elles) soient savouré(e)s
+
+** Imparfait
+
+que je fusse savouré(e)
+que tu fusses savouré(e)
+qu’il (elle) fût savouré(e)
+que nous fussions savouré(e)s
+que vous fussiez savouré(e)s
+qu’ils (elles) fussent savouré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons savouré(e)s
+soyez savouré(e)s
+
+* INFINITIF
+
+** Présent
+
+être savouré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant savouré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été savouré(e)
+tu as été savouré(e)
+il (elle) a été savouré(e)
+nous avons été savouré(e)s
+vous avez été savouré(e)s
+ils (elles) ont été savouré(e)s
+
+** Plus-que-parfait
+
+j'avais été savouré(e)
+il (elle) avait été savouré(e)
+nous avions été savouré(e)s
+ils (elles) avaient été savouré(e)s
+
+** Passé antérieur
+
+j'eus été savouré(e)
+tu eus été savouré(e)
+il (elle) eut été savouré(e)
+nous eûmes été savouré(e)s
+vous eûtes été savouré(e)s
+ils (elles) eurent été savouré(e)s
+
+** Futur antérieur
+
+j'aurai été savouré(e)
+tu auras été savouré(e)
+il (elle) aura été savouré(e)
+nous aurons été savouré(e)s
+vous aurez été savouré(e)s
+ils (elles) auront été savouré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été savouré(e)
+j'aurais été savouré(e)
+il (elle) aurait été savouré(e)
+nous aurions été savouré(e)s
+vous auriez été savouré(e)s
+ils (elles) auraient été savouré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été savouré(e)
+que tu aies été savouré(e)
+qu’il (elle) ait été savouré(e)
+que nous ayons été savouré(e)s
+que vous ayez été savouré(e)s
+qu’ils (elles) aient été savouré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été savouré(e)
+que tu eusses été savouré(e)
+qu’il (elle) eût été savouré(e)
+que nous eussions été savouré(e)s
+que vous eussiez été savouré(e)s
+qu’ils (elles) eussent été savouré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été savouré(e)
+ayons été savouré(e)s
+ayez été savouré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été savouré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été savouré(e)(s)

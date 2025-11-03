@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe refroidir
+
+* INDICATIF
+
+** Présent
+
+je refroidis
+tu refroidis
+il (elle) refroidit
+nous refroidissons
+vous refroidissez
+ils (elles) refroidissent
+
+** Imparfait
+
+je refroidissais
+tu refroidissais
+il (elle) refroidissait
+nous refroidissions
+vous refroidissiez
+ils (elles) refroidissaient
+
+** Passé simple
+
+je refroidis
+tu refroidis
+il (elle) refroidit
+nous refroidîmes
+vous refroidîtes
+ils (elles) refroidirent
+
+** Futur simple
+
+je refroidirai
+tu refroidiras
+il (elle) refroidira
+nous refroidirons
+vous refroidirez
+ils (elles) refroidiront
+
+* CONDITIONNEL
+
+** Présent
+
+je refroidirais
+tu refroidirais
+il (elle) refroidirait
+nous refroidirions
+vous refroidiriez
+ils (elles) refroidiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je refroidisse
+que tu refroidisses
+qu’il (elle) refroidisse
+que nous refroidissions
+que vous refroidissiez
+qu’ils (elles) refroidissent
+
+** Imparfait
+
+que je refroidisse
+que tu refroidisses
+qu’il (elle) refroidît
+que nous refroidissions
+que vous refroidissiez
+qu’ils (elles) refroidissent
+
+* IMPÉRATIF
+
+** Présent
+
+refroidis
+refroidissons
+refroidissez
+
+* INFINITIF
+
+** Présent
+
+refroidir
+
+* PARTICIPE
+
+** Présent
+
+refroidissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai refroidi
+tu as refroidi
+il (elle) a refroidi
+nous avons refroidi
+vous avez refroidi
+ils (elles) ont refroidi
+
+** Plus-que-parfait
+
+j'avais refroidi
+tu avais refroidi
+il (elle) avait refroidi
+nous avions refroidi
+vous aviez refroidi
+ils (elles) avaient refroidi
+
+** Passé antérieur
+
+j'eus refroidi
+tu eus refroidi
+il (elle) eut refroidi
+nous eûmes refroidi
+vous eûtes refroidi
+ils (elles) eurent refroidi
+
+** Futur antérieur
+
+j'aurai refroidi
+tu auras refroidi
+il (elle) aura refroidi
+nous aurons refroidi
+vous aurez refroidi
+ils (elles) auront refroidi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais refroidi
+tu aurais refroidi
+il (elle) aurait refroidi
+nous aurions refroidi
+vous auriez refroidi
+ils (elles) auraient refroidi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie refroidi
+que tu aies refroidi
+qu’il (elle) ait refroidi
+que nous ayons refroidi
+que vous ayez refroidi
+qu’ils (elles) aient refroidi
+
+** Plus-que-parfait
+
+que j'eusse refroidi
+que tu eusses refroidi
+qu’il (elle) eût refroidi
+que nous eussions refroidi
+que vous eussiez refroidi
+qu’ils (elles) eussent refroidi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons refroidi
+ayez refroidi
+
+* INFINITIF
+
+** Passé
+
+avoir refroidi
+
+* PARTICIPE
+
+** Passé
+
+ayant refroidi
+refroidi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis refroidi(e)
+tu es refroidi(e)
+il (elle) est refroidi(e)
+nous sommes refroidi(e)s
+vous êtes refroidi(e)s
+ils (elles) sont refroidi(e)s
+
+** Imparfait
+
+j'étais refroidi(e)
+tu étais refroidi(e)
+il (elle) était refroidi(e)
+nous étions refroidi(e)s
+vous étiez refroidi(e)s
+ils (elles) étaient refroidi(e)s
+
+** Passé simple
+
+je fus refroidi(e)
+tu fus refroidi(e)
+il (elle) fut refroidi(e)
+nous fûmes refroidi(e)s
+vous fûtes refroidi(e)s
+ils (elles) furent refroidi(e)s
+
+** Futur simple
+
+je serai refroidi(e)
+tu seras refroidi(e)
+il (elle) sera refroidi(e)
+nous serons refroidi(e)s
+vous serez refroidi(e)s
+ils (elles) seront refroidi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais refroidi(e)
+tu serais refroidi(e)
+il (elle) serait refroidi(e)
+nous serions refroidi(e)s
+vous seriez refroidi(e)s
+ils (elles) seraient refroidi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois refroidi(e)
+que tu sois refroidi(e)
+qu’il (elle) soit refroidi(e)
+que nous soyons refroidi(e)s
+que vous soyez refroidi(e)s
+qu’ils (elles) soient refroidi(e)s
+
+** Imparfait
+
+que je fusse refroidi(e)
+que tu fusses refroidi(e)
+qu’il (elle) fût refroidi(e)
+que nous fussions refroidi(e)s
+que vous fussiez refroidi(e)s
+qu’ils (elles) fussent refroidi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons refroidi(e)s
+soyez refroidi(e)s
+
+* INFINITIF
+
+** Présent
+
+être refroidi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant refroidi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été refroidi(e)
+tu as été refroidi(e)
+il (elle) a été refroidi(e)
+nous avons été refroidi(e)s
+vous avez été refroidi(e)s
+ils (elles) ont été refroidi(e)s
+
+** Plus-que-parfait
+
+j'avais été refroidi(e)
+il (elle) avait été refroidi(e)
+nous avions été refroidi(e)s
+ils (elles) avaient été refroidi(e)s
+
+** Passé antérieur
+
+j'eus été refroidi(e)
+tu eus été refroidi(e)
+il (elle) eut été refroidi(e)
+nous eûmes été refroidi(e)s
+vous eûtes été refroidi(e)s
+ils (elles) eurent été refroidi(e)s
+
+** Futur antérieur
+
+j'aurai été refroidi(e)
+tu auras été refroidi(e)
+il (elle) aura été refroidi(e)
+nous aurons été refroidi(e)s
+vous aurez été refroidi(e)s
+ils (elles) auront été refroidi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été refroidi(e)
+j'aurais été refroidi(e)
+il (elle) aurait été refroidi(e)
+nous aurions été refroidi(e)s
+vous auriez été refroidi(e)s
+ils (elles) auraient été refroidi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été refroidi(e)
+que tu aies été refroidi(e)
+qu’il (elle) ait été refroidi(e)
+que nous ayons été refroidi(e)s
+que vous ayez été refroidi(e)s
+qu’ils (elles) aient été refroidi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été refroidi(e)
+que tu eusses été refroidi(e)
+qu’il (elle) eût été refroidi(e)
+que nous eussions été refroidi(e)s
+que vous eussiez été refroidi(e)s
+qu’ils (elles) eussent été refroidi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été refroidi(e)
+ayons été refroidi(e)s
+ayez été refroidi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été refroidi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été refroidi(e)(s)

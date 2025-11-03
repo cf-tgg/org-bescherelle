@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assagir
+
+* INDICATIF
+
+** Présent
+
+j'assagis
+tu assagis
+il (elle) assagit
+nous assagissons
+vous assagissez
+ils (elles) assagissent
+
+** Imparfait
+
+j'assagissais
+tu assagissais
+il (elle) assagissait
+nous assagissions
+vous assagissiez
+ils (elles) assagissaient
+
+** Passé simple
+
+j'assagis
+tu assagis
+il (elle) assagit
+nous assagîmes
+vous assagîtes
+ils (elles) assagirent
+
+** Futur simple
+
+j'assagirai
+tu assagiras
+il (elle) assagira
+nous assagirons
+vous assagirez
+ils (elles) assagiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assagirais
+tu assagirais
+il (elle) assagirait
+nous assagirions
+vous assagiriez
+ils (elles) assagiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assagisse
+que tu assagisses
+qu’il (elle) assagisse
+que nous assagissions
+que vous assagissiez
+qu’ils (elles) assagissent
+
+** Imparfait
+
+que j'assagisse
+que tu assagisses
+qu’il (elle) assagît
+que nous assagissions
+que vous assagissiez
+qu’ils (elles) assagissent
+
+* IMPÉRATIF
+
+** Présent
+
+assagis
+assagissons
+assagissez
+
+* INFINITIF
+
+** Présent
+
+assagir
+
+* PARTICIPE
+
+** Présent
+
+assagissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assagi
+tu as assagi
+il (elle) a assagi
+nous avons assagi
+vous avez assagi
+ils (elles) ont assagi
+
+** Plus-que-parfait
+
+j'avais assagi
+tu avais assagi
+il (elle) avait assagi
+nous avions assagi
+vous aviez assagi
+ils (elles) avaient assagi
+
+** Passé antérieur
+
+j'eus assagi
+tu eus assagi
+il (elle) eut assagi
+nous eûmes assagi
+vous eûtes assagi
+ils (elles) eurent assagi
+
+** Futur antérieur
+
+j'aurai assagi
+tu auras assagi
+il (elle) aura assagi
+nous aurons assagi
+vous aurez assagi
+ils (elles) auront assagi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assagi
+tu aurais assagi
+il (elle) aurait assagi
+nous aurions assagi
+vous auriez assagi
+ils (elles) auraient assagi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assagi
+que tu aies assagi
+qu’il (elle) ait assagi
+que nous ayons assagi
+que vous ayez assagi
+qu’ils (elles) aient assagi
+
+** Plus-que-parfait
+
+que j'eusse assagi
+que tu eusses assagi
+qu’il (elle) eût assagi
+que nous eussions assagi
+que vous eussiez assagi
+qu’ils (elles) eussent assagi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assagi
+ayez assagi
+
+* INFINITIF
+
+** Passé
+
+avoir assagi
+
+* PARTICIPE
+
+** Passé
+
+ayant assagi
+assagi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis assagi(e)
+tu es assagi(e)
+il (elle) est assagi(e)
+nous sommes assagi(e)s
+vous êtes assagi(e)s
+ils (elles) sont assagi(e)s
+
+** Imparfait
+
+j'étais assagi(e)
+tu étais assagi(e)
+il (elle) était assagi(e)
+nous étions assagi(e)s
+vous étiez assagi(e)s
+ils (elles) étaient assagi(e)s
+
+** Passé simple
+
+je fus assagi(e)
+tu fus assagi(e)
+il (elle) fut assagi(e)
+nous fûmes assagi(e)s
+vous fûtes assagi(e)s
+ils (elles) furent assagi(e)s
+
+** Futur simple
+
+je serai assagi(e)
+tu seras assagi(e)
+il (elle) sera assagi(e)
+nous serons assagi(e)s
+vous serez assagi(e)s
+ils (elles) seront assagi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assagi(e)
+tu serais assagi(e)
+il (elle) serait assagi(e)
+nous serions assagi(e)s
+vous seriez assagi(e)s
+ils (elles) seraient assagi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assagi(e)
+que tu sois assagi(e)
+qu’il (elle) soit assagi(e)
+que nous soyons assagi(e)s
+que vous soyez assagi(e)s
+qu’ils (elles) soient assagi(e)s
+
+** Imparfait
+
+que je fusse assagi(e)
+que tu fusses assagi(e)
+qu’il (elle) fût assagi(e)
+que nous fussions assagi(e)s
+que vous fussiez assagi(e)s
+qu’ils (elles) fussent assagi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assagi(e)s
+soyez assagi(e)s
+
+* INFINITIF
+
+** Présent
+
+être assagi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assagi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assagi(e)
+tu as été assagi(e)
+il (elle) a été assagi(e)
+nous avons été assagi(e)s
+vous avez été assagi(e)s
+ils (elles) ont été assagi(e)s
+
+** Plus-que-parfait
+
+j'avais été assagi(e)
+il (elle) avait été assagi(e)
+nous avions été assagi(e)s
+ils (elles) avaient été assagi(e)s
+
+** Passé antérieur
+
+j'eus été assagi(e)
+tu eus été assagi(e)
+il (elle) eut été assagi(e)
+nous eûmes été assagi(e)s
+vous eûtes été assagi(e)s
+ils (elles) eurent été assagi(e)s
+
+** Futur antérieur
+
+j'aurai été assagi(e)
+tu auras été assagi(e)
+il (elle) aura été assagi(e)
+nous aurons été assagi(e)s
+vous aurez été assagi(e)s
+ils (elles) auront été assagi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assagi(e)
+j'aurais été assagi(e)
+il (elle) aurait été assagi(e)
+nous aurions été assagi(e)s
+vous auriez été assagi(e)s
+ils (elles) auraient été assagi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assagi(e)
+que tu aies été assagi(e)
+qu’il (elle) ait été assagi(e)
+que nous ayons été assagi(e)s
+que vous ayez été assagi(e)s
+qu’ils (elles) aient été assagi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assagi(e)
+que tu eusses été assagi(e)
+qu’il (elle) eût été assagi(e)
+que nous eussions été assagi(e)s
+que vous eussiez été assagi(e)s
+qu’ils (elles) eussent été assagi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assagi(e)
+ayons été assagi(e)s
+ayez été assagi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assagi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assagi(e)(s)

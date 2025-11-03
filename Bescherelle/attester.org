@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attester
+
+* INDICATIF
+
+** Présent
+
+j'atteste
+tu attestes
+il (elle) atteste
+nous attestons
+vous attestez
+ils (elles) attestent
+
+** Imparfait
+
+j'attestais
+tu attestais
+il (elle) attestait
+nous attestions
+vous attestiez
+ils (elles) attestaient
+
+** Passé simple
+
+j'attestai
+tu attestas
+il (elle) attesta
+nous attestâmes
+vous attestâtes
+ils (elles) attestèrent
+
+** Futur simple
+
+j'attesterai
+tu attesteras
+il (elle) attestera
+nous attesterons
+vous attesterez
+ils (elles) attesteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attesterais
+tu attesterais
+il (elle) attesterait
+nous attesterions
+vous attesteriez
+ils (elles) attesteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'atteste
+que tu attestes
+qu’il (elle) atteste
+que nous attestions
+que vous attestiez
+qu’ils (elles) attestent
+
+** Imparfait
+
+que j'attestasse
+que tu attestasses
+qu’il (elle) attestât
+que nous attestassions
+que vous attestassiez
+qu’ils (elles) attestassent
+
+* IMPÉRATIF
+
+** Présent
+
+atteste
+attestons
+attestez
+
+* INFINITIF
+
+** Présent
+
+attester
+
+* PARTICIPE
+
+** Présent
+
+attestant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attesté
+tu as attesté
+il (elle) a attesté
+nous avons attesté
+vous avez attesté
+ils (elles) ont attesté
+
+** Plus-que-parfait
+
+j'avais attesté
+tu avais attesté
+il (elle) avait attesté
+nous avions attesté
+vous aviez attesté
+ils (elles) avaient attesté
+
+** Passé antérieur
+
+j'eus attesté
+tu eus attesté
+il (elle) eut attesté
+nous eûmes attesté
+vous eûtes attesté
+ils (elles) eurent attesté
+
+** Futur antérieur
+
+j'aurai attesté
+tu auras attesté
+il (elle) aura attesté
+nous aurons attesté
+vous aurez attesté
+ils (elles) auront attesté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attesté
+tu aurais attesté
+il (elle) aurait attesté
+nous aurions attesté
+vous auriez attesté
+ils (elles) auraient attesté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attesté
+que tu aies attesté
+qu’il (elle) ait attesté
+que nous ayons attesté
+que vous ayez attesté
+qu’ils (elles) aient attesté
+
+** Plus-que-parfait
+
+que j'eusse attesté
+que tu eusses attesté
+qu’il (elle) eût attesté
+que nous eussions attesté
+que vous eussiez attesté
+qu’ils (elles) eussent attesté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attesté
+ayez attesté
+
+* INFINITIF
+
+** Passé
+
+avoir attesté
+
+* PARTICIPE
+
+** Passé
+
+ayant attesté
+attesté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attesté(e)
+tu es attesté(e)
+il (elle) est attesté(e)
+nous sommes attesté(e)s
+vous êtes attesté(e)s
+ils (elles) sont attesté(e)s
+
+** Imparfait
+
+j'étais attesté(e)
+tu étais attesté(e)
+il (elle) était attesté(e)
+nous étions attesté(e)s
+vous étiez attesté(e)s
+ils (elles) étaient attesté(e)s
+
+** Passé simple
+
+je fus attesté(e)
+tu fus attesté(e)
+il (elle) fut attesté(e)
+nous fûmes attesté(e)s
+vous fûtes attesté(e)s
+ils (elles) furent attesté(e)s
+
+** Futur simple
+
+je serai attesté(e)
+tu seras attesté(e)
+il (elle) sera attesté(e)
+nous serons attesté(e)s
+vous serez attesté(e)s
+ils (elles) seront attesté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attesté(e)
+tu serais attesté(e)
+il (elle) serait attesté(e)
+nous serions attesté(e)s
+vous seriez attesté(e)s
+ils (elles) seraient attesté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attesté(e)
+que tu sois attesté(e)
+qu’il (elle) soit attesté(e)
+que nous soyons attesté(e)s
+que vous soyez attesté(e)s
+qu’ils (elles) soient attesté(e)s
+
+** Imparfait
+
+que je fusse attesté(e)
+que tu fusses attesté(e)
+qu’il (elle) fût attesté(e)
+que nous fussions attesté(e)s
+que vous fussiez attesté(e)s
+qu’ils (elles) fussent attesté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attesté(e)s
+soyez attesté(e)s
+
+* INFINITIF
+
+** Présent
+
+être attesté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attesté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attesté(e)
+tu as été attesté(e)
+il (elle) a été attesté(e)
+nous avons été attesté(e)s
+vous avez été attesté(e)s
+ils (elles) ont été attesté(e)s
+
+** Plus-que-parfait
+
+j'avais été attesté(e)
+il (elle) avait été attesté(e)
+nous avions été attesté(e)s
+ils (elles) avaient été attesté(e)s
+
+** Passé antérieur
+
+j'eus été attesté(e)
+tu eus été attesté(e)
+il (elle) eut été attesté(e)
+nous eûmes été attesté(e)s
+vous eûtes été attesté(e)s
+ils (elles) eurent été attesté(e)s
+
+** Futur antérieur
+
+j'aurai été attesté(e)
+tu auras été attesté(e)
+il (elle) aura été attesté(e)
+nous aurons été attesté(e)s
+vous aurez été attesté(e)s
+ils (elles) auront été attesté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attesté(e)
+j'aurais été attesté(e)
+il (elle) aurait été attesté(e)
+nous aurions été attesté(e)s
+vous auriez été attesté(e)s
+ils (elles) auraient été attesté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attesté(e)
+que tu aies été attesté(e)
+qu’il (elle) ait été attesté(e)
+que nous ayons été attesté(e)s
+que vous ayez été attesté(e)s
+qu’ils (elles) aient été attesté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attesté(e)
+que tu eusses été attesté(e)
+qu’il (elle) eût été attesté(e)
+que nous eussions été attesté(e)s
+que vous eussiez été attesté(e)s
+qu’ils (elles) eussent été attesté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attesté(e)
+ayons été attesté(e)s
+ayez été attesté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attesté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attesté(e)(s)

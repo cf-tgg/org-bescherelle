@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe foncer
+
+* INDICATIF
+
+** Présent
+
+je fonce
+tu fonces
+il (elle) fonce
+nous fonçons
+vous foncez
+ils (elles) foncent
+
+** Imparfait
+
+je fonçais
+tu fonçais
+il (elle) fonçait
+nous foncions
+vous fonciez
+ils (elles) fonçaient
+
+** Passé simple
+
+je fonçai
+tu fonças
+il (elle) fonça
+nous fonçâmes
+vous fonçâtes
+ils (elles) foncèrent
+
+** Futur simple
+
+je foncerai
+tu fonceras
+il (elle) foncera
+nous foncerons
+vous foncerez
+ils (elles) fonceront
+
+* CONDITIONNEL
+
+** Présent
+
+je foncerais
+tu foncerais
+il (elle) foncerait
+nous foncerions
+vous fonceriez
+ils (elles) fonceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fonce
+que tu fonces
+qu’il (elle) fonce
+que nous foncions
+que vous fonciez
+qu’ils (elles) foncent
+
+** Imparfait
+
+que je fonçasse
+que tu fonçasses
+qu’il (elle) fonçât
+que nous fonçassions
+que vous fonçassiez
+qu’ils (elles) fonçassent
+
+* IMPÉRATIF
+
+** Présent
+
+fonce
+fonçons
+foncez
+
+* INFINITIF
+
+** Présent
+
+foncer
+
+* PARTICIPE
+
+** Présent
+
+fonçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai foncé
+tu as foncé
+il (elle) a foncé
+nous avons foncé
+vous avez foncé
+ils (elles) ont foncé
+
+** Plus-que-parfait
+
+j'avais foncé
+tu avais foncé
+il (elle) avait foncé
+nous avions foncé
+vous aviez foncé
+ils (elles) avaient foncé
+
+** Passé antérieur
+
+j'eus foncé
+tu eus foncé
+il (elle) eut foncé
+nous eûmes foncé
+vous eûtes foncé
+ils (elles) eurent foncé
+
+** Futur antérieur
+
+j'aurai foncé
+tu auras foncé
+il (elle) aura foncé
+nous aurons foncé
+vous aurez foncé
+ils (elles) auront foncé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais foncé
+tu aurais foncé
+il (elle) aurait foncé
+nous aurions foncé
+vous auriez foncé
+ils (elles) auraient foncé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie foncé
+que tu aies foncé
+qu’il (elle) ait foncé
+que nous ayons foncé
+que vous ayez foncé
+qu’ils (elles) aient foncé
+
+** Plus-que-parfait
+
+que j'eusse foncé
+que tu eusses foncé
+qu’il (elle) eût foncé
+que nous eussions foncé
+que vous eussiez foncé
+qu’ils (elles) eussent foncé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons foncé
+ayez foncé
+
+* INFINITIF
+
+** Passé
+
+avoir foncé
+
+* PARTICIPE
+
+** Passé
+
+ayant foncé
+foncé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis foncé(e)
+tu es foncé(e)
+il (elle) est foncé(e)
+nous sommes foncé(e)s
+vous êtes foncé(e)s
+ils (elles) sont foncé(e)s
+
+** Imparfait
+
+j'étais foncé(e)
+tu étais foncé(e)
+il (elle) était foncé(e)
+nous étions foncé(e)s
+vous étiez foncé(e)s
+ils (elles) étaient foncé(e)s
+
+** Passé simple
+
+je fus foncé(e)
+tu fus foncé(e)
+il (elle) fut foncé(e)
+nous fûmes foncé(e)s
+vous fûtes foncé(e)s
+ils (elles) furent foncé(e)s
+
+** Futur simple
+
+je serai foncé(e)
+tu seras foncé(e)
+il (elle) sera foncé(e)
+nous serons foncé(e)s
+vous serez foncé(e)s
+ils (elles) seront foncé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais foncé(e)
+tu serais foncé(e)
+il (elle) serait foncé(e)
+nous serions foncé(e)s
+vous seriez foncé(e)s
+ils (elles) seraient foncé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois foncé(e)
+que tu sois foncé(e)
+qu’il (elle) soit foncé(e)
+que nous soyons foncé(e)s
+que vous soyez foncé(e)s
+qu’ils (elles) soient foncé(e)s
+
+** Imparfait
+
+que je fusse foncé(e)
+que tu fusses foncé(e)
+qu’il (elle) fût foncé(e)
+que nous fussions foncé(e)s
+que vous fussiez foncé(e)s
+qu’ils (elles) fussent foncé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons foncé(e)s
+soyez foncé(e)s
+
+* INFINITIF
+
+** Présent
+
+être foncé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant foncé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été foncé(e)
+tu as été foncé(e)
+il (elle) a été foncé(e)
+nous avons été foncé(e)s
+vous avez été foncé(e)s
+ils (elles) ont été foncé(e)s
+
+** Plus-que-parfait
+
+j'avais été foncé(e)
+il (elle) avait été foncé(e)
+nous avions été foncé(e)s
+ils (elles) avaient été foncé(e)s
+
+** Passé antérieur
+
+j'eus été foncé(e)
+tu eus été foncé(e)
+il (elle) eut été foncé(e)
+nous eûmes été foncé(e)s
+vous eûtes été foncé(e)s
+ils (elles) eurent été foncé(e)s
+
+** Futur antérieur
+
+j'aurai été foncé(e)
+tu auras été foncé(e)
+il (elle) aura été foncé(e)
+nous aurons été foncé(e)s
+vous aurez été foncé(e)s
+ils (elles) auront été foncé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été foncé(e)
+j'aurais été foncé(e)
+il (elle) aurait été foncé(e)
+nous aurions été foncé(e)s
+vous auriez été foncé(e)s
+ils (elles) auraient été foncé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été foncé(e)
+que tu aies été foncé(e)
+qu’il (elle) ait été foncé(e)
+que nous ayons été foncé(e)s
+que vous ayez été foncé(e)s
+qu’ils (elles) aient été foncé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été foncé(e)
+que tu eusses été foncé(e)
+qu’il (elle) eût été foncé(e)
+que nous eussions été foncé(e)s
+que vous eussiez été foncé(e)s
+qu’ils (elles) eussent été foncé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été foncé(e)
+ayons été foncé(e)s
+ayez été foncé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été foncé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été foncé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe editer
+
+* INDICATIF
+
+** Présent
+
+j'édite
+tu édites
+il (elle) édite
+nous éditons
+vous éditez
+ils (elles) éditent
+
+** Imparfait
+
+j'éditais
+tu éditais
+il (elle) éditait
+nous éditions
+vous éditiez
+ils (elles) éditaient
+
+** Passé simple
+
+j'éditai
+tu éditas
+il (elle) édita
+nous éditâmes
+vous éditâtes
+ils (elles) éditèrent
+
+** Futur simple
+
+j'éditerai
+tu éditeras
+il (elle) éditera
+nous éditerons
+vous éditerez
+ils (elles) éditeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'éditerais
+tu éditerais
+il (elle) éditerait
+nous éditerions
+vous éditeriez
+ils (elles) éditeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'édite
+que tu édites
+qu’il (elle) édite
+que nous éditions
+que vous éditiez
+qu’ils (elles) éditent
+
+** Imparfait
+
+que j'éditasse
+que tu éditasses
+qu’il (elle) éditât
+que nous éditassions
+que vous éditassiez
+qu’ils (elles) éditassent
+
+* IMPÉRATIF
+
+** Présent
+
+édite
+éditons
+éditez
+
+* INFINITIF
+
+** Présent
+
+éditer
+
+* PARTICIPE
+
+** Présent
+
+éditant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai édité
+tu as édité
+il (elle) a édité
+nous avons édité
+vous avez édité
+ils (elles) ont édité
+
+** Plus-que-parfait
+
+j'avais édité
+tu avais édité
+il (elle) avait édité
+nous avions édité
+vous aviez édité
+ils (elles) avaient édité
+
+** Passé antérieur
+
+j'eus édité
+tu eus édité
+il (elle) eut édité
+nous eûmes édité
+vous eûtes édité
+ils (elles) eurent édité
+
+** Futur antérieur
+
+j'aurai édité
+tu auras édité
+il (elle) aura édité
+nous aurons édité
+vous aurez édité
+ils (elles) auront édité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais édité
+tu aurais édité
+il (elle) aurait édité
+nous aurions édité
+vous auriez édité
+ils (elles) auraient édité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie édité
+que tu aies édité
+qu’il (elle) ait édité
+que nous ayons édité
+que vous ayez édité
+qu’ils (elles) aient édité
+
+** Plus-que-parfait
+
+que j'eusse édité
+que tu eusses édité
+qu’il (elle) eût édité
+que nous eussions édité
+que vous eussiez édité
+qu’ils (elles) eussent édité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons édité
+ayez édité
+
+* INFINITIF
+
+** Passé
+
+avoir édité
+
+* PARTICIPE
+
+** Passé
+
+ayant édité
+édité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis édité(e)
+tu es édité(e)
+il (elle) est édité(e)
+nous sommes édité(e)s
+vous êtes édité(e)s
+ils (elles) sont édité(e)s
+
+** Imparfait
+
+j'étais édité(e)
+tu étais édité(e)
+il (elle) était édité(e)
+nous étions édité(e)s
+vous étiez édité(e)s
+ils (elles) étaient édité(e)s
+
+** Passé simple
+
+je fus édité(e)
+tu fus édité(e)
+il (elle) fut édité(e)
+nous fûmes édité(e)s
+vous fûtes édité(e)s
+ils (elles) furent édité(e)s
+
+** Futur simple
+
+je serai édité(e)
+tu seras édité(e)
+il (elle) sera édité(e)
+nous serons édité(e)s
+vous serez édité(e)s
+ils (elles) seront édité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais édité(e)
+tu serais édité(e)
+il (elle) serait édité(e)
+nous serions édité(e)s
+vous seriez édité(e)s
+ils (elles) seraient édité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois édité(e)
+que tu sois édité(e)
+qu’il (elle) soit édité(e)
+que nous soyons édité(e)s
+que vous soyez édité(e)s
+qu’ils (elles) soient édité(e)s
+
+** Imparfait
+
+que je fusse édité(e)
+que tu fusses édité(e)
+qu’il (elle) fût édité(e)
+que nous fussions édité(e)s
+que vous fussiez édité(e)s
+qu’ils (elles) fussent édité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons édité(e)s
+soyez édité(e)s
+
+* INFINITIF
+
+** Présent
+
+être édité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant édité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été édité(e)
+tu as été édité(e)
+il (elle) a été édité(e)
+nous avons été édité(e)s
+vous avez été édité(e)s
+ils (elles) ont été édité(e)s
+
+** Plus-que-parfait
+
+j'avais été édité(e)
+il (elle) avait été édité(e)
+nous avions été édité(e)s
+ils (elles) avaient été édité(e)s
+
+** Passé antérieur
+
+j'eus été édité(e)
+tu eus été édité(e)
+il (elle) eut été édité(e)
+nous eûmes été édité(e)s
+vous eûtes été édité(e)s
+ils (elles) eurent été édité(e)s
+
+** Futur antérieur
+
+j'aurai été édité(e)
+tu auras été édité(e)
+il (elle) aura été édité(e)
+nous aurons été édité(e)s
+vous aurez été édité(e)s
+ils (elles) auront été édité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été édité(e)
+j'aurais été édité(e)
+il (elle) aurait été édité(e)
+nous aurions été édité(e)s
+vous auriez été édité(e)s
+ils (elles) auraient été édité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été édité(e)
+que tu aies été édité(e)
+qu’il (elle) ait été édité(e)
+que nous ayons été édité(e)s
+que vous ayez été édité(e)s
+qu’ils (elles) aient été édité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été édité(e)
+que tu eusses été édité(e)
+qu’il (elle) eût été édité(e)
+que nous eussions été édité(e)s
+que vous eussiez été édité(e)s
+qu’ils (elles) eussent été édité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été édité(e)
+ayons été édité(e)s
+ayez été édité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été édité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été édité(e)(s)

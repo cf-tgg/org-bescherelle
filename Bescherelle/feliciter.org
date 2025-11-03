@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe feliciter
+
+* INDICATIF
+
+** Présent
+
+je félicite
+tu félicites
+il (elle) félicite
+nous félicitons
+vous félicitez
+ils (elles) félicitent
+
+** Imparfait
+
+je félicitais
+tu félicitais
+il (elle) félicitait
+nous félicitions
+vous félicitiez
+ils (elles) félicitaient
+
+** Passé simple
+
+je félicitai
+tu félicitas
+il (elle) félicita
+nous félicitâmes
+vous félicitâtes
+ils (elles) félicitèrent
+
+** Futur simple
+
+je féliciterai
+tu féliciteras
+il (elle) félicitera
+nous féliciterons
+vous féliciterez
+ils (elles) féliciteront
+
+* CONDITIONNEL
+
+** Présent
+
+je féliciterais
+tu féliciterais
+il (elle) féliciterait
+nous féliciterions
+vous féliciteriez
+ils (elles) féliciteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je félicite
+que tu félicites
+qu’il (elle) félicite
+que nous félicitions
+que vous félicitiez
+qu’ils (elles) félicitent
+
+** Imparfait
+
+que je félicitasse
+que tu félicitasses
+qu’il (elle) félicitât
+que nous félicitassions
+que vous félicitassiez
+qu’ils (elles) félicitassent
+
+* IMPÉRATIF
+
+** Présent
+
+félicite
+félicitons
+félicitez
+
+* INFINITIF
+
+** Présent
+
+féliciter
+
+* PARTICIPE
+
+** Présent
+
+félicitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai félicité
+tu as félicité
+il (elle) a félicité
+nous avons félicité
+vous avez félicité
+ils (elles) ont félicité
+
+** Plus-que-parfait
+
+j'avais félicité
+tu avais félicité
+il (elle) avait félicité
+nous avions félicité
+vous aviez félicité
+ils (elles) avaient félicité
+
+** Passé antérieur
+
+j'eus félicité
+tu eus félicité
+il (elle) eut félicité
+nous eûmes félicité
+vous eûtes félicité
+ils (elles) eurent félicité
+
+** Futur antérieur
+
+j'aurai félicité
+tu auras félicité
+il (elle) aura félicité
+nous aurons félicité
+vous aurez félicité
+ils (elles) auront félicité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais félicité
+tu aurais félicité
+il (elle) aurait félicité
+nous aurions félicité
+vous auriez félicité
+ils (elles) auraient félicité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie félicité
+que tu aies félicité
+qu’il (elle) ait félicité
+que nous ayons félicité
+que vous ayez félicité
+qu’ils (elles) aient félicité
+
+** Plus-que-parfait
+
+que j'eusse félicité
+que tu eusses félicité
+qu’il (elle) eût félicité
+que nous eussions félicité
+que vous eussiez félicité
+qu’ils (elles) eussent félicité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons félicité
+ayez félicité
+
+* INFINITIF
+
+** Passé
+
+avoir félicité
+
+* PARTICIPE
+
+** Passé
+
+ayant félicité
+félicité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis félicité(e)
+tu es félicité(e)
+il (elle) est félicité(e)
+nous sommes félicité(e)s
+vous êtes félicité(e)s
+ils (elles) sont félicité(e)s
+
+** Imparfait
+
+j'étais félicité(e)
+tu étais félicité(e)
+il (elle) était félicité(e)
+nous étions félicité(e)s
+vous étiez félicité(e)s
+ils (elles) étaient félicité(e)s
+
+** Passé simple
+
+je fus félicité(e)
+tu fus félicité(e)
+il (elle) fut félicité(e)
+nous fûmes félicité(e)s
+vous fûtes félicité(e)s
+ils (elles) furent félicité(e)s
+
+** Futur simple
+
+je serai félicité(e)
+tu seras félicité(e)
+il (elle) sera félicité(e)
+nous serons félicité(e)s
+vous serez félicité(e)s
+ils (elles) seront félicité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais félicité(e)
+tu serais félicité(e)
+il (elle) serait félicité(e)
+nous serions félicité(e)s
+vous seriez félicité(e)s
+ils (elles) seraient félicité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois félicité(e)
+que tu sois félicité(e)
+qu’il (elle) soit félicité(e)
+que nous soyons félicité(e)s
+que vous soyez félicité(e)s
+qu’ils (elles) soient félicité(e)s
+
+** Imparfait
+
+que je fusse félicité(e)
+que tu fusses félicité(e)
+qu’il (elle) fût félicité(e)
+que nous fussions félicité(e)s
+que vous fussiez félicité(e)s
+qu’ils (elles) fussent félicité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons félicité(e)s
+soyez félicité(e)s
+
+* INFINITIF
+
+** Présent
+
+être félicité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant félicité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été félicité(e)
+tu as été félicité(e)
+il (elle) a été félicité(e)
+nous avons été félicité(e)s
+vous avez été félicité(e)s
+ils (elles) ont été félicité(e)s
+
+** Plus-que-parfait
+
+j'avais été félicité(e)
+il (elle) avait été félicité(e)
+nous avions été félicité(e)s
+ils (elles) avaient été félicité(e)s
+
+** Passé antérieur
+
+j'eus été félicité(e)
+tu eus été félicité(e)
+il (elle) eut été félicité(e)
+nous eûmes été félicité(e)s
+vous eûtes été félicité(e)s
+ils (elles) eurent été félicité(e)s
+
+** Futur antérieur
+
+j'aurai été félicité(e)
+tu auras été félicité(e)
+il (elle) aura été félicité(e)
+nous aurons été félicité(e)s
+vous aurez été félicité(e)s
+ils (elles) auront été félicité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été félicité(e)
+j'aurais été félicité(e)
+il (elle) aurait été félicité(e)
+nous aurions été félicité(e)s
+vous auriez été félicité(e)s
+ils (elles) auraient été félicité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été félicité(e)
+que tu aies été félicité(e)
+qu’il (elle) ait été félicité(e)
+que nous ayons été félicité(e)s
+que vous ayez été félicité(e)s
+qu’ils (elles) aient été félicité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été félicité(e)
+que tu eusses été félicité(e)
+qu’il (elle) eût été félicité(e)
+que nous eussions été félicité(e)s
+que vous eussiez été félicité(e)s
+qu’ils (elles) eussent été félicité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été félicité(e)
+ayons été félicité(e)s
+ayez été félicité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été félicité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été félicité(e)(s)

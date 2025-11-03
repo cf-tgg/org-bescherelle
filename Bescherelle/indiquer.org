@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe indiquer
+
+* INDICATIF
+
+** Présent
+
+j'indique
+tu indiques
+il (elle) indique
+nous indiquons
+vous indiquez
+ils (elles) indiquent
+
+** Imparfait
+
+j'indiquais
+tu indiquais
+il (elle) indiquait
+nous indiquions
+vous indiquiez
+ils (elles) indiquaient
+
+** Passé simple
+
+j'indiquai
+tu indiquas
+il (elle) indiqua
+nous indiquâmes
+vous indiquâtes
+ils (elles) indiquèrent
+
+** Futur simple
+
+j'indiquerai
+tu indiqueras
+il (elle) indiquera
+nous indiquerons
+vous indiquerez
+ils (elles) indiqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'indiquerais
+tu indiquerais
+il (elle) indiquerait
+nous indiquerions
+vous indiqueriez
+ils (elles) indiqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'indique
+que tu indiques
+qu’il (elle) indique
+que nous indiquions
+que vous indiquiez
+qu’ils (elles) indiquent
+
+** Imparfait
+
+que j'indiquasse
+que tu indiquasses
+qu’il (elle) indiquât
+que nous indiquassions
+que vous indiquassiez
+qu’ils (elles) indiquassent
+
+* IMPÉRATIF
+
+** Présent
+
+indique
+indiquons
+indiquez
+
+* INFINITIF
+
+** Présent
+
+indiquer
+
+* PARTICIPE
+
+** Présent
+
+indiquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai indiqué
+tu as indiqué
+il (elle) a indiqué
+nous avons indiqué
+vous avez indiqué
+ils (elles) ont indiqué
+
+** Plus-que-parfait
+
+j'avais indiqué
+tu avais indiqué
+il (elle) avait indiqué
+nous avions indiqué
+vous aviez indiqué
+ils (elles) avaient indiqué
+
+** Passé antérieur
+
+j'eus indiqué
+tu eus indiqué
+il (elle) eut indiqué
+nous eûmes indiqué
+vous eûtes indiqué
+ils (elles) eurent indiqué
+
+** Futur antérieur
+
+j'aurai indiqué
+tu auras indiqué
+il (elle) aura indiqué
+nous aurons indiqué
+vous aurez indiqué
+ils (elles) auront indiqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais indiqué
+tu aurais indiqué
+il (elle) aurait indiqué
+nous aurions indiqué
+vous auriez indiqué
+ils (elles) auraient indiqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie indiqué
+que tu aies indiqué
+qu’il (elle) ait indiqué
+que nous ayons indiqué
+que vous ayez indiqué
+qu’ils (elles) aient indiqué
+
+** Plus-que-parfait
+
+que j'eusse indiqué
+que tu eusses indiqué
+qu’il (elle) eût indiqué
+que nous eussions indiqué
+que vous eussiez indiqué
+qu’ils (elles) eussent indiqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons indiqué
+ayez indiqué
+
+* INFINITIF
+
+** Passé
+
+avoir indiqué
+
+* PARTICIPE
+
+** Passé
+
+ayant indiqué
+indiqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis indiqué(e)
+tu es indiqué(e)
+il (elle) est indiqué(e)
+nous sommes indiqué(e)s
+vous êtes indiqué(e)s
+ils (elles) sont indiqué(e)s
+
+** Imparfait
+
+j'étais indiqué(e)
+tu étais indiqué(e)
+il (elle) était indiqué(e)
+nous étions indiqué(e)s
+vous étiez indiqué(e)s
+ils (elles) étaient indiqué(e)s
+
+** Passé simple
+
+je fus indiqué(e)
+tu fus indiqué(e)
+il (elle) fut indiqué(e)
+nous fûmes indiqué(e)s
+vous fûtes indiqué(e)s
+ils (elles) furent indiqué(e)s
+
+** Futur simple
+
+je serai indiqué(e)
+tu seras indiqué(e)
+il (elle) sera indiqué(e)
+nous serons indiqué(e)s
+vous serez indiqué(e)s
+ils (elles) seront indiqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais indiqué(e)
+tu serais indiqué(e)
+il (elle) serait indiqué(e)
+nous serions indiqué(e)s
+vous seriez indiqué(e)s
+ils (elles) seraient indiqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois indiqué(e)
+que tu sois indiqué(e)
+qu’il (elle) soit indiqué(e)
+que nous soyons indiqué(e)s
+que vous soyez indiqué(e)s
+qu’ils (elles) soient indiqué(e)s
+
+** Imparfait
+
+que je fusse indiqué(e)
+que tu fusses indiqué(e)
+qu’il (elle) fût indiqué(e)
+que nous fussions indiqué(e)s
+que vous fussiez indiqué(e)s
+qu’ils (elles) fussent indiqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons indiqué(e)s
+soyez indiqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être indiqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant indiqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été indiqué(e)
+tu as été indiqué(e)
+il (elle) a été indiqué(e)
+nous avons été indiqué(e)s
+vous avez été indiqué(e)s
+ils (elles) ont été indiqué(e)s
+
+** Plus-que-parfait
+
+j'avais été indiqué(e)
+il (elle) avait été indiqué(e)
+nous avions été indiqué(e)s
+ils (elles) avaient été indiqué(e)s
+
+** Passé antérieur
+
+j'eus été indiqué(e)
+tu eus été indiqué(e)
+il (elle) eut été indiqué(e)
+nous eûmes été indiqué(e)s
+vous eûtes été indiqué(e)s
+ils (elles) eurent été indiqué(e)s
+
+** Futur antérieur
+
+j'aurai été indiqué(e)
+tu auras été indiqué(e)
+il (elle) aura été indiqué(e)
+nous aurons été indiqué(e)s
+vous aurez été indiqué(e)s
+ils (elles) auront été indiqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été indiqué(e)
+j'aurais été indiqué(e)
+il (elle) aurait été indiqué(e)
+nous aurions été indiqué(e)s
+vous auriez été indiqué(e)s
+ils (elles) auraient été indiqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été indiqué(e)
+que tu aies été indiqué(e)
+qu’il (elle) ait été indiqué(e)
+que nous ayons été indiqué(e)s
+que vous ayez été indiqué(e)s
+qu’ils (elles) aient été indiqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été indiqué(e)
+que tu eusses été indiqué(e)
+qu’il (elle) eût été indiqué(e)
+que nous eussions été indiqué(e)s
+que vous eussiez été indiqué(e)s
+qu’ils (elles) eussent été indiqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été indiqué(e)
+ayons été indiqué(e)s
+ayez été indiqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été indiqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été indiqué(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe endurer
+
+* INDICATIF
+
+** Présent
+
+j'endure
+tu endures
+il (elle) endure
+nous endurons
+vous endurez
+ils (elles) endurent
+
+** Imparfait
+
+j'endurais
+tu endurais
+il (elle) endurait
+nous endurions
+vous enduriez
+ils (elles) enduraient
+
+** Passé simple
+
+j'endurai
+tu enduras
+il (elle) endura
+nous endurâmes
+vous endurâtes
+ils (elles) endurèrent
+
+** Futur simple
+
+j'endurerai
+tu endureras
+il (elle) endurera
+nous endurerons
+vous endurerez
+ils (elles) endureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'endurerais
+tu endurerais
+il (elle) endurerait
+nous endurerions
+vous endureriez
+ils (elles) endureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'endure
+que tu endures
+qu’il (elle) endure
+que nous endurions
+que vous enduriez
+qu’ils (elles) endurent
+
+** Imparfait
+
+que j'endurasse
+que tu endurasses
+qu’il (elle) endurât
+que nous endurassions
+que vous endurassiez
+qu’ils (elles) endurassent
+
+* IMPÉRATIF
+
+** Présent
+
+endure
+endurons
+endurez
+
+* INFINITIF
+
+** Présent
+
+endurer
+
+* PARTICIPE
+
+** Présent
+
+endurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enduré
+tu as enduré
+il (elle) a enduré
+nous avons enduré
+vous avez enduré
+ils (elles) ont enduré
+
+** Plus-que-parfait
+
+j'avais enduré
+tu avais enduré
+il (elle) avait enduré
+nous avions enduré
+vous aviez enduré
+ils (elles) avaient enduré
+
+** Passé antérieur
+
+j'eus enduré
+tu eus enduré
+il (elle) eut enduré
+nous eûmes enduré
+vous eûtes enduré
+ils (elles) eurent enduré
+
+** Futur antérieur
+
+j'aurai enduré
+tu auras enduré
+il (elle) aura enduré
+nous aurons enduré
+vous aurez enduré
+ils (elles) auront enduré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enduré
+tu aurais enduré
+il (elle) aurait enduré
+nous aurions enduré
+vous auriez enduré
+ils (elles) auraient enduré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enduré
+que tu aies enduré
+qu’il (elle) ait enduré
+que nous ayons enduré
+que vous ayez enduré
+qu’ils (elles) aient enduré
+
+** Plus-que-parfait
+
+que j'eusse enduré
+que tu eusses enduré
+qu’il (elle) eût enduré
+que nous eussions enduré
+que vous eussiez enduré
+qu’ils (elles) eussent enduré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enduré
+ayez enduré
+
+* INFINITIF
+
+** Passé
+
+avoir enduré
+
+* PARTICIPE
+
+** Passé
+
+ayant enduré
+enduré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enduré(e)
+tu es enduré(e)
+il (elle) est enduré(e)
+nous sommes enduré(e)s
+vous êtes enduré(e)s
+ils (elles) sont enduré(e)s
+
+** Imparfait
+
+j'étais enduré(e)
+tu étais enduré(e)
+il (elle) était enduré(e)
+nous étions enduré(e)s
+vous étiez enduré(e)s
+ils (elles) étaient enduré(e)s
+
+** Passé simple
+
+je fus enduré(e)
+tu fus enduré(e)
+il (elle) fut enduré(e)
+nous fûmes enduré(e)s
+vous fûtes enduré(e)s
+ils (elles) furent enduré(e)s
+
+** Futur simple
+
+je serai enduré(e)
+tu seras enduré(e)
+il (elle) sera enduré(e)
+nous serons enduré(e)s
+vous serez enduré(e)s
+ils (elles) seront enduré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enduré(e)
+tu serais enduré(e)
+il (elle) serait enduré(e)
+nous serions enduré(e)s
+vous seriez enduré(e)s
+ils (elles) seraient enduré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enduré(e)
+que tu sois enduré(e)
+qu’il (elle) soit enduré(e)
+que nous soyons enduré(e)s
+que vous soyez enduré(e)s
+qu’ils (elles) soient enduré(e)s
+
+** Imparfait
+
+que je fusse enduré(e)
+que tu fusses enduré(e)
+qu’il (elle) fût enduré(e)
+que nous fussions enduré(e)s
+que vous fussiez enduré(e)s
+qu’ils (elles) fussent enduré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enduré(e)s
+soyez enduré(e)s
+
+* INFINITIF
+
+** Présent
+
+être enduré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enduré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enduré(e)
+tu as été enduré(e)
+il (elle) a été enduré(e)
+nous avons été enduré(e)s
+vous avez été enduré(e)s
+ils (elles) ont été enduré(e)s
+
+** Plus-que-parfait
+
+j'avais été enduré(e)
+il (elle) avait été enduré(e)
+nous avions été enduré(e)s
+ils (elles) avaient été enduré(e)s
+
+** Passé antérieur
+
+j'eus été enduré(e)
+tu eus été enduré(e)
+il (elle) eut été enduré(e)
+nous eûmes été enduré(e)s
+vous eûtes été enduré(e)s
+ils (elles) eurent été enduré(e)s
+
+** Futur antérieur
+
+j'aurai été enduré(e)
+tu auras été enduré(e)
+il (elle) aura été enduré(e)
+nous aurons été enduré(e)s
+vous aurez été enduré(e)s
+ils (elles) auront été enduré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enduré(e)
+j'aurais été enduré(e)
+il (elle) aurait été enduré(e)
+nous aurions été enduré(e)s
+vous auriez été enduré(e)s
+ils (elles) auraient été enduré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enduré(e)
+que tu aies été enduré(e)
+qu’il (elle) ait été enduré(e)
+que nous ayons été enduré(e)s
+que vous ayez été enduré(e)s
+qu’ils (elles) aient été enduré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enduré(e)
+que tu eusses été enduré(e)
+qu’il (elle) eût été enduré(e)
+que nous eussions été enduré(e)s
+que vous eussiez été enduré(e)s
+qu’ils (elles) eussent été enduré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enduré(e)
+ayons été enduré(e)s
+ayez été enduré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enduré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enduré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe produire
+
+* INDICATIF
+
+** Présent
+
+je produis
+tu produis
+il (elle) produit
+nous produisons
+vous produisez
+ils (elles) produisent
+
+** Imparfait
+
+je produisais
+tu produisais
+il (elle) produisait
+nous produisions
+vous produisiez
+ils (elles) produisaient
+
+** Passé simple
+
+je produisis
+tu produisis
+il (elle) produisit
+nous produisîmes
+vous produisîtes
+ils (elles) produisirent
+
+** Futur simple
+
+je produirai
+tu produiras
+il (elle) produira
+nous produirons
+vous produirez
+ils (elles) produiront
+
+* CONDITIONNEL
+
+** Présent
+
+je produirais
+tu produirais
+il (elle) produirait
+nous produirions
+vous produiriez
+ils (elles) produiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je produise
+que tu produises
+qu’il (elle) produise
+que nous produisions
+que vous produisiez
+qu’ils (elles) produisent
+
+** Imparfait
+
+que je produisisse
+que tu produisisses
+qu’il (elle) produisît
+que nous produisissions
+que vous produisissiez
+qu’ils (elles) produisissent
+
+* IMPÉRATIF
+
+** Présent
+
+produis
+produisons
+produisez
+
+* INFINITIF
+
+** Présent
+
+produire
+
+* PARTICIPE
+
+** Présent
+
+produisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai produit
+tu as produit
+il (elle) a produit
+nous avons produit
+vous avez produit
+ils (elles) ont produit
+
+** Plus-que-parfait
+
+j'avais produit
+tu avais produit
+il (elle) avait produit
+nous avions produit
+vous aviez produit
+ils (elles) avaient produit
+
+** Passé antérieur
+
+j'eus produit
+tu eus produit
+il (elle) eut produit
+nous eûmes produit
+vous eûtes produit
+ils (elles) eurent produit
+
+** Futur antérieur
+
+j'aurai produit
+tu auras produit
+il (elle) aura produit
+nous aurons produit
+vous aurez produit
+ils (elles) auront produit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais produit
+tu aurais produit
+il (elle) aurait produit
+nous aurions produit
+vous auriez produit
+ils (elles) auraient produit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie produit
+que tu aies produit
+qu’il (elle) ait produit
+que nous ayons produit
+que vous ayez produit
+qu’ils (elles) aient produit
+
+** Plus-que-parfait
+
+que j'eusse produit
+que tu eusses produit
+qu’il (elle) eût produit
+que nous eussions produit
+que vous eussiez produit
+qu’ils (elles) eussent produit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons produit
+ayez produit
+
+* INFINITIF
+
+** Passé
+
+avoir produit
+
+* PARTICIPE
+
+** Passé
+
+ayant produit
+produit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis produit(e)
+tu es produit(e)
+il (elle) est produit(e)
+nous sommes produit(e)s
+vous êtes produit(e)s
+ils (elles) sont produit(e)s
+
+** Imparfait
+
+j'étais produit(e)
+tu étais produit(e)
+il (elle) était produit(e)
+nous étions produit(e)s
+vous étiez produit(e)s
+ils (elles) étaient produit(e)s
+
+** Passé simple
+
+je fus produit(e)
+tu fus produit(e)
+il (elle) fut produit(e)
+nous fûmes produit(e)s
+vous fûtes produit(e)s
+ils (elles) furent produit(e)s
+
+** Futur simple
+
+je serai produit(e)
+tu seras produit(e)
+il (elle) sera produit(e)
+nous serons produit(e)s
+vous serez produit(e)s
+ils (elles) seront produit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais produit(e)
+tu serais produit(e)
+il (elle) serait produit(e)
+nous serions produit(e)s
+vous seriez produit(e)s
+ils (elles) seraient produit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois produit(e)
+que tu sois produit(e)
+qu’il (elle) soit produit(e)
+que nous soyons produit(e)s
+que vous soyez produit(e)s
+qu’ils (elles) soient produit(e)s
+
+** Imparfait
+
+que je fusse produit(e)
+que tu fusses produit(e)
+qu’il (elle) fût produit(e)
+que nous fussions produit(e)s
+que vous fussiez produit(e)s
+qu’ils (elles) fussent produit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons produit(e)s
+soyez produit(e)s
+
+* INFINITIF
+
+** Présent
+
+être produit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant produit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été produit(e)
+tu as été produit(e)
+il (elle) a été produit(e)
+nous avons été produit(e)s
+vous avez été produit(e)s
+ils (elles) ont été produit(e)s
+
+** Plus-que-parfait
+
+j'avais été produit(e)
+il (elle) avait été produit(e)
+nous avions été produit(e)s
+ils (elles) avaient été produit(e)s
+
+** Passé antérieur
+
+j'eus été produit(e)
+tu eus été produit(e)
+il (elle) eut été produit(e)
+nous eûmes été produit(e)s
+vous eûtes été produit(e)s
+ils (elles) eurent été produit(e)s
+
+** Futur antérieur
+
+j'aurai été produit(e)
+tu auras été produit(e)
+il (elle) aura été produit(e)
+nous aurons été produit(e)s
+vous aurez été produit(e)s
+ils (elles) auront été produit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été produit(e)
+j'aurais été produit(e)
+il (elle) aurait été produit(e)
+nous aurions été produit(e)s
+vous auriez été produit(e)s
+ils (elles) auraient été produit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été produit(e)
+que tu aies été produit(e)
+qu’il (elle) ait été produit(e)
+que nous ayons été produit(e)s
+que vous ayez été produit(e)s
+qu’ils (elles) aient été produit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été produit(e)
+que tu eusses été produit(e)
+qu’il (elle) eût été produit(e)
+que nous eussions été produit(e)s
+que vous eussiez été produit(e)s
+qu’ils (elles) eussent été produit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été produit(e)
+ayons été produit(e)s
+ayez été produit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été produit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été produit(e)(s)

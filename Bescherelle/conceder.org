@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conceder
+
+* INDICATIF
+
+** Présent
+
+je concède
+tu concèdes
+il (elle) concède
+nous concédons
+vous concédez
+ils (elles) concèdent
+
+** Imparfait
+
+je concédais
+tu concédais
+il (elle) concédait
+nous concédions
+vous concédiez
+ils (elles) concédaient
+
+** Passé simple
+
+je concédai
+tu concédas
+il (elle) concéda
+nous concédâmes
+vous concédâtes
+ils (elles) concédèrent
+
+** Futur simple
+
+je concéderai
+tu concéderas
+il (elle) concédera
+nous concéderons
+vous concéderez
+ils (elles) concéderont
+
+* CONDITIONNEL
+
+** Présent
+
+je concéderais
+tu concéderais
+il (elle) concéderait
+nous concéderions
+vous concéderiez
+ils (elles) concéderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je concède
+que tu concèdes
+qu’il (elle) concède
+que nous concédions
+que vous concédiez
+qu’ils (elles) concèdent
+
+** Imparfait
+
+que je concédasse
+que tu concédasses
+qu’il (elle) concédât
+que nous concédassions
+que vous concédassiez
+qu’ils (elles) concédassent
+
+* IMPÉRATIF
+
+** Présent
+
+concède
+concédons
+concédez
+
+* INFINITIF
+
+** Présent
+
+concéder
+
+* PARTICIPE
+
+** Présent
+
+concédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai concédé
+tu as concédé
+il (elle) a concédé
+nous avons concédé
+vous avez concédé
+ils (elles) ont concédé
+
+** Plus-que-parfait
+
+j'avais concédé
+tu avais concédé
+il (elle) avait concédé
+nous avions concédé
+vous aviez concédé
+ils (elles) avaient concédé
+
+** Passé antérieur
+
+j'eus concédé
+tu eus concédé
+il (elle) eut concédé
+nous eûmes concédé
+vous eûtes concédé
+ils (elles) eurent concédé
+
+** Futur antérieur
+
+j'aurai concédé
+tu auras concédé
+il (elle) aura concédé
+nous aurons concédé
+vous aurez concédé
+ils (elles) auront concédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais concédé
+tu aurais concédé
+il (elle) aurait concédé
+nous aurions concédé
+vous auriez concédé
+ils (elles) auraient concédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie concédé
+que tu aies concédé
+qu’il (elle) ait concédé
+que nous ayons concédé
+que vous ayez concédé
+qu’ils (elles) aient concédé
+
+** Plus-que-parfait
+
+que j'eusse concédé
+que tu eusses concédé
+qu’il (elle) eût concédé
+que nous eussions concédé
+que vous eussiez concédé
+qu’ils (elles) eussent concédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons concédé
+ayez concédé
+
+* INFINITIF
+
+** Passé
+
+avoir concédé
+
+* PARTICIPE
+
+** Passé
+
+ayant concédé
+concédé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis concédé(e)
+tu es concédé(e)
+il (elle) est concédé(e)
+nous sommes concédé(e)s
+vous êtes concédé(e)s
+ils (elles) sont concédé(e)s
+
+** Imparfait
+
+j'étais concédé(e)
+tu étais concédé(e)
+il (elle) était concédé(e)
+nous étions concédé(e)s
+vous étiez concédé(e)s
+ils (elles) étaient concédé(e)s
+
+** Passé simple
+
+je fus concédé(e)
+tu fus concédé(e)
+il (elle) fut concédé(e)
+nous fûmes concédé(e)s
+vous fûtes concédé(e)s
+ils (elles) furent concédé(e)s
+
+** Futur simple
+
+je serai concédé(e)
+tu seras concédé(e)
+il (elle) sera concédé(e)
+nous serons concédé(e)s
+vous serez concédé(e)s
+ils (elles) seront concédé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais concédé(e)
+tu serais concédé(e)
+il (elle) serait concédé(e)
+nous serions concédé(e)s
+vous seriez concédé(e)s
+ils (elles) seraient concédé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois concédé(e)
+que tu sois concédé(e)
+qu’il (elle) soit concédé(e)
+que nous soyons concédé(e)s
+que vous soyez concédé(e)s
+qu’ils (elles) soient concédé(e)s
+
+** Imparfait
+
+que je fusse concédé(e)
+que tu fusses concédé(e)
+qu’il (elle) fût concédé(e)
+que nous fussions concédé(e)s
+que vous fussiez concédé(e)s
+qu’ils (elles) fussent concédé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons concédé(e)s
+soyez concédé(e)s
+
+* INFINITIF
+
+** Présent
+
+être concédé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant concédé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été concédé(e)
+tu as été concédé(e)
+il (elle) a été concédé(e)
+nous avons été concédé(e)s
+vous avez été concédé(e)s
+ils (elles) ont été concédé(e)s
+
+** Plus-que-parfait
+
+j'avais été concédé(e)
+il (elle) avait été concédé(e)
+nous avions été concédé(e)s
+ils (elles) avaient été concédé(e)s
+
+** Passé antérieur
+
+j'eus été concédé(e)
+tu eus été concédé(e)
+il (elle) eut été concédé(e)
+nous eûmes été concédé(e)s
+vous eûtes été concédé(e)s
+ils (elles) eurent été concédé(e)s
+
+** Futur antérieur
+
+j'aurai été concédé(e)
+tu auras été concédé(e)
+il (elle) aura été concédé(e)
+nous aurons été concédé(e)s
+vous aurez été concédé(e)s
+ils (elles) auront été concédé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été concédé(e)
+j'aurais été concédé(e)
+il (elle) aurait été concédé(e)
+nous aurions été concédé(e)s
+vous auriez été concédé(e)s
+ils (elles) auraient été concédé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été concédé(e)
+que tu aies été concédé(e)
+qu’il (elle) ait été concédé(e)
+que nous ayons été concédé(e)s
+que vous ayez été concédé(e)s
+qu’ils (elles) aient été concédé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été concédé(e)
+que tu eusses été concédé(e)
+qu’il (elle) eût été concédé(e)
+que nous eussions été concédé(e)s
+que vous eussiez été concédé(e)s
+qu’ils (elles) eussent été concédé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été concédé(e)
+ayons été concédé(e)s
+ayez été concédé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été concédé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été concédé(e)(s)

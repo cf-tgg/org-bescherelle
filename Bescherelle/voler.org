@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe voler
+
+* INDICATIF
+
+** Présent
+
+je vole
+tu voles
+il (elle) vole
+nous volons
+vous volez
+ils (elles) volent
+
+** Imparfait
+
+je volais
+tu volais
+il (elle) volait
+nous volions
+vous voliez
+ils (elles) volaient
+
+** Passé simple
+
+je volai
+tu volas
+il (elle) vola
+nous volâmes
+vous volâtes
+ils (elles) volèrent
+
+** Futur simple
+
+je volerai
+tu voleras
+il (elle) volera
+nous volerons
+vous volerez
+ils (elles) voleront
+
+* CONDITIONNEL
+
+** Présent
+
+je volerais
+tu volerais
+il (elle) volerait
+nous volerions
+vous voleriez
+ils (elles) voleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vole
+que tu voles
+qu’il (elle) vole
+que nous volions
+que vous voliez
+qu’ils (elles) volent
+
+** Imparfait
+
+que je volasse
+que tu volasses
+qu’il (elle) volât
+que nous volassions
+que vous volassiez
+qu’ils (elles) volassent
+
+* IMPÉRATIF
+
+** Présent
+
+vole
+volons
+volez
+
+* INFINITIF
+
+** Présent
+
+voler
+
+* PARTICIPE
+
+** Présent
+
+volant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai volé
+tu as volé
+il (elle) a volé
+nous avons volé
+vous avez volé
+ils (elles) ont volé
+
+** Plus-que-parfait
+
+j'avais volé
+tu avais volé
+il (elle) avait volé
+nous avions volé
+vous aviez volé
+ils (elles) avaient volé
+
+** Passé antérieur
+
+j'eus volé
+tu eus volé
+il (elle) eut volé
+nous eûmes volé
+vous eûtes volé
+ils (elles) eurent volé
+
+** Futur antérieur
+
+j'aurai volé
+tu auras volé
+il (elle) aura volé
+nous aurons volé
+vous aurez volé
+ils (elles) auront volé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais volé
+tu aurais volé
+il (elle) aurait volé
+nous aurions volé
+vous auriez volé
+ils (elles) auraient volé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie volé
+que tu aies volé
+qu’il (elle) ait volé
+que nous ayons volé
+que vous ayez volé
+qu’ils (elles) aient volé
+
+** Plus-que-parfait
+
+que j'eusse volé
+que tu eusses volé
+qu’il (elle) eût volé
+que nous eussions volé
+que vous eussiez volé
+qu’ils (elles) eussent volé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons volé
+ayez volé
+
+* INFINITIF
+
+** Passé
+
+avoir volé
+
+* PARTICIPE
+
+** Passé
+
+ayant volé
+volé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis volé(e)
+tu es volé(e)
+il (elle) est volé(e)
+nous sommes volé(e)s
+vous êtes volé(e)s
+ils (elles) sont volé(e)s
+
+** Imparfait
+
+j'étais volé(e)
+tu étais volé(e)
+il (elle) était volé(e)
+nous étions volé(e)s
+vous étiez volé(e)s
+ils (elles) étaient volé(e)s
+
+** Passé simple
+
+je fus volé(e)
+tu fus volé(e)
+il (elle) fut volé(e)
+nous fûmes volé(e)s
+vous fûtes volé(e)s
+ils (elles) furent volé(e)s
+
+** Futur simple
+
+je serai volé(e)
+tu seras volé(e)
+il (elle) sera volé(e)
+nous serons volé(e)s
+vous serez volé(e)s
+ils (elles) seront volé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais volé(e)
+tu serais volé(e)
+il (elle) serait volé(e)
+nous serions volé(e)s
+vous seriez volé(e)s
+ils (elles) seraient volé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois volé(e)
+que tu sois volé(e)
+qu’il (elle) soit volé(e)
+que nous soyons volé(e)s
+que vous soyez volé(e)s
+qu’ils (elles) soient volé(e)s
+
+** Imparfait
+
+que je fusse volé(e)
+que tu fusses volé(e)
+qu’il (elle) fût volé(e)
+que nous fussions volé(e)s
+que vous fussiez volé(e)s
+qu’ils (elles) fussent volé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons volé(e)s
+soyez volé(e)s
+
+* INFINITIF
+
+** Présent
+
+être volé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant volé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été volé(e)
+tu as été volé(e)
+il (elle) a été volé(e)
+nous avons été volé(e)s
+vous avez été volé(e)s
+ils (elles) ont été volé(e)s
+
+** Plus-que-parfait
+
+j'avais été volé(e)
+il (elle) avait été volé(e)
+nous avions été volé(e)s
+ils (elles) avaient été volé(e)s
+
+** Passé antérieur
+
+j'eus été volé(e)
+tu eus été volé(e)
+il (elle) eut été volé(e)
+nous eûmes été volé(e)s
+vous eûtes été volé(e)s
+ils (elles) eurent été volé(e)s
+
+** Futur antérieur
+
+j'aurai été volé(e)
+tu auras été volé(e)
+il (elle) aura été volé(e)
+nous aurons été volé(e)s
+vous aurez été volé(e)s
+ils (elles) auront été volé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été volé(e)
+j'aurais été volé(e)
+il (elle) aurait été volé(e)
+nous aurions été volé(e)s
+vous auriez été volé(e)s
+ils (elles) auraient été volé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été volé(e)
+que tu aies été volé(e)
+qu’il (elle) ait été volé(e)
+que nous ayons été volé(e)s
+que vous ayez été volé(e)s
+qu’ils (elles) aient été volé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été volé(e)
+que tu eusses été volé(e)
+qu’il (elle) eût été volé(e)
+que nous eussions été volé(e)s
+que vous eussiez été volé(e)s
+qu’ils (elles) eussent été volé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été volé(e)
+ayons été volé(e)s
+ayez été volé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été volé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été volé(e)(s)

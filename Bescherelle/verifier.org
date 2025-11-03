@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe verifier
+
+* INDICATIF
+
+** Présent
+
+je vérifie
+tu vérifies
+il (elle) vérifie
+nous vérifions
+vous vérifiez
+ils (elles) vérifient
+
+** Imparfait
+
+je vérifiais
+tu vérifiais
+il (elle) vérifiait
+nous vérifiions
+vous vérifiiez
+ils (elles) vérifiaient
+
+** Passé simple
+
+je vérifiai
+tu vérifias
+il (elle) vérifia
+nous vérifiâmes
+vous vérifiâtes
+ils (elles) vérifièrent
+
+** Futur simple
+
+je vérifierai
+tu vérifieras
+il (elle) vérifiera
+nous vérifierons
+vous vérifierez
+ils (elles) vérifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je vérifierais
+tu vérifierais
+il (elle) vérifierait
+nous vérifierions
+vous vérifieriez
+ils (elles) vérifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vérifie
+que tu vérifies
+qu’il (elle) vérifie
+que nous vérifiions
+que vous vérifiiez
+qu’ils (elles) vérifient
+
+** Imparfait
+
+que je vérifiasse
+que tu vérifiasses
+qu’il (elle) vérifiât
+que nous vérifiassions
+que vous vérifiassiez
+qu’ils (elles) vérifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+vérifie
+vérifions
+vérifiez
+
+* INFINITIF
+
+** Présent
+
+vérifier
+
+* PARTICIPE
+
+** Présent
+
+vérifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vérifié
+tu as vérifié
+il (elle) a vérifié
+nous avons vérifié
+vous avez vérifié
+ils (elles) ont vérifié
+
+** Plus-que-parfait
+
+j'avais vérifié
+tu avais vérifié
+il (elle) avait vérifié
+nous avions vérifié
+vous aviez vérifié
+ils (elles) avaient vérifié
+
+** Passé antérieur
+
+j'eus vérifié
+tu eus vérifié
+il (elle) eut vérifié
+nous eûmes vérifié
+vous eûtes vérifié
+ils (elles) eurent vérifié
+
+** Futur antérieur
+
+j'aurai vérifié
+tu auras vérifié
+il (elle) aura vérifié
+nous aurons vérifié
+vous aurez vérifié
+ils (elles) auront vérifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vérifié
+tu aurais vérifié
+il (elle) aurait vérifié
+nous aurions vérifié
+vous auriez vérifié
+ils (elles) auraient vérifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vérifié
+que tu aies vérifié
+qu’il (elle) ait vérifié
+que nous ayons vérifié
+que vous ayez vérifié
+qu’ils (elles) aient vérifié
+
+** Plus-que-parfait
+
+que j'eusse vérifié
+que tu eusses vérifié
+qu’il (elle) eût vérifié
+que nous eussions vérifié
+que vous eussiez vérifié
+qu’ils (elles) eussent vérifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vérifié
+ayez vérifié
+
+* INFINITIF
+
+** Passé
+
+avoir vérifié
+
+* PARTICIPE
+
+** Passé
+
+ayant vérifié
+vérifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vérifié(e)
+tu es vérifié(e)
+il (elle) est vérifié(e)
+nous sommes vérifié(e)s
+vous êtes vérifié(e)s
+ils (elles) sont vérifié(e)s
+
+** Imparfait
+
+j'étais vérifié(e)
+tu étais vérifié(e)
+il (elle) était vérifié(e)
+nous étions vérifié(e)s
+vous étiez vérifié(e)s
+ils (elles) étaient vérifié(e)s
+
+** Passé simple
+
+je fus vérifié(e)
+tu fus vérifié(e)
+il (elle) fut vérifié(e)
+nous fûmes vérifié(e)s
+vous fûtes vérifié(e)s
+ils (elles) furent vérifié(e)s
+
+** Futur simple
+
+je serai vérifié(e)
+tu seras vérifié(e)
+il (elle) sera vérifié(e)
+nous serons vérifié(e)s
+vous serez vérifié(e)s
+ils (elles) seront vérifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vérifié(e)
+tu serais vérifié(e)
+il (elle) serait vérifié(e)
+nous serions vérifié(e)s
+vous seriez vérifié(e)s
+ils (elles) seraient vérifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vérifié(e)
+que tu sois vérifié(e)
+qu’il (elle) soit vérifié(e)
+que nous soyons vérifié(e)s
+que vous soyez vérifié(e)s
+qu’ils (elles) soient vérifié(e)s
+
+** Imparfait
+
+que je fusse vérifié(e)
+que tu fusses vérifié(e)
+qu’il (elle) fût vérifié(e)
+que nous fussions vérifié(e)s
+que vous fussiez vérifié(e)s
+qu’ils (elles) fussent vérifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vérifié(e)s
+soyez vérifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être vérifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vérifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vérifié(e)
+tu as été vérifié(e)
+il (elle) a été vérifié(e)
+nous avons été vérifié(e)s
+vous avez été vérifié(e)s
+ils (elles) ont été vérifié(e)s
+
+** Plus-que-parfait
+
+j'avais été vérifié(e)
+il (elle) avait été vérifié(e)
+nous avions été vérifié(e)s
+ils (elles) avaient été vérifié(e)s
+
+** Passé antérieur
+
+j'eus été vérifié(e)
+tu eus été vérifié(e)
+il (elle) eut été vérifié(e)
+nous eûmes été vérifié(e)s
+vous eûtes été vérifié(e)s
+ils (elles) eurent été vérifié(e)s
+
+** Futur antérieur
+
+j'aurai été vérifié(e)
+tu auras été vérifié(e)
+il (elle) aura été vérifié(e)
+nous aurons été vérifié(e)s
+vous aurez été vérifié(e)s
+ils (elles) auront été vérifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vérifié(e)
+j'aurais été vérifié(e)
+il (elle) aurait été vérifié(e)
+nous aurions été vérifié(e)s
+vous auriez été vérifié(e)s
+ils (elles) auraient été vérifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vérifié(e)
+que tu aies été vérifié(e)
+qu’il (elle) ait été vérifié(e)
+que nous ayons été vérifié(e)s
+que vous ayez été vérifié(e)s
+qu’ils (elles) aient été vérifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vérifié(e)
+que tu eusses été vérifié(e)
+qu’il (elle) eût été vérifié(e)
+que nous eussions été vérifié(e)s
+que vous eussiez été vérifié(e)s
+qu’ils (elles) eussent été vérifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vérifié(e)
+ayons été vérifié(e)s
+ayez été vérifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vérifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vérifié(e)(s)

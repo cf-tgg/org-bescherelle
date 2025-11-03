@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe illuminer
+
+* INDICATIF
+
+** Présent
+
+j'illumine
+tu illumines
+il (elle) illumine
+nous illuminons
+vous illuminez
+ils (elles) illuminent
+
+** Imparfait
+
+j'illuminais
+tu illuminais
+il (elle) illuminait
+nous illuminions
+vous illuminiez
+ils (elles) illuminaient
+
+** Passé simple
+
+j'illuminai
+tu illuminas
+il (elle) illumina
+nous illuminâmes
+vous illuminâtes
+ils (elles) illuminèrent
+
+** Futur simple
+
+j'illuminerai
+tu illumineras
+il (elle) illuminera
+nous illuminerons
+vous illuminerez
+ils (elles) illumineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'illuminerais
+tu illuminerais
+il (elle) illuminerait
+nous illuminerions
+vous illumineriez
+ils (elles) illumineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'illumine
+que tu illumines
+qu’il (elle) illumine
+que nous illuminions
+que vous illuminiez
+qu’ils (elles) illuminent
+
+** Imparfait
+
+que j'illuminasse
+que tu illuminasses
+qu’il (elle) illuminât
+que nous illuminassions
+que vous illuminassiez
+qu’ils (elles) illuminassent
+
+* IMPÉRATIF
+
+** Présent
+
+illumine
+illuminons
+illuminez
+
+* INFINITIF
+
+** Présent
+
+illuminer
+
+* PARTICIPE
+
+** Présent
+
+illuminant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai illuminé
+tu as illuminé
+il (elle) a illuminé
+nous avons illuminé
+vous avez illuminé
+ils (elles) ont illuminé
+
+** Plus-que-parfait
+
+j'avais illuminé
+tu avais illuminé
+il (elle) avait illuminé
+nous avions illuminé
+vous aviez illuminé
+ils (elles) avaient illuminé
+
+** Passé antérieur
+
+j'eus illuminé
+tu eus illuminé
+il (elle) eut illuminé
+nous eûmes illuminé
+vous eûtes illuminé
+ils (elles) eurent illuminé
+
+** Futur antérieur
+
+j'aurai illuminé
+tu auras illuminé
+il (elle) aura illuminé
+nous aurons illuminé
+vous aurez illuminé
+ils (elles) auront illuminé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais illuminé
+tu aurais illuminé
+il (elle) aurait illuminé
+nous aurions illuminé
+vous auriez illuminé
+ils (elles) auraient illuminé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie illuminé
+que tu aies illuminé
+qu’il (elle) ait illuminé
+que nous ayons illuminé
+que vous ayez illuminé
+qu’ils (elles) aient illuminé
+
+** Plus-que-parfait
+
+que j'eusse illuminé
+que tu eusses illuminé
+qu’il (elle) eût illuminé
+que nous eussions illuminé
+que vous eussiez illuminé
+qu’ils (elles) eussent illuminé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons illuminé
+ayez illuminé
+
+* INFINITIF
+
+** Passé
+
+avoir illuminé
+
+* PARTICIPE
+
+** Passé
+
+ayant illuminé
+illuminé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis illuminé(e)
+tu es illuminé(e)
+il (elle) est illuminé(e)
+nous sommes illuminé(e)s
+vous êtes illuminé(e)s
+ils (elles) sont illuminé(e)s
+
+** Imparfait
+
+j'étais illuminé(e)
+tu étais illuminé(e)
+il (elle) était illuminé(e)
+nous étions illuminé(e)s
+vous étiez illuminé(e)s
+ils (elles) étaient illuminé(e)s
+
+** Passé simple
+
+je fus illuminé(e)
+tu fus illuminé(e)
+il (elle) fut illuminé(e)
+nous fûmes illuminé(e)s
+vous fûtes illuminé(e)s
+ils (elles) furent illuminé(e)s
+
+** Futur simple
+
+je serai illuminé(e)
+tu seras illuminé(e)
+il (elle) sera illuminé(e)
+nous serons illuminé(e)s
+vous serez illuminé(e)s
+ils (elles) seront illuminé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais illuminé(e)
+tu serais illuminé(e)
+il (elle) serait illuminé(e)
+nous serions illuminé(e)s
+vous seriez illuminé(e)s
+ils (elles) seraient illuminé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois illuminé(e)
+que tu sois illuminé(e)
+qu’il (elle) soit illuminé(e)
+que nous soyons illuminé(e)s
+que vous soyez illuminé(e)s
+qu’ils (elles) soient illuminé(e)s
+
+** Imparfait
+
+que je fusse illuminé(e)
+que tu fusses illuminé(e)
+qu’il (elle) fût illuminé(e)
+que nous fussions illuminé(e)s
+que vous fussiez illuminé(e)s
+qu’ils (elles) fussent illuminé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons illuminé(e)s
+soyez illuminé(e)s
+
+* INFINITIF
+
+** Présent
+
+être illuminé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant illuminé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été illuminé(e)
+tu as été illuminé(e)
+il (elle) a été illuminé(e)
+nous avons été illuminé(e)s
+vous avez été illuminé(e)s
+ils (elles) ont été illuminé(e)s
+
+** Plus-que-parfait
+
+j'avais été illuminé(e)
+il (elle) avait été illuminé(e)
+nous avions été illuminé(e)s
+ils (elles) avaient été illuminé(e)s
+
+** Passé antérieur
+
+j'eus été illuminé(e)
+tu eus été illuminé(e)
+il (elle) eut été illuminé(e)
+nous eûmes été illuminé(e)s
+vous eûtes été illuminé(e)s
+ils (elles) eurent été illuminé(e)s
+
+** Futur antérieur
+
+j'aurai été illuminé(e)
+tu auras été illuminé(e)
+il (elle) aura été illuminé(e)
+nous aurons été illuminé(e)s
+vous aurez été illuminé(e)s
+ils (elles) auront été illuminé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été illuminé(e)
+j'aurais été illuminé(e)
+il (elle) aurait été illuminé(e)
+nous aurions été illuminé(e)s
+vous auriez été illuminé(e)s
+ils (elles) auraient été illuminé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été illuminé(e)
+que tu aies été illuminé(e)
+qu’il (elle) ait été illuminé(e)
+que nous ayons été illuminé(e)s
+que vous ayez été illuminé(e)s
+qu’ils (elles) aient été illuminé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été illuminé(e)
+que tu eusses été illuminé(e)
+qu’il (elle) eût été illuminé(e)
+que nous eussions été illuminé(e)s
+que vous eussiez été illuminé(e)s
+qu’ils (elles) eussent été illuminé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été illuminé(e)
+ayons été illuminé(e)s
+ayez été illuminé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été illuminé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été illuminé(e)(s)

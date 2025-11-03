@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe collectionner
+
+* INDICATIF
+
+** Présent
+
+je collectionne
+tu collectionnes
+il (elle) collectionne
+nous collectionnons
+vous collectionnez
+ils (elles) collectionnent
+
+** Imparfait
+
+je collectionnais
+tu collectionnais
+il (elle) collectionnait
+nous collectionnions
+vous collectionniez
+ils (elles) collectionnaient
+
+** Passé simple
+
+je collectionnai
+tu collectionnas
+il (elle) collectionna
+nous collectionnâmes
+vous collectionnâtes
+ils (elles) collectionnèrent
+
+** Futur simple
+
+je collectionnerai
+tu collectionneras
+il (elle) collectionnera
+nous collectionnerons
+vous collectionnerez
+ils (elles) collectionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je collectionnerais
+tu collectionnerais
+il (elle) collectionnerait
+nous collectionnerions
+vous collectionneriez
+ils (elles) collectionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je collectionne
+que tu collectionnes
+qu’il (elle) collectionne
+que nous collectionnions
+que vous collectionniez
+qu’ils (elles) collectionnent
+
+** Imparfait
+
+que je collectionnasse
+que tu collectionnasses
+qu’il (elle) collectionnât
+que nous collectionnassions
+que vous collectionnassiez
+qu’ils (elles) collectionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+collectionne
+collectionnons
+collectionnez
+
+* INFINITIF
+
+** Présent
+
+collectionner
+
+* PARTICIPE
+
+** Présent
+
+collectionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai collectionné
+tu as collectionné
+il (elle) a collectionné
+nous avons collectionné
+vous avez collectionné
+ils (elles) ont collectionné
+
+** Plus-que-parfait
+
+j'avais collectionné
+tu avais collectionné
+il (elle) avait collectionné
+nous avions collectionné
+vous aviez collectionné
+ils (elles) avaient collectionné
+
+** Passé antérieur
+
+j'eus collectionné
+tu eus collectionné
+il (elle) eut collectionné
+nous eûmes collectionné
+vous eûtes collectionné
+ils (elles) eurent collectionné
+
+** Futur antérieur
+
+j'aurai collectionné
+tu auras collectionné
+il (elle) aura collectionné
+nous aurons collectionné
+vous aurez collectionné
+ils (elles) auront collectionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais collectionné
+tu aurais collectionné
+il (elle) aurait collectionné
+nous aurions collectionné
+vous auriez collectionné
+ils (elles) auraient collectionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie collectionné
+que tu aies collectionné
+qu’il (elle) ait collectionné
+que nous ayons collectionné
+que vous ayez collectionné
+qu’ils (elles) aient collectionné
+
+** Plus-que-parfait
+
+que j'eusse collectionné
+que tu eusses collectionné
+qu’il (elle) eût collectionné
+que nous eussions collectionné
+que vous eussiez collectionné
+qu’ils (elles) eussent collectionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons collectionné
+ayez collectionné
+
+* INFINITIF
+
+** Passé
+
+avoir collectionné
+
+* PARTICIPE
+
+** Passé
+
+ayant collectionné
+collectionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis collectionné(e)
+tu es collectionné(e)
+il (elle) est collectionné(e)
+nous sommes collectionné(e)s
+vous êtes collectionné(e)s
+ils (elles) sont collectionné(e)s
+
+** Imparfait
+
+j'étais collectionné(e)
+tu étais collectionné(e)
+il (elle) était collectionné(e)
+nous étions collectionné(e)s
+vous étiez collectionné(e)s
+ils (elles) étaient collectionné(e)s
+
+** Passé simple
+
+je fus collectionné(e)
+tu fus collectionné(e)
+il (elle) fut collectionné(e)
+nous fûmes collectionné(e)s
+vous fûtes collectionné(e)s
+ils (elles) furent collectionné(e)s
+
+** Futur simple
+
+je serai collectionné(e)
+tu seras collectionné(e)
+il (elle) sera collectionné(e)
+nous serons collectionné(e)s
+vous serez collectionné(e)s
+ils (elles) seront collectionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais collectionné(e)
+tu serais collectionné(e)
+il (elle) serait collectionné(e)
+nous serions collectionné(e)s
+vous seriez collectionné(e)s
+ils (elles) seraient collectionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois collectionné(e)
+que tu sois collectionné(e)
+qu’il (elle) soit collectionné(e)
+que nous soyons collectionné(e)s
+que vous soyez collectionné(e)s
+qu’ils (elles) soient collectionné(e)s
+
+** Imparfait
+
+que je fusse collectionné(e)
+que tu fusses collectionné(e)
+qu’il (elle) fût collectionné(e)
+que nous fussions collectionné(e)s
+que vous fussiez collectionné(e)s
+qu’ils (elles) fussent collectionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons collectionné(e)s
+soyez collectionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être collectionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant collectionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été collectionné(e)
+tu as été collectionné(e)
+il (elle) a été collectionné(e)
+nous avons été collectionné(e)s
+vous avez été collectionné(e)s
+ils (elles) ont été collectionné(e)s
+
+** Plus-que-parfait
+
+j'avais été collectionné(e)
+il (elle) avait été collectionné(e)
+nous avions été collectionné(e)s
+ils (elles) avaient été collectionné(e)s
+
+** Passé antérieur
+
+j'eus été collectionné(e)
+tu eus été collectionné(e)
+il (elle) eut été collectionné(e)
+nous eûmes été collectionné(e)s
+vous eûtes été collectionné(e)s
+ils (elles) eurent été collectionné(e)s
+
+** Futur antérieur
+
+j'aurai été collectionné(e)
+tu auras été collectionné(e)
+il (elle) aura été collectionné(e)
+nous aurons été collectionné(e)s
+vous aurez été collectionné(e)s
+ils (elles) auront été collectionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été collectionné(e)
+j'aurais été collectionné(e)
+il (elle) aurait été collectionné(e)
+nous aurions été collectionné(e)s
+vous auriez été collectionné(e)s
+ils (elles) auraient été collectionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été collectionné(e)
+que tu aies été collectionné(e)
+qu’il (elle) ait été collectionné(e)
+que nous ayons été collectionné(e)s
+que vous ayez été collectionné(e)s
+qu’ils (elles) aient été collectionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été collectionné(e)
+que tu eusses été collectionné(e)
+qu’il (elle) eût été collectionné(e)
+que nous eussions été collectionné(e)s
+que vous eussiez été collectionné(e)s
+qu’ils (elles) eussent été collectionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été collectionné(e)
+ayons été collectionné(e)s
+ayez été collectionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été collectionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été collectionné(e)(s)

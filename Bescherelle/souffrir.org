@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe souffrir
+
+* INDICATIF
+
+** Présent
+
+je souffre
+tu souffres
+il (elle) souffre
+nous souffrons
+vous souffrez
+ils (elles) souffrent
+
+** Imparfait
+
+je souffrais
+tu souffrais
+il (elle) souffrait
+nous souffrions
+vous souffriez
+ils (elles) souffraient
+
+** Passé simple
+
+je souffris
+tu souffris
+il (elle) souffrit
+nous souffrîmes
+vous souffrîtes
+ils (elles) souffrirent
+
+** Futur simple
+
+je souffrirai
+tu souffriras
+il (elle) souffrira
+nous souffrirons
+vous souffrirez
+ils (elles) souffriront
+
+* CONDITIONNEL
+
+** Présent
+
+je souffrirais
+tu souffrirais
+il (elle) souffrirait
+nous souffririons
+vous souffririez
+ils (elles) souffriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je souffre
+que tu souffres
+qu’il (elle) souffre
+que nous souffrions
+que vous souffriez
+qu’ils (elles) souffrent
+
+** Imparfait
+
+que je souffrisse
+que tu souffrisses
+qu’il (elle) souffrît
+que nous souffrissions
+que vous souffrissiez
+qu’ils (elles) souffrissent
+
+* IMPÉRATIF
+
+** Présent
+
+souffre
+souffrons
+souffrez
+
+* INFINITIF
+
+** Présent
+
+souffrir
+
+* PARTICIPE
+
+** Présent
+
+souffrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai souffert
+tu as souffert
+il (elle) a souffert
+nous avons souffert
+vous avez souffert
+ils (elles) ont souffert
+
+** Plus-que-parfait
+
+j'avais souffert
+tu avais souffert
+il (elle) avait souffert
+nous avions souffert
+vous aviez souffert
+ils (elles) avaient souffert
+
+** Passé antérieur
+
+j'eus souffert
+tu eus souffert
+il (elle) eut souffert
+nous eûmes souffert
+vous eûtes souffert
+ils (elles) eurent souffert
+
+** Futur antérieur
+
+j'aurai souffert
+tu auras souffert
+il (elle) aura souffert
+nous aurons souffert
+vous aurez souffert
+ils (elles) auront souffert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais souffert
+tu aurais souffert
+il (elle) aurait souffert
+nous aurions souffert
+vous auriez souffert
+ils (elles) auraient souffert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie souffert
+que tu aies souffert
+qu’il (elle) ait souffert
+que nous ayons souffert
+que vous ayez souffert
+qu’ils (elles) aient souffert
+
+** Plus-que-parfait
+
+que j'eusse souffert
+que tu eusses souffert
+qu’il (elle) eût souffert
+que nous eussions souffert
+que vous eussiez souffert
+qu’ils (elles) eussent souffert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons souffert
+ayez souffert
+
+* INFINITIF
+
+** Passé
+
+avoir souffert
+
+* PARTICIPE
+
+** Passé
+
+ayant souffert
+souffert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis souffert(e)
+tu es souffert(e)
+il (elle) est souffert(e)
+nous sommes souffert(e)s
+vous êtes souffert(e)s
+ils (elles) sont souffert(e)s
+
+** Imparfait
+
+j'étais souffert(e)
+tu étais souffert(e)
+il (elle) était souffert(e)
+nous étions souffert(e)s
+vous étiez souffert(e)s
+ils (elles) étaient souffert(e)s
+
+** Passé simple
+
+je fus souffert(e)
+tu fus souffert(e)
+il (elle) fut souffert(e)
+nous fûmes souffert(e)s
+vous fûtes souffert(e)s
+ils (elles) furent souffert(e)s
+
+** Futur simple
+
+je serai souffert(e)
+tu seras souffert(e)
+il (elle) sera souffert(e)
+nous serons souffert(e)s
+vous serez souffert(e)s
+ils (elles) seront souffert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais souffert(e)
+tu serais souffert(e)
+il (elle) serait souffert(e)
+nous serions souffert(e)s
+vous seriez souffert(e)s
+ils (elles) seraient souffert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois souffert(e)
+que tu sois souffert(e)
+qu’il (elle) soit souffert(e)
+que nous soyons souffert(e)s
+que vous soyez souffert(e)s
+qu’ils (elles) soient souffert(e)s
+
+** Imparfait
+
+que je fusse souffert(e)
+que tu fusses souffert(e)
+qu’il (elle) fût souffert(e)
+que nous fussions souffert(e)s
+que vous fussiez souffert(e)s
+qu’ils (elles) fussent souffert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons souffert(e)s
+soyez souffert(e)s
+
+* INFINITIF
+
+** Présent
+
+être souffert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant souffert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été souffert(e)
+tu as été souffert(e)
+il (elle) a été souffert(e)
+nous avons été souffert(e)s
+vous avez été souffert(e)s
+ils (elles) ont été souffert(e)s
+
+** Plus-que-parfait
+
+j'avais été souffert(e)
+il (elle) avait été souffert(e)
+nous avions été souffert(e)s
+ils (elles) avaient été souffert(e)s
+
+** Passé antérieur
+
+j'eus été souffert(e)
+tu eus été souffert(e)
+il (elle) eut été souffert(e)
+nous eûmes été souffert(e)s
+vous eûtes été souffert(e)s
+ils (elles) eurent été souffert(e)s
+
+** Futur antérieur
+
+j'aurai été souffert(e)
+tu auras été souffert(e)
+il (elle) aura été souffert(e)
+nous aurons été souffert(e)s
+vous aurez été souffert(e)s
+ils (elles) auront été souffert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été souffert(e)
+j'aurais été souffert(e)
+il (elle) aurait été souffert(e)
+nous aurions été souffert(e)s
+vous auriez été souffert(e)s
+ils (elles) auraient été souffert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été souffert(e)
+que tu aies été souffert(e)
+qu’il (elle) ait été souffert(e)
+que nous ayons été souffert(e)s
+que vous ayez été souffert(e)s
+qu’ils (elles) aient été souffert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été souffert(e)
+que tu eusses été souffert(e)
+qu’il (elle) eût été souffert(e)
+que nous eussions été souffert(e)s
+que vous eussiez été souffert(e)s
+qu’ils (elles) eussent été souffert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été souffert(e)
+ayons été souffert(e)s
+ayez été souffert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été souffert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été souffert(e)(s)

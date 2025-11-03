@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe envisager
+
+* INDICATIF
+
+** Présent
+
+j'envisage
+tu envisages
+il (elle) envisage
+nous envisageons
+vous envisagez
+ils (elles) envisagent
+
+** Imparfait
+
+j'envisageais
+tu envisageais
+il (elle) envisageait
+nous envisagions
+vous envisagiez
+ils (elles) envisageaient
+
+** Passé simple
+
+j'envisageai
+tu envisageas
+il (elle) envisagea
+nous envisageâmes
+vous envisageâtes
+ils (elles) envisagèrent
+
+** Futur simple
+
+j'envisagerai
+tu envisageras
+il (elle) envisagera
+nous envisagerons
+vous envisagerez
+ils (elles) envisageront
+
+* CONDITIONNEL
+
+** Présent
+
+j'envisagerais
+tu envisagerais
+il (elle) envisagerait
+nous envisagerions
+vous envisageriez
+ils (elles) envisageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'envisage
+que tu envisages
+qu’il (elle) envisage
+que nous envisagions
+que vous envisagiez
+qu’ils (elles) envisagent
+
+** Imparfait
+
+que j'envisageasse
+que tu envisageasses
+qu’il (elle) envisageât
+que nous envisageassions
+que vous envisageassiez
+qu’ils (elles) envisageassent
+
+* IMPÉRATIF
+
+** Présent
+
+envisage
+envisageons
+envisagez
+
+* INFINITIF
+
+** Présent
+
+envisager
+
+* PARTICIPE
+
+** Présent
+
+envisageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai envisagé
+tu as envisagé
+il (elle) a envisagé
+nous avons envisagé
+vous avez envisagé
+ils (elles) ont envisagé
+
+** Plus-que-parfait
+
+j'avais envisagé
+tu avais envisagé
+il (elle) avait envisagé
+nous avions envisagé
+vous aviez envisagé
+ils (elles) avaient envisagé
+
+** Passé antérieur
+
+j'eus envisagé
+tu eus envisagé
+il (elle) eut envisagé
+nous eûmes envisagé
+vous eûtes envisagé
+ils (elles) eurent envisagé
+
+** Futur antérieur
+
+j'aurai envisagé
+tu auras envisagé
+il (elle) aura envisagé
+nous aurons envisagé
+vous aurez envisagé
+ils (elles) auront envisagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais envisagé
+tu aurais envisagé
+il (elle) aurait envisagé
+nous aurions envisagé
+vous auriez envisagé
+ils (elles) auraient envisagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie envisagé
+que tu aies envisagé
+qu’il (elle) ait envisagé
+que nous ayons envisagé
+que vous ayez envisagé
+qu’ils (elles) aient envisagé
+
+** Plus-que-parfait
+
+que j'eusse envisagé
+que tu eusses envisagé
+qu’il (elle) eût envisagé
+que nous eussions envisagé
+que vous eussiez envisagé
+qu’ils (elles) eussent envisagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons envisagé
+ayez envisagé
+
+* INFINITIF
+
+** Passé
+
+avoir envisagé
+
+* PARTICIPE
+
+** Passé
+
+ayant envisagé
+envisagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis envisagé(e)
+tu es envisagé(e)
+il (elle) est envisagé(e)
+nous sommes envisagé(e)s
+vous êtes envisagé(e)s
+ils (elles) sont envisagé(e)s
+
+** Imparfait
+
+j'étais envisagé(e)
+tu étais envisagé(e)
+il (elle) était envisagé(e)
+nous étions envisagé(e)s
+vous étiez envisagé(e)s
+ils (elles) étaient envisagé(e)s
+
+** Passé simple
+
+je fus envisagé(e)
+tu fus envisagé(e)
+il (elle) fut envisagé(e)
+nous fûmes envisagé(e)s
+vous fûtes envisagé(e)s
+ils (elles) furent envisagé(e)s
+
+** Futur simple
+
+je serai envisagé(e)
+tu seras envisagé(e)
+il (elle) sera envisagé(e)
+nous serons envisagé(e)s
+vous serez envisagé(e)s
+ils (elles) seront envisagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais envisagé(e)
+tu serais envisagé(e)
+il (elle) serait envisagé(e)
+nous serions envisagé(e)s
+vous seriez envisagé(e)s
+ils (elles) seraient envisagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois envisagé(e)
+que tu sois envisagé(e)
+qu’il (elle) soit envisagé(e)
+que nous soyons envisagé(e)s
+que vous soyez envisagé(e)s
+qu’ils (elles) soient envisagé(e)s
+
+** Imparfait
+
+que je fusse envisagé(e)
+que tu fusses envisagé(e)
+qu’il (elle) fût envisagé(e)
+que nous fussions envisagé(e)s
+que vous fussiez envisagé(e)s
+qu’ils (elles) fussent envisagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons envisagé(e)s
+soyez envisagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être envisagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant envisagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été envisagé(e)
+tu as été envisagé(e)
+il (elle) a été envisagé(e)
+nous avons été envisagé(e)s
+vous avez été envisagé(e)s
+ils (elles) ont été envisagé(e)s
+
+** Plus-que-parfait
+
+j'avais été envisagé(e)
+il (elle) avait été envisagé(e)
+nous avions été envisagé(e)s
+ils (elles) avaient été envisagé(e)s
+
+** Passé antérieur
+
+j'eus été envisagé(e)
+tu eus été envisagé(e)
+il (elle) eut été envisagé(e)
+nous eûmes été envisagé(e)s
+vous eûtes été envisagé(e)s
+ils (elles) eurent été envisagé(e)s
+
+** Futur antérieur
+
+j'aurai été envisagé(e)
+tu auras été envisagé(e)
+il (elle) aura été envisagé(e)
+nous aurons été envisagé(e)s
+vous aurez été envisagé(e)s
+ils (elles) auront été envisagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été envisagé(e)
+j'aurais été envisagé(e)
+il (elle) aurait été envisagé(e)
+nous aurions été envisagé(e)s
+vous auriez été envisagé(e)s
+ils (elles) auraient été envisagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été envisagé(e)
+que tu aies été envisagé(e)
+qu’il (elle) ait été envisagé(e)
+que nous ayons été envisagé(e)s
+que vous ayez été envisagé(e)s
+qu’ils (elles) aient été envisagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été envisagé(e)
+que tu eusses été envisagé(e)
+qu’il (elle) eût été envisagé(e)
+que nous eussions été envisagé(e)s
+que vous eussiez été envisagé(e)s
+qu’ils (elles) eussent été envisagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été envisagé(e)
+ayons été envisagé(e)s
+ayez été envisagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été envisagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été envisagé(e)(s)

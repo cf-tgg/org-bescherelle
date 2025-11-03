@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe savoir
+
+* INDICATIF
+
+** Présent
+
+je sais
+tu sais
+il (elle) sait
+nous savons
+vous savez
+ils (elles) savent
+
+** Imparfait
+
+je savais
+tu savais
+il (elle) savait
+nous savions
+vous saviez
+ils (elles) savaient
+
+** Passé simple
+
+je sus
+tu sus
+il (elle) sut
+nous sûmes
+vous sûtes
+ils (elles) surent
+
+** Futur simple
+
+je saurai
+tu sauras
+il (elle) saura
+nous saurons
+vous saurez
+ils (elles) sauront
+
+* CONDITIONNEL
+
+** Présent
+
+je saurais
+tu saurais
+il (elle) saurait
+nous saurions
+vous sauriez
+ils (elles) sauraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sache
+que tu saches
+qu’il (elle) sache
+que nous sachions
+que vous sachiez
+qu’ils (elles) sachent
+
+** Imparfait
+
+que je susse
+que tu susses
+qu’il (elle) sût
+que nous sussions
+que vous sussiez
+qu’ils (elles) sussent
+
+* IMPÉRATIF
+
+** Présent
+
+sache
+sachons
+sachez
+
+* INFINITIF
+
+** Présent
+
+savoir
+
+* PARTICIPE
+
+** Présent
+
+sachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai su
+tu as su
+il (elle) a su
+nous avons su
+vous avez su
+ils (elles) ont su
+
+** Plus-que-parfait
+
+j'avais su
+tu avais su
+il (elle) avait su
+nous avions su
+vous aviez su
+ils (elles) avaient su
+
+** Passé antérieur
+
+j'eus su
+tu eus su
+il (elle) eut su
+nous eûmes su
+vous eûtes su
+ils (elles) eurent su
+
+** Futur antérieur
+
+j'aurai su
+tu auras su
+il (elle) aura su
+nous aurons su
+vous aurez su
+ils (elles) auront su
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais su
+tu aurais su
+il (elle) aurait su
+nous aurions su
+vous auriez su
+ils (elles) auraient su
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie su
+que tu aies su
+qu’il (elle) ait su
+que nous ayons su
+que vous ayez su
+qu’ils (elles) aient su
+
+** Plus-que-parfait
+
+que j'eusse su
+que tu eusses su
+qu’il (elle) eût su
+que nous eussions su
+que vous eussiez su
+qu’ils (elles) eussent su
+
+* IMPÉRATIF
+
+** Passé
+
+ayons su
+ayez su
+
+* INFINITIF
+
+** Passé
+
+avoir su
+
+* PARTICIPE
+
+** Passé
+
+ayant su
+su (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis su(e)
+tu es su(e)
+il (elle) est su(e)
+nous sommes su(e)s
+vous êtes su(e)s
+ils (elles) sont su(e)s
+
+** Imparfait
+
+j'étais su(e)
+tu étais su(e)
+il (elle) était su(e)
+nous étions su(e)s
+vous étiez su(e)s
+ils (elles) étaient su(e)s
+
+** Passé simple
+
+je fus su(e)
+tu fus su(e)
+il (elle) fut su(e)
+nous fûmes su(e)s
+vous fûtes su(e)s
+ils (elles) furent su(e)s
+
+** Futur simple
+
+je serai su(e)
+tu seras su(e)
+il (elle) sera su(e)
+nous serons su(e)s
+vous serez su(e)s
+ils (elles) seront su(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais su(e)
+tu serais su(e)
+il (elle) serait su(e)
+nous serions su(e)s
+vous seriez su(e)s
+ils (elles) seraient su(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois su(e)
+que tu sois su(e)
+qu’il (elle) soit su(e)
+que nous soyons su(e)s
+que vous soyez su(e)s
+qu’ils (elles) soient su(e)s
+
+** Imparfait
+
+que je fusse su(e)
+que tu fusses su(e)
+qu’il (elle) fût su(e)
+que nous fussions su(e)s
+que vous fussiez su(e)s
+qu’ils (elles) fussent su(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons su(e)s
+soyez su(e)s
+
+* INFINITIF
+
+** Présent
+
+être su(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant su(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été su(e)
+tu as été su(e)
+il (elle) a été su(e)
+nous avons été su(e)s
+vous avez été su(e)s
+ils (elles) ont été su(e)s
+
+** Plus-que-parfait
+
+j'avais été su(e)
+il (elle) avait été su(e)
+nous avions été su(e)s
+ils (elles) avaient été su(e)s
+
+** Passé antérieur
+
+j'eus été su(e)
+tu eus été su(e)
+il (elle) eut été su(e)
+nous eûmes été su(e)s
+vous eûtes été su(e)s
+ils (elles) eurent été su(e)s
+
+** Futur antérieur
+
+j'aurai été su(e)
+tu auras été su(e)
+il (elle) aura été su(e)
+nous aurons été su(e)s
+vous aurez été su(e)s
+ils (elles) auront été su(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été su(e)
+j'aurais été su(e)
+il (elle) aurait été su(e)
+nous aurions été su(e)s
+vous auriez été su(e)s
+ils (elles) auraient été su(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été su(e)
+que tu aies été su(e)
+qu’il (elle) ait été su(e)
+que nous ayons été su(e)s
+que vous ayez été su(e)s
+qu’ils (elles) aient été su(e)s
+
+** Plus-que-parfait
+
+que j'eusse été su(e)
+que tu eusses été su(e)
+qu’il (elle) eût été su(e)
+que nous eussions été su(e)s
+que vous eussiez été su(e)s
+qu’ils (elles) eussent été su(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été su(e)
+ayons été su(e)s
+ayez été su(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été su(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été su(e)(s)

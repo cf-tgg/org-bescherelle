@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe supprimer
+
+* INDICATIF
+
+** Présent
+
+je supprime
+tu supprimes
+il (elle) supprime
+nous supprimons
+vous supprimez
+ils (elles) suppriment
+
+** Imparfait
+
+je supprimais
+tu supprimais
+il (elle) supprimait
+nous supprimions
+vous supprimiez
+ils (elles) supprimaient
+
+** Passé simple
+
+je supprimai
+tu supprimas
+il (elle) supprima
+nous supprimâmes
+vous supprimâtes
+ils (elles) supprimèrent
+
+** Futur simple
+
+je supprimerai
+tu supprimeras
+il (elle) supprimera
+nous supprimerons
+vous supprimerez
+ils (elles) supprimeront
+
+* CONDITIONNEL
+
+** Présent
+
+je supprimerais
+tu supprimerais
+il (elle) supprimerait
+nous supprimerions
+vous supprimeriez
+ils (elles) supprimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je supprime
+que tu supprimes
+qu’il (elle) supprime
+que nous supprimions
+que vous supprimiez
+qu’ils (elles) suppriment
+
+** Imparfait
+
+que je supprimasse
+que tu supprimasses
+qu’il (elle) supprimât
+que nous supprimassions
+que vous supprimassiez
+qu’ils (elles) supprimassent
+
+* IMPÉRATIF
+
+** Présent
+
+supprime
+supprimons
+supprimez
+
+* INFINITIF
+
+** Présent
+
+supprimer
+
+* PARTICIPE
+
+** Présent
+
+supprimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai supprimé
+tu as supprimé
+il (elle) a supprimé
+nous avons supprimé
+vous avez supprimé
+ils (elles) ont supprimé
+
+** Plus-que-parfait
+
+j'avais supprimé
+tu avais supprimé
+il (elle) avait supprimé
+nous avions supprimé
+vous aviez supprimé
+ils (elles) avaient supprimé
+
+** Passé antérieur
+
+j'eus supprimé
+tu eus supprimé
+il (elle) eut supprimé
+nous eûmes supprimé
+vous eûtes supprimé
+ils (elles) eurent supprimé
+
+** Futur antérieur
+
+j'aurai supprimé
+tu auras supprimé
+il (elle) aura supprimé
+nous aurons supprimé
+vous aurez supprimé
+ils (elles) auront supprimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais supprimé
+tu aurais supprimé
+il (elle) aurait supprimé
+nous aurions supprimé
+vous auriez supprimé
+ils (elles) auraient supprimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie supprimé
+que tu aies supprimé
+qu’il (elle) ait supprimé
+que nous ayons supprimé
+que vous ayez supprimé
+qu’ils (elles) aient supprimé
+
+** Plus-que-parfait
+
+que j'eusse supprimé
+que tu eusses supprimé
+qu’il (elle) eût supprimé
+que nous eussions supprimé
+que vous eussiez supprimé
+qu’ils (elles) eussent supprimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons supprimé
+ayez supprimé
+
+* INFINITIF
+
+** Passé
+
+avoir supprimé
+
+* PARTICIPE
+
+** Passé
+
+ayant supprimé
+supprimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis supprimé(e)
+tu es supprimé(e)
+il (elle) est supprimé(e)
+nous sommes supprimé(e)s
+vous êtes supprimé(e)s
+ils (elles) sont supprimé(e)s
+
+** Imparfait
+
+j'étais supprimé(e)
+tu étais supprimé(e)
+il (elle) était supprimé(e)
+nous étions supprimé(e)s
+vous étiez supprimé(e)s
+ils (elles) étaient supprimé(e)s
+
+** Passé simple
+
+je fus supprimé(e)
+tu fus supprimé(e)
+il (elle) fut supprimé(e)
+nous fûmes supprimé(e)s
+vous fûtes supprimé(e)s
+ils (elles) furent supprimé(e)s
+
+** Futur simple
+
+je serai supprimé(e)
+tu seras supprimé(e)
+il (elle) sera supprimé(e)
+nous serons supprimé(e)s
+vous serez supprimé(e)s
+ils (elles) seront supprimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais supprimé(e)
+tu serais supprimé(e)
+il (elle) serait supprimé(e)
+nous serions supprimé(e)s
+vous seriez supprimé(e)s
+ils (elles) seraient supprimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois supprimé(e)
+que tu sois supprimé(e)
+qu’il (elle) soit supprimé(e)
+que nous soyons supprimé(e)s
+que vous soyez supprimé(e)s
+qu’ils (elles) soient supprimé(e)s
+
+** Imparfait
+
+que je fusse supprimé(e)
+que tu fusses supprimé(e)
+qu’il (elle) fût supprimé(e)
+que nous fussions supprimé(e)s
+que vous fussiez supprimé(e)s
+qu’ils (elles) fussent supprimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons supprimé(e)s
+soyez supprimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être supprimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant supprimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été supprimé(e)
+tu as été supprimé(e)
+il (elle) a été supprimé(e)
+nous avons été supprimé(e)s
+vous avez été supprimé(e)s
+ils (elles) ont été supprimé(e)s
+
+** Plus-que-parfait
+
+j'avais été supprimé(e)
+il (elle) avait été supprimé(e)
+nous avions été supprimé(e)s
+ils (elles) avaient été supprimé(e)s
+
+** Passé antérieur
+
+j'eus été supprimé(e)
+tu eus été supprimé(e)
+il (elle) eut été supprimé(e)
+nous eûmes été supprimé(e)s
+vous eûtes été supprimé(e)s
+ils (elles) eurent été supprimé(e)s
+
+** Futur antérieur
+
+j'aurai été supprimé(e)
+tu auras été supprimé(e)
+il (elle) aura été supprimé(e)
+nous aurons été supprimé(e)s
+vous aurez été supprimé(e)s
+ils (elles) auront été supprimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été supprimé(e)
+j'aurais été supprimé(e)
+il (elle) aurait été supprimé(e)
+nous aurions été supprimé(e)s
+vous auriez été supprimé(e)s
+ils (elles) auraient été supprimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été supprimé(e)
+que tu aies été supprimé(e)
+qu’il (elle) ait été supprimé(e)
+que nous ayons été supprimé(e)s
+que vous ayez été supprimé(e)s
+qu’ils (elles) aient été supprimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été supprimé(e)
+que tu eusses été supprimé(e)
+qu’il (elle) eût été supprimé(e)
+que nous eussions été supprimé(e)s
+que vous eussiez été supprimé(e)s
+qu’ils (elles) eussent été supprimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été supprimé(e)
+ayons été supprimé(e)s
+ayez été supprimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été supprimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été supprimé(e)(s)

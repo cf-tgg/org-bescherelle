@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brosser
+
+* INDICATIF
+
+** Présent
+
+je brosse
+tu brosses
+il (elle) brosse
+nous brossons
+vous brossez
+ils (elles) brossent
+
+** Imparfait
+
+je brossais
+tu brossais
+il (elle) brossait
+nous brossions
+vous brossiez
+ils (elles) brossaient
+
+** Passé simple
+
+je brossai
+tu brossas
+il (elle) brossa
+nous brossâmes
+vous brossâtes
+ils (elles) brossèrent
+
+** Futur simple
+
+je brosserai
+tu brosseras
+il (elle) brossera
+nous brosserons
+vous brosserez
+ils (elles) brosseront
+
+* CONDITIONNEL
+
+** Présent
+
+je brosserais
+tu brosserais
+il (elle) brosserait
+nous brosserions
+vous brosseriez
+ils (elles) brosseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brosse
+que tu brosses
+qu’il (elle) brosse
+que nous brossions
+que vous brossiez
+qu’ils (elles) brossent
+
+** Imparfait
+
+que je brossasse
+que tu brossasses
+qu’il (elle) brossât
+que nous brossassions
+que vous brossassiez
+qu’ils (elles) brossassent
+
+* IMPÉRATIF
+
+** Présent
+
+brosse
+brossons
+brossez
+
+* INFINITIF
+
+** Présent
+
+brosser
+
+* PARTICIPE
+
+** Présent
+
+brossant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brossé
+tu as brossé
+il (elle) a brossé
+nous avons brossé
+vous avez brossé
+ils (elles) ont brossé
+
+** Plus-que-parfait
+
+j'avais brossé
+tu avais brossé
+il (elle) avait brossé
+nous avions brossé
+vous aviez brossé
+ils (elles) avaient brossé
+
+** Passé antérieur
+
+j'eus brossé
+tu eus brossé
+il (elle) eut brossé
+nous eûmes brossé
+vous eûtes brossé
+ils (elles) eurent brossé
+
+** Futur antérieur
+
+j'aurai brossé
+tu auras brossé
+il (elle) aura brossé
+nous aurons brossé
+vous aurez brossé
+ils (elles) auront brossé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brossé
+tu aurais brossé
+il (elle) aurait brossé
+nous aurions brossé
+vous auriez brossé
+ils (elles) auraient brossé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brossé
+que tu aies brossé
+qu’il (elle) ait brossé
+que nous ayons brossé
+que vous ayez brossé
+qu’ils (elles) aient brossé
+
+** Plus-que-parfait
+
+que j'eusse brossé
+que tu eusses brossé
+qu’il (elle) eût brossé
+que nous eussions brossé
+que vous eussiez brossé
+qu’ils (elles) eussent brossé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brossé
+ayez brossé
+
+* INFINITIF
+
+** Passé
+
+avoir brossé
+
+* PARTICIPE
+
+** Passé
+
+ayant brossé
+brossé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis brossé(e)
+tu es brossé(e)
+il (elle) est brossé(e)
+nous sommes brossé(e)s
+vous êtes brossé(e)s
+ils (elles) sont brossé(e)s
+
+** Imparfait
+
+j'étais brossé(e)
+tu étais brossé(e)
+il (elle) était brossé(e)
+nous étions brossé(e)s
+vous étiez brossé(e)s
+ils (elles) étaient brossé(e)s
+
+** Passé simple
+
+je fus brossé(e)
+tu fus brossé(e)
+il (elle) fut brossé(e)
+nous fûmes brossé(e)s
+vous fûtes brossé(e)s
+ils (elles) furent brossé(e)s
+
+** Futur simple
+
+je serai brossé(e)
+tu seras brossé(e)
+il (elle) sera brossé(e)
+nous serons brossé(e)s
+vous serez brossé(e)s
+ils (elles) seront brossé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais brossé(e)
+tu serais brossé(e)
+il (elle) serait brossé(e)
+nous serions brossé(e)s
+vous seriez brossé(e)s
+ils (elles) seraient brossé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois brossé(e)
+que tu sois brossé(e)
+qu’il (elle) soit brossé(e)
+que nous soyons brossé(e)s
+que vous soyez brossé(e)s
+qu’ils (elles) soient brossé(e)s
+
+** Imparfait
+
+que je fusse brossé(e)
+que tu fusses brossé(e)
+qu’il (elle) fût brossé(e)
+que nous fussions brossé(e)s
+que vous fussiez brossé(e)s
+qu’ils (elles) fussent brossé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons brossé(e)s
+soyez brossé(e)s
+
+* INFINITIF
+
+** Présent
+
+être brossé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant brossé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été brossé(e)
+tu as été brossé(e)
+il (elle) a été brossé(e)
+nous avons été brossé(e)s
+vous avez été brossé(e)s
+ils (elles) ont été brossé(e)s
+
+** Plus-que-parfait
+
+j'avais été brossé(e)
+il (elle) avait été brossé(e)
+nous avions été brossé(e)s
+ils (elles) avaient été brossé(e)s
+
+** Passé antérieur
+
+j'eus été brossé(e)
+tu eus été brossé(e)
+il (elle) eut été brossé(e)
+nous eûmes été brossé(e)s
+vous eûtes été brossé(e)s
+ils (elles) eurent été brossé(e)s
+
+** Futur antérieur
+
+j'aurai été brossé(e)
+tu auras été brossé(e)
+il (elle) aura été brossé(e)
+nous aurons été brossé(e)s
+vous aurez été brossé(e)s
+ils (elles) auront été brossé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été brossé(e)
+j'aurais été brossé(e)
+il (elle) aurait été brossé(e)
+nous aurions été brossé(e)s
+vous auriez été brossé(e)s
+ils (elles) auraient été brossé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été brossé(e)
+que tu aies été brossé(e)
+qu’il (elle) ait été brossé(e)
+que nous ayons été brossé(e)s
+que vous ayez été brossé(e)s
+qu’ils (elles) aient été brossé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été brossé(e)
+que tu eusses été brossé(e)
+qu’il (elle) eût été brossé(e)
+que nous eussions été brossé(e)s
+que vous eussiez été brossé(e)s
+qu’ils (elles) eussent été brossé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été brossé(e)
+ayons été brossé(e)s
+ayez été brossé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été brossé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été brossé(e)(s)

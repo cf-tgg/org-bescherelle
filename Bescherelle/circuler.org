@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe circuler
+
+* INDICATIF
+
+** Présent
+
+je circule
+tu circules
+il (elle) circule
+nous circulons
+vous circulez
+ils (elles) circulent
+
+** Imparfait
+
+je circulais
+tu circulais
+il (elle) circulait
+nous circulions
+vous circuliez
+ils (elles) circulaient
+
+** Passé simple
+
+je circulai
+tu circulas
+il (elle) circula
+nous circulâmes
+vous circulâtes
+ils (elles) circulèrent
+
+** Futur simple
+
+je circulerai
+tu circuleras
+il (elle) circulera
+nous circulerons
+vous circulerez
+ils (elles) circuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je circulerais
+tu circulerais
+il (elle) circulerait
+nous circulerions
+vous circuleriez
+ils (elles) circuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je circule
+que tu circules
+qu’il (elle) circule
+que nous circulions
+que vous circuliez
+qu’ils (elles) circulent
+
+** Imparfait
+
+que je circulasse
+que tu circulasses
+qu’il (elle) circulât
+que nous circulassions
+que vous circulassiez
+qu’ils (elles) circulassent
+
+* IMPÉRATIF
+
+** Présent
+
+circule
+circulons
+circulez
+
+* INFINITIF
+
+** Présent
+
+circuler
+
+* PARTICIPE
+
+** Présent
+
+circulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai circulé
+tu as circulé
+il (elle) a circulé
+nous avons circulé
+vous avez circulé
+ils (elles) ont circulé
+
+** Plus-que-parfait
+
+j'avais circulé
+tu avais circulé
+il (elle) avait circulé
+nous avions circulé
+vous aviez circulé
+ils (elles) avaient circulé
+
+** Passé antérieur
+
+j'eus circulé
+tu eus circulé
+il (elle) eut circulé
+nous eûmes circulé
+vous eûtes circulé
+ils (elles) eurent circulé
+
+** Futur antérieur
+
+j'aurai circulé
+tu auras circulé
+il (elle) aura circulé
+nous aurons circulé
+vous aurez circulé
+ils (elles) auront circulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais circulé
+tu aurais circulé
+il (elle) aurait circulé
+nous aurions circulé
+vous auriez circulé
+ils (elles) auraient circulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie circulé
+que tu aies circulé
+qu’il (elle) ait circulé
+que nous ayons circulé
+que vous ayez circulé
+qu’ils (elles) aient circulé
+
+** Plus-que-parfait
+
+que j'eusse circulé
+que tu eusses circulé
+qu’il (elle) eût circulé
+que nous eussions circulé
+que vous eussiez circulé
+qu’ils (elles) eussent circulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons circulé
+ayez circulé
+
+* INFINITIF
+
+** Passé
+
+avoir circulé
+
+* PARTICIPE
+
+** Passé
+
+ayant circulé
+circulé (invar.)

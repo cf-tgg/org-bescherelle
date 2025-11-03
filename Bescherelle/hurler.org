@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe hurler
+
+* INDICATIF
+
+** Présent
+
+je hurle
+tu hurles
+il (elle) hurle
+nous hurlons
+vous hurlez
+ils (elles) hurlent
+
+** Imparfait
+
+je hurlais
+tu hurlais
+il (elle) hurlait
+nous hurlions
+vous hurliez
+ils (elles) hurlaient
+
+** Passé simple
+
+je hurlai
+tu hurlas
+il (elle) hurla
+nous hurlâmes
+vous hurlâtes
+ils (elles) hurlèrent
+
+** Futur simple
+
+je hurlerai
+tu hurleras
+il (elle) hurlera
+nous hurlerons
+vous hurlerez
+ils (elles) hurleront
+
+* CONDITIONNEL
+
+** Présent
+
+je hurlerais
+tu hurlerais
+il (elle) hurlerait
+nous hurlerions
+vous hurleriez
+ils (elles) hurleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hurle
+que tu hurles
+qu’il (elle) hurle
+que nous hurlions
+que vous hurliez
+qu’ils (elles) hurlent
+
+** Imparfait
+
+que je hurlasse
+que tu hurlasses
+qu’il (elle) hurlât
+que nous hurlassions
+que vous hurlassiez
+qu’ils (elles) hurlassent
+
+* IMPÉRATIF
+
+** Présent
+
+hurle
+hurlons
+hurlez
+
+* INFINITIF
+
+** Présent
+
+hurler
+
+* PARTICIPE
+
+** Présent
+
+hurlant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai hurlé
+tu as hurlé
+il (elle) a hurlé
+nous avons hurlé
+vous avez hurlé
+ils (elles) ont hurlé
+
+** Plus-que-parfait
+
+j'avais hurlé
+tu avais hurlé
+il (elle) avait hurlé
+nous avions hurlé
+vous aviez hurlé
+ils (elles) avaient hurlé
+
+** Passé antérieur
+
+j'eus hurlé
+tu eus hurlé
+il (elle) eut hurlé
+nous eûmes hurlé
+vous eûtes hurlé
+ils (elles) eurent hurlé
+
+** Futur antérieur
+
+j'aurai hurlé
+tu auras hurlé
+il (elle) aura hurlé
+nous aurons hurlé
+vous aurez hurlé
+ils (elles) auront hurlé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais hurlé
+tu aurais hurlé
+il (elle) aurait hurlé
+nous aurions hurlé
+vous auriez hurlé
+ils (elles) auraient hurlé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie hurlé
+que tu aies hurlé
+qu’il (elle) ait hurlé
+que nous ayons hurlé
+que vous ayez hurlé
+qu’ils (elles) aient hurlé
+
+** Plus-que-parfait
+
+que j'eusse hurlé
+que tu eusses hurlé
+qu’il (elle) eût hurlé
+que nous eussions hurlé
+que vous eussiez hurlé
+qu’ils (elles) eussent hurlé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons hurlé
+ayez hurlé
+
+* INFINITIF
+
+** Passé
+
+avoir hurlé
+
+* PARTICIPE
+
+** Passé
+
+ayant hurlé
+hurlé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis hurlé(e)
+tu es hurlé(e)
+il (elle) est hurlé(e)
+nous sommes hurlé(e)s
+vous êtes hurlé(e)s
+ils (elles) sont hurlé(e)s
+
+** Imparfait
+
+j'étais hurlé(e)
+tu étais hurlé(e)
+il (elle) était hurlé(e)
+nous étions hurlé(e)s
+vous étiez hurlé(e)s
+ils (elles) étaient hurlé(e)s
+
+** Passé simple
+
+je fus hurlé(e)
+tu fus hurlé(e)
+il (elle) fut hurlé(e)
+nous fûmes hurlé(e)s
+vous fûtes hurlé(e)s
+ils (elles) furent hurlé(e)s
+
+** Futur simple
+
+je serai hurlé(e)
+tu seras hurlé(e)
+il (elle) sera hurlé(e)
+nous serons hurlé(e)s
+vous serez hurlé(e)s
+ils (elles) seront hurlé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais hurlé(e)
+tu serais hurlé(e)
+il (elle) serait hurlé(e)
+nous serions hurlé(e)s
+vous seriez hurlé(e)s
+ils (elles) seraient hurlé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois hurlé(e)
+que tu sois hurlé(e)
+qu’il (elle) soit hurlé(e)
+que nous soyons hurlé(e)s
+que vous soyez hurlé(e)s
+qu’ils (elles) soient hurlé(e)s
+
+** Imparfait
+
+que je fusse hurlé(e)
+que tu fusses hurlé(e)
+qu’il (elle) fût hurlé(e)
+que nous fussions hurlé(e)s
+que vous fussiez hurlé(e)s
+qu’ils (elles) fussent hurlé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons hurlé(e)s
+soyez hurlé(e)s
+
+* INFINITIF
+
+** Présent
+
+être hurlé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant hurlé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été hurlé(e)
+tu as été hurlé(e)
+il (elle) a été hurlé(e)
+nous avons été hurlé(e)s
+vous avez été hurlé(e)s
+ils (elles) ont été hurlé(e)s
+
+** Plus-que-parfait
+
+j'avais été hurlé(e)
+il (elle) avait été hurlé(e)
+nous avions été hurlé(e)s
+ils (elles) avaient été hurlé(e)s
+
+** Passé antérieur
+
+j'eus été hurlé(e)
+tu eus été hurlé(e)
+il (elle) eut été hurlé(e)
+nous eûmes été hurlé(e)s
+vous eûtes été hurlé(e)s
+ils (elles) eurent été hurlé(e)s
+
+** Futur antérieur
+
+j'aurai été hurlé(e)
+tu auras été hurlé(e)
+il (elle) aura été hurlé(e)
+nous aurons été hurlé(e)s
+vous aurez été hurlé(e)s
+ils (elles) auront été hurlé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été hurlé(e)
+j'aurais été hurlé(e)
+il (elle) aurait été hurlé(e)
+nous aurions été hurlé(e)s
+vous auriez été hurlé(e)s
+ils (elles) auraient été hurlé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été hurlé(e)
+que tu aies été hurlé(e)
+qu’il (elle) ait été hurlé(e)
+que nous ayons été hurlé(e)s
+que vous ayez été hurlé(e)s
+qu’ils (elles) aient été hurlé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été hurlé(e)
+que tu eusses été hurlé(e)
+qu’il (elle) eût été hurlé(e)
+que nous eussions été hurlé(e)s
+que vous eussiez été hurlé(e)s
+qu’ils (elles) eussent été hurlé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été hurlé(e)
+ayons été hurlé(e)s
+ayez été hurlé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été hurlé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été hurlé(e)(s)

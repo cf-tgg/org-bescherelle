@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe allonger
+
+* INDICATIF
+
+** Présent
+
+j'allonge
+tu allonges
+il (elle) allonge
+nous allongeons
+vous allongez
+ils (elles) allongent
+
+** Imparfait
+
+j'allongeais
+tu allongeais
+il (elle) allongeait
+nous allongions
+vous allongiez
+ils (elles) allongeaient
+
+** Passé simple
+
+j'allongeai
+tu allongeas
+il (elle) allongea
+nous allongeâmes
+vous allongeâtes
+ils (elles) allongèrent
+
+** Futur simple
+
+j'allongerai
+tu allongeras
+il (elle) allongera
+nous allongerons
+vous allongerez
+ils (elles) allongeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'allongerais
+tu allongerais
+il (elle) allongerait
+nous allongerions
+vous allongeriez
+ils (elles) allongeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'allonge
+que tu allonges
+qu’il (elle) allonge
+que nous allongions
+que vous allongiez
+qu’ils (elles) allongent
+
+** Imparfait
+
+que j'allongeasse
+que tu allongeasses
+qu’il (elle) allongeât
+que nous allongeassions
+que vous allongeassiez
+qu’ils (elles) allongeassent
+
+* IMPÉRATIF
+
+** Présent
+
+allonge
+allongeons
+allongez
+
+* INFINITIF
+
+** Présent
+
+allonger
+
+* PARTICIPE
+
+** Présent
+
+allongeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai allongé
+tu as allongé
+il (elle) a allongé
+nous avons allongé
+vous avez allongé
+ils (elles) ont allongé
+
+** Plus-que-parfait
+
+j'avais allongé
+tu avais allongé
+il (elle) avait allongé
+nous avions allongé
+vous aviez allongé
+ils (elles) avaient allongé
+
+** Passé antérieur
+
+j'eus allongé
+tu eus allongé
+il (elle) eut allongé
+nous eûmes allongé
+vous eûtes allongé
+ils (elles) eurent allongé
+
+** Futur antérieur
+
+j'aurai allongé
+tu auras allongé
+il (elle) aura allongé
+nous aurons allongé
+vous aurez allongé
+ils (elles) auront allongé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais allongé
+tu aurais allongé
+il (elle) aurait allongé
+nous aurions allongé
+vous auriez allongé
+ils (elles) auraient allongé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie allongé
+que tu aies allongé
+qu’il (elle) ait allongé
+que nous ayons allongé
+que vous ayez allongé
+qu’ils (elles) aient allongé
+
+** Plus-que-parfait
+
+que j'eusse allongé
+que tu eusses allongé
+qu’il (elle) eût allongé
+que nous eussions allongé
+que vous eussiez allongé
+qu’ils (elles) eussent allongé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons allongé
+ayez allongé
+
+* INFINITIF
+
+** Passé
+
+avoir allongé
+
+* PARTICIPE
+
+** Passé
+
+ayant allongé
+allongé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis allongé(e)
+tu es allongé(e)
+il (elle) est allongé(e)
+nous sommes allongé(e)s
+vous êtes allongé(e)s
+ils (elles) sont allongé(e)s
+
+** Imparfait
+
+j'étais allongé(e)
+tu étais allongé(e)
+il (elle) était allongé(e)
+nous étions allongé(e)s
+vous étiez allongé(e)s
+ils (elles) étaient allongé(e)s
+
+** Passé simple
+
+je fus allongé(e)
+tu fus allongé(e)
+il (elle) fut allongé(e)
+nous fûmes allongé(e)s
+vous fûtes allongé(e)s
+ils (elles) furent allongé(e)s
+
+** Futur simple
+
+je serai allongé(e)
+tu seras allongé(e)
+il (elle) sera allongé(e)
+nous serons allongé(e)s
+vous serez allongé(e)s
+ils (elles) seront allongé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais allongé(e)
+tu serais allongé(e)
+il (elle) serait allongé(e)
+nous serions allongé(e)s
+vous seriez allongé(e)s
+ils (elles) seraient allongé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois allongé(e)
+que tu sois allongé(e)
+qu’il (elle) soit allongé(e)
+que nous soyons allongé(e)s
+que vous soyez allongé(e)s
+qu’ils (elles) soient allongé(e)s
+
+** Imparfait
+
+que je fusse allongé(e)
+que tu fusses allongé(e)
+qu’il (elle) fût allongé(e)
+que nous fussions allongé(e)s
+que vous fussiez allongé(e)s
+qu’ils (elles) fussent allongé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons allongé(e)s
+soyez allongé(e)s
+
+* INFINITIF
+
+** Présent
+
+être allongé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant allongé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été allongé(e)
+tu as été allongé(e)
+il (elle) a été allongé(e)
+nous avons été allongé(e)s
+vous avez été allongé(e)s
+ils (elles) ont été allongé(e)s
+
+** Plus-que-parfait
+
+j'avais été allongé(e)
+il (elle) avait été allongé(e)
+nous avions été allongé(e)s
+ils (elles) avaient été allongé(e)s
+
+** Passé antérieur
+
+j'eus été allongé(e)
+tu eus été allongé(e)
+il (elle) eut été allongé(e)
+nous eûmes été allongé(e)s
+vous eûtes été allongé(e)s
+ils (elles) eurent été allongé(e)s
+
+** Futur antérieur
+
+j'aurai été allongé(e)
+tu auras été allongé(e)
+il (elle) aura été allongé(e)
+nous aurons été allongé(e)s
+vous aurez été allongé(e)s
+ils (elles) auront été allongé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été allongé(e)
+j'aurais été allongé(e)
+il (elle) aurait été allongé(e)
+nous aurions été allongé(e)s
+vous auriez été allongé(e)s
+ils (elles) auraient été allongé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été allongé(e)
+que tu aies été allongé(e)
+qu’il (elle) ait été allongé(e)
+que nous ayons été allongé(e)s
+que vous ayez été allongé(e)s
+qu’ils (elles) aient été allongé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été allongé(e)
+que tu eusses été allongé(e)
+qu’il (elle) eût été allongé(e)
+que nous eussions été allongé(e)s
+que vous eussiez été allongé(e)s
+qu’ils (elles) eussent été allongé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été allongé(e)
+ayons été allongé(e)s
+ayez été allongé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été allongé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été allongé(e)(s)

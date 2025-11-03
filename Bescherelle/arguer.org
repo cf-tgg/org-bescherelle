@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe arguer
+
+* INDICATIF
+
+** Présent
+
+j'argue
+tu argues
+il (elle) argue
+nous arguons
+vous arguez
+ils (elles) arguent
+
+** Imparfait
+
+j'arguais
+tu arguais
+il (elle) arguait
+nous arguions
+vous arguiez
+ils (elles) arguaient
+
+** Passé simple
+
+j'arguai
+tu arguas
+il (elle) argua
+nous arguâmes
+vous arguâtes
+ils (elles) arguèrent
+
+** Futur simple
+
+j'arguerai
+tu argueras
+il (elle) arguera
+nous arguerons
+vous arguerez
+ils (elles) argueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'arguerais
+tu arguerais
+il (elle) arguerait
+nous arguerions
+vous argueriez
+ils (elles) argueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'argue
+que tu argues
+qu’il (elle) argue
+que nous arguions
+que vous arguiez
+qu’ils (elles) arguent
+
+** Imparfait
+
+que j'arguasse
+que tu arguasses
+qu’il (elle) arguât
+que nous arguassions
+que vous arguassiez
+qu’ils (elles) arguassent
+
+* IMPÉRATIF
+
+** Présent
+
+argue
+arguons
+arguez
+
+* INFINITIF
+
+** Présent
+
+arguer
+
+* PARTICIPE
+
+** Présent
+
+arguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai argué
+tu as argué
+il (elle) a argué
+nous avons argué
+vous avez argué
+ils (elles) ont argué
+
+** Plus-que-parfait
+
+j'avais argué
+tu avais argué
+il (elle) avait argué
+nous avions argué
+vous aviez argué
+ils (elles) avaient argué
+
+** Passé antérieur
+
+j'eus argué
+tu eus argué
+il (elle) eut argué
+nous eûmes argué
+vous eûtes argué
+ils (elles) eurent argué
+
+** Futur antérieur
+
+j'aurai argué
+tu auras argué
+il (elle) aura argué
+nous aurons argué
+vous aurez argué
+ils (elles) auront argué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais argué
+tu aurais argué
+il (elle) aurait argué
+nous aurions argué
+vous auriez argué
+ils (elles) auraient argué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie argué
+que tu aies argué
+qu’il (elle) ait argué
+que nous ayons argué
+que vous ayez argué
+qu’ils (elles) aient argué
+
+** Plus-que-parfait
+
+que j'eusse argué
+que tu eusses argué
+qu’il (elle) eût argué
+que nous eussions argué
+que vous eussiez argué
+qu’ils (elles) eussent argué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons argué
+ayez argué
+
+* INFINITIF
+
+** Passé
+
+avoir argué
+
+* PARTICIPE
+
+** Passé
+
+ayant argué
+argué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis argué(e)
+tu es argué(e)
+il (elle) est argué(e)
+nous sommes argué(e)s
+vous êtes argué(e)s
+ils (elles) sont argué(e)s
+
+** Imparfait
+
+j'étais argué(e)
+tu étais argué(e)
+il (elle) était argué(e)
+nous étions argué(e)s
+vous étiez argué(e)s
+ils (elles) étaient argué(e)s
+
+** Passé simple
+
+je fus argué(e)
+tu fus argué(e)
+il (elle) fut argué(e)
+nous fûmes argué(e)s
+vous fûtes argué(e)s
+ils (elles) furent argué(e)s
+
+** Futur simple
+
+je serai argué(e)
+tu seras argué(e)
+il (elle) sera argué(e)
+nous serons argué(e)s
+vous serez argué(e)s
+ils (elles) seront argué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais argué(e)
+tu serais argué(e)
+il (elle) serait argué(e)
+nous serions argué(e)s
+vous seriez argué(e)s
+ils (elles) seraient argué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois argué(e)
+que tu sois argué(e)
+qu’il (elle) soit argué(e)
+que nous soyons argué(e)s
+que vous soyez argué(e)s
+qu’ils (elles) soient argué(e)s
+
+** Imparfait
+
+que je fusse argué(e)
+que tu fusses argué(e)
+qu’il (elle) fût argué(e)
+que nous fussions argué(e)s
+que vous fussiez argué(e)s
+qu’ils (elles) fussent argué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons argué(e)s
+soyez argué(e)s
+
+* INFINITIF
+
+** Présent
+
+être argué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant argué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été argué(e)
+tu as été argué(e)
+il (elle) a été argué(e)
+nous avons été argué(e)s
+vous avez été argué(e)s
+ils (elles) ont été argué(e)s
+
+** Plus-que-parfait
+
+j'avais été argué(e)
+il (elle) avait été argué(e)
+nous avions été argué(e)s
+ils (elles) avaient été argué(e)s
+
+** Passé antérieur
+
+j'eus été argué(e)
+tu eus été argué(e)
+il (elle) eut été argué(e)
+nous eûmes été argué(e)s
+vous eûtes été argué(e)s
+ils (elles) eurent été argué(e)s
+
+** Futur antérieur
+
+j'aurai été argué(e)
+tu auras été argué(e)
+il (elle) aura été argué(e)
+nous aurons été argué(e)s
+vous aurez été argué(e)s
+ils (elles) auront été argué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été argué(e)
+j'aurais été argué(e)
+il (elle) aurait été argué(e)
+nous aurions été argué(e)s
+vous auriez été argué(e)s
+ils (elles) auraient été argué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été argué(e)
+que tu aies été argué(e)
+qu’il (elle) ait été argué(e)
+que nous ayons été argué(e)s
+que vous ayez été argué(e)s
+qu’ils (elles) aient été argué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été argué(e)
+que tu eusses été argué(e)
+qu’il (elle) eût été argué(e)
+que nous eussions été argué(e)s
+que vous eussiez été argué(e)s
+qu’ils (elles) eussent été argué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été argué(e)
+ayons été argué(e)s
+ayez été argué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été argué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été argué(e)(s)

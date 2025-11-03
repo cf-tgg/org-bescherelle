@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe amasser
+
+* INDICATIF
+
+** Présent
+
+j'amasse
+tu amasses
+il (elle) amasse
+nous amassons
+vous amassez
+ils (elles) amassent
+
+** Imparfait
+
+j'amassais
+tu amassais
+il (elle) amassait
+nous amassions
+vous amassiez
+ils (elles) amassaient
+
+** Passé simple
+
+j'amassai
+tu amassas
+il (elle) amassa
+nous amassâmes
+vous amassâtes
+ils (elles) amassèrent
+
+** Futur simple
+
+j'amasserai
+tu amasseras
+il (elle) amassera
+nous amasserons
+vous amasserez
+ils (elles) amasseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amasserais
+tu amasserais
+il (elle) amasserait
+nous amasserions
+vous amasseriez
+ils (elles) amasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amasse
+que tu amasses
+qu’il (elle) amasse
+que nous amassions
+que vous amassiez
+qu’ils (elles) amassent
+
+** Imparfait
+
+que j'amassasse
+que tu amassasses
+qu’il (elle) amassât
+que nous amassassions
+que vous amassassiez
+qu’ils (elles) amassassent
+
+* IMPÉRATIF
+
+** Présent
+
+amasse
+amassons
+amassez
+
+* INFINITIF
+
+** Présent
+
+amasser
+
+* PARTICIPE
+
+** Présent
+
+amassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amassé
+tu as amassé
+il (elle) a amassé
+nous avons amassé
+vous avez amassé
+ils (elles) ont amassé
+
+** Plus-que-parfait
+
+j'avais amassé
+tu avais amassé
+il (elle) avait amassé
+nous avions amassé
+vous aviez amassé
+ils (elles) avaient amassé
+
+** Passé antérieur
+
+j'eus amassé
+tu eus amassé
+il (elle) eut amassé
+nous eûmes amassé
+vous eûtes amassé
+ils (elles) eurent amassé
+
+** Futur antérieur
+
+j'aurai amassé
+tu auras amassé
+il (elle) aura amassé
+nous aurons amassé
+vous aurez amassé
+ils (elles) auront amassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amassé
+tu aurais amassé
+il (elle) aurait amassé
+nous aurions amassé
+vous auriez amassé
+ils (elles) auraient amassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amassé
+que tu aies amassé
+qu’il (elle) ait amassé
+que nous ayons amassé
+que vous ayez amassé
+qu’ils (elles) aient amassé
+
+** Plus-que-parfait
+
+que j'eusse amassé
+que tu eusses amassé
+qu’il (elle) eût amassé
+que nous eussions amassé
+que vous eussiez amassé
+qu’ils (elles) eussent amassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amassé
+ayez amassé
+
+* INFINITIF
+
+** Passé
+
+avoir amassé
+
+* PARTICIPE
+
+** Passé
+
+ayant amassé
+amassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis amassé(e)
+tu es amassé(e)
+il (elle) est amassé(e)
+nous sommes amassé(e)s
+vous êtes amassé(e)s
+ils (elles) sont amassé(e)s
+
+** Imparfait
+
+j'étais amassé(e)
+tu étais amassé(e)
+il (elle) était amassé(e)
+nous étions amassé(e)s
+vous étiez amassé(e)s
+ils (elles) étaient amassé(e)s
+
+** Passé simple
+
+je fus amassé(e)
+tu fus amassé(e)
+il (elle) fut amassé(e)
+nous fûmes amassé(e)s
+vous fûtes amassé(e)s
+ils (elles) furent amassé(e)s
+
+** Futur simple
+
+je serai amassé(e)
+tu seras amassé(e)
+il (elle) sera amassé(e)
+nous serons amassé(e)s
+vous serez amassé(e)s
+ils (elles) seront amassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais amassé(e)
+tu serais amassé(e)
+il (elle) serait amassé(e)
+nous serions amassé(e)s
+vous seriez amassé(e)s
+ils (elles) seraient amassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois amassé(e)
+que tu sois amassé(e)
+qu’il (elle) soit amassé(e)
+que nous soyons amassé(e)s
+que vous soyez amassé(e)s
+qu’ils (elles) soient amassé(e)s
+
+** Imparfait
+
+que je fusse amassé(e)
+que tu fusses amassé(e)
+qu’il (elle) fût amassé(e)
+que nous fussions amassé(e)s
+que vous fussiez amassé(e)s
+qu’ils (elles) fussent amassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons amassé(e)s
+soyez amassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être amassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant amassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été amassé(e)
+tu as été amassé(e)
+il (elle) a été amassé(e)
+nous avons été amassé(e)s
+vous avez été amassé(e)s
+ils (elles) ont été amassé(e)s
+
+** Plus-que-parfait
+
+j'avais été amassé(e)
+il (elle) avait été amassé(e)
+nous avions été amassé(e)s
+ils (elles) avaient été amassé(e)s
+
+** Passé antérieur
+
+j'eus été amassé(e)
+tu eus été amassé(e)
+il (elle) eut été amassé(e)
+nous eûmes été amassé(e)s
+vous eûtes été amassé(e)s
+ils (elles) eurent été amassé(e)s
+
+** Futur antérieur
+
+j'aurai été amassé(e)
+tu auras été amassé(e)
+il (elle) aura été amassé(e)
+nous aurons été amassé(e)s
+vous aurez été amassé(e)s
+ils (elles) auront été amassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été amassé(e)
+j'aurais été amassé(e)
+il (elle) aurait été amassé(e)
+nous aurions été amassé(e)s
+vous auriez été amassé(e)s
+ils (elles) auraient été amassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été amassé(e)
+que tu aies été amassé(e)
+qu’il (elle) ait été amassé(e)
+que nous ayons été amassé(e)s
+que vous ayez été amassé(e)s
+qu’ils (elles) aient été amassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été amassé(e)
+que tu eusses été amassé(e)
+qu’il (elle) eût été amassé(e)
+que nous eussions été amassé(e)s
+que vous eussiez été amassé(e)s
+qu’ils (elles) eussent été amassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été amassé(e)
+ayons été amassé(e)s
+ayez été amassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été amassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été amassé(e)(s)

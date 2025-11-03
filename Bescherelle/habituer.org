@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe habituer
+
+* INDICATIF
+
+** Présent
+
+j'habitue
+tu habitues
+il (elle) habitue
+nous habituons
+vous habituez
+ils (elles) habituent
+
+** Imparfait
+
+j'habituais
+tu habituais
+il (elle) habituait
+nous habituions
+vous habituiez
+ils (elles) habituaient
+
+** Passé simple
+
+j'habituai
+tu habituas
+il (elle) habitua
+nous habituâmes
+vous habituâtes
+ils (elles) habituèrent
+
+** Futur simple
+
+j'habituerai
+tu habitueras
+il (elle) habituera
+nous habituerons
+vous habituerez
+ils (elles) habitueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'habituerais
+tu habituerais
+il (elle) habituerait
+nous habituerions
+vous habitueriez
+ils (elles) habitueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'habitue
+que tu habitues
+qu’il (elle) habitue
+que nous habituions
+que vous habituiez
+qu’ils (elles) habituent
+
+** Imparfait
+
+que j'habituasse
+que tu habituasses
+qu’il (elle) habituât
+que nous habituassions
+que vous habituassiez
+qu’ils (elles) habituassent
+
+* IMPÉRATIF
+
+** Présent
+
+habitue
+habituons
+habituez
+
+* INFINITIF
+
+** Présent
+
+habituer
+
+* PARTICIPE
+
+** Présent
+
+habituant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai habitué
+tu as habitué
+il (elle) a habitué
+nous avons habitué
+vous avez habitué
+ils (elles) ont habitué
+
+** Plus-que-parfait
+
+j'avais habitué
+tu avais habitué
+il (elle) avait habitué
+nous avions habitué
+vous aviez habitué
+ils (elles) avaient habitué
+
+** Passé antérieur
+
+j'eus habitué
+tu eus habitué
+il (elle) eut habitué
+nous eûmes habitué
+vous eûtes habitué
+ils (elles) eurent habitué
+
+** Futur antérieur
+
+j'aurai habitué
+tu auras habitué
+il (elle) aura habitué
+nous aurons habitué
+vous aurez habitué
+ils (elles) auront habitué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais habitué
+tu aurais habitué
+il (elle) aurait habitué
+nous aurions habitué
+vous auriez habitué
+ils (elles) auraient habitué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie habitué
+que tu aies habitué
+qu’il (elle) ait habitué
+que nous ayons habitué
+que vous ayez habitué
+qu’ils (elles) aient habitué
+
+** Plus-que-parfait
+
+que j'eusse habitué
+que tu eusses habitué
+qu’il (elle) eût habitué
+que nous eussions habitué
+que vous eussiez habitué
+qu’ils (elles) eussent habitué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons habitué
+ayez habitué
+
+* INFINITIF
+
+** Passé
+
+avoir habitué
+
+* PARTICIPE
+
+** Passé
+
+ayant habitué
+habitué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis habitué(e)
+tu es habitué(e)
+il (elle) est habitué(e)
+nous sommes habitué(e)s
+vous êtes habitué(e)s
+ils (elles) sont habitué(e)s
+
+** Imparfait
+
+j'étais habitué(e)
+tu étais habitué(e)
+il (elle) était habitué(e)
+nous étions habitué(e)s
+vous étiez habitué(e)s
+ils (elles) étaient habitué(e)s
+
+** Passé simple
+
+je fus habitué(e)
+tu fus habitué(e)
+il (elle) fut habitué(e)
+nous fûmes habitué(e)s
+vous fûtes habitué(e)s
+ils (elles) furent habitué(e)s
+
+** Futur simple
+
+je serai habitué(e)
+tu seras habitué(e)
+il (elle) sera habitué(e)
+nous serons habitué(e)s
+vous serez habitué(e)s
+ils (elles) seront habitué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais habitué(e)
+tu serais habitué(e)
+il (elle) serait habitué(e)
+nous serions habitué(e)s
+vous seriez habitué(e)s
+ils (elles) seraient habitué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois habitué(e)
+que tu sois habitué(e)
+qu’il (elle) soit habitué(e)
+que nous soyons habitué(e)s
+que vous soyez habitué(e)s
+qu’ils (elles) soient habitué(e)s
+
+** Imparfait
+
+que je fusse habitué(e)
+que tu fusses habitué(e)
+qu’il (elle) fût habitué(e)
+que nous fussions habitué(e)s
+que vous fussiez habitué(e)s
+qu’ils (elles) fussent habitué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons habitué(e)s
+soyez habitué(e)s
+
+* INFINITIF
+
+** Présent
+
+être habitué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant habitué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été habitué(e)
+tu as été habitué(e)
+il (elle) a été habitué(e)
+nous avons été habitué(e)s
+vous avez été habitué(e)s
+ils (elles) ont été habitué(e)s
+
+** Plus-que-parfait
+
+j'avais été habitué(e)
+il (elle) avait été habitué(e)
+nous avions été habitué(e)s
+ils (elles) avaient été habitué(e)s
+
+** Passé antérieur
+
+j'eus été habitué(e)
+tu eus été habitué(e)
+il (elle) eut été habitué(e)
+nous eûmes été habitué(e)s
+vous eûtes été habitué(e)s
+ils (elles) eurent été habitué(e)s
+
+** Futur antérieur
+
+j'aurai été habitué(e)
+tu auras été habitué(e)
+il (elle) aura été habitué(e)
+nous aurons été habitué(e)s
+vous aurez été habitué(e)s
+ils (elles) auront été habitué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été habitué(e)
+j'aurais été habitué(e)
+il (elle) aurait été habitué(e)
+nous aurions été habitué(e)s
+vous auriez été habitué(e)s
+ils (elles) auraient été habitué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été habitué(e)
+que tu aies été habitué(e)
+qu’il (elle) ait été habitué(e)
+que nous ayons été habitué(e)s
+que vous ayez été habitué(e)s
+qu’ils (elles) aient été habitué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été habitué(e)
+que tu eusses été habitué(e)
+qu’il (elle) eût été habitué(e)
+que nous eussions été habitué(e)s
+que vous eussiez été habitué(e)s
+qu’ils (elles) eussent été habitué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été habitué(e)
+ayons été habitué(e)s
+ayez été habitué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été habitué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été habitué(e)(s)

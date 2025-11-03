@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exposer
+
+* INDICATIF
+
+** Présent
+
+j'expose
+tu exposes
+il (elle) expose
+nous exposons
+vous exposez
+ils (elles) exposent
+
+** Imparfait
+
+j'exposais
+tu exposais
+il (elle) exposait
+nous exposions
+vous exposiez
+ils (elles) exposaient
+
+** Passé simple
+
+j'exposai
+tu exposas
+il (elle) exposa
+nous exposâmes
+vous exposâtes
+ils (elles) exposèrent
+
+** Futur simple
+
+j'exposerai
+tu exposeras
+il (elle) exposera
+nous exposerons
+vous exposerez
+ils (elles) exposeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exposerais
+tu exposerais
+il (elle) exposerait
+nous exposerions
+vous exposeriez
+ils (elles) exposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'expose
+que tu exposes
+qu’il (elle) expose
+que nous exposions
+que vous exposiez
+qu’ils (elles) exposent
+
+** Imparfait
+
+que j'exposasse
+que tu exposasses
+qu’il (elle) exposât
+que nous exposassions
+que vous exposassiez
+qu’ils (elles) exposassent
+
+* IMPÉRATIF
+
+** Présent
+
+expose
+exposons
+exposez
+
+* INFINITIF
+
+** Présent
+
+exposer
+
+* PARTICIPE
+
+** Présent
+
+exposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exposé
+tu as exposé
+il (elle) a exposé
+nous avons exposé
+vous avez exposé
+ils (elles) ont exposé
+
+** Plus-que-parfait
+
+j'avais exposé
+tu avais exposé
+il (elle) avait exposé
+nous avions exposé
+vous aviez exposé
+ils (elles) avaient exposé
+
+** Passé antérieur
+
+j'eus exposé
+tu eus exposé
+il (elle) eut exposé
+nous eûmes exposé
+vous eûtes exposé
+ils (elles) eurent exposé
+
+** Futur antérieur
+
+j'aurai exposé
+tu auras exposé
+il (elle) aura exposé
+nous aurons exposé
+vous aurez exposé
+ils (elles) auront exposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exposé
+tu aurais exposé
+il (elle) aurait exposé
+nous aurions exposé
+vous auriez exposé
+ils (elles) auraient exposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exposé
+que tu aies exposé
+qu’il (elle) ait exposé
+que nous ayons exposé
+que vous ayez exposé
+qu’ils (elles) aient exposé
+
+** Plus-que-parfait
+
+que j'eusse exposé
+que tu eusses exposé
+qu’il (elle) eût exposé
+que nous eussions exposé
+que vous eussiez exposé
+qu’ils (elles) eussent exposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exposé
+ayez exposé
+
+* INFINITIF
+
+** Passé
+
+avoir exposé
+
+* PARTICIPE
+
+** Passé
+
+ayant exposé
+exposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis exposé(e)
+tu es exposé(e)
+il (elle) est exposé(e)
+nous sommes exposé(e)s
+vous êtes exposé(e)s
+ils (elles) sont exposé(e)s
+
+** Imparfait
+
+j'étais exposé(e)
+tu étais exposé(e)
+il (elle) était exposé(e)
+nous étions exposé(e)s
+vous étiez exposé(e)s
+ils (elles) étaient exposé(e)s
+
+** Passé simple
+
+je fus exposé(e)
+tu fus exposé(e)
+il (elle) fut exposé(e)
+nous fûmes exposé(e)s
+vous fûtes exposé(e)s
+ils (elles) furent exposé(e)s
+
+** Futur simple
+
+je serai exposé(e)
+tu seras exposé(e)
+il (elle) sera exposé(e)
+nous serons exposé(e)s
+vous serez exposé(e)s
+ils (elles) seront exposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exposé(e)
+tu serais exposé(e)
+il (elle) serait exposé(e)
+nous serions exposé(e)s
+vous seriez exposé(e)s
+ils (elles) seraient exposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exposé(e)
+que tu sois exposé(e)
+qu’il (elle) soit exposé(e)
+que nous soyons exposé(e)s
+que vous soyez exposé(e)s
+qu’ils (elles) soient exposé(e)s
+
+** Imparfait
+
+que je fusse exposé(e)
+que tu fusses exposé(e)
+qu’il (elle) fût exposé(e)
+que nous fussions exposé(e)s
+que vous fussiez exposé(e)s
+qu’ils (elles) fussent exposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exposé(e)s
+soyez exposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être exposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exposé(e)
+tu as été exposé(e)
+il (elle) a été exposé(e)
+nous avons été exposé(e)s
+vous avez été exposé(e)s
+ils (elles) ont été exposé(e)s
+
+** Plus-que-parfait
+
+j'avais été exposé(e)
+il (elle) avait été exposé(e)
+nous avions été exposé(e)s
+ils (elles) avaient été exposé(e)s
+
+** Passé antérieur
+
+j'eus été exposé(e)
+tu eus été exposé(e)
+il (elle) eut été exposé(e)
+nous eûmes été exposé(e)s
+vous eûtes été exposé(e)s
+ils (elles) eurent été exposé(e)s
+
+** Futur antérieur
+
+j'aurai été exposé(e)
+tu auras été exposé(e)
+il (elle) aura été exposé(e)
+nous aurons été exposé(e)s
+vous aurez été exposé(e)s
+ils (elles) auront été exposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exposé(e)
+j'aurais été exposé(e)
+il (elle) aurait été exposé(e)
+nous aurions été exposé(e)s
+vous auriez été exposé(e)s
+ils (elles) auraient été exposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exposé(e)
+que tu aies été exposé(e)
+qu’il (elle) ait été exposé(e)
+que nous ayons été exposé(e)s
+que vous ayez été exposé(e)s
+qu’ils (elles) aient été exposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exposé(e)
+que tu eusses été exposé(e)
+qu’il (elle) eût été exposé(e)
+que nous eussions été exposé(e)s
+que vous eussiez été exposé(e)s
+qu’ils (elles) eussent été exposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exposé(e)
+ayons été exposé(e)s
+ayez été exposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exposé(e)(s)

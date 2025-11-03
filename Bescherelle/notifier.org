@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe notifier
+
+* INDICATIF
+
+** Présent
+
+je notifie
+tu notifies
+il (elle) notifie
+nous notifions
+vous notifiez
+ils (elles) notifient
+
+** Imparfait
+
+je notifiais
+tu notifiais
+il (elle) notifiait
+nous notifiions
+vous notifiiez
+ils (elles) notifiaient
+
+** Passé simple
+
+je notifiai
+tu notifias
+il (elle) notifia
+nous notifiâmes
+vous notifiâtes
+ils (elles) notifièrent
+
+** Futur simple
+
+je notifierai
+tu notifieras
+il (elle) notifiera
+nous notifierons
+vous notifierez
+ils (elles) notifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je notifierais
+tu notifierais
+il (elle) notifierait
+nous notifierions
+vous notifieriez
+ils (elles) notifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je notifie
+que tu notifies
+qu’il (elle) notifie
+que nous notifiions
+que vous notifiiez
+qu’ils (elles) notifient
+
+** Imparfait
+
+que je notifiasse
+que tu notifiasses
+qu’il (elle) notifiât
+que nous notifiassions
+que vous notifiassiez
+qu’ils (elles) notifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+notifie
+notifions
+notifiez
+
+* INFINITIF
+
+** Présent
+
+notifier
+
+* PARTICIPE
+
+** Présent
+
+notifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai notifié
+tu as notifié
+il (elle) a notifié
+nous avons notifié
+vous avez notifié
+ils (elles) ont notifié
+
+** Plus-que-parfait
+
+j'avais notifié
+tu avais notifié
+il (elle) avait notifié
+nous avions notifié
+vous aviez notifié
+ils (elles) avaient notifié
+
+** Passé antérieur
+
+j'eus notifié
+tu eus notifié
+il (elle) eut notifié
+nous eûmes notifié
+vous eûtes notifié
+ils (elles) eurent notifié
+
+** Futur antérieur
+
+j'aurai notifié
+tu auras notifié
+il (elle) aura notifié
+nous aurons notifié
+vous aurez notifié
+ils (elles) auront notifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais notifié
+tu aurais notifié
+il (elle) aurait notifié
+nous aurions notifié
+vous auriez notifié
+ils (elles) auraient notifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie notifié
+que tu aies notifié
+qu’il (elle) ait notifié
+que nous ayons notifié
+que vous ayez notifié
+qu’ils (elles) aient notifié
+
+** Plus-que-parfait
+
+que j'eusse notifié
+que tu eusses notifié
+qu’il (elle) eût notifié
+que nous eussions notifié
+que vous eussiez notifié
+qu’ils (elles) eussent notifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons notifié
+ayez notifié
+
+* INFINITIF
+
+** Passé
+
+avoir notifié
+
+* PARTICIPE
+
+** Passé
+
+ayant notifié
+notifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis notifié(e)
+tu es notifié(e)
+il (elle) est notifié(e)
+nous sommes notifié(e)s
+vous êtes notifié(e)s
+ils (elles) sont notifié(e)s
+
+** Imparfait
+
+j'étais notifié(e)
+tu étais notifié(e)
+il (elle) était notifié(e)
+nous étions notifié(e)s
+vous étiez notifié(e)s
+ils (elles) étaient notifié(e)s
+
+** Passé simple
+
+je fus notifié(e)
+tu fus notifié(e)
+il (elle) fut notifié(e)
+nous fûmes notifié(e)s
+vous fûtes notifié(e)s
+ils (elles) furent notifié(e)s
+
+** Futur simple
+
+je serai notifié(e)
+tu seras notifié(e)
+il (elle) sera notifié(e)
+nous serons notifié(e)s
+vous serez notifié(e)s
+ils (elles) seront notifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais notifié(e)
+tu serais notifié(e)
+il (elle) serait notifié(e)
+nous serions notifié(e)s
+vous seriez notifié(e)s
+ils (elles) seraient notifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois notifié(e)
+que tu sois notifié(e)
+qu’il (elle) soit notifié(e)
+que nous soyons notifié(e)s
+que vous soyez notifié(e)s
+qu’ils (elles) soient notifié(e)s
+
+** Imparfait
+
+que je fusse notifié(e)
+que tu fusses notifié(e)
+qu’il (elle) fût notifié(e)
+que nous fussions notifié(e)s
+que vous fussiez notifié(e)s
+qu’ils (elles) fussent notifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons notifié(e)s
+soyez notifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être notifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant notifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été notifié(e)
+tu as été notifié(e)
+il (elle) a été notifié(e)
+nous avons été notifié(e)s
+vous avez été notifié(e)s
+ils (elles) ont été notifié(e)s
+
+** Plus-que-parfait
+
+j'avais été notifié(e)
+il (elle) avait été notifié(e)
+nous avions été notifié(e)s
+ils (elles) avaient été notifié(e)s
+
+** Passé antérieur
+
+j'eus été notifié(e)
+tu eus été notifié(e)
+il (elle) eut été notifié(e)
+nous eûmes été notifié(e)s
+vous eûtes été notifié(e)s
+ils (elles) eurent été notifié(e)s
+
+** Futur antérieur
+
+j'aurai été notifié(e)
+tu auras été notifié(e)
+il (elle) aura été notifié(e)
+nous aurons été notifié(e)s
+vous aurez été notifié(e)s
+ils (elles) auront été notifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été notifié(e)
+j'aurais été notifié(e)
+il (elle) aurait été notifié(e)
+nous aurions été notifié(e)s
+vous auriez été notifié(e)s
+ils (elles) auraient été notifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été notifié(e)
+que tu aies été notifié(e)
+qu’il (elle) ait été notifié(e)
+que nous ayons été notifié(e)s
+que vous ayez été notifié(e)s
+qu’ils (elles) aient été notifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été notifié(e)
+que tu eusses été notifié(e)
+qu’il (elle) eût été notifié(e)
+que nous eussions été notifié(e)s
+que vous eussiez été notifié(e)s
+qu’ils (elles) eussent été notifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été notifié(e)
+ayons été notifié(e)s
+ayez été notifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été notifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été notifié(e)(s)

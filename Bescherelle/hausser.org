@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe hausser
+
+* INDICATIF
+
+** Présent
+
+je hausse
+tu hausses
+il (elle) hausse
+nous haussons
+vous haussez
+ils (elles) haussent
+
+** Imparfait
+
+je haussais
+tu haussais
+il (elle) haussait
+nous haussions
+vous haussiez
+ils (elles) haussaient
+
+** Passé simple
+
+je haussai
+tu haussas
+il (elle) haussa
+nous haussâmes
+vous haussâtes
+ils (elles) haussèrent
+
+** Futur simple
+
+je hausserai
+tu hausseras
+il (elle) haussera
+nous hausserons
+vous hausserez
+ils (elles) hausseront
+
+* CONDITIONNEL
+
+** Présent
+
+je hausserais
+tu hausserais
+il (elle) hausserait
+nous hausserions
+vous hausseriez
+ils (elles) hausseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hausse
+que tu hausses
+qu’il (elle) hausse
+que nous haussions
+que vous haussiez
+qu’ils (elles) haussent
+
+** Imparfait
+
+que je haussasse
+que tu haussasses
+qu’il (elle) haussât
+que nous haussassions
+que vous haussassiez
+qu’ils (elles) haussassent
+
+* IMPÉRATIF
+
+** Présent
+
+hausse
+haussons
+haussez
+
+* INFINITIF
+
+** Présent
+
+hausser
+
+* PARTICIPE
+
+** Présent
+
+haussant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai haussé
+tu as haussé
+il (elle) a haussé
+nous avons haussé
+vous avez haussé
+ils (elles) ont haussé
+
+** Plus-que-parfait
+
+j'avais haussé
+tu avais haussé
+il (elle) avait haussé
+nous avions haussé
+vous aviez haussé
+ils (elles) avaient haussé
+
+** Passé antérieur
+
+j'eus haussé
+tu eus haussé
+il (elle) eut haussé
+nous eûmes haussé
+vous eûtes haussé
+ils (elles) eurent haussé
+
+** Futur antérieur
+
+j'aurai haussé
+tu auras haussé
+il (elle) aura haussé
+nous aurons haussé
+vous aurez haussé
+ils (elles) auront haussé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais haussé
+tu aurais haussé
+il (elle) aurait haussé
+nous aurions haussé
+vous auriez haussé
+ils (elles) auraient haussé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie haussé
+que tu aies haussé
+qu’il (elle) ait haussé
+que nous ayons haussé
+que vous ayez haussé
+qu’ils (elles) aient haussé
+
+** Plus-que-parfait
+
+que j'eusse haussé
+que tu eusses haussé
+qu’il (elle) eût haussé
+que nous eussions haussé
+que vous eussiez haussé
+qu’ils (elles) eussent haussé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons haussé
+ayez haussé
+
+* INFINITIF
+
+** Passé
+
+avoir haussé
+
+* PARTICIPE
+
+** Passé
+
+ayant haussé
+haussé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis haussé(e)
+tu es haussé(e)
+il (elle) est haussé(e)
+nous sommes haussé(e)s
+vous êtes haussé(e)s
+ils (elles) sont haussé(e)s
+
+** Imparfait
+
+j'étais haussé(e)
+tu étais haussé(e)
+il (elle) était haussé(e)
+nous étions haussé(e)s
+vous étiez haussé(e)s
+ils (elles) étaient haussé(e)s
+
+** Passé simple
+
+je fus haussé(e)
+tu fus haussé(e)
+il (elle) fut haussé(e)
+nous fûmes haussé(e)s
+vous fûtes haussé(e)s
+ils (elles) furent haussé(e)s
+
+** Futur simple
+
+je serai haussé(e)
+tu seras haussé(e)
+il (elle) sera haussé(e)
+nous serons haussé(e)s
+vous serez haussé(e)s
+ils (elles) seront haussé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais haussé(e)
+tu serais haussé(e)
+il (elle) serait haussé(e)
+nous serions haussé(e)s
+vous seriez haussé(e)s
+ils (elles) seraient haussé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois haussé(e)
+que tu sois haussé(e)
+qu’il (elle) soit haussé(e)
+que nous soyons haussé(e)s
+que vous soyez haussé(e)s
+qu’ils (elles) soient haussé(e)s
+
+** Imparfait
+
+que je fusse haussé(e)
+que tu fusses haussé(e)
+qu’il (elle) fût haussé(e)
+que nous fussions haussé(e)s
+que vous fussiez haussé(e)s
+qu’ils (elles) fussent haussé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons haussé(e)s
+soyez haussé(e)s
+
+* INFINITIF
+
+** Présent
+
+être haussé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant haussé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été haussé(e)
+tu as été haussé(e)
+il (elle) a été haussé(e)
+nous avons été haussé(e)s
+vous avez été haussé(e)s
+ils (elles) ont été haussé(e)s
+
+** Plus-que-parfait
+
+j'avais été haussé(e)
+il (elle) avait été haussé(e)
+nous avions été haussé(e)s
+ils (elles) avaient été haussé(e)s
+
+** Passé antérieur
+
+j'eus été haussé(e)
+tu eus été haussé(e)
+il (elle) eut été haussé(e)
+nous eûmes été haussé(e)s
+vous eûtes été haussé(e)s
+ils (elles) eurent été haussé(e)s
+
+** Futur antérieur
+
+j'aurai été haussé(e)
+tu auras été haussé(e)
+il (elle) aura été haussé(e)
+nous aurons été haussé(e)s
+vous aurez été haussé(e)s
+ils (elles) auront été haussé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été haussé(e)
+j'aurais été haussé(e)
+il (elle) aurait été haussé(e)
+nous aurions été haussé(e)s
+vous auriez été haussé(e)s
+ils (elles) auraient été haussé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été haussé(e)
+que tu aies été haussé(e)
+qu’il (elle) ait été haussé(e)
+que nous ayons été haussé(e)s
+que vous ayez été haussé(e)s
+qu’ils (elles) aient été haussé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été haussé(e)
+que tu eusses été haussé(e)
+qu’il (elle) eût été haussé(e)
+que nous eussions été haussé(e)s
+que vous eussiez été haussé(e)s
+qu’ils (elles) eussent été haussé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été haussé(e)
+ayons été haussé(e)s
+ayez été haussé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été haussé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été haussé(e)(s)

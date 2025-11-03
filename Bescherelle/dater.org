@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dater
+
+* INDICATIF
+
+** Présent
+
+je date
+tu dates
+il (elle) date
+nous datons
+vous datez
+ils (elles) datent
+
+** Imparfait
+
+je datais
+tu datais
+il (elle) datait
+nous dations
+vous datiez
+ils (elles) dataient
+
+** Passé simple
+
+je datai
+tu datas
+il (elle) data
+nous datâmes
+vous datâtes
+ils (elles) datèrent
+
+** Futur simple
+
+je daterai
+tu dateras
+il (elle) datera
+nous daterons
+vous daterez
+ils (elles) dateront
+
+* CONDITIONNEL
+
+** Présent
+
+je daterais
+tu daterais
+il (elle) daterait
+nous daterions
+vous dateriez
+ils (elles) dateraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je date
+que tu dates
+qu’il (elle) date
+que nous dations
+que vous datiez
+qu’ils (elles) datent
+
+** Imparfait
+
+que je datasse
+que tu datasses
+qu’il (elle) datât
+que nous datassions
+que vous datassiez
+qu’ils (elles) datassent
+
+* IMPÉRATIF
+
+** Présent
+
+date
+datons
+datez
+
+* INFINITIF
+
+** Présent
+
+dater
+
+* PARTICIPE
+
+** Présent
+
+datant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai daté
+tu as daté
+il (elle) a daté
+nous avons daté
+vous avez daté
+ils (elles) ont daté
+
+** Plus-que-parfait
+
+j'avais daté
+tu avais daté
+il (elle) avait daté
+nous avions daté
+vous aviez daté
+ils (elles) avaient daté
+
+** Passé antérieur
+
+j'eus daté
+tu eus daté
+il (elle) eut daté
+nous eûmes daté
+vous eûtes daté
+ils (elles) eurent daté
+
+** Futur antérieur
+
+j'aurai daté
+tu auras daté
+il (elle) aura daté
+nous aurons daté
+vous aurez daté
+ils (elles) auront daté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais daté
+tu aurais daté
+il (elle) aurait daté
+nous aurions daté
+vous auriez daté
+ils (elles) auraient daté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie daté
+que tu aies daté
+qu’il (elle) ait daté
+que nous ayons daté
+que vous ayez daté
+qu’ils (elles) aient daté
+
+** Plus-que-parfait
+
+que j'eusse daté
+que tu eusses daté
+qu’il (elle) eût daté
+que nous eussions daté
+que vous eussiez daté
+qu’ils (elles) eussent daté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons daté
+ayez daté
+
+* INFINITIF
+
+** Passé
+
+avoir daté
+
+* PARTICIPE
+
+** Passé
+
+ayant daté
+daté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis daté(e)
+tu es daté(e)
+il (elle) est daté(e)
+nous sommes daté(e)s
+vous êtes daté(e)s
+ils (elles) sont daté(e)s
+
+** Imparfait
+
+j'étais daté(e)
+tu étais daté(e)
+il (elle) était daté(e)
+nous étions daté(e)s
+vous étiez daté(e)s
+ils (elles) étaient daté(e)s
+
+** Passé simple
+
+je fus daté(e)
+tu fus daté(e)
+il (elle) fut daté(e)
+nous fûmes daté(e)s
+vous fûtes daté(e)s
+ils (elles) furent daté(e)s
+
+** Futur simple
+
+je serai daté(e)
+tu seras daté(e)
+il (elle) sera daté(e)
+nous serons daté(e)s
+vous serez daté(e)s
+ils (elles) seront daté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais daté(e)
+tu serais daté(e)
+il (elle) serait daté(e)
+nous serions daté(e)s
+vous seriez daté(e)s
+ils (elles) seraient daté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois daté(e)
+que tu sois daté(e)
+qu’il (elle) soit daté(e)
+que nous soyons daté(e)s
+que vous soyez daté(e)s
+qu’ils (elles) soient daté(e)s
+
+** Imparfait
+
+que je fusse daté(e)
+que tu fusses daté(e)
+qu’il (elle) fût daté(e)
+que nous fussions daté(e)s
+que vous fussiez daté(e)s
+qu’ils (elles) fussent daté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons daté(e)s
+soyez daté(e)s
+
+* INFINITIF
+
+** Présent
+
+être daté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant daté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été daté(e)
+tu as été daté(e)
+il (elle) a été daté(e)
+nous avons été daté(e)s
+vous avez été daté(e)s
+ils (elles) ont été daté(e)s
+
+** Plus-que-parfait
+
+j'avais été daté(e)
+il (elle) avait été daté(e)
+nous avions été daté(e)s
+ils (elles) avaient été daté(e)s
+
+** Passé antérieur
+
+j'eus été daté(e)
+tu eus été daté(e)
+il (elle) eut été daté(e)
+nous eûmes été daté(e)s
+vous eûtes été daté(e)s
+ils (elles) eurent été daté(e)s
+
+** Futur antérieur
+
+j'aurai été daté(e)
+tu auras été daté(e)
+il (elle) aura été daté(e)
+nous aurons été daté(e)s
+vous aurez été daté(e)s
+ils (elles) auront été daté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été daté(e)
+j'aurais été daté(e)
+il (elle) aurait été daté(e)
+nous aurions été daté(e)s
+vous auriez été daté(e)s
+ils (elles) auraient été daté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été daté(e)
+que tu aies été daté(e)
+qu’il (elle) ait été daté(e)
+que nous ayons été daté(e)s
+que vous ayez été daté(e)s
+qu’ils (elles) aient été daté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été daté(e)
+que tu eusses été daté(e)
+qu’il (elle) eût été daté(e)
+que nous eussions été daté(e)s
+que vous eussiez été daté(e)s
+qu’ils (elles) eussent été daté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été daté(e)
+ayons été daté(e)s
+ayez été daté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été daté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été daté(e)(s)

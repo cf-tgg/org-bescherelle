@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inciter
+
+* INDICATIF
+
+** Présent
+
+j'incite
+tu incites
+il (elle) incite
+nous incitons
+vous incitez
+ils (elles) incitent
+
+** Imparfait
+
+j'incitais
+tu incitais
+il (elle) incitait
+nous incitions
+vous incitiez
+ils (elles) incitaient
+
+** Passé simple
+
+j'incitai
+tu incitas
+il (elle) incita
+nous incitâmes
+vous incitâtes
+ils (elles) incitèrent
+
+** Futur simple
+
+j'inciterai
+tu inciteras
+il (elle) incitera
+nous inciterons
+vous inciterez
+ils (elles) inciteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inciterais
+tu inciterais
+il (elle) inciterait
+nous inciterions
+vous inciteriez
+ils (elles) inciteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'incite
+que tu incites
+qu’il (elle) incite
+que nous incitions
+que vous incitiez
+qu’ils (elles) incitent
+
+** Imparfait
+
+que j'incitasse
+que tu incitasses
+qu’il (elle) incitât
+que nous incitassions
+que vous incitassiez
+qu’ils (elles) incitassent
+
+* IMPÉRATIF
+
+** Présent
+
+incite
+incitons
+incitez
+
+* INFINITIF
+
+** Présent
+
+inciter
+
+* PARTICIPE
+
+** Présent
+
+incitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai incité
+tu as incité
+il (elle) a incité
+nous avons incité
+vous avez incité
+ils (elles) ont incité
+
+** Plus-que-parfait
+
+j'avais incité
+tu avais incité
+il (elle) avait incité
+nous avions incité
+vous aviez incité
+ils (elles) avaient incité
+
+** Passé antérieur
+
+j'eus incité
+tu eus incité
+il (elle) eut incité
+nous eûmes incité
+vous eûtes incité
+ils (elles) eurent incité
+
+** Futur antérieur
+
+j'aurai incité
+tu auras incité
+il (elle) aura incité
+nous aurons incité
+vous aurez incité
+ils (elles) auront incité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais incité
+tu aurais incité
+il (elle) aurait incité
+nous aurions incité
+vous auriez incité
+ils (elles) auraient incité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie incité
+que tu aies incité
+qu’il (elle) ait incité
+que nous ayons incité
+que vous ayez incité
+qu’ils (elles) aient incité
+
+** Plus-que-parfait
+
+que j'eusse incité
+que tu eusses incité
+qu’il (elle) eût incité
+que nous eussions incité
+que vous eussiez incité
+qu’ils (elles) eussent incité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons incité
+ayez incité
+
+* INFINITIF
+
+** Passé
+
+avoir incité
+
+* PARTICIPE
+
+** Passé
+
+ayant incité
+incité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis incité(e)
+tu es incité(e)
+il (elle) est incité(e)
+nous sommes incité(e)s
+vous êtes incité(e)s
+ils (elles) sont incité(e)s
+
+** Imparfait
+
+j'étais incité(e)
+tu étais incité(e)
+il (elle) était incité(e)
+nous étions incité(e)s
+vous étiez incité(e)s
+ils (elles) étaient incité(e)s
+
+** Passé simple
+
+je fus incité(e)
+tu fus incité(e)
+il (elle) fut incité(e)
+nous fûmes incité(e)s
+vous fûtes incité(e)s
+ils (elles) furent incité(e)s
+
+** Futur simple
+
+je serai incité(e)
+tu seras incité(e)
+il (elle) sera incité(e)
+nous serons incité(e)s
+vous serez incité(e)s
+ils (elles) seront incité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais incité(e)
+tu serais incité(e)
+il (elle) serait incité(e)
+nous serions incité(e)s
+vous seriez incité(e)s
+ils (elles) seraient incité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois incité(e)
+que tu sois incité(e)
+qu’il (elle) soit incité(e)
+que nous soyons incité(e)s
+que vous soyez incité(e)s
+qu’ils (elles) soient incité(e)s
+
+** Imparfait
+
+que je fusse incité(e)
+que tu fusses incité(e)
+qu’il (elle) fût incité(e)
+que nous fussions incité(e)s
+que vous fussiez incité(e)s
+qu’ils (elles) fussent incité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons incité(e)s
+soyez incité(e)s
+
+* INFINITIF
+
+** Présent
+
+être incité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant incité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été incité(e)
+tu as été incité(e)
+il (elle) a été incité(e)
+nous avons été incité(e)s
+vous avez été incité(e)s
+ils (elles) ont été incité(e)s
+
+** Plus-que-parfait
+
+j'avais été incité(e)
+il (elle) avait été incité(e)
+nous avions été incité(e)s
+ils (elles) avaient été incité(e)s
+
+** Passé antérieur
+
+j'eus été incité(e)
+tu eus été incité(e)
+il (elle) eut été incité(e)
+nous eûmes été incité(e)s
+vous eûtes été incité(e)s
+ils (elles) eurent été incité(e)s
+
+** Futur antérieur
+
+j'aurai été incité(e)
+tu auras été incité(e)
+il (elle) aura été incité(e)
+nous aurons été incité(e)s
+vous aurez été incité(e)s
+ils (elles) auront été incité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été incité(e)
+j'aurais été incité(e)
+il (elle) aurait été incité(e)
+nous aurions été incité(e)s
+vous auriez été incité(e)s
+ils (elles) auraient été incité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été incité(e)
+que tu aies été incité(e)
+qu’il (elle) ait été incité(e)
+que nous ayons été incité(e)s
+que vous ayez été incité(e)s
+qu’ils (elles) aient été incité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été incité(e)
+que tu eusses été incité(e)
+qu’il (elle) eût été incité(e)
+que nous eussions été incité(e)s
+que vous eussiez été incité(e)s
+qu’ils (elles) eussent été incité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été incité(e)
+ayons été incité(e)s
+ayez été incité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été incité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été incité(e)(s)

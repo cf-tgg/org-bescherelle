@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe hennir
+
+* INDICATIF
+
+** Présent
+
+je hennis
+tu hennis
+il (elle) hennit
+nous hennissons
+vous hennissez
+ils (elles) hennissent
+
+** Imparfait
+
+je hennissais
+tu hennissais
+il (elle) hennissait
+nous hennissions
+vous hennissiez
+ils (elles) hennissaient
+
+** Passé simple
+
+je hennis
+tu hennis
+il (elle) hennit
+nous hennîmes
+vous hennîtes
+ils (elles) hennirent
+
+** Futur simple
+
+je hennirai
+tu henniras
+il (elle) hennira
+nous hennirons
+vous hennirez
+ils (elles) henniront
+
+* CONDITIONNEL
+
+** Présent
+
+je hennirais
+tu hennirais
+il (elle) hennirait
+nous hennirions
+vous henniriez
+ils (elles) henniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hennisse
+que tu hennisses
+qu’il (elle) hennisse
+que nous hennissions
+que vous hennissiez
+qu’ils (elles) hennissent
+
+** Imparfait
+
+que je hennisse
+que tu hennisses
+qu’il (elle) hennît
+que nous hennissions
+que vous hennissiez
+qu’ils (elles) hennissent
+
+* IMPÉRATIF
+
+** Présent
+
+hennis
+hennissons
+hennissez
+
+* INFINITIF
+
+** Présent
+
+hennir
+
+* PARTICIPE
+
+** Présent
+
+hennissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai henni
+tu as henni
+il (elle) a henni
+nous avons henni
+vous avez henni
+ils (elles) ont henni
+
+** Plus-que-parfait
+
+j'avais henni
+tu avais henni
+il (elle) avait henni
+nous avions henni
+vous aviez henni
+ils (elles) avaient henni
+
+** Passé antérieur
+
+j'eus henni
+tu eus henni
+il (elle) eut henni
+nous eûmes henni
+vous eûtes henni
+ils (elles) eurent henni
+
+** Futur antérieur
+
+j'aurai henni
+tu auras henni
+il (elle) aura henni
+nous aurons henni
+vous aurez henni
+ils (elles) auront henni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais henni
+tu aurais henni
+il (elle) aurait henni
+nous aurions henni
+vous auriez henni
+ils (elles) auraient henni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie henni
+que tu aies henni
+qu’il (elle) ait henni
+que nous ayons henni
+que vous ayez henni
+qu’ils (elles) aient henni
+
+** Plus-que-parfait
+
+que j'eusse henni
+que tu eusses henni
+qu’il (elle) eût henni
+que nous eussions henni
+que vous eussiez henni
+qu’ils (elles) eussent henni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons henni
+ayez henni
+
+* INFINITIF
+
+** Passé
+
+avoir henni
+
+* PARTICIPE
+
+** Passé
+
+ayant henni
+henni (invar.)

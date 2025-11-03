@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe siroter
+
+* INDICATIF
+
+** Présent
+
+je sirote
+tu sirotes
+il (elle) sirote
+nous sirotons
+vous sirotez
+ils (elles) sirotent
+
+** Imparfait
+
+je sirotais
+tu sirotais
+il (elle) sirotait
+nous sirotions
+vous sirotiez
+ils (elles) sirotaient
+
+** Passé simple
+
+je sirotai
+tu sirotas
+il (elle) sirota
+nous sirotâmes
+vous sirotâtes
+ils (elles) sirotèrent
+
+** Futur simple
+
+je siroterai
+tu siroteras
+il (elle) sirotera
+nous siroterons
+vous siroterez
+ils (elles) siroteront
+
+* CONDITIONNEL
+
+** Présent
+
+je siroterais
+tu siroterais
+il (elle) siroterait
+nous siroterions
+vous siroteriez
+ils (elles) siroteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sirote
+que tu sirotes
+qu’il (elle) sirote
+que nous sirotions
+que vous sirotiez
+qu’ils (elles) sirotent
+
+** Imparfait
+
+que je sirotasse
+que tu sirotasses
+qu’il (elle) sirotât
+que nous sirotassions
+que vous sirotassiez
+qu’ils (elles) sirotassent
+
+* IMPÉRATIF
+
+** Présent
+
+sirote
+sirotons
+sirotez
+
+* INFINITIF
+
+** Présent
+
+siroter
+
+* PARTICIPE
+
+** Présent
+
+sirotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai siroté
+tu as siroté
+il (elle) a siroté
+nous avons siroté
+vous avez siroté
+ils (elles) ont siroté
+
+** Plus-que-parfait
+
+j'avais siroté
+tu avais siroté
+il (elle) avait siroté
+nous avions siroté
+vous aviez siroté
+ils (elles) avaient siroté
+
+** Passé antérieur
+
+j'eus siroté
+tu eus siroté
+il (elle) eut siroté
+nous eûmes siroté
+vous eûtes siroté
+ils (elles) eurent siroté
+
+** Futur antérieur
+
+j'aurai siroté
+tu auras siroté
+il (elle) aura siroté
+nous aurons siroté
+vous aurez siroté
+ils (elles) auront siroté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais siroté
+tu aurais siroté
+il (elle) aurait siroté
+nous aurions siroté
+vous auriez siroté
+ils (elles) auraient siroté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie siroté
+que tu aies siroté
+qu’il (elle) ait siroté
+que nous ayons siroté
+que vous ayez siroté
+qu’ils (elles) aient siroté
+
+** Plus-que-parfait
+
+que j'eusse siroté
+que tu eusses siroté
+qu’il (elle) eût siroté
+que nous eussions siroté
+que vous eussiez siroté
+qu’ils (elles) eussent siroté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons siroté
+ayez siroté
+
+* INFINITIF
+
+** Passé
+
+avoir siroté
+
+* PARTICIPE
+
+** Passé
+
+ayant siroté
+siroté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis siroté(e)
+tu es siroté(e)
+il (elle) est siroté(e)
+nous sommes siroté(e)s
+vous êtes siroté(e)s
+ils (elles) sont siroté(e)s
+
+** Imparfait
+
+j'étais siroté(e)
+tu étais siroté(e)
+il (elle) était siroté(e)
+nous étions siroté(e)s
+vous étiez siroté(e)s
+ils (elles) étaient siroté(e)s
+
+** Passé simple
+
+je fus siroté(e)
+tu fus siroté(e)
+il (elle) fut siroté(e)
+nous fûmes siroté(e)s
+vous fûtes siroté(e)s
+ils (elles) furent siroté(e)s
+
+** Futur simple
+
+je serai siroté(e)
+tu seras siroté(e)
+il (elle) sera siroté(e)
+nous serons siroté(e)s
+vous serez siroté(e)s
+ils (elles) seront siroté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais siroté(e)
+tu serais siroté(e)
+il (elle) serait siroté(e)
+nous serions siroté(e)s
+vous seriez siroté(e)s
+ils (elles) seraient siroté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois siroté(e)
+que tu sois siroté(e)
+qu’il (elle) soit siroté(e)
+que nous soyons siroté(e)s
+que vous soyez siroté(e)s
+qu’ils (elles) soient siroté(e)s
+
+** Imparfait
+
+que je fusse siroté(e)
+que tu fusses siroté(e)
+qu’il (elle) fût siroté(e)
+que nous fussions siroté(e)s
+que vous fussiez siroté(e)s
+qu’ils (elles) fussent siroté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons siroté(e)s
+soyez siroté(e)s
+
+* INFINITIF
+
+** Présent
+
+être siroté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant siroté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été siroté(e)
+tu as été siroté(e)
+il (elle) a été siroté(e)
+nous avons été siroté(e)s
+vous avez été siroté(e)s
+ils (elles) ont été siroté(e)s
+
+** Plus-que-parfait
+
+j'avais été siroté(e)
+il (elle) avait été siroté(e)
+nous avions été siroté(e)s
+ils (elles) avaient été siroté(e)s
+
+** Passé antérieur
+
+j'eus été siroté(e)
+tu eus été siroté(e)
+il (elle) eut été siroté(e)
+nous eûmes été siroté(e)s
+vous eûtes été siroté(e)s
+ils (elles) eurent été siroté(e)s
+
+** Futur antérieur
+
+j'aurai été siroté(e)
+tu auras été siroté(e)
+il (elle) aura été siroté(e)
+nous aurons été siroté(e)s
+vous aurez été siroté(e)s
+ils (elles) auront été siroté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été siroté(e)
+j'aurais été siroté(e)
+il (elle) aurait été siroté(e)
+nous aurions été siroté(e)s
+vous auriez été siroté(e)s
+ils (elles) auraient été siroté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été siroté(e)
+que tu aies été siroté(e)
+qu’il (elle) ait été siroté(e)
+que nous ayons été siroté(e)s
+que vous ayez été siroté(e)s
+qu’ils (elles) aient été siroté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été siroté(e)
+que tu eusses été siroté(e)
+qu’il (elle) eût été siroté(e)
+que nous eussions été siroté(e)s
+que vous eussiez été siroté(e)s
+qu’ils (elles) eussent été siroté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été siroté(e)
+ayons été siroté(e)s
+ayez été siroté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été siroté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été siroté(e)(s)

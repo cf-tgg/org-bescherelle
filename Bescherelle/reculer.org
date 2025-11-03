@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reculer
+
+* INDICATIF
+
+** Présent
+
+je recule
+tu recules
+il (elle) recule
+nous reculons
+vous reculez
+ils (elles) reculent
+
+** Imparfait
+
+je reculais
+tu reculais
+il (elle) reculait
+nous reculions
+vous reculiez
+ils (elles) reculaient
+
+** Passé simple
+
+je reculai
+tu reculas
+il (elle) recula
+nous reculâmes
+vous reculâtes
+ils (elles) reculèrent
+
+** Futur simple
+
+je reculerai
+tu reculeras
+il (elle) reculera
+nous reculerons
+vous reculerez
+ils (elles) reculeront
+
+* CONDITIONNEL
+
+** Présent
+
+je reculerais
+tu reculerais
+il (elle) reculerait
+nous reculerions
+vous reculeriez
+ils (elles) reculeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recule
+que tu recules
+qu’il (elle) recule
+que nous reculions
+que vous reculiez
+qu’ils (elles) reculent
+
+** Imparfait
+
+que je reculasse
+que tu reculasses
+qu’il (elle) reculât
+que nous reculassions
+que vous reculassiez
+qu’ils (elles) reculassent
+
+* IMPÉRATIF
+
+** Présent
+
+recule
+reculons
+reculez
+
+* INFINITIF
+
+** Présent
+
+reculer
+
+* PARTICIPE
+
+** Présent
+
+reculant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reculé
+tu as reculé
+il (elle) a reculé
+nous avons reculé
+vous avez reculé
+ils (elles) ont reculé
+
+** Plus-que-parfait
+
+j'avais reculé
+tu avais reculé
+il (elle) avait reculé
+nous avions reculé
+vous aviez reculé
+ils (elles) avaient reculé
+
+** Passé antérieur
+
+j'eus reculé
+tu eus reculé
+il (elle) eut reculé
+nous eûmes reculé
+vous eûtes reculé
+ils (elles) eurent reculé
+
+** Futur antérieur
+
+j'aurai reculé
+tu auras reculé
+il (elle) aura reculé
+nous aurons reculé
+vous aurez reculé
+ils (elles) auront reculé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reculé
+tu aurais reculé
+il (elle) aurait reculé
+nous aurions reculé
+vous auriez reculé
+ils (elles) auraient reculé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reculé
+que tu aies reculé
+qu’il (elle) ait reculé
+que nous ayons reculé
+que vous ayez reculé
+qu’ils (elles) aient reculé
+
+** Plus-que-parfait
+
+que j'eusse reculé
+que tu eusses reculé
+qu’il (elle) eût reculé
+que nous eussions reculé
+que vous eussiez reculé
+qu’ils (elles) eussent reculé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reculé
+ayez reculé
+
+* INFINITIF
+
+** Passé
+
+avoir reculé
+
+* PARTICIPE
+
+** Passé
+
+ayant reculé
+reculé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis reculé(e)
+tu es reculé(e)
+il (elle) est reculé(e)
+nous sommes reculé(e)s
+vous êtes reculé(e)s
+ils (elles) sont reculé(e)s
+
+** Imparfait
+
+j'étais reculé(e)
+tu étais reculé(e)
+il (elle) était reculé(e)
+nous étions reculé(e)s
+vous étiez reculé(e)s
+ils (elles) étaient reculé(e)s
+
+** Passé simple
+
+je fus reculé(e)
+tu fus reculé(e)
+il (elle) fut reculé(e)
+nous fûmes reculé(e)s
+vous fûtes reculé(e)s
+ils (elles) furent reculé(e)s
+
+** Futur simple
+
+je serai reculé(e)
+tu seras reculé(e)
+il (elle) sera reculé(e)
+nous serons reculé(e)s
+vous serez reculé(e)s
+ils (elles) seront reculé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reculé(e)
+tu serais reculé(e)
+il (elle) serait reculé(e)
+nous serions reculé(e)s
+vous seriez reculé(e)s
+ils (elles) seraient reculé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reculé(e)
+que tu sois reculé(e)
+qu’il (elle) soit reculé(e)
+que nous soyons reculé(e)s
+que vous soyez reculé(e)s
+qu’ils (elles) soient reculé(e)s
+
+** Imparfait
+
+que je fusse reculé(e)
+que tu fusses reculé(e)
+qu’il (elle) fût reculé(e)
+que nous fussions reculé(e)s
+que vous fussiez reculé(e)s
+qu’ils (elles) fussent reculé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reculé(e)s
+soyez reculé(e)s
+
+* INFINITIF
+
+** Présent
+
+être reculé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reculé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reculé(e)
+tu as été reculé(e)
+il (elle) a été reculé(e)
+nous avons été reculé(e)s
+vous avez été reculé(e)s
+ils (elles) ont été reculé(e)s
+
+** Plus-que-parfait
+
+j'avais été reculé(e)
+il (elle) avait été reculé(e)
+nous avions été reculé(e)s
+ils (elles) avaient été reculé(e)s
+
+** Passé antérieur
+
+j'eus été reculé(e)
+tu eus été reculé(e)
+il (elle) eut été reculé(e)
+nous eûmes été reculé(e)s
+vous eûtes été reculé(e)s
+ils (elles) eurent été reculé(e)s
+
+** Futur antérieur
+
+j'aurai été reculé(e)
+tu auras été reculé(e)
+il (elle) aura été reculé(e)
+nous aurons été reculé(e)s
+vous aurez été reculé(e)s
+ils (elles) auront été reculé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reculé(e)
+j'aurais été reculé(e)
+il (elle) aurait été reculé(e)
+nous aurions été reculé(e)s
+vous auriez été reculé(e)s
+ils (elles) auraient été reculé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reculé(e)
+que tu aies été reculé(e)
+qu’il (elle) ait été reculé(e)
+que nous ayons été reculé(e)s
+que vous ayez été reculé(e)s
+qu’ils (elles) aient été reculé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reculé(e)
+que tu eusses été reculé(e)
+qu’il (elle) eût été reculé(e)
+que nous eussions été reculé(e)s
+que vous eussiez été reculé(e)s
+qu’ils (elles) eussent été reculé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reculé(e)
+ayons été reculé(e)s
+ayez été reculé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reculé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reculé(e)(s)

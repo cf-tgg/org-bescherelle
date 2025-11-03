@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fonctionner
+
+* INDICATIF
+
+** Présent
+
+je fonctionne
+tu fonctionnes
+il (elle) fonctionne
+nous fonctionnons
+vous fonctionnez
+ils (elles) fonctionnent
+
+** Imparfait
+
+je fonctionnais
+tu fonctionnais
+il (elle) fonctionnait
+nous fonctionnions
+vous fonctionniez
+ils (elles) fonctionnaient
+
+** Passé simple
+
+je fonctionnai
+tu fonctionnas
+il (elle) fonctionna
+nous fonctionnâmes
+vous fonctionnâtes
+ils (elles) fonctionnèrent
+
+** Futur simple
+
+je fonctionnerai
+tu fonctionneras
+il (elle) fonctionnera
+nous fonctionnerons
+vous fonctionnerez
+ils (elles) fonctionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je fonctionnerais
+tu fonctionnerais
+il (elle) fonctionnerait
+nous fonctionnerions
+vous fonctionneriez
+ils (elles) fonctionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fonctionne
+que tu fonctionnes
+qu’il (elle) fonctionne
+que nous fonctionnions
+que vous fonctionniez
+qu’ils (elles) fonctionnent
+
+** Imparfait
+
+que je fonctionnasse
+que tu fonctionnasses
+qu’il (elle) fonctionnât
+que nous fonctionnassions
+que vous fonctionnassiez
+qu’ils (elles) fonctionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+fonctionne
+fonctionnons
+fonctionnez
+
+* INFINITIF
+
+** Présent
+
+fonctionner
+
+* PARTICIPE
+
+** Présent
+
+fonctionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fonctionné
+tu as fonctionné
+il (elle) a fonctionné
+nous avons fonctionné
+vous avez fonctionné
+ils (elles) ont fonctionné
+
+** Plus-que-parfait
+
+j'avais fonctionné
+tu avais fonctionné
+il (elle) avait fonctionné
+nous avions fonctionné
+vous aviez fonctionné
+ils (elles) avaient fonctionné
+
+** Passé antérieur
+
+j'eus fonctionné
+tu eus fonctionné
+il (elle) eut fonctionné
+nous eûmes fonctionné
+vous eûtes fonctionné
+ils (elles) eurent fonctionné
+
+** Futur antérieur
+
+j'aurai fonctionné
+tu auras fonctionné
+il (elle) aura fonctionné
+nous aurons fonctionné
+vous aurez fonctionné
+ils (elles) auront fonctionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fonctionné
+tu aurais fonctionné
+il (elle) aurait fonctionné
+nous aurions fonctionné
+vous auriez fonctionné
+ils (elles) auraient fonctionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fonctionné
+que tu aies fonctionné
+qu’il (elle) ait fonctionné
+que nous ayons fonctionné
+que vous ayez fonctionné
+qu’ils (elles) aient fonctionné
+
+** Plus-que-parfait
+
+que j'eusse fonctionné
+que tu eusses fonctionné
+qu’il (elle) eût fonctionné
+que nous eussions fonctionné
+que vous eussiez fonctionné
+qu’ils (elles) eussent fonctionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fonctionné
+ayez fonctionné
+
+* INFINITIF
+
+** Passé
+
+avoir fonctionné
+
+* PARTICIPE
+
+** Passé
+
+ayant fonctionné
+fonctionné (invar.)

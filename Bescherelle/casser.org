@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe casser
+
+* INDICATIF
+
+** Présent
+
+je casse
+tu casses
+il (elle) casse
+nous cassons
+vous cassez
+ils (elles) cassent
+
+** Imparfait
+
+je cassais
+tu cassais
+il (elle) cassait
+nous cassions
+vous cassiez
+ils (elles) cassaient
+
+** Passé simple
+
+je cassai
+tu cassas
+il (elle) cassa
+nous cassâmes
+vous cassâtes
+ils (elles) cassèrent
+
+** Futur simple
+
+je casserai
+tu casseras
+il (elle) cassera
+nous casserons
+vous casserez
+ils (elles) casseront
+
+* CONDITIONNEL
+
+** Présent
+
+je casserais
+tu casserais
+il (elle) casserait
+nous casserions
+vous casseriez
+ils (elles) casseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je casse
+que tu casses
+qu’il (elle) casse
+que nous cassions
+que vous cassiez
+qu’ils (elles) cassent
+
+** Imparfait
+
+que je cassasse
+que tu cassasses
+qu’il (elle) cassât
+que nous cassassions
+que vous cassassiez
+qu’ils (elles) cassassent
+
+* IMPÉRATIF
+
+** Présent
+
+casse
+cassons
+cassez
+
+* INFINITIF
+
+** Présent
+
+casser
+
+* PARTICIPE
+
+** Présent
+
+cassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cassé
+tu as cassé
+il (elle) a cassé
+nous avons cassé
+vous avez cassé
+ils (elles) ont cassé
+
+** Plus-que-parfait
+
+j'avais cassé
+tu avais cassé
+il (elle) avait cassé
+nous avions cassé
+vous aviez cassé
+ils (elles) avaient cassé
+
+** Passé antérieur
+
+j'eus cassé
+tu eus cassé
+il (elle) eut cassé
+nous eûmes cassé
+vous eûtes cassé
+ils (elles) eurent cassé
+
+** Futur antérieur
+
+j'aurai cassé
+tu auras cassé
+il (elle) aura cassé
+nous aurons cassé
+vous aurez cassé
+ils (elles) auront cassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cassé
+tu aurais cassé
+il (elle) aurait cassé
+nous aurions cassé
+vous auriez cassé
+ils (elles) auraient cassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cassé
+que tu aies cassé
+qu’il (elle) ait cassé
+que nous ayons cassé
+que vous ayez cassé
+qu’ils (elles) aient cassé
+
+** Plus-que-parfait
+
+que j'eusse cassé
+que tu eusses cassé
+qu’il (elle) eût cassé
+que nous eussions cassé
+que vous eussiez cassé
+qu’ils (elles) eussent cassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cassé
+ayez cassé
+
+* INFINITIF
+
+** Passé
+
+avoir cassé
+
+* PARTICIPE
+
+** Passé
+
+ayant cassé
+cassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cassé(e)
+tu es cassé(e)
+il (elle) est cassé(e)
+nous sommes cassé(e)s
+vous êtes cassé(e)s
+ils (elles) sont cassé(e)s
+
+** Imparfait
+
+j'étais cassé(e)
+tu étais cassé(e)
+il (elle) était cassé(e)
+nous étions cassé(e)s
+vous étiez cassé(e)s
+ils (elles) étaient cassé(e)s
+
+** Passé simple
+
+je fus cassé(e)
+tu fus cassé(e)
+il (elle) fut cassé(e)
+nous fûmes cassé(e)s
+vous fûtes cassé(e)s
+ils (elles) furent cassé(e)s
+
+** Futur simple
+
+je serai cassé(e)
+tu seras cassé(e)
+il (elle) sera cassé(e)
+nous serons cassé(e)s
+vous serez cassé(e)s
+ils (elles) seront cassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cassé(e)
+tu serais cassé(e)
+il (elle) serait cassé(e)
+nous serions cassé(e)s
+vous seriez cassé(e)s
+ils (elles) seraient cassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cassé(e)
+que tu sois cassé(e)
+qu’il (elle) soit cassé(e)
+que nous soyons cassé(e)s
+que vous soyez cassé(e)s
+qu’ils (elles) soient cassé(e)s
+
+** Imparfait
+
+que je fusse cassé(e)
+que tu fusses cassé(e)
+qu’il (elle) fût cassé(e)
+que nous fussions cassé(e)s
+que vous fussiez cassé(e)s
+qu’ils (elles) fussent cassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cassé(e)s
+soyez cassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être cassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cassé(e)
+tu as été cassé(e)
+il (elle) a été cassé(e)
+nous avons été cassé(e)s
+vous avez été cassé(e)s
+ils (elles) ont été cassé(e)s
+
+** Plus-que-parfait
+
+j'avais été cassé(e)
+il (elle) avait été cassé(e)
+nous avions été cassé(e)s
+ils (elles) avaient été cassé(e)s
+
+** Passé antérieur
+
+j'eus été cassé(e)
+tu eus été cassé(e)
+il (elle) eut été cassé(e)
+nous eûmes été cassé(e)s
+vous eûtes été cassé(e)s
+ils (elles) eurent été cassé(e)s
+
+** Futur antérieur
+
+j'aurai été cassé(e)
+tu auras été cassé(e)
+il (elle) aura été cassé(e)
+nous aurons été cassé(e)s
+vous aurez été cassé(e)s
+ils (elles) auront été cassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cassé(e)
+j'aurais été cassé(e)
+il (elle) aurait été cassé(e)
+nous aurions été cassé(e)s
+vous auriez été cassé(e)s
+ils (elles) auraient été cassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cassé(e)
+que tu aies été cassé(e)
+qu’il (elle) ait été cassé(e)
+que nous ayons été cassé(e)s
+que vous ayez été cassé(e)s
+qu’ils (elles) aient été cassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cassé(e)
+que tu eusses été cassé(e)
+qu’il (elle) eût été cassé(e)
+que nous eussions été cassé(e)s
+que vous eussiez été cassé(e)s
+qu’ils (elles) eussent été cassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cassé(e)
+ayons été cassé(e)s
+ayez été cassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cassé(e)(s)

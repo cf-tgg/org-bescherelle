@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vouer
+
+* INDICATIF
+
+** Présent
+
+je voue
+tu voues
+il (elle) voue
+nous vouons
+vous vouez
+ils (elles) vouent
+
+** Imparfait
+
+je vouais
+tu vouais
+il (elle) vouait
+nous vouions
+vous vouiez
+ils (elles) vouaient
+
+** Passé simple
+
+je vouai
+tu vouas
+il (elle) voua
+nous vouâmes
+vous vouâtes
+ils (elles) vouèrent
+
+** Futur simple
+
+je vouerai
+tu voueras
+il (elle) vouera
+nous vouerons
+vous vouerez
+ils (elles) voueront
+
+* CONDITIONNEL
+
+** Présent
+
+je vouerais
+tu vouerais
+il (elle) vouerait
+nous vouerions
+vous voueriez
+ils (elles) voueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je voue
+que tu voues
+qu’il (elle) voue
+que nous vouions
+que vous vouiez
+qu’ils (elles) vouent
+
+** Imparfait
+
+que je vouasse
+que tu vouasses
+qu’il (elle) vouât
+que nous vouassions
+que vous vouassiez
+qu’ils (elles) vouassent
+
+* IMPÉRATIF
+
+** Présent
+
+voue
+vouons
+vouez
+
+* INFINITIF
+
+** Présent
+
+vouer
+
+* PARTICIPE
+
+** Présent
+
+vouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voué
+tu as voué
+il (elle) a voué
+nous avons voué
+vous avez voué
+ils (elles) ont voué
+
+** Plus-que-parfait
+
+j'avais voué
+tu avais voué
+il (elle) avait voué
+nous avions voué
+vous aviez voué
+ils (elles) avaient voué
+
+** Passé antérieur
+
+j'eus voué
+tu eus voué
+il (elle) eut voué
+nous eûmes voué
+vous eûtes voué
+ils (elles) eurent voué
+
+** Futur antérieur
+
+j'aurai voué
+tu auras voué
+il (elle) aura voué
+nous aurons voué
+vous aurez voué
+ils (elles) auront voué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voué
+tu aurais voué
+il (elle) aurait voué
+nous aurions voué
+vous auriez voué
+ils (elles) auraient voué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voué
+que tu aies voué
+qu’il (elle) ait voué
+que nous ayons voué
+que vous ayez voué
+qu’ils (elles) aient voué
+
+** Plus-que-parfait
+
+que j'eusse voué
+que tu eusses voué
+qu’il (elle) eût voué
+que nous eussions voué
+que vous eussiez voué
+qu’ils (elles) eussent voué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voué
+ayez voué
+
+* INFINITIF
+
+** Passé
+
+avoir voué
+
+* PARTICIPE
+
+** Passé
+
+ayant voué
+voué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis voué(e)
+tu es voué(e)
+il (elle) est voué(e)
+nous sommes voué(e)s
+vous êtes voué(e)s
+ils (elles) sont voué(e)s
+
+** Imparfait
+
+j'étais voué(e)
+tu étais voué(e)
+il (elle) était voué(e)
+nous étions voué(e)s
+vous étiez voué(e)s
+ils (elles) étaient voué(e)s
+
+** Passé simple
+
+je fus voué(e)
+tu fus voué(e)
+il (elle) fut voué(e)
+nous fûmes voué(e)s
+vous fûtes voué(e)s
+ils (elles) furent voué(e)s
+
+** Futur simple
+
+je serai voué(e)
+tu seras voué(e)
+il (elle) sera voué(e)
+nous serons voué(e)s
+vous serez voué(e)s
+ils (elles) seront voué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais voué(e)
+tu serais voué(e)
+il (elle) serait voué(e)
+nous serions voué(e)s
+vous seriez voué(e)s
+ils (elles) seraient voué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois voué(e)
+que tu sois voué(e)
+qu’il (elle) soit voué(e)
+que nous soyons voué(e)s
+que vous soyez voué(e)s
+qu’ils (elles) soient voué(e)s
+
+** Imparfait
+
+que je fusse voué(e)
+que tu fusses voué(e)
+qu’il (elle) fût voué(e)
+que nous fussions voué(e)s
+que vous fussiez voué(e)s
+qu’ils (elles) fussent voué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons voué(e)s
+soyez voué(e)s
+
+* INFINITIF
+
+** Présent
+
+être voué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant voué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été voué(e)
+tu as été voué(e)
+il (elle) a été voué(e)
+nous avons été voué(e)s
+vous avez été voué(e)s
+ils (elles) ont été voué(e)s
+
+** Plus-que-parfait
+
+j'avais été voué(e)
+il (elle) avait été voué(e)
+nous avions été voué(e)s
+ils (elles) avaient été voué(e)s
+
+** Passé antérieur
+
+j'eus été voué(e)
+tu eus été voué(e)
+il (elle) eut été voué(e)
+nous eûmes été voué(e)s
+vous eûtes été voué(e)s
+ils (elles) eurent été voué(e)s
+
+** Futur antérieur
+
+j'aurai été voué(e)
+tu auras été voué(e)
+il (elle) aura été voué(e)
+nous aurons été voué(e)s
+vous aurez été voué(e)s
+ils (elles) auront été voué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été voué(e)
+j'aurais été voué(e)
+il (elle) aurait été voué(e)
+nous aurions été voué(e)s
+vous auriez été voué(e)s
+ils (elles) auraient été voué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été voué(e)
+que tu aies été voué(e)
+qu’il (elle) ait été voué(e)
+que nous ayons été voué(e)s
+que vous ayez été voué(e)s
+qu’ils (elles) aient été voué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été voué(e)
+que tu eusses été voué(e)
+qu’il (elle) eût été voué(e)
+que nous eussions été voué(e)s
+que vous eussiez été voué(e)s
+qu’ils (elles) eussent été voué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été voué(e)
+ayons été voué(e)s
+ayez été voué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été voué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été voué(e)(s)

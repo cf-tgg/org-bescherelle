@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe situer
+
+* INDICATIF
+
+** Présent
+
+je situe
+tu situes
+il (elle) situe
+nous situons
+vous situez
+ils (elles) situent
+
+** Imparfait
+
+je situais
+tu situais
+il (elle) situait
+nous situions
+vous situiez
+ils (elles) situaient
+
+** Passé simple
+
+je situai
+tu situas
+il (elle) situa
+nous situâmes
+vous situâtes
+ils (elles) situèrent
+
+** Futur simple
+
+je situerai
+tu situeras
+il (elle) situera
+nous situerons
+vous situerez
+ils (elles) situeront
+
+* CONDITIONNEL
+
+** Présent
+
+je situerais
+tu situerais
+il (elle) situerait
+nous situerions
+vous situeriez
+ils (elles) situeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je situe
+que tu situes
+qu’il (elle) situe
+que nous situions
+que vous situiez
+qu’ils (elles) situent
+
+** Imparfait
+
+que je situasse
+que tu situasses
+qu’il (elle) situât
+que nous situassions
+que vous situassiez
+qu’ils (elles) situassent
+
+* IMPÉRATIF
+
+** Présent
+
+situe
+situons
+situez
+
+* INFINITIF
+
+** Présent
+
+situer
+
+* PARTICIPE
+
+** Présent
+
+situant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai situé
+tu as situé
+il (elle) a situé
+nous avons situé
+vous avez situé
+ils (elles) ont situé
+
+** Plus-que-parfait
+
+j'avais situé
+tu avais situé
+il (elle) avait situé
+nous avions situé
+vous aviez situé
+ils (elles) avaient situé
+
+** Passé antérieur
+
+j'eus situé
+tu eus situé
+il (elle) eut situé
+nous eûmes situé
+vous eûtes situé
+ils (elles) eurent situé
+
+** Futur antérieur
+
+j'aurai situé
+tu auras situé
+il (elle) aura situé
+nous aurons situé
+vous aurez situé
+ils (elles) auront situé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais situé
+tu aurais situé
+il (elle) aurait situé
+nous aurions situé
+vous auriez situé
+ils (elles) auraient situé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie situé
+que tu aies situé
+qu’il (elle) ait situé
+que nous ayons situé
+que vous ayez situé
+qu’ils (elles) aient situé
+
+** Plus-que-parfait
+
+que j'eusse situé
+que tu eusses situé
+qu’il (elle) eût situé
+que nous eussions situé
+que vous eussiez situé
+qu’ils (elles) eussent situé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons situé
+ayez situé
+
+* INFINITIF
+
+** Passé
+
+avoir situé
+
+* PARTICIPE
+
+** Passé
+
+ayant situé
+situé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis situé(e)
+tu es situé(e)
+il (elle) est situé(e)
+nous sommes situé(e)s
+vous êtes situé(e)s
+ils (elles) sont situé(e)s
+
+** Imparfait
+
+j'étais situé(e)
+tu étais situé(e)
+il (elle) était situé(e)
+nous étions situé(e)s
+vous étiez situé(e)s
+ils (elles) étaient situé(e)s
+
+** Passé simple
+
+je fus situé(e)
+tu fus situé(e)
+il (elle) fut situé(e)
+nous fûmes situé(e)s
+vous fûtes situé(e)s
+ils (elles) furent situé(e)s
+
+** Futur simple
+
+je serai situé(e)
+tu seras situé(e)
+il (elle) sera situé(e)
+nous serons situé(e)s
+vous serez situé(e)s
+ils (elles) seront situé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais situé(e)
+tu serais situé(e)
+il (elle) serait situé(e)
+nous serions situé(e)s
+vous seriez situé(e)s
+ils (elles) seraient situé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois situé(e)
+que tu sois situé(e)
+qu’il (elle) soit situé(e)
+que nous soyons situé(e)s
+que vous soyez situé(e)s
+qu’ils (elles) soient situé(e)s
+
+** Imparfait
+
+que je fusse situé(e)
+que tu fusses situé(e)
+qu’il (elle) fût situé(e)
+que nous fussions situé(e)s
+que vous fussiez situé(e)s
+qu’ils (elles) fussent situé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons situé(e)s
+soyez situé(e)s
+
+* INFINITIF
+
+** Présent
+
+être situé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant situé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été situé(e)
+tu as été situé(e)
+il (elle) a été situé(e)
+nous avons été situé(e)s
+vous avez été situé(e)s
+ils (elles) ont été situé(e)s
+
+** Plus-que-parfait
+
+j'avais été situé(e)
+il (elle) avait été situé(e)
+nous avions été situé(e)s
+ils (elles) avaient été situé(e)s
+
+** Passé antérieur
+
+j'eus été situé(e)
+tu eus été situé(e)
+il (elle) eut été situé(e)
+nous eûmes été situé(e)s
+vous eûtes été situé(e)s
+ils (elles) eurent été situé(e)s
+
+** Futur antérieur
+
+j'aurai été situé(e)
+tu auras été situé(e)
+il (elle) aura été situé(e)
+nous aurons été situé(e)s
+vous aurez été situé(e)s
+ils (elles) auront été situé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été situé(e)
+j'aurais été situé(e)
+il (elle) aurait été situé(e)
+nous aurions été situé(e)s
+vous auriez été situé(e)s
+ils (elles) auraient été situé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été situé(e)
+que tu aies été situé(e)
+qu’il (elle) ait été situé(e)
+que nous ayons été situé(e)s
+que vous ayez été situé(e)s
+qu’ils (elles) aient été situé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été situé(e)
+que tu eusses été situé(e)
+qu’il (elle) eût été situé(e)
+que nous eussions été situé(e)s
+que vous eussiez été situé(e)s
+qu’ils (elles) eussent été situé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été situé(e)
+ayons été situé(e)s
+ayez été situé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été situé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été situé(e)(s)

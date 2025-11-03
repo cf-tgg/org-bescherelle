@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe insister
+
+* INDICATIF
+
+** Présent
+
+j'insiste
+tu insistes
+il (elle) insiste
+nous insistons
+vous insistez
+ils (elles) insistent
+
+** Imparfait
+
+j'insistais
+tu insistais
+il (elle) insistait
+nous insistions
+vous insistiez
+ils (elles) insistaient
+
+** Passé simple
+
+j'insistai
+tu insistas
+il (elle) insista
+nous insistâmes
+vous insistâtes
+ils (elles) insistèrent
+
+** Futur simple
+
+j'insisterai
+tu insisteras
+il (elle) insistera
+nous insisterons
+vous insisterez
+ils (elles) insisteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'insisterais
+tu insisterais
+il (elle) insisterait
+nous insisterions
+vous insisteriez
+ils (elles) insisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'insiste
+que tu insistes
+qu’il (elle) insiste
+que nous insistions
+que vous insistiez
+qu’ils (elles) insistent
+
+** Imparfait
+
+que j'insistasse
+que tu insistasses
+qu’il (elle) insistât
+que nous insistassions
+que vous insistassiez
+qu’ils (elles) insistassent
+
+* IMPÉRATIF
+
+** Présent
+
+insiste
+insistons
+insistez
+
+* INFINITIF
+
+** Présent
+
+insister
+
+* PARTICIPE
+
+** Présent
+
+insistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai insisté
+tu as insisté
+il (elle) a insisté
+nous avons insisté
+vous avez insisté
+ils (elles) ont insisté
+
+** Plus-que-parfait
+
+j'avais insisté
+tu avais insisté
+il (elle) avait insisté
+nous avions insisté
+vous aviez insisté
+ils (elles) avaient insisté
+
+** Passé antérieur
+
+j'eus insisté
+tu eus insisté
+il (elle) eut insisté
+nous eûmes insisté
+vous eûtes insisté
+ils (elles) eurent insisté
+
+** Futur antérieur
+
+j'aurai insisté
+tu auras insisté
+il (elle) aura insisté
+nous aurons insisté
+vous aurez insisté
+ils (elles) auront insisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais insisté
+tu aurais insisté
+il (elle) aurait insisté
+nous aurions insisté
+vous auriez insisté
+ils (elles) auraient insisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie insisté
+que tu aies insisté
+qu’il (elle) ait insisté
+que nous ayons insisté
+que vous ayez insisté
+qu’ils (elles) aient insisté
+
+** Plus-que-parfait
+
+que j'eusse insisté
+que tu eusses insisté
+qu’il (elle) eût insisté
+que nous eussions insisté
+que vous eussiez insisté
+qu’ils (elles) eussent insisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons insisté
+ayez insisté
+
+* INFINITIF
+
+** Passé
+
+avoir insisté
+
+* PARTICIPE
+
+** Passé
+
+ayant insisté
+insisté (invar.)

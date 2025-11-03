@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe publier
+
+* INDICATIF
+
+** Présent
+
+je publie
+tu publies
+il (elle) publie
+nous publions
+vous publiez
+ils (elles) publient
+
+** Imparfait
+
+je publiais
+tu publiais
+il (elle) publiait
+nous publiions
+vous publiiez
+ils (elles) publiaient
+
+** Passé simple
+
+je publiai
+tu publias
+il (elle) publia
+nous publiâmes
+vous publiâtes
+ils (elles) publièrent
+
+** Futur simple
+
+je publierai
+tu publieras
+il (elle) publiera
+nous publierons
+vous publierez
+ils (elles) publieront
+
+* CONDITIONNEL
+
+** Présent
+
+je publierais
+tu publierais
+il (elle) publierait
+nous publierions
+vous publieriez
+ils (elles) publieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je publie
+que tu publies
+qu’il (elle) publie
+que nous publiions
+que vous publiiez
+qu’ils (elles) publient
+
+** Imparfait
+
+que je publiasse
+que tu publiasses
+qu’il (elle) publiât
+que nous publiassions
+que vous publiassiez
+qu’ils (elles) publiassent
+
+* IMPÉRATIF
+
+** Présent
+
+publie
+publions
+publiez
+
+* INFINITIF
+
+** Présent
+
+publier
+
+* PARTICIPE
+
+** Présent
+
+publiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai publié
+tu as publié
+il (elle) a publié
+nous avons publié
+vous avez publié
+ils (elles) ont publié
+
+** Plus-que-parfait
+
+j'avais publié
+tu avais publié
+il (elle) avait publié
+nous avions publié
+vous aviez publié
+ils (elles) avaient publié
+
+** Passé antérieur
+
+j'eus publié
+tu eus publié
+il (elle) eut publié
+nous eûmes publié
+vous eûtes publié
+ils (elles) eurent publié
+
+** Futur antérieur
+
+j'aurai publié
+tu auras publié
+il (elle) aura publié
+nous aurons publié
+vous aurez publié
+ils (elles) auront publié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais publié
+tu aurais publié
+il (elle) aurait publié
+nous aurions publié
+vous auriez publié
+ils (elles) auraient publié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie publié
+que tu aies publié
+qu’il (elle) ait publié
+que nous ayons publié
+que vous ayez publié
+qu’ils (elles) aient publié
+
+** Plus-que-parfait
+
+que j'eusse publié
+que tu eusses publié
+qu’il (elle) eût publié
+que nous eussions publié
+que vous eussiez publié
+qu’ils (elles) eussent publié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons publié
+ayez publié
+
+* INFINITIF
+
+** Passé
+
+avoir publié
+
+* PARTICIPE
+
+** Passé
+
+ayant publié
+publié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis publié(e)
+tu es publié(e)
+il (elle) est publié(e)
+nous sommes publié(e)s
+vous êtes publié(e)s
+ils (elles) sont publié(e)s
+
+** Imparfait
+
+j'étais publié(e)
+tu étais publié(e)
+il (elle) était publié(e)
+nous étions publié(e)s
+vous étiez publié(e)s
+ils (elles) étaient publié(e)s
+
+** Passé simple
+
+je fus publié(e)
+tu fus publié(e)
+il (elle) fut publié(e)
+nous fûmes publié(e)s
+vous fûtes publié(e)s
+ils (elles) furent publié(e)s
+
+** Futur simple
+
+je serai publié(e)
+tu seras publié(e)
+il (elle) sera publié(e)
+nous serons publié(e)s
+vous serez publié(e)s
+ils (elles) seront publié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais publié(e)
+tu serais publié(e)
+il (elle) serait publié(e)
+nous serions publié(e)s
+vous seriez publié(e)s
+ils (elles) seraient publié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois publié(e)
+que tu sois publié(e)
+qu’il (elle) soit publié(e)
+que nous soyons publié(e)s
+que vous soyez publié(e)s
+qu’ils (elles) soient publié(e)s
+
+** Imparfait
+
+que je fusse publié(e)
+que tu fusses publié(e)
+qu’il (elle) fût publié(e)
+que nous fussions publié(e)s
+que vous fussiez publié(e)s
+qu’ils (elles) fussent publié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons publié(e)s
+soyez publié(e)s
+
+* INFINITIF
+
+** Présent
+
+être publié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant publié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été publié(e)
+tu as été publié(e)
+il (elle) a été publié(e)
+nous avons été publié(e)s
+vous avez été publié(e)s
+ils (elles) ont été publié(e)s
+
+** Plus-que-parfait
+
+j'avais été publié(e)
+il (elle) avait été publié(e)
+nous avions été publié(e)s
+ils (elles) avaient été publié(e)s
+
+** Passé antérieur
+
+j'eus été publié(e)
+tu eus été publié(e)
+il (elle) eut été publié(e)
+nous eûmes été publié(e)s
+vous eûtes été publié(e)s
+ils (elles) eurent été publié(e)s
+
+** Futur antérieur
+
+j'aurai été publié(e)
+tu auras été publié(e)
+il (elle) aura été publié(e)
+nous aurons été publié(e)s
+vous aurez été publié(e)s
+ils (elles) auront été publié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été publié(e)
+j'aurais été publié(e)
+il (elle) aurait été publié(e)
+nous aurions été publié(e)s
+vous auriez été publié(e)s
+ils (elles) auraient été publié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été publié(e)
+que tu aies été publié(e)
+qu’il (elle) ait été publié(e)
+que nous ayons été publié(e)s
+que vous ayez été publié(e)s
+qu’ils (elles) aient été publié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été publié(e)
+que tu eusses été publié(e)
+qu’il (elle) eût été publié(e)
+que nous eussions été publié(e)s
+que vous eussiez été publié(e)s
+qu’ils (elles) eussent été publié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été publié(e)
+ayons été publié(e)s
+ayez été publié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été publié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été publié(e)(s)

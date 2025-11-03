@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe barrir
+
+* INDICATIF
+
+** Présent
+
+je barris
+tu barris
+il (elle) barrit
+nous barrissons
+vous barrissez
+ils (elles) barrissent
+
+** Imparfait
+
+je barrissais
+tu barrissais
+il (elle) barrissait
+nous barrissions
+vous barrissiez
+ils (elles) barrissaient
+
+** Passé simple
+
+je barris
+tu barris
+il (elle) barrit
+nous barrîmes
+vous barrîtes
+ils (elles) barrirent
+
+** Futur simple
+
+je barrirai
+tu barriras
+il (elle) barrira
+nous barrirons
+vous barrirez
+ils (elles) barriront
+
+* CONDITIONNEL
+
+** Présent
+
+je barrirais
+tu barrirais
+il (elle) barrirait
+nous barririons
+vous barririez
+ils (elles) barriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je barrisse
+que tu barrisses
+qu’il (elle) barrisse
+que nous barrissions
+que vous barrissiez
+qu’ils (elles) barrissent
+
+** Imparfait
+
+que je barrisse
+que tu barrisses
+qu’il (elle) barrît
+que nous barrissions
+que vous barrissiez
+qu’ils (elles) barrissent
+
+* IMPÉRATIF
+
+** Présent
+
+barris
+barrissons
+barrissez
+
+* INFINITIF
+
+** Présent
+
+barrir
+
+* PARTICIPE
+
+** Présent
+
+barrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai barri
+tu as barri
+il (elle) a barri
+nous avons barri
+vous avez barri
+ils (elles) ont barri
+
+** Plus-que-parfait
+
+j'avais barri
+tu avais barri
+il (elle) avait barri
+nous avions barri
+vous aviez barri
+ils (elles) avaient barri
+
+** Passé antérieur
+
+j'eus barri
+tu eus barri
+il (elle) eut barri
+nous eûmes barri
+vous eûtes barri
+ils (elles) eurent barri
+
+** Futur antérieur
+
+j'aurai barri
+tu auras barri
+il (elle) aura barri
+nous aurons barri
+vous aurez barri
+ils (elles) auront barri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais barri
+tu aurais barri
+il (elle) aurait barri
+nous aurions barri
+vous auriez barri
+ils (elles) auraient barri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie barri
+que tu aies barri
+qu’il (elle) ait barri
+que nous ayons barri
+que vous ayez barri
+qu’ils (elles) aient barri
+
+** Plus-que-parfait
+
+que j'eusse barri
+que tu eusses barri
+qu’il (elle) eût barri
+que nous eussions barri
+que vous eussiez barri
+qu’ils (elles) eussent barri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons barri
+ayez barri
+
+* INFINITIF
+
+** Passé
+
+avoir barri
+
+* PARTICIPE
+
+** Passé
+
+ayant barri
+barri (invar.)

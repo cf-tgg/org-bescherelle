@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cacheter
+
+* INDICATIF
+
+** Présent
+
+je cachette
+tu cachettes
+il (elle) cachette
+nous cachetons
+vous cachetez
+ils (elles) cachettent
+
+** Imparfait
+
+je cachetais
+tu cachetais
+il (elle) cachetait
+nous cachetions
+vous cachetiez
+ils (elles) cachetaient
+
+** Passé simple
+
+je cachetai
+tu cachetas
+il (elle) cacheta
+nous cachetâmes
+vous cachetâtes
+ils (elles) cachetèrent
+
+** Futur simple
+
+je cachetterai
+tu cachetteras
+il (elle) cachettera
+nous cachetterons
+vous cachetterez
+ils (elles) cachetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je cachetterais
+tu cachetterais
+il (elle) cachetterait
+nous cachetterions
+vous cachetteriez
+ils (elles) cachetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cachette
+que tu cachettes
+qu’il (elle) cachette
+que nous cachetions
+que vous cachetiez
+qu’ils (elles) cachettent
+
+** Imparfait
+
+que je cachetasse
+que tu cachetasses
+qu’il (elle) cachetât
+que nous cachetassions
+que vous cachetassiez
+qu’ils (elles) cachetassent
+
+* IMPÉRATIF
+
+** Présent
+
+cachette
+cachetons
+cachetez
+
+* INFINITIF
+
+** Présent
+
+cacheter
+
+* PARTICIPE
+
+** Présent
+
+cachetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cacheté
+tu as cacheté
+il (elle) a cacheté
+nous avons cacheté
+vous avez cacheté
+ils (elles) ont cacheté
+
+** Plus-que-parfait
+
+j'avais cacheté
+tu avais cacheté
+il (elle) avait cacheté
+nous avions cacheté
+vous aviez cacheté
+ils (elles) avaient cacheté
+
+** Passé antérieur
+
+j'eus cacheté
+tu eus cacheté
+il (elle) eut cacheté
+nous eûmes cacheté
+vous eûtes cacheté
+ils (elles) eurent cacheté
+
+** Futur antérieur
+
+j'aurai cacheté
+tu auras cacheté
+il (elle) aura cacheté
+nous aurons cacheté
+vous aurez cacheté
+ils (elles) auront cacheté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cacheté
+tu aurais cacheté
+il (elle) aurait cacheté
+nous aurions cacheté
+vous auriez cacheté
+ils (elles) auraient cacheté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cacheté
+que tu aies cacheté
+qu’il (elle) ait cacheté
+que nous ayons cacheté
+que vous ayez cacheté
+qu’ils (elles) aient cacheté
+
+** Plus-que-parfait
+
+que j'eusse cacheté
+que tu eusses cacheté
+qu’il (elle) eût cacheté
+que nous eussions cacheté
+que vous eussiez cacheté
+qu’ils (elles) eussent cacheté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cacheté
+ayez cacheté
+
+* INFINITIF
+
+** Passé
+
+avoir cacheté
+
+* PARTICIPE
+
+** Passé
+
+ayant cacheté
+cacheté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cacheté(e)
+tu es cacheté(e)
+il (elle) est cacheté(e)
+nous sommes cacheté(e)s
+vous êtes cacheté(e)s
+ils (elles) sont cacheté(e)s
+
+** Imparfait
+
+j'étais cacheté(e)
+tu étais cacheté(e)
+il (elle) était cacheté(e)
+nous étions cacheté(e)s
+vous étiez cacheté(e)s
+ils (elles) étaient cacheté(e)s
+
+** Passé simple
+
+je fus cacheté(e)
+tu fus cacheté(e)
+il (elle) fut cacheté(e)
+nous fûmes cacheté(e)s
+vous fûtes cacheté(e)s
+ils (elles) furent cacheté(e)s
+
+** Futur simple
+
+je serai cacheté(e)
+tu seras cacheté(e)
+il (elle) sera cacheté(e)
+nous serons cacheté(e)s
+vous serez cacheté(e)s
+ils (elles) seront cacheté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cacheté(e)
+tu serais cacheté(e)
+il (elle) serait cacheté(e)
+nous serions cacheté(e)s
+vous seriez cacheté(e)s
+ils (elles) seraient cacheté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cacheté(e)
+que tu sois cacheté(e)
+qu’il (elle) soit cacheté(e)
+que nous soyons cacheté(e)s
+que vous soyez cacheté(e)s
+qu’ils (elles) soient cacheté(e)s
+
+** Imparfait
+
+que je fusse cacheté(e)
+que tu fusses cacheté(e)
+qu’il (elle) fût cacheté(e)
+que nous fussions cacheté(e)s
+que vous fussiez cacheté(e)s
+qu’ils (elles) fussent cacheté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cacheté(e)s
+soyez cacheté(e)s
+
+* INFINITIF
+
+** Présent
+
+être cacheté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cacheté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cacheté(e)
+tu as été cacheté(e)
+il (elle) a été cacheté(e)
+nous avons été cacheté(e)s
+vous avez été cacheté(e)s
+ils (elles) ont été cacheté(e)s
+
+** Plus-que-parfait
+
+j'avais été cacheté(e)
+il (elle) avait été cacheté(e)
+nous avions été cacheté(e)s
+ils (elles) avaient été cacheté(e)s
+
+** Passé antérieur
+
+j'eus été cacheté(e)
+tu eus été cacheté(e)
+il (elle) eut été cacheté(e)
+nous eûmes été cacheté(e)s
+vous eûtes été cacheté(e)s
+ils (elles) eurent été cacheté(e)s
+
+** Futur antérieur
+
+j'aurai été cacheté(e)
+tu auras été cacheté(e)
+il (elle) aura été cacheté(e)
+nous aurons été cacheté(e)s
+vous aurez été cacheté(e)s
+ils (elles) auront été cacheté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cacheté(e)
+j'aurais été cacheté(e)
+il (elle) aurait été cacheté(e)
+nous aurions été cacheté(e)s
+vous auriez été cacheté(e)s
+ils (elles) auraient été cacheté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cacheté(e)
+que tu aies été cacheté(e)
+qu’il (elle) ait été cacheté(e)
+que nous ayons été cacheté(e)s
+que vous ayez été cacheté(e)s
+qu’ils (elles) aient été cacheté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cacheté(e)
+que tu eusses été cacheté(e)
+qu’il (elle) eût été cacheté(e)
+que nous eussions été cacheté(e)s
+que vous eussiez été cacheté(e)s
+qu’ils (elles) eussent été cacheté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cacheté(e)
+ayons été cacheté(e)s
+ayez été cacheté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cacheté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cacheté(e)(s)

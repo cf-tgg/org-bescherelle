@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reperer
+
+* INDICATIF
+
+** Présent
+
+je repère
+tu repères
+il (elle) repère
+nous repérons
+vous repérez
+ils (elles) repèrent
+
+** Imparfait
+
+je repérais
+tu repérais
+il (elle) repérait
+nous repérions
+vous repériez
+ils (elles) repéraient
+
+** Passé simple
+
+je repérai
+tu repéras
+il (elle) repéra
+nous repérâmes
+vous repérâtes
+ils (elles) repérèrent
+
+** Futur simple
+
+je repérerai
+tu repéreras
+il (elle) repérera
+nous repérerons
+vous repérerez
+ils (elles) repéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je repérerais
+tu repérerais
+il (elle) repérerait
+nous repérerions
+vous repéreriez
+ils (elles) repéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je repère
+que tu repères
+qu’il (elle) repère
+que nous repérions
+que vous repériez
+qu’ils (elles) repèrent
+
+** Imparfait
+
+que je repérasse
+que tu repérasses
+qu’il (elle) repérât
+que nous repérassions
+que vous repérassiez
+qu’ils (elles) repérassent
+
+* IMPÉRATIF
+
+** Présent
+
+repère
+repérons
+repérez
+
+* INFINITIF
+
+** Présent
+
+repérer
+
+* PARTICIPE
+
+** Présent
+
+repérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai repéré
+tu as repéré
+il (elle) a repéré
+nous avons repéré
+vous avez repéré
+ils (elles) ont repéré
+
+** Plus-que-parfait
+
+j'avais repéré
+tu avais repéré
+il (elle) avait repéré
+nous avions repéré
+vous aviez repéré
+ils (elles) avaient repéré
+
+** Passé antérieur
+
+j'eus repéré
+tu eus repéré
+il (elle) eut repéré
+nous eûmes repéré
+vous eûtes repéré
+ils (elles) eurent repéré
+
+** Futur antérieur
+
+j'aurai repéré
+tu auras repéré
+il (elle) aura repéré
+nous aurons repéré
+vous aurez repéré
+ils (elles) auront repéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais repéré
+tu aurais repéré
+il (elle) aurait repéré
+nous aurions repéré
+vous auriez repéré
+ils (elles) auraient repéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie repéré
+que tu aies repéré
+qu’il (elle) ait repéré
+que nous ayons repéré
+que vous ayez repéré
+qu’ils (elles) aient repéré
+
+** Plus-que-parfait
+
+que j'eusse repéré
+que tu eusses repéré
+qu’il (elle) eût repéré
+que nous eussions repéré
+que vous eussiez repéré
+qu’ils (elles) eussent repéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons repéré
+ayez repéré
+
+* INFINITIF
+
+** Passé
+
+avoir repéré
+
+* PARTICIPE
+
+** Passé
+
+ayant repéré
+repéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis repéré(e)
+tu es repéré(e)
+il (elle) est repéré(e)
+nous sommes repéré(e)s
+vous êtes repéré(e)s
+ils (elles) sont repéré(e)s
+
+** Imparfait
+
+j'étais repéré(e)
+tu étais repéré(e)
+il (elle) était repéré(e)
+nous étions repéré(e)s
+vous étiez repéré(e)s
+ils (elles) étaient repéré(e)s
+
+** Passé simple
+
+je fus repéré(e)
+tu fus repéré(e)
+il (elle) fut repéré(e)
+nous fûmes repéré(e)s
+vous fûtes repéré(e)s
+ils (elles) furent repéré(e)s
+
+** Futur simple
+
+je serai repéré(e)
+tu seras repéré(e)
+il (elle) sera repéré(e)
+nous serons repéré(e)s
+vous serez repéré(e)s
+ils (elles) seront repéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais repéré(e)
+tu serais repéré(e)
+il (elle) serait repéré(e)
+nous serions repéré(e)s
+vous seriez repéré(e)s
+ils (elles) seraient repéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois repéré(e)
+que tu sois repéré(e)
+qu’il (elle) soit repéré(e)
+que nous soyons repéré(e)s
+que vous soyez repéré(e)s
+qu’ils (elles) soient repéré(e)s
+
+** Imparfait
+
+que je fusse repéré(e)
+que tu fusses repéré(e)
+qu’il (elle) fût repéré(e)
+que nous fussions repéré(e)s
+que vous fussiez repéré(e)s
+qu’ils (elles) fussent repéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons repéré(e)s
+soyez repéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être repéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant repéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été repéré(e)
+tu as été repéré(e)
+il (elle) a été repéré(e)
+nous avons été repéré(e)s
+vous avez été repéré(e)s
+ils (elles) ont été repéré(e)s
+
+** Plus-que-parfait
+
+j'avais été repéré(e)
+il (elle) avait été repéré(e)
+nous avions été repéré(e)s
+ils (elles) avaient été repéré(e)s
+
+** Passé antérieur
+
+j'eus été repéré(e)
+tu eus été repéré(e)
+il (elle) eut été repéré(e)
+nous eûmes été repéré(e)s
+vous eûtes été repéré(e)s
+ils (elles) eurent été repéré(e)s
+
+** Futur antérieur
+
+j'aurai été repéré(e)
+tu auras été repéré(e)
+il (elle) aura été repéré(e)
+nous aurons été repéré(e)s
+vous aurez été repéré(e)s
+ils (elles) auront été repéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été repéré(e)
+j'aurais été repéré(e)
+il (elle) aurait été repéré(e)
+nous aurions été repéré(e)s
+vous auriez été repéré(e)s
+ils (elles) auraient été repéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été repéré(e)
+que tu aies été repéré(e)
+qu’il (elle) ait été repéré(e)
+que nous ayons été repéré(e)s
+que vous ayez été repéré(e)s
+qu’ils (elles) aient été repéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été repéré(e)
+que tu eusses été repéré(e)
+qu’il (elle) eût été repéré(e)
+que nous eussions été repéré(e)s
+que vous eussiez été repéré(e)s
+qu’ils (elles) eussent été repéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été repéré(e)
+ayons été repéré(e)s
+ayez été repéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été repéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été repéré(e)(s)

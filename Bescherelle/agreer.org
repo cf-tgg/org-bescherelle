@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe agreer
+
+* INDICATIF
+
+** Présent
+
+j'agrée
+tu agrées
+il (elle) agrée
+nous agréons
+vous agréez
+ils (elles) agréent
+
+** Imparfait
+
+j'agréais
+tu agréais
+il (elle) agréait
+nous agréions
+vous agréiez
+ils (elles) agréaient
+
+** Passé simple
+
+j'agréai
+tu agréas
+il (elle) agréa
+nous agréâmes
+vous agréâtes
+ils (elles) agréèrent
+
+** Futur simple
+
+j'agréerai
+tu agréeras
+il (elle) agréera
+nous agréerons
+vous agréerez
+ils (elles) agréeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'agréerais
+tu agréerais
+il (elle) agréerait
+nous agréerions
+vous agréeriez
+ils (elles) agréeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'agrée
+que tu agrées
+qu’il (elle) agrée
+que nous agréions
+que vous agréiez
+qu’ils (elles) agréent
+
+** Imparfait
+
+que j'agréasse
+que tu agréasses
+qu’il (elle) agréât
+que nous agréassions
+que vous agréassiez
+qu’ils (elles) agréassent
+
+* IMPÉRATIF
+
+** Présent
+
+agrée
+agréons
+agréez
+
+* INFINITIF
+
+** Présent
+
+agréer
+
+* PARTICIPE
+
+** Présent
+
+agréant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai agréé
+tu as agréé
+il (elle) a agréé
+nous avons agréé
+vous avez agréé
+ils (elles) ont agréé
+
+** Plus-que-parfait
+
+j'avais agréé
+tu avais agréé
+il (elle) avait agréé
+nous avions agréé
+vous aviez agréé
+ils (elles) avaient agréé
+
+** Passé antérieur
+
+j'eus agréé
+tu eus agréé
+il (elle) eut agréé
+nous eûmes agréé
+vous eûtes agréé
+ils (elles) eurent agréé
+
+** Futur antérieur
+
+j'aurai agréé
+tu auras agréé
+il (elle) aura agréé
+nous aurons agréé
+vous aurez agréé
+ils (elles) auront agréé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais agréé
+tu aurais agréé
+il (elle) aurait agréé
+nous aurions agréé
+vous auriez agréé
+ils (elles) auraient agréé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie agréé
+que tu aies agréé
+qu’il (elle) ait agréé
+que nous ayons agréé
+que vous ayez agréé
+qu’ils (elles) aient agréé
+
+** Plus-que-parfait
+
+que j'eusse agréé
+que tu eusses agréé
+qu’il (elle) eût agréé
+que nous eussions agréé
+que vous eussiez agréé
+qu’ils (elles) eussent agréé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons agréé
+ayez agréé
+
+* INFINITIF
+
+** Passé
+
+avoir agréé
+
+* PARTICIPE
+
+** Passé
+
+ayant agréé
+agréé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis agréé(e)
+tu es agréé(e)
+il (elle) est agréé(e)
+nous sommes agréé(e)s
+vous êtes agréé(e)s
+ils (elles) sont agréé(e)s
+
+** Imparfait
+
+j'étais agréé(e)
+tu étais agréé(e)
+il (elle) était agréé(e)
+nous étions agréé(e)s
+vous étiez agréé(e)s
+ils (elles) étaient agréé(e)s
+
+** Passé simple
+
+je fus agréé(e)
+tu fus agréé(e)
+il (elle) fut agréé(e)
+nous fûmes agréé(e)s
+vous fûtes agréé(e)s
+ils (elles) furent agréé(e)s
+
+** Futur simple
+
+je serai agréé(e)
+tu seras agréé(e)
+il (elle) sera agréé(e)
+nous serons agréé(e)s
+vous serez agréé(e)s
+ils (elles) seront agréé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais agréé(e)
+tu serais agréé(e)
+il (elle) serait agréé(e)
+nous serions agréé(e)s
+vous seriez agréé(e)s
+ils (elles) seraient agréé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois agréé(e)
+que tu sois agréé(e)
+qu’il (elle) soit agréé(e)
+que nous soyons agréé(e)s
+que vous soyez agréé(e)s
+qu’ils (elles) soient agréé(e)s
+
+** Imparfait
+
+que je fusse agréé(e)
+que tu fusses agréé(e)
+qu’il (elle) fût agréé(e)
+que nous fussions agréé(e)s
+que vous fussiez agréé(e)s
+qu’ils (elles) fussent agréé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons agréé(e)s
+soyez agréé(e)s
+
+* INFINITIF
+
+** Présent
+
+être agréé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant agréé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été agréé(e)
+tu as été agréé(e)
+il (elle) a été agréé(e)
+nous avons été agréé(e)s
+vous avez été agréé(e)s
+ils (elles) ont été agréé(e)s
+
+** Plus-que-parfait
+
+j'avais été agréé(e)
+il (elle) avait été agréé(e)
+nous avions été agréé(e)s
+ils (elles) avaient été agréé(e)s
+
+** Passé antérieur
+
+j'eus été agréé(e)
+tu eus été agréé(e)
+il (elle) eut été agréé(e)
+nous eûmes été agréé(e)s
+vous eûtes été agréé(e)s
+ils (elles) eurent été agréé(e)s
+
+** Futur antérieur
+
+j'aurai été agréé(e)
+tu auras été agréé(e)
+il (elle) aura été agréé(e)
+nous aurons été agréé(e)s
+vous aurez été agréé(e)s
+ils (elles) auront été agréé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été agréé(e)
+j'aurais été agréé(e)
+il (elle) aurait été agréé(e)
+nous aurions été agréé(e)s
+vous auriez été agréé(e)s
+ils (elles) auraient été agréé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été agréé(e)
+que tu aies été agréé(e)
+qu’il (elle) ait été agréé(e)
+que nous ayons été agréé(e)s
+que vous ayez été agréé(e)s
+qu’ils (elles) aient été agréé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été agréé(e)
+que tu eusses été agréé(e)
+qu’il (elle) eût été agréé(e)
+que nous eussions été agréé(e)s
+que vous eussiez été agréé(e)s
+qu’ils (elles) eussent été agréé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été agréé(e)
+ayons été agréé(e)s
+ayez été agréé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été agréé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été agréé(e)(s)

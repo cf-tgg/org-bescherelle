@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etourdir
+
+* INDICATIF
+
+** Présent
+
+j'étourdis
+tu étourdis
+il (elle) étourdit
+nous étourdissons
+vous étourdissez
+ils (elles) étourdissent
+
+** Imparfait
+
+j'étourdissais
+tu étourdissais
+il (elle) étourdissait
+nous étourdissions
+vous étourdissiez
+ils (elles) étourdissaient
+
+** Passé simple
+
+j'étourdis
+tu étourdis
+il (elle) étourdit
+nous étourdîmes
+vous étourdîtes
+ils (elles) étourdirent
+
+** Futur simple
+
+j'étourdirai
+tu étourdiras
+il (elle) étourdira
+nous étourdirons
+vous étourdirez
+ils (elles) étourdiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étourdirais
+tu étourdirais
+il (elle) étourdirait
+nous étourdirions
+vous étourdiriez
+ils (elles) étourdiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étourdisse
+que tu étourdisses
+qu’il (elle) étourdisse
+que nous étourdissions
+que vous étourdissiez
+qu’ils (elles) étourdissent
+
+** Imparfait
+
+que j'étourdisse
+que tu étourdisses
+qu’il (elle) étourdît
+que nous étourdissions
+que vous étourdissiez
+qu’ils (elles) étourdissent
+
+* IMPÉRATIF
+
+** Présent
+
+étourdis
+étourdissons
+étourdissez
+
+* INFINITIF
+
+** Présent
+
+étourdir
+
+* PARTICIPE
+
+** Présent
+
+étourdissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étourdi
+tu as étourdi
+il (elle) a étourdi
+nous avons étourdi
+vous avez étourdi
+ils (elles) ont étourdi
+
+** Plus-que-parfait
+
+j'avais étourdi
+tu avais étourdi
+il (elle) avait étourdi
+nous avions étourdi
+vous aviez étourdi
+ils (elles) avaient étourdi
+
+** Passé antérieur
+
+j'eus étourdi
+tu eus étourdi
+il (elle) eut étourdi
+nous eûmes étourdi
+vous eûtes étourdi
+ils (elles) eurent étourdi
+
+** Futur antérieur
+
+j'aurai étourdi
+tu auras étourdi
+il (elle) aura étourdi
+nous aurons étourdi
+vous aurez étourdi
+ils (elles) auront étourdi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étourdi
+tu aurais étourdi
+il (elle) aurait étourdi
+nous aurions étourdi
+vous auriez étourdi
+ils (elles) auraient étourdi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étourdi
+que tu aies étourdi
+qu’il (elle) ait étourdi
+que nous ayons étourdi
+que vous ayez étourdi
+qu’ils (elles) aient étourdi
+
+** Plus-que-parfait
+
+que j'eusse étourdi
+que tu eusses étourdi
+qu’il (elle) eût étourdi
+que nous eussions étourdi
+que vous eussiez étourdi
+qu’ils (elles) eussent étourdi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étourdi
+ayez étourdi
+
+* INFINITIF
+
+** Passé
+
+avoir étourdi
+
+* PARTICIPE
+
+** Passé
+
+ayant étourdi
+étourdi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis étourdi(e)
+tu es étourdi(e)
+il (elle) est étourdi(e)
+nous sommes étourdi(e)s
+vous êtes étourdi(e)s
+ils (elles) sont étourdi(e)s
+
+** Imparfait
+
+j'étais étourdi(e)
+tu étais étourdi(e)
+il (elle) était étourdi(e)
+nous étions étourdi(e)s
+vous étiez étourdi(e)s
+ils (elles) étaient étourdi(e)s
+
+** Passé simple
+
+je fus étourdi(e)
+tu fus étourdi(e)
+il (elle) fut étourdi(e)
+nous fûmes étourdi(e)s
+vous fûtes étourdi(e)s
+ils (elles) furent étourdi(e)s
+
+** Futur simple
+
+je serai étourdi(e)
+tu seras étourdi(e)
+il (elle) sera étourdi(e)
+nous serons étourdi(e)s
+vous serez étourdi(e)s
+ils (elles) seront étourdi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais étourdi(e)
+tu serais étourdi(e)
+il (elle) serait étourdi(e)
+nous serions étourdi(e)s
+vous seriez étourdi(e)s
+ils (elles) seraient étourdi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois étourdi(e)
+que tu sois étourdi(e)
+qu’il (elle) soit étourdi(e)
+que nous soyons étourdi(e)s
+que vous soyez étourdi(e)s
+qu’ils (elles) soient étourdi(e)s
+
+** Imparfait
+
+que je fusse étourdi(e)
+que tu fusses étourdi(e)
+qu’il (elle) fût étourdi(e)
+que nous fussions étourdi(e)s
+que vous fussiez étourdi(e)s
+qu’ils (elles) fussent étourdi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons étourdi(e)s
+soyez étourdi(e)s
+
+* INFINITIF
+
+** Présent
+
+être étourdi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant étourdi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été étourdi(e)
+tu as été étourdi(e)
+il (elle) a été étourdi(e)
+nous avons été étourdi(e)s
+vous avez été étourdi(e)s
+ils (elles) ont été étourdi(e)s
+
+** Plus-que-parfait
+
+j'avais été étourdi(e)
+il (elle) avait été étourdi(e)
+nous avions été étourdi(e)s
+ils (elles) avaient été étourdi(e)s
+
+** Passé antérieur
+
+j'eus été étourdi(e)
+tu eus été étourdi(e)
+il (elle) eut été étourdi(e)
+nous eûmes été étourdi(e)s
+vous eûtes été étourdi(e)s
+ils (elles) eurent été étourdi(e)s
+
+** Futur antérieur
+
+j'aurai été étourdi(e)
+tu auras été étourdi(e)
+il (elle) aura été étourdi(e)
+nous aurons été étourdi(e)s
+vous aurez été étourdi(e)s
+ils (elles) auront été étourdi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été étourdi(e)
+j'aurais été étourdi(e)
+il (elle) aurait été étourdi(e)
+nous aurions été étourdi(e)s
+vous auriez été étourdi(e)s
+ils (elles) auraient été étourdi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été étourdi(e)
+que tu aies été étourdi(e)
+qu’il (elle) ait été étourdi(e)
+que nous ayons été étourdi(e)s
+que vous ayez été étourdi(e)s
+qu’ils (elles) aient été étourdi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été étourdi(e)
+que tu eusses été étourdi(e)
+qu’il (elle) eût été étourdi(e)
+que nous eussions été étourdi(e)s
+que vous eussiez été étourdi(e)s
+qu’ils (elles) eussent été étourdi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été étourdi(e)
+ayons été étourdi(e)s
+ayez été étourdi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été étourdi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été étourdi(e)(s)

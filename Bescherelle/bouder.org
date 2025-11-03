@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouder
+
+* INDICATIF
+
+** Présent
+
+je boude
+tu boudes
+il (elle) boude
+nous boudons
+vous boudez
+ils (elles) boudent
+
+** Imparfait
+
+je boudais
+tu boudais
+il (elle) boudait
+nous boudions
+vous boudiez
+ils (elles) boudaient
+
+** Passé simple
+
+je boudai
+tu boudas
+il (elle) bouda
+nous boudâmes
+vous boudâtes
+ils (elles) boudèrent
+
+** Futur simple
+
+je bouderai
+tu bouderas
+il (elle) boudera
+nous bouderons
+vous bouderez
+ils (elles) bouderont
+
+* CONDITIONNEL
+
+** Présent
+
+je bouderais
+tu bouderais
+il (elle) bouderait
+nous bouderions
+vous bouderiez
+ils (elles) bouderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boude
+que tu boudes
+qu’il (elle) boude
+que nous boudions
+que vous boudiez
+qu’ils (elles) boudent
+
+** Imparfait
+
+que je boudasse
+que tu boudasses
+qu’il (elle) boudât
+que nous boudassions
+que vous boudassiez
+qu’ils (elles) boudassent
+
+* IMPÉRATIF
+
+** Présent
+
+boude
+boudons
+boudez
+
+* INFINITIF
+
+** Présent
+
+bouder
+
+* PARTICIPE
+
+** Présent
+
+boudant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai boudé
+tu as boudé
+il (elle) a boudé
+nous avons boudé
+vous avez boudé
+ils (elles) ont boudé
+
+** Plus-que-parfait
+
+j'avais boudé
+tu avais boudé
+il (elle) avait boudé
+nous avions boudé
+vous aviez boudé
+ils (elles) avaient boudé
+
+** Passé antérieur
+
+j'eus boudé
+tu eus boudé
+il (elle) eut boudé
+nous eûmes boudé
+vous eûtes boudé
+ils (elles) eurent boudé
+
+** Futur antérieur
+
+j'aurai boudé
+tu auras boudé
+il (elle) aura boudé
+nous aurons boudé
+vous aurez boudé
+ils (elles) auront boudé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais boudé
+tu aurais boudé
+il (elle) aurait boudé
+nous aurions boudé
+vous auriez boudé
+ils (elles) auraient boudé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie boudé
+que tu aies boudé
+qu’il (elle) ait boudé
+que nous ayons boudé
+que vous ayez boudé
+qu’ils (elles) aient boudé
+
+** Plus-que-parfait
+
+que j'eusse boudé
+que tu eusses boudé
+qu’il (elle) eût boudé
+que nous eussions boudé
+que vous eussiez boudé
+qu’ils (elles) eussent boudé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons boudé
+ayez boudé
+
+* INFINITIF
+
+** Passé
+
+avoir boudé
+
+* PARTICIPE
+
+** Passé
+
+ayant boudé
+boudé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis boudé(e)
+tu es boudé(e)
+il (elle) est boudé(e)
+nous sommes boudé(e)s
+vous êtes boudé(e)s
+ils (elles) sont boudé(e)s
+
+** Imparfait
+
+j'étais boudé(e)
+tu étais boudé(e)
+il (elle) était boudé(e)
+nous étions boudé(e)s
+vous étiez boudé(e)s
+ils (elles) étaient boudé(e)s
+
+** Passé simple
+
+je fus boudé(e)
+tu fus boudé(e)
+il (elle) fut boudé(e)
+nous fûmes boudé(e)s
+vous fûtes boudé(e)s
+ils (elles) furent boudé(e)s
+
+** Futur simple
+
+je serai boudé(e)
+tu seras boudé(e)
+il (elle) sera boudé(e)
+nous serons boudé(e)s
+vous serez boudé(e)s
+ils (elles) seront boudé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais boudé(e)
+tu serais boudé(e)
+il (elle) serait boudé(e)
+nous serions boudé(e)s
+vous seriez boudé(e)s
+ils (elles) seraient boudé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois boudé(e)
+que tu sois boudé(e)
+qu’il (elle) soit boudé(e)
+que nous soyons boudé(e)s
+que vous soyez boudé(e)s
+qu’ils (elles) soient boudé(e)s
+
+** Imparfait
+
+que je fusse boudé(e)
+que tu fusses boudé(e)
+qu’il (elle) fût boudé(e)
+que nous fussions boudé(e)s
+que vous fussiez boudé(e)s
+qu’ils (elles) fussent boudé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons boudé(e)s
+soyez boudé(e)s
+
+* INFINITIF
+
+** Présent
+
+être boudé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant boudé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été boudé(e)
+tu as été boudé(e)
+il (elle) a été boudé(e)
+nous avons été boudé(e)s
+vous avez été boudé(e)s
+ils (elles) ont été boudé(e)s
+
+** Plus-que-parfait
+
+j'avais été boudé(e)
+il (elle) avait été boudé(e)
+nous avions été boudé(e)s
+ils (elles) avaient été boudé(e)s
+
+** Passé antérieur
+
+j'eus été boudé(e)
+tu eus été boudé(e)
+il (elle) eut été boudé(e)
+nous eûmes été boudé(e)s
+vous eûtes été boudé(e)s
+ils (elles) eurent été boudé(e)s
+
+** Futur antérieur
+
+j'aurai été boudé(e)
+tu auras été boudé(e)
+il (elle) aura été boudé(e)
+nous aurons été boudé(e)s
+vous aurez été boudé(e)s
+ils (elles) auront été boudé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été boudé(e)
+j'aurais été boudé(e)
+il (elle) aurait été boudé(e)
+nous aurions été boudé(e)s
+vous auriez été boudé(e)s
+ils (elles) auraient été boudé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été boudé(e)
+que tu aies été boudé(e)
+qu’il (elle) ait été boudé(e)
+que nous ayons été boudé(e)s
+que vous ayez été boudé(e)s
+qu’ils (elles) aient été boudé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été boudé(e)
+que tu eusses été boudé(e)
+qu’il (elle) eût été boudé(e)
+que nous eussions été boudé(e)s
+que vous eussiez été boudé(e)s
+qu’ils (elles) eussent été boudé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été boudé(e)
+ayons été boudé(e)s
+ayez été boudé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été boudé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été boudé(e)(s)

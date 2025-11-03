@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe noter
+
+* INDICATIF
+
+** Présent
+
+je note
+tu notes
+il (elle) note
+nous notons
+vous notez
+ils (elles) notent
+
+** Imparfait
+
+je notais
+tu notais
+il (elle) notait
+nous notions
+vous notiez
+ils (elles) notaient
+
+** Passé simple
+
+je notai
+tu notas
+il (elle) nota
+nous notâmes
+vous notâtes
+ils (elles) notèrent
+
+** Futur simple
+
+je noterai
+tu noteras
+il (elle) notera
+nous noterons
+vous noterez
+ils (elles) noteront
+
+* CONDITIONNEL
+
+** Présent
+
+je noterais
+tu noterais
+il (elle) noterait
+nous noterions
+vous noteriez
+ils (elles) noteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je note
+que tu notes
+qu’il (elle) note
+que nous notions
+que vous notiez
+qu’ils (elles) notent
+
+** Imparfait
+
+que je notasse
+que tu notasses
+qu’il (elle) notât
+que nous notassions
+que vous notassiez
+qu’ils (elles) notassent
+
+* IMPÉRATIF
+
+** Présent
+
+note
+notons
+notez
+
+* INFINITIF
+
+** Présent
+
+noter
+
+* PARTICIPE
+
+** Présent
+
+notant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai noté
+tu as noté
+il (elle) a noté
+nous avons noté
+vous avez noté
+ils (elles) ont noté
+
+** Plus-que-parfait
+
+j'avais noté
+tu avais noté
+il (elle) avait noté
+nous avions noté
+vous aviez noté
+ils (elles) avaient noté
+
+** Passé antérieur
+
+j'eus noté
+tu eus noté
+il (elle) eut noté
+nous eûmes noté
+vous eûtes noté
+ils (elles) eurent noté
+
+** Futur antérieur
+
+j'aurai noté
+tu auras noté
+il (elle) aura noté
+nous aurons noté
+vous aurez noté
+ils (elles) auront noté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais noté
+tu aurais noté
+il (elle) aurait noté
+nous aurions noté
+vous auriez noté
+ils (elles) auraient noté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie noté
+que tu aies noté
+qu’il (elle) ait noté
+que nous ayons noté
+que vous ayez noté
+qu’ils (elles) aient noté
+
+** Plus-que-parfait
+
+que j'eusse noté
+que tu eusses noté
+qu’il (elle) eût noté
+que nous eussions noté
+que vous eussiez noté
+qu’ils (elles) eussent noté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons noté
+ayez noté
+
+* INFINITIF
+
+** Passé
+
+avoir noté
+
+* PARTICIPE
+
+** Passé
+
+ayant noté
+noté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis noté(e)
+tu es noté(e)
+il (elle) est noté(e)
+nous sommes noté(e)s
+vous êtes noté(e)s
+ils (elles) sont noté(e)s
+
+** Imparfait
+
+j'étais noté(e)
+tu étais noté(e)
+il (elle) était noté(e)
+nous étions noté(e)s
+vous étiez noté(e)s
+ils (elles) étaient noté(e)s
+
+** Passé simple
+
+je fus noté(e)
+tu fus noté(e)
+il (elle) fut noté(e)
+nous fûmes noté(e)s
+vous fûtes noté(e)s
+ils (elles) furent noté(e)s
+
+** Futur simple
+
+je serai noté(e)
+tu seras noté(e)
+il (elle) sera noté(e)
+nous serons noté(e)s
+vous serez noté(e)s
+ils (elles) seront noté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais noté(e)
+tu serais noté(e)
+il (elle) serait noté(e)
+nous serions noté(e)s
+vous seriez noté(e)s
+ils (elles) seraient noté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois noté(e)
+que tu sois noté(e)
+qu’il (elle) soit noté(e)
+que nous soyons noté(e)s
+que vous soyez noté(e)s
+qu’ils (elles) soient noté(e)s
+
+** Imparfait
+
+que je fusse noté(e)
+que tu fusses noté(e)
+qu’il (elle) fût noté(e)
+que nous fussions noté(e)s
+que vous fussiez noté(e)s
+qu’ils (elles) fussent noté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons noté(e)s
+soyez noté(e)s
+
+* INFINITIF
+
+** Présent
+
+être noté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant noté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été noté(e)
+tu as été noté(e)
+il (elle) a été noté(e)
+nous avons été noté(e)s
+vous avez été noté(e)s
+ils (elles) ont été noté(e)s
+
+** Plus-que-parfait
+
+j'avais été noté(e)
+il (elle) avait été noté(e)
+nous avions été noté(e)s
+ils (elles) avaient été noté(e)s
+
+** Passé antérieur
+
+j'eus été noté(e)
+tu eus été noté(e)
+il (elle) eut été noté(e)
+nous eûmes été noté(e)s
+vous eûtes été noté(e)s
+ils (elles) eurent été noté(e)s
+
+** Futur antérieur
+
+j'aurai été noté(e)
+tu auras été noté(e)
+il (elle) aura été noté(e)
+nous aurons été noté(e)s
+vous aurez été noté(e)s
+ils (elles) auront été noté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été noté(e)
+j'aurais été noté(e)
+il (elle) aurait été noté(e)
+nous aurions été noté(e)s
+vous auriez été noté(e)s
+ils (elles) auraient été noté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été noté(e)
+que tu aies été noté(e)
+qu’il (elle) ait été noté(e)
+que nous ayons été noté(e)s
+que vous ayez été noté(e)s
+qu’ils (elles) aient été noté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été noté(e)
+que tu eusses été noté(e)
+qu’il (elle) eût été noté(e)
+que nous eussions été noté(e)s
+que vous eussiez été noté(e)s
+qu’ils (elles) eussent été noté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été noté(e)
+ayons été noté(e)s
+ayez été noté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été noté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été noté(e)(s)

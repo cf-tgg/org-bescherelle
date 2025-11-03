@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe adopter
+
+* INDICATIF
+
+** Présent
+
+j'adopte
+tu adoptes
+il (elle) adopte
+nous adoptons
+vous adoptez
+ils (elles) adoptent
+
+** Imparfait
+
+j'adoptais
+tu adoptais
+il (elle) adoptait
+nous adoptions
+vous adoptiez
+ils (elles) adoptaient
+
+** Passé simple
+
+j'adoptai
+tu adoptas
+il (elle) adopta
+nous adoptâmes
+vous adoptâtes
+ils (elles) adoptèrent
+
+** Futur simple
+
+j'adopterai
+tu adopteras
+il (elle) adoptera
+nous adopterons
+vous adopterez
+ils (elles) adopteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adopterais
+tu adopterais
+il (elle) adopterait
+nous adopterions
+vous adopteriez
+ils (elles) adopteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adopte
+que tu adoptes
+qu’il (elle) adopte
+que nous adoptions
+que vous adoptiez
+qu’ils (elles) adoptent
+
+** Imparfait
+
+que j'adoptasse
+que tu adoptasses
+qu’il (elle) adoptât
+que nous adoptassions
+que vous adoptassiez
+qu’ils (elles) adoptassent
+
+* IMPÉRATIF
+
+** Présent
+
+adopte
+adoptons
+adoptez
+
+* INFINITIF
+
+** Présent
+
+adopter
+
+* PARTICIPE
+
+** Présent
+
+adoptant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adopté
+tu as adopté
+il (elle) a adopté
+nous avons adopté
+vous avez adopté
+ils (elles) ont adopté
+
+** Plus-que-parfait
+
+j'avais adopté
+tu avais adopté
+il (elle) avait adopté
+nous avions adopté
+vous aviez adopté
+ils (elles) avaient adopté
+
+** Passé antérieur
+
+j'eus adopté
+tu eus adopté
+il (elle) eut adopté
+nous eûmes adopté
+vous eûtes adopté
+ils (elles) eurent adopté
+
+** Futur antérieur
+
+j'aurai adopté
+tu auras adopté
+il (elle) aura adopté
+nous aurons adopté
+vous aurez adopté
+ils (elles) auront adopté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adopté
+tu aurais adopté
+il (elle) aurait adopté
+nous aurions adopté
+vous auriez adopté
+ils (elles) auraient adopté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adopté
+que tu aies adopté
+qu’il (elle) ait adopté
+que nous ayons adopté
+que vous ayez adopté
+qu’ils (elles) aient adopté
+
+** Plus-que-parfait
+
+que j'eusse adopté
+que tu eusses adopté
+qu’il (elle) eût adopté
+que nous eussions adopté
+que vous eussiez adopté
+qu’ils (elles) eussent adopté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adopté
+ayez adopté
+
+* INFINITIF
+
+** Passé
+
+avoir adopté
+
+* PARTICIPE
+
+** Passé
+
+ayant adopté
+adopté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis adopté(e)
+tu es adopté(e)
+il (elle) est adopté(e)
+nous sommes adopté(e)s
+vous êtes adopté(e)s
+ils (elles) sont adopté(e)s
+
+** Imparfait
+
+j'étais adopté(e)
+tu étais adopté(e)
+il (elle) était adopté(e)
+nous étions adopté(e)s
+vous étiez adopté(e)s
+ils (elles) étaient adopté(e)s
+
+** Passé simple
+
+je fus adopté(e)
+tu fus adopté(e)
+il (elle) fut adopté(e)
+nous fûmes adopté(e)s
+vous fûtes adopté(e)s
+ils (elles) furent adopté(e)s
+
+** Futur simple
+
+je serai adopté(e)
+tu seras adopté(e)
+il (elle) sera adopté(e)
+nous serons adopté(e)s
+vous serez adopté(e)s
+ils (elles) seront adopté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais adopté(e)
+tu serais adopté(e)
+il (elle) serait adopté(e)
+nous serions adopté(e)s
+vous seriez adopté(e)s
+ils (elles) seraient adopté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois adopté(e)
+que tu sois adopté(e)
+qu’il (elle) soit adopté(e)
+que nous soyons adopté(e)s
+que vous soyez adopté(e)s
+qu’ils (elles) soient adopté(e)s
+
+** Imparfait
+
+que je fusse adopté(e)
+que tu fusses adopté(e)
+qu’il (elle) fût adopté(e)
+que nous fussions adopté(e)s
+que vous fussiez adopté(e)s
+qu’ils (elles) fussent adopté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons adopté(e)s
+soyez adopté(e)s
+
+* INFINITIF
+
+** Présent
+
+être adopté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant adopté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été adopté(e)
+tu as été adopté(e)
+il (elle) a été adopté(e)
+nous avons été adopté(e)s
+vous avez été adopté(e)s
+ils (elles) ont été adopté(e)s
+
+** Plus-que-parfait
+
+j'avais été adopté(e)
+il (elle) avait été adopté(e)
+nous avions été adopté(e)s
+ils (elles) avaient été adopté(e)s
+
+** Passé antérieur
+
+j'eus été adopté(e)
+tu eus été adopté(e)
+il (elle) eut été adopté(e)
+nous eûmes été adopté(e)s
+vous eûtes été adopté(e)s
+ils (elles) eurent été adopté(e)s
+
+** Futur antérieur
+
+j'aurai été adopté(e)
+tu auras été adopté(e)
+il (elle) aura été adopté(e)
+nous aurons été adopté(e)s
+vous aurez été adopté(e)s
+ils (elles) auront été adopté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été adopté(e)
+j'aurais été adopté(e)
+il (elle) aurait été adopté(e)
+nous aurions été adopté(e)s
+vous auriez été adopté(e)s
+ils (elles) auraient été adopté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été adopté(e)
+que tu aies été adopté(e)
+qu’il (elle) ait été adopté(e)
+que nous ayons été adopté(e)s
+que vous ayez été adopté(e)s
+qu’ils (elles) aient été adopté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été adopté(e)
+que tu eusses été adopté(e)
+qu’il (elle) eût été adopté(e)
+que nous eussions été adopté(e)s
+que vous eussiez été adopté(e)s
+qu’ils (elles) eussent été adopté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été adopté(e)
+ayons été adopté(e)s
+ayez été adopté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été adopté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été adopté(e)(s)

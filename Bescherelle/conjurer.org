@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conjurer
+
+* INDICATIF
+
+** Présent
+
+je conjure
+tu conjures
+il (elle) conjure
+nous conjurons
+vous conjurez
+ils (elles) conjurent
+
+** Imparfait
+
+je conjurais
+tu conjurais
+il (elle) conjurait
+nous conjurions
+vous conjuriez
+ils (elles) conjuraient
+
+** Passé simple
+
+je conjurai
+tu conjuras
+il (elle) conjura
+nous conjurâmes
+vous conjurâtes
+ils (elles) conjurèrent
+
+** Futur simple
+
+je conjurerai
+tu conjureras
+il (elle) conjurera
+nous conjurerons
+vous conjurerez
+ils (elles) conjureront
+
+* CONDITIONNEL
+
+** Présent
+
+je conjurerais
+tu conjurerais
+il (elle) conjurerait
+nous conjurerions
+vous conjureriez
+ils (elles) conjureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conjure
+que tu conjures
+qu’il (elle) conjure
+que nous conjurions
+que vous conjuriez
+qu’ils (elles) conjurent
+
+** Imparfait
+
+que je conjurasse
+que tu conjurasses
+qu’il (elle) conjurât
+que nous conjurassions
+que vous conjurassiez
+qu’ils (elles) conjurassent
+
+* IMPÉRATIF
+
+** Présent
+
+conjure
+conjurons
+conjurez
+
+* INFINITIF
+
+** Présent
+
+conjurer
+
+* PARTICIPE
+
+** Présent
+
+conjurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conjuré
+tu as conjuré
+il (elle) a conjuré
+nous avons conjuré
+vous avez conjuré
+ils (elles) ont conjuré
+
+** Plus-que-parfait
+
+j'avais conjuré
+tu avais conjuré
+il (elle) avait conjuré
+nous avions conjuré
+vous aviez conjuré
+ils (elles) avaient conjuré
+
+** Passé antérieur
+
+j'eus conjuré
+tu eus conjuré
+il (elle) eut conjuré
+nous eûmes conjuré
+vous eûtes conjuré
+ils (elles) eurent conjuré
+
+** Futur antérieur
+
+j'aurai conjuré
+tu auras conjuré
+il (elle) aura conjuré
+nous aurons conjuré
+vous aurez conjuré
+ils (elles) auront conjuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conjuré
+tu aurais conjuré
+il (elle) aurait conjuré
+nous aurions conjuré
+vous auriez conjuré
+ils (elles) auraient conjuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conjuré
+que tu aies conjuré
+qu’il (elle) ait conjuré
+que nous ayons conjuré
+que vous ayez conjuré
+qu’ils (elles) aient conjuré
+
+** Plus-que-parfait
+
+que j'eusse conjuré
+que tu eusses conjuré
+qu’il (elle) eût conjuré
+que nous eussions conjuré
+que vous eussiez conjuré
+qu’ils (elles) eussent conjuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conjuré
+ayez conjuré
+
+* INFINITIF
+
+** Passé
+
+avoir conjuré
+
+* PARTICIPE
+
+** Passé
+
+ayant conjuré
+conjuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conjuré(e)
+tu es conjuré(e)
+il (elle) est conjuré(e)
+nous sommes conjuré(e)s
+vous êtes conjuré(e)s
+ils (elles) sont conjuré(e)s
+
+** Imparfait
+
+j'étais conjuré(e)
+tu étais conjuré(e)
+il (elle) était conjuré(e)
+nous étions conjuré(e)s
+vous étiez conjuré(e)s
+ils (elles) étaient conjuré(e)s
+
+** Passé simple
+
+je fus conjuré(e)
+tu fus conjuré(e)
+il (elle) fut conjuré(e)
+nous fûmes conjuré(e)s
+vous fûtes conjuré(e)s
+ils (elles) furent conjuré(e)s
+
+** Futur simple
+
+je serai conjuré(e)
+tu seras conjuré(e)
+il (elle) sera conjuré(e)
+nous serons conjuré(e)s
+vous serez conjuré(e)s
+ils (elles) seront conjuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conjuré(e)
+tu serais conjuré(e)
+il (elle) serait conjuré(e)
+nous serions conjuré(e)s
+vous seriez conjuré(e)s
+ils (elles) seraient conjuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conjuré(e)
+que tu sois conjuré(e)
+qu’il (elle) soit conjuré(e)
+que nous soyons conjuré(e)s
+que vous soyez conjuré(e)s
+qu’ils (elles) soient conjuré(e)s
+
+** Imparfait
+
+que je fusse conjuré(e)
+que tu fusses conjuré(e)
+qu’il (elle) fût conjuré(e)
+que nous fussions conjuré(e)s
+que vous fussiez conjuré(e)s
+qu’ils (elles) fussent conjuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conjuré(e)s
+soyez conjuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être conjuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conjuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conjuré(e)
+tu as été conjuré(e)
+il (elle) a été conjuré(e)
+nous avons été conjuré(e)s
+vous avez été conjuré(e)s
+ils (elles) ont été conjuré(e)s
+
+** Plus-que-parfait
+
+j'avais été conjuré(e)
+il (elle) avait été conjuré(e)
+nous avions été conjuré(e)s
+ils (elles) avaient été conjuré(e)s
+
+** Passé antérieur
+
+j'eus été conjuré(e)
+tu eus été conjuré(e)
+il (elle) eut été conjuré(e)
+nous eûmes été conjuré(e)s
+vous eûtes été conjuré(e)s
+ils (elles) eurent été conjuré(e)s
+
+** Futur antérieur
+
+j'aurai été conjuré(e)
+tu auras été conjuré(e)
+il (elle) aura été conjuré(e)
+nous aurons été conjuré(e)s
+vous aurez été conjuré(e)s
+ils (elles) auront été conjuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conjuré(e)
+j'aurais été conjuré(e)
+il (elle) aurait été conjuré(e)
+nous aurions été conjuré(e)s
+vous auriez été conjuré(e)s
+ils (elles) auraient été conjuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conjuré(e)
+que tu aies été conjuré(e)
+qu’il (elle) ait été conjuré(e)
+que nous ayons été conjuré(e)s
+que vous ayez été conjuré(e)s
+qu’ils (elles) aient été conjuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conjuré(e)
+que tu eusses été conjuré(e)
+qu’il (elle) eût été conjuré(e)
+que nous eussions été conjuré(e)s
+que vous eussiez été conjuré(e)s
+qu’ils (elles) eussent été conjuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conjuré(e)
+ayons été conjuré(e)s
+ayez été conjuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conjuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conjuré(e)(s)

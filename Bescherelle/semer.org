@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe semer
+
+* INDICATIF
+
+** Présent
+
+je sème
+tu sèmes
+il (elle) sème
+nous semons
+vous semez
+ils (elles) sèment
+
+** Imparfait
+
+je semais
+tu semais
+il (elle) semait
+nous semions
+vous semiez
+ils (elles) semaient
+
+** Passé simple
+
+je semai
+tu semas
+il (elle) sema
+nous semâmes
+vous semâtes
+ils (elles) semèrent
+
+** Futur simple
+
+je sèmerai
+tu sèmeras
+il (elle) sèmera
+nous sèmerons
+vous sèmerez
+ils (elles) sèmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je sèmerais
+tu sèmerais
+il (elle) sèmerait
+nous sèmerions
+vous sèmeriez
+ils (elles) sèmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sème
+que tu sèmes
+qu’il (elle) sème
+que nous semions
+que vous semiez
+qu’ils (elles) sèment
+
+** Imparfait
+
+que je semasse
+que tu semasses
+qu’il (elle) semât
+que nous semassions
+que vous semassiez
+qu’ils (elles) semassent
+
+* IMPÉRATIF
+
+** Présent
+
+sème
+semons
+semez
+
+* INFINITIF
+
+** Présent
+
+semer
+
+* PARTICIPE
+
+** Présent
+
+semant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai semé
+tu as semé
+il (elle) a semé
+nous avons semé
+vous avez semé
+ils (elles) ont semé
+
+** Plus-que-parfait
+
+j'avais semé
+tu avais semé
+il (elle) avait semé
+nous avions semé
+vous aviez semé
+ils (elles) avaient semé
+
+** Passé antérieur
+
+j'eus semé
+tu eus semé
+il (elle) eut semé
+nous eûmes semé
+vous eûtes semé
+ils (elles) eurent semé
+
+** Futur antérieur
+
+j'aurai semé
+tu auras semé
+il (elle) aura semé
+nous aurons semé
+vous aurez semé
+ils (elles) auront semé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais semé
+tu aurais semé
+il (elle) aurait semé
+nous aurions semé
+vous auriez semé
+ils (elles) auraient semé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie semé
+que tu aies semé
+qu’il (elle) ait semé
+que nous ayons semé
+que vous ayez semé
+qu’ils (elles) aient semé
+
+** Plus-que-parfait
+
+que j'eusse semé
+que tu eusses semé
+qu’il (elle) eût semé
+que nous eussions semé
+que vous eussiez semé
+qu’ils (elles) eussent semé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons semé
+ayez semé
+
+* INFINITIF
+
+** Passé
+
+avoir semé
+
+* PARTICIPE
+
+** Passé
+
+ayant semé
+semé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis semé(e)
+tu es semé(e)
+il (elle) est semé(e)
+nous sommes semé(e)s
+vous êtes semé(e)s
+ils (elles) sont semé(e)s
+
+** Imparfait
+
+j'étais semé(e)
+tu étais semé(e)
+il (elle) était semé(e)
+nous étions semé(e)s
+vous étiez semé(e)s
+ils (elles) étaient semé(e)s
+
+** Passé simple
+
+je fus semé(e)
+tu fus semé(e)
+il (elle) fut semé(e)
+nous fûmes semé(e)s
+vous fûtes semé(e)s
+ils (elles) furent semé(e)s
+
+** Futur simple
+
+je serai semé(e)
+tu seras semé(e)
+il (elle) sera semé(e)
+nous serons semé(e)s
+vous serez semé(e)s
+ils (elles) seront semé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais semé(e)
+tu serais semé(e)
+il (elle) serait semé(e)
+nous serions semé(e)s
+vous seriez semé(e)s
+ils (elles) seraient semé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois semé(e)
+que tu sois semé(e)
+qu’il (elle) soit semé(e)
+que nous soyons semé(e)s
+que vous soyez semé(e)s
+qu’ils (elles) soient semé(e)s
+
+** Imparfait
+
+que je fusse semé(e)
+que tu fusses semé(e)
+qu’il (elle) fût semé(e)
+que nous fussions semé(e)s
+que vous fussiez semé(e)s
+qu’ils (elles) fussent semé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons semé(e)s
+soyez semé(e)s
+
+* INFINITIF
+
+** Présent
+
+être semé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant semé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été semé(e)
+tu as été semé(e)
+il (elle) a été semé(e)
+nous avons été semé(e)s
+vous avez été semé(e)s
+ils (elles) ont été semé(e)s
+
+** Plus-que-parfait
+
+j'avais été semé(e)
+il (elle) avait été semé(e)
+nous avions été semé(e)s
+ils (elles) avaient été semé(e)s
+
+** Passé antérieur
+
+j'eus été semé(e)
+tu eus été semé(e)
+il (elle) eut été semé(e)
+nous eûmes été semé(e)s
+vous eûtes été semé(e)s
+ils (elles) eurent été semé(e)s
+
+** Futur antérieur
+
+j'aurai été semé(e)
+tu auras été semé(e)
+il (elle) aura été semé(e)
+nous aurons été semé(e)s
+vous aurez été semé(e)s
+ils (elles) auront été semé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été semé(e)
+j'aurais été semé(e)
+il (elle) aurait été semé(e)
+nous aurions été semé(e)s
+vous auriez été semé(e)s
+ils (elles) auraient été semé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été semé(e)
+que tu aies été semé(e)
+qu’il (elle) ait été semé(e)
+que nous ayons été semé(e)s
+que vous ayez été semé(e)s
+qu’ils (elles) aient été semé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été semé(e)
+que tu eusses été semé(e)
+qu’il (elle) eût été semé(e)
+que nous eussions été semé(e)s
+que vous eussiez été semé(e)s
+qu’ils (elles) eussent été semé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été semé(e)
+ayons été semé(e)s
+ayez été semé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été semé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été semé(e)(s)

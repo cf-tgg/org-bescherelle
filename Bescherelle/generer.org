@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe generer
+
+* INDICATIF
+
+** Présent
+
+je génère
+tu génères
+il (elle) génère
+nous générons
+vous générez
+ils (elles) génèrent
+
+** Imparfait
+
+je générais
+tu générais
+il (elle) générait
+nous générions
+vous génériez
+ils (elles) généraient
+
+** Passé simple
+
+je générai
+tu généras
+il (elle) généra
+nous générâmes
+vous générâtes
+ils (elles) générèrent
+
+** Futur simple
+
+je générerai
+tu généreras
+il (elle) générera
+nous générerons
+vous générerez
+ils (elles) généreront
+
+* CONDITIONNEL
+
+** Présent
+
+je générerais
+tu générerais
+il (elle) générerait
+nous générerions
+vous généreriez
+ils (elles) généreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je génère
+que tu génères
+qu’il (elle) génère
+que nous générions
+que vous génériez
+qu’ils (elles) génèrent
+
+** Imparfait
+
+que je générasse
+que tu générasses
+qu’il (elle) générât
+que nous générassions
+que vous générassiez
+qu’ils (elles) générassent
+
+* IMPÉRATIF
+
+** Présent
+
+génère
+générons
+générez
+
+* INFINITIF
+
+** Présent
+
+générer
+
+* PARTICIPE
+
+** Présent
+
+générant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai généré
+tu as généré
+il (elle) a généré
+nous avons généré
+vous avez généré
+ils (elles) ont généré
+
+** Plus-que-parfait
+
+j'avais généré
+tu avais généré
+il (elle) avait généré
+nous avions généré
+vous aviez généré
+ils (elles) avaient généré
+
+** Passé antérieur
+
+j'eus généré
+tu eus généré
+il (elle) eut généré
+nous eûmes généré
+vous eûtes généré
+ils (elles) eurent généré
+
+** Futur antérieur
+
+j'aurai généré
+tu auras généré
+il (elle) aura généré
+nous aurons généré
+vous aurez généré
+ils (elles) auront généré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais généré
+tu aurais généré
+il (elle) aurait généré
+nous aurions généré
+vous auriez généré
+ils (elles) auraient généré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie généré
+que tu aies généré
+qu’il (elle) ait généré
+que nous ayons généré
+que vous ayez généré
+qu’ils (elles) aient généré
+
+** Plus-que-parfait
+
+que j'eusse généré
+que tu eusses généré
+qu’il (elle) eût généré
+que nous eussions généré
+que vous eussiez généré
+qu’ils (elles) eussent généré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons généré
+ayez généré
+
+* INFINITIF
+
+** Passé
+
+avoir généré
+
+* PARTICIPE
+
+** Passé
+
+ayant généré
+généré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis généré(e)
+tu es généré(e)
+il (elle) est généré(e)
+nous sommes généré(e)s
+vous êtes généré(e)s
+ils (elles) sont généré(e)s
+
+** Imparfait
+
+j'étais généré(e)
+tu étais généré(e)
+il (elle) était généré(e)
+nous étions généré(e)s
+vous étiez généré(e)s
+ils (elles) étaient généré(e)s
+
+** Passé simple
+
+je fus généré(e)
+tu fus généré(e)
+il (elle) fut généré(e)
+nous fûmes généré(e)s
+vous fûtes généré(e)s
+ils (elles) furent généré(e)s
+
+** Futur simple
+
+je serai généré(e)
+tu seras généré(e)
+il (elle) sera généré(e)
+nous serons généré(e)s
+vous serez généré(e)s
+ils (elles) seront généré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais généré(e)
+tu serais généré(e)
+il (elle) serait généré(e)
+nous serions généré(e)s
+vous seriez généré(e)s
+ils (elles) seraient généré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois généré(e)
+que tu sois généré(e)
+qu’il (elle) soit généré(e)
+que nous soyons généré(e)s
+que vous soyez généré(e)s
+qu’ils (elles) soient généré(e)s
+
+** Imparfait
+
+que je fusse généré(e)
+que tu fusses généré(e)
+qu’il (elle) fût généré(e)
+que nous fussions généré(e)s
+que vous fussiez généré(e)s
+qu’ils (elles) fussent généré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons généré(e)s
+soyez généré(e)s
+
+* INFINITIF
+
+** Présent
+
+être généré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant généré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été généré(e)
+tu as été généré(e)
+il (elle) a été généré(e)
+nous avons été généré(e)s
+vous avez été généré(e)s
+ils (elles) ont été généré(e)s
+
+** Plus-que-parfait
+
+j'avais été généré(e)
+il (elle) avait été généré(e)
+nous avions été généré(e)s
+ils (elles) avaient été généré(e)s
+
+** Passé antérieur
+
+j'eus été généré(e)
+tu eus été généré(e)
+il (elle) eut été généré(e)
+nous eûmes été généré(e)s
+vous eûtes été généré(e)s
+ils (elles) eurent été généré(e)s
+
+** Futur antérieur
+
+j'aurai été généré(e)
+tu auras été généré(e)
+il (elle) aura été généré(e)
+nous aurons été généré(e)s
+vous aurez été généré(e)s
+ils (elles) auront été généré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été généré(e)
+j'aurais été généré(e)
+il (elle) aurait été généré(e)
+nous aurions été généré(e)s
+vous auriez été généré(e)s
+ils (elles) auraient été généré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été généré(e)
+que tu aies été généré(e)
+qu’il (elle) ait été généré(e)
+que nous ayons été généré(e)s
+que vous ayez été généré(e)s
+qu’ils (elles) aient été généré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été généré(e)
+que tu eusses été généré(e)
+qu’il (elle) eût été généré(e)
+que nous eussions été généré(e)s
+que vous eussiez été généré(e)s
+qu’ils (elles) eussent été généré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été généré(e)
+ayons été généré(e)s
+ayez été généré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été généré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été généré(e)(s)

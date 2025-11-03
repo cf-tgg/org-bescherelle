@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe miser
+
+* INDICATIF
+
+** Présent
+
+je mise
+tu mises
+il (elle) mise
+nous misons
+vous misez
+ils (elles) misent
+
+** Imparfait
+
+je misais
+tu misais
+il (elle) misait
+nous misions
+vous misiez
+ils (elles) misaient
+
+** Passé simple
+
+je misai
+tu misas
+il (elle) misa
+nous misâmes
+vous misâtes
+ils (elles) misèrent
+
+** Futur simple
+
+je miserai
+tu miseras
+il (elle) misera
+nous miserons
+vous miserez
+ils (elles) miseront
+
+* CONDITIONNEL
+
+** Présent
+
+je miserais
+tu miserais
+il (elle) miserait
+nous miserions
+vous miseriez
+ils (elles) miseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mise
+que tu mises
+qu’il (elle) mise
+que nous misions
+que vous misiez
+qu’ils (elles) misent
+
+** Imparfait
+
+que je misasse
+que tu misasses
+qu’il (elle) misât
+que nous misassions
+que vous misassiez
+qu’ils (elles) misassent
+
+* IMPÉRATIF
+
+** Présent
+
+mise
+misons
+misez
+
+* INFINITIF
+
+** Présent
+
+miser
+
+* PARTICIPE
+
+** Présent
+
+misant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai misé
+tu as misé
+il (elle) a misé
+nous avons misé
+vous avez misé
+ils (elles) ont misé
+
+** Plus-que-parfait
+
+j'avais misé
+tu avais misé
+il (elle) avait misé
+nous avions misé
+vous aviez misé
+ils (elles) avaient misé
+
+** Passé antérieur
+
+j'eus misé
+tu eus misé
+il (elle) eut misé
+nous eûmes misé
+vous eûtes misé
+ils (elles) eurent misé
+
+** Futur antérieur
+
+j'aurai misé
+tu auras misé
+il (elle) aura misé
+nous aurons misé
+vous aurez misé
+ils (elles) auront misé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais misé
+tu aurais misé
+il (elle) aurait misé
+nous aurions misé
+vous auriez misé
+ils (elles) auraient misé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie misé
+que tu aies misé
+qu’il (elle) ait misé
+que nous ayons misé
+que vous ayez misé
+qu’ils (elles) aient misé
+
+** Plus-que-parfait
+
+que j'eusse misé
+que tu eusses misé
+qu’il (elle) eût misé
+que nous eussions misé
+que vous eussiez misé
+qu’ils (elles) eussent misé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons misé
+ayez misé
+
+* INFINITIF
+
+** Passé
+
+avoir misé
+
+* PARTICIPE
+
+** Passé
+
+ayant misé
+misé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis misé(e)
+tu es misé(e)
+il (elle) est misé(e)
+nous sommes misé(e)s
+vous êtes misé(e)s
+ils (elles) sont misé(e)s
+
+** Imparfait
+
+j'étais misé(e)
+tu étais misé(e)
+il (elle) était misé(e)
+nous étions misé(e)s
+vous étiez misé(e)s
+ils (elles) étaient misé(e)s
+
+** Passé simple
+
+je fus misé(e)
+tu fus misé(e)
+il (elle) fut misé(e)
+nous fûmes misé(e)s
+vous fûtes misé(e)s
+ils (elles) furent misé(e)s
+
+** Futur simple
+
+je serai misé(e)
+tu seras misé(e)
+il (elle) sera misé(e)
+nous serons misé(e)s
+vous serez misé(e)s
+ils (elles) seront misé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais misé(e)
+tu serais misé(e)
+il (elle) serait misé(e)
+nous serions misé(e)s
+vous seriez misé(e)s
+ils (elles) seraient misé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois misé(e)
+que tu sois misé(e)
+qu’il (elle) soit misé(e)
+que nous soyons misé(e)s
+que vous soyez misé(e)s
+qu’ils (elles) soient misé(e)s
+
+** Imparfait
+
+que je fusse misé(e)
+que tu fusses misé(e)
+qu’il (elle) fût misé(e)
+que nous fussions misé(e)s
+que vous fussiez misé(e)s
+qu’ils (elles) fussent misé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons misé(e)s
+soyez misé(e)s
+
+* INFINITIF
+
+** Présent
+
+être misé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant misé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été misé(e)
+tu as été misé(e)
+il (elle) a été misé(e)
+nous avons été misé(e)s
+vous avez été misé(e)s
+ils (elles) ont été misé(e)s
+
+** Plus-que-parfait
+
+j'avais été misé(e)
+il (elle) avait été misé(e)
+nous avions été misé(e)s
+ils (elles) avaient été misé(e)s
+
+** Passé antérieur
+
+j'eus été misé(e)
+tu eus été misé(e)
+il (elle) eut été misé(e)
+nous eûmes été misé(e)s
+vous eûtes été misé(e)s
+ils (elles) eurent été misé(e)s
+
+** Futur antérieur
+
+j'aurai été misé(e)
+tu auras été misé(e)
+il (elle) aura été misé(e)
+nous aurons été misé(e)s
+vous aurez été misé(e)s
+ils (elles) auront été misé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été misé(e)
+j'aurais été misé(e)
+il (elle) aurait été misé(e)
+nous aurions été misé(e)s
+vous auriez été misé(e)s
+ils (elles) auraient été misé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été misé(e)
+que tu aies été misé(e)
+qu’il (elle) ait été misé(e)
+que nous ayons été misé(e)s
+que vous ayez été misé(e)s
+qu’ils (elles) aient été misé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été misé(e)
+que tu eusses été misé(e)
+qu’il (elle) eût été misé(e)
+que nous eussions été misé(e)s
+que vous eussiez été misé(e)s
+qu’ils (elles) eussent été misé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été misé(e)
+ayons été misé(e)s
+ayez été misé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été misé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été misé(e)(s)

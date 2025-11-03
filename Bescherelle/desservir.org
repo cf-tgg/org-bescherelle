@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe desservir
+
+* INDICATIF
+
+** Présent
+
+je dessers
+tu dessers
+il (elle) dessert
+nous desservons
+vous desservez
+ils (elles) desservent
+
+** Imparfait
+
+je desservais
+tu desservais
+il (elle) desservait
+nous desservions
+vous desserviez
+ils (elles) desservaient
+
+** Passé simple
+
+je desservis
+tu desservis
+il (elle) desservit
+nous desservîmes
+vous desservîtes
+ils (elles) desservirent
+
+** Futur simple
+
+je desservirai
+tu desserviras
+il (elle) desservira
+nous desservirons
+vous desservirez
+ils (elles) desserviront
+
+* CONDITIONNEL
+
+** Présent
+
+je desservirais
+tu desservirais
+il (elle) desservirait
+nous desservirions
+vous desserviriez
+ils (elles) desserviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je desserve
+que tu desserves
+qu’il (elle) desserve
+que nous desservions
+que vous desserviez
+qu’ils (elles) desservent
+
+** Imparfait
+
+que je desservisse
+que tu desservisses
+qu’il (elle) desservît
+que nous desservissions
+que vous desservissiez
+qu’ils (elles) desservissent
+
+* IMPÉRATIF
+
+** Présent
+
+dessers
+desservons
+desservez
+
+* INFINITIF
+
+** Présent
+
+desservir
+
+* PARTICIPE
+
+** Présent
+
+desservant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai desservi
+tu as desservi
+il (elle) a desservi
+nous avons desservi
+vous avez desservi
+ils (elles) ont desservi
+
+** Plus-que-parfait
+
+j'avais desservi
+tu avais desservi
+il (elle) avait desservi
+nous avions desservi
+vous aviez desservi
+ils (elles) avaient desservi
+
+** Passé antérieur
+
+j'eus desservi
+tu eus desservi
+il (elle) eut desservi
+nous eûmes desservi
+vous eûtes desservi
+ils (elles) eurent desservi
+
+** Futur antérieur
+
+j'aurai desservi
+tu auras desservi
+il (elle) aura desservi
+nous aurons desservi
+vous aurez desservi
+ils (elles) auront desservi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais desservi
+tu aurais desservi
+il (elle) aurait desservi
+nous aurions desservi
+vous auriez desservi
+ils (elles) auraient desservi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie desservi
+que tu aies desservi
+qu’il (elle) ait desservi
+que nous ayons desservi
+que vous ayez desservi
+qu’ils (elles) aient desservi
+
+** Plus-que-parfait
+
+que j'eusse desservi
+que tu eusses desservi
+qu’il (elle) eût desservi
+que nous eussions desservi
+que vous eussiez desservi
+qu’ils (elles) eussent desservi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons desservi
+ayez desservi
+
+* INFINITIF
+
+** Passé
+
+avoir desservi
+
+* PARTICIPE
+
+** Passé
+
+ayant desservi
+desservi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis desservi(e)
+tu es desservi(e)
+il (elle) est desservi(e)
+nous sommes desservi(e)s
+vous êtes desservi(e)s
+ils (elles) sont desservi(e)s
+
+** Imparfait
+
+j'étais desservi(e)
+tu étais desservi(e)
+il (elle) était desservi(e)
+nous étions desservi(e)s
+vous étiez desservi(e)s
+ils (elles) étaient desservi(e)s
+
+** Passé simple
+
+je fus desservi(e)
+tu fus desservi(e)
+il (elle) fut desservi(e)
+nous fûmes desservi(e)s
+vous fûtes desservi(e)s
+ils (elles) furent desservi(e)s
+
+** Futur simple
+
+je serai desservi(e)
+tu seras desservi(e)
+il (elle) sera desservi(e)
+nous serons desservi(e)s
+vous serez desservi(e)s
+ils (elles) seront desservi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais desservi(e)
+tu serais desservi(e)
+il (elle) serait desservi(e)
+nous serions desservi(e)s
+vous seriez desservi(e)s
+ils (elles) seraient desservi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois desservi(e)
+que tu sois desservi(e)
+qu’il (elle) soit desservi(e)
+que nous soyons desservi(e)s
+que vous soyez desservi(e)s
+qu’ils (elles) soient desservi(e)s
+
+** Imparfait
+
+que je fusse desservi(e)
+que tu fusses desservi(e)
+qu’il (elle) fût desservi(e)
+que nous fussions desservi(e)s
+que vous fussiez desservi(e)s
+qu’ils (elles) fussent desservi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons desservi(e)s
+soyez desservi(e)s
+
+* INFINITIF
+
+** Présent
+
+être desservi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant desservi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été desservi(e)
+tu as été desservi(e)
+il (elle) a été desservi(e)
+nous avons été desservi(e)s
+vous avez été desservi(e)s
+ils (elles) ont été desservi(e)s
+
+** Plus-que-parfait
+
+j'avais été desservi(e)
+il (elle) avait été desservi(e)
+nous avions été desservi(e)s
+ils (elles) avaient été desservi(e)s
+
+** Passé antérieur
+
+j'eus été desservi(e)
+tu eus été desservi(e)
+il (elle) eut été desservi(e)
+nous eûmes été desservi(e)s
+vous eûtes été desservi(e)s
+ils (elles) eurent été desservi(e)s
+
+** Futur antérieur
+
+j'aurai été desservi(e)
+tu auras été desservi(e)
+il (elle) aura été desservi(e)
+nous aurons été desservi(e)s
+vous aurez été desservi(e)s
+ils (elles) auront été desservi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été desservi(e)
+j'aurais été desservi(e)
+il (elle) aurait été desservi(e)
+nous aurions été desservi(e)s
+vous auriez été desservi(e)s
+ils (elles) auraient été desservi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été desservi(e)
+que tu aies été desservi(e)
+qu’il (elle) ait été desservi(e)
+que nous ayons été desservi(e)s
+que vous ayez été desservi(e)s
+qu’ils (elles) aient été desservi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été desservi(e)
+que tu eusses été desservi(e)
+qu’il (elle) eût été desservi(e)
+que nous eussions été desservi(e)s
+que vous eussiez été desservi(e)s
+qu’ils (elles) eussent été desservi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été desservi(e)
+ayons été desservi(e)s
+ayez été desservi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été desservi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été desservi(e)(s)

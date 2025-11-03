@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe douter
+
+* INDICATIF
+
+** Présent
+
+je doute
+tu doutes
+il (elle) doute
+nous doutons
+vous doutez
+ils (elles) doutent
+
+** Imparfait
+
+je doutais
+tu doutais
+il (elle) doutait
+nous doutions
+vous doutiez
+ils (elles) doutaient
+
+** Passé simple
+
+je doutai
+tu doutas
+il (elle) douta
+nous doutâmes
+vous doutâtes
+ils (elles) doutèrent
+
+** Futur simple
+
+je douterai
+tu douteras
+il (elle) doutera
+nous douterons
+vous douterez
+ils (elles) douteront
+
+* CONDITIONNEL
+
+** Présent
+
+je douterais
+tu douterais
+il (elle) douterait
+nous douterions
+vous douteriez
+ils (elles) douteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je doute
+que tu doutes
+qu’il (elle) doute
+que nous doutions
+que vous doutiez
+qu’ils (elles) doutent
+
+** Imparfait
+
+que je doutasse
+que tu doutasses
+qu’il (elle) doutât
+que nous doutassions
+que vous doutassiez
+qu’ils (elles) doutassent
+
+* IMPÉRATIF
+
+** Présent
+
+doute
+doutons
+doutez
+
+* INFINITIF
+
+** Présent
+
+douter
+
+* PARTICIPE
+
+** Présent
+
+doutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai douté
+tu as douté
+il (elle) a douté
+nous avons douté
+vous avez douté
+ils (elles) ont douté
+
+** Plus-que-parfait
+
+j'avais douté
+tu avais douté
+il (elle) avait douté
+nous avions douté
+vous aviez douté
+ils (elles) avaient douté
+
+** Passé antérieur
+
+j'eus douté
+tu eus douté
+il (elle) eut douté
+nous eûmes douté
+vous eûtes douté
+ils (elles) eurent douté
+
+** Futur antérieur
+
+j'aurai douté
+tu auras douté
+il (elle) aura douté
+nous aurons douté
+vous aurez douté
+ils (elles) auront douté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais douté
+tu aurais douté
+il (elle) aurait douté
+nous aurions douté
+vous auriez douté
+ils (elles) auraient douté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie douté
+que tu aies douté
+qu’il (elle) ait douté
+que nous ayons douté
+que vous ayez douté
+qu’ils (elles) aient douté
+
+** Plus-que-parfait
+
+que j'eusse douté
+que tu eusses douté
+qu’il (elle) eût douté
+que nous eussions douté
+que vous eussiez douté
+qu’ils (elles) eussent douté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons douté
+ayez douté
+
+* INFINITIF
+
+** Passé
+
+avoir douté
+
+* PARTICIPE
+
+** Passé
+
+ayant douté
+douté (invar.)

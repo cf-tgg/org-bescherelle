@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe compiler
+
+* INDICATIF
+
+** Présent
+
+je compile
+tu compiles
+il (elle) compile
+nous compilons
+vous compilez
+ils (elles) compilent
+
+** Imparfait
+
+je compilais
+tu compilais
+il (elle) compilait
+nous compilions
+vous compiliez
+ils (elles) compilaient
+
+** Passé simple
+
+je compilai
+tu compilas
+il (elle) compila
+nous compilâmes
+vous compilâtes
+ils (elles) compilèrent
+
+** Futur simple
+
+je compilerai
+tu compileras
+il (elle) compilera
+nous compilerons
+vous compilerez
+ils (elles) compileront
+
+* CONDITIONNEL
+
+** Présent
+
+je compilerais
+tu compilerais
+il (elle) compilerait
+nous compilerions
+vous compileriez
+ils (elles) compileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compile
+que tu compiles
+qu’il (elle) compile
+que nous compilions
+que vous compiliez
+qu’ils (elles) compilent
+
+** Imparfait
+
+que je compilasse
+que tu compilasses
+qu’il (elle) compilât
+que nous compilassions
+que vous compilassiez
+qu’ils (elles) compilassent
+
+* IMPÉRATIF
+
+** Présent
+
+compile
+compilons
+compilez
+
+* INFINITIF
+
+** Présent
+
+compiler
+
+* PARTICIPE
+
+** Présent
+
+compilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compilé
+tu as compilé
+il (elle) a compilé
+nous avons compilé
+vous avez compilé
+ils (elles) ont compilé
+
+** Plus-que-parfait
+
+j'avais compilé
+tu avais compilé
+il (elle) avait compilé
+nous avions compilé
+vous aviez compilé
+ils (elles) avaient compilé
+
+** Passé antérieur
+
+j'eus compilé
+tu eus compilé
+il (elle) eut compilé
+nous eûmes compilé
+vous eûtes compilé
+ils (elles) eurent compilé
+
+** Futur antérieur
+
+j'aurai compilé
+tu auras compilé
+il (elle) aura compilé
+nous aurons compilé
+vous aurez compilé
+ils (elles) auront compilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compilé
+tu aurais compilé
+il (elle) aurait compilé
+nous aurions compilé
+vous auriez compilé
+ils (elles) auraient compilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compilé
+que tu aies compilé
+qu’il (elle) ait compilé
+que nous ayons compilé
+que vous ayez compilé
+qu’ils (elles) aient compilé
+
+** Plus-que-parfait
+
+que j'eusse compilé
+que tu eusses compilé
+qu’il (elle) eût compilé
+que nous eussions compilé
+que vous eussiez compilé
+qu’ils (elles) eussent compilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compilé
+ayez compilé
+
+* INFINITIF
+
+** Passé
+
+avoir compilé
+
+* PARTICIPE
+
+** Passé
+
+ayant compilé
+compilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis compilé(e)
+tu es compilé(e)
+il (elle) est compilé(e)
+nous sommes compilé(e)s
+vous êtes compilé(e)s
+ils (elles) sont compilé(e)s
+
+** Imparfait
+
+j'étais compilé(e)
+tu étais compilé(e)
+il (elle) était compilé(e)
+nous étions compilé(e)s
+vous étiez compilé(e)s
+ils (elles) étaient compilé(e)s
+
+** Passé simple
+
+je fus compilé(e)
+tu fus compilé(e)
+il (elle) fut compilé(e)
+nous fûmes compilé(e)s
+vous fûtes compilé(e)s
+ils (elles) furent compilé(e)s
+
+** Futur simple
+
+je serai compilé(e)
+tu seras compilé(e)
+il (elle) sera compilé(e)
+nous serons compilé(e)s
+vous serez compilé(e)s
+ils (elles) seront compilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais compilé(e)
+tu serais compilé(e)
+il (elle) serait compilé(e)
+nous serions compilé(e)s
+vous seriez compilé(e)s
+ils (elles) seraient compilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois compilé(e)
+que tu sois compilé(e)
+qu’il (elle) soit compilé(e)
+que nous soyons compilé(e)s
+que vous soyez compilé(e)s
+qu’ils (elles) soient compilé(e)s
+
+** Imparfait
+
+que je fusse compilé(e)
+que tu fusses compilé(e)
+qu’il (elle) fût compilé(e)
+que nous fussions compilé(e)s
+que vous fussiez compilé(e)s
+qu’ils (elles) fussent compilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons compilé(e)s
+soyez compilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être compilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant compilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été compilé(e)
+tu as été compilé(e)
+il (elle) a été compilé(e)
+nous avons été compilé(e)s
+vous avez été compilé(e)s
+ils (elles) ont été compilé(e)s
+
+** Plus-que-parfait
+
+j'avais été compilé(e)
+il (elle) avait été compilé(e)
+nous avions été compilé(e)s
+ils (elles) avaient été compilé(e)s
+
+** Passé antérieur
+
+j'eus été compilé(e)
+tu eus été compilé(e)
+il (elle) eut été compilé(e)
+nous eûmes été compilé(e)s
+vous eûtes été compilé(e)s
+ils (elles) eurent été compilé(e)s
+
+** Futur antérieur
+
+j'aurai été compilé(e)
+tu auras été compilé(e)
+il (elle) aura été compilé(e)
+nous aurons été compilé(e)s
+vous aurez été compilé(e)s
+ils (elles) auront été compilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été compilé(e)
+j'aurais été compilé(e)
+il (elle) aurait été compilé(e)
+nous aurions été compilé(e)s
+vous auriez été compilé(e)s
+ils (elles) auraient été compilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été compilé(e)
+que tu aies été compilé(e)
+qu’il (elle) ait été compilé(e)
+que nous ayons été compilé(e)s
+que vous ayez été compilé(e)s
+qu’ils (elles) aient été compilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été compilé(e)
+que tu eusses été compilé(e)
+qu’il (elle) eût été compilé(e)
+que nous eussions été compilé(e)s
+que vous eussiez été compilé(e)s
+qu’ils (elles) eussent été compilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été compilé(e)
+ayons été compilé(e)s
+ayez été compilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été compilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été compilé(e)(s)

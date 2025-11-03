@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe rester
+
+* INDICATIF
+
+** Présent
+
+je reste
+tu restes
+il (elle) reste
+nous restons
+vous restez
+ils (elles) restent
+
+** Imparfait
+
+je restais
+tu restais
+il (elle) restait
+nous restions
+vous restiez
+ils (elles) restaient
+
+** Passé simple
+
+je restai
+tu restas
+il (elle) resta
+nous restâmes
+vous restâtes
+ils (elles) restèrent
+
+** Futur simple
+
+je resterai
+tu resteras
+il (elle) restera
+nous resterons
+vous resterez
+ils (elles) resteront
+
+* CONDITIONNEL
+
+** Présent
+
+je resterais
+tu resterais
+il (elle) resterait
+nous resterions
+vous resteriez
+ils (elles) resteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reste
+que tu restes
+qu’il (elle) reste
+que nous restions
+que vous restiez
+qu’ils (elles) restent
+
+** Imparfait
+
+que je restasse
+que tu restasses
+qu’il (elle) restât
+que nous restassions
+que vous restassiez
+qu’ils (elles) restassent
+
+* IMPÉRATIF
+
+** Présent
+
+reste
+restons
+restez
+
+* INFINITIF
+
+** Présent
+
+rester
+
+* PARTICIPE
+
+** Présent
+
+restant
+
+* INDICATIF
+
+** Passé composé
+
+je suis resté(e)
+tu es resté(e)
+il (elle) est resté(e)
+nous sommes resté(e)s
+vous êtes resté(e)s
+ils (elles) sont resté(e)s
+
+** Plus-que-parfait
+
+j'étais resté(e)
+tu étais resté(e)
+il (elle) était resté(e)
+nous étions resté(e)s
+vous étiez resté(e)s
+ils (elles) étaient resté(e)s
+
+** Passé antérieur
+
+je fus resté(e)
+tu fus resté(e)
+il (elle) fut resté(e)
+nous fûmes resté(e)s
+vous fûtes resté(e)s
+ils (elles) furent resté(e)s
+
+** Futur antérieur
+
+je serai resté(e)
+tu seras resté(e)
+il (elle) sera resté(e)
+nous serons resté(e)s
+vous serez resté(e)s
+ils (elles) seront resté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais resté(e)
+tu serais resté(e)
+il (elle) serait resté(e)
+nous serions resté(e)s
+vous seriez resté(e)s
+ils (elles) seraient resté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois resté(e)
+que tu sois resté(e)
+qu’il (elle) soit resté(e)
+que nous soyons resté(e)s
+que vous soyez resté(e)s
+qu’ils (elles) soient resté(e)s
+
+** Plus-que-parfait
+
+que je fusse resté(e)
+que tu fusses resté(e)
+qu’il (elle) fût resté(e)
+que nous fussions resté(e)s
+que vous fussiez resté(e)s
+qu’ils (elles) fussent resté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons resté(e)s
+soyez resté(e)s
+
+* INFINITIF
+
+** Passé
+
+être resté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant resté(e)(s)
+resté (é, ée, és, ées)

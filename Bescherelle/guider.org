@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe guider
+
+* INDICATIF
+
+** Présent
+
+je guide
+tu guides
+il (elle) guide
+nous guidons
+vous guidez
+ils (elles) guident
+
+** Imparfait
+
+je guidais
+tu guidais
+il (elle) guidait
+nous guidions
+vous guidiez
+ils (elles) guidaient
+
+** Passé simple
+
+je guidai
+tu guidas
+il (elle) guida
+nous guidâmes
+vous guidâtes
+ils (elles) guidèrent
+
+** Futur simple
+
+je guiderai
+tu guideras
+il (elle) guidera
+nous guiderons
+vous guiderez
+ils (elles) guideront
+
+* CONDITIONNEL
+
+** Présent
+
+je guiderais
+tu guiderais
+il (elle) guiderait
+nous guiderions
+vous guideriez
+ils (elles) guideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je guide
+que tu guides
+qu’il (elle) guide
+que nous guidions
+que vous guidiez
+qu’ils (elles) guident
+
+** Imparfait
+
+que je guidasse
+que tu guidasses
+qu’il (elle) guidât
+que nous guidassions
+que vous guidassiez
+qu’ils (elles) guidassent
+
+* IMPÉRATIF
+
+** Présent
+
+guide
+guidons
+guidez
+
+* INFINITIF
+
+** Présent
+
+guider
+
+* PARTICIPE
+
+** Présent
+
+guidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai guidé
+tu as guidé
+il (elle) a guidé
+nous avons guidé
+vous avez guidé
+ils (elles) ont guidé
+
+** Plus-que-parfait
+
+j'avais guidé
+tu avais guidé
+il (elle) avait guidé
+nous avions guidé
+vous aviez guidé
+ils (elles) avaient guidé
+
+** Passé antérieur
+
+j'eus guidé
+tu eus guidé
+il (elle) eut guidé
+nous eûmes guidé
+vous eûtes guidé
+ils (elles) eurent guidé
+
+** Futur antérieur
+
+j'aurai guidé
+tu auras guidé
+il (elle) aura guidé
+nous aurons guidé
+vous aurez guidé
+ils (elles) auront guidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais guidé
+tu aurais guidé
+il (elle) aurait guidé
+nous aurions guidé
+vous auriez guidé
+ils (elles) auraient guidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie guidé
+que tu aies guidé
+qu’il (elle) ait guidé
+que nous ayons guidé
+que vous ayez guidé
+qu’ils (elles) aient guidé
+
+** Plus-que-parfait
+
+que j'eusse guidé
+que tu eusses guidé
+qu’il (elle) eût guidé
+que nous eussions guidé
+que vous eussiez guidé
+qu’ils (elles) eussent guidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons guidé
+ayez guidé
+
+* INFINITIF
+
+** Passé
+
+avoir guidé
+
+* PARTICIPE
+
+** Passé
+
+ayant guidé
+guidé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis guidé(e)
+tu es guidé(e)
+il (elle) est guidé(e)
+nous sommes guidé(e)s
+vous êtes guidé(e)s
+ils (elles) sont guidé(e)s
+
+** Imparfait
+
+j'étais guidé(e)
+tu étais guidé(e)
+il (elle) était guidé(e)
+nous étions guidé(e)s
+vous étiez guidé(e)s
+ils (elles) étaient guidé(e)s
+
+** Passé simple
+
+je fus guidé(e)
+tu fus guidé(e)
+il (elle) fut guidé(e)
+nous fûmes guidé(e)s
+vous fûtes guidé(e)s
+ils (elles) furent guidé(e)s
+
+** Futur simple
+
+je serai guidé(e)
+tu seras guidé(e)
+il (elle) sera guidé(e)
+nous serons guidé(e)s
+vous serez guidé(e)s
+ils (elles) seront guidé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais guidé(e)
+tu serais guidé(e)
+il (elle) serait guidé(e)
+nous serions guidé(e)s
+vous seriez guidé(e)s
+ils (elles) seraient guidé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois guidé(e)
+que tu sois guidé(e)
+qu’il (elle) soit guidé(e)
+que nous soyons guidé(e)s
+que vous soyez guidé(e)s
+qu’ils (elles) soient guidé(e)s
+
+** Imparfait
+
+que je fusse guidé(e)
+que tu fusses guidé(e)
+qu’il (elle) fût guidé(e)
+que nous fussions guidé(e)s
+que vous fussiez guidé(e)s
+qu’ils (elles) fussent guidé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons guidé(e)s
+soyez guidé(e)s
+
+* INFINITIF
+
+** Présent
+
+être guidé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant guidé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été guidé(e)
+tu as été guidé(e)
+il (elle) a été guidé(e)
+nous avons été guidé(e)s
+vous avez été guidé(e)s
+ils (elles) ont été guidé(e)s
+
+** Plus-que-parfait
+
+j'avais été guidé(e)
+il (elle) avait été guidé(e)
+nous avions été guidé(e)s
+ils (elles) avaient été guidé(e)s
+
+** Passé antérieur
+
+j'eus été guidé(e)
+tu eus été guidé(e)
+il (elle) eut été guidé(e)
+nous eûmes été guidé(e)s
+vous eûtes été guidé(e)s
+ils (elles) eurent été guidé(e)s
+
+** Futur antérieur
+
+j'aurai été guidé(e)
+tu auras été guidé(e)
+il (elle) aura été guidé(e)
+nous aurons été guidé(e)s
+vous aurez été guidé(e)s
+ils (elles) auront été guidé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été guidé(e)
+j'aurais été guidé(e)
+il (elle) aurait été guidé(e)
+nous aurions été guidé(e)s
+vous auriez été guidé(e)s
+ils (elles) auraient été guidé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été guidé(e)
+que tu aies été guidé(e)
+qu’il (elle) ait été guidé(e)
+que nous ayons été guidé(e)s
+que vous ayez été guidé(e)s
+qu’ils (elles) aient été guidé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été guidé(e)
+que tu eusses été guidé(e)
+qu’il (elle) eût été guidé(e)
+que nous eussions été guidé(e)s
+que vous eussiez été guidé(e)s
+qu’ils (elles) eussent été guidé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été guidé(e)
+ayons été guidé(e)s
+ayez été guidé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été guidé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été guidé(e)(s)

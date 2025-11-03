@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe exister
+
+* INDICATIF
+
+** Présent
+
+j'existe
+tu existes
+il (elle) existe
+nous existons
+vous existez
+ils (elles) existent
+
+** Imparfait
+
+j'existais
+tu existais
+il (elle) existait
+nous existions
+vous existiez
+ils (elles) existaient
+
+** Passé simple
+
+j'existai
+tu existas
+il (elle) exista
+nous existâmes
+vous existâtes
+ils (elles) existèrent
+
+** Futur simple
+
+j'existerai
+tu existeras
+il (elle) existera
+nous existerons
+vous existerez
+ils (elles) existeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'existerais
+tu existerais
+il (elle) existerait
+nous existerions
+vous existeriez
+ils (elles) existeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'existe
+que tu existes
+qu’il (elle) existe
+que nous existions
+que vous existiez
+qu’ils (elles) existent
+
+** Imparfait
+
+que j'existasse
+que tu existasses
+qu’il (elle) existât
+que nous existassions
+que vous existassiez
+qu’ils (elles) existassent
+
+* IMPÉRATIF
+
+** Présent
+
+existe
+existons
+existez
+
+* INFINITIF
+
+** Présent
+
+exister
+
+* PARTICIPE
+
+** Présent
+
+existant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai existé
+tu as existé
+il (elle) a existé
+nous avons existé
+vous avez existé
+ils (elles) ont existé
+
+** Plus-que-parfait
+
+j'avais existé
+tu avais existé
+il (elle) avait existé
+nous avions existé
+vous aviez existé
+ils (elles) avaient existé
+
+** Passé antérieur
+
+j'eus existé
+tu eus existé
+il (elle) eut existé
+nous eûmes existé
+vous eûtes existé
+ils (elles) eurent existé
+
+** Futur antérieur
+
+j'aurai existé
+tu auras existé
+il (elle) aura existé
+nous aurons existé
+vous aurez existé
+ils (elles) auront existé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais existé
+tu aurais existé
+il (elle) aurait existé
+nous aurions existé
+vous auriez existé
+ils (elles) auraient existé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie existé
+que tu aies existé
+qu’il (elle) ait existé
+que nous ayons existé
+que vous ayez existé
+qu’ils (elles) aient existé
+
+** Plus-que-parfait
+
+que j'eusse existé
+que tu eusses existé
+qu’il (elle) eût existé
+que nous eussions existé
+que vous eussiez existé
+qu’ils (elles) eussent existé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons existé
+ayez existé
+
+* INFINITIF
+
+** Passé
+
+avoir existé
+
+* PARTICIPE
+
+** Passé
+
+ayant existé
+existé (invar.)

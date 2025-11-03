@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe perdre
+
+* INDICATIF
+
+** Présent
+
+je perds
+tu perds
+il (elle) perd
+nous perdons
+vous perdez
+ils (elles) perdent
+
+** Imparfait
+
+je perdais
+tu perdais
+il (elle) perdait
+nous perdions
+vous perdiez
+ils (elles) perdaient
+
+** Passé simple
+
+je perdis
+tu perdis
+il (elle) perdit
+nous perdîmes
+vous perdîtes
+ils (elles) perdirent
+
+** Futur simple
+
+je perdrai
+tu perdras
+il (elle) perdra
+nous perdrons
+vous perdrez
+ils (elles) perdront
+
+* CONDITIONNEL
+
+** Présent
+
+je perdrais
+tu perdrais
+il (elle) perdrait
+nous perdrions
+vous perdriez
+ils (elles) perdraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je perde
+que tu perdes
+qu’il (elle) perde
+que nous perdions
+que vous perdiez
+qu’ils (elles) perdent
+
+** Imparfait
+
+que je perdisse
+que tu perdisses
+qu’il (elle) perdît
+que nous perdissions
+que vous perdissiez
+qu’ils (elles) perdissent
+
+* IMPÉRATIF
+
+** Présent
+
+perds
+perdons
+perdez
+
+* INFINITIF
+
+** Présent
+
+perdre
+
+* PARTICIPE
+
+** Présent
+
+perdant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai perdu
+tu as perdu
+il (elle) a perdu
+nous avons perdu
+vous avez perdu
+ils (elles) ont perdu
+
+** Plus-que-parfait
+
+j'avais perdu
+tu avais perdu
+il (elle) avait perdu
+nous avions perdu
+vous aviez perdu
+ils (elles) avaient perdu
+
+** Passé antérieur
+
+j'eus perdu
+tu eus perdu
+il (elle) eut perdu
+nous eûmes perdu
+vous eûtes perdu
+ils (elles) eurent perdu
+
+** Futur antérieur
+
+j'aurai perdu
+tu auras perdu
+il (elle) aura perdu
+nous aurons perdu
+vous aurez perdu
+ils (elles) auront perdu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais perdu
+tu aurais perdu
+il (elle) aurait perdu
+nous aurions perdu
+vous auriez perdu
+ils (elles) auraient perdu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie perdu
+que tu aies perdu
+qu’il (elle) ait perdu
+que nous ayons perdu
+que vous ayez perdu
+qu’ils (elles) aient perdu
+
+** Plus-que-parfait
+
+que j'eusse perdu
+que tu eusses perdu
+qu’il (elle) eût perdu
+que nous eussions perdu
+que vous eussiez perdu
+qu’ils (elles) eussent perdu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons perdu
+ayez perdu
+
+* INFINITIF
+
+** Passé
+
+avoir perdu
+
+* PARTICIPE
+
+** Passé
+
+ayant perdu
+perdu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis perdu(e)
+tu es perdu(e)
+il (elle) est perdu(e)
+nous sommes perdu(e)s
+vous êtes perdu(e)s
+ils (elles) sont perdu(e)s
+
+** Imparfait
+
+j'étais perdu(e)
+tu étais perdu(e)
+il (elle) était perdu(e)
+nous étions perdu(e)s
+vous étiez perdu(e)s
+ils (elles) étaient perdu(e)s
+
+** Passé simple
+
+je fus perdu(e)
+tu fus perdu(e)
+il (elle) fut perdu(e)
+nous fûmes perdu(e)s
+vous fûtes perdu(e)s
+ils (elles) furent perdu(e)s
+
+** Futur simple
+
+je serai perdu(e)
+tu seras perdu(e)
+il (elle) sera perdu(e)
+nous serons perdu(e)s
+vous serez perdu(e)s
+ils (elles) seront perdu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais perdu(e)
+tu serais perdu(e)
+il (elle) serait perdu(e)
+nous serions perdu(e)s
+vous seriez perdu(e)s
+ils (elles) seraient perdu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois perdu(e)
+que tu sois perdu(e)
+qu’il (elle) soit perdu(e)
+que nous soyons perdu(e)s
+que vous soyez perdu(e)s
+qu’ils (elles) soient perdu(e)s
+
+** Imparfait
+
+que je fusse perdu(e)
+que tu fusses perdu(e)
+qu’il (elle) fût perdu(e)
+que nous fussions perdu(e)s
+que vous fussiez perdu(e)s
+qu’ils (elles) fussent perdu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons perdu(e)s
+soyez perdu(e)s
+
+* INFINITIF
+
+** Présent
+
+être perdu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant perdu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été perdu(e)
+tu as été perdu(e)
+il (elle) a été perdu(e)
+nous avons été perdu(e)s
+vous avez été perdu(e)s
+ils (elles) ont été perdu(e)s
+
+** Plus-que-parfait
+
+j'avais été perdu(e)
+il (elle) avait été perdu(e)
+nous avions été perdu(e)s
+ils (elles) avaient été perdu(e)s
+
+** Passé antérieur
+
+j'eus été perdu(e)
+tu eus été perdu(e)
+il (elle) eut été perdu(e)
+nous eûmes été perdu(e)s
+vous eûtes été perdu(e)s
+ils (elles) eurent été perdu(e)s
+
+** Futur antérieur
+
+j'aurai été perdu(e)
+tu auras été perdu(e)
+il (elle) aura été perdu(e)
+nous aurons été perdu(e)s
+vous aurez été perdu(e)s
+ils (elles) auront été perdu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été perdu(e)
+j'aurais été perdu(e)
+il (elle) aurait été perdu(e)
+nous aurions été perdu(e)s
+vous auriez été perdu(e)s
+ils (elles) auraient été perdu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été perdu(e)
+que tu aies été perdu(e)
+qu’il (elle) ait été perdu(e)
+que nous ayons été perdu(e)s
+que vous ayez été perdu(e)s
+qu’ils (elles) aient été perdu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été perdu(e)
+que tu eusses été perdu(e)
+qu’il (elle) eût été perdu(e)
+que nous eussions été perdu(e)s
+que vous eussiez été perdu(e)s
+qu’ils (elles) eussent été perdu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été perdu(e)
+ayons été perdu(e)s
+ayez été perdu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été perdu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été perdu(e)(s)

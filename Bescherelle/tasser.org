@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tasser
+
+* INDICATIF
+
+** Présent
+
+je tasse
+tu tasses
+il (elle) tasse
+nous tassons
+vous tassez
+ils (elles) tassent
+
+** Imparfait
+
+je tassais
+tu tassais
+il (elle) tassait
+nous tassions
+vous tassiez
+ils (elles) tassaient
+
+** Passé simple
+
+je tassai
+tu tassas
+il (elle) tassa
+nous tassâmes
+vous tassâtes
+ils (elles) tassèrent
+
+** Futur simple
+
+je tasserai
+tu tasseras
+il (elle) tassera
+nous tasserons
+vous tasserez
+ils (elles) tasseront
+
+* CONDITIONNEL
+
+** Présent
+
+je tasserais
+tu tasserais
+il (elle) tasserait
+nous tasserions
+vous tasseriez
+ils (elles) tasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tasse
+que tu tasses
+qu’il (elle) tasse
+que nous tassions
+que vous tassiez
+qu’ils (elles) tassent
+
+** Imparfait
+
+que je tassasse
+que tu tassasses
+qu’il (elle) tassât
+que nous tassassions
+que vous tassassiez
+qu’ils (elles) tassassent
+
+* IMPÉRATIF
+
+** Présent
+
+tasse
+tassons
+tassez
+
+* INFINITIF
+
+** Présent
+
+tasser
+
+* PARTICIPE
+
+** Présent
+
+tassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tassé
+tu as tassé
+il (elle) a tassé
+nous avons tassé
+vous avez tassé
+ils (elles) ont tassé
+
+** Plus-que-parfait
+
+j'avais tassé
+tu avais tassé
+il (elle) avait tassé
+nous avions tassé
+vous aviez tassé
+ils (elles) avaient tassé
+
+** Passé antérieur
+
+j'eus tassé
+tu eus tassé
+il (elle) eut tassé
+nous eûmes tassé
+vous eûtes tassé
+ils (elles) eurent tassé
+
+** Futur antérieur
+
+j'aurai tassé
+tu auras tassé
+il (elle) aura tassé
+nous aurons tassé
+vous aurez tassé
+ils (elles) auront tassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tassé
+tu aurais tassé
+il (elle) aurait tassé
+nous aurions tassé
+vous auriez tassé
+ils (elles) auraient tassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tassé
+que tu aies tassé
+qu’il (elle) ait tassé
+que nous ayons tassé
+que vous ayez tassé
+qu’ils (elles) aient tassé
+
+** Plus-que-parfait
+
+que j'eusse tassé
+que tu eusses tassé
+qu’il (elle) eût tassé
+que nous eussions tassé
+que vous eussiez tassé
+qu’ils (elles) eussent tassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tassé
+ayez tassé
+
+* INFINITIF
+
+** Passé
+
+avoir tassé
+
+* PARTICIPE
+
+** Passé
+
+ayant tassé
+tassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tassé(e)
+tu es tassé(e)
+il (elle) est tassé(e)
+nous sommes tassé(e)s
+vous êtes tassé(e)s
+ils (elles) sont tassé(e)s
+
+** Imparfait
+
+j'étais tassé(e)
+tu étais tassé(e)
+il (elle) était tassé(e)
+nous étions tassé(e)s
+vous étiez tassé(e)s
+ils (elles) étaient tassé(e)s
+
+** Passé simple
+
+je fus tassé(e)
+tu fus tassé(e)
+il (elle) fut tassé(e)
+nous fûmes tassé(e)s
+vous fûtes tassé(e)s
+ils (elles) furent tassé(e)s
+
+** Futur simple
+
+je serai tassé(e)
+tu seras tassé(e)
+il (elle) sera tassé(e)
+nous serons tassé(e)s
+vous serez tassé(e)s
+ils (elles) seront tassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tassé(e)
+tu serais tassé(e)
+il (elle) serait tassé(e)
+nous serions tassé(e)s
+vous seriez tassé(e)s
+ils (elles) seraient tassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tassé(e)
+que tu sois tassé(e)
+qu’il (elle) soit tassé(e)
+que nous soyons tassé(e)s
+que vous soyez tassé(e)s
+qu’ils (elles) soient tassé(e)s
+
+** Imparfait
+
+que je fusse tassé(e)
+que tu fusses tassé(e)
+qu’il (elle) fût tassé(e)
+que nous fussions tassé(e)s
+que vous fussiez tassé(e)s
+qu’ils (elles) fussent tassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tassé(e)s
+soyez tassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tassé(e)
+tu as été tassé(e)
+il (elle) a été tassé(e)
+nous avons été tassé(e)s
+vous avez été tassé(e)s
+ils (elles) ont été tassé(e)s
+
+** Plus-que-parfait
+
+j'avais été tassé(e)
+il (elle) avait été tassé(e)
+nous avions été tassé(e)s
+ils (elles) avaient été tassé(e)s
+
+** Passé antérieur
+
+j'eus été tassé(e)
+tu eus été tassé(e)
+il (elle) eut été tassé(e)
+nous eûmes été tassé(e)s
+vous eûtes été tassé(e)s
+ils (elles) eurent été tassé(e)s
+
+** Futur antérieur
+
+j'aurai été tassé(e)
+tu auras été tassé(e)
+il (elle) aura été tassé(e)
+nous aurons été tassé(e)s
+vous aurez été tassé(e)s
+ils (elles) auront été tassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tassé(e)
+j'aurais été tassé(e)
+il (elle) aurait été tassé(e)
+nous aurions été tassé(e)s
+vous auriez été tassé(e)s
+ils (elles) auraient été tassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tassé(e)
+que tu aies été tassé(e)
+qu’il (elle) ait été tassé(e)
+que nous ayons été tassé(e)s
+que vous ayez été tassé(e)s
+qu’ils (elles) aient été tassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tassé(e)
+que tu eusses été tassé(e)
+qu’il (elle) eût été tassé(e)
+que nous eussions été tassé(e)s
+que vous eussiez été tassé(e)s
+qu’ils (elles) eussent été tassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tassé(e)
+ayons été tassé(e)s
+ayez été tassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tassé(e)(s)

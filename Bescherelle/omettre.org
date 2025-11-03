@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe omettre
+
+* INDICATIF
+
+** Présent
+
+j'omets
+tu omets
+il (elle) omet
+nous omettons
+vous omettez
+ils (elles) omettent
+
+** Imparfait
+
+j'omettais
+tu omettais
+il (elle) omettait
+nous omettions
+vous omettiez
+ils (elles) omettaient
+
+** Passé simple
+
+j'omis
+tu omis
+il (elle) omit
+nous omîmes
+vous omîtes
+ils (elles) omirent
+
+** Futur simple
+
+j'omettrai
+tu omettras
+il (elle) omettra
+nous omettrons
+vous omettrez
+ils (elles) omettront
+
+* CONDITIONNEL
+
+** Présent
+
+j'omettrais
+tu omettrais
+il (elle) omettrait
+nous omettrions
+vous omettriez
+ils (elles) omettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'omette
+que tu omettes
+qu’il (elle) omette
+que nous omettions
+que vous omettiez
+qu’ils (elles) omettent
+
+** Imparfait
+
+que j'omisse
+que tu omisses
+qu’il (elle) omît
+que nous omissions
+que vous omissiez
+qu’ils (elles) omissent
+
+* IMPÉRATIF
+
+** Présent
+
+omets
+omettons
+omettez
+
+* INFINITIF
+
+** Présent
+
+omettre
+
+* PARTICIPE
+
+** Présent
+
+omettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai omis
+tu as omis
+il (elle) a omis
+nous avons omis
+vous avez omis
+ils (elles) ont omis
+
+** Plus-que-parfait
+
+j'avais omis
+tu avais omis
+il (elle) avait omis
+nous avions omis
+vous aviez omis
+ils (elles) avaient omis
+
+** Passé antérieur
+
+j'eus omis
+tu eus omis
+il (elle) eut omis
+nous eûmes omis
+vous eûtes omis
+ils (elles) eurent omis
+
+** Futur antérieur
+
+j'aurai omis
+tu auras omis
+il (elle) aura omis
+nous aurons omis
+vous aurez omis
+ils (elles) auront omis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais omis
+tu aurais omis
+il (elle) aurait omis
+nous aurions omis
+vous auriez omis
+ils (elles) auraient omis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie omis
+que tu aies omis
+qu’il (elle) ait omis
+que nous ayons omis
+que vous ayez omis
+qu’ils (elles) aient omis
+
+** Plus-que-parfait
+
+que j'eusse omis
+que tu eusses omis
+qu’il (elle) eût omis
+que nous eussions omis
+que vous eussiez omis
+qu’ils (elles) eussent omis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons omis
+ayez omis
+
+* INFINITIF
+
+** Passé
+
+avoir omis
+
+* PARTICIPE
+
+** Passé
+
+ayant omis
+omis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis omis(e)
+tu es omis(e)
+il (elle) est omis(e)
+nous sommes omis(es)
+vous êtes omis(es)
+ils (elles) sont omis(es)
+
+** Imparfait
+
+j'étais omis(e)
+tu étais omis(e)
+il (elle) était omis(e)
+nous étions omis(es)
+vous étiez omis(es)
+ils (elles) étaient omis(es)
+
+** Passé simple
+
+je fus omis(e)
+tu fus omis(e)
+il (elle) fut omis(e)
+nous fûmes omis(es)
+vous fûtes omis(es)
+ils (elles) furent omis(es)
+
+** Futur simple
+
+je serai omis(e)
+tu seras omis(e)
+il (elle) sera omis(e)
+nous serons omis(es)
+vous serez omis(es)
+ils (elles) seront omis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais omis(e)
+tu serais omis(e)
+il (elle) serait omis(e)
+nous serions omis(es)
+vous seriez omis(es)
+ils (elles) seraient omis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois omis(e)
+que tu sois omis(e)
+qu’il (elle) soit omis(e)
+que nous soyons omis(es)
+que vous soyez omis(es)
+qu’ils (elles) soient omis(es)
+
+** Imparfait
+
+que je fusse omis(e)
+que tu fusses omis(e)
+qu’il (elle) fût omis(e)
+que nous fussions omis(es)
+que vous fussiez omis(es)
+qu’ils (elles) fussent omis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons omis(es)
+soyez omis(es)
+
+* INFINITIF
+
+** Présent
+
+être omis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant omis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été omis(e)
+tu as été omis(e)
+il (elle) a été omis(e)
+nous avons été omis(es)
+vous avez été omis(es)
+ils (elles) ont été omis(es)
+
+** Plus-que-parfait
+
+j'avais été omis(e)
+il (elle) avait été omis(e)
+nous avions été omis(es)
+ils (elles) avaient été omis(es)
+
+** Passé antérieur
+
+j'eus été omis(e)
+tu eus été omis(e)
+il (elle) eut été omis(e)
+nous eûmes été omis(es)
+vous eûtes été omis(es)
+ils (elles) eurent été omis(es)
+
+** Futur antérieur
+
+j'aurai été omis(e)
+tu auras été omis(e)
+il (elle) aura été omis(e)
+nous aurons été omis(es)
+vous aurez été omis(es)
+ils (elles) auront été omis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été omis(e)
+j'aurais été omis(e)
+il (elle) aurait été omis(e)
+nous aurions été omis(es)
+vous auriez été omis(es)
+ils (elles) auraient été omis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été omis(e)
+que tu aies été omis(e)
+qu’il (elle) ait été omis(e)
+que nous ayons été omis(es)
+que vous ayez été omis(es)
+qu’ils (elles) aient été omis(es)
+
+** Plus-que-parfait
+
+que j'eusse été omis(e)
+que tu eusses été omis(e)
+qu’il (elle) eût été omis(e)
+que nous eussions été omis(es)
+que vous eussiez été omis(es)
+qu’ils (elles) eussent été omis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été omis(e)
+ayons été omis(es)
+ayez été omis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été omis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été omis (s, se, s, ses)

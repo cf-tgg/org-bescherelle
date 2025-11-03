@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe virer
+
+* INDICATIF
+
+** Présent
+
+je vire
+tu vires
+il (elle) vire
+nous virons
+vous virez
+ils (elles) virent
+
+** Imparfait
+
+je virais
+tu virais
+il (elle) virait
+nous virions
+vous viriez
+ils (elles) viraient
+
+** Passé simple
+
+je virai
+tu viras
+il (elle) vira
+nous virâmes
+vous virâtes
+ils (elles) virèrent
+
+** Futur simple
+
+je virerai
+tu vireras
+il (elle) virera
+nous virerons
+vous virerez
+ils (elles) vireront
+
+* CONDITIONNEL
+
+** Présent
+
+je virerais
+tu virerais
+il (elle) virerait
+nous virerions
+vous vireriez
+ils (elles) vireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vire
+que tu vires
+qu’il (elle) vire
+que nous virions
+que vous viriez
+qu’ils (elles) virent
+
+** Imparfait
+
+que je virasse
+que tu virasses
+qu’il (elle) virât
+que nous virassions
+que vous virassiez
+qu’ils (elles) virassent
+
+* IMPÉRATIF
+
+** Présent
+
+vire
+virons
+virez
+
+* INFINITIF
+
+** Présent
+
+virer
+
+* PARTICIPE
+
+** Présent
+
+virant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai viré
+tu as viré
+il (elle) a viré
+nous avons viré
+vous avez viré
+ils (elles) ont viré
+
+** Plus-que-parfait
+
+j'avais viré
+tu avais viré
+il (elle) avait viré
+nous avions viré
+vous aviez viré
+ils (elles) avaient viré
+
+** Passé antérieur
+
+j'eus viré
+tu eus viré
+il (elle) eut viré
+nous eûmes viré
+vous eûtes viré
+ils (elles) eurent viré
+
+** Futur antérieur
+
+j'aurai viré
+tu auras viré
+il (elle) aura viré
+nous aurons viré
+vous aurez viré
+ils (elles) auront viré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais viré
+tu aurais viré
+il (elle) aurait viré
+nous aurions viré
+vous auriez viré
+ils (elles) auraient viré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie viré
+que tu aies viré
+qu’il (elle) ait viré
+que nous ayons viré
+que vous ayez viré
+qu’ils (elles) aient viré
+
+** Plus-que-parfait
+
+que j'eusse viré
+que tu eusses viré
+qu’il (elle) eût viré
+que nous eussions viré
+que vous eussiez viré
+qu’ils (elles) eussent viré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons viré
+ayez viré
+
+* INFINITIF
+
+** Passé
+
+avoir viré
+
+* PARTICIPE
+
+** Passé
+
+ayant viré
+viré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis viré(e)
+tu es viré(e)
+il (elle) est viré(e)
+nous sommes viré(e)s
+vous êtes viré(e)s
+ils (elles) sont viré(e)s
+
+** Imparfait
+
+j'étais viré(e)
+tu étais viré(e)
+il (elle) était viré(e)
+nous étions viré(e)s
+vous étiez viré(e)s
+ils (elles) étaient viré(e)s
+
+** Passé simple
+
+je fus viré(e)
+tu fus viré(e)
+il (elle) fut viré(e)
+nous fûmes viré(e)s
+vous fûtes viré(e)s
+ils (elles) furent viré(e)s
+
+** Futur simple
+
+je serai viré(e)
+tu seras viré(e)
+il (elle) sera viré(e)
+nous serons viré(e)s
+vous serez viré(e)s
+ils (elles) seront viré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais viré(e)
+tu serais viré(e)
+il (elle) serait viré(e)
+nous serions viré(e)s
+vous seriez viré(e)s
+ils (elles) seraient viré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois viré(e)
+que tu sois viré(e)
+qu’il (elle) soit viré(e)
+que nous soyons viré(e)s
+que vous soyez viré(e)s
+qu’ils (elles) soient viré(e)s
+
+** Imparfait
+
+que je fusse viré(e)
+que tu fusses viré(e)
+qu’il (elle) fût viré(e)
+que nous fussions viré(e)s
+que vous fussiez viré(e)s
+qu’ils (elles) fussent viré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons viré(e)s
+soyez viré(e)s
+
+* INFINITIF
+
+** Présent
+
+être viré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant viré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été viré(e)
+tu as été viré(e)
+il (elle) a été viré(e)
+nous avons été viré(e)s
+vous avez été viré(e)s
+ils (elles) ont été viré(e)s
+
+** Plus-que-parfait
+
+j'avais été viré(e)
+il (elle) avait été viré(e)
+nous avions été viré(e)s
+ils (elles) avaient été viré(e)s
+
+** Passé antérieur
+
+j'eus été viré(e)
+tu eus été viré(e)
+il (elle) eut été viré(e)
+nous eûmes été viré(e)s
+vous eûtes été viré(e)s
+ils (elles) eurent été viré(e)s
+
+** Futur antérieur
+
+j'aurai été viré(e)
+tu auras été viré(e)
+il (elle) aura été viré(e)
+nous aurons été viré(e)s
+vous aurez été viré(e)s
+ils (elles) auront été viré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été viré(e)
+j'aurais été viré(e)
+il (elle) aurait été viré(e)
+nous aurions été viré(e)s
+vous auriez été viré(e)s
+ils (elles) auraient été viré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été viré(e)
+que tu aies été viré(e)
+qu’il (elle) ait été viré(e)
+que nous ayons été viré(e)s
+que vous ayez été viré(e)s
+qu’ils (elles) aient été viré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été viré(e)
+que tu eusses été viré(e)
+qu’il (elle) eût été viré(e)
+que nous eussions été viré(e)s
+que vous eussiez été viré(e)s
+qu’ils (elles) eussent été viré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été viré(e)
+ayons été viré(e)s
+ayez été viré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été viré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été viré(e)(s)

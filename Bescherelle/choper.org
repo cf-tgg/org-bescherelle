@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe choper
+
+* INDICATIF
+
+** Présent
+
+je chope
+tu chopes
+il (elle) chope
+nous chopons
+vous chopez
+ils (elles) chopent
+
+** Imparfait
+
+je chopais
+tu chopais
+il (elle) chopait
+nous chopions
+vous chopiez
+ils (elles) chopaient
+
+** Passé simple
+
+je chopai
+tu chopas
+il (elle) chopa
+nous chopâmes
+vous chopâtes
+ils (elles) chopèrent
+
+** Futur simple
+
+je choperai
+tu choperas
+il (elle) chopera
+nous choperons
+vous choperez
+ils (elles) choperont
+
+* CONDITIONNEL
+
+** Présent
+
+je choperais
+tu choperais
+il (elle) choperait
+nous choperions
+vous choperiez
+ils (elles) choperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chope
+que tu chopes
+qu’il (elle) chope
+que nous chopions
+que vous chopiez
+qu’ils (elles) chopent
+
+** Imparfait
+
+que je chopasse
+que tu chopasses
+qu’il (elle) chopât
+que nous chopassions
+que vous chopassiez
+qu’ils (elles) chopassent
+
+* IMPÉRATIF
+
+** Présent
+
+chope
+chopons
+chopez
+
+* INFINITIF
+
+** Présent
+
+choper
+
+* PARTICIPE
+
+** Présent
+
+chopant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chopé
+tu as chopé
+il (elle) a chopé
+nous avons chopé
+vous avez chopé
+ils (elles) ont chopé
+
+** Plus-que-parfait
+
+j'avais chopé
+tu avais chopé
+il (elle) avait chopé
+nous avions chopé
+vous aviez chopé
+ils (elles) avaient chopé
+
+** Passé antérieur
+
+j'eus chopé
+tu eus chopé
+il (elle) eut chopé
+nous eûmes chopé
+vous eûtes chopé
+ils (elles) eurent chopé
+
+** Futur antérieur
+
+j'aurai chopé
+tu auras chopé
+il (elle) aura chopé
+nous aurons chopé
+vous aurez chopé
+ils (elles) auront chopé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chopé
+tu aurais chopé
+il (elle) aurait chopé
+nous aurions chopé
+vous auriez chopé
+ils (elles) auraient chopé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chopé
+que tu aies chopé
+qu’il (elle) ait chopé
+que nous ayons chopé
+que vous ayez chopé
+qu’ils (elles) aient chopé
+
+** Plus-que-parfait
+
+que j'eusse chopé
+que tu eusses chopé
+qu’il (elle) eût chopé
+que nous eussions chopé
+que vous eussiez chopé
+qu’ils (elles) eussent chopé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chopé
+ayez chopé
+
+* INFINITIF
+
+** Passé
+
+avoir chopé
+
+* PARTICIPE
+
+** Passé
+
+ayant chopé
+chopé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chopé(e)
+tu es chopé(e)
+il (elle) est chopé(e)
+nous sommes chopé(e)s
+vous êtes chopé(e)s
+ils (elles) sont chopé(e)s
+
+** Imparfait
+
+j'étais chopé(e)
+tu étais chopé(e)
+il (elle) était chopé(e)
+nous étions chopé(e)s
+vous étiez chopé(e)s
+ils (elles) étaient chopé(e)s
+
+** Passé simple
+
+je fus chopé(e)
+tu fus chopé(e)
+il (elle) fut chopé(e)
+nous fûmes chopé(e)s
+vous fûtes chopé(e)s
+ils (elles) furent chopé(e)s
+
+** Futur simple
+
+je serai chopé(e)
+tu seras chopé(e)
+il (elle) sera chopé(e)
+nous serons chopé(e)s
+vous serez chopé(e)s
+ils (elles) seront chopé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chopé(e)
+tu serais chopé(e)
+il (elle) serait chopé(e)
+nous serions chopé(e)s
+vous seriez chopé(e)s
+ils (elles) seraient chopé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chopé(e)
+que tu sois chopé(e)
+qu’il (elle) soit chopé(e)
+que nous soyons chopé(e)s
+que vous soyez chopé(e)s
+qu’ils (elles) soient chopé(e)s
+
+** Imparfait
+
+que je fusse chopé(e)
+que tu fusses chopé(e)
+qu’il (elle) fût chopé(e)
+que nous fussions chopé(e)s
+que vous fussiez chopé(e)s
+qu’ils (elles) fussent chopé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chopé(e)s
+soyez chopé(e)s
+
+* INFINITIF
+
+** Présent
+
+être chopé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chopé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chopé(e)
+tu as été chopé(e)
+il (elle) a été chopé(e)
+nous avons été chopé(e)s
+vous avez été chopé(e)s
+ils (elles) ont été chopé(e)s
+
+** Plus-que-parfait
+
+j'avais été chopé(e)
+il (elle) avait été chopé(e)
+nous avions été chopé(e)s
+ils (elles) avaient été chopé(e)s
+
+** Passé antérieur
+
+j'eus été chopé(e)
+tu eus été chopé(e)
+il (elle) eut été chopé(e)
+nous eûmes été chopé(e)s
+vous eûtes été chopé(e)s
+ils (elles) eurent été chopé(e)s
+
+** Futur antérieur
+
+j'aurai été chopé(e)
+tu auras été chopé(e)
+il (elle) aura été chopé(e)
+nous aurons été chopé(e)s
+vous aurez été chopé(e)s
+ils (elles) auront été chopé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chopé(e)
+j'aurais été chopé(e)
+il (elle) aurait été chopé(e)
+nous aurions été chopé(e)s
+vous auriez été chopé(e)s
+ils (elles) auraient été chopé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chopé(e)
+que tu aies été chopé(e)
+qu’il (elle) ait été chopé(e)
+que nous ayons été chopé(e)s
+que vous ayez été chopé(e)s
+qu’ils (elles) aient été chopé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chopé(e)
+que tu eusses été chopé(e)
+qu’il (elle) eût été chopé(e)
+que nous eussions été chopé(e)s
+que vous eussiez été chopé(e)s
+qu’ils (elles) eussent été chopé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chopé(e)
+ayons été chopé(e)s
+ayez été chopé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chopé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chopé(e)(s)

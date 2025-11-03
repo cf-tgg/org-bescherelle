@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe toquer
+
+* INDICATIF
+
+** Présent
+
+je toque
+tu toques
+il (elle) toque
+nous toquons
+vous toquez
+ils (elles) toquent
+
+** Imparfait
+
+je toquais
+tu toquais
+il (elle) toquait
+nous toquions
+vous toquiez
+ils (elles) toquaient
+
+** Passé simple
+
+je toquai
+tu toquas
+il (elle) toqua
+nous toquâmes
+vous toquâtes
+ils (elles) toquèrent
+
+** Futur simple
+
+je toquerai
+tu toqueras
+il (elle) toquera
+nous toquerons
+vous toquerez
+ils (elles) toqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je toquerais
+tu toquerais
+il (elle) toquerait
+nous toquerions
+vous toqueriez
+ils (elles) toqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je toque
+que tu toques
+qu’il (elle) toque
+que nous toquions
+que vous toquiez
+qu’ils (elles) toquent
+
+** Imparfait
+
+que je toquasse
+que tu toquasses
+qu’il (elle) toquât
+que nous toquassions
+que vous toquassiez
+qu’ils (elles) toquassent
+
+* IMPÉRATIF
+
+** Présent
+
+toque
+toquons
+toquez
+
+* INFINITIF
+
+** Présent
+
+toquer
+
+* PARTICIPE
+
+** Présent
+
+toquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai toqué
+tu as toqué
+il (elle) a toqué
+nous avons toqué
+vous avez toqué
+ils (elles) ont toqué
+
+** Plus-que-parfait
+
+j'avais toqué
+tu avais toqué
+il (elle) avait toqué
+nous avions toqué
+vous aviez toqué
+ils (elles) avaient toqué
+
+** Passé antérieur
+
+j'eus toqué
+tu eus toqué
+il (elle) eut toqué
+nous eûmes toqué
+vous eûtes toqué
+ils (elles) eurent toqué
+
+** Futur antérieur
+
+j'aurai toqué
+tu auras toqué
+il (elle) aura toqué
+nous aurons toqué
+vous aurez toqué
+ils (elles) auront toqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais toqué
+tu aurais toqué
+il (elle) aurait toqué
+nous aurions toqué
+vous auriez toqué
+ils (elles) auraient toqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie toqué
+que tu aies toqué
+qu’il (elle) ait toqué
+que nous ayons toqué
+que vous ayez toqué
+qu’ils (elles) aient toqué
+
+** Plus-que-parfait
+
+que j'eusse toqué
+que tu eusses toqué
+qu’il (elle) eût toqué
+que nous eussions toqué
+que vous eussiez toqué
+qu’ils (elles) eussent toqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons toqué
+ayez toqué
+
+* INFINITIF
+
+** Passé
+
+avoir toqué
+
+* PARTICIPE
+
+** Passé
+
+ayant toqué
+toqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis toqué(e)
+tu es toqué(e)
+il (elle) est toqué(e)
+nous sommes toqué(e)s
+vous êtes toqué(e)s
+ils (elles) sont toqué(e)s
+
+** Imparfait
+
+j'étais toqué(e)
+tu étais toqué(e)
+il (elle) était toqué(e)
+nous étions toqué(e)s
+vous étiez toqué(e)s
+ils (elles) étaient toqué(e)s
+
+** Passé simple
+
+je fus toqué(e)
+tu fus toqué(e)
+il (elle) fut toqué(e)
+nous fûmes toqué(e)s
+vous fûtes toqué(e)s
+ils (elles) furent toqué(e)s
+
+** Futur simple
+
+je serai toqué(e)
+tu seras toqué(e)
+il (elle) sera toqué(e)
+nous serons toqué(e)s
+vous serez toqué(e)s
+ils (elles) seront toqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais toqué(e)
+tu serais toqué(e)
+il (elle) serait toqué(e)
+nous serions toqué(e)s
+vous seriez toqué(e)s
+ils (elles) seraient toqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois toqué(e)
+que tu sois toqué(e)
+qu’il (elle) soit toqué(e)
+que nous soyons toqué(e)s
+que vous soyez toqué(e)s
+qu’ils (elles) soient toqué(e)s
+
+** Imparfait
+
+que je fusse toqué(e)
+que tu fusses toqué(e)
+qu’il (elle) fût toqué(e)
+que nous fussions toqué(e)s
+que vous fussiez toqué(e)s
+qu’ils (elles) fussent toqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons toqué(e)s
+soyez toqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être toqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant toqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été toqué(e)
+tu as été toqué(e)
+il (elle) a été toqué(e)
+nous avons été toqué(e)s
+vous avez été toqué(e)s
+ils (elles) ont été toqué(e)s
+
+** Plus-que-parfait
+
+j'avais été toqué(e)
+il (elle) avait été toqué(e)
+nous avions été toqué(e)s
+ils (elles) avaient été toqué(e)s
+
+** Passé antérieur
+
+j'eus été toqué(e)
+tu eus été toqué(e)
+il (elle) eut été toqué(e)
+nous eûmes été toqué(e)s
+vous eûtes été toqué(e)s
+ils (elles) eurent été toqué(e)s
+
+** Futur antérieur
+
+j'aurai été toqué(e)
+tu auras été toqué(e)
+il (elle) aura été toqué(e)
+nous aurons été toqué(e)s
+vous aurez été toqué(e)s
+ils (elles) auront été toqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été toqué(e)
+j'aurais été toqué(e)
+il (elle) aurait été toqué(e)
+nous aurions été toqué(e)s
+vous auriez été toqué(e)s
+ils (elles) auraient été toqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été toqué(e)
+que tu aies été toqué(e)
+qu’il (elle) ait été toqué(e)
+que nous ayons été toqué(e)s
+que vous ayez été toqué(e)s
+qu’ils (elles) aient été toqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été toqué(e)
+que tu eusses été toqué(e)
+qu’il (elle) eût été toqué(e)
+que nous eussions été toqué(e)s
+que vous eussiez été toqué(e)s
+qu’ils (elles) eussent été toqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été toqué(e)
+ayons été toqué(e)s
+ayez été toqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été toqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été toqué(e)(s)

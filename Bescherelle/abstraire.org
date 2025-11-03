@@ -1,0 +1,336 @@
+#+title: Conjugaison du verbe abstraire
+
+* INDICATIF
+
+** Présent
+
+j'abstrais
+tu abstrais
+il (elle) abstrait
+nous abstrayons
+vous abstrayez
+ils (elles) abstraient
+
+** Imparfait
+
+j'abstrayais
+tu abstrayais
+il (elle) abstrayait
+nous abstrayions
+vous abstrayiez
+ils (elles) abstrayaient
+
+** Futur simple
+
+j'abstrairai
+tu abstrairas
+il (elle) abstraira
+nous abstrairons
+vous abstrairez
+ils (elles) abstrairont
+
+* CONDITIONNEL
+
+** Présent
+
+j'abstrairais
+tu abstrairais
+il (elle) abstrairait
+nous abstrairions
+vous abstrairiez
+ils (elles) abstrairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abstraie
+que tu abstraies
+qu’il (elle) abstraie
+que nous abstrayions
+que vous abstrayiez
+qu’ils (elles) abstraient
+
+* IMPÉRATIF
+
+** Présent
+
+abstrais
+abstrayons
+abstrayez
+
+* INFINITIF
+
+** Présent
+
+abstraire
+
+* PARTICIPE
+
+** Présent
+
+abstrayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abstrait
+tu as abstrait
+il (elle) a abstrait
+nous avons abstrait
+vous avez abstrait
+ils (elles) ont abstrait
+
+** Plus-que-parfait
+
+j'avais abstrait
+tu avais abstrait
+il (elle) avait abstrait
+nous avions abstrait
+vous aviez abstrait
+ils (elles) avaient abstrait
+
+** Passé antérieur
+
+j'eus abstrait
+tu eus abstrait
+il (elle) eut abstrait
+nous eûmes abstrait
+vous eûtes abstrait
+ils (elles) eurent abstrait
+
+** Futur antérieur
+
+j'aurai abstrait
+tu auras abstrait
+il (elle) aura abstrait
+nous aurons abstrait
+vous aurez abstrait
+ils (elles) auront abstrait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abstrait
+tu aurais abstrait
+il (elle) aurait abstrait
+nous aurions abstrait
+vous auriez abstrait
+ils (elles) auraient abstrait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abstrait
+que tu aies abstrait
+qu’il (elle) ait abstrait
+que nous ayons abstrait
+que vous ayez abstrait
+qu’ils (elles) aient abstrait
+
+** Plus-que-parfait
+
+que j'eusse abstrait
+que tu eusses abstrait
+qu’il (elle) eût abstrait
+que nous eussions abstrait
+que vous eussiez abstrait
+qu’ils (elles) eussent abstrait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abstrait
+ayez abstrait
+
+* INFINITIF
+
+** Passé
+
+avoir abstrait
+
+* PARTICIPE
+
+** Passé
+
+ayant abstrait
+abstrait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis abstrait(e)
+tu es abstrait(e)
+il (elle) est abstrait(e)
+nous sommes abstrait(e)s
+vous êtes abstrait(e)s
+ils (elles) sont abstrait(e)s
+
+** Imparfait
+
+j'étais abstrait(e)
+tu étais abstrait(e)
+il (elle) était abstrait(e)
+nous étions abstrait(e)s
+vous étiez abstrait(e)s
+ils (elles) étaient abstrait(e)s
+
+** Passé simple
+
+je fus abstrait(e)
+tu fus abstrait(e)
+il (elle) fut abstrait(e)
+nous fûmes abstrait(e)s
+vous fûtes abstrait(e)s
+ils (elles) furent abstrait(e)s
+
+** Futur simple
+
+je serai abstrait(e)
+tu seras abstrait(e)
+il (elle) sera abstrait(e)
+nous serons abstrait(e)s
+vous serez abstrait(e)s
+ils (elles) seront abstrait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abstrait(e)
+tu serais abstrait(e)
+il (elle) serait abstrait(e)
+nous serions abstrait(e)s
+vous seriez abstrait(e)s
+ils (elles) seraient abstrait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abstrait(e)
+que tu sois abstrait(e)
+qu’il (elle) soit abstrait(e)
+que nous soyons abstrait(e)s
+que vous soyez abstrait(e)s
+qu’ils (elles) soient abstrait(e)s
+
+** Imparfait
+
+que je fusse abstrait(e)
+que tu fusses abstrait(e)
+qu’il (elle) fût abstrait(e)
+que nous fussions abstrait(e)s
+que vous fussiez abstrait(e)s
+qu’ils (elles) fussent abstrait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abstrait(e)s
+soyez abstrait(e)s
+
+* INFINITIF
+
+** Présent
+
+être abstrait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abstrait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abstrait(e)
+tu as été abstrait(e)
+il (elle) a été abstrait(e)
+nous avons été abstrait(e)s
+vous avez été abstrait(e)s
+ils (elles) ont été abstrait(e)s
+
+** Plus-que-parfait
+
+j'avais été abstrait(e)
+il (elle) avait été abstrait(e)
+nous avions été abstrait(e)s
+ils (elles) avaient été abstrait(e)s
+
+** Passé antérieur
+
+j'eus été abstrait(e)
+tu eus été abstrait(e)
+il (elle) eut été abstrait(e)
+nous eûmes été abstrait(e)s
+vous eûtes été abstrait(e)s
+ils (elles) eurent été abstrait(e)s
+
+** Futur antérieur
+
+j'aurai été abstrait(e)
+tu auras été abstrait(e)
+il (elle) aura été abstrait(e)
+nous aurons été abstrait(e)s
+vous aurez été abstrait(e)s
+ils (elles) auront été abstrait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abstrait(e)
+j'aurais été abstrait(e)
+il (elle) aurait été abstrait(e)
+nous aurions été abstrait(e)s
+vous auriez été abstrait(e)s
+ils (elles) auraient été abstrait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abstrait(e)
+que tu aies été abstrait(e)
+qu’il (elle) ait été abstrait(e)
+que nous ayons été abstrait(e)s
+que vous ayez été abstrait(e)s
+qu’ils (elles) aient été abstrait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abstrait(e)
+que tu eusses été abstrait(e)
+qu’il (elle) eût été abstrait(e)
+que nous eussions été abstrait(e)s
+que vous eussiez été abstrait(e)s
+qu’ils (elles) eussent été abstrait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abstrait(e)
+ayons été abstrait(e)s
+ayez été abstrait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abstrait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abstrait(e)(s)

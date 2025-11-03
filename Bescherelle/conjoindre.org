@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conjoindre
+
+* INDICATIF
+
+** Présent
+
+je conjoins
+tu conjoins
+il (elle) conjoint
+nous conjoignons
+vous conjoignez
+ils (elles) conjoignent
+
+** Imparfait
+
+je conjoignais
+tu conjoignais
+il (elle) conjoignait
+nous conjoignions
+vous conjoigniez
+ils (elles) conjoignaient
+
+** Passé simple
+
+je conjoignis
+tu conjoignis
+il (elle) conjoignit
+nous conjoignîmes
+vous conjoignîtes
+ils (elles) conjoignirent
+
+** Futur simple
+
+je conjoindrai
+tu conjoindras
+il (elle) conjoindra
+nous conjoindrons
+vous conjoindrez
+ils (elles) conjoindront
+
+* CONDITIONNEL
+
+** Présent
+
+je conjoindrais
+tu conjoindrais
+il (elle) conjoindrait
+nous conjoindrions
+vous conjoindriez
+ils (elles) conjoindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conjoigne
+que tu conjoignes
+qu’il (elle) conjoigne
+que nous conjoignions
+que vous conjoigniez
+qu’ils (elles) conjoignent
+
+** Imparfait
+
+que je conjoignisse
+que tu conjoignisses
+qu’il (elle) conjoignît
+que nous conjoignissions
+que vous conjoignissiez
+qu’ils (elles) conjoignissent
+
+* IMPÉRATIF
+
+** Présent
+
+conjoins
+conjoignons
+conjoignez
+
+* INFINITIF
+
+** Présent
+
+conjoindre
+
+* PARTICIPE
+
+** Présent
+
+conjoignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conjoint
+tu as conjoint
+il (elle) a conjoint
+nous avons conjoint
+vous avez conjoint
+ils (elles) ont conjoint
+
+** Plus-que-parfait
+
+j'avais conjoint
+tu avais conjoint
+il (elle) avait conjoint
+nous avions conjoint
+vous aviez conjoint
+ils (elles) avaient conjoint
+
+** Passé antérieur
+
+j'eus conjoint
+tu eus conjoint
+il (elle) eut conjoint
+nous eûmes conjoint
+vous eûtes conjoint
+ils (elles) eurent conjoint
+
+** Futur antérieur
+
+j'aurai conjoint
+tu auras conjoint
+il (elle) aura conjoint
+nous aurons conjoint
+vous aurez conjoint
+ils (elles) auront conjoint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conjoint
+tu aurais conjoint
+il (elle) aurait conjoint
+nous aurions conjoint
+vous auriez conjoint
+ils (elles) auraient conjoint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conjoint
+que tu aies conjoint
+qu’il (elle) ait conjoint
+que nous ayons conjoint
+que vous ayez conjoint
+qu’ils (elles) aient conjoint
+
+** Plus-que-parfait
+
+que j'eusse conjoint
+que tu eusses conjoint
+qu’il (elle) eût conjoint
+que nous eussions conjoint
+que vous eussiez conjoint
+qu’ils (elles) eussent conjoint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conjoint
+ayez conjoint
+
+* INFINITIF
+
+** Passé
+
+avoir conjoint
+
+* PARTICIPE
+
+** Passé
+
+ayant conjoint
+conjoint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis conjoint(e)
+tu es conjoint(e)
+il (elle) est conjoint(e)
+nous sommes conjoint(e)s
+vous êtes conjoint(e)s
+ils (elles) sont conjoint(e)s
+
+** Imparfait
+
+j'étais conjoint(e)
+tu étais conjoint(e)
+il (elle) était conjoint(e)
+nous étions conjoint(e)s
+vous étiez conjoint(e)s
+ils (elles) étaient conjoint(e)s
+
+** Passé simple
+
+je fus conjoint(e)
+tu fus conjoint(e)
+il (elle) fut conjoint(e)
+nous fûmes conjoint(e)s
+vous fûtes conjoint(e)s
+ils (elles) furent conjoint(e)s
+
+** Futur simple
+
+je serai conjoint(e)
+tu seras conjoint(e)
+il (elle) sera conjoint(e)
+nous serons conjoint(e)s
+vous serez conjoint(e)s
+ils (elles) seront conjoint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conjoint(e)
+tu serais conjoint(e)
+il (elle) serait conjoint(e)
+nous serions conjoint(e)s
+vous seriez conjoint(e)s
+ils (elles) seraient conjoint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conjoint(e)
+que tu sois conjoint(e)
+qu’il (elle) soit conjoint(e)
+que nous soyons conjoint(e)s
+que vous soyez conjoint(e)s
+qu’ils (elles) soient conjoint(e)s
+
+** Imparfait
+
+que je fusse conjoint(e)
+que tu fusses conjoint(e)
+qu’il (elle) fût conjoint(e)
+que nous fussions conjoint(e)s
+que vous fussiez conjoint(e)s
+qu’ils (elles) fussent conjoint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conjoint(e)s
+soyez conjoint(e)s
+
+* INFINITIF
+
+** Présent
+
+être conjoint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conjoint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conjoint(e)
+tu as été conjoint(e)
+il (elle) a été conjoint(e)
+nous avons été conjoint(e)s
+vous avez été conjoint(e)s
+ils (elles) ont été conjoint(e)s
+
+** Plus-que-parfait
+
+j'avais été conjoint(e)
+il (elle) avait été conjoint(e)
+nous avions été conjoint(e)s
+ils (elles) avaient été conjoint(e)s
+
+** Passé antérieur
+
+j'eus été conjoint(e)
+tu eus été conjoint(e)
+il (elle) eut été conjoint(e)
+nous eûmes été conjoint(e)s
+vous eûtes été conjoint(e)s
+ils (elles) eurent été conjoint(e)s
+
+** Futur antérieur
+
+j'aurai été conjoint(e)
+tu auras été conjoint(e)
+il (elle) aura été conjoint(e)
+nous aurons été conjoint(e)s
+vous aurez été conjoint(e)s
+ils (elles) auront été conjoint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conjoint(e)
+j'aurais été conjoint(e)
+il (elle) aurait été conjoint(e)
+nous aurions été conjoint(e)s
+vous auriez été conjoint(e)s
+ils (elles) auraient été conjoint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conjoint(e)
+que tu aies été conjoint(e)
+qu’il (elle) ait été conjoint(e)
+que nous ayons été conjoint(e)s
+que vous ayez été conjoint(e)s
+qu’ils (elles) aient été conjoint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conjoint(e)
+que tu eusses été conjoint(e)
+qu’il (elle) eût été conjoint(e)
+que nous eussions été conjoint(e)s
+que vous eussiez été conjoint(e)s
+qu’ils (elles) eussent été conjoint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conjoint(e)
+ayons été conjoint(e)s
+ayez été conjoint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conjoint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conjoint(e)(s)

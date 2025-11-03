@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe embaucher
+
+* INDICATIF
+
+** Présent
+
+j'embauche
+tu embauches
+il (elle) embauche
+nous embauchons
+vous embauchez
+ils (elles) embauchent
+
+** Imparfait
+
+j'embauchais
+tu embauchais
+il (elle) embauchait
+nous embauchions
+vous embauchiez
+ils (elles) embauchaient
+
+** Passé simple
+
+j'embauchai
+tu embauchas
+il (elle) embaucha
+nous embauchâmes
+vous embauchâtes
+ils (elles) embauchèrent
+
+** Futur simple
+
+j'embaucherai
+tu embaucheras
+il (elle) embauchera
+nous embaucherons
+vous embaucherez
+ils (elles) embaucheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'embaucherais
+tu embaucherais
+il (elle) embaucherait
+nous embaucherions
+vous embaucheriez
+ils (elles) embaucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'embauche
+que tu embauches
+qu’il (elle) embauche
+que nous embauchions
+que vous embauchiez
+qu’ils (elles) embauchent
+
+** Imparfait
+
+que j'embauchasse
+que tu embauchasses
+qu’il (elle) embauchât
+que nous embauchassions
+que vous embauchassiez
+qu’ils (elles) embauchassent
+
+* IMPÉRATIF
+
+** Présent
+
+embauche
+embauchons
+embauchez
+
+* INFINITIF
+
+** Présent
+
+embaucher
+
+* PARTICIPE
+
+** Présent
+
+embauchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai embauché
+tu as embauché
+il (elle) a embauché
+nous avons embauché
+vous avez embauché
+ils (elles) ont embauché
+
+** Plus-que-parfait
+
+j'avais embauché
+tu avais embauché
+il (elle) avait embauché
+nous avions embauché
+vous aviez embauché
+ils (elles) avaient embauché
+
+** Passé antérieur
+
+j'eus embauché
+tu eus embauché
+il (elle) eut embauché
+nous eûmes embauché
+vous eûtes embauché
+ils (elles) eurent embauché
+
+** Futur antérieur
+
+j'aurai embauché
+tu auras embauché
+il (elle) aura embauché
+nous aurons embauché
+vous aurez embauché
+ils (elles) auront embauché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais embauché
+tu aurais embauché
+il (elle) aurait embauché
+nous aurions embauché
+vous auriez embauché
+ils (elles) auraient embauché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie embauché
+que tu aies embauché
+qu’il (elle) ait embauché
+que nous ayons embauché
+que vous ayez embauché
+qu’ils (elles) aient embauché
+
+** Plus-que-parfait
+
+que j'eusse embauché
+que tu eusses embauché
+qu’il (elle) eût embauché
+que nous eussions embauché
+que vous eussiez embauché
+qu’ils (elles) eussent embauché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons embauché
+ayez embauché
+
+* INFINITIF
+
+** Passé
+
+avoir embauché
+
+* PARTICIPE
+
+** Passé
+
+ayant embauché
+embauché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis embauché(e)
+tu es embauché(e)
+il (elle) est embauché(e)
+nous sommes embauché(e)s
+vous êtes embauché(e)s
+ils (elles) sont embauché(e)s
+
+** Imparfait
+
+j'étais embauché(e)
+tu étais embauché(e)
+il (elle) était embauché(e)
+nous étions embauché(e)s
+vous étiez embauché(e)s
+ils (elles) étaient embauché(e)s
+
+** Passé simple
+
+je fus embauché(e)
+tu fus embauché(e)
+il (elle) fut embauché(e)
+nous fûmes embauché(e)s
+vous fûtes embauché(e)s
+ils (elles) furent embauché(e)s
+
+** Futur simple
+
+je serai embauché(e)
+tu seras embauché(e)
+il (elle) sera embauché(e)
+nous serons embauché(e)s
+vous serez embauché(e)s
+ils (elles) seront embauché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais embauché(e)
+tu serais embauché(e)
+il (elle) serait embauché(e)
+nous serions embauché(e)s
+vous seriez embauché(e)s
+ils (elles) seraient embauché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois embauché(e)
+que tu sois embauché(e)
+qu’il (elle) soit embauché(e)
+que nous soyons embauché(e)s
+que vous soyez embauché(e)s
+qu’ils (elles) soient embauché(e)s
+
+** Imparfait
+
+que je fusse embauché(e)
+que tu fusses embauché(e)
+qu’il (elle) fût embauché(e)
+que nous fussions embauché(e)s
+que vous fussiez embauché(e)s
+qu’ils (elles) fussent embauché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons embauché(e)s
+soyez embauché(e)s
+
+* INFINITIF
+
+** Présent
+
+être embauché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant embauché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été embauché(e)
+tu as été embauché(e)
+il (elle) a été embauché(e)
+nous avons été embauché(e)s
+vous avez été embauché(e)s
+ils (elles) ont été embauché(e)s
+
+** Plus-que-parfait
+
+j'avais été embauché(e)
+il (elle) avait été embauché(e)
+nous avions été embauché(e)s
+ils (elles) avaient été embauché(e)s
+
+** Passé antérieur
+
+j'eus été embauché(e)
+tu eus été embauché(e)
+il (elle) eut été embauché(e)
+nous eûmes été embauché(e)s
+vous eûtes été embauché(e)s
+ils (elles) eurent été embauché(e)s
+
+** Futur antérieur
+
+j'aurai été embauché(e)
+tu auras été embauché(e)
+il (elle) aura été embauché(e)
+nous aurons été embauché(e)s
+vous aurez été embauché(e)s
+ils (elles) auront été embauché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été embauché(e)
+j'aurais été embauché(e)
+il (elle) aurait été embauché(e)
+nous aurions été embauché(e)s
+vous auriez été embauché(e)s
+ils (elles) auraient été embauché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été embauché(e)
+que tu aies été embauché(e)
+qu’il (elle) ait été embauché(e)
+que nous ayons été embauché(e)s
+que vous ayez été embauché(e)s
+qu’ils (elles) aient été embauché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été embauché(e)
+que tu eusses été embauché(e)
+qu’il (elle) eût été embauché(e)
+que nous eussions été embauché(e)s
+que vous eussiez été embauché(e)s
+qu’ils (elles) eussent été embauché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été embauché(e)
+ayons été embauché(e)s
+ayez été embauché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été embauché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été embauché(e)(s)

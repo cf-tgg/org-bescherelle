@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe airer
+
+* INDICATIF
+
+** Présent
+
+j'aire
+tu aires
+il (elle) aire
+nous airons
+vous airez
+ils (elles) airent
+
+** Imparfait
+
+j'airais
+tu airais
+il (elle) airait
+nous airions
+vous airiez
+ils (elles) airaient
+
+** Passé simple
+
+j'airai
+tu airas
+il (elle) aira
+nous airâmes
+vous airâtes
+ils (elles) airèrent
+
+** Futur simple
+
+j'airerai
+tu aireras
+il (elle) airera
+nous airerons
+vous airerez
+ils (elles) aireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'airerais
+tu airerais
+il (elle) airerait
+nous airerions
+vous aireriez
+ils (elles) aireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aire
+que tu aires
+qu’il (elle) aire
+que nous airions
+que vous airiez
+qu’ils (elles) airent
+
+** Imparfait
+
+que j'airasse
+que tu airasses
+qu’il (elle) airât
+que nous airassions
+que vous airassiez
+qu’ils (elles) airassent
+
+* IMPÉRATIF
+
+** Présent
+
+aire
+airons
+airez
+
+* INFINITIF
+
+** Présent
+
+airer
+
+* PARTICIPE
+
+** Présent
+
+airant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai airé
+tu as airé
+il (elle) a airé
+nous avons airé
+vous avez airé
+ils (elles) ont airé
+
+** Plus-que-parfait
+
+j'avais airé
+tu avais airé
+il (elle) avait airé
+nous avions airé
+vous aviez airé
+ils (elles) avaient airé
+
+** Passé antérieur
+
+j'eus airé
+tu eus airé
+il (elle) eut airé
+nous eûmes airé
+vous eûtes airé
+ils (elles) eurent airé
+
+** Futur antérieur
+
+j'aurai airé
+tu auras airé
+il (elle) aura airé
+nous aurons airé
+vous aurez airé
+ils (elles) auront airé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais airé
+tu aurais airé
+il (elle) aurait airé
+nous aurions airé
+vous auriez airé
+ils (elles) auraient airé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie airé
+que tu aies airé
+qu’il (elle) ait airé
+que nous ayons airé
+que vous ayez airé
+qu’ils (elles) aient airé
+
+** Plus-que-parfait
+
+que j'eusse airé
+que tu eusses airé
+qu’il (elle) eût airé
+que nous eussions airé
+que vous eussiez airé
+qu’ils (elles) eussent airé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons airé
+ayez airé
+
+* INFINITIF
+
+** Passé
+
+avoir airé
+
+* PARTICIPE
+
+** Passé
+
+ayant airé
+airé (invar.)

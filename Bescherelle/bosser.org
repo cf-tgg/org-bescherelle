@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bosser
+
+* INDICATIF
+
+** Présent
+
+je bosse
+tu bosses
+il (elle) bosse
+nous bossons
+vous bossez
+ils (elles) bossent
+
+** Imparfait
+
+je bossais
+tu bossais
+il (elle) bossait
+nous bossions
+vous bossiez
+ils (elles) bossaient
+
+** Passé simple
+
+je bossai
+tu bossas
+il (elle) bossa
+nous bossâmes
+vous bossâtes
+ils (elles) bossèrent
+
+** Futur simple
+
+je bosserai
+tu bosseras
+il (elle) bossera
+nous bosserons
+vous bosserez
+ils (elles) bosseront
+
+* CONDITIONNEL
+
+** Présent
+
+je bosserais
+tu bosserais
+il (elle) bosserait
+nous bosserions
+vous bosseriez
+ils (elles) bosseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bosse
+que tu bosses
+qu’il (elle) bosse
+que nous bossions
+que vous bossiez
+qu’ils (elles) bossent
+
+** Imparfait
+
+que je bossasse
+que tu bossasses
+qu’il (elle) bossât
+que nous bossassions
+que vous bossassiez
+qu’ils (elles) bossassent
+
+* IMPÉRATIF
+
+** Présent
+
+bosse
+bossons
+bossez
+
+* INFINITIF
+
+** Présent
+
+bosser
+
+* PARTICIPE
+
+** Présent
+
+bossant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bossé
+tu as bossé
+il (elle) a bossé
+nous avons bossé
+vous avez bossé
+ils (elles) ont bossé
+
+** Plus-que-parfait
+
+j'avais bossé
+tu avais bossé
+il (elle) avait bossé
+nous avions bossé
+vous aviez bossé
+ils (elles) avaient bossé
+
+** Passé antérieur
+
+j'eus bossé
+tu eus bossé
+il (elle) eut bossé
+nous eûmes bossé
+vous eûtes bossé
+ils (elles) eurent bossé
+
+** Futur antérieur
+
+j'aurai bossé
+tu auras bossé
+il (elle) aura bossé
+nous aurons bossé
+vous aurez bossé
+ils (elles) auront bossé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bossé
+tu aurais bossé
+il (elle) aurait bossé
+nous aurions bossé
+vous auriez bossé
+ils (elles) auraient bossé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bossé
+que tu aies bossé
+qu’il (elle) ait bossé
+que nous ayons bossé
+que vous ayez bossé
+qu’ils (elles) aient bossé
+
+** Plus-que-parfait
+
+que j'eusse bossé
+que tu eusses bossé
+qu’il (elle) eût bossé
+que nous eussions bossé
+que vous eussiez bossé
+qu’ils (elles) eussent bossé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bossé
+ayez bossé
+
+* INFINITIF
+
+** Passé
+
+avoir bossé
+
+* PARTICIPE
+
+** Passé
+
+ayant bossé
+bossé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bossé(e)
+tu es bossé(e)
+il (elle) est bossé(e)
+nous sommes bossé(e)s
+vous êtes bossé(e)s
+ils (elles) sont bossé(e)s
+
+** Imparfait
+
+j'étais bossé(e)
+tu étais bossé(e)
+il (elle) était bossé(e)
+nous étions bossé(e)s
+vous étiez bossé(e)s
+ils (elles) étaient bossé(e)s
+
+** Passé simple
+
+je fus bossé(e)
+tu fus bossé(e)
+il (elle) fut bossé(e)
+nous fûmes bossé(e)s
+vous fûtes bossé(e)s
+ils (elles) furent bossé(e)s
+
+** Futur simple
+
+je serai bossé(e)
+tu seras bossé(e)
+il (elle) sera bossé(e)
+nous serons bossé(e)s
+vous serez bossé(e)s
+ils (elles) seront bossé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bossé(e)
+tu serais bossé(e)
+il (elle) serait bossé(e)
+nous serions bossé(e)s
+vous seriez bossé(e)s
+ils (elles) seraient bossé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bossé(e)
+que tu sois bossé(e)
+qu’il (elle) soit bossé(e)
+que nous soyons bossé(e)s
+que vous soyez bossé(e)s
+qu’ils (elles) soient bossé(e)s
+
+** Imparfait
+
+que je fusse bossé(e)
+que tu fusses bossé(e)
+qu’il (elle) fût bossé(e)
+que nous fussions bossé(e)s
+que vous fussiez bossé(e)s
+qu’ils (elles) fussent bossé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bossé(e)s
+soyez bossé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bossé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bossé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bossé(e)
+tu as été bossé(e)
+il (elle) a été bossé(e)
+nous avons été bossé(e)s
+vous avez été bossé(e)s
+ils (elles) ont été bossé(e)s
+
+** Plus-que-parfait
+
+j'avais été bossé(e)
+il (elle) avait été bossé(e)
+nous avions été bossé(e)s
+ils (elles) avaient été bossé(e)s
+
+** Passé antérieur
+
+j'eus été bossé(e)
+tu eus été bossé(e)
+il (elle) eut été bossé(e)
+nous eûmes été bossé(e)s
+vous eûtes été bossé(e)s
+ils (elles) eurent été bossé(e)s
+
+** Futur antérieur
+
+j'aurai été bossé(e)
+tu auras été bossé(e)
+il (elle) aura été bossé(e)
+nous aurons été bossé(e)s
+vous aurez été bossé(e)s
+ils (elles) auront été bossé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bossé(e)
+j'aurais été bossé(e)
+il (elle) aurait été bossé(e)
+nous aurions été bossé(e)s
+vous auriez été bossé(e)s
+ils (elles) auraient été bossé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bossé(e)
+que tu aies été bossé(e)
+qu’il (elle) ait été bossé(e)
+que nous ayons été bossé(e)s
+que vous ayez été bossé(e)s
+qu’ils (elles) aient été bossé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bossé(e)
+que tu eusses été bossé(e)
+qu’il (elle) eût été bossé(e)
+que nous eussions été bossé(e)s
+que vous eussiez été bossé(e)s
+qu’ils (elles) eussent été bossé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bossé(e)
+ayons été bossé(e)s
+ayez été bossé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bossé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bossé(e)(s)

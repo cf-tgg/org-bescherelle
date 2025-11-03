@@ -1,0 +1,326 @@
+#+title: Conjugaison du verbe clore
+
+* INDICATIF
+
+** Présent
+
+je clos
+tu clos
+il (elle) clôt
+ils (elles) closent
+
+** Imparfait
+
+
+** Futur simple
+
+je clorai
+tu cloras
+il (elle) clora
+nous clorons
+vous clorez
+ils (elles) cloront
+
+* CONDITIONNEL
+
+** Présent
+
+je clorais
+tu clorais
+il (elle) clorait
+nous clorions
+vous cloriez
+ils (elles) cloraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je close
+que tu closes
+qu’il (elle) close
+que nous closions
+que vous closiez
+qu’ils (elles) closent
+
+* IMPÉRATIF
+
+** Présent
+
+clos
+
+* INFINITIF
+
+** Présent
+
+clore
+
+* PARTICIPE
+
+** Présent
+
+closant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai clos
+tu as clos
+il (elle) a clos
+nous avons clos
+vous avez clos
+ils (elles) ont clos
+
+** Plus-que-parfait
+
+j'avais clos
+tu avais clos
+il (elle) avait clos
+nous avions clos
+vous aviez clos
+ils (elles) avaient clos
+
+** Passé antérieur
+
+j'eus clos
+tu eus clos
+il (elle) eut clos
+nous eûmes clos
+vous eûtes clos
+ils (elles) eurent clos
+
+** Futur antérieur
+
+j'aurai clos
+tu auras clos
+il (elle) aura clos
+nous aurons clos
+vous aurez clos
+ils (elles) auront clos
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais clos
+tu aurais clos
+il (elle) aurait clos
+nous aurions clos
+vous auriez clos
+ils (elles) auraient clos
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie clos
+que tu aies clos
+qu’il (elle) ait clos
+que nous ayons clos
+que vous ayez clos
+qu’ils (elles) aient clos
+
+** Plus-que-parfait
+
+que j'eusse clos
+que tu eusses clos
+qu’il (elle) eût clos
+que nous eussions clos
+que vous eussiez clos
+qu’ils (elles) eussent clos
+
+* IMPÉRATIF
+
+** Passé
+
+ayons clos
+ayez clos
+
+* INFINITIF
+
+** Passé
+
+avoir clos
+
+* PARTICIPE
+
+** Passé
+
+ayant clos
+clos (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis clos(e)
+tu es clos(e)
+il (elle) est clos(e)
+nous sommes clos(es)
+vous êtes clos(es)
+ils (elles) sont clos(es)
+
+** Imparfait
+
+j'étais clos(e)
+tu étais clos(e)
+il (elle) était clos(e)
+nous étions clos(es)
+vous étiez clos(es)
+ils (elles) étaient clos(es)
+
+** Passé simple
+
+je fus clos(e)
+tu fus clos(e)
+il (elle) fut clos(e)
+nous fûmes clos(es)
+vous fûtes clos(es)
+ils (elles) furent clos(es)
+
+** Futur simple
+
+je serai clos(e)
+tu seras clos(e)
+il (elle) sera clos(e)
+nous serons clos(es)
+vous serez clos(es)
+ils (elles) seront clos(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais clos(e)
+tu serais clos(e)
+il (elle) serait clos(e)
+nous serions clos(es)
+vous seriez clos(es)
+ils (elles) seraient clos(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois clos(e)
+que tu sois clos(e)
+qu’il (elle) soit clos(e)
+que nous soyons clos(es)
+que vous soyez clos(es)
+qu’ils (elles) soient clos(es)
+
+** Imparfait
+
+que je fusse clos(e)
+que tu fusses clos(e)
+qu’il (elle) fût clos(e)
+que nous fussions clos(es)
+que vous fussiez clos(es)
+qu’ils (elles) fussent clos(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons clos(es)
+soyez clos(es)
+
+* INFINITIF
+
+** Présent
+
+être clos (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant clos (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été clos(e)
+tu as été clos(e)
+il (elle) a été clos(e)
+nous avons été clos(es)
+vous avez été clos(es)
+ils (elles) ont été clos(es)
+
+** Plus-que-parfait
+
+j'avais été clos(e)
+il (elle) avait été clos(e)
+nous avions été clos(es)
+ils (elles) avaient été clos(es)
+
+** Passé antérieur
+
+j'eus été clos(e)
+tu eus été clos(e)
+il (elle) eut été clos(e)
+nous eûmes été clos(es)
+vous eûtes été clos(es)
+ils (elles) eurent été clos(es)
+
+** Futur antérieur
+
+j'aurai été clos(e)
+tu auras été clos(e)
+il (elle) aura été clos(e)
+nous aurons été clos(es)
+vous aurez été clos(es)
+ils (elles) auront été clos(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été clos(e)
+j'aurais été clos(e)
+il (elle) aurait été clos(e)
+nous aurions été clos(es)
+vous auriez été clos(es)
+ils (elles) auraient été clos(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été clos(e)
+que tu aies été clos(e)
+qu’il (elle) ait été clos(e)
+que nous ayons été clos(es)
+que vous ayez été clos(es)
+qu’ils (elles) aient été clos(es)
+
+** Plus-que-parfait
+
+que j'eusse été clos(e)
+que tu eusses été clos(e)
+qu’il (elle) eût été clos(e)
+que nous eussions été clos(es)
+que vous eussiez été clos(es)
+qu’ils (elles) eussent été clos(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été clos(e)
+ayons été clos(es)
+ayez été clos(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été clos (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été clos (s, se, s, ses)

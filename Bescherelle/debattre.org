@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe debattre
+
+* INDICATIF
+
+** Présent
+
+je débats
+tu débats
+il (elle) débat
+nous débattons
+vous débattez
+ils (elles) débattent
+
+** Imparfait
+
+je débattais
+tu débattais
+il (elle) débattait
+nous débattions
+vous débattiez
+ils (elles) débattaient
+
+** Passé simple
+
+je débattis
+tu débattis
+il (elle) débattit
+nous débattîmes
+vous débattîtes
+ils (elles) débattirent
+
+** Futur simple
+
+je débattrai
+tu débattras
+il (elle) débattra
+nous débattrons
+vous débattrez
+ils (elles) débattront
+
+* CONDITIONNEL
+
+** Présent
+
+je débattrais
+tu débattrais
+il (elle) débattrait
+nous débattrions
+vous débattriez
+ils (elles) débattraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je débatte
+que tu débattes
+qu’il (elle) débatte
+que nous débattions
+que vous débattiez
+qu’ils (elles) débattent
+
+** Imparfait
+
+que je débattisse
+que tu débattisses
+qu’il (elle) débattît
+que nous débattissions
+que vous débattissiez
+qu’ils (elles) débattissent
+
+* IMPÉRATIF
+
+** Présent
+
+débats
+débattons
+débattez
+
+* INFINITIF
+
+** Présent
+
+débattre
+
+* PARTICIPE
+
+** Présent
+
+débattant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai débattu
+tu as débattu
+il (elle) a débattu
+nous avons débattu
+vous avez débattu
+ils (elles) ont débattu
+
+** Plus-que-parfait
+
+j'avais débattu
+tu avais débattu
+il (elle) avait débattu
+nous avions débattu
+vous aviez débattu
+ils (elles) avaient débattu
+
+** Passé antérieur
+
+j'eus débattu
+tu eus débattu
+il (elle) eut débattu
+nous eûmes débattu
+vous eûtes débattu
+ils (elles) eurent débattu
+
+** Futur antérieur
+
+j'aurai débattu
+tu auras débattu
+il (elle) aura débattu
+nous aurons débattu
+vous aurez débattu
+ils (elles) auront débattu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais débattu
+tu aurais débattu
+il (elle) aurait débattu
+nous aurions débattu
+vous auriez débattu
+ils (elles) auraient débattu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie débattu
+que tu aies débattu
+qu’il (elle) ait débattu
+que nous ayons débattu
+que vous ayez débattu
+qu’ils (elles) aient débattu
+
+** Plus-que-parfait
+
+que j'eusse débattu
+que tu eusses débattu
+qu’il (elle) eût débattu
+que nous eussions débattu
+que vous eussiez débattu
+qu’ils (elles) eussent débattu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons débattu
+ayez débattu
+
+* INFINITIF
+
+** Passé
+
+avoir débattu
+
+* PARTICIPE
+
+** Passé
+
+ayant débattu
+débattu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis débattu(e)
+tu es débattu(e)
+il (elle) est débattu(e)
+nous sommes débattu(e)s
+vous êtes débattu(e)s
+ils (elles) sont débattu(e)s
+
+** Imparfait
+
+j'étais débattu(e)
+tu étais débattu(e)
+il (elle) était débattu(e)
+nous étions débattu(e)s
+vous étiez débattu(e)s
+ils (elles) étaient débattu(e)s
+
+** Passé simple
+
+je fus débattu(e)
+tu fus débattu(e)
+il (elle) fut débattu(e)
+nous fûmes débattu(e)s
+vous fûtes débattu(e)s
+ils (elles) furent débattu(e)s
+
+** Futur simple
+
+je serai débattu(e)
+tu seras débattu(e)
+il (elle) sera débattu(e)
+nous serons débattu(e)s
+vous serez débattu(e)s
+ils (elles) seront débattu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais débattu(e)
+tu serais débattu(e)
+il (elle) serait débattu(e)
+nous serions débattu(e)s
+vous seriez débattu(e)s
+ils (elles) seraient débattu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois débattu(e)
+que tu sois débattu(e)
+qu’il (elle) soit débattu(e)
+que nous soyons débattu(e)s
+que vous soyez débattu(e)s
+qu’ils (elles) soient débattu(e)s
+
+** Imparfait
+
+que je fusse débattu(e)
+que tu fusses débattu(e)
+qu’il (elle) fût débattu(e)
+que nous fussions débattu(e)s
+que vous fussiez débattu(e)s
+qu’ils (elles) fussent débattu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons débattu(e)s
+soyez débattu(e)s
+
+* INFINITIF
+
+** Présent
+
+être débattu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant débattu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été débattu(e)
+tu as été débattu(e)
+il (elle) a été débattu(e)
+nous avons été débattu(e)s
+vous avez été débattu(e)s
+ils (elles) ont été débattu(e)s
+
+** Plus-que-parfait
+
+j'avais été débattu(e)
+il (elle) avait été débattu(e)
+nous avions été débattu(e)s
+ils (elles) avaient été débattu(e)s
+
+** Passé antérieur
+
+j'eus été débattu(e)
+tu eus été débattu(e)
+il (elle) eut été débattu(e)
+nous eûmes été débattu(e)s
+vous eûtes été débattu(e)s
+ils (elles) eurent été débattu(e)s
+
+** Futur antérieur
+
+j'aurai été débattu(e)
+tu auras été débattu(e)
+il (elle) aura été débattu(e)
+nous aurons été débattu(e)s
+vous aurez été débattu(e)s
+ils (elles) auront été débattu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été débattu(e)
+j'aurais été débattu(e)
+il (elle) aurait été débattu(e)
+nous aurions été débattu(e)s
+vous auriez été débattu(e)s
+ils (elles) auraient été débattu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été débattu(e)
+que tu aies été débattu(e)
+qu’il (elle) ait été débattu(e)
+que nous ayons été débattu(e)s
+que vous ayez été débattu(e)s
+qu’ils (elles) aient été débattu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été débattu(e)
+que tu eusses été débattu(e)
+qu’il (elle) eût été débattu(e)
+que nous eussions été débattu(e)s
+que vous eussiez été débattu(e)s
+qu’ils (elles) eussent été débattu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été débattu(e)
+ayons été débattu(e)s
+ayez été débattu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été débattu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été débattu(e)(s)

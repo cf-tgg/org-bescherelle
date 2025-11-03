@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ouvrer
+
+* INDICATIF
+
+** Présent
+
+j'ouvre
+tu ouvres
+il (elle) ouvre
+nous ouvrons
+vous ouvrez
+ils (elles) ouvrent
+
+** Imparfait
+
+j'ouvrais
+tu ouvrais
+il (elle) ouvrait
+nous ouvrions
+vous ouvriez
+ils (elles) ouvraient
+
+** Passé simple
+
+j'ouvrai
+tu ouvras
+il (elle) ouvra
+nous ouvrâmes
+vous ouvrâtes
+ils (elles) ouvrèrent
+
+** Futur simple
+
+j'ouvrerai
+tu ouvreras
+il (elle) ouvrera
+nous ouvrerons
+vous ouvrerez
+ils (elles) ouvreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ouvrerais
+tu ouvrerais
+il (elle) ouvrerait
+nous ouvrerions
+vous ouvreriez
+ils (elles) ouvreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ouvre
+que tu ouvres
+qu’il (elle) ouvre
+que nous ouvrions
+que vous ouvriez
+qu’ils (elles) ouvrent
+
+** Imparfait
+
+que j'ouvrasse
+que tu ouvrasses
+qu’il (elle) ouvrât
+que nous ouvrassions
+que vous ouvrassiez
+qu’ils (elles) ouvrassent
+
+* IMPÉRATIF
+
+** Présent
+
+ouvre
+ouvrons
+ouvrez
+
+* INFINITIF
+
+** Présent
+
+ouvrer
+
+* PARTICIPE
+
+** Présent
+
+ouvrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ouvré
+tu as ouvré
+il (elle) a ouvré
+nous avons ouvré
+vous avez ouvré
+ils (elles) ont ouvré
+
+** Plus-que-parfait
+
+j'avais ouvré
+tu avais ouvré
+il (elle) avait ouvré
+nous avions ouvré
+vous aviez ouvré
+ils (elles) avaient ouvré
+
+** Passé antérieur
+
+j'eus ouvré
+tu eus ouvré
+il (elle) eut ouvré
+nous eûmes ouvré
+vous eûtes ouvré
+ils (elles) eurent ouvré
+
+** Futur antérieur
+
+j'aurai ouvré
+tu auras ouvré
+il (elle) aura ouvré
+nous aurons ouvré
+vous aurez ouvré
+ils (elles) auront ouvré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ouvré
+tu aurais ouvré
+il (elle) aurait ouvré
+nous aurions ouvré
+vous auriez ouvré
+ils (elles) auraient ouvré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ouvré
+que tu aies ouvré
+qu’il (elle) ait ouvré
+que nous ayons ouvré
+que vous ayez ouvré
+qu’ils (elles) aient ouvré
+
+** Plus-que-parfait
+
+que j'eusse ouvré
+que tu eusses ouvré
+qu’il (elle) eût ouvré
+que nous eussions ouvré
+que vous eussiez ouvré
+qu’ils (elles) eussent ouvré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ouvré
+ayez ouvré
+
+* INFINITIF
+
+** Passé
+
+avoir ouvré
+
+* PARTICIPE
+
+** Passé
+
+ayant ouvré
+ouvré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ouvré(e)
+tu es ouvré(e)
+il (elle) est ouvré(e)
+nous sommes ouvré(e)s
+vous êtes ouvré(e)s
+ils (elles) sont ouvré(e)s
+
+** Imparfait
+
+j'étais ouvré(e)
+tu étais ouvré(e)
+il (elle) était ouvré(e)
+nous étions ouvré(e)s
+vous étiez ouvré(e)s
+ils (elles) étaient ouvré(e)s
+
+** Passé simple
+
+je fus ouvré(e)
+tu fus ouvré(e)
+il (elle) fut ouvré(e)
+nous fûmes ouvré(e)s
+vous fûtes ouvré(e)s
+ils (elles) furent ouvré(e)s
+
+** Futur simple
+
+je serai ouvré(e)
+tu seras ouvré(e)
+il (elle) sera ouvré(e)
+nous serons ouvré(e)s
+vous serez ouvré(e)s
+ils (elles) seront ouvré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ouvré(e)
+tu serais ouvré(e)
+il (elle) serait ouvré(e)
+nous serions ouvré(e)s
+vous seriez ouvré(e)s
+ils (elles) seraient ouvré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ouvré(e)
+que tu sois ouvré(e)
+qu’il (elle) soit ouvré(e)
+que nous soyons ouvré(e)s
+que vous soyez ouvré(e)s
+qu’ils (elles) soient ouvré(e)s
+
+** Imparfait
+
+que je fusse ouvré(e)
+que tu fusses ouvré(e)
+qu’il (elle) fût ouvré(e)
+que nous fussions ouvré(e)s
+que vous fussiez ouvré(e)s
+qu’ils (elles) fussent ouvré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ouvré(e)s
+soyez ouvré(e)s
+
+* INFINITIF
+
+** Présent
+
+être ouvré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ouvré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ouvré(e)
+tu as été ouvré(e)
+il (elle) a été ouvré(e)
+nous avons été ouvré(e)s
+vous avez été ouvré(e)s
+ils (elles) ont été ouvré(e)s
+
+** Plus-que-parfait
+
+j'avais été ouvré(e)
+il (elle) avait été ouvré(e)
+nous avions été ouvré(e)s
+ils (elles) avaient été ouvré(e)s
+
+** Passé antérieur
+
+j'eus été ouvré(e)
+tu eus été ouvré(e)
+il (elle) eut été ouvré(e)
+nous eûmes été ouvré(e)s
+vous eûtes été ouvré(e)s
+ils (elles) eurent été ouvré(e)s
+
+** Futur antérieur
+
+j'aurai été ouvré(e)
+tu auras été ouvré(e)
+il (elle) aura été ouvré(e)
+nous aurons été ouvré(e)s
+vous aurez été ouvré(e)s
+ils (elles) auront été ouvré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ouvré(e)
+j'aurais été ouvré(e)
+il (elle) aurait été ouvré(e)
+nous aurions été ouvré(e)s
+vous auriez été ouvré(e)s
+ils (elles) auraient été ouvré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ouvré(e)
+que tu aies été ouvré(e)
+qu’il (elle) ait été ouvré(e)
+que nous ayons été ouvré(e)s
+que vous ayez été ouvré(e)s
+qu’ils (elles) aient été ouvré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ouvré(e)
+que tu eusses été ouvré(e)
+qu’il (elle) eût été ouvré(e)
+que nous eussions été ouvré(e)s
+que vous eussiez été ouvré(e)s
+qu’ils (elles) eussent été ouvré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ouvré(e)
+ayons été ouvré(e)s
+ayez été ouvré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ouvré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ouvré(e)(s)

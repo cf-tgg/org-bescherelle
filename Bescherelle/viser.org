@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe viser
+
+* INDICATIF
+
+** Présent
+
+je vise
+tu vises
+il (elle) vise
+nous visons
+vous visez
+ils (elles) visent
+
+** Imparfait
+
+je visais
+tu visais
+il (elle) visait
+nous visions
+vous visiez
+ils (elles) visaient
+
+** Passé simple
+
+je visai
+tu visas
+il (elle) visa
+nous visâmes
+vous visâtes
+ils (elles) visèrent
+
+** Futur simple
+
+je viserai
+tu viseras
+il (elle) visera
+nous viserons
+vous viserez
+ils (elles) viseront
+
+* CONDITIONNEL
+
+** Présent
+
+je viserais
+tu viserais
+il (elle) viserait
+nous viserions
+vous viseriez
+ils (elles) viseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vise
+que tu vises
+qu’il (elle) vise
+que nous visions
+que vous visiez
+qu’ils (elles) visent
+
+** Imparfait
+
+que je visasse
+que tu visasses
+qu’il (elle) visât
+que nous visassions
+que vous visassiez
+qu’ils (elles) visassent
+
+* IMPÉRATIF
+
+** Présent
+
+vise
+visons
+visez
+
+* INFINITIF
+
+** Présent
+
+viser
+
+* PARTICIPE
+
+** Présent
+
+visant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai visé
+tu as visé
+il (elle) a visé
+nous avons visé
+vous avez visé
+ils (elles) ont visé
+
+** Plus-que-parfait
+
+j'avais visé
+tu avais visé
+il (elle) avait visé
+nous avions visé
+vous aviez visé
+ils (elles) avaient visé
+
+** Passé antérieur
+
+j'eus visé
+tu eus visé
+il (elle) eut visé
+nous eûmes visé
+vous eûtes visé
+ils (elles) eurent visé
+
+** Futur antérieur
+
+j'aurai visé
+tu auras visé
+il (elle) aura visé
+nous aurons visé
+vous aurez visé
+ils (elles) auront visé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais visé
+tu aurais visé
+il (elle) aurait visé
+nous aurions visé
+vous auriez visé
+ils (elles) auraient visé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie visé
+que tu aies visé
+qu’il (elle) ait visé
+que nous ayons visé
+que vous ayez visé
+qu’ils (elles) aient visé
+
+** Plus-que-parfait
+
+que j'eusse visé
+que tu eusses visé
+qu’il (elle) eût visé
+que nous eussions visé
+que vous eussiez visé
+qu’ils (elles) eussent visé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons visé
+ayez visé
+
+* INFINITIF
+
+** Passé
+
+avoir visé
+
+* PARTICIPE
+
+** Passé
+
+ayant visé
+visé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis visé(e)
+tu es visé(e)
+il (elle) est visé(e)
+nous sommes visé(e)s
+vous êtes visé(e)s
+ils (elles) sont visé(e)s
+
+** Imparfait
+
+j'étais visé(e)
+tu étais visé(e)
+il (elle) était visé(e)
+nous étions visé(e)s
+vous étiez visé(e)s
+ils (elles) étaient visé(e)s
+
+** Passé simple
+
+je fus visé(e)
+tu fus visé(e)
+il (elle) fut visé(e)
+nous fûmes visé(e)s
+vous fûtes visé(e)s
+ils (elles) furent visé(e)s
+
+** Futur simple
+
+je serai visé(e)
+tu seras visé(e)
+il (elle) sera visé(e)
+nous serons visé(e)s
+vous serez visé(e)s
+ils (elles) seront visé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais visé(e)
+tu serais visé(e)
+il (elle) serait visé(e)
+nous serions visé(e)s
+vous seriez visé(e)s
+ils (elles) seraient visé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois visé(e)
+que tu sois visé(e)
+qu’il (elle) soit visé(e)
+que nous soyons visé(e)s
+que vous soyez visé(e)s
+qu’ils (elles) soient visé(e)s
+
+** Imparfait
+
+que je fusse visé(e)
+que tu fusses visé(e)
+qu’il (elle) fût visé(e)
+que nous fussions visé(e)s
+que vous fussiez visé(e)s
+qu’ils (elles) fussent visé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons visé(e)s
+soyez visé(e)s
+
+* INFINITIF
+
+** Présent
+
+être visé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant visé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été visé(e)
+tu as été visé(e)
+il (elle) a été visé(e)
+nous avons été visé(e)s
+vous avez été visé(e)s
+ils (elles) ont été visé(e)s
+
+** Plus-que-parfait
+
+j'avais été visé(e)
+il (elle) avait été visé(e)
+nous avions été visé(e)s
+ils (elles) avaient été visé(e)s
+
+** Passé antérieur
+
+j'eus été visé(e)
+tu eus été visé(e)
+il (elle) eut été visé(e)
+nous eûmes été visé(e)s
+vous eûtes été visé(e)s
+ils (elles) eurent été visé(e)s
+
+** Futur antérieur
+
+j'aurai été visé(e)
+tu auras été visé(e)
+il (elle) aura été visé(e)
+nous aurons été visé(e)s
+vous aurez été visé(e)s
+ils (elles) auront été visé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été visé(e)
+j'aurais été visé(e)
+il (elle) aurait été visé(e)
+nous aurions été visé(e)s
+vous auriez été visé(e)s
+ils (elles) auraient été visé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été visé(e)
+que tu aies été visé(e)
+qu’il (elle) ait été visé(e)
+que nous ayons été visé(e)s
+que vous ayez été visé(e)s
+qu’ils (elles) aient été visé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été visé(e)
+que tu eusses été visé(e)
+qu’il (elle) eût été visé(e)
+que nous eussions été visé(e)s
+que vous eussiez été visé(e)s
+qu’ils (elles) eussent été visé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été visé(e)
+ayons été visé(e)s
+ayez été visé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été visé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été visé(e)(s)

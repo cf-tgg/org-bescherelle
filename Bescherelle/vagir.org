@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe vagir
+
+* INDICATIF
+
+** Présent
+
+je vagis
+tu vagis
+il (elle) vagit
+nous vagissons
+vous vagissez
+ils (elles) vagissent
+
+** Imparfait
+
+je vagissais
+tu vagissais
+il (elle) vagissait
+nous vagissions
+vous vagissiez
+ils (elles) vagissaient
+
+** Passé simple
+
+je vagis
+tu vagis
+il (elle) vagit
+nous vagîmes
+vous vagîtes
+ils (elles) vagirent
+
+** Futur simple
+
+je vagirai
+tu vagiras
+il (elle) vagira
+nous vagirons
+vous vagirez
+ils (elles) vagiront
+
+* CONDITIONNEL
+
+** Présent
+
+je vagirais
+tu vagirais
+il (elle) vagirait
+nous vagirions
+vous vagiriez
+ils (elles) vagiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vagisse
+que tu vagisses
+qu’il (elle) vagisse
+que nous vagissions
+que vous vagissiez
+qu’ils (elles) vagissent
+
+** Imparfait
+
+que je vagisse
+que tu vagisses
+qu’il (elle) vagît
+que nous vagissions
+que vous vagissiez
+qu’ils (elles) vagissent
+
+* IMPÉRATIF
+
+** Présent
+
+vagis
+vagissons
+vagissez
+
+* INFINITIF
+
+** Présent
+
+vagir
+
+* PARTICIPE
+
+** Présent
+
+vagissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vagi
+tu as vagi
+il (elle) a vagi
+nous avons vagi
+vous avez vagi
+ils (elles) ont vagi
+
+** Plus-que-parfait
+
+j'avais vagi
+tu avais vagi
+il (elle) avait vagi
+nous avions vagi
+vous aviez vagi
+ils (elles) avaient vagi
+
+** Passé antérieur
+
+j'eus vagi
+tu eus vagi
+il (elle) eut vagi
+nous eûmes vagi
+vous eûtes vagi
+ils (elles) eurent vagi
+
+** Futur antérieur
+
+j'aurai vagi
+tu auras vagi
+il (elle) aura vagi
+nous aurons vagi
+vous aurez vagi
+ils (elles) auront vagi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vagi
+tu aurais vagi
+il (elle) aurait vagi
+nous aurions vagi
+vous auriez vagi
+ils (elles) auraient vagi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vagi
+que tu aies vagi
+qu’il (elle) ait vagi
+que nous ayons vagi
+que vous ayez vagi
+qu’ils (elles) aient vagi
+
+** Plus-que-parfait
+
+que j'eusse vagi
+que tu eusses vagi
+qu’il (elle) eût vagi
+que nous eussions vagi
+que vous eussiez vagi
+qu’ils (elles) eussent vagi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vagi
+ayez vagi
+
+* INFINITIF
+
+** Passé
+
+avoir vagi
+
+* PARTICIPE
+
+** Passé
+
+ayant vagi
+vagi (invar.)

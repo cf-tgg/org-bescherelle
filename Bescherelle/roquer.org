@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe roquer
+
+* INDICATIF
+
+** Présent
+
+je roque
+tu roques
+il (elle) roque
+nous roquons
+vous roquez
+ils (elles) roquent
+
+** Imparfait
+
+je roquais
+tu roquais
+il (elle) roquait
+nous roquions
+vous roquiez
+ils (elles) roquaient
+
+** Passé simple
+
+je roquai
+tu roquas
+il (elle) roqua
+nous roquâmes
+vous roquâtes
+ils (elles) roquèrent
+
+** Futur simple
+
+je roquerai
+tu roqueras
+il (elle) roquera
+nous roquerons
+vous roquerez
+ils (elles) roqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je roquerais
+tu roquerais
+il (elle) roquerait
+nous roquerions
+vous roqueriez
+ils (elles) roqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je roque
+que tu roques
+qu’il (elle) roque
+que nous roquions
+que vous roquiez
+qu’ils (elles) roquent
+
+** Imparfait
+
+que je roquasse
+que tu roquasses
+qu’il (elle) roquât
+que nous roquassions
+que vous roquassiez
+qu’ils (elles) roquassent
+
+* IMPÉRATIF
+
+** Présent
+
+roque
+roquons
+roquez
+
+* INFINITIF
+
+** Présent
+
+roquer
+
+* PARTICIPE
+
+** Présent
+
+roquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai roqué
+tu as roqué
+il (elle) a roqué
+nous avons roqué
+vous avez roqué
+ils (elles) ont roqué
+
+** Plus-que-parfait
+
+j'avais roqué
+tu avais roqué
+il (elle) avait roqué
+nous avions roqué
+vous aviez roqué
+ils (elles) avaient roqué
+
+** Passé antérieur
+
+j'eus roqué
+tu eus roqué
+il (elle) eut roqué
+nous eûmes roqué
+vous eûtes roqué
+ils (elles) eurent roqué
+
+** Futur antérieur
+
+j'aurai roqué
+tu auras roqué
+il (elle) aura roqué
+nous aurons roqué
+vous aurez roqué
+ils (elles) auront roqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais roqué
+tu aurais roqué
+il (elle) aurait roqué
+nous aurions roqué
+vous auriez roqué
+ils (elles) auraient roqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie roqué
+que tu aies roqué
+qu’il (elle) ait roqué
+que nous ayons roqué
+que vous ayez roqué
+qu’ils (elles) aient roqué
+
+** Plus-que-parfait
+
+que j'eusse roqué
+que tu eusses roqué
+qu’il (elle) eût roqué
+que nous eussions roqué
+que vous eussiez roqué
+qu’ils (elles) eussent roqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons roqué
+ayez roqué
+
+* INFINITIF
+
+** Passé
+
+avoir roqué
+
+* PARTICIPE
+
+** Passé
+
+ayant roqué
+roqué (invar.)

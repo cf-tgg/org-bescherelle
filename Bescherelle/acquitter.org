@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe acquitter
+
+* INDICATIF
+
+** Présent
+
+j'acquitte
+tu acquittes
+il (elle) acquitte
+nous acquittons
+vous acquittez
+ils (elles) acquittent
+
+** Imparfait
+
+j'acquittais
+tu acquittais
+il (elle) acquittait
+nous acquittions
+vous acquittiez
+ils (elles) acquittaient
+
+** Passé simple
+
+j'acquittai
+tu acquittas
+il (elle) acquitta
+nous acquittâmes
+vous acquittâtes
+ils (elles) acquittèrent
+
+** Futur simple
+
+j'acquitterai
+tu acquitteras
+il (elle) acquittera
+nous acquitterons
+vous acquitterez
+ils (elles) acquitteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'acquitterais
+tu acquitterais
+il (elle) acquitterait
+nous acquitterions
+vous acquitteriez
+ils (elles) acquitteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'acquitte
+que tu acquittes
+qu’il (elle) acquitte
+que nous acquittions
+que vous acquittiez
+qu’ils (elles) acquittent
+
+** Imparfait
+
+que j'acquittasse
+que tu acquittasses
+qu’il (elle) acquittât
+que nous acquittassions
+que vous acquittassiez
+qu’ils (elles) acquittassent
+
+* IMPÉRATIF
+
+** Présent
+
+acquitte
+acquittons
+acquittez
+
+* INFINITIF
+
+** Présent
+
+acquitter
+
+* PARTICIPE
+
+** Présent
+
+acquittant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai acquitté
+tu as acquitté
+il (elle) a acquitté
+nous avons acquitté
+vous avez acquitté
+ils (elles) ont acquitté
+
+** Plus-que-parfait
+
+j'avais acquitté
+tu avais acquitté
+il (elle) avait acquitté
+nous avions acquitté
+vous aviez acquitté
+ils (elles) avaient acquitté
+
+** Passé antérieur
+
+j'eus acquitté
+tu eus acquitté
+il (elle) eut acquitté
+nous eûmes acquitté
+vous eûtes acquitté
+ils (elles) eurent acquitté
+
+** Futur antérieur
+
+j'aurai acquitté
+tu auras acquitté
+il (elle) aura acquitté
+nous aurons acquitté
+vous aurez acquitté
+ils (elles) auront acquitté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais acquitté
+tu aurais acquitté
+il (elle) aurait acquitté
+nous aurions acquitté
+vous auriez acquitté
+ils (elles) auraient acquitté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie acquitté
+que tu aies acquitté
+qu’il (elle) ait acquitté
+que nous ayons acquitté
+que vous ayez acquitté
+qu’ils (elles) aient acquitté
+
+** Plus-que-parfait
+
+que j'eusse acquitté
+que tu eusses acquitté
+qu’il (elle) eût acquitté
+que nous eussions acquitté
+que vous eussiez acquitté
+qu’ils (elles) eussent acquitté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons acquitté
+ayez acquitté
+
+* INFINITIF
+
+** Passé
+
+avoir acquitté
+
+* PARTICIPE
+
+** Passé
+
+ayant acquitté
+acquitté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis acquitté(e)
+tu es acquitté(e)
+il (elle) est acquitté(e)
+nous sommes acquitté(e)s
+vous êtes acquitté(e)s
+ils (elles) sont acquitté(e)s
+
+** Imparfait
+
+j'étais acquitté(e)
+tu étais acquitté(e)
+il (elle) était acquitté(e)
+nous étions acquitté(e)s
+vous étiez acquitté(e)s
+ils (elles) étaient acquitté(e)s
+
+** Passé simple
+
+je fus acquitté(e)
+tu fus acquitté(e)
+il (elle) fut acquitté(e)
+nous fûmes acquitté(e)s
+vous fûtes acquitté(e)s
+ils (elles) furent acquitté(e)s
+
+** Futur simple
+
+je serai acquitté(e)
+tu seras acquitté(e)
+il (elle) sera acquitté(e)
+nous serons acquitté(e)s
+vous serez acquitté(e)s
+ils (elles) seront acquitté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais acquitté(e)
+tu serais acquitté(e)
+il (elle) serait acquitté(e)
+nous serions acquitté(e)s
+vous seriez acquitté(e)s
+ils (elles) seraient acquitté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois acquitté(e)
+que tu sois acquitté(e)
+qu’il (elle) soit acquitté(e)
+que nous soyons acquitté(e)s
+que vous soyez acquitté(e)s
+qu’ils (elles) soient acquitté(e)s
+
+** Imparfait
+
+que je fusse acquitté(e)
+que tu fusses acquitté(e)
+qu’il (elle) fût acquitté(e)
+que nous fussions acquitté(e)s
+que vous fussiez acquitté(e)s
+qu’ils (elles) fussent acquitté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons acquitté(e)s
+soyez acquitté(e)s
+
+* INFINITIF
+
+** Présent
+
+être acquitté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant acquitté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été acquitté(e)
+tu as été acquitté(e)
+il (elle) a été acquitté(e)
+nous avons été acquitté(e)s
+vous avez été acquitté(e)s
+ils (elles) ont été acquitté(e)s
+
+** Plus-que-parfait
+
+j'avais été acquitté(e)
+il (elle) avait été acquitté(e)
+nous avions été acquitté(e)s
+ils (elles) avaient été acquitté(e)s
+
+** Passé antérieur
+
+j'eus été acquitté(e)
+tu eus été acquitté(e)
+il (elle) eut été acquitté(e)
+nous eûmes été acquitté(e)s
+vous eûtes été acquitté(e)s
+ils (elles) eurent été acquitté(e)s
+
+** Futur antérieur
+
+j'aurai été acquitté(e)
+tu auras été acquitté(e)
+il (elle) aura été acquitté(e)
+nous aurons été acquitté(e)s
+vous aurez été acquitté(e)s
+ils (elles) auront été acquitté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été acquitté(e)
+j'aurais été acquitté(e)
+il (elle) aurait été acquitté(e)
+nous aurions été acquitté(e)s
+vous auriez été acquitté(e)s
+ils (elles) auraient été acquitté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été acquitté(e)
+que tu aies été acquitté(e)
+qu’il (elle) ait été acquitté(e)
+que nous ayons été acquitté(e)s
+que vous ayez été acquitté(e)s
+qu’ils (elles) aient été acquitté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été acquitté(e)
+que tu eusses été acquitté(e)
+qu’il (elle) eût été acquitté(e)
+que nous eussions été acquitté(e)s
+que vous eussiez été acquitté(e)s
+qu’ils (elles) eussent été acquitté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été acquitté(e)
+ayons été acquitté(e)s
+ayez été acquitté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été acquitté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été acquitté(e)(s)

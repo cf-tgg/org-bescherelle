@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fleurir
+
+* INDICATIF
+
+** Présent
+
+je fleuris
+tu fleuris
+il (elle) fleurit
+nous fleurissons
+vous fleurissez
+ils (elles) fleurissent
+
+** Imparfait
+
+je fleurissais / florissais
+tu fleurissais / florissais
+il (elle) fleurissait / florissait
+nous fleurissions / florissions
+vous fleurissiez / florissiez
+ils (elles) fleurissaient / florissaient
+
+** Passé simple
+
+je fleuris
+tu fleuris
+il (elle) fleurit
+nous fleurîmes
+vous fleurîtes
+ils (elles) fleurirent
+
+** Futur simple
+
+je fleurirai
+tu fleuriras
+il (elle) fleurira
+nous fleurirons
+vous fleurirez
+ils (elles) fleuriront
+
+* CONDITIONNEL
+
+** Présent
+
+je fleurirais
+tu fleurirais
+il (elle) fleurirait
+nous fleuririons
+vous fleuririez
+ils (elles) fleuriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fleurisse
+que tu fleurisses
+qu’il (elle) fleurisse
+que nous fleurissions
+que vous fleurissiez
+qu’ils (elles) fleurissent
+
+** Imparfait
+
+que je fleurisse
+que tu fleurisses
+qu’il (elle) fleurît
+que nous fleurissions
+que vous fleurissiez
+qu’ils (elles) fleurissent
+
+* IMPÉRATIF
+
+** Présent
+
+fleuris
+fleurissons
+fleurissez
+
+* INFINITIF
+
+** Présent
+
+fleurir
+
+* PARTICIPE
+
+** Présent
+
+fleurissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fleuri
+tu as fleuri
+il (elle) a fleuri
+nous avons fleuri
+vous avez fleuri
+ils (elles) ont fleuri
+
+** Plus-que-parfait
+
+j'avais fleuri
+tu avais fleuri
+il (elle) avait fleuri
+nous avions fleuri
+vous aviez fleuri
+ils (elles) avaient fleuri
+
+** Passé antérieur
+
+j'eus fleuri
+tu eus fleuri
+il (elle) eut fleuri
+nous eûmes fleuri
+vous eûtes fleuri
+ils (elles) eurent fleuri
+
+** Futur antérieur
+
+j'aurai fleuri
+tu auras fleuri
+il (elle) aura fleuri
+nous aurons fleuri
+vous aurez fleuri
+ils (elles) auront fleuri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fleuri
+tu aurais fleuri
+il (elle) aurait fleuri
+nous aurions fleuri
+vous auriez fleuri
+ils (elles) auraient fleuri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fleuri
+que tu aies fleuri
+qu’il (elle) ait fleuri
+que nous ayons fleuri
+que vous ayez fleuri
+qu’ils (elles) aient fleuri
+
+** Plus-que-parfait
+
+que j'eusse fleuri
+que tu eusses fleuri
+qu’il (elle) eût fleuri
+que nous eussions fleuri
+que vous eussiez fleuri
+qu’ils (elles) eussent fleuri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fleuri
+ayez fleuri
+
+* INFINITIF
+
+** Passé
+
+avoir fleuri
+
+* PARTICIPE
+
+** Passé
+
+ayant fleuri
+fleuri (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis fleuri(e)
+tu es fleuri(e)
+il (elle) est fleuri(e)
+nous sommes fleuri(e)s
+vous êtes fleuri(e)s
+ils (elles) sont fleuri(e)s
+
+** Imparfait
+
+j'étais fleuri(e)
+tu étais fleuri(e)
+il (elle) était fleuri(e)
+nous étions fleuri(e)s
+vous étiez fleuri(e)s
+ils (elles) étaient fleuri(e)s
+
+** Passé simple
+
+je fus fleuri(e)
+tu fus fleuri(e)
+il (elle) fut fleuri(e)
+nous fûmes fleuri(e)s
+vous fûtes fleuri(e)s
+ils (elles) furent fleuri(e)s
+
+** Futur simple
+
+je serai fleuri(e)
+tu seras fleuri(e)
+il (elle) sera fleuri(e)
+nous serons fleuri(e)s
+vous serez fleuri(e)s
+ils (elles) seront fleuri(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fleuri(e)
+tu serais fleuri(e)
+il (elle) serait fleuri(e)
+nous serions fleuri(e)s
+vous seriez fleuri(e)s
+ils (elles) seraient fleuri(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fleuri(e)
+que tu sois fleuri(e)
+qu’il (elle) soit fleuri(e)
+que nous soyons fleuri(e)s
+que vous soyez fleuri(e)s
+qu’ils (elles) soient fleuri(e)s
+
+** Imparfait
+
+que je fusse fleuri(e)
+que tu fusses fleuri(e)
+qu’il (elle) fût fleuri(e)
+que nous fussions fleuri(e)s
+que vous fussiez fleuri(e)s
+qu’ils (elles) fussent fleuri(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fleuri(e)s
+soyez fleuri(e)s
+
+* INFINITIF
+
+** Présent
+
+être fleuri(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fleuri(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fleuri(e)
+tu as été fleuri(e)
+il (elle) a été fleuri(e)
+nous avons été fleuri(e)s
+vous avez été fleuri(e)s
+ils (elles) ont été fleuri(e)s
+
+** Plus-que-parfait
+
+j'avais été fleuri(e)
+il (elle) avait été fleuri(e)
+nous avions été fleuri(e)s
+ils (elles) avaient été fleuri(e)s
+
+** Passé antérieur
+
+j'eus été fleuri(e)
+tu eus été fleuri(e)
+il (elle) eut été fleuri(e)
+nous eûmes été fleuri(e)s
+vous eûtes été fleuri(e)s
+ils (elles) eurent été fleuri(e)s
+
+** Futur antérieur
+
+j'aurai été fleuri(e)
+tu auras été fleuri(e)
+il (elle) aura été fleuri(e)
+nous aurons été fleuri(e)s
+vous aurez été fleuri(e)s
+ils (elles) auront été fleuri(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fleuri(e)
+j'aurais été fleuri(e)
+il (elle) aurait été fleuri(e)
+nous aurions été fleuri(e)s
+vous auriez été fleuri(e)s
+ils (elles) auraient été fleuri(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fleuri(e)
+que tu aies été fleuri(e)
+qu’il (elle) ait été fleuri(e)
+que nous ayons été fleuri(e)s
+que vous ayez été fleuri(e)s
+qu’ils (elles) aient été fleuri(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fleuri(e)
+que tu eusses été fleuri(e)
+qu’il (elle) eût été fleuri(e)
+que nous eussions été fleuri(e)s
+que vous eussiez été fleuri(e)s
+qu’ils (elles) eussent été fleuri(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fleuri(e)
+ayons été fleuri(e)s
+ayez été fleuri(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fleuri(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fleuri(e)(s)

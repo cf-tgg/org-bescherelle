@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abetir
+
+* INDICATIF
+
+** Présent
+
+j'abêtis
+tu abêtis
+il (elle) abêtit
+nous abêtissons
+vous abêtissez
+ils (elles) abêtissent
+
+** Imparfait
+
+j'abêtissais
+tu abêtissais
+il (elle) abêtissait
+nous abêtissions
+vous abêtissiez
+ils (elles) abêtissaient
+
+** Passé simple
+
+j'abêtis
+tu abêtis
+il (elle) abêtit
+nous abêtîmes
+vous abêtîtes
+ils (elles) abêtirent
+
+** Futur simple
+
+j'abêtirai
+tu abêtiras
+il (elle) abêtira
+nous abêtirons
+vous abêtirez
+ils (elles) abêtiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abêtirais
+tu abêtirais
+il (elle) abêtirait
+nous abêtirions
+vous abêtiriez
+ils (elles) abêtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abêtisse
+que tu abêtisses
+qu’il (elle) abêtisse
+que nous abêtissions
+que vous abêtissiez
+qu’ils (elles) abêtissent
+
+** Imparfait
+
+que j'abêtisse
+que tu abêtisses
+qu’il (elle) abêtît
+que nous abêtissions
+que vous abêtissiez
+qu’ils (elles) abêtissent
+
+* IMPÉRATIF
+
+** Présent
+
+abêtis
+abêtissons
+abêtissez
+
+* INFINITIF
+
+** Présent
+
+abêtir
+
+* PARTICIPE
+
+** Présent
+
+abêtissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abêti
+tu as abêti
+il (elle) a abêti
+nous avons abêti
+vous avez abêti
+ils (elles) ont abêti
+
+** Plus-que-parfait
+
+j'avais abêti
+tu avais abêti
+il (elle) avait abêti
+nous avions abêti
+vous aviez abêti
+ils (elles) avaient abêti
+
+** Passé antérieur
+
+j'eus abêti
+tu eus abêti
+il (elle) eut abêti
+nous eûmes abêti
+vous eûtes abêti
+ils (elles) eurent abêti
+
+** Futur antérieur
+
+j'aurai abêti
+tu auras abêti
+il (elle) aura abêti
+nous aurons abêti
+vous aurez abêti
+ils (elles) auront abêti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abêti
+tu aurais abêti
+il (elle) aurait abêti
+nous aurions abêti
+vous auriez abêti
+ils (elles) auraient abêti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abêti
+que tu aies abêti
+qu’il (elle) ait abêti
+que nous ayons abêti
+que vous ayez abêti
+qu’ils (elles) aient abêti
+
+** Plus-que-parfait
+
+que j'eusse abêti
+que tu eusses abêti
+qu’il (elle) eût abêti
+que nous eussions abêti
+que vous eussiez abêti
+qu’ils (elles) eussent abêti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abêti
+ayez abêti
+
+* INFINITIF
+
+** Passé
+
+avoir abêti
+
+* PARTICIPE
+
+** Passé
+
+ayant abêti
+abêti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis abêti(e)
+tu es abêti(e)
+il (elle) est abêti(e)
+nous sommes abêti(e)s
+vous êtes abêti(e)s
+ils (elles) sont abêti(e)s
+
+** Imparfait
+
+j'étais abêti(e)
+tu étais abêti(e)
+il (elle) était abêti(e)
+nous étions abêti(e)s
+vous étiez abêti(e)s
+ils (elles) étaient abêti(e)s
+
+** Passé simple
+
+je fus abêti(e)
+tu fus abêti(e)
+il (elle) fut abêti(e)
+nous fûmes abêti(e)s
+vous fûtes abêti(e)s
+ils (elles) furent abêti(e)s
+
+** Futur simple
+
+je serai abêti(e)
+tu seras abêti(e)
+il (elle) sera abêti(e)
+nous serons abêti(e)s
+vous serez abêti(e)s
+ils (elles) seront abêti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abêti(e)
+tu serais abêti(e)
+il (elle) serait abêti(e)
+nous serions abêti(e)s
+vous seriez abêti(e)s
+ils (elles) seraient abêti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abêti(e)
+que tu sois abêti(e)
+qu’il (elle) soit abêti(e)
+que nous soyons abêti(e)s
+que vous soyez abêti(e)s
+qu’ils (elles) soient abêti(e)s
+
+** Imparfait
+
+que je fusse abêti(e)
+que tu fusses abêti(e)
+qu’il (elle) fût abêti(e)
+que nous fussions abêti(e)s
+que vous fussiez abêti(e)s
+qu’ils (elles) fussent abêti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abêti(e)s
+soyez abêti(e)s
+
+* INFINITIF
+
+** Présent
+
+être abêti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abêti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abêti(e)
+tu as été abêti(e)
+il (elle) a été abêti(e)
+nous avons été abêti(e)s
+vous avez été abêti(e)s
+ils (elles) ont été abêti(e)s
+
+** Plus-que-parfait
+
+j'avais été abêti(e)
+il (elle) avait été abêti(e)
+nous avions été abêti(e)s
+ils (elles) avaient été abêti(e)s
+
+** Passé antérieur
+
+j'eus été abêti(e)
+tu eus été abêti(e)
+il (elle) eut été abêti(e)
+nous eûmes été abêti(e)s
+vous eûtes été abêti(e)s
+ils (elles) eurent été abêti(e)s
+
+** Futur antérieur
+
+j'aurai été abêti(e)
+tu auras été abêti(e)
+il (elle) aura été abêti(e)
+nous aurons été abêti(e)s
+vous aurez été abêti(e)s
+ils (elles) auront été abêti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abêti(e)
+j'aurais été abêti(e)
+il (elle) aurait été abêti(e)
+nous aurions été abêti(e)s
+vous auriez été abêti(e)s
+ils (elles) auraient été abêti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abêti(e)
+que tu aies été abêti(e)
+qu’il (elle) ait été abêti(e)
+que nous ayons été abêti(e)s
+que vous ayez été abêti(e)s
+qu’ils (elles) aient été abêti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abêti(e)
+que tu eusses été abêti(e)
+qu’il (elle) eût été abêti(e)
+que nous eussions été abêti(e)s
+que vous eussiez été abêti(e)s
+qu’ils (elles) eussent été abêti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abêti(e)
+ayons été abêti(e)s
+ayez été abêti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abêti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abêti(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe capter
+
+* INDICATIF
+
+** Présent
+
+je capte
+tu captes
+il (elle) capte
+nous captons
+vous captez
+ils (elles) captent
+
+** Imparfait
+
+je captais
+tu captais
+il (elle) captait
+nous captions
+vous captiez
+ils (elles) captaient
+
+** Passé simple
+
+je captai
+tu captas
+il (elle) capta
+nous captâmes
+vous captâtes
+ils (elles) captèrent
+
+** Futur simple
+
+je capterai
+tu capteras
+il (elle) captera
+nous capterons
+vous capterez
+ils (elles) capteront
+
+* CONDITIONNEL
+
+** Présent
+
+je capterais
+tu capterais
+il (elle) capterait
+nous capterions
+vous capteriez
+ils (elles) capteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je capte
+que tu captes
+qu’il (elle) capte
+que nous captions
+que vous captiez
+qu’ils (elles) captent
+
+** Imparfait
+
+que je captasse
+que tu captasses
+qu’il (elle) captât
+que nous captassions
+que vous captassiez
+qu’ils (elles) captassent
+
+* IMPÉRATIF
+
+** Présent
+
+capte
+captons
+captez
+
+* INFINITIF
+
+** Présent
+
+capter
+
+* PARTICIPE
+
+** Présent
+
+captant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai capté
+tu as capté
+il (elle) a capté
+nous avons capté
+vous avez capté
+ils (elles) ont capté
+
+** Plus-que-parfait
+
+j'avais capté
+tu avais capté
+il (elle) avait capté
+nous avions capté
+vous aviez capté
+ils (elles) avaient capté
+
+** Passé antérieur
+
+j'eus capté
+tu eus capté
+il (elle) eut capté
+nous eûmes capté
+vous eûtes capté
+ils (elles) eurent capté
+
+** Futur antérieur
+
+j'aurai capté
+tu auras capté
+il (elle) aura capté
+nous aurons capté
+vous aurez capté
+ils (elles) auront capté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais capté
+tu aurais capté
+il (elle) aurait capté
+nous aurions capté
+vous auriez capté
+ils (elles) auraient capté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie capté
+que tu aies capté
+qu’il (elle) ait capté
+que nous ayons capté
+que vous ayez capté
+qu’ils (elles) aient capté
+
+** Plus-que-parfait
+
+que j'eusse capté
+que tu eusses capté
+qu’il (elle) eût capté
+que nous eussions capté
+que vous eussiez capté
+qu’ils (elles) eussent capté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons capté
+ayez capté
+
+* INFINITIF
+
+** Passé
+
+avoir capté
+
+* PARTICIPE
+
+** Passé
+
+ayant capté
+capté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis capté(e)
+tu es capté(e)
+il (elle) est capté(e)
+nous sommes capté(e)s
+vous êtes capté(e)s
+ils (elles) sont capté(e)s
+
+** Imparfait
+
+j'étais capté(e)
+tu étais capté(e)
+il (elle) était capté(e)
+nous étions capté(e)s
+vous étiez capté(e)s
+ils (elles) étaient capté(e)s
+
+** Passé simple
+
+je fus capté(e)
+tu fus capté(e)
+il (elle) fut capté(e)
+nous fûmes capté(e)s
+vous fûtes capté(e)s
+ils (elles) furent capté(e)s
+
+** Futur simple
+
+je serai capté(e)
+tu seras capté(e)
+il (elle) sera capté(e)
+nous serons capté(e)s
+vous serez capté(e)s
+ils (elles) seront capté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais capté(e)
+tu serais capté(e)
+il (elle) serait capté(e)
+nous serions capté(e)s
+vous seriez capté(e)s
+ils (elles) seraient capté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois capté(e)
+que tu sois capté(e)
+qu’il (elle) soit capté(e)
+que nous soyons capté(e)s
+que vous soyez capté(e)s
+qu’ils (elles) soient capté(e)s
+
+** Imparfait
+
+que je fusse capté(e)
+que tu fusses capté(e)
+qu’il (elle) fût capté(e)
+que nous fussions capté(e)s
+que vous fussiez capté(e)s
+qu’ils (elles) fussent capté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons capté(e)s
+soyez capté(e)s
+
+* INFINITIF
+
+** Présent
+
+être capté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant capté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été capté(e)
+tu as été capté(e)
+il (elle) a été capté(e)
+nous avons été capté(e)s
+vous avez été capté(e)s
+ils (elles) ont été capté(e)s
+
+** Plus-que-parfait
+
+j'avais été capté(e)
+il (elle) avait été capté(e)
+nous avions été capté(e)s
+ils (elles) avaient été capté(e)s
+
+** Passé antérieur
+
+j'eus été capté(e)
+tu eus été capté(e)
+il (elle) eut été capté(e)
+nous eûmes été capté(e)s
+vous eûtes été capté(e)s
+ils (elles) eurent été capté(e)s
+
+** Futur antérieur
+
+j'aurai été capté(e)
+tu auras été capté(e)
+il (elle) aura été capté(e)
+nous aurons été capté(e)s
+vous aurez été capté(e)s
+ils (elles) auront été capté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été capté(e)
+j'aurais été capté(e)
+il (elle) aurait été capté(e)
+nous aurions été capté(e)s
+vous auriez été capté(e)s
+ils (elles) auraient été capté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été capté(e)
+que tu aies été capté(e)
+qu’il (elle) ait été capté(e)
+que nous ayons été capté(e)s
+que vous ayez été capté(e)s
+qu’ils (elles) aient été capté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été capté(e)
+que tu eusses été capté(e)
+qu’il (elle) eût été capté(e)
+que nous eussions été capté(e)s
+que vous eussiez été capté(e)s
+qu’ils (elles) eussent été capté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été capté(e)
+ayons été capté(e)s
+ayez été capté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été capté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été capté(e)(s)

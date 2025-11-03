@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe perdurer
+
+* INDICATIF
+
+** Présent
+
+je perdure
+tu perdures
+il (elle) perdure
+nous perdurons
+vous perdurez
+ils (elles) perdurent
+
+** Imparfait
+
+je perdurais
+tu perdurais
+il (elle) perdurait
+nous perdurions
+vous perduriez
+ils (elles) perduraient
+
+** Passé simple
+
+je perdurai
+tu perduras
+il (elle) perdura
+nous perdurâmes
+vous perdurâtes
+ils (elles) perdurèrent
+
+** Futur simple
+
+je perdurerai
+tu perdureras
+il (elle) perdurera
+nous perdurerons
+vous perdurerez
+ils (elles) perdureront
+
+* CONDITIONNEL
+
+** Présent
+
+je perdurerais
+tu perdurerais
+il (elle) perdurerait
+nous perdurerions
+vous perdureriez
+ils (elles) perdureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je perdure
+que tu perdures
+qu’il (elle) perdure
+que nous perdurions
+que vous perduriez
+qu’ils (elles) perdurent
+
+** Imparfait
+
+que je perdurasse
+que tu perdurasses
+qu’il (elle) perdurât
+que nous perdurassions
+que vous perdurassiez
+qu’ils (elles) perdurassent
+
+* IMPÉRATIF
+
+** Présent
+
+perdure
+perdurons
+perdurez
+
+* INFINITIF
+
+** Présent
+
+perdurer
+
+* PARTICIPE
+
+** Présent
+
+perdurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai perduré
+tu as perduré
+il (elle) a perduré
+nous avons perduré
+vous avez perduré
+ils (elles) ont perduré
+
+** Plus-que-parfait
+
+j'avais perduré
+tu avais perduré
+il (elle) avait perduré
+nous avions perduré
+vous aviez perduré
+ils (elles) avaient perduré
+
+** Passé antérieur
+
+j'eus perduré
+tu eus perduré
+il (elle) eut perduré
+nous eûmes perduré
+vous eûtes perduré
+ils (elles) eurent perduré
+
+** Futur antérieur
+
+j'aurai perduré
+tu auras perduré
+il (elle) aura perduré
+nous aurons perduré
+vous aurez perduré
+ils (elles) auront perduré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais perduré
+tu aurais perduré
+il (elle) aurait perduré
+nous aurions perduré
+vous auriez perduré
+ils (elles) auraient perduré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie perduré
+que tu aies perduré
+qu’il (elle) ait perduré
+que nous ayons perduré
+que vous ayez perduré
+qu’ils (elles) aient perduré
+
+** Plus-que-parfait
+
+que j'eusse perduré
+que tu eusses perduré
+qu’il (elle) eût perduré
+que nous eussions perduré
+que vous eussiez perduré
+qu’ils (elles) eussent perduré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons perduré
+ayez perduré
+
+* INFINITIF
+
+** Passé
+
+avoir perduré
+
+* PARTICIPE
+
+** Passé
+
+ayant perduré
+perduré (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe rire
+
+* INDICATIF
+
+** Présent
+
+je ris
+tu ris
+il (elle) rit
+nous rions
+vous riez
+ils (elles) rient
+
+** Imparfait
+
+je riais
+tu riais
+il (elle) riait
+nous riions
+vous riiez
+ils (elles) riaient
+
+** Passé simple
+
+je ris
+tu ris
+il (elle) rit
+nous rîmes
+vous rîtes
+ils (elles) rirent
+
+** Futur simple
+
+je rirai
+tu riras
+il (elle) rira
+nous rirons
+vous rirez
+ils (elles) riront
+
+* CONDITIONNEL
+
+** Présent
+
+je rirais
+tu rirais
+il (elle) rirait
+nous ririons
+vous ririez
+ils (elles) riraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rie
+que tu ries
+qu’il (elle) rie
+que nous riions
+que vous riiez
+qu’ils (elles) rient
+
+** Imparfait
+
+que je risse
+que tu risses
+qu’il (elle) rît
+que nous rissions
+que vous rissiez
+qu’ils (elles) rissent
+
+* IMPÉRATIF
+
+** Présent
+
+ris
+rions
+riez
+
+* INFINITIF
+
+** Présent
+
+rire
+
+* PARTICIPE
+
+** Présent
+
+riant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ri
+tu as ri
+il (elle) a ri
+nous avons ri
+vous avez ri
+ils (elles) ont ri
+
+** Plus-que-parfait
+
+j'avais ri
+tu avais ri
+il (elle) avait ri
+nous avions ri
+vous aviez ri
+ils (elles) avaient ri
+
+** Passé antérieur
+
+j'eus ri
+tu eus ri
+il (elle) eut ri
+nous eûmes ri
+vous eûtes ri
+ils (elles) eurent ri
+
+** Futur antérieur
+
+j'aurai ri
+tu auras ri
+il (elle) aura ri
+nous aurons ri
+vous aurez ri
+ils (elles) auront ri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ri
+tu aurais ri
+il (elle) aurait ri
+nous aurions ri
+vous auriez ri
+ils (elles) auraient ri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ri
+que tu aies ri
+qu’il (elle) ait ri
+que nous ayons ri
+que vous ayez ri
+qu’ils (elles) aient ri
+
+** Plus-que-parfait
+
+que j'eusse ri
+que tu eusses ri
+qu’il (elle) eût ri
+que nous eussions ri
+que vous eussiez ri
+qu’ils (elles) eussent ri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ri
+ayez ri
+
+* INFINITIF
+
+** Passé
+
+avoir ri
+
+* PARTICIPE
+
+** Passé
+
+ayant ri
+ri (invar.)

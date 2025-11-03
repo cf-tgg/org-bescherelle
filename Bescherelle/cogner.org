@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cogner
+
+* INDICATIF
+
+** Présent
+
+je cogne
+tu cognes
+il (elle) cogne
+nous cognons
+vous cognez
+ils (elles) cognent
+
+** Imparfait
+
+je cognais
+tu cognais
+il (elle) cognait
+nous cognions
+vous cogniez
+ils (elles) cognaient
+
+** Passé simple
+
+je cognai
+tu cognas
+il (elle) cogna
+nous cognâmes
+vous cognâtes
+ils (elles) cognèrent
+
+** Futur simple
+
+je cognerai
+tu cogneras
+il (elle) cognera
+nous cognerons
+vous cognerez
+ils (elles) cogneront
+
+* CONDITIONNEL
+
+** Présent
+
+je cognerais
+tu cognerais
+il (elle) cognerait
+nous cognerions
+vous cogneriez
+ils (elles) cogneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cogne
+que tu cognes
+qu’il (elle) cogne
+que nous cognions
+que vous cogniez
+qu’ils (elles) cognent
+
+** Imparfait
+
+que je cognasse
+que tu cognasses
+qu’il (elle) cognât
+que nous cognassions
+que vous cognassiez
+qu’ils (elles) cognassent
+
+* IMPÉRATIF
+
+** Présent
+
+cogne
+cognons
+cognez
+
+* INFINITIF
+
+** Présent
+
+cogner
+
+* PARTICIPE
+
+** Présent
+
+cognant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cogné
+tu as cogné
+il (elle) a cogné
+nous avons cogné
+vous avez cogné
+ils (elles) ont cogné
+
+** Plus-que-parfait
+
+j'avais cogné
+tu avais cogné
+il (elle) avait cogné
+nous avions cogné
+vous aviez cogné
+ils (elles) avaient cogné
+
+** Passé antérieur
+
+j'eus cogné
+tu eus cogné
+il (elle) eut cogné
+nous eûmes cogné
+vous eûtes cogné
+ils (elles) eurent cogné
+
+** Futur antérieur
+
+j'aurai cogné
+tu auras cogné
+il (elle) aura cogné
+nous aurons cogné
+vous aurez cogné
+ils (elles) auront cogné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cogné
+tu aurais cogné
+il (elle) aurait cogné
+nous aurions cogné
+vous auriez cogné
+ils (elles) auraient cogné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cogné
+que tu aies cogné
+qu’il (elle) ait cogné
+que nous ayons cogné
+que vous ayez cogné
+qu’ils (elles) aient cogné
+
+** Plus-que-parfait
+
+que j'eusse cogné
+que tu eusses cogné
+qu’il (elle) eût cogné
+que nous eussions cogné
+que vous eussiez cogné
+qu’ils (elles) eussent cogné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cogné
+ayez cogné
+
+* INFINITIF
+
+** Passé
+
+avoir cogné
+
+* PARTICIPE
+
+** Passé
+
+ayant cogné
+cogné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cogné(e)
+tu es cogné(e)
+il (elle) est cogné(e)
+nous sommes cogné(e)s
+vous êtes cogné(e)s
+ils (elles) sont cogné(e)s
+
+** Imparfait
+
+j'étais cogné(e)
+tu étais cogné(e)
+il (elle) était cogné(e)
+nous étions cogné(e)s
+vous étiez cogné(e)s
+ils (elles) étaient cogné(e)s
+
+** Passé simple
+
+je fus cogné(e)
+tu fus cogné(e)
+il (elle) fut cogné(e)
+nous fûmes cogné(e)s
+vous fûtes cogné(e)s
+ils (elles) furent cogné(e)s
+
+** Futur simple
+
+je serai cogné(e)
+tu seras cogné(e)
+il (elle) sera cogné(e)
+nous serons cogné(e)s
+vous serez cogné(e)s
+ils (elles) seront cogné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cogné(e)
+tu serais cogné(e)
+il (elle) serait cogné(e)
+nous serions cogné(e)s
+vous seriez cogné(e)s
+ils (elles) seraient cogné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cogné(e)
+que tu sois cogné(e)
+qu’il (elle) soit cogné(e)
+que nous soyons cogné(e)s
+que vous soyez cogné(e)s
+qu’ils (elles) soient cogné(e)s
+
+** Imparfait
+
+que je fusse cogné(e)
+que tu fusses cogné(e)
+qu’il (elle) fût cogné(e)
+que nous fussions cogné(e)s
+que vous fussiez cogné(e)s
+qu’ils (elles) fussent cogné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cogné(e)s
+soyez cogné(e)s
+
+* INFINITIF
+
+** Présent
+
+être cogné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cogné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cogné(e)
+tu as été cogné(e)
+il (elle) a été cogné(e)
+nous avons été cogné(e)s
+vous avez été cogné(e)s
+ils (elles) ont été cogné(e)s
+
+** Plus-que-parfait
+
+j'avais été cogné(e)
+il (elle) avait été cogné(e)
+nous avions été cogné(e)s
+ils (elles) avaient été cogné(e)s
+
+** Passé antérieur
+
+j'eus été cogné(e)
+tu eus été cogné(e)
+il (elle) eut été cogné(e)
+nous eûmes été cogné(e)s
+vous eûtes été cogné(e)s
+ils (elles) eurent été cogné(e)s
+
+** Futur antérieur
+
+j'aurai été cogné(e)
+tu auras été cogné(e)
+il (elle) aura été cogné(e)
+nous aurons été cogné(e)s
+vous aurez été cogné(e)s
+ils (elles) auront été cogné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cogné(e)
+j'aurais été cogné(e)
+il (elle) aurait été cogné(e)
+nous aurions été cogné(e)s
+vous auriez été cogné(e)s
+ils (elles) auraient été cogné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cogné(e)
+que tu aies été cogné(e)
+qu’il (elle) ait été cogné(e)
+que nous ayons été cogné(e)s
+que vous ayez été cogné(e)s
+qu’ils (elles) aient été cogné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cogné(e)
+que tu eusses été cogné(e)
+qu’il (elle) eût été cogné(e)
+que nous eussions été cogné(e)s
+que vous eussiez été cogné(e)s
+qu’ils (elles) eussent été cogné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cogné(e)
+ayons été cogné(e)s
+ayez été cogné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cogné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cogné(e)(s)

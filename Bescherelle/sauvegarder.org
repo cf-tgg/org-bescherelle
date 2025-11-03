@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sauvegarder
+
+* INDICATIF
+
+** Présent
+
+je sauvegarde
+tu sauvegardes
+il (elle) sauvegarde
+nous sauvegardons
+vous sauvegardez
+ils (elles) sauvegardent
+
+** Imparfait
+
+je sauvegardais
+tu sauvegardais
+il (elle) sauvegardait
+nous sauvegardions
+vous sauvegardiez
+ils (elles) sauvegardaient
+
+** Passé simple
+
+je sauvegardai
+tu sauvegardas
+il (elle) sauvegarda
+nous sauvegardâmes
+vous sauvegardâtes
+ils (elles) sauvegardèrent
+
+** Futur simple
+
+je sauvegarderai
+tu sauvegarderas
+il (elle) sauvegardera
+nous sauvegarderons
+vous sauvegarderez
+ils (elles) sauvegarderont
+
+* CONDITIONNEL
+
+** Présent
+
+je sauvegarderais
+tu sauvegarderais
+il (elle) sauvegarderait
+nous sauvegarderions
+vous sauvegarderiez
+ils (elles) sauvegarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sauvegarde
+que tu sauvegardes
+qu’il (elle) sauvegarde
+que nous sauvegardions
+que vous sauvegardiez
+qu’ils (elles) sauvegardent
+
+** Imparfait
+
+que je sauvegardasse
+que tu sauvegardasses
+qu’il (elle) sauvegardât
+que nous sauvegardassions
+que vous sauvegardassiez
+qu’ils (elles) sauvegardassent
+
+* IMPÉRATIF
+
+** Présent
+
+sauvegarde
+sauvegardons
+sauvegardez
+
+* INFINITIF
+
+** Présent
+
+sauvegarder
+
+* PARTICIPE
+
+** Présent
+
+sauvegardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sauvegardé
+tu as sauvegardé
+il (elle) a sauvegardé
+nous avons sauvegardé
+vous avez sauvegardé
+ils (elles) ont sauvegardé
+
+** Plus-que-parfait
+
+j'avais sauvegardé
+tu avais sauvegardé
+il (elle) avait sauvegardé
+nous avions sauvegardé
+vous aviez sauvegardé
+ils (elles) avaient sauvegardé
+
+** Passé antérieur
+
+j'eus sauvegardé
+tu eus sauvegardé
+il (elle) eut sauvegardé
+nous eûmes sauvegardé
+vous eûtes sauvegardé
+ils (elles) eurent sauvegardé
+
+** Futur antérieur
+
+j'aurai sauvegardé
+tu auras sauvegardé
+il (elle) aura sauvegardé
+nous aurons sauvegardé
+vous aurez sauvegardé
+ils (elles) auront sauvegardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sauvegardé
+tu aurais sauvegardé
+il (elle) aurait sauvegardé
+nous aurions sauvegardé
+vous auriez sauvegardé
+ils (elles) auraient sauvegardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sauvegardé
+que tu aies sauvegardé
+qu’il (elle) ait sauvegardé
+que nous ayons sauvegardé
+que vous ayez sauvegardé
+qu’ils (elles) aient sauvegardé
+
+** Plus-que-parfait
+
+que j'eusse sauvegardé
+que tu eusses sauvegardé
+qu’il (elle) eût sauvegardé
+que nous eussions sauvegardé
+que vous eussiez sauvegardé
+qu’ils (elles) eussent sauvegardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sauvegardé
+ayez sauvegardé
+
+* INFINITIF
+
+** Passé
+
+avoir sauvegardé
+
+* PARTICIPE
+
+** Passé
+
+ayant sauvegardé
+sauvegardé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sauvegardé(e)
+tu es sauvegardé(e)
+il (elle) est sauvegardé(e)
+nous sommes sauvegardé(e)s
+vous êtes sauvegardé(e)s
+ils (elles) sont sauvegardé(e)s
+
+** Imparfait
+
+j'étais sauvegardé(e)
+tu étais sauvegardé(e)
+il (elle) était sauvegardé(e)
+nous étions sauvegardé(e)s
+vous étiez sauvegardé(e)s
+ils (elles) étaient sauvegardé(e)s
+
+** Passé simple
+
+je fus sauvegardé(e)
+tu fus sauvegardé(e)
+il (elle) fut sauvegardé(e)
+nous fûmes sauvegardé(e)s
+vous fûtes sauvegardé(e)s
+ils (elles) furent sauvegardé(e)s
+
+** Futur simple
+
+je serai sauvegardé(e)
+tu seras sauvegardé(e)
+il (elle) sera sauvegardé(e)
+nous serons sauvegardé(e)s
+vous serez sauvegardé(e)s
+ils (elles) seront sauvegardé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sauvegardé(e)
+tu serais sauvegardé(e)
+il (elle) serait sauvegardé(e)
+nous serions sauvegardé(e)s
+vous seriez sauvegardé(e)s
+ils (elles) seraient sauvegardé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sauvegardé(e)
+que tu sois sauvegardé(e)
+qu’il (elle) soit sauvegardé(e)
+que nous soyons sauvegardé(e)s
+que vous soyez sauvegardé(e)s
+qu’ils (elles) soient sauvegardé(e)s
+
+** Imparfait
+
+que je fusse sauvegardé(e)
+que tu fusses sauvegardé(e)
+qu’il (elle) fût sauvegardé(e)
+que nous fussions sauvegardé(e)s
+que vous fussiez sauvegardé(e)s
+qu’ils (elles) fussent sauvegardé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sauvegardé(e)s
+soyez sauvegardé(e)s
+
+* INFINITIF
+
+** Présent
+
+être sauvegardé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sauvegardé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sauvegardé(e)
+tu as été sauvegardé(e)
+il (elle) a été sauvegardé(e)
+nous avons été sauvegardé(e)s
+vous avez été sauvegardé(e)s
+ils (elles) ont été sauvegardé(e)s
+
+** Plus-que-parfait
+
+j'avais été sauvegardé(e)
+il (elle) avait été sauvegardé(e)
+nous avions été sauvegardé(e)s
+ils (elles) avaient été sauvegardé(e)s
+
+** Passé antérieur
+
+j'eus été sauvegardé(e)
+tu eus été sauvegardé(e)
+il (elle) eut été sauvegardé(e)
+nous eûmes été sauvegardé(e)s
+vous eûtes été sauvegardé(e)s
+ils (elles) eurent été sauvegardé(e)s
+
+** Futur antérieur
+
+j'aurai été sauvegardé(e)
+tu auras été sauvegardé(e)
+il (elle) aura été sauvegardé(e)
+nous aurons été sauvegardé(e)s
+vous aurez été sauvegardé(e)s
+ils (elles) auront été sauvegardé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sauvegardé(e)
+j'aurais été sauvegardé(e)
+il (elle) aurait été sauvegardé(e)
+nous aurions été sauvegardé(e)s
+vous auriez été sauvegardé(e)s
+ils (elles) auraient été sauvegardé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sauvegardé(e)
+que tu aies été sauvegardé(e)
+qu’il (elle) ait été sauvegardé(e)
+que nous ayons été sauvegardé(e)s
+que vous ayez été sauvegardé(e)s
+qu’ils (elles) aient été sauvegardé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sauvegardé(e)
+que tu eusses été sauvegardé(e)
+qu’il (elle) eût été sauvegardé(e)
+que nous eussions été sauvegardé(e)s
+que vous eussiez été sauvegardé(e)s
+qu’ils (elles) eussent été sauvegardé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sauvegardé(e)
+ayons été sauvegardé(e)s
+ayez été sauvegardé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sauvegardé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sauvegardé(e)(s)

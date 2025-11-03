@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe alerter
+
+* INDICATIF
+
+** Présent
+
+j'alerte
+tu alertes
+il (elle) alerte
+nous alertons
+vous alertez
+ils (elles) alertent
+
+** Imparfait
+
+j'alertais
+tu alertais
+il (elle) alertait
+nous alertions
+vous alertiez
+ils (elles) alertaient
+
+** Passé simple
+
+j'alertai
+tu alertas
+il (elle) alerta
+nous alertâmes
+vous alertâtes
+ils (elles) alertèrent
+
+** Futur simple
+
+j'alerterai
+tu alerteras
+il (elle) alertera
+nous alerterons
+vous alerterez
+ils (elles) alerteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'alerterais
+tu alerterais
+il (elle) alerterait
+nous alerterions
+vous alerteriez
+ils (elles) alerteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alerte
+que tu alertes
+qu’il (elle) alerte
+que nous alertions
+que vous alertiez
+qu’ils (elles) alertent
+
+** Imparfait
+
+que j'alertasse
+que tu alertasses
+qu’il (elle) alertât
+que nous alertassions
+que vous alertassiez
+qu’ils (elles) alertassent
+
+* IMPÉRATIF
+
+** Présent
+
+alerte
+alertons
+alertez
+
+* INFINITIF
+
+** Présent
+
+alerter
+
+* PARTICIPE
+
+** Présent
+
+alertant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai alerté
+tu as alerté
+il (elle) a alerté
+nous avons alerté
+vous avez alerté
+ils (elles) ont alerté
+
+** Plus-que-parfait
+
+j'avais alerté
+tu avais alerté
+il (elle) avait alerté
+nous avions alerté
+vous aviez alerté
+ils (elles) avaient alerté
+
+** Passé antérieur
+
+j'eus alerté
+tu eus alerté
+il (elle) eut alerté
+nous eûmes alerté
+vous eûtes alerté
+ils (elles) eurent alerté
+
+** Futur antérieur
+
+j'aurai alerté
+tu auras alerté
+il (elle) aura alerté
+nous aurons alerté
+vous aurez alerté
+ils (elles) auront alerté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais alerté
+tu aurais alerté
+il (elle) aurait alerté
+nous aurions alerté
+vous auriez alerté
+ils (elles) auraient alerté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie alerté
+que tu aies alerté
+qu’il (elle) ait alerté
+que nous ayons alerté
+que vous ayez alerté
+qu’ils (elles) aient alerté
+
+** Plus-que-parfait
+
+que j'eusse alerté
+que tu eusses alerté
+qu’il (elle) eût alerté
+que nous eussions alerté
+que vous eussiez alerté
+qu’ils (elles) eussent alerté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons alerté
+ayez alerté
+
+* INFINITIF
+
+** Passé
+
+avoir alerté
+
+* PARTICIPE
+
+** Passé
+
+ayant alerté
+alerté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis alerté(e)
+tu es alerté(e)
+il (elle) est alerté(e)
+nous sommes alerté(e)s
+vous êtes alerté(e)s
+ils (elles) sont alerté(e)s
+
+** Imparfait
+
+j'étais alerté(e)
+tu étais alerté(e)
+il (elle) était alerté(e)
+nous étions alerté(e)s
+vous étiez alerté(e)s
+ils (elles) étaient alerté(e)s
+
+** Passé simple
+
+je fus alerté(e)
+tu fus alerté(e)
+il (elle) fut alerté(e)
+nous fûmes alerté(e)s
+vous fûtes alerté(e)s
+ils (elles) furent alerté(e)s
+
+** Futur simple
+
+je serai alerté(e)
+tu seras alerté(e)
+il (elle) sera alerté(e)
+nous serons alerté(e)s
+vous serez alerté(e)s
+ils (elles) seront alerté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais alerté(e)
+tu serais alerté(e)
+il (elle) serait alerté(e)
+nous serions alerté(e)s
+vous seriez alerté(e)s
+ils (elles) seraient alerté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois alerté(e)
+que tu sois alerté(e)
+qu’il (elle) soit alerté(e)
+que nous soyons alerté(e)s
+que vous soyez alerté(e)s
+qu’ils (elles) soient alerté(e)s
+
+** Imparfait
+
+que je fusse alerté(e)
+que tu fusses alerté(e)
+qu’il (elle) fût alerté(e)
+que nous fussions alerté(e)s
+que vous fussiez alerté(e)s
+qu’ils (elles) fussent alerté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons alerté(e)s
+soyez alerté(e)s
+
+* INFINITIF
+
+** Présent
+
+être alerté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant alerté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été alerté(e)
+tu as été alerté(e)
+il (elle) a été alerté(e)
+nous avons été alerté(e)s
+vous avez été alerté(e)s
+ils (elles) ont été alerté(e)s
+
+** Plus-que-parfait
+
+j'avais été alerté(e)
+il (elle) avait été alerté(e)
+nous avions été alerté(e)s
+ils (elles) avaient été alerté(e)s
+
+** Passé antérieur
+
+j'eus été alerté(e)
+tu eus été alerté(e)
+il (elle) eut été alerté(e)
+nous eûmes été alerté(e)s
+vous eûtes été alerté(e)s
+ils (elles) eurent été alerté(e)s
+
+** Futur antérieur
+
+j'aurai été alerté(e)
+tu auras été alerté(e)
+il (elle) aura été alerté(e)
+nous aurons été alerté(e)s
+vous aurez été alerté(e)s
+ils (elles) auront été alerté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été alerté(e)
+j'aurais été alerté(e)
+il (elle) aurait été alerté(e)
+nous aurions été alerté(e)s
+vous auriez été alerté(e)s
+ils (elles) auraient été alerté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été alerté(e)
+que tu aies été alerté(e)
+qu’il (elle) ait été alerté(e)
+que nous ayons été alerté(e)s
+que vous ayez été alerté(e)s
+qu’ils (elles) aient été alerté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été alerté(e)
+que tu eusses été alerté(e)
+qu’il (elle) eût été alerté(e)
+que nous eussions été alerté(e)s
+que vous eussiez été alerté(e)s
+qu’ils (elles) eussent été alerté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été alerté(e)
+ayons été alerté(e)s
+ayez été alerté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été alerté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été alerté(e)(s)

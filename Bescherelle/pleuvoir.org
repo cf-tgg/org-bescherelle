@@ -1,0 +1,108 @@
+#+title: Conjugaison du verbe pleuvoir
+
+* INDICATIF
+
+** Présent
+
+il (elle) pleut
+ils (elles) pleuvent
+
+** Imparfait
+
+il (elle) pleuvait
+ils (elles) pleuvaient
+
+** Passé simple
+
+il (elle) plut
+ils (elles) plurent
+
+** Futur simple
+
+il (elle) pleuvra
+ils (elles) pleuvront
+
+* CONDITIONNEL
+
+** Présent
+
+il (elle) pleuvrait
+ils (elles) pleuvraient
+
+* SUBJONCTIF
+
+** Présent
+
+qu’il (elle) pleuve
+qu’ils (elles) pleuvent
+
+** Imparfait
+
+qu’il (elle) plût
+qu’ils (elles) plussent
+
+* INFINITIF
+
+** Présent
+
+pleuvoir
+
+* PARTICIPE
+
+** Présent
+
+pleuvant
+
+* INDICATIF
+
+** Passé composé
+
+il (elle) a plu
+ils (elles) ont plu
+
+** Plus-que-parfait
+
+il (elle) avait plu
+ils (elles) avaient plu
+
+** Passé antérieur
+
+il (elle) eut plu
+ils (elles) eurent plu
+
+** Futur antérieur
+
+il (elle) aura plu
+ils (elles) auront plu
+
+* CONDITIONNEL
+
+** Passé
+
+il (elle) aurait plu
+ils (elles) auraient plu
+
+* SUBJONCTIF
+
+** Passé
+
+qu’il (elle) ait plu
+qu’ils (elles) aient plu
+
+** Plus-que-parfait
+
+qu’il (elle) eût plu
+qu’ils (elles) eussent plu
+
+* INFINITIF
+
+** Passé
+
+avoir plu
+
+* PARTICIPE
+
+** Passé
+
+ayant plu
+plu (invar.)

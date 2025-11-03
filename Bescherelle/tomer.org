@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tomer
+
+* INDICATIF
+
+** Présent
+
+je tome
+tu tomes
+il (elle) tome
+nous tomons
+vous tomez
+ils (elles) toment
+
+** Imparfait
+
+je tomais
+tu tomais
+il (elle) tomait
+nous tomions
+vous tomiez
+ils (elles) tomaient
+
+** Passé simple
+
+je tomai
+tu tomas
+il (elle) toma
+nous tomâmes
+vous tomâtes
+ils (elles) tomèrent
+
+** Futur simple
+
+je tomerai
+tu tomeras
+il (elle) tomera
+nous tomerons
+vous tomerez
+ils (elles) tomeront
+
+* CONDITIONNEL
+
+** Présent
+
+je tomerais
+tu tomerais
+il (elle) tomerait
+nous tomerions
+vous tomeriez
+ils (elles) tomeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tome
+que tu tomes
+qu’il (elle) tome
+que nous tomions
+que vous tomiez
+qu’ils (elles) toment
+
+** Imparfait
+
+que je tomasse
+que tu tomasses
+qu’il (elle) tomât
+que nous tomassions
+que vous tomassiez
+qu’ils (elles) tomassent
+
+* IMPÉRATIF
+
+** Présent
+
+tome
+tomons
+tomez
+
+* INFINITIF
+
+** Présent
+
+tomer
+
+* PARTICIPE
+
+** Présent
+
+tomant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tomé
+tu as tomé
+il (elle) a tomé
+nous avons tomé
+vous avez tomé
+ils (elles) ont tomé
+
+** Plus-que-parfait
+
+j'avais tomé
+tu avais tomé
+il (elle) avait tomé
+nous avions tomé
+vous aviez tomé
+ils (elles) avaient tomé
+
+** Passé antérieur
+
+j'eus tomé
+tu eus tomé
+il (elle) eut tomé
+nous eûmes tomé
+vous eûtes tomé
+ils (elles) eurent tomé
+
+** Futur antérieur
+
+j'aurai tomé
+tu auras tomé
+il (elle) aura tomé
+nous aurons tomé
+vous aurez tomé
+ils (elles) auront tomé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tomé
+tu aurais tomé
+il (elle) aurait tomé
+nous aurions tomé
+vous auriez tomé
+ils (elles) auraient tomé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tomé
+que tu aies tomé
+qu’il (elle) ait tomé
+que nous ayons tomé
+que vous ayez tomé
+qu’ils (elles) aient tomé
+
+** Plus-que-parfait
+
+que j'eusse tomé
+que tu eusses tomé
+qu’il (elle) eût tomé
+que nous eussions tomé
+que vous eussiez tomé
+qu’ils (elles) eussent tomé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tomé
+ayez tomé
+
+* INFINITIF
+
+** Passé
+
+avoir tomé
+
+* PARTICIPE
+
+** Passé
+
+ayant tomé
+tomé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tomé(e)
+tu es tomé(e)
+il (elle) est tomé(e)
+nous sommes tomé(e)s
+vous êtes tomé(e)s
+ils (elles) sont tomé(e)s
+
+** Imparfait
+
+j'étais tomé(e)
+tu étais tomé(e)
+il (elle) était tomé(e)
+nous étions tomé(e)s
+vous étiez tomé(e)s
+ils (elles) étaient tomé(e)s
+
+** Passé simple
+
+je fus tomé(e)
+tu fus tomé(e)
+il (elle) fut tomé(e)
+nous fûmes tomé(e)s
+vous fûtes tomé(e)s
+ils (elles) furent tomé(e)s
+
+** Futur simple
+
+je serai tomé(e)
+tu seras tomé(e)
+il (elle) sera tomé(e)
+nous serons tomé(e)s
+vous serez tomé(e)s
+ils (elles) seront tomé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tomé(e)
+tu serais tomé(e)
+il (elle) serait tomé(e)
+nous serions tomé(e)s
+vous seriez tomé(e)s
+ils (elles) seraient tomé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tomé(e)
+que tu sois tomé(e)
+qu’il (elle) soit tomé(e)
+que nous soyons tomé(e)s
+que vous soyez tomé(e)s
+qu’ils (elles) soient tomé(e)s
+
+** Imparfait
+
+que je fusse tomé(e)
+que tu fusses tomé(e)
+qu’il (elle) fût tomé(e)
+que nous fussions tomé(e)s
+que vous fussiez tomé(e)s
+qu’ils (elles) fussent tomé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tomé(e)s
+soyez tomé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tomé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tomé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tomé(e)
+tu as été tomé(e)
+il (elle) a été tomé(e)
+nous avons été tomé(e)s
+vous avez été tomé(e)s
+ils (elles) ont été tomé(e)s
+
+** Plus-que-parfait
+
+j'avais été tomé(e)
+il (elle) avait été tomé(e)
+nous avions été tomé(e)s
+ils (elles) avaient été tomé(e)s
+
+** Passé antérieur
+
+j'eus été tomé(e)
+tu eus été tomé(e)
+il (elle) eut été tomé(e)
+nous eûmes été tomé(e)s
+vous eûtes été tomé(e)s
+ils (elles) eurent été tomé(e)s
+
+** Futur antérieur
+
+j'aurai été tomé(e)
+tu auras été tomé(e)
+il (elle) aura été tomé(e)
+nous aurons été tomé(e)s
+vous aurez été tomé(e)s
+ils (elles) auront été tomé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tomé(e)
+j'aurais été tomé(e)
+il (elle) aurait été tomé(e)
+nous aurions été tomé(e)s
+vous auriez été tomé(e)s
+ils (elles) auraient été tomé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tomé(e)
+que tu aies été tomé(e)
+qu’il (elle) ait été tomé(e)
+que nous ayons été tomé(e)s
+que vous ayez été tomé(e)s
+qu’ils (elles) aient été tomé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tomé(e)
+que tu eusses été tomé(e)
+qu’il (elle) eût été tomé(e)
+que nous eussions été tomé(e)s
+que vous eussiez été tomé(e)s
+qu’ils (elles) eussent été tomé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tomé(e)
+ayons été tomé(e)s
+ayez été tomé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tomé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tomé(e)(s)

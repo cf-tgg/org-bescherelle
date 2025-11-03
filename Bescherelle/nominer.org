@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nominer
+
+* INDICATIF
+
+** Présent
+
+je nomine
+tu nomines
+il (elle) nomine
+nous nominons
+vous nominez
+ils (elles) nominent
+
+** Imparfait
+
+je nominais
+tu nominais
+il (elle) nominait
+nous nominions
+vous nominiez
+ils (elles) nominaient
+
+** Passé simple
+
+je nominai
+tu nominas
+il (elle) nomina
+nous nominâmes
+vous nominâtes
+ils (elles) nominèrent
+
+** Futur simple
+
+je nominerai
+tu nomineras
+il (elle) nominera
+nous nominerons
+vous nominerez
+ils (elles) nomineront
+
+* CONDITIONNEL
+
+** Présent
+
+je nominerais
+tu nominerais
+il (elle) nominerait
+nous nominerions
+vous nomineriez
+ils (elles) nomineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nomine
+que tu nomines
+qu’il (elle) nomine
+que nous nominions
+que vous nominiez
+qu’ils (elles) nominent
+
+** Imparfait
+
+que je nominasse
+que tu nominasses
+qu’il (elle) nominât
+que nous nominassions
+que vous nominassiez
+qu’ils (elles) nominassent
+
+* IMPÉRATIF
+
+** Présent
+
+nomine
+nominons
+nominez
+
+* INFINITIF
+
+** Présent
+
+nominer
+
+* PARTICIPE
+
+** Présent
+
+nominant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nominé
+tu as nominé
+il (elle) a nominé
+nous avons nominé
+vous avez nominé
+ils (elles) ont nominé
+
+** Plus-que-parfait
+
+j'avais nominé
+tu avais nominé
+il (elle) avait nominé
+nous avions nominé
+vous aviez nominé
+ils (elles) avaient nominé
+
+** Passé antérieur
+
+j'eus nominé
+tu eus nominé
+il (elle) eut nominé
+nous eûmes nominé
+vous eûtes nominé
+ils (elles) eurent nominé
+
+** Futur antérieur
+
+j'aurai nominé
+tu auras nominé
+il (elle) aura nominé
+nous aurons nominé
+vous aurez nominé
+ils (elles) auront nominé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nominé
+tu aurais nominé
+il (elle) aurait nominé
+nous aurions nominé
+vous auriez nominé
+ils (elles) auraient nominé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nominé
+que tu aies nominé
+qu’il (elle) ait nominé
+que nous ayons nominé
+que vous ayez nominé
+qu’ils (elles) aient nominé
+
+** Plus-que-parfait
+
+que j'eusse nominé
+que tu eusses nominé
+qu’il (elle) eût nominé
+que nous eussions nominé
+que vous eussiez nominé
+qu’ils (elles) eussent nominé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nominé
+ayez nominé
+
+* INFINITIF
+
+** Passé
+
+avoir nominé
+
+* PARTICIPE
+
+** Passé
+
+ayant nominé
+nominé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nominé(e)
+tu es nominé(e)
+il (elle) est nominé(e)
+nous sommes nominé(e)s
+vous êtes nominé(e)s
+ils (elles) sont nominé(e)s
+
+** Imparfait
+
+j'étais nominé(e)
+tu étais nominé(e)
+il (elle) était nominé(e)
+nous étions nominé(e)s
+vous étiez nominé(e)s
+ils (elles) étaient nominé(e)s
+
+** Passé simple
+
+je fus nominé(e)
+tu fus nominé(e)
+il (elle) fut nominé(e)
+nous fûmes nominé(e)s
+vous fûtes nominé(e)s
+ils (elles) furent nominé(e)s
+
+** Futur simple
+
+je serai nominé(e)
+tu seras nominé(e)
+il (elle) sera nominé(e)
+nous serons nominé(e)s
+vous serez nominé(e)s
+ils (elles) seront nominé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nominé(e)
+tu serais nominé(e)
+il (elle) serait nominé(e)
+nous serions nominé(e)s
+vous seriez nominé(e)s
+ils (elles) seraient nominé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nominé(e)
+que tu sois nominé(e)
+qu’il (elle) soit nominé(e)
+que nous soyons nominé(e)s
+que vous soyez nominé(e)s
+qu’ils (elles) soient nominé(e)s
+
+** Imparfait
+
+que je fusse nominé(e)
+que tu fusses nominé(e)
+qu’il (elle) fût nominé(e)
+que nous fussions nominé(e)s
+que vous fussiez nominé(e)s
+qu’ils (elles) fussent nominé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nominé(e)s
+soyez nominé(e)s
+
+* INFINITIF
+
+** Présent
+
+être nominé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nominé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nominé(e)
+tu as été nominé(e)
+il (elle) a été nominé(e)
+nous avons été nominé(e)s
+vous avez été nominé(e)s
+ils (elles) ont été nominé(e)s
+
+** Plus-que-parfait
+
+j'avais été nominé(e)
+il (elle) avait été nominé(e)
+nous avions été nominé(e)s
+ils (elles) avaient été nominé(e)s
+
+** Passé antérieur
+
+j'eus été nominé(e)
+tu eus été nominé(e)
+il (elle) eut été nominé(e)
+nous eûmes été nominé(e)s
+vous eûtes été nominé(e)s
+ils (elles) eurent été nominé(e)s
+
+** Futur antérieur
+
+j'aurai été nominé(e)
+tu auras été nominé(e)
+il (elle) aura été nominé(e)
+nous aurons été nominé(e)s
+vous aurez été nominé(e)s
+ils (elles) auront été nominé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nominé(e)
+j'aurais été nominé(e)
+il (elle) aurait été nominé(e)
+nous aurions été nominé(e)s
+vous auriez été nominé(e)s
+ils (elles) auraient été nominé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nominé(e)
+que tu aies été nominé(e)
+qu’il (elle) ait été nominé(e)
+que nous ayons été nominé(e)s
+que vous ayez été nominé(e)s
+qu’ils (elles) aient été nominé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nominé(e)
+que tu eusses été nominé(e)
+qu’il (elle) eût été nominé(e)
+que nous eussions été nominé(e)s
+que vous eussiez été nominé(e)s
+qu’ils (elles) eussent été nominé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nominé(e)
+ayons été nominé(e)s
+ayez été nominé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nominé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nominé(e)(s)

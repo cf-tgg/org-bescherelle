@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe alimenter
+
+* INDICATIF
+
+** Présent
+
+j'alimente
+tu alimentes
+il (elle) alimente
+nous alimentons
+vous alimentez
+ils (elles) alimentent
+
+** Imparfait
+
+j'alimentais
+tu alimentais
+il (elle) alimentait
+nous alimentions
+vous alimentiez
+ils (elles) alimentaient
+
+** Passé simple
+
+j'alimentai
+tu alimentas
+il (elle) alimenta
+nous alimentâmes
+vous alimentâtes
+ils (elles) alimentèrent
+
+** Futur simple
+
+j'alimenterai
+tu alimenteras
+il (elle) alimentera
+nous alimenterons
+vous alimenterez
+ils (elles) alimenteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'alimenterais
+tu alimenterais
+il (elle) alimenterait
+nous alimenterions
+vous alimenteriez
+ils (elles) alimenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alimente
+que tu alimentes
+qu’il (elle) alimente
+que nous alimentions
+que vous alimentiez
+qu’ils (elles) alimentent
+
+** Imparfait
+
+que j'alimentasse
+que tu alimentasses
+qu’il (elle) alimentât
+que nous alimentassions
+que vous alimentassiez
+qu’ils (elles) alimentassent
+
+* IMPÉRATIF
+
+** Présent
+
+alimente
+alimentons
+alimentez
+
+* INFINITIF
+
+** Présent
+
+alimenter
+
+* PARTICIPE
+
+** Présent
+
+alimentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai alimenté
+tu as alimenté
+il (elle) a alimenté
+nous avons alimenté
+vous avez alimenté
+ils (elles) ont alimenté
+
+** Plus-que-parfait
+
+j'avais alimenté
+tu avais alimenté
+il (elle) avait alimenté
+nous avions alimenté
+vous aviez alimenté
+ils (elles) avaient alimenté
+
+** Passé antérieur
+
+j'eus alimenté
+tu eus alimenté
+il (elle) eut alimenté
+nous eûmes alimenté
+vous eûtes alimenté
+ils (elles) eurent alimenté
+
+** Futur antérieur
+
+j'aurai alimenté
+tu auras alimenté
+il (elle) aura alimenté
+nous aurons alimenté
+vous aurez alimenté
+ils (elles) auront alimenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais alimenté
+tu aurais alimenté
+il (elle) aurait alimenté
+nous aurions alimenté
+vous auriez alimenté
+ils (elles) auraient alimenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie alimenté
+que tu aies alimenté
+qu’il (elle) ait alimenté
+que nous ayons alimenté
+que vous ayez alimenté
+qu’ils (elles) aient alimenté
+
+** Plus-que-parfait
+
+que j'eusse alimenté
+que tu eusses alimenté
+qu’il (elle) eût alimenté
+que nous eussions alimenté
+que vous eussiez alimenté
+qu’ils (elles) eussent alimenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons alimenté
+ayez alimenté
+
+* INFINITIF
+
+** Passé
+
+avoir alimenté
+
+* PARTICIPE
+
+** Passé
+
+ayant alimenté
+alimenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis alimenté(e)
+tu es alimenté(e)
+il (elle) est alimenté(e)
+nous sommes alimenté(e)s
+vous êtes alimenté(e)s
+ils (elles) sont alimenté(e)s
+
+** Imparfait
+
+j'étais alimenté(e)
+tu étais alimenté(e)
+il (elle) était alimenté(e)
+nous étions alimenté(e)s
+vous étiez alimenté(e)s
+ils (elles) étaient alimenté(e)s
+
+** Passé simple
+
+je fus alimenté(e)
+tu fus alimenté(e)
+il (elle) fut alimenté(e)
+nous fûmes alimenté(e)s
+vous fûtes alimenté(e)s
+ils (elles) furent alimenté(e)s
+
+** Futur simple
+
+je serai alimenté(e)
+tu seras alimenté(e)
+il (elle) sera alimenté(e)
+nous serons alimenté(e)s
+vous serez alimenté(e)s
+ils (elles) seront alimenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais alimenté(e)
+tu serais alimenté(e)
+il (elle) serait alimenté(e)
+nous serions alimenté(e)s
+vous seriez alimenté(e)s
+ils (elles) seraient alimenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois alimenté(e)
+que tu sois alimenté(e)
+qu’il (elle) soit alimenté(e)
+que nous soyons alimenté(e)s
+que vous soyez alimenté(e)s
+qu’ils (elles) soient alimenté(e)s
+
+** Imparfait
+
+que je fusse alimenté(e)
+que tu fusses alimenté(e)
+qu’il (elle) fût alimenté(e)
+que nous fussions alimenté(e)s
+que vous fussiez alimenté(e)s
+qu’ils (elles) fussent alimenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons alimenté(e)s
+soyez alimenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être alimenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant alimenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été alimenté(e)
+tu as été alimenté(e)
+il (elle) a été alimenté(e)
+nous avons été alimenté(e)s
+vous avez été alimenté(e)s
+ils (elles) ont été alimenté(e)s
+
+** Plus-que-parfait
+
+j'avais été alimenté(e)
+il (elle) avait été alimenté(e)
+nous avions été alimenté(e)s
+ils (elles) avaient été alimenté(e)s
+
+** Passé antérieur
+
+j'eus été alimenté(e)
+tu eus été alimenté(e)
+il (elle) eut été alimenté(e)
+nous eûmes été alimenté(e)s
+vous eûtes été alimenté(e)s
+ils (elles) eurent été alimenté(e)s
+
+** Futur antérieur
+
+j'aurai été alimenté(e)
+tu auras été alimenté(e)
+il (elle) aura été alimenté(e)
+nous aurons été alimenté(e)s
+vous aurez été alimenté(e)s
+ils (elles) auront été alimenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été alimenté(e)
+j'aurais été alimenté(e)
+il (elle) aurait été alimenté(e)
+nous aurions été alimenté(e)s
+vous auriez été alimenté(e)s
+ils (elles) auraient été alimenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été alimenté(e)
+que tu aies été alimenté(e)
+qu’il (elle) ait été alimenté(e)
+que nous ayons été alimenté(e)s
+que vous ayez été alimenté(e)s
+qu’ils (elles) aient été alimenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été alimenté(e)
+que tu eusses été alimenté(e)
+qu’il (elle) eût été alimenté(e)
+que nous eussions été alimenté(e)s
+que vous eussiez été alimenté(e)s
+qu’ils (elles) eussent été alimenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été alimenté(e)
+ayons été alimenté(e)s
+ayez été alimenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été alimenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été alimenté(e)(s)

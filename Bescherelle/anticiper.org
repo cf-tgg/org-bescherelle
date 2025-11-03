@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe anticiper
+
+* INDICATIF
+
+** Présent
+
+j'anticipe
+tu anticipes
+il (elle) anticipe
+nous anticipons
+vous anticipez
+ils (elles) anticipent
+
+** Imparfait
+
+j'anticipais
+tu anticipais
+il (elle) anticipait
+nous anticipions
+vous anticipiez
+ils (elles) anticipaient
+
+** Passé simple
+
+j'anticipai
+tu anticipas
+il (elle) anticipa
+nous anticipâmes
+vous anticipâtes
+ils (elles) anticipèrent
+
+** Futur simple
+
+j'anticiperai
+tu anticiperas
+il (elle) anticipera
+nous anticiperons
+vous anticiperez
+ils (elles) anticiperont
+
+* CONDITIONNEL
+
+** Présent
+
+j'anticiperais
+tu anticiperais
+il (elle) anticiperait
+nous anticiperions
+vous anticiperiez
+ils (elles) anticiperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'anticipe
+que tu anticipes
+qu’il (elle) anticipe
+que nous anticipions
+que vous anticipiez
+qu’ils (elles) anticipent
+
+** Imparfait
+
+que j'anticipasse
+que tu anticipasses
+qu’il (elle) anticipât
+que nous anticipassions
+que vous anticipassiez
+qu’ils (elles) anticipassent
+
+* IMPÉRATIF
+
+** Présent
+
+anticipe
+anticipons
+anticipez
+
+* INFINITIF
+
+** Présent
+
+anticiper
+
+* PARTICIPE
+
+** Présent
+
+anticipant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai anticipé
+tu as anticipé
+il (elle) a anticipé
+nous avons anticipé
+vous avez anticipé
+ils (elles) ont anticipé
+
+** Plus-que-parfait
+
+j'avais anticipé
+tu avais anticipé
+il (elle) avait anticipé
+nous avions anticipé
+vous aviez anticipé
+ils (elles) avaient anticipé
+
+** Passé antérieur
+
+j'eus anticipé
+tu eus anticipé
+il (elle) eut anticipé
+nous eûmes anticipé
+vous eûtes anticipé
+ils (elles) eurent anticipé
+
+** Futur antérieur
+
+j'aurai anticipé
+tu auras anticipé
+il (elle) aura anticipé
+nous aurons anticipé
+vous aurez anticipé
+ils (elles) auront anticipé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais anticipé
+tu aurais anticipé
+il (elle) aurait anticipé
+nous aurions anticipé
+vous auriez anticipé
+ils (elles) auraient anticipé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie anticipé
+que tu aies anticipé
+qu’il (elle) ait anticipé
+que nous ayons anticipé
+que vous ayez anticipé
+qu’ils (elles) aient anticipé
+
+** Plus-que-parfait
+
+que j'eusse anticipé
+que tu eusses anticipé
+qu’il (elle) eût anticipé
+que nous eussions anticipé
+que vous eussiez anticipé
+qu’ils (elles) eussent anticipé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons anticipé
+ayez anticipé
+
+* INFINITIF
+
+** Passé
+
+avoir anticipé
+
+* PARTICIPE
+
+** Passé
+
+ayant anticipé
+anticipé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis anticipé(e)
+tu es anticipé(e)
+il (elle) est anticipé(e)
+nous sommes anticipé(e)s
+vous êtes anticipé(e)s
+ils (elles) sont anticipé(e)s
+
+** Imparfait
+
+j'étais anticipé(e)
+tu étais anticipé(e)
+il (elle) était anticipé(e)
+nous étions anticipé(e)s
+vous étiez anticipé(e)s
+ils (elles) étaient anticipé(e)s
+
+** Passé simple
+
+je fus anticipé(e)
+tu fus anticipé(e)
+il (elle) fut anticipé(e)
+nous fûmes anticipé(e)s
+vous fûtes anticipé(e)s
+ils (elles) furent anticipé(e)s
+
+** Futur simple
+
+je serai anticipé(e)
+tu seras anticipé(e)
+il (elle) sera anticipé(e)
+nous serons anticipé(e)s
+vous serez anticipé(e)s
+ils (elles) seront anticipé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais anticipé(e)
+tu serais anticipé(e)
+il (elle) serait anticipé(e)
+nous serions anticipé(e)s
+vous seriez anticipé(e)s
+ils (elles) seraient anticipé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois anticipé(e)
+que tu sois anticipé(e)
+qu’il (elle) soit anticipé(e)
+que nous soyons anticipé(e)s
+que vous soyez anticipé(e)s
+qu’ils (elles) soient anticipé(e)s
+
+** Imparfait
+
+que je fusse anticipé(e)
+que tu fusses anticipé(e)
+qu’il (elle) fût anticipé(e)
+que nous fussions anticipé(e)s
+que vous fussiez anticipé(e)s
+qu’ils (elles) fussent anticipé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons anticipé(e)s
+soyez anticipé(e)s
+
+* INFINITIF
+
+** Présent
+
+être anticipé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant anticipé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été anticipé(e)
+tu as été anticipé(e)
+il (elle) a été anticipé(e)
+nous avons été anticipé(e)s
+vous avez été anticipé(e)s
+ils (elles) ont été anticipé(e)s
+
+** Plus-que-parfait
+
+j'avais été anticipé(e)
+il (elle) avait été anticipé(e)
+nous avions été anticipé(e)s
+ils (elles) avaient été anticipé(e)s
+
+** Passé antérieur
+
+j'eus été anticipé(e)
+tu eus été anticipé(e)
+il (elle) eut été anticipé(e)
+nous eûmes été anticipé(e)s
+vous eûtes été anticipé(e)s
+ils (elles) eurent été anticipé(e)s
+
+** Futur antérieur
+
+j'aurai été anticipé(e)
+tu auras été anticipé(e)
+il (elle) aura été anticipé(e)
+nous aurons été anticipé(e)s
+vous aurez été anticipé(e)s
+ils (elles) auront été anticipé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été anticipé(e)
+j'aurais été anticipé(e)
+il (elle) aurait été anticipé(e)
+nous aurions été anticipé(e)s
+vous auriez été anticipé(e)s
+ils (elles) auraient été anticipé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été anticipé(e)
+que tu aies été anticipé(e)
+qu’il (elle) ait été anticipé(e)
+que nous ayons été anticipé(e)s
+que vous ayez été anticipé(e)s
+qu’ils (elles) aient été anticipé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été anticipé(e)
+que tu eusses été anticipé(e)
+qu’il (elle) eût été anticipé(e)
+que nous eussions été anticipé(e)s
+que vous eussiez été anticipé(e)s
+qu’ils (elles) eussent été anticipé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été anticipé(e)
+ayons été anticipé(e)s
+ayez été anticipé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été anticipé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été anticipé(e)(s)

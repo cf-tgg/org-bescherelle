@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe presenter
+
+* INDICATIF
+
+** Présent
+
+je présente
+tu présentes
+il (elle) présente
+nous présentons
+vous présentez
+ils (elles) présentent
+
+** Imparfait
+
+je présentais
+tu présentais
+il (elle) présentait
+nous présentions
+vous présentiez
+ils (elles) présentaient
+
+** Passé simple
+
+je présentai
+tu présentas
+il (elle) présenta
+nous présentâmes
+vous présentâtes
+ils (elles) présentèrent
+
+** Futur simple
+
+je présenterai
+tu présenteras
+il (elle) présentera
+nous présenterons
+vous présenterez
+ils (elles) présenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je présenterais
+tu présenterais
+il (elle) présenterait
+nous présenterions
+vous présenteriez
+ils (elles) présenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je présente
+que tu présentes
+qu’il (elle) présente
+que nous présentions
+que vous présentiez
+qu’ils (elles) présentent
+
+** Imparfait
+
+que je présentasse
+que tu présentasses
+qu’il (elle) présentât
+que nous présentassions
+que vous présentassiez
+qu’ils (elles) présentassent
+
+* IMPÉRATIF
+
+** Présent
+
+présente
+présentons
+présentez
+
+* INFINITIF
+
+** Présent
+
+présenter
+
+* PARTICIPE
+
+** Présent
+
+présentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai présenté
+tu as présenté
+il (elle) a présenté
+nous avons présenté
+vous avez présenté
+ils (elles) ont présenté
+
+** Plus-que-parfait
+
+j'avais présenté
+tu avais présenté
+il (elle) avait présenté
+nous avions présenté
+vous aviez présenté
+ils (elles) avaient présenté
+
+** Passé antérieur
+
+j'eus présenté
+tu eus présenté
+il (elle) eut présenté
+nous eûmes présenté
+vous eûtes présenté
+ils (elles) eurent présenté
+
+** Futur antérieur
+
+j'aurai présenté
+tu auras présenté
+il (elle) aura présenté
+nous aurons présenté
+vous aurez présenté
+ils (elles) auront présenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais présenté
+tu aurais présenté
+il (elle) aurait présenté
+nous aurions présenté
+vous auriez présenté
+ils (elles) auraient présenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie présenté
+que tu aies présenté
+qu’il (elle) ait présenté
+que nous ayons présenté
+que vous ayez présenté
+qu’ils (elles) aient présenté
+
+** Plus-que-parfait
+
+que j'eusse présenté
+que tu eusses présenté
+qu’il (elle) eût présenté
+que nous eussions présenté
+que vous eussiez présenté
+qu’ils (elles) eussent présenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons présenté
+ayez présenté
+
+* INFINITIF
+
+** Passé
+
+avoir présenté
+
+* PARTICIPE
+
+** Passé
+
+ayant présenté
+présenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis présenté(e)
+tu es présenté(e)
+il (elle) est présenté(e)
+nous sommes présenté(e)s
+vous êtes présenté(e)s
+ils (elles) sont présenté(e)s
+
+** Imparfait
+
+j'étais présenté(e)
+tu étais présenté(e)
+il (elle) était présenté(e)
+nous étions présenté(e)s
+vous étiez présenté(e)s
+ils (elles) étaient présenté(e)s
+
+** Passé simple
+
+je fus présenté(e)
+tu fus présenté(e)
+il (elle) fut présenté(e)
+nous fûmes présenté(e)s
+vous fûtes présenté(e)s
+ils (elles) furent présenté(e)s
+
+** Futur simple
+
+je serai présenté(e)
+tu seras présenté(e)
+il (elle) sera présenté(e)
+nous serons présenté(e)s
+vous serez présenté(e)s
+ils (elles) seront présenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais présenté(e)
+tu serais présenté(e)
+il (elle) serait présenté(e)
+nous serions présenté(e)s
+vous seriez présenté(e)s
+ils (elles) seraient présenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois présenté(e)
+que tu sois présenté(e)
+qu’il (elle) soit présenté(e)
+que nous soyons présenté(e)s
+que vous soyez présenté(e)s
+qu’ils (elles) soient présenté(e)s
+
+** Imparfait
+
+que je fusse présenté(e)
+que tu fusses présenté(e)
+qu’il (elle) fût présenté(e)
+que nous fussions présenté(e)s
+que vous fussiez présenté(e)s
+qu’ils (elles) fussent présenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons présenté(e)s
+soyez présenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être présenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant présenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été présenté(e)
+tu as été présenté(e)
+il (elle) a été présenté(e)
+nous avons été présenté(e)s
+vous avez été présenté(e)s
+ils (elles) ont été présenté(e)s
+
+** Plus-que-parfait
+
+j'avais été présenté(e)
+il (elle) avait été présenté(e)
+nous avions été présenté(e)s
+ils (elles) avaient été présenté(e)s
+
+** Passé antérieur
+
+j'eus été présenté(e)
+tu eus été présenté(e)
+il (elle) eut été présenté(e)
+nous eûmes été présenté(e)s
+vous eûtes été présenté(e)s
+ils (elles) eurent été présenté(e)s
+
+** Futur antérieur
+
+j'aurai été présenté(e)
+tu auras été présenté(e)
+il (elle) aura été présenté(e)
+nous aurons été présenté(e)s
+vous aurez été présenté(e)s
+ils (elles) auront été présenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été présenté(e)
+j'aurais été présenté(e)
+il (elle) aurait été présenté(e)
+nous aurions été présenté(e)s
+vous auriez été présenté(e)s
+ils (elles) auraient été présenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été présenté(e)
+que tu aies été présenté(e)
+qu’il (elle) ait été présenté(e)
+que nous ayons été présenté(e)s
+que vous ayez été présenté(e)s
+qu’ils (elles) aient été présenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été présenté(e)
+que tu eusses été présenté(e)
+qu’il (elle) eût été présenté(e)
+que nous eussions été présenté(e)s
+que vous eussiez été présenté(e)s
+qu’ils (elles) eussent été présenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été présenté(e)
+ayons été présenté(e)s
+ayez été présenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été présenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été présenté(e)(s)

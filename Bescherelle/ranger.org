@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ranger
+
+* INDICATIF
+
+** Présent
+
+je range
+tu ranges
+il (elle) range
+nous rangeons
+vous rangez
+ils (elles) rangent
+
+** Imparfait
+
+je rangeais
+tu rangeais
+il (elle) rangeait
+nous rangions
+vous rangiez
+ils (elles) rangeaient
+
+** Passé simple
+
+je rangeai
+tu rangeas
+il (elle) rangea
+nous rangeâmes
+vous rangeâtes
+ils (elles) rangèrent
+
+** Futur simple
+
+je rangerai
+tu rangeras
+il (elle) rangera
+nous rangerons
+vous rangerez
+ils (elles) rangeront
+
+* CONDITIONNEL
+
+** Présent
+
+je rangerais
+tu rangerais
+il (elle) rangerait
+nous rangerions
+vous rangeriez
+ils (elles) rangeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je range
+que tu ranges
+qu’il (elle) range
+que nous rangions
+que vous rangiez
+qu’ils (elles) rangent
+
+** Imparfait
+
+que je rangeasse
+que tu rangeasses
+qu’il (elle) rangeât
+que nous rangeassions
+que vous rangeassiez
+qu’ils (elles) rangeassent
+
+* IMPÉRATIF
+
+** Présent
+
+range
+rangeons
+rangez
+
+* INFINITIF
+
+** Présent
+
+ranger
+
+* PARTICIPE
+
+** Présent
+
+rangeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rangé
+tu as rangé
+il (elle) a rangé
+nous avons rangé
+vous avez rangé
+ils (elles) ont rangé
+
+** Plus-que-parfait
+
+j'avais rangé
+tu avais rangé
+il (elle) avait rangé
+nous avions rangé
+vous aviez rangé
+ils (elles) avaient rangé
+
+** Passé antérieur
+
+j'eus rangé
+tu eus rangé
+il (elle) eut rangé
+nous eûmes rangé
+vous eûtes rangé
+ils (elles) eurent rangé
+
+** Futur antérieur
+
+j'aurai rangé
+tu auras rangé
+il (elle) aura rangé
+nous aurons rangé
+vous aurez rangé
+ils (elles) auront rangé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rangé
+tu aurais rangé
+il (elle) aurait rangé
+nous aurions rangé
+vous auriez rangé
+ils (elles) auraient rangé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rangé
+que tu aies rangé
+qu’il (elle) ait rangé
+que nous ayons rangé
+que vous ayez rangé
+qu’ils (elles) aient rangé
+
+** Plus-que-parfait
+
+que j'eusse rangé
+que tu eusses rangé
+qu’il (elle) eût rangé
+que nous eussions rangé
+que vous eussiez rangé
+qu’ils (elles) eussent rangé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rangé
+ayez rangé
+
+* INFINITIF
+
+** Passé
+
+avoir rangé
+
+* PARTICIPE
+
+** Passé
+
+ayant rangé
+rangé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rangé(e)
+tu es rangé(e)
+il (elle) est rangé(e)
+nous sommes rangé(e)s
+vous êtes rangé(e)s
+ils (elles) sont rangé(e)s
+
+** Imparfait
+
+j'étais rangé(e)
+tu étais rangé(e)
+il (elle) était rangé(e)
+nous étions rangé(e)s
+vous étiez rangé(e)s
+ils (elles) étaient rangé(e)s
+
+** Passé simple
+
+je fus rangé(e)
+tu fus rangé(e)
+il (elle) fut rangé(e)
+nous fûmes rangé(e)s
+vous fûtes rangé(e)s
+ils (elles) furent rangé(e)s
+
+** Futur simple
+
+je serai rangé(e)
+tu seras rangé(e)
+il (elle) sera rangé(e)
+nous serons rangé(e)s
+vous serez rangé(e)s
+ils (elles) seront rangé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rangé(e)
+tu serais rangé(e)
+il (elle) serait rangé(e)
+nous serions rangé(e)s
+vous seriez rangé(e)s
+ils (elles) seraient rangé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rangé(e)
+que tu sois rangé(e)
+qu’il (elle) soit rangé(e)
+que nous soyons rangé(e)s
+que vous soyez rangé(e)s
+qu’ils (elles) soient rangé(e)s
+
+** Imparfait
+
+que je fusse rangé(e)
+que tu fusses rangé(e)
+qu’il (elle) fût rangé(e)
+que nous fussions rangé(e)s
+que vous fussiez rangé(e)s
+qu’ils (elles) fussent rangé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rangé(e)s
+soyez rangé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rangé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rangé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rangé(e)
+tu as été rangé(e)
+il (elle) a été rangé(e)
+nous avons été rangé(e)s
+vous avez été rangé(e)s
+ils (elles) ont été rangé(e)s
+
+** Plus-que-parfait
+
+j'avais été rangé(e)
+il (elle) avait été rangé(e)
+nous avions été rangé(e)s
+ils (elles) avaient été rangé(e)s
+
+** Passé antérieur
+
+j'eus été rangé(e)
+tu eus été rangé(e)
+il (elle) eut été rangé(e)
+nous eûmes été rangé(e)s
+vous eûtes été rangé(e)s
+ils (elles) eurent été rangé(e)s
+
+** Futur antérieur
+
+j'aurai été rangé(e)
+tu auras été rangé(e)
+il (elle) aura été rangé(e)
+nous aurons été rangé(e)s
+vous aurez été rangé(e)s
+ils (elles) auront été rangé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rangé(e)
+j'aurais été rangé(e)
+il (elle) aurait été rangé(e)
+nous aurions été rangé(e)s
+vous auriez été rangé(e)s
+ils (elles) auraient été rangé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rangé(e)
+que tu aies été rangé(e)
+qu’il (elle) ait été rangé(e)
+que nous ayons été rangé(e)s
+que vous ayez été rangé(e)s
+qu’ils (elles) aient été rangé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rangé(e)
+que tu eusses été rangé(e)
+qu’il (elle) eût été rangé(e)
+que nous eussions été rangé(e)s
+que vous eussiez été rangé(e)s
+qu’ils (elles) eussent été rangé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rangé(e)
+ayons été rangé(e)s
+ayez été rangé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rangé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rangé(e)(s)

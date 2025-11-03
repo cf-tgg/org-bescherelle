@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe compromettre
+
+* INDICATIF
+
+** Présent
+
+je compromets
+tu compromets
+il (elle) compromet
+nous compromettons
+vous compromettez
+ils (elles) compromettent
+
+** Imparfait
+
+je compromettais
+tu compromettais
+il (elle) compromettait
+nous compromettions
+vous compromettiez
+ils (elles) compromettaient
+
+** Passé simple
+
+je compromis
+tu compromis
+il (elle) compromit
+nous compromîmes
+vous compromîtes
+ils (elles) compromirent
+
+** Futur simple
+
+je compromettrai
+tu compromettras
+il (elle) compromettra
+nous compromettrons
+vous compromettrez
+ils (elles) compromettront
+
+* CONDITIONNEL
+
+** Présent
+
+je compromettrais
+tu compromettrais
+il (elle) compromettrait
+nous compromettrions
+vous compromettriez
+ils (elles) compromettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compromette
+que tu compromettes
+qu’il (elle) compromette
+que nous compromettions
+que vous compromettiez
+qu’ils (elles) compromettent
+
+** Imparfait
+
+que je compromisse
+que tu compromisses
+qu’il (elle) compromît
+que nous compromissions
+que vous compromissiez
+qu’ils (elles) compromissent
+
+* IMPÉRATIF
+
+** Présent
+
+compromets
+compromettons
+compromettez
+
+* INFINITIF
+
+** Présent
+
+compromettre
+
+* PARTICIPE
+
+** Présent
+
+compromettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compromis
+tu as compromis
+il (elle) a compromis
+nous avons compromis
+vous avez compromis
+ils (elles) ont compromis
+
+** Plus-que-parfait
+
+j'avais compromis
+tu avais compromis
+il (elle) avait compromis
+nous avions compromis
+vous aviez compromis
+ils (elles) avaient compromis
+
+** Passé antérieur
+
+j'eus compromis
+tu eus compromis
+il (elle) eut compromis
+nous eûmes compromis
+vous eûtes compromis
+ils (elles) eurent compromis
+
+** Futur antérieur
+
+j'aurai compromis
+tu auras compromis
+il (elle) aura compromis
+nous aurons compromis
+vous aurez compromis
+ils (elles) auront compromis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compromis
+tu aurais compromis
+il (elle) aurait compromis
+nous aurions compromis
+vous auriez compromis
+ils (elles) auraient compromis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compromis
+que tu aies compromis
+qu’il (elle) ait compromis
+que nous ayons compromis
+que vous ayez compromis
+qu’ils (elles) aient compromis
+
+** Plus-que-parfait
+
+que j'eusse compromis
+que tu eusses compromis
+qu’il (elle) eût compromis
+que nous eussions compromis
+que vous eussiez compromis
+qu’ils (elles) eussent compromis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compromis
+ayez compromis
+
+* INFINITIF
+
+** Passé
+
+avoir compromis
+
+* PARTICIPE
+
+** Passé
+
+ayant compromis
+compromis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis compromis(e)
+tu es compromis(e)
+il (elle) est compromis(e)
+nous sommes compromis(es)
+vous êtes compromis(es)
+ils (elles) sont compromis(es)
+
+** Imparfait
+
+j'étais compromis(e)
+tu étais compromis(e)
+il (elle) était compromis(e)
+nous étions compromis(es)
+vous étiez compromis(es)
+ils (elles) étaient compromis(es)
+
+** Passé simple
+
+je fus compromis(e)
+tu fus compromis(e)
+il (elle) fut compromis(e)
+nous fûmes compromis(es)
+vous fûtes compromis(es)
+ils (elles) furent compromis(es)
+
+** Futur simple
+
+je serai compromis(e)
+tu seras compromis(e)
+il (elle) sera compromis(e)
+nous serons compromis(es)
+vous serez compromis(es)
+ils (elles) seront compromis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais compromis(e)
+tu serais compromis(e)
+il (elle) serait compromis(e)
+nous serions compromis(es)
+vous seriez compromis(es)
+ils (elles) seraient compromis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois compromis(e)
+que tu sois compromis(e)
+qu’il (elle) soit compromis(e)
+que nous soyons compromis(es)
+que vous soyez compromis(es)
+qu’ils (elles) soient compromis(es)
+
+** Imparfait
+
+que je fusse compromis(e)
+que tu fusses compromis(e)
+qu’il (elle) fût compromis(e)
+que nous fussions compromis(es)
+que vous fussiez compromis(es)
+qu’ils (elles) fussent compromis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons compromis(es)
+soyez compromis(es)
+
+* INFINITIF
+
+** Présent
+
+être compromis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant compromis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été compromis(e)
+tu as été compromis(e)
+il (elle) a été compromis(e)
+nous avons été compromis(es)
+vous avez été compromis(es)
+ils (elles) ont été compromis(es)
+
+** Plus-que-parfait
+
+j'avais été compromis(e)
+il (elle) avait été compromis(e)
+nous avions été compromis(es)
+ils (elles) avaient été compromis(es)
+
+** Passé antérieur
+
+j'eus été compromis(e)
+tu eus été compromis(e)
+il (elle) eut été compromis(e)
+nous eûmes été compromis(es)
+vous eûtes été compromis(es)
+ils (elles) eurent été compromis(es)
+
+** Futur antérieur
+
+j'aurai été compromis(e)
+tu auras été compromis(e)
+il (elle) aura été compromis(e)
+nous aurons été compromis(es)
+vous aurez été compromis(es)
+ils (elles) auront été compromis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été compromis(e)
+j'aurais été compromis(e)
+il (elle) aurait été compromis(e)
+nous aurions été compromis(es)
+vous auriez été compromis(es)
+ils (elles) auraient été compromis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été compromis(e)
+que tu aies été compromis(e)
+qu’il (elle) ait été compromis(e)
+que nous ayons été compromis(es)
+que vous ayez été compromis(es)
+qu’ils (elles) aient été compromis(es)
+
+** Plus-que-parfait
+
+que j'eusse été compromis(e)
+que tu eusses été compromis(e)
+qu’il (elle) eût été compromis(e)
+que nous eussions été compromis(es)
+que vous eussiez été compromis(es)
+qu’ils (elles) eussent été compromis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été compromis(e)
+ayons été compromis(es)
+ayez été compromis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été compromis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été compromis (s, se, s, ses)

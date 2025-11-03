@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sceller
+
+* INDICATIF
+
+** Présent
+
+je scelle
+tu scelles
+il (elle) scelle
+nous scellons
+vous scellez
+ils (elles) scellent
+
+** Imparfait
+
+je scellais
+tu scellais
+il (elle) scellait
+nous scellions
+vous scelliez
+ils (elles) scellaient
+
+** Passé simple
+
+je scellai
+tu scellas
+il (elle) scella
+nous scellâmes
+vous scellâtes
+ils (elles) scellèrent
+
+** Futur simple
+
+je scellerai
+tu scelleras
+il (elle) scellera
+nous scellerons
+vous scellerez
+ils (elles) scelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je scellerais
+tu scellerais
+il (elle) scellerait
+nous scellerions
+vous scelleriez
+ils (elles) scelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je scelle
+que tu scelles
+qu’il (elle) scelle
+que nous scellions
+que vous scelliez
+qu’ils (elles) scellent
+
+** Imparfait
+
+que je scellasse
+que tu scellasses
+qu’il (elle) scellât
+que nous scellassions
+que vous scellassiez
+qu’ils (elles) scellassent
+
+* IMPÉRATIF
+
+** Présent
+
+scelle
+scellons
+scellez
+
+* INFINITIF
+
+** Présent
+
+sceller
+
+* PARTICIPE
+
+** Présent
+
+scellant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai scellé
+tu as scellé
+il (elle) a scellé
+nous avons scellé
+vous avez scellé
+ils (elles) ont scellé
+
+** Plus-que-parfait
+
+j'avais scellé
+tu avais scellé
+il (elle) avait scellé
+nous avions scellé
+vous aviez scellé
+ils (elles) avaient scellé
+
+** Passé antérieur
+
+j'eus scellé
+tu eus scellé
+il (elle) eut scellé
+nous eûmes scellé
+vous eûtes scellé
+ils (elles) eurent scellé
+
+** Futur antérieur
+
+j'aurai scellé
+tu auras scellé
+il (elle) aura scellé
+nous aurons scellé
+vous aurez scellé
+ils (elles) auront scellé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais scellé
+tu aurais scellé
+il (elle) aurait scellé
+nous aurions scellé
+vous auriez scellé
+ils (elles) auraient scellé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie scellé
+que tu aies scellé
+qu’il (elle) ait scellé
+que nous ayons scellé
+que vous ayez scellé
+qu’ils (elles) aient scellé
+
+** Plus-que-parfait
+
+que j'eusse scellé
+que tu eusses scellé
+qu’il (elle) eût scellé
+que nous eussions scellé
+que vous eussiez scellé
+qu’ils (elles) eussent scellé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons scellé
+ayez scellé
+
+* INFINITIF
+
+** Passé
+
+avoir scellé
+
+* PARTICIPE
+
+** Passé
+
+ayant scellé
+scellé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis scellé(e)
+tu es scellé(e)
+il (elle) est scellé(e)
+nous sommes scellé(e)s
+vous êtes scellé(e)s
+ils (elles) sont scellé(e)s
+
+** Imparfait
+
+j'étais scellé(e)
+tu étais scellé(e)
+il (elle) était scellé(e)
+nous étions scellé(e)s
+vous étiez scellé(e)s
+ils (elles) étaient scellé(e)s
+
+** Passé simple
+
+je fus scellé(e)
+tu fus scellé(e)
+il (elle) fut scellé(e)
+nous fûmes scellé(e)s
+vous fûtes scellé(e)s
+ils (elles) furent scellé(e)s
+
+** Futur simple
+
+je serai scellé(e)
+tu seras scellé(e)
+il (elle) sera scellé(e)
+nous serons scellé(e)s
+vous serez scellé(e)s
+ils (elles) seront scellé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais scellé(e)
+tu serais scellé(e)
+il (elle) serait scellé(e)
+nous serions scellé(e)s
+vous seriez scellé(e)s
+ils (elles) seraient scellé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois scellé(e)
+que tu sois scellé(e)
+qu’il (elle) soit scellé(e)
+que nous soyons scellé(e)s
+que vous soyez scellé(e)s
+qu’ils (elles) soient scellé(e)s
+
+** Imparfait
+
+que je fusse scellé(e)
+que tu fusses scellé(e)
+qu’il (elle) fût scellé(e)
+que nous fussions scellé(e)s
+que vous fussiez scellé(e)s
+qu’ils (elles) fussent scellé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons scellé(e)s
+soyez scellé(e)s
+
+* INFINITIF
+
+** Présent
+
+être scellé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant scellé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été scellé(e)
+tu as été scellé(e)
+il (elle) a été scellé(e)
+nous avons été scellé(e)s
+vous avez été scellé(e)s
+ils (elles) ont été scellé(e)s
+
+** Plus-que-parfait
+
+j'avais été scellé(e)
+il (elle) avait été scellé(e)
+nous avions été scellé(e)s
+ils (elles) avaient été scellé(e)s
+
+** Passé antérieur
+
+j'eus été scellé(e)
+tu eus été scellé(e)
+il (elle) eut été scellé(e)
+nous eûmes été scellé(e)s
+vous eûtes été scellé(e)s
+ils (elles) eurent été scellé(e)s
+
+** Futur antérieur
+
+j'aurai été scellé(e)
+tu auras été scellé(e)
+il (elle) aura été scellé(e)
+nous aurons été scellé(e)s
+vous aurez été scellé(e)s
+ils (elles) auront été scellé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été scellé(e)
+j'aurais été scellé(e)
+il (elle) aurait été scellé(e)
+nous aurions été scellé(e)s
+vous auriez été scellé(e)s
+ils (elles) auraient été scellé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été scellé(e)
+que tu aies été scellé(e)
+qu’il (elle) ait été scellé(e)
+que nous ayons été scellé(e)s
+que vous ayez été scellé(e)s
+qu’ils (elles) aient été scellé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été scellé(e)
+que tu eusses été scellé(e)
+qu’il (elle) eût été scellé(e)
+que nous eussions été scellé(e)s
+que vous eussiez été scellé(e)s
+qu’ils (elles) eussent été scellé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été scellé(e)
+ayons été scellé(e)s
+ayez été scellé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été scellé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été scellé(e)(s)

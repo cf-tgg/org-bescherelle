@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe obeir
+
+* INDICATIF
+
+** Présent
+
+j'obéis
+tu obéis
+il (elle) obéit
+nous obéissons
+vous obéissez
+ils (elles) obéissent
+
+** Imparfait
+
+j'obéissais
+tu obéissais
+il (elle) obéissait
+nous obéissions
+vous obéissiez
+ils (elles) obéissaient
+
+** Passé simple
+
+j'obéis
+tu obéis
+il (elle) obéit
+nous obéîmes
+vous obéîtes
+ils (elles) obéirent
+
+** Futur simple
+
+j'obéirai
+tu obéiras
+il (elle) obéira
+nous obéirons
+vous obéirez
+ils (elles) obéiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'obéirais
+tu obéirais
+il (elle) obéirait
+nous obéirions
+vous obéiriez
+ils (elles) obéiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'obéisse
+que tu obéisses
+qu’il (elle) obéisse
+que nous obéissions
+que vous obéissiez
+qu’ils (elles) obéissent
+
+** Imparfait
+
+que j'obéisse
+que tu obéisses
+qu’il (elle) obéît
+que nous obéissions
+que vous obéissiez
+qu’ils (elles) obéissent
+
+* IMPÉRATIF
+
+** Présent
+
+obéis
+obéissons
+obéissez
+
+* INFINITIF
+
+** Présent
+
+obéir
+
+* PARTICIPE
+
+** Présent
+
+obéissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai obéi
+tu as obéi
+il (elle) a obéi
+nous avons obéi
+vous avez obéi
+ils (elles) ont obéi
+
+** Plus-que-parfait
+
+j'avais obéi
+tu avais obéi
+il (elle) avait obéi
+nous avions obéi
+vous aviez obéi
+ils (elles) avaient obéi
+
+** Passé antérieur
+
+j'eus obéi
+tu eus obéi
+il (elle) eut obéi
+nous eûmes obéi
+vous eûtes obéi
+ils (elles) eurent obéi
+
+** Futur antérieur
+
+j'aurai obéi
+tu auras obéi
+il (elle) aura obéi
+nous aurons obéi
+vous aurez obéi
+ils (elles) auront obéi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais obéi
+tu aurais obéi
+il (elle) aurait obéi
+nous aurions obéi
+vous auriez obéi
+ils (elles) auraient obéi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie obéi
+que tu aies obéi
+qu’il (elle) ait obéi
+que nous ayons obéi
+que vous ayez obéi
+qu’ils (elles) aient obéi
+
+** Plus-que-parfait
+
+que j'eusse obéi
+que tu eusses obéi
+qu’il (elle) eût obéi
+que nous eussions obéi
+que vous eussiez obéi
+qu’ils (elles) eussent obéi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons obéi
+ayez obéi
+
+* INFINITIF
+
+** Passé
+
+avoir obéi
+
+* PARTICIPE
+
+** Passé
+
+ayant obéi
+obéi (invar.)

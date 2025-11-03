@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rediger
+
+* INDICATIF
+
+** Présent
+
+je rédige
+tu rédiges
+il (elle) rédige
+nous rédigeons
+vous rédigez
+ils (elles) rédigent
+
+** Imparfait
+
+je rédigeais
+tu rédigeais
+il (elle) rédigeait
+nous rédigions
+vous rédigiez
+ils (elles) rédigeaient
+
+** Passé simple
+
+je rédigeai
+tu rédigeas
+il (elle) rédigea
+nous rédigeâmes
+vous rédigeâtes
+ils (elles) rédigèrent
+
+** Futur simple
+
+je rédigerai
+tu rédigeras
+il (elle) rédigera
+nous rédigerons
+vous rédigerez
+ils (elles) rédigeront
+
+* CONDITIONNEL
+
+** Présent
+
+je rédigerais
+tu rédigerais
+il (elle) rédigerait
+nous rédigerions
+vous rédigeriez
+ils (elles) rédigeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rédige
+que tu rédiges
+qu’il (elle) rédige
+que nous rédigions
+que vous rédigiez
+qu’ils (elles) rédigent
+
+** Imparfait
+
+que je rédigeasse
+que tu rédigeasses
+qu’il (elle) rédigeât
+que nous rédigeassions
+que vous rédigeassiez
+qu’ils (elles) rédigeassent
+
+* IMPÉRATIF
+
+** Présent
+
+rédige
+rédigeons
+rédigez
+
+* INFINITIF
+
+** Présent
+
+rédiger
+
+* PARTICIPE
+
+** Présent
+
+rédigeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rédigé
+tu as rédigé
+il (elle) a rédigé
+nous avons rédigé
+vous avez rédigé
+ils (elles) ont rédigé
+
+** Plus-que-parfait
+
+j'avais rédigé
+tu avais rédigé
+il (elle) avait rédigé
+nous avions rédigé
+vous aviez rédigé
+ils (elles) avaient rédigé
+
+** Passé antérieur
+
+j'eus rédigé
+tu eus rédigé
+il (elle) eut rédigé
+nous eûmes rédigé
+vous eûtes rédigé
+ils (elles) eurent rédigé
+
+** Futur antérieur
+
+j'aurai rédigé
+tu auras rédigé
+il (elle) aura rédigé
+nous aurons rédigé
+vous aurez rédigé
+ils (elles) auront rédigé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rédigé
+tu aurais rédigé
+il (elle) aurait rédigé
+nous aurions rédigé
+vous auriez rédigé
+ils (elles) auraient rédigé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rédigé
+que tu aies rédigé
+qu’il (elle) ait rédigé
+que nous ayons rédigé
+que vous ayez rédigé
+qu’ils (elles) aient rédigé
+
+** Plus-que-parfait
+
+que j'eusse rédigé
+que tu eusses rédigé
+qu’il (elle) eût rédigé
+que nous eussions rédigé
+que vous eussiez rédigé
+qu’ils (elles) eussent rédigé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rédigé
+ayez rédigé
+
+* INFINITIF
+
+** Passé
+
+avoir rédigé
+
+* PARTICIPE
+
+** Passé
+
+ayant rédigé
+rédigé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rédigé(e)
+tu es rédigé(e)
+il (elle) est rédigé(e)
+nous sommes rédigé(e)s
+vous êtes rédigé(e)s
+ils (elles) sont rédigé(e)s
+
+** Imparfait
+
+j'étais rédigé(e)
+tu étais rédigé(e)
+il (elle) était rédigé(e)
+nous étions rédigé(e)s
+vous étiez rédigé(e)s
+ils (elles) étaient rédigé(e)s
+
+** Passé simple
+
+je fus rédigé(e)
+tu fus rédigé(e)
+il (elle) fut rédigé(e)
+nous fûmes rédigé(e)s
+vous fûtes rédigé(e)s
+ils (elles) furent rédigé(e)s
+
+** Futur simple
+
+je serai rédigé(e)
+tu seras rédigé(e)
+il (elle) sera rédigé(e)
+nous serons rédigé(e)s
+vous serez rédigé(e)s
+ils (elles) seront rédigé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rédigé(e)
+tu serais rédigé(e)
+il (elle) serait rédigé(e)
+nous serions rédigé(e)s
+vous seriez rédigé(e)s
+ils (elles) seraient rédigé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rédigé(e)
+que tu sois rédigé(e)
+qu’il (elle) soit rédigé(e)
+que nous soyons rédigé(e)s
+que vous soyez rédigé(e)s
+qu’ils (elles) soient rédigé(e)s
+
+** Imparfait
+
+que je fusse rédigé(e)
+que tu fusses rédigé(e)
+qu’il (elle) fût rédigé(e)
+que nous fussions rédigé(e)s
+que vous fussiez rédigé(e)s
+qu’ils (elles) fussent rédigé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rédigé(e)s
+soyez rédigé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rédigé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rédigé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rédigé(e)
+tu as été rédigé(e)
+il (elle) a été rédigé(e)
+nous avons été rédigé(e)s
+vous avez été rédigé(e)s
+ils (elles) ont été rédigé(e)s
+
+** Plus-que-parfait
+
+j'avais été rédigé(e)
+il (elle) avait été rédigé(e)
+nous avions été rédigé(e)s
+ils (elles) avaient été rédigé(e)s
+
+** Passé antérieur
+
+j'eus été rédigé(e)
+tu eus été rédigé(e)
+il (elle) eut été rédigé(e)
+nous eûmes été rédigé(e)s
+vous eûtes été rédigé(e)s
+ils (elles) eurent été rédigé(e)s
+
+** Futur antérieur
+
+j'aurai été rédigé(e)
+tu auras été rédigé(e)
+il (elle) aura été rédigé(e)
+nous aurons été rédigé(e)s
+vous aurez été rédigé(e)s
+ils (elles) auront été rédigé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rédigé(e)
+j'aurais été rédigé(e)
+il (elle) aurait été rédigé(e)
+nous aurions été rédigé(e)s
+vous auriez été rédigé(e)s
+ils (elles) auraient été rédigé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rédigé(e)
+que tu aies été rédigé(e)
+qu’il (elle) ait été rédigé(e)
+que nous ayons été rédigé(e)s
+que vous ayez été rédigé(e)s
+qu’ils (elles) aient été rédigé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rédigé(e)
+que tu eusses été rédigé(e)
+qu’il (elle) eût été rédigé(e)
+que nous eussions été rédigé(e)s
+que vous eussiez été rédigé(e)s
+qu’ils (elles) eussent été rédigé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rédigé(e)
+ayons été rédigé(e)s
+ayez été rédigé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rédigé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rédigé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe amorcer
+
+* INDICATIF
+
+** Présent
+
+j'amorce
+tu amorces
+il (elle) amorce
+nous amorçons
+vous amorcez
+ils (elles) amorcent
+
+** Imparfait
+
+j'amorçais
+tu amorçais
+il (elle) amorçait
+nous amorcions
+vous amorciez
+ils (elles) amorçaient
+
+** Passé simple
+
+j'amorçai
+tu amorças
+il (elle) amorça
+nous amorçâmes
+vous amorçâtes
+ils (elles) amorcèrent
+
+** Futur simple
+
+j'amorcerai
+tu amorceras
+il (elle) amorcera
+nous amorcerons
+vous amorcerez
+ils (elles) amorceront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amorcerais
+tu amorcerais
+il (elle) amorcerait
+nous amorcerions
+vous amorceriez
+ils (elles) amorceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amorce
+que tu amorces
+qu’il (elle) amorce
+que nous amorcions
+que vous amorciez
+qu’ils (elles) amorcent
+
+** Imparfait
+
+que j'amorçasse
+que tu amorçasses
+qu’il (elle) amorçât
+que nous amorçassions
+que vous amorçassiez
+qu’ils (elles) amorçassent
+
+* IMPÉRATIF
+
+** Présent
+
+amorce
+amorçons
+amorcez
+
+* INFINITIF
+
+** Présent
+
+amorcer
+
+* PARTICIPE
+
+** Présent
+
+amorçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amorcé
+tu as amorcé
+il (elle) a amorcé
+nous avons amorcé
+vous avez amorcé
+ils (elles) ont amorcé
+
+** Plus-que-parfait
+
+j'avais amorcé
+tu avais amorcé
+il (elle) avait amorcé
+nous avions amorcé
+vous aviez amorcé
+ils (elles) avaient amorcé
+
+** Passé antérieur
+
+j'eus amorcé
+tu eus amorcé
+il (elle) eut amorcé
+nous eûmes amorcé
+vous eûtes amorcé
+ils (elles) eurent amorcé
+
+** Futur antérieur
+
+j'aurai amorcé
+tu auras amorcé
+il (elle) aura amorcé
+nous aurons amorcé
+vous aurez amorcé
+ils (elles) auront amorcé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amorcé
+tu aurais amorcé
+il (elle) aurait amorcé
+nous aurions amorcé
+vous auriez amorcé
+ils (elles) auraient amorcé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amorcé
+que tu aies amorcé
+qu’il (elle) ait amorcé
+que nous ayons amorcé
+que vous ayez amorcé
+qu’ils (elles) aient amorcé
+
+** Plus-que-parfait
+
+que j'eusse amorcé
+que tu eusses amorcé
+qu’il (elle) eût amorcé
+que nous eussions amorcé
+que vous eussiez amorcé
+qu’ils (elles) eussent amorcé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amorcé
+ayez amorcé
+
+* INFINITIF
+
+** Passé
+
+avoir amorcé
+
+* PARTICIPE
+
+** Passé
+
+ayant amorcé
+amorcé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis amorcé(e)
+tu es amorcé(e)
+il (elle) est amorcé(e)
+nous sommes amorcé(e)s
+vous êtes amorcé(e)s
+ils (elles) sont amorcé(e)s
+
+** Imparfait
+
+j'étais amorcé(e)
+tu étais amorcé(e)
+il (elle) était amorcé(e)
+nous étions amorcé(e)s
+vous étiez amorcé(e)s
+ils (elles) étaient amorcé(e)s
+
+** Passé simple
+
+je fus amorcé(e)
+tu fus amorcé(e)
+il (elle) fut amorcé(e)
+nous fûmes amorcé(e)s
+vous fûtes amorcé(e)s
+ils (elles) furent amorcé(e)s
+
+** Futur simple
+
+je serai amorcé(e)
+tu seras amorcé(e)
+il (elle) sera amorcé(e)
+nous serons amorcé(e)s
+vous serez amorcé(e)s
+ils (elles) seront amorcé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais amorcé(e)
+tu serais amorcé(e)
+il (elle) serait amorcé(e)
+nous serions amorcé(e)s
+vous seriez amorcé(e)s
+ils (elles) seraient amorcé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois amorcé(e)
+que tu sois amorcé(e)
+qu’il (elle) soit amorcé(e)
+que nous soyons amorcé(e)s
+que vous soyez amorcé(e)s
+qu’ils (elles) soient amorcé(e)s
+
+** Imparfait
+
+que je fusse amorcé(e)
+que tu fusses amorcé(e)
+qu’il (elle) fût amorcé(e)
+que nous fussions amorcé(e)s
+que vous fussiez amorcé(e)s
+qu’ils (elles) fussent amorcé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons amorcé(e)s
+soyez amorcé(e)s
+
+* INFINITIF
+
+** Présent
+
+être amorcé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant amorcé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été amorcé(e)
+tu as été amorcé(e)
+il (elle) a été amorcé(e)
+nous avons été amorcé(e)s
+vous avez été amorcé(e)s
+ils (elles) ont été amorcé(e)s
+
+** Plus-que-parfait
+
+j'avais été amorcé(e)
+il (elle) avait été amorcé(e)
+nous avions été amorcé(e)s
+ils (elles) avaient été amorcé(e)s
+
+** Passé antérieur
+
+j'eus été amorcé(e)
+tu eus été amorcé(e)
+il (elle) eut été amorcé(e)
+nous eûmes été amorcé(e)s
+vous eûtes été amorcé(e)s
+ils (elles) eurent été amorcé(e)s
+
+** Futur antérieur
+
+j'aurai été amorcé(e)
+tu auras été amorcé(e)
+il (elle) aura été amorcé(e)
+nous aurons été amorcé(e)s
+vous aurez été amorcé(e)s
+ils (elles) auront été amorcé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été amorcé(e)
+j'aurais été amorcé(e)
+il (elle) aurait été amorcé(e)
+nous aurions été amorcé(e)s
+vous auriez été amorcé(e)s
+ils (elles) auraient été amorcé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été amorcé(e)
+que tu aies été amorcé(e)
+qu’il (elle) ait été amorcé(e)
+que nous ayons été amorcé(e)s
+que vous ayez été amorcé(e)s
+qu’ils (elles) aient été amorcé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été amorcé(e)
+que tu eusses été amorcé(e)
+qu’il (elle) eût été amorcé(e)
+que nous eussions été amorcé(e)s
+que vous eussiez été amorcé(e)s
+qu’ils (elles) eussent été amorcé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été amorcé(e)
+ayons été amorcé(e)s
+ayez été amorcé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été amorcé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été amorcé(e)(s)

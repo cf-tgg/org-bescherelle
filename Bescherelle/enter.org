@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enter
+
+* INDICATIF
+
+** Présent
+
+j'ente
+tu entes
+il (elle) ente
+nous entons
+vous entez
+ils (elles) entent
+
+** Imparfait
+
+j'entais
+tu entais
+il (elle) entait
+nous entions
+vous entiez
+ils (elles) entaient
+
+** Passé simple
+
+j'entai
+tu entas
+il (elle) enta
+nous entâmes
+vous entâtes
+ils (elles) entèrent
+
+** Futur simple
+
+j'enterai
+tu enteras
+il (elle) entera
+nous enterons
+vous enterez
+ils (elles) enteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enterais
+tu enterais
+il (elle) enterait
+nous enterions
+vous enteriez
+ils (elles) enteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ente
+que tu entes
+qu’il (elle) ente
+que nous entions
+que vous entiez
+qu’ils (elles) entent
+
+** Imparfait
+
+que j'entasse
+que tu entasses
+qu’il (elle) entât
+que nous entassions
+que vous entassiez
+qu’ils (elles) entassent
+
+* IMPÉRATIF
+
+** Présent
+
+ente
+entons
+entez
+
+* INFINITIF
+
+** Présent
+
+enter
+
+* PARTICIPE
+
+** Présent
+
+entant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enté
+tu as enté
+il (elle) a enté
+nous avons enté
+vous avez enté
+ils (elles) ont enté
+
+** Plus-que-parfait
+
+j'avais enté
+tu avais enté
+il (elle) avait enté
+nous avions enté
+vous aviez enté
+ils (elles) avaient enté
+
+** Passé antérieur
+
+j'eus enté
+tu eus enté
+il (elle) eut enté
+nous eûmes enté
+vous eûtes enté
+ils (elles) eurent enté
+
+** Futur antérieur
+
+j'aurai enté
+tu auras enté
+il (elle) aura enté
+nous aurons enté
+vous aurez enté
+ils (elles) auront enté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enté
+tu aurais enté
+il (elle) aurait enté
+nous aurions enté
+vous auriez enté
+ils (elles) auraient enté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enté
+que tu aies enté
+qu’il (elle) ait enté
+que nous ayons enté
+que vous ayez enté
+qu’ils (elles) aient enté
+
+** Plus-que-parfait
+
+que j'eusse enté
+que tu eusses enté
+qu’il (elle) eût enté
+que nous eussions enté
+que vous eussiez enté
+qu’ils (elles) eussent enté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enté
+ayez enté
+
+* INFINITIF
+
+** Passé
+
+avoir enté
+
+* PARTICIPE
+
+** Passé
+
+ayant enté
+enté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enté(e)
+tu es enté(e)
+il (elle) est enté(e)
+nous sommes enté(e)s
+vous êtes enté(e)s
+ils (elles) sont enté(e)s
+
+** Imparfait
+
+j'étais enté(e)
+tu étais enté(e)
+il (elle) était enté(e)
+nous étions enté(e)s
+vous étiez enté(e)s
+ils (elles) étaient enté(e)s
+
+** Passé simple
+
+je fus enté(e)
+tu fus enté(e)
+il (elle) fut enté(e)
+nous fûmes enté(e)s
+vous fûtes enté(e)s
+ils (elles) furent enté(e)s
+
+** Futur simple
+
+je serai enté(e)
+tu seras enté(e)
+il (elle) sera enté(e)
+nous serons enté(e)s
+vous serez enté(e)s
+ils (elles) seront enté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enté(e)
+tu serais enté(e)
+il (elle) serait enté(e)
+nous serions enté(e)s
+vous seriez enté(e)s
+ils (elles) seraient enté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enté(e)
+que tu sois enté(e)
+qu’il (elle) soit enté(e)
+que nous soyons enté(e)s
+que vous soyez enté(e)s
+qu’ils (elles) soient enté(e)s
+
+** Imparfait
+
+que je fusse enté(e)
+que tu fusses enté(e)
+qu’il (elle) fût enté(e)
+que nous fussions enté(e)s
+que vous fussiez enté(e)s
+qu’ils (elles) fussent enté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enté(e)s
+soyez enté(e)s
+
+* INFINITIF
+
+** Présent
+
+être enté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enté(e)
+tu as été enté(e)
+il (elle) a été enté(e)
+nous avons été enté(e)s
+vous avez été enté(e)s
+ils (elles) ont été enté(e)s
+
+** Plus-que-parfait
+
+j'avais été enté(e)
+il (elle) avait été enté(e)
+nous avions été enté(e)s
+ils (elles) avaient été enté(e)s
+
+** Passé antérieur
+
+j'eus été enté(e)
+tu eus été enté(e)
+il (elle) eut été enté(e)
+nous eûmes été enté(e)s
+vous eûtes été enté(e)s
+ils (elles) eurent été enté(e)s
+
+** Futur antérieur
+
+j'aurai été enté(e)
+tu auras été enté(e)
+il (elle) aura été enté(e)
+nous aurons été enté(e)s
+vous aurez été enté(e)s
+ils (elles) auront été enté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enté(e)
+j'aurais été enté(e)
+il (elle) aurait été enté(e)
+nous aurions été enté(e)s
+vous auriez été enté(e)s
+ils (elles) auraient été enté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enté(e)
+que tu aies été enté(e)
+qu’il (elle) ait été enté(e)
+que nous ayons été enté(e)s
+que vous ayez été enté(e)s
+qu’ils (elles) aient été enté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enté(e)
+que tu eusses été enté(e)
+qu’il (elle) eût été enté(e)
+que nous eussions été enté(e)s
+que vous eussiez été enté(e)s
+qu’ils (elles) eussent été enté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enté(e)
+ayons été enté(e)s
+ayez été enté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enté(e)(s)

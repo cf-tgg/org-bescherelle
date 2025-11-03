@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parler
+
+* INDICATIF
+
+** Présent
+
+je parle
+tu parles
+il (elle) parle
+nous parlons
+vous parlez
+ils (elles) parlent
+
+** Imparfait
+
+je parlais
+tu parlais
+il (elle) parlait
+nous parlions
+vous parliez
+ils (elles) parlaient
+
+** Passé simple
+
+je parlai
+tu parlas
+il (elle) parla
+nous parlâmes
+vous parlâtes
+ils (elles) parlèrent
+
+** Futur simple
+
+je parlerai
+tu parleras
+il (elle) parlera
+nous parlerons
+vous parlerez
+ils (elles) parleront
+
+* CONDITIONNEL
+
+** Présent
+
+je parlerais
+tu parlerais
+il (elle) parlerait
+nous parlerions
+vous parleriez
+ils (elles) parleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parle
+que tu parles
+qu’il (elle) parle
+que nous parlions
+que vous parliez
+qu’ils (elles) parlent
+
+** Imparfait
+
+que je parlasse
+que tu parlasses
+qu’il (elle) parlât
+que nous parlassions
+que vous parlassiez
+qu’ils (elles) parlassent
+
+* IMPÉRATIF
+
+** Présent
+
+parle
+parlons
+parlez
+
+* INFINITIF
+
+** Présent
+
+parler
+
+* PARTICIPE
+
+** Présent
+
+parlant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai parlé
+tu as parlé
+il (elle) a parlé
+nous avons parlé
+vous avez parlé
+ils (elles) ont parlé
+
+** Plus-que-parfait
+
+j'avais parlé
+tu avais parlé
+il (elle) avait parlé
+nous avions parlé
+vous aviez parlé
+ils (elles) avaient parlé
+
+** Passé antérieur
+
+j'eus parlé
+tu eus parlé
+il (elle) eut parlé
+nous eûmes parlé
+vous eûtes parlé
+ils (elles) eurent parlé
+
+** Futur antérieur
+
+j'aurai parlé
+tu auras parlé
+il (elle) aura parlé
+nous aurons parlé
+vous aurez parlé
+ils (elles) auront parlé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais parlé
+tu aurais parlé
+il (elle) aurait parlé
+nous aurions parlé
+vous auriez parlé
+ils (elles) auraient parlé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie parlé
+que tu aies parlé
+qu’il (elle) ait parlé
+que nous ayons parlé
+que vous ayez parlé
+qu’ils (elles) aient parlé
+
+** Plus-que-parfait
+
+que j'eusse parlé
+que tu eusses parlé
+qu’il (elle) eût parlé
+que nous eussions parlé
+que vous eussiez parlé
+qu’ils (elles) eussent parlé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons parlé
+ayez parlé
+
+* INFINITIF
+
+** Passé
+
+avoir parlé
+
+* PARTICIPE
+
+** Passé
+
+ayant parlé
+parlé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis parlé(e)
+tu es parlé(e)
+il (elle) est parlé(e)
+nous sommes parlé(e)s
+vous êtes parlé(e)s
+ils (elles) sont parlé(e)s
+
+** Imparfait
+
+j'étais parlé(e)
+tu étais parlé(e)
+il (elle) était parlé(e)
+nous étions parlé(e)s
+vous étiez parlé(e)s
+ils (elles) étaient parlé(e)s
+
+** Passé simple
+
+je fus parlé(e)
+tu fus parlé(e)
+il (elle) fut parlé(e)
+nous fûmes parlé(e)s
+vous fûtes parlé(e)s
+ils (elles) furent parlé(e)s
+
+** Futur simple
+
+je serai parlé(e)
+tu seras parlé(e)
+il (elle) sera parlé(e)
+nous serons parlé(e)s
+vous serez parlé(e)s
+ils (elles) seront parlé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais parlé(e)
+tu serais parlé(e)
+il (elle) serait parlé(e)
+nous serions parlé(e)s
+vous seriez parlé(e)s
+ils (elles) seraient parlé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois parlé(e)
+que tu sois parlé(e)
+qu’il (elle) soit parlé(e)
+que nous soyons parlé(e)s
+que vous soyez parlé(e)s
+qu’ils (elles) soient parlé(e)s
+
+** Imparfait
+
+que je fusse parlé(e)
+que tu fusses parlé(e)
+qu’il (elle) fût parlé(e)
+que nous fussions parlé(e)s
+que vous fussiez parlé(e)s
+qu’ils (elles) fussent parlé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons parlé(e)s
+soyez parlé(e)s
+
+* INFINITIF
+
+** Présent
+
+être parlé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant parlé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été parlé(e)
+tu as été parlé(e)
+il (elle) a été parlé(e)
+nous avons été parlé(e)s
+vous avez été parlé(e)s
+ils (elles) ont été parlé(e)s
+
+** Plus-que-parfait
+
+j'avais été parlé(e)
+il (elle) avait été parlé(e)
+nous avions été parlé(e)s
+ils (elles) avaient été parlé(e)s
+
+** Passé antérieur
+
+j'eus été parlé(e)
+tu eus été parlé(e)
+il (elle) eut été parlé(e)
+nous eûmes été parlé(e)s
+vous eûtes été parlé(e)s
+ils (elles) eurent été parlé(e)s
+
+** Futur antérieur
+
+j'aurai été parlé(e)
+tu auras été parlé(e)
+il (elle) aura été parlé(e)
+nous aurons été parlé(e)s
+vous aurez été parlé(e)s
+ils (elles) auront été parlé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été parlé(e)
+j'aurais été parlé(e)
+il (elle) aurait été parlé(e)
+nous aurions été parlé(e)s
+vous auriez été parlé(e)s
+ils (elles) auraient été parlé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été parlé(e)
+que tu aies été parlé(e)
+qu’il (elle) ait été parlé(e)
+que nous ayons été parlé(e)s
+que vous ayez été parlé(e)s
+qu’ils (elles) aient été parlé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été parlé(e)
+que tu eusses été parlé(e)
+qu’il (elle) eût été parlé(e)
+que nous eussions été parlé(e)s
+que vous eussiez été parlé(e)s
+qu’ils (elles) eussent été parlé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été parlé(e)
+ayons été parlé(e)s
+ayez été parlé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été parlé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été parlé(e)(s)

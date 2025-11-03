@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assumer
+
+* INDICATIF
+
+** Présent
+
+j'assume
+tu assumes
+il (elle) assume
+nous assumons
+vous assumez
+ils (elles) assument
+
+** Imparfait
+
+j'assumais
+tu assumais
+il (elle) assumait
+nous assumions
+vous assumiez
+ils (elles) assumaient
+
+** Passé simple
+
+j'assumai
+tu assumas
+il (elle) assuma
+nous assumâmes
+vous assumâtes
+ils (elles) assumèrent
+
+** Futur simple
+
+j'assumerai
+tu assumeras
+il (elle) assumera
+nous assumerons
+vous assumerez
+ils (elles) assumeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assumerais
+tu assumerais
+il (elle) assumerait
+nous assumerions
+vous assumeriez
+ils (elles) assumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assume
+que tu assumes
+qu’il (elle) assume
+que nous assumions
+que vous assumiez
+qu’ils (elles) assument
+
+** Imparfait
+
+que j'assumasse
+que tu assumasses
+qu’il (elle) assumât
+que nous assumassions
+que vous assumassiez
+qu’ils (elles) assumassent
+
+* IMPÉRATIF
+
+** Présent
+
+assume
+assumons
+assumez
+
+* INFINITIF
+
+** Présent
+
+assumer
+
+* PARTICIPE
+
+** Présent
+
+assumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assumé
+tu as assumé
+il (elle) a assumé
+nous avons assumé
+vous avez assumé
+ils (elles) ont assumé
+
+** Plus-que-parfait
+
+j'avais assumé
+tu avais assumé
+il (elle) avait assumé
+nous avions assumé
+vous aviez assumé
+ils (elles) avaient assumé
+
+** Passé antérieur
+
+j'eus assumé
+tu eus assumé
+il (elle) eut assumé
+nous eûmes assumé
+vous eûtes assumé
+ils (elles) eurent assumé
+
+** Futur antérieur
+
+j'aurai assumé
+tu auras assumé
+il (elle) aura assumé
+nous aurons assumé
+vous aurez assumé
+ils (elles) auront assumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assumé
+tu aurais assumé
+il (elle) aurait assumé
+nous aurions assumé
+vous auriez assumé
+ils (elles) auraient assumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assumé
+que tu aies assumé
+qu’il (elle) ait assumé
+que nous ayons assumé
+que vous ayez assumé
+qu’ils (elles) aient assumé
+
+** Plus-que-parfait
+
+que j'eusse assumé
+que tu eusses assumé
+qu’il (elle) eût assumé
+que nous eussions assumé
+que vous eussiez assumé
+qu’ils (elles) eussent assumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assumé
+ayez assumé
+
+* INFINITIF
+
+** Passé
+
+avoir assumé
+
+* PARTICIPE
+
+** Passé
+
+ayant assumé
+assumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis assumé(e)
+tu es assumé(e)
+il (elle) est assumé(e)
+nous sommes assumé(e)s
+vous êtes assumé(e)s
+ils (elles) sont assumé(e)s
+
+** Imparfait
+
+j'étais assumé(e)
+tu étais assumé(e)
+il (elle) était assumé(e)
+nous étions assumé(e)s
+vous étiez assumé(e)s
+ils (elles) étaient assumé(e)s
+
+** Passé simple
+
+je fus assumé(e)
+tu fus assumé(e)
+il (elle) fut assumé(e)
+nous fûmes assumé(e)s
+vous fûtes assumé(e)s
+ils (elles) furent assumé(e)s
+
+** Futur simple
+
+je serai assumé(e)
+tu seras assumé(e)
+il (elle) sera assumé(e)
+nous serons assumé(e)s
+vous serez assumé(e)s
+ils (elles) seront assumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assumé(e)
+tu serais assumé(e)
+il (elle) serait assumé(e)
+nous serions assumé(e)s
+vous seriez assumé(e)s
+ils (elles) seraient assumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assumé(e)
+que tu sois assumé(e)
+qu’il (elle) soit assumé(e)
+que nous soyons assumé(e)s
+que vous soyez assumé(e)s
+qu’ils (elles) soient assumé(e)s
+
+** Imparfait
+
+que je fusse assumé(e)
+que tu fusses assumé(e)
+qu’il (elle) fût assumé(e)
+que nous fussions assumé(e)s
+que vous fussiez assumé(e)s
+qu’ils (elles) fussent assumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assumé(e)s
+soyez assumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être assumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assumé(e)
+tu as été assumé(e)
+il (elle) a été assumé(e)
+nous avons été assumé(e)s
+vous avez été assumé(e)s
+ils (elles) ont été assumé(e)s
+
+** Plus-que-parfait
+
+j'avais été assumé(e)
+il (elle) avait été assumé(e)
+nous avions été assumé(e)s
+ils (elles) avaient été assumé(e)s
+
+** Passé antérieur
+
+j'eus été assumé(e)
+tu eus été assumé(e)
+il (elle) eut été assumé(e)
+nous eûmes été assumé(e)s
+vous eûtes été assumé(e)s
+ils (elles) eurent été assumé(e)s
+
+** Futur antérieur
+
+j'aurai été assumé(e)
+tu auras été assumé(e)
+il (elle) aura été assumé(e)
+nous aurons été assumé(e)s
+vous aurez été assumé(e)s
+ils (elles) auront été assumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assumé(e)
+j'aurais été assumé(e)
+il (elle) aurait été assumé(e)
+nous aurions été assumé(e)s
+vous auriez été assumé(e)s
+ils (elles) auraient été assumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assumé(e)
+que tu aies été assumé(e)
+qu’il (elle) ait été assumé(e)
+que nous ayons été assumé(e)s
+que vous ayez été assumé(e)s
+qu’ils (elles) aient été assumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assumé(e)
+que tu eusses été assumé(e)
+qu’il (elle) eût été assumé(e)
+que nous eussions été assumé(e)s
+que vous eussiez été assumé(e)s
+qu’ils (elles) eussent été assumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assumé(e)
+ayons été assumé(e)s
+ayez été assumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assumé(e)(s)

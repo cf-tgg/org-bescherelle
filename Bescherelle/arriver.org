@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe arriver
+
+* INDICATIF
+
+** Présent
+
+j'arrive
+tu arrives
+il (elle) arrive
+nous arrivons
+vous arrivez
+ils (elles) arrivent
+
+** Imparfait
+
+j'arrivais
+tu arrivais
+il (elle) arrivait
+nous arrivions
+vous arriviez
+ils (elles) arrivaient
+
+** Passé simple
+
+j'arrivai
+tu arrivas
+il (elle) arriva
+nous arrivâmes
+vous arrivâtes
+ils (elles) arrivèrent
+
+** Futur simple
+
+j'arriverai
+tu arriveras
+il (elle) arrivera
+nous arriverons
+vous arriverez
+ils (elles) arriveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'arriverais
+tu arriverais
+il (elle) arriverait
+nous arriverions
+vous arriveriez
+ils (elles) arriveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'arrive
+que tu arrives
+qu’il (elle) arrive
+que nous arrivions
+que vous arriviez
+qu’ils (elles) arrivent
+
+** Imparfait
+
+que j'arrivasse
+que tu arrivasses
+qu’il (elle) arrivât
+que nous arrivassions
+que vous arrivassiez
+qu’ils (elles) arrivassent
+
+* IMPÉRATIF
+
+** Présent
+
+arrive
+arrivons
+arrivez
+
+* INFINITIF
+
+** Présent
+
+arriver
+
+* PARTICIPE
+
+** Présent
+
+arrivant
+
+* INDICATIF
+
+** Passé composé
+
+je suis arrivé(e)
+tu es arrivé(e)
+il (elle) est arrivé(e)
+nous sommes arrivé(e)s
+vous êtes arrivé(e)s
+ils (elles) sont arrivé(e)s
+
+** Plus-que-parfait
+
+j'étais arrivé(e)
+tu étais arrivé(e)
+il (elle) était arrivé(e)
+nous étions arrivé(e)s
+vous étiez arrivé(e)s
+ils (elles) étaient arrivé(e)s
+
+** Passé antérieur
+
+je fus arrivé(e)
+tu fus arrivé(e)
+il (elle) fut arrivé(e)
+nous fûmes arrivé(e)s
+vous fûtes arrivé(e)s
+ils (elles) furent arrivé(e)s
+
+** Futur antérieur
+
+je serai arrivé(e)
+tu seras arrivé(e)
+il (elle) sera arrivé(e)
+nous serons arrivé(e)s
+vous serez arrivé(e)s
+ils (elles) seront arrivé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais arrivé(e)
+tu serais arrivé(e)
+il (elle) serait arrivé(e)
+nous serions arrivé(e)s
+vous seriez arrivé(e)s
+ils (elles) seraient arrivé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois arrivé(e)
+que tu sois arrivé(e)
+qu’il (elle) soit arrivé(e)
+que nous soyons arrivé(e)s
+que vous soyez arrivé(e)s
+qu’ils (elles) soient arrivé(e)s
+
+** Plus-que-parfait
+
+que je fusse arrivé(e)
+que tu fusses arrivé(e)
+qu’il (elle) fût arrivé(e)
+que nous fussions arrivé(e)s
+que vous fussiez arrivé(e)s
+qu’ils (elles) fussent arrivé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons arrivé(e)s
+soyez arrivé(e)s
+
+* INFINITIF
+
+** Passé
+
+être arrivé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant arrivé(e)(s)
+arrivé (é, ée, és, ées)

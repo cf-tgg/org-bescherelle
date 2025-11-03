@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe maudire
+
+* INDICATIF
+
+** Présent
+
+je maudis
+tu maudis
+il (elle) maudit
+nous maudissons
+vous maudissez
+ils (elles) maudissent
+
+** Imparfait
+
+je maudissais
+tu maudissais
+il (elle) maudissait
+nous maudissions
+vous maudissiez
+ils (elles) maudissaient
+
+** Passé simple
+
+je maudis
+tu maudis
+il (elle) maudit
+nous maudîmes
+vous maudîtes
+ils (elles) maudirent
+
+** Futur simple
+
+je maudirai
+tu maudiras
+il (elle) maudira
+nous maudirons
+vous maudirez
+ils (elles) maudiront
+
+* CONDITIONNEL
+
+** Présent
+
+je maudirais
+tu maudirais
+il (elle) maudirait
+nous maudirions
+vous maudiriez
+ils (elles) maudiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je maudisse
+que tu maudisses
+qu’il (elle) maudisse
+que nous maudissions
+que vous maudissiez
+qu’ils (elles) maudissent
+
+** Imparfait
+
+que je maudisse
+que tu maudisses
+qu’il (elle) maudît
+que nous maudissions
+que vous maudissiez
+qu’ils (elles) maudissent
+
+* IMPÉRATIF
+
+** Présent
+
+maudis
+maudissons
+maudissez
+
+* INFINITIF
+
+** Présent
+
+maudire
+
+* PARTICIPE
+
+** Présent
+
+maudissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai maudit
+tu as maudit
+il (elle) a maudit
+nous avons maudit
+vous avez maudit
+ils (elles) ont maudit
+
+** Plus-que-parfait
+
+j'avais maudit
+tu avais maudit
+il (elle) avait maudit
+nous avions maudit
+vous aviez maudit
+ils (elles) avaient maudit
+
+** Passé antérieur
+
+j'eus maudit
+tu eus maudit
+il (elle) eut maudit
+nous eûmes maudit
+vous eûtes maudit
+ils (elles) eurent maudit
+
+** Futur antérieur
+
+j'aurai maudit
+tu auras maudit
+il (elle) aura maudit
+nous aurons maudit
+vous aurez maudit
+ils (elles) auront maudit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais maudit
+tu aurais maudit
+il (elle) aurait maudit
+nous aurions maudit
+vous auriez maudit
+ils (elles) auraient maudit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie maudit
+que tu aies maudit
+qu’il (elle) ait maudit
+que nous ayons maudit
+que vous ayez maudit
+qu’ils (elles) aient maudit
+
+** Plus-que-parfait
+
+que j'eusse maudit
+que tu eusses maudit
+qu’il (elle) eût maudit
+que nous eussions maudit
+que vous eussiez maudit
+qu’ils (elles) eussent maudit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons maudit
+ayez maudit
+
+* INFINITIF
+
+** Passé
+
+avoir maudit
+
+* PARTICIPE
+
+** Passé
+
+ayant maudit
+maudit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis maudit(e)
+tu es maudit(e)
+il (elle) est maudit(e)
+nous sommes maudit(e)s
+vous êtes maudit(e)s
+ils (elles) sont maudit(e)s
+
+** Imparfait
+
+j'étais maudit(e)
+tu étais maudit(e)
+il (elle) était maudit(e)
+nous étions maudit(e)s
+vous étiez maudit(e)s
+ils (elles) étaient maudit(e)s
+
+** Passé simple
+
+je fus maudit(e)
+tu fus maudit(e)
+il (elle) fut maudit(e)
+nous fûmes maudit(e)s
+vous fûtes maudit(e)s
+ils (elles) furent maudit(e)s
+
+** Futur simple
+
+je serai maudit(e)
+tu seras maudit(e)
+il (elle) sera maudit(e)
+nous serons maudit(e)s
+vous serez maudit(e)s
+ils (elles) seront maudit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais maudit(e)
+tu serais maudit(e)
+il (elle) serait maudit(e)
+nous serions maudit(e)s
+vous seriez maudit(e)s
+ils (elles) seraient maudit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois maudit(e)
+que tu sois maudit(e)
+qu’il (elle) soit maudit(e)
+que nous soyons maudit(e)s
+que vous soyez maudit(e)s
+qu’ils (elles) soient maudit(e)s
+
+** Imparfait
+
+que je fusse maudit(e)
+que tu fusses maudit(e)
+qu’il (elle) fût maudit(e)
+que nous fussions maudit(e)s
+que vous fussiez maudit(e)s
+qu’ils (elles) fussent maudit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons maudit(e)s
+soyez maudit(e)s
+
+* INFINITIF
+
+** Présent
+
+être maudit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant maudit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été maudit(e)
+tu as été maudit(e)
+il (elle) a été maudit(e)
+nous avons été maudit(e)s
+vous avez été maudit(e)s
+ils (elles) ont été maudit(e)s
+
+** Plus-que-parfait
+
+j'avais été maudit(e)
+il (elle) avait été maudit(e)
+nous avions été maudit(e)s
+ils (elles) avaient été maudit(e)s
+
+** Passé antérieur
+
+j'eus été maudit(e)
+tu eus été maudit(e)
+il (elle) eut été maudit(e)
+nous eûmes été maudit(e)s
+vous eûtes été maudit(e)s
+ils (elles) eurent été maudit(e)s
+
+** Futur antérieur
+
+j'aurai été maudit(e)
+tu auras été maudit(e)
+il (elle) aura été maudit(e)
+nous aurons été maudit(e)s
+vous aurez été maudit(e)s
+ils (elles) auront été maudit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été maudit(e)
+j'aurais été maudit(e)
+il (elle) aurait été maudit(e)
+nous aurions été maudit(e)s
+vous auriez été maudit(e)s
+ils (elles) auraient été maudit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été maudit(e)
+que tu aies été maudit(e)
+qu’il (elle) ait été maudit(e)
+que nous ayons été maudit(e)s
+que vous ayez été maudit(e)s
+qu’ils (elles) aient été maudit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été maudit(e)
+que tu eusses été maudit(e)
+qu’il (elle) eût été maudit(e)
+que nous eussions été maudit(e)s
+que vous eussiez été maudit(e)s
+qu’ils (elles) eussent été maudit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été maudit(e)
+ayons été maudit(e)s
+ayez été maudit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été maudit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été maudit(e)(s)

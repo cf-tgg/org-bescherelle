@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe couper
+
+* INDICATIF
+
+** Présent
+
+je coupe
+tu coupes
+il (elle) coupe
+nous coupons
+vous coupez
+ils (elles) coupent
+
+** Imparfait
+
+je coupais
+tu coupais
+il (elle) coupait
+nous coupions
+vous coupiez
+ils (elles) coupaient
+
+** Passé simple
+
+je coupai
+tu coupas
+il (elle) coupa
+nous coupâmes
+vous coupâtes
+ils (elles) coupèrent
+
+** Futur simple
+
+je couperai
+tu couperas
+il (elle) coupera
+nous couperons
+vous couperez
+ils (elles) couperont
+
+* CONDITIONNEL
+
+** Présent
+
+je couperais
+tu couperais
+il (elle) couperait
+nous couperions
+vous couperiez
+ils (elles) couperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coupe
+que tu coupes
+qu’il (elle) coupe
+que nous coupions
+que vous coupiez
+qu’ils (elles) coupent
+
+** Imparfait
+
+que je coupasse
+que tu coupasses
+qu’il (elle) coupât
+que nous coupassions
+que vous coupassiez
+qu’ils (elles) coupassent
+
+* IMPÉRATIF
+
+** Présent
+
+coupe
+coupons
+coupez
+
+* INFINITIF
+
+** Présent
+
+couper
+
+* PARTICIPE
+
+** Présent
+
+coupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coupé
+tu as coupé
+il (elle) a coupé
+nous avons coupé
+vous avez coupé
+ils (elles) ont coupé
+
+** Plus-que-parfait
+
+j'avais coupé
+tu avais coupé
+il (elle) avait coupé
+nous avions coupé
+vous aviez coupé
+ils (elles) avaient coupé
+
+** Passé antérieur
+
+j'eus coupé
+tu eus coupé
+il (elle) eut coupé
+nous eûmes coupé
+vous eûtes coupé
+ils (elles) eurent coupé
+
+** Futur antérieur
+
+j'aurai coupé
+tu auras coupé
+il (elle) aura coupé
+nous aurons coupé
+vous aurez coupé
+ils (elles) auront coupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coupé
+tu aurais coupé
+il (elle) aurait coupé
+nous aurions coupé
+vous auriez coupé
+ils (elles) auraient coupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coupé
+que tu aies coupé
+qu’il (elle) ait coupé
+que nous ayons coupé
+que vous ayez coupé
+qu’ils (elles) aient coupé
+
+** Plus-que-parfait
+
+que j'eusse coupé
+que tu eusses coupé
+qu’il (elle) eût coupé
+que nous eussions coupé
+que vous eussiez coupé
+qu’ils (elles) eussent coupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coupé
+ayez coupé
+
+* INFINITIF
+
+** Passé
+
+avoir coupé
+
+* PARTICIPE
+
+** Passé
+
+ayant coupé
+coupé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coupé(e)
+tu es coupé(e)
+il (elle) est coupé(e)
+nous sommes coupé(e)s
+vous êtes coupé(e)s
+ils (elles) sont coupé(e)s
+
+** Imparfait
+
+j'étais coupé(e)
+tu étais coupé(e)
+il (elle) était coupé(e)
+nous étions coupé(e)s
+vous étiez coupé(e)s
+ils (elles) étaient coupé(e)s
+
+** Passé simple
+
+je fus coupé(e)
+tu fus coupé(e)
+il (elle) fut coupé(e)
+nous fûmes coupé(e)s
+vous fûtes coupé(e)s
+ils (elles) furent coupé(e)s
+
+** Futur simple
+
+je serai coupé(e)
+tu seras coupé(e)
+il (elle) sera coupé(e)
+nous serons coupé(e)s
+vous serez coupé(e)s
+ils (elles) seront coupé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coupé(e)
+tu serais coupé(e)
+il (elle) serait coupé(e)
+nous serions coupé(e)s
+vous seriez coupé(e)s
+ils (elles) seraient coupé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coupé(e)
+que tu sois coupé(e)
+qu’il (elle) soit coupé(e)
+que nous soyons coupé(e)s
+que vous soyez coupé(e)s
+qu’ils (elles) soient coupé(e)s
+
+** Imparfait
+
+que je fusse coupé(e)
+que tu fusses coupé(e)
+qu’il (elle) fût coupé(e)
+que nous fussions coupé(e)s
+que vous fussiez coupé(e)s
+qu’ils (elles) fussent coupé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coupé(e)s
+soyez coupé(e)s
+
+* INFINITIF
+
+** Présent
+
+être coupé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coupé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coupé(e)
+tu as été coupé(e)
+il (elle) a été coupé(e)
+nous avons été coupé(e)s
+vous avez été coupé(e)s
+ils (elles) ont été coupé(e)s
+
+** Plus-que-parfait
+
+j'avais été coupé(e)
+il (elle) avait été coupé(e)
+nous avions été coupé(e)s
+ils (elles) avaient été coupé(e)s
+
+** Passé antérieur
+
+j'eus été coupé(e)
+tu eus été coupé(e)
+il (elle) eut été coupé(e)
+nous eûmes été coupé(e)s
+vous eûtes été coupé(e)s
+ils (elles) eurent été coupé(e)s
+
+** Futur antérieur
+
+j'aurai été coupé(e)
+tu auras été coupé(e)
+il (elle) aura été coupé(e)
+nous aurons été coupé(e)s
+vous aurez été coupé(e)s
+ils (elles) auront été coupé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coupé(e)
+j'aurais été coupé(e)
+il (elle) aurait été coupé(e)
+nous aurions été coupé(e)s
+vous auriez été coupé(e)s
+ils (elles) auraient été coupé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coupé(e)
+que tu aies été coupé(e)
+qu’il (elle) ait été coupé(e)
+que nous ayons été coupé(e)s
+que vous ayez été coupé(e)s
+qu’ils (elles) aient été coupé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coupé(e)
+que tu eusses été coupé(e)
+qu’il (elle) eût été coupé(e)
+que nous eussions été coupé(e)s
+que vous eussiez été coupé(e)s
+qu’ils (elles) eussent été coupé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coupé(e)
+ayons été coupé(e)s
+ayez été coupé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coupé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coupé(e)(s)

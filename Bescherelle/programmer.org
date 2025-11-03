@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe programmer
+
+* INDICATIF
+
+** Présent
+
+je programme
+tu programmes
+il (elle) programme
+nous programmons
+vous programmez
+ils (elles) programment
+
+** Imparfait
+
+je programmais
+tu programmais
+il (elle) programmait
+nous programmions
+vous programmiez
+ils (elles) programmaient
+
+** Passé simple
+
+je programmai
+tu programmas
+il (elle) programma
+nous programmâmes
+vous programmâtes
+ils (elles) programmèrent
+
+** Futur simple
+
+je programmerai
+tu programmeras
+il (elle) programmera
+nous programmerons
+vous programmerez
+ils (elles) programmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je programmerais
+tu programmerais
+il (elle) programmerait
+nous programmerions
+vous programmeriez
+ils (elles) programmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je programme
+que tu programmes
+qu’il (elle) programme
+que nous programmions
+que vous programmiez
+qu’ils (elles) programment
+
+** Imparfait
+
+que je programmasse
+que tu programmasses
+qu’il (elle) programmât
+que nous programmassions
+que vous programmassiez
+qu’ils (elles) programmassent
+
+* IMPÉRATIF
+
+** Présent
+
+programme
+programmons
+programmez
+
+* INFINITIF
+
+** Présent
+
+programmer
+
+* PARTICIPE
+
+** Présent
+
+programmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai programmé
+tu as programmé
+il (elle) a programmé
+nous avons programmé
+vous avez programmé
+ils (elles) ont programmé
+
+** Plus-que-parfait
+
+j'avais programmé
+tu avais programmé
+il (elle) avait programmé
+nous avions programmé
+vous aviez programmé
+ils (elles) avaient programmé
+
+** Passé antérieur
+
+j'eus programmé
+tu eus programmé
+il (elle) eut programmé
+nous eûmes programmé
+vous eûtes programmé
+ils (elles) eurent programmé
+
+** Futur antérieur
+
+j'aurai programmé
+tu auras programmé
+il (elle) aura programmé
+nous aurons programmé
+vous aurez programmé
+ils (elles) auront programmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais programmé
+tu aurais programmé
+il (elle) aurait programmé
+nous aurions programmé
+vous auriez programmé
+ils (elles) auraient programmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie programmé
+que tu aies programmé
+qu’il (elle) ait programmé
+que nous ayons programmé
+que vous ayez programmé
+qu’ils (elles) aient programmé
+
+** Plus-que-parfait
+
+que j'eusse programmé
+que tu eusses programmé
+qu’il (elle) eût programmé
+que nous eussions programmé
+que vous eussiez programmé
+qu’ils (elles) eussent programmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons programmé
+ayez programmé
+
+* INFINITIF
+
+** Passé
+
+avoir programmé
+
+* PARTICIPE
+
+** Passé
+
+ayant programmé
+programmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis programmé(e)
+tu es programmé(e)
+il (elle) est programmé(e)
+nous sommes programmé(e)s
+vous êtes programmé(e)s
+ils (elles) sont programmé(e)s
+
+** Imparfait
+
+j'étais programmé(e)
+tu étais programmé(e)
+il (elle) était programmé(e)
+nous étions programmé(e)s
+vous étiez programmé(e)s
+ils (elles) étaient programmé(e)s
+
+** Passé simple
+
+je fus programmé(e)
+tu fus programmé(e)
+il (elle) fut programmé(e)
+nous fûmes programmé(e)s
+vous fûtes programmé(e)s
+ils (elles) furent programmé(e)s
+
+** Futur simple
+
+je serai programmé(e)
+tu seras programmé(e)
+il (elle) sera programmé(e)
+nous serons programmé(e)s
+vous serez programmé(e)s
+ils (elles) seront programmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais programmé(e)
+tu serais programmé(e)
+il (elle) serait programmé(e)
+nous serions programmé(e)s
+vous seriez programmé(e)s
+ils (elles) seraient programmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois programmé(e)
+que tu sois programmé(e)
+qu’il (elle) soit programmé(e)
+que nous soyons programmé(e)s
+que vous soyez programmé(e)s
+qu’ils (elles) soient programmé(e)s
+
+** Imparfait
+
+que je fusse programmé(e)
+que tu fusses programmé(e)
+qu’il (elle) fût programmé(e)
+que nous fussions programmé(e)s
+que vous fussiez programmé(e)s
+qu’ils (elles) fussent programmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons programmé(e)s
+soyez programmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être programmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant programmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été programmé(e)
+tu as été programmé(e)
+il (elle) a été programmé(e)
+nous avons été programmé(e)s
+vous avez été programmé(e)s
+ils (elles) ont été programmé(e)s
+
+** Plus-que-parfait
+
+j'avais été programmé(e)
+il (elle) avait été programmé(e)
+nous avions été programmé(e)s
+ils (elles) avaient été programmé(e)s
+
+** Passé antérieur
+
+j'eus été programmé(e)
+tu eus été programmé(e)
+il (elle) eut été programmé(e)
+nous eûmes été programmé(e)s
+vous eûtes été programmé(e)s
+ils (elles) eurent été programmé(e)s
+
+** Futur antérieur
+
+j'aurai été programmé(e)
+tu auras été programmé(e)
+il (elle) aura été programmé(e)
+nous aurons été programmé(e)s
+vous aurez été programmé(e)s
+ils (elles) auront été programmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été programmé(e)
+j'aurais été programmé(e)
+il (elle) aurait été programmé(e)
+nous aurions été programmé(e)s
+vous auriez été programmé(e)s
+ils (elles) auraient été programmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été programmé(e)
+que tu aies été programmé(e)
+qu’il (elle) ait été programmé(e)
+que nous ayons été programmé(e)s
+que vous ayez été programmé(e)s
+qu’ils (elles) aient été programmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été programmé(e)
+que tu eusses été programmé(e)
+qu’il (elle) eût été programmé(e)
+que nous eussions été programmé(e)s
+que vous eussiez été programmé(e)s
+qu’ils (elles) eussent été programmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été programmé(e)
+ayons été programmé(e)s
+ayez été programmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été programmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été programmé(e)(s)

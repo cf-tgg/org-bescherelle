@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe eveiller
+
+* INDICATIF
+
+** Présent
+
+j'éveille
+tu éveilles
+il (elle) éveille
+nous éveillons
+vous éveillez
+ils (elles) éveillent
+
+** Imparfait
+
+j'éveillais
+tu éveillais
+il (elle) éveillait
+nous éveillions
+vous éveilliez
+ils (elles) éveillaient
+
+** Passé simple
+
+j'éveillai
+tu éveillas
+il (elle) éveilla
+nous éveillâmes
+vous éveillâtes
+ils (elles) éveillèrent
+
+** Futur simple
+
+j'éveillerai
+tu éveilleras
+il (elle) éveillera
+nous éveillerons
+vous éveillerez
+ils (elles) éveilleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'éveillerais
+tu éveillerais
+il (elle) éveillerait
+nous éveillerions
+vous éveilleriez
+ils (elles) éveilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'éveille
+que tu éveilles
+qu’il (elle) éveille
+que nous éveillions
+que vous éveilliez
+qu’ils (elles) éveillent
+
+** Imparfait
+
+que j'éveillasse
+que tu éveillasses
+qu’il (elle) éveillât
+que nous éveillassions
+que vous éveillassiez
+qu’ils (elles) éveillassent
+
+* IMPÉRATIF
+
+** Présent
+
+éveille
+éveillons
+éveillez
+
+* INFINITIF
+
+** Présent
+
+éveiller
+
+* PARTICIPE
+
+** Présent
+
+éveillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai éveillé
+tu as éveillé
+il (elle) a éveillé
+nous avons éveillé
+vous avez éveillé
+ils (elles) ont éveillé
+
+** Plus-que-parfait
+
+j'avais éveillé
+tu avais éveillé
+il (elle) avait éveillé
+nous avions éveillé
+vous aviez éveillé
+ils (elles) avaient éveillé
+
+** Passé antérieur
+
+j'eus éveillé
+tu eus éveillé
+il (elle) eut éveillé
+nous eûmes éveillé
+vous eûtes éveillé
+ils (elles) eurent éveillé
+
+** Futur antérieur
+
+j'aurai éveillé
+tu auras éveillé
+il (elle) aura éveillé
+nous aurons éveillé
+vous aurez éveillé
+ils (elles) auront éveillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais éveillé
+tu aurais éveillé
+il (elle) aurait éveillé
+nous aurions éveillé
+vous auriez éveillé
+ils (elles) auraient éveillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie éveillé
+que tu aies éveillé
+qu’il (elle) ait éveillé
+que nous ayons éveillé
+que vous ayez éveillé
+qu’ils (elles) aient éveillé
+
+** Plus-que-parfait
+
+que j'eusse éveillé
+que tu eusses éveillé
+qu’il (elle) eût éveillé
+que nous eussions éveillé
+que vous eussiez éveillé
+qu’ils (elles) eussent éveillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons éveillé
+ayez éveillé
+
+* INFINITIF
+
+** Passé
+
+avoir éveillé
+
+* PARTICIPE
+
+** Passé
+
+ayant éveillé
+éveillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis éveillé(e)
+tu es éveillé(e)
+il (elle) est éveillé(e)
+nous sommes éveillé(e)s
+vous êtes éveillé(e)s
+ils (elles) sont éveillé(e)s
+
+** Imparfait
+
+j'étais éveillé(e)
+tu étais éveillé(e)
+il (elle) était éveillé(e)
+nous étions éveillé(e)s
+vous étiez éveillé(e)s
+ils (elles) étaient éveillé(e)s
+
+** Passé simple
+
+je fus éveillé(e)
+tu fus éveillé(e)
+il (elle) fut éveillé(e)
+nous fûmes éveillé(e)s
+vous fûtes éveillé(e)s
+ils (elles) furent éveillé(e)s
+
+** Futur simple
+
+je serai éveillé(e)
+tu seras éveillé(e)
+il (elle) sera éveillé(e)
+nous serons éveillé(e)s
+vous serez éveillé(e)s
+ils (elles) seront éveillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais éveillé(e)
+tu serais éveillé(e)
+il (elle) serait éveillé(e)
+nous serions éveillé(e)s
+vous seriez éveillé(e)s
+ils (elles) seraient éveillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois éveillé(e)
+que tu sois éveillé(e)
+qu’il (elle) soit éveillé(e)
+que nous soyons éveillé(e)s
+que vous soyez éveillé(e)s
+qu’ils (elles) soient éveillé(e)s
+
+** Imparfait
+
+que je fusse éveillé(e)
+que tu fusses éveillé(e)
+qu’il (elle) fût éveillé(e)
+que nous fussions éveillé(e)s
+que vous fussiez éveillé(e)s
+qu’ils (elles) fussent éveillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons éveillé(e)s
+soyez éveillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être éveillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant éveillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été éveillé(e)
+tu as été éveillé(e)
+il (elle) a été éveillé(e)
+nous avons été éveillé(e)s
+vous avez été éveillé(e)s
+ils (elles) ont été éveillé(e)s
+
+** Plus-que-parfait
+
+j'avais été éveillé(e)
+il (elle) avait été éveillé(e)
+nous avions été éveillé(e)s
+ils (elles) avaient été éveillé(e)s
+
+** Passé antérieur
+
+j'eus été éveillé(e)
+tu eus été éveillé(e)
+il (elle) eut été éveillé(e)
+nous eûmes été éveillé(e)s
+vous eûtes été éveillé(e)s
+ils (elles) eurent été éveillé(e)s
+
+** Futur antérieur
+
+j'aurai été éveillé(e)
+tu auras été éveillé(e)
+il (elle) aura été éveillé(e)
+nous aurons été éveillé(e)s
+vous aurez été éveillé(e)s
+ils (elles) auront été éveillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été éveillé(e)
+j'aurais été éveillé(e)
+il (elle) aurait été éveillé(e)
+nous aurions été éveillé(e)s
+vous auriez été éveillé(e)s
+ils (elles) auraient été éveillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été éveillé(e)
+que tu aies été éveillé(e)
+qu’il (elle) ait été éveillé(e)
+que nous ayons été éveillé(e)s
+que vous ayez été éveillé(e)s
+qu’ils (elles) aient été éveillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été éveillé(e)
+que tu eusses été éveillé(e)
+qu’il (elle) eût été éveillé(e)
+que nous eussions été éveillé(e)s
+que vous eussiez été éveillé(e)s
+qu’ils (elles) eussent été éveillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été éveillé(e)
+ayons été éveillé(e)s
+ayez été éveillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été éveillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été éveillé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe econduire
+
+* INDICATIF
+
+** Présent
+
+j'éconduis
+tu éconduis
+il (elle) éconduit
+nous éconduisons
+vous éconduisez
+ils (elles) éconduisent
+
+** Imparfait
+
+j'éconduisais
+tu éconduisais
+il (elle) éconduisait
+nous éconduisions
+vous éconduisiez
+ils (elles) éconduisaient
+
+** Passé simple
+
+j'éconduisis
+tu éconduisis
+il (elle) éconduisit
+nous éconduisîmes
+vous éconduisîtes
+ils (elles) éconduisirent
+
+** Futur simple
+
+j'éconduirai
+tu éconduiras
+il (elle) éconduira
+nous éconduirons
+vous éconduirez
+ils (elles) éconduiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'éconduirais
+tu éconduirais
+il (elle) éconduirait
+nous éconduirions
+vous éconduiriez
+ils (elles) éconduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'éconduise
+que tu éconduises
+qu’il (elle) éconduise
+que nous éconduisions
+que vous éconduisiez
+qu’ils (elles) éconduisent
+
+** Imparfait
+
+que j'éconduisisse
+que tu éconduisisses
+qu’il (elle) éconduisît
+que nous éconduisissions
+que vous éconduisissiez
+qu’ils (elles) éconduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+éconduis
+éconduisons
+éconduisez
+
+* INFINITIF
+
+** Présent
+
+éconduire
+
+* PARTICIPE
+
+** Présent
+
+éconduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai éconduit
+tu as éconduit
+il (elle) a éconduit
+nous avons éconduit
+vous avez éconduit
+ils (elles) ont éconduit
+
+** Plus-que-parfait
+
+j'avais éconduit
+tu avais éconduit
+il (elle) avait éconduit
+nous avions éconduit
+vous aviez éconduit
+ils (elles) avaient éconduit
+
+** Passé antérieur
+
+j'eus éconduit
+tu eus éconduit
+il (elle) eut éconduit
+nous eûmes éconduit
+vous eûtes éconduit
+ils (elles) eurent éconduit
+
+** Futur antérieur
+
+j'aurai éconduit
+tu auras éconduit
+il (elle) aura éconduit
+nous aurons éconduit
+vous aurez éconduit
+ils (elles) auront éconduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais éconduit
+tu aurais éconduit
+il (elle) aurait éconduit
+nous aurions éconduit
+vous auriez éconduit
+ils (elles) auraient éconduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie éconduit
+que tu aies éconduit
+qu’il (elle) ait éconduit
+que nous ayons éconduit
+que vous ayez éconduit
+qu’ils (elles) aient éconduit
+
+** Plus-que-parfait
+
+que j'eusse éconduit
+que tu eusses éconduit
+qu’il (elle) eût éconduit
+que nous eussions éconduit
+que vous eussiez éconduit
+qu’ils (elles) eussent éconduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons éconduit
+ayez éconduit
+
+* INFINITIF
+
+** Passé
+
+avoir éconduit
+
+* PARTICIPE
+
+** Passé
+
+ayant éconduit
+éconduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis éconduit(e)
+tu es éconduit(e)
+il (elle) est éconduit(e)
+nous sommes éconduit(e)s
+vous êtes éconduit(e)s
+ils (elles) sont éconduit(e)s
+
+** Imparfait
+
+j'étais éconduit(e)
+tu étais éconduit(e)
+il (elle) était éconduit(e)
+nous étions éconduit(e)s
+vous étiez éconduit(e)s
+ils (elles) étaient éconduit(e)s
+
+** Passé simple
+
+je fus éconduit(e)
+tu fus éconduit(e)
+il (elle) fut éconduit(e)
+nous fûmes éconduit(e)s
+vous fûtes éconduit(e)s
+ils (elles) furent éconduit(e)s
+
+** Futur simple
+
+je serai éconduit(e)
+tu seras éconduit(e)
+il (elle) sera éconduit(e)
+nous serons éconduit(e)s
+vous serez éconduit(e)s
+ils (elles) seront éconduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais éconduit(e)
+tu serais éconduit(e)
+il (elle) serait éconduit(e)
+nous serions éconduit(e)s
+vous seriez éconduit(e)s
+ils (elles) seraient éconduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois éconduit(e)
+que tu sois éconduit(e)
+qu’il (elle) soit éconduit(e)
+que nous soyons éconduit(e)s
+que vous soyez éconduit(e)s
+qu’ils (elles) soient éconduit(e)s
+
+** Imparfait
+
+que je fusse éconduit(e)
+que tu fusses éconduit(e)
+qu’il (elle) fût éconduit(e)
+que nous fussions éconduit(e)s
+que vous fussiez éconduit(e)s
+qu’ils (elles) fussent éconduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons éconduit(e)s
+soyez éconduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être éconduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant éconduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été éconduit(e)
+tu as été éconduit(e)
+il (elle) a été éconduit(e)
+nous avons été éconduit(e)s
+vous avez été éconduit(e)s
+ils (elles) ont été éconduit(e)s
+
+** Plus-que-parfait
+
+j'avais été éconduit(e)
+il (elle) avait été éconduit(e)
+nous avions été éconduit(e)s
+ils (elles) avaient été éconduit(e)s
+
+** Passé antérieur
+
+j'eus été éconduit(e)
+tu eus été éconduit(e)
+il (elle) eut été éconduit(e)
+nous eûmes été éconduit(e)s
+vous eûtes été éconduit(e)s
+ils (elles) eurent été éconduit(e)s
+
+** Futur antérieur
+
+j'aurai été éconduit(e)
+tu auras été éconduit(e)
+il (elle) aura été éconduit(e)
+nous aurons été éconduit(e)s
+vous aurez été éconduit(e)s
+ils (elles) auront été éconduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été éconduit(e)
+j'aurais été éconduit(e)
+il (elle) aurait été éconduit(e)
+nous aurions été éconduit(e)s
+vous auriez été éconduit(e)s
+ils (elles) auraient été éconduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été éconduit(e)
+que tu aies été éconduit(e)
+qu’il (elle) ait été éconduit(e)
+que nous ayons été éconduit(e)s
+que vous ayez été éconduit(e)s
+qu’ils (elles) aient été éconduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été éconduit(e)
+que tu eusses été éconduit(e)
+qu’il (elle) eût été éconduit(e)
+que nous eussions été éconduit(e)s
+que vous eussiez été éconduit(e)s
+qu’ils (elles) eussent été éconduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été éconduit(e)
+ayons été éconduit(e)s
+ayez été éconduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été éconduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été éconduit(e)(s)

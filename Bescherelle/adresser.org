@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe adresser
+
+* INDICATIF
+
+** Présent
+
+j'adresse
+tu adresses
+il (elle) adresse
+nous adressons
+vous adressez
+ils (elles) adressent
+
+** Imparfait
+
+j'adressais
+tu adressais
+il (elle) adressait
+nous adressions
+vous adressiez
+ils (elles) adressaient
+
+** Passé simple
+
+j'adressai
+tu adressas
+il (elle) adressa
+nous adressâmes
+vous adressâtes
+ils (elles) adressèrent
+
+** Futur simple
+
+j'adresserai
+tu adresseras
+il (elle) adressera
+nous adresserons
+vous adresserez
+ils (elles) adresseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adresserais
+tu adresserais
+il (elle) adresserait
+nous adresserions
+vous adresseriez
+ils (elles) adresseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adresse
+que tu adresses
+qu’il (elle) adresse
+que nous adressions
+que vous adressiez
+qu’ils (elles) adressent
+
+** Imparfait
+
+que j'adressasse
+que tu adressasses
+qu’il (elle) adressât
+que nous adressassions
+que vous adressassiez
+qu’ils (elles) adressassent
+
+* IMPÉRATIF
+
+** Présent
+
+adresse
+adressons
+adressez
+
+* INFINITIF
+
+** Présent
+
+adresser
+
+* PARTICIPE
+
+** Présent
+
+adressant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adressé
+tu as adressé
+il (elle) a adressé
+nous avons adressé
+vous avez adressé
+ils (elles) ont adressé
+
+** Plus-que-parfait
+
+j'avais adressé
+tu avais adressé
+il (elle) avait adressé
+nous avions adressé
+vous aviez adressé
+ils (elles) avaient adressé
+
+** Passé antérieur
+
+j'eus adressé
+tu eus adressé
+il (elle) eut adressé
+nous eûmes adressé
+vous eûtes adressé
+ils (elles) eurent adressé
+
+** Futur antérieur
+
+j'aurai adressé
+tu auras adressé
+il (elle) aura adressé
+nous aurons adressé
+vous aurez adressé
+ils (elles) auront adressé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adressé
+tu aurais adressé
+il (elle) aurait adressé
+nous aurions adressé
+vous auriez adressé
+ils (elles) auraient adressé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adressé
+que tu aies adressé
+qu’il (elle) ait adressé
+que nous ayons adressé
+que vous ayez adressé
+qu’ils (elles) aient adressé
+
+** Plus-que-parfait
+
+que j'eusse adressé
+que tu eusses adressé
+qu’il (elle) eût adressé
+que nous eussions adressé
+que vous eussiez adressé
+qu’ils (elles) eussent adressé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adressé
+ayez adressé
+
+* INFINITIF
+
+** Passé
+
+avoir adressé
+
+* PARTICIPE
+
+** Passé
+
+ayant adressé
+adressé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis adressé(e)
+tu es adressé(e)
+il (elle) est adressé(e)
+nous sommes adressé(e)s
+vous êtes adressé(e)s
+ils (elles) sont adressé(e)s
+
+** Imparfait
+
+j'étais adressé(e)
+tu étais adressé(e)
+il (elle) était adressé(e)
+nous étions adressé(e)s
+vous étiez adressé(e)s
+ils (elles) étaient adressé(e)s
+
+** Passé simple
+
+je fus adressé(e)
+tu fus adressé(e)
+il (elle) fut adressé(e)
+nous fûmes adressé(e)s
+vous fûtes adressé(e)s
+ils (elles) furent adressé(e)s
+
+** Futur simple
+
+je serai adressé(e)
+tu seras adressé(e)
+il (elle) sera adressé(e)
+nous serons adressé(e)s
+vous serez adressé(e)s
+ils (elles) seront adressé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais adressé(e)
+tu serais adressé(e)
+il (elle) serait adressé(e)
+nous serions adressé(e)s
+vous seriez adressé(e)s
+ils (elles) seraient adressé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois adressé(e)
+que tu sois adressé(e)
+qu’il (elle) soit adressé(e)
+que nous soyons adressé(e)s
+que vous soyez adressé(e)s
+qu’ils (elles) soient adressé(e)s
+
+** Imparfait
+
+que je fusse adressé(e)
+que tu fusses adressé(e)
+qu’il (elle) fût adressé(e)
+que nous fussions adressé(e)s
+que vous fussiez adressé(e)s
+qu’ils (elles) fussent adressé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons adressé(e)s
+soyez adressé(e)s
+
+* INFINITIF
+
+** Présent
+
+être adressé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant adressé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été adressé(e)
+tu as été adressé(e)
+il (elle) a été adressé(e)
+nous avons été adressé(e)s
+vous avez été adressé(e)s
+ils (elles) ont été adressé(e)s
+
+** Plus-que-parfait
+
+j'avais été adressé(e)
+il (elle) avait été adressé(e)
+nous avions été adressé(e)s
+ils (elles) avaient été adressé(e)s
+
+** Passé antérieur
+
+j'eus été adressé(e)
+tu eus été adressé(e)
+il (elle) eut été adressé(e)
+nous eûmes été adressé(e)s
+vous eûtes été adressé(e)s
+ils (elles) eurent été adressé(e)s
+
+** Futur antérieur
+
+j'aurai été adressé(e)
+tu auras été adressé(e)
+il (elle) aura été adressé(e)
+nous aurons été adressé(e)s
+vous aurez été adressé(e)s
+ils (elles) auront été adressé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été adressé(e)
+j'aurais été adressé(e)
+il (elle) aurait été adressé(e)
+nous aurions été adressé(e)s
+vous auriez été adressé(e)s
+ils (elles) auraient été adressé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été adressé(e)
+que tu aies été adressé(e)
+qu’il (elle) ait été adressé(e)
+que nous ayons été adressé(e)s
+que vous ayez été adressé(e)s
+qu’ils (elles) aient été adressé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été adressé(e)
+que tu eusses été adressé(e)
+qu’il (elle) eût été adressé(e)
+que nous eussions été adressé(e)s
+que vous eussiez été adressé(e)s
+qu’ils (elles) eussent été adressé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été adressé(e)
+ayons été adressé(e)s
+ayez été adressé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été adressé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été adressé(e)(s)

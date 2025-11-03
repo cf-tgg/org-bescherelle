@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dresser
+
+* INDICATIF
+
+** Présent
+
+je dresse
+tu dresses
+il (elle) dresse
+nous dressons
+vous dressez
+ils (elles) dressent
+
+** Imparfait
+
+je dressais
+tu dressais
+il (elle) dressait
+nous dressions
+vous dressiez
+ils (elles) dressaient
+
+** Passé simple
+
+je dressai
+tu dressas
+il (elle) dressa
+nous dressâmes
+vous dressâtes
+ils (elles) dressèrent
+
+** Futur simple
+
+je dresserai
+tu dresseras
+il (elle) dressera
+nous dresserons
+vous dresserez
+ils (elles) dresseront
+
+* CONDITIONNEL
+
+** Présent
+
+je dresserais
+tu dresserais
+il (elle) dresserait
+nous dresserions
+vous dresseriez
+ils (elles) dresseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dresse
+que tu dresses
+qu’il (elle) dresse
+que nous dressions
+que vous dressiez
+qu’ils (elles) dressent
+
+** Imparfait
+
+que je dressasse
+que tu dressasses
+qu’il (elle) dressât
+que nous dressassions
+que vous dressassiez
+qu’ils (elles) dressassent
+
+* IMPÉRATIF
+
+** Présent
+
+dresse
+dressons
+dressez
+
+* INFINITIF
+
+** Présent
+
+dresser
+
+* PARTICIPE
+
+** Présent
+
+dressant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dressé
+tu as dressé
+il (elle) a dressé
+nous avons dressé
+vous avez dressé
+ils (elles) ont dressé
+
+** Plus-que-parfait
+
+j'avais dressé
+tu avais dressé
+il (elle) avait dressé
+nous avions dressé
+vous aviez dressé
+ils (elles) avaient dressé
+
+** Passé antérieur
+
+j'eus dressé
+tu eus dressé
+il (elle) eut dressé
+nous eûmes dressé
+vous eûtes dressé
+ils (elles) eurent dressé
+
+** Futur antérieur
+
+j'aurai dressé
+tu auras dressé
+il (elle) aura dressé
+nous aurons dressé
+vous aurez dressé
+ils (elles) auront dressé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dressé
+tu aurais dressé
+il (elle) aurait dressé
+nous aurions dressé
+vous auriez dressé
+ils (elles) auraient dressé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dressé
+que tu aies dressé
+qu’il (elle) ait dressé
+que nous ayons dressé
+que vous ayez dressé
+qu’ils (elles) aient dressé
+
+** Plus-que-parfait
+
+que j'eusse dressé
+que tu eusses dressé
+qu’il (elle) eût dressé
+que nous eussions dressé
+que vous eussiez dressé
+qu’ils (elles) eussent dressé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dressé
+ayez dressé
+
+* INFINITIF
+
+** Passé
+
+avoir dressé
+
+* PARTICIPE
+
+** Passé
+
+ayant dressé
+dressé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dressé(e)
+tu es dressé(e)
+il (elle) est dressé(e)
+nous sommes dressé(e)s
+vous êtes dressé(e)s
+ils (elles) sont dressé(e)s
+
+** Imparfait
+
+j'étais dressé(e)
+tu étais dressé(e)
+il (elle) était dressé(e)
+nous étions dressé(e)s
+vous étiez dressé(e)s
+ils (elles) étaient dressé(e)s
+
+** Passé simple
+
+je fus dressé(e)
+tu fus dressé(e)
+il (elle) fut dressé(e)
+nous fûmes dressé(e)s
+vous fûtes dressé(e)s
+ils (elles) furent dressé(e)s
+
+** Futur simple
+
+je serai dressé(e)
+tu seras dressé(e)
+il (elle) sera dressé(e)
+nous serons dressé(e)s
+vous serez dressé(e)s
+ils (elles) seront dressé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dressé(e)
+tu serais dressé(e)
+il (elle) serait dressé(e)
+nous serions dressé(e)s
+vous seriez dressé(e)s
+ils (elles) seraient dressé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dressé(e)
+que tu sois dressé(e)
+qu’il (elle) soit dressé(e)
+que nous soyons dressé(e)s
+que vous soyez dressé(e)s
+qu’ils (elles) soient dressé(e)s
+
+** Imparfait
+
+que je fusse dressé(e)
+que tu fusses dressé(e)
+qu’il (elle) fût dressé(e)
+que nous fussions dressé(e)s
+que vous fussiez dressé(e)s
+qu’ils (elles) fussent dressé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dressé(e)s
+soyez dressé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dressé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dressé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dressé(e)
+tu as été dressé(e)
+il (elle) a été dressé(e)
+nous avons été dressé(e)s
+vous avez été dressé(e)s
+ils (elles) ont été dressé(e)s
+
+** Plus-que-parfait
+
+j'avais été dressé(e)
+il (elle) avait été dressé(e)
+nous avions été dressé(e)s
+ils (elles) avaient été dressé(e)s
+
+** Passé antérieur
+
+j'eus été dressé(e)
+tu eus été dressé(e)
+il (elle) eut été dressé(e)
+nous eûmes été dressé(e)s
+vous eûtes été dressé(e)s
+ils (elles) eurent été dressé(e)s
+
+** Futur antérieur
+
+j'aurai été dressé(e)
+tu auras été dressé(e)
+il (elle) aura été dressé(e)
+nous aurons été dressé(e)s
+vous aurez été dressé(e)s
+ils (elles) auront été dressé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dressé(e)
+j'aurais été dressé(e)
+il (elle) aurait été dressé(e)
+nous aurions été dressé(e)s
+vous auriez été dressé(e)s
+ils (elles) auraient été dressé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dressé(e)
+que tu aies été dressé(e)
+qu’il (elle) ait été dressé(e)
+que nous ayons été dressé(e)s
+que vous ayez été dressé(e)s
+qu’ils (elles) aient été dressé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dressé(e)
+que tu eusses été dressé(e)
+qu’il (elle) eût été dressé(e)
+que nous eussions été dressé(e)s
+que vous eussiez été dressé(e)s
+qu’ils (elles) eussent été dressé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dressé(e)
+ayons été dressé(e)s
+ayez été dressé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dressé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dressé(e)(s)

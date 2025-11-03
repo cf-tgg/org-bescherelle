@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe resumer
+
+* INDICATIF
+
+** Présent
+
+je résume
+tu résumes
+il (elle) résume
+nous résumons
+vous résumez
+ils (elles) résument
+
+** Imparfait
+
+je résumais
+tu résumais
+il (elle) résumait
+nous résumions
+vous résumiez
+ils (elles) résumaient
+
+** Passé simple
+
+je résumai
+tu résumas
+il (elle) résuma
+nous résumâmes
+vous résumâtes
+ils (elles) résumèrent
+
+** Futur simple
+
+je résumerai
+tu résumeras
+il (elle) résumera
+nous résumerons
+vous résumerez
+ils (elles) résumeront
+
+* CONDITIONNEL
+
+** Présent
+
+je résumerais
+tu résumerais
+il (elle) résumerait
+nous résumerions
+vous résumeriez
+ils (elles) résumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je résume
+que tu résumes
+qu’il (elle) résume
+que nous résumions
+que vous résumiez
+qu’ils (elles) résument
+
+** Imparfait
+
+que je résumasse
+que tu résumasses
+qu’il (elle) résumât
+que nous résumassions
+que vous résumassiez
+qu’ils (elles) résumassent
+
+* IMPÉRATIF
+
+** Présent
+
+résume
+résumons
+résumez
+
+* INFINITIF
+
+** Présent
+
+résumer
+
+* PARTICIPE
+
+** Présent
+
+résumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai résumé
+tu as résumé
+il (elle) a résumé
+nous avons résumé
+vous avez résumé
+ils (elles) ont résumé
+
+** Plus-que-parfait
+
+j'avais résumé
+tu avais résumé
+il (elle) avait résumé
+nous avions résumé
+vous aviez résumé
+ils (elles) avaient résumé
+
+** Passé antérieur
+
+j'eus résumé
+tu eus résumé
+il (elle) eut résumé
+nous eûmes résumé
+vous eûtes résumé
+ils (elles) eurent résumé
+
+** Futur antérieur
+
+j'aurai résumé
+tu auras résumé
+il (elle) aura résumé
+nous aurons résumé
+vous aurez résumé
+ils (elles) auront résumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais résumé
+tu aurais résumé
+il (elle) aurait résumé
+nous aurions résumé
+vous auriez résumé
+ils (elles) auraient résumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie résumé
+que tu aies résumé
+qu’il (elle) ait résumé
+que nous ayons résumé
+que vous ayez résumé
+qu’ils (elles) aient résumé
+
+** Plus-que-parfait
+
+que j'eusse résumé
+que tu eusses résumé
+qu’il (elle) eût résumé
+que nous eussions résumé
+que vous eussiez résumé
+qu’ils (elles) eussent résumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons résumé
+ayez résumé
+
+* INFINITIF
+
+** Passé
+
+avoir résumé
+
+* PARTICIPE
+
+** Passé
+
+ayant résumé
+résumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis résumé(e)
+tu es résumé(e)
+il (elle) est résumé(e)
+nous sommes résumé(e)s
+vous êtes résumé(e)s
+ils (elles) sont résumé(e)s
+
+** Imparfait
+
+j'étais résumé(e)
+tu étais résumé(e)
+il (elle) était résumé(e)
+nous étions résumé(e)s
+vous étiez résumé(e)s
+ils (elles) étaient résumé(e)s
+
+** Passé simple
+
+je fus résumé(e)
+tu fus résumé(e)
+il (elle) fut résumé(e)
+nous fûmes résumé(e)s
+vous fûtes résumé(e)s
+ils (elles) furent résumé(e)s
+
+** Futur simple
+
+je serai résumé(e)
+tu seras résumé(e)
+il (elle) sera résumé(e)
+nous serons résumé(e)s
+vous serez résumé(e)s
+ils (elles) seront résumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais résumé(e)
+tu serais résumé(e)
+il (elle) serait résumé(e)
+nous serions résumé(e)s
+vous seriez résumé(e)s
+ils (elles) seraient résumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois résumé(e)
+que tu sois résumé(e)
+qu’il (elle) soit résumé(e)
+que nous soyons résumé(e)s
+que vous soyez résumé(e)s
+qu’ils (elles) soient résumé(e)s
+
+** Imparfait
+
+que je fusse résumé(e)
+que tu fusses résumé(e)
+qu’il (elle) fût résumé(e)
+que nous fussions résumé(e)s
+que vous fussiez résumé(e)s
+qu’ils (elles) fussent résumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons résumé(e)s
+soyez résumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être résumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant résumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été résumé(e)
+tu as été résumé(e)
+il (elle) a été résumé(e)
+nous avons été résumé(e)s
+vous avez été résumé(e)s
+ils (elles) ont été résumé(e)s
+
+** Plus-que-parfait
+
+j'avais été résumé(e)
+il (elle) avait été résumé(e)
+nous avions été résumé(e)s
+ils (elles) avaient été résumé(e)s
+
+** Passé antérieur
+
+j'eus été résumé(e)
+tu eus été résumé(e)
+il (elle) eut été résumé(e)
+nous eûmes été résumé(e)s
+vous eûtes été résumé(e)s
+ils (elles) eurent été résumé(e)s
+
+** Futur antérieur
+
+j'aurai été résumé(e)
+tu auras été résumé(e)
+il (elle) aura été résumé(e)
+nous aurons été résumé(e)s
+vous aurez été résumé(e)s
+ils (elles) auront été résumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été résumé(e)
+j'aurais été résumé(e)
+il (elle) aurait été résumé(e)
+nous aurions été résumé(e)s
+vous auriez été résumé(e)s
+ils (elles) auraient été résumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été résumé(e)
+que tu aies été résumé(e)
+qu’il (elle) ait été résumé(e)
+que nous ayons été résumé(e)s
+que vous ayez été résumé(e)s
+qu’ils (elles) aient été résumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été résumé(e)
+que tu eusses été résumé(e)
+qu’il (elle) eût été résumé(e)
+que nous eussions été résumé(e)s
+que vous eussiez été résumé(e)s
+qu’ils (elles) eussent été résumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été résumé(e)
+ayons été résumé(e)s
+ayez été résumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été résumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été résumé(e)(s)

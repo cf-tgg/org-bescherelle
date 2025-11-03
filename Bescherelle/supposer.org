@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe supposer
+
+* INDICATIF
+
+** Présent
+
+je suppose
+tu supposes
+il (elle) suppose
+nous supposons
+vous supposez
+ils (elles) supposent
+
+** Imparfait
+
+je supposais
+tu supposais
+il (elle) supposait
+nous supposions
+vous supposiez
+ils (elles) supposaient
+
+** Passé simple
+
+je supposai
+tu supposas
+il (elle) supposa
+nous supposâmes
+vous supposâtes
+ils (elles) supposèrent
+
+** Futur simple
+
+je supposerai
+tu supposeras
+il (elle) supposera
+nous supposerons
+vous supposerez
+ils (elles) supposeront
+
+* CONDITIONNEL
+
+** Présent
+
+je supposerais
+tu supposerais
+il (elle) supposerait
+nous supposerions
+vous supposeriez
+ils (elles) supposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je suppose
+que tu supposes
+qu’il (elle) suppose
+que nous supposions
+que vous supposiez
+qu’ils (elles) supposent
+
+** Imparfait
+
+que je supposasse
+que tu supposasses
+qu’il (elle) supposât
+que nous supposassions
+que vous supposassiez
+qu’ils (elles) supposassent
+
+* IMPÉRATIF
+
+** Présent
+
+suppose
+supposons
+supposez
+
+* INFINITIF
+
+** Présent
+
+supposer
+
+* PARTICIPE
+
+** Présent
+
+supposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai supposé
+tu as supposé
+il (elle) a supposé
+nous avons supposé
+vous avez supposé
+ils (elles) ont supposé
+
+** Plus-que-parfait
+
+j'avais supposé
+tu avais supposé
+il (elle) avait supposé
+nous avions supposé
+vous aviez supposé
+ils (elles) avaient supposé
+
+** Passé antérieur
+
+j'eus supposé
+tu eus supposé
+il (elle) eut supposé
+nous eûmes supposé
+vous eûtes supposé
+ils (elles) eurent supposé
+
+** Futur antérieur
+
+j'aurai supposé
+tu auras supposé
+il (elle) aura supposé
+nous aurons supposé
+vous aurez supposé
+ils (elles) auront supposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais supposé
+tu aurais supposé
+il (elle) aurait supposé
+nous aurions supposé
+vous auriez supposé
+ils (elles) auraient supposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie supposé
+que tu aies supposé
+qu’il (elle) ait supposé
+que nous ayons supposé
+que vous ayez supposé
+qu’ils (elles) aient supposé
+
+** Plus-que-parfait
+
+que j'eusse supposé
+que tu eusses supposé
+qu’il (elle) eût supposé
+que nous eussions supposé
+que vous eussiez supposé
+qu’ils (elles) eussent supposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons supposé
+ayez supposé
+
+* INFINITIF
+
+** Passé
+
+avoir supposé
+
+* PARTICIPE
+
+** Passé
+
+ayant supposé
+supposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis supposé(e)
+tu es supposé(e)
+il (elle) est supposé(e)
+nous sommes supposé(e)s
+vous êtes supposé(e)s
+ils (elles) sont supposé(e)s
+
+** Imparfait
+
+j'étais supposé(e)
+tu étais supposé(e)
+il (elle) était supposé(e)
+nous étions supposé(e)s
+vous étiez supposé(e)s
+ils (elles) étaient supposé(e)s
+
+** Passé simple
+
+je fus supposé(e)
+tu fus supposé(e)
+il (elle) fut supposé(e)
+nous fûmes supposé(e)s
+vous fûtes supposé(e)s
+ils (elles) furent supposé(e)s
+
+** Futur simple
+
+je serai supposé(e)
+tu seras supposé(e)
+il (elle) sera supposé(e)
+nous serons supposé(e)s
+vous serez supposé(e)s
+ils (elles) seront supposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais supposé(e)
+tu serais supposé(e)
+il (elle) serait supposé(e)
+nous serions supposé(e)s
+vous seriez supposé(e)s
+ils (elles) seraient supposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois supposé(e)
+que tu sois supposé(e)
+qu’il (elle) soit supposé(e)
+que nous soyons supposé(e)s
+que vous soyez supposé(e)s
+qu’ils (elles) soient supposé(e)s
+
+** Imparfait
+
+que je fusse supposé(e)
+que tu fusses supposé(e)
+qu’il (elle) fût supposé(e)
+que nous fussions supposé(e)s
+que vous fussiez supposé(e)s
+qu’ils (elles) fussent supposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons supposé(e)s
+soyez supposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être supposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant supposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été supposé(e)
+tu as été supposé(e)
+il (elle) a été supposé(e)
+nous avons été supposé(e)s
+vous avez été supposé(e)s
+ils (elles) ont été supposé(e)s
+
+** Plus-que-parfait
+
+j'avais été supposé(e)
+il (elle) avait été supposé(e)
+nous avions été supposé(e)s
+ils (elles) avaient été supposé(e)s
+
+** Passé antérieur
+
+j'eus été supposé(e)
+tu eus été supposé(e)
+il (elle) eut été supposé(e)
+nous eûmes été supposé(e)s
+vous eûtes été supposé(e)s
+ils (elles) eurent été supposé(e)s
+
+** Futur antérieur
+
+j'aurai été supposé(e)
+tu auras été supposé(e)
+il (elle) aura été supposé(e)
+nous aurons été supposé(e)s
+vous aurez été supposé(e)s
+ils (elles) auront été supposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été supposé(e)
+j'aurais été supposé(e)
+il (elle) aurait été supposé(e)
+nous aurions été supposé(e)s
+vous auriez été supposé(e)s
+ils (elles) auraient été supposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été supposé(e)
+que tu aies été supposé(e)
+qu’il (elle) ait été supposé(e)
+que nous ayons été supposé(e)s
+que vous ayez été supposé(e)s
+qu’ils (elles) aient été supposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été supposé(e)
+que tu eusses été supposé(e)
+qu’il (elle) eût été supposé(e)
+que nous eussions été supposé(e)s
+que vous eussiez été supposé(e)s
+qu’ils (elles) eussent été supposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été supposé(e)
+ayons été supposé(e)s
+ayez été supposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été supposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été supposé(e)(s)

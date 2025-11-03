@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe couver
+
+* INDICATIF
+
+** Présent
+
+je couve
+tu couves
+il (elle) couve
+nous couvons
+vous couvez
+ils (elles) couvent
+
+** Imparfait
+
+je couvais
+tu couvais
+il (elle) couvait
+nous couvions
+vous couviez
+ils (elles) couvaient
+
+** Passé simple
+
+je couvai
+tu couvas
+il (elle) couva
+nous couvâmes
+vous couvâtes
+ils (elles) couvèrent
+
+** Futur simple
+
+je couverai
+tu couveras
+il (elle) couvera
+nous couverons
+vous couverez
+ils (elles) couveront
+
+* CONDITIONNEL
+
+** Présent
+
+je couverais
+tu couverais
+il (elle) couverait
+nous couverions
+vous couveriez
+ils (elles) couveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je couve
+que tu couves
+qu’il (elle) couve
+que nous couvions
+que vous couviez
+qu’ils (elles) couvent
+
+** Imparfait
+
+que je couvasse
+que tu couvasses
+qu’il (elle) couvât
+que nous couvassions
+que vous couvassiez
+qu’ils (elles) couvassent
+
+* IMPÉRATIF
+
+** Présent
+
+couve
+couvons
+couvez
+
+* INFINITIF
+
+** Présent
+
+couver
+
+* PARTICIPE
+
+** Présent
+
+couvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai couvé
+tu as couvé
+il (elle) a couvé
+nous avons couvé
+vous avez couvé
+ils (elles) ont couvé
+
+** Plus-que-parfait
+
+j'avais couvé
+tu avais couvé
+il (elle) avait couvé
+nous avions couvé
+vous aviez couvé
+ils (elles) avaient couvé
+
+** Passé antérieur
+
+j'eus couvé
+tu eus couvé
+il (elle) eut couvé
+nous eûmes couvé
+vous eûtes couvé
+ils (elles) eurent couvé
+
+** Futur antérieur
+
+j'aurai couvé
+tu auras couvé
+il (elle) aura couvé
+nous aurons couvé
+vous aurez couvé
+ils (elles) auront couvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais couvé
+tu aurais couvé
+il (elle) aurait couvé
+nous aurions couvé
+vous auriez couvé
+ils (elles) auraient couvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie couvé
+que tu aies couvé
+qu’il (elle) ait couvé
+que nous ayons couvé
+que vous ayez couvé
+qu’ils (elles) aient couvé
+
+** Plus-que-parfait
+
+que j'eusse couvé
+que tu eusses couvé
+qu’il (elle) eût couvé
+que nous eussions couvé
+que vous eussiez couvé
+qu’ils (elles) eussent couvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons couvé
+ayez couvé
+
+* INFINITIF
+
+** Passé
+
+avoir couvé
+
+* PARTICIPE
+
+** Passé
+
+ayant couvé
+couvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis couvé(e)
+tu es couvé(e)
+il (elle) est couvé(e)
+nous sommes couvé(e)s
+vous êtes couvé(e)s
+ils (elles) sont couvé(e)s
+
+** Imparfait
+
+j'étais couvé(e)
+tu étais couvé(e)
+il (elle) était couvé(e)
+nous étions couvé(e)s
+vous étiez couvé(e)s
+ils (elles) étaient couvé(e)s
+
+** Passé simple
+
+je fus couvé(e)
+tu fus couvé(e)
+il (elle) fut couvé(e)
+nous fûmes couvé(e)s
+vous fûtes couvé(e)s
+ils (elles) furent couvé(e)s
+
+** Futur simple
+
+je serai couvé(e)
+tu seras couvé(e)
+il (elle) sera couvé(e)
+nous serons couvé(e)s
+vous serez couvé(e)s
+ils (elles) seront couvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais couvé(e)
+tu serais couvé(e)
+il (elle) serait couvé(e)
+nous serions couvé(e)s
+vous seriez couvé(e)s
+ils (elles) seraient couvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois couvé(e)
+que tu sois couvé(e)
+qu’il (elle) soit couvé(e)
+que nous soyons couvé(e)s
+que vous soyez couvé(e)s
+qu’ils (elles) soient couvé(e)s
+
+** Imparfait
+
+que je fusse couvé(e)
+que tu fusses couvé(e)
+qu’il (elle) fût couvé(e)
+que nous fussions couvé(e)s
+que vous fussiez couvé(e)s
+qu’ils (elles) fussent couvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons couvé(e)s
+soyez couvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être couvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant couvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été couvé(e)
+tu as été couvé(e)
+il (elle) a été couvé(e)
+nous avons été couvé(e)s
+vous avez été couvé(e)s
+ils (elles) ont été couvé(e)s
+
+** Plus-que-parfait
+
+j'avais été couvé(e)
+il (elle) avait été couvé(e)
+nous avions été couvé(e)s
+ils (elles) avaient été couvé(e)s
+
+** Passé antérieur
+
+j'eus été couvé(e)
+tu eus été couvé(e)
+il (elle) eut été couvé(e)
+nous eûmes été couvé(e)s
+vous eûtes été couvé(e)s
+ils (elles) eurent été couvé(e)s
+
+** Futur antérieur
+
+j'aurai été couvé(e)
+tu auras été couvé(e)
+il (elle) aura été couvé(e)
+nous aurons été couvé(e)s
+vous aurez été couvé(e)s
+ils (elles) auront été couvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été couvé(e)
+j'aurais été couvé(e)
+il (elle) aurait été couvé(e)
+nous aurions été couvé(e)s
+vous auriez été couvé(e)s
+ils (elles) auraient été couvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été couvé(e)
+que tu aies été couvé(e)
+qu’il (elle) ait été couvé(e)
+que nous ayons été couvé(e)s
+que vous ayez été couvé(e)s
+qu’ils (elles) aient été couvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été couvé(e)
+que tu eusses été couvé(e)
+qu’il (elle) eût été couvé(e)
+que nous eussions été couvé(e)s
+que vous eussiez été couvé(e)s
+qu’ils (elles) eussent été couvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été couvé(e)
+ayons été couvé(e)s
+ayez été couvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été couvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été couvé(e)(s)

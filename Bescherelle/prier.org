@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prier
+
+* INDICATIF
+
+** Présent
+
+je prie
+tu pries
+il (elle) prie
+nous prions
+vous priez
+ils (elles) prient
+
+** Imparfait
+
+je priais
+tu priais
+il (elle) priait
+nous priions
+vous priiez
+ils (elles) priaient
+
+** Passé simple
+
+je priai
+tu prias
+il (elle) pria
+nous priâmes
+vous priâtes
+ils (elles) prièrent
+
+** Futur simple
+
+je prierai
+tu prieras
+il (elle) priera
+nous prierons
+vous prierez
+ils (elles) prieront
+
+* CONDITIONNEL
+
+** Présent
+
+je prierais
+tu prierais
+il (elle) prierait
+nous prierions
+vous prieriez
+ils (elles) prieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prie
+que tu pries
+qu’il (elle) prie
+que nous priions
+que vous priiez
+qu’ils (elles) prient
+
+** Imparfait
+
+que je priasse
+que tu priasses
+qu’il (elle) priât
+que nous priassions
+que vous priassiez
+qu’ils (elles) priassent
+
+* IMPÉRATIF
+
+** Présent
+
+prie
+prions
+priez
+
+* INFINITIF
+
+** Présent
+
+prier
+
+* PARTICIPE
+
+** Présent
+
+priant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prié
+tu as prié
+il (elle) a prié
+nous avons prié
+vous avez prié
+ils (elles) ont prié
+
+** Plus-que-parfait
+
+j'avais prié
+tu avais prié
+il (elle) avait prié
+nous avions prié
+vous aviez prié
+ils (elles) avaient prié
+
+** Passé antérieur
+
+j'eus prié
+tu eus prié
+il (elle) eut prié
+nous eûmes prié
+vous eûtes prié
+ils (elles) eurent prié
+
+** Futur antérieur
+
+j'aurai prié
+tu auras prié
+il (elle) aura prié
+nous aurons prié
+vous aurez prié
+ils (elles) auront prié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prié
+tu aurais prié
+il (elle) aurait prié
+nous aurions prié
+vous auriez prié
+ils (elles) auraient prié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prié
+que tu aies prié
+qu’il (elle) ait prié
+que nous ayons prié
+que vous ayez prié
+qu’ils (elles) aient prié
+
+** Plus-que-parfait
+
+que j'eusse prié
+que tu eusses prié
+qu’il (elle) eût prié
+que nous eussions prié
+que vous eussiez prié
+qu’ils (elles) eussent prié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prié
+ayez prié
+
+* INFINITIF
+
+** Passé
+
+avoir prié
+
+* PARTICIPE
+
+** Passé
+
+ayant prié
+prié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prié(e)
+tu es prié(e)
+il (elle) est prié(e)
+nous sommes prié(e)s
+vous êtes prié(e)s
+ils (elles) sont prié(e)s
+
+** Imparfait
+
+j'étais prié(e)
+tu étais prié(e)
+il (elle) était prié(e)
+nous étions prié(e)s
+vous étiez prié(e)s
+ils (elles) étaient prié(e)s
+
+** Passé simple
+
+je fus prié(e)
+tu fus prié(e)
+il (elle) fut prié(e)
+nous fûmes prié(e)s
+vous fûtes prié(e)s
+ils (elles) furent prié(e)s
+
+** Futur simple
+
+je serai prié(e)
+tu seras prié(e)
+il (elle) sera prié(e)
+nous serons prié(e)s
+vous serez prié(e)s
+ils (elles) seront prié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prié(e)
+tu serais prié(e)
+il (elle) serait prié(e)
+nous serions prié(e)s
+vous seriez prié(e)s
+ils (elles) seraient prié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prié(e)
+que tu sois prié(e)
+qu’il (elle) soit prié(e)
+que nous soyons prié(e)s
+que vous soyez prié(e)s
+qu’ils (elles) soient prié(e)s
+
+** Imparfait
+
+que je fusse prié(e)
+que tu fusses prié(e)
+qu’il (elle) fût prié(e)
+que nous fussions prié(e)s
+que vous fussiez prié(e)s
+qu’ils (elles) fussent prié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prié(e)s
+soyez prié(e)s
+
+* INFINITIF
+
+** Présent
+
+être prié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prié(e)
+tu as été prié(e)
+il (elle) a été prié(e)
+nous avons été prié(e)s
+vous avez été prié(e)s
+ils (elles) ont été prié(e)s
+
+** Plus-que-parfait
+
+j'avais été prié(e)
+il (elle) avait été prié(e)
+nous avions été prié(e)s
+ils (elles) avaient été prié(e)s
+
+** Passé antérieur
+
+j'eus été prié(e)
+tu eus été prié(e)
+il (elle) eut été prié(e)
+nous eûmes été prié(e)s
+vous eûtes été prié(e)s
+ils (elles) eurent été prié(e)s
+
+** Futur antérieur
+
+j'aurai été prié(e)
+tu auras été prié(e)
+il (elle) aura été prié(e)
+nous aurons été prié(e)s
+vous aurez été prié(e)s
+ils (elles) auront été prié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prié(e)
+j'aurais été prié(e)
+il (elle) aurait été prié(e)
+nous aurions été prié(e)s
+vous auriez été prié(e)s
+ils (elles) auraient été prié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prié(e)
+que tu aies été prié(e)
+qu’il (elle) ait été prié(e)
+que nous ayons été prié(e)s
+que vous ayez été prié(e)s
+qu’ils (elles) aient été prié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prié(e)
+que tu eusses été prié(e)
+qu’il (elle) eût été prié(e)
+que nous eussions été prié(e)s
+que vous eussiez été prié(e)s
+qu’ils (elles) eussent été prié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prié(e)
+ayons été prié(e)s
+ayez été prié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prié(e)(s)

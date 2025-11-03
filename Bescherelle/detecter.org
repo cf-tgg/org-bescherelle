@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe detecter
+
+* INDICATIF
+
+** Présent
+
+je détecte
+tu détectes
+il (elle) détecte
+nous détectons
+vous détectez
+ils (elles) détectent
+
+** Imparfait
+
+je détectais
+tu détectais
+il (elle) détectait
+nous détections
+vous détectiez
+ils (elles) détectaient
+
+** Passé simple
+
+je détectai
+tu détectas
+il (elle) détecta
+nous détectâmes
+vous détectâtes
+ils (elles) détectèrent
+
+** Futur simple
+
+je détecterai
+tu détecteras
+il (elle) détectera
+nous détecterons
+vous détecterez
+ils (elles) détecteront
+
+* CONDITIONNEL
+
+** Présent
+
+je détecterais
+tu détecterais
+il (elle) détecterait
+nous détecterions
+vous détecteriez
+ils (elles) détecteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je détecte
+que tu détectes
+qu’il (elle) détecte
+que nous détections
+que vous détectiez
+qu’ils (elles) détectent
+
+** Imparfait
+
+que je détectasse
+que tu détectasses
+qu’il (elle) détectât
+que nous détectassions
+que vous détectassiez
+qu’ils (elles) détectassent
+
+* IMPÉRATIF
+
+** Présent
+
+détecte
+détectons
+détectez
+
+* INFINITIF
+
+** Présent
+
+détecter
+
+* PARTICIPE
+
+** Présent
+
+détectant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détecté
+tu as détecté
+il (elle) a détecté
+nous avons détecté
+vous avez détecté
+ils (elles) ont détecté
+
+** Plus-que-parfait
+
+j'avais détecté
+tu avais détecté
+il (elle) avait détecté
+nous avions détecté
+vous aviez détecté
+ils (elles) avaient détecté
+
+** Passé antérieur
+
+j'eus détecté
+tu eus détecté
+il (elle) eut détecté
+nous eûmes détecté
+vous eûtes détecté
+ils (elles) eurent détecté
+
+** Futur antérieur
+
+j'aurai détecté
+tu auras détecté
+il (elle) aura détecté
+nous aurons détecté
+vous aurez détecté
+ils (elles) auront détecté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détecté
+tu aurais détecté
+il (elle) aurait détecté
+nous aurions détecté
+vous auriez détecté
+ils (elles) auraient détecté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détecté
+que tu aies détecté
+qu’il (elle) ait détecté
+que nous ayons détecté
+que vous ayez détecté
+qu’ils (elles) aient détecté
+
+** Plus-que-parfait
+
+que j'eusse détecté
+que tu eusses détecté
+qu’il (elle) eût détecté
+que nous eussions détecté
+que vous eussiez détecté
+qu’ils (elles) eussent détecté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détecté
+ayez détecté
+
+* INFINITIF
+
+** Passé
+
+avoir détecté
+
+* PARTICIPE
+
+** Passé
+
+ayant détecté
+détecté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis détecté(e)
+tu es détecté(e)
+il (elle) est détecté(e)
+nous sommes détecté(e)s
+vous êtes détecté(e)s
+ils (elles) sont détecté(e)s
+
+** Imparfait
+
+j'étais détecté(e)
+tu étais détecté(e)
+il (elle) était détecté(e)
+nous étions détecté(e)s
+vous étiez détecté(e)s
+ils (elles) étaient détecté(e)s
+
+** Passé simple
+
+je fus détecté(e)
+tu fus détecté(e)
+il (elle) fut détecté(e)
+nous fûmes détecté(e)s
+vous fûtes détecté(e)s
+ils (elles) furent détecté(e)s
+
+** Futur simple
+
+je serai détecté(e)
+tu seras détecté(e)
+il (elle) sera détecté(e)
+nous serons détecté(e)s
+vous serez détecté(e)s
+ils (elles) seront détecté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais détecté(e)
+tu serais détecté(e)
+il (elle) serait détecté(e)
+nous serions détecté(e)s
+vous seriez détecté(e)s
+ils (elles) seraient détecté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois détecté(e)
+que tu sois détecté(e)
+qu’il (elle) soit détecté(e)
+que nous soyons détecté(e)s
+que vous soyez détecté(e)s
+qu’ils (elles) soient détecté(e)s
+
+** Imparfait
+
+que je fusse détecté(e)
+que tu fusses détecté(e)
+qu’il (elle) fût détecté(e)
+que nous fussions détecté(e)s
+que vous fussiez détecté(e)s
+qu’ils (elles) fussent détecté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons détecté(e)s
+soyez détecté(e)s
+
+* INFINITIF
+
+** Présent
+
+être détecté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant détecté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été détecté(e)
+tu as été détecté(e)
+il (elle) a été détecté(e)
+nous avons été détecté(e)s
+vous avez été détecté(e)s
+ils (elles) ont été détecté(e)s
+
+** Plus-que-parfait
+
+j'avais été détecté(e)
+il (elle) avait été détecté(e)
+nous avions été détecté(e)s
+ils (elles) avaient été détecté(e)s
+
+** Passé antérieur
+
+j'eus été détecté(e)
+tu eus été détecté(e)
+il (elle) eut été détecté(e)
+nous eûmes été détecté(e)s
+vous eûtes été détecté(e)s
+ils (elles) eurent été détecté(e)s
+
+** Futur antérieur
+
+j'aurai été détecté(e)
+tu auras été détecté(e)
+il (elle) aura été détecté(e)
+nous aurons été détecté(e)s
+vous aurez été détecté(e)s
+ils (elles) auront été détecté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été détecté(e)
+j'aurais été détecté(e)
+il (elle) aurait été détecté(e)
+nous aurions été détecté(e)s
+vous auriez été détecté(e)s
+ils (elles) auraient été détecté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été détecté(e)
+que tu aies été détecté(e)
+qu’il (elle) ait été détecté(e)
+que nous ayons été détecté(e)s
+que vous ayez été détecté(e)s
+qu’ils (elles) aient été détecté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été détecté(e)
+que tu eusses été détecté(e)
+qu’il (elle) eût été détecté(e)
+que nous eussions été détecté(e)s
+que vous eussiez été détecté(e)s
+qu’ils (elles) eussent été détecté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été détecté(e)
+ayons été détecté(e)s
+ayez été détecté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été détecté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été détecté(e)(s)

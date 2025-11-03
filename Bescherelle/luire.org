@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe luire
+
+* INDICATIF
+
+** Présent
+
+je luis
+tu luis
+il (elle) luit
+nous luisons
+vous luisez
+ils (elles) luisent
+
+** Imparfait
+
+je luisais
+tu luisais
+il (elle) luisait
+nous luisions
+vous luisiez
+ils (elles) luisaient
+
+** Passé simple
+
+je luisis
+tu luisis
+il (elle) luisit
+nous luisîmes
+vous luisîtes
+ils (elles) luisirent
+
+** Futur simple
+
+je luirai
+tu luiras
+il (elle) luira
+nous luirons
+vous luirez
+ils (elles) luiront
+
+* CONDITIONNEL
+
+** Présent
+
+je luirais
+tu luirais
+il (elle) luirait
+nous luirions
+vous luiriez
+ils (elles) luiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je luise
+que tu luises
+qu’il (elle) luise
+que nous luisions
+que vous luisiez
+qu’ils (elles) luisent
+
+** Imparfait
+
+que je luisisse
+que tu luisisses
+qu’il (elle) luisît
+que nous luisissions
+que vous luisissiez
+qu’ils (elles) luisissent
+
+* IMPÉRATIF
+
+** Présent
+
+luis
+luisons
+luisez
+
+* INFINITIF
+
+** Présent
+
+luire
+
+* PARTICIPE
+
+** Présent
+
+luisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lui
+tu as lui
+il (elle) a lui
+nous avons lui
+vous avez lui
+ils (elles) ont lui
+
+** Plus-que-parfait
+
+j'avais lui
+tu avais lui
+il (elle) avait lui
+nous avions lui
+vous aviez lui
+ils (elles) avaient lui
+
+** Passé antérieur
+
+j'eus lui
+tu eus lui
+il (elle) eut lui
+nous eûmes lui
+vous eûtes lui
+ils (elles) eurent lui
+
+** Futur antérieur
+
+j'aurai lui
+tu auras lui
+il (elle) aura lui
+nous aurons lui
+vous aurez lui
+ils (elles) auront lui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lui
+tu aurais lui
+il (elle) aurait lui
+nous aurions lui
+vous auriez lui
+ils (elles) auraient lui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lui
+que tu aies lui
+qu’il (elle) ait lui
+que nous ayons lui
+que vous ayez lui
+qu’ils (elles) aient lui
+
+** Plus-que-parfait
+
+que j'eusse lui
+que tu eusses lui
+qu’il (elle) eût lui
+que nous eussions lui
+que vous eussiez lui
+qu’ils (elles) eussent lui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lui
+ayez lui
+
+* INFINITIF
+
+** Passé
+
+avoir lui
+
+* PARTICIPE
+
+** Passé
+
+ayant lui
+lui (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deplier
+
+* INDICATIF
+
+** Présent
+
+je déplie
+tu déplies
+il (elle) déplie
+nous déplions
+vous dépliez
+ils (elles) déplient
+
+** Imparfait
+
+je dépliais
+tu dépliais
+il (elle) dépliait
+nous dépliions
+vous dépliiez
+ils (elles) dépliaient
+
+** Passé simple
+
+je dépliai
+tu déplias
+il (elle) déplia
+nous dépliâmes
+vous dépliâtes
+ils (elles) déplièrent
+
+** Futur simple
+
+je déplierai
+tu déplieras
+il (elle) dépliera
+nous déplierons
+vous déplierez
+ils (elles) déplieront
+
+* CONDITIONNEL
+
+** Présent
+
+je déplierais
+tu déplierais
+il (elle) déplierait
+nous déplierions
+vous déplieriez
+ils (elles) déplieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déplie
+que tu déplies
+qu’il (elle) déplie
+que nous dépliions
+que vous dépliiez
+qu’ils (elles) déplient
+
+** Imparfait
+
+que je dépliasse
+que tu dépliasses
+qu’il (elle) dépliât
+que nous dépliassions
+que vous dépliassiez
+qu’ils (elles) dépliassent
+
+* IMPÉRATIF
+
+** Présent
+
+déplie
+déplions
+dépliez
+
+* INFINITIF
+
+** Présent
+
+déplier
+
+* PARTICIPE
+
+** Présent
+
+dépliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déplié
+tu as déplié
+il (elle) a déplié
+nous avons déplié
+vous avez déplié
+ils (elles) ont déplié
+
+** Plus-que-parfait
+
+j'avais déplié
+tu avais déplié
+il (elle) avait déplié
+nous avions déplié
+vous aviez déplié
+ils (elles) avaient déplié
+
+** Passé antérieur
+
+j'eus déplié
+tu eus déplié
+il (elle) eut déplié
+nous eûmes déplié
+vous eûtes déplié
+ils (elles) eurent déplié
+
+** Futur antérieur
+
+j'aurai déplié
+tu auras déplié
+il (elle) aura déplié
+nous aurons déplié
+vous aurez déplié
+ils (elles) auront déplié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déplié
+tu aurais déplié
+il (elle) aurait déplié
+nous aurions déplié
+vous auriez déplié
+ils (elles) auraient déplié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déplié
+que tu aies déplié
+qu’il (elle) ait déplié
+que nous ayons déplié
+que vous ayez déplié
+qu’ils (elles) aient déplié
+
+** Plus-que-parfait
+
+que j'eusse déplié
+que tu eusses déplié
+qu’il (elle) eût déplié
+que nous eussions déplié
+que vous eussiez déplié
+qu’ils (elles) eussent déplié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déplié
+ayez déplié
+
+* INFINITIF
+
+** Passé
+
+avoir déplié
+
+* PARTICIPE
+
+** Passé
+
+ayant déplié
+déplié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis déplié(e)
+tu es déplié(e)
+il (elle) est déplié(e)
+nous sommes déplié(e)s
+vous êtes déplié(e)s
+ils (elles) sont déplié(e)s
+
+** Imparfait
+
+j'étais déplié(e)
+tu étais déplié(e)
+il (elle) était déplié(e)
+nous étions déplié(e)s
+vous étiez déplié(e)s
+ils (elles) étaient déplié(e)s
+
+** Passé simple
+
+je fus déplié(e)
+tu fus déplié(e)
+il (elle) fut déplié(e)
+nous fûmes déplié(e)s
+vous fûtes déplié(e)s
+ils (elles) furent déplié(e)s
+
+** Futur simple
+
+je serai déplié(e)
+tu seras déplié(e)
+il (elle) sera déplié(e)
+nous serons déplié(e)s
+vous serez déplié(e)s
+ils (elles) seront déplié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais déplié(e)
+tu serais déplié(e)
+il (elle) serait déplié(e)
+nous serions déplié(e)s
+vous seriez déplié(e)s
+ils (elles) seraient déplié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois déplié(e)
+que tu sois déplié(e)
+qu’il (elle) soit déplié(e)
+que nous soyons déplié(e)s
+que vous soyez déplié(e)s
+qu’ils (elles) soient déplié(e)s
+
+** Imparfait
+
+que je fusse déplié(e)
+que tu fusses déplié(e)
+qu’il (elle) fût déplié(e)
+que nous fussions déplié(e)s
+que vous fussiez déplié(e)s
+qu’ils (elles) fussent déplié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons déplié(e)s
+soyez déplié(e)s
+
+* INFINITIF
+
+** Présent
+
+être déplié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant déplié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été déplié(e)
+tu as été déplié(e)
+il (elle) a été déplié(e)
+nous avons été déplié(e)s
+vous avez été déplié(e)s
+ils (elles) ont été déplié(e)s
+
+** Plus-que-parfait
+
+j'avais été déplié(e)
+il (elle) avait été déplié(e)
+nous avions été déplié(e)s
+ils (elles) avaient été déplié(e)s
+
+** Passé antérieur
+
+j'eus été déplié(e)
+tu eus été déplié(e)
+il (elle) eut été déplié(e)
+nous eûmes été déplié(e)s
+vous eûtes été déplié(e)s
+ils (elles) eurent été déplié(e)s
+
+** Futur antérieur
+
+j'aurai été déplié(e)
+tu auras été déplié(e)
+il (elle) aura été déplié(e)
+nous aurons été déplié(e)s
+vous aurez été déplié(e)s
+ils (elles) auront été déplié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été déplié(e)
+j'aurais été déplié(e)
+il (elle) aurait été déplié(e)
+nous aurions été déplié(e)s
+vous auriez été déplié(e)s
+ils (elles) auraient été déplié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été déplié(e)
+que tu aies été déplié(e)
+qu’il (elle) ait été déplié(e)
+que nous ayons été déplié(e)s
+que vous ayez été déplié(e)s
+qu’ils (elles) aient été déplié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été déplié(e)
+que tu eusses été déplié(e)
+qu’il (elle) eût été déplié(e)
+que nous eussions été déplié(e)s
+que vous eussiez été déplié(e)s
+qu’ils (elles) eussent été déplié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été déplié(e)
+ayons été déplié(e)s
+ayez été déplié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été déplié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été déplié(e)(s)

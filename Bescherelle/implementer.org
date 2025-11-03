@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe implementer
+
+* INDICATIF
+
+** Présent
+
+j'implémente
+tu implémentes
+il (elle) implémente
+nous implémentons
+vous implémentez
+ils (elles) implémentent
+
+** Imparfait
+
+j'implémentais
+tu implémentais
+il (elle) implémentait
+nous implémentions
+vous implémentiez
+ils (elles) implémentaient
+
+** Passé simple
+
+j'implémentai
+tu implémentas
+il (elle) implémenta
+nous implémentâmes
+vous implémentâtes
+ils (elles) implémentèrent
+
+** Futur simple
+
+j'implémenterai
+tu implémenteras
+il (elle) implémentera
+nous implémenterons
+vous implémenterez
+ils (elles) implémenteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'implémenterais
+tu implémenterais
+il (elle) implémenterait
+nous implémenterions
+vous implémenteriez
+ils (elles) implémenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'implémente
+que tu implémentes
+qu’il (elle) implémente
+que nous implémentions
+que vous implémentiez
+qu’ils (elles) implémentent
+
+** Imparfait
+
+que j'implémentasse
+que tu implémentasses
+qu’il (elle) implémentât
+que nous implémentassions
+que vous implémentassiez
+qu’ils (elles) implémentassent
+
+* IMPÉRATIF
+
+** Présent
+
+implémente
+implémentons
+implémentez
+
+* INFINITIF
+
+** Présent
+
+implémenter
+
+* PARTICIPE
+
+** Présent
+
+implémentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai implémenté
+tu as implémenté
+il (elle) a implémenté
+nous avons implémenté
+vous avez implémenté
+ils (elles) ont implémenté
+
+** Plus-que-parfait
+
+j'avais implémenté
+tu avais implémenté
+il (elle) avait implémenté
+nous avions implémenté
+vous aviez implémenté
+ils (elles) avaient implémenté
+
+** Passé antérieur
+
+j'eus implémenté
+tu eus implémenté
+il (elle) eut implémenté
+nous eûmes implémenté
+vous eûtes implémenté
+ils (elles) eurent implémenté
+
+** Futur antérieur
+
+j'aurai implémenté
+tu auras implémenté
+il (elle) aura implémenté
+nous aurons implémenté
+vous aurez implémenté
+ils (elles) auront implémenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais implémenté
+tu aurais implémenté
+il (elle) aurait implémenté
+nous aurions implémenté
+vous auriez implémenté
+ils (elles) auraient implémenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie implémenté
+que tu aies implémenté
+qu’il (elle) ait implémenté
+que nous ayons implémenté
+que vous ayez implémenté
+qu’ils (elles) aient implémenté
+
+** Plus-que-parfait
+
+que j'eusse implémenté
+que tu eusses implémenté
+qu’il (elle) eût implémenté
+que nous eussions implémenté
+que vous eussiez implémenté
+qu’ils (elles) eussent implémenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons implémenté
+ayez implémenté
+
+* INFINITIF
+
+** Passé
+
+avoir implémenté
+
+* PARTICIPE
+
+** Passé
+
+ayant implémenté
+implémenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis implémenté(e)
+tu es implémenté(e)
+il (elle) est implémenté(e)
+nous sommes implémenté(e)s
+vous êtes implémenté(e)s
+ils (elles) sont implémenté(e)s
+
+** Imparfait
+
+j'étais implémenté(e)
+tu étais implémenté(e)
+il (elle) était implémenté(e)
+nous étions implémenté(e)s
+vous étiez implémenté(e)s
+ils (elles) étaient implémenté(e)s
+
+** Passé simple
+
+je fus implémenté(e)
+tu fus implémenté(e)
+il (elle) fut implémenté(e)
+nous fûmes implémenté(e)s
+vous fûtes implémenté(e)s
+ils (elles) furent implémenté(e)s
+
+** Futur simple
+
+je serai implémenté(e)
+tu seras implémenté(e)
+il (elle) sera implémenté(e)
+nous serons implémenté(e)s
+vous serez implémenté(e)s
+ils (elles) seront implémenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais implémenté(e)
+tu serais implémenté(e)
+il (elle) serait implémenté(e)
+nous serions implémenté(e)s
+vous seriez implémenté(e)s
+ils (elles) seraient implémenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois implémenté(e)
+que tu sois implémenté(e)
+qu’il (elle) soit implémenté(e)
+que nous soyons implémenté(e)s
+que vous soyez implémenté(e)s
+qu’ils (elles) soient implémenté(e)s
+
+** Imparfait
+
+que je fusse implémenté(e)
+que tu fusses implémenté(e)
+qu’il (elle) fût implémenté(e)
+que nous fussions implémenté(e)s
+que vous fussiez implémenté(e)s
+qu’ils (elles) fussent implémenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons implémenté(e)s
+soyez implémenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être implémenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant implémenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été implémenté(e)
+tu as été implémenté(e)
+il (elle) a été implémenté(e)
+nous avons été implémenté(e)s
+vous avez été implémenté(e)s
+ils (elles) ont été implémenté(e)s
+
+** Plus-que-parfait
+
+j'avais été implémenté(e)
+il (elle) avait été implémenté(e)
+nous avions été implémenté(e)s
+ils (elles) avaient été implémenté(e)s
+
+** Passé antérieur
+
+j'eus été implémenté(e)
+tu eus été implémenté(e)
+il (elle) eut été implémenté(e)
+nous eûmes été implémenté(e)s
+vous eûtes été implémenté(e)s
+ils (elles) eurent été implémenté(e)s
+
+** Futur antérieur
+
+j'aurai été implémenté(e)
+tu auras été implémenté(e)
+il (elle) aura été implémenté(e)
+nous aurons été implémenté(e)s
+vous aurez été implémenté(e)s
+ils (elles) auront été implémenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été implémenté(e)
+j'aurais été implémenté(e)
+il (elle) aurait été implémenté(e)
+nous aurions été implémenté(e)s
+vous auriez été implémenté(e)s
+ils (elles) auraient été implémenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été implémenté(e)
+que tu aies été implémenté(e)
+qu’il (elle) ait été implémenté(e)
+que nous ayons été implémenté(e)s
+que vous ayez été implémenté(e)s
+qu’ils (elles) aient été implémenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été implémenté(e)
+que tu eusses été implémenté(e)
+qu’il (elle) eût été implémenté(e)
+que nous eussions été implémenté(e)s
+que vous eussiez été implémenté(e)s
+qu’ils (elles) eussent été implémenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été implémenté(e)
+ayons été implémenté(e)s
+ayez été implémenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été implémenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été implémenté(e)(s)

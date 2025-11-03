@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe adoucir
+
+* INDICATIF
+
+** Présent
+
+j'adoucis
+tu adoucis
+il (elle) adoucit
+nous adoucissons
+vous adoucissez
+ils (elles) adoucissent
+
+** Imparfait
+
+j'adoucissais
+tu adoucissais
+il (elle) adoucissait
+nous adoucissions
+vous adoucissiez
+ils (elles) adoucissaient
+
+** Passé simple
+
+j'adoucis
+tu adoucis
+il (elle) adoucit
+nous adoucîmes
+vous adoucîtes
+ils (elles) adoucirent
+
+** Futur simple
+
+j'adoucirai
+tu adouciras
+il (elle) adoucira
+nous adoucirons
+vous adoucirez
+ils (elles) adouciront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adoucirais
+tu adoucirais
+il (elle) adoucirait
+nous adoucirions
+vous adouciriez
+ils (elles) adouciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adoucisse
+que tu adoucisses
+qu’il (elle) adoucisse
+que nous adoucissions
+que vous adoucissiez
+qu’ils (elles) adoucissent
+
+** Imparfait
+
+que j'adoucisse
+que tu adoucisses
+qu’il (elle) adoucît
+que nous adoucissions
+que vous adoucissiez
+qu’ils (elles) adoucissent
+
+* IMPÉRATIF
+
+** Présent
+
+adoucis
+adoucissons
+adoucissez
+
+* INFINITIF
+
+** Présent
+
+adoucir
+
+* PARTICIPE
+
+** Présent
+
+adoucissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adouci
+tu as adouci
+il (elle) a adouci
+nous avons adouci
+vous avez adouci
+ils (elles) ont adouci
+
+** Plus-que-parfait
+
+j'avais adouci
+tu avais adouci
+il (elle) avait adouci
+nous avions adouci
+vous aviez adouci
+ils (elles) avaient adouci
+
+** Passé antérieur
+
+j'eus adouci
+tu eus adouci
+il (elle) eut adouci
+nous eûmes adouci
+vous eûtes adouci
+ils (elles) eurent adouci
+
+** Futur antérieur
+
+j'aurai adouci
+tu auras adouci
+il (elle) aura adouci
+nous aurons adouci
+vous aurez adouci
+ils (elles) auront adouci
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adouci
+tu aurais adouci
+il (elle) aurait adouci
+nous aurions adouci
+vous auriez adouci
+ils (elles) auraient adouci
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adouci
+que tu aies adouci
+qu’il (elle) ait adouci
+que nous ayons adouci
+que vous ayez adouci
+qu’ils (elles) aient adouci
+
+** Plus-que-parfait
+
+que j'eusse adouci
+que tu eusses adouci
+qu’il (elle) eût adouci
+que nous eussions adouci
+que vous eussiez adouci
+qu’ils (elles) eussent adouci
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adouci
+ayez adouci
+
+* INFINITIF
+
+** Passé
+
+avoir adouci
+
+* PARTICIPE
+
+** Passé
+
+ayant adouci
+adouci (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis adouci(e)
+tu es adouci(e)
+il (elle) est adouci(e)
+nous sommes adouci(e)s
+vous êtes adouci(e)s
+ils (elles) sont adouci(e)s
+
+** Imparfait
+
+j'étais adouci(e)
+tu étais adouci(e)
+il (elle) était adouci(e)
+nous étions adouci(e)s
+vous étiez adouci(e)s
+ils (elles) étaient adouci(e)s
+
+** Passé simple
+
+je fus adouci(e)
+tu fus adouci(e)
+il (elle) fut adouci(e)
+nous fûmes adouci(e)s
+vous fûtes adouci(e)s
+ils (elles) furent adouci(e)s
+
+** Futur simple
+
+je serai adouci(e)
+tu seras adouci(e)
+il (elle) sera adouci(e)
+nous serons adouci(e)s
+vous serez adouci(e)s
+ils (elles) seront adouci(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais adouci(e)
+tu serais adouci(e)
+il (elle) serait adouci(e)
+nous serions adouci(e)s
+vous seriez adouci(e)s
+ils (elles) seraient adouci(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois adouci(e)
+que tu sois adouci(e)
+qu’il (elle) soit adouci(e)
+que nous soyons adouci(e)s
+que vous soyez adouci(e)s
+qu’ils (elles) soient adouci(e)s
+
+** Imparfait
+
+que je fusse adouci(e)
+que tu fusses adouci(e)
+qu’il (elle) fût adouci(e)
+que nous fussions adouci(e)s
+que vous fussiez adouci(e)s
+qu’ils (elles) fussent adouci(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons adouci(e)s
+soyez adouci(e)s
+
+* INFINITIF
+
+** Présent
+
+être adouci(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant adouci(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été adouci(e)
+tu as été adouci(e)
+il (elle) a été adouci(e)
+nous avons été adouci(e)s
+vous avez été adouci(e)s
+ils (elles) ont été adouci(e)s
+
+** Plus-que-parfait
+
+j'avais été adouci(e)
+il (elle) avait été adouci(e)
+nous avions été adouci(e)s
+ils (elles) avaient été adouci(e)s
+
+** Passé antérieur
+
+j'eus été adouci(e)
+tu eus été adouci(e)
+il (elle) eut été adouci(e)
+nous eûmes été adouci(e)s
+vous eûtes été adouci(e)s
+ils (elles) eurent été adouci(e)s
+
+** Futur antérieur
+
+j'aurai été adouci(e)
+tu auras été adouci(e)
+il (elle) aura été adouci(e)
+nous aurons été adouci(e)s
+vous aurez été adouci(e)s
+ils (elles) auront été adouci(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été adouci(e)
+j'aurais été adouci(e)
+il (elle) aurait été adouci(e)
+nous aurions été adouci(e)s
+vous auriez été adouci(e)s
+ils (elles) auraient été adouci(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été adouci(e)
+que tu aies été adouci(e)
+qu’il (elle) ait été adouci(e)
+que nous ayons été adouci(e)s
+que vous ayez été adouci(e)s
+qu’ils (elles) aient été adouci(e)s
+
+** Plus-que-parfait
+
+que j'eusse été adouci(e)
+que tu eusses été adouci(e)
+qu’il (elle) eût été adouci(e)
+que nous eussions été adouci(e)s
+que vous eussiez été adouci(e)s
+qu’ils (elles) eussent été adouci(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été adouci(e)
+ayons été adouci(e)s
+ayez été adouci(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été adouci(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été adouci(e)(s)

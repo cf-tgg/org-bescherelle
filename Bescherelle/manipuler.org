@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe manipuler
+
+* INDICATIF
+
+** Présent
+
+je manipule
+tu manipules
+il (elle) manipule
+nous manipulons
+vous manipulez
+ils (elles) manipulent
+
+** Imparfait
+
+je manipulais
+tu manipulais
+il (elle) manipulait
+nous manipulions
+vous manipuliez
+ils (elles) manipulaient
+
+** Passé simple
+
+je manipulai
+tu manipulas
+il (elle) manipula
+nous manipulâmes
+vous manipulâtes
+ils (elles) manipulèrent
+
+** Futur simple
+
+je manipulerai
+tu manipuleras
+il (elle) manipulera
+nous manipulerons
+vous manipulerez
+ils (elles) manipuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je manipulerais
+tu manipulerais
+il (elle) manipulerait
+nous manipulerions
+vous manipuleriez
+ils (elles) manipuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je manipule
+que tu manipules
+qu’il (elle) manipule
+que nous manipulions
+que vous manipuliez
+qu’ils (elles) manipulent
+
+** Imparfait
+
+que je manipulasse
+que tu manipulasses
+qu’il (elle) manipulât
+que nous manipulassions
+que vous manipulassiez
+qu’ils (elles) manipulassent
+
+* IMPÉRATIF
+
+** Présent
+
+manipule
+manipulons
+manipulez
+
+* INFINITIF
+
+** Présent
+
+manipuler
+
+* PARTICIPE
+
+** Présent
+
+manipulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai manipulé
+tu as manipulé
+il (elle) a manipulé
+nous avons manipulé
+vous avez manipulé
+ils (elles) ont manipulé
+
+** Plus-que-parfait
+
+j'avais manipulé
+tu avais manipulé
+il (elle) avait manipulé
+nous avions manipulé
+vous aviez manipulé
+ils (elles) avaient manipulé
+
+** Passé antérieur
+
+j'eus manipulé
+tu eus manipulé
+il (elle) eut manipulé
+nous eûmes manipulé
+vous eûtes manipulé
+ils (elles) eurent manipulé
+
+** Futur antérieur
+
+j'aurai manipulé
+tu auras manipulé
+il (elle) aura manipulé
+nous aurons manipulé
+vous aurez manipulé
+ils (elles) auront manipulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais manipulé
+tu aurais manipulé
+il (elle) aurait manipulé
+nous aurions manipulé
+vous auriez manipulé
+ils (elles) auraient manipulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie manipulé
+que tu aies manipulé
+qu’il (elle) ait manipulé
+que nous ayons manipulé
+que vous ayez manipulé
+qu’ils (elles) aient manipulé
+
+** Plus-que-parfait
+
+que j'eusse manipulé
+que tu eusses manipulé
+qu’il (elle) eût manipulé
+que nous eussions manipulé
+que vous eussiez manipulé
+qu’ils (elles) eussent manipulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons manipulé
+ayez manipulé
+
+* INFINITIF
+
+** Passé
+
+avoir manipulé
+
+* PARTICIPE
+
+** Passé
+
+ayant manipulé
+manipulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis manipulé(e)
+tu es manipulé(e)
+il (elle) est manipulé(e)
+nous sommes manipulé(e)s
+vous êtes manipulé(e)s
+ils (elles) sont manipulé(e)s
+
+** Imparfait
+
+j'étais manipulé(e)
+tu étais manipulé(e)
+il (elle) était manipulé(e)
+nous étions manipulé(e)s
+vous étiez manipulé(e)s
+ils (elles) étaient manipulé(e)s
+
+** Passé simple
+
+je fus manipulé(e)
+tu fus manipulé(e)
+il (elle) fut manipulé(e)
+nous fûmes manipulé(e)s
+vous fûtes manipulé(e)s
+ils (elles) furent manipulé(e)s
+
+** Futur simple
+
+je serai manipulé(e)
+tu seras manipulé(e)
+il (elle) sera manipulé(e)
+nous serons manipulé(e)s
+vous serez manipulé(e)s
+ils (elles) seront manipulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais manipulé(e)
+tu serais manipulé(e)
+il (elle) serait manipulé(e)
+nous serions manipulé(e)s
+vous seriez manipulé(e)s
+ils (elles) seraient manipulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois manipulé(e)
+que tu sois manipulé(e)
+qu’il (elle) soit manipulé(e)
+que nous soyons manipulé(e)s
+que vous soyez manipulé(e)s
+qu’ils (elles) soient manipulé(e)s
+
+** Imparfait
+
+que je fusse manipulé(e)
+que tu fusses manipulé(e)
+qu’il (elle) fût manipulé(e)
+que nous fussions manipulé(e)s
+que vous fussiez manipulé(e)s
+qu’ils (elles) fussent manipulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons manipulé(e)s
+soyez manipulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être manipulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant manipulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été manipulé(e)
+tu as été manipulé(e)
+il (elle) a été manipulé(e)
+nous avons été manipulé(e)s
+vous avez été manipulé(e)s
+ils (elles) ont été manipulé(e)s
+
+** Plus-que-parfait
+
+j'avais été manipulé(e)
+il (elle) avait été manipulé(e)
+nous avions été manipulé(e)s
+ils (elles) avaient été manipulé(e)s
+
+** Passé antérieur
+
+j'eus été manipulé(e)
+tu eus été manipulé(e)
+il (elle) eut été manipulé(e)
+nous eûmes été manipulé(e)s
+vous eûtes été manipulé(e)s
+ils (elles) eurent été manipulé(e)s
+
+** Futur antérieur
+
+j'aurai été manipulé(e)
+tu auras été manipulé(e)
+il (elle) aura été manipulé(e)
+nous aurons été manipulé(e)s
+vous aurez été manipulé(e)s
+ils (elles) auront été manipulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été manipulé(e)
+j'aurais été manipulé(e)
+il (elle) aurait été manipulé(e)
+nous aurions été manipulé(e)s
+vous auriez été manipulé(e)s
+ils (elles) auraient été manipulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été manipulé(e)
+que tu aies été manipulé(e)
+qu’il (elle) ait été manipulé(e)
+que nous ayons été manipulé(e)s
+que vous ayez été manipulé(e)s
+qu’ils (elles) aient été manipulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été manipulé(e)
+que tu eusses été manipulé(e)
+qu’il (elle) eût été manipulé(e)
+que nous eussions été manipulé(e)s
+que vous eussiez été manipulé(e)s
+qu’ils (elles) eussent été manipulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été manipulé(e)
+ayons été manipulé(e)s
+ayez été manipulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été manipulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été manipulé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ramasser
+
+* INDICATIF
+
+** Présent
+
+je ramasse
+tu ramasses
+il (elle) ramasse
+nous ramassons
+vous ramassez
+ils (elles) ramassent
+
+** Imparfait
+
+je ramassais
+tu ramassais
+il (elle) ramassait
+nous ramassions
+vous ramassiez
+ils (elles) ramassaient
+
+** Passé simple
+
+je ramassai
+tu ramassas
+il (elle) ramassa
+nous ramassâmes
+vous ramassâtes
+ils (elles) ramassèrent
+
+** Futur simple
+
+je ramasserai
+tu ramasseras
+il (elle) ramassera
+nous ramasserons
+vous ramasserez
+ils (elles) ramasseront
+
+* CONDITIONNEL
+
+** Présent
+
+je ramasserais
+tu ramasserais
+il (elle) ramasserait
+nous ramasserions
+vous ramasseriez
+ils (elles) ramasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ramasse
+que tu ramasses
+qu’il (elle) ramasse
+que nous ramassions
+que vous ramassiez
+qu’ils (elles) ramassent
+
+** Imparfait
+
+que je ramassasse
+que tu ramassasses
+qu’il (elle) ramassât
+que nous ramassassions
+que vous ramassassiez
+qu’ils (elles) ramassassent
+
+* IMPÉRATIF
+
+** Présent
+
+ramasse
+ramassons
+ramassez
+
+* INFINITIF
+
+** Présent
+
+ramasser
+
+* PARTICIPE
+
+** Présent
+
+ramassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ramassé
+tu as ramassé
+il (elle) a ramassé
+nous avons ramassé
+vous avez ramassé
+ils (elles) ont ramassé
+
+** Plus-que-parfait
+
+j'avais ramassé
+tu avais ramassé
+il (elle) avait ramassé
+nous avions ramassé
+vous aviez ramassé
+ils (elles) avaient ramassé
+
+** Passé antérieur
+
+j'eus ramassé
+tu eus ramassé
+il (elle) eut ramassé
+nous eûmes ramassé
+vous eûtes ramassé
+ils (elles) eurent ramassé
+
+** Futur antérieur
+
+j'aurai ramassé
+tu auras ramassé
+il (elle) aura ramassé
+nous aurons ramassé
+vous aurez ramassé
+ils (elles) auront ramassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ramassé
+tu aurais ramassé
+il (elle) aurait ramassé
+nous aurions ramassé
+vous auriez ramassé
+ils (elles) auraient ramassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ramassé
+que tu aies ramassé
+qu’il (elle) ait ramassé
+que nous ayons ramassé
+que vous ayez ramassé
+qu’ils (elles) aient ramassé
+
+** Plus-que-parfait
+
+que j'eusse ramassé
+que tu eusses ramassé
+qu’il (elle) eût ramassé
+que nous eussions ramassé
+que vous eussiez ramassé
+qu’ils (elles) eussent ramassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ramassé
+ayez ramassé
+
+* INFINITIF
+
+** Passé
+
+avoir ramassé
+
+* PARTICIPE
+
+** Passé
+
+ayant ramassé
+ramassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ramassé(e)
+tu es ramassé(e)
+il (elle) est ramassé(e)
+nous sommes ramassé(e)s
+vous êtes ramassé(e)s
+ils (elles) sont ramassé(e)s
+
+** Imparfait
+
+j'étais ramassé(e)
+tu étais ramassé(e)
+il (elle) était ramassé(e)
+nous étions ramassé(e)s
+vous étiez ramassé(e)s
+ils (elles) étaient ramassé(e)s
+
+** Passé simple
+
+je fus ramassé(e)
+tu fus ramassé(e)
+il (elle) fut ramassé(e)
+nous fûmes ramassé(e)s
+vous fûtes ramassé(e)s
+ils (elles) furent ramassé(e)s
+
+** Futur simple
+
+je serai ramassé(e)
+tu seras ramassé(e)
+il (elle) sera ramassé(e)
+nous serons ramassé(e)s
+vous serez ramassé(e)s
+ils (elles) seront ramassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ramassé(e)
+tu serais ramassé(e)
+il (elle) serait ramassé(e)
+nous serions ramassé(e)s
+vous seriez ramassé(e)s
+ils (elles) seraient ramassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ramassé(e)
+que tu sois ramassé(e)
+qu’il (elle) soit ramassé(e)
+que nous soyons ramassé(e)s
+que vous soyez ramassé(e)s
+qu’ils (elles) soient ramassé(e)s
+
+** Imparfait
+
+que je fusse ramassé(e)
+que tu fusses ramassé(e)
+qu’il (elle) fût ramassé(e)
+que nous fussions ramassé(e)s
+que vous fussiez ramassé(e)s
+qu’ils (elles) fussent ramassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ramassé(e)s
+soyez ramassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ramassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ramassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ramassé(e)
+tu as été ramassé(e)
+il (elle) a été ramassé(e)
+nous avons été ramassé(e)s
+vous avez été ramassé(e)s
+ils (elles) ont été ramassé(e)s
+
+** Plus-que-parfait
+
+j'avais été ramassé(e)
+il (elle) avait été ramassé(e)
+nous avions été ramassé(e)s
+ils (elles) avaient été ramassé(e)s
+
+** Passé antérieur
+
+j'eus été ramassé(e)
+tu eus été ramassé(e)
+il (elle) eut été ramassé(e)
+nous eûmes été ramassé(e)s
+vous eûtes été ramassé(e)s
+ils (elles) eurent été ramassé(e)s
+
+** Futur antérieur
+
+j'aurai été ramassé(e)
+tu auras été ramassé(e)
+il (elle) aura été ramassé(e)
+nous aurons été ramassé(e)s
+vous aurez été ramassé(e)s
+ils (elles) auront été ramassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ramassé(e)
+j'aurais été ramassé(e)
+il (elle) aurait été ramassé(e)
+nous aurions été ramassé(e)s
+vous auriez été ramassé(e)s
+ils (elles) auraient été ramassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ramassé(e)
+que tu aies été ramassé(e)
+qu’il (elle) ait été ramassé(e)
+que nous ayons été ramassé(e)s
+que vous ayez été ramassé(e)s
+qu’ils (elles) aient été ramassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ramassé(e)
+que tu eusses été ramassé(e)
+qu’il (elle) eût été ramassé(e)
+que nous eussions été ramassé(e)s
+que vous eussiez été ramassé(e)s
+qu’ils (elles) eussent été ramassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ramassé(e)
+ayons été ramassé(e)s
+ayez été ramassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ramassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ramassé(e)(s)

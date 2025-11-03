@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe comprendre
+
+* INDICATIF
+
+** Présent
+
+je comprends
+tu comprends
+il (elle) comprend
+nous comprenons
+vous comprenez
+ils (elles) comprennent
+
+** Imparfait
+
+je comprenais
+tu comprenais
+il (elle) comprenait
+nous comprenions
+vous compreniez
+ils (elles) comprenaient
+
+** Passé simple
+
+je compris
+tu compris
+il (elle) comprit
+nous comprîmes
+vous comprîtes
+ils (elles) comprirent
+
+** Futur simple
+
+je comprendrai
+tu comprendras
+il (elle) comprendra
+nous comprendrons
+vous comprendrez
+ils (elles) comprendront
+
+* CONDITIONNEL
+
+** Présent
+
+je comprendrais
+tu comprendrais
+il (elle) comprendrait
+nous comprendrions
+vous comprendriez
+ils (elles) comprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je comprenne
+que tu comprennes
+qu’il (elle) comprenne
+que nous comprenions
+que vous compreniez
+qu’ils (elles) comprennent
+
+** Imparfait
+
+que je comprisse
+que tu comprisses
+qu’il (elle) comprît
+que nous comprissions
+que vous comprissiez
+qu’ils (elles) comprissent
+
+* IMPÉRATIF
+
+** Présent
+
+comprends
+comprenons
+comprenez
+
+* INFINITIF
+
+** Présent
+
+comprendre
+
+* PARTICIPE
+
+** Présent
+
+comprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compris
+tu as compris
+il (elle) a compris
+nous avons compris
+vous avez compris
+ils (elles) ont compris
+
+** Plus-que-parfait
+
+j'avais compris
+tu avais compris
+il (elle) avait compris
+nous avions compris
+vous aviez compris
+ils (elles) avaient compris
+
+** Passé antérieur
+
+j'eus compris
+tu eus compris
+il (elle) eut compris
+nous eûmes compris
+vous eûtes compris
+ils (elles) eurent compris
+
+** Futur antérieur
+
+j'aurai compris
+tu auras compris
+il (elle) aura compris
+nous aurons compris
+vous aurez compris
+ils (elles) auront compris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compris
+tu aurais compris
+il (elle) aurait compris
+nous aurions compris
+vous auriez compris
+ils (elles) auraient compris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compris
+que tu aies compris
+qu’il (elle) ait compris
+que nous ayons compris
+que vous ayez compris
+qu’ils (elles) aient compris
+
+** Plus-que-parfait
+
+que j'eusse compris
+que tu eusses compris
+qu’il (elle) eût compris
+que nous eussions compris
+que vous eussiez compris
+qu’ils (elles) eussent compris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compris
+ayez compris
+
+* INFINITIF
+
+** Passé
+
+avoir compris
+
+* PARTICIPE
+
+** Passé
+
+ayant compris
+compris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis compris(e)
+tu es compris(e)
+il (elle) est compris(e)
+nous sommes compris(es)
+vous êtes compris(es)
+ils (elles) sont compris(es)
+
+** Imparfait
+
+j'étais compris(e)
+tu étais compris(e)
+il (elle) était compris(e)
+nous étions compris(es)
+vous étiez compris(es)
+ils (elles) étaient compris(es)
+
+** Passé simple
+
+je fus compris(e)
+tu fus compris(e)
+il (elle) fut compris(e)
+nous fûmes compris(es)
+vous fûtes compris(es)
+ils (elles) furent compris(es)
+
+** Futur simple
+
+je serai compris(e)
+tu seras compris(e)
+il (elle) sera compris(e)
+nous serons compris(es)
+vous serez compris(es)
+ils (elles) seront compris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais compris(e)
+tu serais compris(e)
+il (elle) serait compris(e)
+nous serions compris(es)
+vous seriez compris(es)
+ils (elles) seraient compris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois compris(e)
+que tu sois compris(e)
+qu’il (elle) soit compris(e)
+que nous soyons compris(es)
+que vous soyez compris(es)
+qu’ils (elles) soient compris(es)
+
+** Imparfait
+
+que je fusse compris(e)
+que tu fusses compris(e)
+qu’il (elle) fût compris(e)
+que nous fussions compris(es)
+que vous fussiez compris(es)
+qu’ils (elles) fussent compris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons compris(es)
+soyez compris(es)
+
+* INFINITIF
+
+** Présent
+
+être compris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant compris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été compris(e)
+tu as été compris(e)
+il (elle) a été compris(e)
+nous avons été compris(es)
+vous avez été compris(es)
+ils (elles) ont été compris(es)
+
+** Plus-que-parfait
+
+j'avais été compris(e)
+il (elle) avait été compris(e)
+nous avions été compris(es)
+ils (elles) avaient été compris(es)
+
+** Passé antérieur
+
+j'eus été compris(e)
+tu eus été compris(e)
+il (elle) eut été compris(e)
+nous eûmes été compris(es)
+vous eûtes été compris(es)
+ils (elles) eurent été compris(es)
+
+** Futur antérieur
+
+j'aurai été compris(e)
+tu auras été compris(e)
+il (elle) aura été compris(e)
+nous aurons été compris(es)
+vous aurez été compris(es)
+ils (elles) auront été compris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été compris(e)
+j'aurais été compris(e)
+il (elle) aurait été compris(e)
+nous aurions été compris(es)
+vous auriez été compris(es)
+ils (elles) auraient été compris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été compris(e)
+que tu aies été compris(e)
+qu’il (elle) ait été compris(e)
+que nous ayons été compris(es)
+que vous ayez été compris(es)
+qu’ils (elles) aient été compris(es)
+
+** Plus-que-parfait
+
+que j'eusse été compris(e)
+que tu eusses été compris(e)
+qu’il (elle) eût été compris(e)
+que nous eussions été compris(es)
+que vous eussiez été compris(es)
+qu’ils (elles) eussent été compris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été compris(e)
+ayons été compris(es)
+ayez été compris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été compris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été compris (s, se, s, ses)

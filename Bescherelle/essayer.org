@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe essayer
+
+* INDICATIF
+
+** Présent
+
+j'essaie / essaye
+tu essaies / essayes
+il (elle) essaie / essaye
+nous essayons
+vous essayez
+ils (elles) essaient / essayent
+
+** Imparfait
+
+j'essayais
+tu essayais
+il (elle) essayait
+nous essayions
+vous essayiez
+ils (elles) essayaient
+
+** Passé simple
+
+j'essayai
+tu essayas
+il (elle) essaya
+nous essayâmes
+vous essayâtes
+ils (elles) essayèrent
+
+** Futur simple
+
+j'essaierai / essayerai
+tu essaieras / essayeras
+il (elle) essaiera / essayera
+nous essaierons / essayerons
+vous essaierez / essayerez
+ils (elles) essaieront / essayeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'essaierais / essayerais
+tu essaierais / essayerais
+il (elle) essaierait / essayerait
+nous essaierions / essayerions
+vous essaieriez / essayeriez
+ils (elles) essaieraient / essayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'essaie / essaye
+que tu essaies / essayes
+qu’il (elle) essaie / essaye
+que nous essayions
+que vous essayiez
+qu’ils (elles) essaient / essayent
+
+** Imparfait
+
+que j'essayasse
+que tu essayasses
+qu’il (elle) essayât
+que nous essayassions
+que vous essayassiez
+qu’ils (elles) essayassent
+
+* IMPÉRATIF
+
+** Présent
+
+essaie / essaye
+essayons
+essayez
+
+* INFINITIF
+
+** Présent
+
+essayer
+
+* PARTICIPE
+
+** Présent
+
+essayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai essayé
+tu as essayé
+il (elle) a essayé
+nous avons essayé
+vous avez essayé
+ils (elles) ont essayé
+
+** Plus-que-parfait
+
+j'avais essayé
+tu avais essayé
+il (elle) avait essayé
+nous avions essayé
+vous aviez essayé
+ils (elles) avaient essayé
+
+** Passé antérieur
+
+j'eus essayé
+tu eus essayé
+il (elle) eut essayé
+nous eûmes essayé
+vous eûtes essayé
+ils (elles) eurent essayé
+
+** Futur antérieur
+
+j'aurai essayé
+tu auras essayé
+il (elle) aura essayé
+nous aurons essayé
+vous aurez essayé
+ils (elles) auront essayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais essayé
+tu aurais essayé
+il (elle) aurait essayé
+nous aurions essayé
+vous auriez essayé
+ils (elles) auraient essayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie essayé
+que tu aies essayé
+qu’il (elle) ait essayé
+que nous ayons essayé
+que vous ayez essayé
+qu’ils (elles) aient essayé
+
+** Plus-que-parfait
+
+que j'eusse essayé
+que tu eusses essayé
+qu’il (elle) eût essayé
+que nous eussions essayé
+que vous eussiez essayé
+qu’ils (elles) eussent essayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons essayé
+ayez essayé
+
+* INFINITIF
+
+** Passé
+
+avoir essayé
+
+* PARTICIPE
+
+** Passé
+
+ayant essayé
+essayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis essayé(e)
+tu es essayé(e)
+il (elle) est essayé(e)
+nous sommes essayé(e)s
+vous êtes essayé(e)s
+ils (elles) sont essayé(e)s
+
+** Imparfait
+
+j'étais essayé(e)
+tu étais essayé(e)
+il (elle) était essayé(e)
+nous étions essayé(e)s
+vous étiez essayé(e)s
+ils (elles) étaient essayé(e)s
+
+** Passé simple
+
+je fus essayé(e)
+tu fus essayé(e)
+il (elle) fut essayé(e)
+nous fûmes essayé(e)s
+vous fûtes essayé(e)s
+ils (elles) furent essayé(e)s
+
+** Futur simple
+
+je serai essayé(e)
+tu seras essayé(e)
+il (elle) sera essayé(e)
+nous serons essayé(e)s
+vous serez essayé(e)s
+ils (elles) seront essayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais essayé(e)
+tu serais essayé(e)
+il (elle) serait essayé(e)
+nous serions essayé(e)s
+vous seriez essayé(e)s
+ils (elles) seraient essayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois essayé(e)
+que tu sois essayé(e)
+qu’il (elle) soit essayé(e)
+que nous soyons essayé(e)s
+que vous soyez essayé(e)s
+qu’ils (elles) soient essayé(e)s
+
+** Imparfait
+
+que je fusse essayé(e)
+que tu fusses essayé(e)
+qu’il (elle) fût essayé(e)
+que nous fussions essayé(e)s
+que vous fussiez essayé(e)s
+qu’ils (elles) fussent essayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons essayé(e)s
+soyez essayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être essayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant essayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été essayé(e)
+tu as été essayé(e)
+il (elle) a été essayé(e)
+nous avons été essayé(e)s
+vous avez été essayé(e)s
+ils (elles) ont été essayé(e)s
+
+** Plus-que-parfait
+
+j'avais été essayé(e)
+il (elle) avait été essayé(e)
+nous avions été essayé(e)s
+ils (elles) avaient été essayé(e)s
+
+** Passé antérieur
+
+j'eus été essayé(e)
+tu eus été essayé(e)
+il (elle) eut été essayé(e)
+nous eûmes été essayé(e)s
+vous eûtes été essayé(e)s
+ils (elles) eurent été essayé(e)s
+
+** Futur antérieur
+
+j'aurai été essayé(e)
+tu auras été essayé(e)
+il (elle) aura été essayé(e)
+nous aurons été essayé(e)s
+vous aurez été essayé(e)s
+ils (elles) auront été essayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été essayé(e)
+j'aurais été essayé(e)
+il (elle) aurait été essayé(e)
+nous aurions été essayé(e)s
+vous auriez été essayé(e)s
+ils (elles) auraient été essayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été essayé(e)
+que tu aies été essayé(e)
+qu’il (elle) ait été essayé(e)
+que nous ayons été essayé(e)s
+que vous ayez été essayé(e)s
+qu’ils (elles) aient été essayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été essayé(e)
+que tu eusses été essayé(e)
+qu’il (elle) eût été essayé(e)
+que nous eussions été essayé(e)s
+que vous eussiez été essayé(e)s
+qu’ils (elles) eussent été essayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été essayé(e)
+ayons été essayé(e)s
+ayez été essayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été essayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été essayé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aerer
+
+* INDICATIF
+
+** Présent
+
+j'aère
+tu aères
+il (elle) aère
+nous aérons
+vous aérez
+ils (elles) aèrent
+
+** Imparfait
+
+j'aérais
+tu aérais
+il (elle) aérait
+nous aérions
+vous aériez
+ils (elles) aéraient
+
+** Passé simple
+
+j'aérai
+tu aéras
+il (elle) aéra
+nous aérâmes
+vous aérâtes
+ils (elles) aérèrent
+
+** Futur simple
+
+j'aérerai
+tu aéreras
+il (elle) aérera
+nous aérerons
+vous aérerez
+ils (elles) aéreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aérerais
+tu aérerais
+il (elle) aérerait
+nous aérerions
+vous aéreriez
+ils (elles) aéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aère
+que tu aères
+qu’il (elle) aère
+que nous aérions
+que vous aériez
+qu’ils (elles) aèrent
+
+** Imparfait
+
+que j'aérasse
+que tu aérasses
+qu’il (elle) aérât
+que nous aérassions
+que vous aérassiez
+qu’ils (elles) aérassent
+
+* IMPÉRATIF
+
+** Présent
+
+aère
+aérons
+aérez
+
+* INFINITIF
+
+** Présent
+
+aérer
+
+* PARTICIPE
+
+** Présent
+
+aérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aéré
+tu as aéré
+il (elle) a aéré
+nous avons aéré
+vous avez aéré
+ils (elles) ont aéré
+
+** Plus-que-parfait
+
+j'avais aéré
+tu avais aéré
+il (elle) avait aéré
+nous avions aéré
+vous aviez aéré
+ils (elles) avaient aéré
+
+** Passé antérieur
+
+j'eus aéré
+tu eus aéré
+il (elle) eut aéré
+nous eûmes aéré
+vous eûtes aéré
+ils (elles) eurent aéré
+
+** Futur antérieur
+
+j'aurai aéré
+tu auras aéré
+il (elle) aura aéré
+nous aurons aéré
+vous aurez aéré
+ils (elles) auront aéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aéré
+tu aurais aéré
+il (elle) aurait aéré
+nous aurions aéré
+vous auriez aéré
+ils (elles) auraient aéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aéré
+que tu aies aéré
+qu’il (elle) ait aéré
+que nous ayons aéré
+que vous ayez aéré
+qu’ils (elles) aient aéré
+
+** Plus-que-parfait
+
+que j'eusse aéré
+que tu eusses aéré
+qu’il (elle) eût aéré
+que nous eussions aéré
+que vous eussiez aéré
+qu’ils (elles) eussent aéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aéré
+ayez aéré
+
+* INFINITIF
+
+** Passé
+
+avoir aéré
+
+* PARTICIPE
+
+** Passé
+
+ayant aéré
+aéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aéré(e)
+tu es aéré(e)
+il (elle) est aéré(e)
+nous sommes aéré(e)s
+vous êtes aéré(e)s
+ils (elles) sont aéré(e)s
+
+** Imparfait
+
+j'étais aéré(e)
+tu étais aéré(e)
+il (elle) était aéré(e)
+nous étions aéré(e)s
+vous étiez aéré(e)s
+ils (elles) étaient aéré(e)s
+
+** Passé simple
+
+je fus aéré(e)
+tu fus aéré(e)
+il (elle) fut aéré(e)
+nous fûmes aéré(e)s
+vous fûtes aéré(e)s
+ils (elles) furent aéré(e)s
+
+** Futur simple
+
+je serai aéré(e)
+tu seras aéré(e)
+il (elle) sera aéré(e)
+nous serons aéré(e)s
+vous serez aéré(e)s
+ils (elles) seront aéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aéré(e)
+tu serais aéré(e)
+il (elle) serait aéré(e)
+nous serions aéré(e)s
+vous seriez aéré(e)s
+ils (elles) seraient aéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aéré(e)
+que tu sois aéré(e)
+qu’il (elle) soit aéré(e)
+que nous soyons aéré(e)s
+que vous soyez aéré(e)s
+qu’ils (elles) soient aéré(e)s
+
+** Imparfait
+
+que je fusse aéré(e)
+que tu fusses aéré(e)
+qu’il (elle) fût aéré(e)
+que nous fussions aéré(e)s
+que vous fussiez aéré(e)s
+qu’ils (elles) fussent aéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aéré(e)s
+soyez aéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être aéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aéré(e)
+tu as été aéré(e)
+il (elle) a été aéré(e)
+nous avons été aéré(e)s
+vous avez été aéré(e)s
+ils (elles) ont été aéré(e)s
+
+** Plus-que-parfait
+
+j'avais été aéré(e)
+il (elle) avait été aéré(e)
+nous avions été aéré(e)s
+ils (elles) avaient été aéré(e)s
+
+** Passé antérieur
+
+j'eus été aéré(e)
+tu eus été aéré(e)
+il (elle) eut été aéré(e)
+nous eûmes été aéré(e)s
+vous eûtes été aéré(e)s
+ils (elles) eurent été aéré(e)s
+
+** Futur antérieur
+
+j'aurai été aéré(e)
+tu auras été aéré(e)
+il (elle) aura été aéré(e)
+nous aurons été aéré(e)s
+vous aurez été aéré(e)s
+ils (elles) auront été aéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aéré(e)
+j'aurais été aéré(e)
+il (elle) aurait été aéré(e)
+nous aurions été aéré(e)s
+vous auriez été aéré(e)s
+ils (elles) auraient été aéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aéré(e)
+que tu aies été aéré(e)
+qu’il (elle) ait été aéré(e)
+que nous ayons été aéré(e)s
+que vous ayez été aéré(e)s
+qu’ils (elles) aient été aéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aéré(e)
+que tu eusses été aéré(e)
+qu’il (elle) eût été aéré(e)
+que nous eussions été aéré(e)s
+que vous eussiez été aéré(e)s
+qu’ils (elles) eussent été aéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aéré(e)
+ayons été aéré(e)s
+ayez été aéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aéré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe developper
+
+* INDICATIF
+
+** Présent
+
+je développe
+tu développes
+il (elle) développe
+nous développons
+vous développez
+ils (elles) développent
+
+** Imparfait
+
+je développais
+tu développais
+il (elle) développait
+nous développions
+vous développiez
+ils (elles) développaient
+
+** Passé simple
+
+je développai
+tu développas
+il (elle) développa
+nous développâmes
+vous développâtes
+ils (elles) développèrent
+
+** Futur simple
+
+je développerai
+tu développeras
+il (elle) développera
+nous développerons
+vous développerez
+ils (elles) développeront
+
+* CONDITIONNEL
+
+** Présent
+
+je développerais
+tu développerais
+il (elle) développerait
+nous développerions
+vous développeriez
+ils (elles) développeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je développe
+que tu développes
+qu’il (elle) développe
+que nous développions
+que vous développiez
+qu’ils (elles) développent
+
+** Imparfait
+
+que je développasse
+que tu développasses
+qu’il (elle) développât
+que nous développassions
+que vous développassiez
+qu’ils (elles) développassent
+
+* IMPÉRATIF
+
+** Présent
+
+développe
+développons
+développez
+
+* INFINITIF
+
+** Présent
+
+développer
+
+* PARTICIPE
+
+** Présent
+
+développant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai développé
+tu as développé
+il (elle) a développé
+nous avons développé
+vous avez développé
+ils (elles) ont développé
+
+** Plus-que-parfait
+
+j'avais développé
+tu avais développé
+il (elle) avait développé
+nous avions développé
+vous aviez développé
+ils (elles) avaient développé
+
+** Passé antérieur
+
+j'eus développé
+tu eus développé
+il (elle) eut développé
+nous eûmes développé
+vous eûtes développé
+ils (elles) eurent développé
+
+** Futur antérieur
+
+j'aurai développé
+tu auras développé
+il (elle) aura développé
+nous aurons développé
+vous aurez développé
+ils (elles) auront développé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais développé
+tu aurais développé
+il (elle) aurait développé
+nous aurions développé
+vous auriez développé
+ils (elles) auraient développé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie développé
+que tu aies développé
+qu’il (elle) ait développé
+que nous ayons développé
+que vous ayez développé
+qu’ils (elles) aient développé
+
+** Plus-que-parfait
+
+que j'eusse développé
+que tu eusses développé
+qu’il (elle) eût développé
+que nous eussions développé
+que vous eussiez développé
+qu’ils (elles) eussent développé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons développé
+ayez développé
+
+* INFINITIF
+
+** Passé
+
+avoir développé
+
+* PARTICIPE
+
+** Passé
+
+ayant développé
+développé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis développé(e)
+tu es développé(e)
+il (elle) est développé(e)
+nous sommes développé(e)s
+vous êtes développé(e)s
+ils (elles) sont développé(e)s
+
+** Imparfait
+
+j'étais développé(e)
+tu étais développé(e)
+il (elle) était développé(e)
+nous étions développé(e)s
+vous étiez développé(e)s
+ils (elles) étaient développé(e)s
+
+** Passé simple
+
+je fus développé(e)
+tu fus développé(e)
+il (elle) fut développé(e)
+nous fûmes développé(e)s
+vous fûtes développé(e)s
+ils (elles) furent développé(e)s
+
+** Futur simple
+
+je serai développé(e)
+tu seras développé(e)
+il (elle) sera développé(e)
+nous serons développé(e)s
+vous serez développé(e)s
+ils (elles) seront développé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais développé(e)
+tu serais développé(e)
+il (elle) serait développé(e)
+nous serions développé(e)s
+vous seriez développé(e)s
+ils (elles) seraient développé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois développé(e)
+que tu sois développé(e)
+qu’il (elle) soit développé(e)
+que nous soyons développé(e)s
+que vous soyez développé(e)s
+qu’ils (elles) soient développé(e)s
+
+** Imparfait
+
+que je fusse développé(e)
+que tu fusses développé(e)
+qu’il (elle) fût développé(e)
+que nous fussions développé(e)s
+que vous fussiez développé(e)s
+qu’ils (elles) fussent développé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons développé(e)s
+soyez développé(e)s
+
+* INFINITIF
+
+** Présent
+
+être développé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant développé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été développé(e)
+tu as été développé(e)
+il (elle) a été développé(e)
+nous avons été développé(e)s
+vous avez été développé(e)s
+ils (elles) ont été développé(e)s
+
+** Plus-que-parfait
+
+j'avais été développé(e)
+il (elle) avait été développé(e)
+nous avions été développé(e)s
+ils (elles) avaient été développé(e)s
+
+** Passé antérieur
+
+j'eus été développé(e)
+tu eus été développé(e)
+il (elle) eut été développé(e)
+nous eûmes été développé(e)s
+vous eûtes été développé(e)s
+ils (elles) eurent été développé(e)s
+
+** Futur antérieur
+
+j'aurai été développé(e)
+tu auras été développé(e)
+il (elle) aura été développé(e)
+nous aurons été développé(e)s
+vous aurez été développé(e)s
+ils (elles) auront été développé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été développé(e)
+j'aurais été développé(e)
+il (elle) aurait été développé(e)
+nous aurions été développé(e)s
+vous auriez été développé(e)s
+ils (elles) auraient été développé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été développé(e)
+que tu aies été développé(e)
+qu’il (elle) ait été développé(e)
+que nous ayons été développé(e)s
+que vous ayez été développé(e)s
+qu’ils (elles) aient été développé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été développé(e)
+que tu eusses été développé(e)
+qu’il (elle) eût été développé(e)
+que nous eussions été développé(e)s
+que vous eussiez été développé(e)s
+qu’ils (elles) eussent été développé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été développé(e)
+ayons été développé(e)s
+ayez été développé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été développé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été développé(e)(s)

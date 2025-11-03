@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe bondir
+
+* INDICATIF
+
+** Présent
+
+je bondis
+tu bondis
+il (elle) bondit
+nous bondissons
+vous bondissez
+ils (elles) bondissent
+
+** Imparfait
+
+je bondissais
+tu bondissais
+il (elle) bondissait
+nous bondissions
+vous bondissiez
+ils (elles) bondissaient
+
+** Passé simple
+
+je bondis
+tu bondis
+il (elle) bondit
+nous bondîmes
+vous bondîtes
+ils (elles) bondirent
+
+** Futur simple
+
+je bondirai
+tu bondiras
+il (elle) bondira
+nous bondirons
+vous bondirez
+ils (elles) bondiront
+
+* CONDITIONNEL
+
+** Présent
+
+je bondirais
+tu bondirais
+il (elle) bondirait
+nous bondirions
+vous bondiriez
+ils (elles) bondiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bondisse
+que tu bondisses
+qu’il (elle) bondisse
+que nous bondissions
+que vous bondissiez
+qu’ils (elles) bondissent
+
+** Imparfait
+
+que je bondisse
+que tu bondisses
+qu’il (elle) bondît
+que nous bondissions
+que vous bondissiez
+qu’ils (elles) bondissent
+
+* IMPÉRATIF
+
+** Présent
+
+bondis
+bondissons
+bondissez
+
+* INFINITIF
+
+** Présent
+
+bondir
+
+* PARTICIPE
+
+** Présent
+
+bondissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bondi
+tu as bondi
+il (elle) a bondi
+nous avons bondi
+vous avez bondi
+ils (elles) ont bondi
+
+** Plus-que-parfait
+
+j'avais bondi
+tu avais bondi
+il (elle) avait bondi
+nous avions bondi
+vous aviez bondi
+ils (elles) avaient bondi
+
+** Passé antérieur
+
+j'eus bondi
+tu eus bondi
+il (elle) eut bondi
+nous eûmes bondi
+vous eûtes bondi
+ils (elles) eurent bondi
+
+** Futur antérieur
+
+j'aurai bondi
+tu auras bondi
+il (elle) aura bondi
+nous aurons bondi
+vous aurez bondi
+ils (elles) auront bondi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bondi
+tu aurais bondi
+il (elle) aurait bondi
+nous aurions bondi
+vous auriez bondi
+ils (elles) auraient bondi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bondi
+que tu aies bondi
+qu’il (elle) ait bondi
+que nous ayons bondi
+que vous ayez bondi
+qu’ils (elles) aient bondi
+
+** Plus-que-parfait
+
+que j'eusse bondi
+que tu eusses bondi
+qu’il (elle) eût bondi
+que nous eussions bondi
+que vous eussiez bondi
+qu’ils (elles) eussent bondi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bondi
+ayez bondi
+
+* INFINITIF
+
+** Passé
+
+avoir bondi
+
+* PARTICIPE
+
+** Passé
+
+ayant bondi
+bondi (invar.)

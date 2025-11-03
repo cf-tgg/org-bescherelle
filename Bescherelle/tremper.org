@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tremper
+
+* INDICATIF
+
+** Présent
+
+je trempe
+tu trempes
+il (elle) trempe
+nous trempons
+vous trempez
+ils (elles) trempent
+
+** Imparfait
+
+je trempais
+tu trempais
+il (elle) trempait
+nous trempions
+vous trempiez
+ils (elles) trempaient
+
+** Passé simple
+
+je trempai
+tu trempas
+il (elle) trempa
+nous trempâmes
+vous trempâtes
+ils (elles) trempèrent
+
+** Futur simple
+
+je tremperai
+tu tremperas
+il (elle) trempera
+nous tremperons
+vous tremperez
+ils (elles) tremperont
+
+* CONDITIONNEL
+
+** Présent
+
+je tremperais
+tu tremperais
+il (elle) tremperait
+nous tremperions
+vous tremperiez
+ils (elles) tremperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trempe
+que tu trempes
+qu’il (elle) trempe
+que nous trempions
+que vous trempiez
+qu’ils (elles) trempent
+
+** Imparfait
+
+que je trempasse
+que tu trempasses
+qu’il (elle) trempât
+que nous trempassions
+que vous trempassiez
+qu’ils (elles) trempassent
+
+* IMPÉRATIF
+
+** Présent
+
+trempe
+trempons
+trempez
+
+* INFINITIF
+
+** Présent
+
+tremper
+
+* PARTICIPE
+
+** Présent
+
+trempant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trempé
+tu as trempé
+il (elle) a trempé
+nous avons trempé
+vous avez trempé
+ils (elles) ont trempé
+
+** Plus-que-parfait
+
+j'avais trempé
+tu avais trempé
+il (elle) avait trempé
+nous avions trempé
+vous aviez trempé
+ils (elles) avaient trempé
+
+** Passé antérieur
+
+j'eus trempé
+tu eus trempé
+il (elle) eut trempé
+nous eûmes trempé
+vous eûtes trempé
+ils (elles) eurent trempé
+
+** Futur antérieur
+
+j'aurai trempé
+tu auras trempé
+il (elle) aura trempé
+nous aurons trempé
+vous aurez trempé
+ils (elles) auront trempé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trempé
+tu aurais trempé
+il (elle) aurait trempé
+nous aurions trempé
+vous auriez trempé
+ils (elles) auraient trempé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trempé
+que tu aies trempé
+qu’il (elle) ait trempé
+que nous ayons trempé
+que vous ayez trempé
+qu’ils (elles) aient trempé
+
+** Plus-que-parfait
+
+que j'eusse trempé
+que tu eusses trempé
+qu’il (elle) eût trempé
+que nous eussions trempé
+que vous eussiez trempé
+qu’ils (elles) eussent trempé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trempé
+ayez trempé
+
+* INFINITIF
+
+** Passé
+
+avoir trempé
+
+* PARTICIPE
+
+** Passé
+
+ayant trempé
+trempé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis trempé(e)
+tu es trempé(e)
+il (elle) est trempé(e)
+nous sommes trempé(e)s
+vous êtes trempé(e)s
+ils (elles) sont trempé(e)s
+
+** Imparfait
+
+j'étais trempé(e)
+tu étais trempé(e)
+il (elle) était trempé(e)
+nous étions trempé(e)s
+vous étiez trempé(e)s
+ils (elles) étaient trempé(e)s
+
+** Passé simple
+
+je fus trempé(e)
+tu fus trempé(e)
+il (elle) fut trempé(e)
+nous fûmes trempé(e)s
+vous fûtes trempé(e)s
+ils (elles) furent trempé(e)s
+
+** Futur simple
+
+je serai trempé(e)
+tu seras trempé(e)
+il (elle) sera trempé(e)
+nous serons trempé(e)s
+vous serez trempé(e)s
+ils (elles) seront trempé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trempé(e)
+tu serais trempé(e)
+il (elle) serait trempé(e)
+nous serions trempé(e)s
+vous seriez trempé(e)s
+ils (elles) seraient trempé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trempé(e)
+que tu sois trempé(e)
+qu’il (elle) soit trempé(e)
+que nous soyons trempé(e)s
+que vous soyez trempé(e)s
+qu’ils (elles) soient trempé(e)s
+
+** Imparfait
+
+que je fusse trempé(e)
+que tu fusses trempé(e)
+qu’il (elle) fût trempé(e)
+que nous fussions trempé(e)s
+que vous fussiez trempé(e)s
+qu’ils (elles) fussent trempé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trempé(e)s
+soyez trempé(e)s
+
+* INFINITIF
+
+** Présent
+
+être trempé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trempé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trempé(e)
+tu as été trempé(e)
+il (elle) a été trempé(e)
+nous avons été trempé(e)s
+vous avez été trempé(e)s
+ils (elles) ont été trempé(e)s
+
+** Plus-que-parfait
+
+j'avais été trempé(e)
+il (elle) avait été trempé(e)
+nous avions été trempé(e)s
+ils (elles) avaient été trempé(e)s
+
+** Passé antérieur
+
+j'eus été trempé(e)
+tu eus été trempé(e)
+il (elle) eut été trempé(e)
+nous eûmes été trempé(e)s
+vous eûtes été trempé(e)s
+ils (elles) eurent été trempé(e)s
+
+** Futur antérieur
+
+j'aurai été trempé(e)
+tu auras été trempé(e)
+il (elle) aura été trempé(e)
+nous aurons été trempé(e)s
+vous aurez été trempé(e)s
+ils (elles) auront été trempé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trempé(e)
+j'aurais été trempé(e)
+il (elle) aurait été trempé(e)
+nous aurions été trempé(e)s
+vous auriez été trempé(e)s
+ils (elles) auraient été trempé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trempé(e)
+que tu aies été trempé(e)
+qu’il (elle) ait été trempé(e)
+que nous ayons été trempé(e)s
+que vous ayez été trempé(e)s
+qu’ils (elles) aient été trempé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trempé(e)
+que tu eusses été trempé(e)
+qu’il (elle) eût été trempé(e)
+que nous eussions été trempé(e)s
+que vous eussiez été trempé(e)s
+qu’ils (elles) eussent été trempé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trempé(e)
+ayons été trempé(e)s
+ayez été trempé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trempé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trempé(e)(s)

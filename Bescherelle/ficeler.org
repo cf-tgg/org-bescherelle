@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ficeler
+
+* INDICATIF
+
+** Présent
+
+je ficelle
+tu ficelles
+il (elle) ficelle
+nous ficelons
+vous ficelez
+ils (elles) ficellent
+
+** Imparfait
+
+je ficelais
+tu ficelais
+il (elle) ficelait
+nous ficelions
+vous ficeliez
+ils (elles) ficelaient
+
+** Passé simple
+
+je ficelai
+tu ficelas
+il (elle) ficela
+nous ficelâmes
+vous ficelâtes
+ils (elles) ficelèrent
+
+** Futur simple
+
+je ficellerai
+tu ficelleras
+il (elle) ficellera
+nous ficellerons
+vous ficellerez
+ils (elles) ficelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je ficellerais
+tu ficellerais
+il (elle) ficellerait
+nous ficellerions
+vous ficelleriez
+ils (elles) ficelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ficelle
+que tu ficelles
+qu’il (elle) ficelle
+que nous ficelions
+que vous ficeliez
+qu’ils (elles) ficellent
+
+** Imparfait
+
+que je ficelasse
+que tu ficelasses
+qu’il (elle) ficelât
+que nous ficelassions
+que vous ficelassiez
+qu’ils (elles) ficelassent
+
+* IMPÉRATIF
+
+** Présent
+
+ficelle
+ficelons
+ficelez
+
+* INFINITIF
+
+** Présent
+
+ficeler
+
+* PARTICIPE
+
+** Présent
+
+ficelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ficelé
+tu as ficelé
+il (elle) a ficelé
+nous avons ficelé
+vous avez ficelé
+ils (elles) ont ficelé
+
+** Plus-que-parfait
+
+j'avais ficelé
+tu avais ficelé
+il (elle) avait ficelé
+nous avions ficelé
+vous aviez ficelé
+ils (elles) avaient ficelé
+
+** Passé antérieur
+
+j'eus ficelé
+tu eus ficelé
+il (elle) eut ficelé
+nous eûmes ficelé
+vous eûtes ficelé
+ils (elles) eurent ficelé
+
+** Futur antérieur
+
+j'aurai ficelé
+tu auras ficelé
+il (elle) aura ficelé
+nous aurons ficelé
+vous aurez ficelé
+ils (elles) auront ficelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ficelé
+tu aurais ficelé
+il (elle) aurait ficelé
+nous aurions ficelé
+vous auriez ficelé
+ils (elles) auraient ficelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ficelé
+que tu aies ficelé
+qu’il (elle) ait ficelé
+que nous ayons ficelé
+que vous ayez ficelé
+qu’ils (elles) aient ficelé
+
+** Plus-que-parfait
+
+que j'eusse ficelé
+que tu eusses ficelé
+qu’il (elle) eût ficelé
+que nous eussions ficelé
+que vous eussiez ficelé
+qu’ils (elles) eussent ficelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ficelé
+ayez ficelé
+
+* INFINITIF
+
+** Passé
+
+avoir ficelé
+
+* PARTICIPE
+
+** Passé
+
+ayant ficelé
+ficelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ficelé(e)
+tu es ficelé(e)
+il (elle) est ficelé(e)
+nous sommes ficelé(e)s
+vous êtes ficelé(e)s
+ils (elles) sont ficelé(e)s
+
+** Imparfait
+
+j'étais ficelé(e)
+tu étais ficelé(e)
+il (elle) était ficelé(e)
+nous étions ficelé(e)s
+vous étiez ficelé(e)s
+ils (elles) étaient ficelé(e)s
+
+** Passé simple
+
+je fus ficelé(e)
+tu fus ficelé(e)
+il (elle) fut ficelé(e)
+nous fûmes ficelé(e)s
+vous fûtes ficelé(e)s
+ils (elles) furent ficelé(e)s
+
+** Futur simple
+
+je serai ficelé(e)
+tu seras ficelé(e)
+il (elle) sera ficelé(e)
+nous serons ficelé(e)s
+vous serez ficelé(e)s
+ils (elles) seront ficelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ficelé(e)
+tu serais ficelé(e)
+il (elle) serait ficelé(e)
+nous serions ficelé(e)s
+vous seriez ficelé(e)s
+ils (elles) seraient ficelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ficelé(e)
+que tu sois ficelé(e)
+qu’il (elle) soit ficelé(e)
+que nous soyons ficelé(e)s
+que vous soyez ficelé(e)s
+qu’ils (elles) soient ficelé(e)s
+
+** Imparfait
+
+que je fusse ficelé(e)
+que tu fusses ficelé(e)
+qu’il (elle) fût ficelé(e)
+que nous fussions ficelé(e)s
+que vous fussiez ficelé(e)s
+qu’ils (elles) fussent ficelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ficelé(e)s
+soyez ficelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ficelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ficelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ficelé(e)
+tu as été ficelé(e)
+il (elle) a été ficelé(e)
+nous avons été ficelé(e)s
+vous avez été ficelé(e)s
+ils (elles) ont été ficelé(e)s
+
+** Plus-que-parfait
+
+j'avais été ficelé(e)
+il (elle) avait été ficelé(e)
+nous avions été ficelé(e)s
+ils (elles) avaient été ficelé(e)s
+
+** Passé antérieur
+
+j'eus été ficelé(e)
+tu eus été ficelé(e)
+il (elle) eut été ficelé(e)
+nous eûmes été ficelé(e)s
+vous eûtes été ficelé(e)s
+ils (elles) eurent été ficelé(e)s
+
+** Futur antérieur
+
+j'aurai été ficelé(e)
+tu auras été ficelé(e)
+il (elle) aura été ficelé(e)
+nous aurons été ficelé(e)s
+vous aurez été ficelé(e)s
+ils (elles) auront été ficelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ficelé(e)
+j'aurais été ficelé(e)
+il (elle) aurait été ficelé(e)
+nous aurions été ficelé(e)s
+vous auriez été ficelé(e)s
+ils (elles) auraient été ficelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ficelé(e)
+que tu aies été ficelé(e)
+qu’il (elle) ait été ficelé(e)
+que nous ayons été ficelé(e)s
+que vous ayez été ficelé(e)s
+qu’ils (elles) aient été ficelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ficelé(e)
+que tu eusses été ficelé(e)
+qu’il (elle) eût été ficelé(e)
+que nous eussions été ficelé(e)s
+que vous eussiez été ficelé(e)s
+qu’ils (elles) eussent été ficelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ficelé(e)
+ayons été ficelé(e)s
+ayez été ficelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ficelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ficelé(e)(s)

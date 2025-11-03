@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe equiper
+
+* INDICATIF
+
+** Présent
+
+j'équipe
+tu équipes
+il (elle) équipe
+nous équipons
+vous équipez
+ils (elles) équipent
+
+** Imparfait
+
+j'équipais
+tu équipais
+il (elle) équipait
+nous équipions
+vous équipiez
+ils (elles) équipaient
+
+** Passé simple
+
+j'équipai
+tu équipas
+il (elle) équipa
+nous équipâmes
+vous équipâtes
+ils (elles) équipèrent
+
+** Futur simple
+
+j'équiperai
+tu équiperas
+il (elle) équipera
+nous équiperons
+vous équiperez
+ils (elles) équiperont
+
+* CONDITIONNEL
+
+** Présent
+
+j'équiperais
+tu équiperais
+il (elle) équiperait
+nous équiperions
+vous équiperiez
+ils (elles) équiperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'équipe
+que tu équipes
+qu’il (elle) équipe
+que nous équipions
+que vous équipiez
+qu’ils (elles) équipent
+
+** Imparfait
+
+que j'équipasse
+que tu équipasses
+qu’il (elle) équipât
+que nous équipassions
+que vous équipassiez
+qu’ils (elles) équipassent
+
+* IMPÉRATIF
+
+** Présent
+
+équipe
+équipons
+équipez
+
+* INFINITIF
+
+** Présent
+
+équiper
+
+* PARTICIPE
+
+** Présent
+
+équipant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai équipé
+tu as équipé
+il (elle) a équipé
+nous avons équipé
+vous avez équipé
+ils (elles) ont équipé
+
+** Plus-que-parfait
+
+j'avais équipé
+tu avais équipé
+il (elle) avait équipé
+nous avions équipé
+vous aviez équipé
+ils (elles) avaient équipé
+
+** Passé antérieur
+
+j'eus équipé
+tu eus équipé
+il (elle) eut équipé
+nous eûmes équipé
+vous eûtes équipé
+ils (elles) eurent équipé
+
+** Futur antérieur
+
+j'aurai équipé
+tu auras équipé
+il (elle) aura équipé
+nous aurons équipé
+vous aurez équipé
+ils (elles) auront équipé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais équipé
+tu aurais équipé
+il (elle) aurait équipé
+nous aurions équipé
+vous auriez équipé
+ils (elles) auraient équipé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie équipé
+que tu aies équipé
+qu’il (elle) ait équipé
+que nous ayons équipé
+que vous ayez équipé
+qu’ils (elles) aient équipé
+
+** Plus-que-parfait
+
+que j'eusse équipé
+que tu eusses équipé
+qu’il (elle) eût équipé
+que nous eussions équipé
+que vous eussiez équipé
+qu’ils (elles) eussent équipé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons équipé
+ayez équipé
+
+* INFINITIF
+
+** Passé
+
+avoir équipé
+
+* PARTICIPE
+
+** Passé
+
+ayant équipé
+équipé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis équipé(e)
+tu es équipé(e)
+il (elle) est équipé(e)
+nous sommes équipé(e)s
+vous êtes équipé(e)s
+ils (elles) sont équipé(e)s
+
+** Imparfait
+
+j'étais équipé(e)
+tu étais équipé(e)
+il (elle) était équipé(e)
+nous étions équipé(e)s
+vous étiez équipé(e)s
+ils (elles) étaient équipé(e)s
+
+** Passé simple
+
+je fus équipé(e)
+tu fus équipé(e)
+il (elle) fut équipé(e)
+nous fûmes équipé(e)s
+vous fûtes équipé(e)s
+ils (elles) furent équipé(e)s
+
+** Futur simple
+
+je serai équipé(e)
+tu seras équipé(e)
+il (elle) sera équipé(e)
+nous serons équipé(e)s
+vous serez équipé(e)s
+ils (elles) seront équipé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais équipé(e)
+tu serais équipé(e)
+il (elle) serait équipé(e)
+nous serions équipé(e)s
+vous seriez équipé(e)s
+ils (elles) seraient équipé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois équipé(e)
+que tu sois équipé(e)
+qu’il (elle) soit équipé(e)
+que nous soyons équipé(e)s
+que vous soyez équipé(e)s
+qu’ils (elles) soient équipé(e)s
+
+** Imparfait
+
+que je fusse équipé(e)
+que tu fusses équipé(e)
+qu’il (elle) fût équipé(e)
+que nous fussions équipé(e)s
+que vous fussiez équipé(e)s
+qu’ils (elles) fussent équipé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons équipé(e)s
+soyez équipé(e)s
+
+* INFINITIF
+
+** Présent
+
+être équipé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant équipé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été équipé(e)
+tu as été équipé(e)
+il (elle) a été équipé(e)
+nous avons été équipé(e)s
+vous avez été équipé(e)s
+ils (elles) ont été équipé(e)s
+
+** Plus-que-parfait
+
+j'avais été équipé(e)
+il (elle) avait été équipé(e)
+nous avions été équipé(e)s
+ils (elles) avaient été équipé(e)s
+
+** Passé antérieur
+
+j'eus été équipé(e)
+tu eus été équipé(e)
+il (elle) eut été équipé(e)
+nous eûmes été équipé(e)s
+vous eûtes été équipé(e)s
+ils (elles) eurent été équipé(e)s
+
+** Futur antérieur
+
+j'aurai été équipé(e)
+tu auras été équipé(e)
+il (elle) aura été équipé(e)
+nous aurons été équipé(e)s
+vous aurez été équipé(e)s
+ils (elles) auront été équipé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été équipé(e)
+j'aurais été équipé(e)
+il (elle) aurait été équipé(e)
+nous aurions été équipé(e)s
+vous auriez été équipé(e)s
+ils (elles) auraient été équipé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été équipé(e)
+que tu aies été équipé(e)
+qu’il (elle) ait été équipé(e)
+que nous ayons été équipé(e)s
+que vous ayez été équipé(e)s
+qu’ils (elles) aient été équipé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été équipé(e)
+que tu eusses été équipé(e)
+qu’il (elle) eût été équipé(e)
+que nous eussions été équipé(e)s
+que vous eussiez été équipé(e)s
+qu’ils (elles) eussent été équipé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été équipé(e)
+ayons été équipé(e)s
+ayez été équipé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été équipé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été équipé(e)(s)

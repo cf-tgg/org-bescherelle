@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe scanner
+
+* INDICATIF
+
+** Présent
+
+je scanne
+tu scannes
+il (elle) scanne
+nous scannons
+vous scannez
+ils (elles) scannent
+
+** Imparfait
+
+je scannais
+tu scannais
+il (elle) scannait
+nous scannions
+vous scanniez
+ils (elles) scannaient
+
+** Passé simple
+
+je scannai
+tu scannas
+il (elle) scanna
+nous scannâmes
+vous scannâtes
+ils (elles) scannèrent
+
+** Futur simple
+
+je scannerai
+tu scanneras
+il (elle) scannera
+nous scannerons
+vous scannerez
+ils (elles) scanneront
+
+* CONDITIONNEL
+
+** Présent
+
+je scannerais
+tu scannerais
+il (elle) scannerait
+nous scannerions
+vous scanneriez
+ils (elles) scanneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je scanne
+que tu scannes
+qu’il (elle) scanne
+que nous scannions
+que vous scanniez
+qu’ils (elles) scannent
+
+** Imparfait
+
+que je scannasse
+que tu scannasses
+qu’il (elle) scannât
+que nous scannassions
+que vous scannassiez
+qu’ils (elles) scannassent
+
+* IMPÉRATIF
+
+** Présent
+
+scanne
+scannons
+scannez
+
+* INFINITIF
+
+** Présent
+
+scanner
+
+* PARTICIPE
+
+** Présent
+
+scannant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai scanné
+tu as scanné
+il (elle) a scanné
+nous avons scanné
+vous avez scanné
+ils (elles) ont scanné
+
+** Plus-que-parfait
+
+j'avais scanné
+tu avais scanné
+il (elle) avait scanné
+nous avions scanné
+vous aviez scanné
+ils (elles) avaient scanné
+
+** Passé antérieur
+
+j'eus scanné
+tu eus scanné
+il (elle) eut scanné
+nous eûmes scanné
+vous eûtes scanné
+ils (elles) eurent scanné
+
+** Futur antérieur
+
+j'aurai scanné
+tu auras scanné
+il (elle) aura scanné
+nous aurons scanné
+vous aurez scanné
+ils (elles) auront scanné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais scanné
+tu aurais scanné
+il (elle) aurait scanné
+nous aurions scanné
+vous auriez scanné
+ils (elles) auraient scanné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie scanné
+que tu aies scanné
+qu’il (elle) ait scanné
+que nous ayons scanné
+que vous ayez scanné
+qu’ils (elles) aient scanné
+
+** Plus-que-parfait
+
+que j'eusse scanné
+que tu eusses scanné
+qu’il (elle) eût scanné
+que nous eussions scanné
+que vous eussiez scanné
+qu’ils (elles) eussent scanné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons scanné
+ayez scanné
+
+* INFINITIF
+
+** Passé
+
+avoir scanné
+
+* PARTICIPE
+
+** Passé
+
+ayant scanné
+scanné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis scanné(e)
+tu es scanné(e)
+il (elle) est scanné(e)
+nous sommes scanné(e)s
+vous êtes scanné(e)s
+ils (elles) sont scanné(e)s
+
+** Imparfait
+
+j'étais scanné(e)
+tu étais scanné(e)
+il (elle) était scanné(e)
+nous étions scanné(e)s
+vous étiez scanné(e)s
+ils (elles) étaient scanné(e)s
+
+** Passé simple
+
+je fus scanné(e)
+tu fus scanné(e)
+il (elle) fut scanné(e)
+nous fûmes scanné(e)s
+vous fûtes scanné(e)s
+ils (elles) furent scanné(e)s
+
+** Futur simple
+
+je serai scanné(e)
+tu seras scanné(e)
+il (elle) sera scanné(e)
+nous serons scanné(e)s
+vous serez scanné(e)s
+ils (elles) seront scanné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais scanné(e)
+tu serais scanné(e)
+il (elle) serait scanné(e)
+nous serions scanné(e)s
+vous seriez scanné(e)s
+ils (elles) seraient scanné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois scanné(e)
+que tu sois scanné(e)
+qu’il (elle) soit scanné(e)
+que nous soyons scanné(e)s
+que vous soyez scanné(e)s
+qu’ils (elles) soient scanné(e)s
+
+** Imparfait
+
+que je fusse scanné(e)
+que tu fusses scanné(e)
+qu’il (elle) fût scanné(e)
+que nous fussions scanné(e)s
+que vous fussiez scanné(e)s
+qu’ils (elles) fussent scanné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons scanné(e)s
+soyez scanné(e)s
+
+* INFINITIF
+
+** Présent
+
+être scanné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant scanné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été scanné(e)
+tu as été scanné(e)
+il (elle) a été scanné(e)
+nous avons été scanné(e)s
+vous avez été scanné(e)s
+ils (elles) ont été scanné(e)s
+
+** Plus-que-parfait
+
+j'avais été scanné(e)
+il (elle) avait été scanné(e)
+nous avions été scanné(e)s
+ils (elles) avaient été scanné(e)s
+
+** Passé antérieur
+
+j'eus été scanné(e)
+tu eus été scanné(e)
+il (elle) eut été scanné(e)
+nous eûmes été scanné(e)s
+vous eûtes été scanné(e)s
+ils (elles) eurent été scanné(e)s
+
+** Futur antérieur
+
+j'aurai été scanné(e)
+tu auras été scanné(e)
+il (elle) aura été scanné(e)
+nous aurons été scanné(e)s
+vous aurez été scanné(e)s
+ils (elles) auront été scanné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été scanné(e)
+j'aurais été scanné(e)
+il (elle) aurait été scanné(e)
+nous aurions été scanné(e)s
+vous auriez été scanné(e)s
+ils (elles) auraient été scanné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été scanné(e)
+que tu aies été scanné(e)
+qu’il (elle) ait été scanné(e)
+que nous ayons été scanné(e)s
+que vous ayez été scanné(e)s
+qu’ils (elles) aient été scanné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été scanné(e)
+que tu eusses été scanné(e)
+qu’il (elle) eût été scanné(e)
+que nous eussions été scanné(e)s
+que vous eussiez été scanné(e)s
+qu’ils (elles) eussent été scanné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été scanné(e)
+ayons été scanné(e)s
+ayez été scanné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été scanné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été scanné(e)(s)

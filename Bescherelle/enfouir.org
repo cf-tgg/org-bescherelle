@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enfouir
+
+* INDICATIF
+
+** Présent
+
+j'enfouis
+tu enfouis
+il (elle) enfouit
+nous enfouissons
+vous enfouissez
+ils (elles) enfouissent
+
+** Imparfait
+
+j'enfouissais
+tu enfouissais
+il (elle) enfouissait
+nous enfouissions
+vous enfouissiez
+ils (elles) enfouissaient
+
+** Passé simple
+
+j'enfouis
+tu enfouis
+il (elle) enfouit
+nous enfouîmes
+vous enfouîtes
+ils (elles) enfouirent
+
+** Futur simple
+
+j'enfouirai
+tu enfouiras
+il (elle) enfouira
+nous enfouirons
+vous enfouirez
+ils (elles) enfouiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enfouirais
+tu enfouirais
+il (elle) enfouirait
+nous enfouirions
+vous enfouiriez
+ils (elles) enfouiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enfouisse
+que tu enfouisses
+qu’il (elle) enfouisse
+que nous enfouissions
+que vous enfouissiez
+qu’ils (elles) enfouissent
+
+** Imparfait
+
+que j'enfouisse
+que tu enfouisses
+qu’il (elle) enfouît
+que nous enfouissions
+que vous enfouissiez
+qu’ils (elles) enfouissent
+
+* IMPÉRATIF
+
+** Présent
+
+enfouis
+enfouissons
+enfouissez
+
+* INFINITIF
+
+** Présent
+
+enfouir
+
+* PARTICIPE
+
+** Présent
+
+enfouissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enfoui
+tu as enfoui
+il (elle) a enfoui
+nous avons enfoui
+vous avez enfoui
+ils (elles) ont enfoui
+
+** Plus-que-parfait
+
+j'avais enfoui
+tu avais enfoui
+il (elle) avait enfoui
+nous avions enfoui
+vous aviez enfoui
+ils (elles) avaient enfoui
+
+** Passé antérieur
+
+j'eus enfoui
+tu eus enfoui
+il (elle) eut enfoui
+nous eûmes enfoui
+vous eûtes enfoui
+ils (elles) eurent enfoui
+
+** Futur antérieur
+
+j'aurai enfoui
+tu auras enfoui
+il (elle) aura enfoui
+nous aurons enfoui
+vous aurez enfoui
+ils (elles) auront enfoui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enfoui
+tu aurais enfoui
+il (elle) aurait enfoui
+nous aurions enfoui
+vous auriez enfoui
+ils (elles) auraient enfoui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enfoui
+que tu aies enfoui
+qu’il (elle) ait enfoui
+que nous ayons enfoui
+que vous ayez enfoui
+qu’ils (elles) aient enfoui
+
+** Plus-que-parfait
+
+que j'eusse enfoui
+que tu eusses enfoui
+qu’il (elle) eût enfoui
+que nous eussions enfoui
+que vous eussiez enfoui
+qu’ils (elles) eussent enfoui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enfoui
+ayez enfoui
+
+* INFINITIF
+
+** Passé
+
+avoir enfoui
+
+* PARTICIPE
+
+** Passé
+
+ayant enfoui
+enfoui (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis enfoui(e)
+tu es enfoui(e)
+il (elle) est enfoui(e)
+nous sommes enfoui(e)s
+vous êtes enfoui(e)s
+ils (elles) sont enfoui(e)s
+
+** Imparfait
+
+j'étais enfoui(e)
+tu étais enfoui(e)
+il (elle) était enfoui(e)
+nous étions enfoui(e)s
+vous étiez enfoui(e)s
+ils (elles) étaient enfoui(e)s
+
+** Passé simple
+
+je fus enfoui(e)
+tu fus enfoui(e)
+il (elle) fut enfoui(e)
+nous fûmes enfoui(e)s
+vous fûtes enfoui(e)s
+ils (elles) furent enfoui(e)s
+
+** Futur simple
+
+je serai enfoui(e)
+tu seras enfoui(e)
+il (elle) sera enfoui(e)
+nous serons enfoui(e)s
+vous serez enfoui(e)s
+ils (elles) seront enfoui(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enfoui(e)
+tu serais enfoui(e)
+il (elle) serait enfoui(e)
+nous serions enfoui(e)s
+vous seriez enfoui(e)s
+ils (elles) seraient enfoui(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enfoui(e)
+que tu sois enfoui(e)
+qu’il (elle) soit enfoui(e)
+que nous soyons enfoui(e)s
+que vous soyez enfoui(e)s
+qu’ils (elles) soient enfoui(e)s
+
+** Imparfait
+
+que je fusse enfoui(e)
+que tu fusses enfoui(e)
+qu’il (elle) fût enfoui(e)
+que nous fussions enfoui(e)s
+que vous fussiez enfoui(e)s
+qu’ils (elles) fussent enfoui(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enfoui(e)s
+soyez enfoui(e)s
+
+* INFINITIF
+
+** Présent
+
+être enfoui(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enfoui(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enfoui(e)
+tu as été enfoui(e)
+il (elle) a été enfoui(e)
+nous avons été enfoui(e)s
+vous avez été enfoui(e)s
+ils (elles) ont été enfoui(e)s
+
+** Plus-que-parfait
+
+j'avais été enfoui(e)
+il (elle) avait été enfoui(e)
+nous avions été enfoui(e)s
+ils (elles) avaient été enfoui(e)s
+
+** Passé antérieur
+
+j'eus été enfoui(e)
+tu eus été enfoui(e)
+il (elle) eut été enfoui(e)
+nous eûmes été enfoui(e)s
+vous eûtes été enfoui(e)s
+ils (elles) eurent été enfoui(e)s
+
+** Futur antérieur
+
+j'aurai été enfoui(e)
+tu auras été enfoui(e)
+il (elle) aura été enfoui(e)
+nous aurons été enfoui(e)s
+vous aurez été enfoui(e)s
+ils (elles) auront été enfoui(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enfoui(e)
+j'aurais été enfoui(e)
+il (elle) aurait été enfoui(e)
+nous aurions été enfoui(e)s
+vous auriez été enfoui(e)s
+ils (elles) auraient été enfoui(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enfoui(e)
+que tu aies été enfoui(e)
+qu’il (elle) ait été enfoui(e)
+que nous ayons été enfoui(e)s
+que vous ayez été enfoui(e)s
+qu’ils (elles) aient été enfoui(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enfoui(e)
+que tu eusses été enfoui(e)
+qu’il (elle) eût été enfoui(e)
+que nous eussions été enfoui(e)s
+que vous eussiez été enfoui(e)s
+qu’ils (elles) eussent été enfoui(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enfoui(e)
+ayons été enfoui(e)s
+ayez été enfoui(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enfoui(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enfoui(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe manifester
+
+* INDICATIF
+
+** Présent
+
+je manifeste
+tu manifestes
+il (elle) manifeste
+nous manifestons
+vous manifestez
+ils (elles) manifestent
+
+** Imparfait
+
+je manifestais
+tu manifestais
+il (elle) manifestait
+nous manifestions
+vous manifestiez
+ils (elles) manifestaient
+
+** Passé simple
+
+je manifestai
+tu manifestas
+il (elle) manifesta
+nous manifestâmes
+vous manifestâtes
+ils (elles) manifestèrent
+
+** Futur simple
+
+je manifesterai
+tu manifesteras
+il (elle) manifestera
+nous manifesterons
+vous manifesterez
+ils (elles) manifesteront
+
+* CONDITIONNEL
+
+** Présent
+
+je manifesterais
+tu manifesterais
+il (elle) manifesterait
+nous manifesterions
+vous manifesteriez
+ils (elles) manifesteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je manifeste
+que tu manifestes
+qu’il (elle) manifeste
+que nous manifestions
+que vous manifestiez
+qu’ils (elles) manifestent
+
+** Imparfait
+
+que je manifestasse
+que tu manifestasses
+qu’il (elle) manifestât
+que nous manifestassions
+que vous manifestassiez
+qu’ils (elles) manifestassent
+
+* IMPÉRATIF
+
+** Présent
+
+manifeste
+manifestons
+manifestez
+
+* INFINITIF
+
+** Présent
+
+manifester
+
+* PARTICIPE
+
+** Présent
+
+manifestant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai manifesté
+tu as manifesté
+il (elle) a manifesté
+nous avons manifesté
+vous avez manifesté
+ils (elles) ont manifesté
+
+** Plus-que-parfait
+
+j'avais manifesté
+tu avais manifesté
+il (elle) avait manifesté
+nous avions manifesté
+vous aviez manifesté
+ils (elles) avaient manifesté
+
+** Passé antérieur
+
+j'eus manifesté
+tu eus manifesté
+il (elle) eut manifesté
+nous eûmes manifesté
+vous eûtes manifesté
+ils (elles) eurent manifesté
+
+** Futur antérieur
+
+j'aurai manifesté
+tu auras manifesté
+il (elle) aura manifesté
+nous aurons manifesté
+vous aurez manifesté
+ils (elles) auront manifesté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais manifesté
+tu aurais manifesté
+il (elle) aurait manifesté
+nous aurions manifesté
+vous auriez manifesté
+ils (elles) auraient manifesté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie manifesté
+que tu aies manifesté
+qu’il (elle) ait manifesté
+que nous ayons manifesté
+que vous ayez manifesté
+qu’ils (elles) aient manifesté
+
+** Plus-que-parfait
+
+que j'eusse manifesté
+que tu eusses manifesté
+qu’il (elle) eût manifesté
+que nous eussions manifesté
+que vous eussiez manifesté
+qu’ils (elles) eussent manifesté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons manifesté
+ayez manifesté
+
+* INFINITIF
+
+** Passé
+
+avoir manifesté
+
+* PARTICIPE
+
+** Passé
+
+ayant manifesté
+manifesté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis manifesté(e)
+tu es manifesté(e)
+il (elle) est manifesté(e)
+nous sommes manifesté(e)s
+vous êtes manifesté(e)s
+ils (elles) sont manifesté(e)s
+
+** Imparfait
+
+j'étais manifesté(e)
+tu étais manifesté(e)
+il (elle) était manifesté(e)
+nous étions manifesté(e)s
+vous étiez manifesté(e)s
+ils (elles) étaient manifesté(e)s
+
+** Passé simple
+
+je fus manifesté(e)
+tu fus manifesté(e)
+il (elle) fut manifesté(e)
+nous fûmes manifesté(e)s
+vous fûtes manifesté(e)s
+ils (elles) furent manifesté(e)s
+
+** Futur simple
+
+je serai manifesté(e)
+tu seras manifesté(e)
+il (elle) sera manifesté(e)
+nous serons manifesté(e)s
+vous serez manifesté(e)s
+ils (elles) seront manifesté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais manifesté(e)
+tu serais manifesté(e)
+il (elle) serait manifesté(e)
+nous serions manifesté(e)s
+vous seriez manifesté(e)s
+ils (elles) seraient manifesté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois manifesté(e)
+que tu sois manifesté(e)
+qu’il (elle) soit manifesté(e)
+que nous soyons manifesté(e)s
+que vous soyez manifesté(e)s
+qu’ils (elles) soient manifesté(e)s
+
+** Imparfait
+
+que je fusse manifesté(e)
+que tu fusses manifesté(e)
+qu’il (elle) fût manifesté(e)
+que nous fussions manifesté(e)s
+que vous fussiez manifesté(e)s
+qu’ils (elles) fussent manifesté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons manifesté(e)s
+soyez manifesté(e)s
+
+* INFINITIF
+
+** Présent
+
+être manifesté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant manifesté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été manifesté(e)
+tu as été manifesté(e)
+il (elle) a été manifesté(e)
+nous avons été manifesté(e)s
+vous avez été manifesté(e)s
+ils (elles) ont été manifesté(e)s
+
+** Plus-que-parfait
+
+j'avais été manifesté(e)
+il (elle) avait été manifesté(e)
+nous avions été manifesté(e)s
+ils (elles) avaient été manifesté(e)s
+
+** Passé antérieur
+
+j'eus été manifesté(e)
+tu eus été manifesté(e)
+il (elle) eut été manifesté(e)
+nous eûmes été manifesté(e)s
+vous eûtes été manifesté(e)s
+ils (elles) eurent été manifesté(e)s
+
+** Futur antérieur
+
+j'aurai été manifesté(e)
+tu auras été manifesté(e)
+il (elle) aura été manifesté(e)
+nous aurons été manifesté(e)s
+vous aurez été manifesté(e)s
+ils (elles) auront été manifesté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été manifesté(e)
+j'aurais été manifesté(e)
+il (elle) aurait été manifesté(e)
+nous aurions été manifesté(e)s
+vous auriez été manifesté(e)s
+ils (elles) auraient été manifesté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été manifesté(e)
+que tu aies été manifesté(e)
+qu’il (elle) ait été manifesté(e)
+que nous ayons été manifesté(e)s
+que vous ayez été manifesté(e)s
+qu’ils (elles) aient été manifesté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été manifesté(e)
+que tu eusses été manifesté(e)
+qu’il (elle) eût été manifesté(e)
+que nous eussions été manifesté(e)s
+que vous eussiez été manifesté(e)s
+qu’ils (elles) eussent été manifesté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été manifesté(e)
+ayons été manifesté(e)s
+ayez été manifesté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été manifesté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été manifesté(e)(s)

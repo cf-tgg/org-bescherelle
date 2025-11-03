@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe primer
+
+* INDICATIF
+
+** Présent
+
+je prime
+tu primes
+il (elle) prime
+nous primons
+vous primez
+ils (elles) priment
+
+** Imparfait
+
+je primais
+tu primais
+il (elle) primait
+nous primions
+vous primiez
+ils (elles) primaient
+
+** Passé simple
+
+je primai
+tu primas
+il (elle) prima
+nous primâmes
+vous primâtes
+ils (elles) primèrent
+
+** Futur simple
+
+je primerai
+tu primeras
+il (elle) primera
+nous primerons
+vous primerez
+ils (elles) primeront
+
+* CONDITIONNEL
+
+** Présent
+
+je primerais
+tu primerais
+il (elle) primerait
+nous primerions
+vous primeriez
+ils (elles) primeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prime
+que tu primes
+qu’il (elle) prime
+que nous primions
+que vous primiez
+qu’ils (elles) priment
+
+** Imparfait
+
+que je primasse
+que tu primasses
+qu’il (elle) primât
+que nous primassions
+que vous primassiez
+qu’ils (elles) primassent
+
+* IMPÉRATIF
+
+** Présent
+
+prime
+primons
+primez
+
+* INFINITIF
+
+** Présent
+
+primer
+
+* PARTICIPE
+
+** Présent
+
+primant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai primé
+tu as primé
+il (elle) a primé
+nous avons primé
+vous avez primé
+ils (elles) ont primé
+
+** Plus-que-parfait
+
+j'avais primé
+tu avais primé
+il (elle) avait primé
+nous avions primé
+vous aviez primé
+ils (elles) avaient primé
+
+** Passé antérieur
+
+j'eus primé
+tu eus primé
+il (elle) eut primé
+nous eûmes primé
+vous eûtes primé
+ils (elles) eurent primé
+
+** Futur antérieur
+
+j'aurai primé
+tu auras primé
+il (elle) aura primé
+nous aurons primé
+vous aurez primé
+ils (elles) auront primé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais primé
+tu aurais primé
+il (elle) aurait primé
+nous aurions primé
+vous auriez primé
+ils (elles) auraient primé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie primé
+que tu aies primé
+qu’il (elle) ait primé
+que nous ayons primé
+que vous ayez primé
+qu’ils (elles) aient primé
+
+** Plus-que-parfait
+
+que j'eusse primé
+que tu eusses primé
+qu’il (elle) eût primé
+que nous eussions primé
+que vous eussiez primé
+qu’ils (elles) eussent primé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons primé
+ayez primé
+
+* INFINITIF
+
+** Passé
+
+avoir primé
+
+* PARTICIPE
+
+** Passé
+
+ayant primé
+primé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis primé(e)
+tu es primé(e)
+il (elle) est primé(e)
+nous sommes primé(e)s
+vous êtes primé(e)s
+ils (elles) sont primé(e)s
+
+** Imparfait
+
+j'étais primé(e)
+tu étais primé(e)
+il (elle) était primé(e)
+nous étions primé(e)s
+vous étiez primé(e)s
+ils (elles) étaient primé(e)s
+
+** Passé simple
+
+je fus primé(e)
+tu fus primé(e)
+il (elle) fut primé(e)
+nous fûmes primé(e)s
+vous fûtes primé(e)s
+ils (elles) furent primé(e)s
+
+** Futur simple
+
+je serai primé(e)
+tu seras primé(e)
+il (elle) sera primé(e)
+nous serons primé(e)s
+vous serez primé(e)s
+ils (elles) seront primé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais primé(e)
+tu serais primé(e)
+il (elle) serait primé(e)
+nous serions primé(e)s
+vous seriez primé(e)s
+ils (elles) seraient primé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois primé(e)
+que tu sois primé(e)
+qu’il (elle) soit primé(e)
+que nous soyons primé(e)s
+que vous soyez primé(e)s
+qu’ils (elles) soient primé(e)s
+
+** Imparfait
+
+que je fusse primé(e)
+que tu fusses primé(e)
+qu’il (elle) fût primé(e)
+que nous fussions primé(e)s
+que vous fussiez primé(e)s
+qu’ils (elles) fussent primé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons primé(e)s
+soyez primé(e)s
+
+* INFINITIF
+
+** Présent
+
+être primé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant primé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été primé(e)
+tu as été primé(e)
+il (elle) a été primé(e)
+nous avons été primé(e)s
+vous avez été primé(e)s
+ils (elles) ont été primé(e)s
+
+** Plus-que-parfait
+
+j'avais été primé(e)
+il (elle) avait été primé(e)
+nous avions été primé(e)s
+ils (elles) avaient été primé(e)s
+
+** Passé antérieur
+
+j'eus été primé(e)
+tu eus été primé(e)
+il (elle) eut été primé(e)
+nous eûmes été primé(e)s
+vous eûtes été primé(e)s
+ils (elles) eurent été primé(e)s
+
+** Futur antérieur
+
+j'aurai été primé(e)
+tu auras été primé(e)
+il (elle) aura été primé(e)
+nous aurons été primé(e)s
+vous aurez été primé(e)s
+ils (elles) auront été primé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été primé(e)
+j'aurais été primé(e)
+il (elle) aurait été primé(e)
+nous aurions été primé(e)s
+vous auriez été primé(e)s
+ils (elles) auraient été primé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été primé(e)
+que tu aies été primé(e)
+qu’il (elle) ait été primé(e)
+que nous ayons été primé(e)s
+que vous ayez été primé(e)s
+qu’ils (elles) aient été primé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été primé(e)
+que tu eusses été primé(e)
+qu’il (elle) eût été primé(e)
+que nous eussions été primé(e)s
+que vous eussiez été primé(e)s
+qu’ils (elles) eussent été primé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été primé(e)
+ayons été primé(e)s
+ayez été primé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été primé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été primé(e)(s)

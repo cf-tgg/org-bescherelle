@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etirer
+
+* INDICATIF
+
+** Présent
+
+j'étire
+tu étires
+il (elle) étire
+nous étirons
+vous étirez
+ils (elles) étirent
+
+** Imparfait
+
+j'étirais
+tu étirais
+il (elle) étirait
+nous étirions
+vous étiriez
+ils (elles) étiraient
+
+** Passé simple
+
+j'étirai
+tu étiras
+il (elle) étira
+nous étirâmes
+vous étirâtes
+ils (elles) étirèrent
+
+** Futur simple
+
+j'étirerai
+tu étireras
+il (elle) étirera
+nous étirerons
+vous étirerez
+ils (elles) étireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étirerais
+tu étirerais
+il (elle) étirerait
+nous étirerions
+vous étireriez
+ils (elles) étireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étire
+que tu étires
+qu’il (elle) étire
+que nous étirions
+que vous étiriez
+qu’ils (elles) étirent
+
+** Imparfait
+
+que j'étirasse
+que tu étirasses
+qu’il (elle) étirât
+que nous étirassions
+que vous étirassiez
+qu’ils (elles) étirassent
+
+* IMPÉRATIF
+
+** Présent
+
+étire
+étirons
+étirez
+
+* INFINITIF
+
+** Présent
+
+étirer
+
+* PARTICIPE
+
+** Présent
+
+étirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étiré
+tu as étiré
+il (elle) a étiré
+nous avons étiré
+vous avez étiré
+ils (elles) ont étiré
+
+** Plus-que-parfait
+
+j'avais étiré
+tu avais étiré
+il (elle) avait étiré
+nous avions étiré
+vous aviez étiré
+ils (elles) avaient étiré
+
+** Passé antérieur
+
+j'eus étiré
+tu eus étiré
+il (elle) eut étiré
+nous eûmes étiré
+vous eûtes étiré
+ils (elles) eurent étiré
+
+** Futur antérieur
+
+j'aurai étiré
+tu auras étiré
+il (elle) aura étiré
+nous aurons étiré
+vous aurez étiré
+ils (elles) auront étiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étiré
+tu aurais étiré
+il (elle) aurait étiré
+nous aurions étiré
+vous auriez étiré
+ils (elles) auraient étiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étiré
+que tu aies étiré
+qu’il (elle) ait étiré
+que nous ayons étiré
+que vous ayez étiré
+qu’ils (elles) aient étiré
+
+** Plus-que-parfait
+
+que j'eusse étiré
+que tu eusses étiré
+qu’il (elle) eût étiré
+que nous eussions étiré
+que vous eussiez étiré
+qu’ils (elles) eussent étiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étiré
+ayez étiré
+
+* INFINITIF
+
+** Passé
+
+avoir étiré
+
+* PARTICIPE
+
+** Passé
+
+ayant étiré
+étiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis étiré(e)
+tu es étiré(e)
+il (elle) est étiré(e)
+nous sommes étiré(e)s
+vous êtes étiré(e)s
+ils (elles) sont étiré(e)s
+
+** Imparfait
+
+j'étais étiré(e)
+tu étais étiré(e)
+il (elle) était étiré(e)
+nous étions étiré(e)s
+vous étiez étiré(e)s
+ils (elles) étaient étiré(e)s
+
+** Passé simple
+
+je fus étiré(e)
+tu fus étiré(e)
+il (elle) fut étiré(e)
+nous fûmes étiré(e)s
+vous fûtes étiré(e)s
+ils (elles) furent étiré(e)s
+
+** Futur simple
+
+je serai étiré(e)
+tu seras étiré(e)
+il (elle) sera étiré(e)
+nous serons étiré(e)s
+vous serez étiré(e)s
+ils (elles) seront étiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais étiré(e)
+tu serais étiré(e)
+il (elle) serait étiré(e)
+nous serions étiré(e)s
+vous seriez étiré(e)s
+ils (elles) seraient étiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois étiré(e)
+que tu sois étiré(e)
+qu’il (elle) soit étiré(e)
+que nous soyons étiré(e)s
+que vous soyez étiré(e)s
+qu’ils (elles) soient étiré(e)s
+
+** Imparfait
+
+que je fusse étiré(e)
+que tu fusses étiré(e)
+qu’il (elle) fût étiré(e)
+que nous fussions étiré(e)s
+que vous fussiez étiré(e)s
+qu’ils (elles) fussent étiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons étiré(e)s
+soyez étiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être étiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant étiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été étiré(e)
+tu as été étiré(e)
+il (elle) a été étiré(e)
+nous avons été étiré(e)s
+vous avez été étiré(e)s
+ils (elles) ont été étiré(e)s
+
+** Plus-que-parfait
+
+j'avais été étiré(e)
+il (elle) avait été étiré(e)
+nous avions été étiré(e)s
+ils (elles) avaient été étiré(e)s
+
+** Passé antérieur
+
+j'eus été étiré(e)
+tu eus été étiré(e)
+il (elle) eut été étiré(e)
+nous eûmes été étiré(e)s
+vous eûtes été étiré(e)s
+ils (elles) eurent été étiré(e)s
+
+** Futur antérieur
+
+j'aurai été étiré(e)
+tu auras été étiré(e)
+il (elle) aura été étiré(e)
+nous aurons été étiré(e)s
+vous aurez été étiré(e)s
+ils (elles) auront été étiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été étiré(e)
+j'aurais été étiré(e)
+il (elle) aurait été étiré(e)
+nous aurions été étiré(e)s
+vous auriez été étiré(e)s
+ils (elles) auraient été étiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été étiré(e)
+que tu aies été étiré(e)
+qu’il (elle) ait été étiré(e)
+que nous ayons été étiré(e)s
+que vous ayez été étiré(e)s
+qu’ils (elles) aient été étiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été étiré(e)
+que tu eusses été étiré(e)
+qu’il (elle) eût été étiré(e)
+que nous eussions été étiré(e)s
+que vous eussiez été étiré(e)s
+qu’ils (elles) eussent été étiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été étiré(e)
+ayons été étiré(e)s
+ayez été étiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été étiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été étiré(e)(s)

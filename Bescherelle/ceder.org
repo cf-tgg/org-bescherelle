@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ceder
+
+* INDICATIF
+
+** Présent
+
+je cède
+tu cèdes
+il (elle) cède
+nous cédons
+vous cédez
+ils (elles) cèdent
+
+** Imparfait
+
+je cédais
+tu cédais
+il (elle) cédait
+nous cédions
+vous cédiez
+ils (elles) cédaient
+
+** Passé simple
+
+je cédai
+tu cédas
+il (elle) céda
+nous cédâmes
+vous cédâtes
+ils (elles) cédèrent
+
+** Futur simple
+
+je céderai
+tu céderas
+il (elle) cédera
+nous céderons
+vous céderez
+ils (elles) céderont
+
+* CONDITIONNEL
+
+** Présent
+
+je céderais
+tu céderais
+il (elle) céderait
+nous céderions
+vous céderiez
+ils (elles) céderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cède
+que tu cèdes
+qu’il (elle) cède
+que nous cédions
+que vous cédiez
+qu’ils (elles) cèdent
+
+** Imparfait
+
+que je cédasse
+que tu cédasses
+qu’il (elle) cédât
+que nous cédassions
+que vous cédassiez
+qu’ils (elles) cédassent
+
+* IMPÉRATIF
+
+** Présent
+
+cède
+cédons
+cédez
+
+* INFINITIF
+
+** Présent
+
+céder
+
+* PARTICIPE
+
+** Présent
+
+cédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cédé
+tu as cédé
+il (elle) a cédé
+nous avons cédé
+vous avez cédé
+ils (elles) ont cédé
+
+** Plus-que-parfait
+
+j'avais cédé
+tu avais cédé
+il (elle) avait cédé
+nous avions cédé
+vous aviez cédé
+ils (elles) avaient cédé
+
+** Passé antérieur
+
+j'eus cédé
+tu eus cédé
+il (elle) eut cédé
+nous eûmes cédé
+vous eûtes cédé
+ils (elles) eurent cédé
+
+** Futur antérieur
+
+j'aurai cédé
+tu auras cédé
+il (elle) aura cédé
+nous aurons cédé
+vous aurez cédé
+ils (elles) auront cédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cédé
+tu aurais cédé
+il (elle) aurait cédé
+nous aurions cédé
+vous auriez cédé
+ils (elles) auraient cédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cédé
+que tu aies cédé
+qu’il (elle) ait cédé
+que nous ayons cédé
+que vous ayez cédé
+qu’ils (elles) aient cédé
+
+** Plus-que-parfait
+
+que j'eusse cédé
+que tu eusses cédé
+qu’il (elle) eût cédé
+que nous eussions cédé
+que vous eussiez cédé
+qu’ils (elles) eussent cédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cédé
+ayez cédé
+
+* INFINITIF
+
+** Passé
+
+avoir cédé
+
+* PARTICIPE
+
+** Passé
+
+ayant cédé
+cédé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cédé(e)
+tu es cédé(e)
+il (elle) est cédé(e)
+nous sommes cédé(e)s
+vous êtes cédé(e)s
+ils (elles) sont cédé(e)s
+
+** Imparfait
+
+j'étais cédé(e)
+tu étais cédé(e)
+il (elle) était cédé(e)
+nous étions cédé(e)s
+vous étiez cédé(e)s
+ils (elles) étaient cédé(e)s
+
+** Passé simple
+
+je fus cédé(e)
+tu fus cédé(e)
+il (elle) fut cédé(e)
+nous fûmes cédé(e)s
+vous fûtes cédé(e)s
+ils (elles) furent cédé(e)s
+
+** Futur simple
+
+je serai cédé(e)
+tu seras cédé(e)
+il (elle) sera cédé(e)
+nous serons cédé(e)s
+vous serez cédé(e)s
+ils (elles) seront cédé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cédé(e)
+tu serais cédé(e)
+il (elle) serait cédé(e)
+nous serions cédé(e)s
+vous seriez cédé(e)s
+ils (elles) seraient cédé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cédé(e)
+que tu sois cédé(e)
+qu’il (elle) soit cédé(e)
+que nous soyons cédé(e)s
+que vous soyez cédé(e)s
+qu’ils (elles) soient cédé(e)s
+
+** Imparfait
+
+que je fusse cédé(e)
+que tu fusses cédé(e)
+qu’il (elle) fût cédé(e)
+que nous fussions cédé(e)s
+que vous fussiez cédé(e)s
+qu’ils (elles) fussent cédé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cédé(e)s
+soyez cédé(e)s
+
+* INFINITIF
+
+** Présent
+
+être cédé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cédé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cédé(e)
+tu as été cédé(e)
+il (elle) a été cédé(e)
+nous avons été cédé(e)s
+vous avez été cédé(e)s
+ils (elles) ont été cédé(e)s
+
+** Plus-que-parfait
+
+j'avais été cédé(e)
+il (elle) avait été cédé(e)
+nous avions été cédé(e)s
+ils (elles) avaient été cédé(e)s
+
+** Passé antérieur
+
+j'eus été cédé(e)
+tu eus été cédé(e)
+il (elle) eut été cédé(e)
+nous eûmes été cédé(e)s
+vous eûtes été cédé(e)s
+ils (elles) eurent été cédé(e)s
+
+** Futur antérieur
+
+j'aurai été cédé(e)
+tu auras été cédé(e)
+il (elle) aura été cédé(e)
+nous aurons été cédé(e)s
+vous aurez été cédé(e)s
+ils (elles) auront été cédé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cédé(e)
+j'aurais été cédé(e)
+il (elle) aurait été cédé(e)
+nous aurions été cédé(e)s
+vous auriez été cédé(e)s
+ils (elles) auraient été cédé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cédé(e)
+que tu aies été cédé(e)
+qu’il (elle) ait été cédé(e)
+que nous ayons été cédé(e)s
+que vous ayez été cédé(e)s
+qu’ils (elles) aient été cédé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cédé(e)
+que tu eusses été cédé(e)
+qu’il (elle) eût été cédé(e)
+que nous eussions été cédé(e)s
+que vous eussiez été cédé(e)s
+qu’ils (elles) eussent été cédé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cédé(e)
+ayons été cédé(e)s
+ayez été cédé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cédé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cédé(e)(s)

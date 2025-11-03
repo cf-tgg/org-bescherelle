@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enduire
+
+* INDICATIF
+
+** Présent
+
+j'enduis
+tu enduis
+il (elle) enduit
+nous enduisons
+vous enduisez
+ils (elles) enduisent
+
+** Imparfait
+
+j'enduisais
+tu enduisais
+il (elle) enduisait
+nous enduisions
+vous enduisiez
+ils (elles) enduisaient
+
+** Passé simple
+
+j'enduisis
+tu enduisis
+il (elle) enduisit
+nous enduisîmes
+vous enduisîtes
+ils (elles) enduisirent
+
+** Futur simple
+
+j'enduirai
+tu enduiras
+il (elle) enduira
+nous enduirons
+vous enduirez
+ils (elles) enduiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enduirais
+tu enduirais
+il (elle) enduirait
+nous enduirions
+vous enduiriez
+ils (elles) enduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enduise
+que tu enduises
+qu’il (elle) enduise
+que nous enduisions
+que vous enduisiez
+qu’ils (elles) enduisent
+
+** Imparfait
+
+que j'enduisisse
+que tu enduisisses
+qu’il (elle) enduisît
+que nous enduisissions
+que vous enduisissiez
+qu’ils (elles) enduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+enduis
+enduisons
+enduisez
+
+* INFINITIF
+
+** Présent
+
+enduire
+
+* PARTICIPE
+
+** Présent
+
+enduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enduit
+tu as enduit
+il (elle) a enduit
+nous avons enduit
+vous avez enduit
+ils (elles) ont enduit
+
+** Plus-que-parfait
+
+j'avais enduit
+tu avais enduit
+il (elle) avait enduit
+nous avions enduit
+vous aviez enduit
+ils (elles) avaient enduit
+
+** Passé antérieur
+
+j'eus enduit
+tu eus enduit
+il (elle) eut enduit
+nous eûmes enduit
+vous eûtes enduit
+ils (elles) eurent enduit
+
+** Futur antérieur
+
+j'aurai enduit
+tu auras enduit
+il (elle) aura enduit
+nous aurons enduit
+vous aurez enduit
+ils (elles) auront enduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enduit
+tu aurais enduit
+il (elle) aurait enduit
+nous aurions enduit
+vous auriez enduit
+ils (elles) auraient enduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enduit
+que tu aies enduit
+qu’il (elle) ait enduit
+que nous ayons enduit
+que vous ayez enduit
+qu’ils (elles) aient enduit
+
+** Plus-que-parfait
+
+que j'eusse enduit
+que tu eusses enduit
+qu’il (elle) eût enduit
+que nous eussions enduit
+que vous eussiez enduit
+qu’ils (elles) eussent enduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enduit
+ayez enduit
+
+* INFINITIF
+
+** Passé
+
+avoir enduit
+
+* PARTICIPE
+
+** Passé
+
+ayant enduit
+enduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis enduit(e)
+tu es enduit(e)
+il (elle) est enduit(e)
+nous sommes enduit(e)s
+vous êtes enduit(e)s
+ils (elles) sont enduit(e)s
+
+** Imparfait
+
+j'étais enduit(e)
+tu étais enduit(e)
+il (elle) était enduit(e)
+nous étions enduit(e)s
+vous étiez enduit(e)s
+ils (elles) étaient enduit(e)s
+
+** Passé simple
+
+je fus enduit(e)
+tu fus enduit(e)
+il (elle) fut enduit(e)
+nous fûmes enduit(e)s
+vous fûtes enduit(e)s
+ils (elles) furent enduit(e)s
+
+** Futur simple
+
+je serai enduit(e)
+tu seras enduit(e)
+il (elle) sera enduit(e)
+nous serons enduit(e)s
+vous serez enduit(e)s
+ils (elles) seront enduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enduit(e)
+tu serais enduit(e)
+il (elle) serait enduit(e)
+nous serions enduit(e)s
+vous seriez enduit(e)s
+ils (elles) seraient enduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enduit(e)
+que tu sois enduit(e)
+qu’il (elle) soit enduit(e)
+que nous soyons enduit(e)s
+que vous soyez enduit(e)s
+qu’ils (elles) soient enduit(e)s
+
+** Imparfait
+
+que je fusse enduit(e)
+que tu fusses enduit(e)
+qu’il (elle) fût enduit(e)
+que nous fussions enduit(e)s
+que vous fussiez enduit(e)s
+qu’ils (elles) fussent enduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enduit(e)s
+soyez enduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être enduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enduit(e)
+tu as été enduit(e)
+il (elle) a été enduit(e)
+nous avons été enduit(e)s
+vous avez été enduit(e)s
+ils (elles) ont été enduit(e)s
+
+** Plus-que-parfait
+
+j'avais été enduit(e)
+il (elle) avait été enduit(e)
+nous avions été enduit(e)s
+ils (elles) avaient été enduit(e)s
+
+** Passé antérieur
+
+j'eus été enduit(e)
+tu eus été enduit(e)
+il (elle) eut été enduit(e)
+nous eûmes été enduit(e)s
+vous eûtes été enduit(e)s
+ils (elles) eurent été enduit(e)s
+
+** Futur antérieur
+
+j'aurai été enduit(e)
+tu auras été enduit(e)
+il (elle) aura été enduit(e)
+nous aurons été enduit(e)s
+vous aurez été enduit(e)s
+ils (elles) auront été enduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enduit(e)
+j'aurais été enduit(e)
+il (elle) aurait été enduit(e)
+nous aurions été enduit(e)s
+vous auriez été enduit(e)s
+ils (elles) auraient été enduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enduit(e)
+que tu aies été enduit(e)
+qu’il (elle) ait été enduit(e)
+que nous ayons été enduit(e)s
+que vous ayez été enduit(e)s
+qu’ils (elles) aient été enduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enduit(e)
+que tu eusses été enduit(e)
+qu’il (elle) eût été enduit(e)
+que nous eussions été enduit(e)s
+que vous eussiez été enduit(e)s
+qu’ils (elles) eussent été enduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enduit(e)
+ayons été enduit(e)s
+ayez été enduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enduit(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe choquer
+
+* INDICATIF
+
+** Présent
+
+je choque
+tu choques
+il (elle) choque
+nous choquons
+vous choquez
+ils (elles) choquent
+
+** Imparfait
+
+je choquais
+tu choquais
+il (elle) choquait
+nous choquions
+vous choquiez
+ils (elles) choquaient
+
+** Passé simple
+
+je choquai
+tu choquas
+il (elle) choqua
+nous choquâmes
+vous choquâtes
+ils (elles) choquèrent
+
+** Futur simple
+
+je choquerai
+tu choqueras
+il (elle) choquera
+nous choquerons
+vous choquerez
+ils (elles) choqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je choquerais
+tu choquerais
+il (elle) choquerait
+nous choquerions
+vous choqueriez
+ils (elles) choqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je choque
+que tu choques
+qu’il (elle) choque
+que nous choquions
+que vous choquiez
+qu’ils (elles) choquent
+
+** Imparfait
+
+que je choquasse
+que tu choquasses
+qu’il (elle) choquât
+que nous choquassions
+que vous choquassiez
+qu’ils (elles) choquassent
+
+* IMPÉRATIF
+
+** Présent
+
+choque
+choquons
+choquez
+
+* INFINITIF
+
+** Présent
+
+choquer
+
+* PARTICIPE
+
+** Présent
+
+choquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai choqué
+tu as choqué
+il (elle) a choqué
+nous avons choqué
+vous avez choqué
+ils (elles) ont choqué
+
+** Plus-que-parfait
+
+j'avais choqué
+tu avais choqué
+il (elle) avait choqué
+nous avions choqué
+vous aviez choqué
+ils (elles) avaient choqué
+
+** Passé antérieur
+
+j'eus choqué
+tu eus choqué
+il (elle) eut choqué
+nous eûmes choqué
+vous eûtes choqué
+ils (elles) eurent choqué
+
+** Futur antérieur
+
+j'aurai choqué
+tu auras choqué
+il (elle) aura choqué
+nous aurons choqué
+vous aurez choqué
+ils (elles) auront choqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais choqué
+tu aurais choqué
+il (elle) aurait choqué
+nous aurions choqué
+vous auriez choqué
+ils (elles) auraient choqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie choqué
+que tu aies choqué
+qu’il (elle) ait choqué
+que nous ayons choqué
+que vous ayez choqué
+qu’ils (elles) aient choqué
+
+** Plus-que-parfait
+
+que j'eusse choqué
+que tu eusses choqué
+qu’il (elle) eût choqué
+que nous eussions choqué
+que vous eussiez choqué
+qu’ils (elles) eussent choqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons choqué
+ayez choqué
+
+* INFINITIF
+
+** Passé
+
+avoir choqué
+
+* PARTICIPE
+
+** Passé
+
+ayant choqué
+choqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis choqué(e)
+tu es choqué(e)
+il (elle) est choqué(e)
+nous sommes choqué(e)s
+vous êtes choqué(e)s
+ils (elles) sont choqué(e)s
+
+** Imparfait
+
+j'étais choqué(e)
+tu étais choqué(e)
+il (elle) était choqué(e)
+nous étions choqué(e)s
+vous étiez choqué(e)s
+ils (elles) étaient choqué(e)s
+
+** Passé simple
+
+je fus choqué(e)
+tu fus choqué(e)
+il (elle) fut choqué(e)
+nous fûmes choqué(e)s
+vous fûtes choqué(e)s
+ils (elles) furent choqué(e)s
+
+** Futur simple
+
+je serai choqué(e)
+tu seras choqué(e)
+il (elle) sera choqué(e)
+nous serons choqué(e)s
+vous serez choqué(e)s
+ils (elles) seront choqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais choqué(e)
+tu serais choqué(e)
+il (elle) serait choqué(e)
+nous serions choqué(e)s
+vous seriez choqué(e)s
+ils (elles) seraient choqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois choqué(e)
+que tu sois choqué(e)
+qu’il (elle) soit choqué(e)
+que nous soyons choqué(e)s
+que vous soyez choqué(e)s
+qu’ils (elles) soient choqué(e)s
+
+** Imparfait
+
+que je fusse choqué(e)
+que tu fusses choqué(e)
+qu’il (elle) fût choqué(e)
+que nous fussions choqué(e)s
+que vous fussiez choqué(e)s
+qu’ils (elles) fussent choqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons choqué(e)s
+soyez choqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être choqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant choqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été choqué(e)
+tu as été choqué(e)
+il (elle) a été choqué(e)
+nous avons été choqué(e)s
+vous avez été choqué(e)s
+ils (elles) ont été choqué(e)s
+
+** Plus-que-parfait
+
+j'avais été choqué(e)
+il (elle) avait été choqué(e)
+nous avions été choqué(e)s
+ils (elles) avaient été choqué(e)s
+
+** Passé antérieur
+
+j'eus été choqué(e)
+tu eus été choqué(e)
+il (elle) eut été choqué(e)
+nous eûmes été choqué(e)s
+vous eûtes été choqué(e)s
+ils (elles) eurent été choqué(e)s
+
+** Futur antérieur
+
+j'aurai été choqué(e)
+tu auras été choqué(e)
+il (elle) aura été choqué(e)
+nous aurons été choqué(e)s
+vous aurez été choqué(e)s
+ils (elles) auront été choqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été choqué(e)
+j'aurais été choqué(e)
+il (elle) aurait été choqué(e)
+nous aurions été choqué(e)s
+vous auriez été choqué(e)s
+ils (elles) auraient été choqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été choqué(e)
+que tu aies été choqué(e)
+qu’il (elle) ait été choqué(e)
+que nous ayons été choqué(e)s
+que vous ayez été choqué(e)s
+qu’ils (elles) aient été choqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été choqué(e)
+que tu eusses été choqué(e)
+qu’il (elle) eût été choqué(e)
+que nous eussions été choqué(e)s
+que vous eussiez été choqué(e)s
+qu’ils (elles) eussent été choqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été choqué(e)
+ayons été choqué(e)s
+ayez été choqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été choqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été choqué(e)(s)

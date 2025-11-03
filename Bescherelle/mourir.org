@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe mourir
+
+* INDICATIF
+
+** Présent
+
+je meurs
+tu meurs
+il (elle) meurt
+nous mourons
+vous mourez
+ils (elles) meurent
+
+** Imparfait
+
+je mourais
+tu mourais
+il (elle) mourait
+nous mourions
+vous mouriez
+ils (elles) mouraient
+
+** Passé simple
+
+je mourus
+tu mourus
+il (elle) mourut
+nous mourûmes
+vous mourûtes
+ils (elles) moururent
+
+** Futur simple
+
+je mourrai
+tu mourras
+il (elle) mourra
+nous mourrons
+vous mourrez
+ils (elles) mourront
+
+* CONDITIONNEL
+
+** Présent
+
+je mourrais
+tu mourrais
+il (elle) mourrait
+nous mourrions
+vous mourriez
+ils (elles) mourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je meure
+que tu meures
+qu’il (elle) meure
+que nous mourions
+que vous mouriez
+qu’ils (elles) meurent
+
+** Imparfait
+
+que je mourusse
+que tu mourusses
+qu’il (elle) mourût
+que nous mourussions
+que vous mourussiez
+qu’ils (elles) mourussent
+
+* IMPÉRATIF
+
+** Présent
+
+meurs
+mourons
+mourez
+
+* INFINITIF
+
+** Présent
+
+mourir
+
+* PARTICIPE
+
+** Présent
+
+mourant
+
+* INDICATIF
+
+** Passé composé
+
+je suis mort(e)
+tu es mort(e)
+il (elle) est mort(e)
+nous sommes mort(e)s
+vous êtes mort(e)s
+ils (elles) sont mort(e)s
+
+** Plus-que-parfait
+
+j'étais mort(e)
+tu étais mort(e)
+il (elle) était mort(e)
+nous étions mort(e)s
+vous étiez mort(e)s
+ils (elles) étaient mort(e)s
+
+** Passé antérieur
+
+je fus mort(e)
+tu fus mort(e)
+il (elle) fut mort(e)
+nous fûmes mort(e)s
+vous fûtes mort(e)s
+ils (elles) furent mort(e)s
+
+** Futur antérieur
+
+je serai mort(e)
+tu seras mort(e)
+il (elle) sera mort(e)
+nous serons mort(e)s
+vous serez mort(e)s
+ils (elles) seront mort(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais mort(e)
+tu serais mort(e)
+il (elle) serait mort(e)
+nous serions mort(e)s
+vous seriez mort(e)s
+ils (elles) seraient mort(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois mort(e)
+que tu sois mort(e)
+qu’il (elle) soit mort(e)
+que nous soyons mort(e)s
+que vous soyez mort(e)s
+qu’ils (elles) soient mort(e)s
+
+** Plus-que-parfait
+
+que je fusse mort(e)
+que tu fusses mort(e)
+qu’il (elle) fût mort(e)
+que nous fussions mort(e)s
+que vous fussiez mort(e)s
+qu’ils (elles) fussent mort(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons mort(e)s
+soyez mort(e)s
+
+* INFINITIF
+
+** Passé
+
+être mort(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant mort(e)(s)
+mort (t, te, ts, tes)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe attenter
+
+* INDICATIF
+
+** Présent
+
+j'attente
+tu attentes
+il (elle) attente
+nous attentons
+vous attentez
+ils (elles) attentent
+
+** Imparfait
+
+j'attentais
+tu attentais
+il (elle) attentait
+nous attentions
+vous attentiez
+ils (elles) attentaient
+
+** Passé simple
+
+j'attentai
+tu attentas
+il (elle) attenta
+nous attentâmes
+vous attentâtes
+ils (elles) attentèrent
+
+** Futur simple
+
+j'attenterai
+tu attenteras
+il (elle) attentera
+nous attenterons
+vous attenterez
+ils (elles) attenteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attenterais
+tu attenterais
+il (elle) attenterait
+nous attenterions
+vous attenteriez
+ils (elles) attenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attente
+que tu attentes
+qu’il (elle) attente
+que nous attentions
+que vous attentiez
+qu’ils (elles) attentent
+
+** Imparfait
+
+que j'attentasse
+que tu attentasses
+qu’il (elle) attentât
+que nous attentassions
+que vous attentassiez
+qu’ils (elles) attentassent
+
+* IMPÉRATIF
+
+** Présent
+
+attente
+attentons
+attentez
+
+* INFINITIF
+
+** Présent
+
+attenter
+
+* PARTICIPE
+
+** Présent
+
+attentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attenté
+tu as attenté
+il (elle) a attenté
+nous avons attenté
+vous avez attenté
+ils (elles) ont attenté
+
+** Plus-que-parfait
+
+j'avais attenté
+tu avais attenté
+il (elle) avait attenté
+nous avions attenté
+vous aviez attenté
+ils (elles) avaient attenté
+
+** Passé antérieur
+
+j'eus attenté
+tu eus attenté
+il (elle) eut attenté
+nous eûmes attenté
+vous eûtes attenté
+ils (elles) eurent attenté
+
+** Futur antérieur
+
+j'aurai attenté
+tu auras attenté
+il (elle) aura attenté
+nous aurons attenté
+vous aurez attenté
+ils (elles) auront attenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attenté
+tu aurais attenté
+il (elle) aurait attenté
+nous aurions attenté
+vous auriez attenté
+ils (elles) auraient attenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attenté
+que tu aies attenté
+qu’il (elle) ait attenté
+que nous ayons attenté
+que vous ayez attenté
+qu’ils (elles) aient attenté
+
+** Plus-que-parfait
+
+que j'eusse attenté
+que tu eusses attenté
+qu’il (elle) eût attenté
+que nous eussions attenté
+que vous eussiez attenté
+qu’ils (elles) eussent attenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attenté
+ayez attenté
+
+* INFINITIF
+
+** Passé
+
+avoir attenté
+
+* PARTICIPE
+
+** Passé
+
+ayant attenté
+attenté (invar.)

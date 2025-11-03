@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sembler
+
+* INDICATIF
+
+** Présent
+
+je semble
+tu sembles
+il (elle) semble
+nous semblons
+vous semblez
+ils (elles) semblent
+
+** Imparfait
+
+je semblais
+tu semblais
+il (elle) semblait
+nous semblions
+vous sembliez
+ils (elles) semblaient
+
+** Passé simple
+
+je semblai
+tu semblas
+il (elle) sembla
+nous semblâmes
+vous semblâtes
+ils (elles) semblèrent
+
+** Futur simple
+
+je semblerai
+tu sembleras
+il (elle) semblera
+nous semblerons
+vous semblerez
+ils (elles) sembleront
+
+* CONDITIONNEL
+
+** Présent
+
+je semblerais
+tu semblerais
+il (elle) semblerait
+nous semblerions
+vous sembleriez
+ils (elles) sembleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je semble
+que tu sembles
+qu’il (elle) semble
+que nous semblions
+que vous sembliez
+qu’ils (elles) semblent
+
+** Imparfait
+
+que je semblasse
+que tu semblasses
+qu’il (elle) semblât
+que nous semblassions
+que vous semblassiez
+qu’ils (elles) semblassent
+
+* IMPÉRATIF
+
+** Présent
+
+semble
+semblons
+semblez
+
+* INFINITIF
+
+** Présent
+
+sembler
+
+* PARTICIPE
+
+** Présent
+
+semblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai semblé
+tu as semblé
+il (elle) a semblé
+nous avons semblé
+vous avez semblé
+ils (elles) ont semblé
+
+** Plus-que-parfait
+
+j'avais semblé
+tu avais semblé
+il (elle) avait semblé
+nous avions semblé
+vous aviez semblé
+ils (elles) avaient semblé
+
+** Passé antérieur
+
+j'eus semblé
+tu eus semblé
+il (elle) eut semblé
+nous eûmes semblé
+vous eûtes semblé
+ils (elles) eurent semblé
+
+** Futur antérieur
+
+j'aurai semblé
+tu auras semblé
+il (elle) aura semblé
+nous aurons semblé
+vous aurez semblé
+ils (elles) auront semblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais semblé
+tu aurais semblé
+il (elle) aurait semblé
+nous aurions semblé
+vous auriez semblé
+ils (elles) auraient semblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie semblé
+que tu aies semblé
+qu’il (elle) ait semblé
+que nous ayons semblé
+que vous ayez semblé
+qu’ils (elles) aient semblé
+
+** Plus-que-parfait
+
+que j'eusse semblé
+que tu eusses semblé
+qu’il (elle) eût semblé
+que nous eussions semblé
+que vous eussiez semblé
+qu’ils (elles) eussent semblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons semblé
+ayez semblé
+
+* INFINITIF
+
+** Passé
+
+avoir semblé
+
+* PARTICIPE
+
+** Passé
+
+ayant semblé
+semblé (invar.)

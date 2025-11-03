@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe decouvrir
+
+* INDICATIF
+
+** Présent
+
+je découvre
+tu découvres
+il (elle) découvre
+nous découvrons
+vous découvrez
+ils (elles) découvrent
+
+** Imparfait
+
+je découvrais
+tu découvrais
+il (elle) découvrait
+nous découvrions
+vous découvriez
+ils (elles) découvraient
+
+** Passé simple
+
+je découvris
+tu découvris
+il (elle) découvrit
+nous découvrîmes
+vous découvrîtes
+ils (elles) découvrirent
+
+** Futur simple
+
+je découvrirai
+tu découvriras
+il (elle) découvrira
+nous découvrirons
+vous découvrirez
+ils (elles) découvriront
+
+* CONDITIONNEL
+
+** Présent
+
+je découvrirais
+tu découvrirais
+il (elle) découvrirait
+nous découvririons
+vous découvririez
+ils (elles) découvriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je découvre
+que tu découvres
+qu’il (elle) découvre
+que nous découvrions
+que vous découvriez
+qu’ils (elles) découvrent
+
+** Imparfait
+
+que je découvrisse
+que tu découvrisses
+qu’il (elle) découvrît
+que nous découvrissions
+que vous découvrissiez
+qu’ils (elles) découvrissent
+
+* IMPÉRATIF
+
+** Présent
+
+découvre
+découvrons
+découvrez
+
+* INFINITIF
+
+** Présent
+
+découvrir
+
+* PARTICIPE
+
+** Présent
+
+découvrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai découvert
+tu as découvert
+il (elle) a découvert
+nous avons découvert
+vous avez découvert
+ils (elles) ont découvert
+
+** Plus-que-parfait
+
+j'avais découvert
+tu avais découvert
+il (elle) avait découvert
+nous avions découvert
+vous aviez découvert
+ils (elles) avaient découvert
+
+** Passé antérieur
+
+j'eus découvert
+tu eus découvert
+il (elle) eut découvert
+nous eûmes découvert
+vous eûtes découvert
+ils (elles) eurent découvert
+
+** Futur antérieur
+
+j'aurai découvert
+tu auras découvert
+il (elle) aura découvert
+nous aurons découvert
+vous aurez découvert
+ils (elles) auront découvert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais découvert
+tu aurais découvert
+il (elle) aurait découvert
+nous aurions découvert
+vous auriez découvert
+ils (elles) auraient découvert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie découvert
+que tu aies découvert
+qu’il (elle) ait découvert
+que nous ayons découvert
+que vous ayez découvert
+qu’ils (elles) aient découvert
+
+** Plus-que-parfait
+
+que j'eusse découvert
+que tu eusses découvert
+qu’il (elle) eût découvert
+que nous eussions découvert
+que vous eussiez découvert
+qu’ils (elles) eussent découvert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons découvert
+ayez découvert
+
+* INFINITIF
+
+** Passé
+
+avoir découvert
+
+* PARTICIPE
+
+** Passé
+
+ayant découvert
+découvert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis découvert(e)
+tu es découvert(e)
+il (elle) est découvert(e)
+nous sommes découvert(e)s
+vous êtes découvert(e)s
+ils (elles) sont découvert(e)s
+
+** Imparfait
+
+j'étais découvert(e)
+tu étais découvert(e)
+il (elle) était découvert(e)
+nous étions découvert(e)s
+vous étiez découvert(e)s
+ils (elles) étaient découvert(e)s
+
+** Passé simple
+
+je fus découvert(e)
+tu fus découvert(e)
+il (elle) fut découvert(e)
+nous fûmes découvert(e)s
+vous fûtes découvert(e)s
+ils (elles) furent découvert(e)s
+
+** Futur simple
+
+je serai découvert(e)
+tu seras découvert(e)
+il (elle) sera découvert(e)
+nous serons découvert(e)s
+vous serez découvert(e)s
+ils (elles) seront découvert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais découvert(e)
+tu serais découvert(e)
+il (elle) serait découvert(e)
+nous serions découvert(e)s
+vous seriez découvert(e)s
+ils (elles) seraient découvert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois découvert(e)
+que tu sois découvert(e)
+qu’il (elle) soit découvert(e)
+que nous soyons découvert(e)s
+que vous soyez découvert(e)s
+qu’ils (elles) soient découvert(e)s
+
+** Imparfait
+
+que je fusse découvert(e)
+que tu fusses découvert(e)
+qu’il (elle) fût découvert(e)
+que nous fussions découvert(e)s
+que vous fussiez découvert(e)s
+qu’ils (elles) fussent découvert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons découvert(e)s
+soyez découvert(e)s
+
+* INFINITIF
+
+** Présent
+
+être découvert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant découvert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été découvert(e)
+tu as été découvert(e)
+il (elle) a été découvert(e)
+nous avons été découvert(e)s
+vous avez été découvert(e)s
+ils (elles) ont été découvert(e)s
+
+** Plus-que-parfait
+
+j'avais été découvert(e)
+il (elle) avait été découvert(e)
+nous avions été découvert(e)s
+ils (elles) avaient été découvert(e)s
+
+** Passé antérieur
+
+j'eus été découvert(e)
+tu eus été découvert(e)
+il (elle) eut été découvert(e)
+nous eûmes été découvert(e)s
+vous eûtes été découvert(e)s
+ils (elles) eurent été découvert(e)s
+
+** Futur antérieur
+
+j'aurai été découvert(e)
+tu auras été découvert(e)
+il (elle) aura été découvert(e)
+nous aurons été découvert(e)s
+vous aurez été découvert(e)s
+ils (elles) auront été découvert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été découvert(e)
+j'aurais été découvert(e)
+il (elle) aurait été découvert(e)
+nous aurions été découvert(e)s
+vous auriez été découvert(e)s
+ils (elles) auraient été découvert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été découvert(e)
+que tu aies été découvert(e)
+qu’il (elle) ait été découvert(e)
+que nous ayons été découvert(e)s
+que vous ayez été découvert(e)s
+qu’ils (elles) aient été découvert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été découvert(e)
+que tu eusses été découvert(e)
+qu’il (elle) eût été découvert(e)
+que nous eussions été découvert(e)s
+que vous eussiez été découvert(e)s
+qu’ils (elles) eussent été découvert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été découvert(e)
+ayons été découvert(e)s
+ayez été découvert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été découvert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été découvert(e)(s)

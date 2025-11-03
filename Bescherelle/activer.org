@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe activer
+
+* INDICATIF
+
+** Présent
+
+j'active
+tu actives
+il (elle) active
+nous activons
+vous activez
+ils (elles) activent
+
+** Imparfait
+
+j'activais
+tu activais
+il (elle) activait
+nous activions
+vous activiez
+ils (elles) activaient
+
+** Passé simple
+
+j'activai
+tu activas
+il (elle) activa
+nous activâmes
+vous activâtes
+ils (elles) activèrent
+
+** Futur simple
+
+j'activerai
+tu activeras
+il (elle) activera
+nous activerons
+vous activerez
+ils (elles) activeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'activerais
+tu activerais
+il (elle) activerait
+nous activerions
+vous activeriez
+ils (elles) activeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'active
+que tu actives
+qu’il (elle) active
+que nous activions
+que vous activiez
+qu’ils (elles) activent
+
+** Imparfait
+
+que j'activasse
+que tu activasses
+qu’il (elle) activât
+que nous activassions
+que vous activassiez
+qu’ils (elles) activassent
+
+* IMPÉRATIF
+
+** Présent
+
+active
+activons
+activez
+
+* INFINITIF
+
+** Présent
+
+activer
+
+* PARTICIPE
+
+** Présent
+
+activant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai activé
+tu as activé
+il (elle) a activé
+nous avons activé
+vous avez activé
+ils (elles) ont activé
+
+** Plus-que-parfait
+
+j'avais activé
+tu avais activé
+il (elle) avait activé
+nous avions activé
+vous aviez activé
+ils (elles) avaient activé
+
+** Passé antérieur
+
+j'eus activé
+tu eus activé
+il (elle) eut activé
+nous eûmes activé
+vous eûtes activé
+ils (elles) eurent activé
+
+** Futur antérieur
+
+j'aurai activé
+tu auras activé
+il (elle) aura activé
+nous aurons activé
+vous aurez activé
+ils (elles) auront activé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais activé
+tu aurais activé
+il (elle) aurait activé
+nous aurions activé
+vous auriez activé
+ils (elles) auraient activé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie activé
+que tu aies activé
+qu’il (elle) ait activé
+que nous ayons activé
+que vous ayez activé
+qu’ils (elles) aient activé
+
+** Plus-que-parfait
+
+que j'eusse activé
+que tu eusses activé
+qu’il (elle) eût activé
+que nous eussions activé
+que vous eussiez activé
+qu’ils (elles) eussent activé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons activé
+ayez activé
+
+* INFINITIF
+
+** Passé
+
+avoir activé
+
+* PARTICIPE
+
+** Passé
+
+ayant activé
+activé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis activé(e)
+tu es activé(e)
+il (elle) est activé(e)
+nous sommes activé(e)s
+vous êtes activé(e)s
+ils (elles) sont activé(e)s
+
+** Imparfait
+
+j'étais activé(e)
+tu étais activé(e)
+il (elle) était activé(e)
+nous étions activé(e)s
+vous étiez activé(e)s
+ils (elles) étaient activé(e)s
+
+** Passé simple
+
+je fus activé(e)
+tu fus activé(e)
+il (elle) fut activé(e)
+nous fûmes activé(e)s
+vous fûtes activé(e)s
+ils (elles) furent activé(e)s
+
+** Futur simple
+
+je serai activé(e)
+tu seras activé(e)
+il (elle) sera activé(e)
+nous serons activé(e)s
+vous serez activé(e)s
+ils (elles) seront activé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais activé(e)
+tu serais activé(e)
+il (elle) serait activé(e)
+nous serions activé(e)s
+vous seriez activé(e)s
+ils (elles) seraient activé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois activé(e)
+que tu sois activé(e)
+qu’il (elle) soit activé(e)
+que nous soyons activé(e)s
+que vous soyez activé(e)s
+qu’ils (elles) soient activé(e)s
+
+** Imparfait
+
+que je fusse activé(e)
+que tu fusses activé(e)
+qu’il (elle) fût activé(e)
+que nous fussions activé(e)s
+que vous fussiez activé(e)s
+qu’ils (elles) fussent activé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons activé(e)s
+soyez activé(e)s
+
+* INFINITIF
+
+** Présent
+
+être activé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant activé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été activé(e)
+tu as été activé(e)
+il (elle) a été activé(e)
+nous avons été activé(e)s
+vous avez été activé(e)s
+ils (elles) ont été activé(e)s
+
+** Plus-que-parfait
+
+j'avais été activé(e)
+il (elle) avait été activé(e)
+nous avions été activé(e)s
+ils (elles) avaient été activé(e)s
+
+** Passé antérieur
+
+j'eus été activé(e)
+tu eus été activé(e)
+il (elle) eut été activé(e)
+nous eûmes été activé(e)s
+vous eûtes été activé(e)s
+ils (elles) eurent été activé(e)s
+
+** Futur antérieur
+
+j'aurai été activé(e)
+tu auras été activé(e)
+il (elle) aura été activé(e)
+nous aurons été activé(e)s
+vous aurez été activé(e)s
+ils (elles) auront été activé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été activé(e)
+j'aurais été activé(e)
+il (elle) aurait été activé(e)
+nous aurions été activé(e)s
+vous auriez été activé(e)s
+ils (elles) auraient été activé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été activé(e)
+que tu aies été activé(e)
+qu’il (elle) ait été activé(e)
+que nous ayons été activé(e)s
+que vous ayez été activé(e)s
+qu’ils (elles) aient été activé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été activé(e)
+que tu eusses été activé(e)
+qu’il (elle) eût été activé(e)
+que nous eussions été activé(e)s
+que vous eussiez été activé(e)s
+qu’ils (elles) eussent été activé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été activé(e)
+ayons été activé(e)s
+ayez été activé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été activé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été activé(e)(s)

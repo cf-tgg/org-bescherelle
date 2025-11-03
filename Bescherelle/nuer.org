@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nuer
+
+* INDICATIF
+
+** Présent
+
+je nue
+tu nues
+il (elle) nue
+nous nuons
+vous nuez
+ils (elles) nuent
+
+** Imparfait
+
+je nuais
+tu nuais
+il (elle) nuait
+nous nuions
+vous nuiez
+ils (elles) nuaient
+
+** Passé simple
+
+je nuai
+tu nuas
+il (elle) nua
+nous nuâmes
+vous nuâtes
+ils (elles) nuèrent
+
+** Futur simple
+
+je nuerai
+tu nueras
+il (elle) nuera
+nous nuerons
+vous nuerez
+ils (elles) nueront
+
+* CONDITIONNEL
+
+** Présent
+
+je nuerais
+tu nuerais
+il (elle) nuerait
+nous nuerions
+vous nueriez
+ils (elles) nueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nue
+que tu nues
+qu’il (elle) nue
+que nous nuions
+que vous nuiez
+qu’ils (elles) nuent
+
+** Imparfait
+
+que je nuasse
+que tu nuasses
+qu’il (elle) nuât
+que nous nuassions
+que vous nuassiez
+qu’ils (elles) nuassent
+
+* IMPÉRATIF
+
+** Présent
+
+nue
+nuons
+nuez
+
+* INFINITIF
+
+** Présent
+
+nuer
+
+* PARTICIPE
+
+** Présent
+
+nuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nué
+tu as nué
+il (elle) a nué
+nous avons nué
+vous avez nué
+ils (elles) ont nué
+
+** Plus-que-parfait
+
+j'avais nué
+tu avais nué
+il (elle) avait nué
+nous avions nué
+vous aviez nué
+ils (elles) avaient nué
+
+** Passé antérieur
+
+j'eus nué
+tu eus nué
+il (elle) eut nué
+nous eûmes nué
+vous eûtes nué
+ils (elles) eurent nué
+
+** Futur antérieur
+
+j'aurai nué
+tu auras nué
+il (elle) aura nué
+nous aurons nué
+vous aurez nué
+ils (elles) auront nué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nué
+tu aurais nué
+il (elle) aurait nué
+nous aurions nué
+vous auriez nué
+ils (elles) auraient nué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nué
+que tu aies nué
+qu’il (elle) ait nué
+que nous ayons nué
+que vous ayez nué
+qu’ils (elles) aient nué
+
+** Plus-que-parfait
+
+que j'eusse nué
+que tu eusses nué
+qu’il (elle) eût nué
+que nous eussions nué
+que vous eussiez nué
+qu’ils (elles) eussent nué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nué
+ayez nué
+
+* INFINITIF
+
+** Passé
+
+avoir nué
+
+* PARTICIPE
+
+** Passé
+
+ayant nué
+nué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nué(e)
+tu es nué(e)
+il (elle) est nué(e)
+nous sommes nué(e)s
+vous êtes nué(e)s
+ils (elles) sont nué(e)s
+
+** Imparfait
+
+j'étais nué(e)
+tu étais nué(e)
+il (elle) était nué(e)
+nous étions nué(e)s
+vous étiez nué(e)s
+ils (elles) étaient nué(e)s
+
+** Passé simple
+
+je fus nué(e)
+tu fus nué(e)
+il (elle) fut nué(e)
+nous fûmes nué(e)s
+vous fûtes nué(e)s
+ils (elles) furent nué(e)s
+
+** Futur simple
+
+je serai nué(e)
+tu seras nué(e)
+il (elle) sera nué(e)
+nous serons nué(e)s
+vous serez nué(e)s
+ils (elles) seront nué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nué(e)
+tu serais nué(e)
+il (elle) serait nué(e)
+nous serions nué(e)s
+vous seriez nué(e)s
+ils (elles) seraient nué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nué(e)
+que tu sois nué(e)
+qu’il (elle) soit nué(e)
+que nous soyons nué(e)s
+que vous soyez nué(e)s
+qu’ils (elles) soient nué(e)s
+
+** Imparfait
+
+que je fusse nué(e)
+que tu fusses nué(e)
+qu’il (elle) fût nué(e)
+que nous fussions nué(e)s
+que vous fussiez nué(e)s
+qu’ils (elles) fussent nué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nué(e)s
+soyez nué(e)s
+
+* INFINITIF
+
+** Présent
+
+être nué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nué(e)
+tu as été nué(e)
+il (elle) a été nué(e)
+nous avons été nué(e)s
+vous avez été nué(e)s
+ils (elles) ont été nué(e)s
+
+** Plus-que-parfait
+
+j'avais été nué(e)
+il (elle) avait été nué(e)
+nous avions été nué(e)s
+ils (elles) avaient été nué(e)s
+
+** Passé antérieur
+
+j'eus été nué(e)
+tu eus été nué(e)
+il (elle) eut été nué(e)
+nous eûmes été nué(e)s
+vous eûtes été nué(e)s
+ils (elles) eurent été nué(e)s
+
+** Futur antérieur
+
+j'aurai été nué(e)
+tu auras été nué(e)
+il (elle) aura été nué(e)
+nous aurons été nué(e)s
+vous aurez été nué(e)s
+ils (elles) auront été nué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nué(e)
+j'aurais été nué(e)
+il (elle) aurait été nué(e)
+nous aurions été nué(e)s
+vous auriez été nué(e)s
+ils (elles) auraient été nué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nué(e)
+que tu aies été nué(e)
+qu’il (elle) ait été nué(e)
+que nous ayons été nué(e)s
+que vous ayez été nué(e)s
+qu’ils (elles) aient été nué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nué(e)
+que tu eusses été nué(e)
+qu’il (elle) eût été nué(e)
+que nous eussions été nué(e)s
+que vous eussiez été nué(e)s
+qu’ils (elles) eussent été nué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nué(e)
+ayons été nué(e)s
+ayez été nué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nué(e)(s)

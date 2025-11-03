@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tramer
+
+* INDICATIF
+
+** Présent
+
+je trame
+tu trames
+il (elle) trame
+nous tramons
+vous tramez
+ils (elles) trament
+
+** Imparfait
+
+je tramais
+tu tramais
+il (elle) tramait
+nous tramions
+vous tramiez
+ils (elles) tramaient
+
+** Passé simple
+
+je tramai
+tu tramas
+il (elle) trama
+nous tramâmes
+vous tramâtes
+ils (elles) tramèrent
+
+** Futur simple
+
+je tramerai
+tu trameras
+il (elle) tramera
+nous tramerons
+vous tramerez
+ils (elles) trameront
+
+* CONDITIONNEL
+
+** Présent
+
+je tramerais
+tu tramerais
+il (elle) tramerait
+nous tramerions
+vous trameriez
+ils (elles) trameraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trame
+que tu trames
+qu’il (elle) trame
+que nous tramions
+que vous tramiez
+qu’ils (elles) trament
+
+** Imparfait
+
+que je tramasse
+que tu tramasses
+qu’il (elle) tramât
+que nous tramassions
+que vous tramassiez
+qu’ils (elles) tramassent
+
+* IMPÉRATIF
+
+** Présent
+
+trame
+tramons
+tramez
+
+* INFINITIF
+
+** Présent
+
+tramer
+
+* PARTICIPE
+
+** Présent
+
+tramant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tramé
+tu as tramé
+il (elle) a tramé
+nous avons tramé
+vous avez tramé
+ils (elles) ont tramé
+
+** Plus-que-parfait
+
+j'avais tramé
+tu avais tramé
+il (elle) avait tramé
+nous avions tramé
+vous aviez tramé
+ils (elles) avaient tramé
+
+** Passé antérieur
+
+j'eus tramé
+tu eus tramé
+il (elle) eut tramé
+nous eûmes tramé
+vous eûtes tramé
+ils (elles) eurent tramé
+
+** Futur antérieur
+
+j'aurai tramé
+tu auras tramé
+il (elle) aura tramé
+nous aurons tramé
+vous aurez tramé
+ils (elles) auront tramé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tramé
+tu aurais tramé
+il (elle) aurait tramé
+nous aurions tramé
+vous auriez tramé
+ils (elles) auraient tramé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tramé
+que tu aies tramé
+qu’il (elle) ait tramé
+que nous ayons tramé
+que vous ayez tramé
+qu’ils (elles) aient tramé
+
+** Plus-que-parfait
+
+que j'eusse tramé
+que tu eusses tramé
+qu’il (elle) eût tramé
+que nous eussions tramé
+que vous eussiez tramé
+qu’ils (elles) eussent tramé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tramé
+ayez tramé
+
+* INFINITIF
+
+** Passé
+
+avoir tramé
+
+* PARTICIPE
+
+** Passé
+
+ayant tramé
+tramé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tramé(e)
+tu es tramé(e)
+il (elle) est tramé(e)
+nous sommes tramé(e)s
+vous êtes tramé(e)s
+ils (elles) sont tramé(e)s
+
+** Imparfait
+
+j'étais tramé(e)
+tu étais tramé(e)
+il (elle) était tramé(e)
+nous étions tramé(e)s
+vous étiez tramé(e)s
+ils (elles) étaient tramé(e)s
+
+** Passé simple
+
+je fus tramé(e)
+tu fus tramé(e)
+il (elle) fut tramé(e)
+nous fûmes tramé(e)s
+vous fûtes tramé(e)s
+ils (elles) furent tramé(e)s
+
+** Futur simple
+
+je serai tramé(e)
+tu seras tramé(e)
+il (elle) sera tramé(e)
+nous serons tramé(e)s
+vous serez tramé(e)s
+ils (elles) seront tramé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tramé(e)
+tu serais tramé(e)
+il (elle) serait tramé(e)
+nous serions tramé(e)s
+vous seriez tramé(e)s
+ils (elles) seraient tramé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tramé(e)
+que tu sois tramé(e)
+qu’il (elle) soit tramé(e)
+que nous soyons tramé(e)s
+que vous soyez tramé(e)s
+qu’ils (elles) soient tramé(e)s
+
+** Imparfait
+
+que je fusse tramé(e)
+que tu fusses tramé(e)
+qu’il (elle) fût tramé(e)
+que nous fussions tramé(e)s
+que vous fussiez tramé(e)s
+qu’ils (elles) fussent tramé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tramé(e)s
+soyez tramé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tramé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tramé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tramé(e)
+tu as été tramé(e)
+il (elle) a été tramé(e)
+nous avons été tramé(e)s
+vous avez été tramé(e)s
+ils (elles) ont été tramé(e)s
+
+** Plus-que-parfait
+
+j'avais été tramé(e)
+il (elle) avait été tramé(e)
+nous avions été tramé(e)s
+ils (elles) avaient été tramé(e)s
+
+** Passé antérieur
+
+j'eus été tramé(e)
+tu eus été tramé(e)
+il (elle) eut été tramé(e)
+nous eûmes été tramé(e)s
+vous eûtes été tramé(e)s
+ils (elles) eurent été tramé(e)s
+
+** Futur antérieur
+
+j'aurai été tramé(e)
+tu auras été tramé(e)
+il (elle) aura été tramé(e)
+nous aurons été tramé(e)s
+vous aurez été tramé(e)s
+ils (elles) auront été tramé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tramé(e)
+j'aurais été tramé(e)
+il (elle) aurait été tramé(e)
+nous aurions été tramé(e)s
+vous auriez été tramé(e)s
+ils (elles) auraient été tramé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tramé(e)
+que tu aies été tramé(e)
+qu’il (elle) ait été tramé(e)
+que nous ayons été tramé(e)s
+que vous ayez été tramé(e)s
+qu’ils (elles) aient été tramé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tramé(e)
+que tu eusses été tramé(e)
+qu’il (elle) eût été tramé(e)
+que nous eussions été tramé(e)s
+que vous eussiez été tramé(e)s
+qu’ils (elles) eussent été tramé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tramé(e)
+ayons été tramé(e)s
+ayez été tramé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tramé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tramé(e)(s)

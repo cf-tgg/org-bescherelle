@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe habiter
+
+* INDICATIF
+
+** Présent
+
+j'habite
+tu habites
+il (elle) habite
+nous habitons
+vous habitez
+ils (elles) habitent
+
+** Imparfait
+
+j'habitais
+tu habitais
+il (elle) habitait
+nous habitions
+vous habitiez
+ils (elles) habitaient
+
+** Passé simple
+
+j'habitai
+tu habitas
+il (elle) habita
+nous habitâmes
+vous habitâtes
+ils (elles) habitèrent
+
+** Futur simple
+
+j'habiterai
+tu habiteras
+il (elle) habitera
+nous habiterons
+vous habiterez
+ils (elles) habiteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'habiterais
+tu habiterais
+il (elle) habiterait
+nous habiterions
+vous habiteriez
+ils (elles) habiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'habite
+que tu habites
+qu’il (elle) habite
+que nous habitions
+que vous habitiez
+qu’ils (elles) habitent
+
+** Imparfait
+
+que j'habitasse
+que tu habitasses
+qu’il (elle) habitât
+que nous habitassions
+que vous habitassiez
+qu’ils (elles) habitassent
+
+* IMPÉRATIF
+
+** Présent
+
+habite
+habitons
+habitez
+
+* INFINITIF
+
+** Présent
+
+habiter
+
+* PARTICIPE
+
+** Présent
+
+habitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai habité
+tu as habité
+il (elle) a habité
+nous avons habité
+vous avez habité
+ils (elles) ont habité
+
+** Plus-que-parfait
+
+j'avais habité
+tu avais habité
+il (elle) avait habité
+nous avions habité
+vous aviez habité
+ils (elles) avaient habité
+
+** Passé antérieur
+
+j'eus habité
+tu eus habité
+il (elle) eut habité
+nous eûmes habité
+vous eûtes habité
+ils (elles) eurent habité
+
+** Futur antérieur
+
+j'aurai habité
+tu auras habité
+il (elle) aura habité
+nous aurons habité
+vous aurez habité
+ils (elles) auront habité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais habité
+tu aurais habité
+il (elle) aurait habité
+nous aurions habité
+vous auriez habité
+ils (elles) auraient habité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie habité
+que tu aies habité
+qu’il (elle) ait habité
+que nous ayons habité
+que vous ayez habité
+qu’ils (elles) aient habité
+
+** Plus-que-parfait
+
+que j'eusse habité
+que tu eusses habité
+qu’il (elle) eût habité
+que nous eussions habité
+que vous eussiez habité
+qu’ils (elles) eussent habité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons habité
+ayez habité
+
+* INFINITIF
+
+** Passé
+
+avoir habité
+
+* PARTICIPE
+
+** Passé
+
+ayant habité
+habité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis habité(e)
+tu es habité(e)
+il (elle) est habité(e)
+nous sommes habité(e)s
+vous êtes habité(e)s
+ils (elles) sont habité(e)s
+
+** Imparfait
+
+j'étais habité(e)
+tu étais habité(e)
+il (elle) était habité(e)
+nous étions habité(e)s
+vous étiez habité(e)s
+ils (elles) étaient habité(e)s
+
+** Passé simple
+
+je fus habité(e)
+tu fus habité(e)
+il (elle) fut habité(e)
+nous fûmes habité(e)s
+vous fûtes habité(e)s
+ils (elles) furent habité(e)s
+
+** Futur simple
+
+je serai habité(e)
+tu seras habité(e)
+il (elle) sera habité(e)
+nous serons habité(e)s
+vous serez habité(e)s
+ils (elles) seront habité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais habité(e)
+tu serais habité(e)
+il (elle) serait habité(e)
+nous serions habité(e)s
+vous seriez habité(e)s
+ils (elles) seraient habité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois habité(e)
+que tu sois habité(e)
+qu’il (elle) soit habité(e)
+que nous soyons habité(e)s
+que vous soyez habité(e)s
+qu’ils (elles) soient habité(e)s
+
+** Imparfait
+
+que je fusse habité(e)
+que tu fusses habité(e)
+qu’il (elle) fût habité(e)
+que nous fussions habité(e)s
+que vous fussiez habité(e)s
+qu’ils (elles) fussent habité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons habité(e)s
+soyez habité(e)s
+
+* INFINITIF
+
+** Présent
+
+être habité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant habité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été habité(e)
+tu as été habité(e)
+il (elle) a été habité(e)
+nous avons été habité(e)s
+vous avez été habité(e)s
+ils (elles) ont été habité(e)s
+
+** Plus-que-parfait
+
+j'avais été habité(e)
+il (elle) avait été habité(e)
+nous avions été habité(e)s
+ils (elles) avaient été habité(e)s
+
+** Passé antérieur
+
+j'eus été habité(e)
+tu eus été habité(e)
+il (elle) eut été habité(e)
+nous eûmes été habité(e)s
+vous eûtes été habité(e)s
+ils (elles) eurent été habité(e)s
+
+** Futur antérieur
+
+j'aurai été habité(e)
+tu auras été habité(e)
+il (elle) aura été habité(e)
+nous aurons été habité(e)s
+vous aurez été habité(e)s
+ils (elles) auront été habité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été habité(e)
+j'aurais été habité(e)
+il (elle) aurait été habité(e)
+nous aurions été habité(e)s
+vous auriez été habité(e)s
+ils (elles) auraient été habité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été habité(e)
+que tu aies été habité(e)
+qu’il (elle) ait été habité(e)
+que nous ayons été habité(e)s
+que vous ayez été habité(e)s
+qu’ils (elles) aient été habité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été habité(e)
+que tu eusses été habité(e)
+qu’il (elle) eût été habité(e)
+que nous eussions été habité(e)s
+que vous eussiez été habité(e)s
+qu’ils (elles) eussent été habité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été habité(e)
+ayons été habité(e)s
+ayez été habité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été habité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été habité(e)(s)

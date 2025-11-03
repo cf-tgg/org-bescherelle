@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tonner
+
+* INDICATIF
+
+** Présent
+
+je tonne
+tu tonnes
+il (elle) tonne
+nous tonnons
+vous tonnez
+ils (elles) tonnent
+
+** Imparfait
+
+je tonnais
+tu tonnais
+il (elle) tonnait
+nous tonnions
+vous tonniez
+ils (elles) tonnaient
+
+** Passé simple
+
+je tonnai
+tu tonnas
+il (elle) tonna
+nous tonnâmes
+vous tonnâtes
+ils (elles) tonnèrent
+
+** Futur simple
+
+je tonnerai
+tu tonneras
+il (elle) tonnera
+nous tonnerons
+vous tonnerez
+ils (elles) tonneront
+
+* CONDITIONNEL
+
+** Présent
+
+je tonnerais
+tu tonnerais
+il (elle) tonnerait
+nous tonnerions
+vous tonneriez
+ils (elles) tonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tonne
+que tu tonnes
+qu’il (elle) tonne
+que nous tonnions
+que vous tonniez
+qu’ils (elles) tonnent
+
+** Imparfait
+
+que je tonnasse
+que tu tonnasses
+qu’il (elle) tonnât
+que nous tonnassions
+que vous tonnassiez
+qu’ils (elles) tonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+tonne
+tonnons
+tonnez
+
+* INFINITIF
+
+** Présent
+
+tonner
+
+* PARTICIPE
+
+** Présent
+
+tonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tonné
+tu as tonné
+il (elle) a tonné
+nous avons tonné
+vous avez tonné
+ils (elles) ont tonné
+
+** Plus-que-parfait
+
+j'avais tonné
+tu avais tonné
+il (elle) avait tonné
+nous avions tonné
+vous aviez tonné
+ils (elles) avaient tonné
+
+** Passé antérieur
+
+j'eus tonné
+tu eus tonné
+il (elle) eut tonné
+nous eûmes tonné
+vous eûtes tonné
+ils (elles) eurent tonné
+
+** Futur antérieur
+
+j'aurai tonné
+tu auras tonné
+il (elle) aura tonné
+nous aurons tonné
+vous aurez tonné
+ils (elles) auront tonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tonné
+tu aurais tonné
+il (elle) aurait tonné
+nous aurions tonné
+vous auriez tonné
+ils (elles) auraient tonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tonné
+que tu aies tonné
+qu’il (elle) ait tonné
+que nous ayons tonné
+que vous ayez tonné
+qu’ils (elles) aient tonné
+
+** Plus-que-parfait
+
+que j'eusse tonné
+que tu eusses tonné
+qu’il (elle) eût tonné
+que nous eussions tonné
+que vous eussiez tonné
+qu’ils (elles) eussent tonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tonné
+ayez tonné
+
+* INFINITIF
+
+** Passé
+
+avoir tonné
+
+* PARTICIPE
+
+** Passé
+
+ayant tonné
+tonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tonné(e)
+tu es tonné(e)
+il (elle) est tonné(e)
+nous sommes tonné(e)s
+vous êtes tonné(e)s
+ils (elles) sont tonné(e)s
+
+** Imparfait
+
+j'étais tonné(e)
+tu étais tonné(e)
+il (elle) était tonné(e)
+nous étions tonné(e)s
+vous étiez tonné(e)s
+ils (elles) étaient tonné(e)s
+
+** Passé simple
+
+je fus tonné(e)
+tu fus tonné(e)
+il (elle) fut tonné(e)
+nous fûmes tonné(e)s
+vous fûtes tonné(e)s
+ils (elles) furent tonné(e)s
+
+** Futur simple
+
+je serai tonné(e)
+tu seras tonné(e)
+il (elle) sera tonné(e)
+nous serons tonné(e)s
+vous serez tonné(e)s
+ils (elles) seront tonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tonné(e)
+tu serais tonné(e)
+il (elle) serait tonné(e)
+nous serions tonné(e)s
+vous seriez tonné(e)s
+ils (elles) seraient tonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tonné(e)
+que tu sois tonné(e)
+qu’il (elle) soit tonné(e)
+que nous soyons tonné(e)s
+que vous soyez tonné(e)s
+qu’ils (elles) soient tonné(e)s
+
+** Imparfait
+
+que je fusse tonné(e)
+que tu fusses tonné(e)
+qu’il (elle) fût tonné(e)
+que nous fussions tonné(e)s
+que vous fussiez tonné(e)s
+qu’ils (elles) fussent tonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tonné(e)s
+soyez tonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être tonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tonné(e)
+tu as été tonné(e)
+il (elle) a été tonné(e)
+nous avons été tonné(e)s
+vous avez été tonné(e)s
+ils (elles) ont été tonné(e)s
+
+** Plus-que-parfait
+
+j'avais été tonné(e)
+il (elle) avait été tonné(e)
+nous avions été tonné(e)s
+ils (elles) avaient été tonné(e)s
+
+** Passé antérieur
+
+j'eus été tonné(e)
+tu eus été tonné(e)
+il (elle) eut été tonné(e)
+nous eûmes été tonné(e)s
+vous eûtes été tonné(e)s
+ils (elles) eurent été tonné(e)s
+
+** Futur antérieur
+
+j'aurai été tonné(e)
+tu auras été tonné(e)
+il (elle) aura été tonné(e)
+nous aurons été tonné(e)s
+vous aurez été tonné(e)s
+ils (elles) auront été tonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tonné(e)
+j'aurais été tonné(e)
+il (elle) aurait été tonné(e)
+nous aurions été tonné(e)s
+vous auriez été tonné(e)s
+ils (elles) auraient été tonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tonné(e)
+que tu aies été tonné(e)
+qu’il (elle) ait été tonné(e)
+que nous ayons été tonné(e)s
+que vous ayez été tonné(e)s
+qu’ils (elles) aient été tonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tonné(e)
+que tu eusses été tonné(e)
+qu’il (elle) eût été tonné(e)
+que nous eussions été tonné(e)s
+que vous eussiez été tonné(e)s
+qu’ils (elles) eussent été tonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tonné(e)
+ayons été tonné(e)s
+ayez été tonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tonné(e)(s)

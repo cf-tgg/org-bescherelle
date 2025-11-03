@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe damer
+
+* INDICATIF
+
+** Présent
+
+je dame
+tu dames
+il (elle) dame
+nous damons
+vous damez
+ils (elles) dament
+
+** Imparfait
+
+je damais
+tu damais
+il (elle) damait
+nous damions
+vous damiez
+ils (elles) damaient
+
+** Passé simple
+
+je damai
+tu damas
+il (elle) dama
+nous damâmes
+vous damâtes
+ils (elles) damèrent
+
+** Futur simple
+
+je damerai
+tu dameras
+il (elle) damera
+nous damerons
+vous damerez
+ils (elles) dameront
+
+* CONDITIONNEL
+
+** Présent
+
+je damerais
+tu damerais
+il (elle) damerait
+nous damerions
+vous dameriez
+ils (elles) dameraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dame
+que tu dames
+qu’il (elle) dame
+que nous damions
+que vous damiez
+qu’ils (elles) dament
+
+** Imparfait
+
+que je damasse
+que tu damasses
+qu’il (elle) damât
+que nous damassions
+que vous damassiez
+qu’ils (elles) damassent
+
+* IMPÉRATIF
+
+** Présent
+
+dame
+damons
+damez
+
+* INFINITIF
+
+** Présent
+
+damer
+
+* PARTICIPE
+
+** Présent
+
+damant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai damé
+tu as damé
+il (elle) a damé
+nous avons damé
+vous avez damé
+ils (elles) ont damé
+
+** Plus-que-parfait
+
+j'avais damé
+tu avais damé
+il (elle) avait damé
+nous avions damé
+vous aviez damé
+ils (elles) avaient damé
+
+** Passé antérieur
+
+j'eus damé
+tu eus damé
+il (elle) eut damé
+nous eûmes damé
+vous eûtes damé
+ils (elles) eurent damé
+
+** Futur antérieur
+
+j'aurai damé
+tu auras damé
+il (elle) aura damé
+nous aurons damé
+vous aurez damé
+ils (elles) auront damé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais damé
+tu aurais damé
+il (elle) aurait damé
+nous aurions damé
+vous auriez damé
+ils (elles) auraient damé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie damé
+que tu aies damé
+qu’il (elle) ait damé
+que nous ayons damé
+que vous ayez damé
+qu’ils (elles) aient damé
+
+** Plus-que-parfait
+
+que j'eusse damé
+que tu eusses damé
+qu’il (elle) eût damé
+que nous eussions damé
+que vous eussiez damé
+qu’ils (elles) eussent damé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons damé
+ayez damé
+
+* INFINITIF
+
+** Passé
+
+avoir damé
+
+* PARTICIPE
+
+** Passé
+
+ayant damé
+damé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis damé(e)
+tu es damé(e)
+il (elle) est damé(e)
+nous sommes damé(e)s
+vous êtes damé(e)s
+ils (elles) sont damé(e)s
+
+** Imparfait
+
+j'étais damé(e)
+tu étais damé(e)
+il (elle) était damé(e)
+nous étions damé(e)s
+vous étiez damé(e)s
+ils (elles) étaient damé(e)s
+
+** Passé simple
+
+je fus damé(e)
+tu fus damé(e)
+il (elle) fut damé(e)
+nous fûmes damé(e)s
+vous fûtes damé(e)s
+ils (elles) furent damé(e)s
+
+** Futur simple
+
+je serai damé(e)
+tu seras damé(e)
+il (elle) sera damé(e)
+nous serons damé(e)s
+vous serez damé(e)s
+ils (elles) seront damé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais damé(e)
+tu serais damé(e)
+il (elle) serait damé(e)
+nous serions damé(e)s
+vous seriez damé(e)s
+ils (elles) seraient damé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois damé(e)
+que tu sois damé(e)
+qu’il (elle) soit damé(e)
+que nous soyons damé(e)s
+que vous soyez damé(e)s
+qu’ils (elles) soient damé(e)s
+
+** Imparfait
+
+que je fusse damé(e)
+que tu fusses damé(e)
+qu’il (elle) fût damé(e)
+que nous fussions damé(e)s
+que vous fussiez damé(e)s
+qu’ils (elles) fussent damé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons damé(e)s
+soyez damé(e)s
+
+* INFINITIF
+
+** Présent
+
+être damé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant damé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été damé(e)
+tu as été damé(e)
+il (elle) a été damé(e)
+nous avons été damé(e)s
+vous avez été damé(e)s
+ils (elles) ont été damé(e)s
+
+** Plus-que-parfait
+
+j'avais été damé(e)
+il (elle) avait été damé(e)
+nous avions été damé(e)s
+ils (elles) avaient été damé(e)s
+
+** Passé antérieur
+
+j'eus été damé(e)
+tu eus été damé(e)
+il (elle) eut été damé(e)
+nous eûmes été damé(e)s
+vous eûtes été damé(e)s
+ils (elles) eurent été damé(e)s
+
+** Futur antérieur
+
+j'aurai été damé(e)
+tu auras été damé(e)
+il (elle) aura été damé(e)
+nous aurons été damé(e)s
+vous aurez été damé(e)s
+ils (elles) auront été damé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été damé(e)
+j'aurais été damé(e)
+il (elle) aurait été damé(e)
+nous aurions été damé(e)s
+vous auriez été damé(e)s
+ils (elles) auraient été damé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été damé(e)
+que tu aies été damé(e)
+qu’il (elle) ait été damé(e)
+que nous ayons été damé(e)s
+que vous ayez été damé(e)s
+qu’ils (elles) aient été damé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été damé(e)
+que tu eusses été damé(e)
+qu’il (elle) eût été damé(e)
+que nous eussions été damé(e)s
+que vous eussiez été damé(e)s
+qu’ils (elles) eussent été damé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été damé(e)
+ayons été damé(e)s
+ayez été damé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été damé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été damé(e)(s)

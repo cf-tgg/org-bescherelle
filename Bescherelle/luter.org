@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe luter
+
+* INDICATIF
+
+** Présent
+
+je lute
+tu lutes
+il (elle) lute
+nous lutons
+vous lutez
+ils (elles) lutent
+
+** Imparfait
+
+je lutais
+tu lutais
+il (elle) lutait
+nous lutions
+vous lutiez
+ils (elles) lutaient
+
+** Passé simple
+
+je lutai
+tu lutas
+il (elle) luta
+nous lutâmes
+vous lutâtes
+ils (elles) lutèrent
+
+** Futur simple
+
+je luterai
+tu luteras
+il (elle) lutera
+nous luterons
+vous luterez
+ils (elles) luteront
+
+* CONDITIONNEL
+
+** Présent
+
+je luterais
+tu luterais
+il (elle) luterait
+nous luterions
+vous luteriez
+ils (elles) luteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lute
+que tu lutes
+qu’il (elle) lute
+que nous lutions
+que vous lutiez
+qu’ils (elles) lutent
+
+** Imparfait
+
+que je lutasse
+que tu lutasses
+qu’il (elle) lutât
+que nous lutassions
+que vous lutassiez
+qu’ils (elles) lutassent
+
+* IMPÉRATIF
+
+** Présent
+
+lute
+lutons
+lutez
+
+* INFINITIF
+
+** Présent
+
+luter
+
+* PARTICIPE
+
+** Présent
+
+lutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai luté
+tu as luté
+il (elle) a luté
+nous avons luté
+vous avez luté
+ils (elles) ont luté
+
+** Plus-que-parfait
+
+j'avais luté
+tu avais luté
+il (elle) avait luté
+nous avions luté
+vous aviez luté
+ils (elles) avaient luté
+
+** Passé antérieur
+
+j'eus luté
+tu eus luté
+il (elle) eut luté
+nous eûmes luté
+vous eûtes luté
+ils (elles) eurent luté
+
+** Futur antérieur
+
+j'aurai luté
+tu auras luté
+il (elle) aura luté
+nous aurons luté
+vous aurez luté
+ils (elles) auront luté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais luté
+tu aurais luté
+il (elle) aurait luté
+nous aurions luté
+vous auriez luté
+ils (elles) auraient luté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie luté
+que tu aies luté
+qu’il (elle) ait luté
+que nous ayons luté
+que vous ayez luté
+qu’ils (elles) aient luté
+
+** Plus-que-parfait
+
+que j'eusse luté
+que tu eusses luté
+qu’il (elle) eût luté
+que nous eussions luté
+que vous eussiez luté
+qu’ils (elles) eussent luté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons luté
+ayez luté
+
+* INFINITIF
+
+** Passé
+
+avoir luté
+
+* PARTICIPE
+
+** Passé
+
+ayant luté
+luté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis luté(e)
+tu es luté(e)
+il (elle) est luté(e)
+nous sommes luté(e)s
+vous êtes luté(e)s
+ils (elles) sont luté(e)s
+
+** Imparfait
+
+j'étais luté(e)
+tu étais luté(e)
+il (elle) était luté(e)
+nous étions luté(e)s
+vous étiez luté(e)s
+ils (elles) étaient luté(e)s
+
+** Passé simple
+
+je fus luté(e)
+tu fus luté(e)
+il (elle) fut luté(e)
+nous fûmes luté(e)s
+vous fûtes luté(e)s
+ils (elles) furent luté(e)s
+
+** Futur simple
+
+je serai luté(e)
+tu seras luté(e)
+il (elle) sera luté(e)
+nous serons luté(e)s
+vous serez luté(e)s
+ils (elles) seront luté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais luté(e)
+tu serais luté(e)
+il (elle) serait luté(e)
+nous serions luté(e)s
+vous seriez luté(e)s
+ils (elles) seraient luté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois luté(e)
+que tu sois luté(e)
+qu’il (elle) soit luté(e)
+que nous soyons luté(e)s
+que vous soyez luté(e)s
+qu’ils (elles) soient luté(e)s
+
+** Imparfait
+
+que je fusse luté(e)
+que tu fusses luté(e)
+qu’il (elle) fût luté(e)
+que nous fussions luté(e)s
+que vous fussiez luté(e)s
+qu’ils (elles) fussent luté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons luté(e)s
+soyez luté(e)s
+
+* INFINITIF
+
+** Présent
+
+être luté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant luté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été luté(e)
+tu as été luté(e)
+il (elle) a été luté(e)
+nous avons été luté(e)s
+vous avez été luté(e)s
+ils (elles) ont été luté(e)s
+
+** Plus-que-parfait
+
+j'avais été luté(e)
+il (elle) avait été luté(e)
+nous avions été luté(e)s
+ils (elles) avaient été luté(e)s
+
+** Passé antérieur
+
+j'eus été luté(e)
+tu eus été luté(e)
+il (elle) eut été luté(e)
+nous eûmes été luté(e)s
+vous eûtes été luté(e)s
+ils (elles) eurent été luté(e)s
+
+** Futur antérieur
+
+j'aurai été luté(e)
+tu auras été luté(e)
+il (elle) aura été luté(e)
+nous aurons été luté(e)s
+vous aurez été luté(e)s
+ils (elles) auront été luté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été luté(e)
+j'aurais été luté(e)
+il (elle) aurait été luté(e)
+nous aurions été luté(e)s
+vous auriez été luté(e)s
+ils (elles) auraient été luté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été luté(e)
+que tu aies été luté(e)
+qu’il (elle) ait été luté(e)
+que nous ayons été luté(e)s
+que vous ayez été luté(e)s
+qu’ils (elles) aient été luté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été luté(e)
+que tu eusses été luté(e)
+qu’il (elle) eût été luté(e)
+que nous eussions été luté(e)s
+que vous eussiez été luté(e)s
+qu’ils (elles) eussent été luté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été luté(e)
+ayons été luté(e)s
+ayez été luté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été luté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été luté(e)(s)

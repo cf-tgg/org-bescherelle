@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe desapprendre
+
+* INDICATIF
+
+** Présent
+
+je désapprends
+tu désapprends
+il (elle) désapprend
+nous désapprenons
+vous désapprenez
+ils (elles) désapprennent
+
+** Imparfait
+
+je désapprenais
+tu désapprenais
+il (elle) désapprenait
+nous désapprenions
+vous désappreniez
+ils (elles) désapprenaient
+
+** Passé simple
+
+je désappris
+tu désappris
+il (elle) désapprit
+nous désapprîmes
+vous désapprîtes
+ils (elles) désapprirent
+
+** Futur simple
+
+je désapprendrai
+tu désapprendras
+il (elle) désapprendra
+nous désapprendrons
+vous désapprendrez
+ils (elles) désapprendront
+
+* CONDITIONNEL
+
+** Présent
+
+je désapprendrais
+tu désapprendrais
+il (elle) désapprendrait
+nous désapprendrions
+vous désapprendriez
+ils (elles) désapprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je désapprenne
+que tu désapprennes
+qu’il (elle) désapprenne
+que nous désapprenions
+que vous désappreniez
+qu’ils (elles) désapprennent
+
+** Imparfait
+
+que je désapprisse
+que tu désapprisses
+qu’il (elle) désapprît
+que nous désapprissions
+que vous désapprissiez
+qu’ils (elles) désapprissent
+
+* IMPÉRATIF
+
+** Présent
+
+désapprends
+désapprenons
+désapprenez
+
+* INFINITIF
+
+** Présent
+
+désapprendre
+
+* PARTICIPE
+
+** Présent
+
+désapprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai désappris
+tu as désappris
+il (elle) a désappris
+nous avons désappris
+vous avez désappris
+ils (elles) ont désappris
+
+** Plus-que-parfait
+
+j'avais désappris
+tu avais désappris
+il (elle) avait désappris
+nous avions désappris
+vous aviez désappris
+ils (elles) avaient désappris
+
+** Passé antérieur
+
+j'eus désappris
+tu eus désappris
+il (elle) eut désappris
+nous eûmes désappris
+vous eûtes désappris
+ils (elles) eurent désappris
+
+** Futur antérieur
+
+j'aurai désappris
+tu auras désappris
+il (elle) aura désappris
+nous aurons désappris
+vous aurez désappris
+ils (elles) auront désappris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais désappris
+tu aurais désappris
+il (elle) aurait désappris
+nous aurions désappris
+vous auriez désappris
+ils (elles) auraient désappris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie désappris
+que tu aies désappris
+qu’il (elle) ait désappris
+que nous ayons désappris
+que vous ayez désappris
+qu’ils (elles) aient désappris
+
+** Plus-que-parfait
+
+que j'eusse désappris
+que tu eusses désappris
+qu’il (elle) eût désappris
+que nous eussions désappris
+que vous eussiez désappris
+qu’ils (elles) eussent désappris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons désappris
+ayez désappris
+
+* INFINITIF
+
+** Passé
+
+avoir désappris
+
+* PARTICIPE
+
+** Passé
+
+ayant désappris
+désappris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis désappris(e)
+tu es désappris(e)
+il (elle) est désappris(e)
+nous sommes désappris(es)
+vous êtes désappris(es)
+ils (elles) sont désappris(es)
+
+** Imparfait
+
+j'étais désappris(e)
+tu étais désappris(e)
+il (elle) était désappris(e)
+nous étions désappris(es)
+vous étiez désappris(es)
+ils (elles) étaient désappris(es)
+
+** Passé simple
+
+je fus désappris(e)
+tu fus désappris(e)
+il (elle) fut désappris(e)
+nous fûmes désappris(es)
+vous fûtes désappris(es)
+ils (elles) furent désappris(es)
+
+** Futur simple
+
+je serai désappris(e)
+tu seras désappris(e)
+il (elle) sera désappris(e)
+nous serons désappris(es)
+vous serez désappris(es)
+ils (elles) seront désappris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais désappris(e)
+tu serais désappris(e)
+il (elle) serait désappris(e)
+nous serions désappris(es)
+vous seriez désappris(es)
+ils (elles) seraient désappris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois désappris(e)
+que tu sois désappris(e)
+qu’il (elle) soit désappris(e)
+que nous soyons désappris(es)
+que vous soyez désappris(es)
+qu’ils (elles) soient désappris(es)
+
+** Imparfait
+
+que je fusse désappris(e)
+que tu fusses désappris(e)
+qu’il (elle) fût désappris(e)
+que nous fussions désappris(es)
+que vous fussiez désappris(es)
+qu’ils (elles) fussent désappris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons désappris(es)
+soyez désappris(es)
+
+* INFINITIF
+
+** Présent
+
+être désappris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant désappris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été désappris(e)
+tu as été désappris(e)
+il (elle) a été désappris(e)
+nous avons été désappris(es)
+vous avez été désappris(es)
+ils (elles) ont été désappris(es)
+
+** Plus-que-parfait
+
+j'avais été désappris(e)
+il (elle) avait été désappris(e)
+nous avions été désappris(es)
+ils (elles) avaient été désappris(es)
+
+** Passé antérieur
+
+j'eus été désappris(e)
+tu eus été désappris(e)
+il (elle) eut été désappris(e)
+nous eûmes été désappris(es)
+vous eûtes été désappris(es)
+ils (elles) eurent été désappris(es)
+
+** Futur antérieur
+
+j'aurai été désappris(e)
+tu auras été désappris(e)
+il (elle) aura été désappris(e)
+nous aurons été désappris(es)
+vous aurez été désappris(es)
+ils (elles) auront été désappris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été désappris(e)
+j'aurais été désappris(e)
+il (elle) aurait été désappris(e)
+nous aurions été désappris(es)
+vous auriez été désappris(es)
+ils (elles) auraient été désappris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été désappris(e)
+que tu aies été désappris(e)
+qu’il (elle) ait été désappris(e)
+que nous ayons été désappris(es)
+que vous ayez été désappris(es)
+qu’ils (elles) aient été désappris(es)
+
+** Plus-que-parfait
+
+que j'eusse été désappris(e)
+que tu eusses été désappris(e)
+qu’il (elle) eût été désappris(e)
+que nous eussions été désappris(es)
+que vous eussiez été désappris(es)
+qu’ils (elles) eussent été désappris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été désappris(e)
+ayons été désappris(es)
+ayez été désappris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été désappris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été désappris (s, se, s, ses)

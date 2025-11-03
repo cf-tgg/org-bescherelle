@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bonifier
+
+* INDICATIF
+
+** Présent
+
+je bonifie
+tu bonifies
+il (elle) bonifie
+nous bonifions
+vous bonifiez
+ils (elles) bonifient
+
+** Imparfait
+
+je bonifiais
+tu bonifiais
+il (elle) bonifiait
+nous bonifiions
+vous bonifiiez
+ils (elles) bonifiaient
+
+** Passé simple
+
+je bonifiai
+tu bonifias
+il (elle) bonifia
+nous bonifiâmes
+vous bonifiâtes
+ils (elles) bonifièrent
+
+** Futur simple
+
+je bonifierai
+tu bonifieras
+il (elle) bonifiera
+nous bonifierons
+vous bonifierez
+ils (elles) bonifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je bonifierais
+tu bonifierais
+il (elle) bonifierait
+nous bonifierions
+vous bonifieriez
+ils (elles) bonifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bonifie
+que tu bonifies
+qu’il (elle) bonifie
+que nous bonifiions
+que vous bonifiiez
+qu’ils (elles) bonifient
+
+** Imparfait
+
+que je bonifiasse
+que tu bonifiasses
+qu’il (elle) bonifiât
+que nous bonifiassions
+que vous bonifiassiez
+qu’ils (elles) bonifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+bonifie
+bonifions
+bonifiez
+
+* INFINITIF
+
+** Présent
+
+bonifier
+
+* PARTICIPE
+
+** Présent
+
+bonifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bonifié
+tu as bonifié
+il (elle) a bonifié
+nous avons bonifié
+vous avez bonifié
+ils (elles) ont bonifié
+
+** Plus-que-parfait
+
+j'avais bonifié
+tu avais bonifié
+il (elle) avait bonifié
+nous avions bonifié
+vous aviez bonifié
+ils (elles) avaient bonifié
+
+** Passé antérieur
+
+j'eus bonifié
+tu eus bonifié
+il (elle) eut bonifié
+nous eûmes bonifié
+vous eûtes bonifié
+ils (elles) eurent bonifié
+
+** Futur antérieur
+
+j'aurai bonifié
+tu auras bonifié
+il (elle) aura bonifié
+nous aurons bonifié
+vous aurez bonifié
+ils (elles) auront bonifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bonifié
+tu aurais bonifié
+il (elle) aurait bonifié
+nous aurions bonifié
+vous auriez bonifié
+ils (elles) auraient bonifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bonifié
+que tu aies bonifié
+qu’il (elle) ait bonifié
+que nous ayons bonifié
+que vous ayez bonifié
+qu’ils (elles) aient bonifié
+
+** Plus-que-parfait
+
+que j'eusse bonifié
+que tu eusses bonifié
+qu’il (elle) eût bonifié
+que nous eussions bonifié
+que vous eussiez bonifié
+qu’ils (elles) eussent bonifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bonifié
+ayez bonifié
+
+* INFINITIF
+
+** Passé
+
+avoir bonifié
+
+* PARTICIPE
+
+** Passé
+
+ayant bonifié
+bonifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bonifié(e)
+tu es bonifié(e)
+il (elle) est bonifié(e)
+nous sommes bonifié(e)s
+vous êtes bonifié(e)s
+ils (elles) sont bonifié(e)s
+
+** Imparfait
+
+j'étais bonifié(e)
+tu étais bonifié(e)
+il (elle) était bonifié(e)
+nous étions bonifié(e)s
+vous étiez bonifié(e)s
+ils (elles) étaient bonifié(e)s
+
+** Passé simple
+
+je fus bonifié(e)
+tu fus bonifié(e)
+il (elle) fut bonifié(e)
+nous fûmes bonifié(e)s
+vous fûtes bonifié(e)s
+ils (elles) furent bonifié(e)s
+
+** Futur simple
+
+je serai bonifié(e)
+tu seras bonifié(e)
+il (elle) sera bonifié(e)
+nous serons bonifié(e)s
+vous serez bonifié(e)s
+ils (elles) seront bonifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bonifié(e)
+tu serais bonifié(e)
+il (elle) serait bonifié(e)
+nous serions bonifié(e)s
+vous seriez bonifié(e)s
+ils (elles) seraient bonifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bonifié(e)
+que tu sois bonifié(e)
+qu’il (elle) soit bonifié(e)
+que nous soyons bonifié(e)s
+que vous soyez bonifié(e)s
+qu’ils (elles) soient bonifié(e)s
+
+** Imparfait
+
+que je fusse bonifié(e)
+que tu fusses bonifié(e)
+qu’il (elle) fût bonifié(e)
+que nous fussions bonifié(e)s
+que vous fussiez bonifié(e)s
+qu’ils (elles) fussent bonifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bonifié(e)s
+soyez bonifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être bonifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bonifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bonifié(e)
+tu as été bonifié(e)
+il (elle) a été bonifié(e)
+nous avons été bonifié(e)s
+vous avez été bonifié(e)s
+ils (elles) ont été bonifié(e)s
+
+** Plus-que-parfait
+
+j'avais été bonifié(e)
+il (elle) avait été bonifié(e)
+nous avions été bonifié(e)s
+ils (elles) avaient été bonifié(e)s
+
+** Passé antérieur
+
+j'eus été bonifié(e)
+tu eus été bonifié(e)
+il (elle) eut été bonifié(e)
+nous eûmes été bonifié(e)s
+vous eûtes été bonifié(e)s
+ils (elles) eurent été bonifié(e)s
+
+** Futur antérieur
+
+j'aurai été bonifié(e)
+tu auras été bonifié(e)
+il (elle) aura été bonifié(e)
+nous aurons été bonifié(e)s
+vous aurez été bonifié(e)s
+ils (elles) auront été bonifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bonifié(e)
+j'aurais été bonifié(e)
+il (elle) aurait été bonifié(e)
+nous aurions été bonifié(e)s
+vous auriez été bonifié(e)s
+ils (elles) auraient été bonifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bonifié(e)
+que tu aies été bonifié(e)
+qu’il (elle) ait été bonifié(e)
+que nous ayons été bonifié(e)s
+que vous ayez été bonifié(e)s
+qu’ils (elles) aient été bonifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bonifié(e)
+que tu eusses été bonifié(e)
+qu’il (elle) eût été bonifié(e)
+que nous eussions été bonifié(e)s
+que vous eussiez été bonifié(e)s
+qu’ils (elles) eussent été bonifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bonifié(e)
+ayons été bonifié(e)s
+ayez été bonifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bonifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bonifié(e)(s)

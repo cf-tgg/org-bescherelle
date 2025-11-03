@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe autoriser
+
+* INDICATIF
+
+** Présent
+
+j'autorise
+tu autorises
+il (elle) autorise
+nous autorisons
+vous autorisez
+ils (elles) autorisent
+
+** Imparfait
+
+j'autorisais
+tu autorisais
+il (elle) autorisait
+nous autorisions
+vous autorisiez
+ils (elles) autorisaient
+
+** Passé simple
+
+j'autorisai
+tu autorisas
+il (elle) autorisa
+nous autorisâmes
+vous autorisâtes
+ils (elles) autorisèrent
+
+** Futur simple
+
+j'autoriserai
+tu autoriseras
+il (elle) autorisera
+nous autoriserons
+vous autoriserez
+ils (elles) autoriseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'autoriserais
+tu autoriserais
+il (elle) autoriserait
+nous autoriserions
+vous autoriseriez
+ils (elles) autoriseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'autorise
+que tu autorises
+qu’il (elle) autorise
+que nous autorisions
+que vous autorisiez
+qu’ils (elles) autorisent
+
+** Imparfait
+
+que j'autorisasse
+que tu autorisasses
+qu’il (elle) autorisât
+que nous autorisassions
+que vous autorisassiez
+qu’ils (elles) autorisassent
+
+* IMPÉRATIF
+
+** Présent
+
+autorise
+autorisons
+autorisez
+
+* INFINITIF
+
+** Présent
+
+autoriser
+
+* PARTICIPE
+
+** Présent
+
+autorisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai autorisé
+tu as autorisé
+il (elle) a autorisé
+nous avons autorisé
+vous avez autorisé
+ils (elles) ont autorisé
+
+** Plus-que-parfait
+
+j'avais autorisé
+tu avais autorisé
+il (elle) avait autorisé
+nous avions autorisé
+vous aviez autorisé
+ils (elles) avaient autorisé
+
+** Passé antérieur
+
+j'eus autorisé
+tu eus autorisé
+il (elle) eut autorisé
+nous eûmes autorisé
+vous eûtes autorisé
+ils (elles) eurent autorisé
+
+** Futur antérieur
+
+j'aurai autorisé
+tu auras autorisé
+il (elle) aura autorisé
+nous aurons autorisé
+vous aurez autorisé
+ils (elles) auront autorisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais autorisé
+tu aurais autorisé
+il (elle) aurait autorisé
+nous aurions autorisé
+vous auriez autorisé
+ils (elles) auraient autorisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie autorisé
+que tu aies autorisé
+qu’il (elle) ait autorisé
+que nous ayons autorisé
+que vous ayez autorisé
+qu’ils (elles) aient autorisé
+
+** Plus-que-parfait
+
+que j'eusse autorisé
+que tu eusses autorisé
+qu’il (elle) eût autorisé
+que nous eussions autorisé
+que vous eussiez autorisé
+qu’ils (elles) eussent autorisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons autorisé
+ayez autorisé
+
+* INFINITIF
+
+** Passé
+
+avoir autorisé
+
+* PARTICIPE
+
+** Passé
+
+ayant autorisé
+autorisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis autorisé(e)
+tu es autorisé(e)
+il (elle) est autorisé(e)
+nous sommes autorisé(e)s
+vous êtes autorisé(e)s
+ils (elles) sont autorisé(e)s
+
+** Imparfait
+
+j'étais autorisé(e)
+tu étais autorisé(e)
+il (elle) était autorisé(e)
+nous étions autorisé(e)s
+vous étiez autorisé(e)s
+ils (elles) étaient autorisé(e)s
+
+** Passé simple
+
+je fus autorisé(e)
+tu fus autorisé(e)
+il (elle) fut autorisé(e)
+nous fûmes autorisé(e)s
+vous fûtes autorisé(e)s
+ils (elles) furent autorisé(e)s
+
+** Futur simple
+
+je serai autorisé(e)
+tu seras autorisé(e)
+il (elle) sera autorisé(e)
+nous serons autorisé(e)s
+vous serez autorisé(e)s
+ils (elles) seront autorisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais autorisé(e)
+tu serais autorisé(e)
+il (elle) serait autorisé(e)
+nous serions autorisé(e)s
+vous seriez autorisé(e)s
+ils (elles) seraient autorisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois autorisé(e)
+que tu sois autorisé(e)
+qu’il (elle) soit autorisé(e)
+que nous soyons autorisé(e)s
+que vous soyez autorisé(e)s
+qu’ils (elles) soient autorisé(e)s
+
+** Imparfait
+
+que je fusse autorisé(e)
+que tu fusses autorisé(e)
+qu’il (elle) fût autorisé(e)
+que nous fussions autorisé(e)s
+que vous fussiez autorisé(e)s
+qu’ils (elles) fussent autorisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons autorisé(e)s
+soyez autorisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être autorisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant autorisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été autorisé(e)
+tu as été autorisé(e)
+il (elle) a été autorisé(e)
+nous avons été autorisé(e)s
+vous avez été autorisé(e)s
+ils (elles) ont été autorisé(e)s
+
+** Plus-que-parfait
+
+j'avais été autorisé(e)
+il (elle) avait été autorisé(e)
+nous avions été autorisé(e)s
+ils (elles) avaient été autorisé(e)s
+
+** Passé antérieur
+
+j'eus été autorisé(e)
+tu eus été autorisé(e)
+il (elle) eut été autorisé(e)
+nous eûmes été autorisé(e)s
+vous eûtes été autorisé(e)s
+ils (elles) eurent été autorisé(e)s
+
+** Futur antérieur
+
+j'aurai été autorisé(e)
+tu auras été autorisé(e)
+il (elle) aura été autorisé(e)
+nous aurons été autorisé(e)s
+vous aurez été autorisé(e)s
+ils (elles) auront été autorisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été autorisé(e)
+j'aurais été autorisé(e)
+il (elle) aurait été autorisé(e)
+nous aurions été autorisé(e)s
+vous auriez été autorisé(e)s
+ils (elles) auraient été autorisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été autorisé(e)
+que tu aies été autorisé(e)
+qu’il (elle) ait été autorisé(e)
+que nous ayons été autorisé(e)s
+que vous ayez été autorisé(e)s
+qu’ils (elles) aient été autorisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été autorisé(e)
+que tu eusses été autorisé(e)
+qu’il (elle) eût été autorisé(e)
+que nous eussions été autorisé(e)s
+que vous eussiez été autorisé(e)s
+qu’ils (elles) eussent été autorisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été autorisé(e)
+ayons été autorisé(e)s
+ayez été autorisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été autorisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été autorisé(e)(s)

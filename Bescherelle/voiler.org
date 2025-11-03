@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe voiler
+
+* INDICATIF
+
+** Présent
+
+je voile
+tu voiles
+il (elle) voile
+nous voilons
+vous voilez
+ils (elles) voilent
+
+** Imparfait
+
+je voilais
+tu voilais
+il (elle) voilait
+nous voilions
+vous voiliez
+ils (elles) voilaient
+
+** Passé simple
+
+je voilai
+tu voilas
+il (elle) voila
+nous voilâmes
+vous voilâtes
+ils (elles) voilèrent
+
+** Futur simple
+
+je voilerai
+tu voileras
+il (elle) voilera
+nous voilerons
+vous voilerez
+ils (elles) voileront
+
+* CONDITIONNEL
+
+** Présent
+
+je voilerais
+tu voilerais
+il (elle) voilerait
+nous voilerions
+vous voileriez
+ils (elles) voileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je voile
+que tu voiles
+qu’il (elle) voile
+que nous voilions
+que vous voiliez
+qu’ils (elles) voilent
+
+** Imparfait
+
+que je voilasse
+que tu voilasses
+qu’il (elle) voilât
+que nous voilassions
+que vous voilassiez
+qu’ils (elles) voilassent
+
+* IMPÉRATIF
+
+** Présent
+
+voile
+voilons
+voilez
+
+* INFINITIF
+
+** Présent
+
+voiler
+
+* PARTICIPE
+
+** Présent
+
+voilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voilé
+tu as voilé
+il (elle) a voilé
+nous avons voilé
+vous avez voilé
+ils (elles) ont voilé
+
+** Plus-que-parfait
+
+j'avais voilé
+tu avais voilé
+il (elle) avait voilé
+nous avions voilé
+vous aviez voilé
+ils (elles) avaient voilé
+
+** Passé antérieur
+
+j'eus voilé
+tu eus voilé
+il (elle) eut voilé
+nous eûmes voilé
+vous eûtes voilé
+ils (elles) eurent voilé
+
+** Futur antérieur
+
+j'aurai voilé
+tu auras voilé
+il (elle) aura voilé
+nous aurons voilé
+vous aurez voilé
+ils (elles) auront voilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voilé
+tu aurais voilé
+il (elle) aurait voilé
+nous aurions voilé
+vous auriez voilé
+ils (elles) auraient voilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voilé
+que tu aies voilé
+qu’il (elle) ait voilé
+que nous ayons voilé
+que vous ayez voilé
+qu’ils (elles) aient voilé
+
+** Plus-que-parfait
+
+que j'eusse voilé
+que tu eusses voilé
+qu’il (elle) eût voilé
+que nous eussions voilé
+que vous eussiez voilé
+qu’ils (elles) eussent voilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voilé
+ayez voilé
+
+* INFINITIF
+
+** Passé
+
+avoir voilé
+
+* PARTICIPE
+
+** Passé
+
+ayant voilé
+voilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis voilé(e)
+tu es voilé(e)
+il (elle) est voilé(e)
+nous sommes voilé(e)s
+vous êtes voilé(e)s
+ils (elles) sont voilé(e)s
+
+** Imparfait
+
+j'étais voilé(e)
+tu étais voilé(e)
+il (elle) était voilé(e)
+nous étions voilé(e)s
+vous étiez voilé(e)s
+ils (elles) étaient voilé(e)s
+
+** Passé simple
+
+je fus voilé(e)
+tu fus voilé(e)
+il (elle) fut voilé(e)
+nous fûmes voilé(e)s
+vous fûtes voilé(e)s
+ils (elles) furent voilé(e)s
+
+** Futur simple
+
+je serai voilé(e)
+tu seras voilé(e)
+il (elle) sera voilé(e)
+nous serons voilé(e)s
+vous serez voilé(e)s
+ils (elles) seront voilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais voilé(e)
+tu serais voilé(e)
+il (elle) serait voilé(e)
+nous serions voilé(e)s
+vous seriez voilé(e)s
+ils (elles) seraient voilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois voilé(e)
+que tu sois voilé(e)
+qu’il (elle) soit voilé(e)
+que nous soyons voilé(e)s
+que vous soyez voilé(e)s
+qu’ils (elles) soient voilé(e)s
+
+** Imparfait
+
+que je fusse voilé(e)
+que tu fusses voilé(e)
+qu’il (elle) fût voilé(e)
+que nous fussions voilé(e)s
+que vous fussiez voilé(e)s
+qu’ils (elles) fussent voilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons voilé(e)s
+soyez voilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être voilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant voilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été voilé(e)
+tu as été voilé(e)
+il (elle) a été voilé(e)
+nous avons été voilé(e)s
+vous avez été voilé(e)s
+ils (elles) ont été voilé(e)s
+
+** Plus-que-parfait
+
+j'avais été voilé(e)
+il (elle) avait été voilé(e)
+nous avions été voilé(e)s
+ils (elles) avaient été voilé(e)s
+
+** Passé antérieur
+
+j'eus été voilé(e)
+tu eus été voilé(e)
+il (elle) eut été voilé(e)
+nous eûmes été voilé(e)s
+vous eûtes été voilé(e)s
+ils (elles) eurent été voilé(e)s
+
+** Futur antérieur
+
+j'aurai été voilé(e)
+tu auras été voilé(e)
+il (elle) aura été voilé(e)
+nous aurons été voilé(e)s
+vous aurez été voilé(e)s
+ils (elles) auront été voilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été voilé(e)
+j'aurais été voilé(e)
+il (elle) aurait été voilé(e)
+nous aurions été voilé(e)s
+vous auriez été voilé(e)s
+ils (elles) auraient été voilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été voilé(e)
+que tu aies été voilé(e)
+qu’il (elle) ait été voilé(e)
+que nous ayons été voilé(e)s
+que vous ayez été voilé(e)s
+qu’ils (elles) aient été voilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été voilé(e)
+que tu eusses été voilé(e)
+qu’il (elle) eût été voilé(e)
+que nous eussions été voilé(e)s
+que vous eussiez été voilé(e)s
+qu’ils (elles) eussent été voilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été voilé(e)
+ayons été voilé(e)s
+ayez été voilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été voilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été voilé(e)(s)

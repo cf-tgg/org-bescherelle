@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conseiller
+
+* INDICATIF
+
+** Présent
+
+je conseille
+tu conseilles
+il (elle) conseille
+nous conseillons
+vous conseillez
+ils (elles) conseillent
+
+** Imparfait
+
+je conseillais
+tu conseillais
+il (elle) conseillait
+nous conseillions
+vous conseilliez
+ils (elles) conseillaient
+
+** Passé simple
+
+je conseillai
+tu conseillas
+il (elle) conseilla
+nous conseillâmes
+vous conseillâtes
+ils (elles) conseillèrent
+
+** Futur simple
+
+je conseillerai
+tu conseilleras
+il (elle) conseillera
+nous conseillerons
+vous conseillerez
+ils (elles) conseilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je conseillerais
+tu conseillerais
+il (elle) conseillerait
+nous conseillerions
+vous conseilleriez
+ils (elles) conseilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conseille
+que tu conseilles
+qu’il (elle) conseille
+que nous conseillions
+que vous conseilliez
+qu’ils (elles) conseillent
+
+** Imparfait
+
+que je conseillasse
+que tu conseillasses
+qu’il (elle) conseillât
+que nous conseillassions
+que vous conseillassiez
+qu’ils (elles) conseillassent
+
+* IMPÉRATIF
+
+** Présent
+
+conseille
+conseillons
+conseillez
+
+* INFINITIF
+
+** Présent
+
+conseiller
+
+* PARTICIPE
+
+** Présent
+
+conseillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conseillé
+tu as conseillé
+il (elle) a conseillé
+nous avons conseillé
+vous avez conseillé
+ils (elles) ont conseillé
+
+** Plus-que-parfait
+
+j'avais conseillé
+tu avais conseillé
+il (elle) avait conseillé
+nous avions conseillé
+vous aviez conseillé
+ils (elles) avaient conseillé
+
+** Passé antérieur
+
+j'eus conseillé
+tu eus conseillé
+il (elle) eut conseillé
+nous eûmes conseillé
+vous eûtes conseillé
+ils (elles) eurent conseillé
+
+** Futur antérieur
+
+j'aurai conseillé
+tu auras conseillé
+il (elle) aura conseillé
+nous aurons conseillé
+vous aurez conseillé
+ils (elles) auront conseillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conseillé
+tu aurais conseillé
+il (elle) aurait conseillé
+nous aurions conseillé
+vous auriez conseillé
+ils (elles) auraient conseillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conseillé
+que tu aies conseillé
+qu’il (elle) ait conseillé
+que nous ayons conseillé
+que vous ayez conseillé
+qu’ils (elles) aient conseillé
+
+** Plus-que-parfait
+
+que j'eusse conseillé
+que tu eusses conseillé
+qu’il (elle) eût conseillé
+que nous eussions conseillé
+que vous eussiez conseillé
+qu’ils (elles) eussent conseillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conseillé
+ayez conseillé
+
+* INFINITIF
+
+** Passé
+
+avoir conseillé
+
+* PARTICIPE
+
+** Passé
+
+ayant conseillé
+conseillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conseillé(e)
+tu es conseillé(e)
+il (elle) est conseillé(e)
+nous sommes conseillé(e)s
+vous êtes conseillé(e)s
+ils (elles) sont conseillé(e)s
+
+** Imparfait
+
+j'étais conseillé(e)
+tu étais conseillé(e)
+il (elle) était conseillé(e)
+nous étions conseillé(e)s
+vous étiez conseillé(e)s
+ils (elles) étaient conseillé(e)s
+
+** Passé simple
+
+je fus conseillé(e)
+tu fus conseillé(e)
+il (elle) fut conseillé(e)
+nous fûmes conseillé(e)s
+vous fûtes conseillé(e)s
+ils (elles) furent conseillé(e)s
+
+** Futur simple
+
+je serai conseillé(e)
+tu seras conseillé(e)
+il (elle) sera conseillé(e)
+nous serons conseillé(e)s
+vous serez conseillé(e)s
+ils (elles) seront conseillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conseillé(e)
+tu serais conseillé(e)
+il (elle) serait conseillé(e)
+nous serions conseillé(e)s
+vous seriez conseillé(e)s
+ils (elles) seraient conseillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conseillé(e)
+que tu sois conseillé(e)
+qu’il (elle) soit conseillé(e)
+que nous soyons conseillé(e)s
+que vous soyez conseillé(e)s
+qu’ils (elles) soient conseillé(e)s
+
+** Imparfait
+
+que je fusse conseillé(e)
+que tu fusses conseillé(e)
+qu’il (elle) fût conseillé(e)
+que nous fussions conseillé(e)s
+que vous fussiez conseillé(e)s
+qu’ils (elles) fussent conseillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conseillé(e)s
+soyez conseillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être conseillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conseillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conseillé(e)
+tu as été conseillé(e)
+il (elle) a été conseillé(e)
+nous avons été conseillé(e)s
+vous avez été conseillé(e)s
+ils (elles) ont été conseillé(e)s
+
+** Plus-que-parfait
+
+j'avais été conseillé(e)
+il (elle) avait été conseillé(e)
+nous avions été conseillé(e)s
+ils (elles) avaient été conseillé(e)s
+
+** Passé antérieur
+
+j'eus été conseillé(e)
+tu eus été conseillé(e)
+il (elle) eut été conseillé(e)
+nous eûmes été conseillé(e)s
+vous eûtes été conseillé(e)s
+ils (elles) eurent été conseillé(e)s
+
+** Futur antérieur
+
+j'aurai été conseillé(e)
+tu auras été conseillé(e)
+il (elle) aura été conseillé(e)
+nous aurons été conseillé(e)s
+vous aurez été conseillé(e)s
+ils (elles) auront été conseillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conseillé(e)
+j'aurais été conseillé(e)
+il (elle) aurait été conseillé(e)
+nous aurions été conseillé(e)s
+vous auriez été conseillé(e)s
+ils (elles) auraient été conseillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conseillé(e)
+que tu aies été conseillé(e)
+qu’il (elle) ait été conseillé(e)
+que nous ayons été conseillé(e)s
+que vous ayez été conseillé(e)s
+qu’ils (elles) aient été conseillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conseillé(e)
+que tu eusses été conseillé(e)
+qu’il (elle) eût été conseillé(e)
+que nous eussions été conseillé(e)s
+que vous eussiez été conseillé(e)s
+qu’ils (elles) eussent été conseillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conseillé(e)
+ayons été conseillé(e)s
+ayez été conseillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conseillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conseillé(e)(s)

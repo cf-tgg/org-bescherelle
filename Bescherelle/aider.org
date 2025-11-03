@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aider
+
+* INDICATIF
+
+** Présent
+
+j'aide
+tu aides
+il (elle) aide
+nous aidons
+vous aidez
+ils (elles) aident
+
+** Imparfait
+
+j'aidais
+tu aidais
+il (elle) aidait
+nous aidions
+vous aidiez
+ils (elles) aidaient
+
+** Passé simple
+
+j'aidai
+tu aidas
+il (elle) aida
+nous aidâmes
+vous aidâtes
+ils (elles) aidèrent
+
+** Futur simple
+
+j'aiderai
+tu aideras
+il (elle) aidera
+nous aiderons
+vous aiderez
+ils (elles) aideront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aiderais
+tu aiderais
+il (elle) aiderait
+nous aiderions
+vous aideriez
+ils (elles) aideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aide
+que tu aides
+qu’il (elle) aide
+que nous aidions
+que vous aidiez
+qu’ils (elles) aident
+
+** Imparfait
+
+que j'aidasse
+que tu aidasses
+qu’il (elle) aidât
+que nous aidassions
+que vous aidassiez
+qu’ils (elles) aidassent
+
+* IMPÉRATIF
+
+** Présent
+
+aide
+aidons
+aidez
+
+* INFINITIF
+
+** Présent
+
+aider
+
+* PARTICIPE
+
+** Présent
+
+aidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aidé
+tu as aidé
+il (elle) a aidé
+nous avons aidé
+vous avez aidé
+ils (elles) ont aidé
+
+** Plus-que-parfait
+
+j'avais aidé
+tu avais aidé
+il (elle) avait aidé
+nous avions aidé
+vous aviez aidé
+ils (elles) avaient aidé
+
+** Passé antérieur
+
+j'eus aidé
+tu eus aidé
+il (elle) eut aidé
+nous eûmes aidé
+vous eûtes aidé
+ils (elles) eurent aidé
+
+** Futur antérieur
+
+j'aurai aidé
+tu auras aidé
+il (elle) aura aidé
+nous aurons aidé
+vous aurez aidé
+ils (elles) auront aidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aidé
+tu aurais aidé
+il (elle) aurait aidé
+nous aurions aidé
+vous auriez aidé
+ils (elles) auraient aidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aidé
+que tu aies aidé
+qu’il (elle) ait aidé
+que nous ayons aidé
+que vous ayez aidé
+qu’ils (elles) aient aidé
+
+** Plus-que-parfait
+
+que j'eusse aidé
+que tu eusses aidé
+qu’il (elle) eût aidé
+que nous eussions aidé
+que vous eussiez aidé
+qu’ils (elles) eussent aidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aidé
+ayez aidé
+
+* INFINITIF
+
+** Passé
+
+avoir aidé
+
+* PARTICIPE
+
+** Passé
+
+ayant aidé
+aidé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aidé(e)
+tu es aidé(e)
+il (elle) est aidé(e)
+nous sommes aidé(e)s
+vous êtes aidé(e)s
+ils (elles) sont aidé(e)s
+
+** Imparfait
+
+j'étais aidé(e)
+tu étais aidé(e)
+il (elle) était aidé(e)
+nous étions aidé(e)s
+vous étiez aidé(e)s
+ils (elles) étaient aidé(e)s
+
+** Passé simple
+
+je fus aidé(e)
+tu fus aidé(e)
+il (elle) fut aidé(e)
+nous fûmes aidé(e)s
+vous fûtes aidé(e)s
+ils (elles) furent aidé(e)s
+
+** Futur simple
+
+je serai aidé(e)
+tu seras aidé(e)
+il (elle) sera aidé(e)
+nous serons aidé(e)s
+vous serez aidé(e)s
+ils (elles) seront aidé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aidé(e)
+tu serais aidé(e)
+il (elle) serait aidé(e)
+nous serions aidé(e)s
+vous seriez aidé(e)s
+ils (elles) seraient aidé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aidé(e)
+que tu sois aidé(e)
+qu’il (elle) soit aidé(e)
+que nous soyons aidé(e)s
+que vous soyez aidé(e)s
+qu’ils (elles) soient aidé(e)s
+
+** Imparfait
+
+que je fusse aidé(e)
+que tu fusses aidé(e)
+qu’il (elle) fût aidé(e)
+que nous fussions aidé(e)s
+que vous fussiez aidé(e)s
+qu’ils (elles) fussent aidé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aidé(e)s
+soyez aidé(e)s
+
+* INFINITIF
+
+** Présent
+
+être aidé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aidé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aidé(e)
+tu as été aidé(e)
+il (elle) a été aidé(e)
+nous avons été aidé(e)s
+vous avez été aidé(e)s
+ils (elles) ont été aidé(e)s
+
+** Plus-que-parfait
+
+j'avais été aidé(e)
+il (elle) avait été aidé(e)
+nous avions été aidé(e)s
+ils (elles) avaient été aidé(e)s
+
+** Passé antérieur
+
+j'eus été aidé(e)
+tu eus été aidé(e)
+il (elle) eut été aidé(e)
+nous eûmes été aidé(e)s
+vous eûtes été aidé(e)s
+ils (elles) eurent été aidé(e)s
+
+** Futur antérieur
+
+j'aurai été aidé(e)
+tu auras été aidé(e)
+il (elle) aura été aidé(e)
+nous aurons été aidé(e)s
+vous aurez été aidé(e)s
+ils (elles) auront été aidé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aidé(e)
+j'aurais été aidé(e)
+il (elle) aurait été aidé(e)
+nous aurions été aidé(e)s
+vous auriez été aidé(e)s
+ils (elles) auraient été aidé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aidé(e)
+que tu aies été aidé(e)
+qu’il (elle) ait été aidé(e)
+que nous ayons été aidé(e)s
+que vous ayez été aidé(e)s
+qu’ils (elles) aient été aidé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aidé(e)
+que tu eusses été aidé(e)
+qu’il (elle) eût été aidé(e)
+que nous eussions été aidé(e)s
+que vous eussiez été aidé(e)s
+qu’ils (elles) eussent été aidé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aidé(e)
+ayons été aidé(e)s
+ayez été aidé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aidé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aidé(e)(s)

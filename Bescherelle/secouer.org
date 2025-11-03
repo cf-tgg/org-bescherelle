@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe secouer
+
+* INDICATIF
+
+** Présent
+
+je secoue
+tu secoues
+il (elle) secoue
+nous secouons
+vous secouez
+ils (elles) secouent
+
+** Imparfait
+
+je secouais
+tu secouais
+il (elle) secouait
+nous secouions
+vous secouiez
+ils (elles) secouaient
+
+** Passé simple
+
+je secouai
+tu secouas
+il (elle) secoua
+nous secouâmes
+vous secouâtes
+ils (elles) secouèrent
+
+** Futur simple
+
+je secouerai
+tu secoueras
+il (elle) secouera
+nous secouerons
+vous secouerez
+ils (elles) secoueront
+
+* CONDITIONNEL
+
+** Présent
+
+je secouerais
+tu secouerais
+il (elle) secouerait
+nous secouerions
+vous secoueriez
+ils (elles) secoueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je secoue
+que tu secoues
+qu’il (elle) secoue
+que nous secouions
+que vous secouiez
+qu’ils (elles) secouent
+
+** Imparfait
+
+que je secouasse
+que tu secouasses
+qu’il (elle) secouât
+que nous secouassions
+que vous secouassiez
+qu’ils (elles) secouassent
+
+* IMPÉRATIF
+
+** Présent
+
+secoue
+secouons
+secouez
+
+* INFINITIF
+
+** Présent
+
+secouer
+
+* PARTICIPE
+
+** Présent
+
+secouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai secoué
+tu as secoué
+il (elle) a secoué
+nous avons secoué
+vous avez secoué
+ils (elles) ont secoué
+
+** Plus-que-parfait
+
+j'avais secoué
+tu avais secoué
+il (elle) avait secoué
+nous avions secoué
+vous aviez secoué
+ils (elles) avaient secoué
+
+** Passé antérieur
+
+j'eus secoué
+tu eus secoué
+il (elle) eut secoué
+nous eûmes secoué
+vous eûtes secoué
+ils (elles) eurent secoué
+
+** Futur antérieur
+
+j'aurai secoué
+tu auras secoué
+il (elle) aura secoué
+nous aurons secoué
+vous aurez secoué
+ils (elles) auront secoué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais secoué
+tu aurais secoué
+il (elle) aurait secoué
+nous aurions secoué
+vous auriez secoué
+ils (elles) auraient secoué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie secoué
+que tu aies secoué
+qu’il (elle) ait secoué
+que nous ayons secoué
+que vous ayez secoué
+qu’ils (elles) aient secoué
+
+** Plus-que-parfait
+
+que j'eusse secoué
+que tu eusses secoué
+qu’il (elle) eût secoué
+que nous eussions secoué
+que vous eussiez secoué
+qu’ils (elles) eussent secoué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons secoué
+ayez secoué
+
+* INFINITIF
+
+** Passé
+
+avoir secoué
+
+* PARTICIPE
+
+** Passé
+
+ayant secoué
+secoué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis secoué(e)
+tu es secoué(e)
+il (elle) est secoué(e)
+nous sommes secoué(e)s
+vous êtes secoué(e)s
+ils (elles) sont secoué(e)s
+
+** Imparfait
+
+j'étais secoué(e)
+tu étais secoué(e)
+il (elle) était secoué(e)
+nous étions secoué(e)s
+vous étiez secoué(e)s
+ils (elles) étaient secoué(e)s
+
+** Passé simple
+
+je fus secoué(e)
+tu fus secoué(e)
+il (elle) fut secoué(e)
+nous fûmes secoué(e)s
+vous fûtes secoué(e)s
+ils (elles) furent secoué(e)s
+
+** Futur simple
+
+je serai secoué(e)
+tu seras secoué(e)
+il (elle) sera secoué(e)
+nous serons secoué(e)s
+vous serez secoué(e)s
+ils (elles) seront secoué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais secoué(e)
+tu serais secoué(e)
+il (elle) serait secoué(e)
+nous serions secoué(e)s
+vous seriez secoué(e)s
+ils (elles) seraient secoué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois secoué(e)
+que tu sois secoué(e)
+qu’il (elle) soit secoué(e)
+que nous soyons secoué(e)s
+que vous soyez secoué(e)s
+qu’ils (elles) soient secoué(e)s
+
+** Imparfait
+
+que je fusse secoué(e)
+que tu fusses secoué(e)
+qu’il (elle) fût secoué(e)
+que nous fussions secoué(e)s
+que vous fussiez secoué(e)s
+qu’ils (elles) fussent secoué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons secoué(e)s
+soyez secoué(e)s
+
+* INFINITIF
+
+** Présent
+
+être secoué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant secoué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été secoué(e)
+tu as été secoué(e)
+il (elle) a été secoué(e)
+nous avons été secoué(e)s
+vous avez été secoué(e)s
+ils (elles) ont été secoué(e)s
+
+** Plus-que-parfait
+
+j'avais été secoué(e)
+il (elle) avait été secoué(e)
+nous avions été secoué(e)s
+ils (elles) avaient été secoué(e)s
+
+** Passé antérieur
+
+j'eus été secoué(e)
+tu eus été secoué(e)
+il (elle) eut été secoué(e)
+nous eûmes été secoué(e)s
+vous eûtes été secoué(e)s
+ils (elles) eurent été secoué(e)s
+
+** Futur antérieur
+
+j'aurai été secoué(e)
+tu auras été secoué(e)
+il (elle) aura été secoué(e)
+nous aurons été secoué(e)s
+vous aurez été secoué(e)s
+ils (elles) auront été secoué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été secoué(e)
+j'aurais été secoué(e)
+il (elle) aurait été secoué(e)
+nous aurions été secoué(e)s
+vous auriez été secoué(e)s
+ils (elles) auraient été secoué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été secoué(e)
+que tu aies été secoué(e)
+qu’il (elle) ait été secoué(e)
+que nous ayons été secoué(e)s
+que vous ayez été secoué(e)s
+qu’ils (elles) aient été secoué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été secoué(e)
+que tu eusses été secoué(e)
+qu’il (elle) eût été secoué(e)
+que nous eussions été secoué(e)s
+que vous eussiez été secoué(e)s
+qu’ils (elles) eussent été secoué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été secoué(e)
+ayons été secoué(e)s
+ayez été secoué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été secoué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été secoué(e)(s)

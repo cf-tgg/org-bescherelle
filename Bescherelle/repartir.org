@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe repartir
+
+* INDICATIF
+
+** Présent
+
+je repars
+tu repars
+il (elle) repart
+nous repartons
+vous repartez
+ils (elles) repartent
+
+** Imparfait
+
+je repartais
+tu repartais
+il (elle) repartait
+nous repartions
+vous repartiez
+ils (elles) repartaient
+
+** Passé simple
+
+je repartis
+tu repartis
+il (elle) repartit
+nous repartîmes
+vous repartîtes
+ils (elles) repartirent
+
+** Futur simple
+
+je repartirai
+tu repartiras
+il (elle) repartira
+nous repartirons
+vous repartirez
+ils (elles) repartiront
+
+* CONDITIONNEL
+
+** Présent
+
+je repartirais
+tu repartirais
+il (elle) repartirait
+nous repartirions
+vous repartiriez
+ils (elles) repartiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reparte
+que tu repartes
+qu’il (elle) reparte
+que nous repartions
+que vous repartiez
+qu’ils (elles) repartent
+
+** Imparfait
+
+que je repartisse
+que tu repartisses
+qu’il (elle) repartît
+que nous repartissions
+que vous repartissiez
+qu’ils (elles) repartissent
+
+* IMPÉRATIF
+
+** Présent
+
+repars
+repartons
+repartez
+
+* INFINITIF
+
+** Présent
+
+repartir
+
+* PARTICIPE
+
+** Présent
+
+repartant
+
+* INDICATIF
+
+** Passé composé
+
+je suis reparti(e)
+tu es reparti(e)
+il (elle) est reparti(e)
+nous sommes reparti(e)s
+vous êtes reparti(e)s
+ils (elles) sont reparti(e)s
+
+** Plus-que-parfait
+
+j'étais reparti(e)
+tu étais reparti(e)
+il (elle) était reparti(e)
+nous étions reparti(e)s
+vous étiez reparti(e)s
+ils (elles) étaient reparti(e)s
+
+** Passé antérieur
+
+je fus reparti(e)
+tu fus reparti(e)
+il (elle) fut reparti(e)
+nous fûmes reparti(e)s
+vous fûtes reparti(e)s
+ils (elles) furent reparti(e)s
+
+** Futur antérieur
+
+je serai reparti(e)
+tu seras reparti(e)
+il (elle) sera reparti(e)
+nous serons reparti(e)s
+vous serez reparti(e)s
+ils (elles) seront reparti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais reparti(e)
+tu serais reparti(e)
+il (elle) serait reparti(e)
+nous serions reparti(e)s
+vous seriez reparti(e)s
+ils (elles) seraient reparti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois reparti(e)
+que tu sois reparti(e)
+qu’il (elle) soit reparti(e)
+que nous soyons reparti(e)s
+que vous soyez reparti(e)s
+qu’ils (elles) soient reparti(e)s
+
+** Plus-que-parfait
+
+que je fusse reparti(e)
+que tu fusses reparti(e)
+qu’il (elle) fût reparti(e)
+que nous fussions reparti(e)s
+que vous fussiez reparti(e)s
+qu’ils (elles) fussent reparti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons reparti(e)s
+soyez reparti(e)s
+
+* INFINITIF
+
+** Passé
+
+être reparti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant reparti(e)(s)
+reparti (i, ie, is, ies)

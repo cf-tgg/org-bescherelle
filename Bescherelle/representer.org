@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe representer
+
+* INDICATIF
+
+** Présent
+
+je représente
+tu représentes
+il (elle) représente
+nous représentons
+vous représentez
+ils (elles) représentent
+
+** Imparfait
+
+je représentais
+tu représentais
+il (elle) représentait
+nous représentions
+vous représentiez
+ils (elles) représentaient
+
+** Passé simple
+
+je représentai
+tu représentas
+il (elle) représenta
+nous représentâmes
+vous représentâtes
+ils (elles) représentèrent
+
+** Futur simple
+
+je représenterai
+tu représenteras
+il (elle) représentera
+nous représenterons
+vous représenterez
+ils (elles) représenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je représenterais
+tu représenterais
+il (elle) représenterait
+nous représenterions
+vous représenteriez
+ils (elles) représenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je représente
+que tu représentes
+qu’il (elle) représente
+que nous représentions
+que vous représentiez
+qu’ils (elles) représentent
+
+** Imparfait
+
+que je représentasse
+que tu représentasses
+qu’il (elle) représentât
+que nous représentassions
+que vous représentassiez
+qu’ils (elles) représentassent
+
+* IMPÉRATIF
+
+** Présent
+
+représente
+représentons
+représentez
+
+* INFINITIF
+
+** Présent
+
+représenter
+
+* PARTICIPE
+
+** Présent
+
+représentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai représenté
+tu as représenté
+il (elle) a représenté
+nous avons représenté
+vous avez représenté
+ils (elles) ont représenté
+
+** Plus-que-parfait
+
+j'avais représenté
+tu avais représenté
+il (elle) avait représenté
+nous avions représenté
+vous aviez représenté
+ils (elles) avaient représenté
+
+** Passé antérieur
+
+j'eus représenté
+tu eus représenté
+il (elle) eut représenté
+nous eûmes représenté
+vous eûtes représenté
+ils (elles) eurent représenté
+
+** Futur antérieur
+
+j'aurai représenté
+tu auras représenté
+il (elle) aura représenté
+nous aurons représenté
+vous aurez représenté
+ils (elles) auront représenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais représenté
+tu aurais représenté
+il (elle) aurait représenté
+nous aurions représenté
+vous auriez représenté
+ils (elles) auraient représenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie représenté
+que tu aies représenté
+qu’il (elle) ait représenté
+que nous ayons représenté
+que vous ayez représenté
+qu’ils (elles) aient représenté
+
+** Plus-que-parfait
+
+que j'eusse représenté
+que tu eusses représenté
+qu’il (elle) eût représenté
+que nous eussions représenté
+que vous eussiez représenté
+qu’ils (elles) eussent représenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons représenté
+ayez représenté
+
+* INFINITIF
+
+** Passé
+
+avoir représenté
+
+* PARTICIPE
+
+** Passé
+
+ayant représenté
+représenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis représenté(e)
+tu es représenté(e)
+il (elle) est représenté(e)
+nous sommes représenté(e)s
+vous êtes représenté(e)s
+ils (elles) sont représenté(e)s
+
+** Imparfait
+
+j'étais représenté(e)
+tu étais représenté(e)
+il (elle) était représenté(e)
+nous étions représenté(e)s
+vous étiez représenté(e)s
+ils (elles) étaient représenté(e)s
+
+** Passé simple
+
+je fus représenté(e)
+tu fus représenté(e)
+il (elle) fut représenté(e)
+nous fûmes représenté(e)s
+vous fûtes représenté(e)s
+ils (elles) furent représenté(e)s
+
+** Futur simple
+
+je serai représenté(e)
+tu seras représenté(e)
+il (elle) sera représenté(e)
+nous serons représenté(e)s
+vous serez représenté(e)s
+ils (elles) seront représenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais représenté(e)
+tu serais représenté(e)
+il (elle) serait représenté(e)
+nous serions représenté(e)s
+vous seriez représenté(e)s
+ils (elles) seraient représenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois représenté(e)
+que tu sois représenté(e)
+qu’il (elle) soit représenté(e)
+que nous soyons représenté(e)s
+que vous soyez représenté(e)s
+qu’ils (elles) soient représenté(e)s
+
+** Imparfait
+
+que je fusse représenté(e)
+que tu fusses représenté(e)
+qu’il (elle) fût représenté(e)
+que nous fussions représenté(e)s
+que vous fussiez représenté(e)s
+qu’ils (elles) fussent représenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons représenté(e)s
+soyez représenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être représenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant représenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été représenté(e)
+tu as été représenté(e)
+il (elle) a été représenté(e)
+nous avons été représenté(e)s
+vous avez été représenté(e)s
+ils (elles) ont été représenté(e)s
+
+** Plus-que-parfait
+
+j'avais été représenté(e)
+il (elle) avait été représenté(e)
+nous avions été représenté(e)s
+ils (elles) avaient été représenté(e)s
+
+** Passé antérieur
+
+j'eus été représenté(e)
+tu eus été représenté(e)
+il (elle) eut été représenté(e)
+nous eûmes été représenté(e)s
+vous eûtes été représenté(e)s
+ils (elles) eurent été représenté(e)s
+
+** Futur antérieur
+
+j'aurai été représenté(e)
+tu auras été représenté(e)
+il (elle) aura été représenté(e)
+nous aurons été représenté(e)s
+vous aurez été représenté(e)s
+ils (elles) auront été représenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été représenté(e)
+j'aurais été représenté(e)
+il (elle) aurait été représenté(e)
+nous aurions été représenté(e)s
+vous auriez été représenté(e)s
+ils (elles) auraient été représenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été représenté(e)
+que tu aies été représenté(e)
+qu’il (elle) ait été représenté(e)
+que nous ayons été représenté(e)s
+que vous ayez été représenté(e)s
+qu’ils (elles) aient été représenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été représenté(e)
+que tu eusses été représenté(e)
+qu’il (elle) eût été représenté(e)
+que nous eussions été représenté(e)s
+que vous eussiez été représenté(e)s
+qu’ils (elles) eussent été représenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été représenté(e)
+ayons été représenté(e)s
+ayez été représenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été représenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été représenté(e)(s)

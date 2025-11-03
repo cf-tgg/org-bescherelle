@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe limiter
+
+* INDICATIF
+
+** Présent
+
+je limite
+tu limites
+il (elle) limite
+nous limitons
+vous limitez
+ils (elles) limitent
+
+** Imparfait
+
+je limitais
+tu limitais
+il (elle) limitait
+nous limitions
+vous limitiez
+ils (elles) limitaient
+
+** Passé simple
+
+je limitai
+tu limitas
+il (elle) limita
+nous limitâmes
+vous limitâtes
+ils (elles) limitèrent
+
+** Futur simple
+
+je limiterai
+tu limiteras
+il (elle) limitera
+nous limiterons
+vous limiterez
+ils (elles) limiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je limiterais
+tu limiterais
+il (elle) limiterait
+nous limiterions
+vous limiteriez
+ils (elles) limiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je limite
+que tu limites
+qu’il (elle) limite
+que nous limitions
+que vous limitiez
+qu’ils (elles) limitent
+
+** Imparfait
+
+que je limitasse
+que tu limitasses
+qu’il (elle) limitât
+que nous limitassions
+que vous limitassiez
+qu’ils (elles) limitassent
+
+* IMPÉRATIF
+
+** Présent
+
+limite
+limitons
+limitez
+
+* INFINITIF
+
+** Présent
+
+limiter
+
+* PARTICIPE
+
+** Présent
+
+limitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai limité
+tu as limité
+il (elle) a limité
+nous avons limité
+vous avez limité
+ils (elles) ont limité
+
+** Plus-que-parfait
+
+j'avais limité
+tu avais limité
+il (elle) avait limité
+nous avions limité
+vous aviez limité
+ils (elles) avaient limité
+
+** Passé antérieur
+
+j'eus limité
+tu eus limité
+il (elle) eut limité
+nous eûmes limité
+vous eûtes limité
+ils (elles) eurent limité
+
+** Futur antérieur
+
+j'aurai limité
+tu auras limité
+il (elle) aura limité
+nous aurons limité
+vous aurez limité
+ils (elles) auront limité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais limité
+tu aurais limité
+il (elle) aurait limité
+nous aurions limité
+vous auriez limité
+ils (elles) auraient limité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie limité
+que tu aies limité
+qu’il (elle) ait limité
+que nous ayons limité
+que vous ayez limité
+qu’ils (elles) aient limité
+
+** Plus-que-parfait
+
+que j'eusse limité
+que tu eusses limité
+qu’il (elle) eût limité
+que nous eussions limité
+que vous eussiez limité
+qu’ils (elles) eussent limité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons limité
+ayez limité
+
+* INFINITIF
+
+** Passé
+
+avoir limité
+
+* PARTICIPE
+
+** Passé
+
+ayant limité
+limité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis limité(e)
+tu es limité(e)
+il (elle) est limité(e)
+nous sommes limité(e)s
+vous êtes limité(e)s
+ils (elles) sont limité(e)s
+
+** Imparfait
+
+j'étais limité(e)
+tu étais limité(e)
+il (elle) était limité(e)
+nous étions limité(e)s
+vous étiez limité(e)s
+ils (elles) étaient limité(e)s
+
+** Passé simple
+
+je fus limité(e)
+tu fus limité(e)
+il (elle) fut limité(e)
+nous fûmes limité(e)s
+vous fûtes limité(e)s
+ils (elles) furent limité(e)s
+
+** Futur simple
+
+je serai limité(e)
+tu seras limité(e)
+il (elle) sera limité(e)
+nous serons limité(e)s
+vous serez limité(e)s
+ils (elles) seront limité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais limité(e)
+tu serais limité(e)
+il (elle) serait limité(e)
+nous serions limité(e)s
+vous seriez limité(e)s
+ils (elles) seraient limité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois limité(e)
+que tu sois limité(e)
+qu’il (elle) soit limité(e)
+que nous soyons limité(e)s
+que vous soyez limité(e)s
+qu’ils (elles) soient limité(e)s
+
+** Imparfait
+
+que je fusse limité(e)
+que tu fusses limité(e)
+qu’il (elle) fût limité(e)
+que nous fussions limité(e)s
+que vous fussiez limité(e)s
+qu’ils (elles) fussent limité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons limité(e)s
+soyez limité(e)s
+
+* INFINITIF
+
+** Présent
+
+être limité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant limité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été limité(e)
+tu as été limité(e)
+il (elle) a été limité(e)
+nous avons été limité(e)s
+vous avez été limité(e)s
+ils (elles) ont été limité(e)s
+
+** Plus-que-parfait
+
+j'avais été limité(e)
+il (elle) avait été limité(e)
+nous avions été limité(e)s
+ils (elles) avaient été limité(e)s
+
+** Passé antérieur
+
+j'eus été limité(e)
+tu eus été limité(e)
+il (elle) eut été limité(e)
+nous eûmes été limité(e)s
+vous eûtes été limité(e)s
+ils (elles) eurent été limité(e)s
+
+** Futur antérieur
+
+j'aurai été limité(e)
+tu auras été limité(e)
+il (elle) aura été limité(e)
+nous aurons été limité(e)s
+vous aurez été limité(e)s
+ils (elles) auront été limité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été limité(e)
+j'aurais été limité(e)
+il (elle) aurait été limité(e)
+nous aurions été limité(e)s
+vous auriez été limité(e)s
+ils (elles) auraient été limité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été limité(e)
+que tu aies été limité(e)
+qu’il (elle) ait été limité(e)
+que nous ayons été limité(e)s
+que vous ayez été limité(e)s
+qu’ils (elles) aient été limité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été limité(e)
+que tu eusses été limité(e)
+qu’il (elle) eût été limité(e)
+que nous eussions été limité(e)s
+que vous eussiez été limité(e)s
+qu’ils (elles) eussent été limité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été limité(e)
+ayons été limité(e)s
+ayez été limité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été limité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été limité(e)(s)

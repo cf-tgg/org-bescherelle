@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe disparaitre
+
+* INDICATIF
+
+** Présent
+
+je disparais
+tu disparais
+il (elle) disparaît
+nous disparaissons
+vous disparaissez
+ils (elles) disparaissent
+
+** Imparfait
+
+je disparaissais
+tu disparaissais
+il (elle) disparaissait
+nous disparaissions
+vous disparaissiez
+ils (elles) disparaissaient
+
+** Passé simple
+
+je disparus
+tu disparus
+il (elle) disparut
+nous disparûmes
+vous disparûtes
+ils (elles) disparurent
+
+** Futur simple
+
+je disparaîtrai
+tu disparaîtras
+il (elle) disparaîtra
+nous disparaîtrons
+vous disparaîtrez
+ils (elles) disparaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je disparaîtrais
+tu disparaîtrais
+il (elle) disparaîtrait
+nous disparaîtrions
+vous disparaîtriez
+ils (elles) disparaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je disparaisse
+que tu disparaisses
+qu’il (elle) disparaisse
+que nous disparaissions
+que vous disparaissiez
+qu’ils (elles) disparaissent
+
+** Imparfait
+
+que je disparusse
+que tu disparusses
+qu’il (elle) disparût
+que nous disparussions
+que vous disparussiez
+qu’ils (elles) disparussent
+
+* IMPÉRATIF
+
+** Présent
+
+disparais
+disparaissons
+disparaissez
+
+* INFINITIF
+
+** Présent
+
+disparaître
+
+* PARTICIPE
+
+** Présent
+
+disparaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis disparu(e)
+tu as ou es disparu(e)
+il (elle) a ou est disparu(e)
+nous avons ou sommes disparu(e)s
+vous avez ou êtes disparu(e)s
+ils (elles) ont ou sont disparu(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais disparu(e)
+tu avais ou étais disparu(e)
+il (elle) avait ou était disparu(e)
+nous avions ou étions disparu(e)s
+vous aviez ou étiez disparu(e)s
+ils (elles) avaient ou étaient disparu(e)s
+
+** Passé antérieur
+
+j'eus ou fus disparu(e)
+tu eus ou fus disparu(e)
+il (elle) eut ou fut disparu(e)
+nous eûmes ou fûmes disparu(e)s
+vous eûtes ou fûtes disparu(e)s
+ils (elles) eurent ou furent disparu(e)s
+
+** Futur antérieur
+
+j'aurai ou serai disparu(e)
+tu auras ou seras disparu(e)
+il (elle) aura ou sera disparu(e)
+nous aurons ou serons disparu(e)s
+vous aurez ou serez disparu(e)s
+ils (elles) auront ou seront disparu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais disparu(e)
+tu aurais ou serais disparu(e)
+il (elle) aurait ou serait disparu(e)
+nous aurions ou serions disparu(e)s
+vous auriez ou seriez disparu(e)s
+ils (elles) auraient ou seraient disparu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois disparu(e)
+que tu aies ou sois disparu(e)
+qu’il (elle) ait ou soit disparu(e)
+que nous ayons ou soyons disparu(e)s
+que vous ayez ou soyez disparu(e)s
+qu’ils (elles) aient ou soient disparu(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse disparu(e)
+que tu eusses ou fusses disparu(e)
+qu’il (elle) eût ou fût disparu(e)
+que nous eussions ou fussions disparu(e)s
+que vous eussiez ou fussiez disparu(e)s
+qu’ils (elles) eussent ou fussent disparu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons disparu(e)s
+ayez ou soyez disparu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être disparu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant disparu(e)(s)
+disparu (u, ue, us, ues)

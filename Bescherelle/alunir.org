@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe alunir
+
+* INDICATIF
+
+** Présent
+
+j'alunis
+tu alunis
+il (elle) alunit
+nous alunissons
+vous alunissez
+ils (elles) alunissent
+
+** Imparfait
+
+j'alunissais
+tu alunissais
+il (elle) alunissait
+nous alunissions
+vous alunissiez
+ils (elles) alunissaient
+
+** Passé simple
+
+j'alunis
+tu alunis
+il (elle) alunit
+nous alunîmes
+vous alunîtes
+ils (elles) alunirent
+
+** Futur simple
+
+j'alunirai
+tu aluniras
+il (elle) alunira
+nous alunirons
+vous alunirez
+ils (elles) aluniront
+
+* CONDITIONNEL
+
+** Présent
+
+j'alunirais
+tu alunirais
+il (elle) alunirait
+nous alunirions
+vous aluniriez
+ils (elles) aluniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alunisse
+que tu alunisses
+qu’il (elle) alunisse
+que nous alunissions
+que vous alunissiez
+qu’ils (elles) alunissent
+
+** Imparfait
+
+que j'alunisse
+que tu alunisses
+qu’il (elle) alunît
+que nous alunissions
+que vous alunissiez
+qu’ils (elles) alunissent
+
+* IMPÉRATIF
+
+** Présent
+
+alunis
+alunissons
+alunissez
+
+* INFINITIF
+
+** Présent
+
+alunir
+
+* PARTICIPE
+
+** Présent
+
+alunissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aluni
+tu as aluni
+il (elle) a aluni
+nous avons aluni
+vous avez aluni
+ils (elles) ont aluni
+
+** Plus-que-parfait
+
+j'avais aluni
+tu avais aluni
+il (elle) avait aluni
+nous avions aluni
+vous aviez aluni
+ils (elles) avaient aluni
+
+** Passé antérieur
+
+j'eus aluni
+tu eus aluni
+il (elle) eut aluni
+nous eûmes aluni
+vous eûtes aluni
+ils (elles) eurent aluni
+
+** Futur antérieur
+
+j'aurai aluni
+tu auras aluni
+il (elle) aura aluni
+nous aurons aluni
+vous aurez aluni
+ils (elles) auront aluni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aluni
+tu aurais aluni
+il (elle) aurait aluni
+nous aurions aluni
+vous auriez aluni
+ils (elles) auraient aluni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aluni
+que tu aies aluni
+qu’il (elle) ait aluni
+que nous ayons aluni
+que vous ayez aluni
+qu’ils (elles) aient aluni
+
+** Plus-que-parfait
+
+que j'eusse aluni
+que tu eusses aluni
+qu’il (elle) eût aluni
+que nous eussions aluni
+que vous eussiez aluni
+qu’ils (elles) eussent aluni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aluni
+ayez aluni
+
+* INFINITIF
+
+** Passé
+
+avoir aluni
+
+* PARTICIPE
+
+** Passé
+
+ayant aluni
+aluni (invar.)

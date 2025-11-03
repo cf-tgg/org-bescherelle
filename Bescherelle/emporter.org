@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emporter
+
+* INDICATIF
+
+** Présent
+
+j'emporte
+tu emportes
+il (elle) emporte
+nous emportons
+vous emportez
+ils (elles) emportent
+
+** Imparfait
+
+j'emportais
+tu emportais
+il (elle) emportait
+nous emportions
+vous emportiez
+ils (elles) emportaient
+
+** Passé simple
+
+j'emportai
+tu emportas
+il (elle) emporta
+nous emportâmes
+vous emportâtes
+ils (elles) emportèrent
+
+** Futur simple
+
+j'emporterai
+tu emporteras
+il (elle) emportera
+nous emporterons
+vous emporterez
+ils (elles) emporteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emporterais
+tu emporterais
+il (elle) emporterait
+nous emporterions
+vous emporteriez
+ils (elles) emporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emporte
+que tu emportes
+qu’il (elle) emporte
+que nous emportions
+que vous emportiez
+qu’ils (elles) emportent
+
+** Imparfait
+
+que j'emportasse
+que tu emportasses
+qu’il (elle) emportât
+que nous emportassions
+que vous emportassiez
+qu’ils (elles) emportassent
+
+* IMPÉRATIF
+
+** Présent
+
+emporte
+emportons
+emportez
+
+* INFINITIF
+
+** Présent
+
+emporter
+
+* PARTICIPE
+
+** Présent
+
+emportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai emporté
+tu as emporté
+il (elle) a emporté
+nous avons emporté
+vous avez emporté
+ils (elles) ont emporté
+
+** Plus-que-parfait
+
+j'avais emporté
+tu avais emporté
+il (elle) avait emporté
+nous avions emporté
+vous aviez emporté
+ils (elles) avaient emporté
+
+** Passé antérieur
+
+j'eus emporté
+tu eus emporté
+il (elle) eut emporté
+nous eûmes emporté
+vous eûtes emporté
+ils (elles) eurent emporté
+
+** Futur antérieur
+
+j'aurai emporté
+tu auras emporté
+il (elle) aura emporté
+nous aurons emporté
+vous aurez emporté
+ils (elles) auront emporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais emporté
+tu aurais emporté
+il (elle) aurait emporté
+nous aurions emporté
+vous auriez emporté
+ils (elles) auraient emporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie emporté
+que tu aies emporté
+qu’il (elle) ait emporté
+que nous ayons emporté
+que vous ayez emporté
+qu’ils (elles) aient emporté
+
+** Plus-que-parfait
+
+que j'eusse emporté
+que tu eusses emporté
+qu’il (elle) eût emporté
+que nous eussions emporté
+que vous eussiez emporté
+qu’ils (elles) eussent emporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons emporté
+ayez emporté
+
+* INFINITIF
+
+** Passé
+
+avoir emporté
+
+* PARTICIPE
+
+** Passé
+
+ayant emporté
+emporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis emporté(e)
+tu es emporté(e)
+il (elle) est emporté(e)
+nous sommes emporté(e)s
+vous êtes emporté(e)s
+ils (elles) sont emporté(e)s
+
+** Imparfait
+
+j'étais emporté(e)
+tu étais emporté(e)
+il (elle) était emporté(e)
+nous étions emporté(e)s
+vous étiez emporté(e)s
+ils (elles) étaient emporté(e)s
+
+** Passé simple
+
+je fus emporté(e)
+tu fus emporté(e)
+il (elle) fut emporté(e)
+nous fûmes emporté(e)s
+vous fûtes emporté(e)s
+ils (elles) furent emporté(e)s
+
+** Futur simple
+
+je serai emporté(e)
+tu seras emporté(e)
+il (elle) sera emporté(e)
+nous serons emporté(e)s
+vous serez emporté(e)s
+ils (elles) seront emporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais emporté(e)
+tu serais emporté(e)
+il (elle) serait emporté(e)
+nous serions emporté(e)s
+vous seriez emporté(e)s
+ils (elles) seraient emporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois emporté(e)
+que tu sois emporté(e)
+qu’il (elle) soit emporté(e)
+que nous soyons emporté(e)s
+que vous soyez emporté(e)s
+qu’ils (elles) soient emporté(e)s
+
+** Imparfait
+
+que je fusse emporté(e)
+que tu fusses emporté(e)
+qu’il (elle) fût emporté(e)
+que nous fussions emporté(e)s
+que vous fussiez emporté(e)s
+qu’ils (elles) fussent emporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons emporté(e)s
+soyez emporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être emporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant emporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été emporté(e)
+tu as été emporté(e)
+il (elle) a été emporté(e)
+nous avons été emporté(e)s
+vous avez été emporté(e)s
+ils (elles) ont été emporté(e)s
+
+** Plus-que-parfait
+
+j'avais été emporté(e)
+il (elle) avait été emporté(e)
+nous avions été emporté(e)s
+ils (elles) avaient été emporté(e)s
+
+** Passé antérieur
+
+j'eus été emporté(e)
+tu eus été emporté(e)
+il (elle) eut été emporté(e)
+nous eûmes été emporté(e)s
+vous eûtes été emporté(e)s
+ils (elles) eurent été emporté(e)s
+
+** Futur antérieur
+
+j'aurai été emporté(e)
+tu auras été emporté(e)
+il (elle) aura été emporté(e)
+nous aurons été emporté(e)s
+vous aurez été emporté(e)s
+ils (elles) auront été emporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été emporté(e)
+j'aurais été emporté(e)
+il (elle) aurait été emporté(e)
+nous aurions été emporté(e)s
+vous auriez été emporté(e)s
+ils (elles) auraient été emporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été emporté(e)
+que tu aies été emporté(e)
+qu’il (elle) ait été emporté(e)
+que nous ayons été emporté(e)s
+que vous ayez été emporté(e)s
+qu’ils (elles) aient été emporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été emporté(e)
+que tu eusses été emporté(e)
+qu’il (elle) eût été emporté(e)
+que nous eussions été emporté(e)s
+que vous eussiez été emporté(e)s
+qu’ils (elles) eussent été emporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été emporté(e)
+ayons été emporté(e)s
+ayez été emporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été emporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été emporté(e)(s)

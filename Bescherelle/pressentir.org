@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pressentir
+
+* INDICATIF
+
+** Présent
+
+je pressens
+tu pressens
+il (elle) pressent
+nous pressentons
+vous pressentez
+ils (elles) pressentent
+
+** Imparfait
+
+je pressentais
+tu pressentais
+il (elle) pressentait
+nous pressentions
+vous pressentiez
+ils (elles) pressentaient
+
+** Passé simple
+
+je pressentis
+tu pressentis
+il (elle) pressentit
+nous pressentîmes
+vous pressentîtes
+ils (elles) pressentirent
+
+** Futur simple
+
+je pressentirai
+tu pressentiras
+il (elle) pressentira
+nous pressentirons
+vous pressentirez
+ils (elles) pressentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je pressentirais
+tu pressentirais
+il (elle) pressentirait
+nous pressentirions
+vous pressentiriez
+ils (elles) pressentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pressente
+que tu pressentes
+qu’il (elle) pressente
+que nous pressentions
+que vous pressentiez
+qu’ils (elles) pressentent
+
+** Imparfait
+
+que je pressentisse
+que tu pressentisses
+qu’il (elle) pressentît
+que nous pressentissions
+que vous pressentissiez
+qu’ils (elles) pressentissent
+
+* IMPÉRATIF
+
+** Présent
+
+pressens
+pressentons
+pressentez
+
+* INFINITIF
+
+** Présent
+
+pressentir
+
+* PARTICIPE
+
+** Présent
+
+pressentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pressenti
+tu as pressenti
+il (elle) a pressenti
+nous avons pressenti
+vous avez pressenti
+ils (elles) ont pressenti
+
+** Plus-que-parfait
+
+j'avais pressenti
+tu avais pressenti
+il (elle) avait pressenti
+nous avions pressenti
+vous aviez pressenti
+ils (elles) avaient pressenti
+
+** Passé antérieur
+
+j'eus pressenti
+tu eus pressenti
+il (elle) eut pressenti
+nous eûmes pressenti
+vous eûtes pressenti
+ils (elles) eurent pressenti
+
+** Futur antérieur
+
+j'aurai pressenti
+tu auras pressenti
+il (elle) aura pressenti
+nous aurons pressenti
+vous aurez pressenti
+ils (elles) auront pressenti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pressenti
+tu aurais pressenti
+il (elle) aurait pressenti
+nous aurions pressenti
+vous auriez pressenti
+ils (elles) auraient pressenti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pressenti
+que tu aies pressenti
+qu’il (elle) ait pressenti
+que nous ayons pressenti
+que vous ayez pressenti
+qu’ils (elles) aient pressenti
+
+** Plus-que-parfait
+
+que j'eusse pressenti
+que tu eusses pressenti
+qu’il (elle) eût pressenti
+que nous eussions pressenti
+que vous eussiez pressenti
+qu’ils (elles) eussent pressenti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pressenti
+ayez pressenti
+
+* INFINITIF
+
+** Passé
+
+avoir pressenti
+
+* PARTICIPE
+
+** Passé
+
+ayant pressenti
+pressenti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis pressenti(e)
+tu es pressenti(e)
+il (elle) est pressenti(e)
+nous sommes pressenti(e)s
+vous êtes pressenti(e)s
+ils (elles) sont pressenti(e)s
+
+** Imparfait
+
+j'étais pressenti(e)
+tu étais pressenti(e)
+il (elle) était pressenti(e)
+nous étions pressenti(e)s
+vous étiez pressenti(e)s
+ils (elles) étaient pressenti(e)s
+
+** Passé simple
+
+je fus pressenti(e)
+tu fus pressenti(e)
+il (elle) fut pressenti(e)
+nous fûmes pressenti(e)s
+vous fûtes pressenti(e)s
+ils (elles) furent pressenti(e)s
+
+** Futur simple
+
+je serai pressenti(e)
+tu seras pressenti(e)
+il (elle) sera pressenti(e)
+nous serons pressenti(e)s
+vous serez pressenti(e)s
+ils (elles) seront pressenti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pressenti(e)
+tu serais pressenti(e)
+il (elle) serait pressenti(e)
+nous serions pressenti(e)s
+vous seriez pressenti(e)s
+ils (elles) seraient pressenti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pressenti(e)
+que tu sois pressenti(e)
+qu’il (elle) soit pressenti(e)
+que nous soyons pressenti(e)s
+que vous soyez pressenti(e)s
+qu’ils (elles) soient pressenti(e)s
+
+** Imparfait
+
+que je fusse pressenti(e)
+que tu fusses pressenti(e)
+qu’il (elle) fût pressenti(e)
+que nous fussions pressenti(e)s
+que vous fussiez pressenti(e)s
+qu’ils (elles) fussent pressenti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pressenti(e)s
+soyez pressenti(e)s
+
+* INFINITIF
+
+** Présent
+
+être pressenti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pressenti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pressenti(e)
+tu as été pressenti(e)
+il (elle) a été pressenti(e)
+nous avons été pressenti(e)s
+vous avez été pressenti(e)s
+ils (elles) ont été pressenti(e)s
+
+** Plus-que-parfait
+
+j'avais été pressenti(e)
+il (elle) avait été pressenti(e)
+nous avions été pressenti(e)s
+ils (elles) avaient été pressenti(e)s
+
+** Passé antérieur
+
+j'eus été pressenti(e)
+tu eus été pressenti(e)
+il (elle) eut été pressenti(e)
+nous eûmes été pressenti(e)s
+vous eûtes été pressenti(e)s
+ils (elles) eurent été pressenti(e)s
+
+** Futur antérieur
+
+j'aurai été pressenti(e)
+tu auras été pressenti(e)
+il (elle) aura été pressenti(e)
+nous aurons été pressenti(e)s
+vous aurez été pressenti(e)s
+ils (elles) auront été pressenti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pressenti(e)
+j'aurais été pressenti(e)
+il (elle) aurait été pressenti(e)
+nous aurions été pressenti(e)s
+vous auriez été pressenti(e)s
+ils (elles) auraient été pressenti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pressenti(e)
+que tu aies été pressenti(e)
+qu’il (elle) ait été pressenti(e)
+que nous ayons été pressenti(e)s
+que vous ayez été pressenti(e)s
+qu’ils (elles) aient été pressenti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pressenti(e)
+que tu eusses été pressenti(e)
+qu’il (elle) eût été pressenti(e)
+que nous eussions été pressenti(e)s
+que vous eussiez été pressenti(e)s
+qu’ils (elles) eussent été pressenti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pressenti(e)
+ayons été pressenti(e)s
+ayez été pressenti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pressenti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pressenti(e)(s)

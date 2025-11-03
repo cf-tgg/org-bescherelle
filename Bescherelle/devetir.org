@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe devetir
+
+* INDICATIF
+
+** Présent
+
+je dévêts
+tu dévêts
+il (elle) dévêt
+nous dévêtons
+vous dévêtez
+ils (elles) dévêtent
+
+** Imparfait
+
+je dévêtais
+tu dévêtais
+il (elle) dévêtait
+nous dévêtions
+vous dévêtiez
+ils (elles) dévêtaient
+
+** Passé simple
+
+je dévêtis
+tu dévêtis
+il (elle) dévêtit
+nous dévêtîmes
+vous dévêtîtes
+ils (elles) dévêtirent
+
+** Futur simple
+
+je dévêtirai
+tu dévêtiras
+il (elle) dévêtira
+nous dévêtirons
+vous dévêtirez
+ils (elles) dévêtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je dévêtirais
+tu dévêtirais
+il (elle) dévêtirait
+nous dévêtirions
+vous dévêtiriez
+ils (elles) dévêtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dévête
+que tu dévêtes
+qu’il (elle) dévête
+que nous dévêtions
+que vous dévêtiez
+qu’ils (elles) dévêtent
+
+** Imparfait
+
+que je dévêtisse
+que tu dévêtisses
+qu’il (elle) dévêtît
+que nous dévêtissions
+que vous dévêtissiez
+qu’ils (elles) dévêtissent
+
+* IMPÉRATIF
+
+** Présent
+
+dévêts
+dévêtons
+dévêtez
+
+* INFINITIF
+
+** Présent
+
+dévêtir
+
+* PARTICIPE
+
+** Présent
+
+dévêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dévêtu
+tu as dévêtu
+il (elle) a dévêtu
+nous avons dévêtu
+vous avez dévêtu
+ils (elles) ont dévêtu
+
+** Plus-que-parfait
+
+j'avais dévêtu
+tu avais dévêtu
+il (elle) avait dévêtu
+nous avions dévêtu
+vous aviez dévêtu
+ils (elles) avaient dévêtu
+
+** Passé antérieur
+
+j'eus dévêtu
+tu eus dévêtu
+il (elle) eut dévêtu
+nous eûmes dévêtu
+vous eûtes dévêtu
+ils (elles) eurent dévêtu
+
+** Futur antérieur
+
+j'aurai dévêtu
+tu auras dévêtu
+il (elle) aura dévêtu
+nous aurons dévêtu
+vous aurez dévêtu
+ils (elles) auront dévêtu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dévêtu
+tu aurais dévêtu
+il (elle) aurait dévêtu
+nous aurions dévêtu
+vous auriez dévêtu
+ils (elles) auraient dévêtu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dévêtu
+que tu aies dévêtu
+qu’il (elle) ait dévêtu
+que nous ayons dévêtu
+que vous ayez dévêtu
+qu’ils (elles) aient dévêtu
+
+** Plus-que-parfait
+
+que j'eusse dévêtu
+que tu eusses dévêtu
+qu’il (elle) eût dévêtu
+que nous eussions dévêtu
+que vous eussiez dévêtu
+qu’ils (elles) eussent dévêtu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dévêtu
+ayez dévêtu
+
+* INFINITIF
+
+** Passé
+
+avoir dévêtu
+
+* PARTICIPE
+
+** Passé
+
+ayant dévêtu
+dévêtu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis dévêtu(e)
+tu es dévêtu(e)
+il (elle) est dévêtu(e)
+nous sommes dévêtu(e)s
+vous êtes dévêtu(e)s
+ils (elles) sont dévêtu(e)s
+
+** Imparfait
+
+j'étais dévêtu(e)
+tu étais dévêtu(e)
+il (elle) était dévêtu(e)
+nous étions dévêtu(e)s
+vous étiez dévêtu(e)s
+ils (elles) étaient dévêtu(e)s
+
+** Passé simple
+
+je fus dévêtu(e)
+tu fus dévêtu(e)
+il (elle) fut dévêtu(e)
+nous fûmes dévêtu(e)s
+vous fûtes dévêtu(e)s
+ils (elles) furent dévêtu(e)s
+
+** Futur simple
+
+je serai dévêtu(e)
+tu seras dévêtu(e)
+il (elle) sera dévêtu(e)
+nous serons dévêtu(e)s
+vous serez dévêtu(e)s
+ils (elles) seront dévêtu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dévêtu(e)
+tu serais dévêtu(e)
+il (elle) serait dévêtu(e)
+nous serions dévêtu(e)s
+vous seriez dévêtu(e)s
+ils (elles) seraient dévêtu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dévêtu(e)
+que tu sois dévêtu(e)
+qu’il (elle) soit dévêtu(e)
+que nous soyons dévêtu(e)s
+que vous soyez dévêtu(e)s
+qu’ils (elles) soient dévêtu(e)s
+
+** Imparfait
+
+que je fusse dévêtu(e)
+que tu fusses dévêtu(e)
+qu’il (elle) fût dévêtu(e)
+que nous fussions dévêtu(e)s
+que vous fussiez dévêtu(e)s
+qu’ils (elles) fussent dévêtu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dévêtu(e)s
+soyez dévêtu(e)s
+
+* INFINITIF
+
+** Présent
+
+être dévêtu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dévêtu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dévêtu(e)
+tu as été dévêtu(e)
+il (elle) a été dévêtu(e)
+nous avons été dévêtu(e)s
+vous avez été dévêtu(e)s
+ils (elles) ont été dévêtu(e)s
+
+** Plus-que-parfait
+
+j'avais été dévêtu(e)
+il (elle) avait été dévêtu(e)
+nous avions été dévêtu(e)s
+ils (elles) avaient été dévêtu(e)s
+
+** Passé antérieur
+
+j'eus été dévêtu(e)
+tu eus été dévêtu(e)
+il (elle) eut été dévêtu(e)
+nous eûmes été dévêtu(e)s
+vous eûtes été dévêtu(e)s
+ils (elles) eurent été dévêtu(e)s
+
+** Futur antérieur
+
+j'aurai été dévêtu(e)
+tu auras été dévêtu(e)
+il (elle) aura été dévêtu(e)
+nous aurons été dévêtu(e)s
+vous aurez été dévêtu(e)s
+ils (elles) auront été dévêtu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dévêtu(e)
+j'aurais été dévêtu(e)
+il (elle) aurait été dévêtu(e)
+nous aurions été dévêtu(e)s
+vous auriez été dévêtu(e)s
+ils (elles) auraient été dévêtu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dévêtu(e)
+que tu aies été dévêtu(e)
+qu’il (elle) ait été dévêtu(e)
+que nous ayons été dévêtu(e)s
+que vous ayez été dévêtu(e)s
+qu’ils (elles) aient été dévêtu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dévêtu(e)
+que tu eusses été dévêtu(e)
+qu’il (elle) eût été dévêtu(e)
+que nous eussions été dévêtu(e)s
+que vous eussiez été dévêtu(e)s
+qu’ils (elles) eussent été dévêtu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dévêtu(e)
+ayons été dévêtu(e)s
+ayez été dévêtu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dévêtu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dévêtu(e)(s)

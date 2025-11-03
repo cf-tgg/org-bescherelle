@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe detenir
+
+* INDICATIF
+
+** Présent
+
+je détiens
+tu détiens
+il (elle) détient
+nous détenons
+vous détenez
+ils (elles) détiennent
+
+** Imparfait
+
+je détenais
+tu détenais
+il (elle) détenait
+nous détenions
+vous déteniez
+ils (elles) détenaient
+
+** Passé simple
+
+je détins
+tu détins
+il (elle) détint
+nous détînmes
+vous détîntes
+ils (elles) détinrent
+
+** Futur simple
+
+je détiendrai
+tu détiendras
+il (elle) détiendra
+nous détiendrons
+vous détiendrez
+ils (elles) détiendront
+
+* CONDITIONNEL
+
+** Présent
+
+je détiendrais
+tu détiendrais
+il (elle) détiendrait
+nous détiendrions
+vous détiendriez
+ils (elles) détiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je détienne
+que tu détiennes
+qu’il (elle) détienne
+que nous détenions
+que vous déteniez
+qu’ils (elles) détiennent
+
+** Imparfait
+
+que je détinsse
+que tu détinsses
+qu’il (elle) détînt
+que nous détinssions
+que vous détinssiez
+qu’ils (elles) détinssent
+
+* IMPÉRATIF
+
+** Présent
+
+détiens
+détenons
+détenez
+
+* INFINITIF
+
+** Présent
+
+détenir
+
+* PARTICIPE
+
+** Présent
+
+détenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détenu
+tu as détenu
+il (elle) a détenu
+nous avons détenu
+vous avez détenu
+ils (elles) ont détenu
+
+** Plus-que-parfait
+
+j'avais détenu
+tu avais détenu
+il (elle) avait détenu
+nous avions détenu
+vous aviez détenu
+ils (elles) avaient détenu
+
+** Passé antérieur
+
+j'eus détenu
+tu eus détenu
+il (elle) eut détenu
+nous eûmes détenu
+vous eûtes détenu
+ils (elles) eurent détenu
+
+** Futur antérieur
+
+j'aurai détenu
+tu auras détenu
+il (elle) aura détenu
+nous aurons détenu
+vous aurez détenu
+ils (elles) auront détenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détenu
+tu aurais détenu
+il (elle) aurait détenu
+nous aurions détenu
+vous auriez détenu
+ils (elles) auraient détenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détenu
+que tu aies détenu
+qu’il (elle) ait détenu
+que nous ayons détenu
+que vous ayez détenu
+qu’ils (elles) aient détenu
+
+** Plus-que-parfait
+
+que j'eusse détenu
+que tu eusses détenu
+qu’il (elle) eût détenu
+que nous eussions détenu
+que vous eussiez détenu
+qu’ils (elles) eussent détenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détenu
+ayez détenu
+
+* INFINITIF
+
+** Passé
+
+avoir détenu
+
+* PARTICIPE
+
+** Passé
+
+ayant détenu
+détenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis détenu(e)
+tu es détenu(e)
+il (elle) est détenu(e)
+nous sommes détenu(e)s
+vous êtes détenu(e)s
+ils (elles) sont détenu(e)s
+
+** Imparfait
+
+j'étais détenu(e)
+tu étais détenu(e)
+il (elle) était détenu(e)
+nous étions détenu(e)s
+vous étiez détenu(e)s
+ils (elles) étaient détenu(e)s
+
+** Passé simple
+
+je fus détenu(e)
+tu fus détenu(e)
+il (elle) fut détenu(e)
+nous fûmes détenu(e)s
+vous fûtes détenu(e)s
+ils (elles) furent détenu(e)s
+
+** Futur simple
+
+je serai détenu(e)
+tu seras détenu(e)
+il (elle) sera détenu(e)
+nous serons détenu(e)s
+vous serez détenu(e)s
+ils (elles) seront détenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais détenu(e)
+tu serais détenu(e)
+il (elle) serait détenu(e)
+nous serions détenu(e)s
+vous seriez détenu(e)s
+ils (elles) seraient détenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois détenu(e)
+que tu sois détenu(e)
+qu’il (elle) soit détenu(e)
+que nous soyons détenu(e)s
+que vous soyez détenu(e)s
+qu’ils (elles) soient détenu(e)s
+
+** Imparfait
+
+que je fusse détenu(e)
+que tu fusses détenu(e)
+qu’il (elle) fût détenu(e)
+que nous fussions détenu(e)s
+que vous fussiez détenu(e)s
+qu’ils (elles) fussent détenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons détenu(e)s
+soyez détenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être détenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant détenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été détenu(e)
+tu as été détenu(e)
+il (elle) a été détenu(e)
+nous avons été détenu(e)s
+vous avez été détenu(e)s
+ils (elles) ont été détenu(e)s
+
+** Plus-que-parfait
+
+j'avais été détenu(e)
+il (elle) avait été détenu(e)
+nous avions été détenu(e)s
+ils (elles) avaient été détenu(e)s
+
+** Passé antérieur
+
+j'eus été détenu(e)
+tu eus été détenu(e)
+il (elle) eut été détenu(e)
+nous eûmes été détenu(e)s
+vous eûtes été détenu(e)s
+ils (elles) eurent été détenu(e)s
+
+** Futur antérieur
+
+j'aurai été détenu(e)
+tu auras été détenu(e)
+il (elle) aura été détenu(e)
+nous aurons été détenu(e)s
+vous aurez été détenu(e)s
+ils (elles) auront été détenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été détenu(e)
+j'aurais été détenu(e)
+il (elle) aurait été détenu(e)
+nous aurions été détenu(e)s
+vous auriez été détenu(e)s
+ils (elles) auraient été détenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été détenu(e)
+que tu aies été détenu(e)
+qu’il (elle) ait été détenu(e)
+que nous ayons été détenu(e)s
+que vous ayez été détenu(e)s
+qu’ils (elles) aient été détenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été détenu(e)
+que tu eusses été détenu(e)
+qu’il (elle) eût été détenu(e)
+que nous eussions été détenu(e)s
+que vous eussiez été détenu(e)s
+qu’ils (elles) eussent été détenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été détenu(e)
+ayons été détenu(e)s
+ayez été détenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été détenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été détenu(e)(s)

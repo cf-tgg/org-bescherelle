@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vexer
+
+* INDICATIF
+
+** Présent
+
+je vexe
+tu vexes
+il (elle) vexe
+nous vexons
+vous vexez
+ils (elles) vexent
+
+** Imparfait
+
+je vexais
+tu vexais
+il (elle) vexait
+nous vexions
+vous vexiez
+ils (elles) vexaient
+
+** Passé simple
+
+je vexai
+tu vexas
+il (elle) vexa
+nous vexâmes
+vous vexâtes
+ils (elles) vexèrent
+
+** Futur simple
+
+je vexerai
+tu vexeras
+il (elle) vexera
+nous vexerons
+vous vexerez
+ils (elles) vexeront
+
+* CONDITIONNEL
+
+** Présent
+
+je vexerais
+tu vexerais
+il (elle) vexerait
+nous vexerions
+vous vexeriez
+ils (elles) vexeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vexe
+que tu vexes
+qu’il (elle) vexe
+que nous vexions
+que vous vexiez
+qu’ils (elles) vexent
+
+** Imparfait
+
+que je vexasse
+que tu vexasses
+qu’il (elle) vexât
+que nous vexassions
+que vous vexassiez
+qu’ils (elles) vexassent
+
+* IMPÉRATIF
+
+** Présent
+
+vexe
+vexons
+vexez
+
+* INFINITIF
+
+** Présent
+
+vexer
+
+* PARTICIPE
+
+** Présent
+
+vexant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vexé
+tu as vexé
+il (elle) a vexé
+nous avons vexé
+vous avez vexé
+ils (elles) ont vexé
+
+** Plus-que-parfait
+
+j'avais vexé
+tu avais vexé
+il (elle) avait vexé
+nous avions vexé
+vous aviez vexé
+ils (elles) avaient vexé
+
+** Passé antérieur
+
+j'eus vexé
+tu eus vexé
+il (elle) eut vexé
+nous eûmes vexé
+vous eûtes vexé
+ils (elles) eurent vexé
+
+** Futur antérieur
+
+j'aurai vexé
+tu auras vexé
+il (elle) aura vexé
+nous aurons vexé
+vous aurez vexé
+ils (elles) auront vexé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vexé
+tu aurais vexé
+il (elle) aurait vexé
+nous aurions vexé
+vous auriez vexé
+ils (elles) auraient vexé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vexé
+que tu aies vexé
+qu’il (elle) ait vexé
+que nous ayons vexé
+que vous ayez vexé
+qu’ils (elles) aient vexé
+
+** Plus-que-parfait
+
+que j'eusse vexé
+que tu eusses vexé
+qu’il (elle) eût vexé
+que nous eussions vexé
+que vous eussiez vexé
+qu’ils (elles) eussent vexé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vexé
+ayez vexé
+
+* INFINITIF
+
+** Passé
+
+avoir vexé
+
+* PARTICIPE
+
+** Passé
+
+ayant vexé
+vexé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vexé(e)
+tu es vexé(e)
+il (elle) est vexé(e)
+nous sommes vexé(e)s
+vous êtes vexé(e)s
+ils (elles) sont vexé(e)s
+
+** Imparfait
+
+j'étais vexé(e)
+tu étais vexé(e)
+il (elle) était vexé(e)
+nous étions vexé(e)s
+vous étiez vexé(e)s
+ils (elles) étaient vexé(e)s
+
+** Passé simple
+
+je fus vexé(e)
+tu fus vexé(e)
+il (elle) fut vexé(e)
+nous fûmes vexé(e)s
+vous fûtes vexé(e)s
+ils (elles) furent vexé(e)s
+
+** Futur simple
+
+je serai vexé(e)
+tu seras vexé(e)
+il (elle) sera vexé(e)
+nous serons vexé(e)s
+vous serez vexé(e)s
+ils (elles) seront vexé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vexé(e)
+tu serais vexé(e)
+il (elle) serait vexé(e)
+nous serions vexé(e)s
+vous seriez vexé(e)s
+ils (elles) seraient vexé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vexé(e)
+que tu sois vexé(e)
+qu’il (elle) soit vexé(e)
+que nous soyons vexé(e)s
+que vous soyez vexé(e)s
+qu’ils (elles) soient vexé(e)s
+
+** Imparfait
+
+que je fusse vexé(e)
+que tu fusses vexé(e)
+qu’il (elle) fût vexé(e)
+que nous fussions vexé(e)s
+que vous fussiez vexé(e)s
+qu’ils (elles) fussent vexé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vexé(e)s
+soyez vexé(e)s
+
+* INFINITIF
+
+** Présent
+
+être vexé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vexé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vexé(e)
+tu as été vexé(e)
+il (elle) a été vexé(e)
+nous avons été vexé(e)s
+vous avez été vexé(e)s
+ils (elles) ont été vexé(e)s
+
+** Plus-que-parfait
+
+j'avais été vexé(e)
+il (elle) avait été vexé(e)
+nous avions été vexé(e)s
+ils (elles) avaient été vexé(e)s
+
+** Passé antérieur
+
+j'eus été vexé(e)
+tu eus été vexé(e)
+il (elle) eut été vexé(e)
+nous eûmes été vexé(e)s
+vous eûtes été vexé(e)s
+ils (elles) eurent été vexé(e)s
+
+** Futur antérieur
+
+j'aurai été vexé(e)
+tu auras été vexé(e)
+il (elle) aura été vexé(e)
+nous aurons été vexé(e)s
+vous aurez été vexé(e)s
+ils (elles) auront été vexé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vexé(e)
+j'aurais été vexé(e)
+il (elle) aurait été vexé(e)
+nous aurions été vexé(e)s
+vous auriez été vexé(e)s
+ils (elles) auraient été vexé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vexé(e)
+que tu aies été vexé(e)
+qu’il (elle) ait été vexé(e)
+que nous ayons été vexé(e)s
+que vous ayez été vexé(e)s
+qu’ils (elles) aient été vexé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vexé(e)
+que tu eusses été vexé(e)
+qu’il (elle) eût été vexé(e)
+que nous eussions été vexé(e)s
+que vous eussiez été vexé(e)s
+qu’ils (elles) eussent été vexé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vexé(e)
+ayons été vexé(e)s
+ayez été vexé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vexé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vexé(e)(s)

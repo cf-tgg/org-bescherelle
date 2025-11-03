@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe porter
+
+* INDICATIF
+
+** Présent
+
+je porte
+tu portes
+il (elle) porte
+nous portons
+vous portez
+ils (elles) portent
+
+** Imparfait
+
+je portais
+tu portais
+il (elle) portait
+nous portions
+vous portiez
+ils (elles) portaient
+
+** Passé simple
+
+je portai
+tu portas
+il (elle) porta
+nous portâmes
+vous portâtes
+ils (elles) portèrent
+
+** Futur simple
+
+je porterai
+tu porteras
+il (elle) portera
+nous porterons
+vous porterez
+ils (elles) porteront
+
+* CONDITIONNEL
+
+** Présent
+
+je porterais
+tu porterais
+il (elle) porterait
+nous porterions
+vous porteriez
+ils (elles) porteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je porte
+que tu portes
+qu’il (elle) porte
+que nous portions
+que vous portiez
+qu’ils (elles) portent
+
+** Imparfait
+
+que je portasse
+que tu portasses
+qu’il (elle) portât
+que nous portassions
+que vous portassiez
+qu’ils (elles) portassent
+
+* IMPÉRATIF
+
+** Présent
+
+porte
+portons
+portez
+
+* INFINITIF
+
+** Présent
+
+porter
+
+* PARTICIPE
+
+** Présent
+
+portant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai porté
+tu as porté
+il (elle) a porté
+nous avons porté
+vous avez porté
+ils (elles) ont porté
+
+** Plus-que-parfait
+
+j'avais porté
+tu avais porté
+il (elle) avait porté
+nous avions porté
+vous aviez porté
+ils (elles) avaient porté
+
+** Passé antérieur
+
+j'eus porté
+tu eus porté
+il (elle) eut porté
+nous eûmes porté
+vous eûtes porté
+ils (elles) eurent porté
+
+** Futur antérieur
+
+j'aurai porté
+tu auras porté
+il (elle) aura porté
+nous aurons porté
+vous aurez porté
+ils (elles) auront porté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais porté
+tu aurais porté
+il (elle) aurait porté
+nous aurions porté
+vous auriez porté
+ils (elles) auraient porté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie porté
+que tu aies porté
+qu’il (elle) ait porté
+que nous ayons porté
+que vous ayez porté
+qu’ils (elles) aient porté
+
+** Plus-que-parfait
+
+que j'eusse porté
+que tu eusses porté
+qu’il (elle) eût porté
+que nous eussions porté
+que vous eussiez porté
+qu’ils (elles) eussent porté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons porté
+ayez porté
+
+* INFINITIF
+
+** Passé
+
+avoir porté
+
+* PARTICIPE
+
+** Passé
+
+ayant porté
+porté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis porté(e)
+tu es porté(e)
+il (elle) est porté(e)
+nous sommes porté(e)s
+vous êtes porté(e)s
+ils (elles) sont porté(e)s
+
+** Imparfait
+
+j'étais porté(e)
+tu étais porté(e)
+il (elle) était porté(e)
+nous étions porté(e)s
+vous étiez porté(e)s
+ils (elles) étaient porté(e)s
+
+** Passé simple
+
+je fus porté(e)
+tu fus porté(e)
+il (elle) fut porté(e)
+nous fûmes porté(e)s
+vous fûtes porté(e)s
+ils (elles) furent porté(e)s
+
+** Futur simple
+
+je serai porté(e)
+tu seras porté(e)
+il (elle) sera porté(e)
+nous serons porté(e)s
+vous serez porté(e)s
+ils (elles) seront porté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais porté(e)
+tu serais porté(e)
+il (elle) serait porté(e)
+nous serions porté(e)s
+vous seriez porté(e)s
+ils (elles) seraient porté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois porté(e)
+que tu sois porté(e)
+qu’il (elle) soit porté(e)
+que nous soyons porté(e)s
+que vous soyez porté(e)s
+qu’ils (elles) soient porté(e)s
+
+** Imparfait
+
+que je fusse porté(e)
+que tu fusses porté(e)
+qu’il (elle) fût porté(e)
+que nous fussions porté(e)s
+que vous fussiez porté(e)s
+qu’ils (elles) fussent porté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons porté(e)s
+soyez porté(e)s
+
+* INFINITIF
+
+** Présent
+
+être porté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant porté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été porté(e)
+tu as été porté(e)
+il (elle) a été porté(e)
+nous avons été porté(e)s
+vous avez été porté(e)s
+ils (elles) ont été porté(e)s
+
+** Plus-que-parfait
+
+j'avais été porté(e)
+il (elle) avait été porté(e)
+nous avions été porté(e)s
+ils (elles) avaient été porté(e)s
+
+** Passé antérieur
+
+j'eus été porté(e)
+tu eus été porté(e)
+il (elle) eut été porté(e)
+nous eûmes été porté(e)s
+vous eûtes été porté(e)s
+ils (elles) eurent été porté(e)s
+
+** Futur antérieur
+
+j'aurai été porté(e)
+tu auras été porté(e)
+il (elle) aura été porté(e)
+nous aurons été porté(e)s
+vous aurez été porté(e)s
+ils (elles) auront été porté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été porté(e)
+j'aurais été porté(e)
+il (elle) aurait été porté(e)
+nous aurions été porté(e)s
+vous auriez été porté(e)s
+ils (elles) auraient été porté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été porté(e)
+que tu aies été porté(e)
+qu’il (elle) ait été porté(e)
+que nous ayons été porté(e)s
+que vous ayez été porté(e)s
+qu’ils (elles) aient été porté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été porté(e)
+que tu eusses été porté(e)
+qu’il (elle) eût été porté(e)
+que nous eussions été porté(e)s
+que vous eussiez été porté(e)s
+qu’ils (elles) eussent été porté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été porté(e)
+ayons été porté(e)s
+ayez été porté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été porté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été porté(e)(s)

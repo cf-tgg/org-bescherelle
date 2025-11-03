@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe creer
+
+* INDICATIF
+
+** Présent
+
+je crée
+tu crées
+il (elle) crée
+nous créons
+vous créez
+ils (elles) créent
+
+** Imparfait
+
+je créais
+tu créais
+il (elle) créait
+nous créions
+vous créiez
+ils (elles) créaient
+
+** Passé simple
+
+je créai
+tu créas
+il (elle) créa
+nous créâmes
+vous créâtes
+ils (elles) créèrent
+
+** Futur simple
+
+je créerai
+tu créeras
+il (elle) créera
+nous créerons
+vous créerez
+ils (elles) créeront
+
+* CONDITIONNEL
+
+** Présent
+
+je créerais
+tu créerais
+il (elle) créerait
+nous créerions
+vous créeriez
+ils (elles) créeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je crée
+que tu crées
+qu’il (elle) crée
+que nous créions
+que vous créiez
+qu’ils (elles) créent
+
+** Imparfait
+
+que je créasse
+que tu créasses
+qu’il (elle) créât
+que nous créassions
+que vous créassiez
+qu’ils (elles) créassent
+
+* IMPÉRATIF
+
+** Présent
+
+crée
+créons
+créez
+
+* INFINITIF
+
+** Présent
+
+créer
+
+* PARTICIPE
+
+** Présent
+
+créant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai créé
+tu as créé
+il (elle) a créé
+nous avons créé
+vous avez créé
+ils (elles) ont créé
+
+** Plus-que-parfait
+
+j'avais créé
+tu avais créé
+il (elle) avait créé
+nous avions créé
+vous aviez créé
+ils (elles) avaient créé
+
+** Passé antérieur
+
+j'eus créé
+tu eus créé
+il (elle) eut créé
+nous eûmes créé
+vous eûtes créé
+ils (elles) eurent créé
+
+** Futur antérieur
+
+j'aurai créé
+tu auras créé
+il (elle) aura créé
+nous aurons créé
+vous aurez créé
+ils (elles) auront créé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais créé
+tu aurais créé
+il (elle) aurait créé
+nous aurions créé
+vous auriez créé
+ils (elles) auraient créé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie créé
+que tu aies créé
+qu’il (elle) ait créé
+que nous ayons créé
+que vous ayez créé
+qu’ils (elles) aient créé
+
+** Plus-que-parfait
+
+que j'eusse créé
+que tu eusses créé
+qu’il (elle) eût créé
+que nous eussions créé
+que vous eussiez créé
+qu’ils (elles) eussent créé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons créé
+ayez créé
+
+* INFINITIF
+
+** Passé
+
+avoir créé
+
+* PARTICIPE
+
+** Passé
+
+ayant créé
+créé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis créé(e)
+tu es créé(e)
+il (elle) est créé(e)
+nous sommes créé(e)s
+vous êtes créé(e)s
+ils (elles) sont créé(e)s
+
+** Imparfait
+
+j'étais créé(e)
+tu étais créé(e)
+il (elle) était créé(e)
+nous étions créé(e)s
+vous étiez créé(e)s
+ils (elles) étaient créé(e)s
+
+** Passé simple
+
+je fus créé(e)
+tu fus créé(e)
+il (elle) fut créé(e)
+nous fûmes créé(e)s
+vous fûtes créé(e)s
+ils (elles) furent créé(e)s
+
+** Futur simple
+
+je serai créé(e)
+tu seras créé(e)
+il (elle) sera créé(e)
+nous serons créé(e)s
+vous serez créé(e)s
+ils (elles) seront créé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais créé(e)
+tu serais créé(e)
+il (elle) serait créé(e)
+nous serions créé(e)s
+vous seriez créé(e)s
+ils (elles) seraient créé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois créé(e)
+que tu sois créé(e)
+qu’il (elle) soit créé(e)
+que nous soyons créé(e)s
+que vous soyez créé(e)s
+qu’ils (elles) soient créé(e)s
+
+** Imparfait
+
+que je fusse créé(e)
+que tu fusses créé(e)
+qu’il (elle) fût créé(e)
+que nous fussions créé(e)s
+que vous fussiez créé(e)s
+qu’ils (elles) fussent créé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons créé(e)s
+soyez créé(e)s
+
+* INFINITIF
+
+** Présent
+
+être créé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant créé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été créé(e)
+tu as été créé(e)
+il (elle) a été créé(e)
+nous avons été créé(e)s
+vous avez été créé(e)s
+ils (elles) ont été créé(e)s
+
+** Plus-que-parfait
+
+j'avais été créé(e)
+il (elle) avait été créé(e)
+nous avions été créé(e)s
+ils (elles) avaient été créé(e)s
+
+** Passé antérieur
+
+j'eus été créé(e)
+tu eus été créé(e)
+il (elle) eut été créé(e)
+nous eûmes été créé(e)s
+vous eûtes été créé(e)s
+ils (elles) eurent été créé(e)s
+
+** Futur antérieur
+
+j'aurai été créé(e)
+tu auras été créé(e)
+il (elle) aura été créé(e)
+nous aurons été créé(e)s
+vous aurez été créé(e)s
+ils (elles) auront été créé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été créé(e)
+j'aurais été créé(e)
+il (elle) aurait été créé(e)
+nous aurions été créé(e)s
+vous auriez été créé(e)s
+ils (elles) auraient été créé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été créé(e)
+que tu aies été créé(e)
+qu’il (elle) ait été créé(e)
+que nous ayons été créé(e)s
+que vous ayez été créé(e)s
+qu’ils (elles) aient été créé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été créé(e)
+que tu eusses été créé(e)
+qu’il (elle) eût été créé(e)
+que nous eussions été créé(e)s
+que vous eussiez été créé(e)s
+qu’ils (elles) eussent été créé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été créé(e)
+ayons été créé(e)s
+ayez été créé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été créé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été créé(e)(s)

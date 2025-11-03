@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe durer
+
+* INDICATIF
+
+** Présent
+
+je dure
+tu dures
+il (elle) dure
+nous durons
+vous durez
+ils (elles) durent
+
+** Imparfait
+
+je durais
+tu durais
+il (elle) durait
+nous durions
+vous duriez
+ils (elles) duraient
+
+** Passé simple
+
+je durai
+tu duras
+il (elle) dura
+nous durâmes
+vous durâtes
+ils (elles) durèrent
+
+** Futur simple
+
+je durerai
+tu dureras
+il (elle) durera
+nous durerons
+vous durerez
+ils (elles) dureront
+
+* CONDITIONNEL
+
+** Présent
+
+je durerais
+tu durerais
+il (elle) durerait
+nous durerions
+vous dureriez
+ils (elles) dureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dure
+que tu dures
+qu’il (elle) dure
+que nous durions
+que vous duriez
+qu’ils (elles) durent
+
+** Imparfait
+
+que je durasse
+que tu durasses
+qu’il (elle) durât
+que nous durassions
+que vous durassiez
+qu’ils (elles) durassent
+
+* IMPÉRATIF
+
+** Présent
+
+dure
+durons
+durez
+
+* INFINITIF
+
+** Présent
+
+durer
+
+* PARTICIPE
+
+** Présent
+
+durant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai duré
+tu as duré
+il (elle) a duré
+nous avons duré
+vous avez duré
+ils (elles) ont duré
+
+** Plus-que-parfait
+
+j'avais duré
+tu avais duré
+il (elle) avait duré
+nous avions duré
+vous aviez duré
+ils (elles) avaient duré
+
+** Passé antérieur
+
+j'eus duré
+tu eus duré
+il (elle) eut duré
+nous eûmes duré
+vous eûtes duré
+ils (elles) eurent duré
+
+** Futur antérieur
+
+j'aurai duré
+tu auras duré
+il (elle) aura duré
+nous aurons duré
+vous aurez duré
+ils (elles) auront duré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais duré
+tu aurais duré
+il (elle) aurait duré
+nous aurions duré
+vous auriez duré
+ils (elles) auraient duré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie duré
+que tu aies duré
+qu’il (elle) ait duré
+que nous ayons duré
+que vous ayez duré
+qu’ils (elles) aient duré
+
+** Plus-que-parfait
+
+que j'eusse duré
+que tu eusses duré
+qu’il (elle) eût duré
+que nous eussions duré
+que vous eussiez duré
+qu’ils (elles) eussent duré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons duré
+ayez duré
+
+* INFINITIF
+
+** Passé
+
+avoir duré
+
+* PARTICIPE
+
+** Passé
+
+ayant duré
+duré (invar.)

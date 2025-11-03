@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sauter
+
+* INDICATIF
+
+** Présent
+
+je saute
+tu sautes
+il (elle) saute
+nous sautons
+vous sautez
+ils (elles) sautent
+
+** Imparfait
+
+je sautais
+tu sautais
+il (elle) sautait
+nous sautions
+vous sautiez
+ils (elles) sautaient
+
+** Passé simple
+
+je sautai
+tu sautas
+il (elle) sauta
+nous sautâmes
+vous sautâtes
+ils (elles) sautèrent
+
+** Futur simple
+
+je sauterai
+tu sauteras
+il (elle) sautera
+nous sauterons
+vous sauterez
+ils (elles) sauteront
+
+* CONDITIONNEL
+
+** Présent
+
+je sauterais
+tu sauterais
+il (elle) sauterait
+nous sauterions
+vous sauteriez
+ils (elles) sauteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je saute
+que tu sautes
+qu’il (elle) saute
+que nous sautions
+que vous sautiez
+qu’ils (elles) sautent
+
+** Imparfait
+
+que je sautasse
+que tu sautasses
+qu’il (elle) sautât
+que nous sautassions
+que vous sautassiez
+qu’ils (elles) sautassent
+
+* IMPÉRATIF
+
+** Présent
+
+saute
+sautons
+sautez
+
+* INFINITIF
+
+** Présent
+
+sauter
+
+* PARTICIPE
+
+** Présent
+
+sautant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sauté
+tu as sauté
+il (elle) a sauté
+nous avons sauté
+vous avez sauté
+ils (elles) ont sauté
+
+** Plus-que-parfait
+
+j'avais sauté
+tu avais sauté
+il (elle) avait sauté
+nous avions sauté
+vous aviez sauté
+ils (elles) avaient sauté
+
+** Passé antérieur
+
+j'eus sauté
+tu eus sauté
+il (elle) eut sauté
+nous eûmes sauté
+vous eûtes sauté
+ils (elles) eurent sauté
+
+** Futur antérieur
+
+j'aurai sauté
+tu auras sauté
+il (elle) aura sauté
+nous aurons sauté
+vous aurez sauté
+ils (elles) auront sauté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sauté
+tu aurais sauté
+il (elle) aurait sauté
+nous aurions sauté
+vous auriez sauté
+ils (elles) auraient sauté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sauté
+que tu aies sauté
+qu’il (elle) ait sauté
+que nous ayons sauté
+que vous ayez sauté
+qu’ils (elles) aient sauté
+
+** Plus-que-parfait
+
+que j'eusse sauté
+que tu eusses sauté
+qu’il (elle) eût sauté
+que nous eussions sauté
+que vous eussiez sauté
+qu’ils (elles) eussent sauté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sauté
+ayez sauté
+
+* INFINITIF
+
+** Passé
+
+avoir sauté
+
+* PARTICIPE
+
+** Passé
+
+ayant sauté
+sauté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sauté(e)
+tu es sauté(e)
+il (elle) est sauté(e)
+nous sommes sauté(e)s
+vous êtes sauté(e)s
+ils (elles) sont sauté(e)s
+
+** Imparfait
+
+j'étais sauté(e)
+tu étais sauté(e)
+il (elle) était sauté(e)
+nous étions sauté(e)s
+vous étiez sauté(e)s
+ils (elles) étaient sauté(e)s
+
+** Passé simple
+
+je fus sauté(e)
+tu fus sauté(e)
+il (elle) fut sauté(e)
+nous fûmes sauté(e)s
+vous fûtes sauté(e)s
+ils (elles) furent sauté(e)s
+
+** Futur simple
+
+je serai sauté(e)
+tu seras sauté(e)
+il (elle) sera sauté(e)
+nous serons sauté(e)s
+vous serez sauté(e)s
+ils (elles) seront sauté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sauté(e)
+tu serais sauté(e)
+il (elle) serait sauté(e)
+nous serions sauté(e)s
+vous seriez sauté(e)s
+ils (elles) seraient sauté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sauté(e)
+que tu sois sauté(e)
+qu’il (elle) soit sauté(e)
+que nous soyons sauté(e)s
+que vous soyez sauté(e)s
+qu’ils (elles) soient sauté(e)s
+
+** Imparfait
+
+que je fusse sauté(e)
+que tu fusses sauté(e)
+qu’il (elle) fût sauté(e)
+que nous fussions sauté(e)s
+que vous fussiez sauté(e)s
+qu’ils (elles) fussent sauté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sauté(e)s
+soyez sauté(e)s
+
+* INFINITIF
+
+** Présent
+
+être sauté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sauté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sauté(e)
+tu as été sauté(e)
+il (elle) a été sauté(e)
+nous avons été sauté(e)s
+vous avez été sauté(e)s
+ils (elles) ont été sauté(e)s
+
+** Plus-que-parfait
+
+j'avais été sauté(e)
+il (elle) avait été sauté(e)
+nous avions été sauté(e)s
+ils (elles) avaient été sauté(e)s
+
+** Passé antérieur
+
+j'eus été sauté(e)
+tu eus été sauté(e)
+il (elle) eut été sauté(e)
+nous eûmes été sauté(e)s
+vous eûtes été sauté(e)s
+ils (elles) eurent été sauté(e)s
+
+** Futur antérieur
+
+j'aurai été sauté(e)
+tu auras été sauté(e)
+il (elle) aura été sauté(e)
+nous aurons été sauté(e)s
+vous aurez été sauté(e)s
+ils (elles) auront été sauté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sauté(e)
+j'aurais été sauté(e)
+il (elle) aurait été sauté(e)
+nous aurions été sauté(e)s
+vous auriez été sauté(e)s
+ils (elles) auraient été sauté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sauté(e)
+que tu aies été sauté(e)
+qu’il (elle) ait été sauté(e)
+que nous ayons été sauté(e)s
+que vous ayez été sauté(e)s
+qu’ils (elles) aient été sauté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sauté(e)
+que tu eusses été sauté(e)
+qu’il (elle) eût été sauté(e)
+que nous eussions été sauté(e)s
+que vous eussiez été sauté(e)s
+qu’ils (elles) eussent été sauté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sauté(e)
+ayons été sauté(e)s
+ayez été sauté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sauté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sauté(e)(s)

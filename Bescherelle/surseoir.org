@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe surseoir
+
+* INDICATIF
+
+** Présent
+
+je sursois
+tu sursois
+il (elle) sursoit
+nous sursoyons
+vous sursoyez
+ils (elles) sursoient
+
+** Imparfait
+
+je sursoyais
+tu sursoyais
+il (elle) sursoyait
+nous sursoyions
+vous sursoyiez
+ils (elles) sursoyaient
+
+** Passé simple
+
+je sursis
+tu sursis
+il (elle) sursit
+nous sursîmes
+vous sursîtes
+ils (elles) sursirent
+
+** Futur simple
+
+je surseoirai
+tu surseoiras
+il (elle) surseoira
+nous surseoirons
+vous surseoirez
+ils (elles) surseoiront
+
+* CONDITIONNEL
+
+** Présent
+
+je surseoirais
+tu surseoirais
+il (elle) surseoirait
+nous surseoirions
+vous surseoiriez
+ils (elles) surseoiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sursoie
+que tu sursoies
+qu’il (elle) sursoie
+que nous sursoyions
+que vous sursoyiez
+qu’ils (elles) sursoient
+
+** Imparfait
+
+que je sursisse
+que tu sursisses
+qu’il (elle) sursît
+que nous sursissions
+que vous sursissiez
+qu’ils (elles) sursissent
+
+* IMPÉRATIF
+
+** Présent
+
+sursois
+sursoyons
+sursoyez
+
+* INFINITIF
+
+** Présent
+
+surseoir
+
+* PARTICIPE
+
+** Présent
+
+sursoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sursis
+tu as sursis
+il (elle) a sursis
+nous avons sursis
+vous avez sursis
+ils (elles) ont sursis
+
+** Plus-que-parfait
+
+j'avais sursis
+tu avais sursis
+il (elle) avait sursis
+nous avions sursis
+vous aviez sursis
+ils (elles) avaient sursis
+
+** Passé antérieur
+
+j'eus sursis
+tu eus sursis
+il (elle) eut sursis
+nous eûmes sursis
+vous eûtes sursis
+ils (elles) eurent sursis
+
+** Futur antérieur
+
+j'aurai sursis
+tu auras sursis
+il (elle) aura sursis
+nous aurons sursis
+vous aurez sursis
+ils (elles) auront sursis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sursis
+tu aurais sursis
+il (elle) aurait sursis
+nous aurions sursis
+vous auriez sursis
+ils (elles) auraient sursis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sursis
+que tu aies sursis
+qu’il (elle) ait sursis
+que nous ayons sursis
+que vous ayez sursis
+qu’ils (elles) aient sursis
+
+** Plus-que-parfait
+
+que j'eusse sursis
+que tu eusses sursis
+qu’il (elle) eût sursis
+que nous eussions sursis
+que vous eussiez sursis
+qu’ils (elles) eussent sursis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sursis
+ayez sursis
+
+* INFINITIF
+
+** Passé
+
+avoir sursis
+
+* PARTICIPE
+
+** Passé
+
+ayant sursis
+sursis (invar.)

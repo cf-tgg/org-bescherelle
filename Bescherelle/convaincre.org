@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convaincre
+
+* INDICATIF
+
+** Présent
+
+je convaincs
+tu convaincs
+il (elle) convainc
+nous convainquons
+vous convainquez
+ils (elles) convainquent
+
+** Imparfait
+
+je convainquais
+tu convainquais
+il (elle) convainquait
+nous convainquions
+vous convainquiez
+ils (elles) convainquaient
+
+** Passé simple
+
+je convainquis
+tu convainquis
+il (elle) convainquit
+nous convainquîmes
+vous convainquîtes
+ils (elles) convainquirent
+
+** Futur simple
+
+je convaincrai
+tu convaincras
+il (elle) convaincra
+nous convaincrons
+vous convaincrez
+ils (elles) convaincront
+
+* CONDITIONNEL
+
+** Présent
+
+je convaincrais
+tu convaincrais
+il (elle) convaincrait
+nous convaincrions
+vous convaincriez
+ils (elles) convaincraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convainque
+que tu convainques
+qu’il (elle) convainque
+que nous convainquions
+que vous convainquiez
+qu’ils (elles) convainquent
+
+** Imparfait
+
+que je convainquisse
+que tu convainquisses
+qu’il (elle) convainquît
+que nous convainquissions
+que vous convainquissiez
+qu’ils (elles) convainquissent
+
+* IMPÉRATIF
+
+** Présent
+
+convaincs
+convainquons
+convainquez
+
+* INFINITIF
+
+** Présent
+
+convaincre
+
+* PARTICIPE
+
+** Présent
+
+convainquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai convaincu
+tu as convaincu
+il (elle) a convaincu
+nous avons convaincu
+vous avez convaincu
+ils (elles) ont convaincu
+
+** Plus-que-parfait
+
+j'avais convaincu
+tu avais convaincu
+il (elle) avait convaincu
+nous avions convaincu
+vous aviez convaincu
+ils (elles) avaient convaincu
+
+** Passé antérieur
+
+j'eus convaincu
+tu eus convaincu
+il (elle) eut convaincu
+nous eûmes convaincu
+vous eûtes convaincu
+ils (elles) eurent convaincu
+
+** Futur antérieur
+
+j'aurai convaincu
+tu auras convaincu
+il (elle) aura convaincu
+nous aurons convaincu
+vous aurez convaincu
+ils (elles) auront convaincu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais convaincu
+tu aurais convaincu
+il (elle) aurait convaincu
+nous aurions convaincu
+vous auriez convaincu
+ils (elles) auraient convaincu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie convaincu
+que tu aies convaincu
+qu’il (elle) ait convaincu
+que nous ayons convaincu
+que vous ayez convaincu
+qu’ils (elles) aient convaincu
+
+** Plus-que-parfait
+
+que j'eusse convaincu
+que tu eusses convaincu
+qu’il (elle) eût convaincu
+que nous eussions convaincu
+que vous eussiez convaincu
+qu’ils (elles) eussent convaincu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons convaincu
+ayez convaincu
+
+* INFINITIF
+
+** Passé
+
+avoir convaincu
+
+* PARTICIPE
+
+** Passé
+
+ayant convaincu
+convaincu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis convaincu(e)
+tu es convaincu(e)
+il (elle) est convaincu(e)
+nous sommes convaincu(e)s
+vous êtes convaincu(e)s
+ils (elles) sont convaincu(e)s
+
+** Imparfait
+
+j'étais convaincu(e)
+tu étais convaincu(e)
+il (elle) était convaincu(e)
+nous étions convaincu(e)s
+vous étiez convaincu(e)s
+ils (elles) étaient convaincu(e)s
+
+** Passé simple
+
+je fus convaincu(e)
+tu fus convaincu(e)
+il (elle) fut convaincu(e)
+nous fûmes convaincu(e)s
+vous fûtes convaincu(e)s
+ils (elles) furent convaincu(e)s
+
+** Futur simple
+
+je serai convaincu(e)
+tu seras convaincu(e)
+il (elle) sera convaincu(e)
+nous serons convaincu(e)s
+vous serez convaincu(e)s
+ils (elles) seront convaincu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais convaincu(e)
+tu serais convaincu(e)
+il (elle) serait convaincu(e)
+nous serions convaincu(e)s
+vous seriez convaincu(e)s
+ils (elles) seraient convaincu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois convaincu(e)
+que tu sois convaincu(e)
+qu’il (elle) soit convaincu(e)
+que nous soyons convaincu(e)s
+que vous soyez convaincu(e)s
+qu’ils (elles) soient convaincu(e)s
+
+** Imparfait
+
+que je fusse convaincu(e)
+que tu fusses convaincu(e)
+qu’il (elle) fût convaincu(e)
+que nous fussions convaincu(e)s
+que vous fussiez convaincu(e)s
+qu’ils (elles) fussent convaincu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons convaincu(e)s
+soyez convaincu(e)s
+
+* INFINITIF
+
+** Présent
+
+être convaincu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant convaincu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été convaincu(e)
+tu as été convaincu(e)
+il (elle) a été convaincu(e)
+nous avons été convaincu(e)s
+vous avez été convaincu(e)s
+ils (elles) ont été convaincu(e)s
+
+** Plus-que-parfait
+
+j'avais été convaincu(e)
+il (elle) avait été convaincu(e)
+nous avions été convaincu(e)s
+ils (elles) avaient été convaincu(e)s
+
+** Passé antérieur
+
+j'eus été convaincu(e)
+tu eus été convaincu(e)
+il (elle) eut été convaincu(e)
+nous eûmes été convaincu(e)s
+vous eûtes été convaincu(e)s
+ils (elles) eurent été convaincu(e)s
+
+** Futur antérieur
+
+j'aurai été convaincu(e)
+tu auras été convaincu(e)
+il (elle) aura été convaincu(e)
+nous aurons été convaincu(e)s
+vous aurez été convaincu(e)s
+ils (elles) auront été convaincu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été convaincu(e)
+j'aurais été convaincu(e)
+il (elle) aurait été convaincu(e)
+nous aurions été convaincu(e)s
+vous auriez été convaincu(e)s
+ils (elles) auraient été convaincu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été convaincu(e)
+que tu aies été convaincu(e)
+qu’il (elle) ait été convaincu(e)
+que nous ayons été convaincu(e)s
+que vous ayez été convaincu(e)s
+qu’ils (elles) aient été convaincu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été convaincu(e)
+que tu eusses été convaincu(e)
+qu’il (elle) eût été convaincu(e)
+que nous eussions été convaincu(e)s
+que vous eussiez été convaincu(e)s
+qu’ils (elles) eussent été convaincu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été convaincu(e)
+ayons été convaincu(e)s
+ayez été convaincu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été convaincu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été convaincu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe choisir
+
+* INDICATIF
+
+** Présent
+
+je choisis
+tu choisis
+il (elle) choisit
+nous choisissons
+vous choisissez
+ils (elles) choisissent
+
+** Imparfait
+
+je choisissais
+tu choisissais
+il (elle) choisissait
+nous choisissions
+vous choisissiez
+ils (elles) choisissaient
+
+** Passé simple
+
+je choisis
+tu choisis
+il (elle) choisit
+nous choisîmes
+vous choisîtes
+ils (elles) choisirent
+
+** Futur simple
+
+je choisirai
+tu choisiras
+il (elle) choisira
+nous choisirons
+vous choisirez
+ils (elles) choisiront
+
+* CONDITIONNEL
+
+** Présent
+
+je choisirais
+tu choisirais
+il (elle) choisirait
+nous choisirions
+vous choisiriez
+ils (elles) choisiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je choisisse
+que tu choisisses
+qu’il (elle) choisisse
+que nous choisissions
+que vous choisissiez
+qu’ils (elles) choisissent
+
+** Imparfait
+
+que je choisisse
+que tu choisisses
+qu’il (elle) choisît
+que nous choisissions
+que vous choisissiez
+qu’ils (elles) choisissent
+
+* IMPÉRATIF
+
+** Présent
+
+choisis
+choisissons
+choisissez
+
+* INFINITIF
+
+** Présent
+
+choisir
+
+* PARTICIPE
+
+** Présent
+
+choisissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai choisi
+tu as choisi
+il (elle) a choisi
+nous avons choisi
+vous avez choisi
+ils (elles) ont choisi
+
+** Plus-que-parfait
+
+j'avais choisi
+tu avais choisi
+il (elle) avait choisi
+nous avions choisi
+vous aviez choisi
+ils (elles) avaient choisi
+
+** Passé antérieur
+
+j'eus choisi
+tu eus choisi
+il (elle) eut choisi
+nous eûmes choisi
+vous eûtes choisi
+ils (elles) eurent choisi
+
+** Futur antérieur
+
+j'aurai choisi
+tu auras choisi
+il (elle) aura choisi
+nous aurons choisi
+vous aurez choisi
+ils (elles) auront choisi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais choisi
+tu aurais choisi
+il (elle) aurait choisi
+nous aurions choisi
+vous auriez choisi
+ils (elles) auraient choisi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie choisi
+que tu aies choisi
+qu’il (elle) ait choisi
+que nous ayons choisi
+que vous ayez choisi
+qu’ils (elles) aient choisi
+
+** Plus-que-parfait
+
+que j'eusse choisi
+que tu eusses choisi
+qu’il (elle) eût choisi
+que nous eussions choisi
+que vous eussiez choisi
+qu’ils (elles) eussent choisi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons choisi
+ayez choisi
+
+* INFINITIF
+
+** Passé
+
+avoir choisi
+
+* PARTICIPE
+
+** Passé
+
+ayant choisi
+choisi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis choisi(e)
+tu es choisi(e)
+il (elle) est choisi(e)
+nous sommes choisi(e)s
+vous êtes choisi(e)s
+ils (elles) sont choisi(e)s
+
+** Imparfait
+
+j'étais choisi(e)
+tu étais choisi(e)
+il (elle) était choisi(e)
+nous étions choisi(e)s
+vous étiez choisi(e)s
+ils (elles) étaient choisi(e)s
+
+** Passé simple
+
+je fus choisi(e)
+tu fus choisi(e)
+il (elle) fut choisi(e)
+nous fûmes choisi(e)s
+vous fûtes choisi(e)s
+ils (elles) furent choisi(e)s
+
+** Futur simple
+
+je serai choisi(e)
+tu seras choisi(e)
+il (elle) sera choisi(e)
+nous serons choisi(e)s
+vous serez choisi(e)s
+ils (elles) seront choisi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais choisi(e)
+tu serais choisi(e)
+il (elle) serait choisi(e)
+nous serions choisi(e)s
+vous seriez choisi(e)s
+ils (elles) seraient choisi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois choisi(e)
+que tu sois choisi(e)
+qu’il (elle) soit choisi(e)
+que nous soyons choisi(e)s
+que vous soyez choisi(e)s
+qu’ils (elles) soient choisi(e)s
+
+** Imparfait
+
+que je fusse choisi(e)
+que tu fusses choisi(e)
+qu’il (elle) fût choisi(e)
+que nous fussions choisi(e)s
+que vous fussiez choisi(e)s
+qu’ils (elles) fussent choisi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons choisi(e)s
+soyez choisi(e)s
+
+* INFINITIF
+
+** Présent
+
+être choisi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant choisi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été choisi(e)
+tu as été choisi(e)
+il (elle) a été choisi(e)
+nous avons été choisi(e)s
+vous avez été choisi(e)s
+ils (elles) ont été choisi(e)s
+
+** Plus-que-parfait
+
+j'avais été choisi(e)
+il (elle) avait été choisi(e)
+nous avions été choisi(e)s
+ils (elles) avaient été choisi(e)s
+
+** Passé antérieur
+
+j'eus été choisi(e)
+tu eus été choisi(e)
+il (elle) eut été choisi(e)
+nous eûmes été choisi(e)s
+vous eûtes été choisi(e)s
+ils (elles) eurent été choisi(e)s
+
+** Futur antérieur
+
+j'aurai été choisi(e)
+tu auras été choisi(e)
+il (elle) aura été choisi(e)
+nous aurons été choisi(e)s
+vous aurez été choisi(e)s
+ils (elles) auront été choisi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été choisi(e)
+j'aurais été choisi(e)
+il (elle) aurait été choisi(e)
+nous aurions été choisi(e)s
+vous auriez été choisi(e)s
+ils (elles) auraient été choisi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été choisi(e)
+que tu aies été choisi(e)
+qu’il (elle) ait été choisi(e)
+que nous ayons été choisi(e)s
+que vous ayez été choisi(e)s
+qu’ils (elles) aient été choisi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été choisi(e)
+que tu eusses été choisi(e)
+qu’il (elle) eût été choisi(e)
+que nous eussions été choisi(e)s
+que vous eussiez été choisi(e)s
+qu’ils (elles) eussent été choisi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été choisi(e)
+ayons été choisi(e)s
+ayez été choisi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été choisi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été choisi(e)(s)

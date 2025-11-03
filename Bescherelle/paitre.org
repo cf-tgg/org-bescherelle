@@ -1,0 +1,72 @@
+#+title: Conjugaison du verbe paitre
+
+* INDICATIF
+
+** Présent
+
+je pais
+tu pais
+il (elle) paît
+nous paissons
+vous paissez
+ils (elles) paissent
+
+** Imparfait
+
+je paissais
+tu paissais
+il (elle) paissait
+nous paissions
+vous paissiez
+ils (elles) paissaient
+
+** Futur simple
+
+je paîtrai
+tu paîtras
+il (elle) paîtra
+nous paîtrons
+vous paîtrez
+ils (elles) paîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je paîtrais
+tu paîtrais
+il (elle) paîtrait
+nous paîtrions
+vous paîtriez
+ils (elles) paîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je paisse
+que tu paisses
+qu’il (elle) paisse
+que nous paissions
+que vous paissiez
+qu’ils (elles) paissent
+
+* IMPÉRATIF
+
+** Présent
+
+pais
+paissons
+paissez
+
+* INFINITIF
+
+** Présent
+
+paître
+
+* PARTICIPE
+
+** Présent
+
+paissant

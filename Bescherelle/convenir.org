@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convenir
+
+* INDICATIF
+
+** Présent
+
+je conviens
+tu conviens
+il (elle) convient
+nous convenons
+vous convenez
+ils (elles) conviennent
+
+** Imparfait
+
+je convenais
+tu convenais
+il (elle) convenait
+nous convenions
+vous conveniez
+ils (elles) convenaient
+
+** Passé simple
+
+je convins
+tu convins
+il (elle) convint
+nous convînmes
+vous convîntes
+ils (elles) convinrent
+
+** Futur simple
+
+je conviendrai
+tu conviendras
+il (elle) conviendra
+nous conviendrons
+vous conviendrez
+ils (elles) conviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je conviendrais
+tu conviendrais
+il (elle) conviendrait
+nous conviendrions
+vous conviendriez
+ils (elles) conviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convienne
+que tu conviennes
+qu’il (elle) convienne
+que nous convenions
+que vous conveniez
+qu’ils (elles) conviennent
+
+** Imparfait
+
+que je convinsse
+que tu convinsses
+qu’il (elle) convînt
+que nous convinssions
+que vous convinssiez
+qu’ils (elles) convinssent
+
+* IMPÉRATIF
+
+** Présent
+
+conviens
+convenons
+convenez
+
+* INFINITIF
+
+** Présent
+
+convenir
+
+* PARTICIPE
+
+** Présent
+
+convenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis convenu(e)
+tu as ou es convenu(e)
+il (elle) a ou est convenu(e)
+nous avons ou sommes convenu(e)s
+vous avez ou êtes convenu(e)s
+ils (elles) ont ou sont convenu(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais convenu(e)
+tu avais ou étais convenu(e)
+il (elle) avait ou était convenu(e)
+nous avions ou étions convenu(e)s
+vous aviez ou étiez convenu(e)s
+ils (elles) avaient ou étaient convenu(e)s
+
+** Passé antérieur
+
+j'eus ou fus convenu(e)
+tu eus ou fus convenu(e)
+il (elle) eut ou fut convenu(e)
+nous eûmes ou fûmes convenu(e)s
+vous eûtes ou fûtes convenu(e)s
+ils (elles) eurent ou furent convenu(e)s
+
+** Futur antérieur
+
+j'aurai ou serai convenu(e)
+tu auras ou seras convenu(e)
+il (elle) aura ou sera convenu(e)
+nous aurons ou serons convenu(e)s
+vous aurez ou serez convenu(e)s
+ils (elles) auront ou seront convenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais convenu(e)
+tu aurais ou serais convenu(e)
+il (elle) aurait ou serait convenu(e)
+nous aurions ou serions convenu(e)s
+vous auriez ou seriez convenu(e)s
+ils (elles) auraient ou seraient convenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois convenu(e)
+que tu aies ou sois convenu(e)
+qu’il (elle) ait ou soit convenu(e)
+que nous ayons ou soyons convenu(e)s
+que vous ayez ou soyez convenu(e)s
+qu’ils (elles) aient ou soient convenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse convenu(e)
+que tu eusses ou fusses convenu(e)
+qu’il (elle) eût ou fût convenu(e)
+que nous eussions ou fussions convenu(e)s
+que vous eussiez ou fussiez convenu(e)s
+qu’ils (elles) eussent ou fussent convenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons convenu(e)s
+ayez ou soyez convenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être convenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant convenu(e)(s)
+convenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis convenu(e)
+tu es convenu(e)
+il (elle) est convenu(e)
+nous sommes convenu(e)s
+vous êtes convenu(e)s
+ils (elles) sont convenu(e)s
+
+** Imparfait
+
+j'étais convenu(e)
+tu étais convenu(e)
+il (elle) était convenu(e)
+nous étions convenu(e)s
+vous étiez convenu(e)s
+ils (elles) étaient convenu(e)s
+
+** Passé simple
+
+je fus convenu(e)
+tu fus convenu(e)
+il (elle) fut convenu(e)
+nous fûmes convenu(e)s
+vous fûtes convenu(e)s
+ils (elles) furent convenu(e)s
+
+** Futur simple
+
+je serai convenu(e)
+tu seras convenu(e)
+il (elle) sera convenu(e)
+nous serons convenu(e)s
+vous serez convenu(e)s
+ils (elles) seront convenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais convenu(e)
+tu serais convenu(e)
+il (elle) serait convenu(e)
+nous serions convenu(e)s
+vous seriez convenu(e)s
+ils (elles) seraient convenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois convenu(e)
+que tu sois convenu(e)
+qu’il (elle) soit convenu(e)
+que nous soyons convenu(e)s
+que vous soyez convenu(e)s
+qu’ils (elles) soient convenu(e)s
+
+** Imparfait
+
+que je fusse convenu(e)
+que tu fusses convenu(e)
+qu’il (elle) fût convenu(e)
+que nous fussions convenu(e)s
+que vous fussiez convenu(e)s
+qu’ils (elles) fussent convenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons convenu(e)s
+soyez convenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être convenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant convenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été convenu(e)
+tu as été convenu(e)
+il (elle) a été convenu(e)
+nous avons été convenu(e)s
+vous avez été convenu(e)s
+ils (elles) ont été convenu(e)s
+
+** Plus-que-parfait
+
+j'avais été convenu(e)
+il (elle) avait été convenu(e)
+nous avions été convenu(e)s
+ils (elles) avaient été convenu(e)s
+
+** Passé antérieur
+
+j'eus été convenu(e)
+tu eus été convenu(e)
+il (elle) eut été convenu(e)
+nous eûmes été convenu(e)s
+vous eûtes été convenu(e)s
+ils (elles) eurent été convenu(e)s
+
+** Futur antérieur
+
+j'aurai été convenu(e)
+tu auras été convenu(e)
+il (elle) aura été convenu(e)
+nous aurons été convenu(e)s
+vous aurez été convenu(e)s
+ils (elles) auront été convenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été convenu(e)
+j'aurais été convenu(e)
+il (elle) aurait été convenu(e)
+nous aurions été convenu(e)s
+vous auriez été convenu(e)s
+ils (elles) auraient été convenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été convenu(e)
+que tu aies été convenu(e)
+qu’il (elle) ait été convenu(e)
+que nous ayons été convenu(e)s
+que vous ayez été convenu(e)s
+qu’ils (elles) aient été convenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été convenu(e)
+que tu eusses été convenu(e)
+qu’il (elle) eût été convenu(e)
+que nous eussions été convenu(e)s
+que vous eussiez été convenu(e)s
+qu’ils (elles) eussent été convenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été convenu(e)
+ayons été convenu(e)s
+ayez été convenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été convenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été convenu(e)(s)

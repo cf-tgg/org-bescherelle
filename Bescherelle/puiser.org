@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe puiser
+
+* INDICATIF
+
+** Présent
+
+je puise
+tu puises
+il (elle) puise
+nous puisons
+vous puisez
+ils (elles) puisent
+
+** Imparfait
+
+je puisais
+tu puisais
+il (elle) puisait
+nous puisions
+vous puisiez
+ils (elles) puisaient
+
+** Passé simple
+
+je puisai
+tu puisas
+il (elle) puisa
+nous puisâmes
+vous puisâtes
+ils (elles) puisèrent
+
+** Futur simple
+
+je puiserai
+tu puiseras
+il (elle) puisera
+nous puiserons
+vous puiserez
+ils (elles) puiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je puiserais
+tu puiserais
+il (elle) puiserait
+nous puiserions
+vous puiseriez
+ils (elles) puiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je puise
+que tu puises
+qu’il (elle) puise
+que nous puisions
+que vous puisiez
+qu’ils (elles) puisent
+
+** Imparfait
+
+que je puisasse
+que tu puisasses
+qu’il (elle) puisât
+que nous puisassions
+que vous puisassiez
+qu’ils (elles) puisassent
+
+* IMPÉRATIF
+
+** Présent
+
+puise
+puisons
+puisez
+
+* INFINITIF
+
+** Présent
+
+puiser
+
+* PARTICIPE
+
+** Présent
+
+puisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai puisé
+tu as puisé
+il (elle) a puisé
+nous avons puisé
+vous avez puisé
+ils (elles) ont puisé
+
+** Plus-que-parfait
+
+j'avais puisé
+tu avais puisé
+il (elle) avait puisé
+nous avions puisé
+vous aviez puisé
+ils (elles) avaient puisé
+
+** Passé antérieur
+
+j'eus puisé
+tu eus puisé
+il (elle) eut puisé
+nous eûmes puisé
+vous eûtes puisé
+ils (elles) eurent puisé
+
+** Futur antérieur
+
+j'aurai puisé
+tu auras puisé
+il (elle) aura puisé
+nous aurons puisé
+vous aurez puisé
+ils (elles) auront puisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais puisé
+tu aurais puisé
+il (elle) aurait puisé
+nous aurions puisé
+vous auriez puisé
+ils (elles) auraient puisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie puisé
+que tu aies puisé
+qu’il (elle) ait puisé
+que nous ayons puisé
+que vous ayez puisé
+qu’ils (elles) aient puisé
+
+** Plus-que-parfait
+
+que j'eusse puisé
+que tu eusses puisé
+qu’il (elle) eût puisé
+que nous eussions puisé
+que vous eussiez puisé
+qu’ils (elles) eussent puisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons puisé
+ayez puisé
+
+* INFINITIF
+
+** Passé
+
+avoir puisé
+
+* PARTICIPE
+
+** Passé
+
+ayant puisé
+puisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis puisé(e)
+tu es puisé(e)
+il (elle) est puisé(e)
+nous sommes puisé(e)s
+vous êtes puisé(e)s
+ils (elles) sont puisé(e)s
+
+** Imparfait
+
+j'étais puisé(e)
+tu étais puisé(e)
+il (elle) était puisé(e)
+nous étions puisé(e)s
+vous étiez puisé(e)s
+ils (elles) étaient puisé(e)s
+
+** Passé simple
+
+je fus puisé(e)
+tu fus puisé(e)
+il (elle) fut puisé(e)
+nous fûmes puisé(e)s
+vous fûtes puisé(e)s
+ils (elles) furent puisé(e)s
+
+** Futur simple
+
+je serai puisé(e)
+tu seras puisé(e)
+il (elle) sera puisé(e)
+nous serons puisé(e)s
+vous serez puisé(e)s
+ils (elles) seront puisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais puisé(e)
+tu serais puisé(e)
+il (elle) serait puisé(e)
+nous serions puisé(e)s
+vous seriez puisé(e)s
+ils (elles) seraient puisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois puisé(e)
+que tu sois puisé(e)
+qu’il (elle) soit puisé(e)
+que nous soyons puisé(e)s
+que vous soyez puisé(e)s
+qu’ils (elles) soient puisé(e)s
+
+** Imparfait
+
+que je fusse puisé(e)
+que tu fusses puisé(e)
+qu’il (elle) fût puisé(e)
+que nous fussions puisé(e)s
+que vous fussiez puisé(e)s
+qu’ils (elles) fussent puisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons puisé(e)s
+soyez puisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être puisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant puisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été puisé(e)
+tu as été puisé(e)
+il (elle) a été puisé(e)
+nous avons été puisé(e)s
+vous avez été puisé(e)s
+ils (elles) ont été puisé(e)s
+
+** Plus-que-parfait
+
+j'avais été puisé(e)
+il (elle) avait été puisé(e)
+nous avions été puisé(e)s
+ils (elles) avaient été puisé(e)s
+
+** Passé antérieur
+
+j'eus été puisé(e)
+tu eus été puisé(e)
+il (elle) eut été puisé(e)
+nous eûmes été puisé(e)s
+vous eûtes été puisé(e)s
+ils (elles) eurent été puisé(e)s
+
+** Futur antérieur
+
+j'aurai été puisé(e)
+tu auras été puisé(e)
+il (elle) aura été puisé(e)
+nous aurons été puisé(e)s
+vous aurez été puisé(e)s
+ils (elles) auront été puisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été puisé(e)
+j'aurais été puisé(e)
+il (elle) aurait été puisé(e)
+nous aurions été puisé(e)s
+vous auriez été puisé(e)s
+ils (elles) auraient été puisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été puisé(e)
+que tu aies été puisé(e)
+qu’il (elle) ait été puisé(e)
+que nous ayons été puisé(e)s
+que vous ayez été puisé(e)s
+qu’ils (elles) aient été puisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été puisé(e)
+que tu eusses été puisé(e)
+qu’il (elle) eût été puisé(e)
+que nous eussions été puisé(e)s
+que vous eussiez été puisé(e)s
+qu’ils (elles) eussent été puisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été puisé(e)
+ayons été puisé(e)s
+ayez été puisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été puisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été puisé(e)(s)

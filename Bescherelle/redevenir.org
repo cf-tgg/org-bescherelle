@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe redevenir
+
+* INDICATIF
+
+** Présent
+
+je redeviens
+tu redeviens
+il (elle) redevient
+nous redevenons
+vous redevenez
+ils (elles) redeviennent
+
+** Imparfait
+
+je redevenais
+tu redevenais
+il (elle) redevenait
+nous redevenions
+vous redeveniez
+ils (elles) redevenaient
+
+** Passé simple
+
+je redevins
+tu redevins
+il (elle) redevint
+nous redevînmes
+vous redevîntes
+ils (elles) redevinrent
+
+** Futur simple
+
+je redeviendrai
+tu redeviendras
+il (elle) redeviendra
+nous redeviendrons
+vous redeviendrez
+ils (elles) redeviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je redeviendrais
+tu redeviendrais
+il (elle) redeviendrait
+nous redeviendrions
+vous redeviendriez
+ils (elles) redeviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je redevienne
+que tu redeviennes
+qu’il (elle) redevienne
+que nous redevenions
+que vous redeveniez
+qu’ils (elles) redeviennent
+
+** Imparfait
+
+que je redevinsse
+que tu redevinsses
+qu’il (elle) redevînt
+que nous redevinssions
+que vous redevinssiez
+qu’ils (elles) redevinssent
+
+* IMPÉRATIF
+
+** Présent
+
+redeviens
+redevenons
+redevenez
+
+* INFINITIF
+
+** Présent
+
+redevenir
+
+* PARTICIPE
+
+** Présent
+
+redevenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis redevenu(e)
+tu es redevenu(e)
+il (elle) est redevenu(e)
+nous sommes redevenu(e)s
+vous êtes redevenu(e)s
+ils (elles) sont redevenu(e)s
+
+** Plus-que-parfait
+
+j'étais redevenu(e)
+tu étais redevenu(e)
+il (elle) était redevenu(e)
+nous étions redevenu(e)s
+vous étiez redevenu(e)s
+ils (elles) étaient redevenu(e)s
+
+** Passé antérieur
+
+je fus redevenu(e)
+tu fus redevenu(e)
+il (elle) fut redevenu(e)
+nous fûmes redevenu(e)s
+vous fûtes redevenu(e)s
+ils (elles) furent redevenu(e)s
+
+** Futur antérieur
+
+je serai redevenu(e)
+tu seras redevenu(e)
+il (elle) sera redevenu(e)
+nous serons redevenu(e)s
+vous serez redevenu(e)s
+ils (elles) seront redevenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais redevenu(e)
+tu serais redevenu(e)
+il (elle) serait redevenu(e)
+nous serions redevenu(e)s
+vous seriez redevenu(e)s
+ils (elles) seraient redevenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois redevenu(e)
+que tu sois redevenu(e)
+qu’il (elle) soit redevenu(e)
+que nous soyons redevenu(e)s
+que vous soyez redevenu(e)s
+qu’ils (elles) soient redevenu(e)s
+
+** Plus-que-parfait
+
+que je fusse redevenu(e)
+que tu fusses redevenu(e)
+qu’il (elle) fût redevenu(e)
+que nous fussions redevenu(e)s
+que vous fussiez redevenu(e)s
+qu’ils (elles) fussent redevenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons redevenu(e)s
+soyez redevenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être redevenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant redevenu(e)(s)
+redevenu (u, ue, us, ues)

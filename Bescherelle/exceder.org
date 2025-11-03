@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exceder
+
+* INDICATIF
+
+** Présent
+
+j'excède
+tu excèdes
+il (elle) excède
+nous excédons
+vous excédez
+ils (elles) excèdent
+
+** Imparfait
+
+j'excédais
+tu excédais
+il (elle) excédait
+nous excédions
+vous excédiez
+ils (elles) excédaient
+
+** Passé simple
+
+j'excédai
+tu excédas
+il (elle) excéda
+nous excédâmes
+vous excédâtes
+ils (elles) excédèrent
+
+** Futur simple
+
+j'excéderai
+tu excéderas
+il (elle) excédera
+nous excéderons
+vous excéderez
+ils (elles) excéderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'excéderais
+tu excéderais
+il (elle) excéderait
+nous excéderions
+vous excéderiez
+ils (elles) excéderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'excède
+que tu excèdes
+qu’il (elle) excède
+que nous excédions
+que vous excédiez
+qu’ils (elles) excèdent
+
+** Imparfait
+
+que j'excédasse
+que tu excédasses
+qu’il (elle) excédât
+que nous excédassions
+que vous excédassiez
+qu’ils (elles) excédassent
+
+* IMPÉRATIF
+
+** Présent
+
+excède
+excédons
+excédez
+
+* INFINITIF
+
+** Présent
+
+excéder
+
+* PARTICIPE
+
+** Présent
+
+excédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai excédé
+tu as excédé
+il (elle) a excédé
+nous avons excédé
+vous avez excédé
+ils (elles) ont excédé
+
+** Plus-que-parfait
+
+j'avais excédé
+tu avais excédé
+il (elle) avait excédé
+nous avions excédé
+vous aviez excédé
+ils (elles) avaient excédé
+
+** Passé antérieur
+
+j'eus excédé
+tu eus excédé
+il (elle) eut excédé
+nous eûmes excédé
+vous eûtes excédé
+ils (elles) eurent excédé
+
+** Futur antérieur
+
+j'aurai excédé
+tu auras excédé
+il (elle) aura excédé
+nous aurons excédé
+vous aurez excédé
+ils (elles) auront excédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais excédé
+tu aurais excédé
+il (elle) aurait excédé
+nous aurions excédé
+vous auriez excédé
+ils (elles) auraient excédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie excédé
+que tu aies excédé
+qu’il (elle) ait excédé
+que nous ayons excédé
+que vous ayez excédé
+qu’ils (elles) aient excédé
+
+** Plus-que-parfait
+
+que j'eusse excédé
+que tu eusses excédé
+qu’il (elle) eût excédé
+que nous eussions excédé
+que vous eussiez excédé
+qu’ils (elles) eussent excédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons excédé
+ayez excédé
+
+* INFINITIF
+
+** Passé
+
+avoir excédé
+
+* PARTICIPE
+
+** Passé
+
+ayant excédé
+excédé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis excédé(e)
+tu es excédé(e)
+il (elle) est excédé(e)
+nous sommes excédé(e)s
+vous êtes excédé(e)s
+ils (elles) sont excédé(e)s
+
+** Imparfait
+
+j'étais excédé(e)
+tu étais excédé(e)
+il (elle) était excédé(e)
+nous étions excédé(e)s
+vous étiez excédé(e)s
+ils (elles) étaient excédé(e)s
+
+** Passé simple
+
+je fus excédé(e)
+tu fus excédé(e)
+il (elle) fut excédé(e)
+nous fûmes excédé(e)s
+vous fûtes excédé(e)s
+ils (elles) furent excédé(e)s
+
+** Futur simple
+
+je serai excédé(e)
+tu seras excédé(e)
+il (elle) sera excédé(e)
+nous serons excédé(e)s
+vous serez excédé(e)s
+ils (elles) seront excédé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais excédé(e)
+tu serais excédé(e)
+il (elle) serait excédé(e)
+nous serions excédé(e)s
+vous seriez excédé(e)s
+ils (elles) seraient excédé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois excédé(e)
+que tu sois excédé(e)
+qu’il (elle) soit excédé(e)
+que nous soyons excédé(e)s
+que vous soyez excédé(e)s
+qu’ils (elles) soient excédé(e)s
+
+** Imparfait
+
+que je fusse excédé(e)
+que tu fusses excédé(e)
+qu’il (elle) fût excédé(e)
+que nous fussions excédé(e)s
+que vous fussiez excédé(e)s
+qu’ils (elles) fussent excédé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons excédé(e)s
+soyez excédé(e)s
+
+* INFINITIF
+
+** Présent
+
+être excédé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant excédé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été excédé(e)
+tu as été excédé(e)
+il (elle) a été excédé(e)
+nous avons été excédé(e)s
+vous avez été excédé(e)s
+ils (elles) ont été excédé(e)s
+
+** Plus-que-parfait
+
+j'avais été excédé(e)
+il (elle) avait été excédé(e)
+nous avions été excédé(e)s
+ils (elles) avaient été excédé(e)s
+
+** Passé antérieur
+
+j'eus été excédé(e)
+tu eus été excédé(e)
+il (elle) eut été excédé(e)
+nous eûmes été excédé(e)s
+vous eûtes été excédé(e)s
+ils (elles) eurent été excédé(e)s
+
+** Futur antérieur
+
+j'aurai été excédé(e)
+tu auras été excédé(e)
+il (elle) aura été excédé(e)
+nous aurons été excédé(e)s
+vous aurez été excédé(e)s
+ils (elles) auront été excédé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été excédé(e)
+j'aurais été excédé(e)
+il (elle) aurait été excédé(e)
+nous aurions été excédé(e)s
+vous auriez été excédé(e)s
+ils (elles) auraient été excédé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été excédé(e)
+que tu aies été excédé(e)
+qu’il (elle) ait été excédé(e)
+que nous ayons été excédé(e)s
+que vous ayez été excédé(e)s
+qu’ils (elles) aient été excédé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été excédé(e)
+que tu eusses été excédé(e)
+qu’il (elle) eût été excédé(e)
+que nous eussions été excédé(e)s
+que vous eussiez été excédé(e)s
+qu’ils (elles) eussent été excédé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été excédé(e)
+ayons été excédé(e)s
+ayez été excédé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été excédé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été excédé(e)(s)

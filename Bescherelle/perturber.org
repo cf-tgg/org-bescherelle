@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe perturber
+
+* INDICATIF
+
+** Présent
+
+je perturbe
+tu perturbes
+il (elle) perturbe
+nous perturbons
+vous perturbez
+ils (elles) perturbent
+
+** Imparfait
+
+je perturbais
+tu perturbais
+il (elle) perturbait
+nous perturbions
+vous perturbiez
+ils (elles) perturbaient
+
+** Passé simple
+
+je perturbai
+tu perturbas
+il (elle) perturba
+nous perturbâmes
+vous perturbâtes
+ils (elles) perturbèrent
+
+** Futur simple
+
+je perturberai
+tu perturberas
+il (elle) perturbera
+nous perturberons
+vous perturberez
+ils (elles) perturberont
+
+* CONDITIONNEL
+
+** Présent
+
+je perturberais
+tu perturberais
+il (elle) perturberait
+nous perturberions
+vous perturberiez
+ils (elles) perturberaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je perturbe
+que tu perturbes
+qu’il (elle) perturbe
+que nous perturbions
+que vous perturbiez
+qu’ils (elles) perturbent
+
+** Imparfait
+
+que je perturbasse
+que tu perturbasses
+qu’il (elle) perturbât
+que nous perturbassions
+que vous perturbassiez
+qu’ils (elles) perturbassent
+
+* IMPÉRATIF
+
+** Présent
+
+perturbe
+perturbons
+perturbez
+
+* INFINITIF
+
+** Présent
+
+perturber
+
+* PARTICIPE
+
+** Présent
+
+perturbant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai perturbé
+tu as perturbé
+il (elle) a perturbé
+nous avons perturbé
+vous avez perturbé
+ils (elles) ont perturbé
+
+** Plus-que-parfait
+
+j'avais perturbé
+tu avais perturbé
+il (elle) avait perturbé
+nous avions perturbé
+vous aviez perturbé
+ils (elles) avaient perturbé
+
+** Passé antérieur
+
+j'eus perturbé
+tu eus perturbé
+il (elle) eut perturbé
+nous eûmes perturbé
+vous eûtes perturbé
+ils (elles) eurent perturbé
+
+** Futur antérieur
+
+j'aurai perturbé
+tu auras perturbé
+il (elle) aura perturbé
+nous aurons perturbé
+vous aurez perturbé
+ils (elles) auront perturbé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais perturbé
+tu aurais perturbé
+il (elle) aurait perturbé
+nous aurions perturbé
+vous auriez perturbé
+ils (elles) auraient perturbé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie perturbé
+que tu aies perturbé
+qu’il (elle) ait perturbé
+que nous ayons perturbé
+que vous ayez perturbé
+qu’ils (elles) aient perturbé
+
+** Plus-que-parfait
+
+que j'eusse perturbé
+que tu eusses perturbé
+qu’il (elle) eût perturbé
+que nous eussions perturbé
+que vous eussiez perturbé
+qu’ils (elles) eussent perturbé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons perturbé
+ayez perturbé
+
+* INFINITIF
+
+** Passé
+
+avoir perturbé
+
+* PARTICIPE
+
+** Passé
+
+ayant perturbé
+perturbé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis perturbé(e)
+tu es perturbé(e)
+il (elle) est perturbé(e)
+nous sommes perturbé(e)s
+vous êtes perturbé(e)s
+ils (elles) sont perturbé(e)s
+
+** Imparfait
+
+j'étais perturbé(e)
+tu étais perturbé(e)
+il (elle) était perturbé(e)
+nous étions perturbé(e)s
+vous étiez perturbé(e)s
+ils (elles) étaient perturbé(e)s
+
+** Passé simple
+
+je fus perturbé(e)
+tu fus perturbé(e)
+il (elle) fut perturbé(e)
+nous fûmes perturbé(e)s
+vous fûtes perturbé(e)s
+ils (elles) furent perturbé(e)s
+
+** Futur simple
+
+je serai perturbé(e)
+tu seras perturbé(e)
+il (elle) sera perturbé(e)
+nous serons perturbé(e)s
+vous serez perturbé(e)s
+ils (elles) seront perturbé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais perturbé(e)
+tu serais perturbé(e)
+il (elle) serait perturbé(e)
+nous serions perturbé(e)s
+vous seriez perturbé(e)s
+ils (elles) seraient perturbé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois perturbé(e)
+que tu sois perturbé(e)
+qu’il (elle) soit perturbé(e)
+que nous soyons perturbé(e)s
+que vous soyez perturbé(e)s
+qu’ils (elles) soient perturbé(e)s
+
+** Imparfait
+
+que je fusse perturbé(e)
+que tu fusses perturbé(e)
+qu’il (elle) fût perturbé(e)
+que nous fussions perturbé(e)s
+que vous fussiez perturbé(e)s
+qu’ils (elles) fussent perturbé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons perturbé(e)s
+soyez perturbé(e)s
+
+* INFINITIF
+
+** Présent
+
+être perturbé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant perturbé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été perturbé(e)
+tu as été perturbé(e)
+il (elle) a été perturbé(e)
+nous avons été perturbé(e)s
+vous avez été perturbé(e)s
+ils (elles) ont été perturbé(e)s
+
+** Plus-que-parfait
+
+j'avais été perturbé(e)
+il (elle) avait été perturbé(e)
+nous avions été perturbé(e)s
+ils (elles) avaient été perturbé(e)s
+
+** Passé antérieur
+
+j'eus été perturbé(e)
+tu eus été perturbé(e)
+il (elle) eut été perturbé(e)
+nous eûmes été perturbé(e)s
+vous eûtes été perturbé(e)s
+ils (elles) eurent été perturbé(e)s
+
+** Futur antérieur
+
+j'aurai été perturbé(e)
+tu auras été perturbé(e)
+il (elle) aura été perturbé(e)
+nous aurons été perturbé(e)s
+vous aurez été perturbé(e)s
+ils (elles) auront été perturbé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été perturbé(e)
+j'aurais été perturbé(e)
+il (elle) aurait été perturbé(e)
+nous aurions été perturbé(e)s
+vous auriez été perturbé(e)s
+ils (elles) auraient été perturbé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été perturbé(e)
+que tu aies été perturbé(e)
+qu’il (elle) ait été perturbé(e)
+que nous ayons été perturbé(e)s
+que vous ayez été perturbé(e)s
+qu’ils (elles) aient été perturbé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été perturbé(e)
+que tu eusses été perturbé(e)
+qu’il (elle) eût été perturbé(e)
+que nous eussions été perturbé(e)s
+que vous eussiez été perturbé(e)s
+qu’ils (elles) eussent été perturbé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été perturbé(e)
+ayons été perturbé(e)s
+ayez été perturbé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été perturbé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été perturbé(e)(s)

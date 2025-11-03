@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe elever
+
+* INDICATIF
+
+** Présent
+
+j'élève
+tu élèves
+il (elle) élève
+nous élevons
+vous élevez
+ils (elles) élèvent
+
+** Imparfait
+
+j'élevais
+tu élevais
+il (elle) élevait
+nous élevions
+vous éleviez
+ils (elles) élevaient
+
+** Passé simple
+
+j'élevai
+tu élevas
+il (elle) éleva
+nous élevâmes
+vous élevâtes
+ils (elles) élevèrent
+
+** Futur simple
+
+j'élèverai
+tu élèveras
+il (elle) élèvera
+nous élèverons
+vous élèverez
+ils (elles) élèveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'élèverais
+tu élèverais
+il (elle) élèverait
+nous élèverions
+vous élèveriez
+ils (elles) élèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'élève
+que tu élèves
+qu’il (elle) élève
+que nous élevions
+que vous éleviez
+qu’ils (elles) élèvent
+
+** Imparfait
+
+que j'élevasse
+que tu élevasses
+qu’il (elle) élevât
+que nous élevassions
+que vous élevassiez
+qu’ils (elles) élevassent
+
+* IMPÉRATIF
+
+** Présent
+
+élève
+élevons
+élevez
+
+* INFINITIF
+
+** Présent
+
+élever
+
+* PARTICIPE
+
+** Présent
+
+élevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai élevé
+tu as élevé
+il (elle) a élevé
+nous avons élevé
+vous avez élevé
+ils (elles) ont élevé
+
+** Plus-que-parfait
+
+j'avais élevé
+tu avais élevé
+il (elle) avait élevé
+nous avions élevé
+vous aviez élevé
+ils (elles) avaient élevé
+
+** Passé antérieur
+
+j'eus élevé
+tu eus élevé
+il (elle) eut élevé
+nous eûmes élevé
+vous eûtes élevé
+ils (elles) eurent élevé
+
+** Futur antérieur
+
+j'aurai élevé
+tu auras élevé
+il (elle) aura élevé
+nous aurons élevé
+vous aurez élevé
+ils (elles) auront élevé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais élevé
+tu aurais élevé
+il (elle) aurait élevé
+nous aurions élevé
+vous auriez élevé
+ils (elles) auraient élevé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie élevé
+que tu aies élevé
+qu’il (elle) ait élevé
+que nous ayons élevé
+que vous ayez élevé
+qu’ils (elles) aient élevé
+
+** Plus-que-parfait
+
+que j'eusse élevé
+que tu eusses élevé
+qu’il (elle) eût élevé
+que nous eussions élevé
+que vous eussiez élevé
+qu’ils (elles) eussent élevé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons élevé
+ayez élevé
+
+* INFINITIF
+
+** Passé
+
+avoir élevé
+
+* PARTICIPE
+
+** Passé
+
+ayant élevé
+élevé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis élevé(e)
+tu es élevé(e)
+il (elle) est élevé(e)
+nous sommes élevé(e)s
+vous êtes élevé(e)s
+ils (elles) sont élevé(e)s
+
+** Imparfait
+
+j'étais élevé(e)
+tu étais élevé(e)
+il (elle) était élevé(e)
+nous étions élevé(e)s
+vous étiez élevé(e)s
+ils (elles) étaient élevé(e)s
+
+** Passé simple
+
+je fus élevé(e)
+tu fus élevé(e)
+il (elle) fut élevé(e)
+nous fûmes élevé(e)s
+vous fûtes élevé(e)s
+ils (elles) furent élevé(e)s
+
+** Futur simple
+
+je serai élevé(e)
+tu seras élevé(e)
+il (elle) sera élevé(e)
+nous serons élevé(e)s
+vous serez élevé(e)s
+ils (elles) seront élevé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais élevé(e)
+tu serais élevé(e)
+il (elle) serait élevé(e)
+nous serions élevé(e)s
+vous seriez élevé(e)s
+ils (elles) seraient élevé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois élevé(e)
+que tu sois élevé(e)
+qu’il (elle) soit élevé(e)
+que nous soyons élevé(e)s
+que vous soyez élevé(e)s
+qu’ils (elles) soient élevé(e)s
+
+** Imparfait
+
+que je fusse élevé(e)
+que tu fusses élevé(e)
+qu’il (elle) fût élevé(e)
+que nous fussions élevé(e)s
+que vous fussiez élevé(e)s
+qu’ils (elles) fussent élevé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons élevé(e)s
+soyez élevé(e)s
+
+* INFINITIF
+
+** Présent
+
+être élevé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant élevé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été élevé(e)
+tu as été élevé(e)
+il (elle) a été élevé(e)
+nous avons été élevé(e)s
+vous avez été élevé(e)s
+ils (elles) ont été élevé(e)s
+
+** Plus-que-parfait
+
+j'avais été élevé(e)
+il (elle) avait été élevé(e)
+nous avions été élevé(e)s
+ils (elles) avaient été élevé(e)s
+
+** Passé antérieur
+
+j'eus été élevé(e)
+tu eus été élevé(e)
+il (elle) eut été élevé(e)
+nous eûmes été élevé(e)s
+vous eûtes été élevé(e)s
+ils (elles) eurent été élevé(e)s
+
+** Futur antérieur
+
+j'aurai été élevé(e)
+tu auras été élevé(e)
+il (elle) aura été élevé(e)
+nous aurons été élevé(e)s
+vous aurez été élevé(e)s
+ils (elles) auront été élevé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été élevé(e)
+j'aurais été élevé(e)
+il (elle) aurait été élevé(e)
+nous aurions été élevé(e)s
+vous auriez été élevé(e)s
+ils (elles) auraient été élevé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été élevé(e)
+que tu aies été élevé(e)
+qu’il (elle) ait été élevé(e)
+que nous ayons été élevé(e)s
+que vous ayez été élevé(e)s
+qu’ils (elles) aient été élevé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été élevé(e)
+que tu eusses été élevé(e)
+qu’il (elle) eût été élevé(e)
+que nous eussions été élevé(e)s
+que vous eussiez été élevé(e)s
+qu’ils (elles) eussent été élevé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été élevé(e)
+ayons été élevé(e)s
+ayez été élevé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été élevé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été élevé(e)(s)

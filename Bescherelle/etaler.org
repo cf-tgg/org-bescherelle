@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etaler
+
+* INDICATIF
+
+** Présent
+
+j'étale
+tu étales
+il (elle) étale
+nous étalons
+vous étalez
+ils (elles) étalent
+
+** Imparfait
+
+j'étalais
+tu étalais
+il (elle) étalait
+nous étalions
+vous étaliez
+ils (elles) étalaient
+
+** Passé simple
+
+j'étalai
+tu étalas
+il (elle) étala
+nous étalâmes
+vous étalâtes
+ils (elles) étalèrent
+
+** Futur simple
+
+j'étalerai
+tu étaleras
+il (elle) étalera
+nous étalerons
+vous étalerez
+ils (elles) étaleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étalerais
+tu étalerais
+il (elle) étalerait
+nous étalerions
+vous étaleriez
+ils (elles) étaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étale
+que tu étales
+qu’il (elle) étale
+que nous étalions
+que vous étaliez
+qu’ils (elles) étalent
+
+** Imparfait
+
+que j'étalasse
+que tu étalasses
+qu’il (elle) étalât
+que nous étalassions
+que vous étalassiez
+qu’ils (elles) étalassent
+
+* IMPÉRATIF
+
+** Présent
+
+étale
+étalons
+étalez
+
+* INFINITIF
+
+** Présent
+
+étaler
+
+* PARTICIPE
+
+** Présent
+
+étalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étalé
+tu as étalé
+il (elle) a étalé
+nous avons étalé
+vous avez étalé
+ils (elles) ont étalé
+
+** Plus-que-parfait
+
+j'avais étalé
+tu avais étalé
+il (elle) avait étalé
+nous avions étalé
+vous aviez étalé
+ils (elles) avaient étalé
+
+** Passé antérieur
+
+j'eus étalé
+tu eus étalé
+il (elle) eut étalé
+nous eûmes étalé
+vous eûtes étalé
+ils (elles) eurent étalé
+
+** Futur antérieur
+
+j'aurai étalé
+tu auras étalé
+il (elle) aura étalé
+nous aurons étalé
+vous aurez étalé
+ils (elles) auront étalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étalé
+tu aurais étalé
+il (elle) aurait étalé
+nous aurions étalé
+vous auriez étalé
+ils (elles) auraient étalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étalé
+que tu aies étalé
+qu’il (elle) ait étalé
+que nous ayons étalé
+que vous ayez étalé
+qu’ils (elles) aient étalé
+
+** Plus-que-parfait
+
+que j'eusse étalé
+que tu eusses étalé
+qu’il (elle) eût étalé
+que nous eussions étalé
+que vous eussiez étalé
+qu’ils (elles) eussent étalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étalé
+ayez étalé
+
+* INFINITIF
+
+** Passé
+
+avoir étalé
+
+* PARTICIPE
+
+** Passé
+
+ayant étalé
+étalé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis étalé(e)
+tu es étalé(e)
+il (elle) est étalé(e)
+nous sommes étalé(e)s
+vous êtes étalé(e)s
+ils (elles) sont étalé(e)s
+
+** Imparfait
+
+j'étais étalé(e)
+tu étais étalé(e)
+il (elle) était étalé(e)
+nous étions étalé(e)s
+vous étiez étalé(e)s
+ils (elles) étaient étalé(e)s
+
+** Passé simple
+
+je fus étalé(e)
+tu fus étalé(e)
+il (elle) fut étalé(e)
+nous fûmes étalé(e)s
+vous fûtes étalé(e)s
+ils (elles) furent étalé(e)s
+
+** Futur simple
+
+je serai étalé(e)
+tu seras étalé(e)
+il (elle) sera étalé(e)
+nous serons étalé(e)s
+vous serez étalé(e)s
+ils (elles) seront étalé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais étalé(e)
+tu serais étalé(e)
+il (elle) serait étalé(e)
+nous serions étalé(e)s
+vous seriez étalé(e)s
+ils (elles) seraient étalé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois étalé(e)
+que tu sois étalé(e)
+qu’il (elle) soit étalé(e)
+que nous soyons étalé(e)s
+que vous soyez étalé(e)s
+qu’ils (elles) soient étalé(e)s
+
+** Imparfait
+
+que je fusse étalé(e)
+que tu fusses étalé(e)
+qu’il (elle) fût étalé(e)
+que nous fussions étalé(e)s
+que vous fussiez étalé(e)s
+qu’ils (elles) fussent étalé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons étalé(e)s
+soyez étalé(e)s
+
+* INFINITIF
+
+** Présent
+
+être étalé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant étalé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été étalé(e)
+tu as été étalé(e)
+il (elle) a été étalé(e)
+nous avons été étalé(e)s
+vous avez été étalé(e)s
+ils (elles) ont été étalé(e)s
+
+** Plus-que-parfait
+
+j'avais été étalé(e)
+il (elle) avait été étalé(e)
+nous avions été étalé(e)s
+ils (elles) avaient été étalé(e)s
+
+** Passé antérieur
+
+j'eus été étalé(e)
+tu eus été étalé(e)
+il (elle) eut été étalé(e)
+nous eûmes été étalé(e)s
+vous eûtes été étalé(e)s
+ils (elles) eurent été étalé(e)s
+
+** Futur antérieur
+
+j'aurai été étalé(e)
+tu auras été étalé(e)
+il (elle) aura été étalé(e)
+nous aurons été étalé(e)s
+vous aurez été étalé(e)s
+ils (elles) auront été étalé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été étalé(e)
+j'aurais été étalé(e)
+il (elle) aurait été étalé(e)
+nous aurions été étalé(e)s
+vous auriez été étalé(e)s
+ils (elles) auraient été étalé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été étalé(e)
+que tu aies été étalé(e)
+qu’il (elle) ait été étalé(e)
+que nous ayons été étalé(e)s
+que vous ayez été étalé(e)s
+qu’ils (elles) aient été étalé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été étalé(e)
+que tu eusses été étalé(e)
+qu’il (elle) eût été étalé(e)
+que nous eussions été étalé(e)s
+que vous eussiez été étalé(e)s
+qu’ils (elles) eussent été étalé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été étalé(e)
+ayons été étalé(e)s
+ayez été étalé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été étalé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été étalé(e)(s)

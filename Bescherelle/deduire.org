@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deduire
+
+* INDICATIF
+
+** Présent
+
+je déduis
+tu déduis
+il (elle) déduit
+nous déduisons
+vous déduisez
+ils (elles) déduisent
+
+** Imparfait
+
+je déduisais
+tu déduisais
+il (elle) déduisait
+nous déduisions
+vous déduisiez
+ils (elles) déduisaient
+
+** Passé simple
+
+je déduisis
+tu déduisis
+il (elle) déduisit
+nous déduisîmes
+vous déduisîtes
+ils (elles) déduisirent
+
+** Futur simple
+
+je déduirai
+tu déduiras
+il (elle) déduira
+nous déduirons
+vous déduirez
+ils (elles) déduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je déduirais
+tu déduirais
+il (elle) déduirait
+nous déduirions
+vous déduiriez
+ils (elles) déduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déduise
+que tu déduises
+qu’il (elle) déduise
+que nous déduisions
+que vous déduisiez
+qu’ils (elles) déduisent
+
+** Imparfait
+
+que je déduisisse
+que tu déduisisses
+qu’il (elle) déduisît
+que nous déduisissions
+que vous déduisissiez
+qu’ils (elles) déduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+déduis
+déduisons
+déduisez
+
+* INFINITIF
+
+** Présent
+
+déduire
+
+* PARTICIPE
+
+** Présent
+
+déduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déduit
+tu as déduit
+il (elle) a déduit
+nous avons déduit
+vous avez déduit
+ils (elles) ont déduit
+
+** Plus-que-parfait
+
+j'avais déduit
+tu avais déduit
+il (elle) avait déduit
+nous avions déduit
+vous aviez déduit
+ils (elles) avaient déduit
+
+** Passé antérieur
+
+j'eus déduit
+tu eus déduit
+il (elle) eut déduit
+nous eûmes déduit
+vous eûtes déduit
+ils (elles) eurent déduit
+
+** Futur antérieur
+
+j'aurai déduit
+tu auras déduit
+il (elle) aura déduit
+nous aurons déduit
+vous aurez déduit
+ils (elles) auront déduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déduit
+tu aurais déduit
+il (elle) aurait déduit
+nous aurions déduit
+vous auriez déduit
+ils (elles) auraient déduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déduit
+que tu aies déduit
+qu’il (elle) ait déduit
+que nous ayons déduit
+que vous ayez déduit
+qu’ils (elles) aient déduit
+
+** Plus-que-parfait
+
+que j'eusse déduit
+que tu eusses déduit
+qu’il (elle) eût déduit
+que nous eussions déduit
+que vous eussiez déduit
+qu’ils (elles) eussent déduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déduit
+ayez déduit
+
+* INFINITIF
+
+** Passé
+
+avoir déduit
+
+* PARTICIPE
+
+** Passé
+
+ayant déduit
+déduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis déduit(e)
+tu es déduit(e)
+il (elle) est déduit(e)
+nous sommes déduit(e)s
+vous êtes déduit(e)s
+ils (elles) sont déduit(e)s
+
+** Imparfait
+
+j'étais déduit(e)
+tu étais déduit(e)
+il (elle) était déduit(e)
+nous étions déduit(e)s
+vous étiez déduit(e)s
+ils (elles) étaient déduit(e)s
+
+** Passé simple
+
+je fus déduit(e)
+tu fus déduit(e)
+il (elle) fut déduit(e)
+nous fûmes déduit(e)s
+vous fûtes déduit(e)s
+ils (elles) furent déduit(e)s
+
+** Futur simple
+
+je serai déduit(e)
+tu seras déduit(e)
+il (elle) sera déduit(e)
+nous serons déduit(e)s
+vous serez déduit(e)s
+ils (elles) seront déduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais déduit(e)
+tu serais déduit(e)
+il (elle) serait déduit(e)
+nous serions déduit(e)s
+vous seriez déduit(e)s
+ils (elles) seraient déduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois déduit(e)
+que tu sois déduit(e)
+qu’il (elle) soit déduit(e)
+que nous soyons déduit(e)s
+que vous soyez déduit(e)s
+qu’ils (elles) soient déduit(e)s
+
+** Imparfait
+
+que je fusse déduit(e)
+que tu fusses déduit(e)
+qu’il (elle) fût déduit(e)
+que nous fussions déduit(e)s
+que vous fussiez déduit(e)s
+qu’ils (elles) fussent déduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons déduit(e)s
+soyez déduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être déduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant déduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été déduit(e)
+tu as été déduit(e)
+il (elle) a été déduit(e)
+nous avons été déduit(e)s
+vous avez été déduit(e)s
+ils (elles) ont été déduit(e)s
+
+** Plus-que-parfait
+
+j'avais été déduit(e)
+il (elle) avait été déduit(e)
+nous avions été déduit(e)s
+ils (elles) avaient été déduit(e)s
+
+** Passé antérieur
+
+j'eus été déduit(e)
+tu eus été déduit(e)
+il (elle) eut été déduit(e)
+nous eûmes été déduit(e)s
+vous eûtes été déduit(e)s
+ils (elles) eurent été déduit(e)s
+
+** Futur antérieur
+
+j'aurai été déduit(e)
+tu auras été déduit(e)
+il (elle) aura été déduit(e)
+nous aurons été déduit(e)s
+vous aurez été déduit(e)s
+ils (elles) auront été déduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été déduit(e)
+j'aurais été déduit(e)
+il (elle) aurait été déduit(e)
+nous aurions été déduit(e)s
+vous auriez été déduit(e)s
+ils (elles) auraient été déduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été déduit(e)
+que tu aies été déduit(e)
+qu’il (elle) ait été déduit(e)
+que nous ayons été déduit(e)s
+que vous ayez été déduit(e)s
+qu’ils (elles) aient été déduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été déduit(e)
+que tu eusses été déduit(e)
+qu’il (elle) eût été déduit(e)
+que nous eussions été déduit(e)s
+que vous eussiez été déduit(e)s
+qu’ils (elles) eussent été déduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été déduit(e)
+ayons été déduit(e)s
+ayez été déduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été déduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été déduit(e)(s)

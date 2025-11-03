@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe interferer
+
+* INDICATIF
+
+** Présent
+
+j'interfère
+tu interfères
+il (elle) interfère
+nous interférons
+vous interférez
+ils (elles) interfèrent
+
+** Imparfait
+
+j'interférais
+tu interférais
+il (elle) interférait
+nous interférions
+vous interfériez
+ils (elles) interféraient
+
+** Passé simple
+
+j'interférai
+tu interféras
+il (elle) interféra
+nous interférâmes
+vous interférâtes
+ils (elles) interférèrent
+
+** Futur simple
+
+j'interférerai
+tu interféreras
+il (elle) interférera
+nous interférerons
+vous interférerez
+ils (elles) interféreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interférerais
+tu interférerais
+il (elle) interférerait
+nous interférerions
+vous interféreriez
+ils (elles) interféreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interfère
+que tu interfères
+qu’il (elle) interfère
+que nous interférions
+que vous interfériez
+qu’ils (elles) interfèrent
+
+** Imparfait
+
+que j'interférasse
+que tu interférasses
+qu’il (elle) interférât
+que nous interférassions
+que vous interférassiez
+qu’ils (elles) interférassent
+
+* IMPÉRATIF
+
+** Présent
+
+interfère
+interférons
+interférez
+
+* INFINITIF
+
+** Présent
+
+interférer
+
+* PARTICIPE
+
+** Présent
+
+interférant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interféré
+tu as interféré
+il (elle) a interféré
+nous avons interféré
+vous avez interféré
+ils (elles) ont interféré
+
+** Plus-que-parfait
+
+j'avais interféré
+tu avais interféré
+il (elle) avait interféré
+nous avions interféré
+vous aviez interféré
+ils (elles) avaient interféré
+
+** Passé antérieur
+
+j'eus interféré
+tu eus interféré
+il (elle) eut interféré
+nous eûmes interféré
+vous eûtes interféré
+ils (elles) eurent interféré
+
+** Futur antérieur
+
+j'aurai interféré
+tu auras interféré
+il (elle) aura interféré
+nous aurons interféré
+vous aurez interféré
+ils (elles) auront interféré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interféré
+tu aurais interféré
+il (elle) aurait interféré
+nous aurions interféré
+vous auriez interféré
+ils (elles) auraient interféré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interféré
+que tu aies interféré
+qu’il (elle) ait interféré
+que nous ayons interféré
+que vous ayez interféré
+qu’ils (elles) aient interféré
+
+** Plus-que-parfait
+
+que j'eusse interféré
+que tu eusses interféré
+qu’il (elle) eût interféré
+que nous eussions interféré
+que vous eussiez interféré
+qu’ils (elles) eussent interféré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interféré
+ayez interféré
+
+* INFINITIF
+
+** Passé
+
+avoir interféré
+
+* PARTICIPE
+
+** Passé
+
+ayant interféré
+interféré (invar.)

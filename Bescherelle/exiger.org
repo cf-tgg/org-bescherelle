@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exiger
+
+* INDICATIF
+
+** Présent
+
+j'exige
+tu exiges
+il (elle) exige
+nous exigeons
+vous exigez
+ils (elles) exigent
+
+** Imparfait
+
+j'exigeais
+tu exigeais
+il (elle) exigeait
+nous exigions
+vous exigiez
+ils (elles) exigeaient
+
+** Passé simple
+
+j'exigeai
+tu exigeas
+il (elle) exigea
+nous exigeâmes
+vous exigeâtes
+ils (elles) exigèrent
+
+** Futur simple
+
+j'exigerai
+tu exigeras
+il (elle) exigera
+nous exigerons
+vous exigerez
+ils (elles) exigeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exigerais
+tu exigerais
+il (elle) exigerait
+nous exigerions
+vous exigeriez
+ils (elles) exigeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'exige
+que tu exiges
+qu’il (elle) exige
+que nous exigions
+que vous exigiez
+qu’ils (elles) exigent
+
+** Imparfait
+
+que j'exigeasse
+que tu exigeasses
+qu’il (elle) exigeât
+que nous exigeassions
+que vous exigeassiez
+qu’ils (elles) exigeassent
+
+* IMPÉRATIF
+
+** Présent
+
+exige
+exigeons
+exigez
+
+* INFINITIF
+
+** Présent
+
+exiger
+
+* PARTICIPE
+
+** Présent
+
+exigeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exigé
+tu as exigé
+il (elle) a exigé
+nous avons exigé
+vous avez exigé
+ils (elles) ont exigé
+
+** Plus-que-parfait
+
+j'avais exigé
+tu avais exigé
+il (elle) avait exigé
+nous avions exigé
+vous aviez exigé
+ils (elles) avaient exigé
+
+** Passé antérieur
+
+j'eus exigé
+tu eus exigé
+il (elle) eut exigé
+nous eûmes exigé
+vous eûtes exigé
+ils (elles) eurent exigé
+
+** Futur antérieur
+
+j'aurai exigé
+tu auras exigé
+il (elle) aura exigé
+nous aurons exigé
+vous aurez exigé
+ils (elles) auront exigé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exigé
+tu aurais exigé
+il (elle) aurait exigé
+nous aurions exigé
+vous auriez exigé
+ils (elles) auraient exigé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exigé
+que tu aies exigé
+qu’il (elle) ait exigé
+que nous ayons exigé
+que vous ayez exigé
+qu’ils (elles) aient exigé
+
+** Plus-que-parfait
+
+que j'eusse exigé
+que tu eusses exigé
+qu’il (elle) eût exigé
+que nous eussions exigé
+que vous eussiez exigé
+qu’ils (elles) eussent exigé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exigé
+ayez exigé
+
+* INFINITIF
+
+** Passé
+
+avoir exigé
+
+* PARTICIPE
+
+** Passé
+
+ayant exigé
+exigé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis exigé(e)
+tu es exigé(e)
+il (elle) est exigé(e)
+nous sommes exigé(e)s
+vous êtes exigé(e)s
+ils (elles) sont exigé(e)s
+
+** Imparfait
+
+j'étais exigé(e)
+tu étais exigé(e)
+il (elle) était exigé(e)
+nous étions exigé(e)s
+vous étiez exigé(e)s
+ils (elles) étaient exigé(e)s
+
+** Passé simple
+
+je fus exigé(e)
+tu fus exigé(e)
+il (elle) fut exigé(e)
+nous fûmes exigé(e)s
+vous fûtes exigé(e)s
+ils (elles) furent exigé(e)s
+
+** Futur simple
+
+je serai exigé(e)
+tu seras exigé(e)
+il (elle) sera exigé(e)
+nous serons exigé(e)s
+vous serez exigé(e)s
+ils (elles) seront exigé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exigé(e)
+tu serais exigé(e)
+il (elle) serait exigé(e)
+nous serions exigé(e)s
+vous seriez exigé(e)s
+ils (elles) seraient exigé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exigé(e)
+que tu sois exigé(e)
+qu’il (elle) soit exigé(e)
+que nous soyons exigé(e)s
+que vous soyez exigé(e)s
+qu’ils (elles) soient exigé(e)s
+
+** Imparfait
+
+que je fusse exigé(e)
+que tu fusses exigé(e)
+qu’il (elle) fût exigé(e)
+que nous fussions exigé(e)s
+que vous fussiez exigé(e)s
+qu’ils (elles) fussent exigé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exigé(e)s
+soyez exigé(e)s
+
+* INFINITIF
+
+** Présent
+
+être exigé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exigé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exigé(e)
+tu as été exigé(e)
+il (elle) a été exigé(e)
+nous avons été exigé(e)s
+vous avez été exigé(e)s
+ils (elles) ont été exigé(e)s
+
+** Plus-que-parfait
+
+j'avais été exigé(e)
+il (elle) avait été exigé(e)
+nous avions été exigé(e)s
+ils (elles) avaient été exigé(e)s
+
+** Passé antérieur
+
+j'eus été exigé(e)
+tu eus été exigé(e)
+il (elle) eut été exigé(e)
+nous eûmes été exigé(e)s
+vous eûtes été exigé(e)s
+ils (elles) eurent été exigé(e)s
+
+** Futur antérieur
+
+j'aurai été exigé(e)
+tu auras été exigé(e)
+il (elle) aura été exigé(e)
+nous aurons été exigé(e)s
+vous aurez été exigé(e)s
+ils (elles) auront été exigé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exigé(e)
+j'aurais été exigé(e)
+il (elle) aurait été exigé(e)
+nous aurions été exigé(e)s
+vous auriez été exigé(e)s
+ils (elles) auraient été exigé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exigé(e)
+que tu aies été exigé(e)
+qu’il (elle) ait été exigé(e)
+que nous ayons été exigé(e)s
+que vous ayez été exigé(e)s
+qu’ils (elles) aient été exigé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exigé(e)
+que tu eusses été exigé(e)
+qu’il (elle) eût été exigé(e)
+que nous eussions été exigé(e)s
+que vous eussiez été exigé(e)s
+qu’ils (elles) eussent été exigé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exigé(e)
+ayons été exigé(e)s
+ayez été exigé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exigé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exigé(e)(s)

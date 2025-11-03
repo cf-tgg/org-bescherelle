@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assouplir
+
+* INDICATIF
+
+** Présent
+
+j'assouplis
+tu assouplis
+il (elle) assouplit
+nous assouplissons
+vous assouplissez
+ils (elles) assouplissent
+
+** Imparfait
+
+j'assouplissais
+tu assouplissais
+il (elle) assouplissait
+nous assouplissions
+vous assouplissiez
+ils (elles) assouplissaient
+
+** Passé simple
+
+j'assouplis
+tu assouplis
+il (elle) assouplit
+nous assouplîmes
+vous assouplîtes
+ils (elles) assouplirent
+
+** Futur simple
+
+j'assouplirai
+tu assoupliras
+il (elle) assouplira
+nous assouplirons
+vous assouplirez
+ils (elles) assoupliront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assouplirais
+tu assouplirais
+il (elle) assouplirait
+nous assouplirions
+vous assoupliriez
+ils (elles) assoupliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assouplisse
+que tu assouplisses
+qu’il (elle) assouplisse
+que nous assouplissions
+que vous assouplissiez
+qu’ils (elles) assouplissent
+
+** Imparfait
+
+que j'assouplisse
+que tu assouplisses
+qu’il (elle) assouplît
+que nous assouplissions
+que vous assouplissiez
+qu’ils (elles) assouplissent
+
+* IMPÉRATIF
+
+** Présent
+
+assouplis
+assouplissons
+assouplissez
+
+* INFINITIF
+
+** Présent
+
+assouplir
+
+* PARTICIPE
+
+** Présent
+
+assouplissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assoupli
+tu as assoupli
+il (elle) a assoupli
+nous avons assoupli
+vous avez assoupli
+ils (elles) ont assoupli
+
+** Plus-que-parfait
+
+j'avais assoupli
+tu avais assoupli
+il (elle) avait assoupli
+nous avions assoupli
+vous aviez assoupli
+ils (elles) avaient assoupli
+
+** Passé antérieur
+
+j'eus assoupli
+tu eus assoupli
+il (elle) eut assoupli
+nous eûmes assoupli
+vous eûtes assoupli
+ils (elles) eurent assoupli
+
+** Futur antérieur
+
+j'aurai assoupli
+tu auras assoupli
+il (elle) aura assoupli
+nous aurons assoupli
+vous aurez assoupli
+ils (elles) auront assoupli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assoupli
+tu aurais assoupli
+il (elle) aurait assoupli
+nous aurions assoupli
+vous auriez assoupli
+ils (elles) auraient assoupli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assoupli
+que tu aies assoupli
+qu’il (elle) ait assoupli
+que nous ayons assoupli
+que vous ayez assoupli
+qu’ils (elles) aient assoupli
+
+** Plus-que-parfait
+
+que j'eusse assoupli
+que tu eusses assoupli
+qu’il (elle) eût assoupli
+que nous eussions assoupli
+que vous eussiez assoupli
+qu’ils (elles) eussent assoupli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assoupli
+ayez assoupli
+
+* INFINITIF
+
+** Passé
+
+avoir assoupli
+
+* PARTICIPE
+
+** Passé
+
+ayant assoupli
+assoupli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis assoupli(e)
+tu es assoupli(e)
+il (elle) est assoupli(e)
+nous sommes assoupli(e)s
+vous êtes assoupli(e)s
+ils (elles) sont assoupli(e)s
+
+** Imparfait
+
+j'étais assoupli(e)
+tu étais assoupli(e)
+il (elle) était assoupli(e)
+nous étions assoupli(e)s
+vous étiez assoupli(e)s
+ils (elles) étaient assoupli(e)s
+
+** Passé simple
+
+je fus assoupli(e)
+tu fus assoupli(e)
+il (elle) fut assoupli(e)
+nous fûmes assoupli(e)s
+vous fûtes assoupli(e)s
+ils (elles) furent assoupli(e)s
+
+** Futur simple
+
+je serai assoupli(e)
+tu seras assoupli(e)
+il (elle) sera assoupli(e)
+nous serons assoupli(e)s
+vous serez assoupli(e)s
+ils (elles) seront assoupli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assoupli(e)
+tu serais assoupli(e)
+il (elle) serait assoupli(e)
+nous serions assoupli(e)s
+vous seriez assoupli(e)s
+ils (elles) seraient assoupli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assoupli(e)
+que tu sois assoupli(e)
+qu’il (elle) soit assoupli(e)
+que nous soyons assoupli(e)s
+que vous soyez assoupli(e)s
+qu’ils (elles) soient assoupli(e)s
+
+** Imparfait
+
+que je fusse assoupli(e)
+que tu fusses assoupli(e)
+qu’il (elle) fût assoupli(e)
+que nous fussions assoupli(e)s
+que vous fussiez assoupli(e)s
+qu’ils (elles) fussent assoupli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assoupli(e)s
+soyez assoupli(e)s
+
+* INFINITIF
+
+** Présent
+
+être assoupli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assoupli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assoupli(e)
+tu as été assoupli(e)
+il (elle) a été assoupli(e)
+nous avons été assoupli(e)s
+vous avez été assoupli(e)s
+ils (elles) ont été assoupli(e)s
+
+** Plus-que-parfait
+
+j'avais été assoupli(e)
+il (elle) avait été assoupli(e)
+nous avions été assoupli(e)s
+ils (elles) avaient été assoupli(e)s
+
+** Passé antérieur
+
+j'eus été assoupli(e)
+tu eus été assoupli(e)
+il (elle) eut été assoupli(e)
+nous eûmes été assoupli(e)s
+vous eûtes été assoupli(e)s
+ils (elles) eurent été assoupli(e)s
+
+** Futur antérieur
+
+j'aurai été assoupli(e)
+tu auras été assoupli(e)
+il (elle) aura été assoupli(e)
+nous aurons été assoupli(e)s
+vous aurez été assoupli(e)s
+ils (elles) auront été assoupli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assoupli(e)
+j'aurais été assoupli(e)
+il (elle) aurait été assoupli(e)
+nous aurions été assoupli(e)s
+vous auriez été assoupli(e)s
+ils (elles) auraient été assoupli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assoupli(e)
+que tu aies été assoupli(e)
+qu’il (elle) ait été assoupli(e)
+que nous ayons été assoupli(e)s
+que vous ayez été assoupli(e)s
+qu’ils (elles) aient été assoupli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assoupli(e)
+que tu eusses été assoupli(e)
+qu’il (elle) eût été assoupli(e)
+que nous eussions été assoupli(e)s
+que vous eussiez été assoupli(e)s
+qu’ils (elles) eussent été assoupli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assoupli(e)
+ayons été assoupli(e)s
+ayez été assoupli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assoupli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assoupli(e)(s)

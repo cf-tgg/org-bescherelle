@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe meriter
+
+* INDICATIF
+
+** Présent
+
+je mérite
+tu mérites
+il (elle) mérite
+nous méritons
+vous méritez
+ils (elles) méritent
+
+** Imparfait
+
+je méritais
+tu méritais
+il (elle) méritait
+nous méritions
+vous méritiez
+ils (elles) méritaient
+
+** Passé simple
+
+je méritai
+tu méritas
+il (elle) mérita
+nous méritâmes
+vous méritâtes
+ils (elles) méritèrent
+
+** Futur simple
+
+je mériterai
+tu mériteras
+il (elle) méritera
+nous mériterons
+vous mériterez
+ils (elles) mériteront
+
+* CONDITIONNEL
+
+** Présent
+
+je mériterais
+tu mériterais
+il (elle) mériterait
+nous mériterions
+vous mériteriez
+ils (elles) mériteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mérite
+que tu mérites
+qu’il (elle) mérite
+que nous méritions
+que vous méritiez
+qu’ils (elles) méritent
+
+** Imparfait
+
+que je méritasse
+que tu méritasses
+qu’il (elle) méritât
+que nous méritassions
+que vous méritassiez
+qu’ils (elles) méritassent
+
+* IMPÉRATIF
+
+** Présent
+
+mérite
+méritons
+méritez
+
+* INFINITIF
+
+** Présent
+
+mériter
+
+* PARTICIPE
+
+** Présent
+
+méritant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mérité
+tu as mérité
+il (elle) a mérité
+nous avons mérité
+vous avez mérité
+ils (elles) ont mérité
+
+** Plus-que-parfait
+
+j'avais mérité
+tu avais mérité
+il (elle) avait mérité
+nous avions mérité
+vous aviez mérité
+ils (elles) avaient mérité
+
+** Passé antérieur
+
+j'eus mérité
+tu eus mérité
+il (elle) eut mérité
+nous eûmes mérité
+vous eûtes mérité
+ils (elles) eurent mérité
+
+** Futur antérieur
+
+j'aurai mérité
+tu auras mérité
+il (elle) aura mérité
+nous aurons mérité
+vous aurez mérité
+ils (elles) auront mérité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mérité
+tu aurais mérité
+il (elle) aurait mérité
+nous aurions mérité
+vous auriez mérité
+ils (elles) auraient mérité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mérité
+que tu aies mérité
+qu’il (elle) ait mérité
+que nous ayons mérité
+que vous ayez mérité
+qu’ils (elles) aient mérité
+
+** Plus-que-parfait
+
+que j'eusse mérité
+que tu eusses mérité
+qu’il (elle) eût mérité
+que nous eussions mérité
+que vous eussiez mérité
+qu’ils (elles) eussent mérité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mérité
+ayez mérité
+
+* INFINITIF
+
+** Passé
+
+avoir mérité
+
+* PARTICIPE
+
+** Passé
+
+ayant mérité
+mérité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mérité(e)
+tu es mérité(e)
+il (elle) est mérité(e)
+nous sommes mérité(e)s
+vous êtes mérité(e)s
+ils (elles) sont mérité(e)s
+
+** Imparfait
+
+j'étais mérité(e)
+tu étais mérité(e)
+il (elle) était mérité(e)
+nous étions mérité(e)s
+vous étiez mérité(e)s
+ils (elles) étaient mérité(e)s
+
+** Passé simple
+
+je fus mérité(e)
+tu fus mérité(e)
+il (elle) fut mérité(e)
+nous fûmes mérité(e)s
+vous fûtes mérité(e)s
+ils (elles) furent mérité(e)s
+
+** Futur simple
+
+je serai mérité(e)
+tu seras mérité(e)
+il (elle) sera mérité(e)
+nous serons mérité(e)s
+vous serez mérité(e)s
+ils (elles) seront mérité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mérité(e)
+tu serais mérité(e)
+il (elle) serait mérité(e)
+nous serions mérité(e)s
+vous seriez mérité(e)s
+ils (elles) seraient mérité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mérité(e)
+que tu sois mérité(e)
+qu’il (elle) soit mérité(e)
+que nous soyons mérité(e)s
+que vous soyez mérité(e)s
+qu’ils (elles) soient mérité(e)s
+
+** Imparfait
+
+que je fusse mérité(e)
+que tu fusses mérité(e)
+qu’il (elle) fût mérité(e)
+que nous fussions mérité(e)s
+que vous fussiez mérité(e)s
+qu’ils (elles) fussent mérité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mérité(e)s
+soyez mérité(e)s
+
+* INFINITIF
+
+** Présent
+
+être mérité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mérité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mérité(e)
+tu as été mérité(e)
+il (elle) a été mérité(e)
+nous avons été mérité(e)s
+vous avez été mérité(e)s
+ils (elles) ont été mérité(e)s
+
+** Plus-que-parfait
+
+j'avais été mérité(e)
+il (elle) avait été mérité(e)
+nous avions été mérité(e)s
+ils (elles) avaient été mérité(e)s
+
+** Passé antérieur
+
+j'eus été mérité(e)
+tu eus été mérité(e)
+il (elle) eut été mérité(e)
+nous eûmes été mérité(e)s
+vous eûtes été mérité(e)s
+ils (elles) eurent été mérité(e)s
+
+** Futur antérieur
+
+j'aurai été mérité(e)
+tu auras été mérité(e)
+il (elle) aura été mérité(e)
+nous aurons été mérité(e)s
+vous aurez été mérité(e)s
+ils (elles) auront été mérité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mérité(e)
+j'aurais été mérité(e)
+il (elle) aurait été mérité(e)
+nous aurions été mérité(e)s
+vous auriez été mérité(e)s
+ils (elles) auraient été mérité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mérité(e)
+que tu aies été mérité(e)
+qu’il (elle) ait été mérité(e)
+que nous ayons été mérité(e)s
+que vous ayez été mérité(e)s
+qu’ils (elles) aient été mérité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mérité(e)
+que tu eusses été mérité(e)
+qu’il (elle) eût été mérité(e)
+que nous eussions été mérité(e)s
+que vous eussiez été mérité(e)s
+qu’ils (elles) eussent été mérité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mérité(e)
+ayons été mérité(e)s
+ayez été mérité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mérité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mérité(e)(s)

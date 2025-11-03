@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe jaunir
+
+* INDICATIF
+
+** Présent
+
+je jaunis
+tu jaunis
+il (elle) jaunit
+nous jaunissons
+vous jaunissez
+ils (elles) jaunissent
+
+** Imparfait
+
+je jaunissais
+tu jaunissais
+il (elle) jaunissait
+nous jaunissions
+vous jaunissiez
+ils (elles) jaunissaient
+
+** Passé simple
+
+je jaunis
+tu jaunis
+il (elle) jaunit
+nous jaunîmes
+vous jaunîtes
+ils (elles) jaunirent
+
+** Futur simple
+
+je jaunirai
+tu jauniras
+il (elle) jaunira
+nous jaunirons
+vous jaunirez
+ils (elles) jauniront
+
+* CONDITIONNEL
+
+** Présent
+
+je jaunirais
+tu jaunirais
+il (elle) jaunirait
+nous jaunirions
+vous jauniriez
+ils (elles) jauniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jaunisse
+que tu jaunisses
+qu’il (elle) jaunisse
+que nous jaunissions
+que vous jaunissiez
+qu’ils (elles) jaunissent
+
+** Imparfait
+
+que je jaunisse
+que tu jaunisses
+qu’il (elle) jaunît
+que nous jaunissions
+que vous jaunissiez
+qu’ils (elles) jaunissent
+
+* IMPÉRATIF
+
+** Présent
+
+jaunis
+jaunissons
+jaunissez
+
+* INFINITIF
+
+** Présent
+
+jaunir
+
+* PARTICIPE
+
+** Présent
+
+jaunissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jauni
+tu as jauni
+il (elle) a jauni
+nous avons jauni
+vous avez jauni
+ils (elles) ont jauni
+
+** Plus-que-parfait
+
+j'avais jauni
+tu avais jauni
+il (elle) avait jauni
+nous avions jauni
+vous aviez jauni
+ils (elles) avaient jauni
+
+** Passé antérieur
+
+j'eus jauni
+tu eus jauni
+il (elle) eut jauni
+nous eûmes jauni
+vous eûtes jauni
+ils (elles) eurent jauni
+
+** Futur antérieur
+
+j'aurai jauni
+tu auras jauni
+il (elle) aura jauni
+nous aurons jauni
+vous aurez jauni
+ils (elles) auront jauni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jauni
+tu aurais jauni
+il (elle) aurait jauni
+nous aurions jauni
+vous auriez jauni
+ils (elles) auraient jauni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jauni
+que tu aies jauni
+qu’il (elle) ait jauni
+que nous ayons jauni
+que vous ayez jauni
+qu’ils (elles) aient jauni
+
+** Plus-que-parfait
+
+que j'eusse jauni
+que tu eusses jauni
+qu’il (elle) eût jauni
+que nous eussions jauni
+que vous eussiez jauni
+qu’ils (elles) eussent jauni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jauni
+ayez jauni
+
+* INFINITIF
+
+** Passé
+
+avoir jauni
+
+* PARTICIPE
+
+** Passé
+
+ayant jauni
+jauni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis jauni(e)
+tu es jauni(e)
+il (elle) est jauni(e)
+nous sommes jauni(e)s
+vous êtes jauni(e)s
+ils (elles) sont jauni(e)s
+
+** Imparfait
+
+j'étais jauni(e)
+tu étais jauni(e)
+il (elle) était jauni(e)
+nous étions jauni(e)s
+vous étiez jauni(e)s
+ils (elles) étaient jauni(e)s
+
+** Passé simple
+
+je fus jauni(e)
+tu fus jauni(e)
+il (elle) fut jauni(e)
+nous fûmes jauni(e)s
+vous fûtes jauni(e)s
+ils (elles) furent jauni(e)s
+
+** Futur simple
+
+je serai jauni(e)
+tu seras jauni(e)
+il (elle) sera jauni(e)
+nous serons jauni(e)s
+vous serez jauni(e)s
+ils (elles) seront jauni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais jauni(e)
+tu serais jauni(e)
+il (elle) serait jauni(e)
+nous serions jauni(e)s
+vous seriez jauni(e)s
+ils (elles) seraient jauni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois jauni(e)
+que tu sois jauni(e)
+qu’il (elle) soit jauni(e)
+que nous soyons jauni(e)s
+que vous soyez jauni(e)s
+qu’ils (elles) soient jauni(e)s
+
+** Imparfait
+
+que je fusse jauni(e)
+que tu fusses jauni(e)
+qu’il (elle) fût jauni(e)
+que nous fussions jauni(e)s
+que vous fussiez jauni(e)s
+qu’ils (elles) fussent jauni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons jauni(e)s
+soyez jauni(e)s
+
+* INFINITIF
+
+** Présent
+
+être jauni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant jauni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été jauni(e)
+tu as été jauni(e)
+il (elle) a été jauni(e)
+nous avons été jauni(e)s
+vous avez été jauni(e)s
+ils (elles) ont été jauni(e)s
+
+** Plus-que-parfait
+
+j'avais été jauni(e)
+il (elle) avait été jauni(e)
+nous avions été jauni(e)s
+ils (elles) avaient été jauni(e)s
+
+** Passé antérieur
+
+j'eus été jauni(e)
+tu eus été jauni(e)
+il (elle) eut été jauni(e)
+nous eûmes été jauni(e)s
+vous eûtes été jauni(e)s
+ils (elles) eurent été jauni(e)s
+
+** Futur antérieur
+
+j'aurai été jauni(e)
+tu auras été jauni(e)
+il (elle) aura été jauni(e)
+nous aurons été jauni(e)s
+vous aurez été jauni(e)s
+ils (elles) auront été jauni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été jauni(e)
+j'aurais été jauni(e)
+il (elle) aurait été jauni(e)
+nous aurions été jauni(e)s
+vous auriez été jauni(e)s
+ils (elles) auraient été jauni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été jauni(e)
+que tu aies été jauni(e)
+qu’il (elle) ait été jauni(e)
+que nous ayons été jauni(e)s
+que vous ayez été jauni(e)s
+qu’ils (elles) aient été jauni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été jauni(e)
+que tu eusses été jauni(e)
+qu’il (elle) eût été jauni(e)
+que nous eussions été jauni(e)s
+que vous eussiez été jauni(e)s
+qu’ils (elles) eussent été jauni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été jauni(e)
+ayons été jauni(e)s
+ayez été jauni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été jauni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été jauni(e)(s)

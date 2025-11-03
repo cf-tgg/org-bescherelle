@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe noyer
+
+* INDICATIF
+
+** Présent
+
+je noie
+tu noies
+il (elle) noie
+nous noyons
+vous noyez
+ils (elles) noient
+
+** Imparfait
+
+je noyais
+tu noyais
+il (elle) noyait
+nous noyions
+vous noyiez
+ils (elles) noyaient
+
+** Passé simple
+
+je noyai
+tu noyas
+il (elle) noya
+nous noyâmes
+vous noyâtes
+ils (elles) noyèrent
+
+** Futur simple
+
+je noierai
+tu noieras
+il (elle) noiera
+nous noierons
+vous noierez
+ils (elles) noieront
+
+* CONDITIONNEL
+
+** Présent
+
+je noierais
+tu noierais
+il (elle) noierait
+nous noierions
+vous noieriez
+ils (elles) noieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je noie
+que tu noies
+qu’il (elle) noie
+que nous noyions
+que vous noyiez
+qu’ils (elles) noient
+
+** Imparfait
+
+que je noyasse
+que tu noyasses
+qu’il (elle) noyât
+que nous noyassions
+que vous noyassiez
+qu’ils (elles) noyassent
+
+* IMPÉRATIF
+
+** Présent
+
+noie
+noyons
+noyez
+
+* INFINITIF
+
+** Présent
+
+noyer
+
+* PARTICIPE
+
+** Présent
+
+noyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai noyé
+tu as noyé
+il (elle) a noyé
+nous avons noyé
+vous avez noyé
+ils (elles) ont noyé
+
+** Plus-que-parfait
+
+j'avais noyé
+tu avais noyé
+il (elle) avait noyé
+nous avions noyé
+vous aviez noyé
+ils (elles) avaient noyé
+
+** Passé antérieur
+
+j'eus noyé
+tu eus noyé
+il (elle) eut noyé
+nous eûmes noyé
+vous eûtes noyé
+ils (elles) eurent noyé
+
+** Futur antérieur
+
+j'aurai noyé
+tu auras noyé
+il (elle) aura noyé
+nous aurons noyé
+vous aurez noyé
+ils (elles) auront noyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais noyé
+tu aurais noyé
+il (elle) aurait noyé
+nous aurions noyé
+vous auriez noyé
+ils (elles) auraient noyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie noyé
+que tu aies noyé
+qu’il (elle) ait noyé
+que nous ayons noyé
+que vous ayez noyé
+qu’ils (elles) aient noyé
+
+** Plus-que-parfait
+
+que j'eusse noyé
+que tu eusses noyé
+qu’il (elle) eût noyé
+que nous eussions noyé
+que vous eussiez noyé
+qu’ils (elles) eussent noyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons noyé
+ayez noyé
+
+* INFINITIF
+
+** Passé
+
+avoir noyé
+
+* PARTICIPE
+
+** Passé
+
+ayant noyé
+noyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis noyé(e)
+tu es noyé(e)
+il (elle) est noyé(e)
+nous sommes noyé(e)s
+vous êtes noyé(e)s
+ils (elles) sont noyé(e)s
+
+** Imparfait
+
+j'étais noyé(e)
+tu étais noyé(e)
+il (elle) était noyé(e)
+nous étions noyé(e)s
+vous étiez noyé(e)s
+ils (elles) étaient noyé(e)s
+
+** Passé simple
+
+je fus noyé(e)
+tu fus noyé(e)
+il (elle) fut noyé(e)
+nous fûmes noyé(e)s
+vous fûtes noyé(e)s
+ils (elles) furent noyé(e)s
+
+** Futur simple
+
+je serai noyé(e)
+tu seras noyé(e)
+il (elle) sera noyé(e)
+nous serons noyé(e)s
+vous serez noyé(e)s
+ils (elles) seront noyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais noyé(e)
+tu serais noyé(e)
+il (elle) serait noyé(e)
+nous serions noyé(e)s
+vous seriez noyé(e)s
+ils (elles) seraient noyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois noyé(e)
+que tu sois noyé(e)
+qu’il (elle) soit noyé(e)
+que nous soyons noyé(e)s
+que vous soyez noyé(e)s
+qu’ils (elles) soient noyé(e)s
+
+** Imparfait
+
+que je fusse noyé(e)
+que tu fusses noyé(e)
+qu’il (elle) fût noyé(e)
+que nous fussions noyé(e)s
+que vous fussiez noyé(e)s
+qu’ils (elles) fussent noyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons noyé(e)s
+soyez noyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être noyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant noyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été noyé(e)
+tu as été noyé(e)
+il (elle) a été noyé(e)
+nous avons été noyé(e)s
+vous avez été noyé(e)s
+ils (elles) ont été noyé(e)s
+
+** Plus-que-parfait
+
+j'avais été noyé(e)
+il (elle) avait été noyé(e)
+nous avions été noyé(e)s
+ils (elles) avaient été noyé(e)s
+
+** Passé antérieur
+
+j'eus été noyé(e)
+tu eus été noyé(e)
+il (elle) eut été noyé(e)
+nous eûmes été noyé(e)s
+vous eûtes été noyé(e)s
+ils (elles) eurent été noyé(e)s
+
+** Futur antérieur
+
+j'aurai été noyé(e)
+tu auras été noyé(e)
+il (elle) aura été noyé(e)
+nous aurons été noyé(e)s
+vous aurez été noyé(e)s
+ils (elles) auront été noyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été noyé(e)
+j'aurais été noyé(e)
+il (elle) aurait été noyé(e)
+nous aurions été noyé(e)s
+vous auriez été noyé(e)s
+ils (elles) auraient été noyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été noyé(e)
+que tu aies été noyé(e)
+qu’il (elle) ait été noyé(e)
+que nous ayons été noyé(e)s
+que vous ayez été noyé(e)s
+qu’ils (elles) aient été noyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été noyé(e)
+que tu eusses été noyé(e)
+qu’il (elle) eût été noyé(e)
+que nous eussions été noyé(e)s
+que vous eussiez été noyé(e)s
+qu’ils (elles) eussent été noyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été noyé(e)
+ayons été noyé(e)s
+ayez été noyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été noyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été noyé(e)(s)

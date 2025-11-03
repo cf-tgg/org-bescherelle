@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe balader
+
+* INDICATIF
+
+** Présent
+
+je balade
+tu balades
+il (elle) balade
+nous baladons
+vous baladez
+ils (elles) baladent
+
+** Imparfait
+
+je baladais
+tu baladais
+il (elle) baladait
+nous baladions
+vous baladiez
+ils (elles) baladaient
+
+** Passé simple
+
+je baladai
+tu baladas
+il (elle) balada
+nous baladâmes
+vous baladâtes
+ils (elles) baladèrent
+
+** Futur simple
+
+je baladerai
+tu baladeras
+il (elle) baladera
+nous baladerons
+vous baladerez
+ils (elles) baladeront
+
+* CONDITIONNEL
+
+** Présent
+
+je baladerais
+tu baladerais
+il (elle) baladerait
+nous baladerions
+vous baladeriez
+ils (elles) baladeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je balade
+que tu balades
+qu’il (elle) balade
+que nous baladions
+que vous baladiez
+qu’ils (elles) baladent
+
+** Imparfait
+
+que je baladasse
+que tu baladasses
+qu’il (elle) baladât
+que nous baladassions
+que vous baladassiez
+qu’ils (elles) baladassent
+
+* IMPÉRATIF
+
+** Présent
+
+balade
+baladons
+baladez
+
+* INFINITIF
+
+** Présent
+
+balader
+
+* PARTICIPE
+
+** Présent
+
+baladant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai baladé
+tu as baladé
+il (elle) a baladé
+nous avons baladé
+vous avez baladé
+ils (elles) ont baladé
+
+** Plus-que-parfait
+
+j'avais baladé
+tu avais baladé
+il (elle) avait baladé
+nous avions baladé
+vous aviez baladé
+ils (elles) avaient baladé
+
+** Passé antérieur
+
+j'eus baladé
+tu eus baladé
+il (elle) eut baladé
+nous eûmes baladé
+vous eûtes baladé
+ils (elles) eurent baladé
+
+** Futur antérieur
+
+j'aurai baladé
+tu auras baladé
+il (elle) aura baladé
+nous aurons baladé
+vous aurez baladé
+ils (elles) auront baladé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais baladé
+tu aurais baladé
+il (elle) aurait baladé
+nous aurions baladé
+vous auriez baladé
+ils (elles) auraient baladé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie baladé
+que tu aies baladé
+qu’il (elle) ait baladé
+que nous ayons baladé
+que vous ayez baladé
+qu’ils (elles) aient baladé
+
+** Plus-que-parfait
+
+que j'eusse baladé
+que tu eusses baladé
+qu’il (elle) eût baladé
+que nous eussions baladé
+que vous eussiez baladé
+qu’ils (elles) eussent baladé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons baladé
+ayez baladé
+
+* INFINITIF
+
+** Passé
+
+avoir baladé
+
+* PARTICIPE
+
+** Passé
+
+ayant baladé
+baladé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis baladé(e)
+tu es baladé(e)
+il (elle) est baladé(e)
+nous sommes baladé(e)s
+vous êtes baladé(e)s
+ils (elles) sont baladé(e)s
+
+** Imparfait
+
+j'étais baladé(e)
+tu étais baladé(e)
+il (elle) était baladé(e)
+nous étions baladé(e)s
+vous étiez baladé(e)s
+ils (elles) étaient baladé(e)s
+
+** Passé simple
+
+je fus baladé(e)
+tu fus baladé(e)
+il (elle) fut baladé(e)
+nous fûmes baladé(e)s
+vous fûtes baladé(e)s
+ils (elles) furent baladé(e)s
+
+** Futur simple
+
+je serai baladé(e)
+tu seras baladé(e)
+il (elle) sera baladé(e)
+nous serons baladé(e)s
+vous serez baladé(e)s
+ils (elles) seront baladé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais baladé(e)
+tu serais baladé(e)
+il (elle) serait baladé(e)
+nous serions baladé(e)s
+vous seriez baladé(e)s
+ils (elles) seraient baladé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois baladé(e)
+que tu sois baladé(e)
+qu’il (elle) soit baladé(e)
+que nous soyons baladé(e)s
+que vous soyez baladé(e)s
+qu’ils (elles) soient baladé(e)s
+
+** Imparfait
+
+que je fusse baladé(e)
+que tu fusses baladé(e)
+qu’il (elle) fût baladé(e)
+que nous fussions baladé(e)s
+que vous fussiez baladé(e)s
+qu’ils (elles) fussent baladé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons baladé(e)s
+soyez baladé(e)s
+
+* INFINITIF
+
+** Présent
+
+être baladé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant baladé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été baladé(e)
+tu as été baladé(e)
+il (elle) a été baladé(e)
+nous avons été baladé(e)s
+vous avez été baladé(e)s
+ils (elles) ont été baladé(e)s
+
+** Plus-que-parfait
+
+j'avais été baladé(e)
+il (elle) avait été baladé(e)
+nous avions été baladé(e)s
+ils (elles) avaient été baladé(e)s
+
+** Passé antérieur
+
+j'eus été baladé(e)
+tu eus été baladé(e)
+il (elle) eut été baladé(e)
+nous eûmes été baladé(e)s
+vous eûtes été baladé(e)s
+ils (elles) eurent été baladé(e)s
+
+** Futur antérieur
+
+j'aurai été baladé(e)
+tu auras été baladé(e)
+il (elle) aura été baladé(e)
+nous aurons été baladé(e)s
+vous aurez été baladé(e)s
+ils (elles) auront été baladé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été baladé(e)
+j'aurais été baladé(e)
+il (elle) aurait été baladé(e)
+nous aurions été baladé(e)s
+vous auriez été baladé(e)s
+ils (elles) auraient été baladé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été baladé(e)
+que tu aies été baladé(e)
+qu’il (elle) ait été baladé(e)
+que nous ayons été baladé(e)s
+que vous ayez été baladé(e)s
+qu’ils (elles) aient été baladé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été baladé(e)
+que tu eusses été baladé(e)
+qu’il (elle) eût été baladé(e)
+que nous eussions été baladé(e)s
+que vous eussiez été baladé(e)s
+qu’ils (elles) eussent été baladé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été baladé(e)
+ayons été baladé(e)s
+ayez été baladé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été baladé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été baladé(e)(s)

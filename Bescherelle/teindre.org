@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe teindre
+
+* INDICATIF
+
+** Présent
+
+je teins
+tu teins
+il (elle) teint
+nous teignons
+vous teignez
+ils (elles) teignent
+
+** Imparfait
+
+je teignais
+tu teignais
+il (elle) teignait
+nous teignions
+vous teigniez
+ils (elles) teignaient
+
+** Passé simple
+
+je teignis
+tu teignis
+il (elle) teignit
+nous teignîmes
+vous teignîtes
+ils (elles) teignirent
+
+** Futur simple
+
+je teindrai
+tu teindras
+il (elle) teindra
+nous teindrons
+vous teindrez
+ils (elles) teindront
+
+* CONDITIONNEL
+
+** Présent
+
+je teindrais
+tu teindrais
+il (elle) teindrait
+nous teindrions
+vous teindriez
+ils (elles) teindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je teigne
+que tu teignes
+qu’il (elle) teigne
+que nous teignions
+que vous teigniez
+qu’ils (elles) teignent
+
+** Imparfait
+
+que je teignisse
+que tu teignisses
+qu’il (elle) teignît
+que nous teignissions
+que vous teignissiez
+qu’ils (elles) teignissent
+
+* IMPÉRATIF
+
+** Présent
+
+teins
+teignons
+teignez
+
+* INFINITIF
+
+** Présent
+
+teindre
+
+* PARTICIPE
+
+** Présent
+
+teignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai teint
+tu as teint
+il (elle) a teint
+nous avons teint
+vous avez teint
+ils (elles) ont teint
+
+** Plus-que-parfait
+
+j'avais teint
+tu avais teint
+il (elle) avait teint
+nous avions teint
+vous aviez teint
+ils (elles) avaient teint
+
+** Passé antérieur
+
+j'eus teint
+tu eus teint
+il (elle) eut teint
+nous eûmes teint
+vous eûtes teint
+ils (elles) eurent teint
+
+** Futur antérieur
+
+j'aurai teint
+tu auras teint
+il (elle) aura teint
+nous aurons teint
+vous aurez teint
+ils (elles) auront teint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais teint
+tu aurais teint
+il (elle) aurait teint
+nous aurions teint
+vous auriez teint
+ils (elles) auraient teint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie teint
+que tu aies teint
+qu’il (elle) ait teint
+que nous ayons teint
+que vous ayez teint
+qu’ils (elles) aient teint
+
+** Plus-que-parfait
+
+que j'eusse teint
+que tu eusses teint
+qu’il (elle) eût teint
+que nous eussions teint
+que vous eussiez teint
+qu’ils (elles) eussent teint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons teint
+ayez teint
+
+* INFINITIF
+
+** Passé
+
+avoir teint
+
+* PARTICIPE
+
+** Passé
+
+ayant teint
+teint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis teint(e)
+tu es teint(e)
+il (elle) est teint(e)
+nous sommes teint(e)s
+vous êtes teint(e)s
+ils (elles) sont teint(e)s
+
+** Imparfait
+
+j'étais teint(e)
+tu étais teint(e)
+il (elle) était teint(e)
+nous étions teint(e)s
+vous étiez teint(e)s
+ils (elles) étaient teint(e)s
+
+** Passé simple
+
+je fus teint(e)
+tu fus teint(e)
+il (elle) fut teint(e)
+nous fûmes teint(e)s
+vous fûtes teint(e)s
+ils (elles) furent teint(e)s
+
+** Futur simple
+
+je serai teint(e)
+tu seras teint(e)
+il (elle) sera teint(e)
+nous serons teint(e)s
+vous serez teint(e)s
+ils (elles) seront teint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais teint(e)
+tu serais teint(e)
+il (elle) serait teint(e)
+nous serions teint(e)s
+vous seriez teint(e)s
+ils (elles) seraient teint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois teint(e)
+que tu sois teint(e)
+qu’il (elle) soit teint(e)
+que nous soyons teint(e)s
+que vous soyez teint(e)s
+qu’ils (elles) soient teint(e)s
+
+** Imparfait
+
+que je fusse teint(e)
+que tu fusses teint(e)
+qu’il (elle) fût teint(e)
+que nous fussions teint(e)s
+que vous fussiez teint(e)s
+qu’ils (elles) fussent teint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons teint(e)s
+soyez teint(e)s
+
+* INFINITIF
+
+** Présent
+
+être teint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant teint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été teint(e)
+tu as été teint(e)
+il (elle) a été teint(e)
+nous avons été teint(e)s
+vous avez été teint(e)s
+ils (elles) ont été teint(e)s
+
+** Plus-que-parfait
+
+j'avais été teint(e)
+il (elle) avait été teint(e)
+nous avions été teint(e)s
+ils (elles) avaient été teint(e)s
+
+** Passé antérieur
+
+j'eus été teint(e)
+tu eus été teint(e)
+il (elle) eut été teint(e)
+nous eûmes été teint(e)s
+vous eûtes été teint(e)s
+ils (elles) eurent été teint(e)s
+
+** Futur antérieur
+
+j'aurai été teint(e)
+tu auras été teint(e)
+il (elle) aura été teint(e)
+nous aurons été teint(e)s
+vous aurez été teint(e)s
+ils (elles) auront été teint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été teint(e)
+j'aurais été teint(e)
+il (elle) aurait été teint(e)
+nous aurions été teint(e)s
+vous auriez été teint(e)s
+ils (elles) auraient été teint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été teint(e)
+que tu aies été teint(e)
+qu’il (elle) ait été teint(e)
+que nous ayons été teint(e)s
+que vous ayez été teint(e)s
+qu’ils (elles) aient été teint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été teint(e)
+que tu eusses été teint(e)
+qu’il (elle) eût été teint(e)
+que nous eussions été teint(e)s
+que vous eussiez été teint(e)s
+qu’ils (elles) eussent été teint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été teint(e)
+ayons été teint(e)s
+ayez été teint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été teint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été teint(e)(s)

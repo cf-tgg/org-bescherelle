@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rimer
+
+* INDICATIF
+
+** Présent
+
+je rime
+tu rimes
+il (elle) rime
+nous rimons
+vous rimez
+ils (elles) riment
+
+** Imparfait
+
+je rimais
+tu rimais
+il (elle) rimait
+nous rimions
+vous rimiez
+ils (elles) rimaient
+
+** Passé simple
+
+je rimai
+tu rimas
+il (elle) rima
+nous rimâmes
+vous rimâtes
+ils (elles) rimèrent
+
+** Futur simple
+
+je rimerai
+tu rimeras
+il (elle) rimera
+nous rimerons
+vous rimerez
+ils (elles) rimeront
+
+* CONDITIONNEL
+
+** Présent
+
+je rimerais
+tu rimerais
+il (elle) rimerait
+nous rimerions
+vous rimeriez
+ils (elles) rimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rime
+que tu rimes
+qu’il (elle) rime
+que nous rimions
+que vous rimiez
+qu’ils (elles) riment
+
+** Imparfait
+
+que je rimasse
+que tu rimasses
+qu’il (elle) rimât
+que nous rimassions
+que vous rimassiez
+qu’ils (elles) rimassent
+
+* IMPÉRATIF
+
+** Présent
+
+rime
+rimons
+rimez
+
+* INFINITIF
+
+** Présent
+
+rimer
+
+* PARTICIPE
+
+** Présent
+
+rimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rimé
+tu as rimé
+il (elle) a rimé
+nous avons rimé
+vous avez rimé
+ils (elles) ont rimé
+
+** Plus-que-parfait
+
+j'avais rimé
+tu avais rimé
+il (elle) avait rimé
+nous avions rimé
+vous aviez rimé
+ils (elles) avaient rimé
+
+** Passé antérieur
+
+j'eus rimé
+tu eus rimé
+il (elle) eut rimé
+nous eûmes rimé
+vous eûtes rimé
+ils (elles) eurent rimé
+
+** Futur antérieur
+
+j'aurai rimé
+tu auras rimé
+il (elle) aura rimé
+nous aurons rimé
+vous aurez rimé
+ils (elles) auront rimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rimé
+tu aurais rimé
+il (elle) aurait rimé
+nous aurions rimé
+vous auriez rimé
+ils (elles) auraient rimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rimé
+que tu aies rimé
+qu’il (elle) ait rimé
+que nous ayons rimé
+que vous ayez rimé
+qu’ils (elles) aient rimé
+
+** Plus-que-parfait
+
+que j'eusse rimé
+que tu eusses rimé
+qu’il (elle) eût rimé
+que nous eussions rimé
+que vous eussiez rimé
+qu’ils (elles) eussent rimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rimé
+ayez rimé
+
+* INFINITIF
+
+** Passé
+
+avoir rimé
+
+* PARTICIPE
+
+** Passé
+
+ayant rimé
+rimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rimé(e)
+tu es rimé(e)
+il (elle) est rimé(e)
+nous sommes rimé(e)s
+vous êtes rimé(e)s
+ils (elles) sont rimé(e)s
+
+** Imparfait
+
+j'étais rimé(e)
+tu étais rimé(e)
+il (elle) était rimé(e)
+nous étions rimé(e)s
+vous étiez rimé(e)s
+ils (elles) étaient rimé(e)s
+
+** Passé simple
+
+je fus rimé(e)
+tu fus rimé(e)
+il (elle) fut rimé(e)
+nous fûmes rimé(e)s
+vous fûtes rimé(e)s
+ils (elles) furent rimé(e)s
+
+** Futur simple
+
+je serai rimé(e)
+tu seras rimé(e)
+il (elle) sera rimé(e)
+nous serons rimé(e)s
+vous serez rimé(e)s
+ils (elles) seront rimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rimé(e)
+tu serais rimé(e)
+il (elle) serait rimé(e)
+nous serions rimé(e)s
+vous seriez rimé(e)s
+ils (elles) seraient rimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rimé(e)
+que tu sois rimé(e)
+qu’il (elle) soit rimé(e)
+que nous soyons rimé(e)s
+que vous soyez rimé(e)s
+qu’ils (elles) soient rimé(e)s
+
+** Imparfait
+
+que je fusse rimé(e)
+que tu fusses rimé(e)
+qu’il (elle) fût rimé(e)
+que nous fussions rimé(e)s
+que vous fussiez rimé(e)s
+qu’ils (elles) fussent rimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rimé(e)s
+soyez rimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rimé(e)
+tu as été rimé(e)
+il (elle) a été rimé(e)
+nous avons été rimé(e)s
+vous avez été rimé(e)s
+ils (elles) ont été rimé(e)s
+
+** Plus-que-parfait
+
+j'avais été rimé(e)
+il (elle) avait été rimé(e)
+nous avions été rimé(e)s
+ils (elles) avaient été rimé(e)s
+
+** Passé antérieur
+
+j'eus été rimé(e)
+tu eus été rimé(e)
+il (elle) eut été rimé(e)
+nous eûmes été rimé(e)s
+vous eûtes été rimé(e)s
+ils (elles) eurent été rimé(e)s
+
+** Futur antérieur
+
+j'aurai été rimé(e)
+tu auras été rimé(e)
+il (elle) aura été rimé(e)
+nous aurons été rimé(e)s
+vous aurez été rimé(e)s
+ils (elles) auront été rimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rimé(e)
+j'aurais été rimé(e)
+il (elle) aurait été rimé(e)
+nous aurions été rimé(e)s
+vous auriez été rimé(e)s
+ils (elles) auraient été rimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rimé(e)
+que tu aies été rimé(e)
+qu’il (elle) ait été rimé(e)
+que nous ayons été rimé(e)s
+que vous ayez été rimé(e)s
+qu’ils (elles) aient été rimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rimé(e)
+que tu eusses été rimé(e)
+qu’il (elle) eût été rimé(e)
+que nous eussions été rimé(e)s
+que vous eussiez été rimé(e)s
+qu’ils (elles) eussent été rimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rimé(e)
+ayons été rimé(e)s
+ayez été rimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rimé(e)(s)

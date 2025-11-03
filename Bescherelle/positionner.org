@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe positionner
+
+* INDICATIF
+
+** Présent
+
+je positionne
+tu positionnes
+il (elle) positionne
+nous positionnons
+vous positionnez
+ils (elles) positionnent
+
+** Imparfait
+
+je positionnais
+tu positionnais
+il (elle) positionnait
+nous positionnions
+vous positionniez
+ils (elles) positionnaient
+
+** Passé simple
+
+je positionnai
+tu positionnas
+il (elle) positionna
+nous positionnâmes
+vous positionnâtes
+ils (elles) positionnèrent
+
+** Futur simple
+
+je positionnerai
+tu positionneras
+il (elle) positionnera
+nous positionnerons
+vous positionnerez
+ils (elles) positionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je positionnerais
+tu positionnerais
+il (elle) positionnerait
+nous positionnerions
+vous positionneriez
+ils (elles) positionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je positionne
+que tu positionnes
+qu’il (elle) positionne
+que nous positionnions
+que vous positionniez
+qu’ils (elles) positionnent
+
+** Imparfait
+
+que je positionnasse
+que tu positionnasses
+qu’il (elle) positionnât
+que nous positionnassions
+que vous positionnassiez
+qu’ils (elles) positionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+positionne
+positionnons
+positionnez
+
+* INFINITIF
+
+** Présent
+
+positionner
+
+* PARTICIPE
+
+** Présent
+
+positionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai positionné
+tu as positionné
+il (elle) a positionné
+nous avons positionné
+vous avez positionné
+ils (elles) ont positionné
+
+** Plus-que-parfait
+
+j'avais positionné
+tu avais positionné
+il (elle) avait positionné
+nous avions positionné
+vous aviez positionné
+ils (elles) avaient positionné
+
+** Passé antérieur
+
+j'eus positionné
+tu eus positionné
+il (elle) eut positionné
+nous eûmes positionné
+vous eûtes positionné
+ils (elles) eurent positionné
+
+** Futur antérieur
+
+j'aurai positionné
+tu auras positionné
+il (elle) aura positionné
+nous aurons positionné
+vous aurez positionné
+ils (elles) auront positionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais positionné
+tu aurais positionné
+il (elle) aurait positionné
+nous aurions positionné
+vous auriez positionné
+ils (elles) auraient positionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie positionné
+que tu aies positionné
+qu’il (elle) ait positionné
+que nous ayons positionné
+que vous ayez positionné
+qu’ils (elles) aient positionné
+
+** Plus-que-parfait
+
+que j'eusse positionné
+que tu eusses positionné
+qu’il (elle) eût positionné
+que nous eussions positionné
+que vous eussiez positionné
+qu’ils (elles) eussent positionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons positionné
+ayez positionné
+
+* INFINITIF
+
+** Passé
+
+avoir positionné
+
+* PARTICIPE
+
+** Passé
+
+ayant positionné
+positionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis positionné(e)
+tu es positionné(e)
+il (elle) est positionné(e)
+nous sommes positionné(e)s
+vous êtes positionné(e)s
+ils (elles) sont positionné(e)s
+
+** Imparfait
+
+j'étais positionné(e)
+tu étais positionné(e)
+il (elle) était positionné(e)
+nous étions positionné(e)s
+vous étiez positionné(e)s
+ils (elles) étaient positionné(e)s
+
+** Passé simple
+
+je fus positionné(e)
+tu fus positionné(e)
+il (elle) fut positionné(e)
+nous fûmes positionné(e)s
+vous fûtes positionné(e)s
+ils (elles) furent positionné(e)s
+
+** Futur simple
+
+je serai positionné(e)
+tu seras positionné(e)
+il (elle) sera positionné(e)
+nous serons positionné(e)s
+vous serez positionné(e)s
+ils (elles) seront positionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais positionné(e)
+tu serais positionné(e)
+il (elle) serait positionné(e)
+nous serions positionné(e)s
+vous seriez positionné(e)s
+ils (elles) seraient positionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois positionné(e)
+que tu sois positionné(e)
+qu’il (elle) soit positionné(e)
+que nous soyons positionné(e)s
+que vous soyez positionné(e)s
+qu’ils (elles) soient positionné(e)s
+
+** Imparfait
+
+que je fusse positionné(e)
+que tu fusses positionné(e)
+qu’il (elle) fût positionné(e)
+que nous fussions positionné(e)s
+que vous fussiez positionné(e)s
+qu’ils (elles) fussent positionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons positionné(e)s
+soyez positionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être positionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant positionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été positionné(e)
+tu as été positionné(e)
+il (elle) a été positionné(e)
+nous avons été positionné(e)s
+vous avez été positionné(e)s
+ils (elles) ont été positionné(e)s
+
+** Plus-que-parfait
+
+j'avais été positionné(e)
+il (elle) avait été positionné(e)
+nous avions été positionné(e)s
+ils (elles) avaient été positionné(e)s
+
+** Passé antérieur
+
+j'eus été positionné(e)
+tu eus été positionné(e)
+il (elle) eut été positionné(e)
+nous eûmes été positionné(e)s
+vous eûtes été positionné(e)s
+ils (elles) eurent été positionné(e)s
+
+** Futur antérieur
+
+j'aurai été positionné(e)
+tu auras été positionné(e)
+il (elle) aura été positionné(e)
+nous aurons été positionné(e)s
+vous aurez été positionné(e)s
+ils (elles) auront été positionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été positionné(e)
+j'aurais été positionné(e)
+il (elle) aurait été positionné(e)
+nous aurions été positionné(e)s
+vous auriez été positionné(e)s
+ils (elles) auraient été positionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été positionné(e)
+que tu aies été positionné(e)
+qu’il (elle) ait été positionné(e)
+que nous ayons été positionné(e)s
+que vous ayez été positionné(e)s
+qu’ils (elles) aient été positionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été positionné(e)
+que tu eusses été positionné(e)
+qu’il (elle) eût été positionné(e)
+que nous eussions été positionné(e)s
+que vous eussiez été positionné(e)s
+qu’ils (elles) eussent été positionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été positionné(e)
+ayons été positionné(e)s
+ayez été positionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été positionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été positionné(e)(s)

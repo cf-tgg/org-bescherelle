@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe signer
+
+* INDICATIF
+
+** Présent
+
+je signe
+tu signes
+il (elle) signe
+nous signons
+vous signez
+ils (elles) signent
+
+** Imparfait
+
+je signais
+tu signais
+il (elle) signait
+nous signions
+vous signiez
+ils (elles) signaient
+
+** Passé simple
+
+je signai
+tu signas
+il (elle) signa
+nous signâmes
+vous signâtes
+ils (elles) signèrent
+
+** Futur simple
+
+je signerai
+tu signeras
+il (elle) signera
+nous signerons
+vous signerez
+ils (elles) signeront
+
+* CONDITIONNEL
+
+** Présent
+
+je signerais
+tu signerais
+il (elle) signerait
+nous signerions
+vous signeriez
+ils (elles) signeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je signe
+que tu signes
+qu’il (elle) signe
+que nous signions
+que vous signiez
+qu’ils (elles) signent
+
+** Imparfait
+
+que je signasse
+que tu signasses
+qu’il (elle) signât
+que nous signassions
+que vous signassiez
+qu’ils (elles) signassent
+
+* IMPÉRATIF
+
+** Présent
+
+signe
+signons
+signez
+
+* INFINITIF
+
+** Présent
+
+signer
+
+* PARTICIPE
+
+** Présent
+
+signant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai signé
+tu as signé
+il (elle) a signé
+nous avons signé
+vous avez signé
+ils (elles) ont signé
+
+** Plus-que-parfait
+
+j'avais signé
+tu avais signé
+il (elle) avait signé
+nous avions signé
+vous aviez signé
+ils (elles) avaient signé
+
+** Passé antérieur
+
+j'eus signé
+tu eus signé
+il (elle) eut signé
+nous eûmes signé
+vous eûtes signé
+ils (elles) eurent signé
+
+** Futur antérieur
+
+j'aurai signé
+tu auras signé
+il (elle) aura signé
+nous aurons signé
+vous aurez signé
+ils (elles) auront signé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais signé
+tu aurais signé
+il (elle) aurait signé
+nous aurions signé
+vous auriez signé
+ils (elles) auraient signé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie signé
+que tu aies signé
+qu’il (elle) ait signé
+que nous ayons signé
+que vous ayez signé
+qu’ils (elles) aient signé
+
+** Plus-que-parfait
+
+que j'eusse signé
+que tu eusses signé
+qu’il (elle) eût signé
+que nous eussions signé
+que vous eussiez signé
+qu’ils (elles) eussent signé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons signé
+ayez signé
+
+* INFINITIF
+
+** Passé
+
+avoir signé
+
+* PARTICIPE
+
+** Passé
+
+ayant signé
+signé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis signé(e)
+tu es signé(e)
+il (elle) est signé(e)
+nous sommes signé(e)s
+vous êtes signé(e)s
+ils (elles) sont signé(e)s
+
+** Imparfait
+
+j'étais signé(e)
+tu étais signé(e)
+il (elle) était signé(e)
+nous étions signé(e)s
+vous étiez signé(e)s
+ils (elles) étaient signé(e)s
+
+** Passé simple
+
+je fus signé(e)
+tu fus signé(e)
+il (elle) fut signé(e)
+nous fûmes signé(e)s
+vous fûtes signé(e)s
+ils (elles) furent signé(e)s
+
+** Futur simple
+
+je serai signé(e)
+tu seras signé(e)
+il (elle) sera signé(e)
+nous serons signé(e)s
+vous serez signé(e)s
+ils (elles) seront signé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais signé(e)
+tu serais signé(e)
+il (elle) serait signé(e)
+nous serions signé(e)s
+vous seriez signé(e)s
+ils (elles) seraient signé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois signé(e)
+que tu sois signé(e)
+qu’il (elle) soit signé(e)
+que nous soyons signé(e)s
+que vous soyez signé(e)s
+qu’ils (elles) soient signé(e)s
+
+** Imparfait
+
+que je fusse signé(e)
+que tu fusses signé(e)
+qu’il (elle) fût signé(e)
+que nous fussions signé(e)s
+que vous fussiez signé(e)s
+qu’ils (elles) fussent signé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons signé(e)s
+soyez signé(e)s
+
+* INFINITIF
+
+** Présent
+
+être signé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant signé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été signé(e)
+tu as été signé(e)
+il (elle) a été signé(e)
+nous avons été signé(e)s
+vous avez été signé(e)s
+ils (elles) ont été signé(e)s
+
+** Plus-que-parfait
+
+j'avais été signé(e)
+il (elle) avait été signé(e)
+nous avions été signé(e)s
+ils (elles) avaient été signé(e)s
+
+** Passé antérieur
+
+j'eus été signé(e)
+tu eus été signé(e)
+il (elle) eut été signé(e)
+nous eûmes été signé(e)s
+vous eûtes été signé(e)s
+ils (elles) eurent été signé(e)s
+
+** Futur antérieur
+
+j'aurai été signé(e)
+tu auras été signé(e)
+il (elle) aura été signé(e)
+nous aurons été signé(e)s
+vous aurez été signé(e)s
+ils (elles) auront été signé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été signé(e)
+j'aurais été signé(e)
+il (elle) aurait été signé(e)
+nous aurions été signé(e)s
+vous auriez été signé(e)s
+ils (elles) auraient été signé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été signé(e)
+que tu aies été signé(e)
+qu’il (elle) ait été signé(e)
+que nous ayons été signé(e)s
+que vous ayez été signé(e)s
+qu’ils (elles) aient été signé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été signé(e)
+que tu eusses été signé(e)
+qu’il (elle) eût été signé(e)
+que nous eussions été signé(e)s
+que vous eussiez été signé(e)s
+qu’ils (elles) eussent été signé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été signé(e)
+ayons été signé(e)s
+ayez été signé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été signé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été signé(e)(s)

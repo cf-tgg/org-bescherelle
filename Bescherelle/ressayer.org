@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ressayer
+
+* INDICATIF
+
+** Présent
+
+je ressaie / ressaye
+tu ressaies / ressayes
+il (elle) ressaie / ressaye
+nous ressayons
+vous ressayez
+ils (elles) ressaient / ressayent
+
+** Imparfait
+
+je ressayais
+tu ressayais
+il (elle) ressayait
+nous ressayions
+vous ressayiez
+ils (elles) ressayaient
+
+** Passé simple
+
+je ressayai
+tu ressayas
+il (elle) ressaya
+nous ressayâmes
+vous ressayâtes
+ils (elles) ressayèrent
+
+** Futur simple
+
+je ressaierai / ressayerai
+tu ressaieras / ressayeras
+il (elle) ressaiera / ressayera
+nous ressaierons / ressayerons
+vous ressaierez / ressayerez
+ils (elles) ressaieront / ressayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je ressaierais / ressayerais
+tu ressaierais / ressayerais
+il (elle) ressaierait / ressayerait
+nous ressaierions / ressayerions
+vous ressaieriez / ressayeriez
+ils (elles) ressaieraient / ressayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ressaie / ressaye
+que tu ressaies / ressayes
+qu’il (elle) ressaie / ressaye
+que nous ressayions
+que vous ressayiez
+qu’ils (elles) ressaient / ressayent
+
+** Imparfait
+
+que je ressayasse
+que tu ressayasses
+qu’il (elle) ressayât
+que nous ressayassions
+que vous ressayassiez
+qu’ils (elles) ressayassent
+
+* IMPÉRATIF
+
+** Présent
+
+ressaie / ressaye
+ressayons
+ressayez
+
+* INFINITIF
+
+** Présent
+
+ressayer
+
+* PARTICIPE
+
+** Présent
+
+ressayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ressayé
+tu as ressayé
+il (elle) a ressayé
+nous avons ressayé
+vous avez ressayé
+ils (elles) ont ressayé
+
+** Plus-que-parfait
+
+j'avais ressayé
+tu avais ressayé
+il (elle) avait ressayé
+nous avions ressayé
+vous aviez ressayé
+ils (elles) avaient ressayé
+
+** Passé antérieur
+
+j'eus ressayé
+tu eus ressayé
+il (elle) eut ressayé
+nous eûmes ressayé
+vous eûtes ressayé
+ils (elles) eurent ressayé
+
+** Futur antérieur
+
+j'aurai ressayé
+tu auras ressayé
+il (elle) aura ressayé
+nous aurons ressayé
+vous aurez ressayé
+ils (elles) auront ressayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ressayé
+tu aurais ressayé
+il (elle) aurait ressayé
+nous aurions ressayé
+vous auriez ressayé
+ils (elles) auraient ressayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ressayé
+que tu aies ressayé
+qu’il (elle) ait ressayé
+que nous ayons ressayé
+que vous ayez ressayé
+qu’ils (elles) aient ressayé
+
+** Plus-que-parfait
+
+que j'eusse ressayé
+que tu eusses ressayé
+qu’il (elle) eût ressayé
+que nous eussions ressayé
+que vous eussiez ressayé
+qu’ils (elles) eussent ressayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ressayé
+ayez ressayé
+
+* INFINITIF
+
+** Passé
+
+avoir ressayé
+
+* PARTICIPE
+
+** Passé
+
+ayant ressayé
+ressayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ressayé(e)
+tu es ressayé(e)
+il (elle) est ressayé(e)
+nous sommes ressayé(e)s
+vous êtes ressayé(e)s
+ils (elles) sont ressayé(e)s
+
+** Imparfait
+
+j'étais ressayé(e)
+tu étais ressayé(e)
+il (elle) était ressayé(e)
+nous étions ressayé(e)s
+vous étiez ressayé(e)s
+ils (elles) étaient ressayé(e)s
+
+** Passé simple
+
+je fus ressayé(e)
+tu fus ressayé(e)
+il (elle) fut ressayé(e)
+nous fûmes ressayé(e)s
+vous fûtes ressayé(e)s
+ils (elles) furent ressayé(e)s
+
+** Futur simple
+
+je serai ressayé(e)
+tu seras ressayé(e)
+il (elle) sera ressayé(e)
+nous serons ressayé(e)s
+vous serez ressayé(e)s
+ils (elles) seront ressayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ressayé(e)
+tu serais ressayé(e)
+il (elle) serait ressayé(e)
+nous serions ressayé(e)s
+vous seriez ressayé(e)s
+ils (elles) seraient ressayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ressayé(e)
+que tu sois ressayé(e)
+qu’il (elle) soit ressayé(e)
+que nous soyons ressayé(e)s
+que vous soyez ressayé(e)s
+qu’ils (elles) soient ressayé(e)s
+
+** Imparfait
+
+que je fusse ressayé(e)
+que tu fusses ressayé(e)
+qu’il (elle) fût ressayé(e)
+que nous fussions ressayé(e)s
+que vous fussiez ressayé(e)s
+qu’ils (elles) fussent ressayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ressayé(e)s
+soyez ressayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ressayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ressayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ressayé(e)
+tu as été ressayé(e)
+il (elle) a été ressayé(e)
+nous avons été ressayé(e)s
+vous avez été ressayé(e)s
+ils (elles) ont été ressayé(e)s
+
+** Plus-que-parfait
+
+j'avais été ressayé(e)
+il (elle) avait été ressayé(e)
+nous avions été ressayé(e)s
+ils (elles) avaient été ressayé(e)s
+
+** Passé antérieur
+
+j'eus été ressayé(e)
+tu eus été ressayé(e)
+il (elle) eut été ressayé(e)
+nous eûmes été ressayé(e)s
+vous eûtes été ressayé(e)s
+ils (elles) eurent été ressayé(e)s
+
+** Futur antérieur
+
+j'aurai été ressayé(e)
+tu auras été ressayé(e)
+il (elle) aura été ressayé(e)
+nous aurons été ressayé(e)s
+vous aurez été ressayé(e)s
+ils (elles) auront été ressayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ressayé(e)
+j'aurais été ressayé(e)
+il (elle) aurait été ressayé(e)
+nous aurions été ressayé(e)s
+vous auriez été ressayé(e)s
+ils (elles) auraient été ressayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ressayé(e)
+que tu aies été ressayé(e)
+qu’il (elle) ait été ressayé(e)
+que nous ayons été ressayé(e)s
+que vous ayez été ressayé(e)s
+qu’ils (elles) aient été ressayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ressayé(e)
+que tu eusses été ressayé(e)
+qu’il (elle) eût été ressayé(e)
+que nous eussions été ressayé(e)s
+que vous eussiez été ressayé(e)s
+qu’ils (elles) eussent été ressayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ressayé(e)
+ayons été ressayé(e)s
+ayez été ressayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ressayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ressayé(e)(s)

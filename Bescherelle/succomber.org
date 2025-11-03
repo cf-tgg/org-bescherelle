@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe succomber
+
+* INDICATIF
+
+** Présent
+
+je succombe
+tu succombes
+il (elle) succombe
+nous succombons
+vous succombez
+ils (elles) succombent
+
+** Imparfait
+
+je succombais
+tu succombais
+il (elle) succombait
+nous succombions
+vous succombiez
+ils (elles) succombaient
+
+** Passé simple
+
+je succombai
+tu succombas
+il (elle) succomba
+nous succombâmes
+vous succombâtes
+ils (elles) succombèrent
+
+** Futur simple
+
+je succomberai
+tu succomberas
+il (elle) succombera
+nous succomberons
+vous succomberez
+ils (elles) succomberont
+
+* CONDITIONNEL
+
+** Présent
+
+je succomberais
+tu succomberais
+il (elle) succomberait
+nous succomberions
+vous succomberiez
+ils (elles) succomberaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je succombe
+que tu succombes
+qu’il (elle) succombe
+que nous succombions
+que vous succombiez
+qu’ils (elles) succombent
+
+** Imparfait
+
+que je succombasse
+que tu succombasses
+qu’il (elle) succombât
+que nous succombassions
+que vous succombassiez
+qu’ils (elles) succombassent
+
+* IMPÉRATIF
+
+** Présent
+
+succombe
+succombons
+succombez
+
+* INFINITIF
+
+** Présent
+
+succomber
+
+* PARTICIPE
+
+** Présent
+
+succombant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai succombé
+tu as succombé
+il (elle) a succombé
+nous avons succombé
+vous avez succombé
+ils (elles) ont succombé
+
+** Plus-que-parfait
+
+j'avais succombé
+tu avais succombé
+il (elle) avait succombé
+nous avions succombé
+vous aviez succombé
+ils (elles) avaient succombé
+
+** Passé antérieur
+
+j'eus succombé
+tu eus succombé
+il (elle) eut succombé
+nous eûmes succombé
+vous eûtes succombé
+ils (elles) eurent succombé
+
+** Futur antérieur
+
+j'aurai succombé
+tu auras succombé
+il (elle) aura succombé
+nous aurons succombé
+vous aurez succombé
+ils (elles) auront succombé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais succombé
+tu aurais succombé
+il (elle) aurait succombé
+nous aurions succombé
+vous auriez succombé
+ils (elles) auraient succombé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie succombé
+que tu aies succombé
+qu’il (elle) ait succombé
+que nous ayons succombé
+que vous ayez succombé
+qu’ils (elles) aient succombé
+
+** Plus-que-parfait
+
+que j'eusse succombé
+que tu eusses succombé
+qu’il (elle) eût succombé
+que nous eussions succombé
+que vous eussiez succombé
+qu’ils (elles) eussent succombé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons succombé
+ayez succombé
+
+* INFINITIF
+
+** Passé
+
+avoir succombé
+
+* PARTICIPE
+
+** Passé
+
+ayant succombé
+succombé (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe munir
+
+* INDICATIF
+
+** Présent
+
+je munis
+tu munis
+il (elle) munit
+nous munissons
+vous munissez
+ils (elles) munissent
+
+** Imparfait
+
+je munissais
+tu munissais
+il (elle) munissait
+nous munissions
+vous munissiez
+ils (elles) munissaient
+
+** Passé simple
+
+je munis
+tu munis
+il (elle) munit
+nous munîmes
+vous munîtes
+ils (elles) munirent
+
+** Futur simple
+
+je munirai
+tu muniras
+il (elle) munira
+nous munirons
+vous munirez
+ils (elles) muniront
+
+* CONDITIONNEL
+
+** Présent
+
+je munirais
+tu munirais
+il (elle) munirait
+nous munirions
+vous muniriez
+ils (elles) muniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je munisse
+que tu munisses
+qu’il (elle) munisse
+que nous munissions
+que vous munissiez
+qu’ils (elles) munissent
+
+** Imparfait
+
+que je munisse
+que tu munisses
+qu’il (elle) munît
+que nous munissions
+que vous munissiez
+qu’ils (elles) munissent
+
+* IMPÉRATIF
+
+** Présent
+
+munis
+munissons
+munissez
+
+* INFINITIF
+
+** Présent
+
+munir
+
+* PARTICIPE
+
+** Présent
+
+munissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai muni
+tu as muni
+il (elle) a muni
+nous avons muni
+vous avez muni
+ils (elles) ont muni
+
+** Plus-que-parfait
+
+j'avais muni
+tu avais muni
+il (elle) avait muni
+nous avions muni
+vous aviez muni
+ils (elles) avaient muni
+
+** Passé antérieur
+
+j'eus muni
+tu eus muni
+il (elle) eut muni
+nous eûmes muni
+vous eûtes muni
+ils (elles) eurent muni
+
+** Futur antérieur
+
+j'aurai muni
+tu auras muni
+il (elle) aura muni
+nous aurons muni
+vous aurez muni
+ils (elles) auront muni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais muni
+tu aurais muni
+il (elle) aurait muni
+nous aurions muni
+vous auriez muni
+ils (elles) auraient muni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie muni
+que tu aies muni
+qu’il (elle) ait muni
+que nous ayons muni
+que vous ayez muni
+qu’ils (elles) aient muni
+
+** Plus-que-parfait
+
+que j'eusse muni
+que tu eusses muni
+qu’il (elle) eût muni
+que nous eussions muni
+que vous eussiez muni
+qu’ils (elles) eussent muni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons muni
+ayez muni
+
+* INFINITIF
+
+** Passé
+
+avoir muni
+
+* PARTICIPE
+
+** Passé
+
+ayant muni
+muni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis muni(e)
+tu es muni(e)
+il (elle) est muni(e)
+nous sommes muni(e)s
+vous êtes muni(e)s
+ils (elles) sont muni(e)s
+
+** Imparfait
+
+j'étais muni(e)
+tu étais muni(e)
+il (elle) était muni(e)
+nous étions muni(e)s
+vous étiez muni(e)s
+ils (elles) étaient muni(e)s
+
+** Passé simple
+
+je fus muni(e)
+tu fus muni(e)
+il (elle) fut muni(e)
+nous fûmes muni(e)s
+vous fûtes muni(e)s
+ils (elles) furent muni(e)s
+
+** Futur simple
+
+je serai muni(e)
+tu seras muni(e)
+il (elle) sera muni(e)
+nous serons muni(e)s
+vous serez muni(e)s
+ils (elles) seront muni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais muni(e)
+tu serais muni(e)
+il (elle) serait muni(e)
+nous serions muni(e)s
+vous seriez muni(e)s
+ils (elles) seraient muni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois muni(e)
+que tu sois muni(e)
+qu’il (elle) soit muni(e)
+que nous soyons muni(e)s
+que vous soyez muni(e)s
+qu’ils (elles) soient muni(e)s
+
+** Imparfait
+
+que je fusse muni(e)
+que tu fusses muni(e)
+qu’il (elle) fût muni(e)
+que nous fussions muni(e)s
+que vous fussiez muni(e)s
+qu’ils (elles) fussent muni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons muni(e)s
+soyez muni(e)s
+
+* INFINITIF
+
+** Présent
+
+être muni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant muni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été muni(e)
+tu as été muni(e)
+il (elle) a été muni(e)
+nous avons été muni(e)s
+vous avez été muni(e)s
+ils (elles) ont été muni(e)s
+
+** Plus-que-parfait
+
+j'avais été muni(e)
+il (elle) avait été muni(e)
+nous avions été muni(e)s
+ils (elles) avaient été muni(e)s
+
+** Passé antérieur
+
+j'eus été muni(e)
+tu eus été muni(e)
+il (elle) eut été muni(e)
+nous eûmes été muni(e)s
+vous eûtes été muni(e)s
+ils (elles) eurent été muni(e)s
+
+** Futur antérieur
+
+j'aurai été muni(e)
+tu auras été muni(e)
+il (elle) aura été muni(e)
+nous aurons été muni(e)s
+vous aurez été muni(e)s
+ils (elles) auront été muni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été muni(e)
+j'aurais été muni(e)
+il (elle) aurait été muni(e)
+nous aurions été muni(e)s
+vous auriez été muni(e)s
+ils (elles) auraient été muni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été muni(e)
+que tu aies été muni(e)
+qu’il (elle) ait été muni(e)
+que nous ayons été muni(e)s
+que vous ayez été muni(e)s
+qu’ils (elles) aient été muni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été muni(e)
+que tu eusses été muni(e)
+qu’il (elle) eût été muni(e)
+que nous eussions été muni(e)s
+que vous eussiez été muni(e)s
+qu’ils (elles) eussent été muni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été muni(e)
+ayons été muni(e)s
+ayez été muni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été muni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été muni(e)(s)

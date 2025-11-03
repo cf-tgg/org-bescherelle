@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fondre
+
+* INDICATIF
+
+** Présent
+
+je fonds
+tu fonds
+il (elle) fond
+nous fondons
+vous fondez
+ils (elles) fondent
+
+** Imparfait
+
+je fondais
+tu fondais
+il (elle) fondait
+nous fondions
+vous fondiez
+ils (elles) fondaient
+
+** Passé simple
+
+je fondis
+tu fondis
+il (elle) fondit
+nous fondîmes
+vous fondîtes
+ils (elles) fondirent
+
+** Futur simple
+
+je fondrai
+tu fondras
+il (elle) fondra
+nous fondrons
+vous fondrez
+ils (elles) fondront
+
+* CONDITIONNEL
+
+** Présent
+
+je fondrais
+tu fondrais
+il (elle) fondrait
+nous fondrions
+vous fondriez
+ils (elles) fondraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fonde
+que tu fondes
+qu’il (elle) fonde
+que nous fondions
+que vous fondiez
+qu’ils (elles) fondent
+
+** Imparfait
+
+que je fondisse
+que tu fondisses
+qu’il (elle) fondît
+que nous fondissions
+que vous fondissiez
+qu’ils (elles) fondissent
+
+* IMPÉRATIF
+
+** Présent
+
+fonds
+fondons
+fondez
+
+* INFINITIF
+
+** Présent
+
+fondre
+
+* PARTICIPE
+
+** Présent
+
+fondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fondu
+tu as fondu
+il (elle) a fondu
+nous avons fondu
+vous avez fondu
+ils (elles) ont fondu
+
+** Plus-que-parfait
+
+j'avais fondu
+tu avais fondu
+il (elle) avait fondu
+nous avions fondu
+vous aviez fondu
+ils (elles) avaient fondu
+
+** Passé antérieur
+
+j'eus fondu
+tu eus fondu
+il (elle) eut fondu
+nous eûmes fondu
+vous eûtes fondu
+ils (elles) eurent fondu
+
+** Futur antérieur
+
+j'aurai fondu
+tu auras fondu
+il (elle) aura fondu
+nous aurons fondu
+vous aurez fondu
+ils (elles) auront fondu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fondu
+tu aurais fondu
+il (elle) aurait fondu
+nous aurions fondu
+vous auriez fondu
+ils (elles) auraient fondu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fondu
+que tu aies fondu
+qu’il (elle) ait fondu
+que nous ayons fondu
+que vous ayez fondu
+qu’ils (elles) aient fondu
+
+** Plus-que-parfait
+
+que j'eusse fondu
+que tu eusses fondu
+qu’il (elle) eût fondu
+que nous eussions fondu
+que vous eussiez fondu
+qu’ils (elles) eussent fondu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fondu
+ayez fondu
+
+* INFINITIF
+
+** Passé
+
+avoir fondu
+
+* PARTICIPE
+
+** Passé
+
+ayant fondu
+fondu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis fondu(e)
+tu es fondu(e)
+il (elle) est fondu(e)
+nous sommes fondu(e)s
+vous êtes fondu(e)s
+ils (elles) sont fondu(e)s
+
+** Imparfait
+
+j'étais fondu(e)
+tu étais fondu(e)
+il (elle) était fondu(e)
+nous étions fondu(e)s
+vous étiez fondu(e)s
+ils (elles) étaient fondu(e)s
+
+** Passé simple
+
+je fus fondu(e)
+tu fus fondu(e)
+il (elle) fut fondu(e)
+nous fûmes fondu(e)s
+vous fûtes fondu(e)s
+ils (elles) furent fondu(e)s
+
+** Futur simple
+
+je serai fondu(e)
+tu seras fondu(e)
+il (elle) sera fondu(e)
+nous serons fondu(e)s
+vous serez fondu(e)s
+ils (elles) seront fondu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fondu(e)
+tu serais fondu(e)
+il (elle) serait fondu(e)
+nous serions fondu(e)s
+vous seriez fondu(e)s
+ils (elles) seraient fondu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fondu(e)
+que tu sois fondu(e)
+qu’il (elle) soit fondu(e)
+que nous soyons fondu(e)s
+que vous soyez fondu(e)s
+qu’ils (elles) soient fondu(e)s
+
+** Imparfait
+
+que je fusse fondu(e)
+que tu fusses fondu(e)
+qu’il (elle) fût fondu(e)
+que nous fussions fondu(e)s
+que vous fussiez fondu(e)s
+qu’ils (elles) fussent fondu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fondu(e)s
+soyez fondu(e)s
+
+* INFINITIF
+
+** Présent
+
+être fondu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fondu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fondu(e)
+tu as été fondu(e)
+il (elle) a été fondu(e)
+nous avons été fondu(e)s
+vous avez été fondu(e)s
+ils (elles) ont été fondu(e)s
+
+** Plus-que-parfait
+
+j'avais été fondu(e)
+il (elle) avait été fondu(e)
+nous avions été fondu(e)s
+ils (elles) avaient été fondu(e)s
+
+** Passé antérieur
+
+j'eus été fondu(e)
+tu eus été fondu(e)
+il (elle) eut été fondu(e)
+nous eûmes été fondu(e)s
+vous eûtes été fondu(e)s
+ils (elles) eurent été fondu(e)s
+
+** Futur antérieur
+
+j'aurai été fondu(e)
+tu auras été fondu(e)
+il (elle) aura été fondu(e)
+nous aurons été fondu(e)s
+vous aurez été fondu(e)s
+ils (elles) auront été fondu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fondu(e)
+j'aurais été fondu(e)
+il (elle) aurait été fondu(e)
+nous aurions été fondu(e)s
+vous auriez été fondu(e)s
+ils (elles) auraient été fondu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fondu(e)
+que tu aies été fondu(e)
+qu’il (elle) ait été fondu(e)
+que nous ayons été fondu(e)s
+que vous ayez été fondu(e)s
+qu’ils (elles) aient été fondu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fondu(e)
+que tu eusses été fondu(e)
+qu’il (elle) eût été fondu(e)
+que nous eussions été fondu(e)s
+que vous eussiez été fondu(e)s
+qu’ils (elles) eussent été fondu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fondu(e)
+ayons été fondu(e)s
+ayez été fondu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fondu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fondu(e)(s)

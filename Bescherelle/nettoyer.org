@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nettoyer
+
+* INDICATIF
+
+** Présent
+
+je nettoie
+tu nettoies
+il (elle) nettoie
+nous nettoyons
+vous nettoyez
+ils (elles) nettoient
+
+** Imparfait
+
+je nettoyais
+tu nettoyais
+il (elle) nettoyait
+nous nettoyions
+vous nettoyiez
+ils (elles) nettoyaient
+
+** Passé simple
+
+je nettoyai
+tu nettoyas
+il (elle) nettoya
+nous nettoyâmes
+vous nettoyâtes
+ils (elles) nettoyèrent
+
+** Futur simple
+
+je nettoierai
+tu nettoieras
+il (elle) nettoiera
+nous nettoierons
+vous nettoierez
+ils (elles) nettoieront
+
+* CONDITIONNEL
+
+** Présent
+
+je nettoierais
+tu nettoierais
+il (elle) nettoierait
+nous nettoierions
+vous nettoieriez
+ils (elles) nettoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nettoie
+que tu nettoies
+qu’il (elle) nettoie
+que nous nettoyions
+que vous nettoyiez
+qu’ils (elles) nettoient
+
+** Imparfait
+
+que je nettoyasse
+que tu nettoyasses
+qu’il (elle) nettoyât
+que nous nettoyassions
+que vous nettoyassiez
+qu’ils (elles) nettoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+nettoie
+nettoyons
+nettoyez
+
+* INFINITIF
+
+** Présent
+
+nettoyer
+
+* PARTICIPE
+
+** Présent
+
+nettoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nettoyé
+tu as nettoyé
+il (elle) a nettoyé
+nous avons nettoyé
+vous avez nettoyé
+ils (elles) ont nettoyé
+
+** Plus-que-parfait
+
+j'avais nettoyé
+tu avais nettoyé
+il (elle) avait nettoyé
+nous avions nettoyé
+vous aviez nettoyé
+ils (elles) avaient nettoyé
+
+** Passé antérieur
+
+j'eus nettoyé
+tu eus nettoyé
+il (elle) eut nettoyé
+nous eûmes nettoyé
+vous eûtes nettoyé
+ils (elles) eurent nettoyé
+
+** Futur antérieur
+
+j'aurai nettoyé
+tu auras nettoyé
+il (elle) aura nettoyé
+nous aurons nettoyé
+vous aurez nettoyé
+ils (elles) auront nettoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nettoyé
+tu aurais nettoyé
+il (elle) aurait nettoyé
+nous aurions nettoyé
+vous auriez nettoyé
+ils (elles) auraient nettoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nettoyé
+que tu aies nettoyé
+qu’il (elle) ait nettoyé
+que nous ayons nettoyé
+que vous ayez nettoyé
+qu’ils (elles) aient nettoyé
+
+** Plus-que-parfait
+
+que j'eusse nettoyé
+que tu eusses nettoyé
+qu’il (elle) eût nettoyé
+que nous eussions nettoyé
+que vous eussiez nettoyé
+qu’ils (elles) eussent nettoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nettoyé
+ayez nettoyé
+
+* INFINITIF
+
+** Passé
+
+avoir nettoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant nettoyé
+nettoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nettoyé(e)
+tu es nettoyé(e)
+il (elle) est nettoyé(e)
+nous sommes nettoyé(e)s
+vous êtes nettoyé(e)s
+ils (elles) sont nettoyé(e)s
+
+** Imparfait
+
+j'étais nettoyé(e)
+tu étais nettoyé(e)
+il (elle) était nettoyé(e)
+nous étions nettoyé(e)s
+vous étiez nettoyé(e)s
+ils (elles) étaient nettoyé(e)s
+
+** Passé simple
+
+je fus nettoyé(e)
+tu fus nettoyé(e)
+il (elle) fut nettoyé(e)
+nous fûmes nettoyé(e)s
+vous fûtes nettoyé(e)s
+ils (elles) furent nettoyé(e)s
+
+** Futur simple
+
+je serai nettoyé(e)
+tu seras nettoyé(e)
+il (elle) sera nettoyé(e)
+nous serons nettoyé(e)s
+vous serez nettoyé(e)s
+ils (elles) seront nettoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nettoyé(e)
+tu serais nettoyé(e)
+il (elle) serait nettoyé(e)
+nous serions nettoyé(e)s
+vous seriez nettoyé(e)s
+ils (elles) seraient nettoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nettoyé(e)
+que tu sois nettoyé(e)
+qu’il (elle) soit nettoyé(e)
+que nous soyons nettoyé(e)s
+que vous soyez nettoyé(e)s
+qu’ils (elles) soient nettoyé(e)s
+
+** Imparfait
+
+que je fusse nettoyé(e)
+que tu fusses nettoyé(e)
+qu’il (elle) fût nettoyé(e)
+que nous fussions nettoyé(e)s
+que vous fussiez nettoyé(e)s
+qu’ils (elles) fussent nettoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nettoyé(e)s
+soyez nettoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être nettoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nettoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nettoyé(e)
+tu as été nettoyé(e)
+il (elle) a été nettoyé(e)
+nous avons été nettoyé(e)s
+vous avez été nettoyé(e)s
+ils (elles) ont été nettoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été nettoyé(e)
+il (elle) avait été nettoyé(e)
+nous avions été nettoyé(e)s
+ils (elles) avaient été nettoyé(e)s
+
+** Passé antérieur
+
+j'eus été nettoyé(e)
+tu eus été nettoyé(e)
+il (elle) eut été nettoyé(e)
+nous eûmes été nettoyé(e)s
+vous eûtes été nettoyé(e)s
+ils (elles) eurent été nettoyé(e)s
+
+** Futur antérieur
+
+j'aurai été nettoyé(e)
+tu auras été nettoyé(e)
+il (elle) aura été nettoyé(e)
+nous aurons été nettoyé(e)s
+vous aurez été nettoyé(e)s
+ils (elles) auront été nettoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nettoyé(e)
+j'aurais été nettoyé(e)
+il (elle) aurait été nettoyé(e)
+nous aurions été nettoyé(e)s
+vous auriez été nettoyé(e)s
+ils (elles) auraient été nettoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nettoyé(e)
+que tu aies été nettoyé(e)
+qu’il (elle) ait été nettoyé(e)
+que nous ayons été nettoyé(e)s
+que vous ayez été nettoyé(e)s
+qu’ils (elles) aient été nettoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nettoyé(e)
+que tu eusses été nettoyé(e)
+qu’il (elle) eût été nettoyé(e)
+que nous eussions été nettoyé(e)s
+que vous eussiez été nettoyé(e)s
+qu’ils (elles) eussent été nettoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nettoyé(e)
+ayons été nettoyé(e)s
+ayez été nettoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nettoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nettoyé(e)(s)

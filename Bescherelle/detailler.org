@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe detailler
+
+* INDICATIF
+
+** Présent
+
+je détaille
+tu détailles
+il (elle) détaille
+nous détaillons
+vous détaillez
+ils (elles) détaillent
+
+** Imparfait
+
+je détaillais
+tu détaillais
+il (elle) détaillait
+nous détaillions
+vous détailliez
+ils (elles) détaillaient
+
+** Passé simple
+
+je détaillai
+tu détaillas
+il (elle) détailla
+nous détaillâmes
+vous détaillâtes
+ils (elles) détaillèrent
+
+** Futur simple
+
+je détaillerai
+tu détailleras
+il (elle) détaillera
+nous détaillerons
+vous détaillerez
+ils (elles) détailleront
+
+* CONDITIONNEL
+
+** Présent
+
+je détaillerais
+tu détaillerais
+il (elle) détaillerait
+nous détaillerions
+vous détailleriez
+ils (elles) détailleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je détaille
+que tu détailles
+qu’il (elle) détaille
+que nous détaillions
+que vous détailliez
+qu’ils (elles) détaillent
+
+** Imparfait
+
+que je détaillasse
+que tu détaillasses
+qu’il (elle) détaillât
+que nous détaillassions
+que vous détaillassiez
+qu’ils (elles) détaillassent
+
+* IMPÉRATIF
+
+** Présent
+
+détaille
+détaillons
+détaillez
+
+* INFINITIF
+
+** Présent
+
+détailler
+
+* PARTICIPE
+
+** Présent
+
+détaillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détaillé
+tu as détaillé
+il (elle) a détaillé
+nous avons détaillé
+vous avez détaillé
+ils (elles) ont détaillé
+
+** Plus-que-parfait
+
+j'avais détaillé
+tu avais détaillé
+il (elle) avait détaillé
+nous avions détaillé
+vous aviez détaillé
+ils (elles) avaient détaillé
+
+** Passé antérieur
+
+j'eus détaillé
+tu eus détaillé
+il (elle) eut détaillé
+nous eûmes détaillé
+vous eûtes détaillé
+ils (elles) eurent détaillé
+
+** Futur antérieur
+
+j'aurai détaillé
+tu auras détaillé
+il (elle) aura détaillé
+nous aurons détaillé
+vous aurez détaillé
+ils (elles) auront détaillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détaillé
+tu aurais détaillé
+il (elle) aurait détaillé
+nous aurions détaillé
+vous auriez détaillé
+ils (elles) auraient détaillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détaillé
+que tu aies détaillé
+qu’il (elle) ait détaillé
+que nous ayons détaillé
+que vous ayez détaillé
+qu’ils (elles) aient détaillé
+
+** Plus-que-parfait
+
+que j'eusse détaillé
+que tu eusses détaillé
+qu’il (elle) eût détaillé
+que nous eussions détaillé
+que vous eussiez détaillé
+qu’ils (elles) eussent détaillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détaillé
+ayez détaillé
+
+* INFINITIF
+
+** Passé
+
+avoir détaillé
+
+* PARTICIPE
+
+** Passé
+
+ayant détaillé
+détaillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis détaillé(e)
+tu es détaillé(e)
+il (elle) est détaillé(e)
+nous sommes détaillé(e)s
+vous êtes détaillé(e)s
+ils (elles) sont détaillé(e)s
+
+** Imparfait
+
+j'étais détaillé(e)
+tu étais détaillé(e)
+il (elle) était détaillé(e)
+nous étions détaillé(e)s
+vous étiez détaillé(e)s
+ils (elles) étaient détaillé(e)s
+
+** Passé simple
+
+je fus détaillé(e)
+tu fus détaillé(e)
+il (elle) fut détaillé(e)
+nous fûmes détaillé(e)s
+vous fûtes détaillé(e)s
+ils (elles) furent détaillé(e)s
+
+** Futur simple
+
+je serai détaillé(e)
+tu seras détaillé(e)
+il (elle) sera détaillé(e)
+nous serons détaillé(e)s
+vous serez détaillé(e)s
+ils (elles) seront détaillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais détaillé(e)
+tu serais détaillé(e)
+il (elle) serait détaillé(e)
+nous serions détaillé(e)s
+vous seriez détaillé(e)s
+ils (elles) seraient détaillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois détaillé(e)
+que tu sois détaillé(e)
+qu’il (elle) soit détaillé(e)
+que nous soyons détaillé(e)s
+que vous soyez détaillé(e)s
+qu’ils (elles) soient détaillé(e)s
+
+** Imparfait
+
+que je fusse détaillé(e)
+que tu fusses détaillé(e)
+qu’il (elle) fût détaillé(e)
+que nous fussions détaillé(e)s
+que vous fussiez détaillé(e)s
+qu’ils (elles) fussent détaillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons détaillé(e)s
+soyez détaillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être détaillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant détaillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été détaillé(e)
+tu as été détaillé(e)
+il (elle) a été détaillé(e)
+nous avons été détaillé(e)s
+vous avez été détaillé(e)s
+ils (elles) ont été détaillé(e)s
+
+** Plus-que-parfait
+
+j'avais été détaillé(e)
+il (elle) avait été détaillé(e)
+nous avions été détaillé(e)s
+ils (elles) avaient été détaillé(e)s
+
+** Passé antérieur
+
+j'eus été détaillé(e)
+tu eus été détaillé(e)
+il (elle) eut été détaillé(e)
+nous eûmes été détaillé(e)s
+vous eûtes été détaillé(e)s
+ils (elles) eurent été détaillé(e)s
+
+** Futur antérieur
+
+j'aurai été détaillé(e)
+tu auras été détaillé(e)
+il (elle) aura été détaillé(e)
+nous aurons été détaillé(e)s
+vous aurez été détaillé(e)s
+ils (elles) auront été détaillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été détaillé(e)
+j'aurais été détaillé(e)
+il (elle) aurait été détaillé(e)
+nous aurions été détaillé(e)s
+vous auriez été détaillé(e)s
+ils (elles) auraient été détaillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été détaillé(e)
+que tu aies été détaillé(e)
+qu’il (elle) ait été détaillé(e)
+que nous ayons été détaillé(e)s
+que vous ayez été détaillé(e)s
+qu’ils (elles) aient été détaillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été détaillé(e)
+que tu eusses été détaillé(e)
+qu’il (elle) eût été détaillé(e)
+que nous eussions été détaillé(e)s
+que vous eussiez été détaillé(e)s
+qu’ils (elles) eussent été détaillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été détaillé(e)
+ayons été détaillé(e)s
+ayez été détaillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été détaillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été détaillé(e)(s)

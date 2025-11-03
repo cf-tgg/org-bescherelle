@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe croquer
+
+* INDICATIF
+
+** Présent
+
+je croque
+tu croques
+il (elle) croque
+nous croquons
+vous croquez
+ils (elles) croquent
+
+** Imparfait
+
+je croquais
+tu croquais
+il (elle) croquait
+nous croquions
+vous croquiez
+ils (elles) croquaient
+
+** Passé simple
+
+je croquai
+tu croquas
+il (elle) croqua
+nous croquâmes
+vous croquâtes
+ils (elles) croquèrent
+
+** Futur simple
+
+je croquerai
+tu croqueras
+il (elle) croquera
+nous croquerons
+vous croquerez
+ils (elles) croqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je croquerais
+tu croquerais
+il (elle) croquerait
+nous croquerions
+vous croqueriez
+ils (elles) croqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je croque
+que tu croques
+qu’il (elle) croque
+que nous croquions
+que vous croquiez
+qu’ils (elles) croquent
+
+** Imparfait
+
+que je croquasse
+que tu croquasses
+qu’il (elle) croquât
+que nous croquassions
+que vous croquassiez
+qu’ils (elles) croquassent
+
+* IMPÉRATIF
+
+** Présent
+
+croque
+croquons
+croquez
+
+* INFINITIF
+
+** Présent
+
+croquer
+
+* PARTICIPE
+
+** Présent
+
+croquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai croqué
+tu as croqué
+il (elle) a croqué
+nous avons croqué
+vous avez croqué
+ils (elles) ont croqué
+
+** Plus-que-parfait
+
+j'avais croqué
+tu avais croqué
+il (elle) avait croqué
+nous avions croqué
+vous aviez croqué
+ils (elles) avaient croqué
+
+** Passé antérieur
+
+j'eus croqué
+tu eus croqué
+il (elle) eut croqué
+nous eûmes croqué
+vous eûtes croqué
+ils (elles) eurent croqué
+
+** Futur antérieur
+
+j'aurai croqué
+tu auras croqué
+il (elle) aura croqué
+nous aurons croqué
+vous aurez croqué
+ils (elles) auront croqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais croqué
+tu aurais croqué
+il (elle) aurait croqué
+nous aurions croqué
+vous auriez croqué
+ils (elles) auraient croqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie croqué
+que tu aies croqué
+qu’il (elle) ait croqué
+que nous ayons croqué
+que vous ayez croqué
+qu’ils (elles) aient croqué
+
+** Plus-que-parfait
+
+que j'eusse croqué
+que tu eusses croqué
+qu’il (elle) eût croqué
+que nous eussions croqué
+que vous eussiez croqué
+qu’ils (elles) eussent croqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons croqué
+ayez croqué
+
+* INFINITIF
+
+** Passé
+
+avoir croqué
+
+* PARTICIPE
+
+** Passé
+
+ayant croqué
+croqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis croqué(e)
+tu es croqué(e)
+il (elle) est croqué(e)
+nous sommes croqué(e)s
+vous êtes croqué(e)s
+ils (elles) sont croqué(e)s
+
+** Imparfait
+
+j'étais croqué(e)
+tu étais croqué(e)
+il (elle) était croqué(e)
+nous étions croqué(e)s
+vous étiez croqué(e)s
+ils (elles) étaient croqué(e)s
+
+** Passé simple
+
+je fus croqué(e)
+tu fus croqué(e)
+il (elle) fut croqué(e)
+nous fûmes croqué(e)s
+vous fûtes croqué(e)s
+ils (elles) furent croqué(e)s
+
+** Futur simple
+
+je serai croqué(e)
+tu seras croqué(e)
+il (elle) sera croqué(e)
+nous serons croqué(e)s
+vous serez croqué(e)s
+ils (elles) seront croqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais croqué(e)
+tu serais croqué(e)
+il (elle) serait croqué(e)
+nous serions croqué(e)s
+vous seriez croqué(e)s
+ils (elles) seraient croqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois croqué(e)
+que tu sois croqué(e)
+qu’il (elle) soit croqué(e)
+que nous soyons croqué(e)s
+que vous soyez croqué(e)s
+qu’ils (elles) soient croqué(e)s
+
+** Imparfait
+
+que je fusse croqué(e)
+que tu fusses croqué(e)
+qu’il (elle) fût croqué(e)
+que nous fussions croqué(e)s
+que vous fussiez croqué(e)s
+qu’ils (elles) fussent croqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons croqué(e)s
+soyez croqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être croqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant croqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été croqué(e)
+tu as été croqué(e)
+il (elle) a été croqué(e)
+nous avons été croqué(e)s
+vous avez été croqué(e)s
+ils (elles) ont été croqué(e)s
+
+** Plus-que-parfait
+
+j'avais été croqué(e)
+il (elle) avait été croqué(e)
+nous avions été croqué(e)s
+ils (elles) avaient été croqué(e)s
+
+** Passé antérieur
+
+j'eus été croqué(e)
+tu eus été croqué(e)
+il (elle) eut été croqué(e)
+nous eûmes été croqué(e)s
+vous eûtes été croqué(e)s
+ils (elles) eurent été croqué(e)s
+
+** Futur antérieur
+
+j'aurai été croqué(e)
+tu auras été croqué(e)
+il (elle) aura été croqué(e)
+nous aurons été croqué(e)s
+vous aurez été croqué(e)s
+ils (elles) auront été croqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été croqué(e)
+j'aurais été croqué(e)
+il (elle) aurait été croqué(e)
+nous aurions été croqué(e)s
+vous auriez été croqué(e)s
+ils (elles) auraient été croqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été croqué(e)
+que tu aies été croqué(e)
+qu’il (elle) ait été croqué(e)
+que nous ayons été croqué(e)s
+que vous ayez été croqué(e)s
+qu’ils (elles) aient été croqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été croqué(e)
+que tu eusses été croqué(e)
+qu’il (elle) eût été croqué(e)
+que nous eussions été croqué(e)s
+que vous eussiez été croqué(e)s
+qu’ils (elles) eussent été croqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été croqué(e)
+ayons été croqué(e)s
+ayez été croqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été croqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été croqué(e)(s)

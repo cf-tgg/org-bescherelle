@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convier
+
+* INDICATIF
+
+** Présent
+
+je convie
+tu convies
+il (elle) convie
+nous convions
+vous conviez
+ils (elles) convient
+
+** Imparfait
+
+je conviais
+tu conviais
+il (elle) conviait
+nous conviions
+vous conviiez
+ils (elles) conviaient
+
+** Passé simple
+
+je conviai
+tu convias
+il (elle) convia
+nous conviâmes
+vous conviâtes
+ils (elles) convièrent
+
+** Futur simple
+
+je convierai
+tu convieras
+il (elle) conviera
+nous convierons
+vous convierez
+ils (elles) convieront
+
+* CONDITIONNEL
+
+** Présent
+
+je convierais
+tu convierais
+il (elle) convierait
+nous convierions
+vous convieriez
+ils (elles) convieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convie
+que tu convies
+qu’il (elle) convie
+que nous conviions
+que vous conviiez
+qu’ils (elles) convient
+
+** Imparfait
+
+que je conviasse
+que tu conviasses
+qu’il (elle) conviât
+que nous conviassions
+que vous conviassiez
+qu’ils (elles) conviassent
+
+* IMPÉRATIF
+
+** Présent
+
+convie
+convions
+conviez
+
+* INFINITIF
+
+** Présent
+
+convier
+
+* PARTICIPE
+
+** Présent
+
+conviant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai convié
+tu as convié
+il (elle) a convié
+nous avons convié
+vous avez convié
+ils (elles) ont convié
+
+** Plus-que-parfait
+
+j'avais convié
+tu avais convié
+il (elle) avait convié
+nous avions convié
+vous aviez convié
+ils (elles) avaient convié
+
+** Passé antérieur
+
+j'eus convié
+tu eus convié
+il (elle) eut convié
+nous eûmes convié
+vous eûtes convié
+ils (elles) eurent convié
+
+** Futur antérieur
+
+j'aurai convié
+tu auras convié
+il (elle) aura convié
+nous aurons convié
+vous aurez convié
+ils (elles) auront convié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais convié
+tu aurais convié
+il (elle) aurait convié
+nous aurions convié
+vous auriez convié
+ils (elles) auraient convié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie convié
+que tu aies convié
+qu’il (elle) ait convié
+que nous ayons convié
+que vous ayez convié
+qu’ils (elles) aient convié
+
+** Plus-que-parfait
+
+que j'eusse convié
+que tu eusses convié
+qu’il (elle) eût convié
+que nous eussions convié
+que vous eussiez convié
+qu’ils (elles) eussent convié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons convié
+ayez convié
+
+* INFINITIF
+
+** Passé
+
+avoir convié
+
+* PARTICIPE
+
+** Passé
+
+ayant convié
+convié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis convié(e)
+tu es convié(e)
+il (elle) est convié(e)
+nous sommes convié(e)s
+vous êtes convié(e)s
+ils (elles) sont convié(e)s
+
+** Imparfait
+
+j'étais convié(e)
+tu étais convié(e)
+il (elle) était convié(e)
+nous étions convié(e)s
+vous étiez convié(e)s
+ils (elles) étaient convié(e)s
+
+** Passé simple
+
+je fus convié(e)
+tu fus convié(e)
+il (elle) fut convié(e)
+nous fûmes convié(e)s
+vous fûtes convié(e)s
+ils (elles) furent convié(e)s
+
+** Futur simple
+
+je serai convié(e)
+tu seras convié(e)
+il (elle) sera convié(e)
+nous serons convié(e)s
+vous serez convié(e)s
+ils (elles) seront convié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais convié(e)
+tu serais convié(e)
+il (elle) serait convié(e)
+nous serions convié(e)s
+vous seriez convié(e)s
+ils (elles) seraient convié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois convié(e)
+que tu sois convié(e)
+qu’il (elle) soit convié(e)
+que nous soyons convié(e)s
+que vous soyez convié(e)s
+qu’ils (elles) soient convié(e)s
+
+** Imparfait
+
+que je fusse convié(e)
+que tu fusses convié(e)
+qu’il (elle) fût convié(e)
+que nous fussions convié(e)s
+que vous fussiez convié(e)s
+qu’ils (elles) fussent convié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons convié(e)s
+soyez convié(e)s
+
+* INFINITIF
+
+** Présent
+
+être convié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant convié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été convié(e)
+tu as été convié(e)
+il (elle) a été convié(e)
+nous avons été convié(e)s
+vous avez été convié(e)s
+ils (elles) ont été convié(e)s
+
+** Plus-que-parfait
+
+j'avais été convié(e)
+il (elle) avait été convié(e)
+nous avions été convié(e)s
+ils (elles) avaient été convié(e)s
+
+** Passé antérieur
+
+j'eus été convié(e)
+tu eus été convié(e)
+il (elle) eut été convié(e)
+nous eûmes été convié(e)s
+vous eûtes été convié(e)s
+ils (elles) eurent été convié(e)s
+
+** Futur antérieur
+
+j'aurai été convié(e)
+tu auras été convié(e)
+il (elle) aura été convié(e)
+nous aurons été convié(e)s
+vous aurez été convié(e)s
+ils (elles) auront été convié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été convié(e)
+j'aurais été convié(e)
+il (elle) aurait été convié(e)
+nous aurions été convié(e)s
+vous auriez été convié(e)s
+ils (elles) auraient été convié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été convié(e)
+que tu aies été convié(e)
+qu’il (elle) ait été convié(e)
+que nous ayons été convié(e)s
+que vous ayez été convié(e)s
+qu’ils (elles) aient été convié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été convié(e)
+que tu eusses été convié(e)
+qu’il (elle) eût été convié(e)
+que nous eussions été convié(e)s
+que vous eussiez été convié(e)s
+qu’ils (elles) eussent été convié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été convié(e)
+ayons été convié(e)s
+ayez été convié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été convié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été convié(e)(s)

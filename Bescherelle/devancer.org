@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe devancer
+
+* INDICATIF
+
+** Présent
+
+je devance
+tu devances
+il (elle) devance
+nous devançons
+vous devancez
+ils (elles) devancent
+
+** Imparfait
+
+je devançais
+tu devançais
+il (elle) devançait
+nous devancions
+vous devanciez
+ils (elles) devançaient
+
+** Passé simple
+
+je devançai
+tu devanças
+il (elle) devança
+nous devançâmes
+vous devançâtes
+ils (elles) devancèrent
+
+** Futur simple
+
+je devancerai
+tu devanceras
+il (elle) devancera
+nous devancerons
+vous devancerez
+ils (elles) devanceront
+
+* CONDITIONNEL
+
+** Présent
+
+je devancerais
+tu devancerais
+il (elle) devancerait
+nous devancerions
+vous devanceriez
+ils (elles) devanceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je devance
+que tu devances
+qu’il (elle) devance
+que nous devancions
+que vous devanciez
+qu’ils (elles) devancent
+
+** Imparfait
+
+que je devançasse
+que tu devançasses
+qu’il (elle) devançât
+que nous devançassions
+que vous devançassiez
+qu’ils (elles) devançassent
+
+* IMPÉRATIF
+
+** Présent
+
+devance
+devançons
+devancez
+
+* INFINITIF
+
+** Présent
+
+devancer
+
+* PARTICIPE
+
+** Présent
+
+devançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai devancé
+tu as devancé
+il (elle) a devancé
+nous avons devancé
+vous avez devancé
+ils (elles) ont devancé
+
+** Plus-que-parfait
+
+j'avais devancé
+tu avais devancé
+il (elle) avait devancé
+nous avions devancé
+vous aviez devancé
+ils (elles) avaient devancé
+
+** Passé antérieur
+
+j'eus devancé
+tu eus devancé
+il (elle) eut devancé
+nous eûmes devancé
+vous eûtes devancé
+ils (elles) eurent devancé
+
+** Futur antérieur
+
+j'aurai devancé
+tu auras devancé
+il (elle) aura devancé
+nous aurons devancé
+vous aurez devancé
+ils (elles) auront devancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais devancé
+tu aurais devancé
+il (elle) aurait devancé
+nous aurions devancé
+vous auriez devancé
+ils (elles) auraient devancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie devancé
+que tu aies devancé
+qu’il (elle) ait devancé
+que nous ayons devancé
+que vous ayez devancé
+qu’ils (elles) aient devancé
+
+** Plus-que-parfait
+
+que j'eusse devancé
+que tu eusses devancé
+qu’il (elle) eût devancé
+que nous eussions devancé
+que vous eussiez devancé
+qu’ils (elles) eussent devancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons devancé
+ayez devancé
+
+* INFINITIF
+
+** Passé
+
+avoir devancé
+
+* PARTICIPE
+
+** Passé
+
+ayant devancé
+devancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis devancé(e)
+tu es devancé(e)
+il (elle) est devancé(e)
+nous sommes devancé(e)s
+vous êtes devancé(e)s
+ils (elles) sont devancé(e)s
+
+** Imparfait
+
+j'étais devancé(e)
+tu étais devancé(e)
+il (elle) était devancé(e)
+nous étions devancé(e)s
+vous étiez devancé(e)s
+ils (elles) étaient devancé(e)s
+
+** Passé simple
+
+je fus devancé(e)
+tu fus devancé(e)
+il (elle) fut devancé(e)
+nous fûmes devancé(e)s
+vous fûtes devancé(e)s
+ils (elles) furent devancé(e)s
+
+** Futur simple
+
+je serai devancé(e)
+tu seras devancé(e)
+il (elle) sera devancé(e)
+nous serons devancé(e)s
+vous serez devancé(e)s
+ils (elles) seront devancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais devancé(e)
+tu serais devancé(e)
+il (elle) serait devancé(e)
+nous serions devancé(e)s
+vous seriez devancé(e)s
+ils (elles) seraient devancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois devancé(e)
+que tu sois devancé(e)
+qu’il (elle) soit devancé(e)
+que nous soyons devancé(e)s
+que vous soyez devancé(e)s
+qu’ils (elles) soient devancé(e)s
+
+** Imparfait
+
+que je fusse devancé(e)
+que tu fusses devancé(e)
+qu’il (elle) fût devancé(e)
+que nous fussions devancé(e)s
+que vous fussiez devancé(e)s
+qu’ils (elles) fussent devancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons devancé(e)s
+soyez devancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être devancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant devancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été devancé(e)
+tu as été devancé(e)
+il (elle) a été devancé(e)
+nous avons été devancé(e)s
+vous avez été devancé(e)s
+ils (elles) ont été devancé(e)s
+
+** Plus-que-parfait
+
+j'avais été devancé(e)
+il (elle) avait été devancé(e)
+nous avions été devancé(e)s
+ils (elles) avaient été devancé(e)s
+
+** Passé antérieur
+
+j'eus été devancé(e)
+tu eus été devancé(e)
+il (elle) eut été devancé(e)
+nous eûmes été devancé(e)s
+vous eûtes été devancé(e)s
+ils (elles) eurent été devancé(e)s
+
+** Futur antérieur
+
+j'aurai été devancé(e)
+tu auras été devancé(e)
+il (elle) aura été devancé(e)
+nous aurons été devancé(e)s
+vous aurez été devancé(e)s
+ils (elles) auront été devancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été devancé(e)
+j'aurais été devancé(e)
+il (elle) aurait été devancé(e)
+nous aurions été devancé(e)s
+vous auriez été devancé(e)s
+ils (elles) auraient été devancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été devancé(e)
+que tu aies été devancé(e)
+qu’il (elle) ait été devancé(e)
+que nous ayons été devancé(e)s
+que vous ayez été devancé(e)s
+qu’ils (elles) aient été devancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été devancé(e)
+que tu eusses été devancé(e)
+qu’il (elle) eût été devancé(e)
+que nous eussions été devancé(e)s
+que vous eussiez été devancé(e)s
+qu’ils (elles) eussent été devancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été devancé(e)
+ayons été devancé(e)s
+ayez été devancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été devancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été devancé(e)(s)

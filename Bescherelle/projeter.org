@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe projeter
+
+* INDICATIF
+
+** Présent
+
+je projette
+tu projettes
+il (elle) projette
+nous projetons
+vous projetez
+ils (elles) projettent
+
+** Imparfait
+
+je projetais
+tu projetais
+il (elle) projetait
+nous projetions
+vous projetiez
+ils (elles) projetaient
+
+** Passé simple
+
+je projetai
+tu projetas
+il (elle) projeta
+nous projetâmes
+vous projetâtes
+ils (elles) projetèrent
+
+** Futur simple
+
+je projetterai
+tu projetteras
+il (elle) projettera
+nous projetterons
+vous projetterez
+ils (elles) projetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je projetterais
+tu projetterais
+il (elle) projetterait
+nous projetterions
+vous projetteriez
+ils (elles) projetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je projette
+que tu projettes
+qu’il (elle) projette
+que nous projetions
+que vous projetiez
+qu’ils (elles) projettent
+
+** Imparfait
+
+que je projetasse
+que tu projetasses
+qu’il (elle) projetât
+que nous projetassions
+que vous projetassiez
+qu’ils (elles) projetassent
+
+* IMPÉRATIF
+
+** Présent
+
+projette
+projetons
+projetez
+
+* INFINITIF
+
+** Présent
+
+projeter
+
+* PARTICIPE
+
+** Présent
+
+projetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai projeté
+tu as projeté
+il (elle) a projeté
+nous avons projeté
+vous avez projeté
+ils (elles) ont projeté
+
+** Plus-que-parfait
+
+j'avais projeté
+tu avais projeté
+il (elle) avait projeté
+nous avions projeté
+vous aviez projeté
+ils (elles) avaient projeté
+
+** Passé antérieur
+
+j'eus projeté
+tu eus projeté
+il (elle) eut projeté
+nous eûmes projeté
+vous eûtes projeté
+ils (elles) eurent projeté
+
+** Futur antérieur
+
+j'aurai projeté
+tu auras projeté
+il (elle) aura projeté
+nous aurons projeté
+vous aurez projeté
+ils (elles) auront projeté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais projeté
+tu aurais projeté
+il (elle) aurait projeté
+nous aurions projeté
+vous auriez projeté
+ils (elles) auraient projeté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie projeté
+que tu aies projeté
+qu’il (elle) ait projeté
+que nous ayons projeté
+que vous ayez projeté
+qu’ils (elles) aient projeté
+
+** Plus-que-parfait
+
+que j'eusse projeté
+que tu eusses projeté
+qu’il (elle) eût projeté
+que nous eussions projeté
+que vous eussiez projeté
+qu’ils (elles) eussent projeté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons projeté
+ayez projeté
+
+* INFINITIF
+
+** Passé
+
+avoir projeté
+
+* PARTICIPE
+
+** Passé
+
+ayant projeté
+projeté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis projeté(e)
+tu es projeté(e)
+il (elle) est projeté(e)
+nous sommes projeté(e)s
+vous êtes projeté(e)s
+ils (elles) sont projeté(e)s
+
+** Imparfait
+
+j'étais projeté(e)
+tu étais projeté(e)
+il (elle) était projeté(e)
+nous étions projeté(e)s
+vous étiez projeté(e)s
+ils (elles) étaient projeté(e)s
+
+** Passé simple
+
+je fus projeté(e)
+tu fus projeté(e)
+il (elle) fut projeté(e)
+nous fûmes projeté(e)s
+vous fûtes projeté(e)s
+ils (elles) furent projeté(e)s
+
+** Futur simple
+
+je serai projeté(e)
+tu seras projeté(e)
+il (elle) sera projeté(e)
+nous serons projeté(e)s
+vous serez projeté(e)s
+ils (elles) seront projeté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais projeté(e)
+tu serais projeté(e)
+il (elle) serait projeté(e)
+nous serions projeté(e)s
+vous seriez projeté(e)s
+ils (elles) seraient projeté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois projeté(e)
+que tu sois projeté(e)
+qu’il (elle) soit projeté(e)
+que nous soyons projeté(e)s
+que vous soyez projeté(e)s
+qu’ils (elles) soient projeté(e)s
+
+** Imparfait
+
+que je fusse projeté(e)
+que tu fusses projeté(e)
+qu’il (elle) fût projeté(e)
+que nous fussions projeté(e)s
+que vous fussiez projeté(e)s
+qu’ils (elles) fussent projeté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons projeté(e)s
+soyez projeté(e)s
+
+* INFINITIF
+
+** Présent
+
+être projeté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant projeté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été projeté(e)
+tu as été projeté(e)
+il (elle) a été projeté(e)
+nous avons été projeté(e)s
+vous avez été projeté(e)s
+ils (elles) ont été projeté(e)s
+
+** Plus-que-parfait
+
+j'avais été projeté(e)
+il (elle) avait été projeté(e)
+nous avions été projeté(e)s
+ils (elles) avaient été projeté(e)s
+
+** Passé antérieur
+
+j'eus été projeté(e)
+tu eus été projeté(e)
+il (elle) eut été projeté(e)
+nous eûmes été projeté(e)s
+vous eûtes été projeté(e)s
+ils (elles) eurent été projeté(e)s
+
+** Futur antérieur
+
+j'aurai été projeté(e)
+tu auras été projeté(e)
+il (elle) aura été projeté(e)
+nous aurons été projeté(e)s
+vous aurez été projeté(e)s
+ils (elles) auront été projeté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été projeté(e)
+j'aurais été projeté(e)
+il (elle) aurait été projeté(e)
+nous aurions été projeté(e)s
+vous auriez été projeté(e)s
+ils (elles) auraient été projeté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été projeté(e)
+que tu aies été projeté(e)
+qu’il (elle) ait été projeté(e)
+que nous ayons été projeté(e)s
+que vous ayez été projeté(e)s
+qu’ils (elles) aient été projeté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été projeté(e)
+que tu eusses été projeté(e)
+qu’il (elle) eût été projeté(e)
+que nous eussions été projeté(e)s
+que vous eussiez été projeté(e)s
+qu’ils (elles) eussent été projeté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été projeté(e)
+ayons été projeté(e)s
+ayez été projeté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été projeté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été projeté(e)(s)

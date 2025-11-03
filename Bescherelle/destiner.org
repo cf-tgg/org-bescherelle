@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe destiner
+
+* INDICATIF
+
+** Présent
+
+je destine
+tu destines
+il (elle) destine
+nous destinons
+vous destinez
+ils (elles) destinent
+
+** Imparfait
+
+je destinais
+tu destinais
+il (elle) destinait
+nous destinions
+vous destiniez
+ils (elles) destinaient
+
+** Passé simple
+
+je destinai
+tu destinas
+il (elle) destina
+nous destinâmes
+vous destinâtes
+ils (elles) destinèrent
+
+** Futur simple
+
+je destinerai
+tu destineras
+il (elle) destinera
+nous destinerons
+vous destinerez
+ils (elles) destineront
+
+* CONDITIONNEL
+
+** Présent
+
+je destinerais
+tu destinerais
+il (elle) destinerait
+nous destinerions
+vous destineriez
+ils (elles) destineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je destine
+que tu destines
+qu’il (elle) destine
+que nous destinions
+que vous destiniez
+qu’ils (elles) destinent
+
+** Imparfait
+
+que je destinasse
+que tu destinasses
+qu’il (elle) destinât
+que nous destinassions
+que vous destinassiez
+qu’ils (elles) destinassent
+
+* IMPÉRATIF
+
+** Présent
+
+destine
+destinons
+destinez
+
+* INFINITIF
+
+** Présent
+
+destiner
+
+* PARTICIPE
+
+** Présent
+
+destinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai destiné
+tu as destiné
+il (elle) a destiné
+nous avons destiné
+vous avez destiné
+ils (elles) ont destiné
+
+** Plus-que-parfait
+
+j'avais destiné
+tu avais destiné
+il (elle) avait destiné
+nous avions destiné
+vous aviez destiné
+ils (elles) avaient destiné
+
+** Passé antérieur
+
+j'eus destiné
+tu eus destiné
+il (elle) eut destiné
+nous eûmes destiné
+vous eûtes destiné
+ils (elles) eurent destiné
+
+** Futur antérieur
+
+j'aurai destiné
+tu auras destiné
+il (elle) aura destiné
+nous aurons destiné
+vous aurez destiné
+ils (elles) auront destiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais destiné
+tu aurais destiné
+il (elle) aurait destiné
+nous aurions destiné
+vous auriez destiné
+ils (elles) auraient destiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie destiné
+que tu aies destiné
+qu’il (elle) ait destiné
+que nous ayons destiné
+que vous ayez destiné
+qu’ils (elles) aient destiné
+
+** Plus-que-parfait
+
+que j'eusse destiné
+que tu eusses destiné
+qu’il (elle) eût destiné
+que nous eussions destiné
+que vous eussiez destiné
+qu’ils (elles) eussent destiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons destiné
+ayez destiné
+
+* INFINITIF
+
+** Passé
+
+avoir destiné
+
+* PARTICIPE
+
+** Passé
+
+ayant destiné
+destiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis destiné(e)
+tu es destiné(e)
+il (elle) est destiné(e)
+nous sommes destiné(e)s
+vous êtes destiné(e)s
+ils (elles) sont destiné(e)s
+
+** Imparfait
+
+j'étais destiné(e)
+tu étais destiné(e)
+il (elle) était destiné(e)
+nous étions destiné(e)s
+vous étiez destiné(e)s
+ils (elles) étaient destiné(e)s
+
+** Passé simple
+
+je fus destiné(e)
+tu fus destiné(e)
+il (elle) fut destiné(e)
+nous fûmes destiné(e)s
+vous fûtes destiné(e)s
+ils (elles) furent destiné(e)s
+
+** Futur simple
+
+je serai destiné(e)
+tu seras destiné(e)
+il (elle) sera destiné(e)
+nous serons destiné(e)s
+vous serez destiné(e)s
+ils (elles) seront destiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais destiné(e)
+tu serais destiné(e)
+il (elle) serait destiné(e)
+nous serions destiné(e)s
+vous seriez destiné(e)s
+ils (elles) seraient destiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois destiné(e)
+que tu sois destiné(e)
+qu’il (elle) soit destiné(e)
+que nous soyons destiné(e)s
+que vous soyez destiné(e)s
+qu’ils (elles) soient destiné(e)s
+
+** Imparfait
+
+que je fusse destiné(e)
+que tu fusses destiné(e)
+qu’il (elle) fût destiné(e)
+que nous fussions destiné(e)s
+que vous fussiez destiné(e)s
+qu’ils (elles) fussent destiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons destiné(e)s
+soyez destiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être destiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant destiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été destiné(e)
+tu as été destiné(e)
+il (elle) a été destiné(e)
+nous avons été destiné(e)s
+vous avez été destiné(e)s
+ils (elles) ont été destiné(e)s
+
+** Plus-que-parfait
+
+j'avais été destiné(e)
+il (elle) avait été destiné(e)
+nous avions été destiné(e)s
+ils (elles) avaient été destiné(e)s
+
+** Passé antérieur
+
+j'eus été destiné(e)
+tu eus été destiné(e)
+il (elle) eut été destiné(e)
+nous eûmes été destiné(e)s
+vous eûtes été destiné(e)s
+ils (elles) eurent été destiné(e)s
+
+** Futur antérieur
+
+j'aurai été destiné(e)
+tu auras été destiné(e)
+il (elle) aura été destiné(e)
+nous aurons été destiné(e)s
+vous aurez été destiné(e)s
+ils (elles) auront été destiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été destiné(e)
+j'aurais été destiné(e)
+il (elle) aurait été destiné(e)
+nous aurions été destiné(e)s
+vous auriez été destiné(e)s
+ils (elles) auraient été destiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été destiné(e)
+que tu aies été destiné(e)
+qu’il (elle) ait été destiné(e)
+que nous ayons été destiné(e)s
+que vous ayez été destiné(e)s
+qu’ils (elles) aient été destiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été destiné(e)
+que tu eusses été destiné(e)
+qu’il (elle) eût été destiné(e)
+que nous eussions été destiné(e)s
+que vous eussiez été destiné(e)s
+qu’ils (elles) eussent été destiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été destiné(e)
+ayons été destiné(e)s
+ayez été destiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été destiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été destiné(e)(s)

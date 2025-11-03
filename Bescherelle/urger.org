@@ -1,0 +1,108 @@
+#+title: Conjugaison du verbe urger
+
+* INDICATIF
+
+** Présent
+
+il (elle) urge
+ils (elles) urgent
+
+** Imparfait
+
+il (elle) urgeait
+ils (elles) urgeaient
+
+** Passé simple
+
+il (elle) urgea
+ils (elles) urgèrent
+
+** Futur simple
+
+il (elle) urgera
+ils (elles) urgeront
+
+* CONDITIONNEL
+
+** Présent
+
+il (elle) urgerait
+ils (elles) urgeraient
+
+* SUBJONCTIF
+
+** Présent
+
+qu’il (elle) urge
+qu’ils (elles) urgent
+
+** Imparfait
+
+qu’il (elle) urgeât
+qu’ils (elles) urgeassent
+
+* INFINITIF
+
+** Présent
+
+urger
+
+* PARTICIPE
+
+** Présent
+
+urgeant
+
+* INDICATIF
+
+** Passé composé
+
+il (elle) a urgé
+ils (elles) ont urgé
+
+** Plus-que-parfait
+
+il (elle) avait urgé
+ils (elles) avaient urgé
+
+** Passé antérieur
+
+il (elle) eut urgé
+ils (elles) eurent urgé
+
+** Futur antérieur
+
+il (elle) aura urgé
+ils (elles) auront urgé
+
+* CONDITIONNEL
+
+** Passé
+
+il (elle) aurait urgé
+ils (elles) auraient urgé
+
+* SUBJONCTIF
+
+** Passé
+
+qu’il (elle) ait urgé
+qu’ils (elles) aient urgé
+
+** Plus-que-parfait
+
+qu’il (elle) eût urgé
+qu’ils (elles) eussent urgé
+
+* INFINITIF
+
+** Passé
+
+avoir urgé
+
+* PARTICIPE
+
+** Passé
+
+ayant urgé
+urgé (invar.)

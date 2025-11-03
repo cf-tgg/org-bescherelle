@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe croupir
+
+* INDICATIF
+
+** Présent
+
+je croupis
+tu croupis
+il (elle) croupit
+nous croupissons
+vous croupissez
+ils (elles) croupissent
+
+** Imparfait
+
+je croupissais
+tu croupissais
+il (elle) croupissait
+nous croupissions
+vous croupissiez
+ils (elles) croupissaient
+
+** Passé simple
+
+je croupis
+tu croupis
+il (elle) croupit
+nous croupîmes
+vous croupîtes
+ils (elles) croupirent
+
+** Futur simple
+
+je croupirai
+tu croupiras
+il (elle) croupira
+nous croupirons
+vous croupirez
+ils (elles) croupiront
+
+* CONDITIONNEL
+
+** Présent
+
+je croupirais
+tu croupirais
+il (elle) croupirait
+nous croupirions
+vous croupiriez
+ils (elles) croupiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je croupisse
+que tu croupisses
+qu’il (elle) croupisse
+que nous croupissions
+que vous croupissiez
+qu’ils (elles) croupissent
+
+** Imparfait
+
+que je croupisse
+que tu croupisses
+qu’il (elle) croupît
+que nous croupissions
+que vous croupissiez
+qu’ils (elles) croupissent
+
+* IMPÉRATIF
+
+** Présent
+
+croupis
+croupissons
+croupissez
+
+* INFINITIF
+
+** Présent
+
+croupir
+
+* PARTICIPE
+
+** Présent
+
+croupissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai croupi
+tu as croupi
+il (elle) a croupi
+nous avons croupi
+vous avez croupi
+ils (elles) ont croupi
+
+** Plus-que-parfait
+
+j'avais croupi
+tu avais croupi
+il (elle) avait croupi
+nous avions croupi
+vous aviez croupi
+ils (elles) avaient croupi
+
+** Passé antérieur
+
+j'eus croupi
+tu eus croupi
+il (elle) eut croupi
+nous eûmes croupi
+vous eûtes croupi
+ils (elles) eurent croupi
+
+** Futur antérieur
+
+j'aurai croupi
+tu auras croupi
+il (elle) aura croupi
+nous aurons croupi
+vous aurez croupi
+ils (elles) auront croupi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais croupi
+tu aurais croupi
+il (elle) aurait croupi
+nous aurions croupi
+vous auriez croupi
+ils (elles) auraient croupi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie croupi
+que tu aies croupi
+qu’il (elle) ait croupi
+que nous ayons croupi
+que vous ayez croupi
+qu’ils (elles) aient croupi
+
+** Plus-que-parfait
+
+que j'eusse croupi
+que tu eusses croupi
+qu’il (elle) eût croupi
+que nous eussions croupi
+que vous eussiez croupi
+qu’ils (elles) eussent croupi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons croupi
+ayez croupi
+
+* INFINITIF
+
+** Passé
+
+avoir croupi
+
+* PARTICIPE
+
+** Passé
+
+ayant croupi
+croupi (invar.)

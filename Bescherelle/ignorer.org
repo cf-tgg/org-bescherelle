@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ignorer
+
+* INDICATIF
+
+** Présent
+
+j'ignore
+tu ignores
+il (elle) ignore
+nous ignorons
+vous ignorez
+ils (elles) ignorent
+
+** Imparfait
+
+j'ignorais
+tu ignorais
+il (elle) ignorait
+nous ignorions
+vous ignoriez
+ils (elles) ignoraient
+
+** Passé simple
+
+j'ignorai
+tu ignoras
+il (elle) ignora
+nous ignorâmes
+vous ignorâtes
+ils (elles) ignorèrent
+
+** Futur simple
+
+j'ignorerai
+tu ignoreras
+il (elle) ignorera
+nous ignorerons
+vous ignorerez
+ils (elles) ignoreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ignorerais
+tu ignorerais
+il (elle) ignorerait
+nous ignorerions
+vous ignoreriez
+ils (elles) ignoreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ignore
+que tu ignores
+qu’il (elle) ignore
+que nous ignorions
+que vous ignoriez
+qu’ils (elles) ignorent
+
+** Imparfait
+
+que j'ignorasse
+que tu ignorasses
+qu’il (elle) ignorât
+que nous ignorassions
+que vous ignorassiez
+qu’ils (elles) ignorassent
+
+* IMPÉRATIF
+
+** Présent
+
+ignore
+ignorons
+ignorez
+
+* INFINITIF
+
+** Présent
+
+ignorer
+
+* PARTICIPE
+
+** Présent
+
+ignorant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ignoré
+tu as ignoré
+il (elle) a ignoré
+nous avons ignoré
+vous avez ignoré
+ils (elles) ont ignoré
+
+** Plus-que-parfait
+
+j'avais ignoré
+tu avais ignoré
+il (elle) avait ignoré
+nous avions ignoré
+vous aviez ignoré
+ils (elles) avaient ignoré
+
+** Passé antérieur
+
+j'eus ignoré
+tu eus ignoré
+il (elle) eut ignoré
+nous eûmes ignoré
+vous eûtes ignoré
+ils (elles) eurent ignoré
+
+** Futur antérieur
+
+j'aurai ignoré
+tu auras ignoré
+il (elle) aura ignoré
+nous aurons ignoré
+vous aurez ignoré
+ils (elles) auront ignoré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ignoré
+tu aurais ignoré
+il (elle) aurait ignoré
+nous aurions ignoré
+vous auriez ignoré
+ils (elles) auraient ignoré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ignoré
+que tu aies ignoré
+qu’il (elle) ait ignoré
+que nous ayons ignoré
+que vous ayez ignoré
+qu’ils (elles) aient ignoré
+
+** Plus-que-parfait
+
+que j'eusse ignoré
+que tu eusses ignoré
+qu’il (elle) eût ignoré
+que nous eussions ignoré
+que vous eussiez ignoré
+qu’ils (elles) eussent ignoré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ignoré
+ayez ignoré
+
+* INFINITIF
+
+** Passé
+
+avoir ignoré
+
+* PARTICIPE
+
+** Passé
+
+ayant ignoré
+ignoré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ignoré(e)
+tu es ignoré(e)
+il (elle) est ignoré(e)
+nous sommes ignoré(e)s
+vous êtes ignoré(e)s
+ils (elles) sont ignoré(e)s
+
+** Imparfait
+
+j'étais ignoré(e)
+tu étais ignoré(e)
+il (elle) était ignoré(e)
+nous étions ignoré(e)s
+vous étiez ignoré(e)s
+ils (elles) étaient ignoré(e)s
+
+** Passé simple
+
+je fus ignoré(e)
+tu fus ignoré(e)
+il (elle) fut ignoré(e)
+nous fûmes ignoré(e)s
+vous fûtes ignoré(e)s
+ils (elles) furent ignoré(e)s
+
+** Futur simple
+
+je serai ignoré(e)
+tu seras ignoré(e)
+il (elle) sera ignoré(e)
+nous serons ignoré(e)s
+vous serez ignoré(e)s
+ils (elles) seront ignoré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ignoré(e)
+tu serais ignoré(e)
+il (elle) serait ignoré(e)
+nous serions ignoré(e)s
+vous seriez ignoré(e)s
+ils (elles) seraient ignoré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ignoré(e)
+que tu sois ignoré(e)
+qu’il (elle) soit ignoré(e)
+que nous soyons ignoré(e)s
+que vous soyez ignoré(e)s
+qu’ils (elles) soient ignoré(e)s
+
+** Imparfait
+
+que je fusse ignoré(e)
+que tu fusses ignoré(e)
+qu’il (elle) fût ignoré(e)
+que nous fussions ignoré(e)s
+que vous fussiez ignoré(e)s
+qu’ils (elles) fussent ignoré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ignoré(e)s
+soyez ignoré(e)s
+
+* INFINITIF
+
+** Présent
+
+être ignoré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ignoré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ignoré(e)
+tu as été ignoré(e)
+il (elle) a été ignoré(e)
+nous avons été ignoré(e)s
+vous avez été ignoré(e)s
+ils (elles) ont été ignoré(e)s
+
+** Plus-que-parfait
+
+j'avais été ignoré(e)
+il (elle) avait été ignoré(e)
+nous avions été ignoré(e)s
+ils (elles) avaient été ignoré(e)s
+
+** Passé antérieur
+
+j'eus été ignoré(e)
+tu eus été ignoré(e)
+il (elle) eut été ignoré(e)
+nous eûmes été ignoré(e)s
+vous eûtes été ignoré(e)s
+ils (elles) eurent été ignoré(e)s
+
+** Futur antérieur
+
+j'aurai été ignoré(e)
+tu auras été ignoré(e)
+il (elle) aura été ignoré(e)
+nous aurons été ignoré(e)s
+vous aurez été ignoré(e)s
+ils (elles) auront été ignoré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ignoré(e)
+j'aurais été ignoré(e)
+il (elle) aurait été ignoré(e)
+nous aurions été ignoré(e)s
+vous auriez été ignoré(e)s
+ils (elles) auraient été ignoré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ignoré(e)
+que tu aies été ignoré(e)
+qu’il (elle) ait été ignoré(e)
+que nous ayons été ignoré(e)s
+que vous ayez été ignoré(e)s
+qu’ils (elles) aient été ignoré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ignoré(e)
+que tu eusses été ignoré(e)
+qu’il (elle) eût été ignoré(e)
+que nous eussions été ignoré(e)s
+que vous eussiez été ignoré(e)s
+qu’ils (elles) eussent été ignoré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ignoré(e)
+ayons été ignoré(e)s
+ayez été ignoré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ignoré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ignoré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emettre
+
+* INDICATIF
+
+** Présent
+
+j'émets
+tu émets
+il (elle) émet
+nous émettons
+vous émettez
+ils (elles) émettent
+
+** Imparfait
+
+j'émettais
+tu émettais
+il (elle) émettait
+nous émettions
+vous émettiez
+ils (elles) émettaient
+
+** Passé simple
+
+j'émis
+tu émis
+il (elle) émit
+nous émîmes
+vous émîtes
+ils (elles) émirent
+
+** Futur simple
+
+j'émettrai
+tu émettras
+il (elle) émettra
+nous émettrons
+vous émettrez
+ils (elles) émettront
+
+* CONDITIONNEL
+
+** Présent
+
+j'émettrais
+tu émettrais
+il (elle) émettrait
+nous émettrions
+vous émettriez
+ils (elles) émettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'émette
+que tu émettes
+qu’il (elle) émette
+que nous émettions
+que vous émettiez
+qu’ils (elles) émettent
+
+** Imparfait
+
+que j'émisse
+que tu émisses
+qu’il (elle) émît
+que nous émissions
+que vous émissiez
+qu’ils (elles) émissent
+
+* IMPÉRATIF
+
+** Présent
+
+émets
+émettons
+émettez
+
+* INFINITIF
+
+** Présent
+
+émettre
+
+* PARTICIPE
+
+** Présent
+
+émettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai émis
+tu as émis
+il (elle) a émis
+nous avons émis
+vous avez émis
+ils (elles) ont émis
+
+** Plus-que-parfait
+
+j'avais émis
+tu avais émis
+il (elle) avait émis
+nous avions émis
+vous aviez émis
+ils (elles) avaient émis
+
+** Passé antérieur
+
+j'eus émis
+tu eus émis
+il (elle) eut émis
+nous eûmes émis
+vous eûtes émis
+ils (elles) eurent émis
+
+** Futur antérieur
+
+j'aurai émis
+tu auras émis
+il (elle) aura émis
+nous aurons émis
+vous aurez émis
+ils (elles) auront émis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais émis
+tu aurais émis
+il (elle) aurait émis
+nous aurions émis
+vous auriez émis
+ils (elles) auraient émis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie émis
+que tu aies émis
+qu’il (elle) ait émis
+que nous ayons émis
+que vous ayez émis
+qu’ils (elles) aient émis
+
+** Plus-que-parfait
+
+que j'eusse émis
+que tu eusses émis
+qu’il (elle) eût émis
+que nous eussions émis
+que vous eussiez émis
+qu’ils (elles) eussent émis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons émis
+ayez émis
+
+* INFINITIF
+
+** Passé
+
+avoir émis
+
+* PARTICIPE
+
+** Passé
+
+ayant émis
+émis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis émis(e)
+tu es émis(e)
+il (elle) est émis(e)
+nous sommes émis(es)
+vous êtes émis(es)
+ils (elles) sont émis(es)
+
+** Imparfait
+
+j'étais émis(e)
+tu étais émis(e)
+il (elle) était émis(e)
+nous étions émis(es)
+vous étiez émis(es)
+ils (elles) étaient émis(es)
+
+** Passé simple
+
+je fus émis(e)
+tu fus émis(e)
+il (elle) fut émis(e)
+nous fûmes émis(es)
+vous fûtes émis(es)
+ils (elles) furent émis(es)
+
+** Futur simple
+
+je serai émis(e)
+tu seras émis(e)
+il (elle) sera émis(e)
+nous serons émis(es)
+vous serez émis(es)
+ils (elles) seront émis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais émis(e)
+tu serais émis(e)
+il (elle) serait émis(e)
+nous serions émis(es)
+vous seriez émis(es)
+ils (elles) seraient émis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois émis(e)
+que tu sois émis(e)
+qu’il (elle) soit émis(e)
+que nous soyons émis(es)
+que vous soyez émis(es)
+qu’ils (elles) soient émis(es)
+
+** Imparfait
+
+que je fusse émis(e)
+que tu fusses émis(e)
+qu’il (elle) fût émis(e)
+que nous fussions émis(es)
+que vous fussiez émis(es)
+qu’ils (elles) fussent émis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons émis(es)
+soyez émis(es)
+
+* INFINITIF
+
+** Présent
+
+être émis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant émis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été émis(e)
+tu as été émis(e)
+il (elle) a été émis(e)
+nous avons été émis(es)
+vous avez été émis(es)
+ils (elles) ont été émis(es)
+
+** Plus-que-parfait
+
+j'avais été émis(e)
+il (elle) avait été émis(e)
+nous avions été émis(es)
+ils (elles) avaient été émis(es)
+
+** Passé antérieur
+
+j'eus été émis(e)
+tu eus été émis(e)
+il (elle) eut été émis(e)
+nous eûmes été émis(es)
+vous eûtes été émis(es)
+ils (elles) eurent été émis(es)
+
+** Futur antérieur
+
+j'aurai été émis(e)
+tu auras été émis(e)
+il (elle) aura été émis(e)
+nous aurons été émis(es)
+vous aurez été émis(es)
+ils (elles) auront été émis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été émis(e)
+j'aurais été émis(e)
+il (elle) aurait été émis(e)
+nous aurions été émis(es)
+vous auriez été émis(es)
+ils (elles) auraient été émis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été émis(e)
+que tu aies été émis(e)
+qu’il (elle) ait été émis(e)
+que nous ayons été émis(es)
+que vous ayez été émis(es)
+qu’ils (elles) aient été émis(es)
+
+** Plus-que-parfait
+
+que j'eusse été émis(e)
+que tu eusses été émis(e)
+qu’il (elle) eût été émis(e)
+que nous eussions été émis(es)
+que vous eussiez été émis(es)
+qu’ils (elles) eussent été émis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été émis(e)
+ayons été émis(es)
+ayez été émis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été émis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été émis (s, se, s, ses)

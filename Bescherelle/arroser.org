@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe arroser
+
+* INDICATIF
+
+** Présent
+
+j'arrose
+tu arroses
+il (elle) arrose
+nous arrosons
+vous arrosez
+ils (elles) arrosent
+
+** Imparfait
+
+j'arrosais
+tu arrosais
+il (elle) arrosait
+nous arrosions
+vous arrosiez
+ils (elles) arrosaient
+
+** Passé simple
+
+j'arrosai
+tu arrosas
+il (elle) arrosa
+nous arrosâmes
+vous arrosâtes
+ils (elles) arrosèrent
+
+** Futur simple
+
+j'arroserai
+tu arroseras
+il (elle) arrosera
+nous arroserons
+vous arroserez
+ils (elles) arroseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'arroserais
+tu arroserais
+il (elle) arroserait
+nous arroserions
+vous arroseriez
+ils (elles) arroseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'arrose
+que tu arroses
+qu’il (elle) arrose
+que nous arrosions
+que vous arrosiez
+qu’ils (elles) arrosent
+
+** Imparfait
+
+que j'arrosasse
+que tu arrosasses
+qu’il (elle) arrosât
+que nous arrosassions
+que vous arrosassiez
+qu’ils (elles) arrosassent
+
+* IMPÉRATIF
+
+** Présent
+
+arrose
+arrosons
+arrosez
+
+* INFINITIF
+
+** Présent
+
+arroser
+
+* PARTICIPE
+
+** Présent
+
+arrosant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai arrosé
+tu as arrosé
+il (elle) a arrosé
+nous avons arrosé
+vous avez arrosé
+ils (elles) ont arrosé
+
+** Plus-que-parfait
+
+j'avais arrosé
+tu avais arrosé
+il (elle) avait arrosé
+nous avions arrosé
+vous aviez arrosé
+ils (elles) avaient arrosé
+
+** Passé antérieur
+
+j'eus arrosé
+tu eus arrosé
+il (elle) eut arrosé
+nous eûmes arrosé
+vous eûtes arrosé
+ils (elles) eurent arrosé
+
+** Futur antérieur
+
+j'aurai arrosé
+tu auras arrosé
+il (elle) aura arrosé
+nous aurons arrosé
+vous aurez arrosé
+ils (elles) auront arrosé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais arrosé
+tu aurais arrosé
+il (elle) aurait arrosé
+nous aurions arrosé
+vous auriez arrosé
+ils (elles) auraient arrosé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie arrosé
+que tu aies arrosé
+qu’il (elle) ait arrosé
+que nous ayons arrosé
+que vous ayez arrosé
+qu’ils (elles) aient arrosé
+
+** Plus-que-parfait
+
+que j'eusse arrosé
+que tu eusses arrosé
+qu’il (elle) eût arrosé
+que nous eussions arrosé
+que vous eussiez arrosé
+qu’ils (elles) eussent arrosé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons arrosé
+ayez arrosé
+
+* INFINITIF
+
+** Passé
+
+avoir arrosé
+
+* PARTICIPE
+
+** Passé
+
+ayant arrosé
+arrosé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis arrosé(e)
+tu es arrosé(e)
+il (elle) est arrosé(e)
+nous sommes arrosé(e)s
+vous êtes arrosé(e)s
+ils (elles) sont arrosé(e)s
+
+** Imparfait
+
+j'étais arrosé(e)
+tu étais arrosé(e)
+il (elle) était arrosé(e)
+nous étions arrosé(e)s
+vous étiez arrosé(e)s
+ils (elles) étaient arrosé(e)s
+
+** Passé simple
+
+je fus arrosé(e)
+tu fus arrosé(e)
+il (elle) fut arrosé(e)
+nous fûmes arrosé(e)s
+vous fûtes arrosé(e)s
+ils (elles) furent arrosé(e)s
+
+** Futur simple
+
+je serai arrosé(e)
+tu seras arrosé(e)
+il (elle) sera arrosé(e)
+nous serons arrosé(e)s
+vous serez arrosé(e)s
+ils (elles) seront arrosé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais arrosé(e)
+tu serais arrosé(e)
+il (elle) serait arrosé(e)
+nous serions arrosé(e)s
+vous seriez arrosé(e)s
+ils (elles) seraient arrosé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois arrosé(e)
+que tu sois arrosé(e)
+qu’il (elle) soit arrosé(e)
+que nous soyons arrosé(e)s
+que vous soyez arrosé(e)s
+qu’ils (elles) soient arrosé(e)s
+
+** Imparfait
+
+que je fusse arrosé(e)
+que tu fusses arrosé(e)
+qu’il (elle) fût arrosé(e)
+que nous fussions arrosé(e)s
+que vous fussiez arrosé(e)s
+qu’ils (elles) fussent arrosé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons arrosé(e)s
+soyez arrosé(e)s
+
+* INFINITIF
+
+** Présent
+
+être arrosé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant arrosé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été arrosé(e)
+tu as été arrosé(e)
+il (elle) a été arrosé(e)
+nous avons été arrosé(e)s
+vous avez été arrosé(e)s
+ils (elles) ont été arrosé(e)s
+
+** Plus-que-parfait
+
+j'avais été arrosé(e)
+il (elle) avait été arrosé(e)
+nous avions été arrosé(e)s
+ils (elles) avaient été arrosé(e)s
+
+** Passé antérieur
+
+j'eus été arrosé(e)
+tu eus été arrosé(e)
+il (elle) eut été arrosé(e)
+nous eûmes été arrosé(e)s
+vous eûtes été arrosé(e)s
+ils (elles) eurent été arrosé(e)s
+
+** Futur antérieur
+
+j'aurai été arrosé(e)
+tu auras été arrosé(e)
+il (elle) aura été arrosé(e)
+nous aurons été arrosé(e)s
+vous aurez été arrosé(e)s
+ils (elles) auront été arrosé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été arrosé(e)
+j'aurais été arrosé(e)
+il (elle) aurait été arrosé(e)
+nous aurions été arrosé(e)s
+vous auriez été arrosé(e)s
+ils (elles) auraient été arrosé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été arrosé(e)
+que tu aies été arrosé(e)
+qu’il (elle) ait été arrosé(e)
+que nous ayons été arrosé(e)s
+que vous ayez été arrosé(e)s
+qu’ils (elles) aient été arrosé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été arrosé(e)
+que tu eusses été arrosé(e)
+qu’il (elle) eût été arrosé(e)
+que nous eussions été arrosé(e)s
+que vous eussiez été arrosé(e)s
+qu’ils (elles) eussent été arrosé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été arrosé(e)
+ayons été arrosé(e)s
+ayez été arrosé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été arrosé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été arrosé(e)(s)

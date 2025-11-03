@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe contrevenir
+
+* INDICATIF
+
+** Présent
+
+je contreviens
+tu contreviens
+il (elle) contrevient
+nous contrevenons
+vous contrevenez
+ils (elles) contreviennent
+
+** Imparfait
+
+je contrevenais
+tu contrevenais
+il (elle) contrevenait
+nous contrevenions
+vous contreveniez
+ils (elles) contrevenaient
+
+** Passé simple
+
+je contrevins
+tu contrevins
+il (elle) contrevint
+nous contrevînmes
+vous contrevîntes
+ils (elles) contrevinrent
+
+** Futur simple
+
+je contreviendrai
+tu contreviendras
+il (elle) contreviendra
+nous contreviendrons
+vous contreviendrez
+ils (elles) contreviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je contreviendrais
+tu contreviendrais
+il (elle) contreviendrait
+nous contreviendrions
+vous contreviendriez
+ils (elles) contreviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contrevienne
+que tu contreviennes
+qu’il (elle) contrevienne
+que nous contrevenions
+que vous contreveniez
+qu’ils (elles) contreviennent
+
+** Imparfait
+
+que je contrevinsse
+que tu contrevinsses
+qu’il (elle) contrevînt
+que nous contrevinssions
+que vous contrevinssiez
+qu’ils (elles) contrevinssent
+
+* IMPÉRATIF
+
+** Présent
+
+contreviens
+contrevenons
+contrevenez
+
+* INFINITIF
+
+** Présent
+
+contrevenir
+
+* PARTICIPE
+
+** Présent
+
+contrevenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contrevenu
+tu as contrevenu
+il (elle) a contrevenu
+nous avons contrevenu
+vous avez contrevenu
+ils (elles) ont contrevenu
+
+** Plus-que-parfait
+
+j'avais contrevenu
+tu avais contrevenu
+il (elle) avait contrevenu
+nous avions contrevenu
+vous aviez contrevenu
+ils (elles) avaient contrevenu
+
+** Passé antérieur
+
+j'eus contrevenu
+tu eus contrevenu
+il (elle) eut contrevenu
+nous eûmes contrevenu
+vous eûtes contrevenu
+ils (elles) eurent contrevenu
+
+** Futur antérieur
+
+j'aurai contrevenu
+tu auras contrevenu
+il (elle) aura contrevenu
+nous aurons contrevenu
+vous aurez contrevenu
+ils (elles) auront contrevenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contrevenu
+tu aurais contrevenu
+il (elle) aurait contrevenu
+nous aurions contrevenu
+vous auriez contrevenu
+ils (elles) auraient contrevenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contrevenu
+que tu aies contrevenu
+qu’il (elle) ait contrevenu
+que nous ayons contrevenu
+que vous ayez contrevenu
+qu’ils (elles) aient contrevenu
+
+** Plus-que-parfait
+
+que j'eusse contrevenu
+que tu eusses contrevenu
+qu’il (elle) eût contrevenu
+que nous eussions contrevenu
+que vous eussiez contrevenu
+qu’ils (elles) eussent contrevenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contrevenu
+ayez contrevenu
+
+* INFINITIF
+
+** Passé
+
+avoir contrevenu
+
+* PARTICIPE
+
+** Passé
+
+ayant contrevenu
+contrevenu (invar.)

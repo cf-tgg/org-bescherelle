@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lire
+
+* INDICATIF
+
+** Présent
+
+je lis
+tu lis
+il (elle) lit
+nous lisons
+vous lisez
+ils (elles) lisent
+
+** Imparfait
+
+je lisais
+tu lisais
+il (elle) lisait
+nous lisions
+vous lisiez
+ils (elles) lisaient
+
+** Passé simple
+
+je lus
+tu lus
+il (elle) lut
+nous lûmes
+vous lûtes
+ils (elles) lurent
+
+** Futur simple
+
+je lirai
+tu liras
+il (elle) lira
+nous lirons
+vous lirez
+ils (elles) liront
+
+* CONDITIONNEL
+
+** Présent
+
+je lirais
+tu lirais
+il (elle) lirait
+nous lirions
+vous liriez
+ils (elles) liraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lise
+que tu lises
+qu’il (elle) lise
+que nous lisions
+que vous lisiez
+qu’ils (elles) lisent
+
+** Imparfait
+
+que je lusse
+que tu lusses
+qu’il (elle) lût
+que nous lussions
+que vous lussiez
+qu’ils (elles) lussent
+
+* IMPÉRATIF
+
+** Présent
+
+lis
+lisons
+lisez
+
+* INFINITIF
+
+** Présent
+
+lire
+
+* PARTICIPE
+
+** Présent
+
+lisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lu
+tu as lu
+il (elle) a lu
+nous avons lu
+vous avez lu
+ils (elles) ont lu
+
+** Plus-que-parfait
+
+j'avais lu
+tu avais lu
+il (elle) avait lu
+nous avions lu
+vous aviez lu
+ils (elles) avaient lu
+
+** Passé antérieur
+
+j'eus lu
+tu eus lu
+il (elle) eut lu
+nous eûmes lu
+vous eûtes lu
+ils (elles) eurent lu
+
+** Futur antérieur
+
+j'aurai lu
+tu auras lu
+il (elle) aura lu
+nous aurons lu
+vous aurez lu
+ils (elles) auront lu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lu
+tu aurais lu
+il (elle) aurait lu
+nous aurions lu
+vous auriez lu
+ils (elles) auraient lu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lu
+que tu aies lu
+qu’il (elle) ait lu
+que nous ayons lu
+que vous ayez lu
+qu’ils (elles) aient lu
+
+** Plus-que-parfait
+
+que j'eusse lu
+que tu eusses lu
+qu’il (elle) eût lu
+que nous eussions lu
+que vous eussiez lu
+qu’ils (elles) eussent lu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lu
+ayez lu
+
+* INFINITIF
+
+** Passé
+
+avoir lu
+
+* PARTICIPE
+
+** Passé
+
+ayant lu
+lu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis lu(e)
+tu es lu(e)
+il (elle) est lu(e)
+nous sommes lu(e)s
+vous êtes lu(e)s
+ils (elles) sont lu(e)s
+
+** Imparfait
+
+j'étais lu(e)
+tu étais lu(e)
+il (elle) était lu(e)
+nous étions lu(e)s
+vous étiez lu(e)s
+ils (elles) étaient lu(e)s
+
+** Passé simple
+
+je fus lu(e)
+tu fus lu(e)
+il (elle) fut lu(e)
+nous fûmes lu(e)s
+vous fûtes lu(e)s
+ils (elles) furent lu(e)s
+
+** Futur simple
+
+je serai lu(e)
+tu seras lu(e)
+il (elle) sera lu(e)
+nous serons lu(e)s
+vous serez lu(e)s
+ils (elles) seront lu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lu(e)
+tu serais lu(e)
+il (elle) serait lu(e)
+nous serions lu(e)s
+vous seriez lu(e)s
+ils (elles) seraient lu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lu(e)
+que tu sois lu(e)
+qu’il (elle) soit lu(e)
+que nous soyons lu(e)s
+que vous soyez lu(e)s
+qu’ils (elles) soient lu(e)s
+
+** Imparfait
+
+que je fusse lu(e)
+que tu fusses lu(e)
+qu’il (elle) fût lu(e)
+que nous fussions lu(e)s
+que vous fussiez lu(e)s
+qu’ils (elles) fussent lu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lu(e)s
+soyez lu(e)s
+
+* INFINITIF
+
+** Présent
+
+être lu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lu(e)
+tu as été lu(e)
+il (elle) a été lu(e)
+nous avons été lu(e)s
+vous avez été lu(e)s
+ils (elles) ont été lu(e)s
+
+** Plus-que-parfait
+
+j'avais été lu(e)
+il (elle) avait été lu(e)
+nous avions été lu(e)s
+ils (elles) avaient été lu(e)s
+
+** Passé antérieur
+
+j'eus été lu(e)
+tu eus été lu(e)
+il (elle) eut été lu(e)
+nous eûmes été lu(e)s
+vous eûtes été lu(e)s
+ils (elles) eurent été lu(e)s
+
+** Futur antérieur
+
+j'aurai été lu(e)
+tu auras été lu(e)
+il (elle) aura été lu(e)
+nous aurons été lu(e)s
+vous aurez été lu(e)s
+ils (elles) auront été lu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lu(e)
+j'aurais été lu(e)
+il (elle) aurait été lu(e)
+nous aurions été lu(e)s
+vous auriez été lu(e)s
+ils (elles) auraient été lu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lu(e)
+que tu aies été lu(e)
+qu’il (elle) ait été lu(e)
+que nous ayons été lu(e)s
+que vous ayez été lu(e)s
+qu’ils (elles) aient été lu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lu(e)
+que tu eusses été lu(e)
+qu’il (elle) eût été lu(e)
+que nous eussions été lu(e)s
+que vous eussiez été lu(e)s
+qu’ils (elles) eussent été lu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lu(e)
+ayons été lu(e)s
+ayez été lu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lu(e)(s)

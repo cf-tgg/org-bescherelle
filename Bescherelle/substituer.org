@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe substituer
+
+* INDICATIF
+
+** Présent
+
+je substitue
+tu substitues
+il (elle) substitue
+nous substituons
+vous substituez
+ils (elles) substituent
+
+** Imparfait
+
+je substituais
+tu substituais
+il (elle) substituait
+nous substituions
+vous substituiez
+ils (elles) substituaient
+
+** Passé simple
+
+je substituai
+tu substituas
+il (elle) substitua
+nous substituâmes
+vous substituâtes
+ils (elles) substituèrent
+
+** Futur simple
+
+je substituerai
+tu substitueras
+il (elle) substituera
+nous substituerons
+vous substituerez
+ils (elles) substitueront
+
+* CONDITIONNEL
+
+** Présent
+
+je substituerais
+tu substituerais
+il (elle) substituerait
+nous substituerions
+vous substitueriez
+ils (elles) substitueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je substitue
+que tu substitues
+qu’il (elle) substitue
+que nous substituions
+que vous substituiez
+qu’ils (elles) substituent
+
+** Imparfait
+
+que je substituasse
+que tu substituasses
+qu’il (elle) substituât
+que nous substituassions
+que vous substituassiez
+qu’ils (elles) substituassent
+
+* IMPÉRATIF
+
+** Présent
+
+substitue
+substituons
+substituez
+
+* INFINITIF
+
+** Présent
+
+substituer
+
+* PARTICIPE
+
+** Présent
+
+substituant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai substitué
+tu as substitué
+il (elle) a substitué
+nous avons substitué
+vous avez substitué
+ils (elles) ont substitué
+
+** Plus-que-parfait
+
+j'avais substitué
+tu avais substitué
+il (elle) avait substitué
+nous avions substitué
+vous aviez substitué
+ils (elles) avaient substitué
+
+** Passé antérieur
+
+j'eus substitué
+tu eus substitué
+il (elle) eut substitué
+nous eûmes substitué
+vous eûtes substitué
+ils (elles) eurent substitué
+
+** Futur antérieur
+
+j'aurai substitué
+tu auras substitué
+il (elle) aura substitué
+nous aurons substitué
+vous aurez substitué
+ils (elles) auront substitué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais substitué
+tu aurais substitué
+il (elle) aurait substitué
+nous aurions substitué
+vous auriez substitué
+ils (elles) auraient substitué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie substitué
+que tu aies substitué
+qu’il (elle) ait substitué
+que nous ayons substitué
+que vous ayez substitué
+qu’ils (elles) aient substitué
+
+** Plus-que-parfait
+
+que j'eusse substitué
+que tu eusses substitué
+qu’il (elle) eût substitué
+que nous eussions substitué
+que vous eussiez substitué
+qu’ils (elles) eussent substitué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons substitué
+ayez substitué
+
+* INFINITIF
+
+** Passé
+
+avoir substitué
+
+* PARTICIPE
+
+** Passé
+
+ayant substitué
+substitué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis substitué(e)
+tu es substitué(e)
+il (elle) est substitué(e)
+nous sommes substitué(e)s
+vous êtes substitué(e)s
+ils (elles) sont substitué(e)s
+
+** Imparfait
+
+j'étais substitué(e)
+tu étais substitué(e)
+il (elle) était substitué(e)
+nous étions substitué(e)s
+vous étiez substitué(e)s
+ils (elles) étaient substitué(e)s
+
+** Passé simple
+
+je fus substitué(e)
+tu fus substitué(e)
+il (elle) fut substitué(e)
+nous fûmes substitué(e)s
+vous fûtes substitué(e)s
+ils (elles) furent substitué(e)s
+
+** Futur simple
+
+je serai substitué(e)
+tu seras substitué(e)
+il (elle) sera substitué(e)
+nous serons substitué(e)s
+vous serez substitué(e)s
+ils (elles) seront substitué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais substitué(e)
+tu serais substitué(e)
+il (elle) serait substitué(e)
+nous serions substitué(e)s
+vous seriez substitué(e)s
+ils (elles) seraient substitué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois substitué(e)
+que tu sois substitué(e)
+qu’il (elle) soit substitué(e)
+que nous soyons substitué(e)s
+que vous soyez substitué(e)s
+qu’ils (elles) soient substitué(e)s
+
+** Imparfait
+
+que je fusse substitué(e)
+que tu fusses substitué(e)
+qu’il (elle) fût substitué(e)
+que nous fussions substitué(e)s
+que vous fussiez substitué(e)s
+qu’ils (elles) fussent substitué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons substitué(e)s
+soyez substitué(e)s
+
+* INFINITIF
+
+** Présent
+
+être substitué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant substitué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été substitué(e)
+tu as été substitué(e)
+il (elle) a été substitué(e)
+nous avons été substitué(e)s
+vous avez été substitué(e)s
+ils (elles) ont été substitué(e)s
+
+** Plus-que-parfait
+
+j'avais été substitué(e)
+il (elle) avait été substitué(e)
+nous avions été substitué(e)s
+ils (elles) avaient été substitué(e)s
+
+** Passé antérieur
+
+j'eus été substitué(e)
+tu eus été substitué(e)
+il (elle) eut été substitué(e)
+nous eûmes été substitué(e)s
+vous eûtes été substitué(e)s
+ils (elles) eurent été substitué(e)s
+
+** Futur antérieur
+
+j'aurai été substitué(e)
+tu auras été substitué(e)
+il (elle) aura été substitué(e)
+nous aurons été substitué(e)s
+vous aurez été substitué(e)s
+ils (elles) auront été substitué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été substitué(e)
+j'aurais été substitué(e)
+il (elle) aurait été substitué(e)
+nous aurions été substitué(e)s
+vous auriez été substitué(e)s
+ils (elles) auraient été substitué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été substitué(e)
+que tu aies été substitué(e)
+qu’il (elle) ait été substitué(e)
+que nous ayons été substitué(e)s
+que vous ayez été substitué(e)s
+qu’ils (elles) aient été substitué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été substitué(e)
+que tu eusses été substitué(e)
+qu’il (elle) eût été substitué(e)
+que nous eussions été substitué(e)s
+que vous eussiez été substitué(e)s
+qu’ils (elles) eussent été substitué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été substitué(e)
+ayons été substitué(e)s
+ayez été substitué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été substitué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été substitué(e)(s)

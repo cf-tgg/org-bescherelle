@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe organiser
+
+* INDICATIF
+
+** Présent
+
+j'organise
+tu organises
+il (elle) organise
+nous organisons
+vous organisez
+ils (elles) organisent
+
+** Imparfait
+
+j'organisais
+tu organisais
+il (elle) organisait
+nous organisions
+vous organisiez
+ils (elles) organisaient
+
+** Passé simple
+
+j'organisai
+tu organisas
+il (elle) organisa
+nous organisâmes
+vous organisâtes
+ils (elles) organisèrent
+
+** Futur simple
+
+j'organiserai
+tu organiseras
+il (elle) organisera
+nous organiserons
+vous organiserez
+ils (elles) organiseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'organiserais
+tu organiserais
+il (elle) organiserait
+nous organiserions
+vous organiseriez
+ils (elles) organiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'organise
+que tu organises
+qu’il (elle) organise
+que nous organisions
+que vous organisiez
+qu’ils (elles) organisent
+
+** Imparfait
+
+que j'organisasse
+que tu organisasses
+qu’il (elle) organisât
+que nous organisassions
+que vous organisassiez
+qu’ils (elles) organisassent
+
+* IMPÉRATIF
+
+** Présent
+
+organise
+organisons
+organisez
+
+* INFINITIF
+
+** Présent
+
+organiser
+
+* PARTICIPE
+
+** Présent
+
+organisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai organisé
+tu as organisé
+il (elle) a organisé
+nous avons organisé
+vous avez organisé
+ils (elles) ont organisé
+
+** Plus-que-parfait
+
+j'avais organisé
+tu avais organisé
+il (elle) avait organisé
+nous avions organisé
+vous aviez organisé
+ils (elles) avaient organisé
+
+** Passé antérieur
+
+j'eus organisé
+tu eus organisé
+il (elle) eut organisé
+nous eûmes organisé
+vous eûtes organisé
+ils (elles) eurent organisé
+
+** Futur antérieur
+
+j'aurai organisé
+tu auras organisé
+il (elle) aura organisé
+nous aurons organisé
+vous aurez organisé
+ils (elles) auront organisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais organisé
+tu aurais organisé
+il (elle) aurait organisé
+nous aurions organisé
+vous auriez organisé
+ils (elles) auraient organisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie organisé
+que tu aies organisé
+qu’il (elle) ait organisé
+que nous ayons organisé
+que vous ayez organisé
+qu’ils (elles) aient organisé
+
+** Plus-que-parfait
+
+que j'eusse organisé
+que tu eusses organisé
+qu’il (elle) eût organisé
+que nous eussions organisé
+que vous eussiez organisé
+qu’ils (elles) eussent organisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons organisé
+ayez organisé
+
+* INFINITIF
+
+** Passé
+
+avoir organisé
+
+* PARTICIPE
+
+** Passé
+
+ayant organisé
+organisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis organisé(e)
+tu es organisé(e)
+il (elle) est organisé(e)
+nous sommes organisé(e)s
+vous êtes organisé(e)s
+ils (elles) sont organisé(e)s
+
+** Imparfait
+
+j'étais organisé(e)
+tu étais organisé(e)
+il (elle) était organisé(e)
+nous étions organisé(e)s
+vous étiez organisé(e)s
+ils (elles) étaient organisé(e)s
+
+** Passé simple
+
+je fus organisé(e)
+tu fus organisé(e)
+il (elle) fut organisé(e)
+nous fûmes organisé(e)s
+vous fûtes organisé(e)s
+ils (elles) furent organisé(e)s
+
+** Futur simple
+
+je serai organisé(e)
+tu seras organisé(e)
+il (elle) sera organisé(e)
+nous serons organisé(e)s
+vous serez organisé(e)s
+ils (elles) seront organisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais organisé(e)
+tu serais organisé(e)
+il (elle) serait organisé(e)
+nous serions organisé(e)s
+vous seriez organisé(e)s
+ils (elles) seraient organisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois organisé(e)
+que tu sois organisé(e)
+qu’il (elle) soit organisé(e)
+que nous soyons organisé(e)s
+que vous soyez organisé(e)s
+qu’ils (elles) soient organisé(e)s
+
+** Imparfait
+
+que je fusse organisé(e)
+que tu fusses organisé(e)
+qu’il (elle) fût organisé(e)
+que nous fussions organisé(e)s
+que vous fussiez organisé(e)s
+qu’ils (elles) fussent organisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons organisé(e)s
+soyez organisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être organisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant organisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été organisé(e)
+tu as été organisé(e)
+il (elle) a été organisé(e)
+nous avons été organisé(e)s
+vous avez été organisé(e)s
+ils (elles) ont été organisé(e)s
+
+** Plus-que-parfait
+
+j'avais été organisé(e)
+il (elle) avait été organisé(e)
+nous avions été organisé(e)s
+ils (elles) avaient été organisé(e)s
+
+** Passé antérieur
+
+j'eus été organisé(e)
+tu eus été organisé(e)
+il (elle) eut été organisé(e)
+nous eûmes été organisé(e)s
+vous eûtes été organisé(e)s
+ils (elles) eurent été organisé(e)s
+
+** Futur antérieur
+
+j'aurai été organisé(e)
+tu auras été organisé(e)
+il (elle) aura été organisé(e)
+nous aurons été organisé(e)s
+vous aurez été organisé(e)s
+ils (elles) auront été organisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été organisé(e)
+j'aurais été organisé(e)
+il (elle) aurait été organisé(e)
+nous aurions été organisé(e)s
+vous auriez été organisé(e)s
+ils (elles) auraient été organisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été organisé(e)
+que tu aies été organisé(e)
+qu’il (elle) ait été organisé(e)
+que nous ayons été organisé(e)s
+que vous ayez été organisé(e)s
+qu’ils (elles) aient été organisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été organisé(e)
+que tu eusses été organisé(e)
+qu’il (elle) eût été organisé(e)
+que nous eussions été organisé(e)s
+que vous eussiez été organisé(e)s
+qu’ils (elles) eussent été organisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été organisé(e)
+ayons été organisé(e)s
+ayez été organisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été organisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été organisé(e)(s)

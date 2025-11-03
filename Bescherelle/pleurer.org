@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pleurer
+
+* INDICATIF
+
+** Présent
+
+je pleure
+tu pleures
+il (elle) pleure
+nous pleurons
+vous pleurez
+ils (elles) pleurent
+
+** Imparfait
+
+je pleurais
+tu pleurais
+il (elle) pleurait
+nous pleurions
+vous pleuriez
+ils (elles) pleuraient
+
+** Passé simple
+
+je pleurai
+tu pleuras
+il (elle) pleura
+nous pleurâmes
+vous pleurâtes
+ils (elles) pleurèrent
+
+** Futur simple
+
+je pleurerai
+tu pleureras
+il (elle) pleurera
+nous pleurerons
+vous pleurerez
+ils (elles) pleureront
+
+* CONDITIONNEL
+
+** Présent
+
+je pleurerais
+tu pleurerais
+il (elle) pleurerait
+nous pleurerions
+vous pleureriez
+ils (elles) pleureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pleure
+que tu pleures
+qu’il (elle) pleure
+que nous pleurions
+que vous pleuriez
+qu’ils (elles) pleurent
+
+** Imparfait
+
+que je pleurasse
+que tu pleurasses
+qu’il (elle) pleurât
+que nous pleurassions
+que vous pleurassiez
+qu’ils (elles) pleurassent
+
+* IMPÉRATIF
+
+** Présent
+
+pleure
+pleurons
+pleurez
+
+* INFINITIF
+
+** Présent
+
+pleurer
+
+* PARTICIPE
+
+** Présent
+
+pleurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pleuré
+tu as pleuré
+il (elle) a pleuré
+nous avons pleuré
+vous avez pleuré
+ils (elles) ont pleuré
+
+** Plus-que-parfait
+
+j'avais pleuré
+tu avais pleuré
+il (elle) avait pleuré
+nous avions pleuré
+vous aviez pleuré
+ils (elles) avaient pleuré
+
+** Passé antérieur
+
+j'eus pleuré
+tu eus pleuré
+il (elle) eut pleuré
+nous eûmes pleuré
+vous eûtes pleuré
+ils (elles) eurent pleuré
+
+** Futur antérieur
+
+j'aurai pleuré
+tu auras pleuré
+il (elle) aura pleuré
+nous aurons pleuré
+vous aurez pleuré
+ils (elles) auront pleuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pleuré
+tu aurais pleuré
+il (elle) aurait pleuré
+nous aurions pleuré
+vous auriez pleuré
+ils (elles) auraient pleuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pleuré
+que tu aies pleuré
+qu’il (elle) ait pleuré
+que nous ayons pleuré
+que vous ayez pleuré
+qu’ils (elles) aient pleuré
+
+** Plus-que-parfait
+
+que j'eusse pleuré
+que tu eusses pleuré
+qu’il (elle) eût pleuré
+que nous eussions pleuré
+que vous eussiez pleuré
+qu’ils (elles) eussent pleuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pleuré
+ayez pleuré
+
+* INFINITIF
+
+** Passé
+
+avoir pleuré
+
+* PARTICIPE
+
+** Passé
+
+ayant pleuré
+pleuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pleuré(e)
+tu es pleuré(e)
+il (elle) est pleuré(e)
+nous sommes pleuré(e)s
+vous êtes pleuré(e)s
+ils (elles) sont pleuré(e)s
+
+** Imparfait
+
+j'étais pleuré(e)
+tu étais pleuré(e)
+il (elle) était pleuré(e)
+nous étions pleuré(e)s
+vous étiez pleuré(e)s
+ils (elles) étaient pleuré(e)s
+
+** Passé simple
+
+je fus pleuré(e)
+tu fus pleuré(e)
+il (elle) fut pleuré(e)
+nous fûmes pleuré(e)s
+vous fûtes pleuré(e)s
+ils (elles) furent pleuré(e)s
+
+** Futur simple
+
+je serai pleuré(e)
+tu seras pleuré(e)
+il (elle) sera pleuré(e)
+nous serons pleuré(e)s
+vous serez pleuré(e)s
+ils (elles) seront pleuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pleuré(e)
+tu serais pleuré(e)
+il (elle) serait pleuré(e)
+nous serions pleuré(e)s
+vous seriez pleuré(e)s
+ils (elles) seraient pleuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pleuré(e)
+que tu sois pleuré(e)
+qu’il (elle) soit pleuré(e)
+que nous soyons pleuré(e)s
+que vous soyez pleuré(e)s
+qu’ils (elles) soient pleuré(e)s
+
+** Imparfait
+
+que je fusse pleuré(e)
+que tu fusses pleuré(e)
+qu’il (elle) fût pleuré(e)
+que nous fussions pleuré(e)s
+que vous fussiez pleuré(e)s
+qu’ils (elles) fussent pleuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pleuré(e)s
+soyez pleuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être pleuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pleuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pleuré(e)
+tu as été pleuré(e)
+il (elle) a été pleuré(e)
+nous avons été pleuré(e)s
+vous avez été pleuré(e)s
+ils (elles) ont été pleuré(e)s
+
+** Plus-que-parfait
+
+j'avais été pleuré(e)
+il (elle) avait été pleuré(e)
+nous avions été pleuré(e)s
+ils (elles) avaient été pleuré(e)s
+
+** Passé antérieur
+
+j'eus été pleuré(e)
+tu eus été pleuré(e)
+il (elle) eut été pleuré(e)
+nous eûmes été pleuré(e)s
+vous eûtes été pleuré(e)s
+ils (elles) eurent été pleuré(e)s
+
+** Futur antérieur
+
+j'aurai été pleuré(e)
+tu auras été pleuré(e)
+il (elle) aura été pleuré(e)
+nous aurons été pleuré(e)s
+vous aurez été pleuré(e)s
+ils (elles) auront été pleuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pleuré(e)
+j'aurais été pleuré(e)
+il (elle) aurait été pleuré(e)
+nous aurions été pleuré(e)s
+vous auriez été pleuré(e)s
+ils (elles) auraient été pleuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pleuré(e)
+que tu aies été pleuré(e)
+qu’il (elle) ait été pleuré(e)
+que nous ayons été pleuré(e)s
+que vous ayez été pleuré(e)s
+qu’ils (elles) aient été pleuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pleuré(e)
+que tu eusses été pleuré(e)
+qu’il (elle) eût été pleuré(e)
+que nous eussions été pleuré(e)s
+que vous eussiez été pleuré(e)s
+qu’ils (elles) eussent été pleuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pleuré(e)
+ayons été pleuré(e)s
+ayez été pleuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pleuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pleuré(e)(s)

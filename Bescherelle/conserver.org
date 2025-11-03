@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conserver
+
+* INDICATIF
+
+** Présent
+
+je conserve
+tu conserves
+il (elle) conserve
+nous conservons
+vous conservez
+ils (elles) conservent
+
+** Imparfait
+
+je conservais
+tu conservais
+il (elle) conservait
+nous conservions
+vous conserviez
+ils (elles) conservaient
+
+** Passé simple
+
+je conservai
+tu conservas
+il (elle) conserva
+nous conservâmes
+vous conservâtes
+ils (elles) conservèrent
+
+** Futur simple
+
+je conserverai
+tu conserveras
+il (elle) conservera
+nous conserverons
+vous conserverez
+ils (elles) conserveront
+
+* CONDITIONNEL
+
+** Présent
+
+je conserverais
+tu conserverais
+il (elle) conserverait
+nous conserverions
+vous conserveriez
+ils (elles) conserveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conserve
+que tu conserves
+qu’il (elle) conserve
+que nous conservions
+que vous conserviez
+qu’ils (elles) conservent
+
+** Imparfait
+
+que je conservasse
+que tu conservasses
+qu’il (elle) conservât
+que nous conservassions
+que vous conservassiez
+qu’ils (elles) conservassent
+
+* IMPÉRATIF
+
+** Présent
+
+conserve
+conservons
+conservez
+
+* INFINITIF
+
+** Présent
+
+conserver
+
+* PARTICIPE
+
+** Présent
+
+conservant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conservé
+tu as conservé
+il (elle) a conservé
+nous avons conservé
+vous avez conservé
+ils (elles) ont conservé
+
+** Plus-que-parfait
+
+j'avais conservé
+tu avais conservé
+il (elle) avait conservé
+nous avions conservé
+vous aviez conservé
+ils (elles) avaient conservé
+
+** Passé antérieur
+
+j'eus conservé
+tu eus conservé
+il (elle) eut conservé
+nous eûmes conservé
+vous eûtes conservé
+ils (elles) eurent conservé
+
+** Futur antérieur
+
+j'aurai conservé
+tu auras conservé
+il (elle) aura conservé
+nous aurons conservé
+vous aurez conservé
+ils (elles) auront conservé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conservé
+tu aurais conservé
+il (elle) aurait conservé
+nous aurions conservé
+vous auriez conservé
+ils (elles) auraient conservé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conservé
+que tu aies conservé
+qu’il (elle) ait conservé
+que nous ayons conservé
+que vous ayez conservé
+qu’ils (elles) aient conservé
+
+** Plus-que-parfait
+
+que j'eusse conservé
+que tu eusses conservé
+qu’il (elle) eût conservé
+que nous eussions conservé
+que vous eussiez conservé
+qu’ils (elles) eussent conservé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conservé
+ayez conservé
+
+* INFINITIF
+
+** Passé
+
+avoir conservé
+
+* PARTICIPE
+
+** Passé
+
+ayant conservé
+conservé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conservé(e)
+tu es conservé(e)
+il (elle) est conservé(e)
+nous sommes conservé(e)s
+vous êtes conservé(e)s
+ils (elles) sont conservé(e)s
+
+** Imparfait
+
+j'étais conservé(e)
+tu étais conservé(e)
+il (elle) était conservé(e)
+nous étions conservé(e)s
+vous étiez conservé(e)s
+ils (elles) étaient conservé(e)s
+
+** Passé simple
+
+je fus conservé(e)
+tu fus conservé(e)
+il (elle) fut conservé(e)
+nous fûmes conservé(e)s
+vous fûtes conservé(e)s
+ils (elles) furent conservé(e)s
+
+** Futur simple
+
+je serai conservé(e)
+tu seras conservé(e)
+il (elle) sera conservé(e)
+nous serons conservé(e)s
+vous serez conservé(e)s
+ils (elles) seront conservé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conservé(e)
+tu serais conservé(e)
+il (elle) serait conservé(e)
+nous serions conservé(e)s
+vous seriez conservé(e)s
+ils (elles) seraient conservé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conservé(e)
+que tu sois conservé(e)
+qu’il (elle) soit conservé(e)
+que nous soyons conservé(e)s
+que vous soyez conservé(e)s
+qu’ils (elles) soient conservé(e)s
+
+** Imparfait
+
+que je fusse conservé(e)
+que tu fusses conservé(e)
+qu’il (elle) fût conservé(e)
+que nous fussions conservé(e)s
+que vous fussiez conservé(e)s
+qu’ils (elles) fussent conservé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conservé(e)s
+soyez conservé(e)s
+
+* INFINITIF
+
+** Présent
+
+être conservé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conservé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conservé(e)
+tu as été conservé(e)
+il (elle) a été conservé(e)
+nous avons été conservé(e)s
+vous avez été conservé(e)s
+ils (elles) ont été conservé(e)s
+
+** Plus-que-parfait
+
+j'avais été conservé(e)
+il (elle) avait été conservé(e)
+nous avions été conservé(e)s
+ils (elles) avaient été conservé(e)s
+
+** Passé antérieur
+
+j'eus été conservé(e)
+tu eus été conservé(e)
+il (elle) eut été conservé(e)
+nous eûmes été conservé(e)s
+vous eûtes été conservé(e)s
+ils (elles) eurent été conservé(e)s
+
+** Futur antérieur
+
+j'aurai été conservé(e)
+tu auras été conservé(e)
+il (elle) aura été conservé(e)
+nous aurons été conservé(e)s
+vous aurez été conservé(e)s
+ils (elles) auront été conservé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conservé(e)
+j'aurais été conservé(e)
+il (elle) aurait été conservé(e)
+nous aurions été conservé(e)s
+vous auriez été conservé(e)s
+ils (elles) auraient été conservé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conservé(e)
+que tu aies été conservé(e)
+qu’il (elle) ait été conservé(e)
+que nous ayons été conservé(e)s
+que vous ayez été conservé(e)s
+qu’ils (elles) aient été conservé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conservé(e)
+que tu eusses été conservé(e)
+qu’il (elle) eût été conservé(e)
+que nous eussions été conservé(e)s
+que vous eussiez été conservé(e)s
+qu’ils (elles) eussent été conservé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conservé(e)
+ayons été conservé(e)s
+ayez été conservé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conservé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conservé(e)(s)

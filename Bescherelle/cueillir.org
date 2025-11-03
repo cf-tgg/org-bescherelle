@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cueillir
+
+* INDICATIF
+
+** Présent
+
+je cueille
+tu cueilles
+il (elle) cueille
+nous cueillons
+vous cueillez
+ils (elles) cueillent
+
+** Imparfait
+
+je cueillais
+tu cueillais
+il (elle) cueillait
+nous cueillions
+vous cueilliez
+ils (elles) cueillaient
+
+** Passé simple
+
+je cueillis
+tu cueillis
+il (elle) cueillit
+nous cueillîmes
+vous cueillîtes
+ils (elles) cueillirent
+
+** Futur simple
+
+je cueillerai
+tu cueilleras
+il (elle) cueillera
+nous cueillerons
+vous cueillerez
+ils (elles) cueilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je cueillerais
+tu cueillerais
+il (elle) cueillerait
+nous cueillerions
+vous cueilleriez
+ils (elles) cueilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cueille
+que tu cueilles
+qu’il (elle) cueille
+que nous cueillions
+que vous cueilliez
+qu’ils (elles) cueillent
+
+** Imparfait
+
+que je cueillisse
+que tu cueillisses
+qu’il (elle) cueillît
+que nous cueillissions
+que vous cueillissiez
+qu’ils (elles) cueillissent
+
+* IMPÉRATIF
+
+** Présent
+
+cueille
+cueillons
+cueillez
+
+* INFINITIF
+
+** Présent
+
+cueillir
+
+* PARTICIPE
+
+** Présent
+
+cueillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cueilli
+tu as cueilli
+il (elle) a cueilli
+nous avons cueilli
+vous avez cueilli
+ils (elles) ont cueilli
+
+** Plus-que-parfait
+
+j'avais cueilli
+tu avais cueilli
+il (elle) avait cueilli
+nous avions cueilli
+vous aviez cueilli
+ils (elles) avaient cueilli
+
+** Passé antérieur
+
+j'eus cueilli
+tu eus cueilli
+il (elle) eut cueilli
+nous eûmes cueilli
+vous eûtes cueilli
+ils (elles) eurent cueilli
+
+** Futur antérieur
+
+j'aurai cueilli
+tu auras cueilli
+il (elle) aura cueilli
+nous aurons cueilli
+vous aurez cueilli
+ils (elles) auront cueilli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cueilli
+tu aurais cueilli
+il (elle) aurait cueilli
+nous aurions cueilli
+vous auriez cueilli
+ils (elles) auraient cueilli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cueilli
+que tu aies cueilli
+qu’il (elle) ait cueilli
+que nous ayons cueilli
+que vous ayez cueilli
+qu’ils (elles) aient cueilli
+
+** Plus-que-parfait
+
+que j'eusse cueilli
+que tu eusses cueilli
+qu’il (elle) eût cueilli
+que nous eussions cueilli
+que vous eussiez cueilli
+qu’ils (elles) eussent cueilli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cueilli
+ayez cueilli
+
+* INFINITIF
+
+** Passé
+
+avoir cueilli
+
+* PARTICIPE
+
+** Passé
+
+ayant cueilli
+cueilli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis cueilli(e)
+tu es cueilli(e)
+il (elle) est cueilli(e)
+nous sommes cueilli(e)s
+vous êtes cueilli(e)s
+ils (elles) sont cueilli(e)s
+
+** Imparfait
+
+j'étais cueilli(e)
+tu étais cueilli(e)
+il (elle) était cueilli(e)
+nous étions cueilli(e)s
+vous étiez cueilli(e)s
+ils (elles) étaient cueilli(e)s
+
+** Passé simple
+
+je fus cueilli(e)
+tu fus cueilli(e)
+il (elle) fut cueilli(e)
+nous fûmes cueilli(e)s
+vous fûtes cueilli(e)s
+ils (elles) furent cueilli(e)s
+
+** Futur simple
+
+je serai cueilli(e)
+tu seras cueilli(e)
+il (elle) sera cueilli(e)
+nous serons cueilli(e)s
+vous serez cueilli(e)s
+ils (elles) seront cueilli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cueilli(e)
+tu serais cueilli(e)
+il (elle) serait cueilli(e)
+nous serions cueilli(e)s
+vous seriez cueilli(e)s
+ils (elles) seraient cueilli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cueilli(e)
+que tu sois cueilli(e)
+qu’il (elle) soit cueilli(e)
+que nous soyons cueilli(e)s
+que vous soyez cueilli(e)s
+qu’ils (elles) soient cueilli(e)s
+
+** Imparfait
+
+que je fusse cueilli(e)
+que tu fusses cueilli(e)
+qu’il (elle) fût cueilli(e)
+que nous fussions cueilli(e)s
+que vous fussiez cueilli(e)s
+qu’ils (elles) fussent cueilli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cueilli(e)s
+soyez cueilli(e)s
+
+* INFINITIF
+
+** Présent
+
+être cueilli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cueilli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cueilli(e)
+tu as été cueilli(e)
+il (elle) a été cueilli(e)
+nous avons été cueilli(e)s
+vous avez été cueilli(e)s
+ils (elles) ont été cueilli(e)s
+
+** Plus-que-parfait
+
+j'avais été cueilli(e)
+il (elle) avait été cueilli(e)
+nous avions été cueilli(e)s
+ils (elles) avaient été cueilli(e)s
+
+** Passé antérieur
+
+j'eus été cueilli(e)
+tu eus été cueilli(e)
+il (elle) eut été cueilli(e)
+nous eûmes été cueilli(e)s
+vous eûtes été cueilli(e)s
+ils (elles) eurent été cueilli(e)s
+
+** Futur antérieur
+
+j'aurai été cueilli(e)
+tu auras été cueilli(e)
+il (elle) aura été cueilli(e)
+nous aurons été cueilli(e)s
+vous aurez été cueilli(e)s
+ils (elles) auront été cueilli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cueilli(e)
+j'aurais été cueilli(e)
+il (elle) aurait été cueilli(e)
+nous aurions été cueilli(e)s
+vous auriez été cueilli(e)s
+ils (elles) auraient été cueilli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cueilli(e)
+que tu aies été cueilli(e)
+qu’il (elle) ait été cueilli(e)
+que nous ayons été cueilli(e)s
+que vous ayez été cueilli(e)s
+qu’ils (elles) aient été cueilli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cueilli(e)
+que tu eusses été cueilli(e)
+qu’il (elle) eût été cueilli(e)
+que nous eussions été cueilli(e)s
+que vous eussiez été cueilli(e)s
+qu’ils (elles) eussent été cueilli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cueilli(e)
+ayons été cueilli(e)s
+ayez été cueilli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cueilli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cueilli(e)(s)

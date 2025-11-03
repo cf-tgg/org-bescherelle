@@ -1,0 +1,108 @@
+#+title: Conjugaison du verbe veler
+
+* INDICATIF
+
+** Présent
+
+elle vêle
+elles vêlent
+
+** Imparfait
+
+elle vêlait
+elles vêlaient
+
+** Passé simple
+
+elle vêla
+elles vêlèrent
+
+** Futur simple
+
+elle vêlera
+elles vêleront
+
+* CONDITIONNEL
+
+** Présent
+
+elle vêlerait
+elles vêleraient
+
+* SUBJONCTIF
+
+** Présent
+
+qu’elle vêle
+qu’elles vêlent
+
+** Imparfait
+
+qu’elle vêlât
+qu’elles vêlassent
+
+* INFINITIF
+
+** Présent
+
+vêler
+
+* PARTICIPE
+
+** Présent
+
+vêlant
+
+* INDICATIF
+
+** Passé composé
+
+elle a vêlé
+elles ont vêlé
+
+** Plus-que-parfait
+
+elle avait vêlé
+elles avaient vêlé
+
+** Passé antérieur
+
+elle eut vêlé
+elles eurent vêlé
+
+** Futur antérieur
+
+elle aura vêlé
+elles auront vêlé
+
+* CONDITIONNEL
+
+** Passé
+
+elle aurait vêlé
+elles auraient vêlé
+
+* SUBJONCTIF
+
+** Passé
+
+qu’elle ait vêlé
+qu’elles aient vêlé
+
+** Plus-que-parfait
+
+qu’elle eût vêlé
+qu’elles eussent vêlé
+
+* INFINITIF
+
+** Passé
+
+avoir vêlé
+
+* PARTICIPE
+
+** Passé
+
+ayant vêlé
+vêlé (invar.)

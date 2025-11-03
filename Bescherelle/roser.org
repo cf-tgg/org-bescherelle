@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe roser
+
+* INDICATIF
+
+** Présent
+
+je rose
+tu roses
+il (elle) rose
+nous rosons
+vous rosez
+ils (elles) rosent
+
+** Imparfait
+
+je rosais
+tu rosais
+il (elle) rosait
+nous rosions
+vous rosiez
+ils (elles) rosaient
+
+** Passé simple
+
+je rosai
+tu rosas
+il (elle) rosa
+nous rosâmes
+vous rosâtes
+ils (elles) rosèrent
+
+** Futur simple
+
+je roserai
+tu roseras
+il (elle) rosera
+nous roserons
+vous roserez
+ils (elles) roseront
+
+* CONDITIONNEL
+
+** Présent
+
+je roserais
+tu roserais
+il (elle) roserait
+nous roserions
+vous roseriez
+ils (elles) roseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rose
+que tu roses
+qu’il (elle) rose
+que nous rosions
+que vous rosiez
+qu’ils (elles) rosent
+
+** Imparfait
+
+que je rosasse
+que tu rosasses
+qu’il (elle) rosât
+que nous rosassions
+que vous rosassiez
+qu’ils (elles) rosassent
+
+* IMPÉRATIF
+
+** Présent
+
+rose
+rosons
+rosez
+
+* INFINITIF
+
+** Présent
+
+roser
+
+* PARTICIPE
+
+** Présent
+
+rosant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rosé
+tu as rosé
+il (elle) a rosé
+nous avons rosé
+vous avez rosé
+ils (elles) ont rosé
+
+** Plus-que-parfait
+
+j'avais rosé
+tu avais rosé
+il (elle) avait rosé
+nous avions rosé
+vous aviez rosé
+ils (elles) avaient rosé
+
+** Passé antérieur
+
+j'eus rosé
+tu eus rosé
+il (elle) eut rosé
+nous eûmes rosé
+vous eûtes rosé
+ils (elles) eurent rosé
+
+** Futur antérieur
+
+j'aurai rosé
+tu auras rosé
+il (elle) aura rosé
+nous aurons rosé
+vous aurez rosé
+ils (elles) auront rosé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rosé
+tu aurais rosé
+il (elle) aurait rosé
+nous aurions rosé
+vous auriez rosé
+ils (elles) auraient rosé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rosé
+que tu aies rosé
+qu’il (elle) ait rosé
+que nous ayons rosé
+que vous ayez rosé
+qu’ils (elles) aient rosé
+
+** Plus-que-parfait
+
+que j'eusse rosé
+que tu eusses rosé
+qu’il (elle) eût rosé
+que nous eussions rosé
+que vous eussiez rosé
+qu’ils (elles) eussent rosé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rosé
+ayez rosé
+
+* INFINITIF
+
+** Passé
+
+avoir rosé
+
+* PARTICIPE
+
+** Passé
+
+ayant rosé
+rosé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rosé(e)
+tu es rosé(e)
+il (elle) est rosé(e)
+nous sommes rosé(e)s
+vous êtes rosé(e)s
+ils (elles) sont rosé(e)s
+
+** Imparfait
+
+j'étais rosé(e)
+tu étais rosé(e)
+il (elle) était rosé(e)
+nous étions rosé(e)s
+vous étiez rosé(e)s
+ils (elles) étaient rosé(e)s
+
+** Passé simple
+
+je fus rosé(e)
+tu fus rosé(e)
+il (elle) fut rosé(e)
+nous fûmes rosé(e)s
+vous fûtes rosé(e)s
+ils (elles) furent rosé(e)s
+
+** Futur simple
+
+je serai rosé(e)
+tu seras rosé(e)
+il (elle) sera rosé(e)
+nous serons rosé(e)s
+vous serez rosé(e)s
+ils (elles) seront rosé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rosé(e)
+tu serais rosé(e)
+il (elle) serait rosé(e)
+nous serions rosé(e)s
+vous seriez rosé(e)s
+ils (elles) seraient rosé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rosé(e)
+que tu sois rosé(e)
+qu’il (elle) soit rosé(e)
+que nous soyons rosé(e)s
+que vous soyez rosé(e)s
+qu’ils (elles) soient rosé(e)s
+
+** Imparfait
+
+que je fusse rosé(e)
+que tu fusses rosé(e)
+qu’il (elle) fût rosé(e)
+que nous fussions rosé(e)s
+que vous fussiez rosé(e)s
+qu’ils (elles) fussent rosé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rosé(e)s
+soyez rosé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rosé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rosé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rosé(e)
+tu as été rosé(e)
+il (elle) a été rosé(e)
+nous avons été rosé(e)s
+vous avez été rosé(e)s
+ils (elles) ont été rosé(e)s
+
+** Plus-que-parfait
+
+j'avais été rosé(e)
+il (elle) avait été rosé(e)
+nous avions été rosé(e)s
+ils (elles) avaient été rosé(e)s
+
+** Passé antérieur
+
+j'eus été rosé(e)
+tu eus été rosé(e)
+il (elle) eut été rosé(e)
+nous eûmes été rosé(e)s
+vous eûtes été rosé(e)s
+ils (elles) eurent été rosé(e)s
+
+** Futur antérieur
+
+j'aurai été rosé(e)
+tu auras été rosé(e)
+il (elle) aura été rosé(e)
+nous aurons été rosé(e)s
+vous aurez été rosé(e)s
+ils (elles) auront été rosé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rosé(e)
+j'aurais été rosé(e)
+il (elle) aurait été rosé(e)
+nous aurions été rosé(e)s
+vous auriez été rosé(e)s
+ils (elles) auraient été rosé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rosé(e)
+que tu aies été rosé(e)
+qu’il (elle) ait été rosé(e)
+que nous ayons été rosé(e)s
+que vous ayez été rosé(e)s
+qu’ils (elles) aient été rosé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rosé(e)
+que tu eusses été rosé(e)
+qu’il (elle) eût été rosé(e)
+que nous eussions été rosé(e)s
+que vous eussiez été rosé(e)s
+qu’ils (elles) eussent été rosé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rosé(e)
+ayons été rosé(e)s
+ayez été rosé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rosé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rosé(e)(s)

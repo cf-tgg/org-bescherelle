@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emprunter
+
+* INDICATIF
+
+** Présent
+
+j'emprunte
+tu empruntes
+il (elle) emprunte
+nous empruntons
+vous empruntez
+ils (elles) empruntent
+
+** Imparfait
+
+j'empruntais
+tu empruntais
+il (elle) empruntait
+nous empruntions
+vous empruntiez
+ils (elles) empruntaient
+
+** Passé simple
+
+j'empruntai
+tu empruntas
+il (elle) emprunta
+nous empruntâmes
+vous empruntâtes
+ils (elles) empruntèrent
+
+** Futur simple
+
+j'emprunterai
+tu emprunteras
+il (elle) empruntera
+nous emprunterons
+vous emprunterez
+ils (elles) emprunteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emprunterais
+tu emprunterais
+il (elle) emprunterait
+nous emprunterions
+vous emprunteriez
+ils (elles) emprunteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emprunte
+que tu empruntes
+qu’il (elle) emprunte
+que nous empruntions
+que vous empruntiez
+qu’ils (elles) empruntent
+
+** Imparfait
+
+que j'empruntasse
+que tu empruntasses
+qu’il (elle) empruntât
+que nous empruntassions
+que vous empruntassiez
+qu’ils (elles) empruntassent
+
+* IMPÉRATIF
+
+** Présent
+
+emprunte
+empruntons
+empruntez
+
+* INFINITIF
+
+** Présent
+
+emprunter
+
+* PARTICIPE
+
+** Présent
+
+empruntant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai emprunté
+tu as emprunté
+il (elle) a emprunté
+nous avons emprunté
+vous avez emprunté
+ils (elles) ont emprunté
+
+** Plus-que-parfait
+
+j'avais emprunté
+tu avais emprunté
+il (elle) avait emprunté
+nous avions emprunté
+vous aviez emprunté
+ils (elles) avaient emprunté
+
+** Passé antérieur
+
+j'eus emprunté
+tu eus emprunté
+il (elle) eut emprunté
+nous eûmes emprunté
+vous eûtes emprunté
+ils (elles) eurent emprunté
+
+** Futur antérieur
+
+j'aurai emprunté
+tu auras emprunté
+il (elle) aura emprunté
+nous aurons emprunté
+vous aurez emprunté
+ils (elles) auront emprunté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais emprunté
+tu aurais emprunté
+il (elle) aurait emprunté
+nous aurions emprunté
+vous auriez emprunté
+ils (elles) auraient emprunté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie emprunté
+que tu aies emprunté
+qu’il (elle) ait emprunté
+que nous ayons emprunté
+que vous ayez emprunté
+qu’ils (elles) aient emprunté
+
+** Plus-que-parfait
+
+que j'eusse emprunté
+que tu eusses emprunté
+qu’il (elle) eût emprunté
+que nous eussions emprunté
+que vous eussiez emprunté
+qu’ils (elles) eussent emprunté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons emprunté
+ayez emprunté
+
+* INFINITIF
+
+** Passé
+
+avoir emprunté
+
+* PARTICIPE
+
+** Passé
+
+ayant emprunté
+emprunté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis emprunté(e)
+tu es emprunté(e)
+il (elle) est emprunté(e)
+nous sommes emprunté(e)s
+vous êtes emprunté(e)s
+ils (elles) sont emprunté(e)s
+
+** Imparfait
+
+j'étais emprunté(e)
+tu étais emprunté(e)
+il (elle) était emprunté(e)
+nous étions emprunté(e)s
+vous étiez emprunté(e)s
+ils (elles) étaient emprunté(e)s
+
+** Passé simple
+
+je fus emprunté(e)
+tu fus emprunté(e)
+il (elle) fut emprunté(e)
+nous fûmes emprunté(e)s
+vous fûtes emprunté(e)s
+ils (elles) furent emprunté(e)s
+
+** Futur simple
+
+je serai emprunté(e)
+tu seras emprunté(e)
+il (elle) sera emprunté(e)
+nous serons emprunté(e)s
+vous serez emprunté(e)s
+ils (elles) seront emprunté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais emprunté(e)
+tu serais emprunté(e)
+il (elle) serait emprunté(e)
+nous serions emprunté(e)s
+vous seriez emprunté(e)s
+ils (elles) seraient emprunté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois emprunté(e)
+que tu sois emprunté(e)
+qu’il (elle) soit emprunté(e)
+que nous soyons emprunté(e)s
+que vous soyez emprunté(e)s
+qu’ils (elles) soient emprunté(e)s
+
+** Imparfait
+
+que je fusse emprunté(e)
+que tu fusses emprunté(e)
+qu’il (elle) fût emprunté(e)
+que nous fussions emprunté(e)s
+que vous fussiez emprunté(e)s
+qu’ils (elles) fussent emprunté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons emprunté(e)s
+soyez emprunté(e)s
+
+* INFINITIF
+
+** Présent
+
+être emprunté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant emprunté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été emprunté(e)
+tu as été emprunté(e)
+il (elle) a été emprunté(e)
+nous avons été emprunté(e)s
+vous avez été emprunté(e)s
+ils (elles) ont été emprunté(e)s
+
+** Plus-que-parfait
+
+j'avais été emprunté(e)
+il (elle) avait été emprunté(e)
+nous avions été emprunté(e)s
+ils (elles) avaient été emprunté(e)s
+
+** Passé antérieur
+
+j'eus été emprunté(e)
+tu eus été emprunté(e)
+il (elle) eut été emprunté(e)
+nous eûmes été emprunté(e)s
+vous eûtes été emprunté(e)s
+ils (elles) eurent été emprunté(e)s
+
+** Futur antérieur
+
+j'aurai été emprunté(e)
+tu auras été emprunté(e)
+il (elle) aura été emprunté(e)
+nous aurons été emprunté(e)s
+vous aurez été emprunté(e)s
+ils (elles) auront été emprunté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été emprunté(e)
+j'aurais été emprunté(e)
+il (elle) aurait été emprunté(e)
+nous aurions été emprunté(e)s
+vous auriez été emprunté(e)s
+ils (elles) auraient été emprunté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été emprunté(e)
+que tu aies été emprunté(e)
+qu’il (elle) ait été emprunté(e)
+que nous ayons été emprunté(e)s
+que vous ayez été emprunté(e)s
+qu’ils (elles) aient été emprunté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été emprunté(e)
+que tu eusses été emprunté(e)
+qu’il (elle) eût été emprunté(e)
+que nous eussions été emprunté(e)s
+que vous eussiez été emprunté(e)s
+qu’ils (elles) eussent été emprunté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été emprunté(e)
+ayons été emprunté(e)s
+ayez été emprunté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été emprunté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été emprunté(e)(s)

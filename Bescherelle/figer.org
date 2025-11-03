@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe figer
+
+* INDICATIF
+
+** Présent
+
+je fige
+tu figes
+il (elle) fige
+nous figeons
+vous figez
+ils (elles) figent
+
+** Imparfait
+
+je figeais
+tu figeais
+il (elle) figeait
+nous figions
+vous figiez
+ils (elles) figeaient
+
+** Passé simple
+
+je figeai
+tu figeas
+il (elle) figea
+nous figeâmes
+vous figeâtes
+ils (elles) figèrent
+
+** Futur simple
+
+je figerai
+tu figeras
+il (elle) figera
+nous figerons
+vous figerez
+ils (elles) figeront
+
+* CONDITIONNEL
+
+** Présent
+
+je figerais
+tu figerais
+il (elle) figerait
+nous figerions
+vous figeriez
+ils (elles) figeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fige
+que tu figes
+qu’il (elle) fige
+que nous figions
+que vous figiez
+qu’ils (elles) figent
+
+** Imparfait
+
+que je figeasse
+que tu figeasses
+qu’il (elle) figeât
+que nous figeassions
+que vous figeassiez
+qu’ils (elles) figeassent
+
+* IMPÉRATIF
+
+** Présent
+
+fige
+figeons
+figez
+
+* INFINITIF
+
+** Présent
+
+figer
+
+* PARTICIPE
+
+** Présent
+
+figeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai figé
+tu as figé
+il (elle) a figé
+nous avons figé
+vous avez figé
+ils (elles) ont figé
+
+** Plus-que-parfait
+
+j'avais figé
+tu avais figé
+il (elle) avait figé
+nous avions figé
+vous aviez figé
+ils (elles) avaient figé
+
+** Passé antérieur
+
+j'eus figé
+tu eus figé
+il (elle) eut figé
+nous eûmes figé
+vous eûtes figé
+ils (elles) eurent figé
+
+** Futur antérieur
+
+j'aurai figé
+tu auras figé
+il (elle) aura figé
+nous aurons figé
+vous aurez figé
+ils (elles) auront figé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais figé
+tu aurais figé
+il (elle) aurait figé
+nous aurions figé
+vous auriez figé
+ils (elles) auraient figé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie figé
+que tu aies figé
+qu’il (elle) ait figé
+que nous ayons figé
+que vous ayez figé
+qu’ils (elles) aient figé
+
+** Plus-que-parfait
+
+que j'eusse figé
+que tu eusses figé
+qu’il (elle) eût figé
+que nous eussions figé
+que vous eussiez figé
+qu’ils (elles) eussent figé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons figé
+ayez figé
+
+* INFINITIF
+
+** Passé
+
+avoir figé
+
+* PARTICIPE
+
+** Passé
+
+ayant figé
+figé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis figé(e)
+tu es figé(e)
+il (elle) est figé(e)
+nous sommes figé(e)s
+vous êtes figé(e)s
+ils (elles) sont figé(e)s
+
+** Imparfait
+
+j'étais figé(e)
+tu étais figé(e)
+il (elle) était figé(e)
+nous étions figé(e)s
+vous étiez figé(e)s
+ils (elles) étaient figé(e)s
+
+** Passé simple
+
+je fus figé(e)
+tu fus figé(e)
+il (elle) fut figé(e)
+nous fûmes figé(e)s
+vous fûtes figé(e)s
+ils (elles) furent figé(e)s
+
+** Futur simple
+
+je serai figé(e)
+tu seras figé(e)
+il (elle) sera figé(e)
+nous serons figé(e)s
+vous serez figé(e)s
+ils (elles) seront figé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais figé(e)
+tu serais figé(e)
+il (elle) serait figé(e)
+nous serions figé(e)s
+vous seriez figé(e)s
+ils (elles) seraient figé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois figé(e)
+que tu sois figé(e)
+qu’il (elle) soit figé(e)
+que nous soyons figé(e)s
+que vous soyez figé(e)s
+qu’ils (elles) soient figé(e)s
+
+** Imparfait
+
+que je fusse figé(e)
+que tu fusses figé(e)
+qu’il (elle) fût figé(e)
+que nous fussions figé(e)s
+que vous fussiez figé(e)s
+qu’ils (elles) fussent figé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons figé(e)s
+soyez figé(e)s
+
+* INFINITIF
+
+** Présent
+
+être figé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant figé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été figé(e)
+tu as été figé(e)
+il (elle) a été figé(e)
+nous avons été figé(e)s
+vous avez été figé(e)s
+ils (elles) ont été figé(e)s
+
+** Plus-que-parfait
+
+j'avais été figé(e)
+il (elle) avait été figé(e)
+nous avions été figé(e)s
+ils (elles) avaient été figé(e)s
+
+** Passé antérieur
+
+j'eus été figé(e)
+tu eus été figé(e)
+il (elle) eut été figé(e)
+nous eûmes été figé(e)s
+vous eûtes été figé(e)s
+ils (elles) eurent été figé(e)s
+
+** Futur antérieur
+
+j'aurai été figé(e)
+tu auras été figé(e)
+il (elle) aura été figé(e)
+nous aurons été figé(e)s
+vous aurez été figé(e)s
+ils (elles) auront été figé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été figé(e)
+j'aurais été figé(e)
+il (elle) aurait été figé(e)
+nous aurions été figé(e)s
+vous auriez été figé(e)s
+ils (elles) auraient été figé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été figé(e)
+que tu aies été figé(e)
+qu’il (elle) ait été figé(e)
+que nous ayons été figé(e)s
+que vous ayez été figé(e)s
+qu’ils (elles) aient été figé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été figé(e)
+que tu eusses été figé(e)
+qu’il (elle) eût été figé(e)
+que nous eussions été figé(e)s
+que vous eussiez été figé(e)s
+qu’ils (elles) eussent été figé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été figé(e)
+ayons été figé(e)s
+ayez été figé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été figé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été figé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inspirer
+
+* INDICATIF
+
+** Présent
+
+j'inspire
+tu inspires
+il (elle) inspire
+nous inspirons
+vous inspirez
+ils (elles) inspirent
+
+** Imparfait
+
+j'inspirais
+tu inspirais
+il (elle) inspirait
+nous inspirions
+vous inspiriez
+ils (elles) inspiraient
+
+** Passé simple
+
+j'inspirai
+tu inspiras
+il (elle) inspira
+nous inspirâmes
+vous inspirâtes
+ils (elles) inspirèrent
+
+** Futur simple
+
+j'inspirerai
+tu inspireras
+il (elle) inspirera
+nous inspirerons
+vous inspirerez
+ils (elles) inspireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inspirerais
+tu inspirerais
+il (elle) inspirerait
+nous inspirerions
+vous inspireriez
+ils (elles) inspireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inspire
+que tu inspires
+qu’il (elle) inspire
+que nous inspirions
+que vous inspiriez
+qu’ils (elles) inspirent
+
+** Imparfait
+
+que j'inspirasse
+que tu inspirasses
+qu’il (elle) inspirât
+que nous inspirassions
+que vous inspirassiez
+qu’ils (elles) inspirassent
+
+* IMPÉRATIF
+
+** Présent
+
+inspire
+inspirons
+inspirez
+
+* INFINITIF
+
+** Présent
+
+inspirer
+
+* PARTICIPE
+
+** Présent
+
+inspirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inspiré
+tu as inspiré
+il (elle) a inspiré
+nous avons inspiré
+vous avez inspiré
+ils (elles) ont inspiré
+
+** Plus-que-parfait
+
+j'avais inspiré
+tu avais inspiré
+il (elle) avait inspiré
+nous avions inspiré
+vous aviez inspiré
+ils (elles) avaient inspiré
+
+** Passé antérieur
+
+j'eus inspiré
+tu eus inspiré
+il (elle) eut inspiré
+nous eûmes inspiré
+vous eûtes inspiré
+ils (elles) eurent inspiré
+
+** Futur antérieur
+
+j'aurai inspiré
+tu auras inspiré
+il (elle) aura inspiré
+nous aurons inspiré
+vous aurez inspiré
+ils (elles) auront inspiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inspiré
+tu aurais inspiré
+il (elle) aurait inspiré
+nous aurions inspiré
+vous auriez inspiré
+ils (elles) auraient inspiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inspiré
+que tu aies inspiré
+qu’il (elle) ait inspiré
+que nous ayons inspiré
+que vous ayez inspiré
+qu’ils (elles) aient inspiré
+
+** Plus-que-parfait
+
+que j'eusse inspiré
+que tu eusses inspiré
+qu’il (elle) eût inspiré
+que nous eussions inspiré
+que vous eussiez inspiré
+qu’ils (elles) eussent inspiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inspiré
+ayez inspiré
+
+* INFINITIF
+
+** Passé
+
+avoir inspiré
+
+* PARTICIPE
+
+** Passé
+
+ayant inspiré
+inspiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inspiré(e)
+tu es inspiré(e)
+il (elle) est inspiré(e)
+nous sommes inspiré(e)s
+vous êtes inspiré(e)s
+ils (elles) sont inspiré(e)s
+
+** Imparfait
+
+j'étais inspiré(e)
+tu étais inspiré(e)
+il (elle) était inspiré(e)
+nous étions inspiré(e)s
+vous étiez inspiré(e)s
+ils (elles) étaient inspiré(e)s
+
+** Passé simple
+
+je fus inspiré(e)
+tu fus inspiré(e)
+il (elle) fut inspiré(e)
+nous fûmes inspiré(e)s
+vous fûtes inspiré(e)s
+ils (elles) furent inspiré(e)s
+
+** Futur simple
+
+je serai inspiré(e)
+tu seras inspiré(e)
+il (elle) sera inspiré(e)
+nous serons inspiré(e)s
+vous serez inspiré(e)s
+ils (elles) seront inspiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inspiré(e)
+tu serais inspiré(e)
+il (elle) serait inspiré(e)
+nous serions inspiré(e)s
+vous seriez inspiré(e)s
+ils (elles) seraient inspiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inspiré(e)
+que tu sois inspiré(e)
+qu’il (elle) soit inspiré(e)
+que nous soyons inspiré(e)s
+que vous soyez inspiré(e)s
+qu’ils (elles) soient inspiré(e)s
+
+** Imparfait
+
+que je fusse inspiré(e)
+que tu fusses inspiré(e)
+qu’il (elle) fût inspiré(e)
+que nous fussions inspiré(e)s
+que vous fussiez inspiré(e)s
+qu’ils (elles) fussent inspiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inspiré(e)s
+soyez inspiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être inspiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inspiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inspiré(e)
+tu as été inspiré(e)
+il (elle) a été inspiré(e)
+nous avons été inspiré(e)s
+vous avez été inspiré(e)s
+ils (elles) ont été inspiré(e)s
+
+** Plus-que-parfait
+
+j'avais été inspiré(e)
+il (elle) avait été inspiré(e)
+nous avions été inspiré(e)s
+ils (elles) avaient été inspiré(e)s
+
+** Passé antérieur
+
+j'eus été inspiré(e)
+tu eus été inspiré(e)
+il (elle) eut été inspiré(e)
+nous eûmes été inspiré(e)s
+vous eûtes été inspiré(e)s
+ils (elles) eurent été inspiré(e)s
+
+** Futur antérieur
+
+j'aurai été inspiré(e)
+tu auras été inspiré(e)
+il (elle) aura été inspiré(e)
+nous aurons été inspiré(e)s
+vous aurez été inspiré(e)s
+ils (elles) auront été inspiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inspiré(e)
+j'aurais été inspiré(e)
+il (elle) aurait été inspiré(e)
+nous aurions été inspiré(e)s
+vous auriez été inspiré(e)s
+ils (elles) auraient été inspiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inspiré(e)
+que tu aies été inspiré(e)
+qu’il (elle) ait été inspiré(e)
+que nous ayons été inspiré(e)s
+que vous ayez été inspiré(e)s
+qu’ils (elles) aient été inspiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inspiré(e)
+que tu eusses été inspiré(e)
+qu’il (elle) eût été inspiré(e)
+que nous eussions été inspiré(e)s
+que vous eussiez été inspiré(e)s
+qu’ils (elles) eussent été inspiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inspiré(e)
+ayons été inspiré(e)s
+ayez été inspiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inspiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inspiré(e)(s)

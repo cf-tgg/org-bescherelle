@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe administrer
+
+* INDICATIF
+
+** Présent
+
+j'administre
+tu administres
+il (elle) administre
+nous administrons
+vous administrez
+ils (elles) administrent
+
+** Imparfait
+
+j'administrais
+tu administrais
+il (elle) administrait
+nous administrions
+vous administriez
+ils (elles) administraient
+
+** Passé simple
+
+j'administrai
+tu administras
+il (elle) administra
+nous administrâmes
+vous administrâtes
+ils (elles) administrèrent
+
+** Futur simple
+
+j'administrerai
+tu administreras
+il (elle) administrera
+nous administrerons
+vous administrerez
+ils (elles) administreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'administrerais
+tu administrerais
+il (elle) administrerait
+nous administrerions
+vous administreriez
+ils (elles) administreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'administre
+que tu administres
+qu’il (elle) administre
+que nous administrions
+que vous administriez
+qu’ils (elles) administrent
+
+** Imparfait
+
+que j'administrasse
+que tu administrasses
+qu’il (elle) administrât
+que nous administrassions
+que vous administrassiez
+qu’ils (elles) administrassent
+
+* IMPÉRATIF
+
+** Présent
+
+administre
+administrons
+administrez
+
+* INFINITIF
+
+** Présent
+
+administrer
+
+* PARTICIPE
+
+** Présent
+
+administrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai administré
+tu as administré
+il (elle) a administré
+nous avons administré
+vous avez administré
+ils (elles) ont administré
+
+** Plus-que-parfait
+
+j'avais administré
+tu avais administré
+il (elle) avait administré
+nous avions administré
+vous aviez administré
+ils (elles) avaient administré
+
+** Passé antérieur
+
+j'eus administré
+tu eus administré
+il (elle) eut administré
+nous eûmes administré
+vous eûtes administré
+ils (elles) eurent administré
+
+** Futur antérieur
+
+j'aurai administré
+tu auras administré
+il (elle) aura administré
+nous aurons administré
+vous aurez administré
+ils (elles) auront administré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais administré
+tu aurais administré
+il (elle) aurait administré
+nous aurions administré
+vous auriez administré
+ils (elles) auraient administré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie administré
+que tu aies administré
+qu’il (elle) ait administré
+que nous ayons administré
+que vous ayez administré
+qu’ils (elles) aient administré
+
+** Plus-que-parfait
+
+que j'eusse administré
+que tu eusses administré
+qu’il (elle) eût administré
+que nous eussions administré
+que vous eussiez administré
+qu’ils (elles) eussent administré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons administré
+ayez administré
+
+* INFINITIF
+
+** Passé
+
+avoir administré
+
+* PARTICIPE
+
+** Passé
+
+ayant administré
+administré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis administré(e)
+tu es administré(e)
+il (elle) est administré(e)
+nous sommes administré(e)s
+vous êtes administré(e)s
+ils (elles) sont administré(e)s
+
+** Imparfait
+
+j'étais administré(e)
+tu étais administré(e)
+il (elle) était administré(e)
+nous étions administré(e)s
+vous étiez administré(e)s
+ils (elles) étaient administré(e)s
+
+** Passé simple
+
+je fus administré(e)
+tu fus administré(e)
+il (elle) fut administré(e)
+nous fûmes administré(e)s
+vous fûtes administré(e)s
+ils (elles) furent administré(e)s
+
+** Futur simple
+
+je serai administré(e)
+tu seras administré(e)
+il (elle) sera administré(e)
+nous serons administré(e)s
+vous serez administré(e)s
+ils (elles) seront administré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais administré(e)
+tu serais administré(e)
+il (elle) serait administré(e)
+nous serions administré(e)s
+vous seriez administré(e)s
+ils (elles) seraient administré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois administré(e)
+que tu sois administré(e)
+qu’il (elle) soit administré(e)
+que nous soyons administré(e)s
+que vous soyez administré(e)s
+qu’ils (elles) soient administré(e)s
+
+** Imparfait
+
+que je fusse administré(e)
+que tu fusses administré(e)
+qu’il (elle) fût administré(e)
+que nous fussions administré(e)s
+que vous fussiez administré(e)s
+qu’ils (elles) fussent administré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons administré(e)s
+soyez administré(e)s
+
+* INFINITIF
+
+** Présent
+
+être administré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant administré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été administré(e)
+tu as été administré(e)
+il (elle) a été administré(e)
+nous avons été administré(e)s
+vous avez été administré(e)s
+ils (elles) ont été administré(e)s
+
+** Plus-que-parfait
+
+j'avais été administré(e)
+il (elle) avait été administré(e)
+nous avions été administré(e)s
+ils (elles) avaient été administré(e)s
+
+** Passé antérieur
+
+j'eus été administré(e)
+tu eus été administré(e)
+il (elle) eut été administré(e)
+nous eûmes été administré(e)s
+vous eûtes été administré(e)s
+ils (elles) eurent été administré(e)s
+
+** Futur antérieur
+
+j'aurai été administré(e)
+tu auras été administré(e)
+il (elle) aura été administré(e)
+nous aurons été administré(e)s
+vous aurez été administré(e)s
+ils (elles) auront été administré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été administré(e)
+j'aurais été administré(e)
+il (elle) aurait été administré(e)
+nous aurions été administré(e)s
+vous auriez été administré(e)s
+ils (elles) auraient été administré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été administré(e)
+que tu aies été administré(e)
+qu’il (elle) ait été administré(e)
+que nous ayons été administré(e)s
+que vous ayez été administré(e)s
+qu’ils (elles) aient été administré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été administré(e)
+que tu eusses été administré(e)
+qu’il (elle) eût été administré(e)
+que nous eussions été administré(e)s
+que vous eussiez été administré(e)s
+qu’ils (elles) eussent été administré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été administré(e)
+ayons été administré(e)s
+ayez été administré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été administré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été administré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe agiter
+
+* INDICATIF
+
+** Présent
+
+j'agite
+tu agites
+il (elle) agite
+nous agitons
+vous agitez
+ils (elles) agitent
+
+** Imparfait
+
+j'agitais
+tu agitais
+il (elle) agitait
+nous agitions
+vous agitiez
+ils (elles) agitaient
+
+** Passé simple
+
+j'agitai
+tu agitas
+il (elle) agita
+nous agitâmes
+vous agitâtes
+ils (elles) agitèrent
+
+** Futur simple
+
+j'agiterai
+tu agiteras
+il (elle) agitera
+nous agiterons
+vous agiterez
+ils (elles) agiteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'agiterais
+tu agiterais
+il (elle) agiterait
+nous agiterions
+vous agiteriez
+ils (elles) agiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'agite
+que tu agites
+qu’il (elle) agite
+que nous agitions
+que vous agitiez
+qu’ils (elles) agitent
+
+** Imparfait
+
+que j'agitasse
+que tu agitasses
+qu’il (elle) agitât
+que nous agitassions
+que vous agitassiez
+qu’ils (elles) agitassent
+
+* IMPÉRATIF
+
+** Présent
+
+agite
+agitons
+agitez
+
+* INFINITIF
+
+** Présent
+
+agiter
+
+* PARTICIPE
+
+** Présent
+
+agitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai agité
+tu as agité
+il (elle) a agité
+nous avons agité
+vous avez agité
+ils (elles) ont agité
+
+** Plus-que-parfait
+
+j'avais agité
+tu avais agité
+il (elle) avait agité
+nous avions agité
+vous aviez agité
+ils (elles) avaient agité
+
+** Passé antérieur
+
+j'eus agité
+tu eus agité
+il (elle) eut agité
+nous eûmes agité
+vous eûtes agité
+ils (elles) eurent agité
+
+** Futur antérieur
+
+j'aurai agité
+tu auras agité
+il (elle) aura agité
+nous aurons agité
+vous aurez agité
+ils (elles) auront agité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais agité
+tu aurais agité
+il (elle) aurait agité
+nous aurions agité
+vous auriez agité
+ils (elles) auraient agité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie agité
+que tu aies agité
+qu’il (elle) ait agité
+que nous ayons agité
+que vous ayez agité
+qu’ils (elles) aient agité
+
+** Plus-que-parfait
+
+que j'eusse agité
+que tu eusses agité
+qu’il (elle) eût agité
+que nous eussions agité
+que vous eussiez agité
+qu’ils (elles) eussent agité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons agité
+ayez agité
+
+* INFINITIF
+
+** Passé
+
+avoir agité
+
+* PARTICIPE
+
+** Passé
+
+ayant agité
+agité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis agité(e)
+tu es agité(e)
+il (elle) est agité(e)
+nous sommes agité(e)s
+vous êtes agité(e)s
+ils (elles) sont agité(e)s
+
+** Imparfait
+
+j'étais agité(e)
+tu étais agité(e)
+il (elle) était agité(e)
+nous étions agité(e)s
+vous étiez agité(e)s
+ils (elles) étaient agité(e)s
+
+** Passé simple
+
+je fus agité(e)
+tu fus agité(e)
+il (elle) fut agité(e)
+nous fûmes agité(e)s
+vous fûtes agité(e)s
+ils (elles) furent agité(e)s
+
+** Futur simple
+
+je serai agité(e)
+tu seras agité(e)
+il (elle) sera agité(e)
+nous serons agité(e)s
+vous serez agité(e)s
+ils (elles) seront agité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais agité(e)
+tu serais agité(e)
+il (elle) serait agité(e)
+nous serions agité(e)s
+vous seriez agité(e)s
+ils (elles) seraient agité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois agité(e)
+que tu sois agité(e)
+qu’il (elle) soit agité(e)
+que nous soyons agité(e)s
+que vous soyez agité(e)s
+qu’ils (elles) soient agité(e)s
+
+** Imparfait
+
+que je fusse agité(e)
+que tu fusses agité(e)
+qu’il (elle) fût agité(e)
+que nous fussions agité(e)s
+que vous fussiez agité(e)s
+qu’ils (elles) fussent agité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons agité(e)s
+soyez agité(e)s
+
+* INFINITIF
+
+** Présent
+
+être agité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant agité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été agité(e)
+tu as été agité(e)
+il (elle) a été agité(e)
+nous avons été agité(e)s
+vous avez été agité(e)s
+ils (elles) ont été agité(e)s
+
+** Plus-que-parfait
+
+j'avais été agité(e)
+il (elle) avait été agité(e)
+nous avions été agité(e)s
+ils (elles) avaient été agité(e)s
+
+** Passé antérieur
+
+j'eus été agité(e)
+tu eus été agité(e)
+il (elle) eut été agité(e)
+nous eûmes été agité(e)s
+vous eûtes été agité(e)s
+ils (elles) eurent été agité(e)s
+
+** Futur antérieur
+
+j'aurai été agité(e)
+tu auras été agité(e)
+il (elle) aura été agité(e)
+nous aurons été agité(e)s
+vous aurez été agité(e)s
+ils (elles) auront été agité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été agité(e)
+j'aurais été agité(e)
+il (elle) aurait été agité(e)
+nous aurions été agité(e)s
+vous auriez été agité(e)s
+ils (elles) auraient été agité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été agité(e)
+que tu aies été agité(e)
+qu’il (elle) ait été agité(e)
+que nous ayons été agité(e)s
+que vous ayez été agité(e)s
+qu’ils (elles) aient été agité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été agité(e)
+que tu eusses été agité(e)
+qu’il (elle) eût été agité(e)
+que nous eussions été agité(e)s
+que vous eussiez été agité(e)s
+qu’ils (elles) eussent été agité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été agité(e)
+ayons été agité(e)s
+ayez été agité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été agité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été agité(e)(s)

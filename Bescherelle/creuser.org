@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe creuser
+
+* INDICATIF
+
+** Présent
+
+je creuse
+tu creuses
+il (elle) creuse
+nous creusons
+vous creusez
+ils (elles) creusent
+
+** Imparfait
+
+je creusais
+tu creusais
+il (elle) creusait
+nous creusions
+vous creusiez
+ils (elles) creusaient
+
+** Passé simple
+
+je creusai
+tu creusas
+il (elle) creusa
+nous creusâmes
+vous creusâtes
+ils (elles) creusèrent
+
+** Futur simple
+
+je creuserai
+tu creuseras
+il (elle) creusera
+nous creuserons
+vous creuserez
+ils (elles) creuseront
+
+* CONDITIONNEL
+
+** Présent
+
+je creuserais
+tu creuserais
+il (elle) creuserait
+nous creuserions
+vous creuseriez
+ils (elles) creuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je creuse
+que tu creuses
+qu’il (elle) creuse
+que nous creusions
+que vous creusiez
+qu’ils (elles) creusent
+
+** Imparfait
+
+que je creusasse
+que tu creusasses
+qu’il (elle) creusât
+que nous creusassions
+que vous creusassiez
+qu’ils (elles) creusassent
+
+* IMPÉRATIF
+
+** Présent
+
+creuse
+creusons
+creusez
+
+* INFINITIF
+
+** Présent
+
+creuser
+
+* PARTICIPE
+
+** Présent
+
+creusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai creusé
+tu as creusé
+il (elle) a creusé
+nous avons creusé
+vous avez creusé
+ils (elles) ont creusé
+
+** Plus-que-parfait
+
+j'avais creusé
+tu avais creusé
+il (elle) avait creusé
+nous avions creusé
+vous aviez creusé
+ils (elles) avaient creusé
+
+** Passé antérieur
+
+j'eus creusé
+tu eus creusé
+il (elle) eut creusé
+nous eûmes creusé
+vous eûtes creusé
+ils (elles) eurent creusé
+
+** Futur antérieur
+
+j'aurai creusé
+tu auras creusé
+il (elle) aura creusé
+nous aurons creusé
+vous aurez creusé
+ils (elles) auront creusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais creusé
+tu aurais creusé
+il (elle) aurait creusé
+nous aurions creusé
+vous auriez creusé
+ils (elles) auraient creusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie creusé
+que tu aies creusé
+qu’il (elle) ait creusé
+que nous ayons creusé
+que vous ayez creusé
+qu’ils (elles) aient creusé
+
+** Plus-que-parfait
+
+que j'eusse creusé
+que tu eusses creusé
+qu’il (elle) eût creusé
+que nous eussions creusé
+que vous eussiez creusé
+qu’ils (elles) eussent creusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons creusé
+ayez creusé
+
+* INFINITIF
+
+** Passé
+
+avoir creusé
+
+* PARTICIPE
+
+** Passé
+
+ayant creusé
+creusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis creusé(e)
+tu es creusé(e)
+il (elle) est creusé(e)
+nous sommes creusé(e)s
+vous êtes creusé(e)s
+ils (elles) sont creusé(e)s
+
+** Imparfait
+
+j'étais creusé(e)
+tu étais creusé(e)
+il (elle) était creusé(e)
+nous étions creusé(e)s
+vous étiez creusé(e)s
+ils (elles) étaient creusé(e)s
+
+** Passé simple
+
+je fus creusé(e)
+tu fus creusé(e)
+il (elle) fut creusé(e)
+nous fûmes creusé(e)s
+vous fûtes creusé(e)s
+ils (elles) furent creusé(e)s
+
+** Futur simple
+
+je serai creusé(e)
+tu seras creusé(e)
+il (elle) sera creusé(e)
+nous serons creusé(e)s
+vous serez creusé(e)s
+ils (elles) seront creusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais creusé(e)
+tu serais creusé(e)
+il (elle) serait creusé(e)
+nous serions creusé(e)s
+vous seriez creusé(e)s
+ils (elles) seraient creusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois creusé(e)
+que tu sois creusé(e)
+qu’il (elle) soit creusé(e)
+que nous soyons creusé(e)s
+que vous soyez creusé(e)s
+qu’ils (elles) soient creusé(e)s
+
+** Imparfait
+
+que je fusse creusé(e)
+que tu fusses creusé(e)
+qu’il (elle) fût creusé(e)
+que nous fussions creusé(e)s
+que vous fussiez creusé(e)s
+qu’ils (elles) fussent creusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons creusé(e)s
+soyez creusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être creusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant creusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été creusé(e)
+tu as été creusé(e)
+il (elle) a été creusé(e)
+nous avons été creusé(e)s
+vous avez été creusé(e)s
+ils (elles) ont été creusé(e)s
+
+** Plus-que-parfait
+
+j'avais été creusé(e)
+il (elle) avait été creusé(e)
+nous avions été creusé(e)s
+ils (elles) avaient été creusé(e)s
+
+** Passé antérieur
+
+j'eus été creusé(e)
+tu eus été creusé(e)
+il (elle) eut été creusé(e)
+nous eûmes été creusé(e)s
+vous eûtes été creusé(e)s
+ils (elles) eurent été creusé(e)s
+
+** Futur antérieur
+
+j'aurai été creusé(e)
+tu auras été creusé(e)
+il (elle) aura été creusé(e)
+nous aurons été creusé(e)s
+vous aurez été creusé(e)s
+ils (elles) auront été creusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été creusé(e)
+j'aurais été creusé(e)
+il (elle) aurait été creusé(e)
+nous aurions été creusé(e)s
+vous auriez été creusé(e)s
+ils (elles) auraient été creusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été creusé(e)
+que tu aies été creusé(e)
+qu’il (elle) ait été creusé(e)
+que nous ayons été creusé(e)s
+que vous ayez été creusé(e)s
+qu’ils (elles) aient été creusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été creusé(e)
+que tu eusses été creusé(e)
+qu’il (elle) eût été creusé(e)
+que nous eussions été creusé(e)s
+que vous eussiez été creusé(e)s
+qu’ils (elles) eussent été creusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été creusé(e)
+ayons été creusé(e)s
+ayez été creusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été creusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été creusé(e)(s)

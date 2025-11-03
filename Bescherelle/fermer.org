@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fermer
+
+* INDICATIF
+
+** Présent
+
+je ferme
+tu fermes
+il (elle) ferme
+nous fermons
+vous fermez
+ils (elles) ferment
+
+** Imparfait
+
+je fermais
+tu fermais
+il (elle) fermait
+nous fermions
+vous fermiez
+ils (elles) fermaient
+
+** Passé simple
+
+je fermai
+tu fermas
+il (elle) ferma
+nous fermâmes
+vous fermâtes
+ils (elles) fermèrent
+
+** Futur simple
+
+je fermerai
+tu fermeras
+il (elle) fermera
+nous fermerons
+vous fermerez
+ils (elles) fermeront
+
+* CONDITIONNEL
+
+** Présent
+
+je fermerais
+tu fermerais
+il (elle) fermerait
+nous fermerions
+vous fermeriez
+ils (elles) fermeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ferme
+que tu fermes
+qu’il (elle) ferme
+que nous fermions
+que vous fermiez
+qu’ils (elles) ferment
+
+** Imparfait
+
+que je fermasse
+que tu fermasses
+qu’il (elle) fermât
+que nous fermassions
+que vous fermassiez
+qu’ils (elles) fermassent
+
+* IMPÉRATIF
+
+** Présent
+
+ferme
+fermons
+fermez
+
+* INFINITIF
+
+** Présent
+
+fermer
+
+* PARTICIPE
+
+** Présent
+
+fermant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fermé
+tu as fermé
+il (elle) a fermé
+nous avons fermé
+vous avez fermé
+ils (elles) ont fermé
+
+** Plus-que-parfait
+
+j'avais fermé
+tu avais fermé
+il (elle) avait fermé
+nous avions fermé
+vous aviez fermé
+ils (elles) avaient fermé
+
+** Passé antérieur
+
+j'eus fermé
+tu eus fermé
+il (elle) eut fermé
+nous eûmes fermé
+vous eûtes fermé
+ils (elles) eurent fermé
+
+** Futur antérieur
+
+j'aurai fermé
+tu auras fermé
+il (elle) aura fermé
+nous aurons fermé
+vous aurez fermé
+ils (elles) auront fermé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fermé
+tu aurais fermé
+il (elle) aurait fermé
+nous aurions fermé
+vous auriez fermé
+ils (elles) auraient fermé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fermé
+que tu aies fermé
+qu’il (elle) ait fermé
+que nous ayons fermé
+que vous ayez fermé
+qu’ils (elles) aient fermé
+
+** Plus-que-parfait
+
+que j'eusse fermé
+que tu eusses fermé
+qu’il (elle) eût fermé
+que nous eussions fermé
+que vous eussiez fermé
+qu’ils (elles) eussent fermé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fermé
+ayez fermé
+
+* INFINITIF
+
+** Passé
+
+avoir fermé
+
+* PARTICIPE
+
+** Passé
+
+ayant fermé
+fermé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fermé(e)
+tu es fermé(e)
+il (elle) est fermé(e)
+nous sommes fermé(e)s
+vous êtes fermé(e)s
+ils (elles) sont fermé(e)s
+
+** Imparfait
+
+j'étais fermé(e)
+tu étais fermé(e)
+il (elle) était fermé(e)
+nous étions fermé(e)s
+vous étiez fermé(e)s
+ils (elles) étaient fermé(e)s
+
+** Passé simple
+
+je fus fermé(e)
+tu fus fermé(e)
+il (elle) fut fermé(e)
+nous fûmes fermé(e)s
+vous fûtes fermé(e)s
+ils (elles) furent fermé(e)s
+
+** Futur simple
+
+je serai fermé(e)
+tu seras fermé(e)
+il (elle) sera fermé(e)
+nous serons fermé(e)s
+vous serez fermé(e)s
+ils (elles) seront fermé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fermé(e)
+tu serais fermé(e)
+il (elle) serait fermé(e)
+nous serions fermé(e)s
+vous seriez fermé(e)s
+ils (elles) seraient fermé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fermé(e)
+que tu sois fermé(e)
+qu’il (elle) soit fermé(e)
+que nous soyons fermé(e)s
+que vous soyez fermé(e)s
+qu’ils (elles) soient fermé(e)s
+
+** Imparfait
+
+que je fusse fermé(e)
+que tu fusses fermé(e)
+qu’il (elle) fût fermé(e)
+que nous fussions fermé(e)s
+que vous fussiez fermé(e)s
+qu’ils (elles) fussent fermé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fermé(e)s
+soyez fermé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fermé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fermé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fermé(e)
+tu as été fermé(e)
+il (elle) a été fermé(e)
+nous avons été fermé(e)s
+vous avez été fermé(e)s
+ils (elles) ont été fermé(e)s
+
+** Plus-que-parfait
+
+j'avais été fermé(e)
+il (elle) avait été fermé(e)
+nous avions été fermé(e)s
+ils (elles) avaient été fermé(e)s
+
+** Passé antérieur
+
+j'eus été fermé(e)
+tu eus été fermé(e)
+il (elle) eut été fermé(e)
+nous eûmes été fermé(e)s
+vous eûtes été fermé(e)s
+ils (elles) eurent été fermé(e)s
+
+** Futur antérieur
+
+j'aurai été fermé(e)
+tu auras été fermé(e)
+il (elle) aura été fermé(e)
+nous aurons été fermé(e)s
+vous aurez été fermé(e)s
+ils (elles) auront été fermé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fermé(e)
+j'aurais été fermé(e)
+il (elle) aurait été fermé(e)
+nous aurions été fermé(e)s
+vous auriez été fermé(e)s
+ils (elles) auraient été fermé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fermé(e)
+que tu aies été fermé(e)
+qu’il (elle) ait été fermé(e)
+que nous ayons été fermé(e)s
+que vous ayez été fermé(e)s
+qu’ils (elles) aient été fermé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fermé(e)
+que tu eusses été fermé(e)
+qu’il (elle) eût été fermé(e)
+que nous eussions été fermé(e)s
+que vous eussiez été fermé(e)s
+qu’ils (elles) eussent été fermé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fermé(e)
+ayons été fermé(e)s
+ayez été fermé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fermé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fermé(e)(s)

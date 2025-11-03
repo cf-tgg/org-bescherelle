@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe colorer
+
+* INDICATIF
+
+** Présent
+
+je colore
+tu colores
+il (elle) colore
+nous colorons
+vous colorez
+ils (elles) colorent
+
+** Imparfait
+
+je colorais
+tu colorais
+il (elle) colorait
+nous colorions
+vous coloriez
+ils (elles) coloraient
+
+** Passé simple
+
+je colorai
+tu coloras
+il (elle) colora
+nous colorâmes
+vous colorâtes
+ils (elles) colorèrent
+
+** Futur simple
+
+je colorerai
+tu coloreras
+il (elle) colorera
+nous colorerons
+vous colorerez
+ils (elles) coloreront
+
+* CONDITIONNEL
+
+** Présent
+
+je colorerais
+tu colorerais
+il (elle) colorerait
+nous colorerions
+vous coloreriez
+ils (elles) coloreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je colore
+que tu colores
+qu’il (elle) colore
+que nous colorions
+que vous coloriez
+qu’ils (elles) colorent
+
+** Imparfait
+
+que je colorasse
+que tu colorasses
+qu’il (elle) colorât
+que nous colorassions
+que vous colorassiez
+qu’ils (elles) colorassent
+
+* IMPÉRATIF
+
+** Présent
+
+colore
+colorons
+colorez
+
+* INFINITIF
+
+** Présent
+
+colorer
+
+* PARTICIPE
+
+** Présent
+
+colorant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coloré
+tu as coloré
+il (elle) a coloré
+nous avons coloré
+vous avez coloré
+ils (elles) ont coloré
+
+** Plus-que-parfait
+
+j'avais coloré
+tu avais coloré
+il (elle) avait coloré
+nous avions coloré
+vous aviez coloré
+ils (elles) avaient coloré
+
+** Passé antérieur
+
+j'eus coloré
+tu eus coloré
+il (elle) eut coloré
+nous eûmes coloré
+vous eûtes coloré
+ils (elles) eurent coloré
+
+** Futur antérieur
+
+j'aurai coloré
+tu auras coloré
+il (elle) aura coloré
+nous aurons coloré
+vous aurez coloré
+ils (elles) auront coloré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coloré
+tu aurais coloré
+il (elle) aurait coloré
+nous aurions coloré
+vous auriez coloré
+ils (elles) auraient coloré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coloré
+que tu aies coloré
+qu’il (elle) ait coloré
+que nous ayons coloré
+que vous ayez coloré
+qu’ils (elles) aient coloré
+
+** Plus-que-parfait
+
+que j'eusse coloré
+que tu eusses coloré
+qu’il (elle) eût coloré
+que nous eussions coloré
+que vous eussiez coloré
+qu’ils (elles) eussent coloré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coloré
+ayez coloré
+
+* INFINITIF
+
+** Passé
+
+avoir coloré
+
+* PARTICIPE
+
+** Passé
+
+ayant coloré
+coloré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coloré(e)
+tu es coloré(e)
+il (elle) est coloré(e)
+nous sommes coloré(e)s
+vous êtes coloré(e)s
+ils (elles) sont coloré(e)s
+
+** Imparfait
+
+j'étais coloré(e)
+tu étais coloré(e)
+il (elle) était coloré(e)
+nous étions coloré(e)s
+vous étiez coloré(e)s
+ils (elles) étaient coloré(e)s
+
+** Passé simple
+
+je fus coloré(e)
+tu fus coloré(e)
+il (elle) fut coloré(e)
+nous fûmes coloré(e)s
+vous fûtes coloré(e)s
+ils (elles) furent coloré(e)s
+
+** Futur simple
+
+je serai coloré(e)
+tu seras coloré(e)
+il (elle) sera coloré(e)
+nous serons coloré(e)s
+vous serez coloré(e)s
+ils (elles) seront coloré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coloré(e)
+tu serais coloré(e)
+il (elle) serait coloré(e)
+nous serions coloré(e)s
+vous seriez coloré(e)s
+ils (elles) seraient coloré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coloré(e)
+que tu sois coloré(e)
+qu’il (elle) soit coloré(e)
+que nous soyons coloré(e)s
+que vous soyez coloré(e)s
+qu’ils (elles) soient coloré(e)s
+
+** Imparfait
+
+que je fusse coloré(e)
+que tu fusses coloré(e)
+qu’il (elle) fût coloré(e)
+que nous fussions coloré(e)s
+que vous fussiez coloré(e)s
+qu’ils (elles) fussent coloré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coloré(e)s
+soyez coloré(e)s
+
+* INFINITIF
+
+** Présent
+
+être coloré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coloré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coloré(e)
+tu as été coloré(e)
+il (elle) a été coloré(e)
+nous avons été coloré(e)s
+vous avez été coloré(e)s
+ils (elles) ont été coloré(e)s
+
+** Plus-que-parfait
+
+j'avais été coloré(e)
+il (elle) avait été coloré(e)
+nous avions été coloré(e)s
+ils (elles) avaient été coloré(e)s
+
+** Passé antérieur
+
+j'eus été coloré(e)
+tu eus été coloré(e)
+il (elle) eut été coloré(e)
+nous eûmes été coloré(e)s
+vous eûtes été coloré(e)s
+ils (elles) eurent été coloré(e)s
+
+** Futur antérieur
+
+j'aurai été coloré(e)
+tu auras été coloré(e)
+il (elle) aura été coloré(e)
+nous aurons été coloré(e)s
+vous aurez été coloré(e)s
+ils (elles) auront été coloré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coloré(e)
+j'aurais été coloré(e)
+il (elle) aurait été coloré(e)
+nous aurions été coloré(e)s
+vous auriez été coloré(e)s
+ils (elles) auraient été coloré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coloré(e)
+que tu aies été coloré(e)
+qu’il (elle) ait été coloré(e)
+que nous ayons été coloré(e)s
+que vous ayez été coloré(e)s
+qu’ils (elles) aient été coloré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coloré(e)
+que tu eusses été coloré(e)
+qu’il (elle) eût été coloré(e)
+que nous eussions été coloré(e)s
+que vous eussiez été coloré(e)s
+qu’ils (elles) eussent été coloré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coloré(e)
+ayons été coloré(e)s
+ayez été coloré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coloré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coloré(e)(s)

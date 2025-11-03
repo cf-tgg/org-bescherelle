@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe voir
+
+* INDICATIF
+
+** Présent
+
+je vois
+tu vois
+il (elle) voit
+nous voyons
+vous voyez
+ils (elles) voient
+
+** Imparfait
+
+je voyais
+tu voyais
+il (elle) voyait
+nous voyions
+vous voyiez
+ils (elles) voyaient
+
+** Passé simple
+
+je vis
+tu vis
+il (elle) vit
+nous vîmes
+vous vîtes
+ils (elles) virent
+
+** Futur simple
+
+je verrai
+tu verras
+il (elle) verra
+nous verrons
+vous verrez
+ils (elles) verront
+
+* CONDITIONNEL
+
+** Présent
+
+je verrais
+tu verrais
+il (elle) verrait
+nous verrions
+vous verriez
+ils (elles) verraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je voie
+que tu voies
+qu’il (elle) voie
+que nous voyions
+que vous voyiez
+qu’ils (elles) voient
+
+** Imparfait
+
+que je visse
+que tu visses
+qu’il (elle) vît
+que nous vissions
+que vous vissiez
+qu’ils (elles) vissent
+
+* IMPÉRATIF
+
+** Présent
+
+vois
+voyons
+voyez
+
+* INFINITIF
+
+** Présent
+
+voir
+
+* PARTICIPE
+
+** Présent
+
+voyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vu
+tu as vu
+il (elle) a vu
+nous avons vu
+vous avez vu
+ils (elles) ont vu
+
+** Plus-que-parfait
+
+j'avais vu
+tu avais vu
+il (elle) avait vu
+nous avions vu
+vous aviez vu
+ils (elles) avaient vu
+
+** Passé antérieur
+
+j'eus vu
+tu eus vu
+il (elle) eut vu
+nous eûmes vu
+vous eûtes vu
+ils (elles) eurent vu
+
+** Futur antérieur
+
+j'aurai vu
+tu auras vu
+il (elle) aura vu
+nous aurons vu
+vous aurez vu
+ils (elles) auront vu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vu
+tu aurais vu
+il (elle) aurait vu
+nous aurions vu
+vous auriez vu
+ils (elles) auraient vu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vu
+que tu aies vu
+qu’il (elle) ait vu
+que nous ayons vu
+que vous ayez vu
+qu’ils (elles) aient vu
+
+** Plus-que-parfait
+
+que j'eusse vu
+que tu eusses vu
+qu’il (elle) eût vu
+que nous eussions vu
+que vous eussiez vu
+qu’ils (elles) eussent vu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vu
+ayez vu
+
+* INFINITIF
+
+** Passé
+
+avoir vu
+
+* PARTICIPE
+
+** Passé
+
+ayant vu
+vu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis vu(e)
+tu es vu(e)
+il (elle) est vu(e)
+nous sommes vu(e)s
+vous êtes vu(e)s
+ils (elles) sont vu(e)s
+
+** Imparfait
+
+j'étais vu(e)
+tu étais vu(e)
+il (elle) était vu(e)
+nous étions vu(e)s
+vous étiez vu(e)s
+ils (elles) étaient vu(e)s
+
+** Passé simple
+
+je fus vu(e)
+tu fus vu(e)
+il (elle) fut vu(e)
+nous fûmes vu(e)s
+vous fûtes vu(e)s
+ils (elles) furent vu(e)s
+
+** Futur simple
+
+je serai vu(e)
+tu seras vu(e)
+il (elle) sera vu(e)
+nous serons vu(e)s
+vous serez vu(e)s
+ils (elles) seront vu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vu(e)
+tu serais vu(e)
+il (elle) serait vu(e)
+nous serions vu(e)s
+vous seriez vu(e)s
+ils (elles) seraient vu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vu(e)
+que tu sois vu(e)
+qu’il (elle) soit vu(e)
+que nous soyons vu(e)s
+que vous soyez vu(e)s
+qu’ils (elles) soient vu(e)s
+
+** Imparfait
+
+que je fusse vu(e)
+que tu fusses vu(e)
+qu’il (elle) fût vu(e)
+que nous fussions vu(e)s
+que vous fussiez vu(e)s
+qu’ils (elles) fussent vu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vu(e)s
+soyez vu(e)s
+
+* INFINITIF
+
+** Présent
+
+être vu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vu(e)
+tu as été vu(e)
+il (elle) a été vu(e)
+nous avons été vu(e)s
+vous avez été vu(e)s
+ils (elles) ont été vu(e)s
+
+** Plus-que-parfait
+
+j'avais été vu(e)
+il (elle) avait été vu(e)
+nous avions été vu(e)s
+ils (elles) avaient été vu(e)s
+
+** Passé antérieur
+
+j'eus été vu(e)
+tu eus été vu(e)
+il (elle) eut été vu(e)
+nous eûmes été vu(e)s
+vous eûtes été vu(e)s
+ils (elles) eurent été vu(e)s
+
+** Futur antérieur
+
+j'aurai été vu(e)
+tu auras été vu(e)
+il (elle) aura été vu(e)
+nous aurons été vu(e)s
+vous aurez été vu(e)s
+ils (elles) auront été vu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vu(e)
+j'aurais été vu(e)
+il (elle) aurait été vu(e)
+nous aurions été vu(e)s
+vous auriez été vu(e)s
+ils (elles) auraient été vu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vu(e)
+que tu aies été vu(e)
+qu’il (elle) ait été vu(e)
+que nous ayons été vu(e)s
+que vous ayez été vu(e)s
+qu’ils (elles) aient été vu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vu(e)
+que tu eusses été vu(e)
+qu’il (elle) eût été vu(e)
+que nous eussions été vu(e)s
+que vous eussiez été vu(e)s
+qu’ils (elles) eussent été vu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vu(e)
+ayons été vu(e)s
+ayez été vu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vu(e)(s)

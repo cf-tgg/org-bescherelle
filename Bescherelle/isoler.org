@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe isoler
+
+* INDICATIF
+
+** Présent
+
+j'isole
+tu isoles
+il (elle) isole
+nous isolons
+vous isolez
+ils (elles) isolent
+
+** Imparfait
+
+j'isolais
+tu isolais
+il (elle) isolait
+nous isolions
+vous isoliez
+ils (elles) isolaient
+
+** Passé simple
+
+j'isolai
+tu isolas
+il (elle) isola
+nous isolâmes
+vous isolâtes
+ils (elles) isolèrent
+
+** Futur simple
+
+j'isolerai
+tu isoleras
+il (elle) isolera
+nous isolerons
+vous isolerez
+ils (elles) isoleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'isolerais
+tu isolerais
+il (elle) isolerait
+nous isolerions
+vous isoleriez
+ils (elles) isoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'isole
+que tu isoles
+qu’il (elle) isole
+que nous isolions
+que vous isoliez
+qu’ils (elles) isolent
+
+** Imparfait
+
+que j'isolasse
+que tu isolasses
+qu’il (elle) isolât
+que nous isolassions
+que vous isolassiez
+qu’ils (elles) isolassent
+
+* IMPÉRATIF
+
+** Présent
+
+isole
+isolons
+isolez
+
+* INFINITIF
+
+** Présent
+
+isoler
+
+* PARTICIPE
+
+** Présent
+
+isolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai isolé
+tu as isolé
+il (elle) a isolé
+nous avons isolé
+vous avez isolé
+ils (elles) ont isolé
+
+** Plus-que-parfait
+
+j'avais isolé
+tu avais isolé
+il (elle) avait isolé
+nous avions isolé
+vous aviez isolé
+ils (elles) avaient isolé
+
+** Passé antérieur
+
+j'eus isolé
+tu eus isolé
+il (elle) eut isolé
+nous eûmes isolé
+vous eûtes isolé
+ils (elles) eurent isolé
+
+** Futur antérieur
+
+j'aurai isolé
+tu auras isolé
+il (elle) aura isolé
+nous aurons isolé
+vous aurez isolé
+ils (elles) auront isolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais isolé
+tu aurais isolé
+il (elle) aurait isolé
+nous aurions isolé
+vous auriez isolé
+ils (elles) auraient isolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie isolé
+que tu aies isolé
+qu’il (elle) ait isolé
+que nous ayons isolé
+que vous ayez isolé
+qu’ils (elles) aient isolé
+
+** Plus-que-parfait
+
+que j'eusse isolé
+que tu eusses isolé
+qu’il (elle) eût isolé
+que nous eussions isolé
+que vous eussiez isolé
+qu’ils (elles) eussent isolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons isolé
+ayez isolé
+
+* INFINITIF
+
+** Passé
+
+avoir isolé
+
+* PARTICIPE
+
+** Passé
+
+ayant isolé
+isolé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis isolé(e)
+tu es isolé(e)
+il (elle) est isolé(e)
+nous sommes isolé(e)s
+vous êtes isolé(e)s
+ils (elles) sont isolé(e)s
+
+** Imparfait
+
+j'étais isolé(e)
+tu étais isolé(e)
+il (elle) était isolé(e)
+nous étions isolé(e)s
+vous étiez isolé(e)s
+ils (elles) étaient isolé(e)s
+
+** Passé simple
+
+je fus isolé(e)
+tu fus isolé(e)
+il (elle) fut isolé(e)
+nous fûmes isolé(e)s
+vous fûtes isolé(e)s
+ils (elles) furent isolé(e)s
+
+** Futur simple
+
+je serai isolé(e)
+tu seras isolé(e)
+il (elle) sera isolé(e)
+nous serons isolé(e)s
+vous serez isolé(e)s
+ils (elles) seront isolé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais isolé(e)
+tu serais isolé(e)
+il (elle) serait isolé(e)
+nous serions isolé(e)s
+vous seriez isolé(e)s
+ils (elles) seraient isolé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois isolé(e)
+que tu sois isolé(e)
+qu’il (elle) soit isolé(e)
+que nous soyons isolé(e)s
+que vous soyez isolé(e)s
+qu’ils (elles) soient isolé(e)s
+
+** Imparfait
+
+que je fusse isolé(e)
+que tu fusses isolé(e)
+qu’il (elle) fût isolé(e)
+que nous fussions isolé(e)s
+que vous fussiez isolé(e)s
+qu’ils (elles) fussent isolé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons isolé(e)s
+soyez isolé(e)s
+
+* INFINITIF
+
+** Présent
+
+être isolé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant isolé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été isolé(e)
+tu as été isolé(e)
+il (elle) a été isolé(e)
+nous avons été isolé(e)s
+vous avez été isolé(e)s
+ils (elles) ont été isolé(e)s
+
+** Plus-que-parfait
+
+j'avais été isolé(e)
+il (elle) avait été isolé(e)
+nous avions été isolé(e)s
+ils (elles) avaient été isolé(e)s
+
+** Passé antérieur
+
+j'eus été isolé(e)
+tu eus été isolé(e)
+il (elle) eut été isolé(e)
+nous eûmes été isolé(e)s
+vous eûtes été isolé(e)s
+ils (elles) eurent été isolé(e)s
+
+** Futur antérieur
+
+j'aurai été isolé(e)
+tu auras été isolé(e)
+il (elle) aura été isolé(e)
+nous aurons été isolé(e)s
+vous aurez été isolé(e)s
+ils (elles) auront été isolé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été isolé(e)
+j'aurais été isolé(e)
+il (elle) aurait été isolé(e)
+nous aurions été isolé(e)s
+vous auriez été isolé(e)s
+ils (elles) auraient été isolé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été isolé(e)
+que tu aies été isolé(e)
+qu’il (elle) ait été isolé(e)
+que nous ayons été isolé(e)s
+que vous ayez été isolé(e)s
+qu’ils (elles) aient été isolé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été isolé(e)
+que tu eusses été isolé(e)
+qu’il (elle) eût été isolé(e)
+que nous eussions été isolé(e)s
+que vous eussiez été isolé(e)s
+qu’ils (elles) eussent été isolé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été isolé(e)
+ayons été isolé(e)s
+ayez été isolé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été isolé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été isolé(e)(s)

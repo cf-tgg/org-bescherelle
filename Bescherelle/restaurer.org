@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe restaurer
+
+* INDICATIF
+
+** Présent
+
+je restaure
+tu restaures
+il (elle) restaure
+nous restaurons
+vous restaurez
+ils (elles) restaurent
+
+** Imparfait
+
+je restaurais
+tu restaurais
+il (elle) restaurait
+nous restaurions
+vous restauriez
+ils (elles) restauraient
+
+** Passé simple
+
+je restaurai
+tu restauras
+il (elle) restaura
+nous restaurâmes
+vous restaurâtes
+ils (elles) restaurèrent
+
+** Futur simple
+
+je restaurerai
+tu restaureras
+il (elle) restaurera
+nous restaurerons
+vous restaurerez
+ils (elles) restaureront
+
+* CONDITIONNEL
+
+** Présent
+
+je restaurerais
+tu restaurerais
+il (elle) restaurerait
+nous restaurerions
+vous restaureriez
+ils (elles) restaureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je restaure
+que tu restaures
+qu’il (elle) restaure
+que nous restaurions
+que vous restauriez
+qu’ils (elles) restaurent
+
+** Imparfait
+
+que je restaurasse
+que tu restaurasses
+qu’il (elle) restaurât
+que nous restaurassions
+que vous restaurassiez
+qu’ils (elles) restaurassent
+
+* IMPÉRATIF
+
+** Présent
+
+restaure
+restaurons
+restaurez
+
+* INFINITIF
+
+** Présent
+
+restaurer
+
+* PARTICIPE
+
+** Présent
+
+restaurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai restauré
+tu as restauré
+il (elle) a restauré
+nous avons restauré
+vous avez restauré
+ils (elles) ont restauré
+
+** Plus-que-parfait
+
+j'avais restauré
+tu avais restauré
+il (elle) avait restauré
+nous avions restauré
+vous aviez restauré
+ils (elles) avaient restauré
+
+** Passé antérieur
+
+j'eus restauré
+tu eus restauré
+il (elle) eut restauré
+nous eûmes restauré
+vous eûtes restauré
+ils (elles) eurent restauré
+
+** Futur antérieur
+
+j'aurai restauré
+tu auras restauré
+il (elle) aura restauré
+nous aurons restauré
+vous aurez restauré
+ils (elles) auront restauré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais restauré
+tu aurais restauré
+il (elle) aurait restauré
+nous aurions restauré
+vous auriez restauré
+ils (elles) auraient restauré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie restauré
+que tu aies restauré
+qu’il (elle) ait restauré
+que nous ayons restauré
+que vous ayez restauré
+qu’ils (elles) aient restauré
+
+** Plus-que-parfait
+
+que j'eusse restauré
+que tu eusses restauré
+qu’il (elle) eût restauré
+que nous eussions restauré
+que vous eussiez restauré
+qu’ils (elles) eussent restauré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons restauré
+ayez restauré
+
+* INFINITIF
+
+** Passé
+
+avoir restauré
+
+* PARTICIPE
+
+** Passé
+
+ayant restauré
+restauré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis restauré(e)
+tu es restauré(e)
+il (elle) est restauré(e)
+nous sommes restauré(e)s
+vous êtes restauré(e)s
+ils (elles) sont restauré(e)s
+
+** Imparfait
+
+j'étais restauré(e)
+tu étais restauré(e)
+il (elle) était restauré(e)
+nous étions restauré(e)s
+vous étiez restauré(e)s
+ils (elles) étaient restauré(e)s
+
+** Passé simple
+
+je fus restauré(e)
+tu fus restauré(e)
+il (elle) fut restauré(e)
+nous fûmes restauré(e)s
+vous fûtes restauré(e)s
+ils (elles) furent restauré(e)s
+
+** Futur simple
+
+je serai restauré(e)
+tu seras restauré(e)
+il (elle) sera restauré(e)
+nous serons restauré(e)s
+vous serez restauré(e)s
+ils (elles) seront restauré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais restauré(e)
+tu serais restauré(e)
+il (elle) serait restauré(e)
+nous serions restauré(e)s
+vous seriez restauré(e)s
+ils (elles) seraient restauré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois restauré(e)
+que tu sois restauré(e)
+qu’il (elle) soit restauré(e)
+que nous soyons restauré(e)s
+que vous soyez restauré(e)s
+qu’ils (elles) soient restauré(e)s
+
+** Imparfait
+
+que je fusse restauré(e)
+que tu fusses restauré(e)
+qu’il (elle) fût restauré(e)
+que nous fussions restauré(e)s
+que vous fussiez restauré(e)s
+qu’ils (elles) fussent restauré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons restauré(e)s
+soyez restauré(e)s
+
+* INFINITIF
+
+** Présent
+
+être restauré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant restauré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été restauré(e)
+tu as été restauré(e)
+il (elle) a été restauré(e)
+nous avons été restauré(e)s
+vous avez été restauré(e)s
+ils (elles) ont été restauré(e)s
+
+** Plus-que-parfait
+
+j'avais été restauré(e)
+il (elle) avait été restauré(e)
+nous avions été restauré(e)s
+ils (elles) avaient été restauré(e)s
+
+** Passé antérieur
+
+j'eus été restauré(e)
+tu eus été restauré(e)
+il (elle) eut été restauré(e)
+nous eûmes été restauré(e)s
+vous eûtes été restauré(e)s
+ils (elles) eurent été restauré(e)s
+
+** Futur antérieur
+
+j'aurai été restauré(e)
+tu auras été restauré(e)
+il (elle) aura été restauré(e)
+nous aurons été restauré(e)s
+vous aurez été restauré(e)s
+ils (elles) auront été restauré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été restauré(e)
+j'aurais été restauré(e)
+il (elle) aurait été restauré(e)
+nous aurions été restauré(e)s
+vous auriez été restauré(e)s
+ils (elles) auraient été restauré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été restauré(e)
+que tu aies été restauré(e)
+qu’il (elle) ait été restauré(e)
+que nous ayons été restauré(e)s
+que vous ayez été restauré(e)s
+qu’ils (elles) aient été restauré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été restauré(e)
+que tu eusses été restauré(e)
+qu’il (elle) eût été restauré(e)
+que nous eussions été restauré(e)s
+que vous eussiez été restauré(e)s
+qu’ils (elles) eussent été restauré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été restauré(e)
+ayons été restauré(e)s
+ayez été restauré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été restauré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été restauré(e)(s)

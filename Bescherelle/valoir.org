@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe valoir
+
+* INDICATIF
+
+** Présent
+
+je vaux
+tu vaux
+il (elle) vaut
+nous valons
+vous valez
+ils (elles) valent
+
+** Imparfait
+
+je valais
+tu valais
+il (elle) valait
+nous valions
+vous valiez
+ils (elles) valaient
+
+** Passé simple
+
+je valus
+tu valus
+il (elle) valut
+nous valûmes
+vous valûtes
+ils (elles) valurent
+
+** Futur simple
+
+je vaudrai
+tu vaudras
+il (elle) vaudra
+nous vaudrons
+vous vaudrez
+ils (elles) vaudront
+
+* CONDITIONNEL
+
+** Présent
+
+je vaudrais
+tu vaudrais
+il (elle) vaudrait
+nous vaudrions
+vous vaudriez
+ils (elles) vaudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vaille
+que tu vailles
+qu’il (elle) vaille
+que nous valions
+que vous valiez
+qu’ils (elles) vaillent
+
+** Imparfait
+
+que je valusse
+que tu valusses
+qu’il (elle) valût
+que nous valussions
+que vous valussiez
+qu’ils (elles) valussent
+
+* IMPÉRATIF
+
+** Présent
+
+vaux
+valons
+valez
+
+* INFINITIF
+
+** Présent
+
+valoir
+
+* PARTICIPE
+
+** Présent
+
+valant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai valu
+tu as valu
+il (elle) a valu
+nous avons valu
+vous avez valu
+ils (elles) ont valu
+
+** Plus-que-parfait
+
+j'avais valu
+tu avais valu
+il (elle) avait valu
+nous avions valu
+vous aviez valu
+ils (elles) avaient valu
+
+** Passé antérieur
+
+j'eus valu
+tu eus valu
+il (elle) eut valu
+nous eûmes valu
+vous eûtes valu
+ils (elles) eurent valu
+
+** Futur antérieur
+
+j'aurai valu
+tu auras valu
+il (elle) aura valu
+nous aurons valu
+vous aurez valu
+ils (elles) auront valu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais valu
+tu aurais valu
+il (elle) aurait valu
+nous aurions valu
+vous auriez valu
+ils (elles) auraient valu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie valu
+que tu aies valu
+qu’il (elle) ait valu
+que nous ayons valu
+que vous ayez valu
+qu’ils (elles) aient valu
+
+** Plus-que-parfait
+
+que j'eusse valu
+que tu eusses valu
+qu’il (elle) eût valu
+que nous eussions valu
+que vous eussiez valu
+qu’ils (elles) eussent valu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons valu
+ayez valu
+
+* INFINITIF
+
+** Passé
+
+avoir valu
+
+* PARTICIPE
+
+** Passé
+
+ayant valu
+valu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis valu(e)
+tu es valu(e)
+il (elle) est valu(e)
+nous sommes valu(e)s
+vous êtes valu(e)s
+ils (elles) sont valu(e)s
+
+** Imparfait
+
+j'étais valu(e)
+tu étais valu(e)
+il (elle) était valu(e)
+nous étions valu(e)s
+vous étiez valu(e)s
+ils (elles) étaient valu(e)s
+
+** Passé simple
+
+je fus valu(e)
+tu fus valu(e)
+il (elle) fut valu(e)
+nous fûmes valu(e)s
+vous fûtes valu(e)s
+ils (elles) furent valu(e)s
+
+** Futur simple
+
+je serai valu(e)
+tu seras valu(e)
+il (elle) sera valu(e)
+nous serons valu(e)s
+vous serez valu(e)s
+ils (elles) seront valu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais valu(e)
+tu serais valu(e)
+il (elle) serait valu(e)
+nous serions valu(e)s
+vous seriez valu(e)s
+ils (elles) seraient valu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois valu(e)
+que tu sois valu(e)
+qu’il (elle) soit valu(e)
+que nous soyons valu(e)s
+que vous soyez valu(e)s
+qu’ils (elles) soient valu(e)s
+
+** Imparfait
+
+que je fusse valu(e)
+que tu fusses valu(e)
+qu’il (elle) fût valu(e)
+que nous fussions valu(e)s
+que vous fussiez valu(e)s
+qu’ils (elles) fussent valu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons valu(e)s
+soyez valu(e)s
+
+* INFINITIF
+
+** Présent
+
+être valu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant valu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été valu(e)
+tu as été valu(e)
+il (elle) a été valu(e)
+nous avons été valu(e)s
+vous avez été valu(e)s
+ils (elles) ont été valu(e)s
+
+** Plus-que-parfait
+
+j'avais été valu(e)
+il (elle) avait été valu(e)
+nous avions été valu(e)s
+ils (elles) avaient été valu(e)s
+
+** Passé antérieur
+
+j'eus été valu(e)
+tu eus été valu(e)
+il (elle) eut été valu(e)
+nous eûmes été valu(e)s
+vous eûtes été valu(e)s
+ils (elles) eurent été valu(e)s
+
+** Futur antérieur
+
+j'aurai été valu(e)
+tu auras été valu(e)
+il (elle) aura été valu(e)
+nous aurons été valu(e)s
+vous aurez été valu(e)s
+ils (elles) auront été valu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été valu(e)
+j'aurais été valu(e)
+il (elle) aurait été valu(e)
+nous aurions été valu(e)s
+vous auriez été valu(e)s
+ils (elles) auraient été valu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été valu(e)
+que tu aies été valu(e)
+qu’il (elle) ait été valu(e)
+que nous ayons été valu(e)s
+que vous ayez été valu(e)s
+qu’ils (elles) aient été valu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été valu(e)
+que tu eusses été valu(e)
+qu’il (elle) eût été valu(e)
+que nous eussions été valu(e)s
+que vous eussiez été valu(e)s
+qu’ils (elles) eussent été valu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été valu(e)
+ayons été valu(e)s
+ayez été valu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été valu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été valu(e)(s)

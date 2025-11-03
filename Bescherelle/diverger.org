@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe diverger
+
+* INDICATIF
+
+** Présent
+
+je diverge
+tu diverges
+il (elle) diverge
+nous divergeons
+vous divergez
+ils (elles) divergent
+
+** Imparfait
+
+je divergeais
+tu divergeais
+il (elle) divergeait
+nous divergions
+vous divergiez
+ils (elles) divergeaient
+
+** Passé simple
+
+je divergeai
+tu divergeas
+il (elle) divergea
+nous divergeâmes
+vous divergeâtes
+ils (elles) divergèrent
+
+** Futur simple
+
+je divergerai
+tu divergeras
+il (elle) divergera
+nous divergerons
+vous divergerez
+ils (elles) divergeront
+
+* CONDITIONNEL
+
+** Présent
+
+je divergerais
+tu divergerais
+il (elle) divergerait
+nous divergerions
+vous divergeriez
+ils (elles) divergeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je diverge
+que tu diverges
+qu’il (elle) diverge
+que nous divergions
+que vous divergiez
+qu’ils (elles) divergent
+
+** Imparfait
+
+que je divergeasse
+que tu divergeasses
+qu’il (elle) divergeât
+que nous divergeassions
+que vous divergeassiez
+qu’ils (elles) divergeassent
+
+* IMPÉRATIF
+
+** Présent
+
+diverge
+divergeons
+divergez
+
+* INFINITIF
+
+** Présent
+
+diverger
+
+* PARTICIPE
+
+** Présent
+
+divergeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai divergé
+tu as divergé
+il (elle) a divergé
+nous avons divergé
+vous avez divergé
+ils (elles) ont divergé
+
+** Plus-que-parfait
+
+j'avais divergé
+tu avais divergé
+il (elle) avait divergé
+nous avions divergé
+vous aviez divergé
+ils (elles) avaient divergé
+
+** Passé antérieur
+
+j'eus divergé
+tu eus divergé
+il (elle) eut divergé
+nous eûmes divergé
+vous eûtes divergé
+ils (elles) eurent divergé
+
+** Futur antérieur
+
+j'aurai divergé
+tu auras divergé
+il (elle) aura divergé
+nous aurons divergé
+vous aurez divergé
+ils (elles) auront divergé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais divergé
+tu aurais divergé
+il (elle) aurait divergé
+nous aurions divergé
+vous auriez divergé
+ils (elles) auraient divergé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie divergé
+que tu aies divergé
+qu’il (elle) ait divergé
+que nous ayons divergé
+que vous ayez divergé
+qu’ils (elles) aient divergé
+
+** Plus-que-parfait
+
+que j'eusse divergé
+que tu eusses divergé
+qu’il (elle) eût divergé
+que nous eussions divergé
+que vous eussiez divergé
+qu’ils (elles) eussent divergé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons divergé
+ayez divergé
+
+* INFINITIF
+
+** Passé
+
+avoir divergé
+
+* PARTICIPE
+
+** Passé
+
+ayant divergé
+divergé (invar.)

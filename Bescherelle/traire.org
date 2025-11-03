@@ -1,0 +1,336 @@
+#+title: Conjugaison du verbe traire
+
+* INDICATIF
+
+** Présent
+
+je trais
+tu trais
+il (elle) trait
+nous trayons
+vous trayez
+ils (elles) traient
+
+** Imparfait
+
+je trayais
+tu trayais
+il (elle) trayait
+nous trayions
+vous trayiez
+ils (elles) trayaient
+
+** Futur simple
+
+je trairai
+tu trairas
+il (elle) traira
+nous trairons
+vous trairez
+ils (elles) trairont
+
+* CONDITIONNEL
+
+** Présent
+
+je trairais
+tu trairais
+il (elle) trairait
+nous trairions
+vous trairiez
+ils (elles) trairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je traie
+que tu traies
+qu’il (elle) traie
+que nous trayions
+que vous trayiez
+qu’ils (elles) traient
+
+* IMPÉRATIF
+
+** Présent
+
+trais
+trayons
+trayez
+
+* INFINITIF
+
+** Présent
+
+traire
+
+* PARTICIPE
+
+** Présent
+
+trayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trait
+tu as trait
+il (elle) a trait
+nous avons trait
+vous avez trait
+ils (elles) ont trait
+
+** Plus-que-parfait
+
+j'avais trait
+tu avais trait
+il (elle) avait trait
+nous avions trait
+vous aviez trait
+ils (elles) avaient trait
+
+** Passé antérieur
+
+j'eus trait
+tu eus trait
+il (elle) eut trait
+nous eûmes trait
+vous eûtes trait
+ils (elles) eurent trait
+
+** Futur antérieur
+
+j'aurai trait
+tu auras trait
+il (elle) aura trait
+nous aurons trait
+vous aurez trait
+ils (elles) auront trait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trait
+tu aurais trait
+il (elle) aurait trait
+nous aurions trait
+vous auriez trait
+ils (elles) auraient trait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trait
+que tu aies trait
+qu’il (elle) ait trait
+que nous ayons trait
+que vous ayez trait
+qu’ils (elles) aient trait
+
+** Plus-que-parfait
+
+que j'eusse trait
+que tu eusses trait
+qu’il (elle) eût trait
+que nous eussions trait
+que vous eussiez trait
+qu’ils (elles) eussent trait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trait
+ayez trait
+
+* INFINITIF
+
+** Passé
+
+avoir trait
+
+* PARTICIPE
+
+** Passé
+
+ayant trait
+trait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis trait(e)
+tu es trait(e)
+il (elle) est trait(e)
+nous sommes trait(e)s
+vous êtes trait(e)s
+ils (elles) sont trait(e)s
+
+** Imparfait
+
+j'étais trait(e)
+tu étais trait(e)
+il (elle) était trait(e)
+nous étions trait(e)s
+vous étiez trait(e)s
+ils (elles) étaient trait(e)s
+
+** Passé simple
+
+je fus trait(e)
+tu fus trait(e)
+il (elle) fut trait(e)
+nous fûmes trait(e)s
+vous fûtes trait(e)s
+ils (elles) furent trait(e)s
+
+** Futur simple
+
+je serai trait(e)
+tu seras trait(e)
+il (elle) sera trait(e)
+nous serons trait(e)s
+vous serez trait(e)s
+ils (elles) seront trait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trait(e)
+tu serais trait(e)
+il (elle) serait trait(e)
+nous serions trait(e)s
+vous seriez trait(e)s
+ils (elles) seraient trait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trait(e)
+que tu sois trait(e)
+qu’il (elle) soit trait(e)
+que nous soyons trait(e)s
+que vous soyez trait(e)s
+qu’ils (elles) soient trait(e)s
+
+** Imparfait
+
+que je fusse trait(e)
+que tu fusses trait(e)
+qu’il (elle) fût trait(e)
+que nous fussions trait(e)s
+que vous fussiez trait(e)s
+qu’ils (elles) fussent trait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trait(e)s
+soyez trait(e)s
+
+* INFINITIF
+
+** Présent
+
+être trait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trait(e)
+tu as été trait(e)
+il (elle) a été trait(e)
+nous avons été trait(e)s
+vous avez été trait(e)s
+ils (elles) ont été trait(e)s
+
+** Plus-que-parfait
+
+j'avais été trait(e)
+il (elle) avait été trait(e)
+nous avions été trait(e)s
+ils (elles) avaient été trait(e)s
+
+** Passé antérieur
+
+j'eus été trait(e)
+tu eus été trait(e)
+il (elle) eut été trait(e)
+nous eûmes été trait(e)s
+vous eûtes été trait(e)s
+ils (elles) eurent été trait(e)s
+
+** Futur antérieur
+
+j'aurai été trait(e)
+tu auras été trait(e)
+il (elle) aura été trait(e)
+nous aurons été trait(e)s
+vous aurez été trait(e)s
+ils (elles) auront été trait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trait(e)
+j'aurais été trait(e)
+il (elle) aurait été trait(e)
+nous aurions été trait(e)s
+vous auriez été trait(e)s
+ils (elles) auraient été trait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trait(e)
+que tu aies été trait(e)
+qu’il (elle) ait été trait(e)
+que nous ayons été trait(e)s
+que vous ayez été trait(e)s
+qu’ils (elles) aient été trait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trait(e)
+que tu eusses été trait(e)
+qu’il (elle) eût été trait(e)
+que nous eussions été trait(e)s
+que vous eussiez été trait(e)s
+qu’ils (elles) eussent été trait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trait(e)
+ayons été trait(e)s
+ayez été trait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trait(e)(s)

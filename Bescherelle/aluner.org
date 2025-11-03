@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aluner
+
+* INDICATIF
+
+** Présent
+
+j'alune
+tu alunes
+il (elle) alune
+nous alunons
+vous alunez
+ils (elles) alunent
+
+** Imparfait
+
+j'alunais
+tu alunais
+il (elle) alunait
+nous alunions
+vous aluniez
+ils (elles) alunaient
+
+** Passé simple
+
+j'alunai
+tu alunas
+il (elle) aluna
+nous alunâmes
+vous alunâtes
+ils (elles) alunèrent
+
+** Futur simple
+
+j'alunerai
+tu aluneras
+il (elle) alunera
+nous alunerons
+vous alunerez
+ils (elles) aluneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'alunerais
+tu alunerais
+il (elle) alunerait
+nous alunerions
+vous aluneriez
+ils (elles) aluneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alune
+que tu alunes
+qu’il (elle) alune
+que nous alunions
+que vous aluniez
+qu’ils (elles) alunent
+
+** Imparfait
+
+que j'alunasse
+que tu alunasses
+qu’il (elle) alunât
+que nous alunassions
+que vous alunassiez
+qu’ils (elles) alunassent
+
+* IMPÉRATIF
+
+** Présent
+
+alune
+alunons
+alunez
+
+* INFINITIF
+
+** Présent
+
+aluner
+
+* PARTICIPE
+
+** Présent
+
+alunant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aluné
+tu as aluné
+il (elle) a aluné
+nous avons aluné
+vous avez aluné
+ils (elles) ont aluné
+
+** Plus-que-parfait
+
+j'avais aluné
+tu avais aluné
+il (elle) avait aluné
+nous avions aluné
+vous aviez aluné
+ils (elles) avaient aluné
+
+** Passé antérieur
+
+j'eus aluné
+tu eus aluné
+il (elle) eut aluné
+nous eûmes aluné
+vous eûtes aluné
+ils (elles) eurent aluné
+
+** Futur antérieur
+
+j'aurai aluné
+tu auras aluné
+il (elle) aura aluné
+nous aurons aluné
+vous aurez aluné
+ils (elles) auront aluné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aluné
+tu aurais aluné
+il (elle) aurait aluné
+nous aurions aluné
+vous auriez aluné
+ils (elles) auraient aluné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aluné
+que tu aies aluné
+qu’il (elle) ait aluné
+que nous ayons aluné
+que vous ayez aluné
+qu’ils (elles) aient aluné
+
+** Plus-que-parfait
+
+que j'eusse aluné
+que tu eusses aluné
+qu’il (elle) eût aluné
+que nous eussions aluné
+que vous eussiez aluné
+qu’ils (elles) eussent aluné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aluné
+ayez aluné
+
+* INFINITIF
+
+** Passé
+
+avoir aluné
+
+* PARTICIPE
+
+** Passé
+
+ayant aluné
+aluné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aluné(e)
+tu es aluné(e)
+il (elle) est aluné(e)
+nous sommes aluné(e)s
+vous êtes aluné(e)s
+ils (elles) sont aluné(e)s
+
+** Imparfait
+
+j'étais aluné(e)
+tu étais aluné(e)
+il (elle) était aluné(e)
+nous étions aluné(e)s
+vous étiez aluné(e)s
+ils (elles) étaient aluné(e)s
+
+** Passé simple
+
+je fus aluné(e)
+tu fus aluné(e)
+il (elle) fut aluné(e)
+nous fûmes aluné(e)s
+vous fûtes aluné(e)s
+ils (elles) furent aluné(e)s
+
+** Futur simple
+
+je serai aluné(e)
+tu seras aluné(e)
+il (elle) sera aluné(e)
+nous serons aluné(e)s
+vous serez aluné(e)s
+ils (elles) seront aluné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aluné(e)
+tu serais aluné(e)
+il (elle) serait aluné(e)
+nous serions aluné(e)s
+vous seriez aluné(e)s
+ils (elles) seraient aluné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aluné(e)
+que tu sois aluné(e)
+qu’il (elle) soit aluné(e)
+que nous soyons aluné(e)s
+que vous soyez aluné(e)s
+qu’ils (elles) soient aluné(e)s
+
+** Imparfait
+
+que je fusse aluné(e)
+que tu fusses aluné(e)
+qu’il (elle) fût aluné(e)
+que nous fussions aluné(e)s
+que vous fussiez aluné(e)s
+qu’ils (elles) fussent aluné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aluné(e)s
+soyez aluné(e)s
+
+* INFINITIF
+
+** Présent
+
+être aluné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aluné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aluné(e)
+tu as été aluné(e)
+il (elle) a été aluné(e)
+nous avons été aluné(e)s
+vous avez été aluné(e)s
+ils (elles) ont été aluné(e)s
+
+** Plus-que-parfait
+
+j'avais été aluné(e)
+il (elle) avait été aluné(e)
+nous avions été aluné(e)s
+ils (elles) avaient été aluné(e)s
+
+** Passé antérieur
+
+j'eus été aluné(e)
+tu eus été aluné(e)
+il (elle) eut été aluné(e)
+nous eûmes été aluné(e)s
+vous eûtes été aluné(e)s
+ils (elles) eurent été aluné(e)s
+
+** Futur antérieur
+
+j'aurai été aluné(e)
+tu auras été aluné(e)
+il (elle) aura été aluné(e)
+nous aurons été aluné(e)s
+vous aurez été aluné(e)s
+ils (elles) auront été aluné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aluné(e)
+j'aurais été aluné(e)
+il (elle) aurait été aluné(e)
+nous aurions été aluné(e)s
+vous auriez été aluné(e)s
+ils (elles) auraient été aluné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aluné(e)
+que tu aies été aluné(e)
+qu’il (elle) ait été aluné(e)
+que nous ayons été aluné(e)s
+que vous ayez été aluné(e)s
+qu’ils (elles) aient été aluné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aluné(e)
+que tu eusses été aluné(e)
+qu’il (elle) eût été aluné(e)
+que nous eussions été aluné(e)s
+que vous eussiez été aluné(e)s
+qu’ils (elles) eussent été aluné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aluné(e)
+ayons été aluné(e)s
+ayez été aluné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aluné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aluné(e)(s)

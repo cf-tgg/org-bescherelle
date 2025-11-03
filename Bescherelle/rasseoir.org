@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rasseoir
+
+* INDICATIF
+
+** Présent
+
+je rassieds / rassois
+tu rassieds / rassois
+il (elle) rassied / rassoit
+nous rasseyons / rassoyons
+vous rasseyez / rassoyez
+ils (elles) rasseyent / rassoient
+
+** Imparfait
+
+je rasseyais / rassoyais
+tu rasseyais / rassoyais
+il (elle) rasseyait / rassoyait
+nous rasseyions / rassoyions
+vous rasseyiez / rassoyiez
+ils (elles) rasseyaient / rassoyaient
+
+** Passé simple
+
+je rassis
+tu rassis
+il (elle) rassit
+nous rassîmes
+vous rassîtes
+ils (elles) rassirent
+
+** Futur simple
+
+je rassiérai / rassoirai
+tu rassiéras / rassoiras
+il (elle) rassiéra / rassoira
+nous rassiérons / rassoirons
+vous rassiérez / rassoirez
+ils (elles) rassiéront / rassoiront
+
+* CONDITIONNEL
+
+** Présent
+
+je rassiérais / rassoirais
+tu rassiérais / rassoirais
+il (elle) rassiérait / rassoirait
+nous rassiérions / rassoirions
+vous rassiériez / rassoiriez
+ils (elles) rassiéraient / rassoiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rasseye / rassoie
+que tu rasseyes / rassoies
+qu’il (elle) rasseye / rassoie
+que nous rasseyions / rassoyions
+que vous rasseyiez / rassoyiez
+qu’ils (elles) rasseyent / rassoient
+
+** Imparfait
+
+que je rassisse
+que tu rassisses
+qu’il (elle) rassît
+que nous rassissions
+que vous rassissiez
+qu’ils (elles) rassissent
+
+* IMPÉRATIF
+
+** Présent
+
+rassieds / rassois
+rasseyons / rassoyons
+rasseyez / rassoyez
+
+* INFINITIF
+
+** Présent
+
+rasseoir
+
+* PARTICIPE
+
+** Présent
+
+rasseyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rassis
+tu as rassis
+il (elle) a rassis
+nous avons rassis
+vous avez rassis
+ils (elles) ont rassis
+
+** Plus-que-parfait
+
+j'avais rassis
+tu avais rassis
+il (elle) avait rassis
+nous avions rassis
+vous aviez rassis
+ils (elles) avaient rassis
+
+** Passé antérieur
+
+j'eus rassis
+tu eus rassis
+il (elle) eut rassis
+nous eûmes rassis
+vous eûtes rassis
+ils (elles) eurent rassis
+
+** Futur antérieur
+
+j'aurai rassis
+tu auras rassis
+il (elle) aura rassis
+nous aurons rassis
+vous aurez rassis
+ils (elles) auront rassis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rassis
+tu aurais rassis
+il (elle) aurait rassis
+nous aurions rassis
+vous auriez rassis
+ils (elles) auraient rassis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rassis
+que tu aies rassis
+qu’il (elle) ait rassis
+que nous ayons rassis
+que vous ayez rassis
+qu’ils (elles) aient rassis
+
+** Plus-que-parfait
+
+que j'eusse rassis
+que tu eusses rassis
+qu’il (elle) eût rassis
+que nous eussions rassis
+que vous eussiez rassis
+qu’ils (elles) eussent rassis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rassis
+ayez rassis
+
+* INFINITIF
+
+** Passé
+
+avoir rassis
+
+* PARTICIPE
+
+** Passé
+
+ayant rassis
+rassis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis rassis(e)
+tu es rassis(e)
+il (elle) est rassis(e)
+nous sommes rassis(es)
+vous êtes rassis(es)
+ils (elles) sont rassis(es)
+
+** Imparfait
+
+j'étais rassis(e)
+tu étais rassis(e)
+il (elle) était rassis(e)
+nous étions rassis(es)
+vous étiez rassis(es)
+ils (elles) étaient rassis(es)
+
+** Passé simple
+
+je fus rassis(e)
+tu fus rassis(e)
+il (elle) fut rassis(e)
+nous fûmes rassis(es)
+vous fûtes rassis(es)
+ils (elles) furent rassis(es)
+
+** Futur simple
+
+je serai rassis(e)
+tu seras rassis(e)
+il (elle) sera rassis(e)
+nous serons rassis(es)
+vous serez rassis(es)
+ils (elles) seront rassis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rassis(e)
+tu serais rassis(e)
+il (elle) serait rassis(e)
+nous serions rassis(es)
+vous seriez rassis(es)
+ils (elles) seraient rassis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rassis(e)
+que tu sois rassis(e)
+qu’il (elle) soit rassis(e)
+que nous soyons rassis(es)
+que vous soyez rassis(es)
+qu’ils (elles) soient rassis(es)
+
+** Imparfait
+
+que je fusse rassis(e)
+que tu fusses rassis(e)
+qu’il (elle) fût rassis(e)
+que nous fussions rassis(es)
+que vous fussiez rassis(es)
+qu’ils (elles) fussent rassis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rassis(es)
+soyez rassis(es)
+
+* INFINITIF
+
+** Présent
+
+être rassis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant rassis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rassis(e)
+tu as été rassis(e)
+il (elle) a été rassis(e)
+nous avons été rassis(es)
+vous avez été rassis(es)
+ils (elles) ont été rassis(es)
+
+** Plus-que-parfait
+
+j'avais été rassis(e)
+il (elle) avait été rassis(e)
+nous avions été rassis(es)
+ils (elles) avaient été rassis(es)
+
+** Passé antérieur
+
+j'eus été rassis(e)
+tu eus été rassis(e)
+il (elle) eut été rassis(e)
+nous eûmes été rassis(es)
+vous eûtes été rassis(es)
+ils (elles) eurent été rassis(es)
+
+** Futur antérieur
+
+j'aurai été rassis(e)
+tu auras été rassis(e)
+il (elle) aura été rassis(e)
+nous aurons été rassis(es)
+vous aurez été rassis(es)
+ils (elles) auront été rassis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rassis(e)
+j'aurais été rassis(e)
+il (elle) aurait été rassis(e)
+nous aurions été rassis(es)
+vous auriez été rassis(es)
+ils (elles) auraient été rassis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rassis(e)
+que tu aies été rassis(e)
+qu’il (elle) ait été rassis(e)
+que nous ayons été rassis(es)
+que vous ayez été rassis(es)
+qu’ils (elles) aient été rassis(es)
+
+** Plus-que-parfait
+
+que j'eusse été rassis(e)
+que tu eusses été rassis(e)
+qu’il (elle) eût été rassis(e)
+que nous eussions été rassis(es)
+que vous eussiez été rassis(es)
+qu’ils (elles) eussent été rassis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rassis(e)
+ayons été rassis(es)
+ayez été rassis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été rassis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rassis (s, se, s, ses)

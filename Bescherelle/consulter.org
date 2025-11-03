@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe consulter
+
+* INDICATIF
+
+** Présent
+
+je consulte
+tu consultes
+il (elle) consulte
+nous consultons
+vous consultez
+ils (elles) consultent
+
+** Imparfait
+
+je consultais
+tu consultais
+il (elle) consultait
+nous consultions
+vous consultiez
+ils (elles) consultaient
+
+** Passé simple
+
+je consultai
+tu consultas
+il (elle) consulta
+nous consultâmes
+vous consultâtes
+ils (elles) consultèrent
+
+** Futur simple
+
+je consulterai
+tu consulteras
+il (elle) consultera
+nous consulterons
+vous consulterez
+ils (elles) consulteront
+
+* CONDITIONNEL
+
+** Présent
+
+je consulterais
+tu consulterais
+il (elle) consulterait
+nous consulterions
+vous consulteriez
+ils (elles) consulteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je consulte
+que tu consultes
+qu’il (elle) consulte
+que nous consultions
+que vous consultiez
+qu’ils (elles) consultent
+
+** Imparfait
+
+que je consultasse
+que tu consultasses
+qu’il (elle) consultât
+que nous consultassions
+que vous consultassiez
+qu’ils (elles) consultassent
+
+* IMPÉRATIF
+
+** Présent
+
+consulte
+consultons
+consultez
+
+* INFINITIF
+
+** Présent
+
+consulter
+
+* PARTICIPE
+
+** Présent
+
+consultant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consulté
+tu as consulté
+il (elle) a consulté
+nous avons consulté
+vous avez consulté
+ils (elles) ont consulté
+
+** Plus-que-parfait
+
+j'avais consulté
+tu avais consulté
+il (elle) avait consulté
+nous avions consulté
+vous aviez consulté
+ils (elles) avaient consulté
+
+** Passé antérieur
+
+j'eus consulté
+tu eus consulté
+il (elle) eut consulté
+nous eûmes consulté
+vous eûtes consulté
+ils (elles) eurent consulté
+
+** Futur antérieur
+
+j'aurai consulté
+tu auras consulté
+il (elle) aura consulté
+nous aurons consulté
+vous aurez consulté
+ils (elles) auront consulté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consulté
+tu aurais consulté
+il (elle) aurait consulté
+nous aurions consulté
+vous auriez consulté
+ils (elles) auraient consulté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consulté
+que tu aies consulté
+qu’il (elle) ait consulté
+que nous ayons consulté
+que vous ayez consulté
+qu’ils (elles) aient consulté
+
+** Plus-que-parfait
+
+que j'eusse consulté
+que tu eusses consulté
+qu’il (elle) eût consulté
+que nous eussions consulté
+que vous eussiez consulté
+qu’ils (elles) eussent consulté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consulté
+ayez consulté
+
+* INFINITIF
+
+** Passé
+
+avoir consulté
+
+* PARTICIPE
+
+** Passé
+
+ayant consulté
+consulté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis consulté(e)
+tu es consulté(e)
+il (elle) est consulté(e)
+nous sommes consulté(e)s
+vous êtes consulté(e)s
+ils (elles) sont consulté(e)s
+
+** Imparfait
+
+j'étais consulté(e)
+tu étais consulté(e)
+il (elle) était consulté(e)
+nous étions consulté(e)s
+vous étiez consulté(e)s
+ils (elles) étaient consulté(e)s
+
+** Passé simple
+
+je fus consulté(e)
+tu fus consulté(e)
+il (elle) fut consulté(e)
+nous fûmes consulté(e)s
+vous fûtes consulté(e)s
+ils (elles) furent consulté(e)s
+
+** Futur simple
+
+je serai consulté(e)
+tu seras consulté(e)
+il (elle) sera consulté(e)
+nous serons consulté(e)s
+vous serez consulté(e)s
+ils (elles) seront consulté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais consulté(e)
+tu serais consulté(e)
+il (elle) serait consulté(e)
+nous serions consulté(e)s
+vous seriez consulté(e)s
+ils (elles) seraient consulté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois consulté(e)
+que tu sois consulté(e)
+qu’il (elle) soit consulté(e)
+que nous soyons consulté(e)s
+que vous soyez consulté(e)s
+qu’ils (elles) soient consulté(e)s
+
+** Imparfait
+
+que je fusse consulté(e)
+que tu fusses consulté(e)
+qu’il (elle) fût consulté(e)
+que nous fussions consulté(e)s
+que vous fussiez consulté(e)s
+qu’ils (elles) fussent consulté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons consulté(e)s
+soyez consulté(e)s
+
+* INFINITIF
+
+** Présent
+
+être consulté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant consulté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été consulté(e)
+tu as été consulté(e)
+il (elle) a été consulté(e)
+nous avons été consulté(e)s
+vous avez été consulté(e)s
+ils (elles) ont été consulté(e)s
+
+** Plus-que-parfait
+
+j'avais été consulté(e)
+il (elle) avait été consulté(e)
+nous avions été consulté(e)s
+ils (elles) avaient été consulté(e)s
+
+** Passé antérieur
+
+j'eus été consulté(e)
+tu eus été consulté(e)
+il (elle) eut été consulté(e)
+nous eûmes été consulté(e)s
+vous eûtes été consulté(e)s
+ils (elles) eurent été consulté(e)s
+
+** Futur antérieur
+
+j'aurai été consulté(e)
+tu auras été consulté(e)
+il (elle) aura été consulté(e)
+nous aurons été consulté(e)s
+vous aurez été consulté(e)s
+ils (elles) auront été consulté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été consulté(e)
+j'aurais été consulté(e)
+il (elle) aurait été consulté(e)
+nous aurions été consulté(e)s
+vous auriez été consulté(e)s
+ils (elles) auraient été consulté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été consulté(e)
+que tu aies été consulté(e)
+qu’il (elle) ait été consulté(e)
+que nous ayons été consulté(e)s
+que vous ayez été consulté(e)s
+qu’ils (elles) aient été consulté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été consulté(e)
+que tu eusses été consulté(e)
+qu’il (elle) eût été consulté(e)
+que nous eussions été consulté(e)s
+que vous eussiez été consulté(e)s
+qu’ils (elles) eussent été consulté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été consulté(e)
+ayons été consulté(e)s
+ayez été consulté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été consulté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été consulté(e)(s)

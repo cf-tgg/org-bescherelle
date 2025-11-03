@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe masser
+
+* INDICATIF
+
+** Présent
+
+je masse
+tu masses
+il (elle) masse
+nous massons
+vous massez
+ils (elles) massent
+
+** Imparfait
+
+je massais
+tu massais
+il (elle) massait
+nous massions
+vous massiez
+ils (elles) massaient
+
+** Passé simple
+
+je massai
+tu massas
+il (elle) massa
+nous massâmes
+vous massâtes
+ils (elles) massèrent
+
+** Futur simple
+
+je masserai
+tu masseras
+il (elle) massera
+nous masserons
+vous masserez
+ils (elles) masseront
+
+* CONDITIONNEL
+
+** Présent
+
+je masserais
+tu masserais
+il (elle) masserait
+nous masserions
+vous masseriez
+ils (elles) masseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je masse
+que tu masses
+qu’il (elle) masse
+que nous massions
+que vous massiez
+qu’ils (elles) massent
+
+** Imparfait
+
+que je massasse
+que tu massasses
+qu’il (elle) massât
+que nous massassions
+que vous massassiez
+qu’ils (elles) massassent
+
+* IMPÉRATIF
+
+** Présent
+
+masse
+massons
+massez
+
+* INFINITIF
+
+** Présent
+
+masser
+
+* PARTICIPE
+
+** Présent
+
+massant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai massé
+tu as massé
+il (elle) a massé
+nous avons massé
+vous avez massé
+ils (elles) ont massé
+
+** Plus-que-parfait
+
+j'avais massé
+tu avais massé
+il (elle) avait massé
+nous avions massé
+vous aviez massé
+ils (elles) avaient massé
+
+** Passé antérieur
+
+j'eus massé
+tu eus massé
+il (elle) eut massé
+nous eûmes massé
+vous eûtes massé
+ils (elles) eurent massé
+
+** Futur antérieur
+
+j'aurai massé
+tu auras massé
+il (elle) aura massé
+nous aurons massé
+vous aurez massé
+ils (elles) auront massé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais massé
+tu aurais massé
+il (elle) aurait massé
+nous aurions massé
+vous auriez massé
+ils (elles) auraient massé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie massé
+que tu aies massé
+qu’il (elle) ait massé
+que nous ayons massé
+que vous ayez massé
+qu’ils (elles) aient massé
+
+** Plus-que-parfait
+
+que j'eusse massé
+que tu eusses massé
+qu’il (elle) eût massé
+que nous eussions massé
+que vous eussiez massé
+qu’ils (elles) eussent massé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons massé
+ayez massé
+
+* INFINITIF
+
+** Passé
+
+avoir massé
+
+* PARTICIPE
+
+** Passé
+
+ayant massé
+massé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis massé(e)
+tu es massé(e)
+il (elle) est massé(e)
+nous sommes massé(e)s
+vous êtes massé(e)s
+ils (elles) sont massé(e)s
+
+** Imparfait
+
+j'étais massé(e)
+tu étais massé(e)
+il (elle) était massé(e)
+nous étions massé(e)s
+vous étiez massé(e)s
+ils (elles) étaient massé(e)s
+
+** Passé simple
+
+je fus massé(e)
+tu fus massé(e)
+il (elle) fut massé(e)
+nous fûmes massé(e)s
+vous fûtes massé(e)s
+ils (elles) furent massé(e)s
+
+** Futur simple
+
+je serai massé(e)
+tu seras massé(e)
+il (elle) sera massé(e)
+nous serons massé(e)s
+vous serez massé(e)s
+ils (elles) seront massé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais massé(e)
+tu serais massé(e)
+il (elle) serait massé(e)
+nous serions massé(e)s
+vous seriez massé(e)s
+ils (elles) seraient massé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois massé(e)
+que tu sois massé(e)
+qu’il (elle) soit massé(e)
+que nous soyons massé(e)s
+que vous soyez massé(e)s
+qu’ils (elles) soient massé(e)s
+
+** Imparfait
+
+que je fusse massé(e)
+que tu fusses massé(e)
+qu’il (elle) fût massé(e)
+que nous fussions massé(e)s
+que vous fussiez massé(e)s
+qu’ils (elles) fussent massé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons massé(e)s
+soyez massé(e)s
+
+* INFINITIF
+
+** Présent
+
+être massé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant massé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été massé(e)
+tu as été massé(e)
+il (elle) a été massé(e)
+nous avons été massé(e)s
+vous avez été massé(e)s
+ils (elles) ont été massé(e)s
+
+** Plus-que-parfait
+
+j'avais été massé(e)
+il (elle) avait été massé(e)
+nous avions été massé(e)s
+ils (elles) avaient été massé(e)s
+
+** Passé antérieur
+
+j'eus été massé(e)
+tu eus été massé(e)
+il (elle) eut été massé(e)
+nous eûmes été massé(e)s
+vous eûtes été massé(e)s
+ils (elles) eurent été massé(e)s
+
+** Futur antérieur
+
+j'aurai été massé(e)
+tu auras été massé(e)
+il (elle) aura été massé(e)
+nous aurons été massé(e)s
+vous aurez été massé(e)s
+ils (elles) auront été massé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été massé(e)
+j'aurais été massé(e)
+il (elle) aurait été massé(e)
+nous aurions été massé(e)s
+vous auriez été massé(e)s
+ils (elles) auraient été massé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été massé(e)
+que tu aies été massé(e)
+qu’il (elle) ait été massé(e)
+que nous ayons été massé(e)s
+que vous ayez été massé(e)s
+qu’ils (elles) aient été massé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été massé(e)
+que tu eusses été massé(e)
+qu’il (elle) eût été massé(e)
+que nous eussions été massé(e)s
+que vous eussiez été massé(e)s
+qu’ils (elles) eussent été massé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été massé(e)
+ayons été massé(e)s
+ayez été massé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été massé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été massé(e)(s)

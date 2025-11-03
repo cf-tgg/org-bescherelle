@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe obliger
+
+* INDICATIF
+
+** Présent
+
+j'oblige
+tu obliges
+il (elle) oblige
+nous obligeons
+vous obligez
+ils (elles) obligent
+
+** Imparfait
+
+j'obligeais
+tu obligeais
+il (elle) obligeait
+nous obligions
+vous obligiez
+ils (elles) obligeaient
+
+** Passé simple
+
+j'obligeai
+tu obligeas
+il (elle) obligea
+nous obligeâmes
+vous obligeâtes
+ils (elles) obligèrent
+
+** Futur simple
+
+j'obligerai
+tu obligeras
+il (elle) obligera
+nous obligerons
+vous obligerez
+ils (elles) obligeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'obligerais
+tu obligerais
+il (elle) obligerait
+nous obligerions
+vous obligeriez
+ils (elles) obligeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oblige
+que tu obliges
+qu’il (elle) oblige
+que nous obligions
+que vous obligiez
+qu’ils (elles) obligent
+
+** Imparfait
+
+que j'obligeasse
+que tu obligeasses
+qu’il (elle) obligeât
+que nous obligeassions
+que vous obligeassiez
+qu’ils (elles) obligeassent
+
+* IMPÉRATIF
+
+** Présent
+
+oblige
+obligeons
+obligez
+
+* INFINITIF
+
+** Présent
+
+obliger
+
+* PARTICIPE
+
+** Présent
+
+obligeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai obligé
+tu as obligé
+il (elle) a obligé
+nous avons obligé
+vous avez obligé
+ils (elles) ont obligé
+
+** Plus-que-parfait
+
+j'avais obligé
+tu avais obligé
+il (elle) avait obligé
+nous avions obligé
+vous aviez obligé
+ils (elles) avaient obligé
+
+** Passé antérieur
+
+j'eus obligé
+tu eus obligé
+il (elle) eut obligé
+nous eûmes obligé
+vous eûtes obligé
+ils (elles) eurent obligé
+
+** Futur antérieur
+
+j'aurai obligé
+tu auras obligé
+il (elle) aura obligé
+nous aurons obligé
+vous aurez obligé
+ils (elles) auront obligé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais obligé
+tu aurais obligé
+il (elle) aurait obligé
+nous aurions obligé
+vous auriez obligé
+ils (elles) auraient obligé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie obligé
+que tu aies obligé
+qu’il (elle) ait obligé
+que nous ayons obligé
+que vous ayez obligé
+qu’ils (elles) aient obligé
+
+** Plus-que-parfait
+
+que j'eusse obligé
+que tu eusses obligé
+qu’il (elle) eût obligé
+que nous eussions obligé
+que vous eussiez obligé
+qu’ils (elles) eussent obligé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons obligé
+ayez obligé
+
+* INFINITIF
+
+** Passé
+
+avoir obligé
+
+* PARTICIPE
+
+** Passé
+
+ayant obligé
+obligé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis obligé(e)
+tu es obligé(e)
+il (elle) est obligé(e)
+nous sommes obligé(e)s
+vous êtes obligé(e)s
+ils (elles) sont obligé(e)s
+
+** Imparfait
+
+j'étais obligé(e)
+tu étais obligé(e)
+il (elle) était obligé(e)
+nous étions obligé(e)s
+vous étiez obligé(e)s
+ils (elles) étaient obligé(e)s
+
+** Passé simple
+
+je fus obligé(e)
+tu fus obligé(e)
+il (elle) fut obligé(e)
+nous fûmes obligé(e)s
+vous fûtes obligé(e)s
+ils (elles) furent obligé(e)s
+
+** Futur simple
+
+je serai obligé(e)
+tu seras obligé(e)
+il (elle) sera obligé(e)
+nous serons obligé(e)s
+vous serez obligé(e)s
+ils (elles) seront obligé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais obligé(e)
+tu serais obligé(e)
+il (elle) serait obligé(e)
+nous serions obligé(e)s
+vous seriez obligé(e)s
+ils (elles) seraient obligé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois obligé(e)
+que tu sois obligé(e)
+qu’il (elle) soit obligé(e)
+que nous soyons obligé(e)s
+que vous soyez obligé(e)s
+qu’ils (elles) soient obligé(e)s
+
+** Imparfait
+
+que je fusse obligé(e)
+que tu fusses obligé(e)
+qu’il (elle) fût obligé(e)
+que nous fussions obligé(e)s
+que vous fussiez obligé(e)s
+qu’ils (elles) fussent obligé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons obligé(e)s
+soyez obligé(e)s
+
+* INFINITIF
+
+** Présent
+
+être obligé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant obligé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été obligé(e)
+tu as été obligé(e)
+il (elle) a été obligé(e)
+nous avons été obligé(e)s
+vous avez été obligé(e)s
+ils (elles) ont été obligé(e)s
+
+** Plus-que-parfait
+
+j'avais été obligé(e)
+il (elle) avait été obligé(e)
+nous avions été obligé(e)s
+ils (elles) avaient été obligé(e)s
+
+** Passé antérieur
+
+j'eus été obligé(e)
+tu eus été obligé(e)
+il (elle) eut été obligé(e)
+nous eûmes été obligé(e)s
+vous eûtes été obligé(e)s
+ils (elles) eurent été obligé(e)s
+
+** Futur antérieur
+
+j'aurai été obligé(e)
+tu auras été obligé(e)
+il (elle) aura été obligé(e)
+nous aurons été obligé(e)s
+vous aurez été obligé(e)s
+ils (elles) auront été obligé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été obligé(e)
+j'aurais été obligé(e)
+il (elle) aurait été obligé(e)
+nous aurions été obligé(e)s
+vous auriez été obligé(e)s
+ils (elles) auraient été obligé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été obligé(e)
+que tu aies été obligé(e)
+qu’il (elle) ait été obligé(e)
+que nous ayons été obligé(e)s
+que vous ayez été obligé(e)s
+qu’ils (elles) aient été obligé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été obligé(e)
+que tu eusses été obligé(e)
+qu’il (elle) eût été obligé(e)
+que nous eussions été obligé(e)s
+que vous eussiez été obligé(e)s
+qu’ils (elles) eussent été obligé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été obligé(e)
+ayons été obligé(e)s
+ayez été obligé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été obligé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été obligé(e)(s)

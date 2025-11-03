@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accrocher
+
+* INDICATIF
+
+** Présent
+
+j'accroche
+tu accroches
+il (elle) accroche
+nous accrochons
+vous accrochez
+ils (elles) accrochent
+
+** Imparfait
+
+j'accrochais
+tu accrochais
+il (elle) accrochait
+nous accrochions
+vous accrochiez
+ils (elles) accrochaient
+
+** Passé simple
+
+j'accrochai
+tu accrochas
+il (elle) accrocha
+nous accrochâmes
+vous accrochâtes
+ils (elles) accrochèrent
+
+** Futur simple
+
+j'accrocherai
+tu accrocheras
+il (elle) accrochera
+nous accrocherons
+vous accrocherez
+ils (elles) accrocheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accrocherais
+tu accrocherais
+il (elle) accrocherait
+nous accrocherions
+vous accrocheriez
+ils (elles) accrocheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accroche
+que tu accroches
+qu’il (elle) accroche
+que nous accrochions
+que vous accrochiez
+qu’ils (elles) accrochent
+
+** Imparfait
+
+que j'accrochasse
+que tu accrochasses
+qu’il (elle) accrochât
+que nous accrochassions
+que vous accrochassiez
+qu’ils (elles) accrochassent
+
+* IMPÉRATIF
+
+** Présent
+
+accroche
+accrochons
+accrochez
+
+* INFINITIF
+
+** Présent
+
+accrocher
+
+* PARTICIPE
+
+** Présent
+
+accrochant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accroché
+tu as accroché
+il (elle) a accroché
+nous avons accroché
+vous avez accroché
+ils (elles) ont accroché
+
+** Plus-que-parfait
+
+j'avais accroché
+tu avais accroché
+il (elle) avait accroché
+nous avions accroché
+vous aviez accroché
+ils (elles) avaient accroché
+
+** Passé antérieur
+
+j'eus accroché
+tu eus accroché
+il (elle) eut accroché
+nous eûmes accroché
+vous eûtes accroché
+ils (elles) eurent accroché
+
+** Futur antérieur
+
+j'aurai accroché
+tu auras accroché
+il (elle) aura accroché
+nous aurons accroché
+vous aurez accroché
+ils (elles) auront accroché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accroché
+tu aurais accroché
+il (elle) aurait accroché
+nous aurions accroché
+vous auriez accroché
+ils (elles) auraient accroché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accroché
+que tu aies accroché
+qu’il (elle) ait accroché
+que nous ayons accroché
+que vous ayez accroché
+qu’ils (elles) aient accroché
+
+** Plus-que-parfait
+
+que j'eusse accroché
+que tu eusses accroché
+qu’il (elle) eût accroché
+que nous eussions accroché
+que vous eussiez accroché
+qu’ils (elles) eussent accroché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accroché
+ayez accroché
+
+* INFINITIF
+
+** Passé
+
+avoir accroché
+
+* PARTICIPE
+
+** Passé
+
+ayant accroché
+accroché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accroché(e)
+tu es accroché(e)
+il (elle) est accroché(e)
+nous sommes accroché(e)s
+vous êtes accroché(e)s
+ils (elles) sont accroché(e)s
+
+** Imparfait
+
+j'étais accroché(e)
+tu étais accroché(e)
+il (elle) était accroché(e)
+nous étions accroché(e)s
+vous étiez accroché(e)s
+ils (elles) étaient accroché(e)s
+
+** Passé simple
+
+je fus accroché(e)
+tu fus accroché(e)
+il (elle) fut accroché(e)
+nous fûmes accroché(e)s
+vous fûtes accroché(e)s
+ils (elles) furent accroché(e)s
+
+** Futur simple
+
+je serai accroché(e)
+tu seras accroché(e)
+il (elle) sera accroché(e)
+nous serons accroché(e)s
+vous serez accroché(e)s
+ils (elles) seront accroché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accroché(e)
+tu serais accroché(e)
+il (elle) serait accroché(e)
+nous serions accroché(e)s
+vous seriez accroché(e)s
+ils (elles) seraient accroché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accroché(e)
+que tu sois accroché(e)
+qu’il (elle) soit accroché(e)
+que nous soyons accroché(e)s
+que vous soyez accroché(e)s
+qu’ils (elles) soient accroché(e)s
+
+** Imparfait
+
+que je fusse accroché(e)
+que tu fusses accroché(e)
+qu’il (elle) fût accroché(e)
+que nous fussions accroché(e)s
+que vous fussiez accroché(e)s
+qu’ils (elles) fussent accroché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accroché(e)s
+soyez accroché(e)s
+
+* INFINITIF
+
+** Présent
+
+être accroché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accroché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accroché(e)
+tu as été accroché(e)
+il (elle) a été accroché(e)
+nous avons été accroché(e)s
+vous avez été accroché(e)s
+ils (elles) ont été accroché(e)s
+
+** Plus-que-parfait
+
+j'avais été accroché(e)
+il (elle) avait été accroché(e)
+nous avions été accroché(e)s
+ils (elles) avaient été accroché(e)s
+
+** Passé antérieur
+
+j'eus été accroché(e)
+tu eus été accroché(e)
+il (elle) eut été accroché(e)
+nous eûmes été accroché(e)s
+vous eûtes été accroché(e)s
+ils (elles) eurent été accroché(e)s
+
+** Futur antérieur
+
+j'aurai été accroché(e)
+tu auras été accroché(e)
+il (elle) aura été accroché(e)
+nous aurons été accroché(e)s
+vous aurez été accroché(e)s
+ils (elles) auront été accroché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accroché(e)
+j'aurais été accroché(e)
+il (elle) aurait été accroché(e)
+nous aurions été accroché(e)s
+vous auriez été accroché(e)s
+ils (elles) auraient été accroché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accroché(e)
+que tu aies été accroché(e)
+qu’il (elle) ait été accroché(e)
+que nous ayons été accroché(e)s
+que vous ayez été accroché(e)s
+qu’ils (elles) aient été accroché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accroché(e)
+que tu eusses été accroché(e)
+qu’il (elle) eût été accroché(e)
+que nous eussions été accroché(e)s
+que vous eussiez été accroché(e)s
+qu’ils (elles) eussent été accroché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accroché(e)
+ayons été accroché(e)s
+ayez été accroché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accroché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accroché(e)(s)

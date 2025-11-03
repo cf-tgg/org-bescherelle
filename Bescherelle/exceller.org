@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe exceller
+
+* INDICATIF
+
+** Présent
+
+j'excelle
+tu excelles
+il (elle) excelle
+nous excellons
+vous excellez
+ils (elles) excellent
+
+** Imparfait
+
+j'excellais
+tu excellais
+il (elle) excellait
+nous excellions
+vous excelliez
+ils (elles) excellaient
+
+** Passé simple
+
+j'excellai
+tu excellas
+il (elle) excella
+nous excellâmes
+vous excellâtes
+ils (elles) excellèrent
+
+** Futur simple
+
+j'excellerai
+tu excelleras
+il (elle) excellera
+nous excellerons
+vous excellerez
+ils (elles) excelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'excellerais
+tu excellerais
+il (elle) excellerait
+nous excellerions
+vous excelleriez
+ils (elles) excelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'excelle
+que tu excelles
+qu’il (elle) excelle
+que nous excellions
+que vous excelliez
+qu’ils (elles) excellent
+
+** Imparfait
+
+que j'excellasse
+que tu excellasses
+qu’il (elle) excellât
+que nous excellassions
+que vous excellassiez
+qu’ils (elles) excellassent
+
+* IMPÉRATIF
+
+** Présent
+
+excelle
+excellons
+excellez
+
+* INFINITIF
+
+** Présent
+
+exceller
+
+* PARTICIPE
+
+** Présent
+
+excellant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai excellé
+tu as excellé
+il (elle) a excellé
+nous avons excellé
+vous avez excellé
+ils (elles) ont excellé
+
+** Plus-que-parfait
+
+j'avais excellé
+tu avais excellé
+il (elle) avait excellé
+nous avions excellé
+vous aviez excellé
+ils (elles) avaient excellé
+
+** Passé antérieur
+
+j'eus excellé
+tu eus excellé
+il (elle) eut excellé
+nous eûmes excellé
+vous eûtes excellé
+ils (elles) eurent excellé
+
+** Futur antérieur
+
+j'aurai excellé
+tu auras excellé
+il (elle) aura excellé
+nous aurons excellé
+vous aurez excellé
+ils (elles) auront excellé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais excellé
+tu aurais excellé
+il (elle) aurait excellé
+nous aurions excellé
+vous auriez excellé
+ils (elles) auraient excellé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie excellé
+que tu aies excellé
+qu’il (elle) ait excellé
+que nous ayons excellé
+que vous ayez excellé
+qu’ils (elles) aient excellé
+
+** Plus-que-parfait
+
+que j'eusse excellé
+que tu eusses excellé
+qu’il (elle) eût excellé
+que nous eussions excellé
+que vous eussiez excellé
+qu’ils (elles) eussent excellé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons excellé
+ayez excellé
+
+* INFINITIF
+
+** Passé
+
+avoir excellé
+
+* PARTICIPE
+
+** Passé
+
+ayant excellé
+excellé (invar.)

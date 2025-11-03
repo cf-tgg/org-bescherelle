@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe koter
+
+* INDICATIF
+
+** Présent
+
+je kote
+tu kotes
+il (elle) kote
+nous kotons
+vous kotez
+ils (elles) kotent
+
+** Imparfait
+
+je kotais
+tu kotais
+il (elle) kotait
+nous kotions
+vous kotiez
+ils (elles) kotaient
+
+** Passé simple
+
+je kotai
+tu kotas
+il (elle) kota
+nous kotâmes
+vous kotâtes
+ils (elles) kotèrent
+
+** Futur simple
+
+je koterai
+tu koteras
+il (elle) kotera
+nous koterons
+vous koterez
+ils (elles) koteront
+
+* CONDITIONNEL
+
+** Présent
+
+je koterais
+tu koterais
+il (elle) koterait
+nous koterions
+vous koteriez
+ils (elles) koteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je kote
+que tu kotes
+qu’il (elle) kote
+que nous kotions
+que vous kotiez
+qu’ils (elles) kotent
+
+** Imparfait
+
+que je kotasse
+que tu kotasses
+qu’il (elle) kotât
+que nous kotassions
+que vous kotassiez
+qu’ils (elles) kotassent
+
+* IMPÉRATIF
+
+** Présent
+
+kote
+kotons
+kotez
+
+* INFINITIF
+
+** Présent
+
+koter
+
+* PARTICIPE
+
+** Présent
+
+kotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai koté
+tu as koté
+il (elle) a koté
+nous avons koté
+vous avez koté
+ils (elles) ont koté
+
+** Plus-que-parfait
+
+j'avais koté
+tu avais koté
+il (elle) avait koté
+nous avions koté
+vous aviez koté
+ils (elles) avaient koté
+
+** Passé antérieur
+
+j'eus koté
+tu eus koté
+il (elle) eut koté
+nous eûmes koté
+vous eûtes koté
+ils (elles) eurent koté
+
+** Futur antérieur
+
+j'aurai koté
+tu auras koté
+il (elle) aura koté
+nous aurons koté
+vous aurez koté
+ils (elles) auront koté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais koté
+tu aurais koté
+il (elle) aurait koté
+nous aurions koté
+vous auriez koté
+ils (elles) auraient koté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie koté
+que tu aies koté
+qu’il (elle) ait koté
+que nous ayons koté
+que vous ayez koté
+qu’ils (elles) aient koté
+
+** Plus-que-parfait
+
+que j'eusse koté
+que tu eusses koté
+qu’il (elle) eût koté
+que nous eussions koté
+que vous eussiez koté
+qu’ils (elles) eussent koté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons koté
+ayez koté
+
+* INFINITIF
+
+** Passé
+
+avoir koté
+
+* PARTICIPE
+
+** Passé
+
+ayant koté
+koté (invar.)

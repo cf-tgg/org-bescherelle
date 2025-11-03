@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parer
+
+* INDICATIF
+
+** Présent
+
+je pare
+tu pares
+il (elle) pare
+nous parons
+vous parez
+ils (elles) parent
+
+** Imparfait
+
+je parais
+tu parais
+il (elle) parait
+nous parions
+vous pariez
+ils (elles) paraient
+
+** Passé simple
+
+je parai
+tu paras
+il (elle) para
+nous parâmes
+vous parâtes
+ils (elles) parèrent
+
+** Futur simple
+
+je parerai
+tu pareras
+il (elle) parera
+nous parerons
+vous parerez
+ils (elles) pareront
+
+* CONDITIONNEL
+
+** Présent
+
+je parerais
+tu parerais
+il (elle) parerait
+nous parerions
+vous pareriez
+ils (elles) pareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pare
+que tu pares
+qu’il (elle) pare
+que nous parions
+que vous pariez
+qu’ils (elles) parent
+
+** Imparfait
+
+que je parasse
+que tu parasses
+qu’il (elle) parât
+que nous parassions
+que vous parassiez
+qu’ils (elles) parassent
+
+* IMPÉRATIF
+
+** Présent
+
+pare
+parons
+parez
+
+* INFINITIF
+
+** Présent
+
+parer
+
+* PARTICIPE
+
+** Présent
+
+parant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai paré
+tu as paré
+il (elle) a paré
+nous avons paré
+vous avez paré
+ils (elles) ont paré
+
+** Plus-que-parfait
+
+j'avais paré
+tu avais paré
+il (elle) avait paré
+nous avions paré
+vous aviez paré
+ils (elles) avaient paré
+
+** Passé antérieur
+
+j'eus paré
+tu eus paré
+il (elle) eut paré
+nous eûmes paré
+vous eûtes paré
+ils (elles) eurent paré
+
+** Futur antérieur
+
+j'aurai paré
+tu auras paré
+il (elle) aura paré
+nous aurons paré
+vous aurez paré
+ils (elles) auront paré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais paré
+tu aurais paré
+il (elle) aurait paré
+nous aurions paré
+vous auriez paré
+ils (elles) auraient paré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie paré
+que tu aies paré
+qu’il (elle) ait paré
+que nous ayons paré
+que vous ayez paré
+qu’ils (elles) aient paré
+
+** Plus-que-parfait
+
+que j'eusse paré
+que tu eusses paré
+qu’il (elle) eût paré
+que nous eussions paré
+que vous eussiez paré
+qu’ils (elles) eussent paré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons paré
+ayez paré
+
+* INFINITIF
+
+** Passé
+
+avoir paré
+
+* PARTICIPE
+
+** Passé
+
+ayant paré
+paré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis paré(e)
+tu es paré(e)
+il (elle) est paré(e)
+nous sommes paré(e)s
+vous êtes paré(e)s
+ils (elles) sont paré(e)s
+
+** Imparfait
+
+j'étais paré(e)
+tu étais paré(e)
+il (elle) était paré(e)
+nous étions paré(e)s
+vous étiez paré(e)s
+ils (elles) étaient paré(e)s
+
+** Passé simple
+
+je fus paré(e)
+tu fus paré(e)
+il (elle) fut paré(e)
+nous fûmes paré(e)s
+vous fûtes paré(e)s
+ils (elles) furent paré(e)s
+
+** Futur simple
+
+je serai paré(e)
+tu seras paré(e)
+il (elle) sera paré(e)
+nous serons paré(e)s
+vous serez paré(e)s
+ils (elles) seront paré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais paré(e)
+tu serais paré(e)
+il (elle) serait paré(e)
+nous serions paré(e)s
+vous seriez paré(e)s
+ils (elles) seraient paré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois paré(e)
+que tu sois paré(e)
+qu’il (elle) soit paré(e)
+que nous soyons paré(e)s
+que vous soyez paré(e)s
+qu’ils (elles) soient paré(e)s
+
+** Imparfait
+
+que je fusse paré(e)
+que tu fusses paré(e)
+qu’il (elle) fût paré(e)
+que nous fussions paré(e)s
+que vous fussiez paré(e)s
+qu’ils (elles) fussent paré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons paré(e)s
+soyez paré(e)s
+
+* INFINITIF
+
+** Présent
+
+être paré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant paré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été paré(e)
+tu as été paré(e)
+il (elle) a été paré(e)
+nous avons été paré(e)s
+vous avez été paré(e)s
+ils (elles) ont été paré(e)s
+
+** Plus-que-parfait
+
+j'avais été paré(e)
+il (elle) avait été paré(e)
+nous avions été paré(e)s
+ils (elles) avaient été paré(e)s
+
+** Passé antérieur
+
+j'eus été paré(e)
+tu eus été paré(e)
+il (elle) eut été paré(e)
+nous eûmes été paré(e)s
+vous eûtes été paré(e)s
+ils (elles) eurent été paré(e)s
+
+** Futur antérieur
+
+j'aurai été paré(e)
+tu auras été paré(e)
+il (elle) aura été paré(e)
+nous aurons été paré(e)s
+vous aurez été paré(e)s
+ils (elles) auront été paré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été paré(e)
+j'aurais été paré(e)
+il (elle) aurait été paré(e)
+nous aurions été paré(e)s
+vous auriez été paré(e)s
+ils (elles) auraient été paré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été paré(e)
+que tu aies été paré(e)
+qu’il (elle) ait été paré(e)
+que nous ayons été paré(e)s
+que vous ayez été paré(e)s
+qu’ils (elles) aient été paré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été paré(e)
+que tu eusses été paré(e)
+qu’il (elle) eût été paré(e)
+que nous eussions été paré(e)s
+que vous eussiez été paré(e)s
+qu’ils (elles) eussent été paré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été paré(e)
+ayons été paré(e)s
+ayez été paré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été paré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été paré(e)(s)

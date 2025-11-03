@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vernir
+
+* INDICATIF
+
+** Présent
+
+je vernis
+tu vernis
+il (elle) vernit
+nous vernissons
+vous vernissez
+ils (elles) vernissent
+
+** Imparfait
+
+je vernissais
+tu vernissais
+il (elle) vernissait
+nous vernissions
+vous vernissiez
+ils (elles) vernissaient
+
+** Passé simple
+
+je vernis
+tu vernis
+il (elle) vernit
+nous vernîmes
+vous vernîtes
+ils (elles) vernirent
+
+** Futur simple
+
+je vernirai
+tu verniras
+il (elle) vernira
+nous vernirons
+vous vernirez
+ils (elles) verniront
+
+* CONDITIONNEL
+
+** Présent
+
+je vernirais
+tu vernirais
+il (elle) vernirait
+nous vernirions
+vous verniriez
+ils (elles) verniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vernisse
+que tu vernisses
+qu’il (elle) vernisse
+que nous vernissions
+que vous vernissiez
+qu’ils (elles) vernissent
+
+** Imparfait
+
+que je vernisse
+que tu vernisses
+qu’il (elle) vernît
+que nous vernissions
+que vous vernissiez
+qu’ils (elles) vernissent
+
+* IMPÉRATIF
+
+** Présent
+
+vernis
+vernissons
+vernissez
+
+* INFINITIF
+
+** Présent
+
+vernir
+
+* PARTICIPE
+
+** Présent
+
+vernissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai verni
+tu as verni
+il (elle) a verni
+nous avons verni
+vous avez verni
+ils (elles) ont verni
+
+** Plus-que-parfait
+
+j'avais verni
+tu avais verni
+il (elle) avait verni
+nous avions verni
+vous aviez verni
+ils (elles) avaient verni
+
+** Passé antérieur
+
+j'eus verni
+tu eus verni
+il (elle) eut verni
+nous eûmes verni
+vous eûtes verni
+ils (elles) eurent verni
+
+** Futur antérieur
+
+j'aurai verni
+tu auras verni
+il (elle) aura verni
+nous aurons verni
+vous aurez verni
+ils (elles) auront verni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais verni
+tu aurais verni
+il (elle) aurait verni
+nous aurions verni
+vous auriez verni
+ils (elles) auraient verni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie verni
+que tu aies verni
+qu’il (elle) ait verni
+que nous ayons verni
+que vous ayez verni
+qu’ils (elles) aient verni
+
+** Plus-que-parfait
+
+que j'eusse verni
+que tu eusses verni
+qu’il (elle) eût verni
+que nous eussions verni
+que vous eussiez verni
+qu’ils (elles) eussent verni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons verni
+ayez verni
+
+* INFINITIF
+
+** Passé
+
+avoir verni
+
+* PARTICIPE
+
+** Passé
+
+ayant verni
+verni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis verni(e)
+tu es verni(e)
+il (elle) est verni(e)
+nous sommes verni(e)s
+vous êtes verni(e)s
+ils (elles) sont verni(e)s
+
+** Imparfait
+
+j'étais verni(e)
+tu étais verni(e)
+il (elle) était verni(e)
+nous étions verni(e)s
+vous étiez verni(e)s
+ils (elles) étaient verni(e)s
+
+** Passé simple
+
+je fus verni(e)
+tu fus verni(e)
+il (elle) fut verni(e)
+nous fûmes verni(e)s
+vous fûtes verni(e)s
+ils (elles) furent verni(e)s
+
+** Futur simple
+
+je serai verni(e)
+tu seras verni(e)
+il (elle) sera verni(e)
+nous serons verni(e)s
+vous serez verni(e)s
+ils (elles) seront verni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais verni(e)
+tu serais verni(e)
+il (elle) serait verni(e)
+nous serions verni(e)s
+vous seriez verni(e)s
+ils (elles) seraient verni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois verni(e)
+que tu sois verni(e)
+qu’il (elle) soit verni(e)
+que nous soyons verni(e)s
+que vous soyez verni(e)s
+qu’ils (elles) soient verni(e)s
+
+** Imparfait
+
+que je fusse verni(e)
+que tu fusses verni(e)
+qu’il (elle) fût verni(e)
+que nous fussions verni(e)s
+que vous fussiez verni(e)s
+qu’ils (elles) fussent verni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons verni(e)s
+soyez verni(e)s
+
+* INFINITIF
+
+** Présent
+
+être verni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant verni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été verni(e)
+tu as été verni(e)
+il (elle) a été verni(e)
+nous avons été verni(e)s
+vous avez été verni(e)s
+ils (elles) ont été verni(e)s
+
+** Plus-que-parfait
+
+j'avais été verni(e)
+il (elle) avait été verni(e)
+nous avions été verni(e)s
+ils (elles) avaient été verni(e)s
+
+** Passé antérieur
+
+j'eus été verni(e)
+tu eus été verni(e)
+il (elle) eut été verni(e)
+nous eûmes été verni(e)s
+vous eûtes été verni(e)s
+ils (elles) eurent été verni(e)s
+
+** Futur antérieur
+
+j'aurai été verni(e)
+tu auras été verni(e)
+il (elle) aura été verni(e)
+nous aurons été verni(e)s
+vous aurez été verni(e)s
+ils (elles) auront été verni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été verni(e)
+j'aurais été verni(e)
+il (elle) aurait été verni(e)
+nous aurions été verni(e)s
+vous auriez été verni(e)s
+ils (elles) auraient été verni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été verni(e)
+que tu aies été verni(e)
+qu’il (elle) ait été verni(e)
+que nous ayons été verni(e)s
+que vous ayez été verni(e)s
+qu’ils (elles) aient été verni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été verni(e)
+que tu eusses été verni(e)
+qu’il (elle) eût été verni(e)
+que nous eussions été verni(e)s
+que vous eussiez été verni(e)s
+qu’ils (elles) eussent été verni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été verni(e)
+ayons été verni(e)s
+ayez été verni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été verni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été verni(e)(s)

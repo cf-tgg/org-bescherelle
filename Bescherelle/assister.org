@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assister
+
+* INDICATIF
+
+** Présent
+
+j'assiste
+tu assistes
+il (elle) assiste
+nous assistons
+vous assistez
+ils (elles) assistent
+
+** Imparfait
+
+j'assistais
+tu assistais
+il (elle) assistait
+nous assistions
+vous assistiez
+ils (elles) assistaient
+
+** Passé simple
+
+j'assistai
+tu assistas
+il (elle) assista
+nous assistâmes
+vous assistâtes
+ils (elles) assistèrent
+
+** Futur simple
+
+j'assisterai
+tu assisteras
+il (elle) assistera
+nous assisterons
+vous assisterez
+ils (elles) assisteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assisterais
+tu assisterais
+il (elle) assisterait
+nous assisterions
+vous assisteriez
+ils (elles) assisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assiste
+que tu assistes
+qu’il (elle) assiste
+que nous assistions
+que vous assistiez
+qu’ils (elles) assistent
+
+** Imparfait
+
+que j'assistasse
+que tu assistasses
+qu’il (elle) assistât
+que nous assistassions
+que vous assistassiez
+qu’ils (elles) assistassent
+
+* IMPÉRATIF
+
+** Présent
+
+assiste
+assistons
+assistez
+
+* INFINITIF
+
+** Présent
+
+assister
+
+* PARTICIPE
+
+** Présent
+
+assistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assisté
+tu as assisté
+il (elle) a assisté
+nous avons assisté
+vous avez assisté
+ils (elles) ont assisté
+
+** Plus-que-parfait
+
+j'avais assisté
+tu avais assisté
+il (elle) avait assisté
+nous avions assisté
+vous aviez assisté
+ils (elles) avaient assisté
+
+** Passé antérieur
+
+j'eus assisté
+tu eus assisté
+il (elle) eut assisté
+nous eûmes assisté
+vous eûtes assisté
+ils (elles) eurent assisté
+
+** Futur antérieur
+
+j'aurai assisté
+tu auras assisté
+il (elle) aura assisté
+nous aurons assisté
+vous aurez assisté
+ils (elles) auront assisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assisté
+tu aurais assisté
+il (elle) aurait assisté
+nous aurions assisté
+vous auriez assisté
+ils (elles) auraient assisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assisté
+que tu aies assisté
+qu’il (elle) ait assisté
+que nous ayons assisté
+que vous ayez assisté
+qu’ils (elles) aient assisté
+
+** Plus-que-parfait
+
+que j'eusse assisté
+que tu eusses assisté
+qu’il (elle) eût assisté
+que nous eussions assisté
+que vous eussiez assisté
+qu’ils (elles) eussent assisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assisté
+ayez assisté
+
+* INFINITIF
+
+** Passé
+
+avoir assisté
+
+* PARTICIPE
+
+** Passé
+
+ayant assisté
+assisté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis assisté(e)
+tu es assisté(e)
+il (elle) est assisté(e)
+nous sommes assisté(e)s
+vous êtes assisté(e)s
+ils (elles) sont assisté(e)s
+
+** Imparfait
+
+j'étais assisté(e)
+tu étais assisté(e)
+il (elle) était assisté(e)
+nous étions assisté(e)s
+vous étiez assisté(e)s
+ils (elles) étaient assisté(e)s
+
+** Passé simple
+
+je fus assisté(e)
+tu fus assisté(e)
+il (elle) fut assisté(e)
+nous fûmes assisté(e)s
+vous fûtes assisté(e)s
+ils (elles) furent assisté(e)s
+
+** Futur simple
+
+je serai assisté(e)
+tu seras assisté(e)
+il (elle) sera assisté(e)
+nous serons assisté(e)s
+vous serez assisté(e)s
+ils (elles) seront assisté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assisté(e)
+tu serais assisté(e)
+il (elle) serait assisté(e)
+nous serions assisté(e)s
+vous seriez assisté(e)s
+ils (elles) seraient assisté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assisté(e)
+que tu sois assisté(e)
+qu’il (elle) soit assisté(e)
+que nous soyons assisté(e)s
+que vous soyez assisté(e)s
+qu’ils (elles) soient assisté(e)s
+
+** Imparfait
+
+que je fusse assisté(e)
+que tu fusses assisté(e)
+qu’il (elle) fût assisté(e)
+que nous fussions assisté(e)s
+que vous fussiez assisté(e)s
+qu’ils (elles) fussent assisté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assisté(e)s
+soyez assisté(e)s
+
+* INFINITIF
+
+** Présent
+
+être assisté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assisté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assisté(e)
+tu as été assisté(e)
+il (elle) a été assisté(e)
+nous avons été assisté(e)s
+vous avez été assisté(e)s
+ils (elles) ont été assisté(e)s
+
+** Plus-que-parfait
+
+j'avais été assisté(e)
+il (elle) avait été assisté(e)
+nous avions été assisté(e)s
+ils (elles) avaient été assisté(e)s
+
+** Passé antérieur
+
+j'eus été assisté(e)
+tu eus été assisté(e)
+il (elle) eut été assisté(e)
+nous eûmes été assisté(e)s
+vous eûtes été assisté(e)s
+ils (elles) eurent été assisté(e)s
+
+** Futur antérieur
+
+j'aurai été assisté(e)
+tu auras été assisté(e)
+il (elle) aura été assisté(e)
+nous aurons été assisté(e)s
+vous aurez été assisté(e)s
+ils (elles) auront été assisté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assisté(e)
+j'aurais été assisté(e)
+il (elle) aurait été assisté(e)
+nous aurions été assisté(e)s
+vous auriez été assisté(e)s
+ils (elles) auraient été assisté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assisté(e)
+que tu aies été assisté(e)
+qu’il (elle) ait été assisté(e)
+que nous ayons été assisté(e)s
+que vous ayez été assisté(e)s
+qu’ils (elles) aient été assisté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assisté(e)
+que tu eusses été assisté(e)
+qu’il (elle) eût été assisté(e)
+que nous eussions été assisté(e)s
+que vous eussiez été assisté(e)s
+qu’ils (elles) eussent été assisté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assisté(e)
+ayons été assisté(e)s
+ayez été assisté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assisté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assisté(e)(s)

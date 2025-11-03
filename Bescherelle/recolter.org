@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recolter
+
+* INDICATIF
+
+** Présent
+
+je récolte
+tu récoltes
+il (elle) récolte
+nous récoltons
+vous récoltez
+ils (elles) récoltent
+
+** Imparfait
+
+je récoltais
+tu récoltais
+il (elle) récoltait
+nous récoltions
+vous récoltiez
+ils (elles) récoltaient
+
+** Passé simple
+
+je récoltai
+tu récoltas
+il (elle) récolta
+nous récoltâmes
+vous récoltâtes
+ils (elles) récoltèrent
+
+** Futur simple
+
+je récolterai
+tu récolteras
+il (elle) récoltera
+nous récolterons
+vous récolterez
+ils (elles) récolteront
+
+* CONDITIONNEL
+
+** Présent
+
+je récolterais
+tu récolterais
+il (elle) récolterait
+nous récolterions
+vous récolteriez
+ils (elles) récolteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je récolte
+que tu récoltes
+qu’il (elle) récolte
+que nous récoltions
+que vous récoltiez
+qu’ils (elles) récoltent
+
+** Imparfait
+
+que je récoltasse
+que tu récoltasses
+qu’il (elle) récoltât
+que nous récoltassions
+que vous récoltassiez
+qu’ils (elles) récoltassent
+
+* IMPÉRATIF
+
+** Présent
+
+récolte
+récoltons
+récoltez
+
+* INFINITIF
+
+** Présent
+
+récolter
+
+* PARTICIPE
+
+** Présent
+
+récoltant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai récolté
+tu as récolté
+il (elle) a récolté
+nous avons récolté
+vous avez récolté
+ils (elles) ont récolté
+
+** Plus-que-parfait
+
+j'avais récolté
+tu avais récolté
+il (elle) avait récolté
+nous avions récolté
+vous aviez récolté
+ils (elles) avaient récolté
+
+** Passé antérieur
+
+j'eus récolté
+tu eus récolté
+il (elle) eut récolté
+nous eûmes récolté
+vous eûtes récolté
+ils (elles) eurent récolté
+
+** Futur antérieur
+
+j'aurai récolté
+tu auras récolté
+il (elle) aura récolté
+nous aurons récolté
+vous aurez récolté
+ils (elles) auront récolté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais récolté
+tu aurais récolté
+il (elle) aurait récolté
+nous aurions récolté
+vous auriez récolté
+ils (elles) auraient récolté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie récolté
+que tu aies récolté
+qu’il (elle) ait récolté
+que nous ayons récolté
+que vous ayez récolté
+qu’ils (elles) aient récolté
+
+** Plus-que-parfait
+
+que j'eusse récolté
+que tu eusses récolté
+qu’il (elle) eût récolté
+que nous eussions récolté
+que vous eussiez récolté
+qu’ils (elles) eussent récolté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons récolté
+ayez récolté
+
+* INFINITIF
+
+** Passé
+
+avoir récolté
+
+* PARTICIPE
+
+** Passé
+
+ayant récolté
+récolté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis récolté(e)
+tu es récolté(e)
+il (elle) est récolté(e)
+nous sommes récolté(e)s
+vous êtes récolté(e)s
+ils (elles) sont récolté(e)s
+
+** Imparfait
+
+j'étais récolté(e)
+tu étais récolté(e)
+il (elle) était récolté(e)
+nous étions récolté(e)s
+vous étiez récolté(e)s
+ils (elles) étaient récolté(e)s
+
+** Passé simple
+
+je fus récolté(e)
+tu fus récolté(e)
+il (elle) fut récolté(e)
+nous fûmes récolté(e)s
+vous fûtes récolté(e)s
+ils (elles) furent récolté(e)s
+
+** Futur simple
+
+je serai récolté(e)
+tu seras récolté(e)
+il (elle) sera récolté(e)
+nous serons récolté(e)s
+vous serez récolté(e)s
+ils (elles) seront récolté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais récolté(e)
+tu serais récolté(e)
+il (elle) serait récolté(e)
+nous serions récolté(e)s
+vous seriez récolté(e)s
+ils (elles) seraient récolté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois récolté(e)
+que tu sois récolté(e)
+qu’il (elle) soit récolté(e)
+que nous soyons récolté(e)s
+que vous soyez récolté(e)s
+qu’ils (elles) soient récolté(e)s
+
+** Imparfait
+
+que je fusse récolté(e)
+que tu fusses récolté(e)
+qu’il (elle) fût récolté(e)
+que nous fussions récolté(e)s
+que vous fussiez récolté(e)s
+qu’ils (elles) fussent récolté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons récolté(e)s
+soyez récolté(e)s
+
+* INFINITIF
+
+** Présent
+
+être récolté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant récolté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été récolté(e)
+tu as été récolté(e)
+il (elle) a été récolté(e)
+nous avons été récolté(e)s
+vous avez été récolté(e)s
+ils (elles) ont été récolté(e)s
+
+** Plus-que-parfait
+
+j'avais été récolté(e)
+il (elle) avait été récolté(e)
+nous avions été récolté(e)s
+ils (elles) avaient été récolté(e)s
+
+** Passé antérieur
+
+j'eus été récolté(e)
+tu eus été récolté(e)
+il (elle) eut été récolté(e)
+nous eûmes été récolté(e)s
+vous eûtes été récolté(e)s
+ils (elles) eurent été récolté(e)s
+
+** Futur antérieur
+
+j'aurai été récolté(e)
+tu auras été récolté(e)
+il (elle) aura été récolté(e)
+nous aurons été récolté(e)s
+vous aurez été récolté(e)s
+ils (elles) auront été récolté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été récolté(e)
+j'aurais été récolté(e)
+il (elle) aurait été récolté(e)
+nous aurions été récolté(e)s
+vous auriez été récolté(e)s
+ils (elles) auraient été récolté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été récolté(e)
+que tu aies été récolté(e)
+qu’il (elle) ait été récolté(e)
+que nous ayons été récolté(e)s
+que vous ayez été récolté(e)s
+qu’ils (elles) aient été récolté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été récolté(e)
+que tu eusses été récolté(e)
+qu’il (elle) eût été récolté(e)
+que nous eussions été récolté(e)s
+que vous eussiez été récolté(e)s
+qu’ils (elles) eussent été récolté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été récolté(e)
+ayons été récolté(e)s
+ayez été récolté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été récolté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été récolté(e)(s)

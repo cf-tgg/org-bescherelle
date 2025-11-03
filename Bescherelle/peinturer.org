@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe peinturer
+
+* INDICATIF
+
+** Présent
+
+je peinture
+tu peintures
+il (elle) peinture
+nous peinturons
+vous peinturez
+ils (elles) peinturent
+
+** Imparfait
+
+je peinturais
+tu peinturais
+il (elle) peinturait
+nous peinturions
+vous peinturiez
+ils (elles) peinturaient
+
+** Passé simple
+
+je peinturai
+tu peinturas
+il (elle) peintura
+nous peinturâmes
+vous peinturâtes
+ils (elles) peinturèrent
+
+** Futur simple
+
+je peinturerai
+tu peintureras
+il (elle) peinturera
+nous peinturerons
+vous peinturerez
+ils (elles) peintureront
+
+* CONDITIONNEL
+
+** Présent
+
+je peinturerais
+tu peinturerais
+il (elle) peinturerait
+nous peinturerions
+vous peintureriez
+ils (elles) peintureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je peinture
+que tu peintures
+qu’il (elle) peinture
+que nous peinturions
+que vous peinturiez
+qu’ils (elles) peinturent
+
+** Imparfait
+
+que je peinturasse
+que tu peinturasses
+qu’il (elle) peinturât
+que nous peinturassions
+que vous peinturassiez
+qu’ils (elles) peinturassent
+
+* IMPÉRATIF
+
+** Présent
+
+peinture
+peinturons
+peinturez
+
+* INFINITIF
+
+** Présent
+
+peinturer
+
+* PARTICIPE
+
+** Présent
+
+peinturant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai peinturé
+tu as peinturé
+il (elle) a peinturé
+nous avons peinturé
+vous avez peinturé
+ils (elles) ont peinturé
+
+** Plus-que-parfait
+
+j'avais peinturé
+tu avais peinturé
+il (elle) avait peinturé
+nous avions peinturé
+vous aviez peinturé
+ils (elles) avaient peinturé
+
+** Passé antérieur
+
+j'eus peinturé
+tu eus peinturé
+il (elle) eut peinturé
+nous eûmes peinturé
+vous eûtes peinturé
+ils (elles) eurent peinturé
+
+** Futur antérieur
+
+j'aurai peinturé
+tu auras peinturé
+il (elle) aura peinturé
+nous aurons peinturé
+vous aurez peinturé
+ils (elles) auront peinturé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais peinturé
+tu aurais peinturé
+il (elle) aurait peinturé
+nous aurions peinturé
+vous auriez peinturé
+ils (elles) auraient peinturé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie peinturé
+que tu aies peinturé
+qu’il (elle) ait peinturé
+que nous ayons peinturé
+que vous ayez peinturé
+qu’ils (elles) aient peinturé
+
+** Plus-que-parfait
+
+que j'eusse peinturé
+que tu eusses peinturé
+qu’il (elle) eût peinturé
+que nous eussions peinturé
+que vous eussiez peinturé
+qu’ils (elles) eussent peinturé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons peinturé
+ayez peinturé
+
+* INFINITIF
+
+** Passé
+
+avoir peinturé
+
+* PARTICIPE
+
+** Passé
+
+ayant peinturé
+peinturé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis peinturé(e)
+tu es peinturé(e)
+il (elle) est peinturé(e)
+nous sommes peinturé(e)s
+vous êtes peinturé(e)s
+ils (elles) sont peinturé(e)s
+
+** Imparfait
+
+j'étais peinturé(e)
+tu étais peinturé(e)
+il (elle) était peinturé(e)
+nous étions peinturé(e)s
+vous étiez peinturé(e)s
+ils (elles) étaient peinturé(e)s
+
+** Passé simple
+
+je fus peinturé(e)
+tu fus peinturé(e)
+il (elle) fut peinturé(e)
+nous fûmes peinturé(e)s
+vous fûtes peinturé(e)s
+ils (elles) furent peinturé(e)s
+
+** Futur simple
+
+je serai peinturé(e)
+tu seras peinturé(e)
+il (elle) sera peinturé(e)
+nous serons peinturé(e)s
+vous serez peinturé(e)s
+ils (elles) seront peinturé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais peinturé(e)
+tu serais peinturé(e)
+il (elle) serait peinturé(e)
+nous serions peinturé(e)s
+vous seriez peinturé(e)s
+ils (elles) seraient peinturé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois peinturé(e)
+que tu sois peinturé(e)
+qu’il (elle) soit peinturé(e)
+que nous soyons peinturé(e)s
+que vous soyez peinturé(e)s
+qu’ils (elles) soient peinturé(e)s
+
+** Imparfait
+
+que je fusse peinturé(e)
+que tu fusses peinturé(e)
+qu’il (elle) fût peinturé(e)
+que nous fussions peinturé(e)s
+que vous fussiez peinturé(e)s
+qu’ils (elles) fussent peinturé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons peinturé(e)s
+soyez peinturé(e)s
+
+* INFINITIF
+
+** Présent
+
+être peinturé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant peinturé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été peinturé(e)
+tu as été peinturé(e)
+il (elle) a été peinturé(e)
+nous avons été peinturé(e)s
+vous avez été peinturé(e)s
+ils (elles) ont été peinturé(e)s
+
+** Plus-que-parfait
+
+j'avais été peinturé(e)
+il (elle) avait été peinturé(e)
+nous avions été peinturé(e)s
+ils (elles) avaient été peinturé(e)s
+
+** Passé antérieur
+
+j'eus été peinturé(e)
+tu eus été peinturé(e)
+il (elle) eut été peinturé(e)
+nous eûmes été peinturé(e)s
+vous eûtes été peinturé(e)s
+ils (elles) eurent été peinturé(e)s
+
+** Futur antérieur
+
+j'aurai été peinturé(e)
+tu auras été peinturé(e)
+il (elle) aura été peinturé(e)
+nous aurons été peinturé(e)s
+vous aurez été peinturé(e)s
+ils (elles) auront été peinturé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été peinturé(e)
+j'aurais été peinturé(e)
+il (elle) aurait été peinturé(e)
+nous aurions été peinturé(e)s
+vous auriez été peinturé(e)s
+ils (elles) auraient été peinturé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été peinturé(e)
+que tu aies été peinturé(e)
+qu’il (elle) ait été peinturé(e)
+que nous ayons été peinturé(e)s
+que vous ayez été peinturé(e)s
+qu’ils (elles) aient été peinturé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été peinturé(e)
+que tu eusses été peinturé(e)
+qu’il (elle) eût été peinturé(e)
+que nous eussions été peinturé(e)s
+que vous eussiez été peinturé(e)s
+qu’ils (elles) eussent été peinturé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été peinturé(e)
+ayons été peinturé(e)s
+ayez été peinturé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été peinturé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été peinturé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe decliner
+
+* INDICATIF
+
+** Présent
+
+je décline
+tu déclines
+il (elle) décline
+nous déclinons
+vous déclinez
+ils (elles) déclinent
+
+** Imparfait
+
+je déclinais
+tu déclinais
+il (elle) déclinait
+nous déclinions
+vous décliniez
+ils (elles) déclinaient
+
+** Passé simple
+
+je déclinai
+tu déclinas
+il (elle) déclina
+nous déclinâmes
+vous déclinâtes
+ils (elles) déclinèrent
+
+** Futur simple
+
+je déclinerai
+tu déclineras
+il (elle) déclinera
+nous déclinerons
+vous déclinerez
+ils (elles) déclineront
+
+* CONDITIONNEL
+
+** Présent
+
+je déclinerais
+tu déclinerais
+il (elle) déclinerait
+nous déclinerions
+vous déclineriez
+ils (elles) déclineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je décline
+que tu déclines
+qu’il (elle) décline
+que nous déclinions
+que vous décliniez
+qu’ils (elles) déclinent
+
+** Imparfait
+
+que je déclinasse
+que tu déclinasses
+qu’il (elle) déclinât
+que nous déclinassions
+que vous déclinassiez
+qu’ils (elles) déclinassent
+
+* IMPÉRATIF
+
+** Présent
+
+décline
+déclinons
+déclinez
+
+* INFINITIF
+
+** Présent
+
+décliner
+
+* PARTICIPE
+
+** Présent
+
+déclinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai décliné
+tu as décliné
+il (elle) a décliné
+nous avons décliné
+vous avez décliné
+ils (elles) ont décliné
+
+** Plus-que-parfait
+
+j'avais décliné
+tu avais décliné
+il (elle) avait décliné
+nous avions décliné
+vous aviez décliné
+ils (elles) avaient décliné
+
+** Passé antérieur
+
+j'eus décliné
+tu eus décliné
+il (elle) eut décliné
+nous eûmes décliné
+vous eûtes décliné
+ils (elles) eurent décliné
+
+** Futur antérieur
+
+j'aurai décliné
+tu auras décliné
+il (elle) aura décliné
+nous aurons décliné
+vous aurez décliné
+ils (elles) auront décliné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais décliné
+tu aurais décliné
+il (elle) aurait décliné
+nous aurions décliné
+vous auriez décliné
+ils (elles) auraient décliné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie décliné
+que tu aies décliné
+qu’il (elle) ait décliné
+que nous ayons décliné
+que vous ayez décliné
+qu’ils (elles) aient décliné
+
+** Plus-que-parfait
+
+que j'eusse décliné
+que tu eusses décliné
+qu’il (elle) eût décliné
+que nous eussions décliné
+que vous eussiez décliné
+qu’ils (elles) eussent décliné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons décliné
+ayez décliné
+
+* INFINITIF
+
+** Passé
+
+avoir décliné
+
+* PARTICIPE
+
+** Passé
+
+ayant décliné
+décliné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis décliné(e)
+tu es décliné(e)
+il (elle) est décliné(e)
+nous sommes décliné(e)s
+vous êtes décliné(e)s
+ils (elles) sont décliné(e)s
+
+** Imparfait
+
+j'étais décliné(e)
+tu étais décliné(e)
+il (elle) était décliné(e)
+nous étions décliné(e)s
+vous étiez décliné(e)s
+ils (elles) étaient décliné(e)s
+
+** Passé simple
+
+je fus décliné(e)
+tu fus décliné(e)
+il (elle) fut décliné(e)
+nous fûmes décliné(e)s
+vous fûtes décliné(e)s
+ils (elles) furent décliné(e)s
+
+** Futur simple
+
+je serai décliné(e)
+tu seras décliné(e)
+il (elle) sera décliné(e)
+nous serons décliné(e)s
+vous serez décliné(e)s
+ils (elles) seront décliné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais décliné(e)
+tu serais décliné(e)
+il (elle) serait décliné(e)
+nous serions décliné(e)s
+vous seriez décliné(e)s
+ils (elles) seraient décliné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois décliné(e)
+que tu sois décliné(e)
+qu’il (elle) soit décliné(e)
+que nous soyons décliné(e)s
+que vous soyez décliné(e)s
+qu’ils (elles) soient décliné(e)s
+
+** Imparfait
+
+que je fusse décliné(e)
+que tu fusses décliné(e)
+qu’il (elle) fût décliné(e)
+que nous fussions décliné(e)s
+que vous fussiez décliné(e)s
+qu’ils (elles) fussent décliné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons décliné(e)s
+soyez décliné(e)s
+
+* INFINITIF
+
+** Présent
+
+être décliné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant décliné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été décliné(e)
+tu as été décliné(e)
+il (elle) a été décliné(e)
+nous avons été décliné(e)s
+vous avez été décliné(e)s
+ils (elles) ont été décliné(e)s
+
+** Plus-que-parfait
+
+j'avais été décliné(e)
+il (elle) avait été décliné(e)
+nous avions été décliné(e)s
+ils (elles) avaient été décliné(e)s
+
+** Passé antérieur
+
+j'eus été décliné(e)
+tu eus été décliné(e)
+il (elle) eut été décliné(e)
+nous eûmes été décliné(e)s
+vous eûtes été décliné(e)s
+ils (elles) eurent été décliné(e)s
+
+** Futur antérieur
+
+j'aurai été décliné(e)
+tu auras été décliné(e)
+il (elle) aura été décliné(e)
+nous aurons été décliné(e)s
+vous aurez été décliné(e)s
+ils (elles) auront été décliné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été décliné(e)
+j'aurais été décliné(e)
+il (elle) aurait été décliné(e)
+nous aurions été décliné(e)s
+vous auriez été décliné(e)s
+ils (elles) auraient été décliné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été décliné(e)
+que tu aies été décliné(e)
+qu’il (elle) ait été décliné(e)
+que nous ayons été décliné(e)s
+que vous ayez été décliné(e)s
+qu’ils (elles) aient été décliné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été décliné(e)
+que tu eusses été décliné(e)
+qu’il (elle) eût été décliné(e)
+que nous eussions été décliné(e)s
+que vous eussiez été décliné(e)s
+qu’ils (elles) eussent été décliné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été décliné(e)
+ayons été décliné(e)s
+ayez été décliné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été décliné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été décliné(e)(s)

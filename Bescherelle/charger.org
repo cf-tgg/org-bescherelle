@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe charger
+
+* INDICATIF
+
+** Présent
+
+je charge
+tu charges
+il (elle) charge
+nous chargeons
+vous chargez
+ils (elles) chargent
+
+** Imparfait
+
+je chargeais
+tu chargeais
+il (elle) chargeait
+nous chargions
+vous chargiez
+ils (elles) chargeaient
+
+** Passé simple
+
+je chargeai
+tu chargeas
+il (elle) chargea
+nous chargeâmes
+vous chargeâtes
+ils (elles) chargèrent
+
+** Futur simple
+
+je chargerai
+tu chargeras
+il (elle) chargera
+nous chargerons
+vous chargerez
+ils (elles) chargeront
+
+* CONDITIONNEL
+
+** Présent
+
+je chargerais
+tu chargerais
+il (elle) chargerait
+nous chargerions
+vous chargeriez
+ils (elles) chargeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je charge
+que tu charges
+qu’il (elle) charge
+que nous chargions
+que vous chargiez
+qu’ils (elles) chargent
+
+** Imparfait
+
+que je chargeasse
+que tu chargeasses
+qu’il (elle) chargeât
+que nous chargeassions
+que vous chargeassiez
+qu’ils (elles) chargeassent
+
+* IMPÉRATIF
+
+** Présent
+
+charge
+chargeons
+chargez
+
+* INFINITIF
+
+** Présent
+
+charger
+
+* PARTICIPE
+
+** Présent
+
+chargeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chargé
+tu as chargé
+il (elle) a chargé
+nous avons chargé
+vous avez chargé
+ils (elles) ont chargé
+
+** Plus-que-parfait
+
+j'avais chargé
+tu avais chargé
+il (elle) avait chargé
+nous avions chargé
+vous aviez chargé
+ils (elles) avaient chargé
+
+** Passé antérieur
+
+j'eus chargé
+tu eus chargé
+il (elle) eut chargé
+nous eûmes chargé
+vous eûtes chargé
+ils (elles) eurent chargé
+
+** Futur antérieur
+
+j'aurai chargé
+tu auras chargé
+il (elle) aura chargé
+nous aurons chargé
+vous aurez chargé
+ils (elles) auront chargé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chargé
+tu aurais chargé
+il (elle) aurait chargé
+nous aurions chargé
+vous auriez chargé
+ils (elles) auraient chargé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chargé
+que tu aies chargé
+qu’il (elle) ait chargé
+que nous ayons chargé
+que vous ayez chargé
+qu’ils (elles) aient chargé
+
+** Plus-que-parfait
+
+que j'eusse chargé
+que tu eusses chargé
+qu’il (elle) eût chargé
+que nous eussions chargé
+que vous eussiez chargé
+qu’ils (elles) eussent chargé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chargé
+ayez chargé
+
+* INFINITIF
+
+** Passé
+
+avoir chargé
+
+* PARTICIPE
+
+** Passé
+
+ayant chargé
+chargé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chargé(e)
+tu es chargé(e)
+il (elle) est chargé(e)
+nous sommes chargé(e)s
+vous êtes chargé(e)s
+ils (elles) sont chargé(e)s
+
+** Imparfait
+
+j'étais chargé(e)
+tu étais chargé(e)
+il (elle) était chargé(e)
+nous étions chargé(e)s
+vous étiez chargé(e)s
+ils (elles) étaient chargé(e)s
+
+** Passé simple
+
+je fus chargé(e)
+tu fus chargé(e)
+il (elle) fut chargé(e)
+nous fûmes chargé(e)s
+vous fûtes chargé(e)s
+ils (elles) furent chargé(e)s
+
+** Futur simple
+
+je serai chargé(e)
+tu seras chargé(e)
+il (elle) sera chargé(e)
+nous serons chargé(e)s
+vous serez chargé(e)s
+ils (elles) seront chargé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chargé(e)
+tu serais chargé(e)
+il (elle) serait chargé(e)
+nous serions chargé(e)s
+vous seriez chargé(e)s
+ils (elles) seraient chargé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chargé(e)
+que tu sois chargé(e)
+qu’il (elle) soit chargé(e)
+que nous soyons chargé(e)s
+que vous soyez chargé(e)s
+qu’ils (elles) soient chargé(e)s
+
+** Imparfait
+
+que je fusse chargé(e)
+que tu fusses chargé(e)
+qu’il (elle) fût chargé(e)
+que nous fussions chargé(e)s
+que vous fussiez chargé(e)s
+qu’ils (elles) fussent chargé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chargé(e)s
+soyez chargé(e)s
+
+* INFINITIF
+
+** Présent
+
+être chargé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chargé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chargé(e)
+tu as été chargé(e)
+il (elle) a été chargé(e)
+nous avons été chargé(e)s
+vous avez été chargé(e)s
+ils (elles) ont été chargé(e)s
+
+** Plus-que-parfait
+
+j'avais été chargé(e)
+il (elle) avait été chargé(e)
+nous avions été chargé(e)s
+ils (elles) avaient été chargé(e)s
+
+** Passé antérieur
+
+j'eus été chargé(e)
+tu eus été chargé(e)
+il (elle) eut été chargé(e)
+nous eûmes été chargé(e)s
+vous eûtes été chargé(e)s
+ils (elles) eurent été chargé(e)s
+
+** Futur antérieur
+
+j'aurai été chargé(e)
+tu auras été chargé(e)
+il (elle) aura été chargé(e)
+nous aurons été chargé(e)s
+vous aurez été chargé(e)s
+ils (elles) auront été chargé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chargé(e)
+j'aurais été chargé(e)
+il (elle) aurait été chargé(e)
+nous aurions été chargé(e)s
+vous auriez été chargé(e)s
+ils (elles) auraient été chargé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chargé(e)
+que tu aies été chargé(e)
+qu’il (elle) ait été chargé(e)
+que nous ayons été chargé(e)s
+que vous ayez été chargé(e)s
+qu’ils (elles) aient été chargé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chargé(e)
+que tu eusses été chargé(e)
+qu’il (elle) eût été chargé(e)
+que nous eussions été chargé(e)s
+que vous eussiez été chargé(e)s
+qu’ils (elles) eussent été chargé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chargé(e)
+ayons été chargé(e)s
+ayez été chargé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chargé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chargé(e)(s)

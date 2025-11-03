@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe commettre
+
+* INDICATIF
+
+** Présent
+
+je commets
+tu commets
+il (elle) commet
+nous commettons
+vous commettez
+ils (elles) commettent
+
+** Imparfait
+
+je commettais
+tu commettais
+il (elle) commettait
+nous commettions
+vous commettiez
+ils (elles) commettaient
+
+** Passé simple
+
+je commis
+tu commis
+il (elle) commit
+nous commîmes
+vous commîtes
+ils (elles) commirent
+
+** Futur simple
+
+je commettrai
+tu commettras
+il (elle) commettra
+nous commettrons
+vous commettrez
+ils (elles) commettront
+
+* CONDITIONNEL
+
+** Présent
+
+je commettrais
+tu commettrais
+il (elle) commettrait
+nous commettrions
+vous commettriez
+ils (elles) commettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je commette
+que tu commettes
+qu’il (elle) commette
+que nous commettions
+que vous commettiez
+qu’ils (elles) commettent
+
+** Imparfait
+
+que je commisse
+que tu commisses
+qu’il (elle) commît
+que nous commissions
+que vous commissiez
+qu’ils (elles) commissent
+
+* IMPÉRATIF
+
+** Présent
+
+commets
+commettons
+commettez
+
+* INFINITIF
+
+** Présent
+
+commettre
+
+* PARTICIPE
+
+** Présent
+
+commettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai commis
+tu as commis
+il (elle) a commis
+nous avons commis
+vous avez commis
+ils (elles) ont commis
+
+** Plus-que-parfait
+
+j'avais commis
+tu avais commis
+il (elle) avait commis
+nous avions commis
+vous aviez commis
+ils (elles) avaient commis
+
+** Passé antérieur
+
+j'eus commis
+tu eus commis
+il (elle) eut commis
+nous eûmes commis
+vous eûtes commis
+ils (elles) eurent commis
+
+** Futur antérieur
+
+j'aurai commis
+tu auras commis
+il (elle) aura commis
+nous aurons commis
+vous aurez commis
+ils (elles) auront commis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais commis
+tu aurais commis
+il (elle) aurait commis
+nous aurions commis
+vous auriez commis
+ils (elles) auraient commis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie commis
+que tu aies commis
+qu’il (elle) ait commis
+que nous ayons commis
+que vous ayez commis
+qu’ils (elles) aient commis
+
+** Plus-que-parfait
+
+que j'eusse commis
+que tu eusses commis
+qu’il (elle) eût commis
+que nous eussions commis
+que vous eussiez commis
+qu’ils (elles) eussent commis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons commis
+ayez commis
+
+* INFINITIF
+
+** Passé
+
+avoir commis
+
+* PARTICIPE
+
+** Passé
+
+ayant commis
+commis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis commis(e)
+tu es commis(e)
+il (elle) est commis(e)
+nous sommes commis(es)
+vous êtes commis(es)
+ils (elles) sont commis(es)
+
+** Imparfait
+
+j'étais commis(e)
+tu étais commis(e)
+il (elle) était commis(e)
+nous étions commis(es)
+vous étiez commis(es)
+ils (elles) étaient commis(es)
+
+** Passé simple
+
+je fus commis(e)
+tu fus commis(e)
+il (elle) fut commis(e)
+nous fûmes commis(es)
+vous fûtes commis(es)
+ils (elles) furent commis(es)
+
+** Futur simple
+
+je serai commis(e)
+tu seras commis(e)
+il (elle) sera commis(e)
+nous serons commis(es)
+vous serez commis(es)
+ils (elles) seront commis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais commis(e)
+tu serais commis(e)
+il (elle) serait commis(e)
+nous serions commis(es)
+vous seriez commis(es)
+ils (elles) seraient commis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois commis(e)
+que tu sois commis(e)
+qu’il (elle) soit commis(e)
+que nous soyons commis(es)
+que vous soyez commis(es)
+qu’ils (elles) soient commis(es)
+
+** Imparfait
+
+que je fusse commis(e)
+que tu fusses commis(e)
+qu’il (elle) fût commis(e)
+que nous fussions commis(es)
+que vous fussiez commis(es)
+qu’ils (elles) fussent commis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons commis(es)
+soyez commis(es)
+
+* INFINITIF
+
+** Présent
+
+être commis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant commis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été commis(e)
+tu as été commis(e)
+il (elle) a été commis(e)
+nous avons été commis(es)
+vous avez été commis(es)
+ils (elles) ont été commis(es)
+
+** Plus-que-parfait
+
+j'avais été commis(e)
+il (elle) avait été commis(e)
+nous avions été commis(es)
+ils (elles) avaient été commis(es)
+
+** Passé antérieur
+
+j'eus été commis(e)
+tu eus été commis(e)
+il (elle) eut été commis(e)
+nous eûmes été commis(es)
+vous eûtes été commis(es)
+ils (elles) eurent été commis(es)
+
+** Futur antérieur
+
+j'aurai été commis(e)
+tu auras été commis(e)
+il (elle) aura été commis(e)
+nous aurons été commis(es)
+vous aurez été commis(es)
+ils (elles) auront été commis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été commis(e)
+j'aurais été commis(e)
+il (elle) aurait été commis(e)
+nous aurions été commis(es)
+vous auriez été commis(es)
+ils (elles) auraient été commis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été commis(e)
+que tu aies été commis(e)
+qu’il (elle) ait été commis(e)
+que nous ayons été commis(es)
+que vous ayez été commis(es)
+qu’ils (elles) aient été commis(es)
+
+** Plus-que-parfait
+
+que j'eusse été commis(e)
+que tu eusses été commis(e)
+qu’il (elle) eût été commis(e)
+que nous eussions été commis(es)
+que vous eussiez été commis(es)
+qu’ils (elles) eussent été commis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été commis(e)
+ayons été commis(es)
+ayez été commis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été commis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été commis (s, se, s, ses)

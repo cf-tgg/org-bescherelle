@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ecrire
+
+* INDICATIF
+
+** Présent
+
+j'écris
+tu écris
+il (elle) écrit
+nous écrivons
+vous écrivez
+ils (elles) écrivent
+
+** Imparfait
+
+j'écrivais
+tu écrivais
+il (elle) écrivait
+nous écrivions
+vous écriviez
+ils (elles) écrivaient
+
+** Passé simple
+
+j'écrivis
+tu écrivis
+il (elle) écrivit
+nous écrivîmes
+vous écrivîtes
+ils (elles) écrivirent
+
+** Futur simple
+
+j'écrirai
+tu écriras
+il (elle) écrira
+nous écrirons
+vous écrirez
+ils (elles) écriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'écrirais
+tu écrirais
+il (elle) écrirait
+nous écririons
+vous écririez
+ils (elles) écriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'écrive
+que tu écrives
+qu’il (elle) écrive
+que nous écrivions
+que vous écriviez
+qu’ils (elles) écrivent
+
+** Imparfait
+
+que j'écrivisse
+que tu écrivisses
+qu’il (elle) écrivît
+que nous écrivissions
+que vous écrivissiez
+qu’ils (elles) écrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+écris
+écrivons
+écrivez
+
+* INFINITIF
+
+** Présent
+
+écrire
+
+* PARTICIPE
+
+** Présent
+
+écrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai écrit
+tu as écrit
+il (elle) a écrit
+nous avons écrit
+vous avez écrit
+ils (elles) ont écrit
+
+** Plus-que-parfait
+
+j'avais écrit
+tu avais écrit
+il (elle) avait écrit
+nous avions écrit
+vous aviez écrit
+ils (elles) avaient écrit
+
+** Passé antérieur
+
+j'eus écrit
+tu eus écrit
+il (elle) eut écrit
+nous eûmes écrit
+vous eûtes écrit
+ils (elles) eurent écrit
+
+** Futur antérieur
+
+j'aurai écrit
+tu auras écrit
+il (elle) aura écrit
+nous aurons écrit
+vous aurez écrit
+ils (elles) auront écrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais écrit
+tu aurais écrit
+il (elle) aurait écrit
+nous aurions écrit
+vous auriez écrit
+ils (elles) auraient écrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie écrit
+que tu aies écrit
+qu’il (elle) ait écrit
+que nous ayons écrit
+que vous ayez écrit
+qu’ils (elles) aient écrit
+
+** Plus-que-parfait
+
+que j'eusse écrit
+que tu eusses écrit
+qu’il (elle) eût écrit
+que nous eussions écrit
+que vous eussiez écrit
+qu’ils (elles) eussent écrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons écrit
+ayez écrit
+
+* INFINITIF
+
+** Passé
+
+avoir écrit
+
+* PARTICIPE
+
+** Passé
+
+ayant écrit
+écrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis écrit(e)
+tu es écrit(e)
+il (elle) est écrit(e)
+nous sommes écrit(e)s
+vous êtes écrit(e)s
+ils (elles) sont écrit(e)s
+
+** Imparfait
+
+j'étais écrit(e)
+tu étais écrit(e)
+il (elle) était écrit(e)
+nous étions écrit(e)s
+vous étiez écrit(e)s
+ils (elles) étaient écrit(e)s
+
+** Passé simple
+
+je fus écrit(e)
+tu fus écrit(e)
+il (elle) fut écrit(e)
+nous fûmes écrit(e)s
+vous fûtes écrit(e)s
+ils (elles) furent écrit(e)s
+
+** Futur simple
+
+je serai écrit(e)
+tu seras écrit(e)
+il (elle) sera écrit(e)
+nous serons écrit(e)s
+vous serez écrit(e)s
+ils (elles) seront écrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais écrit(e)
+tu serais écrit(e)
+il (elle) serait écrit(e)
+nous serions écrit(e)s
+vous seriez écrit(e)s
+ils (elles) seraient écrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois écrit(e)
+que tu sois écrit(e)
+qu’il (elle) soit écrit(e)
+que nous soyons écrit(e)s
+que vous soyez écrit(e)s
+qu’ils (elles) soient écrit(e)s
+
+** Imparfait
+
+que je fusse écrit(e)
+que tu fusses écrit(e)
+qu’il (elle) fût écrit(e)
+que nous fussions écrit(e)s
+que vous fussiez écrit(e)s
+qu’ils (elles) fussent écrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons écrit(e)s
+soyez écrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être écrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant écrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été écrit(e)
+tu as été écrit(e)
+il (elle) a été écrit(e)
+nous avons été écrit(e)s
+vous avez été écrit(e)s
+ils (elles) ont été écrit(e)s
+
+** Plus-que-parfait
+
+j'avais été écrit(e)
+il (elle) avait été écrit(e)
+nous avions été écrit(e)s
+ils (elles) avaient été écrit(e)s
+
+** Passé antérieur
+
+j'eus été écrit(e)
+tu eus été écrit(e)
+il (elle) eut été écrit(e)
+nous eûmes été écrit(e)s
+vous eûtes été écrit(e)s
+ils (elles) eurent été écrit(e)s
+
+** Futur antérieur
+
+j'aurai été écrit(e)
+tu auras été écrit(e)
+il (elle) aura été écrit(e)
+nous aurons été écrit(e)s
+vous aurez été écrit(e)s
+ils (elles) auront été écrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été écrit(e)
+j'aurais été écrit(e)
+il (elle) aurait été écrit(e)
+nous aurions été écrit(e)s
+vous auriez été écrit(e)s
+ils (elles) auraient été écrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été écrit(e)
+que tu aies été écrit(e)
+qu’il (elle) ait été écrit(e)
+que nous ayons été écrit(e)s
+que vous ayez été écrit(e)s
+qu’ils (elles) aient été écrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été écrit(e)
+que tu eusses été écrit(e)
+qu’il (elle) eût été écrit(e)
+que nous eussions été écrit(e)s
+que vous eussiez été écrit(e)s
+qu’ils (elles) eussent été écrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été écrit(e)
+ayons été écrit(e)s
+ayez été écrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été écrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été écrit(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe perseverer
+
+* INDICATIF
+
+** Présent
+
+je persévère
+tu persévères
+il (elle) persévère
+nous persévérons
+vous persévérez
+ils (elles) persévèrent
+
+** Imparfait
+
+je persévérais
+tu persévérais
+il (elle) persévérait
+nous persévérions
+vous persévériez
+ils (elles) persévéraient
+
+** Passé simple
+
+je persévérai
+tu persévéras
+il (elle) persévéra
+nous persévérâmes
+vous persévérâtes
+ils (elles) persévérèrent
+
+** Futur simple
+
+je persévérerai
+tu persévéreras
+il (elle) persévérera
+nous persévérerons
+vous persévérerez
+ils (elles) persévéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je persévérerais
+tu persévérerais
+il (elle) persévérerait
+nous persévérerions
+vous persévéreriez
+ils (elles) persévéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je persévère
+que tu persévères
+qu’il (elle) persévère
+que nous persévérions
+que vous persévériez
+qu’ils (elles) persévèrent
+
+** Imparfait
+
+que je persévérasse
+que tu persévérasses
+qu’il (elle) persévérât
+que nous persévérassions
+que vous persévérassiez
+qu’ils (elles) persévérassent
+
+* IMPÉRATIF
+
+** Présent
+
+persévère
+persévérons
+persévérez
+
+* INFINITIF
+
+** Présent
+
+persévérer
+
+* PARTICIPE
+
+** Présent
+
+persévérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai persévéré
+tu as persévéré
+il (elle) a persévéré
+nous avons persévéré
+vous avez persévéré
+ils (elles) ont persévéré
+
+** Plus-que-parfait
+
+j'avais persévéré
+tu avais persévéré
+il (elle) avait persévéré
+nous avions persévéré
+vous aviez persévéré
+ils (elles) avaient persévéré
+
+** Passé antérieur
+
+j'eus persévéré
+tu eus persévéré
+il (elle) eut persévéré
+nous eûmes persévéré
+vous eûtes persévéré
+ils (elles) eurent persévéré
+
+** Futur antérieur
+
+j'aurai persévéré
+tu auras persévéré
+il (elle) aura persévéré
+nous aurons persévéré
+vous aurez persévéré
+ils (elles) auront persévéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais persévéré
+tu aurais persévéré
+il (elle) aurait persévéré
+nous aurions persévéré
+vous auriez persévéré
+ils (elles) auraient persévéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie persévéré
+que tu aies persévéré
+qu’il (elle) ait persévéré
+que nous ayons persévéré
+que vous ayez persévéré
+qu’ils (elles) aient persévéré
+
+** Plus-que-parfait
+
+que j'eusse persévéré
+que tu eusses persévéré
+qu’il (elle) eût persévéré
+que nous eussions persévéré
+que vous eussiez persévéré
+qu’ils (elles) eussent persévéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons persévéré
+ayez persévéré
+
+* INFINITIF
+
+** Passé
+
+avoir persévéré
+
+* PARTICIPE
+
+** Passé
+
+ayant persévéré
+persévéré (invar.)

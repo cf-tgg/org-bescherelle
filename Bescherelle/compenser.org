@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe compenser
+
+* INDICATIF
+
+** Présent
+
+je compense
+tu compenses
+il (elle) compense
+nous compensons
+vous compensez
+ils (elles) compensent
+
+** Imparfait
+
+je compensais
+tu compensais
+il (elle) compensait
+nous compensions
+vous compensiez
+ils (elles) compensaient
+
+** Passé simple
+
+je compensai
+tu compensas
+il (elle) compensa
+nous compensâmes
+vous compensâtes
+ils (elles) compensèrent
+
+** Futur simple
+
+je compenserai
+tu compenseras
+il (elle) compensera
+nous compenserons
+vous compenserez
+ils (elles) compenseront
+
+* CONDITIONNEL
+
+** Présent
+
+je compenserais
+tu compenserais
+il (elle) compenserait
+nous compenserions
+vous compenseriez
+ils (elles) compenseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compense
+que tu compenses
+qu’il (elle) compense
+que nous compensions
+que vous compensiez
+qu’ils (elles) compensent
+
+** Imparfait
+
+que je compensasse
+que tu compensasses
+qu’il (elle) compensât
+que nous compensassions
+que vous compensassiez
+qu’ils (elles) compensassent
+
+* IMPÉRATIF
+
+** Présent
+
+compense
+compensons
+compensez
+
+* INFINITIF
+
+** Présent
+
+compenser
+
+* PARTICIPE
+
+** Présent
+
+compensant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compensé
+tu as compensé
+il (elle) a compensé
+nous avons compensé
+vous avez compensé
+ils (elles) ont compensé
+
+** Plus-que-parfait
+
+j'avais compensé
+tu avais compensé
+il (elle) avait compensé
+nous avions compensé
+vous aviez compensé
+ils (elles) avaient compensé
+
+** Passé antérieur
+
+j'eus compensé
+tu eus compensé
+il (elle) eut compensé
+nous eûmes compensé
+vous eûtes compensé
+ils (elles) eurent compensé
+
+** Futur antérieur
+
+j'aurai compensé
+tu auras compensé
+il (elle) aura compensé
+nous aurons compensé
+vous aurez compensé
+ils (elles) auront compensé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compensé
+tu aurais compensé
+il (elle) aurait compensé
+nous aurions compensé
+vous auriez compensé
+ils (elles) auraient compensé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compensé
+que tu aies compensé
+qu’il (elle) ait compensé
+que nous ayons compensé
+que vous ayez compensé
+qu’ils (elles) aient compensé
+
+** Plus-que-parfait
+
+que j'eusse compensé
+que tu eusses compensé
+qu’il (elle) eût compensé
+que nous eussions compensé
+que vous eussiez compensé
+qu’ils (elles) eussent compensé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compensé
+ayez compensé
+
+* INFINITIF
+
+** Passé
+
+avoir compensé
+
+* PARTICIPE
+
+** Passé
+
+ayant compensé
+compensé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis compensé(e)
+tu es compensé(e)
+il (elle) est compensé(e)
+nous sommes compensé(e)s
+vous êtes compensé(e)s
+ils (elles) sont compensé(e)s
+
+** Imparfait
+
+j'étais compensé(e)
+tu étais compensé(e)
+il (elle) était compensé(e)
+nous étions compensé(e)s
+vous étiez compensé(e)s
+ils (elles) étaient compensé(e)s
+
+** Passé simple
+
+je fus compensé(e)
+tu fus compensé(e)
+il (elle) fut compensé(e)
+nous fûmes compensé(e)s
+vous fûtes compensé(e)s
+ils (elles) furent compensé(e)s
+
+** Futur simple
+
+je serai compensé(e)
+tu seras compensé(e)
+il (elle) sera compensé(e)
+nous serons compensé(e)s
+vous serez compensé(e)s
+ils (elles) seront compensé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais compensé(e)
+tu serais compensé(e)
+il (elle) serait compensé(e)
+nous serions compensé(e)s
+vous seriez compensé(e)s
+ils (elles) seraient compensé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois compensé(e)
+que tu sois compensé(e)
+qu’il (elle) soit compensé(e)
+que nous soyons compensé(e)s
+que vous soyez compensé(e)s
+qu’ils (elles) soient compensé(e)s
+
+** Imparfait
+
+que je fusse compensé(e)
+que tu fusses compensé(e)
+qu’il (elle) fût compensé(e)
+que nous fussions compensé(e)s
+que vous fussiez compensé(e)s
+qu’ils (elles) fussent compensé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons compensé(e)s
+soyez compensé(e)s
+
+* INFINITIF
+
+** Présent
+
+être compensé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant compensé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été compensé(e)
+tu as été compensé(e)
+il (elle) a été compensé(e)
+nous avons été compensé(e)s
+vous avez été compensé(e)s
+ils (elles) ont été compensé(e)s
+
+** Plus-que-parfait
+
+j'avais été compensé(e)
+il (elle) avait été compensé(e)
+nous avions été compensé(e)s
+ils (elles) avaient été compensé(e)s
+
+** Passé antérieur
+
+j'eus été compensé(e)
+tu eus été compensé(e)
+il (elle) eut été compensé(e)
+nous eûmes été compensé(e)s
+vous eûtes été compensé(e)s
+ils (elles) eurent été compensé(e)s
+
+** Futur antérieur
+
+j'aurai été compensé(e)
+tu auras été compensé(e)
+il (elle) aura été compensé(e)
+nous aurons été compensé(e)s
+vous aurez été compensé(e)s
+ils (elles) auront été compensé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été compensé(e)
+j'aurais été compensé(e)
+il (elle) aurait été compensé(e)
+nous aurions été compensé(e)s
+vous auriez été compensé(e)s
+ils (elles) auraient été compensé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été compensé(e)
+que tu aies été compensé(e)
+qu’il (elle) ait été compensé(e)
+que nous ayons été compensé(e)s
+que vous ayez été compensé(e)s
+qu’ils (elles) aient été compensé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été compensé(e)
+que tu eusses été compensé(e)
+qu’il (elle) eût été compensé(e)
+que nous eussions été compensé(e)s
+que vous eussiez été compensé(e)s
+qu’ils (elles) eussent été compensé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été compensé(e)
+ayons été compensé(e)s
+ayez été compensé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été compensé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été compensé(e)(s)

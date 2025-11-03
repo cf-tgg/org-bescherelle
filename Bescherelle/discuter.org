@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe discuter
+
+* INDICATIF
+
+** Présent
+
+je discute
+tu discutes
+il (elle) discute
+nous discutons
+vous discutez
+ils (elles) discutent
+
+** Imparfait
+
+je discutais
+tu discutais
+il (elle) discutait
+nous discutions
+vous discutiez
+ils (elles) discutaient
+
+** Passé simple
+
+je discutai
+tu discutas
+il (elle) discuta
+nous discutâmes
+vous discutâtes
+ils (elles) discutèrent
+
+** Futur simple
+
+je discuterai
+tu discuteras
+il (elle) discutera
+nous discuterons
+vous discuterez
+ils (elles) discuteront
+
+* CONDITIONNEL
+
+** Présent
+
+je discuterais
+tu discuterais
+il (elle) discuterait
+nous discuterions
+vous discuteriez
+ils (elles) discuteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je discute
+que tu discutes
+qu’il (elle) discute
+que nous discutions
+que vous discutiez
+qu’ils (elles) discutent
+
+** Imparfait
+
+que je discutasse
+que tu discutasses
+qu’il (elle) discutât
+que nous discutassions
+que vous discutassiez
+qu’ils (elles) discutassent
+
+* IMPÉRATIF
+
+** Présent
+
+discute
+discutons
+discutez
+
+* INFINITIF
+
+** Présent
+
+discuter
+
+* PARTICIPE
+
+** Présent
+
+discutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai discuté
+tu as discuté
+il (elle) a discuté
+nous avons discuté
+vous avez discuté
+ils (elles) ont discuté
+
+** Plus-que-parfait
+
+j'avais discuté
+tu avais discuté
+il (elle) avait discuté
+nous avions discuté
+vous aviez discuté
+ils (elles) avaient discuté
+
+** Passé antérieur
+
+j'eus discuté
+tu eus discuté
+il (elle) eut discuté
+nous eûmes discuté
+vous eûtes discuté
+ils (elles) eurent discuté
+
+** Futur antérieur
+
+j'aurai discuté
+tu auras discuté
+il (elle) aura discuté
+nous aurons discuté
+vous aurez discuté
+ils (elles) auront discuté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais discuté
+tu aurais discuté
+il (elle) aurait discuté
+nous aurions discuté
+vous auriez discuté
+ils (elles) auraient discuté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie discuté
+que tu aies discuté
+qu’il (elle) ait discuté
+que nous ayons discuté
+que vous ayez discuté
+qu’ils (elles) aient discuté
+
+** Plus-que-parfait
+
+que j'eusse discuté
+que tu eusses discuté
+qu’il (elle) eût discuté
+que nous eussions discuté
+que vous eussiez discuté
+qu’ils (elles) eussent discuté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons discuté
+ayez discuté
+
+* INFINITIF
+
+** Passé
+
+avoir discuté
+
+* PARTICIPE
+
+** Passé
+
+ayant discuté
+discuté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis discuté(e)
+tu es discuté(e)
+il (elle) est discuté(e)
+nous sommes discuté(e)s
+vous êtes discuté(e)s
+ils (elles) sont discuté(e)s
+
+** Imparfait
+
+j'étais discuté(e)
+tu étais discuté(e)
+il (elle) était discuté(e)
+nous étions discuté(e)s
+vous étiez discuté(e)s
+ils (elles) étaient discuté(e)s
+
+** Passé simple
+
+je fus discuté(e)
+tu fus discuté(e)
+il (elle) fut discuté(e)
+nous fûmes discuté(e)s
+vous fûtes discuté(e)s
+ils (elles) furent discuté(e)s
+
+** Futur simple
+
+je serai discuté(e)
+tu seras discuté(e)
+il (elle) sera discuté(e)
+nous serons discuté(e)s
+vous serez discuté(e)s
+ils (elles) seront discuté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais discuté(e)
+tu serais discuté(e)
+il (elle) serait discuté(e)
+nous serions discuté(e)s
+vous seriez discuté(e)s
+ils (elles) seraient discuté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois discuté(e)
+que tu sois discuté(e)
+qu’il (elle) soit discuté(e)
+que nous soyons discuté(e)s
+que vous soyez discuté(e)s
+qu’ils (elles) soient discuté(e)s
+
+** Imparfait
+
+que je fusse discuté(e)
+que tu fusses discuté(e)
+qu’il (elle) fût discuté(e)
+que nous fussions discuté(e)s
+que vous fussiez discuté(e)s
+qu’ils (elles) fussent discuté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons discuté(e)s
+soyez discuté(e)s
+
+* INFINITIF
+
+** Présent
+
+être discuté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant discuté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été discuté(e)
+tu as été discuté(e)
+il (elle) a été discuté(e)
+nous avons été discuté(e)s
+vous avez été discuté(e)s
+ils (elles) ont été discuté(e)s
+
+** Plus-que-parfait
+
+j'avais été discuté(e)
+il (elle) avait été discuté(e)
+nous avions été discuté(e)s
+ils (elles) avaient été discuté(e)s
+
+** Passé antérieur
+
+j'eus été discuté(e)
+tu eus été discuté(e)
+il (elle) eut été discuté(e)
+nous eûmes été discuté(e)s
+vous eûtes été discuté(e)s
+ils (elles) eurent été discuté(e)s
+
+** Futur antérieur
+
+j'aurai été discuté(e)
+tu auras été discuté(e)
+il (elle) aura été discuté(e)
+nous aurons été discuté(e)s
+vous aurez été discuté(e)s
+ils (elles) auront été discuté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été discuté(e)
+j'aurais été discuté(e)
+il (elle) aurait été discuté(e)
+nous aurions été discuté(e)s
+vous auriez été discuté(e)s
+ils (elles) auraient été discuté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été discuté(e)
+que tu aies été discuté(e)
+qu’il (elle) ait été discuté(e)
+que nous ayons été discuté(e)s
+que vous ayez été discuté(e)s
+qu’ils (elles) aient été discuté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été discuté(e)
+que tu eusses été discuté(e)
+qu’il (elle) eût été discuté(e)
+que nous eussions été discuté(e)s
+que vous eussiez été discuté(e)s
+qu’ils (elles) eussent été discuté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été discuté(e)
+ayons été discuté(e)s
+ayez été discuté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été discuté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été discuté(e)(s)

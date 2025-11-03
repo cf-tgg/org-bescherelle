@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gonfler
+
+* INDICATIF
+
+** Présent
+
+je gonfle
+tu gonfles
+il (elle) gonfle
+nous gonflons
+vous gonflez
+ils (elles) gonflent
+
+** Imparfait
+
+je gonflais
+tu gonflais
+il (elle) gonflait
+nous gonflions
+vous gonfliez
+ils (elles) gonflaient
+
+** Passé simple
+
+je gonflai
+tu gonflas
+il (elle) gonfla
+nous gonflâmes
+vous gonflâtes
+ils (elles) gonflèrent
+
+** Futur simple
+
+je gonflerai
+tu gonfleras
+il (elle) gonflera
+nous gonflerons
+vous gonflerez
+ils (elles) gonfleront
+
+* CONDITIONNEL
+
+** Présent
+
+je gonflerais
+tu gonflerais
+il (elle) gonflerait
+nous gonflerions
+vous gonfleriez
+ils (elles) gonfleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gonfle
+que tu gonfles
+qu’il (elle) gonfle
+que nous gonflions
+que vous gonfliez
+qu’ils (elles) gonflent
+
+** Imparfait
+
+que je gonflasse
+que tu gonflasses
+qu’il (elle) gonflât
+que nous gonflassions
+que vous gonflassiez
+qu’ils (elles) gonflassent
+
+* IMPÉRATIF
+
+** Présent
+
+gonfle
+gonflons
+gonflez
+
+* INFINITIF
+
+** Présent
+
+gonfler
+
+* PARTICIPE
+
+** Présent
+
+gonflant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gonflé
+tu as gonflé
+il (elle) a gonflé
+nous avons gonflé
+vous avez gonflé
+ils (elles) ont gonflé
+
+** Plus-que-parfait
+
+j'avais gonflé
+tu avais gonflé
+il (elle) avait gonflé
+nous avions gonflé
+vous aviez gonflé
+ils (elles) avaient gonflé
+
+** Passé antérieur
+
+j'eus gonflé
+tu eus gonflé
+il (elle) eut gonflé
+nous eûmes gonflé
+vous eûtes gonflé
+ils (elles) eurent gonflé
+
+** Futur antérieur
+
+j'aurai gonflé
+tu auras gonflé
+il (elle) aura gonflé
+nous aurons gonflé
+vous aurez gonflé
+ils (elles) auront gonflé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gonflé
+tu aurais gonflé
+il (elle) aurait gonflé
+nous aurions gonflé
+vous auriez gonflé
+ils (elles) auraient gonflé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gonflé
+que tu aies gonflé
+qu’il (elle) ait gonflé
+que nous ayons gonflé
+que vous ayez gonflé
+qu’ils (elles) aient gonflé
+
+** Plus-que-parfait
+
+que j'eusse gonflé
+que tu eusses gonflé
+qu’il (elle) eût gonflé
+que nous eussions gonflé
+que vous eussiez gonflé
+qu’ils (elles) eussent gonflé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gonflé
+ayez gonflé
+
+* INFINITIF
+
+** Passé
+
+avoir gonflé
+
+* PARTICIPE
+
+** Passé
+
+ayant gonflé
+gonflé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gonflé(e)
+tu es gonflé(e)
+il (elle) est gonflé(e)
+nous sommes gonflé(e)s
+vous êtes gonflé(e)s
+ils (elles) sont gonflé(e)s
+
+** Imparfait
+
+j'étais gonflé(e)
+tu étais gonflé(e)
+il (elle) était gonflé(e)
+nous étions gonflé(e)s
+vous étiez gonflé(e)s
+ils (elles) étaient gonflé(e)s
+
+** Passé simple
+
+je fus gonflé(e)
+tu fus gonflé(e)
+il (elle) fut gonflé(e)
+nous fûmes gonflé(e)s
+vous fûtes gonflé(e)s
+ils (elles) furent gonflé(e)s
+
+** Futur simple
+
+je serai gonflé(e)
+tu seras gonflé(e)
+il (elle) sera gonflé(e)
+nous serons gonflé(e)s
+vous serez gonflé(e)s
+ils (elles) seront gonflé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gonflé(e)
+tu serais gonflé(e)
+il (elle) serait gonflé(e)
+nous serions gonflé(e)s
+vous seriez gonflé(e)s
+ils (elles) seraient gonflé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gonflé(e)
+que tu sois gonflé(e)
+qu’il (elle) soit gonflé(e)
+que nous soyons gonflé(e)s
+que vous soyez gonflé(e)s
+qu’ils (elles) soient gonflé(e)s
+
+** Imparfait
+
+que je fusse gonflé(e)
+que tu fusses gonflé(e)
+qu’il (elle) fût gonflé(e)
+que nous fussions gonflé(e)s
+que vous fussiez gonflé(e)s
+qu’ils (elles) fussent gonflé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gonflé(e)s
+soyez gonflé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gonflé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gonflé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gonflé(e)
+tu as été gonflé(e)
+il (elle) a été gonflé(e)
+nous avons été gonflé(e)s
+vous avez été gonflé(e)s
+ils (elles) ont été gonflé(e)s
+
+** Plus-que-parfait
+
+j'avais été gonflé(e)
+il (elle) avait été gonflé(e)
+nous avions été gonflé(e)s
+ils (elles) avaient été gonflé(e)s
+
+** Passé antérieur
+
+j'eus été gonflé(e)
+tu eus été gonflé(e)
+il (elle) eut été gonflé(e)
+nous eûmes été gonflé(e)s
+vous eûtes été gonflé(e)s
+ils (elles) eurent été gonflé(e)s
+
+** Futur antérieur
+
+j'aurai été gonflé(e)
+tu auras été gonflé(e)
+il (elle) aura été gonflé(e)
+nous aurons été gonflé(e)s
+vous aurez été gonflé(e)s
+ils (elles) auront été gonflé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gonflé(e)
+j'aurais été gonflé(e)
+il (elle) aurait été gonflé(e)
+nous aurions été gonflé(e)s
+vous auriez été gonflé(e)s
+ils (elles) auraient été gonflé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gonflé(e)
+que tu aies été gonflé(e)
+qu’il (elle) ait été gonflé(e)
+que nous ayons été gonflé(e)s
+que vous ayez été gonflé(e)s
+qu’ils (elles) aient été gonflé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gonflé(e)
+que tu eusses été gonflé(e)
+qu’il (elle) eût été gonflé(e)
+que nous eussions été gonflé(e)s
+que vous eussiez été gonflé(e)s
+qu’ils (elles) eussent été gonflé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gonflé(e)
+ayons été gonflé(e)s
+ayez été gonflé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gonflé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gonflé(e)(s)

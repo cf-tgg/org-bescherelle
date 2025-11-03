@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fatiguer
+
+* INDICATIF
+
+** Présent
+
+je fatigue
+tu fatigues
+il (elle) fatigue
+nous fatiguons
+vous fatiguez
+ils (elles) fatiguent
+
+** Imparfait
+
+je fatiguais
+tu fatiguais
+il (elle) fatiguait
+nous fatiguions
+vous fatiguiez
+ils (elles) fatiguaient
+
+** Passé simple
+
+je fatiguai
+tu fatiguas
+il (elle) fatigua
+nous fatiguâmes
+vous fatiguâtes
+ils (elles) fatiguèrent
+
+** Futur simple
+
+je fatiguerai
+tu fatigueras
+il (elle) fatiguera
+nous fatiguerons
+vous fatiguerez
+ils (elles) fatigueront
+
+* CONDITIONNEL
+
+** Présent
+
+je fatiguerais
+tu fatiguerais
+il (elle) fatiguerait
+nous fatiguerions
+vous fatigueriez
+ils (elles) fatigueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fatigue
+que tu fatigues
+qu’il (elle) fatigue
+que nous fatiguions
+que vous fatiguiez
+qu’ils (elles) fatiguent
+
+** Imparfait
+
+que je fatiguasse
+que tu fatiguasses
+qu’il (elle) fatiguât
+que nous fatiguassions
+que vous fatiguassiez
+qu’ils (elles) fatiguassent
+
+* IMPÉRATIF
+
+** Présent
+
+fatigue
+fatiguons
+fatiguez
+
+* INFINITIF
+
+** Présent
+
+fatiguer
+
+* PARTICIPE
+
+** Présent
+
+fatiguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fatigué
+tu as fatigué
+il (elle) a fatigué
+nous avons fatigué
+vous avez fatigué
+ils (elles) ont fatigué
+
+** Plus-que-parfait
+
+j'avais fatigué
+tu avais fatigué
+il (elle) avait fatigué
+nous avions fatigué
+vous aviez fatigué
+ils (elles) avaient fatigué
+
+** Passé antérieur
+
+j'eus fatigué
+tu eus fatigué
+il (elle) eut fatigué
+nous eûmes fatigué
+vous eûtes fatigué
+ils (elles) eurent fatigué
+
+** Futur antérieur
+
+j'aurai fatigué
+tu auras fatigué
+il (elle) aura fatigué
+nous aurons fatigué
+vous aurez fatigué
+ils (elles) auront fatigué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fatigué
+tu aurais fatigué
+il (elle) aurait fatigué
+nous aurions fatigué
+vous auriez fatigué
+ils (elles) auraient fatigué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fatigué
+que tu aies fatigué
+qu’il (elle) ait fatigué
+que nous ayons fatigué
+que vous ayez fatigué
+qu’ils (elles) aient fatigué
+
+** Plus-que-parfait
+
+que j'eusse fatigué
+que tu eusses fatigué
+qu’il (elle) eût fatigué
+que nous eussions fatigué
+que vous eussiez fatigué
+qu’ils (elles) eussent fatigué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fatigué
+ayez fatigué
+
+* INFINITIF
+
+** Passé
+
+avoir fatigué
+
+* PARTICIPE
+
+** Passé
+
+ayant fatigué
+fatigué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fatigué(e)
+tu es fatigué(e)
+il (elle) est fatigué(e)
+nous sommes fatigué(e)s
+vous êtes fatigué(e)s
+ils (elles) sont fatigué(e)s
+
+** Imparfait
+
+j'étais fatigué(e)
+tu étais fatigué(e)
+il (elle) était fatigué(e)
+nous étions fatigué(e)s
+vous étiez fatigué(e)s
+ils (elles) étaient fatigué(e)s
+
+** Passé simple
+
+je fus fatigué(e)
+tu fus fatigué(e)
+il (elle) fut fatigué(e)
+nous fûmes fatigué(e)s
+vous fûtes fatigué(e)s
+ils (elles) furent fatigué(e)s
+
+** Futur simple
+
+je serai fatigué(e)
+tu seras fatigué(e)
+il (elle) sera fatigué(e)
+nous serons fatigué(e)s
+vous serez fatigué(e)s
+ils (elles) seront fatigué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fatigué(e)
+tu serais fatigué(e)
+il (elle) serait fatigué(e)
+nous serions fatigué(e)s
+vous seriez fatigué(e)s
+ils (elles) seraient fatigué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fatigué(e)
+que tu sois fatigué(e)
+qu’il (elle) soit fatigué(e)
+que nous soyons fatigué(e)s
+que vous soyez fatigué(e)s
+qu’ils (elles) soient fatigué(e)s
+
+** Imparfait
+
+que je fusse fatigué(e)
+que tu fusses fatigué(e)
+qu’il (elle) fût fatigué(e)
+que nous fussions fatigué(e)s
+que vous fussiez fatigué(e)s
+qu’ils (elles) fussent fatigué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fatigué(e)s
+soyez fatigué(e)s
+
+* INFINITIF
+
+** Présent
+
+être fatigué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fatigué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fatigué(e)
+tu as été fatigué(e)
+il (elle) a été fatigué(e)
+nous avons été fatigué(e)s
+vous avez été fatigué(e)s
+ils (elles) ont été fatigué(e)s
+
+** Plus-que-parfait
+
+j'avais été fatigué(e)
+il (elle) avait été fatigué(e)
+nous avions été fatigué(e)s
+ils (elles) avaient été fatigué(e)s
+
+** Passé antérieur
+
+j'eus été fatigué(e)
+tu eus été fatigué(e)
+il (elle) eut été fatigué(e)
+nous eûmes été fatigué(e)s
+vous eûtes été fatigué(e)s
+ils (elles) eurent été fatigué(e)s
+
+** Futur antérieur
+
+j'aurai été fatigué(e)
+tu auras été fatigué(e)
+il (elle) aura été fatigué(e)
+nous aurons été fatigué(e)s
+vous aurez été fatigué(e)s
+ils (elles) auront été fatigué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fatigué(e)
+j'aurais été fatigué(e)
+il (elle) aurait été fatigué(e)
+nous aurions été fatigué(e)s
+vous auriez été fatigué(e)s
+ils (elles) auraient été fatigué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fatigué(e)
+que tu aies été fatigué(e)
+qu’il (elle) ait été fatigué(e)
+que nous ayons été fatigué(e)s
+que vous ayez été fatigué(e)s
+qu’ils (elles) aient été fatigué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fatigué(e)
+que tu eusses été fatigué(e)
+qu’il (elle) eût été fatigué(e)
+que nous eussions été fatigué(e)s
+que vous eussiez été fatigué(e)s
+qu’ils (elles) eussent été fatigué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fatigué(e)
+ayons été fatigué(e)s
+ayez été fatigué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fatigué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fatigué(e)(s)

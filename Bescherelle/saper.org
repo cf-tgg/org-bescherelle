@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saper
+
+* INDICATIF
+
+** Présent
+
+je sape
+tu sapes
+il (elle) sape
+nous sapons
+vous sapez
+ils (elles) sapent
+
+** Imparfait
+
+je sapais
+tu sapais
+il (elle) sapait
+nous sapions
+vous sapiez
+ils (elles) sapaient
+
+** Passé simple
+
+je sapai
+tu sapas
+il (elle) sapa
+nous sapâmes
+vous sapâtes
+ils (elles) sapèrent
+
+** Futur simple
+
+je saperai
+tu saperas
+il (elle) sapera
+nous saperons
+vous saperez
+ils (elles) saperont
+
+* CONDITIONNEL
+
+** Présent
+
+je saperais
+tu saperais
+il (elle) saperait
+nous saperions
+vous saperiez
+ils (elles) saperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sape
+que tu sapes
+qu’il (elle) sape
+que nous sapions
+que vous sapiez
+qu’ils (elles) sapent
+
+** Imparfait
+
+que je sapasse
+que tu sapasses
+qu’il (elle) sapât
+que nous sapassions
+que vous sapassiez
+qu’ils (elles) sapassent
+
+* IMPÉRATIF
+
+** Présent
+
+sape
+sapons
+sapez
+
+* INFINITIF
+
+** Présent
+
+saper
+
+* PARTICIPE
+
+** Présent
+
+sapant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sapé
+tu as sapé
+il (elle) a sapé
+nous avons sapé
+vous avez sapé
+ils (elles) ont sapé
+
+** Plus-que-parfait
+
+j'avais sapé
+tu avais sapé
+il (elle) avait sapé
+nous avions sapé
+vous aviez sapé
+ils (elles) avaient sapé
+
+** Passé antérieur
+
+j'eus sapé
+tu eus sapé
+il (elle) eut sapé
+nous eûmes sapé
+vous eûtes sapé
+ils (elles) eurent sapé
+
+** Futur antérieur
+
+j'aurai sapé
+tu auras sapé
+il (elle) aura sapé
+nous aurons sapé
+vous aurez sapé
+ils (elles) auront sapé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sapé
+tu aurais sapé
+il (elle) aurait sapé
+nous aurions sapé
+vous auriez sapé
+ils (elles) auraient sapé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sapé
+que tu aies sapé
+qu’il (elle) ait sapé
+que nous ayons sapé
+que vous ayez sapé
+qu’ils (elles) aient sapé
+
+** Plus-que-parfait
+
+que j'eusse sapé
+que tu eusses sapé
+qu’il (elle) eût sapé
+que nous eussions sapé
+que vous eussiez sapé
+qu’ils (elles) eussent sapé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sapé
+ayez sapé
+
+* INFINITIF
+
+** Passé
+
+avoir sapé
+
+* PARTICIPE
+
+** Passé
+
+ayant sapé
+sapé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sapé(e)
+tu es sapé(e)
+il (elle) est sapé(e)
+nous sommes sapé(e)s
+vous êtes sapé(e)s
+ils (elles) sont sapé(e)s
+
+** Imparfait
+
+j'étais sapé(e)
+tu étais sapé(e)
+il (elle) était sapé(e)
+nous étions sapé(e)s
+vous étiez sapé(e)s
+ils (elles) étaient sapé(e)s
+
+** Passé simple
+
+je fus sapé(e)
+tu fus sapé(e)
+il (elle) fut sapé(e)
+nous fûmes sapé(e)s
+vous fûtes sapé(e)s
+ils (elles) furent sapé(e)s
+
+** Futur simple
+
+je serai sapé(e)
+tu seras sapé(e)
+il (elle) sera sapé(e)
+nous serons sapé(e)s
+vous serez sapé(e)s
+ils (elles) seront sapé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sapé(e)
+tu serais sapé(e)
+il (elle) serait sapé(e)
+nous serions sapé(e)s
+vous seriez sapé(e)s
+ils (elles) seraient sapé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sapé(e)
+que tu sois sapé(e)
+qu’il (elle) soit sapé(e)
+que nous soyons sapé(e)s
+que vous soyez sapé(e)s
+qu’ils (elles) soient sapé(e)s
+
+** Imparfait
+
+que je fusse sapé(e)
+que tu fusses sapé(e)
+qu’il (elle) fût sapé(e)
+que nous fussions sapé(e)s
+que vous fussiez sapé(e)s
+qu’ils (elles) fussent sapé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sapé(e)s
+soyez sapé(e)s
+
+* INFINITIF
+
+** Présent
+
+être sapé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sapé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sapé(e)
+tu as été sapé(e)
+il (elle) a été sapé(e)
+nous avons été sapé(e)s
+vous avez été sapé(e)s
+ils (elles) ont été sapé(e)s
+
+** Plus-que-parfait
+
+j'avais été sapé(e)
+il (elle) avait été sapé(e)
+nous avions été sapé(e)s
+ils (elles) avaient été sapé(e)s
+
+** Passé antérieur
+
+j'eus été sapé(e)
+tu eus été sapé(e)
+il (elle) eut été sapé(e)
+nous eûmes été sapé(e)s
+vous eûtes été sapé(e)s
+ils (elles) eurent été sapé(e)s
+
+** Futur antérieur
+
+j'aurai été sapé(e)
+tu auras été sapé(e)
+il (elle) aura été sapé(e)
+nous aurons été sapé(e)s
+vous aurez été sapé(e)s
+ils (elles) auront été sapé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sapé(e)
+j'aurais été sapé(e)
+il (elle) aurait été sapé(e)
+nous aurions été sapé(e)s
+vous auriez été sapé(e)s
+ils (elles) auraient été sapé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sapé(e)
+que tu aies été sapé(e)
+qu’il (elle) ait été sapé(e)
+que nous ayons été sapé(e)s
+que vous ayez été sapé(e)s
+qu’ils (elles) aient été sapé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sapé(e)
+que tu eusses été sapé(e)
+qu’il (elle) eût été sapé(e)
+que nous eussions été sapé(e)s
+que vous eussiez été sapé(e)s
+qu’ils (elles) eussent été sapé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sapé(e)
+ayons été sapé(e)s
+ayez été sapé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sapé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sapé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entamer
+
+* INDICATIF
+
+** Présent
+
+j'entame
+tu entames
+il (elle) entame
+nous entamons
+vous entamez
+ils (elles) entament
+
+** Imparfait
+
+j'entamais
+tu entamais
+il (elle) entamait
+nous entamions
+vous entamiez
+ils (elles) entamaient
+
+** Passé simple
+
+j'entamai
+tu entamas
+il (elle) entama
+nous entamâmes
+vous entamâtes
+ils (elles) entamèrent
+
+** Futur simple
+
+j'entamerai
+tu entameras
+il (elle) entamera
+nous entamerons
+vous entamerez
+ils (elles) entameront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entamerais
+tu entamerais
+il (elle) entamerait
+nous entamerions
+vous entameriez
+ils (elles) entameraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entame
+que tu entames
+qu’il (elle) entame
+que nous entamions
+que vous entamiez
+qu’ils (elles) entament
+
+** Imparfait
+
+que j'entamasse
+que tu entamasses
+qu’il (elle) entamât
+que nous entamassions
+que vous entamassiez
+qu’ils (elles) entamassent
+
+* IMPÉRATIF
+
+** Présent
+
+entame
+entamons
+entamez
+
+* INFINITIF
+
+** Présent
+
+entamer
+
+* PARTICIPE
+
+** Présent
+
+entamant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entamé
+tu as entamé
+il (elle) a entamé
+nous avons entamé
+vous avez entamé
+ils (elles) ont entamé
+
+** Plus-que-parfait
+
+j'avais entamé
+tu avais entamé
+il (elle) avait entamé
+nous avions entamé
+vous aviez entamé
+ils (elles) avaient entamé
+
+** Passé antérieur
+
+j'eus entamé
+tu eus entamé
+il (elle) eut entamé
+nous eûmes entamé
+vous eûtes entamé
+ils (elles) eurent entamé
+
+** Futur antérieur
+
+j'aurai entamé
+tu auras entamé
+il (elle) aura entamé
+nous aurons entamé
+vous aurez entamé
+ils (elles) auront entamé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entamé
+tu aurais entamé
+il (elle) aurait entamé
+nous aurions entamé
+vous auriez entamé
+ils (elles) auraient entamé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entamé
+que tu aies entamé
+qu’il (elle) ait entamé
+que nous ayons entamé
+que vous ayez entamé
+qu’ils (elles) aient entamé
+
+** Plus-que-parfait
+
+que j'eusse entamé
+que tu eusses entamé
+qu’il (elle) eût entamé
+que nous eussions entamé
+que vous eussiez entamé
+qu’ils (elles) eussent entamé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entamé
+ayez entamé
+
+* INFINITIF
+
+** Passé
+
+avoir entamé
+
+* PARTICIPE
+
+** Passé
+
+ayant entamé
+entamé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis entamé(e)
+tu es entamé(e)
+il (elle) est entamé(e)
+nous sommes entamé(e)s
+vous êtes entamé(e)s
+ils (elles) sont entamé(e)s
+
+** Imparfait
+
+j'étais entamé(e)
+tu étais entamé(e)
+il (elle) était entamé(e)
+nous étions entamé(e)s
+vous étiez entamé(e)s
+ils (elles) étaient entamé(e)s
+
+** Passé simple
+
+je fus entamé(e)
+tu fus entamé(e)
+il (elle) fut entamé(e)
+nous fûmes entamé(e)s
+vous fûtes entamé(e)s
+ils (elles) furent entamé(e)s
+
+** Futur simple
+
+je serai entamé(e)
+tu seras entamé(e)
+il (elle) sera entamé(e)
+nous serons entamé(e)s
+vous serez entamé(e)s
+ils (elles) seront entamé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entamé(e)
+tu serais entamé(e)
+il (elle) serait entamé(e)
+nous serions entamé(e)s
+vous seriez entamé(e)s
+ils (elles) seraient entamé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entamé(e)
+que tu sois entamé(e)
+qu’il (elle) soit entamé(e)
+que nous soyons entamé(e)s
+que vous soyez entamé(e)s
+qu’ils (elles) soient entamé(e)s
+
+** Imparfait
+
+que je fusse entamé(e)
+que tu fusses entamé(e)
+qu’il (elle) fût entamé(e)
+que nous fussions entamé(e)s
+que vous fussiez entamé(e)s
+qu’ils (elles) fussent entamé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entamé(e)s
+soyez entamé(e)s
+
+* INFINITIF
+
+** Présent
+
+être entamé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entamé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entamé(e)
+tu as été entamé(e)
+il (elle) a été entamé(e)
+nous avons été entamé(e)s
+vous avez été entamé(e)s
+ils (elles) ont été entamé(e)s
+
+** Plus-que-parfait
+
+j'avais été entamé(e)
+il (elle) avait été entamé(e)
+nous avions été entamé(e)s
+ils (elles) avaient été entamé(e)s
+
+** Passé antérieur
+
+j'eus été entamé(e)
+tu eus été entamé(e)
+il (elle) eut été entamé(e)
+nous eûmes été entamé(e)s
+vous eûtes été entamé(e)s
+ils (elles) eurent été entamé(e)s
+
+** Futur antérieur
+
+j'aurai été entamé(e)
+tu auras été entamé(e)
+il (elle) aura été entamé(e)
+nous aurons été entamé(e)s
+vous aurez été entamé(e)s
+ils (elles) auront été entamé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entamé(e)
+j'aurais été entamé(e)
+il (elle) aurait été entamé(e)
+nous aurions été entamé(e)s
+vous auriez été entamé(e)s
+ils (elles) auraient été entamé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entamé(e)
+que tu aies été entamé(e)
+qu’il (elle) ait été entamé(e)
+que nous ayons été entamé(e)s
+que vous ayez été entamé(e)s
+qu’ils (elles) aient été entamé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entamé(e)
+que tu eusses été entamé(e)
+qu’il (elle) eût été entamé(e)
+que nous eussions été entamé(e)s
+que vous eussiez été entamé(e)s
+qu’ils (elles) eussent été entamé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entamé(e)
+ayons été entamé(e)s
+ayez été entamé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entamé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entamé(e)(s)

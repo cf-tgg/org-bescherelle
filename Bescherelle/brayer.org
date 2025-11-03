@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brayer
+
+* INDICATIF
+
+** Présent
+
+je braye
+tu brayes
+il (elle) braye
+nous brayons
+vous brayez
+ils (elles) brayent
+
+** Imparfait
+
+je brayais
+tu brayais
+il (elle) brayait
+nous brayions
+vous brayiez
+ils (elles) brayaient
+
+** Passé simple
+
+je brayai
+tu brayas
+il (elle) braya
+nous brayâmes
+vous brayâtes
+ils (elles) brayèrent
+
+** Futur simple
+
+je brayerai
+tu brayeras
+il (elle) brayera
+nous brayerons
+vous brayerez
+ils (elles) brayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je brayerais
+tu brayerais
+il (elle) brayerait
+nous brayerions
+vous brayeriez
+ils (elles) brayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je braye
+que tu brayes
+qu’il (elle) braye
+que nous brayions
+que vous brayiez
+qu’ils (elles) brayent
+
+** Imparfait
+
+que je brayasse
+que tu brayasses
+qu’il (elle) brayât
+que nous brayassions
+que vous brayassiez
+qu’ils (elles) brayassent
+
+* IMPÉRATIF
+
+** Présent
+
+braye
+brayons
+brayez
+
+* INFINITIF
+
+** Présent
+
+brayer
+
+* PARTICIPE
+
+** Présent
+
+brayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brayé
+tu as brayé
+il (elle) a brayé
+nous avons brayé
+vous avez brayé
+ils (elles) ont brayé
+
+** Plus-que-parfait
+
+j'avais brayé
+tu avais brayé
+il (elle) avait brayé
+nous avions brayé
+vous aviez brayé
+ils (elles) avaient brayé
+
+** Passé antérieur
+
+j'eus brayé
+tu eus brayé
+il (elle) eut brayé
+nous eûmes brayé
+vous eûtes brayé
+ils (elles) eurent brayé
+
+** Futur antérieur
+
+j'aurai brayé
+tu auras brayé
+il (elle) aura brayé
+nous aurons brayé
+vous aurez brayé
+ils (elles) auront brayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brayé
+tu aurais brayé
+il (elle) aurait brayé
+nous aurions brayé
+vous auriez brayé
+ils (elles) auraient brayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brayé
+que tu aies brayé
+qu’il (elle) ait brayé
+que nous ayons brayé
+que vous ayez brayé
+qu’ils (elles) aient brayé
+
+** Plus-que-parfait
+
+que j'eusse brayé
+que tu eusses brayé
+qu’il (elle) eût brayé
+que nous eussions brayé
+que vous eussiez brayé
+qu’ils (elles) eussent brayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brayé
+ayez brayé
+
+* INFINITIF
+
+** Passé
+
+avoir brayé
+
+* PARTICIPE
+
+** Passé
+
+ayant brayé
+brayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis brayé(e)
+tu es brayé(e)
+il (elle) est brayé(e)
+nous sommes brayé(e)s
+vous êtes brayé(e)s
+ils (elles) sont brayé(e)s
+
+** Imparfait
+
+j'étais brayé(e)
+tu étais brayé(e)
+il (elle) était brayé(e)
+nous étions brayé(e)s
+vous étiez brayé(e)s
+ils (elles) étaient brayé(e)s
+
+** Passé simple
+
+je fus brayé(e)
+tu fus brayé(e)
+il (elle) fut brayé(e)
+nous fûmes brayé(e)s
+vous fûtes brayé(e)s
+ils (elles) furent brayé(e)s
+
+** Futur simple
+
+je serai brayé(e)
+tu seras brayé(e)
+il (elle) sera brayé(e)
+nous serons brayé(e)s
+vous serez brayé(e)s
+ils (elles) seront brayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais brayé(e)
+tu serais brayé(e)
+il (elle) serait brayé(e)
+nous serions brayé(e)s
+vous seriez brayé(e)s
+ils (elles) seraient brayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois brayé(e)
+que tu sois brayé(e)
+qu’il (elle) soit brayé(e)
+que nous soyons brayé(e)s
+que vous soyez brayé(e)s
+qu’ils (elles) soient brayé(e)s
+
+** Imparfait
+
+que je fusse brayé(e)
+que tu fusses brayé(e)
+qu’il (elle) fût brayé(e)
+que nous fussions brayé(e)s
+que vous fussiez brayé(e)s
+qu’ils (elles) fussent brayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons brayé(e)s
+soyez brayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être brayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant brayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été brayé(e)
+tu as été brayé(e)
+il (elle) a été brayé(e)
+nous avons été brayé(e)s
+vous avez été brayé(e)s
+ils (elles) ont été brayé(e)s
+
+** Plus-que-parfait
+
+j'avais été brayé(e)
+il (elle) avait été brayé(e)
+nous avions été brayé(e)s
+ils (elles) avaient été brayé(e)s
+
+** Passé antérieur
+
+j'eus été brayé(e)
+tu eus été brayé(e)
+il (elle) eut été brayé(e)
+nous eûmes été brayé(e)s
+vous eûtes été brayé(e)s
+ils (elles) eurent été brayé(e)s
+
+** Futur antérieur
+
+j'aurai été brayé(e)
+tu auras été brayé(e)
+il (elle) aura été brayé(e)
+nous aurons été brayé(e)s
+vous aurez été brayé(e)s
+ils (elles) auront été brayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été brayé(e)
+j'aurais été brayé(e)
+il (elle) aurait été brayé(e)
+nous aurions été brayé(e)s
+vous auriez été brayé(e)s
+ils (elles) auraient été brayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été brayé(e)
+que tu aies été brayé(e)
+qu’il (elle) ait été brayé(e)
+que nous ayons été brayé(e)s
+que vous ayez été brayé(e)s
+qu’ils (elles) aient été brayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été brayé(e)
+que tu eusses été brayé(e)
+qu’il (elle) eût été brayé(e)
+que nous eussions été brayé(e)s
+que vous eussiez été brayé(e)s
+qu’ils (elles) eussent été brayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été brayé(e)
+ayons été brayé(e)s
+ayez été brayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été brayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été brayé(e)(s)

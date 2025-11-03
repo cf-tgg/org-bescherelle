@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avoyer
+
+* INDICATIF
+
+** Présent
+
+j'avoie
+tu avoies
+il (elle) avoie
+nous avoyons
+vous avoyez
+ils (elles) avoient
+
+** Imparfait
+
+j'avoyais
+tu avoyais
+il (elle) avoyait
+nous avoyions
+vous avoyiez
+ils (elles) avoyaient
+
+** Passé simple
+
+j'avoyai
+tu avoyas
+il (elle) avoya
+nous avoyâmes
+vous avoyâtes
+ils (elles) avoyèrent
+
+** Futur simple
+
+j'avoierai
+tu avoieras
+il (elle) avoiera
+nous avoierons
+vous avoierez
+ils (elles) avoieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'avoierais
+tu avoierais
+il (elle) avoierait
+nous avoierions
+vous avoieriez
+ils (elles) avoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avoie
+que tu avoies
+qu’il (elle) avoie
+que nous avoyions
+que vous avoyiez
+qu’ils (elles) avoient
+
+** Imparfait
+
+que j'avoyasse
+que tu avoyasses
+qu’il (elle) avoyât
+que nous avoyassions
+que vous avoyassiez
+qu’ils (elles) avoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+avoie
+avoyons
+avoyez
+
+* INFINITIF
+
+** Présent
+
+avoyer
+
+* PARTICIPE
+
+** Présent
+
+avoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai avoyé
+tu as avoyé
+il (elle) a avoyé
+nous avons avoyé
+vous avez avoyé
+ils (elles) ont avoyé
+
+** Plus-que-parfait
+
+j'avais avoyé
+tu avais avoyé
+il (elle) avait avoyé
+nous avions avoyé
+vous aviez avoyé
+ils (elles) avaient avoyé
+
+** Passé antérieur
+
+j'eus avoyé
+tu eus avoyé
+il (elle) eut avoyé
+nous eûmes avoyé
+vous eûtes avoyé
+ils (elles) eurent avoyé
+
+** Futur antérieur
+
+j'aurai avoyé
+tu auras avoyé
+il (elle) aura avoyé
+nous aurons avoyé
+vous aurez avoyé
+ils (elles) auront avoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais avoyé
+tu aurais avoyé
+il (elle) aurait avoyé
+nous aurions avoyé
+vous auriez avoyé
+ils (elles) auraient avoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie avoyé
+que tu aies avoyé
+qu’il (elle) ait avoyé
+que nous ayons avoyé
+que vous ayez avoyé
+qu’ils (elles) aient avoyé
+
+** Plus-que-parfait
+
+que j'eusse avoyé
+que tu eusses avoyé
+qu’il (elle) eût avoyé
+que nous eussions avoyé
+que vous eussiez avoyé
+qu’ils (elles) eussent avoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons avoyé
+ayez avoyé
+
+* INFINITIF
+
+** Passé
+
+avoir avoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant avoyé
+avoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis avoyé(e)
+tu es avoyé(e)
+il (elle) est avoyé(e)
+nous sommes avoyé(e)s
+vous êtes avoyé(e)s
+ils (elles) sont avoyé(e)s
+
+** Imparfait
+
+j'étais avoyé(e)
+tu étais avoyé(e)
+il (elle) était avoyé(e)
+nous étions avoyé(e)s
+vous étiez avoyé(e)s
+ils (elles) étaient avoyé(e)s
+
+** Passé simple
+
+je fus avoyé(e)
+tu fus avoyé(e)
+il (elle) fut avoyé(e)
+nous fûmes avoyé(e)s
+vous fûtes avoyé(e)s
+ils (elles) furent avoyé(e)s
+
+** Futur simple
+
+je serai avoyé(e)
+tu seras avoyé(e)
+il (elle) sera avoyé(e)
+nous serons avoyé(e)s
+vous serez avoyé(e)s
+ils (elles) seront avoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais avoyé(e)
+tu serais avoyé(e)
+il (elle) serait avoyé(e)
+nous serions avoyé(e)s
+vous seriez avoyé(e)s
+ils (elles) seraient avoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois avoyé(e)
+que tu sois avoyé(e)
+qu’il (elle) soit avoyé(e)
+que nous soyons avoyé(e)s
+que vous soyez avoyé(e)s
+qu’ils (elles) soient avoyé(e)s
+
+** Imparfait
+
+que je fusse avoyé(e)
+que tu fusses avoyé(e)
+qu’il (elle) fût avoyé(e)
+que nous fussions avoyé(e)s
+que vous fussiez avoyé(e)s
+qu’ils (elles) fussent avoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons avoyé(e)s
+soyez avoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être avoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant avoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été avoyé(e)
+tu as été avoyé(e)
+il (elle) a été avoyé(e)
+nous avons été avoyé(e)s
+vous avez été avoyé(e)s
+ils (elles) ont été avoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été avoyé(e)
+il (elle) avait été avoyé(e)
+nous avions été avoyé(e)s
+ils (elles) avaient été avoyé(e)s
+
+** Passé antérieur
+
+j'eus été avoyé(e)
+tu eus été avoyé(e)
+il (elle) eut été avoyé(e)
+nous eûmes été avoyé(e)s
+vous eûtes été avoyé(e)s
+ils (elles) eurent été avoyé(e)s
+
+** Futur antérieur
+
+j'aurai été avoyé(e)
+tu auras été avoyé(e)
+il (elle) aura été avoyé(e)
+nous aurons été avoyé(e)s
+vous aurez été avoyé(e)s
+ils (elles) auront été avoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été avoyé(e)
+j'aurais été avoyé(e)
+il (elle) aurait été avoyé(e)
+nous aurions été avoyé(e)s
+vous auriez été avoyé(e)s
+ils (elles) auraient été avoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été avoyé(e)
+que tu aies été avoyé(e)
+qu’il (elle) ait été avoyé(e)
+que nous ayons été avoyé(e)s
+que vous ayez été avoyé(e)s
+qu’ils (elles) aient été avoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été avoyé(e)
+que tu eusses été avoyé(e)
+qu’il (elle) eût été avoyé(e)
+que nous eussions été avoyé(e)s
+que vous eussiez été avoyé(e)s
+qu’ils (elles) eussent été avoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été avoyé(e)
+ayons été avoyé(e)s
+ayez été avoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été avoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été avoyé(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe succeder
+
+* INDICATIF
+
+** Présent
+
+je succède
+tu succèdes
+il (elle) succède
+nous succédons
+vous succédez
+ils (elles) succèdent
+
+** Imparfait
+
+je succédais
+tu succédais
+il (elle) succédait
+nous succédions
+vous succédiez
+ils (elles) succédaient
+
+** Passé simple
+
+je succédai
+tu succédas
+il (elle) succéda
+nous succédâmes
+vous succédâtes
+ils (elles) succédèrent
+
+** Futur simple
+
+je succéderai
+tu succéderas
+il (elle) succédera
+nous succéderons
+vous succéderez
+ils (elles) succéderont
+
+* CONDITIONNEL
+
+** Présent
+
+je succéderais
+tu succéderais
+il (elle) succéderait
+nous succéderions
+vous succéderiez
+ils (elles) succéderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je succède
+que tu succèdes
+qu’il (elle) succède
+que nous succédions
+que vous succédiez
+qu’ils (elles) succèdent
+
+** Imparfait
+
+que je succédasse
+que tu succédasses
+qu’il (elle) succédât
+que nous succédassions
+que vous succédassiez
+qu’ils (elles) succédassent
+
+* IMPÉRATIF
+
+** Présent
+
+succède
+succédons
+succédez
+
+* INFINITIF
+
+** Présent
+
+succéder
+
+* PARTICIPE
+
+** Présent
+
+succédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai succédé
+tu as succédé
+il (elle) a succédé
+nous avons succédé
+vous avez succédé
+ils (elles) ont succédé
+
+** Plus-que-parfait
+
+j'avais succédé
+tu avais succédé
+il (elle) avait succédé
+nous avions succédé
+vous aviez succédé
+ils (elles) avaient succédé
+
+** Passé antérieur
+
+j'eus succédé
+tu eus succédé
+il (elle) eut succédé
+nous eûmes succédé
+vous eûtes succédé
+ils (elles) eurent succédé
+
+** Futur antérieur
+
+j'aurai succédé
+tu auras succédé
+il (elle) aura succédé
+nous aurons succédé
+vous aurez succédé
+ils (elles) auront succédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais succédé
+tu aurais succédé
+il (elle) aurait succédé
+nous aurions succédé
+vous auriez succédé
+ils (elles) auraient succédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie succédé
+que tu aies succédé
+qu’il (elle) ait succédé
+que nous ayons succédé
+que vous ayez succédé
+qu’ils (elles) aient succédé
+
+** Plus-que-parfait
+
+que j'eusse succédé
+que tu eusses succédé
+qu’il (elle) eût succédé
+que nous eussions succédé
+que vous eussiez succédé
+qu’ils (elles) eussent succédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons succédé
+ayez succédé
+
+* INFINITIF
+
+** Passé
+
+avoir succédé
+
+* PARTICIPE
+
+** Passé
+
+ayant succédé
+succédé (invar.)

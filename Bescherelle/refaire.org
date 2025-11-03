@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe refaire
+
+* INDICATIF
+
+** Présent
+
+je refais
+tu refais
+il (elle) refait
+nous refaisons
+vous refaites
+ils (elles) refont
+
+** Imparfait
+
+je refaisais
+tu refaisais
+il (elle) refaisait
+nous refaisions
+vous refaisiez
+ils (elles) refaisaient
+
+** Passé simple
+
+je refis
+tu refis
+il (elle) refit
+nous refîmes
+vous refîtes
+ils (elles) refirent
+
+** Futur simple
+
+je referai
+tu referas
+il (elle) refera
+nous referons
+vous referez
+ils (elles) referont
+
+* CONDITIONNEL
+
+** Présent
+
+je referais
+tu referais
+il (elle) referait
+nous referions
+vous referiez
+ils (elles) referaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je refasse
+que tu refasses
+qu’il (elle) refasse
+que nous refassions
+que vous refassiez
+qu’ils (elles) refassent
+
+** Imparfait
+
+que je refisse
+que tu refisses
+qu’il (elle) refît
+que nous refissions
+que vous refissiez
+qu’ils (elles) refissent
+
+* IMPÉRATIF
+
+** Présent
+
+refais
+refaisons
+refaites
+
+* INFINITIF
+
+** Présent
+
+refaire
+
+* PARTICIPE
+
+** Présent
+
+refaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai refait
+tu as refait
+il (elle) a refait
+nous avons refait
+vous avez refait
+ils (elles) ont refait
+
+** Plus-que-parfait
+
+j'avais refait
+tu avais refait
+il (elle) avait refait
+nous avions refait
+vous aviez refait
+ils (elles) avaient refait
+
+** Passé antérieur
+
+j'eus refait
+tu eus refait
+il (elle) eut refait
+nous eûmes refait
+vous eûtes refait
+ils (elles) eurent refait
+
+** Futur antérieur
+
+j'aurai refait
+tu auras refait
+il (elle) aura refait
+nous aurons refait
+vous aurez refait
+ils (elles) auront refait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais refait
+tu aurais refait
+il (elle) aurait refait
+nous aurions refait
+vous auriez refait
+ils (elles) auraient refait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie refait
+que tu aies refait
+qu’il (elle) ait refait
+que nous ayons refait
+que vous ayez refait
+qu’ils (elles) aient refait
+
+** Plus-que-parfait
+
+que j'eusse refait
+que tu eusses refait
+qu’il (elle) eût refait
+que nous eussions refait
+que vous eussiez refait
+qu’ils (elles) eussent refait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons refait
+ayez refait
+
+* INFINITIF
+
+** Passé
+
+avoir refait
+
+* PARTICIPE
+
+** Passé
+
+ayant refait
+refait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis refait(e)
+tu es refait(e)
+il (elle) est refait(e)
+nous sommes refait(e)s
+vous êtes refait(e)s
+ils (elles) sont refait(e)s
+
+** Imparfait
+
+j'étais refait(e)
+tu étais refait(e)
+il (elle) était refait(e)
+nous étions refait(e)s
+vous étiez refait(e)s
+ils (elles) étaient refait(e)s
+
+** Passé simple
+
+je fus refait(e)
+tu fus refait(e)
+il (elle) fut refait(e)
+nous fûmes refait(e)s
+vous fûtes refait(e)s
+ils (elles) furent refait(e)s
+
+** Futur simple
+
+je serai refait(e)
+tu seras refait(e)
+il (elle) sera refait(e)
+nous serons refait(e)s
+vous serez refait(e)s
+ils (elles) seront refait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais refait(e)
+tu serais refait(e)
+il (elle) serait refait(e)
+nous serions refait(e)s
+vous seriez refait(e)s
+ils (elles) seraient refait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois refait(e)
+que tu sois refait(e)
+qu’il (elle) soit refait(e)
+que nous soyons refait(e)s
+que vous soyez refait(e)s
+qu’ils (elles) soient refait(e)s
+
+** Imparfait
+
+que je fusse refait(e)
+que tu fusses refait(e)
+qu’il (elle) fût refait(e)
+que nous fussions refait(e)s
+que vous fussiez refait(e)s
+qu’ils (elles) fussent refait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons refait(e)s
+soyez refait(e)s
+
+* INFINITIF
+
+** Présent
+
+être refait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant refait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été refait(e)
+tu as été refait(e)
+il (elle) a été refait(e)
+nous avons été refait(e)s
+vous avez été refait(e)s
+ils (elles) ont été refait(e)s
+
+** Plus-que-parfait
+
+j'avais été refait(e)
+il (elle) avait été refait(e)
+nous avions été refait(e)s
+ils (elles) avaient été refait(e)s
+
+** Passé antérieur
+
+j'eus été refait(e)
+tu eus été refait(e)
+il (elle) eut été refait(e)
+nous eûmes été refait(e)s
+vous eûtes été refait(e)s
+ils (elles) eurent été refait(e)s
+
+** Futur antérieur
+
+j'aurai été refait(e)
+tu auras été refait(e)
+il (elle) aura été refait(e)
+nous aurons été refait(e)s
+vous aurez été refait(e)s
+ils (elles) auront été refait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été refait(e)
+j'aurais été refait(e)
+il (elle) aurait été refait(e)
+nous aurions été refait(e)s
+vous auriez été refait(e)s
+ils (elles) auraient été refait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été refait(e)
+que tu aies été refait(e)
+qu’il (elle) ait été refait(e)
+que nous ayons été refait(e)s
+que vous ayez été refait(e)s
+qu’ils (elles) aient été refait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été refait(e)
+que tu eusses été refait(e)
+qu’il (elle) eût été refait(e)
+que nous eussions été refait(e)s
+que vous eussiez été refait(e)s
+qu’ils (elles) eussent été refait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été refait(e)
+ayons été refait(e)s
+ayez été refait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été refait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été refait(e)(s)

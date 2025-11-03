@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe huer
+
+* INDICATIF
+
+** Présent
+
+je hue
+tu hues
+il (elle) hue
+nous huons
+vous huez
+ils (elles) huent
+
+** Imparfait
+
+je huais
+tu huais
+il (elle) huait
+nous huions
+vous huiez
+ils (elles) huaient
+
+** Passé simple
+
+je huai
+tu huas
+il (elle) hua
+nous huâmes
+vous huâtes
+ils (elles) huèrent
+
+** Futur simple
+
+je huerai
+tu hueras
+il (elle) huera
+nous huerons
+vous huerez
+ils (elles) hueront
+
+* CONDITIONNEL
+
+** Présent
+
+je huerais
+tu huerais
+il (elle) huerait
+nous huerions
+vous hueriez
+ils (elles) hueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hue
+que tu hues
+qu’il (elle) hue
+que nous huions
+que vous huiez
+qu’ils (elles) huent
+
+** Imparfait
+
+que je huasse
+que tu huasses
+qu’il (elle) huât
+que nous huassions
+que vous huassiez
+qu’ils (elles) huassent
+
+* IMPÉRATIF
+
+** Présent
+
+hue
+huons
+huez
+
+* INFINITIF
+
+** Présent
+
+huer
+
+* PARTICIPE
+
+** Présent
+
+huant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai hué
+tu as hué
+il (elle) a hué
+nous avons hué
+vous avez hué
+ils (elles) ont hué
+
+** Plus-que-parfait
+
+j'avais hué
+tu avais hué
+il (elle) avait hué
+nous avions hué
+vous aviez hué
+ils (elles) avaient hué
+
+** Passé antérieur
+
+j'eus hué
+tu eus hué
+il (elle) eut hué
+nous eûmes hué
+vous eûtes hué
+ils (elles) eurent hué
+
+** Futur antérieur
+
+j'aurai hué
+tu auras hué
+il (elle) aura hué
+nous aurons hué
+vous aurez hué
+ils (elles) auront hué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais hué
+tu aurais hué
+il (elle) aurait hué
+nous aurions hué
+vous auriez hué
+ils (elles) auraient hué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie hué
+que tu aies hué
+qu’il (elle) ait hué
+que nous ayons hué
+que vous ayez hué
+qu’ils (elles) aient hué
+
+** Plus-que-parfait
+
+que j'eusse hué
+que tu eusses hué
+qu’il (elle) eût hué
+que nous eussions hué
+que vous eussiez hué
+qu’ils (elles) eussent hué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons hué
+ayez hué
+
+* INFINITIF
+
+** Passé
+
+avoir hué
+
+* PARTICIPE
+
+** Passé
+
+ayant hué
+hué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis hué(e)
+tu es hué(e)
+il (elle) est hué(e)
+nous sommes hué(e)s
+vous êtes hué(e)s
+ils (elles) sont hué(e)s
+
+** Imparfait
+
+j'étais hué(e)
+tu étais hué(e)
+il (elle) était hué(e)
+nous étions hué(e)s
+vous étiez hué(e)s
+ils (elles) étaient hué(e)s
+
+** Passé simple
+
+je fus hué(e)
+tu fus hué(e)
+il (elle) fut hué(e)
+nous fûmes hué(e)s
+vous fûtes hué(e)s
+ils (elles) furent hué(e)s
+
+** Futur simple
+
+je serai hué(e)
+tu seras hué(e)
+il (elle) sera hué(e)
+nous serons hué(e)s
+vous serez hué(e)s
+ils (elles) seront hué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais hué(e)
+tu serais hué(e)
+il (elle) serait hué(e)
+nous serions hué(e)s
+vous seriez hué(e)s
+ils (elles) seraient hué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois hué(e)
+que tu sois hué(e)
+qu’il (elle) soit hué(e)
+que nous soyons hué(e)s
+que vous soyez hué(e)s
+qu’ils (elles) soient hué(e)s
+
+** Imparfait
+
+que je fusse hué(e)
+que tu fusses hué(e)
+qu’il (elle) fût hué(e)
+que nous fussions hué(e)s
+que vous fussiez hué(e)s
+qu’ils (elles) fussent hué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons hué(e)s
+soyez hué(e)s
+
+* INFINITIF
+
+** Présent
+
+être hué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant hué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été hué(e)
+tu as été hué(e)
+il (elle) a été hué(e)
+nous avons été hué(e)s
+vous avez été hué(e)s
+ils (elles) ont été hué(e)s
+
+** Plus-que-parfait
+
+j'avais été hué(e)
+il (elle) avait été hué(e)
+nous avions été hué(e)s
+ils (elles) avaient été hué(e)s
+
+** Passé antérieur
+
+j'eus été hué(e)
+tu eus été hué(e)
+il (elle) eut été hué(e)
+nous eûmes été hué(e)s
+vous eûtes été hué(e)s
+ils (elles) eurent été hué(e)s
+
+** Futur antérieur
+
+j'aurai été hué(e)
+tu auras été hué(e)
+il (elle) aura été hué(e)
+nous aurons été hué(e)s
+vous aurez été hué(e)s
+ils (elles) auront été hué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été hué(e)
+j'aurais été hué(e)
+il (elle) aurait été hué(e)
+nous aurions été hué(e)s
+vous auriez été hué(e)s
+ils (elles) auraient été hué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été hué(e)
+que tu aies été hué(e)
+qu’il (elle) ait été hué(e)
+que nous ayons été hué(e)s
+que vous ayez été hué(e)s
+qu’ils (elles) aient été hué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été hué(e)
+que tu eusses été hué(e)
+qu’il (elle) eût été hué(e)
+que nous eussions été hué(e)s
+que vous eussiez été hué(e)s
+qu’ils (elles) eussent été hué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été hué(e)
+ayons été hué(e)s
+ayez été hué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été hué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été hué(e)(s)

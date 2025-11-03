@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe manger
+
+* INDICATIF
+
+** Présent
+
+je mange
+tu manges
+il (elle) mange
+nous mangeons
+vous mangez
+ils (elles) mangent
+
+** Imparfait
+
+je mangeais
+tu mangeais
+il (elle) mangeait
+nous mangions
+vous mangiez
+ils (elles) mangeaient
+
+** Passé simple
+
+je mangeai
+tu mangeas
+il (elle) mangea
+nous mangeâmes
+vous mangeâtes
+ils (elles) mangèrent
+
+** Futur simple
+
+je mangerai
+tu mangeras
+il (elle) mangera
+nous mangerons
+vous mangerez
+ils (elles) mangeront
+
+* CONDITIONNEL
+
+** Présent
+
+je mangerais
+tu mangerais
+il (elle) mangerait
+nous mangerions
+vous mangeriez
+ils (elles) mangeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mange
+que tu manges
+qu’il (elle) mange
+que nous mangions
+que vous mangiez
+qu’ils (elles) mangent
+
+** Imparfait
+
+que je mangeasse
+que tu mangeasses
+qu’il (elle) mangeât
+que nous mangeassions
+que vous mangeassiez
+qu’ils (elles) mangeassent
+
+* IMPÉRATIF
+
+** Présent
+
+mange
+mangeons
+mangez
+
+* INFINITIF
+
+** Présent
+
+manger
+
+* PARTICIPE
+
+** Présent
+
+mangeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mangé
+tu as mangé
+il (elle) a mangé
+nous avons mangé
+vous avez mangé
+ils (elles) ont mangé
+
+** Plus-que-parfait
+
+j'avais mangé
+tu avais mangé
+il (elle) avait mangé
+nous avions mangé
+vous aviez mangé
+ils (elles) avaient mangé
+
+** Passé antérieur
+
+j'eus mangé
+tu eus mangé
+il (elle) eut mangé
+nous eûmes mangé
+vous eûtes mangé
+ils (elles) eurent mangé
+
+** Futur antérieur
+
+j'aurai mangé
+tu auras mangé
+il (elle) aura mangé
+nous aurons mangé
+vous aurez mangé
+ils (elles) auront mangé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mangé
+tu aurais mangé
+il (elle) aurait mangé
+nous aurions mangé
+vous auriez mangé
+ils (elles) auraient mangé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mangé
+que tu aies mangé
+qu’il (elle) ait mangé
+que nous ayons mangé
+que vous ayez mangé
+qu’ils (elles) aient mangé
+
+** Plus-que-parfait
+
+que j'eusse mangé
+que tu eusses mangé
+qu’il (elle) eût mangé
+que nous eussions mangé
+que vous eussiez mangé
+qu’ils (elles) eussent mangé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mangé
+ayez mangé
+
+* INFINITIF
+
+** Passé
+
+avoir mangé
+
+* PARTICIPE
+
+** Passé
+
+ayant mangé
+mangé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mangé(e)
+tu es mangé(e)
+il (elle) est mangé(e)
+nous sommes mangé(e)s
+vous êtes mangé(e)s
+ils (elles) sont mangé(e)s
+
+** Imparfait
+
+j'étais mangé(e)
+tu étais mangé(e)
+il (elle) était mangé(e)
+nous étions mangé(e)s
+vous étiez mangé(e)s
+ils (elles) étaient mangé(e)s
+
+** Passé simple
+
+je fus mangé(e)
+tu fus mangé(e)
+il (elle) fut mangé(e)
+nous fûmes mangé(e)s
+vous fûtes mangé(e)s
+ils (elles) furent mangé(e)s
+
+** Futur simple
+
+je serai mangé(e)
+tu seras mangé(e)
+il (elle) sera mangé(e)
+nous serons mangé(e)s
+vous serez mangé(e)s
+ils (elles) seront mangé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mangé(e)
+tu serais mangé(e)
+il (elle) serait mangé(e)
+nous serions mangé(e)s
+vous seriez mangé(e)s
+ils (elles) seraient mangé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mangé(e)
+que tu sois mangé(e)
+qu’il (elle) soit mangé(e)
+que nous soyons mangé(e)s
+que vous soyez mangé(e)s
+qu’ils (elles) soient mangé(e)s
+
+** Imparfait
+
+que je fusse mangé(e)
+que tu fusses mangé(e)
+qu’il (elle) fût mangé(e)
+que nous fussions mangé(e)s
+que vous fussiez mangé(e)s
+qu’ils (elles) fussent mangé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mangé(e)s
+soyez mangé(e)s
+
+* INFINITIF
+
+** Présent
+
+être mangé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mangé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mangé(e)
+tu as été mangé(e)
+il (elle) a été mangé(e)
+nous avons été mangé(e)s
+vous avez été mangé(e)s
+ils (elles) ont été mangé(e)s
+
+** Plus-que-parfait
+
+j'avais été mangé(e)
+il (elle) avait été mangé(e)
+nous avions été mangé(e)s
+ils (elles) avaient été mangé(e)s
+
+** Passé antérieur
+
+j'eus été mangé(e)
+tu eus été mangé(e)
+il (elle) eut été mangé(e)
+nous eûmes été mangé(e)s
+vous eûtes été mangé(e)s
+ils (elles) eurent été mangé(e)s
+
+** Futur antérieur
+
+j'aurai été mangé(e)
+tu auras été mangé(e)
+il (elle) aura été mangé(e)
+nous aurons été mangé(e)s
+vous aurez été mangé(e)s
+ils (elles) auront été mangé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mangé(e)
+j'aurais été mangé(e)
+il (elle) aurait été mangé(e)
+nous aurions été mangé(e)s
+vous auriez été mangé(e)s
+ils (elles) auraient été mangé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mangé(e)
+que tu aies été mangé(e)
+qu’il (elle) ait été mangé(e)
+que nous ayons été mangé(e)s
+que vous ayez été mangé(e)s
+qu’ils (elles) aient été mangé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mangé(e)
+que tu eusses été mangé(e)
+qu’il (elle) eût été mangé(e)
+que nous eussions été mangé(e)s
+que vous eussiez été mangé(e)s
+qu’ils (elles) eussent été mangé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mangé(e)
+ayons été mangé(e)s
+ayez été mangé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mangé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mangé(e)(s)

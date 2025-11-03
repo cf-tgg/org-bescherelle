@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe chanceler
+
+* INDICATIF
+
+** Présent
+
+je chancelle
+tu chancelles
+il (elle) chancelle
+nous chancelons
+vous chancelez
+ils (elles) chancellent
+
+** Imparfait
+
+je chancelais
+tu chancelais
+il (elle) chancelait
+nous chancelions
+vous chanceliez
+ils (elles) chancelaient
+
+** Passé simple
+
+je chancelai
+tu chancelas
+il (elle) chancela
+nous chancelâmes
+vous chancelâtes
+ils (elles) chancelèrent
+
+** Futur simple
+
+je chancellerai
+tu chancelleras
+il (elle) chancellera
+nous chancellerons
+vous chancellerez
+ils (elles) chancelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je chancellerais
+tu chancellerais
+il (elle) chancellerait
+nous chancellerions
+vous chancelleriez
+ils (elles) chancelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chancelle
+que tu chancelles
+qu’il (elle) chancelle
+que nous chancelions
+que vous chanceliez
+qu’ils (elles) chancellent
+
+** Imparfait
+
+que je chancelasse
+que tu chancelasses
+qu’il (elle) chancelât
+que nous chancelassions
+que vous chancelassiez
+qu’ils (elles) chancelassent
+
+* IMPÉRATIF
+
+** Présent
+
+chancelle
+chancelons
+chancelez
+
+* INFINITIF
+
+** Présent
+
+chanceler
+
+* PARTICIPE
+
+** Présent
+
+chancelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chancelé
+tu as chancelé
+il (elle) a chancelé
+nous avons chancelé
+vous avez chancelé
+ils (elles) ont chancelé
+
+** Plus-que-parfait
+
+j'avais chancelé
+tu avais chancelé
+il (elle) avait chancelé
+nous avions chancelé
+vous aviez chancelé
+ils (elles) avaient chancelé
+
+** Passé antérieur
+
+j'eus chancelé
+tu eus chancelé
+il (elle) eut chancelé
+nous eûmes chancelé
+vous eûtes chancelé
+ils (elles) eurent chancelé
+
+** Futur antérieur
+
+j'aurai chancelé
+tu auras chancelé
+il (elle) aura chancelé
+nous aurons chancelé
+vous aurez chancelé
+ils (elles) auront chancelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chancelé
+tu aurais chancelé
+il (elle) aurait chancelé
+nous aurions chancelé
+vous auriez chancelé
+ils (elles) auraient chancelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chancelé
+que tu aies chancelé
+qu’il (elle) ait chancelé
+que nous ayons chancelé
+que vous ayez chancelé
+qu’ils (elles) aient chancelé
+
+** Plus-que-parfait
+
+que j'eusse chancelé
+que tu eusses chancelé
+qu’il (elle) eût chancelé
+que nous eussions chancelé
+que vous eussiez chancelé
+qu’ils (elles) eussent chancelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chancelé
+ayez chancelé
+
+* INFINITIF
+
+** Passé
+
+avoir chancelé
+
+* PARTICIPE
+
+** Passé
+
+ayant chancelé
+chancelé (invar.)

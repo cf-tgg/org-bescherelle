@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe profiter
+
+* INDICATIF
+
+** Présent
+
+je profite
+tu profites
+il (elle) profite
+nous profitons
+vous profitez
+ils (elles) profitent
+
+** Imparfait
+
+je profitais
+tu profitais
+il (elle) profitait
+nous profitions
+vous profitiez
+ils (elles) profitaient
+
+** Passé simple
+
+je profitai
+tu profitas
+il (elle) profita
+nous profitâmes
+vous profitâtes
+ils (elles) profitèrent
+
+** Futur simple
+
+je profiterai
+tu profiteras
+il (elle) profitera
+nous profiterons
+vous profiterez
+ils (elles) profiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je profiterais
+tu profiterais
+il (elle) profiterait
+nous profiterions
+vous profiteriez
+ils (elles) profiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je profite
+que tu profites
+qu’il (elle) profite
+que nous profitions
+que vous profitiez
+qu’ils (elles) profitent
+
+** Imparfait
+
+que je profitasse
+que tu profitasses
+qu’il (elle) profitât
+que nous profitassions
+que vous profitassiez
+qu’ils (elles) profitassent
+
+* IMPÉRATIF
+
+** Présent
+
+profite
+profitons
+profitez
+
+* INFINITIF
+
+** Présent
+
+profiter
+
+* PARTICIPE
+
+** Présent
+
+profitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai profité
+tu as profité
+il (elle) a profité
+nous avons profité
+vous avez profité
+ils (elles) ont profité
+
+** Plus-que-parfait
+
+j'avais profité
+tu avais profité
+il (elle) avait profité
+nous avions profité
+vous aviez profité
+ils (elles) avaient profité
+
+** Passé antérieur
+
+j'eus profité
+tu eus profité
+il (elle) eut profité
+nous eûmes profité
+vous eûtes profité
+ils (elles) eurent profité
+
+** Futur antérieur
+
+j'aurai profité
+tu auras profité
+il (elle) aura profité
+nous aurons profité
+vous aurez profité
+ils (elles) auront profité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais profité
+tu aurais profité
+il (elle) aurait profité
+nous aurions profité
+vous auriez profité
+ils (elles) auraient profité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie profité
+que tu aies profité
+qu’il (elle) ait profité
+que nous ayons profité
+que vous ayez profité
+qu’ils (elles) aient profité
+
+** Plus-que-parfait
+
+que j'eusse profité
+que tu eusses profité
+qu’il (elle) eût profité
+que nous eussions profité
+que vous eussiez profité
+qu’ils (elles) eussent profité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons profité
+ayez profité
+
+* INFINITIF
+
+** Passé
+
+avoir profité
+
+* PARTICIPE
+
+** Passé
+
+ayant profité
+profité (invar.)

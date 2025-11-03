@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe chauffer
+
+* INDICATIF
+
+** Présent
+
+je chauffe
+tu chauffes
+il (elle) chauffe
+nous chauffons
+vous chauffez
+ils (elles) chauffent
+
+** Imparfait
+
+je chauffais
+tu chauffais
+il (elle) chauffait
+nous chauffions
+vous chauffiez
+ils (elles) chauffaient
+
+** Passé simple
+
+je chauffai
+tu chauffas
+il (elle) chauffa
+nous chauffâmes
+vous chauffâtes
+ils (elles) chauffèrent
+
+** Futur simple
+
+je chaufferai
+tu chaufferas
+il (elle) chauffera
+nous chaufferons
+vous chaufferez
+ils (elles) chaufferont
+
+* CONDITIONNEL
+
+** Présent
+
+je chaufferais
+tu chaufferais
+il (elle) chaufferait
+nous chaufferions
+vous chaufferiez
+ils (elles) chaufferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chauffe
+que tu chauffes
+qu’il (elle) chauffe
+que nous chauffions
+que vous chauffiez
+qu’ils (elles) chauffent
+
+** Imparfait
+
+que je chauffasse
+que tu chauffasses
+qu’il (elle) chauffât
+que nous chauffassions
+que vous chauffassiez
+qu’ils (elles) chauffassent
+
+* IMPÉRATIF
+
+** Présent
+
+chauffe
+chauffons
+chauffez
+
+* INFINITIF
+
+** Présent
+
+chauffer
+
+* PARTICIPE
+
+** Présent
+
+chauffant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chauffé
+tu as chauffé
+il (elle) a chauffé
+nous avons chauffé
+vous avez chauffé
+ils (elles) ont chauffé
+
+** Plus-que-parfait
+
+j'avais chauffé
+tu avais chauffé
+il (elle) avait chauffé
+nous avions chauffé
+vous aviez chauffé
+ils (elles) avaient chauffé
+
+** Passé antérieur
+
+j'eus chauffé
+tu eus chauffé
+il (elle) eut chauffé
+nous eûmes chauffé
+vous eûtes chauffé
+ils (elles) eurent chauffé
+
+** Futur antérieur
+
+j'aurai chauffé
+tu auras chauffé
+il (elle) aura chauffé
+nous aurons chauffé
+vous aurez chauffé
+ils (elles) auront chauffé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chauffé
+tu aurais chauffé
+il (elle) aurait chauffé
+nous aurions chauffé
+vous auriez chauffé
+ils (elles) auraient chauffé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chauffé
+que tu aies chauffé
+qu’il (elle) ait chauffé
+que nous ayons chauffé
+que vous ayez chauffé
+qu’ils (elles) aient chauffé
+
+** Plus-que-parfait
+
+que j'eusse chauffé
+que tu eusses chauffé
+qu’il (elle) eût chauffé
+que nous eussions chauffé
+que vous eussiez chauffé
+qu’ils (elles) eussent chauffé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chauffé
+ayez chauffé
+
+* INFINITIF
+
+** Passé
+
+avoir chauffé
+
+* PARTICIPE
+
+** Passé
+
+ayant chauffé
+chauffé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chauffé(e)
+tu es chauffé(e)
+il (elle) est chauffé(e)
+nous sommes chauffé(e)s
+vous êtes chauffé(e)s
+ils (elles) sont chauffé(e)s
+
+** Imparfait
+
+j'étais chauffé(e)
+tu étais chauffé(e)
+il (elle) était chauffé(e)
+nous étions chauffé(e)s
+vous étiez chauffé(e)s
+ils (elles) étaient chauffé(e)s
+
+** Passé simple
+
+je fus chauffé(e)
+tu fus chauffé(e)
+il (elle) fut chauffé(e)
+nous fûmes chauffé(e)s
+vous fûtes chauffé(e)s
+ils (elles) furent chauffé(e)s
+
+** Futur simple
+
+je serai chauffé(e)
+tu seras chauffé(e)
+il (elle) sera chauffé(e)
+nous serons chauffé(e)s
+vous serez chauffé(e)s
+ils (elles) seront chauffé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chauffé(e)
+tu serais chauffé(e)
+il (elle) serait chauffé(e)
+nous serions chauffé(e)s
+vous seriez chauffé(e)s
+ils (elles) seraient chauffé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chauffé(e)
+que tu sois chauffé(e)
+qu’il (elle) soit chauffé(e)
+que nous soyons chauffé(e)s
+que vous soyez chauffé(e)s
+qu’ils (elles) soient chauffé(e)s
+
+** Imparfait
+
+que je fusse chauffé(e)
+que tu fusses chauffé(e)
+qu’il (elle) fût chauffé(e)
+que nous fussions chauffé(e)s
+que vous fussiez chauffé(e)s
+qu’ils (elles) fussent chauffé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chauffé(e)s
+soyez chauffé(e)s
+
+* INFINITIF
+
+** Présent
+
+être chauffé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chauffé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chauffé(e)
+tu as été chauffé(e)
+il (elle) a été chauffé(e)
+nous avons été chauffé(e)s
+vous avez été chauffé(e)s
+ils (elles) ont été chauffé(e)s
+
+** Plus-que-parfait
+
+j'avais été chauffé(e)
+il (elle) avait été chauffé(e)
+nous avions été chauffé(e)s
+ils (elles) avaient été chauffé(e)s
+
+** Passé antérieur
+
+j'eus été chauffé(e)
+tu eus été chauffé(e)
+il (elle) eut été chauffé(e)
+nous eûmes été chauffé(e)s
+vous eûtes été chauffé(e)s
+ils (elles) eurent été chauffé(e)s
+
+** Futur antérieur
+
+j'aurai été chauffé(e)
+tu auras été chauffé(e)
+il (elle) aura été chauffé(e)
+nous aurons été chauffé(e)s
+vous aurez été chauffé(e)s
+ils (elles) auront été chauffé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chauffé(e)
+j'aurais été chauffé(e)
+il (elle) aurait été chauffé(e)
+nous aurions été chauffé(e)s
+vous auriez été chauffé(e)s
+ils (elles) auraient été chauffé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chauffé(e)
+que tu aies été chauffé(e)
+qu’il (elle) ait été chauffé(e)
+que nous ayons été chauffé(e)s
+que vous ayez été chauffé(e)s
+qu’ils (elles) aient été chauffé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chauffé(e)
+que tu eusses été chauffé(e)
+qu’il (elle) eût été chauffé(e)
+que nous eussions été chauffé(e)s
+que vous eussiez été chauffé(e)s
+qu’ils (elles) eussent été chauffé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chauffé(e)
+ayons été chauffé(e)s
+ayez été chauffé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chauffé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chauffé(e)(s)

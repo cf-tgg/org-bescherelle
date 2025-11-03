@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe modeler
+
+* INDICATIF
+
+** Présent
+
+je modèle
+tu modèles
+il (elle) modèle
+nous modelons
+vous modelez
+ils (elles) modèlent
+
+** Imparfait
+
+je modelais
+tu modelais
+il (elle) modelait
+nous modelions
+vous modeliez
+ils (elles) modelaient
+
+** Passé simple
+
+je modelai
+tu modelas
+il (elle) modela
+nous modelâmes
+vous modelâtes
+ils (elles) modelèrent
+
+** Futur simple
+
+je modèlerai
+tu modèleras
+il (elle) modèlera
+nous modèlerons
+vous modèlerez
+ils (elles) modèleront
+
+* CONDITIONNEL
+
+** Présent
+
+je modèlerais
+tu modèlerais
+il (elle) modèlerait
+nous modèlerions
+vous modèleriez
+ils (elles) modèleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je modèle
+que tu modèles
+qu’il (elle) modèle
+que nous modelions
+que vous modeliez
+qu’ils (elles) modèlent
+
+** Imparfait
+
+que je modelasse
+que tu modelasses
+qu’il (elle) modelât
+que nous modelassions
+que vous modelassiez
+qu’ils (elles) modelassent
+
+* IMPÉRATIF
+
+** Présent
+
+modèle
+modelons
+modelez
+
+* INFINITIF
+
+** Présent
+
+modeler
+
+* PARTICIPE
+
+** Présent
+
+modelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai modelé
+tu as modelé
+il (elle) a modelé
+nous avons modelé
+vous avez modelé
+ils (elles) ont modelé
+
+** Plus-que-parfait
+
+j'avais modelé
+tu avais modelé
+il (elle) avait modelé
+nous avions modelé
+vous aviez modelé
+ils (elles) avaient modelé
+
+** Passé antérieur
+
+j'eus modelé
+tu eus modelé
+il (elle) eut modelé
+nous eûmes modelé
+vous eûtes modelé
+ils (elles) eurent modelé
+
+** Futur antérieur
+
+j'aurai modelé
+tu auras modelé
+il (elle) aura modelé
+nous aurons modelé
+vous aurez modelé
+ils (elles) auront modelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais modelé
+tu aurais modelé
+il (elle) aurait modelé
+nous aurions modelé
+vous auriez modelé
+ils (elles) auraient modelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie modelé
+que tu aies modelé
+qu’il (elle) ait modelé
+que nous ayons modelé
+que vous ayez modelé
+qu’ils (elles) aient modelé
+
+** Plus-que-parfait
+
+que j'eusse modelé
+que tu eusses modelé
+qu’il (elle) eût modelé
+que nous eussions modelé
+que vous eussiez modelé
+qu’ils (elles) eussent modelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons modelé
+ayez modelé
+
+* INFINITIF
+
+** Passé
+
+avoir modelé
+
+* PARTICIPE
+
+** Passé
+
+ayant modelé
+modelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis modelé(e)
+tu es modelé(e)
+il (elle) est modelé(e)
+nous sommes modelé(e)s
+vous êtes modelé(e)s
+ils (elles) sont modelé(e)s
+
+** Imparfait
+
+j'étais modelé(e)
+tu étais modelé(e)
+il (elle) était modelé(e)
+nous étions modelé(e)s
+vous étiez modelé(e)s
+ils (elles) étaient modelé(e)s
+
+** Passé simple
+
+je fus modelé(e)
+tu fus modelé(e)
+il (elle) fut modelé(e)
+nous fûmes modelé(e)s
+vous fûtes modelé(e)s
+ils (elles) furent modelé(e)s
+
+** Futur simple
+
+je serai modelé(e)
+tu seras modelé(e)
+il (elle) sera modelé(e)
+nous serons modelé(e)s
+vous serez modelé(e)s
+ils (elles) seront modelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais modelé(e)
+tu serais modelé(e)
+il (elle) serait modelé(e)
+nous serions modelé(e)s
+vous seriez modelé(e)s
+ils (elles) seraient modelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois modelé(e)
+que tu sois modelé(e)
+qu’il (elle) soit modelé(e)
+que nous soyons modelé(e)s
+que vous soyez modelé(e)s
+qu’ils (elles) soient modelé(e)s
+
+** Imparfait
+
+que je fusse modelé(e)
+que tu fusses modelé(e)
+qu’il (elle) fût modelé(e)
+que nous fussions modelé(e)s
+que vous fussiez modelé(e)s
+qu’ils (elles) fussent modelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons modelé(e)s
+soyez modelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être modelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant modelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été modelé(e)
+tu as été modelé(e)
+il (elle) a été modelé(e)
+nous avons été modelé(e)s
+vous avez été modelé(e)s
+ils (elles) ont été modelé(e)s
+
+** Plus-que-parfait
+
+j'avais été modelé(e)
+il (elle) avait été modelé(e)
+nous avions été modelé(e)s
+ils (elles) avaient été modelé(e)s
+
+** Passé antérieur
+
+j'eus été modelé(e)
+tu eus été modelé(e)
+il (elle) eut été modelé(e)
+nous eûmes été modelé(e)s
+vous eûtes été modelé(e)s
+ils (elles) eurent été modelé(e)s
+
+** Futur antérieur
+
+j'aurai été modelé(e)
+tu auras été modelé(e)
+il (elle) aura été modelé(e)
+nous aurons été modelé(e)s
+vous aurez été modelé(e)s
+ils (elles) auront été modelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été modelé(e)
+j'aurais été modelé(e)
+il (elle) aurait été modelé(e)
+nous aurions été modelé(e)s
+vous auriez été modelé(e)s
+ils (elles) auraient été modelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été modelé(e)
+que tu aies été modelé(e)
+qu’il (elle) ait été modelé(e)
+que nous ayons été modelé(e)s
+que vous ayez été modelé(e)s
+qu’ils (elles) aient été modelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été modelé(e)
+que tu eusses été modelé(e)
+qu’il (elle) eût été modelé(e)
+que nous eussions été modelé(e)s
+que vous eussiez été modelé(e)s
+qu’ils (elles) eussent été modelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été modelé(e)
+ayons été modelé(e)s
+ayez été modelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été modelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été modelé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nourrir
+
+* INDICATIF
+
+** Présent
+
+je nourris
+tu nourris
+il (elle) nourrit
+nous nourrissons
+vous nourrissez
+ils (elles) nourrissent
+
+** Imparfait
+
+je nourrissais
+tu nourrissais
+il (elle) nourrissait
+nous nourrissions
+vous nourrissiez
+ils (elles) nourrissaient
+
+** Passé simple
+
+je nourris
+tu nourris
+il (elle) nourrit
+nous nourrîmes
+vous nourrîtes
+ils (elles) nourrirent
+
+** Futur simple
+
+je nourrirai
+tu nourriras
+il (elle) nourrira
+nous nourrirons
+vous nourrirez
+ils (elles) nourriront
+
+* CONDITIONNEL
+
+** Présent
+
+je nourrirais
+tu nourrirais
+il (elle) nourrirait
+nous nourririons
+vous nourririez
+ils (elles) nourriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nourrisse
+que tu nourrisses
+qu’il (elle) nourrisse
+que nous nourrissions
+que vous nourrissiez
+qu’ils (elles) nourrissent
+
+** Imparfait
+
+que je nourrisse
+que tu nourrisses
+qu’il (elle) nourrît
+que nous nourrissions
+que vous nourrissiez
+qu’ils (elles) nourrissent
+
+* IMPÉRATIF
+
+** Présent
+
+nourris
+nourrissons
+nourrissez
+
+* INFINITIF
+
+** Présent
+
+nourrir
+
+* PARTICIPE
+
+** Présent
+
+nourrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nourri
+tu as nourri
+il (elle) a nourri
+nous avons nourri
+vous avez nourri
+ils (elles) ont nourri
+
+** Plus-que-parfait
+
+j'avais nourri
+tu avais nourri
+il (elle) avait nourri
+nous avions nourri
+vous aviez nourri
+ils (elles) avaient nourri
+
+** Passé antérieur
+
+j'eus nourri
+tu eus nourri
+il (elle) eut nourri
+nous eûmes nourri
+vous eûtes nourri
+ils (elles) eurent nourri
+
+** Futur antérieur
+
+j'aurai nourri
+tu auras nourri
+il (elle) aura nourri
+nous aurons nourri
+vous aurez nourri
+ils (elles) auront nourri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nourri
+tu aurais nourri
+il (elle) aurait nourri
+nous aurions nourri
+vous auriez nourri
+ils (elles) auraient nourri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nourri
+que tu aies nourri
+qu’il (elle) ait nourri
+que nous ayons nourri
+que vous ayez nourri
+qu’ils (elles) aient nourri
+
+** Plus-que-parfait
+
+que j'eusse nourri
+que tu eusses nourri
+qu’il (elle) eût nourri
+que nous eussions nourri
+que vous eussiez nourri
+qu’ils (elles) eussent nourri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nourri
+ayez nourri
+
+* INFINITIF
+
+** Passé
+
+avoir nourri
+
+* PARTICIPE
+
+** Passé
+
+ayant nourri
+nourri (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis nourri(e)
+tu es nourri(e)
+il (elle) est nourri(e)
+nous sommes nourri(e)s
+vous êtes nourri(e)s
+ils (elles) sont nourri(e)s
+
+** Imparfait
+
+j'étais nourri(e)
+tu étais nourri(e)
+il (elle) était nourri(e)
+nous étions nourri(e)s
+vous étiez nourri(e)s
+ils (elles) étaient nourri(e)s
+
+** Passé simple
+
+je fus nourri(e)
+tu fus nourri(e)
+il (elle) fut nourri(e)
+nous fûmes nourri(e)s
+vous fûtes nourri(e)s
+ils (elles) furent nourri(e)s
+
+** Futur simple
+
+je serai nourri(e)
+tu seras nourri(e)
+il (elle) sera nourri(e)
+nous serons nourri(e)s
+vous serez nourri(e)s
+ils (elles) seront nourri(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nourri(e)
+tu serais nourri(e)
+il (elle) serait nourri(e)
+nous serions nourri(e)s
+vous seriez nourri(e)s
+ils (elles) seraient nourri(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nourri(e)
+que tu sois nourri(e)
+qu’il (elle) soit nourri(e)
+que nous soyons nourri(e)s
+que vous soyez nourri(e)s
+qu’ils (elles) soient nourri(e)s
+
+** Imparfait
+
+que je fusse nourri(e)
+que tu fusses nourri(e)
+qu’il (elle) fût nourri(e)
+que nous fussions nourri(e)s
+que vous fussiez nourri(e)s
+qu’ils (elles) fussent nourri(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nourri(e)s
+soyez nourri(e)s
+
+* INFINITIF
+
+** Présent
+
+être nourri(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nourri(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nourri(e)
+tu as été nourri(e)
+il (elle) a été nourri(e)
+nous avons été nourri(e)s
+vous avez été nourri(e)s
+ils (elles) ont été nourri(e)s
+
+** Plus-que-parfait
+
+j'avais été nourri(e)
+il (elle) avait été nourri(e)
+nous avions été nourri(e)s
+ils (elles) avaient été nourri(e)s
+
+** Passé antérieur
+
+j'eus été nourri(e)
+tu eus été nourri(e)
+il (elle) eut été nourri(e)
+nous eûmes été nourri(e)s
+vous eûtes été nourri(e)s
+ils (elles) eurent été nourri(e)s
+
+** Futur antérieur
+
+j'aurai été nourri(e)
+tu auras été nourri(e)
+il (elle) aura été nourri(e)
+nous aurons été nourri(e)s
+vous aurez été nourri(e)s
+ils (elles) auront été nourri(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nourri(e)
+j'aurais été nourri(e)
+il (elle) aurait été nourri(e)
+nous aurions été nourri(e)s
+vous auriez été nourri(e)s
+ils (elles) auraient été nourri(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nourri(e)
+que tu aies été nourri(e)
+qu’il (elle) ait été nourri(e)
+que nous ayons été nourri(e)s
+que vous ayez été nourri(e)s
+qu’ils (elles) aient été nourri(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nourri(e)
+que tu eusses été nourri(e)
+qu’il (elle) eût été nourri(e)
+que nous eussions été nourri(e)s
+que vous eussiez été nourri(e)s
+qu’ils (elles) eussent été nourri(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nourri(e)
+ayons été nourri(e)s
+ayez été nourri(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nourri(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nourri(e)(s)

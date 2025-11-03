@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe boire
+
+* INDICATIF
+
+** Présent
+
+je bois
+tu bois
+il (elle) boit
+nous buvons
+vous buvez
+ils (elles) boivent
+
+** Imparfait
+
+je buvais
+tu buvais
+il (elle) buvait
+nous buvions
+vous buviez
+ils (elles) buvaient
+
+** Passé simple
+
+je bus
+tu bus
+il (elle) but
+nous bûmes
+vous bûtes
+ils (elles) burent
+
+** Futur simple
+
+je boirai
+tu boiras
+il (elle) boira
+nous boirons
+vous boirez
+ils (elles) boiront
+
+* CONDITIONNEL
+
+** Présent
+
+je boirais
+tu boirais
+il (elle) boirait
+nous boirions
+vous boiriez
+ils (elles) boiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boive
+que tu boives
+qu’il (elle) boive
+que nous buvions
+que vous buviez
+qu’ils (elles) boivent
+
+** Imparfait
+
+que je busse
+que tu busses
+qu’il (elle) bût
+que nous bussions
+que vous bussiez
+qu’ils (elles) bussent
+
+* IMPÉRATIF
+
+** Présent
+
+bois
+buvons
+buvez
+
+* INFINITIF
+
+** Présent
+
+boire
+
+* PARTICIPE
+
+** Présent
+
+buvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bu
+tu as bu
+il (elle) a bu
+nous avons bu
+vous avez bu
+ils (elles) ont bu
+
+** Plus-que-parfait
+
+j'avais bu
+tu avais bu
+il (elle) avait bu
+nous avions bu
+vous aviez bu
+ils (elles) avaient bu
+
+** Passé antérieur
+
+j'eus bu
+tu eus bu
+il (elle) eut bu
+nous eûmes bu
+vous eûtes bu
+ils (elles) eurent bu
+
+** Futur antérieur
+
+j'aurai bu
+tu auras bu
+il (elle) aura bu
+nous aurons bu
+vous aurez bu
+ils (elles) auront bu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bu
+tu aurais bu
+il (elle) aurait bu
+nous aurions bu
+vous auriez bu
+ils (elles) auraient bu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bu
+que tu aies bu
+qu’il (elle) ait bu
+que nous ayons bu
+que vous ayez bu
+qu’ils (elles) aient bu
+
+** Plus-que-parfait
+
+que j'eusse bu
+que tu eusses bu
+qu’il (elle) eût bu
+que nous eussions bu
+que vous eussiez bu
+qu’ils (elles) eussent bu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bu
+ayez bu
+
+* INFINITIF
+
+** Passé
+
+avoir bu
+
+* PARTICIPE
+
+** Passé
+
+ayant bu
+bu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis bu(e)
+tu es bu(e)
+il (elle) est bu(e)
+nous sommes bu(e)s
+vous êtes bu(e)s
+ils (elles) sont bu(e)s
+
+** Imparfait
+
+j'étais bu(e)
+tu étais bu(e)
+il (elle) était bu(e)
+nous étions bu(e)s
+vous étiez bu(e)s
+ils (elles) étaient bu(e)s
+
+** Passé simple
+
+je fus bu(e)
+tu fus bu(e)
+il (elle) fut bu(e)
+nous fûmes bu(e)s
+vous fûtes bu(e)s
+ils (elles) furent bu(e)s
+
+** Futur simple
+
+je serai bu(e)
+tu seras bu(e)
+il (elle) sera bu(e)
+nous serons bu(e)s
+vous serez bu(e)s
+ils (elles) seront bu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bu(e)
+tu serais bu(e)
+il (elle) serait bu(e)
+nous serions bu(e)s
+vous seriez bu(e)s
+ils (elles) seraient bu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bu(e)
+que tu sois bu(e)
+qu’il (elle) soit bu(e)
+que nous soyons bu(e)s
+que vous soyez bu(e)s
+qu’ils (elles) soient bu(e)s
+
+** Imparfait
+
+que je fusse bu(e)
+que tu fusses bu(e)
+qu’il (elle) fût bu(e)
+que nous fussions bu(e)s
+que vous fussiez bu(e)s
+qu’ils (elles) fussent bu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bu(e)s
+soyez bu(e)s
+
+* INFINITIF
+
+** Présent
+
+être bu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bu(e)
+tu as été bu(e)
+il (elle) a été bu(e)
+nous avons été bu(e)s
+vous avez été bu(e)s
+ils (elles) ont été bu(e)s
+
+** Plus-que-parfait
+
+j'avais été bu(e)
+il (elle) avait été bu(e)
+nous avions été bu(e)s
+ils (elles) avaient été bu(e)s
+
+** Passé antérieur
+
+j'eus été bu(e)
+tu eus été bu(e)
+il (elle) eut été bu(e)
+nous eûmes été bu(e)s
+vous eûtes été bu(e)s
+ils (elles) eurent été bu(e)s
+
+** Futur antérieur
+
+j'aurai été bu(e)
+tu auras été bu(e)
+il (elle) aura été bu(e)
+nous aurons été bu(e)s
+vous aurez été bu(e)s
+ils (elles) auront été bu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bu(e)
+j'aurais été bu(e)
+il (elle) aurait été bu(e)
+nous aurions été bu(e)s
+vous auriez été bu(e)s
+ils (elles) auraient été bu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bu(e)
+que tu aies été bu(e)
+qu’il (elle) ait été bu(e)
+que nous ayons été bu(e)s
+que vous ayez été bu(e)s
+qu’ils (elles) aient été bu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bu(e)
+que tu eusses été bu(e)
+qu’il (elle) eût été bu(e)
+que nous eussions été bu(e)s
+que vous eussiez été bu(e)s
+qu’ils (elles) eussent été bu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bu(e)
+ayons été bu(e)s
+ayez été bu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bu(e)(s)

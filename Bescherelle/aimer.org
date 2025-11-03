@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aimer
+
+* INDICATIF
+
+** Présent
+
+j'aime
+tu aimes
+il (elle) aime
+nous aimons
+vous aimez
+ils (elles) aiment
+
+** Imparfait
+
+j'aimais
+tu aimais
+il (elle) aimait
+nous aimions
+vous aimiez
+ils (elles) aimaient
+
+** Passé simple
+
+j'aimai
+tu aimas
+il (elle) aima
+nous aimâmes
+vous aimâtes
+ils (elles) aimèrent
+
+** Futur simple
+
+j'aimerai
+tu aimeras
+il (elle) aimera
+nous aimerons
+vous aimerez
+ils (elles) aimeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aimerais
+tu aimerais
+il (elle) aimerait
+nous aimerions
+vous aimeriez
+ils (elles) aimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aime
+que tu aimes
+qu’il (elle) aime
+que nous aimions
+que vous aimiez
+qu’ils (elles) aiment
+
+** Imparfait
+
+que j'aimasse
+que tu aimasses
+qu’il (elle) aimât
+que nous aimassions
+que vous aimassiez
+qu’ils (elles) aimassent
+
+* IMPÉRATIF
+
+** Présent
+
+aime
+aimons
+aimez
+
+* INFINITIF
+
+** Présent
+
+aimer
+
+* PARTICIPE
+
+** Présent
+
+aimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aimé
+tu as aimé
+il (elle) a aimé
+nous avons aimé
+vous avez aimé
+ils (elles) ont aimé
+
+** Plus-que-parfait
+
+j'avais aimé
+tu avais aimé
+il (elle) avait aimé
+nous avions aimé
+vous aviez aimé
+ils (elles) avaient aimé
+
+** Passé antérieur
+
+j'eus aimé
+tu eus aimé
+il (elle) eut aimé
+nous eûmes aimé
+vous eûtes aimé
+ils (elles) eurent aimé
+
+** Futur antérieur
+
+j'aurai aimé
+tu auras aimé
+il (elle) aura aimé
+nous aurons aimé
+vous aurez aimé
+ils (elles) auront aimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aimé
+tu aurais aimé
+il (elle) aurait aimé
+nous aurions aimé
+vous auriez aimé
+ils (elles) auraient aimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aimé
+que tu aies aimé
+qu’il (elle) ait aimé
+que nous ayons aimé
+que vous ayez aimé
+qu’ils (elles) aient aimé
+
+** Plus-que-parfait
+
+que j'eusse aimé
+que tu eusses aimé
+qu’il (elle) eût aimé
+que nous eussions aimé
+que vous eussiez aimé
+qu’ils (elles) eussent aimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aimé
+ayez aimé
+
+* INFINITIF
+
+** Passé
+
+avoir aimé
+
+* PARTICIPE
+
+** Passé
+
+ayant aimé
+aimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aimé(e)
+tu es aimé(e)
+il (elle) est aimé(e)
+nous sommes aimé(e)s
+vous êtes aimé(e)s
+ils (elles) sont aimé(e)s
+
+** Imparfait
+
+j'étais aimé(e)
+tu étais aimé(e)
+il (elle) était aimé(e)
+nous étions aimé(e)s
+vous étiez aimé(e)s
+ils (elles) étaient aimé(e)s
+
+** Passé simple
+
+je fus aimé(e)
+tu fus aimé(e)
+il (elle) fut aimé(e)
+nous fûmes aimé(e)s
+vous fûtes aimé(e)s
+ils (elles) furent aimé(e)s
+
+** Futur simple
+
+je serai aimé(e)
+tu seras aimé(e)
+il (elle) sera aimé(e)
+nous serons aimé(e)s
+vous serez aimé(e)s
+ils (elles) seront aimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aimé(e)
+tu serais aimé(e)
+il (elle) serait aimé(e)
+nous serions aimé(e)s
+vous seriez aimé(e)s
+ils (elles) seraient aimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aimé(e)
+que tu sois aimé(e)
+qu’il (elle) soit aimé(e)
+que nous soyons aimé(e)s
+que vous soyez aimé(e)s
+qu’ils (elles) soient aimé(e)s
+
+** Imparfait
+
+que je fusse aimé(e)
+que tu fusses aimé(e)
+qu’il (elle) fût aimé(e)
+que nous fussions aimé(e)s
+que vous fussiez aimé(e)s
+qu’ils (elles) fussent aimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aimé(e)s
+soyez aimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être aimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aimé(e)
+tu as été aimé(e)
+il (elle) a été aimé(e)
+nous avons été aimé(e)s
+vous avez été aimé(e)s
+ils (elles) ont été aimé(e)s
+
+** Plus-que-parfait
+
+j'avais été aimé(e)
+il (elle) avait été aimé(e)
+nous avions été aimé(e)s
+ils (elles) avaient été aimé(e)s
+
+** Passé antérieur
+
+j'eus été aimé(e)
+tu eus été aimé(e)
+il (elle) eut été aimé(e)
+nous eûmes été aimé(e)s
+vous eûtes été aimé(e)s
+ils (elles) eurent été aimé(e)s
+
+** Futur antérieur
+
+j'aurai été aimé(e)
+tu auras été aimé(e)
+il (elle) aura été aimé(e)
+nous aurons été aimé(e)s
+vous aurez été aimé(e)s
+ils (elles) auront été aimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aimé(e)
+j'aurais été aimé(e)
+il (elle) aurait été aimé(e)
+nous aurions été aimé(e)s
+vous auriez été aimé(e)s
+ils (elles) auraient été aimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aimé(e)
+que tu aies été aimé(e)
+qu’il (elle) ait été aimé(e)
+que nous ayons été aimé(e)s
+que vous ayez été aimé(e)s
+qu’ils (elles) aient été aimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aimé(e)
+que tu eusses été aimé(e)
+qu’il (elle) eût été aimé(e)
+que nous eussions été aimé(e)s
+que vous eussiez été aimé(e)s
+qu’ils (elles) eussent été aimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aimé(e)
+ayons été aimé(e)s
+ayez été aimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aimé(e)(s)

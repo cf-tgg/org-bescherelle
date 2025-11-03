@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe redevoir
+
+* INDICATIF
+
+** Présent
+
+je redois
+tu redois
+il (elle) redoit
+nous redevons
+vous redevez
+ils (elles) redoivent
+
+** Imparfait
+
+je redevais
+tu redevais
+il (elle) redevait
+nous redevions
+vous redeviez
+ils (elles) redevaient
+
+** Passé simple
+
+je redus
+tu redus
+il (elle) redut
+nous redûmes
+vous redûtes
+ils (elles) redurent
+
+** Futur simple
+
+je redevrai
+tu redevras
+il (elle) redevra
+nous redevrons
+vous redevrez
+ils (elles) redevront
+
+* CONDITIONNEL
+
+** Présent
+
+je redevrais
+tu redevrais
+il (elle) redevrait
+nous redevrions
+vous redevriez
+ils (elles) redevraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je redoive
+que tu redoives
+qu’il (elle) redoive
+que nous redevions
+que vous redeviez
+qu’ils (elles) redoivent
+
+** Imparfait
+
+que je redusse
+que tu redusses
+qu’il (elle) redût
+que nous redussions
+que vous redussiez
+qu’ils (elles) redussent
+
+* IMPÉRATIF
+
+** Présent
+
+redois
+redevons
+redevez
+
+* INFINITIF
+
+** Présent
+
+redevoir
+
+* PARTICIPE
+
+** Présent
+
+redevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai redû
+tu as redû
+il (elle) a redû
+nous avons redû
+vous avez redû
+ils (elles) ont redû
+
+** Plus-que-parfait
+
+j'avais redû
+tu avais redû
+il (elle) avait redû
+nous avions redû
+vous aviez redû
+ils (elles) avaient redû
+
+** Passé antérieur
+
+j'eus redû
+tu eus redû
+il (elle) eut redû
+nous eûmes redû
+vous eûtes redû
+ils (elles) eurent redû
+
+** Futur antérieur
+
+j'aurai redû
+tu auras redû
+il (elle) aura redû
+nous aurons redû
+vous aurez redû
+ils (elles) auront redû
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais redû
+tu aurais redû
+il (elle) aurait redû
+nous aurions redû
+vous auriez redû
+ils (elles) auraient redû
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie redû
+que tu aies redû
+qu’il (elle) ait redû
+que nous ayons redû
+que vous ayez redû
+qu’ils (elles) aient redû
+
+** Plus-que-parfait
+
+que j'eusse redû
+que tu eusses redû
+qu’il (elle) eût redû
+que nous eussions redû
+que vous eussiez redû
+qu’ils (elles) eussent redû
+
+* IMPÉRATIF
+
+** Passé
+
+ayons redû
+ayez redû
+
+* INFINITIF
+
+** Passé
+
+avoir redû
+
+* PARTICIPE
+
+** Passé
+
+ayant redû
+redû (û, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis redû (û, ue)
+tu es redû (û, ue)
+il (elle) est redû (û, ue)
+nous sommes redu(e)s
+vous êtes redu(e)s
+ils (elles) sont redu(e)s
+
+** Imparfait
+
+j'étais redû (û, ue)
+tu étais redû (û, ue)
+il (elle) était redû (û, ue)
+nous étions redu(e)s
+vous étiez redu(e)s
+ils (elles) étaient redu(e)s
+
+** Passé simple
+
+je fus redû (û, ue)
+tu fus redû (û, ue)
+il (elle) fut redû (û, ue)
+nous fûmes redu(e)s
+vous fûtes redu(e)s
+ils (elles) furent redu(e)s
+
+** Futur simple
+
+je serai redû (û, ue)
+tu seras redû (û, ue)
+il (elle) sera redû (û, ue)
+nous serons redu(e)s
+vous serez redu(e)s
+ils (elles) seront redu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais redû (û, ue)
+tu serais redû (û, ue)
+il (elle) serait redû (û, ue)
+nous serions redu(e)s
+vous seriez redu(e)s
+ils (elles) seraient redu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois redû (û, ue)
+que tu sois redû (û, ue)
+qu’il (elle) soit redû (û, ue)
+que nous soyons redu(e)s
+que vous soyez redu(e)s
+qu’ils (elles) soient redu(e)s
+
+** Imparfait
+
+que je fusse redû (û, ue)
+que tu fusses redû (û, ue)
+qu’il (elle) fût redû (û, ue)
+que nous fussions redu(e)s
+que vous fussiez redu(e)s
+qu’ils (elles) fussent redu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons redu(e)s
+soyez redu(e)s
+
+* INFINITIF
+
+** Présent
+
+être redû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Présent
+
+étant redû (û, ue, us, ues)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été redû (û, ue)
+tu as été redû (û, ue)
+il (elle) a été redû (û, ue)
+nous avons été redu(e)s
+vous avez été redu(e)s
+ils (elles) ont été redu(e)s
+
+** Plus-que-parfait
+
+j'avais été redû (û, ue)
+il (elle) avait été redû (û, ue)
+nous avions été redu(e)s
+ils (elles) avaient été redu(e)s
+
+** Passé antérieur
+
+j'eus été redû (û, ue)
+tu eus été redû (û, ue)
+il (elle) eut été redû (û, ue)
+nous eûmes été redu(e)s
+vous eûtes été redu(e)s
+ils (elles) eurent été redu(e)s
+
+** Futur antérieur
+
+j'aurai été redû (û, ue)
+tu auras été redû (û, ue)
+il (elle) aura été redû (û, ue)
+nous aurons été redu(e)s
+vous aurez été redu(e)s
+ils (elles) auront été redu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été redû (û, ue)
+j'aurais été redû (û, ue)
+il (elle) aurait été redû (û, ue)
+nous aurions été redu(e)s
+vous auriez été redu(e)s
+ils (elles) auraient été redu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été redû (û, ue)
+que tu aies été redû (û, ue)
+qu’il (elle) ait été redû (û, ue)
+que nous ayons été redu(e)s
+que vous ayez été redu(e)s
+qu’ils (elles) aient été redu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été redû (û, ue)
+que tu eusses été redû (û, ue)
+qu’il (elle) eût été redû (û, ue)
+que nous eussions été redu(e)s
+que vous eussiez été redu(e)s
+qu’ils (elles) eussent été redu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été redû (û, ue)
+ayons été redu(e)s
+ayez été redu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été redû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Passé
+
+ayant été redû (û, ue, us, ues)

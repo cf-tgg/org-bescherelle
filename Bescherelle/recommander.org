@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recommander
+
+* INDICATIF
+
+** Présent
+
+je recommande
+tu recommandes
+il (elle) recommande
+nous recommandons
+vous recommandez
+ils (elles) recommandent
+
+** Imparfait
+
+je recommandais
+tu recommandais
+il (elle) recommandait
+nous recommandions
+vous recommandiez
+ils (elles) recommandaient
+
+** Passé simple
+
+je recommandai
+tu recommandas
+il (elle) recommanda
+nous recommandâmes
+vous recommandâtes
+ils (elles) recommandèrent
+
+** Futur simple
+
+je recommanderai
+tu recommanderas
+il (elle) recommandera
+nous recommanderons
+vous recommanderez
+ils (elles) recommanderont
+
+* CONDITIONNEL
+
+** Présent
+
+je recommanderais
+tu recommanderais
+il (elle) recommanderait
+nous recommanderions
+vous recommanderiez
+ils (elles) recommanderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recommande
+que tu recommandes
+qu’il (elle) recommande
+que nous recommandions
+que vous recommandiez
+qu’ils (elles) recommandent
+
+** Imparfait
+
+que je recommandasse
+que tu recommandasses
+qu’il (elle) recommandât
+que nous recommandassions
+que vous recommandassiez
+qu’ils (elles) recommandassent
+
+* IMPÉRATIF
+
+** Présent
+
+recommande
+recommandons
+recommandez
+
+* INFINITIF
+
+** Présent
+
+recommander
+
+* PARTICIPE
+
+** Présent
+
+recommandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recommandé
+tu as recommandé
+il (elle) a recommandé
+nous avons recommandé
+vous avez recommandé
+ils (elles) ont recommandé
+
+** Plus-que-parfait
+
+j'avais recommandé
+tu avais recommandé
+il (elle) avait recommandé
+nous avions recommandé
+vous aviez recommandé
+ils (elles) avaient recommandé
+
+** Passé antérieur
+
+j'eus recommandé
+tu eus recommandé
+il (elle) eut recommandé
+nous eûmes recommandé
+vous eûtes recommandé
+ils (elles) eurent recommandé
+
+** Futur antérieur
+
+j'aurai recommandé
+tu auras recommandé
+il (elle) aura recommandé
+nous aurons recommandé
+vous aurez recommandé
+ils (elles) auront recommandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recommandé
+tu aurais recommandé
+il (elle) aurait recommandé
+nous aurions recommandé
+vous auriez recommandé
+ils (elles) auraient recommandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recommandé
+que tu aies recommandé
+qu’il (elle) ait recommandé
+que nous ayons recommandé
+que vous ayez recommandé
+qu’ils (elles) aient recommandé
+
+** Plus-que-parfait
+
+que j'eusse recommandé
+que tu eusses recommandé
+qu’il (elle) eût recommandé
+que nous eussions recommandé
+que vous eussiez recommandé
+qu’ils (elles) eussent recommandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recommandé
+ayez recommandé
+
+* INFINITIF
+
+** Passé
+
+avoir recommandé
+
+* PARTICIPE
+
+** Passé
+
+ayant recommandé
+recommandé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis recommandé(e)
+tu es recommandé(e)
+il (elle) est recommandé(e)
+nous sommes recommandé(e)s
+vous êtes recommandé(e)s
+ils (elles) sont recommandé(e)s
+
+** Imparfait
+
+j'étais recommandé(e)
+tu étais recommandé(e)
+il (elle) était recommandé(e)
+nous étions recommandé(e)s
+vous étiez recommandé(e)s
+ils (elles) étaient recommandé(e)s
+
+** Passé simple
+
+je fus recommandé(e)
+tu fus recommandé(e)
+il (elle) fut recommandé(e)
+nous fûmes recommandé(e)s
+vous fûtes recommandé(e)s
+ils (elles) furent recommandé(e)s
+
+** Futur simple
+
+je serai recommandé(e)
+tu seras recommandé(e)
+il (elle) sera recommandé(e)
+nous serons recommandé(e)s
+vous serez recommandé(e)s
+ils (elles) seront recommandé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recommandé(e)
+tu serais recommandé(e)
+il (elle) serait recommandé(e)
+nous serions recommandé(e)s
+vous seriez recommandé(e)s
+ils (elles) seraient recommandé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recommandé(e)
+que tu sois recommandé(e)
+qu’il (elle) soit recommandé(e)
+que nous soyons recommandé(e)s
+que vous soyez recommandé(e)s
+qu’ils (elles) soient recommandé(e)s
+
+** Imparfait
+
+que je fusse recommandé(e)
+que tu fusses recommandé(e)
+qu’il (elle) fût recommandé(e)
+que nous fussions recommandé(e)s
+que vous fussiez recommandé(e)s
+qu’ils (elles) fussent recommandé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recommandé(e)s
+soyez recommandé(e)s
+
+* INFINITIF
+
+** Présent
+
+être recommandé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recommandé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recommandé(e)
+tu as été recommandé(e)
+il (elle) a été recommandé(e)
+nous avons été recommandé(e)s
+vous avez été recommandé(e)s
+ils (elles) ont été recommandé(e)s
+
+** Plus-que-parfait
+
+j'avais été recommandé(e)
+il (elle) avait été recommandé(e)
+nous avions été recommandé(e)s
+ils (elles) avaient été recommandé(e)s
+
+** Passé antérieur
+
+j'eus été recommandé(e)
+tu eus été recommandé(e)
+il (elle) eut été recommandé(e)
+nous eûmes été recommandé(e)s
+vous eûtes été recommandé(e)s
+ils (elles) eurent été recommandé(e)s
+
+** Futur antérieur
+
+j'aurai été recommandé(e)
+tu auras été recommandé(e)
+il (elle) aura été recommandé(e)
+nous aurons été recommandé(e)s
+vous aurez été recommandé(e)s
+ils (elles) auront été recommandé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recommandé(e)
+j'aurais été recommandé(e)
+il (elle) aurait été recommandé(e)
+nous aurions été recommandé(e)s
+vous auriez été recommandé(e)s
+ils (elles) auraient été recommandé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recommandé(e)
+que tu aies été recommandé(e)
+qu’il (elle) ait été recommandé(e)
+que nous ayons été recommandé(e)s
+que vous ayez été recommandé(e)s
+qu’ils (elles) aient été recommandé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recommandé(e)
+que tu eusses été recommandé(e)
+qu’il (elle) eût été recommandé(e)
+que nous eussions été recommandé(e)s
+que vous eussiez été recommandé(e)s
+qu’ils (elles) eussent été recommandé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recommandé(e)
+ayons été recommandé(e)s
+ayez été recommandé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recommandé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recommandé(e)(s)

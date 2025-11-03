@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe entrer
+
+* INDICATIF
+
+** Présent
+
+j'entre
+tu entres
+il (elle) entre
+nous entrons
+vous entrez
+ils (elles) entrent
+
+** Imparfait
+
+j'entrais
+tu entrais
+il (elle) entrait
+nous entrions
+vous entriez
+ils (elles) entraient
+
+** Passé simple
+
+j'entrai
+tu entras
+il (elle) entra
+nous entrâmes
+vous entrâtes
+ils (elles) entrèrent
+
+** Futur simple
+
+j'entrerai
+tu entreras
+il (elle) entrera
+nous entrerons
+vous entrerez
+ils (elles) entreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entrerais
+tu entrerais
+il (elle) entrerait
+nous entrerions
+vous entreriez
+ils (elles) entreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entre
+que tu entres
+qu’il (elle) entre
+que nous entrions
+que vous entriez
+qu’ils (elles) entrent
+
+** Imparfait
+
+que j'entrasse
+que tu entrasses
+qu’il (elle) entrât
+que nous entrassions
+que vous entrassiez
+qu’ils (elles) entrassent
+
+* IMPÉRATIF
+
+** Présent
+
+entre
+entrons
+entrez
+
+* INFINITIF
+
+** Présent
+
+entrer
+
+* PARTICIPE
+
+** Présent
+
+entrant
+
+* INDICATIF
+
+** Passé composé
+
+je suis entré(e)
+tu es entré(e)
+il (elle) est entré(e)
+nous sommes entré(e)s
+vous êtes entré(e)s
+ils (elles) sont entré(e)s
+
+** Plus-que-parfait
+
+j'étais entré(e)
+tu étais entré(e)
+il (elle) était entré(e)
+nous étions entré(e)s
+vous étiez entré(e)s
+ils (elles) étaient entré(e)s
+
+** Passé antérieur
+
+je fus entré(e)
+tu fus entré(e)
+il (elle) fut entré(e)
+nous fûmes entré(e)s
+vous fûtes entré(e)s
+ils (elles) furent entré(e)s
+
+** Futur antérieur
+
+je serai entré(e)
+tu seras entré(e)
+il (elle) sera entré(e)
+nous serons entré(e)s
+vous serez entré(e)s
+ils (elles) seront entré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais entré(e)
+tu serais entré(e)
+il (elle) serait entré(e)
+nous serions entré(e)s
+vous seriez entré(e)s
+ils (elles) seraient entré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois entré(e)
+que tu sois entré(e)
+qu’il (elle) soit entré(e)
+que nous soyons entré(e)s
+que vous soyez entré(e)s
+qu’ils (elles) soient entré(e)s
+
+** Plus-que-parfait
+
+que je fusse entré(e)
+que tu fusses entré(e)
+qu’il (elle) fût entré(e)
+que nous fussions entré(e)s
+que vous fussiez entré(e)s
+qu’ils (elles) fussent entré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons entré(e)s
+soyez entré(e)s
+
+* INFINITIF
+
+** Passé
+
+être entré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant entré(e)(s)
+entré (é, ée, és, ées)

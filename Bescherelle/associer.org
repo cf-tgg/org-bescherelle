@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe associer
+
+* INDICATIF
+
+** Présent
+
+j'associe
+tu associes
+il (elle) associe
+nous associons
+vous associez
+ils (elles) associent
+
+** Imparfait
+
+j'associais
+tu associais
+il (elle) associait
+nous associions
+vous associiez
+ils (elles) associaient
+
+** Passé simple
+
+j'associai
+tu associas
+il (elle) associa
+nous associâmes
+vous associâtes
+ils (elles) associèrent
+
+** Futur simple
+
+j'associerai
+tu associeras
+il (elle) associera
+nous associerons
+vous associerez
+ils (elles) associeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'associerais
+tu associerais
+il (elle) associerait
+nous associerions
+vous associeriez
+ils (elles) associeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'associe
+que tu associes
+qu’il (elle) associe
+que nous associions
+que vous associiez
+qu’ils (elles) associent
+
+** Imparfait
+
+que j'associasse
+que tu associasses
+qu’il (elle) associât
+que nous associassions
+que vous associassiez
+qu’ils (elles) associassent
+
+* IMPÉRATIF
+
+** Présent
+
+associe
+associons
+associez
+
+* INFINITIF
+
+** Présent
+
+associer
+
+* PARTICIPE
+
+** Présent
+
+associant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai associé
+tu as associé
+il (elle) a associé
+nous avons associé
+vous avez associé
+ils (elles) ont associé
+
+** Plus-que-parfait
+
+j'avais associé
+tu avais associé
+il (elle) avait associé
+nous avions associé
+vous aviez associé
+ils (elles) avaient associé
+
+** Passé antérieur
+
+j'eus associé
+tu eus associé
+il (elle) eut associé
+nous eûmes associé
+vous eûtes associé
+ils (elles) eurent associé
+
+** Futur antérieur
+
+j'aurai associé
+tu auras associé
+il (elle) aura associé
+nous aurons associé
+vous aurez associé
+ils (elles) auront associé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais associé
+tu aurais associé
+il (elle) aurait associé
+nous aurions associé
+vous auriez associé
+ils (elles) auraient associé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie associé
+que tu aies associé
+qu’il (elle) ait associé
+que nous ayons associé
+que vous ayez associé
+qu’ils (elles) aient associé
+
+** Plus-que-parfait
+
+que j'eusse associé
+que tu eusses associé
+qu’il (elle) eût associé
+que nous eussions associé
+que vous eussiez associé
+qu’ils (elles) eussent associé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons associé
+ayez associé
+
+* INFINITIF
+
+** Passé
+
+avoir associé
+
+* PARTICIPE
+
+** Passé
+
+ayant associé
+associé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis associé(e)
+tu es associé(e)
+il (elle) est associé(e)
+nous sommes associé(e)s
+vous êtes associé(e)s
+ils (elles) sont associé(e)s
+
+** Imparfait
+
+j'étais associé(e)
+tu étais associé(e)
+il (elle) était associé(e)
+nous étions associé(e)s
+vous étiez associé(e)s
+ils (elles) étaient associé(e)s
+
+** Passé simple
+
+je fus associé(e)
+tu fus associé(e)
+il (elle) fut associé(e)
+nous fûmes associé(e)s
+vous fûtes associé(e)s
+ils (elles) furent associé(e)s
+
+** Futur simple
+
+je serai associé(e)
+tu seras associé(e)
+il (elle) sera associé(e)
+nous serons associé(e)s
+vous serez associé(e)s
+ils (elles) seront associé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais associé(e)
+tu serais associé(e)
+il (elle) serait associé(e)
+nous serions associé(e)s
+vous seriez associé(e)s
+ils (elles) seraient associé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois associé(e)
+que tu sois associé(e)
+qu’il (elle) soit associé(e)
+que nous soyons associé(e)s
+que vous soyez associé(e)s
+qu’ils (elles) soient associé(e)s
+
+** Imparfait
+
+que je fusse associé(e)
+que tu fusses associé(e)
+qu’il (elle) fût associé(e)
+que nous fussions associé(e)s
+que vous fussiez associé(e)s
+qu’ils (elles) fussent associé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons associé(e)s
+soyez associé(e)s
+
+* INFINITIF
+
+** Présent
+
+être associé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant associé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été associé(e)
+tu as été associé(e)
+il (elle) a été associé(e)
+nous avons été associé(e)s
+vous avez été associé(e)s
+ils (elles) ont été associé(e)s
+
+** Plus-que-parfait
+
+j'avais été associé(e)
+il (elle) avait été associé(e)
+nous avions été associé(e)s
+ils (elles) avaient été associé(e)s
+
+** Passé antérieur
+
+j'eus été associé(e)
+tu eus été associé(e)
+il (elle) eut été associé(e)
+nous eûmes été associé(e)s
+vous eûtes été associé(e)s
+ils (elles) eurent été associé(e)s
+
+** Futur antérieur
+
+j'aurai été associé(e)
+tu auras été associé(e)
+il (elle) aura été associé(e)
+nous aurons été associé(e)s
+vous aurez été associé(e)s
+ils (elles) auront été associé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été associé(e)
+j'aurais été associé(e)
+il (elle) aurait été associé(e)
+nous aurions été associé(e)s
+vous auriez été associé(e)s
+ils (elles) auraient été associé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été associé(e)
+que tu aies été associé(e)
+qu’il (elle) ait été associé(e)
+que nous ayons été associé(e)s
+que vous ayez été associé(e)s
+qu’ils (elles) aient été associé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été associé(e)
+que tu eusses été associé(e)
+qu’il (elle) eût été associé(e)
+que nous eussions été associé(e)s
+que vous eussiez été associé(e)s
+qu’ils (elles) eussent été associé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été associé(e)
+ayons été associé(e)s
+ayez été associé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été associé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été associé(e)(s)

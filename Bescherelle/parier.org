@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parier
+
+* INDICATIF
+
+** Présent
+
+je parie
+tu paries
+il (elle) parie
+nous parions
+vous pariez
+ils (elles) parient
+
+** Imparfait
+
+je pariais
+tu pariais
+il (elle) pariait
+nous pariions
+vous pariiez
+ils (elles) pariaient
+
+** Passé simple
+
+je pariai
+tu parias
+il (elle) paria
+nous pariâmes
+vous pariâtes
+ils (elles) parièrent
+
+** Futur simple
+
+je parierai
+tu parieras
+il (elle) pariera
+nous parierons
+vous parierez
+ils (elles) parieront
+
+* CONDITIONNEL
+
+** Présent
+
+je parierais
+tu parierais
+il (elle) parierait
+nous parierions
+vous parieriez
+ils (elles) parieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parie
+que tu paries
+qu’il (elle) parie
+que nous pariions
+que vous pariiez
+qu’ils (elles) parient
+
+** Imparfait
+
+que je pariasse
+que tu pariasses
+qu’il (elle) pariât
+que nous pariassions
+que vous pariassiez
+qu’ils (elles) pariassent
+
+* IMPÉRATIF
+
+** Présent
+
+parie
+parions
+pariez
+
+* INFINITIF
+
+** Présent
+
+parier
+
+* PARTICIPE
+
+** Présent
+
+pariant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai parié
+tu as parié
+il (elle) a parié
+nous avons parié
+vous avez parié
+ils (elles) ont parié
+
+** Plus-que-parfait
+
+j'avais parié
+tu avais parié
+il (elle) avait parié
+nous avions parié
+vous aviez parié
+ils (elles) avaient parié
+
+** Passé antérieur
+
+j'eus parié
+tu eus parié
+il (elle) eut parié
+nous eûmes parié
+vous eûtes parié
+ils (elles) eurent parié
+
+** Futur antérieur
+
+j'aurai parié
+tu auras parié
+il (elle) aura parié
+nous aurons parié
+vous aurez parié
+ils (elles) auront parié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais parié
+tu aurais parié
+il (elle) aurait parié
+nous aurions parié
+vous auriez parié
+ils (elles) auraient parié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie parié
+que tu aies parié
+qu’il (elle) ait parié
+que nous ayons parié
+que vous ayez parié
+qu’ils (elles) aient parié
+
+** Plus-que-parfait
+
+que j'eusse parié
+que tu eusses parié
+qu’il (elle) eût parié
+que nous eussions parié
+que vous eussiez parié
+qu’ils (elles) eussent parié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons parié
+ayez parié
+
+* INFINITIF
+
+** Passé
+
+avoir parié
+
+* PARTICIPE
+
+** Passé
+
+ayant parié
+parié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis parié(e)
+tu es parié(e)
+il (elle) est parié(e)
+nous sommes parié(e)s
+vous êtes parié(e)s
+ils (elles) sont parié(e)s
+
+** Imparfait
+
+j'étais parié(e)
+tu étais parié(e)
+il (elle) était parié(e)
+nous étions parié(e)s
+vous étiez parié(e)s
+ils (elles) étaient parié(e)s
+
+** Passé simple
+
+je fus parié(e)
+tu fus parié(e)
+il (elle) fut parié(e)
+nous fûmes parié(e)s
+vous fûtes parié(e)s
+ils (elles) furent parié(e)s
+
+** Futur simple
+
+je serai parié(e)
+tu seras parié(e)
+il (elle) sera parié(e)
+nous serons parié(e)s
+vous serez parié(e)s
+ils (elles) seront parié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais parié(e)
+tu serais parié(e)
+il (elle) serait parié(e)
+nous serions parié(e)s
+vous seriez parié(e)s
+ils (elles) seraient parié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois parié(e)
+que tu sois parié(e)
+qu’il (elle) soit parié(e)
+que nous soyons parié(e)s
+que vous soyez parié(e)s
+qu’ils (elles) soient parié(e)s
+
+** Imparfait
+
+que je fusse parié(e)
+que tu fusses parié(e)
+qu’il (elle) fût parié(e)
+que nous fussions parié(e)s
+que vous fussiez parié(e)s
+qu’ils (elles) fussent parié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons parié(e)s
+soyez parié(e)s
+
+* INFINITIF
+
+** Présent
+
+être parié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant parié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été parié(e)
+tu as été parié(e)
+il (elle) a été parié(e)
+nous avons été parié(e)s
+vous avez été parié(e)s
+ils (elles) ont été parié(e)s
+
+** Plus-que-parfait
+
+j'avais été parié(e)
+il (elle) avait été parié(e)
+nous avions été parié(e)s
+ils (elles) avaient été parié(e)s
+
+** Passé antérieur
+
+j'eus été parié(e)
+tu eus été parié(e)
+il (elle) eut été parié(e)
+nous eûmes été parié(e)s
+vous eûtes été parié(e)s
+ils (elles) eurent été parié(e)s
+
+** Futur antérieur
+
+j'aurai été parié(e)
+tu auras été parié(e)
+il (elle) aura été parié(e)
+nous aurons été parié(e)s
+vous aurez été parié(e)s
+ils (elles) auront été parié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été parié(e)
+j'aurais été parié(e)
+il (elle) aurait été parié(e)
+nous aurions été parié(e)s
+vous auriez été parié(e)s
+ils (elles) auraient été parié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été parié(e)
+que tu aies été parié(e)
+qu’il (elle) ait été parié(e)
+que nous ayons été parié(e)s
+que vous ayez été parié(e)s
+qu’ils (elles) aient été parié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été parié(e)
+que tu eusses été parié(e)
+qu’il (elle) eût été parié(e)
+que nous eussions été parié(e)s
+que vous eussiez été parié(e)s
+qu’ils (elles) eussent été parié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été parié(e)
+ayons été parié(e)s
+ayez été parié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été parié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été parié(e)(s)

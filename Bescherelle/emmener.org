@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emmener
+
+* INDICATIF
+
+** Présent
+
+j'emmène
+tu emmènes
+il (elle) emmène
+nous emmenons
+vous emmenez
+ils (elles) emmènent
+
+** Imparfait
+
+j'emmenais
+tu emmenais
+il (elle) emmenait
+nous emmenions
+vous emmeniez
+ils (elles) emmenaient
+
+** Passé simple
+
+j'emmenai
+tu emmenas
+il (elle) emmena
+nous emmenâmes
+vous emmenâtes
+ils (elles) emmenèrent
+
+** Futur simple
+
+j'emmènerai
+tu emmèneras
+il (elle) emmènera
+nous emmènerons
+vous emmènerez
+ils (elles) emmèneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emmènerais
+tu emmènerais
+il (elle) emmènerait
+nous emmènerions
+vous emmèneriez
+ils (elles) emmèneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emmène
+que tu emmènes
+qu’il (elle) emmène
+que nous emmenions
+que vous emmeniez
+qu’ils (elles) emmènent
+
+** Imparfait
+
+que j'emmenasse
+que tu emmenasses
+qu’il (elle) emmenât
+que nous emmenassions
+que vous emmenassiez
+qu’ils (elles) emmenassent
+
+* IMPÉRATIF
+
+** Présent
+
+emmène
+emmenons
+emmenez
+
+* INFINITIF
+
+** Présent
+
+emmener
+
+* PARTICIPE
+
+** Présent
+
+emmenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai emmené
+tu as emmené
+il (elle) a emmené
+nous avons emmené
+vous avez emmené
+ils (elles) ont emmené
+
+** Plus-que-parfait
+
+j'avais emmené
+tu avais emmené
+il (elle) avait emmené
+nous avions emmené
+vous aviez emmené
+ils (elles) avaient emmené
+
+** Passé antérieur
+
+j'eus emmené
+tu eus emmené
+il (elle) eut emmené
+nous eûmes emmené
+vous eûtes emmené
+ils (elles) eurent emmené
+
+** Futur antérieur
+
+j'aurai emmené
+tu auras emmené
+il (elle) aura emmené
+nous aurons emmené
+vous aurez emmené
+ils (elles) auront emmené
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais emmené
+tu aurais emmené
+il (elle) aurait emmené
+nous aurions emmené
+vous auriez emmené
+ils (elles) auraient emmené
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie emmené
+que tu aies emmené
+qu’il (elle) ait emmené
+que nous ayons emmené
+que vous ayez emmené
+qu’ils (elles) aient emmené
+
+** Plus-que-parfait
+
+que j'eusse emmené
+que tu eusses emmené
+qu’il (elle) eût emmené
+que nous eussions emmené
+que vous eussiez emmené
+qu’ils (elles) eussent emmené
+
+* IMPÉRATIF
+
+** Passé
+
+ayons emmené
+ayez emmené
+
+* INFINITIF
+
+** Passé
+
+avoir emmené
+
+* PARTICIPE
+
+** Passé
+
+ayant emmené
+emmené (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis emmené(e)
+tu es emmené(e)
+il (elle) est emmené(e)
+nous sommes emmené(e)s
+vous êtes emmené(e)s
+ils (elles) sont emmené(e)s
+
+** Imparfait
+
+j'étais emmené(e)
+tu étais emmené(e)
+il (elle) était emmené(e)
+nous étions emmené(e)s
+vous étiez emmené(e)s
+ils (elles) étaient emmené(e)s
+
+** Passé simple
+
+je fus emmené(e)
+tu fus emmené(e)
+il (elle) fut emmené(e)
+nous fûmes emmené(e)s
+vous fûtes emmené(e)s
+ils (elles) furent emmené(e)s
+
+** Futur simple
+
+je serai emmené(e)
+tu seras emmené(e)
+il (elle) sera emmené(e)
+nous serons emmené(e)s
+vous serez emmené(e)s
+ils (elles) seront emmené(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais emmené(e)
+tu serais emmené(e)
+il (elle) serait emmené(e)
+nous serions emmené(e)s
+vous seriez emmené(e)s
+ils (elles) seraient emmené(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois emmené(e)
+que tu sois emmené(e)
+qu’il (elle) soit emmené(e)
+que nous soyons emmené(e)s
+que vous soyez emmené(e)s
+qu’ils (elles) soient emmené(e)s
+
+** Imparfait
+
+que je fusse emmené(e)
+que tu fusses emmené(e)
+qu’il (elle) fût emmené(e)
+que nous fussions emmené(e)s
+que vous fussiez emmené(e)s
+qu’ils (elles) fussent emmené(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons emmené(e)s
+soyez emmené(e)s
+
+* INFINITIF
+
+** Présent
+
+être emmené(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant emmené(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été emmené(e)
+tu as été emmené(e)
+il (elle) a été emmené(e)
+nous avons été emmené(e)s
+vous avez été emmené(e)s
+ils (elles) ont été emmené(e)s
+
+** Plus-que-parfait
+
+j'avais été emmené(e)
+il (elle) avait été emmené(e)
+nous avions été emmené(e)s
+ils (elles) avaient été emmené(e)s
+
+** Passé antérieur
+
+j'eus été emmené(e)
+tu eus été emmené(e)
+il (elle) eut été emmené(e)
+nous eûmes été emmené(e)s
+vous eûtes été emmené(e)s
+ils (elles) eurent été emmené(e)s
+
+** Futur antérieur
+
+j'aurai été emmené(e)
+tu auras été emmené(e)
+il (elle) aura été emmené(e)
+nous aurons été emmené(e)s
+vous aurez été emmené(e)s
+ils (elles) auront été emmené(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été emmené(e)
+j'aurais été emmené(e)
+il (elle) aurait été emmené(e)
+nous aurions été emmené(e)s
+vous auriez été emmené(e)s
+ils (elles) auraient été emmené(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été emmené(e)
+que tu aies été emmené(e)
+qu’il (elle) ait été emmené(e)
+que nous ayons été emmené(e)s
+que vous ayez été emmené(e)s
+qu’ils (elles) aient été emmené(e)s
+
+** Plus-que-parfait
+
+que j'eusse été emmené(e)
+que tu eusses été emmené(e)
+qu’il (elle) eût été emmené(e)
+que nous eussions été emmené(e)s
+que vous eussiez été emmené(e)s
+qu’ils (elles) eussent été emmené(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été emmené(e)
+ayons été emmené(e)s
+ayez été emmené(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été emmené(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été emmené(e)(s)

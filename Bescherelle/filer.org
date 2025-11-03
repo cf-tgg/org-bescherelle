@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe filer
+
+* INDICATIF
+
+** Présent
+
+je file
+tu files
+il (elle) file
+nous filons
+vous filez
+ils (elles) filent
+
+** Imparfait
+
+je filais
+tu filais
+il (elle) filait
+nous filions
+vous filiez
+ils (elles) filaient
+
+** Passé simple
+
+je filai
+tu filas
+il (elle) fila
+nous filâmes
+vous filâtes
+ils (elles) filèrent
+
+** Futur simple
+
+je filerai
+tu fileras
+il (elle) filera
+nous filerons
+vous filerez
+ils (elles) fileront
+
+* CONDITIONNEL
+
+** Présent
+
+je filerais
+tu filerais
+il (elle) filerait
+nous filerions
+vous fileriez
+ils (elles) fileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je file
+que tu files
+qu’il (elle) file
+que nous filions
+que vous filiez
+qu’ils (elles) filent
+
+** Imparfait
+
+que je filasse
+que tu filasses
+qu’il (elle) filât
+que nous filassions
+que vous filassiez
+qu’ils (elles) filassent
+
+* IMPÉRATIF
+
+** Présent
+
+file
+filons
+filez
+
+* INFINITIF
+
+** Présent
+
+filer
+
+* PARTICIPE
+
+** Présent
+
+filant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai filé
+tu as filé
+il (elle) a filé
+nous avons filé
+vous avez filé
+ils (elles) ont filé
+
+** Plus-que-parfait
+
+j'avais filé
+tu avais filé
+il (elle) avait filé
+nous avions filé
+vous aviez filé
+ils (elles) avaient filé
+
+** Passé antérieur
+
+j'eus filé
+tu eus filé
+il (elle) eut filé
+nous eûmes filé
+vous eûtes filé
+ils (elles) eurent filé
+
+** Futur antérieur
+
+j'aurai filé
+tu auras filé
+il (elle) aura filé
+nous aurons filé
+vous aurez filé
+ils (elles) auront filé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais filé
+tu aurais filé
+il (elle) aurait filé
+nous aurions filé
+vous auriez filé
+ils (elles) auraient filé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie filé
+que tu aies filé
+qu’il (elle) ait filé
+que nous ayons filé
+que vous ayez filé
+qu’ils (elles) aient filé
+
+** Plus-que-parfait
+
+que j'eusse filé
+que tu eusses filé
+qu’il (elle) eût filé
+que nous eussions filé
+que vous eussiez filé
+qu’ils (elles) eussent filé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons filé
+ayez filé
+
+* INFINITIF
+
+** Passé
+
+avoir filé
+
+* PARTICIPE
+
+** Passé
+
+ayant filé
+filé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis filé(e)
+tu es filé(e)
+il (elle) est filé(e)
+nous sommes filé(e)s
+vous êtes filé(e)s
+ils (elles) sont filé(e)s
+
+** Imparfait
+
+j'étais filé(e)
+tu étais filé(e)
+il (elle) était filé(e)
+nous étions filé(e)s
+vous étiez filé(e)s
+ils (elles) étaient filé(e)s
+
+** Passé simple
+
+je fus filé(e)
+tu fus filé(e)
+il (elle) fut filé(e)
+nous fûmes filé(e)s
+vous fûtes filé(e)s
+ils (elles) furent filé(e)s
+
+** Futur simple
+
+je serai filé(e)
+tu seras filé(e)
+il (elle) sera filé(e)
+nous serons filé(e)s
+vous serez filé(e)s
+ils (elles) seront filé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais filé(e)
+tu serais filé(e)
+il (elle) serait filé(e)
+nous serions filé(e)s
+vous seriez filé(e)s
+ils (elles) seraient filé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois filé(e)
+que tu sois filé(e)
+qu’il (elle) soit filé(e)
+que nous soyons filé(e)s
+que vous soyez filé(e)s
+qu’ils (elles) soient filé(e)s
+
+** Imparfait
+
+que je fusse filé(e)
+que tu fusses filé(e)
+qu’il (elle) fût filé(e)
+que nous fussions filé(e)s
+que vous fussiez filé(e)s
+qu’ils (elles) fussent filé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons filé(e)s
+soyez filé(e)s
+
+* INFINITIF
+
+** Présent
+
+être filé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant filé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été filé(e)
+tu as été filé(e)
+il (elle) a été filé(e)
+nous avons été filé(e)s
+vous avez été filé(e)s
+ils (elles) ont été filé(e)s
+
+** Plus-que-parfait
+
+j'avais été filé(e)
+il (elle) avait été filé(e)
+nous avions été filé(e)s
+ils (elles) avaient été filé(e)s
+
+** Passé antérieur
+
+j'eus été filé(e)
+tu eus été filé(e)
+il (elle) eut été filé(e)
+nous eûmes été filé(e)s
+vous eûtes été filé(e)s
+ils (elles) eurent été filé(e)s
+
+** Futur antérieur
+
+j'aurai été filé(e)
+tu auras été filé(e)
+il (elle) aura été filé(e)
+nous aurons été filé(e)s
+vous aurez été filé(e)s
+ils (elles) auront été filé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été filé(e)
+j'aurais été filé(e)
+il (elle) aurait été filé(e)
+nous aurions été filé(e)s
+vous auriez été filé(e)s
+ils (elles) auraient été filé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été filé(e)
+que tu aies été filé(e)
+qu’il (elle) ait été filé(e)
+que nous ayons été filé(e)s
+que vous ayez été filé(e)s
+qu’ils (elles) aient été filé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été filé(e)
+que tu eusses été filé(e)
+qu’il (elle) eût été filé(e)
+que nous eussions été filé(e)s
+que vous eussiez été filé(e)s
+qu’ils (elles) eussent été filé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été filé(e)
+ayons été filé(e)s
+ayez été filé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été filé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été filé(e)(s)

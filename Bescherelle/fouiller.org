@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fouiller
+
+* INDICATIF
+
+** Présent
+
+je fouille
+tu fouilles
+il (elle) fouille
+nous fouillons
+vous fouillez
+ils (elles) fouillent
+
+** Imparfait
+
+je fouillais
+tu fouillais
+il (elle) fouillait
+nous fouillions
+vous fouilliez
+ils (elles) fouillaient
+
+** Passé simple
+
+je fouillai
+tu fouillas
+il (elle) fouilla
+nous fouillâmes
+vous fouillâtes
+ils (elles) fouillèrent
+
+** Futur simple
+
+je fouillerai
+tu fouilleras
+il (elle) fouillera
+nous fouillerons
+vous fouillerez
+ils (elles) fouilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je fouillerais
+tu fouillerais
+il (elle) fouillerait
+nous fouillerions
+vous fouilleriez
+ils (elles) fouilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fouille
+que tu fouilles
+qu’il (elle) fouille
+que nous fouillions
+que vous fouilliez
+qu’ils (elles) fouillent
+
+** Imparfait
+
+que je fouillasse
+que tu fouillasses
+qu’il (elle) fouillât
+que nous fouillassions
+que vous fouillassiez
+qu’ils (elles) fouillassent
+
+* IMPÉRATIF
+
+** Présent
+
+fouille
+fouillons
+fouillez
+
+* INFINITIF
+
+** Présent
+
+fouiller
+
+* PARTICIPE
+
+** Présent
+
+fouillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fouillé
+tu as fouillé
+il (elle) a fouillé
+nous avons fouillé
+vous avez fouillé
+ils (elles) ont fouillé
+
+** Plus-que-parfait
+
+j'avais fouillé
+tu avais fouillé
+il (elle) avait fouillé
+nous avions fouillé
+vous aviez fouillé
+ils (elles) avaient fouillé
+
+** Passé antérieur
+
+j'eus fouillé
+tu eus fouillé
+il (elle) eut fouillé
+nous eûmes fouillé
+vous eûtes fouillé
+ils (elles) eurent fouillé
+
+** Futur antérieur
+
+j'aurai fouillé
+tu auras fouillé
+il (elle) aura fouillé
+nous aurons fouillé
+vous aurez fouillé
+ils (elles) auront fouillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fouillé
+tu aurais fouillé
+il (elle) aurait fouillé
+nous aurions fouillé
+vous auriez fouillé
+ils (elles) auraient fouillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fouillé
+que tu aies fouillé
+qu’il (elle) ait fouillé
+que nous ayons fouillé
+que vous ayez fouillé
+qu’ils (elles) aient fouillé
+
+** Plus-que-parfait
+
+que j'eusse fouillé
+que tu eusses fouillé
+qu’il (elle) eût fouillé
+que nous eussions fouillé
+que vous eussiez fouillé
+qu’ils (elles) eussent fouillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fouillé
+ayez fouillé
+
+* INFINITIF
+
+** Passé
+
+avoir fouillé
+
+* PARTICIPE
+
+** Passé
+
+ayant fouillé
+fouillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fouillé(e)
+tu es fouillé(e)
+il (elle) est fouillé(e)
+nous sommes fouillé(e)s
+vous êtes fouillé(e)s
+ils (elles) sont fouillé(e)s
+
+** Imparfait
+
+j'étais fouillé(e)
+tu étais fouillé(e)
+il (elle) était fouillé(e)
+nous étions fouillé(e)s
+vous étiez fouillé(e)s
+ils (elles) étaient fouillé(e)s
+
+** Passé simple
+
+je fus fouillé(e)
+tu fus fouillé(e)
+il (elle) fut fouillé(e)
+nous fûmes fouillé(e)s
+vous fûtes fouillé(e)s
+ils (elles) furent fouillé(e)s
+
+** Futur simple
+
+je serai fouillé(e)
+tu seras fouillé(e)
+il (elle) sera fouillé(e)
+nous serons fouillé(e)s
+vous serez fouillé(e)s
+ils (elles) seront fouillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fouillé(e)
+tu serais fouillé(e)
+il (elle) serait fouillé(e)
+nous serions fouillé(e)s
+vous seriez fouillé(e)s
+ils (elles) seraient fouillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fouillé(e)
+que tu sois fouillé(e)
+qu’il (elle) soit fouillé(e)
+que nous soyons fouillé(e)s
+que vous soyez fouillé(e)s
+qu’ils (elles) soient fouillé(e)s
+
+** Imparfait
+
+que je fusse fouillé(e)
+que tu fusses fouillé(e)
+qu’il (elle) fût fouillé(e)
+que nous fussions fouillé(e)s
+que vous fussiez fouillé(e)s
+qu’ils (elles) fussent fouillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fouillé(e)s
+soyez fouillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fouillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fouillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fouillé(e)
+tu as été fouillé(e)
+il (elle) a été fouillé(e)
+nous avons été fouillé(e)s
+vous avez été fouillé(e)s
+ils (elles) ont été fouillé(e)s
+
+** Plus-que-parfait
+
+j'avais été fouillé(e)
+il (elle) avait été fouillé(e)
+nous avions été fouillé(e)s
+ils (elles) avaient été fouillé(e)s
+
+** Passé antérieur
+
+j'eus été fouillé(e)
+tu eus été fouillé(e)
+il (elle) eut été fouillé(e)
+nous eûmes été fouillé(e)s
+vous eûtes été fouillé(e)s
+ils (elles) eurent été fouillé(e)s
+
+** Futur antérieur
+
+j'aurai été fouillé(e)
+tu auras été fouillé(e)
+il (elle) aura été fouillé(e)
+nous aurons été fouillé(e)s
+vous aurez été fouillé(e)s
+ils (elles) auront été fouillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fouillé(e)
+j'aurais été fouillé(e)
+il (elle) aurait été fouillé(e)
+nous aurions été fouillé(e)s
+vous auriez été fouillé(e)s
+ils (elles) auraient été fouillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fouillé(e)
+que tu aies été fouillé(e)
+qu’il (elle) ait été fouillé(e)
+que nous ayons été fouillé(e)s
+que vous ayez été fouillé(e)s
+qu’ils (elles) aient été fouillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fouillé(e)
+que tu eusses été fouillé(e)
+qu’il (elle) eût été fouillé(e)
+que nous eussions été fouillé(e)s
+que vous eussiez été fouillé(e)s
+qu’ils (elles) eussent été fouillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fouillé(e)
+ayons été fouillé(e)s
+ayez été fouillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fouillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fouillé(e)(s)

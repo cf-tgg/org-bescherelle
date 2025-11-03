@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apposer
+
+* INDICATIF
+
+** Présent
+
+j'appose
+tu apposes
+il (elle) appose
+nous apposons
+vous apposez
+ils (elles) apposent
+
+** Imparfait
+
+j'apposais
+tu apposais
+il (elle) apposait
+nous apposions
+vous apposiez
+ils (elles) apposaient
+
+** Passé simple
+
+j'apposai
+tu apposas
+il (elle) apposa
+nous apposâmes
+vous apposâtes
+ils (elles) apposèrent
+
+** Futur simple
+
+j'apposerai
+tu apposeras
+il (elle) apposera
+nous apposerons
+vous apposerez
+ils (elles) apposeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apposerais
+tu apposerais
+il (elle) apposerait
+nous apposerions
+vous apposeriez
+ils (elles) apposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'appose
+que tu apposes
+qu’il (elle) appose
+que nous apposions
+que vous apposiez
+qu’ils (elles) apposent
+
+** Imparfait
+
+que j'apposasse
+que tu apposasses
+qu’il (elle) apposât
+que nous apposassions
+que vous apposassiez
+qu’ils (elles) apposassent
+
+* IMPÉRATIF
+
+** Présent
+
+appose
+apposons
+apposez
+
+* INFINITIF
+
+** Présent
+
+apposer
+
+* PARTICIPE
+
+** Présent
+
+apposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apposé
+tu as apposé
+il (elle) a apposé
+nous avons apposé
+vous avez apposé
+ils (elles) ont apposé
+
+** Plus-que-parfait
+
+j'avais apposé
+tu avais apposé
+il (elle) avait apposé
+nous avions apposé
+vous aviez apposé
+ils (elles) avaient apposé
+
+** Passé antérieur
+
+j'eus apposé
+tu eus apposé
+il (elle) eut apposé
+nous eûmes apposé
+vous eûtes apposé
+ils (elles) eurent apposé
+
+** Futur antérieur
+
+j'aurai apposé
+tu auras apposé
+il (elle) aura apposé
+nous aurons apposé
+vous aurez apposé
+ils (elles) auront apposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apposé
+tu aurais apposé
+il (elle) aurait apposé
+nous aurions apposé
+vous auriez apposé
+ils (elles) auraient apposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apposé
+que tu aies apposé
+qu’il (elle) ait apposé
+que nous ayons apposé
+que vous ayez apposé
+qu’ils (elles) aient apposé
+
+** Plus-que-parfait
+
+que j'eusse apposé
+que tu eusses apposé
+qu’il (elle) eût apposé
+que nous eussions apposé
+que vous eussiez apposé
+qu’ils (elles) eussent apposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apposé
+ayez apposé
+
+* INFINITIF
+
+** Passé
+
+avoir apposé
+
+* PARTICIPE
+
+** Passé
+
+ayant apposé
+apposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apposé(e)
+tu es apposé(e)
+il (elle) est apposé(e)
+nous sommes apposé(e)s
+vous êtes apposé(e)s
+ils (elles) sont apposé(e)s
+
+** Imparfait
+
+j'étais apposé(e)
+tu étais apposé(e)
+il (elle) était apposé(e)
+nous étions apposé(e)s
+vous étiez apposé(e)s
+ils (elles) étaient apposé(e)s
+
+** Passé simple
+
+je fus apposé(e)
+tu fus apposé(e)
+il (elle) fut apposé(e)
+nous fûmes apposé(e)s
+vous fûtes apposé(e)s
+ils (elles) furent apposé(e)s
+
+** Futur simple
+
+je serai apposé(e)
+tu seras apposé(e)
+il (elle) sera apposé(e)
+nous serons apposé(e)s
+vous serez apposé(e)s
+ils (elles) seront apposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apposé(e)
+tu serais apposé(e)
+il (elle) serait apposé(e)
+nous serions apposé(e)s
+vous seriez apposé(e)s
+ils (elles) seraient apposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apposé(e)
+que tu sois apposé(e)
+qu’il (elle) soit apposé(e)
+que nous soyons apposé(e)s
+que vous soyez apposé(e)s
+qu’ils (elles) soient apposé(e)s
+
+** Imparfait
+
+que je fusse apposé(e)
+que tu fusses apposé(e)
+qu’il (elle) fût apposé(e)
+que nous fussions apposé(e)s
+que vous fussiez apposé(e)s
+qu’ils (elles) fussent apposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apposé(e)s
+soyez apposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être apposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apposé(e)
+tu as été apposé(e)
+il (elle) a été apposé(e)
+nous avons été apposé(e)s
+vous avez été apposé(e)s
+ils (elles) ont été apposé(e)s
+
+** Plus-que-parfait
+
+j'avais été apposé(e)
+il (elle) avait été apposé(e)
+nous avions été apposé(e)s
+ils (elles) avaient été apposé(e)s
+
+** Passé antérieur
+
+j'eus été apposé(e)
+tu eus été apposé(e)
+il (elle) eut été apposé(e)
+nous eûmes été apposé(e)s
+vous eûtes été apposé(e)s
+ils (elles) eurent été apposé(e)s
+
+** Futur antérieur
+
+j'aurai été apposé(e)
+tu auras été apposé(e)
+il (elle) aura été apposé(e)
+nous aurons été apposé(e)s
+vous aurez été apposé(e)s
+ils (elles) auront été apposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apposé(e)
+j'aurais été apposé(e)
+il (elle) aurait été apposé(e)
+nous aurions été apposé(e)s
+vous auriez été apposé(e)s
+ils (elles) auraient été apposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apposé(e)
+que tu aies été apposé(e)
+qu’il (elle) ait été apposé(e)
+que nous ayons été apposé(e)s
+que vous ayez été apposé(e)s
+qu’ils (elles) aient été apposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apposé(e)
+que tu eusses été apposé(e)
+qu’il (elle) eût été apposé(e)
+que nous eussions été apposé(e)s
+que vous eussiez été apposé(e)s
+qu’ils (elles) eussent été apposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apposé(e)
+ayons été apposé(e)s
+ayez été apposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apposé(e)(s)

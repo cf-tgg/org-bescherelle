@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attaquer
+
+* INDICATIF
+
+** Présent
+
+j'attaque
+tu attaques
+il (elle) attaque
+nous attaquons
+vous attaquez
+ils (elles) attaquent
+
+** Imparfait
+
+j'attaquais
+tu attaquais
+il (elle) attaquait
+nous attaquions
+vous attaquiez
+ils (elles) attaquaient
+
+** Passé simple
+
+j'attaquai
+tu attaquas
+il (elle) attaqua
+nous attaquâmes
+vous attaquâtes
+ils (elles) attaquèrent
+
+** Futur simple
+
+j'attaquerai
+tu attaqueras
+il (elle) attaquera
+nous attaquerons
+vous attaquerez
+ils (elles) attaqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attaquerais
+tu attaquerais
+il (elle) attaquerait
+nous attaquerions
+vous attaqueriez
+ils (elles) attaqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attaque
+que tu attaques
+qu’il (elle) attaque
+que nous attaquions
+que vous attaquiez
+qu’ils (elles) attaquent
+
+** Imparfait
+
+que j'attaquasse
+que tu attaquasses
+qu’il (elle) attaquât
+que nous attaquassions
+que vous attaquassiez
+qu’ils (elles) attaquassent
+
+* IMPÉRATIF
+
+** Présent
+
+attaque
+attaquons
+attaquez
+
+* INFINITIF
+
+** Présent
+
+attaquer
+
+* PARTICIPE
+
+** Présent
+
+attaquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attaqué
+tu as attaqué
+il (elle) a attaqué
+nous avons attaqué
+vous avez attaqué
+ils (elles) ont attaqué
+
+** Plus-que-parfait
+
+j'avais attaqué
+tu avais attaqué
+il (elle) avait attaqué
+nous avions attaqué
+vous aviez attaqué
+ils (elles) avaient attaqué
+
+** Passé antérieur
+
+j'eus attaqué
+tu eus attaqué
+il (elle) eut attaqué
+nous eûmes attaqué
+vous eûtes attaqué
+ils (elles) eurent attaqué
+
+** Futur antérieur
+
+j'aurai attaqué
+tu auras attaqué
+il (elle) aura attaqué
+nous aurons attaqué
+vous aurez attaqué
+ils (elles) auront attaqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attaqué
+tu aurais attaqué
+il (elle) aurait attaqué
+nous aurions attaqué
+vous auriez attaqué
+ils (elles) auraient attaqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attaqué
+que tu aies attaqué
+qu’il (elle) ait attaqué
+que nous ayons attaqué
+que vous ayez attaqué
+qu’ils (elles) aient attaqué
+
+** Plus-que-parfait
+
+que j'eusse attaqué
+que tu eusses attaqué
+qu’il (elle) eût attaqué
+que nous eussions attaqué
+que vous eussiez attaqué
+qu’ils (elles) eussent attaqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attaqué
+ayez attaqué
+
+* INFINITIF
+
+** Passé
+
+avoir attaqué
+
+* PARTICIPE
+
+** Passé
+
+ayant attaqué
+attaqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attaqué(e)
+tu es attaqué(e)
+il (elle) est attaqué(e)
+nous sommes attaqué(e)s
+vous êtes attaqué(e)s
+ils (elles) sont attaqué(e)s
+
+** Imparfait
+
+j'étais attaqué(e)
+tu étais attaqué(e)
+il (elle) était attaqué(e)
+nous étions attaqué(e)s
+vous étiez attaqué(e)s
+ils (elles) étaient attaqué(e)s
+
+** Passé simple
+
+je fus attaqué(e)
+tu fus attaqué(e)
+il (elle) fut attaqué(e)
+nous fûmes attaqué(e)s
+vous fûtes attaqué(e)s
+ils (elles) furent attaqué(e)s
+
+** Futur simple
+
+je serai attaqué(e)
+tu seras attaqué(e)
+il (elle) sera attaqué(e)
+nous serons attaqué(e)s
+vous serez attaqué(e)s
+ils (elles) seront attaqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attaqué(e)
+tu serais attaqué(e)
+il (elle) serait attaqué(e)
+nous serions attaqué(e)s
+vous seriez attaqué(e)s
+ils (elles) seraient attaqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attaqué(e)
+que tu sois attaqué(e)
+qu’il (elle) soit attaqué(e)
+que nous soyons attaqué(e)s
+que vous soyez attaqué(e)s
+qu’ils (elles) soient attaqué(e)s
+
+** Imparfait
+
+que je fusse attaqué(e)
+que tu fusses attaqué(e)
+qu’il (elle) fût attaqué(e)
+que nous fussions attaqué(e)s
+que vous fussiez attaqué(e)s
+qu’ils (elles) fussent attaqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attaqué(e)s
+soyez attaqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être attaqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attaqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attaqué(e)
+tu as été attaqué(e)
+il (elle) a été attaqué(e)
+nous avons été attaqué(e)s
+vous avez été attaqué(e)s
+ils (elles) ont été attaqué(e)s
+
+** Plus-que-parfait
+
+j'avais été attaqué(e)
+il (elle) avait été attaqué(e)
+nous avions été attaqué(e)s
+ils (elles) avaient été attaqué(e)s
+
+** Passé antérieur
+
+j'eus été attaqué(e)
+tu eus été attaqué(e)
+il (elle) eut été attaqué(e)
+nous eûmes été attaqué(e)s
+vous eûtes été attaqué(e)s
+ils (elles) eurent été attaqué(e)s
+
+** Futur antérieur
+
+j'aurai été attaqué(e)
+tu auras été attaqué(e)
+il (elle) aura été attaqué(e)
+nous aurons été attaqué(e)s
+vous aurez été attaqué(e)s
+ils (elles) auront été attaqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attaqué(e)
+j'aurais été attaqué(e)
+il (elle) aurait été attaqué(e)
+nous aurions été attaqué(e)s
+vous auriez été attaqué(e)s
+ils (elles) auraient été attaqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attaqué(e)
+que tu aies été attaqué(e)
+qu’il (elle) ait été attaqué(e)
+que nous ayons été attaqué(e)s
+que vous ayez été attaqué(e)s
+qu’ils (elles) aient été attaqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attaqué(e)
+que tu eusses été attaqué(e)
+qu’il (elle) eût été attaqué(e)
+que nous eussions été attaqué(e)s
+que vous eussiez été attaqué(e)s
+qu’ils (elles) eussent été attaqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attaqué(e)
+ayons été attaqué(e)s
+ayez été attaqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attaqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attaqué(e)(s)

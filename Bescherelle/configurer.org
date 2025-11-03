@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe configurer
+
+* INDICATIF
+
+** Présent
+
+je configure
+tu configures
+il (elle) configure
+nous configurons
+vous configurez
+ils (elles) configurent
+
+** Imparfait
+
+je configurais
+tu configurais
+il (elle) configurait
+nous configurions
+vous configuriez
+ils (elles) configuraient
+
+** Passé simple
+
+je configurai
+tu configuras
+il (elle) configura
+nous configurâmes
+vous configurâtes
+ils (elles) configurèrent
+
+** Futur simple
+
+je configurerai
+tu configureras
+il (elle) configurera
+nous configurerons
+vous configurerez
+ils (elles) configureront
+
+* CONDITIONNEL
+
+** Présent
+
+je configurerais
+tu configurerais
+il (elle) configurerait
+nous configurerions
+vous configureriez
+ils (elles) configureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je configure
+que tu configures
+qu’il (elle) configure
+que nous configurions
+que vous configuriez
+qu’ils (elles) configurent
+
+** Imparfait
+
+que je configurasse
+que tu configurasses
+qu’il (elle) configurât
+que nous configurassions
+que vous configurassiez
+qu’ils (elles) configurassent
+
+* IMPÉRATIF
+
+** Présent
+
+configure
+configurons
+configurez
+
+* INFINITIF
+
+** Présent
+
+configurer
+
+* PARTICIPE
+
+** Présent
+
+configurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai configuré
+tu as configuré
+il (elle) a configuré
+nous avons configuré
+vous avez configuré
+ils (elles) ont configuré
+
+** Plus-que-parfait
+
+j'avais configuré
+tu avais configuré
+il (elle) avait configuré
+nous avions configuré
+vous aviez configuré
+ils (elles) avaient configuré
+
+** Passé antérieur
+
+j'eus configuré
+tu eus configuré
+il (elle) eut configuré
+nous eûmes configuré
+vous eûtes configuré
+ils (elles) eurent configuré
+
+** Futur antérieur
+
+j'aurai configuré
+tu auras configuré
+il (elle) aura configuré
+nous aurons configuré
+vous aurez configuré
+ils (elles) auront configuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais configuré
+tu aurais configuré
+il (elle) aurait configuré
+nous aurions configuré
+vous auriez configuré
+ils (elles) auraient configuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie configuré
+que tu aies configuré
+qu’il (elle) ait configuré
+que nous ayons configuré
+que vous ayez configuré
+qu’ils (elles) aient configuré
+
+** Plus-que-parfait
+
+que j'eusse configuré
+que tu eusses configuré
+qu’il (elle) eût configuré
+que nous eussions configuré
+que vous eussiez configuré
+qu’ils (elles) eussent configuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons configuré
+ayez configuré
+
+* INFINITIF
+
+** Passé
+
+avoir configuré
+
+* PARTICIPE
+
+** Passé
+
+ayant configuré
+configuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis configuré(e)
+tu es configuré(e)
+il (elle) est configuré(e)
+nous sommes configuré(e)s
+vous êtes configuré(e)s
+ils (elles) sont configuré(e)s
+
+** Imparfait
+
+j'étais configuré(e)
+tu étais configuré(e)
+il (elle) était configuré(e)
+nous étions configuré(e)s
+vous étiez configuré(e)s
+ils (elles) étaient configuré(e)s
+
+** Passé simple
+
+je fus configuré(e)
+tu fus configuré(e)
+il (elle) fut configuré(e)
+nous fûmes configuré(e)s
+vous fûtes configuré(e)s
+ils (elles) furent configuré(e)s
+
+** Futur simple
+
+je serai configuré(e)
+tu seras configuré(e)
+il (elle) sera configuré(e)
+nous serons configuré(e)s
+vous serez configuré(e)s
+ils (elles) seront configuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais configuré(e)
+tu serais configuré(e)
+il (elle) serait configuré(e)
+nous serions configuré(e)s
+vous seriez configuré(e)s
+ils (elles) seraient configuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois configuré(e)
+que tu sois configuré(e)
+qu’il (elle) soit configuré(e)
+que nous soyons configuré(e)s
+que vous soyez configuré(e)s
+qu’ils (elles) soient configuré(e)s
+
+** Imparfait
+
+que je fusse configuré(e)
+que tu fusses configuré(e)
+qu’il (elle) fût configuré(e)
+que nous fussions configuré(e)s
+que vous fussiez configuré(e)s
+qu’ils (elles) fussent configuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons configuré(e)s
+soyez configuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être configuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant configuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été configuré(e)
+tu as été configuré(e)
+il (elle) a été configuré(e)
+nous avons été configuré(e)s
+vous avez été configuré(e)s
+ils (elles) ont été configuré(e)s
+
+** Plus-que-parfait
+
+j'avais été configuré(e)
+il (elle) avait été configuré(e)
+nous avions été configuré(e)s
+ils (elles) avaient été configuré(e)s
+
+** Passé antérieur
+
+j'eus été configuré(e)
+tu eus été configuré(e)
+il (elle) eut été configuré(e)
+nous eûmes été configuré(e)s
+vous eûtes été configuré(e)s
+ils (elles) eurent été configuré(e)s
+
+** Futur antérieur
+
+j'aurai été configuré(e)
+tu auras été configuré(e)
+il (elle) aura été configuré(e)
+nous aurons été configuré(e)s
+vous aurez été configuré(e)s
+ils (elles) auront été configuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été configuré(e)
+j'aurais été configuré(e)
+il (elle) aurait été configuré(e)
+nous aurions été configuré(e)s
+vous auriez été configuré(e)s
+ils (elles) auraient été configuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été configuré(e)
+que tu aies été configuré(e)
+qu’il (elle) ait été configuré(e)
+que nous ayons été configuré(e)s
+que vous ayez été configuré(e)s
+qu’ils (elles) aient été configuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été configuré(e)
+que tu eusses été configuré(e)
+qu’il (elle) eût été configuré(e)
+que nous eussions été configuré(e)s
+que vous eussiez été configuré(e)s
+qu’ils (elles) eussent été configuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été configuré(e)
+ayons été configuré(e)s
+ayez été configuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été configuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été configuré(e)(s)

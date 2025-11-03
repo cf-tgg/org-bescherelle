@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe constituer
+
+* INDICATIF
+
+** Présent
+
+je constitue
+tu constitues
+il (elle) constitue
+nous constituons
+vous constituez
+ils (elles) constituent
+
+** Imparfait
+
+je constituais
+tu constituais
+il (elle) constituait
+nous constituions
+vous constituiez
+ils (elles) constituaient
+
+** Passé simple
+
+je constituai
+tu constituas
+il (elle) constitua
+nous constituâmes
+vous constituâtes
+ils (elles) constituèrent
+
+** Futur simple
+
+je constituerai
+tu constitueras
+il (elle) constituera
+nous constituerons
+vous constituerez
+ils (elles) constitueront
+
+* CONDITIONNEL
+
+** Présent
+
+je constituerais
+tu constituerais
+il (elle) constituerait
+nous constituerions
+vous constitueriez
+ils (elles) constitueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je constitue
+que tu constitues
+qu’il (elle) constitue
+que nous constituions
+que vous constituiez
+qu’ils (elles) constituent
+
+** Imparfait
+
+que je constituasse
+que tu constituasses
+qu’il (elle) constituât
+que nous constituassions
+que vous constituassiez
+qu’ils (elles) constituassent
+
+* IMPÉRATIF
+
+** Présent
+
+constitue
+constituons
+constituez
+
+* INFINITIF
+
+** Présent
+
+constituer
+
+* PARTICIPE
+
+** Présent
+
+constituant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai constitué
+tu as constitué
+il (elle) a constitué
+nous avons constitué
+vous avez constitué
+ils (elles) ont constitué
+
+** Plus-que-parfait
+
+j'avais constitué
+tu avais constitué
+il (elle) avait constitué
+nous avions constitué
+vous aviez constitué
+ils (elles) avaient constitué
+
+** Passé antérieur
+
+j'eus constitué
+tu eus constitué
+il (elle) eut constitué
+nous eûmes constitué
+vous eûtes constitué
+ils (elles) eurent constitué
+
+** Futur antérieur
+
+j'aurai constitué
+tu auras constitué
+il (elle) aura constitué
+nous aurons constitué
+vous aurez constitué
+ils (elles) auront constitué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais constitué
+tu aurais constitué
+il (elle) aurait constitué
+nous aurions constitué
+vous auriez constitué
+ils (elles) auraient constitué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie constitué
+que tu aies constitué
+qu’il (elle) ait constitué
+que nous ayons constitué
+que vous ayez constitué
+qu’ils (elles) aient constitué
+
+** Plus-que-parfait
+
+que j'eusse constitué
+que tu eusses constitué
+qu’il (elle) eût constitué
+que nous eussions constitué
+que vous eussiez constitué
+qu’ils (elles) eussent constitué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons constitué
+ayez constitué
+
+* INFINITIF
+
+** Passé
+
+avoir constitué
+
+* PARTICIPE
+
+** Passé
+
+ayant constitué
+constitué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis constitué(e)
+tu es constitué(e)
+il (elle) est constitué(e)
+nous sommes constitué(e)s
+vous êtes constitué(e)s
+ils (elles) sont constitué(e)s
+
+** Imparfait
+
+j'étais constitué(e)
+tu étais constitué(e)
+il (elle) était constitué(e)
+nous étions constitué(e)s
+vous étiez constitué(e)s
+ils (elles) étaient constitué(e)s
+
+** Passé simple
+
+je fus constitué(e)
+tu fus constitué(e)
+il (elle) fut constitué(e)
+nous fûmes constitué(e)s
+vous fûtes constitué(e)s
+ils (elles) furent constitué(e)s
+
+** Futur simple
+
+je serai constitué(e)
+tu seras constitué(e)
+il (elle) sera constitué(e)
+nous serons constitué(e)s
+vous serez constitué(e)s
+ils (elles) seront constitué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais constitué(e)
+tu serais constitué(e)
+il (elle) serait constitué(e)
+nous serions constitué(e)s
+vous seriez constitué(e)s
+ils (elles) seraient constitué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois constitué(e)
+que tu sois constitué(e)
+qu’il (elle) soit constitué(e)
+que nous soyons constitué(e)s
+que vous soyez constitué(e)s
+qu’ils (elles) soient constitué(e)s
+
+** Imparfait
+
+que je fusse constitué(e)
+que tu fusses constitué(e)
+qu’il (elle) fût constitué(e)
+que nous fussions constitué(e)s
+que vous fussiez constitué(e)s
+qu’ils (elles) fussent constitué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons constitué(e)s
+soyez constitué(e)s
+
+* INFINITIF
+
+** Présent
+
+être constitué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant constitué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été constitué(e)
+tu as été constitué(e)
+il (elle) a été constitué(e)
+nous avons été constitué(e)s
+vous avez été constitué(e)s
+ils (elles) ont été constitué(e)s
+
+** Plus-que-parfait
+
+j'avais été constitué(e)
+il (elle) avait été constitué(e)
+nous avions été constitué(e)s
+ils (elles) avaient été constitué(e)s
+
+** Passé antérieur
+
+j'eus été constitué(e)
+tu eus été constitué(e)
+il (elle) eut été constitué(e)
+nous eûmes été constitué(e)s
+vous eûtes été constitué(e)s
+ils (elles) eurent été constitué(e)s
+
+** Futur antérieur
+
+j'aurai été constitué(e)
+tu auras été constitué(e)
+il (elle) aura été constitué(e)
+nous aurons été constitué(e)s
+vous aurez été constitué(e)s
+ils (elles) auront été constitué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été constitué(e)
+j'aurais été constitué(e)
+il (elle) aurait été constitué(e)
+nous aurions été constitué(e)s
+vous auriez été constitué(e)s
+ils (elles) auraient été constitué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été constitué(e)
+que tu aies été constitué(e)
+qu’il (elle) ait été constitué(e)
+que nous ayons été constitué(e)s
+que vous ayez été constitué(e)s
+qu’ils (elles) aient été constitué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été constitué(e)
+que tu eusses été constitué(e)
+qu’il (elle) eût été constitué(e)
+que nous eussions été constitué(e)s
+que vous eussiez été constitué(e)s
+qu’ils (elles) eussent été constitué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été constitué(e)
+ayons été constitué(e)s
+ayez été constitué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été constitué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été constitué(e)(s)

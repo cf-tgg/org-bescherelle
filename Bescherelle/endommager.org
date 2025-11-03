@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe endommager
+
+* INDICATIF
+
+** Présent
+
+j'endommage
+tu endommages
+il (elle) endommage
+nous endommageons
+vous endommagez
+ils (elles) endommagent
+
+** Imparfait
+
+j'endommageais
+tu endommageais
+il (elle) endommageait
+nous endommagions
+vous endommagiez
+ils (elles) endommageaient
+
+** Passé simple
+
+j'endommageai
+tu endommageas
+il (elle) endommagea
+nous endommageâmes
+vous endommageâtes
+ils (elles) endommagèrent
+
+** Futur simple
+
+j'endommagerai
+tu endommageras
+il (elle) endommagera
+nous endommagerons
+vous endommagerez
+ils (elles) endommageront
+
+* CONDITIONNEL
+
+** Présent
+
+j'endommagerais
+tu endommagerais
+il (elle) endommagerait
+nous endommagerions
+vous endommageriez
+ils (elles) endommageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'endommage
+que tu endommages
+qu’il (elle) endommage
+que nous endommagions
+que vous endommagiez
+qu’ils (elles) endommagent
+
+** Imparfait
+
+que j'endommageasse
+que tu endommageasses
+qu’il (elle) endommageât
+que nous endommageassions
+que vous endommageassiez
+qu’ils (elles) endommageassent
+
+* IMPÉRATIF
+
+** Présent
+
+endommage
+endommageons
+endommagez
+
+* INFINITIF
+
+** Présent
+
+endommager
+
+* PARTICIPE
+
+** Présent
+
+endommageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai endommagé
+tu as endommagé
+il (elle) a endommagé
+nous avons endommagé
+vous avez endommagé
+ils (elles) ont endommagé
+
+** Plus-que-parfait
+
+j'avais endommagé
+tu avais endommagé
+il (elle) avait endommagé
+nous avions endommagé
+vous aviez endommagé
+ils (elles) avaient endommagé
+
+** Passé antérieur
+
+j'eus endommagé
+tu eus endommagé
+il (elle) eut endommagé
+nous eûmes endommagé
+vous eûtes endommagé
+ils (elles) eurent endommagé
+
+** Futur antérieur
+
+j'aurai endommagé
+tu auras endommagé
+il (elle) aura endommagé
+nous aurons endommagé
+vous aurez endommagé
+ils (elles) auront endommagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais endommagé
+tu aurais endommagé
+il (elle) aurait endommagé
+nous aurions endommagé
+vous auriez endommagé
+ils (elles) auraient endommagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie endommagé
+que tu aies endommagé
+qu’il (elle) ait endommagé
+que nous ayons endommagé
+que vous ayez endommagé
+qu’ils (elles) aient endommagé
+
+** Plus-que-parfait
+
+que j'eusse endommagé
+que tu eusses endommagé
+qu’il (elle) eût endommagé
+que nous eussions endommagé
+que vous eussiez endommagé
+qu’ils (elles) eussent endommagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons endommagé
+ayez endommagé
+
+* INFINITIF
+
+** Passé
+
+avoir endommagé
+
+* PARTICIPE
+
+** Passé
+
+ayant endommagé
+endommagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis endommagé(e)
+tu es endommagé(e)
+il (elle) est endommagé(e)
+nous sommes endommagé(e)s
+vous êtes endommagé(e)s
+ils (elles) sont endommagé(e)s
+
+** Imparfait
+
+j'étais endommagé(e)
+tu étais endommagé(e)
+il (elle) était endommagé(e)
+nous étions endommagé(e)s
+vous étiez endommagé(e)s
+ils (elles) étaient endommagé(e)s
+
+** Passé simple
+
+je fus endommagé(e)
+tu fus endommagé(e)
+il (elle) fut endommagé(e)
+nous fûmes endommagé(e)s
+vous fûtes endommagé(e)s
+ils (elles) furent endommagé(e)s
+
+** Futur simple
+
+je serai endommagé(e)
+tu seras endommagé(e)
+il (elle) sera endommagé(e)
+nous serons endommagé(e)s
+vous serez endommagé(e)s
+ils (elles) seront endommagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais endommagé(e)
+tu serais endommagé(e)
+il (elle) serait endommagé(e)
+nous serions endommagé(e)s
+vous seriez endommagé(e)s
+ils (elles) seraient endommagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois endommagé(e)
+que tu sois endommagé(e)
+qu’il (elle) soit endommagé(e)
+que nous soyons endommagé(e)s
+que vous soyez endommagé(e)s
+qu’ils (elles) soient endommagé(e)s
+
+** Imparfait
+
+que je fusse endommagé(e)
+que tu fusses endommagé(e)
+qu’il (elle) fût endommagé(e)
+que nous fussions endommagé(e)s
+que vous fussiez endommagé(e)s
+qu’ils (elles) fussent endommagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons endommagé(e)s
+soyez endommagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être endommagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant endommagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été endommagé(e)
+tu as été endommagé(e)
+il (elle) a été endommagé(e)
+nous avons été endommagé(e)s
+vous avez été endommagé(e)s
+ils (elles) ont été endommagé(e)s
+
+** Plus-que-parfait
+
+j'avais été endommagé(e)
+il (elle) avait été endommagé(e)
+nous avions été endommagé(e)s
+ils (elles) avaient été endommagé(e)s
+
+** Passé antérieur
+
+j'eus été endommagé(e)
+tu eus été endommagé(e)
+il (elle) eut été endommagé(e)
+nous eûmes été endommagé(e)s
+vous eûtes été endommagé(e)s
+ils (elles) eurent été endommagé(e)s
+
+** Futur antérieur
+
+j'aurai été endommagé(e)
+tu auras été endommagé(e)
+il (elle) aura été endommagé(e)
+nous aurons été endommagé(e)s
+vous aurez été endommagé(e)s
+ils (elles) auront été endommagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été endommagé(e)
+j'aurais été endommagé(e)
+il (elle) aurait été endommagé(e)
+nous aurions été endommagé(e)s
+vous auriez été endommagé(e)s
+ils (elles) auraient été endommagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été endommagé(e)
+que tu aies été endommagé(e)
+qu’il (elle) ait été endommagé(e)
+que nous ayons été endommagé(e)s
+que vous ayez été endommagé(e)s
+qu’ils (elles) aient été endommagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été endommagé(e)
+que tu eusses été endommagé(e)
+qu’il (elle) eût été endommagé(e)
+que nous eussions été endommagé(e)s
+que vous eussiez été endommagé(e)s
+qu’ils (elles) eussent été endommagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été endommagé(e)
+ayons été endommagé(e)s
+ayez été endommagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été endommagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été endommagé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe raconter
+
+* INDICATIF
+
+** Présent
+
+je raconte
+tu racontes
+il (elle) raconte
+nous racontons
+vous racontez
+ils (elles) racontent
+
+** Imparfait
+
+je racontais
+tu racontais
+il (elle) racontait
+nous racontions
+vous racontiez
+ils (elles) racontaient
+
+** Passé simple
+
+je racontai
+tu racontas
+il (elle) raconta
+nous racontâmes
+vous racontâtes
+ils (elles) racontèrent
+
+** Futur simple
+
+je raconterai
+tu raconteras
+il (elle) racontera
+nous raconterons
+vous raconterez
+ils (elles) raconteront
+
+* CONDITIONNEL
+
+** Présent
+
+je raconterais
+tu raconterais
+il (elle) raconterait
+nous raconterions
+vous raconteriez
+ils (elles) raconteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je raconte
+que tu racontes
+qu’il (elle) raconte
+que nous racontions
+que vous racontiez
+qu’ils (elles) racontent
+
+** Imparfait
+
+que je racontasse
+que tu racontasses
+qu’il (elle) racontât
+que nous racontassions
+que vous racontassiez
+qu’ils (elles) racontassent
+
+* IMPÉRATIF
+
+** Présent
+
+raconte
+racontons
+racontez
+
+* INFINITIF
+
+** Présent
+
+raconter
+
+* PARTICIPE
+
+** Présent
+
+racontant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai raconté
+tu as raconté
+il (elle) a raconté
+nous avons raconté
+vous avez raconté
+ils (elles) ont raconté
+
+** Plus-que-parfait
+
+j'avais raconté
+tu avais raconté
+il (elle) avait raconté
+nous avions raconté
+vous aviez raconté
+ils (elles) avaient raconté
+
+** Passé antérieur
+
+j'eus raconté
+tu eus raconté
+il (elle) eut raconté
+nous eûmes raconté
+vous eûtes raconté
+ils (elles) eurent raconté
+
+** Futur antérieur
+
+j'aurai raconté
+tu auras raconté
+il (elle) aura raconté
+nous aurons raconté
+vous aurez raconté
+ils (elles) auront raconté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais raconté
+tu aurais raconté
+il (elle) aurait raconté
+nous aurions raconté
+vous auriez raconté
+ils (elles) auraient raconté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie raconté
+que tu aies raconté
+qu’il (elle) ait raconté
+que nous ayons raconté
+que vous ayez raconté
+qu’ils (elles) aient raconté
+
+** Plus-que-parfait
+
+que j'eusse raconté
+que tu eusses raconté
+qu’il (elle) eût raconté
+que nous eussions raconté
+que vous eussiez raconté
+qu’ils (elles) eussent raconté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons raconté
+ayez raconté
+
+* INFINITIF
+
+** Passé
+
+avoir raconté
+
+* PARTICIPE
+
+** Passé
+
+ayant raconté
+raconté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis raconté(e)
+tu es raconté(e)
+il (elle) est raconté(e)
+nous sommes raconté(e)s
+vous êtes raconté(e)s
+ils (elles) sont raconté(e)s
+
+** Imparfait
+
+j'étais raconté(e)
+tu étais raconté(e)
+il (elle) était raconté(e)
+nous étions raconté(e)s
+vous étiez raconté(e)s
+ils (elles) étaient raconté(e)s
+
+** Passé simple
+
+je fus raconté(e)
+tu fus raconté(e)
+il (elle) fut raconté(e)
+nous fûmes raconté(e)s
+vous fûtes raconté(e)s
+ils (elles) furent raconté(e)s
+
+** Futur simple
+
+je serai raconté(e)
+tu seras raconté(e)
+il (elle) sera raconté(e)
+nous serons raconté(e)s
+vous serez raconté(e)s
+ils (elles) seront raconté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais raconté(e)
+tu serais raconté(e)
+il (elle) serait raconté(e)
+nous serions raconté(e)s
+vous seriez raconté(e)s
+ils (elles) seraient raconté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois raconté(e)
+que tu sois raconté(e)
+qu’il (elle) soit raconté(e)
+que nous soyons raconté(e)s
+que vous soyez raconté(e)s
+qu’ils (elles) soient raconté(e)s
+
+** Imparfait
+
+que je fusse raconté(e)
+que tu fusses raconté(e)
+qu’il (elle) fût raconté(e)
+que nous fussions raconté(e)s
+que vous fussiez raconté(e)s
+qu’ils (elles) fussent raconté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons raconté(e)s
+soyez raconté(e)s
+
+* INFINITIF
+
+** Présent
+
+être raconté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant raconté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été raconté(e)
+tu as été raconté(e)
+il (elle) a été raconté(e)
+nous avons été raconté(e)s
+vous avez été raconté(e)s
+ils (elles) ont été raconté(e)s
+
+** Plus-que-parfait
+
+j'avais été raconté(e)
+il (elle) avait été raconté(e)
+nous avions été raconté(e)s
+ils (elles) avaient été raconté(e)s
+
+** Passé antérieur
+
+j'eus été raconté(e)
+tu eus été raconté(e)
+il (elle) eut été raconté(e)
+nous eûmes été raconté(e)s
+vous eûtes été raconté(e)s
+ils (elles) eurent été raconté(e)s
+
+** Futur antérieur
+
+j'aurai été raconté(e)
+tu auras été raconté(e)
+il (elle) aura été raconté(e)
+nous aurons été raconté(e)s
+vous aurez été raconté(e)s
+ils (elles) auront été raconté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été raconté(e)
+j'aurais été raconté(e)
+il (elle) aurait été raconté(e)
+nous aurions été raconté(e)s
+vous auriez été raconté(e)s
+ils (elles) auraient été raconté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été raconté(e)
+que tu aies été raconté(e)
+qu’il (elle) ait été raconté(e)
+que nous ayons été raconté(e)s
+que vous ayez été raconté(e)s
+qu’ils (elles) aient été raconté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été raconté(e)
+que tu eusses été raconté(e)
+qu’il (elle) eût été raconté(e)
+que nous eussions été raconté(e)s
+que vous eussiez été raconté(e)s
+qu’ils (elles) eussent été raconté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été raconté(e)
+ayons été raconté(e)s
+ayez été raconté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été raconté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été raconté(e)(s)

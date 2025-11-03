@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pourvoir
+
+* INDICATIF
+
+** Présent
+
+je pourvois
+tu pourvois
+il (elle) pourvoit
+nous pourvoyons
+vous pourvoyez
+ils (elles) pourvoient
+
+** Imparfait
+
+je pourvoyais
+tu pourvoyais
+il (elle) pourvoyait
+nous pourvoyions
+vous pourvoyiez
+ils (elles) pourvoyaient
+
+** Passé simple
+
+je pourvus
+tu pourvus
+il (elle) pourvut
+nous pourvûmes
+vous pourvûtes
+ils (elles) pourvurent
+
+** Futur simple
+
+je pourvoirai
+tu pourvoiras
+il (elle) pourvoira
+nous pourvoirons
+vous pourvoirez
+ils (elles) pourvoiront
+
+* CONDITIONNEL
+
+** Présent
+
+je pourvoirais
+tu pourvoirais
+il (elle) pourvoirait
+nous pourvoirions
+vous pourvoiriez
+ils (elles) pourvoiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pourvoie
+que tu pourvoies
+qu’il (elle) pourvoie
+que nous pourvoyions
+que vous pourvoyiez
+qu’ils (elles) pourvoient
+
+** Imparfait
+
+que je pourvusse
+que tu pourvusses
+qu’il (elle) pourvût
+que nous pourvussions
+que vous pourvussiez
+qu’ils (elles) pourvussent
+
+* IMPÉRATIF
+
+** Présent
+
+pourvois
+pourvoyons
+pourvoyez
+
+* INFINITIF
+
+** Présent
+
+pourvoir
+
+* PARTICIPE
+
+** Présent
+
+pourvoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pourvu
+tu as pourvu
+il (elle) a pourvu
+nous avons pourvu
+vous avez pourvu
+ils (elles) ont pourvu
+
+** Plus-que-parfait
+
+j'avais pourvu
+tu avais pourvu
+il (elle) avait pourvu
+nous avions pourvu
+vous aviez pourvu
+ils (elles) avaient pourvu
+
+** Passé antérieur
+
+j'eus pourvu
+tu eus pourvu
+il (elle) eut pourvu
+nous eûmes pourvu
+vous eûtes pourvu
+ils (elles) eurent pourvu
+
+** Futur antérieur
+
+j'aurai pourvu
+tu auras pourvu
+il (elle) aura pourvu
+nous aurons pourvu
+vous aurez pourvu
+ils (elles) auront pourvu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pourvu
+tu aurais pourvu
+il (elle) aurait pourvu
+nous aurions pourvu
+vous auriez pourvu
+ils (elles) auraient pourvu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pourvu
+que tu aies pourvu
+qu’il (elle) ait pourvu
+que nous ayons pourvu
+que vous ayez pourvu
+qu’ils (elles) aient pourvu
+
+** Plus-que-parfait
+
+que j'eusse pourvu
+que tu eusses pourvu
+qu’il (elle) eût pourvu
+que nous eussions pourvu
+que vous eussiez pourvu
+qu’ils (elles) eussent pourvu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pourvu
+ayez pourvu
+
+* INFINITIF
+
+** Passé
+
+avoir pourvu
+
+* PARTICIPE
+
+** Passé
+
+ayant pourvu
+pourvu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis pourvu(e)
+tu es pourvu(e)
+il (elle) est pourvu(e)
+nous sommes pourvu(e)s
+vous êtes pourvu(e)s
+ils (elles) sont pourvu(e)s
+
+** Imparfait
+
+j'étais pourvu(e)
+tu étais pourvu(e)
+il (elle) était pourvu(e)
+nous étions pourvu(e)s
+vous étiez pourvu(e)s
+ils (elles) étaient pourvu(e)s
+
+** Passé simple
+
+je fus pourvu(e)
+tu fus pourvu(e)
+il (elle) fut pourvu(e)
+nous fûmes pourvu(e)s
+vous fûtes pourvu(e)s
+ils (elles) furent pourvu(e)s
+
+** Futur simple
+
+je serai pourvu(e)
+tu seras pourvu(e)
+il (elle) sera pourvu(e)
+nous serons pourvu(e)s
+vous serez pourvu(e)s
+ils (elles) seront pourvu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pourvu(e)
+tu serais pourvu(e)
+il (elle) serait pourvu(e)
+nous serions pourvu(e)s
+vous seriez pourvu(e)s
+ils (elles) seraient pourvu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pourvu(e)
+que tu sois pourvu(e)
+qu’il (elle) soit pourvu(e)
+que nous soyons pourvu(e)s
+que vous soyez pourvu(e)s
+qu’ils (elles) soient pourvu(e)s
+
+** Imparfait
+
+que je fusse pourvu(e)
+que tu fusses pourvu(e)
+qu’il (elle) fût pourvu(e)
+que nous fussions pourvu(e)s
+que vous fussiez pourvu(e)s
+qu’ils (elles) fussent pourvu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pourvu(e)s
+soyez pourvu(e)s
+
+* INFINITIF
+
+** Présent
+
+être pourvu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pourvu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pourvu(e)
+tu as été pourvu(e)
+il (elle) a été pourvu(e)
+nous avons été pourvu(e)s
+vous avez été pourvu(e)s
+ils (elles) ont été pourvu(e)s
+
+** Plus-que-parfait
+
+j'avais été pourvu(e)
+il (elle) avait été pourvu(e)
+nous avions été pourvu(e)s
+ils (elles) avaient été pourvu(e)s
+
+** Passé antérieur
+
+j'eus été pourvu(e)
+tu eus été pourvu(e)
+il (elle) eut été pourvu(e)
+nous eûmes été pourvu(e)s
+vous eûtes été pourvu(e)s
+ils (elles) eurent été pourvu(e)s
+
+** Futur antérieur
+
+j'aurai été pourvu(e)
+tu auras été pourvu(e)
+il (elle) aura été pourvu(e)
+nous aurons été pourvu(e)s
+vous aurez été pourvu(e)s
+ils (elles) auront été pourvu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pourvu(e)
+j'aurais été pourvu(e)
+il (elle) aurait été pourvu(e)
+nous aurions été pourvu(e)s
+vous auriez été pourvu(e)s
+ils (elles) auraient été pourvu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pourvu(e)
+que tu aies été pourvu(e)
+qu’il (elle) ait été pourvu(e)
+que nous ayons été pourvu(e)s
+que vous ayez été pourvu(e)s
+qu’ils (elles) aient été pourvu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pourvu(e)
+que tu eusses été pourvu(e)
+qu’il (elle) eût été pourvu(e)
+que nous eussions été pourvu(e)s
+que vous eussiez été pourvu(e)s
+qu’ils (elles) eussent été pourvu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pourvu(e)
+ayons été pourvu(e)s
+ayez été pourvu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pourvu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pourvu(e)(s)

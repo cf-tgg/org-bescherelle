@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe soulager
+
+* INDICATIF
+
+** Présent
+
+je soulage
+tu soulages
+il (elle) soulage
+nous soulageons
+vous soulagez
+ils (elles) soulagent
+
+** Imparfait
+
+je soulageais
+tu soulageais
+il (elle) soulageait
+nous soulagions
+vous soulagiez
+ils (elles) soulageaient
+
+** Passé simple
+
+je soulageai
+tu soulageas
+il (elle) soulagea
+nous soulageâmes
+vous soulageâtes
+ils (elles) soulagèrent
+
+** Futur simple
+
+je soulagerai
+tu soulageras
+il (elle) soulagera
+nous soulagerons
+vous soulagerez
+ils (elles) soulageront
+
+* CONDITIONNEL
+
+** Présent
+
+je soulagerais
+tu soulagerais
+il (elle) soulagerait
+nous soulagerions
+vous soulageriez
+ils (elles) soulageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soulage
+que tu soulages
+qu’il (elle) soulage
+que nous soulagions
+que vous soulagiez
+qu’ils (elles) soulagent
+
+** Imparfait
+
+que je soulageasse
+que tu soulageasses
+qu’il (elle) soulageât
+que nous soulageassions
+que vous soulageassiez
+qu’ils (elles) soulageassent
+
+* IMPÉRATIF
+
+** Présent
+
+soulage
+soulageons
+soulagez
+
+* INFINITIF
+
+** Présent
+
+soulager
+
+* PARTICIPE
+
+** Présent
+
+soulageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soulagé
+tu as soulagé
+il (elle) a soulagé
+nous avons soulagé
+vous avez soulagé
+ils (elles) ont soulagé
+
+** Plus-que-parfait
+
+j'avais soulagé
+tu avais soulagé
+il (elle) avait soulagé
+nous avions soulagé
+vous aviez soulagé
+ils (elles) avaient soulagé
+
+** Passé antérieur
+
+j'eus soulagé
+tu eus soulagé
+il (elle) eut soulagé
+nous eûmes soulagé
+vous eûtes soulagé
+ils (elles) eurent soulagé
+
+** Futur antérieur
+
+j'aurai soulagé
+tu auras soulagé
+il (elle) aura soulagé
+nous aurons soulagé
+vous aurez soulagé
+ils (elles) auront soulagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soulagé
+tu aurais soulagé
+il (elle) aurait soulagé
+nous aurions soulagé
+vous auriez soulagé
+ils (elles) auraient soulagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soulagé
+que tu aies soulagé
+qu’il (elle) ait soulagé
+que nous ayons soulagé
+que vous ayez soulagé
+qu’ils (elles) aient soulagé
+
+** Plus-que-parfait
+
+que j'eusse soulagé
+que tu eusses soulagé
+qu’il (elle) eût soulagé
+que nous eussions soulagé
+que vous eussiez soulagé
+qu’ils (elles) eussent soulagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soulagé
+ayez soulagé
+
+* INFINITIF
+
+** Passé
+
+avoir soulagé
+
+* PARTICIPE
+
+** Passé
+
+ayant soulagé
+soulagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis soulagé(e)
+tu es soulagé(e)
+il (elle) est soulagé(e)
+nous sommes soulagé(e)s
+vous êtes soulagé(e)s
+ils (elles) sont soulagé(e)s
+
+** Imparfait
+
+j'étais soulagé(e)
+tu étais soulagé(e)
+il (elle) était soulagé(e)
+nous étions soulagé(e)s
+vous étiez soulagé(e)s
+ils (elles) étaient soulagé(e)s
+
+** Passé simple
+
+je fus soulagé(e)
+tu fus soulagé(e)
+il (elle) fut soulagé(e)
+nous fûmes soulagé(e)s
+vous fûtes soulagé(e)s
+ils (elles) furent soulagé(e)s
+
+** Futur simple
+
+je serai soulagé(e)
+tu seras soulagé(e)
+il (elle) sera soulagé(e)
+nous serons soulagé(e)s
+vous serez soulagé(e)s
+ils (elles) seront soulagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soulagé(e)
+tu serais soulagé(e)
+il (elle) serait soulagé(e)
+nous serions soulagé(e)s
+vous seriez soulagé(e)s
+ils (elles) seraient soulagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soulagé(e)
+que tu sois soulagé(e)
+qu’il (elle) soit soulagé(e)
+que nous soyons soulagé(e)s
+que vous soyez soulagé(e)s
+qu’ils (elles) soient soulagé(e)s
+
+** Imparfait
+
+que je fusse soulagé(e)
+que tu fusses soulagé(e)
+qu’il (elle) fût soulagé(e)
+que nous fussions soulagé(e)s
+que vous fussiez soulagé(e)s
+qu’ils (elles) fussent soulagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soulagé(e)s
+soyez soulagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être soulagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soulagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soulagé(e)
+tu as été soulagé(e)
+il (elle) a été soulagé(e)
+nous avons été soulagé(e)s
+vous avez été soulagé(e)s
+ils (elles) ont été soulagé(e)s
+
+** Plus-que-parfait
+
+j'avais été soulagé(e)
+il (elle) avait été soulagé(e)
+nous avions été soulagé(e)s
+ils (elles) avaient été soulagé(e)s
+
+** Passé antérieur
+
+j'eus été soulagé(e)
+tu eus été soulagé(e)
+il (elle) eut été soulagé(e)
+nous eûmes été soulagé(e)s
+vous eûtes été soulagé(e)s
+ils (elles) eurent été soulagé(e)s
+
+** Futur antérieur
+
+j'aurai été soulagé(e)
+tu auras été soulagé(e)
+il (elle) aura été soulagé(e)
+nous aurons été soulagé(e)s
+vous aurez été soulagé(e)s
+ils (elles) auront été soulagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soulagé(e)
+j'aurais été soulagé(e)
+il (elle) aurait été soulagé(e)
+nous aurions été soulagé(e)s
+vous auriez été soulagé(e)s
+ils (elles) auraient été soulagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soulagé(e)
+que tu aies été soulagé(e)
+qu’il (elle) ait été soulagé(e)
+que nous ayons été soulagé(e)s
+que vous ayez été soulagé(e)s
+qu’ils (elles) aient été soulagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soulagé(e)
+que tu eusses été soulagé(e)
+qu’il (elle) eût été soulagé(e)
+que nous eussions été soulagé(e)s
+que vous eussiez été soulagé(e)s
+qu’ils (elles) eussent été soulagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soulagé(e)
+ayons été soulagé(e)s
+ayez été soulagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soulagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soulagé(e)(s)

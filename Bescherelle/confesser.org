@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confesser
+
+* INDICATIF
+
+** Présent
+
+je confesse
+tu confesses
+il (elle) confesse
+nous confessons
+vous confessez
+ils (elles) confessent
+
+** Imparfait
+
+je confessais
+tu confessais
+il (elle) confessait
+nous confessions
+vous confessiez
+ils (elles) confessaient
+
+** Passé simple
+
+je confessai
+tu confessas
+il (elle) confessa
+nous confessâmes
+vous confessâtes
+ils (elles) confessèrent
+
+** Futur simple
+
+je confesserai
+tu confesseras
+il (elle) confessera
+nous confesserons
+vous confesserez
+ils (elles) confesseront
+
+* CONDITIONNEL
+
+** Présent
+
+je confesserais
+tu confesserais
+il (elle) confesserait
+nous confesserions
+vous confesseriez
+ils (elles) confesseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confesse
+que tu confesses
+qu’il (elle) confesse
+que nous confessions
+que vous confessiez
+qu’ils (elles) confessent
+
+** Imparfait
+
+que je confessasse
+que tu confessasses
+qu’il (elle) confessât
+que nous confessassions
+que vous confessassiez
+qu’ils (elles) confessassent
+
+* IMPÉRATIF
+
+** Présent
+
+confesse
+confessons
+confessez
+
+* INFINITIF
+
+** Présent
+
+confesser
+
+* PARTICIPE
+
+** Présent
+
+confessant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confessé
+tu as confessé
+il (elle) a confessé
+nous avons confessé
+vous avez confessé
+ils (elles) ont confessé
+
+** Plus-que-parfait
+
+j'avais confessé
+tu avais confessé
+il (elle) avait confessé
+nous avions confessé
+vous aviez confessé
+ils (elles) avaient confessé
+
+** Passé antérieur
+
+j'eus confessé
+tu eus confessé
+il (elle) eut confessé
+nous eûmes confessé
+vous eûtes confessé
+ils (elles) eurent confessé
+
+** Futur antérieur
+
+j'aurai confessé
+tu auras confessé
+il (elle) aura confessé
+nous aurons confessé
+vous aurez confessé
+ils (elles) auront confessé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confessé
+tu aurais confessé
+il (elle) aurait confessé
+nous aurions confessé
+vous auriez confessé
+ils (elles) auraient confessé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confessé
+que tu aies confessé
+qu’il (elle) ait confessé
+que nous ayons confessé
+que vous ayez confessé
+qu’ils (elles) aient confessé
+
+** Plus-que-parfait
+
+que j'eusse confessé
+que tu eusses confessé
+qu’il (elle) eût confessé
+que nous eussions confessé
+que vous eussiez confessé
+qu’ils (elles) eussent confessé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confessé
+ayez confessé
+
+* INFINITIF
+
+** Passé
+
+avoir confessé
+
+* PARTICIPE
+
+** Passé
+
+ayant confessé
+confessé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis confessé(e)
+tu es confessé(e)
+il (elle) est confessé(e)
+nous sommes confessé(e)s
+vous êtes confessé(e)s
+ils (elles) sont confessé(e)s
+
+** Imparfait
+
+j'étais confessé(e)
+tu étais confessé(e)
+il (elle) était confessé(e)
+nous étions confessé(e)s
+vous étiez confessé(e)s
+ils (elles) étaient confessé(e)s
+
+** Passé simple
+
+je fus confessé(e)
+tu fus confessé(e)
+il (elle) fut confessé(e)
+nous fûmes confessé(e)s
+vous fûtes confessé(e)s
+ils (elles) furent confessé(e)s
+
+** Futur simple
+
+je serai confessé(e)
+tu seras confessé(e)
+il (elle) sera confessé(e)
+nous serons confessé(e)s
+vous serez confessé(e)s
+ils (elles) seront confessé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confessé(e)
+tu serais confessé(e)
+il (elle) serait confessé(e)
+nous serions confessé(e)s
+vous seriez confessé(e)s
+ils (elles) seraient confessé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confessé(e)
+que tu sois confessé(e)
+qu’il (elle) soit confessé(e)
+que nous soyons confessé(e)s
+que vous soyez confessé(e)s
+qu’ils (elles) soient confessé(e)s
+
+** Imparfait
+
+que je fusse confessé(e)
+que tu fusses confessé(e)
+qu’il (elle) fût confessé(e)
+que nous fussions confessé(e)s
+que vous fussiez confessé(e)s
+qu’ils (elles) fussent confessé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confessé(e)s
+soyez confessé(e)s
+
+* INFINITIF
+
+** Présent
+
+être confessé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confessé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confessé(e)
+tu as été confessé(e)
+il (elle) a été confessé(e)
+nous avons été confessé(e)s
+vous avez été confessé(e)s
+ils (elles) ont été confessé(e)s
+
+** Plus-que-parfait
+
+j'avais été confessé(e)
+il (elle) avait été confessé(e)
+nous avions été confessé(e)s
+ils (elles) avaient été confessé(e)s
+
+** Passé antérieur
+
+j'eus été confessé(e)
+tu eus été confessé(e)
+il (elle) eut été confessé(e)
+nous eûmes été confessé(e)s
+vous eûtes été confessé(e)s
+ils (elles) eurent été confessé(e)s
+
+** Futur antérieur
+
+j'aurai été confessé(e)
+tu auras été confessé(e)
+il (elle) aura été confessé(e)
+nous aurons été confessé(e)s
+vous aurez été confessé(e)s
+ils (elles) auront été confessé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confessé(e)
+j'aurais été confessé(e)
+il (elle) aurait été confessé(e)
+nous aurions été confessé(e)s
+vous auriez été confessé(e)s
+ils (elles) auraient été confessé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confessé(e)
+que tu aies été confessé(e)
+qu’il (elle) ait été confessé(e)
+que nous ayons été confessé(e)s
+que vous ayez été confessé(e)s
+qu’ils (elles) aient été confessé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confessé(e)
+que tu eusses été confessé(e)
+qu’il (elle) eût été confessé(e)
+que nous eussions été confessé(e)s
+que vous eussiez été confessé(e)s
+qu’ils (elles) eussent été confessé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confessé(e)
+ayons été confessé(e)s
+ayez été confessé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confessé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confessé(e)(s)

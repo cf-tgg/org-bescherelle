@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe habler
+
+* INDICATIF
+
+** Présent
+
+je hâble
+tu hâbles
+il (elle) hâble
+nous hâblons
+vous hâblez
+ils (elles) hâblent
+
+** Imparfait
+
+je hâblais
+tu hâblais
+il (elle) hâblait
+nous hâblions
+vous hâbliez
+ils (elles) hâblaient
+
+** Passé simple
+
+je hâblai
+tu hâblas
+il (elle) hâbla
+nous hâblâmes
+vous hâblâtes
+ils (elles) hâblèrent
+
+** Futur simple
+
+je hâblerai
+tu hâbleras
+il (elle) hâblera
+nous hâblerons
+vous hâblerez
+ils (elles) hâbleront
+
+* CONDITIONNEL
+
+** Présent
+
+je hâblerais
+tu hâblerais
+il (elle) hâblerait
+nous hâblerions
+vous hâbleriez
+ils (elles) hâbleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hâble
+que tu hâbles
+qu’il (elle) hâble
+que nous hâblions
+que vous hâbliez
+qu’ils (elles) hâblent
+
+** Imparfait
+
+que je hâblasse
+que tu hâblasses
+qu’il (elle) hâblât
+que nous hâblassions
+que vous hâblassiez
+qu’ils (elles) hâblassent
+
+* IMPÉRATIF
+
+** Présent
+
+hâble
+hâblons
+hâblez
+
+* INFINITIF
+
+** Présent
+
+hâbler
+
+* PARTICIPE
+
+** Présent
+
+hâblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai hâblé
+tu as hâblé
+il (elle) a hâblé
+nous avons hâblé
+vous avez hâblé
+ils (elles) ont hâblé
+
+** Plus-que-parfait
+
+j'avais hâblé
+tu avais hâblé
+il (elle) avait hâblé
+nous avions hâblé
+vous aviez hâblé
+ils (elles) avaient hâblé
+
+** Passé antérieur
+
+j'eus hâblé
+tu eus hâblé
+il (elle) eut hâblé
+nous eûmes hâblé
+vous eûtes hâblé
+ils (elles) eurent hâblé
+
+** Futur antérieur
+
+j'aurai hâblé
+tu auras hâblé
+il (elle) aura hâblé
+nous aurons hâblé
+vous aurez hâblé
+ils (elles) auront hâblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais hâblé
+tu aurais hâblé
+il (elle) aurait hâblé
+nous aurions hâblé
+vous auriez hâblé
+ils (elles) auraient hâblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie hâblé
+que tu aies hâblé
+qu’il (elle) ait hâblé
+que nous ayons hâblé
+que vous ayez hâblé
+qu’ils (elles) aient hâblé
+
+** Plus-que-parfait
+
+que j'eusse hâblé
+que tu eusses hâblé
+qu’il (elle) eût hâblé
+que nous eussions hâblé
+que vous eussiez hâblé
+qu’ils (elles) eussent hâblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons hâblé
+ayez hâblé
+
+* INFINITIF
+
+** Passé
+
+avoir hâblé
+
+* PARTICIPE
+
+** Passé
+
+ayant hâblé
+hâblé (invar.)

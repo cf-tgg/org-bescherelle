@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apaiser
+
+* INDICATIF
+
+** Présent
+
+j'apaise
+tu apaises
+il (elle) apaise
+nous apaisons
+vous apaisez
+ils (elles) apaisent
+
+** Imparfait
+
+j'apaisais
+tu apaisais
+il (elle) apaisait
+nous apaisions
+vous apaisiez
+ils (elles) apaisaient
+
+** Passé simple
+
+j'apaisai
+tu apaisas
+il (elle) apaisa
+nous apaisâmes
+vous apaisâtes
+ils (elles) apaisèrent
+
+** Futur simple
+
+j'apaiserai
+tu apaiseras
+il (elle) apaisera
+nous apaiserons
+vous apaiserez
+ils (elles) apaiseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apaiserais
+tu apaiserais
+il (elle) apaiserait
+nous apaiserions
+vous apaiseriez
+ils (elles) apaiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apaise
+que tu apaises
+qu’il (elle) apaise
+que nous apaisions
+que vous apaisiez
+qu’ils (elles) apaisent
+
+** Imparfait
+
+que j'apaisasse
+que tu apaisasses
+qu’il (elle) apaisât
+que nous apaisassions
+que vous apaisassiez
+qu’ils (elles) apaisassent
+
+* IMPÉRATIF
+
+** Présent
+
+apaise
+apaisons
+apaisez
+
+* INFINITIF
+
+** Présent
+
+apaiser
+
+* PARTICIPE
+
+** Présent
+
+apaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apaisé
+tu as apaisé
+il (elle) a apaisé
+nous avons apaisé
+vous avez apaisé
+ils (elles) ont apaisé
+
+** Plus-que-parfait
+
+j'avais apaisé
+tu avais apaisé
+il (elle) avait apaisé
+nous avions apaisé
+vous aviez apaisé
+ils (elles) avaient apaisé
+
+** Passé antérieur
+
+j'eus apaisé
+tu eus apaisé
+il (elle) eut apaisé
+nous eûmes apaisé
+vous eûtes apaisé
+ils (elles) eurent apaisé
+
+** Futur antérieur
+
+j'aurai apaisé
+tu auras apaisé
+il (elle) aura apaisé
+nous aurons apaisé
+vous aurez apaisé
+ils (elles) auront apaisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apaisé
+tu aurais apaisé
+il (elle) aurait apaisé
+nous aurions apaisé
+vous auriez apaisé
+ils (elles) auraient apaisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apaisé
+que tu aies apaisé
+qu’il (elle) ait apaisé
+que nous ayons apaisé
+que vous ayez apaisé
+qu’ils (elles) aient apaisé
+
+** Plus-que-parfait
+
+que j'eusse apaisé
+que tu eusses apaisé
+qu’il (elle) eût apaisé
+que nous eussions apaisé
+que vous eussiez apaisé
+qu’ils (elles) eussent apaisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apaisé
+ayez apaisé
+
+* INFINITIF
+
+** Passé
+
+avoir apaisé
+
+* PARTICIPE
+
+** Passé
+
+ayant apaisé
+apaisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apaisé(e)
+tu es apaisé(e)
+il (elle) est apaisé(e)
+nous sommes apaisé(e)s
+vous êtes apaisé(e)s
+ils (elles) sont apaisé(e)s
+
+** Imparfait
+
+j'étais apaisé(e)
+tu étais apaisé(e)
+il (elle) était apaisé(e)
+nous étions apaisé(e)s
+vous étiez apaisé(e)s
+ils (elles) étaient apaisé(e)s
+
+** Passé simple
+
+je fus apaisé(e)
+tu fus apaisé(e)
+il (elle) fut apaisé(e)
+nous fûmes apaisé(e)s
+vous fûtes apaisé(e)s
+ils (elles) furent apaisé(e)s
+
+** Futur simple
+
+je serai apaisé(e)
+tu seras apaisé(e)
+il (elle) sera apaisé(e)
+nous serons apaisé(e)s
+vous serez apaisé(e)s
+ils (elles) seront apaisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apaisé(e)
+tu serais apaisé(e)
+il (elle) serait apaisé(e)
+nous serions apaisé(e)s
+vous seriez apaisé(e)s
+ils (elles) seraient apaisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apaisé(e)
+que tu sois apaisé(e)
+qu’il (elle) soit apaisé(e)
+que nous soyons apaisé(e)s
+que vous soyez apaisé(e)s
+qu’ils (elles) soient apaisé(e)s
+
+** Imparfait
+
+que je fusse apaisé(e)
+que tu fusses apaisé(e)
+qu’il (elle) fût apaisé(e)
+que nous fussions apaisé(e)s
+que vous fussiez apaisé(e)s
+qu’ils (elles) fussent apaisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apaisé(e)s
+soyez apaisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être apaisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apaisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apaisé(e)
+tu as été apaisé(e)
+il (elle) a été apaisé(e)
+nous avons été apaisé(e)s
+vous avez été apaisé(e)s
+ils (elles) ont été apaisé(e)s
+
+** Plus-que-parfait
+
+j'avais été apaisé(e)
+il (elle) avait été apaisé(e)
+nous avions été apaisé(e)s
+ils (elles) avaient été apaisé(e)s
+
+** Passé antérieur
+
+j'eus été apaisé(e)
+tu eus été apaisé(e)
+il (elle) eut été apaisé(e)
+nous eûmes été apaisé(e)s
+vous eûtes été apaisé(e)s
+ils (elles) eurent été apaisé(e)s
+
+** Futur antérieur
+
+j'aurai été apaisé(e)
+tu auras été apaisé(e)
+il (elle) aura été apaisé(e)
+nous aurons été apaisé(e)s
+vous aurez été apaisé(e)s
+ils (elles) auront été apaisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apaisé(e)
+j'aurais été apaisé(e)
+il (elle) aurait été apaisé(e)
+nous aurions été apaisé(e)s
+vous auriez été apaisé(e)s
+ils (elles) auraient été apaisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apaisé(e)
+que tu aies été apaisé(e)
+qu’il (elle) ait été apaisé(e)
+que nous ayons été apaisé(e)s
+que vous ayez été apaisé(e)s
+qu’ils (elles) aient été apaisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apaisé(e)
+que tu eusses été apaisé(e)
+qu’il (elle) eût été apaisé(e)
+que nous eussions été apaisé(e)s
+que vous eussiez été apaisé(e)s
+qu’ils (elles) eussent été apaisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apaisé(e)
+ayons été apaisé(e)s
+ayez été apaisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apaisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apaisé(e)(s)

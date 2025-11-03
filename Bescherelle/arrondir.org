@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe arrondir
+
+* INDICATIF
+
+** Présent
+
+j'arrondis
+tu arrondis
+il (elle) arrondit
+nous arrondissons
+vous arrondissez
+ils (elles) arrondissent
+
+** Imparfait
+
+j'arrondissais
+tu arrondissais
+il (elle) arrondissait
+nous arrondissions
+vous arrondissiez
+ils (elles) arrondissaient
+
+** Passé simple
+
+j'arrondis
+tu arrondis
+il (elle) arrondit
+nous arrondîmes
+vous arrondîtes
+ils (elles) arrondirent
+
+** Futur simple
+
+j'arrondirai
+tu arrondiras
+il (elle) arrondira
+nous arrondirons
+vous arrondirez
+ils (elles) arrondiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'arrondirais
+tu arrondirais
+il (elle) arrondirait
+nous arrondirions
+vous arrondiriez
+ils (elles) arrondiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'arrondisse
+que tu arrondisses
+qu’il (elle) arrondisse
+que nous arrondissions
+que vous arrondissiez
+qu’ils (elles) arrondissent
+
+** Imparfait
+
+que j'arrondisse
+que tu arrondisses
+qu’il (elle) arrondît
+que nous arrondissions
+que vous arrondissiez
+qu’ils (elles) arrondissent
+
+* IMPÉRATIF
+
+** Présent
+
+arrondis
+arrondissons
+arrondissez
+
+* INFINITIF
+
+** Présent
+
+arrondir
+
+* PARTICIPE
+
+** Présent
+
+arrondissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai arrondi
+tu as arrondi
+il (elle) a arrondi
+nous avons arrondi
+vous avez arrondi
+ils (elles) ont arrondi
+
+** Plus-que-parfait
+
+j'avais arrondi
+tu avais arrondi
+il (elle) avait arrondi
+nous avions arrondi
+vous aviez arrondi
+ils (elles) avaient arrondi
+
+** Passé antérieur
+
+j'eus arrondi
+tu eus arrondi
+il (elle) eut arrondi
+nous eûmes arrondi
+vous eûtes arrondi
+ils (elles) eurent arrondi
+
+** Futur antérieur
+
+j'aurai arrondi
+tu auras arrondi
+il (elle) aura arrondi
+nous aurons arrondi
+vous aurez arrondi
+ils (elles) auront arrondi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais arrondi
+tu aurais arrondi
+il (elle) aurait arrondi
+nous aurions arrondi
+vous auriez arrondi
+ils (elles) auraient arrondi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie arrondi
+que tu aies arrondi
+qu’il (elle) ait arrondi
+que nous ayons arrondi
+que vous ayez arrondi
+qu’ils (elles) aient arrondi
+
+** Plus-que-parfait
+
+que j'eusse arrondi
+que tu eusses arrondi
+qu’il (elle) eût arrondi
+que nous eussions arrondi
+que vous eussiez arrondi
+qu’ils (elles) eussent arrondi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons arrondi
+ayez arrondi
+
+* INFINITIF
+
+** Passé
+
+avoir arrondi
+
+* PARTICIPE
+
+** Passé
+
+ayant arrondi
+arrondi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis arrondi(e)
+tu es arrondi(e)
+il (elle) est arrondi(e)
+nous sommes arrondi(e)s
+vous êtes arrondi(e)s
+ils (elles) sont arrondi(e)s
+
+** Imparfait
+
+j'étais arrondi(e)
+tu étais arrondi(e)
+il (elle) était arrondi(e)
+nous étions arrondi(e)s
+vous étiez arrondi(e)s
+ils (elles) étaient arrondi(e)s
+
+** Passé simple
+
+je fus arrondi(e)
+tu fus arrondi(e)
+il (elle) fut arrondi(e)
+nous fûmes arrondi(e)s
+vous fûtes arrondi(e)s
+ils (elles) furent arrondi(e)s
+
+** Futur simple
+
+je serai arrondi(e)
+tu seras arrondi(e)
+il (elle) sera arrondi(e)
+nous serons arrondi(e)s
+vous serez arrondi(e)s
+ils (elles) seront arrondi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais arrondi(e)
+tu serais arrondi(e)
+il (elle) serait arrondi(e)
+nous serions arrondi(e)s
+vous seriez arrondi(e)s
+ils (elles) seraient arrondi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois arrondi(e)
+que tu sois arrondi(e)
+qu’il (elle) soit arrondi(e)
+que nous soyons arrondi(e)s
+que vous soyez arrondi(e)s
+qu’ils (elles) soient arrondi(e)s
+
+** Imparfait
+
+que je fusse arrondi(e)
+que tu fusses arrondi(e)
+qu’il (elle) fût arrondi(e)
+que nous fussions arrondi(e)s
+que vous fussiez arrondi(e)s
+qu’ils (elles) fussent arrondi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons arrondi(e)s
+soyez arrondi(e)s
+
+* INFINITIF
+
+** Présent
+
+être arrondi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant arrondi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été arrondi(e)
+tu as été arrondi(e)
+il (elle) a été arrondi(e)
+nous avons été arrondi(e)s
+vous avez été arrondi(e)s
+ils (elles) ont été arrondi(e)s
+
+** Plus-que-parfait
+
+j'avais été arrondi(e)
+il (elle) avait été arrondi(e)
+nous avions été arrondi(e)s
+ils (elles) avaient été arrondi(e)s
+
+** Passé antérieur
+
+j'eus été arrondi(e)
+tu eus été arrondi(e)
+il (elle) eut été arrondi(e)
+nous eûmes été arrondi(e)s
+vous eûtes été arrondi(e)s
+ils (elles) eurent été arrondi(e)s
+
+** Futur antérieur
+
+j'aurai été arrondi(e)
+tu auras été arrondi(e)
+il (elle) aura été arrondi(e)
+nous aurons été arrondi(e)s
+vous aurez été arrondi(e)s
+ils (elles) auront été arrondi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été arrondi(e)
+j'aurais été arrondi(e)
+il (elle) aurait été arrondi(e)
+nous aurions été arrondi(e)s
+vous auriez été arrondi(e)s
+ils (elles) auraient été arrondi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été arrondi(e)
+que tu aies été arrondi(e)
+qu’il (elle) ait été arrondi(e)
+que nous ayons été arrondi(e)s
+que vous ayez été arrondi(e)s
+qu’ils (elles) aient été arrondi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été arrondi(e)
+que tu eusses été arrondi(e)
+qu’il (elle) eût été arrondi(e)
+que nous eussions été arrondi(e)s
+que vous eussiez été arrondi(e)s
+qu’ils (elles) eussent été arrondi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été arrondi(e)
+ayons été arrondi(e)s
+ayez été arrondi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été arrondi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été arrondi(e)(s)

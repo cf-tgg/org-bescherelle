@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe geindre
+
+* INDICATIF
+
+** Présent
+
+je geins
+tu geins
+il (elle) geint
+nous geignons
+vous geignez
+ils (elles) geignent
+
+** Imparfait
+
+je geignais
+tu geignais
+il (elle) geignait
+nous geignions
+vous geigniez
+ils (elles) geignaient
+
+** Passé simple
+
+je geignis
+tu geignis
+il (elle) geignit
+nous geignîmes
+vous geignîtes
+ils (elles) geignirent
+
+** Futur simple
+
+je geindrai
+tu geindras
+il (elle) geindra
+nous geindrons
+vous geindrez
+ils (elles) geindront
+
+* CONDITIONNEL
+
+** Présent
+
+je geindrais
+tu geindrais
+il (elle) geindrait
+nous geindrions
+vous geindriez
+ils (elles) geindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je geigne
+que tu geignes
+qu’il (elle) geigne
+que nous geignions
+que vous geigniez
+qu’ils (elles) geignent
+
+** Imparfait
+
+que je geignisse
+que tu geignisses
+qu’il (elle) geignît
+que nous geignissions
+que vous geignissiez
+qu’ils (elles) geignissent
+
+* IMPÉRATIF
+
+** Présent
+
+geins
+geignons
+geignez
+
+* INFINITIF
+
+** Présent
+
+geindre
+
+* PARTICIPE
+
+** Présent
+
+geignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai geint
+tu as geint
+il (elle) a geint
+nous avons geint
+vous avez geint
+ils (elles) ont geint
+
+** Plus-que-parfait
+
+j'avais geint
+tu avais geint
+il (elle) avait geint
+nous avions geint
+vous aviez geint
+ils (elles) avaient geint
+
+** Passé antérieur
+
+j'eus geint
+tu eus geint
+il (elle) eut geint
+nous eûmes geint
+vous eûtes geint
+ils (elles) eurent geint
+
+** Futur antérieur
+
+j'aurai geint
+tu auras geint
+il (elle) aura geint
+nous aurons geint
+vous aurez geint
+ils (elles) auront geint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais geint
+tu aurais geint
+il (elle) aurait geint
+nous aurions geint
+vous auriez geint
+ils (elles) auraient geint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie geint
+que tu aies geint
+qu’il (elle) ait geint
+que nous ayons geint
+que vous ayez geint
+qu’ils (elles) aient geint
+
+** Plus-que-parfait
+
+que j'eusse geint
+que tu eusses geint
+qu’il (elle) eût geint
+que nous eussions geint
+que vous eussiez geint
+qu’ils (elles) eussent geint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons geint
+ayez geint
+
+* INFINITIF
+
+** Passé
+
+avoir geint
+
+* PARTICIPE
+
+** Passé
+
+ayant geint
+geint (invar.)

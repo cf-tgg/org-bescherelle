@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe combiner
+
+* INDICATIF
+
+** Présent
+
+je combine
+tu combines
+il (elle) combine
+nous combinons
+vous combinez
+ils (elles) combinent
+
+** Imparfait
+
+je combinais
+tu combinais
+il (elle) combinait
+nous combinions
+vous combiniez
+ils (elles) combinaient
+
+** Passé simple
+
+je combinai
+tu combinas
+il (elle) combina
+nous combinâmes
+vous combinâtes
+ils (elles) combinèrent
+
+** Futur simple
+
+je combinerai
+tu combineras
+il (elle) combinera
+nous combinerons
+vous combinerez
+ils (elles) combineront
+
+* CONDITIONNEL
+
+** Présent
+
+je combinerais
+tu combinerais
+il (elle) combinerait
+nous combinerions
+vous combineriez
+ils (elles) combineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je combine
+que tu combines
+qu’il (elle) combine
+que nous combinions
+que vous combiniez
+qu’ils (elles) combinent
+
+** Imparfait
+
+que je combinasse
+que tu combinasses
+qu’il (elle) combinât
+que nous combinassions
+que vous combinassiez
+qu’ils (elles) combinassent
+
+* IMPÉRATIF
+
+** Présent
+
+combine
+combinons
+combinez
+
+* INFINITIF
+
+** Présent
+
+combiner
+
+* PARTICIPE
+
+** Présent
+
+combinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai combiné
+tu as combiné
+il (elle) a combiné
+nous avons combiné
+vous avez combiné
+ils (elles) ont combiné
+
+** Plus-que-parfait
+
+j'avais combiné
+tu avais combiné
+il (elle) avait combiné
+nous avions combiné
+vous aviez combiné
+ils (elles) avaient combiné
+
+** Passé antérieur
+
+j'eus combiné
+tu eus combiné
+il (elle) eut combiné
+nous eûmes combiné
+vous eûtes combiné
+ils (elles) eurent combiné
+
+** Futur antérieur
+
+j'aurai combiné
+tu auras combiné
+il (elle) aura combiné
+nous aurons combiné
+vous aurez combiné
+ils (elles) auront combiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais combiné
+tu aurais combiné
+il (elle) aurait combiné
+nous aurions combiné
+vous auriez combiné
+ils (elles) auraient combiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie combiné
+que tu aies combiné
+qu’il (elle) ait combiné
+que nous ayons combiné
+que vous ayez combiné
+qu’ils (elles) aient combiné
+
+** Plus-que-parfait
+
+que j'eusse combiné
+que tu eusses combiné
+qu’il (elle) eût combiné
+que nous eussions combiné
+que vous eussiez combiné
+qu’ils (elles) eussent combiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons combiné
+ayez combiné
+
+* INFINITIF
+
+** Passé
+
+avoir combiné
+
+* PARTICIPE
+
+** Passé
+
+ayant combiné
+combiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis combiné(e)
+tu es combiné(e)
+il (elle) est combiné(e)
+nous sommes combiné(e)s
+vous êtes combiné(e)s
+ils (elles) sont combiné(e)s
+
+** Imparfait
+
+j'étais combiné(e)
+tu étais combiné(e)
+il (elle) était combiné(e)
+nous étions combiné(e)s
+vous étiez combiné(e)s
+ils (elles) étaient combiné(e)s
+
+** Passé simple
+
+je fus combiné(e)
+tu fus combiné(e)
+il (elle) fut combiné(e)
+nous fûmes combiné(e)s
+vous fûtes combiné(e)s
+ils (elles) furent combiné(e)s
+
+** Futur simple
+
+je serai combiné(e)
+tu seras combiné(e)
+il (elle) sera combiné(e)
+nous serons combiné(e)s
+vous serez combiné(e)s
+ils (elles) seront combiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais combiné(e)
+tu serais combiné(e)
+il (elle) serait combiné(e)
+nous serions combiné(e)s
+vous seriez combiné(e)s
+ils (elles) seraient combiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois combiné(e)
+que tu sois combiné(e)
+qu’il (elle) soit combiné(e)
+que nous soyons combiné(e)s
+que vous soyez combiné(e)s
+qu’ils (elles) soient combiné(e)s
+
+** Imparfait
+
+que je fusse combiné(e)
+que tu fusses combiné(e)
+qu’il (elle) fût combiné(e)
+que nous fussions combiné(e)s
+que vous fussiez combiné(e)s
+qu’ils (elles) fussent combiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons combiné(e)s
+soyez combiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être combiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant combiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été combiné(e)
+tu as été combiné(e)
+il (elle) a été combiné(e)
+nous avons été combiné(e)s
+vous avez été combiné(e)s
+ils (elles) ont été combiné(e)s
+
+** Plus-que-parfait
+
+j'avais été combiné(e)
+il (elle) avait été combiné(e)
+nous avions été combiné(e)s
+ils (elles) avaient été combiné(e)s
+
+** Passé antérieur
+
+j'eus été combiné(e)
+tu eus été combiné(e)
+il (elle) eut été combiné(e)
+nous eûmes été combiné(e)s
+vous eûtes été combiné(e)s
+ils (elles) eurent été combiné(e)s
+
+** Futur antérieur
+
+j'aurai été combiné(e)
+tu auras été combiné(e)
+il (elle) aura été combiné(e)
+nous aurons été combiné(e)s
+vous aurez été combiné(e)s
+ils (elles) auront été combiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été combiné(e)
+j'aurais été combiné(e)
+il (elle) aurait été combiné(e)
+nous aurions été combiné(e)s
+vous auriez été combiné(e)s
+ils (elles) auraient été combiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été combiné(e)
+que tu aies été combiné(e)
+qu’il (elle) ait été combiné(e)
+que nous ayons été combiné(e)s
+que vous ayez été combiné(e)s
+qu’ils (elles) aient été combiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été combiné(e)
+que tu eusses été combiné(e)
+qu’il (elle) eût été combiné(e)
+que nous eussions été combiné(e)s
+que vous eussiez été combiné(e)s
+qu’ils (elles) eussent été combiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été combiné(e)
+ayons été combiné(e)s
+ayez été combiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été combiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été combiné(e)(s)

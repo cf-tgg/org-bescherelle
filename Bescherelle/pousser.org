@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pousser
+
+* INDICATIF
+
+** Présent
+
+je pousse
+tu pousses
+il (elle) pousse
+nous poussons
+vous poussez
+ils (elles) poussent
+
+** Imparfait
+
+je poussais
+tu poussais
+il (elle) poussait
+nous poussions
+vous poussiez
+ils (elles) poussaient
+
+** Passé simple
+
+je poussai
+tu poussas
+il (elle) poussa
+nous poussâmes
+vous poussâtes
+ils (elles) poussèrent
+
+** Futur simple
+
+je pousserai
+tu pousseras
+il (elle) poussera
+nous pousserons
+vous pousserez
+ils (elles) pousseront
+
+* CONDITIONNEL
+
+** Présent
+
+je pousserais
+tu pousserais
+il (elle) pousserait
+nous pousserions
+vous pousseriez
+ils (elles) pousseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pousse
+que tu pousses
+qu’il (elle) pousse
+que nous poussions
+que vous poussiez
+qu’ils (elles) poussent
+
+** Imparfait
+
+que je poussasse
+que tu poussasses
+qu’il (elle) poussât
+que nous poussassions
+que vous poussassiez
+qu’ils (elles) poussassent
+
+* IMPÉRATIF
+
+** Présent
+
+pousse
+poussons
+poussez
+
+* INFINITIF
+
+** Présent
+
+pousser
+
+* PARTICIPE
+
+** Présent
+
+poussant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai poussé
+tu as poussé
+il (elle) a poussé
+nous avons poussé
+vous avez poussé
+ils (elles) ont poussé
+
+** Plus-que-parfait
+
+j'avais poussé
+tu avais poussé
+il (elle) avait poussé
+nous avions poussé
+vous aviez poussé
+ils (elles) avaient poussé
+
+** Passé antérieur
+
+j'eus poussé
+tu eus poussé
+il (elle) eut poussé
+nous eûmes poussé
+vous eûtes poussé
+ils (elles) eurent poussé
+
+** Futur antérieur
+
+j'aurai poussé
+tu auras poussé
+il (elle) aura poussé
+nous aurons poussé
+vous aurez poussé
+ils (elles) auront poussé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais poussé
+tu aurais poussé
+il (elle) aurait poussé
+nous aurions poussé
+vous auriez poussé
+ils (elles) auraient poussé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie poussé
+que tu aies poussé
+qu’il (elle) ait poussé
+que nous ayons poussé
+que vous ayez poussé
+qu’ils (elles) aient poussé
+
+** Plus-que-parfait
+
+que j'eusse poussé
+que tu eusses poussé
+qu’il (elle) eût poussé
+que nous eussions poussé
+que vous eussiez poussé
+qu’ils (elles) eussent poussé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons poussé
+ayez poussé
+
+* INFINITIF
+
+** Passé
+
+avoir poussé
+
+* PARTICIPE
+
+** Passé
+
+ayant poussé
+poussé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis poussé(e)
+tu es poussé(e)
+il (elle) est poussé(e)
+nous sommes poussé(e)s
+vous êtes poussé(e)s
+ils (elles) sont poussé(e)s
+
+** Imparfait
+
+j'étais poussé(e)
+tu étais poussé(e)
+il (elle) était poussé(e)
+nous étions poussé(e)s
+vous étiez poussé(e)s
+ils (elles) étaient poussé(e)s
+
+** Passé simple
+
+je fus poussé(e)
+tu fus poussé(e)
+il (elle) fut poussé(e)
+nous fûmes poussé(e)s
+vous fûtes poussé(e)s
+ils (elles) furent poussé(e)s
+
+** Futur simple
+
+je serai poussé(e)
+tu seras poussé(e)
+il (elle) sera poussé(e)
+nous serons poussé(e)s
+vous serez poussé(e)s
+ils (elles) seront poussé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais poussé(e)
+tu serais poussé(e)
+il (elle) serait poussé(e)
+nous serions poussé(e)s
+vous seriez poussé(e)s
+ils (elles) seraient poussé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois poussé(e)
+que tu sois poussé(e)
+qu’il (elle) soit poussé(e)
+que nous soyons poussé(e)s
+que vous soyez poussé(e)s
+qu’ils (elles) soient poussé(e)s
+
+** Imparfait
+
+que je fusse poussé(e)
+que tu fusses poussé(e)
+qu’il (elle) fût poussé(e)
+que nous fussions poussé(e)s
+que vous fussiez poussé(e)s
+qu’ils (elles) fussent poussé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons poussé(e)s
+soyez poussé(e)s
+
+* INFINITIF
+
+** Présent
+
+être poussé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant poussé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été poussé(e)
+tu as été poussé(e)
+il (elle) a été poussé(e)
+nous avons été poussé(e)s
+vous avez été poussé(e)s
+ils (elles) ont été poussé(e)s
+
+** Plus-que-parfait
+
+j'avais été poussé(e)
+il (elle) avait été poussé(e)
+nous avions été poussé(e)s
+ils (elles) avaient été poussé(e)s
+
+** Passé antérieur
+
+j'eus été poussé(e)
+tu eus été poussé(e)
+il (elle) eut été poussé(e)
+nous eûmes été poussé(e)s
+vous eûtes été poussé(e)s
+ils (elles) eurent été poussé(e)s
+
+** Futur antérieur
+
+j'aurai été poussé(e)
+tu auras été poussé(e)
+il (elle) aura été poussé(e)
+nous aurons été poussé(e)s
+vous aurez été poussé(e)s
+ils (elles) auront été poussé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été poussé(e)
+j'aurais été poussé(e)
+il (elle) aurait été poussé(e)
+nous aurions été poussé(e)s
+vous auriez été poussé(e)s
+ils (elles) auraient été poussé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été poussé(e)
+que tu aies été poussé(e)
+qu’il (elle) ait été poussé(e)
+que nous ayons été poussé(e)s
+que vous ayez été poussé(e)s
+qu’ils (elles) aient été poussé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été poussé(e)
+que tu eusses été poussé(e)
+qu’il (elle) eût été poussé(e)
+que nous eussions été poussé(e)s
+que vous eussiez été poussé(e)s
+qu’ils (elles) eussent été poussé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été poussé(e)
+ayons été poussé(e)s
+ayez été poussé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été poussé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été poussé(e)(s)

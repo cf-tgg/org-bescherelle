@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe planer
+
+* INDICATIF
+
+** Présent
+
+je plane
+tu planes
+il (elle) plane
+nous planons
+vous planez
+ils (elles) planent
+
+** Imparfait
+
+je planais
+tu planais
+il (elle) planait
+nous planions
+vous planiez
+ils (elles) planaient
+
+** Passé simple
+
+je planai
+tu planas
+il (elle) plana
+nous planâmes
+vous planâtes
+ils (elles) planèrent
+
+** Futur simple
+
+je planerai
+tu planeras
+il (elle) planera
+nous planerons
+vous planerez
+ils (elles) planeront
+
+* CONDITIONNEL
+
+** Présent
+
+je planerais
+tu planerais
+il (elle) planerait
+nous planerions
+vous planeriez
+ils (elles) planeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plane
+que tu planes
+qu’il (elle) plane
+que nous planions
+que vous planiez
+qu’ils (elles) planent
+
+** Imparfait
+
+que je planasse
+que tu planasses
+qu’il (elle) planât
+que nous planassions
+que vous planassiez
+qu’ils (elles) planassent
+
+* IMPÉRATIF
+
+** Présent
+
+plane
+planons
+planez
+
+* INFINITIF
+
+** Présent
+
+planer
+
+* PARTICIPE
+
+** Présent
+
+planant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plané
+tu as plané
+il (elle) a plané
+nous avons plané
+vous avez plané
+ils (elles) ont plané
+
+** Plus-que-parfait
+
+j'avais plané
+tu avais plané
+il (elle) avait plané
+nous avions plané
+vous aviez plané
+ils (elles) avaient plané
+
+** Passé antérieur
+
+j'eus plané
+tu eus plané
+il (elle) eut plané
+nous eûmes plané
+vous eûtes plané
+ils (elles) eurent plané
+
+** Futur antérieur
+
+j'aurai plané
+tu auras plané
+il (elle) aura plané
+nous aurons plané
+vous aurez plané
+ils (elles) auront plané
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plané
+tu aurais plané
+il (elle) aurait plané
+nous aurions plané
+vous auriez plané
+ils (elles) auraient plané
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plané
+que tu aies plané
+qu’il (elle) ait plané
+que nous ayons plané
+que vous ayez plané
+qu’ils (elles) aient plané
+
+** Plus-que-parfait
+
+que j'eusse plané
+que tu eusses plané
+qu’il (elle) eût plané
+que nous eussions plané
+que vous eussiez plané
+qu’ils (elles) eussent plané
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plané
+ayez plané
+
+* INFINITIF
+
+** Passé
+
+avoir plané
+
+* PARTICIPE
+
+** Passé
+
+ayant plané
+plané (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis plané(e)
+tu es plané(e)
+il (elle) est plané(e)
+nous sommes plané(e)s
+vous êtes plané(e)s
+ils (elles) sont plané(e)s
+
+** Imparfait
+
+j'étais plané(e)
+tu étais plané(e)
+il (elle) était plané(e)
+nous étions plané(e)s
+vous étiez plané(e)s
+ils (elles) étaient plané(e)s
+
+** Passé simple
+
+je fus plané(e)
+tu fus plané(e)
+il (elle) fut plané(e)
+nous fûmes plané(e)s
+vous fûtes plané(e)s
+ils (elles) furent plané(e)s
+
+** Futur simple
+
+je serai plané(e)
+tu seras plané(e)
+il (elle) sera plané(e)
+nous serons plané(e)s
+vous serez plané(e)s
+ils (elles) seront plané(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais plané(e)
+tu serais plané(e)
+il (elle) serait plané(e)
+nous serions plané(e)s
+vous seriez plané(e)s
+ils (elles) seraient plané(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois plané(e)
+que tu sois plané(e)
+qu’il (elle) soit plané(e)
+que nous soyons plané(e)s
+que vous soyez plané(e)s
+qu’ils (elles) soient plané(e)s
+
+** Imparfait
+
+que je fusse plané(e)
+que tu fusses plané(e)
+qu’il (elle) fût plané(e)
+que nous fussions plané(e)s
+que vous fussiez plané(e)s
+qu’ils (elles) fussent plané(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons plané(e)s
+soyez plané(e)s
+
+* INFINITIF
+
+** Présent
+
+être plané(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant plané(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été plané(e)
+tu as été plané(e)
+il (elle) a été plané(e)
+nous avons été plané(e)s
+vous avez été plané(e)s
+ils (elles) ont été plané(e)s
+
+** Plus-que-parfait
+
+j'avais été plané(e)
+il (elle) avait été plané(e)
+nous avions été plané(e)s
+ils (elles) avaient été plané(e)s
+
+** Passé antérieur
+
+j'eus été plané(e)
+tu eus été plané(e)
+il (elle) eut été plané(e)
+nous eûmes été plané(e)s
+vous eûtes été plané(e)s
+ils (elles) eurent été plané(e)s
+
+** Futur antérieur
+
+j'aurai été plané(e)
+tu auras été plané(e)
+il (elle) aura été plané(e)
+nous aurons été plané(e)s
+vous aurez été plané(e)s
+ils (elles) auront été plané(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été plané(e)
+j'aurais été plané(e)
+il (elle) aurait été plané(e)
+nous aurions été plané(e)s
+vous auriez été plané(e)s
+ils (elles) auraient été plané(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été plané(e)
+que tu aies été plané(e)
+qu’il (elle) ait été plané(e)
+que nous ayons été plané(e)s
+que vous ayez été plané(e)s
+qu’ils (elles) aient été plané(e)s
+
+** Plus-que-parfait
+
+que j'eusse été plané(e)
+que tu eusses été plané(e)
+qu’il (elle) eût été plané(e)
+que nous eussions été plané(e)s
+que vous eussiez été plané(e)s
+qu’ils (elles) eussent été plané(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été plané(e)
+ayons été plané(e)s
+ayez été plané(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été plané(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été plané(e)(s)

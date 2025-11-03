@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe affiner
+
+* INDICATIF
+
+** Présent
+
+j'affine
+tu affines
+il (elle) affine
+nous affinons
+vous affinez
+ils (elles) affinent
+
+** Imparfait
+
+j'affinais
+tu affinais
+il (elle) affinait
+nous affinions
+vous affiniez
+ils (elles) affinaient
+
+** Passé simple
+
+j'affinai
+tu affinas
+il (elle) affina
+nous affinâmes
+vous affinâtes
+ils (elles) affinèrent
+
+** Futur simple
+
+j'affinerai
+tu affineras
+il (elle) affinera
+nous affinerons
+vous affinerez
+ils (elles) affineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'affinerais
+tu affinerais
+il (elle) affinerait
+nous affinerions
+vous affineriez
+ils (elles) affineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'affine
+que tu affines
+qu’il (elle) affine
+que nous affinions
+que vous affiniez
+qu’ils (elles) affinent
+
+** Imparfait
+
+que j'affinasse
+que tu affinasses
+qu’il (elle) affinât
+que nous affinassions
+que vous affinassiez
+qu’ils (elles) affinassent
+
+* IMPÉRATIF
+
+** Présent
+
+affine
+affinons
+affinez
+
+* INFINITIF
+
+** Présent
+
+affiner
+
+* PARTICIPE
+
+** Présent
+
+affinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai affiné
+tu as affiné
+il (elle) a affiné
+nous avons affiné
+vous avez affiné
+ils (elles) ont affiné
+
+** Plus-que-parfait
+
+j'avais affiné
+tu avais affiné
+il (elle) avait affiné
+nous avions affiné
+vous aviez affiné
+ils (elles) avaient affiné
+
+** Passé antérieur
+
+j'eus affiné
+tu eus affiné
+il (elle) eut affiné
+nous eûmes affiné
+vous eûtes affiné
+ils (elles) eurent affiné
+
+** Futur antérieur
+
+j'aurai affiné
+tu auras affiné
+il (elle) aura affiné
+nous aurons affiné
+vous aurez affiné
+ils (elles) auront affiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais affiné
+tu aurais affiné
+il (elle) aurait affiné
+nous aurions affiné
+vous auriez affiné
+ils (elles) auraient affiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie affiné
+que tu aies affiné
+qu’il (elle) ait affiné
+que nous ayons affiné
+que vous ayez affiné
+qu’ils (elles) aient affiné
+
+** Plus-que-parfait
+
+que j'eusse affiné
+que tu eusses affiné
+qu’il (elle) eût affiné
+que nous eussions affiné
+que vous eussiez affiné
+qu’ils (elles) eussent affiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons affiné
+ayez affiné
+
+* INFINITIF
+
+** Passé
+
+avoir affiné
+
+* PARTICIPE
+
+** Passé
+
+ayant affiné
+affiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis affiné(e)
+tu es affiné(e)
+il (elle) est affiné(e)
+nous sommes affiné(e)s
+vous êtes affiné(e)s
+ils (elles) sont affiné(e)s
+
+** Imparfait
+
+j'étais affiné(e)
+tu étais affiné(e)
+il (elle) était affiné(e)
+nous étions affiné(e)s
+vous étiez affiné(e)s
+ils (elles) étaient affiné(e)s
+
+** Passé simple
+
+je fus affiné(e)
+tu fus affiné(e)
+il (elle) fut affiné(e)
+nous fûmes affiné(e)s
+vous fûtes affiné(e)s
+ils (elles) furent affiné(e)s
+
+** Futur simple
+
+je serai affiné(e)
+tu seras affiné(e)
+il (elle) sera affiné(e)
+nous serons affiné(e)s
+vous serez affiné(e)s
+ils (elles) seront affiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais affiné(e)
+tu serais affiné(e)
+il (elle) serait affiné(e)
+nous serions affiné(e)s
+vous seriez affiné(e)s
+ils (elles) seraient affiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois affiné(e)
+que tu sois affiné(e)
+qu’il (elle) soit affiné(e)
+que nous soyons affiné(e)s
+que vous soyez affiné(e)s
+qu’ils (elles) soient affiné(e)s
+
+** Imparfait
+
+que je fusse affiné(e)
+que tu fusses affiné(e)
+qu’il (elle) fût affiné(e)
+que nous fussions affiné(e)s
+que vous fussiez affiné(e)s
+qu’ils (elles) fussent affiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons affiné(e)s
+soyez affiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être affiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant affiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été affiné(e)
+tu as été affiné(e)
+il (elle) a été affiné(e)
+nous avons été affiné(e)s
+vous avez été affiné(e)s
+ils (elles) ont été affiné(e)s
+
+** Plus-que-parfait
+
+j'avais été affiné(e)
+il (elle) avait été affiné(e)
+nous avions été affiné(e)s
+ils (elles) avaient été affiné(e)s
+
+** Passé antérieur
+
+j'eus été affiné(e)
+tu eus été affiné(e)
+il (elle) eut été affiné(e)
+nous eûmes été affiné(e)s
+vous eûtes été affiné(e)s
+ils (elles) eurent été affiné(e)s
+
+** Futur antérieur
+
+j'aurai été affiné(e)
+tu auras été affiné(e)
+il (elle) aura été affiné(e)
+nous aurons été affiné(e)s
+vous aurez été affiné(e)s
+ils (elles) auront été affiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été affiné(e)
+j'aurais été affiné(e)
+il (elle) aurait été affiné(e)
+nous aurions été affiné(e)s
+vous auriez été affiné(e)s
+ils (elles) auraient été affiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été affiné(e)
+que tu aies été affiné(e)
+qu’il (elle) ait été affiné(e)
+que nous ayons été affiné(e)s
+que vous ayez été affiné(e)s
+qu’ils (elles) aient été affiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été affiné(e)
+que tu eusses été affiné(e)
+qu’il (elle) eût été affiné(e)
+que nous eussions été affiné(e)s
+que vous eussiez été affiné(e)s
+qu’ils (elles) eussent été affiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été affiné(e)
+ayons été affiné(e)s
+ayez été affiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été affiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été affiné(e)(s)

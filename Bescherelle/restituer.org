@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe restituer
+
+* INDICATIF
+
+** Présent
+
+je restitue
+tu restitues
+il (elle) restitue
+nous restituons
+vous restituez
+ils (elles) restituent
+
+** Imparfait
+
+je restituais
+tu restituais
+il (elle) restituait
+nous restituions
+vous restituiez
+ils (elles) restituaient
+
+** Passé simple
+
+je restituai
+tu restituas
+il (elle) restitua
+nous restituâmes
+vous restituâtes
+ils (elles) restituèrent
+
+** Futur simple
+
+je restituerai
+tu restitueras
+il (elle) restituera
+nous restituerons
+vous restituerez
+ils (elles) restitueront
+
+* CONDITIONNEL
+
+** Présent
+
+je restituerais
+tu restituerais
+il (elle) restituerait
+nous restituerions
+vous restitueriez
+ils (elles) restitueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je restitue
+que tu restitues
+qu’il (elle) restitue
+que nous restituions
+que vous restituiez
+qu’ils (elles) restituent
+
+** Imparfait
+
+que je restituasse
+que tu restituasses
+qu’il (elle) restituât
+que nous restituassions
+que vous restituassiez
+qu’ils (elles) restituassent
+
+* IMPÉRATIF
+
+** Présent
+
+restitue
+restituons
+restituez
+
+* INFINITIF
+
+** Présent
+
+restituer
+
+* PARTICIPE
+
+** Présent
+
+restituant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai restitué
+tu as restitué
+il (elle) a restitué
+nous avons restitué
+vous avez restitué
+ils (elles) ont restitué
+
+** Plus-que-parfait
+
+j'avais restitué
+tu avais restitué
+il (elle) avait restitué
+nous avions restitué
+vous aviez restitué
+ils (elles) avaient restitué
+
+** Passé antérieur
+
+j'eus restitué
+tu eus restitué
+il (elle) eut restitué
+nous eûmes restitué
+vous eûtes restitué
+ils (elles) eurent restitué
+
+** Futur antérieur
+
+j'aurai restitué
+tu auras restitué
+il (elle) aura restitué
+nous aurons restitué
+vous aurez restitué
+ils (elles) auront restitué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais restitué
+tu aurais restitué
+il (elle) aurait restitué
+nous aurions restitué
+vous auriez restitué
+ils (elles) auraient restitué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie restitué
+que tu aies restitué
+qu’il (elle) ait restitué
+que nous ayons restitué
+que vous ayez restitué
+qu’ils (elles) aient restitué
+
+** Plus-que-parfait
+
+que j'eusse restitué
+que tu eusses restitué
+qu’il (elle) eût restitué
+que nous eussions restitué
+que vous eussiez restitué
+qu’ils (elles) eussent restitué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons restitué
+ayez restitué
+
+* INFINITIF
+
+** Passé
+
+avoir restitué
+
+* PARTICIPE
+
+** Passé
+
+ayant restitué
+restitué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis restitué(e)
+tu es restitué(e)
+il (elle) est restitué(e)
+nous sommes restitué(e)s
+vous êtes restitué(e)s
+ils (elles) sont restitué(e)s
+
+** Imparfait
+
+j'étais restitué(e)
+tu étais restitué(e)
+il (elle) était restitué(e)
+nous étions restitué(e)s
+vous étiez restitué(e)s
+ils (elles) étaient restitué(e)s
+
+** Passé simple
+
+je fus restitué(e)
+tu fus restitué(e)
+il (elle) fut restitué(e)
+nous fûmes restitué(e)s
+vous fûtes restitué(e)s
+ils (elles) furent restitué(e)s
+
+** Futur simple
+
+je serai restitué(e)
+tu seras restitué(e)
+il (elle) sera restitué(e)
+nous serons restitué(e)s
+vous serez restitué(e)s
+ils (elles) seront restitué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais restitué(e)
+tu serais restitué(e)
+il (elle) serait restitué(e)
+nous serions restitué(e)s
+vous seriez restitué(e)s
+ils (elles) seraient restitué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois restitué(e)
+que tu sois restitué(e)
+qu’il (elle) soit restitué(e)
+que nous soyons restitué(e)s
+que vous soyez restitué(e)s
+qu’ils (elles) soient restitué(e)s
+
+** Imparfait
+
+que je fusse restitué(e)
+que tu fusses restitué(e)
+qu’il (elle) fût restitué(e)
+que nous fussions restitué(e)s
+que vous fussiez restitué(e)s
+qu’ils (elles) fussent restitué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons restitué(e)s
+soyez restitué(e)s
+
+* INFINITIF
+
+** Présent
+
+être restitué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant restitué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été restitué(e)
+tu as été restitué(e)
+il (elle) a été restitué(e)
+nous avons été restitué(e)s
+vous avez été restitué(e)s
+ils (elles) ont été restitué(e)s
+
+** Plus-que-parfait
+
+j'avais été restitué(e)
+il (elle) avait été restitué(e)
+nous avions été restitué(e)s
+ils (elles) avaient été restitué(e)s
+
+** Passé antérieur
+
+j'eus été restitué(e)
+tu eus été restitué(e)
+il (elle) eut été restitué(e)
+nous eûmes été restitué(e)s
+vous eûtes été restitué(e)s
+ils (elles) eurent été restitué(e)s
+
+** Futur antérieur
+
+j'aurai été restitué(e)
+tu auras été restitué(e)
+il (elle) aura été restitué(e)
+nous aurons été restitué(e)s
+vous aurez été restitué(e)s
+ils (elles) auront été restitué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été restitué(e)
+j'aurais été restitué(e)
+il (elle) aurait été restitué(e)
+nous aurions été restitué(e)s
+vous auriez été restitué(e)s
+ils (elles) auraient été restitué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été restitué(e)
+que tu aies été restitué(e)
+qu’il (elle) ait été restitué(e)
+que nous ayons été restitué(e)s
+que vous ayez été restitué(e)s
+qu’ils (elles) aient été restitué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été restitué(e)
+que tu eusses été restitué(e)
+qu’il (elle) eût été restitué(e)
+que nous eussions été restitué(e)s
+que vous eussiez été restitué(e)s
+qu’ils (elles) eussent été restitué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été restitué(e)
+ayons été restitué(e)s
+ayez été restitué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été restitué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été restitué(e)(s)

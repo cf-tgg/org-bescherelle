@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe restreindre
+
+* INDICATIF
+
+** Présent
+
+je restreins
+tu restreins
+il (elle) restreint
+nous restreignons
+vous restreignez
+ils (elles) restreignent
+
+** Imparfait
+
+je restreignais
+tu restreignais
+il (elle) restreignait
+nous restreignions
+vous restreigniez
+ils (elles) restreignaient
+
+** Passé simple
+
+je restreignis
+tu restreignis
+il (elle) restreignit
+nous restreignîmes
+vous restreignîtes
+ils (elles) restreignirent
+
+** Futur simple
+
+je restreindrai
+tu restreindras
+il (elle) restreindra
+nous restreindrons
+vous restreindrez
+ils (elles) restreindront
+
+* CONDITIONNEL
+
+** Présent
+
+je restreindrais
+tu restreindrais
+il (elle) restreindrait
+nous restreindrions
+vous restreindriez
+ils (elles) restreindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je restreigne
+que tu restreignes
+qu’il (elle) restreigne
+que nous restreignions
+que vous restreigniez
+qu’ils (elles) restreignent
+
+** Imparfait
+
+que je restreignisse
+que tu restreignisses
+qu’il (elle) restreignît
+que nous restreignissions
+que vous restreignissiez
+qu’ils (elles) restreignissent
+
+* IMPÉRATIF
+
+** Présent
+
+restreins
+restreignons
+restreignez
+
+* INFINITIF
+
+** Présent
+
+restreindre
+
+* PARTICIPE
+
+** Présent
+
+restreignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai restreint
+tu as restreint
+il (elle) a restreint
+nous avons restreint
+vous avez restreint
+ils (elles) ont restreint
+
+** Plus-que-parfait
+
+j'avais restreint
+tu avais restreint
+il (elle) avait restreint
+nous avions restreint
+vous aviez restreint
+ils (elles) avaient restreint
+
+** Passé antérieur
+
+j'eus restreint
+tu eus restreint
+il (elle) eut restreint
+nous eûmes restreint
+vous eûtes restreint
+ils (elles) eurent restreint
+
+** Futur antérieur
+
+j'aurai restreint
+tu auras restreint
+il (elle) aura restreint
+nous aurons restreint
+vous aurez restreint
+ils (elles) auront restreint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais restreint
+tu aurais restreint
+il (elle) aurait restreint
+nous aurions restreint
+vous auriez restreint
+ils (elles) auraient restreint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie restreint
+que tu aies restreint
+qu’il (elle) ait restreint
+que nous ayons restreint
+que vous ayez restreint
+qu’ils (elles) aient restreint
+
+** Plus-que-parfait
+
+que j'eusse restreint
+que tu eusses restreint
+qu’il (elle) eût restreint
+que nous eussions restreint
+que vous eussiez restreint
+qu’ils (elles) eussent restreint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons restreint
+ayez restreint
+
+* INFINITIF
+
+** Passé
+
+avoir restreint
+
+* PARTICIPE
+
+** Passé
+
+ayant restreint
+restreint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis restreint(e)
+tu es restreint(e)
+il (elle) est restreint(e)
+nous sommes restreint(e)s
+vous êtes restreint(e)s
+ils (elles) sont restreint(e)s
+
+** Imparfait
+
+j'étais restreint(e)
+tu étais restreint(e)
+il (elle) était restreint(e)
+nous étions restreint(e)s
+vous étiez restreint(e)s
+ils (elles) étaient restreint(e)s
+
+** Passé simple
+
+je fus restreint(e)
+tu fus restreint(e)
+il (elle) fut restreint(e)
+nous fûmes restreint(e)s
+vous fûtes restreint(e)s
+ils (elles) furent restreint(e)s
+
+** Futur simple
+
+je serai restreint(e)
+tu seras restreint(e)
+il (elle) sera restreint(e)
+nous serons restreint(e)s
+vous serez restreint(e)s
+ils (elles) seront restreint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais restreint(e)
+tu serais restreint(e)
+il (elle) serait restreint(e)
+nous serions restreint(e)s
+vous seriez restreint(e)s
+ils (elles) seraient restreint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois restreint(e)
+que tu sois restreint(e)
+qu’il (elle) soit restreint(e)
+que nous soyons restreint(e)s
+que vous soyez restreint(e)s
+qu’ils (elles) soient restreint(e)s
+
+** Imparfait
+
+que je fusse restreint(e)
+que tu fusses restreint(e)
+qu’il (elle) fût restreint(e)
+que nous fussions restreint(e)s
+que vous fussiez restreint(e)s
+qu’ils (elles) fussent restreint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons restreint(e)s
+soyez restreint(e)s
+
+* INFINITIF
+
+** Présent
+
+être restreint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant restreint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été restreint(e)
+tu as été restreint(e)
+il (elle) a été restreint(e)
+nous avons été restreint(e)s
+vous avez été restreint(e)s
+ils (elles) ont été restreint(e)s
+
+** Plus-que-parfait
+
+j'avais été restreint(e)
+il (elle) avait été restreint(e)
+nous avions été restreint(e)s
+ils (elles) avaient été restreint(e)s
+
+** Passé antérieur
+
+j'eus été restreint(e)
+tu eus été restreint(e)
+il (elle) eut été restreint(e)
+nous eûmes été restreint(e)s
+vous eûtes été restreint(e)s
+ils (elles) eurent été restreint(e)s
+
+** Futur antérieur
+
+j'aurai été restreint(e)
+tu auras été restreint(e)
+il (elle) aura été restreint(e)
+nous aurons été restreint(e)s
+vous aurez été restreint(e)s
+ils (elles) auront été restreint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été restreint(e)
+j'aurais été restreint(e)
+il (elle) aurait été restreint(e)
+nous aurions été restreint(e)s
+vous auriez été restreint(e)s
+ils (elles) auraient été restreint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été restreint(e)
+que tu aies été restreint(e)
+qu’il (elle) ait été restreint(e)
+que nous ayons été restreint(e)s
+que vous ayez été restreint(e)s
+qu’ils (elles) aient été restreint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été restreint(e)
+que tu eusses été restreint(e)
+qu’il (elle) eût été restreint(e)
+que nous eussions été restreint(e)s
+que vous eussiez été restreint(e)s
+qu’ils (elles) eussent été restreint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été restreint(e)
+ayons été restreint(e)s
+ayez été restreint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été restreint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été restreint(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe retentir
+
+* INDICATIF
+
+** Présent
+
+je retentis
+tu retentis
+il (elle) retentit
+nous retentissons
+vous retentissez
+ils (elles) retentissent
+
+** Imparfait
+
+je retentissais
+tu retentissais
+il (elle) retentissait
+nous retentissions
+vous retentissiez
+ils (elles) retentissaient
+
+** Passé simple
+
+je retentis
+tu retentis
+il (elle) retentit
+nous retentîmes
+vous retentîtes
+ils (elles) retentirent
+
+** Futur simple
+
+je retentirai
+tu retentiras
+il (elle) retentira
+nous retentirons
+vous retentirez
+ils (elles) retentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je retentirais
+tu retentirais
+il (elle) retentirait
+nous retentirions
+vous retentiriez
+ils (elles) retentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retentisse
+que tu retentisses
+qu’il (elle) retentisse
+que nous retentissions
+que vous retentissiez
+qu’ils (elles) retentissent
+
+** Imparfait
+
+que je retentisse
+que tu retentisses
+qu’il (elle) retentît
+que nous retentissions
+que vous retentissiez
+qu’ils (elles) retentissent
+
+* IMPÉRATIF
+
+** Présent
+
+retentis
+retentissons
+retentissez
+
+* INFINITIF
+
+** Présent
+
+retentir
+
+* PARTICIPE
+
+** Présent
+
+retentissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retenti
+tu as retenti
+il (elle) a retenti
+nous avons retenti
+vous avez retenti
+ils (elles) ont retenti
+
+** Plus-que-parfait
+
+j'avais retenti
+tu avais retenti
+il (elle) avait retenti
+nous avions retenti
+vous aviez retenti
+ils (elles) avaient retenti
+
+** Passé antérieur
+
+j'eus retenti
+tu eus retenti
+il (elle) eut retenti
+nous eûmes retenti
+vous eûtes retenti
+ils (elles) eurent retenti
+
+** Futur antérieur
+
+j'aurai retenti
+tu auras retenti
+il (elle) aura retenti
+nous aurons retenti
+vous aurez retenti
+ils (elles) auront retenti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retenti
+tu aurais retenti
+il (elle) aurait retenti
+nous aurions retenti
+vous auriez retenti
+ils (elles) auraient retenti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retenti
+que tu aies retenti
+qu’il (elle) ait retenti
+que nous ayons retenti
+que vous ayez retenti
+qu’ils (elles) aient retenti
+
+** Plus-que-parfait
+
+que j'eusse retenti
+que tu eusses retenti
+qu’il (elle) eût retenti
+que nous eussions retenti
+que vous eussiez retenti
+qu’ils (elles) eussent retenti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retenti
+ayez retenti
+
+* INFINITIF
+
+** Passé
+
+avoir retenti
+
+* PARTICIPE
+
+** Passé
+
+ayant retenti
+retenti (invar.)

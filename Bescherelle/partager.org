@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe partager
+
+* INDICATIF
+
+** Présent
+
+je partage
+tu partages
+il (elle) partage
+nous partageons
+vous partagez
+ils (elles) partagent
+
+** Imparfait
+
+je partageais
+tu partageais
+il (elle) partageait
+nous partagions
+vous partagiez
+ils (elles) partageaient
+
+** Passé simple
+
+je partageai
+tu partageas
+il (elle) partagea
+nous partageâmes
+vous partageâtes
+ils (elles) partagèrent
+
+** Futur simple
+
+je partagerai
+tu partageras
+il (elle) partagera
+nous partagerons
+vous partagerez
+ils (elles) partageront
+
+* CONDITIONNEL
+
+** Présent
+
+je partagerais
+tu partagerais
+il (elle) partagerait
+nous partagerions
+vous partageriez
+ils (elles) partageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je partage
+que tu partages
+qu’il (elle) partage
+que nous partagions
+que vous partagiez
+qu’ils (elles) partagent
+
+** Imparfait
+
+que je partageasse
+que tu partageasses
+qu’il (elle) partageât
+que nous partageassions
+que vous partageassiez
+qu’ils (elles) partageassent
+
+* IMPÉRATIF
+
+** Présent
+
+partage
+partageons
+partagez
+
+* INFINITIF
+
+** Présent
+
+partager
+
+* PARTICIPE
+
+** Présent
+
+partageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai partagé
+tu as partagé
+il (elle) a partagé
+nous avons partagé
+vous avez partagé
+ils (elles) ont partagé
+
+** Plus-que-parfait
+
+j'avais partagé
+tu avais partagé
+il (elle) avait partagé
+nous avions partagé
+vous aviez partagé
+ils (elles) avaient partagé
+
+** Passé antérieur
+
+j'eus partagé
+tu eus partagé
+il (elle) eut partagé
+nous eûmes partagé
+vous eûtes partagé
+ils (elles) eurent partagé
+
+** Futur antérieur
+
+j'aurai partagé
+tu auras partagé
+il (elle) aura partagé
+nous aurons partagé
+vous aurez partagé
+ils (elles) auront partagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais partagé
+tu aurais partagé
+il (elle) aurait partagé
+nous aurions partagé
+vous auriez partagé
+ils (elles) auraient partagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie partagé
+que tu aies partagé
+qu’il (elle) ait partagé
+que nous ayons partagé
+que vous ayez partagé
+qu’ils (elles) aient partagé
+
+** Plus-que-parfait
+
+que j'eusse partagé
+que tu eusses partagé
+qu’il (elle) eût partagé
+que nous eussions partagé
+que vous eussiez partagé
+qu’ils (elles) eussent partagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons partagé
+ayez partagé
+
+* INFINITIF
+
+** Passé
+
+avoir partagé
+
+* PARTICIPE
+
+** Passé
+
+ayant partagé
+partagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis partagé(e)
+tu es partagé(e)
+il (elle) est partagé(e)
+nous sommes partagé(e)s
+vous êtes partagé(e)s
+ils (elles) sont partagé(e)s
+
+** Imparfait
+
+j'étais partagé(e)
+tu étais partagé(e)
+il (elle) était partagé(e)
+nous étions partagé(e)s
+vous étiez partagé(e)s
+ils (elles) étaient partagé(e)s
+
+** Passé simple
+
+je fus partagé(e)
+tu fus partagé(e)
+il (elle) fut partagé(e)
+nous fûmes partagé(e)s
+vous fûtes partagé(e)s
+ils (elles) furent partagé(e)s
+
+** Futur simple
+
+je serai partagé(e)
+tu seras partagé(e)
+il (elle) sera partagé(e)
+nous serons partagé(e)s
+vous serez partagé(e)s
+ils (elles) seront partagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais partagé(e)
+tu serais partagé(e)
+il (elle) serait partagé(e)
+nous serions partagé(e)s
+vous seriez partagé(e)s
+ils (elles) seraient partagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois partagé(e)
+que tu sois partagé(e)
+qu’il (elle) soit partagé(e)
+que nous soyons partagé(e)s
+que vous soyez partagé(e)s
+qu’ils (elles) soient partagé(e)s
+
+** Imparfait
+
+que je fusse partagé(e)
+que tu fusses partagé(e)
+qu’il (elle) fût partagé(e)
+que nous fussions partagé(e)s
+que vous fussiez partagé(e)s
+qu’ils (elles) fussent partagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons partagé(e)s
+soyez partagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être partagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant partagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été partagé(e)
+tu as été partagé(e)
+il (elle) a été partagé(e)
+nous avons été partagé(e)s
+vous avez été partagé(e)s
+ils (elles) ont été partagé(e)s
+
+** Plus-que-parfait
+
+j'avais été partagé(e)
+il (elle) avait été partagé(e)
+nous avions été partagé(e)s
+ils (elles) avaient été partagé(e)s
+
+** Passé antérieur
+
+j'eus été partagé(e)
+tu eus été partagé(e)
+il (elle) eut été partagé(e)
+nous eûmes été partagé(e)s
+vous eûtes été partagé(e)s
+ils (elles) eurent été partagé(e)s
+
+** Futur antérieur
+
+j'aurai été partagé(e)
+tu auras été partagé(e)
+il (elle) aura été partagé(e)
+nous aurons été partagé(e)s
+vous aurez été partagé(e)s
+ils (elles) auront été partagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été partagé(e)
+j'aurais été partagé(e)
+il (elle) aurait été partagé(e)
+nous aurions été partagé(e)s
+vous auriez été partagé(e)s
+ils (elles) auraient été partagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été partagé(e)
+que tu aies été partagé(e)
+qu’il (elle) ait été partagé(e)
+que nous ayons été partagé(e)s
+que vous ayez été partagé(e)s
+qu’ils (elles) aient été partagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été partagé(e)
+que tu eusses été partagé(e)
+qu’il (elle) eût été partagé(e)
+que nous eussions été partagé(e)s
+que vous eussiez été partagé(e)s
+qu’ils (elles) eussent été partagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été partagé(e)
+ayons été partagé(e)s
+ayez été partagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été partagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été partagé(e)(s)

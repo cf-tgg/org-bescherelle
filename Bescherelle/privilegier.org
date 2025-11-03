@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe privilegier
+
+* INDICATIF
+
+** Présent
+
+je privilégie
+tu privilégies
+il (elle) privilégie
+nous privilégions
+vous privilégiez
+ils (elles) privilégient
+
+** Imparfait
+
+je privilégiais
+tu privilégiais
+il (elle) privilégiait
+nous privilégiions
+vous privilégiiez
+ils (elles) privilégiaient
+
+** Passé simple
+
+je privilégiai
+tu privilégias
+il (elle) privilégia
+nous privilégiâmes
+vous privilégiâtes
+ils (elles) privilégièrent
+
+** Futur simple
+
+je privilégierai
+tu privilégieras
+il (elle) privilégiera
+nous privilégierons
+vous privilégierez
+ils (elles) privilégieront
+
+* CONDITIONNEL
+
+** Présent
+
+je privilégierais
+tu privilégierais
+il (elle) privilégierait
+nous privilégierions
+vous privilégieriez
+ils (elles) privilégieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je privilégie
+que tu privilégies
+qu’il (elle) privilégie
+que nous privilégiions
+que vous privilégiiez
+qu’ils (elles) privilégient
+
+** Imparfait
+
+que je privilégiasse
+que tu privilégiasses
+qu’il (elle) privilégiât
+que nous privilégiassions
+que vous privilégiassiez
+qu’ils (elles) privilégiassent
+
+* IMPÉRATIF
+
+** Présent
+
+privilégie
+privilégions
+privilégiez
+
+* INFINITIF
+
+** Présent
+
+privilégier
+
+* PARTICIPE
+
+** Présent
+
+privilégiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai privilégié
+tu as privilégié
+il (elle) a privilégié
+nous avons privilégié
+vous avez privilégié
+ils (elles) ont privilégié
+
+** Plus-que-parfait
+
+j'avais privilégié
+tu avais privilégié
+il (elle) avait privilégié
+nous avions privilégié
+vous aviez privilégié
+ils (elles) avaient privilégié
+
+** Passé antérieur
+
+j'eus privilégié
+tu eus privilégié
+il (elle) eut privilégié
+nous eûmes privilégié
+vous eûtes privilégié
+ils (elles) eurent privilégié
+
+** Futur antérieur
+
+j'aurai privilégié
+tu auras privilégié
+il (elle) aura privilégié
+nous aurons privilégié
+vous aurez privilégié
+ils (elles) auront privilégié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais privilégié
+tu aurais privilégié
+il (elle) aurait privilégié
+nous aurions privilégié
+vous auriez privilégié
+ils (elles) auraient privilégié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie privilégié
+que tu aies privilégié
+qu’il (elle) ait privilégié
+que nous ayons privilégié
+que vous ayez privilégié
+qu’ils (elles) aient privilégié
+
+** Plus-que-parfait
+
+que j'eusse privilégié
+que tu eusses privilégié
+qu’il (elle) eût privilégié
+que nous eussions privilégié
+que vous eussiez privilégié
+qu’ils (elles) eussent privilégié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons privilégié
+ayez privilégié
+
+* INFINITIF
+
+** Passé
+
+avoir privilégié
+
+* PARTICIPE
+
+** Passé
+
+ayant privilégié
+privilégié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis privilégié(e)
+tu es privilégié(e)
+il (elle) est privilégié(e)
+nous sommes privilégié(e)s
+vous êtes privilégié(e)s
+ils (elles) sont privilégié(e)s
+
+** Imparfait
+
+j'étais privilégié(e)
+tu étais privilégié(e)
+il (elle) était privilégié(e)
+nous étions privilégié(e)s
+vous étiez privilégié(e)s
+ils (elles) étaient privilégié(e)s
+
+** Passé simple
+
+je fus privilégié(e)
+tu fus privilégié(e)
+il (elle) fut privilégié(e)
+nous fûmes privilégié(e)s
+vous fûtes privilégié(e)s
+ils (elles) furent privilégié(e)s
+
+** Futur simple
+
+je serai privilégié(e)
+tu seras privilégié(e)
+il (elle) sera privilégié(e)
+nous serons privilégié(e)s
+vous serez privilégié(e)s
+ils (elles) seront privilégié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais privilégié(e)
+tu serais privilégié(e)
+il (elle) serait privilégié(e)
+nous serions privilégié(e)s
+vous seriez privilégié(e)s
+ils (elles) seraient privilégié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois privilégié(e)
+que tu sois privilégié(e)
+qu’il (elle) soit privilégié(e)
+que nous soyons privilégié(e)s
+que vous soyez privilégié(e)s
+qu’ils (elles) soient privilégié(e)s
+
+** Imparfait
+
+que je fusse privilégié(e)
+que tu fusses privilégié(e)
+qu’il (elle) fût privilégié(e)
+que nous fussions privilégié(e)s
+que vous fussiez privilégié(e)s
+qu’ils (elles) fussent privilégié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons privilégié(e)s
+soyez privilégié(e)s
+
+* INFINITIF
+
+** Présent
+
+être privilégié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant privilégié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été privilégié(e)
+tu as été privilégié(e)
+il (elle) a été privilégié(e)
+nous avons été privilégié(e)s
+vous avez été privilégié(e)s
+ils (elles) ont été privilégié(e)s
+
+** Plus-que-parfait
+
+j'avais été privilégié(e)
+il (elle) avait été privilégié(e)
+nous avions été privilégié(e)s
+ils (elles) avaient été privilégié(e)s
+
+** Passé antérieur
+
+j'eus été privilégié(e)
+tu eus été privilégié(e)
+il (elle) eut été privilégié(e)
+nous eûmes été privilégié(e)s
+vous eûtes été privilégié(e)s
+ils (elles) eurent été privilégié(e)s
+
+** Futur antérieur
+
+j'aurai été privilégié(e)
+tu auras été privilégié(e)
+il (elle) aura été privilégié(e)
+nous aurons été privilégié(e)s
+vous aurez été privilégié(e)s
+ils (elles) auront été privilégié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été privilégié(e)
+j'aurais été privilégié(e)
+il (elle) aurait été privilégié(e)
+nous aurions été privilégié(e)s
+vous auriez été privilégié(e)s
+ils (elles) auraient été privilégié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été privilégié(e)
+que tu aies été privilégié(e)
+qu’il (elle) ait été privilégié(e)
+que nous ayons été privilégié(e)s
+que vous ayez été privilégié(e)s
+qu’ils (elles) aient été privilégié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été privilégié(e)
+que tu eusses été privilégié(e)
+qu’il (elle) eût été privilégié(e)
+que nous eussions été privilégié(e)s
+que vous eussiez été privilégié(e)s
+qu’ils (elles) eussent été privilégié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été privilégié(e)
+ayons été privilégié(e)s
+ayez été privilégié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été privilégié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été privilégié(e)(s)

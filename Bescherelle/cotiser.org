@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe cotiser
+
+* INDICATIF
+
+** Présent
+
+je cotise
+tu cotises
+il (elle) cotise
+nous cotisons
+vous cotisez
+ils (elles) cotisent
+
+** Imparfait
+
+je cotisais
+tu cotisais
+il (elle) cotisait
+nous cotisions
+vous cotisiez
+ils (elles) cotisaient
+
+** Passé simple
+
+je cotisai
+tu cotisas
+il (elle) cotisa
+nous cotisâmes
+vous cotisâtes
+ils (elles) cotisèrent
+
+** Futur simple
+
+je cotiserai
+tu cotiseras
+il (elle) cotisera
+nous cotiserons
+vous cotiserez
+ils (elles) cotiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je cotiserais
+tu cotiserais
+il (elle) cotiserait
+nous cotiserions
+vous cotiseriez
+ils (elles) cotiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cotise
+que tu cotises
+qu’il (elle) cotise
+que nous cotisions
+que vous cotisiez
+qu’ils (elles) cotisent
+
+** Imparfait
+
+que je cotisasse
+que tu cotisasses
+qu’il (elle) cotisât
+que nous cotisassions
+que vous cotisassiez
+qu’ils (elles) cotisassent
+
+* IMPÉRATIF
+
+** Présent
+
+cotise
+cotisons
+cotisez
+
+* INFINITIF
+
+** Présent
+
+cotiser
+
+* PARTICIPE
+
+** Présent
+
+cotisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cotisé
+tu as cotisé
+il (elle) a cotisé
+nous avons cotisé
+vous avez cotisé
+ils (elles) ont cotisé
+
+** Plus-que-parfait
+
+j'avais cotisé
+tu avais cotisé
+il (elle) avait cotisé
+nous avions cotisé
+vous aviez cotisé
+ils (elles) avaient cotisé
+
+** Passé antérieur
+
+j'eus cotisé
+tu eus cotisé
+il (elle) eut cotisé
+nous eûmes cotisé
+vous eûtes cotisé
+ils (elles) eurent cotisé
+
+** Futur antérieur
+
+j'aurai cotisé
+tu auras cotisé
+il (elle) aura cotisé
+nous aurons cotisé
+vous aurez cotisé
+ils (elles) auront cotisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cotisé
+tu aurais cotisé
+il (elle) aurait cotisé
+nous aurions cotisé
+vous auriez cotisé
+ils (elles) auraient cotisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cotisé
+que tu aies cotisé
+qu’il (elle) ait cotisé
+que nous ayons cotisé
+que vous ayez cotisé
+qu’ils (elles) aient cotisé
+
+** Plus-que-parfait
+
+que j'eusse cotisé
+que tu eusses cotisé
+qu’il (elle) eût cotisé
+que nous eussions cotisé
+que vous eussiez cotisé
+qu’ils (elles) eussent cotisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cotisé
+ayez cotisé
+
+* INFINITIF
+
+** Passé
+
+avoir cotisé
+
+* PARTICIPE
+
+** Passé
+
+ayant cotisé
+cotisé (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe ruer
+
+* INDICATIF
+
+** Présent
+
+je rue
+tu rues
+il (elle) rue
+nous ruons
+vous ruez
+ils (elles) ruent
+
+** Imparfait
+
+je ruais
+tu ruais
+il (elle) ruait
+nous ruions
+vous ruiez
+ils (elles) ruaient
+
+** Passé simple
+
+je ruai
+tu ruas
+il (elle) rua
+nous ruâmes
+vous ruâtes
+ils (elles) ruèrent
+
+** Futur simple
+
+je ruerai
+tu rueras
+il (elle) ruera
+nous ruerons
+vous ruerez
+ils (elles) rueront
+
+* CONDITIONNEL
+
+** Présent
+
+je ruerais
+tu ruerais
+il (elle) ruerait
+nous ruerions
+vous rueriez
+ils (elles) rueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rue
+que tu rues
+qu’il (elle) rue
+que nous ruions
+que vous ruiez
+qu’ils (elles) ruent
+
+** Imparfait
+
+que je ruasse
+que tu ruasses
+qu’il (elle) ruât
+que nous ruassions
+que vous ruassiez
+qu’ils (elles) ruassent
+
+* IMPÉRATIF
+
+** Présent
+
+rue
+ruons
+ruez
+
+* INFINITIF
+
+** Présent
+
+ruer
+
+* PARTICIPE
+
+** Présent
+
+ruant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rué
+tu as rué
+il (elle) a rué
+nous avons rué
+vous avez rué
+ils (elles) ont rué
+
+** Plus-que-parfait
+
+j'avais rué
+tu avais rué
+il (elle) avait rué
+nous avions rué
+vous aviez rué
+ils (elles) avaient rué
+
+** Passé antérieur
+
+j'eus rué
+tu eus rué
+il (elle) eut rué
+nous eûmes rué
+vous eûtes rué
+ils (elles) eurent rué
+
+** Futur antérieur
+
+j'aurai rué
+tu auras rué
+il (elle) aura rué
+nous aurons rué
+vous aurez rué
+ils (elles) auront rué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rué
+tu aurais rué
+il (elle) aurait rué
+nous aurions rué
+vous auriez rué
+ils (elles) auraient rué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rué
+que tu aies rué
+qu’il (elle) ait rué
+que nous ayons rué
+que vous ayez rué
+qu’ils (elles) aient rué
+
+** Plus-que-parfait
+
+que j'eusse rué
+que tu eusses rué
+qu’il (elle) eût rué
+que nous eussions rué
+que vous eussiez rué
+qu’ils (elles) eussent rué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rué
+ayez rué
+
+* INFINITIF
+
+** Passé
+
+avoir rué
+
+* PARTICIPE
+
+** Passé
+
+ayant rué
+rué (invar.)

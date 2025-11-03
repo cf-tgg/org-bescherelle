@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rompre
+
+* INDICATIF
+
+** Présent
+
+je romps
+tu romps
+il (elle) rompt
+nous rompons
+vous rompez
+ils (elles) rompent
+
+** Imparfait
+
+je rompais
+tu rompais
+il (elle) rompait
+nous rompions
+vous rompiez
+ils (elles) rompaient
+
+** Passé simple
+
+je rompis
+tu rompis
+il (elle) rompit
+nous rompîmes
+vous rompîtes
+ils (elles) rompirent
+
+** Futur simple
+
+je romprai
+tu rompras
+il (elle) rompra
+nous romprons
+vous romprez
+ils (elles) rompront
+
+* CONDITIONNEL
+
+** Présent
+
+je romprais
+tu romprais
+il (elle) romprait
+nous romprions
+vous rompriez
+ils (elles) rompraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rompe
+que tu rompes
+qu’il (elle) rompe
+que nous rompions
+que vous rompiez
+qu’ils (elles) rompent
+
+** Imparfait
+
+que je rompisse
+que tu rompisses
+qu’il (elle) rompît
+que nous rompissions
+que vous rompissiez
+qu’ils (elles) rompissent
+
+* IMPÉRATIF
+
+** Présent
+
+romps
+rompons
+rompez
+
+* INFINITIF
+
+** Présent
+
+rompre
+
+* PARTICIPE
+
+** Présent
+
+rompant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rompu
+tu as rompu
+il (elle) a rompu
+nous avons rompu
+vous avez rompu
+ils (elles) ont rompu
+
+** Plus-que-parfait
+
+j'avais rompu
+tu avais rompu
+il (elle) avait rompu
+nous avions rompu
+vous aviez rompu
+ils (elles) avaient rompu
+
+** Passé antérieur
+
+j'eus rompu
+tu eus rompu
+il (elle) eut rompu
+nous eûmes rompu
+vous eûtes rompu
+ils (elles) eurent rompu
+
+** Futur antérieur
+
+j'aurai rompu
+tu auras rompu
+il (elle) aura rompu
+nous aurons rompu
+vous aurez rompu
+ils (elles) auront rompu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rompu
+tu aurais rompu
+il (elle) aurait rompu
+nous aurions rompu
+vous auriez rompu
+ils (elles) auraient rompu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rompu
+que tu aies rompu
+qu’il (elle) ait rompu
+que nous ayons rompu
+que vous ayez rompu
+qu’ils (elles) aient rompu
+
+** Plus-que-parfait
+
+que j'eusse rompu
+que tu eusses rompu
+qu’il (elle) eût rompu
+que nous eussions rompu
+que vous eussiez rompu
+qu’ils (elles) eussent rompu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rompu
+ayez rompu
+
+* INFINITIF
+
+** Passé
+
+avoir rompu
+
+* PARTICIPE
+
+** Passé
+
+ayant rompu
+rompu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis rompu(e)
+tu es rompu(e)
+il (elle) est rompu(e)
+nous sommes rompu(e)s
+vous êtes rompu(e)s
+ils (elles) sont rompu(e)s
+
+** Imparfait
+
+j'étais rompu(e)
+tu étais rompu(e)
+il (elle) était rompu(e)
+nous étions rompu(e)s
+vous étiez rompu(e)s
+ils (elles) étaient rompu(e)s
+
+** Passé simple
+
+je fus rompu(e)
+tu fus rompu(e)
+il (elle) fut rompu(e)
+nous fûmes rompu(e)s
+vous fûtes rompu(e)s
+ils (elles) furent rompu(e)s
+
+** Futur simple
+
+je serai rompu(e)
+tu seras rompu(e)
+il (elle) sera rompu(e)
+nous serons rompu(e)s
+vous serez rompu(e)s
+ils (elles) seront rompu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rompu(e)
+tu serais rompu(e)
+il (elle) serait rompu(e)
+nous serions rompu(e)s
+vous seriez rompu(e)s
+ils (elles) seraient rompu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rompu(e)
+que tu sois rompu(e)
+qu’il (elle) soit rompu(e)
+que nous soyons rompu(e)s
+que vous soyez rompu(e)s
+qu’ils (elles) soient rompu(e)s
+
+** Imparfait
+
+que je fusse rompu(e)
+que tu fusses rompu(e)
+qu’il (elle) fût rompu(e)
+que nous fussions rompu(e)s
+que vous fussiez rompu(e)s
+qu’ils (elles) fussent rompu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rompu(e)s
+soyez rompu(e)s
+
+* INFINITIF
+
+** Présent
+
+être rompu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rompu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rompu(e)
+tu as été rompu(e)
+il (elle) a été rompu(e)
+nous avons été rompu(e)s
+vous avez été rompu(e)s
+ils (elles) ont été rompu(e)s
+
+** Plus-que-parfait
+
+j'avais été rompu(e)
+il (elle) avait été rompu(e)
+nous avions été rompu(e)s
+ils (elles) avaient été rompu(e)s
+
+** Passé antérieur
+
+j'eus été rompu(e)
+tu eus été rompu(e)
+il (elle) eut été rompu(e)
+nous eûmes été rompu(e)s
+vous eûtes été rompu(e)s
+ils (elles) eurent été rompu(e)s
+
+** Futur antérieur
+
+j'aurai été rompu(e)
+tu auras été rompu(e)
+il (elle) aura été rompu(e)
+nous aurons été rompu(e)s
+vous aurez été rompu(e)s
+ils (elles) auront été rompu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rompu(e)
+j'aurais été rompu(e)
+il (elle) aurait été rompu(e)
+nous aurions été rompu(e)s
+vous auriez été rompu(e)s
+ils (elles) auraient été rompu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rompu(e)
+que tu aies été rompu(e)
+qu’il (elle) ait été rompu(e)
+que nous ayons été rompu(e)s
+que vous ayez été rompu(e)s
+qu’ils (elles) aient été rompu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rompu(e)
+que tu eusses été rompu(e)
+qu’il (elle) eût été rompu(e)
+que nous eussions été rompu(e)s
+que vous eussiez été rompu(e)s
+qu’ils (elles) eussent été rompu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rompu(e)
+ayons été rompu(e)s
+ayez été rompu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rompu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rompu(e)(s)

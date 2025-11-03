@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe installer
+
+* INDICATIF
+
+** Présent
+
+j'installe
+tu installes
+il (elle) installe
+nous installons
+vous installez
+ils (elles) installent
+
+** Imparfait
+
+j'installais
+tu installais
+il (elle) installait
+nous installions
+vous installiez
+ils (elles) installaient
+
+** Passé simple
+
+j'installai
+tu installas
+il (elle) installa
+nous installâmes
+vous installâtes
+ils (elles) installèrent
+
+** Futur simple
+
+j'installerai
+tu installeras
+il (elle) installera
+nous installerons
+vous installerez
+ils (elles) installeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'installerais
+tu installerais
+il (elle) installerait
+nous installerions
+vous installeriez
+ils (elles) installeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'installe
+que tu installes
+qu’il (elle) installe
+que nous installions
+que vous installiez
+qu’ils (elles) installent
+
+** Imparfait
+
+que j'installasse
+que tu installasses
+qu’il (elle) installât
+que nous installassions
+que vous installassiez
+qu’ils (elles) installassent
+
+* IMPÉRATIF
+
+** Présent
+
+installe
+installons
+installez
+
+* INFINITIF
+
+** Présent
+
+installer
+
+* PARTICIPE
+
+** Présent
+
+installant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai installé
+tu as installé
+il (elle) a installé
+nous avons installé
+vous avez installé
+ils (elles) ont installé
+
+** Plus-que-parfait
+
+j'avais installé
+tu avais installé
+il (elle) avait installé
+nous avions installé
+vous aviez installé
+ils (elles) avaient installé
+
+** Passé antérieur
+
+j'eus installé
+tu eus installé
+il (elle) eut installé
+nous eûmes installé
+vous eûtes installé
+ils (elles) eurent installé
+
+** Futur antérieur
+
+j'aurai installé
+tu auras installé
+il (elle) aura installé
+nous aurons installé
+vous aurez installé
+ils (elles) auront installé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais installé
+tu aurais installé
+il (elle) aurait installé
+nous aurions installé
+vous auriez installé
+ils (elles) auraient installé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie installé
+que tu aies installé
+qu’il (elle) ait installé
+que nous ayons installé
+que vous ayez installé
+qu’ils (elles) aient installé
+
+** Plus-que-parfait
+
+que j'eusse installé
+que tu eusses installé
+qu’il (elle) eût installé
+que nous eussions installé
+que vous eussiez installé
+qu’ils (elles) eussent installé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons installé
+ayez installé
+
+* INFINITIF
+
+** Passé
+
+avoir installé
+
+* PARTICIPE
+
+** Passé
+
+ayant installé
+installé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis installé(e)
+tu es installé(e)
+il (elle) est installé(e)
+nous sommes installé(e)s
+vous êtes installé(e)s
+ils (elles) sont installé(e)s
+
+** Imparfait
+
+j'étais installé(e)
+tu étais installé(e)
+il (elle) était installé(e)
+nous étions installé(e)s
+vous étiez installé(e)s
+ils (elles) étaient installé(e)s
+
+** Passé simple
+
+je fus installé(e)
+tu fus installé(e)
+il (elle) fut installé(e)
+nous fûmes installé(e)s
+vous fûtes installé(e)s
+ils (elles) furent installé(e)s
+
+** Futur simple
+
+je serai installé(e)
+tu seras installé(e)
+il (elle) sera installé(e)
+nous serons installé(e)s
+vous serez installé(e)s
+ils (elles) seront installé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais installé(e)
+tu serais installé(e)
+il (elle) serait installé(e)
+nous serions installé(e)s
+vous seriez installé(e)s
+ils (elles) seraient installé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois installé(e)
+que tu sois installé(e)
+qu’il (elle) soit installé(e)
+que nous soyons installé(e)s
+que vous soyez installé(e)s
+qu’ils (elles) soient installé(e)s
+
+** Imparfait
+
+que je fusse installé(e)
+que tu fusses installé(e)
+qu’il (elle) fût installé(e)
+que nous fussions installé(e)s
+que vous fussiez installé(e)s
+qu’ils (elles) fussent installé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons installé(e)s
+soyez installé(e)s
+
+* INFINITIF
+
+** Présent
+
+être installé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant installé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été installé(e)
+tu as été installé(e)
+il (elle) a été installé(e)
+nous avons été installé(e)s
+vous avez été installé(e)s
+ils (elles) ont été installé(e)s
+
+** Plus-que-parfait
+
+j'avais été installé(e)
+il (elle) avait été installé(e)
+nous avions été installé(e)s
+ils (elles) avaient été installé(e)s
+
+** Passé antérieur
+
+j'eus été installé(e)
+tu eus été installé(e)
+il (elle) eut été installé(e)
+nous eûmes été installé(e)s
+vous eûtes été installé(e)s
+ils (elles) eurent été installé(e)s
+
+** Futur antérieur
+
+j'aurai été installé(e)
+tu auras été installé(e)
+il (elle) aura été installé(e)
+nous aurons été installé(e)s
+vous aurez été installé(e)s
+ils (elles) auront été installé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été installé(e)
+j'aurais été installé(e)
+il (elle) aurait été installé(e)
+nous aurions été installé(e)s
+vous auriez été installé(e)s
+ils (elles) auraient été installé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été installé(e)
+que tu aies été installé(e)
+qu’il (elle) ait été installé(e)
+que nous ayons été installé(e)s
+que vous ayez été installé(e)s
+qu’ils (elles) aient été installé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été installé(e)
+que tu eusses été installé(e)
+qu’il (elle) eût été installé(e)
+que nous eussions été installé(e)s
+que vous eussiez été installé(e)s
+qu’ils (elles) eussent été installé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été installé(e)
+ayons été installé(e)s
+ayez été installé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été installé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été installé(e)(s)

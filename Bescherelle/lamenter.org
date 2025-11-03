@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lamenter
+
+* INDICATIF
+
+** Présent
+
+je lamente
+tu lamentes
+il (elle) lamente
+nous lamentons
+vous lamentez
+ils (elles) lamentent
+
+** Imparfait
+
+je lamentais
+tu lamentais
+il (elle) lamentait
+nous lamentions
+vous lamentiez
+ils (elles) lamentaient
+
+** Passé simple
+
+je lamentai
+tu lamentas
+il (elle) lamenta
+nous lamentâmes
+vous lamentâtes
+ils (elles) lamentèrent
+
+** Futur simple
+
+je lamenterai
+tu lamenteras
+il (elle) lamentera
+nous lamenterons
+vous lamenterez
+ils (elles) lamenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je lamenterais
+tu lamenterais
+il (elle) lamenterait
+nous lamenterions
+vous lamenteriez
+ils (elles) lamenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lamente
+que tu lamentes
+qu’il (elle) lamente
+que nous lamentions
+que vous lamentiez
+qu’ils (elles) lamentent
+
+** Imparfait
+
+que je lamentasse
+que tu lamentasses
+qu’il (elle) lamentât
+que nous lamentassions
+que vous lamentassiez
+qu’ils (elles) lamentassent
+
+* IMPÉRATIF
+
+** Présent
+
+lamente
+lamentons
+lamentez
+
+* INFINITIF
+
+** Présent
+
+lamenter
+
+* PARTICIPE
+
+** Présent
+
+lamentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lamenté
+tu as lamenté
+il (elle) a lamenté
+nous avons lamenté
+vous avez lamenté
+ils (elles) ont lamenté
+
+** Plus-que-parfait
+
+j'avais lamenté
+tu avais lamenté
+il (elle) avait lamenté
+nous avions lamenté
+vous aviez lamenté
+ils (elles) avaient lamenté
+
+** Passé antérieur
+
+j'eus lamenté
+tu eus lamenté
+il (elle) eut lamenté
+nous eûmes lamenté
+vous eûtes lamenté
+ils (elles) eurent lamenté
+
+** Futur antérieur
+
+j'aurai lamenté
+tu auras lamenté
+il (elle) aura lamenté
+nous aurons lamenté
+vous aurez lamenté
+ils (elles) auront lamenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lamenté
+tu aurais lamenté
+il (elle) aurait lamenté
+nous aurions lamenté
+vous auriez lamenté
+ils (elles) auraient lamenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lamenté
+que tu aies lamenté
+qu’il (elle) ait lamenté
+que nous ayons lamenté
+que vous ayez lamenté
+qu’ils (elles) aient lamenté
+
+** Plus-que-parfait
+
+que j'eusse lamenté
+que tu eusses lamenté
+qu’il (elle) eût lamenté
+que nous eussions lamenté
+que vous eussiez lamenté
+qu’ils (elles) eussent lamenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lamenté
+ayez lamenté
+
+* INFINITIF
+
+** Passé
+
+avoir lamenté
+
+* PARTICIPE
+
+** Passé
+
+ayant lamenté
+lamenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lamenté(e)
+tu es lamenté(e)
+il (elle) est lamenté(e)
+nous sommes lamenté(e)s
+vous êtes lamenté(e)s
+ils (elles) sont lamenté(e)s
+
+** Imparfait
+
+j'étais lamenté(e)
+tu étais lamenté(e)
+il (elle) était lamenté(e)
+nous étions lamenté(e)s
+vous étiez lamenté(e)s
+ils (elles) étaient lamenté(e)s
+
+** Passé simple
+
+je fus lamenté(e)
+tu fus lamenté(e)
+il (elle) fut lamenté(e)
+nous fûmes lamenté(e)s
+vous fûtes lamenté(e)s
+ils (elles) furent lamenté(e)s
+
+** Futur simple
+
+je serai lamenté(e)
+tu seras lamenté(e)
+il (elle) sera lamenté(e)
+nous serons lamenté(e)s
+vous serez lamenté(e)s
+ils (elles) seront lamenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lamenté(e)
+tu serais lamenté(e)
+il (elle) serait lamenté(e)
+nous serions lamenté(e)s
+vous seriez lamenté(e)s
+ils (elles) seraient lamenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lamenté(e)
+que tu sois lamenté(e)
+qu’il (elle) soit lamenté(e)
+que nous soyons lamenté(e)s
+que vous soyez lamenté(e)s
+qu’ils (elles) soient lamenté(e)s
+
+** Imparfait
+
+que je fusse lamenté(e)
+que tu fusses lamenté(e)
+qu’il (elle) fût lamenté(e)
+que nous fussions lamenté(e)s
+que vous fussiez lamenté(e)s
+qu’ils (elles) fussent lamenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lamenté(e)s
+soyez lamenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être lamenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lamenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lamenté(e)
+tu as été lamenté(e)
+il (elle) a été lamenté(e)
+nous avons été lamenté(e)s
+vous avez été lamenté(e)s
+ils (elles) ont été lamenté(e)s
+
+** Plus-que-parfait
+
+j'avais été lamenté(e)
+il (elle) avait été lamenté(e)
+nous avions été lamenté(e)s
+ils (elles) avaient été lamenté(e)s
+
+** Passé antérieur
+
+j'eus été lamenté(e)
+tu eus été lamenté(e)
+il (elle) eut été lamenté(e)
+nous eûmes été lamenté(e)s
+vous eûtes été lamenté(e)s
+ils (elles) eurent été lamenté(e)s
+
+** Futur antérieur
+
+j'aurai été lamenté(e)
+tu auras été lamenté(e)
+il (elle) aura été lamenté(e)
+nous aurons été lamenté(e)s
+vous aurez été lamenté(e)s
+ils (elles) auront été lamenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lamenté(e)
+j'aurais été lamenté(e)
+il (elle) aurait été lamenté(e)
+nous aurions été lamenté(e)s
+vous auriez été lamenté(e)s
+ils (elles) auraient été lamenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lamenté(e)
+que tu aies été lamenté(e)
+qu’il (elle) ait été lamenté(e)
+que nous ayons été lamenté(e)s
+que vous ayez été lamenté(e)s
+qu’ils (elles) aient été lamenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lamenté(e)
+que tu eusses été lamenté(e)
+qu’il (elle) eût été lamenté(e)
+que nous eussions été lamenté(e)s
+que vous eussiez été lamenté(e)s
+qu’ils (elles) eussent été lamenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lamenté(e)
+ayons été lamenté(e)s
+ayez été lamenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lamenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lamenté(e)(s)

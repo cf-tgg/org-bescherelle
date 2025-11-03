@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe trembler
+
+* INDICATIF
+
+** Présent
+
+je tremble
+tu trembles
+il (elle) tremble
+nous tremblons
+vous tremblez
+ils (elles) tremblent
+
+** Imparfait
+
+je tremblais
+tu tremblais
+il (elle) tremblait
+nous tremblions
+vous trembliez
+ils (elles) tremblaient
+
+** Passé simple
+
+je tremblai
+tu tremblas
+il (elle) trembla
+nous tremblâmes
+vous tremblâtes
+ils (elles) tremblèrent
+
+** Futur simple
+
+je tremblerai
+tu trembleras
+il (elle) tremblera
+nous tremblerons
+vous tremblerez
+ils (elles) trembleront
+
+* CONDITIONNEL
+
+** Présent
+
+je tremblerais
+tu tremblerais
+il (elle) tremblerait
+nous tremblerions
+vous trembleriez
+ils (elles) trembleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tremble
+que tu trembles
+qu’il (elle) tremble
+que nous tremblions
+que vous trembliez
+qu’ils (elles) tremblent
+
+** Imparfait
+
+que je tremblasse
+que tu tremblasses
+qu’il (elle) tremblât
+que nous tremblassions
+que vous tremblassiez
+qu’ils (elles) tremblassent
+
+* IMPÉRATIF
+
+** Présent
+
+tremble
+tremblons
+tremblez
+
+* INFINITIF
+
+** Présent
+
+trembler
+
+* PARTICIPE
+
+** Présent
+
+tremblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tremblé
+tu as tremblé
+il (elle) a tremblé
+nous avons tremblé
+vous avez tremblé
+ils (elles) ont tremblé
+
+** Plus-que-parfait
+
+j'avais tremblé
+tu avais tremblé
+il (elle) avait tremblé
+nous avions tremblé
+vous aviez tremblé
+ils (elles) avaient tremblé
+
+** Passé antérieur
+
+j'eus tremblé
+tu eus tremblé
+il (elle) eut tremblé
+nous eûmes tremblé
+vous eûtes tremblé
+ils (elles) eurent tremblé
+
+** Futur antérieur
+
+j'aurai tremblé
+tu auras tremblé
+il (elle) aura tremblé
+nous aurons tremblé
+vous aurez tremblé
+ils (elles) auront tremblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tremblé
+tu aurais tremblé
+il (elle) aurait tremblé
+nous aurions tremblé
+vous auriez tremblé
+ils (elles) auraient tremblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tremblé
+que tu aies tremblé
+qu’il (elle) ait tremblé
+que nous ayons tremblé
+que vous ayez tremblé
+qu’ils (elles) aient tremblé
+
+** Plus-que-parfait
+
+que j'eusse tremblé
+que tu eusses tremblé
+qu’il (elle) eût tremblé
+que nous eussions tremblé
+que vous eussiez tremblé
+qu’ils (elles) eussent tremblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tremblé
+ayez tremblé
+
+* INFINITIF
+
+** Passé
+
+avoir tremblé
+
+* PARTICIPE
+
+** Passé
+
+ayant tremblé
+tremblé (invar.)

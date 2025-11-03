@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe vaguer
+
+* INDICATIF
+
+** Présent
+
+je vague
+tu vagues
+il (elle) vague
+nous vaguons
+vous vaguez
+ils (elles) vaguent
+
+** Imparfait
+
+je vaguais
+tu vaguais
+il (elle) vaguait
+nous vaguions
+vous vaguiez
+ils (elles) vaguaient
+
+** Passé simple
+
+je vaguai
+tu vaguas
+il (elle) vagua
+nous vaguâmes
+vous vaguâtes
+ils (elles) vaguèrent
+
+** Futur simple
+
+je vaguerai
+tu vagueras
+il (elle) vaguera
+nous vaguerons
+vous vaguerez
+ils (elles) vagueront
+
+* CONDITIONNEL
+
+** Présent
+
+je vaguerais
+tu vaguerais
+il (elle) vaguerait
+nous vaguerions
+vous vagueriez
+ils (elles) vagueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vague
+que tu vagues
+qu’il (elle) vague
+que nous vaguions
+que vous vaguiez
+qu’ils (elles) vaguent
+
+** Imparfait
+
+que je vaguasse
+que tu vaguasses
+qu’il (elle) vaguât
+que nous vaguassions
+que vous vaguassiez
+qu’ils (elles) vaguassent
+
+* IMPÉRATIF
+
+** Présent
+
+vague
+vaguons
+vaguez
+
+* INFINITIF
+
+** Présent
+
+vaguer
+
+* PARTICIPE
+
+** Présent
+
+vaguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vagué
+tu as vagué
+il (elle) a vagué
+nous avons vagué
+vous avez vagué
+ils (elles) ont vagué
+
+** Plus-que-parfait
+
+j'avais vagué
+tu avais vagué
+il (elle) avait vagué
+nous avions vagué
+vous aviez vagué
+ils (elles) avaient vagué
+
+** Passé antérieur
+
+j'eus vagué
+tu eus vagué
+il (elle) eut vagué
+nous eûmes vagué
+vous eûtes vagué
+ils (elles) eurent vagué
+
+** Futur antérieur
+
+j'aurai vagué
+tu auras vagué
+il (elle) aura vagué
+nous aurons vagué
+vous aurez vagué
+ils (elles) auront vagué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vagué
+tu aurais vagué
+il (elle) aurait vagué
+nous aurions vagué
+vous auriez vagué
+ils (elles) auraient vagué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vagué
+que tu aies vagué
+qu’il (elle) ait vagué
+que nous ayons vagué
+que vous ayez vagué
+qu’ils (elles) aient vagué
+
+** Plus-que-parfait
+
+que j'eusse vagué
+que tu eusses vagué
+qu’il (elle) eût vagué
+que nous eussions vagué
+que vous eussiez vagué
+qu’ils (elles) eussent vagué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vagué
+ayez vagué
+
+* INFINITIF
+
+** Passé
+
+avoir vagué
+
+* PARTICIPE
+
+** Passé
+
+ayant vagué
+vagué (invar.)

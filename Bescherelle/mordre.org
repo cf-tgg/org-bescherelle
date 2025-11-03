@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mordre
+
+* INDICATIF
+
+** Présent
+
+je mords
+tu mords
+il (elle) mord
+nous mordons
+vous mordez
+ils (elles) mordent
+
+** Imparfait
+
+je mordais
+tu mordais
+il (elle) mordait
+nous mordions
+vous mordiez
+ils (elles) mordaient
+
+** Passé simple
+
+je mordis
+tu mordis
+il (elle) mordit
+nous mordîmes
+vous mordîtes
+ils (elles) mordirent
+
+** Futur simple
+
+je mordrai
+tu mordras
+il (elle) mordra
+nous mordrons
+vous mordrez
+ils (elles) mordront
+
+* CONDITIONNEL
+
+** Présent
+
+je mordrais
+tu mordrais
+il (elle) mordrait
+nous mordrions
+vous mordriez
+ils (elles) mordraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je morde
+que tu mordes
+qu’il (elle) morde
+que nous mordions
+que vous mordiez
+qu’ils (elles) mordent
+
+** Imparfait
+
+que je mordisse
+que tu mordisses
+qu’il (elle) mordît
+que nous mordissions
+que vous mordissiez
+qu’ils (elles) mordissent
+
+* IMPÉRATIF
+
+** Présent
+
+mords
+mordons
+mordez
+
+* INFINITIF
+
+** Présent
+
+mordre
+
+* PARTICIPE
+
+** Présent
+
+mordant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mordu
+tu as mordu
+il (elle) a mordu
+nous avons mordu
+vous avez mordu
+ils (elles) ont mordu
+
+** Plus-que-parfait
+
+j'avais mordu
+tu avais mordu
+il (elle) avait mordu
+nous avions mordu
+vous aviez mordu
+ils (elles) avaient mordu
+
+** Passé antérieur
+
+j'eus mordu
+tu eus mordu
+il (elle) eut mordu
+nous eûmes mordu
+vous eûtes mordu
+ils (elles) eurent mordu
+
+** Futur antérieur
+
+j'aurai mordu
+tu auras mordu
+il (elle) aura mordu
+nous aurons mordu
+vous aurez mordu
+ils (elles) auront mordu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mordu
+tu aurais mordu
+il (elle) aurait mordu
+nous aurions mordu
+vous auriez mordu
+ils (elles) auraient mordu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mordu
+que tu aies mordu
+qu’il (elle) ait mordu
+que nous ayons mordu
+que vous ayez mordu
+qu’ils (elles) aient mordu
+
+** Plus-que-parfait
+
+que j'eusse mordu
+que tu eusses mordu
+qu’il (elle) eût mordu
+que nous eussions mordu
+que vous eussiez mordu
+qu’ils (elles) eussent mordu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mordu
+ayez mordu
+
+* INFINITIF
+
+** Passé
+
+avoir mordu
+
+* PARTICIPE
+
+** Passé
+
+ayant mordu
+mordu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis mordu(e)
+tu es mordu(e)
+il (elle) est mordu(e)
+nous sommes mordu(e)s
+vous êtes mordu(e)s
+ils (elles) sont mordu(e)s
+
+** Imparfait
+
+j'étais mordu(e)
+tu étais mordu(e)
+il (elle) était mordu(e)
+nous étions mordu(e)s
+vous étiez mordu(e)s
+ils (elles) étaient mordu(e)s
+
+** Passé simple
+
+je fus mordu(e)
+tu fus mordu(e)
+il (elle) fut mordu(e)
+nous fûmes mordu(e)s
+vous fûtes mordu(e)s
+ils (elles) furent mordu(e)s
+
+** Futur simple
+
+je serai mordu(e)
+tu seras mordu(e)
+il (elle) sera mordu(e)
+nous serons mordu(e)s
+vous serez mordu(e)s
+ils (elles) seront mordu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mordu(e)
+tu serais mordu(e)
+il (elle) serait mordu(e)
+nous serions mordu(e)s
+vous seriez mordu(e)s
+ils (elles) seraient mordu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mordu(e)
+que tu sois mordu(e)
+qu’il (elle) soit mordu(e)
+que nous soyons mordu(e)s
+que vous soyez mordu(e)s
+qu’ils (elles) soient mordu(e)s
+
+** Imparfait
+
+que je fusse mordu(e)
+que tu fusses mordu(e)
+qu’il (elle) fût mordu(e)
+que nous fussions mordu(e)s
+que vous fussiez mordu(e)s
+qu’ils (elles) fussent mordu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mordu(e)s
+soyez mordu(e)s
+
+* INFINITIF
+
+** Présent
+
+être mordu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mordu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mordu(e)
+tu as été mordu(e)
+il (elle) a été mordu(e)
+nous avons été mordu(e)s
+vous avez été mordu(e)s
+ils (elles) ont été mordu(e)s
+
+** Plus-que-parfait
+
+j'avais été mordu(e)
+il (elle) avait été mordu(e)
+nous avions été mordu(e)s
+ils (elles) avaient été mordu(e)s
+
+** Passé antérieur
+
+j'eus été mordu(e)
+tu eus été mordu(e)
+il (elle) eut été mordu(e)
+nous eûmes été mordu(e)s
+vous eûtes été mordu(e)s
+ils (elles) eurent été mordu(e)s
+
+** Futur antérieur
+
+j'aurai été mordu(e)
+tu auras été mordu(e)
+il (elle) aura été mordu(e)
+nous aurons été mordu(e)s
+vous aurez été mordu(e)s
+ils (elles) auront été mordu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mordu(e)
+j'aurais été mordu(e)
+il (elle) aurait été mordu(e)
+nous aurions été mordu(e)s
+vous auriez été mordu(e)s
+ils (elles) auraient été mordu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mordu(e)
+que tu aies été mordu(e)
+qu’il (elle) ait été mordu(e)
+que nous ayons été mordu(e)s
+que vous ayez été mordu(e)s
+qu’ils (elles) aient été mordu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mordu(e)
+que tu eusses été mordu(e)
+qu’il (elle) eût été mordu(e)
+que nous eussions été mordu(e)s
+que vous eussiez été mordu(e)s
+qu’ils (elles) eussent été mordu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mordu(e)
+ayons été mordu(e)s
+ayez été mordu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mordu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mordu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe modifier
+
+* INDICATIF
+
+** Présent
+
+je modifie
+tu modifies
+il (elle) modifie
+nous modifions
+vous modifiez
+ils (elles) modifient
+
+** Imparfait
+
+je modifiais
+tu modifiais
+il (elle) modifiait
+nous modifiions
+vous modifiiez
+ils (elles) modifiaient
+
+** Passé simple
+
+je modifiai
+tu modifias
+il (elle) modifia
+nous modifiâmes
+vous modifiâtes
+ils (elles) modifièrent
+
+** Futur simple
+
+je modifierai
+tu modifieras
+il (elle) modifiera
+nous modifierons
+vous modifierez
+ils (elles) modifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je modifierais
+tu modifierais
+il (elle) modifierait
+nous modifierions
+vous modifieriez
+ils (elles) modifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je modifie
+que tu modifies
+qu’il (elle) modifie
+que nous modifiions
+que vous modifiiez
+qu’ils (elles) modifient
+
+** Imparfait
+
+que je modifiasse
+que tu modifiasses
+qu’il (elle) modifiât
+que nous modifiassions
+que vous modifiassiez
+qu’ils (elles) modifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+modifie
+modifions
+modifiez
+
+* INFINITIF
+
+** Présent
+
+modifier
+
+* PARTICIPE
+
+** Présent
+
+modifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai modifié
+tu as modifié
+il (elle) a modifié
+nous avons modifié
+vous avez modifié
+ils (elles) ont modifié
+
+** Plus-que-parfait
+
+j'avais modifié
+tu avais modifié
+il (elle) avait modifié
+nous avions modifié
+vous aviez modifié
+ils (elles) avaient modifié
+
+** Passé antérieur
+
+j'eus modifié
+tu eus modifié
+il (elle) eut modifié
+nous eûmes modifié
+vous eûtes modifié
+ils (elles) eurent modifié
+
+** Futur antérieur
+
+j'aurai modifié
+tu auras modifié
+il (elle) aura modifié
+nous aurons modifié
+vous aurez modifié
+ils (elles) auront modifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais modifié
+tu aurais modifié
+il (elle) aurait modifié
+nous aurions modifié
+vous auriez modifié
+ils (elles) auraient modifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie modifié
+que tu aies modifié
+qu’il (elle) ait modifié
+que nous ayons modifié
+que vous ayez modifié
+qu’ils (elles) aient modifié
+
+** Plus-que-parfait
+
+que j'eusse modifié
+que tu eusses modifié
+qu’il (elle) eût modifié
+que nous eussions modifié
+que vous eussiez modifié
+qu’ils (elles) eussent modifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons modifié
+ayez modifié
+
+* INFINITIF
+
+** Passé
+
+avoir modifié
+
+* PARTICIPE
+
+** Passé
+
+ayant modifié
+modifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis modifié(e)
+tu es modifié(e)
+il (elle) est modifié(e)
+nous sommes modifié(e)s
+vous êtes modifié(e)s
+ils (elles) sont modifié(e)s
+
+** Imparfait
+
+j'étais modifié(e)
+tu étais modifié(e)
+il (elle) était modifié(e)
+nous étions modifié(e)s
+vous étiez modifié(e)s
+ils (elles) étaient modifié(e)s
+
+** Passé simple
+
+je fus modifié(e)
+tu fus modifié(e)
+il (elle) fut modifié(e)
+nous fûmes modifié(e)s
+vous fûtes modifié(e)s
+ils (elles) furent modifié(e)s
+
+** Futur simple
+
+je serai modifié(e)
+tu seras modifié(e)
+il (elle) sera modifié(e)
+nous serons modifié(e)s
+vous serez modifié(e)s
+ils (elles) seront modifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais modifié(e)
+tu serais modifié(e)
+il (elle) serait modifié(e)
+nous serions modifié(e)s
+vous seriez modifié(e)s
+ils (elles) seraient modifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois modifié(e)
+que tu sois modifié(e)
+qu’il (elle) soit modifié(e)
+que nous soyons modifié(e)s
+que vous soyez modifié(e)s
+qu’ils (elles) soient modifié(e)s
+
+** Imparfait
+
+que je fusse modifié(e)
+que tu fusses modifié(e)
+qu’il (elle) fût modifié(e)
+que nous fussions modifié(e)s
+que vous fussiez modifié(e)s
+qu’ils (elles) fussent modifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons modifié(e)s
+soyez modifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être modifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant modifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été modifié(e)
+tu as été modifié(e)
+il (elle) a été modifié(e)
+nous avons été modifié(e)s
+vous avez été modifié(e)s
+ils (elles) ont été modifié(e)s
+
+** Plus-que-parfait
+
+j'avais été modifié(e)
+il (elle) avait été modifié(e)
+nous avions été modifié(e)s
+ils (elles) avaient été modifié(e)s
+
+** Passé antérieur
+
+j'eus été modifié(e)
+tu eus été modifié(e)
+il (elle) eut été modifié(e)
+nous eûmes été modifié(e)s
+vous eûtes été modifié(e)s
+ils (elles) eurent été modifié(e)s
+
+** Futur antérieur
+
+j'aurai été modifié(e)
+tu auras été modifié(e)
+il (elle) aura été modifié(e)
+nous aurons été modifié(e)s
+vous aurez été modifié(e)s
+ils (elles) auront été modifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été modifié(e)
+j'aurais été modifié(e)
+il (elle) aurait été modifié(e)
+nous aurions été modifié(e)s
+vous auriez été modifié(e)s
+ils (elles) auraient été modifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été modifié(e)
+que tu aies été modifié(e)
+qu’il (elle) ait été modifié(e)
+que nous ayons été modifié(e)s
+que vous ayez été modifié(e)s
+qu’ils (elles) aient été modifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été modifié(e)
+que tu eusses été modifié(e)
+qu’il (elle) eût été modifié(e)
+que nous eussions été modifié(e)s
+que vous eussiez été modifié(e)s
+qu’ils (elles) eussent été modifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été modifié(e)
+ayons été modifié(e)s
+ayez été modifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été modifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été modifié(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe toiler
+
+* INDICATIF
+
+** Présent
+
+je toile
+tu toiles
+il (elle) toile
+nous toilons
+vous toilez
+ils (elles) toilent
+
+** Imparfait
+
+je toilais
+tu toilais
+il (elle) toilait
+nous toilions
+vous toiliez
+ils (elles) toilaient
+
+** Passé simple
+
+je toilai
+tu toilas
+il (elle) toila
+nous toilâmes
+vous toilâtes
+ils (elles) toilèrent
+
+** Futur simple
+
+je toilerai
+tu toileras
+il (elle) toilera
+nous toilerons
+vous toilerez
+ils (elles) toileront
+
+* CONDITIONNEL
+
+** Présent
+
+je toilerais
+tu toilerais
+il (elle) toilerait
+nous toilerions
+vous toileriez
+ils (elles) toileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je toile
+que tu toiles
+qu’il (elle) toile
+que nous toilions
+que vous toiliez
+qu’ils (elles) toilent
+
+** Imparfait
+
+que je toilasse
+que tu toilasses
+qu’il (elle) toilât
+que nous toilassions
+que vous toilassiez
+qu’ils (elles) toilassent
+
+* IMPÉRATIF
+
+** Présent
+
+toile
+toilons
+toilez
+
+* INFINITIF
+
+** Présent
+
+toiler
+
+* PARTICIPE
+
+** Présent
+
+toilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai toilé
+tu as toilé
+il (elle) a toilé
+nous avons toilé
+vous avez toilé
+ils (elles) ont toilé
+
+** Plus-que-parfait
+
+j'avais toilé
+tu avais toilé
+il (elle) avait toilé
+nous avions toilé
+vous aviez toilé
+ils (elles) avaient toilé
+
+** Passé antérieur
+
+j'eus toilé
+tu eus toilé
+il (elle) eut toilé
+nous eûmes toilé
+vous eûtes toilé
+ils (elles) eurent toilé
+
+** Futur antérieur
+
+j'aurai toilé
+tu auras toilé
+il (elle) aura toilé
+nous aurons toilé
+vous aurez toilé
+ils (elles) auront toilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais toilé
+tu aurais toilé
+il (elle) aurait toilé
+nous aurions toilé
+vous auriez toilé
+ils (elles) auraient toilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie toilé
+que tu aies toilé
+qu’il (elle) ait toilé
+que nous ayons toilé
+que vous ayez toilé
+qu’ils (elles) aient toilé
+
+** Plus-que-parfait
+
+que j'eusse toilé
+que tu eusses toilé
+qu’il (elle) eût toilé
+que nous eussions toilé
+que vous eussiez toilé
+qu’ils (elles) eussent toilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons toilé
+ayez toilé
+
+* INFINITIF
+
+** Passé
+
+avoir toilé
+
+* PARTICIPE
+
+** Passé
+
+ayant toilé
+toilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis toilé(e)
+tu es toilé(e)
+il (elle) est toilé(e)
+nous sommes toilé(e)s
+vous êtes toilé(e)s
+ils (elles) sont toilé(e)s
+
+** Imparfait
+
+j'étais toilé(e)
+tu étais toilé(e)
+il (elle) était toilé(e)
+nous étions toilé(e)s
+vous étiez toilé(e)s
+ils (elles) étaient toilé(e)s
+
+** Passé simple
+
+je fus toilé(e)
+tu fus toilé(e)
+il (elle) fut toilé(e)
+nous fûmes toilé(e)s
+vous fûtes toilé(e)s
+ils (elles) furent toilé(e)s
+
+** Futur simple
+
+je serai toilé(e)
+tu seras toilé(e)
+il (elle) sera toilé(e)
+nous serons toilé(e)s
+vous serez toilé(e)s
+ils (elles) seront toilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais toilé(e)
+tu serais toilé(e)
+il (elle) serait toilé(e)
+nous serions toilé(e)s
+vous seriez toilé(e)s
+ils (elles) seraient toilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois toilé(e)
+que tu sois toilé(e)
+qu’il (elle) soit toilé(e)
+que nous soyons toilé(e)s
+que vous soyez toilé(e)s
+qu’ils (elles) soient toilé(e)s
+
+** Imparfait
+
+que je fusse toilé(e)
+que tu fusses toilé(e)
+qu’il (elle) fût toilé(e)
+que nous fussions toilé(e)s
+que vous fussiez toilé(e)s
+qu’ils (elles) fussent toilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons toilé(e)s
+soyez toilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être toilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant toilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été toilé(e)
+tu as été toilé(e)
+il (elle) a été toilé(e)
+nous avons été toilé(e)s
+vous avez été toilé(e)s
+ils (elles) ont été toilé(e)s
+
+** Plus-que-parfait
+
+j'avais été toilé(e)
+il (elle) avait été toilé(e)
+nous avions été toilé(e)s
+ils (elles) avaient été toilé(e)s
+
+** Passé antérieur
+
+j'eus été toilé(e)
+tu eus été toilé(e)
+il (elle) eut été toilé(e)
+nous eûmes été toilé(e)s
+vous eûtes été toilé(e)s
+ils (elles) eurent été toilé(e)s
+
+** Futur antérieur
+
+j'aurai été toilé(e)
+tu auras été toilé(e)
+il (elle) aura été toilé(e)
+nous aurons été toilé(e)s
+vous aurez été toilé(e)s
+ils (elles) auront été toilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été toilé(e)
+j'aurais été toilé(e)
+il (elle) aurait été toilé(e)
+nous aurions été toilé(e)s
+vous auriez été toilé(e)s
+ils (elles) auraient été toilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été toilé(e)
+que tu aies été toilé(e)
+qu’il (elle) ait été toilé(e)
+que nous ayons été toilé(e)s
+que vous ayez été toilé(e)s
+qu’ils (elles) aient été toilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été toilé(e)
+que tu eusses été toilé(e)
+qu’il (elle) eût été toilé(e)
+que nous eussions été toilé(e)s
+que vous eussiez été toilé(e)s
+qu’ils (elles) eussent été toilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été toilé(e)
+ayons été toilé(e)s
+ayez été toilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été toilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été toilé(e)(s)

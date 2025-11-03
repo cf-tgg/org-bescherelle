@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe aboutir
+
+* INDICATIF
+
+** Présent
+
+j'aboutis
+tu aboutis
+il (elle) aboutit
+nous aboutissons
+vous aboutissez
+ils (elles) aboutissent
+
+** Imparfait
+
+j'aboutissais
+tu aboutissais
+il (elle) aboutissait
+nous aboutissions
+vous aboutissiez
+ils (elles) aboutissaient
+
+** Passé simple
+
+j'aboutis
+tu aboutis
+il (elle) aboutit
+nous aboutîmes
+vous aboutîtes
+ils (elles) aboutirent
+
+** Futur simple
+
+j'aboutirai
+tu aboutiras
+il (elle) aboutira
+nous aboutirons
+vous aboutirez
+ils (elles) aboutiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aboutirais
+tu aboutirais
+il (elle) aboutirait
+nous aboutirions
+vous aboutiriez
+ils (elles) aboutiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aboutisse
+que tu aboutisses
+qu’il (elle) aboutisse
+que nous aboutissions
+que vous aboutissiez
+qu’ils (elles) aboutissent
+
+** Imparfait
+
+que j'aboutisse
+que tu aboutisses
+qu’il (elle) aboutît
+que nous aboutissions
+que vous aboutissiez
+qu’ils (elles) aboutissent
+
+* IMPÉRATIF
+
+** Présent
+
+aboutis
+aboutissons
+aboutissez
+
+* INFINITIF
+
+** Présent
+
+aboutir
+
+* PARTICIPE
+
+** Présent
+
+aboutissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abouti
+tu as abouti
+il (elle) a abouti
+nous avons abouti
+vous avez abouti
+ils (elles) ont abouti
+
+** Plus-que-parfait
+
+j'avais abouti
+tu avais abouti
+il (elle) avait abouti
+nous avions abouti
+vous aviez abouti
+ils (elles) avaient abouti
+
+** Passé antérieur
+
+j'eus abouti
+tu eus abouti
+il (elle) eut abouti
+nous eûmes abouti
+vous eûtes abouti
+ils (elles) eurent abouti
+
+** Futur antérieur
+
+j'aurai abouti
+tu auras abouti
+il (elle) aura abouti
+nous aurons abouti
+vous aurez abouti
+ils (elles) auront abouti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abouti
+tu aurais abouti
+il (elle) aurait abouti
+nous aurions abouti
+vous auriez abouti
+ils (elles) auraient abouti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abouti
+que tu aies abouti
+qu’il (elle) ait abouti
+que nous ayons abouti
+que vous ayez abouti
+qu’ils (elles) aient abouti
+
+** Plus-que-parfait
+
+que j'eusse abouti
+que tu eusses abouti
+qu’il (elle) eût abouti
+que nous eussions abouti
+que vous eussiez abouti
+qu’ils (elles) eussent abouti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abouti
+ayez abouti
+
+* INFINITIF
+
+** Passé
+
+avoir abouti
+
+* PARTICIPE
+
+** Passé
+
+ayant abouti
+abouti (invar.)

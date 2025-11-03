@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe relire
+
+* INDICATIF
+
+** Présent
+
+je relis
+tu relis
+il (elle) relit
+nous relisons
+vous relisez
+ils (elles) relisent
+
+** Imparfait
+
+je relisais
+tu relisais
+il (elle) relisait
+nous relisions
+vous relisiez
+ils (elles) relisaient
+
+** Passé simple
+
+je relus
+tu relus
+il (elle) relut
+nous relûmes
+vous relûtes
+ils (elles) relurent
+
+** Futur simple
+
+je relirai
+tu reliras
+il (elle) relira
+nous relirons
+vous relirez
+ils (elles) reliront
+
+* CONDITIONNEL
+
+** Présent
+
+je relirais
+tu relirais
+il (elle) relirait
+nous relirions
+vous reliriez
+ils (elles) reliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je relise
+que tu relises
+qu’il (elle) relise
+que nous relisions
+que vous relisiez
+qu’ils (elles) relisent
+
+** Imparfait
+
+que je relusse
+que tu relusses
+qu’il (elle) relût
+que nous relussions
+que vous relussiez
+qu’ils (elles) relussent
+
+* IMPÉRATIF
+
+** Présent
+
+relis
+relisons
+relisez
+
+* INFINITIF
+
+** Présent
+
+relire
+
+* PARTICIPE
+
+** Présent
+
+relisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai relu
+tu as relu
+il (elle) a relu
+nous avons relu
+vous avez relu
+ils (elles) ont relu
+
+** Plus-que-parfait
+
+j'avais relu
+tu avais relu
+il (elle) avait relu
+nous avions relu
+vous aviez relu
+ils (elles) avaient relu
+
+** Passé antérieur
+
+j'eus relu
+tu eus relu
+il (elle) eut relu
+nous eûmes relu
+vous eûtes relu
+ils (elles) eurent relu
+
+** Futur antérieur
+
+j'aurai relu
+tu auras relu
+il (elle) aura relu
+nous aurons relu
+vous aurez relu
+ils (elles) auront relu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais relu
+tu aurais relu
+il (elle) aurait relu
+nous aurions relu
+vous auriez relu
+ils (elles) auraient relu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie relu
+que tu aies relu
+qu’il (elle) ait relu
+que nous ayons relu
+que vous ayez relu
+qu’ils (elles) aient relu
+
+** Plus-que-parfait
+
+que j'eusse relu
+que tu eusses relu
+qu’il (elle) eût relu
+que nous eussions relu
+que vous eussiez relu
+qu’ils (elles) eussent relu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons relu
+ayez relu
+
+* INFINITIF
+
+** Passé
+
+avoir relu
+
+* PARTICIPE
+
+** Passé
+
+ayant relu
+relu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis relu(e)
+tu es relu(e)
+il (elle) est relu(e)
+nous sommes relu(e)s
+vous êtes relu(e)s
+ils (elles) sont relu(e)s
+
+** Imparfait
+
+j'étais relu(e)
+tu étais relu(e)
+il (elle) était relu(e)
+nous étions relu(e)s
+vous étiez relu(e)s
+ils (elles) étaient relu(e)s
+
+** Passé simple
+
+je fus relu(e)
+tu fus relu(e)
+il (elle) fut relu(e)
+nous fûmes relu(e)s
+vous fûtes relu(e)s
+ils (elles) furent relu(e)s
+
+** Futur simple
+
+je serai relu(e)
+tu seras relu(e)
+il (elle) sera relu(e)
+nous serons relu(e)s
+vous serez relu(e)s
+ils (elles) seront relu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais relu(e)
+tu serais relu(e)
+il (elle) serait relu(e)
+nous serions relu(e)s
+vous seriez relu(e)s
+ils (elles) seraient relu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois relu(e)
+que tu sois relu(e)
+qu’il (elle) soit relu(e)
+que nous soyons relu(e)s
+que vous soyez relu(e)s
+qu’ils (elles) soient relu(e)s
+
+** Imparfait
+
+que je fusse relu(e)
+que tu fusses relu(e)
+qu’il (elle) fût relu(e)
+que nous fussions relu(e)s
+que vous fussiez relu(e)s
+qu’ils (elles) fussent relu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons relu(e)s
+soyez relu(e)s
+
+* INFINITIF
+
+** Présent
+
+être relu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant relu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été relu(e)
+tu as été relu(e)
+il (elle) a été relu(e)
+nous avons été relu(e)s
+vous avez été relu(e)s
+ils (elles) ont été relu(e)s
+
+** Plus-que-parfait
+
+j'avais été relu(e)
+il (elle) avait été relu(e)
+nous avions été relu(e)s
+ils (elles) avaient été relu(e)s
+
+** Passé antérieur
+
+j'eus été relu(e)
+tu eus été relu(e)
+il (elle) eut été relu(e)
+nous eûmes été relu(e)s
+vous eûtes été relu(e)s
+ils (elles) eurent été relu(e)s
+
+** Futur antérieur
+
+j'aurai été relu(e)
+tu auras été relu(e)
+il (elle) aura été relu(e)
+nous aurons été relu(e)s
+vous aurez été relu(e)s
+ils (elles) auront été relu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été relu(e)
+j'aurais été relu(e)
+il (elle) aurait été relu(e)
+nous aurions été relu(e)s
+vous auriez été relu(e)s
+ils (elles) auraient été relu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été relu(e)
+que tu aies été relu(e)
+qu’il (elle) ait été relu(e)
+que nous ayons été relu(e)s
+que vous ayez été relu(e)s
+qu’ils (elles) aient été relu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été relu(e)
+que tu eusses été relu(e)
+qu’il (elle) eût été relu(e)
+que nous eussions été relu(e)s
+que vous eussiez été relu(e)s
+qu’ils (elles) eussent été relu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été relu(e)
+ayons été relu(e)s
+ayez été relu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été relu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été relu(e)(s)

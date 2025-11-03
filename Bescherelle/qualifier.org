@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe qualifier
+
+* INDICATIF
+
+** Présent
+
+je qualifie
+tu qualifies
+il (elle) qualifie
+nous qualifions
+vous qualifiez
+ils (elles) qualifient
+
+** Imparfait
+
+je qualifiais
+tu qualifiais
+il (elle) qualifiait
+nous qualifiions
+vous qualifiiez
+ils (elles) qualifiaient
+
+** Passé simple
+
+je qualifiai
+tu qualifias
+il (elle) qualifia
+nous qualifiâmes
+vous qualifiâtes
+ils (elles) qualifièrent
+
+** Futur simple
+
+je qualifierai
+tu qualifieras
+il (elle) qualifiera
+nous qualifierons
+vous qualifierez
+ils (elles) qualifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je qualifierais
+tu qualifierais
+il (elle) qualifierait
+nous qualifierions
+vous qualifieriez
+ils (elles) qualifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je qualifie
+que tu qualifies
+qu’il (elle) qualifie
+que nous qualifiions
+que vous qualifiiez
+qu’ils (elles) qualifient
+
+** Imparfait
+
+que je qualifiasse
+que tu qualifiasses
+qu’il (elle) qualifiât
+que nous qualifiassions
+que vous qualifiassiez
+qu’ils (elles) qualifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+qualifie
+qualifions
+qualifiez
+
+* INFINITIF
+
+** Présent
+
+qualifier
+
+* PARTICIPE
+
+** Présent
+
+qualifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai qualifié
+tu as qualifié
+il (elle) a qualifié
+nous avons qualifié
+vous avez qualifié
+ils (elles) ont qualifié
+
+** Plus-que-parfait
+
+j'avais qualifié
+tu avais qualifié
+il (elle) avait qualifié
+nous avions qualifié
+vous aviez qualifié
+ils (elles) avaient qualifié
+
+** Passé antérieur
+
+j'eus qualifié
+tu eus qualifié
+il (elle) eut qualifié
+nous eûmes qualifié
+vous eûtes qualifié
+ils (elles) eurent qualifié
+
+** Futur antérieur
+
+j'aurai qualifié
+tu auras qualifié
+il (elle) aura qualifié
+nous aurons qualifié
+vous aurez qualifié
+ils (elles) auront qualifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais qualifié
+tu aurais qualifié
+il (elle) aurait qualifié
+nous aurions qualifié
+vous auriez qualifié
+ils (elles) auraient qualifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie qualifié
+que tu aies qualifié
+qu’il (elle) ait qualifié
+que nous ayons qualifié
+que vous ayez qualifié
+qu’ils (elles) aient qualifié
+
+** Plus-que-parfait
+
+que j'eusse qualifié
+que tu eusses qualifié
+qu’il (elle) eût qualifié
+que nous eussions qualifié
+que vous eussiez qualifié
+qu’ils (elles) eussent qualifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons qualifié
+ayez qualifié
+
+* INFINITIF
+
+** Passé
+
+avoir qualifié
+
+* PARTICIPE
+
+** Passé
+
+ayant qualifié
+qualifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis qualifié(e)
+tu es qualifié(e)
+il (elle) est qualifié(e)
+nous sommes qualifié(e)s
+vous êtes qualifié(e)s
+ils (elles) sont qualifié(e)s
+
+** Imparfait
+
+j'étais qualifié(e)
+tu étais qualifié(e)
+il (elle) était qualifié(e)
+nous étions qualifié(e)s
+vous étiez qualifié(e)s
+ils (elles) étaient qualifié(e)s
+
+** Passé simple
+
+je fus qualifié(e)
+tu fus qualifié(e)
+il (elle) fut qualifié(e)
+nous fûmes qualifié(e)s
+vous fûtes qualifié(e)s
+ils (elles) furent qualifié(e)s
+
+** Futur simple
+
+je serai qualifié(e)
+tu seras qualifié(e)
+il (elle) sera qualifié(e)
+nous serons qualifié(e)s
+vous serez qualifié(e)s
+ils (elles) seront qualifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais qualifié(e)
+tu serais qualifié(e)
+il (elle) serait qualifié(e)
+nous serions qualifié(e)s
+vous seriez qualifié(e)s
+ils (elles) seraient qualifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois qualifié(e)
+que tu sois qualifié(e)
+qu’il (elle) soit qualifié(e)
+que nous soyons qualifié(e)s
+que vous soyez qualifié(e)s
+qu’ils (elles) soient qualifié(e)s
+
+** Imparfait
+
+que je fusse qualifié(e)
+que tu fusses qualifié(e)
+qu’il (elle) fût qualifié(e)
+que nous fussions qualifié(e)s
+que vous fussiez qualifié(e)s
+qu’ils (elles) fussent qualifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons qualifié(e)s
+soyez qualifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être qualifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant qualifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été qualifié(e)
+tu as été qualifié(e)
+il (elle) a été qualifié(e)
+nous avons été qualifié(e)s
+vous avez été qualifié(e)s
+ils (elles) ont été qualifié(e)s
+
+** Plus-que-parfait
+
+j'avais été qualifié(e)
+il (elle) avait été qualifié(e)
+nous avions été qualifié(e)s
+ils (elles) avaient été qualifié(e)s
+
+** Passé antérieur
+
+j'eus été qualifié(e)
+tu eus été qualifié(e)
+il (elle) eut été qualifié(e)
+nous eûmes été qualifié(e)s
+vous eûtes été qualifié(e)s
+ils (elles) eurent été qualifié(e)s
+
+** Futur antérieur
+
+j'aurai été qualifié(e)
+tu auras été qualifié(e)
+il (elle) aura été qualifié(e)
+nous aurons été qualifié(e)s
+vous aurez été qualifié(e)s
+ils (elles) auront été qualifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été qualifié(e)
+j'aurais été qualifié(e)
+il (elle) aurait été qualifié(e)
+nous aurions été qualifié(e)s
+vous auriez été qualifié(e)s
+ils (elles) auraient été qualifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été qualifié(e)
+que tu aies été qualifié(e)
+qu’il (elle) ait été qualifié(e)
+que nous ayons été qualifié(e)s
+que vous ayez été qualifié(e)s
+qu’ils (elles) aient été qualifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été qualifié(e)
+que tu eusses été qualifié(e)
+qu’il (elle) eût été qualifié(e)
+que nous eussions été qualifié(e)s
+que vous eussiez été qualifié(e)s
+qu’ils (elles) eussent été qualifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été qualifié(e)
+ayons été qualifié(e)s
+ayez été qualifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été qualifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été qualifié(e)(s)

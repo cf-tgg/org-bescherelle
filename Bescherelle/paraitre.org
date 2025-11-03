@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe paraitre
+
+* INDICATIF
+
+** Présent
+
+je parais
+tu parais
+il (elle) paraît
+nous paraissons
+vous paraissez
+ils (elles) paraissent
+
+** Imparfait
+
+je paraissais
+tu paraissais
+il (elle) paraissait
+nous paraissions
+vous paraissiez
+ils (elles) paraissaient
+
+** Passé simple
+
+je parus
+tu parus
+il (elle) parut
+nous parûmes
+vous parûtes
+ils (elles) parurent
+
+** Futur simple
+
+je paraîtrai
+tu paraîtras
+il (elle) paraîtra
+nous paraîtrons
+vous paraîtrez
+ils (elles) paraîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je paraîtrais
+tu paraîtrais
+il (elle) paraîtrait
+nous paraîtrions
+vous paraîtriez
+ils (elles) paraîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je paraisse
+que tu paraisses
+qu’il (elle) paraisse
+que nous paraissions
+que vous paraissiez
+qu’ils (elles) paraissent
+
+** Imparfait
+
+que je parusse
+que tu parusses
+qu’il (elle) parût
+que nous parussions
+que vous parussiez
+qu’ils (elles) parussent
+
+* IMPÉRATIF
+
+** Présent
+
+parais
+paraissons
+paraissez
+
+* INFINITIF
+
+** Présent
+
+paraître
+
+* PARTICIPE
+
+** Présent
+
+paraissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis paru(e)
+tu as ou es paru(e)
+il (elle) a ou est paru(e)
+nous avons ou sommes paru(e)s
+vous avez ou êtes paru(e)s
+ils (elles) ont ou sont paru(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais paru(e)
+tu avais ou étais paru(e)
+il (elle) avait ou était paru(e)
+nous avions ou étions paru(e)s
+vous aviez ou étiez paru(e)s
+ils (elles) avaient ou étaient paru(e)s
+
+** Passé antérieur
+
+j'eus ou fus paru(e)
+tu eus ou fus paru(e)
+il (elle) eut ou fut paru(e)
+nous eûmes ou fûmes paru(e)s
+vous eûtes ou fûtes paru(e)s
+ils (elles) eurent ou furent paru(e)s
+
+** Futur antérieur
+
+j'aurai ou serai paru(e)
+tu auras ou seras paru(e)
+il (elle) aura ou sera paru(e)
+nous aurons ou serons paru(e)s
+vous aurez ou serez paru(e)s
+ils (elles) auront ou seront paru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais paru(e)
+tu aurais ou serais paru(e)
+il (elle) aurait ou serait paru(e)
+nous aurions ou serions paru(e)s
+vous auriez ou seriez paru(e)s
+ils (elles) auraient ou seraient paru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois paru(e)
+que tu aies ou sois paru(e)
+qu’il (elle) ait ou soit paru(e)
+que nous ayons ou soyons paru(e)s
+que vous ayez ou soyez paru(e)s
+qu’ils (elles) aient ou soient paru(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse paru(e)
+que tu eusses ou fusses paru(e)
+qu’il (elle) eût ou fût paru(e)
+que nous eussions ou fussions paru(e)s
+que vous eussiez ou fussiez paru(e)s
+qu’ils (elles) eussent ou fussent paru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons paru(e)s
+ayez ou soyez paru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être paru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant paru(e)(s)
+paru (u, ue, us, ues)

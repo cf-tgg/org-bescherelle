@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conclure
+
+* INDICATIF
+
+** Présent
+
+je conclus
+tu conclus
+il (elle) conclut
+nous concluons
+vous concluez
+ils (elles) concluent
+
+** Imparfait
+
+je concluais
+tu concluais
+il (elle) concluait
+nous concluions
+vous concluiez
+ils (elles) concluaient
+
+** Passé simple
+
+je conclus
+tu conclus
+il (elle) conclut
+nous conclûmes
+vous conclûtes
+ils (elles) conclurent
+
+** Futur simple
+
+je conclurai
+tu concluras
+il (elle) conclura
+nous conclurons
+vous conclurez
+ils (elles) concluront
+
+* CONDITIONNEL
+
+** Présent
+
+je conclurais
+tu conclurais
+il (elle) conclurait
+nous conclurions
+vous concluriez
+ils (elles) concluraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conclue
+que tu conclues
+qu’il (elle) conclue
+que nous concluions
+que vous concluiez
+qu’ils (elles) concluent
+
+** Imparfait
+
+que je conclusse
+que tu conclusses
+qu’il (elle) conclût
+que nous conclussions
+que vous conclussiez
+qu’ils (elles) conclussent
+
+* IMPÉRATIF
+
+** Présent
+
+conclus
+concluons
+concluez
+
+* INFINITIF
+
+** Présent
+
+conclure
+
+* PARTICIPE
+
+** Présent
+
+concluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conclu
+tu as conclu
+il (elle) a conclu
+nous avons conclu
+vous avez conclu
+ils (elles) ont conclu
+
+** Plus-que-parfait
+
+j'avais conclu
+tu avais conclu
+il (elle) avait conclu
+nous avions conclu
+vous aviez conclu
+ils (elles) avaient conclu
+
+** Passé antérieur
+
+j'eus conclu
+tu eus conclu
+il (elle) eut conclu
+nous eûmes conclu
+vous eûtes conclu
+ils (elles) eurent conclu
+
+** Futur antérieur
+
+j'aurai conclu
+tu auras conclu
+il (elle) aura conclu
+nous aurons conclu
+vous aurez conclu
+ils (elles) auront conclu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conclu
+tu aurais conclu
+il (elle) aurait conclu
+nous aurions conclu
+vous auriez conclu
+ils (elles) auraient conclu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conclu
+que tu aies conclu
+qu’il (elle) ait conclu
+que nous ayons conclu
+que vous ayez conclu
+qu’ils (elles) aient conclu
+
+** Plus-que-parfait
+
+que j'eusse conclu
+que tu eusses conclu
+qu’il (elle) eût conclu
+que nous eussions conclu
+que vous eussiez conclu
+qu’ils (elles) eussent conclu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conclu
+ayez conclu
+
+* INFINITIF
+
+** Passé
+
+avoir conclu
+
+* PARTICIPE
+
+** Passé
+
+ayant conclu
+conclu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis conclu(e)
+tu es conclu(e)
+il (elle) est conclu(e)
+nous sommes conclu(e)s
+vous êtes conclu(e)s
+ils (elles) sont conclu(e)s
+
+** Imparfait
+
+j'étais conclu(e)
+tu étais conclu(e)
+il (elle) était conclu(e)
+nous étions conclu(e)s
+vous étiez conclu(e)s
+ils (elles) étaient conclu(e)s
+
+** Passé simple
+
+je fus conclu(e)
+tu fus conclu(e)
+il (elle) fut conclu(e)
+nous fûmes conclu(e)s
+vous fûtes conclu(e)s
+ils (elles) furent conclu(e)s
+
+** Futur simple
+
+je serai conclu(e)
+tu seras conclu(e)
+il (elle) sera conclu(e)
+nous serons conclu(e)s
+vous serez conclu(e)s
+ils (elles) seront conclu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conclu(e)
+tu serais conclu(e)
+il (elle) serait conclu(e)
+nous serions conclu(e)s
+vous seriez conclu(e)s
+ils (elles) seraient conclu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conclu(e)
+que tu sois conclu(e)
+qu’il (elle) soit conclu(e)
+que nous soyons conclu(e)s
+que vous soyez conclu(e)s
+qu’ils (elles) soient conclu(e)s
+
+** Imparfait
+
+que je fusse conclu(e)
+que tu fusses conclu(e)
+qu’il (elle) fût conclu(e)
+que nous fussions conclu(e)s
+que vous fussiez conclu(e)s
+qu’ils (elles) fussent conclu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conclu(e)s
+soyez conclu(e)s
+
+* INFINITIF
+
+** Présent
+
+être conclu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conclu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conclu(e)
+tu as été conclu(e)
+il (elle) a été conclu(e)
+nous avons été conclu(e)s
+vous avez été conclu(e)s
+ils (elles) ont été conclu(e)s
+
+** Plus-que-parfait
+
+j'avais été conclu(e)
+il (elle) avait été conclu(e)
+nous avions été conclu(e)s
+ils (elles) avaient été conclu(e)s
+
+** Passé antérieur
+
+j'eus été conclu(e)
+tu eus été conclu(e)
+il (elle) eut été conclu(e)
+nous eûmes été conclu(e)s
+vous eûtes été conclu(e)s
+ils (elles) eurent été conclu(e)s
+
+** Futur antérieur
+
+j'aurai été conclu(e)
+tu auras été conclu(e)
+il (elle) aura été conclu(e)
+nous aurons été conclu(e)s
+vous aurez été conclu(e)s
+ils (elles) auront été conclu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conclu(e)
+j'aurais été conclu(e)
+il (elle) aurait été conclu(e)
+nous aurions été conclu(e)s
+vous auriez été conclu(e)s
+ils (elles) auraient été conclu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conclu(e)
+que tu aies été conclu(e)
+qu’il (elle) ait été conclu(e)
+que nous ayons été conclu(e)s
+que vous ayez été conclu(e)s
+qu’ils (elles) aient été conclu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conclu(e)
+que tu eusses été conclu(e)
+qu’il (elle) eût été conclu(e)
+que nous eussions été conclu(e)s
+que vous eussiez été conclu(e)s
+qu’ils (elles) eussent été conclu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conclu(e)
+ayons été conclu(e)s
+ayez été conclu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conclu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conclu(e)(s)

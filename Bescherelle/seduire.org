@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe seduire
+
+* INDICATIF
+
+** Présent
+
+je séduis
+tu séduis
+il (elle) séduit
+nous séduisons
+vous séduisez
+ils (elles) séduisent
+
+** Imparfait
+
+je séduisais
+tu séduisais
+il (elle) séduisait
+nous séduisions
+vous séduisiez
+ils (elles) séduisaient
+
+** Passé simple
+
+je séduisis
+tu séduisis
+il (elle) séduisit
+nous séduisîmes
+vous séduisîtes
+ils (elles) séduisirent
+
+** Futur simple
+
+je séduirai
+tu séduiras
+il (elle) séduira
+nous séduirons
+vous séduirez
+ils (elles) séduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je séduirais
+tu séduirais
+il (elle) séduirait
+nous séduirions
+vous séduiriez
+ils (elles) séduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je séduise
+que tu séduises
+qu’il (elle) séduise
+que nous séduisions
+que vous séduisiez
+qu’ils (elles) séduisent
+
+** Imparfait
+
+que je séduisisse
+que tu séduisisses
+qu’il (elle) séduisît
+que nous séduisissions
+que vous séduisissiez
+qu’ils (elles) séduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+séduis
+séduisons
+séduisez
+
+* INFINITIF
+
+** Présent
+
+séduire
+
+* PARTICIPE
+
+** Présent
+
+séduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai séduit
+tu as séduit
+il (elle) a séduit
+nous avons séduit
+vous avez séduit
+ils (elles) ont séduit
+
+** Plus-que-parfait
+
+j'avais séduit
+tu avais séduit
+il (elle) avait séduit
+nous avions séduit
+vous aviez séduit
+ils (elles) avaient séduit
+
+** Passé antérieur
+
+j'eus séduit
+tu eus séduit
+il (elle) eut séduit
+nous eûmes séduit
+vous eûtes séduit
+ils (elles) eurent séduit
+
+** Futur antérieur
+
+j'aurai séduit
+tu auras séduit
+il (elle) aura séduit
+nous aurons séduit
+vous aurez séduit
+ils (elles) auront séduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais séduit
+tu aurais séduit
+il (elle) aurait séduit
+nous aurions séduit
+vous auriez séduit
+ils (elles) auraient séduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie séduit
+que tu aies séduit
+qu’il (elle) ait séduit
+que nous ayons séduit
+que vous ayez séduit
+qu’ils (elles) aient séduit
+
+** Plus-que-parfait
+
+que j'eusse séduit
+que tu eusses séduit
+qu’il (elle) eût séduit
+que nous eussions séduit
+que vous eussiez séduit
+qu’ils (elles) eussent séduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons séduit
+ayez séduit
+
+* INFINITIF
+
+** Passé
+
+avoir séduit
+
+* PARTICIPE
+
+** Passé
+
+ayant séduit
+séduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis séduit(e)
+tu es séduit(e)
+il (elle) est séduit(e)
+nous sommes séduit(e)s
+vous êtes séduit(e)s
+ils (elles) sont séduit(e)s
+
+** Imparfait
+
+j'étais séduit(e)
+tu étais séduit(e)
+il (elle) était séduit(e)
+nous étions séduit(e)s
+vous étiez séduit(e)s
+ils (elles) étaient séduit(e)s
+
+** Passé simple
+
+je fus séduit(e)
+tu fus séduit(e)
+il (elle) fut séduit(e)
+nous fûmes séduit(e)s
+vous fûtes séduit(e)s
+ils (elles) furent séduit(e)s
+
+** Futur simple
+
+je serai séduit(e)
+tu seras séduit(e)
+il (elle) sera séduit(e)
+nous serons séduit(e)s
+vous serez séduit(e)s
+ils (elles) seront séduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais séduit(e)
+tu serais séduit(e)
+il (elle) serait séduit(e)
+nous serions séduit(e)s
+vous seriez séduit(e)s
+ils (elles) seraient séduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois séduit(e)
+que tu sois séduit(e)
+qu’il (elle) soit séduit(e)
+que nous soyons séduit(e)s
+que vous soyez séduit(e)s
+qu’ils (elles) soient séduit(e)s
+
+** Imparfait
+
+que je fusse séduit(e)
+que tu fusses séduit(e)
+qu’il (elle) fût séduit(e)
+que nous fussions séduit(e)s
+que vous fussiez séduit(e)s
+qu’ils (elles) fussent séduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons séduit(e)s
+soyez séduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être séduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant séduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été séduit(e)
+tu as été séduit(e)
+il (elle) a été séduit(e)
+nous avons été séduit(e)s
+vous avez été séduit(e)s
+ils (elles) ont été séduit(e)s
+
+** Plus-que-parfait
+
+j'avais été séduit(e)
+il (elle) avait été séduit(e)
+nous avions été séduit(e)s
+ils (elles) avaient été séduit(e)s
+
+** Passé antérieur
+
+j'eus été séduit(e)
+tu eus été séduit(e)
+il (elle) eut été séduit(e)
+nous eûmes été séduit(e)s
+vous eûtes été séduit(e)s
+ils (elles) eurent été séduit(e)s
+
+** Futur antérieur
+
+j'aurai été séduit(e)
+tu auras été séduit(e)
+il (elle) aura été séduit(e)
+nous aurons été séduit(e)s
+vous aurez été séduit(e)s
+ils (elles) auront été séduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été séduit(e)
+j'aurais été séduit(e)
+il (elle) aurait été séduit(e)
+nous aurions été séduit(e)s
+vous auriez été séduit(e)s
+ils (elles) auraient été séduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été séduit(e)
+que tu aies été séduit(e)
+qu’il (elle) ait été séduit(e)
+que nous ayons été séduit(e)s
+que vous ayez été séduit(e)s
+qu’ils (elles) aient été séduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été séduit(e)
+que tu eusses été séduit(e)
+qu’il (elle) eût été séduit(e)
+que nous eussions été séduit(e)s
+que vous eussiez été séduit(e)s
+qu’ils (elles) eussent été séduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été séduit(e)
+ayons été séduit(e)s
+ayez été séduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été séduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été séduit(e)(s)

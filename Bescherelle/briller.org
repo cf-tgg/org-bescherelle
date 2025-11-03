@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe briller
+
+* INDICATIF
+
+** Présent
+
+je brille
+tu brilles
+il (elle) brille
+nous brillons
+vous brillez
+ils (elles) brillent
+
+** Imparfait
+
+je brillais
+tu brillais
+il (elle) brillait
+nous brillions
+vous brilliez
+ils (elles) brillaient
+
+** Passé simple
+
+je brillai
+tu brillas
+il (elle) brilla
+nous brillâmes
+vous brillâtes
+ils (elles) brillèrent
+
+** Futur simple
+
+je brillerai
+tu brilleras
+il (elle) brillera
+nous brillerons
+vous brillerez
+ils (elles) brilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je brillerais
+tu brillerais
+il (elle) brillerait
+nous brillerions
+vous brilleriez
+ils (elles) brilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brille
+que tu brilles
+qu’il (elle) brille
+que nous brillions
+que vous brilliez
+qu’ils (elles) brillent
+
+** Imparfait
+
+que je brillasse
+que tu brillasses
+qu’il (elle) brillât
+que nous brillassions
+que vous brillassiez
+qu’ils (elles) brillassent
+
+* IMPÉRATIF
+
+** Présent
+
+brille
+brillons
+brillez
+
+* INFINITIF
+
+** Présent
+
+briller
+
+* PARTICIPE
+
+** Présent
+
+brillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brillé
+tu as brillé
+il (elle) a brillé
+nous avons brillé
+vous avez brillé
+ils (elles) ont brillé
+
+** Plus-que-parfait
+
+j'avais brillé
+tu avais brillé
+il (elle) avait brillé
+nous avions brillé
+vous aviez brillé
+ils (elles) avaient brillé
+
+** Passé antérieur
+
+j'eus brillé
+tu eus brillé
+il (elle) eut brillé
+nous eûmes brillé
+vous eûtes brillé
+ils (elles) eurent brillé
+
+** Futur antérieur
+
+j'aurai brillé
+tu auras brillé
+il (elle) aura brillé
+nous aurons brillé
+vous aurez brillé
+ils (elles) auront brillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brillé
+tu aurais brillé
+il (elle) aurait brillé
+nous aurions brillé
+vous auriez brillé
+ils (elles) auraient brillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brillé
+que tu aies brillé
+qu’il (elle) ait brillé
+que nous ayons brillé
+que vous ayez brillé
+qu’ils (elles) aient brillé
+
+** Plus-que-parfait
+
+que j'eusse brillé
+que tu eusses brillé
+qu’il (elle) eût brillé
+que nous eussions brillé
+que vous eussiez brillé
+qu’ils (elles) eussent brillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brillé
+ayez brillé
+
+* INFINITIF
+
+** Passé
+
+avoir brillé
+
+* PARTICIPE
+
+** Passé
+
+ayant brillé
+brillé (invar.)

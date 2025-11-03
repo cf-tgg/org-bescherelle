@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conduire
+
+* INDICATIF
+
+** Présent
+
+je conduis
+tu conduis
+il (elle) conduit
+nous conduisons
+vous conduisez
+ils (elles) conduisent
+
+** Imparfait
+
+je conduisais
+tu conduisais
+il (elle) conduisait
+nous conduisions
+vous conduisiez
+ils (elles) conduisaient
+
+** Passé simple
+
+je conduisis
+tu conduisis
+il (elle) conduisit
+nous conduisîmes
+vous conduisîtes
+ils (elles) conduisirent
+
+** Futur simple
+
+je conduirai
+tu conduiras
+il (elle) conduira
+nous conduirons
+vous conduirez
+ils (elles) conduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je conduirais
+tu conduirais
+il (elle) conduirait
+nous conduirions
+vous conduiriez
+ils (elles) conduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conduise
+que tu conduises
+qu’il (elle) conduise
+que nous conduisions
+que vous conduisiez
+qu’ils (elles) conduisent
+
+** Imparfait
+
+que je conduisisse
+que tu conduisisses
+qu’il (elle) conduisît
+que nous conduisissions
+que vous conduisissiez
+qu’ils (elles) conduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+conduis
+conduisons
+conduisez
+
+* INFINITIF
+
+** Présent
+
+conduire
+
+* PARTICIPE
+
+** Présent
+
+conduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conduit
+tu as conduit
+il (elle) a conduit
+nous avons conduit
+vous avez conduit
+ils (elles) ont conduit
+
+** Plus-que-parfait
+
+j'avais conduit
+tu avais conduit
+il (elle) avait conduit
+nous avions conduit
+vous aviez conduit
+ils (elles) avaient conduit
+
+** Passé antérieur
+
+j'eus conduit
+tu eus conduit
+il (elle) eut conduit
+nous eûmes conduit
+vous eûtes conduit
+ils (elles) eurent conduit
+
+** Futur antérieur
+
+j'aurai conduit
+tu auras conduit
+il (elle) aura conduit
+nous aurons conduit
+vous aurez conduit
+ils (elles) auront conduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conduit
+tu aurais conduit
+il (elle) aurait conduit
+nous aurions conduit
+vous auriez conduit
+ils (elles) auraient conduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conduit
+que tu aies conduit
+qu’il (elle) ait conduit
+que nous ayons conduit
+que vous ayez conduit
+qu’ils (elles) aient conduit
+
+** Plus-que-parfait
+
+que j'eusse conduit
+que tu eusses conduit
+qu’il (elle) eût conduit
+que nous eussions conduit
+que vous eussiez conduit
+qu’ils (elles) eussent conduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conduit
+ayez conduit
+
+* INFINITIF
+
+** Passé
+
+avoir conduit
+
+* PARTICIPE
+
+** Passé
+
+ayant conduit
+conduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis conduit(e)
+tu es conduit(e)
+il (elle) est conduit(e)
+nous sommes conduit(e)s
+vous êtes conduit(e)s
+ils (elles) sont conduit(e)s
+
+** Imparfait
+
+j'étais conduit(e)
+tu étais conduit(e)
+il (elle) était conduit(e)
+nous étions conduit(e)s
+vous étiez conduit(e)s
+ils (elles) étaient conduit(e)s
+
+** Passé simple
+
+je fus conduit(e)
+tu fus conduit(e)
+il (elle) fut conduit(e)
+nous fûmes conduit(e)s
+vous fûtes conduit(e)s
+ils (elles) furent conduit(e)s
+
+** Futur simple
+
+je serai conduit(e)
+tu seras conduit(e)
+il (elle) sera conduit(e)
+nous serons conduit(e)s
+vous serez conduit(e)s
+ils (elles) seront conduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conduit(e)
+tu serais conduit(e)
+il (elle) serait conduit(e)
+nous serions conduit(e)s
+vous seriez conduit(e)s
+ils (elles) seraient conduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conduit(e)
+que tu sois conduit(e)
+qu’il (elle) soit conduit(e)
+que nous soyons conduit(e)s
+que vous soyez conduit(e)s
+qu’ils (elles) soient conduit(e)s
+
+** Imparfait
+
+que je fusse conduit(e)
+que tu fusses conduit(e)
+qu’il (elle) fût conduit(e)
+que nous fussions conduit(e)s
+que vous fussiez conduit(e)s
+qu’ils (elles) fussent conduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conduit(e)s
+soyez conduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être conduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conduit(e)
+tu as été conduit(e)
+il (elle) a été conduit(e)
+nous avons été conduit(e)s
+vous avez été conduit(e)s
+ils (elles) ont été conduit(e)s
+
+** Plus-que-parfait
+
+j'avais été conduit(e)
+il (elle) avait été conduit(e)
+nous avions été conduit(e)s
+ils (elles) avaient été conduit(e)s
+
+** Passé antérieur
+
+j'eus été conduit(e)
+tu eus été conduit(e)
+il (elle) eut été conduit(e)
+nous eûmes été conduit(e)s
+vous eûtes été conduit(e)s
+ils (elles) eurent été conduit(e)s
+
+** Futur antérieur
+
+j'aurai été conduit(e)
+tu auras été conduit(e)
+il (elle) aura été conduit(e)
+nous aurons été conduit(e)s
+vous aurez été conduit(e)s
+ils (elles) auront été conduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conduit(e)
+j'aurais été conduit(e)
+il (elle) aurait été conduit(e)
+nous aurions été conduit(e)s
+vous auriez été conduit(e)s
+ils (elles) auraient été conduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conduit(e)
+que tu aies été conduit(e)
+qu’il (elle) ait été conduit(e)
+que nous ayons été conduit(e)s
+que vous ayez été conduit(e)s
+qu’ils (elles) aient été conduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conduit(e)
+que tu eusses été conduit(e)
+qu’il (elle) eût été conduit(e)
+que nous eussions été conduit(e)s
+que vous eussiez été conduit(e)s
+qu’ils (elles) eussent été conduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conduit(e)
+ayons été conduit(e)s
+ayez été conduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conduit(e)(s)

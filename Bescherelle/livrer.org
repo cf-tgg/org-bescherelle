@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe livrer
+
+* INDICATIF
+
+** Présent
+
+je livre
+tu livres
+il (elle) livre
+nous livrons
+vous livrez
+ils (elles) livrent
+
+** Imparfait
+
+je livrais
+tu livrais
+il (elle) livrait
+nous livrions
+vous livriez
+ils (elles) livraient
+
+** Passé simple
+
+je livrai
+tu livras
+il (elle) livra
+nous livrâmes
+vous livrâtes
+ils (elles) livrèrent
+
+** Futur simple
+
+je livrerai
+tu livreras
+il (elle) livrera
+nous livrerons
+vous livrerez
+ils (elles) livreront
+
+* CONDITIONNEL
+
+** Présent
+
+je livrerais
+tu livrerais
+il (elle) livrerait
+nous livrerions
+vous livreriez
+ils (elles) livreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je livre
+que tu livres
+qu’il (elle) livre
+que nous livrions
+que vous livriez
+qu’ils (elles) livrent
+
+** Imparfait
+
+que je livrasse
+que tu livrasses
+qu’il (elle) livrât
+que nous livrassions
+que vous livrassiez
+qu’ils (elles) livrassent
+
+* IMPÉRATIF
+
+** Présent
+
+livre
+livrons
+livrez
+
+* INFINITIF
+
+** Présent
+
+livrer
+
+* PARTICIPE
+
+** Présent
+
+livrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai livré
+tu as livré
+il (elle) a livré
+nous avons livré
+vous avez livré
+ils (elles) ont livré
+
+** Plus-que-parfait
+
+j'avais livré
+tu avais livré
+il (elle) avait livré
+nous avions livré
+vous aviez livré
+ils (elles) avaient livré
+
+** Passé antérieur
+
+j'eus livré
+tu eus livré
+il (elle) eut livré
+nous eûmes livré
+vous eûtes livré
+ils (elles) eurent livré
+
+** Futur antérieur
+
+j'aurai livré
+tu auras livré
+il (elle) aura livré
+nous aurons livré
+vous aurez livré
+ils (elles) auront livré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais livré
+tu aurais livré
+il (elle) aurait livré
+nous aurions livré
+vous auriez livré
+ils (elles) auraient livré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie livré
+que tu aies livré
+qu’il (elle) ait livré
+que nous ayons livré
+que vous ayez livré
+qu’ils (elles) aient livré
+
+** Plus-que-parfait
+
+que j'eusse livré
+que tu eusses livré
+qu’il (elle) eût livré
+que nous eussions livré
+que vous eussiez livré
+qu’ils (elles) eussent livré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons livré
+ayez livré
+
+* INFINITIF
+
+** Passé
+
+avoir livré
+
+* PARTICIPE
+
+** Passé
+
+ayant livré
+livré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis livré(e)
+tu es livré(e)
+il (elle) est livré(e)
+nous sommes livré(e)s
+vous êtes livré(e)s
+ils (elles) sont livré(e)s
+
+** Imparfait
+
+j'étais livré(e)
+tu étais livré(e)
+il (elle) était livré(e)
+nous étions livré(e)s
+vous étiez livré(e)s
+ils (elles) étaient livré(e)s
+
+** Passé simple
+
+je fus livré(e)
+tu fus livré(e)
+il (elle) fut livré(e)
+nous fûmes livré(e)s
+vous fûtes livré(e)s
+ils (elles) furent livré(e)s
+
+** Futur simple
+
+je serai livré(e)
+tu seras livré(e)
+il (elle) sera livré(e)
+nous serons livré(e)s
+vous serez livré(e)s
+ils (elles) seront livré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais livré(e)
+tu serais livré(e)
+il (elle) serait livré(e)
+nous serions livré(e)s
+vous seriez livré(e)s
+ils (elles) seraient livré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois livré(e)
+que tu sois livré(e)
+qu’il (elle) soit livré(e)
+que nous soyons livré(e)s
+que vous soyez livré(e)s
+qu’ils (elles) soient livré(e)s
+
+** Imparfait
+
+que je fusse livré(e)
+que tu fusses livré(e)
+qu’il (elle) fût livré(e)
+que nous fussions livré(e)s
+que vous fussiez livré(e)s
+qu’ils (elles) fussent livré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons livré(e)s
+soyez livré(e)s
+
+* INFINITIF
+
+** Présent
+
+être livré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant livré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été livré(e)
+tu as été livré(e)
+il (elle) a été livré(e)
+nous avons été livré(e)s
+vous avez été livré(e)s
+ils (elles) ont été livré(e)s
+
+** Plus-que-parfait
+
+j'avais été livré(e)
+il (elle) avait été livré(e)
+nous avions été livré(e)s
+ils (elles) avaient été livré(e)s
+
+** Passé antérieur
+
+j'eus été livré(e)
+tu eus été livré(e)
+il (elle) eut été livré(e)
+nous eûmes été livré(e)s
+vous eûtes été livré(e)s
+ils (elles) eurent été livré(e)s
+
+** Futur antérieur
+
+j'aurai été livré(e)
+tu auras été livré(e)
+il (elle) aura été livré(e)
+nous aurons été livré(e)s
+vous aurez été livré(e)s
+ils (elles) auront été livré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été livré(e)
+j'aurais été livré(e)
+il (elle) aurait été livré(e)
+nous aurions été livré(e)s
+vous auriez été livré(e)s
+ils (elles) auraient été livré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été livré(e)
+que tu aies été livré(e)
+qu’il (elle) ait été livré(e)
+que nous ayons été livré(e)s
+que vous ayez été livré(e)s
+qu’ils (elles) aient été livré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été livré(e)
+que tu eusses été livré(e)
+qu’il (elle) eût été livré(e)
+que nous eussions été livré(e)s
+que vous eussiez été livré(e)s
+qu’ils (elles) eussent été livré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été livré(e)
+ayons été livré(e)s
+ayez été livré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été livré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été livré(e)(s)

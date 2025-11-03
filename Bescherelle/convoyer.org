@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convoyer
+
+* INDICATIF
+
+** Présent
+
+je convoie
+tu convoies
+il (elle) convoie
+nous convoyons
+vous convoyez
+ils (elles) convoient
+
+** Imparfait
+
+je convoyais
+tu convoyais
+il (elle) convoyait
+nous convoyions
+vous convoyiez
+ils (elles) convoyaient
+
+** Passé simple
+
+je convoyai
+tu convoyas
+il (elle) convoya
+nous convoyâmes
+vous convoyâtes
+ils (elles) convoyèrent
+
+** Futur simple
+
+je convoierai
+tu convoieras
+il (elle) convoiera
+nous convoierons
+vous convoierez
+ils (elles) convoieront
+
+* CONDITIONNEL
+
+** Présent
+
+je convoierais
+tu convoierais
+il (elle) convoierait
+nous convoierions
+vous convoieriez
+ils (elles) convoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convoie
+que tu convoies
+qu’il (elle) convoie
+que nous convoyions
+que vous convoyiez
+qu’ils (elles) convoient
+
+** Imparfait
+
+que je convoyasse
+que tu convoyasses
+qu’il (elle) convoyât
+que nous convoyassions
+que vous convoyassiez
+qu’ils (elles) convoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+convoie
+convoyons
+convoyez
+
+* INFINITIF
+
+** Présent
+
+convoyer
+
+* PARTICIPE
+
+** Présent
+
+convoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai convoyé
+tu as convoyé
+il (elle) a convoyé
+nous avons convoyé
+vous avez convoyé
+ils (elles) ont convoyé
+
+** Plus-que-parfait
+
+j'avais convoyé
+tu avais convoyé
+il (elle) avait convoyé
+nous avions convoyé
+vous aviez convoyé
+ils (elles) avaient convoyé
+
+** Passé antérieur
+
+j'eus convoyé
+tu eus convoyé
+il (elle) eut convoyé
+nous eûmes convoyé
+vous eûtes convoyé
+ils (elles) eurent convoyé
+
+** Futur antérieur
+
+j'aurai convoyé
+tu auras convoyé
+il (elle) aura convoyé
+nous aurons convoyé
+vous aurez convoyé
+ils (elles) auront convoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais convoyé
+tu aurais convoyé
+il (elle) aurait convoyé
+nous aurions convoyé
+vous auriez convoyé
+ils (elles) auraient convoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie convoyé
+que tu aies convoyé
+qu’il (elle) ait convoyé
+que nous ayons convoyé
+que vous ayez convoyé
+qu’ils (elles) aient convoyé
+
+** Plus-que-parfait
+
+que j'eusse convoyé
+que tu eusses convoyé
+qu’il (elle) eût convoyé
+que nous eussions convoyé
+que vous eussiez convoyé
+qu’ils (elles) eussent convoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons convoyé
+ayez convoyé
+
+* INFINITIF
+
+** Passé
+
+avoir convoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant convoyé
+convoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis convoyé(e)
+tu es convoyé(e)
+il (elle) est convoyé(e)
+nous sommes convoyé(e)s
+vous êtes convoyé(e)s
+ils (elles) sont convoyé(e)s
+
+** Imparfait
+
+j'étais convoyé(e)
+tu étais convoyé(e)
+il (elle) était convoyé(e)
+nous étions convoyé(e)s
+vous étiez convoyé(e)s
+ils (elles) étaient convoyé(e)s
+
+** Passé simple
+
+je fus convoyé(e)
+tu fus convoyé(e)
+il (elle) fut convoyé(e)
+nous fûmes convoyé(e)s
+vous fûtes convoyé(e)s
+ils (elles) furent convoyé(e)s
+
+** Futur simple
+
+je serai convoyé(e)
+tu seras convoyé(e)
+il (elle) sera convoyé(e)
+nous serons convoyé(e)s
+vous serez convoyé(e)s
+ils (elles) seront convoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais convoyé(e)
+tu serais convoyé(e)
+il (elle) serait convoyé(e)
+nous serions convoyé(e)s
+vous seriez convoyé(e)s
+ils (elles) seraient convoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois convoyé(e)
+que tu sois convoyé(e)
+qu’il (elle) soit convoyé(e)
+que nous soyons convoyé(e)s
+que vous soyez convoyé(e)s
+qu’ils (elles) soient convoyé(e)s
+
+** Imparfait
+
+que je fusse convoyé(e)
+que tu fusses convoyé(e)
+qu’il (elle) fût convoyé(e)
+que nous fussions convoyé(e)s
+que vous fussiez convoyé(e)s
+qu’ils (elles) fussent convoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons convoyé(e)s
+soyez convoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être convoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant convoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été convoyé(e)
+tu as été convoyé(e)
+il (elle) a été convoyé(e)
+nous avons été convoyé(e)s
+vous avez été convoyé(e)s
+ils (elles) ont été convoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été convoyé(e)
+il (elle) avait été convoyé(e)
+nous avions été convoyé(e)s
+ils (elles) avaient été convoyé(e)s
+
+** Passé antérieur
+
+j'eus été convoyé(e)
+tu eus été convoyé(e)
+il (elle) eut été convoyé(e)
+nous eûmes été convoyé(e)s
+vous eûtes été convoyé(e)s
+ils (elles) eurent été convoyé(e)s
+
+** Futur antérieur
+
+j'aurai été convoyé(e)
+tu auras été convoyé(e)
+il (elle) aura été convoyé(e)
+nous aurons été convoyé(e)s
+vous aurez été convoyé(e)s
+ils (elles) auront été convoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été convoyé(e)
+j'aurais été convoyé(e)
+il (elle) aurait été convoyé(e)
+nous aurions été convoyé(e)s
+vous auriez été convoyé(e)s
+ils (elles) auraient été convoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été convoyé(e)
+que tu aies été convoyé(e)
+qu’il (elle) ait été convoyé(e)
+que nous ayons été convoyé(e)s
+que vous ayez été convoyé(e)s
+qu’ils (elles) aient été convoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été convoyé(e)
+que tu eusses été convoyé(e)
+qu’il (elle) eût été convoyé(e)
+que nous eussions été convoyé(e)s
+que vous eussiez été convoyé(e)s
+qu’ils (elles) eussent été convoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été convoyé(e)
+ayons été convoyé(e)s
+ayez été convoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été convoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été convoyé(e)(s)

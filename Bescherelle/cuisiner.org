@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cuisiner
+
+* INDICATIF
+
+** Présent
+
+je cuisine
+tu cuisines
+il (elle) cuisine
+nous cuisinons
+vous cuisinez
+ils (elles) cuisinent
+
+** Imparfait
+
+je cuisinais
+tu cuisinais
+il (elle) cuisinait
+nous cuisinions
+vous cuisiniez
+ils (elles) cuisinaient
+
+** Passé simple
+
+je cuisinai
+tu cuisinas
+il (elle) cuisina
+nous cuisinâmes
+vous cuisinâtes
+ils (elles) cuisinèrent
+
+** Futur simple
+
+je cuisinerai
+tu cuisineras
+il (elle) cuisinera
+nous cuisinerons
+vous cuisinerez
+ils (elles) cuisineront
+
+* CONDITIONNEL
+
+** Présent
+
+je cuisinerais
+tu cuisinerais
+il (elle) cuisinerait
+nous cuisinerions
+vous cuisineriez
+ils (elles) cuisineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cuisine
+que tu cuisines
+qu’il (elle) cuisine
+que nous cuisinions
+que vous cuisiniez
+qu’ils (elles) cuisinent
+
+** Imparfait
+
+que je cuisinasse
+que tu cuisinasses
+qu’il (elle) cuisinât
+que nous cuisinassions
+que vous cuisinassiez
+qu’ils (elles) cuisinassent
+
+* IMPÉRATIF
+
+** Présent
+
+cuisine
+cuisinons
+cuisinez
+
+* INFINITIF
+
+** Présent
+
+cuisiner
+
+* PARTICIPE
+
+** Présent
+
+cuisinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cuisiné
+tu as cuisiné
+il (elle) a cuisiné
+nous avons cuisiné
+vous avez cuisiné
+ils (elles) ont cuisiné
+
+** Plus-que-parfait
+
+j'avais cuisiné
+tu avais cuisiné
+il (elle) avait cuisiné
+nous avions cuisiné
+vous aviez cuisiné
+ils (elles) avaient cuisiné
+
+** Passé antérieur
+
+j'eus cuisiné
+tu eus cuisiné
+il (elle) eut cuisiné
+nous eûmes cuisiné
+vous eûtes cuisiné
+ils (elles) eurent cuisiné
+
+** Futur antérieur
+
+j'aurai cuisiné
+tu auras cuisiné
+il (elle) aura cuisiné
+nous aurons cuisiné
+vous aurez cuisiné
+ils (elles) auront cuisiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cuisiné
+tu aurais cuisiné
+il (elle) aurait cuisiné
+nous aurions cuisiné
+vous auriez cuisiné
+ils (elles) auraient cuisiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cuisiné
+que tu aies cuisiné
+qu’il (elle) ait cuisiné
+que nous ayons cuisiné
+que vous ayez cuisiné
+qu’ils (elles) aient cuisiné
+
+** Plus-que-parfait
+
+que j'eusse cuisiné
+que tu eusses cuisiné
+qu’il (elle) eût cuisiné
+que nous eussions cuisiné
+que vous eussiez cuisiné
+qu’ils (elles) eussent cuisiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cuisiné
+ayez cuisiné
+
+* INFINITIF
+
+** Passé
+
+avoir cuisiné
+
+* PARTICIPE
+
+** Passé
+
+ayant cuisiné
+cuisiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cuisiné(e)
+tu es cuisiné(e)
+il (elle) est cuisiné(e)
+nous sommes cuisiné(e)s
+vous êtes cuisiné(e)s
+ils (elles) sont cuisiné(e)s
+
+** Imparfait
+
+j'étais cuisiné(e)
+tu étais cuisiné(e)
+il (elle) était cuisiné(e)
+nous étions cuisiné(e)s
+vous étiez cuisiné(e)s
+ils (elles) étaient cuisiné(e)s
+
+** Passé simple
+
+je fus cuisiné(e)
+tu fus cuisiné(e)
+il (elle) fut cuisiné(e)
+nous fûmes cuisiné(e)s
+vous fûtes cuisiné(e)s
+ils (elles) furent cuisiné(e)s
+
+** Futur simple
+
+je serai cuisiné(e)
+tu seras cuisiné(e)
+il (elle) sera cuisiné(e)
+nous serons cuisiné(e)s
+vous serez cuisiné(e)s
+ils (elles) seront cuisiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cuisiné(e)
+tu serais cuisiné(e)
+il (elle) serait cuisiné(e)
+nous serions cuisiné(e)s
+vous seriez cuisiné(e)s
+ils (elles) seraient cuisiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cuisiné(e)
+que tu sois cuisiné(e)
+qu’il (elle) soit cuisiné(e)
+que nous soyons cuisiné(e)s
+que vous soyez cuisiné(e)s
+qu’ils (elles) soient cuisiné(e)s
+
+** Imparfait
+
+que je fusse cuisiné(e)
+que tu fusses cuisiné(e)
+qu’il (elle) fût cuisiné(e)
+que nous fussions cuisiné(e)s
+que vous fussiez cuisiné(e)s
+qu’ils (elles) fussent cuisiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cuisiné(e)s
+soyez cuisiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être cuisiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cuisiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cuisiné(e)
+tu as été cuisiné(e)
+il (elle) a été cuisiné(e)
+nous avons été cuisiné(e)s
+vous avez été cuisiné(e)s
+ils (elles) ont été cuisiné(e)s
+
+** Plus-que-parfait
+
+j'avais été cuisiné(e)
+il (elle) avait été cuisiné(e)
+nous avions été cuisiné(e)s
+ils (elles) avaient été cuisiné(e)s
+
+** Passé antérieur
+
+j'eus été cuisiné(e)
+tu eus été cuisiné(e)
+il (elle) eut été cuisiné(e)
+nous eûmes été cuisiné(e)s
+vous eûtes été cuisiné(e)s
+ils (elles) eurent été cuisiné(e)s
+
+** Futur antérieur
+
+j'aurai été cuisiné(e)
+tu auras été cuisiné(e)
+il (elle) aura été cuisiné(e)
+nous aurons été cuisiné(e)s
+vous aurez été cuisiné(e)s
+ils (elles) auront été cuisiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cuisiné(e)
+j'aurais été cuisiné(e)
+il (elle) aurait été cuisiné(e)
+nous aurions été cuisiné(e)s
+vous auriez été cuisiné(e)s
+ils (elles) auraient été cuisiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cuisiné(e)
+que tu aies été cuisiné(e)
+qu’il (elle) ait été cuisiné(e)
+que nous ayons été cuisiné(e)s
+que vous ayez été cuisiné(e)s
+qu’ils (elles) aient été cuisiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cuisiné(e)
+que tu eusses été cuisiné(e)
+qu’il (elle) eût été cuisiné(e)
+que nous eussions été cuisiné(e)s
+que vous eussiez été cuisiné(e)s
+qu’ils (elles) eussent été cuisiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cuisiné(e)
+ayons été cuisiné(e)s
+ayez été cuisiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cuisiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cuisiné(e)(s)

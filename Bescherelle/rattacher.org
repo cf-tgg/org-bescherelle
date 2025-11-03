@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rattacher
+
+* INDICATIF
+
+** Présent
+
+je rattache
+tu rattaches
+il (elle) rattache
+nous rattachons
+vous rattachez
+ils (elles) rattachent
+
+** Imparfait
+
+je rattachais
+tu rattachais
+il (elle) rattachait
+nous rattachions
+vous rattachiez
+ils (elles) rattachaient
+
+** Passé simple
+
+je rattachai
+tu rattachas
+il (elle) rattacha
+nous rattachâmes
+vous rattachâtes
+ils (elles) rattachèrent
+
+** Futur simple
+
+je rattacherai
+tu rattacheras
+il (elle) rattachera
+nous rattacherons
+vous rattacherez
+ils (elles) rattacheront
+
+* CONDITIONNEL
+
+** Présent
+
+je rattacherais
+tu rattacherais
+il (elle) rattacherait
+nous rattacherions
+vous rattacheriez
+ils (elles) rattacheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rattache
+que tu rattaches
+qu’il (elle) rattache
+que nous rattachions
+que vous rattachiez
+qu’ils (elles) rattachent
+
+** Imparfait
+
+que je rattachasse
+que tu rattachasses
+qu’il (elle) rattachât
+que nous rattachassions
+que vous rattachassiez
+qu’ils (elles) rattachassent
+
+* IMPÉRATIF
+
+** Présent
+
+rattache
+rattachons
+rattachez
+
+* INFINITIF
+
+** Présent
+
+rattacher
+
+* PARTICIPE
+
+** Présent
+
+rattachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rattaché
+tu as rattaché
+il (elle) a rattaché
+nous avons rattaché
+vous avez rattaché
+ils (elles) ont rattaché
+
+** Plus-que-parfait
+
+j'avais rattaché
+tu avais rattaché
+il (elle) avait rattaché
+nous avions rattaché
+vous aviez rattaché
+ils (elles) avaient rattaché
+
+** Passé antérieur
+
+j'eus rattaché
+tu eus rattaché
+il (elle) eut rattaché
+nous eûmes rattaché
+vous eûtes rattaché
+ils (elles) eurent rattaché
+
+** Futur antérieur
+
+j'aurai rattaché
+tu auras rattaché
+il (elle) aura rattaché
+nous aurons rattaché
+vous aurez rattaché
+ils (elles) auront rattaché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rattaché
+tu aurais rattaché
+il (elle) aurait rattaché
+nous aurions rattaché
+vous auriez rattaché
+ils (elles) auraient rattaché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rattaché
+que tu aies rattaché
+qu’il (elle) ait rattaché
+que nous ayons rattaché
+que vous ayez rattaché
+qu’ils (elles) aient rattaché
+
+** Plus-que-parfait
+
+que j'eusse rattaché
+que tu eusses rattaché
+qu’il (elle) eût rattaché
+que nous eussions rattaché
+que vous eussiez rattaché
+qu’ils (elles) eussent rattaché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rattaché
+ayez rattaché
+
+* INFINITIF
+
+** Passé
+
+avoir rattaché
+
+* PARTICIPE
+
+** Passé
+
+ayant rattaché
+rattaché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rattaché(e)
+tu es rattaché(e)
+il (elle) est rattaché(e)
+nous sommes rattaché(e)s
+vous êtes rattaché(e)s
+ils (elles) sont rattaché(e)s
+
+** Imparfait
+
+j'étais rattaché(e)
+tu étais rattaché(e)
+il (elle) était rattaché(e)
+nous étions rattaché(e)s
+vous étiez rattaché(e)s
+ils (elles) étaient rattaché(e)s
+
+** Passé simple
+
+je fus rattaché(e)
+tu fus rattaché(e)
+il (elle) fut rattaché(e)
+nous fûmes rattaché(e)s
+vous fûtes rattaché(e)s
+ils (elles) furent rattaché(e)s
+
+** Futur simple
+
+je serai rattaché(e)
+tu seras rattaché(e)
+il (elle) sera rattaché(e)
+nous serons rattaché(e)s
+vous serez rattaché(e)s
+ils (elles) seront rattaché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rattaché(e)
+tu serais rattaché(e)
+il (elle) serait rattaché(e)
+nous serions rattaché(e)s
+vous seriez rattaché(e)s
+ils (elles) seraient rattaché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rattaché(e)
+que tu sois rattaché(e)
+qu’il (elle) soit rattaché(e)
+que nous soyons rattaché(e)s
+que vous soyez rattaché(e)s
+qu’ils (elles) soient rattaché(e)s
+
+** Imparfait
+
+que je fusse rattaché(e)
+que tu fusses rattaché(e)
+qu’il (elle) fût rattaché(e)
+que nous fussions rattaché(e)s
+que vous fussiez rattaché(e)s
+qu’ils (elles) fussent rattaché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rattaché(e)s
+soyez rattaché(e)s
+
+* INFINITIF
+
+** Présent
+
+être rattaché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rattaché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rattaché(e)
+tu as été rattaché(e)
+il (elle) a été rattaché(e)
+nous avons été rattaché(e)s
+vous avez été rattaché(e)s
+ils (elles) ont été rattaché(e)s
+
+** Plus-que-parfait
+
+j'avais été rattaché(e)
+il (elle) avait été rattaché(e)
+nous avions été rattaché(e)s
+ils (elles) avaient été rattaché(e)s
+
+** Passé antérieur
+
+j'eus été rattaché(e)
+tu eus été rattaché(e)
+il (elle) eut été rattaché(e)
+nous eûmes été rattaché(e)s
+vous eûtes été rattaché(e)s
+ils (elles) eurent été rattaché(e)s
+
+** Futur antérieur
+
+j'aurai été rattaché(e)
+tu auras été rattaché(e)
+il (elle) aura été rattaché(e)
+nous aurons été rattaché(e)s
+vous aurez été rattaché(e)s
+ils (elles) auront été rattaché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rattaché(e)
+j'aurais été rattaché(e)
+il (elle) aurait été rattaché(e)
+nous aurions été rattaché(e)s
+vous auriez été rattaché(e)s
+ils (elles) auraient été rattaché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rattaché(e)
+que tu aies été rattaché(e)
+qu’il (elle) ait été rattaché(e)
+que nous ayons été rattaché(e)s
+que vous ayez été rattaché(e)s
+qu’ils (elles) aient été rattaché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rattaché(e)
+que tu eusses été rattaché(e)
+qu’il (elle) eût été rattaché(e)
+que nous eussions été rattaché(e)s
+que vous eussiez été rattaché(e)s
+qu’ils (elles) eussent été rattaché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rattaché(e)
+ayons été rattaché(e)s
+ayez été rattaché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rattaché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rattaché(e)(s)

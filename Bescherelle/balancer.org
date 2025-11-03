@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe balancer
+
+* INDICATIF
+
+** Présent
+
+je balance
+tu balances
+il (elle) balance
+nous balançons
+vous balancez
+ils (elles) balancent
+
+** Imparfait
+
+je balançais
+tu balançais
+il (elle) balançait
+nous balancions
+vous balanciez
+ils (elles) balançaient
+
+** Passé simple
+
+je balançai
+tu balanças
+il (elle) balança
+nous balançâmes
+vous balançâtes
+ils (elles) balancèrent
+
+** Futur simple
+
+je balancerai
+tu balanceras
+il (elle) balancera
+nous balancerons
+vous balancerez
+ils (elles) balanceront
+
+* CONDITIONNEL
+
+** Présent
+
+je balancerais
+tu balancerais
+il (elle) balancerait
+nous balancerions
+vous balanceriez
+ils (elles) balanceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je balance
+que tu balances
+qu’il (elle) balance
+que nous balancions
+que vous balanciez
+qu’ils (elles) balancent
+
+** Imparfait
+
+que je balançasse
+que tu balançasses
+qu’il (elle) balançât
+que nous balançassions
+que vous balançassiez
+qu’ils (elles) balançassent
+
+* IMPÉRATIF
+
+** Présent
+
+balance
+balançons
+balancez
+
+* INFINITIF
+
+** Présent
+
+balancer
+
+* PARTICIPE
+
+** Présent
+
+balançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai balancé
+tu as balancé
+il (elle) a balancé
+nous avons balancé
+vous avez balancé
+ils (elles) ont balancé
+
+** Plus-que-parfait
+
+j'avais balancé
+tu avais balancé
+il (elle) avait balancé
+nous avions balancé
+vous aviez balancé
+ils (elles) avaient balancé
+
+** Passé antérieur
+
+j'eus balancé
+tu eus balancé
+il (elle) eut balancé
+nous eûmes balancé
+vous eûtes balancé
+ils (elles) eurent balancé
+
+** Futur antérieur
+
+j'aurai balancé
+tu auras balancé
+il (elle) aura balancé
+nous aurons balancé
+vous aurez balancé
+ils (elles) auront balancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais balancé
+tu aurais balancé
+il (elle) aurait balancé
+nous aurions balancé
+vous auriez balancé
+ils (elles) auraient balancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie balancé
+que tu aies balancé
+qu’il (elle) ait balancé
+que nous ayons balancé
+que vous ayez balancé
+qu’ils (elles) aient balancé
+
+** Plus-que-parfait
+
+que j'eusse balancé
+que tu eusses balancé
+qu’il (elle) eût balancé
+que nous eussions balancé
+que vous eussiez balancé
+qu’ils (elles) eussent balancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons balancé
+ayez balancé
+
+* INFINITIF
+
+** Passé
+
+avoir balancé
+
+* PARTICIPE
+
+** Passé
+
+ayant balancé
+balancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis balancé(e)
+tu es balancé(e)
+il (elle) est balancé(e)
+nous sommes balancé(e)s
+vous êtes balancé(e)s
+ils (elles) sont balancé(e)s
+
+** Imparfait
+
+j'étais balancé(e)
+tu étais balancé(e)
+il (elle) était balancé(e)
+nous étions balancé(e)s
+vous étiez balancé(e)s
+ils (elles) étaient balancé(e)s
+
+** Passé simple
+
+je fus balancé(e)
+tu fus balancé(e)
+il (elle) fut balancé(e)
+nous fûmes balancé(e)s
+vous fûtes balancé(e)s
+ils (elles) furent balancé(e)s
+
+** Futur simple
+
+je serai balancé(e)
+tu seras balancé(e)
+il (elle) sera balancé(e)
+nous serons balancé(e)s
+vous serez balancé(e)s
+ils (elles) seront balancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais balancé(e)
+tu serais balancé(e)
+il (elle) serait balancé(e)
+nous serions balancé(e)s
+vous seriez balancé(e)s
+ils (elles) seraient balancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois balancé(e)
+que tu sois balancé(e)
+qu’il (elle) soit balancé(e)
+que nous soyons balancé(e)s
+que vous soyez balancé(e)s
+qu’ils (elles) soient balancé(e)s
+
+** Imparfait
+
+que je fusse balancé(e)
+que tu fusses balancé(e)
+qu’il (elle) fût balancé(e)
+que nous fussions balancé(e)s
+que vous fussiez balancé(e)s
+qu’ils (elles) fussent balancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons balancé(e)s
+soyez balancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être balancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant balancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été balancé(e)
+tu as été balancé(e)
+il (elle) a été balancé(e)
+nous avons été balancé(e)s
+vous avez été balancé(e)s
+ils (elles) ont été balancé(e)s
+
+** Plus-que-parfait
+
+j'avais été balancé(e)
+il (elle) avait été balancé(e)
+nous avions été balancé(e)s
+ils (elles) avaient été balancé(e)s
+
+** Passé antérieur
+
+j'eus été balancé(e)
+tu eus été balancé(e)
+il (elle) eut été balancé(e)
+nous eûmes été balancé(e)s
+vous eûtes été balancé(e)s
+ils (elles) eurent été balancé(e)s
+
+** Futur antérieur
+
+j'aurai été balancé(e)
+tu auras été balancé(e)
+il (elle) aura été balancé(e)
+nous aurons été balancé(e)s
+vous aurez été balancé(e)s
+ils (elles) auront été balancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été balancé(e)
+j'aurais été balancé(e)
+il (elle) aurait été balancé(e)
+nous aurions été balancé(e)s
+vous auriez été balancé(e)s
+ils (elles) auraient été balancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été balancé(e)
+que tu aies été balancé(e)
+qu’il (elle) ait été balancé(e)
+que nous ayons été balancé(e)s
+que vous ayez été balancé(e)s
+qu’ils (elles) aient été balancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été balancé(e)
+que tu eusses été balancé(e)
+qu’il (elle) eût été balancé(e)
+que nous eussions été balancé(e)s
+que vous eussiez été balancé(e)s
+qu’ils (elles) eussent été balancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été balancé(e)
+ayons été balancé(e)s
+ayez été balancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été balancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été balancé(e)(s)

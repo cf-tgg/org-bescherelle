@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe connecter
+
+* INDICATIF
+
+** Présent
+
+je connecte
+tu connectes
+il (elle) connecte
+nous connectons
+vous connectez
+ils (elles) connectent
+
+** Imparfait
+
+je connectais
+tu connectais
+il (elle) connectait
+nous connections
+vous connectiez
+ils (elles) connectaient
+
+** Passé simple
+
+je connectai
+tu connectas
+il (elle) connecta
+nous connectâmes
+vous connectâtes
+ils (elles) connectèrent
+
+** Futur simple
+
+je connecterai
+tu connecteras
+il (elle) connectera
+nous connecterons
+vous connecterez
+ils (elles) connecteront
+
+* CONDITIONNEL
+
+** Présent
+
+je connecterais
+tu connecterais
+il (elle) connecterait
+nous connecterions
+vous connecteriez
+ils (elles) connecteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je connecte
+que tu connectes
+qu’il (elle) connecte
+que nous connections
+que vous connectiez
+qu’ils (elles) connectent
+
+** Imparfait
+
+que je connectasse
+que tu connectasses
+qu’il (elle) connectât
+que nous connectassions
+que vous connectassiez
+qu’ils (elles) connectassent
+
+* IMPÉRATIF
+
+** Présent
+
+connecte
+connectons
+connectez
+
+* INFINITIF
+
+** Présent
+
+connecter
+
+* PARTICIPE
+
+** Présent
+
+connectant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai connecté
+tu as connecté
+il (elle) a connecté
+nous avons connecté
+vous avez connecté
+ils (elles) ont connecté
+
+** Plus-que-parfait
+
+j'avais connecté
+tu avais connecté
+il (elle) avait connecté
+nous avions connecté
+vous aviez connecté
+ils (elles) avaient connecté
+
+** Passé antérieur
+
+j'eus connecté
+tu eus connecté
+il (elle) eut connecté
+nous eûmes connecté
+vous eûtes connecté
+ils (elles) eurent connecté
+
+** Futur antérieur
+
+j'aurai connecté
+tu auras connecté
+il (elle) aura connecté
+nous aurons connecté
+vous aurez connecté
+ils (elles) auront connecté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais connecté
+tu aurais connecté
+il (elle) aurait connecté
+nous aurions connecté
+vous auriez connecté
+ils (elles) auraient connecté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie connecté
+que tu aies connecté
+qu’il (elle) ait connecté
+que nous ayons connecté
+que vous ayez connecté
+qu’ils (elles) aient connecté
+
+** Plus-que-parfait
+
+que j'eusse connecté
+que tu eusses connecté
+qu’il (elle) eût connecté
+que nous eussions connecté
+que vous eussiez connecté
+qu’ils (elles) eussent connecté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons connecté
+ayez connecté
+
+* INFINITIF
+
+** Passé
+
+avoir connecté
+
+* PARTICIPE
+
+** Passé
+
+ayant connecté
+connecté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis connecté(e)
+tu es connecté(e)
+il (elle) est connecté(e)
+nous sommes connecté(e)s
+vous êtes connecté(e)s
+ils (elles) sont connecté(e)s
+
+** Imparfait
+
+j'étais connecté(e)
+tu étais connecté(e)
+il (elle) était connecté(e)
+nous étions connecté(e)s
+vous étiez connecté(e)s
+ils (elles) étaient connecté(e)s
+
+** Passé simple
+
+je fus connecté(e)
+tu fus connecté(e)
+il (elle) fut connecté(e)
+nous fûmes connecté(e)s
+vous fûtes connecté(e)s
+ils (elles) furent connecté(e)s
+
+** Futur simple
+
+je serai connecté(e)
+tu seras connecté(e)
+il (elle) sera connecté(e)
+nous serons connecté(e)s
+vous serez connecté(e)s
+ils (elles) seront connecté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais connecté(e)
+tu serais connecté(e)
+il (elle) serait connecté(e)
+nous serions connecté(e)s
+vous seriez connecté(e)s
+ils (elles) seraient connecté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois connecté(e)
+que tu sois connecté(e)
+qu’il (elle) soit connecté(e)
+que nous soyons connecté(e)s
+que vous soyez connecté(e)s
+qu’ils (elles) soient connecté(e)s
+
+** Imparfait
+
+que je fusse connecté(e)
+que tu fusses connecté(e)
+qu’il (elle) fût connecté(e)
+que nous fussions connecté(e)s
+que vous fussiez connecté(e)s
+qu’ils (elles) fussent connecté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons connecté(e)s
+soyez connecté(e)s
+
+* INFINITIF
+
+** Présent
+
+être connecté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant connecté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été connecté(e)
+tu as été connecté(e)
+il (elle) a été connecté(e)
+nous avons été connecté(e)s
+vous avez été connecté(e)s
+ils (elles) ont été connecté(e)s
+
+** Plus-que-parfait
+
+j'avais été connecté(e)
+il (elle) avait été connecté(e)
+nous avions été connecté(e)s
+ils (elles) avaient été connecté(e)s
+
+** Passé antérieur
+
+j'eus été connecté(e)
+tu eus été connecté(e)
+il (elle) eut été connecté(e)
+nous eûmes été connecté(e)s
+vous eûtes été connecté(e)s
+ils (elles) eurent été connecté(e)s
+
+** Futur antérieur
+
+j'aurai été connecté(e)
+tu auras été connecté(e)
+il (elle) aura été connecté(e)
+nous aurons été connecté(e)s
+vous aurez été connecté(e)s
+ils (elles) auront été connecté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été connecté(e)
+j'aurais été connecté(e)
+il (elle) aurait été connecté(e)
+nous aurions été connecté(e)s
+vous auriez été connecté(e)s
+ils (elles) auraient été connecté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été connecté(e)
+que tu aies été connecté(e)
+qu’il (elle) ait été connecté(e)
+que nous ayons été connecté(e)s
+que vous ayez été connecté(e)s
+qu’ils (elles) aient été connecté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été connecté(e)
+que tu eusses été connecté(e)
+qu’il (elle) eût été connecté(e)
+que nous eussions été connecté(e)s
+que vous eussiez été connecté(e)s
+qu’ils (elles) eussent été connecté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été connecté(e)
+ayons été connecté(e)s
+ayez été connecté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été connecté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été connecté(e)(s)

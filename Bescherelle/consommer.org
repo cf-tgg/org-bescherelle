@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe consommer
+
+* INDICATIF
+
+** Présent
+
+je consomme
+tu consommes
+il (elle) consomme
+nous consommons
+vous consommez
+ils (elles) consomment
+
+** Imparfait
+
+je consommais
+tu consommais
+il (elle) consommait
+nous consommions
+vous consommiez
+ils (elles) consommaient
+
+** Passé simple
+
+je consommai
+tu consommas
+il (elle) consomma
+nous consommâmes
+vous consommâtes
+ils (elles) consommèrent
+
+** Futur simple
+
+je consommerai
+tu consommeras
+il (elle) consommera
+nous consommerons
+vous consommerez
+ils (elles) consommeront
+
+* CONDITIONNEL
+
+** Présent
+
+je consommerais
+tu consommerais
+il (elle) consommerait
+nous consommerions
+vous consommeriez
+ils (elles) consommeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je consomme
+que tu consommes
+qu’il (elle) consomme
+que nous consommions
+que vous consommiez
+qu’ils (elles) consomment
+
+** Imparfait
+
+que je consommasse
+que tu consommasses
+qu’il (elle) consommât
+que nous consommassions
+que vous consommassiez
+qu’ils (elles) consommassent
+
+* IMPÉRATIF
+
+** Présent
+
+consomme
+consommons
+consommez
+
+* INFINITIF
+
+** Présent
+
+consommer
+
+* PARTICIPE
+
+** Présent
+
+consommant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consommé
+tu as consommé
+il (elle) a consommé
+nous avons consommé
+vous avez consommé
+ils (elles) ont consommé
+
+** Plus-que-parfait
+
+j'avais consommé
+tu avais consommé
+il (elle) avait consommé
+nous avions consommé
+vous aviez consommé
+ils (elles) avaient consommé
+
+** Passé antérieur
+
+j'eus consommé
+tu eus consommé
+il (elle) eut consommé
+nous eûmes consommé
+vous eûtes consommé
+ils (elles) eurent consommé
+
+** Futur antérieur
+
+j'aurai consommé
+tu auras consommé
+il (elle) aura consommé
+nous aurons consommé
+vous aurez consommé
+ils (elles) auront consommé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consommé
+tu aurais consommé
+il (elle) aurait consommé
+nous aurions consommé
+vous auriez consommé
+ils (elles) auraient consommé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consommé
+que tu aies consommé
+qu’il (elle) ait consommé
+que nous ayons consommé
+que vous ayez consommé
+qu’ils (elles) aient consommé
+
+** Plus-que-parfait
+
+que j'eusse consommé
+que tu eusses consommé
+qu’il (elle) eût consommé
+que nous eussions consommé
+que vous eussiez consommé
+qu’ils (elles) eussent consommé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consommé
+ayez consommé
+
+* INFINITIF
+
+** Passé
+
+avoir consommé
+
+* PARTICIPE
+
+** Passé
+
+ayant consommé
+consommé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis consommé(e)
+tu es consommé(e)
+il (elle) est consommé(e)
+nous sommes consommé(e)s
+vous êtes consommé(e)s
+ils (elles) sont consommé(e)s
+
+** Imparfait
+
+j'étais consommé(e)
+tu étais consommé(e)
+il (elle) était consommé(e)
+nous étions consommé(e)s
+vous étiez consommé(e)s
+ils (elles) étaient consommé(e)s
+
+** Passé simple
+
+je fus consommé(e)
+tu fus consommé(e)
+il (elle) fut consommé(e)
+nous fûmes consommé(e)s
+vous fûtes consommé(e)s
+ils (elles) furent consommé(e)s
+
+** Futur simple
+
+je serai consommé(e)
+tu seras consommé(e)
+il (elle) sera consommé(e)
+nous serons consommé(e)s
+vous serez consommé(e)s
+ils (elles) seront consommé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais consommé(e)
+tu serais consommé(e)
+il (elle) serait consommé(e)
+nous serions consommé(e)s
+vous seriez consommé(e)s
+ils (elles) seraient consommé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois consommé(e)
+que tu sois consommé(e)
+qu’il (elle) soit consommé(e)
+que nous soyons consommé(e)s
+que vous soyez consommé(e)s
+qu’ils (elles) soient consommé(e)s
+
+** Imparfait
+
+que je fusse consommé(e)
+que tu fusses consommé(e)
+qu’il (elle) fût consommé(e)
+que nous fussions consommé(e)s
+que vous fussiez consommé(e)s
+qu’ils (elles) fussent consommé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons consommé(e)s
+soyez consommé(e)s
+
+* INFINITIF
+
+** Présent
+
+être consommé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant consommé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été consommé(e)
+tu as été consommé(e)
+il (elle) a été consommé(e)
+nous avons été consommé(e)s
+vous avez été consommé(e)s
+ils (elles) ont été consommé(e)s
+
+** Plus-que-parfait
+
+j'avais été consommé(e)
+il (elle) avait été consommé(e)
+nous avions été consommé(e)s
+ils (elles) avaient été consommé(e)s
+
+** Passé antérieur
+
+j'eus été consommé(e)
+tu eus été consommé(e)
+il (elle) eut été consommé(e)
+nous eûmes été consommé(e)s
+vous eûtes été consommé(e)s
+ils (elles) eurent été consommé(e)s
+
+** Futur antérieur
+
+j'aurai été consommé(e)
+tu auras été consommé(e)
+il (elle) aura été consommé(e)
+nous aurons été consommé(e)s
+vous aurez été consommé(e)s
+ils (elles) auront été consommé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été consommé(e)
+j'aurais été consommé(e)
+il (elle) aurait été consommé(e)
+nous aurions été consommé(e)s
+vous auriez été consommé(e)s
+ils (elles) auraient été consommé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été consommé(e)
+que tu aies été consommé(e)
+qu’il (elle) ait été consommé(e)
+que nous ayons été consommé(e)s
+que vous ayez été consommé(e)s
+qu’ils (elles) aient été consommé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été consommé(e)
+que tu eusses été consommé(e)
+qu’il (elle) eût été consommé(e)
+que nous eussions été consommé(e)s
+que vous eussiez été consommé(e)s
+qu’ils (elles) eussent été consommé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été consommé(e)
+ayons été consommé(e)s
+ayez été consommé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été consommé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été consommé(e)(s)

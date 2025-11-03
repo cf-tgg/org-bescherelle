@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe risquer
+
+* INDICATIF
+
+** Présent
+
+je risque
+tu risques
+il (elle) risque
+nous risquons
+vous risquez
+ils (elles) risquent
+
+** Imparfait
+
+je risquais
+tu risquais
+il (elle) risquait
+nous risquions
+vous risquiez
+ils (elles) risquaient
+
+** Passé simple
+
+je risquai
+tu risquas
+il (elle) risqua
+nous risquâmes
+vous risquâtes
+ils (elles) risquèrent
+
+** Futur simple
+
+je risquerai
+tu risqueras
+il (elle) risquera
+nous risquerons
+vous risquerez
+ils (elles) risqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je risquerais
+tu risquerais
+il (elle) risquerait
+nous risquerions
+vous risqueriez
+ils (elles) risqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je risque
+que tu risques
+qu’il (elle) risque
+que nous risquions
+que vous risquiez
+qu’ils (elles) risquent
+
+** Imparfait
+
+que je risquasse
+que tu risquasses
+qu’il (elle) risquât
+que nous risquassions
+que vous risquassiez
+qu’ils (elles) risquassent
+
+* IMPÉRATIF
+
+** Présent
+
+risque
+risquons
+risquez
+
+* INFINITIF
+
+** Présent
+
+risquer
+
+* PARTICIPE
+
+** Présent
+
+risquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai risqué
+tu as risqué
+il (elle) a risqué
+nous avons risqué
+vous avez risqué
+ils (elles) ont risqué
+
+** Plus-que-parfait
+
+j'avais risqué
+tu avais risqué
+il (elle) avait risqué
+nous avions risqué
+vous aviez risqué
+ils (elles) avaient risqué
+
+** Passé antérieur
+
+j'eus risqué
+tu eus risqué
+il (elle) eut risqué
+nous eûmes risqué
+vous eûtes risqué
+ils (elles) eurent risqué
+
+** Futur antérieur
+
+j'aurai risqué
+tu auras risqué
+il (elle) aura risqué
+nous aurons risqué
+vous aurez risqué
+ils (elles) auront risqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais risqué
+tu aurais risqué
+il (elle) aurait risqué
+nous aurions risqué
+vous auriez risqué
+ils (elles) auraient risqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie risqué
+que tu aies risqué
+qu’il (elle) ait risqué
+que nous ayons risqué
+que vous ayez risqué
+qu’ils (elles) aient risqué
+
+** Plus-que-parfait
+
+que j'eusse risqué
+que tu eusses risqué
+qu’il (elle) eût risqué
+que nous eussions risqué
+que vous eussiez risqué
+qu’ils (elles) eussent risqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons risqué
+ayez risqué
+
+* INFINITIF
+
+** Passé
+
+avoir risqué
+
+* PARTICIPE
+
+** Passé
+
+ayant risqué
+risqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis risqué(e)
+tu es risqué(e)
+il (elle) est risqué(e)
+nous sommes risqué(e)s
+vous êtes risqué(e)s
+ils (elles) sont risqué(e)s
+
+** Imparfait
+
+j'étais risqué(e)
+tu étais risqué(e)
+il (elle) était risqué(e)
+nous étions risqué(e)s
+vous étiez risqué(e)s
+ils (elles) étaient risqué(e)s
+
+** Passé simple
+
+je fus risqué(e)
+tu fus risqué(e)
+il (elle) fut risqué(e)
+nous fûmes risqué(e)s
+vous fûtes risqué(e)s
+ils (elles) furent risqué(e)s
+
+** Futur simple
+
+je serai risqué(e)
+tu seras risqué(e)
+il (elle) sera risqué(e)
+nous serons risqué(e)s
+vous serez risqué(e)s
+ils (elles) seront risqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais risqué(e)
+tu serais risqué(e)
+il (elle) serait risqué(e)
+nous serions risqué(e)s
+vous seriez risqué(e)s
+ils (elles) seraient risqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois risqué(e)
+que tu sois risqué(e)
+qu’il (elle) soit risqué(e)
+que nous soyons risqué(e)s
+que vous soyez risqué(e)s
+qu’ils (elles) soient risqué(e)s
+
+** Imparfait
+
+que je fusse risqué(e)
+que tu fusses risqué(e)
+qu’il (elle) fût risqué(e)
+que nous fussions risqué(e)s
+que vous fussiez risqué(e)s
+qu’ils (elles) fussent risqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons risqué(e)s
+soyez risqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être risqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant risqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été risqué(e)
+tu as été risqué(e)
+il (elle) a été risqué(e)
+nous avons été risqué(e)s
+vous avez été risqué(e)s
+ils (elles) ont été risqué(e)s
+
+** Plus-que-parfait
+
+j'avais été risqué(e)
+il (elle) avait été risqué(e)
+nous avions été risqué(e)s
+ils (elles) avaient été risqué(e)s
+
+** Passé antérieur
+
+j'eus été risqué(e)
+tu eus été risqué(e)
+il (elle) eut été risqué(e)
+nous eûmes été risqué(e)s
+vous eûtes été risqué(e)s
+ils (elles) eurent été risqué(e)s
+
+** Futur antérieur
+
+j'aurai été risqué(e)
+tu auras été risqué(e)
+il (elle) aura été risqué(e)
+nous aurons été risqué(e)s
+vous aurez été risqué(e)s
+ils (elles) auront été risqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été risqué(e)
+j'aurais été risqué(e)
+il (elle) aurait été risqué(e)
+nous aurions été risqué(e)s
+vous auriez été risqué(e)s
+ils (elles) auraient été risqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été risqué(e)
+que tu aies été risqué(e)
+qu’il (elle) ait été risqué(e)
+que nous ayons été risqué(e)s
+que vous ayez été risqué(e)s
+qu’ils (elles) aient été risqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été risqué(e)
+que tu eusses été risqué(e)
+qu’il (elle) eût été risqué(e)
+que nous eussions été risqué(e)s
+que vous eussiez été risqué(e)s
+qu’ils (elles) eussent été risqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été risqué(e)
+ayons été risqué(e)s
+ayez été risqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été risqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été risqué(e)(s)

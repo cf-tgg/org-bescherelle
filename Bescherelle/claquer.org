@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe claquer
+
+* INDICATIF
+
+** Présent
+
+je claque
+tu claques
+il (elle) claque
+nous claquons
+vous claquez
+ils (elles) claquent
+
+** Imparfait
+
+je claquais
+tu claquais
+il (elle) claquait
+nous claquions
+vous claquiez
+ils (elles) claquaient
+
+** Passé simple
+
+je claquai
+tu claquas
+il (elle) claqua
+nous claquâmes
+vous claquâtes
+ils (elles) claquèrent
+
+** Futur simple
+
+je claquerai
+tu claqueras
+il (elle) claquera
+nous claquerons
+vous claquerez
+ils (elles) claqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je claquerais
+tu claquerais
+il (elle) claquerait
+nous claquerions
+vous claqueriez
+ils (elles) claqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je claque
+que tu claques
+qu’il (elle) claque
+que nous claquions
+que vous claquiez
+qu’ils (elles) claquent
+
+** Imparfait
+
+que je claquasse
+que tu claquasses
+qu’il (elle) claquât
+que nous claquassions
+que vous claquassiez
+qu’ils (elles) claquassent
+
+* IMPÉRATIF
+
+** Présent
+
+claque
+claquons
+claquez
+
+* INFINITIF
+
+** Présent
+
+claquer
+
+* PARTICIPE
+
+** Présent
+
+claquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai claqué
+tu as claqué
+il (elle) a claqué
+nous avons claqué
+vous avez claqué
+ils (elles) ont claqué
+
+** Plus-que-parfait
+
+j'avais claqué
+tu avais claqué
+il (elle) avait claqué
+nous avions claqué
+vous aviez claqué
+ils (elles) avaient claqué
+
+** Passé antérieur
+
+j'eus claqué
+tu eus claqué
+il (elle) eut claqué
+nous eûmes claqué
+vous eûtes claqué
+ils (elles) eurent claqué
+
+** Futur antérieur
+
+j'aurai claqué
+tu auras claqué
+il (elle) aura claqué
+nous aurons claqué
+vous aurez claqué
+ils (elles) auront claqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais claqué
+tu aurais claqué
+il (elle) aurait claqué
+nous aurions claqué
+vous auriez claqué
+ils (elles) auraient claqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie claqué
+que tu aies claqué
+qu’il (elle) ait claqué
+que nous ayons claqué
+que vous ayez claqué
+qu’ils (elles) aient claqué
+
+** Plus-que-parfait
+
+que j'eusse claqué
+que tu eusses claqué
+qu’il (elle) eût claqué
+que nous eussions claqué
+que vous eussiez claqué
+qu’ils (elles) eussent claqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons claqué
+ayez claqué
+
+* INFINITIF
+
+** Passé
+
+avoir claqué
+
+* PARTICIPE
+
+** Passé
+
+ayant claqué
+claqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis claqué(e)
+tu es claqué(e)
+il (elle) est claqué(e)
+nous sommes claqué(e)s
+vous êtes claqué(e)s
+ils (elles) sont claqué(e)s
+
+** Imparfait
+
+j'étais claqué(e)
+tu étais claqué(e)
+il (elle) était claqué(e)
+nous étions claqué(e)s
+vous étiez claqué(e)s
+ils (elles) étaient claqué(e)s
+
+** Passé simple
+
+je fus claqué(e)
+tu fus claqué(e)
+il (elle) fut claqué(e)
+nous fûmes claqué(e)s
+vous fûtes claqué(e)s
+ils (elles) furent claqué(e)s
+
+** Futur simple
+
+je serai claqué(e)
+tu seras claqué(e)
+il (elle) sera claqué(e)
+nous serons claqué(e)s
+vous serez claqué(e)s
+ils (elles) seront claqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais claqué(e)
+tu serais claqué(e)
+il (elle) serait claqué(e)
+nous serions claqué(e)s
+vous seriez claqué(e)s
+ils (elles) seraient claqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois claqué(e)
+que tu sois claqué(e)
+qu’il (elle) soit claqué(e)
+que nous soyons claqué(e)s
+que vous soyez claqué(e)s
+qu’ils (elles) soient claqué(e)s
+
+** Imparfait
+
+que je fusse claqué(e)
+que tu fusses claqué(e)
+qu’il (elle) fût claqué(e)
+que nous fussions claqué(e)s
+que vous fussiez claqué(e)s
+qu’ils (elles) fussent claqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons claqué(e)s
+soyez claqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être claqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant claqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été claqué(e)
+tu as été claqué(e)
+il (elle) a été claqué(e)
+nous avons été claqué(e)s
+vous avez été claqué(e)s
+ils (elles) ont été claqué(e)s
+
+** Plus-que-parfait
+
+j'avais été claqué(e)
+il (elle) avait été claqué(e)
+nous avions été claqué(e)s
+ils (elles) avaient été claqué(e)s
+
+** Passé antérieur
+
+j'eus été claqué(e)
+tu eus été claqué(e)
+il (elle) eut été claqué(e)
+nous eûmes été claqué(e)s
+vous eûtes été claqué(e)s
+ils (elles) eurent été claqué(e)s
+
+** Futur antérieur
+
+j'aurai été claqué(e)
+tu auras été claqué(e)
+il (elle) aura été claqué(e)
+nous aurons été claqué(e)s
+vous aurez été claqué(e)s
+ils (elles) auront été claqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été claqué(e)
+j'aurais été claqué(e)
+il (elle) aurait été claqué(e)
+nous aurions été claqué(e)s
+vous auriez été claqué(e)s
+ils (elles) auraient été claqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été claqué(e)
+que tu aies été claqué(e)
+qu’il (elle) ait été claqué(e)
+que nous ayons été claqué(e)s
+que vous ayez été claqué(e)s
+qu’ils (elles) aient été claqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été claqué(e)
+que tu eusses été claqué(e)
+qu’il (elle) eût été claqué(e)
+que nous eussions été claqué(e)s
+que vous eussiez été claqué(e)s
+qu’ils (elles) eussent été claqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été claqué(e)
+ayons été claqué(e)s
+ayez été claqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été claqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été claqué(e)(s)

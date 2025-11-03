@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conditionner
+
+* INDICATIF
+
+** Présent
+
+je conditionne
+tu conditionnes
+il (elle) conditionne
+nous conditionnons
+vous conditionnez
+ils (elles) conditionnent
+
+** Imparfait
+
+je conditionnais
+tu conditionnais
+il (elle) conditionnait
+nous conditionnions
+vous conditionniez
+ils (elles) conditionnaient
+
+** Passé simple
+
+je conditionnai
+tu conditionnas
+il (elle) conditionna
+nous conditionnâmes
+vous conditionnâtes
+ils (elles) conditionnèrent
+
+** Futur simple
+
+je conditionnerai
+tu conditionneras
+il (elle) conditionnera
+nous conditionnerons
+vous conditionnerez
+ils (elles) conditionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je conditionnerais
+tu conditionnerais
+il (elle) conditionnerait
+nous conditionnerions
+vous conditionneriez
+ils (elles) conditionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conditionne
+que tu conditionnes
+qu’il (elle) conditionne
+que nous conditionnions
+que vous conditionniez
+qu’ils (elles) conditionnent
+
+** Imparfait
+
+que je conditionnasse
+que tu conditionnasses
+qu’il (elle) conditionnât
+que nous conditionnassions
+que vous conditionnassiez
+qu’ils (elles) conditionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+conditionne
+conditionnons
+conditionnez
+
+* INFINITIF
+
+** Présent
+
+conditionner
+
+* PARTICIPE
+
+** Présent
+
+conditionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conditionné
+tu as conditionné
+il (elle) a conditionné
+nous avons conditionné
+vous avez conditionné
+ils (elles) ont conditionné
+
+** Plus-que-parfait
+
+j'avais conditionné
+tu avais conditionné
+il (elle) avait conditionné
+nous avions conditionné
+vous aviez conditionné
+ils (elles) avaient conditionné
+
+** Passé antérieur
+
+j'eus conditionné
+tu eus conditionné
+il (elle) eut conditionné
+nous eûmes conditionné
+vous eûtes conditionné
+ils (elles) eurent conditionné
+
+** Futur antérieur
+
+j'aurai conditionné
+tu auras conditionné
+il (elle) aura conditionné
+nous aurons conditionné
+vous aurez conditionné
+ils (elles) auront conditionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conditionné
+tu aurais conditionné
+il (elle) aurait conditionné
+nous aurions conditionné
+vous auriez conditionné
+ils (elles) auraient conditionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conditionné
+que tu aies conditionné
+qu’il (elle) ait conditionné
+que nous ayons conditionné
+que vous ayez conditionné
+qu’ils (elles) aient conditionné
+
+** Plus-que-parfait
+
+que j'eusse conditionné
+que tu eusses conditionné
+qu’il (elle) eût conditionné
+que nous eussions conditionné
+que vous eussiez conditionné
+qu’ils (elles) eussent conditionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conditionné
+ayez conditionné
+
+* INFINITIF
+
+** Passé
+
+avoir conditionné
+
+* PARTICIPE
+
+** Passé
+
+ayant conditionné
+conditionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conditionné(e)
+tu es conditionné(e)
+il (elle) est conditionné(e)
+nous sommes conditionné(e)s
+vous êtes conditionné(e)s
+ils (elles) sont conditionné(e)s
+
+** Imparfait
+
+j'étais conditionné(e)
+tu étais conditionné(e)
+il (elle) était conditionné(e)
+nous étions conditionné(e)s
+vous étiez conditionné(e)s
+ils (elles) étaient conditionné(e)s
+
+** Passé simple
+
+je fus conditionné(e)
+tu fus conditionné(e)
+il (elle) fut conditionné(e)
+nous fûmes conditionné(e)s
+vous fûtes conditionné(e)s
+ils (elles) furent conditionné(e)s
+
+** Futur simple
+
+je serai conditionné(e)
+tu seras conditionné(e)
+il (elle) sera conditionné(e)
+nous serons conditionné(e)s
+vous serez conditionné(e)s
+ils (elles) seront conditionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conditionné(e)
+tu serais conditionné(e)
+il (elle) serait conditionné(e)
+nous serions conditionné(e)s
+vous seriez conditionné(e)s
+ils (elles) seraient conditionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conditionné(e)
+que tu sois conditionné(e)
+qu’il (elle) soit conditionné(e)
+que nous soyons conditionné(e)s
+que vous soyez conditionné(e)s
+qu’ils (elles) soient conditionné(e)s
+
+** Imparfait
+
+que je fusse conditionné(e)
+que tu fusses conditionné(e)
+qu’il (elle) fût conditionné(e)
+que nous fussions conditionné(e)s
+que vous fussiez conditionné(e)s
+qu’ils (elles) fussent conditionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conditionné(e)s
+soyez conditionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être conditionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conditionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conditionné(e)
+tu as été conditionné(e)
+il (elle) a été conditionné(e)
+nous avons été conditionné(e)s
+vous avez été conditionné(e)s
+ils (elles) ont été conditionné(e)s
+
+** Plus-que-parfait
+
+j'avais été conditionné(e)
+il (elle) avait été conditionné(e)
+nous avions été conditionné(e)s
+ils (elles) avaient été conditionné(e)s
+
+** Passé antérieur
+
+j'eus été conditionné(e)
+tu eus été conditionné(e)
+il (elle) eut été conditionné(e)
+nous eûmes été conditionné(e)s
+vous eûtes été conditionné(e)s
+ils (elles) eurent été conditionné(e)s
+
+** Futur antérieur
+
+j'aurai été conditionné(e)
+tu auras été conditionné(e)
+il (elle) aura été conditionné(e)
+nous aurons été conditionné(e)s
+vous aurez été conditionné(e)s
+ils (elles) auront été conditionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conditionné(e)
+j'aurais été conditionné(e)
+il (elle) aurait été conditionné(e)
+nous aurions été conditionné(e)s
+vous auriez été conditionné(e)s
+ils (elles) auraient été conditionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conditionné(e)
+que tu aies été conditionné(e)
+qu’il (elle) ait été conditionné(e)
+que nous ayons été conditionné(e)s
+que vous ayez été conditionné(e)s
+qu’ils (elles) aient été conditionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conditionné(e)
+que tu eusses été conditionné(e)
+qu’il (elle) eût été conditionné(e)
+que nous eussions été conditionné(e)s
+que vous eussiez été conditionné(e)s
+qu’ils (elles) eussent été conditionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conditionné(e)
+ayons été conditionné(e)s
+ayez été conditionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conditionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conditionné(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reviser
+
+* INDICATIF
+
+** Présent
+
+je révise
+tu révises
+il (elle) révise
+nous révisons
+vous révisez
+ils (elles) révisent
+
+** Imparfait
+
+je révisais
+tu révisais
+il (elle) révisait
+nous révisions
+vous révisiez
+ils (elles) révisaient
+
+** Passé simple
+
+je révisai
+tu révisas
+il (elle) révisa
+nous révisâmes
+vous révisâtes
+ils (elles) révisèrent
+
+** Futur simple
+
+je réviserai
+tu réviseras
+il (elle) révisera
+nous réviserons
+vous réviserez
+ils (elles) réviseront
+
+* CONDITIONNEL
+
+** Présent
+
+je réviserais
+tu réviserais
+il (elle) réviserait
+nous réviserions
+vous réviseriez
+ils (elles) réviseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je révise
+que tu révises
+qu’il (elle) révise
+que nous révisions
+que vous révisiez
+qu’ils (elles) révisent
+
+** Imparfait
+
+que je révisasse
+que tu révisasses
+qu’il (elle) révisât
+que nous révisassions
+que vous révisassiez
+qu’ils (elles) révisassent
+
+* IMPÉRATIF
+
+** Présent
+
+révise
+révisons
+révisez
+
+* INFINITIF
+
+** Présent
+
+réviser
+
+* PARTICIPE
+
+** Présent
+
+révisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai révisé
+tu as révisé
+il (elle) a révisé
+nous avons révisé
+vous avez révisé
+ils (elles) ont révisé
+
+** Plus-que-parfait
+
+j'avais révisé
+tu avais révisé
+il (elle) avait révisé
+nous avions révisé
+vous aviez révisé
+ils (elles) avaient révisé
+
+** Passé antérieur
+
+j'eus révisé
+tu eus révisé
+il (elle) eut révisé
+nous eûmes révisé
+vous eûtes révisé
+ils (elles) eurent révisé
+
+** Futur antérieur
+
+j'aurai révisé
+tu auras révisé
+il (elle) aura révisé
+nous aurons révisé
+vous aurez révisé
+ils (elles) auront révisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais révisé
+tu aurais révisé
+il (elle) aurait révisé
+nous aurions révisé
+vous auriez révisé
+ils (elles) auraient révisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie révisé
+que tu aies révisé
+qu’il (elle) ait révisé
+que nous ayons révisé
+que vous ayez révisé
+qu’ils (elles) aient révisé
+
+** Plus-que-parfait
+
+que j'eusse révisé
+que tu eusses révisé
+qu’il (elle) eût révisé
+que nous eussions révisé
+que vous eussiez révisé
+qu’ils (elles) eussent révisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons révisé
+ayez révisé
+
+* INFINITIF
+
+** Passé
+
+avoir révisé
+
+* PARTICIPE
+
+** Passé
+
+ayant révisé
+révisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis révisé(e)
+tu es révisé(e)
+il (elle) est révisé(e)
+nous sommes révisé(e)s
+vous êtes révisé(e)s
+ils (elles) sont révisé(e)s
+
+** Imparfait
+
+j'étais révisé(e)
+tu étais révisé(e)
+il (elle) était révisé(e)
+nous étions révisé(e)s
+vous étiez révisé(e)s
+ils (elles) étaient révisé(e)s
+
+** Passé simple
+
+je fus révisé(e)
+tu fus révisé(e)
+il (elle) fut révisé(e)
+nous fûmes révisé(e)s
+vous fûtes révisé(e)s
+ils (elles) furent révisé(e)s
+
+** Futur simple
+
+je serai révisé(e)
+tu seras révisé(e)
+il (elle) sera révisé(e)
+nous serons révisé(e)s
+vous serez révisé(e)s
+ils (elles) seront révisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais révisé(e)
+tu serais révisé(e)
+il (elle) serait révisé(e)
+nous serions révisé(e)s
+vous seriez révisé(e)s
+ils (elles) seraient révisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois révisé(e)
+que tu sois révisé(e)
+qu’il (elle) soit révisé(e)
+que nous soyons révisé(e)s
+que vous soyez révisé(e)s
+qu’ils (elles) soient révisé(e)s
+
+** Imparfait
+
+que je fusse révisé(e)
+que tu fusses révisé(e)
+qu’il (elle) fût révisé(e)
+que nous fussions révisé(e)s
+que vous fussiez révisé(e)s
+qu’ils (elles) fussent révisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons révisé(e)s
+soyez révisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être révisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant révisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été révisé(e)
+tu as été révisé(e)
+il (elle) a été révisé(e)
+nous avons été révisé(e)s
+vous avez été révisé(e)s
+ils (elles) ont été révisé(e)s
+
+** Plus-que-parfait
+
+j'avais été révisé(e)
+il (elle) avait été révisé(e)
+nous avions été révisé(e)s
+ils (elles) avaient été révisé(e)s
+
+** Passé antérieur
+
+j'eus été révisé(e)
+tu eus été révisé(e)
+il (elle) eut été révisé(e)
+nous eûmes été révisé(e)s
+vous eûtes été révisé(e)s
+ils (elles) eurent été révisé(e)s
+
+** Futur antérieur
+
+j'aurai été révisé(e)
+tu auras été révisé(e)
+il (elle) aura été révisé(e)
+nous aurons été révisé(e)s
+vous aurez été révisé(e)s
+ils (elles) auront été révisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été révisé(e)
+j'aurais été révisé(e)
+il (elle) aurait été révisé(e)
+nous aurions été révisé(e)s
+vous auriez été révisé(e)s
+ils (elles) auraient été révisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été révisé(e)
+que tu aies été révisé(e)
+qu’il (elle) ait été révisé(e)
+que nous ayons été révisé(e)s
+que vous ayez été révisé(e)s
+qu’ils (elles) aient été révisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été révisé(e)
+que tu eusses été révisé(e)
+qu’il (elle) eût été révisé(e)
+que nous eussions été révisé(e)s
+que vous eussiez été révisé(e)s
+qu’ils (elles) eussent été révisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été révisé(e)
+ayons été révisé(e)s
+ayez été révisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été révisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été révisé(e)(s)

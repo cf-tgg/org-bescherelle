@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dorer
+
+* INDICATIF
+
+** Présent
+
+je dore
+tu dores
+il (elle) dore
+nous dorons
+vous dorez
+ils (elles) dorent
+
+** Imparfait
+
+je dorais
+tu dorais
+il (elle) dorait
+nous dorions
+vous doriez
+ils (elles) doraient
+
+** Passé simple
+
+je dorai
+tu doras
+il (elle) dora
+nous dorâmes
+vous dorâtes
+ils (elles) dorèrent
+
+** Futur simple
+
+je dorerai
+tu doreras
+il (elle) dorera
+nous dorerons
+vous dorerez
+ils (elles) doreront
+
+* CONDITIONNEL
+
+** Présent
+
+je dorerais
+tu dorerais
+il (elle) dorerait
+nous dorerions
+vous doreriez
+ils (elles) doreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dore
+que tu dores
+qu’il (elle) dore
+que nous dorions
+que vous doriez
+qu’ils (elles) dorent
+
+** Imparfait
+
+que je dorasse
+que tu dorasses
+qu’il (elle) dorât
+que nous dorassions
+que vous dorassiez
+qu’ils (elles) dorassent
+
+* IMPÉRATIF
+
+** Présent
+
+dore
+dorons
+dorez
+
+* INFINITIF
+
+** Présent
+
+dorer
+
+* PARTICIPE
+
+** Présent
+
+dorant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai doré
+tu as doré
+il (elle) a doré
+nous avons doré
+vous avez doré
+ils (elles) ont doré
+
+** Plus-que-parfait
+
+j'avais doré
+tu avais doré
+il (elle) avait doré
+nous avions doré
+vous aviez doré
+ils (elles) avaient doré
+
+** Passé antérieur
+
+j'eus doré
+tu eus doré
+il (elle) eut doré
+nous eûmes doré
+vous eûtes doré
+ils (elles) eurent doré
+
+** Futur antérieur
+
+j'aurai doré
+tu auras doré
+il (elle) aura doré
+nous aurons doré
+vous aurez doré
+ils (elles) auront doré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais doré
+tu aurais doré
+il (elle) aurait doré
+nous aurions doré
+vous auriez doré
+ils (elles) auraient doré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie doré
+que tu aies doré
+qu’il (elle) ait doré
+que nous ayons doré
+que vous ayez doré
+qu’ils (elles) aient doré
+
+** Plus-que-parfait
+
+que j'eusse doré
+que tu eusses doré
+qu’il (elle) eût doré
+que nous eussions doré
+que vous eussiez doré
+qu’ils (elles) eussent doré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons doré
+ayez doré
+
+* INFINITIF
+
+** Passé
+
+avoir doré
+
+* PARTICIPE
+
+** Passé
+
+ayant doré
+doré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis doré(e)
+tu es doré(e)
+il (elle) est doré(e)
+nous sommes doré(e)s
+vous êtes doré(e)s
+ils (elles) sont doré(e)s
+
+** Imparfait
+
+j'étais doré(e)
+tu étais doré(e)
+il (elle) était doré(e)
+nous étions doré(e)s
+vous étiez doré(e)s
+ils (elles) étaient doré(e)s
+
+** Passé simple
+
+je fus doré(e)
+tu fus doré(e)
+il (elle) fut doré(e)
+nous fûmes doré(e)s
+vous fûtes doré(e)s
+ils (elles) furent doré(e)s
+
+** Futur simple
+
+je serai doré(e)
+tu seras doré(e)
+il (elle) sera doré(e)
+nous serons doré(e)s
+vous serez doré(e)s
+ils (elles) seront doré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais doré(e)
+tu serais doré(e)
+il (elle) serait doré(e)
+nous serions doré(e)s
+vous seriez doré(e)s
+ils (elles) seraient doré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois doré(e)
+que tu sois doré(e)
+qu’il (elle) soit doré(e)
+que nous soyons doré(e)s
+que vous soyez doré(e)s
+qu’ils (elles) soient doré(e)s
+
+** Imparfait
+
+que je fusse doré(e)
+que tu fusses doré(e)
+qu’il (elle) fût doré(e)
+que nous fussions doré(e)s
+que vous fussiez doré(e)s
+qu’ils (elles) fussent doré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons doré(e)s
+soyez doré(e)s
+
+* INFINITIF
+
+** Présent
+
+être doré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant doré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été doré(e)
+tu as été doré(e)
+il (elle) a été doré(e)
+nous avons été doré(e)s
+vous avez été doré(e)s
+ils (elles) ont été doré(e)s
+
+** Plus-que-parfait
+
+j'avais été doré(e)
+il (elle) avait été doré(e)
+nous avions été doré(e)s
+ils (elles) avaient été doré(e)s
+
+** Passé antérieur
+
+j'eus été doré(e)
+tu eus été doré(e)
+il (elle) eut été doré(e)
+nous eûmes été doré(e)s
+vous eûtes été doré(e)s
+ils (elles) eurent été doré(e)s
+
+** Futur antérieur
+
+j'aurai été doré(e)
+tu auras été doré(e)
+il (elle) aura été doré(e)
+nous aurons été doré(e)s
+vous aurez été doré(e)s
+ils (elles) auront été doré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été doré(e)
+j'aurais été doré(e)
+il (elle) aurait été doré(e)
+nous aurions été doré(e)s
+vous auriez été doré(e)s
+ils (elles) auraient été doré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été doré(e)
+que tu aies été doré(e)
+qu’il (elle) ait été doré(e)
+que nous ayons été doré(e)s
+que vous ayez été doré(e)s
+qu’ils (elles) aient été doré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été doré(e)
+que tu eusses été doré(e)
+qu’il (elle) eût été doré(e)
+que nous eussions été doré(e)s
+que vous eussiez été doré(e)s
+qu’ils (elles) eussent été doré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été doré(e)
+ayons été doré(e)s
+ayez été doré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été doré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été doré(e)(s)

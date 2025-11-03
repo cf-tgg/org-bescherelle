@@ -1,0 +1,164 @@
+#+title: Conjugaison du verbe pouvoir
+
+* INDICATIF
+
+** Présent
+
+je peux / puis
+tu peux
+il (elle) peut
+nous pouvons
+vous pouvez
+ils (elles) peuvent
+
+** Imparfait
+
+je pouvais
+tu pouvais
+il (elle) pouvait
+nous pouvions
+vous pouviez
+ils (elles) pouvaient
+
+** Passé simple
+
+je pus
+tu pus
+il (elle) put
+nous pûmes
+vous pûtes
+ils (elles) purent
+
+** Futur simple
+
+je pourrai
+tu pourras
+il (elle) pourra
+nous pourrons
+vous pourrez
+ils (elles) pourront
+
+* CONDITIONNEL
+
+** Présent
+
+je pourrais
+tu pourrais
+il (elle) pourrait
+nous pourrions
+vous pourriez
+ils (elles) pourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je puisse
+que tu puisses
+qu’il (elle) puisse
+que nous puissions
+que vous puissiez
+qu’ils (elles) puissent
+
+** Imparfait
+
+que je pusse
+que tu pusses
+qu’il (elle) pût
+que nous pussions
+que vous pussiez
+qu’ils (elles) pussent
+
+* INFINITIF
+
+** Présent
+
+pouvoir
+
+* PARTICIPE
+
+** Présent
+
+pouvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pu
+tu as pu
+il (elle) a pu
+nous avons pu
+vous avez pu
+ils (elles) ont pu
+
+** Plus-que-parfait
+
+j'avais pu
+tu avais pu
+il (elle) avait pu
+nous avions pu
+vous aviez pu
+ils (elles) avaient pu
+
+** Passé antérieur
+
+j'eus pu
+tu eus pu
+il (elle) eut pu
+nous eûmes pu
+vous eûtes pu
+ils (elles) eurent pu
+
+** Futur antérieur
+
+j'aurai pu
+tu auras pu
+il (elle) aura pu
+nous aurons pu
+vous aurez pu
+ils (elles) auront pu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pu
+tu aurais pu
+il (elle) aurait pu
+nous aurions pu
+vous auriez pu
+ils (elles) auraient pu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pu
+que tu aies pu
+qu’il (elle) ait pu
+que nous ayons pu
+que vous ayez pu
+qu’ils (elles) aient pu
+
+** Plus-que-parfait
+
+que j'eusse pu
+que tu eusses pu
+qu’il (elle) eût pu
+que nous eussions pu
+que vous eussiez pu
+qu’ils (elles) eussent pu
+
+* INFINITIF
+
+** Passé
+
+avoir pu
+
+* PARTICIPE
+
+** Passé
+
+ayant pu
+pu (invar.)

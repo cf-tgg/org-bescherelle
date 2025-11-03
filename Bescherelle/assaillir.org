@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assaillir
+
+* INDICATIF
+
+** Présent
+
+j'assaille
+tu assailles
+il (elle) assaille
+nous assaillons
+vous assaillez
+ils (elles) assaillent
+
+** Imparfait
+
+j'assaillais
+tu assaillais
+il (elle) assaillait
+nous assaillions
+vous assailliez
+ils (elles) assaillaient
+
+** Passé simple
+
+j'assaillis
+tu assaillis
+il (elle) assaillit
+nous assaillîmes
+vous assaillîtes
+ils (elles) assaillirent
+
+** Futur simple
+
+j'assaillirai
+tu assailliras
+il (elle) assaillira
+nous assaillirons
+vous assaillirez
+ils (elles) assailliront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assaillirais
+tu assaillirais
+il (elle) assaillirait
+nous assaillirions
+vous assailliriez
+ils (elles) assailliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assaille
+que tu assailles
+qu’il (elle) assaille
+que nous assaillions
+que vous assailliez
+qu’ils (elles) assaillent
+
+** Imparfait
+
+que j'assaillisse
+que tu assaillisses
+qu’il (elle) assaillît
+que nous assaillissions
+que vous assaillissiez
+qu’ils (elles) assaillissent
+
+* IMPÉRATIF
+
+** Présent
+
+assaille
+assaillons
+assaillez
+
+* INFINITIF
+
+** Présent
+
+assaillir
+
+* PARTICIPE
+
+** Présent
+
+assaillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assailli
+tu as assailli
+il (elle) a assailli
+nous avons assailli
+vous avez assailli
+ils (elles) ont assailli
+
+** Plus-que-parfait
+
+j'avais assailli
+tu avais assailli
+il (elle) avait assailli
+nous avions assailli
+vous aviez assailli
+ils (elles) avaient assailli
+
+** Passé antérieur
+
+j'eus assailli
+tu eus assailli
+il (elle) eut assailli
+nous eûmes assailli
+vous eûtes assailli
+ils (elles) eurent assailli
+
+** Futur antérieur
+
+j'aurai assailli
+tu auras assailli
+il (elle) aura assailli
+nous aurons assailli
+vous aurez assailli
+ils (elles) auront assailli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assailli
+tu aurais assailli
+il (elle) aurait assailli
+nous aurions assailli
+vous auriez assailli
+ils (elles) auraient assailli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assailli
+que tu aies assailli
+qu’il (elle) ait assailli
+que nous ayons assailli
+que vous ayez assailli
+qu’ils (elles) aient assailli
+
+** Plus-que-parfait
+
+que j'eusse assailli
+que tu eusses assailli
+qu’il (elle) eût assailli
+que nous eussions assailli
+que vous eussiez assailli
+qu’ils (elles) eussent assailli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assailli
+ayez assailli
+
+* INFINITIF
+
+** Passé
+
+avoir assailli
+
+* PARTICIPE
+
+** Passé
+
+ayant assailli
+assailli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis assailli(e)
+tu es assailli(e)
+il (elle) est assailli(e)
+nous sommes assailli(e)s
+vous êtes assailli(e)s
+ils (elles) sont assailli(e)s
+
+** Imparfait
+
+j'étais assailli(e)
+tu étais assailli(e)
+il (elle) était assailli(e)
+nous étions assailli(e)s
+vous étiez assailli(e)s
+ils (elles) étaient assailli(e)s
+
+** Passé simple
+
+je fus assailli(e)
+tu fus assailli(e)
+il (elle) fut assailli(e)
+nous fûmes assailli(e)s
+vous fûtes assailli(e)s
+ils (elles) furent assailli(e)s
+
+** Futur simple
+
+je serai assailli(e)
+tu seras assailli(e)
+il (elle) sera assailli(e)
+nous serons assailli(e)s
+vous serez assailli(e)s
+ils (elles) seront assailli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assailli(e)
+tu serais assailli(e)
+il (elle) serait assailli(e)
+nous serions assailli(e)s
+vous seriez assailli(e)s
+ils (elles) seraient assailli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assailli(e)
+que tu sois assailli(e)
+qu’il (elle) soit assailli(e)
+que nous soyons assailli(e)s
+que vous soyez assailli(e)s
+qu’ils (elles) soient assailli(e)s
+
+** Imparfait
+
+que je fusse assailli(e)
+que tu fusses assailli(e)
+qu’il (elle) fût assailli(e)
+que nous fussions assailli(e)s
+que vous fussiez assailli(e)s
+qu’ils (elles) fussent assailli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assailli(e)s
+soyez assailli(e)s
+
+* INFINITIF
+
+** Présent
+
+être assailli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assailli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assailli(e)
+tu as été assailli(e)
+il (elle) a été assailli(e)
+nous avons été assailli(e)s
+vous avez été assailli(e)s
+ils (elles) ont été assailli(e)s
+
+** Plus-que-parfait
+
+j'avais été assailli(e)
+il (elle) avait été assailli(e)
+nous avions été assailli(e)s
+ils (elles) avaient été assailli(e)s
+
+** Passé antérieur
+
+j'eus été assailli(e)
+tu eus été assailli(e)
+il (elle) eut été assailli(e)
+nous eûmes été assailli(e)s
+vous eûtes été assailli(e)s
+ils (elles) eurent été assailli(e)s
+
+** Futur antérieur
+
+j'aurai été assailli(e)
+tu auras été assailli(e)
+il (elle) aura été assailli(e)
+nous aurons été assailli(e)s
+vous aurez été assailli(e)s
+ils (elles) auront été assailli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assailli(e)
+j'aurais été assailli(e)
+il (elle) aurait été assailli(e)
+nous aurions été assailli(e)s
+vous auriez été assailli(e)s
+ils (elles) auraient été assailli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assailli(e)
+que tu aies été assailli(e)
+qu’il (elle) ait été assailli(e)
+que nous ayons été assailli(e)s
+que vous ayez été assailli(e)s
+qu’ils (elles) aient été assailli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assailli(e)
+que tu eusses été assailli(e)
+qu’il (elle) eût été assailli(e)
+que nous eussions été assailli(e)s
+que vous eussiez été assailli(e)s
+qu’ils (elles) eussent été assailli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assailli(e)
+ayons été assailli(e)s
+ayez été assailli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assailli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assailli(e)(s)

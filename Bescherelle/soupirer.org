@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe soupirer
+
+* INDICATIF
+
+** Présent
+
+je soupire
+tu soupires
+il (elle) soupire
+nous soupirons
+vous soupirez
+ils (elles) soupirent
+
+** Imparfait
+
+je soupirais
+tu soupirais
+il (elle) soupirait
+nous soupirions
+vous soupiriez
+ils (elles) soupiraient
+
+** Passé simple
+
+je soupirai
+tu soupiras
+il (elle) soupira
+nous soupirâmes
+vous soupirâtes
+ils (elles) soupirèrent
+
+** Futur simple
+
+je soupirerai
+tu soupireras
+il (elle) soupirera
+nous soupirerons
+vous soupirerez
+ils (elles) soupireront
+
+* CONDITIONNEL
+
+** Présent
+
+je soupirerais
+tu soupirerais
+il (elle) soupirerait
+nous soupirerions
+vous soupireriez
+ils (elles) soupireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soupire
+que tu soupires
+qu’il (elle) soupire
+que nous soupirions
+que vous soupiriez
+qu’ils (elles) soupirent
+
+** Imparfait
+
+que je soupirasse
+que tu soupirasses
+qu’il (elle) soupirât
+que nous soupirassions
+que vous soupirassiez
+qu’ils (elles) soupirassent
+
+* IMPÉRATIF
+
+** Présent
+
+soupire
+soupirons
+soupirez
+
+* INFINITIF
+
+** Présent
+
+soupirer
+
+* PARTICIPE
+
+** Présent
+
+soupirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soupiré
+tu as soupiré
+il (elle) a soupiré
+nous avons soupiré
+vous avez soupiré
+ils (elles) ont soupiré
+
+** Plus-que-parfait
+
+j'avais soupiré
+tu avais soupiré
+il (elle) avait soupiré
+nous avions soupiré
+vous aviez soupiré
+ils (elles) avaient soupiré
+
+** Passé antérieur
+
+j'eus soupiré
+tu eus soupiré
+il (elle) eut soupiré
+nous eûmes soupiré
+vous eûtes soupiré
+ils (elles) eurent soupiré
+
+** Futur antérieur
+
+j'aurai soupiré
+tu auras soupiré
+il (elle) aura soupiré
+nous aurons soupiré
+vous aurez soupiré
+ils (elles) auront soupiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soupiré
+tu aurais soupiré
+il (elle) aurait soupiré
+nous aurions soupiré
+vous auriez soupiré
+ils (elles) auraient soupiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soupiré
+que tu aies soupiré
+qu’il (elle) ait soupiré
+que nous ayons soupiré
+que vous ayez soupiré
+qu’ils (elles) aient soupiré
+
+** Plus-que-parfait
+
+que j'eusse soupiré
+que tu eusses soupiré
+qu’il (elle) eût soupiré
+que nous eussions soupiré
+que vous eussiez soupiré
+qu’ils (elles) eussent soupiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soupiré
+ayez soupiré
+
+* INFINITIF
+
+** Passé
+
+avoir soupiré
+
+* PARTICIPE
+
+** Passé
+
+ayant soupiré
+soupiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis soupiré(e)
+tu es soupiré(e)
+il (elle) est soupiré(e)
+nous sommes soupiré(e)s
+vous êtes soupiré(e)s
+ils (elles) sont soupiré(e)s
+
+** Imparfait
+
+j'étais soupiré(e)
+tu étais soupiré(e)
+il (elle) était soupiré(e)
+nous étions soupiré(e)s
+vous étiez soupiré(e)s
+ils (elles) étaient soupiré(e)s
+
+** Passé simple
+
+je fus soupiré(e)
+tu fus soupiré(e)
+il (elle) fut soupiré(e)
+nous fûmes soupiré(e)s
+vous fûtes soupiré(e)s
+ils (elles) furent soupiré(e)s
+
+** Futur simple
+
+je serai soupiré(e)
+tu seras soupiré(e)
+il (elle) sera soupiré(e)
+nous serons soupiré(e)s
+vous serez soupiré(e)s
+ils (elles) seront soupiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soupiré(e)
+tu serais soupiré(e)
+il (elle) serait soupiré(e)
+nous serions soupiré(e)s
+vous seriez soupiré(e)s
+ils (elles) seraient soupiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soupiré(e)
+que tu sois soupiré(e)
+qu’il (elle) soit soupiré(e)
+que nous soyons soupiré(e)s
+que vous soyez soupiré(e)s
+qu’ils (elles) soient soupiré(e)s
+
+** Imparfait
+
+que je fusse soupiré(e)
+que tu fusses soupiré(e)
+qu’il (elle) fût soupiré(e)
+que nous fussions soupiré(e)s
+que vous fussiez soupiré(e)s
+qu’ils (elles) fussent soupiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soupiré(e)s
+soyez soupiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être soupiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soupiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soupiré(e)
+tu as été soupiré(e)
+il (elle) a été soupiré(e)
+nous avons été soupiré(e)s
+vous avez été soupiré(e)s
+ils (elles) ont été soupiré(e)s
+
+** Plus-que-parfait
+
+j'avais été soupiré(e)
+il (elle) avait été soupiré(e)
+nous avions été soupiré(e)s
+ils (elles) avaient été soupiré(e)s
+
+** Passé antérieur
+
+j'eus été soupiré(e)
+tu eus été soupiré(e)
+il (elle) eut été soupiré(e)
+nous eûmes été soupiré(e)s
+vous eûtes été soupiré(e)s
+ils (elles) eurent été soupiré(e)s
+
+** Futur antérieur
+
+j'aurai été soupiré(e)
+tu auras été soupiré(e)
+il (elle) aura été soupiré(e)
+nous aurons été soupiré(e)s
+vous aurez été soupiré(e)s
+ils (elles) auront été soupiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soupiré(e)
+j'aurais été soupiré(e)
+il (elle) aurait été soupiré(e)
+nous aurions été soupiré(e)s
+vous auriez été soupiré(e)s
+ils (elles) auraient été soupiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soupiré(e)
+que tu aies été soupiré(e)
+qu’il (elle) ait été soupiré(e)
+que nous ayons été soupiré(e)s
+que vous ayez été soupiré(e)s
+qu’ils (elles) aient été soupiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soupiré(e)
+que tu eusses été soupiré(e)
+qu’il (elle) eût été soupiré(e)
+que nous eussions été soupiré(e)s
+que vous eussiez été soupiré(e)s
+qu’ils (elles) eussent été soupiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soupiré(e)
+ayons été soupiré(e)s
+ayez été soupiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soupiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soupiré(e)(s)

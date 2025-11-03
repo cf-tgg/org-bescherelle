@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe batir
+
+* INDICATIF
+
+** Présent
+
+je bâtis
+tu bâtis
+il (elle) bâtit
+nous bâtissons
+vous bâtissez
+ils (elles) bâtissent
+
+** Imparfait
+
+je bâtissais
+tu bâtissais
+il (elle) bâtissait
+nous bâtissions
+vous bâtissiez
+ils (elles) bâtissaient
+
+** Passé simple
+
+je bâtis
+tu bâtis
+il (elle) bâtit
+nous bâtîmes
+vous bâtîtes
+ils (elles) bâtirent
+
+** Futur simple
+
+je bâtirai
+tu bâtiras
+il (elle) bâtira
+nous bâtirons
+vous bâtirez
+ils (elles) bâtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je bâtirais
+tu bâtirais
+il (elle) bâtirait
+nous bâtirions
+vous bâtiriez
+ils (elles) bâtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bâtisse
+que tu bâtisses
+qu’il (elle) bâtisse
+que nous bâtissions
+que vous bâtissiez
+qu’ils (elles) bâtissent
+
+** Imparfait
+
+que je bâtisse
+que tu bâtisses
+qu’il (elle) bâtît
+que nous bâtissions
+que vous bâtissiez
+qu’ils (elles) bâtissent
+
+* IMPÉRATIF
+
+** Présent
+
+bâtis
+bâtissons
+bâtissez
+
+* INFINITIF
+
+** Présent
+
+bâtir
+
+* PARTICIPE
+
+** Présent
+
+bâtissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bâti
+tu as bâti
+il (elle) a bâti
+nous avons bâti
+vous avez bâti
+ils (elles) ont bâti
+
+** Plus-que-parfait
+
+j'avais bâti
+tu avais bâti
+il (elle) avait bâti
+nous avions bâti
+vous aviez bâti
+ils (elles) avaient bâti
+
+** Passé antérieur
+
+j'eus bâti
+tu eus bâti
+il (elle) eut bâti
+nous eûmes bâti
+vous eûtes bâti
+ils (elles) eurent bâti
+
+** Futur antérieur
+
+j'aurai bâti
+tu auras bâti
+il (elle) aura bâti
+nous aurons bâti
+vous aurez bâti
+ils (elles) auront bâti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bâti
+tu aurais bâti
+il (elle) aurait bâti
+nous aurions bâti
+vous auriez bâti
+ils (elles) auraient bâti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bâti
+que tu aies bâti
+qu’il (elle) ait bâti
+que nous ayons bâti
+que vous ayez bâti
+qu’ils (elles) aient bâti
+
+** Plus-que-parfait
+
+que j'eusse bâti
+que tu eusses bâti
+qu’il (elle) eût bâti
+que nous eussions bâti
+que vous eussiez bâti
+qu’ils (elles) eussent bâti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bâti
+ayez bâti
+
+* INFINITIF
+
+** Passé
+
+avoir bâti
+
+* PARTICIPE
+
+** Passé
+
+ayant bâti
+bâti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis bâti(e)
+tu es bâti(e)
+il (elle) est bâti(e)
+nous sommes bâti(e)s
+vous êtes bâti(e)s
+ils (elles) sont bâti(e)s
+
+** Imparfait
+
+j'étais bâti(e)
+tu étais bâti(e)
+il (elle) était bâti(e)
+nous étions bâti(e)s
+vous étiez bâti(e)s
+ils (elles) étaient bâti(e)s
+
+** Passé simple
+
+je fus bâti(e)
+tu fus bâti(e)
+il (elle) fut bâti(e)
+nous fûmes bâti(e)s
+vous fûtes bâti(e)s
+ils (elles) furent bâti(e)s
+
+** Futur simple
+
+je serai bâti(e)
+tu seras bâti(e)
+il (elle) sera bâti(e)
+nous serons bâti(e)s
+vous serez bâti(e)s
+ils (elles) seront bâti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bâti(e)
+tu serais bâti(e)
+il (elle) serait bâti(e)
+nous serions bâti(e)s
+vous seriez bâti(e)s
+ils (elles) seraient bâti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bâti(e)
+que tu sois bâti(e)
+qu’il (elle) soit bâti(e)
+que nous soyons bâti(e)s
+que vous soyez bâti(e)s
+qu’ils (elles) soient bâti(e)s
+
+** Imparfait
+
+que je fusse bâti(e)
+que tu fusses bâti(e)
+qu’il (elle) fût bâti(e)
+que nous fussions bâti(e)s
+que vous fussiez bâti(e)s
+qu’ils (elles) fussent bâti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bâti(e)s
+soyez bâti(e)s
+
+* INFINITIF
+
+** Présent
+
+être bâti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bâti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bâti(e)
+tu as été bâti(e)
+il (elle) a été bâti(e)
+nous avons été bâti(e)s
+vous avez été bâti(e)s
+ils (elles) ont été bâti(e)s
+
+** Plus-que-parfait
+
+j'avais été bâti(e)
+il (elle) avait été bâti(e)
+nous avions été bâti(e)s
+ils (elles) avaient été bâti(e)s
+
+** Passé antérieur
+
+j'eus été bâti(e)
+tu eus été bâti(e)
+il (elle) eut été bâti(e)
+nous eûmes été bâti(e)s
+vous eûtes été bâti(e)s
+ils (elles) eurent été bâti(e)s
+
+** Futur antérieur
+
+j'aurai été bâti(e)
+tu auras été bâti(e)
+il (elle) aura été bâti(e)
+nous aurons été bâti(e)s
+vous aurez été bâti(e)s
+ils (elles) auront été bâti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bâti(e)
+j'aurais été bâti(e)
+il (elle) aurait été bâti(e)
+nous aurions été bâti(e)s
+vous auriez été bâti(e)s
+ils (elles) auraient été bâti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bâti(e)
+que tu aies été bâti(e)
+qu’il (elle) ait été bâti(e)
+que nous ayons été bâti(e)s
+que vous ayez été bâti(e)s
+qu’ils (elles) aient été bâti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bâti(e)
+que tu eusses été bâti(e)
+qu’il (elle) eût été bâti(e)
+que nous eussions été bâti(e)s
+que vous eussiez été bâti(e)s
+qu’ils (elles) eussent été bâti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bâti(e)
+ayons été bâti(e)s
+ayez été bâti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bâti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bâti(e)(s)

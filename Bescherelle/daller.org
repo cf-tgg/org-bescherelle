@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe daller
+
+* INDICATIF
+
+** Présent
+
+je dalle
+tu dalles
+il (elle) dalle
+nous dallons
+vous dallez
+ils (elles) dallent
+
+** Imparfait
+
+je dallais
+tu dallais
+il (elle) dallait
+nous dallions
+vous dalliez
+ils (elles) dallaient
+
+** Passé simple
+
+je dallai
+tu dallas
+il (elle) dalla
+nous dallâmes
+vous dallâtes
+ils (elles) dallèrent
+
+** Futur simple
+
+je dallerai
+tu dalleras
+il (elle) dallera
+nous dallerons
+vous dallerez
+ils (elles) dalleront
+
+* CONDITIONNEL
+
+** Présent
+
+je dallerais
+tu dallerais
+il (elle) dallerait
+nous dallerions
+vous dalleriez
+ils (elles) dalleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dalle
+que tu dalles
+qu’il (elle) dalle
+que nous dallions
+que vous dalliez
+qu’ils (elles) dallent
+
+** Imparfait
+
+que je dallasse
+que tu dallasses
+qu’il (elle) dallât
+que nous dallassions
+que vous dallassiez
+qu’ils (elles) dallassent
+
+* IMPÉRATIF
+
+** Présent
+
+dalle
+dallons
+dallez
+
+* INFINITIF
+
+** Présent
+
+daller
+
+* PARTICIPE
+
+** Présent
+
+dallant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dallé
+tu as dallé
+il (elle) a dallé
+nous avons dallé
+vous avez dallé
+ils (elles) ont dallé
+
+** Plus-que-parfait
+
+j'avais dallé
+tu avais dallé
+il (elle) avait dallé
+nous avions dallé
+vous aviez dallé
+ils (elles) avaient dallé
+
+** Passé antérieur
+
+j'eus dallé
+tu eus dallé
+il (elle) eut dallé
+nous eûmes dallé
+vous eûtes dallé
+ils (elles) eurent dallé
+
+** Futur antérieur
+
+j'aurai dallé
+tu auras dallé
+il (elle) aura dallé
+nous aurons dallé
+vous aurez dallé
+ils (elles) auront dallé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dallé
+tu aurais dallé
+il (elle) aurait dallé
+nous aurions dallé
+vous auriez dallé
+ils (elles) auraient dallé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dallé
+que tu aies dallé
+qu’il (elle) ait dallé
+que nous ayons dallé
+que vous ayez dallé
+qu’ils (elles) aient dallé
+
+** Plus-que-parfait
+
+que j'eusse dallé
+que tu eusses dallé
+qu’il (elle) eût dallé
+que nous eussions dallé
+que vous eussiez dallé
+qu’ils (elles) eussent dallé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dallé
+ayez dallé
+
+* INFINITIF
+
+** Passé
+
+avoir dallé
+
+* PARTICIPE
+
+** Passé
+
+ayant dallé
+dallé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dallé(e)
+tu es dallé(e)
+il (elle) est dallé(e)
+nous sommes dallé(e)s
+vous êtes dallé(e)s
+ils (elles) sont dallé(e)s
+
+** Imparfait
+
+j'étais dallé(e)
+tu étais dallé(e)
+il (elle) était dallé(e)
+nous étions dallé(e)s
+vous étiez dallé(e)s
+ils (elles) étaient dallé(e)s
+
+** Passé simple
+
+je fus dallé(e)
+tu fus dallé(e)
+il (elle) fut dallé(e)
+nous fûmes dallé(e)s
+vous fûtes dallé(e)s
+ils (elles) furent dallé(e)s
+
+** Futur simple
+
+je serai dallé(e)
+tu seras dallé(e)
+il (elle) sera dallé(e)
+nous serons dallé(e)s
+vous serez dallé(e)s
+ils (elles) seront dallé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dallé(e)
+tu serais dallé(e)
+il (elle) serait dallé(e)
+nous serions dallé(e)s
+vous seriez dallé(e)s
+ils (elles) seraient dallé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dallé(e)
+que tu sois dallé(e)
+qu’il (elle) soit dallé(e)
+que nous soyons dallé(e)s
+que vous soyez dallé(e)s
+qu’ils (elles) soient dallé(e)s
+
+** Imparfait
+
+que je fusse dallé(e)
+que tu fusses dallé(e)
+qu’il (elle) fût dallé(e)
+que nous fussions dallé(e)s
+que vous fussiez dallé(e)s
+qu’ils (elles) fussent dallé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dallé(e)s
+soyez dallé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dallé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dallé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dallé(e)
+tu as été dallé(e)
+il (elle) a été dallé(e)
+nous avons été dallé(e)s
+vous avez été dallé(e)s
+ils (elles) ont été dallé(e)s
+
+** Plus-que-parfait
+
+j'avais été dallé(e)
+il (elle) avait été dallé(e)
+nous avions été dallé(e)s
+ils (elles) avaient été dallé(e)s
+
+** Passé antérieur
+
+j'eus été dallé(e)
+tu eus été dallé(e)
+il (elle) eut été dallé(e)
+nous eûmes été dallé(e)s
+vous eûtes été dallé(e)s
+ils (elles) eurent été dallé(e)s
+
+** Futur antérieur
+
+j'aurai été dallé(e)
+tu auras été dallé(e)
+il (elle) aura été dallé(e)
+nous aurons été dallé(e)s
+vous aurez été dallé(e)s
+ils (elles) auront été dallé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dallé(e)
+j'aurais été dallé(e)
+il (elle) aurait été dallé(e)
+nous aurions été dallé(e)s
+vous auriez été dallé(e)s
+ils (elles) auraient été dallé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dallé(e)
+que tu aies été dallé(e)
+qu’il (elle) ait été dallé(e)
+que nous ayons été dallé(e)s
+que vous ayez été dallé(e)s
+qu’ils (elles) aient été dallé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dallé(e)
+que tu eusses été dallé(e)
+qu’il (elle) eût été dallé(e)
+que nous eussions été dallé(e)s
+que vous eussiez été dallé(e)s
+qu’ils (elles) eussent été dallé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dallé(e)
+ayons été dallé(e)s
+ayez été dallé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dallé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dallé(e)(s)

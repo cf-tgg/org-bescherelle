@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe allouer
+
+* INDICATIF
+
+** Présent
+
+j'alloue
+tu alloues
+il (elle) alloue
+nous allouons
+vous allouez
+ils (elles) allouent
+
+** Imparfait
+
+j'allouais
+tu allouais
+il (elle) allouait
+nous allouions
+vous allouiez
+ils (elles) allouaient
+
+** Passé simple
+
+j'allouai
+tu allouas
+il (elle) alloua
+nous allouâmes
+vous allouâtes
+ils (elles) allouèrent
+
+** Futur simple
+
+j'allouerai
+tu alloueras
+il (elle) allouera
+nous allouerons
+vous allouerez
+ils (elles) alloueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'allouerais
+tu allouerais
+il (elle) allouerait
+nous allouerions
+vous alloueriez
+ils (elles) alloueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alloue
+que tu alloues
+qu’il (elle) alloue
+que nous allouions
+que vous allouiez
+qu’ils (elles) allouent
+
+** Imparfait
+
+que j'allouasse
+que tu allouasses
+qu’il (elle) allouât
+que nous allouassions
+que vous allouassiez
+qu’ils (elles) allouassent
+
+* IMPÉRATIF
+
+** Présent
+
+alloue
+allouons
+allouez
+
+* INFINITIF
+
+** Présent
+
+allouer
+
+* PARTICIPE
+
+** Présent
+
+allouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai alloué
+tu as alloué
+il (elle) a alloué
+nous avons alloué
+vous avez alloué
+ils (elles) ont alloué
+
+** Plus-que-parfait
+
+j'avais alloué
+tu avais alloué
+il (elle) avait alloué
+nous avions alloué
+vous aviez alloué
+ils (elles) avaient alloué
+
+** Passé antérieur
+
+j'eus alloué
+tu eus alloué
+il (elle) eut alloué
+nous eûmes alloué
+vous eûtes alloué
+ils (elles) eurent alloué
+
+** Futur antérieur
+
+j'aurai alloué
+tu auras alloué
+il (elle) aura alloué
+nous aurons alloué
+vous aurez alloué
+ils (elles) auront alloué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais alloué
+tu aurais alloué
+il (elle) aurait alloué
+nous aurions alloué
+vous auriez alloué
+ils (elles) auraient alloué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie alloué
+que tu aies alloué
+qu’il (elle) ait alloué
+que nous ayons alloué
+que vous ayez alloué
+qu’ils (elles) aient alloué
+
+** Plus-que-parfait
+
+que j'eusse alloué
+que tu eusses alloué
+qu’il (elle) eût alloué
+que nous eussions alloué
+que vous eussiez alloué
+qu’ils (elles) eussent alloué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons alloué
+ayez alloué
+
+* INFINITIF
+
+** Passé
+
+avoir alloué
+
+* PARTICIPE
+
+** Passé
+
+ayant alloué
+alloué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis alloué(e)
+tu es alloué(e)
+il (elle) est alloué(e)
+nous sommes alloué(e)s
+vous êtes alloué(e)s
+ils (elles) sont alloué(e)s
+
+** Imparfait
+
+j'étais alloué(e)
+tu étais alloué(e)
+il (elle) était alloué(e)
+nous étions alloué(e)s
+vous étiez alloué(e)s
+ils (elles) étaient alloué(e)s
+
+** Passé simple
+
+je fus alloué(e)
+tu fus alloué(e)
+il (elle) fut alloué(e)
+nous fûmes alloué(e)s
+vous fûtes alloué(e)s
+ils (elles) furent alloué(e)s
+
+** Futur simple
+
+je serai alloué(e)
+tu seras alloué(e)
+il (elle) sera alloué(e)
+nous serons alloué(e)s
+vous serez alloué(e)s
+ils (elles) seront alloué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais alloué(e)
+tu serais alloué(e)
+il (elle) serait alloué(e)
+nous serions alloué(e)s
+vous seriez alloué(e)s
+ils (elles) seraient alloué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois alloué(e)
+que tu sois alloué(e)
+qu’il (elle) soit alloué(e)
+que nous soyons alloué(e)s
+que vous soyez alloué(e)s
+qu’ils (elles) soient alloué(e)s
+
+** Imparfait
+
+que je fusse alloué(e)
+que tu fusses alloué(e)
+qu’il (elle) fût alloué(e)
+que nous fussions alloué(e)s
+que vous fussiez alloué(e)s
+qu’ils (elles) fussent alloué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons alloué(e)s
+soyez alloué(e)s
+
+* INFINITIF
+
+** Présent
+
+être alloué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant alloué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été alloué(e)
+tu as été alloué(e)
+il (elle) a été alloué(e)
+nous avons été alloué(e)s
+vous avez été alloué(e)s
+ils (elles) ont été alloué(e)s
+
+** Plus-que-parfait
+
+j'avais été alloué(e)
+il (elle) avait été alloué(e)
+nous avions été alloué(e)s
+ils (elles) avaient été alloué(e)s
+
+** Passé antérieur
+
+j'eus été alloué(e)
+tu eus été alloué(e)
+il (elle) eut été alloué(e)
+nous eûmes été alloué(e)s
+vous eûtes été alloué(e)s
+ils (elles) eurent été alloué(e)s
+
+** Futur antérieur
+
+j'aurai été alloué(e)
+tu auras été alloué(e)
+il (elle) aura été alloué(e)
+nous aurons été alloué(e)s
+vous aurez été alloué(e)s
+ils (elles) auront été alloué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été alloué(e)
+j'aurais été alloué(e)
+il (elle) aurait été alloué(e)
+nous aurions été alloué(e)s
+vous auriez été alloué(e)s
+ils (elles) auraient été alloué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été alloué(e)
+que tu aies été alloué(e)
+qu’il (elle) ait été alloué(e)
+que nous ayons été alloué(e)s
+que vous ayez été alloué(e)s
+qu’ils (elles) aient été alloué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été alloué(e)
+que tu eusses été alloué(e)
+qu’il (elle) eût été alloué(e)
+que nous eussions été alloué(e)s
+que vous eussiez été alloué(e)s
+qu’ils (elles) eussent été alloué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été alloué(e)
+ayons été alloué(e)s
+ayez été alloué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été alloué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été alloué(e)(s)

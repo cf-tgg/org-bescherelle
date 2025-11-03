@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reussir
+
+* INDICATIF
+
+** Présent
+
+je réussis
+tu réussis
+il (elle) réussit
+nous réussissons
+vous réussissez
+ils (elles) réussissent
+
+** Imparfait
+
+je réussissais
+tu réussissais
+il (elle) réussissait
+nous réussissions
+vous réussissiez
+ils (elles) réussissaient
+
+** Passé simple
+
+je réussis
+tu réussis
+il (elle) réussit
+nous réussîmes
+vous réussîtes
+ils (elles) réussirent
+
+** Futur simple
+
+je réussirai
+tu réussiras
+il (elle) réussira
+nous réussirons
+vous réussirez
+ils (elles) réussiront
+
+* CONDITIONNEL
+
+** Présent
+
+je réussirais
+tu réussirais
+il (elle) réussirait
+nous réussirions
+vous réussiriez
+ils (elles) réussiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réussisse
+que tu réussisses
+qu’il (elle) réussisse
+que nous réussissions
+que vous réussissiez
+qu’ils (elles) réussissent
+
+** Imparfait
+
+que je réussisse
+que tu réussisses
+qu’il (elle) réussît
+que nous réussissions
+que vous réussissiez
+qu’ils (elles) réussissent
+
+* IMPÉRATIF
+
+** Présent
+
+réussis
+réussissons
+réussissez
+
+* INFINITIF
+
+** Présent
+
+réussir
+
+* PARTICIPE
+
+** Présent
+
+réussissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réussi
+tu as réussi
+il (elle) a réussi
+nous avons réussi
+vous avez réussi
+ils (elles) ont réussi
+
+** Plus-que-parfait
+
+j'avais réussi
+tu avais réussi
+il (elle) avait réussi
+nous avions réussi
+vous aviez réussi
+ils (elles) avaient réussi
+
+** Passé antérieur
+
+j'eus réussi
+tu eus réussi
+il (elle) eut réussi
+nous eûmes réussi
+vous eûtes réussi
+ils (elles) eurent réussi
+
+** Futur antérieur
+
+j'aurai réussi
+tu auras réussi
+il (elle) aura réussi
+nous aurons réussi
+vous aurez réussi
+ils (elles) auront réussi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réussi
+tu aurais réussi
+il (elle) aurait réussi
+nous aurions réussi
+vous auriez réussi
+ils (elles) auraient réussi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réussi
+que tu aies réussi
+qu’il (elle) ait réussi
+que nous ayons réussi
+que vous ayez réussi
+qu’ils (elles) aient réussi
+
+** Plus-que-parfait
+
+que j'eusse réussi
+que tu eusses réussi
+qu’il (elle) eût réussi
+que nous eussions réussi
+que vous eussiez réussi
+qu’ils (elles) eussent réussi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réussi
+ayez réussi
+
+* INFINITIF
+
+** Passé
+
+avoir réussi
+
+* PARTICIPE
+
+** Passé
+
+ayant réussi
+réussi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis réussi(e)
+tu es réussi(e)
+il (elle) est réussi(e)
+nous sommes réussi(e)s
+vous êtes réussi(e)s
+ils (elles) sont réussi(e)s
+
+** Imparfait
+
+j'étais réussi(e)
+tu étais réussi(e)
+il (elle) était réussi(e)
+nous étions réussi(e)s
+vous étiez réussi(e)s
+ils (elles) étaient réussi(e)s
+
+** Passé simple
+
+je fus réussi(e)
+tu fus réussi(e)
+il (elle) fut réussi(e)
+nous fûmes réussi(e)s
+vous fûtes réussi(e)s
+ils (elles) furent réussi(e)s
+
+** Futur simple
+
+je serai réussi(e)
+tu seras réussi(e)
+il (elle) sera réussi(e)
+nous serons réussi(e)s
+vous serez réussi(e)s
+ils (elles) seront réussi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réussi(e)
+tu serais réussi(e)
+il (elle) serait réussi(e)
+nous serions réussi(e)s
+vous seriez réussi(e)s
+ils (elles) seraient réussi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réussi(e)
+que tu sois réussi(e)
+qu’il (elle) soit réussi(e)
+que nous soyons réussi(e)s
+que vous soyez réussi(e)s
+qu’ils (elles) soient réussi(e)s
+
+** Imparfait
+
+que je fusse réussi(e)
+que tu fusses réussi(e)
+qu’il (elle) fût réussi(e)
+que nous fussions réussi(e)s
+que vous fussiez réussi(e)s
+qu’ils (elles) fussent réussi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réussi(e)s
+soyez réussi(e)s
+
+* INFINITIF
+
+** Présent
+
+être réussi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réussi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réussi(e)
+tu as été réussi(e)
+il (elle) a été réussi(e)
+nous avons été réussi(e)s
+vous avez été réussi(e)s
+ils (elles) ont été réussi(e)s
+
+** Plus-que-parfait
+
+j'avais été réussi(e)
+il (elle) avait été réussi(e)
+nous avions été réussi(e)s
+ils (elles) avaient été réussi(e)s
+
+** Passé antérieur
+
+j'eus été réussi(e)
+tu eus été réussi(e)
+il (elle) eut été réussi(e)
+nous eûmes été réussi(e)s
+vous eûtes été réussi(e)s
+ils (elles) eurent été réussi(e)s
+
+** Futur antérieur
+
+j'aurai été réussi(e)
+tu auras été réussi(e)
+il (elle) aura été réussi(e)
+nous aurons été réussi(e)s
+vous aurez été réussi(e)s
+ils (elles) auront été réussi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réussi(e)
+j'aurais été réussi(e)
+il (elle) aurait été réussi(e)
+nous aurions été réussi(e)s
+vous auriez été réussi(e)s
+ils (elles) auraient été réussi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réussi(e)
+que tu aies été réussi(e)
+qu’il (elle) ait été réussi(e)
+que nous ayons été réussi(e)s
+que vous ayez été réussi(e)s
+qu’ils (elles) aient été réussi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réussi(e)
+que tu eusses été réussi(e)
+qu’il (elle) eût été réussi(e)
+que nous eussions été réussi(e)s
+que vous eussiez été réussi(e)s
+qu’ils (elles) eussent été réussi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réussi(e)
+ayons été réussi(e)s
+ayez été réussi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réussi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réussi(e)(s)

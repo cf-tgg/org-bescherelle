@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abandonner
+
+* INDICATIF
+
+** Présent
+
+j'abandonne
+tu abandonnes
+il (elle) abandonne
+nous abandonnons
+vous abandonnez
+ils (elles) abandonnent
+
+** Imparfait
+
+j'abandonnais
+tu abandonnais
+il (elle) abandonnait
+nous abandonnions
+vous abandonniez
+ils (elles) abandonnaient
+
+** Passé simple
+
+j'abandonnai
+tu abandonnas
+il (elle) abandonna
+nous abandonnâmes
+vous abandonnâtes
+ils (elles) abandonnèrent
+
+** Futur simple
+
+j'abandonnerai
+tu abandonneras
+il (elle) abandonnera
+nous abandonnerons
+vous abandonnerez
+ils (elles) abandonneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abandonnerais
+tu abandonnerais
+il (elle) abandonnerait
+nous abandonnerions
+vous abandonneriez
+ils (elles) abandonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abandonne
+que tu abandonnes
+qu’il (elle) abandonne
+que nous abandonnions
+que vous abandonniez
+qu’ils (elles) abandonnent
+
+** Imparfait
+
+que j'abandonnasse
+que tu abandonnasses
+qu’il (elle) abandonnât
+que nous abandonnassions
+que vous abandonnassiez
+qu’ils (elles) abandonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+abandonne
+abandonnons
+abandonnez
+
+* INFINITIF
+
+** Présent
+
+abandonner
+
+* PARTICIPE
+
+** Présent
+
+abandonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abandonné
+tu as abandonné
+il (elle) a abandonné
+nous avons abandonné
+vous avez abandonné
+ils (elles) ont abandonné
+
+** Plus-que-parfait
+
+j'avais abandonné
+tu avais abandonné
+il (elle) avait abandonné
+nous avions abandonné
+vous aviez abandonné
+ils (elles) avaient abandonné
+
+** Passé antérieur
+
+j'eus abandonné
+tu eus abandonné
+il (elle) eut abandonné
+nous eûmes abandonné
+vous eûtes abandonné
+ils (elles) eurent abandonné
+
+** Futur antérieur
+
+j'aurai abandonné
+tu auras abandonné
+il (elle) aura abandonné
+nous aurons abandonné
+vous aurez abandonné
+ils (elles) auront abandonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abandonné
+tu aurais abandonné
+il (elle) aurait abandonné
+nous aurions abandonné
+vous auriez abandonné
+ils (elles) auraient abandonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abandonné
+que tu aies abandonné
+qu’il (elle) ait abandonné
+que nous ayons abandonné
+que vous ayez abandonné
+qu’ils (elles) aient abandonné
+
+** Plus-que-parfait
+
+que j'eusse abandonné
+que tu eusses abandonné
+qu’il (elle) eût abandonné
+que nous eussions abandonné
+que vous eussiez abandonné
+qu’ils (elles) eussent abandonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abandonné
+ayez abandonné
+
+* INFINITIF
+
+** Passé
+
+avoir abandonné
+
+* PARTICIPE
+
+** Passé
+
+ayant abandonné
+abandonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abandonné(e)
+tu es abandonné(e)
+il (elle) est abandonné(e)
+nous sommes abandonné(e)s
+vous êtes abandonné(e)s
+ils (elles) sont abandonné(e)s
+
+** Imparfait
+
+j'étais abandonné(e)
+tu étais abandonné(e)
+il (elle) était abandonné(e)
+nous étions abandonné(e)s
+vous étiez abandonné(e)s
+ils (elles) étaient abandonné(e)s
+
+** Passé simple
+
+je fus abandonné(e)
+tu fus abandonné(e)
+il (elle) fut abandonné(e)
+nous fûmes abandonné(e)s
+vous fûtes abandonné(e)s
+ils (elles) furent abandonné(e)s
+
+** Futur simple
+
+je serai abandonné(e)
+tu seras abandonné(e)
+il (elle) sera abandonné(e)
+nous serons abandonné(e)s
+vous serez abandonné(e)s
+ils (elles) seront abandonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abandonné(e)
+tu serais abandonné(e)
+il (elle) serait abandonné(e)
+nous serions abandonné(e)s
+vous seriez abandonné(e)s
+ils (elles) seraient abandonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abandonné(e)
+que tu sois abandonné(e)
+qu’il (elle) soit abandonné(e)
+que nous soyons abandonné(e)s
+que vous soyez abandonné(e)s
+qu’ils (elles) soient abandonné(e)s
+
+** Imparfait
+
+que je fusse abandonné(e)
+que tu fusses abandonné(e)
+qu’il (elle) fût abandonné(e)
+que nous fussions abandonné(e)s
+que vous fussiez abandonné(e)s
+qu’ils (elles) fussent abandonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abandonné(e)s
+soyez abandonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être abandonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abandonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abandonné(e)
+tu as été abandonné(e)
+il (elle) a été abandonné(e)
+nous avons été abandonné(e)s
+vous avez été abandonné(e)s
+ils (elles) ont été abandonné(e)s
+
+** Plus-que-parfait
+
+j'avais été abandonné(e)
+il (elle) avait été abandonné(e)
+nous avions été abandonné(e)s
+ils (elles) avaient été abandonné(e)s
+
+** Passé antérieur
+
+j'eus été abandonné(e)
+tu eus été abandonné(e)
+il (elle) eut été abandonné(e)
+nous eûmes été abandonné(e)s
+vous eûtes été abandonné(e)s
+ils (elles) eurent été abandonné(e)s
+
+** Futur antérieur
+
+j'aurai été abandonné(e)
+tu auras été abandonné(e)
+il (elle) aura été abandonné(e)
+nous aurons été abandonné(e)s
+vous aurez été abandonné(e)s
+ils (elles) auront été abandonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abandonné(e)
+j'aurais été abandonné(e)
+il (elle) aurait été abandonné(e)
+nous aurions été abandonné(e)s
+vous auriez été abandonné(e)s
+ils (elles) auraient été abandonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abandonné(e)
+que tu aies été abandonné(e)
+qu’il (elle) ait été abandonné(e)
+que nous ayons été abandonné(e)s
+que vous ayez été abandonné(e)s
+qu’ils (elles) aient été abandonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abandonné(e)
+que tu eusses été abandonné(e)
+qu’il (elle) eût été abandonné(e)
+que nous eussions été abandonné(e)s
+que vous eussiez été abandonné(e)s
+qu’ils (elles) eussent été abandonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abandonné(e)
+ayons été abandonné(e)s
+ayez été abandonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abandonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abandonné(e)(s)

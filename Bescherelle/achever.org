@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe achever
+
+* INDICATIF
+
+** Présent
+
+j'achève
+tu achèves
+il (elle) achève
+nous achevons
+vous achevez
+ils (elles) achèvent
+
+** Imparfait
+
+j'achevais
+tu achevais
+il (elle) achevait
+nous achevions
+vous acheviez
+ils (elles) achevaient
+
+** Passé simple
+
+j'achevai
+tu achevas
+il (elle) acheva
+nous achevâmes
+vous achevâtes
+ils (elles) achevèrent
+
+** Futur simple
+
+j'achèverai
+tu achèveras
+il (elle) achèvera
+nous achèverons
+vous achèverez
+ils (elles) achèveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'achèverais
+tu achèverais
+il (elle) achèverait
+nous achèverions
+vous achèveriez
+ils (elles) achèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'achève
+que tu achèves
+qu’il (elle) achève
+que nous achevions
+que vous acheviez
+qu’ils (elles) achèvent
+
+** Imparfait
+
+que j'achevasse
+que tu achevasses
+qu’il (elle) achevât
+que nous achevassions
+que vous achevassiez
+qu’ils (elles) achevassent
+
+* IMPÉRATIF
+
+** Présent
+
+achève
+achevons
+achevez
+
+* INFINITIF
+
+** Présent
+
+achever
+
+* PARTICIPE
+
+** Présent
+
+achevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai achevé
+tu as achevé
+il (elle) a achevé
+nous avons achevé
+vous avez achevé
+ils (elles) ont achevé
+
+** Plus-que-parfait
+
+j'avais achevé
+tu avais achevé
+il (elle) avait achevé
+nous avions achevé
+vous aviez achevé
+ils (elles) avaient achevé
+
+** Passé antérieur
+
+j'eus achevé
+tu eus achevé
+il (elle) eut achevé
+nous eûmes achevé
+vous eûtes achevé
+ils (elles) eurent achevé
+
+** Futur antérieur
+
+j'aurai achevé
+tu auras achevé
+il (elle) aura achevé
+nous aurons achevé
+vous aurez achevé
+ils (elles) auront achevé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais achevé
+tu aurais achevé
+il (elle) aurait achevé
+nous aurions achevé
+vous auriez achevé
+ils (elles) auraient achevé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie achevé
+que tu aies achevé
+qu’il (elle) ait achevé
+que nous ayons achevé
+que vous ayez achevé
+qu’ils (elles) aient achevé
+
+** Plus-que-parfait
+
+que j'eusse achevé
+que tu eusses achevé
+qu’il (elle) eût achevé
+que nous eussions achevé
+que vous eussiez achevé
+qu’ils (elles) eussent achevé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons achevé
+ayez achevé
+
+* INFINITIF
+
+** Passé
+
+avoir achevé
+
+* PARTICIPE
+
+** Passé
+
+ayant achevé
+achevé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis achevé(e)
+tu es achevé(e)
+il (elle) est achevé(e)
+nous sommes achevé(e)s
+vous êtes achevé(e)s
+ils (elles) sont achevé(e)s
+
+** Imparfait
+
+j'étais achevé(e)
+tu étais achevé(e)
+il (elle) était achevé(e)
+nous étions achevé(e)s
+vous étiez achevé(e)s
+ils (elles) étaient achevé(e)s
+
+** Passé simple
+
+je fus achevé(e)
+tu fus achevé(e)
+il (elle) fut achevé(e)
+nous fûmes achevé(e)s
+vous fûtes achevé(e)s
+ils (elles) furent achevé(e)s
+
+** Futur simple
+
+je serai achevé(e)
+tu seras achevé(e)
+il (elle) sera achevé(e)
+nous serons achevé(e)s
+vous serez achevé(e)s
+ils (elles) seront achevé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais achevé(e)
+tu serais achevé(e)
+il (elle) serait achevé(e)
+nous serions achevé(e)s
+vous seriez achevé(e)s
+ils (elles) seraient achevé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois achevé(e)
+que tu sois achevé(e)
+qu’il (elle) soit achevé(e)
+que nous soyons achevé(e)s
+que vous soyez achevé(e)s
+qu’ils (elles) soient achevé(e)s
+
+** Imparfait
+
+que je fusse achevé(e)
+que tu fusses achevé(e)
+qu’il (elle) fût achevé(e)
+que nous fussions achevé(e)s
+que vous fussiez achevé(e)s
+qu’ils (elles) fussent achevé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons achevé(e)s
+soyez achevé(e)s
+
+* INFINITIF
+
+** Présent
+
+être achevé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant achevé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été achevé(e)
+tu as été achevé(e)
+il (elle) a été achevé(e)
+nous avons été achevé(e)s
+vous avez été achevé(e)s
+ils (elles) ont été achevé(e)s
+
+** Plus-que-parfait
+
+j'avais été achevé(e)
+il (elle) avait été achevé(e)
+nous avions été achevé(e)s
+ils (elles) avaient été achevé(e)s
+
+** Passé antérieur
+
+j'eus été achevé(e)
+tu eus été achevé(e)
+il (elle) eut été achevé(e)
+nous eûmes été achevé(e)s
+vous eûtes été achevé(e)s
+ils (elles) eurent été achevé(e)s
+
+** Futur antérieur
+
+j'aurai été achevé(e)
+tu auras été achevé(e)
+il (elle) aura été achevé(e)
+nous aurons été achevé(e)s
+vous aurez été achevé(e)s
+ils (elles) auront été achevé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été achevé(e)
+j'aurais été achevé(e)
+il (elle) aurait été achevé(e)
+nous aurions été achevé(e)s
+vous auriez été achevé(e)s
+ils (elles) auraient été achevé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été achevé(e)
+que tu aies été achevé(e)
+qu’il (elle) ait été achevé(e)
+que nous ayons été achevé(e)s
+que vous ayez été achevé(e)s
+qu’ils (elles) aient été achevé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été achevé(e)
+que tu eusses été achevé(e)
+qu’il (elle) eût été achevé(e)
+que nous eussions été achevé(e)s
+que vous eussiez été achevé(e)s
+qu’ils (elles) eussent été achevé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été achevé(e)
+ayons été achevé(e)s
+ayez été achevé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été achevé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été achevé(e)(s)

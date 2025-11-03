@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cacher
+
+* INDICATIF
+
+** Présent
+
+je cache
+tu caches
+il (elle) cache
+nous cachons
+vous cachez
+ils (elles) cachent
+
+** Imparfait
+
+je cachais
+tu cachais
+il (elle) cachait
+nous cachions
+vous cachiez
+ils (elles) cachaient
+
+** Passé simple
+
+je cachai
+tu cachas
+il (elle) cacha
+nous cachâmes
+vous cachâtes
+ils (elles) cachèrent
+
+** Futur simple
+
+je cacherai
+tu cacheras
+il (elle) cachera
+nous cacherons
+vous cacherez
+ils (elles) cacheront
+
+* CONDITIONNEL
+
+** Présent
+
+je cacherais
+tu cacherais
+il (elle) cacherait
+nous cacherions
+vous cacheriez
+ils (elles) cacheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cache
+que tu caches
+qu’il (elle) cache
+que nous cachions
+que vous cachiez
+qu’ils (elles) cachent
+
+** Imparfait
+
+que je cachasse
+que tu cachasses
+qu’il (elle) cachât
+que nous cachassions
+que vous cachassiez
+qu’ils (elles) cachassent
+
+* IMPÉRATIF
+
+** Présent
+
+cache
+cachons
+cachez
+
+* INFINITIF
+
+** Présent
+
+cacher
+
+* PARTICIPE
+
+** Présent
+
+cachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai caché
+tu as caché
+il (elle) a caché
+nous avons caché
+vous avez caché
+ils (elles) ont caché
+
+** Plus-que-parfait
+
+j'avais caché
+tu avais caché
+il (elle) avait caché
+nous avions caché
+vous aviez caché
+ils (elles) avaient caché
+
+** Passé antérieur
+
+j'eus caché
+tu eus caché
+il (elle) eut caché
+nous eûmes caché
+vous eûtes caché
+ils (elles) eurent caché
+
+** Futur antérieur
+
+j'aurai caché
+tu auras caché
+il (elle) aura caché
+nous aurons caché
+vous aurez caché
+ils (elles) auront caché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais caché
+tu aurais caché
+il (elle) aurait caché
+nous aurions caché
+vous auriez caché
+ils (elles) auraient caché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie caché
+que tu aies caché
+qu’il (elle) ait caché
+que nous ayons caché
+que vous ayez caché
+qu’ils (elles) aient caché
+
+** Plus-que-parfait
+
+que j'eusse caché
+que tu eusses caché
+qu’il (elle) eût caché
+que nous eussions caché
+que vous eussiez caché
+qu’ils (elles) eussent caché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons caché
+ayez caché
+
+* INFINITIF
+
+** Passé
+
+avoir caché
+
+* PARTICIPE
+
+** Passé
+
+ayant caché
+caché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis caché(e)
+tu es caché(e)
+il (elle) est caché(e)
+nous sommes caché(e)s
+vous êtes caché(e)s
+ils (elles) sont caché(e)s
+
+** Imparfait
+
+j'étais caché(e)
+tu étais caché(e)
+il (elle) était caché(e)
+nous étions caché(e)s
+vous étiez caché(e)s
+ils (elles) étaient caché(e)s
+
+** Passé simple
+
+je fus caché(e)
+tu fus caché(e)
+il (elle) fut caché(e)
+nous fûmes caché(e)s
+vous fûtes caché(e)s
+ils (elles) furent caché(e)s
+
+** Futur simple
+
+je serai caché(e)
+tu seras caché(e)
+il (elle) sera caché(e)
+nous serons caché(e)s
+vous serez caché(e)s
+ils (elles) seront caché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais caché(e)
+tu serais caché(e)
+il (elle) serait caché(e)
+nous serions caché(e)s
+vous seriez caché(e)s
+ils (elles) seraient caché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois caché(e)
+que tu sois caché(e)
+qu’il (elle) soit caché(e)
+que nous soyons caché(e)s
+que vous soyez caché(e)s
+qu’ils (elles) soient caché(e)s
+
+** Imparfait
+
+que je fusse caché(e)
+que tu fusses caché(e)
+qu’il (elle) fût caché(e)
+que nous fussions caché(e)s
+que vous fussiez caché(e)s
+qu’ils (elles) fussent caché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons caché(e)s
+soyez caché(e)s
+
+* INFINITIF
+
+** Présent
+
+être caché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant caché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été caché(e)
+tu as été caché(e)
+il (elle) a été caché(e)
+nous avons été caché(e)s
+vous avez été caché(e)s
+ils (elles) ont été caché(e)s
+
+** Plus-que-parfait
+
+j'avais été caché(e)
+il (elle) avait été caché(e)
+nous avions été caché(e)s
+ils (elles) avaient été caché(e)s
+
+** Passé antérieur
+
+j'eus été caché(e)
+tu eus été caché(e)
+il (elle) eut été caché(e)
+nous eûmes été caché(e)s
+vous eûtes été caché(e)s
+ils (elles) eurent été caché(e)s
+
+** Futur antérieur
+
+j'aurai été caché(e)
+tu auras été caché(e)
+il (elle) aura été caché(e)
+nous aurons été caché(e)s
+vous aurez été caché(e)s
+ils (elles) auront été caché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été caché(e)
+j'aurais été caché(e)
+il (elle) aurait été caché(e)
+nous aurions été caché(e)s
+vous auriez été caché(e)s
+ils (elles) auraient été caché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été caché(e)
+que tu aies été caché(e)
+qu’il (elle) ait été caché(e)
+que nous ayons été caché(e)s
+que vous ayez été caché(e)s
+qu’ils (elles) aient été caché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été caché(e)
+que tu eusses été caché(e)
+qu’il (elle) eût été caché(e)
+que nous eussions été caché(e)s
+que vous eussiez été caché(e)s
+qu’ils (elles) eussent été caché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été caché(e)
+ayons été caché(e)s
+ayez été caché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été caché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été caché(e)(s)

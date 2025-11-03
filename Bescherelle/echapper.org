@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe echapper
+
+* INDICATIF
+
+** Présent
+
+j'échappe
+tu échappes
+il (elle) échappe
+nous échappons
+vous échappez
+ils (elles) échappent
+
+** Imparfait
+
+j'échappais
+tu échappais
+il (elle) échappait
+nous échappions
+vous échappiez
+ils (elles) échappaient
+
+** Passé simple
+
+j'échappai
+tu échappas
+il (elle) échappa
+nous échappâmes
+vous échappâtes
+ils (elles) échappèrent
+
+** Futur simple
+
+j'échapperai
+tu échapperas
+il (elle) échappera
+nous échapperons
+vous échapperez
+ils (elles) échapperont
+
+* CONDITIONNEL
+
+** Présent
+
+j'échapperais
+tu échapperais
+il (elle) échapperait
+nous échapperions
+vous échapperiez
+ils (elles) échapperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'échappe
+que tu échappes
+qu’il (elle) échappe
+que nous échappions
+que vous échappiez
+qu’ils (elles) échappent
+
+** Imparfait
+
+que j'échappasse
+que tu échappasses
+qu’il (elle) échappât
+que nous échappassions
+que vous échappassiez
+qu’ils (elles) échappassent
+
+* IMPÉRATIF
+
+** Présent
+
+échappe
+échappons
+échappez
+
+* INFINITIF
+
+** Présent
+
+échapper
+
+* PARTICIPE
+
+** Présent
+
+échappant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis échappé(e)
+tu as ou es échappé(e)
+il (elle) a ou est échappé(e)
+nous avons ou sommes échappé(e)s
+vous avez ou êtes échappé(e)s
+ils (elles) ont ou sont échappé(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais échappé(e)
+tu avais ou étais échappé(e)
+il (elle) avait ou était échappé(e)
+nous avions ou étions échappé(e)s
+vous aviez ou étiez échappé(e)s
+ils (elles) avaient ou étaient échappé(e)s
+
+** Passé antérieur
+
+j'eus ou fus échappé(e)
+tu eus ou fus échappé(e)
+il (elle) eut ou fut échappé(e)
+nous eûmes ou fûmes échappé(e)s
+vous eûtes ou fûtes échappé(e)s
+ils (elles) eurent ou furent échappé(e)s
+
+** Futur antérieur
+
+j'aurai ou serai échappé(e)
+tu auras ou seras échappé(e)
+il (elle) aura ou sera échappé(e)
+nous aurons ou serons échappé(e)s
+vous aurez ou serez échappé(e)s
+ils (elles) auront ou seront échappé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais échappé(e)
+tu aurais ou serais échappé(e)
+il (elle) aurait ou serait échappé(e)
+nous aurions ou serions échappé(e)s
+vous auriez ou seriez échappé(e)s
+ils (elles) auraient ou seraient échappé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois échappé(e)
+que tu aies ou sois échappé(e)
+qu’il (elle) ait ou soit échappé(e)
+que nous ayons ou soyons échappé(e)s
+que vous ayez ou soyez échappé(e)s
+qu’ils (elles) aient ou soient échappé(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse échappé(e)
+que tu eusses ou fusses échappé(e)
+qu’il (elle) eût ou fût échappé(e)
+que nous eussions ou fussions échappé(e)s
+que vous eussiez ou fussiez échappé(e)s
+qu’ils (elles) eussent ou fussent échappé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons échappé(e)s
+ayez ou soyez échappé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être échappé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant échappé(e)(s)
+échappé (é, ée, és, ées)

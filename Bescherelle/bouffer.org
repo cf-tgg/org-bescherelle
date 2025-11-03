@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouffer
+
+* INDICATIF
+
+** Présent
+
+je bouffe
+tu bouffes
+il (elle) bouffe
+nous bouffons
+vous bouffez
+ils (elles) bouffent
+
+** Imparfait
+
+je bouffais
+tu bouffais
+il (elle) bouffait
+nous bouffions
+vous bouffiez
+ils (elles) bouffaient
+
+** Passé simple
+
+je bouffai
+tu bouffas
+il (elle) bouffa
+nous bouffâmes
+vous bouffâtes
+ils (elles) bouffèrent
+
+** Futur simple
+
+je boufferai
+tu boufferas
+il (elle) bouffera
+nous boufferons
+vous boufferez
+ils (elles) boufferont
+
+* CONDITIONNEL
+
+** Présent
+
+je boufferais
+tu boufferais
+il (elle) boufferait
+nous boufferions
+vous boufferiez
+ils (elles) boufferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bouffe
+que tu bouffes
+qu’il (elle) bouffe
+que nous bouffions
+que vous bouffiez
+qu’ils (elles) bouffent
+
+** Imparfait
+
+que je bouffasse
+que tu bouffasses
+qu’il (elle) bouffât
+que nous bouffassions
+que vous bouffassiez
+qu’ils (elles) bouffassent
+
+* IMPÉRATIF
+
+** Présent
+
+bouffe
+bouffons
+bouffez
+
+* INFINITIF
+
+** Présent
+
+bouffer
+
+* PARTICIPE
+
+** Présent
+
+bouffant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bouffé
+tu as bouffé
+il (elle) a bouffé
+nous avons bouffé
+vous avez bouffé
+ils (elles) ont bouffé
+
+** Plus-que-parfait
+
+j'avais bouffé
+tu avais bouffé
+il (elle) avait bouffé
+nous avions bouffé
+vous aviez bouffé
+ils (elles) avaient bouffé
+
+** Passé antérieur
+
+j'eus bouffé
+tu eus bouffé
+il (elle) eut bouffé
+nous eûmes bouffé
+vous eûtes bouffé
+ils (elles) eurent bouffé
+
+** Futur antérieur
+
+j'aurai bouffé
+tu auras bouffé
+il (elle) aura bouffé
+nous aurons bouffé
+vous aurez bouffé
+ils (elles) auront bouffé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bouffé
+tu aurais bouffé
+il (elle) aurait bouffé
+nous aurions bouffé
+vous auriez bouffé
+ils (elles) auraient bouffé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bouffé
+que tu aies bouffé
+qu’il (elle) ait bouffé
+que nous ayons bouffé
+que vous ayez bouffé
+qu’ils (elles) aient bouffé
+
+** Plus-que-parfait
+
+que j'eusse bouffé
+que tu eusses bouffé
+qu’il (elle) eût bouffé
+que nous eussions bouffé
+que vous eussiez bouffé
+qu’ils (elles) eussent bouffé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bouffé
+ayez bouffé
+
+* INFINITIF
+
+** Passé
+
+avoir bouffé
+
+* PARTICIPE
+
+** Passé
+
+ayant bouffé
+bouffé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bouffé(e)
+tu es bouffé(e)
+il (elle) est bouffé(e)
+nous sommes bouffé(e)s
+vous êtes bouffé(e)s
+ils (elles) sont bouffé(e)s
+
+** Imparfait
+
+j'étais bouffé(e)
+tu étais bouffé(e)
+il (elle) était bouffé(e)
+nous étions bouffé(e)s
+vous étiez bouffé(e)s
+ils (elles) étaient bouffé(e)s
+
+** Passé simple
+
+je fus bouffé(e)
+tu fus bouffé(e)
+il (elle) fut bouffé(e)
+nous fûmes bouffé(e)s
+vous fûtes bouffé(e)s
+ils (elles) furent bouffé(e)s
+
+** Futur simple
+
+je serai bouffé(e)
+tu seras bouffé(e)
+il (elle) sera bouffé(e)
+nous serons bouffé(e)s
+vous serez bouffé(e)s
+ils (elles) seront bouffé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bouffé(e)
+tu serais bouffé(e)
+il (elle) serait bouffé(e)
+nous serions bouffé(e)s
+vous seriez bouffé(e)s
+ils (elles) seraient bouffé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bouffé(e)
+que tu sois bouffé(e)
+qu’il (elle) soit bouffé(e)
+que nous soyons bouffé(e)s
+que vous soyez bouffé(e)s
+qu’ils (elles) soient bouffé(e)s
+
+** Imparfait
+
+que je fusse bouffé(e)
+que tu fusses bouffé(e)
+qu’il (elle) fût bouffé(e)
+que nous fussions bouffé(e)s
+que vous fussiez bouffé(e)s
+qu’ils (elles) fussent bouffé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bouffé(e)s
+soyez bouffé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bouffé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bouffé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bouffé(e)
+tu as été bouffé(e)
+il (elle) a été bouffé(e)
+nous avons été bouffé(e)s
+vous avez été bouffé(e)s
+ils (elles) ont été bouffé(e)s
+
+** Plus-que-parfait
+
+j'avais été bouffé(e)
+il (elle) avait été bouffé(e)
+nous avions été bouffé(e)s
+ils (elles) avaient été bouffé(e)s
+
+** Passé antérieur
+
+j'eus été bouffé(e)
+tu eus été bouffé(e)
+il (elle) eut été bouffé(e)
+nous eûmes été bouffé(e)s
+vous eûtes été bouffé(e)s
+ils (elles) eurent été bouffé(e)s
+
+** Futur antérieur
+
+j'aurai été bouffé(e)
+tu auras été bouffé(e)
+il (elle) aura été bouffé(e)
+nous aurons été bouffé(e)s
+vous aurez été bouffé(e)s
+ils (elles) auront été bouffé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bouffé(e)
+j'aurais été bouffé(e)
+il (elle) aurait été bouffé(e)
+nous aurions été bouffé(e)s
+vous auriez été bouffé(e)s
+ils (elles) auraient été bouffé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bouffé(e)
+que tu aies été bouffé(e)
+qu’il (elle) ait été bouffé(e)
+que nous ayons été bouffé(e)s
+que vous ayez été bouffé(e)s
+qu’ils (elles) aient été bouffé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bouffé(e)
+que tu eusses été bouffé(e)
+qu’il (elle) eût été bouffé(e)
+que nous eussions été bouffé(e)s
+que vous eussiez été bouffé(e)s
+qu’ils (elles) eussent été bouffé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bouffé(e)
+ayons été bouffé(e)s
+ayez été bouffé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bouffé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bouffé(e)(s)

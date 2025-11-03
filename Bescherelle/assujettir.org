@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assujettir
+
+* INDICATIF
+
+** Présent
+
+j'assujettis
+tu assujettis
+il (elle) assujettit
+nous assujettissons
+vous assujettissez
+ils (elles) assujettissent
+
+** Imparfait
+
+j'assujettissais
+tu assujettissais
+il (elle) assujettissait
+nous assujettissions
+vous assujettissiez
+ils (elles) assujettissaient
+
+** Passé simple
+
+j'assujettis
+tu assujettis
+il (elle) assujettit
+nous assujettîmes
+vous assujettîtes
+ils (elles) assujettirent
+
+** Futur simple
+
+j'assujettirai
+tu assujettiras
+il (elle) assujettira
+nous assujettirons
+vous assujettirez
+ils (elles) assujettiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assujettirais
+tu assujettirais
+il (elle) assujettirait
+nous assujettirions
+vous assujettiriez
+ils (elles) assujettiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assujettisse
+que tu assujettisses
+qu’il (elle) assujettisse
+que nous assujettissions
+que vous assujettissiez
+qu’ils (elles) assujettissent
+
+** Imparfait
+
+que j'assujettisse
+que tu assujettisses
+qu’il (elle) assujettît
+que nous assujettissions
+que vous assujettissiez
+qu’ils (elles) assujettissent
+
+* IMPÉRATIF
+
+** Présent
+
+assujettis
+assujettissons
+assujettissez
+
+* INFINITIF
+
+** Présent
+
+assujettir
+
+* PARTICIPE
+
+** Présent
+
+assujettissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assujetti
+tu as assujetti
+il (elle) a assujetti
+nous avons assujetti
+vous avez assujetti
+ils (elles) ont assujetti
+
+** Plus-que-parfait
+
+j'avais assujetti
+tu avais assujetti
+il (elle) avait assujetti
+nous avions assujetti
+vous aviez assujetti
+ils (elles) avaient assujetti
+
+** Passé antérieur
+
+j'eus assujetti
+tu eus assujetti
+il (elle) eut assujetti
+nous eûmes assujetti
+vous eûtes assujetti
+ils (elles) eurent assujetti
+
+** Futur antérieur
+
+j'aurai assujetti
+tu auras assujetti
+il (elle) aura assujetti
+nous aurons assujetti
+vous aurez assujetti
+ils (elles) auront assujetti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assujetti
+tu aurais assujetti
+il (elle) aurait assujetti
+nous aurions assujetti
+vous auriez assujetti
+ils (elles) auraient assujetti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assujetti
+que tu aies assujetti
+qu’il (elle) ait assujetti
+que nous ayons assujetti
+que vous ayez assujetti
+qu’ils (elles) aient assujetti
+
+** Plus-que-parfait
+
+que j'eusse assujetti
+que tu eusses assujetti
+qu’il (elle) eût assujetti
+que nous eussions assujetti
+que vous eussiez assujetti
+qu’ils (elles) eussent assujetti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assujetti
+ayez assujetti
+
+* INFINITIF
+
+** Passé
+
+avoir assujetti
+
+* PARTICIPE
+
+** Passé
+
+ayant assujetti
+assujetti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis assujetti(e)
+tu es assujetti(e)
+il (elle) est assujetti(e)
+nous sommes assujetti(e)s
+vous êtes assujetti(e)s
+ils (elles) sont assujetti(e)s
+
+** Imparfait
+
+j'étais assujetti(e)
+tu étais assujetti(e)
+il (elle) était assujetti(e)
+nous étions assujetti(e)s
+vous étiez assujetti(e)s
+ils (elles) étaient assujetti(e)s
+
+** Passé simple
+
+je fus assujetti(e)
+tu fus assujetti(e)
+il (elle) fut assujetti(e)
+nous fûmes assujetti(e)s
+vous fûtes assujetti(e)s
+ils (elles) furent assujetti(e)s
+
+** Futur simple
+
+je serai assujetti(e)
+tu seras assujetti(e)
+il (elle) sera assujetti(e)
+nous serons assujetti(e)s
+vous serez assujetti(e)s
+ils (elles) seront assujetti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assujetti(e)
+tu serais assujetti(e)
+il (elle) serait assujetti(e)
+nous serions assujetti(e)s
+vous seriez assujetti(e)s
+ils (elles) seraient assujetti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assujetti(e)
+que tu sois assujetti(e)
+qu’il (elle) soit assujetti(e)
+que nous soyons assujetti(e)s
+que vous soyez assujetti(e)s
+qu’ils (elles) soient assujetti(e)s
+
+** Imparfait
+
+que je fusse assujetti(e)
+que tu fusses assujetti(e)
+qu’il (elle) fût assujetti(e)
+que nous fussions assujetti(e)s
+que vous fussiez assujetti(e)s
+qu’ils (elles) fussent assujetti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assujetti(e)s
+soyez assujetti(e)s
+
+* INFINITIF
+
+** Présent
+
+être assujetti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assujetti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assujetti(e)
+tu as été assujetti(e)
+il (elle) a été assujetti(e)
+nous avons été assujetti(e)s
+vous avez été assujetti(e)s
+ils (elles) ont été assujetti(e)s
+
+** Plus-que-parfait
+
+j'avais été assujetti(e)
+il (elle) avait été assujetti(e)
+nous avions été assujetti(e)s
+ils (elles) avaient été assujetti(e)s
+
+** Passé antérieur
+
+j'eus été assujetti(e)
+tu eus été assujetti(e)
+il (elle) eut été assujetti(e)
+nous eûmes été assujetti(e)s
+vous eûtes été assujetti(e)s
+ils (elles) eurent été assujetti(e)s
+
+** Futur antérieur
+
+j'aurai été assujetti(e)
+tu auras été assujetti(e)
+il (elle) aura été assujetti(e)
+nous aurons été assujetti(e)s
+vous aurez été assujetti(e)s
+ils (elles) auront été assujetti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assujetti(e)
+j'aurais été assujetti(e)
+il (elle) aurait été assujetti(e)
+nous aurions été assujetti(e)s
+vous auriez été assujetti(e)s
+ils (elles) auraient été assujetti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assujetti(e)
+que tu aies été assujetti(e)
+qu’il (elle) ait été assujetti(e)
+que nous ayons été assujetti(e)s
+que vous ayez été assujetti(e)s
+qu’ils (elles) aient été assujetti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assujetti(e)
+que tu eusses été assujetti(e)
+qu’il (elle) eût été assujetti(e)
+que nous eussions été assujetti(e)s
+que vous eussiez été assujetti(e)s
+qu’ils (elles) eussent été assujetti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assujetti(e)
+ayons été assujetti(e)s
+ayez été assujetti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assujetti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assujetti(e)(s)

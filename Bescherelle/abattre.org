@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abattre
+
+* INDICATIF
+
+** Présent
+
+j'abats
+tu abats
+il (elle) abat
+nous abattons
+vous abattez
+ils (elles) abattent
+
+** Imparfait
+
+j'abattais
+tu abattais
+il (elle) abattait
+nous abattions
+vous abattiez
+ils (elles) abattaient
+
+** Passé simple
+
+j'abattis
+tu abattis
+il (elle) abattit
+nous abattîmes
+vous abattîtes
+ils (elles) abattirent
+
+** Futur simple
+
+j'abattrai
+tu abattras
+il (elle) abattra
+nous abattrons
+vous abattrez
+ils (elles) abattront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abattrais
+tu abattrais
+il (elle) abattrait
+nous abattrions
+vous abattriez
+ils (elles) abattraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abatte
+que tu abattes
+qu’il (elle) abatte
+que nous abattions
+que vous abattiez
+qu’ils (elles) abattent
+
+** Imparfait
+
+que j'abattisse
+que tu abattisses
+qu’il (elle) abattît
+que nous abattissions
+que vous abattissiez
+qu’ils (elles) abattissent
+
+* IMPÉRATIF
+
+** Présent
+
+abats
+abattons
+abattez
+
+* INFINITIF
+
+** Présent
+
+abattre
+
+* PARTICIPE
+
+** Présent
+
+abattant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abattu
+tu as abattu
+il (elle) a abattu
+nous avons abattu
+vous avez abattu
+ils (elles) ont abattu
+
+** Plus-que-parfait
+
+j'avais abattu
+tu avais abattu
+il (elle) avait abattu
+nous avions abattu
+vous aviez abattu
+ils (elles) avaient abattu
+
+** Passé antérieur
+
+j'eus abattu
+tu eus abattu
+il (elle) eut abattu
+nous eûmes abattu
+vous eûtes abattu
+ils (elles) eurent abattu
+
+** Futur antérieur
+
+j'aurai abattu
+tu auras abattu
+il (elle) aura abattu
+nous aurons abattu
+vous aurez abattu
+ils (elles) auront abattu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abattu
+tu aurais abattu
+il (elle) aurait abattu
+nous aurions abattu
+vous auriez abattu
+ils (elles) auraient abattu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abattu
+que tu aies abattu
+qu’il (elle) ait abattu
+que nous ayons abattu
+que vous ayez abattu
+qu’ils (elles) aient abattu
+
+** Plus-que-parfait
+
+que j'eusse abattu
+que tu eusses abattu
+qu’il (elle) eût abattu
+que nous eussions abattu
+que vous eussiez abattu
+qu’ils (elles) eussent abattu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abattu
+ayez abattu
+
+* INFINITIF
+
+** Passé
+
+avoir abattu
+
+* PARTICIPE
+
+** Passé
+
+ayant abattu
+abattu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis abattu(e)
+tu es abattu(e)
+il (elle) est abattu(e)
+nous sommes abattu(e)s
+vous êtes abattu(e)s
+ils (elles) sont abattu(e)s
+
+** Imparfait
+
+j'étais abattu(e)
+tu étais abattu(e)
+il (elle) était abattu(e)
+nous étions abattu(e)s
+vous étiez abattu(e)s
+ils (elles) étaient abattu(e)s
+
+** Passé simple
+
+je fus abattu(e)
+tu fus abattu(e)
+il (elle) fut abattu(e)
+nous fûmes abattu(e)s
+vous fûtes abattu(e)s
+ils (elles) furent abattu(e)s
+
+** Futur simple
+
+je serai abattu(e)
+tu seras abattu(e)
+il (elle) sera abattu(e)
+nous serons abattu(e)s
+vous serez abattu(e)s
+ils (elles) seront abattu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abattu(e)
+tu serais abattu(e)
+il (elle) serait abattu(e)
+nous serions abattu(e)s
+vous seriez abattu(e)s
+ils (elles) seraient abattu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abattu(e)
+que tu sois abattu(e)
+qu’il (elle) soit abattu(e)
+que nous soyons abattu(e)s
+que vous soyez abattu(e)s
+qu’ils (elles) soient abattu(e)s
+
+** Imparfait
+
+que je fusse abattu(e)
+que tu fusses abattu(e)
+qu’il (elle) fût abattu(e)
+que nous fussions abattu(e)s
+que vous fussiez abattu(e)s
+qu’ils (elles) fussent abattu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abattu(e)s
+soyez abattu(e)s
+
+* INFINITIF
+
+** Présent
+
+être abattu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abattu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abattu(e)
+tu as été abattu(e)
+il (elle) a été abattu(e)
+nous avons été abattu(e)s
+vous avez été abattu(e)s
+ils (elles) ont été abattu(e)s
+
+** Plus-que-parfait
+
+j'avais été abattu(e)
+il (elle) avait été abattu(e)
+nous avions été abattu(e)s
+ils (elles) avaient été abattu(e)s
+
+** Passé antérieur
+
+j'eus été abattu(e)
+tu eus été abattu(e)
+il (elle) eut été abattu(e)
+nous eûmes été abattu(e)s
+vous eûtes été abattu(e)s
+ils (elles) eurent été abattu(e)s
+
+** Futur antérieur
+
+j'aurai été abattu(e)
+tu auras été abattu(e)
+il (elle) aura été abattu(e)
+nous aurons été abattu(e)s
+vous aurez été abattu(e)s
+ils (elles) auront été abattu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abattu(e)
+j'aurais été abattu(e)
+il (elle) aurait été abattu(e)
+nous aurions été abattu(e)s
+vous auriez été abattu(e)s
+ils (elles) auraient été abattu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abattu(e)
+que tu aies été abattu(e)
+qu’il (elle) ait été abattu(e)
+que nous ayons été abattu(e)s
+que vous ayez été abattu(e)s
+qu’ils (elles) aient été abattu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abattu(e)
+que tu eusses été abattu(e)
+qu’il (elle) eût été abattu(e)
+que nous eussions été abattu(e)s
+que vous eussiez été abattu(e)s
+qu’ils (elles) eussent été abattu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abattu(e)
+ayons été abattu(e)s
+ayez été abattu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abattu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abattu(e)(s)

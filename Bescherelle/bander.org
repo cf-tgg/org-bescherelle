@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bander
+
+* INDICATIF
+
+** Présent
+
+je bande
+tu bandes
+il (elle) bande
+nous bandons
+vous bandez
+ils (elles) bandent
+
+** Imparfait
+
+je bandais
+tu bandais
+il (elle) bandait
+nous bandions
+vous bandiez
+ils (elles) bandaient
+
+** Passé simple
+
+je bandai
+tu bandas
+il (elle) banda
+nous bandâmes
+vous bandâtes
+ils (elles) bandèrent
+
+** Futur simple
+
+je banderai
+tu banderas
+il (elle) bandera
+nous banderons
+vous banderez
+ils (elles) banderont
+
+* CONDITIONNEL
+
+** Présent
+
+je banderais
+tu banderais
+il (elle) banderait
+nous banderions
+vous banderiez
+ils (elles) banderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bande
+que tu bandes
+qu’il (elle) bande
+que nous bandions
+que vous bandiez
+qu’ils (elles) bandent
+
+** Imparfait
+
+que je bandasse
+que tu bandasses
+qu’il (elle) bandât
+que nous bandassions
+que vous bandassiez
+qu’ils (elles) bandassent
+
+* IMPÉRATIF
+
+** Présent
+
+bande
+bandons
+bandez
+
+* INFINITIF
+
+** Présent
+
+bander
+
+* PARTICIPE
+
+** Présent
+
+bandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bandé
+tu as bandé
+il (elle) a bandé
+nous avons bandé
+vous avez bandé
+ils (elles) ont bandé
+
+** Plus-que-parfait
+
+j'avais bandé
+tu avais bandé
+il (elle) avait bandé
+nous avions bandé
+vous aviez bandé
+ils (elles) avaient bandé
+
+** Passé antérieur
+
+j'eus bandé
+tu eus bandé
+il (elle) eut bandé
+nous eûmes bandé
+vous eûtes bandé
+ils (elles) eurent bandé
+
+** Futur antérieur
+
+j'aurai bandé
+tu auras bandé
+il (elle) aura bandé
+nous aurons bandé
+vous aurez bandé
+ils (elles) auront bandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bandé
+tu aurais bandé
+il (elle) aurait bandé
+nous aurions bandé
+vous auriez bandé
+ils (elles) auraient bandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bandé
+que tu aies bandé
+qu’il (elle) ait bandé
+que nous ayons bandé
+que vous ayez bandé
+qu’ils (elles) aient bandé
+
+** Plus-que-parfait
+
+que j'eusse bandé
+que tu eusses bandé
+qu’il (elle) eût bandé
+que nous eussions bandé
+que vous eussiez bandé
+qu’ils (elles) eussent bandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bandé
+ayez bandé
+
+* INFINITIF
+
+** Passé
+
+avoir bandé
+
+* PARTICIPE
+
+** Passé
+
+ayant bandé
+bandé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bandé(e)
+tu es bandé(e)
+il (elle) est bandé(e)
+nous sommes bandé(e)s
+vous êtes bandé(e)s
+ils (elles) sont bandé(e)s
+
+** Imparfait
+
+j'étais bandé(e)
+tu étais bandé(e)
+il (elle) était bandé(e)
+nous étions bandé(e)s
+vous étiez bandé(e)s
+ils (elles) étaient bandé(e)s
+
+** Passé simple
+
+je fus bandé(e)
+tu fus bandé(e)
+il (elle) fut bandé(e)
+nous fûmes bandé(e)s
+vous fûtes bandé(e)s
+ils (elles) furent bandé(e)s
+
+** Futur simple
+
+je serai bandé(e)
+tu seras bandé(e)
+il (elle) sera bandé(e)
+nous serons bandé(e)s
+vous serez bandé(e)s
+ils (elles) seront bandé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bandé(e)
+tu serais bandé(e)
+il (elle) serait bandé(e)
+nous serions bandé(e)s
+vous seriez bandé(e)s
+ils (elles) seraient bandé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bandé(e)
+que tu sois bandé(e)
+qu’il (elle) soit bandé(e)
+que nous soyons bandé(e)s
+que vous soyez bandé(e)s
+qu’ils (elles) soient bandé(e)s
+
+** Imparfait
+
+que je fusse bandé(e)
+que tu fusses bandé(e)
+qu’il (elle) fût bandé(e)
+que nous fussions bandé(e)s
+que vous fussiez bandé(e)s
+qu’ils (elles) fussent bandé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bandé(e)s
+soyez bandé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bandé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bandé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bandé(e)
+tu as été bandé(e)
+il (elle) a été bandé(e)
+nous avons été bandé(e)s
+vous avez été bandé(e)s
+ils (elles) ont été bandé(e)s
+
+** Plus-que-parfait
+
+j'avais été bandé(e)
+il (elle) avait été bandé(e)
+nous avions été bandé(e)s
+ils (elles) avaient été bandé(e)s
+
+** Passé antérieur
+
+j'eus été bandé(e)
+tu eus été bandé(e)
+il (elle) eut été bandé(e)
+nous eûmes été bandé(e)s
+vous eûtes été bandé(e)s
+ils (elles) eurent été bandé(e)s
+
+** Futur antérieur
+
+j'aurai été bandé(e)
+tu auras été bandé(e)
+il (elle) aura été bandé(e)
+nous aurons été bandé(e)s
+vous aurez été bandé(e)s
+ils (elles) auront été bandé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bandé(e)
+j'aurais été bandé(e)
+il (elle) aurait été bandé(e)
+nous aurions été bandé(e)s
+vous auriez été bandé(e)s
+ils (elles) auraient été bandé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bandé(e)
+que tu aies été bandé(e)
+qu’il (elle) ait été bandé(e)
+que nous ayons été bandé(e)s
+que vous ayez été bandé(e)s
+qu’ils (elles) aient été bandé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bandé(e)
+que tu eusses été bandé(e)
+qu’il (elle) eût été bandé(e)
+que nous eussions été bandé(e)s
+que vous eussiez été bandé(e)s
+qu’ils (elles) eussent été bandé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bandé(e)
+ayons été bandé(e)s
+ayez été bandé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bandé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bandé(e)(s)

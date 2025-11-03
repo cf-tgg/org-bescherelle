@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sertir
+
+* INDICATIF
+
+** Présent
+
+je sertis
+tu sertis
+il (elle) sertit
+nous sertissons
+vous sertissez
+ils (elles) sertissent
+
+** Imparfait
+
+je sertissais
+tu sertissais
+il (elle) sertissait
+nous sertissions
+vous sertissiez
+ils (elles) sertissaient
+
+** Passé simple
+
+je sertis
+tu sertis
+il (elle) sertit
+nous sertîmes
+vous sertîtes
+ils (elles) sertirent
+
+** Futur simple
+
+je sertirai
+tu sertiras
+il (elle) sertira
+nous sertirons
+vous sertirez
+ils (elles) sertiront
+
+* CONDITIONNEL
+
+** Présent
+
+je sertirais
+tu sertirais
+il (elle) sertirait
+nous sertirions
+vous sertiriez
+ils (elles) sertiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sertisse
+que tu sertisses
+qu’il (elle) sertisse
+que nous sertissions
+que vous sertissiez
+qu’ils (elles) sertissent
+
+** Imparfait
+
+que je sertisse
+que tu sertisses
+qu’il (elle) sertît
+que nous sertissions
+que vous sertissiez
+qu’ils (elles) sertissent
+
+* IMPÉRATIF
+
+** Présent
+
+sertis
+sertissons
+sertissez
+
+* INFINITIF
+
+** Présent
+
+sertir
+
+* PARTICIPE
+
+** Présent
+
+sertissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai serti
+tu as serti
+il (elle) a serti
+nous avons serti
+vous avez serti
+ils (elles) ont serti
+
+** Plus-que-parfait
+
+j'avais serti
+tu avais serti
+il (elle) avait serti
+nous avions serti
+vous aviez serti
+ils (elles) avaient serti
+
+** Passé antérieur
+
+j'eus serti
+tu eus serti
+il (elle) eut serti
+nous eûmes serti
+vous eûtes serti
+ils (elles) eurent serti
+
+** Futur antérieur
+
+j'aurai serti
+tu auras serti
+il (elle) aura serti
+nous aurons serti
+vous aurez serti
+ils (elles) auront serti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais serti
+tu aurais serti
+il (elle) aurait serti
+nous aurions serti
+vous auriez serti
+ils (elles) auraient serti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie serti
+que tu aies serti
+qu’il (elle) ait serti
+que nous ayons serti
+que vous ayez serti
+qu’ils (elles) aient serti
+
+** Plus-que-parfait
+
+que j'eusse serti
+que tu eusses serti
+qu’il (elle) eût serti
+que nous eussions serti
+que vous eussiez serti
+qu’ils (elles) eussent serti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons serti
+ayez serti
+
+* INFINITIF
+
+** Passé
+
+avoir serti
+
+* PARTICIPE
+
+** Passé
+
+ayant serti
+serti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis serti(e)
+tu es serti(e)
+il (elle) est serti(e)
+nous sommes serti(e)s
+vous êtes serti(e)s
+ils (elles) sont serti(e)s
+
+** Imparfait
+
+j'étais serti(e)
+tu étais serti(e)
+il (elle) était serti(e)
+nous étions serti(e)s
+vous étiez serti(e)s
+ils (elles) étaient serti(e)s
+
+** Passé simple
+
+je fus serti(e)
+tu fus serti(e)
+il (elle) fut serti(e)
+nous fûmes serti(e)s
+vous fûtes serti(e)s
+ils (elles) furent serti(e)s
+
+** Futur simple
+
+je serai serti(e)
+tu seras serti(e)
+il (elle) sera serti(e)
+nous serons serti(e)s
+vous serez serti(e)s
+ils (elles) seront serti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais serti(e)
+tu serais serti(e)
+il (elle) serait serti(e)
+nous serions serti(e)s
+vous seriez serti(e)s
+ils (elles) seraient serti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois serti(e)
+que tu sois serti(e)
+qu’il (elle) soit serti(e)
+que nous soyons serti(e)s
+que vous soyez serti(e)s
+qu’ils (elles) soient serti(e)s
+
+** Imparfait
+
+que je fusse serti(e)
+que tu fusses serti(e)
+qu’il (elle) fût serti(e)
+que nous fussions serti(e)s
+que vous fussiez serti(e)s
+qu’ils (elles) fussent serti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons serti(e)s
+soyez serti(e)s
+
+* INFINITIF
+
+** Présent
+
+être serti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant serti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été serti(e)
+tu as été serti(e)
+il (elle) a été serti(e)
+nous avons été serti(e)s
+vous avez été serti(e)s
+ils (elles) ont été serti(e)s
+
+** Plus-que-parfait
+
+j'avais été serti(e)
+il (elle) avait été serti(e)
+nous avions été serti(e)s
+ils (elles) avaient été serti(e)s
+
+** Passé antérieur
+
+j'eus été serti(e)
+tu eus été serti(e)
+il (elle) eut été serti(e)
+nous eûmes été serti(e)s
+vous eûtes été serti(e)s
+ils (elles) eurent été serti(e)s
+
+** Futur antérieur
+
+j'aurai été serti(e)
+tu auras été serti(e)
+il (elle) aura été serti(e)
+nous aurons été serti(e)s
+vous aurez été serti(e)s
+ils (elles) auront été serti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été serti(e)
+j'aurais été serti(e)
+il (elle) aurait été serti(e)
+nous aurions été serti(e)s
+vous auriez été serti(e)s
+ils (elles) auraient été serti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été serti(e)
+que tu aies été serti(e)
+qu’il (elle) ait été serti(e)
+que nous ayons été serti(e)s
+que vous ayez été serti(e)s
+qu’ils (elles) aient été serti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été serti(e)
+que tu eusses été serti(e)
+qu’il (elle) eût été serti(e)
+que nous eussions été serti(e)s
+que vous eussiez été serti(e)s
+qu’ils (elles) eussent été serti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été serti(e)
+ayons été serti(e)s
+ayez été serti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été serti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été serti(e)(s)

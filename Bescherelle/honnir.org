@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe honnir
+
+* INDICATIF
+
+** Présent
+
+je honnis
+tu honnis
+il (elle) honnit
+nous honnissons
+vous honnissez
+ils (elles) honnissent
+
+** Imparfait
+
+je honnissais
+tu honnissais
+il (elle) honnissait
+nous honnissions
+vous honnissiez
+ils (elles) honnissaient
+
+** Passé simple
+
+je honnis
+tu honnis
+il (elle) honnit
+nous honnîmes
+vous honnîtes
+ils (elles) honnirent
+
+** Futur simple
+
+je honnirai
+tu honniras
+il (elle) honnira
+nous honnirons
+vous honnirez
+ils (elles) honniront
+
+* CONDITIONNEL
+
+** Présent
+
+je honnirais
+tu honnirais
+il (elle) honnirait
+nous honnirions
+vous honniriez
+ils (elles) honniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je honnisse
+que tu honnisses
+qu’il (elle) honnisse
+que nous honnissions
+que vous honnissiez
+qu’ils (elles) honnissent
+
+** Imparfait
+
+que je honnisse
+que tu honnisses
+qu’il (elle) honnît
+que nous honnissions
+que vous honnissiez
+qu’ils (elles) honnissent
+
+* IMPÉRATIF
+
+** Présent
+
+honnis
+honnissons
+honnissez
+
+* INFINITIF
+
+** Présent
+
+honnir
+
+* PARTICIPE
+
+** Présent
+
+honnissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai honni
+tu as honni
+il (elle) a honni
+nous avons honni
+vous avez honni
+ils (elles) ont honni
+
+** Plus-que-parfait
+
+j'avais honni
+tu avais honni
+il (elle) avait honni
+nous avions honni
+vous aviez honni
+ils (elles) avaient honni
+
+** Passé antérieur
+
+j'eus honni
+tu eus honni
+il (elle) eut honni
+nous eûmes honni
+vous eûtes honni
+ils (elles) eurent honni
+
+** Futur antérieur
+
+j'aurai honni
+tu auras honni
+il (elle) aura honni
+nous aurons honni
+vous aurez honni
+ils (elles) auront honni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais honni
+tu aurais honni
+il (elle) aurait honni
+nous aurions honni
+vous auriez honni
+ils (elles) auraient honni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie honni
+que tu aies honni
+qu’il (elle) ait honni
+que nous ayons honni
+que vous ayez honni
+qu’ils (elles) aient honni
+
+** Plus-que-parfait
+
+que j'eusse honni
+que tu eusses honni
+qu’il (elle) eût honni
+que nous eussions honni
+que vous eussiez honni
+qu’ils (elles) eussent honni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons honni
+ayez honni
+
+* INFINITIF
+
+** Passé
+
+avoir honni
+
+* PARTICIPE
+
+** Passé
+
+ayant honni
+honni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis honni(e)
+tu es honni(e)
+il (elle) est honni(e)
+nous sommes honni(e)s
+vous êtes honni(e)s
+ils (elles) sont honni(e)s
+
+** Imparfait
+
+j'étais honni(e)
+tu étais honni(e)
+il (elle) était honni(e)
+nous étions honni(e)s
+vous étiez honni(e)s
+ils (elles) étaient honni(e)s
+
+** Passé simple
+
+je fus honni(e)
+tu fus honni(e)
+il (elle) fut honni(e)
+nous fûmes honni(e)s
+vous fûtes honni(e)s
+ils (elles) furent honni(e)s
+
+** Futur simple
+
+je serai honni(e)
+tu seras honni(e)
+il (elle) sera honni(e)
+nous serons honni(e)s
+vous serez honni(e)s
+ils (elles) seront honni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais honni(e)
+tu serais honni(e)
+il (elle) serait honni(e)
+nous serions honni(e)s
+vous seriez honni(e)s
+ils (elles) seraient honni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois honni(e)
+que tu sois honni(e)
+qu’il (elle) soit honni(e)
+que nous soyons honni(e)s
+que vous soyez honni(e)s
+qu’ils (elles) soient honni(e)s
+
+** Imparfait
+
+que je fusse honni(e)
+que tu fusses honni(e)
+qu’il (elle) fût honni(e)
+que nous fussions honni(e)s
+que vous fussiez honni(e)s
+qu’ils (elles) fussent honni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons honni(e)s
+soyez honni(e)s
+
+* INFINITIF
+
+** Présent
+
+être honni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant honni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été honni(e)
+tu as été honni(e)
+il (elle) a été honni(e)
+nous avons été honni(e)s
+vous avez été honni(e)s
+ils (elles) ont été honni(e)s
+
+** Plus-que-parfait
+
+j'avais été honni(e)
+il (elle) avait été honni(e)
+nous avions été honni(e)s
+ils (elles) avaient été honni(e)s
+
+** Passé antérieur
+
+j'eus été honni(e)
+tu eus été honni(e)
+il (elle) eut été honni(e)
+nous eûmes été honni(e)s
+vous eûtes été honni(e)s
+ils (elles) eurent été honni(e)s
+
+** Futur antérieur
+
+j'aurai été honni(e)
+tu auras été honni(e)
+il (elle) aura été honni(e)
+nous aurons été honni(e)s
+vous aurez été honni(e)s
+ils (elles) auront été honni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été honni(e)
+j'aurais été honni(e)
+il (elle) aurait été honni(e)
+nous aurions été honni(e)s
+vous auriez été honni(e)s
+ils (elles) auraient été honni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été honni(e)
+que tu aies été honni(e)
+qu’il (elle) ait été honni(e)
+que nous ayons été honni(e)s
+que vous ayez été honni(e)s
+qu’ils (elles) aient été honni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été honni(e)
+que tu eusses été honni(e)
+qu’il (elle) eût été honni(e)
+que nous eussions été honni(e)s
+que vous eussiez été honni(e)s
+qu’ils (elles) eussent été honni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été honni(e)
+ayons été honni(e)s
+ayez été honni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été honni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été honni(e)(s)

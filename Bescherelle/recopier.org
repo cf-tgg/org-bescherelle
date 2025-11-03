@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recopier
+
+* INDICATIF
+
+** Présent
+
+je recopie
+tu recopies
+il (elle) recopie
+nous recopions
+vous recopiez
+ils (elles) recopient
+
+** Imparfait
+
+je recopiais
+tu recopiais
+il (elle) recopiait
+nous recopiions
+vous recopiiez
+ils (elles) recopiaient
+
+** Passé simple
+
+je recopiai
+tu recopias
+il (elle) recopia
+nous recopiâmes
+vous recopiâtes
+ils (elles) recopièrent
+
+** Futur simple
+
+je recopierai
+tu recopieras
+il (elle) recopiera
+nous recopierons
+vous recopierez
+ils (elles) recopieront
+
+* CONDITIONNEL
+
+** Présent
+
+je recopierais
+tu recopierais
+il (elle) recopierait
+nous recopierions
+vous recopieriez
+ils (elles) recopieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recopie
+que tu recopies
+qu’il (elle) recopie
+que nous recopiions
+que vous recopiiez
+qu’ils (elles) recopient
+
+** Imparfait
+
+que je recopiasse
+que tu recopiasses
+qu’il (elle) recopiât
+que nous recopiassions
+que vous recopiassiez
+qu’ils (elles) recopiassent
+
+* IMPÉRATIF
+
+** Présent
+
+recopie
+recopions
+recopiez
+
+* INFINITIF
+
+** Présent
+
+recopier
+
+* PARTICIPE
+
+** Présent
+
+recopiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recopié
+tu as recopié
+il (elle) a recopié
+nous avons recopié
+vous avez recopié
+ils (elles) ont recopié
+
+** Plus-que-parfait
+
+j'avais recopié
+tu avais recopié
+il (elle) avait recopié
+nous avions recopié
+vous aviez recopié
+ils (elles) avaient recopié
+
+** Passé antérieur
+
+j'eus recopié
+tu eus recopié
+il (elle) eut recopié
+nous eûmes recopié
+vous eûtes recopié
+ils (elles) eurent recopié
+
+** Futur antérieur
+
+j'aurai recopié
+tu auras recopié
+il (elle) aura recopié
+nous aurons recopié
+vous aurez recopié
+ils (elles) auront recopié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recopié
+tu aurais recopié
+il (elle) aurait recopié
+nous aurions recopié
+vous auriez recopié
+ils (elles) auraient recopié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recopié
+que tu aies recopié
+qu’il (elle) ait recopié
+que nous ayons recopié
+que vous ayez recopié
+qu’ils (elles) aient recopié
+
+** Plus-que-parfait
+
+que j'eusse recopié
+que tu eusses recopié
+qu’il (elle) eût recopié
+que nous eussions recopié
+que vous eussiez recopié
+qu’ils (elles) eussent recopié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recopié
+ayez recopié
+
+* INFINITIF
+
+** Passé
+
+avoir recopié
+
+* PARTICIPE
+
+** Passé
+
+ayant recopié
+recopié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis recopié(e)
+tu es recopié(e)
+il (elle) est recopié(e)
+nous sommes recopié(e)s
+vous êtes recopié(e)s
+ils (elles) sont recopié(e)s
+
+** Imparfait
+
+j'étais recopié(e)
+tu étais recopié(e)
+il (elle) était recopié(e)
+nous étions recopié(e)s
+vous étiez recopié(e)s
+ils (elles) étaient recopié(e)s
+
+** Passé simple
+
+je fus recopié(e)
+tu fus recopié(e)
+il (elle) fut recopié(e)
+nous fûmes recopié(e)s
+vous fûtes recopié(e)s
+ils (elles) furent recopié(e)s
+
+** Futur simple
+
+je serai recopié(e)
+tu seras recopié(e)
+il (elle) sera recopié(e)
+nous serons recopié(e)s
+vous serez recopié(e)s
+ils (elles) seront recopié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recopié(e)
+tu serais recopié(e)
+il (elle) serait recopié(e)
+nous serions recopié(e)s
+vous seriez recopié(e)s
+ils (elles) seraient recopié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recopié(e)
+que tu sois recopié(e)
+qu’il (elle) soit recopié(e)
+que nous soyons recopié(e)s
+que vous soyez recopié(e)s
+qu’ils (elles) soient recopié(e)s
+
+** Imparfait
+
+que je fusse recopié(e)
+que tu fusses recopié(e)
+qu’il (elle) fût recopié(e)
+que nous fussions recopié(e)s
+que vous fussiez recopié(e)s
+qu’ils (elles) fussent recopié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recopié(e)s
+soyez recopié(e)s
+
+* INFINITIF
+
+** Présent
+
+être recopié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recopié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recopié(e)
+tu as été recopié(e)
+il (elle) a été recopié(e)
+nous avons été recopié(e)s
+vous avez été recopié(e)s
+ils (elles) ont été recopié(e)s
+
+** Plus-que-parfait
+
+j'avais été recopié(e)
+il (elle) avait été recopié(e)
+nous avions été recopié(e)s
+ils (elles) avaient été recopié(e)s
+
+** Passé antérieur
+
+j'eus été recopié(e)
+tu eus été recopié(e)
+il (elle) eut été recopié(e)
+nous eûmes été recopié(e)s
+vous eûtes été recopié(e)s
+ils (elles) eurent été recopié(e)s
+
+** Futur antérieur
+
+j'aurai été recopié(e)
+tu auras été recopié(e)
+il (elle) aura été recopié(e)
+nous aurons été recopié(e)s
+vous aurez été recopié(e)s
+ils (elles) auront été recopié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recopié(e)
+j'aurais été recopié(e)
+il (elle) aurait été recopié(e)
+nous aurions été recopié(e)s
+vous auriez été recopié(e)s
+ils (elles) auraient été recopié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recopié(e)
+que tu aies été recopié(e)
+qu’il (elle) ait été recopié(e)
+que nous ayons été recopié(e)s
+que vous ayez été recopié(e)s
+qu’ils (elles) aient été recopié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recopié(e)
+que tu eusses été recopié(e)
+qu’il (elle) eût été recopié(e)
+que nous eussions été recopié(e)s
+que vous eussiez été recopié(e)s
+qu’ils (elles) eussent été recopié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recopié(e)
+ayons été recopié(e)s
+ayez été recopié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recopié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recopié(e)(s)

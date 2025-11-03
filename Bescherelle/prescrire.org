@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prescrire
+
+* INDICATIF
+
+** Présent
+
+je prescris
+tu prescris
+il (elle) prescrit
+nous prescrivons
+vous prescrivez
+ils (elles) prescrivent
+
+** Imparfait
+
+je prescrivais
+tu prescrivais
+il (elle) prescrivait
+nous prescrivions
+vous prescriviez
+ils (elles) prescrivaient
+
+** Passé simple
+
+je prescrivis
+tu prescrivis
+il (elle) prescrivit
+nous prescrivîmes
+vous prescrivîtes
+ils (elles) prescrivirent
+
+** Futur simple
+
+je prescrirai
+tu prescriras
+il (elle) prescrira
+nous prescrirons
+vous prescrirez
+ils (elles) prescriront
+
+* CONDITIONNEL
+
+** Présent
+
+je prescrirais
+tu prescrirais
+il (elle) prescrirait
+nous prescririons
+vous prescririez
+ils (elles) prescriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prescrive
+que tu prescrives
+qu’il (elle) prescrive
+que nous prescrivions
+que vous prescriviez
+qu’ils (elles) prescrivent
+
+** Imparfait
+
+que je prescrivisse
+que tu prescrivisses
+qu’il (elle) prescrivît
+que nous prescrivissions
+que vous prescrivissiez
+qu’ils (elles) prescrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+prescris
+prescrivons
+prescrivez
+
+* INFINITIF
+
+** Présent
+
+prescrire
+
+* PARTICIPE
+
+** Présent
+
+prescrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prescrit
+tu as prescrit
+il (elle) a prescrit
+nous avons prescrit
+vous avez prescrit
+ils (elles) ont prescrit
+
+** Plus-que-parfait
+
+j'avais prescrit
+tu avais prescrit
+il (elle) avait prescrit
+nous avions prescrit
+vous aviez prescrit
+ils (elles) avaient prescrit
+
+** Passé antérieur
+
+j'eus prescrit
+tu eus prescrit
+il (elle) eut prescrit
+nous eûmes prescrit
+vous eûtes prescrit
+ils (elles) eurent prescrit
+
+** Futur antérieur
+
+j'aurai prescrit
+tu auras prescrit
+il (elle) aura prescrit
+nous aurons prescrit
+vous aurez prescrit
+ils (elles) auront prescrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prescrit
+tu aurais prescrit
+il (elle) aurait prescrit
+nous aurions prescrit
+vous auriez prescrit
+ils (elles) auraient prescrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prescrit
+que tu aies prescrit
+qu’il (elle) ait prescrit
+que nous ayons prescrit
+que vous ayez prescrit
+qu’ils (elles) aient prescrit
+
+** Plus-que-parfait
+
+que j'eusse prescrit
+que tu eusses prescrit
+qu’il (elle) eût prescrit
+que nous eussions prescrit
+que vous eussiez prescrit
+qu’ils (elles) eussent prescrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prescrit
+ayez prescrit
+
+* INFINITIF
+
+** Passé
+
+avoir prescrit
+
+* PARTICIPE
+
+** Passé
+
+ayant prescrit
+prescrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis prescrit(e)
+tu es prescrit(e)
+il (elle) est prescrit(e)
+nous sommes prescrit(e)s
+vous êtes prescrit(e)s
+ils (elles) sont prescrit(e)s
+
+** Imparfait
+
+j'étais prescrit(e)
+tu étais prescrit(e)
+il (elle) était prescrit(e)
+nous étions prescrit(e)s
+vous étiez prescrit(e)s
+ils (elles) étaient prescrit(e)s
+
+** Passé simple
+
+je fus prescrit(e)
+tu fus prescrit(e)
+il (elle) fut prescrit(e)
+nous fûmes prescrit(e)s
+vous fûtes prescrit(e)s
+ils (elles) furent prescrit(e)s
+
+** Futur simple
+
+je serai prescrit(e)
+tu seras prescrit(e)
+il (elle) sera prescrit(e)
+nous serons prescrit(e)s
+vous serez prescrit(e)s
+ils (elles) seront prescrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prescrit(e)
+tu serais prescrit(e)
+il (elle) serait prescrit(e)
+nous serions prescrit(e)s
+vous seriez prescrit(e)s
+ils (elles) seraient prescrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prescrit(e)
+que tu sois prescrit(e)
+qu’il (elle) soit prescrit(e)
+que nous soyons prescrit(e)s
+que vous soyez prescrit(e)s
+qu’ils (elles) soient prescrit(e)s
+
+** Imparfait
+
+que je fusse prescrit(e)
+que tu fusses prescrit(e)
+qu’il (elle) fût prescrit(e)
+que nous fussions prescrit(e)s
+que vous fussiez prescrit(e)s
+qu’ils (elles) fussent prescrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prescrit(e)s
+soyez prescrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être prescrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prescrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prescrit(e)
+tu as été prescrit(e)
+il (elle) a été prescrit(e)
+nous avons été prescrit(e)s
+vous avez été prescrit(e)s
+ils (elles) ont été prescrit(e)s
+
+** Plus-que-parfait
+
+j'avais été prescrit(e)
+il (elle) avait été prescrit(e)
+nous avions été prescrit(e)s
+ils (elles) avaient été prescrit(e)s
+
+** Passé antérieur
+
+j'eus été prescrit(e)
+tu eus été prescrit(e)
+il (elle) eut été prescrit(e)
+nous eûmes été prescrit(e)s
+vous eûtes été prescrit(e)s
+ils (elles) eurent été prescrit(e)s
+
+** Futur antérieur
+
+j'aurai été prescrit(e)
+tu auras été prescrit(e)
+il (elle) aura été prescrit(e)
+nous aurons été prescrit(e)s
+vous aurez été prescrit(e)s
+ils (elles) auront été prescrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prescrit(e)
+j'aurais été prescrit(e)
+il (elle) aurait été prescrit(e)
+nous aurions été prescrit(e)s
+vous auriez été prescrit(e)s
+ils (elles) auraient été prescrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prescrit(e)
+que tu aies été prescrit(e)
+qu’il (elle) ait été prescrit(e)
+que nous ayons été prescrit(e)s
+que vous ayez été prescrit(e)s
+qu’ils (elles) aient été prescrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prescrit(e)
+que tu eusses été prescrit(e)
+qu’il (elle) eût été prescrit(e)
+que nous eussions été prescrit(e)s
+que vous eussiez été prescrit(e)s
+qu’ils (elles) eussent été prescrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prescrit(e)
+ayons été prescrit(e)s
+ayez été prescrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prescrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prescrit(e)(s)

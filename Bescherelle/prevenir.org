@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prevenir
+
+* INDICATIF
+
+** Présent
+
+je préviens
+tu préviens
+il (elle) prévient
+nous prévenons
+vous prévenez
+ils (elles) préviennent
+
+** Imparfait
+
+je prévenais
+tu prévenais
+il (elle) prévenait
+nous prévenions
+vous préveniez
+ils (elles) prévenaient
+
+** Passé simple
+
+je prévins
+tu prévins
+il (elle) prévint
+nous prévînmes
+vous prévîntes
+ils (elles) prévinrent
+
+** Futur simple
+
+je préviendrai
+tu préviendras
+il (elle) préviendra
+nous préviendrons
+vous préviendrez
+ils (elles) préviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je préviendrais
+tu préviendrais
+il (elle) préviendrait
+nous préviendrions
+vous préviendriez
+ils (elles) préviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prévienne
+que tu préviennes
+qu’il (elle) prévienne
+que nous prévenions
+que vous préveniez
+qu’ils (elles) préviennent
+
+** Imparfait
+
+que je prévinsse
+que tu prévinsses
+qu’il (elle) prévînt
+que nous prévinssions
+que vous prévinssiez
+qu’ils (elles) prévinssent
+
+* IMPÉRATIF
+
+** Présent
+
+préviens
+prévenons
+prévenez
+
+* INFINITIF
+
+** Présent
+
+prévenir
+
+* PARTICIPE
+
+** Présent
+
+prévenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prévenu
+tu as prévenu
+il (elle) a prévenu
+nous avons prévenu
+vous avez prévenu
+ils (elles) ont prévenu
+
+** Plus-que-parfait
+
+j'avais prévenu
+tu avais prévenu
+il (elle) avait prévenu
+nous avions prévenu
+vous aviez prévenu
+ils (elles) avaient prévenu
+
+** Passé antérieur
+
+j'eus prévenu
+tu eus prévenu
+il (elle) eut prévenu
+nous eûmes prévenu
+vous eûtes prévenu
+ils (elles) eurent prévenu
+
+** Futur antérieur
+
+j'aurai prévenu
+tu auras prévenu
+il (elle) aura prévenu
+nous aurons prévenu
+vous aurez prévenu
+ils (elles) auront prévenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prévenu
+tu aurais prévenu
+il (elle) aurait prévenu
+nous aurions prévenu
+vous auriez prévenu
+ils (elles) auraient prévenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prévenu
+que tu aies prévenu
+qu’il (elle) ait prévenu
+que nous ayons prévenu
+que vous ayez prévenu
+qu’ils (elles) aient prévenu
+
+** Plus-que-parfait
+
+que j'eusse prévenu
+que tu eusses prévenu
+qu’il (elle) eût prévenu
+que nous eussions prévenu
+que vous eussiez prévenu
+qu’ils (elles) eussent prévenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prévenu
+ayez prévenu
+
+* INFINITIF
+
+** Passé
+
+avoir prévenu
+
+* PARTICIPE
+
+** Passé
+
+ayant prévenu
+prévenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis prévenu(e)
+tu es prévenu(e)
+il (elle) est prévenu(e)
+nous sommes prévenu(e)s
+vous êtes prévenu(e)s
+ils (elles) sont prévenu(e)s
+
+** Imparfait
+
+j'étais prévenu(e)
+tu étais prévenu(e)
+il (elle) était prévenu(e)
+nous étions prévenu(e)s
+vous étiez prévenu(e)s
+ils (elles) étaient prévenu(e)s
+
+** Passé simple
+
+je fus prévenu(e)
+tu fus prévenu(e)
+il (elle) fut prévenu(e)
+nous fûmes prévenu(e)s
+vous fûtes prévenu(e)s
+ils (elles) furent prévenu(e)s
+
+** Futur simple
+
+je serai prévenu(e)
+tu seras prévenu(e)
+il (elle) sera prévenu(e)
+nous serons prévenu(e)s
+vous serez prévenu(e)s
+ils (elles) seront prévenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prévenu(e)
+tu serais prévenu(e)
+il (elle) serait prévenu(e)
+nous serions prévenu(e)s
+vous seriez prévenu(e)s
+ils (elles) seraient prévenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prévenu(e)
+que tu sois prévenu(e)
+qu’il (elle) soit prévenu(e)
+que nous soyons prévenu(e)s
+que vous soyez prévenu(e)s
+qu’ils (elles) soient prévenu(e)s
+
+** Imparfait
+
+que je fusse prévenu(e)
+que tu fusses prévenu(e)
+qu’il (elle) fût prévenu(e)
+que nous fussions prévenu(e)s
+que vous fussiez prévenu(e)s
+qu’ils (elles) fussent prévenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prévenu(e)s
+soyez prévenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être prévenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prévenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prévenu(e)
+tu as été prévenu(e)
+il (elle) a été prévenu(e)
+nous avons été prévenu(e)s
+vous avez été prévenu(e)s
+ils (elles) ont été prévenu(e)s
+
+** Plus-que-parfait
+
+j'avais été prévenu(e)
+il (elle) avait été prévenu(e)
+nous avions été prévenu(e)s
+ils (elles) avaient été prévenu(e)s
+
+** Passé antérieur
+
+j'eus été prévenu(e)
+tu eus été prévenu(e)
+il (elle) eut été prévenu(e)
+nous eûmes été prévenu(e)s
+vous eûtes été prévenu(e)s
+ils (elles) eurent été prévenu(e)s
+
+** Futur antérieur
+
+j'aurai été prévenu(e)
+tu auras été prévenu(e)
+il (elle) aura été prévenu(e)
+nous aurons été prévenu(e)s
+vous aurez été prévenu(e)s
+ils (elles) auront été prévenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prévenu(e)
+j'aurais été prévenu(e)
+il (elle) aurait été prévenu(e)
+nous aurions été prévenu(e)s
+vous auriez été prévenu(e)s
+ils (elles) auraient été prévenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prévenu(e)
+que tu aies été prévenu(e)
+qu’il (elle) ait été prévenu(e)
+que nous ayons été prévenu(e)s
+que vous ayez été prévenu(e)s
+qu’ils (elles) aient été prévenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prévenu(e)
+que tu eusses été prévenu(e)
+qu’il (elle) eût été prévenu(e)
+que nous eussions été prévenu(e)s
+que vous eussiez été prévenu(e)s
+qu’ils (elles) eussent été prévenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prévenu(e)
+ayons été prévenu(e)s
+ayez été prévenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prévenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prévenu(e)(s)

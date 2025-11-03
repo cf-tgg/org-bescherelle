@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reposer
+
+* INDICATIF
+
+** Présent
+
+je repose
+tu reposes
+il (elle) repose
+nous reposons
+vous reposez
+ils (elles) reposent
+
+** Imparfait
+
+je reposais
+tu reposais
+il (elle) reposait
+nous reposions
+vous reposiez
+ils (elles) reposaient
+
+** Passé simple
+
+je reposai
+tu reposas
+il (elle) reposa
+nous reposâmes
+vous reposâtes
+ils (elles) reposèrent
+
+** Futur simple
+
+je reposerai
+tu reposeras
+il (elle) reposera
+nous reposerons
+vous reposerez
+ils (elles) reposeront
+
+* CONDITIONNEL
+
+** Présent
+
+je reposerais
+tu reposerais
+il (elle) reposerait
+nous reposerions
+vous reposeriez
+ils (elles) reposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je repose
+que tu reposes
+qu’il (elle) repose
+que nous reposions
+que vous reposiez
+qu’ils (elles) reposent
+
+** Imparfait
+
+que je reposasse
+que tu reposasses
+qu’il (elle) reposât
+que nous reposassions
+que vous reposassiez
+qu’ils (elles) reposassent
+
+* IMPÉRATIF
+
+** Présent
+
+repose
+reposons
+reposez
+
+* INFINITIF
+
+** Présent
+
+reposer
+
+* PARTICIPE
+
+** Présent
+
+reposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reposé
+tu as reposé
+il (elle) a reposé
+nous avons reposé
+vous avez reposé
+ils (elles) ont reposé
+
+** Plus-que-parfait
+
+j'avais reposé
+tu avais reposé
+il (elle) avait reposé
+nous avions reposé
+vous aviez reposé
+ils (elles) avaient reposé
+
+** Passé antérieur
+
+j'eus reposé
+tu eus reposé
+il (elle) eut reposé
+nous eûmes reposé
+vous eûtes reposé
+ils (elles) eurent reposé
+
+** Futur antérieur
+
+j'aurai reposé
+tu auras reposé
+il (elle) aura reposé
+nous aurons reposé
+vous aurez reposé
+ils (elles) auront reposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reposé
+tu aurais reposé
+il (elle) aurait reposé
+nous aurions reposé
+vous auriez reposé
+ils (elles) auraient reposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reposé
+que tu aies reposé
+qu’il (elle) ait reposé
+que nous ayons reposé
+que vous ayez reposé
+qu’ils (elles) aient reposé
+
+** Plus-que-parfait
+
+que j'eusse reposé
+que tu eusses reposé
+qu’il (elle) eût reposé
+que nous eussions reposé
+que vous eussiez reposé
+qu’ils (elles) eussent reposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reposé
+ayez reposé
+
+* INFINITIF
+
+** Passé
+
+avoir reposé
+
+* PARTICIPE
+
+** Passé
+
+ayant reposé
+reposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis reposé(e)
+tu es reposé(e)
+il (elle) est reposé(e)
+nous sommes reposé(e)s
+vous êtes reposé(e)s
+ils (elles) sont reposé(e)s
+
+** Imparfait
+
+j'étais reposé(e)
+tu étais reposé(e)
+il (elle) était reposé(e)
+nous étions reposé(e)s
+vous étiez reposé(e)s
+ils (elles) étaient reposé(e)s
+
+** Passé simple
+
+je fus reposé(e)
+tu fus reposé(e)
+il (elle) fut reposé(e)
+nous fûmes reposé(e)s
+vous fûtes reposé(e)s
+ils (elles) furent reposé(e)s
+
+** Futur simple
+
+je serai reposé(e)
+tu seras reposé(e)
+il (elle) sera reposé(e)
+nous serons reposé(e)s
+vous serez reposé(e)s
+ils (elles) seront reposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reposé(e)
+tu serais reposé(e)
+il (elle) serait reposé(e)
+nous serions reposé(e)s
+vous seriez reposé(e)s
+ils (elles) seraient reposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reposé(e)
+que tu sois reposé(e)
+qu’il (elle) soit reposé(e)
+que nous soyons reposé(e)s
+que vous soyez reposé(e)s
+qu’ils (elles) soient reposé(e)s
+
+** Imparfait
+
+que je fusse reposé(e)
+que tu fusses reposé(e)
+qu’il (elle) fût reposé(e)
+que nous fussions reposé(e)s
+que vous fussiez reposé(e)s
+qu’ils (elles) fussent reposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reposé(e)s
+soyez reposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être reposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reposé(e)
+tu as été reposé(e)
+il (elle) a été reposé(e)
+nous avons été reposé(e)s
+vous avez été reposé(e)s
+ils (elles) ont été reposé(e)s
+
+** Plus-que-parfait
+
+j'avais été reposé(e)
+il (elle) avait été reposé(e)
+nous avions été reposé(e)s
+ils (elles) avaient été reposé(e)s
+
+** Passé antérieur
+
+j'eus été reposé(e)
+tu eus été reposé(e)
+il (elle) eut été reposé(e)
+nous eûmes été reposé(e)s
+vous eûtes été reposé(e)s
+ils (elles) eurent été reposé(e)s
+
+** Futur antérieur
+
+j'aurai été reposé(e)
+tu auras été reposé(e)
+il (elle) aura été reposé(e)
+nous aurons été reposé(e)s
+vous aurez été reposé(e)s
+ils (elles) auront été reposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reposé(e)
+j'aurais été reposé(e)
+il (elle) aurait été reposé(e)
+nous aurions été reposé(e)s
+vous auriez été reposé(e)s
+ils (elles) auraient été reposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reposé(e)
+que tu aies été reposé(e)
+qu’il (elle) ait été reposé(e)
+que nous ayons été reposé(e)s
+que vous ayez été reposé(e)s
+qu’ils (elles) aient été reposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reposé(e)
+que tu eusses été reposé(e)
+qu’il (elle) eût été reposé(e)
+que nous eussions été reposé(e)s
+que vous eussiez été reposé(e)s
+qu’ils (elles) eussent été reposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reposé(e)
+ayons été reposé(e)s
+ayez été reposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reposé(e)(s)

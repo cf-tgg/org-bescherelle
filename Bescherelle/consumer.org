@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe consumer
+
+* INDICATIF
+
+** Présent
+
+je consume
+tu consumes
+il (elle) consume
+nous consumons
+vous consumez
+ils (elles) consument
+
+** Imparfait
+
+je consumais
+tu consumais
+il (elle) consumait
+nous consumions
+vous consumiez
+ils (elles) consumaient
+
+** Passé simple
+
+je consumai
+tu consumas
+il (elle) consuma
+nous consumâmes
+vous consumâtes
+ils (elles) consumèrent
+
+** Futur simple
+
+je consumerai
+tu consumeras
+il (elle) consumera
+nous consumerons
+vous consumerez
+ils (elles) consumeront
+
+* CONDITIONNEL
+
+** Présent
+
+je consumerais
+tu consumerais
+il (elle) consumerait
+nous consumerions
+vous consumeriez
+ils (elles) consumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je consume
+que tu consumes
+qu’il (elle) consume
+que nous consumions
+que vous consumiez
+qu’ils (elles) consument
+
+** Imparfait
+
+que je consumasse
+que tu consumasses
+qu’il (elle) consumât
+que nous consumassions
+que vous consumassiez
+qu’ils (elles) consumassent
+
+* IMPÉRATIF
+
+** Présent
+
+consume
+consumons
+consumez
+
+* INFINITIF
+
+** Présent
+
+consumer
+
+* PARTICIPE
+
+** Présent
+
+consumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consumé
+tu as consumé
+il (elle) a consumé
+nous avons consumé
+vous avez consumé
+ils (elles) ont consumé
+
+** Plus-que-parfait
+
+j'avais consumé
+tu avais consumé
+il (elle) avait consumé
+nous avions consumé
+vous aviez consumé
+ils (elles) avaient consumé
+
+** Passé antérieur
+
+j'eus consumé
+tu eus consumé
+il (elle) eut consumé
+nous eûmes consumé
+vous eûtes consumé
+ils (elles) eurent consumé
+
+** Futur antérieur
+
+j'aurai consumé
+tu auras consumé
+il (elle) aura consumé
+nous aurons consumé
+vous aurez consumé
+ils (elles) auront consumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consumé
+tu aurais consumé
+il (elle) aurait consumé
+nous aurions consumé
+vous auriez consumé
+ils (elles) auraient consumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consumé
+que tu aies consumé
+qu’il (elle) ait consumé
+que nous ayons consumé
+que vous ayez consumé
+qu’ils (elles) aient consumé
+
+** Plus-que-parfait
+
+que j'eusse consumé
+que tu eusses consumé
+qu’il (elle) eût consumé
+que nous eussions consumé
+que vous eussiez consumé
+qu’ils (elles) eussent consumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consumé
+ayez consumé
+
+* INFINITIF
+
+** Passé
+
+avoir consumé
+
+* PARTICIPE
+
+** Passé
+
+ayant consumé
+consumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis consumé(e)
+tu es consumé(e)
+il (elle) est consumé(e)
+nous sommes consumé(e)s
+vous êtes consumé(e)s
+ils (elles) sont consumé(e)s
+
+** Imparfait
+
+j'étais consumé(e)
+tu étais consumé(e)
+il (elle) était consumé(e)
+nous étions consumé(e)s
+vous étiez consumé(e)s
+ils (elles) étaient consumé(e)s
+
+** Passé simple
+
+je fus consumé(e)
+tu fus consumé(e)
+il (elle) fut consumé(e)
+nous fûmes consumé(e)s
+vous fûtes consumé(e)s
+ils (elles) furent consumé(e)s
+
+** Futur simple
+
+je serai consumé(e)
+tu seras consumé(e)
+il (elle) sera consumé(e)
+nous serons consumé(e)s
+vous serez consumé(e)s
+ils (elles) seront consumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais consumé(e)
+tu serais consumé(e)
+il (elle) serait consumé(e)
+nous serions consumé(e)s
+vous seriez consumé(e)s
+ils (elles) seraient consumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois consumé(e)
+que tu sois consumé(e)
+qu’il (elle) soit consumé(e)
+que nous soyons consumé(e)s
+que vous soyez consumé(e)s
+qu’ils (elles) soient consumé(e)s
+
+** Imparfait
+
+que je fusse consumé(e)
+que tu fusses consumé(e)
+qu’il (elle) fût consumé(e)
+que nous fussions consumé(e)s
+que vous fussiez consumé(e)s
+qu’ils (elles) fussent consumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons consumé(e)s
+soyez consumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être consumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant consumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été consumé(e)
+tu as été consumé(e)
+il (elle) a été consumé(e)
+nous avons été consumé(e)s
+vous avez été consumé(e)s
+ils (elles) ont été consumé(e)s
+
+** Plus-que-parfait
+
+j'avais été consumé(e)
+il (elle) avait été consumé(e)
+nous avions été consumé(e)s
+ils (elles) avaient été consumé(e)s
+
+** Passé antérieur
+
+j'eus été consumé(e)
+tu eus été consumé(e)
+il (elle) eut été consumé(e)
+nous eûmes été consumé(e)s
+vous eûtes été consumé(e)s
+ils (elles) eurent été consumé(e)s
+
+** Futur antérieur
+
+j'aurai été consumé(e)
+tu auras été consumé(e)
+il (elle) aura été consumé(e)
+nous aurons été consumé(e)s
+vous aurez été consumé(e)s
+ils (elles) auront été consumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été consumé(e)
+j'aurais été consumé(e)
+il (elle) aurait été consumé(e)
+nous aurions été consumé(e)s
+vous auriez été consumé(e)s
+ils (elles) auraient été consumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été consumé(e)
+que tu aies été consumé(e)
+qu’il (elle) ait été consumé(e)
+que nous ayons été consumé(e)s
+que vous ayez été consumé(e)s
+qu’ils (elles) aient été consumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été consumé(e)
+que tu eusses été consumé(e)
+qu’il (elle) eût été consumé(e)
+que nous eussions été consumé(e)s
+que vous eussiez été consumé(e)s
+qu’ils (elles) eussent été consumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été consumé(e)
+ayons été consumé(e)s
+ayez été consumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été consumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été consumé(e)(s)

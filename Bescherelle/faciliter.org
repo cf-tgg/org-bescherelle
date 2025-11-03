@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe faciliter
+
+* INDICATIF
+
+** Présent
+
+je facilite
+tu facilites
+il (elle) facilite
+nous facilitons
+vous facilitez
+ils (elles) facilitent
+
+** Imparfait
+
+je facilitais
+tu facilitais
+il (elle) facilitait
+nous facilitions
+vous facilitiez
+ils (elles) facilitaient
+
+** Passé simple
+
+je facilitai
+tu facilitas
+il (elle) facilita
+nous facilitâmes
+vous facilitâtes
+ils (elles) facilitèrent
+
+** Futur simple
+
+je faciliterai
+tu faciliteras
+il (elle) facilitera
+nous faciliterons
+vous faciliterez
+ils (elles) faciliteront
+
+* CONDITIONNEL
+
+** Présent
+
+je faciliterais
+tu faciliterais
+il (elle) faciliterait
+nous faciliterions
+vous faciliteriez
+ils (elles) faciliteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je facilite
+que tu facilites
+qu’il (elle) facilite
+que nous facilitions
+que vous facilitiez
+qu’ils (elles) facilitent
+
+** Imparfait
+
+que je facilitasse
+que tu facilitasses
+qu’il (elle) facilitât
+que nous facilitassions
+que vous facilitassiez
+qu’ils (elles) facilitassent
+
+* IMPÉRATIF
+
+** Présent
+
+facilite
+facilitons
+facilitez
+
+* INFINITIF
+
+** Présent
+
+faciliter
+
+* PARTICIPE
+
+** Présent
+
+facilitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai facilité
+tu as facilité
+il (elle) a facilité
+nous avons facilité
+vous avez facilité
+ils (elles) ont facilité
+
+** Plus-que-parfait
+
+j'avais facilité
+tu avais facilité
+il (elle) avait facilité
+nous avions facilité
+vous aviez facilité
+ils (elles) avaient facilité
+
+** Passé antérieur
+
+j'eus facilité
+tu eus facilité
+il (elle) eut facilité
+nous eûmes facilité
+vous eûtes facilité
+ils (elles) eurent facilité
+
+** Futur antérieur
+
+j'aurai facilité
+tu auras facilité
+il (elle) aura facilité
+nous aurons facilité
+vous aurez facilité
+ils (elles) auront facilité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais facilité
+tu aurais facilité
+il (elle) aurait facilité
+nous aurions facilité
+vous auriez facilité
+ils (elles) auraient facilité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie facilité
+que tu aies facilité
+qu’il (elle) ait facilité
+que nous ayons facilité
+que vous ayez facilité
+qu’ils (elles) aient facilité
+
+** Plus-que-parfait
+
+que j'eusse facilité
+que tu eusses facilité
+qu’il (elle) eût facilité
+que nous eussions facilité
+que vous eussiez facilité
+qu’ils (elles) eussent facilité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons facilité
+ayez facilité
+
+* INFINITIF
+
+** Passé
+
+avoir facilité
+
+* PARTICIPE
+
+** Passé
+
+ayant facilité
+facilité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis facilité(e)
+tu es facilité(e)
+il (elle) est facilité(e)
+nous sommes facilité(e)s
+vous êtes facilité(e)s
+ils (elles) sont facilité(e)s
+
+** Imparfait
+
+j'étais facilité(e)
+tu étais facilité(e)
+il (elle) était facilité(e)
+nous étions facilité(e)s
+vous étiez facilité(e)s
+ils (elles) étaient facilité(e)s
+
+** Passé simple
+
+je fus facilité(e)
+tu fus facilité(e)
+il (elle) fut facilité(e)
+nous fûmes facilité(e)s
+vous fûtes facilité(e)s
+ils (elles) furent facilité(e)s
+
+** Futur simple
+
+je serai facilité(e)
+tu seras facilité(e)
+il (elle) sera facilité(e)
+nous serons facilité(e)s
+vous serez facilité(e)s
+ils (elles) seront facilité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais facilité(e)
+tu serais facilité(e)
+il (elle) serait facilité(e)
+nous serions facilité(e)s
+vous seriez facilité(e)s
+ils (elles) seraient facilité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois facilité(e)
+que tu sois facilité(e)
+qu’il (elle) soit facilité(e)
+que nous soyons facilité(e)s
+que vous soyez facilité(e)s
+qu’ils (elles) soient facilité(e)s
+
+** Imparfait
+
+que je fusse facilité(e)
+que tu fusses facilité(e)
+qu’il (elle) fût facilité(e)
+que nous fussions facilité(e)s
+que vous fussiez facilité(e)s
+qu’ils (elles) fussent facilité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons facilité(e)s
+soyez facilité(e)s
+
+* INFINITIF
+
+** Présent
+
+être facilité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant facilité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été facilité(e)
+tu as été facilité(e)
+il (elle) a été facilité(e)
+nous avons été facilité(e)s
+vous avez été facilité(e)s
+ils (elles) ont été facilité(e)s
+
+** Plus-que-parfait
+
+j'avais été facilité(e)
+il (elle) avait été facilité(e)
+nous avions été facilité(e)s
+ils (elles) avaient été facilité(e)s
+
+** Passé antérieur
+
+j'eus été facilité(e)
+tu eus été facilité(e)
+il (elle) eut été facilité(e)
+nous eûmes été facilité(e)s
+vous eûtes été facilité(e)s
+ils (elles) eurent été facilité(e)s
+
+** Futur antérieur
+
+j'aurai été facilité(e)
+tu auras été facilité(e)
+il (elle) aura été facilité(e)
+nous aurons été facilité(e)s
+vous aurez été facilité(e)s
+ils (elles) auront été facilité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été facilité(e)
+j'aurais été facilité(e)
+il (elle) aurait été facilité(e)
+nous aurions été facilité(e)s
+vous auriez été facilité(e)s
+ils (elles) auraient été facilité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été facilité(e)
+que tu aies été facilité(e)
+qu’il (elle) ait été facilité(e)
+que nous ayons été facilité(e)s
+que vous ayez été facilité(e)s
+qu’ils (elles) aient été facilité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été facilité(e)
+que tu eusses été facilité(e)
+qu’il (elle) eût été facilité(e)
+que nous eussions été facilité(e)s
+que vous eussiez été facilité(e)s
+qu’ils (elles) eussent été facilité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été facilité(e)
+ayons été facilité(e)s
+ayez été facilité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été facilité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été facilité(e)(s)

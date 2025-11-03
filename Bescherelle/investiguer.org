@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe investiguer
+
+* INDICATIF
+
+** Présent
+
+j'investigue
+tu investigues
+il (elle) investigue
+nous investiguons
+vous investiguez
+ils (elles) investiguent
+
+** Imparfait
+
+j'investiguais
+tu investiguais
+il (elle) investiguait
+nous investiguions
+vous investiguiez
+ils (elles) investiguaient
+
+** Passé simple
+
+j'investiguai
+tu investiguas
+il (elle) investigua
+nous investiguâmes
+vous investiguâtes
+ils (elles) investiguèrent
+
+** Futur simple
+
+j'investiguerai
+tu investigueras
+il (elle) investiguera
+nous investiguerons
+vous investiguerez
+ils (elles) investigueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'investiguerais
+tu investiguerais
+il (elle) investiguerait
+nous investiguerions
+vous investigueriez
+ils (elles) investigueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'investigue
+que tu investigues
+qu’il (elle) investigue
+que nous investiguions
+que vous investiguiez
+qu’ils (elles) investiguent
+
+** Imparfait
+
+que j'investiguasse
+que tu investiguasses
+qu’il (elle) investiguât
+que nous investiguassions
+que vous investiguassiez
+qu’ils (elles) investiguassent
+
+* IMPÉRATIF
+
+** Présent
+
+investigue
+investiguons
+investiguez
+
+* INFINITIF
+
+** Présent
+
+investiguer
+
+* PARTICIPE
+
+** Présent
+
+investiguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai investigué
+tu as investigué
+il (elle) a investigué
+nous avons investigué
+vous avez investigué
+ils (elles) ont investigué
+
+** Plus-que-parfait
+
+j'avais investigué
+tu avais investigué
+il (elle) avait investigué
+nous avions investigué
+vous aviez investigué
+ils (elles) avaient investigué
+
+** Passé antérieur
+
+j'eus investigué
+tu eus investigué
+il (elle) eut investigué
+nous eûmes investigué
+vous eûtes investigué
+ils (elles) eurent investigué
+
+** Futur antérieur
+
+j'aurai investigué
+tu auras investigué
+il (elle) aura investigué
+nous aurons investigué
+vous aurez investigué
+ils (elles) auront investigué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais investigué
+tu aurais investigué
+il (elle) aurait investigué
+nous aurions investigué
+vous auriez investigué
+ils (elles) auraient investigué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie investigué
+que tu aies investigué
+qu’il (elle) ait investigué
+que nous ayons investigué
+que vous ayez investigué
+qu’ils (elles) aient investigué
+
+** Plus-que-parfait
+
+que j'eusse investigué
+que tu eusses investigué
+qu’il (elle) eût investigué
+que nous eussions investigué
+que vous eussiez investigué
+qu’ils (elles) eussent investigué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons investigué
+ayez investigué
+
+* INFINITIF
+
+** Passé
+
+avoir investigué
+
+* PARTICIPE
+
+** Passé
+
+ayant investigué
+investigué (invar.)

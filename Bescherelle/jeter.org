@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe jeter
+
+* INDICATIF
+
+** Présent
+
+je jette
+tu jettes
+il (elle) jette
+nous jetons
+vous jetez
+ils (elles) jettent
+
+** Imparfait
+
+je jetais
+tu jetais
+il (elle) jetait
+nous jetions
+vous jetiez
+ils (elles) jetaient
+
+** Passé simple
+
+je jetai
+tu jetas
+il (elle) jeta
+nous jetâmes
+vous jetâtes
+ils (elles) jetèrent
+
+** Futur simple
+
+je jetterai
+tu jetteras
+il (elle) jettera
+nous jetterons
+vous jetterez
+ils (elles) jetteront
+
+* CONDITIONNEL
+
+** Présent
+
+je jetterais
+tu jetterais
+il (elle) jetterait
+nous jetterions
+vous jetteriez
+ils (elles) jetteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jette
+que tu jettes
+qu’il (elle) jette
+que nous jetions
+que vous jetiez
+qu’ils (elles) jettent
+
+** Imparfait
+
+que je jetasse
+que tu jetasses
+qu’il (elle) jetât
+que nous jetassions
+que vous jetassiez
+qu’ils (elles) jetassent
+
+* IMPÉRATIF
+
+** Présent
+
+jette
+jetons
+jetez
+
+* INFINITIF
+
+** Présent
+
+jeter
+
+* PARTICIPE
+
+** Présent
+
+jetant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jeté
+tu as jeté
+il (elle) a jeté
+nous avons jeté
+vous avez jeté
+ils (elles) ont jeté
+
+** Plus-que-parfait
+
+j'avais jeté
+tu avais jeté
+il (elle) avait jeté
+nous avions jeté
+vous aviez jeté
+ils (elles) avaient jeté
+
+** Passé antérieur
+
+j'eus jeté
+tu eus jeté
+il (elle) eut jeté
+nous eûmes jeté
+vous eûtes jeté
+ils (elles) eurent jeté
+
+** Futur antérieur
+
+j'aurai jeté
+tu auras jeté
+il (elle) aura jeté
+nous aurons jeté
+vous aurez jeté
+ils (elles) auront jeté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jeté
+tu aurais jeté
+il (elle) aurait jeté
+nous aurions jeté
+vous auriez jeté
+ils (elles) auraient jeté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jeté
+que tu aies jeté
+qu’il (elle) ait jeté
+que nous ayons jeté
+que vous ayez jeté
+qu’ils (elles) aient jeté
+
+** Plus-que-parfait
+
+que j'eusse jeté
+que tu eusses jeté
+qu’il (elle) eût jeté
+que nous eussions jeté
+que vous eussiez jeté
+qu’ils (elles) eussent jeté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jeté
+ayez jeté
+
+* INFINITIF
+
+** Passé
+
+avoir jeté
+
+* PARTICIPE
+
+** Passé
+
+ayant jeté
+jeté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis jeté(e)
+tu es jeté(e)
+il (elle) est jeté(e)
+nous sommes jeté(e)s
+vous êtes jeté(e)s
+ils (elles) sont jeté(e)s
+
+** Imparfait
+
+j'étais jeté(e)
+tu étais jeté(e)
+il (elle) était jeté(e)
+nous étions jeté(e)s
+vous étiez jeté(e)s
+ils (elles) étaient jeté(e)s
+
+** Passé simple
+
+je fus jeté(e)
+tu fus jeté(e)
+il (elle) fut jeté(e)
+nous fûmes jeté(e)s
+vous fûtes jeté(e)s
+ils (elles) furent jeté(e)s
+
+** Futur simple
+
+je serai jeté(e)
+tu seras jeté(e)
+il (elle) sera jeté(e)
+nous serons jeté(e)s
+vous serez jeté(e)s
+ils (elles) seront jeté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais jeté(e)
+tu serais jeté(e)
+il (elle) serait jeté(e)
+nous serions jeté(e)s
+vous seriez jeté(e)s
+ils (elles) seraient jeté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois jeté(e)
+que tu sois jeté(e)
+qu’il (elle) soit jeté(e)
+que nous soyons jeté(e)s
+que vous soyez jeté(e)s
+qu’ils (elles) soient jeté(e)s
+
+** Imparfait
+
+que je fusse jeté(e)
+que tu fusses jeté(e)
+qu’il (elle) fût jeté(e)
+que nous fussions jeté(e)s
+que vous fussiez jeté(e)s
+qu’ils (elles) fussent jeté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons jeté(e)s
+soyez jeté(e)s
+
+* INFINITIF
+
+** Présent
+
+être jeté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant jeté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été jeté(e)
+tu as été jeté(e)
+il (elle) a été jeté(e)
+nous avons été jeté(e)s
+vous avez été jeté(e)s
+ils (elles) ont été jeté(e)s
+
+** Plus-que-parfait
+
+j'avais été jeté(e)
+il (elle) avait été jeté(e)
+nous avions été jeté(e)s
+ils (elles) avaient été jeté(e)s
+
+** Passé antérieur
+
+j'eus été jeté(e)
+tu eus été jeté(e)
+il (elle) eut été jeté(e)
+nous eûmes été jeté(e)s
+vous eûtes été jeté(e)s
+ils (elles) eurent été jeté(e)s
+
+** Futur antérieur
+
+j'aurai été jeté(e)
+tu auras été jeté(e)
+il (elle) aura été jeté(e)
+nous aurons été jeté(e)s
+vous aurez été jeté(e)s
+ils (elles) auront été jeté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été jeté(e)
+j'aurais été jeté(e)
+il (elle) aurait été jeté(e)
+nous aurions été jeté(e)s
+vous auriez été jeté(e)s
+ils (elles) auraient été jeté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été jeté(e)
+que tu aies été jeté(e)
+qu’il (elle) ait été jeté(e)
+que nous ayons été jeté(e)s
+que vous ayez été jeté(e)s
+qu’ils (elles) aient été jeté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été jeté(e)
+que tu eusses été jeté(e)
+qu’il (elle) eût été jeté(e)
+que nous eussions été jeté(e)s
+que vous eussiez été jeté(e)s
+qu’ils (elles) eussent été jeté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été jeté(e)
+ayons été jeté(e)s
+ayez été jeté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été jeté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été jeté(e)(s)

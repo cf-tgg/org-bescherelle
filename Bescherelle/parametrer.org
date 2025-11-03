@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parametrer
+
+* INDICATIF
+
+** Présent
+
+je paramètre
+tu paramètres
+il (elle) paramètre
+nous paramétrons
+vous paramétrez
+ils (elles) paramètrent
+
+** Imparfait
+
+je paramétrais
+tu paramétrais
+il (elle) paramétrait
+nous paramétrions
+vous paramétriez
+ils (elles) paramétraient
+
+** Passé simple
+
+je paramétrai
+tu paramétras
+il (elle) paramétra
+nous paramétrâmes
+vous paramétrâtes
+ils (elles) paramétrèrent
+
+** Futur simple
+
+je paramétrerai
+tu paramétreras
+il (elle) paramétrera
+nous paramétrerons
+vous paramétrerez
+ils (elles) paramétreront
+
+* CONDITIONNEL
+
+** Présent
+
+je paramétrerais
+tu paramétrerais
+il (elle) paramétrerait
+nous paramétrerions
+vous paramétreriez
+ils (elles) paramétreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je paramètre
+que tu paramètres
+qu’il (elle) paramètre
+que nous paramétrions
+que vous paramétriez
+qu’ils (elles) paramètrent
+
+** Imparfait
+
+que je paramétrasse
+que tu paramétrasses
+qu’il (elle) paramétrât
+que nous paramétrassions
+que vous paramétrassiez
+qu’ils (elles) paramétrassent
+
+* IMPÉRATIF
+
+** Présent
+
+paramètre
+paramétrons
+paramétrez
+
+* INFINITIF
+
+** Présent
+
+paramétrer
+
+* PARTICIPE
+
+** Présent
+
+paramétrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai paramétré
+tu as paramétré
+il (elle) a paramétré
+nous avons paramétré
+vous avez paramétré
+ils (elles) ont paramétré
+
+** Plus-que-parfait
+
+j'avais paramétré
+tu avais paramétré
+il (elle) avait paramétré
+nous avions paramétré
+vous aviez paramétré
+ils (elles) avaient paramétré
+
+** Passé antérieur
+
+j'eus paramétré
+tu eus paramétré
+il (elle) eut paramétré
+nous eûmes paramétré
+vous eûtes paramétré
+ils (elles) eurent paramétré
+
+** Futur antérieur
+
+j'aurai paramétré
+tu auras paramétré
+il (elle) aura paramétré
+nous aurons paramétré
+vous aurez paramétré
+ils (elles) auront paramétré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais paramétré
+tu aurais paramétré
+il (elle) aurait paramétré
+nous aurions paramétré
+vous auriez paramétré
+ils (elles) auraient paramétré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie paramétré
+que tu aies paramétré
+qu’il (elle) ait paramétré
+que nous ayons paramétré
+que vous ayez paramétré
+qu’ils (elles) aient paramétré
+
+** Plus-que-parfait
+
+que j'eusse paramétré
+que tu eusses paramétré
+qu’il (elle) eût paramétré
+que nous eussions paramétré
+que vous eussiez paramétré
+qu’ils (elles) eussent paramétré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons paramétré
+ayez paramétré
+
+* INFINITIF
+
+** Passé
+
+avoir paramétré
+
+* PARTICIPE
+
+** Passé
+
+ayant paramétré
+paramétré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis paramétré(e)
+tu es paramétré(e)
+il (elle) est paramétré(e)
+nous sommes paramétré(e)s
+vous êtes paramétré(e)s
+ils (elles) sont paramétré(e)s
+
+** Imparfait
+
+j'étais paramétré(e)
+tu étais paramétré(e)
+il (elle) était paramétré(e)
+nous étions paramétré(e)s
+vous étiez paramétré(e)s
+ils (elles) étaient paramétré(e)s
+
+** Passé simple
+
+je fus paramétré(e)
+tu fus paramétré(e)
+il (elle) fut paramétré(e)
+nous fûmes paramétré(e)s
+vous fûtes paramétré(e)s
+ils (elles) furent paramétré(e)s
+
+** Futur simple
+
+je serai paramétré(e)
+tu seras paramétré(e)
+il (elle) sera paramétré(e)
+nous serons paramétré(e)s
+vous serez paramétré(e)s
+ils (elles) seront paramétré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais paramétré(e)
+tu serais paramétré(e)
+il (elle) serait paramétré(e)
+nous serions paramétré(e)s
+vous seriez paramétré(e)s
+ils (elles) seraient paramétré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois paramétré(e)
+que tu sois paramétré(e)
+qu’il (elle) soit paramétré(e)
+que nous soyons paramétré(e)s
+que vous soyez paramétré(e)s
+qu’ils (elles) soient paramétré(e)s
+
+** Imparfait
+
+que je fusse paramétré(e)
+que tu fusses paramétré(e)
+qu’il (elle) fût paramétré(e)
+que nous fussions paramétré(e)s
+que vous fussiez paramétré(e)s
+qu’ils (elles) fussent paramétré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons paramétré(e)s
+soyez paramétré(e)s
+
+* INFINITIF
+
+** Présent
+
+être paramétré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant paramétré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été paramétré(e)
+tu as été paramétré(e)
+il (elle) a été paramétré(e)
+nous avons été paramétré(e)s
+vous avez été paramétré(e)s
+ils (elles) ont été paramétré(e)s
+
+** Plus-que-parfait
+
+j'avais été paramétré(e)
+il (elle) avait été paramétré(e)
+nous avions été paramétré(e)s
+ils (elles) avaient été paramétré(e)s
+
+** Passé antérieur
+
+j'eus été paramétré(e)
+tu eus été paramétré(e)
+il (elle) eut été paramétré(e)
+nous eûmes été paramétré(e)s
+vous eûtes été paramétré(e)s
+ils (elles) eurent été paramétré(e)s
+
+** Futur antérieur
+
+j'aurai été paramétré(e)
+tu auras été paramétré(e)
+il (elle) aura été paramétré(e)
+nous aurons été paramétré(e)s
+vous aurez été paramétré(e)s
+ils (elles) auront été paramétré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été paramétré(e)
+j'aurais été paramétré(e)
+il (elle) aurait été paramétré(e)
+nous aurions été paramétré(e)s
+vous auriez été paramétré(e)s
+ils (elles) auraient été paramétré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été paramétré(e)
+que tu aies été paramétré(e)
+qu’il (elle) ait été paramétré(e)
+que nous ayons été paramétré(e)s
+que vous ayez été paramétré(e)s
+qu’ils (elles) aient été paramétré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été paramétré(e)
+que tu eusses été paramétré(e)
+qu’il (elle) eût été paramétré(e)
+que nous eussions été paramétré(e)s
+que vous eussiez été paramétré(e)s
+qu’ils (elles) eussent été paramétré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été paramétré(e)
+ayons été paramétré(e)s
+ayez été paramétré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été paramétré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été paramétré(e)(s)

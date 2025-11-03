@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe frapper
+
+* INDICATIF
+
+** Présent
+
+je frappe
+tu frappes
+il (elle) frappe
+nous frappons
+vous frappez
+ils (elles) frappent
+
+** Imparfait
+
+je frappais
+tu frappais
+il (elle) frappait
+nous frappions
+vous frappiez
+ils (elles) frappaient
+
+** Passé simple
+
+je frappai
+tu frappas
+il (elle) frappa
+nous frappâmes
+vous frappâtes
+ils (elles) frappèrent
+
+** Futur simple
+
+je frapperai
+tu frapperas
+il (elle) frappera
+nous frapperons
+vous frapperez
+ils (elles) frapperont
+
+* CONDITIONNEL
+
+** Présent
+
+je frapperais
+tu frapperais
+il (elle) frapperait
+nous frapperions
+vous frapperiez
+ils (elles) frapperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je frappe
+que tu frappes
+qu’il (elle) frappe
+que nous frappions
+que vous frappiez
+qu’ils (elles) frappent
+
+** Imparfait
+
+que je frappasse
+que tu frappasses
+qu’il (elle) frappât
+que nous frappassions
+que vous frappassiez
+qu’ils (elles) frappassent
+
+* IMPÉRATIF
+
+** Présent
+
+frappe
+frappons
+frappez
+
+* INFINITIF
+
+** Présent
+
+frapper
+
+* PARTICIPE
+
+** Présent
+
+frappant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai frappé
+tu as frappé
+il (elle) a frappé
+nous avons frappé
+vous avez frappé
+ils (elles) ont frappé
+
+** Plus-que-parfait
+
+j'avais frappé
+tu avais frappé
+il (elle) avait frappé
+nous avions frappé
+vous aviez frappé
+ils (elles) avaient frappé
+
+** Passé antérieur
+
+j'eus frappé
+tu eus frappé
+il (elle) eut frappé
+nous eûmes frappé
+vous eûtes frappé
+ils (elles) eurent frappé
+
+** Futur antérieur
+
+j'aurai frappé
+tu auras frappé
+il (elle) aura frappé
+nous aurons frappé
+vous aurez frappé
+ils (elles) auront frappé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais frappé
+tu aurais frappé
+il (elle) aurait frappé
+nous aurions frappé
+vous auriez frappé
+ils (elles) auraient frappé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie frappé
+que tu aies frappé
+qu’il (elle) ait frappé
+que nous ayons frappé
+que vous ayez frappé
+qu’ils (elles) aient frappé
+
+** Plus-que-parfait
+
+que j'eusse frappé
+que tu eusses frappé
+qu’il (elle) eût frappé
+que nous eussions frappé
+que vous eussiez frappé
+qu’ils (elles) eussent frappé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons frappé
+ayez frappé
+
+* INFINITIF
+
+** Passé
+
+avoir frappé
+
+* PARTICIPE
+
+** Passé
+
+ayant frappé
+frappé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis frappé(e)
+tu es frappé(e)
+il (elle) est frappé(e)
+nous sommes frappé(e)s
+vous êtes frappé(e)s
+ils (elles) sont frappé(e)s
+
+** Imparfait
+
+j'étais frappé(e)
+tu étais frappé(e)
+il (elle) était frappé(e)
+nous étions frappé(e)s
+vous étiez frappé(e)s
+ils (elles) étaient frappé(e)s
+
+** Passé simple
+
+je fus frappé(e)
+tu fus frappé(e)
+il (elle) fut frappé(e)
+nous fûmes frappé(e)s
+vous fûtes frappé(e)s
+ils (elles) furent frappé(e)s
+
+** Futur simple
+
+je serai frappé(e)
+tu seras frappé(e)
+il (elle) sera frappé(e)
+nous serons frappé(e)s
+vous serez frappé(e)s
+ils (elles) seront frappé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais frappé(e)
+tu serais frappé(e)
+il (elle) serait frappé(e)
+nous serions frappé(e)s
+vous seriez frappé(e)s
+ils (elles) seraient frappé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois frappé(e)
+que tu sois frappé(e)
+qu’il (elle) soit frappé(e)
+que nous soyons frappé(e)s
+que vous soyez frappé(e)s
+qu’ils (elles) soient frappé(e)s
+
+** Imparfait
+
+que je fusse frappé(e)
+que tu fusses frappé(e)
+qu’il (elle) fût frappé(e)
+que nous fussions frappé(e)s
+que vous fussiez frappé(e)s
+qu’ils (elles) fussent frappé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons frappé(e)s
+soyez frappé(e)s
+
+* INFINITIF
+
+** Présent
+
+être frappé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant frappé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été frappé(e)
+tu as été frappé(e)
+il (elle) a été frappé(e)
+nous avons été frappé(e)s
+vous avez été frappé(e)s
+ils (elles) ont été frappé(e)s
+
+** Plus-que-parfait
+
+j'avais été frappé(e)
+il (elle) avait été frappé(e)
+nous avions été frappé(e)s
+ils (elles) avaient été frappé(e)s
+
+** Passé antérieur
+
+j'eus été frappé(e)
+tu eus été frappé(e)
+il (elle) eut été frappé(e)
+nous eûmes été frappé(e)s
+vous eûtes été frappé(e)s
+ils (elles) eurent été frappé(e)s
+
+** Futur antérieur
+
+j'aurai été frappé(e)
+tu auras été frappé(e)
+il (elle) aura été frappé(e)
+nous aurons été frappé(e)s
+vous aurez été frappé(e)s
+ils (elles) auront été frappé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été frappé(e)
+j'aurais été frappé(e)
+il (elle) aurait été frappé(e)
+nous aurions été frappé(e)s
+vous auriez été frappé(e)s
+ils (elles) auraient été frappé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été frappé(e)
+que tu aies été frappé(e)
+qu’il (elle) ait été frappé(e)
+que nous ayons été frappé(e)s
+que vous ayez été frappé(e)s
+qu’ils (elles) aient été frappé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été frappé(e)
+que tu eusses été frappé(e)
+qu’il (elle) eût été frappé(e)
+que nous eussions été frappé(e)s
+que vous eussiez été frappé(e)s
+qu’ils (elles) eussent été frappé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été frappé(e)
+ayons été frappé(e)s
+ayez été frappé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été frappé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été frappé(e)(s)

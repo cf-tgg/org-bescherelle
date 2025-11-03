@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe stocker
+
+* INDICATIF
+
+** Présent
+
+je stocke
+tu stockes
+il (elle) stocke
+nous stockons
+vous stockez
+ils (elles) stockent
+
+** Imparfait
+
+je stockais
+tu stockais
+il (elle) stockait
+nous stockions
+vous stockiez
+ils (elles) stockaient
+
+** Passé simple
+
+je stockai
+tu stockas
+il (elle) stocka
+nous stockâmes
+vous stockâtes
+ils (elles) stockèrent
+
+** Futur simple
+
+je stockerai
+tu stockeras
+il (elle) stockera
+nous stockerons
+vous stockerez
+ils (elles) stockeront
+
+* CONDITIONNEL
+
+** Présent
+
+je stockerais
+tu stockerais
+il (elle) stockerait
+nous stockerions
+vous stockeriez
+ils (elles) stockeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je stocke
+que tu stockes
+qu’il (elle) stocke
+que nous stockions
+que vous stockiez
+qu’ils (elles) stockent
+
+** Imparfait
+
+que je stockasse
+que tu stockasses
+qu’il (elle) stockât
+que nous stockassions
+que vous stockassiez
+qu’ils (elles) stockassent
+
+* IMPÉRATIF
+
+** Présent
+
+stocke
+stockons
+stockez
+
+* INFINITIF
+
+** Présent
+
+stocker
+
+* PARTICIPE
+
+** Présent
+
+stockant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai stocké
+tu as stocké
+il (elle) a stocké
+nous avons stocké
+vous avez stocké
+ils (elles) ont stocké
+
+** Plus-que-parfait
+
+j'avais stocké
+tu avais stocké
+il (elle) avait stocké
+nous avions stocké
+vous aviez stocké
+ils (elles) avaient stocké
+
+** Passé antérieur
+
+j'eus stocké
+tu eus stocké
+il (elle) eut stocké
+nous eûmes stocké
+vous eûtes stocké
+ils (elles) eurent stocké
+
+** Futur antérieur
+
+j'aurai stocké
+tu auras stocké
+il (elle) aura stocké
+nous aurons stocké
+vous aurez stocké
+ils (elles) auront stocké
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais stocké
+tu aurais stocké
+il (elle) aurait stocké
+nous aurions stocké
+vous auriez stocké
+ils (elles) auraient stocké
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie stocké
+que tu aies stocké
+qu’il (elle) ait stocké
+que nous ayons stocké
+que vous ayez stocké
+qu’ils (elles) aient stocké
+
+** Plus-que-parfait
+
+que j'eusse stocké
+que tu eusses stocké
+qu’il (elle) eût stocké
+que nous eussions stocké
+que vous eussiez stocké
+qu’ils (elles) eussent stocké
+
+* IMPÉRATIF
+
+** Passé
+
+ayons stocké
+ayez stocké
+
+* INFINITIF
+
+** Passé
+
+avoir stocké
+
+* PARTICIPE
+
+** Passé
+
+ayant stocké
+stocké (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis stocké(e)
+tu es stocké(e)
+il (elle) est stocké(e)
+nous sommes stocké(e)s
+vous êtes stocké(e)s
+ils (elles) sont stocké(e)s
+
+** Imparfait
+
+j'étais stocké(e)
+tu étais stocké(e)
+il (elle) était stocké(e)
+nous étions stocké(e)s
+vous étiez stocké(e)s
+ils (elles) étaient stocké(e)s
+
+** Passé simple
+
+je fus stocké(e)
+tu fus stocké(e)
+il (elle) fut stocké(e)
+nous fûmes stocké(e)s
+vous fûtes stocké(e)s
+ils (elles) furent stocké(e)s
+
+** Futur simple
+
+je serai stocké(e)
+tu seras stocké(e)
+il (elle) sera stocké(e)
+nous serons stocké(e)s
+vous serez stocké(e)s
+ils (elles) seront stocké(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais stocké(e)
+tu serais stocké(e)
+il (elle) serait stocké(e)
+nous serions stocké(e)s
+vous seriez stocké(e)s
+ils (elles) seraient stocké(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois stocké(e)
+que tu sois stocké(e)
+qu’il (elle) soit stocké(e)
+que nous soyons stocké(e)s
+que vous soyez stocké(e)s
+qu’ils (elles) soient stocké(e)s
+
+** Imparfait
+
+que je fusse stocké(e)
+que tu fusses stocké(e)
+qu’il (elle) fût stocké(e)
+que nous fussions stocké(e)s
+que vous fussiez stocké(e)s
+qu’ils (elles) fussent stocké(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons stocké(e)s
+soyez stocké(e)s
+
+* INFINITIF
+
+** Présent
+
+être stocké(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant stocké(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été stocké(e)
+tu as été stocké(e)
+il (elle) a été stocké(e)
+nous avons été stocké(e)s
+vous avez été stocké(e)s
+ils (elles) ont été stocké(e)s
+
+** Plus-que-parfait
+
+j'avais été stocké(e)
+il (elle) avait été stocké(e)
+nous avions été stocké(e)s
+ils (elles) avaient été stocké(e)s
+
+** Passé antérieur
+
+j'eus été stocké(e)
+tu eus été stocké(e)
+il (elle) eut été stocké(e)
+nous eûmes été stocké(e)s
+vous eûtes été stocké(e)s
+ils (elles) eurent été stocké(e)s
+
+** Futur antérieur
+
+j'aurai été stocké(e)
+tu auras été stocké(e)
+il (elle) aura été stocké(e)
+nous aurons été stocké(e)s
+vous aurez été stocké(e)s
+ils (elles) auront été stocké(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été stocké(e)
+j'aurais été stocké(e)
+il (elle) aurait été stocké(e)
+nous aurions été stocké(e)s
+vous auriez été stocké(e)s
+ils (elles) auraient été stocké(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été stocké(e)
+que tu aies été stocké(e)
+qu’il (elle) ait été stocké(e)
+que nous ayons été stocké(e)s
+que vous ayez été stocké(e)s
+qu’ils (elles) aient été stocké(e)s
+
+** Plus-que-parfait
+
+que j'eusse été stocké(e)
+que tu eusses été stocké(e)
+qu’il (elle) eût été stocké(e)
+que nous eussions été stocké(e)s
+que vous eussiez été stocké(e)s
+qu’ils (elles) eussent été stocké(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été stocké(e)
+ayons été stocké(e)s
+ayez été stocké(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été stocké(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été stocké(e)(s)

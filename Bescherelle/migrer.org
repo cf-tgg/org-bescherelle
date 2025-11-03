@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe migrer
+
+* INDICATIF
+
+** Présent
+
+je migre
+tu migres
+il (elle) migre
+nous migrons
+vous migrez
+ils (elles) migrent
+
+** Imparfait
+
+je migrais
+tu migrais
+il (elle) migrait
+nous migrions
+vous migriez
+ils (elles) migraient
+
+** Passé simple
+
+je migrai
+tu migras
+il (elle) migra
+nous migrâmes
+vous migrâtes
+ils (elles) migrèrent
+
+** Futur simple
+
+je migrerai
+tu migreras
+il (elle) migrera
+nous migrerons
+vous migrerez
+ils (elles) migreront
+
+* CONDITIONNEL
+
+** Présent
+
+je migrerais
+tu migrerais
+il (elle) migrerait
+nous migrerions
+vous migreriez
+ils (elles) migreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je migre
+que tu migres
+qu’il (elle) migre
+que nous migrions
+que vous migriez
+qu’ils (elles) migrent
+
+** Imparfait
+
+que je migrasse
+que tu migrasses
+qu’il (elle) migrât
+que nous migrassions
+que vous migrassiez
+qu’ils (elles) migrassent
+
+* IMPÉRATIF
+
+** Présent
+
+migre
+migrons
+migrez
+
+* INFINITIF
+
+** Présent
+
+migrer
+
+* PARTICIPE
+
+** Présent
+
+migrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai migré
+tu as migré
+il (elle) a migré
+nous avons migré
+vous avez migré
+ils (elles) ont migré
+
+** Plus-que-parfait
+
+j'avais migré
+tu avais migré
+il (elle) avait migré
+nous avions migré
+vous aviez migré
+ils (elles) avaient migré
+
+** Passé antérieur
+
+j'eus migré
+tu eus migré
+il (elle) eut migré
+nous eûmes migré
+vous eûtes migré
+ils (elles) eurent migré
+
+** Futur antérieur
+
+j'aurai migré
+tu auras migré
+il (elle) aura migré
+nous aurons migré
+vous aurez migré
+ils (elles) auront migré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais migré
+tu aurais migré
+il (elle) aurait migré
+nous aurions migré
+vous auriez migré
+ils (elles) auraient migré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie migré
+que tu aies migré
+qu’il (elle) ait migré
+que nous ayons migré
+que vous ayez migré
+qu’ils (elles) aient migré
+
+** Plus-que-parfait
+
+que j'eusse migré
+que tu eusses migré
+qu’il (elle) eût migré
+que nous eussions migré
+que vous eussiez migré
+qu’ils (elles) eussent migré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons migré
+ayez migré
+
+* INFINITIF
+
+** Passé
+
+avoir migré
+
+* PARTICIPE
+
+** Passé
+
+ayant migré
+migré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis migré(e)
+tu es migré(e)
+il (elle) est migré(e)
+nous sommes migré(e)s
+vous êtes migré(e)s
+ils (elles) sont migré(e)s
+
+** Imparfait
+
+j'étais migré(e)
+tu étais migré(e)
+il (elle) était migré(e)
+nous étions migré(e)s
+vous étiez migré(e)s
+ils (elles) étaient migré(e)s
+
+** Passé simple
+
+je fus migré(e)
+tu fus migré(e)
+il (elle) fut migré(e)
+nous fûmes migré(e)s
+vous fûtes migré(e)s
+ils (elles) furent migré(e)s
+
+** Futur simple
+
+je serai migré(e)
+tu seras migré(e)
+il (elle) sera migré(e)
+nous serons migré(e)s
+vous serez migré(e)s
+ils (elles) seront migré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais migré(e)
+tu serais migré(e)
+il (elle) serait migré(e)
+nous serions migré(e)s
+vous seriez migré(e)s
+ils (elles) seraient migré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois migré(e)
+que tu sois migré(e)
+qu’il (elle) soit migré(e)
+que nous soyons migré(e)s
+que vous soyez migré(e)s
+qu’ils (elles) soient migré(e)s
+
+** Imparfait
+
+que je fusse migré(e)
+que tu fusses migré(e)
+qu’il (elle) fût migré(e)
+que nous fussions migré(e)s
+que vous fussiez migré(e)s
+qu’ils (elles) fussent migré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons migré(e)s
+soyez migré(e)s
+
+* INFINITIF
+
+** Présent
+
+être migré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant migré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été migré(e)
+tu as été migré(e)
+il (elle) a été migré(e)
+nous avons été migré(e)s
+vous avez été migré(e)s
+ils (elles) ont été migré(e)s
+
+** Plus-que-parfait
+
+j'avais été migré(e)
+il (elle) avait été migré(e)
+nous avions été migré(e)s
+ils (elles) avaient été migré(e)s
+
+** Passé antérieur
+
+j'eus été migré(e)
+tu eus été migré(e)
+il (elle) eut été migré(e)
+nous eûmes été migré(e)s
+vous eûtes été migré(e)s
+ils (elles) eurent été migré(e)s
+
+** Futur antérieur
+
+j'aurai été migré(e)
+tu auras été migré(e)
+il (elle) aura été migré(e)
+nous aurons été migré(e)s
+vous aurez été migré(e)s
+ils (elles) auront été migré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été migré(e)
+j'aurais été migré(e)
+il (elle) aurait été migré(e)
+nous aurions été migré(e)s
+vous auriez été migré(e)s
+ils (elles) auraient été migré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été migré(e)
+que tu aies été migré(e)
+qu’il (elle) ait été migré(e)
+que nous ayons été migré(e)s
+que vous ayez été migré(e)s
+qu’ils (elles) aient été migré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été migré(e)
+que tu eusses été migré(e)
+qu’il (elle) eût été migré(e)
+que nous eussions été migré(e)s
+que vous eussiez été migré(e)s
+qu’ils (elles) eussent été migré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été migré(e)
+ayons été migré(e)s
+ayez été migré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été migré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été migré(e)(s)

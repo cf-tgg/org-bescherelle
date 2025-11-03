@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe compatir
+
+* INDICATIF
+
+** Présent
+
+je compatis
+tu compatis
+il (elle) compatit
+nous compatissons
+vous compatissez
+ils (elles) compatissent
+
+** Imparfait
+
+je compatissais
+tu compatissais
+il (elle) compatissait
+nous compatissions
+vous compatissiez
+ils (elles) compatissaient
+
+** Passé simple
+
+je compatis
+tu compatis
+il (elle) compatit
+nous compatîmes
+vous compatîtes
+ils (elles) compatirent
+
+** Futur simple
+
+je compatirai
+tu compatiras
+il (elle) compatira
+nous compatirons
+vous compatirez
+ils (elles) compatiront
+
+* CONDITIONNEL
+
+** Présent
+
+je compatirais
+tu compatirais
+il (elle) compatirait
+nous compatirions
+vous compatiriez
+ils (elles) compatiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compatisse
+que tu compatisses
+qu’il (elle) compatisse
+que nous compatissions
+que vous compatissiez
+qu’ils (elles) compatissent
+
+** Imparfait
+
+que je compatisse
+que tu compatisses
+qu’il (elle) compatît
+que nous compatissions
+que vous compatissiez
+qu’ils (elles) compatissent
+
+* IMPÉRATIF
+
+** Présent
+
+compatis
+compatissons
+compatissez
+
+* INFINITIF
+
+** Présent
+
+compatir
+
+* PARTICIPE
+
+** Présent
+
+compatissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compati
+tu as compati
+il (elle) a compati
+nous avons compati
+vous avez compati
+ils (elles) ont compati
+
+** Plus-que-parfait
+
+j'avais compati
+tu avais compati
+il (elle) avait compati
+nous avions compati
+vous aviez compati
+ils (elles) avaient compati
+
+** Passé antérieur
+
+j'eus compati
+tu eus compati
+il (elle) eut compati
+nous eûmes compati
+vous eûtes compati
+ils (elles) eurent compati
+
+** Futur antérieur
+
+j'aurai compati
+tu auras compati
+il (elle) aura compati
+nous aurons compati
+vous aurez compati
+ils (elles) auront compati
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compati
+tu aurais compati
+il (elle) aurait compati
+nous aurions compati
+vous auriez compati
+ils (elles) auraient compati
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compati
+que tu aies compati
+qu’il (elle) ait compati
+que nous ayons compati
+que vous ayez compati
+qu’ils (elles) aient compati
+
+** Plus-que-parfait
+
+que j'eusse compati
+que tu eusses compati
+qu’il (elle) eût compati
+que nous eussions compati
+que vous eussiez compati
+qu’ils (elles) eussent compati
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compati
+ayez compati
+
+* INFINITIF
+
+** Passé
+
+avoir compati
+
+* PARTICIPE
+
+** Passé
+
+ayant compati
+compati (invar.)

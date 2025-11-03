@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe garantir
+
+* INDICATIF
+
+** Présent
+
+je garantis
+tu garantis
+il (elle) garantit
+nous garantissons
+vous garantissez
+ils (elles) garantissent
+
+** Imparfait
+
+je garantissais
+tu garantissais
+il (elle) garantissait
+nous garantissions
+vous garantissiez
+ils (elles) garantissaient
+
+** Passé simple
+
+je garantis
+tu garantis
+il (elle) garantit
+nous garantîmes
+vous garantîtes
+ils (elles) garantirent
+
+** Futur simple
+
+je garantirai
+tu garantiras
+il (elle) garantira
+nous garantirons
+vous garantirez
+ils (elles) garantiront
+
+* CONDITIONNEL
+
+** Présent
+
+je garantirais
+tu garantirais
+il (elle) garantirait
+nous garantirions
+vous garantiriez
+ils (elles) garantiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je garantisse
+que tu garantisses
+qu’il (elle) garantisse
+que nous garantissions
+que vous garantissiez
+qu’ils (elles) garantissent
+
+** Imparfait
+
+que je garantisse
+que tu garantisses
+qu’il (elle) garantît
+que nous garantissions
+que vous garantissiez
+qu’ils (elles) garantissent
+
+* IMPÉRATIF
+
+** Présent
+
+garantis
+garantissons
+garantissez
+
+* INFINITIF
+
+** Présent
+
+garantir
+
+* PARTICIPE
+
+** Présent
+
+garantissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai garanti
+tu as garanti
+il (elle) a garanti
+nous avons garanti
+vous avez garanti
+ils (elles) ont garanti
+
+** Plus-que-parfait
+
+j'avais garanti
+tu avais garanti
+il (elle) avait garanti
+nous avions garanti
+vous aviez garanti
+ils (elles) avaient garanti
+
+** Passé antérieur
+
+j'eus garanti
+tu eus garanti
+il (elle) eut garanti
+nous eûmes garanti
+vous eûtes garanti
+ils (elles) eurent garanti
+
+** Futur antérieur
+
+j'aurai garanti
+tu auras garanti
+il (elle) aura garanti
+nous aurons garanti
+vous aurez garanti
+ils (elles) auront garanti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais garanti
+tu aurais garanti
+il (elle) aurait garanti
+nous aurions garanti
+vous auriez garanti
+ils (elles) auraient garanti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie garanti
+que tu aies garanti
+qu’il (elle) ait garanti
+que nous ayons garanti
+que vous ayez garanti
+qu’ils (elles) aient garanti
+
+** Plus-que-parfait
+
+que j'eusse garanti
+que tu eusses garanti
+qu’il (elle) eût garanti
+que nous eussions garanti
+que vous eussiez garanti
+qu’ils (elles) eussent garanti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons garanti
+ayez garanti
+
+* INFINITIF
+
+** Passé
+
+avoir garanti
+
+* PARTICIPE
+
+** Passé
+
+ayant garanti
+garanti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis garanti(e)
+tu es garanti(e)
+il (elle) est garanti(e)
+nous sommes garanti(e)s
+vous êtes garanti(e)s
+ils (elles) sont garanti(e)s
+
+** Imparfait
+
+j'étais garanti(e)
+tu étais garanti(e)
+il (elle) était garanti(e)
+nous étions garanti(e)s
+vous étiez garanti(e)s
+ils (elles) étaient garanti(e)s
+
+** Passé simple
+
+je fus garanti(e)
+tu fus garanti(e)
+il (elle) fut garanti(e)
+nous fûmes garanti(e)s
+vous fûtes garanti(e)s
+ils (elles) furent garanti(e)s
+
+** Futur simple
+
+je serai garanti(e)
+tu seras garanti(e)
+il (elle) sera garanti(e)
+nous serons garanti(e)s
+vous serez garanti(e)s
+ils (elles) seront garanti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais garanti(e)
+tu serais garanti(e)
+il (elle) serait garanti(e)
+nous serions garanti(e)s
+vous seriez garanti(e)s
+ils (elles) seraient garanti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois garanti(e)
+que tu sois garanti(e)
+qu’il (elle) soit garanti(e)
+que nous soyons garanti(e)s
+que vous soyez garanti(e)s
+qu’ils (elles) soient garanti(e)s
+
+** Imparfait
+
+que je fusse garanti(e)
+que tu fusses garanti(e)
+qu’il (elle) fût garanti(e)
+que nous fussions garanti(e)s
+que vous fussiez garanti(e)s
+qu’ils (elles) fussent garanti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons garanti(e)s
+soyez garanti(e)s
+
+* INFINITIF
+
+** Présent
+
+être garanti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant garanti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été garanti(e)
+tu as été garanti(e)
+il (elle) a été garanti(e)
+nous avons été garanti(e)s
+vous avez été garanti(e)s
+ils (elles) ont été garanti(e)s
+
+** Plus-que-parfait
+
+j'avais été garanti(e)
+il (elle) avait été garanti(e)
+nous avions été garanti(e)s
+ils (elles) avaient été garanti(e)s
+
+** Passé antérieur
+
+j'eus été garanti(e)
+tu eus été garanti(e)
+il (elle) eut été garanti(e)
+nous eûmes été garanti(e)s
+vous eûtes été garanti(e)s
+ils (elles) eurent été garanti(e)s
+
+** Futur antérieur
+
+j'aurai été garanti(e)
+tu auras été garanti(e)
+il (elle) aura été garanti(e)
+nous aurons été garanti(e)s
+vous aurez été garanti(e)s
+ils (elles) auront été garanti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été garanti(e)
+j'aurais été garanti(e)
+il (elle) aurait été garanti(e)
+nous aurions été garanti(e)s
+vous auriez été garanti(e)s
+ils (elles) auraient été garanti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été garanti(e)
+que tu aies été garanti(e)
+qu’il (elle) ait été garanti(e)
+que nous ayons été garanti(e)s
+que vous ayez été garanti(e)s
+qu’ils (elles) aient été garanti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été garanti(e)
+que tu eusses été garanti(e)
+qu’il (elle) eût été garanti(e)
+que nous eussions été garanti(e)s
+que vous eussiez été garanti(e)s
+qu’ils (elles) eussent été garanti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été garanti(e)
+ayons été garanti(e)s
+ayez été garanti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été garanti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été garanti(e)(s)

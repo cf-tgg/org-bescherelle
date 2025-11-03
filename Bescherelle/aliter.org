@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aliter
+
+* INDICATIF
+
+** Présent
+
+j'alite
+tu alites
+il (elle) alite
+nous alitons
+vous alitez
+ils (elles) alitent
+
+** Imparfait
+
+j'alitais
+tu alitais
+il (elle) alitait
+nous alitions
+vous alitiez
+ils (elles) alitaient
+
+** Passé simple
+
+j'alitai
+tu alitas
+il (elle) alita
+nous alitâmes
+vous alitâtes
+ils (elles) alitèrent
+
+** Futur simple
+
+j'aliterai
+tu aliteras
+il (elle) alitera
+nous aliterons
+vous aliterez
+ils (elles) aliteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aliterais
+tu aliterais
+il (elle) aliterait
+nous aliterions
+vous aliteriez
+ils (elles) aliteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'alite
+que tu alites
+qu’il (elle) alite
+que nous alitions
+que vous alitiez
+qu’ils (elles) alitent
+
+** Imparfait
+
+que j'alitasse
+que tu alitasses
+qu’il (elle) alitât
+que nous alitassions
+que vous alitassiez
+qu’ils (elles) alitassent
+
+* IMPÉRATIF
+
+** Présent
+
+alite
+alitons
+alitez
+
+* INFINITIF
+
+** Présent
+
+aliter
+
+* PARTICIPE
+
+** Présent
+
+alitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai alité
+tu as alité
+il (elle) a alité
+nous avons alité
+vous avez alité
+ils (elles) ont alité
+
+** Plus-que-parfait
+
+j'avais alité
+tu avais alité
+il (elle) avait alité
+nous avions alité
+vous aviez alité
+ils (elles) avaient alité
+
+** Passé antérieur
+
+j'eus alité
+tu eus alité
+il (elle) eut alité
+nous eûmes alité
+vous eûtes alité
+ils (elles) eurent alité
+
+** Futur antérieur
+
+j'aurai alité
+tu auras alité
+il (elle) aura alité
+nous aurons alité
+vous aurez alité
+ils (elles) auront alité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais alité
+tu aurais alité
+il (elle) aurait alité
+nous aurions alité
+vous auriez alité
+ils (elles) auraient alité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie alité
+que tu aies alité
+qu’il (elle) ait alité
+que nous ayons alité
+que vous ayez alité
+qu’ils (elles) aient alité
+
+** Plus-que-parfait
+
+que j'eusse alité
+que tu eusses alité
+qu’il (elle) eût alité
+que nous eussions alité
+que vous eussiez alité
+qu’ils (elles) eussent alité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons alité
+ayez alité
+
+* INFINITIF
+
+** Passé
+
+avoir alité
+
+* PARTICIPE
+
+** Passé
+
+ayant alité
+alité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis alité(e)
+tu es alité(e)
+il (elle) est alité(e)
+nous sommes alité(e)s
+vous êtes alité(e)s
+ils (elles) sont alité(e)s
+
+** Imparfait
+
+j'étais alité(e)
+tu étais alité(e)
+il (elle) était alité(e)
+nous étions alité(e)s
+vous étiez alité(e)s
+ils (elles) étaient alité(e)s
+
+** Passé simple
+
+je fus alité(e)
+tu fus alité(e)
+il (elle) fut alité(e)
+nous fûmes alité(e)s
+vous fûtes alité(e)s
+ils (elles) furent alité(e)s
+
+** Futur simple
+
+je serai alité(e)
+tu seras alité(e)
+il (elle) sera alité(e)
+nous serons alité(e)s
+vous serez alité(e)s
+ils (elles) seront alité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais alité(e)
+tu serais alité(e)
+il (elle) serait alité(e)
+nous serions alité(e)s
+vous seriez alité(e)s
+ils (elles) seraient alité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois alité(e)
+que tu sois alité(e)
+qu’il (elle) soit alité(e)
+que nous soyons alité(e)s
+que vous soyez alité(e)s
+qu’ils (elles) soient alité(e)s
+
+** Imparfait
+
+que je fusse alité(e)
+que tu fusses alité(e)
+qu’il (elle) fût alité(e)
+que nous fussions alité(e)s
+que vous fussiez alité(e)s
+qu’ils (elles) fussent alité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons alité(e)s
+soyez alité(e)s
+
+* INFINITIF
+
+** Présent
+
+être alité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant alité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été alité(e)
+tu as été alité(e)
+il (elle) a été alité(e)
+nous avons été alité(e)s
+vous avez été alité(e)s
+ils (elles) ont été alité(e)s
+
+** Plus-que-parfait
+
+j'avais été alité(e)
+il (elle) avait été alité(e)
+nous avions été alité(e)s
+ils (elles) avaient été alité(e)s
+
+** Passé antérieur
+
+j'eus été alité(e)
+tu eus été alité(e)
+il (elle) eut été alité(e)
+nous eûmes été alité(e)s
+vous eûtes été alité(e)s
+ils (elles) eurent été alité(e)s
+
+** Futur antérieur
+
+j'aurai été alité(e)
+tu auras été alité(e)
+il (elle) aura été alité(e)
+nous aurons été alité(e)s
+vous aurez été alité(e)s
+ils (elles) auront été alité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été alité(e)
+j'aurais été alité(e)
+il (elle) aurait été alité(e)
+nous aurions été alité(e)s
+vous auriez été alité(e)s
+ils (elles) auraient été alité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été alité(e)
+que tu aies été alité(e)
+qu’il (elle) ait été alité(e)
+que nous ayons été alité(e)s
+que vous ayez été alité(e)s
+qu’ils (elles) aient été alité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été alité(e)
+que tu eusses été alité(e)
+qu’il (elle) eût été alité(e)
+que nous eussions été alité(e)s
+que vous eussiez été alité(e)s
+qu’ils (elles) eussent été alité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été alité(e)
+ayons été alité(e)s
+ayez été alité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été alité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été alité(e)(s)

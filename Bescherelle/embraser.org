@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe embraser
+
+* INDICATIF
+
+** Présent
+
+j'embrase
+tu embrases
+il (elle) embrase
+nous embrasons
+vous embrasez
+ils (elles) embrasent
+
+** Imparfait
+
+j'embrasais
+tu embrasais
+il (elle) embrasait
+nous embrasions
+vous embrasiez
+ils (elles) embrasaient
+
+** Passé simple
+
+j'embrasai
+tu embrasas
+il (elle) embrasa
+nous embrasâmes
+vous embrasâtes
+ils (elles) embrasèrent
+
+** Futur simple
+
+j'embraserai
+tu embraseras
+il (elle) embrasera
+nous embraserons
+vous embraserez
+ils (elles) embraseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'embraserais
+tu embraserais
+il (elle) embraserait
+nous embraserions
+vous embraseriez
+ils (elles) embraseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'embrase
+que tu embrases
+qu’il (elle) embrase
+que nous embrasions
+que vous embrasiez
+qu’ils (elles) embrasent
+
+** Imparfait
+
+que j'embrasasse
+que tu embrasasses
+qu’il (elle) embrasât
+que nous embrasassions
+que vous embrasassiez
+qu’ils (elles) embrasassent
+
+* IMPÉRATIF
+
+** Présent
+
+embrase
+embrasons
+embrasez
+
+* INFINITIF
+
+** Présent
+
+embraser
+
+* PARTICIPE
+
+** Présent
+
+embrasant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai embrasé
+tu as embrasé
+il (elle) a embrasé
+nous avons embrasé
+vous avez embrasé
+ils (elles) ont embrasé
+
+** Plus-que-parfait
+
+j'avais embrasé
+tu avais embrasé
+il (elle) avait embrasé
+nous avions embrasé
+vous aviez embrasé
+ils (elles) avaient embrasé
+
+** Passé antérieur
+
+j'eus embrasé
+tu eus embrasé
+il (elle) eut embrasé
+nous eûmes embrasé
+vous eûtes embrasé
+ils (elles) eurent embrasé
+
+** Futur antérieur
+
+j'aurai embrasé
+tu auras embrasé
+il (elle) aura embrasé
+nous aurons embrasé
+vous aurez embrasé
+ils (elles) auront embrasé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais embrasé
+tu aurais embrasé
+il (elle) aurait embrasé
+nous aurions embrasé
+vous auriez embrasé
+ils (elles) auraient embrasé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie embrasé
+que tu aies embrasé
+qu’il (elle) ait embrasé
+que nous ayons embrasé
+que vous ayez embrasé
+qu’ils (elles) aient embrasé
+
+** Plus-que-parfait
+
+que j'eusse embrasé
+que tu eusses embrasé
+qu’il (elle) eût embrasé
+que nous eussions embrasé
+que vous eussiez embrasé
+qu’ils (elles) eussent embrasé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons embrasé
+ayez embrasé
+
+* INFINITIF
+
+** Passé
+
+avoir embrasé
+
+* PARTICIPE
+
+** Passé
+
+ayant embrasé
+embrasé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis embrasé(e)
+tu es embrasé(e)
+il (elle) est embrasé(e)
+nous sommes embrasé(e)s
+vous êtes embrasé(e)s
+ils (elles) sont embrasé(e)s
+
+** Imparfait
+
+j'étais embrasé(e)
+tu étais embrasé(e)
+il (elle) était embrasé(e)
+nous étions embrasé(e)s
+vous étiez embrasé(e)s
+ils (elles) étaient embrasé(e)s
+
+** Passé simple
+
+je fus embrasé(e)
+tu fus embrasé(e)
+il (elle) fut embrasé(e)
+nous fûmes embrasé(e)s
+vous fûtes embrasé(e)s
+ils (elles) furent embrasé(e)s
+
+** Futur simple
+
+je serai embrasé(e)
+tu seras embrasé(e)
+il (elle) sera embrasé(e)
+nous serons embrasé(e)s
+vous serez embrasé(e)s
+ils (elles) seront embrasé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais embrasé(e)
+tu serais embrasé(e)
+il (elle) serait embrasé(e)
+nous serions embrasé(e)s
+vous seriez embrasé(e)s
+ils (elles) seraient embrasé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois embrasé(e)
+que tu sois embrasé(e)
+qu’il (elle) soit embrasé(e)
+que nous soyons embrasé(e)s
+que vous soyez embrasé(e)s
+qu’ils (elles) soient embrasé(e)s
+
+** Imparfait
+
+que je fusse embrasé(e)
+que tu fusses embrasé(e)
+qu’il (elle) fût embrasé(e)
+que nous fussions embrasé(e)s
+que vous fussiez embrasé(e)s
+qu’ils (elles) fussent embrasé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons embrasé(e)s
+soyez embrasé(e)s
+
+* INFINITIF
+
+** Présent
+
+être embrasé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant embrasé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été embrasé(e)
+tu as été embrasé(e)
+il (elle) a été embrasé(e)
+nous avons été embrasé(e)s
+vous avez été embrasé(e)s
+ils (elles) ont été embrasé(e)s
+
+** Plus-que-parfait
+
+j'avais été embrasé(e)
+il (elle) avait été embrasé(e)
+nous avions été embrasé(e)s
+ils (elles) avaient été embrasé(e)s
+
+** Passé antérieur
+
+j'eus été embrasé(e)
+tu eus été embrasé(e)
+il (elle) eut été embrasé(e)
+nous eûmes été embrasé(e)s
+vous eûtes été embrasé(e)s
+ils (elles) eurent été embrasé(e)s
+
+** Futur antérieur
+
+j'aurai été embrasé(e)
+tu auras été embrasé(e)
+il (elle) aura été embrasé(e)
+nous aurons été embrasé(e)s
+vous aurez été embrasé(e)s
+ils (elles) auront été embrasé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été embrasé(e)
+j'aurais été embrasé(e)
+il (elle) aurait été embrasé(e)
+nous aurions été embrasé(e)s
+vous auriez été embrasé(e)s
+ils (elles) auraient été embrasé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été embrasé(e)
+que tu aies été embrasé(e)
+qu’il (elle) ait été embrasé(e)
+que nous ayons été embrasé(e)s
+que vous ayez été embrasé(e)s
+qu’ils (elles) aient été embrasé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été embrasé(e)
+que tu eusses été embrasé(e)
+qu’il (elle) eût été embrasé(e)
+que nous eussions été embrasé(e)s
+que vous eussiez été embrasé(e)s
+qu’ils (elles) eussent été embrasé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été embrasé(e)
+ayons été embrasé(e)s
+ayez été embrasé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été embrasé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été embrasé(e)(s)

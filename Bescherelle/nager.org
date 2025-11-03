@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nager
+
+* INDICATIF
+
+** Présent
+
+je nage
+tu nages
+il (elle) nage
+nous nageons
+vous nagez
+ils (elles) nagent
+
+** Imparfait
+
+je nageais
+tu nageais
+il (elle) nageait
+nous nagions
+vous nagiez
+ils (elles) nageaient
+
+** Passé simple
+
+je nageai
+tu nageas
+il (elle) nagea
+nous nageâmes
+vous nageâtes
+ils (elles) nagèrent
+
+** Futur simple
+
+je nagerai
+tu nageras
+il (elle) nagera
+nous nagerons
+vous nagerez
+ils (elles) nageront
+
+* CONDITIONNEL
+
+** Présent
+
+je nagerais
+tu nagerais
+il (elle) nagerait
+nous nagerions
+vous nageriez
+ils (elles) nageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nage
+que tu nages
+qu’il (elle) nage
+que nous nagions
+que vous nagiez
+qu’ils (elles) nagent
+
+** Imparfait
+
+que je nageasse
+que tu nageasses
+qu’il (elle) nageât
+que nous nageassions
+que vous nageassiez
+qu’ils (elles) nageassent
+
+* IMPÉRATIF
+
+** Présent
+
+nage
+nageons
+nagez
+
+* INFINITIF
+
+** Présent
+
+nager
+
+* PARTICIPE
+
+** Présent
+
+nageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nagé
+tu as nagé
+il (elle) a nagé
+nous avons nagé
+vous avez nagé
+ils (elles) ont nagé
+
+** Plus-que-parfait
+
+j'avais nagé
+tu avais nagé
+il (elle) avait nagé
+nous avions nagé
+vous aviez nagé
+ils (elles) avaient nagé
+
+** Passé antérieur
+
+j'eus nagé
+tu eus nagé
+il (elle) eut nagé
+nous eûmes nagé
+vous eûtes nagé
+ils (elles) eurent nagé
+
+** Futur antérieur
+
+j'aurai nagé
+tu auras nagé
+il (elle) aura nagé
+nous aurons nagé
+vous aurez nagé
+ils (elles) auront nagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nagé
+tu aurais nagé
+il (elle) aurait nagé
+nous aurions nagé
+vous auriez nagé
+ils (elles) auraient nagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nagé
+que tu aies nagé
+qu’il (elle) ait nagé
+que nous ayons nagé
+que vous ayez nagé
+qu’ils (elles) aient nagé
+
+** Plus-que-parfait
+
+que j'eusse nagé
+que tu eusses nagé
+qu’il (elle) eût nagé
+que nous eussions nagé
+que vous eussiez nagé
+qu’ils (elles) eussent nagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nagé
+ayez nagé
+
+* INFINITIF
+
+** Passé
+
+avoir nagé
+
+* PARTICIPE
+
+** Passé
+
+ayant nagé
+nagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nagé(e)
+tu es nagé(e)
+il (elle) est nagé(e)
+nous sommes nagé(e)s
+vous êtes nagé(e)s
+ils (elles) sont nagé(e)s
+
+** Imparfait
+
+j'étais nagé(e)
+tu étais nagé(e)
+il (elle) était nagé(e)
+nous étions nagé(e)s
+vous étiez nagé(e)s
+ils (elles) étaient nagé(e)s
+
+** Passé simple
+
+je fus nagé(e)
+tu fus nagé(e)
+il (elle) fut nagé(e)
+nous fûmes nagé(e)s
+vous fûtes nagé(e)s
+ils (elles) furent nagé(e)s
+
+** Futur simple
+
+je serai nagé(e)
+tu seras nagé(e)
+il (elle) sera nagé(e)
+nous serons nagé(e)s
+vous serez nagé(e)s
+ils (elles) seront nagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nagé(e)
+tu serais nagé(e)
+il (elle) serait nagé(e)
+nous serions nagé(e)s
+vous seriez nagé(e)s
+ils (elles) seraient nagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nagé(e)
+que tu sois nagé(e)
+qu’il (elle) soit nagé(e)
+que nous soyons nagé(e)s
+que vous soyez nagé(e)s
+qu’ils (elles) soient nagé(e)s
+
+** Imparfait
+
+que je fusse nagé(e)
+que tu fusses nagé(e)
+qu’il (elle) fût nagé(e)
+que nous fussions nagé(e)s
+que vous fussiez nagé(e)s
+qu’ils (elles) fussent nagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nagé(e)s
+soyez nagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être nagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nagé(e)
+tu as été nagé(e)
+il (elle) a été nagé(e)
+nous avons été nagé(e)s
+vous avez été nagé(e)s
+ils (elles) ont été nagé(e)s
+
+** Plus-que-parfait
+
+j'avais été nagé(e)
+il (elle) avait été nagé(e)
+nous avions été nagé(e)s
+ils (elles) avaient été nagé(e)s
+
+** Passé antérieur
+
+j'eus été nagé(e)
+tu eus été nagé(e)
+il (elle) eut été nagé(e)
+nous eûmes été nagé(e)s
+vous eûtes été nagé(e)s
+ils (elles) eurent été nagé(e)s
+
+** Futur antérieur
+
+j'aurai été nagé(e)
+tu auras été nagé(e)
+il (elle) aura été nagé(e)
+nous aurons été nagé(e)s
+vous aurez été nagé(e)s
+ils (elles) auront été nagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nagé(e)
+j'aurais été nagé(e)
+il (elle) aurait été nagé(e)
+nous aurions été nagé(e)s
+vous auriez été nagé(e)s
+ils (elles) auraient été nagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nagé(e)
+que tu aies été nagé(e)
+qu’il (elle) ait été nagé(e)
+que nous ayons été nagé(e)s
+que vous ayez été nagé(e)s
+qu’ils (elles) aient été nagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nagé(e)
+que tu eusses été nagé(e)
+qu’il (elle) eût été nagé(e)
+que nous eussions été nagé(e)s
+que vous eussiez été nagé(e)s
+qu’ils (elles) eussent été nagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nagé(e)
+ayons été nagé(e)s
+ayez été nagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nagé(e)(s)

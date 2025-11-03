@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe poser
+
+* INDICATIF
+
+** Présent
+
+je pose
+tu poses
+il (elle) pose
+nous posons
+vous posez
+ils (elles) posent
+
+** Imparfait
+
+je posais
+tu posais
+il (elle) posait
+nous posions
+vous posiez
+ils (elles) posaient
+
+** Passé simple
+
+je posai
+tu posas
+il (elle) posa
+nous posâmes
+vous posâtes
+ils (elles) posèrent
+
+** Futur simple
+
+je poserai
+tu poseras
+il (elle) posera
+nous poserons
+vous poserez
+ils (elles) poseront
+
+* CONDITIONNEL
+
+** Présent
+
+je poserais
+tu poserais
+il (elle) poserait
+nous poserions
+vous poseriez
+ils (elles) poseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pose
+que tu poses
+qu’il (elle) pose
+que nous posions
+que vous posiez
+qu’ils (elles) posent
+
+** Imparfait
+
+que je posasse
+que tu posasses
+qu’il (elle) posât
+que nous posassions
+que vous posassiez
+qu’ils (elles) posassent
+
+* IMPÉRATIF
+
+** Présent
+
+pose
+posons
+posez
+
+* INFINITIF
+
+** Présent
+
+poser
+
+* PARTICIPE
+
+** Présent
+
+posant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai posé
+tu as posé
+il (elle) a posé
+nous avons posé
+vous avez posé
+ils (elles) ont posé
+
+** Plus-que-parfait
+
+j'avais posé
+tu avais posé
+il (elle) avait posé
+nous avions posé
+vous aviez posé
+ils (elles) avaient posé
+
+** Passé antérieur
+
+j'eus posé
+tu eus posé
+il (elle) eut posé
+nous eûmes posé
+vous eûtes posé
+ils (elles) eurent posé
+
+** Futur antérieur
+
+j'aurai posé
+tu auras posé
+il (elle) aura posé
+nous aurons posé
+vous aurez posé
+ils (elles) auront posé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais posé
+tu aurais posé
+il (elle) aurait posé
+nous aurions posé
+vous auriez posé
+ils (elles) auraient posé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie posé
+que tu aies posé
+qu’il (elle) ait posé
+que nous ayons posé
+que vous ayez posé
+qu’ils (elles) aient posé
+
+** Plus-que-parfait
+
+que j'eusse posé
+que tu eusses posé
+qu’il (elle) eût posé
+que nous eussions posé
+que vous eussiez posé
+qu’ils (elles) eussent posé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons posé
+ayez posé
+
+* INFINITIF
+
+** Passé
+
+avoir posé
+
+* PARTICIPE
+
+** Passé
+
+ayant posé
+posé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis posé(e)
+tu es posé(e)
+il (elle) est posé(e)
+nous sommes posé(e)s
+vous êtes posé(e)s
+ils (elles) sont posé(e)s
+
+** Imparfait
+
+j'étais posé(e)
+tu étais posé(e)
+il (elle) était posé(e)
+nous étions posé(e)s
+vous étiez posé(e)s
+ils (elles) étaient posé(e)s
+
+** Passé simple
+
+je fus posé(e)
+tu fus posé(e)
+il (elle) fut posé(e)
+nous fûmes posé(e)s
+vous fûtes posé(e)s
+ils (elles) furent posé(e)s
+
+** Futur simple
+
+je serai posé(e)
+tu seras posé(e)
+il (elle) sera posé(e)
+nous serons posé(e)s
+vous serez posé(e)s
+ils (elles) seront posé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais posé(e)
+tu serais posé(e)
+il (elle) serait posé(e)
+nous serions posé(e)s
+vous seriez posé(e)s
+ils (elles) seraient posé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois posé(e)
+que tu sois posé(e)
+qu’il (elle) soit posé(e)
+que nous soyons posé(e)s
+que vous soyez posé(e)s
+qu’ils (elles) soient posé(e)s
+
+** Imparfait
+
+que je fusse posé(e)
+que tu fusses posé(e)
+qu’il (elle) fût posé(e)
+que nous fussions posé(e)s
+que vous fussiez posé(e)s
+qu’ils (elles) fussent posé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons posé(e)s
+soyez posé(e)s
+
+* INFINITIF
+
+** Présent
+
+être posé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant posé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été posé(e)
+tu as été posé(e)
+il (elle) a été posé(e)
+nous avons été posé(e)s
+vous avez été posé(e)s
+ils (elles) ont été posé(e)s
+
+** Plus-que-parfait
+
+j'avais été posé(e)
+il (elle) avait été posé(e)
+nous avions été posé(e)s
+ils (elles) avaient été posé(e)s
+
+** Passé antérieur
+
+j'eus été posé(e)
+tu eus été posé(e)
+il (elle) eut été posé(e)
+nous eûmes été posé(e)s
+vous eûtes été posé(e)s
+ils (elles) eurent été posé(e)s
+
+** Futur antérieur
+
+j'aurai été posé(e)
+tu auras été posé(e)
+il (elle) aura été posé(e)
+nous aurons été posé(e)s
+vous aurez été posé(e)s
+ils (elles) auront été posé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été posé(e)
+j'aurais été posé(e)
+il (elle) aurait été posé(e)
+nous aurions été posé(e)s
+vous auriez été posé(e)s
+ils (elles) auraient été posé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été posé(e)
+que tu aies été posé(e)
+qu’il (elle) ait été posé(e)
+que nous ayons été posé(e)s
+que vous ayez été posé(e)s
+qu’ils (elles) aient été posé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été posé(e)
+que tu eusses été posé(e)
+qu’il (elle) eût été posé(e)
+que nous eussions été posé(e)s
+que vous eussiez été posé(e)s
+qu’ils (elles) eussent été posé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été posé(e)
+ayons été posé(e)s
+ayez été posé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été posé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été posé(e)(s)

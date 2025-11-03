@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe peindre
+
+* INDICATIF
+
+** Présent
+
+je peins
+tu peins
+il (elle) peint
+nous peignons
+vous peignez
+ils (elles) peignent
+
+** Imparfait
+
+je peignais
+tu peignais
+il (elle) peignait
+nous peignions
+vous peigniez
+ils (elles) peignaient
+
+** Passé simple
+
+je peignis
+tu peignis
+il (elle) peignit
+nous peignîmes
+vous peignîtes
+ils (elles) peignirent
+
+** Futur simple
+
+je peindrai
+tu peindras
+il (elle) peindra
+nous peindrons
+vous peindrez
+ils (elles) peindront
+
+* CONDITIONNEL
+
+** Présent
+
+je peindrais
+tu peindrais
+il (elle) peindrait
+nous peindrions
+vous peindriez
+ils (elles) peindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je peigne
+que tu peignes
+qu’il (elle) peigne
+que nous peignions
+que vous peigniez
+qu’ils (elles) peignent
+
+** Imparfait
+
+que je peignisse
+que tu peignisses
+qu’il (elle) peignît
+que nous peignissions
+que vous peignissiez
+qu’ils (elles) peignissent
+
+* IMPÉRATIF
+
+** Présent
+
+peins
+peignons
+peignez
+
+* INFINITIF
+
+** Présent
+
+peindre
+
+* PARTICIPE
+
+** Présent
+
+peignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai peint
+tu as peint
+il (elle) a peint
+nous avons peint
+vous avez peint
+ils (elles) ont peint
+
+** Plus-que-parfait
+
+j'avais peint
+tu avais peint
+il (elle) avait peint
+nous avions peint
+vous aviez peint
+ils (elles) avaient peint
+
+** Passé antérieur
+
+j'eus peint
+tu eus peint
+il (elle) eut peint
+nous eûmes peint
+vous eûtes peint
+ils (elles) eurent peint
+
+** Futur antérieur
+
+j'aurai peint
+tu auras peint
+il (elle) aura peint
+nous aurons peint
+vous aurez peint
+ils (elles) auront peint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais peint
+tu aurais peint
+il (elle) aurait peint
+nous aurions peint
+vous auriez peint
+ils (elles) auraient peint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie peint
+que tu aies peint
+qu’il (elle) ait peint
+que nous ayons peint
+que vous ayez peint
+qu’ils (elles) aient peint
+
+** Plus-que-parfait
+
+que j'eusse peint
+que tu eusses peint
+qu’il (elle) eût peint
+que nous eussions peint
+que vous eussiez peint
+qu’ils (elles) eussent peint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons peint
+ayez peint
+
+* INFINITIF
+
+** Passé
+
+avoir peint
+
+* PARTICIPE
+
+** Passé
+
+ayant peint
+peint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis peint(e)
+tu es peint(e)
+il (elle) est peint(e)
+nous sommes peint(e)s
+vous êtes peint(e)s
+ils (elles) sont peint(e)s
+
+** Imparfait
+
+j'étais peint(e)
+tu étais peint(e)
+il (elle) était peint(e)
+nous étions peint(e)s
+vous étiez peint(e)s
+ils (elles) étaient peint(e)s
+
+** Passé simple
+
+je fus peint(e)
+tu fus peint(e)
+il (elle) fut peint(e)
+nous fûmes peint(e)s
+vous fûtes peint(e)s
+ils (elles) furent peint(e)s
+
+** Futur simple
+
+je serai peint(e)
+tu seras peint(e)
+il (elle) sera peint(e)
+nous serons peint(e)s
+vous serez peint(e)s
+ils (elles) seront peint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais peint(e)
+tu serais peint(e)
+il (elle) serait peint(e)
+nous serions peint(e)s
+vous seriez peint(e)s
+ils (elles) seraient peint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois peint(e)
+que tu sois peint(e)
+qu’il (elle) soit peint(e)
+que nous soyons peint(e)s
+que vous soyez peint(e)s
+qu’ils (elles) soient peint(e)s
+
+** Imparfait
+
+que je fusse peint(e)
+que tu fusses peint(e)
+qu’il (elle) fût peint(e)
+que nous fussions peint(e)s
+que vous fussiez peint(e)s
+qu’ils (elles) fussent peint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons peint(e)s
+soyez peint(e)s
+
+* INFINITIF
+
+** Présent
+
+être peint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant peint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été peint(e)
+tu as été peint(e)
+il (elle) a été peint(e)
+nous avons été peint(e)s
+vous avez été peint(e)s
+ils (elles) ont été peint(e)s
+
+** Plus-que-parfait
+
+j'avais été peint(e)
+il (elle) avait été peint(e)
+nous avions été peint(e)s
+ils (elles) avaient été peint(e)s
+
+** Passé antérieur
+
+j'eus été peint(e)
+tu eus été peint(e)
+il (elle) eut été peint(e)
+nous eûmes été peint(e)s
+vous eûtes été peint(e)s
+ils (elles) eurent été peint(e)s
+
+** Futur antérieur
+
+j'aurai été peint(e)
+tu auras été peint(e)
+il (elle) aura été peint(e)
+nous aurons été peint(e)s
+vous aurez été peint(e)s
+ils (elles) auront été peint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été peint(e)
+j'aurais été peint(e)
+il (elle) aurait été peint(e)
+nous aurions été peint(e)s
+vous auriez été peint(e)s
+ils (elles) auraient été peint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été peint(e)
+que tu aies été peint(e)
+qu’il (elle) ait été peint(e)
+que nous ayons été peint(e)s
+que vous ayez été peint(e)s
+qu’ils (elles) aient été peint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été peint(e)
+que tu eusses été peint(e)
+qu’il (elle) eût été peint(e)
+que nous eussions été peint(e)s
+que vous eussiez été peint(e)s
+qu’ils (elles) eussent été peint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été peint(e)
+ayons été peint(e)s
+ayez été peint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été peint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été peint(e)(s)

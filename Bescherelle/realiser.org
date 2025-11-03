@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe realiser
+
+* INDICATIF
+
+** Présent
+
+je réalise
+tu réalises
+il (elle) réalise
+nous réalisons
+vous réalisez
+ils (elles) réalisent
+
+** Imparfait
+
+je réalisais
+tu réalisais
+il (elle) réalisait
+nous réalisions
+vous réalisiez
+ils (elles) réalisaient
+
+** Passé simple
+
+je réalisai
+tu réalisas
+il (elle) réalisa
+nous réalisâmes
+vous réalisâtes
+ils (elles) réalisèrent
+
+** Futur simple
+
+je réaliserai
+tu réaliseras
+il (elle) réalisera
+nous réaliserons
+vous réaliserez
+ils (elles) réaliseront
+
+* CONDITIONNEL
+
+** Présent
+
+je réaliserais
+tu réaliserais
+il (elle) réaliserait
+nous réaliserions
+vous réaliseriez
+ils (elles) réaliseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réalise
+que tu réalises
+qu’il (elle) réalise
+que nous réalisions
+que vous réalisiez
+qu’ils (elles) réalisent
+
+** Imparfait
+
+que je réalisasse
+que tu réalisasses
+qu’il (elle) réalisât
+que nous réalisassions
+que vous réalisassiez
+qu’ils (elles) réalisassent
+
+* IMPÉRATIF
+
+** Présent
+
+réalise
+réalisons
+réalisez
+
+* INFINITIF
+
+** Présent
+
+réaliser
+
+* PARTICIPE
+
+** Présent
+
+réalisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réalisé
+tu as réalisé
+il (elle) a réalisé
+nous avons réalisé
+vous avez réalisé
+ils (elles) ont réalisé
+
+** Plus-que-parfait
+
+j'avais réalisé
+tu avais réalisé
+il (elle) avait réalisé
+nous avions réalisé
+vous aviez réalisé
+ils (elles) avaient réalisé
+
+** Passé antérieur
+
+j'eus réalisé
+tu eus réalisé
+il (elle) eut réalisé
+nous eûmes réalisé
+vous eûtes réalisé
+ils (elles) eurent réalisé
+
+** Futur antérieur
+
+j'aurai réalisé
+tu auras réalisé
+il (elle) aura réalisé
+nous aurons réalisé
+vous aurez réalisé
+ils (elles) auront réalisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réalisé
+tu aurais réalisé
+il (elle) aurait réalisé
+nous aurions réalisé
+vous auriez réalisé
+ils (elles) auraient réalisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réalisé
+que tu aies réalisé
+qu’il (elle) ait réalisé
+que nous ayons réalisé
+que vous ayez réalisé
+qu’ils (elles) aient réalisé
+
+** Plus-que-parfait
+
+que j'eusse réalisé
+que tu eusses réalisé
+qu’il (elle) eût réalisé
+que nous eussions réalisé
+que vous eussiez réalisé
+qu’ils (elles) eussent réalisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réalisé
+ayez réalisé
+
+* INFINITIF
+
+** Passé
+
+avoir réalisé
+
+* PARTICIPE
+
+** Passé
+
+ayant réalisé
+réalisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis réalisé(e)
+tu es réalisé(e)
+il (elle) est réalisé(e)
+nous sommes réalisé(e)s
+vous êtes réalisé(e)s
+ils (elles) sont réalisé(e)s
+
+** Imparfait
+
+j'étais réalisé(e)
+tu étais réalisé(e)
+il (elle) était réalisé(e)
+nous étions réalisé(e)s
+vous étiez réalisé(e)s
+ils (elles) étaient réalisé(e)s
+
+** Passé simple
+
+je fus réalisé(e)
+tu fus réalisé(e)
+il (elle) fut réalisé(e)
+nous fûmes réalisé(e)s
+vous fûtes réalisé(e)s
+ils (elles) furent réalisé(e)s
+
+** Futur simple
+
+je serai réalisé(e)
+tu seras réalisé(e)
+il (elle) sera réalisé(e)
+nous serons réalisé(e)s
+vous serez réalisé(e)s
+ils (elles) seront réalisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réalisé(e)
+tu serais réalisé(e)
+il (elle) serait réalisé(e)
+nous serions réalisé(e)s
+vous seriez réalisé(e)s
+ils (elles) seraient réalisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réalisé(e)
+que tu sois réalisé(e)
+qu’il (elle) soit réalisé(e)
+que nous soyons réalisé(e)s
+que vous soyez réalisé(e)s
+qu’ils (elles) soient réalisé(e)s
+
+** Imparfait
+
+que je fusse réalisé(e)
+que tu fusses réalisé(e)
+qu’il (elle) fût réalisé(e)
+que nous fussions réalisé(e)s
+que vous fussiez réalisé(e)s
+qu’ils (elles) fussent réalisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réalisé(e)s
+soyez réalisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être réalisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réalisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réalisé(e)
+tu as été réalisé(e)
+il (elle) a été réalisé(e)
+nous avons été réalisé(e)s
+vous avez été réalisé(e)s
+ils (elles) ont été réalisé(e)s
+
+** Plus-que-parfait
+
+j'avais été réalisé(e)
+il (elle) avait été réalisé(e)
+nous avions été réalisé(e)s
+ils (elles) avaient été réalisé(e)s
+
+** Passé antérieur
+
+j'eus été réalisé(e)
+tu eus été réalisé(e)
+il (elle) eut été réalisé(e)
+nous eûmes été réalisé(e)s
+vous eûtes été réalisé(e)s
+ils (elles) eurent été réalisé(e)s
+
+** Futur antérieur
+
+j'aurai été réalisé(e)
+tu auras été réalisé(e)
+il (elle) aura été réalisé(e)
+nous aurons été réalisé(e)s
+vous aurez été réalisé(e)s
+ils (elles) auront été réalisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réalisé(e)
+j'aurais été réalisé(e)
+il (elle) aurait été réalisé(e)
+nous aurions été réalisé(e)s
+vous auriez été réalisé(e)s
+ils (elles) auraient été réalisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réalisé(e)
+que tu aies été réalisé(e)
+qu’il (elle) ait été réalisé(e)
+que nous ayons été réalisé(e)s
+que vous ayez été réalisé(e)s
+qu’ils (elles) aient été réalisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réalisé(e)
+que tu eusses été réalisé(e)
+qu’il (elle) eût été réalisé(e)
+que nous eussions été réalisé(e)s
+que vous eussiez été réalisé(e)s
+qu’ils (elles) eussent été réalisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réalisé(e)
+ayons été réalisé(e)s
+ayez été réalisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réalisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réalisé(e)(s)

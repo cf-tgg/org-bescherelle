@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confirmer
+
+* INDICATIF
+
+** Présent
+
+je confirme
+tu confirmes
+il (elle) confirme
+nous confirmons
+vous confirmez
+ils (elles) confirment
+
+** Imparfait
+
+je confirmais
+tu confirmais
+il (elle) confirmait
+nous confirmions
+vous confirmiez
+ils (elles) confirmaient
+
+** Passé simple
+
+je confirmai
+tu confirmas
+il (elle) confirma
+nous confirmâmes
+vous confirmâtes
+ils (elles) confirmèrent
+
+** Futur simple
+
+je confirmerai
+tu confirmeras
+il (elle) confirmera
+nous confirmerons
+vous confirmerez
+ils (elles) confirmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je confirmerais
+tu confirmerais
+il (elle) confirmerait
+nous confirmerions
+vous confirmeriez
+ils (elles) confirmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confirme
+que tu confirmes
+qu’il (elle) confirme
+que nous confirmions
+que vous confirmiez
+qu’ils (elles) confirment
+
+** Imparfait
+
+que je confirmasse
+que tu confirmasses
+qu’il (elle) confirmât
+que nous confirmassions
+que vous confirmassiez
+qu’ils (elles) confirmassent
+
+* IMPÉRATIF
+
+** Présent
+
+confirme
+confirmons
+confirmez
+
+* INFINITIF
+
+** Présent
+
+confirmer
+
+* PARTICIPE
+
+** Présent
+
+confirmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confirmé
+tu as confirmé
+il (elle) a confirmé
+nous avons confirmé
+vous avez confirmé
+ils (elles) ont confirmé
+
+** Plus-que-parfait
+
+j'avais confirmé
+tu avais confirmé
+il (elle) avait confirmé
+nous avions confirmé
+vous aviez confirmé
+ils (elles) avaient confirmé
+
+** Passé antérieur
+
+j'eus confirmé
+tu eus confirmé
+il (elle) eut confirmé
+nous eûmes confirmé
+vous eûtes confirmé
+ils (elles) eurent confirmé
+
+** Futur antérieur
+
+j'aurai confirmé
+tu auras confirmé
+il (elle) aura confirmé
+nous aurons confirmé
+vous aurez confirmé
+ils (elles) auront confirmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confirmé
+tu aurais confirmé
+il (elle) aurait confirmé
+nous aurions confirmé
+vous auriez confirmé
+ils (elles) auraient confirmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confirmé
+que tu aies confirmé
+qu’il (elle) ait confirmé
+que nous ayons confirmé
+que vous ayez confirmé
+qu’ils (elles) aient confirmé
+
+** Plus-que-parfait
+
+que j'eusse confirmé
+que tu eusses confirmé
+qu’il (elle) eût confirmé
+que nous eussions confirmé
+que vous eussiez confirmé
+qu’ils (elles) eussent confirmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confirmé
+ayez confirmé
+
+* INFINITIF
+
+** Passé
+
+avoir confirmé
+
+* PARTICIPE
+
+** Passé
+
+ayant confirmé
+confirmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis confirmé(e)
+tu es confirmé(e)
+il (elle) est confirmé(e)
+nous sommes confirmé(e)s
+vous êtes confirmé(e)s
+ils (elles) sont confirmé(e)s
+
+** Imparfait
+
+j'étais confirmé(e)
+tu étais confirmé(e)
+il (elle) était confirmé(e)
+nous étions confirmé(e)s
+vous étiez confirmé(e)s
+ils (elles) étaient confirmé(e)s
+
+** Passé simple
+
+je fus confirmé(e)
+tu fus confirmé(e)
+il (elle) fut confirmé(e)
+nous fûmes confirmé(e)s
+vous fûtes confirmé(e)s
+ils (elles) furent confirmé(e)s
+
+** Futur simple
+
+je serai confirmé(e)
+tu seras confirmé(e)
+il (elle) sera confirmé(e)
+nous serons confirmé(e)s
+vous serez confirmé(e)s
+ils (elles) seront confirmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confirmé(e)
+tu serais confirmé(e)
+il (elle) serait confirmé(e)
+nous serions confirmé(e)s
+vous seriez confirmé(e)s
+ils (elles) seraient confirmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confirmé(e)
+que tu sois confirmé(e)
+qu’il (elle) soit confirmé(e)
+que nous soyons confirmé(e)s
+que vous soyez confirmé(e)s
+qu’ils (elles) soient confirmé(e)s
+
+** Imparfait
+
+que je fusse confirmé(e)
+que tu fusses confirmé(e)
+qu’il (elle) fût confirmé(e)
+que nous fussions confirmé(e)s
+que vous fussiez confirmé(e)s
+qu’ils (elles) fussent confirmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confirmé(e)s
+soyez confirmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être confirmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confirmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confirmé(e)
+tu as été confirmé(e)
+il (elle) a été confirmé(e)
+nous avons été confirmé(e)s
+vous avez été confirmé(e)s
+ils (elles) ont été confirmé(e)s
+
+** Plus-que-parfait
+
+j'avais été confirmé(e)
+il (elle) avait été confirmé(e)
+nous avions été confirmé(e)s
+ils (elles) avaient été confirmé(e)s
+
+** Passé antérieur
+
+j'eus été confirmé(e)
+tu eus été confirmé(e)
+il (elle) eut été confirmé(e)
+nous eûmes été confirmé(e)s
+vous eûtes été confirmé(e)s
+ils (elles) eurent été confirmé(e)s
+
+** Futur antérieur
+
+j'aurai été confirmé(e)
+tu auras été confirmé(e)
+il (elle) aura été confirmé(e)
+nous aurons été confirmé(e)s
+vous aurez été confirmé(e)s
+ils (elles) auront été confirmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confirmé(e)
+j'aurais été confirmé(e)
+il (elle) aurait été confirmé(e)
+nous aurions été confirmé(e)s
+vous auriez été confirmé(e)s
+ils (elles) auraient été confirmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confirmé(e)
+que tu aies été confirmé(e)
+qu’il (elle) ait été confirmé(e)
+que nous ayons été confirmé(e)s
+que vous ayez été confirmé(e)s
+qu’ils (elles) aient été confirmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confirmé(e)
+que tu eusses été confirmé(e)
+qu’il (elle) eût été confirmé(e)
+que nous eussions été confirmé(e)s
+que vous eussiez été confirmé(e)s
+qu’ils (elles) eussent été confirmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confirmé(e)
+ayons été confirmé(e)s
+ayez été confirmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confirmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confirmé(e)(s)

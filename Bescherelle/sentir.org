@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sentir
+
+* INDICATIF
+
+** Présent
+
+je sens
+tu sens
+il (elle) sent
+nous sentons
+vous sentez
+ils (elles) sentent
+
+** Imparfait
+
+je sentais
+tu sentais
+il (elle) sentait
+nous sentions
+vous sentiez
+ils (elles) sentaient
+
+** Passé simple
+
+je sentis
+tu sentis
+il (elle) sentit
+nous sentîmes
+vous sentîtes
+ils (elles) sentirent
+
+** Futur simple
+
+je sentirai
+tu sentiras
+il (elle) sentira
+nous sentirons
+vous sentirez
+ils (elles) sentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je sentirais
+tu sentirais
+il (elle) sentirait
+nous sentirions
+vous sentiriez
+ils (elles) sentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sente
+que tu sentes
+qu’il (elle) sente
+que nous sentions
+que vous sentiez
+qu’ils (elles) sentent
+
+** Imparfait
+
+que je sentisse
+que tu sentisses
+qu’il (elle) sentît
+que nous sentissions
+que vous sentissiez
+qu’ils (elles) sentissent
+
+* IMPÉRATIF
+
+** Présent
+
+sens
+sentons
+sentez
+
+* INFINITIF
+
+** Présent
+
+sentir
+
+* PARTICIPE
+
+** Présent
+
+sentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai senti
+tu as senti
+il (elle) a senti
+nous avons senti
+vous avez senti
+ils (elles) ont senti
+
+** Plus-que-parfait
+
+j'avais senti
+tu avais senti
+il (elle) avait senti
+nous avions senti
+vous aviez senti
+ils (elles) avaient senti
+
+** Passé antérieur
+
+j'eus senti
+tu eus senti
+il (elle) eut senti
+nous eûmes senti
+vous eûtes senti
+ils (elles) eurent senti
+
+** Futur antérieur
+
+j'aurai senti
+tu auras senti
+il (elle) aura senti
+nous aurons senti
+vous aurez senti
+ils (elles) auront senti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais senti
+tu aurais senti
+il (elle) aurait senti
+nous aurions senti
+vous auriez senti
+ils (elles) auraient senti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie senti
+que tu aies senti
+qu’il (elle) ait senti
+que nous ayons senti
+que vous ayez senti
+qu’ils (elles) aient senti
+
+** Plus-que-parfait
+
+que j'eusse senti
+que tu eusses senti
+qu’il (elle) eût senti
+que nous eussions senti
+que vous eussiez senti
+qu’ils (elles) eussent senti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons senti
+ayez senti
+
+* INFINITIF
+
+** Passé
+
+avoir senti
+
+* PARTICIPE
+
+** Passé
+
+ayant senti
+senti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis senti(e)
+tu es senti(e)
+il (elle) est senti(e)
+nous sommes senti(e)s
+vous êtes senti(e)s
+ils (elles) sont senti(e)s
+
+** Imparfait
+
+j'étais senti(e)
+tu étais senti(e)
+il (elle) était senti(e)
+nous étions senti(e)s
+vous étiez senti(e)s
+ils (elles) étaient senti(e)s
+
+** Passé simple
+
+je fus senti(e)
+tu fus senti(e)
+il (elle) fut senti(e)
+nous fûmes senti(e)s
+vous fûtes senti(e)s
+ils (elles) furent senti(e)s
+
+** Futur simple
+
+je serai senti(e)
+tu seras senti(e)
+il (elle) sera senti(e)
+nous serons senti(e)s
+vous serez senti(e)s
+ils (elles) seront senti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais senti(e)
+tu serais senti(e)
+il (elle) serait senti(e)
+nous serions senti(e)s
+vous seriez senti(e)s
+ils (elles) seraient senti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois senti(e)
+que tu sois senti(e)
+qu’il (elle) soit senti(e)
+que nous soyons senti(e)s
+que vous soyez senti(e)s
+qu’ils (elles) soient senti(e)s
+
+** Imparfait
+
+que je fusse senti(e)
+que tu fusses senti(e)
+qu’il (elle) fût senti(e)
+que nous fussions senti(e)s
+que vous fussiez senti(e)s
+qu’ils (elles) fussent senti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons senti(e)s
+soyez senti(e)s
+
+* INFINITIF
+
+** Présent
+
+être senti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant senti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été senti(e)
+tu as été senti(e)
+il (elle) a été senti(e)
+nous avons été senti(e)s
+vous avez été senti(e)s
+ils (elles) ont été senti(e)s
+
+** Plus-que-parfait
+
+j'avais été senti(e)
+il (elle) avait été senti(e)
+nous avions été senti(e)s
+ils (elles) avaient été senti(e)s
+
+** Passé antérieur
+
+j'eus été senti(e)
+tu eus été senti(e)
+il (elle) eut été senti(e)
+nous eûmes été senti(e)s
+vous eûtes été senti(e)s
+ils (elles) eurent été senti(e)s
+
+** Futur antérieur
+
+j'aurai été senti(e)
+tu auras été senti(e)
+il (elle) aura été senti(e)
+nous aurons été senti(e)s
+vous aurez été senti(e)s
+ils (elles) auront été senti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été senti(e)
+j'aurais été senti(e)
+il (elle) aurait été senti(e)
+nous aurions été senti(e)s
+vous auriez été senti(e)s
+ils (elles) auraient été senti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été senti(e)
+que tu aies été senti(e)
+qu’il (elle) ait été senti(e)
+que nous ayons été senti(e)s
+que vous ayez été senti(e)s
+qu’ils (elles) aient été senti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été senti(e)
+que tu eusses été senti(e)
+qu’il (elle) eût été senti(e)
+que nous eussions été senti(e)s
+que vous eussiez été senti(e)s
+qu’ils (elles) eussent été senti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été senti(e)
+ayons été senti(e)s
+ayez été senti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été senti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été senti(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe continuer
+
+* INDICATIF
+
+** Présent
+
+je continue
+tu continues
+il (elle) continue
+nous continuons
+vous continuez
+ils (elles) continuent
+
+** Imparfait
+
+je continuais
+tu continuais
+il (elle) continuait
+nous continuions
+vous continuiez
+ils (elles) continuaient
+
+** Passé simple
+
+je continuai
+tu continuas
+il (elle) continua
+nous continuâmes
+vous continuâtes
+ils (elles) continuèrent
+
+** Futur simple
+
+je continuerai
+tu continueras
+il (elle) continuera
+nous continuerons
+vous continuerez
+ils (elles) continueront
+
+* CONDITIONNEL
+
+** Présent
+
+je continuerais
+tu continuerais
+il (elle) continuerait
+nous continuerions
+vous continueriez
+ils (elles) continueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je continue
+que tu continues
+qu’il (elle) continue
+que nous continuions
+que vous continuiez
+qu’ils (elles) continuent
+
+** Imparfait
+
+que je continuasse
+que tu continuasses
+qu’il (elle) continuât
+que nous continuassions
+que vous continuassiez
+qu’ils (elles) continuassent
+
+* IMPÉRATIF
+
+** Présent
+
+continue
+continuons
+continuez
+
+* INFINITIF
+
+** Présent
+
+continuer
+
+* PARTICIPE
+
+** Présent
+
+continuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai continué
+tu as continué
+il (elle) a continué
+nous avons continué
+vous avez continué
+ils (elles) ont continué
+
+** Plus-que-parfait
+
+j'avais continué
+tu avais continué
+il (elle) avait continué
+nous avions continué
+vous aviez continué
+ils (elles) avaient continué
+
+** Passé antérieur
+
+j'eus continué
+tu eus continué
+il (elle) eut continué
+nous eûmes continué
+vous eûtes continué
+ils (elles) eurent continué
+
+** Futur antérieur
+
+j'aurai continué
+tu auras continué
+il (elle) aura continué
+nous aurons continué
+vous aurez continué
+ils (elles) auront continué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais continué
+tu aurais continué
+il (elle) aurait continué
+nous aurions continué
+vous auriez continué
+ils (elles) auraient continué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie continué
+que tu aies continué
+qu’il (elle) ait continué
+que nous ayons continué
+que vous ayez continué
+qu’ils (elles) aient continué
+
+** Plus-que-parfait
+
+que j'eusse continué
+que tu eusses continué
+qu’il (elle) eût continué
+que nous eussions continué
+que vous eussiez continué
+qu’ils (elles) eussent continué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons continué
+ayez continué
+
+* INFINITIF
+
+** Passé
+
+avoir continué
+
+* PARTICIPE
+
+** Passé
+
+ayant continué
+continué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis continué(e)
+tu es continué(e)
+il (elle) est continué(e)
+nous sommes continué(e)s
+vous êtes continué(e)s
+ils (elles) sont continué(e)s
+
+** Imparfait
+
+j'étais continué(e)
+tu étais continué(e)
+il (elle) était continué(e)
+nous étions continué(e)s
+vous étiez continué(e)s
+ils (elles) étaient continué(e)s
+
+** Passé simple
+
+je fus continué(e)
+tu fus continué(e)
+il (elle) fut continué(e)
+nous fûmes continué(e)s
+vous fûtes continué(e)s
+ils (elles) furent continué(e)s
+
+** Futur simple
+
+je serai continué(e)
+tu seras continué(e)
+il (elle) sera continué(e)
+nous serons continué(e)s
+vous serez continué(e)s
+ils (elles) seront continué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais continué(e)
+tu serais continué(e)
+il (elle) serait continué(e)
+nous serions continué(e)s
+vous seriez continué(e)s
+ils (elles) seraient continué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois continué(e)
+que tu sois continué(e)
+qu’il (elle) soit continué(e)
+que nous soyons continué(e)s
+que vous soyez continué(e)s
+qu’ils (elles) soient continué(e)s
+
+** Imparfait
+
+que je fusse continué(e)
+que tu fusses continué(e)
+qu’il (elle) fût continué(e)
+que nous fussions continué(e)s
+que vous fussiez continué(e)s
+qu’ils (elles) fussent continué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons continué(e)s
+soyez continué(e)s
+
+* INFINITIF
+
+** Présent
+
+être continué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant continué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été continué(e)
+tu as été continué(e)
+il (elle) a été continué(e)
+nous avons été continué(e)s
+vous avez été continué(e)s
+ils (elles) ont été continué(e)s
+
+** Plus-que-parfait
+
+j'avais été continué(e)
+il (elle) avait été continué(e)
+nous avions été continué(e)s
+ils (elles) avaient été continué(e)s
+
+** Passé antérieur
+
+j'eus été continué(e)
+tu eus été continué(e)
+il (elle) eut été continué(e)
+nous eûmes été continué(e)s
+vous eûtes été continué(e)s
+ils (elles) eurent été continué(e)s
+
+** Futur antérieur
+
+j'aurai été continué(e)
+tu auras été continué(e)
+il (elle) aura été continué(e)
+nous aurons été continué(e)s
+vous aurez été continué(e)s
+ils (elles) auront été continué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été continué(e)
+j'aurais été continué(e)
+il (elle) aurait été continué(e)
+nous aurions été continué(e)s
+vous auriez été continué(e)s
+ils (elles) auraient été continué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été continué(e)
+que tu aies été continué(e)
+qu’il (elle) ait été continué(e)
+que nous ayons été continué(e)s
+que vous ayez été continué(e)s
+qu’ils (elles) aient été continué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été continué(e)
+que tu eusses été continué(e)
+qu’il (elle) eût été continué(e)
+que nous eussions été continué(e)s
+que vous eussiez été continué(e)s
+qu’ils (elles) eussent été continué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été continué(e)
+ayons été continué(e)s
+ayez été continué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été continué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été continué(e)(s)

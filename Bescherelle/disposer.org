@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe disposer
+
+* INDICATIF
+
+** Présent
+
+je dispose
+tu disposes
+il (elle) dispose
+nous disposons
+vous disposez
+ils (elles) disposent
+
+** Imparfait
+
+je disposais
+tu disposais
+il (elle) disposait
+nous disposions
+vous disposiez
+ils (elles) disposaient
+
+** Passé simple
+
+je disposai
+tu disposas
+il (elle) disposa
+nous disposâmes
+vous disposâtes
+ils (elles) disposèrent
+
+** Futur simple
+
+je disposerai
+tu disposeras
+il (elle) disposera
+nous disposerons
+vous disposerez
+ils (elles) disposeront
+
+* CONDITIONNEL
+
+** Présent
+
+je disposerais
+tu disposerais
+il (elle) disposerait
+nous disposerions
+vous disposeriez
+ils (elles) disposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dispose
+que tu disposes
+qu’il (elle) dispose
+que nous disposions
+que vous disposiez
+qu’ils (elles) disposent
+
+** Imparfait
+
+que je disposasse
+que tu disposasses
+qu’il (elle) disposât
+que nous disposassions
+que vous disposassiez
+qu’ils (elles) disposassent
+
+* IMPÉRATIF
+
+** Présent
+
+dispose
+disposons
+disposez
+
+* INFINITIF
+
+** Présent
+
+disposer
+
+* PARTICIPE
+
+** Présent
+
+disposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai disposé
+tu as disposé
+il (elle) a disposé
+nous avons disposé
+vous avez disposé
+ils (elles) ont disposé
+
+** Plus-que-parfait
+
+j'avais disposé
+tu avais disposé
+il (elle) avait disposé
+nous avions disposé
+vous aviez disposé
+ils (elles) avaient disposé
+
+** Passé antérieur
+
+j'eus disposé
+tu eus disposé
+il (elle) eut disposé
+nous eûmes disposé
+vous eûtes disposé
+ils (elles) eurent disposé
+
+** Futur antérieur
+
+j'aurai disposé
+tu auras disposé
+il (elle) aura disposé
+nous aurons disposé
+vous aurez disposé
+ils (elles) auront disposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais disposé
+tu aurais disposé
+il (elle) aurait disposé
+nous aurions disposé
+vous auriez disposé
+ils (elles) auraient disposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie disposé
+que tu aies disposé
+qu’il (elle) ait disposé
+que nous ayons disposé
+que vous ayez disposé
+qu’ils (elles) aient disposé
+
+** Plus-que-parfait
+
+que j'eusse disposé
+que tu eusses disposé
+qu’il (elle) eût disposé
+que nous eussions disposé
+que vous eussiez disposé
+qu’ils (elles) eussent disposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons disposé
+ayez disposé
+
+* INFINITIF
+
+** Passé
+
+avoir disposé
+
+* PARTICIPE
+
+** Passé
+
+ayant disposé
+disposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis disposé(e)
+tu es disposé(e)
+il (elle) est disposé(e)
+nous sommes disposé(e)s
+vous êtes disposé(e)s
+ils (elles) sont disposé(e)s
+
+** Imparfait
+
+j'étais disposé(e)
+tu étais disposé(e)
+il (elle) était disposé(e)
+nous étions disposé(e)s
+vous étiez disposé(e)s
+ils (elles) étaient disposé(e)s
+
+** Passé simple
+
+je fus disposé(e)
+tu fus disposé(e)
+il (elle) fut disposé(e)
+nous fûmes disposé(e)s
+vous fûtes disposé(e)s
+ils (elles) furent disposé(e)s
+
+** Futur simple
+
+je serai disposé(e)
+tu seras disposé(e)
+il (elle) sera disposé(e)
+nous serons disposé(e)s
+vous serez disposé(e)s
+ils (elles) seront disposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais disposé(e)
+tu serais disposé(e)
+il (elle) serait disposé(e)
+nous serions disposé(e)s
+vous seriez disposé(e)s
+ils (elles) seraient disposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois disposé(e)
+que tu sois disposé(e)
+qu’il (elle) soit disposé(e)
+que nous soyons disposé(e)s
+que vous soyez disposé(e)s
+qu’ils (elles) soient disposé(e)s
+
+** Imparfait
+
+que je fusse disposé(e)
+que tu fusses disposé(e)
+qu’il (elle) fût disposé(e)
+que nous fussions disposé(e)s
+que vous fussiez disposé(e)s
+qu’ils (elles) fussent disposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons disposé(e)s
+soyez disposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être disposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant disposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été disposé(e)
+tu as été disposé(e)
+il (elle) a été disposé(e)
+nous avons été disposé(e)s
+vous avez été disposé(e)s
+ils (elles) ont été disposé(e)s
+
+** Plus-que-parfait
+
+j'avais été disposé(e)
+il (elle) avait été disposé(e)
+nous avions été disposé(e)s
+ils (elles) avaient été disposé(e)s
+
+** Passé antérieur
+
+j'eus été disposé(e)
+tu eus été disposé(e)
+il (elle) eut été disposé(e)
+nous eûmes été disposé(e)s
+vous eûtes été disposé(e)s
+ils (elles) eurent été disposé(e)s
+
+** Futur antérieur
+
+j'aurai été disposé(e)
+tu auras été disposé(e)
+il (elle) aura été disposé(e)
+nous aurons été disposé(e)s
+vous aurez été disposé(e)s
+ils (elles) auront été disposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été disposé(e)
+j'aurais été disposé(e)
+il (elle) aurait été disposé(e)
+nous aurions été disposé(e)s
+vous auriez été disposé(e)s
+ils (elles) auraient été disposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été disposé(e)
+que tu aies été disposé(e)
+qu’il (elle) ait été disposé(e)
+que nous ayons été disposé(e)s
+que vous ayez été disposé(e)s
+qu’ils (elles) aient été disposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été disposé(e)
+que tu eusses été disposé(e)
+qu’il (elle) eût été disposé(e)
+que nous eussions été disposé(e)s
+que vous eussiez été disposé(e)s
+qu’ils (elles) eussent été disposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été disposé(e)
+ayons été disposé(e)s
+ayez été disposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été disposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été disposé(e)(s)

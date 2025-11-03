@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe decrire
+
+* INDICATIF
+
+** Présent
+
+je décris
+tu décris
+il (elle) décrit
+nous décrivons
+vous décrivez
+ils (elles) décrivent
+
+** Imparfait
+
+je décrivais
+tu décrivais
+il (elle) décrivait
+nous décrivions
+vous décriviez
+ils (elles) décrivaient
+
+** Passé simple
+
+je décrivis
+tu décrivis
+il (elle) décrivit
+nous décrivîmes
+vous décrivîtes
+ils (elles) décrivirent
+
+** Futur simple
+
+je décrirai
+tu décriras
+il (elle) décrira
+nous décrirons
+vous décrirez
+ils (elles) décriront
+
+* CONDITIONNEL
+
+** Présent
+
+je décrirais
+tu décrirais
+il (elle) décrirait
+nous décririons
+vous décririez
+ils (elles) décriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je décrive
+que tu décrives
+qu’il (elle) décrive
+que nous décrivions
+que vous décriviez
+qu’ils (elles) décrivent
+
+** Imparfait
+
+que je décrivisse
+que tu décrivisses
+qu’il (elle) décrivît
+que nous décrivissions
+que vous décrivissiez
+qu’ils (elles) décrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+décris
+décrivons
+décrivez
+
+* INFINITIF
+
+** Présent
+
+décrire
+
+* PARTICIPE
+
+** Présent
+
+décrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai décrit
+tu as décrit
+il (elle) a décrit
+nous avons décrit
+vous avez décrit
+ils (elles) ont décrit
+
+** Plus-que-parfait
+
+j'avais décrit
+tu avais décrit
+il (elle) avait décrit
+nous avions décrit
+vous aviez décrit
+ils (elles) avaient décrit
+
+** Passé antérieur
+
+j'eus décrit
+tu eus décrit
+il (elle) eut décrit
+nous eûmes décrit
+vous eûtes décrit
+ils (elles) eurent décrit
+
+** Futur antérieur
+
+j'aurai décrit
+tu auras décrit
+il (elle) aura décrit
+nous aurons décrit
+vous aurez décrit
+ils (elles) auront décrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais décrit
+tu aurais décrit
+il (elle) aurait décrit
+nous aurions décrit
+vous auriez décrit
+ils (elles) auraient décrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie décrit
+que tu aies décrit
+qu’il (elle) ait décrit
+que nous ayons décrit
+que vous ayez décrit
+qu’ils (elles) aient décrit
+
+** Plus-que-parfait
+
+que j'eusse décrit
+que tu eusses décrit
+qu’il (elle) eût décrit
+que nous eussions décrit
+que vous eussiez décrit
+qu’ils (elles) eussent décrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons décrit
+ayez décrit
+
+* INFINITIF
+
+** Passé
+
+avoir décrit
+
+* PARTICIPE
+
+** Passé
+
+ayant décrit
+décrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis décrit(e)
+tu es décrit(e)
+il (elle) est décrit(e)
+nous sommes décrit(e)s
+vous êtes décrit(e)s
+ils (elles) sont décrit(e)s
+
+** Imparfait
+
+j'étais décrit(e)
+tu étais décrit(e)
+il (elle) était décrit(e)
+nous étions décrit(e)s
+vous étiez décrit(e)s
+ils (elles) étaient décrit(e)s
+
+** Passé simple
+
+je fus décrit(e)
+tu fus décrit(e)
+il (elle) fut décrit(e)
+nous fûmes décrit(e)s
+vous fûtes décrit(e)s
+ils (elles) furent décrit(e)s
+
+** Futur simple
+
+je serai décrit(e)
+tu seras décrit(e)
+il (elle) sera décrit(e)
+nous serons décrit(e)s
+vous serez décrit(e)s
+ils (elles) seront décrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais décrit(e)
+tu serais décrit(e)
+il (elle) serait décrit(e)
+nous serions décrit(e)s
+vous seriez décrit(e)s
+ils (elles) seraient décrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois décrit(e)
+que tu sois décrit(e)
+qu’il (elle) soit décrit(e)
+que nous soyons décrit(e)s
+que vous soyez décrit(e)s
+qu’ils (elles) soient décrit(e)s
+
+** Imparfait
+
+que je fusse décrit(e)
+que tu fusses décrit(e)
+qu’il (elle) fût décrit(e)
+que nous fussions décrit(e)s
+que vous fussiez décrit(e)s
+qu’ils (elles) fussent décrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons décrit(e)s
+soyez décrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être décrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant décrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été décrit(e)
+tu as été décrit(e)
+il (elle) a été décrit(e)
+nous avons été décrit(e)s
+vous avez été décrit(e)s
+ils (elles) ont été décrit(e)s
+
+** Plus-que-parfait
+
+j'avais été décrit(e)
+il (elle) avait été décrit(e)
+nous avions été décrit(e)s
+ils (elles) avaient été décrit(e)s
+
+** Passé antérieur
+
+j'eus été décrit(e)
+tu eus été décrit(e)
+il (elle) eut été décrit(e)
+nous eûmes été décrit(e)s
+vous eûtes été décrit(e)s
+ils (elles) eurent été décrit(e)s
+
+** Futur antérieur
+
+j'aurai été décrit(e)
+tu auras été décrit(e)
+il (elle) aura été décrit(e)
+nous aurons été décrit(e)s
+vous aurez été décrit(e)s
+ils (elles) auront été décrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été décrit(e)
+j'aurais été décrit(e)
+il (elle) aurait été décrit(e)
+nous aurions été décrit(e)s
+vous auriez été décrit(e)s
+ils (elles) auraient été décrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été décrit(e)
+que tu aies été décrit(e)
+qu’il (elle) ait été décrit(e)
+que nous ayons été décrit(e)s
+que vous ayez été décrit(e)s
+qu’ils (elles) aient été décrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été décrit(e)
+que tu eusses été décrit(e)
+qu’il (elle) eût été décrit(e)
+que nous eussions été décrit(e)s
+que vous eussiez été décrit(e)s
+qu’ils (elles) eussent été décrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été décrit(e)
+ayons été décrit(e)s
+ayez été décrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été décrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été décrit(e)(s)

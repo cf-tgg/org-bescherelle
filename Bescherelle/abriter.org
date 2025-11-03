@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abriter
+
+* INDICATIF
+
+** Présent
+
+j'abrite
+tu abrites
+il (elle) abrite
+nous abritons
+vous abritez
+ils (elles) abritent
+
+** Imparfait
+
+j'abritais
+tu abritais
+il (elle) abritait
+nous abritions
+vous abritiez
+ils (elles) abritaient
+
+** Passé simple
+
+j'abritai
+tu abritas
+il (elle) abrita
+nous abritâmes
+vous abritâtes
+ils (elles) abritèrent
+
+** Futur simple
+
+j'abriterai
+tu abriteras
+il (elle) abritera
+nous abriterons
+vous abriterez
+ils (elles) abriteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abriterais
+tu abriterais
+il (elle) abriterait
+nous abriterions
+vous abriteriez
+ils (elles) abriteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abrite
+que tu abrites
+qu’il (elle) abrite
+que nous abritions
+que vous abritiez
+qu’ils (elles) abritent
+
+** Imparfait
+
+que j'abritasse
+que tu abritasses
+qu’il (elle) abritât
+que nous abritassions
+que vous abritassiez
+qu’ils (elles) abritassent
+
+* IMPÉRATIF
+
+** Présent
+
+abrite
+abritons
+abritez
+
+* INFINITIF
+
+** Présent
+
+abriter
+
+* PARTICIPE
+
+** Présent
+
+abritant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abrité
+tu as abrité
+il (elle) a abrité
+nous avons abrité
+vous avez abrité
+ils (elles) ont abrité
+
+** Plus-que-parfait
+
+j'avais abrité
+tu avais abrité
+il (elle) avait abrité
+nous avions abrité
+vous aviez abrité
+ils (elles) avaient abrité
+
+** Passé antérieur
+
+j'eus abrité
+tu eus abrité
+il (elle) eut abrité
+nous eûmes abrité
+vous eûtes abrité
+ils (elles) eurent abrité
+
+** Futur antérieur
+
+j'aurai abrité
+tu auras abrité
+il (elle) aura abrité
+nous aurons abrité
+vous aurez abrité
+ils (elles) auront abrité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abrité
+tu aurais abrité
+il (elle) aurait abrité
+nous aurions abrité
+vous auriez abrité
+ils (elles) auraient abrité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abrité
+que tu aies abrité
+qu’il (elle) ait abrité
+que nous ayons abrité
+que vous ayez abrité
+qu’ils (elles) aient abrité
+
+** Plus-que-parfait
+
+que j'eusse abrité
+que tu eusses abrité
+qu’il (elle) eût abrité
+que nous eussions abrité
+que vous eussiez abrité
+qu’ils (elles) eussent abrité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abrité
+ayez abrité
+
+* INFINITIF
+
+** Passé
+
+avoir abrité
+
+* PARTICIPE
+
+** Passé
+
+ayant abrité
+abrité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abrité(e)
+tu es abrité(e)
+il (elle) est abrité(e)
+nous sommes abrité(e)s
+vous êtes abrité(e)s
+ils (elles) sont abrité(e)s
+
+** Imparfait
+
+j'étais abrité(e)
+tu étais abrité(e)
+il (elle) était abrité(e)
+nous étions abrité(e)s
+vous étiez abrité(e)s
+ils (elles) étaient abrité(e)s
+
+** Passé simple
+
+je fus abrité(e)
+tu fus abrité(e)
+il (elle) fut abrité(e)
+nous fûmes abrité(e)s
+vous fûtes abrité(e)s
+ils (elles) furent abrité(e)s
+
+** Futur simple
+
+je serai abrité(e)
+tu seras abrité(e)
+il (elle) sera abrité(e)
+nous serons abrité(e)s
+vous serez abrité(e)s
+ils (elles) seront abrité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abrité(e)
+tu serais abrité(e)
+il (elle) serait abrité(e)
+nous serions abrité(e)s
+vous seriez abrité(e)s
+ils (elles) seraient abrité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abrité(e)
+que tu sois abrité(e)
+qu’il (elle) soit abrité(e)
+que nous soyons abrité(e)s
+que vous soyez abrité(e)s
+qu’ils (elles) soient abrité(e)s
+
+** Imparfait
+
+que je fusse abrité(e)
+que tu fusses abrité(e)
+qu’il (elle) fût abrité(e)
+que nous fussions abrité(e)s
+que vous fussiez abrité(e)s
+qu’ils (elles) fussent abrité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abrité(e)s
+soyez abrité(e)s
+
+* INFINITIF
+
+** Présent
+
+être abrité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abrité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abrité(e)
+tu as été abrité(e)
+il (elle) a été abrité(e)
+nous avons été abrité(e)s
+vous avez été abrité(e)s
+ils (elles) ont été abrité(e)s
+
+** Plus-que-parfait
+
+j'avais été abrité(e)
+il (elle) avait été abrité(e)
+nous avions été abrité(e)s
+ils (elles) avaient été abrité(e)s
+
+** Passé antérieur
+
+j'eus été abrité(e)
+tu eus été abrité(e)
+il (elle) eut été abrité(e)
+nous eûmes été abrité(e)s
+vous eûtes été abrité(e)s
+ils (elles) eurent été abrité(e)s
+
+** Futur antérieur
+
+j'aurai été abrité(e)
+tu auras été abrité(e)
+il (elle) aura été abrité(e)
+nous aurons été abrité(e)s
+vous aurez été abrité(e)s
+ils (elles) auront été abrité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abrité(e)
+j'aurais été abrité(e)
+il (elle) aurait été abrité(e)
+nous aurions été abrité(e)s
+vous auriez été abrité(e)s
+ils (elles) auraient été abrité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abrité(e)
+que tu aies été abrité(e)
+qu’il (elle) ait été abrité(e)
+que nous ayons été abrité(e)s
+que vous ayez été abrité(e)s
+qu’ils (elles) aient été abrité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abrité(e)
+que tu eusses été abrité(e)
+qu’il (elle) eût été abrité(e)
+que nous eussions été abrité(e)s
+que vous eussiez été abrité(e)s
+qu’ils (elles) eussent été abrité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abrité(e)
+ayons été abrité(e)s
+ayez été abrité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abrité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abrité(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe paver
+
+* INDICATIF
+
+** Présent
+
+je pave
+tu paves
+il (elle) pave
+nous pavons
+vous pavez
+ils (elles) pavent
+
+** Imparfait
+
+je pavais
+tu pavais
+il (elle) pavait
+nous pavions
+vous paviez
+ils (elles) pavaient
+
+** Passé simple
+
+je pavai
+tu pavas
+il (elle) pava
+nous pavâmes
+vous pavâtes
+ils (elles) pavèrent
+
+** Futur simple
+
+je paverai
+tu paveras
+il (elle) pavera
+nous paverons
+vous paverez
+ils (elles) paveront
+
+* CONDITIONNEL
+
+** Présent
+
+je paverais
+tu paverais
+il (elle) paverait
+nous paverions
+vous paveriez
+ils (elles) paveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pave
+que tu paves
+qu’il (elle) pave
+que nous pavions
+que vous paviez
+qu’ils (elles) pavent
+
+** Imparfait
+
+que je pavasse
+que tu pavasses
+qu’il (elle) pavât
+que nous pavassions
+que vous pavassiez
+qu’ils (elles) pavassent
+
+* IMPÉRATIF
+
+** Présent
+
+pave
+pavons
+pavez
+
+* INFINITIF
+
+** Présent
+
+paver
+
+* PARTICIPE
+
+** Présent
+
+pavant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pavé
+tu as pavé
+il (elle) a pavé
+nous avons pavé
+vous avez pavé
+ils (elles) ont pavé
+
+** Plus-que-parfait
+
+j'avais pavé
+tu avais pavé
+il (elle) avait pavé
+nous avions pavé
+vous aviez pavé
+ils (elles) avaient pavé
+
+** Passé antérieur
+
+j'eus pavé
+tu eus pavé
+il (elle) eut pavé
+nous eûmes pavé
+vous eûtes pavé
+ils (elles) eurent pavé
+
+** Futur antérieur
+
+j'aurai pavé
+tu auras pavé
+il (elle) aura pavé
+nous aurons pavé
+vous aurez pavé
+ils (elles) auront pavé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pavé
+tu aurais pavé
+il (elle) aurait pavé
+nous aurions pavé
+vous auriez pavé
+ils (elles) auraient pavé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pavé
+que tu aies pavé
+qu’il (elle) ait pavé
+que nous ayons pavé
+que vous ayez pavé
+qu’ils (elles) aient pavé
+
+** Plus-que-parfait
+
+que j'eusse pavé
+que tu eusses pavé
+qu’il (elle) eût pavé
+que nous eussions pavé
+que vous eussiez pavé
+qu’ils (elles) eussent pavé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pavé
+ayez pavé
+
+* INFINITIF
+
+** Passé
+
+avoir pavé
+
+* PARTICIPE
+
+** Passé
+
+ayant pavé
+pavé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pavé(e)
+tu es pavé(e)
+il (elle) est pavé(e)
+nous sommes pavé(e)s
+vous êtes pavé(e)s
+ils (elles) sont pavé(e)s
+
+** Imparfait
+
+j'étais pavé(e)
+tu étais pavé(e)
+il (elle) était pavé(e)
+nous étions pavé(e)s
+vous étiez pavé(e)s
+ils (elles) étaient pavé(e)s
+
+** Passé simple
+
+je fus pavé(e)
+tu fus pavé(e)
+il (elle) fut pavé(e)
+nous fûmes pavé(e)s
+vous fûtes pavé(e)s
+ils (elles) furent pavé(e)s
+
+** Futur simple
+
+je serai pavé(e)
+tu seras pavé(e)
+il (elle) sera pavé(e)
+nous serons pavé(e)s
+vous serez pavé(e)s
+ils (elles) seront pavé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pavé(e)
+tu serais pavé(e)
+il (elle) serait pavé(e)
+nous serions pavé(e)s
+vous seriez pavé(e)s
+ils (elles) seraient pavé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pavé(e)
+que tu sois pavé(e)
+qu’il (elle) soit pavé(e)
+que nous soyons pavé(e)s
+que vous soyez pavé(e)s
+qu’ils (elles) soient pavé(e)s
+
+** Imparfait
+
+que je fusse pavé(e)
+que tu fusses pavé(e)
+qu’il (elle) fût pavé(e)
+que nous fussions pavé(e)s
+que vous fussiez pavé(e)s
+qu’ils (elles) fussent pavé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pavé(e)s
+soyez pavé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pavé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pavé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pavé(e)
+tu as été pavé(e)
+il (elle) a été pavé(e)
+nous avons été pavé(e)s
+vous avez été pavé(e)s
+ils (elles) ont été pavé(e)s
+
+** Plus-que-parfait
+
+j'avais été pavé(e)
+il (elle) avait été pavé(e)
+nous avions été pavé(e)s
+ils (elles) avaient été pavé(e)s
+
+** Passé antérieur
+
+j'eus été pavé(e)
+tu eus été pavé(e)
+il (elle) eut été pavé(e)
+nous eûmes été pavé(e)s
+vous eûtes été pavé(e)s
+ils (elles) eurent été pavé(e)s
+
+** Futur antérieur
+
+j'aurai été pavé(e)
+tu auras été pavé(e)
+il (elle) aura été pavé(e)
+nous aurons été pavé(e)s
+vous aurez été pavé(e)s
+ils (elles) auront été pavé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pavé(e)
+j'aurais été pavé(e)
+il (elle) aurait été pavé(e)
+nous aurions été pavé(e)s
+vous auriez été pavé(e)s
+ils (elles) auraient été pavé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pavé(e)
+que tu aies été pavé(e)
+qu’il (elle) ait été pavé(e)
+que nous ayons été pavé(e)s
+que vous ayez été pavé(e)s
+qu’ils (elles) aient été pavé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pavé(e)
+que tu eusses été pavé(e)
+qu’il (elle) eût été pavé(e)
+que nous eussions été pavé(e)s
+que vous eussiez été pavé(e)s
+qu’ils (elles) eussent été pavé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pavé(e)
+ayons été pavé(e)s
+ayez été pavé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pavé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pavé(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe japper
+
+* INDICATIF
+
+** Présent
+
+je jappe
+tu jappes
+il (elle) jappe
+nous jappons
+vous jappez
+ils (elles) jappent
+
+** Imparfait
+
+je jappais
+tu jappais
+il (elle) jappait
+nous jappions
+vous jappiez
+ils (elles) jappaient
+
+** Passé simple
+
+je jappai
+tu jappas
+il (elle) jappa
+nous jappâmes
+vous jappâtes
+ils (elles) jappèrent
+
+** Futur simple
+
+je japperai
+tu japperas
+il (elle) jappera
+nous japperons
+vous japperez
+ils (elles) japperont
+
+* CONDITIONNEL
+
+** Présent
+
+je japperais
+tu japperais
+il (elle) japperait
+nous japperions
+vous japperiez
+ils (elles) japperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jappe
+que tu jappes
+qu’il (elle) jappe
+que nous jappions
+que vous jappiez
+qu’ils (elles) jappent
+
+** Imparfait
+
+que je jappasse
+que tu jappasses
+qu’il (elle) jappât
+que nous jappassions
+que vous jappassiez
+qu’ils (elles) jappassent
+
+* IMPÉRATIF
+
+** Présent
+
+jappe
+jappons
+jappez
+
+* INFINITIF
+
+** Présent
+
+japper
+
+* PARTICIPE
+
+** Présent
+
+jappant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jappé
+tu as jappé
+il (elle) a jappé
+nous avons jappé
+vous avez jappé
+ils (elles) ont jappé
+
+** Plus-que-parfait
+
+j'avais jappé
+tu avais jappé
+il (elle) avait jappé
+nous avions jappé
+vous aviez jappé
+ils (elles) avaient jappé
+
+** Passé antérieur
+
+j'eus jappé
+tu eus jappé
+il (elle) eut jappé
+nous eûmes jappé
+vous eûtes jappé
+ils (elles) eurent jappé
+
+** Futur antérieur
+
+j'aurai jappé
+tu auras jappé
+il (elle) aura jappé
+nous aurons jappé
+vous aurez jappé
+ils (elles) auront jappé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jappé
+tu aurais jappé
+il (elle) aurait jappé
+nous aurions jappé
+vous auriez jappé
+ils (elles) auraient jappé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jappé
+que tu aies jappé
+qu’il (elle) ait jappé
+que nous ayons jappé
+que vous ayez jappé
+qu’ils (elles) aient jappé
+
+** Plus-que-parfait
+
+que j'eusse jappé
+que tu eusses jappé
+qu’il (elle) eût jappé
+que nous eussions jappé
+que vous eussiez jappé
+qu’ils (elles) eussent jappé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jappé
+ayez jappé
+
+* INFINITIF
+
+** Passé
+
+avoir jappé
+
+* PARTICIPE
+
+** Passé
+
+ayant jappé
+jappé (invar.)

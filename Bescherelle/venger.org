@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe venger
+
+* INDICATIF
+
+** Présent
+
+je venge
+tu venges
+il (elle) venge
+nous vengeons
+vous vengez
+ils (elles) vengent
+
+** Imparfait
+
+je vengeais
+tu vengeais
+il (elle) vengeait
+nous vengions
+vous vengiez
+ils (elles) vengeaient
+
+** Passé simple
+
+je vengeai
+tu vengeas
+il (elle) vengea
+nous vengeâmes
+vous vengeâtes
+ils (elles) vengèrent
+
+** Futur simple
+
+je vengerai
+tu vengeras
+il (elle) vengera
+nous vengerons
+vous vengerez
+ils (elles) vengeront
+
+* CONDITIONNEL
+
+** Présent
+
+je vengerais
+tu vengerais
+il (elle) vengerait
+nous vengerions
+vous vengeriez
+ils (elles) vengeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je venge
+que tu venges
+qu’il (elle) venge
+que nous vengions
+que vous vengiez
+qu’ils (elles) vengent
+
+** Imparfait
+
+que je vengeasse
+que tu vengeasses
+qu’il (elle) vengeât
+que nous vengeassions
+que vous vengeassiez
+qu’ils (elles) vengeassent
+
+* IMPÉRATIF
+
+** Présent
+
+venge
+vengeons
+vengez
+
+* INFINITIF
+
+** Présent
+
+venger
+
+* PARTICIPE
+
+** Présent
+
+vengeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vengé
+tu as vengé
+il (elle) a vengé
+nous avons vengé
+vous avez vengé
+ils (elles) ont vengé
+
+** Plus-que-parfait
+
+j'avais vengé
+tu avais vengé
+il (elle) avait vengé
+nous avions vengé
+vous aviez vengé
+ils (elles) avaient vengé
+
+** Passé antérieur
+
+j'eus vengé
+tu eus vengé
+il (elle) eut vengé
+nous eûmes vengé
+vous eûtes vengé
+ils (elles) eurent vengé
+
+** Futur antérieur
+
+j'aurai vengé
+tu auras vengé
+il (elle) aura vengé
+nous aurons vengé
+vous aurez vengé
+ils (elles) auront vengé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vengé
+tu aurais vengé
+il (elle) aurait vengé
+nous aurions vengé
+vous auriez vengé
+ils (elles) auraient vengé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vengé
+que tu aies vengé
+qu’il (elle) ait vengé
+que nous ayons vengé
+que vous ayez vengé
+qu’ils (elles) aient vengé
+
+** Plus-que-parfait
+
+que j'eusse vengé
+que tu eusses vengé
+qu’il (elle) eût vengé
+que nous eussions vengé
+que vous eussiez vengé
+qu’ils (elles) eussent vengé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vengé
+ayez vengé
+
+* INFINITIF
+
+** Passé
+
+avoir vengé
+
+* PARTICIPE
+
+** Passé
+
+ayant vengé
+vengé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vengé(e)
+tu es vengé(e)
+il (elle) est vengé(e)
+nous sommes vengé(e)s
+vous êtes vengé(e)s
+ils (elles) sont vengé(e)s
+
+** Imparfait
+
+j'étais vengé(e)
+tu étais vengé(e)
+il (elle) était vengé(e)
+nous étions vengé(e)s
+vous étiez vengé(e)s
+ils (elles) étaient vengé(e)s
+
+** Passé simple
+
+je fus vengé(e)
+tu fus vengé(e)
+il (elle) fut vengé(e)
+nous fûmes vengé(e)s
+vous fûtes vengé(e)s
+ils (elles) furent vengé(e)s
+
+** Futur simple
+
+je serai vengé(e)
+tu seras vengé(e)
+il (elle) sera vengé(e)
+nous serons vengé(e)s
+vous serez vengé(e)s
+ils (elles) seront vengé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vengé(e)
+tu serais vengé(e)
+il (elle) serait vengé(e)
+nous serions vengé(e)s
+vous seriez vengé(e)s
+ils (elles) seraient vengé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vengé(e)
+que tu sois vengé(e)
+qu’il (elle) soit vengé(e)
+que nous soyons vengé(e)s
+que vous soyez vengé(e)s
+qu’ils (elles) soient vengé(e)s
+
+** Imparfait
+
+que je fusse vengé(e)
+que tu fusses vengé(e)
+qu’il (elle) fût vengé(e)
+que nous fussions vengé(e)s
+que vous fussiez vengé(e)s
+qu’ils (elles) fussent vengé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vengé(e)s
+soyez vengé(e)s
+
+* INFINITIF
+
+** Présent
+
+être vengé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vengé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vengé(e)
+tu as été vengé(e)
+il (elle) a été vengé(e)
+nous avons été vengé(e)s
+vous avez été vengé(e)s
+ils (elles) ont été vengé(e)s
+
+** Plus-que-parfait
+
+j'avais été vengé(e)
+il (elle) avait été vengé(e)
+nous avions été vengé(e)s
+ils (elles) avaient été vengé(e)s
+
+** Passé antérieur
+
+j'eus été vengé(e)
+tu eus été vengé(e)
+il (elle) eut été vengé(e)
+nous eûmes été vengé(e)s
+vous eûtes été vengé(e)s
+ils (elles) eurent été vengé(e)s
+
+** Futur antérieur
+
+j'aurai été vengé(e)
+tu auras été vengé(e)
+il (elle) aura été vengé(e)
+nous aurons été vengé(e)s
+vous aurez été vengé(e)s
+ils (elles) auront été vengé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vengé(e)
+j'aurais été vengé(e)
+il (elle) aurait été vengé(e)
+nous aurions été vengé(e)s
+vous auriez été vengé(e)s
+ils (elles) auraient été vengé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vengé(e)
+que tu aies été vengé(e)
+qu’il (elle) ait été vengé(e)
+que nous ayons été vengé(e)s
+que vous ayez été vengé(e)s
+qu’ils (elles) aient été vengé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vengé(e)
+que tu eusses été vengé(e)
+qu’il (elle) eût été vengé(e)
+que nous eussions été vengé(e)s
+que vous eussiez été vengé(e)s
+qu’ils (elles) eussent été vengé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vengé(e)
+ayons été vengé(e)s
+ayez été vengé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vengé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vengé(e)(s)

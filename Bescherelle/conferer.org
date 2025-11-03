@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conferer
+
+* INDICATIF
+
+** Présent
+
+je confère
+tu confères
+il (elle) confère
+nous conférons
+vous conférez
+ils (elles) confèrent
+
+** Imparfait
+
+je conférais
+tu conférais
+il (elle) conférait
+nous conférions
+vous confériez
+ils (elles) conféraient
+
+** Passé simple
+
+je conférai
+tu conféras
+il (elle) conféra
+nous conférâmes
+vous conférâtes
+ils (elles) conférèrent
+
+** Futur simple
+
+je conférerai
+tu conféreras
+il (elle) conférera
+nous conférerons
+vous conférerez
+ils (elles) conféreront
+
+* CONDITIONNEL
+
+** Présent
+
+je conférerais
+tu conférerais
+il (elle) conférerait
+nous conférerions
+vous conféreriez
+ils (elles) conféreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confère
+que tu confères
+qu’il (elle) confère
+que nous conférions
+que vous confériez
+qu’ils (elles) confèrent
+
+** Imparfait
+
+que je conférasse
+que tu conférasses
+qu’il (elle) conférât
+que nous conférassions
+que vous conférassiez
+qu’ils (elles) conférassent
+
+* IMPÉRATIF
+
+** Présent
+
+confère
+conférons
+conférez
+
+* INFINITIF
+
+** Présent
+
+conférer
+
+* PARTICIPE
+
+** Présent
+
+conférant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conféré
+tu as conféré
+il (elle) a conféré
+nous avons conféré
+vous avez conféré
+ils (elles) ont conféré
+
+** Plus-que-parfait
+
+j'avais conféré
+tu avais conféré
+il (elle) avait conféré
+nous avions conféré
+vous aviez conféré
+ils (elles) avaient conféré
+
+** Passé antérieur
+
+j'eus conféré
+tu eus conféré
+il (elle) eut conféré
+nous eûmes conféré
+vous eûtes conféré
+ils (elles) eurent conféré
+
+** Futur antérieur
+
+j'aurai conféré
+tu auras conféré
+il (elle) aura conféré
+nous aurons conféré
+vous aurez conféré
+ils (elles) auront conféré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conféré
+tu aurais conféré
+il (elle) aurait conféré
+nous aurions conféré
+vous auriez conféré
+ils (elles) auraient conféré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conféré
+que tu aies conféré
+qu’il (elle) ait conféré
+que nous ayons conféré
+que vous ayez conféré
+qu’ils (elles) aient conféré
+
+** Plus-que-parfait
+
+que j'eusse conféré
+que tu eusses conféré
+qu’il (elle) eût conféré
+que nous eussions conféré
+que vous eussiez conféré
+qu’ils (elles) eussent conféré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conféré
+ayez conféré
+
+* INFINITIF
+
+** Passé
+
+avoir conféré
+
+* PARTICIPE
+
+** Passé
+
+ayant conféré
+conféré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conféré(e)
+tu es conféré(e)
+il (elle) est conféré(e)
+nous sommes conféré(e)s
+vous êtes conféré(e)s
+ils (elles) sont conféré(e)s
+
+** Imparfait
+
+j'étais conféré(e)
+tu étais conféré(e)
+il (elle) était conféré(e)
+nous étions conféré(e)s
+vous étiez conféré(e)s
+ils (elles) étaient conféré(e)s
+
+** Passé simple
+
+je fus conféré(e)
+tu fus conféré(e)
+il (elle) fut conféré(e)
+nous fûmes conféré(e)s
+vous fûtes conféré(e)s
+ils (elles) furent conféré(e)s
+
+** Futur simple
+
+je serai conféré(e)
+tu seras conféré(e)
+il (elle) sera conféré(e)
+nous serons conféré(e)s
+vous serez conféré(e)s
+ils (elles) seront conféré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conféré(e)
+tu serais conféré(e)
+il (elle) serait conféré(e)
+nous serions conféré(e)s
+vous seriez conféré(e)s
+ils (elles) seraient conféré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conféré(e)
+que tu sois conféré(e)
+qu’il (elle) soit conféré(e)
+que nous soyons conféré(e)s
+que vous soyez conféré(e)s
+qu’ils (elles) soient conféré(e)s
+
+** Imparfait
+
+que je fusse conféré(e)
+que tu fusses conféré(e)
+qu’il (elle) fût conféré(e)
+que nous fussions conféré(e)s
+que vous fussiez conféré(e)s
+qu’ils (elles) fussent conféré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conféré(e)s
+soyez conféré(e)s
+
+* INFINITIF
+
+** Présent
+
+être conféré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conféré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conféré(e)
+tu as été conféré(e)
+il (elle) a été conféré(e)
+nous avons été conféré(e)s
+vous avez été conféré(e)s
+ils (elles) ont été conféré(e)s
+
+** Plus-que-parfait
+
+j'avais été conféré(e)
+il (elle) avait été conféré(e)
+nous avions été conféré(e)s
+ils (elles) avaient été conféré(e)s
+
+** Passé antérieur
+
+j'eus été conféré(e)
+tu eus été conféré(e)
+il (elle) eut été conféré(e)
+nous eûmes été conféré(e)s
+vous eûtes été conféré(e)s
+ils (elles) eurent été conféré(e)s
+
+** Futur antérieur
+
+j'aurai été conféré(e)
+tu auras été conféré(e)
+il (elle) aura été conféré(e)
+nous aurons été conféré(e)s
+vous aurez été conféré(e)s
+ils (elles) auront été conféré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conféré(e)
+j'aurais été conféré(e)
+il (elle) aurait été conféré(e)
+nous aurions été conféré(e)s
+vous auriez été conféré(e)s
+ils (elles) auraient été conféré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conféré(e)
+que tu aies été conféré(e)
+qu’il (elle) ait été conféré(e)
+que nous ayons été conféré(e)s
+que vous ayez été conféré(e)s
+qu’ils (elles) aient été conféré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conféré(e)
+que tu eusses été conféré(e)
+qu’il (elle) eût été conféré(e)
+que nous eussions été conféré(e)s
+que vous eussiez été conféré(e)s
+qu’ils (elles) eussent été conféré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conféré(e)
+ayons été conféré(e)s
+ayez été conféré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conféré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conféré(e)(s)

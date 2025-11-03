@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe relancer
+
+* INDICATIF
+
+** Présent
+
+je relance
+tu relances
+il (elle) relance
+nous relançons
+vous relancez
+ils (elles) relancent
+
+** Imparfait
+
+je relançais
+tu relançais
+il (elle) relançait
+nous relancions
+vous relanciez
+ils (elles) relançaient
+
+** Passé simple
+
+je relançai
+tu relanças
+il (elle) relança
+nous relançâmes
+vous relançâtes
+ils (elles) relancèrent
+
+** Futur simple
+
+je relancerai
+tu relanceras
+il (elle) relancera
+nous relancerons
+vous relancerez
+ils (elles) relanceront
+
+* CONDITIONNEL
+
+** Présent
+
+je relancerais
+tu relancerais
+il (elle) relancerait
+nous relancerions
+vous relanceriez
+ils (elles) relanceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je relance
+que tu relances
+qu’il (elle) relance
+que nous relancions
+que vous relanciez
+qu’ils (elles) relancent
+
+** Imparfait
+
+que je relançasse
+que tu relançasses
+qu’il (elle) relançât
+que nous relançassions
+que vous relançassiez
+qu’ils (elles) relançassent
+
+* IMPÉRATIF
+
+** Présent
+
+relance
+relançons
+relancez
+
+* INFINITIF
+
+** Présent
+
+relancer
+
+* PARTICIPE
+
+** Présent
+
+relançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai relancé
+tu as relancé
+il (elle) a relancé
+nous avons relancé
+vous avez relancé
+ils (elles) ont relancé
+
+** Plus-que-parfait
+
+j'avais relancé
+tu avais relancé
+il (elle) avait relancé
+nous avions relancé
+vous aviez relancé
+ils (elles) avaient relancé
+
+** Passé antérieur
+
+j'eus relancé
+tu eus relancé
+il (elle) eut relancé
+nous eûmes relancé
+vous eûtes relancé
+ils (elles) eurent relancé
+
+** Futur antérieur
+
+j'aurai relancé
+tu auras relancé
+il (elle) aura relancé
+nous aurons relancé
+vous aurez relancé
+ils (elles) auront relancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais relancé
+tu aurais relancé
+il (elle) aurait relancé
+nous aurions relancé
+vous auriez relancé
+ils (elles) auraient relancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie relancé
+que tu aies relancé
+qu’il (elle) ait relancé
+que nous ayons relancé
+que vous ayez relancé
+qu’ils (elles) aient relancé
+
+** Plus-que-parfait
+
+que j'eusse relancé
+que tu eusses relancé
+qu’il (elle) eût relancé
+que nous eussions relancé
+que vous eussiez relancé
+qu’ils (elles) eussent relancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons relancé
+ayez relancé
+
+* INFINITIF
+
+** Passé
+
+avoir relancé
+
+* PARTICIPE
+
+** Passé
+
+ayant relancé
+relancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis relancé(e)
+tu es relancé(e)
+il (elle) est relancé(e)
+nous sommes relancé(e)s
+vous êtes relancé(e)s
+ils (elles) sont relancé(e)s
+
+** Imparfait
+
+j'étais relancé(e)
+tu étais relancé(e)
+il (elle) était relancé(e)
+nous étions relancé(e)s
+vous étiez relancé(e)s
+ils (elles) étaient relancé(e)s
+
+** Passé simple
+
+je fus relancé(e)
+tu fus relancé(e)
+il (elle) fut relancé(e)
+nous fûmes relancé(e)s
+vous fûtes relancé(e)s
+ils (elles) furent relancé(e)s
+
+** Futur simple
+
+je serai relancé(e)
+tu seras relancé(e)
+il (elle) sera relancé(e)
+nous serons relancé(e)s
+vous serez relancé(e)s
+ils (elles) seront relancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais relancé(e)
+tu serais relancé(e)
+il (elle) serait relancé(e)
+nous serions relancé(e)s
+vous seriez relancé(e)s
+ils (elles) seraient relancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois relancé(e)
+que tu sois relancé(e)
+qu’il (elle) soit relancé(e)
+que nous soyons relancé(e)s
+que vous soyez relancé(e)s
+qu’ils (elles) soient relancé(e)s
+
+** Imparfait
+
+que je fusse relancé(e)
+que tu fusses relancé(e)
+qu’il (elle) fût relancé(e)
+que nous fussions relancé(e)s
+que vous fussiez relancé(e)s
+qu’ils (elles) fussent relancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons relancé(e)s
+soyez relancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être relancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant relancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été relancé(e)
+tu as été relancé(e)
+il (elle) a été relancé(e)
+nous avons été relancé(e)s
+vous avez été relancé(e)s
+ils (elles) ont été relancé(e)s
+
+** Plus-que-parfait
+
+j'avais été relancé(e)
+il (elle) avait été relancé(e)
+nous avions été relancé(e)s
+ils (elles) avaient été relancé(e)s
+
+** Passé antérieur
+
+j'eus été relancé(e)
+tu eus été relancé(e)
+il (elle) eut été relancé(e)
+nous eûmes été relancé(e)s
+vous eûtes été relancé(e)s
+ils (elles) eurent été relancé(e)s
+
+** Futur antérieur
+
+j'aurai été relancé(e)
+tu auras été relancé(e)
+il (elle) aura été relancé(e)
+nous aurons été relancé(e)s
+vous aurez été relancé(e)s
+ils (elles) auront été relancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été relancé(e)
+j'aurais été relancé(e)
+il (elle) aurait été relancé(e)
+nous aurions été relancé(e)s
+vous auriez été relancé(e)s
+ils (elles) auraient été relancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été relancé(e)
+que tu aies été relancé(e)
+qu’il (elle) ait été relancé(e)
+que nous ayons été relancé(e)s
+que vous ayez été relancé(e)s
+qu’ils (elles) aient été relancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été relancé(e)
+que tu eusses été relancé(e)
+qu’il (elle) eût été relancé(e)
+que nous eussions été relancé(e)s
+que vous eussiez été relancé(e)s
+qu’ils (elles) eussent été relancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été relancé(e)
+ayons été relancé(e)s
+ayez été relancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été relancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été relancé(e)(s)

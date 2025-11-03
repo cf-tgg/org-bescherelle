@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe raler
+
+* INDICATIF
+
+** Présent
+
+je râle
+tu râles
+il (elle) râle
+nous râlons
+vous râlez
+ils (elles) râlent
+
+** Imparfait
+
+je râlais
+tu râlais
+il (elle) râlait
+nous râlions
+vous râliez
+ils (elles) râlaient
+
+** Passé simple
+
+je râlai
+tu râlas
+il (elle) râla
+nous râlâmes
+vous râlâtes
+ils (elles) râlèrent
+
+** Futur simple
+
+je râlerai
+tu râleras
+il (elle) râlera
+nous râlerons
+vous râlerez
+ils (elles) râleront
+
+* CONDITIONNEL
+
+** Présent
+
+je râlerais
+tu râlerais
+il (elle) râlerait
+nous râlerions
+vous râleriez
+ils (elles) râleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je râle
+que tu râles
+qu’il (elle) râle
+que nous râlions
+que vous râliez
+qu’ils (elles) râlent
+
+** Imparfait
+
+que je râlasse
+que tu râlasses
+qu’il (elle) râlât
+que nous râlassions
+que vous râlassiez
+qu’ils (elles) râlassent
+
+* IMPÉRATIF
+
+** Présent
+
+râle
+râlons
+râlez
+
+* INFINITIF
+
+** Présent
+
+râler
+
+* PARTICIPE
+
+** Présent
+
+râlant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai râlé
+tu as râlé
+il (elle) a râlé
+nous avons râlé
+vous avez râlé
+ils (elles) ont râlé
+
+** Plus-que-parfait
+
+j'avais râlé
+tu avais râlé
+il (elle) avait râlé
+nous avions râlé
+vous aviez râlé
+ils (elles) avaient râlé
+
+** Passé antérieur
+
+j'eus râlé
+tu eus râlé
+il (elle) eut râlé
+nous eûmes râlé
+vous eûtes râlé
+ils (elles) eurent râlé
+
+** Futur antérieur
+
+j'aurai râlé
+tu auras râlé
+il (elle) aura râlé
+nous aurons râlé
+vous aurez râlé
+ils (elles) auront râlé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais râlé
+tu aurais râlé
+il (elle) aurait râlé
+nous aurions râlé
+vous auriez râlé
+ils (elles) auraient râlé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie râlé
+que tu aies râlé
+qu’il (elle) ait râlé
+que nous ayons râlé
+que vous ayez râlé
+qu’ils (elles) aient râlé
+
+** Plus-que-parfait
+
+que j'eusse râlé
+que tu eusses râlé
+qu’il (elle) eût râlé
+que nous eussions râlé
+que vous eussiez râlé
+qu’ils (elles) eussent râlé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons râlé
+ayez râlé
+
+* INFINITIF
+
+** Passé
+
+avoir râlé
+
+* PARTICIPE
+
+** Passé
+
+ayant râlé
+râlé (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe epiner
+
+* INDICATIF
+
+** Présent
+
+j'épine
+tu épines
+il (elle) épine
+nous épinons
+vous épinez
+ils (elles) épinent
+
+** Imparfait
+
+j'épinais
+tu épinais
+il (elle) épinait
+nous épinions
+vous épiniez
+ils (elles) épinaient
+
+** Passé simple
+
+j'épinai
+tu épinas
+il (elle) épina
+nous épinâmes
+vous épinâtes
+ils (elles) épinèrent
+
+** Futur simple
+
+j'épinerai
+tu épineras
+il (elle) épinera
+nous épinerons
+vous épinerez
+ils (elles) épineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'épinerais
+tu épinerais
+il (elle) épinerait
+nous épinerions
+vous épineriez
+ils (elles) épineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'épine
+que tu épines
+qu’il (elle) épine
+que nous épinions
+que vous épiniez
+qu’ils (elles) épinent
+
+** Imparfait
+
+que j'épinasse
+que tu épinasses
+qu’il (elle) épinât
+que nous épinassions
+que vous épinassiez
+qu’ils (elles) épinassent
+
+* IMPÉRATIF
+
+** Présent
+
+épine
+épinons
+épinez
+
+* INFINITIF
+
+** Présent
+
+épiner
+
+* PARTICIPE
+
+** Présent
+
+épinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai épiné
+tu as épiné
+il (elle) a épiné
+nous avons épiné
+vous avez épiné
+ils (elles) ont épiné
+
+** Plus-que-parfait
+
+j'avais épiné
+tu avais épiné
+il (elle) avait épiné
+nous avions épiné
+vous aviez épiné
+ils (elles) avaient épiné
+
+** Passé antérieur
+
+j'eus épiné
+tu eus épiné
+il (elle) eut épiné
+nous eûmes épiné
+vous eûtes épiné
+ils (elles) eurent épiné
+
+** Futur antérieur
+
+j'aurai épiné
+tu auras épiné
+il (elle) aura épiné
+nous aurons épiné
+vous aurez épiné
+ils (elles) auront épiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais épiné
+tu aurais épiné
+il (elle) aurait épiné
+nous aurions épiné
+vous auriez épiné
+ils (elles) auraient épiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie épiné
+que tu aies épiné
+qu’il (elle) ait épiné
+que nous ayons épiné
+que vous ayez épiné
+qu’ils (elles) aient épiné
+
+** Plus-que-parfait
+
+que j'eusse épiné
+que tu eusses épiné
+qu’il (elle) eût épiné
+que nous eussions épiné
+que vous eussiez épiné
+qu’ils (elles) eussent épiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons épiné
+ayez épiné
+
+* INFINITIF
+
+** Passé
+
+avoir épiné
+
+* PARTICIPE
+
+** Passé
+
+ayant épiné
+épiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis épiné(e)
+tu es épiné(e)
+il (elle) est épiné(e)
+nous sommes épiné(e)s
+vous êtes épiné(e)s
+ils (elles) sont épiné(e)s
+
+** Imparfait
+
+j'étais épiné(e)
+tu étais épiné(e)
+il (elle) était épiné(e)
+nous étions épiné(e)s
+vous étiez épiné(e)s
+ils (elles) étaient épiné(e)s
+
+** Passé simple
+
+je fus épiné(e)
+tu fus épiné(e)
+il (elle) fut épiné(e)
+nous fûmes épiné(e)s
+vous fûtes épiné(e)s
+ils (elles) furent épiné(e)s
+
+** Futur simple
+
+je serai épiné(e)
+tu seras épiné(e)
+il (elle) sera épiné(e)
+nous serons épiné(e)s
+vous serez épiné(e)s
+ils (elles) seront épiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais épiné(e)
+tu serais épiné(e)
+il (elle) serait épiné(e)
+nous serions épiné(e)s
+vous seriez épiné(e)s
+ils (elles) seraient épiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois épiné(e)
+que tu sois épiné(e)
+qu’il (elle) soit épiné(e)
+que nous soyons épiné(e)s
+que vous soyez épiné(e)s
+qu’ils (elles) soient épiné(e)s
+
+** Imparfait
+
+que je fusse épiné(e)
+que tu fusses épiné(e)
+qu’il (elle) fût épiné(e)
+que nous fussions épiné(e)s
+que vous fussiez épiné(e)s
+qu’ils (elles) fussent épiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons épiné(e)s
+soyez épiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être épiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant épiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été épiné(e)
+tu as été épiné(e)
+il (elle) a été épiné(e)
+nous avons été épiné(e)s
+vous avez été épiné(e)s
+ils (elles) ont été épiné(e)s
+
+** Plus-que-parfait
+
+j'avais été épiné(e)
+il (elle) avait été épiné(e)
+nous avions été épiné(e)s
+ils (elles) avaient été épiné(e)s
+
+** Passé antérieur
+
+j'eus été épiné(e)
+tu eus été épiné(e)
+il (elle) eut été épiné(e)
+nous eûmes été épiné(e)s
+vous eûtes été épiné(e)s
+ils (elles) eurent été épiné(e)s
+
+** Futur antérieur
+
+j'aurai été épiné(e)
+tu auras été épiné(e)
+il (elle) aura été épiné(e)
+nous aurons été épiné(e)s
+vous aurez été épiné(e)s
+ils (elles) auront été épiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été épiné(e)
+j'aurais été épiné(e)
+il (elle) aurait été épiné(e)
+nous aurions été épiné(e)s
+vous auriez été épiné(e)s
+ils (elles) auraient été épiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été épiné(e)
+que tu aies été épiné(e)
+qu’il (elle) ait été épiné(e)
+que nous ayons été épiné(e)s
+que vous ayez été épiné(e)s
+qu’ils (elles) aient été épiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été épiné(e)
+que tu eusses été épiné(e)
+qu’il (elle) eût été épiné(e)
+que nous eussions été épiné(e)s
+que vous eussiez été épiné(e)s
+qu’ils (elles) eussent été épiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été épiné(e)
+ayons été épiné(e)s
+ayez été épiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été épiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été épiné(e)(s)

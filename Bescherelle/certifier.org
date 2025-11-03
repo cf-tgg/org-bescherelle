@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe certifier
+
+* INDICATIF
+
+** Présent
+
+je certifie
+tu certifies
+il (elle) certifie
+nous certifions
+vous certifiez
+ils (elles) certifient
+
+** Imparfait
+
+je certifiais
+tu certifiais
+il (elle) certifiait
+nous certifiions
+vous certifiiez
+ils (elles) certifiaient
+
+** Passé simple
+
+je certifiai
+tu certifias
+il (elle) certifia
+nous certifiâmes
+vous certifiâtes
+ils (elles) certifièrent
+
+** Futur simple
+
+je certifierai
+tu certifieras
+il (elle) certifiera
+nous certifierons
+vous certifierez
+ils (elles) certifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je certifierais
+tu certifierais
+il (elle) certifierait
+nous certifierions
+vous certifieriez
+ils (elles) certifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je certifie
+que tu certifies
+qu’il (elle) certifie
+que nous certifiions
+que vous certifiiez
+qu’ils (elles) certifient
+
+** Imparfait
+
+que je certifiasse
+que tu certifiasses
+qu’il (elle) certifiât
+que nous certifiassions
+que vous certifiassiez
+qu’ils (elles) certifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+certifie
+certifions
+certifiez
+
+* INFINITIF
+
+** Présent
+
+certifier
+
+* PARTICIPE
+
+** Présent
+
+certifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai certifié
+tu as certifié
+il (elle) a certifié
+nous avons certifié
+vous avez certifié
+ils (elles) ont certifié
+
+** Plus-que-parfait
+
+j'avais certifié
+tu avais certifié
+il (elle) avait certifié
+nous avions certifié
+vous aviez certifié
+ils (elles) avaient certifié
+
+** Passé antérieur
+
+j'eus certifié
+tu eus certifié
+il (elle) eut certifié
+nous eûmes certifié
+vous eûtes certifié
+ils (elles) eurent certifié
+
+** Futur antérieur
+
+j'aurai certifié
+tu auras certifié
+il (elle) aura certifié
+nous aurons certifié
+vous aurez certifié
+ils (elles) auront certifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais certifié
+tu aurais certifié
+il (elle) aurait certifié
+nous aurions certifié
+vous auriez certifié
+ils (elles) auraient certifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie certifié
+que tu aies certifié
+qu’il (elle) ait certifié
+que nous ayons certifié
+que vous ayez certifié
+qu’ils (elles) aient certifié
+
+** Plus-que-parfait
+
+que j'eusse certifié
+que tu eusses certifié
+qu’il (elle) eût certifié
+que nous eussions certifié
+que vous eussiez certifié
+qu’ils (elles) eussent certifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons certifié
+ayez certifié
+
+* INFINITIF
+
+** Passé
+
+avoir certifié
+
+* PARTICIPE
+
+** Passé
+
+ayant certifié
+certifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis certifié(e)
+tu es certifié(e)
+il (elle) est certifié(e)
+nous sommes certifié(e)s
+vous êtes certifié(e)s
+ils (elles) sont certifié(e)s
+
+** Imparfait
+
+j'étais certifié(e)
+tu étais certifié(e)
+il (elle) était certifié(e)
+nous étions certifié(e)s
+vous étiez certifié(e)s
+ils (elles) étaient certifié(e)s
+
+** Passé simple
+
+je fus certifié(e)
+tu fus certifié(e)
+il (elle) fut certifié(e)
+nous fûmes certifié(e)s
+vous fûtes certifié(e)s
+ils (elles) furent certifié(e)s
+
+** Futur simple
+
+je serai certifié(e)
+tu seras certifié(e)
+il (elle) sera certifié(e)
+nous serons certifié(e)s
+vous serez certifié(e)s
+ils (elles) seront certifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais certifié(e)
+tu serais certifié(e)
+il (elle) serait certifié(e)
+nous serions certifié(e)s
+vous seriez certifié(e)s
+ils (elles) seraient certifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois certifié(e)
+que tu sois certifié(e)
+qu’il (elle) soit certifié(e)
+que nous soyons certifié(e)s
+que vous soyez certifié(e)s
+qu’ils (elles) soient certifié(e)s
+
+** Imparfait
+
+que je fusse certifié(e)
+que tu fusses certifié(e)
+qu’il (elle) fût certifié(e)
+que nous fussions certifié(e)s
+que vous fussiez certifié(e)s
+qu’ils (elles) fussent certifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons certifié(e)s
+soyez certifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être certifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant certifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été certifié(e)
+tu as été certifié(e)
+il (elle) a été certifié(e)
+nous avons été certifié(e)s
+vous avez été certifié(e)s
+ils (elles) ont été certifié(e)s
+
+** Plus-que-parfait
+
+j'avais été certifié(e)
+il (elle) avait été certifié(e)
+nous avions été certifié(e)s
+ils (elles) avaient été certifié(e)s
+
+** Passé antérieur
+
+j'eus été certifié(e)
+tu eus été certifié(e)
+il (elle) eut été certifié(e)
+nous eûmes été certifié(e)s
+vous eûtes été certifié(e)s
+ils (elles) eurent été certifié(e)s
+
+** Futur antérieur
+
+j'aurai été certifié(e)
+tu auras été certifié(e)
+il (elle) aura été certifié(e)
+nous aurons été certifié(e)s
+vous aurez été certifié(e)s
+ils (elles) auront été certifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été certifié(e)
+j'aurais été certifié(e)
+il (elle) aurait été certifié(e)
+nous aurions été certifié(e)s
+vous auriez été certifié(e)s
+ils (elles) auraient été certifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été certifié(e)
+que tu aies été certifié(e)
+qu’il (elle) ait été certifié(e)
+que nous ayons été certifié(e)s
+que vous ayez été certifié(e)s
+qu’ils (elles) aient été certifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été certifié(e)
+que tu eusses été certifié(e)
+qu’il (elle) eût été certifié(e)
+que nous eussions été certifié(e)s
+que vous eussiez été certifié(e)s
+qu’ils (elles) eussent été certifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été certifié(e)
+ayons été certifié(e)s
+ayez été certifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été certifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été certifié(e)(s)

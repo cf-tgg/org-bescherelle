@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe meuler
+
+* INDICATIF
+
+** Présent
+
+je meule
+tu meules
+il (elle) meule
+nous meulons
+vous meulez
+ils (elles) meulent
+
+** Imparfait
+
+je meulais
+tu meulais
+il (elle) meulait
+nous meulions
+vous meuliez
+ils (elles) meulaient
+
+** Passé simple
+
+je meulai
+tu meulas
+il (elle) meula
+nous meulâmes
+vous meulâtes
+ils (elles) meulèrent
+
+** Futur simple
+
+je meulerai
+tu meuleras
+il (elle) meulera
+nous meulerons
+vous meulerez
+ils (elles) meuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je meulerais
+tu meulerais
+il (elle) meulerait
+nous meulerions
+vous meuleriez
+ils (elles) meuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je meule
+que tu meules
+qu’il (elle) meule
+que nous meulions
+que vous meuliez
+qu’ils (elles) meulent
+
+** Imparfait
+
+que je meulasse
+que tu meulasses
+qu’il (elle) meulât
+que nous meulassions
+que vous meulassiez
+qu’ils (elles) meulassent
+
+* IMPÉRATIF
+
+** Présent
+
+meule
+meulons
+meulez
+
+* INFINITIF
+
+** Présent
+
+meuler
+
+* PARTICIPE
+
+** Présent
+
+meulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai meulé
+tu as meulé
+il (elle) a meulé
+nous avons meulé
+vous avez meulé
+ils (elles) ont meulé
+
+** Plus-que-parfait
+
+j'avais meulé
+tu avais meulé
+il (elle) avait meulé
+nous avions meulé
+vous aviez meulé
+ils (elles) avaient meulé
+
+** Passé antérieur
+
+j'eus meulé
+tu eus meulé
+il (elle) eut meulé
+nous eûmes meulé
+vous eûtes meulé
+ils (elles) eurent meulé
+
+** Futur antérieur
+
+j'aurai meulé
+tu auras meulé
+il (elle) aura meulé
+nous aurons meulé
+vous aurez meulé
+ils (elles) auront meulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais meulé
+tu aurais meulé
+il (elle) aurait meulé
+nous aurions meulé
+vous auriez meulé
+ils (elles) auraient meulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie meulé
+que tu aies meulé
+qu’il (elle) ait meulé
+que nous ayons meulé
+que vous ayez meulé
+qu’ils (elles) aient meulé
+
+** Plus-que-parfait
+
+que j'eusse meulé
+que tu eusses meulé
+qu’il (elle) eût meulé
+que nous eussions meulé
+que vous eussiez meulé
+qu’ils (elles) eussent meulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons meulé
+ayez meulé
+
+* INFINITIF
+
+** Passé
+
+avoir meulé
+
+* PARTICIPE
+
+** Passé
+
+ayant meulé
+meulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis meulé(e)
+tu es meulé(e)
+il (elle) est meulé(e)
+nous sommes meulé(e)s
+vous êtes meulé(e)s
+ils (elles) sont meulé(e)s
+
+** Imparfait
+
+j'étais meulé(e)
+tu étais meulé(e)
+il (elle) était meulé(e)
+nous étions meulé(e)s
+vous étiez meulé(e)s
+ils (elles) étaient meulé(e)s
+
+** Passé simple
+
+je fus meulé(e)
+tu fus meulé(e)
+il (elle) fut meulé(e)
+nous fûmes meulé(e)s
+vous fûtes meulé(e)s
+ils (elles) furent meulé(e)s
+
+** Futur simple
+
+je serai meulé(e)
+tu seras meulé(e)
+il (elle) sera meulé(e)
+nous serons meulé(e)s
+vous serez meulé(e)s
+ils (elles) seront meulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais meulé(e)
+tu serais meulé(e)
+il (elle) serait meulé(e)
+nous serions meulé(e)s
+vous seriez meulé(e)s
+ils (elles) seraient meulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois meulé(e)
+que tu sois meulé(e)
+qu’il (elle) soit meulé(e)
+que nous soyons meulé(e)s
+que vous soyez meulé(e)s
+qu’ils (elles) soient meulé(e)s
+
+** Imparfait
+
+que je fusse meulé(e)
+que tu fusses meulé(e)
+qu’il (elle) fût meulé(e)
+que nous fussions meulé(e)s
+que vous fussiez meulé(e)s
+qu’ils (elles) fussent meulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons meulé(e)s
+soyez meulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être meulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant meulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été meulé(e)
+tu as été meulé(e)
+il (elle) a été meulé(e)
+nous avons été meulé(e)s
+vous avez été meulé(e)s
+ils (elles) ont été meulé(e)s
+
+** Plus-que-parfait
+
+j'avais été meulé(e)
+il (elle) avait été meulé(e)
+nous avions été meulé(e)s
+ils (elles) avaient été meulé(e)s
+
+** Passé antérieur
+
+j'eus été meulé(e)
+tu eus été meulé(e)
+il (elle) eut été meulé(e)
+nous eûmes été meulé(e)s
+vous eûtes été meulé(e)s
+ils (elles) eurent été meulé(e)s
+
+** Futur antérieur
+
+j'aurai été meulé(e)
+tu auras été meulé(e)
+il (elle) aura été meulé(e)
+nous aurons été meulé(e)s
+vous aurez été meulé(e)s
+ils (elles) auront été meulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été meulé(e)
+j'aurais été meulé(e)
+il (elle) aurait été meulé(e)
+nous aurions été meulé(e)s
+vous auriez été meulé(e)s
+ils (elles) auraient été meulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été meulé(e)
+que tu aies été meulé(e)
+qu’il (elle) ait été meulé(e)
+que nous ayons été meulé(e)s
+que vous ayez été meulé(e)s
+qu’ils (elles) aient été meulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été meulé(e)
+que tu eusses été meulé(e)
+qu’il (elle) eût été meulé(e)
+que nous eussions été meulé(e)s
+que vous eussiez été meulé(e)s
+qu’ils (elles) eussent été meulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été meulé(e)
+ayons été meulé(e)s
+ayez été meulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été meulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été meulé(e)(s)

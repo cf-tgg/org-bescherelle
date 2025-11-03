@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exciter
+
+* INDICATIF
+
+** Présent
+
+j'excite
+tu excites
+il (elle) excite
+nous excitons
+vous excitez
+ils (elles) excitent
+
+** Imparfait
+
+j'excitais
+tu excitais
+il (elle) excitait
+nous excitions
+vous excitiez
+ils (elles) excitaient
+
+** Passé simple
+
+j'excitai
+tu excitas
+il (elle) excita
+nous excitâmes
+vous excitâtes
+ils (elles) excitèrent
+
+** Futur simple
+
+j'exciterai
+tu exciteras
+il (elle) excitera
+nous exciterons
+vous exciterez
+ils (elles) exciteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exciterais
+tu exciterais
+il (elle) exciterait
+nous exciterions
+vous exciteriez
+ils (elles) exciteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'excite
+que tu excites
+qu’il (elle) excite
+que nous excitions
+que vous excitiez
+qu’ils (elles) excitent
+
+** Imparfait
+
+que j'excitasse
+que tu excitasses
+qu’il (elle) excitât
+que nous excitassions
+que vous excitassiez
+qu’ils (elles) excitassent
+
+* IMPÉRATIF
+
+** Présent
+
+excite
+excitons
+excitez
+
+* INFINITIF
+
+** Présent
+
+exciter
+
+* PARTICIPE
+
+** Présent
+
+excitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai excité
+tu as excité
+il (elle) a excité
+nous avons excité
+vous avez excité
+ils (elles) ont excité
+
+** Plus-que-parfait
+
+j'avais excité
+tu avais excité
+il (elle) avait excité
+nous avions excité
+vous aviez excité
+ils (elles) avaient excité
+
+** Passé antérieur
+
+j'eus excité
+tu eus excité
+il (elle) eut excité
+nous eûmes excité
+vous eûtes excité
+ils (elles) eurent excité
+
+** Futur antérieur
+
+j'aurai excité
+tu auras excité
+il (elle) aura excité
+nous aurons excité
+vous aurez excité
+ils (elles) auront excité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais excité
+tu aurais excité
+il (elle) aurait excité
+nous aurions excité
+vous auriez excité
+ils (elles) auraient excité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie excité
+que tu aies excité
+qu’il (elle) ait excité
+que nous ayons excité
+que vous ayez excité
+qu’ils (elles) aient excité
+
+** Plus-que-parfait
+
+que j'eusse excité
+que tu eusses excité
+qu’il (elle) eût excité
+que nous eussions excité
+que vous eussiez excité
+qu’ils (elles) eussent excité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons excité
+ayez excité
+
+* INFINITIF
+
+** Passé
+
+avoir excité
+
+* PARTICIPE
+
+** Passé
+
+ayant excité
+excité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis excité(e)
+tu es excité(e)
+il (elle) est excité(e)
+nous sommes excité(e)s
+vous êtes excité(e)s
+ils (elles) sont excité(e)s
+
+** Imparfait
+
+j'étais excité(e)
+tu étais excité(e)
+il (elle) était excité(e)
+nous étions excité(e)s
+vous étiez excité(e)s
+ils (elles) étaient excité(e)s
+
+** Passé simple
+
+je fus excité(e)
+tu fus excité(e)
+il (elle) fut excité(e)
+nous fûmes excité(e)s
+vous fûtes excité(e)s
+ils (elles) furent excité(e)s
+
+** Futur simple
+
+je serai excité(e)
+tu seras excité(e)
+il (elle) sera excité(e)
+nous serons excité(e)s
+vous serez excité(e)s
+ils (elles) seront excité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais excité(e)
+tu serais excité(e)
+il (elle) serait excité(e)
+nous serions excité(e)s
+vous seriez excité(e)s
+ils (elles) seraient excité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois excité(e)
+que tu sois excité(e)
+qu’il (elle) soit excité(e)
+que nous soyons excité(e)s
+que vous soyez excité(e)s
+qu’ils (elles) soient excité(e)s
+
+** Imparfait
+
+que je fusse excité(e)
+que tu fusses excité(e)
+qu’il (elle) fût excité(e)
+que nous fussions excité(e)s
+que vous fussiez excité(e)s
+qu’ils (elles) fussent excité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons excité(e)s
+soyez excité(e)s
+
+* INFINITIF
+
+** Présent
+
+être excité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant excité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été excité(e)
+tu as été excité(e)
+il (elle) a été excité(e)
+nous avons été excité(e)s
+vous avez été excité(e)s
+ils (elles) ont été excité(e)s
+
+** Plus-que-parfait
+
+j'avais été excité(e)
+il (elle) avait été excité(e)
+nous avions été excité(e)s
+ils (elles) avaient été excité(e)s
+
+** Passé antérieur
+
+j'eus été excité(e)
+tu eus été excité(e)
+il (elle) eut été excité(e)
+nous eûmes été excité(e)s
+vous eûtes été excité(e)s
+ils (elles) eurent été excité(e)s
+
+** Futur antérieur
+
+j'aurai été excité(e)
+tu auras été excité(e)
+il (elle) aura été excité(e)
+nous aurons été excité(e)s
+vous aurez été excité(e)s
+ils (elles) auront été excité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été excité(e)
+j'aurais été excité(e)
+il (elle) aurait été excité(e)
+nous aurions été excité(e)s
+vous auriez été excité(e)s
+ils (elles) auraient été excité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été excité(e)
+que tu aies été excité(e)
+qu’il (elle) ait été excité(e)
+que nous ayons été excité(e)s
+que vous ayez été excité(e)s
+qu’ils (elles) aient été excité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été excité(e)
+que tu eusses été excité(e)
+qu’il (elle) eût été excité(e)
+que nous eussions été excité(e)s
+que vous eussiez été excité(e)s
+qu’ils (elles) eussent été excité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été excité(e)
+ayons été excité(e)s
+ayez été excité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été excité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été excité(e)(s)

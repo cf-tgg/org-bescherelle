@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe voguer
+
+* INDICATIF
+
+** Présent
+
+je vogue
+tu vogues
+il (elle) vogue
+nous voguons
+vous voguez
+ils (elles) voguent
+
+** Imparfait
+
+je voguais
+tu voguais
+il (elle) voguait
+nous voguions
+vous voguiez
+ils (elles) voguaient
+
+** Passé simple
+
+je voguai
+tu voguas
+il (elle) vogua
+nous voguâmes
+vous voguâtes
+ils (elles) voguèrent
+
+** Futur simple
+
+je voguerai
+tu vogueras
+il (elle) voguera
+nous voguerons
+vous voguerez
+ils (elles) vogueront
+
+* CONDITIONNEL
+
+** Présent
+
+je voguerais
+tu voguerais
+il (elle) voguerait
+nous voguerions
+vous vogueriez
+ils (elles) vogueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vogue
+que tu vogues
+qu’il (elle) vogue
+que nous voguions
+que vous voguiez
+qu’ils (elles) voguent
+
+** Imparfait
+
+que je voguasse
+que tu voguasses
+qu’il (elle) voguât
+que nous voguassions
+que vous voguassiez
+qu’ils (elles) voguassent
+
+* IMPÉRATIF
+
+** Présent
+
+vogue
+voguons
+voguez
+
+* INFINITIF
+
+** Présent
+
+voguer
+
+* PARTICIPE
+
+** Présent
+
+voguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vogué
+tu as vogué
+il (elle) a vogué
+nous avons vogué
+vous avez vogué
+ils (elles) ont vogué
+
+** Plus-que-parfait
+
+j'avais vogué
+tu avais vogué
+il (elle) avait vogué
+nous avions vogué
+vous aviez vogué
+ils (elles) avaient vogué
+
+** Passé antérieur
+
+j'eus vogué
+tu eus vogué
+il (elle) eut vogué
+nous eûmes vogué
+vous eûtes vogué
+ils (elles) eurent vogué
+
+** Futur antérieur
+
+j'aurai vogué
+tu auras vogué
+il (elle) aura vogué
+nous aurons vogué
+vous aurez vogué
+ils (elles) auront vogué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vogué
+tu aurais vogué
+il (elle) aurait vogué
+nous aurions vogué
+vous auriez vogué
+ils (elles) auraient vogué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vogué
+que tu aies vogué
+qu’il (elle) ait vogué
+que nous ayons vogué
+que vous ayez vogué
+qu’ils (elles) aient vogué
+
+** Plus-que-parfait
+
+que j'eusse vogué
+que tu eusses vogué
+qu’il (elle) eût vogué
+que nous eussions vogué
+que vous eussiez vogué
+qu’ils (elles) eussent vogué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vogué
+ayez vogué
+
+* INFINITIF
+
+** Passé
+
+avoir vogué
+
+* PARTICIPE
+
+** Passé
+
+ayant vogué
+vogué (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe renaitre
+
+* INDICATIF
+
+** Présent
+
+je renais
+tu renais
+il (elle) renaît
+nous renaissons
+vous renaissez
+ils (elles) renaissent
+
+** Imparfait
+
+je renaissais
+tu renaissais
+il (elle) renaissait
+nous renaissions
+vous renaissiez
+ils (elles) renaissaient
+
+** Passé simple
+
+je renaquis
+tu renaquis
+il (elle) renaquit
+nous renaquîmes
+vous renaquîtes
+ils (elles) renaquirent
+
+** Futur simple
+
+je renaîtrai
+tu renaîtras
+il (elle) renaîtra
+nous renaîtrons
+vous renaîtrez
+ils (elles) renaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je renaîtrais
+tu renaîtrais
+il (elle) renaîtrait
+nous renaîtrions
+vous renaîtriez
+ils (elles) renaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je renaisse
+que tu renaisses
+qu’il (elle) renaisse
+que nous renaissions
+que vous renaissiez
+qu’ils (elles) renaissent
+
+** Imparfait
+
+que je renaquisse
+que tu renaquisses
+qu’il (elle) renaquît
+que nous renaquissions
+que vous renaquissiez
+qu’ils (elles) renaquissent
+
+* IMPÉRATIF
+
+** Présent
+
+renais
+renaissons
+renaissez
+
+* INFINITIF
+
+** Présent
+
+renaître
+
+* PARTICIPE
+
+** Présent
+
+renaissant
+
+* INDICATIF
+
+** Passé composé
+
+je suis rené(e)
+tu es rené(e)
+il (elle) est rené(e)
+nous sommes rené(e)s
+vous êtes rené(e)s
+ils (elles) sont rené(e)s
+
+** Plus-que-parfait
+
+j'étais rené(e)
+tu étais rené(e)
+il (elle) était rené(e)
+nous étions rené(e)s
+vous étiez rené(e)s
+ils (elles) étaient rené(e)s
+
+** Passé antérieur
+
+je fus rené(e)
+tu fus rené(e)
+il (elle) fut rené(e)
+nous fûmes rené(e)s
+vous fûtes rené(e)s
+ils (elles) furent rené(e)s
+
+** Futur antérieur
+
+je serai rené(e)
+tu seras rené(e)
+il (elle) sera rené(e)
+nous serons rené(e)s
+vous serez rené(e)s
+ils (elles) seront rené(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais rené(e)
+tu serais rené(e)
+il (elle) serait rené(e)
+nous serions rené(e)s
+vous seriez rené(e)s
+ils (elles) seraient rené(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois rené(e)
+que tu sois rené(e)
+qu’il (elle) soit rené(e)
+que nous soyons rené(e)s
+que vous soyez rené(e)s
+qu’ils (elles) soient rené(e)s
+
+** Plus-que-parfait
+
+que je fusse rené(e)
+que tu fusses rené(e)
+qu’il (elle) fût rené(e)
+que nous fussions rené(e)s
+que vous fussiez rené(e)s
+qu’ils (elles) fussent rené(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons rené(e)s
+soyez rené(e)s
+
+* INFINITIF
+
+** Passé
+
+être rené(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant rené(e)(s)
+rené (é, ée, és, ées)

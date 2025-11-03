@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conjuguer
+
+* INDICATIF
+
+** Présent
+
+je conjugue
+tu conjugues
+il (elle) conjugue
+nous conjuguons
+vous conjuguez
+ils (elles) conjuguent
+
+** Imparfait
+
+je conjuguais
+tu conjuguais
+il (elle) conjuguait
+nous conjuguions
+vous conjuguiez
+ils (elles) conjuguaient
+
+** Passé simple
+
+je conjuguai
+tu conjuguas
+il (elle) conjugua
+nous conjuguâmes
+vous conjuguâtes
+ils (elles) conjuguèrent
+
+** Futur simple
+
+je conjuguerai
+tu conjugueras
+il (elle) conjuguera
+nous conjuguerons
+vous conjuguerez
+ils (elles) conjugueront
+
+* CONDITIONNEL
+
+** Présent
+
+je conjuguerais
+tu conjuguerais
+il (elle) conjuguerait
+nous conjuguerions
+vous conjugueriez
+ils (elles) conjugueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conjugue
+que tu conjugues
+qu’il (elle) conjugue
+que nous conjuguions
+que vous conjuguiez
+qu’ils (elles) conjuguent
+
+** Imparfait
+
+que je conjuguasse
+que tu conjuguasses
+qu’il (elle) conjuguât
+que nous conjuguassions
+que vous conjuguassiez
+qu’ils (elles) conjuguassent
+
+* IMPÉRATIF
+
+** Présent
+
+conjugue
+conjuguons
+conjuguez
+
+* INFINITIF
+
+** Présent
+
+conjuguer
+
+* PARTICIPE
+
+** Présent
+
+conjuguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conjugué
+tu as conjugué
+il (elle) a conjugué
+nous avons conjugué
+vous avez conjugué
+ils (elles) ont conjugué
+
+** Plus-que-parfait
+
+j'avais conjugué
+tu avais conjugué
+il (elle) avait conjugué
+nous avions conjugué
+vous aviez conjugué
+ils (elles) avaient conjugué
+
+** Passé antérieur
+
+j'eus conjugué
+tu eus conjugué
+il (elle) eut conjugué
+nous eûmes conjugué
+vous eûtes conjugué
+ils (elles) eurent conjugué
+
+** Futur antérieur
+
+j'aurai conjugué
+tu auras conjugué
+il (elle) aura conjugué
+nous aurons conjugué
+vous aurez conjugué
+ils (elles) auront conjugué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conjugué
+tu aurais conjugué
+il (elle) aurait conjugué
+nous aurions conjugué
+vous auriez conjugué
+ils (elles) auraient conjugué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conjugué
+que tu aies conjugué
+qu’il (elle) ait conjugué
+que nous ayons conjugué
+que vous ayez conjugué
+qu’ils (elles) aient conjugué
+
+** Plus-que-parfait
+
+que j'eusse conjugué
+que tu eusses conjugué
+qu’il (elle) eût conjugué
+que nous eussions conjugué
+que vous eussiez conjugué
+qu’ils (elles) eussent conjugué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conjugué
+ayez conjugué
+
+* INFINITIF
+
+** Passé
+
+avoir conjugué
+
+* PARTICIPE
+
+** Passé
+
+ayant conjugué
+conjugué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conjugué(e)
+tu es conjugué(e)
+il (elle) est conjugué(e)
+nous sommes conjugué(e)s
+vous êtes conjugué(e)s
+ils (elles) sont conjugué(e)s
+
+** Imparfait
+
+j'étais conjugué(e)
+tu étais conjugué(e)
+il (elle) était conjugué(e)
+nous étions conjugué(e)s
+vous étiez conjugué(e)s
+ils (elles) étaient conjugué(e)s
+
+** Passé simple
+
+je fus conjugué(e)
+tu fus conjugué(e)
+il (elle) fut conjugué(e)
+nous fûmes conjugué(e)s
+vous fûtes conjugué(e)s
+ils (elles) furent conjugué(e)s
+
+** Futur simple
+
+je serai conjugué(e)
+tu seras conjugué(e)
+il (elle) sera conjugué(e)
+nous serons conjugué(e)s
+vous serez conjugué(e)s
+ils (elles) seront conjugué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conjugué(e)
+tu serais conjugué(e)
+il (elle) serait conjugué(e)
+nous serions conjugué(e)s
+vous seriez conjugué(e)s
+ils (elles) seraient conjugué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conjugué(e)
+que tu sois conjugué(e)
+qu’il (elle) soit conjugué(e)
+que nous soyons conjugué(e)s
+que vous soyez conjugué(e)s
+qu’ils (elles) soient conjugué(e)s
+
+** Imparfait
+
+que je fusse conjugué(e)
+que tu fusses conjugué(e)
+qu’il (elle) fût conjugué(e)
+que nous fussions conjugué(e)s
+que vous fussiez conjugué(e)s
+qu’ils (elles) fussent conjugué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conjugué(e)s
+soyez conjugué(e)s
+
+* INFINITIF
+
+** Présent
+
+être conjugué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conjugué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conjugué(e)
+tu as été conjugué(e)
+il (elle) a été conjugué(e)
+nous avons été conjugué(e)s
+vous avez été conjugué(e)s
+ils (elles) ont été conjugué(e)s
+
+** Plus-que-parfait
+
+j'avais été conjugué(e)
+il (elle) avait été conjugué(e)
+nous avions été conjugué(e)s
+ils (elles) avaient été conjugué(e)s
+
+** Passé antérieur
+
+j'eus été conjugué(e)
+tu eus été conjugué(e)
+il (elle) eut été conjugué(e)
+nous eûmes été conjugué(e)s
+vous eûtes été conjugué(e)s
+ils (elles) eurent été conjugué(e)s
+
+** Futur antérieur
+
+j'aurai été conjugué(e)
+tu auras été conjugué(e)
+il (elle) aura été conjugué(e)
+nous aurons été conjugué(e)s
+vous aurez été conjugué(e)s
+ils (elles) auront été conjugué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conjugué(e)
+j'aurais été conjugué(e)
+il (elle) aurait été conjugué(e)
+nous aurions été conjugué(e)s
+vous auriez été conjugué(e)s
+ils (elles) auraient été conjugué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conjugué(e)
+que tu aies été conjugué(e)
+qu’il (elle) ait été conjugué(e)
+que nous ayons été conjugué(e)s
+que vous ayez été conjugué(e)s
+qu’ils (elles) aient été conjugué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conjugué(e)
+que tu eusses été conjugué(e)
+qu’il (elle) eût été conjugué(e)
+que nous eussions été conjugué(e)s
+que vous eussiez été conjugué(e)s
+qu’ils (elles) eussent été conjugué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conjugué(e)
+ayons été conjugué(e)s
+ayez été conjugué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conjugué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conjugué(e)(s)

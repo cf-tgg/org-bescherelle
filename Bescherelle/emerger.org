@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe emerger
+
+* INDICATIF
+
+** Présent
+
+j'émerge
+tu émerges
+il (elle) émerge
+nous émergeons
+vous émergez
+ils (elles) émergent
+
+** Imparfait
+
+j'émergeais
+tu émergeais
+il (elle) émergeait
+nous émergions
+vous émergiez
+ils (elles) émergeaient
+
+** Passé simple
+
+j'émergeai
+tu émergeas
+il (elle) émergea
+nous émergeâmes
+vous émergeâtes
+ils (elles) émergèrent
+
+** Futur simple
+
+j'émergerai
+tu émergeras
+il (elle) émergera
+nous émergerons
+vous émergerez
+ils (elles) émergeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'émergerais
+tu émergerais
+il (elle) émergerait
+nous émergerions
+vous émergeriez
+ils (elles) émergeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'émerge
+que tu émerges
+qu’il (elle) émerge
+que nous émergions
+que vous émergiez
+qu’ils (elles) émergent
+
+** Imparfait
+
+que j'émergeasse
+que tu émergeasses
+qu’il (elle) émergeât
+que nous émergeassions
+que vous émergeassiez
+qu’ils (elles) émergeassent
+
+* IMPÉRATIF
+
+** Présent
+
+émerge
+émergeons
+émergez
+
+* INFINITIF
+
+** Présent
+
+émerger
+
+* PARTICIPE
+
+** Présent
+
+émergeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai émergé
+tu as émergé
+il (elle) a émergé
+nous avons émergé
+vous avez émergé
+ils (elles) ont émergé
+
+** Plus-que-parfait
+
+j'avais émergé
+tu avais émergé
+il (elle) avait émergé
+nous avions émergé
+vous aviez émergé
+ils (elles) avaient émergé
+
+** Passé antérieur
+
+j'eus émergé
+tu eus émergé
+il (elle) eut émergé
+nous eûmes émergé
+vous eûtes émergé
+ils (elles) eurent émergé
+
+** Futur antérieur
+
+j'aurai émergé
+tu auras émergé
+il (elle) aura émergé
+nous aurons émergé
+vous aurez émergé
+ils (elles) auront émergé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais émergé
+tu aurais émergé
+il (elle) aurait émergé
+nous aurions émergé
+vous auriez émergé
+ils (elles) auraient émergé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie émergé
+que tu aies émergé
+qu’il (elle) ait émergé
+que nous ayons émergé
+que vous ayez émergé
+qu’ils (elles) aient émergé
+
+** Plus-que-parfait
+
+que j'eusse émergé
+que tu eusses émergé
+qu’il (elle) eût émergé
+que nous eussions émergé
+que vous eussiez émergé
+qu’ils (elles) eussent émergé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons émergé
+ayez émergé
+
+* INFINITIF
+
+** Passé
+
+avoir émergé
+
+* PARTICIPE
+
+** Passé
+
+ayant émergé
+émergé (invar.)

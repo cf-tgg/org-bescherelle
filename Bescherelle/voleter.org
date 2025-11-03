@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe voleter
+
+* INDICATIF
+
+** Présent
+
+je volette
+tu volettes
+il (elle) volette
+nous voletons
+vous voletez
+ils (elles) volettent
+
+** Imparfait
+
+je voletais
+tu voletais
+il (elle) voletait
+nous voletions
+vous voletiez
+ils (elles) voletaient
+
+** Passé simple
+
+je voletai
+tu voletas
+il (elle) voleta
+nous voletâmes
+vous voletâtes
+ils (elles) voletèrent
+
+** Futur simple
+
+je voletterai
+tu voletteras
+il (elle) volettera
+nous voletterons
+vous voletterez
+ils (elles) voletteront
+
+* CONDITIONNEL
+
+** Présent
+
+je voletterais
+tu voletterais
+il (elle) voletterait
+nous voletterions
+vous voletteriez
+ils (elles) voletteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je volette
+que tu volettes
+qu’il (elle) volette
+que nous voletions
+que vous voletiez
+qu’ils (elles) volettent
+
+** Imparfait
+
+que je voletasse
+que tu voletasses
+qu’il (elle) voletât
+que nous voletassions
+que vous voletassiez
+qu’ils (elles) voletassent
+
+* IMPÉRATIF
+
+** Présent
+
+volette
+voletons
+voletez
+
+* INFINITIF
+
+** Présent
+
+voleter
+
+* PARTICIPE
+
+** Présent
+
+voletant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voleté
+tu as voleté
+il (elle) a voleté
+nous avons voleté
+vous avez voleté
+ils (elles) ont voleté
+
+** Plus-que-parfait
+
+j'avais voleté
+tu avais voleté
+il (elle) avait voleté
+nous avions voleté
+vous aviez voleté
+ils (elles) avaient voleté
+
+** Passé antérieur
+
+j'eus voleté
+tu eus voleté
+il (elle) eut voleté
+nous eûmes voleté
+vous eûtes voleté
+ils (elles) eurent voleté
+
+** Futur antérieur
+
+j'aurai voleté
+tu auras voleté
+il (elle) aura voleté
+nous aurons voleté
+vous aurez voleté
+ils (elles) auront voleté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voleté
+tu aurais voleté
+il (elle) aurait voleté
+nous aurions voleté
+vous auriez voleté
+ils (elles) auraient voleté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voleté
+que tu aies voleté
+qu’il (elle) ait voleté
+que nous ayons voleté
+que vous ayez voleté
+qu’ils (elles) aient voleté
+
+** Plus-que-parfait
+
+que j'eusse voleté
+que tu eusses voleté
+qu’il (elle) eût voleté
+que nous eussions voleté
+que vous eussiez voleté
+qu’ils (elles) eussent voleté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voleté
+ayez voleté
+
+* INFINITIF
+
+** Passé
+
+avoir voleté
+
+* PARTICIPE
+
+** Passé
+
+ayant voleté
+voleté (invar.)

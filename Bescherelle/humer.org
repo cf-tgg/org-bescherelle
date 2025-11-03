@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe humer
+
+* INDICATIF
+
+** Présent
+
+je hume
+tu humes
+il (elle) hume
+nous humons
+vous humez
+ils (elles) hument
+
+** Imparfait
+
+je humais
+tu humais
+il (elle) humait
+nous humions
+vous humiez
+ils (elles) humaient
+
+** Passé simple
+
+je humai
+tu humas
+il (elle) huma
+nous humâmes
+vous humâtes
+ils (elles) humèrent
+
+** Futur simple
+
+je humerai
+tu humeras
+il (elle) humera
+nous humerons
+vous humerez
+ils (elles) humeront
+
+* CONDITIONNEL
+
+** Présent
+
+je humerais
+tu humerais
+il (elle) humerait
+nous humerions
+vous humeriez
+ils (elles) humeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hume
+que tu humes
+qu’il (elle) hume
+que nous humions
+que vous humiez
+qu’ils (elles) hument
+
+** Imparfait
+
+que je humasse
+que tu humasses
+qu’il (elle) humât
+que nous humassions
+que vous humassiez
+qu’ils (elles) humassent
+
+* IMPÉRATIF
+
+** Présent
+
+hume
+humons
+humez
+
+* INFINITIF
+
+** Présent
+
+humer
+
+* PARTICIPE
+
+** Présent
+
+humant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai humé
+tu as humé
+il (elle) a humé
+nous avons humé
+vous avez humé
+ils (elles) ont humé
+
+** Plus-que-parfait
+
+j'avais humé
+tu avais humé
+il (elle) avait humé
+nous avions humé
+vous aviez humé
+ils (elles) avaient humé
+
+** Passé antérieur
+
+j'eus humé
+tu eus humé
+il (elle) eut humé
+nous eûmes humé
+vous eûtes humé
+ils (elles) eurent humé
+
+** Futur antérieur
+
+j'aurai humé
+tu auras humé
+il (elle) aura humé
+nous aurons humé
+vous aurez humé
+ils (elles) auront humé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais humé
+tu aurais humé
+il (elle) aurait humé
+nous aurions humé
+vous auriez humé
+ils (elles) auraient humé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie humé
+que tu aies humé
+qu’il (elle) ait humé
+que nous ayons humé
+que vous ayez humé
+qu’ils (elles) aient humé
+
+** Plus-que-parfait
+
+que j'eusse humé
+que tu eusses humé
+qu’il (elle) eût humé
+que nous eussions humé
+que vous eussiez humé
+qu’ils (elles) eussent humé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons humé
+ayez humé
+
+* INFINITIF
+
+** Passé
+
+avoir humé
+
+* PARTICIPE
+
+** Passé
+
+ayant humé
+humé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis humé(e)
+tu es humé(e)
+il (elle) est humé(e)
+nous sommes humé(e)s
+vous êtes humé(e)s
+ils (elles) sont humé(e)s
+
+** Imparfait
+
+j'étais humé(e)
+tu étais humé(e)
+il (elle) était humé(e)
+nous étions humé(e)s
+vous étiez humé(e)s
+ils (elles) étaient humé(e)s
+
+** Passé simple
+
+je fus humé(e)
+tu fus humé(e)
+il (elle) fut humé(e)
+nous fûmes humé(e)s
+vous fûtes humé(e)s
+ils (elles) furent humé(e)s
+
+** Futur simple
+
+je serai humé(e)
+tu seras humé(e)
+il (elle) sera humé(e)
+nous serons humé(e)s
+vous serez humé(e)s
+ils (elles) seront humé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais humé(e)
+tu serais humé(e)
+il (elle) serait humé(e)
+nous serions humé(e)s
+vous seriez humé(e)s
+ils (elles) seraient humé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois humé(e)
+que tu sois humé(e)
+qu’il (elle) soit humé(e)
+que nous soyons humé(e)s
+que vous soyez humé(e)s
+qu’ils (elles) soient humé(e)s
+
+** Imparfait
+
+que je fusse humé(e)
+que tu fusses humé(e)
+qu’il (elle) fût humé(e)
+que nous fussions humé(e)s
+que vous fussiez humé(e)s
+qu’ils (elles) fussent humé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons humé(e)s
+soyez humé(e)s
+
+* INFINITIF
+
+** Présent
+
+être humé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant humé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été humé(e)
+tu as été humé(e)
+il (elle) a été humé(e)
+nous avons été humé(e)s
+vous avez été humé(e)s
+ils (elles) ont été humé(e)s
+
+** Plus-que-parfait
+
+j'avais été humé(e)
+il (elle) avait été humé(e)
+nous avions été humé(e)s
+ils (elles) avaient été humé(e)s
+
+** Passé antérieur
+
+j'eus été humé(e)
+tu eus été humé(e)
+il (elle) eut été humé(e)
+nous eûmes été humé(e)s
+vous eûtes été humé(e)s
+ils (elles) eurent été humé(e)s
+
+** Futur antérieur
+
+j'aurai été humé(e)
+tu auras été humé(e)
+il (elle) aura été humé(e)
+nous aurons été humé(e)s
+vous aurez été humé(e)s
+ils (elles) auront été humé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été humé(e)
+j'aurais été humé(e)
+il (elle) aurait été humé(e)
+nous aurions été humé(e)s
+vous auriez été humé(e)s
+ils (elles) auraient été humé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été humé(e)
+que tu aies été humé(e)
+qu’il (elle) ait été humé(e)
+que nous ayons été humé(e)s
+que vous ayez été humé(e)s
+qu’ils (elles) aient été humé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été humé(e)
+que tu eusses été humé(e)
+qu’il (elle) eût été humé(e)
+que nous eussions été humé(e)s
+que vous eussiez été humé(e)s
+qu’ils (elles) eussent été humé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été humé(e)
+ayons été humé(e)s
+ayez été humé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été humé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été humé(e)(s)

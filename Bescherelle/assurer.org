@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assurer
+
+* INDICATIF
+
+** Présent
+
+j'assure
+tu assures
+il (elle) assure
+nous assurons
+vous assurez
+ils (elles) assurent
+
+** Imparfait
+
+j'assurais
+tu assurais
+il (elle) assurait
+nous assurions
+vous assuriez
+ils (elles) assuraient
+
+** Passé simple
+
+j'assurai
+tu assuras
+il (elle) assura
+nous assurâmes
+vous assurâtes
+ils (elles) assurèrent
+
+** Futur simple
+
+j'assurerai
+tu assureras
+il (elle) assurera
+nous assurerons
+vous assurerez
+ils (elles) assureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assurerais
+tu assurerais
+il (elle) assurerait
+nous assurerions
+vous assureriez
+ils (elles) assureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assure
+que tu assures
+qu’il (elle) assure
+que nous assurions
+que vous assuriez
+qu’ils (elles) assurent
+
+** Imparfait
+
+que j'assurasse
+que tu assurasses
+qu’il (elle) assurât
+que nous assurassions
+que vous assurassiez
+qu’ils (elles) assurassent
+
+* IMPÉRATIF
+
+** Présent
+
+assure
+assurons
+assurez
+
+* INFINITIF
+
+** Présent
+
+assurer
+
+* PARTICIPE
+
+** Présent
+
+assurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assuré
+tu as assuré
+il (elle) a assuré
+nous avons assuré
+vous avez assuré
+ils (elles) ont assuré
+
+** Plus-que-parfait
+
+j'avais assuré
+tu avais assuré
+il (elle) avait assuré
+nous avions assuré
+vous aviez assuré
+ils (elles) avaient assuré
+
+** Passé antérieur
+
+j'eus assuré
+tu eus assuré
+il (elle) eut assuré
+nous eûmes assuré
+vous eûtes assuré
+ils (elles) eurent assuré
+
+** Futur antérieur
+
+j'aurai assuré
+tu auras assuré
+il (elle) aura assuré
+nous aurons assuré
+vous aurez assuré
+ils (elles) auront assuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assuré
+tu aurais assuré
+il (elle) aurait assuré
+nous aurions assuré
+vous auriez assuré
+ils (elles) auraient assuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assuré
+que tu aies assuré
+qu’il (elle) ait assuré
+que nous ayons assuré
+que vous ayez assuré
+qu’ils (elles) aient assuré
+
+** Plus-que-parfait
+
+que j'eusse assuré
+que tu eusses assuré
+qu’il (elle) eût assuré
+que nous eussions assuré
+que vous eussiez assuré
+qu’ils (elles) eussent assuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assuré
+ayez assuré
+
+* INFINITIF
+
+** Passé
+
+avoir assuré
+
+* PARTICIPE
+
+** Passé
+
+ayant assuré
+assuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis assuré(e)
+tu es assuré(e)
+il (elle) est assuré(e)
+nous sommes assuré(e)s
+vous êtes assuré(e)s
+ils (elles) sont assuré(e)s
+
+** Imparfait
+
+j'étais assuré(e)
+tu étais assuré(e)
+il (elle) était assuré(e)
+nous étions assuré(e)s
+vous étiez assuré(e)s
+ils (elles) étaient assuré(e)s
+
+** Passé simple
+
+je fus assuré(e)
+tu fus assuré(e)
+il (elle) fut assuré(e)
+nous fûmes assuré(e)s
+vous fûtes assuré(e)s
+ils (elles) furent assuré(e)s
+
+** Futur simple
+
+je serai assuré(e)
+tu seras assuré(e)
+il (elle) sera assuré(e)
+nous serons assuré(e)s
+vous serez assuré(e)s
+ils (elles) seront assuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assuré(e)
+tu serais assuré(e)
+il (elle) serait assuré(e)
+nous serions assuré(e)s
+vous seriez assuré(e)s
+ils (elles) seraient assuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assuré(e)
+que tu sois assuré(e)
+qu’il (elle) soit assuré(e)
+que nous soyons assuré(e)s
+que vous soyez assuré(e)s
+qu’ils (elles) soient assuré(e)s
+
+** Imparfait
+
+que je fusse assuré(e)
+que tu fusses assuré(e)
+qu’il (elle) fût assuré(e)
+que nous fussions assuré(e)s
+que vous fussiez assuré(e)s
+qu’ils (elles) fussent assuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assuré(e)s
+soyez assuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être assuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assuré(e)
+tu as été assuré(e)
+il (elle) a été assuré(e)
+nous avons été assuré(e)s
+vous avez été assuré(e)s
+ils (elles) ont été assuré(e)s
+
+** Plus-que-parfait
+
+j'avais été assuré(e)
+il (elle) avait été assuré(e)
+nous avions été assuré(e)s
+ils (elles) avaient été assuré(e)s
+
+** Passé antérieur
+
+j'eus été assuré(e)
+tu eus été assuré(e)
+il (elle) eut été assuré(e)
+nous eûmes été assuré(e)s
+vous eûtes été assuré(e)s
+ils (elles) eurent été assuré(e)s
+
+** Futur antérieur
+
+j'aurai été assuré(e)
+tu auras été assuré(e)
+il (elle) aura été assuré(e)
+nous aurons été assuré(e)s
+vous aurez été assuré(e)s
+ils (elles) auront été assuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assuré(e)
+j'aurais été assuré(e)
+il (elle) aurait été assuré(e)
+nous aurions été assuré(e)s
+vous auriez été assuré(e)s
+ils (elles) auraient été assuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assuré(e)
+que tu aies été assuré(e)
+qu’il (elle) ait été assuré(e)
+que nous ayons été assuré(e)s
+que vous ayez été assuré(e)s
+qu’ils (elles) aient été assuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assuré(e)
+que tu eusses été assuré(e)
+qu’il (elle) eût été assuré(e)
+que nous eussions été assuré(e)s
+que vous eussiez été assuré(e)s
+qu’ils (elles) eussent été assuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assuré(e)
+ayons été assuré(e)s
+ayez été assuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assuré(e)(s)

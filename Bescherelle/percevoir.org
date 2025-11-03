@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe percevoir
+
+* INDICATIF
+
+** Présent
+
+je perçois
+tu perçois
+il (elle) perçoit
+nous percevons
+vous percevez
+ils (elles) perçoivent
+
+** Imparfait
+
+je percevais
+tu percevais
+il (elle) percevait
+nous percevions
+vous perceviez
+ils (elles) percevaient
+
+** Passé simple
+
+je perçus
+tu perçus
+il (elle) perçut
+nous perçûmes
+vous perçûtes
+ils (elles) perçurent
+
+** Futur simple
+
+je percevrai
+tu percevras
+il (elle) percevra
+nous percevrons
+vous percevrez
+ils (elles) percevront
+
+* CONDITIONNEL
+
+** Présent
+
+je percevrais
+tu percevrais
+il (elle) percevrait
+nous percevrions
+vous percevriez
+ils (elles) percevraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je perçoive
+que tu perçoives
+qu’il (elle) perçoive
+que nous percevions
+que vous perceviez
+qu’ils (elles) perçoivent
+
+** Imparfait
+
+que je perçusse
+que tu perçusses
+qu’il (elle) perçût
+que nous perçussions
+que vous perçussiez
+qu’ils (elles) perçussent
+
+* IMPÉRATIF
+
+** Présent
+
+perçois
+percevons
+percevez
+
+* INFINITIF
+
+** Présent
+
+percevoir
+
+* PARTICIPE
+
+** Présent
+
+percevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai perçu
+tu as perçu
+il (elle) a perçu
+nous avons perçu
+vous avez perçu
+ils (elles) ont perçu
+
+** Plus-que-parfait
+
+j'avais perçu
+tu avais perçu
+il (elle) avait perçu
+nous avions perçu
+vous aviez perçu
+ils (elles) avaient perçu
+
+** Passé antérieur
+
+j'eus perçu
+tu eus perçu
+il (elle) eut perçu
+nous eûmes perçu
+vous eûtes perçu
+ils (elles) eurent perçu
+
+** Futur antérieur
+
+j'aurai perçu
+tu auras perçu
+il (elle) aura perçu
+nous aurons perçu
+vous aurez perçu
+ils (elles) auront perçu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais perçu
+tu aurais perçu
+il (elle) aurait perçu
+nous aurions perçu
+vous auriez perçu
+ils (elles) auraient perçu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie perçu
+que tu aies perçu
+qu’il (elle) ait perçu
+que nous ayons perçu
+que vous ayez perçu
+qu’ils (elles) aient perçu
+
+** Plus-que-parfait
+
+que j'eusse perçu
+que tu eusses perçu
+qu’il (elle) eût perçu
+que nous eussions perçu
+que vous eussiez perçu
+qu’ils (elles) eussent perçu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons perçu
+ayez perçu
+
+* INFINITIF
+
+** Passé
+
+avoir perçu
+
+* PARTICIPE
+
+** Passé
+
+ayant perçu
+perçu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis perçu(e)
+tu es perçu(e)
+il (elle) est perçu(e)
+nous sommes perçu(e)s
+vous êtes perçu(e)s
+ils (elles) sont perçu(e)s
+
+** Imparfait
+
+j'étais perçu(e)
+tu étais perçu(e)
+il (elle) était perçu(e)
+nous étions perçu(e)s
+vous étiez perçu(e)s
+ils (elles) étaient perçu(e)s
+
+** Passé simple
+
+je fus perçu(e)
+tu fus perçu(e)
+il (elle) fut perçu(e)
+nous fûmes perçu(e)s
+vous fûtes perçu(e)s
+ils (elles) furent perçu(e)s
+
+** Futur simple
+
+je serai perçu(e)
+tu seras perçu(e)
+il (elle) sera perçu(e)
+nous serons perçu(e)s
+vous serez perçu(e)s
+ils (elles) seront perçu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais perçu(e)
+tu serais perçu(e)
+il (elle) serait perçu(e)
+nous serions perçu(e)s
+vous seriez perçu(e)s
+ils (elles) seraient perçu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois perçu(e)
+que tu sois perçu(e)
+qu’il (elle) soit perçu(e)
+que nous soyons perçu(e)s
+que vous soyez perçu(e)s
+qu’ils (elles) soient perçu(e)s
+
+** Imparfait
+
+que je fusse perçu(e)
+que tu fusses perçu(e)
+qu’il (elle) fût perçu(e)
+que nous fussions perçu(e)s
+que vous fussiez perçu(e)s
+qu’ils (elles) fussent perçu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons perçu(e)s
+soyez perçu(e)s
+
+* INFINITIF
+
+** Présent
+
+être perçu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant perçu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été perçu(e)
+tu as été perçu(e)
+il (elle) a été perçu(e)
+nous avons été perçu(e)s
+vous avez été perçu(e)s
+ils (elles) ont été perçu(e)s
+
+** Plus-que-parfait
+
+j'avais été perçu(e)
+il (elle) avait été perçu(e)
+nous avions été perçu(e)s
+ils (elles) avaient été perçu(e)s
+
+** Passé antérieur
+
+j'eus été perçu(e)
+tu eus été perçu(e)
+il (elle) eut été perçu(e)
+nous eûmes été perçu(e)s
+vous eûtes été perçu(e)s
+ils (elles) eurent été perçu(e)s
+
+** Futur antérieur
+
+j'aurai été perçu(e)
+tu auras été perçu(e)
+il (elle) aura été perçu(e)
+nous aurons été perçu(e)s
+vous aurez été perçu(e)s
+ils (elles) auront été perçu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été perçu(e)
+j'aurais été perçu(e)
+il (elle) aurait été perçu(e)
+nous aurions été perçu(e)s
+vous auriez été perçu(e)s
+ils (elles) auraient été perçu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été perçu(e)
+que tu aies été perçu(e)
+qu’il (elle) ait été perçu(e)
+que nous ayons été perçu(e)s
+que vous ayez été perçu(e)s
+qu’ils (elles) aient été perçu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été perçu(e)
+que tu eusses été perçu(e)
+qu’il (elle) eût été perçu(e)
+que nous eussions été perçu(e)s
+que vous eussiez été perçu(e)s
+qu’ils (elles) eussent été perçu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été perçu(e)
+ayons été perçu(e)s
+ayez été perçu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été perçu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été perçu(e)(s)

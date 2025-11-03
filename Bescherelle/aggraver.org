@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aggraver
+
+* INDICATIF
+
+** Présent
+
+j'aggrave
+tu aggraves
+il (elle) aggrave
+nous aggravons
+vous aggravez
+ils (elles) aggravent
+
+** Imparfait
+
+j'aggravais
+tu aggravais
+il (elle) aggravait
+nous aggravions
+vous aggraviez
+ils (elles) aggravaient
+
+** Passé simple
+
+j'aggravai
+tu aggravas
+il (elle) aggrava
+nous aggravâmes
+vous aggravâtes
+ils (elles) aggravèrent
+
+** Futur simple
+
+j'aggraverai
+tu aggraveras
+il (elle) aggravera
+nous aggraverons
+vous aggraverez
+ils (elles) aggraveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aggraverais
+tu aggraverais
+il (elle) aggraverait
+nous aggraverions
+vous aggraveriez
+ils (elles) aggraveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aggrave
+que tu aggraves
+qu’il (elle) aggrave
+que nous aggravions
+que vous aggraviez
+qu’ils (elles) aggravent
+
+** Imparfait
+
+que j'aggravasse
+que tu aggravasses
+qu’il (elle) aggravât
+que nous aggravassions
+que vous aggravassiez
+qu’ils (elles) aggravassent
+
+* IMPÉRATIF
+
+** Présent
+
+aggrave
+aggravons
+aggravez
+
+* INFINITIF
+
+** Présent
+
+aggraver
+
+* PARTICIPE
+
+** Présent
+
+aggravant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aggravé
+tu as aggravé
+il (elle) a aggravé
+nous avons aggravé
+vous avez aggravé
+ils (elles) ont aggravé
+
+** Plus-que-parfait
+
+j'avais aggravé
+tu avais aggravé
+il (elle) avait aggravé
+nous avions aggravé
+vous aviez aggravé
+ils (elles) avaient aggravé
+
+** Passé antérieur
+
+j'eus aggravé
+tu eus aggravé
+il (elle) eut aggravé
+nous eûmes aggravé
+vous eûtes aggravé
+ils (elles) eurent aggravé
+
+** Futur antérieur
+
+j'aurai aggravé
+tu auras aggravé
+il (elle) aura aggravé
+nous aurons aggravé
+vous aurez aggravé
+ils (elles) auront aggravé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aggravé
+tu aurais aggravé
+il (elle) aurait aggravé
+nous aurions aggravé
+vous auriez aggravé
+ils (elles) auraient aggravé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aggravé
+que tu aies aggravé
+qu’il (elle) ait aggravé
+que nous ayons aggravé
+que vous ayez aggravé
+qu’ils (elles) aient aggravé
+
+** Plus-que-parfait
+
+que j'eusse aggravé
+que tu eusses aggravé
+qu’il (elle) eût aggravé
+que nous eussions aggravé
+que vous eussiez aggravé
+qu’ils (elles) eussent aggravé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aggravé
+ayez aggravé
+
+* INFINITIF
+
+** Passé
+
+avoir aggravé
+
+* PARTICIPE
+
+** Passé
+
+ayant aggravé
+aggravé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aggravé(e)
+tu es aggravé(e)
+il (elle) est aggravé(e)
+nous sommes aggravé(e)s
+vous êtes aggravé(e)s
+ils (elles) sont aggravé(e)s
+
+** Imparfait
+
+j'étais aggravé(e)
+tu étais aggravé(e)
+il (elle) était aggravé(e)
+nous étions aggravé(e)s
+vous étiez aggravé(e)s
+ils (elles) étaient aggravé(e)s
+
+** Passé simple
+
+je fus aggravé(e)
+tu fus aggravé(e)
+il (elle) fut aggravé(e)
+nous fûmes aggravé(e)s
+vous fûtes aggravé(e)s
+ils (elles) furent aggravé(e)s
+
+** Futur simple
+
+je serai aggravé(e)
+tu seras aggravé(e)
+il (elle) sera aggravé(e)
+nous serons aggravé(e)s
+vous serez aggravé(e)s
+ils (elles) seront aggravé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aggravé(e)
+tu serais aggravé(e)
+il (elle) serait aggravé(e)
+nous serions aggravé(e)s
+vous seriez aggravé(e)s
+ils (elles) seraient aggravé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aggravé(e)
+que tu sois aggravé(e)
+qu’il (elle) soit aggravé(e)
+que nous soyons aggravé(e)s
+que vous soyez aggravé(e)s
+qu’ils (elles) soient aggravé(e)s
+
+** Imparfait
+
+que je fusse aggravé(e)
+que tu fusses aggravé(e)
+qu’il (elle) fût aggravé(e)
+que nous fussions aggravé(e)s
+que vous fussiez aggravé(e)s
+qu’ils (elles) fussent aggravé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aggravé(e)s
+soyez aggravé(e)s
+
+* INFINITIF
+
+** Présent
+
+être aggravé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aggravé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aggravé(e)
+tu as été aggravé(e)
+il (elle) a été aggravé(e)
+nous avons été aggravé(e)s
+vous avez été aggravé(e)s
+ils (elles) ont été aggravé(e)s
+
+** Plus-que-parfait
+
+j'avais été aggravé(e)
+il (elle) avait été aggravé(e)
+nous avions été aggravé(e)s
+ils (elles) avaient été aggravé(e)s
+
+** Passé antérieur
+
+j'eus été aggravé(e)
+tu eus été aggravé(e)
+il (elle) eut été aggravé(e)
+nous eûmes été aggravé(e)s
+vous eûtes été aggravé(e)s
+ils (elles) eurent été aggravé(e)s
+
+** Futur antérieur
+
+j'aurai été aggravé(e)
+tu auras été aggravé(e)
+il (elle) aura été aggravé(e)
+nous aurons été aggravé(e)s
+vous aurez été aggravé(e)s
+ils (elles) auront été aggravé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aggravé(e)
+j'aurais été aggravé(e)
+il (elle) aurait été aggravé(e)
+nous aurions été aggravé(e)s
+vous auriez été aggravé(e)s
+ils (elles) auraient été aggravé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aggravé(e)
+que tu aies été aggravé(e)
+qu’il (elle) ait été aggravé(e)
+que nous ayons été aggravé(e)s
+que vous ayez été aggravé(e)s
+qu’ils (elles) aient été aggravé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aggravé(e)
+que tu eusses été aggravé(e)
+qu’il (elle) eût été aggravé(e)
+que nous eussions été aggravé(e)s
+que vous eussiez été aggravé(e)s
+qu’ils (elles) eussent été aggravé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aggravé(e)
+ayons été aggravé(e)s
+ayez été aggravé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aggravé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aggravé(e)(s)

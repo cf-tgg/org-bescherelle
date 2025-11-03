@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bercer
+
+* INDICATIF
+
+** Présent
+
+je berce
+tu berces
+il (elle) berce
+nous berçons
+vous bercez
+ils (elles) bercent
+
+** Imparfait
+
+je berçais
+tu berçais
+il (elle) berçait
+nous bercions
+vous berciez
+ils (elles) berçaient
+
+** Passé simple
+
+je berçai
+tu berças
+il (elle) berça
+nous berçâmes
+vous berçâtes
+ils (elles) bercèrent
+
+** Futur simple
+
+je bercerai
+tu berceras
+il (elle) bercera
+nous bercerons
+vous bercerez
+ils (elles) berceront
+
+* CONDITIONNEL
+
+** Présent
+
+je bercerais
+tu bercerais
+il (elle) bercerait
+nous bercerions
+vous berceriez
+ils (elles) berceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je berce
+que tu berces
+qu’il (elle) berce
+que nous bercions
+que vous berciez
+qu’ils (elles) bercent
+
+** Imparfait
+
+que je berçasse
+que tu berçasses
+qu’il (elle) berçât
+que nous berçassions
+que vous berçassiez
+qu’ils (elles) berçassent
+
+* IMPÉRATIF
+
+** Présent
+
+berce
+berçons
+bercez
+
+* INFINITIF
+
+** Présent
+
+bercer
+
+* PARTICIPE
+
+** Présent
+
+berçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bercé
+tu as bercé
+il (elle) a bercé
+nous avons bercé
+vous avez bercé
+ils (elles) ont bercé
+
+** Plus-que-parfait
+
+j'avais bercé
+tu avais bercé
+il (elle) avait bercé
+nous avions bercé
+vous aviez bercé
+ils (elles) avaient bercé
+
+** Passé antérieur
+
+j'eus bercé
+tu eus bercé
+il (elle) eut bercé
+nous eûmes bercé
+vous eûtes bercé
+ils (elles) eurent bercé
+
+** Futur antérieur
+
+j'aurai bercé
+tu auras bercé
+il (elle) aura bercé
+nous aurons bercé
+vous aurez bercé
+ils (elles) auront bercé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bercé
+tu aurais bercé
+il (elle) aurait bercé
+nous aurions bercé
+vous auriez bercé
+ils (elles) auraient bercé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bercé
+que tu aies bercé
+qu’il (elle) ait bercé
+que nous ayons bercé
+que vous ayez bercé
+qu’ils (elles) aient bercé
+
+** Plus-que-parfait
+
+que j'eusse bercé
+que tu eusses bercé
+qu’il (elle) eût bercé
+que nous eussions bercé
+que vous eussiez bercé
+qu’ils (elles) eussent bercé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bercé
+ayez bercé
+
+* INFINITIF
+
+** Passé
+
+avoir bercé
+
+* PARTICIPE
+
+** Passé
+
+ayant bercé
+bercé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bercé(e)
+tu es bercé(e)
+il (elle) est bercé(e)
+nous sommes bercé(e)s
+vous êtes bercé(e)s
+ils (elles) sont bercé(e)s
+
+** Imparfait
+
+j'étais bercé(e)
+tu étais bercé(e)
+il (elle) était bercé(e)
+nous étions bercé(e)s
+vous étiez bercé(e)s
+ils (elles) étaient bercé(e)s
+
+** Passé simple
+
+je fus bercé(e)
+tu fus bercé(e)
+il (elle) fut bercé(e)
+nous fûmes bercé(e)s
+vous fûtes bercé(e)s
+ils (elles) furent bercé(e)s
+
+** Futur simple
+
+je serai bercé(e)
+tu seras bercé(e)
+il (elle) sera bercé(e)
+nous serons bercé(e)s
+vous serez bercé(e)s
+ils (elles) seront bercé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bercé(e)
+tu serais bercé(e)
+il (elle) serait bercé(e)
+nous serions bercé(e)s
+vous seriez bercé(e)s
+ils (elles) seraient bercé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bercé(e)
+que tu sois bercé(e)
+qu’il (elle) soit bercé(e)
+que nous soyons bercé(e)s
+que vous soyez bercé(e)s
+qu’ils (elles) soient bercé(e)s
+
+** Imparfait
+
+que je fusse bercé(e)
+que tu fusses bercé(e)
+qu’il (elle) fût bercé(e)
+que nous fussions bercé(e)s
+que vous fussiez bercé(e)s
+qu’ils (elles) fussent bercé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bercé(e)s
+soyez bercé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bercé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bercé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bercé(e)
+tu as été bercé(e)
+il (elle) a été bercé(e)
+nous avons été bercé(e)s
+vous avez été bercé(e)s
+ils (elles) ont été bercé(e)s
+
+** Plus-que-parfait
+
+j'avais été bercé(e)
+il (elle) avait été bercé(e)
+nous avions été bercé(e)s
+ils (elles) avaient été bercé(e)s
+
+** Passé antérieur
+
+j'eus été bercé(e)
+tu eus été bercé(e)
+il (elle) eut été bercé(e)
+nous eûmes été bercé(e)s
+vous eûtes été bercé(e)s
+ils (elles) eurent été bercé(e)s
+
+** Futur antérieur
+
+j'aurai été bercé(e)
+tu auras été bercé(e)
+il (elle) aura été bercé(e)
+nous aurons été bercé(e)s
+vous aurez été bercé(e)s
+ils (elles) auront été bercé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bercé(e)
+j'aurais été bercé(e)
+il (elle) aurait été bercé(e)
+nous aurions été bercé(e)s
+vous auriez été bercé(e)s
+ils (elles) auraient été bercé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bercé(e)
+que tu aies été bercé(e)
+qu’il (elle) ait été bercé(e)
+que nous ayons été bercé(e)s
+que vous ayez été bercé(e)s
+qu’ils (elles) aient été bercé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bercé(e)
+que tu eusses été bercé(e)
+qu’il (elle) eût été bercé(e)
+que nous eussions été bercé(e)s
+que vous eussiez été bercé(e)s
+qu’ils (elles) eussent été bercé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bercé(e)
+ayons été bercé(e)s
+ayez été bercé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bercé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bercé(e)(s)

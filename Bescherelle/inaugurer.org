@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inaugurer
+
+* INDICATIF
+
+** Présent
+
+j'inaugure
+tu inaugures
+il (elle) inaugure
+nous inaugurons
+vous inaugurez
+ils (elles) inaugurent
+
+** Imparfait
+
+j'inaugurais
+tu inaugurais
+il (elle) inaugurait
+nous inaugurions
+vous inauguriez
+ils (elles) inauguraient
+
+** Passé simple
+
+j'inaugurai
+tu inauguras
+il (elle) inaugura
+nous inaugurâmes
+vous inaugurâtes
+ils (elles) inaugurèrent
+
+** Futur simple
+
+j'inaugurerai
+tu inaugureras
+il (elle) inaugurera
+nous inaugurerons
+vous inaugurerez
+ils (elles) inaugureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inaugurerais
+tu inaugurerais
+il (elle) inaugurerait
+nous inaugurerions
+vous inaugureriez
+ils (elles) inaugureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inaugure
+que tu inaugures
+qu’il (elle) inaugure
+que nous inaugurions
+que vous inauguriez
+qu’ils (elles) inaugurent
+
+** Imparfait
+
+que j'inaugurasse
+que tu inaugurasses
+qu’il (elle) inaugurât
+que nous inaugurassions
+que vous inaugurassiez
+qu’ils (elles) inaugurassent
+
+* IMPÉRATIF
+
+** Présent
+
+inaugure
+inaugurons
+inaugurez
+
+* INFINITIF
+
+** Présent
+
+inaugurer
+
+* PARTICIPE
+
+** Présent
+
+inaugurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inauguré
+tu as inauguré
+il (elle) a inauguré
+nous avons inauguré
+vous avez inauguré
+ils (elles) ont inauguré
+
+** Plus-que-parfait
+
+j'avais inauguré
+tu avais inauguré
+il (elle) avait inauguré
+nous avions inauguré
+vous aviez inauguré
+ils (elles) avaient inauguré
+
+** Passé antérieur
+
+j'eus inauguré
+tu eus inauguré
+il (elle) eut inauguré
+nous eûmes inauguré
+vous eûtes inauguré
+ils (elles) eurent inauguré
+
+** Futur antérieur
+
+j'aurai inauguré
+tu auras inauguré
+il (elle) aura inauguré
+nous aurons inauguré
+vous aurez inauguré
+ils (elles) auront inauguré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inauguré
+tu aurais inauguré
+il (elle) aurait inauguré
+nous aurions inauguré
+vous auriez inauguré
+ils (elles) auraient inauguré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inauguré
+que tu aies inauguré
+qu’il (elle) ait inauguré
+que nous ayons inauguré
+que vous ayez inauguré
+qu’ils (elles) aient inauguré
+
+** Plus-que-parfait
+
+que j'eusse inauguré
+que tu eusses inauguré
+qu’il (elle) eût inauguré
+que nous eussions inauguré
+que vous eussiez inauguré
+qu’ils (elles) eussent inauguré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inauguré
+ayez inauguré
+
+* INFINITIF
+
+** Passé
+
+avoir inauguré
+
+* PARTICIPE
+
+** Passé
+
+ayant inauguré
+inauguré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inauguré(e)
+tu es inauguré(e)
+il (elle) est inauguré(e)
+nous sommes inauguré(e)s
+vous êtes inauguré(e)s
+ils (elles) sont inauguré(e)s
+
+** Imparfait
+
+j'étais inauguré(e)
+tu étais inauguré(e)
+il (elle) était inauguré(e)
+nous étions inauguré(e)s
+vous étiez inauguré(e)s
+ils (elles) étaient inauguré(e)s
+
+** Passé simple
+
+je fus inauguré(e)
+tu fus inauguré(e)
+il (elle) fut inauguré(e)
+nous fûmes inauguré(e)s
+vous fûtes inauguré(e)s
+ils (elles) furent inauguré(e)s
+
+** Futur simple
+
+je serai inauguré(e)
+tu seras inauguré(e)
+il (elle) sera inauguré(e)
+nous serons inauguré(e)s
+vous serez inauguré(e)s
+ils (elles) seront inauguré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inauguré(e)
+tu serais inauguré(e)
+il (elle) serait inauguré(e)
+nous serions inauguré(e)s
+vous seriez inauguré(e)s
+ils (elles) seraient inauguré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inauguré(e)
+que tu sois inauguré(e)
+qu’il (elle) soit inauguré(e)
+que nous soyons inauguré(e)s
+que vous soyez inauguré(e)s
+qu’ils (elles) soient inauguré(e)s
+
+** Imparfait
+
+que je fusse inauguré(e)
+que tu fusses inauguré(e)
+qu’il (elle) fût inauguré(e)
+que nous fussions inauguré(e)s
+que vous fussiez inauguré(e)s
+qu’ils (elles) fussent inauguré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inauguré(e)s
+soyez inauguré(e)s
+
+* INFINITIF
+
+** Présent
+
+être inauguré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inauguré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inauguré(e)
+tu as été inauguré(e)
+il (elle) a été inauguré(e)
+nous avons été inauguré(e)s
+vous avez été inauguré(e)s
+ils (elles) ont été inauguré(e)s
+
+** Plus-que-parfait
+
+j'avais été inauguré(e)
+il (elle) avait été inauguré(e)
+nous avions été inauguré(e)s
+ils (elles) avaient été inauguré(e)s
+
+** Passé antérieur
+
+j'eus été inauguré(e)
+tu eus été inauguré(e)
+il (elle) eut été inauguré(e)
+nous eûmes été inauguré(e)s
+vous eûtes été inauguré(e)s
+ils (elles) eurent été inauguré(e)s
+
+** Futur antérieur
+
+j'aurai été inauguré(e)
+tu auras été inauguré(e)
+il (elle) aura été inauguré(e)
+nous aurons été inauguré(e)s
+vous aurez été inauguré(e)s
+ils (elles) auront été inauguré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inauguré(e)
+j'aurais été inauguré(e)
+il (elle) aurait été inauguré(e)
+nous aurions été inauguré(e)s
+vous auriez été inauguré(e)s
+ils (elles) auraient été inauguré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inauguré(e)
+que tu aies été inauguré(e)
+qu’il (elle) ait été inauguré(e)
+que nous ayons été inauguré(e)s
+que vous ayez été inauguré(e)s
+qu’ils (elles) aient été inauguré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inauguré(e)
+que tu eusses été inauguré(e)
+qu’il (elle) eût été inauguré(e)
+que nous eussions été inauguré(e)s
+que vous eussiez été inauguré(e)s
+qu’ils (elles) eussent été inauguré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inauguré(e)
+ayons été inauguré(e)s
+ayez été inauguré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inauguré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inauguré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe annuler
+
+* INDICATIF
+
+** Présent
+
+j'annule
+tu annules
+il (elle) annule
+nous annulons
+vous annulez
+ils (elles) annulent
+
+** Imparfait
+
+j'annulais
+tu annulais
+il (elle) annulait
+nous annulions
+vous annuliez
+ils (elles) annulaient
+
+** Passé simple
+
+j'annulai
+tu annulas
+il (elle) annula
+nous annulâmes
+vous annulâtes
+ils (elles) annulèrent
+
+** Futur simple
+
+j'annulerai
+tu annuleras
+il (elle) annulera
+nous annulerons
+vous annulerez
+ils (elles) annuleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'annulerais
+tu annulerais
+il (elle) annulerait
+nous annulerions
+vous annuleriez
+ils (elles) annuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'annule
+que tu annules
+qu’il (elle) annule
+que nous annulions
+que vous annuliez
+qu’ils (elles) annulent
+
+** Imparfait
+
+que j'annulasse
+que tu annulasses
+qu’il (elle) annulât
+que nous annulassions
+que vous annulassiez
+qu’ils (elles) annulassent
+
+* IMPÉRATIF
+
+** Présent
+
+annule
+annulons
+annulez
+
+* INFINITIF
+
+** Présent
+
+annuler
+
+* PARTICIPE
+
+** Présent
+
+annulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai annulé
+tu as annulé
+il (elle) a annulé
+nous avons annulé
+vous avez annulé
+ils (elles) ont annulé
+
+** Plus-que-parfait
+
+j'avais annulé
+tu avais annulé
+il (elle) avait annulé
+nous avions annulé
+vous aviez annulé
+ils (elles) avaient annulé
+
+** Passé antérieur
+
+j'eus annulé
+tu eus annulé
+il (elle) eut annulé
+nous eûmes annulé
+vous eûtes annulé
+ils (elles) eurent annulé
+
+** Futur antérieur
+
+j'aurai annulé
+tu auras annulé
+il (elle) aura annulé
+nous aurons annulé
+vous aurez annulé
+ils (elles) auront annulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais annulé
+tu aurais annulé
+il (elle) aurait annulé
+nous aurions annulé
+vous auriez annulé
+ils (elles) auraient annulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie annulé
+que tu aies annulé
+qu’il (elle) ait annulé
+que nous ayons annulé
+que vous ayez annulé
+qu’ils (elles) aient annulé
+
+** Plus-que-parfait
+
+que j'eusse annulé
+que tu eusses annulé
+qu’il (elle) eût annulé
+que nous eussions annulé
+que vous eussiez annulé
+qu’ils (elles) eussent annulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons annulé
+ayez annulé
+
+* INFINITIF
+
+** Passé
+
+avoir annulé
+
+* PARTICIPE
+
+** Passé
+
+ayant annulé
+annulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis annulé(e)
+tu es annulé(e)
+il (elle) est annulé(e)
+nous sommes annulé(e)s
+vous êtes annulé(e)s
+ils (elles) sont annulé(e)s
+
+** Imparfait
+
+j'étais annulé(e)
+tu étais annulé(e)
+il (elle) était annulé(e)
+nous étions annulé(e)s
+vous étiez annulé(e)s
+ils (elles) étaient annulé(e)s
+
+** Passé simple
+
+je fus annulé(e)
+tu fus annulé(e)
+il (elle) fut annulé(e)
+nous fûmes annulé(e)s
+vous fûtes annulé(e)s
+ils (elles) furent annulé(e)s
+
+** Futur simple
+
+je serai annulé(e)
+tu seras annulé(e)
+il (elle) sera annulé(e)
+nous serons annulé(e)s
+vous serez annulé(e)s
+ils (elles) seront annulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais annulé(e)
+tu serais annulé(e)
+il (elle) serait annulé(e)
+nous serions annulé(e)s
+vous seriez annulé(e)s
+ils (elles) seraient annulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois annulé(e)
+que tu sois annulé(e)
+qu’il (elle) soit annulé(e)
+que nous soyons annulé(e)s
+que vous soyez annulé(e)s
+qu’ils (elles) soient annulé(e)s
+
+** Imparfait
+
+que je fusse annulé(e)
+que tu fusses annulé(e)
+qu’il (elle) fût annulé(e)
+que nous fussions annulé(e)s
+que vous fussiez annulé(e)s
+qu’ils (elles) fussent annulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons annulé(e)s
+soyez annulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être annulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant annulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été annulé(e)
+tu as été annulé(e)
+il (elle) a été annulé(e)
+nous avons été annulé(e)s
+vous avez été annulé(e)s
+ils (elles) ont été annulé(e)s
+
+** Plus-que-parfait
+
+j'avais été annulé(e)
+il (elle) avait été annulé(e)
+nous avions été annulé(e)s
+ils (elles) avaient été annulé(e)s
+
+** Passé antérieur
+
+j'eus été annulé(e)
+tu eus été annulé(e)
+il (elle) eut été annulé(e)
+nous eûmes été annulé(e)s
+vous eûtes été annulé(e)s
+ils (elles) eurent été annulé(e)s
+
+** Futur antérieur
+
+j'aurai été annulé(e)
+tu auras été annulé(e)
+il (elle) aura été annulé(e)
+nous aurons été annulé(e)s
+vous aurez été annulé(e)s
+ils (elles) auront été annulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été annulé(e)
+j'aurais été annulé(e)
+il (elle) aurait été annulé(e)
+nous aurions été annulé(e)s
+vous auriez été annulé(e)s
+ils (elles) auraient été annulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été annulé(e)
+que tu aies été annulé(e)
+qu’il (elle) ait été annulé(e)
+que nous ayons été annulé(e)s
+que vous ayez été annulé(e)s
+qu’ils (elles) aient été annulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été annulé(e)
+que tu eusses été annulé(e)
+qu’il (elle) eût été annulé(e)
+que nous eussions été annulé(e)s
+que vous eussiez été annulé(e)s
+qu’ils (elles) eussent été annulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été annulé(e)
+ayons été annulé(e)s
+ayez été annulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été annulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été annulé(e)(s)

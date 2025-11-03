@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe agrandir
+
+* INDICATIF
+
+** Présent
+
+j'agrandis
+tu agrandis
+il (elle) agrandit
+nous agrandissons
+vous agrandissez
+ils (elles) agrandissent
+
+** Imparfait
+
+j'agrandissais
+tu agrandissais
+il (elle) agrandissait
+nous agrandissions
+vous agrandissiez
+ils (elles) agrandissaient
+
+** Passé simple
+
+j'agrandis
+tu agrandis
+il (elle) agrandit
+nous agrandîmes
+vous agrandîtes
+ils (elles) agrandirent
+
+** Futur simple
+
+j'agrandirai
+tu agrandiras
+il (elle) agrandira
+nous agrandirons
+vous agrandirez
+ils (elles) agrandiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'agrandirais
+tu agrandirais
+il (elle) agrandirait
+nous agrandirions
+vous agrandiriez
+ils (elles) agrandiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'agrandisse
+que tu agrandisses
+qu’il (elle) agrandisse
+que nous agrandissions
+que vous agrandissiez
+qu’ils (elles) agrandissent
+
+** Imparfait
+
+que j'agrandisse
+que tu agrandisses
+qu’il (elle) agrandît
+que nous agrandissions
+que vous agrandissiez
+qu’ils (elles) agrandissent
+
+* IMPÉRATIF
+
+** Présent
+
+agrandis
+agrandissons
+agrandissez
+
+* INFINITIF
+
+** Présent
+
+agrandir
+
+* PARTICIPE
+
+** Présent
+
+agrandissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai agrandi
+tu as agrandi
+il (elle) a agrandi
+nous avons agrandi
+vous avez agrandi
+ils (elles) ont agrandi
+
+** Plus-que-parfait
+
+j'avais agrandi
+tu avais agrandi
+il (elle) avait agrandi
+nous avions agrandi
+vous aviez agrandi
+ils (elles) avaient agrandi
+
+** Passé antérieur
+
+j'eus agrandi
+tu eus agrandi
+il (elle) eut agrandi
+nous eûmes agrandi
+vous eûtes agrandi
+ils (elles) eurent agrandi
+
+** Futur antérieur
+
+j'aurai agrandi
+tu auras agrandi
+il (elle) aura agrandi
+nous aurons agrandi
+vous aurez agrandi
+ils (elles) auront agrandi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais agrandi
+tu aurais agrandi
+il (elle) aurait agrandi
+nous aurions agrandi
+vous auriez agrandi
+ils (elles) auraient agrandi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie agrandi
+que tu aies agrandi
+qu’il (elle) ait agrandi
+que nous ayons agrandi
+que vous ayez agrandi
+qu’ils (elles) aient agrandi
+
+** Plus-que-parfait
+
+que j'eusse agrandi
+que tu eusses agrandi
+qu’il (elle) eût agrandi
+que nous eussions agrandi
+que vous eussiez agrandi
+qu’ils (elles) eussent agrandi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons agrandi
+ayez agrandi
+
+* INFINITIF
+
+** Passé
+
+avoir agrandi
+
+* PARTICIPE
+
+** Passé
+
+ayant agrandi
+agrandi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis agrandi(e)
+tu es agrandi(e)
+il (elle) est agrandi(e)
+nous sommes agrandi(e)s
+vous êtes agrandi(e)s
+ils (elles) sont agrandi(e)s
+
+** Imparfait
+
+j'étais agrandi(e)
+tu étais agrandi(e)
+il (elle) était agrandi(e)
+nous étions agrandi(e)s
+vous étiez agrandi(e)s
+ils (elles) étaient agrandi(e)s
+
+** Passé simple
+
+je fus agrandi(e)
+tu fus agrandi(e)
+il (elle) fut agrandi(e)
+nous fûmes agrandi(e)s
+vous fûtes agrandi(e)s
+ils (elles) furent agrandi(e)s
+
+** Futur simple
+
+je serai agrandi(e)
+tu seras agrandi(e)
+il (elle) sera agrandi(e)
+nous serons agrandi(e)s
+vous serez agrandi(e)s
+ils (elles) seront agrandi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais agrandi(e)
+tu serais agrandi(e)
+il (elle) serait agrandi(e)
+nous serions agrandi(e)s
+vous seriez agrandi(e)s
+ils (elles) seraient agrandi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois agrandi(e)
+que tu sois agrandi(e)
+qu’il (elle) soit agrandi(e)
+que nous soyons agrandi(e)s
+que vous soyez agrandi(e)s
+qu’ils (elles) soient agrandi(e)s
+
+** Imparfait
+
+que je fusse agrandi(e)
+que tu fusses agrandi(e)
+qu’il (elle) fût agrandi(e)
+que nous fussions agrandi(e)s
+que vous fussiez agrandi(e)s
+qu’ils (elles) fussent agrandi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons agrandi(e)s
+soyez agrandi(e)s
+
+* INFINITIF
+
+** Présent
+
+être agrandi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant agrandi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été agrandi(e)
+tu as été agrandi(e)
+il (elle) a été agrandi(e)
+nous avons été agrandi(e)s
+vous avez été agrandi(e)s
+ils (elles) ont été agrandi(e)s
+
+** Plus-que-parfait
+
+j'avais été agrandi(e)
+il (elle) avait été agrandi(e)
+nous avions été agrandi(e)s
+ils (elles) avaient été agrandi(e)s
+
+** Passé antérieur
+
+j'eus été agrandi(e)
+tu eus été agrandi(e)
+il (elle) eut été agrandi(e)
+nous eûmes été agrandi(e)s
+vous eûtes été agrandi(e)s
+ils (elles) eurent été agrandi(e)s
+
+** Futur antérieur
+
+j'aurai été agrandi(e)
+tu auras été agrandi(e)
+il (elle) aura été agrandi(e)
+nous aurons été agrandi(e)s
+vous aurez été agrandi(e)s
+ils (elles) auront été agrandi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été agrandi(e)
+j'aurais été agrandi(e)
+il (elle) aurait été agrandi(e)
+nous aurions été agrandi(e)s
+vous auriez été agrandi(e)s
+ils (elles) auraient été agrandi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été agrandi(e)
+que tu aies été agrandi(e)
+qu’il (elle) ait été agrandi(e)
+que nous ayons été agrandi(e)s
+que vous ayez été agrandi(e)s
+qu’ils (elles) aient été agrandi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été agrandi(e)
+que tu eusses été agrandi(e)
+qu’il (elle) eût été agrandi(e)
+que nous eussions été agrandi(e)s
+que vous eussiez été agrandi(e)s
+qu’ils (elles) eussent été agrandi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été agrandi(e)
+ayons été agrandi(e)s
+ayez été agrandi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été agrandi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été agrandi(e)(s)

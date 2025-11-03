@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attarder
+
+* INDICATIF
+
+** Présent
+
+j'attarde
+tu attardes
+il (elle) attarde
+nous attardons
+vous attardez
+ils (elles) attardent
+
+** Imparfait
+
+j'attardais
+tu attardais
+il (elle) attardait
+nous attardions
+vous attardiez
+ils (elles) attardaient
+
+** Passé simple
+
+j'attardai
+tu attardas
+il (elle) attarda
+nous attardâmes
+vous attardâtes
+ils (elles) attardèrent
+
+** Futur simple
+
+j'attarderai
+tu attarderas
+il (elle) attardera
+nous attarderons
+vous attarderez
+ils (elles) attarderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'attarderais
+tu attarderais
+il (elle) attarderait
+nous attarderions
+vous attarderiez
+ils (elles) attarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attarde
+que tu attardes
+qu’il (elle) attarde
+que nous attardions
+que vous attardiez
+qu’ils (elles) attardent
+
+** Imparfait
+
+que j'attardasse
+que tu attardasses
+qu’il (elle) attardât
+que nous attardassions
+que vous attardassiez
+qu’ils (elles) attardassent
+
+* IMPÉRATIF
+
+** Présent
+
+attarde
+attardons
+attardez
+
+* INFINITIF
+
+** Présent
+
+attarder
+
+* PARTICIPE
+
+** Présent
+
+attardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attardé
+tu as attardé
+il (elle) a attardé
+nous avons attardé
+vous avez attardé
+ils (elles) ont attardé
+
+** Plus-que-parfait
+
+j'avais attardé
+tu avais attardé
+il (elle) avait attardé
+nous avions attardé
+vous aviez attardé
+ils (elles) avaient attardé
+
+** Passé antérieur
+
+j'eus attardé
+tu eus attardé
+il (elle) eut attardé
+nous eûmes attardé
+vous eûtes attardé
+ils (elles) eurent attardé
+
+** Futur antérieur
+
+j'aurai attardé
+tu auras attardé
+il (elle) aura attardé
+nous aurons attardé
+vous aurez attardé
+ils (elles) auront attardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attardé
+tu aurais attardé
+il (elle) aurait attardé
+nous aurions attardé
+vous auriez attardé
+ils (elles) auraient attardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attardé
+que tu aies attardé
+qu’il (elle) ait attardé
+que nous ayons attardé
+que vous ayez attardé
+qu’ils (elles) aient attardé
+
+** Plus-que-parfait
+
+que j'eusse attardé
+que tu eusses attardé
+qu’il (elle) eût attardé
+que nous eussions attardé
+que vous eussiez attardé
+qu’ils (elles) eussent attardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attardé
+ayez attardé
+
+* INFINITIF
+
+** Passé
+
+avoir attardé
+
+* PARTICIPE
+
+** Passé
+
+ayant attardé
+attardé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attardé(e)
+tu es attardé(e)
+il (elle) est attardé(e)
+nous sommes attardé(e)s
+vous êtes attardé(e)s
+ils (elles) sont attardé(e)s
+
+** Imparfait
+
+j'étais attardé(e)
+tu étais attardé(e)
+il (elle) était attardé(e)
+nous étions attardé(e)s
+vous étiez attardé(e)s
+ils (elles) étaient attardé(e)s
+
+** Passé simple
+
+je fus attardé(e)
+tu fus attardé(e)
+il (elle) fut attardé(e)
+nous fûmes attardé(e)s
+vous fûtes attardé(e)s
+ils (elles) furent attardé(e)s
+
+** Futur simple
+
+je serai attardé(e)
+tu seras attardé(e)
+il (elle) sera attardé(e)
+nous serons attardé(e)s
+vous serez attardé(e)s
+ils (elles) seront attardé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attardé(e)
+tu serais attardé(e)
+il (elle) serait attardé(e)
+nous serions attardé(e)s
+vous seriez attardé(e)s
+ils (elles) seraient attardé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attardé(e)
+que tu sois attardé(e)
+qu’il (elle) soit attardé(e)
+que nous soyons attardé(e)s
+que vous soyez attardé(e)s
+qu’ils (elles) soient attardé(e)s
+
+** Imparfait
+
+que je fusse attardé(e)
+que tu fusses attardé(e)
+qu’il (elle) fût attardé(e)
+que nous fussions attardé(e)s
+que vous fussiez attardé(e)s
+qu’ils (elles) fussent attardé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attardé(e)s
+soyez attardé(e)s
+
+* INFINITIF
+
+** Présent
+
+être attardé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attardé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attardé(e)
+tu as été attardé(e)
+il (elle) a été attardé(e)
+nous avons été attardé(e)s
+vous avez été attardé(e)s
+ils (elles) ont été attardé(e)s
+
+** Plus-que-parfait
+
+j'avais été attardé(e)
+il (elle) avait été attardé(e)
+nous avions été attardé(e)s
+ils (elles) avaient été attardé(e)s
+
+** Passé antérieur
+
+j'eus été attardé(e)
+tu eus été attardé(e)
+il (elle) eut été attardé(e)
+nous eûmes été attardé(e)s
+vous eûtes été attardé(e)s
+ils (elles) eurent été attardé(e)s
+
+** Futur antérieur
+
+j'aurai été attardé(e)
+tu auras été attardé(e)
+il (elle) aura été attardé(e)
+nous aurons été attardé(e)s
+vous aurez été attardé(e)s
+ils (elles) auront été attardé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attardé(e)
+j'aurais été attardé(e)
+il (elle) aurait été attardé(e)
+nous aurions été attardé(e)s
+vous auriez été attardé(e)s
+ils (elles) auraient été attardé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attardé(e)
+que tu aies été attardé(e)
+qu’il (elle) ait été attardé(e)
+que nous ayons été attardé(e)s
+que vous ayez été attardé(e)s
+qu’ils (elles) aient été attardé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attardé(e)
+que tu eusses été attardé(e)
+qu’il (elle) eût été attardé(e)
+que nous eussions été attardé(e)s
+que vous eussiez été attardé(e)s
+qu’ils (elles) eussent été attardé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attardé(e)
+ayons été attardé(e)s
+ayez été attardé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attardé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attardé(e)(s)

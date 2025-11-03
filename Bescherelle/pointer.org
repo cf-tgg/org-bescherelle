@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pointer
+
+* INDICATIF
+
+** Présent
+
+je pointe
+tu pointes
+il (elle) pointe
+nous pointons
+vous pointez
+ils (elles) pointent
+
+** Imparfait
+
+je pointais
+tu pointais
+il (elle) pointait
+nous pointions
+vous pointiez
+ils (elles) pointaient
+
+** Passé simple
+
+je pointai
+tu pointas
+il (elle) pointa
+nous pointâmes
+vous pointâtes
+ils (elles) pointèrent
+
+** Futur simple
+
+je pointerai
+tu pointeras
+il (elle) pointera
+nous pointerons
+vous pointerez
+ils (elles) pointeront
+
+* CONDITIONNEL
+
+** Présent
+
+je pointerais
+tu pointerais
+il (elle) pointerait
+nous pointerions
+vous pointeriez
+ils (elles) pointeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pointe
+que tu pointes
+qu’il (elle) pointe
+que nous pointions
+que vous pointiez
+qu’ils (elles) pointent
+
+** Imparfait
+
+que je pointasse
+que tu pointasses
+qu’il (elle) pointât
+que nous pointassions
+que vous pointassiez
+qu’ils (elles) pointassent
+
+* IMPÉRATIF
+
+** Présent
+
+pointe
+pointons
+pointez
+
+* INFINITIF
+
+** Présent
+
+pointer
+
+* PARTICIPE
+
+** Présent
+
+pointant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pointé
+tu as pointé
+il (elle) a pointé
+nous avons pointé
+vous avez pointé
+ils (elles) ont pointé
+
+** Plus-que-parfait
+
+j'avais pointé
+tu avais pointé
+il (elle) avait pointé
+nous avions pointé
+vous aviez pointé
+ils (elles) avaient pointé
+
+** Passé antérieur
+
+j'eus pointé
+tu eus pointé
+il (elle) eut pointé
+nous eûmes pointé
+vous eûtes pointé
+ils (elles) eurent pointé
+
+** Futur antérieur
+
+j'aurai pointé
+tu auras pointé
+il (elle) aura pointé
+nous aurons pointé
+vous aurez pointé
+ils (elles) auront pointé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pointé
+tu aurais pointé
+il (elle) aurait pointé
+nous aurions pointé
+vous auriez pointé
+ils (elles) auraient pointé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pointé
+que tu aies pointé
+qu’il (elle) ait pointé
+que nous ayons pointé
+que vous ayez pointé
+qu’ils (elles) aient pointé
+
+** Plus-que-parfait
+
+que j'eusse pointé
+que tu eusses pointé
+qu’il (elle) eût pointé
+que nous eussions pointé
+que vous eussiez pointé
+qu’ils (elles) eussent pointé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pointé
+ayez pointé
+
+* INFINITIF
+
+** Passé
+
+avoir pointé
+
+* PARTICIPE
+
+** Passé
+
+ayant pointé
+pointé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pointé(e)
+tu es pointé(e)
+il (elle) est pointé(e)
+nous sommes pointé(e)s
+vous êtes pointé(e)s
+ils (elles) sont pointé(e)s
+
+** Imparfait
+
+j'étais pointé(e)
+tu étais pointé(e)
+il (elle) était pointé(e)
+nous étions pointé(e)s
+vous étiez pointé(e)s
+ils (elles) étaient pointé(e)s
+
+** Passé simple
+
+je fus pointé(e)
+tu fus pointé(e)
+il (elle) fut pointé(e)
+nous fûmes pointé(e)s
+vous fûtes pointé(e)s
+ils (elles) furent pointé(e)s
+
+** Futur simple
+
+je serai pointé(e)
+tu seras pointé(e)
+il (elle) sera pointé(e)
+nous serons pointé(e)s
+vous serez pointé(e)s
+ils (elles) seront pointé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pointé(e)
+tu serais pointé(e)
+il (elle) serait pointé(e)
+nous serions pointé(e)s
+vous seriez pointé(e)s
+ils (elles) seraient pointé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pointé(e)
+que tu sois pointé(e)
+qu’il (elle) soit pointé(e)
+que nous soyons pointé(e)s
+que vous soyez pointé(e)s
+qu’ils (elles) soient pointé(e)s
+
+** Imparfait
+
+que je fusse pointé(e)
+que tu fusses pointé(e)
+qu’il (elle) fût pointé(e)
+que nous fussions pointé(e)s
+que vous fussiez pointé(e)s
+qu’ils (elles) fussent pointé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pointé(e)s
+soyez pointé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pointé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pointé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pointé(e)
+tu as été pointé(e)
+il (elle) a été pointé(e)
+nous avons été pointé(e)s
+vous avez été pointé(e)s
+ils (elles) ont été pointé(e)s
+
+** Plus-que-parfait
+
+j'avais été pointé(e)
+il (elle) avait été pointé(e)
+nous avions été pointé(e)s
+ils (elles) avaient été pointé(e)s
+
+** Passé antérieur
+
+j'eus été pointé(e)
+tu eus été pointé(e)
+il (elle) eut été pointé(e)
+nous eûmes été pointé(e)s
+vous eûtes été pointé(e)s
+ils (elles) eurent été pointé(e)s
+
+** Futur antérieur
+
+j'aurai été pointé(e)
+tu auras été pointé(e)
+il (elle) aura été pointé(e)
+nous aurons été pointé(e)s
+vous aurez été pointé(e)s
+ils (elles) auront été pointé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pointé(e)
+j'aurais été pointé(e)
+il (elle) aurait été pointé(e)
+nous aurions été pointé(e)s
+vous auriez été pointé(e)s
+ils (elles) auraient été pointé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pointé(e)
+que tu aies été pointé(e)
+qu’il (elle) ait été pointé(e)
+que nous ayons été pointé(e)s
+que vous ayez été pointé(e)s
+qu’ils (elles) aient été pointé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pointé(e)
+que tu eusses été pointé(e)
+qu’il (elle) eût été pointé(e)
+que nous eussions été pointé(e)s
+que vous eussiez été pointé(e)s
+qu’ils (elles) eussent été pointé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pointé(e)
+ayons été pointé(e)s
+ayez été pointé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pointé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pointé(e)(s)

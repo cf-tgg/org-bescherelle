@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe defendre
+
+* INDICATIF
+
+** Présent
+
+je défends
+tu défends
+il (elle) défend
+nous défendons
+vous défendez
+ils (elles) défendent
+
+** Imparfait
+
+je défendais
+tu défendais
+il (elle) défendait
+nous défendions
+vous défendiez
+ils (elles) défendaient
+
+** Passé simple
+
+je défendis
+tu défendis
+il (elle) défendit
+nous défendîmes
+vous défendîtes
+ils (elles) défendirent
+
+** Futur simple
+
+je défendrai
+tu défendras
+il (elle) défendra
+nous défendrons
+vous défendrez
+ils (elles) défendront
+
+* CONDITIONNEL
+
+** Présent
+
+je défendrais
+tu défendrais
+il (elle) défendrait
+nous défendrions
+vous défendriez
+ils (elles) défendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je défende
+que tu défendes
+qu’il (elle) défende
+que nous défendions
+que vous défendiez
+qu’ils (elles) défendent
+
+** Imparfait
+
+que je défendisse
+que tu défendisses
+qu’il (elle) défendît
+que nous défendissions
+que vous défendissiez
+qu’ils (elles) défendissent
+
+* IMPÉRATIF
+
+** Présent
+
+défends
+défendons
+défendez
+
+* INFINITIF
+
+** Présent
+
+défendre
+
+* PARTICIPE
+
+** Présent
+
+défendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai défendu
+tu as défendu
+il (elle) a défendu
+nous avons défendu
+vous avez défendu
+ils (elles) ont défendu
+
+** Plus-que-parfait
+
+j'avais défendu
+tu avais défendu
+il (elle) avait défendu
+nous avions défendu
+vous aviez défendu
+ils (elles) avaient défendu
+
+** Passé antérieur
+
+j'eus défendu
+tu eus défendu
+il (elle) eut défendu
+nous eûmes défendu
+vous eûtes défendu
+ils (elles) eurent défendu
+
+** Futur antérieur
+
+j'aurai défendu
+tu auras défendu
+il (elle) aura défendu
+nous aurons défendu
+vous aurez défendu
+ils (elles) auront défendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais défendu
+tu aurais défendu
+il (elle) aurait défendu
+nous aurions défendu
+vous auriez défendu
+ils (elles) auraient défendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie défendu
+que tu aies défendu
+qu’il (elle) ait défendu
+que nous ayons défendu
+que vous ayez défendu
+qu’ils (elles) aient défendu
+
+** Plus-que-parfait
+
+que j'eusse défendu
+que tu eusses défendu
+qu’il (elle) eût défendu
+que nous eussions défendu
+que vous eussiez défendu
+qu’ils (elles) eussent défendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons défendu
+ayez défendu
+
+* INFINITIF
+
+** Passé
+
+avoir défendu
+
+* PARTICIPE
+
+** Passé
+
+ayant défendu
+défendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis défendu(e)
+tu es défendu(e)
+il (elle) est défendu(e)
+nous sommes défendu(e)s
+vous êtes défendu(e)s
+ils (elles) sont défendu(e)s
+
+** Imparfait
+
+j'étais défendu(e)
+tu étais défendu(e)
+il (elle) était défendu(e)
+nous étions défendu(e)s
+vous étiez défendu(e)s
+ils (elles) étaient défendu(e)s
+
+** Passé simple
+
+je fus défendu(e)
+tu fus défendu(e)
+il (elle) fut défendu(e)
+nous fûmes défendu(e)s
+vous fûtes défendu(e)s
+ils (elles) furent défendu(e)s
+
+** Futur simple
+
+je serai défendu(e)
+tu seras défendu(e)
+il (elle) sera défendu(e)
+nous serons défendu(e)s
+vous serez défendu(e)s
+ils (elles) seront défendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais défendu(e)
+tu serais défendu(e)
+il (elle) serait défendu(e)
+nous serions défendu(e)s
+vous seriez défendu(e)s
+ils (elles) seraient défendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois défendu(e)
+que tu sois défendu(e)
+qu’il (elle) soit défendu(e)
+que nous soyons défendu(e)s
+que vous soyez défendu(e)s
+qu’ils (elles) soient défendu(e)s
+
+** Imparfait
+
+que je fusse défendu(e)
+que tu fusses défendu(e)
+qu’il (elle) fût défendu(e)
+que nous fussions défendu(e)s
+que vous fussiez défendu(e)s
+qu’ils (elles) fussent défendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons défendu(e)s
+soyez défendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être défendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant défendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été défendu(e)
+tu as été défendu(e)
+il (elle) a été défendu(e)
+nous avons été défendu(e)s
+vous avez été défendu(e)s
+ils (elles) ont été défendu(e)s
+
+** Plus-que-parfait
+
+j'avais été défendu(e)
+il (elle) avait été défendu(e)
+nous avions été défendu(e)s
+ils (elles) avaient été défendu(e)s
+
+** Passé antérieur
+
+j'eus été défendu(e)
+tu eus été défendu(e)
+il (elle) eut été défendu(e)
+nous eûmes été défendu(e)s
+vous eûtes été défendu(e)s
+ils (elles) eurent été défendu(e)s
+
+** Futur antérieur
+
+j'aurai été défendu(e)
+tu auras été défendu(e)
+il (elle) aura été défendu(e)
+nous aurons été défendu(e)s
+vous aurez été défendu(e)s
+ils (elles) auront été défendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été défendu(e)
+j'aurais été défendu(e)
+il (elle) aurait été défendu(e)
+nous aurions été défendu(e)s
+vous auriez été défendu(e)s
+ils (elles) auraient été défendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été défendu(e)
+que tu aies été défendu(e)
+qu’il (elle) ait été défendu(e)
+que nous ayons été défendu(e)s
+que vous ayez été défendu(e)s
+qu’ils (elles) aient été défendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été défendu(e)
+que tu eusses été défendu(e)
+qu’il (elle) eût été défendu(e)
+que nous eussions été défendu(e)s
+que vous eussiez été défendu(e)s
+qu’ils (elles) eussent été défendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été défendu(e)
+ayons été défendu(e)s
+ayez été défendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été défendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été défendu(e)(s)

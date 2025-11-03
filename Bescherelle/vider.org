@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vider
+
+* INDICATIF
+
+** Présent
+
+je vide
+tu vides
+il (elle) vide
+nous vidons
+vous videz
+ils (elles) vident
+
+** Imparfait
+
+je vidais
+tu vidais
+il (elle) vidait
+nous vidions
+vous vidiez
+ils (elles) vidaient
+
+** Passé simple
+
+je vidai
+tu vidas
+il (elle) vida
+nous vidâmes
+vous vidâtes
+ils (elles) vidèrent
+
+** Futur simple
+
+je viderai
+tu videras
+il (elle) videra
+nous viderons
+vous viderez
+ils (elles) videront
+
+* CONDITIONNEL
+
+** Présent
+
+je viderais
+tu viderais
+il (elle) viderait
+nous viderions
+vous videriez
+ils (elles) videraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vide
+que tu vides
+qu’il (elle) vide
+que nous vidions
+que vous vidiez
+qu’ils (elles) vident
+
+** Imparfait
+
+que je vidasse
+que tu vidasses
+qu’il (elle) vidât
+que nous vidassions
+que vous vidassiez
+qu’ils (elles) vidassent
+
+* IMPÉRATIF
+
+** Présent
+
+vide
+vidons
+videz
+
+* INFINITIF
+
+** Présent
+
+vider
+
+* PARTICIPE
+
+** Présent
+
+vidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vidé
+tu as vidé
+il (elle) a vidé
+nous avons vidé
+vous avez vidé
+ils (elles) ont vidé
+
+** Plus-que-parfait
+
+j'avais vidé
+tu avais vidé
+il (elle) avait vidé
+nous avions vidé
+vous aviez vidé
+ils (elles) avaient vidé
+
+** Passé antérieur
+
+j'eus vidé
+tu eus vidé
+il (elle) eut vidé
+nous eûmes vidé
+vous eûtes vidé
+ils (elles) eurent vidé
+
+** Futur antérieur
+
+j'aurai vidé
+tu auras vidé
+il (elle) aura vidé
+nous aurons vidé
+vous aurez vidé
+ils (elles) auront vidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vidé
+tu aurais vidé
+il (elle) aurait vidé
+nous aurions vidé
+vous auriez vidé
+ils (elles) auraient vidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vidé
+que tu aies vidé
+qu’il (elle) ait vidé
+que nous ayons vidé
+que vous ayez vidé
+qu’ils (elles) aient vidé
+
+** Plus-que-parfait
+
+que j'eusse vidé
+que tu eusses vidé
+qu’il (elle) eût vidé
+que nous eussions vidé
+que vous eussiez vidé
+qu’ils (elles) eussent vidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vidé
+ayez vidé
+
+* INFINITIF
+
+** Passé
+
+avoir vidé
+
+* PARTICIPE
+
+** Passé
+
+ayant vidé
+vidé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vidé(e)
+tu es vidé(e)
+il (elle) est vidé(e)
+nous sommes vidé(e)s
+vous êtes vidé(e)s
+ils (elles) sont vidé(e)s
+
+** Imparfait
+
+j'étais vidé(e)
+tu étais vidé(e)
+il (elle) était vidé(e)
+nous étions vidé(e)s
+vous étiez vidé(e)s
+ils (elles) étaient vidé(e)s
+
+** Passé simple
+
+je fus vidé(e)
+tu fus vidé(e)
+il (elle) fut vidé(e)
+nous fûmes vidé(e)s
+vous fûtes vidé(e)s
+ils (elles) furent vidé(e)s
+
+** Futur simple
+
+je serai vidé(e)
+tu seras vidé(e)
+il (elle) sera vidé(e)
+nous serons vidé(e)s
+vous serez vidé(e)s
+ils (elles) seront vidé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vidé(e)
+tu serais vidé(e)
+il (elle) serait vidé(e)
+nous serions vidé(e)s
+vous seriez vidé(e)s
+ils (elles) seraient vidé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vidé(e)
+que tu sois vidé(e)
+qu’il (elle) soit vidé(e)
+que nous soyons vidé(e)s
+que vous soyez vidé(e)s
+qu’ils (elles) soient vidé(e)s
+
+** Imparfait
+
+que je fusse vidé(e)
+que tu fusses vidé(e)
+qu’il (elle) fût vidé(e)
+que nous fussions vidé(e)s
+que vous fussiez vidé(e)s
+qu’ils (elles) fussent vidé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vidé(e)s
+soyez vidé(e)s
+
+* INFINITIF
+
+** Présent
+
+être vidé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vidé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vidé(e)
+tu as été vidé(e)
+il (elle) a été vidé(e)
+nous avons été vidé(e)s
+vous avez été vidé(e)s
+ils (elles) ont été vidé(e)s
+
+** Plus-que-parfait
+
+j'avais été vidé(e)
+il (elle) avait été vidé(e)
+nous avions été vidé(e)s
+ils (elles) avaient été vidé(e)s
+
+** Passé antérieur
+
+j'eus été vidé(e)
+tu eus été vidé(e)
+il (elle) eut été vidé(e)
+nous eûmes été vidé(e)s
+vous eûtes été vidé(e)s
+ils (elles) eurent été vidé(e)s
+
+** Futur antérieur
+
+j'aurai été vidé(e)
+tu auras été vidé(e)
+il (elle) aura été vidé(e)
+nous aurons été vidé(e)s
+vous aurez été vidé(e)s
+ils (elles) auront été vidé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vidé(e)
+j'aurais été vidé(e)
+il (elle) aurait été vidé(e)
+nous aurions été vidé(e)s
+vous auriez été vidé(e)s
+ils (elles) auraient été vidé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vidé(e)
+que tu aies été vidé(e)
+qu’il (elle) ait été vidé(e)
+que nous ayons été vidé(e)s
+que vous ayez été vidé(e)s
+qu’ils (elles) aient été vidé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vidé(e)
+que tu eusses été vidé(e)
+qu’il (elle) eût été vidé(e)
+que nous eussions été vidé(e)s
+que vous eussiez été vidé(e)s
+qu’ils (elles) eussent été vidé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vidé(e)
+ayons été vidé(e)s
+ayez été vidé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vidé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vidé(e)(s)

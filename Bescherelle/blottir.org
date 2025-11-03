@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe blottir
+
+* INDICATIF
+
+** Présent
+
+je blottis
+tu blottis
+il (elle) blottit
+nous blottissons
+vous blottissez
+ils (elles) blottissent
+
+** Imparfait
+
+je blottissais
+tu blottissais
+il (elle) blottissait
+nous blottissions
+vous blottissiez
+ils (elles) blottissaient
+
+** Passé simple
+
+je blottis
+tu blottis
+il (elle) blottit
+nous blottîmes
+vous blottîtes
+ils (elles) blottirent
+
+** Futur simple
+
+je blottirai
+tu blottiras
+il (elle) blottira
+nous blottirons
+vous blottirez
+ils (elles) blottiront
+
+* CONDITIONNEL
+
+** Présent
+
+je blottirais
+tu blottirais
+il (elle) blottirait
+nous blottirions
+vous blottiriez
+ils (elles) blottiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je blottisse
+que tu blottisses
+qu’il (elle) blottisse
+que nous blottissions
+que vous blottissiez
+qu’ils (elles) blottissent
+
+** Imparfait
+
+que je blottisse
+que tu blottisses
+qu’il (elle) blottît
+que nous blottissions
+que vous blottissiez
+qu’ils (elles) blottissent
+
+* IMPÉRATIF
+
+** Présent
+
+blottis
+blottissons
+blottissez
+
+* INFINITIF
+
+** Présent
+
+blottir
+
+* PARTICIPE
+
+** Présent
+
+blottissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai blotti
+tu as blotti
+il (elle) a blotti
+nous avons blotti
+vous avez blotti
+ils (elles) ont blotti
+
+** Plus-que-parfait
+
+j'avais blotti
+tu avais blotti
+il (elle) avait blotti
+nous avions blotti
+vous aviez blotti
+ils (elles) avaient blotti
+
+** Passé antérieur
+
+j'eus blotti
+tu eus blotti
+il (elle) eut blotti
+nous eûmes blotti
+vous eûtes blotti
+ils (elles) eurent blotti
+
+** Futur antérieur
+
+j'aurai blotti
+tu auras blotti
+il (elle) aura blotti
+nous aurons blotti
+vous aurez blotti
+ils (elles) auront blotti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais blotti
+tu aurais blotti
+il (elle) aurait blotti
+nous aurions blotti
+vous auriez blotti
+ils (elles) auraient blotti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie blotti
+que tu aies blotti
+qu’il (elle) ait blotti
+que nous ayons blotti
+que vous ayez blotti
+qu’ils (elles) aient blotti
+
+** Plus-que-parfait
+
+que j'eusse blotti
+que tu eusses blotti
+qu’il (elle) eût blotti
+que nous eussions blotti
+que vous eussiez blotti
+qu’ils (elles) eussent blotti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons blotti
+ayez blotti
+
+* INFINITIF
+
+** Passé
+
+avoir blotti
+
+* PARTICIPE
+
+** Passé
+
+ayant blotti
+blotti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis blotti(e)
+tu es blotti(e)
+il (elle) est blotti(e)
+nous sommes blotti(e)s
+vous êtes blotti(e)s
+ils (elles) sont blotti(e)s
+
+** Imparfait
+
+j'étais blotti(e)
+tu étais blotti(e)
+il (elle) était blotti(e)
+nous étions blotti(e)s
+vous étiez blotti(e)s
+ils (elles) étaient blotti(e)s
+
+** Passé simple
+
+je fus blotti(e)
+tu fus blotti(e)
+il (elle) fut blotti(e)
+nous fûmes blotti(e)s
+vous fûtes blotti(e)s
+ils (elles) furent blotti(e)s
+
+** Futur simple
+
+je serai blotti(e)
+tu seras blotti(e)
+il (elle) sera blotti(e)
+nous serons blotti(e)s
+vous serez blotti(e)s
+ils (elles) seront blotti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais blotti(e)
+tu serais blotti(e)
+il (elle) serait blotti(e)
+nous serions blotti(e)s
+vous seriez blotti(e)s
+ils (elles) seraient blotti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois blotti(e)
+que tu sois blotti(e)
+qu’il (elle) soit blotti(e)
+que nous soyons blotti(e)s
+que vous soyez blotti(e)s
+qu’ils (elles) soient blotti(e)s
+
+** Imparfait
+
+que je fusse blotti(e)
+que tu fusses blotti(e)
+qu’il (elle) fût blotti(e)
+que nous fussions blotti(e)s
+que vous fussiez blotti(e)s
+qu’ils (elles) fussent blotti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons blotti(e)s
+soyez blotti(e)s
+
+* INFINITIF
+
+** Présent
+
+être blotti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant blotti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été blotti(e)
+tu as été blotti(e)
+il (elle) a été blotti(e)
+nous avons été blotti(e)s
+vous avez été blotti(e)s
+ils (elles) ont été blotti(e)s
+
+** Plus-que-parfait
+
+j'avais été blotti(e)
+il (elle) avait été blotti(e)
+nous avions été blotti(e)s
+ils (elles) avaient été blotti(e)s
+
+** Passé antérieur
+
+j'eus été blotti(e)
+tu eus été blotti(e)
+il (elle) eut été blotti(e)
+nous eûmes été blotti(e)s
+vous eûtes été blotti(e)s
+ils (elles) eurent été blotti(e)s
+
+** Futur antérieur
+
+j'aurai été blotti(e)
+tu auras été blotti(e)
+il (elle) aura été blotti(e)
+nous aurons été blotti(e)s
+vous aurez été blotti(e)s
+ils (elles) auront été blotti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été blotti(e)
+j'aurais été blotti(e)
+il (elle) aurait été blotti(e)
+nous aurions été blotti(e)s
+vous auriez été blotti(e)s
+ils (elles) auraient été blotti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été blotti(e)
+que tu aies été blotti(e)
+qu’il (elle) ait été blotti(e)
+que nous ayons été blotti(e)s
+que vous ayez été blotti(e)s
+qu’ils (elles) aient été blotti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été blotti(e)
+que tu eusses été blotti(e)
+qu’il (elle) eût été blotti(e)
+que nous eussions été blotti(e)s
+que vous eussiez été blotti(e)s
+qu’ils (elles) eussent été blotti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été blotti(e)
+ayons été blotti(e)s
+ayez été blotti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été blotti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été blotti(e)(s)

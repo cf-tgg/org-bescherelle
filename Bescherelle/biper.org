@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe biper
+
+* INDICATIF
+
+** Présent
+
+je bipe
+tu bipes
+il (elle) bipe
+nous bipons
+vous bipez
+ils (elles) bipent
+
+** Imparfait
+
+je bipais
+tu bipais
+il (elle) bipait
+nous bipions
+vous bipiez
+ils (elles) bipaient
+
+** Passé simple
+
+je bipai
+tu bipas
+il (elle) bipa
+nous bipâmes
+vous bipâtes
+ils (elles) bipèrent
+
+** Futur simple
+
+je biperai
+tu biperas
+il (elle) bipera
+nous biperons
+vous biperez
+ils (elles) biperont
+
+* CONDITIONNEL
+
+** Présent
+
+je biperais
+tu biperais
+il (elle) biperait
+nous biperions
+vous biperiez
+ils (elles) biperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bipe
+que tu bipes
+qu’il (elle) bipe
+que nous bipions
+que vous bipiez
+qu’ils (elles) bipent
+
+** Imparfait
+
+que je bipasse
+que tu bipasses
+qu’il (elle) bipât
+que nous bipassions
+que vous bipassiez
+qu’ils (elles) bipassent
+
+* IMPÉRATIF
+
+** Présent
+
+bipe
+bipons
+bipez
+
+* INFINITIF
+
+** Présent
+
+biper
+
+* PARTICIPE
+
+** Présent
+
+bipant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bipé
+tu as bipé
+il (elle) a bipé
+nous avons bipé
+vous avez bipé
+ils (elles) ont bipé
+
+** Plus-que-parfait
+
+j'avais bipé
+tu avais bipé
+il (elle) avait bipé
+nous avions bipé
+vous aviez bipé
+ils (elles) avaient bipé
+
+** Passé antérieur
+
+j'eus bipé
+tu eus bipé
+il (elle) eut bipé
+nous eûmes bipé
+vous eûtes bipé
+ils (elles) eurent bipé
+
+** Futur antérieur
+
+j'aurai bipé
+tu auras bipé
+il (elle) aura bipé
+nous aurons bipé
+vous aurez bipé
+ils (elles) auront bipé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bipé
+tu aurais bipé
+il (elle) aurait bipé
+nous aurions bipé
+vous auriez bipé
+ils (elles) auraient bipé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bipé
+que tu aies bipé
+qu’il (elle) ait bipé
+que nous ayons bipé
+que vous ayez bipé
+qu’ils (elles) aient bipé
+
+** Plus-que-parfait
+
+que j'eusse bipé
+que tu eusses bipé
+qu’il (elle) eût bipé
+que nous eussions bipé
+que vous eussiez bipé
+qu’ils (elles) eussent bipé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bipé
+ayez bipé
+
+* INFINITIF
+
+** Passé
+
+avoir bipé
+
+* PARTICIPE
+
+** Passé
+
+ayant bipé
+bipé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bipé(e)
+tu es bipé(e)
+il (elle) est bipé(e)
+nous sommes bipé(e)s
+vous êtes bipé(e)s
+ils (elles) sont bipé(e)s
+
+** Imparfait
+
+j'étais bipé(e)
+tu étais bipé(e)
+il (elle) était bipé(e)
+nous étions bipé(e)s
+vous étiez bipé(e)s
+ils (elles) étaient bipé(e)s
+
+** Passé simple
+
+je fus bipé(e)
+tu fus bipé(e)
+il (elle) fut bipé(e)
+nous fûmes bipé(e)s
+vous fûtes bipé(e)s
+ils (elles) furent bipé(e)s
+
+** Futur simple
+
+je serai bipé(e)
+tu seras bipé(e)
+il (elle) sera bipé(e)
+nous serons bipé(e)s
+vous serez bipé(e)s
+ils (elles) seront bipé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bipé(e)
+tu serais bipé(e)
+il (elle) serait bipé(e)
+nous serions bipé(e)s
+vous seriez bipé(e)s
+ils (elles) seraient bipé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bipé(e)
+que tu sois bipé(e)
+qu’il (elle) soit bipé(e)
+que nous soyons bipé(e)s
+que vous soyez bipé(e)s
+qu’ils (elles) soient bipé(e)s
+
+** Imparfait
+
+que je fusse bipé(e)
+que tu fusses bipé(e)
+qu’il (elle) fût bipé(e)
+que nous fussions bipé(e)s
+que vous fussiez bipé(e)s
+qu’ils (elles) fussent bipé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bipé(e)s
+soyez bipé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bipé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bipé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bipé(e)
+tu as été bipé(e)
+il (elle) a été bipé(e)
+nous avons été bipé(e)s
+vous avez été bipé(e)s
+ils (elles) ont été bipé(e)s
+
+** Plus-que-parfait
+
+j'avais été bipé(e)
+il (elle) avait été bipé(e)
+nous avions été bipé(e)s
+ils (elles) avaient été bipé(e)s
+
+** Passé antérieur
+
+j'eus été bipé(e)
+tu eus été bipé(e)
+il (elle) eut été bipé(e)
+nous eûmes été bipé(e)s
+vous eûtes été bipé(e)s
+ils (elles) eurent été bipé(e)s
+
+** Futur antérieur
+
+j'aurai été bipé(e)
+tu auras été bipé(e)
+il (elle) aura été bipé(e)
+nous aurons été bipé(e)s
+vous aurez été bipé(e)s
+ils (elles) auront été bipé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bipé(e)
+j'aurais été bipé(e)
+il (elle) aurait été bipé(e)
+nous aurions été bipé(e)s
+vous auriez été bipé(e)s
+ils (elles) auraient été bipé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bipé(e)
+que tu aies été bipé(e)
+qu’il (elle) ait été bipé(e)
+que nous ayons été bipé(e)s
+que vous ayez été bipé(e)s
+qu’ils (elles) aient été bipé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bipé(e)
+que tu eusses été bipé(e)
+qu’il (elle) eût été bipé(e)
+que nous eussions été bipé(e)s
+que vous eussiez été bipé(e)s
+qu’ils (elles) eussent été bipé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bipé(e)
+ayons été bipé(e)s
+ayez été bipé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bipé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bipé(e)(s)

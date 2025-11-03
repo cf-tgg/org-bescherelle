@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dessiner
+
+* INDICATIF
+
+** Présent
+
+je dessine
+tu dessines
+il (elle) dessine
+nous dessinons
+vous dessinez
+ils (elles) dessinent
+
+** Imparfait
+
+je dessinais
+tu dessinais
+il (elle) dessinait
+nous dessinions
+vous dessiniez
+ils (elles) dessinaient
+
+** Passé simple
+
+je dessinai
+tu dessinas
+il (elle) dessina
+nous dessinâmes
+vous dessinâtes
+ils (elles) dessinèrent
+
+** Futur simple
+
+je dessinerai
+tu dessineras
+il (elle) dessinera
+nous dessinerons
+vous dessinerez
+ils (elles) dessineront
+
+* CONDITIONNEL
+
+** Présent
+
+je dessinerais
+tu dessinerais
+il (elle) dessinerait
+nous dessinerions
+vous dessineriez
+ils (elles) dessineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dessine
+que tu dessines
+qu’il (elle) dessine
+que nous dessinions
+que vous dessiniez
+qu’ils (elles) dessinent
+
+** Imparfait
+
+que je dessinasse
+que tu dessinasses
+qu’il (elle) dessinât
+que nous dessinassions
+que vous dessinassiez
+qu’ils (elles) dessinassent
+
+* IMPÉRATIF
+
+** Présent
+
+dessine
+dessinons
+dessinez
+
+* INFINITIF
+
+** Présent
+
+dessiner
+
+* PARTICIPE
+
+** Présent
+
+dessinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dessiné
+tu as dessiné
+il (elle) a dessiné
+nous avons dessiné
+vous avez dessiné
+ils (elles) ont dessiné
+
+** Plus-que-parfait
+
+j'avais dessiné
+tu avais dessiné
+il (elle) avait dessiné
+nous avions dessiné
+vous aviez dessiné
+ils (elles) avaient dessiné
+
+** Passé antérieur
+
+j'eus dessiné
+tu eus dessiné
+il (elle) eut dessiné
+nous eûmes dessiné
+vous eûtes dessiné
+ils (elles) eurent dessiné
+
+** Futur antérieur
+
+j'aurai dessiné
+tu auras dessiné
+il (elle) aura dessiné
+nous aurons dessiné
+vous aurez dessiné
+ils (elles) auront dessiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dessiné
+tu aurais dessiné
+il (elle) aurait dessiné
+nous aurions dessiné
+vous auriez dessiné
+ils (elles) auraient dessiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dessiné
+que tu aies dessiné
+qu’il (elle) ait dessiné
+que nous ayons dessiné
+que vous ayez dessiné
+qu’ils (elles) aient dessiné
+
+** Plus-que-parfait
+
+que j'eusse dessiné
+que tu eusses dessiné
+qu’il (elle) eût dessiné
+que nous eussions dessiné
+que vous eussiez dessiné
+qu’ils (elles) eussent dessiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dessiné
+ayez dessiné
+
+* INFINITIF
+
+** Passé
+
+avoir dessiné
+
+* PARTICIPE
+
+** Passé
+
+ayant dessiné
+dessiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dessiné(e)
+tu es dessiné(e)
+il (elle) est dessiné(e)
+nous sommes dessiné(e)s
+vous êtes dessiné(e)s
+ils (elles) sont dessiné(e)s
+
+** Imparfait
+
+j'étais dessiné(e)
+tu étais dessiné(e)
+il (elle) était dessiné(e)
+nous étions dessiné(e)s
+vous étiez dessiné(e)s
+ils (elles) étaient dessiné(e)s
+
+** Passé simple
+
+je fus dessiné(e)
+tu fus dessiné(e)
+il (elle) fut dessiné(e)
+nous fûmes dessiné(e)s
+vous fûtes dessiné(e)s
+ils (elles) furent dessiné(e)s
+
+** Futur simple
+
+je serai dessiné(e)
+tu seras dessiné(e)
+il (elle) sera dessiné(e)
+nous serons dessiné(e)s
+vous serez dessiné(e)s
+ils (elles) seront dessiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dessiné(e)
+tu serais dessiné(e)
+il (elle) serait dessiné(e)
+nous serions dessiné(e)s
+vous seriez dessiné(e)s
+ils (elles) seraient dessiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dessiné(e)
+que tu sois dessiné(e)
+qu’il (elle) soit dessiné(e)
+que nous soyons dessiné(e)s
+que vous soyez dessiné(e)s
+qu’ils (elles) soient dessiné(e)s
+
+** Imparfait
+
+que je fusse dessiné(e)
+que tu fusses dessiné(e)
+qu’il (elle) fût dessiné(e)
+que nous fussions dessiné(e)s
+que vous fussiez dessiné(e)s
+qu’ils (elles) fussent dessiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dessiné(e)s
+soyez dessiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être dessiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dessiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dessiné(e)
+tu as été dessiné(e)
+il (elle) a été dessiné(e)
+nous avons été dessiné(e)s
+vous avez été dessiné(e)s
+ils (elles) ont été dessiné(e)s
+
+** Plus-que-parfait
+
+j'avais été dessiné(e)
+il (elle) avait été dessiné(e)
+nous avions été dessiné(e)s
+ils (elles) avaient été dessiné(e)s
+
+** Passé antérieur
+
+j'eus été dessiné(e)
+tu eus été dessiné(e)
+il (elle) eut été dessiné(e)
+nous eûmes été dessiné(e)s
+vous eûtes été dessiné(e)s
+ils (elles) eurent été dessiné(e)s
+
+** Futur antérieur
+
+j'aurai été dessiné(e)
+tu auras été dessiné(e)
+il (elle) aura été dessiné(e)
+nous aurons été dessiné(e)s
+vous aurez été dessiné(e)s
+ils (elles) auront été dessiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dessiné(e)
+j'aurais été dessiné(e)
+il (elle) aurait été dessiné(e)
+nous aurions été dessiné(e)s
+vous auriez été dessiné(e)s
+ils (elles) auraient été dessiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dessiné(e)
+que tu aies été dessiné(e)
+qu’il (elle) ait été dessiné(e)
+que nous ayons été dessiné(e)s
+que vous ayez été dessiné(e)s
+qu’ils (elles) aient été dessiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dessiné(e)
+que tu eusses été dessiné(e)
+qu’il (elle) eût été dessiné(e)
+que nous eussions été dessiné(e)s
+que vous eussiez été dessiné(e)s
+qu’ils (elles) eussent été dessiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dessiné(e)
+ayons été dessiné(e)s
+ayez été dessiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dessiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dessiné(e)(s)

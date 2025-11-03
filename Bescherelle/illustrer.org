@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe illustrer
+
+* INDICATIF
+
+** Présent
+
+j'illustre
+tu illustres
+il (elle) illustre
+nous illustrons
+vous illustrez
+ils (elles) illustrent
+
+** Imparfait
+
+j'illustrais
+tu illustrais
+il (elle) illustrait
+nous illustrions
+vous illustriez
+ils (elles) illustraient
+
+** Passé simple
+
+j'illustrai
+tu illustras
+il (elle) illustra
+nous illustrâmes
+vous illustrâtes
+ils (elles) illustrèrent
+
+** Futur simple
+
+j'illustrerai
+tu illustreras
+il (elle) illustrera
+nous illustrerons
+vous illustrerez
+ils (elles) illustreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'illustrerais
+tu illustrerais
+il (elle) illustrerait
+nous illustrerions
+vous illustreriez
+ils (elles) illustreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'illustre
+que tu illustres
+qu’il (elle) illustre
+que nous illustrions
+que vous illustriez
+qu’ils (elles) illustrent
+
+** Imparfait
+
+que j'illustrasse
+que tu illustrasses
+qu’il (elle) illustrât
+que nous illustrassions
+que vous illustrassiez
+qu’ils (elles) illustrassent
+
+* IMPÉRATIF
+
+** Présent
+
+illustre
+illustrons
+illustrez
+
+* INFINITIF
+
+** Présent
+
+illustrer
+
+* PARTICIPE
+
+** Présent
+
+illustrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai illustré
+tu as illustré
+il (elle) a illustré
+nous avons illustré
+vous avez illustré
+ils (elles) ont illustré
+
+** Plus-que-parfait
+
+j'avais illustré
+tu avais illustré
+il (elle) avait illustré
+nous avions illustré
+vous aviez illustré
+ils (elles) avaient illustré
+
+** Passé antérieur
+
+j'eus illustré
+tu eus illustré
+il (elle) eut illustré
+nous eûmes illustré
+vous eûtes illustré
+ils (elles) eurent illustré
+
+** Futur antérieur
+
+j'aurai illustré
+tu auras illustré
+il (elle) aura illustré
+nous aurons illustré
+vous aurez illustré
+ils (elles) auront illustré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais illustré
+tu aurais illustré
+il (elle) aurait illustré
+nous aurions illustré
+vous auriez illustré
+ils (elles) auraient illustré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie illustré
+que tu aies illustré
+qu’il (elle) ait illustré
+que nous ayons illustré
+que vous ayez illustré
+qu’ils (elles) aient illustré
+
+** Plus-que-parfait
+
+que j'eusse illustré
+que tu eusses illustré
+qu’il (elle) eût illustré
+que nous eussions illustré
+que vous eussiez illustré
+qu’ils (elles) eussent illustré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons illustré
+ayez illustré
+
+* INFINITIF
+
+** Passé
+
+avoir illustré
+
+* PARTICIPE
+
+** Passé
+
+ayant illustré
+illustré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis illustré(e)
+tu es illustré(e)
+il (elle) est illustré(e)
+nous sommes illustré(e)s
+vous êtes illustré(e)s
+ils (elles) sont illustré(e)s
+
+** Imparfait
+
+j'étais illustré(e)
+tu étais illustré(e)
+il (elle) était illustré(e)
+nous étions illustré(e)s
+vous étiez illustré(e)s
+ils (elles) étaient illustré(e)s
+
+** Passé simple
+
+je fus illustré(e)
+tu fus illustré(e)
+il (elle) fut illustré(e)
+nous fûmes illustré(e)s
+vous fûtes illustré(e)s
+ils (elles) furent illustré(e)s
+
+** Futur simple
+
+je serai illustré(e)
+tu seras illustré(e)
+il (elle) sera illustré(e)
+nous serons illustré(e)s
+vous serez illustré(e)s
+ils (elles) seront illustré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais illustré(e)
+tu serais illustré(e)
+il (elle) serait illustré(e)
+nous serions illustré(e)s
+vous seriez illustré(e)s
+ils (elles) seraient illustré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois illustré(e)
+que tu sois illustré(e)
+qu’il (elle) soit illustré(e)
+que nous soyons illustré(e)s
+que vous soyez illustré(e)s
+qu’ils (elles) soient illustré(e)s
+
+** Imparfait
+
+que je fusse illustré(e)
+que tu fusses illustré(e)
+qu’il (elle) fût illustré(e)
+que nous fussions illustré(e)s
+que vous fussiez illustré(e)s
+qu’ils (elles) fussent illustré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons illustré(e)s
+soyez illustré(e)s
+
+* INFINITIF
+
+** Présent
+
+être illustré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant illustré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été illustré(e)
+tu as été illustré(e)
+il (elle) a été illustré(e)
+nous avons été illustré(e)s
+vous avez été illustré(e)s
+ils (elles) ont été illustré(e)s
+
+** Plus-que-parfait
+
+j'avais été illustré(e)
+il (elle) avait été illustré(e)
+nous avions été illustré(e)s
+ils (elles) avaient été illustré(e)s
+
+** Passé antérieur
+
+j'eus été illustré(e)
+tu eus été illustré(e)
+il (elle) eut été illustré(e)
+nous eûmes été illustré(e)s
+vous eûtes été illustré(e)s
+ils (elles) eurent été illustré(e)s
+
+** Futur antérieur
+
+j'aurai été illustré(e)
+tu auras été illustré(e)
+il (elle) aura été illustré(e)
+nous aurons été illustré(e)s
+vous aurez été illustré(e)s
+ils (elles) auront été illustré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été illustré(e)
+j'aurais été illustré(e)
+il (elle) aurait été illustré(e)
+nous aurions été illustré(e)s
+vous auriez été illustré(e)s
+ils (elles) auraient été illustré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été illustré(e)
+que tu aies été illustré(e)
+qu’il (elle) ait été illustré(e)
+que nous ayons été illustré(e)s
+que vous ayez été illustré(e)s
+qu’ils (elles) aient été illustré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été illustré(e)
+que tu eusses été illustré(e)
+qu’il (elle) eût été illustré(e)
+que nous eussions été illustré(e)s
+que vous eussiez été illustré(e)s
+qu’ils (elles) eussent été illustré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été illustré(e)
+ayons été illustré(e)s
+ayez été illustré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été illustré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été illustré(e)(s)

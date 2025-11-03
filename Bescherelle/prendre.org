@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prendre
+
+* INDICATIF
+
+** Présent
+
+je prends
+tu prends
+il (elle) prend
+nous prenons
+vous prenez
+ils (elles) prennent
+
+** Imparfait
+
+je prenais
+tu prenais
+il (elle) prenait
+nous prenions
+vous preniez
+ils (elles) prenaient
+
+** Passé simple
+
+je pris
+tu pris
+il (elle) prit
+nous prîmes
+vous prîtes
+ils (elles) prirent
+
+** Futur simple
+
+je prendrai
+tu prendras
+il (elle) prendra
+nous prendrons
+vous prendrez
+ils (elles) prendront
+
+* CONDITIONNEL
+
+** Présent
+
+je prendrais
+tu prendrais
+il (elle) prendrait
+nous prendrions
+vous prendriez
+ils (elles) prendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prenne
+que tu prennes
+qu’il (elle) prenne
+que nous prenions
+que vous preniez
+qu’ils (elles) prennent
+
+** Imparfait
+
+que je prisse
+que tu prisses
+qu’il (elle) prît
+que nous prissions
+que vous prissiez
+qu’ils (elles) prissent
+
+* IMPÉRATIF
+
+** Présent
+
+prends
+prenons
+prenez
+
+* INFINITIF
+
+** Présent
+
+prendre
+
+* PARTICIPE
+
+** Présent
+
+prenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pris
+tu as pris
+il (elle) a pris
+nous avons pris
+vous avez pris
+ils (elles) ont pris
+
+** Plus-que-parfait
+
+j'avais pris
+tu avais pris
+il (elle) avait pris
+nous avions pris
+vous aviez pris
+ils (elles) avaient pris
+
+** Passé antérieur
+
+j'eus pris
+tu eus pris
+il (elle) eut pris
+nous eûmes pris
+vous eûtes pris
+ils (elles) eurent pris
+
+** Futur antérieur
+
+j'aurai pris
+tu auras pris
+il (elle) aura pris
+nous aurons pris
+vous aurez pris
+ils (elles) auront pris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pris
+tu aurais pris
+il (elle) aurait pris
+nous aurions pris
+vous auriez pris
+ils (elles) auraient pris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pris
+que tu aies pris
+qu’il (elle) ait pris
+que nous ayons pris
+que vous ayez pris
+qu’ils (elles) aient pris
+
+** Plus-que-parfait
+
+que j'eusse pris
+que tu eusses pris
+qu’il (elle) eût pris
+que nous eussions pris
+que vous eussiez pris
+qu’ils (elles) eussent pris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pris
+ayez pris
+
+* INFINITIF
+
+** Passé
+
+avoir pris
+
+* PARTICIPE
+
+** Passé
+
+ayant pris
+pris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis pris(e)
+tu es pris(e)
+il (elle) est pris(e)
+nous sommes pris(es)
+vous êtes pris(es)
+ils (elles) sont pris(es)
+
+** Imparfait
+
+j'étais pris(e)
+tu étais pris(e)
+il (elle) était pris(e)
+nous étions pris(es)
+vous étiez pris(es)
+ils (elles) étaient pris(es)
+
+** Passé simple
+
+je fus pris(e)
+tu fus pris(e)
+il (elle) fut pris(e)
+nous fûmes pris(es)
+vous fûtes pris(es)
+ils (elles) furent pris(es)
+
+** Futur simple
+
+je serai pris(e)
+tu seras pris(e)
+il (elle) sera pris(e)
+nous serons pris(es)
+vous serez pris(es)
+ils (elles) seront pris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pris(e)
+tu serais pris(e)
+il (elle) serait pris(e)
+nous serions pris(es)
+vous seriez pris(es)
+ils (elles) seraient pris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pris(e)
+que tu sois pris(e)
+qu’il (elle) soit pris(e)
+que nous soyons pris(es)
+que vous soyez pris(es)
+qu’ils (elles) soient pris(es)
+
+** Imparfait
+
+que je fusse pris(e)
+que tu fusses pris(e)
+qu’il (elle) fût pris(e)
+que nous fussions pris(es)
+que vous fussiez pris(es)
+qu’ils (elles) fussent pris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pris(es)
+soyez pris(es)
+
+* INFINITIF
+
+** Présent
+
+être pris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant pris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pris(e)
+tu as été pris(e)
+il (elle) a été pris(e)
+nous avons été pris(es)
+vous avez été pris(es)
+ils (elles) ont été pris(es)
+
+** Plus-que-parfait
+
+j'avais été pris(e)
+il (elle) avait été pris(e)
+nous avions été pris(es)
+ils (elles) avaient été pris(es)
+
+** Passé antérieur
+
+j'eus été pris(e)
+tu eus été pris(e)
+il (elle) eut été pris(e)
+nous eûmes été pris(es)
+vous eûtes été pris(es)
+ils (elles) eurent été pris(es)
+
+** Futur antérieur
+
+j'aurai été pris(e)
+tu auras été pris(e)
+il (elle) aura été pris(e)
+nous aurons été pris(es)
+vous aurez été pris(es)
+ils (elles) auront été pris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pris(e)
+j'aurais été pris(e)
+il (elle) aurait été pris(e)
+nous aurions été pris(es)
+vous auriez été pris(es)
+ils (elles) auraient été pris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pris(e)
+que tu aies été pris(e)
+qu’il (elle) ait été pris(e)
+que nous ayons été pris(es)
+que vous ayez été pris(es)
+qu’ils (elles) aient été pris(es)
+
+** Plus-que-parfait
+
+que j'eusse été pris(e)
+que tu eusses été pris(e)
+qu’il (elle) eût été pris(e)
+que nous eussions été pris(es)
+que vous eussiez été pris(es)
+qu’ils (elles) eussent été pris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pris(e)
+ayons été pris(es)
+ayez été pris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été pris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pris (s, se, s, ses)

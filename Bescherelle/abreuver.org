@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abreuver
+
+* INDICATIF
+
+** Présent
+
+j'abreuve
+tu abreuves
+il (elle) abreuve
+nous abreuvons
+vous abreuvez
+ils (elles) abreuvent
+
+** Imparfait
+
+j'abreuvais
+tu abreuvais
+il (elle) abreuvait
+nous abreuvions
+vous abreuviez
+ils (elles) abreuvaient
+
+** Passé simple
+
+j'abreuvai
+tu abreuvas
+il (elle) abreuva
+nous abreuvâmes
+vous abreuvâtes
+ils (elles) abreuvèrent
+
+** Futur simple
+
+j'abreuverai
+tu abreuveras
+il (elle) abreuvera
+nous abreuverons
+vous abreuverez
+ils (elles) abreuveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abreuverais
+tu abreuverais
+il (elle) abreuverait
+nous abreuverions
+vous abreuveriez
+ils (elles) abreuveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abreuve
+que tu abreuves
+qu’il (elle) abreuve
+que nous abreuvions
+que vous abreuviez
+qu’ils (elles) abreuvent
+
+** Imparfait
+
+que j'abreuvasse
+que tu abreuvasses
+qu’il (elle) abreuvât
+que nous abreuvassions
+que vous abreuvassiez
+qu’ils (elles) abreuvassent
+
+* IMPÉRATIF
+
+** Présent
+
+abreuve
+abreuvons
+abreuvez
+
+* INFINITIF
+
+** Présent
+
+abreuver
+
+* PARTICIPE
+
+** Présent
+
+abreuvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abreuvé
+tu as abreuvé
+il (elle) a abreuvé
+nous avons abreuvé
+vous avez abreuvé
+ils (elles) ont abreuvé
+
+** Plus-que-parfait
+
+j'avais abreuvé
+tu avais abreuvé
+il (elle) avait abreuvé
+nous avions abreuvé
+vous aviez abreuvé
+ils (elles) avaient abreuvé
+
+** Passé antérieur
+
+j'eus abreuvé
+tu eus abreuvé
+il (elle) eut abreuvé
+nous eûmes abreuvé
+vous eûtes abreuvé
+ils (elles) eurent abreuvé
+
+** Futur antérieur
+
+j'aurai abreuvé
+tu auras abreuvé
+il (elle) aura abreuvé
+nous aurons abreuvé
+vous aurez abreuvé
+ils (elles) auront abreuvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abreuvé
+tu aurais abreuvé
+il (elle) aurait abreuvé
+nous aurions abreuvé
+vous auriez abreuvé
+ils (elles) auraient abreuvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abreuvé
+que tu aies abreuvé
+qu’il (elle) ait abreuvé
+que nous ayons abreuvé
+que vous ayez abreuvé
+qu’ils (elles) aient abreuvé
+
+** Plus-que-parfait
+
+que j'eusse abreuvé
+que tu eusses abreuvé
+qu’il (elle) eût abreuvé
+que nous eussions abreuvé
+que vous eussiez abreuvé
+qu’ils (elles) eussent abreuvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abreuvé
+ayez abreuvé
+
+* INFINITIF
+
+** Passé
+
+avoir abreuvé
+
+* PARTICIPE
+
+** Passé
+
+ayant abreuvé
+abreuvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abreuvé(e)
+tu es abreuvé(e)
+il (elle) est abreuvé(e)
+nous sommes abreuvé(e)s
+vous êtes abreuvé(e)s
+ils (elles) sont abreuvé(e)s
+
+** Imparfait
+
+j'étais abreuvé(e)
+tu étais abreuvé(e)
+il (elle) était abreuvé(e)
+nous étions abreuvé(e)s
+vous étiez abreuvé(e)s
+ils (elles) étaient abreuvé(e)s
+
+** Passé simple
+
+je fus abreuvé(e)
+tu fus abreuvé(e)
+il (elle) fut abreuvé(e)
+nous fûmes abreuvé(e)s
+vous fûtes abreuvé(e)s
+ils (elles) furent abreuvé(e)s
+
+** Futur simple
+
+je serai abreuvé(e)
+tu seras abreuvé(e)
+il (elle) sera abreuvé(e)
+nous serons abreuvé(e)s
+vous serez abreuvé(e)s
+ils (elles) seront abreuvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abreuvé(e)
+tu serais abreuvé(e)
+il (elle) serait abreuvé(e)
+nous serions abreuvé(e)s
+vous seriez abreuvé(e)s
+ils (elles) seraient abreuvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abreuvé(e)
+que tu sois abreuvé(e)
+qu’il (elle) soit abreuvé(e)
+que nous soyons abreuvé(e)s
+que vous soyez abreuvé(e)s
+qu’ils (elles) soient abreuvé(e)s
+
+** Imparfait
+
+que je fusse abreuvé(e)
+que tu fusses abreuvé(e)
+qu’il (elle) fût abreuvé(e)
+que nous fussions abreuvé(e)s
+que vous fussiez abreuvé(e)s
+qu’ils (elles) fussent abreuvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abreuvé(e)s
+soyez abreuvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être abreuvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abreuvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abreuvé(e)
+tu as été abreuvé(e)
+il (elle) a été abreuvé(e)
+nous avons été abreuvé(e)s
+vous avez été abreuvé(e)s
+ils (elles) ont été abreuvé(e)s
+
+** Plus-que-parfait
+
+j'avais été abreuvé(e)
+il (elle) avait été abreuvé(e)
+nous avions été abreuvé(e)s
+ils (elles) avaient été abreuvé(e)s
+
+** Passé antérieur
+
+j'eus été abreuvé(e)
+tu eus été abreuvé(e)
+il (elle) eut été abreuvé(e)
+nous eûmes été abreuvé(e)s
+vous eûtes été abreuvé(e)s
+ils (elles) eurent été abreuvé(e)s
+
+** Futur antérieur
+
+j'aurai été abreuvé(e)
+tu auras été abreuvé(e)
+il (elle) aura été abreuvé(e)
+nous aurons été abreuvé(e)s
+vous aurez été abreuvé(e)s
+ils (elles) auront été abreuvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abreuvé(e)
+j'aurais été abreuvé(e)
+il (elle) aurait été abreuvé(e)
+nous aurions été abreuvé(e)s
+vous auriez été abreuvé(e)s
+ils (elles) auraient été abreuvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abreuvé(e)
+que tu aies été abreuvé(e)
+qu’il (elle) ait été abreuvé(e)
+que nous ayons été abreuvé(e)s
+que vous ayez été abreuvé(e)s
+qu’ils (elles) aient été abreuvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abreuvé(e)
+que tu eusses été abreuvé(e)
+qu’il (elle) eût été abreuvé(e)
+que nous eussions été abreuvé(e)s
+que vous eussiez été abreuvé(e)s
+qu’ils (elles) eussent été abreuvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abreuvé(e)
+ayons été abreuvé(e)s
+ayez été abreuvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abreuvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abreuvé(e)(s)

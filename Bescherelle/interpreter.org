@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interpreter
+
+* INDICATIF
+
+** Présent
+
+j'interprète
+tu interprètes
+il (elle) interprète
+nous interprétons
+vous interprétez
+ils (elles) interprètent
+
+** Imparfait
+
+j'interprétais
+tu interprétais
+il (elle) interprétait
+nous interprétions
+vous interprétiez
+ils (elles) interprétaient
+
+** Passé simple
+
+j'interprétai
+tu interprétas
+il (elle) interpréta
+nous interprétâmes
+vous interprétâtes
+ils (elles) interprétèrent
+
+** Futur simple
+
+j'interpréterai
+tu interpréteras
+il (elle) interprétera
+nous interpréterons
+vous interpréterez
+ils (elles) interpréteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interpréterais
+tu interpréterais
+il (elle) interpréterait
+nous interpréterions
+vous interpréteriez
+ils (elles) interpréteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interprète
+que tu interprètes
+qu’il (elle) interprète
+que nous interprétions
+que vous interprétiez
+qu’ils (elles) interprètent
+
+** Imparfait
+
+que j'interprétasse
+que tu interprétasses
+qu’il (elle) interprétât
+que nous interprétassions
+que vous interprétassiez
+qu’ils (elles) interprétassent
+
+* IMPÉRATIF
+
+** Présent
+
+interprète
+interprétons
+interprétez
+
+* INFINITIF
+
+** Présent
+
+interpréter
+
+* PARTICIPE
+
+** Présent
+
+interprétant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interprété
+tu as interprété
+il (elle) a interprété
+nous avons interprété
+vous avez interprété
+ils (elles) ont interprété
+
+** Plus-que-parfait
+
+j'avais interprété
+tu avais interprété
+il (elle) avait interprété
+nous avions interprété
+vous aviez interprété
+ils (elles) avaient interprété
+
+** Passé antérieur
+
+j'eus interprété
+tu eus interprété
+il (elle) eut interprété
+nous eûmes interprété
+vous eûtes interprété
+ils (elles) eurent interprété
+
+** Futur antérieur
+
+j'aurai interprété
+tu auras interprété
+il (elle) aura interprété
+nous aurons interprété
+vous aurez interprété
+ils (elles) auront interprété
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interprété
+tu aurais interprété
+il (elle) aurait interprété
+nous aurions interprété
+vous auriez interprété
+ils (elles) auraient interprété
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interprété
+que tu aies interprété
+qu’il (elle) ait interprété
+que nous ayons interprété
+que vous ayez interprété
+qu’ils (elles) aient interprété
+
+** Plus-que-parfait
+
+que j'eusse interprété
+que tu eusses interprété
+qu’il (elle) eût interprété
+que nous eussions interprété
+que vous eussiez interprété
+qu’ils (elles) eussent interprété
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interprété
+ayez interprété
+
+* INFINITIF
+
+** Passé
+
+avoir interprété
+
+* PARTICIPE
+
+** Passé
+
+ayant interprété
+interprété (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis interprété(e)
+tu es interprété(e)
+il (elle) est interprété(e)
+nous sommes interprété(e)s
+vous êtes interprété(e)s
+ils (elles) sont interprété(e)s
+
+** Imparfait
+
+j'étais interprété(e)
+tu étais interprété(e)
+il (elle) était interprété(e)
+nous étions interprété(e)s
+vous étiez interprété(e)s
+ils (elles) étaient interprété(e)s
+
+** Passé simple
+
+je fus interprété(e)
+tu fus interprété(e)
+il (elle) fut interprété(e)
+nous fûmes interprété(e)s
+vous fûtes interprété(e)s
+ils (elles) furent interprété(e)s
+
+** Futur simple
+
+je serai interprété(e)
+tu seras interprété(e)
+il (elle) sera interprété(e)
+nous serons interprété(e)s
+vous serez interprété(e)s
+ils (elles) seront interprété(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interprété(e)
+tu serais interprété(e)
+il (elle) serait interprété(e)
+nous serions interprété(e)s
+vous seriez interprété(e)s
+ils (elles) seraient interprété(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interprété(e)
+que tu sois interprété(e)
+qu’il (elle) soit interprété(e)
+que nous soyons interprété(e)s
+que vous soyez interprété(e)s
+qu’ils (elles) soient interprété(e)s
+
+** Imparfait
+
+que je fusse interprété(e)
+que tu fusses interprété(e)
+qu’il (elle) fût interprété(e)
+que nous fussions interprété(e)s
+que vous fussiez interprété(e)s
+qu’ils (elles) fussent interprété(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interprété(e)s
+soyez interprété(e)s
+
+* INFINITIF
+
+** Présent
+
+être interprété(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interprété(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interprété(e)
+tu as été interprété(e)
+il (elle) a été interprété(e)
+nous avons été interprété(e)s
+vous avez été interprété(e)s
+ils (elles) ont été interprété(e)s
+
+** Plus-que-parfait
+
+j'avais été interprété(e)
+il (elle) avait été interprété(e)
+nous avions été interprété(e)s
+ils (elles) avaient été interprété(e)s
+
+** Passé antérieur
+
+j'eus été interprété(e)
+tu eus été interprété(e)
+il (elle) eut été interprété(e)
+nous eûmes été interprété(e)s
+vous eûtes été interprété(e)s
+ils (elles) eurent été interprété(e)s
+
+** Futur antérieur
+
+j'aurai été interprété(e)
+tu auras été interprété(e)
+il (elle) aura été interprété(e)
+nous aurons été interprété(e)s
+vous aurez été interprété(e)s
+ils (elles) auront été interprété(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interprété(e)
+j'aurais été interprété(e)
+il (elle) aurait été interprété(e)
+nous aurions été interprété(e)s
+vous auriez été interprété(e)s
+ils (elles) auraient été interprété(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interprété(e)
+que tu aies été interprété(e)
+qu’il (elle) ait été interprété(e)
+que nous ayons été interprété(e)s
+que vous ayez été interprété(e)s
+qu’ils (elles) aient été interprété(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interprété(e)
+que tu eusses été interprété(e)
+qu’il (elle) eût été interprété(e)
+que nous eussions été interprété(e)s
+que vous eussiez été interprété(e)s
+qu’ils (elles) eussent été interprété(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interprété(e)
+ayons été interprété(e)s
+ayez été interprété(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interprété(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interprété(e)(s)

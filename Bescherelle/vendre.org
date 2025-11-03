@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vendre
+
+* INDICATIF
+
+** Présent
+
+je vends
+tu vends
+il (elle) vend
+nous vendons
+vous vendez
+ils (elles) vendent
+
+** Imparfait
+
+je vendais
+tu vendais
+il (elle) vendait
+nous vendions
+vous vendiez
+ils (elles) vendaient
+
+** Passé simple
+
+je vendis
+tu vendis
+il (elle) vendit
+nous vendîmes
+vous vendîtes
+ils (elles) vendirent
+
+** Futur simple
+
+je vendrai
+tu vendras
+il (elle) vendra
+nous vendrons
+vous vendrez
+ils (elles) vendront
+
+* CONDITIONNEL
+
+** Présent
+
+je vendrais
+tu vendrais
+il (elle) vendrait
+nous vendrions
+vous vendriez
+ils (elles) vendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vende
+que tu vendes
+qu’il (elle) vende
+que nous vendions
+que vous vendiez
+qu’ils (elles) vendent
+
+** Imparfait
+
+que je vendisse
+que tu vendisses
+qu’il (elle) vendît
+que nous vendissions
+que vous vendissiez
+qu’ils (elles) vendissent
+
+* IMPÉRATIF
+
+** Présent
+
+vends
+vendons
+vendez
+
+* INFINITIF
+
+** Présent
+
+vendre
+
+* PARTICIPE
+
+** Présent
+
+vendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vendu
+tu as vendu
+il (elle) a vendu
+nous avons vendu
+vous avez vendu
+ils (elles) ont vendu
+
+** Plus-que-parfait
+
+j'avais vendu
+tu avais vendu
+il (elle) avait vendu
+nous avions vendu
+vous aviez vendu
+ils (elles) avaient vendu
+
+** Passé antérieur
+
+j'eus vendu
+tu eus vendu
+il (elle) eut vendu
+nous eûmes vendu
+vous eûtes vendu
+ils (elles) eurent vendu
+
+** Futur antérieur
+
+j'aurai vendu
+tu auras vendu
+il (elle) aura vendu
+nous aurons vendu
+vous aurez vendu
+ils (elles) auront vendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vendu
+tu aurais vendu
+il (elle) aurait vendu
+nous aurions vendu
+vous auriez vendu
+ils (elles) auraient vendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vendu
+que tu aies vendu
+qu’il (elle) ait vendu
+que nous ayons vendu
+que vous ayez vendu
+qu’ils (elles) aient vendu
+
+** Plus-que-parfait
+
+que j'eusse vendu
+que tu eusses vendu
+qu’il (elle) eût vendu
+que nous eussions vendu
+que vous eussiez vendu
+qu’ils (elles) eussent vendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vendu
+ayez vendu
+
+* INFINITIF
+
+** Passé
+
+avoir vendu
+
+* PARTICIPE
+
+** Passé
+
+ayant vendu
+vendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis vendu(e)
+tu es vendu(e)
+il (elle) est vendu(e)
+nous sommes vendu(e)s
+vous êtes vendu(e)s
+ils (elles) sont vendu(e)s
+
+** Imparfait
+
+j'étais vendu(e)
+tu étais vendu(e)
+il (elle) était vendu(e)
+nous étions vendu(e)s
+vous étiez vendu(e)s
+ils (elles) étaient vendu(e)s
+
+** Passé simple
+
+je fus vendu(e)
+tu fus vendu(e)
+il (elle) fut vendu(e)
+nous fûmes vendu(e)s
+vous fûtes vendu(e)s
+ils (elles) furent vendu(e)s
+
+** Futur simple
+
+je serai vendu(e)
+tu seras vendu(e)
+il (elle) sera vendu(e)
+nous serons vendu(e)s
+vous serez vendu(e)s
+ils (elles) seront vendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vendu(e)
+tu serais vendu(e)
+il (elle) serait vendu(e)
+nous serions vendu(e)s
+vous seriez vendu(e)s
+ils (elles) seraient vendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vendu(e)
+que tu sois vendu(e)
+qu’il (elle) soit vendu(e)
+que nous soyons vendu(e)s
+que vous soyez vendu(e)s
+qu’ils (elles) soient vendu(e)s
+
+** Imparfait
+
+que je fusse vendu(e)
+que tu fusses vendu(e)
+qu’il (elle) fût vendu(e)
+que nous fussions vendu(e)s
+que vous fussiez vendu(e)s
+qu’ils (elles) fussent vendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vendu(e)s
+soyez vendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être vendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vendu(e)
+tu as été vendu(e)
+il (elle) a été vendu(e)
+nous avons été vendu(e)s
+vous avez été vendu(e)s
+ils (elles) ont été vendu(e)s
+
+** Plus-que-parfait
+
+j'avais été vendu(e)
+il (elle) avait été vendu(e)
+nous avions été vendu(e)s
+ils (elles) avaient été vendu(e)s
+
+** Passé antérieur
+
+j'eus été vendu(e)
+tu eus été vendu(e)
+il (elle) eut été vendu(e)
+nous eûmes été vendu(e)s
+vous eûtes été vendu(e)s
+ils (elles) eurent été vendu(e)s
+
+** Futur antérieur
+
+j'aurai été vendu(e)
+tu auras été vendu(e)
+il (elle) aura été vendu(e)
+nous aurons été vendu(e)s
+vous aurez été vendu(e)s
+ils (elles) auront été vendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vendu(e)
+j'aurais été vendu(e)
+il (elle) aurait été vendu(e)
+nous aurions été vendu(e)s
+vous auriez été vendu(e)s
+ils (elles) auraient été vendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vendu(e)
+que tu aies été vendu(e)
+qu’il (elle) ait été vendu(e)
+que nous ayons été vendu(e)s
+que vous ayez été vendu(e)s
+qu’ils (elles) aient été vendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vendu(e)
+que tu eusses été vendu(e)
+qu’il (elle) eût été vendu(e)
+que nous eussions été vendu(e)s
+que vous eussiez été vendu(e)s
+qu’ils (elles) eussent été vendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vendu(e)
+ayons été vendu(e)s
+ayez été vendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vendu(e)(s)

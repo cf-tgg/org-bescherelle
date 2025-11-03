@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe commander
+
+* INDICATIF
+
+** Présent
+
+je commande
+tu commandes
+il (elle) commande
+nous commandons
+vous commandez
+ils (elles) commandent
+
+** Imparfait
+
+je commandais
+tu commandais
+il (elle) commandait
+nous commandions
+vous commandiez
+ils (elles) commandaient
+
+** Passé simple
+
+je commandai
+tu commandas
+il (elle) commanda
+nous commandâmes
+vous commandâtes
+ils (elles) commandèrent
+
+** Futur simple
+
+je commanderai
+tu commanderas
+il (elle) commandera
+nous commanderons
+vous commanderez
+ils (elles) commanderont
+
+* CONDITIONNEL
+
+** Présent
+
+je commanderais
+tu commanderais
+il (elle) commanderait
+nous commanderions
+vous commanderiez
+ils (elles) commanderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je commande
+que tu commandes
+qu’il (elle) commande
+que nous commandions
+que vous commandiez
+qu’ils (elles) commandent
+
+** Imparfait
+
+que je commandasse
+que tu commandasses
+qu’il (elle) commandât
+que nous commandassions
+que vous commandassiez
+qu’ils (elles) commandassent
+
+* IMPÉRATIF
+
+** Présent
+
+commande
+commandons
+commandez
+
+* INFINITIF
+
+** Présent
+
+commander
+
+* PARTICIPE
+
+** Présent
+
+commandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai commandé
+tu as commandé
+il (elle) a commandé
+nous avons commandé
+vous avez commandé
+ils (elles) ont commandé
+
+** Plus-que-parfait
+
+j'avais commandé
+tu avais commandé
+il (elle) avait commandé
+nous avions commandé
+vous aviez commandé
+ils (elles) avaient commandé
+
+** Passé antérieur
+
+j'eus commandé
+tu eus commandé
+il (elle) eut commandé
+nous eûmes commandé
+vous eûtes commandé
+ils (elles) eurent commandé
+
+** Futur antérieur
+
+j'aurai commandé
+tu auras commandé
+il (elle) aura commandé
+nous aurons commandé
+vous aurez commandé
+ils (elles) auront commandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais commandé
+tu aurais commandé
+il (elle) aurait commandé
+nous aurions commandé
+vous auriez commandé
+ils (elles) auraient commandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie commandé
+que tu aies commandé
+qu’il (elle) ait commandé
+que nous ayons commandé
+que vous ayez commandé
+qu’ils (elles) aient commandé
+
+** Plus-que-parfait
+
+que j'eusse commandé
+que tu eusses commandé
+qu’il (elle) eût commandé
+que nous eussions commandé
+que vous eussiez commandé
+qu’ils (elles) eussent commandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons commandé
+ayez commandé
+
+* INFINITIF
+
+** Passé
+
+avoir commandé
+
+* PARTICIPE
+
+** Passé
+
+ayant commandé
+commandé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis commandé(e)
+tu es commandé(e)
+il (elle) est commandé(e)
+nous sommes commandé(e)s
+vous êtes commandé(e)s
+ils (elles) sont commandé(e)s
+
+** Imparfait
+
+j'étais commandé(e)
+tu étais commandé(e)
+il (elle) était commandé(e)
+nous étions commandé(e)s
+vous étiez commandé(e)s
+ils (elles) étaient commandé(e)s
+
+** Passé simple
+
+je fus commandé(e)
+tu fus commandé(e)
+il (elle) fut commandé(e)
+nous fûmes commandé(e)s
+vous fûtes commandé(e)s
+ils (elles) furent commandé(e)s
+
+** Futur simple
+
+je serai commandé(e)
+tu seras commandé(e)
+il (elle) sera commandé(e)
+nous serons commandé(e)s
+vous serez commandé(e)s
+ils (elles) seront commandé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais commandé(e)
+tu serais commandé(e)
+il (elle) serait commandé(e)
+nous serions commandé(e)s
+vous seriez commandé(e)s
+ils (elles) seraient commandé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois commandé(e)
+que tu sois commandé(e)
+qu’il (elle) soit commandé(e)
+que nous soyons commandé(e)s
+que vous soyez commandé(e)s
+qu’ils (elles) soient commandé(e)s
+
+** Imparfait
+
+que je fusse commandé(e)
+que tu fusses commandé(e)
+qu’il (elle) fût commandé(e)
+que nous fussions commandé(e)s
+que vous fussiez commandé(e)s
+qu’ils (elles) fussent commandé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons commandé(e)s
+soyez commandé(e)s
+
+* INFINITIF
+
+** Présent
+
+être commandé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant commandé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été commandé(e)
+tu as été commandé(e)
+il (elle) a été commandé(e)
+nous avons été commandé(e)s
+vous avez été commandé(e)s
+ils (elles) ont été commandé(e)s
+
+** Plus-que-parfait
+
+j'avais été commandé(e)
+il (elle) avait été commandé(e)
+nous avions été commandé(e)s
+ils (elles) avaient été commandé(e)s
+
+** Passé antérieur
+
+j'eus été commandé(e)
+tu eus été commandé(e)
+il (elle) eut été commandé(e)
+nous eûmes été commandé(e)s
+vous eûtes été commandé(e)s
+ils (elles) eurent été commandé(e)s
+
+** Futur antérieur
+
+j'aurai été commandé(e)
+tu auras été commandé(e)
+il (elle) aura été commandé(e)
+nous aurons été commandé(e)s
+vous aurez été commandé(e)s
+ils (elles) auront été commandé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été commandé(e)
+j'aurais été commandé(e)
+il (elle) aurait été commandé(e)
+nous aurions été commandé(e)s
+vous auriez été commandé(e)s
+ils (elles) auraient été commandé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été commandé(e)
+que tu aies été commandé(e)
+qu’il (elle) ait été commandé(e)
+que nous ayons été commandé(e)s
+que vous ayez été commandé(e)s
+qu’ils (elles) aient été commandé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été commandé(e)
+que tu eusses été commandé(e)
+qu’il (elle) eût été commandé(e)
+que nous eussions été commandé(e)s
+que vous eussiez été commandé(e)s
+qu’ils (elles) eussent été commandé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été commandé(e)
+ayons été commandé(e)s
+ayez été commandé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été commandé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été commandé(e)(s)

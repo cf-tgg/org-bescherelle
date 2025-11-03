@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pardonner
+
+* INDICATIF
+
+** Présent
+
+je pardonne
+tu pardonnes
+il (elle) pardonne
+nous pardonnons
+vous pardonnez
+ils (elles) pardonnent
+
+** Imparfait
+
+je pardonnais
+tu pardonnais
+il (elle) pardonnait
+nous pardonnions
+vous pardonniez
+ils (elles) pardonnaient
+
+** Passé simple
+
+je pardonnai
+tu pardonnas
+il (elle) pardonna
+nous pardonnâmes
+vous pardonnâtes
+ils (elles) pardonnèrent
+
+** Futur simple
+
+je pardonnerai
+tu pardonneras
+il (elle) pardonnera
+nous pardonnerons
+vous pardonnerez
+ils (elles) pardonneront
+
+* CONDITIONNEL
+
+** Présent
+
+je pardonnerais
+tu pardonnerais
+il (elle) pardonnerait
+nous pardonnerions
+vous pardonneriez
+ils (elles) pardonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pardonne
+que tu pardonnes
+qu’il (elle) pardonne
+que nous pardonnions
+que vous pardonniez
+qu’ils (elles) pardonnent
+
+** Imparfait
+
+que je pardonnasse
+que tu pardonnasses
+qu’il (elle) pardonnât
+que nous pardonnassions
+que vous pardonnassiez
+qu’ils (elles) pardonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+pardonne
+pardonnons
+pardonnez
+
+* INFINITIF
+
+** Présent
+
+pardonner
+
+* PARTICIPE
+
+** Présent
+
+pardonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pardonné
+tu as pardonné
+il (elle) a pardonné
+nous avons pardonné
+vous avez pardonné
+ils (elles) ont pardonné
+
+** Plus-que-parfait
+
+j'avais pardonné
+tu avais pardonné
+il (elle) avait pardonné
+nous avions pardonné
+vous aviez pardonné
+ils (elles) avaient pardonné
+
+** Passé antérieur
+
+j'eus pardonné
+tu eus pardonné
+il (elle) eut pardonné
+nous eûmes pardonné
+vous eûtes pardonné
+ils (elles) eurent pardonné
+
+** Futur antérieur
+
+j'aurai pardonné
+tu auras pardonné
+il (elle) aura pardonné
+nous aurons pardonné
+vous aurez pardonné
+ils (elles) auront pardonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pardonné
+tu aurais pardonné
+il (elle) aurait pardonné
+nous aurions pardonné
+vous auriez pardonné
+ils (elles) auraient pardonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pardonné
+que tu aies pardonné
+qu’il (elle) ait pardonné
+que nous ayons pardonné
+que vous ayez pardonné
+qu’ils (elles) aient pardonné
+
+** Plus-que-parfait
+
+que j'eusse pardonné
+que tu eusses pardonné
+qu’il (elle) eût pardonné
+que nous eussions pardonné
+que vous eussiez pardonné
+qu’ils (elles) eussent pardonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pardonné
+ayez pardonné
+
+* INFINITIF
+
+** Passé
+
+avoir pardonné
+
+* PARTICIPE
+
+** Passé
+
+ayant pardonné
+pardonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pardonné(e)
+tu es pardonné(e)
+il (elle) est pardonné(e)
+nous sommes pardonné(e)s
+vous êtes pardonné(e)s
+ils (elles) sont pardonné(e)s
+
+** Imparfait
+
+j'étais pardonné(e)
+tu étais pardonné(e)
+il (elle) était pardonné(e)
+nous étions pardonné(e)s
+vous étiez pardonné(e)s
+ils (elles) étaient pardonné(e)s
+
+** Passé simple
+
+je fus pardonné(e)
+tu fus pardonné(e)
+il (elle) fut pardonné(e)
+nous fûmes pardonné(e)s
+vous fûtes pardonné(e)s
+ils (elles) furent pardonné(e)s
+
+** Futur simple
+
+je serai pardonné(e)
+tu seras pardonné(e)
+il (elle) sera pardonné(e)
+nous serons pardonné(e)s
+vous serez pardonné(e)s
+ils (elles) seront pardonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pardonné(e)
+tu serais pardonné(e)
+il (elle) serait pardonné(e)
+nous serions pardonné(e)s
+vous seriez pardonné(e)s
+ils (elles) seraient pardonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pardonné(e)
+que tu sois pardonné(e)
+qu’il (elle) soit pardonné(e)
+que nous soyons pardonné(e)s
+que vous soyez pardonné(e)s
+qu’ils (elles) soient pardonné(e)s
+
+** Imparfait
+
+que je fusse pardonné(e)
+que tu fusses pardonné(e)
+qu’il (elle) fût pardonné(e)
+que nous fussions pardonné(e)s
+que vous fussiez pardonné(e)s
+qu’ils (elles) fussent pardonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pardonné(e)s
+soyez pardonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être pardonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pardonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pardonné(e)
+tu as été pardonné(e)
+il (elle) a été pardonné(e)
+nous avons été pardonné(e)s
+vous avez été pardonné(e)s
+ils (elles) ont été pardonné(e)s
+
+** Plus-que-parfait
+
+j'avais été pardonné(e)
+il (elle) avait été pardonné(e)
+nous avions été pardonné(e)s
+ils (elles) avaient été pardonné(e)s
+
+** Passé antérieur
+
+j'eus été pardonné(e)
+tu eus été pardonné(e)
+il (elle) eut été pardonné(e)
+nous eûmes été pardonné(e)s
+vous eûtes été pardonné(e)s
+ils (elles) eurent été pardonné(e)s
+
+** Futur antérieur
+
+j'aurai été pardonné(e)
+tu auras été pardonné(e)
+il (elle) aura été pardonné(e)
+nous aurons été pardonné(e)s
+vous aurez été pardonné(e)s
+ils (elles) auront été pardonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pardonné(e)
+j'aurais été pardonné(e)
+il (elle) aurait été pardonné(e)
+nous aurions été pardonné(e)s
+vous auriez été pardonné(e)s
+ils (elles) auraient été pardonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pardonné(e)
+que tu aies été pardonné(e)
+qu’il (elle) ait été pardonné(e)
+que nous ayons été pardonné(e)s
+que vous ayez été pardonné(e)s
+qu’ils (elles) aient été pardonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pardonné(e)
+que tu eusses été pardonné(e)
+qu’il (elle) eût été pardonné(e)
+que nous eussions été pardonné(e)s
+que vous eussiez été pardonné(e)s
+qu’ils (elles) eussent été pardonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pardonné(e)
+ayons été pardonné(e)s
+ayez été pardonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pardonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pardonné(e)(s)

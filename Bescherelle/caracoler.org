@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe caracoler
+
+* INDICATIF
+
+** Présent
+
+je caracole
+tu caracoles
+il (elle) caracole
+nous caracolons
+vous caracolez
+ils (elles) caracolent
+
+** Imparfait
+
+je caracolais
+tu caracolais
+il (elle) caracolait
+nous caracolions
+vous caracoliez
+ils (elles) caracolaient
+
+** Passé simple
+
+je caracolai
+tu caracolas
+il (elle) caracola
+nous caracolâmes
+vous caracolâtes
+ils (elles) caracolèrent
+
+** Futur simple
+
+je caracolerai
+tu caracoleras
+il (elle) caracolera
+nous caracolerons
+vous caracolerez
+ils (elles) caracoleront
+
+* CONDITIONNEL
+
+** Présent
+
+je caracolerais
+tu caracolerais
+il (elle) caracolerait
+nous caracolerions
+vous caracoleriez
+ils (elles) caracoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je caracole
+que tu caracoles
+qu’il (elle) caracole
+que nous caracolions
+que vous caracoliez
+qu’ils (elles) caracolent
+
+** Imparfait
+
+que je caracolasse
+que tu caracolasses
+qu’il (elle) caracolât
+que nous caracolassions
+que vous caracolassiez
+qu’ils (elles) caracolassent
+
+* IMPÉRATIF
+
+** Présent
+
+caracole
+caracolons
+caracolez
+
+* INFINITIF
+
+** Présent
+
+caracoler
+
+* PARTICIPE
+
+** Présent
+
+caracolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai caracolé
+tu as caracolé
+il (elle) a caracolé
+nous avons caracolé
+vous avez caracolé
+ils (elles) ont caracolé
+
+** Plus-que-parfait
+
+j'avais caracolé
+tu avais caracolé
+il (elle) avait caracolé
+nous avions caracolé
+vous aviez caracolé
+ils (elles) avaient caracolé
+
+** Passé antérieur
+
+j'eus caracolé
+tu eus caracolé
+il (elle) eut caracolé
+nous eûmes caracolé
+vous eûtes caracolé
+ils (elles) eurent caracolé
+
+** Futur antérieur
+
+j'aurai caracolé
+tu auras caracolé
+il (elle) aura caracolé
+nous aurons caracolé
+vous aurez caracolé
+ils (elles) auront caracolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais caracolé
+tu aurais caracolé
+il (elle) aurait caracolé
+nous aurions caracolé
+vous auriez caracolé
+ils (elles) auraient caracolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie caracolé
+que tu aies caracolé
+qu’il (elle) ait caracolé
+que nous ayons caracolé
+que vous ayez caracolé
+qu’ils (elles) aient caracolé
+
+** Plus-que-parfait
+
+que j'eusse caracolé
+que tu eusses caracolé
+qu’il (elle) eût caracolé
+que nous eussions caracolé
+que vous eussiez caracolé
+qu’ils (elles) eussent caracolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons caracolé
+ayez caracolé
+
+* INFINITIF
+
+** Passé
+
+avoir caracolé
+
+* PARTICIPE
+
+** Passé
+
+ayant caracolé
+caracolé (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe plonger
+
+* INDICATIF
+
+** Présent
+
+je plonge
+tu plonges
+il (elle) plonge
+nous plongeons
+vous plongez
+ils (elles) plongent
+
+** Imparfait
+
+je plongeais
+tu plongeais
+il (elle) plongeait
+nous plongions
+vous plongiez
+ils (elles) plongeaient
+
+** Passé simple
+
+je plongeai
+tu plongeas
+il (elle) plongea
+nous plongeâmes
+vous plongeâtes
+ils (elles) plongèrent
+
+** Futur simple
+
+je plongerai
+tu plongeras
+il (elle) plongera
+nous plongerons
+vous plongerez
+ils (elles) plongeront
+
+* CONDITIONNEL
+
+** Présent
+
+je plongerais
+tu plongerais
+il (elle) plongerait
+nous plongerions
+vous plongeriez
+ils (elles) plongeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plonge
+que tu plonges
+qu’il (elle) plonge
+que nous plongions
+que vous plongiez
+qu’ils (elles) plongent
+
+** Imparfait
+
+que je plongeasse
+que tu plongeasses
+qu’il (elle) plongeât
+que nous plongeassions
+que vous plongeassiez
+qu’ils (elles) plongeassent
+
+* IMPÉRATIF
+
+** Présent
+
+plonge
+plongeons
+plongez
+
+* INFINITIF
+
+** Présent
+
+plonger
+
+* PARTICIPE
+
+** Présent
+
+plongeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plongé
+tu as plongé
+il (elle) a plongé
+nous avons plongé
+vous avez plongé
+ils (elles) ont plongé
+
+** Plus-que-parfait
+
+j'avais plongé
+tu avais plongé
+il (elle) avait plongé
+nous avions plongé
+vous aviez plongé
+ils (elles) avaient plongé
+
+** Passé antérieur
+
+j'eus plongé
+tu eus plongé
+il (elle) eut plongé
+nous eûmes plongé
+vous eûtes plongé
+ils (elles) eurent plongé
+
+** Futur antérieur
+
+j'aurai plongé
+tu auras plongé
+il (elle) aura plongé
+nous aurons plongé
+vous aurez plongé
+ils (elles) auront plongé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plongé
+tu aurais plongé
+il (elle) aurait plongé
+nous aurions plongé
+vous auriez plongé
+ils (elles) auraient plongé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plongé
+que tu aies plongé
+qu’il (elle) ait plongé
+que nous ayons plongé
+que vous ayez plongé
+qu’ils (elles) aient plongé
+
+** Plus-que-parfait
+
+que j'eusse plongé
+que tu eusses plongé
+qu’il (elle) eût plongé
+que nous eussions plongé
+que vous eussiez plongé
+qu’ils (elles) eussent plongé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plongé
+ayez plongé
+
+* INFINITIF
+
+** Passé
+
+avoir plongé
+
+* PARTICIPE
+
+** Passé
+
+ayant plongé
+plongé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis plongé(e)
+tu es plongé(e)
+il (elle) est plongé(e)
+nous sommes plongé(e)s
+vous êtes plongé(e)s
+ils (elles) sont plongé(e)s
+
+** Imparfait
+
+j'étais plongé(e)
+tu étais plongé(e)
+il (elle) était plongé(e)
+nous étions plongé(e)s
+vous étiez plongé(e)s
+ils (elles) étaient plongé(e)s
+
+** Passé simple
+
+je fus plongé(e)
+tu fus plongé(e)
+il (elle) fut plongé(e)
+nous fûmes plongé(e)s
+vous fûtes plongé(e)s
+ils (elles) furent plongé(e)s
+
+** Futur simple
+
+je serai plongé(e)
+tu seras plongé(e)
+il (elle) sera plongé(e)
+nous serons plongé(e)s
+vous serez plongé(e)s
+ils (elles) seront plongé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais plongé(e)
+tu serais plongé(e)
+il (elle) serait plongé(e)
+nous serions plongé(e)s
+vous seriez plongé(e)s
+ils (elles) seraient plongé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois plongé(e)
+que tu sois plongé(e)
+qu’il (elle) soit plongé(e)
+que nous soyons plongé(e)s
+que vous soyez plongé(e)s
+qu’ils (elles) soient plongé(e)s
+
+** Imparfait
+
+que je fusse plongé(e)
+que tu fusses plongé(e)
+qu’il (elle) fût plongé(e)
+que nous fussions plongé(e)s
+que vous fussiez plongé(e)s
+qu’ils (elles) fussent plongé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons plongé(e)s
+soyez plongé(e)s
+
+* INFINITIF
+
+** Présent
+
+être plongé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant plongé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été plongé(e)
+tu as été plongé(e)
+il (elle) a été plongé(e)
+nous avons été plongé(e)s
+vous avez été plongé(e)s
+ils (elles) ont été plongé(e)s
+
+** Plus-que-parfait
+
+j'avais été plongé(e)
+il (elle) avait été plongé(e)
+nous avions été plongé(e)s
+ils (elles) avaient été plongé(e)s
+
+** Passé antérieur
+
+j'eus été plongé(e)
+tu eus été plongé(e)
+il (elle) eut été plongé(e)
+nous eûmes été plongé(e)s
+vous eûtes été plongé(e)s
+ils (elles) eurent été plongé(e)s
+
+** Futur antérieur
+
+j'aurai été plongé(e)
+tu auras été plongé(e)
+il (elle) aura été plongé(e)
+nous aurons été plongé(e)s
+vous aurez été plongé(e)s
+ils (elles) auront été plongé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été plongé(e)
+j'aurais été plongé(e)
+il (elle) aurait été plongé(e)
+nous aurions été plongé(e)s
+vous auriez été plongé(e)s
+ils (elles) auraient été plongé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été plongé(e)
+que tu aies été plongé(e)
+qu’il (elle) ait été plongé(e)
+que nous ayons été plongé(e)s
+que vous ayez été plongé(e)s
+qu’ils (elles) aient été plongé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été plongé(e)
+que tu eusses été plongé(e)
+qu’il (elle) eût été plongé(e)
+que nous eussions été plongé(e)s
+que vous eussiez été plongé(e)s
+qu’ils (elles) eussent été plongé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été plongé(e)
+ayons été plongé(e)s
+ayez été plongé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été plongé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été plongé(e)(s)

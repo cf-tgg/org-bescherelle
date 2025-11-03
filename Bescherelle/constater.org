@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe constater
+
+* INDICATIF
+
+** Présent
+
+je constate
+tu constates
+il (elle) constate
+nous constatons
+vous constatez
+ils (elles) constatent
+
+** Imparfait
+
+je constatais
+tu constatais
+il (elle) constatait
+nous constations
+vous constatiez
+ils (elles) constataient
+
+** Passé simple
+
+je constatai
+tu constatas
+il (elle) constata
+nous constatâmes
+vous constatâtes
+ils (elles) constatèrent
+
+** Futur simple
+
+je constaterai
+tu constateras
+il (elle) constatera
+nous constaterons
+vous constaterez
+ils (elles) constateront
+
+* CONDITIONNEL
+
+** Présent
+
+je constaterais
+tu constaterais
+il (elle) constaterait
+nous constaterions
+vous constateriez
+ils (elles) constateraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je constate
+que tu constates
+qu’il (elle) constate
+que nous constations
+que vous constatiez
+qu’ils (elles) constatent
+
+** Imparfait
+
+que je constatasse
+que tu constatasses
+qu’il (elle) constatât
+que nous constatassions
+que vous constatassiez
+qu’ils (elles) constatassent
+
+* IMPÉRATIF
+
+** Présent
+
+constate
+constatons
+constatez
+
+* INFINITIF
+
+** Présent
+
+constater
+
+* PARTICIPE
+
+** Présent
+
+constatant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai constaté
+tu as constaté
+il (elle) a constaté
+nous avons constaté
+vous avez constaté
+ils (elles) ont constaté
+
+** Plus-que-parfait
+
+j'avais constaté
+tu avais constaté
+il (elle) avait constaté
+nous avions constaté
+vous aviez constaté
+ils (elles) avaient constaté
+
+** Passé antérieur
+
+j'eus constaté
+tu eus constaté
+il (elle) eut constaté
+nous eûmes constaté
+vous eûtes constaté
+ils (elles) eurent constaté
+
+** Futur antérieur
+
+j'aurai constaté
+tu auras constaté
+il (elle) aura constaté
+nous aurons constaté
+vous aurez constaté
+ils (elles) auront constaté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais constaté
+tu aurais constaté
+il (elle) aurait constaté
+nous aurions constaté
+vous auriez constaté
+ils (elles) auraient constaté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie constaté
+que tu aies constaté
+qu’il (elle) ait constaté
+que nous ayons constaté
+que vous ayez constaté
+qu’ils (elles) aient constaté
+
+** Plus-que-parfait
+
+que j'eusse constaté
+que tu eusses constaté
+qu’il (elle) eût constaté
+que nous eussions constaté
+que vous eussiez constaté
+qu’ils (elles) eussent constaté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons constaté
+ayez constaté
+
+* INFINITIF
+
+** Passé
+
+avoir constaté
+
+* PARTICIPE
+
+** Passé
+
+ayant constaté
+constaté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis constaté(e)
+tu es constaté(e)
+il (elle) est constaté(e)
+nous sommes constaté(e)s
+vous êtes constaté(e)s
+ils (elles) sont constaté(e)s
+
+** Imparfait
+
+j'étais constaté(e)
+tu étais constaté(e)
+il (elle) était constaté(e)
+nous étions constaté(e)s
+vous étiez constaté(e)s
+ils (elles) étaient constaté(e)s
+
+** Passé simple
+
+je fus constaté(e)
+tu fus constaté(e)
+il (elle) fut constaté(e)
+nous fûmes constaté(e)s
+vous fûtes constaté(e)s
+ils (elles) furent constaté(e)s
+
+** Futur simple
+
+je serai constaté(e)
+tu seras constaté(e)
+il (elle) sera constaté(e)
+nous serons constaté(e)s
+vous serez constaté(e)s
+ils (elles) seront constaté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais constaté(e)
+tu serais constaté(e)
+il (elle) serait constaté(e)
+nous serions constaté(e)s
+vous seriez constaté(e)s
+ils (elles) seraient constaté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois constaté(e)
+que tu sois constaté(e)
+qu’il (elle) soit constaté(e)
+que nous soyons constaté(e)s
+que vous soyez constaté(e)s
+qu’ils (elles) soient constaté(e)s
+
+** Imparfait
+
+que je fusse constaté(e)
+que tu fusses constaté(e)
+qu’il (elle) fût constaté(e)
+que nous fussions constaté(e)s
+que vous fussiez constaté(e)s
+qu’ils (elles) fussent constaté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons constaté(e)s
+soyez constaté(e)s
+
+* INFINITIF
+
+** Présent
+
+être constaté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant constaté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été constaté(e)
+tu as été constaté(e)
+il (elle) a été constaté(e)
+nous avons été constaté(e)s
+vous avez été constaté(e)s
+ils (elles) ont été constaté(e)s
+
+** Plus-que-parfait
+
+j'avais été constaté(e)
+il (elle) avait été constaté(e)
+nous avions été constaté(e)s
+ils (elles) avaient été constaté(e)s
+
+** Passé antérieur
+
+j'eus été constaté(e)
+tu eus été constaté(e)
+il (elle) eut été constaté(e)
+nous eûmes été constaté(e)s
+vous eûtes été constaté(e)s
+ils (elles) eurent été constaté(e)s
+
+** Futur antérieur
+
+j'aurai été constaté(e)
+tu auras été constaté(e)
+il (elle) aura été constaté(e)
+nous aurons été constaté(e)s
+vous aurez été constaté(e)s
+ils (elles) auront été constaté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été constaté(e)
+j'aurais été constaté(e)
+il (elle) aurait été constaté(e)
+nous aurions été constaté(e)s
+vous auriez été constaté(e)s
+ils (elles) auraient été constaté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été constaté(e)
+que tu aies été constaté(e)
+qu’il (elle) ait été constaté(e)
+que nous ayons été constaté(e)s
+que vous ayez été constaté(e)s
+qu’ils (elles) aient été constaté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été constaté(e)
+que tu eusses été constaté(e)
+qu’il (elle) eût été constaté(e)
+que nous eussions été constaté(e)s
+que vous eussiez été constaté(e)s
+qu’ils (elles) eussent été constaté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été constaté(e)
+ayons été constaté(e)s
+ayez été constaté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été constaté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été constaté(e)(s)

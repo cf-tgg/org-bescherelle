@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe combattre
+
+* INDICATIF
+
+** Présent
+
+je combats
+tu combats
+il (elle) combat
+nous combattons
+vous combattez
+ils (elles) combattent
+
+** Imparfait
+
+je combattais
+tu combattais
+il (elle) combattait
+nous combattions
+vous combattiez
+ils (elles) combattaient
+
+** Passé simple
+
+je combattis
+tu combattis
+il (elle) combattit
+nous combattîmes
+vous combattîtes
+ils (elles) combattirent
+
+** Futur simple
+
+je combattrai
+tu combattras
+il (elle) combattra
+nous combattrons
+vous combattrez
+ils (elles) combattront
+
+* CONDITIONNEL
+
+** Présent
+
+je combattrais
+tu combattrais
+il (elle) combattrait
+nous combattrions
+vous combattriez
+ils (elles) combattraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je combatte
+que tu combattes
+qu’il (elle) combatte
+que nous combattions
+que vous combattiez
+qu’ils (elles) combattent
+
+** Imparfait
+
+que je combattisse
+que tu combattisses
+qu’il (elle) combattît
+que nous combattissions
+que vous combattissiez
+qu’ils (elles) combattissent
+
+* IMPÉRATIF
+
+** Présent
+
+combats
+combattons
+combattez
+
+* INFINITIF
+
+** Présent
+
+combattre
+
+* PARTICIPE
+
+** Présent
+
+combattant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai combattu
+tu as combattu
+il (elle) a combattu
+nous avons combattu
+vous avez combattu
+ils (elles) ont combattu
+
+** Plus-que-parfait
+
+j'avais combattu
+tu avais combattu
+il (elle) avait combattu
+nous avions combattu
+vous aviez combattu
+ils (elles) avaient combattu
+
+** Passé antérieur
+
+j'eus combattu
+tu eus combattu
+il (elle) eut combattu
+nous eûmes combattu
+vous eûtes combattu
+ils (elles) eurent combattu
+
+** Futur antérieur
+
+j'aurai combattu
+tu auras combattu
+il (elle) aura combattu
+nous aurons combattu
+vous aurez combattu
+ils (elles) auront combattu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais combattu
+tu aurais combattu
+il (elle) aurait combattu
+nous aurions combattu
+vous auriez combattu
+ils (elles) auraient combattu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie combattu
+que tu aies combattu
+qu’il (elle) ait combattu
+que nous ayons combattu
+que vous ayez combattu
+qu’ils (elles) aient combattu
+
+** Plus-que-parfait
+
+que j'eusse combattu
+que tu eusses combattu
+qu’il (elle) eût combattu
+que nous eussions combattu
+que vous eussiez combattu
+qu’ils (elles) eussent combattu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons combattu
+ayez combattu
+
+* INFINITIF
+
+** Passé
+
+avoir combattu
+
+* PARTICIPE
+
+** Passé
+
+ayant combattu
+combattu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis combattu(e)
+tu es combattu(e)
+il (elle) est combattu(e)
+nous sommes combattu(e)s
+vous êtes combattu(e)s
+ils (elles) sont combattu(e)s
+
+** Imparfait
+
+j'étais combattu(e)
+tu étais combattu(e)
+il (elle) était combattu(e)
+nous étions combattu(e)s
+vous étiez combattu(e)s
+ils (elles) étaient combattu(e)s
+
+** Passé simple
+
+je fus combattu(e)
+tu fus combattu(e)
+il (elle) fut combattu(e)
+nous fûmes combattu(e)s
+vous fûtes combattu(e)s
+ils (elles) furent combattu(e)s
+
+** Futur simple
+
+je serai combattu(e)
+tu seras combattu(e)
+il (elle) sera combattu(e)
+nous serons combattu(e)s
+vous serez combattu(e)s
+ils (elles) seront combattu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais combattu(e)
+tu serais combattu(e)
+il (elle) serait combattu(e)
+nous serions combattu(e)s
+vous seriez combattu(e)s
+ils (elles) seraient combattu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois combattu(e)
+que tu sois combattu(e)
+qu’il (elle) soit combattu(e)
+que nous soyons combattu(e)s
+que vous soyez combattu(e)s
+qu’ils (elles) soient combattu(e)s
+
+** Imparfait
+
+que je fusse combattu(e)
+que tu fusses combattu(e)
+qu’il (elle) fût combattu(e)
+que nous fussions combattu(e)s
+que vous fussiez combattu(e)s
+qu’ils (elles) fussent combattu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons combattu(e)s
+soyez combattu(e)s
+
+* INFINITIF
+
+** Présent
+
+être combattu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant combattu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été combattu(e)
+tu as été combattu(e)
+il (elle) a été combattu(e)
+nous avons été combattu(e)s
+vous avez été combattu(e)s
+ils (elles) ont été combattu(e)s
+
+** Plus-que-parfait
+
+j'avais été combattu(e)
+il (elle) avait été combattu(e)
+nous avions été combattu(e)s
+ils (elles) avaient été combattu(e)s
+
+** Passé antérieur
+
+j'eus été combattu(e)
+tu eus été combattu(e)
+il (elle) eut été combattu(e)
+nous eûmes été combattu(e)s
+vous eûtes été combattu(e)s
+ils (elles) eurent été combattu(e)s
+
+** Futur antérieur
+
+j'aurai été combattu(e)
+tu auras été combattu(e)
+il (elle) aura été combattu(e)
+nous aurons été combattu(e)s
+vous aurez été combattu(e)s
+ils (elles) auront été combattu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été combattu(e)
+j'aurais été combattu(e)
+il (elle) aurait été combattu(e)
+nous aurions été combattu(e)s
+vous auriez été combattu(e)s
+ils (elles) auraient été combattu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été combattu(e)
+que tu aies été combattu(e)
+qu’il (elle) ait été combattu(e)
+que nous ayons été combattu(e)s
+que vous ayez été combattu(e)s
+qu’ils (elles) aient été combattu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été combattu(e)
+que tu eusses été combattu(e)
+qu’il (elle) eût été combattu(e)
+que nous eussions été combattu(e)s
+que vous eussiez été combattu(e)s
+qu’ils (elles) eussent été combattu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été combattu(e)
+ayons été combattu(e)s
+ayez été combattu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été combattu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été combattu(e)(s)

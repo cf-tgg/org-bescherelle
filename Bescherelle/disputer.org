@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe disputer
+
+* INDICATIF
+
+** Présent
+
+je dispute
+tu disputes
+il (elle) dispute
+nous disputons
+vous disputez
+ils (elles) disputent
+
+** Imparfait
+
+je disputais
+tu disputais
+il (elle) disputait
+nous disputions
+vous disputiez
+ils (elles) disputaient
+
+** Passé simple
+
+je disputai
+tu disputas
+il (elle) disputa
+nous disputâmes
+vous disputâtes
+ils (elles) disputèrent
+
+** Futur simple
+
+je disputerai
+tu disputeras
+il (elle) disputera
+nous disputerons
+vous disputerez
+ils (elles) disputeront
+
+* CONDITIONNEL
+
+** Présent
+
+je disputerais
+tu disputerais
+il (elle) disputerait
+nous disputerions
+vous disputeriez
+ils (elles) disputeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dispute
+que tu disputes
+qu’il (elle) dispute
+que nous disputions
+que vous disputiez
+qu’ils (elles) disputent
+
+** Imparfait
+
+que je disputasse
+que tu disputasses
+qu’il (elle) disputât
+que nous disputassions
+que vous disputassiez
+qu’ils (elles) disputassent
+
+* IMPÉRATIF
+
+** Présent
+
+dispute
+disputons
+disputez
+
+* INFINITIF
+
+** Présent
+
+disputer
+
+* PARTICIPE
+
+** Présent
+
+disputant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai disputé
+tu as disputé
+il (elle) a disputé
+nous avons disputé
+vous avez disputé
+ils (elles) ont disputé
+
+** Plus-que-parfait
+
+j'avais disputé
+tu avais disputé
+il (elle) avait disputé
+nous avions disputé
+vous aviez disputé
+ils (elles) avaient disputé
+
+** Passé antérieur
+
+j'eus disputé
+tu eus disputé
+il (elle) eut disputé
+nous eûmes disputé
+vous eûtes disputé
+ils (elles) eurent disputé
+
+** Futur antérieur
+
+j'aurai disputé
+tu auras disputé
+il (elle) aura disputé
+nous aurons disputé
+vous aurez disputé
+ils (elles) auront disputé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais disputé
+tu aurais disputé
+il (elle) aurait disputé
+nous aurions disputé
+vous auriez disputé
+ils (elles) auraient disputé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie disputé
+que tu aies disputé
+qu’il (elle) ait disputé
+que nous ayons disputé
+que vous ayez disputé
+qu’ils (elles) aient disputé
+
+** Plus-que-parfait
+
+que j'eusse disputé
+que tu eusses disputé
+qu’il (elle) eût disputé
+que nous eussions disputé
+que vous eussiez disputé
+qu’ils (elles) eussent disputé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons disputé
+ayez disputé
+
+* INFINITIF
+
+** Passé
+
+avoir disputé
+
+* PARTICIPE
+
+** Passé
+
+ayant disputé
+disputé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis disputé(e)
+tu es disputé(e)
+il (elle) est disputé(e)
+nous sommes disputé(e)s
+vous êtes disputé(e)s
+ils (elles) sont disputé(e)s
+
+** Imparfait
+
+j'étais disputé(e)
+tu étais disputé(e)
+il (elle) était disputé(e)
+nous étions disputé(e)s
+vous étiez disputé(e)s
+ils (elles) étaient disputé(e)s
+
+** Passé simple
+
+je fus disputé(e)
+tu fus disputé(e)
+il (elle) fut disputé(e)
+nous fûmes disputé(e)s
+vous fûtes disputé(e)s
+ils (elles) furent disputé(e)s
+
+** Futur simple
+
+je serai disputé(e)
+tu seras disputé(e)
+il (elle) sera disputé(e)
+nous serons disputé(e)s
+vous serez disputé(e)s
+ils (elles) seront disputé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais disputé(e)
+tu serais disputé(e)
+il (elle) serait disputé(e)
+nous serions disputé(e)s
+vous seriez disputé(e)s
+ils (elles) seraient disputé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois disputé(e)
+que tu sois disputé(e)
+qu’il (elle) soit disputé(e)
+que nous soyons disputé(e)s
+que vous soyez disputé(e)s
+qu’ils (elles) soient disputé(e)s
+
+** Imparfait
+
+que je fusse disputé(e)
+que tu fusses disputé(e)
+qu’il (elle) fût disputé(e)
+que nous fussions disputé(e)s
+que vous fussiez disputé(e)s
+qu’ils (elles) fussent disputé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons disputé(e)s
+soyez disputé(e)s
+
+* INFINITIF
+
+** Présent
+
+être disputé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant disputé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été disputé(e)
+tu as été disputé(e)
+il (elle) a été disputé(e)
+nous avons été disputé(e)s
+vous avez été disputé(e)s
+ils (elles) ont été disputé(e)s
+
+** Plus-que-parfait
+
+j'avais été disputé(e)
+il (elle) avait été disputé(e)
+nous avions été disputé(e)s
+ils (elles) avaient été disputé(e)s
+
+** Passé antérieur
+
+j'eus été disputé(e)
+tu eus été disputé(e)
+il (elle) eut été disputé(e)
+nous eûmes été disputé(e)s
+vous eûtes été disputé(e)s
+ils (elles) eurent été disputé(e)s
+
+** Futur antérieur
+
+j'aurai été disputé(e)
+tu auras été disputé(e)
+il (elle) aura été disputé(e)
+nous aurons été disputé(e)s
+vous aurez été disputé(e)s
+ils (elles) auront été disputé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été disputé(e)
+j'aurais été disputé(e)
+il (elle) aurait été disputé(e)
+nous aurions été disputé(e)s
+vous auriez été disputé(e)s
+ils (elles) auraient été disputé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été disputé(e)
+que tu aies été disputé(e)
+qu’il (elle) ait été disputé(e)
+que nous ayons été disputé(e)s
+que vous ayez été disputé(e)s
+qu’ils (elles) aient été disputé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été disputé(e)
+que tu eusses été disputé(e)
+qu’il (elle) eût été disputé(e)
+que nous eussions été disputé(e)s
+que vous eussiez été disputé(e)s
+qu’ils (elles) eussent été disputé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été disputé(e)
+ayons été disputé(e)s
+ayez été disputé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été disputé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été disputé(e)(s)

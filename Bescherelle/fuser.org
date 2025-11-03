@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fuser
+
+* INDICATIF
+
+** Présent
+
+je fuse
+tu fuses
+il (elle) fuse
+nous fusons
+vous fusez
+ils (elles) fusent
+
+** Imparfait
+
+je fusais
+tu fusais
+il (elle) fusait
+nous fusions
+vous fusiez
+ils (elles) fusaient
+
+** Passé simple
+
+je fusai
+tu fusas
+il (elle) fusa
+nous fusâmes
+vous fusâtes
+ils (elles) fusèrent
+
+** Futur simple
+
+je fuserai
+tu fuseras
+il (elle) fusera
+nous fuserons
+vous fuserez
+ils (elles) fuseront
+
+* CONDITIONNEL
+
+** Présent
+
+je fuserais
+tu fuserais
+il (elle) fuserait
+nous fuserions
+vous fuseriez
+ils (elles) fuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fuse
+que tu fuses
+qu’il (elle) fuse
+que nous fusions
+que vous fusiez
+qu’ils (elles) fusent
+
+** Imparfait
+
+que je fusasse
+que tu fusasses
+qu’il (elle) fusât
+que nous fusassions
+que vous fusassiez
+qu’ils (elles) fusassent
+
+* IMPÉRATIF
+
+** Présent
+
+fuse
+fusons
+fusez
+
+* INFINITIF
+
+** Présent
+
+fuser
+
+* PARTICIPE
+
+** Présent
+
+fusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fusé
+tu as fusé
+il (elle) a fusé
+nous avons fusé
+vous avez fusé
+ils (elles) ont fusé
+
+** Plus-que-parfait
+
+j'avais fusé
+tu avais fusé
+il (elle) avait fusé
+nous avions fusé
+vous aviez fusé
+ils (elles) avaient fusé
+
+** Passé antérieur
+
+j'eus fusé
+tu eus fusé
+il (elle) eut fusé
+nous eûmes fusé
+vous eûtes fusé
+ils (elles) eurent fusé
+
+** Futur antérieur
+
+j'aurai fusé
+tu auras fusé
+il (elle) aura fusé
+nous aurons fusé
+vous aurez fusé
+ils (elles) auront fusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fusé
+tu aurais fusé
+il (elle) aurait fusé
+nous aurions fusé
+vous auriez fusé
+ils (elles) auraient fusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fusé
+que tu aies fusé
+qu’il (elle) ait fusé
+que nous ayons fusé
+que vous ayez fusé
+qu’ils (elles) aient fusé
+
+** Plus-que-parfait
+
+que j'eusse fusé
+que tu eusses fusé
+qu’il (elle) eût fusé
+que nous eussions fusé
+que vous eussiez fusé
+qu’ils (elles) eussent fusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fusé
+ayez fusé
+
+* INFINITIF
+
+** Passé
+
+avoir fusé
+
+* PARTICIPE
+
+** Passé
+
+ayant fusé
+fusé (invar.)

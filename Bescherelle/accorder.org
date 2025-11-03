@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accorder
+
+* INDICATIF
+
+** Présent
+
+j'accorde
+tu accordes
+il (elle) accorde
+nous accordons
+vous accordez
+ils (elles) accordent
+
+** Imparfait
+
+j'accordais
+tu accordais
+il (elle) accordait
+nous accordions
+vous accordiez
+ils (elles) accordaient
+
+** Passé simple
+
+j'accordai
+tu accordas
+il (elle) accorda
+nous accordâmes
+vous accordâtes
+ils (elles) accordèrent
+
+** Futur simple
+
+j'accorderai
+tu accorderas
+il (elle) accordera
+nous accorderons
+vous accorderez
+ils (elles) accorderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'accorderais
+tu accorderais
+il (elle) accorderait
+nous accorderions
+vous accorderiez
+ils (elles) accorderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accorde
+que tu accordes
+qu’il (elle) accorde
+que nous accordions
+que vous accordiez
+qu’ils (elles) accordent
+
+** Imparfait
+
+que j'accordasse
+que tu accordasses
+qu’il (elle) accordât
+que nous accordassions
+que vous accordassiez
+qu’ils (elles) accordassent
+
+* IMPÉRATIF
+
+** Présent
+
+accorde
+accordons
+accordez
+
+* INFINITIF
+
+** Présent
+
+accorder
+
+* PARTICIPE
+
+** Présent
+
+accordant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accordé
+tu as accordé
+il (elle) a accordé
+nous avons accordé
+vous avez accordé
+ils (elles) ont accordé
+
+** Plus-que-parfait
+
+j'avais accordé
+tu avais accordé
+il (elle) avait accordé
+nous avions accordé
+vous aviez accordé
+ils (elles) avaient accordé
+
+** Passé antérieur
+
+j'eus accordé
+tu eus accordé
+il (elle) eut accordé
+nous eûmes accordé
+vous eûtes accordé
+ils (elles) eurent accordé
+
+** Futur antérieur
+
+j'aurai accordé
+tu auras accordé
+il (elle) aura accordé
+nous aurons accordé
+vous aurez accordé
+ils (elles) auront accordé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accordé
+tu aurais accordé
+il (elle) aurait accordé
+nous aurions accordé
+vous auriez accordé
+ils (elles) auraient accordé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accordé
+que tu aies accordé
+qu’il (elle) ait accordé
+que nous ayons accordé
+que vous ayez accordé
+qu’ils (elles) aient accordé
+
+** Plus-que-parfait
+
+que j'eusse accordé
+que tu eusses accordé
+qu’il (elle) eût accordé
+que nous eussions accordé
+que vous eussiez accordé
+qu’ils (elles) eussent accordé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accordé
+ayez accordé
+
+* INFINITIF
+
+** Passé
+
+avoir accordé
+
+* PARTICIPE
+
+** Passé
+
+ayant accordé
+accordé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accordé(e)
+tu es accordé(e)
+il (elle) est accordé(e)
+nous sommes accordé(e)s
+vous êtes accordé(e)s
+ils (elles) sont accordé(e)s
+
+** Imparfait
+
+j'étais accordé(e)
+tu étais accordé(e)
+il (elle) était accordé(e)
+nous étions accordé(e)s
+vous étiez accordé(e)s
+ils (elles) étaient accordé(e)s
+
+** Passé simple
+
+je fus accordé(e)
+tu fus accordé(e)
+il (elle) fut accordé(e)
+nous fûmes accordé(e)s
+vous fûtes accordé(e)s
+ils (elles) furent accordé(e)s
+
+** Futur simple
+
+je serai accordé(e)
+tu seras accordé(e)
+il (elle) sera accordé(e)
+nous serons accordé(e)s
+vous serez accordé(e)s
+ils (elles) seront accordé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accordé(e)
+tu serais accordé(e)
+il (elle) serait accordé(e)
+nous serions accordé(e)s
+vous seriez accordé(e)s
+ils (elles) seraient accordé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accordé(e)
+que tu sois accordé(e)
+qu’il (elle) soit accordé(e)
+que nous soyons accordé(e)s
+que vous soyez accordé(e)s
+qu’ils (elles) soient accordé(e)s
+
+** Imparfait
+
+que je fusse accordé(e)
+que tu fusses accordé(e)
+qu’il (elle) fût accordé(e)
+que nous fussions accordé(e)s
+que vous fussiez accordé(e)s
+qu’ils (elles) fussent accordé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accordé(e)s
+soyez accordé(e)s
+
+* INFINITIF
+
+** Présent
+
+être accordé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accordé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accordé(e)
+tu as été accordé(e)
+il (elle) a été accordé(e)
+nous avons été accordé(e)s
+vous avez été accordé(e)s
+ils (elles) ont été accordé(e)s
+
+** Plus-que-parfait
+
+j'avais été accordé(e)
+il (elle) avait été accordé(e)
+nous avions été accordé(e)s
+ils (elles) avaient été accordé(e)s
+
+** Passé antérieur
+
+j'eus été accordé(e)
+tu eus été accordé(e)
+il (elle) eut été accordé(e)
+nous eûmes été accordé(e)s
+vous eûtes été accordé(e)s
+ils (elles) eurent été accordé(e)s
+
+** Futur antérieur
+
+j'aurai été accordé(e)
+tu auras été accordé(e)
+il (elle) aura été accordé(e)
+nous aurons été accordé(e)s
+vous aurez été accordé(e)s
+ils (elles) auront été accordé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accordé(e)
+j'aurais été accordé(e)
+il (elle) aurait été accordé(e)
+nous aurions été accordé(e)s
+vous auriez été accordé(e)s
+ils (elles) auraient été accordé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accordé(e)
+que tu aies été accordé(e)
+qu’il (elle) ait été accordé(e)
+que nous ayons été accordé(e)s
+que vous ayez été accordé(e)s
+qu’ils (elles) aient été accordé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accordé(e)
+que tu eusses été accordé(e)
+qu’il (elle) eût été accordé(e)
+que nous eussions été accordé(e)s
+que vous eussiez été accordé(e)s
+qu’ils (elles) eussent été accordé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accordé(e)
+ayons été accordé(e)s
+ayez été accordé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accordé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accordé(e)(s)

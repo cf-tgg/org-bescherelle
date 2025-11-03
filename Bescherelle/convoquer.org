@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convoquer
+
+* INDICATIF
+
+** Présent
+
+je convoque
+tu convoques
+il (elle) convoque
+nous convoquons
+vous convoquez
+ils (elles) convoquent
+
+** Imparfait
+
+je convoquais
+tu convoquais
+il (elle) convoquait
+nous convoquions
+vous convoquiez
+ils (elles) convoquaient
+
+** Passé simple
+
+je convoquai
+tu convoquas
+il (elle) convoqua
+nous convoquâmes
+vous convoquâtes
+ils (elles) convoquèrent
+
+** Futur simple
+
+je convoquerai
+tu convoqueras
+il (elle) convoquera
+nous convoquerons
+vous convoquerez
+ils (elles) convoqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je convoquerais
+tu convoquerais
+il (elle) convoquerait
+nous convoquerions
+vous convoqueriez
+ils (elles) convoqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convoque
+que tu convoques
+qu’il (elle) convoque
+que nous convoquions
+que vous convoquiez
+qu’ils (elles) convoquent
+
+** Imparfait
+
+que je convoquasse
+que tu convoquasses
+qu’il (elle) convoquât
+que nous convoquassions
+que vous convoquassiez
+qu’ils (elles) convoquassent
+
+* IMPÉRATIF
+
+** Présent
+
+convoque
+convoquons
+convoquez
+
+* INFINITIF
+
+** Présent
+
+convoquer
+
+* PARTICIPE
+
+** Présent
+
+convoquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai convoqué
+tu as convoqué
+il (elle) a convoqué
+nous avons convoqué
+vous avez convoqué
+ils (elles) ont convoqué
+
+** Plus-que-parfait
+
+j'avais convoqué
+tu avais convoqué
+il (elle) avait convoqué
+nous avions convoqué
+vous aviez convoqué
+ils (elles) avaient convoqué
+
+** Passé antérieur
+
+j'eus convoqué
+tu eus convoqué
+il (elle) eut convoqué
+nous eûmes convoqué
+vous eûtes convoqué
+ils (elles) eurent convoqué
+
+** Futur antérieur
+
+j'aurai convoqué
+tu auras convoqué
+il (elle) aura convoqué
+nous aurons convoqué
+vous aurez convoqué
+ils (elles) auront convoqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais convoqué
+tu aurais convoqué
+il (elle) aurait convoqué
+nous aurions convoqué
+vous auriez convoqué
+ils (elles) auraient convoqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie convoqué
+que tu aies convoqué
+qu’il (elle) ait convoqué
+que nous ayons convoqué
+que vous ayez convoqué
+qu’ils (elles) aient convoqué
+
+** Plus-que-parfait
+
+que j'eusse convoqué
+que tu eusses convoqué
+qu’il (elle) eût convoqué
+que nous eussions convoqué
+que vous eussiez convoqué
+qu’ils (elles) eussent convoqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons convoqué
+ayez convoqué
+
+* INFINITIF
+
+** Passé
+
+avoir convoqué
+
+* PARTICIPE
+
+** Passé
+
+ayant convoqué
+convoqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis convoqué(e)
+tu es convoqué(e)
+il (elle) est convoqué(e)
+nous sommes convoqué(e)s
+vous êtes convoqué(e)s
+ils (elles) sont convoqué(e)s
+
+** Imparfait
+
+j'étais convoqué(e)
+tu étais convoqué(e)
+il (elle) était convoqué(e)
+nous étions convoqué(e)s
+vous étiez convoqué(e)s
+ils (elles) étaient convoqué(e)s
+
+** Passé simple
+
+je fus convoqué(e)
+tu fus convoqué(e)
+il (elle) fut convoqué(e)
+nous fûmes convoqué(e)s
+vous fûtes convoqué(e)s
+ils (elles) furent convoqué(e)s
+
+** Futur simple
+
+je serai convoqué(e)
+tu seras convoqué(e)
+il (elle) sera convoqué(e)
+nous serons convoqué(e)s
+vous serez convoqué(e)s
+ils (elles) seront convoqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais convoqué(e)
+tu serais convoqué(e)
+il (elle) serait convoqué(e)
+nous serions convoqué(e)s
+vous seriez convoqué(e)s
+ils (elles) seraient convoqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois convoqué(e)
+que tu sois convoqué(e)
+qu’il (elle) soit convoqué(e)
+que nous soyons convoqué(e)s
+que vous soyez convoqué(e)s
+qu’ils (elles) soient convoqué(e)s
+
+** Imparfait
+
+que je fusse convoqué(e)
+que tu fusses convoqué(e)
+qu’il (elle) fût convoqué(e)
+que nous fussions convoqué(e)s
+que vous fussiez convoqué(e)s
+qu’ils (elles) fussent convoqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons convoqué(e)s
+soyez convoqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être convoqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant convoqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été convoqué(e)
+tu as été convoqué(e)
+il (elle) a été convoqué(e)
+nous avons été convoqué(e)s
+vous avez été convoqué(e)s
+ils (elles) ont été convoqué(e)s
+
+** Plus-que-parfait
+
+j'avais été convoqué(e)
+il (elle) avait été convoqué(e)
+nous avions été convoqué(e)s
+ils (elles) avaient été convoqué(e)s
+
+** Passé antérieur
+
+j'eus été convoqué(e)
+tu eus été convoqué(e)
+il (elle) eut été convoqué(e)
+nous eûmes été convoqué(e)s
+vous eûtes été convoqué(e)s
+ils (elles) eurent été convoqué(e)s
+
+** Futur antérieur
+
+j'aurai été convoqué(e)
+tu auras été convoqué(e)
+il (elle) aura été convoqué(e)
+nous aurons été convoqué(e)s
+vous aurez été convoqué(e)s
+ils (elles) auront été convoqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été convoqué(e)
+j'aurais été convoqué(e)
+il (elle) aurait été convoqué(e)
+nous aurions été convoqué(e)s
+vous auriez été convoqué(e)s
+ils (elles) auraient été convoqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été convoqué(e)
+que tu aies été convoqué(e)
+qu’il (elle) ait été convoqué(e)
+que nous ayons été convoqué(e)s
+que vous ayez été convoqué(e)s
+qu’ils (elles) aient été convoqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été convoqué(e)
+que tu eusses été convoqué(e)
+qu’il (elle) eût été convoqué(e)
+que nous eussions été convoqué(e)s
+que vous eussiez été convoqué(e)s
+qu’ils (elles) eussent été convoqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été convoqué(e)
+ayons été convoqué(e)s
+ayez été convoqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été convoqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été convoqué(e)(s)

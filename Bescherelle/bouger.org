@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouger
+
+* INDICATIF
+
+** Présent
+
+je bouge
+tu bouges
+il (elle) bouge
+nous bougeons
+vous bougez
+ils (elles) bougent
+
+** Imparfait
+
+je bougeais
+tu bougeais
+il (elle) bougeait
+nous bougions
+vous bougiez
+ils (elles) bougeaient
+
+** Passé simple
+
+je bougeai
+tu bougeas
+il (elle) bougea
+nous bougeâmes
+vous bougeâtes
+ils (elles) bougèrent
+
+** Futur simple
+
+je bougerai
+tu bougeras
+il (elle) bougera
+nous bougerons
+vous bougerez
+ils (elles) bougeront
+
+* CONDITIONNEL
+
+** Présent
+
+je bougerais
+tu bougerais
+il (elle) bougerait
+nous bougerions
+vous bougeriez
+ils (elles) bougeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bouge
+que tu bouges
+qu’il (elle) bouge
+que nous bougions
+que vous bougiez
+qu’ils (elles) bougent
+
+** Imparfait
+
+que je bougeasse
+que tu bougeasses
+qu’il (elle) bougeât
+que nous bougeassions
+que vous bougeassiez
+qu’ils (elles) bougeassent
+
+* IMPÉRATIF
+
+** Présent
+
+bouge
+bougeons
+bougez
+
+* INFINITIF
+
+** Présent
+
+bouger
+
+* PARTICIPE
+
+** Présent
+
+bougeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bougé
+tu as bougé
+il (elle) a bougé
+nous avons bougé
+vous avez bougé
+ils (elles) ont bougé
+
+** Plus-que-parfait
+
+j'avais bougé
+tu avais bougé
+il (elle) avait bougé
+nous avions bougé
+vous aviez bougé
+ils (elles) avaient bougé
+
+** Passé antérieur
+
+j'eus bougé
+tu eus bougé
+il (elle) eut bougé
+nous eûmes bougé
+vous eûtes bougé
+ils (elles) eurent bougé
+
+** Futur antérieur
+
+j'aurai bougé
+tu auras bougé
+il (elle) aura bougé
+nous aurons bougé
+vous aurez bougé
+ils (elles) auront bougé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bougé
+tu aurais bougé
+il (elle) aurait bougé
+nous aurions bougé
+vous auriez bougé
+ils (elles) auraient bougé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bougé
+que tu aies bougé
+qu’il (elle) ait bougé
+que nous ayons bougé
+que vous ayez bougé
+qu’ils (elles) aient bougé
+
+** Plus-que-parfait
+
+que j'eusse bougé
+que tu eusses bougé
+qu’il (elle) eût bougé
+que nous eussions bougé
+que vous eussiez bougé
+qu’ils (elles) eussent bougé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bougé
+ayez bougé
+
+* INFINITIF
+
+** Passé
+
+avoir bougé
+
+* PARTICIPE
+
+** Passé
+
+ayant bougé
+bougé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bougé(e)
+tu es bougé(e)
+il (elle) est bougé(e)
+nous sommes bougé(e)s
+vous êtes bougé(e)s
+ils (elles) sont bougé(e)s
+
+** Imparfait
+
+j'étais bougé(e)
+tu étais bougé(e)
+il (elle) était bougé(e)
+nous étions bougé(e)s
+vous étiez bougé(e)s
+ils (elles) étaient bougé(e)s
+
+** Passé simple
+
+je fus bougé(e)
+tu fus bougé(e)
+il (elle) fut bougé(e)
+nous fûmes bougé(e)s
+vous fûtes bougé(e)s
+ils (elles) furent bougé(e)s
+
+** Futur simple
+
+je serai bougé(e)
+tu seras bougé(e)
+il (elle) sera bougé(e)
+nous serons bougé(e)s
+vous serez bougé(e)s
+ils (elles) seront bougé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bougé(e)
+tu serais bougé(e)
+il (elle) serait bougé(e)
+nous serions bougé(e)s
+vous seriez bougé(e)s
+ils (elles) seraient bougé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bougé(e)
+que tu sois bougé(e)
+qu’il (elle) soit bougé(e)
+que nous soyons bougé(e)s
+que vous soyez bougé(e)s
+qu’ils (elles) soient bougé(e)s
+
+** Imparfait
+
+que je fusse bougé(e)
+que tu fusses bougé(e)
+qu’il (elle) fût bougé(e)
+que nous fussions bougé(e)s
+que vous fussiez bougé(e)s
+qu’ils (elles) fussent bougé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bougé(e)s
+soyez bougé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bougé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bougé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bougé(e)
+tu as été bougé(e)
+il (elle) a été bougé(e)
+nous avons été bougé(e)s
+vous avez été bougé(e)s
+ils (elles) ont été bougé(e)s
+
+** Plus-que-parfait
+
+j'avais été bougé(e)
+il (elle) avait été bougé(e)
+nous avions été bougé(e)s
+ils (elles) avaient été bougé(e)s
+
+** Passé antérieur
+
+j'eus été bougé(e)
+tu eus été bougé(e)
+il (elle) eut été bougé(e)
+nous eûmes été bougé(e)s
+vous eûtes été bougé(e)s
+ils (elles) eurent été bougé(e)s
+
+** Futur antérieur
+
+j'aurai été bougé(e)
+tu auras été bougé(e)
+il (elle) aura été bougé(e)
+nous aurons été bougé(e)s
+vous aurez été bougé(e)s
+ils (elles) auront été bougé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bougé(e)
+j'aurais été bougé(e)
+il (elle) aurait été bougé(e)
+nous aurions été bougé(e)s
+vous auriez été bougé(e)s
+ils (elles) auraient été bougé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bougé(e)
+que tu aies été bougé(e)
+qu’il (elle) ait été bougé(e)
+que nous ayons été bougé(e)s
+que vous ayez été bougé(e)s
+qu’ils (elles) aient été bougé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bougé(e)
+que tu eusses été bougé(e)
+qu’il (elle) eût été bougé(e)
+que nous eussions été bougé(e)s
+que vous eussiez été bougé(e)s
+qu’ils (elles) eussent été bougé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bougé(e)
+ayons été bougé(e)s
+ayez été bougé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bougé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bougé(e)(s)

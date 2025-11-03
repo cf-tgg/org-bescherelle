@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bricoler
+
+* INDICATIF
+
+** Présent
+
+je bricole
+tu bricoles
+il (elle) bricole
+nous bricolons
+vous bricolez
+ils (elles) bricolent
+
+** Imparfait
+
+je bricolais
+tu bricolais
+il (elle) bricolait
+nous bricolions
+vous bricoliez
+ils (elles) bricolaient
+
+** Passé simple
+
+je bricolai
+tu bricolas
+il (elle) bricola
+nous bricolâmes
+vous bricolâtes
+ils (elles) bricolèrent
+
+** Futur simple
+
+je bricolerai
+tu bricoleras
+il (elle) bricolera
+nous bricolerons
+vous bricolerez
+ils (elles) bricoleront
+
+* CONDITIONNEL
+
+** Présent
+
+je bricolerais
+tu bricolerais
+il (elle) bricolerait
+nous bricolerions
+vous bricoleriez
+ils (elles) bricoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bricole
+que tu bricoles
+qu’il (elle) bricole
+que nous bricolions
+que vous bricoliez
+qu’ils (elles) bricolent
+
+** Imparfait
+
+que je bricolasse
+que tu bricolasses
+qu’il (elle) bricolât
+que nous bricolassions
+que vous bricolassiez
+qu’ils (elles) bricolassent
+
+* IMPÉRATIF
+
+** Présent
+
+bricole
+bricolons
+bricolez
+
+* INFINITIF
+
+** Présent
+
+bricoler
+
+* PARTICIPE
+
+** Présent
+
+bricolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bricolé
+tu as bricolé
+il (elle) a bricolé
+nous avons bricolé
+vous avez bricolé
+ils (elles) ont bricolé
+
+** Plus-que-parfait
+
+j'avais bricolé
+tu avais bricolé
+il (elle) avait bricolé
+nous avions bricolé
+vous aviez bricolé
+ils (elles) avaient bricolé
+
+** Passé antérieur
+
+j'eus bricolé
+tu eus bricolé
+il (elle) eut bricolé
+nous eûmes bricolé
+vous eûtes bricolé
+ils (elles) eurent bricolé
+
+** Futur antérieur
+
+j'aurai bricolé
+tu auras bricolé
+il (elle) aura bricolé
+nous aurons bricolé
+vous aurez bricolé
+ils (elles) auront bricolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bricolé
+tu aurais bricolé
+il (elle) aurait bricolé
+nous aurions bricolé
+vous auriez bricolé
+ils (elles) auraient bricolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bricolé
+que tu aies bricolé
+qu’il (elle) ait bricolé
+que nous ayons bricolé
+que vous ayez bricolé
+qu’ils (elles) aient bricolé
+
+** Plus-que-parfait
+
+que j'eusse bricolé
+que tu eusses bricolé
+qu’il (elle) eût bricolé
+que nous eussions bricolé
+que vous eussiez bricolé
+qu’ils (elles) eussent bricolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bricolé
+ayez bricolé
+
+* INFINITIF
+
+** Passé
+
+avoir bricolé
+
+* PARTICIPE
+
+** Passé
+
+ayant bricolé
+bricolé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bricolé(e)
+tu es bricolé(e)
+il (elle) est bricolé(e)
+nous sommes bricolé(e)s
+vous êtes bricolé(e)s
+ils (elles) sont bricolé(e)s
+
+** Imparfait
+
+j'étais bricolé(e)
+tu étais bricolé(e)
+il (elle) était bricolé(e)
+nous étions bricolé(e)s
+vous étiez bricolé(e)s
+ils (elles) étaient bricolé(e)s
+
+** Passé simple
+
+je fus bricolé(e)
+tu fus bricolé(e)
+il (elle) fut bricolé(e)
+nous fûmes bricolé(e)s
+vous fûtes bricolé(e)s
+ils (elles) furent bricolé(e)s
+
+** Futur simple
+
+je serai bricolé(e)
+tu seras bricolé(e)
+il (elle) sera bricolé(e)
+nous serons bricolé(e)s
+vous serez bricolé(e)s
+ils (elles) seront bricolé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bricolé(e)
+tu serais bricolé(e)
+il (elle) serait bricolé(e)
+nous serions bricolé(e)s
+vous seriez bricolé(e)s
+ils (elles) seraient bricolé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bricolé(e)
+que tu sois bricolé(e)
+qu’il (elle) soit bricolé(e)
+que nous soyons bricolé(e)s
+que vous soyez bricolé(e)s
+qu’ils (elles) soient bricolé(e)s
+
+** Imparfait
+
+que je fusse bricolé(e)
+que tu fusses bricolé(e)
+qu’il (elle) fût bricolé(e)
+que nous fussions bricolé(e)s
+que vous fussiez bricolé(e)s
+qu’ils (elles) fussent bricolé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bricolé(e)s
+soyez bricolé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bricolé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bricolé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bricolé(e)
+tu as été bricolé(e)
+il (elle) a été bricolé(e)
+nous avons été bricolé(e)s
+vous avez été bricolé(e)s
+ils (elles) ont été bricolé(e)s
+
+** Plus-que-parfait
+
+j'avais été bricolé(e)
+il (elle) avait été bricolé(e)
+nous avions été bricolé(e)s
+ils (elles) avaient été bricolé(e)s
+
+** Passé antérieur
+
+j'eus été bricolé(e)
+tu eus été bricolé(e)
+il (elle) eut été bricolé(e)
+nous eûmes été bricolé(e)s
+vous eûtes été bricolé(e)s
+ils (elles) eurent été bricolé(e)s
+
+** Futur antérieur
+
+j'aurai été bricolé(e)
+tu auras été bricolé(e)
+il (elle) aura été bricolé(e)
+nous aurons été bricolé(e)s
+vous aurez été bricolé(e)s
+ils (elles) auront été bricolé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bricolé(e)
+j'aurais été bricolé(e)
+il (elle) aurait été bricolé(e)
+nous aurions été bricolé(e)s
+vous auriez été bricolé(e)s
+ils (elles) auraient été bricolé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bricolé(e)
+que tu aies été bricolé(e)
+qu’il (elle) ait été bricolé(e)
+que nous ayons été bricolé(e)s
+que vous ayez été bricolé(e)s
+qu’ils (elles) aient été bricolé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bricolé(e)
+que tu eusses été bricolé(e)
+qu’il (elle) eût été bricolé(e)
+que nous eussions été bricolé(e)s
+que vous eussiez été bricolé(e)s
+qu’ils (elles) eussent été bricolé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bricolé(e)
+ayons été bricolé(e)s
+ayez été bricolé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bricolé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bricolé(e)(s)

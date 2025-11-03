@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enrhumer
+
+* INDICATIF
+
+** Présent
+
+j'enrhume
+tu enrhumes
+il (elle) enrhume
+nous enrhumons
+vous enrhumez
+ils (elles) enrhument
+
+** Imparfait
+
+j'enrhumais
+tu enrhumais
+il (elle) enrhumait
+nous enrhumions
+vous enrhumiez
+ils (elles) enrhumaient
+
+** Passé simple
+
+j'enrhumai
+tu enrhumas
+il (elle) enrhuma
+nous enrhumâmes
+vous enrhumâtes
+ils (elles) enrhumèrent
+
+** Futur simple
+
+j'enrhumerai
+tu enrhumeras
+il (elle) enrhumera
+nous enrhumerons
+vous enrhumerez
+ils (elles) enrhumeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enrhumerais
+tu enrhumerais
+il (elle) enrhumerait
+nous enrhumerions
+vous enrhumeriez
+ils (elles) enrhumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enrhume
+que tu enrhumes
+qu’il (elle) enrhume
+que nous enrhumions
+que vous enrhumiez
+qu’ils (elles) enrhument
+
+** Imparfait
+
+que j'enrhumasse
+que tu enrhumasses
+qu’il (elle) enrhumât
+que nous enrhumassions
+que vous enrhumassiez
+qu’ils (elles) enrhumassent
+
+* IMPÉRATIF
+
+** Présent
+
+enrhume
+enrhumons
+enrhumez
+
+* INFINITIF
+
+** Présent
+
+enrhumer
+
+* PARTICIPE
+
+** Présent
+
+enrhumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enrhumé
+tu as enrhumé
+il (elle) a enrhumé
+nous avons enrhumé
+vous avez enrhumé
+ils (elles) ont enrhumé
+
+** Plus-que-parfait
+
+j'avais enrhumé
+tu avais enrhumé
+il (elle) avait enrhumé
+nous avions enrhumé
+vous aviez enrhumé
+ils (elles) avaient enrhumé
+
+** Passé antérieur
+
+j'eus enrhumé
+tu eus enrhumé
+il (elle) eut enrhumé
+nous eûmes enrhumé
+vous eûtes enrhumé
+ils (elles) eurent enrhumé
+
+** Futur antérieur
+
+j'aurai enrhumé
+tu auras enrhumé
+il (elle) aura enrhumé
+nous aurons enrhumé
+vous aurez enrhumé
+ils (elles) auront enrhumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enrhumé
+tu aurais enrhumé
+il (elle) aurait enrhumé
+nous aurions enrhumé
+vous auriez enrhumé
+ils (elles) auraient enrhumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enrhumé
+que tu aies enrhumé
+qu’il (elle) ait enrhumé
+que nous ayons enrhumé
+que vous ayez enrhumé
+qu’ils (elles) aient enrhumé
+
+** Plus-que-parfait
+
+que j'eusse enrhumé
+que tu eusses enrhumé
+qu’il (elle) eût enrhumé
+que nous eussions enrhumé
+que vous eussiez enrhumé
+qu’ils (elles) eussent enrhumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enrhumé
+ayez enrhumé
+
+* INFINITIF
+
+** Passé
+
+avoir enrhumé
+
+* PARTICIPE
+
+** Passé
+
+ayant enrhumé
+enrhumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enrhumé(e)
+tu es enrhumé(e)
+il (elle) est enrhumé(e)
+nous sommes enrhumé(e)s
+vous êtes enrhumé(e)s
+ils (elles) sont enrhumé(e)s
+
+** Imparfait
+
+j'étais enrhumé(e)
+tu étais enrhumé(e)
+il (elle) était enrhumé(e)
+nous étions enrhumé(e)s
+vous étiez enrhumé(e)s
+ils (elles) étaient enrhumé(e)s
+
+** Passé simple
+
+je fus enrhumé(e)
+tu fus enrhumé(e)
+il (elle) fut enrhumé(e)
+nous fûmes enrhumé(e)s
+vous fûtes enrhumé(e)s
+ils (elles) furent enrhumé(e)s
+
+** Futur simple
+
+je serai enrhumé(e)
+tu seras enrhumé(e)
+il (elle) sera enrhumé(e)
+nous serons enrhumé(e)s
+vous serez enrhumé(e)s
+ils (elles) seront enrhumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enrhumé(e)
+tu serais enrhumé(e)
+il (elle) serait enrhumé(e)
+nous serions enrhumé(e)s
+vous seriez enrhumé(e)s
+ils (elles) seraient enrhumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enrhumé(e)
+que tu sois enrhumé(e)
+qu’il (elle) soit enrhumé(e)
+que nous soyons enrhumé(e)s
+que vous soyez enrhumé(e)s
+qu’ils (elles) soient enrhumé(e)s
+
+** Imparfait
+
+que je fusse enrhumé(e)
+que tu fusses enrhumé(e)
+qu’il (elle) fût enrhumé(e)
+que nous fussions enrhumé(e)s
+que vous fussiez enrhumé(e)s
+qu’ils (elles) fussent enrhumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enrhumé(e)s
+soyez enrhumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être enrhumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enrhumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enrhumé(e)
+tu as été enrhumé(e)
+il (elle) a été enrhumé(e)
+nous avons été enrhumé(e)s
+vous avez été enrhumé(e)s
+ils (elles) ont été enrhumé(e)s
+
+** Plus-que-parfait
+
+j'avais été enrhumé(e)
+il (elle) avait été enrhumé(e)
+nous avions été enrhumé(e)s
+ils (elles) avaient été enrhumé(e)s
+
+** Passé antérieur
+
+j'eus été enrhumé(e)
+tu eus été enrhumé(e)
+il (elle) eut été enrhumé(e)
+nous eûmes été enrhumé(e)s
+vous eûtes été enrhumé(e)s
+ils (elles) eurent été enrhumé(e)s
+
+** Futur antérieur
+
+j'aurai été enrhumé(e)
+tu auras été enrhumé(e)
+il (elle) aura été enrhumé(e)
+nous aurons été enrhumé(e)s
+vous aurez été enrhumé(e)s
+ils (elles) auront été enrhumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enrhumé(e)
+j'aurais été enrhumé(e)
+il (elle) aurait été enrhumé(e)
+nous aurions été enrhumé(e)s
+vous auriez été enrhumé(e)s
+ils (elles) auraient été enrhumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enrhumé(e)
+que tu aies été enrhumé(e)
+qu’il (elle) ait été enrhumé(e)
+que nous ayons été enrhumé(e)s
+que vous ayez été enrhumé(e)s
+qu’ils (elles) aient été enrhumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enrhumé(e)
+que tu eusses été enrhumé(e)
+qu’il (elle) eût été enrhumé(e)
+que nous eussions été enrhumé(e)s
+que vous eussiez été enrhumé(e)s
+qu’ils (elles) eussent été enrhumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enrhumé(e)
+ayons été enrhumé(e)s
+ayez été enrhumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enrhumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enrhumé(e)(s)

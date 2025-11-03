@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe plier
+
+* INDICATIF
+
+** Présent
+
+je plie
+tu plies
+il (elle) plie
+nous plions
+vous pliez
+ils (elles) plient
+
+** Imparfait
+
+je pliais
+tu pliais
+il (elle) pliait
+nous pliions
+vous pliiez
+ils (elles) pliaient
+
+** Passé simple
+
+je pliai
+tu plias
+il (elle) plia
+nous pliâmes
+vous pliâtes
+ils (elles) plièrent
+
+** Futur simple
+
+je plierai
+tu plieras
+il (elle) pliera
+nous plierons
+vous plierez
+ils (elles) plieront
+
+* CONDITIONNEL
+
+** Présent
+
+je plierais
+tu plierais
+il (elle) plierait
+nous plierions
+vous plieriez
+ils (elles) plieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plie
+que tu plies
+qu’il (elle) plie
+que nous pliions
+que vous pliiez
+qu’ils (elles) plient
+
+** Imparfait
+
+que je pliasse
+que tu pliasses
+qu’il (elle) pliât
+que nous pliassions
+que vous pliassiez
+qu’ils (elles) pliassent
+
+* IMPÉRATIF
+
+** Présent
+
+plie
+plions
+pliez
+
+* INFINITIF
+
+** Présent
+
+plier
+
+* PARTICIPE
+
+** Présent
+
+pliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plié
+tu as plié
+il (elle) a plié
+nous avons plié
+vous avez plié
+ils (elles) ont plié
+
+** Plus-que-parfait
+
+j'avais plié
+tu avais plié
+il (elle) avait plié
+nous avions plié
+vous aviez plié
+ils (elles) avaient plié
+
+** Passé antérieur
+
+j'eus plié
+tu eus plié
+il (elle) eut plié
+nous eûmes plié
+vous eûtes plié
+ils (elles) eurent plié
+
+** Futur antérieur
+
+j'aurai plié
+tu auras plié
+il (elle) aura plié
+nous aurons plié
+vous aurez plié
+ils (elles) auront plié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plié
+tu aurais plié
+il (elle) aurait plié
+nous aurions plié
+vous auriez plié
+ils (elles) auraient plié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plié
+que tu aies plié
+qu’il (elle) ait plié
+que nous ayons plié
+que vous ayez plié
+qu’ils (elles) aient plié
+
+** Plus-que-parfait
+
+que j'eusse plié
+que tu eusses plié
+qu’il (elle) eût plié
+que nous eussions plié
+que vous eussiez plié
+qu’ils (elles) eussent plié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plié
+ayez plié
+
+* INFINITIF
+
+** Passé
+
+avoir plié
+
+* PARTICIPE
+
+** Passé
+
+ayant plié
+plié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis plié(e)
+tu es plié(e)
+il (elle) est plié(e)
+nous sommes plié(e)s
+vous êtes plié(e)s
+ils (elles) sont plié(e)s
+
+** Imparfait
+
+j'étais plié(e)
+tu étais plié(e)
+il (elle) était plié(e)
+nous étions plié(e)s
+vous étiez plié(e)s
+ils (elles) étaient plié(e)s
+
+** Passé simple
+
+je fus plié(e)
+tu fus plié(e)
+il (elle) fut plié(e)
+nous fûmes plié(e)s
+vous fûtes plié(e)s
+ils (elles) furent plié(e)s
+
+** Futur simple
+
+je serai plié(e)
+tu seras plié(e)
+il (elle) sera plié(e)
+nous serons plié(e)s
+vous serez plié(e)s
+ils (elles) seront plié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais plié(e)
+tu serais plié(e)
+il (elle) serait plié(e)
+nous serions plié(e)s
+vous seriez plié(e)s
+ils (elles) seraient plié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois plié(e)
+que tu sois plié(e)
+qu’il (elle) soit plié(e)
+que nous soyons plié(e)s
+que vous soyez plié(e)s
+qu’ils (elles) soient plié(e)s
+
+** Imparfait
+
+que je fusse plié(e)
+que tu fusses plié(e)
+qu’il (elle) fût plié(e)
+que nous fussions plié(e)s
+que vous fussiez plié(e)s
+qu’ils (elles) fussent plié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons plié(e)s
+soyez plié(e)s
+
+* INFINITIF
+
+** Présent
+
+être plié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant plié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été plié(e)
+tu as été plié(e)
+il (elle) a été plié(e)
+nous avons été plié(e)s
+vous avez été plié(e)s
+ils (elles) ont été plié(e)s
+
+** Plus-que-parfait
+
+j'avais été plié(e)
+il (elle) avait été plié(e)
+nous avions été plié(e)s
+ils (elles) avaient été plié(e)s
+
+** Passé antérieur
+
+j'eus été plié(e)
+tu eus été plié(e)
+il (elle) eut été plié(e)
+nous eûmes été plié(e)s
+vous eûtes été plié(e)s
+ils (elles) eurent été plié(e)s
+
+** Futur antérieur
+
+j'aurai été plié(e)
+tu auras été plié(e)
+il (elle) aura été plié(e)
+nous aurons été plié(e)s
+vous aurez été plié(e)s
+ils (elles) auront été plié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été plié(e)
+j'aurais été plié(e)
+il (elle) aurait été plié(e)
+nous aurions été plié(e)s
+vous auriez été plié(e)s
+ils (elles) auraient été plié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été plié(e)
+que tu aies été plié(e)
+qu’il (elle) ait été plié(e)
+que nous ayons été plié(e)s
+que vous ayez été plié(e)s
+qu’ils (elles) aient été plié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été plié(e)
+que tu eusses été plié(e)
+qu’il (elle) eût été plié(e)
+que nous eussions été plié(e)s
+que vous eussiez été plié(e)s
+qu’ils (elles) eussent été plié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été plié(e)
+ayons été plié(e)s
+ayez été plié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été plié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été plié(e)(s)

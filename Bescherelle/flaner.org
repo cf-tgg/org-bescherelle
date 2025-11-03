@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe flaner
+
+* INDICATIF
+
+** Présent
+
+je flâne
+tu flânes
+il (elle) flâne
+nous flânons
+vous flânez
+ils (elles) flânent
+
+** Imparfait
+
+je flânais
+tu flânais
+il (elle) flânait
+nous flânions
+vous flâniez
+ils (elles) flânaient
+
+** Passé simple
+
+je flânai
+tu flânas
+il (elle) flâna
+nous flânâmes
+vous flânâtes
+ils (elles) flânèrent
+
+** Futur simple
+
+je flânerai
+tu flâneras
+il (elle) flânera
+nous flânerons
+vous flânerez
+ils (elles) flâneront
+
+* CONDITIONNEL
+
+** Présent
+
+je flânerais
+tu flânerais
+il (elle) flânerait
+nous flânerions
+vous flâneriez
+ils (elles) flâneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je flâne
+que tu flânes
+qu’il (elle) flâne
+que nous flânions
+que vous flâniez
+qu’ils (elles) flânent
+
+** Imparfait
+
+que je flânasse
+que tu flânasses
+qu’il (elle) flânât
+que nous flânassions
+que vous flânassiez
+qu’ils (elles) flânassent
+
+* IMPÉRATIF
+
+** Présent
+
+flâne
+flânons
+flânez
+
+* INFINITIF
+
+** Présent
+
+flâner
+
+* PARTICIPE
+
+** Présent
+
+flânant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai flâné
+tu as flâné
+il (elle) a flâné
+nous avons flâné
+vous avez flâné
+ils (elles) ont flâné
+
+** Plus-que-parfait
+
+j'avais flâné
+tu avais flâné
+il (elle) avait flâné
+nous avions flâné
+vous aviez flâné
+ils (elles) avaient flâné
+
+** Passé antérieur
+
+j'eus flâné
+tu eus flâné
+il (elle) eut flâné
+nous eûmes flâné
+vous eûtes flâné
+ils (elles) eurent flâné
+
+** Futur antérieur
+
+j'aurai flâné
+tu auras flâné
+il (elle) aura flâné
+nous aurons flâné
+vous aurez flâné
+ils (elles) auront flâné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais flâné
+tu aurais flâné
+il (elle) aurait flâné
+nous aurions flâné
+vous auriez flâné
+ils (elles) auraient flâné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie flâné
+que tu aies flâné
+qu’il (elle) ait flâné
+que nous ayons flâné
+que vous ayez flâné
+qu’ils (elles) aient flâné
+
+** Plus-que-parfait
+
+que j'eusse flâné
+que tu eusses flâné
+qu’il (elle) eût flâné
+que nous eussions flâné
+que vous eussiez flâné
+qu’ils (elles) eussent flâné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons flâné
+ayez flâné
+
+* INFINITIF
+
+** Passé
+
+avoir flâné
+
+* PARTICIPE
+
+** Passé
+
+ayant flâné
+flâné (invar.)

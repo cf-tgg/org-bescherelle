@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe appendre
+
+* INDICATIF
+
+** Présent
+
+j'appends
+tu appends
+il (elle) append
+nous appendons
+vous appendez
+ils (elles) appendent
+
+** Imparfait
+
+j'appendais
+tu appendais
+il (elle) appendait
+nous appendions
+vous appendiez
+ils (elles) appendaient
+
+** Passé simple
+
+j'appendis
+tu appendis
+il (elle) appendit
+nous appendîmes
+vous appendîtes
+ils (elles) appendirent
+
+** Futur simple
+
+j'appendrai
+tu appendras
+il (elle) appendra
+nous appendrons
+vous appendrez
+ils (elles) appendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'appendrais
+tu appendrais
+il (elle) appendrait
+nous appendrions
+vous appendriez
+ils (elles) appendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'appende
+que tu appendes
+qu’il (elle) appende
+que nous appendions
+que vous appendiez
+qu’ils (elles) appendent
+
+** Imparfait
+
+que j'appendisse
+que tu appendisses
+qu’il (elle) appendît
+que nous appendissions
+que vous appendissiez
+qu’ils (elles) appendissent
+
+* IMPÉRATIF
+
+** Présent
+
+appends
+appendons
+appendez
+
+* INFINITIF
+
+** Présent
+
+appendre
+
+* PARTICIPE
+
+** Présent
+
+appendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai appendu
+tu as appendu
+il (elle) a appendu
+nous avons appendu
+vous avez appendu
+ils (elles) ont appendu
+
+** Plus-que-parfait
+
+j'avais appendu
+tu avais appendu
+il (elle) avait appendu
+nous avions appendu
+vous aviez appendu
+ils (elles) avaient appendu
+
+** Passé antérieur
+
+j'eus appendu
+tu eus appendu
+il (elle) eut appendu
+nous eûmes appendu
+vous eûtes appendu
+ils (elles) eurent appendu
+
+** Futur antérieur
+
+j'aurai appendu
+tu auras appendu
+il (elle) aura appendu
+nous aurons appendu
+vous aurez appendu
+ils (elles) auront appendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais appendu
+tu aurais appendu
+il (elle) aurait appendu
+nous aurions appendu
+vous auriez appendu
+ils (elles) auraient appendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie appendu
+que tu aies appendu
+qu’il (elle) ait appendu
+que nous ayons appendu
+que vous ayez appendu
+qu’ils (elles) aient appendu
+
+** Plus-que-parfait
+
+que j'eusse appendu
+que tu eusses appendu
+qu’il (elle) eût appendu
+que nous eussions appendu
+que vous eussiez appendu
+qu’ils (elles) eussent appendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons appendu
+ayez appendu
+
+* INFINITIF
+
+** Passé
+
+avoir appendu
+
+* PARTICIPE
+
+** Passé
+
+ayant appendu
+appendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis appendu(e)
+tu es appendu(e)
+il (elle) est appendu(e)
+nous sommes appendu(e)s
+vous êtes appendu(e)s
+ils (elles) sont appendu(e)s
+
+** Imparfait
+
+j'étais appendu(e)
+tu étais appendu(e)
+il (elle) était appendu(e)
+nous étions appendu(e)s
+vous étiez appendu(e)s
+ils (elles) étaient appendu(e)s
+
+** Passé simple
+
+je fus appendu(e)
+tu fus appendu(e)
+il (elle) fut appendu(e)
+nous fûmes appendu(e)s
+vous fûtes appendu(e)s
+ils (elles) furent appendu(e)s
+
+** Futur simple
+
+je serai appendu(e)
+tu seras appendu(e)
+il (elle) sera appendu(e)
+nous serons appendu(e)s
+vous serez appendu(e)s
+ils (elles) seront appendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais appendu(e)
+tu serais appendu(e)
+il (elle) serait appendu(e)
+nous serions appendu(e)s
+vous seriez appendu(e)s
+ils (elles) seraient appendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois appendu(e)
+que tu sois appendu(e)
+qu’il (elle) soit appendu(e)
+que nous soyons appendu(e)s
+que vous soyez appendu(e)s
+qu’ils (elles) soient appendu(e)s
+
+** Imparfait
+
+que je fusse appendu(e)
+que tu fusses appendu(e)
+qu’il (elle) fût appendu(e)
+que nous fussions appendu(e)s
+que vous fussiez appendu(e)s
+qu’ils (elles) fussent appendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons appendu(e)s
+soyez appendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être appendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant appendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été appendu(e)
+tu as été appendu(e)
+il (elle) a été appendu(e)
+nous avons été appendu(e)s
+vous avez été appendu(e)s
+ils (elles) ont été appendu(e)s
+
+** Plus-que-parfait
+
+j'avais été appendu(e)
+il (elle) avait été appendu(e)
+nous avions été appendu(e)s
+ils (elles) avaient été appendu(e)s
+
+** Passé antérieur
+
+j'eus été appendu(e)
+tu eus été appendu(e)
+il (elle) eut été appendu(e)
+nous eûmes été appendu(e)s
+vous eûtes été appendu(e)s
+ils (elles) eurent été appendu(e)s
+
+** Futur antérieur
+
+j'aurai été appendu(e)
+tu auras été appendu(e)
+il (elle) aura été appendu(e)
+nous aurons été appendu(e)s
+vous aurez été appendu(e)s
+ils (elles) auront été appendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été appendu(e)
+j'aurais été appendu(e)
+il (elle) aurait été appendu(e)
+nous aurions été appendu(e)s
+vous auriez été appendu(e)s
+ils (elles) auraient été appendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été appendu(e)
+que tu aies été appendu(e)
+qu’il (elle) ait été appendu(e)
+que nous ayons été appendu(e)s
+que vous ayez été appendu(e)s
+qu’ils (elles) aient été appendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été appendu(e)
+que tu eusses été appendu(e)
+qu’il (elle) eût été appendu(e)
+que nous eussions été appendu(e)s
+que vous eussiez été appendu(e)s
+qu’ils (elles) eussent été appendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été appendu(e)
+ayons été appendu(e)s
+ayez été appendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été appendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été appendu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ouir
+
+* INDICATIF
+
+** Présent
+
+j'ois
+tu ois
+il (elle) oit
+nous oyons
+vous oyez
+ils (elles) oient
+
+** Imparfait
+
+j'oyais
+tu oyais
+il (elle) oyait
+nous oyions
+vous oyiez
+ils (elles) oyaient
+
+** Passé simple
+
+j'ouïs
+tu ouïs
+il (elle) ouït
+nous ouïmes
+vous ouïtes
+ils (elles) ouïrent
+
+** Futur simple
+
+j'ouïrai
+tu ouïras
+il (elle) ouïra
+nous ouïrons
+vous ouïrez
+ils (elles) ouïront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ouïrais
+tu ouïrais
+il (elle) ouïrait
+nous ouïrions
+vous ouïriez
+ils (elles) ouïraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oie
+que tu oies
+qu’il (elle) oie
+que nous oyions
+que vous oyiez
+qu’ils (elles) oient
+
+** Imparfait
+
+que j'ouïsse
+que tu ouïsses
+qu’il (elle) ouït
+que nous ouïssions
+que vous ouïssiez
+qu’ils (elles) ouïssent
+
+* IMPÉRATIF
+
+** Présent
+
+ois
+oyons
+oyez
+
+* INFINITIF
+
+** Présent
+
+ouïr
+
+* PARTICIPE
+
+** Présent
+
+oyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ouï
+tu as ouï
+il (elle) a ouï
+nous avons ouï
+vous avez ouï
+ils (elles) ont ouï
+
+** Plus-que-parfait
+
+j'avais ouï
+tu avais ouï
+il (elle) avait ouï
+nous avions ouï
+vous aviez ouï
+ils (elles) avaient ouï
+
+** Passé antérieur
+
+j'eus ouï
+tu eus ouï
+il (elle) eut ouï
+nous eûmes ouï
+vous eûtes ouï
+ils (elles) eurent ouï
+
+** Futur antérieur
+
+j'aurai ouï
+tu auras ouï
+il (elle) aura ouï
+nous aurons ouï
+vous aurez ouï
+ils (elles) auront ouï
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ouï
+tu aurais ouï
+il (elle) aurait ouï
+nous aurions ouï
+vous auriez ouï
+ils (elles) auraient ouï
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ouï
+que tu aies ouï
+qu’il (elle) ait ouï
+que nous ayons ouï
+que vous ayez ouï
+qu’ils (elles) aient ouï
+
+** Plus-que-parfait
+
+que j'eusse ouï
+que tu eusses ouï
+qu’il (elle) eût ouï
+que nous eussions ouï
+que vous eussiez ouï
+qu’ils (elles) eussent ouï
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ouï
+ayez ouï
+
+* INFINITIF
+
+** Passé
+
+avoir ouï
+
+* PARTICIPE
+
+** Passé
+
+ayant ouï
+ouï (ï, ïe, ïs, ïes)
+
+* INDICATIF
+
+** Présent
+
+je suis ouï(e)
+tu es ouï(e)
+il (elle) est ouï(e)
+nous sommes ouï(e)s
+vous êtes ouï(e)s
+ils (elles) sont ouï(e)s
+
+** Imparfait
+
+j'étais ouï(e)
+tu étais ouï(e)
+il (elle) était ouï(e)
+nous étions ouï(e)s
+vous étiez ouï(e)s
+ils (elles) étaient ouï(e)s
+
+** Passé simple
+
+je fus ouï(e)
+tu fus ouï(e)
+il (elle) fut ouï(e)
+nous fûmes ouï(e)s
+vous fûtes ouï(e)s
+ils (elles) furent ouï(e)s
+
+** Futur simple
+
+je serai ouï(e)
+tu seras ouï(e)
+il (elle) sera ouï(e)
+nous serons ouï(e)s
+vous serez ouï(e)s
+ils (elles) seront ouï(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ouï(e)
+tu serais ouï(e)
+il (elle) serait ouï(e)
+nous serions ouï(e)s
+vous seriez ouï(e)s
+ils (elles) seraient ouï(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ouï(e)
+que tu sois ouï(e)
+qu’il (elle) soit ouï(e)
+que nous soyons ouï(e)s
+que vous soyez ouï(e)s
+qu’ils (elles) soient ouï(e)s
+
+** Imparfait
+
+que je fusse ouï(e)
+que tu fusses ouï(e)
+qu’il (elle) fût ouï(e)
+que nous fussions ouï(e)s
+que vous fussiez ouï(e)s
+qu’ils (elles) fussent ouï(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ouï(e)s
+soyez ouï(e)s
+
+* INFINITIF
+
+** Présent
+
+être ouï(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ouï(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ouï(e)
+tu as été ouï(e)
+il (elle) a été ouï(e)
+nous avons été ouï(e)s
+vous avez été ouï(e)s
+ils (elles) ont été ouï(e)s
+
+** Plus-que-parfait
+
+j'avais été ouï(e)
+il (elle) avait été ouï(e)
+nous avions été ouï(e)s
+ils (elles) avaient été ouï(e)s
+
+** Passé antérieur
+
+j'eus été ouï(e)
+tu eus été ouï(e)
+il (elle) eut été ouï(e)
+nous eûmes été ouï(e)s
+vous eûtes été ouï(e)s
+ils (elles) eurent été ouï(e)s
+
+** Futur antérieur
+
+j'aurai été ouï(e)
+tu auras été ouï(e)
+il (elle) aura été ouï(e)
+nous aurons été ouï(e)s
+vous aurez été ouï(e)s
+ils (elles) auront été ouï(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ouï(e)
+j'aurais été ouï(e)
+il (elle) aurait été ouï(e)
+nous aurions été ouï(e)s
+vous auriez été ouï(e)s
+ils (elles) auraient été ouï(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ouï(e)
+que tu aies été ouï(e)
+qu’il (elle) ait été ouï(e)
+que nous ayons été ouï(e)s
+que vous ayez été ouï(e)s
+qu’ils (elles) aient été ouï(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ouï(e)
+que tu eusses été ouï(e)
+qu’il (elle) eût été ouï(e)
+que nous eussions été ouï(e)s
+que vous eussiez été ouï(e)s
+qu’ils (elles) eussent été ouï(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ouï(e)
+ayons été ouï(e)s
+ayez été ouï(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ouï(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ouï(e)(s)

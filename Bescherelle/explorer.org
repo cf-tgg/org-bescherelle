@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe explorer
+
+* INDICATIF
+
+** Présent
+
+j'explore
+tu explores
+il (elle) explore
+nous explorons
+vous explorez
+ils (elles) explorent
+
+** Imparfait
+
+j'explorais
+tu explorais
+il (elle) explorait
+nous explorions
+vous exploriez
+ils (elles) exploraient
+
+** Passé simple
+
+j'explorai
+tu exploras
+il (elle) explora
+nous explorâmes
+vous explorâtes
+ils (elles) explorèrent
+
+** Futur simple
+
+j'explorerai
+tu exploreras
+il (elle) explorera
+nous explorerons
+vous explorerez
+ils (elles) exploreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'explorerais
+tu explorerais
+il (elle) explorerait
+nous explorerions
+vous exploreriez
+ils (elles) exploreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'explore
+que tu explores
+qu’il (elle) explore
+que nous explorions
+que vous exploriez
+qu’ils (elles) explorent
+
+** Imparfait
+
+que j'explorasse
+que tu explorasses
+qu’il (elle) explorât
+que nous explorassions
+que vous explorassiez
+qu’ils (elles) explorassent
+
+* IMPÉRATIF
+
+** Présent
+
+explore
+explorons
+explorez
+
+* INFINITIF
+
+** Présent
+
+explorer
+
+* PARTICIPE
+
+** Présent
+
+explorant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exploré
+tu as exploré
+il (elle) a exploré
+nous avons exploré
+vous avez exploré
+ils (elles) ont exploré
+
+** Plus-que-parfait
+
+j'avais exploré
+tu avais exploré
+il (elle) avait exploré
+nous avions exploré
+vous aviez exploré
+ils (elles) avaient exploré
+
+** Passé antérieur
+
+j'eus exploré
+tu eus exploré
+il (elle) eut exploré
+nous eûmes exploré
+vous eûtes exploré
+ils (elles) eurent exploré
+
+** Futur antérieur
+
+j'aurai exploré
+tu auras exploré
+il (elle) aura exploré
+nous aurons exploré
+vous aurez exploré
+ils (elles) auront exploré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exploré
+tu aurais exploré
+il (elle) aurait exploré
+nous aurions exploré
+vous auriez exploré
+ils (elles) auraient exploré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exploré
+que tu aies exploré
+qu’il (elle) ait exploré
+que nous ayons exploré
+que vous ayez exploré
+qu’ils (elles) aient exploré
+
+** Plus-que-parfait
+
+que j'eusse exploré
+que tu eusses exploré
+qu’il (elle) eût exploré
+que nous eussions exploré
+que vous eussiez exploré
+qu’ils (elles) eussent exploré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exploré
+ayez exploré
+
+* INFINITIF
+
+** Passé
+
+avoir exploré
+
+* PARTICIPE
+
+** Passé
+
+ayant exploré
+exploré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis exploré(e)
+tu es exploré(e)
+il (elle) est exploré(e)
+nous sommes exploré(e)s
+vous êtes exploré(e)s
+ils (elles) sont exploré(e)s
+
+** Imparfait
+
+j'étais exploré(e)
+tu étais exploré(e)
+il (elle) était exploré(e)
+nous étions exploré(e)s
+vous étiez exploré(e)s
+ils (elles) étaient exploré(e)s
+
+** Passé simple
+
+je fus exploré(e)
+tu fus exploré(e)
+il (elle) fut exploré(e)
+nous fûmes exploré(e)s
+vous fûtes exploré(e)s
+ils (elles) furent exploré(e)s
+
+** Futur simple
+
+je serai exploré(e)
+tu seras exploré(e)
+il (elle) sera exploré(e)
+nous serons exploré(e)s
+vous serez exploré(e)s
+ils (elles) seront exploré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exploré(e)
+tu serais exploré(e)
+il (elle) serait exploré(e)
+nous serions exploré(e)s
+vous seriez exploré(e)s
+ils (elles) seraient exploré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exploré(e)
+que tu sois exploré(e)
+qu’il (elle) soit exploré(e)
+que nous soyons exploré(e)s
+que vous soyez exploré(e)s
+qu’ils (elles) soient exploré(e)s
+
+** Imparfait
+
+que je fusse exploré(e)
+que tu fusses exploré(e)
+qu’il (elle) fût exploré(e)
+que nous fussions exploré(e)s
+que vous fussiez exploré(e)s
+qu’ils (elles) fussent exploré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exploré(e)s
+soyez exploré(e)s
+
+* INFINITIF
+
+** Présent
+
+être exploré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exploré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exploré(e)
+tu as été exploré(e)
+il (elle) a été exploré(e)
+nous avons été exploré(e)s
+vous avez été exploré(e)s
+ils (elles) ont été exploré(e)s
+
+** Plus-que-parfait
+
+j'avais été exploré(e)
+il (elle) avait été exploré(e)
+nous avions été exploré(e)s
+ils (elles) avaient été exploré(e)s
+
+** Passé antérieur
+
+j'eus été exploré(e)
+tu eus été exploré(e)
+il (elle) eut été exploré(e)
+nous eûmes été exploré(e)s
+vous eûtes été exploré(e)s
+ils (elles) eurent été exploré(e)s
+
+** Futur antérieur
+
+j'aurai été exploré(e)
+tu auras été exploré(e)
+il (elle) aura été exploré(e)
+nous aurons été exploré(e)s
+vous aurez été exploré(e)s
+ils (elles) auront été exploré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exploré(e)
+j'aurais été exploré(e)
+il (elle) aurait été exploré(e)
+nous aurions été exploré(e)s
+vous auriez été exploré(e)s
+ils (elles) auraient été exploré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exploré(e)
+que tu aies été exploré(e)
+qu’il (elle) ait été exploré(e)
+que nous ayons été exploré(e)s
+que vous ayez été exploré(e)s
+qu’ils (elles) aient été exploré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exploré(e)
+que tu eusses été exploré(e)
+qu’il (elle) eût été exploré(e)
+que nous eussions été exploré(e)s
+que vous eussiez été exploré(e)s
+qu’ils (elles) eussent été exploré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exploré(e)
+ayons été exploré(e)s
+ayez été exploré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exploré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exploré(e)(s)

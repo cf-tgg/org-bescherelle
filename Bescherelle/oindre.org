@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe oindre
+
+* INDICATIF
+
+** Présent
+
+j'oins
+tu oins
+il (elle) oint
+nous oignons
+vous oignez
+ils (elles) oignent
+
+** Imparfait
+
+j'oignais
+tu oignais
+il (elle) oignait
+nous oignions
+vous oigniez
+ils (elles) oignaient
+
+** Passé simple
+
+j'oignis
+tu oignis
+il (elle) oignit
+nous oignîmes
+vous oignîtes
+ils (elles) oignirent
+
+** Futur simple
+
+j'oindrai
+tu oindras
+il (elle) oindra
+nous oindrons
+vous oindrez
+ils (elles) oindront
+
+* CONDITIONNEL
+
+** Présent
+
+j'oindrais
+tu oindrais
+il (elle) oindrait
+nous oindrions
+vous oindriez
+ils (elles) oindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oigne
+que tu oignes
+qu’il (elle) oigne
+que nous oignions
+que vous oigniez
+qu’ils (elles) oignent
+
+** Imparfait
+
+que j'oignisse
+que tu oignisses
+qu’il (elle) oignît
+que nous oignissions
+que vous oignissiez
+qu’ils (elles) oignissent
+
+* IMPÉRATIF
+
+** Présent
+
+oins
+oignons
+oignez
+
+* INFINITIF
+
+** Présent
+
+oindre
+
+* PARTICIPE
+
+** Présent
+
+oignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai oint
+tu as oint
+il (elle) a oint
+nous avons oint
+vous avez oint
+ils (elles) ont oint
+
+** Plus-que-parfait
+
+j'avais oint
+tu avais oint
+il (elle) avait oint
+nous avions oint
+vous aviez oint
+ils (elles) avaient oint
+
+** Passé antérieur
+
+j'eus oint
+tu eus oint
+il (elle) eut oint
+nous eûmes oint
+vous eûtes oint
+ils (elles) eurent oint
+
+** Futur antérieur
+
+j'aurai oint
+tu auras oint
+il (elle) aura oint
+nous aurons oint
+vous aurez oint
+ils (elles) auront oint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais oint
+tu aurais oint
+il (elle) aurait oint
+nous aurions oint
+vous auriez oint
+ils (elles) auraient oint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie oint
+que tu aies oint
+qu’il (elle) ait oint
+que nous ayons oint
+que vous ayez oint
+qu’ils (elles) aient oint
+
+** Plus-que-parfait
+
+que j'eusse oint
+que tu eusses oint
+qu’il (elle) eût oint
+que nous eussions oint
+que vous eussiez oint
+qu’ils (elles) eussent oint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons oint
+ayez oint
+
+* INFINITIF
+
+** Passé
+
+avoir oint
+
+* PARTICIPE
+
+** Passé
+
+ayant oint
+oint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis oint(e)
+tu es oint(e)
+il (elle) est oint(e)
+nous sommes oint(e)s
+vous êtes oint(e)s
+ils (elles) sont oint(e)s
+
+** Imparfait
+
+j'étais oint(e)
+tu étais oint(e)
+il (elle) était oint(e)
+nous étions oint(e)s
+vous étiez oint(e)s
+ils (elles) étaient oint(e)s
+
+** Passé simple
+
+je fus oint(e)
+tu fus oint(e)
+il (elle) fut oint(e)
+nous fûmes oint(e)s
+vous fûtes oint(e)s
+ils (elles) furent oint(e)s
+
+** Futur simple
+
+je serai oint(e)
+tu seras oint(e)
+il (elle) sera oint(e)
+nous serons oint(e)s
+vous serez oint(e)s
+ils (elles) seront oint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais oint(e)
+tu serais oint(e)
+il (elle) serait oint(e)
+nous serions oint(e)s
+vous seriez oint(e)s
+ils (elles) seraient oint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois oint(e)
+que tu sois oint(e)
+qu’il (elle) soit oint(e)
+que nous soyons oint(e)s
+que vous soyez oint(e)s
+qu’ils (elles) soient oint(e)s
+
+** Imparfait
+
+que je fusse oint(e)
+que tu fusses oint(e)
+qu’il (elle) fût oint(e)
+que nous fussions oint(e)s
+que vous fussiez oint(e)s
+qu’ils (elles) fussent oint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons oint(e)s
+soyez oint(e)s
+
+* INFINITIF
+
+** Présent
+
+être oint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant oint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été oint(e)
+tu as été oint(e)
+il (elle) a été oint(e)
+nous avons été oint(e)s
+vous avez été oint(e)s
+ils (elles) ont été oint(e)s
+
+** Plus-que-parfait
+
+j'avais été oint(e)
+il (elle) avait été oint(e)
+nous avions été oint(e)s
+ils (elles) avaient été oint(e)s
+
+** Passé antérieur
+
+j'eus été oint(e)
+tu eus été oint(e)
+il (elle) eut été oint(e)
+nous eûmes été oint(e)s
+vous eûtes été oint(e)s
+ils (elles) eurent été oint(e)s
+
+** Futur antérieur
+
+j'aurai été oint(e)
+tu auras été oint(e)
+il (elle) aura été oint(e)
+nous aurons été oint(e)s
+vous aurez été oint(e)s
+ils (elles) auront été oint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été oint(e)
+j'aurais été oint(e)
+il (elle) aurait été oint(e)
+nous aurions été oint(e)s
+vous auriez été oint(e)s
+ils (elles) auraient été oint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été oint(e)
+que tu aies été oint(e)
+qu’il (elle) ait été oint(e)
+que nous ayons été oint(e)s
+que vous ayez été oint(e)s
+qu’ils (elles) aient été oint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été oint(e)
+que tu eusses été oint(e)
+qu’il (elle) eût été oint(e)
+que nous eussions été oint(e)s
+que vous eussiez été oint(e)s
+qu’ils (elles) eussent été oint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été oint(e)
+ayons été oint(e)s
+ayez été oint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été oint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été oint(e)(s)

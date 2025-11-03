@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saillir
+
+* INDICATIF
+
+** Présent
+
+je saillis
+tu saillis
+il (elle) saillit
+nous saillissons
+vous saillissez
+ils (elles) saillissent
+
+** Imparfait
+
+je saillissais
+tu saillissais
+il (elle) saillissait
+nous saillissions
+vous saillissiez
+ils (elles) saillissaient
+
+** Passé simple
+
+je saillis
+tu saillis
+il (elle) saillit
+nous saillîmes
+vous saillîtes
+ils (elles) saillirent
+
+** Futur simple
+
+je saillirai
+tu sailliras
+il (elle) saillira
+nous saillirons
+vous saillirez
+ils (elles) sailliront
+
+* CONDITIONNEL
+
+** Présent
+
+je saillirais
+tu saillirais
+il (elle) saillirait
+nous saillirions
+vous sailliriez
+ils (elles) sailliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je saillisse
+que tu saillisses
+qu’il (elle) saillisse
+que nous saillissions
+que vous saillissiez
+qu’ils (elles) saillissent
+
+** Imparfait
+
+que je saillisse
+que tu saillisses
+qu’il (elle) saillît
+que nous saillissions
+que vous saillissiez
+qu’ils (elles) saillissent
+
+* IMPÉRATIF
+
+** Présent
+
+saillis
+saillissons
+saillissez
+
+* INFINITIF
+
+** Présent
+
+saillir
+
+* PARTICIPE
+
+** Présent
+
+saillissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sailli
+tu as sailli
+il (elle) a sailli
+nous avons sailli
+vous avez sailli
+ils (elles) ont sailli
+
+** Plus-que-parfait
+
+j'avais sailli
+tu avais sailli
+il (elle) avait sailli
+nous avions sailli
+vous aviez sailli
+ils (elles) avaient sailli
+
+** Passé antérieur
+
+j'eus sailli
+tu eus sailli
+il (elle) eut sailli
+nous eûmes sailli
+vous eûtes sailli
+ils (elles) eurent sailli
+
+** Futur antérieur
+
+j'aurai sailli
+tu auras sailli
+il (elle) aura sailli
+nous aurons sailli
+vous aurez sailli
+ils (elles) auront sailli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sailli
+tu aurais sailli
+il (elle) aurait sailli
+nous aurions sailli
+vous auriez sailli
+ils (elles) auraient sailli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sailli
+que tu aies sailli
+qu’il (elle) ait sailli
+que nous ayons sailli
+que vous ayez sailli
+qu’ils (elles) aient sailli
+
+** Plus-que-parfait
+
+que j'eusse sailli
+que tu eusses sailli
+qu’il (elle) eût sailli
+que nous eussions sailli
+que vous eussiez sailli
+qu’ils (elles) eussent sailli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sailli
+ayez sailli
+
+* INFINITIF
+
+** Passé
+
+avoir sailli
+
+* PARTICIPE
+
+** Passé
+
+ayant sailli
+sailli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis sailli(e)
+tu es sailli(e)
+il (elle) est sailli(e)
+nous sommes sailli(e)s
+vous êtes sailli(e)s
+ils (elles) sont sailli(e)s
+
+** Imparfait
+
+j'étais sailli(e)
+tu étais sailli(e)
+il (elle) était sailli(e)
+nous étions sailli(e)s
+vous étiez sailli(e)s
+ils (elles) étaient sailli(e)s
+
+** Passé simple
+
+je fus sailli(e)
+tu fus sailli(e)
+il (elle) fut sailli(e)
+nous fûmes sailli(e)s
+vous fûtes sailli(e)s
+ils (elles) furent sailli(e)s
+
+** Futur simple
+
+je serai sailli(e)
+tu seras sailli(e)
+il (elle) sera sailli(e)
+nous serons sailli(e)s
+vous serez sailli(e)s
+ils (elles) seront sailli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sailli(e)
+tu serais sailli(e)
+il (elle) serait sailli(e)
+nous serions sailli(e)s
+vous seriez sailli(e)s
+ils (elles) seraient sailli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sailli(e)
+que tu sois sailli(e)
+qu’il (elle) soit sailli(e)
+que nous soyons sailli(e)s
+que vous soyez sailli(e)s
+qu’ils (elles) soient sailli(e)s
+
+** Imparfait
+
+que je fusse sailli(e)
+que tu fusses sailli(e)
+qu’il (elle) fût sailli(e)
+que nous fussions sailli(e)s
+que vous fussiez sailli(e)s
+qu’ils (elles) fussent sailli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sailli(e)s
+soyez sailli(e)s
+
+* INFINITIF
+
+** Présent
+
+être sailli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sailli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sailli(e)
+tu as été sailli(e)
+il (elle) a été sailli(e)
+nous avons été sailli(e)s
+vous avez été sailli(e)s
+ils (elles) ont été sailli(e)s
+
+** Plus-que-parfait
+
+j'avais été sailli(e)
+il (elle) avait été sailli(e)
+nous avions été sailli(e)s
+ils (elles) avaient été sailli(e)s
+
+** Passé antérieur
+
+j'eus été sailli(e)
+tu eus été sailli(e)
+il (elle) eut été sailli(e)
+nous eûmes été sailli(e)s
+vous eûtes été sailli(e)s
+ils (elles) eurent été sailli(e)s
+
+** Futur antérieur
+
+j'aurai été sailli(e)
+tu auras été sailli(e)
+il (elle) aura été sailli(e)
+nous aurons été sailli(e)s
+vous aurez été sailli(e)s
+ils (elles) auront été sailli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sailli(e)
+j'aurais été sailli(e)
+il (elle) aurait été sailli(e)
+nous aurions été sailli(e)s
+vous auriez été sailli(e)s
+ils (elles) auraient été sailli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sailli(e)
+que tu aies été sailli(e)
+qu’il (elle) ait été sailli(e)
+que nous ayons été sailli(e)s
+que vous ayez été sailli(e)s
+qu’ils (elles) aient été sailli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sailli(e)
+que tu eusses été sailli(e)
+qu’il (elle) eût été sailli(e)
+que nous eussions été sailli(e)s
+que vous eussiez été sailli(e)s
+qu’ils (elles) eussent été sailli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sailli(e)
+ayons été sailli(e)s
+ayez été sailli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sailli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sailli(e)(s)

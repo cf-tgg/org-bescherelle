@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe affirmer
+
+* INDICATIF
+
+** Présent
+
+j'affirme
+tu affirmes
+il (elle) affirme
+nous affirmons
+vous affirmez
+ils (elles) affirment
+
+** Imparfait
+
+j'affirmais
+tu affirmais
+il (elle) affirmait
+nous affirmions
+vous affirmiez
+ils (elles) affirmaient
+
+** Passé simple
+
+j'affirmai
+tu affirmas
+il (elle) affirma
+nous affirmâmes
+vous affirmâtes
+ils (elles) affirmèrent
+
+** Futur simple
+
+j'affirmerai
+tu affirmeras
+il (elle) affirmera
+nous affirmerons
+vous affirmerez
+ils (elles) affirmeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'affirmerais
+tu affirmerais
+il (elle) affirmerait
+nous affirmerions
+vous affirmeriez
+ils (elles) affirmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'affirme
+que tu affirmes
+qu’il (elle) affirme
+que nous affirmions
+que vous affirmiez
+qu’ils (elles) affirment
+
+** Imparfait
+
+que j'affirmasse
+que tu affirmasses
+qu’il (elle) affirmât
+que nous affirmassions
+que vous affirmassiez
+qu’ils (elles) affirmassent
+
+* IMPÉRATIF
+
+** Présent
+
+affirme
+affirmons
+affirmez
+
+* INFINITIF
+
+** Présent
+
+affirmer
+
+* PARTICIPE
+
+** Présent
+
+affirmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai affirmé
+tu as affirmé
+il (elle) a affirmé
+nous avons affirmé
+vous avez affirmé
+ils (elles) ont affirmé
+
+** Plus-que-parfait
+
+j'avais affirmé
+tu avais affirmé
+il (elle) avait affirmé
+nous avions affirmé
+vous aviez affirmé
+ils (elles) avaient affirmé
+
+** Passé antérieur
+
+j'eus affirmé
+tu eus affirmé
+il (elle) eut affirmé
+nous eûmes affirmé
+vous eûtes affirmé
+ils (elles) eurent affirmé
+
+** Futur antérieur
+
+j'aurai affirmé
+tu auras affirmé
+il (elle) aura affirmé
+nous aurons affirmé
+vous aurez affirmé
+ils (elles) auront affirmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais affirmé
+tu aurais affirmé
+il (elle) aurait affirmé
+nous aurions affirmé
+vous auriez affirmé
+ils (elles) auraient affirmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie affirmé
+que tu aies affirmé
+qu’il (elle) ait affirmé
+que nous ayons affirmé
+que vous ayez affirmé
+qu’ils (elles) aient affirmé
+
+** Plus-que-parfait
+
+que j'eusse affirmé
+que tu eusses affirmé
+qu’il (elle) eût affirmé
+que nous eussions affirmé
+que vous eussiez affirmé
+qu’ils (elles) eussent affirmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons affirmé
+ayez affirmé
+
+* INFINITIF
+
+** Passé
+
+avoir affirmé
+
+* PARTICIPE
+
+** Passé
+
+ayant affirmé
+affirmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis affirmé(e)
+tu es affirmé(e)
+il (elle) est affirmé(e)
+nous sommes affirmé(e)s
+vous êtes affirmé(e)s
+ils (elles) sont affirmé(e)s
+
+** Imparfait
+
+j'étais affirmé(e)
+tu étais affirmé(e)
+il (elle) était affirmé(e)
+nous étions affirmé(e)s
+vous étiez affirmé(e)s
+ils (elles) étaient affirmé(e)s
+
+** Passé simple
+
+je fus affirmé(e)
+tu fus affirmé(e)
+il (elle) fut affirmé(e)
+nous fûmes affirmé(e)s
+vous fûtes affirmé(e)s
+ils (elles) furent affirmé(e)s
+
+** Futur simple
+
+je serai affirmé(e)
+tu seras affirmé(e)
+il (elle) sera affirmé(e)
+nous serons affirmé(e)s
+vous serez affirmé(e)s
+ils (elles) seront affirmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais affirmé(e)
+tu serais affirmé(e)
+il (elle) serait affirmé(e)
+nous serions affirmé(e)s
+vous seriez affirmé(e)s
+ils (elles) seraient affirmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois affirmé(e)
+que tu sois affirmé(e)
+qu’il (elle) soit affirmé(e)
+que nous soyons affirmé(e)s
+que vous soyez affirmé(e)s
+qu’ils (elles) soient affirmé(e)s
+
+** Imparfait
+
+que je fusse affirmé(e)
+que tu fusses affirmé(e)
+qu’il (elle) fût affirmé(e)
+que nous fussions affirmé(e)s
+que vous fussiez affirmé(e)s
+qu’ils (elles) fussent affirmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons affirmé(e)s
+soyez affirmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être affirmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant affirmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été affirmé(e)
+tu as été affirmé(e)
+il (elle) a été affirmé(e)
+nous avons été affirmé(e)s
+vous avez été affirmé(e)s
+ils (elles) ont été affirmé(e)s
+
+** Plus-que-parfait
+
+j'avais été affirmé(e)
+il (elle) avait été affirmé(e)
+nous avions été affirmé(e)s
+ils (elles) avaient été affirmé(e)s
+
+** Passé antérieur
+
+j'eus été affirmé(e)
+tu eus été affirmé(e)
+il (elle) eut été affirmé(e)
+nous eûmes été affirmé(e)s
+vous eûtes été affirmé(e)s
+ils (elles) eurent été affirmé(e)s
+
+** Futur antérieur
+
+j'aurai été affirmé(e)
+tu auras été affirmé(e)
+il (elle) aura été affirmé(e)
+nous aurons été affirmé(e)s
+vous aurez été affirmé(e)s
+ils (elles) auront été affirmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été affirmé(e)
+j'aurais été affirmé(e)
+il (elle) aurait été affirmé(e)
+nous aurions été affirmé(e)s
+vous auriez été affirmé(e)s
+ils (elles) auraient été affirmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été affirmé(e)
+que tu aies été affirmé(e)
+qu’il (elle) ait été affirmé(e)
+que nous ayons été affirmé(e)s
+que vous ayez été affirmé(e)s
+qu’ils (elles) aient été affirmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été affirmé(e)
+que tu eusses été affirmé(e)
+qu’il (elle) eût été affirmé(e)
+que nous eussions été affirmé(e)s
+que vous eussiez été affirmé(e)s
+qu’ils (elles) eussent été affirmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été affirmé(e)
+ayons été affirmé(e)s
+ayez été affirmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été affirmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été affirmé(e)(s)

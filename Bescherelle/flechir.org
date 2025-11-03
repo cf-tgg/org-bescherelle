@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe flechir
+
+* INDICATIF
+
+** Présent
+
+je fléchis
+tu fléchis
+il (elle) fléchit
+nous fléchissons
+vous fléchissez
+ils (elles) fléchissent
+
+** Imparfait
+
+je fléchissais
+tu fléchissais
+il (elle) fléchissait
+nous fléchissions
+vous fléchissiez
+ils (elles) fléchissaient
+
+** Passé simple
+
+je fléchis
+tu fléchis
+il (elle) fléchit
+nous fléchîmes
+vous fléchîtes
+ils (elles) fléchirent
+
+** Futur simple
+
+je fléchirai
+tu fléchiras
+il (elle) fléchira
+nous fléchirons
+vous fléchirez
+ils (elles) fléchiront
+
+* CONDITIONNEL
+
+** Présent
+
+je fléchirais
+tu fléchirais
+il (elle) fléchirait
+nous fléchirions
+vous fléchiriez
+ils (elles) fléchiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fléchisse
+que tu fléchisses
+qu’il (elle) fléchisse
+que nous fléchissions
+que vous fléchissiez
+qu’ils (elles) fléchissent
+
+** Imparfait
+
+que je fléchisse
+que tu fléchisses
+qu’il (elle) fléchît
+que nous fléchissions
+que vous fléchissiez
+qu’ils (elles) fléchissent
+
+* IMPÉRATIF
+
+** Présent
+
+fléchis
+fléchissons
+fléchissez
+
+* INFINITIF
+
+** Présent
+
+fléchir
+
+* PARTICIPE
+
+** Présent
+
+fléchissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fléchi
+tu as fléchi
+il (elle) a fléchi
+nous avons fléchi
+vous avez fléchi
+ils (elles) ont fléchi
+
+** Plus-que-parfait
+
+j'avais fléchi
+tu avais fléchi
+il (elle) avait fléchi
+nous avions fléchi
+vous aviez fléchi
+ils (elles) avaient fléchi
+
+** Passé antérieur
+
+j'eus fléchi
+tu eus fléchi
+il (elle) eut fléchi
+nous eûmes fléchi
+vous eûtes fléchi
+ils (elles) eurent fléchi
+
+** Futur antérieur
+
+j'aurai fléchi
+tu auras fléchi
+il (elle) aura fléchi
+nous aurons fléchi
+vous aurez fléchi
+ils (elles) auront fléchi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fléchi
+tu aurais fléchi
+il (elle) aurait fléchi
+nous aurions fléchi
+vous auriez fléchi
+ils (elles) auraient fléchi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fléchi
+que tu aies fléchi
+qu’il (elle) ait fléchi
+que nous ayons fléchi
+que vous ayez fléchi
+qu’ils (elles) aient fléchi
+
+** Plus-que-parfait
+
+que j'eusse fléchi
+que tu eusses fléchi
+qu’il (elle) eût fléchi
+que nous eussions fléchi
+que vous eussiez fléchi
+qu’ils (elles) eussent fléchi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fléchi
+ayez fléchi
+
+* INFINITIF
+
+** Passé
+
+avoir fléchi
+
+* PARTICIPE
+
+** Passé
+
+ayant fléchi
+fléchi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis fléchi(e)
+tu es fléchi(e)
+il (elle) est fléchi(e)
+nous sommes fléchi(e)s
+vous êtes fléchi(e)s
+ils (elles) sont fléchi(e)s
+
+** Imparfait
+
+j'étais fléchi(e)
+tu étais fléchi(e)
+il (elle) était fléchi(e)
+nous étions fléchi(e)s
+vous étiez fléchi(e)s
+ils (elles) étaient fléchi(e)s
+
+** Passé simple
+
+je fus fléchi(e)
+tu fus fléchi(e)
+il (elle) fut fléchi(e)
+nous fûmes fléchi(e)s
+vous fûtes fléchi(e)s
+ils (elles) furent fléchi(e)s
+
+** Futur simple
+
+je serai fléchi(e)
+tu seras fléchi(e)
+il (elle) sera fléchi(e)
+nous serons fléchi(e)s
+vous serez fléchi(e)s
+ils (elles) seront fléchi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fléchi(e)
+tu serais fléchi(e)
+il (elle) serait fléchi(e)
+nous serions fléchi(e)s
+vous seriez fléchi(e)s
+ils (elles) seraient fléchi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fléchi(e)
+que tu sois fléchi(e)
+qu’il (elle) soit fléchi(e)
+que nous soyons fléchi(e)s
+que vous soyez fléchi(e)s
+qu’ils (elles) soient fléchi(e)s
+
+** Imparfait
+
+que je fusse fléchi(e)
+que tu fusses fléchi(e)
+qu’il (elle) fût fléchi(e)
+que nous fussions fléchi(e)s
+que vous fussiez fléchi(e)s
+qu’ils (elles) fussent fléchi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fléchi(e)s
+soyez fléchi(e)s
+
+* INFINITIF
+
+** Présent
+
+être fléchi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fléchi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fléchi(e)
+tu as été fléchi(e)
+il (elle) a été fléchi(e)
+nous avons été fléchi(e)s
+vous avez été fléchi(e)s
+ils (elles) ont été fléchi(e)s
+
+** Plus-que-parfait
+
+j'avais été fléchi(e)
+il (elle) avait été fléchi(e)
+nous avions été fléchi(e)s
+ils (elles) avaient été fléchi(e)s
+
+** Passé antérieur
+
+j'eus été fléchi(e)
+tu eus été fléchi(e)
+il (elle) eut été fléchi(e)
+nous eûmes été fléchi(e)s
+vous eûtes été fléchi(e)s
+ils (elles) eurent été fléchi(e)s
+
+** Futur antérieur
+
+j'aurai été fléchi(e)
+tu auras été fléchi(e)
+il (elle) aura été fléchi(e)
+nous aurons été fléchi(e)s
+vous aurez été fléchi(e)s
+ils (elles) auront été fléchi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fléchi(e)
+j'aurais été fléchi(e)
+il (elle) aurait été fléchi(e)
+nous aurions été fléchi(e)s
+vous auriez été fléchi(e)s
+ils (elles) auraient été fléchi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fléchi(e)
+que tu aies été fléchi(e)
+qu’il (elle) ait été fléchi(e)
+que nous ayons été fléchi(e)s
+que vous ayez été fléchi(e)s
+qu’ils (elles) aient été fléchi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fléchi(e)
+que tu eusses été fléchi(e)
+qu’il (elle) eût été fléchi(e)
+que nous eussions été fléchi(e)s
+que vous eussiez été fléchi(e)s
+qu’ils (elles) eussent été fléchi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fléchi(e)
+ayons été fléchi(e)s
+ayez été fléchi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fléchi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fléchi(e)(s)

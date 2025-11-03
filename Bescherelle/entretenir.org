@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entretenir
+
+* INDICATIF
+
+** Présent
+
+j'entretiens
+tu entretiens
+il (elle) entretient
+nous entretenons
+vous entretenez
+ils (elles) entretiennent
+
+** Imparfait
+
+j'entretenais
+tu entretenais
+il (elle) entretenait
+nous entretenions
+vous entreteniez
+ils (elles) entretenaient
+
+** Passé simple
+
+j'entretins
+tu entretins
+il (elle) entretint
+nous entretînmes
+vous entretîntes
+ils (elles) entretinrent
+
+** Futur simple
+
+j'entretiendrai
+tu entretiendras
+il (elle) entretiendra
+nous entretiendrons
+vous entretiendrez
+ils (elles) entretiendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entretiendrais
+tu entretiendrais
+il (elle) entretiendrait
+nous entretiendrions
+vous entretiendriez
+ils (elles) entretiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entretienne
+que tu entretiennes
+qu’il (elle) entretienne
+que nous entretenions
+que vous entreteniez
+qu’ils (elles) entretiennent
+
+** Imparfait
+
+que j'entretinsse
+que tu entretinsses
+qu’il (elle) entretînt
+que nous entretinssions
+que vous entretinssiez
+qu’ils (elles) entretinssent
+
+* IMPÉRATIF
+
+** Présent
+
+entretiens
+entretenons
+entretenez
+
+* INFINITIF
+
+** Présent
+
+entretenir
+
+* PARTICIPE
+
+** Présent
+
+entretenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entretenu
+tu as entretenu
+il (elle) a entretenu
+nous avons entretenu
+vous avez entretenu
+ils (elles) ont entretenu
+
+** Plus-que-parfait
+
+j'avais entretenu
+tu avais entretenu
+il (elle) avait entretenu
+nous avions entretenu
+vous aviez entretenu
+ils (elles) avaient entretenu
+
+** Passé antérieur
+
+j'eus entretenu
+tu eus entretenu
+il (elle) eut entretenu
+nous eûmes entretenu
+vous eûtes entretenu
+ils (elles) eurent entretenu
+
+** Futur antérieur
+
+j'aurai entretenu
+tu auras entretenu
+il (elle) aura entretenu
+nous aurons entretenu
+vous aurez entretenu
+ils (elles) auront entretenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entretenu
+tu aurais entretenu
+il (elle) aurait entretenu
+nous aurions entretenu
+vous auriez entretenu
+ils (elles) auraient entretenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entretenu
+que tu aies entretenu
+qu’il (elle) ait entretenu
+que nous ayons entretenu
+que vous ayez entretenu
+qu’ils (elles) aient entretenu
+
+** Plus-que-parfait
+
+que j'eusse entretenu
+que tu eusses entretenu
+qu’il (elle) eût entretenu
+que nous eussions entretenu
+que vous eussiez entretenu
+qu’ils (elles) eussent entretenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entretenu
+ayez entretenu
+
+* INFINITIF
+
+** Passé
+
+avoir entretenu
+
+* PARTICIPE
+
+** Passé
+
+ayant entretenu
+entretenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis entretenu(e)
+tu es entretenu(e)
+il (elle) est entretenu(e)
+nous sommes entretenu(e)s
+vous êtes entretenu(e)s
+ils (elles) sont entretenu(e)s
+
+** Imparfait
+
+j'étais entretenu(e)
+tu étais entretenu(e)
+il (elle) était entretenu(e)
+nous étions entretenu(e)s
+vous étiez entretenu(e)s
+ils (elles) étaient entretenu(e)s
+
+** Passé simple
+
+je fus entretenu(e)
+tu fus entretenu(e)
+il (elle) fut entretenu(e)
+nous fûmes entretenu(e)s
+vous fûtes entretenu(e)s
+ils (elles) furent entretenu(e)s
+
+** Futur simple
+
+je serai entretenu(e)
+tu seras entretenu(e)
+il (elle) sera entretenu(e)
+nous serons entretenu(e)s
+vous serez entretenu(e)s
+ils (elles) seront entretenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entretenu(e)
+tu serais entretenu(e)
+il (elle) serait entretenu(e)
+nous serions entretenu(e)s
+vous seriez entretenu(e)s
+ils (elles) seraient entretenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entretenu(e)
+que tu sois entretenu(e)
+qu’il (elle) soit entretenu(e)
+que nous soyons entretenu(e)s
+que vous soyez entretenu(e)s
+qu’ils (elles) soient entretenu(e)s
+
+** Imparfait
+
+que je fusse entretenu(e)
+que tu fusses entretenu(e)
+qu’il (elle) fût entretenu(e)
+que nous fussions entretenu(e)s
+que vous fussiez entretenu(e)s
+qu’ils (elles) fussent entretenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entretenu(e)s
+soyez entretenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être entretenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entretenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entretenu(e)
+tu as été entretenu(e)
+il (elle) a été entretenu(e)
+nous avons été entretenu(e)s
+vous avez été entretenu(e)s
+ils (elles) ont été entretenu(e)s
+
+** Plus-que-parfait
+
+j'avais été entretenu(e)
+il (elle) avait été entretenu(e)
+nous avions été entretenu(e)s
+ils (elles) avaient été entretenu(e)s
+
+** Passé antérieur
+
+j'eus été entretenu(e)
+tu eus été entretenu(e)
+il (elle) eut été entretenu(e)
+nous eûmes été entretenu(e)s
+vous eûtes été entretenu(e)s
+ils (elles) eurent été entretenu(e)s
+
+** Futur antérieur
+
+j'aurai été entretenu(e)
+tu auras été entretenu(e)
+il (elle) aura été entretenu(e)
+nous aurons été entretenu(e)s
+vous aurez été entretenu(e)s
+ils (elles) auront été entretenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entretenu(e)
+j'aurais été entretenu(e)
+il (elle) aurait été entretenu(e)
+nous aurions été entretenu(e)s
+vous auriez été entretenu(e)s
+ils (elles) auraient été entretenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entretenu(e)
+que tu aies été entretenu(e)
+qu’il (elle) ait été entretenu(e)
+que nous ayons été entretenu(e)s
+que vous ayez été entretenu(e)s
+qu’ils (elles) aient été entretenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entretenu(e)
+que tu eusses été entretenu(e)
+qu’il (elle) eût été entretenu(e)
+que nous eussions été entretenu(e)s
+que vous eussiez été entretenu(e)s
+qu’ils (elles) eussent été entretenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entretenu(e)
+ayons été entretenu(e)s
+ayez été entretenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entretenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entretenu(e)(s)

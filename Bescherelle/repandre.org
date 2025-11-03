@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe repandre
+
+* INDICATIF
+
+** Présent
+
+je répands
+tu répands
+il (elle) répand
+nous répandons
+vous répandez
+ils (elles) répandent
+
+** Imparfait
+
+je répandais
+tu répandais
+il (elle) répandait
+nous répandions
+vous répandiez
+ils (elles) répandaient
+
+** Passé simple
+
+je répandis
+tu répandis
+il (elle) répandit
+nous répandîmes
+vous répandîtes
+ils (elles) répandirent
+
+** Futur simple
+
+je répandrai
+tu répandras
+il (elle) répandra
+nous répandrons
+vous répandrez
+ils (elles) répandront
+
+* CONDITIONNEL
+
+** Présent
+
+je répandrais
+tu répandrais
+il (elle) répandrait
+nous répandrions
+vous répandriez
+ils (elles) répandraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je répande
+que tu répandes
+qu’il (elle) répande
+que nous répandions
+que vous répandiez
+qu’ils (elles) répandent
+
+** Imparfait
+
+que je répandisse
+que tu répandisses
+qu’il (elle) répandît
+que nous répandissions
+que vous répandissiez
+qu’ils (elles) répandissent
+
+* IMPÉRATIF
+
+** Présent
+
+répands
+répandons
+répandez
+
+* INFINITIF
+
+** Présent
+
+répandre
+
+* PARTICIPE
+
+** Présent
+
+répandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai répandu
+tu as répandu
+il (elle) a répandu
+nous avons répandu
+vous avez répandu
+ils (elles) ont répandu
+
+** Plus-que-parfait
+
+j'avais répandu
+tu avais répandu
+il (elle) avait répandu
+nous avions répandu
+vous aviez répandu
+ils (elles) avaient répandu
+
+** Passé antérieur
+
+j'eus répandu
+tu eus répandu
+il (elle) eut répandu
+nous eûmes répandu
+vous eûtes répandu
+ils (elles) eurent répandu
+
+** Futur antérieur
+
+j'aurai répandu
+tu auras répandu
+il (elle) aura répandu
+nous aurons répandu
+vous aurez répandu
+ils (elles) auront répandu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais répandu
+tu aurais répandu
+il (elle) aurait répandu
+nous aurions répandu
+vous auriez répandu
+ils (elles) auraient répandu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie répandu
+que tu aies répandu
+qu’il (elle) ait répandu
+que nous ayons répandu
+que vous ayez répandu
+qu’ils (elles) aient répandu
+
+** Plus-que-parfait
+
+que j'eusse répandu
+que tu eusses répandu
+qu’il (elle) eût répandu
+que nous eussions répandu
+que vous eussiez répandu
+qu’ils (elles) eussent répandu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons répandu
+ayez répandu
+
+* INFINITIF
+
+** Passé
+
+avoir répandu
+
+* PARTICIPE
+
+** Passé
+
+ayant répandu
+répandu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis répandu(e)
+tu es répandu(e)
+il (elle) est répandu(e)
+nous sommes répandu(e)s
+vous êtes répandu(e)s
+ils (elles) sont répandu(e)s
+
+** Imparfait
+
+j'étais répandu(e)
+tu étais répandu(e)
+il (elle) était répandu(e)
+nous étions répandu(e)s
+vous étiez répandu(e)s
+ils (elles) étaient répandu(e)s
+
+** Passé simple
+
+je fus répandu(e)
+tu fus répandu(e)
+il (elle) fut répandu(e)
+nous fûmes répandu(e)s
+vous fûtes répandu(e)s
+ils (elles) furent répandu(e)s
+
+** Futur simple
+
+je serai répandu(e)
+tu seras répandu(e)
+il (elle) sera répandu(e)
+nous serons répandu(e)s
+vous serez répandu(e)s
+ils (elles) seront répandu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais répandu(e)
+tu serais répandu(e)
+il (elle) serait répandu(e)
+nous serions répandu(e)s
+vous seriez répandu(e)s
+ils (elles) seraient répandu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois répandu(e)
+que tu sois répandu(e)
+qu’il (elle) soit répandu(e)
+que nous soyons répandu(e)s
+que vous soyez répandu(e)s
+qu’ils (elles) soient répandu(e)s
+
+** Imparfait
+
+que je fusse répandu(e)
+que tu fusses répandu(e)
+qu’il (elle) fût répandu(e)
+que nous fussions répandu(e)s
+que vous fussiez répandu(e)s
+qu’ils (elles) fussent répandu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons répandu(e)s
+soyez répandu(e)s
+
+* INFINITIF
+
+** Présent
+
+être répandu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant répandu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été répandu(e)
+tu as été répandu(e)
+il (elle) a été répandu(e)
+nous avons été répandu(e)s
+vous avez été répandu(e)s
+ils (elles) ont été répandu(e)s
+
+** Plus-que-parfait
+
+j'avais été répandu(e)
+il (elle) avait été répandu(e)
+nous avions été répandu(e)s
+ils (elles) avaient été répandu(e)s
+
+** Passé antérieur
+
+j'eus été répandu(e)
+tu eus été répandu(e)
+il (elle) eut été répandu(e)
+nous eûmes été répandu(e)s
+vous eûtes été répandu(e)s
+ils (elles) eurent été répandu(e)s
+
+** Futur antérieur
+
+j'aurai été répandu(e)
+tu auras été répandu(e)
+il (elle) aura été répandu(e)
+nous aurons été répandu(e)s
+vous aurez été répandu(e)s
+ils (elles) auront été répandu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été répandu(e)
+j'aurais été répandu(e)
+il (elle) aurait été répandu(e)
+nous aurions été répandu(e)s
+vous auriez été répandu(e)s
+ils (elles) auraient été répandu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été répandu(e)
+que tu aies été répandu(e)
+qu’il (elle) ait été répandu(e)
+que nous ayons été répandu(e)s
+que vous ayez été répandu(e)s
+qu’ils (elles) aient été répandu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été répandu(e)
+que tu eusses été répandu(e)
+qu’il (elle) eût été répandu(e)
+que nous eussions été répandu(e)s
+que vous eussiez été répandu(e)s
+qu’ils (elles) eussent été répandu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été répandu(e)
+ayons été répandu(e)s
+ayez été répandu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été répandu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été répandu(e)(s)

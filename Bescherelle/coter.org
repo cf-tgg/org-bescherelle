@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe coter
+
+* INDICATIF
+
+** Présent
+
+je cote
+tu cotes
+il (elle) cote
+nous cotons
+vous cotez
+ils (elles) cotent
+
+** Imparfait
+
+je cotais
+tu cotais
+il (elle) cotait
+nous cotions
+vous cotiez
+ils (elles) cotaient
+
+** Passé simple
+
+je cotai
+tu cotas
+il (elle) cota
+nous cotâmes
+vous cotâtes
+ils (elles) cotèrent
+
+** Futur simple
+
+je coterai
+tu coteras
+il (elle) cotera
+nous coterons
+vous coterez
+ils (elles) coteront
+
+* CONDITIONNEL
+
+** Présent
+
+je coterais
+tu coterais
+il (elle) coterait
+nous coterions
+vous coteriez
+ils (elles) coteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cote
+que tu cotes
+qu’il (elle) cote
+que nous cotions
+que vous cotiez
+qu’ils (elles) cotent
+
+** Imparfait
+
+que je cotasse
+que tu cotasses
+qu’il (elle) cotât
+que nous cotassions
+que vous cotassiez
+qu’ils (elles) cotassent
+
+* IMPÉRATIF
+
+** Présent
+
+cote
+cotons
+cotez
+
+* INFINITIF
+
+** Présent
+
+coter
+
+* PARTICIPE
+
+** Présent
+
+cotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coté
+tu as coté
+il (elle) a coté
+nous avons coté
+vous avez coté
+ils (elles) ont coté
+
+** Plus-que-parfait
+
+j'avais coté
+tu avais coté
+il (elle) avait coté
+nous avions coté
+vous aviez coté
+ils (elles) avaient coté
+
+** Passé antérieur
+
+j'eus coté
+tu eus coté
+il (elle) eut coté
+nous eûmes coté
+vous eûtes coté
+ils (elles) eurent coté
+
+** Futur antérieur
+
+j'aurai coté
+tu auras coté
+il (elle) aura coté
+nous aurons coté
+vous aurez coté
+ils (elles) auront coté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coté
+tu aurais coté
+il (elle) aurait coté
+nous aurions coté
+vous auriez coté
+ils (elles) auraient coté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coté
+que tu aies coté
+qu’il (elle) ait coté
+que nous ayons coté
+que vous ayez coté
+qu’ils (elles) aient coté
+
+** Plus-que-parfait
+
+que j'eusse coté
+que tu eusses coté
+qu’il (elle) eût coté
+que nous eussions coté
+que vous eussiez coté
+qu’ils (elles) eussent coté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coté
+ayez coté
+
+* INFINITIF
+
+** Passé
+
+avoir coté
+
+* PARTICIPE
+
+** Passé
+
+ayant coté
+coté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coté(e)
+tu es coté(e)
+il (elle) est coté(e)
+nous sommes coté(e)s
+vous êtes coté(e)s
+ils (elles) sont coté(e)s
+
+** Imparfait
+
+j'étais coté(e)
+tu étais coté(e)
+il (elle) était coté(e)
+nous étions coté(e)s
+vous étiez coté(e)s
+ils (elles) étaient coté(e)s
+
+** Passé simple
+
+je fus coté(e)
+tu fus coté(e)
+il (elle) fut coté(e)
+nous fûmes coté(e)s
+vous fûtes coté(e)s
+ils (elles) furent coté(e)s
+
+** Futur simple
+
+je serai coté(e)
+tu seras coté(e)
+il (elle) sera coté(e)
+nous serons coté(e)s
+vous serez coté(e)s
+ils (elles) seront coté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coté(e)
+tu serais coté(e)
+il (elle) serait coté(e)
+nous serions coté(e)s
+vous seriez coté(e)s
+ils (elles) seraient coté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coté(e)
+que tu sois coté(e)
+qu’il (elle) soit coté(e)
+que nous soyons coté(e)s
+que vous soyez coté(e)s
+qu’ils (elles) soient coté(e)s
+
+** Imparfait
+
+que je fusse coté(e)
+que tu fusses coté(e)
+qu’il (elle) fût coté(e)
+que nous fussions coté(e)s
+que vous fussiez coté(e)s
+qu’ils (elles) fussent coté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coté(e)s
+soyez coté(e)s
+
+* INFINITIF
+
+** Présent
+
+être coté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coté(e)
+tu as été coté(e)
+il (elle) a été coté(e)
+nous avons été coté(e)s
+vous avez été coté(e)s
+ils (elles) ont été coté(e)s
+
+** Plus-que-parfait
+
+j'avais été coté(e)
+il (elle) avait été coté(e)
+nous avions été coté(e)s
+ils (elles) avaient été coté(e)s
+
+** Passé antérieur
+
+j'eus été coté(e)
+tu eus été coté(e)
+il (elle) eut été coté(e)
+nous eûmes été coté(e)s
+vous eûtes été coté(e)s
+ils (elles) eurent été coté(e)s
+
+** Futur antérieur
+
+j'aurai été coté(e)
+tu auras été coté(e)
+il (elle) aura été coté(e)
+nous aurons été coté(e)s
+vous aurez été coté(e)s
+ils (elles) auront été coté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coté(e)
+j'aurais été coté(e)
+il (elle) aurait été coté(e)
+nous aurions été coté(e)s
+vous auriez été coté(e)s
+ils (elles) auraient été coté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coté(e)
+que tu aies été coté(e)
+qu’il (elle) ait été coté(e)
+que nous ayons été coté(e)s
+que vous ayez été coté(e)s
+qu’ils (elles) aient été coté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coté(e)
+que tu eusses été coté(e)
+qu’il (elle) eût été coté(e)
+que nous eussions été coté(e)s
+que vous eussiez été coté(e)s
+qu’ils (elles) eussent été coté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coté(e)
+ayons été coté(e)s
+ayez été coté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coté(e)(s)

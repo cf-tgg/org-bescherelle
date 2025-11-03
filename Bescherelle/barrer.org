@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe barrer
+
+* INDICATIF
+
+** Présent
+
+je barre
+tu barres
+il (elle) barre
+nous barrons
+vous barrez
+ils (elles) barrent
+
+** Imparfait
+
+je barrais
+tu barrais
+il (elle) barrait
+nous barrions
+vous barriez
+ils (elles) barraient
+
+** Passé simple
+
+je barrai
+tu barras
+il (elle) barra
+nous barrâmes
+vous barrâtes
+ils (elles) barrèrent
+
+** Futur simple
+
+je barrerai
+tu barreras
+il (elle) barrera
+nous barrerons
+vous barrerez
+ils (elles) barreront
+
+* CONDITIONNEL
+
+** Présent
+
+je barrerais
+tu barrerais
+il (elle) barrerait
+nous barrerions
+vous barreriez
+ils (elles) barreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je barre
+que tu barres
+qu’il (elle) barre
+que nous barrions
+que vous barriez
+qu’ils (elles) barrent
+
+** Imparfait
+
+que je barrasse
+que tu barrasses
+qu’il (elle) barrât
+que nous barrassions
+que vous barrassiez
+qu’ils (elles) barrassent
+
+* IMPÉRATIF
+
+** Présent
+
+barre
+barrons
+barrez
+
+* INFINITIF
+
+** Présent
+
+barrer
+
+* PARTICIPE
+
+** Présent
+
+barrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai barré
+tu as barré
+il (elle) a barré
+nous avons barré
+vous avez barré
+ils (elles) ont barré
+
+** Plus-que-parfait
+
+j'avais barré
+tu avais barré
+il (elle) avait barré
+nous avions barré
+vous aviez barré
+ils (elles) avaient barré
+
+** Passé antérieur
+
+j'eus barré
+tu eus barré
+il (elle) eut barré
+nous eûmes barré
+vous eûtes barré
+ils (elles) eurent barré
+
+** Futur antérieur
+
+j'aurai barré
+tu auras barré
+il (elle) aura barré
+nous aurons barré
+vous aurez barré
+ils (elles) auront barré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais barré
+tu aurais barré
+il (elle) aurait barré
+nous aurions barré
+vous auriez barré
+ils (elles) auraient barré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie barré
+que tu aies barré
+qu’il (elle) ait barré
+que nous ayons barré
+que vous ayez barré
+qu’ils (elles) aient barré
+
+** Plus-que-parfait
+
+que j'eusse barré
+que tu eusses barré
+qu’il (elle) eût barré
+que nous eussions barré
+que vous eussiez barré
+qu’ils (elles) eussent barré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons barré
+ayez barré
+
+* INFINITIF
+
+** Passé
+
+avoir barré
+
+* PARTICIPE
+
+** Passé
+
+ayant barré
+barré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis barré(e)
+tu es barré(e)
+il (elle) est barré(e)
+nous sommes barré(e)s
+vous êtes barré(e)s
+ils (elles) sont barré(e)s
+
+** Imparfait
+
+j'étais barré(e)
+tu étais barré(e)
+il (elle) était barré(e)
+nous étions barré(e)s
+vous étiez barré(e)s
+ils (elles) étaient barré(e)s
+
+** Passé simple
+
+je fus barré(e)
+tu fus barré(e)
+il (elle) fut barré(e)
+nous fûmes barré(e)s
+vous fûtes barré(e)s
+ils (elles) furent barré(e)s
+
+** Futur simple
+
+je serai barré(e)
+tu seras barré(e)
+il (elle) sera barré(e)
+nous serons barré(e)s
+vous serez barré(e)s
+ils (elles) seront barré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais barré(e)
+tu serais barré(e)
+il (elle) serait barré(e)
+nous serions barré(e)s
+vous seriez barré(e)s
+ils (elles) seraient barré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois barré(e)
+que tu sois barré(e)
+qu’il (elle) soit barré(e)
+que nous soyons barré(e)s
+que vous soyez barré(e)s
+qu’ils (elles) soient barré(e)s
+
+** Imparfait
+
+que je fusse barré(e)
+que tu fusses barré(e)
+qu’il (elle) fût barré(e)
+que nous fussions barré(e)s
+que vous fussiez barré(e)s
+qu’ils (elles) fussent barré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons barré(e)s
+soyez barré(e)s
+
+* INFINITIF
+
+** Présent
+
+être barré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant barré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été barré(e)
+tu as été barré(e)
+il (elle) a été barré(e)
+nous avons été barré(e)s
+vous avez été barré(e)s
+ils (elles) ont été barré(e)s
+
+** Plus-que-parfait
+
+j'avais été barré(e)
+il (elle) avait été barré(e)
+nous avions été barré(e)s
+ils (elles) avaient été barré(e)s
+
+** Passé antérieur
+
+j'eus été barré(e)
+tu eus été barré(e)
+il (elle) eut été barré(e)
+nous eûmes été barré(e)s
+vous eûtes été barré(e)s
+ils (elles) eurent été barré(e)s
+
+** Futur antérieur
+
+j'aurai été barré(e)
+tu auras été barré(e)
+il (elle) aura été barré(e)
+nous aurons été barré(e)s
+vous aurez été barré(e)s
+ils (elles) auront été barré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été barré(e)
+j'aurais été barré(e)
+il (elle) aurait été barré(e)
+nous aurions été barré(e)s
+vous auriez été barré(e)s
+ils (elles) auraient été barré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été barré(e)
+que tu aies été barré(e)
+qu’il (elle) ait été barré(e)
+que nous ayons été barré(e)s
+que vous ayez été barré(e)s
+qu’ils (elles) aient été barré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été barré(e)
+que tu eusses été barré(e)
+qu’il (elle) eût été barré(e)
+que nous eussions été barré(e)s
+que vous eussiez été barré(e)s
+qu’ils (elles) eussent été barré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été barré(e)
+ayons été barré(e)s
+ayez été barré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été barré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été barré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tutoyer
+
+* INDICATIF
+
+** Présent
+
+je tutoie
+tu tutoies
+il (elle) tutoie
+nous tutoyons
+vous tutoyez
+ils (elles) tutoient
+
+** Imparfait
+
+je tutoyais
+tu tutoyais
+il (elle) tutoyait
+nous tutoyions
+vous tutoyiez
+ils (elles) tutoyaient
+
+** Passé simple
+
+je tutoyai
+tu tutoyas
+il (elle) tutoya
+nous tutoyâmes
+vous tutoyâtes
+ils (elles) tutoyèrent
+
+** Futur simple
+
+je tutoierai
+tu tutoieras
+il (elle) tutoiera
+nous tutoierons
+vous tutoierez
+ils (elles) tutoieront
+
+* CONDITIONNEL
+
+** Présent
+
+je tutoierais
+tu tutoierais
+il (elle) tutoierait
+nous tutoierions
+vous tutoieriez
+ils (elles) tutoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tutoie
+que tu tutoies
+qu’il (elle) tutoie
+que nous tutoyions
+que vous tutoyiez
+qu’ils (elles) tutoient
+
+** Imparfait
+
+que je tutoyasse
+que tu tutoyasses
+qu’il (elle) tutoyât
+que nous tutoyassions
+que vous tutoyassiez
+qu’ils (elles) tutoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+tutoie
+tutoyons
+tutoyez
+
+* INFINITIF
+
+** Présent
+
+tutoyer
+
+* PARTICIPE
+
+** Présent
+
+tutoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tutoyé
+tu as tutoyé
+il (elle) a tutoyé
+nous avons tutoyé
+vous avez tutoyé
+ils (elles) ont tutoyé
+
+** Plus-que-parfait
+
+j'avais tutoyé
+tu avais tutoyé
+il (elle) avait tutoyé
+nous avions tutoyé
+vous aviez tutoyé
+ils (elles) avaient tutoyé
+
+** Passé antérieur
+
+j'eus tutoyé
+tu eus tutoyé
+il (elle) eut tutoyé
+nous eûmes tutoyé
+vous eûtes tutoyé
+ils (elles) eurent tutoyé
+
+** Futur antérieur
+
+j'aurai tutoyé
+tu auras tutoyé
+il (elle) aura tutoyé
+nous aurons tutoyé
+vous aurez tutoyé
+ils (elles) auront tutoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tutoyé
+tu aurais tutoyé
+il (elle) aurait tutoyé
+nous aurions tutoyé
+vous auriez tutoyé
+ils (elles) auraient tutoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tutoyé
+que tu aies tutoyé
+qu’il (elle) ait tutoyé
+que nous ayons tutoyé
+que vous ayez tutoyé
+qu’ils (elles) aient tutoyé
+
+** Plus-que-parfait
+
+que j'eusse tutoyé
+que tu eusses tutoyé
+qu’il (elle) eût tutoyé
+que nous eussions tutoyé
+que vous eussiez tutoyé
+qu’ils (elles) eussent tutoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tutoyé
+ayez tutoyé
+
+* INFINITIF
+
+** Passé
+
+avoir tutoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant tutoyé
+tutoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tutoyé(e)
+tu es tutoyé(e)
+il (elle) est tutoyé(e)
+nous sommes tutoyé(e)s
+vous êtes tutoyé(e)s
+ils (elles) sont tutoyé(e)s
+
+** Imparfait
+
+j'étais tutoyé(e)
+tu étais tutoyé(e)
+il (elle) était tutoyé(e)
+nous étions tutoyé(e)s
+vous étiez tutoyé(e)s
+ils (elles) étaient tutoyé(e)s
+
+** Passé simple
+
+je fus tutoyé(e)
+tu fus tutoyé(e)
+il (elle) fut tutoyé(e)
+nous fûmes tutoyé(e)s
+vous fûtes tutoyé(e)s
+ils (elles) furent tutoyé(e)s
+
+** Futur simple
+
+je serai tutoyé(e)
+tu seras tutoyé(e)
+il (elle) sera tutoyé(e)
+nous serons tutoyé(e)s
+vous serez tutoyé(e)s
+ils (elles) seront tutoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tutoyé(e)
+tu serais tutoyé(e)
+il (elle) serait tutoyé(e)
+nous serions tutoyé(e)s
+vous seriez tutoyé(e)s
+ils (elles) seraient tutoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tutoyé(e)
+que tu sois tutoyé(e)
+qu’il (elle) soit tutoyé(e)
+que nous soyons tutoyé(e)s
+que vous soyez tutoyé(e)s
+qu’ils (elles) soient tutoyé(e)s
+
+** Imparfait
+
+que je fusse tutoyé(e)
+que tu fusses tutoyé(e)
+qu’il (elle) fût tutoyé(e)
+que nous fussions tutoyé(e)s
+que vous fussiez tutoyé(e)s
+qu’ils (elles) fussent tutoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tutoyé(e)s
+soyez tutoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tutoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tutoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tutoyé(e)
+tu as été tutoyé(e)
+il (elle) a été tutoyé(e)
+nous avons été tutoyé(e)s
+vous avez été tutoyé(e)s
+ils (elles) ont été tutoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été tutoyé(e)
+il (elle) avait été tutoyé(e)
+nous avions été tutoyé(e)s
+ils (elles) avaient été tutoyé(e)s
+
+** Passé antérieur
+
+j'eus été tutoyé(e)
+tu eus été tutoyé(e)
+il (elle) eut été tutoyé(e)
+nous eûmes été tutoyé(e)s
+vous eûtes été tutoyé(e)s
+ils (elles) eurent été tutoyé(e)s
+
+** Futur antérieur
+
+j'aurai été tutoyé(e)
+tu auras été tutoyé(e)
+il (elle) aura été tutoyé(e)
+nous aurons été tutoyé(e)s
+vous aurez été tutoyé(e)s
+ils (elles) auront été tutoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tutoyé(e)
+j'aurais été tutoyé(e)
+il (elle) aurait été tutoyé(e)
+nous aurions été tutoyé(e)s
+vous auriez été tutoyé(e)s
+ils (elles) auraient été tutoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tutoyé(e)
+que tu aies été tutoyé(e)
+qu’il (elle) ait été tutoyé(e)
+que nous ayons été tutoyé(e)s
+que vous ayez été tutoyé(e)s
+qu’ils (elles) aient été tutoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tutoyé(e)
+que tu eusses été tutoyé(e)
+qu’il (elle) eût été tutoyé(e)
+que nous eussions été tutoyé(e)s
+que vous eussiez été tutoyé(e)s
+qu’ils (elles) eussent été tutoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tutoyé(e)
+ayons été tutoyé(e)s
+ayez été tutoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tutoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tutoyé(e)(s)

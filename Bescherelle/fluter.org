@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fluter
+
+* INDICATIF
+
+** Présent
+
+je flûte
+tu flûtes
+il (elle) flûte
+nous flûtons
+vous flûtez
+ils (elles) flûtent
+
+** Imparfait
+
+je flûtais
+tu flûtais
+il (elle) flûtait
+nous flûtions
+vous flûtiez
+ils (elles) flûtaient
+
+** Passé simple
+
+je flûtai
+tu flûtas
+il (elle) flûta
+nous flûtâmes
+vous flûtâtes
+ils (elles) flûtèrent
+
+** Futur simple
+
+je flûterai
+tu flûteras
+il (elle) flûtera
+nous flûterons
+vous flûterez
+ils (elles) flûteront
+
+* CONDITIONNEL
+
+** Présent
+
+je flûterais
+tu flûterais
+il (elle) flûterait
+nous flûterions
+vous flûteriez
+ils (elles) flûteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je flûte
+que tu flûtes
+qu’il (elle) flûte
+que nous flûtions
+que vous flûtiez
+qu’ils (elles) flûtent
+
+** Imparfait
+
+que je flûtasse
+que tu flûtasses
+qu’il (elle) flûtât
+que nous flûtassions
+que vous flûtassiez
+qu’ils (elles) flûtassent
+
+* IMPÉRATIF
+
+** Présent
+
+flûte
+flûtons
+flûtez
+
+* INFINITIF
+
+** Présent
+
+flûter
+
+* PARTICIPE
+
+** Présent
+
+flûtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai flûté
+tu as flûté
+il (elle) a flûté
+nous avons flûté
+vous avez flûté
+ils (elles) ont flûté
+
+** Plus-que-parfait
+
+j'avais flûté
+tu avais flûté
+il (elle) avait flûté
+nous avions flûté
+vous aviez flûté
+ils (elles) avaient flûté
+
+** Passé antérieur
+
+j'eus flûté
+tu eus flûté
+il (elle) eut flûté
+nous eûmes flûté
+vous eûtes flûté
+ils (elles) eurent flûté
+
+** Futur antérieur
+
+j'aurai flûté
+tu auras flûté
+il (elle) aura flûté
+nous aurons flûté
+vous aurez flûté
+ils (elles) auront flûté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais flûté
+tu aurais flûté
+il (elle) aurait flûté
+nous aurions flûté
+vous auriez flûté
+ils (elles) auraient flûté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie flûté
+que tu aies flûté
+qu’il (elle) ait flûté
+que nous ayons flûté
+que vous ayez flûté
+qu’ils (elles) aient flûté
+
+** Plus-que-parfait
+
+que j'eusse flûté
+que tu eusses flûté
+qu’il (elle) eût flûté
+que nous eussions flûté
+que vous eussiez flûté
+qu’ils (elles) eussent flûté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons flûté
+ayez flûté
+
+* INFINITIF
+
+** Passé
+
+avoir flûté
+
+* PARTICIPE
+
+** Passé
+
+ayant flûté
+flûté (invar.)

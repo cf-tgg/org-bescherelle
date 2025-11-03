@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe construire
+
+* INDICATIF
+
+** Présent
+
+je construis
+tu construis
+il (elle) construit
+nous construisons
+vous construisez
+ils (elles) construisent
+
+** Imparfait
+
+je construisais
+tu construisais
+il (elle) construisait
+nous construisions
+vous construisiez
+ils (elles) construisaient
+
+** Passé simple
+
+je construisis
+tu construisis
+il (elle) construisit
+nous construisîmes
+vous construisîtes
+ils (elles) construisirent
+
+** Futur simple
+
+je construirai
+tu construiras
+il (elle) construira
+nous construirons
+vous construirez
+ils (elles) construiront
+
+* CONDITIONNEL
+
+** Présent
+
+je construirais
+tu construirais
+il (elle) construirait
+nous construirions
+vous construiriez
+ils (elles) construiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je construise
+que tu construises
+qu’il (elle) construise
+que nous construisions
+que vous construisiez
+qu’ils (elles) construisent
+
+** Imparfait
+
+que je construisisse
+que tu construisisses
+qu’il (elle) construisît
+que nous construisissions
+que vous construisissiez
+qu’ils (elles) construisissent
+
+* IMPÉRATIF
+
+** Présent
+
+construis
+construisons
+construisez
+
+* INFINITIF
+
+** Présent
+
+construire
+
+* PARTICIPE
+
+** Présent
+
+construisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai construit
+tu as construit
+il (elle) a construit
+nous avons construit
+vous avez construit
+ils (elles) ont construit
+
+** Plus-que-parfait
+
+j'avais construit
+tu avais construit
+il (elle) avait construit
+nous avions construit
+vous aviez construit
+ils (elles) avaient construit
+
+** Passé antérieur
+
+j'eus construit
+tu eus construit
+il (elle) eut construit
+nous eûmes construit
+vous eûtes construit
+ils (elles) eurent construit
+
+** Futur antérieur
+
+j'aurai construit
+tu auras construit
+il (elle) aura construit
+nous aurons construit
+vous aurez construit
+ils (elles) auront construit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais construit
+tu aurais construit
+il (elle) aurait construit
+nous aurions construit
+vous auriez construit
+ils (elles) auraient construit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie construit
+que tu aies construit
+qu’il (elle) ait construit
+que nous ayons construit
+que vous ayez construit
+qu’ils (elles) aient construit
+
+** Plus-que-parfait
+
+que j'eusse construit
+que tu eusses construit
+qu’il (elle) eût construit
+que nous eussions construit
+que vous eussiez construit
+qu’ils (elles) eussent construit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons construit
+ayez construit
+
+* INFINITIF
+
+** Passé
+
+avoir construit
+
+* PARTICIPE
+
+** Passé
+
+ayant construit
+construit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis construit(e)
+tu es construit(e)
+il (elle) est construit(e)
+nous sommes construit(e)s
+vous êtes construit(e)s
+ils (elles) sont construit(e)s
+
+** Imparfait
+
+j'étais construit(e)
+tu étais construit(e)
+il (elle) était construit(e)
+nous étions construit(e)s
+vous étiez construit(e)s
+ils (elles) étaient construit(e)s
+
+** Passé simple
+
+je fus construit(e)
+tu fus construit(e)
+il (elle) fut construit(e)
+nous fûmes construit(e)s
+vous fûtes construit(e)s
+ils (elles) furent construit(e)s
+
+** Futur simple
+
+je serai construit(e)
+tu seras construit(e)
+il (elle) sera construit(e)
+nous serons construit(e)s
+vous serez construit(e)s
+ils (elles) seront construit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais construit(e)
+tu serais construit(e)
+il (elle) serait construit(e)
+nous serions construit(e)s
+vous seriez construit(e)s
+ils (elles) seraient construit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois construit(e)
+que tu sois construit(e)
+qu’il (elle) soit construit(e)
+que nous soyons construit(e)s
+que vous soyez construit(e)s
+qu’ils (elles) soient construit(e)s
+
+** Imparfait
+
+que je fusse construit(e)
+que tu fusses construit(e)
+qu’il (elle) fût construit(e)
+que nous fussions construit(e)s
+que vous fussiez construit(e)s
+qu’ils (elles) fussent construit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons construit(e)s
+soyez construit(e)s
+
+* INFINITIF
+
+** Présent
+
+être construit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant construit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été construit(e)
+tu as été construit(e)
+il (elle) a été construit(e)
+nous avons été construit(e)s
+vous avez été construit(e)s
+ils (elles) ont été construit(e)s
+
+** Plus-que-parfait
+
+j'avais été construit(e)
+il (elle) avait été construit(e)
+nous avions été construit(e)s
+ils (elles) avaient été construit(e)s
+
+** Passé antérieur
+
+j'eus été construit(e)
+tu eus été construit(e)
+il (elle) eut été construit(e)
+nous eûmes été construit(e)s
+vous eûtes été construit(e)s
+ils (elles) eurent été construit(e)s
+
+** Futur antérieur
+
+j'aurai été construit(e)
+tu auras été construit(e)
+il (elle) aura été construit(e)
+nous aurons été construit(e)s
+vous aurez été construit(e)s
+ils (elles) auront été construit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été construit(e)
+j'aurais été construit(e)
+il (elle) aurait été construit(e)
+nous aurions été construit(e)s
+vous auriez été construit(e)s
+ils (elles) auraient été construit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été construit(e)
+que tu aies été construit(e)
+qu’il (elle) ait été construit(e)
+que nous ayons été construit(e)s
+que vous ayez été construit(e)s
+qu’ils (elles) aient été construit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été construit(e)
+que tu eusses été construit(e)
+qu’il (elle) eût été construit(e)
+que nous eussions été construit(e)s
+que vous eussiez été construit(e)s
+qu’ils (elles) eussent été construit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été construit(e)
+ayons été construit(e)s
+ayez été construit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été construit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été construit(e)(s)

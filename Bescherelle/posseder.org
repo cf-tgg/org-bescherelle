@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe posseder
+
+* INDICATIF
+
+** Présent
+
+je possède
+tu possèdes
+il (elle) possède
+nous possédons
+vous possédez
+ils (elles) possèdent
+
+** Imparfait
+
+je possédais
+tu possédais
+il (elle) possédait
+nous possédions
+vous possédiez
+ils (elles) possédaient
+
+** Passé simple
+
+je possédai
+tu possédas
+il (elle) posséda
+nous possédâmes
+vous possédâtes
+ils (elles) possédèrent
+
+** Futur simple
+
+je posséderai
+tu posséderas
+il (elle) possédera
+nous posséderons
+vous posséderez
+ils (elles) posséderont
+
+* CONDITIONNEL
+
+** Présent
+
+je posséderais
+tu posséderais
+il (elle) posséderait
+nous posséderions
+vous posséderiez
+ils (elles) posséderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je possède
+que tu possèdes
+qu’il (elle) possède
+que nous possédions
+que vous possédiez
+qu’ils (elles) possèdent
+
+** Imparfait
+
+que je possédasse
+que tu possédasses
+qu’il (elle) possédât
+que nous possédassions
+que vous possédassiez
+qu’ils (elles) possédassent
+
+* IMPÉRATIF
+
+** Présent
+
+possède
+possédons
+possédez
+
+* INFINITIF
+
+** Présent
+
+posséder
+
+* PARTICIPE
+
+** Présent
+
+possédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai possédé
+tu as possédé
+il (elle) a possédé
+nous avons possédé
+vous avez possédé
+ils (elles) ont possédé
+
+** Plus-que-parfait
+
+j'avais possédé
+tu avais possédé
+il (elle) avait possédé
+nous avions possédé
+vous aviez possédé
+ils (elles) avaient possédé
+
+** Passé antérieur
+
+j'eus possédé
+tu eus possédé
+il (elle) eut possédé
+nous eûmes possédé
+vous eûtes possédé
+ils (elles) eurent possédé
+
+** Futur antérieur
+
+j'aurai possédé
+tu auras possédé
+il (elle) aura possédé
+nous aurons possédé
+vous aurez possédé
+ils (elles) auront possédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais possédé
+tu aurais possédé
+il (elle) aurait possédé
+nous aurions possédé
+vous auriez possédé
+ils (elles) auraient possédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie possédé
+que tu aies possédé
+qu’il (elle) ait possédé
+que nous ayons possédé
+que vous ayez possédé
+qu’ils (elles) aient possédé
+
+** Plus-que-parfait
+
+que j'eusse possédé
+que tu eusses possédé
+qu’il (elle) eût possédé
+que nous eussions possédé
+que vous eussiez possédé
+qu’ils (elles) eussent possédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons possédé
+ayez possédé
+
+* INFINITIF
+
+** Passé
+
+avoir possédé
+
+* PARTICIPE
+
+** Passé
+
+ayant possédé
+possédé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis possédé(e)
+tu es possédé(e)
+il (elle) est possédé(e)
+nous sommes possédé(e)s
+vous êtes possédé(e)s
+ils (elles) sont possédé(e)s
+
+** Imparfait
+
+j'étais possédé(e)
+tu étais possédé(e)
+il (elle) était possédé(e)
+nous étions possédé(e)s
+vous étiez possédé(e)s
+ils (elles) étaient possédé(e)s
+
+** Passé simple
+
+je fus possédé(e)
+tu fus possédé(e)
+il (elle) fut possédé(e)
+nous fûmes possédé(e)s
+vous fûtes possédé(e)s
+ils (elles) furent possédé(e)s
+
+** Futur simple
+
+je serai possédé(e)
+tu seras possédé(e)
+il (elle) sera possédé(e)
+nous serons possédé(e)s
+vous serez possédé(e)s
+ils (elles) seront possédé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais possédé(e)
+tu serais possédé(e)
+il (elle) serait possédé(e)
+nous serions possédé(e)s
+vous seriez possédé(e)s
+ils (elles) seraient possédé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois possédé(e)
+que tu sois possédé(e)
+qu’il (elle) soit possédé(e)
+que nous soyons possédé(e)s
+que vous soyez possédé(e)s
+qu’ils (elles) soient possédé(e)s
+
+** Imparfait
+
+que je fusse possédé(e)
+que tu fusses possédé(e)
+qu’il (elle) fût possédé(e)
+que nous fussions possédé(e)s
+que vous fussiez possédé(e)s
+qu’ils (elles) fussent possédé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons possédé(e)s
+soyez possédé(e)s
+
+* INFINITIF
+
+** Présent
+
+être possédé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant possédé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été possédé(e)
+tu as été possédé(e)
+il (elle) a été possédé(e)
+nous avons été possédé(e)s
+vous avez été possédé(e)s
+ils (elles) ont été possédé(e)s
+
+** Plus-que-parfait
+
+j'avais été possédé(e)
+il (elle) avait été possédé(e)
+nous avions été possédé(e)s
+ils (elles) avaient été possédé(e)s
+
+** Passé antérieur
+
+j'eus été possédé(e)
+tu eus été possédé(e)
+il (elle) eut été possédé(e)
+nous eûmes été possédé(e)s
+vous eûtes été possédé(e)s
+ils (elles) eurent été possédé(e)s
+
+** Futur antérieur
+
+j'aurai été possédé(e)
+tu auras été possédé(e)
+il (elle) aura été possédé(e)
+nous aurons été possédé(e)s
+vous aurez été possédé(e)s
+ils (elles) auront été possédé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été possédé(e)
+j'aurais été possédé(e)
+il (elle) aurait été possédé(e)
+nous aurions été possédé(e)s
+vous auriez été possédé(e)s
+ils (elles) auraient été possédé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été possédé(e)
+que tu aies été possédé(e)
+qu’il (elle) ait été possédé(e)
+que nous ayons été possédé(e)s
+que vous ayez été possédé(e)s
+qu’ils (elles) aient été possédé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été possédé(e)
+que tu eusses été possédé(e)
+qu’il (elle) eût été possédé(e)
+que nous eussions été possédé(e)s
+que vous eussiez été possédé(e)s
+qu’ils (elles) eussent été possédé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été possédé(e)
+ayons été possédé(e)s
+ayez été possédé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été possédé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été possédé(e)(s)

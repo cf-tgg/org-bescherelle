@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lancer
+
+* INDICATIF
+
+** Présent
+
+je lance
+tu lances
+il (elle) lance
+nous lançons
+vous lancez
+ils (elles) lancent
+
+** Imparfait
+
+je lançais
+tu lançais
+il (elle) lançait
+nous lancions
+vous lanciez
+ils (elles) lançaient
+
+** Passé simple
+
+je lançai
+tu lanças
+il (elle) lança
+nous lançâmes
+vous lançâtes
+ils (elles) lancèrent
+
+** Futur simple
+
+je lancerai
+tu lanceras
+il (elle) lancera
+nous lancerons
+vous lancerez
+ils (elles) lanceront
+
+* CONDITIONNEL
+
+** Présent
+
+je lancerais
+tu lancerais
+il (elle) lancerait
+nous lancerions
+vous lanceriez
+ils (elles) lanceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lance
+que tu lances
+qu’il (elle) lance
+que nous lancions
+que vous lanciez
+qu’ils (elles) lancent
+
+** Imparfait
+
+que je lançasse
+que tu lançasses
+qu’il (elle) lançât
+que nous lançassions
+que vous lançassiez
+qu’ils (elles) lançassent
+
+* IMPÉRATIF
+
+** Présent
+
+lance
+lançons
+lancez
+
+* INFINITIF
+
+** Présent
+
+lancer
+
+* PARTICIPE
+
+** Présent
+
+lançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lancé
+tu as lancé
+il (elle) a lancé
+nous avons lancé
+vous avez lancé
+ils (elles) ont lancé
+
+** Plus-que-parfait
+
+j'avais lancé
+tu avais lancé
+il (elle) avait lancé
+nous avions lancé
+vous aviez lancé
+ils (elles) avaient lancé
+
+** Passé antérieur
+
+j'eus lancé
+tu eus lancé
+il (elle) eut lancé
+nous eûmes lancé
+vous eûtes lancé
+ils (elles) eurent lancé
+
+** Futur antérieur
+
+j'aurai lancé
+tu auras lancé
+il (elle) aura lancé
+nous aurons lancé
+vous aurez lancé
+ils (elles) auront lancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lancé
+tu aurais lancé
+il (elle) aurait lancé
+nous aurions lancé
+vous auriez lancé
+ils (elles) auraient lancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lancé
+que tu aies lancé
+qu’il (elle) ait lancé
+que nous ayons lancé
+que vous ayez lancé
+qu’ils (elles) aient lancé
+
+** Plus-que-parfait
+
+que j'eusse lancé
+que tu eusses lancé
+qu’il (elle) eût lancé
+que nous eussions lancé
+que vous eussiez lancé
+qu’ils (elles) eussent lancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lancé
+ayez lancé
+
+* INFINITIF
+
+** Passé
+
+avoir lancé
+
+* PARTICIPE
+
+** Passé
+
+ayant lancé
+lancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lancé(e)
+tu es lancé(e)
+il (elle) est lancé(e)
+nous sommes lancé(e)s
+vous êtes lancé(e)s
+ils (elles) sont lancé(e)s
+
+** Imparfait
+
+j'étais lancé(e)
+tu étais lancé(e)
+il (elle) était lancé(e)
+nous étions lancé(e)s
+vous étiez lancé(e)s
+ils (elles) étaient lancé(e)s
+
+** Passé simple
+
+je fus lancé(e)
+tu fus lancé(e)
+il (elle) fut lancé(e)
+nous fûmes lancé(e)s
+vous fûtes lancé(e)s
+ils (elles) furent lancé(e)s
+
+** Futur simple
+
+je serai lancé(e)
+tu seras lancé(e)
+il (elle) sera lancé(e)
+nous serons lancé(e)s
+vous serez lancé(e)s
+ils (elles) seront lancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lancé(e)
+tu serais lancé(e)
+il (elle) serait lancé(e)
+nous serions lancé(e)s
+vous seriez lancé(e)s
+ils (elles) seraient lancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lancé(e)
+que tu sois lancé(e)
+qu’il (elle) soit lancé(e)
+que nous soyons lancé(e)s
+que vous soyez lancé(e)s
+qu’ils (elles) soient lancé(e)s
+
+** Imparfait
+
+que je fusse lancé(e)
+que tu fusses lancé(e)
+qu’il (elle) fût lancé(e)
+que nous fussions lancé(e)s
+que vous fussiez lancé(e)s
+qu’ils (elles) fussent lancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lancé(e)s
+soyez lancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lancé(e)
+tu as été lancé(e)
+il (elle) a été lancé(e)
+nous avons été lancé(e)s
+vous avez été lancé(e)s
+ils (elles) ont été lancé(e)s
+
+** Plus-que-parfait
+
+j'avais été lancé(e)
+il (elle) avait été lancé(e)
+nous avions été lancé(e)s
+ils (elles) avaient été lancé(e)s
+
+** Passé antérieur
+
+j'eus été lancé(e)
+tu eus été lancé(e)
+il (elle) eut été lancé(e)
+nous eûmes été lancé(e)s
+vous eûtes été lancé(e)s
+ils (elles) eurent été lancé(e)s
+
+** Futur antérieur
+
+j'aurai été lancé(e)
+tu auras été lancé(e)
+il (elle) aura été lancé(e)
+nous aurons été lancé(e)s
+vous aurez été lancé(e)s
+ils (elles) auront été lancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lancé(e)
+j'aurais été lancé(e)
+il (elle) aurait été lancé(e)
+nous aurions été lancé(e)s
+vous auriez été lancé(e)s
+ils (elles) auraient été lancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lancé(e)
+que tu aies été lancé(e)
+qu’il (elle) ait été lancé(e)
+que nous ayons été lancé(e)s
+que vous ayez été lancé(e)s
+qu’ils (elles) aient été lancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lancé(e)
+que tu eusses été lancé(e)
+qu’il (elle) eût été lancé(e)
+que nous eussions été lancé(e)s
+que vous eussiez été lancé(e)s
+qu’ils (elles) eussent été lancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lancé(e)
+ayons été lancé(e)s
+ayez été lancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lancé(e)(s)

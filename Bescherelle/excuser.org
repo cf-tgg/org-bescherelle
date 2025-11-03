@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe excuser
+
+* INDICATIF
+
+** Présent
+
+j'excuse
+tu excuses
+il (elle) excuse
+nous excusons
+vous excusez
+ils (elles) excusent
+
+** Imparfait
+
+j'excusais
+tu excusais
+il (elle) excusait
+nous excusions
+vous excusiez
+ils (elles) excusaient
+
+** Passé simple
+
+j'excusai
+tu excusas
+il (elle) excusa
+nous excusâmes
+vous excusâtes
+ils (elles) excusèrent
+
+** Futur simple
+
+j'excuserai
+tu excuseras
+il (elle) excusera
+nous excuserons
+vous excuserez
+ils (elles) excuseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'excuserais
+tu excuserais
+il (elle) excuserait
+nous excuserions
+vous excuseriez
+ils (elles) excuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'excuse
+que tu excuses
+qu’il (elle) excuse
+que nous excusions
+que vous excusiez
+qu’ils (elles) excusent
+
+** Imparfait
+
+que j'excusasse
+que tu excusasses
+qu’il (elle) excusât
+que nous excusassions
+que vous excusassiez
+qu’ils (elles) excusassent
+
+* IMPÉRATIF
+
+** Présent
+
+excuse
+excusons
+excusez
+
+* INFINITIF
+
+** Présent
+
+excuser
+
+* PARTICIPE
+
+** Présent
+
+excusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai excusé
+tu as excusé
+il (elle) a excusé
+nous avons excusé
+vous avez excusé
+ils (elles) ont excusé
+
+** Plus-que-parfait
+
+j'avais excusé
+tu avais excusé
+il (elle) avait excusé
+nous avions excusé
+vous aviez excusé
+ils (elles) avaient excusé
+
+** Passé antérieur
+
+j'eus excusé
+tu eus excusé
+il (elle) eut excusé
+nous eûmes excusé
+vous eûtes excusé
+ils (elles) eurent excusé
+
+** Futur antérieur
+
+j'aurai excusé
+tu auras excusé
+il (elle) aura excusé
+nous aurons excusé
+vous aurez excusé
+ils (elles) auront excusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais excusé
+tu aurais excusé
+il (elle) aurait excusé
+nous aurions excusé
+vous auriez excusé
+ils (elles) auraient excusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie excusé
+que tu aies excusé
+qu’il (elle) ait excusé
+que nous ayons excusé
+que vous ayez excusé
+qu’ils (elles) aient excusé
+
+** Plus-que-parfait
+
+que j'eusse excusé
+que tu eusses excusé
+qu’il (elle) eût excusé
+que nous eussions excusé
+que vous eussiez excusé
+qu’ils (elles) eussent excusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons excusé
+ayez excusé
+
+* INFINITIF
+
+** Passé
+
+avoir excusé
+
+* PARTICIPE
+
+** Passé
+
+ayant excusé
+excusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis excusé(e)
+tu es excusé(e)
+il (elle) est excusé(e)
+nous sommes excusé(e)s
+vous êtes excusé(e)s
+ils (elles) sont excusé(e)s
+
+** Imparfait
+
+j'étais excusé(e)
+tu étais excusé(e)
+il (elle) était excusé(e)
+nous étions excusé(e)s
+vous étiez excusé(e)s
+ils (elles) étaient excusé(e)s
+
+** Passé simple
+
+je fus excusé(e)
+tu fus excusé(e)
+il (elle) fut excusé(e)
+nous fûmes excusé(e)s
+vous fûtes excusé(e)s
+ils (elles) furent excusé(e)s
+
+** Futur simple
+
+je serai excusé(e)
+tu seras excusé(e)
+il (elle) sera excusé(e)
+nous serons excusé(e)s
+vous serez excusé(e)s
+ils (elles) seront excusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais excusé(e)
+tu serais excusé(e)
+il (elle) serait excusé(e)
+nous serions excusé(e)s
+vous seriez excusé(e)s
+ils (elles) seraient excusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois excusé(e)
+que tu sois excusé(e)
+qu’il (elle) soit excusé(e)
+que nous soyons excusé(e)s
+que vous soyez excusé(e)s
+qu’ils (elles) soient excusé(e)s
+
+** Imparfait
+
+que je fusse excusé(e)
+que tu fusses excusé(e)
+qu’il (elle) fût excusé(e)
+que nous fussions excusé(e)s
+que vous fussiez excusé(e)s
+qu’ils (elles) fussent excusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons excusé(e)s
+soyez excusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être excusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant excusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été excusé(e)
+tu as été excusé(e)
+il (elle) a été excusé(e)
+nous avons été excusé(e)s
+vous avez été excusé(e)s
+ils (elles) ont été excusé(e)s
+
+** Plus-que-parfait
+
+j'avais été excusé(e)
+il (elle) avait été excusé(e)
+nous avions été excusé(e)s
+ils (elles) avaient été excusé(e)s
+
+** Passé antérieur
+
+j'eus été excusé(e)
+tu eus été excusé(e)
+il (elle) eut été excusé(e)
+nous eûmes été excusé(e)s
+vous eûtes été excusé(e)s
+ils (elles) eurent été excusé(e)s
+
+** Futur antérieur
+
+j'aurai été excusé(e)
+tu auras été excusé(e)
+il (elle) aura été excusé(e)
+nous aurons été excusé(e)s
+vous aurez été excusé(e)s
+ils (elles) auront été excusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été excusé(e)
+j'aurais été excusé(e)
+il (elle) aurait été excusé(e)
+nous aurions été excusé(e)s
+vous auriez été excusé(e)s
+ils (elles) auraient été excusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été excusé(e)
+que tu aies été excusé(e)
+qu’il (elle) ait été excusé(e)
+que nous ayons été excusé(e)s
+que vous ayez été excusé(e)s
+qu’ils (elles) aient été excusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été excusé(e)
+que tu eusses été excusé(e)
+qu’il (elle) eût été excusé(e)
+que nous eussions été excusé(e)s
+que vous eussiez été excusé(e)s
+qu’ils (elles) eussent été excusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été excusé(e)
+ayons été excusé(e)s
+ayez été excusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été excusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été excusé(e)(s)

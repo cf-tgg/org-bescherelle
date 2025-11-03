@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe collecter
+
+* INDICATIF
+
+** Présent
+
+je collecte
+tu collectes
+il (elle) collecte
+nous collectons
+vous collectez
+ils (elles) collectent
+
+** Imparfait
+
+je collectais
+tu collectais
+il (elle) collectait
+nous collections
+vous collectiez
+ils (elles) collectaient
+
+** Passé simple
+
+je collectai
+tu collectas
+il (elle) collecta
+nous collectâmes
+vous collectâtes
+ils (elles) collectèrent
+
+** Futur simple
+
+je collecterai
+tu collecteras
+il (elle) collectera
+nous collecterons
+vous collecterez
+ils (elles) collecteront
+
+* CONDITIONNEL
+
+** Présent
+
+je collecterais
+tu collecterais
+il (elle) collecterait
+nous collecterions
+vous collecteriez
+ils (elles) collecteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je collecte
+que tu collectes
+qu’il (elle) collecte
+que nous collections
+que vous collectiez
+qu’ils (elles) collectent
+
+** Imparfait
+
+que je collectasse
+que tu collectasses
+qu’il (elle) collectât
+que nous collectassions
+que vous collectassiez
+qu’ils (elles) collectassent
+
+* IMPÉRATIF
+
+** Présent
+
+collecte
+collectons
+collectez
+
+* INFINITIF
+
+** Présent
+
+collecter
+
+* PARTICIPE
+
+** Présent
+
+collectant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai collecté
+tu as collecté
+il (elle) a collecté
+nous avons collecté
+vous avez collecté
+ils (elles) ont collecté
+
+** Plus-que-parfait
+
+j'avais collecté
+tu avais collecté
+il (elle) avait collecté
+nous avions collecté
+vous aviez collecté
+ils (elles) avaient collecté
+
+** Passé antérieur
+
+j'eus collecté
+tu eus collecté
+il (elle) eut collecté
+nous eûmes collecté
+vous eûtes collecté
+ils (elles) eurent collecté
+
+** Futur antérieur
+
+j'aurai collecté
+tu auras collecté
+il (elle) aura collecté
+nous aurons collecté
+vous aurez collecté
+ils (elles) auront collecté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais collecté
+tu aurais collecté
+il (elle) aurait collecté
+nous aurions collecté
+vous auriez collecté
+ils (elles) auraient collecté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie collecté
+que tu aies collecté
+qu’il (elle) ait collecté
+que nous ayons collecté
+que vous ayez collecté
+qu’ils (elles) aient collecté
+
+** Plus-que-parfait
+
+que j'eusse collecté
+que tu eusses collecté
+qu’il (elle) eût collecté
+que nous eussions collecté
+que vous eussiez collecté
+qu’ils (elles) eussent collecté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons collecté
+ayez collecté
+
+* INFINITIF
+
+** Passé
+
+avoir collecté
+
+* PARTICIPE
+
+** Passé
+
+ayant collecté
+collecté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis collecté(e)
+tu es collecté(e)
+il (elle) est collecté(e)
+nous sommes collecté(e)s
+vous êtes collecté(e)s
+ils (elles) sont collecté(e)s
+
+** Imparfait
+
+j'étais collecté(e)
+tu étais collecté(e)
+il (elle) était collecté(e)
+nous étions collecté(e)s
+vous étiez collecté(e)s
+ils (elles) étaient collecté(e)s
+
+** Passé simple
+
+je fus collecté(e)
+tu fus collecté(e)
+il (elle) fut collecté(e)
+nous fûmes collecté(e)s
+vous fûtes collecté(e)s
+ils (elles) furent collecté(e)s
+
+** Futur simple
+
+je serai collecté(e)
+tu seras collecté(e)
+il (elle) sera collecté(e)
+nous serons collecté(e)s
+vous serez collecté(e)s
+ils (elles) seront collecté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais collecté(e)
+tu serais collecté(e)
+il (elle) serait collecté(e)
+nous serions collecté(e)s
+vous seriez collecté(e)s
+ils (elles) seraient collecté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois collecté(e)
+que tu sois collecté(e)
+qu’il (elle) soit collecté(e)
+que nous soyons collecté(e)s
+que vous soyez collecté(e)s
+qu’ils (elles) soient collecté(e)s
+
+** Imparfait
+
+que je fusse collecté(e)
+que tu fusses collecté(e)
+qu’il (elle) fût collecté(e)
+que nous fussions collecté(e)s
+que vous fussiez collecté(e)s
+qu’ils (elles) fussent collecté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons collecté(e)s
+soyez collecté(e)s
+
+* INFINITIF
+
+** Présent
+
+être collecté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant collecté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été collecté(e)
+tu as été collecté(e)
+il (elle) a été collecté(e)
+nous avons été collecté(e)s
+vous avez été collecté(e)s
+ils (elles) ont été collecté(e)s
+
+** Plus-que-parfait
+
+j'avais été collecté(e)
+il (elle) avait été collecté(e)
+nous avions été collecté(e)s
+ils (elles) avaient été collecté(e)s
+
+** Passé antérieur
+
+j'eus été collecté(e)
+tu eus été collecté(e)
+il (elle) eut été collecté(e)
+nous eûmes été collecté(e)s
+vous eûtes été collecté(e)s
+ils (elles) eurent été collecté(e)s
+
+** Futur antérieur
+
+j'aurai été collecté(e)
+tu auras été collecté(e)
+il (elle) aura été collecté(e)
+nous aurons été collecté(e)s
+vous aurez été collecté(e)s
+ils (elles) auront été collecté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été collecté(e)
+j'aurais été collecté(e)
+il (elle) aurait été collecté(e)
+nous aurions été collecté(e)s
+vous auriez été collecté(e)s
+ils (elles) auraient été collecté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été collecté(e)
+que tu aies été collecté(e)
+qu’il (elle) ait été collecté(e)
+que nous ayons été collecté(e)s
+que vous ayez été collecté(e)s
+qu’ils (elles) aient été collecté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été collecté(e)
+que tu eusses été collecté(e)
+qu’il (elle) eût été collecté(e)
+que nous eussions été collecté(e)s
+que vous eussiez été collecté(e)s
+qu’ils (elles) eussent été collecté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été collecté(e)
+ayons été collecté(e)s
+ayez été collecté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été collecté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été collecté(e)(s)

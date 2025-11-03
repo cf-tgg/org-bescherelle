@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe manager
+
+* INDICATIF
+
+** Présent
+
+je manage
+tu manages
+il (elle) manage
+nous manageons
+vous managez
+ils (elles) managent
+
+** Imparfait
+
+je manageais
+tu manageais
+il (elle) manageait
+nous managions
+vous managiez
+ils (elles) manageaient
+
+** Passé simple
+
+je manageai
+tu manageas
+il (elle) managea
+nous manageâmes
+vous manageâtes
+ils (elles) managèrent
+
+** Futur simple
+
+je managerai
+tu manageras
+il (elle) managera
+nous managerons
+vous managerez
+ils (elles) manageront
+
+* CONDITIONNEL
+
+** Présent
+
+je managerais
+tu managerais
+il (elle) managerait
+nous managerions
+vous manageriez
+ils (elles) manageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je manage
+que tu manages
+qu’il (elle) manage
+que nous managions
+que vous managiez
+qu’ils (elles) managent
+
+** Imparfait
+
+que je manageasse
+que tu manageasses
+qu’il (elle) manageât
+que nous manageassions
+que vous manageassiez
+qu’ils (elles) manageassent
+
+* IMPÉRATIF
+
+** Présent
+
+manage
+manageons
+managez
+
+* INFINITIF
+
+** Présent
+
+manager
+
+* PARTICIPE
+
+** Présent
+
+manageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai managé
+tu as managé
+il (elle) a managé
+nous avons managé
+vous avez managé
+ils (elles) ont managé
+
+** Plus-que-parfait
+
+j'avais managé
+tu avais managé
+il (elle) avait managé
+nous avions managé
+vous aviez managé
+ils (elles) avaient managé
+
+** Passé antérieur
+
+j'eus managé
+tu eus managé
+il (elle) eut managé
+nous eûmes managé
+vous eûtes managé
+ils (elles) eurent managé
+
+** Futur antérieur
+
+j'aurai managé
+tu auras managé
+il (elle) aura managé
+nous aurons managé
+vous aurez managé
+ils (elles) auront managé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais managé
+tu aurais managé
+il (elle) aurait managé
+nous aurions managé
+vous auriez managé
+ils (elles) auraient managé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie managé
+que tu aies managé
+qu’il (elle) ait managé
+que nous ayons managé
+que vous ayez managé
+qu’ils (elles) aient managé
+
+** Plus-que-parfait
+
+que j'eusse managé
+que tu eusses managé
+qu’il (elle) eût managé
+que nous eussions managé
+que vous eussiez managé
+qu’ils (elles) eussent managé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons managé
+ayez managé
+
+* INFINITIF
+
+** Passé
+
+avoir managé
+
+* PARTICIPE
+
+** Passé
+
+ayant managé
+managé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis managé(e)
+tu es managé(e)
+il (elle) est managé(e)
+nous sommes managé(e)s
+vous êtes managé(e)s
+ils (elles) sont managé(e)s
+
+** Imparfait
+
+j'étais managé(e)
+tu étais managé(e)
+il (elle) était managé(e)
+nous étions managé(e)s
+vous étiez managé(e)s
+ils (elles) étaient managé(e)s
+
+** Passé simple
+
+je fus managé(e)
+tu fus managé(e)
+il (elle) fut managé(e)
+nous fûmes managé(e)s
+vous fûtes managé(e)s
+ils (elles) furent managé(e)s
+
+** Futur simple
+
+je serai managé(e)
+tu seras managé(e)
+il (elle) sera managé(e)
+nous serons managé(e)s
+vous serez managé(e)s
+ils (elles) seront managé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais managé(e)
+tu serais managé(e)
+il (elle) serait managé(e)
+nous serions managé(e)s
+vous seriez managé(e)s
+ils (elles) seraient managé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois managé(e)
+que tu sois managé(e)
+qu’il (elle) soit managé(e)
+que nous soyons managé(e)s
+que vous soyez managé(e)s
+qu’ils (elles) soient managé(e)s
+
+** Imparfait
+
+que je fusse managé(e)
+que tu fusses managé(e)
+qu’il (elle) fût managé(e)
+que nous fussions managé(e)s
+que vous fussiez managé(e)s
+qu’ils (elles) fussent managé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons managé(e)s
+soyez managé(e)s
+
+* INFINITIF
+
+** Présent
+
+être managé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant managé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été managé(e)
+tu as été managé(e)
+il (elle) a été managé(e)
+nous avons été managé(e)s
+vous avez été managé(e)s
+ils (elles) ont été managé(e)s
+
+** Plus-que-parfait
+
+j'avais été managé(e)
+il (elle) avait été managé(e)
+nous avions été managé(e)s
+ils (elles) avaient été managé(e)s
+
+** Passé antérieur
+
+j'eus été managé(e)
+tu eus été managé(e)
+il (elle) eut été managé(e)
+nous eûmes été managé(e)s
+vous eûtes été managé(e)s
+ils (elles) eurent été managé(e)s
+
+** Futur antérieur
+
+j'aurai été managé(e)
+tu auras été managé(e)
+il (elle) aura été managé(e)
+nous aurons été managé(e)s
+vous aurez été managé(e)s
+ils (elles) auront été managé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été managé(e)
+j'aurais été managé(e)
+il (elle) aurait été managé(e)
+nous aurions été managé(e)s
+vous auriez été managé(e)s
+ils (elles) auraient été managé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été managé(e)
+que tu aies été managé(e)
+qu’il (elle) ait été managé(e)
+que nous ayons été managé(e)s
+que vous ayez été managé(e)s
+qu’ils (elles) aient été managé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été managé(e)
+que tu eusses été managé(e)
+qu’il (elle) eût été managé(e)
+que nous eussions été managé(e)s
+que vous eussiez été managé(e)s
+qu’ils (elles) eussent été managé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été managé(e)
+ayons été managé(e)s
+ayez été managé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été managé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été managé(e)(s)

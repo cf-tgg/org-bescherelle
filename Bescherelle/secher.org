@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe secher
+
+* INDICATIF
+
+** Présent
+
+je sèche
+tu sèches
+il (elle) sèche
+nous séchons
+vous séchez
+ils (elles) sèchent
+
+** Imparfait
+
+je séchais
+tu séchais
+il (elle) séchait
+nous séchions
+vous séchiez
+ils (elles) séchaient
+
+** Passé simple
+
+je séchai
+tu séchas
+il (elle) sécha
+nous séchâmes
+vous séchâtes
+ils (elles) séchèrent
+
+** Futur simple
+
+je sécherai
+tu sécheras
+il (elle) séchera
+nous sécherons
+vous sécherez
+ils (elles) sécheront
+
+* CONDITIONNEL
+
+** Présent
+
+je sécherais
+tu sécherais
+il (elle) sécherait
+nous sécherions
+vous sécheriez
+ils (elles) sécheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sèche
+que tu sèches
+qu’il (elle) sèche
+que nous séchions
+que vous séchiez
+qu’ils (elles) sèchent
+
+** Imparfait
+
+que je séchasse
+que tu séchasses
+qu’il (elle) séchât
+que nous séchassions
+que vous séchassiez
+qu’ils (elles) séchassent
+
+* IMPÉRATIF
+
+** Présent
+
+sèche
+séchons
+séchez
+
+* INFINITIF
+
+** Présent
+
+sécher
+
+* PARTICIPE
+
+** Présent
+
+séchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai séché
+tu as séché
+il (elle) a séché
+nous avons séché
+vous avez séché
+ils (elles) ont séché
+
+** Plus-que-parfait
+
+j'avais séché
+tu avais séché
+il (elle) avait séché
+nous avions séché
+vous aviez séché
+ils (elles) avaient séché
+
+** Passé antérieur
+
+j'eus séché
+tu eus séché
+il (elle) eut séché
+nous eûmes séché
+vous eûtes séché
+ils (elles) eurent séché
+
+** Futur antérieur
+
+j'aurai séché
+tu auras séché
+il (elle) aura séché
+nous aurons séché
+vous aurez séché
+ils (elles) auront séché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais séché
+tu aurais séché
+il (elle) aurait séché
+nous aurions séché
+vous auriez séché
+ils (elles) auraient séché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie séché
+que tu aies séché
+qu’il (elle) ait séché
+que nous ayons séché
+que vous ayez séché
+qu’ils (elles) aient séché
+
+** Plus-que-parfait
+
+que j'eusse séché
+que tu eusses séché
+qu’il (elle) eût séché
+que nous eussions séché
+que vous eussiez séché
+qu’ils (elles) eussent séché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons séché
+ayez séché
+
+* INFINITIF
+
+** Passé
+
+avoir séché
+
+* PARTICIPE
+
+** Passé
+
+ayant séché
+séché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis séché(e)
+tu es séché(e)
+il (elle) est séché(e)
+nous sommes séché(e)s
+vous êtes séché(e)s
+ils (elles) sont séché(e)s
+
+** Imparfait
+
+j'étais séché(e)
+tu étais séché(e)
+il (elle) était séché(e)
+nous étions séché(e)s
+vous étiez séché(e)s
+ils (elles) étaient séché(e)s
+
+** Passé simple
+
+je fus séché(e)
+tu fus séché(e)
+il (elle) fut séché(e)
+nous fûmes séché(e)s
+vous fûtes séché(e)s
+ils (elles) furent séché(e)s
+
+** Futur simple
+
+je serai séché(e)
+tu seras séché(e)
+il (elle) sera séché(e)
+nous serons séché(e)s
+vous serez séché(e)s
+ils (elles) seront séché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais séché(e)
+tu serais séché(e)
+il (elle) serait séché(e)
+nous serions séché(e)s
+vous seriez séché(e)s
+ils (elles) seraient séché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois séché(e)
+que tu sois séché(e)
+qu’il (elle) soit séché(e)
+que nous soyons séché(e)s
+que vous soyez séché(e)s
+qu’ils (elles) soient séché(e)s
+
+** Imparfait
+
+que je fusse séché(e)
+que tu fusses séché(e)
+qu’il (elle) fût séché(e)
+que nous fussions séché(e)s
+que vous fussiez séché(e)s
+qu’ils (elles) fussent séché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons séché(e)s
+soyez séché(e)s
+
+* INFINITIF
+
+** Présent
+
+être séché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant séché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été séché(e)
+tu as été séché(e)
+il (elle) a été séché(e)
+nous avons été séché(e)s
+vous avez été séché(e)s
+ils (elles) ont été séché(e)s
+
+** Plus-que-parfait
+
+j'avais été séché(e)
+il (elle) avait été séché(e)
+nous avions été séché(e)s
+ils (elles) avaient été séché(e)s
+
+** Passé antérieur
+
+j'eus été séché(e)
+tu eus été séché(e)
+il (elle) eut été séché(e)
+nous eûmes été séché(e)s
+vous eûtes été séché(e)s
+ils (elles) eurent été séché(e)s
+
+** Futur antérieur
+
+j'aurai été séché(e)
+tu auras été séché(e)
+il (elle) aura été séché(e)
+nous aurons été séché(e)s
+vous aurez été séché(e)s
+ils (elles) auront été séché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été séché(e)
+j'aurais été séché(e)
+il (elle) aurait été séché(e)
+nous aurions été séché(e)s
+vous auriez été séché(e)s
+ils (elles) auraient été séché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été séché(e)
+que tu aies été séché(e)
+qu’il (elle) ait été séché(e)
+que nous ayons été séché(e)s
+que vous ayez été séché(e)s
+qu’ils (elles) aient été séché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été séché(e)
+que tu eusses été séché(e)
+qu’il (elle) eût été séché(e)
+que nous eussions été séché(e)s
+que vous eussiez été séché(e)s
+qu’ils (elles) eussent été séché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été séché(e)
+ayons été séché(e)s
+ayez été séché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été séché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été séché(e)(s)

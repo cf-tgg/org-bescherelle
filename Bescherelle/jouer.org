@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe jouer
+
+* INDICATIF
+
+** Présent
+
+je joue
+tu joues
+il (elle) joue
+nous jouons
+vous jouez
+ils (elles) jouent
+
+** Imparfait
+
+je jouais
+tu jouais
+il (elle) jouait
+nous jouions
+vous jouiez
+ils (elles) jouaient
+
+** Passé simple
+
+je jouai
+tu jouas
+il (elle) joua
+nous jouâmes
+vous jouâtes
+ils (elles) jouèrent
+
+** Futur simple
+
+je jouerai
+tu joueras
+il (elle) jouera
+nous jouerons
+vous jouerez
+ils (elles) joueront
+
+* CONDITIONNEL
+
+** Présent
+
+je jouerais
+tu jouerais
+il (elle) jouerait
+nous jouerions
+vous joueriez
+ils (elles) joueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je joue
+que tu joues
+qu’il (elle) joue
+que nous jouions
+que vous jouiez
+qu’ils (elles) jouent
+
+** Imparfait
+
+que je jouasse
+que tu jouasses
+qu’il (elle) jouât
+que nous jouassions
+que vous jouassiez
+qu’ils (elles) jouassent
+
+* IMPÉRATIF
+
+** Présent
+
+joue
+jouons
+jouez
+
+* INFINITIF
+
+** Présent
+
+jouer
+
+* PARTICIPE
+
+** Présent
+
+jouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai joué
+tu as joué
+il (elle) a joué
+nous avons joué
+vous avez joué
+ils (elles) ont joué
+
+** Plus-que-parfait
+
+j'avais joué
+tu avais joué
+il (elle) avait joué
+nous avions joué
+vous aviez joué
+ils (elles) avaient joué
+
+** Passé antérieur
+
+j'eus joué
+tu eus joué
+il (elle) eut joué
+nous eûmes joué
+vous eûtes joué
+ils (elles) eurent joué
+
+** Futur antérieur
+
+j'aurai joué
+tu auras joué
+il (elle) aura joué
+nous aurons joué
+vous aurez joué
+ils (elles) auront joué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais joué
+tu aurais joué
+il (elle) aurait joué
+nous aurions joué
+vous auriez joué
+ils (elles) auraient joué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie joué
+que tu aies joué
+qu’il (elle) ait joué
+que nous ayons joué
+que vous ayez joué
+qu’ils (elles) aient joué
+
+** Plus-que-parfait
+
+que j'eusse joué
+que tu eusses joué
+qu’il (elle) eût joué
+que nous eussions joué
+que vous eussiez joué
+qu’ils (elles) eussent joué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons joué
+ayez joué
+
+* INFINITIF
+
+** Passé
+
+avoir joué
+
+* PARTICIPE
+
+** Passé
+
+ayant joué
+joué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis joué(e)
+tu es joué(e)
+il (elle) est joué(e)
+nous sommes joué(e)s
+vous êtes joué(e)s
+ils (elles) sont joué(e)s
+
+** Imparfait
+
+j'étais joué(e)
+tu étais joué(e)
+il (elle) était joué(e)
+nous étions joué(e)s
+vous étiez joué(e)s
+ils (elles) étaient joué(e)s
+
+** Passé simple
+
+je fus joué(e)
+tu fus joué(e)
+il (elle) fut joué(e)
+nous fûmes joué(e)s
+vous fûtes joué(e)s
+ils (elles) furent joué(e)s
+
+** Futur simple
+
+je serai joué(e)
+tu seras joué(e)
+il (elle) sera joué(e)
+nous serons joué(e)s
+vous serez joué(e)s
+ils (elles) seront joué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais joué(e)
+tu serais joué(e)
+il (elle) serait joué(e)
+nous serions joué(e)s
+vous seriez joué(e)s
+ils (elles) seraient joué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois joué(e)
+que tu sois joué(e)
+qu’il (elle) soit joué(e)
+que nous soyons joué(e)s
+que vous soyez joué(e)s
+qu’ils (elles) soient joué(e)s
+
+** Imparfait
+
+que je fusse joué(e)
+que tu fusses joué(e)
+qu’il (elle) fût joué(e)
+que nous fussions joué(e)s
+que vous fussiez joué(e)s
+qu’ils (elles) fussent joué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons joué(e)s
+soyez joué(e)s
+
+* INFINITIF
+
+** Présent
+
+être joué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant joué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été joué(e)
+tu as été joué(e)
+il (elle) a été joué(e)
+nous avons été joué(e)s
+vous avez été joué(e)s
+ils (elles) ont été joué(e)s
+
+** Plus-que-parfait
+
+j'avais été joué(e)
+il (elle) avait été joué(e)
+nous avions été joué(e)s
+ils (elles) avaient été joué(e)s
+
+** Passé antérieur
+
+j'eus été joué(e)
+tu eus été joué(e)
+il (elle) eut été joué(e)
+nous eûmes été joué(e)s
+vous eûtes été joué(e)s
+ils (elles) eurent été joué(e)s
+
+** Futur antérieur
+
+j'aurai été joué(e)
+tu auras été joué(e)
+il (elle) aura été joué(e)
+nous aurons été joué(e)s
+vous aurez été joué(e)s
+ils (elles) auront été joué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été joué(e)
+j'aurais été joué(e)
+il (elle) aurait été joué(e)
+nous aurions été joué(e)s
+vous auriez été joué(e)s
+ils (elles) auraient été joué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été joué(e)
+que tu aies été joué(e)
+qu’il (elle) ait été joué(e)
+que nous ayons été joué(e)s
+que vous ayez été joué(e)s
+qu’ils (elles) aient été joué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été joué(e)
+que tu eusses été joué(e)
+qu’il (elle) eût été joué(e)
+que nous eussions été joué(e)s
+que vous eussiez été joué(e)s
+qu’ils (elles) eussent été joué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été joué(e)
+ayons été joué(e)s
+ayez été joué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été joué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été joué(e)(s)

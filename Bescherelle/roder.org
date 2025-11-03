@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe roder
+
+* INDICATIF
+
+** Présent
+
+je rode
+tu rodes
+il (elle) rode
+nous rodons
+vous rodez
+ils (elles) rodent
+
+** Imparfait
+
+je rodais
+tu rodais
+il (elle) rodait
+nous rodions
+vous rodiez
+ils (elles) rodaient
+
+** Passé simple
+
+je rodai
+tu rodas
+il (elle) roda
+nous rodâmes
+vous rodâtes
+ils (elles) rodèrent
+
+** Futur simple
+
+je roderai
+tu roderas
+il (elle) rodera
+nous roderons
+vous roderez
+ils (elles) roderont
+
+* CONDITIONNEL
+
+** Présent
+
+je roderais
+tu roderais
+il (elle) roderait
+nous roderions
+vous roderiez
+ils (elles) roderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rode
+que tu rodes
+qu’il (elle) rode
+que nous rodions
+que vous rodiez
+qu’ils (elles) rodent
+
+** Imparfait
+
+que je rodasse
+que tu rodasses
+qu’il (elle) rodât
+que nous rodassions
+que vous rodassiez
+qu’ils (elles) rodassent
+
+* IMPÉRATIF
+
+** Présent
+
+rode
+rodons
+rodez
+
+* INFINITIF
+
+** Présent
+
+roder
+
+* PARTICIPE
+
+** Présent
+
+rodant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rodé
+tu as rodé
+il (elle) a rodé
+nous avons rodé
+vous avez rodé
+ils (elles) ont rodé
+
+** Plus-que-parfait
+
+j'avais rodé
+tu avais rodé
+il (elle) avait rodé
+nous avions rodé
+vous aviez rodé
+ils (elles) avaient rodé
+
+** Passé antérieur
+
+j'eus rodé
+tu eus rodé
+il (elle) eut rodé
+nous eûmes rodé
+vous eûtes rodé
+ils (elles) eurent rodé
+
+** Futur antérieur
+
+j'aurai rodé
+tu auras rodé
+il (elle) aura rodé
+nous aurons rodé
+vous aurez rodé
+ils (elles) auront rodé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rodé
+tu aurais rodé
+il (elle) aurait rodé
+nous aurions rodé
+vous auriez rodé
+ils (elles) auraient rodé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rodé
+que tu aies rodé
+qu’il (elle) ait rodé
+que nous ayons rodé
+que vous ayez rodé
+qu’ils (elles) aient rodé
+
+** Plus-que-parfait
+
+que j'eusse rodé
+que tu eusses rodé
+qu’il (elle) eût rodé
+que nous eussions rodé
+que vous eussiez rodé
+qu’ils (elles) eussent rodé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rodé
+ayez rodé
+
+* INFINITIF
+
+** Passé
+
+avoir rodé
+
+* PARTICIPE
+
+** Passé
+
+ayant rodé
+rodé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rodé(e)
+tu es rodé(e)
+il (elle) est rodé(e)
+nous sommes rodé(e)s
+vous êtes rodé(e)s
+ils (elles) sont rodé(e)s
+
+** Imparfait
+
+j'étais rodé(e)
+tu étais rodé(e)
+il (elle) était rodé(e)
+nous étions rodé(e)s
+vous étiez rodé(e)s
+ils (elles) étaient rodé(e)s
+
+** Passé simple
+
+je fus rodé(e)
+tu fus rodé(e)
+il (elle) fut rodé(e)
+nous fûmes rodé(e)s
+vous fûtes rodé(e)s
+ils (elles) furent rodé(e)s
+
+** Futur simple
+
+je serai rodé(e)
+tu seras rodé(e)
+il (elle) sera rodé(e)
+nous serons rodé(e)s
+vous serez rodé(e)s
+ils (elles) seront rodé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rodé(e)
+tu serais rodé(e)
+il (elle) serait rodé(e)
+nous serions rodé(e)s
+vous seriez rodé(e)s
+ils (elles) seraient rodé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rodé(e)
+que tu sois rodé(e)
+qu’il (elle) soit rodé(e)
+que nous soyons rodé(e)s
+que vous soyez rodé(e)s
+qu’ils (elles) soient rodé(e)s
+
+** Imparfait
+
+que je fusse rodé(e)
+que tu fusses rodé(e)
+qu’il (elle) fût rodé(e)
+que nous fussions rodé(e)s
+que vous fussiez rodé(e)s
+qu’ils (elles) fussent rodé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rodé(e)s
+soyez rodé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rodé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rodé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rodé(e)
+tu as été rodé(e)
+il (elle) a été rodé(e)
+nous avons été rodé(e)s
+vous avez été rodé(e)s
+ils (elles) ont été rodé(e)s
+
+** Plus-que-parfait
+
+j'avais été rodé(e)
+il (elle) avait été rodé(e)
+nous avions été rodé(e)s
+ils (elles) avaient été rodé(e)s
+
+** Passé antérieur
+
+j'eus été rodé(e)
+tu eus été rodé(e)
+il (elle) eut été rodé(e)
+nous eûmes été rodé(e)s
+vous eûtes été rodé(e)s
+ils (elles) eurent été rodé(e)s
+
+** Futur antérieur
+
+j'aurai été rodé(e)
+tu auras été rodé(e)
+il (elle) aura été rodé(e)
+nous aurons été rodé(e)s
+vous aurez été rodé(e)s
+ils (elles) auront été rodé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rodé(e)
+j'aurais été rodé(e)
+il (elle) aurait été rodé(e)
+nous aurions été rodé(e)s
+vous auriez été rodé(e)s
+ils (elles) auraient été rodé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rodé(e)
+que tu aies été rodé(e)
+qu’il (elle) ait été rodé(e)
+que nous ayons été rodé(e)s
+que vous ayez été rodé(e)s
+qu’ils (elles) aient été rodé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rodé(e)
+que tu eusses été rodé(e)
+qu’il (elle) eût été rodé(e)
+que nous eussions été rodé(e)s
+que vous eussiez été rodé(e)s
+qu’ils (elles) eussent été rodé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rodé(e)
+ayons été rodé(e)s
+ayez été rodé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rodé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rodé(e)(s)

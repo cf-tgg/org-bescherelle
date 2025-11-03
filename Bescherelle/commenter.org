@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe commenter
+
+* INDICATIF
+
+** Présent
+
+je commente
+tu commentes
+il (elle) commente
+nous commentons
+vous commentez
+ils (elles) commentent
+
+** Imparfait
+
+je commentais
+tu commentais
+il (elle) commentait
+nous commentions
+vous commentiez
+ils (elles) commentaient
+
+** Passé simple
+
+je commentai
+tu commentas
+il (elle) commenta
+nous commentâmes
+vous commentâtes
+ils (elles) commentèrent
+
+** Futur simple
+
+je commenterai
+tu commenteras
+il (elle) commentera
+nous commenterons
+vous commenterez
+ils (elles) commenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je commenterais
+tu commenterais
+il (elle) commenterait
+nous commenterions
+vous commenteriez
+ils (elles) commenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je commente
+que tu commentes
+qu’il (elle) commente
+que nous commentions
+que vous commentiez
+qu’ils (elles) commentent
+
+** Imparfait
+
+que je commentasse
+que tu commentasses
+qu’il (elle) commentât
+que nous commentassions
+que vous commentassiez
+qu’ils (elles) commentassent
+
+* IMPÉRATIF
+
+** Présent
+
+commente
+commentons
+commentez
+
+* INFINITIF
+
+** Présent
+
+commenter
+
+* PARTICIPE
+
+** Présent
+
+commentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai commenté
+tu as commenté
+il (elle) a commenté
+nous avons commenté
+vous avez commenté
+ils (elles) ont commenté
+
+** Plus-que-parfait
+
+j'avais commenté
+tu avais commenté
+il (elle) avait commenté
+nous avions commenté
+vous aviez commenté
+ils (elles) avaient commenté
+
+** Passé antérieur
+
+j'eus commenté
+tu eus commenté
+il (elle) eut commenté
+nous eûmes commenté
+vous eûtes commenté
+ils (elles) eurent commenté
+
+** Futur antérieur
+
+j'aurai commenté
+tu auras commenté
+il (elle) aura commenté
+nous aurons commenté
+vous aurez commenté
+ils (elles) auront commenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais commenté
+tu aurais commenté
+il (elle) aurait commenté
+nous aurions commenté
+vous auriez commenté
+ils (elles) auraient commenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie commenté
+que tu aies commenté
+qu’il (elle) ait commenté
+que nous ayons commenté
+que vous ayez commenté
+qu’ils (elles) aient commenté
+
+** Plus-que-parfait
+
+que j'eusse commenté
+que tu eusses commenté
+qu’il (elle) eût commenté
+que nous eussions commenté
+que vous eussiez commenté
+qu’ils (elles) eussent commenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons commenté
+ayez commenté
+
+* INFINITIF
+
+** Passé
+
+avoir commenté
+
+* PARTICIPE
+
+** Passé
+
+ayant commenté
+commenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis commenté(e)
+tu es commenté(e)
+il (elle) est commenté(e)
+nous sommes commenté(e)s
+vous êtes commenté(e)s
+ils (elles) sont commenté(e)s
+
+** Imparfait
+
+j'étais commenté(e)
+tu étais commenté(e)
+il (elle) était commenté(e)
+nous étions commenté(e)s
+vous étiez commenté(e)s
+ils (elles) étaient commenté(e)s
+
+** Passé simple
+
+je fus commenté(e)
+tu fus commenté(e)
+il (elle) fut commenté(e)
+nous fûmes commenté(e)s
+vous fûtes commenté(e)s
+ils (elles) furent commenté(e)s
+
+** Futur simple
+
+je serai commenté(e)
+tu seras commenté(e)
+il (elle) sera commenté(e)
+nous serons commenté(e)s
+vous serez commenté(e)s
+ils (elles) seront commenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais commenté(e)
+tu serais commenté(e)
+il (elle) serait commenté(e)
+nous serions commenté(e)s
+vous seriez commenté(e)s
+ils (elles) seraient commenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois commenté(e)
+que tu sois commenté(e)
+qu’il (elle) soit commenté(e)
+que nous soyons commenté(e)s
+que vous soyez commenté(e)s
+qu’ils (elles) soient commenté(e)s
+
+** Imparfait
+
+que je fusse commenté(e)
+que tu fusses commenté(e)
+qu’il (elle) fût commenté(e)
+que nous fussions commenté(e)s
+que vous fussiez commenté(e)s
+qu’ils (elles) fussent commenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons commenté(e)s
+soyez commenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être commenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant commenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été commenté(e)
+tu as été commenté(e)
+il (elle) a été commenté(e)
+nous avons été commenté(e)s
+vous avez été commenté(e)s
+ils (elles) ont été commenté(e)s
+
+** Plus-que-parfait
+
+j'avais été commenté(e)
+il (elle) avait été commenté(e)
+nous avions été commenté(e)s
+ils (elles) avaient été commenté(e)s
+
+** Passé antérieur
+
+j'eus été commenté(e)
+tu eus été commenté(e)
+il (elle) eut été commenté(e)
+nous eûmes été commenté(e)s
+vous eûtes été commenté(e)s
+ils (elles) eurent été commenté(e)s
+
+** Futur antérieur
+
+j'aurai été commenté(e)
+tu auras été commenté(e)
+il (elle) aura été commenté(e)
+nous aurons été commenté(e)s
+vous aurez été commenté(e)s
+ils (elles) auront été commenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été commenté(e)
+j'aurais été commenté(e)
+il (elle) aurait été commenté(e)
+nous aurions été commenté(e)s
+vous auriez été commenté(e)s
+ils (elles) auraient été commenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été commenté(e)
+que tu aies été commenté(e)
+qu’il (elle) ait été commenté(e)
+que nous ayons été commenté(e)s
+que vous ayez été commenté(e)s
+qu’ils (elles) aient été commenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été commenté(e)
+que tu eusses été commenté(e)
+qu’il (elle) eût été commenté(e)
+que nous eussions été commenté(e)s
+que vous eussiez été commenté(e)s
+qu’ils (elles) eussent été commenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été commenté(e)
+ayons été commenté(e)s
+ayez été commenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été commenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été commenté(e)(s)

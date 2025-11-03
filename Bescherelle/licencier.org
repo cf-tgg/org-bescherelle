@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe licencier
+
+* INDICATIF
+
+** Présent
+
+je licencie
+tu licencies
+il (elle) licencie
+nous licencions
+vous licenciez
+ils (elles) licencient
+
+** Imparfait
+
+je licenciais
+tu licenciais
+il (elle) licenciait
+nous licenciions
+vous licenciiez
+ils (elles) licenciaient
+
+** Passé simple
+
+je licenciai
+tu licencias
+il (elle) licencia
+nous licenciâmes
+vous licenciâtes
+ils (elles) licencièrent
+
+** Futur simple
+
+je licencierai
+tu licencieras
+il (elle) licenciera
+nous licencierons
+vous licencierez
+ils (elles) licencieront
+
+* CONDITIONNEL
+
+** Présent
+
+je licencierais
+tu licencierais
+il (elle) licencierait
+nous licencierions
+vous licencieriez
+ils (elles) licencieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je licencie
+que tu licencies
+qu’il (elle) licencie
+que nous licenciions
+que vous licenciiez
+qu’ils (elles) licencient
+
+** Imparfait
+
+que je licenciasse
+que tu licenciasses
+qu’il (elle) licenciât
+que nous licenciassions
+que vous licenciassiez
+qu’ils (elles) licenciassent
+
+* IMPÉRATIF
+
+** Présent
+
+licencie
+licencions
+licenciez
+
+* INFINITIF
+
+** Présent
+
+licencier
+
+* PARTICIPE
+
+** Présent
+
+licenciant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai licencié
+tu as licencié
+il (elle) a licencié
+nous avons licencié
+vous avez licencié
+ils (elles) ont licencié
+
+** Plus-que-parfait
+
+j'avais licencié
+tu avais licencié
+il (elle) avait licencié
+nous avions licencié
+vous aviez licencié
+ils (elles) avaient licencié
+
+** Passé antérieur
+
+j'eus licencié
+tu eus licencié
+il (elle) eut licencié
+nous eûmes licencié
+vous eûtes licencié
+ils (elles) eurent licencié
+
+** Futur antérieur
+
+j'aurai licencié
+tu auras licencié
+il (elle) aura licencié
+nous aurons licencié
+vous aurez licencié
+ils (elles) auront licencié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais licencié
+tu aurais licencié
+il (elle) aurait licencié
+nous aurions licencié
+vous auriez licencié
+ils (elles) auraient licencié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie licencié
+que tu aies licencié
+qu’il (elle) ait licencié
+que nous ayons licencié
+que vous ayez licencié
+qu’ils (elles) aient licencié
+
+** Plus-que-parfait
+
+que j'eusse licencié
+que tu eusses licencié
+qu’il (elle) eût licencié
+que nous eussions licencié
+que vous eussiez licencié
+qu’ils (elles) eussent licencié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons licencié
+ayez licencié
+
+* INFINITIF
+
+** Passé
+
+avoir licencié
+
+* PARTICIPE
+
+** Passé
+
+ayant licencié
+licencié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis licencié(e)
+tu es licencié(e)
+il (elle) est licencié(e)
+nous sommes licencié(e)s
+vous êtes licencié(e)s
+ils (elles) sont licencié(e)s
+
+** Imparfait
+
+j'étais licencié(e)
+tu étais licencié(e)
+il (elle) était licencié(e)
+nous étions licencié(e)s
+vous étiez licencié(e)s
+ils (elles) étaient licencié(e)s
+
+** Passé simple
+
+je fus licencié(e)
+tu fus licencié(e)
+il (elle) fut licencié(e)
+nous fûmes licencié(e)s
+vous fûtes licencié(e)s
+ils (elles) furent licencié(e)s
+
+** Futur simple
+
+je serai licencié(e)
+tu seras licencié(e)
+il (elle) sera licencié(e)
+nous serons licencié(e)s
+vous serez licencié(e)s
+ils (elles) seront licencié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais licencié(e)
+tu serais licencié(e)
+il (elle) serait licencié(e)
+nous serions licencié(e)s
+vous seriez licencié(e)s
+ils (elles) seraient licencié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois licencié(e)
+que tu sois licencié(e)
+qu’il (elle) soit licencié(e)
+que nous soyons licencié(e)s
+que vous soyez licencié(e)s
+qu’ils (elles) soient licencié(e)s
+
+** Imparfait
+
+que je fusse licencié(e)
+que tu fusses licencié(e)
+qu’il (elle) fût licencié(e)
+que nous fussions licencié(e)s
+que vous fussiez licencié(e)s
+qu’ils (elles) fussent licencié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons licencié(e)s
+soyez licencié(e)s
+
+* INFINITIF
+
+** Présent
+
+être licencié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant licencié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été licencié(e)
+tu as été licencié(e)
+il (elle) a été licencié(e)
+nous avons été licencié(e)s
+vous avez été licencié(e)s
+ils (elles) ont été licencié(e)s
+
+** Plus-que-parfait
+
+j'avais été licencié(e)
+il (elle) avait été licencié(e)
+nous avions été licencié(e)s
+ils (elles) avaient été licencié(e)s
+
+** Passé antérieur
+
+j'eus été licencié(e)
+tu eus été licencié(e)
+il (elle) eut été licencié(e)
+nous eûmes été licencié(e)s
+vous eûtes été licencié(e)s
+ils (elles) eurent été licencié(e)s
+
+** Futur antérieur
+
+j'aurai été licencié(e)
+tu auras été licencié(e)
+il (elle) aura été licencié(e)
+nous aurons été licencié(e)s
+vous aurez été licencié(e)s
+ils (elles) auront été licencié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été licencié(e)
+j'aurais été licencié(e)
+il (elle) aurait été licencié(e)
+nous aurions été licencié(e)s
+vous auriez été licencié(e)s
+ils (elles) auraient été licencié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été licencié(e)
+que tu aies été licencié(e)
+qu’il (elle) ait été licencié(e)
+que nous ayons été licencié(e)s
+que vous ayez été licencié(e)s
+qu’ils (elles) aient été licencié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été licencié(e)
+que tu eusses été licencié(e)
+qu’il (elle) eût été licencié(e)
+que nous eussions été licencié(e)s
+que vous eussiez été licencié(e)s
+qu’ils (elles) eussent été licencié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été licencié(e)
+ayons été licencié(e)s
+ayez été licencié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été licencié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été licencié(e)(s)

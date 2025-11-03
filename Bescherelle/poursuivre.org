@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe poursuivre
+
+* INDICATIF
+
+** Présent
+
+je poursuis
+tu poursuis
+il (elle) poursuit
+nous poursuivons
+vous poursuivez
+ils (elles) poursuivent
+
+** Imparfait
+
+je poursuivais
+tu poursuivais
+il (elle) poursuivait
+nous poursuivions
+vous poursuiviez
+ils (elles) poursuivaient
+
+** Passé simple
+
+je poursuivis
+tu poursuivis
+il (elle) poursuivit
+nous poursuivîmes
+vous poursuivîtes
+ils (elles) poursuivirent
+
+** Futur simple
+
+je poursuivrai
+tu poursuivras
+il (elle) poursuivra
+nous poursuivrons
+vous poursuivrez
+ils (elles) poursuivront
+
+* CONDITIONNEL
+
+** Présent
+
+je poursuivrais
+tu poursuivrais
+il (elle) poursuivrait
+nous poursuivrions
+vous poursuivriez
+ils (elles) poursuivraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je poursuive
+que tu poursuives
+qu’il (elle) poursuive
+que nous poursuivions
+que vous poursuiviez
+qu’ils (elles) poursuivent
+
+** Imparfait
+
+que je poursuivisse
+que tu poursuivisses
+qu’il (elle) poursuivît
+que nous poursuivissions
+que vous poursuivissiez
+qu’ils (elles) poursuivissent
+
+* IMPÉRATIF
+
+** Présent
+
+poursuis
+poursuivons
+poursuivez
+
+* INFINITIF
+
+** Présent
+
+poursuivre
+
+* PARTICIPE
+
+** Présent
+
+poursuivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai poursuivi
+tu as poursuivi
+il (elle) a poursuivi
+nous avons poursuivi
+vous avez poursuivi
+ils (elles) ont poursuivi
+
+** Plus-que-parfait
+
+j'avais poursuivi
+tu avais poursuivi
+il (elle) avait poursuivi
+nous avions poursuivi
+vous aviez poursuivi
+ils (elles) avaient poursuivi
+
+** Passé antérieur
+
+j'eus poursuivi
+tu eus poursuivi
+il (elle) eut poursuivi
+nous eûmes poursuivi
+vous eûtes poursuivi
+ils (elles) eurent poursuivi
+
+** Futur antérieur
+
+j'aurai poursuivi
+tu auras poursuivi
+il (elle) aura poursuivi
+nous aurons poursuivi
+vous aurez poursuivi
+ils (elles) auront poursuivi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais poursuivi
+tu aurais poursuivi
+il (elle) aurait poursuivi
+nous aurions poursuivi
+vous auriez poursuivi
+ils (elles) auraient poursuivi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie poursuivi
+que tu aies poursuivi
+qu’il (elle) ait poursuivi
+que nous ayons poursuivi
+que vous ayez poursuivi
+qu’ils (elles) aient poursuivi
+
+** Plus-que-parfait
+
+que j'eusse poursuivi
+que tu eusses poursuivi
+qu’il (elle) eût poursuivi
+que nous eussions poursuivi
+que vous eussiez poursuivi
+qu’ils (elles) eussent poursuivi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons poursuivi
+ayez poursuivi
+
+* INFINITIF
+
+** Passé
+
+avoir poursuivi
+
+* PARTICIPE
+
+** Passé
+
+ayant poursuivi
+poursuivi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis poursuivi(e)
+tu es poursuivi(e)
+il (elle) est poursuivi(e)
+nous sommes poursuivi(e)s
+vous êtes poursuivi(e)s
+ils (elles) sont poursuivi(e)s
+
+** Imparfait
+
+j'étais poursuivi(e)
+tu étais poursuivi(e)
+il (elle) était poursuivi(e)
+nous étions poursuivi(e)s
+vous étiez poursuivi(e)s
+ils (elles) étaient poursuivi(e)s
+
+** Passé simple
+
+je fus poursuivi(e)
+tu fus poursuivi(e)
+il (elle) fut poursuivi(e)
+nous fûmes poursuivi(e)s
+vous fûtes poursuivi(e)s
+ils (elles) furent poursuivi(e)s
+
+** Futur simple
+
+je serai poursuivi(e)
+tu seras poursuivi(e)
+il (elle) sera poursuivi(e)
+nous serons poursuivi(e)s
+vous serez poursuivi(e)s
+ils (elles) seront poursuivi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais poursuivi(e)
+tu serais poursuivi(e)
+il (elle) serait poursuivi(e)
+nous serions poursuivi(e)s
+vous seriez poursuivi(e)s
+ils (elles) seraient poursuivi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois poursuivi(e)
+que tu sois poursuivi(e)
+qu’il (elle) soit poursuivi(e)
+que nous soyons poursuivi(e)s
+que vous soyez poursuivi(e)s
+qu’ils (elles) soient poursuivi(e)s
+
+** Imparfait
+
+que je fusse poursuivi(e)
+que tu fusses poursuivi(e)
+qu’il (elle) fût poursuivi(e)
+que nous fussions poursuivi(e)s
+que vous fussiez poursuivi(e)s
+qu’ils (elles) fussent poursuivi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons poursuivi(e)s
+soyez poursuivi(e)s
+
+* INFINITIF
+
+** Présent
+
+être poursuivi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant poursuivi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été poursuivi(e)
+tu as été poursuivi(e)
+il (elle) a été poursuivi(e)
+nous avons été poursuivi(e)s
+vous avez été poursuivi(e)s
+ils (elles) ont été poursuivi(e)s
+
+** Plus-que-parfait
+
+j'avais été poursuivi(e)
+il (elle) avait été poursuivi(e)
+nous avions été poursuivi(e)s
+ils (elles) avaient été poursuivi(e)s
+
+** Passé antérieur
+
+j'eus été poursuivi(e)
+tu eus été poursuivi(e)
+il (elle) eut été poursuivi(e)
+nous eûmes été poursuivi(e)s
+vous eûtes été poursuivi(e)s
+ils (elles) eurent été poursuivi(e)s
+
+** Futur antérieur
+
+j'aurai été poursuivi(e)
+tu auras été poursuivi(e)
+il (elle) aura été poursuivi(e)
+nous aurons été poursuivi(e)s
+vous aurez été poursuivi(e)s
+ils (elles) auront été poursuivi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été poursuivi(e)
+j'aurais été poursuivi(e)
+il (elle) aurait été poursuivi(e)
+nous aurions été poursuivi(e)s
+vous auriez été poursuivi(e)s
+ils (elles) auraient été poursuivi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été poursuivi(e)
+que tu aies été poursuivi(e)
+qu’il (elle) ait été poursuivi(e)
+que nous ayons été poursuivi(e)s
+que vous ayez été poursuivi(e)s
+qu’ils (elles) aient été poursuivi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été poursuivi(e)
+que tu eusses été poursuivi(e)
+qu’il (elle) eût été poursuivi(e)
+que nous eussions été poursuivi(e)s
+que vous eussiez été poursuivi(e)s
+qu’ils (elles) eussent été poursuivi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été poursuivi(e)
+ayons été poursuivi(e)s
+ayez été poursuivi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été poursuivi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été poursuivi(e)(s)

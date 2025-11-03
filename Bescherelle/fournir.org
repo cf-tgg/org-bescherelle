@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fournir
+
+* INDICATIF
+
+** Présent
+
+je fournis
+tu fournis
+il (elle) fournit
+nous fournissons
+vous fournissez
+ils (elles) fournissent
+
+** Imparfait
+
+je fournissais
+tu fournissais
+il (elle) fournissait
+nous fournissions
+vous fournissiez
+ils (elles) fournissaient
+
+** Passé simple
+
+je fournis
+tu fournis
+il (elle) fournit
+nous fournîmes
+vous fournîtes
+ils (elles) fournirent
+
+** Futur simple
+
+je fournirai
+tu fourniras
+il (elle) fournira
+nous fournirons
+vous fournirez
+ils (elles) fourniront
+
+* CONDITIONNEL
+
+** Présent
+
+je fournirais
+tu fournirais
+il (elle) fournirait
+nous fournirions
+vous fourniriez
+ils (elles) fourniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fournisse
+que tu fournisses
+qu’il (elle) fournisse
+que nous fournissions
+que vous fournissiez
+qu’ils (elles) fournissent
+
+** Imparfait
+
+que je fournisse
+que tu fournisses
+qu’il (elle) fournît
+que nous fournissions
+que vous fournissiez
+qu’ils (elles) fournissent
+
+* IMPÉRATIF
+
+** Présent
+
+fournis
+fournissons
+fournissez
+
+* INFINITIF
+
+** Présent
+
+fournir
+
+* PARTICIPE
+
+** Présent
+
+fournissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fourni
+tu as fourni
+il (elle) a fourni
+nous avons fourni
+vous avez fourni
+ils (elles) ont fourni
+
+** Plus-que-parfait
+
+j'avais fourni
+tu avais fourni
+il (elle) avait fourni
+nous avions fourni
+vous aviez fourni
+ils (elles) avaient fourni
+
+** Passé antérieur
+
+j'eus fourni
+tu eus fourni
+il (elle) eut fourni
+nous eûmes fourni
+vous eûtes fourni
+ils (elles) eurent fourni
+
+** Futur antérieur
+
+j'aurai fourni
+tu auras fourni
+il (elle) aura fourni
+nous aurons fourni
+vous aurez fourni
+ils (elles) auront fourni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fourni
+tu aurais fourni
+il (elle) aurait fourni
+nous aurions fourni
+vous auriez fourni
+ils (elles) auraient fourni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fourni
+que tu aies fourni
+qu’il (elle) ait fourni
+que nous ayons fourni
+que vous ayez fourni
+qu’ils (elles) aient fourni
+
+** Plus-que-parfait
+
+que j'eusse fourni
+que tu eusses fourni
+qu’il (elle) eût fourni
+que nous eussions fourni
+que vous eussiez fourni
+qu’ils (elles) eussent fourni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fourni
+ayez fourni
+
+* INFINITIF
+
+** Passé
+
+avoir fourni
+
+* PARTICIPE
+
+** Passé
+
+ayant fourni
+fourni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis fourni(e)
+tu es fourni(e)
+il (elle) est fourni(e)
+nous sommes fourni(e)s
+vous êtes fourni(e)s
+ils (elles) sont fourni(e)s
+
+** Imparfait
+
+j'étais fourni(e)
+tu étais fourni(e)
+il (elle) était fourni(e)
+nous étions fourni(e)s
+vous étiez fourni(e)s
+ils (elles) étaient fourni(e)s
+
+** Passé simple
+
+je fus fourni(e)
+tu fus fourni(e)
+il (elle) fut fourni(e)
+nous fûmes fourni(e)s
+vous fûtes fourni(e)s
+ils (elles) furent fourni(e)s
+
+** Futur simple
+
+je serai fourni(e)
+tu seras fourni(e)
+il (elle) sera fourni(e)
+nous serons fourni(e)s
+vous serez fourni(e)s
+ils (elles) seront fourni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fourni(e)
+tu serais fourni(e)
+il (elle) serait fourni(e)
+nous serions fourni(e)s
+vous seriez fourni(e)s
+ils (elles) seraient fourni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fourni(e)
+que tu sois fourni(e)
+qu’il (elle) soit fourni(e)
+que nous soyons fourni(e)s
+que vous soyez fourni(e)s
+qu’ils (elles) soient fourni(e)s
+
+** Imparfait
+
+que je fusse fourni(e)
+que tu fusses fourni(e)
+qu’il (elle) fût fourni(e)
+que nous fussions fourni(e)s
+que vous fussiez fourni(e)s
+qu’ils (elles) fussent fourni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fourni(e)s
+soyez fourni(e)s
+
+* INFINITIF
+
+** Présent
+
+être fourni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fourni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fourni(e)
+tu as été fourni(e)
+il (elle) a été fourni(e)
+nous avons été fourni(e)s
+vous avez été fourni(e)s
+ils (elles) ont été fourni(e)s
+
+** Plus-que-parfait
+
+j'avais été fourni(e)
+il (elle) avait été fourni(e)
+nous avions été fourni(e)s
+ils (elles) avaient été fourni(e)s
+
+** Passé antérieur
+
+j'eus été fourni(e)
+tu eus été fourni(e)
+il (elle) eut été fourni(e)
+nous eûmes été fourni(e)s
+vous eûtes été fourni(e)s
+ils (elles) eurent été fourni(e)s
+
+** Futur antérieur
+
+j'aurai été fourni(e)
+tu auras été fourni(e)
+il (elle) aura été fourni(e)
+nous aurons été fourni(e)s
+vous aurez été fourni(e)s
+ils (elles) auront été fourni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fourni(e)
+j'aurais été fourni(e)
+il (elle) aurait été fourni(e)
+nous aurions été fourni(e)s
+vous auriez été fourni(e)s
+ils (elles) auraient été fourni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fourni(e)
+que tu aies été fourni(e)
+qu’il (elle) ait été fourni(e)
+que nous ayons été fourni(e)s
+que vous ayez été fourni(e)s
+qu’ils (elles) aient été fourni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fourni(e)
+que tu eusses été fourni(e)
+qu’il (elle) eût été fourni(e)
+que nous eussions été fourni(e)s
+que vous eussiez été fourni(e)s
+qu’ils (elles) eussent été fourni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fourni(e)
+ayons été fourni(e)s
+ayez été fourni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fourni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fourni(e)(s)

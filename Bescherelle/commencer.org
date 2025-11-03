@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe commencer
+
+* INDICATIF
+
+** Présent
+
+je commence
+tu commences
+il (elle) commence
+nous commençons
+vous commencez
+ils (elles) commencent
+
+** Imparfait
+
+je commençais
+tu commençais
+il (elle) commençait
+nous commencions
+vous commenciez
+ils (elles) commençaient
+
+** Passé simple
+
+je commençai
+tu commenças
+il (elle) commença
+nous commençâmes
+vous commençâtes
+ils (elles) commencèrent
+
+** Futur simple
+
+je commencerai
+tu commenceras
+il (elle) commencera
+nous commencerons
+vous commencerez
+ils (elles) commenceront
+
+* CONDITIONNEL
+
+** Présent
+
+je commencerais
+tu commencerais
+il (elle) commencerait
+nous commencerions
+vous commenceriez
+ils (elles) commenceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je commence
+que tu commences
+qu’il (elle) commence
+que nous commencions
+que vous commenciez
+qu’ils (elles) commencent
+
+** Imparfait
+
+que je commençasse
+que tu commençasses
+qu’il (elle) commençât
+que nous commençassions
+que vous commençassiez
+qu’ils (elles) commençassent
+
+* IMPÉRATIF
+
+** Présent
+
+commence
+commençons
+commencez
+
+* INFINITIF
+
+** Présent
+
+commencer
+
+* PARTICIPE
+
+** Présent
+
+commençant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai commencé
+tu as commencé
+il (elle) a commencé
+nous avons commencé
+vous avez commencé
+ils (elles) ont commencé
+
+** Plus-que-parfait
+
+j'avais commencé
+tu avais commencé
+il (elle) avait commencé
+nous avions commencé
+vous aviez commencé
+ils (elles) avaient commencé
+
+** Passé antérieur
+
+j'eus commencé
+tu eus commencé
+il (elle) eut commencé
+nous eûmes commencé
+vous eûtes commencé
+ils (elles) eurent commencé
+
+** Futur antérieur
+
+j'aurai commencé
+tu auras commencé
+il (elle) aura commencé
+nous aurons commencé
+vous aurez commencé
+ils (elles) auront commencé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais commencé
+tu aurais commencé
+il (elle) aurait commencé
+nous aurions commencé
+vous auriez commencé
+ils (elles) auraient commencé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie commencé
+que tu aies commencé
+qu’il (elle) ait commencé
+que nous ayons commencé
+que vous ayez commencé
+qu’ils (elles) aient commencé
+
+** Plus-que-parfait
+
+que j'eusse commencé
+que tu eusses commencé
+qu’il (elle) eût commencé
+que nous eussions commencé
+que vous eussiez commencé
+qu’ils (elles) eussent commencé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons commencé
+ayez commencé
+
+* INFINITIF
+
+** Passé
+
+avoir commencé
+
+* PARTICIPE
+
+** Passé
+
+ayant commencé
+commencé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis commencé(e)
+tu es commencé(e)
+il (elle) est commencé(e)
+nous sommes commencé(e)s
+vous êtes commencé(e)s
+ils (elles) sont commencé(e)s
+
+** Imparfait
+
+j'étais commencé(e)
+tu étais commencé(e)
+il (elle) était commencé(e)
+nous étions commencé(e)s
+vous étiez commencé(e)s
+ils (elles) étaient commencé(e)s
+
+** Passé simple
+
+je fus commencé(e)
+tu fus commencé(e)
+il (elle) fut commencé(e)
+nous fûmes commencé(e)s
+vous fûtes commencé(e)s
+ils (elles) furent commencé(e)s
+
+** Futur simple
+
+je serai commencé(e)
+tu seras commencé(e)
+il (elle) sera commencé(e)
+nous serons commencé(e)s
+vous serez commencé(e)s
+ils (elles) seront commencé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais commencé(e)
+tu serais commencé(e)
+il (elle) serait commencé(e)
+nous serions commencé(e)s
+vous seriez commencé(e)s
+ils (elles) seraient commencé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois commencé(e)
+que tu sois commencé(e)
+qu’il (elle) soit commencé(e)
+que nous soyons commencé(e)s
+que vous soyez commencé(e)s
+qu’ils (elles) soient commencé(e)s
+
+** Imparfait
+
+que je fusse commencé(e)
+que tu fusses commencé(e)
+qu’il (elle) fût commencé(e)
+que nous fussions commencé(e)s
+que vous fussiez commencé(e)s
+qu’ils (elles) fussent commencé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons commencé(e)s
+soyez commencé(e)s
+
+* INFINITIF
+
+** Présent
+
+être commencé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant commencé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été commencé(e)
+tu as été commencé(e)
+il (elle) a été commencé(e)
+nous avons été commencé(e)s
+vous avez été commencé(e)s
+ils (elles) ont été commencé(e)s
+
+** Plus-que-parfait
+
+j'avais été commencé(e)
+il (elle) avait été commencé(e)
+nous avions été commencé(e)s
+ils (elles) avaient été commencé(e)s
+
+** Passé antérieur
+
+j'eus été commencé(e)
+tu eus été commencé(e)
+il (elle) eut été commencé(e)
+nous eûmes été commencé(e)s
+vous eûtes été commencé(e)s
+ils (elles) eurent été commencé(e)s
+
+** Futur antérieur
+
+j'aurai été commencé(e)
+tu auras été commencé(e)
+il (elle) aura été commencé(e)
+nous aurons été commencé(e)s
+vous aurez été commencé(e)s
+ils (elles) auront été commencé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été commencé(e)
+j'aurais été commencé(e)
+il (elle) aurait été commencé(e)
+nous aurions été commencé(e)s
+vous auriez été commencé(e)s
+ils (elles) auraient été commencé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été commencé(e)
+que tu aies été commencé(e)
+qu’il (elle) ait été commencé(e)
+que nous ayons été commencé(e)s
+que vous ayez été commencé(e)s
+qu’ils (elles) aient été commencé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été commencé(e)
+que tu eusses été commencé(e)
+qu’il (elle) eût été commencé(e)
+que nous eussions été commencé(e)s
+que vous eussiez été commencé(e)s
+qu’ils (elles) eussent été commencé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été commencé(e)
+ayons été commencé(e)s
+ayez été commencé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été commencé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été commencé(e)(s)

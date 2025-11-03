@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe identifier
+
+* INDICATIF
+
+** Présent
+
+j'identifie
+tu identifies
+il (elle) identifie
+nous identifions
+vous identifiez
+ils (elles) identifient
+
+** Imparfait
+
+j'identifiais
+tu identifiais
+il (elle) identifiait
+nous identifiions
+vous identifiiez
+ils (elles) identifiaient
+
+** Passé simple
+
+j'identifiai
+tu identifias
+il (elle) identifia
+nous identifiâmes
+vous identifiâtes
+ils (elles) identifièrent
+
+** Futur simple
+
+j'identifierai
+tu identifieras
+il (elle) identifiera
+nous identifierons
+vous identifierez
+ils (elles) identifieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'identifierais
+tu identifierais
+il (elle) identifierait
+nous identifierions
+vous identifieriez
+ils (elles) identifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'identifie
+que tu identifies
+qu’il (elle) identifie
+que nous identifiions
+que vous identifiiez
+qu’ils (elles) identifient
+
+** Imparfait
+
+que j'identifiasse
+que tu identifiasses
+qu’il (elle) identifiât
+que nous identifiassions
+que vous identifiassiez
+qu’ils (elles) identifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+identifie
+identifions
+identifiez
+
+* INFINITIF
+
+** Présent
+
+identifier
+
+* PARTICIPE
+
+** Présent
+
+identifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai identifié
+tu as identifié
+il (elle) a identifié
+nous avons identifié
+vous avez identifié
+ils (elles) ont identifié
+
+** Plus-que-parfait
+
+j'avais identifié
+tu avais identifié
+il (elle) avait identifié
+nous avions identifié
+vous aviez identifié
+ils (elles) avaient identifié
+
+** Passé antérieur
+
+j'eus identifié
+tu eus identifié
+il (elle) eut identifié
+nous eûmes identifié
+vous eûtes identifié
+ils (elles) eurent identifié
+
+** Futur antérieur
+
+j'aurai identifié
+tu auras identifié
+il (elle) aura identifié
+nous aurons identifié
+vous aurez identifié
+ils (elles) auront identifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais identifié
+tu aurais identifié
+il (elle) aurait identifié
+nous aurions identifié
+vous auriez identifié
+ils (elles) auraient identifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie identifié
+que tu aies identifié
+qu’il (elle) ait identifié
+que nous ayons identifié
+que vous ayez identifié
+qu’ils (elles) aient identifié
+
+** Plus-que-parfait
+
+que j'eusse identifié
+que tu eusses identifié
+qu’il (elle) eût identifié
+que nous eussions identifié
+que vous eussiez identifié
+qu’ils (elles) eussent identifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons identifié
+ayez identifié
+
+* INFINITIF
+
+** Passé
+
+avoir identifié
+
+* PARTICIPE
+
+** Passé
+
+ayant identifié
+identifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis identifié(e)
+tu es identifié(e)
+il (elle) est identifié(e)
+nous sommes identifié(e)s
+vous êtes identifié(e)s
+ils (elles) sont identifié(e)s
+
+** Imparfait
+
+j'étais identifié(e)
+tu étais identifié(e)
+il (elle) était identifié(e)
+nous étions identifié(e)s
+vous étiez identifié(e)s
+ils (elles) étaient identifié(e)s
+
+** Passé simple
+
+je fus identifié(e)
+tu fus identifié(e)
+il (elle) fut identifié(e)
+nous fûmes identifié(e)s
+vous fûtes identifié(e)s
+ils (elles) furent identifié(e)s
+
+** Futur simple
+
+je serai identifié(e)
+tu seras identifié(e)
+il (elle) sera identifié(e)
+nous serons identifié(e)s
+vous serez identifié(e)s
+ils (elles) seront identifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais identifié(e)
+tu serais identifié(e)
+il (elle) serait identifié(e)
+nous serions identifié(e)s
+vous seriez identifié(e)s
+ils (elles) seraient identifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois identifié(e)
+que tu sois identifié(e)
+qu’il (elle) soit identifié(e)
+que nous soyons identifié(e)s
+que vous soyez identifié(e)s
+qu’ils (elles) soient identifié(e)s
+
+** Imparfait
+
+que je fusse identifié(e)
+que tu fusses identifié(e)
+qu’il (elle) fût identifié(e)
+que nous fussions identifié(e)s
+que vous fussiez identifié(e)s
+qu’ils (elles) fussent identifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons identifié(e)s
+soyez identifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être identifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant identifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été identifié(e)
+tu as été identifié(e)
+il (elle) a été identifié(e)
+nous avons été identifié(e)s
+vous avez été identifié(e)s
+ils (elles) ont été identifié(e)s
+
+** Plus-que-parfait
+
+j'avais été identifié(e)
+il (elle) avait été identifié(e)
+nous avions été identifié(e)s
+ils (elles) avaient été identifié(e)s
+
+** Passé antérieur
+
+j'eus été identifié(e)
+tu eus été identifié(e)
+il (elle) eut été identifié(e)
+nous eûmes été identifié(e)s
+vous eûtes été identifié(e)s
+ils (elles) eurent été identifié(e)s
+
+** Futur antérieur
+
+j'aurai été identifié(e)
+tu auras été identifié(e)
+il (elle) aura été identifié(e)
+nous aurons été identifié(e)s
+vous aurez été identifié(e)s
+ils (elles) auront été identifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été identifié(e)
+j'aurais été identifié(e)
+il (elle) aurait été identifié(e)
+nous aurions été identifié(e)s
+vous auriez été identifié(e)s
+ils (elles) auraient été identifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été identifié(e)
+que tu aies été identifié(e)
+qu’il (elle) ait été identifié(e)
+que nous ayons été identifié(e)s
+que vous ayez été identifié(e)s
+qu’ils (elles) aient été identifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été identifié(e)
+que tu eusses été identifié(e)
+qu’il (elle) eût été identifié(e)
+que nous eussions été identifié(e)s
+que vous eussiez été identifié(e)s
+qu’ils (elles) eussent été identifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été identifié(e)
+ayons été identifié(e)s
+ayez été identifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été identifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été identifié(e)(s)

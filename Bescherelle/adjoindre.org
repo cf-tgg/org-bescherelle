@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe adjoindre
+
+* INDICATIF
+
+** Présent
+
+j'adjoins
+tu adjoins
+il (elle) adjoint
+nous adjoignons
+vous adjoignez
+ils (elles) adjoignent
+
+** Imparfait
+
+j'adjoignais
+tu adjoignais
+il (elle) adjoignait
+nous adjoignions
+vous adjoigniez
+ils (elles) adjoignaient
+
+** Passé simple
+
+j'adjoignis
+tu adjoignis
+il (elle) adjoignit
+nous adjoignîmes
+vous adjoignîtes
+ils (elles) adjoignirent
+
+** Futur simple
+
+j'adjoindrai
+tu adjoindras
+il (elle) adjoindra
+nous adjoindrons
+vous adjoindrez
+ils (elles) adjoindront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adjoindrais
+tu adjoindrais
+il (elle) adjoindrait
+nous adjoindrions
+vous adjoindriez
+ils (elles) adjoindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adjoigne
+que tu adjoignes
+qu’il (elle) adjoigne
+que nous adjoignions
+que vous adjoigniez
+qu’ils (elles) adjoignent
+
+** Imparfait
+
+que j'adjoignisse
+que tu adjoignisses
+qu’il (elle) adjoignît
+que nous adjoignissions
+que vous adjoignissiez
+qu’ils (elles) adjoignissent
+
+* IMPÉRATIF
+
+** Présent
+
+adjoins
+adjoignons
+adjoignez
+
+* INFINITIF
+
+** Présent
+
+adjoindre
+
+* PARTICIPE
+
+** Présent
+
+adjoignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adjoint
+tu as adjoint
+il (elle) a adjoint
+nous avons adjoint
+vous avez adjoint
+ils (elles) ont adjoint
+
+** Plus-que-parfait
+
+j'avais adjoint
+tu avais adjoint
+il (elle) avait adjoint
+nous avions adjoint
+vous aviez adjoint
+ils (elles) avaient adjoint
+
+** Passé antérieur
+
+j'eus adjoint
+tu eus adjoint
+il (elle) eut adjoint
+nous eûmes adjoint
+vous eûtes adjoint
+ils (elles) eurent adjoint
+
+** Futur antérieur
+
+j'aurai adjoint
+tu auras adjoint
+il (elle) aura adjoint
+nous aurons adjoint
+vous aurez adjoint
+ils (elles) auront adjoint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adjoint
+tu aurais adjoint
+il (elle) aurait adjoint
+nous aurions adjoint
+vous auriez adjoint
+ils (elles) auraient adjoint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adjoint
+que tu aies adjoint
+qu’il (elle) ait adjoint
+que nous ayons adjoint
+que vous ayez adjoint
+qu’ils (elles) aient adjoint
+
+** Plus-que-parfait
+
+que j'eusse adjoint
+que tu eusses adjoint
+qu’il (elle) eût adjoint
+que nous eussions adjoint
+que vous eussiez adjoint
+qu’ils (elles) eussent adjoint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adjoint
+ayez adjoint
+
+* INFINITIF
+
+** Passé
+
+avoir adjoint
+
+* PARTICIPE
+
+** Passé
+
+ayant adjoint
+adjoint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis adjoint(e)
+tu es adjoint(e)
+il (elle) est adjoint(e)
+nous sommes adjoint(e)s
+vous êtes adjoint(e)s
+ils (elles) sont adjoint(e)s
+
+** Imparfait
+
+j'étais adjoint(e)
+tu étais adjoint(e)
+il (elle) était adjoint(e)
+nous étions adjoint(e)s
+vous étiez adjoint(e)s
+ils (elles) étaient adjoint(e)s
+
+** Passé simple
+
+je fus adjoint(e)
+tu fus adjoint(e)
+il (elle) fut adjoint(e)
+nous fûmes adjoint(e)s
+vous fûtes adjoint(e)s
+ils (elles) furent adjoint(e)s
+
+** Futur simple
+
+je serai adjoint(e)
+tu seras adjoint(e)
+il (elle) sera adjoint(e)
+nous serons adjoint(e)s
+vous serez adjoint(e)s
+ils (elles) seront adjoint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais adjoint(e)
+tu serais adjoint(e)
+il (elle) serait adjoint(e)
+nous serions adjoint(e)s
+vous seriez adjoint(e)s
+ils (elles) seraient adjoint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois adjoint(e)
+que tu sois adjoint(e)
+qu’il (elle) soit adjoint(e)
+que nous soyons adjoint(e)s
+que vous soyez adjoint(e)s
+qu’ils (elles) soient adjoint(e)s
+
+** Imparfait
+
+que je fusse adjoint(e)
+que tu fusses adjoint(e)
+qu’il (elle) fût adjoint(e)
+que nous fussions adjoint(e)s
+que vous fussiez adjoint(e)s
+qu’ils (elles) fussent adjoint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons adjoint(e)s
+soyez adjoint(e)s
+
+* INFINITIF
+
+** Présent
+
+être adjoint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant adjoint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été adjoint(e)
+tu as été adjoint(e)
+il (elle) a été adjoint(e)
+nous avons été adjoint(e)s
+vous avez été adjoint(e)s
+ils (elles) ont été adjoint(e)s
+
+** Plus-que-parfait
+
+j'avais été adjoint(e)
+il (elle) avait été adjoint(e)
+nous avions été adjoint(e)s
+ils (elles) avaient été adjoint(e)s
+
+** Passé antérieur
+
+j'eus été adjoint(e)
+tu eus été adjoint(e)
+il (elle) eut été adjoint(e)
+nous eûmes été adjoint(e)s
+vous eûtes été adjoint(e)s
+ils (elles) eurent été adjoint(e)s
+
+** Futur antérieur
+
+j'aurai été adjoint(e)
+tu auras été adjoint(e)
+il (elle) aura été adjoint(e)
+nous aurons été adjoint(e)s
+vous aurez été adjoint(e)s
+ils (elles) auront été adjoint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été adjoint(e)
+j'aurais été adjoint(e)
+il (elle) aurait été adjoint(e)
+nous aurions été adjoint(e)s
+vous auriez été adjoint(e)s
+ils (elles) auraient été adjoint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été adjoint(e)
+que tu aies été adjoint(e)
+qu’il (elle) ait été adjoint(e)
+que nous ayons été adjoint(e)s
+que vous ayez été adjoint(e)s
+qu’ils (elles) aient été adjoint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été adjoint(e)
+que tu eusses été adjoint(e)
+qu’il (elle) eût été adjoint(e)
+que nous eussions été adjoint(e)s
+que vous eussiez été adjoint(e)s
+qu’ils (elles) eussent été adjoint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été adjoint(e)
+ayons été adjoint(e)s
+ayez été adjoint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été adjoint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été adjoint(e)(s)

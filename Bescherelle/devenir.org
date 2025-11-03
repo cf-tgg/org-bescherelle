@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe devenir
+
+* INDICATIF
+
+** Présent
+
+je deviens
+tu deviens
+il (elle) devient
+nous devenons
+vous devenez
+ils (elles) deviennent
+
+** Imparfait
+
+je devenais
+tu devenais
+il (elle) devenait
+nous devenions
+vous deveniez
+ils (elles) devenaient
+
+** Passé simple
+
+je devins
+tu devins
+il (elle) devint
+nous devînmes
+vous devîntes
+ils (elles) devinrent
+
+** Futur simple
+
+je deviendrai
+tu deviendras
+il (elle) deviendra
+nous deviendrons
+vous deviendrez
+ils (elles) deviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je deviendrais
+tu deviendrais
+il (elle) deviendrait
+nous deviendrions
+vous deviendriez
+ils (elles) deviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je devienne
+que tu deviennes
+qu’il (elle) devienne
+que nous devenions
+que vous deveniez
+qu’ils (elles) deviennent
+
+** Imparfait
+
+que je devinsse
+que tu devinsses
+qu’il (elle) devînt
+que nous devinssions
+que vous devinssiez
+qu’ils (elles) devinssent
+
+* IMPÉRATIF
+
+** Présent
+
+deviens
+devenons
+devenez
+
+* INFINITIF
+
+** Présent
+
+devenir
+
+* PARTICIPE
+
+** Présent
+
+devenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis devenu(e)
+tu es devenu(e)
+il (elle) est devenu(e)
+nous sommes devenu(e)s
+vous êtes devenu(e)s
+ils (elles) sont devenu(e)s
+
+** Plus-que-parfait
+
+j'étais devenu(e)
+tu étais devenu(e)
+il (elle) était devenu(e)
+nous étions devenu(e)s
+vous étiez devenu(e)s
+ils (elles) étaient devenu(e)s
+
+** Passé antérieur
+
+je fus devenu(e)
+tu fus devenu(e)
+il (elle) fut devenu(e)
+nous fûmes devenu(e)s
+vous fûtes devenu(e)s
+ils (elles) furent devenu(e)s
+
+** Futur antérieur
+
+je serai devenu(e)
+tu seras devenu(e)
+il (elle) sera devenu(e)
+nous serons devenu(e)s
+vous serez devenu(e)s
+ils (elles) seront devenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais devenu(e)
+tu serais devenu(e)
+il (elle) serait devenu(e)
+nous serions devenu(e)s
+vous seriez devenu(e)s
+ils (elles) seraient devenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois devenu(e)
+que tu sois devenu(e)
+qu’il (elle) soit devenu(e)
+que nous soyons devenu(e)s
+que vous soyez devenu(e)s
+qu’ils (elles) soient devenu(e)s
+
+** Plus-que-parfait
+
+que je fusse devenu(e)
+que tu fusses devenu(e)
+qu’il (elle) fût devenu(e)
+que nous fussions devenu(e)s
+que vous fussiez devenu(e)s
+qu’ils (elles) fussent devenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons devenu(e)s
+soyez devenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être devenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant devenu(e)(s)
+devenu (u, ue, us, ues)

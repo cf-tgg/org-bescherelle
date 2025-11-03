@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe resoudre
+
+* INDICATIF
+
+** Présent
+
+je résous
+tu résous
+il (elle) résout
+nous résolvons
+vous résolvez
+ils (elles) résolvent
+
+** Imparfait
+
+je résolvais
+tu résolvais
+il (elle) résolvait
+nous résolvions
+vous résolviez
+ils (elles) résolvaient
+
+** Passé simple
+
+je résolus
+tu résolus
+il (elle) résolut
+nous résolûmes
+vous résolûtes
+ils (elles) résolurent
+
+** Futur simple
+
+je résoudrai
+tu résoudras
+il (elle) résoudra
+nous résoudrons
+vous résoudrez
+ils (elles) résoudront
+
+* CONDITIONNEL
+
+** Présent
+
+je résoudrais
+tu résoudrais
+il (elle) résoudrait
+nous résoudrions
+vous résoudriez
+ils (elles) résoudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je résolve
+que tu résolves
+qu’il (elle) résolve
+que nous résolvions
+que vous résolviez
+qu’ils (elles) résolvent
+
+** Imparfait
+
+que je résolusse
+que tu résolusses
+qu’il (elle) résolût
+que nous résolussions
+que vous résolussiez
+qu’ils (elles) résolussent
+
+* IMPÉRATIF
+
+** Présent
+
+résous
+résolvons
+résolvez
+
+* INFINITIF
+
+** Présent
+
+résoudre
+
+* PARTICIPE
+
+** Présent
+
+résolvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai résolu
+tu as résolu
+il (elle) a résolu
+nous avons résolu
+vous avez résolu
+ils (elles) ont résolu
+
+** Plus-que-parfait
+
+j'avais résolu
+tu avais résolu
+il (elle) avait résolu
+nous avions résolu
+vous aviez résolu
+ils (elles) avaient résolu
+
+** Passé antérieur
+
+j'eus résolu
+tu eus résolu
+il (elle) eut résolu
+nous eûmes résolu
+vous eûtes résolu
+ils (elles) eurent résolu
+
+** Futur antérieur
+
+j'aurai résolu
+tu auras résolu
+il (elle) aura résolu
+nous aurons résolu
+vous aurez résolu
+ils (elles) auront résolu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais résolu
+tu aurais résolu
+il (elle) aurait résolu
+nous aurions résolu
+vous auriez résolu
+ils (elles) auraient résolu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie résolu
+que tu aies résolu
+qu’il (elle) ait résolu
+que nous ayons résolu
+que vous ayez résolu
+qu’ils (elles) aient résolu
+
+** Plus-que-parfait
+
+que j'eusse résolu
+que tu eusses résolu
+qu’il (elle) eût résolu
+que nous eussions résolu
+que vous eussiez résolu
+qu’ils (elles) eussent résolu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons résolu
+ayez résolu
+
+* INFINITIF
+
+** Passé
+
+avoir résolu
+
+* PARTICIPE
+
+** Passé
+
+ayant résolu
+résolu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis résolu(e)
+tu es résolu(e)
+il (elle) est résolu(e)
+nous sommes résolu(e)s
+vous êtes résolu(e)s
+ils (elles) sont résolu(e)s
+
+** Imparfait
+
+j'étais résolu(e)
+tu étais résolu(e)
+il (elle) était résolu(e)
+nous étions résolu(e)s
+vous étiez résolu(e)s
+ils (elles) étaient résolu(e)s
+
+** Passé simple
+
+je fus résolu(e)
+tu fus résolu(e)
+il (elle) fut résolu(e)
+nous fûmes résolu(e)s
+vous fûtes résolu(e)s
+ils (elles) furent résolu(e)s
+
+** Futur simple
+
+je serai résolu(e)
+tu seras résolu(e)
+il (elle) sera résolu(e)
+nous serons résolu(e)s
+vous serez résolu(e)s
+ils (elles) seront résolu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais résolu(e)
+tu serais résolu(e)
+il (elle) serait résolu(e)
+nous serions résolu(e)s
+vous seriez résolu(e)s
+ils (elles) seraient résolu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois résolu(e)
+que tu sois résolu(e)
+qu’il (elle) soit résolu(e)
+que nous soyons résolu(e)s
+que vous soyez résolu(e)s
+qu’ils (elles) soient résolu(e)s
+
+** Imparfait
+
+que je fusse résolu(e)
+que tu fusses résolu(e)
+qu’il (elle) fût résolu(e)
+que nous fussions résolu(e)s
+que vous fussiez résolu(e)s
+qu’ils (elles) fussent résolu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons résolu(e)s
+soyez résolu(e)s
+
+* INFINITIF
+
+** Présent
+
+être résolu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant résolu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été résolu(e)
+tu as été résolu(e)
+il (elle) a été résolu(e)
+nous avons été résolu(e)s
+vous avez été résolu(e)s
+ils (elles) ont été résolu(e)s
+
+** Plus-que-parfait
+
+j'avais été résolu(e)
+il (elle) avait été résolu(e)
+nous avions été résolu(e)s
+ils (elles) avaient été résolu(e)s
+
+** Passé antérieur
+
+j'eus été résolu(e)
+tu eus été résolu(e)
+il (elle) eut été résolu(e)
+nous eûmes été résolu(e)s
+vous eûtes été résolu(e)s
+ils (elles) eurent été résolu(e)s
+
+** Futur antérieur
+
+j'aurai été résolu(e)
+tu auras été résolu(e)
+il (elle) aura été résolu(e)
+nous aurons été résolu(e)s
+vous aurez été résolu(e)s
+ils (elles) auront été résolu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été résolu(e)
+j'aurais été résolu(e)
+il (elle) aurait été résolu(e)
+nous aurions été résolu(e)s
+vous auriez été résolu(e)s
+ils (elles) auraient été résolu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été résolu(e)
+que tu aies été résolu(e)
+qu’il (elle) ait été résolu(e)
+que nous ayons été résolu(e)s
+que vous ayez été résolu(e)s
+qu’ils (elles) aient été résolu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été résolu(e)
+que tu eusses été résolu(e)
+qu’il (elle) eût été résolu(e)
+que nous eussions été résolu(e)s
+que vous eussiez été résolu(e)s
+qu’ils (elles) eussent été résolu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été résolu(e)
+ayons été résolu(e)s
+ayez été résolu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été résolu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été résolu(e)(s)

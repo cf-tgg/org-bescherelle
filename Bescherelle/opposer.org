@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe opposer
+
+* INDICATIF
+
+** Présent
+
+j'oppose
+tu opposes
+il (elle) oppose
+nous opposons
+vous opposez
+ils (elles) opposent
+
+** Imparfait
+
+j'opposais
+tu opposais
+il (elle) opposait
+nous opposions
+vous opposiez
+ils (elles) opposaient
+
+** Passé simple
+
+j'opposai
+tu opposas
+il (elle) opposa
+nous opposâmes
+vous opposâtes
+ils (elles) opposèrent
+
+** Futur simple
+
+j'opposerai
+tu opposeras
+il (elle) opposera
+nous opposerons
+vous opposerez
+ils (elles) opposeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'opposerais
+tu opposerais
+il (elle) opposerait
+nous opposerions
+vous opposeriez
+ils (elles) opposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oppose
+que tu opposes
+qu’il (elle) oppose
+que nous opposions
+que vous opposiez
+qu’ils (elles) opposent
+
+** Imparfait
+
+que j'opposasse
+que tu opposasses
+qu’il (elle) opposât
+que nous opposassions
+que vous opposassiez
+qu’ils (elles) opposassent
+
+* IMPÉRATIF
+
+** Présent
+
+oppose
+opposons
+opposez
+
+* INFINITIF
+
+** Présent
+
+opposer
+
+* PARTICIPE
+
+** Présent
+
+opposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai opposé
+tu as opposé
+il (elle) a opposé
+nous avons opposé
+vous avez opposé
+ils (elles) ont opposé
+
+** Plus-que-parfait
+
+j'avais opposé
+tu avais opposé
+il (elle) avait opposé
+nous avions opposé
+vous aviez opposé
+ils (elles) avaient opposé
+
+** Passé antérieur
+
+j'eus opposé
+tu eus opposé
+il (elle) eut opposé
+nous eûmes opposé
+vous eûtes opposé
+ils (elles) eurent opposé
+
+** Futur antérieur
+
+j'aurai opposé
+tu auras opposé
+il (elle) aura opposé
+nous aurons opposé
+vous aurez opposé
+ils (elles) auront opposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais opposé
+tu aurais opposé
+il (elle) aurait opposé
+nous aurions opposé
+vous auriez opposé
+ils (elles) auraient opposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie opposé
+que tu aies opposé
+qu’il (elle) ait opposé
+que nous ayons opposé
+que vous ayez opposé
+qu’ils (elles) aient opposé
+
+** Plus-que-parfait
+
+que j'eusse opposé
+que tu eusses opposé
+qu’il (elle) eût opposé
+que nous eussions opposé
+que vous eussiez opposé
+qu’ils (elles) eussent opposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons opposé
+ayez opposé
+
+* INFINITIF
+
+** Passé
+
+avoir opposé
+
+* PARTICIPE
+
+** Passé
+
+ayant opposé
+opposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis opposé(e)
+tu es opposé(e)
+il (elle) est opposé(e)
+nous sommes opposé(e)s
+vous êtes opposé(e)s
+ils (elles) sont opposé(e)s
+
+** Imparfait
+
+j'étais opposé(e)
+tu étais opposé(e)
+il (elle) était opposé(e)
+nous étions opposé(e)s
+vous étiez opposé(e)s
+ils (elles) étaient opposé(e)s
+
+** Passé simple
+
+je fus opposé(e)
+tu fus opposé(e)
+il (elle) fut opposé(e)
+nous fûmes opposé(e)s
+vous fûtes opposé(e)s
+ils (elles) furent opposé(e)s
+
+** Futur simple
+
+je serai opposé(e)
+tu seras opposé(e)
+il (elle) sera opposé(e)
+nous serons opposé(e)s
+vous serez opposé(e)s
+ils (elles) seront opposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais opposé(e)
+tu serais opposé(e)
+il (elle) serait opposé(e)
+nous serions opposé(e)s
+vous seriez opposé(e)s
+ils (elles) seraient opposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois opposé(e)
+que tu sois opposé(e)
+qu’il (elle) soit opposé(e)
+que nous soyons opposé(e)s
+que vous soyez opposé(e)s
+qu’ils (elles) soient opposé(e)s
+
+** Imparfait
+
+que je fusse opposé(e)
+que tu fusses opposé(e)
+qu’il (elle) fût opposé(e)
+que nous fussions opposé(e)s
+que vous fussiez opposé(e)s
+qu’ils (elles) fussent opposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons opposé(e)s
+soyez opposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être opposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant opposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été opposé(e)
+tu as été opposé(e)
+il (elle) a été opposé(e)
+nous avons été opposé(e)s
+vous avez été opposé(e)s
+ils (elles) ont été opposé(e)s
+
+** Plus-que-parfait
+
+j'avais été opposé(e)
+il (elle) avait été opposé(e)
+nous avions été opposé(e)s
+ils (elles) avaient été opposé(e)s
+
+** Passé antérieur
+
+j'eus été opposé(e)
+tu eus été opposé(e)
+il (elle) eut été opposé(e)
+nous eûmes été opposé(e)s
+vous eûtes été opposé(e)s
+ils (elles) eurent été opposé(e)s
+
+** Futur antérieur
+
+j'aurai été opposé(e)
+tu auras été opposé(e)
+il (elle) aura été opposé(e)
+nous aurons été opposé(e)s
+vous aurez été opposé(e)s
+ils (elles) auront été opposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été opposé(e)
+j'aurais été opposé(e)
+il (elle) aurait été opposé(e)
+nous aurions été opposé(e)s
+vous auriez été opposé(e)s
+ils (elles) auraient été opposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été opposé(e)
+que tu aies été opposé(e)
+qu’il (elle) ait été opposé(e)
+que nous ayons été opposé(e)s
+que vous ayez été opposé(e)s
+qu’ils (elles) aient été opposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été opposé(e)
+que tu eusses été opposé(e)
+qu’il (elle) eût été opposé(e)
+que nous eussions été opposé(e)s
+que vous eussiez été opposé(e)s
+qu’ils (elles) eussent été opposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été opposé(e)
+ayons été opposé(e)s
+ayez été opposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été opposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été opposé(e)(s)

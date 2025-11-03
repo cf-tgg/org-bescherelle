@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe faiblir
+
+* INDICATIF
+
+** Présent
+
+je faiblis
+tu faiblis
+il (elle) faiblit
+nous faiblissons
+vous faiblissez
+ils (elles) faiblissent
+
+** Imparfait
+
+je faiblissais
+tu faiblissais
+il (elle) faiblissait
+nous faiblissions
+vous faiblissiez
+ils (elles) faiblissaient
+
+** Passé simple
+
+je faiblis
+tu faiblis
+il (elle) faiblit
+nous faiblîmes
+vous faiblîtes
+ils (elles) faiblirent
+
+** Futur simple
+
+je faiblirai
+tu faibliras
+il (elle) faiblira
+nous faiblirons
+vous faiblirez
+ils (elles) faibliront
+
+* CONDITIONNEL
+
+** Présent
+
+je faiblirais
+tu faiblirais
+il (elle) faiblirait
+nous faiblirions
+vous faibliriez
+ils (elles) faibliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je faiblisse
+que tu faiblisses
+qu’il (elle) faiblisse
+que nous faiblissions
+que vous faiblissiez
+qu’ils (elles) faiblissent
+
+** Imparfait
+
+que je faiblisse
+que tu faiblisses
+qu’il (elle) faiblît
+que nous faiblissions
+que vous faiblissiez
+qu’ils (elles) faiblissent
+
+* IMPÉRATIF
+
+** Présent
+
+faiblis
+faiblissons
+faiblissez
+
+* INFINITIF
+
+** Présent
+
+faiblir
+
+* PARTICIPE
+
+** Présent
+
+faiblissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai faibli
+tu as faibli
+il (elle) a faibli
+nous avons faibli
+vous avez faibli
+ils (elles) ont faibli
+
+** Plus-que-parfait
+
+j'avais faibli
+tu avais faibli
+il (elle) avait faibli
+nous avions faibli
+vous aviez faibli
+ils (elles) avaient faibli
+
+** Passé antérieur
+
+j'eus faibli
+tu eus faibli
+il (elle) eut faibli
+nous eûmes faibli
+vous eûtes faibli
+ils (elles) eurent faibli
+
+** Futur antérieur
+
+j'aurai faibli
+tu auras faibli
+il (elle) aura faibli
+nous aurons faibli
+vous aurez faibli
+ils (elles) auront faibli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais faibli
+tu aurais faibli
+il (elle) aurait faibli
+nous aurions faibli
+vous auriez faibli
+ils (elles) auraient faibli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie faibli
+que tu aies faibli
+qu’il (elle) ait faibli
+que nous ayons faibli
+que vous ayez faibli
+qu’ils (elles) aient faibli
+
+** Plus-que-parfait
+
+que j'eusse faibli
+que tu eusses faibli
+qu’il (elle) eût faibli
+que nous eussions faibli
+que vous eussiez faibli
+qu’ils (elles) eussent faibli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons faibli
+ayez faibli
+
+* INFINITIF
+
+** Passé
+
+avoir faibli
+
+* PARTICIPE
+
+** Passé
+
+ayant faibli
+faibli (invar.)

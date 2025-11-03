@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe admettre
+
+* INDICATIF
+
+** Présent
+
+j'admets
+tu admets
+il (elle) admet
+nous admettons
+vous admettez
+ils (elles) admettent
+
+** Imparfait
+
+j'admettais
+tu admettais
+il (elle) admettait
+nous admettions
+vous admettiez
+ils (elles) admettaient
+
+** Passé simple
+
+j'admis
+tu admis
+il (elle) admit
+nous admîmes
+vous admîtes
+ils (elles) admirent
+
+** Futur simple
+
+j'admettrai
+tu admettras
+il (elle) admettra
+nous admettrons
+vous admettrez
+ils (elles) admettront
+
+* CONDITIONNEL
+
+** Présent
+
+j'admettrais
+tu admettrais
+il (elle) admettrait
+nous admettrions
+vous admettriez
+ils (elles) admettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'admette
+que tu admettes
+qu’il (elle) admette
+que nous admettions
+que vous admettiez
+qu’ils (elles) admettent
+
+** Imparfait
+
+que j'admisse
+que tu admisses
+qu’il (elle) admît
+que nous admissions
+que vous admissiez
+qu’ils (elles) admissent
+
+* IMPÉRATIF
+
+** Présent
+
+admets
+admettons
+admettez
+
+* INFINITIF
+
+** Présent
+
+admettre
+
+* PARTICIPE
+
+** Présent
+
+admettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai admis
+tu as admis
+il (elle) a admis
+nous avons admis
+vous avez admis
+ils (elles) ont admis
+
+** Plus-que-parfait
+
+j'avais admis
+tu avais admis
+il (elle) avait admis
+nous avions admis
+vous aviez admis
+ils (elles) avaient admis
+
+** Passé antérieur
+
+j'eus admis
+tu eus admis
+il (elle) eut admis
+nous eûmes admis
+vous eûtes admis
+ils (elles) eurent admis
+
+** Futur antérieur
+
+j'aurai admis
+tu auras admis
+il (elle) aura admis
+nous aurons admis
+vous aurez admis
+ils (elles) auront admis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais admis
+tu aurais admis
+il (elle) aurait admis
+nous aurions admis
+vous auriez admis
+ils (elles) auraient admis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie admis
+que tu aies admis
+qu’il (elle) ait admis
+que nous ayons admis
+que vous ayez admis
+qu’ils (elles) aient admis
+
+** Plus-que-parfait
+
+que j'eusse admis
+que tu eusses admis
+qu’il (elle) eût admis
+que nous eussions admis
+que vous eussiez admis
+qu’ils (elles) eussent admis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons admis
+ayez admis
+
+* INFINITIF
+
+** Passé
+
+avoir admis
+
+* PARTICIPE
+
+** Passé
+
+ayant admis
+admis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis admis(e)
+tu es admis(e)
+il (elle) est admis(e)
+nous sommes admis(es)
+vous êtes admis(es)
+ils (elles) sont admis(es)
+
+** Imparfait
+
+j'étais admis(e)
+tu étais admis(e)
+il (elle) était admis(e)
+nous étions admis(es)
+vous étiez admis(es)
+ils (elles) étaient admis(es)
+
+** Passé simple
+
+je fus admis(e)
+tu fus admis(e)
+il (elle) fut admis(e)
+nous fûmes admis(es)
+vous fûtes admis(es)
+ils (elles) furent admis(es)
+
+** Futur simple
+
+je serai admis(e)
+tu seras admis(e)
+il (elle) sera admis(e)
+nous serons admis(es)
+vous serez admis(es)
+ils (elles) seront admis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais admis(e)
+tu serais admis(e)
+il (elle) serait admis(e)
+nous serions admis(es)
+vous seriez admis(es)
+ils (elles) seraient admis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois admis(e)
+que tu sois admis(e)
+qu’il (elle) soit admis(e)
+que nous soyons admis(es)
+que vous soyez admis(es)
+qu’ils (elles) soient admis(es)
+
+** Imparfait
+
+que je fusse admis(e)
+que tu fusses admis(e)
+qu’il (elle) fût admis(e)
+que nous fussions admis(es)
+que vous fussiez admis(es)
+qu’ils (elles) fussent admis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons admis(es)
+soyez admis(es)
+
+* INFINITIF
+
+** Présent
+
+être admis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant admis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été admis(e)
+tu as été admis(e)
+il (elle) a été admis(e)
+nous avons été admis(es)
+vous avez été admis(es)
+ils (elles) ont été admis(es)
+
+** Plus-que-parfait
+
+j'avais été admis(e)
+il (elle) avait été admis(e)
+nous avions été admis(es)
+ils (elles) avaient été admis(es)
+
+** Passé antérieur
+
+j'eus été admis(e)
+tu eus été admis(e)
+il (elle) eut été admis(e)
+nous eûmes été admis(es)
+vous eûtes été admis(es)
+ils (elles) eurent été admis(es)
+
+** Futur antérieur
+
+j'aurai été admis(e)
+tu auras été admis(e)
+il (elle) aura été admis(e)
+nous aurons été admis(es)
+vous aurez été admis(es)
+ils (elles) auront été admis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été admis(e)
+j'aurais été admis(e)
+il (elle) aurait été admis(e)
+nous aurions été admis(es)
+vous auriez été admis(es)
+ils (elles) auraient été admis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été admis(e)
+que tu aies été admis(e)
+qu’il (elle) ait été admis(e)
+que nous ayons été admis(es)
+que vous ayez été admis(es)
+qu’ils (elles) aient été admis(es)
+
+** Plus-que-parfait
+
+que j'eusse été admis(e)
+que tu eusses été admis(e)
+qu’il (elle) eût été admis(e)
+que nous eussions été admis(es)
+que vous eussiez été admis(es)
+qu’ils (elles) eussent été admis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été admis(e)
+ayons été admis(es)
+ayez été admis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été admis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été admis (s, se, s, ses)

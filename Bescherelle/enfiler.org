@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enfiler
+
+* INDICATIF
+
+** Présent
+
+j'enfile
+tu enfiles
+il (elle) enfile
+nous enfilons
+vous enfilez
+ils (elles) enfilent
+
+** Imparfait
+
+j'enfilais
+tu enfilais
+il (elle) enfilait
+nous enfilions
+vous enfiliez
+ils (elles) enfilaient
+
+** Passé simple
+
+j'enfilai
+tu enfilas
+il (elle) enfila
+nous enfilâmes
+vous enfilâtes
+ils (elles) enfilèrent
+
+** Futur simple
+
+j'enfilerai
+tu enfileras
+il (elle) enfilera
+nous enfilerons
+vous enfilerez
+ils (elles) enfileront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enfilerais
+tu enfilerais
+il (elle) enfilerait
+nous enfilerions
+vous enfileriez
+ils (elles) enfileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enfile
+que tu enfiles
+qu’il (elle) enfile
+que nous enfilions
+que vous enfiliez
+qu’ils (elles) enfilent
+
+** Imparfait
+
+que j'enfilasse
+que tu enfilasses
+qu’il (elle) enfilât
+que nous enfilassions
+que vous enfilassiez
+qu’ils (elles) enfilassent
+
+* IMPÉRATIF
+
+** Présent
+
+enfile
+enfilons
+enfilez
+
+* INFINITIF
+
+** Présent
+
+enfiler
+
+* PARTICIPE
+
+** Présent
+
+enfilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enfilé
+tu as enfilé
+il (elle) a enfilé
+nous avons enfilé
+vous avez enfilé
+ils (elles) ont enfilé
+
+** Plus-que-parfait
+
+j'avais enfilé
+tu avais enfilé
+il (elle) avait enfilé
+nous avions enfilé
+vous aviez enfilé
+ils (elles) avaient enfilé
+
+** Passé antérieur
+
+j'eus enfilé
+tu eus enfilé
+il (elle) eut enfilé
+nous eûmes enfilé
+vous eûtes enfilé
+ils (elles) eurent enfilé
+
+** Futur antérieur
+
+j'aurai enfilé
+tu auras enfilé
+il (elle) aura enfilé
+nous aurons enfilé
+vous aurez enfilé
+ils (elles) auront enfilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enfilé
+tu aurais enfilé
+il (elle) aurait enfilé
+nous aurions enfilé
+vous auriez enfilé
+ils (elles) auraient enfilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enfilé
+que tu aies enfilé
+qu’il (elle) ait enfilé
+que nous ayons enfilé
+que vous ayez enfilé
+qu’ils (elles) aient enfilé
+
+** Plus-que-parfait
+
+que j'eusse enfilé
+que tu eusses enfilé
+qu’il (elle) eût enfilé
+que nous eussions enfilé
+que vous eussiez enfilé
+qu’ils (elles) eussent enfilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enfilé
+ayez enfilé
+
+* INFINITIF
+
+** Passé
+
+avoir enfilé
+
+* PARTICIPE
+
+** Passé
+
+ayant enfilé
+enfilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enfilé(e)
+tu es enfilé(e)
+il (elle) est enfilé(e)
+nous sommes enfilé(e)s
+vous êtes enfilé(e)s
+ils (elles) sont enfilé(e)s
+
+** Imparfait
+
+j'étais enfilé(e)
+tu étais enfilé(e)
+il (elle) était enfilé(e)
+nous étions enfilé(e)s
+vous étiez enfilé(e)s
+ils (elles) étaient enfilé(e)s
+
+** Passé simple
+
+je fus enfilé(e)
+tu fus enfilé(e)
+il (elle) fut enfilé(e)
+nous fûmes enfilé(e)s
+vous fûtes enfilé(e)s
+ils (elles) furent enfilé(e)s
+
+** Futur simple
+
+je serai enfilé(e)
+tu seras enfilé(e)
+il (elle) sera enfilé(e)
+nous serons enfilé(e)s
+vous serez enfilé(e)s
+ils (elles) seront enfilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enfilé(e)
+tu serais enfilé(e)
+il (elle) serait enfilé(e)
+nous serions enfilé(e)s
+vous seriez enfilé(e)s
+ils (elles) seraient enfilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enfilé(e)
+que tu sois enfilé(e)
+qu’il (elle) soit enfilé(e)
+que nous soyons enfilé(e)s
+que vous soyez enfilé(e)s
+qu’ils (elles) soient enfilé(e)s
+
+** Imparfait
+
+que je fusse enfilé(e)
+que tu fusses enfilé(e)
+qu’il (elle) fût enfilé(e)
+que nous fussions enfilé(e)s
+que vous fussiez enfilé(e)s
+qu’ils (elles) fussent enfilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enfilé(e)s
+soyez enfilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être enfilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enfilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enfilé(e)
+tu as été enfilé(e)
+il (elle) a été enfilé(e)
+nous avons été enfilé(e)s
+vous avez été enfilé(e)s
+ils (elles) ont été enfilé(e)s
+
+** Plus-que-parfait
+
+j'avais été enfilé(e)
+il (elle) avait été enfilé(e)
+nous avions été enfilé(e)s
+ils (elles) avaient été enfilé(e)s
+
+** Passé antérieur
+
+j'eus été enfilé(e)
+tu eus été enfilé(e)
+il (elle) eut été enfilé(e)
+nous eûmes été enfilé(e)s
+vous eûtes été enfilé(e)s
+ils (elles) eurent été enfilé(e)s
+
+** Futur antérieur
+
+j'aurai été enfilé(e)
+tu auras été enfilé(e)
+il (elle) aura été enfilé(e)
+nous aurons été enfilé(e)s
+vous aurez été enfilé(e)s
+ils (elles) auront été enfilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enfilé(e)
+j'aurais été enfilé(e)
+il (elle) aurait été enfilé(e)
+nous aurions été enfilé(e)s
+vous auriez été enfilé(e)s
+ils (elles) auraient été enfilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enfilé(e)
+que tu aies été enfilé(e)
+qu’il (elle) ait été enfilé(e)
+que nous ayons été enfilé(e)s
+que vous ayez été enfilé(e)s
+qu’ils (elles) aient été enfilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enfilé(e)
+que tu eusses été enfilé(e)
+qu’il (elle) eût été enfilé(e)
+que nous eussions été enfilé(e)s
+que vous eussiez été enfilé(e)s
+qu’ils (elles) eussent été enfilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enfilé(e)
+ayons été enfilé(e)s
+ayez été enfilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enfilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enfilé(e)(s)

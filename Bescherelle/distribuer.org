@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe distribuer
+
+* INDICATIF
+
+** Présent
+
+je distribue
+tu distribues
+il (elle) distribue
+nous distribuons
+vous distribuez
+ils (elles) distribuent
+
+** Imparfait
+
+je distribuais
+tu distribuais
+il (elle) distribuait
+nous distribuions
+vous distribuiez
+ils (elles) distribuaient
+
+** Passé simple
+
+je distribuai
+tu distribuas
+il (elle) distribua
+nous distribuâmes
+vous distribuâtes
+ils (elles) distribuèrent
+
+** Futur simple
+
+je distribuerai
+tu distribueras
+il (elle) distribuera
+nous distribuerons
+vous distribuerez
+ils (elles) distribueront
+
+* CONDITIONNEL
+
+** Présent
+
+je distribuerais
+tu distribuerais
+il (elle) distribuerait
+nous distribuerions
+vous distribueriez
+ils (elles) distribueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je distribue
+que tu distribues
+qu’il (elle) distribue
+que nous distribuions
+que vous distribuiez
+qu’ils (elles) distribuent
+
+** Imparfait
+
+que je distribuasse
+que tu distribuasses
+qu’il (elle) distribuât
+que nous distribuassions
+que vous distribuassiez
+qu’ils (elles) distribuassent
+
+* IMPÉRATIF
+
+** Présent
+
+distribue
+distribuons
+distribuez
+
+* INFINITIF
+
+** Présent
+
+distribuer
+
+* PARTICIPE
+
+** Présent
+
+distribuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai distribué
+tu as distribué
+il (elle) a distribué
+nous avons distribué
+vous avez distribué
+ils (elles) ont distribué
+
+** Plus-que-parfait
+
+j'avais distribué
+tu avais distribué
+il (elle) avait distribué
+nous avions distribué
+vous aviez distribué
+ils (elles) avaient distribué
+
+** Passé antérieur
+
+j'eus distribué
+tu eus distribué
+il (elle) eut distribué
+nous eûmes distribué
+vous eûtes distribué
+ils (elles) eurent distribué
+
+** Futur antérieur
+
+j'aurai distribué
+tu auras distribué
+il (elle) aura distribué
+nous aurons distribué
+vous aurez distribué
+ils (elles) auront distribué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais distribué
+tu aurais distribué
+il (elle) aurait distribué
+nous aurions distribué
+vous auriez distribué
+ils (elles) auraient distribué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie distribué
+que tu aies distribué
+qu’il (elle) ait distribué
+que nous ayons distribué
+que vous ayez distribué
+qu’ils (elles) aient distribué
+
+** Plus-que-parfait
+
+que j'eusse distribué
+que tu eusses distribué
+qu’il (elle) eût distribué
+que nous eussions distribué
+que vous eussiez distribué
+qu’ils (elles) eussent distribué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons distribué
+ayez distribué
+
+* INFINITIF
+
+** Passé
+
+avoir distribué
+
+* PARTICIPE
+
+** Passé
+
+ayant distribué
+distribué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis distribué(e)
+tu es distribué(e)
+il (elle) est distribué(e)
+nous sommes distribué(e)s
+vous êtes distribué(e)s
+ils (elles) sont distribué(e)s
+
+** Imparfait
+
+j'étais distribué(e)
+tu étais distribué(e)
+il (elle) était distribué(e)
+nous étions distribué(e)s
+vous étiez distribué(e)s
+ils (elles) étaient distribué(e)s
+
+** Passé simple
+
+je fus distribué(e)
+tu fus distribué(e)
+il (elle) fut distribué(e)
+nous fûmes distribué(e)s
+vous fûtes distribué(e)s
+ils (elles) furent distribué(e)s
+
+** Futur simple
+
+je serai distribué(e)
+tu seras distribué(e)
+il (elle) sera distribué(e)
+nous serons distribué(e)s
+vous serez distribué(e)s
+ils (elles) seront distribué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais distribué(e)
+tu serais distribué(e)
+il (elle) serait distribué(e)
+nous serions distribué(e)s
+vous seriez distribué(e)s
+ils (elles) seraient distribué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois distribué(e)
+que tu sois distribué(e)
+qu’il (elle) soit distribué(e)
+que nous soyons distribué(e)s
+que vous soyez distribué(e)s
+qu’ils (elles) soient distribué(e)s
+
+** Imparfait
+
+que je fusse distribué(e)
+que tu fusses distribué(e)
+qu’il (elle) fût distribué(e)
+que nous fussions distribué(e)s
+que vous fussiez distribué(e)s
+qu’ils (elles) fussent distribué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons distribué(e)s
+soyez distribué(e)s
+
+* INFINITIF
+
+** Présent
+
+être distribué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant distribué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été distribué(e)
+tu as été distribué(e)
+il (elle) a été distribué(e)
+nous avons été distribué(e)s
+vous avez été distribué(e)s
+ils (elles) ont été distribué(e)s
+
+** Plus-que-parfait
+
+j'avais été distribué(e)
+il (elle) avait été distribué(e)
+nous avions été distribué(e)s
+ils (elles) avaient été distribué(e)s
+
+** Passé antérieur
+
+j'eus été distribué(e)
+tu eus été distribué(e)
+il (elle) eut été distribué(e)
+nous eûmes été distribué(e)s
+vous eûtes été distribué(e)s
+ils (elles) eurent été distribué(e)s
+
+** Futur antérieur
+
+j'aurai été distribué(e)
+tu auras été distribué(e)
+il (elle) aura été distribué(e)
+nous aurons été distribué(e)s
+vous aurez été distribué(e)s
+ils (elles) auront été distribué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été distribué(e)
+j'aurais été distribué(e)
+il (elle) aurait été distribué(e)
+nous aurions été distribué(e)s
+vous auriez été distribué(e)s
+ils (elles) auraient été distribué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été distribué(e)
+que tu aies été distribué(e)
+qu’il (elle) ait été distribué(e)
+que nous ayons été distribué(e)s
+que vous ayez été distribué(e)s
+qu’ils (elles) aient été distribué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été distribué(e)
+que tu eusses été distribué(e)
+qu’il (elle) eût été distribué(e)
+que nous eussions été distribué(e)s
+que vous eussiez été distribué(e)s
+qu’ils (elles) eussent été distribué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été distribué(e)
+ayons été distribué(e)s
+ayez été distribué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été distribué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été distribué(e)(s)

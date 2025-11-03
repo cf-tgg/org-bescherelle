@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe stipuler
+
+* INDICATIF
+
+** Présent
+
+je stipule
+tu stipules
+il (elle) stipule
+nous stipulons
+vous stipulez
+ils (elles) stipulent
+
+** Imparfait
+
+je stipulais
+tu stipulais
+il (elle) stipulait
+nous stipulions
+vous stipuliez
+ils (elles) stipulaient
+
+** Passé simple
+
+je stipulai
+tu stipulas
+il (elle) stipula
+nous stipulâmes
+vous stipulâtes
+ils (elles) stipulèrent
+
+** Futur simple
+
+je stipulerai
+tu stipuleras
+il (elle) stipulera
+nous stipulerons
+vous stipulerez
+ils (elles) stipuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je stipulerais
+tu stipulerais
+il (elle) stipulerait
+nous stipulerions
+vous stipuleriez
+ils (elles) stipuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je stipule
+que tu stipules
+qu’il (elle) stipule
+que nous stipulions
+que vous stipuliez
+qu’ils (elles) stipulent
+
+** Imparfait
+
+que je stipulasse
+que tu stipulasses
+qu’il (elle) stipulât
+que nous stipulassions
+que vous stipulassiez
+qu’ils (elles) stipulassent
+
+* IMPÉRATIF
+
+** Présent
+
+stipule
+stipulons
+stipulez
+
+* INFINITIF
+
+** Présent
+
+stipuler
+
+* PARTICIPE
+
+** Présent
+
+stipulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai stipulé
+tu as stipulé
+il (elle) a stipulé
+nous avons stipulé
+vous avez stipulé
+ils (elles) ont stipulé
+
+** Plus-que-parfait
+
+j'avais stipulé
+tu avais stipulé
+il (elle) avait stipulé
+nous avions stipulé
+vous aviez stipulé
+ils (elles) avaient stipulé
+
+** Passé antérieur
+
+j'eus stipulé
+tu eus stipulé
+il (elle) eut stipulé
+nous eûmes stipulé
+vous eûtes stipulé
+ils (elles) eurent stipulé
+
+** Futur antérieur
+
+j'aurai stipulé
+tu auras stipulé
+il (elle) aura stipulé
+nous aurons stipulé
+vous aurez stipulé
+ils (elles) auront stipulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais stipulé
+tu aurais stipulé
+il (elle) aurait stipulé
+nous aurions stipulé
+vous auriez stipulé
+ils (elles) auraient stipulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie stipulé
+que tu aies stipulé
+qu’il (elle) ait stipulé
+que nous ayons stipulé
+que vous ayez stipulé
+qu’ils (elles) aient stipulé
+
+** Plus-que-parfait
+
+que j'eusse stipulé
+que tu eusses stipulé
+qu’il (elle) eût stipulé
+que nous eussions stipulé
+que vous eussiez stipulé
+qu’ils (elles) eussent stipulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons stipulé
+ayez stipulé
+
+* INFINITIF
+
+** Passé
+
+avoir stipulé
+
+* PARTICIPE
+
+** Passé
+
+ayant stipulé
+stipulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis stipulé(e)
+tu es stipulé(e)
+il (elle) est stipulé(e)
+nous sommes stipulé(e)s
+vous êtes stipulé(e)s
+ils (elles) sont stipulé(e)s
+
+** Imparfait
+
+j'étais stipulé(e)
+tu étais stipulé(e)
+il (elle) était stipulé(e)
+nous étions stipulé(e)s
+vous étiez stipulé(e)s
+ils (elles) étaient stipulé(e)s
+
+** Passé simple
+
+je fus stipulé(e)
+tu fus stipulé(e)
+il (elle) fut stipulé(e)
+nous fûmes stipulé(e)s
+vous fûtes stipulé(e)s
+ils (elles) furent stipulé(e)s
+
+** Futur simple
+
+je serai stipulé(e)
+tu seras stipulé(e)
+il (elle) sera stipulé(e)
+nous serons stipulé(e)s
+vous serez stipulé(e)s
+ils (elles) seront stipulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais stipulé(e)
+tu serais stipulé(e)
+il (elle) serait stipulé(e)
+nous serions stipulé(e)s
+vous seriez stipulé(e)s
+ils (elles) seraient stipulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois stipulé(e)
+que tu sois stipulé(e)
+qu’il (elle) soit stipulé(e)
+que nous soyons stipulé(e)s
+que vous soyez stipulé(e)s
+qu’ils (elles) soient stipulé(e)s
+
+** Imparfait
+
+que je fusse stipulé(e)
+que tu fusses stipulé(e)
+qu’il (elle) fût stipulé(e)
+que nous fussions stipulé(e)s
+que vous fussiez stipulé(e)s
+qu’ils (elles) fussent stipulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons stipulé(e)s
+soyez stipulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être stipulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant stipulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été stipulé(e)
+tu as été stipulé(e)
+il (elle) a été stipulé(e)
+nous avons été stipulé(e)s
+vous avez été stipulé(e)s
+ils (elles) ont été stipulé(e)s
+
+** Plus-que-parfait
+
+j'avais été stipulé(e)
+il (elle) avait été stipulé(e)
+nous avions été stipulé(e)s
+ils (elles) avaient été stipulé(e)s
+
+** Passé antérieur
+
+j'eus été stipulé(e)
+tu eus été stipulé(e)
+il (elle) eut été stipulé(e)
+nous eûmes été stipulé(e)s
+vous eûtes été stipulé(e)s
+ils (elles) eurent été stipulé(e)s
+
+** Futur antérieur
+
+j'aurai été stipulé(e)
+tu auras été stipulé(e)
+il (elle) aura été stipulé(e)
+nous aurons été stipulé(e)s
+vous aurez été stipulé(e)s
+ils (elles) auront été stipulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été stipulé(e)
+j'aurais été stipulé(e)
+il (elle) aurait été stipulé(e)
+nous aurions été stipulé(e)s
+vous auriez été stipulé(e)s
+ils (elles) auraient été stipulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été stipulé(e)
+que tu aies été stipulé(e)
+qu’il (elle) ait été stipulé(e)
+que nous ayons été stipulé(e)s
+que vous ayez été stipulé(e)s
+qu’ils (elles) aient été stipulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été stipulé(e)
+que tu eusses été stipulé(e)
+qu’il (elle) eût été stipulé(e)
+que nous eussions été stipulé(e)s
+que vous eussiez été stipulé(e)s
+qu’ils (elles) eussent été stipulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été stipulé(e)
+ayons été stipulé(e)s
+ayez été stipulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été stipulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été stipulé(e)(s)

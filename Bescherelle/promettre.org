@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe promettre
+
+* INDICATIF
+
+** Présent
+
+je promets
+tu promets
+il (elle) promet
+nous promettons
+vous promettez
+ils (elles) promettent
+
+** Imparfait
+
+je promettais
+tu promettais
+il (elle) promettait
+nous promettions
+vous promettiez
+ils (elles) promettaient
+
+** Passé simple
+
+je promis
+tu promis
+il (elle) promit
+nous promîmes
+vous promîtes
+ils (elles) promirent
+
+** Futur simple
+
+je promettrai
+tu promettras
+il (elle) promettra
+nous promettrons
+vous promettrez
+ils (elles) promettront
+
+* CONDITIONNEL
+
+** Présent
+
+je promettrais
+tu promettrais
+il (elle) promettrait
+nous promettrions
+vous promettriez
+ils (elles) promettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je promette
+que tu promettes
+qu’il (elle) promette
+que nous promettions
+que vous promettiez
+qu’ils (elles) promettent
+
+** Imparfait
+
+que je promisse
+que tu promisses
+qu’il (elle) promît
+que nous promissions
+que vous promissiez
+qu’ils (elles) promissent
+
+* IMPÉRATIF
+
+** Présent
+
+promets
+promettons
+promettez
+
+* INFINITIF
+
+** Présent
+
+promettre
+
+* PARTICIPE
+
+** Présent
+
+promettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai promis
+tu as promis
+il (elle) a promis
+nous avons promis
+vous avez promis
+ils (elles) ont promis
+
+** Plus-que-parfait
+
+j'avais promis
+tu avais promis
+il (elle) avait promis
+nous avions promis
+vous aviez promis
+ils (elles) avaient promis
+
+** Passé antérieur
+
+j'eus promis
+tu eus promis
+il (elle) eut promis
+nous eûmes promis
+vous eûtes promis
+ils (elles) eurent promis
+
+** Futur antérieur
+
+j'aurai promis
+tu auras promis
+il (elle) aura promis
+nous aurons promis
+vous aurez promis
+ils (elles) auront promis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais promis
+tu aurais promis
+il (elle) aurait promis
+nous aurions promis
+vous auriez promis
+ils (elles) auraient promis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie promis
+que tu aies promis
+qu’il (elle) ait promis
+que nous ayons promis
+que vous ayez promis
+qu’ils (elles) aient promis
+
+** Plus-que-parfait
+
+que j'eusse promis
+que tu eusses promis
+qu’il (elle) eût promis
+que nous eussions promis
+que vous eussiez promis
+qu’ils (elles) eussent promis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons promis
+ayez promis
+
+* INFINITIF
+
+** Passé
+
+avoir promis
+
+* PARTICIPE
+
+** Passé
+
+ayant promis
+promis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis promis(e)
+tu es promis(e)
+il (elle) est promis(e)
+nous sommes promis(es)
+vous êtes promis(es)
+ils (elles) sont promis(es)
+
+** Imparfait
+
+j'étais promis(e)
+tu étais promis(e)
+il (elle) était promis(e)
+nous étions promis(es)
+vous étiez promis(es)
+ils (elles) étaient promis(es)
+
+** Passé simple
+
+je fus promis(e)
+tu fus promis(e)
+il (elle) fut promis(e)
+nous fûmes promis(es)
+vous fûtes promis(es)
+ils (elles) furent promis(es)
+
+** Futur simple
+
+je serai promis(e)
+tu seras promis(e)
+il (elle) sera promis(e)
+nous serons promis(es)
+vous serez promis(es)
+ils (elles) seront promis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais promis(e)
+tu serais promis(e)
+il (elle) serait promis(e)
+nous serions promis(es)
+vous seriez promis(es)
+ils (elles) seraient promis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois promis(e)
+que tu sois promis(e)
+qu’il (elle) soit promis(e)
+que nous soyons promis(es)
+que vous soyez promis(es)
+qu’ils (elles) soient promis(es)
+
+** Imparfait
+
+que je fusse promis(e)
+que tu fusses promis(e)
+qu’il (elle) fût promis(e)
+que nous fussions promis(es)
+que vous fussiez promis(es)
+qu’ils (elles) fussent promis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons promis(es)
+soyez promis(es)
+
+* INFINITIF
+
+** Présent
+
+être promis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant promis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été promis(e)
+tu as été promis(e)
+il (elle) a été promis(e)
+nous avons été promis(es)
+vous avez été promis(es)
+ils (elles) ont été promis(es)
+
+** Plus-que-parfait
+
+j'avais été promis(e)
+il (elle) avait été promis(e)
+nous avions été promis(es)
+ils (elles) avaient été promis(es)
+
+** Passé antérieur
+
+j'eus été promis(e)
+tu eus été promis(e)
+il (elle) eut été promis(e)
+nous eûmes été promis(es)
+vous eûtes été promis(es)
+ils (elles) eurent été promis(es)
+
+** Futur antérieur
+
+j'aurai été promis(e)
+tu auras été promis(e)
+il (elle) aura été promis(e)
+nous aurons été promis(es)
+vous aurez été promis(es)
+ils (elles) auront été promis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été promis(e)
+j'aurais été promis(e)
+il (elle) aurait été promis(e)
+nous aurions été promis(es)
+vous auriez été promis(es)
+ils (elles) auraient été promis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été promis(e)
+que tu aies été promis(e)
+qu’il (elle) ait été promis(e)
+que nous ayons été promis(es)
+que vous ayez été promis(es)
+qu’ils (elles) aient été promis(es)
+
+** Plus-que-parfait
+
+que j'eusse été promis(e)
+que tu eusses été promis(e)
+qu’il (elle) eût été promis(e)
+que nous eussions été promis(es)
+que vous eussiez été promis(es)
+qu’ils (elles) eussent été promis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été promis(e)
+ayons été promis(es)
+ayez été promis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été promis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été promis (s, se, s, ses)

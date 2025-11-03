@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inhiber
+
+* INDICATIF
+
+** Présent
+
+j'inhibe
+tu inhibes
+il (elle) inhibe
+nous inhibons
+vous inhibez
+ils (elles) inhibent
+
+** Imparfait
+
+j'inhibais
+tu inhibais
+il (elle) inhibait
+nous inhibions
+vous inhibiez
+ils (elles) inhibaient
+
+** Passé simple
+
+j'inhibai
+tu inhibas
+il (elle) inhiba
+nous inhibâmes
+vous inhibâtes
+ils (elles) inhibèrent
+
+** Futur simple
+
+j'inhiberai
+tu inhiberas
+il (elle) inhibera
+nous inhiberons
+vous inhiberez
+ils (elles) inhiberont
+
+* CONDITIONNEL
+
+** Présent
+
+j'inhiberais
+tu inhiberais
+il (elle) inhiberait
+nous inhiberions
+vous inhiberiez
+ils (elles) inhiberaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inhibe
+que tu inhibes
+qu’il (elle) inhibe
+que nous inhibions
+que vous inhibiez
+qu’ils (elles) inhibent
+
+** Imparfait
+
+que j'inhibasse
+que tu inhibasses
+qu’il (elle) inhibât
+que nous inhibassions
+que vous inhibassiez
+qu’ils (elles) inhibassent
+
+* IMPÉRATIF
+
+** Présent
+
+inhibe
+inhibons
+inhibez
+
+* INFINITIF
+
+** Présent
+
+inhiber
+
+* PARTICIPE
+
+** Présent
+
+inhibant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inhibé
+tu as inhibé
+il (elle) a inhibé
+nous avons inhibé
+vous avez inhibé
+ils (elles) ont inhibé
+
+** Plus-que-parfait
+
+j'avais inhibé
+tu avais inhibé
+il (elle) avait inhibé
+nous avions inhibé
+vous aviez inhibé
+ils (elles) avaient inhibé
+
+** Passé antérieur
+
+j'eus inhibé
+tu eus inhibé
+il (elle) eut inhibé
+nous eûmes inhibé
+vous eûtes inhibé
+ils (elles) eurent inhibé
+
+** Futur antérieur
+
+j'aurai inhibé
+tu auras inhibé
+il (elle) aura inhibé
+nous aurons inhibé
+vous aurez inhibé
+ils (elles) auront inhibé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inhibé
+tu aurais inhibé
+il (elle) aurait inhibé
+nous aurions inhibé
+vous auriez inhibé
+ils (elles) auraient inhibé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inhibé
+que tu aies inhibé
+qu’il (elle) ait inhibé
+que nous ayons inhibé
+que vous ayez inhibé
+qu’ils (elles) aient inhibé
+
+** Plus-que-parfait
+
+que j'eusse inhibé
+que tu eusses inhibé
+qu’il (elle) eût inhibé
+que nous eussions inhibé
+que vous eussiez inhibé
+qu’ils (elles) eussent inhibé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inhibé
+ayez inhibé
+
+* INFINITIF
+
+** Passé
+
+avoir inhibé
+
+* PARTICIPE
+
+** Passé
+
+ayant inhibé
+inhibé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inhibé(e)
+tu es inhibé(e)
+il (elle) est inhibé(e)
+nous sommes inhibé(e)s
+vous êtes inhibé(e)s
+ils (elles) sont inhibé(e)s
+
+** Imparfait
+
+j'étais inhibé(e)
+tu étais inhibé(e)
+il (elle) était inhibé(e)
+nous étions inhibé(e)s
+vous étiez inhibé(e)s
+ils (elles) étaient inhibé(e)s
+
+** Passé simple
+
+je fus inhibé(e)
+tu fus inhibé(e)
+il (elle) fut inhibé(e)
+nous fûmes inhibé(e)s
+vous fûtes inhibé(e)s
+ils (elles) furent inhibé(e)s
+
+** Futur simple
+
+je serai inhibé(e)
+tu seras inhibé(e)
+il (elle) sera inhibé(e)
+nous serons inhibé(e)s
+vous serez inhibé(e)s
+ils (elles) seront inhibé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inhibé(e)
+tu serais inhibé(e)
+il (elle) serait inhibé(e)
+nous serions inhibé(e)s
+vous seriez inhibé(e)s
+ils (elles) seraient inhibé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inhibé(e)
+que tu sois inhibé(e)
+qu’il (elle) soit inhibé(e)
+que nous soyons inhibé(e)s
+que vous soyez inhibé(e)s
+qu’ils (elles) soient inhibé(e)s
+
+** Imparfait
+
+que je fusse inhibé(e)
+que tu fusses inhibé(e)
+qu’il (elle) fût inhibé(e)
+que nous fussions inhibé(e)s
+que vous fussiez inhibé(e)s
+qu’ils (elles) fussent inhibé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inhibé(e)s
+soyez inhibé(e)s
+
+* INFINITIF
+
+** Présent
+
+être inhibé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inhibé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inhibé(e)
+tu as été inhibé(e)
+il (elle) a été inhibé(e)
+nous avons été inhibé(e)s
+vous avez été inhibé(e)s
+ils (elles) ont été inhibé(e)s
+
+** Plus-que-parfait
+
+j'avais été inhibé(e)
+il (elle) avait été inhibé(e)
+nous avions été inhibé(e)s
+ils (elles) avaient été inhibé(e)s
+
+** Passé antérieur
+
+j'eus été inhibé(e)
+tu eus été inhibé(e)
+il (elle) eut été inhibé(e)
+nous eûmes été inhibé(e)s
+vous eûtes été inhibé(e)s
+ils (elles) eurent été inhibé(e)s
+
+** Futur antérieur
+
+j'aurai été inhibé(e)
+tu auras été inhibé(e)
+il (elle) aura été inhibé(e)
+nous aurons été inhibé(e)s
+vous aurez été inhibé(e)s
+ils (elles) auront été inhibé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inhibé(e)
+j'aurais été inhibé(e)
+il (elle) aurait été inhibé(e)
+nous aurions été inhibé(e)s
+vous auriez été inhibé(e)s
+ils (elles) auraient été inhibé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inhibé(e)
+que tu aies été inhibé(e)
+qu’il (elle) ait été inhibé(e)
+que nous ayons été inhibé(e)s
+que vous ayez été inhibé(e)s
+qu’ils (elles) aient été inhibé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inhibé(e)
+que tu eusses été inhibé(e)
+qu’il (elle) eût été inhibé(e)
+que nous eussions été inhibé(e)s
+que vous eussiez été inhibé(e)s
+qu’ils (elles) eussent été inhibé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inhibé(e)
+ayons été inhibé(e)s
+ayez été inhibé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inhibé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inhibé(e)(s)

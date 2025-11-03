@@ -1,0 +1,336 @@
+#+title: Conjugaison du verbe soustraire
+
+* INDICATIF
+
+** Présent
+
+je soustrais
+tu soustrais
+il (elle) soustrait
+nous soustrayons
+vous soustrayez
+ils (elles) soustraient
+
+** Imparfait
+
+je soustrayais
+tu soustrayais
+il (elle) soustrayait
+nous soustrayions
+vous soustrayiez
+ils (elles) soustrayaient
+
+** Futur simple
+
+je soustrairai
+tu soustrairas
+il (elle) soustraira
+nous soustrairons
+vous soustrairez
+ils (elles) soustrairont
+
+* CONDITIONNEL
+
+** Présent
+
+je soustrairais
+tu soustrairais
+il (elle) soustrairait
+nous soustrairions
+vous soustrairiez
+ils (elles) soustrairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soustraie
+que tu soustraies
+qu’il (elle) soustraie
+que nous soustrayions
+que vous soustrayiez
+qu’ils (elles) soustraient
+
+* IMPÉRATIF
+
+** Présent
+
+soustrais
+soustrayons
+soustrayez
+
+* INFINITIF
+
+** Présent
+
+soustraire
+
+* PARTICIPE
+
+** Présent
+
+soustrayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soustrait
+tu as soustrait
+il (elle) a soustrait
+nous avons soustrait
+vous avez soustrait
+ils (elles) ont soustrait
+
+** Plus-que-parfait
+
+j'avais soustrait
+tu avais soustrait
+il (elle) avait soustrait
+nous avions soustrait
+vous aviez soustrait
+ils (elles) avaient soustrait
+
+** Passé antérieur
+
+j'eus soustrait
+tu eus soustrait
+il (elle) eut soustrait
+nous eûmes soustrait
+vous eûtes soustrait
+ils (elles) eurent soustrait
+
+** Futur antérieur
+
+j'aurai soustrait
+tu auras soustrait
+il (elle) aura soustrait
+nous aurons soustrait
+vous aurez soustrait
+ils (elles) auront soustrait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soustrait
+tu aurais soustrait
+il (elle) aurait soustrait
+nous aurions soustrait
+vous auriez soustrait
+ils (elles) auraient soustrait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soustrait
+que tu aies soustrait
+qu’il (elle) ait soustrait
+que nous ayons soustrait
+que vous ayez soustrait
+qu’ils (elles) aient soustrait
+
+** Plus-que-parfait
+
+que j'eusse soustrait
+que tu eusses soustrait
+qu’il (elle) eût soustrait
+que nous eussions soustrait
+que vous eussiez soustrait
+qu’ils (elles) eussent soustrait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soustrait
+ayez soustrait
+
+* INFINITIF
+
+** Passé
+
+avoir soustrait
+
+* PARTICIPE
+
+** Passé
+
+ayant soustrait
+soustrait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis soustrait(e)
+tu es soustrait(e)
+il (elle) est soustrait(e)
+nous sommes soustrait(e)s
+vous êtes soustrait(e)s
+ils (elles) sont soustrait(e)s
+
+** Imparfait
+
+j'étais soustrait(e)
+tu étais soustrait(e)
+il (elle) était soustrait(e)
+nous étions soustrait(e)s
+vous étiez soustrait(e)s
+ils (elles) étaient soustrait(e)s
+
+** Passé simple
+
+je fus soustrait(e)
+tu fus soustrait(e)
+il (elle) fut soustrait(e)
+nous fûmes soustrait(e)s
+vous fûtes soustrait(e)s
+ils (elles) furent soustrait(e)s
+
+** Futur simple
+
+je serai soustrait(e)
+tu seras soustrait(e)
+il (elle) sera soustrait(e)
+nous serons soustrait(e)s
+vous serez soustrait(e)s
+ils (elles) seront soustrait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soustrait(e)
+tu serais soustrait(e)
+il (elle) serait soustrait(e)
+nous serions soustrait(e)s
+vous seriez soustrait(e)s
+ils (elles) seraient soustrait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soustrait(e)
+que tu sois soustrait(e)
+qu’il (elle) soit soustrait(e)
+que nous soyons soustrait(e)s
+que vous soyez soustrait(e)s
+qu’ils (elles) soient soustrait(e)s
+
+** Imparfait
+
+que je fusse soustrait(e)
+que tu fusses soustrait(e)
+qu’il (elle) fût soustrait(e)
+que nous fussions soustrait(e)s
+que vous fussiez soustrait(e)s
+qu’ils (elles) fussent soustrait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soustrait(e)s
+soyez soustrait(e)s
+
+* INFINITIF
+
+** Présent
+
+être soustrait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soustrait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soustrait(e)
+tu as été soustrait(e)
+il (elle) a été soustrait(e)
+nous avons été soustrait(e)s
+vous avez été soustrait(e)s
+ils (elles) ont été soustrait(e)s
+
+** Plus-que-parfait
+
+j'avais été soustrait(e)
+il (elle) avait été soustrait(e)
+nous avions été soustrait(e)s
+ils (elles) avaient été soustrait(e)s
+
+** Passé antérieur
+
+j'eus été soustrait(e)
+tu eus été soustrait(e)
+il (elle) eut été soustrait(e)
+nous eûmes été soustrait(e)s
+vous eûtes été soustrait(e)s
+ils (elles) eurent été soustrait(e)s
+
+** Futur antérieur
+
+j'aurai été soustrait(e)
+tu auras été soustrait(e)
+il (elle) aura été soustrait(e)
+nous aurons été soustrait(e)s
+vous aurez été soustrait(e)s
+ils (elles) auront été soustrait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soustrait(e)
+j'aurais été soustrait(e)
+il (elle) aurait été soustrait(e)
+nous aurions été soustrait(e)s
+vous auriez été soustrait(e)s
+ils (elles) auraient été soustrait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soustrait(e)
+que tu aies été soustrait(e)
+qu’il (elle) ait été soustrait(e)
+que nous ayons été soustrait(e)s
+que vous ayez été soustrait(e)s
+qu’ils (elles) aient été soustrait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soustrait(e)
+que tu eusses été soustrait(e)
+qu’il (elle) eût été soustrait(e)
+que nous eussions été soustrait(e)s
+que vous eussiez été soustrait(e)s
+qu’ils (elles) eussent été soustrait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soustrait(e)
+ayons été soustrait(e)s
+ayez été soustrait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soustrait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soustrait(e)(s)

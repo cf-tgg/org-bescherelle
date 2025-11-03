@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe detester
+
+* INDICATIF
+
+** Présent
+
+je déteste
+tu détestes
+il (elle) déteste
+nous détestons
+vous détestez
+ils (elles) détestent
+
+** Imparfait
+
+je détestais
+tu détestais
+il (elle) détestait
+nous détestions
+vous détestiez
+ils (elles) détestaient
+
+** Passé simple
+
+je détestai
+tu détestas
+il (elle) détesta
+nous détestâmes
+vous détestâtes
+ils (elles) détestèrent
+
+** Futur simple
+
+je détesterai
+tu détesteras
+il (elle) détestera
+nous détesterons
+vous détesterez
+ils (elles) détesteront
+
+* CONDITIONNEL
+
+** Présent
+
+je détesterais
+tu détesterais
+il (elle) détesterait
+nous détesterions
+vous détesteriez
+ils (elles) détesteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déteste
+que tu détestes
+qu’il (elle) déteste
+que nous détestions
+que vous détestiez
+qu’ils (elles) détestent
+
+** Imparfait
+
+que je détestasse
+que tu détestasses
+qu’il (elle) détestât
+que nous détestassions
+que vous détestassiez
+qu’ils (elles) détestassent
+
+* IMPÉRATIF
+
+** Présent
+
+déteste
+détestons
+détestez
+
+* INFINITIF
+
+** Présent
+
+détester
+
+* PARTICIPE
+
+** Présent
+
+détestant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détesté
+tu as détesté
+il (elle) a détesté
+nous avons détesté
+vous avez détesté
+ils (elles) ont détesté
+
+** Plus-que-parfait
+
+j'avais détesté
+tu avais détesté
+il (elle) avait détesté
+nous avions détesté
+vous aviez détesté
+ils (elles) avaient détesté
+
+** Passé antérieur
+
+j'eus détesté
+tu eus détesté
+il (elle) eut détesté
+nous eûmes détesté
+vous eûtes détesté
+ils (elles) eurent détesté
+
+** Futur antérieur
+
+j'aurai détesté
+tu auras détesté
+il (elle) aura détesté
+nous aurons détesté
+vous aurez détesté
+ils (elles) auront détesté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détesté
+tu aurais détesté
+il (elle) aurait détesté
+nous aurions détesté
+vous auriez détesté
+ils (elles) auraient détesté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détesté
+que tu aies détesté
+qu’il (elle) ait détesté
+que nous ayons détesté
+que vous ayez détesté
+qu’ils (elles) aient détesté
+
+** Plus-que-parfait
+
+que j'eusse détesté
+que tu eusses détesté
+qu’il (elle) eût détesté
+que nous eussions détesté
+que vous eussiez détesté
+qu’ils (elles) eussent détesté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détesté
+ayez détesté
+
+* INFINITIF
+
+** Passé
+
+avoir détesté
+
+* PARTICIPE
+
+** Passé
+
+ayant détesté
+détesté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis détesté(e)
+tu es détesté(e)
+il (elle) est détesté(e)
+nous sommes détesté(e)s
+vous êtes détesté(e)s
+ils (elles) sont détesté(e)s
+
+** Imparfait
+
+j'étais détesté(e)
+tu étais détesté(e)
+il (elle) était détesté(e)
+nous étions détesté(e)s
+vous étiez détesté(e)s
+ils (elles) étaient détesté(e)s
+
+** Passé simple
+
+je fus détesté(e)
+tu fus détesté(e)
+il (elle) fut détesté(e)
+nous fûmes détesté(e)s
+vous fûtes détesté(e)s
+ils (elles) furent détesté(e)s
+
+** Futur simple
+
+je serai détesté(e)
+tu seras détesté(e)
+il (elle) sera détesté(e)
+nous serons détesté(e)s
+vous serez détesté(e)s
+ils (elles) seront détesté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais détesté(e)
+tu serais détesté(e)
+il (elle) serait détesté(e)
+nous serions détesté(e)s
+vous seriez détesté(e)s
+ils (elles) seraient détesté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois détesté(e)
+que tu sois détesté(e)
+qu’il (elle) soit détesté(e)
+que nous soyons détesté(e)s
+que vous soyez détesté(e)s
+qu’ils (elles) soient détesté(e)s
+
+** Imparfait
+
+que je fusse détesté(e)
+que tu fusses détesté(e)
+qu’il (elle) fût détesté(e)
+que nous fussions détesté(e)s
+que vous fussiez détesté(e)s
+qu’ils (elles) fussent détesté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons détesté(e)s
+soyez détesté(e)s
+
+* INFINITIF
+
+** Présent
+
+être détesté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant détesté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été détesté(e)
+tu as été détesté(e)
+il (elle) a été détesté(e)
+nous avons été détesté(e)s
+vous avez été détesté(e)s
+ils (elles) ont été détesté(e)s
+
+** Plus-que-parfait
+
+j'avais été détesté(e)
+il (elle) avait été détesté(e)
+nous avions été détesté(e)s
+ils (elles) avaient été détesté(e)s
+
+** Passé antérieur
+
+j'eus été détesté(e)
+tu eus été détesté(e)
+il (elle) eut été détesté(e)
+nous eûmes été détesté(e)s
+vous eûtes été détesté(e)s
+ils (elles) eurent été détesté(e)s
+
+** Futur antérieur
+
+j'aurai été détesté(e)
+tu auras été détesté(e)
+il (elle) aura été détesté(e)
+nous aurons été détesté(e)s
+vous aurez été détesté(e)s
+ils (elles) auront été détesté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été détesté(e)
+j'aurais été détesté(e)
+il (elle) aurait été détesté(e)
+nous aurions été détesté(e)s
+vous auriez été détesté(e)s
+ils (elles) auraient été détesté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été détesté(e)
+que tu aies été détesté(e)
+qu’il (elle) ait été détesté(e)
+que nous ayons été détesté(e)s
+que vous ayez été détesté(e)s
+qu’ils (elles) aient été détesté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été détesté(e)
+que tu eusses été détesté(e)
+qu’il (elle) eût été détesté(e)
+que nous eussions été détesté(e)s
+que vous eussiez été détesté(e)s
+qu’ils (elles) eussent été détesté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été détesté(e)
+ayons été détesté(e)s
+ayez été détesté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été détesté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été détesté(e)(s)

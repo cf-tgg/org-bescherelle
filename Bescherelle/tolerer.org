@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tolerer
+
+* INDICATIF
+
+** Présent
+
+je tolère
+tu tolères
+il (elle) tolère
+nous tolérons
+vous tolérez
+ils (elles) tolèrent
+
+** Imparfait
+
+je tolérais
+tu tolérais
+il (elle) tolérait
+nous tolérions
+vous tolériez
+ils (elles) toléraient
+
+** Passé simple
+
+je tolérai
+tu toléras
+il (elle) toléra
+nous tolérâmes
+vous tolérâtes
+ils (elles) tolérèrent
+
+** Futur simple
+
+je tolérerai
+tu toléreras
+il (elle) tolérera
+nous tolérerons
+vous tolérerez
+ils (elles) toléreront
+
+* CONDITIONNEL
+
+** Présent
+
+je tolérerais
+tu tolérerais
+il (elle) tolérerait
+nous tolérerions
+vous toléreriez
+ils (elles) toléreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tolère
+que tu tolères
+qu’il (elle) tolère
+que nous tolérions
+que vous tolériez
+qu’ils (elles) tolèrent
+
+** Imparfait
+
+que je tolérasse
+que tu tolérasses
+qu’il (elle) tolérât
+que nous tolérassions
+que vous tolérassiez
+qu’ils (elles) tolérassent
+
+* IMPÉRATIF
+
+** Présent
+
+tolère
+tolérons
+tolérez
+
+* INFINITIF
+
+** Présent
+
+tolérer
+
+* PARTICIPE
+
+** Présent
+
+tolérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai toléré
+tu as toléré
+il (elle) a toléré
+nous avons toléré
+vous avez toléré
+ils (elles) ont toléré
+
+** Plus-que-parfait
+
+j'avais toléré
+tu avais toléré
+il (elle) avait toléré
+nous avions toléré
+vous aviez toléré
+ils (elles) avaient toléré
+
+** Passé antérieur
+
+j'eus toléré
+tu eus toléré
+il (elle) eut toléré
+nous eûmes toléré
+vous eûtes toléré
+ils (elles) eurent toléré
+
+** Futur antérieur
+
+j'aurai toléré
+tu auras toléré
+il (elle) aura toléré
+nous aurons toléré
+vous aurez toléré
+ils (elles) auront toléré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais toléré
+tu aurais toléré
+il (elle) aurait toléré
+nous aurions toléré
+vous auriez toléré
+ils (elles) auraient toléré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie toléré
+que tu aies toléré
+qu’il (elle) ait toléré
+que nous ayons toléré
+que vous ayez toléré
+qu’ils (elles) aient toléré
+
+** Plus-que-parfait
+
+que j'eusse toléré
+que tu eusses toléré
+qu’il (elle) eût toléré
+que nous eussions toléré
+que vous eussiez toléré
+qu’ils (elles) eussent toléré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons toléré
+ayez toléré
+
+* INFINITIF
+
+** Passé
+
+avoir toléré
+
+* PARTICIPE
+
+** Passé
+
+ayant toléré
+toléré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis toléré(e)
+tu es toléré(e)
+il (elle) est toléré(e)
+nous sommes toléré(e)s
+vous êtes toléré(e)s
+ils (elles) sont toléré(e)s
+
+** Imparfait
+
+j'étais toléré(e)
+tu étais toléré(e)
+il (elle) était toléré(e)
+nous étions toléré(e)s
+vous étiez toléré(e)s
+ils (elles) étaient toléré(e)s
+
+** Passé simple
+
+je fus toléré(e)
+tu fus toléré(e)
+il (elle) fut toléré(e)
+nous fûmes toléré(e)s
+vous fûtes toléré(e)s
+ils (elles) furent toléré(e)s
+
+** Futur simple
+
+je serai toléré(e)
+tu seras toléré(e)
+il (elle) sera toléré(e)
+nous serons toléré(e)s
+vous serez toléré(e)s
+ils (elles) seront toléré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais toléré(e)
+tu serais toléré(e)
+il (elle) serait toléré(e)
+nous serions toléré(e)s
+vous seriez toléré(e)s
+ils (elles) seraient toléré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois toléré(e)
+que tu sois toléré(e)
+qu’il (elle) soit toléré(e)
+que nous soyons toléré(e)s
+que vous soyez toléré(e)s
+qu’ils (elles) soient toléré(e)s
+
+** Imparfait
+
+que je fusse toléré(e)
+que tu fusses toléré(e)
+qu’il (elle) fût toléré(e)
+que nous fussions toléré(e)s
+que vous fussiez toléré(e)s
+qu’ils (elles) fussent toléré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons toléré(e)s
+soyez toléré(e)s
+
+* INFINITIF
+
+** Présent
+
+être toléré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant toléré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été toléré(e)
+tu as été toléré(e)
+il (elle) a été toléré(e)
+nous avons été toléré(e)s
+vous avez été toléré(e)s
+ils (elles) ont été toléré(e)s
+
+** Plus-que-parfait
+
+j'avais été toléré(e)
+il (elle) avait été toléré(e)
+nous avions été toléré(e)s
+ils (elles) avaient été toléré(e)s
+
+** Passé antérieur
+
+j'eus été toléré(e)
+tu eus été toléré(e)
+il (elle) eut été toléré(e)
+nous eûmes été toléré(e)s
+vous eûtes été toléré(e)s
+ils (elles) eurent été toléré(e)s
+
+** Futur antérieur
+
+j'aurai été toléré(e)
+tu auras été toléré(e)
+il (elle) aura été toléré(e)
+nous aurons été toléré(e)s
+vous aurez été toléré(e)s
+ils (elles) auront été toléré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été toléré(e)
+j'aurais été toléré(e)
+il (elle) aurait été toléré(e)
+nous aurions été toléré(e)s
+vous auriez été toléré(e)s
+ils (elles) auraient été toléré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été toléré(e)
+que tu aies été toléré(e)
+qu’il (elle) ait été toléré(e)
+que nous ayons été toléré(e)s
+que vous ayez été toléré(e)s
+qu’ils (elles) aient été toléré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été toléré(e)
+que tu eusses été toléré(e)
+qu’il (elle) eût été toléré(e)
+que nous eussions été toléré(e)s
+que vous eussiez été toléré(e)s
+qu’ils (elles) eussent été toléré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été toléré(e)
+ayons été toléré(e)s
+ayez été toléré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été toléré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été toléré(e)(s)

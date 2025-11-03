@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe marcher
+
+* INDICATIF
+
+** Présent
+
+je marche
+tu marches
+il (elle) marche
+nous marchons
+vous marchez
+ils (elles) marchent
+
+** Imparfait
+
+je marchais
+tu marchais
+il (elle) marchait
+nous marchions
+vous marchiez
+ils (elles) marchaient
+
+** Passé simple
+
+je marchai
+tu marchas
+il (elle) marcha
+nous marchâmes
+vous marchâtes
+ils (elles) marchèrent
+
+** Futur simple
+
+je marcherai
+tu marcheras
+il (elle) marchera
+nous marcherons
+vous marcherez
+ils (elles) marcheront
+
+* CONDITIONNEL
+
+** Présent
+
+je marcherais
+tu marcherais
+il (elle) marcherait
+nous marcherions
+vous marcheriez
+ils (elles) marcheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je marche
+que tu marches
+qu’il (elle) marche
+que nous marchions
+que vous marchiez
+qu’ils (elles) marchent
+
+** Imparfait
+
+que je marchasse
+que tu marchasses
+qu’il (elle) marchât
+que nous marchassions
+que vous marchassiez
+qu’ils (elles) marchassent
+
+* IMPÉRATIF
+
+** Présent
+
+marche
+marchons
+marchez
+
+* INFINITIF
+
+** Présent
+
+marcher
+
+* PARTICIPE
+
+** Présent
+
+marchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai marché
+tu as marché
+il (elle) a marché
+nous avons marché
+vous avez marché
+ils (elles) ont marché
+
+** Plus-que-parfait
+
+j'avais marché
+tu avais marché
+il (elle) avait marché
+nous avions marché
+vous aviez marché
+ils (elles) avaient marché
+
+** Passé antérieur
+
+j'eus marché
+tu eus marché
+il (elle) eut marché
+nous eûmes marché
+vous eûtes marché
+ils (elles) eurent marché
+
+** Futur antérieur
+
+j'aurai marché
+tu auras marché
+il (elle) aura marché
+nous aurons marché
+vous aurez marché
+ils (elles) auront marché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais marché
+tu aurais marché
+il (elle) aurait marché
+nous aurions marché
+vous auriez marché
+ils (elles) auraient marché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie marché
+que tu aies marché
+qu’il (elle) ait marché
+que nous ayons marché
+que vous ayez marché
+qu’ils (elles) aient marché
+
+** Plus-que-parfait
+
+que j'eusse marché
+que tu eusses marché
+qu’il (elle) eût marché
+que nous eussions marché
+que vous eussiez marché
+qu’ils (elles) eussent marché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons marché
+ayez marché
+
+* INFINITIF
+
+** Passé
+
+avoir marché
+
+* PARTICIPE
+
+** Passé
+
+ayant marché
+marché (invar.)

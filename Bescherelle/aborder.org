@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aborder
+
+* INDICATIF
+
+** Présent
+
+j'aborde
+tu abordes
+il (elle) aborde
+nous abordons
+vous abordez
+ils (elles) abordent
+
+** Imparfait
+
+j'abordais
+tu abordais
+il (elle) abordait
+nous abordions
+vous abordiez
+ils (elles) abordaient
+
+** Passé simple
+
+j'abordai
+tu abordas
+il (elle) aborda
+nous abordâmes
+vous abordâtes
+ils (elles) abordèrent
+
+** Futur simple
+
+j'aborderai
+tu aborderas
+il (elle) abordera
+nous aborderons
+vous aborderez
+ils (elles) aborderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'aborderais
+tu aborderais
+il (elle) aborderait
+nous aborderions
+vous aborderiez
+ils (elles) aborderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aborde
+que tu abordes
+qu’il (elle) aborde
+que nous abordions
+que vous abordiez
+qu’ils (elles) abordent
+
+** Imparfait
+
+que j'abordasse
+que tu abordasses
+qu’il (elle) abordât
+que nous abordassions
+que vous abordassiez
+qu’ils (elles) abordassent
+
+* IMPÉRATIF
+
+** Présent
+
+aborde
+abordons
+abordez
+
+* INFINITIF
+
+** Présent
+
+aborder
+
+* PARTICIPE
+
+** Présent
+
+abordant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abordé
+tu as abordé
+il (elle) a abordé
+nous avons abordé
+vous avez abordé
+ils (elles) ont abordé
+
+** Plus-que-parfait
+
+j'avais abordé
+tu avais abordé
+il (elle) avait abordé
+nous avions abordé
+vous aviez abordé
+ils (elles) avaient abordé
+
+** Passé antérieur
+
+j'eus abordé
+tu eus abordé
+il (elle) eut abordé
+nous eûmes abordé
+vous eûtes abordé
+ils (elles) eurent abordé
+
+** Futur antérieur
+
+j'aurai abordé
+tu auras abordé
+il (elle) aura abordé
+nous aurons abordé
+vous aurez abordé
+ils (elles) auront abordé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abordé
+tu aurais abordé
+il (elle) aurait abordé
+nous aurions abordé
+vous auriez abordé
+ils (elles) auraient abordé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abordé
+que tu aies abordé
+qu’il (elle) ait abordé
+que nous ayons abordé
+que vous ayez abordé
+qu’ils (elles) aient abordé
+
+** Plus-que-parfait
+
+que j'eusse abordé
+que tu eusses abordé
+qu’il (elle) eût abordé
+que nous eussions abordé
+que vous eussiez abordé
+qu’ils (elles) eussent abordé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abordé
+ayez abordé
+
+* INFINITIF
+
+** Passé
+
+avoir abordé
+
+* PARTICIPE
+
+** Passé
+
+ayant abordé
+abordé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abordé(e)
+tu es abordé(e)
+il (elle) est abordé(e)
+nous sommes abordé(e)s
+vous êtes abordé(e)s
+ils (elles) sont abordé(e)s
+
+** Imparfait
+
+j'étais abordé(e)
+tu étais abordé(e)
+il (elle) était abordé(e)
+nous étions abordé(e)s
+vous étiez abordé(e)s
+ils (elles) étaient abordé(e)s
+
+** Passé simple
+
+je fus abordé(e)
+tu fus abordé(e)
+il (elle) fut abordé(e)
+nous fûmes abordé(e)s
+vous fûtes abordé(e)s
+ils (elles) furent abordé(e)s
+
+** Futur simple
+
+je serai abordé(e)
+tu seras abordé(e)
+il (elle) sera abordé(e)
+nous serons abordé(e)s
+vous serez abordé(e)s
+ils (elles) seront abordé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abordé(e)
+tu serais abordé(e)
+il (elle) serait abordé(e)
+nous serions abordé(e)s
+vous seriez abordé(e)s
+ils (elles) seraient abordé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abordé(e)
+que tu sois abordé(e)
+qu’il (elle) soit abordé(e)
+que nous soyons abordé(e)s
+que vous soyez abordé(e)s
+qu’ils (elles) soient abordé(e)s
+
+** Imparfait
+
+que je fusse abordé(e)
+que tu fusses abordé(e)
+qu’il (elle) fût abordé(e)
+que nous fussions abordé(e)s
+que vous fussiez abordé(e)s
+qu’ils (elles) fussent abordé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abordé(e)s
+soyez abordé(e)s
+
+* INFINITIF
+
+** Présent
+
+être abordé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abordé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abordé(e)
+tu as été abordé(e)
+il (elle) a été abordé(e)
+nous avons été abordé(e)s
+vous avez été abordé(e)s
+ils (elles) ont été abordé(e)s
+
+** Plus-que-parfait
+
+j'avais été abordé(e)
+il (elle) avait été abordé(e)
+nous avions été abordé(e)s
+ils (elles) avaient été abordé(e)s
+
+** Passé antérieur
+
+j'eus été abordé(e)
+tu eus été abordé(e)
+il (elle) eut été abordé(e)
+nous eûmes été abordé(e)s
+vous eûtes été abordé(e)s
+ils (elles) eurent été abordé(e)s
+
+** Futur antérieur
+
+j'aurai été abordé(e)
+tu auras été abordé(e)
+il (elle) aura été abordé(e)
+nous aurons été abordé(e)s
+vous aurez été abordé(e)s
+ils (elles) auront été abordé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abordé(e)
+j'aurais été abordé(e)
+il (elle) aurait été abordé(e)
+nous aurions été abordé(e)s
+vous auriez été abordé(e)s
+ils (elles) auraient été abordé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abordé(e)
+que tu aies été abordé(e)
+qu’il (elle) ait été abordé(e)
+que nous ayons été abordé(e)s
+que vous ayez été abordé(e)s
+qu’ils (elles) aient été abordé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abordé(e)
+que tu eusses été abordé(e)
+qu’il (elle) eût été abordé(e)
+que nous eussions été abordé(e)s
+que vous eussiez été abordé(e)s
+qu’ils (elles) eussent été abordé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abordé(e)
+ayons été abordé(e)s
+ayez été abordé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abordé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abordé(e)(s)

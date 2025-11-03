@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe grossir
+
+* INDICATIF
+
+** Présent
+
+je grossis
+tu grossis
+il (elle) grossit
+nous grossissons
+vous grossissez
+ils (elles) grossissent
+
+** Imparfait
+
+je grossissais
+tu grossissais
+il (elle) grossissait
+nous grossissions
+vous grossissiez
+ils (elles) grossissaient
+
+** Passé simple
+
+je grossis
+tu grossis
+il (elle) grossit
+nous grossîmes
+vous grossîtes
+ils (elles) grossirent
+
+** Futur simple
+
+je grossirai
+tu grossiras
+il (elle) grossira
+nous grossirons
+vous grossirez
+ils (elles) grossiront
+
+* CONDITIONNEL
+
+** Présent
+
+je grossirais
+tu grossirais
+il (elle) grossirait
+nous grossirions
+vous grossiriez
+ils (elles) grossiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je grossisse
+que tu grossisses
+qu’il (elle) grossisse
+que nous grossissions
+que vous grossissiez
+qu’ils (elles) grossissent
+
+** Imparfait
+
+que je grossisse
+que tu grossisses
+qu’il (elle) grossît
+que nous grossissions
+que vous grossissiez
+qu’ils (elles) grossissent
+
+* IMPÉRATIF
+
+** Présent
+
+grossis
+grossissons
+grossissez
+
+* INFINITIF
+
+** Présent
+
+grossir
+
+* PARTICIPE
+
+** Présent
+
+grossissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai grossi
+tu as grossi
+il (elle) a grossi
+nous avons grossi
+vous avez grossi
+ils (elles) ont grossi
+
+** Plus-que-parfait
+
+j'avais grossi
+tu avais grossi
+il (elle) avait grossi
+nous avions grossi
+vous aviez grossi
+ils (elles) avaient grossi
+
+** Passé antérieur
+
+j'eus grossi
+tu eus grossi
+il (elle) eut grossi
+nous eûmes grossi
+vous eûtes grossi
+ils (elles) eurent grossi
+
+** Futur antérieur
+
+j'aurai grossi
+tu auras grossi
+il (elle) aura grossi
+nous aurons grossi
+vous aurez grossi
+ils (elles) auront grossi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais grossi
+tu aurais grossi
+il (elle) aurait grossi
+nous aurions grossi
+vous auriez grossi
+ils (elles) auraient grossi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie grossi
+que tu aies grossi
+qu’il (elle) ait grossi
+que nous ayons grossi
+que vous ayez grossi
+qu’ils (elles) aient grossi
+
+** Plus-que-parfait
+
+que j'eusse grossi
+que tu eusses grossi
+qu’il (elle) eût grossi
+que nous eussions grossi
+que vous eussiez grossi
+qu’ils (elles) eussent grossi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons grossi
+ayez grossi
+
+* INFINITIF
+
+** Passé
+
+avoir grossi
+
+* PARTICIPE
+
+** Passé
+
+ayant grossi
+grossi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis grossi(e)
+tu es grossi(e)
+il (elle) est grossi(e)
+nous sommes grossi(e)s
+vous êtes grossi(e)s
+ils (elles) sont grossi(e)s
+
+** Imparfait
+
+j'étais grossi(e)
+tu étais grossi(e)
+il (elle) était grossi(e)
+nous étions grossi(e)s
+vous étiez grossi(e)s
+ils (elles) étaient grossi(e)s
+
+** Passé simple
+
+je fus grossi(e)
+tu fus grossi(e)
+il (elle) fut grossi(e)
+nous fûmes grossi(e)s
+vous fûtes grossi(e)s
+ils (elles) furent grossi(e)s
+
+** Futur simple
+
+je serai grossi(e)
+tu seras grossi(e)
+il (elle) sera grossi(e)
+nous serons grossi(e)s
+vous serez grossi(e)s
+ils (elles) seront grossi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais grossi(e)
+tu serais grossi(e)
+il (elle) serait grossi(e)
+nous serions grossi(e)s
+vous seriez grossi(e)s
+ils (elles) seraient grossi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois grossi(e)
+que tu sois grossi(e)
+qu’il (elle) soit grossi(e)
+que nous soyons grossi(e)s
+que vous soyez grossi(e)s
+qu’ils (elles) soient grossi(e)s
+
+** Imparfait
+
+que je fusse grossi(e)
+que tu fusses grossi(e)
+qu’il (elle) fût grossi(e)
+que nous fussions grossi(e)s
+que vous fussiez grossi(e)s
+qu’ils (elles) fussent grossi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons grossi(e)s
+soyez grossi(e)s
+
+* INFINITIF
+
+** Présent
+
+être grossi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant grossi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été grossi(e)
+tu as été grossi(e)
+il (elle) a été grossi(e)
+nous avons été grossi(e)s
+vous avez été grossi(e)s
+ils (elles) ont été grossi(e)s
+
+** Plus-que-parfait
+
+j'avais été grossi(e)
+il (elle) avait été grossi(e)
+nous avions été grossi(e)s
+ils (elles) avaient été grossi(e)s
+
+** Passé antérieur
+
+j'eus été grossi(e)
+tu eus été grossi(e)
+il (elle) eut été grossi(e)
+nous eûmes été grossi(e)s
+vous eûtes été grossi(e)s
+ils (elles) eurent été grossi(e)s
+
+** Futur antérieur
+
+j'aurai été grossi(e)
+tu auras été grossi(e)
+il (elle) aura été grossi(e)
+nous aurons été grossi(e)s
+vous aurez été grossi(e)s
+ils (elles) auront été grossi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été grossi(e)
+j'aurais été grossi(e)
+il (elle) aurait été grossi(e)
+nous aurions été grossi(e)s
+vous auriez été grossi(e)s
+ils (elles) auraient été grossi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été grossi(e)
+que tu aies été grossi(e)
+qu’il (elle) ait été grossi(e)
+que nous ayons été grossi(e)s
+que vous ayez été grossi(e)s
+qu’ils (elles) aient été grossi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été grossi(e)
+que tu eusses été grossi(e)
+qu’il (elle) eût été grossi(e)
+que nous eussions été grossi(e)s
+que vous eussiez été grossi(e)s
+qu’ils (elles) eussent été grossi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été grossi(e)
+ayons été grossi(e)s
+ayez été grossi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été grossi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été grossi(e)(s)

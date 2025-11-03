@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vouloir
+
+* INDICATIF
+
+** Présent
+
+je veux
+tu veux
+il (elle) veut
+nous voulons
+vous voulez
+ils (elles) veulent
+
+** Imparfait
+
+je voulais
+tu voulais
+il (elle) voulait
+nous voulions
+vous vouliez
+ils (elles) voulaient
+
+** Passé simple
+
+je voulus
+tu voulus
+il (elle) voulut
+nous voulûmes
+vous voulûtes
+ils (elles) voulurent
+
+** Futur simple
+
+je voudrai
+tu voudras
+il (elle) voudra
+nous voudrons
+vous voudrez
+ils (elles) voudront
+
+* CONDITIONNEL
+
+** Présent
+
+je voudrais
+tu voudrais
+il (elle) voudrait
+nous voudrions
+vous voudriez
+ils (elles) voudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je veuille
+que tu veuilles
+qu’il (elle) veuille
+que nous voulions
+que vous vouliez
+qu’ils (elles) veuillent
+
+** Imparfait
+
+que je voulusse
+que tu voulusses
+qu’il (elle) voulût
+que nous voulussions
+que vous voulussiez
+qu’ils (elles) voulussent
+
+* IMPÉRATIF
+
+** Présent
+
+veuille / veux
+veuillons / voulons
+veuillez / voulez
+
+* INFINITIF
+
+** Présent
+
+vouloir
+
+* PARTICIPE
+
+** Présent
+
+voulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai voulu
+tu as voulu
+il (elle) a voulu
+nous avons voulu
+vous avez voulu
+ils (elles) ont voulu
+
+** Plus-que-parfait
+
+j'avais voulu
+tu avais voulu
+il (elle) avait voulu
+nous avions voulu
+vous aviez voulu
+ils (elles) avaient voulu
+
+** Passé antérieur
+
+j'eus voulu
+tu eus voulu
+il (elle) eut voulu
+nous eûmes voulu
+vous eûtes voulu
+ils (elles) eurent voulu
+
+** Futur antérieur
+
+j'aurai voulu
+tu auras voulu
+il (elle) aura voulu
+nous aurons voulu
+vous aurez voulu
+ils (elles) auront voulu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais voulu
+tu aurais voulu
+il (elle) aurait voulu
+nous aurions voulu
+vous auriez voulu
+ils (elles) auraient voulu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie voulu
+que tu aies voulu
+qu’il (elle) ait voulu
+que nous ayons voulu
+que vous ayez voulu
+qu’ils (elles) aient voulu
+
+** Plus-que-parfait
+
+que j'eusse voulu
+que tu eusses voulu
+qu’il (elle) eût voulu
+que nous eussions voulu
+que vous eussiez voulu
+qu’ils (elles) eussent voulu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons voulu
+ayez voulu
+
+* INFINITIF
+
+** Passé
+
+avoir voulu
+
+* PARTICIPE
+
+** Passé
+
+ayant voulu
+voulu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis voulu(e)
+tu es voulu(e)
+il (elle) est voulu(e)
+nous sommes voulu(e)s
+vous êtes voulu(e)s
+ils (elles) sont voulu(e)s
+
+** Imparfait
+
+j'étais voulu(e)
+tu étais voulu(e)
+il (elle) était voulu(e)
+nous étions voulu(e)s
+vous étiez voulu(e)s
+ils (elles) étaient voulu(e)s
+
+** Passé simple
+
+je fus voulu(e)
+tu fus voulu(e)
+il (elle) fut voulu(e)
+nous fûmes voulu(e)s
+vous fûtes voulu(e)s
+ils (elles) furent voulu(e)s
+
+** Futur simple
+
+je serai voulu(e)
+tu seras voulu(e)
+il (elle) sera voulu(e)
+nous serons voulu(e)s
+vous serez voulu(e)s
+ils (elles) seront voulu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais voulu(e)
+tu serais voulu(e)
+il (elle) serait voulu(e)
+nous serions voulu(e)s
+vous seriez voulu(e)s
+ils (elles) seraient voulu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois voulu(e)
+que tu sois voulu(e)
+qu’il (elle) soit voulu(e)
+que nous soyons voulu(e)s
+que vous soyez voulu(e)s
+qu’ils (elles) soient voulu(e)s
+
+** Imparfait
+
+que je fusse voulu(e)
+que tu fusses voulu(e)
+qu’il (elle) fût voulu(e)
+que nous fussions voulu(e)s
+que vous fussiez voulu(e)s
+qu’ils (elles) fussent voulu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons voulu(e)s
+soyez voulu(e)s
+
+* INFINITIF
+
+** Présent
+
+être voulu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant voulu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été voulu(e)
+tu as été voulu(e)
+il (elle) a été voulu(e)
+nous avons été voulu(e)s
+vous avez été voulu(e)s
+ils (elles) ont été voulu(e)s
+
+** Plus-que-parfait
+
+j'avais été voulu(e)
+il (elle) avait été voulu(e)
+nous avions été voulu(e)s
+ils (elles) avaient été voulu(e)s
+
+** Passé antérieur
+
+j'eus été voulu(e)
+tu eus été voulu(e)
+il (elle) eut été voulu(e)
+nous eûmes été voulu(e)s
+vous eûtes été voulu(e)s
+ils (elles) eurent été voulu(e)s
+
+** Futur antérieur
+
+j'aurai été voulu(e)
+tu auras été voulu(e)
+il (elle) aura été voulu(e)
+nous aurons été voulu(e)s
+vous aurez été voulu(e)s
+ils (elles) auront été voulu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été voulu(e)
+j'aurais été voulu(e)
+il (elle) aurait été voulu(e)
+nous aurions été voulu(e)s
+vous auriez été voulu(e)s
+ils (elles) auraient été voulu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été voulu(e)
+que tu aies été voulu(e)
+qu’il (elle) ait été voulu(e)
+que nous ayons été voulu(e)s
+que vous ayez été voulu(e)s
+qu’ils (elles) aient été voulu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été voulu(e)
+que tu eusses été voulu(e)
+qu’il (elle) eût été voulu(e)
+que nous eussions été voulu(e)s
+que vous eussiez été voulu(e)s
+qu’ils (elles) eussent été voulu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été voulu(e)
+ayons été voulu(e)s
+ayez été voulu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été voulu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été voulu(e)(s)

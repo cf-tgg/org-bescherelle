@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attendre
+
+* INDICATIF
+
+** Présent
+
+j'attends
+tu attends
+il (elle) attend
+nous attendons
+vous attendez
+ils (elles) attendent
+
+** Imparfait
+
+j'attendais
+tu attendais
+il (elle) attendait
+nous attendions
+vous attendiez
+ils (elles) attendaient
+
+** Passé simple
+
+j'attendis
+tu attendis
+il (elle) attendit
+nous attendîmes
+vous attendîtes
+ils (elles) attendirent
+
+** Futur simple
+
+j'attendrai
+tu attendras
+il (elle) attendra
+nous attendrons
+vous attendrez
+ils (elles) attendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attendrais
+tu attendrais
+il (elle) attendrait
+nous attendrions
+vous attendriez
+ils (elles) attendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attende
+que tu attendes
+qu’il (elle) attende
+que nous attendions
+que vous attendiez
+qu’ils (elles) attendent
+
+** Imparfait
+
+que j'attendisse
+que tu attendisses
+qu’il (elle) attendît
+que nous attendissions
+que vous attendissiez
+qu’ils (elles) attendissent
+
+* IMPÉRATIF
+
+** Présent
+
+attends
+attendons
+attendez
+
+* INFINITIF
+
+** Présent
+
+attendre
+
+* PARTICIPE
+
+** Présent
+
+attendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attendu
+tu as attendu
+il (elle) a attendu
+nous avons attendu
+vous avez attendu
+ils (elles) ont attendu
+
+** Plus-que-parfait
+
+j'avais attendu
+tu avais attendu
+il (elle) avait attendu
+nous avions attendu
+vous aviez attendu
+ils (elles) avaient attendu
+
+** Passé antérieur
+
+j'eus attendu
+tu eus attendu
+il (elle) eut attendu
+nous eûmes attendu
+vous eûtes attendu
+ils (elles) eurent attendu
+
+** Futur antérieur
+
+j'aurai attendu
+tu auras attendu
+il (elle) aura attendu
+nous aurons attendu
+vous aurez attendu
+ils (elles) auront attendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attendu
+tu aurais attendu
+il (elle) aurait attendu
+nous aurions attendu
+vous auriez attendu
+ils (elles) auraient attendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attendu
+que tu aies attendu
+qu’il (elle) ait attendu
+que nous ayons attendu
+que vous ayez attendu
+qu’ils (elles) aient attendu
+
+** Plus-que-parfait
+
+que j'eusse attendu
+que tu eusses attendu
+qu’il (elle) eût attendu
+que nous eussions attendu
+que vous eussiez attendu
+qu’ils (elles) eussent attendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attendu
+ayez attendu
+
+* INFINITIF
+
+** Passé
+
+avoir attendu
+
+* PARTICIPE
+
+** Passé
+
+ayant attendu
+attendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis attendu(e)
+tu es attendu(e)
+il (elle) est attendu(e)
+nous sommes attendu(e)s
+vous êtes attendu(e)s
+ils (elles) sont attendu(e)s
+
+** Imparfait
+
+j'étais attendu(e)
+tu étais attendu(e)
+il (elle) était attendu(e)
+nous étions attendu(e)s
+vous étiez attendu(e)s
+ils (elles) étaient attendu(e)s
+
+** Passé simple
+
+je fus attendu(e)
+tu fus attendu(e)
+il (elle) fut attendu(e)
+nous fûmes attendu(e)s
+vous fûtes attendu(e)s
+ils (elles) furent attendu(e)s
+
+** Futur simple
+
+je serai attendu(e)
+tu seras attendu(e)
+il (elle) sera attendu(e)
+nous serons attendu(e)s
+vous serez attendu(e)s
+ils (elles) seront attendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attendu(e)
+tu serais attendu(e)
+il (elle) serait attendu(e)
+nous serions attendu(e)s
+vous seriez attendu(e)s
+ils (elles) seraient attendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attendu(e)
+que tu sois attendu(e)
+qu’il (elle) soit attendu(e)
+que nous soyons attendu(e)s
+que vous soyez attendu(e)s
+qu’ils (elles) soient attendu(e)s
+
+** Imparfait
+
+que je fusse attendu(e)
+que tu fusses attendu(e)
+qu’il (elle) fût attendu(e)
+que nous fussions attendu(e)s
+que vous fussiez attendu(e)s
+qu’ils (elles) fussent attendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attendu(e)s
+soyez attendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être attendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attendu(e)
+tu as été attendu(e)
+il (elle) a été attendu(e)
+nous avons été attendu(e)s
+vous avez été attendu(e)s
+ils (elles) ont été attendu(e)s
+
+** Plus-que-parfait
+
+j'avais été attendu(e)
+il (elle) avait été attendu(e)
+nous avions été attendu(e)s
+ils (elles) avaient été attendu(e)s
+
+** Passé antérieur
+
+j'eus été attendu(e)
+tu eus été attendu(e)
+il (elle) eut été attendu(e)
+nous eûmes été attendu(e)s
+vous eûtes été attendu(e)s
+ils (elles) eurent été attendu(e)s
+
+** Futur antérieur
+
+j'aurai été attendu(e)
+tu auras été attendu(e)
+il (elle) aura été attendu(e)
+nous aurons été attendu(e)s
+vous aurez été attendu(e)s
+ils (elles) auront été attendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attendu(e)
+j'aurais été attendu(e)
+il (elle) aurait été attendu(e)
+nous aurions été attendu(e)s
+vous auriez été attendu(e)s
+ils (elles) auraient été attendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attendu(e)
+que tu aies été attendu(e)
+qu’il (elle) ait été attendu(e)
+que nous ayons été attendu(e)s
+que vous ayez été attendu(e)s
+qu’ils (elles) aient été attendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attendu(e)
+que tu eusses été attendu(e)
+qu’il (elle) eût été attendu(e)
+que nous eussions été attendu(e)s
+que vous eussiez été attendu(e)s
+qu’ils (elles) eussent été attendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attendu(e)
+ayons été attendu(e)s
+ayez été attendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attendu(e)(s)

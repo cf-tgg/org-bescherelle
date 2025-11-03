@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pratiquer
+
+* INDICATIF
+
+** Présent
+
+je pratique
+tu pratiques
+il (elle) pratique
+nous pratiquons
+vous pratiquez
+ils (elles) pratiquent
+
+** Imparfait
+
+je pratiquais
+tu pratiquais
+il (elle) pratiquait
+nous pratiquions
+vous pratiquiez
+ils (elles) pratiquaient
+
+** Passé simple
+
+je pratiquai
+tu pratiquas
+il (elle) pratiqua
+nous pratiquâmes
+vous pratiquâtes
+ils (elles) pratiquèrent
+
+** Futur simple
+
+je pratiquerai
+tu pratiqueras
+il (elle) pratiquera
+nous pratiquerons
+vous pratiquerez
+ils (elles) pratiqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je pratiquerais
+tu pratiquerais
+il (elle) pratiquerait
+nous pratiquerions
+vous pratiqueriez
+ils (elles) pratiqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pratique
+que tu pratiques
+qu’il (elle) pratique
+que nous pratiquions
+que vous pratiquiez
+qu’ils (elles) pratiquent
+
+** Imparfait
+
+que je pratiquasse
+que tu pratiquasses
+qu’il (elle) pratiquât
+que nous pratiquassions
+que vous pratiquassiez
+qu’ils (elles) pratiquassent
+
+* IMPÉRATIF
+
+** Présent
+
+pratique
+pratiquons
+pratiquez
+
+* INFINITIF
+
+** Présent
+
+pratiquer
+
+* PARTICIPE
+
+** Présent
+
+pratiquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pratiqué
+tu as pratiqué
+il (elle) a pratiqué
+nous avons pratiqué
+vous avez pratiqué
+ils (elles) ont pratiqué
+
+** Plus-que-parfait
+
+j'avais pratiqué
+tu avais pratiqué
+il (elle) avait pratiqué
+nous avions pratiqué
+vous aviez pratiqué
+ils (elles) avaient pratiqué
+
+** Passé antérieur
+
+j'eus pratiqué
+tu eus pratiqué
+il (elle) eut pratiqué
+nous eûmes pratiqué
+vous eûtes pratiqué
+ils (elles) eurent pratiqué
+
+** Futur antérieur
+
+j'aurai pratiqué
+tu auras pratiqué
+il (elle) aura pratiqué
+nous aurons pratiqué
+vous aurez pratiqué
+ils (elles) auront pratiqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pratiqué
+tu aurais pratiqué
+il (elle) aurait pratiqué
+nous aurions pratiqué
+vous auriez pratiqué
+ils (elles) auraient pratiqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pratiqué
+que tu aies pratiqué
+qu’il (elle) ait pratiqué
+que nous ayons pratiqué
+que vous ayez pratiqué
+qu’ils (elles) aient pratiqué
+
+** Plus-que-parfait
+
+que j'eusse pratiqué
+que tu eusses pratiqué
+qu’il (elle) eût pratiqué
+que nous eussions pratiqué
+que vous eussiez pratiqué
+qu’ils (elles) eussent pratiqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pratiqué
+ayez pratiqué
+
+* INFINITIF
+
+** Passé
+
+avoir pratiqué
+
+* PARTICIPE
+
+** Passé
+
+ayant pratiqué
+pratiqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pratiqué(e)
+tu es pratiqué(e)
+il (elle) est pratiqué(e)
+nous sommes pratiqué(e)s
+vous êtes pratiqué(e)s
+ils (elles) sont pratiqué(e)s
+
+** Imparfait
+
+j'étais pratiqué(e)
+tu étais pratiqué(e)
+il (elle) était pratiqué(e)
+nous étions pratiqué(e)s
+vous étiez pratiqué(e)s
+ils (elles) étaient pratiqué(e)s
+
+** Passé simple
+
+je fus pratiqué(e)
+tu fus pratiqué(e)
+il (elle) fut pratiqué(e)
+nous fûmes pratiqué(e)s
+vous fûtes pratiqué(e)s
+ils (elles) furent pratiqué(e)s
+
+** Futur simple
+
+je serai pratiqué(e)
+tu seras pratiqué(e)
+il (elle) sera pratiqué(e)
+nous serons pratiqué(e)s
+vous serez pratiqué(e)s
+ils (elles) seront pratiqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pratiqué(e)
+tu serais pratiqué(e)
+il (elle) serait pratiqué(e)
+nous serions pratiqué(e)s
+vous seriez pratiqué(e)s
+ils (elles) seraient pratiqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pratiqué(e)
+que tu sois pratiqué(e)
+qu’il (elle) soit pratiqué(e)
+que nous soyons pratiqué(e)s
+que vous soyez pratiqué(e)s
+qu’ils (elles) soient pratiqué(e)s
+
+** Imparfait
+
+que je fusse pratiqué(e)
+que tu fusses pratiqué(e)
+qu’il (elle) fût pratiqué(e)
+que nous fussions pratiqué(e)s
+que vous fussiez pratiqué(e)s
+qu’ils (elles) fussent pratiqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pratiqué(e)s
+soyez pratiqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être pratiqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pratiqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pratiqué(e)
+tu as été pratiqué(e)
+il (elle) a été pratiqué(e)
+nous avons été pratiqué(e)s
+vous avez été pratiqué(e)s
+ils (elles) ont été pratiqué(e)s
+
+** Plus-que-parfait
+
+j'avais été pratiqué(e)
+il (elle) avait été pratiqué(e)
+nous avions été pratiqué(e)s
+ils (elles) avaient été pratiqué(e)s
+
+** Passé antérieur
+
+j'eus été pratiqué(e)
+tu eus été pratiqué(e)
+il (elle) eut été pratiqué(e)
+nous eûmes été pratiqué(e)s
+vous eûtes été pratiqué(e)s
+ils (elles) eurent été pratiqué(e)s
+
+** Futur antérieur
+
+j'aurai été pratiqué(e)
+tu auras été pratiqué(e)
+il (elle) aura été pratiqué(e)
+nous aurons été pratiqué(e)s
+vous aurez été pratiqué(e)s
+ils (elles) auront été pratiqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pratiqué(e)
+j'aurais été pratiqué(e)
+il (elle) aurait été pratiqué(e)
+nous aurions été pratiqué(e)s
+vous auriez été pratiqué(e)s
+ils (elles) auraient été pratiqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pratiqué(e)
+que tu aies été pratiqué(e)
+qu’il (elle) ait été pratiqué(e)
+que nous ayons été pratiqué(e)s
+que vous ayez été pratiqué(e)s
+qu’ils (elles) aient été pratiqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pratiqué(e)
+que tu eusses été pratiqué(e)
+qu’il (elle) eût été pratiqué(e)
+que nous eussions été pratiqué(e)s
+que vous eussiez été pratiqué(e)s
+qu’ils (elles) eussent été pratiqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pratiqué(e)
+ayons été pratiqué(e)s
+ayez été pratiqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pratiqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pratiqué(e)(s)

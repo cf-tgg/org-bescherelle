@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe bayer
+
+* INDICATIF
+
+** Présent
+
+je baie / baye
+tu baies / bayes
+il (elle) baie / baye
+nous bayons
+vous bayez
+ils (elles) baient / bayent
+
+** Imparfait
+
+je bayais
+tu bayais
+il (elle) bayait
+nous bayions
+vous bayiez
+ils (elles) bayaient
+
+** Passé simple
+
+je bayai
+tu bayas
+il (elle) baya
+nous bayâmes
+vous bayâtes
+ils (elles) bayèrent
+
+** Futur simple
+
+je baierai / bayerai
+tu baieras / bayeras
+il (elle) baiera / bayera
+nous baierons / bayerons
+vous baierez / bayerez
+ils (elles) baieront / bayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je baierais / bayerais
+tu baierais / bayerais
+il (elle) baierait / bayerait
+nous baierions / bayerions
+vous baieriez / bayeriez
+ils (elles) baieraient / bayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je baie / baye
+que tu baies / bayes
+qu’il (elle) baie / baye
+que nous bayions
+que vous bayiez
+qu’ils (elles) baient / bayent
+
+** Imparfait
+
+que je bayasse
+que tu bayasses
+qu’il (elle) bayât
+que nous bayassions
+que vous bayassiez
+qu’ils (elles) bayassent
+
+* IMPÉRATIF
+
+** Présent
+
+baie / baye
+bayons
+bayez
+
+* INFINITIF
+
+** Présent
+
+bayer
+
+* PARTICIPE
+
+** Présent
+
+bayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bayé
+tu as bayé
+il (elle) a bayé
+nous avons bayé
+vous avez bayé
+ils (elles) ont bayé
+
+** Plus-que-parfait
+
+j'avais bayé
+tu avais bayé
+il (elle) avait bayé
+nous avions bayé
+vous aviez bayé
+ils (elles) avaient bayé
+
+** Passé antérieur
+
+j'eus bayé
+tu eus bayé
+il (elle) eut bayé
+nous eûmes bayé
+vous eûtes bayé
+ils (elles) eurent bayé
+
+** Futur antérieur
+
+j'aurai bayé
+tu auras bayé
+il (elle) aura bayé
+nous aurons bayé
+vous aurez bayé
+ils (elles) auront bayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bayé
+tu aurais bayé
+il (elle) aurait bayé
+nous aurions bayé
+vous auriez bayé
+ils (elles) auraient bayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bayé
+que tu aies bayé
+qu’il (elle) ait bayé
+que nous ayons bayé
+que vous ayez bayé
+qu’ils (elles) aient bayé
+
+** Plus-que-parfait
+
+que j'eusse bayé
+que tu eusses bayé
+qu’il (elle) eût bayé
+que nous eussions bayé
+que vous eussiez bayé
+qu’ils (elles) eussent bayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bayé
+ayez bayé
+
+* INFINITIF
+
+** Passé
+
+avoir bayé
+
+* PARTICIPE
+
+** Passé
+
+ayant bayé
+bayé (invar.)

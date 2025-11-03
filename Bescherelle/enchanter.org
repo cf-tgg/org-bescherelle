@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enchanter
+
+* INDICATIF
+
+** Présent
+
+j'enchante
+tu enchantes
+il (elle) enchante
+nous enchantons
+vous enchantez
+ils (elles) enchantent
+
+** Imparfait
+
+j'enchantais
+tu enchantais
+il (elle) enchantait
+nous enchantions
+vous enchantiez
+ils (elles) enchantaient
+
+** Passé simple
+
+j'enchantai
+tu enchantas
+il (elle) enchanta
+nous enchantâmes
+vous enchantâtes
+ils (elles) enchantèrent
+
+** Futur simple
+
+j'enchanterai
+tu enchanteras
+il (elle) enchantera
+nous enchanterons
+vous enchanterez
+ils (elles) enchanteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enchanterais
+tu enchanterais
+il (elle) enchanterait
+nous enchanterions
+vous enchanteriez
+ils (elles) enchanteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enchante
+que tu enchantes
+qu’il (elle) enchante
+que nous enchantions
+que vous enchantiez
+qu’ils (elles) enchantent
+
+** Imparfait
+
+que j'enchantasse
+que tu enchantasses
+qu’il (elle) enchantât
+que nous enchantassions
+que vous enchantassiez
+qu’ils (elles) enchantassent
+
+* IMPÉRATIF
+
+** Présent
+
+enchante
+enchantons
+enchantez
+
+* INFINITIF
+
+** Présent
+
+enchanter
+
+* PARTICIPE
+
+** Présent
+
+enchantant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enchanté
+tu as enchanté
+il (elle) a enchanté
+nous avons enchanté
+vous avez enchanté
+ils (elles) ont enchanté
+
+** Plus-que-parfait
+
+j'avais enchanté
+tu avais enchanté
+il (elle) avait enchanté
+nous avions enchanté
+vous aviez enchanté
+ils (elles) avaient enchanté
+
+** Passé antérieur
+
+j'eus enchanté
+tu eus enchanté
+il (elle) eut enchanté
+nous eûmes enchanté
+vous eûtes enchanté
+ils (elles) eurent enchanté
+
+** Futur antérieur
+
+j'aurai enchanté
+tu auras enchanté
+il (elle) aura enchanté
+nous aurons enchanté
+vous aurez enchanté
+ils (elles) auront enchanté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enchanté
+tu aurais enchanté
+il (elle) aurait enchanté
+nous aurions enchanté
+vous auriez enchanté
+ils (elles) auraient enchanté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enchanté
+que tu aies enchanté
+qu’il (elle) ait enchanté
+que nous ayons enchanté
+que vous ayez enchanté
+qu’ils (elles) aient enchanté
+
+** Plus-que-parfait
+
+que j'eusse enchanté
+que tu eusses enchanté
+qu’il (elle) eût enchanté
+que nous eussions enchanté
+que vous eussiez enchanté
+qu’ils (elles) eussent enchanté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enchanté
+ayez enchanté
+
+* INFINITIF
+
+** Passé
+
+avoir enchanté
+
+* PARTICIPE
+
+** Passé
+
+ayant enchanté
+enchanté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enchanté(e)
+tu es enchanté(e)
+il (elle) est enchanté(e)
+nous sommes enchanté(e)s
+vous êtes enchanté(e)s
+ils (elles) sont enchanté(e)s
+
+** Imparfait
+
+j'étais enchanté(e)
+tu étais enchanté(e)
+il (elle) était enchanté(e)
+nous étions enchanté(e)s
+vous étiez enchanté(e)s
+ils (elles) étaient enchanté(e)s
+
+** Passé simple
+
+je fus enchanté(e)
+tu fus enchanté(e)
+il (elle) fut enchanté(e)
+nous fûmes enchanté(e)s
+vous fûtes enchanté(e)s
+ils (elles) furent enchanté(e)s
+
+** Futur simple
+
+je serai enchanté(e)
+tu seras enchanté(e)
+il (elle) sera enchanté(e)
+nous serons enchanté(e)s
+vous serez enchanté(e)s
+ils (elles) seront enchanté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enchanté(e)
+tu serais enchanté(e)
+il (elle) serait enchanté(e)
+nous serions enchanté(e)s
+vous seriez enchanté(e)s
+ils (elles) seraient enchanté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enchanté(e)
+que tu sois enchanté(e)
+qu’il (elle) soit enchanté(e)
+que nous soyons enchanté(e)s
+que vous soyez enchanté(e)s
+qu’ils (elles) soient enchanté(e)s
+
+** Imparfait
+
+que je fusse enchanté(e)
+que tu fusses enchanté(e)
+qu’il (elle) fût enchanté(e)
+que nous fussions enchanté(e)s
+que vous fussiez enchanté(e)s
+qu’ils (elles) fussent enchanté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enchanté(e)s
+soyez enchanté(e)s
+
+* INFINITIF
+
+** Présent
+
+être enchanté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enchanté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enchanté(e)
+tu as été enchanté(e)
+il (elle) a été enchanté(e)
+nous avons été enchanté(e)s
+vous avez été enchanté(e)s
+ils (elles) ont été enchanté(e)s
+
+** Plus-que-parfait
+
+j'avais été enchanté(e)
+il (elle) avait été enchanté(e)
+nous avions été enchanté(e)s
+ils (elles) avaient été enchanté(e)s
+
+** Passé antérieur
+
+j'eus été enchanté(e)
+tu eus été enchanté(e)
+il (elle) eut été enchanté(e)
+nous eûmes été enchanté(e)s
+vous eûtes été enchanté(e)s
+ils (elles) eurent été enchanté(e)s
+
+** Futur antérieur
+
+j'aurai été enchanté(e)
+tu auras été enchanté(e)
+il (elle) aura été enchanté(e)
+nous aurons été enchanté(e)s
+vous aurez été enchanté(e)s
+ils (elles) auront été enchanté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enchanté(e)
+j'aurais été enchanté(e)
+il (elle) aurait été enchanté(e)
+nous aurions été enchanté(e)s
+vous auriez été enchanté(e)s
+ils (elles) auraient été enchanté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enchanté(e)
+que tu aies été enchanté(e)
+qu’il (elle) ait été enchanté(e)
+que nous ayons été enchanté(e)s
+que vous ayez été enchanté(e)s
+qu’ils (elles) aient été enchanté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enchanté(e)
+que tu eusses été enchanté(e)
+qu’il (elle) eût été enchanté(e)
+que nous eussions été enchanté(e)s
+que vous eussiez été enchanté(e)s
+qu’ils (elles) eussent été enchanté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enchanté(e)
+ayons été enchanté(e)s
+ayez été enchanté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enchanté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enchanté(e)(s)

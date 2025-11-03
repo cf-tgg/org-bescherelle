@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe poster
+
+* INDICATIF
+
+** Présent
+
+je poste
+tu postes
+il (elle) poste
+nous postons
+vous postez
+ils (elles) postent
+
+** Imparfait
+
+je postais
+tu postais
+il (elle) postait
+nous postions
+vous postiez
+ils (elles) postaient
+
+** Passé simple
+
+je postai
+tu postas
+il (elle) posta
+nous postâmes
+vous postâtes
+ils (elles) postèrent
+
+** Futur simple
+
+je posterai
+tu posteras
+il (elle) postera
+nous posterons
+vous posterez
+ils (elles) posteront
+
+* CONDITIONNEL
+
+** Présent
+
+je posterais
+tu posterais
+il (elle) posterait
+nous posterions
+vous posteriez
+ils (elles) posteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je poste
+que tu postes
+qu’il (elle) poste
+que nous postions
+que vous postiez
+qu’ils (elles) postent
+
+** Imparfait
+
+que je postasse
+que tu postasses
+qu’il (elle) postât
+que nous postassions
+que vous postassiez
+qu’ils (elles) postassent
+
+* IMPÉRATIF
+
+** Présent
+
+poste
+postons
+postez
+
+* INFINITIF
+
+** Présent
+
+poster
+
+* PARTICIPE
+
+** Présent
+
+postant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai posté
+tu as posté
+il (elle) a posté
+nous avons posté
+vous avez posté
+ils (elles) ont posté
+
+** Plus-que-parfait
+
+j'avais posté
+tu avais posté
+il (elle) avait posté
+nous avions posté
+vous aviez posté
+ils (elles) avaient posté
+
+** Passé antérieur
+
+j'eus posté
+tu eus posté
+il (elle) eut posté
+nous eûmes posté
+vous eûtes posté
+ils (elles) eurent posté
+
+** Futur antérieur
+
+j'aurai posté
+tu auras posté
+il (elle) aura posté
+nous aurons posté
+vous aurez posté
+ils (elles) auront posté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais posté
+tu aurais posté
+il (elle) aurait posté
+nous aurions posté
+vous auriez posté
+ils (elles) auraient posté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie posté
+que tu aies posté
+qu’il (elle) ait posté
+que nous ayons posté
+que vous ayez posté
+qu’ils (elles) aient posté
+
+** Plus-que-parfait
+
+que j'eusse posté
+que tu eusses posté
+qu’il (elle) eût posté
+que nous eussions posté
+que vous eussiez posté
+qu’ils (elles) eussent posté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons posté
+ayez posté
+
+* INFINITIF
+
+** Passé
+
+avoir posté
+
+* PARTICIPE
+
+** Passé
+
+ayant posté
+posté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis posté(e)
+tu es posté(e)
+il (elle) est posté(e)
+nous sommes posté(e)s
+vous êtes posté(e)s
+ils (elles) sont posté(e)s
+
+** Imparfait
+
+j'étais posté(e)
+tu étais posté(e)
+il (elle) était posté(e)
+nous étions posté(e)s
+vous étiez posté(e)s
+ils (elles) étaient posté(e)s
+
+** Passé simple
+
+je fus posté(e)
+tu fus posté(e)
+il (elle) fut posté(e)
+nous fûmes posté(e)s
+vous fûtes posté(e)s
+ils (elles) furent posté(e)s
+
+** Futur simple
+
+je serai posté(e)
+tu seras posté(e)
+il (elle) sera posté(e)
+nous serons posté(e)s
+vous serez posté(e)s
+ils (elles) seront posté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais posté(e)
+tu serais posté(e)
+il (elle) serait posté(e)
+nous serions posté(e)s
+vous seriez posté(e)s
+ils (elles) seraient posté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois posté(e)
+que tu sois posté(e)
+qu’il (elle) soit posté(e)
+que nous soyons posté(e)s
+que vous soyez posté(e)s
+qu’ils (elles) soient posté(e)s
+
+** Imparfait
+
+que je fusse posté(e)
+que tu fusses posté(e)
+qu’il (elle) fût posté(e)
+que nous fussions posté(e)s
+que vous fussiez posté(e)s
+qu’ils (elles) fussent posté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons posté(e)s
+soyez posté(e)s
+
+* INFINITIF
+
+** Présent
+
+être posté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant posté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été posté(e)
+tu as été posté(e)
+il (elle) a été posté(e)
+nous avons été posté(e)s
+vous avez été posté(e)s
+ils (elles) ont été posté(e)s
+
+** Plus-que-parfait
+
+j'avais été posté(e)
+il (elle) avait été posté(e)
+nous avions été posté(e)s
+ils (elles) avaient été posté(e)s
+
+** Passé antérieur
+
+j'eus été posté(e)
+tu eus été posté(e)
+il (elle) eut été posté(e)
+nous eûmes été posté(e)s
+vous eûtes été posté(e)s
+ils (elles) eurent été posté(e)s
+
+** Futur antérieur
+
+j'aurai été posté(e)
+tu auras été posté(e)
+il (elle) aura été posté(e)
+nous aurons été posté(e)s
+vous aurez été posté(e)s
+ils (elles) auront été posté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été posté(e)
+j'aurais été posté(e)
+il (elle) aurait été posté(e)
+nous aurions été posté(e)s
+vous auriez été posté(e)s
+ils (elles) auraient été posté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été posté(e)
+que tu aies été posté(e)
+qu’il (elle) ait été posté(e)
+que nous ayons été posté(e)s
+que vous ayez été posté(e)s
+qu’ils (elles) aient été posté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été posté(e)
+que tu eusses été posté(e)
+qu’il (elle) eût été posté(e)
+que nous eussions été posté(e)s
+que vous eussiez été posté(e)s
+qu’ils (elles) eussent été posté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été posté(e)
+ayons été posté(e)s
+ayez été posté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été posté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été posté(e)(s)

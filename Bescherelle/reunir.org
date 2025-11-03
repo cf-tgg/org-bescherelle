@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reunir
+
+* INDICATIF
+
+** Présent
+
+je réunis
+tu réunis
+il (elle) réunit
+nous réunissons
+vous réunissez
+ils (elles) réunissent
+
+** Imparfait
+
+je réunissais
+tu réunissais
+il (elle) réunissait
+nous réunissions
+vous réunissiez
+ils (elles) réunissaient
+
+** Passé simple
+
+je réunis
+tu réunis
+il (elle) réunit
+nous réunîmes
+vous réunîtes
+ils (elles) réunirent
+
+** Futur simple
+
+je réunirai
+tu réuniras
+il (elle) réunira
+nous réunirons
+vous réunirez
+ils (elles) réuniront
+
+* CONDITIONNEL
+
+** Présent
+
+je réunirais
+tu réunirais
+il (elle) réunirait
+nous réunirions
+vous réuniriez
+ils (elles) réuniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réunisse
+que tu réunisses
+qu’il (elle) réunisse
+que nous réunissions
+que vous réunissiez
+qu’ils (elles) réunissent
+
+** Imparfait
+
+que je réunisse
+que tu réunisses
+qu’il (elle) réunît
+que nous réunissions
+que vous réunissiez
+qu’ils (elles) réunissent
+
+* IMPÉRATIF
+
+** Présent
+
+réunis
+réunissons
+réunissez
+
+* INFINITIF
+
+** Présent
+
+réunir
+
+* PARTICIPE
+
+** Présent
+
+réunissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réuni
+tu as réuni
+il (elle) a réuni
+nous avons réuni
+vous avez réuni
+ils (elles) ont réuni
+
+** Plus-que-parfait
+
+j'avais réuni
+tu avais réuni
+il (elle) avait réuni
+nous avions réuni
+vous aviez réuni
+ils (elles) avaient réuni
+
+** Passé antérieur
+
+j'eus réuni
+tu eus réuni
+il (elle) eut réuni
+nous eûmes réuni
+vous eûtes réuni
+ils (elles) eurent réuni
+
+** Futur antérieur
+
+j'aurai réuni
+tu auras réuni
+il (elle) aura réuni
+nous aurons réuni
+vous aurez réuni
+ils (elles) auront réuni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réuni
+tu aurais réuni
+il (elle) aurait réuni
+nous aurions réuni
+vous auriez réuni
+ils (elles) auraient réuni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réuni
+que tu aies réuni
+qu’il (elle) ait réuni
+que nous ayons réuni
+que vous ayez réuni
+qu’ils (elles) aient réuni
+
+** Plus-que-parfait
+
+que j'eusse réuni
+que tu eusses réuni
+qu’il (elle) eût réuni
+que nous eussions réuni
+que vous eussiez réuni
+qu’ils (elles) eussent réuni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réuni
+ayez réuni
+
+* INFINITIF
+
+** Passé
+
+avoir réuni
+
+* PARTICIPE
+
+** Passé
+
+ayant réuni
+réuni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis réuni(e)
+tu es réuni(e)
+il (elle) est réuni(e)
+nous sommes réuni(e)s
+vous êtes réuni(e)s
+ils (elles) sont réuni(e)s
+
+** Imparfait
+
+j'étais réuni(e)
+tu étais réuni(e)
+il (elle) était réuni(e)
+nous étions réuni(e)s
+vous étiez réuni(e)s
+ils (elles) étaient réuni(e)s
+
+** Passé simple
+
+je fus réuni(e)
+tu fus réuni(e)
+il (elle) fut réuni(e)
+nous fûmes réuni(e)s
+vous fûtes réuni(e)s
+ils (elles) furent réuni(e)s
+
+** Futur simple
+
+je serai réuni(e)
+tu seras réuni(e)
+il (elle) sera réuni(e)
+nous serons réuni(e)s
+vous serez réuni(e)s
+ils (elles) seront réuni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réuni(e)
+tu serais réuni(e)
+il (elle) serait réuni(e)
+nous serions réuni(e)s
+vous seriez réuni(e)s
+ils (elles) seraient réuni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réuni(e)
+que tu sois réuni(e)
+qu’il (elle) soit réuni(e)
+que nous soyons réuni(e)s
+que vous soyez réuni(e)s
+qu’ils (elles) soient réuni(e)s
+
+** Imparfait
+
+que je fusse réuni(e)
+que tu fusses réuni(e)
+qu’il (elle) fût réuni(e)
+que nous fussions réuni(e)s
+que vous fussiez réuni(e)s
+qu’ils (elles) fussent réuni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réuni(e)s
+soyez réuni(e)s
+
+* INFINITIF
+
+** Présent
+
+être réuni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réuni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réuni(e)
+tu as été réuni(e)
+il (elle) a été réuni(e)
+nous avons été réuni(e)s
+vous avez été réuni(e)s
+ils (elles) ont été réuni(e)s
+
+** Plus-que-parfait
+
+j'avais été réuni(e)
+il (elle) avait été réuni(e)
+nous avions été réuni(e)s
+ils (elles) avaient été réuni(e)s
+
+** Passé antérieur
+
+j'eus été réuni(e)
+tu eus été réuni(e)
+il (elle) eut été réuni(e)
+nous eûmes été réuni(e)s
+vous eûtes été réuni(e)s
+ils (elles) eurent été réuni(e)s
+
+** Futur antérieur
+
+j'aurai été réuni(e)
+tu auras été réuni(e)
+il (elle) aura été réuni(e)
+nous aurons été réuni(e)s
+vous aurez été réuni(e)s
+ils (elles) auront été réuni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réuni(e)
+j'aurais été réuni(e)
+il (elle) aurait été réuni(e)
+nous aurions été réuni(e)s
+vous auriez été réuni(e)s
+ils (elles) auraient été réuni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réuni(e)
+que tu aies été réuni(e)
+qu’il (elle) ait été réuni(e)
+que nous ayons été réuni(e)s
+que vous ayez été réuni(e)s
+qu’ils (elles) aient été réuni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réuni(e)
+que tu eusses été réuni(e)
+qu’il (elle) eût été réuni(e)
+que nous eussions été réuni(e)s
+que vous eussiez été réuni(e)s
+qu’ils (elles) eussent été réuni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réuni(e)
+ayons été réuni(e)s
+ayez été réuni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réuni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réuni(e)(s)

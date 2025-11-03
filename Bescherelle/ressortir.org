@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe ressortir
+
+* INDICATIF
+
+** Présent
+
+je ressortis
+tu ressortis
+il (elle) ressortit
+nous ressortissons
+vous ressortissez
+ils (elles) ressortissent
+
+** Imparfait
+
+je ressortissais
+tu ressortissais
+il (elle) ressortissait
+nous ressortissions
+vous ressortissiez
+ils (elles) ressortissaient
+
+** Passé simple
+
+je ressortis
+tu ressortis
+il (elle) ressortit
+nous ressortîmes
+vous ressortîtes
+ils (elles) ressortirent
+
+** Futur simple
+
+je ressortirai
+tu ressortiras
+il (elle) ressortira
+nous ressortirons
+vous ressortirez
+ils (elles) ressortiront
+
+* CONDITIONNEL
+
+** Présent
+
+je ressortirais
+tu ressortirais
+il (elle) ressortirait
+nous ressortirions
+vous ressortiriez
+ils (elles) ressortiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ressortisse
+que tu ressortisses
+qu’il (elle) ressortisse
+que nous ressortissions
+que vous ressortissiez
+qu’ils (elles) ressortissent
+
+** Imparfait
+
+que je ressortisse
+que tu ressortisses
+qu’il (elle) ressortît
+que nous ressortissions
+que vous ressortissiez
+qu’ils (elles) ressortissent
+
+* IMPÉRATIF
+
+** Présent
+
+ressortis
+ressortissons
+ressortissez
+
+* INFINITIF
+
+** Présent
+
+ressortir
+
+* PARTICIPE
+
+** Présent
+
+ressortissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ressorti
+tu as ressorti
+il (elle) a ressorti
+nous avons ressorti
+vous avez ressorti
+ils (elles) ont ressorti
+
+** Plus-que-parfait
+
+j'avais ressorti
+tu avais ressorti
+il (elle) avait ressorti
+nous avions ressorti
+vous aviez ressorti
+ils (elles) avaient ressorti
+
+** Passé antérieur
+
+j'eus ressorti
+tu eus ressorti
+il (elle) eut ressorti
+nous eûmes ressorti
+vous eûtes ressorti
+ils (elles) eurent ressorti
+
+** Futur antérieur
+
+j'aurai ressorti
+tu auras ressorti
+il (elle) aura ressorti
+nous aurons ressorti
+vous aurez ressorti
+ils (elles) auront ressorti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ressorti
+tu aurais ressorti
+il (elle) aurait ressorti
+nous aurions ressorti
+vous auriez ressorti
+ils (elles) auraient ressorti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ressorti
+que tu aies ressorti
+qu’il (elle) ait ressorti
+que nous ayons ressorti
+que vous ayez ressorti
+qu’ils (elles) aient ressorti
+
+** Plus-que-parfait
+
+que j'eusse ressorti
+que tu eusses ressorti
+qu’il (elle) eût ressorti
+que nous eussions ressorti
+que vous eussiez ressorti
+qu’ils (elles) eussent ressorti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ressorti
+ayez ressorti
+
+* INFINITIF
+
+** Passé
+
+avoir ressorti
+
+* PARTICIPE
+
+** Passé
+
+ayant ressorti
+ressorti (invar.)

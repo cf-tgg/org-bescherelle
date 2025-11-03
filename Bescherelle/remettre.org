@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe remettre
+
+* INDICATIF
+
+** Présent
+
+je remets
+tu remets
+il (elle) remet
+nous remettons
+vous remettez
+ils (elles) remettent
+
+** Imparfait
+
+je remettais
+tu remettais
+il (elle) remettait
+nous remettions
+vous remettiez
+ils (elles) remettaient
+
+** Passé simple
+
+je remis
+tu remis
+il (elle) remit
+nous remîmes
+vous remîtes
+ils (elles) remirent
+
+** Futur simple
+
+je remettrai
+tu remettras
+il (elle) remettra
+nous remettrons
+vous remettrez
+ils (elles) remettront
+
+* CONDITIONNEL
+
+** Présent
+
+je remettrais
+tu remettrais
+il (elle) remettrait
+nous remettrions
+vous remettriez
+ils (elles) remettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je remette
+que tu remettes
+qu’il (elle) remette
+que nous remettions
+que vous remettiez
+qu’ils (elles) remettent
+
+** Imparfait
+
+que je remisse
+que tu remisses
+qu’il (elle) remît
+que nous remissions
+que vous remissiez
+qu’ils (elles) remissent
+
+* IMPÉRATIF
+
+** Présent
+
+remets
+remettons
+remettez
+
+* INFINITIF
+
+** Présent
+
+remettre
+
+* PARTICIPE
+
+** Présent
+
+remettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai remis
+tu as remis
+il (elle) a remis
+nous avons remis
+vous avez remis
+ils (elles) ont remis
+
+** Plus-que-parfait
+
+j'avais remis
+tu avais remis
+il (elle) avait remis
+nous avions remis
+vous aviez remis
+ils (elles) avaient remis
+
+** Passé antérieur
+
+j'eus remis
+tu eus remis
+il (elle) eut remis
+nous eûmes remis
+vous eûtes remis
+ils (elles) eurent remis
+
+** Futur antérieur
+
+j'aurai remis
+tu auras remis
+il (elle) aura remis
+nous aurons remis
+vous aurez remis
+ils (elles) auront remis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais remis
+tu aurais remis
+il (elle) aurait remis
+nous aurions remis
+vous auriez remis
+ils (elles) auraient remis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie remis
+que tu aies remis
+qu’il (elle) ait remis
+que nous ayons remis
+que vous ayez remis
+qu’ils (elles) aient remis
+
+** Plus-que-parfait
+
+que j'eusse remis
+que tu eusses remis
+qu’il (elle) eût remis
+que nous eussions remis
+que vous eussiez remis
+qu’ils (elles) eussent remis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons remis
+ayez remis
+
+* INFINITIF
+
+** Passé
+
+avoir remis
+
+* PARTICIPE
+
+** Passé
+
+ayant remis
+remis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis remis(e)
+tu es remis(e)
+il (elle) est remis(e)
+nous sommes remis(es)
+vous êtes remis(es)
+ils (elles) sont remis(es)
+
+** Imparfait
+
+j'étais remis(e)
+tu étais remis(e)
+il (elle) était remis(e)
+nous étions remis(es)
+vous étiez remis(es)
+ils (elles) étaient remis(es)
+
+** Passé simple
+
+je fus remis(e)
+tu fus remis(e)
+il (elle) fut remis(e)
+nous fûmes remis(es)
+vous fûtes remis(es)
+ils (elles) furent remis(es)
+
+** Futur simple
+
+je serai remis(e)
+tu seras remis(e)
+il (elle) sera remis(e)
+nous serons remis(es)
+vous serez remis(es)
+ils (elles) seront remis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais remis(e)
+tu serais remis(e)
+il (elle) serait remis(e)
+nous serions remis(es)
+vous seriez remis(es)
+ils (elles) seraient remis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois remis(e)
+que tu sois remis(e)
+qu’il (elle) soit remis(e)
+que nous soyons remis(es)
+que vous soyez remis(es)
+qu’ils (elles) soient remis(es)
+
+** Imparfait
+
+que je fusse remis(e)
+que tu fusses remis(e)
+qu’il (elle) fût remis(e)
+que nous fussions remis(es)
+que vous fussiez remis(es)
+qu’ils (elles) fussent remis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons remis(es)
+soyez remis(es)
+
+* INFINITIF
+
+** Présent
+
+être remis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant remis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été remis(e)
+tu as été remis(e)
+il (elle) a été remis(e)
+nous avons été remis(es)
+vous avez été remis(es)
+ils (elles) ont été remis(es)
+
+** Plus-que-parfait
+
+j'avais été remis(e)
+il (elle) avait été remis(e)
+nous avions été remis(es)
+ils (elles) avaient été remis(es)
+
+** Passé antérieur
+
+j'eus été remis(e)
+tu eus été remis(e)
+il (elle) eut été remis(e)
+nous eûmes été remis(es)
+vous eûtes été remis(es)
+ils (elles) eurent été remis(es)
+
+** Futur antérieur
+
+j'aurai été remis(e)
+tu auras été remis(e)
+il (elle) aura été remis(e)
+nous aurons été remis(es)
+vous aurez été remis(es)
+ils (elles) auront été remis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été remis(e)
+j'aurais été remis(e)
+il (elle) aurait été remis(e)
+nous aurions été remis(es)
+vous auriez été remis(es)
+ils (elles) auraient été remis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été remis(e)
+que tu aies été remis(e)
+qu’il (elle) ait été remis(e)
+que nous ayons été remis(es)
+que vous ayez été remis(es)
+qu’ils (elles) aient été remis(es)
+
+** Plus-que-parfait
+
+que j'eusse été remis(e)
+que tu eusses été remis(e)
+qu’il (elle) eût été remis(e)
+que nous eussions été remis(es)
+que vous eussiez été remis(es)
+qu’ils (elles) eussent été remis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été remis(e)
+ayons été remis(es)
+ayez été remis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été remis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été remis (s, se, s, ses)

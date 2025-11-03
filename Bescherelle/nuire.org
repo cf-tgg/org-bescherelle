@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe nuire
+
+* INDICATIF
+
+** Présent
+
+je nuis
+tu nuis
+il (elle) nuit
+nous nuisons
+vous nuisez
+ils (elles) nuisent
+
+** Imparfait
+
+je nuisais
+tu nuisais
+il (elle) nuisait
+nous nuisions
+vous nuisiez
+ils (elles) nuisaient
+
+** Passé simple
+
+je nuisis
+tu nuisis
+il (elle) nuisit
+nous nuisîmes
+vous nuisîtes
+ils (elles) nuisirent
+
+** Futur simple
+
+je nuirai
+tu nuiras
+il (elle) nuira
+nous nuirons
+vous nuirez
+ils (elles) nuiront
+
+* CONDITIONNEL
+
+** Présent
+
+je nuirais
+tu nuirais
+il (elle) nuirait
+nous nuirions
+vous nuiriez
+ils (elles) nuiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nuise
+que tu nuises
+qu’il (elle) nuise
+que nous nuisions
+que vous nuisiez
+qu’ils (elles) nuisent
+
+** Imparfait
+
+que je nuisisse
+que tu nuisisses
+qu’il (elle) nuisît
+que nous nuisissions
+que vous nuisissiez
+qu’ils (elles) nuisissent
+
+* IMPÉRATIF
+
+** Présent
+
+nuis
+nuisons
+nuisez
+
+* INFINITIF
+
+** Présent
+
+nuire
+
+* PARTICIPE
+
+** Présent
+
+nuisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nui
+tu as nui
+il (elle) a nui
+nous avons nui
+vous avez nui
+ils (elles) ont nui
+
+** Plus-que-parfait
+
+j'avais nui
+tu avais nui
+il (elle) avait nui
+nous avions nui
+vous aviez nui
+ils (elles) avaient nui
+
+** Passé antérieur
+
+j'eus nui
+tu eus nui
+il (elle) eut nui
+nous eûmes nui
+vous eûtes nui
+ils (elles) eurent nui
+
+** Futur antérieur
+
+j'aurai nui
+tu auras nui
+il (elle) aura nui
+nous aurons nui
+vous aurez nui
+ils (elles) auront nui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nui
+tu aurais nui
+il (elle) aurait nui
+nous aurions nui
+vous auriez nui
+ils (elles) auraient nui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nui
+que tu aies nui
+qu’il (elle) ait nui
+que nous ayons nui
+que vous ayez nui
+qu’ils (elles) aient nui
+
+** Plus-que-parfait
+
+que j'eusse nui
+que tu eusses nui
+qu’il (elle) eût nui
+que nous eussions nui
+que vous eussiez nui
+qu’ils (elles) eussent nui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nui
+ayez nui
+
+* INFINITIF
+
+** Passé
+
+avoir nui
+
+* PARTICIPE
+
+** Passé
+
+ayant nui
+nui (invar.)

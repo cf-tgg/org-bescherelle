@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe devoir
+
+* INDICATIF
+
+** Présent
+
+je dois
+tu dois
+il (elle) doit
+nous devons
+vous devez
+ils (elles) doivent
+
+** Imparfait
+
+je devais
+tu devais
+il (elle) devait
+nous devions
+vous deviez
+ils (elles) devaient
+
+** Passé simple
+
+je dus
+tu dus
+il (elle) dut
+nous dûmes
+vous dûtes
+ils (elles) durent
+
+** Futur simple
+
+je devrai
+tu devras
+il (elle) devra
+nous devrons
+vous devrez
+ils (elles) devront
+
+* CONDITIONNEL
+
+** Présent
+
+je devrais
+tu devrais
+il (elle) devrait
+nous devrions
+vous devriez
+ils (elles) devraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je doive
+que tu doives
+qu’il (elle) doive
+que nous devions
+que vous deviez
+qu’ils (elles) doivent
+
+** Imparfait
+
+que je dusse
+que tu dusses
+qu’il (elle) dût
+que nous dussions
+que vous dussiez
+qu’ils (elles) dussent
+
+* IMPÉRATIF
+
+** Présent
+
+dois
+devons
+devez
+
+* INFINITIF
+
+** Présent
+
+devoir
+
+* PARTICIPE
+
+** Présent
+
+devant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dû
+tu as dû
+il (elle) a dû
+nous avons dû
+vous avez dû
+ils (elles) ont dû
+
+** Plus-que-parfait
+
+j'avais dû
+tu avais dû
+il (elle) avait dû
+nous avions dû
+vous aviez dû
+ils (elles) avaient dû
+
+** Passé antérieur
+
+j'eus dû
+tu eus dû
+il (elle) eut dû
+nous eûmes dû
+vous eûtes dû
+ils (elles) eurent dû
+
+** Futur antérieur
+
+j'aurai dû
+tu auras dû
+il (elle) aura dû
+nous aurons dû
+vous aurez dû
+ils (elles) auront dû
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dû
+tu aurais dû
+il (elle) aurait dû
+nous aurions dû
+vous auriez dû
+ils (elles) auraient dû
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dû
+que tu aies dû
+qu’il (elle) ait dû
+que nous ayons dû
+que vous ayez dû
+qu’ils (elles) aient dû
+
+** Plus-que-parfait
+
+que j'eusse dû
+que tu eusses dû
+qu’il (elle) eût dû
+que nous eussions dû
+que vous eussiez dû
+qu’ils (elles) eussent dû
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dû
+ayez dû
+
+* INFINITIF
+
+** Passé
+
+avoir dû
+
+* PARTICIPE
+
+** Passé
+
+ayant dû
+dû (û, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis dû (û, ue)
+tu es dû (û, ue)
+il (elle) est dû (û, ue)
+nous sommes du(e)s
+vous êtes du(e)s
+ils (elles) sont du(e)s
+
+** Imparfait
+
+j'étais dû (û, ue)
+tu étais dû (û, ue)
+il (elle) était dû (û, ue)
+nous étions du(e)s
+vous étiez du(e)s
+ils (elles) étaient du(e)s
+
+** Passé simple
+
+je fus dû (û, ue)
+tu fus dû (û, ue)
+il (elle) fut dû (û, ue)
+nous fûmes du(e)s
+vous fûtes du(e)s
+ils (elles) furent du(e)s
+
+** Futur simple
+
+je serai dû (û, ue)
+tu seras dû (û, ue)
+il (elle) sera dû (û, ue)
+nous serons du(e)s
+vous serez du(e)s
+ils (elles) seront du(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dû (û, ue)
+tu serais dû (û, ue)
+il (elle) serait dû (û, ue)
+nous serions du(e)s
+vous seriez du(e)s
+ils (elles) seraient du(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dû (û, ue)
+que tu sois dû (û, ue)
+qu’il (elle) soit dû (û, ue)
+que nous soyons du(e)s
+que vous soyez du(e)s
+qu’ils (elles) soient du(e)s
+
+** Imparfait
+
+que je fusse dû (û, ue)
+que tu fusses dû (û, ue)
+qu’il (elle) fût dû (û, ue)
+que nous fussions du(e)s
+que vous fussiez du(e)s
+qu’ils (elles) fussent du(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons du(e)s
+soyez du(e)s
+
+* INFINITIF
+
+** Présent
+
+être dû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Présent
+
+étant dû (û, ue, us, ues)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dû (û, ue)
+tu as été dû (û, ue)
+il (elle) a été dû (û, ue)
+nous avons été du(e)s
+vous avez été du(e)s
+ils (elles) ont été du(e)s
+
+** Plus-que-parfait
+
+j'avais été dû (û, ue)
+il (elle) avait été dû (û, ue)
+nous avions été du(e)s
+ils (elles) avaient été du(e)s
+
+** Passé antérieur
+
+j'eus été dû (û, ue)
+tu eus été dû (û, ue)
+il (elle) eut été dû (û, ue)
+nous eûmes été du(e)s
+vous eûtes été du(e)s
+ils (elles) eurent été du(e)s
+
+** Futur antérieur
+
+j'aurai été dû (û, ue)
+tu auras été dû (û, ue)
+il (elle) aura été dû (û, ue)
+nous aurons été du(e)s
+vous aurez été du(e)s
+ils (elles) auront été du(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dû (û, ue)
+j'aurais été dû (û, ue)
+il (elle) aurait été dû (û, ue)
+nous aurions été du(e)s
+vous auriez été du(e)s
+ils (elles) auraient été du(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dû (û, ue)
+que tu aies été dû (û, ue)
+qu’il (elle) ait été dû (û, ue)
+que nous ayons été du(e)s
+que vous ayez été du(e)s
+qu’ils (elles) aient été du(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dû (û, ue)
+que tu eusses été dû (û, ue)
+qu’il (elle) eût été dû (û, ue)
+que nous eussions été du(e)s
+que vous eussiez été du(e)s
+qu’ils (elles) eussent été du(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dû (û, ue)
+ayons été du(e)s
+ayez été du(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dû (û, ue, us, ues)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe patir
+
+* INDICATIF
+
+** Présent
+
+je pâtis
+tu pâtis
+il (elle) pâtit
+nous pâtissons
+vous pâtissez
+ils (elles) pâtissent
+
+** Imparfait
+
+je pâtissais
+tu pâtissais
+il (elle) pâtissait
+nous pâtissions
+vous pâtissiez
+ils (elles) pâtissaient
+
+** Passé simple
+
+je pâtis
+tu pâtis
+il (elle) pâtit
+nous pâtîmes
+vous pâtîtes
+ils (elles) pâtirent
+
+** Futur simple
+
+je pâtirai
+tu pâtiras
+il (elle) pâtira
+nous pâtirons
+vous pâtirez
+ils (elles) pâtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je pâtirais
+tu pâtirais
+il (elle) pâtirait
+nous pâtirions
+vous pâtiriez
+ils (elles) pâtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pâtisse
+que tu pâtisses
+qu’il (elle) pâtisse
+que nous pâtissions
+que vous pâtissiez
+qu’ils (elles) pâtissent
+
+** Imparfait
+
+que je pâtisse
+que tu pâtisses
+qu’il (elle) pâtît
+que nous pâtissions
+que vous pâtissiez
+qu’ils (elles) pâtissent
+
+* IMPÉRATIF
+
+** Présent
+
+pâtis
+pâtissons
+pâtissez
+
+* INFINITIF
+
+** Présent
+
+pâtir
+
+* PARTICIPE
+
+** Présent
+
+pâtissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pâti
+tu as pâti
+il (elle) a pâti
+nous avons pâti
+vous avez pâti
+ils (elles) ont pâti
+
+** Plus-que-parfait
+
+j'avais pâti
+tu avais pâti
+il (elle) avait pâti
+nous avions pâti
+vous aviez pâti
+ils (elles) avaient pâti
+
+** Passé antérieur
+
+j'eus pâti
+tu eus pâti
+il (elle) eut pâti
+nous eûmes pâti
+vous eûtes pâti
+ils (elles) eurent pâti
+
+** Futur antérieur
+
+j'aurai pâti
+tu auras pâti
+il (elle) aura pâti
+nous aurons pâti
+vous aurez pâti
+ils (elles) auront pâti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pâti
+tu aurais pâti
+il (elle) aurait pâti
+nous aurions pâti
+vous auriez pâti
+ils (elles) auraient pâti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pâti
+que tu aies pâti
+qu’il (elle) ait pâti
+que nous ayons pâti
+que vous ayez pâti
+qu’ils (elles) aient pâti
+
+** Plus-que-parfait
+
+que j'eusse pâti
+que tu eusses pâti
+qu’il (elle) eût pâti
+que nous eussions pâti
+que vous eussiez pâti
+qu’ils (elles) eussent pâti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pâti
+ayez pâti
+
+* INFINITIF
+
+** Passé
+
+avoir pâti
+
+* PARTICIPE
+
+** Passé
+
+ayant pâti
+pâti (invar.)

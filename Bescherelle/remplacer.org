@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe remplacer
+
+* INDICATIF
+
+** Présent
+
+je remplace
+tu remplaces
+il (elle) remplace
+nous remplaçons
+vous remplacez
+ils (elles) remplacent
+
+** Imparfait
+
+je remplaçais
+tu remplaçais
+il (elle) remplaçait
+nous remplacions
+vous remplaciez
+ils (elles) remplaçaient
+
+** Passé simple
+
+je remplaçai
+tu remplaças
+il (elle) remplaça
+nous remplaçâmes
+vous remplaçâtes
+ils (elles) remplacèrent
+
+** Futur simple
+
+je remplacerai
+tu remplaceras
+il (elle) remplacera
+nous remplacerons
+vous remplacerez
+ils (elles) remplaceront
+
+* CONDITIONNEL
+
+** Présent
+
+je remplacerais
+tu remplacerais
+il (elle) remplacerait
+nous remplacerions
+vous remplaceriez
+ils (elles) remplaceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je remplace
+que tu remplaces
+qu’il (elle) remplace
+que nous remplacions
+que vous remplaciez
+qu’ils (elles) remplacent
+
+** Imparfait
+
+que je remplaçasse
+que tu remplaçasses
+qu’il (elle) remplaçât
+que nous remplaçassions
+que vous remplaçassiez
+qu’ils (elles) remplaçassent
+
+* IMPÉRATIF
+
+** Présent
+
+remplace
+remplaçons
+remplacez
+
+* INFINITIF
+
+** Présent
+
+remplacer
+
+* PARTICIPE
+
+** Présent
+
+remplaçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai remplacé
+tu as remplacé
+il (elle) a remplacé
+nous avons remplacé
+vous avez remplacé
+ils (elles) ont remplacé
+
+** Plus-que-parfait
+
+j'avais remplacé
+tu avais remplacé
+il (elle) avait remplacé
+nous avions remplacé
+vous aviez remplacé
+ils (elles) avaient remplacé
+
+** Passé antérieur
+
+j'eus remplacé
+tu eus remplacé
+il (elle) eut remplacé
+nous eûmes remplacé
+vous eûtes remplacé
+ils (elles) eurent remplacé
+
+** Futur antérieur
+
+j'aurai remplacé
+tu auras remplacé
+il (elle) aura remplacé
+nous aurons remplacé
+vous aurez remplacé
+ils (elles) auront remplacé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais remplacé
+tu aurais remplacé
+il (elle) aurait remplacé
+nous aurions remplacé
+vous auriez remplacé
+ils (elles) auraient remplacé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie remplacé
+que tu aies remplacé
+qu’il (elle) ait remplacé
+que nous ayons remplacé
+que vous ayez remplacé
+qu’ils (elles) aient remplacé
+
+** Plus-que-parfait
+
+que j'eusse remplacé
+que tu eusses remplacé
+qu’il (elle) eût remplacé
+que nous eussions remplacé
+que vous eussiez remplacé
+qu’ils (elles) eussent remplacé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons remplacé
+ayez remplacé
+
+* INFINITIF
+
+** Passé
+
+avoir remplacé
+
+* PARTICIPE
+
+** Passé
+
+ayant remplacé
+remplacé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis remplacé(e)
+tu es remplacé(e)
+il (elle) est remplacé(e)
+nous sommes remplacé(e)s
+vous êtes remplacé(e)s
+ils (elles) sont remplacé(e)s
+
+** Imparfait
+
+j'étais remplacé(e)
+tu étais remplacé(e)
+il (elle) était remplacé(e)
+nous étions remplacé(e)s
+vous étiez remplacé(e)s
+ils (elles) étaient remplacé(e)s
+
+** Passé simple
+
+je fus remplacé(e)
+tu fus remplacé(e)
+il (elle) fut remplacé(e)
+nous fûmes remplacé(e)s
+vous fûtes remplacé(e)s
+ils (elles) furent remplacé(e)s
+
+** Futur simple
+
+je serai remplacé(e)
+tu seras remplacé(e)
+il (elle) sera remplacé(e)
+nous serons remplacé(e)s
+vous serez remplacé(e)s
+ils (elles) seront remplacé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais remplacé(e)
+tu serais remplacé(e)
+il (elle) serait remplacé(e)
+nous serions remplacé(e)s
+vous seriez remplacé(e)s
+ils (elles) seraient remplacé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois remplacé(e)
+que tu sois remplacé(e)
+qu’il (elle) soit remplacé(e)
+que nous soyons remplacé(e)s
+que vous soyez remplacé(e)s
+qu’ils (elles) soient remplacé(e)s
+
+** Imparfait
+
+que je fusse remplacé(e)
+que tu fusses remplacé(e)
+qu’il (elle) fût remplacé(e)
+que nous fussions remplacé(e)s
+que vous fussiez remplacé(e)s
+qu’ils (elles) fussent remplacé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons remplacé(e)s
+soyez remplacé(e)s
+
+* INFINITIF
+
+** Présent
+
+être remplacé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant remplacé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été remplacé(e)
+tu as été remplacé(e)
+il (elle) a été remplacé(e)
+nous avons été remplacé(e)s
+vous avez été remplacé(e)s
+ils (elles) ont été remplacé(e)s
+
+** Plus-que-parfait
+
+j'avais été remplacé(e)
+il (elle) avait été remplacé(e)
+nous avions été remplacé(e)s
+ils (elles) avaient été remplacé(e)s
+
+** Passé antérieur
+
+j'eus été remplacé(e)
+tu eus été remplacé(e)
+il (elle) eut été remplacé(e)
+nous eûmes été remplacé(e)s
+vous eûtes été remplacé(e)s
+ils (elles) eurent été remplacé(e)s
+
+** Futur antérieur
+
+j'aurai été remplacé(e)
+tu auras été remplacé(e)
+il (elle) aura été remplacé(e)
+nous aurons été remplacé(e)s
+vous aurez été remplacé(e)s
+ils (elles) auront été remplacé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été remplacé(e)
+j'aurais été remplacé(e)
+il (elle) aurait été remplacé(e)
+nous aurions été remplacé(e)s
+vous auriez été remplacé(e)s
+ils (elles) auraient été remplacé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été remplacé(e)
+que tu aies été remplacé(e)
+qu’il (elle) ait été remplacé(e)
+que nous ayons été remplacé(e)s
+que vous ayez été remplacé(e)s
+qu’ils (elles) aient été remplacé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été remplacé(e)
+que tu eusses été remplacé(e)
+qu’il (elle) eût été remplacé(e)
+que nous eussions été remplacé(e)s
+que vous eussiez été remplacé(e)s
+qu’ils (elles) eussent été remplacé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été remplacé(e)
+ayons été remplacé(e)s
+ayez été remplacé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été remplacé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été remplacé(e)(s)

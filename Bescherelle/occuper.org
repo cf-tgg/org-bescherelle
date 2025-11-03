@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe occuper
+
+* INDICATIF
+
+** Présent
+
+j'occupe
+tu occupes
+il (elle) occupe
+nous occupons
+vous occupez
+ils (elles) occupent
+
+** Imparfait
+
+j'occupais
+tu occupais
+il (elle) occupait
+nous occupions
+vous occupiez
+ils (elles) occupaient
+
+** Passé simple
+
+j'occupai
+tu occupas
+il (elle) occupa
+nous occupâmes
+vous occupâtes
+ils (elles) occupèrent
+
+** Futur simple
+
+j'occuperai
+tu occuperas
+il (elle) occupera
+nous occuperons
+vous occuperez
+ils (elles) occuperont
+
+* CONDITIONNEL
+
+** Présent
+
+j'occuperais
+tu occuperais
+il (elle) occuperait
+nous occuperions
+vous occuperiez
+ils (elles) occuperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'occupe
+que tu occupes
+qu’il (elle) occupe
+que nous occupions
+que vous occupiez
+qu’ils (elles) occupent
+
+** Imparfait
+
+que j'occupasse
+que tu occupasses
+qu’il (elle) occupât
+que nous occupassions
+que vous occupassiez
+qu’ils (elles) occupassent
+
+* IMPÉRATIF
+
+** Présent
+
+occupe
+occupons
+occupez
+
+* INFINITIF
+
+** Présent
+
+occuper
+
+* PARTICIPE
+
+** Présent
+
+occupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai occupé
+tu as occupé
+il (elle) a occupé
+nous avons occupé
+vous avez occupé
+ils (elles) ont occupé
+
+** Plus-que-parfait
+
+j'avais occupé
+tu avais occupé
+il (elle) avait occupé
+nous avions occupé
+vous aviez occupé
+ils (elles) avaient occupé
+
+** Passé antérieur
+
+j'eus occupé
+tu eus occupé
+il (elle) eut occupé
+nous eûmes occupé
+vous eûtes occupé
+ils (elles) eurent occupé
+
+** Futur antérieur
+
+j'aurai occupé
+tu auras occupé
+il (elle) aura occupé
+nous aurons occupé
+vous aurez occupé
+ils (elles) auront occupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais occupé
+tu aurais occupé
+il (elle) aurait occupé
+nous aurions occupé
+vous auriez occupé
+ils (elles) auraient occupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie occupé
+que tu aies occupé
+qu’il (elle) ait occupé
+que nous ayons occupé
+que vous ayez occupé
+qu’ils (elles) aient occupé
+
+** Plus-que-parfait
+
+que j'eusse occupé
+que tu eusses occupé
+qu’il (elle) eût occupé
+que nous eussions occupé
+que vous eussiez occupé
+qu’ils (elles) eussent occupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons occupé
+ayez occupé
+
+* INFINITIF
+
+** Passé
+
+avoir occupé
+
+* PARTICIPE
+
+** Passé
+
+ayant occupé
+occupé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis occupé(e)
+tu es occupé(e)
+il (elle) est occupé(e)
+nous sommes occupé(e)s
+vous êtes occupé(e)s
+ils (elles) sont occupé(e)s
+
+** Imparfait
+
+j'étais occupé(e)
+tu étais occupé(e)
+il (elle) était occupé(e)
+nous étions occupé(e)s
+vous étiez occupé(e)s
+ils (elles) étaient occupé(e)s
+
+** Passé simple
+
+je fus occupé(e)
+tu fus occupé(e)
+il (elle) fut occupé(e)
+nous fûmes occupé(e)s
+vous fûtes occupé(e)s
+ils (elles) furent occupé(e)s
+
+** Futur simple
+
+je serai occupé(e)
+tu seras occupé(e)
+il (elle) sera occupé(e)
+nous serons occupé(e)s
+vous serez occupé(e)s
+ils (elles) seront occupé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais occupé(e)
+tu serais occupé(e)
+il (elle) serait occupé(e)
+nous serions occupé(e)s
+vous seriez occupé(e)s
+ils (elles) seraient occupé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois occupé(e)
+que tu sois occupé(e)
+qu’il (elle) soit occupé(e)
+que nous soyons occupé(e)s
+que vous soyez occupé(e)s
+qu’ils (elles) soient occupé(e)s
+
+** Imparfait
+
+que je fusse occupé(e)
+que tu fusses occupé(e)
+qu’il (elle) fût occupé(e)
+que nous fussions occupé(e)s
+que vous fussiez occupé(e)s
+qu’ils (elles) fussent occupé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons occupé(e)s
+soyez occupé(e)s
+
+* INFINITIF
+
+** Présent
+
+être occupé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant occupé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été occupé(e)
+tu as été occupé(e)
+il (elle) a été occupé(e)
+nous avons été occupé(e)s
+vous avez été occupé(e)s
+ils (elles) ont été occupé(e)s
+
+** Plus-que-parfait
+
+j'avais été occupé(e)
+il (elle) avait été occupé(e)
+nous avions été occupé(e)s
+ils (elles) avaient été occupé(e)s
+
+** Passé antérieur
+
+j'eus été occupé(e)
+tu eus été occupé(e)
+il (elle) eut été occupé(e)
+nous eûmes été occupé(e)s
+vous eûtes été occupé(e)s
+ils (elles) eurent été occupé(e)s
+
+** Futur antérieur
+
+j'aurai été occupé(e)
+tu auras été occupé(e)
+il (elle) aura été occupé(e)
+nous aurons été occupé(e)s
+vous aurez été occupé(e)s
+ils (elles) auront été occupé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été occupé(e)
+j'aurais été occupé(e)
+il (elle) aurait été occupé(e)
+nous aurions été occupé(e)s
+vous auriez été occupé(e)s
+ils (elles) auraient été occupé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été occupé(e)
+que tu aies été occupé(e)
+qu’il (elle) ait été occupé(e)
+que nous ayons été occupé(e)s
+que vous ayez été occupé(e)s
+qu’ils (elles) aient été occupé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été occupé(e)
+que tu eusses été occupé(e)
+qu’il (elle) eût été occupé(e)
+que nous eussions été occupé(e)s
+que vous eussiez été occupé(e)s
+qu’ils (elles) eussent été occupé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été occupé(e)
+ayons été occupé(e)s
+ayez été occupé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été occupé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été occupé(e)(s)

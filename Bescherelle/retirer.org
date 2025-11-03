@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe retirer
+
+* INDICATIF
+
+** Présent
+
+je retire
+tu retires
+il (elle) retire
+nous retirons
+vous retirez
+ils (elles) retirent
+
+** Imparfait
+
+je retirais
+tu retirais
+il (elle) retirait
+nous retirions
+vous retiriez
+ils (elles) retiraient
+
+** Passé simple
+
+je retirai
+tu retiras
+il (elle) retira
+nous retirâmes
+vous retirâtes
+ils (elles) retirèrent
+
+** Futur simple
+
+je retirerai
+tu retireras
+il (elle) retirera
+nous retirerons
+vous retirerez
+ils (elles) retireront
+
+* CONDITIONNEL
+
+** Présent
+
+je retirerais
+tu retirerais
+il (elle) retirerait
+nous retirerions
+vous retireriez
+ils (elles) retireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retire
+que tu retires
+qu’il (elle) retire
+que nous retirions
+que vous retiriez
+qu’ils (elles) retirent
+
+** Imparfait
+
+que je retirasse
+que tu retirasses
+qu’il (elle) retirât
+que nous retirassions
+que vous retirassiez
+qu’ils (elles) retirassent
+
+* IMPÉRATIF
+
+** Présent
+
+retire
+retirons
+retirez
+
+* INFINITIF
+
+** Présent
+
+retirer
+
+* PARTICIPE
+
+** Présent
+
+retirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retiré
+tu as retiré
+il (elle) a retiré
+nous avons retiré
+vous avez retiré
+ils (elles) ont retiré
+
+** Plus-que-parfait
+
+j'avais retiré
+tu avais retiré
+il (elle) avait retiré
+nous avions retiré
+vous aviez retiré
+ils (elles) avaient retiré
+
+** Passé antérieur
+
+j'eus retiré
+tu eus retiré
+il (elle) eut retiré
+nous eûmes retiré
+vous eûtes retiré
+ils (elles) eurent retiré
+
+** Futur antérieur
+
+j'aurai retiré
+tu auras retiré
+il (elle) aura retiré
+nous aurons retiré
+vous aurez retiré
+ils (elles) auront retiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retiré
+tu aurais retiré
+il (elle) aurait retiré
+nous aurions retiré
+vous auriez retiré
+ils (elles) auraient retiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retiré
+que tu aies retiré
+qu’il (elle) ait retiré
+que nous ayons retiré
+que vous ayez retiré
+qu’ils (elles) aient retiré
+
+** Plus-que-parfait
+
+que j'eusse retiré
+que tu eusses retiré
+qu’il (elle) eût retiré
+que nous eussions retiré
+que vous eussiez retiré
+qu’ils (elles) eussent retiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retiré
+ayez retiré
+
+* INFINITIF
+
+** Passé
+
+avoir retiré
+
+* PARTICIPE
+
+** Passé
+
+ayant retiré
+retiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis retiré(e)
+tu es retiré(e)
+il (elle) est retiré(e)
+nous sommes retiré(e)s
+vous êtes retiré(e)s
+ils (elles) sont retiré(e)s
+
+** Imparfait
+
+j'étais retiré(e)
+tu étais retiré(e)
+il (elle) était retiré(e)
+nous étions retiré(e)s
+vous étiez retiré(e)s
+ils (elles) étaient retiré(e)s
+
+** Passé simple
+
+je fus retiré(e)
+tu fus retiré(e)
+il (elle) fut retiré(e)
+nous fûmes retiré(e)s
+vous fûtes retiré(e)s
+ils (elles) furent retiré(e)s
+
+** Futur simple
+
+je serai retiré(e)
+tu seras retiré(e)
+il (elle) sera retiré(e)
+nous serons retiré(e)s
+vous serez retiré(e)s
+ils (elles) seront retiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais retiré(e)
+tu serais retiré(e)
+il (elle) serait retiré(e)
+nous serions retiré(e)s
+vous seriez retiré(e)s
+ils (elles) seraient retiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois retiré(e)
+que tu sois retiré(e)
+qu’il (elle) soit retiré(e)
+que nous soyons retiré(e)s
+que vous soyez retiré(e)s
+qu’ils (elles) soient retiré(e)s
+
+** Imparfait
+
+que je fusse retiré(e)
+que tu fusses retiré(e)
+qu’il (elle) fût retiré(e)
+que nous fussions retiré(e)s
+que vous fussiez retiré(e)s
+qu’ils (elles) fussent retiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons retiré(e)s
+soyez retiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être retiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant retiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été retiré(e)
+tu as été retiré(e)
+il (elle) a été retiré(e)
+nous avons été retiré(e)s
+vous avez été retiré(e)s
+ils (elles) ont été retiré(e)s
+
+** Plus-que-parfait
+
+j'avais été retiré(e)
+il (elle) avait été retiré(e)
+nous avions été retiré(e)s
+ils (elles) avaient été retiré(e)s
+
+** Passé antérieur
+
+j'eus été retiré(e)
+tu eus été retiré(e)
+il (elle) eut été retiré(e)
+nous eûmes été retiré(e)s
+vous eûtes été retiré(e)s
+ils (elles) eurent été retiré(e)s
+
+** Futur antérieur
+
+j'aurai été retiré(e)
+tu auras été retiré(e)
+il (elle) aura été retiré(e)
+nous aurons été retiré(e)s
+vous aurez été retiré(e)s
+ils (elles) auront été retiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été retiré(e)
+j'aurais été retiré(e)
+il (elle) aurait été retiré(e)
+nous aurions été retiré(e)s
+vous auriez été retiré(e)s
+ils (elles) auraient été retiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été retiré(e)
+que tu aies été retiré(e)
+qu’il (elle) ait été retiré(e)
+que nous ayons été retiré(e)s
+que vous ayez été retiré(e)s
+qu’ils (elles) aient été retiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été retiré(e)
+que tu eusses été retiré(e)
+qu’il (elle) eût été retiré(e)
+que nous eussions été retiré(e)s
+que vous eussiez été retiré(e)s
+qu’ils (elles) eussent été retiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été retiré(e)
+ayons été retiré(e)s
+ayez été retiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été retiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été retiré(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe faillir
+
+* INDICATIF
+
+** Présent
+
+je faillis / faux
+tu faillis / faux
+il (elle) faillit / faut
+nous faillissons / faillons
+vous faillez / faillissez
+ils (elles) faillent / faillissent
+
+** Imparfait
+
+je faillais / faillissais
+tu faillais / faillissais
+il (elle) faillait / faillissait
+nous faillions / faillissions
+vous failliez / faillissiez
+ils (elles) faillaient / faillissaient
+
+** Passé simple
+
+je faillis
+tu faillis
+il (elle) faillit
+nous faillîmes
+vous faillîtes
+ils (elles) faillirent
+
+** Futur simple
+
+je faillirai / faudrai
+tu failliras / faudras
+il (elle) faillira / faudra
+nous faillirons / faudrons
+vous faillirez / faudrez
+ils (elles) failliront / faudront
+
+* CONDITIONNEL
+
+** Présent
+
+je faillirais / faudrais
+tu faillirais / faudrais
+il (elle) faillirait / faudrait
+nous faillirions / faudrions
+vous failliriez / faudriez
+ils (elles) failliraient / faudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je faillisse
+que tu faillisses
+qu’il (elle) faillisse
+que nous faillissions
+que vous faillissiez
+qu’ils (elles) faillissent
+
+** Imparfait
+
+que je faillisse
+que tu faillisses
+qu’il (elle) faillît
+que nous faillissions
+que vous faillissiez
+qu’ils (elles) faillissent
+
+* IMPÉRATIF
+
+** Présent
+
+faillis / faux
+faillissons / faillons
+faillez / faillissez
+
+* INFINITIF
+
+** Présent
+
+faillir
+
+* PARTICIPE
+
+** Présent
+
+faillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai failli
+tu as failli
+il (elle) a failli
+nous avons failli
+vous avez failli
+ils (elles) ont failli
+
+** Plus-que-parfait
+
+j'avais failli
+tu avais failli
+il (elle) avait failli
+nous avions failli
+vous aviez failli
+ils (elles) avaient failli
+
+** Passé antérieur
+
+j'eus failli
+tu eus failli
+il (elle) eut failli
+nous eûmes failli
+vous eûtes failli
+ils (elles) eurent failli
+
+** Futur antérieur
+
+j'aurai failli
+tu auras failli
+il (elle) aura failli
+nous aurons failli
+vous aurez failli
+ils (elles) auront failli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais failli
+tu aurais failli
+il (elle) aurait failli
+nous aurions failli
+vous auriez failli
+ils (elles) auraient failli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie failli
+que tu aies failli
+qu’il (elle) ait failli
+que nous ayons failli
+que vous ayez failli
+qu’ils (elles) aient failli
+
+** Plus-que-parfait
+
+que j'eusse failli
+que tu eusses failli
+qu’il (elle) eût failli
+que nous eussions failli
+que vous eussiez failli
+qu’ils (elles) eussent failli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons failli
+ayez failli
+
+* INFINITIF
+
+** Passé
+
+avoir failli
+
+* PARTICIPE
+
+** Passé
+
+ayant failli
+failli (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cuire
+
+* INDICATIF
+
+** Présent
+
+je cuis
+tu cuis
+il (elle) cuit
+nous cuisons
+vous cuisez
+ils (elles) cuisent
+
+** Imparfait
+
+je cuisais
+tu cuisais
+il (elle) cuisait
+nous cuisions
+vous cuisiez
+ils (elles) cuisaient
+
+** Passé simple
+
+je cuisis
+tu cuisis
+il (elle) cuisit
+nous cuisîmes
+vous cuisîtes
+ils (elles) cuisirent
+
+** Futur simple
+
+je cuirai
+tu cuiras
+il (elle) cuira
+nous cuirons
+vous cuirez
+ils (elles) cuiront
+
+* CONDITIONNEL
+
+** Présent
+
+je cuirais
+tu cuirais
+il (elle) cuirait
+nous cuirions
+vous cuiriez
+ils (elles) cuiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cuise
+que tu cuises
+qu’il (elle) cuise
+que nous cuisions
+que vous cuisiez
+qu’ils (elles) cuisent
+
+** Imparfait
+
+que je cuisisse
+que tu cuisisses
+qu’il (elle) cuisît
+que nous cuisissions
+que vous cuisissiez
+qu’ils (elles) cuisissent
+
+* IMPÉRATIF
+
+** Présent
+
+cuis
+cuisons
+cuisez
+
+* INFINITIF
+
+** Présent
+
+cuire
+
+* PARTICIPE
+
+** Présent
+
+cuisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cuit
+tu as cuit
+il (elle) a cuit
+nous avons cuit
+vous avez cuit
+ils (elles) ont cuit
+
+** Plus-que-parfait
+
+j'avais cuit
+tu avais cuit
+il (elle) avait cuit
+nous avions cuit
+vous aviez cuit
+ils (elles) avaient cuit
+
+** Passé antérieur
+
+j'eus cuit
+tu eus cuit
+il (elle) eut cuit
+nous eûmes cuit
+vous eûtes cuit
+ils (elles) eurent cuit
+
+** Futur antérieur
+
+j'aurai cuit
+tu auras cuit
+il (elle) aura cuit
+nous aurons cuit
+vous aurez cuit
+ils (elles) auront cuit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cuit
+tu aurais cuit
+il (elle) aurait cuit
+nous aurions cuit
+vous auriez cuit
+ils (elles) auraient cuit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cuit
+que tu aies cuit
+qu’il (elle) ait cuit
+que nous ayons cuit
+que vous ayez cuit
+qu’ils (elles) aient cuit
+
+** Plus-que-parfait
+
+que j'eusse cuit
+que tu eusses cuit
+qu’il (elle) eût cuit
+que nous eussions cuit
+que vous eussiez cuit
+qu’ils (elles) eussent cuit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cuit
+ayez cuit
+
+* INFINITIF
+
+** Passé
+
+avoir cuit
+
+* PARTICIPE
+
+** Passé
+
+ayant cuit
+cuit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis cuit(e)
+tu es cuit(e)
+il (elle) est cuit(e)
+nous sommes cuit(e)s
+vous êtes cuit(e)s
+ils (elles) sont cuit(e)s
+
+** Imparfait
+
+j'étais cuit(e)
+tu étais cuit(e)
+il (elle) était cuit(e)
+nous étions cuit(e)s
+vous étiez cuit(e)s
+ils (elles) étaient cuit(e)s
+
+** Passé simple
+
+je fus cuit(e)
+tu fus cuit(e)
+il (elle) fut cuit(e)
+nous fûmes cuit(e)s
+vous fûtes cuit(e)s
+ils (elles) furent cuit(e)s
+
+** Futur simple
+
+je serai cuit(e)
+tu seras cuit(e)
+il (elle) sera cuit(e)
+nous serons cuit(e)s
+vous serez cuit(e)s
+ils (elles) seront cuit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cuit(e)
+tu serais cuit(e)
+il (elle) serait cuit(e)
+nous serions cuit(e)s
+vous seriez cuit(e)s
+ils (elles) seraient cuit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cuit(e)
+que tu sois cuit(e)
+qu’il (elle) soit cuit(e)
+que nous soyons cuit(e)s
+que vous soyez cuit(e)s
+qu’ils (elles) soient cuit(e)s
+
+** Imparfait
+
+que je fusse cuit(e)
+que tu fusses cuit(e)
+qu’il (elle) fût cuit(e)
+que nous fussions cuit(e)s
+que vous fussiez cuit(e)s
+qu’ils (elles) fussent cuit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cuit(e)s
+soyez cuit(e)s
+
+* INFINITIF
+
+** Présent
+
+être cuit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cuit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cuit(e)
+tu as été cuit(e)
+il (elle) a été cuit(e)
+nous avons été cuit(e)s
+vous avez été cuit(e)s
+ils (elles) ont été cuit(e)s
+
+** Plus-que-parfait
+
+j'avais été cuit(e)
+il (elle) avait été cuit(e)
+nous avions été cuit(e)s
+ils (elles) avaient été cuit(e)s
+
+** Passé antérieur
+
+j'eus été cuit(e)
+tu eus été cuit(e)
+il (elle) eut été cuit(e)
+nous eûmes été cuit(e)s
+vous eûtes été cuit(e)s
+ils (elles) eurent été cuit(e)s
+
+** Futur antérieur
+
+j'aurai été cuit(e)
+tu auras été cuit(e)
+il (elle) aura été cuit(e)
+nous aurons été cuit(e)s
+vous aurez été cuit(e)s
+ils (elles) auront été cuit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cuit(e)
+j'aurais été cuit(e)
+il (elle) aurait été cuit(e)
+nous aurions été cuit(e)s
+vous auriez été cuit(e)s
+ils (elles) auraient été cuit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cuit(e)
+que tu aies été cuit(e)
+qu’il (elle) ait été cuit(e)
+que nous ayons été cuit(e)s
+que vous ayez été cuit(e)s
+qu’ils (elles) aient été cuit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cuit(e)
+que tu eusses été cuit(e)
+qu’il (elle) eût été cuit(e)
+que nous eussions été cuit(e)s
+que vous eussiez été cuit(e)s
+qu’ils (elles) eussent été cuit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cuit(e)
+ayons été cuit(e)s
+ayez été cuit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cuit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cuit(e)(s)

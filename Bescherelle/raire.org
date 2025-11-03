@@ -1,0 +1,161 @@
+#+title: Conjugaison du verbe raire
+
+* INDICATIF
+
+** Présent
+
+je rais
+tu rais
+il (elle) rait
+nous rayons
+vous rayez
+ils (elles) raient
+
+** Imparfait
+
+je rayais
+tu rayais
+il (elle) rayait
+nous rayions
+vous rayiez
+ils (elles) rayaient
+
+** Futur simple
+
+je rairai
+tu rairas
+il (elle) raira
+nous rairons
+vous rairez
+ils (elles) rairont
+
+* CONDITIONNEL
+
+** Présent
+
+je rairais
+tu rairais
+il (elle) rairait
+nous rairions
+vous rairiez
+ils (elles) rairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je raie
+que tu raies
+qu’il (elle) raie
+que nous rayions
+que vous rayiez
+qu’ils (elles) raient
+
+* IMPÉRATIF
+
+** Présent
+
+rais
+rayons
+rayez
+
+* INFINITIF
+
+** Présent
+
+raire
+
+* PARTICIPE
+
+** Présent
+
+rayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rait
+tu as rait
+il (elle) a rait
+nous avons rait
+vous avez rait
+ils (elles) ont rait
+
+** Plus-que-parfait
+
+j'avais rait
+tu avais rait
+il (elle) avait rait
+nous avions rait
+vous aviez rait
+ils (elles) avaient rait
+
+** Passé antérieur
+
+j'eus rait
+tu eus rait
+il (elle) eut rait
+nous eûmes rait
+vous eûtes rait
+ils (elles) eurent rait
+
+** Futur antérieur
+
+j'aurai rait
+tu auras rait
+il (elle) aura rait
+nous aurons rait
+vous aurez rait
+ils (elles) auront rait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rait
+tu aurais rait
+il (elle) aurait rait
+nous aurions rait
+vous auriez rait
+ils (elles) auraient rait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rait
+que tu aies rait
+qu’il (elle) ait rait
+que nous ayons rait
+que vous ayez rait
+qu’ils (elles) aient rait
+
+** Plus-que-parfait
+
+que j'eusse rait
+que tu eusses rait
+qu’il (elle) eût rait
+que nous eussions rait
+que vous eussiez rait
+qu’ils (elles) eussent rait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rait
+ayez rait
+
+* INFINITIF
+
+** Passé
+
+avoir rait
+
+* PARTICIPE
+
+** Passé
+
+ayant rait
+rait (invar.)

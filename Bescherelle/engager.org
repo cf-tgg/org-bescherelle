@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe engager
+
+* INDICATIF
+
+** Présent
+
+j'engage
+tu engages
+il (elle) engage
+nous engageons
+vous engagez
+ils (elles) engagent
+
+** Imparfait
+
+j'engageais
+tu engageais
+il (elle) engageait
+nous engagions
+vous engagiez
+ils (elles) engageaient
+
+** Passé simple
+
+j'engageai
+tu engageas
+il (elle) engagea
+nous engageâmes
+vous engageâtes
+ils (elles) engagèrent
+
+** Futur simple
+
+j'engagerai
+tu engageras
+il (elle) engagera
+nous engagerons
+vous engagerez
+ils (elles) engageront
+
+* CONDITIONNEL
+
+** Présent
+
+j'engagerais
+tu engagerais
+il (elle) engagerait
+nous engagerions
+vous engageriez
+ils (elles) engageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'engage
+que tu engages
+qu’il (elle) engage
+que nous engagions
+que vous engagiez
+qu’ils (elles) engagent
+
+** Imparfait
+
+que j'engageasse
+que tu engageasses
+qu’il (elle) engageât
+que nous engageassions
+que vous engageassiez
+qu’ils (elles) engageassent
+
+* IMPÉRATIF
+
+** Présent
+
+engage
+engageons
+engagez
+
+* INFINITIF
+
+** Présent
+
+engager
+
+* PARTICIPE
+
+** Présent
+
+engageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai engagé
+tu as engagé
+il (elle) a engagé
+nous avons engagé
+vous avez engagé
+ils (elles) ont engagé
+
+** Plus-que-parfait
+
+j'avais engagé
+tu avais engagé
+il (elle) avait engagé
+nous avions engagé
+vous aviez engagé
+ils (elles) avaient engagé
+
+** Passé antérieur
+
+j'eus engagé
+tu eus engagé
+il (elle) eut engagé
+nous eûmes engagé
+vous eûtes engagé
+ils (elles) eurent engagé
+
+** Futur antérieur
+
+j'aurai engagé
+tu auras engagé
+il (elle) aura engagé
+nous aurons engagé
+vous aurez engagé
+ils (elles) auront engagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais engagé
+tu aurais engagé
+il (elle) aurait engagé
+nous aurions engagé
+vous auriez engagé
+ils (elles) auraient engagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie engagé
+que tu aies engagé
+qu’il (elle) ait engagé
+que nous ayons engagé
+que vous ayez engagé
+qu’ils (elles) aient engagé
+
+** Plus-que-parfait
+
+que j'eusse engagé
+que tu eusses engagé
+qu’il (elle) eût engagé
+que nous eussions engagé
+que vous eussiez engagé
+qu’ils (elles) eussent engagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons engagé
+ayez engagé
+
+* INFINITIF
+
+** Passé
+
+avoir engagé
+
+* PARTICIPE
+
+** Passé
+
+ayant engagé
+engagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis engagé(e)
+tu es engagé(e)
+il (elle) est engagé(e)
+nous sommes engagé(e)s
+vous êtes engagé(e)s
+ils (elles) sont engagé(e)s
+
+** Imparfait
+
+j'étais engagé(e)
+tu étais engagé(e)
+il (elle) était engagé(e)
+nous étions engagé(e)s
+vous étiez engagé(e)s
+ils (elles) étaient engagé(e)s
+
+** Passé simple
+
+je fus engagé(e)
+tu fus engagé(e)
+il (elle) fut engagé(e)
+nous fûmes engagé(e)s
+vous fûtes engagé(e)s
+ils (elles) furent engagé(e)s
+
+** Futur simple
+
+je serai engagé(e)
+tu seras engagé(e)
+il (elle) sera engagé(e)
+nous serons engagé(e)s
+vous serez engagé(e)s
+ils (elles) seront engagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais engagé(e)
+tu serais engagé(e)
+il (elle) serait engagé(e)
+nous serions engagé(e)s
+vous seriez engagé(e)s
+ils (elles) seraient engagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois engagé(e)
+que tu sois engagé(e)
+qu’il (elle) soit engagé(e)
+que nous soyons engagé(e)s
+que vous soyez engagé(e)s
+qu’ils (elles) soient engagé(e)s
+
+** Imparfait
+
+que je fusse engagé(e)
+que tu fusses engagé(e)
+qu’il (elle) fût engagé(e)
+que nous fussions engagé(e)s
+que vous fussiez engagé(e)s
+qu’ils (elles) fussent engagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons engagé(e)s
+soyez engagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être engagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant engagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été engagé(e)
+tu as été engagé(e)
+il (elle) a été engagé(e)
+nous avons été engagé(e)s
+vous avez été engagé(e)s
+ils (elles) ont été engagé(e)s
+
+** Plus-que-parfait
+
+j'avais été engagé(e)
+il (elle) avait été engagé(e)
+nous avions été engagé(e)s
+ils (elles) avaient été engagé(e)s
+
+** Passé antérieur
+
+j'eus été engagé(e)
+tu eus été engagé(e)
+il (elle) eut été engagé(e)
+nous eûmes été engagé(e)s
+vous eûtes été engagé(e)s
+ils (elles) eurent été engagé(e)s
+
+** Futur antérieur
+
+j'aurai été engagé(e)
+tu auras été engagé(e)
+il (elle) aura été engagé(e)
+nous aurons été engagé(e)s
+vous aurez été engagé(e)s
+ils (elles) auront été engagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été engagé(e)
+j'aurais été engagé(e)
+il (elle) aurait été engagé(e)
+nous aurions été engagé(e)s
+vous auriez été engagé(e)s
+ils (elles) auraient été engagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été engagé(e)
+que tu aies été engagé(e)
+qu’il (elle) ait été engagé(e)
+que nous ayons été engagé(e)s
+que vous ayez été engagé(e)s
+qu’ils (elles) aient été engagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été engagé(e)
+que tu eusses été engagé(e)
+qu’il (elle) eût été engagé(e)
+que nous eussions été engagé(e)s
+que vous eussiez été engagé(e)s
+qu’ils (elles) eussent été engagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été engagé(e)
+ayons été engagé(e)s
+ayez été engagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été engagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été engagé(e)(s)

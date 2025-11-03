@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe convertir
+
+* INDICATIF
+
+** Présent
+
+je convertis
+tu convertis
+il (elle) convertit
+nous convertissons
+vous convertissez
+ils (elles) convertissent
+
+** Imparfait
+
+je convertissais
+tu convertissais
+il (elle) convertissait
+nous convertissions
+vous convertissiez
+ils (elles) convertissaient
+
+** Passé simple
+
+je convertis
+tu convertis
+il (elle) convertit
+nous convertîmes
+vous convertîtes
+ils (elles) convertirent
+
+** Futur simple
+
+je convertirai
+tu convertiras
+il (elle) convertira
+nous convertirons
+vous convertirez
+ils (elles) convertiront
+
+* CONDITIONNEL
+
+** Présent
+
+je convertirais
+tu convertirais
+il (elle) convertirait
+nous convertirions
+vous convertiriez
+ils (elles) convertiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je convertisse
+que tu convertisses
+qu’il (elle) convertisse
+que nous convertissions
+que vous convertissiez
+qu’ils (elles) convertissent
+
+** Imparfait
+
+que je convertisse
+que tu convertisses
+qu’il (elle) convertît
+que nous convertissions
+que vous convertissiez
+qu’ils (elles) convertissent
+
+* IMPÉRATIF
+
+** Présent
+
+convertis
+convertissons
+convertissez
+
+* INFINITIF
+
+** Présent
+
+convertir
+
+* PARTICIPE
+
+** Présent
+
+convertissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai converti
+tu as converti
+il (elle) a converti
+nous avons converti
+vous avez converti
+ils (elles) ont converti
+
+** Plus-que-parfait
+
+j'avais converti
+tu avais converti
+il (elle) avait converti
+nous avions converti
+vous aviez converti
+ils (elles) avaient converti
+
+** Passé antérieur
+
+j'eus converti
+tu eus converti
+il (elle) eut converti
+nous eûmes converti
+vous eûtes converti
+ils (elles) eurent converti
+
+** Futur antérieur
+
+j'aurai converti
+tu auras converti
+il (elle) aura converti
+nous aurons converti
+vous aurez converti
+ils (elles) auront converti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais converti
+tu aurais converti
+il (elle) aurait converti
+nous aurions converti
+vous auriez converti
+ils (elles) auraient converti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie converti
+que tu aies converti
+qu’il (elle) ait converti
+que nous ayons converti
+que vous ayez converti
+qu’ils (elles) aient converti
+
+** Plus-que-parfait
+
+que j'eusse converti
+que tu eusses converti
+qu’il (elle) eût converti
+que nous eussions converti
+que vous eussiez converti
+qu’ils (elles) eussent converti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons converti
+ayez converti
+
+* INFINITIF
+
+** Passé
+
+avoir converti
+
+* PARTICIPE
+
+** Passé
+
+ayant converti
+converti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis converti(e)
+tu es converti(e)
+il (elle) est converti(e)
+nous sommes converti(e)s
+vous êtes converti(e)s
+ils (elles) sont converti(e)s
+
+** Imparfait
+
+j'étais converti(e)
+tu étais converti(e)
+il (elle) était converti(e)
+nous étions converti(e)s
+vous étiez converti(e)s
+ils (elles) étaient converti(e)s
+
+** Passé simple
+
+je fus converti(e)
+tu fus converti(e)
+il (elle) fut converti(e)
+nous fûmes converti(e)s
+vous fûtes converti(e)s
+ils (elles) furent converti(e)s
+
+** Futur simple
+
+je serai converti(e)
+tu seras converti(e)
+il (elle) sera converti(e)
+nous serons converti(e)s
+vous serez converti(e)s
+ils (elles) seront converti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais converti(e)
+tu serais converti(e)
+il (elle) serait converti(e)
+nous serions converti(e)s
+vous seriez converti(e)s
+ils (elles) seraient converti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois converti(e)
+que tu sois converti(e)
+qu’il (elle) soit converti(e)
+que nous soyons converti(e)s
+que vous soyez converti(e)s
+qu’ils (elles) soient converti(e)s
+
+** Imparfait
+
+que je fusse converti(e)
+que tu fusses converti(e)
+qu’il (elle) fût converti(e)
+que nous fussions converti(e)s
+que vous fussiez converti(e)s
+qu’ils (elles) fussent converti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons converti(e)s
+soyez converti(e)s
+
+* INFINITIF
+
+** Présent
+
+être converti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant converti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été converti(e)
+tu as été converti(e)
+il (elle) a été converti(e)
+nous avons été converti(e)s
+vous avez été converti(e)s
+ils (elles) ont été converti(e)s
+
+** Plus-que-parfait
+
+j'avais été converti(e)
+il (elle) avait été converti(e)
+nous avions été converti(e)s
+ils (elles) avaient été converti(e)s
+
+** Passé antérieur
+
+j'eus été converti(e)
+tu eus été converti(e)
+il (elle) eut été converti(e)
+nous eûmes été converti(e)s
+vous eûtes été converti(e)s
+ils (elles) eurent été converti(e)s
+
+** Futur antérieur
+
+j'aurai été converti(e)
+tu auras été converti(e)
+il (elle) aura été converti(e)
+nous aurons été converti(e)s
+vous aurez été converti(e)s
+ils (elles) auront été converti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été converti(e)
+j'aurais été converti(e)
+il (elle) aurait été converti(e)
+nous aurions été converti(e)s
+vous auriez été converti(e)s
+ils (elles) auraient été converti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été converti(e)
+que tu aies été converti(e)
+qu’il (elle) ait été converti(e)
+que nous ayons été converti(e)s
+que vous ayez été converti(e)s
+qu’ils (elles) aient été converti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été converti(e)
+que tu eusses été converti(e)
+qu’il (elle) eût été converti(e)
+que nous eussions été converti(e)s
+que vous eussiez été converti(e)s
+qu’ils (elles) eussent été converti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été converti(e)
+ayons été converti(e)s
+ayez été converti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été converti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été converti(e)(s)

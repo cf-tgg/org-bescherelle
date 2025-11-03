@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assembler
+
+* INDICATIF
+
+** Présent
+
+j'assemble
+tu assembles
+il (elle) assemble
+nous assemblons
+vous assemblez
+ils (elles) assemblent
+
+** Imparfait
+
+j'assemblais
+tu assemblais
+il (elle) assemblait
+nous assemblions
+vous assembliez
+ils (elles) assemblaient
+
+** Passé simple
+
+j'assemblai
+tu assemblas
+il (elle) assembla
+nous assemblâmes
+vous assemblâtes
+ils (elles) assemblèrent
+
+** Futur simple
+
+j'assemblerai
+tu assembleras
+il (elle) assemblera
+nous assemblerons
+vous assemblerez
+ils (elles) assembleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assemblerais
+tu assemblerais
+il (elle) assemblerait
+nous assemblerions
+vous assembleriez
+ils (elles) assembleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assemble
+que tu assembles
+qu’il (elle) assemble
+que nous assemblions
+que vous assembliez
+qu’ils (elles) assemblent
+
+** Imparfait
+
+que j'assemblasse
+que tu assemblasses
+qu’il (elle) assemblât
+que nous assemblassions
+que vous assemblassiez
+qu’ils (elles) assemblassent
+
+* IMPÉRATIF
+
+** Présent
+
+assemble
+assemblons
+assemblez
+
+* INFINITIF
+
+** Présent
+
+assembler
+
+* PARTICIPE
+
+** Présent
+
+assemblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assemblé
+tu as assemblé
+il (elle) a assemblé
+nous avons assemblé
+vous avez assemblé
+ils (elles) ont assemblé
+
+** Plus-que-parfait
+
+j'avais assemblé
+tu avais assemblé
+il (elle) avait assemblé
+nous avions assemblé
+vous aviez assemblé
+ils (elles) avaient assemblé
+
+** Passé antérieur
+
+j'eus assemblé
+tu eus assemblé
+il (elle) eut assemblé
+nous eûmes assemblé
+vous eûtes assemblé
+ils (elles) eurent assemblé
+
+** Futur antérieur
+
+j'aurai assemblé
+tu auras assemblé
+il (elle) aura assemblé
+nous aurons assemblé
+vous aurez assemblé
+ils (elles) auront assemblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assemblé
+tu aurais assemblé
+il (elle) aurait assemblé
+nous aurions assemblé
+vous auriez assemblé
+ils (elles) auraient assemblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assemblé
+que tu aies assemblé
+qu’il (elle) ait assemblé
+que nous ayons assemblé
+que vous ayez assemblé
+qu’ils (elles) aient assemblé
+
+** Plus-que-parfait
+
+que j'eusse assemblé
+que tu eusses assemblé
+qu’il (elle) eût assemblé
+que nous eussions assemblé
+que vous eussiez assemblé
+qu’ils (elles) eussent assemblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assemblé
+ayez assemblé
+
+* INFINITIF
+
+** Passé
+
+avoir assemblé
+
+* PARTICIPE
+
+** Passé
+
+ayant assemblé
+assemblé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis assemblé(e)
+tu es assemblé(e)
+il (elle) est assemblé(e)
+nous sommes assemblé(e)s
+vous êtes assemblé(e)s
+ils (elles) sont assemblé(e)s
+
+** Imparfait
+
+j'étais assemblé(e)
+tu étais assemblé(e)
+il (elle) était assemblé(e)
+nous étions assemblé(e)s
+vous étiez assemblé(e)s
+ils (elles) étaient assemblé(e)s
+
+** Passé simple
+
+je fus assemblé(e)
+tu fus assemblé(e)
+il (elle) fut assemblé(e)
+nous fûmes assemblé(e)s
+vous fûtes assemblé(e)s
+ils (elles) furent assemblé(e)s
+
+** Futur simple
+
+je serai assemblé(e)
+tu seras assemblé(e)
+il (elle) sera assemblé(e)
+nous serons assemblé(e)s
+vous serez assemblé(e)s
+ils (elles) seront assemblé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assemblé(e)
+tu serais assemblé(e)
+il (elle) serait assemblé(e)
+nous serions assemblé(e)s
+vous seriez assemblé(e)s
+ils (elles) seraient assemblé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assemblé(e)
+que tu sois assemblé(e)
+qu’il (elle) soit assemblé(e)
+que nous soyons assemblé(e)s
+que vous soyez assemblé(e)s
+qu’ils (elles) soient assemblé(e)s
+
+** Imparfait
+
+que je fusse assemblé(e)
+que tu fusses assemblé(e)
+qu’il (elle) fût assemblé(e)
+que nous fussions assemblé(e)s
+que vous fussiez assemblé(e)s
+qu’ils (elles) fussent assemblé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assemblé(e)s
+soyez assemblé(e)s
+
+* INFINITIF
+
+** Présent
+
+être assemblé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assemblé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assemblé(e)
+tu as été assemblé(e)
+il (elle) a été assemblé(e)
+nous avons été assemblé(e)s
+vous avez été assemblé(e)s
+ils (elles) ont été assemblé(e)s
+
+** Plus-que-parfait
+
+j'avais été assemblé(e)
+il (elle) avait été assemblé(e)
+nous avions été assemblé(e)s
+ils (elles) avaient été assemblé(e)s
+
+** Passé antérieur
+
+j'eus été assemblé(e)
+tu eus été assemblé(e)
+il (elle) eut été assemblé(e)
+nous eûmes été assemblé(e)s
+vous eûtes été assemblé(e)s
+ils (elles) eurent été assemblé(e)s
+
+** Futur antérieur
+
+j'aurai été assemblé(e)
+tu auras été assemblé(e)
+il (elle) aura été assemblé(e)
+nous aurons été assemblé(e)s
+vous aurez été assemblé(e)s
+ils (elles) auront été assemblé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assemblé(e)
+j'aurais été assemblé(e)
+il (elle) aurait été assemblé(e)
+nous aurions été assemblé(e)s
+vous auriez été assemblé(e)s
+ils (elles) auraient été assemblé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assemblé(e)
+que tu aies été assemblé(e)
+qu’il (elle) ait été assemblé(e)
+que nous ayons été assemblé(e)s
+que vous ayez été assemblé(e)s
+qu’ils (elles) aient été assemblé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assemblé(e)
+que tu eusses été assemblé(e)
+qu’il (elle) eût été assemblé(e)
+que nous eussions été assemblé(e)s
+que vous eussiez été assemblé(e)s
+qu’ils (elles) eussent été assemblé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assemblé(e)
+ayons été assemblé(e)s
+ayez été assemblé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assemblé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assemblé(e)(s)

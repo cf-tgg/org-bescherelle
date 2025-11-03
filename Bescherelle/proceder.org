@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe proceder
+
+* INDICATIF
+
+** Présent
+
+je procède
+tu procèdes
+il (elle) procède
+nous procédons
+vous procédez
+ils (elles) procèdent
+
+** Imparfait
+
+je procédais
+tu procédais
+il (elle) procédait
+nous procédions
+vous procédiez
+ils (elles) procédaient
+
+** Passé simple
+
+je procédai
+tu procédas
+il (elle) procéda
+nous procédâmes
+vous procédâtes
+ils (elles) procédèrent
+
+** Futur simple
+
+je procéderai
+tu procéderas
+il (elle) procédera
+nous procéderons
+vous procéderez
+ils (elles) procéderont
+
+* CONDITIONNEL
+
+** Présent
+
+je procéderais
+tu procéderais
+il (elle) procéderait
+nous procéderions
+vous procéderiez
+ils (elles) procéderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je procède
+que tu procèdes
+qu’il (elle) procède
+que nous procédions
+que vous procédiez
+qu’ils (elles) procèdent
+
+** Imparfait
+
+que je procédasse
+que tu procédasses
+qu’il (elle) procédât
+que nous procédassions
+que vous procédassiez
+qu’ils (elles) procédassent
+
+* IMPÉRATIF
+
+** Présent
+
+procède
+procédons
+procédez
+
+* INFINITIF
+
+** Présent
+
+procéder
+
+* PARTICIPE
+
+** Présent
+
+procédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai procédé
+tu as procédé
+il (elle) a procédé
+nous avons procédé
+vous avez procédé
+ils (elles) ont procédé
+
+** Plus-que-parfait
+
+j'avais procédé
+tu avais procédé
+il (elle) avait procédé
+nous avions procédé
+vous aviez procédé
+ils (elles) avaient procédé
+
+** Passé antérieur
+
+j'eus procédé
+tu eus procédé
+il (elle) eut procédé
+nous eûmes procédé
+vous eûtes procédé
+ils (elles) eurent procédé
+
+** Futur antérieur
+
+j'aurai procédé
+tu auras procédé
+il (elle) aura procédé
+nous aurons procédé
+vous aurez procédé
+ils (elles) auront procédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais procédé
+tu aurais procédé
+il (elle) aurait procédé
+nous aurions procédé
+vous auriez procédé
+ils (elles) auraient procédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie procédé
+que tu aies procédé
+qu’il (elle) ait procédé
+que nous ayons procédé
+que vous ayez procédé
+qu’ils (elles) aient procédé
+
+** Plus-que-parfait
+
+que j'eusse procédé
+que tu eusses procédé
+qu’il (elle) eût procédé
+que nous eussions procédé
+que vous eussiez procédé
+qu’ils (elles) eussent procédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons procédé
+ayez procédé
+
+* INFINITIF
+
+** Passé
+
+avoir procédé
+
+* PARTICIPE
+
+** Passé
+
+ayant procédé
+procédé (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confronter
+
+* INDICATIF
+
+** Présent
+
+je confronte
+tu confrontes
+il (elle) confronte
+nous confrontons
+vous confrontez
+ils (elles) confrontent
+
+** Imparfait
+
+je confrontais
+tu confrontais
+il (elle) confrontait
+nous confrontions
+vous confrontiez
+ils (elles) confrontaient
+
+** Passé simple
+
+je confrontai
+tu confrontas
+il (elle) confronta
+nous confrontâmes
+vous confrontâtes
+ils (elles) confrontèrent
+
+** Futur simple
+
+je confronterai
+tu confronteras
+il (elle) confrontera
+nous confronterons
+vous confronterez
+ils (elles) confronteront
+
+* CONDITIONNEL
+
+** Présent
+
+je confronterais
+tu confronterais
+il (elle) confronterait
+nous confronterions
+vous confronteriez
+ils (elles) confronteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confronte
+que tu confrontes
+qu’il (elle) confronte
+que nous confrontions
+que vous confrontiez
+qu’ils (elles) confrontent
+
+** Imparfait
+
+que je confrontasse
+que tu confrontasses
+qu’il (elle) confrontât
+que nous confrontassions
+que vous confrontassiez
+qu’ils (elles) confrontassent
+
+* IMPÉRATIF
+
+** Présent
+
+confronte
+confrontons
+confrontez
+
+* INFINITIF
+
+** Présent
+
+confronter
+
+* PARTICIPE
+
+** Présent
+
+confrontant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confronté
+tu as confronté
+il (elle) a confronté
+nous avons confronté
+vous avez confronté
+ils (elles) ont confronté
+
+** Plus-que-parfait
+
+j'avais confronté
+tu avais confronté
+il (elle) avait confronté
+nous avions confronté
+vous aviez confronté
+ils (elles) avaient confronté
+
+** Passé antérieur
+
+j'eus confronté
+tu eus confronté
+il (elle) eut confronté
+nous eûmes confronté
+vous eûtes confronté
+ils (elles) eurent confronté
+
+** Futur antérieur
+
+j'aurai confronté
+tu auras confronté
+il (elle) aura confronté
+nous aurons confronté
+vous aurez confronté
+ils (elles) auront confronté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confronté
+tu aurais confronté
+il (elle) aurait confronté
+nous aurions confronté
+vous auriez confronté
+ils (elles) auraient confronté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confronté
+que tu aies confronté
+qu’il (elle) ait confronté
+que nous ayons confronté
+que vous ayez confronté
+qu’ils (elles) aient confronté
+
+** Plus-que-parfait
+
+que j'eusse confronté
+que tu eusses confronté
+qu’il (elle) eût confronté
+que nous eussions confronté
+que vous eussiez confronté
+qu’ils (elles) eussent confronté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confronté
+ayez confronté
+
+* INFINITIF
+
+** Passé
+
+avoir confronté
+
+* PARTICIPE
+
+** Passé
+
+ayant confronté
+confronté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis confronté(e)
+tu es confronté(e)
+il (elle) est confronté(e)
+nous sommes confronté(e)s
+vous êtes confronté(e)s
+ils (elles) sont confronté(e)s
+
+** Imparfait
+
+j'étais confronté(e)
+tu étais confronté(e)
+il (elle) était confronté(e)
+nous étions confronté(e)s
+vous étiez confronté(e)s
+ils (elles) étaient confronté(e)s
+
+** Passé simple
+
+je fus confronté(e)
+tu fus confronté(e)
+il (elle) fut confronté(e)
+nous fûmes confronté(e)s
+vous fûtes confronté(e)s
+ils (elles) furent confronté(e)s
+
+** Futur simple
+
+je serai confronté(e)
+tu seras confronté(e)
+il (elle) sera confronté(e)
+nous serons confronté(e)s
+vous serez confronté(e)s
+ils (elles) seront confronté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confronté(e)
+tu serais confronté(e)
+il (elle) serait confronté(e)
+nous serions confronté(e)s
+vous seriez confronté(e)s
+ils (elles) seraient confronté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confronté(e)
+que tu sois confronté(e)
+qu’il (elle) soit confronté(e)
+que nous soyons confronté(e)s
+que vous soyez confronté(e)s
+qu’ils (elles) soient confronté(e)s
+
+** Imparfait
+
+que je fusse confronté(e)
+que tu fusses confronté(e)
+qu’il (elle) fût confronté(e)
+que nous fussions confronté(e)s
+que vous fussiez confronté(e)s
+qu’ils (elles) fussent confronté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confronté(e)s
+soyez confronté(e)s
+
+* INFINITIF
+
+** Présent
+
+être confronté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confronté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confronté(e)
+tu as été confronté(e)
+il (elle) a été confronté(e)
+nous avons été confronté(e)s
+vous avez été confronté(e)s
+ils (elles) ont été confronté(e)s
+
+** Plus-que-parfait
+
+j'avais été confronté(e)
+il (elle) avait été confronté(e)
+nous avions été confronté(e)s
+ils (elles) avaient été confronté(e)s
+
+** Passé antérieur
+
+j'eus été confronté(e)
+tu eus été confronté(e)
+il (elle) eut été confronté(e)
+nous eûmes été confronté(e)s
+vous eûtes été confronté(e)s
+ils (elles) eurent été confronté(e)s
+
+** Futur antérieur
+
+j'aurai été confronté(e)
+tu auras été confronté(e)
+il (elle) aura été confronté(e)
+nous aurons été confronté(e)s
+vous aurez été confronté(e)s
+ils (elles) auront été confronté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confronté(e)
+j'aurais été confronté(e)
+il (elle) aurait été confronté(e)
+nous aurions été confronté(e)s
+vous auriez été confronté(e)s
+ils (elles) auraient été confronté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confronté(e)
+que tu aies été confronté(e)
+qu’il (elle) ait été confronté(e)
+que nous ayons été confronté(e)s
+que vous ayez été confronté(e)s
+qu’ils (elles) aient été confronté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confronté(e)
+que tu eusses été confronté(e)
+qu’il (elle) eût été confronté(e)
+que nous eussions été confronté(e)s
+que vous eussiez été confronté(e)s
+qu’ils (elles) eussent été confronté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confronté(e)
+ayons été confronté(e)s
+ayez été confronté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confronté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confronté(e)(s)

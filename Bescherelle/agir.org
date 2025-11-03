@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe agir
+
+* INDICATIF
+
+** Présent
+
+j'agis
+tu agis
+il (elle) agit
+nous agissons
+vous agissez
+ils (elles) agissent
+
+** Imparfait
+
+j'agissais
+tu agissais
+il (elle) agissait
+nous agissions
+vous agissiez
+ils (elles) agissaient
+
+** Passé simple
+
+j'agis
+tu agis
+il (elle) agit
+nous agîmes
+vous agîtes
+ils (elles) agirent
+
+** Futur simple
+
+j'agirai
+tu agiras
+il (elle) agira
+nous agirons
+vous agirez
+ils (elles) agiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'agirais
+tu agirais
+il (elle) agirait
+nous agirions
+vous agiriez
+ils (elles) agiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'agisse
+que tu agisses
+qu’il (elle) agisse
+que nous agissions
+que vous agissiez
+qu’ils (elles) agissent
+
+** Imparfait
+
+que j'agisse
+que tu agisses
+qu’il (elle) agît
+que nous agissions
+que vous agissiez
+qu’ils (elles) agissent
+
+* IMPÉRATIF
+
+** Présent
+
+agis
+agissons
+agissez
+
+* INFINITIF
+
+** Présent
+
+agir
+
+* PARTICIPE
+
+** Présent
+
+agissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai agi
+tu as agi
+il (elle) a agi
+nous avons agi
+vous avez agi
+ils (elles) ont agi
+
+** Plus-que-parfait
+
+j'avais agi
+tu avais agi
+il (elle) avait agi
+nous avions agi
+vous aviez agi
+ils (elles) avaient agi
+
+** Passé antérieur
+
+j'eus agi
+tu eus agi
+il (elle) eut agi
+nous eûmes agi
+vous eûtes agi
+ils (elles) eurent agi
+
+** Futur antérieur
+
+j'aurai agi
+tu auras agi
+il (elle) aura agi
+nous aurons agi
+vous aurez agi
+ils (elles) auront agi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais agi
+tu aurais agi
+il (elle) aurait agi
+nous aurions agi
+vous auriez agi
+ils (elles) auraient agi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie agi
+que tu aies agi
+qu’il (elle) ait agi
+que nous ayons agi
+que vous ayez agi
+qu’ils (elles) aient agi
+
+** Plus-que-parfait
+
+que j'eusse agi
+que tu eusses agi
+qu’il (elle) eût agi
+que nous eussions agi
+que vous eussiez agi
+qu’ils (elles) eussent agi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons agi
+ayez agi
+
+* INFINITIF
+
+** Passé
+
+avoir agi
+
+* PARTICIPE
+
+** Passé
+
+ayant agi
+agi (invar.)

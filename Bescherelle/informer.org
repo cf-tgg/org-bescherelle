@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe informer
+
+* INDICATIF
+
+** Présent
+
+j'informe
+tu informes
+il (elle) informe
+nous informons
+vous informez
+ils (elles) informent
+
+** Imparfait
+
+j'informais
+tu informais
+il (elle) informait
+nous informions
+vous informiez
+ils (elles) informaient
+
+** Passé simple
+
+j'informai
+tu informas
+il (elle) informa
+nous informâmes
+vous informâtes
+ils (elles) informèrent
+
+** Futur simple
+
+j'informerai
+tu informeras
+il (elle) informera
+nous informerons
+vous informerez
+ils (elles) informeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'informerais
+tu informerais
+il (elle) informerait
+nous informerions
+vous informeriez
+ils (elles) informeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'informe
+que tu informes
+qu’il (elle) informe
+que nous informions
+que vous informiez
+qu’ils (elles) informent
+
+** Imparfait
+
+que j'informasse
+que tu informasses
+qu’il (elle) informât
+que nous informassions
+que vous informassiez
+qu’ils (elles) informassent
+
+* IMPÉRATIF
+
+** Présent
+
+informe
+informons
+informez
+
+* INFINITIF
+
+** Présent
+
+informer
+
+* PARTICIPE
+
+** Présent
+
+informant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai informé
+tu as informé
+il (elle) a informé
+nous avons informé
+vous avez informé
+ils (elles) ont informé
+
+** Plus-que-parfait
+
+j'avais informé
+tu avais informé
+il (elle) avait informé
+nous avions informé
+vous aviez informé
+ils (elles) avaient informé
+
+** Passé antérieur
+
+j'eus informé
+tu eus informé
+il (elle) eut informé
+nous eûmes informé
+vous eûtes informé
+ils (elles) eurent informé
+
+** Futur antérieur
+
+j'aurai informé
+tu auras informé
+il (elle) aura informé
+nous aurons informé
+vous aurez informé
+ils (elles) auront informé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais informé
+tu aurais informé
+il (elle) aurait informé
+nous aurions informé
+vous auriez informé
+ils (elles) auraient informé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie informé
+que tu aies informé
+qu’il (elle) ait informé
+que nous ayons informé
+que vous ayez informé
+qu’ils (elles) aient informé
+
+** Plus-que-parfait
+
+que j'eusse informé
+que tu eusses informé
+qu’il (elle) eût informé
+que nous eussions informé
+que vous eussiez informé
+qu’ils (elles) eussent informé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons informé
+ayez informé
+
+* INFINITIF
+
+** Passé
+
+avoir informé
+
+* PARTICIPE
+
+** Passé
+
+ayant informé
+informé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis informé(e)
+tu es informé(e)
+il (elle) est informé(e)
+nous sommes informé(e)s
+vous êtes informé(e)s
+ils (elles) sont informé(e)s
+
+** Imparfait
+
+j'étais informé(e)
+tu étais informé(e)
+il (elle) était informé(e)
+nous étions informé(e)s
+vous étiez informé(e)s
+ils (elles) étaient informé(e)s
+
+** Passé simple
+
+je fus informé(e)
+tu fus informé(e)
+il (elle) fut informé(e)
+nous fûmes informé(e)s
+vous fûtes informé(e)s
+ils (elles) furent informé(e)s
+
+** Futur simple
+
+je serai informé(e)
+tu seras informé(e)
+il (elle) sera informé(e)
+nous serons informé(e)s
+vous serez informé(e)s
+ils (elles) seront informé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais informé(e)
+tu serais informé(e)
+il (elle) serait informé(e)
+nous serions informé(e)s
+vous seriez informé(e)s
+ils (elles) seraient informé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois informé(e)
+que tu sois informé(e)
+qu’il (elle) soit informé(e)
+que nous soyons informé(e)s
+que vous soyez informé(e)s
+qu’ils (elles) soient informé(e)s
+
+** Imparfait
+
+que je fusse informé(e)
+que tu fusses informé(e)
+qu’il (elle) fût informé(e)
+que nous fussions informé(e)s
+que vous fussiez informé(e)s
+qu’ils (elles) fussent informé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons informé(e)s
+soyez informé(e)s
+
+* INFINITIF
+
+** Présent
+
+être informé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant informé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été informé(e)
+tu as été informé(e)
+il (elle) a été informé(e)
+nous avons été informé(e)s
+vous avez été informé(e)s
+ils (elles) ont été informé(e)s
+
+** Plus-que-parfait
+
+j'avais été informé(e)
+il (elle) avait été informé(e)
+nous avions été informé(e)s
+ils (elles) avaient été informé(e)s
+
+** Passé antérieur
+
+j'eus été informé(e)
+tu eus été informé(e)
+il (elle) eut été informé(e)
+nous eûmes été informé(e)s
+vous eûtes été informé(e)s
+ils (elles) eurent été informé(e)s
+
+** Futur antérieur
+
+j'aurai été informé(e)
+tu auras été informé(e)
+il (elle) aura été informé(e)
+nous aurons été informé(e)s
+vous aurez été informé(e)s
+ils (elles) auront été informé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été informé(e)
+j'aurais été informé(e)
+il (elle) aurait été informé(e)
+nous aurions été informé(e)s
+vous auriez été informé(e)s
+ils (elles) auraient été informé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été informé(e)
+que tu aies été informé(e)
+qu’il (elle) ait été informé(e)
+que nous ayons été informé(e)s
+que vous ayez été informé(e)s
+qu’ils (elles) aient été informé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été informé(e)
+que tu eusses été informé(e)
+qu’il (elle) eût été informé(e)
+que nous eussions été informé(e)s
+que vous eussiez été informé(e)s
+qu’ils (elles) eussent été informé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été informé(e)
+ayons été informé(e)s
+ayez été informé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été informé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été informé(e)(s)

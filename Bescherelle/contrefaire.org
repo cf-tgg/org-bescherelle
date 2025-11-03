@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe contrefaire
+
+* INDICATIF
+
+** Présent
+
+je contrefais
+tu contrefais
+il (elle) contrefait
+nous contrefaisons
+vous contrefaites
+ils (elles) contrefont
+
+** Imparfait
+
+je contrefaisais
+tu contrefaisais
+il (elle) contrefaisait
+nous contrefaisions
+vous contrefaisiez
+ils (elles) contrefaisaient
+
+** Passé simple
+
+je contrefis
+tu contrefis
+il (elle) contrefit
+nous contrefîmes
+vous contrefîtes
+ils (elles) contrefirent
+
+** Futur simple
+
+je contreferai
+tu contreferas
+il (elle) contrefera
+nous contreferons
+vous contreferez
+ils (elles) contreferont
+
+* CONDITIONNEL
+
+** Présent
+
+je contreferais
+tu contreferais
+il (elle) contreferait
+nous contreferions
+vous contreferiez
+ils (elles) contreferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contrefasse
+que tu contrefasses
+qu’il (elle) contrefasse
+que nous contrefassions
+que vous contrefassiez
+qu’ils (elles) contrefassent
+
+** Imparfait
+
+que je contrefisse
+que tu contrefisses
+qu’il (elle) contrefît
+que nous contrefissions
+que vous contrefissiez
+qu’ils (elles) contrefissent
+
+* IMPÉRATIF
+
+** Présent
+
+contrefais
+contrefaisons
+contrefaites
+
+* INFINITIF
+
+** Présent
+
+contrefaire
+
+* PARTICIPE
+
+** Présent
+
+contrefaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contrefait
+tu as contrefait
+il (elle) a contrefait
+nous avons contrefait
+vous avez contrefait
+ils (elles) ont contrefait
+
+** Plus-que-parfait
+
+j'avais contrefait
+tu avais contrefait
+il (elle) avait contrefait
+nous avions contrefait
+vous aviez contrefait
+ils (elles) avaient contrefait
+
+** Passé antérieur
+
+j'eus contrefait
+tu eus contrefait
+il (elle) eut contrefait
+nous eûmes contrefait
+vous eûtes contrefait
+ils (elles) eurent contrefait
+
+** Futur antérieur
+
+j'aurai contrefait
+tu auras contrefait
+il (elle) aura contrefait
+nous aurons contrefait
+vous aurez contrefait
+ils (elles) auront contrefait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contrefait
+tu aurais contrefait
+il (elle) aurait contrefait
+nous aurions contrefait
+vous auriez contrefait
+ils (elles) auraient contrefait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contrefait
+que tu aies contrefait
+qu’il (elle) ait contrefait
+que nous ayons contrefait
+que vous ayez contrefait
+qu’ils (elles) aient contrefait
+
+** Plus-que-parfait
+
+que j'eusse contrefait
+que tu eusses contrefait
+qu’il (elle) eût contrefait
+que nous eussions contrefait
+que vous eussiez contrefait
+qu’ils (elles) eussent contrefait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contrefait
+ayez contrefait
+
+* INFINITIF
+
+** Passé
+
+avoir contrefait
+
+* PARTICIPE
+
+** Passé
+
+ayant contrefait
+contrefait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis contrefait(e)
+tu es contrefait(e)
+il (elle) est contrefait(e)
+nous sommes contrefait(e)s
+vous êtes contrefait(e)s
+ils (elles) sont contrefait(e)s
+
+** Imparfait
+
+j'étais contrefait(e)
+tu étais contrefait(e)
+il (elle) était contrefait(e)
+nous étions contrefait(e)s
+vous étiez contrefait(e)s
+ils (elles) étaient contrefait(e)s
+
+** Passé simple
+
+je fus contrefait(e)
+tu fus contrefait(e)
+il (elle) fut contrefait(e)
+nous fûmes contrefait(e)s
+vous fûtes contrefait(e)s
+ils (elles) furent contrefait(e)s
+
+** Futur simple
+
+je serai contrefait(e)
+tu seras contrefait(e)
+il (elle) sera contrefait(e)
+nous serons contrefait(e)s
+vous serez contrefait(e)s
+ils (elles) seront contrefait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais contrefait(e)
+tu serais contrefait(e)
+il (elle) serait contrefait(e)
+nous serions contrefait(e)s
+vous seriez contrefait(e)s
+ils (elles) seraient contrefait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois contrefait(e)
+que tu sois contrefait(e)
+qu’il (elle) soit contrefait(e)
+que nous soyons contrefait(e)s
+que vous soyez contrefait(e)s
+qu’ils (elles) soient contrefait(e)s
+
+** Imparfait
+
+que je fusse contrefait(e)
+que tu fusses contrefait(e)
+qu’il (elle) fût contrefait(e)
+que nous fussions contrefait(e)s
+que vous fussiez contrefait(e)s
+qu’ils (elles) fussent contrefait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons contrefait(e)s
+soyez contrefait(e)s
+
+* INFINITIF
+
+** Présent
+
+être contrefait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant contrefait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été contrefait(e)
+tu as été contrefait(e)
+il (elle) a été contrefait(e)
+nous avons été contrefait(e)s
+vous avez été contrefait(e)s
+ils (elles) ont été contrefait(e)s
+
+** Plus-que-parfait
+
+j'avais été contrefait(e)
+il (elle) avait été contrefait(e)
+nous avions été contrefait(e)s
+ils (elles) avaient été contrefait(e)s
+
+** Passé antérieur
+
+j'eus été contrefait(e)
+tu eus été contrefait(e)
+il (elle) eut été contrefait(e)
+nous eûmes été contrefait(e)s
+vous eûtes été contrefait(e)s
+ils (elles) eurent été contrefait(e)s
+
+** Futur antérieur
+
+j'aurai été contrefait(e)
+tu auras été contrefait(e)
+il (elle) aura été contrefait(e)
+nous aurons été contrefait(e)s
+vous aurez été contrefait(e)s
+ils (elles) auront été contrefait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été contrefait(e)
+j'aurais été contrefait(e)
+il (elle) aurait été contrefait(e)
+nous aurions été contrefait(e)s
+vous auriez été contrefait(e)s
+ils (elles) auraient été contrefait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été contrefait(e)
+que tu aies été contrefait(e)
+qu’il (elle) ait été contrefait(e)
+que nous ayons été contrefait(e)s
+que vous ayez été contrefait(e)s
+qu’ils (elles) aient été contrefait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été contrefait(e)
+que tu eusses été contrefait(e)
+qu’il (elle) eût été contrefait(e)
+que nous eussions été contrefait(e)s
+que vous eussiez été contrefait(e)s
+qu’ils (elles) eussent été contrefait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été contrefait(e)
+ayons été contrefait(e)s
+ayez été contrefait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été contrefait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été contrefait(e)(s)

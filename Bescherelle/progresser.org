@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe progresser
+
+* INDICATIF
+
+** Présent
+
+je progresse
+tu progresses
+il (elle) progresse
+nous progressons
+vous progressez
+ils (elles) progressent
+
+** Imparfait
+
+je progressais
+tu progressais
+il (elle) progressait
+nous progressions
+vous progressiez
+ils (elles) progressaient
+
+** Passé simple
+
+je progressai
+tu progressas
+il (elle) progressa
+nous progressâmes
+vous progressâtes
+ils (elles) progressèrent
+
+** Futur simple
+
+je progresserai
+tu progresseras
+il (elle) progressera
+nous progresserons
+vous progresserez
+ils (elles) progresseront
+
+* CONDITIONNEL
+
+** Présent
+
+je progresserais
+tu progresserais
+il (elle) progresserait
+nous progresserions
+vous progresseriez
+ils (elles) progresseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je progresse
+que tu progresses
+qu’il (elle) progresse
+que nous progressions
+que vous progressiez
+qu’ils (elles) progressent
+
+** Imparfait
+
+que je progressasse
+que tu progressasses
+qu’il (elle) progressât
+que nous progressassions
+que vous progressassiez
+qu’ils (elles) progressassent
+
+* IMPÉRATIF
+
+** Présent
+
+progresse
+progressons
+progressez
+
+* INFINITIF
+
+** Présent
+
+progresser
+
+* PARTICIPE
+
+** Présent
+
+progressant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai progressé
+tu as progressé
+il (elle) a progressé
+nous avons progressé
+vous avez progressé
+ils (elles) ont progressé
+
+** Plus-que-parfait
+
+j'avais progressé
+tu avais progressé
+il (elle) avait progressé
+nous avions progressé
+vous aviez progressé
+ils (elles) avaient progressé
+
+** Passé antérieur
+
+j'eus progressé
+tu eus progressé
+il (elle) eut progressé
+nous eûmes progressé
+vous eûtes progressé
+ils (elles) eurent progressé
+
+** Futur antérieur
+
+j'aurai progressé
+tu auras progressé
+il (elle) aura progressé
+nous aurons progressé
+vous aurez progressé
+ils (elles) auront progressé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais progressé
+tu aurais progressé
+il (elle) aurait progressé
+nous aurions progressé
+vous auriez progressé
+ils (elles) auraient progressé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie progressé
+que tu aies progressé
+qu’il (elle) ait progressé
+que nous ayons progressé
+que vous ayez progressé
+qu’ils (elles) aient progressé
+
+** Plus-que-parfait
+
+que j'eusse progressé
+que tu eusses progressé
+qu’il (elle) eût progressé
+que nous eussions progressé
+que vous eussiez progressé
+qu’ils (elles) eussent progressé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons progressé
+ayez progressé
+
+* INFINITIF
+
+** Passé
+
+avoir progressé
+
+* PARTICIPE
+
+** Passé
+
+ayant progressé
+progressé (invar.)

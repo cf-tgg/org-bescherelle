@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dominer
+
+* INDICATIF
+
+** Présent
+
+je domine
+tu domines
+il (elle) domine
+nous dominons
+vous dominez
+ils (elles) dominent
+
+** Imparfait
+
+je dominais
+tu dominais
+il (elle) dominait
+nous dominions
+vous dominiez
+ils (elles) dominaient
+
+** Passé simple
+
+je dominai
+tu dominas
+il (elle) domina
+nous dominâmes
+vous dominâtes
+ils (elles) dominèrent
+
+** Futur simple
+
+je dominerai
+tu domineras
+il (elle) dominera
+nous dominerons
+vous dominerez
+ils (elles) domineront
+
+* CONDITIONNEL
+
+** Présent
+
+je dominerais
+tu dominerais
+il (elle) dominerait
+nous dominerions
+vous domineriez
+ils (elles) domineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je domine
+que tu domines
+qu’il (elle) domine
+que nous dominions
+que vous dominiez
+qu’ils (elles) dominent
+
+** Imparfait
+
+que je dominasse
+que tu dominasses
+qu’il (elle) dominât
+que nous dominassions
+que vous dominassiez
+qu’ils (elles) dominassent
+
+* IMPÉRATIF
+
+** Présent
+
+domine
+dominons
+dominez
+
+* INFINITIF
+
+** Présent
+
+dominer
+
+* PARTICIPE
+
+** Présent
+
+dominant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dominé
+tu as dominé
+il (elle) a dominé
+nous avons dominé
+vous avez dominé
+ils (elles) ont dominé
+
+** Plus-que-parfait
+
+j'avais dominé
+tu avais dominé
+il (elle) avait dominé
+nous avions dominé
+vous aviez dominé
+ils (elles) avaient dominé
+
+** Passé antérieur
+
+j'eus dominé
+tu eus dominé
+il (elle) eut dominé
+nous eûmes dominé
+vous eûtes dominé
+ils (elles) eurent dominé
+
+** Futur antérieur
+
+j'aurai dominé
+tu auras dominé
+il (elle) aura dominé
+nous aurons dominé
+vous aurez dominé
+ils (elles) auront dominé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dominé
+tu aurais dominé
+il (elle) aurait dominé
+nous aurions dominé
+vous auriez dominé
+ils (elles) auraient dominé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dominé
+que tu aies dominé
+qu’il (elle) ait dominé
+que nous ayons dominé
+que vous ayez dominé
+qu’ils (elles) aient dominé
+
+** Plus-que-parfait
+
+que j'eusse dominé
+que tu eusses dominé
+qu’il (elle) eût dominé
+que nous eussions dominé
+que vous eussiez dominé
+qu’ils (elles) eussent dominé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dominé
+ayez dominé
+
+* INFINITIF
+
+** Passé
+
+avoir dominé
+
+* PARTICIPE
+
+** Passé
+
+ayant dominé
+dominé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dominé(e)
+tu es dominé(e)
+il (elle) est dominé(e)
+nous sommes dominé(e)s
+vous êtes dominé(e)s
+ils (elles) sont dominé(e)s
+
+** Imparfait
+
+j'étais dominé(e)
+tu étais dominé(e)
+il (elle) était dominé(e)
+nous étions dominé(e)s
+vous étiez dominé(e)s
+ils (elles) étaient dominé(e)s
+
+** Passé simple
+
+je fus dominé(e)
+tu fus dominé(e)
+il (elle) fut dominé(e)
+nous fûmes dominé(e)s
+vous fûtes dominé(e)s
+ils (elles) furent dominé(e)s
+
+** Futur simple
+
+je serai dominé(e)
+tu seras dominé(e)
+il (elle) sera dominé(e)
+nous serons dominé(e)s
+vous serez dominé(e)s
+ils (elles) seront dominé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dominé(e)
+tu serais dominé(e)
+il (elle) serait dominé(e)
+nous serions dominé(e)s
+vous seriez dominé(e)s
+ils (elles) seraient dominé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dominé(e)
+que tu sois dominé(e)
+qu’il (elle) soit dominé(e)
+que nous soyons dominé(e)s
+que vous soyez dominé(e)s
+qu’ils (elles) soient dominé(e)s
+
+** Imparfait
+
+que je fusse dominé(e)
+que tu fusses dominé(e)
+qu’il (elle) fût dominé(e)
+que nous fussions dominé(e)s
+que vous fussiez dominé(e)s
+qu’ils (elles) fussent dominé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dominé(e)s
+soyez dominé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dominé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dominé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dominé(e)
+tu as été dominé(e)
+il (elle) a été dominé(e)
+nous avons été dominé(e)s
+vous avez été dominé(e)s
+ils (elles) ont été dominé(e)s
+
+** Plus-que-parfait
+
+j'avais été dominé(e)
+il (elle) avait été dominé(e)
+nous avions été dominé(e)s
+ils (elles) avaient été dominé(e)s
+
+** Passé antérieur
+
+j'eus été dominé(e)
+tu eus été dominé(e)
+il (elle) eut été dominé(e)
+nous eûmes été dominé(e)s
+vous eûtes été dominé(e)s
+ils (elles) eurent été dominé(e)s
+
+** Futur antérieur
+
+j'aurai été dominé(e)
+tu auras été dominé(e)
+il (elle) aura été dominé(e)
+nous aurons été dominé(e)s
+vous aurez été dominé(e)s
+ils (elles) auront été dominé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dominé(e)
+j'aurais été dominé(e)
+il (elle) aurait été dominé(e)
+nous aurions été dominé(e)s
+vous auriez été dominé(e)s
+ils (elles) auraient été dominé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dominé(e)
+que tu aies été dominé(e)
+qu’il (elle) ait été dominé(e)
+que nous ayons été dominé(e)s
+que vous ayez été dominé(e)s
+qu’ils (elles) aient été dominé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dominé(e)
+que tu eusses été dominé(e)
+qu’il (elle) eût été dominé(e)
+que nous eussions été dominé(e)s
+que vous eussiez été dominé(e)s
+qu’ils (elles) eussent été dominé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dominé(e)
+ayons été dominé(e)s
+ayez été dominé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dominé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dominé(e)(s)

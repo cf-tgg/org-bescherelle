@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enivrer
+
+* INDICATIF
+
+** Présent
+
+j'enivre
+tu enivres
+il (elle) enivre
+nous enivrons
+vous enivrez
+ils (elles) enivrent
+
+** Imparfait
+
+j'enivrais
+tu enivrais
+il (elle) enivrait
+nous enivrions
+vous enivriez
+ils (elles) enivraient
+
+** Passé simple
+
+j'enivrai
+tu enivras
+il (elle) enivra
+nous enivrâmes
+vous enivrâtes
+ils (elles) enivrèrent
+
+** Futur simple
+
+j'enivrerai
+tu enivreras
+il (elle) enivrera
+nous enivrerons
+vous enivrerez
+ils (elles) enivreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enivrerais
+tu enivrerais
+il (elle) enivrerait
+nous enivrerions
+vous enivreriez
+ils (elles) enivreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enivre
+que tu enivres
+qu’il (elle) enivre
+que nous enivrions
+que vous enivriez
+qu’ils (elles) enivrent
+
+** Imparfait
+
+que j'enivrasse
+que tu enivrasses
+qu’il (elle) enivrât
+que nous enivrassions
+que vous enivrassiez
+qu’ils (elles) enivrassent
+
+* IMPÉRATIF
+
+** Présent
+
+enivre
+enivrons
+enivrez
+
+* INFINITIF
+
+** Présent
+
+enivrer
+
+* PARTICIPE
+
+** Présent
+
+enivrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enivré
+tu as enivré
+il (elle) a enivré
+nous avons enivré
+vous avez enivré
+ils (elles) ont enivré
+
+** Plus-que-parfait
+
+j'avais enivré
+tu avais enivré
+il (elle) avait enivré
+nous avions enivré
+vous aviez enivré
+ils (elles) avaient enivré
+
+** Passé antérieur
+
+j'eus enivré
+tu eus enivré
+il (elle) eut enivré
+nous eûmes enivré
+vous eûtes enivré
+ils (elles) eurent enivré
+
+** Futur antérieur
+
+j'aurai enivré
+tu auras enivré
+il (elle) aura enivré
+nous aurons enivré
+vous aurez enivré
+ils (elles) auront enivré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enivré
+tu aurais enivré
+il (elle) aurait enivré
+nous aurions enivré
+vous auriez enivré
+ils (elles) auraient enivré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enivré
+que tu aies enivré
+qu’il (elle) ait enivré
+que nous ayons enivré
+que vous ayez enivré
+qu’ils (elles) aient enivré
+
+** Plus-que-parfait
+
+que j'eusse enivré
+que tu eusses enivré
+qu’il (elle) eût enivré
+que nous eussions enivré
+que vous eussiez enivré
+qu’ils (elles) eussent enivré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enivré
+ayez enivré
+
+* INFINITIF
+
+** Passé
+
+avoir enivré
+
+* PARTICIPE
+
+** Passé
+
+ayant enivré
+enivré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enivré(e)
+tu es enivré(e)
+il (elle) est enivré(e)
+nous sommes enivré(e)s
+vous êtes enivré(e)s
+ils (elles) sont enivré(e)s
+
+** Imparfait
+
+j'étais enivré(e)
+tu étais enivré(e)
+il (elle) était enivré(e)
+nous étions enivré(e)s
+vous étiez enivré(e)s
+ils (elles) étaient enivré(e)s
+
+** Passé simple
+
+je fus enivré(e)
+tu fus enivré(e)
+il (elle) fut enivré(e)
+nous fûmes enivré(e)s
+vous fûtes enivré(e)s
+ils (elles) furent enivré(e)s
+
+** Futur simple
+
+je serai enivré(e)
+tu seras enivré(e)
+il (elle) sera enivré(e)
+nous serons enivré(e)s
+vous serez enivré(e)s
+ils (elles) seront enivré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enivré(e)
+tu serais enivré(e)
+il (elle) serait enivré(e)
+nous serions enivré(e)s
+vous seriez enivré(e)s
+ils (elles) seraient enivré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enivré(e)
+que tu sois enivré(e)
+qu’il (elle) soit enivré(e)
+que nous soyons enivré(e)s
+que vous soyez enivré(e)s
+qu’ils (elles) soient enivré(e)s
+
+** Imparfait
+
+que je fusse enivré(e)
+que tu fusses enivré(e)
+qu’il (elle) fût enivré(e)
+que nous fussions enivré(e)s
+que vous fussiez enivré(e)s
+qu’ils (elles) fussent enivré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enivré(e)s
+soyez enivré(e)s
+
+* INFINITIF
+
+** Présent
+
+être enivré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enivré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enivré(e)
+tu as été enivré(e)
+il (elle) a été enivré(e)
+nous avons été enivré(e)s
+vous avez été enivré(e)s
+ils (elles) ont été enivré(e)s
+
+** Plus-que-parfait
+
+j'avais été enivré(e)
+il (elle) avait été enivré(e)
+nous avions été enivré(e)s
+ils (elles) avaient été enivré(e)s
+
+** Passé antérieur
+
+j'eus été enivré(e)
+tu eus été enivré(e)
+il (elle) eut été enivré(e)
+nous eûmes été enivré(e)s
+vous eûtes été enivré(e)s
+ils (elles) eurent été enivré(e)s
+
+** Futur antérieur
+
+j'aurai été enivré(e)
+tu auras été enivré(e)
+il (elle) aura été enivré(e)
+nous aurons été enivré(e)s
+vous aurez été enivré(e)s
+ils (elles) auront été enivré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enivré(e)
+j'aurais été enivré(e)
+il (elle) aurait été enivré(e)
+nous aurions été enivré(e)s
+vous auriez été enivré(e)s
+ils (elles) auraient été enivré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enivré(e)
+que tu aies été enivré(e)
+qu’il (elle) ait été enivré(e)
+que nous ayons été enivré(e)s
+que vous ayez été enivré(e)s
+qu’ils (elles) aient été enivré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enivré(e)
+que tu eusses été enivré(e)
+qu’il (elle) eût été enivré(e)
+que nous eussions été enivré(e)s
+que vous eussiez été enivré(e)s
+qu’ils (elles) eussent été enivré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enivré(e)
+ayons été enivré(e)s
+ayez été enivré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enivré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enivré(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe concourir
+
+* INDICATIF
+
+** Présent
+
+je concours
+tu concours
+il (elle) concourt
+nous concourons
+vous concourez
+ils (elles) concourent
+
+** Imparfait
+
+je concourais
+tu concourais
+il (elle) concourait
+nous concourions
+vous concouriez
+ils (elles) concouraient
+
+** Passé simple
+
+je concourus
+tu concourus
+il (elle) concourut
+nous concourûmes
+vous concourûtes
+ils (elles) concoururent
+
+** Futur simple
+
+je concourrai
+tu concourras
+il (elle) concourra
+nous concourrons
+vous concourrez
+ils (elles) concourront
+
+* CONDITIONNEL
+
+** Présent
+
+je concourrais
+tu concourrais
+il (elle) concourrait
+nous concourrions
+vous concourriez
+ils (elles) concourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je concoure
+que tu concoures
+qu’il (elle) concoure
+que nous concourions
+que vous concouriez
+qu’ils (elles) concourent
+
+** Imparfait
+
+que je concourusse
+que tu concourusses
+qu’il (elle) concourût
+que nous concourussions
+que vous concourussiez
+qu’ils (elles) concourussent
+
+* IMPÉRATIF
+
+** Présent
+
+concours
+concourons
+concourez
+
+* INFINITIF
+
+** Présent
+
+concourir
+
+* PARTICIPE
+
+** Présent
+
+concourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai concouru
+tu as concouru
+il (elle) a concouru
+nous avons concouru
+vous avez concouru
+ils (elles) ont concouru
+
+** Plus-que-parfait
+
+j'avais concouru
+tu avais concouru
+il (elle) avait concouru
+nous avions concouru
+vous aviez concouru
+ils (elles) avaient concouru
+
+** Passé antérieur
+
+j'eus concouru
+tu eus concouru
+il (elle) eut concouru
+nous eûmes concouru
+vous eûtes concouru
+ils (elles) eurent concouru
+
+** Futur antérieur
+
+j'aurai concouru
+tu auras concouru
+il (elle) aura concouru
+nous aurons concouru
+vous aurez concouru
+ils (elles) auront concouru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais concouru
+tu aurais concouru
+il (elle) aurait concouru
+nous aurions concouru
+vous auriez concouru
+ils (elles) auraient concouru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie concouru
+que tu aies concouru
+qu’il (elle) ait concouru
+que nous ayons concouru
+que vous ayez concouru
+qu’ils (elles) aient concouru
+
+** Plus-que-parfait
+
+que j'eusse concouru
+que tu eusses concouru
+qu’il (elle) eût concouru
+que nous eussions concouru
+que vous eussiez concouru
+qu’ils (elles) eussent concouru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons concouru
+ayez concouru
+
+* INFINITIF
+
+** Passé
+
+avoir concouru
+
+* PARTICIPE
+
+** Passé
+
+ayant concouru
+concouru (invar.)

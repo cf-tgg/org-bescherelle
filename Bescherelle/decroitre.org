@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe decroitre
+
+* INDICATIF
+
+** Présent
+
+je décrois
+tu décrois
+il (elle) décroît
+nous décroissons
+vous décroissez
+ils (elles) décroissent
+
+** Imparfait
+
+je décroissais
+tu décroissais
+il (elle) décroissait
+nous décroissions
+vous décroissiez
+ils (elles) décroissaient
+
+** Passé simple
+
+je décrus
+tu décrus
+il (elle) décrut
+nous décrûmes
+vous décrûtes
+ils (elles) décrurent
+
+** Futur simple
+
+je décroîtrai
+tu décroîtras
+il (elle) décroîtra
+nous décroîtrons
+vous décroîtrez
+ils (elles) décroîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je décroîtrais
+tu décroîtrais
+il (elle) décroîtrait
+nous décroîtrions
+vous décroîtriez
+ils (elles) décroîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je décroisse
+que tu décroisses
+qu’il (elle) décroisse
+que nous décroissions
+que vous décroissiez
+qu’ils (elles) décroissent
+
+** Imparfait
+
+que je décrusse
+que tu décrusses
+qu’il (elle) décrût
+que nous décrussions
+que vous décrussiez
+qu’ils (elles) décrussent
+
+* IMPÉRATIF
+
+** Présent
+
+décrois
+décroissons
+décroissez
+
+* INFINITIF
+
+** Présent
+
+décroître
+
+* PARTICIPE
+
+** Présent
+
+décroissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis décru(e)
+tu as ou es décru(e)
+il (elle) a ou est décru(e)
+nous avons ou sommes décru(e)s
+vous avez ou êtes décru(e)s
+ils (elles) ont ou sont décru(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais décru(e)
+tu avais ou étais décru(e)
+il (elle) avait ou était décru(e)
+nous avions ou étions décru(e)s
+vous aviez ou étiez décru(e)s
+ils (elles) avaient ou étaient décru(e)s
+
+** Passé antérieur
+
+j'eus ou fus décru(e)
+tu eus ou fus décru(e)
+il (elle) eut ou fut décru(e)
+nous eûmes ou fûmes décru(e)s
+vous eûtes ou fûtes décru(e)s
+ils (elles) eurent ou furent décru(e)s
+
+** Futur antérieur
+
+j'aurai ou serai décru(e)
+tu auras ou seras décru(e)
+il (elle) aura ou sera décru(e)
+nous aurons ou serons décru(e)s
+vous aurez ou serez décru(e)s
+ils (elles) auront ou seront décru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais décru(e)
+tu aurais ou serais décru(e)
+il (elle) aurait ou serait décru(e)
+nous aurions ou serions décru(e)s
+vous auriez ou seriez décru(e)s
+ils (elles) auraient ou seraient décru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois décru(e)
+que tu aies ou sois décru(e)
+qu’il (elle) ait ou soit décru(e)
+que nous ayons ou soyons décru(e)s
+que vous ayez ou soyez décru(e)s
+qu’ils (elles) aient ou soient décru(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse décru(e)
+que tu eusses ou fusses décru(e)
+qu’il (elle) eût ou fût décru(e)
+que nous eussions ou fussions décru(e)s
+que vous eussiez ou fussiez décru(e)s
+qu’ils (elles) eussent ou fussent décru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons décru(e)s
+ayez ou soyez décru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être décru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant décru(e)(s)
+décru (u, ue, us, ues)

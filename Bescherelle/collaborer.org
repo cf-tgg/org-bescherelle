@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe collaborer
+
+* INDICATIF
+
+** Présent
+
+je collabore
+tu collabores
+il (elle) collabore
+nous collaborons
+vous collaborez
+ils (elles) collaborent
+
+** Imparfait
+
+je collaborais
+tu collaborais
+il (elle) collaborait
+nous collaborions
+vous collaboriez
+ils (elles) collaboraient
+
+** Passé simple
+
+je collaborai
+tu collaboras
+il (elle) collabora
+nous collaborâmes
+vous collaborâtes
+ils (elles) collaborèrent
+
+** Futur simple
+
+je collaborerai
+tu collaboreras
+il (elle) collaborera
+nous collaborerons
+vous collaborerez
+ils (elles) collaboreront
+
+* CONDITIONNEL
+
+** Présent
+
+je collaborerais
+tu collaborerais
+il (elle) collaborerait
+nous collaborerions
+vous collaboreriez
+ils (elles) collaboreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je collabore
+que tu collabores
+qu’il (elle) collabore
+que nous collaborions
+que vous collaboriez
+qu’ils (elles) collaborent
+
+** Imparfait
+
+que je collaborasse
+que tu collaborasses
+qu’il (elle) collaborât
+que nous collaborassions
+que vous collaborassiez
+qu’ils (elles) collaborassent
+
+* IMPÉRATIF
+
+** Présent
+
+collabore
+collaborons
+collaborez
+
+* INFINITIF
+
+** Présent
+
+collaborer
+
+* PARTICIPE
+
+** Présent
+
+collaborant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai collaboré
+tu as collaboré
+il (elle) a collaboré
+nous avons collaboré
+vous avez collaboré
+ils (elles) ont collaboré
+
+** Plus-que-parfait
+
+j'avais collaboré
+tu avais collaboré
+il (elle) avait collaboré
+nous avions collaboré
+vous aviez collaboré
+ils (elles) avaient collaboré
+
+** Passé antérieur
+
+j'eus collaboré
+tu eus collaboré
+il (elle) eut collaboré
+nous eûmes collaboré
+vous eûtes collaboré
+ils (elles) eurent collaboré
+
+** Futur antérieur
+
+j'aurai collaboré
+tu auras collaboré
+il (elle) aura collaboré
+nous aurons collaboré
+vous aurez collaboré
+ils (elles) auront collaboré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais collaboré
+tu aurais collaboré
+il (elle) aurait collaboré
+nous aurions collaboré
+vous auriez collaboré
+ils (elles) auraient collaboré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie collaboré
+que tu aies collaboré
+qu’il (elle) ait collaboré
+que nous ayons collaboré
+que vous ayez collaboré
+qu’ils (elles) aient collaboré
+
+** Plus-que-parfait
+
+que j'eusse collaboré
+que tu eusses collaboré
+qu’il (elle) eût collaboré
+que nous eussions collaboré
+que vous eussiez collaboré
+qu’ils (elles) eussent collaboré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons collaboré
+ayez collaboré
+
+* INFINITIF
+
+** Passé
+
+avoir collaboré
+
+* PARTICIPE
+
+** Passé
+
+ayant collaboré
+collaboré (invar.)

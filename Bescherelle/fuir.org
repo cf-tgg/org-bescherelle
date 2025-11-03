@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fuir
+
+* INDICATIF
+
+** Présent
+
+je fuis
+tu fuis
+il (elle) fuit
+nous fuyons
+vous fuyez
+ils (elles) fuient
+
+** Imparfait
+
+je fuyais
+tu fuyais
+il (elle) fuyait
+nous fuyions
+vous fuyiez
+ils (elles) fuyaient
+
+** Passé simple
+
+je fuis
+tu fuis
+il (elle) fuit
+nous fuîmes
+vous fuîtes
+ils (elles) fuirent
+
+** Futur simple
+
+je fuirai
+tu fuiras
+il (elle) fuira
+nous fuirons
+vous fuirez
+ils (elles) fuiront
+
+* CONDITIONNEL
+
+** Présent
+
+je fuirais
+tu fuirais
+il (elle) fuirait
+nous fuirions
+vous fuiriez
+ils (elles) fuiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fuie
+que tu fuies
+qu’il (elle) fuie
+que nous fuyions
+que vous fuyiez
+qu’ils (elles) fuient
+
+** Imparfait
+
+que je fuisse
+que tu fuisses
+qu’il (elle) fuît
+que nous fuissions
+que vous fuissiez
+qu’ils (elles) fuissent
+
+* IMPÉRATIF
+
+** Présent
+
+fuis
+fuyons
+fuyez
+
+* INFINITIF
+
+** Présent
+
+fuir
+
+* PARTICIPE
+
+** Présent
+
+fuyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fui
+tu as fui
+il (elle) a fui
+nous avons fui
+vous avez fui
+ils (elles) ont fui
+
+** Plus-que-parfait
+
+j'avais fui
+tu avais fui
+il (elle) avait fui
+nous avions fui
+vous aviez fui
+ils (elles) avaient fui
+
+** Passé antérieur
+
+j'eus fui
+tu eus fui
+il (elle) eut fui
+nous eûmes fui
+vous eûtes fui
+ils (elles) eurent fui
+
+** Futur antérieur
+
+j'aurai fui
+tu auras fui
+il (elle) aura fui
+nous aurons fui
+vous aurez fui
+ils (elles) auront fui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fui
+tu aurais fui
+il (elle) aurait fui
+nous aurions fui
+vous auriez fui
+ils (elles) auraient fui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fui
+que tu aies fui
+qu’il (elle) ait fui
+que nous ayons fui
+que vous ayez fui
+qu’ils (elles) aient fui
+
+** Plus-que-parfait
+
+que j'eusse fui
+que tu eusses fui
+qu’il (elle) eût fui
+que nous eussions fui
+que vous eussiez fui
+qu’ils (elles) eussent fui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fui
+ayez fui
+
+* INFINITIF
+
+** Passé
+
+avoir fui
+
+* PARTICIPE
+
+** Passé
+
+ayant fui
+fui (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis fui(e)
+tu es fui(e)
+il (elle) est fui(e)
+nous sommes fui(e)s
+vous êtes fui(e)s
+ils (elles) sont fui(e)s
+
+** Imparfait
+
+j'étais fui(e)
+tu étais fui(e)
+il (elle) était fui(e)
+nous étions fui(e)s
+vous étiez fui(e)s
+ils (elles) étaient fui(e)s
+
+** Passé simple
+
+je fus fui(e)
+tu fus fui(e)
+il (elle) fut fui(e)
+nous fûmes fui(e)s
+vous fûtes fui(e)s
+ils (elles) furent fui(e)s
+
+** Futur simple
+
+je serai fui(e)
+tu seras fui(e)
+il (elle) sera fui(e)
+nous serons fui(e)s
+vous serez fui(e)s
+ils (elles) seront fui(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fui(e)
+tu serais fui(e)
+il (elle) serait fui(e)
+nous serions fui(e)s
+vous seriez fui(e)s
+ils (elles) seraient fui(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fui(e)
+que tu sois fui(e)
+qu’il (elle) soit fui(e)
+que nous soyons fui(e)s
+que vous soyez fui(e)s
+qu’ils (elles) soient fui(e)s
+
+** Imparfait
+
+que je fusse fui(e)
+que tu fusses fui(e)
+qu’il (elle) fût fui(e)
+que nous fussions fui(e)s
+que vous fussiez fui(e)s
+qu’ils (elles) fussent fui(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fui(e)s
+soyez fui(e)s
+
+* INFINITIF
+
+** Présent
+
+être fui(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fui(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fui(e)
+tu as été fui(e)
+il (elle) a été fui(e)
+nous avons été fui(e)s
+vous avez été fui(e)s
+ils (elles) ont été fui(e)s
+
+** Plus-que-parfait
+
+j'avais été fui(e)
+il (elle) avait été fui(e)
+nous avions été fui(e)s
+ils (elles) avaient été fui(e)s
+
+** Passé antérieur
+
+j'eus été fui(e)
+tu eus été fui(e)
+il (elle) eut été fui(e)
+nous eûmes été fui(e)s
+vous eûtes été fui(e)s
+ils (elles) eurent été fui(e)s
+
+** Futur antérieur
+
+j'aurai été fui(e)
+tu auras été fui(e)
+il (elle) aura été fui(e)
+nous aurons été fui(e)s
+vous aurez été fui(e)s
+ils (elles) auront été fui(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fui(e)
+j'aurais été fui(e)
+il (elle) aurait été fui(e)
+nous aurions été fui(e)s
+vous auriez été fui(e)s
+ils (elles) auraient été fui(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fui(e)
+que tu aies été fui(e)
+qu’il (elle) ait été fui(e)
+que nous ayons été fui(e)s
+que vous ayez été fui(e)s
+qu’ils (elles) aient été fui(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fui(e)
+que tu eusses été fui(e)
+qu’il (elle) eût été fui(e)
+que nous eussions été fui(e)s
+que vous eussiez été fui(e)s
+qu’ils (elles) eussent été fui(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fui(e)
+ayons été fui(e)s
+ayez été fui(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fui(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fui(e)(s)

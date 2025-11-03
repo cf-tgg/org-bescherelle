@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cocher
+
+* INDICATIF
+
+** Présent
+
+je coche
+tu coches
+il (elle) coche
+nous cochons
+vous cochez
+ils (elles) cochent
+
+** Imparfait
+
+je cochais
+tu cochais
+il (elle) cochait
+nous cochions
+vous cochiez
+ils (elles) cochaient
+
+** Passé simple
+
+je cochai
+tu cochas
+il (elle) cocha
+nous cochâmes
+vous cochâtes
+ils (elles) cochèrent
+
+** Futur simple
+
+je cocherai
+tu cocheras
+il (elle) cochera
+nous cocherons
+vous cocherez
+ils (elles) cocheront
+
+* CONDITIONNEL
+
+** Présent
+
+je cocherais
+tu cocherais
+il (elle) cocherait
+nous cocherions
+vous cocheriez
+ils (elles) cocheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je coche
+que tu coches
+qu’il (elle) coche
+que nous cochions
+que vous cochiez
+qu’ils (elles) cochent
+
+** Imparfait
+
+que je cochasse
+que tu cochasses
+qu’il (elle) cochât
+que nous cochassions
+que vous cochassiez
+qu’ils (elles) cochassent
+
+* IMPÉRATIF
+
+** Présent
+
+coche
+cochons
+cochez
+
+* INFINITIF
+
+** Présent
+
+cocher
+
+* PARTICIPE
+
+** Présent
+
+cochant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai coché
+tu as coché
+il (elle) a coché
+nous avons coché
+vous avez coché
+ils (elles) ont coché
+
+** Plus-que-parfait
+
+j'avais coché
+tu avais coché
+il (elle) avait coché
+nous avions coché
+vous aviez coché
+ils (elles) avaient coché
+
+** Passé antérieur
+
+j'eus coché
+tu eus coché
+il (elle) eut coché
+nous eûmes coché
+vous eûtes coché
+ils (elles) eurent coché
+
+** Futur antérieur
+
+j'aurai coché
+tu auras coché
+il (elle) aura coché
+nous aurons coché
+vous aurez coché
+ils (elles) auront coché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais coché
+tu aurais coché
+il (elle) aurait coché
+nous aurions coché
+vous auriez coché
+ils (elles) auraient coché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie coché
+que tu aies coché
+qu’il (elle) ait coché
+que nous ayons coché
+que vous ayez coché
+qu’ils (elles) aient coché
+
+** Plus-que-parfait
+
+que j'eusse coché
+que tu eusses coché
+qu’il (elle) eût coché
+que nous eussions coché
+que vous eussiez coché
+qu’ils (elles) eussent coché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons coché
+ayez coché
+
+* INFINITIF
+
+** Passé
+
+avoir coché
+
+* PARTICIPE
+
+** Passé
+
+ayant coché
+coché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis coché(e)
+tu es coché(e)
+il (elle) est coché(e)
+nous sommes coché(e)s
+vous êtes coché(e)s
+ils (elles) sont coché(e)s
+
+** Imparfait
+
+j'étais coché(e)
+tu étais coché(e)
+il (elle) était coché(e)
+nous étions coché(e)s
+vous étiez coché(e)s
+ils (elles) étaient coché(e)s
+
+** Passé simple
+
+je fus coché(e)
+tu fus coché(e)
+il (elle) fut coché(e)
+nous fûmes coché(e)s
+vous fûtes coché(e)s
+ils (elles) furent coché(e)s
+
+** Futur simple
+
+je serai coché(e)
+tu seras coché(e)
+il (elle) sera coché(e)
+nous serons coché(e)s
+vous serez coché(e)s
+ils (elles) seront coché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais coché(e)
+tu serais coché(e)
+il (elle) serait coché(e)
+nous serions coché(e)s
+vous seriez coché(e)s
+ils (elles) seraient coché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois coché(e)
+que tu sois coché(e)
+qu’il (elle) soit coché(e)
+que nous soyons coché(e)s
+que vous soyez coché(e)s
+qu’ils (elles) soient coché(e)s
+
+** Imparfait
+
+que je fusse coché(e)
+que tu fusses coché(e)
+qu’il (elle) fût coché(e)
+que nous fussions coché(e)s
+que vous fussiez coché(e)s
+qu’ils (elles) fussent coché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons coché(e)s
+soyez coché(e)s
+
+* INFINITIF
+
+** Présent
+
+être coché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant coché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été coché(e)
+tu as été coché(e)
+il (elle) a été coché(e)
+nous avons été coché(e)s
+vous avez été coché(e)s
+ils (elles) ont été coché(e)s
+
+** Plus-que-parfait
+
+j'avais été coché(e)
+il (elle) avait été coché(e)
+nous avions été coché(e)s
+ils (elles) avaient été coché(e)s
+
+** Passé antérieur
+
+j'eus été coché(e)
+tu eus été coché(e)
+il (elle) eut été coché(e)
+nous eûmes été coché(e)s
+vous eûtes été coché(e)s
+ils (elles) eurent été coché(e)s
+
+** Futur antérieur
+
+j'aurai été coché(e)
+tu auras été coché(e)
+il (elle) aura été coché(e)
+nous aurons été coché(e)s
+vous aurez été coché(e)s
+ils (elles) auront été coché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été coché(e)
+j'aurais été coché(e)
+il (elle) aurait été coché(e)
+nous aurions été coché(e)s
+vous auriez été coché(e)s
+ils (elles) auraient été coché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été coché(e)
+que tu aies été coché(e)
+qu’il (elle) ait été coché(e)
+que nous ayons été coché(e)s
+que vous ayez été coché(e)s
+qu’ils (elles) aient été coché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été coché(e)
+que tu eusses été coché(e)
+qu’il (elle) eût été coché(e)
+que nous eussions été coché(e)s
+que vous eussiez été coché(e)s
+qu’ils (elles) eussent été coché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été coché(e)
+ayons été coché(e)s
+ayez été coché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été coché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été coché(e)(s)

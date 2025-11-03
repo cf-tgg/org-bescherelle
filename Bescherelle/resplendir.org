@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe resplendir
+
+* INDICATIF
+
+** Présent
+
+je resplendis
+tu resplendis
+il (elle) resplendit
+nous resplendissons
+vous resplendissez
+ils (elles) resplendissent
+
+** Imparfait
+
+je resplendissais
+tu resplendissais
+il (elle) resplendissait
+nous resplendissions
+vous resplendissiez
+ils (elles) resplendissaient
+
+** Passé simple
+
+je resplendis
+tu resplendis
+il (elle) resplendit
+nous resplendîmes
+vous resplendîtes
+ils (elles) resplendirent
+
+** Futur simple
+
+je resplendirai
+tu resplendiras
+il (elle) resplendira
+nous resplendirons
+vous resplendirez
+ils (elles) resplendiront
+
+* CONDITIONNEL
+
+** Présent
+
+je resplendirais
+tu resplendirais
+il (elle) resplendirait
+nous resplendirions
+vous resplendiriez
+ils (elles) resplendiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je resplendisse
+que tu resplendisses
+qu’il (elle) resplendisse
+que nous resplendissions
+que vous resplendissiez
+qu’ils (elles) resplendissent
+
+** Imparfait
+
+que je resplendisse
+que tu resplendisses
+qu’il (elle) resplendît
+que nous resplendissions
+que vous resplendissiez
+qu’ils (elles) resplendissent
+
+* IMPÉRATIF
+
+** Présent
+
+resplendis
+resplendissons
+resplendissez
+
+* INFINITIF
+
+** Présent
+
+resplendir
+
+* PARTICIPE
+
+** Présent
+
+resplendissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai resplendi
+tu as resplendi
+il (elle) a resplendi
+nous avons resplendi
+vous avez resplendi
+ils (elles) ont resplendi
+
+** Plus-que-parfait
+
+j'avais resplendi
+tu avais resplendi
+il (elle) avait resplendi
+nous avions resplendi
+vous aviez resplendi
+ils (elles) avaient resplendi
+
+** Passé antérieur
+
+j'eus resplendi
+tu eus resplendi
+il (elle) eut resplendi
+nous eûmes resplendi
+vous eûtes resplendi
+ils (elles) eurent resplendi
+
+** Futur antérieur
+
+j'aurai resplendi
+tu auras resplendi
+il (elle) aura resplendi
+nous aurons resplendi
+vous aurez resplendi
+ils (elles) auront resplendi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais resplendi
+tu aurais resplendi
+il (elle) aurait resplendi
+nous aurions resplendi
+vous auriez resplendi
+ils (elles) auraient resplendi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie resplendi
+que tu aies resplendi
+qu’il (elle) ait resplendi
+que nous ayons resplendi
+que vous ayez resplendi
+qu’ils (elles) aient resplendi
+
+** Plus-que-parfait
+
+que j'eusse resplendi
+que tu eusses resplendi
+qu’il (elle) eût resplendi
+que nous eussions resplendi
+que vous eussiez resplendi
+qu’ils (elles) eussent resplendi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons resplendi
+ayez resplendi
+
+* INFINITIF
+
+** Passé
+
+avoir resplendi
+
+* PARTICIPE
+
+** Passé
+
+ayant resplendi
+resplendi (invar.)

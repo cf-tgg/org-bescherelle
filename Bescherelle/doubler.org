@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe doubler
+
+* INDICATIF
+
+** Présent
+
+je double
+tu doubles
+il (elle) double
+nous doublons
+vous doublez
+ils (elles) doublent
+
+** Imparfait
+
+je doublais
+tu doublais
+il (elle) doublait
+nous doublions
+vous doubliez
+ils (elles) doublaient
+
+** Passé simple
+
+je doublai
+tu doublas
+il (elle) doubla
+nous doublâmes
+vous doublâtes
+ils (elles) doublèrent
+
+** Futur simple
+
+je doublerai
+tu doubleras
+il (elle) doublera
+nous doublerons
+vous doublerez
+ils (elles) doubleront
+
+* CONDITIONNEL
+
+** Présent
+
+je doublerais
+tu doublerais
+il (elle) doublerait
+nous doublerions
+vous doubleriez
+ils (elles) doubleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je double
+que tu doubles
+qu’il (elle) double
+que nous doublions
+que vous doubliez
+qu’ils (elles) doublent
+
+** Imparfait
+
+que je doublasse
+que tu doublasses
+qu’il (elle) doublât
+que nous doublassions
+que vous doublassiez
+qu’ils (elles) doublassent
+
+* IMPÉRATIF
+
+** Présent
+
+double
+doublons
+doublez
+
+* INFINITIF
+
+** Présent
+
+doubler
+
+* PARTICIPE
+
+** Présent
+
+doublant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai doublé
+tu as doublé
+il (elle) a doublé
+nous avons doublé
+vous avez doublé
+ils (elles) ont doublé
+
+** Plus-que-parfait
+
+j'avais doublé
+tu avais doublé
+il (elle) avait doublé
+nous avions doublé
+vous aviez doublé
+ils (elles) avaient doublé
+
+** Passé antérieur
+
+j'eus doublé
+tu eus doublé
+il (elle) eut doublé
+nous eûmes doublé
+vous eûtes doublé
+ils (elles) eurent doublé
+
+** Futur antérieur
+
+j'aurai doublé
+tu auras doublé
+il (elle) aura doublé
+nous aurons doublé
+vous aurez doublé
+ils (elles) auront doublé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais doublé
+tu aurais doublé
+il (elle) aurait doublé
+nous aurions doublé
+vous auriez doublé
+ils (elles) auraient doublé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie doublé
+que tu aies doublé
+qu’il (elle) ait doublé
+que nous ayons doublé
+que vous ayez doublé
+qu’ils (elles) aient doublé
+
+** Plus-que-parfait
+
+que j'eusse doublé
+que tu eusses doublé
+qu’il (elle) eût doublé
+que nous eussions doublé
+que vous eussiez doublé
+qu’ils (elles) eussent doublé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons doublé
+ayez doublé
+
+* INFINITIF
+
+** Passé
+
+avoir doublé
+
+* PARTICIPE
+
+** Passé
+
+ayant doublé
+doublé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis doublé(e)
+tu es doublé(e)
+il (elle) est doublé(e)
+nous sommes doublé(e)s
+vous êtes doublé(e)s
+ils (elles) sont doublé(e)s
+
+** Imparfait
+
+j'étais doublé(e)
+tu étais doublé(e)
+il (elle) était doublé(e)
+nous étions doublé(e)s
+vous étiez doublé(e)s
+ils (elles) étaient doublé(e)s
+
+** Passé simple
+
+je fus doublé(e)
+tu fus doublé(e)
+il (elle) fut doublé(e)
+nous fûmes doublé(e)s
+vous fûtes doublé(e)s
+ils (elles) furent doublé(e)s
+
+** Futur simple
+
+je serai doublé(e)
+tu seras doublé(e)
+il (elle) sera doublé(e)
+nous serons doublé(e)s
+vous serez doublé(e)s
+ils (elles) seront doublé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais doublé(e)
+tu serais doublé(e)
+il (elle) serait doublé(e)
+nous serions doublé(e)s
+vous seriez doublé(e)s
+ils (elles) seraient doublé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois doublé(e)
+que tu sois doublé(e)
+qu’il (elle) soit doublé(e)
+que nous soyons doublé(e)s
+que vous soyez doublé(e)s
+qu’ils (elles) soient doublé(e)s
+
+** Imparfait
+
+que je fusse doublé(e)
+que tu fusses doublé(e)
+qu’il (elle) fût doublé(e)
+que nous fussions doublé(e)s
+que vous fussiez doublé(e)s
+qu’ils (elles) fussent doublé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons doublé(e)s
+soyez doublé(e)s
+
+* INFINITIF
+
+** Présent
+
+être doublé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant doublé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été doublé(e)
+tu as été doublé(e)
+il (elle) a été doublé(e)
+nous avons été doublé(e)s
+vous avez été doublé(e)s
+ils (elles) ont été doublé(e)s
+
+** Plus-que-parfait
+
+j'avais été doublé(e)
+il (elle) avait été doublé(e)
+nous avions été doublé(e)s
+ils (elles) avaient été doublé(e)s
+
+** Passé antérieur
+
+j'eus été doublé(e)
+tu eus été doublé(e)
+il (elle) eut été doublé(e)
+nous eûmes été doublé(e)s
+vous eûtes été doublé(e)s
+ils (elles) eurent été doublé(e)s
+
+** Futur antérieur
+
+j'aurai été doublé(e)
+tu auras été doublé(e)
+il (elle) aura été doublé(e)
+nous aurons été doublé(e)s
+vous aurez été doublé(e)s
+ils (elles) auront été doublé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été doublé(e)
+j'aurais été doublé(e)
+il (elle) aurait été doublé(e)
+nous aurions été doublé(e)s
+vous auriez été doublé(e)s
+ils (elles) auraient été doublé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été doublé(e)
+que tu aies été doublé(e)
+qu’il (elle) ait été doublé(e)
+que nous ayons été doublé(e)s
+que vous ayez été doublé(e)s
+qu’ils (elles) aient été doublé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été doublé(e)
+que tu eusses été doublé(e)
+qu’il (elle) eût été doublé(e)
+que nous eussions été doublé(e)s
+que vous eussiez été doublé(e)s
+qu’ils (elles) eussent été doublé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été doublé(e)
+ayons été doublé(e)s
+ayez été doublé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été doublé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été doublé(e)(s)

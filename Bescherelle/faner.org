@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe faner
+
+* INDICATIF
+
+** Présent
+
+je fane
+tu fanes
+il (elle) fane
+nous fanons
+vous fanez
+ils (elles) fanent
+
+** Imparfait
+
+je fanais
+tu fanais
+il (elle) fanait
+nous fanions
+vous faniez
+ils (elles) fanaient
+
+** Passé simple
+
+je fanai
+tu fanas
+il (elle) fana
+nous fanâmes
+vous fanâtes
+ils (elles) fanèrent
+
+** Futur simple
+
+je fanerai
+tu faneras
+il (elle) fanera
+nous fanerons
+vous fanerez
+ils (elles) faneront
+
+* CONDITIONNEL
+
+** Présent
+
+je fanerais
+tu fanerais
+il (elle) fanerait
+nous fanerions
+vous faneriez
+ils (elles) faneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fane
+que tu fanes
+qu’il (elle) fane
+que nous fanions
+que vous faniez
+qu’ils (elles) fanent
+
+** Imparfait
+
+que je fanasse
+que tu fanasses
+qu’il (elle) fanât
+que nous fanassions
+que vous fanassiez
+qu’ils (elles) fanassent
+
+* IMPÉRATIF
+
+** Présent
+
+fane
+fanons
+fanez
+
+* INFINITIF
+
+** Présent
+
+faner
+
+* PARTICIPE
+
+** Présent
+
+fanant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fané
+tu as fané
+il (elle) a fané
+nous avons fané
+vous avez fané
+ils (elles) ont fané
+
+** Plus-que-parfait
+
+j'avais fané
+tu avais fané
+il (elle) avait fané
+nous avions fané
+vous aviez fané
+ils (elles) avaient fané
+
+** Passé antérieur
+
+j'eus fané
+tu eus fané
+il (elle) eut fané
+nous eûmes fané
+vous eûtes fané
+ils (elles) eurent fané
+
+** Futur antérieur
+
+j'aurai fané
+tu auras fané
+il (elle) aura fané
+nous aurons fané
+vous aurez fané
+ils (elles) auront fané
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fané
+tu aurais fané
+il (elle) aurait fané
+nous aurions fané
+vous auriez fané
+ils (elles) auraient fané
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fané
+que tu aies fané
+qu’il (elle) ait fané
+que nous ayons fané
+que vous ayez fané
+qu’ils (elles) aient fané
+
+** Plus-que-parfait
+
+que j'eusse fané
+que tu eusses fané
+qu’il (elle) eût fané
+que nous eussions fané
+que vous eussiez fané
+qu’ils (elles) eussent fané
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fané
+ayez fané
+
+* INFINITIF
+
+** Passé
+
+avoir fané
+
+* PARTICIPE
+
+** Passé
+
+ayant fané
+fané (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fané(e)
+tu es fané(e)
+il (elle) est fané(e)
+nous sommes fané(e)s
+vous êtes fané(e)s
+ils (elles) sont fané(e)s
+
+** Imparfait
+
+j'étais fané(e)
+tu étais fané(e)
+il (elle) était fané(e)
+nous étions fané(e)s
+vous étiez fané(e)s
+ils (elles) étaient fané(e)s
+
+** Passé simple
+
+je fus fané(e)
+tu fus fané(e)
+il (elle) fut fané(e)
+nous fûmes fané(e)s
+vous fûtes fané(e)s
+ils (elles) furent fané(e)s
+
+** Futur simple
+
+je serai fané(e)
+tu seras fané(e)
+il (elle) sera fané(e)
+nous serons fané(e)s
+vous serez fané(e)s
+ils (elles) seront fané(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fané(e)
+tu serais fané(e)
+il (elle) serait fané(e)
+nous serions fané(e)s
+vous seriez fané(e)s
+ils (elles) seraient fané(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fané(e)
+que tu sois fané(e)
+qu’il (elle) soit fané(e)
+que nous soyons fané(e)s
+que vous soyez fané(e)s
+qu’ils (elles) soient fané(e)s
+
+** Imparfait
+
+que je fusse fané(e)
+que tu fusses fané(e)
+qu’il (elle) fût fané(e)
+que nous fussions fané(e)s
+que vous fussiez fané(e)s
+qu’ils (elles) fussent fané(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fané(e)s
+soyez fané(e)s
+
+* INFINITIF
+
+** Présent
+
+être fané(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fané(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fané(e)
+tu as été fané(e)
+il (elle) a été fané(e)
+nous avons été fané(e)s
+vous avez été fané(e)s
+ils (elles) ont été fané(e)s
+
+** Plus-que-parfait
+
+j'avais été fané(e)
+il (elle) avait été fané(e)
+nous avions été fané(e)s
+ils (elles) avaient été fané(e)s
+
+** Passé antérieur
+
+j'eus été fané(e)
+tu eus été fané(e)
+il (elle) eut été fané(e)
+nous eûmes été fané(e)s
+vous eûtes été fané(e)s
+ils (elles) eurent été fané(e)s
+
+** Futur antérieur
+
+j'aurai été fané(e)
+tu auras été fané(e)
+il (elle) aura été fané(e)
+nous aurons été fané(e)s
+vous aurez été fané(e)s
+ils (elles) auront été fané(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fané(e)
+j'aurais été fané(e)
+il (elle) aurait été fané(e)
+nous aurions été fané(e)s
+vous auriez été fané(e)s
+ils (elles) auraient été fané(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fané(e)
+que tu aies été fané(e)
+qu’il (elle) ait été fané(e)
+que nous ayons été fané(e)s
+que vous ayez été fané(e)s
+qu’ils (elles) aient été fané(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fané(e)
+que tu eusses été fané(e)
+qu’il (elle) eût été fané(e)
+que nous eussions été fané(e)s
+que vous eussiez été fané(e)s
+qu’ils (elles) eussent été fané(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fané(e)
+ayons été fané(e)s
+ayez été fané(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fané(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fané(e)(s)

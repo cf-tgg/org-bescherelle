@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fiancer
+
+* INDICATIF
+
+** Présent
+
+je fiance
+tu fiances
+il (elle) fiance
+nous fiançons
+vous fiancez
+ils (elles) fiancent
+
+** Imparfait
+
+je fiançais
+tu fiançais
+il (elle) fiançait
+nous fiancions
+vous fianciez
+ils (elles) fiançaient
+
+** Passé simple
+
+je fiançai
+tu fianças
+il (elle) fiança
+nous fiançâmes
+vous fiançâtes
+ils (elles) fiancèrent
+
+** Futur simple
+
+je fiancerai
+tu fianceras
+il (elle) fiancera
+nous fiancerons
+vous fiancerez
+ils (elles) fianceront
+
+* CONDITIONNEL
+
+** Présent
+
+je fiancerais
+tu fiancerais
+il (elle) fiancerait
+nous fiancerions
+vous fianceriez
+ils (elles) fianceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fiance
+que tu fiances
+qu’il (elle) fiance
+que nous fiancions
+que vous fianciez
+qu’ils (elles) fiancent
+
+** Imparfait
+
+que je fiançasse
+que tu fiançasses
+qu’il (elle) fiançât
+que nous fiançassions
+que vous fiançassiez
+qu’ils (elles) fiançassent
+
+* IMPÉRATIF
+
+** Présent
+
+fiance
+fiançons
+fiancez
+
+* INFINITIF
+
+** Présent
+
+fiancer
+
+* PARTICIPE
+
+** Présent
+
+fiançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fiancé
+tu as fiancé
+il (elle) a fiancé
+nous avons fiancé
+vous avez fiancé
+ils (elles) ont fiancé
+
+** Plus-que-parfait
+
+j'avais fiancé
+tu avais fiancé
+il (elle) avait fiancé
+nous avions fiancé
+vous aviez fiancé
+ils (elles) avaient fiancé
+
+** Passé antérieur
+
+j'eus fiancé
+tu eus fiancé
+il (elle) eut fiancé
+nous eûmes fiancé
+vous eûtes fiancé
+ils (elles) eurent fiancé
+
+** Futur antérieur
+
+j'aurai fiancé
+tu auras fiancé
+il (elle) aura fiancé
+nous aurons fiancé
+vous aurez fiancé
+ils (elles) auront fiancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fiancé
+tu aurais fiancé
+il (elle) aurait fiancé
+nous aurions fiancé
+vous auriez fiancé
+ils (elles) auraient fiancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fiancé
+que tu aies fiancé
+qu’il (elle) ait fiancé
+que nous ayons fiancé
+que vous ayez fiancé
+qu’ils (elles) aient fiancé
+
+** Plus-que-parfait
+
+que j'eusse fiancé
+que tu eusses fiancé
+qu’il (elle) eût fiancé
+que nous eussions fiancé
+que vous eussiez fiancé
+qu’ils (elles) eussent fiancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fiancé
+ayez fiancé
+
+* INFINITIF
+
+** Passé
+
+avoir fiancé
+
+* PARTICIPE
+
+** Passé
+
+ayant fiancé
+fiancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fiancé(e)
+tu es fiancé(e)
+il (elle) est fiancé(e)
+nous sommes fiancé(e)s
+vous êtes fiancé(e)s
+ils (elles) sont fiancé(e)s
+
+** Imparfait
+
+j'étais fiancé(e)
+tu étais fiancé(e)
+il (elle) était fiancé(e)
+nous étions fiancé(e)s
+vous étiez fiancé(e)s
+ils (elles) étaient fiancé(e)s
+
+** Passé simple
+
+je fus fiancé(e)
+tu fus fiancé(e)
+il (elle) fut fiancé(e)
+nous fûmes fiancé(e)s
+vous fûtes fiancé(e)s
+ils (elles) furent fiancé(e)s
+
+** Futur simple
+
+je serai fiancé(e)
+tu seras fiancé(e)
+il (elle) sera fiancé(e)
+nous serons fiancé(e)s
+vous serez fiancé(e)s
+ils (elles) seront fiancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fiancé(e)
+tu serais fiancé(e)
+il (elle) serait fiancé(e)
+nous serions fiancé(e)s
+vous seriez fiancé(e)s
+ils (elles) seraient fiancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fiancé(e)
+que tu sois fiancé(e)
+qu’il (elle) soit fiancé(e)
+que nous soyons fiancé(e)s
+que vous soyez fiancé(e)s
+qu’ils (elles) soient fiancé(e)s
+
+** Imparfait
+
+que je fusse fiancé(e)
+que tu fusses fiancé(e)
+qu’il (elle) fût fiancé(e)
+que nous fussions fiancé(e)s
+que vous fussiez fiancé(e)s
+qu’ils (elles) fussent fiancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fiancé(e)s
+soyez fiancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fiancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fiancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fiancé(e)
+tu as été fiancé(e)
+il (elle) a été fiancé(e)
+nous avons été fiancé(e)s
+vous avez été fiancé(e)s
+ils (elles) ont été fiancé(e)s
+
+** Plus-que-parfait
+
+j'avais été fiancé(e)
+il (elle) avait été fiancé(e)
+nous avions été fiancé(e)s
+ils (elles) avaient été fiancé(e)s
+
+** Passé antérieur
+
+j'eus été fiancé(e)
+tu eus été fiancé(e)
+il (elle) eut été fiancé(e)
+nous eûmes été fiancé(e)s
+vous eûtes été fiancé(e)s
+ils (elles) eurent été fiancé(e)s
+
+** Futur antérieur
+
+j'aurai été fiancé(e)
+tu auras été fiancé(e)
+il (elle) aura été fiancé(e)
+nous aurons été fiancé(e)s
+vous aurez été fiancé(e)s
+ils (elles) auront été fiancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fiancé(e)
+j'aurais été fiancé(e)
+il (elle) aurait été fiancé(e)
+nous aurions été fiancé(e)s
+vous auriez été fiancé(e)s
+ils (elles) auraient été fiancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fiancé(e)
+que tu aies été fiancé(e)
+qu’il (elle) ait été fiancé(e)
+que nous ayons été fiancé(e)s
+que vous ayez été fiancé(e)s
+qu’ils (elles) aient été fiancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fiancé(e)
+que tu eusses été fiancé(e)
+qu’il (elle) eût été fiancé(e)
+que nous eussions été fiancé(e)s
+que vous eussiez été fiancé(e)s
+qu’ils (elles) eussent été fiancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fiancé(e)
+ayons été fiancé(e)s
+ayez été fiancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fiancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fiancé(e)(s)

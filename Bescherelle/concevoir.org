@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe concevoir
+
+* INDICATIF
+
+** Présent
+
+je conçois
+tu conçois
+il (elle) conçoit
+nous concevons
+vous concevez
+ils (elles) conçoivent
+
+** Imparfait
+
+je concevais
+tu concevais
+il (elle) concevait
+nous concevions
+vous conceviez
+ils (elles) concevaient
+
+** Passé simple
+
+je conçus
+tu conçus
+il (elle) conçut
+nous conçûmes
+vous conçûtes
+ils (elles) conçurent
+
+** Futur simple
+
+je concevrai
+tu concevras
+il (elle) concevra
+nous concevrons
+vous concevrez
+ils (elles) concevront
+
+* CONDITIONNEL
+
+** Présent
+
+je concevrais
+tu concevrais
+il (elle) concevrait
+nous concevrions
+vous concevriez
+ils (elles) concevraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conçoive
+que tu conçoives
+qu’il (elle) conçoive
+que nous concevions
+que vous conceviez
+qu’ils (elles) conçoivent
+
+** Imparfait
+
+que je conçusse
+que tu conçusses
+qu’il (elle) conçût
+que nous conçussions
+que vous conçussiez
+qu’ils (elles) conçussent
+
+* IMPÉRATIF
+
+** Présent
+
+conçois
+concevons
+concevez
+
+* INFINITIF
+
+** Présent
+
+concevoir
+
+* PARTICIPE
+
+** Présent
+
+concevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conçu
+tu as conçu
+il (elle) a conçu
+nous avons conçu
+vous avez conçu
+ils (elles) ont conçu
+
+** Plus-que-parfait
+
+j'avais conçu
+tu avais conçu
+il (elle) avait conçu
+nous avions conçu
+vous aviez conçu
+ils (elles) avaient conçu
+
+** Passé antérieur
+
+j'eus conçu
+tu eus conçu
+il (elle) eut conçu
+nous eûmes conçu
+vous eûtes conçu
+ils (elles) eurent conçu
+
+** Futur antérieur
+
+j'aurai conçu
+tu auras conçu
+il (elle) aura conçu
+nous aurons conçu
+vous aurez conçu
+ils (elles) auront conçu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conçu
+tu aurais conçu
+il (elle) aurait conçu
+nous aurions conçu
+vous auriez conçu
+ils (elles) auraient conçu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conçu
+que tu aies conçu
+qu’il (elle) ait conçu
+que nous ayons conçu
+que vous ayez conçu
+qu’ils (elles) aient conçu
+
+** Plus-que-parfait
+
+que j'eusse conçu
+que tu eusses conçu
+qu’il (elle) eût conçu
+que nous eussions conçu
+que vous eussiez conçu
+qu’ils (elles) eussent conçu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conçu
+ayez conçu
+
+* INFINITIF
+
+** Passé
+
+avoir conçu
+
+* PARTICIPE
+
+** Passé
+
+ayant conçu
+conçu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis conçu(e)
+tu es conçu(e)
+il (elle) est conçu(e)
+nous sommes conçu(e)s
+vous êtes conçu(e)s
+ils (elles) sont conçu(e)s
+
+** Imparfait
+
+j'étais conçu(e)
+tu étais conçu(e)
+il (elle) était conçu(e)
+nous étions conçu(e)s
+vous étiez conçu(e)s
+ils (elles) étaient conçu(e)s
+
+** Passé simple
+
+je fus conçu(e)
+tu fus conçu(e)
+il (elle) fut conçu(e)
+nous fûmes conçu(e)s
+vous fûtes conçu(e)s
+ils (elles) furent conçu(e)s
+
+** Futur simple
+
+je serai conçu(e)
+tu seras conçu(e)
+il (elle) sera conçu(e)
+nous serons conçu(e)s
+vous serez conçu(e)s
+ils (elles) seront conçu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conçu(e)
+tu serais conçu(e)
+il (elle) serait conçu(e)
+nous serions conçu(e)s
+vous seriez conçu(e)s
+ils (elles) seraient conçu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conçu(e)
+que tu sois conçu(e)
+qu’il (elle) soit conçu(e)
+que nous soyons conçu(e)s
+que vous soyez conçu(e)s
+qu’ils (elles) soient conçu(e)s
+
+** Imparfait
+
+que je fusse conçu(e)
+que tu fusses conçu(e)
+qu’il (elle) fût conçu(e)
+que nous fussions conçu(e)s
+que vous fussiez conçu(e)s
+qu’ils (elles) fussent conçu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conçu(e)s
+soyez conçu(e)s
+
+* INFINITIF
+
+** Présent
+
+être conçu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conçu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conçu(e)
+tu as été conçu(e)
+il (elle) a été conçu(e)
+nous avons été conçu(e)s
+vous avez été conçu(e)s
+ils (elles) ont été conçu(e)s
+
+** Plus-que-parfait
+
+j'avais été conçu(e)
+il (elle) avait été conçu(e)
+nous avions été conçu(e)s
+ils (elles) avaient été conçu(e)s
+
+** Passé antérieur
+
+j'eus été conçu(e)
+tu eus été conçu(e)
+il (elle) eut été conçu(e)
+nous eûmes été conçu(e)s
+vous eûtes été conçu(e)s
+ils (elles) eurent été conçu(e)s
+
+** Futur antérieur
+
+j'aurai été conçu(e)
+tu auras été conçu(e)
+il (elle) aura été conçu(e)
+nous aurons été conçu(e)s
+vous aurez été conçu(e)s
+ils (elles) auront été conçu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conçu(e)
+j'aurais été conçu(e)
+il (elle) aurait été conçu(e)
+nous aurions été conçu(e)s
+vous auriez été conçu(e)s
+ils (elles) auraient été conçu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conçu(e)
+que tu aies été conçu(e)
+qu’il (elle) ait été conçu(e)
+que nous ayons été conçu(e)s
+que vous ayez été conçu(e)s
+qu’ils (elles) aient été conçu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conçu(e)
+que tu eusses été conçu(e)
+qu’il (elle) eût été conçu(e)
+que nous eussions été conçu(e)s
+que vous eussiez été conçu(e)s
+qu’ils (elles) eussent été conçu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conçu(e)
+ayons été conçu(e)s
+ayez été conçu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conçu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conçu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avoir
+
+* INDICATIF
+
+** Présent
+
+j'ai
+tu as
+il (elle) a
+nous avons
+vous avez
+ils (elles) ont
+
+** Imparfait
+
+j'avais
+tu avais
+il (elle) avait
+nous avions
+vous aviez
+ils (elles) avaient
+
+** Passé simple
+
+j'eus
+tu eus
+il (elle) eut
+nous eûmes
+vous eûtes
+ils (elles) eurent
+
+** Futur simple
+
+j'aurai
+tu auras
+il (elle) aura
+nous aurons
+vous aurez
+ils (elles) auront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aurais
+tu aurais
+il (elle) aurait
+nous aurions
+vous auriez
+ils (elles) auraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aie
+que tu aies
+qu’il (elle) ait
+que nous ayons
+que vous ayez
+qu’ils (elles) aient
+
+** Imparfait
+
+que j'eusse
+que tu eusses
+qu’il (elle) eût
+que nous eussions
+que vous eussiez
+qu’ils (elles) eussent
+
+* IMPÉRATIF
+
+** Présent
+
+aie
+ayons
+ayez
+
+* INFINITIF
+
+** Présent
+
+avoir
+
+* PARTICIPE
+
+** Présent
+
+ayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai eu
+tu as eu
+il (elle) a eu
+nous avons eu
+vous avez eu
+ils (elles) ont eu
+
+** Plus-que-parfait
+
+j'avais eu
+tu avais eu
+il (elle) avait eu
+nous avions eu
+vous aviez eu
+ils (elles) avaient eu
+
+** Passé antérieur
+
+j'eus eu
+tu eus eu
+il (elle) eut eu
+nous eûmes eu
+vous eûtes eu
+ils (elles) eurent eu
+
+** Futur antérieur
+
+j'aurai eu
+tu auras eu
+il (elle) aura eu
+nous aurons eu
+vous aurez eu
+ils (elles) auront eu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais eu
+tu aurais eu
+il (elle) aurait eu
+nous aurions eu
+vous auriez eu
+ils (elles) auraient eu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie eu
+que tu aies eu
+qu’il (elle) ait eu
+que nous ayons eu
+que vous ayez eu
+qu’ils (elles) aient eu
+
+** Plus-que-parfait
+
+que j'eusse eu
+que tu eusses eu
+qu’il (elle) eût eu
+que nous eussions eu
+que vous eussiez eu
+qu’ils (elles) eussent eu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons eu
+ayez eu
+
+* INFINITIF
+
+** Passé
+
+avoir eu
+
+* PARTICIPE
+
+** Passé
+
+ayant eu
+eu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis eu(e)
+tu es eu(e)
+il (elle) est eu(e)
+nous sommes eu(e)s
+vous êtes eu(e)s
+ils (elles) sont eu(e)s
+
+** Imparfait
+
+j'étais eu(e)
+tu étais eu(e)
+il (elle) était eu(e)
+nous étions eu(e)s
+vous étiez eu(e)s
+ils (elles) étaient eu(e)s
+
+** Passé simple
+
+je fus eu(e)
+tu fus eu(e)
+il (elle) fut eu(e)
+nous fûmes eu(e)s
+vous fûtes eu(e)s
+ils (elles) furent eu(e)s
+
+** Futur simple
+
+je serai eu(e)
+tu seras eu(e)
+il (elle) sera eu(e)
+nous serons eu(e)s
+vous serez eu(e)s
+ils (elles) seront eu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais eu(e)
+tu serais eu(e)
+il (elle) serait eu(e)
+nous serions eu(e)s
+vous seriez eu(e)s
+ils (elles) seraient eu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois eu(e)
+que tu sois eu(e)
+qu’il (elle) soit eu(e)
+que nous soyons eu(e)s
+que vous soyez eu(e)s
+qu’ils (elles) soient eu(e)s
+
+** Imparfait
+
+que je fusse eu(e)
+que tu fusses eu(e)
+qu’il (elle) fût eu(e)
+que nous fussions eu(e)s
+que vous fussiez eu(e)s
+qu’ils (elles) fussent eu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons eu(e)s
+soyez eu(e)s
+
+* INFINITIF
+
+** Présent
+
+être eu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant eu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été eu(e)
+tu as été eu(e)
+il (elle) a été eu(e)
+nous avons été eu(e)s
+vous avez été eu(e)s
+ils (elles) ont été eu(e)s
+
+** Plus-que-parfait
+
+j'avais été eu(e)
+il (elle) avait été eu(e)
+nous avions été eu(e)s
+ils (elles) avaient été eu(e)s
+
+** Passé antérieur
+
+j'eus été eu(e)
+tu eus été eu(e)
+il (elle) eut été eu(e)
+nous eûmes été eu(e)s
+vous eûtes été eu(e)s
+ils (elles) eurent été eu(e)s
+
+** Futur antérieur
+
+j'aurai été eu(e)
+tu auras été eu(e)
+il (elle) aura été eu(e)
+nous aurons été eu(e)s
+vous aurez été eu(e)s
+ils (elles) auront été eu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été eu(e)
+j'aurais été eu(e)
+il (elle) aurait été eu(e)
+nous aurions été eu(e)s
+vous auriez été eu(e)s
+ils (elles) auraient été eu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été eu(e)
+que tu aies été eu(e)
+qu’il (elle) ait été eu(e)
+que nous ayons été eu(e)s
+que vous ayez été eu(e)s
+qu’ils (elles) aient été eu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été eu(e)
+que tu eusses été eu(e)
+qu’il (elle) eût été eu(e)
+que nous eussions été eu(e)s
+que vous eussiez été eu(e)s
+qu’ils (elles) eussent été eu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été eu(e)
+ayons été eu(e)s
+ayez été eu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été eu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été eu(e)(s)

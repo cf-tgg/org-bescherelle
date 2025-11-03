@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe opter
+
+* INDICATIF
+
+** Présent
+
+j'opte
+tu optes
+il (elle) opte
+nous optons
+vous optez
+ils (elles) optent
+
+** Imparfait
+
+j'optais
+tu optais
+il (elle) optait
+nous options
+vous optiez
+ils (elles) optaient
+
+** Passé simple
+
+j'optai
+tu optas
+il (elle) opta
+nous optâmes
+vous optâtes
+ils (elles) optèrent
+
+** Futur simple
+
+j'opterai
+tu opteras
+il (elle) optera
+nous opterons
+vous opterez
+ils (elles) opteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'opterais
+tu opterais
+il (elle) opterait
+nous opterions
+vous opteriez
+ils (elles) opteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'opte
+que tu optes
+qu’il (elle) opte
+que nous options
+que vous optiez
+qu’ils (elles) optent
+
+** Imparfait
+
+que j'optasse
+que tu optasses
+qu’il (elle) optât
+que nous optassions
+que vous optassiez
+qu’ils (elles) optassent
+
+* IMPÉRATIF
+
+** Présent
+
+opte
+optons
+optez
+
+* INFINITIF
+
+** Présent
+
+opter
+
+* PARTICIPE
+
+** Présent
+
+optant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai opté
+tu as opté
+il (elle) a opté
+nous avons opté
+vous avez opté
+ils (elles) ont opté
+
+** Plus-que-parfait
+
+j'avais opté
+tu avais opté
+il (elle) avait opté
+nous avions opté
+vous aviez opté
+ils (elles) avaient opté
+
+** Passé antérieur
+
+j'eus opté
+tu eus opté
+il (elle) eut opté
+nous eûmes opté
+vous eûtes opté
+ils (elles) eurent opté
+
+** Futur antérieur
+
+j'aurai opté
+tu auras opté
+il (elle) aura opté
+nous aurons opté
+vous aurez opté
+ils (elles) auront opté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais opté
+tu aurais opté
+il (elle) aurait opté
+nous aurions opté
+vous auriez opté
+ils (elles) auraient opté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie opté
+que tu aies opté
+qu’il (elle) ait opté
+que nous ayons opté
+que vous ayez opté
+qu’ils (elles) aient opté
+
+** Plus-que-parfait
+
+que j'eusse opté
+que tu eusses opté
+qu’il (elle) eût opté
+que nous eussions opté
+que vous eussiez opté
+qu’ils (elles) eussent opté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons opté
+ayez opté
+
+* INFINITIF
+
+** Passé
+
+avoir opté
+
+* PARTICIPE
+
+** Passé
+
+ayant opté
+opté (invar.)

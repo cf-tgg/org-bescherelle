@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe valider
+
+* INDICATIF
+
+** Présent
+
+je valide
+tu valides
+il (elle) valide
+nous validons
+vous validez
+ils (elles) valident
+
+** Imparfait
+
+je validais
+tu validais
+il (elle) validait
+nous validions
+vous validiez
+ils (elles) validaient
+
+** Passé simple
+
+je validai
+tu validas
+il (elle) valida
+nous validâmes
+vous validâtes
+ils (elles) validèrent
+
+** Futur simple
+
+je validerai
+tu valideras
+il (elle) validera
+nous validerons
+vous validerez
+ils (elles) valideront
+
+* CONDITIONNEL
+
+** Présent
+
+je validerais
+tu validerais
+il (elle) validerait
+nous validerions
+vous valideriez
+ils (elles) valideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je valide
+que tu valides
+qu’il (elle) valide
+que nous validions
+que vous validiez
+qu’ils (elles) valident
+
+** Imparfait
+
+que je validasse
+que tu validasses
+qu’il (elle) validât
+que nous validassions
+que vous validassiez
+qu’ils (elles) validassent
+
+* IMPÉRATIF
+
+** Présent
+
+valide
+validons
+validez
+
+* INFINITIF
+
+** Présent
+
+valider
+
+* PARTICIPE
+
+** Présent
+
+validant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai validé
+tu as validé
+il (elle) a validé
+nous avons validé
+vous avez validé
+ils (elles) ont validé
+
+** Plus-que-parfait
+
+j'avais validé
+tu avais validé
+il (elle) avait validé
+nous avions validé
+vous aviez validé
+ils (elles) avaient validé
+
+** Passé antérieur
+
+j'eus validé
+tu eus validé
+il (elle) eut validé
+nous eûmes validé
+vous eûtes validé
+ils (elles) eurent validé
+
+** Futur antérieur
+
+j'aurai validé
+tu auras validé
+il (elle) aura validé
+nous aurons validé
+vous aurez validé
+ils (elles) auront validé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais validé
+tu aurais validé
+il (elle) aurait validé
+nous aurions validé
+vous auriez validé
+ils (elles) auraient validé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie validé
+que tu aies validé
+qu’il (elle) ait validé
+que nous ayons validé
+que vous ayez validé
+qu’ils (elles) aient validé
+
+** Plus-que-parfait
+
+que j'eusse validé
+que tu eusses validé
+qu’il (elle) eût validé
+que nous eussions validé
+que vous eussiez validé
+qu’ils (elles) eussent validé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons validé
+ayez validé
+
+* INFINITIF
+
+** Passé
+
+avoir validé
+
+* PARTICIPE
+
+** Passé
+
+ayant validé
+validé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis validé(e)
+tu es validé(e)
+il (elle) est validé(e)
+nous sommes validé(e)s
+vous êtes validé(e)s
+ils (elles) sont validé(e)s
+
+** Imparfait
+
+j'étais validé(e)
+tu étais validé(e)
+il (elle) était validé(e)
+nous étions validé(e)s
+vous étiez validé(e)s
+ils (elles) étaient validé(e)s
+
+** Passé simple
+
+je fus validé(e)
+tu fus validé(e)
+il (elle) fut validé(e)
+nous fûmes validé(e)s
+vous fûtes validé(e)s
+ils (elles) furent validé(e)s
+
+** Futur simple
+
+je serai validé(e)
+tu seras validé(e)
+il (elle) sera validé(e)
+nous serons validé(e)s
+vous serez validé(e)s
+ils (elles) seront validé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais validé(e)
+tu serais validé(e)
+il (elle) serait validé(e)
+nous serions validé(e)s
+vous seriez validé(e)s
+ils (elles) seraient validé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois validé(e)
+que tu sois validé(e)
+qu’il (elle) soit validé(e)
+que nous soyons validé(e)s
+que vous soyez validé(e)s
+qu’ils (elles) soient validé(e)s
+
+** Imparfait
+
+que je fusse validé(e)
+que tu fusses validé(e)
+qu’il (elle) fût validé(e)
+que nous fussions validé(e)s
+que vous fussiez validé(e)s
+qu’ils (elles) fussent validé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons validé(e)s
+soyez validé(e)s
+
+* INFINITIF
+
+** Présent
+
+être validé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant validé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été validé(e)
+tu as été validé(e)
+il (elle) a été validé(e)
+nous avons été validé(e)s
+vous avez été validé(e)s
+ils (elles) ont été validé(e)s
+
+** Plus-que-parfait
+
+j'avais été validé(e)
+il (elle) avait été validé(e)
+nous avions été validé(e)s
+ils (elles) avaient été validé(e)s
+
+** Passé antérieur
+
+j'eus été validé(e)
+tu eus été validé(e)
+il (elle) eut été validé(e)
+nous eûmes été validé(e)s
+vous eûtes été validé(e)s
+ils (elles) eurent été validé(e)s
+
+** Futur antérieur
+
+j'aurai été validé(e)
+tu auras été validé(e)
+il (elle) aura été validé(e)
+nous aurons été validé(e)s
+vous aurez été validé(e)s
+ils (elles) auront été validé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été validé(e)
+j'aurais été validé(e)
+il (elle) aurait été validé(e)
+nous aurions été validé(e)s
+vous auriez été validé(e)s
+ils (elles) auraient été validé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été validé(e)
+que tu aies été validé(e)
+qu’il (elle) ait été validé(e)
+que nous ayons été validé(e)s
+que vous ayez été validé(e)s
+qu’ils (elles) aient été validé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été validé(e)
+que tu eusses été validé(e)
+qu’il (elle) eût été validé(e)
+que nous eussions été validé(e)s
+que vous eussiez été validé(e)s
+qu’ils (elles) eussent été validé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été validé(e)
+ayons été validé(e)s
+ayez été validé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été validé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été validé(e)(s)

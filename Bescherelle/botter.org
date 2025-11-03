@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe botter
+
+* INDICATIF
+
+** Présent
+
+je botte
+tu bottes
+il (elle) botte
+nous bottons
+vous bottez
+ils (elles) bottent
+
+** Imparfait
+
+je bottais
+tu bottais
+il (elle) bottait
+nous bottions
+vous bottiez
+ils (elles) bottaient
+
+** Passé simple
+
+je bottai
+tu bottas
+il (elle) botta
+nous bottâmes
+vous bottâtes
+ils (elles) bottèrent
+
+** Futur simple
+
+je botterai
+tu botteras
+il (elle) bottera
+nous botterons
+vous botterez
+ils (elles) botteront
+
+* CONDITIONNEL
+
+** Présent
+
+je botterais
+tu botterais
+il (elle) botterait
+nous botterions
+vous botteriez
+ils (elles) botteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je botte
+que tu bottes
+qu’il (elle) botte
+que nous bottions
+que vous bottiez
+qu’ils (elles) bottent
+
+** Imparfait
+
+que je bottasse
+que tu bottasses
+qu’il (elle) bottât
+que nous bottassions
+que vous bottassiez
+qu’ils (elles) bottassent
+
+* IMPÉRATIF
+
+** Présent
+
+botte
+bottons
+bottez
+
+* INFINITIF
+
+** Présent
+
+botter
+
+* PARTICIPE
+
+** Présent
+
+bottant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai botté
+tu as botté
+il (elle) a botté
+nous avons botté
+vous avez botté
+ils (elles) ont botté
+
+** Plus-que-parfait
+
+j'avais botté
+tu avais botté
+il (elle) avait botté
+nous avions botté
+vous aviez botté
+ils (elles) avaient botté
+
+** Passé antérieur
+
+j'eus botté
+tu eus botté
+il (elle) eut botté
+nous eûmes botté
+vous eûtes botté
+ils (elles) eurent botté
+
+** Futur antérieur
+
+j'aurai botté
+tu auras botté
+il (elle) aura botté
+nous aurons botté
+vous aurez botté
+ils (elles) auront botté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais botté
+tu aurais botté
+il (elle) aurait botté
+nous aurions botté
+vous auriez botté
+ils (elles) auraient botté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie botté
+que tu aies botté
+qu’il (elle) ait botté
+que nous ayons botté
+que vous ayez botté
+qu’ils (elles) aient botté
+
+** Plus-que-parfait
+
+que j'eusse botté
+que tu eusses botté
+qu’il (elle) eût botté
+que nous eussions botté
+que vous eussiez botté
+qu’ils (elles) eussent botté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons botté
+ayez botté
+
+* INFINITIF
+
+** Passé
+
+avoir botté
+
+* PARTICIPE
+
+** Passé
+
+ayant botté
+botté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis botté(e)
+tu es botté(e)
+il (elle) est botté(e)
+nous sommes botté(e)s
+vous êtes botté(e)s
+ils (elles) sont botté(e)s
+
+** Imparfait
+
+j'étais botté(e)
+tu étais botté(e)
+il (elle) était botté(e)
+nous étions botté(e)s
+vous étiez botté(e)s
+ils (elles) étaient botté(e)s
+
+** Passé simple
+
+je fus botté(e)
+tu fus botté(e)
+il (elle) fut botté(e)
+nous fûmes botté(e)s
+vous fûtes botté(e)s
+ils (elles) furent botté(e)s
+
+** Futur simple
+
+je serai botté(e)
+tu seras botté(e)
+il (elle) sera botté(e)
+nous serons botté(e)s
+vous serez botté(e)s
+ils (elles) seront botté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais botté(e)
+tu serais botté(e)
+il (elle) serait botté(e)
+nous serions botté(e)s
+vous seriez botté(e)s
+ils (elles) seraient botté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois botté(e)
+que tu sois botté(e)
+qu’il (elle) soit botté(e)
+que nous soyons botté(e)s
+que vous soyez botté(e)s
+qu’ils (elles) soient botté(e)s
+
+** Imparfait
+
+que je fusse botté(e)
+que tu fusses botté(e)
+qu’il (elle) fût botté(e)
+que nous fussions botté(e)s
+que vous fussiez botté(e)s
+qu’ils (elles) fussent botté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons botté(e)s
+soyez botté(e)s
+
+* INFINITIF
+
+** Présent
+
+être botté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant botté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été botté(e)
+tu as été botté(e)
+il (elle) a été botté(e)
+nous avons été botté(e)s
+vous avez été botté(e)s
+ils (elles) ont été botté(e)s
+
+** Plus-que-parfait
+
+j'avais été botté(e)
+il (elle) avait été botté(e)
+nous avions été botté(e)s
+ils (elles) avaient été botté(e)s
+
+** Passé antérieur
+
+j'eus été botté(e)
+tu eus été botté(e)
+il (elle) eut été botté(e)
+nous eûmes été botté(e)s
+vous eûtes été botté(e)s
+ils (elles) eurent été botté(e)s
+
+** Futur antérieur
+
+j'aurai été botté(e)
+tu auras été botté(e)
+il (elle) aura été botté(e)
+nous aurons été botté(e)s
+vous aurez été botté(e)s
+ils (elles) auront été botté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été botté(e)
+j'aurais été botté(e)
+il (elle) aurait été botté(e)
+nous aurions été botté(e)s
+vous auriez été botté(e)s
+ils (elles) auraient été botté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été botté(e)
+que tu aies été botté(e)
+qu’il (elle) ait été botté(e)
+que nous ayons été botté(e)s
+que vous ayez été botté(e)s
+qu’ils (elles) aient été botté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été botté(e)
+que tu eusses été botté(e)
+qu’il (elle) eût été botté(e)
+que nous eussions été botté(e)s
+que vous eussiez été botté(e)s
+qu’ils (elles) eussent été botté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été botté(e)
+ayons été botté(e)s
+ayez été botté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été botté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été botté(e)(s)

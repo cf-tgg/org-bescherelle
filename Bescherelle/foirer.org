@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe foirer
+
+* INDICATIF
+
+** Présent
+
+je foire
+tu foires
+il (elle) foire
+nous foirons
+vous foirez
+ils (elles) foirent
+
+** Imparfait
+
+je foirais
+tu foirais
+il (elle) foirait
+nous foirions
+vous foiriez
+ils (elles) foiraient
+
+** Passé simple
+
+je foirai
+tu foiras
+il (elle) foira
+nous foirâmes
+vous foirâtes
+ils (elles) foirèrent
+
+** Futur simple
+
+je foirerai
+tu foireras
+il (elle) foirera
+nous foirerons
+vous foirerez
+ils (elles) foireront
+
+* CONDITIONNEL
+
+** Présent
+
+je foirerais
+tu foirerais
+il (elle) foirerait
+nous foirerions
+vous foireriez
+ils (elles) foireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je foire
+que tu foires
+qu’il (elle) foire
+que nous foirions
+que vous foiriez
+qu’ils (elles) foirent
+
+** Imparfait
+
+que je foirasse
+que tu foirasses
+qu’il (elle) foirât
+que nous foirassions
+que vous foirassiez
+qu’ils (elles) foirassent
+
+* IMPÉRATIF
+
+** Présent
+
+foire
+foirons
+foirez
+
+* INFINITIF
+
+** Présent
+
+foirer
+
+* PARTICIPE
+
+** Présent
+
+foirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai foiré
+tu as foiré
+il (elle) a foiré
+nous avons foiré
+vous avez foiré
+ils (elles) ont foiré
+
+** Plus-que-parfait
+
+j'avais foiré
+tu avais foiré
+il (elle) avait foiré
+nous avions foiré
+vous aviez foiré
+ils (elles) avaient foiré
+
+** Passé antérieur
+
+j'eus foiré
+tu eus foiré
+il (elle) eut foiré
+nous eûmes foiré
+vous eûtes foiré
+ils (elles) eurent foiré
+
+** Futur antérieur
+
+j'aurai foiré
+tu auras foiré
+il (elle) aura foiré
+nous aurons foiré
+vous aurez foiré
+ils (elles) auront foiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais foiré
+tu aurais foiré
+il (elle) aurait foiré
+nous aurions foiré
+vous auriez foiré
+ils (elles) auraient foiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie foiré
+que tu aies foiré
+qu’il (elle) ait foiré
+que nous ayons foiré
+que vous ayez foiré
+qu’ils (elles) aient foiré
+
+** Plus-que-parfait
+
+que j'eusse foiré
+que tu eusses foiré
+qu’il (elle) eût foiré
+que nous eussions foiré
+que vous eussiez foiré
+qu’ils (elles) eussent foiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons foiré
+ayez foiré
+
+* INFINITIF
+
+** Passé
+
+avoir foiré
+
+* PARTICIPE
+
+** Passé
+
+ayant foiré
+foiré (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe verdir
+
+* INDICATIF
+
+** Présent
+
+je verdis
+tu verdis
+il (elle) verdit
+nous verdissons
+vous verdissez
+ils (elles) verdissent
+
+** Imparfait
+
+je verdissais
+tu verdissais
+il (elle) verdissait
+nous verdissions
+vous verdissiez
+ils (elles) verdissaient
+
+** Passé simple
+
+je verdis
+tu verdis
+il (elle) verdit
+nous verdîmes
+vous verdîtes
+ils (elles) verdirent
+
+** Futur simple
+
+je verdirai
+tu verdiras
+il (elle) verdira
+nous verdirons
+vous verdirez
+ils (elles) verdiront
+
+* CONDITIONNEL
+
+** Présent
+
+je verdirais
+tu verdirais
+il (elle) verdirait
+nous verdirions
+vous verdiriez
+ils (elles) verdiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je verdisse
+que tu verdisses
+qu’il (elle) verdisse
+que nous verdissions
+que vous verdissiez
+qu’ils (elles) verdissent
+
+** Imparfait
+
+que je verdisse
+que tu verdisses
+qu’il (elle) verdît
+que nous verdissions
+que vous verdissiez
+qu’ils (elles) verdissent
+
+* IMPÉRATIF
+
+** Présent
+
+verdis
+verdissons
+verdissez
+
+* INFINITIF
+
+** Présent
+
+verdir
+
+* PARTICIPE
+
+** Présent
+
+verdissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai verdi
+tu as verdi
+il (elle) a verdi
+nous avons verdi
+vous avez verdi
+ils (elles) ont verdi
+
+** Plus-que-parfait
+
+j'avais verdi
+tu avais verdi
+il (elle) avait verdi
+nous avions verdi
+vous aviez verdi
+ils (elles) avaient verdi
+
+** Passé antérieur
+
+j'eus verdi
+tu eus verdi
+il (elle) eut verdi
+nous eûmes verdi
+vous eûtes verdi
+ils (elles) eurent verdi
+
+** Futur antérieur
+
+j'aurai verdi
+tu auras verdi
+il (elle) aura verdi
+nous aurons verdi
+vous aurez verdi
+ils (elles) auront verdi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais verdi
+tu aurais verdi
+il (elle) aurait verdi
+nous aurions verdi
+vous auriez verdi
+ils (elles) auraient verdi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie verdi
+que tu aies verdi
+qu’il (elle) ait verdi
+que nous ayons verdi
+que vous ayez verdi
+qu’ils (elles) aient verdi
+
+** Plus-que-parfait
+
+que j'eusse verdi
+que tu eusses verdi
+qu’il (elle) eût verdi
+que nous eussions verdi
+que vous eussiez verdi
+qu’ils (elles) eussent verdi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons verdi
+ayez verdi
+
+* INFINITIF
+
+** Passé
+
+avoir verdi
+
+* PARTICIPE
+
+** Passé
+
+ayant verdi
+verdi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis verdi(e)
+tu es verdi(e)
+il (elle) est verdi(e)
+nous sommes verdi(e)s
+vous êtes verdi(e)s
+ils (elles) sont verdi(e)s
+
+** Imparfait
+
+j'étais verdi(e)
+tu étais verdi(e)
+il (elle) était verdi(e)
+nous étions verdi(e)s
+vous étiez verdi(e)s
+ils (elles) étaient verdi(e)s
+
+** Passé simple
+
+je fus verdi(e)
+tu fus verdi(e)
+il (elle) fut verdi(e)
+nous fûmes verdi(e)s
+vous fûtes verdi(e)s
+ils (elles) furent verdi(e)s
+
+** Futur simple
+
+je serai verdi(e)
+tu seras verdi(e)
+il (elle) sera verdi(e)
+nous serons verdi(e)s
+vous serez verdi(e)s
+ils (elles) seront verdi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais verdi(e)
+tu serais verdi(e)
+il (elle) serait verdi(e)
+nous serions verdi(e)s
+vous seriez verdi(e)s
+ils (elles) seraient verdi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois verdi(e)
+que tu sois verdi(e)
+qu’il (elle) soit verdi(e)
+que nous soyons verdi(e)s
+que vous soyez verdi(e)s
+qu’ils (elles) soient verdi(e)s
+
+** Imparfait
+
+que je fusse verdi(e)
+que tu fusses verdi(e)
+qu’il (elle) fût verdi(e)
+que nous fussions verdi(e)s
+que vous fussiez verdi(e)s
+qu’ils (elles) fussent verdi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons verdi(e)s
+soyez verdi(e)s
+
+* INFINITIF
+
+** Présent
+
+être verdi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant verdi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été verdi(e)
+tu as été verdi(e)
+il (elle) a été verdi(e)
+nous avons été verdi(e)s
+vous avez été verdi(e)s
+ils (elles) ont été verdi(e)s
+
+** Plus-que-parfait
+
+j'avais été verdi(e)
+il (elle) avait été verdi(e)
+nous avions été verdi(e)s
+ils (elles) avaient été verdi(e)s
+
+** Passé antérieur
+
+j'eus été verdi(e)
+tu eus été verdi(e)
+il (elle) eut été verdi(e)
+nous eûmes été verdi(e)s
+vous eûtes été verdi(e)s
+ils (elles) eurent été verdi(e)s
+
+** Futur antérieur
+
+j'aurai été verdi(e)
+tu auras été verdi(e)
+il (elle) aura été verdi(e)
+nous aurons été verdi(e)s
+vous aurez été verdi(e)s
+ils (elles) auront été verdi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été verdi(e)
+j'aurais été verdi(e)
+il (elle) aurait été verdi(e)
+nous aurions été verdi(e)s
+vous auriez été verdi(e)s
+ils (elles) auraient été verdi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été verdi(e)
+que tu aies été verdi(e)
+qu’il (elle) ait été verdi(e)
+que nous ayons été verdi(e)s
+que vous ayez été verdi(e)s
+qu’ils (elles) aient été verdi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été verdi(e)
+que tu eusses été verdi(e)
+qu’il (elle) eût été verdi(e)
+que nous eussions été verdi(e)s
+que vous eussiez été verdi(e)s
+qu’ils (elles) eussent été verdi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été verdi(e)
+ayons été verdi(e)s
+ayez été verdi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été verdi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été verdi(e)(s)

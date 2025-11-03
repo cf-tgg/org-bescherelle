@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abaisser
+
+* INDICATIF
+
+** Présent
+
+j'abaisse
+tu abaisses
+il (elle) abaisse
+nous abaissons
+vous abaissez
+ils (elles) abaissent
+
+** Imparfait
+
+j'abaissais
+tu abaissais
+il (elle) abaissait
+nous abaissions
+vous abaissiez
+ils (elles) abaissaient
+
+** Passé simple
+
+j'abaissai
+tu abaissas
+il (elle) abaissa
+nous abaissâmes
+vous abaissâtes
+ils (elles) abaissèrent
+
+** Futur simple
+
+j'abaisserai
+tu abaisseras
+il (elle) abaissera
+nous abaisserons
+vous abaisserez
+ils (elles) abaisseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abaisserais
+tu abaisserais
+il (elle) abaisserait
+nous abaisserions
+vous abaisseriez
+ils (elles) abaisseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abaisse
+que tu abaisses
+qu’il (elle) abaisse
+que nous abaissions
+que vous abaissiez
+qu’ils (elles) abaissent
+
+** Imparfait
+
+que j'abaissasse
+que tu abaissasses
+qu’il (elle) abaissât
+que nous abaissassions
+que vous abaissassiez
+qu’ils (elles) abaissassent
+
+* IMPÉRATIF
+
+** Présent
+
+abaisse
+abaissons
+abaissez
+
+* INFINITIF
+
+** Présent
+
+abaisser
+
+* PARTICIPE
+
+** Présent
+
+abaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abaissé
+tu as abaissé
+il (elle) a abaissé
+nous avons abaissé
+vous avez abaissé
+ils (elles) ont abaissé
+
+** Plus-que-parfait
+
+j'avais abaissé
+tu avais abaissé
+il (elle) avait abaissé
+nous avions abaissé
+vous aviez abaissé
+ils (elles) avaient abaissé
+
+** Passé antérieur
+
+j'eus abaissé
+tu eus abaissé
+il (elle) eut abaissé
+nous eûmes abaissé
+vous eûtes abaissé
+ils (elles) eurent abaissé
+
+** Futur antérieur
+
+j'aurai abaissé
+tu auras abaissé
+il (elle) aura abaissé
+nous aurons abaissé
+vous aurez abaissé
+ils (elles) auront abaissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abaissé
+tu aurais abaissé
+il (elle) aurait abaissé
+nous aurions abaissé
+vous auriez abaissé
+ils (elles) auraient abaissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abaissé
+que tu aies abaissé
+qu’il (elle) ait abaissé
+que nous ayons abaissé
+que vous ayez abaissé
+qu’ils (elles) aient abaissé
+
+** Plus-que-parfait
+
+que j'eusse abaissé
+que tu eusses abaissé
+qu’il (elle) eût abaissé
+que nous eussions abaissé
+que vous eussiez abaissé
+qu’ils (elles) eussent abaissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abaissé
+ayez abaissé
+
+* INFINITIF
+
+** Passé
+
+avoir abaissé
+
+* PARTICIPE
+
+** Passé
+
+ayant abaissé
+abaissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abaissé(e)
+tu es abaissé(e)
+il (elle) est abaissé(e)
+nous sommes abaissé(e)s
+vous êtes abaissé(e)s
+ils (elles) sont abaissé(e)s
+
+** Imparfait
+
+j'étais abaissé(e)
+tu étais abaissé(e)
+il (elle) était abaissé(e)
+nous étions abaissé(e)s
+vous étiez abaissé(e)s
+ils (elles) étaient abaissé(e)s
+
+** Passé simple
+
+je fus abaissé(e)
+tu fus abaissé(e)
+il (elle) fut abaissé(e)
+nous fûmes abaissé(e)s
+vous fûtes abaissé(e)s
+ils (elles) furent abaissé(e)s
+
+** Futur simple
+
+je serai abaissé(e)
+tu seras abaissé(e)
+il (elle) sera abaissé(e)
+nous serons abaissé(e)s
+vous serez abaissé(e)s
+ils (elles) seront abaissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abaissé(e)
+tu serais abaissé(e)
+il (elle) serait abaissé(e)
+nous serions abaissé(e)s
+vous seriez abaissé(e)s
+ils (elles) seraient abaissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abaissé(e)
+que tu sois abaissé(e)
+qu’il (elle) soit abaissé(e)
+que nous soyons abaissé(e)s
+que vous soyez abaissé(e)s
+qu’ils (elles) soient abaissé(e)s
+
+** Imparfait
+
+que je fusse abaissé(e)
+que tu fusses abaissé(e)
+qu’il (elle) fût abaissé(e)
+que nous fussions abaissé(e)s
+que vous fussiez abaissé(e)s
+qu’ils (elles) fussent abaissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abaissé(e)s
+soyez abaissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être abaissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abaissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abaissé(e)
+tu as été abaissé(e)
+il (elle) a été abaissé(e)
+nous avons été abaissé(e)s
+vous avez été abaissé(e)s
+ils (elles) ont été abaissé(e)s
+
+** Plus-que-parfait
+
+j'avais été abaissé(e)
+il (elle) avait été abaissé(e)
+nous avions été abaissé(e)s
+ils (elles) avaient été abaissé(e)s
+
+** Passé antérieur
+
+j'eus été abaissé(e)
+tu eus été abaissé(e)
+il (elle) eut été abaissé(e)
+nous eûmes été abaissé(e)s
+vous eûtes été abaissé(e)s
+ils (elles) eurent été abaissé(e)s
+
+** Futur antérieur
+
+j'aurai été abaissé(e)
+tu auras été abaissé(e)
+il (elle) aura été abaissé(e)
+nous aurons été abaissé(e)s
+vous aurez été abaissé(e)s
+ils (elles) auront été abaissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abaissé(e)
+j'aurais été abaissé(e)
+il (elle) aurait été abaissé(e)
+nous aurions été abaissé(e)s
+vous auriez été abaissé(e)s
+ils (elles) auraient été abaissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abaissé(e)
+que tu aies été abaissé(e)
+qu’il (elle) ait été abaissé(e)
+que nous ayons été abaissé(e)s
+que vous ayez été abaissé(e)s
+qu’ils (elles) aient été abaissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abaissé(e)
+que tu eusses été abaissé(e)
+qu’il (elle) eût été abaissé(e)
+que nous eussions été abaissé(e)s
+que vous eussiez été abaissé(e)s
+qu’ils (elles) eussent été abaissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abaissé(e)
+ayons été abaissé(e)s
+ayez été abaissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abaissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abaissé(e)(s)

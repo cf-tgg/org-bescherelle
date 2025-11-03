@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe coller
+
+* INDICATIF
+
+** Présent
+
+je colle
+tu colles
+il (elle) colle
+nous collons
+vous collez
+ils (elles) collent
+
+** Imparfait
+
+je collais
+tu collais
+il (elle) collait
+nous collions
+vous colliez
+ils (elles) collaient
+
+** Passé simple
+
+je collai
+tu collas
+il (elle) colla
+nous collâmes
+vous collâtes
+ils (elles) collèrent
+
+** Futur simple
+
+je collerai
+tu colleras
+il (elle) collera
+nous collerons
+vous collerez
+ils (elles) colleront
+
+* CONDITIONNEL
+
+** Présent
+
+je collerais
+tu collerais
+il (elle) collerait
+nous collerions
+vous colleriez
+ils (elles) colleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je colle
+que tu colles
+qu’il (elle) colle
+que nous collions
+que vous colliez
+qu’ils (elles) collent
+
+** Imparfait
+
+que je collasse
+que tu collasses
+qu’il (elle) collât
+que nous collassions
+que vous collassiez
+qu’ils (elles) collassent
+
+* IMPÉRATIF
+
+** Présent
+
+colle
+collons
+collez
+
+* INFINITIF
+
+** Présent
+
+coller
+
+* PARTICIPE
+
+** Présent
+
+collant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai collé
+tu as collé
+il (elle) a collé
+nous avons collé
+vous avez collé
+ils (elles) ont collé
+
+** Plus-que-parfait
+
+j'avais collé
+tu avais collé
+il (elle) avait collé
+nous avions collé
+vous aviez collé
+ils (elles) avaient collé
+
+** Passé antérieur
+
+j'eus collé
+tu eus collé
+il (elle) eut collé
+nous eûmes collé
+vous eûtes collé
+ils (elles) eurent collé
+
+** Futur antérieur
+
+j'aurai collé
+tu auras collé
+il (elle) aura collé
+nous aurons collé
+vous aurez collé
+ils (elles) auront collé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais collé
+tu aurais collé
+il (elle) aurait collé
+nous aurions collé
+vous auriez collé
+ils (elles) auraient collé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie collé
+que tu aies collé
+qu’il (elle) ait collé
+que nous ayons collé
+que vous ayez collé
+qu’ils (elles) aient collé
+
+** Plus-que-parfait
+
+que j'eusse collé
+que tu eusses collé
+qu’il (elle) eût collé
+que nous eussions collé
+que vous eussiez collé
+qu’ils (elles) eussent collé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons collé
+ayez collé
+
+* INFINITIF
+
+** Passé
+
+avoir collé
+
+* PARTICIPE
+
+** Passé
+
+ayant collé
+collé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis collé(e)
+tu es collé(e)
+il (elle) est collé(e)
+nous sommes collé(e)s
+vous êtes collé(e)s
+ils (elles) sont collé(e)s
+
+** Imparfait
+
+j'étais collé(e)
+tu étais collé(e)
+il (elle) était collé(e)
+nous étions collé(e)s
+vous étiez collé(e)s
+ils (elles) étaient collé(e)s
+
+** Passé simple
+
+je fus collé(e)
+tu fus collé(e)
+il (elle) fut collé(e)
+nous fûmes collé(e)s
+vous fûtes collé(e)s
+ils (elles) furent collé(e)s
+
+** Futur simple
+
+je serai collé(e)
+tu seras collé(e)
+il (elle) sera collé(e)
+nous serons collé(e)s
+vous serez collé(e)s
+ils (elles) seront collé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais collé(e)
+tu serais collé(e)
+il (elle) serait collé(e)
+nous serions collé(e)s
+vous seriez collé(e)s
+ils (elles) seraient collé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois collé(e)
+que tu sois collé(e)
+qu’il (elle) soit collé(e)
+que nous soyons collé(e)s
+que vous soyez collé(e)s
+qu’ils (elles) soient collé(e)s
+
+** Imparfait
+
+que je fusse collé(e)
+que tu fusses collé(e)
+qu’il (elle) fût collé(e)
+que nous fussions collé(e)s
+que vous fussiez collé(e)s
+qu’ils (elles) fussent collé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons collé(e)s
+soyez collé(e)s
+
+* INFINITIF
+
+** Présent
+
+être collé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant collé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été collé(e)
+tu as été collé(e)
+il (elle) a été collé(e)
+nous avons été collé(e)s
+vous avez été collé(e)s
+ils (elles) ont été collé(e)s
+
+** Plus-que-parfait
+
+j'avais été collé(e)
+il (elle) avait été collé(e)
+nous avions été collé(e)s
+ils (elles) avaient été collé(e)s
+
+** Passé antérieur
+
+j'eus été collé(e)
+tu eus été collé(e)
+il (elle) eut été collé(e)
+nous eûmes été collé(e)s
+vous eûtes été collé(e)s
+ils (elles) eurent été collé(e)s
+
+** Futur antérieur
+
+j'aurai été collé(e)
+tu auras été collé(e)
+il (elle) aura été collé(e)
+nous aurons été collé(e)s
+vous aurez été collé(e)s
+ils (elles) auront été collé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été collé(e)
+j'aurais été collé(e)
+il (elle) aurait été collé(e)
+nous aurions été collé(e)s
+vous auriez été collé(e)s
+ils (elles) auraient été collé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été collé(e)
+que tu aies été collé(e)
+qu’il (elle) ait été collé(e)
+que nous ayons été collé(e)s
+que vous ayez été collé(e)s
+qu’ils (elles) aient été collé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été collé(e)
+que tu eusses été collé(e)
+qu’il (elle) eût été collé(e)
+que nous eussions été collé(e)s
+que vous eussiez été collé(e)s
+qu’ils (elles) eussent été collé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été collé(e)
+ayons été collé(e)s
+ayez été collé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été collé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été collé(e)(s)

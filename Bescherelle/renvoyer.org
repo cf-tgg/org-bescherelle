@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe renvoyer
+
+* INDICATIF
+
+** Présent
+
+je renvoie
+tu renvoies
+il (elle) renvoie
+nous renvoyons
+vous renvoyez
+ils (elles) renvoient
+
+** Imparfait
+
+je renvoyais
+tu renvoyais
+il (elle) renvoyait
+nous renvoyions
+vous renvoyiez
+ils (elles) renvoyaient
+
+** Passé simple
+
+je renvoyai
+tu renvoyas
+il (elle) renvoya
+nous renvoyâmes
+vous renvoyâtes
+ils (elles) renvoyèrent
+
+** Futur simple
+
+je renverrai
+tu renverras
+il (elle) renverra
+nous renverrons
+vous renverrez
+ils (elles) renverront
+
+* CONDITIONNEL
+
+** Présent
+
+je renverrais
+tu renverrais
+il (elle) renverrait
+nous renverrions
+vous renverriez
+ils (elles) renverraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je renvoie
+que tu renvoies
+qu’il (elle) renvoie
+que nous renvoyions
+que vous renvoyiez
+qu’ils (elles) renvoient
+
+** Imparfait
+
+que je renvoyasse
+que tu renvoyasses
+qu’il (elle) renvoyât
+que nous renvoyassions
+que vous renvoyassiez
+qu’ils (elles) renvoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+renvoie
+renvoyons
+renvoyez
+
+* INFINITIF
+
+** Présent
+
+renvoyer
+
+* PARTICIPE
+
+** Présent
+
+renvoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai renvoyé
+tu as renvoyé
+il (elle) a renvoyé
+nous avons renvoyé
+vous avez renvoyé
+ils (elles) ont renvoyé
+
+** Plus-que-parfait
+
+j'avais renvoyé
+tu avais renvoyé
+il (elle) avait renvoyé
+nous avions renvoyé
+vous aviez renvoyé
+ils (elles) avaient renvoyé
+
+** Passé antérieur
+
+j'eus renvoyé
+tu eus renvoyé
+il (elle) eut renvoyé
+nous eûmes renvoyé
+vous eûtes renvoyé
+ils (elles) eurent renvoyé
+
+** Futur antérieur
+
+j'aurai renvoyé
+tu auras renvoyé
+il (elle) aura renvoyé
+nous aurons renvoyé
+vous aurez renvoyé
+ils (elles) auront renvoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais renvoyé
+tu aurais renvoyé
+il (elle) aurait renvoyé
+nous aurions renvoyé
+vous auriez renvoyé
+ils (elles) auraient renvoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie renvoyé
+que tu aies renvoyé
+qu’il (elle) ait renvoyé
+que nous ayons renvoyé
+que vous ayez renvoyé
+qu’ils (elles) aient renvoyé
+
+** Plus-que-parfait
+
+que j'eusse renvoyé
+que tu eusses renvoyé
+qu’il (elle) eût renvoyé
+que nous eussions renvoyé
+que vous eussiez renvoyé
+qu’ils (elles) eussent renvoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons renvoyé
+ayez renvoyé
+
+* INFINITIF
+
+** Passé
+
+avoir renvoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant renvoyé
+renvoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis renvoyé(e)
+tu es renvoyé(e)
+il (elle) est renvoyé(e)
+nous sommes renvoyé(e)s
+vous êtes renvoyé(e)s
+ils (elles) sont renvoyé(e)s
+
+** Imparfait
+
+j'étais renvoyé(e)
+tu étais renvoyé(e)
+il (elle) était renvoyé(e)
+nous étions renvoyé(e)s
+vous étiez renvoyé(e)s
+ils (elles) étaient renvoyé(e)s
+
+** Passé simple
+
+je fus renvoyé(e)
+tu fus renvoyé(e)
+il (elle) fut renvoyé(e)
+nous fûmes renvoyé(e)s
+vous fûtes renvoyé(e)s
+ils (elles) furent renvoyé(e)s
+
+** Futur simple
+
+je serai renvoyé(e)
+tu seras renvoyé(e)
+il (elle) sera renvoyé(e)
+nous serons renvoyé(e)s
+vous serez renvoyé(e)s
+ils (elles) seront renvoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais renvoyé(e)
+tu serais renvoyé(e)
+il (elle) serait renvoyé(e)
+nous serions renvoyé(e)s
+vous seriez renvoyé(e)s
+ils (elles) seraient renvoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois renvoyé(e)
+que tu sois renvoyé(e)
+qu’il (elle) soit renvoyé(e)
+que nous soyons renvoyé(e)s
+que vous soyez renvoyé(e)s
+qu’ils (elles) soient renvoyé(e)s
+
+** Imparfait
+
+que je fusse renvoyé(e)
+que tu fusses renvoyé(e)
+qu’il (elle) fût renvoyé(e)
+que nous fussions renvoyé(e)s
+que vous fussiez renvoyé(e)s
+qu’ils (elles) fussent renvoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons renvoyé(e)s
+soyez renvoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être renvoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant renvoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été renvoyé(e)
+tu as été renvoyé(e)
+il (elle) a été renvoyé(e)
+nous avons été renvoyé(e)s
+vous avez été renvoyé(e)s
+ils (elles) ont été renvoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été renvoyé(e)
+il (elle) avait été renvoyé(e)
+nous avions été renvoyé(e)s
+ils (elles) avaient été renvoyé(e)s
+
+** Passé antérieur
+
+j'eus été renvoyé(e)
+tu eus été renvoyé(e)
+il (elle) eut été renvoyé(e)
+nous eûmes été renvoyé(e)s
+vous eûtes été renvoyé(e)s
+ils (elles) eurent été renvoyé(e)s
+
+** Futur antérieur
+
+j'aurai été renvoyé(e)
+tu auras été renvoyé(e)
+il (elle) aura été renvoyé(e)
+nous aurons été renvoyé(e)s
+vous aurez été renvoyé(e)s
+ils (elles) auront été renvoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été renvoyé(e)
+j'aurais été renvoyé(e)
+il (elle) aurait été renvoyé(e)
+nous aurions été renvoyé(e)s
+vous auriez été renvoyé(e)s
+ils (elles) auraient été renvoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été renvoyé(e)
+que tu aies été renvoyé(e)
+qu’il (elle) ait été renvoyé(e)
+que nous ayons été renvoyé(e)s
+que vous ayez été renvoyé(e)s
+qu’ils (elles) aient été renvoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été renvoyé(e)
+que tu eusses été renvoyé(e)
+qu’il (elle) eût été renvoyé(e)
+que nous eussions été renvoyé(e)s
+que vous eussiez été renvoyé(e)s
+qu’ils (elles) eussent été renvoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été renvoyé(e)
+ayons été renvoyé(e)s
+ayez été renvoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été renvoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été renvoyé(e)(s)

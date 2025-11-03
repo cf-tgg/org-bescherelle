@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe escalader
+
+* INDICATIF
+
+** Présent
+
+j'escalade
+tu escalades
+il (elle) escalade
+nous escaladons
+vous escaladez
+ils (elles) escaladent
+
+** Imparfait
+
+j'escaladais
+tu escaladais
+il (elle) escaladait
+nous escaladions
+vous escaladiez
+ils (elles) escaladaient
+
+** Passé simple
+
+j'escaladai
+tu escaladas
+il (elle) escalada
+nous escaladâmes
+vous escaladâtes
+ils (elles) escaladèrent
+
+** Futur simple
+
+j'escaladerai
+tu escaladeras
+il (elle) escaladera
+nous escaladerons
+vous escaladerez
+ils (elles) escaladeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'escaladerais
+tu escaladerais
+il (elle) escaladerait
+nous escaladerions
+vous escaladeriez
+ils (elles) escaladeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'escalade
+que tu escalades
+qu’il (elle) escalade
+que nous escaladions
+que vous escaladiez
+qu’ils (elles) escaladent
+
+** Imparfait
+
+que j'escaladasse
+que tu escaladasses
+qu’il (elle) escaladât
+que nous escaladassions
+que vous escaladassiez
+qu’ils (elles) escaladassent
+
+* IMPÉRATIF
+
+** Présent
+
+escalade
+escaladons
+escaladez
+
+* INFINITIF
+
+** Présent
+
+escalader
+
+* PARTICIPE
+
+** Présent
+
+escaladant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai escaladé
+tu as escaladé
+il (elle) a escaladé
+nous avons escaladé
+vous avez escaladé
+ils (elles) ont escaladé
+
+** Plus-que-parfait
+
+j'avais escaladé
+tu avais escaladé
+il (elle) avait escaladé
+nous avions escaladé
+vous aviez escaladé
+ils (elles) avaient escaladé
+
+** Passé antérieur
+
+j'eus escaladé
+tu eus escaladé
+il (elle) eut escaladé
+nous eûmes escaladé
+vous eûtes escaladé
+ils (elles) eurent escaladé
+
+** Futur antérieur
+
+j'aurai escaladé
+tu auras escaladé
+il (elle) aura escaladé
+nous aurons escaladé
+vous aurez escaladé
+ils (elles) auront escaladé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais escaladé
+tu aurais escaladé
+il (elle) aurait escaladé
+nous aurions escaladé
+vous auriez escaladé
+ils (elles) auraient escaladé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie escaladé
+que tu aies escaladé
+qu’il (elle) ait escaladé
+que nous ayons escaladé
+que vous ayez escaladé
+qu’ils (elles) aient escaladé
+
+** Plus-que-parfait
+
+que j'eusse escaladé
+que tu eusses escaladé
+qu’il (elle) eût escaladé
+que nous eussions escaladé
+que vous eussiez escaladé
+qu’ils (elles) eussent escaladé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons escaladé
+ayez escaladé
+
+* INFINITIF
+
+** Passé
+
+avoir escaladé
+
+* PARTICIPE
+
+** Passé
+
+ayant escaladé
+escaladé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis escaladé(e)
+tu es escaladé(e)
+il (elle) est escaladé(e)
+nous sommes escaladé(e)s
+vous êtes escaladé(e)s
+ils (elles) sont escaladé(e)s
+
+** Imparfait
+
+j'étais escaladé(e)
+tu étais escaladé(e)
+il (elle) était escaladé(e)
+nous étions escaladé(e)s
+vous étiez escaladé(e)s
+ils (elles) étaient escaladé(e)s
+
+** Passé simple
+
+je fus escaladé(e)
+tu fus escaladé(e)
+il (elle) fut escaladé(e)
+nous fûmes escaladé(e)s
+vous fûtes escaladé(e)s
+ils (elles) furent escaladé(e)s
+
+** Futur simple
+
+je serai escaladé(e)
+tu seras escaladé(e)
+il (elle) sera escaladé(e)
+nous serons escaladé(e)s
+vous serez escaladé(e)s
+ils (elles) seront escaladé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais escaladé(e)
+tu serais escaladé(e)
+il (elle) serait escaladé(e)
+nous serions escaladé(e)s
+vous seriez escaladé(e)s
+ils (elles) seraient escaladé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois escaladé(e)
+que tu sois escaladé(e)
+qu’il (elle) soit escaladé(e)
+que nous soyons escaladé(e)s
+que vous soyez escaladé(e)s
+qu’ils (elles) soient escaladé(e)s
+
+** Imparfait
+
+que je fusse escaladé(e)
+que tu fusses escaladé(e)
+qu’il (elle) fût escaladé(e)
+que nous fussions escaladé(e)s
+que vous fussiez escaladé(e)s
+qu’ils (elles) fussent escaladé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons escaladé(e)s
+soyez escaladé(e)s
+
+* INFINITIF
+
+** Présent
+
+être escaladé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant escaladé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été escaladé(e)
+tu as été escaladé(e)
+il (elle) a été escaladé(e)
+nous avons été escaladé(e)s
+vous avez été escaladé(e)s
+ils (elles) ont été escaladé(e)s
+
+** Plus-que-parfait
+
+j'avais été escaladé(e)
+il (elle) avait été escaladé(e)
+nous avions été escaladé(e)s
+ils (elles) avaient été escaladé(e)s
+
+** Passé antérieur
+
+j'eus été escaladé(e)
+tu eus été escaladé(e)
+il (elle) eut été escaladé(e)
+nous eûmes été escaladé(e)s
+vous eûtes été escaladé(e)s
+ils (elles) eurent été escaladé(e)s
+
+** Futur antérieur
+
+j'aurai été escaladé(e)
+tu auras été escaladé(e)
+il (elle) aura été escaladé(e)
+nous aurons été escaladé(e)s
+vous aurez été escaladé(e)s
+ils (elles) auront été escaladé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été escaladé(e)
+j'aurais été escaladé(e)
+il (elle) aurait été escaladé(e)
+nous aurions été escaladé(e)s
+vous auriez été escaladé(e)s
+ils (elles) auraient été escaladé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été escaladé(e)
+que tu aies été escaladé(e)
+qu’il (elle) ait été escaladé(e)
+que nous ayons été escaladé(e)s
+que vous ayez été escaladé(e)s
+qu’ils (elles) aient été escaladé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été escaladé(e)
+que tu eusses été escaladé(e)
+qu’il (elle) eût été escaladé(e)
+que nous eussions été escaladé(e)s
+que vous eussiez été escaladé(e)s
+qu’ils (elles) eussent été escaladé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été escaladé(e)
+ayons été escaladé(e)s
+ayez été escaladé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été escaladé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été escaladé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe regretter
+
+* INDICATIF
+
+** Présent
+
+je regrette
+tu regrettes
+il (elle) regrette
+nous regrettons
+vous regrettez
+ils (elles) regrettent
+
+** Imparfait
+
+je regrettais
+tu regrettais
+il (elle) regrettait
+nous regrettions
+vous regrettiez
+ils (elles) regrettaient
+
+** Passé simple
+
+je regrettai
+tu regrettas
+il (elle) regretta
+nous regrettâmes
+vous regrettâtes
+ils (elles) regrettèrent
+
+** Futur simple
+
+je regretterai
+tu regretteras
+il (elle) regrettera
+nous regretterons
+vous regretterez
+ils (elles) regretteront
+
+* CONDITIONNEL
+
+** Présent
+
+je regretterais
+tu regretterais
+il (elle) regretterait
+nous regretterions
+vous regretteriez
+ils (elles) regretteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je regrette
+que tu regrettes
+qu’il (elle) regrette
+que nous regrettions
+que vous regrettiez
+qu’ils (elles) regrettent
+
+** Imparfait
+
+que je regrettasse
+que tu regrettasses
+qu’il (elle) regrettât
+que nous regrettassions
+que vous regrettassiez
+qu’ils (elles) regrettassent
+
+* IMPÉRATIF
+
+** Présent
+
+regrette
+regrettons
+regrettez
+
+* INFINITIF
+
+** Présent
+
+regretter
+
+* PARTICIPE
+
+** Présent
+
+regrettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai regretté
+tu as regretté
+il (elle) a regretté
+nous avons regretté
+vous avez regretté
+ils (elles) ont regretté
+
+** Plus-que-parfait
+
+j'avais regretté
+tu avais regretté
+il (elle) avait regretté
+nous avions regretté
+vous aviez regretté
+ils (elles) avaient regretté
+
+** Passé antérieur
+
+j'eus regretté
+tu eus regretté
+il (elle) eut regretté
+nous eûmes regretté
+vous eûtes regretté
+ils (elles) eurent regretté
+
+** Futur antérieur
+
+j'aurai regretté
+tu auras regretté
+il (elle) aura regretté
+nous aurons regretté
+vous aurez regretté
+ils (elles) auront regretté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais regretté
+tu aurais regretté
+il (elle) aurait regretté
+nous aurions regretté
+vous auriez regretté
+ils (elles) auraient regretté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie regretté
+que tu aies regretté
+qu’il (elle) ait regretté
+que nous ayons regretté
+que vous ayez regretté
+qu’ils (elles) aient regretté
+
+** Plus-que-parfait
+
+que j'eusse regretté
+que tu eusses regretté
+qu’il (elle) eût regretté
+que nous eussions regretté
+que vous eussiez regretté
+qu’ils (elles) eussent regretté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons regretté
+ayez regretté
+
+* INFINITIF
+
+** Passé
+
+avoir regretté
+
+* PARTICIPE
+
+** Passé
+
+ayant regretté
+regretté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis regretté(e)
+tu es regretté(e)
+il (elle) est regretté(e)
+nous sommes regretté(e)s
+vous êtes regretté(e)s
+ils (elles) sont regretté(e)s
+
+** Imparfait
+
+j'étais regretté(e)
+tu étais regretté(e)
+il (elle) était regretté(e)
+nous étions regretté(e)s
+vous étiez regretté(e)s
+ils (elles) étaient regretté(e)s
+
+** Passé simple
+
+je fus regretté(e)
+tu fus regretté(e)
+il (elle) fut regretté(e)
+nous fûmes regretté(e)s
+vous fûtes regretté(e)s
+ils (elles) furent regretté(e)s
+
+** Futur simple
+
+je serai regretté(e)
+tu seras regretté(e)
+il (elle) sera regretté(e)
+nous serons regretté(e)s
+vous serez regretté(e)s
+ils (elles) seront regretté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais regretté(e)
+tu serais regretté(e)
+il (elle) serait regretté(e)
+nous serions regretté(e)s
+vous seriez regretté(e)s
+ils (elles) seraient regretté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois regretté(e)
+que tu sois regretté(e)
+qu’il (elle) soit regretté(e)
+que nous soyons regretté(e)s
+que vous soyez regretté(e)s
+qu’ils (elles) soient regretté(e)s
+
+** Imparfait
+
+que je fusse regretté(e)
+que tu fusses regretté(e)
+qu’il (elle) fût regretté(e)
+que nous fussions regretté(e)s
+que vous fussiez regretté(e)s
+qu’ils (elles) fussent regretté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons regretté(e)s
+soyez regretté(e)s
+
+* INFINITIF
+
+** Présent
+
+être regretté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant regretté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été regretté(e)
+tu as été regretté(e)
+il (elle) a été regretté(e)
+nous avons été regretté(e)s
+vous avez été regretté(e)s
+ils (elles) ont été regretté(e)s
+
+** Plus-que-parfait
+
+j'avais été regretté(e)
+il (elle) avait été regretté(e)
+nous avions été regretté(e)s
+ils (elles) avaient été regretté(e)s
+
+** Passé antérieur
+
+j'eus été regretté(e)
+tu eus été regretté(e)
+il (elle) eut été regretté(e)
+nous eûmes été regretté(e)s
+vous eûtes été regretté(e)s
+ils (elles) eurent été regretté(e)s
+
+** Futur antérieur
+
+j'aurai été regretté(e)
+tu auras été regretté(e)
+il (elle) aura été regretté(e)
+nous aurons été regretté(e)s
+vous aurez été regretté(e)s
+ils (elles) auront été regretté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été regretté(e)
+j'aurais été regretté(e)
+il (elle) aurait été regretté(e)
+nous aurions été regretté(e)s
+vous auriez été regretté(e)s
+ils (elles) auraient été regretté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été regretté(e)
+que tu aies été regretté(e)
+qu’il (elle) ait été regretté(e)
+que nous ayons été regretté(e)s
+que vous ayez été regretté(e)s
+qu’ils (elles) aient été regretté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été regretté(e)
+que tu eusses été regretté(e)
+qu’il (elle) eût été regretté(e)
+que nous eussions été regretté(e)s
+que vous eussiez été regretté(e)s
+qu’ils (elles) eussent été regretté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été regretté(e)
+ayons été regretté(e)s
+ayez été regretté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été regretté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été regretté(e)(s)

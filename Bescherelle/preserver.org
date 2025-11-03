@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe preserver
+
+* INDICATIF
+
+** Présent
+
+je préserve
+tu préserves
+il (elle) préserve
+nous préservons
+vous préservez
+ils (elles) préservent
+
+** Imparfait
+
+je préservais
+tu préservais
+il (elle) préservait
+nous préservions
+vous préserviez
+ils (elles) préservaient
+
+** Passé simple
+
+je préservai
+tu préservas
+il (elle) préserva
+nous préservâmes
+vous préservâtes
+ils (elles) préservèrent
+
+** Futur simple
+
+je préserverai
+tu préserveras
+il (elle) préservera
+nous préserverons
+vous préserverez
+ils (elles) préserveront
+
+* CONDITIONNEL
+
+** Présent
+
+je préserverais
+tu préserverais
+il (elle) préserverait
+nous préserverions
+vous préserveriez
+ils (elles) préserveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je préserve
+que tu préserves
+qu’il (elle) préserve
+que nous préservions
+que vous préserviez
+qu’ils (elles) préservent
+
+** Imparfait
+
+que je préservasse
+que tu préservasses
+qu’il (elle) préservât
+que nous préservassions
+que vous préservassiez
+qu’ils (elles) préservassent
+
+* IMPÉRATIF
+
+** Présent
+
+préserve
+préservons
+préservez
+
+* INFINITIF
+
+** Présent
+
+préserver
+
+* PARTICIPE
+
+** Présent
+
+préservant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai préservé
+tu as préservé
+il (elle) a préservé
+nous avons préservé
+vous avez préservé
+ils (elles) ont préservé
+
+** Plus-que-parfait
+
+j'avais préservé
+tu avais préservé
+il (elle) avait préservé
+nous avions préservé
+vous aviez préservé
+ils (elles) avaient préservé
+
+** Passé antérieur
+
+j'eus préservé
+tu eus préservé
+il (elle) eut préservé
+nous eûmes préservé
+vous eûtes préservé
+ils (elles) eurent préservé
+
+** Futur antérieur
+
+j'aurai préservé
+tu auras préservé
+il (elle) aura préservé
+nous aurons préservé
+vous aurez préservé
+ils (elles) auront préservé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais préservé
+tu aurais préservé
+il (elle) aurait préservé
+nous aurions préservé
+vous auriez préservé
+ils (elles) auraient préservé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie préservé
+que tu aies préservé
+qu’il (elle) ait préservé
+que nous ayons préservé
+que vous ayez préservé
+qu’ils (elles) aient préservé
+
+** Plus-que-parfait
+
+que j'eusse préservé
+que tu eusses préservé
+qu’il (elle) eût préservé
+que nous eussions préservé
+que vous eussiez préservé
+qu’ils (elles) eussent préservé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons préservé
+ayez préservé
+
+* INFINITIF
+
+** Passé
+
+avoir préservé
+
+* PARTICIPE
+
+** Passé
+
+ayant préservé
+préservé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis préservé(e)
+tu es préservé(e)
+il (elle) est préservé(e)
+nous sommes préservé(e)s
+vous êtes préservé(e)s
+ils (elles) sont préservé(e)s
+
+** Imparfait
+
+j'étais préservé(e)
+tu étais préservé(e)
+il (elle) était préservé(e)
+nous étions préservé(e)s
+vous étiez préservé(e)s
+ils (elles) étaient préservé(e)s
+
+** Passé simple
+
+je fus préservé(e)
+tu fus préservé(e)
+il (elle) fut préservé(e)
+nous fûmes préservé(e)s
+vous fûtes préservé(e)s
+ils (elles) furent préservé(e)s
+
+** Futur simple
+
+je serai préservé(e)
+tu seras préservé(e)
+il (elle) sera préservé(e)
+nous serons préservé(e)s
+vous serez préservé(e)s
+ils (elles) seront préservé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais préservé(e)
+tu serais préservé(e)
+il (elle) serait préservé(e)
+nous serions préservé(e)s
+vous seriez préservé(e)s
+ils (elles) seraient préservé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois préservé(e)
+que tu sois préservé(e)
+qu’il (elle) soit préservé(e)
+que nous soyons préservé(e)s
+que vous soyez préservé(e)s
+qu’ils (elles) soient préservé(e)s
+
+** Imparfait
+
+que je fusse préservé(e)
+que tu fusses préservé(e)
+qu’il (elle) fût préservé(e)
+que nous fussions préservé(e)s
+que vous fussiez préservé(e)s
+qu’ils (elles) fussent préservé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons préservé(e)s
+soyez préservé(e)s
+
+* INFINITIF
+
+** Présent
+
+être préservé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant préservé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été préservé(e)
+tu as été préservé(e)
+il (elle) a été préservé(e)
+nous avons été préservé(e)s
+vous avez été préservé(e)s
+ils (elles) ont été préservé(e)s
+
+** Plus-que-parfait
+
+j'avais été préservé(e)
+il (elle) avait été préservé(e)
+nous avions été préservé(e)s
+ils (elles) avaient été préservé(e)s
+
+** Passé antérieur
+
+j'eus été préservé(e)
+tu eus été préservé(e)
+il (elle) eut été préservé(e)
+nous eûmes été préservé(e)s
+vous eûtes été préservé(e)s
+ils (elles) eurent été préservé(e)s
+
+** Futur antérieur
+
+j'aurai été préservé(e)
+tu auras été préservé(e)
+il (elle) aura été préservé(e)
+nous aurons été préservé(e)s
+vous aurez été préservé(e)s
+ils (elles) auront été préservé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été préservé(e)
+j'aurais été préservé(e)
+il (elle) aurait été préservé(e)
+nous aurions été préservé(e)s
+vous auriez été préservé(e)s
+ils (elles) auraient été préservé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été préservé(e)
+que tu aies été préservé(e)
+qu’il (elle) ait été préservé(e)
+que nous ayons été préservé(e)s
+que vous ayez été préservé(e)s
+qu’ils (elles) aient été préservé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été préservé(e)
+que tu eusses été préservé(e)
+qu’il (elle) eût été préservé(e)
+que nous eussions été préservé(e)s
+que vous eussiez été préservé(e)s
+qu’ils (elles) eussent été préservé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été préservé(e)
+ayons été préservé(e)s
+ayez été préservé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été préservé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été préservé(e)(s)

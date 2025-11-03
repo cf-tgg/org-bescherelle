@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe elire
+
+* INDICATIF
+
+** Présent
+
+j'élis
+tu élis
+il (elle) élit
+nous élisons
+vous élisez
+ils (elles) élisent
+
+** Imparfait
+
+j'élisais
+tu élisais
+il (elle) élisait
+nous élisions
+vous élisiez
+ils (elles) élisaient
+
+** Passé simple
+
+j'élus
+tu élus
+il (elle) élut
+nous élûmes
+vous élûtes
+ils (elles) élurent
+
+** Futur simple
+
+j'élirai
+tu éliras
+il (elle) élira
+nous élirons
+vous élirez
+ils (elles) éliront
+
+* CONDITIONNEL
+
+** Présent
+
+j'élirais
+tu élirais
+il (elle) élirait
+nous élirions
+vous éliriez
+ils (elles) éliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'élise
+que tu élises
+qu’il (elle) élise
+que nous élisions
+que vous élisiez
+qu’ils (elles) élisent
+
+** Imparfait
+
+que j'élusse
+que tu élusses
+qu’il (elle) élût
+que nous élussions
+que vous élussiez
+qu’ils (elles) élussent
+
+* IMPÉRATIF
+
+** Présent
+
+élis
+élisons
+élisez
+
+* INFINITIF
+
+** Présent
+
+élire
+
+* PARTICIPE
+
+** Présent
+
+élisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai élu
+tu as élu
+il (elle) a élu
+nous avons élu
+vous avez élu
+ils (elles) ont élu
+
+** Plus-que-parfait
+
+j'avais élu
+tu avais élu
+il (elle) avait élu
+nous avions élu
+vous aviez élu
+ils (elles) avaient élu
+
+** Passé antérieur
+
+j'eus élu
+tu eus élu
+il (elle) eut élu
+nous eûmes élu
+vous eûtes élu
+ils (elles) eurent élu
+
+** Futur antérieur
+
+j'aurai élu
+tu auras élu
+il (elle) aura élu
+nous aurons élu
+vous aurez élu
+ils (elles) auront élu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais élu
+tu aurais élu
+il (elle) aurait élu
+nous aurions élu
+vous auriez élu
+ils (elles) auraient élu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie élu
+que tu aies élu
+qu’il (elle) ait élu
+que nous ayons élu
+que vous ayez élu
+qu’ils (elles) aient élu
+
+** Plus-que-parfait
+
+que j'eusse élu
+que tu eusses élu
+qu’il (elle) eût élu
+que nous eussions élu
+que vous eussiez élu
+qu’ils (elles) eussent élu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons élu
+ayez élu
+
+* INFINITIF
+
+** Passé
+
+avoir élu
+
+* PARTICIPE
+
+** Passé
+
+ayant élu
+élu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis élu(e)
+tu es élu(e)
+il (elle) est élu(e)
+nous sommes élu(e)s
+vous êtes élu(e)s
+ils (elles) sont élu(e)s
+
+** Imparfait
+
+j'étais élu(e)
+tu étais élu(e)
+il (elle) était élu(e)
+nous étions élu(e)s
+vous étiez élu(e)s
+ils (elles) étaient élu(e)s
+
+** Passé simple
+
+je fus élu(e)
+tu fus élu(e)
+il (elle) fut élu(e)
+nous fûmes élu(e)s
+vous fûtes élu(e)s
+ils (elles) furent élu(e)s
+
+** Futur simple
+
+je serai élu(e)
+tu seras élu(e)
+il (elle) sera élu(e)
+nous serons élu(e)s
+vous serez élu(e)s
+ils (elles) seront élu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais élu(e)
+tu serais élu(e)
+il (elle) serait élu(e)
+nous serions élu(e)s
+vous seriez élu(e)s
+ils (elles) seraient élu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois élu(e)
+que tu sois élu(e)
+qu’il (elle) soit élu(e)
+que nous soyons élu(e)s
+que vous soyez élu(e)s
+qu’ils (elles) soient élu(e)s
+
+** Imparfait
+
+que je fusse élu(e)
+que tu fusses élu(e)
+qu’il (elle) fût élu(e)
+que nous fussions élu(e)s
+que vous fussiez élu(e)s
+qu’ils (elles) fussent élu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons élu(e)s
+soyez élu(e)s
+
+* INFINITIF
+
+** Présent
+
+être élu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant élu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été élu(e)
+tu as été élu(e)
+il (elle) a été élu(e)
+nous avons été élu(e)s
+vous avez été élu(e)s
+ils (elles) ont été élu(e)s
+
+** Plus-que-parfait
+
+j'avais été élu(e)
+il (elle) avait été élu(e)
+nous avions été élu(e)s
+ils (elles) avaient été élu(e)s
+
+** Passé antérieur
+
+j'eus été élu(e)
+tu eus été élu(e)
+il (elle) eut été élu(e)
+nous eûmes été élu(e)s
+vous eûtes été élu(e)s
+ils (elles) eurent été élu(e)s
+
+** Futur antérieur
+
+j'aurai été élu(e)
+tu auras été élu(e)
+il (elle) aura été élu(e)
+nous aurons été élu(e)s
+vous aurez été élu(e)s
+ils (elles) auront été élu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été élu(e)
+j'aurais été élu(e)
+il (elle) aurait été élu(e)
+nous aurions été élu(e)s
+vous auriez été élu(e)s
+ils (elles) auraient été élu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été élu(e)
+que tu aies été élu(e)
+qu’il (elle) ait été élu(e)
+que nous ayons été élu(e)s
+que vous ayez été élu(e)s
+qu’ils (elles) aient été élu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été élu(e)
+que tu eusses été élu(e)
+qu’il (elle) eût été élu(e)
+que nous eussions été élu(e)s
+que vous eussiez été élu(e)s
+qu’ils (elles) eussent été élu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été élu(e)
+ayons été élu(e)s
+ayez été élu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été élu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été élu(e)(s)

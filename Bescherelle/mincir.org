@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe mincir
+
+* INDICATIF
+
+** Présent
+
+je mincis
+tu mincis
+il (elle) mincit
+nous mincissons
+vous mincissez
+ils (elles) mincissent
+
+** Imparfait
+
+je mincissais
+tu mincissais
+il (elle) mincissait
+nous mincissions
+vous mincissiez
+ils (elles) mincissaient
+
+** Passé simple
+
+je mincis
+tu mincis
+il (elle) mincit
+nous mincîmes
+vous mincîtes
+ils (elles) mincirent
+
+** Futur simple
+
+je mincirai
+tu minciras
+il (elle) mincira
+nous mincirons
+vous mincirez
+ils (elles) minciront
+
+* CONDITIONNEL
+
+** Présent
+
+je mincirais
+tu mincirais
+il (elle) mincirait
+nous mincirions
+vous minciriez
+ils (elles) minciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mincisse
+que tu mincisses
+qu’il (elle) mincisse
+que nous mincissions
+que vous mincissiez
+qu’ils (elles) mincissent
+
+** Imparfait
+
+que je mincisse
+que tu mincisses
+qu’il (elle) mincît
+que nous mincissions
+que vous mincissiez
+qu’ils (elles) mincissent
+
+* IMPÉRATIF
+
+** Présent
+
+mincis
+mincissons
+mincissez
+
+* INFINITIF
+
+** Présent
+
+mincir
+
+* PARTICIPE
+
+** Présent
+
+mincissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai minci
+tu as minci
+il (elle) a minci
+nous avons minci
+vous avez minci
+ils (elles) ont minci
+
+** Plus-que-parfait
+
+j'avais minci
+tu avais minci
+il (elle) avait minci
+nous avions minci
+vous aviez minci
+ils (elles) avaient minci
+
+** Passé antérieur
+
+j'eus minci
+tu eus minci
+il (elle) eut minci
+nous eûmes minci
+vous eûtes minci
+ils (elles) eurent minci
+
+** Futur antérieur
+
+j'aurai minci
+tu auras minci
+il (elle) aura minci
+nous aurons minci
+vous aurez minci
+ils (elles) auront minci
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais minci
+tu aurais minci
+il (elle) aurait minci
+nous aurions minci
+vous auriez minci
+ils (elles) auraient minci
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie minci
+que tu aies minci
+qu’il (elle) ait minci
+que nous ayons minci
+que vous ayez minci
+qu’ils (elles) aient minci
+
+** Plus-que-parfait
+
+que j'eusse minci
+que tu eusses minci
+qu’il (elle) eût minci
+que nous eussions minci
+que vous eussiez minci
+qu’ils (elles) eussent minci
+
+* IMPÉRATIF
+
+** Passé
+
+ayons minci
+ayez minci
+
+* INFINITIF
+
+** Passé
+
+avoir minci
+
+* PARTICIPE
+
+** Passé
+
+ayant minci
+minci (invar.)

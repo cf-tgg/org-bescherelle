@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pencher
+
+* INDICATIF
+
+** Présent
+
+je penche
+tu penches
+il (elle) penche
+nous penchons
+vous penchez
+ils (elles) penchent
+
+** Imparfait
+
+je penchais
+tu penchais
+il (elle) penchait
+nous penchions
+vous penchiez
+ils (elles) penchaient
+
+** Passé simple
+
+je penchai
+tu penchas
+il (elle) pencha
+nous penchâmes
+vous penchâtes
+ils (elles) penchèrent
+
+** Futur simple
+
+je pencherai
+tu pencheras
+il (elle) penchera
+nous pencherons
+vous pencherez
+ils (elles) pencheront
+
+* CONDITIONNEL
+
+** Présent
+
+je pencherais
+tu pencherais
+il (elle) pencherait
+nous pencherions
+vous pencheriez
+ils (elles) pencheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je penche
+que tu penches
+qu’il (elle) penche
+que nous penchions
+que vous penchiez
+qu’ils (elles) penchent
+
+** Imparfait
+
+que je penchasse
+que tu penchasses
+qu’il (elle) penchât
+que nous penchassions
+que vous penchassiez
+qu’ils (elles) penchassent
+
+* IMPÉRATIF
+
+** Présent
+
+penche
+penchons
+penchez
+
+* INFINITIF
+
+** Présent
+
+pencher
+
+* PARTICIPE
+
+** Présent
+
+penchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai penché
+tu as penché
+il (elle) a penché
+nous avons penché
+vous avez penché
+ils (elles) ont penché
+
+** Plus-que-parfait
+
+j'avais penché
+tu avais penché
+il (elle) avait penché
+nous avions penché
+vous aviez penché
+ils (elles) avaient penché
+
+** Passé antérieur
+
+j'eus penché
+tu eus penché
+il (elle) eut penché
+nous eûmes penché
+vous eûtes penché
+ils (elles) eurent penché
+
+** Futur antérieur
+
+j'aurai penché
+tu auras penché
+il (elle) aura penché
+nous aurons penché
+vous aurez penché
+ils (elles) auront penché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais penché
+tu aurais penché
+il (elle) aurait penché
+nous aurions penché
+vous auriez penché
+ils (elles) auraient penché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie penché
+que tu aies penché
+qu’il (elle) ait penché
+que nous ayons penché
+que vous ayez penché
+qu’ils (elles) aient penché
+
+** Plus-que-parfait
+
+que j'eusse penché
+que tu eusses penché
+qu’il (elle) eût penché
+que nous eussions penché
+que vous eussiez penché
+qu’ils (elles) eussent penché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons penché
+ayez penché
+
+* INFINITIF
+
+** Passé
+
+avoir penché
+
+* PARTICIPE
+
+** Passé
+
+ayant penché
+penché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis penché(e)
+tu es penché(e)
+il (elle) est penché(e)
+nous sommes penché(e)s
+vous êtes penché(e)s
+ils (elles) sont penché(e)s
+
+** Imparfait
+
+j'étais penché(e)
+tu étais penché(e)
+il (elle) était penché(e)
+nous étions penché(e)s
+vous étiez penché(e)s
+ils (elles) étaient penché(e)s
+
+** Passé simple
+
+je fus penché(e)
+tu fus penché(e)
+il (elle) fut penché(e)
+nous fûmes penché(e)s
+vous fûtes penché(e)s
+ils (elles) furent penché(e)s
+
+** Futur simple
+
+je serai penché(e)
+tu seras penché(e)
+il (elle) sera penché(e)
+nous serons penché(e)s
+vous serez penché(e)s
+ils (elles) seront penché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais penché(e)
+tu serais penché(e)
+il (elle) serait penché(e)
+nous serions penché(e)s
+vous seriez penché(e)s
+ils (elles) seraient penché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois penché(e)
+que tu sois penché(e)
+qu’il (elle) soit penché(e)
+que nous soyons penché(e)s
+que vous soyez penché(e)s
+qu’ils (elles) soient penché(e)s
+
+** Imparfait
+
+que je fusse penché(e)
+que tu fusses penché(e)
+qu’il (elle) fût penché(e)
+que nous fussions penché(e)s
+que vous fussiez penché(e)s
+qu’ils (elles) fussent penché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons penché(e)s
+soyez penché(e)s
+
+* INFINITIF
+
+** Présent
+
+être penché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant penché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été penché(e)
+tu as été penché(e)
+il (elle) a été penché(e)
+nous avons été penché(e)s
+vous avez été penché(e)s
+ils (elles) ont été penché(e)s
+
+** Plus-que-parfait
+
+j'avais été penché(e)
+il (elle) avait été penché(e)
+nous avions été penché(e)s
+ils (elles) avaient été penché(e)s
+
+** Passé antérieur
+
+j'eus été penché(e)
+tu eus été penché(e)
+il (elle) eut été penché(e)
+nous eûmes été penché(e)s
+vous eûtes été penché(e)s
+ils (elles) eurent été penché(e)s
+
+** Futur antérieur
+
+j'aurai été penché(e)
+tu auras été penché(e)
+il (elle) aura été penché(e)
+nous aurons été penché(e)s
+vous aurez été penché(e)s
+ils (elles) auront été penché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été penché(e)
+j'aurais été penché(e)
+il (elle) aurait été penché(e)
+nous aurions été penché(e)s
+vous auriez été penché(e)s
+ils (elles) auraient été penché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été penché(e)
+que tu aies été penché(e)
+qu’il (elle) ait été penché(e)
+que nous ayons été penché(e)s
+que vous ayez été penché(e)s
+qu’ils (elles) aient été penché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été penché(e)
+que tu eusses été penché(e)
+qu’il (elle) eût été penché(e)
+que nous eussions été penché(e)s
+que vous eussiez été penché(e)s
+qu’ils (elles) eussent été penché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été penché(e)
+ayons été penché(e)s
+ayez été penché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été penché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été penché(e)(s)

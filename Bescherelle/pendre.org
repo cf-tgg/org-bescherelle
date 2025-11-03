@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pendre
+
+* INDICATIF
+
+** Présent
+
+je pends
+tu pends
+il (elle) pend
+nous pendons
+vous pendez
+ils (elles) pendent
+
+** Imparfait
+
+je pendais
+tu pendais
+il (elle) pendait
+nous pendions
+vous pendiez
+ils (elles) pendaient
+
+** Passé simple
+
+je pendis
+tu pendis
+il (elle) pendit
+nous pendîmes
+vous pendîtes
+ils (elles) pendirent
+
+** Futur simple
+
+je pendrai
+tu pendras
+il (elle) pendra
+nous pendrons
+vous pendrez
+ils (elles) pendront
+
+* CONDITIONNEL
+
+** Présent
+
+je pendrais
+tu pendrais
+il (elle) pendrait
+nous pendrions
+vous pendriez
+ils (elles) pendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pende
+que tu pendes
+qu’il (elle) pende
+que nous pendions
+que vous pendiez
+qu’ils (elles) pendent
+
+** Imparfait
+
+que je pendisse
+que tu pendisses
+qu’il (elle) pendît
+que nous pendissions
+que vous pendissiez
+qu’ils (elles) pendissent
+
+* IMPÉRATIF
+
+** Présent
+
+pends
+pendons
+pendez
+
+* INFINITIF
+
+** Présent
+
+pendre
+
+* PARTICIPE
+
+** Présent
+
+pendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pendu
+tu as pendu
+il (elle) a pendu
+nous avons pendu
+vous avez pendu
+ils (elles) ont pendu
+
+** Plus-que-parfait
+
+j'avais pendu
+tu avais pendu
+il (elle) avait pendu
+nous avions pendu
+vous aviez pendu
+ils (elles) avaient pendu
+
+** Passé antérieur
+
+j'eus pendu
+tu eus pendu
+il (elle) eut pendu
+nous eûmes pendu
+vous eûtes pendu
+ils (elles) eurent pendu
+
+** Futur antérieur
+
+j'aurai pendu
+tu auras pendu
+il (elle) aura pendu
+nous aurons pendu
+vous aurez pendu
+ils (elles) auront pendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pendu
+tu aurais pendu
+il (elle) aurait pendu
+nous aurions pendu
+vous auriez pendu
+ils (elles) auraient pendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pendu
+que tu aies pendu
+qu’il (elle) ait pendu
+que nous ayons pendu
+que vous ayez pendu
+qu’ils (elles) aient pendu
+
+** Plus-que-parfait
+
+que j'eusse pendu
+que tu eusses pendu
+qu’il (elle) eût pendu
+que nous eussions pendu
+que vous eussiez pendu
+qu’ils (elles) eussent pendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pendu
+ayez pendu
+
+* INFINITIF
+
+** Passé
+
+avoir pendu
+
+* PARTICIPE
+
+** Passé
+
+ayant pendu
+pendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis pendu(e)
+tu es pendu(e)
+il (elle) est pendu(e)
+nous sommes pendu(e)s
+vous êtes pendu(e)s
+ils (elles) sont pendu(e)s
+
+** Imparfait
+
+j'étais pendu(e)
+tu étais pendu(e)
+il (elle) était pendu(e)
+nous étions pendu(e)s
+vous étiez pendu(e)s
+ils (elles) étaient pendu(e)s
+
+** Passé simple
+
+je fus pendu(e)
+tu fus pendu(e)
+il (elle) fut pendu(e)
+nous fûmes pendu(e)s
+vous fûtes pendu(e)s
+ils (elles) furent pendu(e)s
+
+** Futur simple
+
+je serai pendu(e)
+tu seras pendu(e)
+il (elle) sera pendu(e)
+nous serons pendu(e)s
+vous serez pendu(e)s
+ils (elles) seront pendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pendu(e)
+tu serais pendu(e)
+il (elle) serait pendu(e)
+nous serions pendu(e)s
+vous seriez pendu(e)s
+ils (elles) seraient pendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pendu(e)
+que tu sois pendu(e)
+qu’il (elle) soit pendu(e)
+que nous soyons pendu(e)s
+que vous soyez pendu(e)s
+qu’ils (elles) soient pendu(e)s
+
+** Imparfait
+
+que je fusse pendu(e)
+que tu fusses pendu(e)
+qu’il (elle) fût pendu(e)
+que nous fussions pendu(e)s
+que vous fussiez pendu(e)s
+qu’ils (elles) fussent pendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pendu(e)s
+soyez pendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être pendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pendu(e)
+tu as été pendu(e)
+il (elle) a été pendu(e)
+nous avons été pendu(e)s
+vous avez été pendu(e)s
+ils (elles) ont été pendu(e)s
+
+** Plus-que-parfait
+
+j'avais été pendu(e)
+il (elle) avait été pendu(e)
+nous avions été pendu(e)s
+ils (elles) avaient été pendu(e)s
+
+** Passé antérieur
+
+j'eus été pendu(e)
+tu eus été pendu(e)
+il (elle) eut été pendu(e)
+nous eûmes été pendu(e)s
+vous eûtes été pendu(e)s
+ils (elles) eurent été pendu(e)s
+
+** Futur antérieur
+
+j'aurai été pendu(e)
+tu auras été pendu(e)
+il (elle) aura été pendu(e)
+nous aurons été pendu(e)s
+vous aurez été pendu(e)s
+ils (elles) auront été pendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pendu(e)
+j'aurais été pendu(e)
+il (elle) aurait été pendu(e)
+nous aurions été pendu(e)s
+vous auriez été pendu(e)s
+ils (elles) auraient été pendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pendu(e)
+que tu aies été pendu(e)
+qu’il (elle) ait été pendu(e)
+que nous ayons été pendu(e)s
+que vous ayez été pendu(e)s
+qu’ils (elles) aient été pendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pendu(e)
+que tu eusses été pendu(e)
+qu’il (elle) eût été pendu(e)
+que nous eussions été pendu(e)s
+que vous eussiez été pendu(e)s
+qu’ils (elles) eussent été pendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pendu(e)
+ayons été pendu(e)s
+ayez été pendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pendu(e)(s)

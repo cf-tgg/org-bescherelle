@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe correspondre
+
+* INDICATIF
+
+** Présent
+
+je corresponds
+tu corresponds
+il (elle) correspond
+nous correspondons
+vous correspondez
+ils (elles) correspondent
+
+** Imparfait
+
+je correspondais
+tu correspondais
+il (elle) correspondait
+nous correspondions
+vous correspondiez
+ils (elles) correspondaient
+
+** Passé simple
+
+je correspondis
+tu correspondis
+il (elle) correspondit
+nous correspondîmes
+vous correspondîtes
+ils (elles) correspondirent
+
+** Futur simple
+
+je correspondrai
+tu correspondras
+il (elle) correspondra
+nous correspondrons
+vous correspondrez
+ils (elles) correspondront
+
+* CONDITIONNEL
+
+** Présent
+
+je correspondrais
+tu correspondrais
+il (elle) correspondrait
+nous correspondrions
+vous correspondriez
+ils (elles) correspondraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je corresponde
+que tu correspondes
+qu’il (elle) corresponde
+que nous correspondions
+que vous correspondiez
+qu’ils (elles) correspondent
+
+** Imparfait
+
+que je correspondisse
+que tu correspondisses
+qu’il (elle) correspondît
+que nous correspondissions
+que vous correspondissiez
+qu’ils (elles) correspondissent
+
+* IMPÉRATIF
+
+** Présent
+
+corresponds
+correspondons
+correspondez
+
+* INFINITIF
+
+** Présent
+
+correspondre
+
+* PARTICIPE
+
+** Présent
+
+correspondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai correspondu
+tu as correspondu
+il (elle) a correspondu
+nous avons correspondu
+vous avez correspondu
+ils (elles) ont correspondu
+
+** Plus-que-parfait
+
+j'avais correspondu
+tu avais correspondu
+il (elle) avait correspondu
+nous avions correspondu
+vous aviez correspondu
+ils (elles) avaient correspondu
+
+** Passé antérieur
+
+j'eus correspondu
+tu eus correspondu
+il (elle) eut correspondu
+nous eûmes correspondu
+vous eûtes correspondu
+ils (elles) eurent correspondu
+
+** Futur antérieur
+
+j'aurai correspondu
+tu auras correspondu
+il (elle) aura correspondu
+nous aurons correspondu
+vous aurez correspondu
+ils (elles) auront correspondu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais correspondu
+tu aurais correspondu
+il (elle) aurait correspondu
+nous aurions correspondu
+vous auriez correspondu
+ils (elles) auraient correspondu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie correspondu
+que tu aies correspondu
+qu’il (elle) ait correspondu
+que nous ayons correspondu
+que vous ayez correspondu
+qu’ils (elles) aient correspondu
+
+** Plus-que-parfait
+
+que j'eusse correspondu
+que tu eusses correspondu
+qu’il (elle) eût correspondu
+que nous eussions correspondu
+que vous eussiez correspondu
+qu’ils (elles) eussent correspondu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons correspondu
+ayez correspondu
+
+* INFINITIF
+
+** Passé
+
+avoir correspondu
+
+* PARTICIPE
+
+** Passé
+
+ayant correspondu
+correspondu (invar.)

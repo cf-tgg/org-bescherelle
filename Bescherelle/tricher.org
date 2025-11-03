@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe tricher
+
+* INDICATIF
+
+** Présent
+
+je triche
+tu triches
+il (elle) triche
+nous trichons
+vous trichez
+ils (elles) trichent
+
+** Imparfait
+
+je trichais
+tu trichais
+il (elle) trichait
+nous trichions
+vous trichiez
+ils (elles) trichaient
+
+** Passé simple
+
+je trichai
+tu trichas
+il (elle) tricha
+nous trichâmes
+vous trichâtes
+ils (elles) trichèrent
+
+** Futur simple
+
+je tricherai
+tu tricheras
+il (elle) trichera
+nous tricherons
+vous tricherez
+ils (elles) tricheront
+
+* CONDITIONNEL
+
+** Présent
+
+je tricherais
+tu tricherais
+il (elle) tricherait
+nous tricherions
+vous tricheriez
+ils (elles) tricheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je triche
+que tu triches
+qu’il (elle) triche
+que nous trichions
+que vous trichiez
+qu’ils (elles) trichent
+
+** Imparfait
+
+que je trichasse
+que tu trichasses
+qu’il (elle) trichât
+que nous trichassions
+que vous trichassiez
+qu’ils (elles) trichassent
+
+* IMPÉRATIF
+
+** Présent
+
+triche
+trichons
+trichez
+
+* INFINITIF
+
+** Présent
+
+tricher
+
+* PARTICIPE
+
+** Présent
+
+trichant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai triché
+tu as triché
+il (elle) a triché
+nous avons triché
+vous avez triché
+ils (elles) ont triché
+
+** Plus-que-parfait
+
+j'avais triché
+tu avais triché
+il (elle) avait triché
+nous avions triché
+vous aviez triché
+ils (elles) avaient triché
+
+** Passé antérieur
+
+j'eus triché
+tu eus triché
+il (elle) eut triché
+nous eûmes triché
+vous eûtes triché
+ils (elles) eurent triché
+
+** Futur antérieur
+
+j'aurai triché
+tu auras triché
+il (elle) aura triché
+nous aurons triché
+vous aurez triché
+ils (elles) auront triché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais triché
+tu aurais triché
+il (elle) aurait triché
+nous aurions triché
+vous auriez triché
+ils (elles) auraient triché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie triché
+que tu aies triché
+qu’il (elle) ait triché
+que nous ayons triché
+que vous ayez triché
+qu’ils (elles) aient triché
+
+** Plus-que-parfait
+
+que j'eusse triché
+que tu eusses triché
+qu’il (elle) eût triché
+que nous eussions triché
+que vous eussiez triché
+qu’ils (elles) eussent triché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons triché
+ayez triché
+
+* INFINITIF
+
+** Passé
+
+avoir triché
+
+* PARTICIPE
+
+** Passé
+
+ayant triché
+triché (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mesurer
+
+* INDICATIF
+
+** Présent
+
+je mesure
+tu mesures
+il (elle) mesure
+nous mesurons
+vous mesurez
+ils (elles) mesurent
+
+** Imparfait
+
+je mesurais
+tu mesurais
+il (elle) mesurait
+nous mesurions
+vous mesuriez
+ils (elles) mesuraient
+
+** Passé simple
+
+je mesurai
+tu mesuras
+il (elle) mesura
+nous mesurâmes
+vous mesurâtes
+ils (elles) mesurèrent
+
+** Futur simple
+
+je mesurerai
+tu mesureras
+il (elle) mesurera
+nous mesurerons
+vous mesurerez
+ils (elles) mesureront
+
+* CONDITIONNEL
+
+** Présent
+
+je mesurerais
+tu mesurerais
+il (elle) mesurerait
+nous mesurerions
+vous mesureriez
+ils (elles) mesureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mesure
+que tu mesures
+qu’il (elle) mesure
+que nous mesurions
+que vous mesuriez
+qu’ils (elles) mesurent
+
+** Imparfait
+
+que je mesurasse
+que tu mesurasses
+qu’il (elle) mesurât
+que nous mesurassions
+que vous mesurassiez
+qu’ils (elles) mesurassent
+
+* IMPÉRATIF
+
+** Présent
+
+mesure
+mesurons
+mesurez
+
+* INFINITIF
+
+** Présent
+
+mesurer
+
+* PARTICIPE
+
+** Présent
+
+mesurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mesuré
+tu as mesuré
+il (elle) a mesuré
+nous avons mesuré
+vous avez mesuré
+ils (elles) ont mesuré
+
+** Plus-que-parfait
+
+j'avais mesuré
+tu avais mesuré
+il (elle) avait mesuré
+nous avions mesuré
+vous aviez mesuré
+ils (elles) avaient mesuré
+
+** Passé antérieur
+
+j'eus mesuré
+tu eus mesuré
+il (elle) eut mesuré
+nous eûmes mesuré
+vous eûtes mesuré
+ils (elles) eurent mesuré
+
+** Futur antérieur
+
+j'aurai mesuré
+tu auras mesuré
+il (elle) aura mesuré
+nous aurons mesuré
+vous aurez mesuré
+ils (elles) auront mesuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mesuré
+tu aurais mesuré
+il (elle) aurait mesuré
+nous aurions mesuré
+vous auriez mesuré
+ils (elles) auraient mesuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mesuré
+que tu aies mesuré
+qu’il (elle) ait mesuré
+que nous ayons mesuré
+que vous ayez mesuré
+qu’ils (elles) aient mesuré
+
+** Plus-que-parfait
+
+que j'eusse mesuré
+que tu eusses mesuré
+qu’il (elle) eût mesuré
+que nous eussions mesuré
+que vous eussiez mesuré
+qu’ils (elles) eussent mesuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mesuré
+ayez mesuré
+
+* INFINITIF
+
+** Passé
+
+avoir mesuré
+
+* PARTICIPE
+
+** Passé
+
+ayant mesuré
+mesuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mesuré(e)
+tu es mesuré(e)
+il (elle) est mesuré(e)
+nous sommes mesuré(e)s
+vous êtes mesuré(e)s
+ils (elles) sont mesuré(e)s
+
+** Imparfait
+
+j'étais mesuré(e)
+tu étais mesuré(e)
+il (elle) était mesuré(e)
+nous étions mesuré(e)s
+vous étiez mesuré(e)s
+ils (elles) étaient mesuré(e)s
+
+** Passé simple
+
+je fus mesuré(e)
+tu fus mesuré(e)
+il (elle) fut mesuré(e)
+nous fûmes mesuré(e)s
+vous fûtes mesuré(e)s
+ils (elles) furent mesuré(e)s
+
+** Futur simple
+
+je serai mesuré(e)
+tu seras mesuré(e)
+il (elle) sera mesuré(e)
+nous serons mesuré(e)s
+vous serez mesuré(e)s
+ils (elles) seront mesuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mesuré(e)
+tu serais mesuré(e)
+il (elle) serait mesuré(e)
+nous serions mesuré(e)s
+vous seriez mesuré(e)s
+ils (elles) seraient mesuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mesuré(e)
+que tu sois mesuré(e)
+qu’il (elle) soit mesuré(e)
+que nous soyons mesuré(e)s
+que vous soyez mesuré(e)s
+qu’ils (elles) soient mesuré(e)s
+
+** Imparfait
+
+que je fusse mesuré(e)
+que tu fusses mesuré(e)
+qu’il (elle) fût mesuré(e)
+que nous fussions mesuré(e)s
+que vous fussiez mesuré(e)s
+qu’ils (elles) fussent mesuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mesuré(e)s
+soyez mesuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être mesuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mesuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mesuré(e)
+tu as été mesuré(e)
+il (elle) a été mesuré(e)
+nous avons été mesuré(e)s
+vous avez été mesuré(e)s
+ils (elles) ont été mesuré(e)s
+
+** Plus-que-parfait
+
+j'avais été mesuré(e)
+il (elle) avait été mesuré(e)
+nous avions été mesuré(e)s
+ils (elles) avaient été mesuré(e)s
+
+** Passé antérieur
+
+j'eus été mesuré(e)
+tu eus été mesuré(e)
+il (elle) eut été mesuré(e)
+nous eûmes été mesuré(e)s
+vous eûtes été mesuré(e)s
+ils (elles) eurent été mesuré(e)s
+
+** Futur antérieur
+
+j'aurai été mesuré(e)
+tu auras été mesuré(e)
+il (elle) aura été mesuré(e)
+nous aurons été mesuré(e)s
+vous aurez été mesuré(e)s
+ils (elles) auront été mesuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mesuré(e)
+j'aurais été mesuré(e)
+il (elle) aurait été mesuré(e)
+nous aurions été mesuré(e)s
+vous auriez été mesuré(e)s
+ils (elles) auraient été mesuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mesuré(e)
+que tu aies été mesuré(e)
+qu’il (elle) ait été mesuré(e)
+que nous ayons été mesuré(e)s
+que vous ayez été mesuré(e)s
+qu’ils (elles) aient été mesuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mesuré(e)
+que tu eusses été mesuré(e)
+qu’il (elle) eût été mesuré(e)
+que nous eussions été mesuré(e)s
+que vous eussiez été mesuré(e)s
+qu’ils (elles) eussent été mesuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mesuré(e)
+ayons été mesuré(e)s
+ayez été mesuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mesuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mesuré(e)(s)

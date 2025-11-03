@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ailler
+
+* INDICATIF
+
+** Présent
+
+j'aille
+tu ailles
+il (elle) aille
+nous aillons
+vous aillez
+ils (elles) aillent
+
+** Imparfait
+
+j'aillais
+tu aillais
+il (elle) aillait
+nous aillions
+vous ailliez
+ils (elles) aillaient
+
+** Passé simple
+
+j'aillai
+tu aillas
+il (elle) ailla
+nous aillâmes
+vous aillâtes
+ils (elles) aillèrent
+
+** Futur simple
+
+j'aillerai
+tu ailleras
+il (elle) aillera
+nous aillerons
+vous aillerez
+ils (elles) ailleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aillerais
+tu aillerais
+il (elle) aillerait
+nous aillerions
+vous ailleriez
+ils (elles) ailleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aille
+que tu ailles
+qu’il (elle) aille
+que nous aillions
+que vous ailliez
+qu’ils (elles) aillent
+
+** Imparfait
+
+que j'aillasse
+que tu aillasses
+qu’il (elle) aillât
+que nous aillassions
+que vous aillassiez
+qu’ils (elles) aillassent
+
+* IMPÉRATIF
+
+** Présent
+
+aille
+aillons
+aillez
+
+* INFINITIF
+
+** Présent
+
+ailler
+
+* PARTICIPE
+
+** Présent
+
+aillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aillé
+tu as aillé
+il (elle) a aillé
+nous avons aillé
+vous avez aillé
+ils (elles) ont aillé
+
+** Plus-que-parfait
+
+j'avais aillé
+tu avais aillé
+il (elle) avait aillé
+nous avions aillé
+vous aviez aillé
+ils (elles) avaient aillé
+
+** Passé antérieur
+
+j'eus aillé
+tu eus aillé
+il (elle) eut aillé
+nous eûmes aillé
+vous eûtes aillé
+ils (elles) eurent aillé
+
+** Futur antérieur
+
+j'aurai aillé
+tu auras aillé
+il (elle) aura aillé
+nous aurons aillé
+vous aurez aillé
+ils (elles) auront aillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aillé
+tu aurais aillé
+il (elle) aurait aillé
+nous aurions aillé
+vous auriez aillé
+ils (elles) auraient aillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aillé
+que tu aies aillé
+qu’il (elle) ait aillé
+que nous ayons aillé
+que vous ayez aillé
+qu’ils (elles) aient aillé
+
+** Plus-que-parfait
+
+que j'eusse aillé
+que tu eusses aillé
+qu’il (elle) eût aillé
+que nous eussions aillé
+que vous eussiez aillé
+qu’ils (elles) eussent aillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aillé
+ayez aillé
+
+* INFINITIF
+
+** Passé
+
+avoir aillé
+
+* PARTICIPE
+
+** Passé
+
+ayant aillé
+aillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aillé(e)
+tu es aillé(e)
+il (elle) est aillé(e)
+nous sommes aillé(e)s
+vous êtes aillé(e)s
+ils (elles) sont aillé(e)s
+
+** Imparfait
+
+j'étais aillé(e)
+tu étais aillé(e)
+il (elle) était aillé(e)
+nous étions aillé(e)s
+vous étiez aillé(e)s
+ils (elles) étaient aillé(e)s
+
+** Passé simple
+
+je fus aillé(e)
+tu fus aillé(e)
+il (elle) fut aillé(e)
+nous fûmes aillé(e)s
+vous fûtes aillé(e)s
+ils (elles) furent aillé(e)s
+
+** Futur simple
+
+je serai aillé(e)
+tu seras aillé(e)
+il (elle) sera aillé(e)
+nous serons aillé(e)s
+vous serez aillé(e)s
+ils (elles) seront aillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aillé(e)
+tu serais aillé(e)
+il (elle) serait aillé(e)
+nous serions aillé(e)s
+vous seriez aillé(e)s
+ils (elles) seraient aillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aillé(e)
+que tu sois aillé(e)
+qu’il (elle) soit aillé(e)
+que nous soyons aillé(e)s
+que vous soyez aillé(e)s
+qu’ils (elles) soient aillé(e)s
+
+** Imparfait
+
+que je fusse aillé(e)
+que tu fusses aillé(e)
+qu’il (elle) fût aillé(e)
+que nous fussions aillé(e)s
+que vous fussiez aillé(e)s
+qu’ils (elles) fussent aillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aillé(e)s
+soyez aillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être aillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aillé(e)
+tu as été aillé(e)
+il (elle) a été aillé(e)
+nous avons été aillé(e)s
+vous avez été aillé(e)s
+ils (elles) ont été aillé(e)s
+
+** Plus-que-parfait
+
+j'avais été aillé(e)
+il (elle) avait été aillé(e)
+nous avions été aillé(e)s
+ils (elles) avaient été aillé(e)s
+
+** Passé antérieur
+
+j'eus été aillé(e)
+tu eus été aillé(e)
+il (elle) eut été aillé(e)
+nous eûmes été aillé(e)s
+vous eûtes été aillé(e)s
+ils (elles) eurent été aillé(e)s
+
+** Futur antérieur
+
+j'aurai été aillé(e)
+tu auras été aillé(e)
+il (elle) aura été aillé(e)
+nous aurons été aillé(e)s
+vous aurez été aillé(e)s
+ils (elles) auront été aillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aillé(e)
+j'aurais été aillé(e)
+il (elle) aurait été aillé(e)
+nous aurions été aillé(e)s
+vous auriez été aillé(e)s
+ils (elles) auraient été aillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aillé(e)
+que tu aies été aillé(e)
+qu’il (elle) ait été aillé(e)
+que nous ayons été aillé(e)s
+que vous ayez été aillé(e)s
+qu’ils (elles) aient été aillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aillé(e)
+que tu eusses été aillé(e)
+qu’il (elle) eût été aillé(e)
+que nous eussions été aillé(e)s
+que vous eussiez été aillé(e)s
+qu’ils (elles) eussent été aillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aillé(e)
+ayons été aillé(e)s
+ayez été aillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aillé(e)(s)

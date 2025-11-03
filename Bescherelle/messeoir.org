@@ -1,0 +1,44 @@
+#+title: Conjugaison du verbe messeoir
+
+* INDICATIF
+
+** Présent
+
+il (elle) messied
+ils (elles) messiéent
+
+** Imparfait
+
+il (elle) messeyait
+ils (elles) messeyaient
+
+** Futur simple
+
+il (elle) messiéra
+ils (elles) messiéront
+
+* CONDITIONNEL
+
+** Présent
+
+il (elle) messiérait
+ils (elles) messiéraient
+
+* SUBJONCTIF
+
+** Présent
+
+qu’il (elle) messiée
+qu’ils (elles) messiéent
+
+* INFINITIF
+
+** Présent
+
+messeoir
+
+* PARTICIPE
+
+** Présent
+
+messéant

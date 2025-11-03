@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe piquer
+
+* INDICATIF
+
+** Présent
+
+je pique
+tu piques
+il (elle) pique
+nous piquons
+vous piquez
+ils (elles) piquent
+
+** Imparfait
+
+je piquais
+tu piquais
+il (elle) piquait
+nous piquions
+vous piquiez
+ils (elles) piquaient
+
+** Passé simple
+
+je piquai
+tu piquas
+il (elle) piqua
+nous piquâmes
+vous piquâtes
+ils (elles) piquèrent
+
+** Futur simple
+
+je piquerai
+tu piqueras
+il (elle) piquera
+nous piquerons
+vous piquerez
+ils (elles) piqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je piquerais
+tu piquerais
+il (elle) piquerait
+nous piquerions
+vous piqueriez
+ils (elles) piqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pique
+que tu piques
+qu’il (elle) pique
+que nous piquions
+que vous piquiez
+qu’ils (elles) piquent
+
+** Imparfait
+
+que je piquasse
+que tu piquasses
+qu’il (elle) piquât
+que nous piquassions
+que vous piquassiez
+qu’ils (elles) piquassent
+
+* IMPÉRATIF
+
+** Présent
+
+pique
+piquons
+piquez
+
+* INFINITIF
+
+** Présent
+
+piquer
+
+* PARTICIPE
+
+** Présent
+
+piquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai piqué
+tu as piqué
+il (elle) a piqué
+nous avons piqué
+vous avez piqué
+ils (elles) ont piqué
+
+** Plus-que-parfait
+
+j'avais piqué
+tu avais piqué
+il (elle) avait piqué
+nous avions piqué
+vous aviez piqué
+ils (elles) avaient piqué
+
+** Passé antérieur
+
+j'eus piqué
+tu eus piqué
+il (elle) eut piqué
+nous eûmes piqué
+vous eûtes piqué
+ils (elles) eurent piqué
+
+** Futur antérieur
+
+j'aurai piqué
+tu auras piqué
+il (elle) aura piqué
+nous aurons piqué
+vous aurez piqué
+ils (elles) auront piqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais piqué
+tu aurais piqué
+il (elle) aurait piqué
+nous aurions piqué
+vous auriez piqué
+ils (elles) auraient piqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie piqué
+que tu aies piqué
+qu’il (elle) ait piqué
+que nous ayons piqué
+que vous ayez piqué
+qu’ils (elles) aient piqué
+
+** Plus-que-parfait
+
+que j'eusse piqué
+que tu eusses piqué
+qu’il (elle) eût piqué
+que nous eussions piqué
+que vous eussiez piqué
+qu’ils (elles) eussent piqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons piqué
+ayez piqué
+
+* INFINITIF
+
+** Passé
+
+avoir piqué
+
+* PARTICIPE
+
+** Passé
+
+ayant piqué
+piqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis piqué(e)
+tu es piqué(e)
+il (elle) est piqué(e)
+nous sommes piqué(e)s
+vous êtes piqué(e)s
+ils (elles) sont piqué(e)s
+
+** Imparfait
+
+j'étais piqué(e)
+tu étais piqué(e)
+il (elle) était piqué(e)
+nous étions piqué(e)s
+vous étiez piqué(e)s
+ils (elles) étaient piqué(e)s
+
+** Passé simple
+
+je fus piqué(e)
+tu fus piqué(e)
+il (elle) fut piqué(e)
+nous fûmes piqué(e)s
+vous fûtes piqué(e)s
+ils (elles) furent piqué(e)s
+
+** Futur simple
+
+je serai piqué(e)
+tu seras piqué(e)
+il (elle) sera piqué(e)
+nous serons piqué(e)s
+vous serez piqué(e)s
+ils (elles) seront piqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais piqué(e)
+tu serais piqué(e)
+il (elle) serait piqué(e)
+nous serions piqué(e)s
+vous seriez piqué(e)s
+ils (elles) seraient piqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois piqué(e)
+que tu sois piqué(e)
+qu’il (elle) soit piqué(e)
+que nous soyons piqué(e)s
+que vous soyez piqué(e)s
+qu’ils (elles) soient piqué(e)s
+
+** Imparfait
+
+que je fusse piqué(e)
+que tu fusses piqué(e)
+qu’il (elle) fût piqué(e)
+que nous fussions piqué(e)s
+que vous fussiez piqué(e)s
+qu’ils (elles) fussent piqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons piqué(e)s
+soyez piqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être piqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant piqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été piqué(e)
+tu as été piqué(e)
+il (elle) a été piqué(e)
+nous avons été piqué(e)s
+vous avez été piqué(e)s
+ils (elles) ont été piqué(e)s
+
+** Plus-que-parfait
+
+j'avais été piqué(e)
+il (elle) avait été piqué(e)
+nous avions été piqué(e)s
+ils (elles) avaient été piqué(e)s
+
+** Passé antérieur
+
+j'eus été piqué(e)
+tu eus été piqué(e)
+il (elle) eut été piqué(e)
+nous eûmes été piqué(e)s
+vous eûtes été piqué(e)s
+ils (elles) eurent été piqué(e)s
+
+** Futur antérieur
+
+j'aurai été piqué(e)
+tu auras été piqué(e)
+il (elle) aura été piqué(e)
+nous aurons été piqué(e)s
+vous aurez été piqué(e)s
+ils (elles) auront été piqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été piqué(e)
+j'aurais été piqué(e)
+il (elle) aurait été piqué(e)
+nous aurions été piqué(e)s
+vous auriez été piqué(e)s
+ils (elles) auraient été piqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été piqué(e)
+que tu aies été piqué(e)
+qu’il (elle) ait été piqué(e)
+que nous ayons été piqué(e)s
+que vous ayez été piqué(e)s
+qu’ils (elles) aient été piqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été piqué(e)
+que tu eusses été piqué(e)
+qu’il (elle) eût été piqué(e)
+que nous eussions été piqué(e)s
+que vous eussiez été piqué(e)s
+qu’ils (elles) eussent été piqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été piqué(e)
+ayons été piqué(e)s
+ayez été piqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été piqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été piqué(e)(s)

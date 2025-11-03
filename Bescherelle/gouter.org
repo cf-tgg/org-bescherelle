@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gouter
+
+* INDICATIF
+
+** Présent
+
+je goûte
+tu goûtes
+il (elle) goûte
+nous goûtons
+vous goûtez
+ils (elles) goûtent
+
+** Imparfait
+
+je goûtais
+tu goûtais
+il (elle) goûtait
+nous goûtions
+vous goûtiez
+ils (elles) goûtaient
+
+** Passé simple
+
+je goûtai
+tu goûtas
+il (elle) goûta
+nous goûtâmes
+vous goûtâtes
+ils (elles) goûtèrent
+
+** Futur simple
+
+je goûterai
+tu goûteras
+il (elle) goûtera
+nous goûterons
+vous goûterez
+ils (elles) goûteront
+
+* CONDITIONNEL
+
+** Présent
+
+je goûterais
+tu goûterais
+il (elle) goûterait
+nous goûterions
+vous goûteriez
+ils (elles) goûteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je goûte
+que tu goûtes
+qu’il (elle) goûte
+que nous goûtions
+que vous goûtiez
+qu’ils (elles) goûtent
+
+** Imparfait
+
+que je goûtasse
+que tu goûtasses
+qu’il (elle) goûtât
+que nous goûtassions
+que vous goûtassiez
+qu’ils (elles) goûtassent
+
+* IMPÉRATIF
+
+** Présent
+
+goûte
+goûtons
+goûtez
+
+* INFINITIF
+
+** Présent
+
+goûter
+
+* PARTICIPE
+
+** Présent
+
+goûtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai goûté
+tu as goûté
+il (elle) a goûté
+nous avons goûté
+vous avez goûté
+ils (elles) ont goûté
+
+** Plus-que-parfait
+
+j'avais goûté
+tu avais goûté
+il (elle) avait goûté
+nous avions goûté
+vous aviez goûté
+ils (elles) avaient goûté
+
+** Passé antérieur
+
+j'eus goûté
+tu eus goûté
+il (elle) eut goûté
+nous eûmes goûté
+vous eûtes goûté
+ils (elles) eurent goûté
+
+** Futur antérieur
+
+j'aurai goûté
+tu auras goûté
+il (elle) aura goûté
+nous aurons goûté
+vous aurez goûté
+ils (elles) auront goûté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais goûté
+tu aurais goûté
+il (elle) aurait goûté
+nous aurions goûté
+vous auriez goûté
+ils (elles) auraient goûté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie goûté
+que tu aies goûté
+qu’il (elle) ait goûté
+que nous ayons goûté
+que vous ayez goûté
+qu’ils (elles) aient goûté
+
+** Plus-que-parfait
+
+que j'eusse goûté
+que tu eusses goûté
+qu’il (elle) eût goûté
+que nous eussions goûté
+que vous eussiez goûté
+qu’ils (elles) eussent goûté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons goûté
+ayez goûté
+
+* INFINITIF
+
+** Passé
+
+avoir goûté
+
+* PARTICIPE
+
+** Passé
+
+ayant goûté
+goûté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis goûté(e)
+tu es goûté(e)
+il (elle) est goûté(e)
+nous sommes goûté(e)s
+vous êtes goûté(e)s
+ils (elles) sont goûté(e)s
+
+** Imparfait
+
+j'étais goûté(e)
+tu étais goûté(e)
+il (elle) était goûté(e)
+nous étions goûté(e)s
+vous étiez goûté(e)s
+ils (elles) étaient goûté(e)s
+
+** Passé simple
+
+je fus goûté(e)
+tu fus goûté(e)
+il (elle) fut goûté(e)
+nous fûmes goûté(e)s
+vous fûtes goûté(e)s
+ils (elles) furent goûté(e)s
+
+** Futur simple
+
+je serai goûté(e)
+tu seras goûté(e)
+il (elle) sera goûté(e)
+nous serons goûté(e)s
+vous serez goûté(e)s
+ils (elles) seront goûté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais goûté(e)
+tu serais goûté(e)
+il (elle) serait goûté(e)
+nous serions goûté(e)s
+vous seriez goûté(e)s
+ils (elles) seraient goûté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois goûté(e)
+que tu sois goûté(e)
+qu’il (elle) soit goûté(e)
+que nous soyons goûté(e)s
+que vous soyez goûté(e)s
+qu’ils (elles) soient goûté(e)s
+
+** Imparfait
+
+que je fusse goûté(e)
+que tu fusses goûté(e)
+qu’il (elle) fût goûté(e)
+que nous fussions goûté(e)s
+que vous fussiez goûté(e)s
+qu’ils (elles) fussent goûté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons goûté(e)s
+soyez goûté(e)s
+
+* INFINITIF
+
+** Présent
+
+être goûté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant goûté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été goûté(e)
+tu as été goûté(e)
+il (elle) a été goûté(e)
+nous avons été goûté(e)s
+vous avez été goûté(e)s
+ils (elles) ont été goûté(e)s
+
+** Plus-que-parfait
+
+j'avais été goûté(e)
+il (elle) avait été goûté(e)
+nous avions été goûté(e)s
+ils (elles) avaient été goûté(e)s
+
+** Passé antérieur
+
+j'eus été goûté(e)
+tu eus été goûté(e)
+il (elle) eut été goûté(e)
+nous eûmes été goûté(e)s
+vous eûtes été goûté(e)s
+ils (elles) eurent été goûté(e)s
+
+** Futur antérieur
+
+j'aurai été goûté(e)
+tu auras été goûté(e)
+il (elle) aura été goûté(e)
+nous aurons été goûté(e)s
+vous aurez été goûté(e)s
+ils (elles) auront été goûté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été goûté(e)
+j'aurais été goûté(e)
+il (elle) aurait été goûté(e)
+nous aurions été goûté(e)s
+vous auriez été goûté(e)s
+ils (elles) auraient été goûté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été goûté(e)
+que tu aies été goûté(e)
+qu’il (elle) ait été goûté(e)
+que nous ayons été goûté(e)s
+que vous ayez été goûté(e)s
+qu’ils (elles) aient été goûté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été goûté(e)
+que tu eusses été goûté(e)
+qu’il (elle) eût été goûté(e)
+que nous eussions été goûté(e)s
+que vous eussiez été goûté(e)s
+qu’ils (elles) eussent été goûté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été goûté(e)
+ayons été goûté(e)s
+ayez été goûté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été goûté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été goûté(e)(s)

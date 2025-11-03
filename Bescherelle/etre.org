@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe etre
+
+* INDICATIF
+
+** Présent
+
+je suis
+tu es
+il (elle) est
+nous sommes
+vous êtes
+ils (elles) sont
+
+** Imparfait
+
+j'étais
+tu étais
+il (elle) était
+nous étions
+vous étiez
+ils (elles) étaient
+
+** Passé simple
+
+je fus
+tu fus
+il (elle) fut
+nous fûmes
+vous fûtes
+ils (elles) furent
+
+** Futur simple
+
+je serai
+tu seras
+il (elle) sera
+nous serons
+vous serez
+ils (elles) seront
+
+* CONDITIONNEL
+
+** Présent
+
+je serais
+tu serais
+il (elle) serait
+nous serions
+vous seriez
+ils (elles) seraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois
+que tu sois
+qu’il (elle) soit
+que nous soyons
+que vous soyez
+qu’ils (elles) soient
+
+** Imparfait
+
+que je fusse
+que tu fusses
+qu’il (elle) fût
+que nous fussions
+que vous fussiez
+qu’ils (elles) fussent
+
+* IMPÉRATIF
+
+** Présent
+
+sois
+soyons
+soyez
+
+* INFINITIF
+
+** Présent
+
+être
+
+* PARTICIPE
+
+** Présent
+
+étant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été
+tu as été
+il (elle) a été
+nous avons été
+vous avez été
+ils (elles) ont été
+
+** Plus-que-parfait
+
+j'avais été
+tu avais été
+il (elle) avait été
+nous avions été
+vous aviez été
+ils (elles) avaient été
+
+** Passé antérieur
+
+j'eus été
+tu eus été
+il (elle) eut été
+nous eûmes été
+vous eûtes été
+ils (elles) eurent été
+
+** Futur antérieur
+
+j'aurai été
+tu auras été
+il (elle) aura été
+nous aurons été
+vous aurez été
+ils (elles) auront été
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été
+tu aurais été
+il (elle) aurait été
+nous aurions été
+vous auriez été
+ils (elles) auraient été
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été
+que tu aies été
+qu’il (elle) ait été
+que nous ayons été
+que vous ayez été
+qu’ils (elles) aient été
+
+** Plus-que-parfait
+
+que j'eusse été
+que tu eusses été
+qu’il (elle) eût été
+que nous eussions été
+que vous eussiez été
+qu’ils (elles) eussent été
+
+* IMPÉRATIF
+
+** Passé
+
+ayons été
+ayez été
+
+* INFINITIF
+
+** Passé
+
+avoir été
+
+* PARTICIPE
+
+** Passé
+
+ayant été
+été (invar.)

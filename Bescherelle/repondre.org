@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe repondre
+
+* INDICATIF
+
+** Présent
+
+je réponds
+tu réponds
+il (elle) répond
+nous répondons
+vous répondez
+ils (elles) répondent
+
+** Imparfait
+
+je répondais
+tu répondais
+il (elle) répondait
+nous répondions
+vous répondiez
+ils (elles) répondaient
+
+** Passé simple
+
+je répondis
+tu répondis
+il (elle) répondit
+nous répondîmes
+vous répondîtes
+ils (elles) répondirent
+
+** Futur simple
+
+je répondrai
+tu répondras
+il (elle) répondra
+nous répondrons
+vous répondrez
+ils (elles) répondront
+
+* CONDITIONNEL
+
+** Présent
+
+je répondrais
+tu répondrais
+il (elle) répondrait
+nous répondrions
+vous répondriez
+ils (elles) répondraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réponde
+que tu répondes
+qu’il (elle) réponde
+que nous répondions
+que vous répondiez
+qu’ils (elles) répondent
+
+** Imparfait
+
+que je répondisse
+que tu répondisses
+qu’il (elle) répondît
+que nous répondissions
+que vous répondissiez
+qu’ils (elles) répondissent
+
+* IMPÉRATIF
+
+** Présent
+
+réponds
+répondons
+répondez
+
+* INFINITIF
+
+** Présent
+
+répondre
+
+* PARTICIPE
+
+** Présent
+
+répondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai répondu
+tu as répondu
+il (elle) a répondu
+nous avons répondu
+vous avez répondu
+ils (elles) ont répondu
+
+** Plus-que-parfait
+
+j'avais répondu
+tu avais répondu
+il (elle) avait répondu
+nous avions répondu
+vous aviez répondu
+ils (elles) avaient répondu
+
+** Passé antérieur
+
+j'eus répondu
+tu eus répondu
+il (elle) eut répondu
+nous eûmes répondu
+vous eûtes répondu
+ils (elles) eurent répondu
+
+** Futur antérieur
+
+j'aurai répondu
+tu auras répondu
+il (elle) aura répondu
+nous aurons répondu
+vous aurez répondu
+ils (elles) auront répondu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais répondu
+tu aurais répondu
+il (elle) aurait répondu
+nous aurions répondu
+vous auriez répondu
+ils (elles) auraient répondu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie répondu
+que tu aies répondu
+qu’il (elle) ait répondu
+que nous ayons répondu
+que vous ayez répondu
+qu’ils (elles) aient répondu
+
+** Plus-que-parfait
+
+que j'eusse répondu
+que tu eusses répondu
+qu’il (elle) eût répondu
+que nous eussions répondu
+que vous eussiez répondu
+qu’ils (elles) eussent répondu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons répondu
+ayez répondu
+
+* INFINITIF
+
+** Passé
+
+avoir répondu
+
+* PARTICIPE
+
+** Passé
+
+ayant répondu
+répondu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis répondu(e)
+tu es répondu(e)
+il (elle) est répondu(e)
+nous sommes répondu(e)s
+vous êtes répondu(e)s
+ils (elles) sont répondu(e)s
+
+** Imparfait
+
+j'étais répondu(e)
+tu étais répondu(e)
+il (elle) était répondu(e)
+nous étions répondu(e)s
+vous étiez répondu(e)s
+ils (elles) étaient répondu(e)s
+
+** Passé simple
+
+je fus répondu(e)
+tu fus répondu(e)
+il (elle) fut répondu(e)
+nous fûmes répondu(e)s
+vous fûtes répondu(e)s
+ils (elles) furent répondu(e)s
+
+** Futur simple
+
+je serai répondu(e)
+tu seras répondu(e)
+il (elle) sera répondu(e)
+nous serons répondu(e)s
+vous serez répondu(e)s
+ils (elles) seront répondu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais répondu(e)
+tu serais répondu(e)
+il (elle) serait répondu(e)
+nous serions répondu(e)s
+vous seriez répondu(e)s
+ils (elles) seraient répondu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois répondu(e)
+que tu sois répondu(e)
+qu’il (elle) soit répondu(e)
+que nous soyons répondu(e)s
+que vous soyez répondu(e)s
+qu’ils (elles) soient répondu(e)s
+
+** Imparfait
+
+que je fusse répondu(e)
+que tu fusses répondu(e)
+qu’il (elle) fût répondu(e)
+que nous fussions répondu(e)s
+que vous fussiez répondu(e)s
+qu’ils (elles) fussent répondu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons répondu(e)s
+soyez répondu(e)s
+
+* INFINITIF
+
+** Présent
+
+être répondu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant répondu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été répondu(e)
+tu as été répondu(e)
+il (elle) a été répondu(e)
+nous avons été répondu(e)s
+vous avez été répondu(e)s
+ils (elles) ont été répondu(e)s
+
+** Plus-que-parfait
+
+j'avais été répondu(e)
+il (elle) avait été répondu(e)
+nous avions été répondu(e)s
+ils (elles) avaient été répondu(e)s
+
+** Passé antérieur
+
+j'eus été répondu(e)
+tu eus été répondu(e)
+il (elle) eut été répondu(e)
+nous eûmes été répondu(e)s
+vous eûtes été répondu(e)s
+ils (elles) eurent été répondu(e)s
+
+** Futur antérieur
+
+j'aurai été répondu(e)
+tu auras été répondu(e)
+il (elle) aura été répondu(e)
+nous aurons été répondu(e)s
+vous aurez été répondu(e)s
+ils (elles) auront été répondu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été répondu(e)
+j'aurais été répondu(e)
+il (elle) aurait été répondu(e)
+nous aurions été répondu(e)s
+vous auriez été répondu(e)s
+ils (elles) auraient été répondu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été répondu(e)
+que tu aies été répondu(e)
+qu’il (elle) ait été répondu(e)
+que nous ayons été répondu(e)s
+que vous ayez été répondu(e)s
+qu’ils (elles) aient été répondu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été répondu(e)
+que tu eusses été répondu(e)
+qu’il (elle) eût été répondu(e)
+que nous eussions été répondu(e)s
+que vous eussiez été répondu(e)s
+qu’ils (elles) eussent été répondu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été répondu(e)
+ayons été répondu(e)s
+ayez été répondu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été répondu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été répondu(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe pauser
+
+* INDICATIF
+
+** Présent
+
+je pause
+tu pauses
+il (elle) pause
+nous pausons
+vous pausez
+ils (elles) pausent
+
+** Imparfait
+
+je pausais
+tu pausais
+il (elle) pausait
+nous pausions
+vous pausiez
+ils (elles) pausaient
+
+** Passé simple
+
+je pausai
+tu pausas
+il (elle) pausa
+nous pausâmes
+vous pausâtes
+ils (elles) pausèrent
+
+** Futur simple
+
+je pauserai
+tu pauseras
+il (elle) pausera
+nous pauserons
+vous pauserez
+ils (elles) pauseront
+
+* CONDITIONNEL
+
+** Présent
+
+je pauserais
+tu pauserais
+il (elle) pauserait
+nous pauserions
+vous pauseriez
+ils (elles) pauseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pause
+que tu pauses
+qu’il (elle) pause
+que nous pausions
+que vous pausiez
+qu’ils (elles) pausent
+
+** Imparfait
+
+que je pausasse
+que tu pausasses
+qu’il (elle) pausât
+que nous pausassions
+que vous pausassiez
+qu’ils (elles) pausassent
+
+* IMPÉRATIF
+
+** Présent
+
+pause
+pausons
+pausez
+
+* INFINITIF
+
+** Présent
+
+pauser
+
+* PARTICIPE
+
+** Présent
+
+pausant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pausé
+tu as pausé
+il (elle) a pausé
+nous avons pausé
+vous avez pausé
+ils (elles) ont pausé
+
+** Plus-que-parfait
+
+j'avais pausé
+tu avais pausé
+il (elle) avait pausé
+nous avions pausé
+vous aviez pausé
+ils (elles) avaient pausé
+
+** Passé antérieur
+
+j'eus pausé
+tu eus pausé
+il (elle) eut pausé
+nous eûmes pausé
+vous eûtes pausé
+ils (elles) eurent pausé
+
+** Futur antérieur
+
+j'aurai pausé
+tu auras pausé
+il (elle) aura pausé
+nous aurons pausé
+vous aurez pausé
+ils (elles) auront pausé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pausé
+tu aurais pausé
+il (elle) aurait pausé
+nous aurions pausé
+vous auriez pausé
+ils (elles) auraient pausé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pausé
+que tu aies pausé
+qu’il (elle) ait pausé
+que nous ayons pausé
+que vous ayez pausé
+qu’ils (elles) aient pausé
+
+** Plus-que-parfait
+
+que j'eusse pausé
+que tu eusses pausé
+qu’il (elle) eût pausé
+que nous eussions pausé
+que vous eussiez pausé
+qu’ils (elles) eussent pausé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pausé
+ayez pausé
+
+* INFINITIF
+
+** Passé
+
+avoir pausé
+
+* PARTICIPE
+
+** Passé
+
+ayant pausé
+pausé (invar.)

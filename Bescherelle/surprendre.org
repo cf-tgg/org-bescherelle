@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe surprendre
+
+* INDICATIF
+
+** Présent
+
+je surprends
+tu surprends
+il (elle) surprend
+nous surprenons
+vous surprenez
+ils (elles) surprennent
+
+** Imparfait
+
+je surprenais
+tu surprenais
+il (elle) surprenait
+nous surprenions
+vous surpreniez
+ils (elles) surprenaient
+
+** Passé simple
+
+je surpris
+tu surpris
+il (elle) surprit
+nous surprîmes
+vous surprîtes
+ils (elles) surprirent
+
+** Futur simple
+
+je surprendrai
+tu surprendras
+il (elle) surprendra
+nous surprendrons
+vous surprendrez
+ils (elles) surprendront
+
+* CONDITIONNEL
+
+** Présent
+
+je surprendrais
+tu surprendrais
+il (elle) surprendrait
+nous surprendrions
+vous surprendriez
+ils (elles) surprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je surprenne
+que tu surprennes
+qu’il (elle) surprenne
+que nous surprenions
+que vous surpreniez
+qu’ils (elles) surprennent
+
+** Imparfait
+
+que je surprisse
+que tu surprisses
+qu’il (elle) surprît
+que nous surprissions
+que vous surprissiez
+qu’ils (elles) surprissent
+
+* IMPÉRATIF
+
+** Présent
+
+surprends
+surprenons
+surprenez
+
+* INFINITIF
+
+** Présent
+
+surprendre
+
+* PARTICIPE
+
+** Présent
+
+surprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai surpris
+tu as surpris
+il (elle) a surpris
+nous avons surpris
+vous avez surpris
+ils (elles) ont surpris
+
+** Plus-que-parfait
+
+j'avais surpris
+tu avais surpris
+il (elle) avait surpris
+nous avions surpris
+vous aviez surpris
+ils (elles) avaient surpris
+
+** Passé antérieur
+
+j'eus surpris
+tu eus surpris
+il (elle) eut surpris
+nous eûmes surpris
+vous eûtes surpris
+ils (elles) eurent surpris
+
+** Futur antérieur
+
+j'aurai surpris
+tu auras surpris
+il (elle) aura surpris
+nous aurons surpris
+vous aurez surpris
+ils (elles) auront surpris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais surpris
+tu aurais surpris
+il (elle) aurait surpris
+nous aurions surpris
+vous auriez surpris
+ils (elles) auraient surpris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie surpris
+que tu aies surpris
+qu’il (elle) ait surpris
+que nous ayons surpris
+que vous ayez surpris
+qu’ils (elles) aient surpris
+
+** Plus-que-parfait
+
+que j'eusse surpris
+que tu eusses surpris
+qu’il (elle) eût surpris
+que nous eussions surpris
+que vous eussiez surpris
+qu’ils (elles) eussent surpris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons surpris
+ayez surpris
+
+* INFINITIF
+
+** Passé
+
+avoir surpris
+
+* PARTICIPE
+
+** Passé
+
+ayant surpris
+surpris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis surpris(e)
+tu es surpris(e)
+il (elle) est surpris(e)
+nous sommes surpris(es)
+vous êtes surpris(es)
+ils (elles) sont surpris(es)
+
+** Imparfait
+
+j'étais surpris(e)
+tu étais surpris(e)
+il (elle) était surpris(e)
+nous étions surpris(es)
+vous étiez surpris(es)
+ils (elles) étaient surpris(es)
+
+** Passé simple
+
+je fus surpris(e)
+tu fus surpris(e)
+il (elle) fut surpris(e)
+nous fûmes surpris(es)
+vous fûtes surpris(es)
+ils (elles) furent surpris(es)
+
+** Futur simple
+
+je serai surpris(e)
+tu seras surpris(e)
+il (elle) sera surpris(e)
+nous serons surpris(es)
+vous serez surpris(es)
+ils (elles) seront surpris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais surpris(e)
+tu serais surpris(e)
+il (elle) serait surpris(e)
+nous serions surpris(es)
+vous seriez surpris(es)
+ils (elles) seraient surpris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois surpris(e)
+que tu sois surpris(e)
+qu’il (elle) soit surpris(e)
+que nous soyons surpris(es)
+que vous soyez surpris(es)
+qu’ils (elles) soient surpris(es)
+
+** Imparfait
+
+que je fusse surpris(e)
+que tu fusses surpris(e)
+qu’il (elle) fût surpris(e)
+que nous fussions surpris(es)
+que vous fussiez surpris(es)
+qu’ils (elles) fussent surpris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons surpris(es)
+soyez surpris(es)
+
+* INFINITIF
+
+** Présent
+
+être surpris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant surpris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été surpris(e)
+tu as été surpris(e)
+il (elle) a été surpris(e)
+nous avons été surpris(es)
+vous avez été surpris(es)
+ils (elles) ont été surpris(es)
+
+** Plus-que-parfait
+
+j'avais été surpris(e)
+il (elle) avait été surpris(e)
+nous avions été surpris(es)
+ils (elles) avaient été surpris(es)
+
+** Passé antérieur
+
+j'eus été surpris(e)
+tu eus été surpris(e)
+il (elle) eut été surpris(e)
+nous eûmes été surpris(es)
+vous eûtes été surpris(es)
+ils (elles) eurent été surpris(es)
+
+** Futur antérieur
+
+j'aurai été surpris(e)
+tu auras été surpris(e)
+il (elle) aura été surpris(e)
+nous aurons été surpris(es)
+vous aurez été surpris(es)
+ils (elles) auront été surpris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été surpris(e)
+j'aurais été surpris(e)
+il (elle) aurait été surpris(e)
+nous aurions été surpris(es)
+vous auriez été surpris(es)
+ils (elles) auraient été surpris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été surpris(e)
+que tu aies été surpris(e)
+qu’il (elle) ait été surpris(e)
+que nous ayons été surpris(es)
+que vous ayez été surpris(es)
+qu’ils (elles) aient été surpris(es)
+
+** Plus-que-parfait
+
+que j'eusse été surpris(e)
+que tu eusses été surpris(e)
+qu’il (elle) eût été surpris(e)
+que nous eussions été surpris(es)
+que vous eussiez été surpris(es)
+qu’ils (elles) eussent été surpris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été surpris(e)
+ayons été surpris(es)
+ayez été surpris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été surpris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été surpris (s, se, s, ses)

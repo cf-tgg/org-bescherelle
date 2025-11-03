@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confondre
+
+* INDICATIF
+
+** Présent
+
+je confonds
+tu confonds
+il (elle) confond
+nous confondons
+vous confondez
+ils (elles) confondent
+
+** Imparfait
+
+je confondais
+tu confondais
+il (elle) confondait
+nous confondions
+vous confondiez
+ils (elles) confondaient
+
+** Passé simple
+
+je confondis
+tu confondis
+il (elle) confondit
+nous confondîmes
+vous confondîtes
+ils (elles) confondirent
+
+** Futur simple
+
+je confondrai
+tu confondras
+il (elle) confondra
+nous confondrons
+vous confondrez
+ils (elles) confondront
+
+* CONDITIONNEL
+
+** Présent
+
+je confondrais
+tu confondrais
+il (elle) confondrait
+nous confondrions
+vous confondriez
+ils (elles) confondraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confonde
+que tu confondes
+qu’il (elle) confonde
+que nous confondions
+que vous confondiez
+qu’ils (elles) confondent
+
+** Imparfait
+
+que je confondisse
+que tu confondisses
+qu’il (elle) confondît
+que nous confondissions
+que vous confondissiez
+qu’ils (elles) confondissent
+
+* IMPÉRATIF
+
+** Présent
+
+confonds
+confondons
+confondez
+
+* INFINITIF
+
+** Présent
+
+confondre
+
+* PARTICIPE
+
+** Présent
+
+confondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confondu
+tu as confondu
+il (elle) a confondu
+nous avons confondu
+vous avez confondu
+ils (elles) ont confondu
+
+** Plus-que-parfait
+
+j'avais confondu
+tu avais confondu
+il (elle) avait confondu
+nous avions confondu
+vous aviez confondu
+ils (elles) avaient confondu
+
+** Passé antérieur
+
+j'eus confondu
+tu eus confondu
+il (elle) eut confondu
+nous eûmes confondu
+vous eûtes confondu
+ils (elles) eurent confondu
+
+** Futur antérieur
+
+j'aurai confondu
+tu auras confondu
+il (elle) aura confondu
+nous aurons confondu
+vous aurez confondu
+ils (elles) auront confondu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confondu
+tu aurais confondu
+il (elle) aurait confondu
+nous aurions confondu
+vous auriez confondu
+ils (elles) auraient confondu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confondu
+que tu aies confondu
+qu’il (elle) ait confondu
+que nous ayons confondu
+que vous ayez confondu
+qu’ils (elles) aient confondu
+
+** Plus-que-parfait
+
+que j'eusse confondu
+que tu eusses confondu
+qu’il (elle) eût confondu
+que nous eussions confondu
+que vous eussiez confondu
+qu’ils (elles) eussent confondu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confondu
+ayez confondu
+
+* INFINITIF
+
+** Passé
+
+avoir confondu
+
+* PARTICIPE
+
+** Passé
+
+ayant confondu
+confondu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis confondu(e)
+tu es confondu(e)
+il (elle) est confondu(e)
+nous sommes confondu(e)s
+vous êtes confondu(e)s
+ils (elles) sont confondu(e)s
+
+** Imparfait
+
+j'étais confondu(e)
+tu étais confondu(e)
+il (elle) était confondu(e)
+nous étions confondu(e)s
+vous étiez confondu(e)s
+ils (elles) étaient confondu(e)s
+
+** Passé simple
+
+je fus confondu(e)
+tu fus confondu(e)
+il (elle) fut confondu(e)
+nous fûmes confondu(e)s
+vous fûtes confondu(e)s
+ils (elles) furent confondu(e)s
+
+** Futur simple
+
+je serai confondu(e)
+tu seras confondu(e)
+il (elle) sera confondu(e)
+nous serons confondu(e)s
+vous serez confondu(e)s
+ils (elles) seront confondu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confondu(e)
+tu serais confondu(e)
+il (elle) serait confondu(e)
+nous serions confondu(e)s
+vous seriez confondu(e)s
+ils (elles) seraient confondu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confondu(e)
+que tu sois confondu(e)
+qu’il (elle) soit confondu(e)
+que nous soyons confondu(e)s
+que vous soyez confondu(e)s
+qu’ils (elles) soient confondu(e)s
+
+** Imparfait
+
+que je fusse confondu(e)
+que tu fusses confondu(e)
+qu’il (elle) fût confondu(e)
+que nous fussions confondu(e)s
+que vous fussiez confondu(e)s
+qu’ils (elles) fussent confondu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confondu(e)s
+soyez confondu(e)s
+
+* INFINITIF
+
+** Présent
+
+être confondu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confondu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confondu(e)
+tu as été confondu(e)
+il (elle) a été confondu(e)
+nous avons été confondu(e)s
+vous avez été confondu(e)s
+ils (elles) ont été confondu(e)s
+
+** Plus-que-parfait
+
+j'avais été confondu(e)
+il (elle) avait été confondu(e)
+nous avions été confondu(e)s
+ils (elles) avaient été confondu(e)s
+
+** Passé antérieur
+
+j'eus été confondu(e)
+tu eus été confondu(e)
+il (elle) eut été confondu(e)
+nous eûmes été confondu(e)s
+vous eûtes été confondu(e)s
+ils (elles) eurent été confondu(e)s
+
+** Futur antérieur
+
+j'aurai été confondu(e)
+tu auras été confondu(e)
+il (elle) aura été confondu(e)
+nous aurons été confondu(e)s
+vous aurez été confondu(e)s
+ils (elles) auront été confondu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confondu(e)
+j'aurais été confondu(e)
+il (elle) aurait été confondu(e)
+nous aurions été confondu(e)s
+vous auriez été confondu(e)s
+ils (elles) auraient été confondu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confondu(e)
+que tu aies été confondu(e)
+qu’il (elle) ait été confondu(e)
+que nous ayons été confondu(e)s
+que vous ayez été confondu(e)s
+qu’ils (elles) aient été confondu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confondu(e)
+que tu eusses été confondu(e)
+qu’il (elle) eût été confondu(e)
+que nous eussions été confondu(e)s
+que vous eussiez été confondu(e)s
+qu’ils (elles) eussent été confondu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confondu(e)
+ayons été confondu(e)s
+ayez été confondu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confondu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confondu(e)(s)

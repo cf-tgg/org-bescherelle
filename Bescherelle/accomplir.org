@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accomplir
+
+* INDICATIF
+
+** Présent
+
+j'accomplis
+tu accomplis
+il (elle) accomplit
+nous accomplissons
+vous accomplissez
+ils (elles) accomplissent
+
+** Imparfait
+
+j'accomplissais
+tu accomplissais
+il (elle) accomplissait
+nous accomplissions
+vous accomplissiez
+ils (elles) accomplissaient
+
+** Passé simple
+
+j'accomplis
+tu accomplis
+il (elle) accomplit
+nous accomplîmes
+vous accomplîtes
+ils (elles) accomplirent
+
+** Futur simple
+
+j'accomplirai
+tu accompliras
+il (elle) accomplira
+nous accomplirons
+vous accomplirez
+ils (elles) accompliront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accomplirais
+tu accomplirais
+il (elle) accomplirait
+nous accomplirions
+vous accompliriez
+ils (elles) accompliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accomplisse
+que tu accomplisses
+qu’il (elle) accomplisse
+que nous accomplissions
+que vous accomplissiez
+qu’ils (elles) accomplissent
+
+** Imparfait
+
+que j'accomplisse
+que tu accomplisses
+qu’il (elle) accomplît
+que nous accomplissions
+que vous accomplissiez
+qu’ils (elles) accomplissent
+
+* IMPÉRATIF
+
+** Présent
+
+accomplis
+accomplissons
+accomplissez
+
+* INFINITIF
+
+** Présent
+
+accomplir
+
+* PARTICIPE
+
+** Présent
+
+accomplissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accompli
+tu as accompli
+il (elle) a accompli
+nous avons accompli
+vous avez accompli
+ils (elles) ont accompli
+
+** Plus-que-parfait
+
+j'avais accompli
+tu avais accompli
+il (elle) avait accompli
+nous avions accompli
+vous aviez accompli
+ils (elles) avaient accompli
+
+** Passé antérieur
+
+j'eus accompli
+tu eus accompli
+il (elle) eut accompli
+nous eûmes accompli
+vous eûtes accompli
+ils (elles) eurent accompli
+
+** Futur antérieur
+
+j'aurai accompli
+tu auras accompli
+il (elle) aura accompli
+nous aurons accompli
+vous aurez accompli
+ils (elles) auront accompli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accompli
+tu aurais accompli
+il (elle) aurait accompli
+nous aurions accompli
+vous auriez accompli
+ils (elles) auraient accompli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accompli
+que tu aies accompli
+qu’il (elle) ait accompli
+que nous ayons accompli
+que vous ayez accompli
+qu’ils (elles) aient accompli
+
+** Plus-que-parfait
+
+que j'eusse accompli
+que tu eusses accompli
+qu’il (elle) eût accompli
+que nous eussions accompli
+que vous eussiez accompli
+qu’ils (elles) eussent accompli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accompli
+ayez accompli
+
+* INFINITIF
+
+** Passé
+
+avoir accompli
+
+* PARTICIPE
+
+** Passé
+
+ayant accompli
+accompli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis accompli(e)
+tu es accompli(e)
+il (elle) est accompli(e)
+nous sommes accompli(e)s
+vous êtes accompli(e)s
+ils (elles) sont accompli(e)s
+
+** Imparfait
+
+j'étais accompli(e)
+tu étais accompli(e)
+il (elle) était accompli(e)
+nous étions accompli(e)s
+vous étiez accompli(e)s
+ils (elles) étaient accompli(e)s
+
+** Passé simple
+
+je fus accompli(e)
+tu fus accompli(e)
+il (elle) fut accompli(e)
+nous fûmes accompli(e)s
+vous fûtes accompli(e)s
+ils (elles) furent accompli(e)s
+
+** Futur simple
+
+je serai accompli(e)
+tu seras accompli(e)
+il (elle) sera accompli(e)
+nous serons accompli(e)s
+vous serez accompli(e)s
+ils (elles) seront accompli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accompli(e)
+tu serais accompli(e)
+il (elle) serait accompli(e)
+nous serions accompli(e)s
+vous seriez accompli(e)s
+ils (elles) seraient accompli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accompli(e)
+que tu sois accompli(e)
+qu’il (elle) soit accompli(e)
+que nous soyons accompli(e)s
+que vous soyez accompli(e)s
+qu’ils (elles) soient accompli(e)s
+
+** Imparfait
+
+que je fusse accompli(e)
+que tu fusses accompli(e)
+qu’il (elle) fût accompli(e)
+que nous fussions accompli(e)s
+que vous fussiez accompli(e)s
+qu’ils (elles) fussent accompli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accompli(e)s
+soyez accompli(e)s
+
+* INFINITIF
+
+** Présent
+
+être accompli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accompli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accompli(e)
+tu as été accompli(e)
+il (elle) a été accompli(e)
+nous avons été accompli(e)s
+vous avez été accompli(e)s
+ils (elles) ont été accompli(e)s
+
+** Plus-que-parfait
+
+j'avais été accompli(e)
+il (elle) avait été accompli(e)
+nous avions été accompli(e)s
+ils (elles) avaient été accompli(e)s
+
+** Passé antérieur
+
+j'eus été accompli(e)
+tu eus été accompli(e)
+il (elle) eut été accompli(e)
+nous eûmes été accompli(e)s
+vous eûtes été accompli(e)s
+ils (elles) eurent été accompli(e)s
+
+** Futur antérieur
+
+j'aurai été accompli(e)
+tu auras été accompli(e)
+il (elle) aura été accompli(e)
+nous aurons été accompli(e)s
+vous aurez été accompli(e)s
+ils (elles) auront été accompli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accompli(e)
+j'aurais été accompli(e)
+il (elle) aurait été accompli(e)
+nous aurions été accompli(e)s
+vous auriez été accompli(e)s
+ils (elles) auraient été accompli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accompli(e)
+que tu aies été accompli(e)
+qu’il (elle) ait été accompli(e)
+que nous ayons été accompli(e)s
+que vous ayez été accompli(e)s
+qu’ils (elles) aient été accompli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accompli(e)
+que tu eusses été accompli(e)
+qu’il (elle) eût été accompli(e)
+que nous eussions été accompli(e)s
+que vous eussiez été accompli(e)s
+qu’ils (elles) eussent été accompli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accompli(e)
+ayons été accompli(e)s
+ayez été accompli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accompli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accompli(e)(s)

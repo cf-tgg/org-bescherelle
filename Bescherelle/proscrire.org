@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe proscrire
+
+* INDICATIF
+
+** Présent
+
+je proscris
+tu proscris
+il (elle) proscrit
+nous proscrivons
+vous proscrivez
+ils (elles) proscrivent
+
+** Imparfait
+
+je proscrivais
+tu proscrivais
+il (elle) proscrivait
+nous proscrivions
+vous proscriviez
+ils (elles) proscrivaient
+
+** Passé simple
+
+je proscrivis
+tu proscrivis
+il (elle) proscrivit
+nous proscrivîmes
+vous proscrivîtes
+ils (elles) proscrivirent
+
+** Futur simple
+
+je proscrirai
+tu proscriras
+il (elle) proscrira
+nous proscrirons
+vous proscrirez
+ils (elles) proscriront
+
+* CONDITIONNEL
+
+** Présent
+
+je proscrirais
+tu proscrirais
+il (elle) proscrirait
+nous proscririons
+vous proscririez
+ils (elles) proscriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je proscrive
+que tu proscrives
+qu’il (elle) proscrive
+que nous proscrivions
+que vous proscriviez
+qu’ils (elles) proscrivent
+
+** Imparfait
+
+que je proscrivisse
+que tu proscrivisses
+qu’il (elle) proscrivît
+que nous proscrivissions
+que vous proscrivissiez
+qu’ils (elles) proscrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+proscris
+proscrivons
+proscrivez
+
+* INFINITIF
+
+** Présent
+
+proscrire
+
+* PARTICIPE
+
+** Présent
+
+proscrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai proscrit
+tu as proscrit
+il (elle) a proscrit
+nous avons proscrit
+vous avez proscrit
+ils (elles) ont proscrit
+
+** Plus-que-parfait
+
+j'avais proscrit
+tu avais proscrit
+il (elle) avait proscrit
+nous avions proscrit
+vous aviez proscrit
+ils (elles) avaient proscrit
+
+** Passé antérieur
+
+j'eus proscrit
+tu eus proscrit
+il (elle) eut proscrit
+nous eûmes proscrit
+vous eûtes proscrit
+ils (elles) eurent proscrit
+
+** Futur antérieur
+
+j'aurai proscrit
+tu auras proscrit
+il (elle) aura proscrit
+nous aurons proscrit
+vous aurez proscrit
+ils (elles) auront proscrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais proscrit
+tu aurais proscrit
+il (elle) aurait proscrit
+nous aurions proscrit
+vous auriez proscrit
+ils (elles) auraient proscrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie proscrit
+que tu aies proscrit
+qu’il (elle) ait proscrit
+que nous ayons proscrit
+que vous ayez proscrit
+qu’ils (elles) aient proscrit
+
+** Plus-que-parfait
+
+que j'eusse proscrit
+que tu eusses proscrit
+qu’il (elle) eût proscrit
+que nous eussions proscrit
+que vous eussiez proscrit
+qu’ils (elles) eussent proscrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons proscrit
+ayez proscrit
+
+* INFINITIF
+
+** Passé
+
+avoir proscrit
+
+* PARTICIPE
+
+** Passé
+
+ayant proscrit
+proscrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis proscrit(e)
+tu es proscrit(e)
+il (elle) est proscrit(e)
+nous sommes proscrit(e)s
+vous êtes proscrit(e)s
+ils (elles) sont proscrit(e)s
+
+** Imparfait
+
+j'étais proscrit(e)
+tu étais proscrit(e)
+il (elle) était proscrit(e)
+nous étions proscrit(e)s
+vous étiez proscrit(e)s
+ils (elles) étaient proscrit(e)s
+
+** Passé simple
+
+je fus proscrit(e)
+tu fus proscrit(e)
+il (elle) fut proscrit(e)
+nous fûmes proscrit(e)s
+vous fûtes proscrit(e)s
+ils (elles) furent proscrit(e)s
+
+** Futur simple
+
+je serai proscrit(e)
+tu seras proscrit(e)
+il (elle) sera proscrit(e)
+nous serons proscrit(e)s
+vous serez proscrit(e)s
+ils (elles) seront proscrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais proscrit(e)
+tu serais proscrit(e)
+il (elle) serait proscrit(e)
+nous serions proscrit(e)s
+vous seriez proscrit(e)s
+ils (elles) seraient proscrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois proscrit(e)
+que tu sois proscrit(e)
+qu’il (elle) soit proscrit(e)
+que nous soyons proscrit(e)s
+que vous soyez proscrit(e)s
+qu’ils (elles) soient proscrit(e)s
+
+** Imparfait
+
+que je fusse proscrit(e)
+que tu fusses proscrit(e)
+qu’il (elle) fût proscrit(e)
+que nous fussions proscrit(e)s
+que vous fussiez proscrit(e)s
+qu’ils (elles) fussent proscrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons proscrit(e)s
+soyez proscrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être proscrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant proscrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été proscrit(e)
+tu as été proscrit(e)
+il (elle) a été proscrit(e)
+nous avons été proscrit(e)s
+vous avez été proscrit(e)s
+ils (elles) ont été proscrit(e)s
+
+** Plus-que-parfait
+
+j'avais été proscrit(e)
+il (elle) avait été proscrit(e)
+nous avions été proscrit(e)s
+ils (elles) avaient été proscrit(e)s
+
+** Passé antérieur
+
+j'eus été proscrit(e)
+tu eus été proscrit(e)
+il (elle) eut été proscrit(e)
+nous eûmes été proscrit(e)s
+vous eûtes été proscrit(e)s
+ils (elles) eurent été proscrit(e)s
+
+** Futur antérieur
+
+j'aurai été proscrit(e)
+tu auras été proscrit(e)
+il (elle) aura été proscrit(e)
+nous aurons été proscrit(e)s
+vous aurez été proscrit(e)s
+ils (elles) auront été proscrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été proscrit(e)
+j'aurais été proscrit(e)
+il (elle) aurait été proscrit(e)
+nous aurions été proscrit(e)s
+vous auriez été proscrit(e)s
+ils (elles) auraient été proscrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été proscrit(e)
+que tu aies été proscrit(e)
+qu’il (elle) ait été proscrit(e)
+que nous ayons été proscrit(e)s
+que vous ayez été proscrit(e)s
+qu’ils (elles) aient été proscrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été proscrit(e)
+que tu eusses été proscrit(e)
+qu’il (elle) eût été proscrit(e)
+que nous eussions été proscrit(e)s
+que vous eussiez été proscrit(e)s
+qu’ils (elles) eussent été proscrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été proscrit(e)
+ayons été proscrit(e)s
+ayez été proscrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été proscrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été proscrit(e)(s)

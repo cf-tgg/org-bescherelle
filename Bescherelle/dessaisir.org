@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dessaisir
+
+* INDICATIF
+
+** Présent
+
+je dessaisis
+tu dessaisis
+il (elle) dessaisit
+nous dessaisissons
+vous dessaisissez
+ils (elles) dessaisissent
+
+** Imparfait
+
+je dessaisissais
+tu dessaisissais
+il (elle) dessaisissait
+nous dessaisissions
+vous dessaisissiez
+ils (elles) dessaisissaient
+
+** Passé simple
+
+je dessaisis
+tu dessaisis
+il (elle) dessaisit
+nous dessaisîmes
+vous dessaisîtes
+ils (elles) dessaisirent
+
+** Futur simple
+
+je dessaisirai
+tu dessaisiras
+il (elle) dessaisira
+nous dessaisirons
+vous dessaisirez
+ils (elles) dessaisiront
+
+* CONDITIONNEL
+
+** Présent
+
+je dessaisirais
+tu dessaisirais
+il (elle) dessaisirait
+nous dessaisirions
+vous dessaisiriez
+ils (elles) dessaisiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dessaisisse
+que tu dessaisisses
+qu’il (elle) dessaisisse
+que nous dessaisissions
+que vous dessaisissiez
+qu’ils (elles) dessaisissent
+
+** Imparfait
+
+que je dessaisisse
+que tu dessaisisses
+qu’il (elle) dessaisît
+que nous dessaisissions
+que vous dessaisissiez
+qu’ils (elles) dessaisissent
+
+* IMPÉRATIF
+
+** Présent
+
+dessaisis
+dessaisissons
+dessaisissez
+
+* INFINITIF
+
+** Présent
+
+dessaisir
+
+* PARTICIPE
+
+** Présent
+
+dessaisissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dessaisi
+tu as dessaisi
+il (elle) a dessaisi
+nous avons dessaisi
+vous avez dessaisi
+ils (elles) ont dessaisi
+
+** Plus-que-parfait
+
+j'avais dessaisi
+tu avais dessaisi
+il (elle) avait dessaisi
+nous avions dessaisi
+vous aviez dessaisi
+ils (elles) avaient dessaisi
+
+** Passé antérieur
+
+j'eus dessaisi
+tu eus dessaisi
+il (elle) eut dessaisi
+nous eûmes dessaisi
+vous eûtes dessaisi
+ils (elles) eurent dessaisi
+
+** Futur antérieur
+
+j'aurai dessaisi
+tu auras dessaisi
+il (elle) aura dessaisi
+nous aurons dessaisi
+vous aurez dessaisi
+ils (elles) auront dessaisi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dessaisi
+tu aurais dessaisi
+il (elle) aurait dessaisi
+nous aurions dessaisi
+vous auriez dessaisi
+ils (elles) auraient dessaisi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dessaisi
+que tu aies dessaisi
+qu’il (elle) ait dessaisi
+que nous ayons dessaisi
+que vous ayez dessaisi
+qu’ils (elles) aient dessaisi
+
+** Plus-que-parfait
+
+que j'eusse dessaisi
+que tu eusses dessaisi
+qu’il (elle) eût dessaisi
+que nous eussions dessaisi
+que vous eussiez dessaisi
+qu’ils (elles) eussent dessaisi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dessaisi
+ayez dessaisi
+
+* INFINITIF
+
+** Passé
+
+avoir dessaisi
+
+* PARTICIPE
+
+** Passé
+
+ayant dessaisi
+dessaisi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis dessaisi(e)
+tu es dessaisi(e)
+il (elle) est dessaisi(e)
+nous sommes dessaisi(e)s
+vous êtes dessaisi(e)s
+ils (elles) sont dessaisi(e)s
+
+** Imparfait
+
+j'étais dessaisi(e)
+tu étais dessaisi(e)
+il (elle) était dessaisi(e)
+nous étions dessaisi(e)s
+vous étiez dessaisi(e)s
+ils (elles) étaient dessaisi(e)s
+
+** Passé simple
+
+je fus dessaisi(e)
+tu fus dessaisi(e)
+il (elle) fut dessaisi(e)
+nous fûmes dessaisi(e)s
+vous fûtes dessaisi(e)s
+ils (elles) furent dessaisi(e)s
+
+** Futur simple
+
+je serai dessaisi(e)
+tu seras dessaisi(e)
+il (elle) sera dessaisi(e)
+nous serons dessaisi(e)s
+vous serez dessaisi(e)s
+ils (elles) seront dessaisi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dessaisi(e)
+tu serais dessaisi(e)
+il (elle) serait dessaisi(e)
+nous serions dessaisi(e)s
+vous seriez dessaisi(e)s
+ils (elles) seraient dessaisi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dessaisi(e)
+que tu sois dessaisi(e)
+qu’il (elle) soit dessaisi(e)
+que nous soyons dessaisi(e)s
+que vous soyez dessaisi(e)s
+qu’ils (elles) soient dessaisi(e)s
+
+** Imparfait
+
+que je fusse dessaisi(e)
+que tu fusses dessaisi(e)
+qu’il (elle) fût dessaisi(e)
+que nous fussions dessaisi(e)s
+que vous fussiez dessaisi(e)s
+qu’ils (elles) fussent dessaisi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dessaisi(e)s
+soyez dessaisi(e)s
+
+* INFINITIF
+
+** Présent
+
+être dessaisi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dessaisi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dessaisi(e)
+tu as été dessaisi(e)
+il (elle) a été dessaisi(e)
+nous avons été dessaisi(e)s
+vous avez été dessaisi(e)s
+ils (elles) ont été dessaisi(e)s
+
+** Plus-que-parfait
+
+j'avais été dessaisi(e)
+il (elle) avait été dessaisi(e)
+nous avions été dessaisi(e)s
+ils (elles) avaient été dessaisi(e)s
+
+** Passé antérieur
+
+j'eus été dessaisi(e)
+tu eus été dessaisi(e)
+il (elle) eut été dessaisi(e)
+nous eûmes été dessaisi(e)s
+vous eûtes été dessaisi(e)s
+ils (elles) eurent été dessaisi(e)s
+
+** Futur antérieur
+
+j'aurai été dessaisi(e)
+tu auras été dessaisi(e)
+il (elle) aura été dessaisi(e)
+nous aurons été dessaisi(e)s
+vous aurez été dessaisi(e)s
+ils (elles) auront été dessaisi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dessaisi(e)
+j'aurais été dessaisi(e)
+il (elle) aurait été dessaisi(e)
+nous aurions été dessaisi(e)s
+vous auriez été dessaisi(e)s
+ils (elles) auraient été dessaisi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dessaisi(e)
+que tu aies été dessaisi(e)
+qu’il (elle) ait été dessaisi(e)
+que nous ayons été dessaisi(e)s
+que vous ayez été dessaisi(e)s
+qu’ils (elles) aient été dessaisi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dessaisi(e)
+que tu eusses été dessaisi(e)
+qu’il (elle) eût été dessaisi(e)
+que nous eussions été dessaisi(e)s
+que vous eussiez été dessaisi(e)s
+qu’ils (elles) eussent été dessaisi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dessaisi(e)
+ayons été dessaisi(e)s
+ayez été dessaisi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dessaisi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dessaisi(e)(s)

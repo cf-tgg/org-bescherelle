@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe abuser
+
+* INDICATIF
+
+** Présent
+
+j'abuse
+tu abuses
+il (elle) abuse
+nous abusons
+vous abusez
+ils (elles) abusent
+
+** Imparfait
+
+j'abusais
+tu abusais
+il (elle) abusait
+nous abusions
+vous abusiez
+ils (elles) abusaient
+
+** Passé simple
+
+j'abusai
+tu abusas
+il (elle) abusa
+nous abusâmes
+vous abusâtes
+ils (elles) abusèrent
+
+** Futur simple
+
+j'abuserai
+tu abuseras
+il (elle) abusera
+nous abuserons
+vous abuserez
+ils (elles) abuseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'abuserais
+tu abuserais
+il (elle) abuserait
+nous abuserions
+vous abuseriez
+ils (elles) abuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'abuse
+que tu abuses
+qu’il (elle) abuse
+que nous abusions
+que vous abusiez
+qu’ils (elles) abusent
+
+** Imparfait
+
+que j'abusasse
+que tu abusasses
+qu’il (elle) abusât
+que nous abusassions
+que vous abusassiez
+qu’ils (elles) abusassent
+
+* IMPÉRATIF
+
+** Présent
+
+abuse
+abusons
+abusez
+
+* INFINITIF
+
+** Présent
+
+abuser
+
+* PARTICIPE
+
+** Présent
+
+abusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai abusé
+tu as abusé
+il (elle) a abusé
+nous avons abusé
+vous avez abusé
+ils (elles) ont abusé
+
+** Plus-que-parfait
+
+j'avais abusé
+tu avais abusé
+il (elle) avait abusé
+nous avions abusé
+vous aviez abusé
+ils (elles) avaient abusé
+
+** Passé antérieur
+
+j'eus abusé
+tu eus abusé
+il (elle) eut abusé
+nous eûmes abusé
+vous eûtes abusé
+ils (elles) eurent abusé
+
+** Futur antérieur
+
+j'aurai abusé
+tu auras abusé
+il (elle) aura abusé
+nous aurons abusé
+vous aurez abusé
+ils (elles) auront abusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais abusé
+tu aurais abusé
+il (elle) aurait abusé
+nous aurions abusé
+vous auriez abusé
+ils (elles) auraient abusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie abusé
+que tu aies abusé
+qu’il (elle) ait abusé
+que nous ayons abusé
+que vous ayez abusé
+qu’ils (elles) aient abusé
+
+** Plus-que-parfait
+
+que j'eusse abusé
+que tu eusses abusé
+qu’il (elle) eût abusé
+que nous eussions abusé
+que vous eussiez abusé
+qu’ils (elles) eussent abusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons abusé
+ayez abusé
+
+* INFINITIF
+
+** Passé
+
+avoir abusé
+
+* PARTICIPE
+
+** Passé
+
+ayant abusé
+abusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis abusé(e)
+tu es abusé(e)
+il (elle) est abusé(e)
+nous sommes abusé(e)s
+vous êtes abusé(e)s
+ils (elles) sont abusé(e)s
+
+** Imparfait
+
+j'étais abusé(e)
+tu étais abusé(e)
+il (elle) était abusé(e)
+nous étions abusé(e)s
+vous étiez abusé(e)s
+ils (elles) étaient abusé(e)s
+
+** Passé simple
+
+je fus abusé(e)
+tu fus abusé(e)
+il (elle) fut abusé(e)
+nous fûmes abusé(e)s
+vous fûtes abusé(e)s
+ils (elles) furent abusé(e)s
+
+** Futur simple
+
+je serai abusé(e)
+tu seras abusé(e)
+il (elle) sera abusé(e)
+nous serons abusé(e)s
+vous serez abusé(e)s
+ils (elles) seront abusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais abusé(e)
+tu serais abusé(e)
+il (elle) serait abusé(e)
+nous serions abusé(e)s
+vous seriez abusé(e)s
+ils (elles) seraient abusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois abusé(e)
+que tu sois abusé(e)
+qu’il (elle) soit abusé(e)
+que nous soyons abusé(e)s
+que vous soyez abusé(e)s
+qu’ils (elles) soient abusé(e)s
+
+** Imparfait
+
+que je fusse abusé(e)
+que tu fusses abusé(e)
+qu’il (elle) fût abusé(e)
+que nous fussions abusé(e)s
+que vous fussiez abusé(e)s
+qu’ils (elles) fussent abusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons abusé(e)s
+soyez abusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être abusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant abusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été abusé(e)
+tu as été abusé(e)
+il (elle) a été abusé(e)
+nous avons été abusé(e)s
+vous avez été abusé(e)s
+ils (elles) ont été abusé(e)s
+
+** Plus-que-parfait
+
+j'avais été abusé(e)
+il (elle) avait été abusé(e)
+nous avions été abusé(e)s
+ils (elles) avaient été abusé(e)s
+
+** Passé antérieur
+
+j'eus été abusé(e)
+tu eus été abusé(e)
+il (elle) eut été abusé(e)
+nous eûmes été abusé(e)s
+vous eûtes été abusé(e)s
+ils (elles) eurent été abusé(e)s
+
+** Futur antérieur
+
+j'aurai été abusé(e)
+tu auras été abusé(e)
+il (elle) aura été abusé(e)
+nous aurons été abusé(e)s
+vous aurez été abusé(e)s
+ils (elles) auront été abusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été abusé(e)
+j'aurais été abusé(e)
+il (elle) aurait été abusé(e)
+nous aurions été abusé(e)s
+vous auriez été abusé(e)s
+ils (elles) auraient été abusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été abusé(e)
+que tu aies été abusé(e)
+qu’il (elle) ait été abusé(e)
+que nous ayons été abusé(e)s
+que vous ayez été abusé(e)s
+qu’ils (elles) aient été abusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été abusé(e)
+que tu eusses été abusé(e)
+qu’il (elle) eût été abusé(e)
+que nous eussions été abusé(e)s
+que vous eussiez été abusé(e)s
+qu’ils (elles) eussent été abusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été abusé(e)
+ayons été abusé(e)s
+ayez été abusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été abusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été abusé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe marier
+
+* INDICATIF
+
+** Présent
+
+je marie
+tu maries
+il (elle) marie
+nous marions
+vous mariez
+ils (elles) marient
+
+** Imparfait
+
+je mariais
+tu mariais
+il (elle) mariait
+nous mariions
+vous mariiez
+ils (elles) mariaient
+
+** Passé simple
+
+je mariai
+tu marias
+il (elle) maria
+nous mariâmes
+vous mariâtes
+ils (elles) marièrent
+
+** Futur simple
+
+je marierai
+tu marieras
+il (elle) mariera
+nous marierons
+vous marierez
+ils (elles) marieront
+
+* CONDITIONNEL
+
+** Présent
+
+je marierais
+tu marierais
+il (elle) marierait
+nous marierions
+vous marieriez
+ils (elles) marieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je marie
+que tu maries
+qu’il (elle) marie
+que nous mariions
+que vous mariiez
+qu’ils (elles) marient
+
+** Imparfait
+
+que je mariasse
+que tu mariasses
+qu’il (elle) mariât
+que nous mariassions
+que vous mariassiez
+qu’ils (elles) mariassent
+
+* IMPÉRATIF
+
+** Présent
+
+marie
+marions
+mariez
+
+* INFINITIF
+
+** Présent
+
+marier
+
+* PARTICIPE
+
+** Présent
+
+mariant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai marié
+tu as marié
+il (elle) a marié
+nous avons marié
+vous avez marié
+ils (elles) ont marié
+
+** Plus-que-parfait
+
+j'avais marié
+tu avais marié
+il (elle) avait marié
+nous avions marié
+vous aviez marié
+ils (elles) avaient marié
+
+** Passé antérieur
+
+j'eus marié
+tu eus marié
+il (elle) eut marié
+nous eûmes marié
+vous eûtes marié
+ils (elles) eurent marié
+
+** Futur antérieur
+
+j'aurai marié
+tu auras marié
+il (elle) aura marié
+nous aurons marié
+vous aurez marié
+ils (elles) auront marié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais marié
+tu aurais marié
+il (elle) aurait marié
+nous aurions marié
+vous auriez marié
+ils (elles) auraient marié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie marié
+que tu aies marié
+qu’il (elle) ait marié
+que nous ayons marié
+que vous ayez marié
+qu’ils (elles) aient marié
+
+** Plus-que-parfait
+
+que j'eusse marié
+que tu eusses marié
+qu’il (elle) eût marié
+que nous eussions marié
+que vous eussiez marié
+qu’ils (elles) eussent marié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons marié
+ayez marié
+
+* INFINITIF
+
+** Passé
+
+avoir marié
+
+* PARTICIPE
+
+** Passé
+
+ayant marié
+marié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis marié(e)
+tu es marié(e)
+il (elle) est marié(e)
+nous sommes marié(e)s
+vous êtes marié(e)s
+ils (elles) sont marié(e)s
+
+** Imparfait
+
+j'étais marié(e)
+tu étais marié(e)
+il (elle) était marié(e)
+nous étions marié(e)s
+vous étiez marié(e)s
+ils (elles) étaient marié(e)s
+
+** Passé simple
+
+je fus marié(e)
+tu fus marié(e)
+il (elle) fut marié(e)
+nous fûmes marié(e)s
+vous fûtes marié(e)s
+ils (elles) furent marié(e)s
+
+** Futur simple
+
+je serai marié(e)
+tu seras marié(e)
+il (elle) sera marié(e)
+nous serons marié(e)s
+vous serez marié(e)s
+ils (elles) seront marié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais marié(e)
+tu serais marié(e)
+il (elle) serait marié(e)
+nous serions marié(e)s
+vous seriez marié(e)s
+ils (elles) seraient marié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois marié(e)
+que tu sois marié(e)
+qu’il (elle) soit marié(e)
+que nous soyons marié(e)s
+que vous soyez marié(e)s
+qu’ils (elles) soient marié(e)s
+
+** Imparfait
+
+que je fusse marié(e)
+que tu fusses marié(e)
+qu’il (elle) fût marié(e)
+que nous fussions marié(e)s
+que vous fussiez marié(e)s
+qu’ils (elles) fussent marié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons marié(e)s
+soyez marié(e)s
+
+* INFINITIF
+
+** Présent
+
+être marié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant marié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été marié(e)
+tu as été marié(e)
+il (elle) a été marié(e)
+nous avons été marié(e)s
+vous avez été marié(e)s
+ils (elles) ont été marié(e)s
+
+** Plus-que-parfait
+
+j'avais été marié(e)
+il (elle) avait été marié(e)
+nous avions été marié(e)s
+ils (elles) avaient été marié(e)s
+
+** Passé antérieur
+
+j'eus été marié(e)
+tu eus été marié(e)
+il (elle) eut été marié(e)
+nous eûmes été marié(e)s
+vous eûtes été marié(e)s
+ils (elles) eurent été marié(e)s
+
+** Futur antérieur
+
+j'aurai été marié(e)
+tu auras été marié(e)
+il (elle) aura été marié(e)
+nous aurons été marié(e)s
+vous aurez été marié(e)s
+ils (elles) auront été marié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été marié(e)
+j'aurais été marié(e)
+il (elle) aurait été marié(e)
+nous aurions été marié(e)s
+vous auriez été marié(e)s
+ils (elles) auraient été marié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été marié(e)
+que tu aies été marié(e)
+qu’il (elle) ait été marié(e)
+que nous ayons été marié(e)s
+que vous ayez été marié(e)s
+qu’ils (elles) aient été marié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été marié(e)
+que tu eusses été marié(e)
+qu’il (elle) eût été marié(e)
+que nous eussions été marié(e)s
+que vous eussiez été marié(e)s
+qu’ils (elles) eussent été marié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été marié(e)
+ayons été marié(e)s
+ayez été marié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été marié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été marié(e)(s)

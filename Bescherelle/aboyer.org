@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aboyer
+
+* INDICATIF
+
+** Présent
+
+j'aboie
+tu aboies
+il (elle) aboie
+nous aboyons
+vous aboyez
+ils (elles) aboient
+
+** Imparfait
+
+j'aboyais
+tu aboyais
+il (elle) aboyait
+nous aboyions
+vous aboyiez
+ils (elles) aboyaient
+
+** Passé simple
+
+j'aboyai
+tu aboyas
+il (elle) aboya
+nous aboyâmes
+vous aboyâtes
+ils (elles) aboyèrent
+
+** Futur simple
+
+j'aboierai
+tu aboieras
+il (elle) aboiera
+nous aboierons
+vous aboierez
+ils (elles) aboieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aboierais
+tu aboierais
+il (elle) aboierait
+nous aboierions
+vous aboieriez
+ils (elles) aboieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aboie
+que tu aboies
+qu’il (elle) aboie
+que nous aboyions
+que vous aboyiez
+qu’ils (elles) aboient
+
+** Imparfait
+
+que j'aboyasse
+que tu aboyasses
+qu’il (elle) aboyât
+que nous aboyassions
+que vous aboyassiez
+qu’ils (elles) aboyassent
+
+* IMPÉRATIF
+
+** Présent
+
+aboie
+aboyons
+aboyez
+
+* INFINITIF
+
+** Présent
+
+aboyer
+
+* PARTICIPE
+
+** Présent
+
+aboyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aboyé
+tu as aboyé
+il (elle) a aboyé
+nous avons aboyé
+vous avez aboyé
+ils (elles) ont aboyé
+
+** Plus-que-parfait
+
+j'avais aboyé
+tu avais aboyé
+il (elle) avait aboyé
+nous avions aboyé
+vous aviez aboyé
+ils (elles) avaient aboyé
+
+** Passé antérieur
+
+j'eus aboyé
+tu eus aboyé
+il (elle) eut aboyé
+nous eûmes aboyé
+vous eûtes aboyé
+ils (elles) eurent aboyé
+
+** Futur antérieur
+
+j'aurai aboyé
+tu auras aboyé
+il (elle) aura aboyé
+nous aurons aboyé
+vous aurez aboyé
+ils (elles) auront aboyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aboyé
+tu aurais aboyé
+il (elle) aurait aboyé
+nous aurions aboyé
+vous auriez aboyé
+ils (elles) auraient aboyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aboyé
+que tu aies aboyé
+qu’il (elle) ait aboyé
+que nous ayons aboyé
+que vous ayez aboyé
+qu’ils (elles) aient aboyé
+
+** Plus-que-parfait
+
+que j'eusse aboyé
+que tu eusses aboyé
+qu’il (elle) eût aboyé
+que nous eussions aboyé
+que vous eussiez aboyé
+qu’ils (elles) eussent aboyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aboyé
+ayez aboyé
+
+* INFINITIF
+
+** Passé
+
+avoir aboyé
+
+* PARTICIPE
+
+** Passé
+
+ayant aboyé
+aboyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aboyé(e)
+tu es aboyé(e)
+il (elle) est aboyé(e)
+nous sommes aboyé(e)s
+vous êtes aboyé(e)s
+ils (elles) sont aboyé(e)s
+
+** Imparfait
+
+j'étais aboyé(e)
+tu étais aboyé(e)
+il (elle) était aboyé(e)
+nous étions aboyé(e)s
+vous étiez aboyé(e)s
+ils (elles) étaient aboyé(e)s
+
+** Passé simple
+
+je fus aboyé(e)
+tu fus aboyé(e)
+il (elle) fut aboyé(e)
+nous fûmes aboyé(e)s
+vous fûtes aboyé(e)s
+ils (elles) furent aboyé(e)s
+
+** Futur simple
+
+je serai aboyé(e)
+tu seras aboyé(e)
+il (elle) sera aboyé(e)
+nous serons aboyé(e)s
+vous serez aboyé(e)s
+ils (elles) seront aboyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aboyé(e)
+tu serais aboyé(e)
+il (elle) serait aboyé(e)
+nous serions aboyé(e)s
+vous seriez aboyé(e)s
+ils (elles) seraient aboyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aboyé(e)
+que tu sois aboyé(e)
+qu’il (elle) soit aboyé(e)
+que nous soyons aboyé(e)s
+que vous soyez aboyé(e)s
+qu’ils (elles) soient aboyé(e)s
+
+** Imparfait
+
+que je fusse aboyé(e)
+que tu fusses aboyé(e)
+qu’il (elle) fût aboyé(e)
+que nous fussions aboyé(e)s
+que vous fussiez aboyé(e)s
+qu’ils (elles) fussent aboyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aboyé(e)s
+soyez aboyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être aboyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aboyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aboyé(e)
+tu as été aboyé(e)
+il (elle) a été aboyé(e)
+nous avons été aboyé(e)s
+vous avez été aboyé(e)s
+ils (elles) ont été aboyé(e)s
+
+** Plus-que-parfait
+
+j'avais été aboyé(e)
+il (elle) avait été aboyé(e)
+nous avions été aboyé(e)s
+ils (elles) avaient été aboyé(e)s
+
+** Passé antérieur
+
+j'eus été aboyé(e)
+tu eus été aboyé(e)
+il (elle) eut été aboyé(e)
+nous eûmes été aboyé(e)s
+vous eûtes été aboyé(e)s
+ils (elles) eurent été aboyé(e)s
+
+** Futur antérieur
+
+j'aurai été aboyé(e)
+tu auras été aboyé(e)
+il (elle) aura été aboyé(e)
+nous aurons été aboyé(e)s
+vous aurez été aboyé(e)s
+ils (elles) auront été aboyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aboyé(e)
+j'aurais été aboyé(e)
+il (elle) aurait été aboyé(e)
+nous aurions été aboyé(e)s
+vous auriez été aboyé(e)s
+ils (elles) auraient été aboyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aboyé(e)
+que tu aies été aboyé(e)
+qu’il (elle) ait été aboyé(e)
+que nous ayons été aboyé(e)s
+que vous ayez été aboyé(e)s
+qu’ils (elles) aient été aboyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aboyé(e)
+que tu eusses été aboyé(e)
+qu’il (elle) eût été aboyé(e)
+que nous eussions été aboyé(e)s
+que vous eussiez été aboyé(e)s
+qu’ils (elles) eussent été aboyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aboyé(e)
+ayons été aboyé(e)s
+ayez été aboyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aboyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aboyé(e)(s)

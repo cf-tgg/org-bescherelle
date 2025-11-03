@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe traiter
+
+* INDICATIF
+
+** Présent
+
+je traite
+tu traites
+il (elle) traite
+nous traitons
+vous traitez
+ils (elles) traitent
+
+** Imparfait
+
+je traitais
+tu traitais
+il (elle) traitait
+nous traitions
+vous traitiez
+ils (elles) traitaient
+
+** Passé simple
+
+je traitai
+tu traitas
+il (elle) traita
+nous traitâmes
+vous traitâtes
+ils (elles) traitèrent
+
+** Futur simple
+
+je traiterai
+tu traiteras
+il (elle) traitera
+nous traiterons
+vous traiterez
+ils (elles) traiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je traiterais
+tu traiterais
+il (elle) traiterait
+nous traiterions
+vous traiteriez
+ils (elles) traiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je traite
+que tu traites
+qu’il (elle) traite
+que nous traitions
+que vous traitiez
+qu’ils (elles) traitent
+
+** Imparfait
+
+que je traitasse
+que tu traitasses
+qu’il (elle) traitât
+que nous traitassions
+que vous traitassiez
+qu’ils (elles) traitassent
+
+* IMPÉRATIF
+
+** Présent
+
+traite
+traitons
+traitez
+
+* INFINITIF
+
+** Présent
+
+traiter
+
+* PARTICIPE
+
+** Présent
+
+traitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai traité
+tu as traité
+il (elle) a traité
+nous avons traité
+vous avez traité
+ils (elles) ont traité
+
+** Plus-que-parfait
+
+j'avais traité
+tu avais traité
+il (elle) avait traité
+nous avions traité
+vous aviez traité
+ils (elles) avaient traité
+
+** Passé antérieur
+
+j'eus traité
+tu eus traité
+il (elle) eut traité
+nous eûmes traité
+vous eûtes traité
+ils (elles) eurent traité
+
+** Futur antérieur
+
+j'aurai traité
+tu auras traité
+il (elle) aura traité
+nous aurons traité
+vous aurez traité
+ils (elles) auront traité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais traité
+tu aurais traité
+il (elle) aurait traité
+nous aurions traité
+vous auriez traité
+ils (elles) auraient traité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie traité
+que tu aies traité
+qu’il (elle) ait traité
+que nous ayons traité
+que vous ayez traité
+qu’ils (elles) aient traité
+
+** Plus-que-parfait
+
+que j'eusse traité
+que tu eusses traité
+qu’il (elle) eût traité
+que nous eussions traité
+que vous eussiez traité
+qu’ils (elles) eussent traité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons traité
+ayez traité
+
+* INFINITIF
+
+** Passé
+
+avoir traité
+
+* PARTICIPE
+
+** Passé
+
+ayant traité
+traité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis traité(e)
+tu es traité(e)
+il (elle) est traité(e)
+nous sommes traité(e)s
+vous êtes traité(e)s
+ils (elles) sont traité(e)s
+
+** Imparfait
+
+j'étais traité(e)
+tu étais traité(e)
+il (elle) était traité(e)
+nous étions traité(e)s
+vous étiez traité(e)s
+ils (elles) étaient traité(e)s
+
+** Passé simple
+
+je fus traité(e)
+tu fus traité(e)
+il (elle) fut traité(e)
+nous fûmes traité(e)s
+vous fûtes traité(e)s
+ils (elles) furent traité(e)s
+
+** Futur simple
+
+je serai traité(e)
+tu seras traité(e)
+il (elle) sera traité(e)
+nous serons traité(e)s
+vous serez traité(e)s
+ils (elles) seront traité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais traité(e)
+tu serais traité(e)
+il (elle) serait traité(e)
+nous serions traité(e)s
+vous seriez traité(e)s
+ils (elles) seraient traité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois traité(e)
+que tu sois traité(e)
+qu’il (elle) soit traité(e)
+que nous soyons traité(e)s
+que vous soyez traité(e)s
+qu’ils (elles) soient traité(e)s
+
+** Imparfait
+
+que je fusse traité(e)
+que tu fusses traité(e)
+qu’il (elle) fût traité(e)
+que nous fussions traité(e)s
+que vous fussiez traité(e)s
+qu’ils (elles) fussent traité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons traité(e)s
+soyez traité(e)s
+
+* INFINITIF
+
+** Présent
+
+être traité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant traité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été traité(e)
+tu as été traité(e)
+il (elle) a été traité(e)
+nous avons été traité(e)s
+vous avez été traité(e)s
+ils (elles) ont été traité(e)s
+
+** Plus-que-parfait
+
+j'avais été traité(e)
+il (elle) avait été traité(e)
+nous avions été traité(e)s
+ils (elles) avaient été traité(e)s
+
+** Passé antérieur
+
+j'eus été traité(e)
+tu eus été traité(e)
+il (elle) eut été traité(e)
+nous eûmes été traité(e)s
+vous eûtes été traité(e)s
+ils (elles) eurent été traité(e)s
+
+** Futur antérieur
+
+j'aurai été traité(e)
+tu auras été traité(e)
+il (elle) aura été traité(e)
+nous aurons été traité(e)s
+vous aurez été traité(e)s
+ils (elles) auront été traité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été traité(e)
+j'aurais été traité(e)
+il (elle) aurait été traité(e)
+nous aurions été traité(e)s
+vous auriez été traité(e)s
+ils (elles) auraient été traité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été traité(e)
+que tu aies été traité(e)
+qu’il (elle) ait été traité(e)
+que nous ayons été traité(e)s
+que vous ayez été traité(e)s
+qu’ils (elles) aient été traité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été traité(e)
+que tu eusses été traité(e)
+qu’il (elle) eût été traité(e)
+que nous eussions été traité(e)s
+que vous eussiez été traité(e)s
+qu’ils (elles) eussent été traité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été traité(e)
+ayons été traité(e)s
+ayez été traité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été traité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été traité(e)(s)

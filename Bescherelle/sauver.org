@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sauver
+
+* INDICATIF
+
+** Présent
+
+je sauve
+tu sauves
+il (elle) sauve
+nous sauvons
+vous sauvez
+ils (elles) sauvent
+
+** Imparfait
+
+je sauvais
+tu sauvais
+il (elle) sauvait
+nous sauvions
+vous sauviez
+ils (elles) sauvaient
+
+** Passé simple
+
+je sauvai
+tu sauvas
+il (elle) sauva
+nous sauvâmes
+vous sauvâtes
+ils (elles) sauvèrent
+
+** Futur simple
+
+je sauverai
+tu sauveras
+il (elle) sauvera
+nous sauverons
+vous sauverez
+ils (elles) sauveront
+
+* CONDITIONNEL
+
+** Présent
+
+je sauverais
+tu sauverais
+il (elle) sauverait
+nous sauverions
+vous sauveriez
+ils (elles) sauveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sauve
+que tu sauves
+qu’il (elle) sauve
+que nous sauvions
+que vous sauviez
+qu’ils (elles) sauvent
+
+** Imparfait
+
+que je sauvasse
+que tu sauvasses
+qu’il (elle) sauvât
+que nous sauvassions
+que vous sauvassiez
+qu’ils (elles) sauvassent
+
+* IMPÉRATIF
+
+** Présent
+
+sauve
+sauvons
+sauvez
+
+* INFINITIF
+
+** Présent
+
+sauver
+
+* PARTICIPE
+
+** Présent
+
+sauvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sauvé
+tu as sauvé
+il (elle) a sauvé
+nous avons sauvé
+vous avez sauvé
+ils (elles) ont sauvé
+
+** Plus-que-parfait
+
+j'avais sauvé
+tu avais sauvé
+il (elle) avait sauvé
+nous avions sauvé
+vous aviez sauvé
+ils (elles) avaient sauvé
+
+** Passé antérieur
+
+j'eus sauvé
+tu eus sauvé
+il (elle) eut sauvé
+nous eûmes sauvé
+vous eûtes sauvé
+ils (elles) eurent sauvé
+
+** Futur antérieur
+
+j'aurai sauvé
+tu auras sauvé
+il (elle) aura sauvé
+nous aurons sauvé
+vous aurez sauvé
+ils (elles) auront sauvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sauvé
+tu aurais sauvé
+il (elle) aurait sauvé
+nous aurions sauvé
+vous auriez sauvé
+ils (elles) auraient sauvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sauvé
+que tu aies sauvé
+qu’il (elle) ait sauvé
+que nous ayons sauvé
+que vous ayez sauvé
+qu’ils (elles) aient sauvé
+
+** Plus-que-parfait
+
+que j'eusse sauvé
+que tu eusses sauvé
+qu’il (elle) eût sauvé
+que nous eussions sauvé
+que vous eussiez sauvé
+qu’ils (elles) eussent sauvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sauvé
+ayez sauvé
+
+* INFINITIF
+
+** Passé
+
+avoir sauvé
+
+* PARTICIPE
+
+** Passé
+
+ayant sauvé
+sauvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sauvé(e)
+tu es sauvé(e)
+il (elle) est sauvé(e)
+nous sommes sauvé(e)s
+vous êtes sauvé(e)s
+ils (elles) sont sauvé(e)s
+
+** Imparfait
+
+j'étais sauvé(e)
+tu étais sauvé(e)
+il (elle) était sauvé(e)
+nous étions sauvé(e)s
+vous étiez sauvé(e)s
+ils (elles) étaient sauvé(e)s
+
+** Passé simple
+
+je fus sauvé(e)
+tu fus sauvé(e)
+il (elle) fut sauvé(e)
+nous fûmes sauvé(e)s
+vous fûtes sauvé(e)s
+ils (elles) furent sauvé(e)s
+
+** Futur simple
+
+je serai sauvé(e)
+tu seras sauvé(e)
+il (elle) sera sauvé(e)
+nous serons sauvé(e)s
+vous serez sauvé(e)s
+ils (elles) seront sauvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sauvé(e)
+tu serais sauvé(e)
+il (elle) serait sauvé(e)
+nous serions sauvé(e)s
+vous seriez sauvé(e)s
+ils (elles) seraient sauvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sauvé(e)
+que tu sois sauvé(e)
+qu’il (elle) soit sauvé(e)
+que nous soyons sauvé(e)s
+que vous soyez sauvé(e)s
+qu’ils (elles) soient sauvé(e)s
+
+** Imparfait
+
+que je fusse sauvé(e)
+que tu fusses sauvé(e)
+qu’il (elle) fût sauvé(e)
+que nous fussions sauvé(e)s
+que vous fussiez sauvé(e)s
+qu’ils (elles) fussent sauvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sauvé(e)s
+soyez sauvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être sauvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sauvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sauvé(e)
+tu as été sauvé(e)
+il (elle) a été sauvé(e)
+nous avons été sauvé(e)s
+vous avez été sauvé(e)s
+ils (elles) ont été sauvé(e)s
+
+** Plus-que-parfait
+
+j'avais été sauvé(e)
+il (elle) avait été sauvé(e)
+nous avions été sauvé(e)s
+ils (elles) avaient été sauvé(e)s
+
+** Passé antérieur
+
+j'eus été sauvé(e)
+tu eus été sauvé(e)
+il (elle) eut été sauvé(e)
+nous eûmes été sauvé(e)s
+vous eûtes été sauvé(e)s
+ils (elles) eurent été sauvé(e)s
+
+** Futur antérieur
+
+j'aurai été sauvé(e)
+tu auras été sauvé(e)
+il (elle) aura été sauvé(e)
+nous aurons été sauvé(e)s
+vous aurez été sauvé(e)s
+ils (elles) auront été sauvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sauvé(e)
+j'aurais été sauvé(e)
+il (elle) aurait été sauvé(e)
+nous aurions été sauvé(e)s
+vous auriez été sauvé(e)s
+ils (elles) auraient été sauvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sauvé(e)
+que tu aies été sauvé(e)
+qu’il (elle) ait été sauvé(e)
+que nous ayons été sauvé(e)s
+que vous ayez été sauvé(e)s
+qu’ils (elles) aient été sauvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sauvé(e)
+que tu eusses été sauvé(e)
+qu’il (elle) eût été sauvé(e)
+que nous eussions été sauvé(e)s
+que vous eussiez été sauvé(e)s
+qu’ils (elles) eussent été sauvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sauvé(e)
+ayons été sauvé(e)s
+ayez été sauvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sauvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sauvé(e)(s)

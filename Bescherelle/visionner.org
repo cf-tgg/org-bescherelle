@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe visionner
+
+* INDICATIF
+
+** Présent
+
+je visionne
+tu visionnes
+il (elle) visionne
+nous visionnons
+vous visionnez
+ils (elles) visionnent
+
+** Imparfait
+
+je visionnais
+tu visionnais
+il (elle) visionnait
+nous visionnions
+vous visionniez
+ils (elles) visionnaient
+
+** Passé simple
+
+je visionnai
+tu visionnas
+il (elle) visionna
+nous visionnâmes
+vous visionnâtes
+ils (elles) visionnèrent
+
+** Futur simple
+
+je visionnerai
+tu visionneras
+il (elle) visionnera
+nous visionnerons
+vous visionnerez
+ils (elles) visionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je visionnerais
+tu visionnerais
+il (elle) visionnerait
+nous visionnerions
+vous visionneriez
+ils (elles) visionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je visionne
+que tu visionnes
+qu’il (elle) visionne
+que nous visionnions
+que vous visionniez
+qu’ils (elles) visionnent
+
+** Imparfait
+
+que je visionnasse
+que tu visionnasses
+qu’il (elle) visionnât
+que nous visionnassions
+que vous visionnassiez
+qu’ils (elles) visionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+visionne
+visionnons
+visionnez
+
+* INFINITIF
+
+** Présent
+
+visionner
+
+* PARTICIPE
+
+** Présent
+
+visionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai visionné
+tu as visionné
+il (elle) a visionné
+nous avons visionné
+vous avez visionné
+ils (elles) ont visionné
+
+** Plus-que-parfait
+
+j'avais visionné
+tu avais visionné
+il (elle) avait visionné
+nous avions visionné
+vous aviez visionné
+ils (elles) avaient visionné
+
+** Passé antérieur
+
+j'eus visionné
+tu eus visionné
+il (elle) eut visionné
+nous eûmes visionné
+vous eûtes visionné
+ils (elles) eurent visionné
+
+** Futur antérieur
+
+j'aurai visionné
+tu auras visionné
+il (elle) aura visionné
+nous aurons visionné
+vous aurez visionné
+ils (elles) auront visionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais visionné
+tu aurais visionné
+il (elle) aurait visionné
+nous aurions visionné
+vous auriez visionné
+ils (elles) auraient visionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie visionné
+que tu aies visionné
+qu’il (elle) ait visionné
+que nous ayons visionné
+que vous ayez visionné
+qu’ils (elles) aient visionné
+
+** Plus-que-parfait
+
+que j'eusse visionné
+que tu eusses visionné
+qu’il (elle) eût visionné
+que nous eussions visionné
+que vous eussiez visionné
+qu’ils (elles) eussent visionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons visionné
+ayez visionné
+
+* INFINITIF
+
+** Passé
+
+avoir visionné
+
+* PARTICIPE
+
+** Passé
+
+ayant visionné
+visionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis visionné(e)
+tu es visionné(e)
+il (elle) est visionné(e)
+nous sommes visionné(e)s
+vous êtes visionné(e)s
+ils (elles) sont visionné(e)s
+
+** Imparfait
+
+j'étais visionné(e)
+tu étais visionné(e)
+il (elle) était visionné(e)
+nous étions visionné(e)s
+vous étiez visionné(e)s
+ils (elles) étaient visionné(e)s
+
+** Passé simple
+
+je fus visionné(e)
+tu fus visionné(e)
+il (elle) fut visionné(e)
+nous fûmes visionné(e)s
+vous fûtes visionné(e)s
+ils (elles) furent visionné(e)s
+
+** Futur simple
+
+je serai visionné(e)
+tu seras visionné(e)
+il (elle) sera visionné(e)
+nous serons visionné(e)s
+vous serez visionné(e)s
+ils (elles) seront visionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais visionné(e)
+tu serais visionné(e)
+il (elle) serait visionné(e)
+nous serions visionné(e)s
+vous seriez visionné(e)s
+ils (elles) seraient visionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois visionné(e)
+que tu sois visionné(e)
+qu’il (elle) soit visionné(e)
+que nous soyons visionné(e)s
+que vous soyez visionné(e)s
+qu’ils (elles) soient visionné(e)s
+
+** Imparfait
+
+que je fusse visionné(e)
+que tu fusses visionné(e)
+qu’il (elle) fût visionné(e)
+que nous fussions visionné(e)s
+que vous fussiez visionné(e)s
+qu’ils (elles) fussent visionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons visionné(e)s
+soyez visionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être visionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant visionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été visionné(e)
+tu as été visionné(e)
+il (elle) a été visionné(e)
+nous avons été visionné(e)s
+vous avez été visionné(e)s
+ils (elles) ont été visionné(e)s
+
+** Plus-que-parfait
+
+j'avais été visionné(e)
+il (elle) avait été visionné(e)
+nous avions été visionné(e)s
+ils (elles) avaient été visionné(e)s
+
+** Passé antérieur
+
+j'eus été visionné(e)
+tu eus été visionné(e)
+il (elle) eut été visionné(e)
+nous eûmes été visionné(e)s
+vous eûtes été visionné(e)s
+ils (elles) eurent été visionné(e)s
+
+** Futur antérieur
+
+j'aurai été visionné(e)
+tu auras été visionné(e)
+il (elle) aura été visionné(e)
+nous aurons été visionné(e)s
+vous aurez été visionné(e)s
+ils (elles) auront été visionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été visionné(e)
+j'aurais été visionné(e)
+il (elle) aurait été visionné(e)
+nous aurions été visionné(e)s
+vous auriez été visionné(e)s
+ils (elles) auraient été visionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été visionné(e)
+que tu aies été visionné(e)
+qu’il (elle) ait été visionné(e)
+que nous ayons été visionné(e)s
+que vous ayez été visionné(e)s
+qu’ils (elles) aient été visionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été visionné(e)
+que tu eusses été visionné(e)
+qu’il (elle) eût été visionné(e)
+que nous eussions été visionné(e)s
+que vous eussiez été visionné(e)s
+qu’ils (elles) eussent été visionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été visionné(e)
+ayons été visionné(e)s
+ayez été visionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été visionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été visionné(e)(s)

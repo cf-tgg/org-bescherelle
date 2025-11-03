@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recrire
+
+* INDICATIF
+
+** Présent
+
+je récris
+tu récris
+il (elle) récrit
+nous récrivons
+vous récrivez
+ils (elles) récrivent
+
+** Imparfait
+
+je récrivais
+tu récrivais
+il (elle) récrivait
+nous récrivions
+vous récriviez
+ils (elles) récrivaient
+
+** Passé simple
+
+je récrivis
+tu récrivis
+il (elle) récrivit
+nous récrivîmes
+vous récrivîtes
+ils (elles) récrivirent
+
+** Futur simple
+
+je récrirai
+tu récriras
+il (elle) récrira
+nous récrirons
+vous récrirez
+ils (elles) récriront
+
+* CONDITIONNEL
+
+** Présent
+
+je récrirais
+tu récrirais
+il (elle) récrirait
+nous récririons
+vous récririez
+ils (elles) récriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je récrive
+que tu récrives
+qu’il (elle) récrive
+que nous récrivions
+que vous récriviez
+qu’ils (elles) récrivent
+
+** Imparfait
+
+que je récrivisse
+que tu récrivisses
+qu’il (elle) récrivît
+que nous récrivissions
+que vous récrivissiez
+qu’ils (elles) récrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+récris
+récrivons
+récrivez
+
+* INFINITIF
+
+** Présent
+
+récrire
+
+* PARTICIPE
+
+** Présent
+
+récrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai récrit
+tu as récrit
+il (elle) a récrit
+nous avons récrit
+vous avez récrit
+ils (elles) ont récrit
+
+** Plus-que-parfait
+
+j'avais récrit
+tu avais récrit
+il (elle) avait récrit
+nous avions récrit
+vous aviez récrit
+ils (elles) avaient récrit
+
+** Passé antérieur
+
+j'eus récrit
+tu eus récrit
+il (elle) eut récrit
+nous eûmes récrit
+vous eûtes récrit
+ils (elles) eurent récrit
+
+** Futur antérieur
+
+j'aurai récrit
+tu auras récrit
+il (elle) aura récrit
+nous aurons récrit
+vous aurez récrit
+ils (elles) auront récrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais récrit
+tu aurais récrit
+il (elle) aurait récrit
+nous aurions récrit
+vous auriez récrit
+ils (elles) auraient récrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie récrit
+que tu aies récrit
+qu’il (elle) ait récrit
+que nous ayons récrit
+que vous ayez récrit
+qu’ils (elles) aient récrit
+
+** Plus-que-parfait
+
+que j'eusse récrit
+que tu eusses récrit
+qu’il (elle) eût récrit
+que nous eussions récrit
+que vous eussiez récrit
+qu’ils (elles) eussent récrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons récrit
+ayez récrit
+
+* INFINITIF
+
+** Passé
+
+avoir récrit
+
+* PARTICIPE
+
+** Passé
+
+ayant récrit
+récrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis récrit(e)
+tu es récrit(e)
+il (elle) est récrit(e)
+nous sommes récrit(e)s
+vous êtes récrit(e)s
+ils (elles) sont récrit(e)s
+
+** Imparfait
+
+j'étais récrit(e)
+tu étais récrit(e)
+il (elle) était récrit(e)
+nous étions récrit(e)s
+vous étiez récrit(e)s
+ils (elles) étaient récrit(e)s
+
+** Passé simple
+
+je fus récrit(e)
+tu fus récrit(e)
+il (elle) fut récrit(e)
+nous fûmes récrit(e)s
+vous fûtes récrit(e)s
+ils (elles) furent récrit(e)s
+
+** Futur simple
+
+je serai récrit(e)
+tu seras récrit(e)
+il (elle) sera récrit(e)
+nous serons récrit(e)s
+vous serez récrit(e)s
+ils (elles) seront récrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais récrit(e)
+tu serais récrit(e)
+il (elle) serait récrit(e)
+nous serions récrit(e)s
+vous seriez récrit(e)s
+ils (elles) seraient récrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois récrit(e)
+que tu sois récrit(e)
+qu’il (elle) soit récrit(e)
+que nous soyons récrit(e)s
+que vous soyez récrit(e)s
+qu’ils (elles) soient récrit(e)s
+
+** Imparfait
+
+que je fusse récrit(e)
+que tu fusses récrit(e)
+qu’il (elle) fût récrit(e)
+que nous fussions récrit(e)s
+que vous fussiez récrit(e)s
+qu’ils (elles) fussent récrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons récrit(e)s
+soyez récrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être récrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant récrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été récrit(e)
+tu as été récrit(e)
+il (elle) a été récrit(e)
+nous avons été récrit(e)s
+vous avez été récrit(e)s
+ils (elles) ont été récrit(e)s
+
+** Plus-que-parfait
+
+j'avais été récrit(e)
+il (elle) avait été récrit(e)
+nous avions été récrit(e)s
+ils (elles) avaient été récrit(e)s
+
+** Passé antérieur
+
+j'eus été récrit(e)
+tu eus été récrit(e)
+il (elle) eut été récrit(e)
+nous eûmes été récrit(e)s
+vous eûtes été récrit(e)s
+ils (elles) eurent été récrit(e)s
+
+** Futur antérieur
+
+j'aurai été récrit(e)
+tu auras été récrit(e)
+il (elle) aura été récrit(e)
+nous aurons été récrit(e)s
+vous aurez été récrit(e)s
+ils (elles) auront été récrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été récrit(e)
+j'aurais été récrit(e)
+il (elle) aurait été récrit(e)
+nous aurions été récrit(e)s
+vous auriez été récrit(e)s
+ils (elles) auraient été récrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été récrit(e)
+que tu aies été récrit(e)
+qu’il (elle) ait été récrit(e)
+que nous ayons été récrit(e)s
+que vous ayez été récrit(e)s
+qu’ils (elles) aient été récrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été récrit(e)
+que tu eusses été récrit(e)
+qu’il (elle) eût été récrit(e)
+que nous eussions été récrit(e)s
+que vous eussiez été récrit(e)s
+qu’ils (elles) eussent été récrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été récrit(e)
+ayons été récrit(e)s
+ayez été récrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été récrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été récrit(e)(s)

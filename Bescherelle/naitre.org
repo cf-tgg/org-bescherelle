@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe naitre
+
+* INDICATIF
+
+** Présent
+
+je nais
+tu nais
+il (elle) naît
+nous naissons
+vous naissez
+ils (elles) naissent
+
+** Imparfait
+
+je naissais
+tu naissais
+il (elle) naissait
+nous naissions
+vous naissiez
+ils (elles) naissaient
+
+** Passé simple
+
+je naquis
+tu naquis
+il (elle) naquit
+nous naquîmes
+vous naquîtes
+ils (elles) naquirent
+
+** Futur simple
+
+je naîtrai
+tu naîtras
+il (elle) naîtra
+nous naîtrons
+vous naîtrez
+ils (elles) naîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je naîtrais
+tu naîtrais
+il (elle) naîtrait
+nous naîtrions
+vous naîtriez
+ils (elles) naîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je naisse
+que tu naisses
+qu’il (elle) naisse
+que nous naissions
+que vous naissiez
+qu’ils (elles) naissent
+
+** Imparfait
+
+que je naquisse
+que tu naquisses
+qu’il (elle) naquît
+que nous naquissions
+que vous naquissiez
+qu’ils (elles) naquissent
+
+* IMPÉRATIF
+
+** Présent
+
+nais
+naissons
+naissez
+
+* INFINITIF
+
+** Présent
+
+naître
+
+* PARTICIPE
+
+** Présent
+
+naissant
+
+* INDICATIF
+
+** Passé composé
+
+je suis né(e)
+tu es né(e)
+il (elle) est né(e)
+nous sommes né(e)s
+vous êtes né(e)s
+ils (elles) sont né(e)s
+
+** Plus-que-parfait
+
+j'étais né(e)
+tu étais né(e)
+il (elle) était né(e)
+nous étions né(e)s
+vous étiez né(e)s
+ils (elles) étaient né(e)s
+
+** Passé antérieur
+
+je fus né(e)
+tu fus né(e)
+il (elle) fut né(e)
+nous fûmes né(e)s
+vous fûtes né(e)s
+ils (elles) furent né(e)s
+
+** Futur antérieur
+
+je serai né(e)
+tu seras né(e)
+il (elle) sera né(e)
+nous serons né(e)s
+vous serez né(e)s
+ils (elles) seront né(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais né(e)
+tu serais né(e)
+il (elle) serait né(e)
+nous serions né(e)s
+vous seriez né(e)s
+ils (elles) seraient né(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois né(e)
+que tu sois né(e)
+qu’il (elle) soit né(e)
+que nous soyons né(e)s
+que vous soyez né(e)s
+qu’ils (elles) soient né(e)s
+
+** Plus-que-parfait
+
+que je fusse né(e)
+que tu fusses né(e)
+qu’il (elle) fût né(e)
+que nous fussions né(e)s
+que vous fussiez né(e)s
+qu’ils (elles) fussent né(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons né(e)s
+soyez né(e)s
+
+* INFINITIF
+
+** Passé
+
+être né(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant né(e)(s)
+né (é, ée, és, ées)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe beer
+
+* INDICATIF
+
+** Présent
+
+je bée
+tu bées
+il (elle) bée
+nous béons
+vous béez
+ils (elles) béent
+
+** Imparfait
+
+je béais
+tu béais
+il (elle) béait
+nous béions
+vous béiez
+ils (elles) béaient
+
+** Passé simple
+
+je béai
+tu béas
+il (elle) béa
+nous béâmes
+vous béâtes
+ils (elles) béèrent
+
+** Futur simple
+
+je béerai
+tu béeras
+il (elle) béera
+nous béerons
+vous béerez
+ils (elles) béeront
+
+* CONDITIONNEL
+
+** Présent
+
+je béerais
+tu béerais
+il (elle) béerait
+nous béerions
+vous béeriez
+ils (elles) béeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bée
+que tu bées
+qu’il (elle) bée
+que nous béions
+que vous béiez
+qu’ils (elles) béent
+
+** Imparfait
+
+que je béasse
+que tu béasses
+qu’il (elle) béât
+que nous béassions
+que vous béassiez
+qu’ils (elles) béassent
+
+* IMPÉRATIF
+
+** Présent
+
+bée
+béons
+béez
+
+* INFINITIF
+
+** Présent
+
+béer
+
+* PARTICIPE
+
+** Présent
+
+béant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai béé
+tu as béé
+il (elle) a béé
+nous avons béé
+vous avez béé
+ils (elles) ont béé
+
+** Plus-que-parfait
+
+j'avais béé
+tu avais béé
+il (elle) avait béé
+nous avions béé
+vous aviez béé
+ils (elles) avaient béé
+
+** Passé antérieur
+
+j'eus béé
+tu eus béé
+il (elle) eut béé
+nous eûmes béé
+vous eûtes béé
+ils (elles) eurent béé
+
+** Futur antérieur
+
+j'aurai béé
+tu auras béé
+il (elle) aura béé
+nous aurons béé
+vous aurez béé
+ils (elles) auront béé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais béé
+tu aurais béé
+il (elle) aurait béé
+nous aurions béé
+vous auriez béé
+ils (elles) auraient béé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie béé
+que tu aies béé
+qu’il (elle) ait béé
+que nous ayons béé
+que vous ayez béé
+qu’ils (elles) aient béé
+
+** Plus-que-parfait
+
+que j'eusse béé
+que tu eusses béé
+qu’il (elle) eût béé
+que nous eussions béé
+que vous eussiez béé
+qu’ils (elles) eussent béé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons béé
+ayez béé
+
+* INFINITIF
+
+** Passé
+
+avoir béé
+
+* PARTICIPE
+
+** Passé
+
+ayant béé
+béé (invar.)

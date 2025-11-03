@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assoupir
+
+* INDICATIF
+
+** Présent
+
+j'assoupis
+tu assoupis
+il (elle) assoupit
+nous assoupissons
+vous assoupissez
+ils (elles) assoupissent
+
+** Imparfait
+
+j'assoupissais
+tu assoupissais
+il (elle) assoupissait
+nous assoupissions
+vous assoupissiez
+ils (elles) assoupissaient
+
+** Passé simple
+
+j'assoupis
+tu assoupis
+il (elle) assoupit
+nous assoupîmes
+vous assoupîtes
+ils (elles) assoupirent
+
+** Futur simple
+
+j'assoupirai
+tu assoupiras
+il (elle) assoupira
+nous assoupirons
+vous assoupirez
+ils (elles) assoupiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assoupirais
+tu assoupirais
+il (elle) assoupirait
+nous assoupirions
+vous assoupiriez
+ils (elles) assoupiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assoupisse
+que tu assoupisses
+qu’il (elle) assoupisse
+que nous assoupissions
+que vous assoupissiez
+qu’ils (elles) assoupissent
+
+** Imparfait
+
+que j'assoupisse
+que tu assoupisses
+qu’il (elle) assoupît
+que nous assoupissions
+que vous assoupissiez
+qu’ils (elles) assoupissent
+
+* IMPÉRATIF
+
+** Présent
+
+assoupis
+assoupissons
+assoupissez
+
+* INFINITIF
+
+** Présent
+
+assoupir
+
+* PARTICIPE
+
+** Présent
+
+assoupissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assoupi
+tu as assoupi
+il (elle) a assoupi
+nous avons assoupi
+vous avez assoupi
+ils (elles) ont assoupi
+
+** Plus-que-parfait
+
+j'avais assoupi
+tu avais assoupi
+il (elle) avait assoupi
+nous avions assoupi
+vous aviez assoupi
+ils (elles) avaient assoupi
+
+** Passé antérieur
+
+j'eus assoupi
+tu eus assoupi
+il (elle) eut assoupi
+nous eûmes assoupi
+vous eûtes assoupi
+ils (elles) eurent assoupi
+
+** Futur antérieur
+
+j'aurai assoupi
+tu auras assoupi
+il (elle) aura assoupi
+nous aurons assoupi
+vous aurez assoupi
+ils (elles) auront assoupi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assoupi
+tu aurais assoupi
+il (elle) aurait assoupi
+nous aurions assoupi
+vous auriez assoupi
+ils (elles) auraient assoupi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assoupi
+que tu aies assoupi
+qu’il (elle) ait assoupi
+que nous ayons assoupi
+que vous ayez assoupi
+qu’ils (elles) aient assoupi
+
+** Plus-que-parfait
+
+que j'eusse assoupi
+que tu eusses assoupi
+qu’il (elle) eût assoupi
+que nous eussions assoupi
+que vous eussiez assoupi
+qu’ils (elles) eussent assoupi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assoupi
+ayez assoupi
+
+* INFINITIF
+
+** Passé
+
+avoir assoupi
+
+* PARTICIPE
+
+** Passé
+
+ayant assoupi
+assoupi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis assoupi(e)
+tu es assoupi(e)
+il (elle) est assoupi(e)
+nous sommes assoupi(e)s
+vous êtes assoupi(e)s
+ils (elles) sont assoupi(e)s
+
+** Imparfait
+
+j'étais assoupi(e)
+tu étais assoupi(e)
+il (elle) était assoupi(e)
+nous étions assoupi(e)s
+vous étiez assoupi(e)s
+ils (elles) étaient assoupi(e)s
+
+** Passé simple
+
+je fus assoupi(e)
+tu fus assoupi(e)
+il (elle) fut assoupi(e)
+nous fûmes assoupi(e)s
+vous fûtes assoupi(e)s
+ils (elles) furent assoupi(e)s
+
+** Futur simple
+
+je serai assoupi(e)
+tu seras assoupi(e)
+il (elle) sera assoupi(e)
+nous serons assoupi(e)s
+vous serez assoupi(e)s
+ils (elles) seront assoupi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assoupi(e)
+tu serais assoupi(e)
+il (elle) serait assoupi(e)
+nous serions assoupi(e)s
+vous seriez assoupi(e)s
+ils (elles) seraient assoupi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assoupi(e)
+que tu sois assoupi(e)
+qu’il (elle) soit assoupi(e)
+que nous soyons assoupi(e)s
+que vous soyez assoupi(e)s
+qu’ils (elles) soient assoupi(e)s
+
+** Imparfait
+
+que je fusse assoupi(e)
+que tu fusses assoupi(e)
+qu’il (elle) fût assoupi(e)
+que nous fussions assoupi(e)s
+que vous fussiez assoupi(e)s
+qu’ils (elles) fussent assoupi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assoupi(e)s
+soyez assoupi(e)s
+
+* INFINITIF
+
+** Présent
+
+être assoupi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assoupi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assoupi(e)
+tu as été assoupi(e)
+il (elle) a été assoupi(e)
+nous avons été assoupi(e)s
+vous avez été assoupi(e)s
+ils (elles) ont été assoupi(e)s
+
+** Plus-que-parfait
+
+j'avais été assoupi(e)
+il (elle) avait été assoupi(e)
+nous avions été assoupi(e)s
+ils (elles) avaient été assoupi(e)s
+
+** Passé antérieur
+
+j'eus été assoupi(e)
+tu eus été assoupi(e)
+il (elle) eut été assoupi(e)
+nous eûmes été assoupi(e)s
+vous eûtes été assoupi(e)s
+ils (elles) eurent été assoupi(e)s
+
+** Futur antérieur
+
+j'aurai été assoupi(e)
+tu auras été assoupi(e)
+il (elle) aura été assoupi(e)
+nous aurons été assoupi(e)s
+vous aurez été assoupi(e)s
+ils (elles) auront été assoupi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assoupi(e)
+j'aurais été assoupi(e)
+il (elle) aurait été assoupi(e)
+nous aurions été assoupi(e)s
+vous auriez été assoupi(e)s
+ils (elles) auraient été assoupi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assoupi(e)
+que tu aies été assoupi(e)
+qu’il (elle) ait été assoupi(e)
+que nous ayons été assoupi(e)s
+que vous ayez été assoupi(e)s
+qu’ils (elles) aient été assoupi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assoupi(e)
+que tu eusses été assoupi(e)
+qu’il (elle) eût été assoupi(e)
+que nous eussions été assoupi(e)s
+que vous eussiez été assoupi(e)s
+qu’ils (elles) eussent été assoupi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assoupi(e)
+ayons été assoupi(e)s
+ayez été assoupi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assoupi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assoupi(e)(s)

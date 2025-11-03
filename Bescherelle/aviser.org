@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aviser
+
+* INDICATIF
+
+** Présent
+
+j'avise
+tu avises
+il (elle) avise
+nous avisons
+vous avisez
+ils (elles) avisent
+
+** Imparfait
+
+j'avisais
+tu avisais
+il (elle) avisait
+nous avisions
+vous avisiez
+ils (elles) avisaient
+
+** Passé simple
+
+j'avisai
+tu avisas
+il (elle) avisa
+nous avisâmes
+vous avisâtes
+ils (elles) avisèrent
+
+** Futur simple
+
+j'aviserai
+tu aviseras
+il (elle) avisera
+nous aviserons
+vous aviserez
+ils (elles) aviseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aviserais
+tu aviserais
+il (elle) aviserait
+nous aviserions
+vous aviseriez
+ils (elles) aviseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avise
+que tu avises
+qu’il (elle) avise
+que nous avisions
+que vous avisiez
+qu’ils (elles) avisent
+
+** Imparfait
+
+que j'avisasse
+que tu avisasses
+qu’il (elle) avisât
+que nous avisassions
+que vous avisassiez
+qu’ils (elles) avisassent
+
+* IMPÉRATIF
+
+** Présent
+
+avise
+avisons
+avisez
+
+* INFINITIF
+
+** Présent
+
+aviser
+
+* PARTICIPE
+
+** Présent
+
+avisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai avisé
+tu as avisé
+il (elle) a avisé
+nous avons avisé
+vous avez avisé
+ils (elles) ont avisé
+
+** Plus-que-parfait
+
+j'avais avisé
+tu avais avisé
+il (elle) avait avisé
+nous avions avisé
+vous aviez avisé
+ils (elles) avaient avisé
+
+** Passé antérieur
+
+j'eus avisé
+tu eus avisé
+il (elle) eut avisé
+nous eûmes avisé
+vous eûtes avisé
+ils (elles) eurent avisé
+
+** Futur antérieur
+
+j'aurai avisé
+tu auras avisé
+il (elle) aura avisé
+nous aurons avisé
+vous aurez avisé
+ils (elles) auront avisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais avisé
+tu aurais avisé
+il (elle) aurait avisé
+nous aurions avisé
+vous auriez avisé
+ils (elles) auraient avisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie avisé
+que tu aies avisé
+qu’il (elle) ait avisé
+que nous ayons avisé
+que vous ayez avisé
+qu’ils (elles) aient avisé
+
+** Plus-que-parfait
+
+que j'eusse avisé
+que tu eusses avisé
+qu’il (elle) eût avisé
+que nous eussions avisé
+que vous eussiez avisé
+qu’ils (elles) eussent avisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons avisé
+ayez avisé
+
+* INFINITIF
+
+** Passé
+
+avoir avisé
+
+* PARTICIPE
+
+** Passé
+
+ayant avisé
+avisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis avisé(e)
+tu es avisé(e)
+il (elle) est avisé(e)
+nous sommes avisé(e)s
+vous êtes avisé(e)s
+ils (elles) sont avisé(e)s
+
+** Imparfait
+
+j'étais avisé(e)
+tu étais avisé(e)
+il (elle) était avisé(e)
+nous étions avisé(e)s
+vous étiez avisé(e)s
+ils (elles) étaient avisé(e)s
+
+** Passé simple
+
+je fus avisé(e)
+tu fus avisé(e)
+il (elle) fut avisé(e)
+nous fûmes avisé(e)s
+vous fûtes avisé(e)s
+ils (elles) furent avisé(e)s
+
+** Futur simple
+
+je serai avisé(e)
+tu seras avisé(e)
+il (elle) sera avisé(e)
+nous serons avisé(e)s
+vous serez avisé(e)s
+ils (elles) seront avisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais avisé(e)
+tu serais avisé(e)
+il (elle) serait avisé(e)
+nous serions avisé(e)s
+vous seriez avisé(e)s
+ils (elles) seraient avisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois avisé(e)
+que tu sois avisé(e)
+qu’il (elle) soit avisé(e)
+que nous soyons avisé(e)s
+que vous soyez avisé(e)s
+qu’ils (elles) soient avisé(e)s
+
+** Imparfait
+
+que je fusse avisé(e)
+que tu fusses avisé(e)
+qu’il (elle) fût avisé(e)
+que nous fussions avisé(e)s
+que vous fussiez avisé(e)s
+qu’ils (elles) fussent avisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons avisé(e)s
+soyez avisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être avisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant avisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été avisé(e)
+tu as été avisé(e)
+il (elle) a été avisé(e)
+nous avons été avisé(e)s
+vous avez été avisé(e)s
+ils (elles) ont été avisé(e)s
+
+** Plus-que-parfait
+
+j'avais été avisé(e)
+il (elle) avait été avisé(e)
+nous avions été avisé(e)s
+ils (elles) avaient été avisé(e)s
+
+** Passé antérieur
+
+j'eus été avisé(e)
+tu eus été avisé(e)
+il (elle) eut été avisé(e)
+nous eûmes été avisé(e)s
+vous eûtes été avisé(e)s
+ils (elles) eurent été avisé(e)s
+
+** Futur antérieur
+
+j'aurai été avisé(e)
+tu auras été avisé(e)
+il (elle) aura été avisé(e)
+nous aurons été avisé(e)s
+vous aurez été avisé(e)s
+ils (elles) auront été avisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été avisé(e)
+j'aurais été avisé(e)
+il (elle) aurait été avisé(e)
+nous aurions été avisé(e)s
+vous auriez été avisé(e)s
+ils (elles) auraient été avisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été avisé(e)
+que tu aies été avisé(e)
+qu’il (elle) ait été avisé(e)
+que nous ayons été avisé(e)s
+que vous ayez été avisé(e)s
+qu’ils (elles) aient été avisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été avisé(e)
+que tu eusses été avisé(e)
+qu’il (elle) eût été avisé(e)
+que nous eussions été avisé(e)s
+que vous eussiez été avisé(e)s
+qu’ils (elles) eussent été avisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été avisé(e)
+ayons été avisé(e)s
+ayez été avisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été avisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été avisé(e)(s)

@@ -1,0 +1,336 @@
+#+title: Conjugaison du verbe extraire
+
+* INDICATIF
+
+** Présent
+
+j'extrais
+tu extrais
+il (elle) extrait
+nous extrayons
+vous extrayez
+ils (elles) extraient
+
+** Imparfait
+
+j'extrayais
+tu extrayais
+il (elle) extrayait
+nous extrayions
+vous extrayiez
+ils (elles) extrayaient
+
+** Futur simple
+
+j'extrairai
+tu extrairas
+il (elle) extraira
+nous extrairons
+vous extrairez
+ils (elles) extrairont
+
+* CONDITIONNEL
+
+** Présent
+
+j'extrairais
+tu extrairais
+il (elle) extrairait
+nous extrairions
+vous extrairiez
+ils (elles) extrairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'extraie
+que tu extraies
+qu’il (elle) extraie
+que nous extrayions
+que vous extrayiez
+qu’ils (elles) extraient
+
+* IMPÉRATIF
+
+** Présent
+
+extrais
+extrayons
+extrayez
+
+* INFINITIF
+
+** Présent
+
+extraire
+
+* PARTICIPE
+
+** Présent
+
+extrayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai extrait
+tu as extrait
+il (elle) a extrait
+nous avons extrait
+vous avez extrait
+ils (elles) ont extrait
+
+** Plus-que-parfait
+
+j'avais extrait
+tu avais extrait
+il (elle) avait extrait
+nous avions extrait
+vous aviez extrait
+ils (elles) avaient extrait
+
+** Passé antérieur
+
+j'eus extrait
+tu eus extrait
+il (elle) eut extrait
+nous eûmes extrait
+vous eûtes extrait
+ils (elles) eurent extrait
+
+** Futur antérieur
+
+j'aurai extrait
+tu auras extrait
+il (elle) aura extrait
+nous aurons extrait
+vous aurez extrait
+ils (elles) auront extrait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais extrait
+tu aurais extrait
+il (elle) aurait extrait
+nous aurions extrait
+vous auriez extrait
+ils (elles) auraient extrait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie extrait
+que tu aies extrait
+qu’il (elle) ait extrait
+que nous ayons extrait
+que vous ayez extrait
+qu’ils (elles) aient extrait
+
+** Plus-que-parfait
+
+que j'eusse extrait
+que tu eusses extrait
+qu’il (elle) eût extrait
+que nous eussions extrait
+que vous eussiez extrait
+qu’ils (elles) eussent extrait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons extrait
+ayez extrait
+
+* INFINITIF
+
+** Passé
+
+avoir extrait
+
+* PARTICIPE
+
+** Passé
+
+ayant extrait
+extrait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis extrait(e)
+tu es extrait(e)
+il (elle) est extrait(e)
+nous sommes extrait(e)s
+vous êtes extrait(e)s
+ils (elles) sont extrait(e)s
+
+** Imparfait
+
+j'étais extrait(e)
+tu étais extrait(e)
+il (elle) était extrait(e)
+nous étions extrait(e)s
+vous étiez extrait(e)s
+ils (elles) étaient extrait(e)s
+
+** Passé simple
+
+je fus extrait(e)
+tu fus extrait(e)
+il (elle) fut extrait(e)
+nous fûmes extrait(e)s
+vous fûtes extrait(e)s
+ils (elles) furent extrait(e)s
+
+** Futur simple
+
+je serai extrait(e)
+tu seras extrait(e)
+il (elle) sera extrait(e)
+nous serons extrait(e)s
+vous serez extrait(e)s
+ils (elles) seront extrait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais extrait(e)
+tu serais extrait(e)
+il (elle) serait extrait(e)
+nous serions extrait(e)s
+vous seriez extrait(e)s
+ils (elles) seraient extrait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois extrait(e)
+que tu sois extrait(e)
+qu’il (elle) soit extrait(e)
+que nous soyons extrait(e)s
+que vous soyez extrait(e)s
+qu’ils (elles) soient extrait(e)s
+
+** Imparfait
+
+que je fusse extrait(e)
+que tu fusses extrait(e)
+qu’il (elle) fût extrait(e)
+que nous fussions extrait(e)s
+que vous fussiez extrait(e)s
+qu’ils (elles) fussent extrait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons extrait(e)s
+soyez extrait(e)s
+
+* INFINITIF
+
+** Présent
+
+être extrait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant extrait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été extrait(e)
+tu as été extrait(e)
+il (elle) a été extrait(e)
+nous avons été extrait(e)s
+vous avez été extrait(e)s
+ils (elles) ont été extrait(e)s
+
+** Plus-que-parfait
+
+j'avais été extrait(e)
+il (elle) avait été extrait(e)
+nous avions été extrait(e)s
+ils (elles) avaient été extrait(e)s
+
+** Passé antérieur
+
+j'eus été extrait(e)
+tu eus été extrait(e)
+il (elle) eut été extrait(e)
+nous eûmes été extrait(e)s
+vous eûtes été extrait(e)s
+ils (elles) eurent été extrait(e)s
+
+** Futur antérieur
+
+j'aurai été extrait(e)
+tu auras été extrait(e)
+il (elle) aura été extrait(e)
+nous aurons été extrait(e)s
+vous aurez été extrait(e)s
+ils (elles) auront été extrait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été extrait(e)
+j'aurais été extrait(e)
+il (elle) aurait été extrait(e)
+nous aurions été extrait(e)s
+vous auriez été extrait(e)s
+ils (elles) auraient été extrait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été extrait(e)
+que tu aies été extrait(e)
+qu’il (elle) ait été extrait(e)
+que nous ayons été extrait(e)s
+que vous ayez été extrait(e)s
+qu’ils (elles) aient été extrait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été extrait(e)
+que tu eusses été extrait(e)
+qu’il (elle) eût été extrait(e)
+que nous eussions été extrait(e)s
+que vous eussiez été extrait(e)s
+qu’ils (elles) eussent été extrait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été extrait(e)
+ayons été extrait(e)s
+ayez été extrait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été extrait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été extrait(e)(s)

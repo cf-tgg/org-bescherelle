@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe signaler
+
+* INDICATIF
+
+** Présent
+
+je signale
+tu signales
+il (elle) signale
+nous signalons
+vous signalez
+ils (elles) signalent
+
+** Imparfait
+
+je signalais
+tu signalais
+il (elle) signalait
+nous signalions
+vous signaliez
+ils (elles) signalaient
+
+** Passé simple
+
+je signalai
+tu signalas
+il (elle) signala
+nous signalâmes
+vous signalâtes
+ils (elles) signalèrent
+
+** Futur simple
+
+je signalerai
+tu signaleras
+il (elle) signalera
+nous signalerons
+vous signalerez
+ils (elles) signaleront
+
+* CONDITIONNEL
+
+** Présent
+
+je signalerais
+tu signalerais
+il (elle) signalerait
+nous signalerions
+vous signaleriez
+ils (elles) signaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je signale
+que tu signales
+qu’il (elle) signale
+que nous signalions
+que vous signaliez
+qu’ils (elles) signalent
+
+** Imparfait
+
+que je signalasse
+que tu signalasses
+qu’il (elle) signalât
+que nous signalassions
+que vous signalassiez
+qu’ils (elles) signalassent
+
+* IMPÉRATIF
+
+** Présent
+
+signale
+signalons
+signalez
+
+* INFINITIF
+
+** Présent
+
+signaler
+
+* PARTICIPE
+
+** Présent
+
+signalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai signalé
+tu as signalé
+il (elle) a signalé
+nous avons signalé
+vous avez signalé
+ils (elles) ont signalé
+
+** Plus-que-parfait
+
+j'avais signalé
+tu avais signalé
+il (elle) avait signalé
+nous avions signalé
+vous aviez signalé
+ils (elles) avaient signalé
+
+** Passé antérieur
+
+j'eus signalé
+tu eus signalé
+il (elle) eut signalé
+nous eûmes signalé
+vous eûtes signalé
+ils (elles) eurent signalé
+
+** Futur antérieur
+
+j'aurai signalé
+tu auras signalé
+il (elle) aura signalé
+nous aurons signalé
+vous aurez signalé
+ils (elles) auront signalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais signalé
+tu aurais signalé
+il (elle) aurait signalé
+nous aurions signalé
+vous auriez signalé
+ils (elles) auraient signalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie signalé
+que tu aies signalé
+qu’il (elle) ait signalé
+que nous ayons signalé
+que vous ayez signalé
+qu’ils (elles) aient signalé
+
+** Plus-que-parfait
+
+que j'eusse signalé
+que tu eusses signalé
+qu’il (elle) eût signalé
+que nous eussions signalé
+que vous eussiez signalé
+qu’ils (elles) eussent signalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons signalé
+ayez signalé
+
+* INFINITIF
+
+** Passé
+
+avoir signalé
+
+* PARTICIPE
+
+** Passé
+
+ayant signalé
+signalé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis signalé(e)
+tu es signalé(e)
+il (elle) est signalé(e)
+nous sommes signalé(e)s
+vous êtes signalé(e)s
+ils (elles) sont signalé(e)s
+
+** Imparfait
+
+j'étais signalé(e)
+tu étais signalé(e)
+il (elle) était signalé(e)
+nous étions signalé(e)s
+vous étiez signalé(e)s
+ils (elles) étaient signalé(e)s
+
+** Passé simple
+
+je fus signalé(e)
+tu fus signalé(e)
+il (elle) fut signalé(e)
+nous fûmes signalé(e)s
+vous fûtes signalé(e)s
+ils (elles) furent signalé(e)s
+
+** Futur simple
+
+je serai signalé(e)
+tu seras signalé(e)
+il (elle) sera signalé(e)
+nous serons signalé(e)s
+vous serez signalé(e)s
+ils (elles) seront signalé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais signalé(e)
+tu serais signalé(e)
+il (elle) serait signalé(e)
+nous serions signalé(e)s
+vous seriez signalé(e)s
+ils (elles) seraient signalé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois signalé(e)
+que tu sois signalé(e)
+qu’il (elle) soit signalé(e)
+que nous soyons signalé(e)s
+que vous soyez signalé(e)s
+qu’ils (elles) soient signalé(e)s
+
+** Imparfait
+
+que je fusse signalé(e)
+que tu fusses signalé(e)
+qu’il (elle) fût signalé(e)
+que nous fussions signalé(e)s
+que vous fussiez signalé(e)s
+qu’ils (elles) fussent signalé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons signalé(e)s
+soyez signalé(e)s
+
+* INFINITIF
+
+** Présent
+
+être signalé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant signalé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été signalé(e)
+tu as été signalé(e)
+il (elle) a été signalé(e)
+nous avons été signalé(e)s
+vous avez été signalé(e)s
+ils (elles) ont été signalé(e)s
+
+** Plus-que-parfait
+
+j'avais été signalé(e)
+il (elle) avait été signalé(e)
+nous avions été signalé(e)s
+ils (elles) avaient été signalé(e)s
+
+** Passé antérieur
+
+j'eus été signalé(e)
+tu eus été signalé(e)
+il (elle) eut été signalé(e)
+nous eûmes été signalé(e)s
+vous eûtes été signalé(e)s
+ils (elles) eurent été signalé(e)s
+
+** Futur antérieur
+
+j'aurai été signalé(e)
+tu auras été signalé(e)
+il (elle) aura été signalé(e)
+nous aurons été signalé(e)s
+vous aurez été signalé(e)s
+ils (elles) auront été signalé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été signalé(e)
+j'aurais été signalé(e)
+il (elle) aurait été signalé(e)
+nous aurions été signalé(e)s
+vous auriez été signalé(e)s
+ils (elles) auraient été signalé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été signalé(e)
+que tu aies été signalé(e)
+qu’il (elle) ait été signalé(e)
+que nous ayons été signalé(e)s
+que vous ayez été signalé(e)s
+qu’ils (elles) aient été signalé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été signalé(e)
+que tu eusses été signalé(e)
+qu’il (elle) eût été signalé(e)
+que nous eussions été signalé(e)s
+que vous eussiez été signalé(e)s
+qu’ils (elles) eussent été signalé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été signalé(e)
+ayons été signalé(e)s
+ayez été signalé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été signalé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été signalé(e)(s)

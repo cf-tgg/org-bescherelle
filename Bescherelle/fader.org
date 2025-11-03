@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fader
+
+* INDICATIF
+
+** Présent
+
+je fade
+tu fades
+il (elle) fade
+nous fadons
+vous fadez
+ils (elles) fadent
+
+** Imparfait
+
+je fadais
+tu fadais
+il (elle) fadait
+nous fadions
+vous fadiez
+ils (elles) fadaient
+
+** Passé simple
+
+je fadai
+tu fadas
+il (elle) fada
+nous fadâmes
+vous fadâtes
+ils (elles) fadèrent
+
+** Futur simple
+
+je faderai
+tu faderas
+il (elle) fadera
+nous faderons
+vous faderez
+ils (elles) faderont
+
+* CONDITIONNEL
+
+** Présent
+
+je faderais
+tu faderais
+il (elle) faderait
+nous faderions
+vous faderiez
+ils (elles) faderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fade
+que tu fades
+qu’il (elle) fade
+que nous fadions
+que vous fadiez
+qu’ils (elles) fadent
+
+** Imparfait
+
+que je fadasse
+que tu fadasses
+qu’il (elle) fadât
+que nous fadassions
+que vous fadassiez
+qu’ils (elles) fadassent
+
+* IMPÉRATIF
+
+** Présent
+
+fade
+fadons
+fadez
+
+* INFINITIF
+
+** Présent
+
+fader
+
+* PARTICIPE
+
+** Présent
+
+fadant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fadé
+tu as fadé
+il (elle) a fadé
+nous avons fadé
+vous avez fadé
+ils (elles) ont fadé
+
+** Plus-que-parfait
+
+j'avais fadé
+tu avais fadé
+il (elle) avait fadé
+nous avions fadé
+vous aviez fadé
+ils (elles) avaient fadé
+
+** Passé antérieur
+
+j'eus fadé
+tu eus fadé
+il (elle) eut fadé
+nous eûmes fadé
+vous eûtes fadé
+ils (elles) eurent fadé
+
+** Futur antérieur
+
+j'aurai fadé
+tu auras fadé
+il (elle) aura fadé
+nous aurons fadé
+vous aurez fadé
+ils (elles) auront fadé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fadé
+tu aurais fadé
+il (elle) aurait fadé
+nous aurions fadé
+vous auriez fadé
+ils (elles) auraient fadé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fadé
+que tu aies fadé
+qu’il (elle) ait fadé
+que nous ayons fadé
+que vous ayez fadé
+qu’ils (elles) aient fadé
+
+** Plus-que-parfait
+
+que j'eusse fadé
+que tu eusses fadé
+qu’il (elle) eût fadé
+que nous eussions fadé
+que vous eussiez fadé
+qu’ils (elles) eussent fadé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fadé
+ayez fadé
+
+* INFINITIF
+
+** Passé
+
+avoir fadé
+
+* PARTICIPE
+
+** Passé
+
+ayant fadé
+fadé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fadé(e)
+tu es fadé(e)
+il (elle) est fadé(e)
+nous sommes fadé(e)s
+vous êtes fadé(e)s
+ils (elles) sont fadé(e)s
+
+** Imparfait
+
+j'étais fadé(e)
+tu étais fadé(e)
+il (elle) était fadé(e)
+nous étions fadé(e)s
+vous étiez fadé(e)s
+ils (elles) étaient fadé(e)s
+
+** Passé simple
+
+je fus fadé(e)
+tu fus fadé(e)
+il (elle) fut fadé(e)
+nous fûmes fadé(e)s
+vous fûtes fadé(e)s
+ils (elles) furent fadé(e)s
+
+** Futur simple
+
+je serai fadé(e)
+tu seras fadé(e)
+il (elle) sera fadé(e)
+nous serons fadé(e)s
+vous serez fadé(e)s
+ils (elles) seront fadé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fadé(e)
+tu serais fadé(e)
+il (elle) serait fadé(e)
+nous serions fadé(e)s
+vous seriez fadé(e)s
+ils (elles) seraient fadé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fadé(e)
+que tu sois fadé(e)
+qu’il (elle) soit fadé(e)
+que nous soyons fadé(e)s
+que vous soyez fadé(e)s
+qu’ils (elles) soient fadé(e)s
+
+** Imparfait
+
+que je fusse fadé(e)
+que tu fusses fadé(e)
+qu’il (elle) fût fadé(e)
+que nous fussions fadé(e)s
+que vous fussiez fadé(e)s
+qu’ils (elles) fussent fadé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fadé(e)s
+soyez fadé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fadé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fadé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fadé(e)
+tu as été fadé(e)
+il (elle) a été fadé(e)
+nous avons été fadé(e)s
+vous avez été fadé(e)s
+ils (elles) ont été fadé(e)s
+
+** Plus-que-parfait
+
+j'avais été fadé(e)
+il (elle) avait été fadé(e)
+nous avions été fadé(e)s
+ils (elles) avaient été fadé(e)s
+
+** Passé antérieur
+
+j'eus été fadé(e)
+tu eus été fadé(e)
+il (elle) eut été fadé(e)
+nous eûmes été fadé(e)s
+vous eûtes été fadé(e)s
+ils (elles) eurent été fadé(e)s
+
+** Futur antérieur
+
+j'aurai été fadé(e)
+tu auras été fadé(e)
+il (elle) aura été fadé(e)
+nous aurons été fadé(e)s
+vous aurez été fadé(e)s
+ils (elles) auront été fadé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fadé(e)
+j'aurais été fadé(e)
+il (elle) aurait été fadé(e)
+nous aurions été fadé(e)s
+vous auriez été fadé(e)s
+ils (elles) auraient été fadé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fadé(e)
+que tu aies été fadé(e)
+qu’il (elle) ait été fadé(e)
+que nous ayons été fadé(e)s
+que vous ayez été fadé(e)s
+qu’ils (elles) aient été fadé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fadé(e)
+que tu eusses été fadé(e)
+qu’il (elle) eût été fadé(e)
+que nous eussions été fadé(e)s
+que vous eussiez été fadé(e)s
+qu’ils (elles) eussent été fadé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fadé(e)
+ayons été fadé(e)s
+ayez été fadé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fadé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fadé(e)(s)

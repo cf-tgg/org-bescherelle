@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe monter
+
+* INDICATIF
+
+** Présent
+
+je monte
+tu montes
+il (elle) monte
+nous montons
+vous montez
+ils (elles) montent
+
+** Imparfait
+
+je montais
+tu montais
+il (elle) montait
+nous montions
+vous montiez
+ils (elles) montaient
+
+** Passé simple
+
+je montai
+tu montas
+il (elle) monta
+nous montâmes
+vous montâtes
+ils (elles) montèrent
+
+** Futur simple
+
+je monterai
+tu monteras
+il (elle) montera
+nous monterons
+vous monterez
+ils (elles) monteront
+
+* CONDITIONNEL
+
+** Présent
+
+je monterais
+tu monterais
+il (elle) monterait
+nous monterions
+vous monteriez
+ils (elles) monteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je monte
+que tu montes
+qu’il (elle) monte
+que nous montions
+que vous montiez
+qu’ils (elles) montent
+
+** Imparfait
+
+que je montasse
+que tu montasses
+qu’il (elle) montât
+que nous montassions
+que vous montassiez
+qu’ils (elles) montassent
+
+* IMPÉRATIF
+
+** Présent
+
+monte
+montons
+montez
+
+* INFINITIF
+
+** Présent
+
+monter
+
+* PARTICIPE
+
+** Présent
+
+montant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis monté(e)
+tu as ou es monté(e)
+il (elle) a ou est monté(e)
+nous avons ou sommes monté(e)s
+vous avez ou êtes monté(e)s
+ils (elles) ont ou sont monté(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais monté(e)
+tu avais ou étais monté(e)
+il (elle) avait ou était monté(e)
+nous avions ou étions monté(e)s
+vous aviez ou étiez monté(e)s
+ils (elles) avaient ou étaient monté(e)s
+
+** Passé antérieur
+
+j'eus ou fus monté(e)
+tu eus ou fus monté(e)
+il (elle) eut ou fut monté(e)
+nous eûmes ou fûmes monté(e)s
+vous eûtes ou fûtes monté(e)s
+ils (elles) eurent ou furent monté(e)s
+
+** Futur antérieur
+
+j'aurai ou serai monté(e)
+tu auras ou seras monté(e)
+il (elle) aura ou sera monté(e)
+nous aurons ou serons monté(e)s
+vous aurez ou serez monté(e)s
+ils (elles) auront ou seront monté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais monté(e)
+tu aurais ou serais monté(e)
+il (elle) aurait ou serait monté(e)
+nous aurions ou serions monté(e)s
+vous auriez ou seriez monté(e)s
+ils (elles) auraient ou seraient monté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois monté(e)
+que tu aies ou sois monté(e)
+qu’il (elle) ait ou soit monté(e)
+que nous ayons ou soyons monté(e)s
+que vous ayez ou soyez monté(e)s
+qu’ils (elles) aient ou soient monté(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse monté(e)
+que tu eusses ou fusses monté(e)
+qu’il (elle) eût ou fût monté(e)
+que nous eussions ou fussions monté(e)s
+que vous eussiez ou fussiez monté(e)s
+qu’ils (elles) eussent ou fussent monté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons monté(e)s
+ayez ou soyez monté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être monté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant monté(e)(s)
+monté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis monté(e)
+tu es monté(e)
+il (elle) est monté(e)
+nous sommes monté(e)s
+vous êtes monté(e)s
+ils (elles) sont monté(e)s
+
+** Imparfait
+
+j'étais monté(e)
+tu étais monté(e)
+il (elle) était monté(e)
+nous étions monté(e)s
+vous étiez monté(e)s
+ils (elles) étaient monté(e)s
+
+** Passé simple
+
+je fus monté(e)
+tu fus monté(e)
+il (elle) fut monté(e)
+nous fûmes monté(e)s
+vous fûtes monté(e)s
+ils (elles) furent monté(e)s
+
+** Futur simple
+
+je serai monté(e)
+tu seras monté(e)
+il (elle) sera monté(e)
+nous serons monté(e)s
+vous serez monté(e)s
+ils (elles) seront monté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais monté(e)
+tu serais monté(e)
+il (elle) serait monté(e)
+nous serions monté(e)s
+vous seriez monté(e)s
+ils (elles) seraient monté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois monté(e)
+que tu sois monté(e)
+qu’il (elle) soit monté(e)
+que nous soyons monté(e)s
+que vous soyez monté(e)s
+qu’ils (elles) soient monté(e)s
+
+** Imparfait
+
+que je fusse monté(e)
+que tu fusses monté(e)
+qu’il (elle) fût monté(e)
+que nous fussions monté(e)s
+que vous fussiez monté(e)s
+qu’ils (elles) fussent monté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons monté(e)s
+soyez monté(e)s
+
+* INFINITIF
+
+** Présent
+
+être monté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant monté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été monté(e)
+tu as été monté(e)
+il (elle) a été monté(e)
+nous avons été monté(e)s
+vous avez été monté(e)s
+ils (elles) ont été monté(e)s
+
+** Plus-que-parfait
+
+j'avais été monté(e)
+il (elle) avait été monté(e)
+nous avions été monté(e)s
+ils (elles) avaient été monté(e)s
+
+** Passé antérieur
+
+j'eus été monté(e)
+tu eus été monté(e)
+il (elle) eut été monté(e)
+nous eûmes été monté(e)s
+vous eûtes été monté(e)s
+ils (elles) eurent été monté(e)s
+
+** Futur antérieur
+
+j'aurai été monté(e)
+tu auras été monté(e)
+il (elle) aura été monté(e)
+nous aurons été monté(e)s
+vous aurez été monté(e)s
+ils (elles) auront été monté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été monté(e)
+j'aurais été monté(e)
+il (elle) aurait été monté(e)
+nous aurions été monté(e)s
+vous auriez été monté(e)s
+ils (elles) auraient été monté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été monté(e)
+que tu aies été monté(e)
+qu’il (elle) ait été monté(e)
+que nous ayons été monté(e)s
+que vous ayez été monté(e)s
+qu’ils (elles) aient été monté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été monté(e)
+que tu eusses été monté(e)
+qu’il (elle) eût été monté(e)
+que nous eussions été monté(e)s
+que vous eussiez été monté(e)s
+qu’ils (elles) eussent été monté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été monté(e)
+ayons été monté(e)s
+ayez été monté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été monté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été monté(e)(s)

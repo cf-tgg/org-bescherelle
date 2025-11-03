@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe resider
+
+* INDICATIF
+
+** Présent
+
+je réside
+tu résides
+il (elle) réside
+nous résidons
+vous résidez
+ils (elles) résident
+
+** Imparfait
+
+je résidais
+tu résidais
+il (elle) résidait
+nous résidions
+vous résidiez
+ils (elles) résidaient
+
+** Passé simple
+
+je résidai
+tu résidas
+il (elle) résida
+nous résidâmes
+vous résidâtes
+ils (elles) résidèrent
+
+** Futur simple
+
+je résiderai
+tu résideras
+il (elle) résidera
+nous résiderons
+vous résiderez
+ils (elles) résideront
+
+* CONDITIONNEL
+
+** Présent
+
+je résiderais
+tu résiderais
+il (elle) résiderait
+nous résiderions
+vous résideriez
+ils (elles) résideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réside
+que tu résides
+qu’il (elle) réside
+que nous résidions
+que vous résidiez
+qu’ils (elles) résident
+
+** Imparfait
+
+que je résidasse
+que tu résidasses
+qu’il (elle) résidât
+que nous résidassions
+que vous résidassiez
+qu’ils (elles) résidassent
+
+* IMPÉRATIF
+
+** Présent
+
+réside
+résidons
+résidez
+
+* INFINITIF
+
+** Présent
+
+résider
+
+* PARTICIPE
+
+** Présent
+
+résidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai résidé
+tu as résidé
+il (elle) a résidé
+nous avons résidé
+vous avez résidé
+ils (elles) ont résidé
+
+** Plus-que-parfait
+
+j'avais résidé
+tu avais résidé
+il (elle) avait résidé
+nous avions résidé
+vous aviez résidé
+ils (elles) avaient résidé
+
+** Passé antérieur
+
+j'eus résidé
+tu eus résidé
+il (elle) eut résidé
+nous eûmes résidé
+vous eûtes résidé
+ils (elles) eurent résidé
+
+** Futur antérieur
+
+j'aurai résidé
+tu auras résidé
+il (elle) aura résidé
+nous aurons résidé
+vous aurez résidé
+ils (elles) auront résidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais résidé
+tu aurais résidé
+il (elle) aurait résidé
+nous aurions résidé
+vous auriez résidé
+ils (elles) auraient résidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie résidé
+que tu aies résidé
+qu’il (elle) ait résidé
+que nous ayons résidé
+que vous ayez résidé
+qu’ils (elles) aient résidé
+
+** Plus-que-parfait
+
+que j'eusse résidé
+que tu eusses résidé
+qu’il (elle) eût résidé
+que nous eussions résidé
+que vous eussiez résidé
+qu’ils (elles) eussent résidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons résidé
+ayez résidé
+
+* INFINITIF
+
+** Passé
+
+avoir résidé
+
+* PARTICIPE
+
+** Passé
+
+ayant résidé
+résidé (invar.)

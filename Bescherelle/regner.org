@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe regner
+
+* INDICATIF
+
+** Présent
+
+je règne
+tu règnes
+il (elle) règne
+nous régnons
+vous régnez
+ils (elles) règnent
+
+** Imparfait
+
+je régnais
+tu régnais
+il (elle) régnait
+nous régnions
+vous régniez
+ils (elles) régnaient
+
+** Passé simple
+
+je régnai
+tu régnas
+il (elle) régna
+nous régnâmes
+vous régnâtes
+ils (elles) régnèrent
+
+** Futur simple
+
+je régnerai
+tu régneras
+il (elle) régnera
+nous régnerons
+vous régnerez
+ils (elles) régneront
+
+* CONDITIONNEL
+
+** Présent
+
+je régnerais
+tu régnerais
+il (elle) régnerait
+nous régnerions
+vous régneriez
+ils (elles) régneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je règne
+que tu règnes
+qu’il (elle) règne
+que nous régnions
+que vous régniez
+qu’ils (elles) règnent
+
+** Imparfait
+
+que je régnasse
+que tu régnasses
+qu’il (elle) régnât
+que nous régnassions
+que vous régnassiez
+qu’ils (elles) régnassent
+
+* IMPÉRATIF
+
+** Présent
+
+règne
+régnons
+régnez
+
+* INFINITIF
+
+** Présent
+
+régner
+
+* PARTICIPE
+
+** Présent
+
+régnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai régné
+tu as régné
+il (elle) a régné
+nous avons régné
+vous avez régné
+ils (elles) ont régné
+
+** Plus-que-parfait
+
+j'avais régné
+tu avais régné
+il (elle) avait régné
+nous avions régné
+vous aviez régné
+ils (elles) avaient régné
+
+** Passé antérieur
+
+j'eus régné
+tu eus régné
+il (elle) eut régné
+nous eûmes régné
+vous eûtes régné
+ils (elles) eurent régné
+
+** Futur antérieur
+
+j'aurai régné
+tu auras régné
+il (elle) aura régné
+nous aurons régné
+vous aurez régné
+ils (elles) auront régné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais régné
+tu aurais régné
+il (elle) aurait régné
+nous aurions régné
+vous auriez régné
+ils (elles) auraient régné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie régné
+que tu aies régné
+qu’il (elle) ait régné
+que nous ayons régné
+que vous ayez régné
+qu’ils (elles) aient régné
+
+** Plus-que-parfait
+
+que j'eusse régné
+que tu eusses régné
+qu’il (elle) eût régné
+que nous eussions régné
+que vous eussiez régné
+qu’ils (elles) eussent régné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons régné
+ayez régné
+
+* INFINITIF
+
+** Passé
+
+avoir régné
+
+* PARTICIPE
+
+** Passé
+
+ayant régné
+régné (invar.)

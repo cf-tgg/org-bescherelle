@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe postuler
+
+* INDICATIF
+
+** Présent
+
+je postule
+tu postules
+il (elle) postule
+nous postulons
+vous postulez
+ils (elles) postulent
+
+** Imparfait
+
+je postulais
+tu postulais
+il (elle) postulait
+nous postulions
+vous postuliez
+ils (elles) postulaient
+
+** Passé simple
+
+je postulai
+tu postulas
+il (elle) postula
+nous postulâmes
+vous postulâtes
+ils (elles) postulèrent
+
+** Futur simple
+
+je postulerai
+tu postuleras
+il (elle) postulera
+nous postulerons
+vous postulerez
+ils (elles) postuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je postulerais
+tu postulerais
+il (elle) postulerait
+nous postulerions
+vous postuleriez
+ils (elles) postuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je postule
+que tu postules
+qu’il (elle) postule
+que nous postulions
+que vous postuliez
+qu’ils (elles) postulent
+
+** Imparfait
+
+que je postulasse
+que tu postulasses
+qu’il (elle) postulât
+que nous postulassions
+que vous postulassiez
+qu’ils (elles) postulassent
+
+* IMPÉRATIF
+
+** Présent
+
+postule
+postulons
+postulez
+
+* INFINITIF
+
+** Présent
+
+postuler
+
+* PARTICIPE
+
+** Présent
+
+postulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai postulé
+tu as postulé
+il (elle) a postulé
+nous avons postulé
+vous avez postulé
+ils (elles) ont postulé
+
+** Plus-que-parfait
+
+j'avais postulé
+tu avais postulé
+il (elle) avait postulé
+nous avions postulé
+vous aviez postulé
+ils (elles) avaient postulé
+
+** Passé antérieur
+
+j'eus postulé
+tu eus postulé
+il (elle) eut postulé
+nous eûmes postulé
+vous eûtes postulé
+ils (elles) eurent postulé
+
+** Futur antérieur
+
+j'aurai postulé
+tu auras postulé
+il (elle) aura postulé
+nous aurons postulé
+vous aurez postulé
+ils (elles) auront postulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais postulé
+tu aurais postulé
+il (elle) aurait postulé
+nous aurions postulé
+vous auriez postulé
+ils (elles) auraient postulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie postulé
+que tu aies postulé
+qu’il (elle) ait postulé
+que nous ayons postulé
+que vous ayez postulé
+qu’ils (elles) aient postulé
+
+** Plus-que-parfait
+
+que j'eusse postulé
+que tu eusses postulé
+qu’il (elle) eût postulé
+que nous eussions postulé
+que vous eussiez postulé
+qu’ils (elles) eussent postulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons postulé
+ayez postulé
+
+* INFINITIF
+
+** Passé
+
+avoir postulé
+
+* PARTICIPE
+
+** Passé
+
+ayant postulé
+postulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis postulé(e)
+tu es postulé(e)
+il (elle) est postulé(e)
+nous sommes postulé(e)s
+vous êtes postulé(e)s
+ils (elles) sont postulé(e)s
+
+** Imparfait
+
+j'étais postulé(e)
+tu étais postulé(e)
+il (elle) était postulé(e)
+nous étions postulé(e)s
+vous étiez postulé(e)s
+ils (elles) étaient postulé(e)s
+
+** Passé simple
+
+je fus postulé(e)
+tu fus postulé(e)
+il (elle) fut postulé(e)
+nous fûmes postulé(e)s
+vous fûtes postulé(e)s
+ils (elles) furent postulé(e)s
+
+** Futur simple
+
+je serai postulé(e)
+tu seras postulé(e)
+il (elle) sera postulé(e)
+nous serons postulé(e)s
+vous serez postulé(e)s
+ils (elles) seront postulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais postulé(e)
+tu serais postulé(e)
+il (elle) serait postulé(e)
+nous serions postulé(e)s
+vous seriez postulé(e)s
+ils (elles) seraient postulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois postulé(e)
+que tu sois postulé(e)
+qu’il (elle) soit postulé(e)
+que nous soyons postulé(e)s
+que vous soyez postulé(e)s
+qu’ils (elles) soient postulé(e)s
+
+** Imparfait
+
+que je fusse postulé(e)
+que tu fusses postulé(e)
+qu’il (elle) fût postulé(e)
+que nous fussions postulé(e)s
+que vous fussiez postulé(e)s
+qu’ils (elles) fussent postulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons postulé(e)s
+soyez postulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être postulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant postulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été postulé(e)
+tu as été postulé(e)
+il (elle) a été postulé(e)
+nous avons été postulé(e)s
+vous avez été postulé(e)s
+ils (elles) ont été postulé(e)s
+
+** Plus-que-parfait
+
+j'avais été postulé(e)
+il (elle) avait été postulé(e)
+nous avions été postulé(e)s
+ils (elles) avaient été postulé(e)s
+
+** Passé antérieur
+
+j'eus été postulé(e)
+tu eus été postulé(e)
+il (elle) eut été postulé(e)
+nous eûmes été postulé(e)s
+vous eûtes été postulé(e)s
+ils (elles) eurent été postulé(e)s
+
+** Futur antérieur
+
+j'aurai été postulé(e)
+tu auras été postulé(e)
+il (elle) aura été postulé(e)
+nous aurons été postulé(e)s
+vous aurez été postulé(e)s
+ils (elles) auront été postulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été postulé(e)
+j'aurais été postulé(e)
+il (elle) aurait été postulé(e)
+nous aurions été postulé(e)s
+vous auriez été postulé(e)s
+ils (elles) auraient été postulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été postulé(e)
+que tu aies été postulé(e)
+qu’il (elle) ait été postulé(e)
+que nous ayons été postulé(e)s
+que vous ayez été postulé(e)s
+qu’ils (elles) aient été postulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été postulé(e)
+que tu eusses été postulé(e)
+qu’il (elle) eût été postulé(e)
+que nous eussions été postulé(e)s
+que vous eussiez été postulé(e)s
+qu’ils (elles) eussent été postulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été postulé(e)
+ayons été postulé(e)s
+ayez été postulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été postulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été postulé(e)(s)

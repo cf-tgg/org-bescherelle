@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe compter
+
+* INDICATIF
+
+** Présent
+
+je compte
+tu comptes
+il (elle) compte
+nous comptons
+vous comptez
+ils (elles) comptent
+
+** Imparfait
+
+je comptais
+tu comptais
+il (elle) comptait
+nous comptions
+vous comptiez
+ils (elles) comptaient
+
+** Passé simple
+
+je comptai
+tu comptas
+il (elle) compta
+nous comptâmes
+vous comptâtes
+ils (elles) comptèrent
+
+** Futur simple
+
+je compterai
+tu compteras
+il (elle) comptera
+nous compterons
+vous compterez
+ils (elles) compteront
+
+* CONDITIONNEL
+
+** Présent
+
+je compterais
+tu compterais
+il (elle) compterait
+nous compterions
+vous compteriez
+ils (elles) compteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compte
+que tu comptes
+qu’il (elle) compte
+que nous comptions
+que vous comptiez
+qu’ils (elles) comptent
+
+** Imparfait
+
+que je comptasse
+que tu comptasses
+qu’il (elle) comptât
+que nous comptassions
+que vous comptassiez
+qu’ils (elles) comptassent
+
+* IMPÉRATIF
+
+** Présent
+
+compte
+comptons
+comptez
+
+* INFINITIF
+
+** Présent
+
+compter
+
+* PARTICIPE
+
+** Présent
+
+comptant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai compté
+tu as compté
+il (elle) a compté
+nous avons compté
+vous avez compté
+ils (elles) ont compté
+
+** Plus-que-parfait
+
+j'avais compté
+tu avais compté
+il (elle) avait compté
+nous avions compté
+vous aviez compté
+ils (elles) avaient compté
+
+** Passé antérieur
+
+j'eus compté
+tu eus compté
+il (elle) eut compté
+nous eûmes compté
+vous eûtes compté
+ils (elles) eurent compté
+
+** Futur antérieur
+
+j'aurai compté
+tu auras compté
+il (elle) aura compté
+nous aurons compté
+vous aurez compté
+ils (elles) auront compté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais compté
+tu aurais compté
+il (elle) aurait compté
+nous aurions compté
+vous auriez compté
+ils (elles) auraient compté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie compté
+que tu aies compté
+qu’il (elle) ait compté
+que nous ayons compté
+que vous ayez compté
+qu’ils (elles) aient compté
+
+** Plus-que-parfait
+
+que j'eusse compté
+que tu eusses compté
+qu’il (elle) eût compté
+que nous eussions compté
+que vous eussiez compté
+qu’ils (elles) eussent compté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons compté
+ayez compté
+
+* INFINITIF
+
+** Passé
+
+avoir compté
+
+* PARTICIPE
+
+** Passé
+
+ayant compté
+compté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis compté(e)
+tu es compté(e)
+il (elle) est compté(e)
+nous sommes compté(e)s
+vous êtes compté(e)s
+ils (elles) sont compté(e)s
+
+** Imparfait
+
+j'étais compté(e)
+tu étais compté(e)
+il (elle) était compté(e)
+nous étions compté(e)s
+vous étiez compté(e)s
+ils (elles) étaient compté(e)s
+
+** Passé simple
+
+je fus compté(e)
+tu fus compté(e)
+il (elle) fut compté(e)
+nous fûmes compté(e)s
+vous fûtes compté(e)s
+ils (elles) furent compté(e)s
+
+** Futur simple
+
+je serai compté(e)
+tu seras compté(e)
+il (elle) sera compté(e)
+nous serons compté(e)s
+vous serez compté(e)s
+ils (elles) seront compté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais compté(e)
+tu serais compté(e)
+il (elle) serait compté(e)
+nous serions compté(e)s
+vous seriez compté(e)s
+ils (elles) seraient compté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois compté(e)
+que tu sois compté(e)
+qu’il (elle) soit compté(e)
+que nous soyons compté(e)s
+que vous soyez compté(e)s
+qu’ils (elles) soient compté(e)s
+
+** Imparfait
+
+que je fusse compté(e)
+que tu fusses compté(e)
+qu’il (elle) fût compté(e)
+que nous fussions compté(e)s
+que vous fussiez compté(e)s
+qu’ils (elles) fussent compté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons compté(e)s
+soyez compté(e)s
+
+* INFINITIF
+
+** Présent
+
+être compté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant compté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été compté(e)
+tu as été compté(e)
+il (elle) a été compté(e)
+nous avons été compté(e)s
+vous avez été compté(e)s
+ils (elles) ont été compté(e)s
+
+** Plus-que-parfait
+
+j'avais été compté(e)
+il (elle) avait été compté(e)
+nous avions été compté(e)s
+ils (elles) avaient été compté(e)s
+
+** Passé antérieur
+
+j'eus été compté(e)
+tu eus été compté(e)
+il (elle) eut été compté(e)
+nous eûmes été compté(e)s
+vous eûtes été compté(e)s
+ils (elles) eurent été compté(e)s
+
+** Futur antérieur
+
+j'aurai été compté(e)
+tu auras été compté(e)
+il (elle) aura été compté(e)
+nous aurons été compté(e)s
+vous aurez été compté(e)s
+ils (elles) auront été compté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été compté(e)
+j'aurais été compté(e)
+il (elle) aurait été compté(e)
+nous aurions été compté(e)s
+vous auriez été compté(e)s
+ils (elles) auraient été compté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été compté(e)
+que tu aies été compté(e)
+qu’il (elle) ait été compté(e)
+que nous ayons été compté(e)s
+que vous ayez été compté(e)s
+qu’ils (elles) aient été compté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été compté(e)
+que tu eusses été compté(e)
+qu’il (elle) eût été compté(e)
+que nous eussions été compté(e)s
+que vous eussiez été compté(e)s
+qu’ils (elles) eussent été compté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été compté(e)
+ayons été compté(e)s
+ayez été compté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été compté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été compté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cirer
+
+* INDICATIF
+
+** Présent
+
+je cire
+tu cires
+il (elle) cire
+nous cirons
+vous cirez
+ils (elles) cirent
+
+** Imparfait
+
+je cirais
+tu cirais
+il (elle) cirait
+nous cirions
+vous ciriez
+ils (elles) ciraient
+
+** Passé simple
+
+je cirai
+tu ciras
+il (elle) cira
+nous cirâmes
+vous cirâtes
+ils (elles) cirèrent
+
+** Futur simple
+
+je cirerai
+tu cireras
+il (elle) cirera
+nous cirerons
+vous cirerez
+ils (elles) cireront
+
+* CONDITIONNEL
+
+** Présent
+
+je cirerais
+tu cirerais
+il (elle) cirerait
+nous cirerions
+vous cireriez
+ils (elles) cireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cire
+que tu cires
+qu’il (elle) cire
+que nous cirions
+que vous ciriez
+qu’ils (elles) cirent
+
+** Imparfait
+
+que je cirasse
+que tu cirasses
+qu’il (elle) cirât
+que nous cirassions
+que vous cirassiez
+qu’ils (elles) cirassent
+
+* IMPÉRATIF
+
+** Présent
+
+cire
+cirons
+cirez
+
+* INFINITIF
+
+** Présent
+
+cirer
+
+* PARTICIPE
+
+** Présent
+
+cirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ciré
+tu as ciré
+il (elle) a ciré
+nous avons ciré
+vous avez ciré
+ils (elles) ont ciré
+
+** Plus-que-parfait
+
+j'avais ciré
+tu avais ciré
+il (elle) avait ciré
+nous avions ciré
+vous aviez ciré
+ils (elles) avaient ciré
+
+** Passé antérieur
+
+j'eus ciré
+tu eus ciré
+il (elle) eut ciré
+nous eûmes ciré
+vous eûtes ciré
+ils (elles) eurent ciré
+
+** Futur antérieur
+
+j'aurai ciré
+tu auras ciré
+il (elle) aura ciré
+nous aurons ciré
+vous aurez ciré
+ils (elles) auront ciré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ciré
+tu aurais ciré
+il (elle) aurait ciré
+nous aurions ciré
+vous auriez ciré
+ils (elles) auraient ciré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ciré
+que tu aies ciré
+qu’il (elle) ait ciré
+que nous ayons ciré
+que vous ayez ciré
+qu’ils (elles) aient ciré
+
+** Plus-que-parfait
+
+que j'eusse ciré
+que tu eusses ciré
+qu’il (elle) eût ciré
+que nous eussions ciré
+que vous eussiez ciré
+qu’ils (elles) eussent ciré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ciré
+ayez ciré
+
+* INFINITIF
+
+** Passé
+
+avoir ciré
+
+* PARTICIPE
+
+** Passé
+
+ayant ciré
+ciré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ciré(e)
+tu es ciré(e)
+il (elle) est ciré(e)
+nous sommes ciré(e)s
+vous êtes ciré(e)s
+ils (elles) sont ciré(e)s
+
+** Imparfait
+
+j'étais ciré(e)
+tu étais ciré(e)
+il (elle) était ciré(e)
+nous étions ciré(e)s
+vous étiez ciré(e)s
+ils (elles) étaient ciré(e)s
+
+** Passé simple
+
+je fus ciré(e)
+tu fus ciré(e)
+il (elle) fut ciré(e)
+nous fûmes ciré(e)s
+vous fûtes ciré(e)s
+ils (elles) furent ciré(e)s
+
+** Futur simple
+
+je serai ciré(e)
+tu seras ciré(e)
+il (elle) sera ciré(e)
+nous serons ciré(e)s
+vous serez ciré(e)s
+ils (elles) seront ciré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ciré(e)
+tu serais ciré(e)
+il (elle) serait ciré(e)
+nous serions ciré(e)s
+vous seriez ciré(e)s
+ils (elles) seraient ciré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ciré(e)
+que tu sois ciré(e)
+qu’il (elle) soit ciré(e)
+que nous soyons ciré(e)s
+que vous soyez ciré(e)s
+qu’ils (elles) soient ciré(e)s
+
+** Imparfait
+
+que je fusse ciré(e)
+que tu fusses ciré(e)
+qu’il (elle) fût ciré(e)
+que nous fussions ciré(e)s
+que vous fussiez ciré(e)s
+qu’ils (elles) fussent ciré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ciré(e)s
+soyez ciré(e)s
+
+* INFINITIF
+
+** Présent
+
+être ciré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ciré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ciré(e)
+tu as été ciré(e)
+il (elle) a été ciré(e)
+nous avons été ciré(e)s
+vous avez été ciré(e)s
+ils (elles) ont été ciré(e)s
+
+** Plus-que-parfait
+
+j'avais été ciré(e)
+il (elle) avait été ciré(e)
+nous avions été ciré(e)s
+ils (elles) avaient été ciré(e)s
+
+** Passé antérieur
+
+j'eus été ciré(e)
+tu eus été ciré(e)
+il (elle) eut été ciré(e)
+nous eûmes été ciré(e)s
+vous eûtes été ciré(e)s
+ils (elles) eurent été ciré(e)s
+
+** Futur antérieur
+
+j'aurai été ciré(e)
+tu auras été ciré(e)
+il (elle) aura été ciré(e)
+nous aurons été ciré(e)s
+vous aurez été ciré(e)s
+ils (elles) auront été ciré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ciré(e)
+j'aurais été ciré(e)
+il (elle) aurait été ciré(e)
+nous aurions été ciré(e)s
+vous auriez été ciré(e)s
+ils (elles) auraient été ciré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ciré(e)
+que tu aies été ciré(e)
+qu’il (elle) ait été ciré(e)
+que nous ayons été ciré(e)s
+que vous ayez été ciré(e)s
+qu’ils (elles) aient été ciré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ciré(e)
+que tu eusses été ciré(e)
+qu’il (elle) eût été ciré(e)
+que nous eussions été ciré(e)s
+que vous eussiez été ciré(e)s
+qu’ils (elles) eussent été ciré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ciré(e)
+ayons été ciré(e)s
+ayez été ciré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ciré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ciré(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe toiser
+
+* INDICATIF
+
+** Présent
+
+je toise
+tu toises
+il (elle) toise
+nous toisons
+vous toisez
+ils (elles) toisent
+
+** Imparfait
+
+je toisais
+tu toisais
+il (elle) toisait
+nous toisions
+vous toisiez
+ils (elles) toisaient
+
+** Passé simple
+
+je toisai
+tu toisas
+il (elle) toisa
+nous toisâmes
+vous toisâtes
+ils (elles) toisèrent
+
+** Futur simple
+
+je toiserai
+tu toiseras
+il (elle) toisera
+nous toiserons
+vous toiserez
+ils (elles) toiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je toiserais
+tu toiserais
+il (elle) toiserait
+nous toiserions
+vous toiseriez
+ils (elles) toiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je toise
+que tu toises
+qu’il (elle) toise
+que nous toisions
+que vous toisiez
+qu’ils (elles) toisent
+
+** Imparfait
+
+que je toisasse
+que tu toisasses
+qu’il (elle) toisât
+que nous toisassions
+que vous toisassiez
+qu’ils (elles) toisassent
+
+* IMPÉRATIF
+
+** Présent
+
+toise
+toisons
+toisez
+
+* INFINITIF
+
+** Présent
+
+toiser
+
+* PARTICIPE
+
+** Présent
+
+toisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai toisé
+tu as toisé
+il (elle) a toisé
+nous avons toisé
+vous avez toisé
+ils (elles) ont toisé
+
+** Plus-que-parfait
+
+j'avais toisé
+tu avais toisé
+il (elle) avait toisé
+nous avions toisé
+vous aviez toisé
+ils (elles) avaient toisé
+
+** Passé antérieur
+
+j'eus toisé
+tu eus toisé
+il (elle) eut toisé
+nous eûmes toisé
+vous eûtes toisé
+ils (elles) eurent toisé
+
+** Futur antérieur
+
+j'aurai toisé
+tu auras toisé
+il (elle) aura toisé
+nous aurons toisé
+vous aurez toisé
+ils (elles) auront toisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais toisé
+tu aurais toisé
+il (elle) aurait toisé
+nous aurions toisé
+vous auriez toisé
+ils (elles) auraient toisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie toisé
+que tu aies toisé
+qu’il (elle) ait toisé
+que nous ayons toisé
+que vous ayez toisé
+qu’ils (elles) aient toisé
+
+** Plus-que-parfait
+
+que j'eusse toisé
+que tu eusses toisé
+qu’il (elle) eût toisé
+que nous eussions toisé
+que vous eussiez toisé
+qu’ils (elles) eussent toisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons toisé
+ayez toisé
+
+* INFINITIF
+
+** Passé
+
+avoir toisé
+
+* PARTICIPE
+
+** Passé
+
+ayant toisé
+toisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis toisé(e)
+tu es toisé(e)
+il (elle) est toisé(e)
+nous sommes toisé(e)s
+vous êtes toisé(e)s
+ils (elles) sont toisé(e)s
+
+** Imparfait
+
+j'étais toisé(e)
+tu étais toisé(e)
+il (elle) était toisé(e)
+nous étions toisé(e)s
+vous étiez toisé(e)s
+ils (elles) étaient toisé(e)s
+
+** Passé simple
+
+je fus toisé(e)
+tu fus toisé(e)
+il (elle) fut toisé(e)
+nous fûmes toisé(e)s
+vous fûtes toisé(e)s
+ils (elles) furent toisé(e)s
+
+** Futur simple
+
+je serai toisé(e)
+tu seras toisé(e)
+il (elle) sera toisé(e)
+nous serons toisé(e)s
+vous serez toisé(e)s
+ils (elles) seront toisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais toisé(e)
+tu serais toisé(e)
+il (elle) serait toisé(e)
+nous serions toisé(e)s
+vous seriez toisé(e)s
+ils (elles) seraient toisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois toisé(e)
+que tu sois toisé(e)
+qu’il (elle) soit toisé(e)
+que nous soyons toisé(e)s
+que vous soyez toisé(e)s
+qu’ils (elles) soient toisé(e)s
+
+** Imparfait
+
+que je fusse toisé(e)
+que tu fusses toisé(e)
+qu’il (elle) fût toisé(e)
+que nous fussions toisé(e)s
+que vous fussiez toisé(e)s
+qu’ils (elles) fussent toisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons toisé(e)s
+soyez toisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être toisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant toisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été toisé(e)
+tu as été toisé(e)
+il (elle) a été toisé(e)
+nous avons été toisé(e)s
+vous avez été toisé(e)s
+ils (elles) ont été toisé(e)s
+
+** Plus-que-parfait
+
+j'avais été toisé(e)
+il (elle) avait été toisé(e)
+nous avions été toisé(e)s
+ils (elles) avaient été toisé(e)s
+
+** Passé antérieur
+
+j'eus été toisé(e)
+tu eus été toisé(e)
+il (elle) eut été toisé(e)
+nous eûmes été toisé(e)s
+vous eûtes été toisé(e)s
+ils (elles) eurent été toisé(e)s
+
+** Futur antérieur
+
+j'aurai été toisé(e)
+tu auras été toisé(e)
+il (elle) aura été toisé(e)
+nous aurons été toisé(e)s
+vous aurez été toisé(e)s
+ils (elles) auront été toisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été toisé(e)
+j'aurais été toisé(e)
+il (elle) aurait été toisé(e)
+nous aurions été toisé(e)s
+vous auriez été toisé(e)s
+ils (elles) auraient été toisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été toisé(e)
+que tu aies été toisé(e)
+qu’il (elle) ait été toisé(e)
+que nous ayons été toisé(e)s
+que vous ayez été toisé(e)s
+qu’ils (elles) aient été toisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été toisé(e)
+que tu eusses été toisé(e)
+qu’il (elle) eût été toisé(e)
+que nous eussions été toisé(e)s
+que vous eussiez été toisé(e)s
+qu’ils (elles) eussent été toisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été toisé(e)
+ayons été toisé(e)s
+ayez été toisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été toisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été toisé(e)(s)

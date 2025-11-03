@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe surveiller
+
+* INDICATIF
+
+** Présent
+
+je surveille
+tu surveilles
+il (elle) surveille
+nous surveillons
+vous surveillez
+ils (elles) surveillent
+
+** Imparfait
+
+je surveillais
+tu surveillais
+il (elle) surveillait
+nous surveillions
+vous surveilliez
+ils (elles) surveillaient
+
+** Passé simple
+
+je surveillai
+tu surveillas
+il (elle) surveilla
+nous surveillâmes
+vous surveillâtes
+ils (elles) surveillèrent
+
+** Futur simple
+
+je surveillerai
+tu surveilleras
+il (elle) surveillera
+nous surveillerons
+vous surveillerez
+ils (elles) surveilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je surveillerais
+tu surveillerais
+il (elle) surveillerait
+nous surveillerions
+vous surveilleriez
+ils (elles) surveilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je surveille
+que tu surveilles
+qu’il (elle) surveille
+que nous surveillions
+que vous surveilliez
+qu’ils (elles) surveillent
+
+** Imparfait
+
+que je surveillasse
+que tu surveillasses
+qu’il (elle) surveillât
+que nous surveillassions
+que vous surveillassiez
+qu’ils (elles) surveillassent
+
+* IMPÉRATIF
+
+** Présent
+
+surveille
+surveillons
+surveillez
+
+* INFINITIF
+
+** Présent
+
+surveiller
+
+* PARTICIPE
+
+** Présent
+
+surveillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai surveillé
+tu as surveillé
+il (elle) a surveillé
+nous avons surveillé
+vous avez surveillé
+ils (elles) ont surveillé
+
+** Plus-que-parfait
+
+j'avais surveillé
+tu avais surveillé
+il (elle) avait surveillé
+nous avions surveillé
+vous aviez surveillé
+ils (elles) avaient surveillé
+
+** Passé antérieur
+
+j'eus surveillé
+tu eus surveillé
+il (elle) eut surveillé
+nous eûmes surveillé
+vous eûtes surveillé
+ils (elles) eurent surveillé
+
+** Futur antérieur
+
+j'aurai surveillé
+tu auras surveillé
+il (elle) aura surveillé
+nous aurons surveillé
+vous aurez surveillé
+ils (elles) auront surveillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais surveillé
+tu aurais surveillé
+il (elle) aurait surveillé
+nous aurions surveillé
+vous auriez surveillé
+ils (elles) auraient surveillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie surveillé
+que tu aies surveillé
+qu’il (elle) ait surveillé
+que nous ayons surveillé
+que vous ayez surveillé
+qu’ils (elles) aient surveillé
+
+** Plus-que-parfait
+
+que j'eusse surveillé
+que tu eusses surveillé
+qu’il (elle) eût surveillé
+que nous eussions surveillé
+que vous eussiez surveillé
+qu’ils (elles) eussent surveillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons surveillé
+ayez surveillé
+
+* INFINITIF
+
+** Passé
+
+avoir surveillé
+
+* PARTICIPE
+
+** Passé
+
+ayant surveillé
+surveillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis surveillé(e)
+tu es surveillé(e)
+il (elle) est surveillé(e)
+nous sommes surveillé(e)s
+vous êtes surveillé(e)s
+ils (elles) sont surveillé(e)s
+
+** Imparfait
+
+j'étais surveillé(e)
+tu étais surveillé(e)
+il (elle) était surveillé(e)
+nous étions surveillé(e)s
+vous étiez surveillé(e)s
+ils (elles) étaient surveillé(e)s
+
+** Passé simple
+
+je fus surveillé(e)
+tu fus surveillé(e)
+il (elle) fut surveillé(e)
+nous fûmes surveillé(e)s
+vous fûtes surveillé(e)s
+ils (elles) furent surveillé(e)s
+
+** Futur simple
+
+je serai surveillé(e)
+tu seras surveillé(e)
+il (elle) sera surveillé(e)
+nous serons surveillé(e)s
+vous serez surveillé(e)s
+ils (elles) seront surveillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais surveillé(e)
+tu serais surveillé(e)
+il (elle) serait surveillé(e)
+nous serions surveillé(e)s
+vous seriez surveillé(e)s
+ils (elles) seraient surveillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois surveillé(e)
+que tu sois surveillé(e)
+qu’il (elle) soit surveillé(e)
+que nous soyons surveillé(e)s
+que vous soyez surveillé(e)s
+qu’ils (elles) soient surveillé(e)s
+
+** Imparfait
+
+que je fusse surveillé(e)
+que tu fusses surveillé(e)
+qu’il (elle) fût surveillé(e)
+que nous fussions surveillé(e)s
+que vous fussiez surveillé(e)s
+qu’ils (elles) fussent surveillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons surveillé(e)s
+soyez surveillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être surveillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant surveillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été surveillé(e)
+tu as été surveillé(e)
+il (elle) a été surveillé(e)
+nous avons été surveillé(e)s
+vous avez été surveillé(e)s
+ils (elles) ont été surveillé(e)s
+
+** Plus-que-parfait
+
+j'avais été surveillé(e)
+il (elle) avait été surveillé(e)
+nous avions été surveillé(e)s
+ils (elles) avaient été surveillé(e)s
+
+** Passé antérieur
+
+j'eus été surveillé(e)
+tu eus été surveillé(e)
+il (elle) eut été surveillé(e)
+nous eûmes été surveillé(e)s
+vous eûtes été surveillé(e)s
+ils (elles) eurent été surveillé(e)s
+
+** Futur antérieur
+
+j'aurai été surveillé(e)
+tu auras été surveillé(e)
+il (elle) aura été surveillé(e)
+nous aurons été surveillé(e)s
+vous aurez été surveillé(e)s
+ils (elles) auront été surveillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été surveillé(e)
+j'aurais été surveillé(e)
+il (elle) aurait été surveillé(e)
+nous aurions été surveillé(e)s
+vous auriez été surveillé(e)s
+ils (elles) auraient été surveillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été surveillé(e)
+que tu aies été surveillé(e)
+qu’il (elle) ait été surveillé(e)
+que nous ayons été surveillé(e)s
+que vous ayez été surveillé(e)s
+qu’ils (elles) aient été surveillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été surveillé(e)
+que tu eusses été surveillé(e)
+qu’il (elle) eût été surveillé(e)
+que nous eussions été surveillé(e)s
+que vous eussiez été surveillé(e)s
+qu’ils (elles) eussent été surveillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été surveillé(e)
+ayons été surveillé(e)s
+ayez été surveillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été surveillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été surveillé(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe clignoter
+
+* INDICATIF
+
+** Présent
+
+je clignote
+tu clignotes
+il (elle) clignote
+nous clignotons
+vous clignotez
+ils (elles) clignotent
+
+** Imparfait
+
+je clignotais
+tu clignotais
+il (elle) clignotait
+nous clignotions
+vous clignotiez
+ils (elles) clignotaient
+
+** Passé simple
+
+je clignotai
+tu clignotas
+il (elle) clignota
+nous clignotâmes
+vous clignotâtes
+ils (elles) clignotèrent
+
+** Futur simple
+
+je clignoterai
+tu clignoteras
+il (elle) clignotera
+nous clignoterons
+vous clignoterez
+ils (elles) clignoteront
+
+* CONDITIONNEL
+
+** Présent
+
+je clignoterais
+tu clignoterais
+il (elle) clignoterait
+nous clignoterions
+vous clignoteriez
+ils (elles) clignoteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je clignote
+que tu clignotes
+qu’il (elle) clignote
+que nous clignotions
+que vous clignotiez
+qu’ils (elles) clignotent
+
+** Imparfait
+
+que je clignotasse
+que tu clignotasses
+qu’il (elle) clignotât
+que nous clignotassions
+que vous clignotassiez
+qu’ils (elles) clignotassent
+
+* IMPÉRATIF
+
+** Présent
+
+clignote
+clignotons
+clignotez
+
+* INFINITIF
+
+** Présent
+
+clignoter
+
+* PARTICIPE
+
+** Présent
+
+clignotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai clignoté
+tu as clignoté
+il (elle) a clignoté
+nous avons clignoté
+vous avez clignoté
+ils (elles) ont clignoté
+
+** Plus-que-parfait
+
+j'avais clignoté
+tu avais clignoté
+il (elle) avait clignoté
+nous avions clignoté
+vous aviez clignoté
+ils (elles) avaient clignoté
+
+** Passé antérieur
+
+j'eus clignoté
+tu eus clignoté
+il (elle) eut clignoté
+nous eûmes clignoté
+vous eûtes clignoté
+ils (elles) eurent clignoté
+
+** Futur antérieur
+
+j'aurai clignoté
+tu auras clignoté
+il (elle) aura clignoté
+nous aurons clignoté
+vous aurez clignoté
+ils (elles) auront clignoté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais clignoté
+tu aurais clignoté
+il (elle) aurait clignoté
+nous aurions clignoté
+vous auriez clignoté
+ils (elles) auraient clignoté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie clignoté
+que tu aies clignoté
+qu’il (elle) ait clignoté
+que nous ayons clignoté
+que vous ayez clignoté
+qu’ils (elles) aient clignoté
+
+** Plus-que-parfait
+
+que j'eusse clignoté
+que tu eusses clignoté
+qu’il (elle) eût clignoté
+que nous eussions clignoté
+que vous eussiez clignoté
+qu’ils (elles) eussent clignoté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons clignoté
+ayez clignoté
+
+* INFINITIF
+
+** Passé
+
+avoir clignoté
+
+* PARTICIPE
+
+** Passé
+
+ayant clignoté
+clignoté (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe animer
+
+* INDICATIF
+
+** Présent
+
+j'anime
+tu animes
+il (elle) anime
+nous animons
+vous animez
+ils (elles) animent
+
+** Imparfait
+
+j'animais
+tu animais
+il (elle) animait
+nous animions
+vous animiez
+ils (elles) animaient
+
+** Passé simple
+
+j'animai
+tu animas
+il (elle) anima
+nous animâmes
+vous animâtes
+ils (elles) animèrent
+
+** Futur simple
+
+j'animerai
+tu animeras
+il (elle) animera
+nous animerons
+vous animerez
+ils (elles) animeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'animerais
+tu animerais
+il (elle) animerait
+nous animerions
+vous animeriez
+ils (elles) animeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'anime
+que tu animes
+qu’il (elle) anime
+que nous animions
+que vous animiez
+qu’ils (elles) animent
+
+** Imparfait
+
+que j'animasse
+que tu animasses
+qu’il (elle) animât
+que nous animassions
+que vous animassiez
+qu’ils (elles) animassent
+
+* IMPÉRATIF
+
+** Présent
+
+anime
+animons
+animez
+
+* INFINITIF
+
+** Présent
+
+animer
+
+* PARTICIPE
+
+** Présent
+
+animant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai animé
+tu as animé
+il (elle) a animé
+nous avons animé
+vous avez animé
+ils (elles) ont animé
+
+** Plus-que-parfait
+
+j'avais animé
+tu avais animé
+il (elle) avait animé
+nous avions animé
+vous aviez animé
+ils (elles) avaient animé
+
+** Passé antérieur
+
+j'eus animé
+tu eus animé
+il (elle) eut animé
+nous eûmes animé
+vous eûtes animé
+ils (elles) eurent animé
+
+** Futur antérieur
+
+j'aurai animé
+tu auras animé
+il (elle) aura animé
+nous aurons animé
+vous aurez animé
+ils (elles) auront animé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais animé
+tu aurais animé
+il (elle) aurait animé
+nous aurions animé
+vous auriez animé
+ils (elles) auraient animé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie animé
+que tu aies animé
+qu’il (elle) ait animé
+que nous ayons animé
+que vous ayez animé
+qu’ils (elles) aient animé
+
+** Plus-que-parfait
+
+que j'eusse animé
+que tu eusses animé
+qu’il (elle) eût animé
+que nous eussions animé
+que vous eussiez animé
+qu’ils (elles) eussent animé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons animé
+ayez animé
+
+* INFINITIF
+
+** Passé
+
+avoir animé
+
+* PARTICIPE
+
+** Passé
+
+ayant animé
+animé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis animé(e)
+tu es animé(e)
+il (elle) est animé(e)
+nous sommes animé(e)s
+vous êtes animé(e)s
+ils (elles) sont animé(e)s
+
+** Imparfait
+
+j'étais animé(e)
+tu étais animé(e)
+il (elle) était animé(e)
+nous étions animé(e)s
+vous étiez animé(e)s
+ils (elles) étaient animé(e)s
+
+** Passé simple
+
+je fus animé(e)
+tu fus animé(e)
+il (elle) fut animé(e)
+nous fûmes animé(e)s
+vous fûtes animé(e)s
+ils (elles) furent animé(e)s
+
+** Futur simple
+
+je serai animé(e)
+tu seras animé(e)
+il (elle) sera animé(e)
+nous serons animé(e)s
+vous serez animé(e)s
+ils (elles) seront animé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais animé(e)
+tu serais animé(e)
+il (elle) serait animé(e)
+nous serions animé(e)s
+vous seriez animé(e)s
+ils (elles) seraient animé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois animé(e)
+que tu sois animé(e)
+qu’il (elle) soit animé(e)
+que nous soyons animé(e)s
+que vous soyez animé(e)s
+qu’ils (elles) soient animé(e)s
+
+** Imparfait
+
+que je fusse animé(e)
+que tu fusses animé(e)
+qu’il (elle) fût animé(e)
+que nous fussions animé(e)s
+que vous fussiez animé(e)s
+qu’ils (elles) fussent animé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons animé(e)s
+soyez animé(e)s
+
+* INFINITIF
+
+** Présent
+
+être animé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant animé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été animé(e)
+tu as été animé(e)
+il (elle) a été animé(e)
+nous avons été animé(e)s
+vous avez été animé(e)s
+ils (elles) ont été animé(e)s
+
+** Plus-que-parfait
+
+j'avais été animé(e)
+il (elle) avait été animé(e)
+nous avions été animé(e)s
+ils (elles) avaient été animé(e)s
+
+** Passé antérieur
+
+j'eus été animé(e)
+tu eus été animé(e)
+il (elle) eut été animé(e)
+nous eûmes été animé(e)s
+vous eûtes été animé(e)s
+ils (elles) eurent été animé(e)s
+
+** Futur antérieur
+
+j'aurai été animé(e)
+tu auras été animé(e)
+il (elle) aura été animé(e)
+nous aurons été animé(e)s
+vous aurez été animé(e)s
+ils (elles) auront été animé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été animé(e)
+j'aurais été animé(e)
+il (elle) aurait été animé(e)
+nous aurions été animé(e)s
+vous auriez été animé(e)s
+ils (elles) auraient été animé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été animé(e)
+que tu aies été animé(e)
+qu’il (elle) ait été animé(e)
+que nous ayons été animé(e)s
+que vous ayez été animé(e)s
+qu’ils (elles) aient été animé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été animé(e)
+que tu eusses été animé(e)
+qu’il (elle) eût été animé(e)
+que nous eussions été animé(e)s
+que vous eussiez été animé(e)s
+qu’ils (elles) eussent été animé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été animé(e)
+ayons été animé(e)s
+ayez été animé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été animé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été animé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe differer
+
+* INDICATIF
+
+** Présent
+
+je diffère
+tu diffères
+il (elle) diffère
+nous différons
+vous différez
+ils (elles) diffèrent
+
+** Imparfait
+
+je différais
+tu différais
+il (elle) différait
+nous différions
+vous différiez
+ils (elles) différaient
+
+** Passé simple
+
+je différai
+tu différas
+il (elle) différa
+nous différâmes
+vous différâtes
+ils (elles) différèrent
+
+** Futur simple
+
+je différerai
+tu différeras
+il (elle) différera
+nous différerons
+vous différerez
+ils (elles) différeront
+
+* CONDITIONNEL
+
+** Présent
+
+je différerais
+tu différerais
+il (elle) différerait
+nous différerions
+vous différeriez
+ils (elles) différeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je diffère
+que tu diffères
+qu’il (elle) diffère
+que nous différions
+que vous différiez
+qu’ils (elles) diffèrent
+
+** Imparfait
+
+que je différasse
+que tu différasses
+qu’il (elle) différât
+que nous différassions
+que vous différassiez
+qu’ils (elles) différassent
+
+* IMPÉRATIF
+
+** Présent
+
+diffère
+différons
+différez
+
+* INFINITIF
+
+** Présent
+
+différer
+
+* PARTICIPE
+
+** Présent
+
+différant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai différé
+tu as différé
+il (elle) a différé
+nous avons différé
+vous avez différé
+ils (elles) ont différé
+
+** Plus-que-parfait
+
+j'avais différé
+tu avais différé
+il (elle) avait différé
+nous avions différé
+vous aviez différé
+ils (elles) avaient différé
+
+** Passé antérieur
+
+j'eus différé
+tu eus différé
+il (elle) eut différé
+nous eûmes différé
+vous eûtes différé
+ils (elles) eurent différé
+
+** Futur antérieur
+
+j'aurai différé
+tu auras différé
+il (elle) aura différé
+nous aurons différé
+vous aurez différé
+ils (elles) auront différé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais différé
+tu aurais différé
+il (elle) aurait différé
+nous aurions différé
+vous auriez différé
+ils (elles) auraient différé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie différé
+que tu aies différé
+qu’il (elle) ait différé
+que nous ayons différé
+que vous ayez différé
+qu’ils (elles) aient différé
+
+** Plus-que-parfait
+
+que j'eusse différé
+que tu eusses différé
+qu’il (elle) eût différé
+que nous eussions différé
+que vous eussiez différé
+qu’ils (elles) eussent différé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons différé
+ayez différé
+
+* INFINITIF
+
+** Passé
+
+avoir différé
+
+* PARTICIPE
+
+** Passé
+
+ayant différé
+différé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis différé(e)
+tu es différé(e)
+il (elle) est différé(e)
+nous sommes différé(e)s
+vous êtes différé(e)s
+ils (elles) sont différé(e)s
+
+** Imparfait
+
+j'étais différé(e)
+tu étais différé(e)
+il (elle) était différé(e)
+nous étions différé(e)s
+vous étiez différé(e)s
+ils (elles) étaient différé(e)s
+
+** Passé simple
+
+je fus différé(e)
+tu fus différé(e)
+il (elle) fut différé(e)
+nous fûmes différé(e)s
+vous fûtes différé(e)s
+ils (elles) furent différé(e)s
+
+** Futur simple
+
+je serai différé(e)
+tu seras différé(e)
+il (elle) sera différé(e)
+nous serons différé(e)s
+vous serez différé(e)s
+ils (elles) seront différé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais différé(e)
+tu serais différé(e)
+il (elle) serait différé(e)
+nous serions différé(e)s
+vous seriez différé(e)s
+ils (elles) seraient différé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois différé(e)
+que tu sois différé(e)
+qu’il (elle) soit différé(e)
+que nous soyons différé(e)s
+que vous soyez différé(e)s
+qu’ils (elles) soient différé(e)s
+
+** Imparfait
+
+que je fusse différé(e)
+que tu fusses différé(e)
+qu’il (elle) fût différé(e)
+que nous fussions différé(e)s
+que vous fussiez différé(e)s
+qu’ils (elles) fussent différé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons différé(e)s
+soyez différé(e)s
+
+* INFINITIF
+
+** Présent
+
+être différé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant différé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été différé(e)
+tu as été différé(e)
+il (elle) a été différé(e)
+nous avons été différé(e)s
+vous avez été différé(e)s
+ils (elles) ont été différé(e)s
+
+** Plus-que-parfait
+
+j'avais été différé(e)
+il (elle) avait été différé(e)
+nous avions été différé(e)s
+ils (elles) avaient été différé(e)s
+
+** Passé antérieur
+
+j'eus été différé(e)
+tu eus été différé(e)
+il (elle) eut été différé(e)
+nous eûmes été différé(e)s
+vous eûtes été différé(e)s
+ils (elles) eurent été différé(e)s
+
+** Futur antérieur
+
+j'aurai été différé(e)
+tu auras été différé(e)
+il (elle) aura été différé(e)
+nous aurons été différé(e)s
+vous aurez été différé(e)s
+ils (elles) auront été différé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été différé(e)
+j'aurais été différé(e)
+il (elle) aurait été différé(e)
+nous aurions été différé(e)s
+vous auriez été différé(e)s
+ils (elles) auraient été différé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été différé(e)
+que tu aies été différé(e)
+qu’il (elle) ait été différé(e)
+que nous ayons été différé(e)s
+que vous ayez été différé(e)s
+qu’ils (elles) aient été différé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été différé(e)
+que tu eusses été différé(e)
+qu’il (elle) eût été différé(e)
+que nous eussions été différé(e)s
+que vous eussiez été différé(e)s
+qu’ils (elles) eussent été différé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été différé(e)
+ayons été différé(e)s
+ayez été différé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été différé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été différé(e)(s)

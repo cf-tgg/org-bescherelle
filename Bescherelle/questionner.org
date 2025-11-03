@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe questionner
+
+* INDICATIF
+
+** Présent
+
+je questionne
+tu questionnes
+il (elle) questionne
+nous questionnons
+vous questionnez
+ils (elles) questionnent
+
+** Imparfait
+
+je questionnais
+tu questionnais
+il (elle) questionnait
+nous questionnions
+vous questionniez
+ils (elles) questionnaient
+
+** Passé simple
+
+je questionnai
+tu questionnas
+il (elle) questionna
+nous questionnâmes
+vous questionnâtes
+ils (elles) questionnèrent
+
+** Futur simple
+
+je questionnerai
+tu questionneras
+il (elle) questionnera
+nous questionnerons
+vous questionnerez
+ils (elles) questionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je questionnerais
+tu questionnerais
+il (elle) questionnerait
+nous questionnerions
+vous questionneriez
+ils (elles) questionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je questionne
+que tu questionnes
+qu’il (elle) questionne
+que nous questionnions
+que vous questionniez
+qu’ils (elles) questionnent
+
+** Imparfait
+
+que je questionnasse
+que tu questionnasses
+qu’il (elle) questionnât
+que nous questionnassions
+que vous questionnassiez
+qu’ils (elles) questionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+questionne
+questionnons
+questionnez
+
+* INFINITIF
+
+** Présent
+
+questionner
+
+* PARTICIPE
+
+** Présent
+
+questionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai questionné
+tu as questionné
+il (elle) a questionné
+nous avons questionné
+vous avez questionné
+ils (elles) ont questionné
+
+** Plus-que-parfait
+
+j'avais questionné
+tu avais questionné
+il (elle) avait questionné
+nous avions questionné
+vous aviez questionné
+ils (elles) avaient questionné
+
+** Passé antérieur
+
+j'eus questionné
+tu eus questionné
+il (elle) eut questionné
+nous eûmes questionné
+vous eûtes questionné
+ils (elles) eurent questionné
+
+** Futur antérieur
+
+j'aurai questionné
+tu auras questionné
+il (elle) aura questionné
+nous aurons questionné
+vous aurez questionné
+ils (elles) auront questionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais questionné
+tu aurais questionné
+il (elle) aurait questionné
+nous aurions questionné
+vous auriez questionné
+ils (elles) auraient questionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie questionné
+que tu aies questionné
+qu’il (elle) ait questionné
+que nous ayons questionné
+que vous ayez questionné
+qu’ils (elles) aient questionné
+
+** Plus-que-parfait
+
+que j'eusse questionné
+que tu eusses questionné
+qu’il (elle) eût questionné
+que nous eussions questionné
+que vous eussiez questionné
+qu’ils (elles) eussent questionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons questionné
+ayez questionné
+
+* INFINITIF
+
+** Passé
+
+avoir questionné
+
+* PARTICIPE
+
+** Passé
+
+ayant questionné
+questionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis questionné(e)
+tu es questionné(e)
+il (elle) est questionné(e)
+nous sommes questionné(e)s
+vous êtes questionné(e)s
+ils (elles) sont questionné(e)s
+
+** Imparfait
+
+j'étais questionné(e)
+tu étais questionné(e)
+il (elle) était questionné(e)
+nous étions questionné(e)s
+vous étiez questionné(e)s
+ils (elles) étaient questionné(e)s
+
+** Passé simple
+
+je fus questionné(e)
+tu fus questionné(e)
+il (elle) fut questionné(e)
+nous fûmes questionné(e)s
+vous fûtes questionné(e)s
+ils (elles) furent questionné(e)s
+
+** Futur simple
+
+je serai questionné(e)
+tu seras questionné(e)
+il (elle) sera questionné(e)
+nous serons questionné(e)s
+vous serez questionné(e)s
+ils (elles) seront questionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais questionné(e)
+tu serais questionné(e)
+il (elle) serait questionné(e)
+nous serions questionné(e)s
+vous seriez questionné(e)s
+ils (elles) seraient questionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois questionné(e)
+que tu sois questionné(e)
+qu’il (elle) soit questionné(e)
+que nous soyons questionné(e)s
+que vous soyez questionné(e)s
+qu’ils (elles) soient questionné(e)s
+
+** Imparfait
+
+que je fusse questionné(e)
+que tu fusses questionné(e)
+qu’il (elle) fût questionné(e)
+que nous fussions questionné(e)s
+que vous fussiez questionné(e)s
+qu’ils (elles) fussent questionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons questionné(e)s
+soyez questionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être questionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant questionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été questionné(e)
+tu as été questionné(e)
+il (elle) a été questionné(e)
+nous avons été questionné(e)s
+vous avez été questionné(e)s
+ils (elles) ont été questionné(e)s
+
+** Plus-que-parfait
+
+j'avais été questionné(e)
+il (elle) avait été questionné(e)
+nous avions été questionné(e)s
+ils (elles) avaient été questionné(e)s
+
+** Passé antérieur
+
+j'eus été questionné(e)
+tu eus été questionné(e)
+il (elle) eut été questionné(e)
+nous eûmes été questionné(e)s
+vous eûtes été questionné(e)s
+ils (elles) eurent été questionné(e)s
+
+** Futur antérieur
+
+j'aurai été questionné(e)
+tu auras été questionné(e)
+il (elle) aura été questionné(e)
+nous aurons été questionné(e)s
+vous aurez été questionné(e)s
+ils (elles) auront été questionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été questionné(e)
+j'aurais été questionné(e)
+il (elle) aurait été questionné(e)
+nous aurions été questionné(e)s
+vous auriez été questionné(e)s
+ils (elles) auraient été questionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été questionné(e)
+que tu aies été questionné(e)
+qu’il (elle) ait été questionné(e)
+que nous ayons été questionné(e)s
+que vous ayez été questionné(e)s
+qu’ils (elles) aient été questionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été questionné(e)
+que tu eusses été questionné(e)
+qu’il (elle) eût été questionné(e)
+que nous eussions été questionné(e)s
+que vous eussiez été questionné(e)s
+qu’ils (elles) eussent été questionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été questionné(e)
+ayons été questionné(e)s
+ayez été questionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été questionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été questionné(e)(s)

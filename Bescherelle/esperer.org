@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe esperer
+
+* INDICATIF
+
+** Présent
+
+j'espère
+tu espères
+il (elle) espère
+nous espérons
+vous espérez
+ils (elles) espèrent
+
+** Imparfait
+
+j'espérais
+tu espérais
+il (elle) espérait
+nous espérions
+vous espériez
+ils (elles) espéraient
+
+** Passé simple
+
+j'espérai
+tu espéras
+il (elle) espéra
+nous espérâmes
+vous espérâtes
+ils (elles) espérèrent
+
+** Futur simple
+
+j'espérerai
+tu espéreras
+il (elle) espérera
+nous espérerons
+vous espérerez
+ils (elles) espéreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'espérerais
+tu espérerais
+il (elle) espérerait
+nous espérerions
+vous espéreriez
+ils (elles) espéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'espère
+que tu espères
+qu’il (elle) espère
+que nous espérions
+que vous espériez
+qu’ils (elles) espèrent
+
+** Imparfait
+
+que j'espérasse
+que tu espérasses
+qu’il (elle) espérât
+que nous espérassions
+que vous espérassiez
+qu’ils (elles) espérassent
+
+* IMPÉRATIF
+
+** Présent
+
+espère
+espérons
+espérez
+
+* INFINITIF
+
+** Présent
+
+espérer
+
+* PARTICIPE
+
+** Présent
+
+espérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai espéré
+tu as espéré
+il (elle) a espéré
+nous avons espéré
+vous avez espéré
+ils (elles) ont espéré
+
+** Plus-que-parfait
+
+j'avais espéré
+tu avais espéré
+il (elle) avait espéré
+nous avions espéré
+vous aviez espéré
+ils (elles) avaient espéré
+
+** Passé antérieur
+
+j'eus espéré
+tu eus espéré
+il (elle) eut espéré
+nous eûmes espéré
+vous eûtes espéré
+ils (elles) eurent espéré
+
+** Futur antérieur
+
+j'aurai espéré
+tu auras espéré
+il (elle) aura espéré
+nous aurons espéré
+vous aurez espéré
+ils (elles) auront espéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais espéré
+tu aurais espéré
+il (elle) aurait espéré
+nous aurions espéré
+vous auriez espéré
+ils (elles) auraient espéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie espéré
+que tu aies espéré
+qu’il (elle) ait espéré
+que nous ayons espéré
+que vous ayez espéré
+qu’ils (elles) aient espéré
+
+** Plus-que-parfait
+
+que j'eusse espéré
+que tu eusses espéré
+qu’il (elle) eût espéré
+que nous eussions espéré
+que vous eussiez espéré
+qu’ils (elles) eussent espéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons espéré
+ayez espéré
+
+* INFINITIF
+
+** Passé
+
+avoir espéré
+
+* PARTICIPE
+
+** Passé
+
+ayant espéré
+espéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis espéré(e)
+tu es espéré(e)
+il (elle) est espéré(e)
+nous sommes espéré(e)s
+vous êtes espéré(e)s
+ils (elles) sont espéré(e)s
+
+** Imparfait
+
+j'étais espéré(e)
+tu étais espéré(e)
+il (elle) était espéré(e)
+nous étions espéré(e)s
+vous étiez espéré(e)s
+ils (elles) étaient espéré(e)s
+
+** Passé simple
+
+je fus espéré(e)
+tu fus espéré(e)
+il (elle) fut espéré(e)
+nous fûmes espéré(e)s
+vous fûtes espéré(e)s
+ils (elles) furent espéré(e)s
+
+** Futur simple
+
+je serai espéré(e)
+tu seras espéré(e)
+il (elle) sera espéré(e)
+nous serons espéré(e)s
+vous serez espéré(e)s
+ils (elles) seront espéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais espéré(e)
+tu serais espéré(e)
+il (elle) serait espéré(e)
+nous serions espéré(e)s
+vous seriez espéré(e)s
+ils (elles) seraient espéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois espéré(e)
+que tu sois espéré(e)
+qu’il (elle) soit espéré(e)
+que nous soyons espéré(e)s
+que vous soyez espéré(e)s
+qu’ils (elles) soient espéré(e)s
+
+** Imparfait
+
+que je fusse espéré(e)
+que tu fusses espéré(e)
+qu’il (elle) fût espéré(e)
+que nous fussions espéré(e)s
+que vous fussiez espéré(e)s
+qu’ils (elles) fussent espéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons espéré(e)s
+soyez espéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être espéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant espéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été espéré(e)
+tu as été espéré(e)
+il (elle) a été espéré(e)
+nous avons été espéré(e)s
+vous avez été espéré(e)s
+ils (elles) ont été espéré(e)s
+
+** Plus-que-parfait
+
+j'avais été espéré(e)
+il (elle) avait été espéré(e)
+nous avions été espéré(e)s
+ils (elles) avaient été espéré(e)s
+
+** Passé antérieur
+
+j'eus été espéré(e)
+tu eus été espéré(e)
+il (elle) eut été espéré(e)
+nous eûmes été espéré(e)s
+vous eûtes été espéré(e)s
+ils (elles) eurent été espéré(e)s
+
+** Futur antérieur
+
+j'aurai été espéré(e)
+tu auras été espéré(e)
+il (elle) aura été espéré(e)
+nous aurons été espéré(e)s
+vous aurez été espéré(e)s
+ils (elles) auront été espéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été espéré(e)
+j'aurais été espéré(e)
+il (elle) aurait été espéré(e)
+nous aurions été espéré(e)s
+vous auriez été espéré(e)s
+ils (elles) auraient été espéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été espéré(e)
+que tu aies été espéré(e)
+qu’il (elle) ait été espéré(e)
+que nous ayons été espéré(e)s
+que vous ayez été espéré(e)s
+qu’ils (elles) aient été espéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été espéré(e)
+que tu eusses été espéré(e)
+qu’il (elle) eût été espéré(e)
+que nous eussions été espéré(e)s
+que vous eussiez été espéré(e)s
+qu’ils (elles) eussent été espéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été espéré(e)
+ayons été espéré(e)s
+ayez été espéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été espéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été espéré(e)(s)

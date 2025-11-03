@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe composer
+
+* INDICATIF
+
+** Présent
+
+je compose
+tu composes
+il (elle) compose
+nous composons
+vous composez
+ils (elles) composent
+
+** Imparfait
+
+je composais
+tu composais
+il (elle) composait
+nous composions
+vous composiez
+ils (elles) composaient
+
+** Passé simple
+
+je composai
+tu composas
+il (elle) composa
+nous composâmes
+vous composâtes
+ils (elles) composèrent
+
+** Futur simple
+
+je composerai
+tu composeras
+il (elle) composera
+nous composerons
+vous composerez
+ils (elles) composeront
+
+* CONDITIONNEL
+
+** Présent
+
+je composerais
+tu composerais
+il (elle) composerait
+nous composerions
+vous composeriez
+ils (elles) composeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compose
+que tu composes
+qu’il (elle) compose
+que nous composions
+que vous composiez
+qu’ils (elles) composent
+
+** Imparfait
+
+que je composasse
+que tu composasses
+qu’il (elle) composât
+que nous composassions
+que vous composassiez
+qu’ils (elles) composassent
+
+* IMPÉRATIF
+
+** Présent
+
+compose
+composons
+composez
+
+* INFINITIF
+
+** Présent
+
+composer
+
+* PARTICIPE
+
+** Présent
+
+composant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai composé
+tu as composé
+il (elle) a composé
+nous avons composé
+vous avez composé
+ils (elles) ont composé
+
+** Plus-que-parfait
+
+j'avais composé
+tu avais composé
+il (elle) avait composé
+nous avions composé
+vous aviez composé
+ils (elles) avaient composé
+
+** Passé antérieur
+
+j'eus composé
+tu eus composé
+il (elle) eut composé
+nous eûmes composé
+vous eûtes composé
+ils (elles) eurent composé
+
+** Futur antérieur
+
+j'aurai composé
+tu auras composé
+il (elle) aura composé
+nous aurons composé
+vous aurez composé
+ils (elles) auront composé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais composé
+tu aurais composé
+il (elle) aurait composé
+nous aurions composé
+vous auriez composé
+ils (elles) auraient composé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie composé
+que tu aies composé
+qu’il (elle) ait composé
+que nous ayons composé
+que vous ayez composé
+qu’ils (elles) aient composé
+
+** Plus-que-parfait
+
+que j'eusse composé
+que tu eusses composé
+qu’il (elle) eût composé
+que nous eussions composé
+que vous eussiez composé
+qu’ils (elles) eussent composé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons composé
+ayez composé
+
+* INFINITIF
+
+** Passé
+
+avoir composé
+
+* PARTICIPE
+
+** Passé
+
+ayant composé
+composé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis composé(e)
+tu es composé(e)
+il (elle) est composé(e)
+nous sommes composé(e)s
+vous êtes composé(e)s
+ils (elles) sont composé(e)s
+
+** Imparfait
+
+j'étais composé(e)
+tu étais composé(e)
+il (elle) était composé(e)
+nous étions composé(e)s
+vous étiez composé(e)s
+ils (elles) étaient composé(e)s
+
+** Passé simple
+
+je fus composé(e)
+tu fus composé(e)
+il (elle) fut composé(e)
+nous fûmes composé(e)s
+vous fûtes composé(e)s
+ils (elles) furent composé(e)s
+
+** Futur simple
+
+je serai composé(e)
+tu seras composé(e)
+il (elle) sera composé(e)
+nous serons composé(e)s
+vous serez composé(e)s
+ils (elles) seront composé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais composé(e)
+tu serais composé(e)
+il (elle) serait composé(e)
+nous serions composé(e)s
+vous seriez composé(e)s
+ils (elles) seraient composé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois composé(e)
+que tu sois composé(e)
+qu’il (elle) soit composé(e)
+que nous soyons composé(e)s
+que vous soyez composé(e)s
+qu’ils (elles) soient composé(e)s
+
+** Imparfait
+
+que je fusse composé(e)
+que tu fusses composé(e)
+qu’il (elle) fût composé(e)
+que nous fussions composé(e)s
+que vous fussiez composé(e)s
+qu’ils (elles) fussent composé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons composé(e)s
+soyez composé(e)s
+
+* INFINITIF
+
+** Présent
+
+être composé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant composé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été composé(e)
+tu as été composé(e)
+il (elle) a été composé(e)
+nous avons été composé(e)s
+vous avez été composé(e)s
+ils (elles) ont été composé(e)s
+
+** Plus-que-parfait
+
+j'avais été composé(e)
+il (elle) avait été composé(e)
+nous avions été composé(e)s
+ils (elles) avaient été composé(e)s
+
+** Passé antérieur
+
+j'eus été composé(e)
+tu eus été composé(e)
+il (elle) eut été composé(e)
+nous eûmes été composé(e)s
+vous eûtes été composé(e)s
+ils (elles) eurent été composé(e)s
+
+** Futur antérieur
+
+j'aurai été composé(e)
+tu auras été composé(e)
+il (elle) aura été composé(e)
+nous aurons été composé(e)s
+vous aurez été composé(e)s
+ils (elles) auront été composé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été composé(e)
+j'aurais été composé(e)
+il (elle) aurait été composé(e)
+nous aurions été composé(e)s
+vous auriez été composé(e)s
+ils (elles) auraient été composé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été composé(e)
+que tu aies été composé(e)
+qu’il (elle) ait été composé(e)
+que nous ayons été composé(e)s
+que vous ayez été composé(e)s
+qu’ils (elles) aient été composé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été composé(e)
+que tu eusses été composé(e)
+qu’il (elle) eût été composé(e)
+que nous eussions été composé(e)s
+que vous eussiez été composé(e)s
+qu’ils (elles) eussent été composé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été composé(e)
+ayons été composé(e)s
+ayez été composé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été composé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été composé(e)(s)

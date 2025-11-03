@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe persister
+
+* INDICATIF
+
+** Présent
+
+je persiste
+tu persistes
+il (elle) persiste
+nous persistons
+vous persistez
+ils (elles) persistent
+
+** Imparfait
+
+je persistais
+tu persistais
+il (elle) persistait
+nous persistions
+vous persistiez
+ils (elles) persistaient
+
+** Passé simple
+
+je persistai
+tu persistas
+il (elle) persista
+nous persistâmes
+vous persistâtes
+ils (elles) persistèrent
+
+** Futur simple
+
+je persisterai
+tu persisteras
+il (elle) persistera
+nous persisterons
+vous persisterez
+ils (elles) persisteront
+
+* CONDITIONNEL
+
+** Présent
+
+je persisterais
+tu persisterais
+il (elle) persisterait
+nous persisterions
+vous persisteriez
+ils (elles) persisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je persiste
+que tu persistes
+qu’il (elle) persiste
+que nous persistions
+que vous persistiez
+qu’ils (elles) persistent
+
+** Imparfait
+
+que je persistasse
+que tu persistasses
+qu’il (elle) persistât
+que nous persistassions
+que vous persistassiez
+qu’ils (elles) persistassent
+
+* IMPÉRATIF
+
+** Présent
+
+persiste
+persistons
+persistez
+
+* INFINITIF
+
+** Présent
+
+persister
+
+* PARTICIPE
+
+** Présent
+
+persistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai persisté
+tu as persisté
+il (elle) a persisté
+nous avons persisté
+vous avez persisté
+ils (elles) ont persisté
+
+** Plus-que-parfait
+
+j'avais persisté
+tu avais persisté
+il (elle) avait persisté
+nous avions persisté
+vous aviez persisté
+ils (elles) avaient persisté
+
+** Passé antérieur
+
+j'eus persisté
+tu eus persisté
+il (elle) eut persisté
+nous eûmes persisté
+vous eûtes persisté
+ils (elles) eurent persisté
+
+** Futur antérieur
+
+j'aurai persisté
+tu auras persisté
+il (elle) aura persisté
+nous aurons persisté
+vous aurez persisté
+ils (elles) auront persisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais persisté
+tu aurais persisté
+il (elle) aurait persisté
+nous aurions persisté
+vous auriez persisté
+ils (elles) auraient persisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie persisté
+que tu aies persisté
+qu’il (elle) ait persisté
+que nous ayons persisté
+que vous ayez persisté
+qu’ils (elles) aient persisté
+
+** Plus-que-parfait
+
+que j'eusse persisté
+que tu eusses persisté
+qu’il (elle) eût persisté
+que nous eussions persisté
+que vous eussiez persisté
+qu’ils (elles) eussent persisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons persisté
+ayez persisté
+
+* INFINITIF
+
+** Passé
+
+avoir persisté
+
+* PARTICIPE
+
+** Passé
+
+ayant persisté
+persisté (invar.)

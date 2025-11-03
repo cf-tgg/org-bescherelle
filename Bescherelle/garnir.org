@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe garnir
+
+* INDICATIF
+
+** Présent
+
+je garnis
+tu garnis
+il (elle) garnit
+nous garnissons
+vous garnissez
+ils (elles) garnissent
+
+** Imparfait
+
+je garnissais
+tu garnissais
+il (elle) garnissait
+nous garnissions
+vous garnissiez
+ils (elles) garnissaient
+
+** Passé simple
+
+je garnis
+tu garnis
+il (elle) garnit
+nous garnîmes
+vous garnîtes
+ils (elles) garnirent
+
+** Futur simple
+
+je garnirai
+tu garniras
+il (elle) garnira
+nous garnirons
+vous garnirez
+ils (elles) garniront
+
+* CONDITIONNEL
+
+** Présent
+
+je garnirais
+tu garnirais
+il (elle) garnirait
+nous garnirions
+vous garniriez
+ils (elles) garniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je garnisse
+que tu garnisses
+qu’il (elle) garnisse
+que nous garnissions
+que vous garnissiez
+qu’ils (elles) garnissent
+
+** Imparfait
+
+que je garnisse
+que tu garnisses
+qu’il (elle) garnît
+que nous garnissions
+que vous garnissiez
+qu’ils (elles) garnissent
+
+* IMPÉRATIF
+
+** Présent
+
+garnis
+garnissons
+garnissez
+
+* INFINITIF
+
+** Présent
+
+garnir
+
+* PARTICIPE
+
+** Présent
+
+garnissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai garni
+tu as garni
+il (elle) a garni
+nous avons garni
+vous avez garni
+ils (elles) ont garni
+
+** Plus-que-parfait
+
+j'avais garni
+tu avais garni
+il (elle) avait garni
+nous avions garni
+vous aviez garni
+ils (elles) avaient garni
+
+** Passé antérieur
+
+j'eus garni
+tu eus garni
+il (elle) eut garni
+nous eûmes garni
+vous eûtes garni
+ils (elles) eurent garni
+
+** Futur antérieur
+
+j'aurai garni
+tu auras garni
+il (elle) aura garni
+nous aurons garni
+vous aurez garni
+ils (elles) auront garni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais garni
+tu aurais garni
+il (elle) aurait garni
+nous aurions garni
+vous auriez garni
+ils (elles) auraient garni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie garni
+que tu aies garni
+qu’il (elle) ait garni
+que nous ayons garni
+que vous ayez garni
+qu’ils (elles) aient garni
+
+** Plus-que-parfait
+
+que j'eusse garni
+que tu eusses garni
+qu’il (elle) eût garni
+que nous eussions garni
+que vous eussiez garni
+qu’ils (elles) eussent garni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons garni
+ayez garni
+
+* INFINITIF
+
+** Passé
+
+avoir garni
+
+* PARTICIPE
+
+** Passé
+
+ayant garni
+garni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis garni(e)
+tu es garni(e)
+il (elle) est garni(e)
+nous sommes garni(e)s
+vous êtes garni(e)s
+ils (elles) sont garni(e)s
+
+** Imparfait
+
+j'étais garni(e)
+tu étais garni(e)
+il (elle) était garni(e)
+nous étions garni(e)s
+vous étiez garni(e)s
+ils (elles) étaient garni(e)s
+
+** Passé simple
+
+je fus garni(e)
+tu fus garni(e)
+il (elle) fut garni(e)
+nous fûmes garni(e)s
+vous fûtes garni(e)s
+ils (elles) furent garni(e)s
+
+** Futur simple
+
+je serai garni(e)
+tu seras garni(e)
+il (elle) sera garni(e)
+nous serons garni(e)s
+vous serez garni(e)s
+ils (elles) seront garni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais garni(e)
+tu serais garni(e)
+il (elle) serait garni(e)
+nous serions garni(e)s
+vous seriez garni(e)s
+ils (elles) seraient garni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois garni(e)
+que tu sois garni(e)
+qu’il (elle) soit garni(e)
+que nous soyons garni(e)s
+que vous soyez garni(e)s
+qu’ils (elles) soient garni(e)s
+
+** Imparfait
+
+que je fusse garni(e)
+que tu fusses garni(e)
+qu’il (elle) fût garni(e)
+que nous fussions garni(e)s
+que vous fussiez garni(e)s
+qu’ils (elles) fussent garni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons garni(e)s
+soyez garni(e)s
+
+* INFINITIF
+
+** Présent
+
+être garni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant garni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été garni(e)
+tu as été garni(e)
+il (elle) a été garni(e)
+nous avons été garni(e)s
+vous avez été garni(e)s
+ils (elles) ont été garni(e)s
+
+** Plus-que-parfait
+
+j'avais été garni(e)
+il (elle) avait été garni(e)
+nous avions été garni(e)s
+ils (elles) avaient été garni(e)s
+
+** Passé antérieur
+
+j'eus été garni(e)
+tu eus été garni(e)
+il (elle) eut été garni(e)
+nous eûmes été garni(e)s
+vous eûtes été garni(e)s
+ils (elles) eurent été garni(e)s
+
+** Futur antérieur
+
+j'aurai été garni(e)
+tu auras été garni(e)
+il (elle) aura été garni(e)
+nous aurons été garni(e)s
+vous aurez été garni(e)s
+ils (elles) auront été garni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été garni(e)
+j'aurais été garni(e)
+il (elle) aurait été garni(e)
+nous aurions été garni(e)s
+vous auriez été garni(e)s
+ils (elles) auraient été garni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été garni(e)
+que tu aies été garni(e)
+qu’il (elle) ait été garni(e)
+que nous ayons été garni(e)s
+que vous ayez été garni(e)s
+qu’ils (elles) aient été garni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été garni(e)
+que tu eusses été garni(e)
+qu’il (elle) eût été garni(e)
+que nous eussions été garni(e)s
+que vous eussiez été garni(e)s
+qu’ils (elles) eussent été garni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été garni(e)
+ayons été garni(e)s
+ayez été garni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été garni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été garni(e)(s)

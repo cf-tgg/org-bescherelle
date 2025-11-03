@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe predire
+
+* INDICATIF
+
+** Présent
+
+je prédis
+tu prédis
+il (elle) prédit
+nous prédisons
+vous prédisez
+ils (elles) prédisent
+
+** Imparfait
+
+je prédisais
+tu prédisais
+il (elle) prédisait
+nous prédisions
+vous prédisiez
+ils (elles) prédisaient
+
+** Passé simple
+
+je prédis
+tu prédis
+il (elle) prédit
+nous prédîmes
+vous prédîtes
+ils (elles) prédirent
+
+** Futur simple
+
+je prédirai
+tu prédiras
+il (elle) prédira
+nous prédirons
+vous prédirez
+ils (elles) prédiront
+
+* CONDITIONNEL
+
+** Présent
+
+je prédirais
+tu prédirais
+il (elle) prédirait
+nous prédirions
+vous prédiriez
+ils (elles) prédiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prédise
+que tu prédises
+qu’il (elle) prédise
+que nous prédisions
+que vous prédisiez
+qu’ils (elles) prédisent
+
+** Imparfait
+
+que je prédisse
+que tu prédisses
+qu’il (elle) prédît
+que nous prédissions
+que vous prédissiez
+qu’ils (elles) prédissent
+
+* IMPÉRATIF
+
+** Présent
+
+prédis
+prédisons
+prédisez
+
+* INFINITIF
+
+** Présent
+
+prédire
+
+* PARTICIPE
+
+** Présent
+
+prédisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prédit
+tu as prédit
+il (elle) a prédit
+nous avons prédit
+vous avez prédit
+ils (elles) ont prédit
+
+** Plus-que-parfait
+
+j'avais prédit
+tu avais prédit
+il (elle) avait prédit
+nous avions prédit
+vous aviez prédit
+ils (elles) avaient prédit
+
+** Passé antérieur
+
+j'eus prédit
+tu eus prédit
+il (elle) eut prédit
+nous eûmes prédit
+vous eûtes prédit
+ils (elles) eurent prédit
+
+** Futur antérieur
+
+j'aurai prédit
+tu auras prédit
+il (elle) aura prédit
+nous aurons prédit
+vous aurez prédit
+ils (elles) auront prédit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prédit
+tu aurais prédit
+il (elle) aurait prédit
+nous aurions prédit
+vous auriez prédit
+ils (elles) auraient prédit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prédit
+que tu aies prédit
+qu’il (elle) ait prédit
+que nous ayons prédit
+que vous ayez prédit
+qu’ils (elles) aient prédit
+
+** Plus-que-parfait
+
+que j'eusse prédit
+que tu eusses prédit
+qu’il (elle) eût prédit
+que nous eussions prédit
+que vous eussiez prédit
+qu’ils (elles) eussent prédit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prédit
+ayez prédit
+
+* INFINITIF
+
+** Passé
+
+avoir prédit
+
+* PARTICIPE
+
+** Passé
+
+ayant prédit
+prédit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis prédit(e)
+tu es prédit(e)
+il (elle) est prédit(e)
+nous sommes prédit(e)s
+vous êtes prédit(e)s
+ils (elles) sont prédit(e)s
+
+** Imparfait
+
+j'étais prédit(e)
+tu étais prédit(e)
+il (elle) était prédit(e)
+nous étions prédit(e)s
+vous étiez prédit(e)s
+ils (elles) étaient prédit(e)s
+
+** Passé simple
+
+je fus prédit(e)
+tu fus prédit(e)
+il (elle) fut prédit(e)
+nous fûmes prédit(e)s
+vous fûtes prédit(e)s
+ils (elles) furent prédit(e)s
+
+** Futur simple
+
+je serai prédit(e)
+tu seras prédit(e)
+il (elle) sera prédit(e)
+nous serons prédit(e)s
+vous serez prédit(e)s
+ils (elles) seront prédit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prédit(e)
+tu serais prédit(e)
+il (elle) serait prédit(e)
+nous serions prédit(e)s
+vous seriez prédit(e)s
+ils (elles) seraient prédit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prédit(e)
+que tu sois prédit(e)
+qu’il (elle) soit prédit(e)
+que nous soyons prédit(e)s
+que vous soyez prédit(e)s
+qu’ils (elles) soient prédit(e)s
+
+** Imparfait
+
+que je fusse prédit(e)
+que tu fusses prédit(e)
+qu’il (elle) fût prédit(e)
+que nous fussions prédit(e)s
+que vous fussiez prédit(e)s
+qu’ils (elles) fussent prédit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prédit(e)s
+soyez prédit(e)s
+
+* INFINITIF
+
+** Présent
+
+être prédit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prédit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prédit(e)
+tu as été prédit(e)
+il (elle) a été prédit(e)
+nous avons été prédit(e)s
+vous avez été prédit(e)s
+ils (elles) ont été prédit(e)s
+
+** Plus-que-parfait
+
+j'avais été prédit(e)
+il (elle) avait été prédit(e)
+nous avions été prédit(e)s
+ils (elles) avaient été prédit(e)s
+
+** Passé antérieur
+
+j'eus été prédit(e)
+tu eus été prédit(e)
+il (elle) eut été prédit(e)
+nous eûmes été prédit(e)s
+vous eûtes été prédit(e)s
+ils (elles) eurent été prédit(e)s
+
+** Futur antérieur
+
+j'aurai été prédit(e)
+tu auras été prédit(e)
+il (elle) aura été prédit(e)
+nous aurons été prédit(e)s
+vous aurez été prédit(e)s
+ils (elles) auront été prédit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prédit(e)
+j'aurais été prédit(e)
+il (elle) aurait été prédit(e)
+nous aurions été prédit(e)s
+vous auriez été prédit(e)s
+ils (elles) auraient été prédit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prédit(e)
+que tu aies été prédit(e)
+qu’il (elle) ait été prédit(e)
+que nous ayons été prédit(e)s
+que vous ayez été prédit(e)s
+qu’ils (elles) aient été prédit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prédit(e)
+que tu eusses été prédit(e)
+qu’il (elle) eût été prédit(e)
+que nous eussions été prédit(e)s
+que vous eussiez été prédit(e)s
+qu’ils (elles) eussent été prédit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prédit(e)
+ayons été prédit(e)s
+ayez été prédit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prédit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prédit(e)(s)

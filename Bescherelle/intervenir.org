@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe intervenir
+
+* INDICATIF
+
+** Présent
+
+j'interviens
+tu interviens
+il (elle) intervient
+nous intervenons
+vous intervenez
+ils (elles) interviennent
+
+** Imparfait
+
+j'intervenais
+tu intervenais
+il (elle) intervenait
+nous intervenions
+vous interveniez
+ils (elles) intervenaient
+
+** Passé simple
+
+j'intervins
+tu intervins
+il (elle) intervint
+nous intervînmes
+vous intervîntes
+ils (elles) intervinrent
+
+** Futur simple
+
+j'interviendrai
+tu interviendras
+il (elle) interviendra
+nous interviendrons
+vous interviendrez
+ils (elles) interviendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interviendrais
+tu interviendrais
+il (elle) interviendrait
+nous interviendrions
+vous interviendriez
+ils (elles) interviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'intervienne
+que tu interviennes
+qu’il (elle) intervienne
+que nous intervenions
+que vous interveniez
+qu’ils (elles) interviennent
+
+** Imparfait
+
+que j'intervinsse
+que tu intervinsses
+qu’il (elle) intervînt
+que nous intervinssions
+que vous intervinssiez
+qu’ils (elles) intervinssent
+
+* IMPÉRATIF
+
+** Présent
+
+interviens
+intervenons
+intervenez
+
+* INFINITIF
+
+** Présent
+
+intervenir
+
+* PARTICIPE
+
+** Présent
+
+intervenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis intervenu(e)
+tu es intervenu(e)
+il (elle) est intervenu(e)
+nous sommes intervenu(e)s
+vous êtes intervenu(e)s
+ils (elles) sont intervenu(e)s
+
+** Plus-que-parfait
+
+j'étais intervenu(e)
+tu étais intervenu(e)
+il (elle) était intervenu(e)
+nous étions intervenu(e)s
+vous étiez intervenu(e)s
+ils (elles) étaient intervenu(e)s
+
+** Passé antérieur
+
+je fus intervenu(e)
+tu fus intervenu(e)
+il (elle) fut intervenu(e)
+nous fûmes intervenu(e)s
+vous fûtes intervenu(e)s
+ils (elles) furent intervenu(e)s
+
+** Futur antérieur
+
+je serai intervenu(e)
+tu seras intervenu(e)
+il (elle) sera intervenu(e)
+nous serons intervenu(e)s
+vous serez intervenu(e)s
+ils (elles) seront intervenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais intervenu(e)
+tu serais intervenu(e)
+il (elle) serait intervenu(e)
+nous serions intervenu(e)s
+vous seriez intervenu(e)s
+ils (elles) seraient intervenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois intervenu(e)
+que tu sois intervenu(e)
+qu’il (elle) soit intervenu(e)
+que nous soyons intervenu(e)s
+que vous soyez intervenu(e)s
+qu’ils (elles) soient intervenu(e)s
+
+** Plus-que-parfait
+
+que je fusse intervenu(e)
+que tu fusses intervenu(e)
+qu’il (elle) fût intervenu(e)
+que nous fussions intervenu(e)s
+que vous fussiez intervenu(e)s
+qu’ils (elles) fussent intervenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons intervenu(e)s
+soyez intervenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être intervenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant intervenu(e)(s)
+intervenu (u, ue, us, ues)

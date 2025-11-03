@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe complexifier
+
+* INDICATIF
+
+** Présent
+
+je complexifie
+tu complexifies
+il (elle) complexifie
+nous complexifions
+vous complexifiez
+ils (elles) complexifient
+
+** Imparfait
+
+je complexifiais
+tu complexifiais
+il (elle) complexifiait
+nous complexifiions
+vous complexifiiez
+ils (elles) complexifiaient
+
+** Passé simple
+
+je complexifiai
+tu complexifias
+il (elle) complexifia
+nous complexifiâmes
+vous complexifiâtes
+ils (elles) complexifièrent
+
+** Futur simple
+
+je complexifierai
+tu complexifieras
+il (elle) complexifiera
+nous complexifierons
+vous complexifierez
+ils (elles) complexifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je complexifierais
+tu complexifierais
+il (elle) complexifierait
+nous complexifierions
+vous complexifieriez
+ils (elles) complexifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je complexifie
+que tu complexifies
+qu’il (elle) complexifie
+que nous complexifiions
+que vous complexifiiez
+qu’ils (elles) complexifient
+
+** Imparfait
+
+que je complexifiasse
+que tu complexifiasses
+qu’il (elle) complexifiât
+que nous complexifiassions
+que vous complexifiassiez
+qu’ils (elles) complexifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+complexifie
+complexifions
+complexifiez
+
+* INFINITIF
+
+** Présent
+
+complexifier
+
+* PARTICIPE
+
+** Présent
+
+complexifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai complexifié
+tu as complexifié
+il (elle) a complexifié
+nous avons complexifié
+vous avez complexifié
+ils (elles) ont complexifié
+
+** Plus-que-parfait
+
+j'avais complexifié
+tu avais complexifié
+il (elle) avait complexifié
+nous avions complexifié
+vous aviez complexifié
+ils (elles) avaient complexifié
+
+** Passé antérieur
+
+j'eus complexifié
+tu eus complexifié
+il (elle) eut complexifié
+nous eûmes complexifié
+vous eûtes complexifié
+ils (elles) eurent complexifié
+
+** Futur antérieur
+
+j'aurai complexifié
+tu auras complexifié
+il (elle) aura complexifié
+nous aurons complexifié
+vous aurez complexifié
+ils (elles) auront complexifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais complexifié
+tu aurais complexifié
+il (elle) aurait complexifié
+nous aurions complexifié
+vous auriez complexifié
+ils (elles) auraient complexifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie complexifié
+que tu aies complexifié
+qu’il (elle) ait complexifié
+que nous ayons complexifié
+que vous ayez complexifié
+qu’ils (elles) aient complexifié
+
+** Plus-que-parfait
+
+que j'eusse complexifié
+que tu eusses complexifié
+qu’il (elle) eût complexifié
+que nous eussions complexifié
+que vous eussiez complexifié
+qu’ils (elles) eussent complexifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons complexifié
+ayez complexifié
+
+* INFINITIF
+
+** Passé
+
+avoir complexifié
+
+* PARTICIPE
+
+** Passé
+
+ayant complexifié
+complexifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis complexifié(e)
+tu es complexifié(e)
+il (elle) est complexifié(e)
+nous sommes complexifié(e)s
+vous êtes complexifié(e)s
+ils (elles) sont complexifié(e)s
+
+** Imparfait
+
+j'étais complexifié(e)
+tu étais complexifié(e)
+il (elle) était complexifié(e)
+nous étions complexifié(e)s
+vous étiez complexifié(e)s
+ils (elles) étaient complexifié(e)s
+
+** Passé simple
+
+je fus complexifié(e)
+tu fus complexifié(e)
+il (elle) fut complexifié(e)
+nous fûmes complexifié(e)s
+vous fûtes complexifié(e)s
+ils (elles) furent complexifié(e)s
+
+** Futur simple
+
+je serai complexifié(e)
+tu seras complexifié(e)
+il (elle) sera complexifié(e)
+nous serons complexifié(e)s
+vous serez complexifié(e)s
+ils (elles) seront complexifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais complexifié(e)
+tu serais complexifié(e)
+il (elle) serait complexifié(e)
+nous serions complexifié(e)s
+vous seriez complexifié(e)s
+ils (elles) seraient complexifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois complexifié(e)
+que tu sois complexifié(e)
+qu’il (elle) soit complexifié(e)
+que nous soyons complexifié(e)s
+que vous soyez complexifié(e)s
+qu’ils (elles) soient complexifié(e)s
+
+** Imparfait
+
+que je fusse complexifié(e)
+que tu fusses complexifié(e)
+qu’il (elle) fût complexifié(e)
+que nous fussions complexifié(e)s
+que vous fussiez complexifié(e)s
+qu’ils (elles) fussent complexifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons complexifié(e)s
+soyez complexifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être complexifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant complexifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été complexifié(e)
+tu as été complexifié(e)
+il (elle) a été complexifié(e)
+nous avons été complexifié(e)s
+vous avez été complexifié(e)s
+ils (elles) ont été complexifié(e)s
+
+** Plus-que-parfait
+
+j'avais été complexifié(e)
+il (elle) avait été complexifié(e)
+nous avions été complexifié(e)s
+ils (elles) avaient été complexifié(e)s
+
+** Passé antérieur
+
+j'eus été complexifié(e)
+tu eus été complexifié(e)
+il (elle) eut été complexifié(e)
+nous eûmes été complexifié(e)s
+vous eûtes été complexifié(e)s
+ils (elles) eurent été complexifié(e)s
+
+** Futur antérieur
+
+j'aurai été complexifié(e)
+tu auras été complexifié(e)
+il (elle) aura été complexifié(e)
+nous aurons été complexifié(e)s
+vous aurez été complexifié(e)s
+ils (elles) auront été complexifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été complexifié(e)
+j'aurais été complexifié(e)
+il (elle) aurait été complexifié(e)
+nous aurions été complexifié(e)s
+vous auriez été complexifié(e)s
+ils (elles) auraient été complexifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été complexifié(e)
+que tu aies été complexifié(e)
+qu’il (elle) ait été complexifié(e)
+que nous ayons été complexifié(e)s
+que vous ayez été complexifié(e)s
+qu’ils (elles) aient été complexifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été complexifié(e)
+que tu eusses été complexifié(e)
+qu’il (elle) eût été complexifié(e)
+que nous eussions été complexifié(e)s
+que vous eussiez été complexifié(e)s
+qu’ils (elles) eussent été complexifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été complexifié(e)
+ayons été complexifié(e)s
+ayez été complexifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été complexifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été complexifié(e)(s)

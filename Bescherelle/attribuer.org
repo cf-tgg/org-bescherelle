@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attribuer
+
+* INDICATIF
+
+** Présent
+
+j'attribue
+tu attribues
+il (elle) attribue
+nous attribuons
+vous attribuez
+ils (elles) attribuent
+
+** Imparfait
+
+j'attribuais
+tu attribuais
+il (elle) attribuait
+nous attribuions
+vous attribuiez
+ils (elles) attribuaient
+
+** Passé simple
+
+j'attribuai
+tu attribuas
+il (elle) attribua
+nous attribuâmes
+vous attribuâtes
+ils (elles) attribuèrent
+
+** Futur simple
+
+j'attribuerai
+tu attribueras
+il (elle) attribuera
+nous attribuerons
+vous attribuerez
+ils (elles) attribueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attribuerais
+tu attribuerais
+il (elle) attribuerait
+nous attribuerions
+vous attribueriez
+ils (elles) attribueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attribue
+que tu attribues
+qu’il (elle) attribue
+que nous attribuions
+que vous attribuiez
+qu’ils (elles) attribuent
+
+** Imparfait
+
+que j'attribuasse
+que tu attribuasses
+qu’il (elle) attribuât
+que nous attribuassions
+que vous attribuassiez
+qu’ils (elles) attribuassent
+
+* IMPÉRATIF
+
+** Présent
+
+attribue
+attribuons
+attribuez
+
+* INFINITIF
+
+** Présent
+
+attribuer
+
+* PARTICIPE
+
+** Présent
+
+attribuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attribué
+tu as attribué
+il (elle) a attribué
+nous avons attribué
+vous avez attribué
+ils (elles) ont attribué
+
+** Plus-que-parfait
+
+j'avais attribué
+tu avais attribué
+il (elle) avait attribué
+nous avions attribué
+vous aviez attribué
+ils (elles) avaient attribué
+
+** Passé antérieur
+
+j'eus attribué
+tu eus attribué
+il (elle) eut attribué
+nous eûmes attribué
+vous eûtes attribué
+ils (elles) eurent attribué
+
+** Futur antérieur
+
+j'aurai attribué
+tu auras attribué
+il (elle) aura attribué
+nous aurons attribué
+vous aurez attribué
+ils (elles) auront attribué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attribué
+tu aurais attribué
+il (elle) aurait attribué
+nous aurions attribué
+vous auriez attribué
+ils (elles) auraient attribué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attribué
+que tu aies attribué
+qu’il (elle) ait attribué
+que nous ayons attribué
+que vous ayez attribué
+qu’ils (elles) aient attribué
+
+** Plus-que-parfait
+
+que j'eusse attribué
+que tu eusses attribué
+qu’il (elle) eût attribué
+que nous eussions attribué
+que vous eussiez attribué
+qu’ils (elles) eussent attribué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attribué
+ayez attribué
+
+* INFINITIF
+
+** Passé
+
+avoir attribué
+
+* PARTICIPE
+
+** Passé
+
+ayant attribué
+attribué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attribué(e)
+tu es attribué(e)
+il (elle) est attribué(e)
+nous sommes attribué(e)s
+vous êtes attribué(e)s
+ils (elles) sont attribué(e)s
+
+** Imparfait
+
+j'étais attribué(e)
+tu étais attribué(e)
+il (elle) était attribué(e)
+nous étions attribué(e)s
+vous étiez attribué(e)s
+ils (elles) étaient attribué(e)s
+
+** Passé simple
+
+je fus attribué(e)
+tu fus attribué(e)
+il (elle) fut attribué(e)
+nous fûmes attribué(e)s
+vous fûtes attribué(e)s
+ils (elles) furent attribué(e)s
+
+** Futur simple
+
+je serai attribué(e)
+tu seras attribué(e)
+il (elle) sera attribué(e)
+nous serons attribué(e)s
+vous serez attribué(e)s
+ils (elles) seront attribué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attribué(e)
+tu serais attribué(e)
+il (elle) serait attribué(e)
+nous serions attribué(e)s
+vous seriez attribué(e)s
+ils (elles) seraient attribué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attribué(e)
+que tu sois attribué(e)
+qu’il (elle) soit attribué(e)
+que nous soyons attribué(e)s
+que vous soyez attribué(e)s
+qu’ils (elles) soient attribué(e)s
+
+** Imparfait
+
+que je fusse attribué(e)
+que tu fusses attribué(e)
+qu’il (elle) fût attribué(e)
+que nous fussions attribué(e)s
+que vous fussiez attribué(e)s
+qu’ils (elles) fussent attribué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attribué(e)s
+soyez attribué(e)s
+
+* INFINITIF
+
+** Présent
+
+être attribué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attribué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attribué(e)
+tu as été attribué(e)
+il (elle) a été attribué(e)
+nous avons été attribué(e)s
+vous avez été attribué(e)s
+ils (elles) ont été attribué(e)s
+
+** Plus-que-parfait
+
+j'avais été attribué(e)
+il (elle) avait été attribué(e)
+nous avions été attribué(e)s
+ils (elles) avaient été attribué(e)s
+
+** Passé antérieur
+
+j'eus été attribué(e)
+tu eus été attribué(e)
+il (elle) eut été attribué(e)
+nous eûmes été attribué(e)s
+vous eûtes été attribué(e)s
+ils (elles) eurent été attribué(e)s
+
+** Futur antérieur
+
+j'aurai été attribué(e)
+tu auras été attribué(e)
+il (elle) aura été attribué(e)
+nous aurons été attribué(e)s
+vous aurez été attribué(e)s
+ils (elles) auront été attribué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attribué(e)
+j'aurais été attribué(e)
+il (elle) aurait été attribué(e)
+nous aurions été attribué(e)s
+vous auriez été attribué(e)s
+ils (elles) auraient été attribué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attribué(e)
+que tu aies été attribué(e)
+qu’il (elle) ait été attribué(e)
+que nous ayons été attribué(e)s
+que vous ayez été attribué(e)s
+qu’ils (elles) aient été attribué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attribué(e)
+que tu eusses été attribué(e)
+qu’il (elle) eût été attribué(e)
+que nous eussions été attribué(e)s
+que vous eussiez été attribué(e)s
+qu’ils (elles) eussent été attribué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attribué(e)
+ayons été attribué(e)s
+ayez été attribué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attribué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attribué(e)(s)

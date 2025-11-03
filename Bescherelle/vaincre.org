@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vaincre
+
+* INDICATIF
+
+** Présent
+
+je vaincs
+tu vaincs
+il (elle) vainc
+nous vainquons
+vous vainquez
+ils (elles) vainquent
+
+** Imparfait
+
+je vainquais
+tu vainquais
+il (elle) vainquait
+nous vainquions
+vous vainquiez
+ils (elles) vainquaient
+
+** Passé simple
+
+je vainquis
+tu vainquis
+il (elle) vainquit
+nous vainquîmes
+vous vainquîtes
+ils (elles) vainquirent
+
+** Futur simple
+
+je vaincrai
+tu vaincras
+il (elle) vaincra
+nous vaincrons
+vous vaincrez
+ils (elles) vaincront
+
+* CONDITIONNEL
+
+** Présent
+
+je vaincrais
+tu vaincrais
+il (elle) vaincrait
+nous vaincrions
+vous vaincriez
+ils (elles) vaincraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vainque
+que tu vainques
+qu’il (elle) vainque
+que nous vainquions
+que vous vainquiez
+qu’ils (elles) vainquent
+
+** Imparfait
+
+que je vainquisse
+que tu vainquisses
+qu’il (elle) vainquît
+que nous vainquissions
+que vous vainquissiez
+qu’ils (elles) vainquissent
+
+* IMPÉRATIF
+
+** Présent
+
+vaincs
+vainquons
+vainquez
+
+* INFINITIF
+
+** Présent
+
+vaincre
+
+* PARTICIPE
+
+** Présent
+
+vainquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vaincu
+tu as vaincu
+il (elle) a vaincu
+nous avons vaincu
+vous avez vaincu
+ils (elles) ont vaincu
+
+** Plus-que-parfait
+
+j'avais vaincu
+tu avais vaincu
+il (elle) avait vaincu
+nous avions vaincu
+vous aviez vaincu
+ils (elles) avaient vaincu
+
+** Passé antérieur
+
+j'eus vaincu
+tu eus vaincu
+il (elle) eut vaincu
+nous eûmes vaincu
+vous eûtes vaincu
+ils (elles) eurent vaincu
+
+** Futur antérieur
+
+j'aurai vaincu
+tu auras vaincu
+il (elle) aura vaincu
+nous aurons vaincu
+vous aurez vaincu
+ils (elles) auront vaincu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vaincu
+tu aurais vaincu
+il (elle) aurait vaincu
+nous aurions vaincu
+vous auriez vaincu
+ils (elles) auraient vaincu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vaincu
+que tu aies vaincu
+qu’il (elle) ait vaincu
+que nous ayons vaincu
+que vous ayez vaincu
+qu’ils (elles) aient vaincu
+
+** Plus-que-parfait
+
+que j'eusse vaincu
+que tu eusses vaincu
+qu’il (elle) eût vaincu
+que nous eussions vaincu
+que vous eussiez vaincu
+qu’ils (elles) eussent vaincu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vaincu
+ayez vaincu
+
+* INFINITIF
+
+** Passé
+
+avoir vaincu
+
+* PARTICIPE
+
+** Passé
+
+ayant vaincu
+vaincu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis vaincu(e)
+tu es vaincu(e)
+il (elle) est vaincu(e)
+nous sommes vaincu(e)s
+vous êtes vaincu(e)s
+ils (elles) sont vaincu(e)s
+
+** Imparfait
+
+j'étais vaincu(e)
+tu étais vaincu(e)
+il (elle) était vaincu(e)
+nous étions vaincu(e)s
+vous étiez vaincu(e)s
+ils (elles) étaient vaincu(e)s
+
+** Passé simple
+
+je fus vaincu(e)
+tu fus vaincu(e)
+il (elle) fut vaincu(e)
+nous fûmes vaincu(e)s
+vous fûtes vaincu(e)s
+ils (elles) furent vaincu(e)s
+
+** Futur simple
+
+je serai vaincu(e)
+tu seras vaincu(e)
+il (elle) sera vaincu(e)
+nous serons vaincu(e)s
+vous serez vaincu(e)s
+ils (elles) seront vaincu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vaincu(e)
+tu serais vaincu(e)
+il (elle) serait vaincu(e)
+nous serions vaincu(e)s
+vous seriez vaincu(e)s
+ils (elles) seraient vaincu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vaincu(e)
+que tu sois vaincu(e)
+qu’il (elle) soit vaincu(e)
+que nous soyons vaincu(e)s
+que vous soyez vaincu(e)s
+qu’ils (elles) soient vaincu(e)s
+
+** Imparfait
+
+que je fusse vaincu(e)
+que tu fusses vaincu(e)
+qu’il (elle) fût vaincu(e)
+que nous fussions vaincu(e)s
+que vous fussiez vaincu(e)s
+qu’ils (elles) fussent vaincu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vaincu(e)s
+soyez vaincu(e)s
+
+* INFINITIF
+
+** Présent
+
+être vaincu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vaincu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vaincu(e)
+tu as été vaincu(e)
+il (elle) a été vaincu(e)
+nous avons été vaincu(e)s
+vous avez été vaincu(e)s
+ils (elles) ont été vaincu(e)s
+
+** Plus-que-parfait
+
+j'avais été vaincu(e)
+il (elle) avait été vaincu(e)
+nous avions été vaincu(e)s
+ils (elles) avaient été vaincu(e)s
+
+** Passé antérieur
+
+j'eus été vaincu(e)
+tu eus été vaincu(e)
+il (elle) eut été vaincu(e)
+nous eûmes été vaincu(e)s
+vous eûtes été vaincu(e)s
+ils (elles) eurent été vaincu(e)s
+
+** Futur antérieur
+
+j'aurai été vaincu(e)
+tu auras été vaincu(e)
+il (elle) aura été vaincu(e)
+nous aurons été vaincu(e)s
+vous aurez été vaincu(e)s
+ils (elles) auront été vaincu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vaincu(e)
+j'aurais été vaincu(e)
+il (elle) aurait été vaincu(e)
+nous aurions été vaincu(e)s
+vous auriez été vaincu(e)s
+ils (elles) auraient été vaincu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vaincu(e)
+que tu aies été vaincu(e)
+qu’il (elle) ait été vaincu(e)
+que nous ayons été vaincu(e)s
+que vous ayez été vaincu(e)s
+qu’ils (elles) aient été vaincu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vaincu(e)
+que tu eusses été vaincu(e)
+qu’il (elle) eût été vaincu(e)
+que nous eussions été vaincu(e)s
+que vous eussiez été vaincu(e)s
+qu’ils (elles) eussent été vaincu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vaincu(e)
+ayons été vaincu(e)s
+ayez été vaincu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vaincu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vaincu(e)(s)

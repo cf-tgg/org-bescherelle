@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reduire
+
+* INDICATIF
+
+** Présent
+
+je réduis
+tu réduis
+il (elle) réduit
+nous réduisons
+vous réduisez
+ils (elles) réduisent
+
+** Imparfait
+
+je réduisais
+tu réduisais
+il (elle) réduisait
+nous réduisions
+vous réduisiez
+ils (elles) réduisaient
+
+** Passé simple
+
+je réduisis
+tu réduisis
+il (elle) réduisit
+nous réduisîmes
+vous réduisîtes
+ils (elles) réduisirent
+
+** Futur simple
+
+je réduirai
+tu réduiras
+il (elle) réduira
+nous réduirons
+vous réduirez
+ils (elles) réduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je réduirais
+tu réduirais
+il (elle) réduirait
+nous réduirions
+vous réduiriez
+ils (elles) réduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je réduise
+que tu réduises
+qu’il (elle) réduise
+que nous réduisions
+que vous réduisiez
+qu’ils (elles) réduisent
+
+** Imparfait
+
+que je réduisisse
+que tu réduisisses
+qu’il (elle) réduisît
+que nous réduisissions
+que vous réduisissiez
+qu’ils (elles) réduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+réduis
+réduisons
+réduisez
+
+* INFINITIF
+
+** Présent
+
+réduire
+
+* PARTICIPE
+
+** Présent
+
+réduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réduit
+tu as réduit
+il (elle) a réduit
+nous avons réduit
+vous avez réduit
+ils (elles) ont réduit
+
+** Plus-que-parfait
+
+j'avais réduit
+tu avais réduit
+il (elle) avait réduit
+nous avions réduit
+vous aviez réduit
+ils (elles) avaient réduit
+
+** Passé antérieur
+
+j'eus réduit
+tu eus réduit
+il (elle) eut réduit
+nous eûmes réduit
+vous eûtes réduit
+ils (elles) eurent réduit
+
+** Futur antérieur
+
+j'aurai réduit
+tu auras réduit
+il (elle) aura réduit
+nous aurons réduit
+vous aurez réduit
+ils (elles) auront réduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réduit
+tu aurais réduit
+il (elle) aurait réduit
+nous aurions réduit
+vous auriez réduit
+ils (elles) auraient réduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réduit
+que tu aies réduit
+qu’il (elle) ait réduit
+que nous ayons réduit
+que vous ayez réduit
+qu’ils (elles) aient réduit
+
+** Plus-que-parfait
+
+que j'eusse réduit
+que tu eusses réduit
+qu’il (elle) eût réduit
+que nous eussions réduit
+que vous eussiez réduit
+qu’ils (elles) eussent réduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réduit
+ayez réduit
+
+* INFINITIF
+
+** Passé
+
+avoir réduit
+
+* PARTICIPE
+
+** Passé
+
+ayant réduit
+réduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis réduit(e)
+tu es réduit(e)
+il (elle) est réduit(e)
+nous sommes réduit(e)s
+vous êtes réduit(e)s
+ils (elles) sont réduit(e)s
+
+** Imparfait
+
+j'étais réduit(e)
+tu étais réduit(e)
+il (elle) était réduit(e)
+nous étions réduit(e)s
+vous étiez réduit(e)s
+ils (elles) étaient réduit(e)s
+
+** Passé simple
+
+je fus réduit(e)
+tu fus réduit(e)
+il (elle) fut réduit(e)
+nous fûmes réduit(e)s
+vous fûtes réduit(e)s
+ils (elles) furent réduit(e)s
+
+** Futur simple
+
+je serai réduit(e)
+tu seras réduit(e)
+il (elle) sera réduit(e)
+nous serons réduit(e)s
+vous serez réduit(e)s
+ils (elles) seront réduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réduit(e)
+tu serais réduit(e)
+il (elle) serait réduit(e)
+nous serions réduit(e)s
+vous seriez réduit(e)s
+ils (elles) seraient réduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réduit(e)
+que tu sois réduit(e)
+qu’il (elle) soit réduit(e)
+que nous soyons réduit(e)s
+que vous soyez réduit(e)s
+qu’ils (elles) soient réduit(e)s
+
+** Imparfait
+
+que je fusse réduit(e)
+que tu fusses réduit(e)
+qu’il (elle) fût réduit(e)
+que nous fussions réduit(e)s
+que vous fussiez réduit(e)s
+qu’ils (elles) fussent réduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réduit(e)s
+soyez réduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être réduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réduit(e)
+tu as été réduit(e)
+il (elle) a été réduit(e)
+nous avons été réduit(e)s
+vous avez été réduit(e)s
+ils (elles) ont été réduit(e)s
+
+** Plus-que-parfait
+
+j'avais été réduit(e)
+il (elle) avait été réduit(e)
+nous avions été réduit(e)s
+ils (elles) avaient été réduit(e)s
+
+** Passé antérieur
+
+j'eus été réduit(e)
+tu eus été réduit(e)
+il (elle) eut été réduit(e)
+nous eûmes été réduit(e)s
+vous eûtes été réduit(e)s
+ils (elles) eurent été réduit(e)s
+
+** Futur antérieur
+
+j'aurai été réduit(e)
+tu auras été réduit(e)
+il (elle) aura été réduit(e)
+nous aurons été réduit(e)s
+vous aurez été réduit(e)s
+ils (elles) auront été réduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réduit(e)
+j'aurais été réduit(e)
+il (elle) aurait été réduit(e)
+nous aurions été réduit(e)s
+vous auriez été réduit(e)s
+ils (elles) auraient été réduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réduit(e)
+que tu aies été réduit(e)
+qu’il (elle) ait été réduit(e)
+que nous ayons été réduit(e)s
+que vous ayez été réduit(e)s
+qu’ils (elles) aient été réduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réduit(e)
+que tu eusses été réduit(e)
+qu’il (elle) eût été réduit(e)
+que nous eussions été réduit(e)s
+que vous eussiez été réduit(e)s
+qu’ils (elles) eussent été réduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réduit(e)
+ayons été réduit(e)s
+ayez été réduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réduit(e)(s)

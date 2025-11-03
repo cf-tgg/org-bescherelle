@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe ruisseler
+
+* INDICATIF
+
+** Présent
+
+je ruisselle
+tu ruisselles
+il (elle) ruisselle
+nous ruisselons
+vous ruisselez
+ils (elles) ruissellent
+
+** Imparfait
+
+je ruisselais
+tu ruisselais
+il (elle) ruisselait
+nous ruisselions
+vous ruisseliez
+ils (elles) ruisselaient
+
+** Passé simple
+
+je ruisselai
+tu ruisselas
+il (elle) ruissela
+nous ruisselâmes
+vous ruisselâtes
+ils (elles) ruisselèrent
+
+** Futur simple
+
+je ruissellerai
+tu ruisselleras
+il (elle) ruissellera
+nous ruissellerons
+vous ruissellerez
+ils (elles) ruisselleront
+
+* CONDITIONNEL
+
+** Présent
+
+je ruissellerais
+tu ruissellerais
+il (elle) ruissellerait
+nous ruissellerions
+vous ruisselleriez
+ils (elles) ruisselleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ruisselle
+que tu ruisselles
+qu’il (elle) ruisselle
+que nous ruisselions
+que vous ruisseliez
+qu’ils (elles) ruissellent
+
+** Imparfait
+
+que je ruisselasse
+que tu ruisselasses
+qu’il (elle) ruisselât
+que nous ruisselassions
+que vous ruisselassiez
+qu’ils (elles) ruisselassent
+
+* IMPÉRATIF
+
+** Présent
+
+ruisselle
+ruisselons
+ruisselez
+
+* INFINITIF
+
+** Présent
+
+ruisseler
+
+* PARTICIPE
+
+** Présent
+
+ruisselant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ruisselé
+tu as ruisselé
+il (elle) a ruisselé
+nous avons ruisselé
+vous avez ruisselé
+ils (elles) ont ruisselé
+
+** Plus-que-parfait
+
+j'avais ruisselé
+tu avais ruisselé
+il (elle) avait ruisselé
+nous avions ruisselé
+vous aviez ruisselé
+ils (elles) avaient ruisselé
+
+** Passé antérieur
+
+j'eus ruisselé
+tu eus ruisselé
+il (elle) eut ruisselé
+nous eûmes ruisselé
+vous eûtes ruisselé
+ils (elles) eurent ruisselé
+
+** Futur antérieur
+
+j'aurai ruisselé
+tu auras ruisselé
+il (elle) aura ruisselé
+nous aurons ruisselé
+vous aurez ruisselé
+ils (elles) auront ruisselé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ruisselé
+tu aurais ruisselé
+il (elle) aurait ruisselé
+nous aurions ruisselé
+vous auriez ruisselé
+ils (elles) auraient ruisselé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ruisselé
+que tu aies ruisselé
+qu’il (elle) ait ruisselé
+que nous ayons ruisselé
+que vous ayez ruisselé
+qu’ils (elles) aient ruisselé
+
+** Plus-que-parfait
+
+que j'eusse ruisselé
+que tu eusses ruisselé
+qu’il (elle) eût ruisselé
+que nous eussions ruisselé
+que vous eussiez ruisselé
+qu’ils (elles) eussent ruisselé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ruisselé
+ayez ruisselé
+
+* INFINITIF
+
+** Passé
+
+avoir ruisselé
+
+* PARTICIPE
+
+** Passé
+
+ayant ruisselé
+ruisselé (invar.)

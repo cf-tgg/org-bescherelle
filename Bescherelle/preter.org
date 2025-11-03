@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe preter
+
+* INDICATIF
+
+** Présent
+
+je prête
+tu prêtes
+il (elle) prête
+nous prêtons
+vous prêtez
+ils (elles) prêtent
+
+** Imparfait
+
+je prêtais
+tu prêtais
+il (elle) prêtait
+nous prêtions
+vous prêtiez
+ils (elles) prêtaient
+
+** Passé simple
+
+je prêtai
+tu prêtas
+il (elle) prêta
+nous prêtâmes
+vous prêtâtes
+ils (elles) prêtèrent
+
+** Futur simple
+
+je prêterai
+tu prêteras
+il (elle) prêtera
+nous prêterons
+vous prêterez
+ils (elles) prêteront
+
+* CONDITIONNEL
+
+** Présent
+
+je prêterais
+tu prêterais
+il (elle) prêterait
+nous prêterions
+vous prêteriez
+ils (elles) prêteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prête
+que tu prêtes
+qu’il (elle) prête
+que nous prêtions
+que vous prêtiez
+qu’ils (elles) prêtent
+
+** Imparfait
+
+que je prêtasse
+que tu prêtasses
+qu’il (elle) prêtât
+que nous prêtassions
+que vous prêtassiez
+qu’ils (elles) prêtassent
+
+* IMPÉRATIF
+
+** Présent
+
+prête
+prêtons
+prêtez
+
+* INFINITIF
+
+** Présent
+
+prêter
+
+* PARTICIPE
+
+** Présent
+
+prêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prêté
+tu as prêté
+il (elle) a prêté
+nous avons prêté
+vous avez prêté
+ils (elles) ont prêté
+
+** Plus-que-parfait
+
+j'avais prêté
+tu avais prêté
+il (elle) avait prêté
+nous avions prêté
+vous aviez prêté
+ils (elles) avaient prêté
+
+** Passé antérieur
+
+j'eus prêté
+tu eus prêté
+il (elle) eut prêté
+nous eûmes prêté
+vous eûtes prêté
+ils (elles) eurent prêté
+
+** Futur antérieur
+
+j'aurai prêté
+tu auras prêté
+il (elle) aura prêté
+nous aurons prêté
+vous aurez prêté
+ils (elles) auront prêté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prêté
+tu aurais prêté
+il (elle) aurait prêté
+nous aurions prêté
+vous auriez prêté
+ils (elles) auraient prêté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prêté
+que tu aies prêté
+qu’il (elle) ait prêté
+que nous ayons prêté
+que vous ayez prêté
+qu’ils (elles) aient prêté
+
+** Plus-que-parfait
+
+que j'eusse prêté
+que tu eusses prêté
+qu’il (elle) eût prêté
+que nous eussions prêté
+que vous eussiez prêté
+qu’ils (elles) eussent prêté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prêté
+ayez prêté
+
+* INFINITIF
+
+** Passé
+
+avoir prêté
+
+* PARTICIPE
+
+** Passé
+
+ayant prêté
+prêté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prêté(e)
+tu es prêté(e)
+il (elle) est prêté(e)
+nous sommes prêté(e)s
+vous êtes prêté(e)s
+ils (elles) sont prêté(e)s
+
+** Imparfait
+
+j'étais prêté(e)
+tu étais prêté(e)
+il (elle) était prêté(e)
+nous étions prêté(e)s
+vous étiez prêté(e)s
+ils (elles) étaient prêté(e)s
+
+** Passé simple
+
+je fus prêté(e)
+tu fus prêté(e)
+il (elle) fut prêté(e)
+nous fûmes prêté(e)s
+vous fûtes prêté(e)s
+ils (elles) furent prêté(e)s
+
+** Futur simple
+
+je serai prêté(e)
+tu seras prêté(e)
+il (elle) sera prêté(e)
+nous serons prêté(e)s
+vous serez prêté(e)s
+ils (elles) seront prêté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prêté(e)
+tu serais prêté(e)
+il (elle) serait prêté(e)
+nous serions prêté(e)s
+vous seriez prêté(e)s
+ils (elles) seraient prêté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prêté(e)
+que tu sois prêté(e)
+qu’il (elle) soit prêté(e)
+que nous soyons prêté(e)s
+que vous soyez prêté(e)s
+qu’ils (elles) soient prêté(e)s
+
+** Imparfait
+
+que je fusse prêté(e)
+que tu fusses prêté(e)
+qu’il (elle) fût prêté(e)
+que nous fussions prêté(e)s
+que vous fussiez prêté(e)s
+qu’ils (elles) fussent prêté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prêté(e)s
+soyez prêté(e)s
+
+* INFINITIF
+
+** Présent
+
+être prêté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prêté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prêté(e)
+tu as été prêté(e)
+il (elle) a été prêté(e)
+nous avons été prêté(e)s
+vous avez été prêté(e)s
+ils (elles) ont été prêté(e)s
+
+** Plus-que-parfait
+
+j'avais été prêté(e)
+il (elle) avait été prêté(e)
+nous avions été prêté(e)s
+ils (elles) avaient été prêté(e)s
+
+** Passé antérieur
+
+j'eus été prêté(e)
+tu eus été prêté(e)
+il (elle) eut été prêté(e)
+nous eûmes été prêté(e)s
+vous eûtes été prêté(e)s
+ils (elles) eurent été prêté(e)s
+
+** Futur antérieur
+
+j'aurai été prêté(e)
+tu auras été prêté(e)
+il (elle) aura été prêté(e)
+nous aurons été prêté(e)s
+vous aurez été prêté(e)s
+ils (elles) auront été prêté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prêté(e)
+j'aurais été prêté(e)
+il (elle) aurait été prêté(e)
+nous aurions été prêté(e)s
+vous auriez été prêté(e)s
+ils (elles) auraient été prêté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prêté(e)
+que tu aies été prêté(e)
+qu’il (elle) ait été prêté(e)
+que nous ayons été prêté(e)s
+que vous ayez été prêté(e)s
+qu’ils (elles) aient été prêté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prêté(e)
+que tu eusses été prêté(e)
+qu’il (elle) eût été prêté(e)
+que nous eussions été prêté(e)s
+que vous eussiez été prêté(e)s
+qu’ils (elles) eussent été prêté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prêté(e)
+ayons été prêté(e)s
+ayez été prêté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prêté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prêté(e)(s)

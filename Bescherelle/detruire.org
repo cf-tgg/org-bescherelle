@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe detruire
+
+* INDICATIF
+
+** Présent
+
+je détruis
+tu détruis
+il (elle) détruit
+nous détruisons
+vous détruisez
+ils (elles) détruisent
+
+** Imparfait
+
+je détruisais
+tu détruisais
+il (elle) détruisait
+nous détruisions
+vous détruisiez
+ils (elles) détruisaient
+
+** Passé simple
+
+je détruisis
+tu détruisis
+il (elle) détruisit
+nous détruisîmes
+vous détruisîtes
+ils (elles) détruisirent
+
+** Futur simple
+
+je détruirai
+tu détruiras
+il (elle) détruira
+nous détruirons
+vous détruirez
+ils (elles) détruiront
+
+* CONDITIONNEL
+
+** Présent
+
+je détruirais
+tu détruirais
+il (elle) détruirait
+nous détruirions
+vous détruiriez
+ils (elles) détruiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je détruise
+que tu détruises
+qu’il (elle) détruise
+que nous détruisions
+que vous détruisiez
+qu’ils (elles) détruisent
+
+** Imparfait
+
+que je détruisisse
+que tu détruisisses
+qu’il (elle) détruisît
+que nous détruisissions
+que vous détruisissiez
+qu’ils (elles) détruisissent
+
+* IMPÉRATIF
+
+** Présent
+
+détruis
+détruisons
+détruisez
+
+* INFINITIF
+
+** Présent
+
+détruire
+
+* PARTICIPE
+
+** Présent
+
+détruisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détruit
+tu as détruit
+il (elle) a détruit
+nous avons détruit
+vous avez détruit
+ils (elles) ont détruit
+
+** Plus-que-parfait
+
+j'avais détruit
+tu avais détruit
+il (elle) avait détruit
+nous avions détruit
+vous aviez détruit
+ils (elles) avaient détruit
+
+** Passé antérieur
+
+j'eus détruit
+tu eus détruit
+il (elle) eut détruit
+nous eûmes détruit
+vous eûtes détruit
+ils (elles) eurent détruit
+
+** Futur antérieur
+
+j'aurai détruit
+tu auras détruit
+il (elle) aura détruit
+nous aurons détruit
+vous aurez détruit
+ils (elles) auront détruit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détruit
+tu aurais détruit
+il (elle) aurait détruit
+nous aurions détruit
+vous auriez détruit
+ils (elles) auraient détruit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détruit
+que tu aies détruit
+qu’il (elle) ait détruit
+que nous ayons détruit
+que vous ayez détruit
+qu’ils (elles) aient détruit
+
+** Plus-que-parfait
+
+que j'eusse détruit
+que tu eusses détruit
+qu’il (elle) eût détruit
+que nous eussions détruit
+que vous eussiez détruit
+qu’ils (elles) eussent détruit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détruit
+ayez détruit
+
+* INFINITIF
+
+** Passé
+
+avoir détruit
+
+* PARTICIPE
+
+** Passé
+
+ayant détruit
+détruit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis détruit(e)
+tu es détruit(e)
+il (elle) est détruit(e)
+nous sommes détruit(e)s
+vous êtes détruit(e)s
+ils (elles) sont détruit(e)s
+
+** Imparfait
+
+j'étais détruit(e)
+tu étais détruit(e)
+il (elle) était détruit(e)
+nous étions détruit(e)s
+vous étiez détruit(e)s
+ils (elles) étaient détruit(e)s
+
+** Passé simple
+
+je fus détruit(e)
+tu fus détruit(e)
+il (elle) fut détruit(e)
+nous fûmes détruit(e)s
+vous fûtes détruit(e)s
+ils (elles) furent détruit(e)s
+
+** Futur simple
+
+je serai détruit(e)
+tu seras détruit(e)
+il (elle) sera détruit(e)
+nous serons détruit(e)s
+vous serez détruit(e)s
+ils (elles) seront détruit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais détruit(e)
+tu serais détruit(e)
+il (elle) serait détruit(e)
+nous serions détruit(e)s
+vous seriez détruit(e)s
+ils (elles) seraient détruit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois détruit(e)
+que tu sois détruit(e)
+qu’il (elle) soit détruit(e)
+que nous soyons détruit(e)s
+que vous soyez détruit(e)s
+qu’ils (elles) soient détruit(e)s
+
+** Imparfait
+
+que je fusse détruit(e)
+que tu fusses détruit(e)
+qu’il (elle) fût détruit(e)
+que nous fussions détruit(e)s
+que vous fussiez détruit(e)s
+qu’ils (elles) fussent détruit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons détruit(e)s
+soyez détruit(e)s
+
+* INFINITIF
+
+** Présent
+
+être détruit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant détruit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été détruit(e)
+tu as été détruit(e)
+il (elle) a été détruit(e)
+nous avons été détruit(e)s
+vous avez été détruit(e)s
+ils (elles) ont été détruit(e)s
+
+** Plus-que-parfait
+
+j'avais été détruit(e)
+il (elle) avait été détruit(e)
+nous avions été détruit(e)s
+ils (elles) avaient été détruit(e)s
+
+** Passé antérieur
+
+j'eus été détruit(e)
+tu eus été détruit(e)
+il (elle) eut été détruit(e)
+nous eûmes été détruit(e)s
+vous eûtes été détruit(e)s
+ils (elles) eurent été détruit(e)s
+
+** Futur antérieur
+
+j'aurai été détruit(e)
+tu auras été détruit(e)
+il (elle) aura été détruit(e)
+nous aurons été détruit(e)s
+vous aurez été détruit(e)s
+ils (elles) auront été détruit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été détruit(e)
+j'aurais été détruit(e)
+il (elle) aurait été détruit(e)
+nous aurions été détruit(e)s
+vous auriez été détruit(e)s
+ils (elles) auraient été détruit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été détruit(e)
+que tu aies été détruit(e)
+qu’il (elle) ait été détruit(e)
+que nous ayons été détruit(e)s
+que vous ayez été détruit(e)s
+qu’ils (elles) aient été détruit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été détruit(e)
+que tu eusses été détruit(e)
+qu’il (elle) eût été détruit(e)
+que nous eussions été détruit(e)s
+que vous eussiez été détruit(e)s
+qu’ils (elles) eussent été détruit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été détruit(e)
+ayons été détruit(e)s
+ayez été détruit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été détruit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été détruit(e)(s)

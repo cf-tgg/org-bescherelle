@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tirer
+
+* INDICATIF
+
+** Présent
+
+je tire
+tu tires
+il (elle) tire
+nous tirons
+vous tirez
+ils (elles) tirent
+
+** Imparfait
+
+je tirais
+tu tirais
+il (elle) tirait
+nous tirions
+vous tiriez
+ils (elles) tiraient
+
+** Passé simple
+
+je tirai
+tu tiras
+il (elle) tira
+nous tirâmes
+vous tirâtes
+ils (elles) tirèrent
+
+** Futur simple
+
+je tirerai
+tu tireras
+il (elle) tirera
+nous tirerons
+vous tirerez
+ils (elles) tireront
+
+* CONDITIONNEL
+
+** Présent
+
+je tirerais
+tu tirerais
+il (elle) tirerait
+nous tirerions
+vous tireriez
+ils (elles) tireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tire
+que tu tires
+qu’il (elle) tire
+que nous tirions
+que vous tiriez
+qu’ils (elles) tirent
+
+** Imparfait
+
+que je tirasse
+que tu tirasses
+qu’il (elle) tirât
+que nous tirassions
+que vous tirassiez
+qu’ils (elles) tirassent
+
+* IMPÉRATIF
+
+** Présent
+
+tire
+tirons
+tirez
+
+* INFINITIF
+
+** Présent
+
+tirer
+
+* PARTICIPE
+
+** Présent
+
+tirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tiré
+tu as tiré
+il (elle) a tiré
+nous avons tiré
+vous avez tiré
+ils (elles) ont tiré
+
+** Plus-que-parfait
+
+j'avais tiré
+tu avais tiré
+il (elle) avait tiré
+nous avions tiré
+vous aviez tiré
+ils (elles) avaient tiré
+
+** Passé antérieur
+
+j'eus tiré
+tu eus tiré
+il (elle) eut tiré
+nous eûmes tiré
+vous eûtes tiré
+ils (elles) eurent tiré
+
+** Futur antérieur
+
+j'aurai tiré
+tu auras tiré
+il (elle) aura tiré
+nous aurons tiré
+vous aurez tiré
+ils (elles) auront tiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tiré
+tu aurais tiré
+il (elle) aurait tiré
+nous aurions tiré
+vous auriez tiré
+ils (elles) auraient tiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tiré
+que tu aies tiré
+qu’il (elle) ait tiré
+que nous ayons tiré
+que vous ayez tiré
+qu’ils (elles) aient tiré
+
+** Plus-que-parfait
+
+que j'eusse tiré
+que tu eusses tiré
+qu’il (elle) eût tiré
+que nous eussions tiré
+que vous eussiez tiré
+qu’ils (elles) eussent tiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tiré
+ayez tiré
+
+* INFINITIF
+
+** Passé
+
+avoir tiré
+
+* PARTICIPE
+
+** Passé
+
+ayant tiré
+tiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tiré(e)
+tu es tiré(e)
+il (elle) est tiré(e)
+nous sommes tiré(e)s
+vous êtes tiré(e)s
+ils (elles) sont tiré(e)s
+
+** Imparfait
+
+j'étais tiré(e)
+tu étais tiré(e)
+il (elle) était tiré(e)
+nous étions tiré(e)s
+vous étiez tiré(e)s
+ils (elles) étaient tiré(e)s
+
+** Passé simple
+
+je fus tiré(e)
+tu fus tiré(e)
+il (elle) fut tiré(e)
+nous fûmes tiré(e)s
+vous fûtes tiré(e)s
+ils (elles) furent tiré(e)s
+
+** Futur simple
+
+je serai tiré(e)
+tu seras tiré(e)
+il (elle) sera tiré(e)
+nous serons tiré(e)s
+vous serez tiré(e)s
+ils (elles) seront tiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tiré(e)
+tu serais tiré(e)
+il (elle) serait tiré(e)
+nous serions tiré(e)s
+vous seriez tiré(e)s
+ils (elles) seraient tiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tiré(e)
+que tu sois tiré(e)
+qu’il (elle) soit tiré(e)
+que nous soyons tiré(e)s
+que vous soyez tiré(e)s
+qu’ils (elles) soient tiré(e)s
+
+** Imparfait
+
+que je fusse tiré(e)
+que tu fusses tiré(e)
+qu’il (elle) fût tiré(e)
+que nous fussions tiré(e)s
+que vous fussiez tiré(e)s
+qu’ils (elles) fussent tiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tiré(e)s
+soyez tiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être tiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tiré(e)
+tu as été tiré(e)
+il (elle) a été tiré(e)
+nous avons été tiré(e)s
+vous avez été tiré(e)s
+ils (elles) ont été tiré(e)s
+
+** Plus-que-parfait
+
+j'avais été tiré(e)
+il (elle) avait été tiré(e)
+nous avions été tiré(e)s
+ils (elles) avaient été tiré(e)s
+
+** Passé antérieur
+
+j'eus été tiré(e)
+tu eus été tiré(e)
+il (elle) eut été tiré(e)
+nous eûmes été tiré(e)s
+vous eûtes été tiré(e)s
+ils (elles) eurent été tiré(e)s
+
+** Futur antérieur
+
+j'aurai été tiré(e)
+tu auras été tiré(e)
+il (elle) aura été tiré(e)
+nous aurons été tiré(e)s
+vous aurez été tiré(e)s
+ils (elles) auront été tiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tiré(e)
+j'aurais été tiré(e)
+il (elle) aurait été tiré(e)
+nous aurions été tiré(e)s
+vous auriez été tiré(e)s
+ils (elles) auraient été tiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tiré(e)
+que tu aies été tiré(e)
+qu’il (elle) ait été tiré(e)
+que nous ayons été tiré(e)s
+que vous ayez été tiré(e)s
+qu’ils (elles) aient été tiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tiré(e)
+que tu eusses été tiré(e)
+qu’il (elle) eût été tiré(e)
+que nous eussions été tiré(e)s
+que vous eussiez été tiré(e)s
+qu’ils (elles) eussent été tiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tiré(e)
+ayons été tiré(e)s
+ayez été tiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tiré(e)(s)

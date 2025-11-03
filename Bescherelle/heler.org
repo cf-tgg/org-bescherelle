@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe heler
+
+* INDICATIF
+
+** Présent
+
+je hèle
+tu hèles
+il (elle) hèle
+nous hélons
+vous hélez
+ils (elles) hèlent
+
+** Imparfait
+
+je hélais
+tu hélais
+il (elle) hélait
+nous hélions
+vous héliez
+ils (elles) hélaient
+
+** Passé simple
+
+je hélai
+tu hélas
+il (elle) héla
+nous hélâmes
+vous hélâtes
+ils (elles) hélèrent
+
+** Futur simple
+
+je hélerai
+tu héleras
+il (elle) hélera
+nous hélerons
+vous hélerez
+ils (elles) héleront
+
+* CONDITIONNEL
+
+** Présent
+
+je hélerais
+tu hélerais
+il (elle) hélerait
+nous hélerions
+vous héleriez
+ils (elles) héleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je hèle
+que tu hèles
+qu’il (elle) hèle
+que nous hélions
+que vous héliez
+qu’ils (elles) hèlent
+
+** Imparfait
+
+que je hélasse
+que tu hélasses
+qu’il (elle) hélât
+que nous hélassions
+que vous hélassiez
+qu’ils (elles) hélassent
+
+* IMPÉRATIF
+
+** Présent
+
+hèle
+hélons
+hélez
+
+* INFINITIF
+
+** Présent
+
+héler
+
+* PARTICIPE
+
+** Présent
+
+hélant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai hélé
+tu as hélé
+il (elle) a hélé
+nous avons hélé
+vous avez hélé
+ils (elles) ont hélé
+
+** Plus-que-parfait
+
+j'avais hélé
+tu avais hélé
+il (elle) avait hélé
+nous avions hélé
+vous aviez hélé
+ils (elles) avaient hélé
+
+** Passé antérieur
+
+j'eus hélé
+tu eus hélé
+il (elle) eut hélé
+nous eûmes hélé
+vous eûtes hélé
+ils (elles) eurent hélé
+
+** Futur antérieur
+
+j'aurai hélé
+tu auras hélé
+il (elle) aura hélé
+nous aurons hélé
+vous aurez hélé
+ils (elles) auront hélé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais hélé
+tu aurais hélé
+il (elle) aurait hélé
+nous aurions hélé
+vous auriez hélé
+ils (elles) auraient hélé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie hélé
+que tu aies hélé
+qu’il (elle) ait hélé
+que nous ayons hélé
+que vous ayez hélé
+qu’ils (elles) aient hélé
+
+** Plus-que-parfait
+
+que j'eusse hélé
+que tu eusses hélé
+qu’il (elle) eût hélé
+que nous eussions hélé
+que vous eussiez hélé
+qu’ils (elles) eussent hélé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons hélé
+ayez hélé
+
+* INFINITIF
+
+** Passé
+
+avoir hélé
+
+* PARTICIPE
+
+** Passé
+
+ayant hélé
+hélé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis hélé(e)
+tu es hélé(e)
+il (elle) est hélé(e)
+nous sommes hélé(e)s
+vous êtes hélé(e)s
+ils (elles) sont hélé(e)s
+
+** Imparfait
+
+j'étais hélé(e)
+tu étais hélé(e)
+il (elle) était hélé(e)
+nous étions hélé(e)s
+vous étiez hélé(e)s
+ils (elles) étaient hélé(e)s
+
+** Passé simple
+
+je fus hélé(e)
+tu fus hélé(e)
+il (elle) fut hélé(e)
+nous fûmes hélé(e)s
+vous fûtes hélé(e)s
+ils (elles) furent hélé(e)s
+
+** Futur simple
+
+je serai hélé(e)
+tu seras hélé(e)
+il (elle) sera hélé(e)
+nous serons hélé(e)s
+vous serez hélé(e)s
+ils (elles) seront hélé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais hélé(e)
+tu serais hélé(e)
+il (elle) serait hélé(e)
+nous serions hélé(e)s
+vous seriez hélé(e)s
+ils (elles) seraient hélé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois hélé(e)
+que tu sois hélé(e)
+qu’il (elle) soit hélé(e)
+que nous soyons hélé(e)s
+que vous soyez hélé(e)s
+qu’ils (elles) soient hélé(e)s
+
+** Imparfait
+
+que je fusse hélé(e)
+que tu fusses hélé(e)
+qu’il (elle) fût hélé(e)
+que nous fussions hélé(e)s
+que vous fussiez hélé(e)s
+qu’ils (elles) fussent hélé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons hélé(e)s
+soyez hélé(e)s
+
+* INFINITIF
+
+** Présent
+
+être hélé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant hélé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été hélé(e)
+tu as été hélé(e)
+il (elle) a été hélé(e)
+nous avons été hélé(e)s
+vous avez été hélé(e)s
+ils (elles) ont été hélé(e)s
+
+** Plus-que-parfait
+
+j'avais été hélé(e)
+il (elle) avait été hélé(e)
+nous avions été hélé(e)s
+ils (elles) avaient été hélé(e)s
+
+** Passé antérieur
+
+j'eus été hélé(e)
+tu eus été hélé(e)
+il (elle) eut été hélé(e)
+nous eûmes été hélé(e)s
+vous eûtes été hélé(e)s
+ils (elles) eurent été hélé(e)s
+
+** Futur antérieur
+
+j'aurai été hélé(e)
+tu auras été hélé(e)
+il (elle) aura été hélé(e)
+nous aurons été hélé(e)s
+vous aurez été hélé(e)s
+ils (elles) auront été hélé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été hélé(e)
+j'aurais été hélé(e)
+il (elle) aurait été hélé(e)
+nous aurions été hélé(e)s
+vous auriez été hélé(e)s
+ils (elles) auraient été hélé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été hélé(e)
+que tu aies été hélé(e)
+qu’il (elle) ait été hélé(e)
+que nous ayons été hélé(e)s
+que vous ayez été hélé(e)s
+qu’ils (elles) aient été hélé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été hélé(e)
+que tu eusses été hélé(e)
+qu’il (elle) eût été hélé(e)
+que nous eussions été hélé(e)s
+que vous eussiez été hélé(e)s
+qu’ils (elles) eussent été hélé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été hélé(e)
+ayons été hélé(e)s
+ayez été hélé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été hélé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été hélé(e)(s)

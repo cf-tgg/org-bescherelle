@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dormir
+
+* INDICATIF
+
+** Présent
+
+je dors
+tu dors
+il (elle) dort
+nous dormons
+vous dormez
+ils (elles) dorment
+
+** Imparfait
+
+je dormais
+tu dormais
+il (elle) dormait
+nous dormions
+vous dormiez
+ils (elles) dormaient
+
+** Passé simple
+
+je dormis
+tu dormis
+il (elle) dormit
+nous dormîmes
+vous dormîtes
+ils (elles) dormirent
+
+** Futur simple
+
+je dormirai
+tu dormiras
+il (elle) dormira
+nous dormirons
+vous dormirez
+ils (elles) dormiront
+
+* CONDITIONNEL
+
+** Présent
+
+je dormirais
+tu dormirais
+il (elle) dormirait
+nous dormirions
+vous dormiriez
+ils (elles) dormiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dorme
+que tu dormes
+qu’il (elle) dorme
+que nous dormions
+que vous dormiez
+qu’ils (elles) dorment
+
+** Imparfait
+
+que je dormisse
+que tu dormisses
+qu’il (elle) dormît
+que nous dormissions
+que vous dormissiez
+qu’ils (elles) dormissent
+
+* IMPÉRATIF
+
+** Présent
+
+dors
+dormons
+dormez
+
+* INFINITIF
+
+** Présent
+
+dormir
+
+* PARTICIPE
+
+** Présent
+
+dormant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dormi
+tu as dormi
+il (elle) a dormi
+nous avons dormi
+vous avez dormi
+ils (elles) ont dormi
+
+** Plus-que-parfait
+
+j'avais dormi
+tu avais dormi
+il (elle) avait dormi
+nous avions dormi
+vous aviez dormi
+ils (elles) avaient dormi
+
+** Passé antérieur
+
+j'eus dormi
+tu eus dormi
+il (elle) eut dormi
+nous eûmes dormi
+vous eûtes dormi
+ils (elles) eurent dormi
+
+** Futur antérieur
+
+j'aurai dormi
+tu auras dormi
+il (elle) aura dormi
+nous aurons dormi
+vous aurez dormi
+ils (elles) auront dormi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dormi
+tu aurais dormi
+il (elle) aurait dormi
+nous aurions dormi
+vous auriez dormi
+ils (elles) auraient dormi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dormi
+que tu aies dormi
+qu’il (elle) ait dormi
+que nous ayons dormi
+que vous ayez dormi
+qu’ils (elles) aient dormi
+
+** Plus-que-parfait
+
+que j'eusse dormi
+que tu eusses dormi
+qu’il (elle) eût dormi
+que nous eussions dormi
+que vous eussiez dormi
+qu’ils (elles) eussent dormi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dormi
+ayez dormi
+
+* INFINITIF
+
+** Passé
+
+avoir dormi
+
+* PARTICIPE
+
+** Passé
+
+ayant dormi
+dormi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis dormi(e)
+tu es dormi(e)
+il (elle) est dormi(e)
+nous sommes dormi(e)s
+vous êtes dormi(e)s
+ils (elles) sont dormi(e)s
+
+** Imparfait
+
+j'étais dormi(e)
+tu étais dormi(e)
+il (elle) était dormi(e)
+nous étions dormi(e)s
+vous étiez dormi(e)s
+ils (elles) étaient dormi(e)s
+
+** Passé simple
+
+je fus dormi(e)
+tu fus dormi(e)
+il (elle) fut dormi(e)
+nous fûmes dormi(e)s
+vous fûtes dormi(e)s
+ils (elles) furent dormi(e)s
+
+** Futur simple
+
+je serai dormi(e)
+tu seras dormi(e)
+il (elle) sera dormi(e)
+nous serons dormi(e)s
+vous serez dormi(e)s
+ils (elles) seront dormi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dormi(e)
+tu serais dormi(e)
+il (elle) serait dormi(e)
+nous serions dormi(e)s
+vous seriez dormi(e)s
+ils (elles) seraient dormi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dormi(e)
+que tu sois dormi(e)
+qu’il (elle) soit dormi(e)
+que nous soyons dormi(e)s
+que vous soyez dormi(e)s
+qu’ils (elles) soient dormi(e)s
+
+** Imparfait
+
+que je fusse dormi(e)
+que tu fusses dormi(e)
+qu’il (elle) fût dormi(e)
+que nous fussions dormi(e)s
+que vous fussiez dormi(e)s
+qu’ils (elles) fussent dormi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dormi(e)s
+soyez dormi(e)s
+
+* INFINITIF
+
+** Présent
+
+être dormi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dormi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dormi(e)
+tu as été dormi(e)
+il (elle) a été dormi(e)
+nous avons été dormi(e)s
+vous avez été dormi(e)s
+ils (elles) ont été dormi(e)s
+
+** Plus-que-parfait
+
+j'avais été dormi(e)
+il (elle) avait été dormi(e)
+nous avions été dormi(e)s
+ils (elles) avaient été dormi(e)s
+
+** Passé antérieur
+
+j'eus été dormi(e)
+tu eus été dormi(e)
+il (elle) eut été dormi(e)
+nous eûmes été dormi(e)s
+vous eûtes été dormi(e)s
+ils (elles) eurent été dormi(e)s
+
+** Futur antérieur
+
+j'aurai été dormi(e)
+tu auras été dormi(e)
+il (elle) aura été dormi(e)
+nous aurons été dormi(e)s
+vous aurez été dormi(e)s
+ils (elles) auront été dormi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dormi(e)
+j'aurais été dormi(e)
+il (elle) aurait été dormi(e)
+nous aurions été dormi(e)s
+vous auriez été dormi(e)s
+ils (elles) auraient été dormi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dormi(e)
+que tu aies été dormi(e)
+qu’il (elle) ait été dormi(e)
+que nous ayons été dormi(e)s
+que vous ayez été dormi(e)s
+qu’ils (elles) aient été dormi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dormi(e)
+que tu eusses été dormi(e)
+qu’il (elle) eût été dormi(e)
+que nous eussions été dormi(e)s
+que vous eussiez été dormi(e)s
+qu’ils (elles) eussent été dormi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dormi(e)
+ayons été dormi(e)s
+ayez été dormi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dormi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dormi(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe puer
+
+* INDICATIF
+
+** Présent
+
+je pue
+tu pues
+il (elle) pue
+nous puons
+vous puez
+ils (elles) puent
+
+** Imparfait
+
+je puais
+tu puais
+il (elle) puait
+nous puions
+vous puiez
+ils (elles) puaient
+
+** Passé simple
+
+je puai
+tu puas
+il (elle) pua
+nous puâmes
+vous puâtes
+ils (elles) puèrent
+
+** Futur simple
+
+je puerai
+tu pueras
+il (elle) puera
+nous puerons
+vous puerez
+ils (elles) pueront
+
+* CONDITIONNEL
+
+** Présent
+
+je puerais
+tu puerais
+il (elle) puerait
+nous puerions
+vous pueriez
+ils (elles) pueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pue
+que tu pues
+qu’il (elle) pue
+que nous puions
+que vous puiez
+qu’ils (elles) puent
+
+** Imparfait
+
+que je puasse
+que tu puasses
+qu’il (elle) puât
+que nous puassions
+que vous puassiez
+qu’ils (elles) puassent
+
+* IMPÉRATIF
+
+** Présent
+
+pue
+puons
+puez
+
+* INFINITIF
+
+** Présent
+
+puer
+
+* PARTICIPE
+
+** Présent
+
+puant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pué
+tu as pué
+il (elle) a pué
+nous avons pué
+vous avez pué
+ils (elles) ont pué
+
+** Plus-que-parfait
+
+j'avais pué
+tu avais pué
+il (elle) avait pué
+nous avions pué
+vous aviez pué
+ils (elles) avaient pué
+
+** Passé antérieur
+
+j'eus pué
+tu eus pué
+il (elle) eut pué
+nous eûmes pué
+vous eûtes pué
+ils (elles) eurent pué
+
+** Futur antérieur
+
+j'aurai pué
+tu auras pué
+il (elle) aura pué
+nous aurons pué
+vous aurez pué
+ils (elles) auront pué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pué
+tu aurais pué
+il (elle) aurait pué
+nous aurions pué
+vous auriez pué
+ils (elles) auraient pué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pué
+que tu aies pué
+qu’il (elle) ait pué
+que nous ayons pué
+que vous ayez pué
+qu’ils (elles) aient pué
+
+** Plus-que-parfait
+
+que j'eusse pué
+que tu eusses pué
+qu’il (elle) eût pué
+que nous eussions pué
+que vous eussiez pué
+qu’ils (elles) eussent pué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pué
+ayez pué
+
+* INFINITIF
+
+** Passé
+
+avoir pué
+
+* PARTICIPE
+
+** Passé
+
+ayant pué
+pué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pué(e)
+tu es pué(e)
+il (elle) est pué(e)
+nous sommes pué(e)s
+vous êtes pué(e)s
+ils (elles) sont pué(e)s
+
+** Imparfait
+
+j'étais pué(e)
+tu étais pué(e)
+il (elle) était pué(e)
+nous étions pué(e)s
+vous étiez pué(e)s
+ils (elles) étaient pué(e)s
+
+** Passé simple
+
+je fus pué(e)
+tu fus pué(e)
+il (elle) fut pué(e)
+nous fûmes pué(e)s
+vous fûtes pué(e)s
+ils (elles) furent pué(e)s
+
+** Futur simple
+
+je serai pué(e)
+tu seras pué(e)
+il (elle) sera pué(e)
+nous serons pué(e)s
+vous serez pué(e)s
+ils (elles) seront pué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pué(e)
+tu serais pué(e)
+il (elle) serait pué(e)
+nous serions pué(e)s
+vous seriez pué(e)s
+ils (elles) seraient pué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pué(e)
+que tu sois pué(e)
+qu’il (elle) soit pué(e)
+que nous soyons pué(e)s
+que vous soyez pué(e)s
+qu’ils (elles) soient pué(e)s
+
+** Imparfait
+
+que je fusse pué(e)
+que tu fusses pué(e)
+qu’il (elle) fût pué(e)
+que nous fussions pué(e)s
+que vous fussiez pué(e)s
+qu’ils (elles) fussent pué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pué(e)s
+soyez pué(e)s
+
+* INFINITIF
+
+** Présent
+
+être pué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pué(e)
+tu as été pué(e)
+il (elle) a été pué(e)
+nous avons été pué(e)s
+vous avez été pué(e)s
+ils (elles) ont été pué(e)s
+
+** Plus-que-parfait
+
+j'avais été pué(e)
+il (elle) avait été pué(e)
+nous avions été pué(e)s
+ils (elles) avaient été pué(e)s
+
+** Passé antérieur
+
+j'eus été pué(e)
+tu eus été pué(e)
+il (elle) eut été pué(e)
+nous eûmes été pué(e)s
+vous eûtes été pué(e)s
+ils (elles) eurent été pué(e)s
+
+** Futur antérieur
+
+j'aurai été pué(e)
+tu auras été pué(e)
+il (elle) aura été pué(e)
+nous aurons été pué(e)s
+vous aurez été pué(e)s
+ils (elles) auront été pué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pué(e)
+j'aurais été pué(e)
+il (elle) aurait été pué(e)
+nous aurions été pué(e)s
+vous auriez été pué(e)s
+ils (elles) auraient été pué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pué(e)
+que tu aies été pué(e)
+qu’il (elle) ait été pué(e)
+que nous ayons été pué(e)s
+que vous ayez été pué(e)s
+qu’ils (elles) aient été pué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pué(e)
+que tu eusses été pué(e)
+qu’il (elle) eût été pué(e)
+que nous eussions été pué(e)s
+que vous eussiez été pué(e)s
+qu’ils (elles) eussent été pué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pué(e)
+ayons été pué(e)s
+ayez été pué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pué(e)(s)

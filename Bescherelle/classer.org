@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe classer
+
+* INDICATIF
+
+** Présent
+
+je classe
+tu classes
+il (elle) classe
+nous classons
+vous classez
+ils (elles) classent
+
+** Imparfait
+
+je classais
+tu classais
+il (elle) classait
+nous classions
+vous classiez
+ils (elles) classaient
+
+** Passé simple
+
+je classai
+tu classas
+il (elle) classa
+nous classâmes
+vous classâtes
+ils (elles) classèrent
+
+** Futur simple
+
+je classerai
+tu classeras
+il (elle) classera
+nous classerons
+vous classerez
+ils (elles) classeront
+
+* CONDITIONNEL
+
+** Présent
+
+je classerais
+tu classerais
+il (elle) classerait
+nous classerions
+vous classeriez
+ils (elles) classeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je classe
+que tu classes
+qu’il (elle) classe
+que nous classions
+que vous classiez
+qu’ils (elles) classent
+
+** Imparfait
+
+que je classasse
+que tu classasses
+qu’il (elle) classât
+que nous classassions
+que vous classassiez
+qu’ils (elles) classassent
+
+* IMPÉRATIF
+
+** Présent
+
+classe
+classons
+classez
+
+* INFINITIF
+
+** Présent
+
+classer
+
+* PARTICIPE
+
+** Présent
+
+classant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai classé
+tu as classé
+il (elle) a classé
+nous avons classé
+vous avez classé
+ils (elles) ont classé
+
+** Plus-que-parfait
+
+j'avais classé
+tu avais classé
+il (elle) avait classé
+nous avions classé
+vous aviez classé
+ils (elles) avaient classé
+
+** Passé antérieur
+
+j'eus classé
+tu eus classé
+il (elle) eut classé
+nous eûmes classé
+vous eûtes classé
+ils (elles) eurent classé
+
+** Futur antérieur
+
+j'aurai classé
+tu auras classé
+il (elle) aura classé
+nous aurons classé
+vous aurez classé
+ils (elles) auront classé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais classé
+tu aurais classé
+il (elle) aurait classé
+nous aurions classé
+vous auriez classé
+ils (elles) auraient classé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie classé
+que tu aies classé
+qu’il (elle) ait classé
+que nous ayons classé
+que vous ayez classé
+qu’ils (elles) aient classé
+
+** Plus-que-parfait
+
+que j'eusse classé
+que tu eusses classé
+qu’il (elle) eût classé
+que nous eussions classé
+que vous eussiez classé
+qu’ils (elles) eussent classé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons classé
+ayez classé
+
+* INFINITIF
+
+** Passé
+
+avoir classé
+
+* PARTICIPE
+
+** Passé
+
+ayant classé
+classé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis classé(e)
+tu es classé(e)
+il (elle) est classé(e)
+nous sommes classé(e)s
+vous êtes classé(e)s
+ils (elles) sont classé(e)s
+
+** Imparfait
+
+j'étais classé(e)
+tu étais classé(e)
+il (elle) était classé(e)
+nous étions classé(e)s
+vous étiez classé(e)s
+ils (elles) étaient classé(e)s
+
+** Passé simple
+
+je fus classé(e)
+tu fus classé(e)
+il (elle) fut classé(e)
+nous fûmes classé(e)s
+vous fûtes classé(e)s
+ils (elles) furent classé(e)s
+
+** Futur simple
+
+je serai classé(e)
+tu seras classé(e)
+il (elle) sera classé(e)
+nous serons classé(e)s
+vous serez classé(e)s
+ils (elles) seront classé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais classé(e)
+tu serais classé(e)
+il (elle) serait classé(e)
+nous serions classé(e)s
+vous seriez classé(e)s
+ils (elles) seraient classé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois classé(e)
+que tu sois classé(e)
+qu’il (elle) soit classé(e)
+que nous soyons classé(e)s
+que vous soyez classé(e)s
+qu’ils (elles) soient classé(e)s
+
+** Imparfait
+
+que je fusse classé(e)
+que tu fusses classé(e)
+qu’il (elle) fût classé(e)
+que nous fussions classé(e)s
+que vous fussiez classé(e)s
+qu’ils (elles) fussent classé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons classé(e)s
+soyez classé(e)s
+
+* INFINITIF
+
+** Présent
+
+être classé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant classé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été classé(e)
+tu as été classé(e)
+il (elle) a été classé(e)
+nous avons été classé(e)s
+vous avez été classé(e)s
+ils (elles) ont été classé(e)s
+
+** Plus-que-parfait
+
+j'avais été classé(e)
+il (elle) avait été classé(e)
+nous avions été classé(e)s
+ils (elles) avaient été classé(e)s
+
+** Passé antérieur
+
+j'eus été classé(e)
+tu eus été classé(e)
+il (elle) eut été classé(e)
+nous eûmes été classé(e)s
+vous eûtes été classé(e)s
+ils (elles) eurent été classé(e)s
+
+** Futur antérieur
+
+j'aurai été classé(e)
+tu auras été classé(e)
+il (elle) aura été classé(e)
+nous aurons été classé(e)s
+vous aurez été classé(e)s
+ils (elles) auront été classé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été classé(e)
+j'aurais été classé(e)
+il (elle) aurait été classé(e)
+nous aurions été classé(e)s
+vous auriez été classé(e)s
+ils (elles) auraient été classé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été classé(e)
+que tu aies été classé(e)
+qu’il (elle) ait été classé(e)
+que nous ayons été classé(e)s
+que vous ayez été classé(e)s
+qu’ils (elles) aient été classé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été classé(e)
+que tu eusses été classé(e)
+qu’il (elle) eût été classé(e)
+que nous eussions été classé(e)s
+que vous eussiez été classé(e)s
+qu’ils (elles) eussent été classé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été classé(e)
+ayons été classé(e)s
+ayez été classé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été classé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été classé(e)(s)

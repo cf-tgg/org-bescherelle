@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe buriner
+
+* INDICATIF
+
+** Présent
+
+je burine
+tu burines
+il (elle) burine
+nous burinons
+vous burinez
+ils (elles) burinent
+
+** Imparfait
+
+je burinais
+tu burinais
+il (elle) burinait
+nous burinions
+vous buriniez
+ils (elles) burinaient
+
+** Passé simple
+
+je burinai
+tu burinas
+il (elle) burina
+nous burinâmes
+vous burinâtes
+ils (elles) burinèrent
+
+** Futur simple
+
+je burinerai
+tu burineras
+il (elle) burinera
+nous burinerons
+vous burinerez
+ils (elles) burineront
+
+* CONDITIONNEL
+
+** Présent
+
+je burinerais
+tu burinerais
+il (elle) burinerait
+nous burinerions
+vous burineriez
+ils (elles) burineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je burine
+que tu burines
+qu’il (elle) burine
+que nous burinions
+que vous buriniez
+qu’ils (elles) burinent
+
+** Imparfait
+
+que je burinasse
+que tu burinasses
+qu’il (elle) burinât
+que nous burinassions
+que vous burinassiez
+qu’ils (elles) burinassent
+
+* IMPÉRATIF
+
+** Présent
+
+burine
+burinons
+burinez
+
+* INFINITIF
+
+** Présent
+
+buriner
+
+* PARTICIPE
+
+** Présent
+
+burinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai buriné
+tu as buriné
+il (elle) a buriné
+nous avons buriné
+vous avez buriné
+ils (elles) ont buriné
+
+** Plus-que-parfait
+
+j'avais buriné
+tu avais buriné
+il (elle) avait buriné
+nous avions buriné
+vous aviez buriné
+ils (elles) avaient buriné
+
+** Passé antérieur
+
+j'eus buriné
+tu eus buriné
+il (elle) eut buriné
+nous eûmes buriné
+vous eûtes buriné
+ils (elles) eurent buriné
+
+** Futur antérieur
+
+j'aurai buriné
+tu auras buriné
+il (elle) aura buriné
+nous aurons buriné
+vous aurez buriné
+ils (elles) auront buriné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais buriné
+tu aurais buriné
+il (elle) aurait buriné
+nous aurions buriné
+vous auriez buriné
+ils (elles) auraient buriné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie buriné
+que tu aies buriné
+qu’il (elle) ait buriné
+que nous ayons buriné
+que vous ayez buriné
+qu’ils (elles) aient buriné
+
+** Plus-que-parfait
+
+que j'eusse buriné
+que tu eusses buriné
+qu’il (elle) eût buriné
+que nous eussions buriné
+que vous eussiez buriné
+qu’ils (elles) eussent buriné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons buriné
+ayez buriné
+
+* INFINITIF
+
+** Passé
+
+avoir buriné
+
+* PARTICIPE
+
+** Passé
+
+ayant buriné
+buriné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis buriné(e)
+tu es buriné(e)
+il (elle) est buriné(e)
+nous sommes buriné(e)s
+vous êtes buriné(e)s
+ils (elles) sont buriné(e)s
+
+** Imparfait
+
+j'étais buriné(e)
+tu étais buriné(e)
+il (elle) était buriné(e)
+nous étions buriné(e)s
+vous étiez buriné(e)s
+ils (elles) étaient buriné(e)s
+
+** Passé simple
+
+je fus buriné(e)
+tu fus buriné(e)
+il (elle) fut buriné(e)
+nous fûmes buriné(e)s
+vous fûtes buriné(e)s
+ils (elles) furent buriné(e)s
+
+** Futur simple
+
+je serai buriné(e)
+tu seras buriné(e)
+il (elle) sera buriné(e)
+nous serons buriné(e)s
+vous serez buriné(e)s
+ils (elles) seront buriné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais buriné(e)
+tu serais buriné(e)
+il (elle) serait buriné(e)
+nous serions buriné(e)s
+vous seriez buriné(e)s
+ils (elles) seraient buriné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois buriné(e)
+que tu sois buriné(e)
+qu’il (elle) soit buriné(e)
+que nous soyons buriné(e)s
+que vous soyez buriné(e)s
+qu’ils (elles) soient buriné(e)s
+
+** Imparfait
+
+que je fusse buriné(e)
+que tu fusses buriné(e)
+qu’il (elle) fût buriné(e)
+que nous fussions buriné(e)s
+que vous fussiez buriné(e)s
+qu’ils (elles) fussent buriné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons buriné(e)s
+soyez buriné(e)s
+
+* INFINITIF
+
+** Présent
+
+être buriné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant buriné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été buriné(e)
+tu as été buriné(e)
+il (elle) a été buriné(e)
+nous avons été buriné(e)s
+vous avez été buriné(e)s
+ils (elles) ont été buriné(e)s
+
+** Plus-que-parfait
+
+j'avais été buriné(e)
+il (elle) avait été buriné(e)
+nous avions été buriné(e)s
+ils (elles) avaient été buriné(e)s
+
+** Passé antérieur
+
+j'eus été buriné(e)
+tu eus été buriné(e)
+il (elle) eut été buriné(e)
+nous eûmes été buriné(e)s
+vous eûtes été buriné(e)s
+ils (elles) eurent été buriné(e)s
+
+** Futur antérieur
+
+j'aurai été buriné(e)
+tu auras été buriné(e)
+il (elle) aura été buriné(e)
+nous aurons été buriné(e)s
+vous aurez été buriné(e)s
+ils (elles) auront été buriné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été buriné(e)
+j'aurais été buriné(e)
+il (elle) aurait été buriné(e)
+nous aurions été buriné(e)s
+vous auriez été buriné(e)s
+ils (elles) auraient été buriné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été buriné(e)
+que tu aies été buriné(e)
+qu’il (elle) ait été buriné(e)
+que nous ayons été buriné(e)s
+que vous ayez été buriné(e)s
+qu’ils (elles) aient été buriné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été buriné(e)
+que tu eusses été buriné(e)
+qu’il (elle) eût été buriné(e)
+que nous eussions été buriné(e)s
+que vous eussiez été buriné(e)s
+qu’ils (elles) eussent été buriné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été buriné(e)
+ayons été buriné(e)s
+ayez été buriné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été buriné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été buriné(e)(s)

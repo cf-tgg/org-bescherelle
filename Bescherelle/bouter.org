@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouter
+
+* INDICATIF
+
+** Présent
+
+je boute
+tu boutes
+il (elle) boute
+nous boutons
+vous boutez
+ils (elles) boutent
+
+** Imparfait
+
+je boutais
+tu boutais
+il (elle) boutait
+nous boutions
+vous boutiez
+ils (elles) boutaient
+
+** Passé simple
+
+je boutai
+tu boutas
+il (elle) bouta
+nous boutâmes
+vous boutâtes
+ils (elles) boutèrent
+
+** Futur simple
+
+je bouterai
+tu bouteras
+il (elle) boutera
+nous bouterons
+vous bouterez
+ils (elles) bouteront
+
+* CONDITIONNEL
+
+** Présent
+
+je bouterais
+tu bouterais
+il (elle) bouterait
+nous bouterions
+vous bouteriez
+ils (elles) bouteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boute
+que tu boutes
+qu’il (elle) boute
+que nous boutions
+que vous boutiez
+qu’ils (elles) boutent
+
+** Imparfait
+
+que je boutasse
+que tu boutasses
+qu’il (elle) boutât
+que nous boutassions
+que vous boutassiez
+qu’ils (elles) boutassent
+
+* IMPÉRATIF
+
+** Présent
+
+boute
+boutons
+boutez
+
+* INFINITIF
+
+** Présent
+
+bouter
+
+* PARTICIPE
+
+** Présent
+
+boutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bouté
+tu as bouté
+il (elle) a bouté
+nous avons bouté
+vous avez bouté
+ils (elles) ont bouté
+
+** Plus-que-parfait
+
+j'avais bouté
+tu avais bouté
+il (elle) avait bouté
+nous avions bouté
+vous aviez bouté
+ils (elles) avaient bouté
+
+** Passé antérieur
+
+j'eus bouté
+tu eus bouté
+il (elle) eut bouté
+nous eûmes bouté
+vous eûtes bouté
+ils (elles) eurent bouté
+
+** Futur antérieur
+
+j'aurai bouté
+tu auras bouté
+il (elle) aura bouté
+nous aurons bouté
+vous aurez bouté
+ils (elles) auront bouté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bouté
+tu aurais bouté
+il (elle) aurait bouté
+nous aurions bouté
+vous auriez bouté
+ils (elles) auraient bouté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bouté
+que tu aies bouté
+qu’il (elle) ait bouté
+que nous ayons bouté
+que vous ayez bouté
+qu’ils (elles) aient bouté
+
+** Plus-que-parfait
+
+que j'eusse bouté
+que tu eusses bouté
+qu’il (elle) eût bouté
+que nous eussions bouté
+que vous eussiez bouté
+qu’ils (elles) eussent bouté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bouté
+ayez bouté
+
+* INFINITIF
+
+** Passé
+
+avoir bouté
+
+* PARTICIPE
+
+** Passé
+
+ayant bouté
+bouté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bouté(e)
+tu es bouté(e)
+il (elle) est bouté(e)
+nous sommes bouté(e)s
+vous êtes bouté(e)s
+ils (elles) sont bouté(e)s
+
+** Imparfait
+
+j'étais bouté(e)
+tu étais bouté(e)
+il (elle) était bouté(e)
+nous étions bouté(e)s
+vous étiez bouté(e)s
+ils (elles) étaient bouté(e)s
+
+** Passé simple
+
+je fus bouté(e)
+tu fus bouté(e)
+il (elle) fut bouté(e)
+nous fûmes bouté(e)s
+vous fûtes bouté(e)s
+ils (elles) furent bouté(e)s
+
+** Futur simple
+
+je serai bouté(e)
+tu seras bouté(e)
+il (elle) sera bouté(e)
+nous serons bouté(e)s
+vous serez bouté(e)s
+ils (elles) seront bouté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bouté(e)
+tu serais bouté(e)
+il (elle) serait bouté(e)
+nous serions bouté(e)s
+vous seriez bouté(e)s
+ils (elles) seraient bouté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bouté(e)
+que tu sois bouté(e)
+qu’il (elle) soit bouté(e)
+que nous soyons bouté(e)s
+que vous soyez bouté(e)s
+qu’ils (elles) soient bouté(e)s
+
+** Imparfait
+
+que je fusse bouté(e)
+que tu fusses bouté(e)
+qu’il (elle) fût bouté(e)
+que nous fussions bouté(e)s
+que vous fussiez bouté(e)s
+qu’ils (elles) fussent bouté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bouté(e)s
+soyez bouté(e)s
+
+* INFINITIF
+
+** Présent
+
+être bouté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bouté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bouté(e)
+tu as été bouté(e)
+il (elle) a été bouté(e)
+nous avons été bouté(e)s
+vous avez été bouté(e)s
+ils (elles) ont été bouté(e)s
+
+** Plus-que-parfait
+
+j'avais été bouté(e)
+il (elle) avait été bouté(e)
+nous avions été bouté(e)s
+ils (elles) avaient été bouté(e)s
+
+** Passé antérieur
+
+j'eus été bouté(e)
+tu eus été bouté(e)
+il (elle) eut été bouté(e)
+nous eûmes été bouté(e)s
+vous eûtes été bouté(e)s
+ils (elles) eurent été bouté(e)s
+
+** Futur antérieur
+
+j'aurai été bouté(e)
+tu auras été bouté(e)
+il (elle) aura été bouté(e)
+nous aurons été bouté(e)s
+vous aurez été bouté(e)s
+ils (elles) auront été bouté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bouté(e)
+j'aurais été bouté(e)
+il (elle) aurait été bouté(e)
+nous aurions été bouté(e)s
+vous auriez été bouté(e)s
+ils (elles) auraient été bouté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bouté(e)
+que tu aies été bouté(e)
+qu’il (elle) ait été bouté(e)
+que nous ayons été bouté(e)s
+que vous ayez été bouté(e)s
+qu’ils (elles) aient été bouté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bouté(e)
+que tu eusses été bouté(e)
+qu’il (elle) eût été bouté(e)
+que nous eussions été bouté(e)s
+que vous eussiez été bouté(e)s
+qu’ils (elles) eussent été bouté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bouté(e)
+ayons été bouté(e)s
+ayez été bouté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bouté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bouté(e)(s)

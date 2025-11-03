@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe battre
+
+* INDICATIF
+
+** Présent
+
+je bats
+tu bats
+il (elle) bat
+nous battons
+vous battez
+ils (elles) battent
+
+** Imparfait
+
+je battais
+tu battais
+il (elle) battait
+nous battions
+vous battiez
+ils (elles) battaient
+
+** Passé simple
+
+je battis
+tu battis
+il (elle) battit
+nous battîmes
+vous battîtes
+ils (elles) battirent
+
+** Futur simple
+
+je battrai
+tu battras
+il (elle) battra
+nous battrons
+vous battrez
+ils (elles) battront
+
+* CONDITIONNEL
+
+** Présent
+
+je battrais
+tu battrais
+il (elle) battrait
+nous battrions
+vous battriez
+ils (elles) battraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je batte
+que tu battes
+qu’il (elle) batte
+que nous battions
+que vous battiez
+qu’ils (elles) battent
+
+** Imparfait
+
+que je battisse
+que tu battisses
+qu’il (elle) battît
+que nous battissions
+que vous battissiez
+qu’ils (elles) battissent
+
+* IMPÉRATIF
+
+** Présent
+
+bats
+battons
+battez
+
+* INFINITIF
+
+** Présent
+
+battre
+
+* PARTICIPE
+
+** Présent
+
+battant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai battu
+tu as battu
+il (elle) a battu
+nous avons battu
+vous avez battu
+ils (elles) ont battu
+
+** Plus-que-parfait
+
+j'avais battu
+tu avais battu
+il (elle) avait battu
+nous avions battu
+vous aviez battu
+ils (elles) avaient battu
+
+** Passé antérieur
+
+j'eus battu
+tu eus battu
+il (elle) eut battu
+nous eûmes battu
+vous eûtes battu
+ils (elles) eurent battu
+
+** Futur antérieur
+
+j'aurai battu
+tu auras battu
+il (elle) aura battu
+nous aurons battu
+vous aurez battu
+ils (elles) auront battu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais battu
+tu aurais battu
+il (elle) aurait battu
+nous aurions battu
+vous auriez battu
+ils (elles) auraient battu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie battu
+que tu aies battu
+qu’il (elle) ait battu
+que nous ayons battu
+que vous ayez battu
+qu’ils (elles) aient battu
+
+** Plus-que-parfait
+
+que j'eusse battu
+que tu eusses battu
+qu’il (elle) eût battu
+que nous eussions battu
+que vous eussiez battu
+qu’ils (elles) eussent battu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons battu
+ayez battu
+
+* INFINITIF
+
+** Passé
+
+avoir battu
+
+* PARTICIPE
+
+** Passé
+
+ayant battu
+battu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis battu(e)
+tu es battu(e)
+il (elle) est battu(e)
+nous sommes battu(e)s
+vous êtes battu(e)s
+ils (elles) sont battu(e)s
+
+** Imparfait
+
+j'étais battu(e)
+tu étais battu(e)
+il (elle) était battu(e)
+nous étions battu(e)s
+vous étiez battu(e)s
+ils (elles) étaient battu(e)s
+
+** Passé simple
+
+je fus battu(e)
+tu fus battu(e)
+il (elle) fut battu(e)
+nous fûmes battu(e)s
+vous fûtes battu(e)s
+ils (elles) furent battu(e)s
+
+** Futur simple
+
+je serai battu(e)
+tu seras battu(e)
+il (elle) sera battu(e)
+nous serons battu(e)s
+vous serez battu(e)s
+ils (elles) seront battu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais battu(e)
+tu serais battu(e)
+il (elle) serait battu(e)
+nous serions battu(e)s
+vous seriez battu(e)s
+ils (elles) seraient battu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois battu(e)
+que tu sois battu(e)
+qu’il (elle) soit battu(e)
+que nous soyons battu(e)s
+que vous soyez battu(e)s
+qu’ils (elles) soient battu(e)s
+
+** Imparfait
+
+que je fusse battu(e)
+que tu fusses battu(e)
+qu’il (elle) fût battu(e)
+que nous fussions battu(e)s
+que vous fussiez battu(e)s
+qu’ils (elles) fussent battu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons battu(e)s
+soyez battu(e)s
+
+* INFINITIF
+
+** Présent
+
+être battu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant battu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été battu(e)
+tu as été battu(e)
+il (elle) a été battu(e)
+nous avons été battu(e)s
+vous avez été battu(e)s
+ils (elles) ont été battu(e)s
+
+** Plus-que-parfait
+
+j'avais été battu(e)
+il (elle) avait été battu(e)
+nous avions été battu(e)s
+ils (elles) avaient été battu(e)s
+
+** Passé antérieur
+
+j'eus été battu(e)
+tu eus été battu(e)
+il (elle) eut été battu(e)
+nous eûmes été battu(e)s
+vous eûtes été battu(e)s
+ils (elles) eurent été battu(e)s
+
+** Futur antérieur
+
+j'aurai été battu(e)
+tu auras été battu(e)
+il (elle) aura été battu(e)
+nous aurons été battu(e)s
+vous aurez été battu(e)s
+ils (elles) auront été battu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été battu(e)
+j'aurais été battu(e)
+il (elle) aurait été battu(e)
+nous aurions été battu(e)s
+vous auriez été battu(e)s
+ils (elles) auraient été battu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été battu(e)
+que tu aies été battu(e)
+qu’il (elle) ait été battu(e)
+que nous ayons été battu(e)s
+que vous ayez été battu(e)s
+qu’ils (elles) aient été battu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été battu(e)
+que tu eusses été battu(e)
+qu’il (elle) eût été battu(e)
+que nous eussions été battu(e)s
+que vous eussiez été battu(e)s
+qu’ils (elles) eussent été battu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été battu(e)
+ayons été battu(e)s
+ayez été battu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été battu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été battu(e)(s)

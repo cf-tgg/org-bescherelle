@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cliquer
+
+* INDICATIF
+
+** Présent
+
+je clique
+tu cliques
+il (elle) clique
+nous cliquons
+vous cliquez
+ils (elles) cliquent
+
+** Imparfait
+
+je cliquais
+tu cliquais
+il (elle) cliquait
+nous cliquions
+vous cliquiez
+ils (elles) cliquaient
+
+** Passé simple
+
+je cliquai
+tu cliquas
+il (elle) cliqua
+nous cliquâmes
+vous cliquâtes
+ils (elles) cliquèrent
+
+** Futur simple
+
+je cliquerai
+tu cliqueras
+il (elle) cliquera
+nous cliquerons
+vous cliquerez
+ils (elles) cliqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je cliquerais
+tu cliquerais
+il (elle) cliquerait
+nous cliquerions
+vous cliqueriez
+ils (elles) cliqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je clique
+que tu cliques
+qu’il (elle) clique
+que nous cliquions
+que vous cliquiez
+qu’ils (elles) cliquent
+
+** Imparfait
+
+que je cliquasse
+que tu cliquasses
+qu’il (elle) cliquât
+que nous cliquassions
+que vous cliquassiez
+qu’ils (elles) cliquassent
+
+* IMPÉRATIF
+
+** Présent
+
+clique
+cliquons
+cliquez
+
+* INFINITIF
+
+** Présent
+
+cliquer
+
+* PARTICIPE
+
+** Présent
+
+cliquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cliqué
+tu as cliqué
+il (elle) a cliqué
+nous avons cliqué
+vous avez cliqué
+ils (elles) ont cliqué
+
+** Plus-que-parfait
+
+j'avais cliqué
+tu avais cliqué
+il (elle) avait cliqué
+nous avions cliqué
+vous aviez cliqué
+ils (elles) avaient cliqué
+
+** Passé antérieur
+
+j'eus cliqué
+tu eus cliqué
+il (elle) eut cliqué
+nous eûmes cliqué
+vous eûtes cliqué
+ils (elles) eurent cliqué
+
+** Futur antérieur
+
+j'aurai cliqué
+tu auras cliqué
+il (elle) aura cliqué
+nous aurons cliqué
+vous aurez cliqué
+ils (elles) auront cliqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cliqué
+tu aurais cliqué
+il (elle) aurait cliqué
+nous aurions cliqué
+vous auriez cliqué
+ils (elles) auraient cliqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cliqué
+que tu aies cliqué
+qu’il (elle) ait cliqué
+que nous ayons cliqué
+que vous ayez cliqué
+qu’ils (elles) aient cliqué
+
+** Plus-que-parfait
+
+que j'eusse cliqué
+que tu eusses cliqué
+qu’il (elle) eût cliqué
+que nous eussions cliqué
+que vous eussiez cliqué
+qu’ils (elles) eussent cliqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cliqué
+ayez cliqué
+
+* INFINITIF
+
+** Passé
+
+avoir cliqué
+
+* PARTICIPE
+
+** Passé
+
+ayant cliqué
+cliqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cliqué(e)
+tu es cliqué(e)
+il (elle) est cliqué(e)
+nous sommes cliqué(e)s
+vous êtes cliqué(e)s
+ils (elles) sont cliqué(e)s
+
+** Imparfait
+
+j'étais cliqué(e)
+tu étais cliqué(e)
+il (elle) était cliqué(e)
+nous étions cliqué(e)s
+vous étiez cliqué(e)s
+ils (elles) étaient cliqué(e)s
+
+** Passé simple
+
+je fus cliqué(e)
+tu fus cliqué(e)
+il (elle) fut cliqué(e)
+nous fûmes cliqué(e)s
+vous fûtes cliqué(e)s
+ils (elles) furent cliqué(e)s
+
+** Futur simple
+
+je serai cliqué(e)
+tu seras cliqué(e)
+il (elle) sera cliqué(e)
+nous serons cliqué(e)s
+vous serez cliqué(e)s
+ils (elles) seront cliqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cliqué(e)
+tu serais cliqué(e)
+il (elle) serait cliqué(e)
+nous serions cliqué(e)s
+vous seriez cliqué(e)s
+ils (elles) seraient cliqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cliqué(e)
+que tu sois cliqué(e)
+qu’il (elle) soit cliqué(e)
+que nous soyons cliqué(e)s
+que vous soyez cliqué(e)s
+qu’ils (elles) soient cliqué(e)s
+
+** Imparfait
+
+que je fusse cliqué(e)
+que tu fusses cliqué(e)
+qu’il (elle) fût cliqué(e)
+que nous fussions cliqué(e)s
+que vous fussiez cliqué(e)s
+qu’ils (elles) fussent cliqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cliqué(e)s
+soyez cliqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être cliqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cliqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cliqué(e)
+tu as été cliqué(e)
+il (elle) a été cliqué(e)
+nous avons été cliqué(e)s
+vous avez été cliqué(e)s
+ils (elles) ont été cliqué(e)s
+
+** Plus-que-parfait
+
+j'avais été cliqué(e)
+il (elle) avait été cliqué(e)
+nous avions été cliqué(e)s
+ils (elles) avaient été cliqué(e)s
+
+** Passé antérieur
+
+j'eus été cliqué(e)
+tu eus été cliqué(e)
+il (elle) eut été cliqué(e)
+nous eûmes été cliqué(e)s
+vous eûtes été cliqué(e)s
+ils (elles) eurent été cliqué(e)s
+
+** Futur antérieur
+
+j'aurai été cliqué(e)
+tu auras été cliqué(e)
+il (elle) aura été cliqué(e)
+nous aurons été cliqué(e)s
+vous aurez été cliqué(e)s
+ils (elles) auront été cliqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cliqué(e)
+j'aurais été cliqué(e)
+il (elle) aurait été cliqué(e)
+nous aurions été cliqué(e)s
+vous auriez été cliqué(e)s
+ils (elles) auraient été cliqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cliqué(e)
+que tu aies été cliqué(e)
+qu’il (elle) ait été cliqué(e)
+que nous ayons été cliqué(e)s
+que vous ayez été cliqué(e)s
+qu’ils (elles) aient été cliqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cliqué(e)
+que tu eusses été cliqué(e)
+qu’il (elle) eût été cliqué(e)
+que nous eussions été cliqué(e)s
+que vous eussiez été cliqué(e)s
+qu’ils (elles) eussent été cliqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cliqué(e)
+ayons été cliqué(e)s
+ayez été cliqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cliqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cliqué(e)(s)

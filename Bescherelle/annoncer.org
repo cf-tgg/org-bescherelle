@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe annoncer
+
+* INDICATIF
+
+** Présent
+
+j'annonce
+tu annonces
+il (elle) annonce
+nous annonçons
+vous annoncez
+ils (elles) annoncent
+
+** Imparfait
+
+j'annonçais
+tu annonçais
+il (elle) annonçait
+nous annoncions
+vous annonciez
+ils (elles) annonçaient
+
+** Passé simple
+
+j'annonçai
+tu annonças
+il (elle) annonça
+nous annonçâmes
+vous annonçâtes
+ils (elles) annoncèrent
+
+** Futur simple
+
+j'annoncerai
+tu annonceras
+il (elle) annoncera
+nous annoncerons
+vous annoncerez
+ils (elles) annonceront
+
+* CONDITIONNEL
+
+** Présent
+
+j'annoncerais
+tu annoncerais
+il (elle) annoncerait
+nous annoncerions
+vous annonceriez
+ils (elles) annonceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'annonce
+que tu annonces
+qu’il (elle) annonce
+que nous annoncions
+que vous annonciez
+qu’ils (elles) annoncent
+
+** Imparfait
+
+que j'annonçasse
+que tu annonçasses
+qu’il (elle) annonçât
+que nous annonçassions
+que vous annonçassiez
+qu’ils (elles) annonçassent
+
+* IMPÉRATIF
+
+** Présent
+
+annonce
+annonçons
+annoncez
+
+* INFINITIF
+
+** Présent
+
+annoncer
+
+* PARTICIPE
+
+** Présent
+
+annonçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai annoncé
+tu as annoncé
+il (elle) a annoncé
+nous avons annoncé
+vous avez annoncé
+ils (elles) ont annoncé
+
+** Plus-que-parfait
+
+j'avais annoncé
+tu avais annoncé
+il (elle) avait annoncé
+nous avions annoncé
+vous aviez annoncé
+ils (elles) avaient annoncé
+
+** Passé antérieur
+
+j'eus annoncé
+tu eus annoncé
+il (elle) eut annoncé
+nous eûmes annoncé
+vous eûtes annoncé
+ils (elles) eurent annoncé
+
+** Futur antérieur
+
+j'aurai annoncé
+tu auras annoncé
+il (elle) aura annoncé
+nous aurons annoncé
+vous aurez annoncé
+ils (elles) auront annoncé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais annoncé
+tu aurais annoncé
+il (elle) aurait annoncé
+nous aurions annoncé
+vous auriez annoncé
+ils (elles) auraient annoncé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie annoncé
+que tu aies annoncé
+qu’il (elle) ait annoncé
+que nous ayons annoncé
+que vous ayez annoncé
+qu’ils (elles) aient annoncé
+
+** Plus-que-parfait
+
+que j'eusse annoncé
+que tu eusses annoncé
+qu’il (elle) eût annoncé
+que nous eussions annoncé
+que vous eussiez annoncé
+qu’ils (elles) eussent annoncé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons annoncé
+ayez annoncé
+
+* INFINITIF
+
+** Passé
+
+avoir annoncé
+
+* PARTICIPE
+
+** Passé
+
+ayant annoncé
+annoncé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis annoncé(e)
+tu es annoncé(e)
+il (elle) est annoncé(e)
+nous sommes annoncé(e)s
+vous êtes annoncé(e)s
+ils (elles) sont annoncé(e)s
+
+** Imparfait
+
+j'étais annoncé(e)
+tu étais annoncé(e)
+il (elle) était annoncé(e)
+nous étions annoncé(e)s
+vous étiez annoncé(e)s
+ils (elles) étaient annoncé(e)s
+
+** Passé simple
+
+je fus annoncé(e)
+tu fus annoncé(e)
+il (elle) fut annoncé(e)
+nous fûmes annoncé(e)s
+vous fûtes annoncé(e)s
+ils (elles) furent annoncé(e)s
+
+** Futur simple
+
+je serai annoncé(e)
+tu seras annoncé(e)
+il (elle) sera annoncé(e)
+nous serons annoncé(e)s
+vous serez annoncé(e)s
+ils (elles) seront annoncé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais annoncé(e)
+tu serais annoncé(e)
+il (elle) serait annoncé(e)
+nous serions annoncé(e)s
+vous seriez annoncé(e)s
+ils (elles) seraient annoncé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois annoncé(e)
+que tu sois annoncé(e)
+qu’il (elle) soit annoncé(e)
+que nous soyons annoncé(e)s
+que vous soyez annoncé(e)s
+qu’ils (elles) soient annoncé(e)s
+
+** Imparfait
+
+que je fusse annoncé(e)
+que tu fusses annoncé(e)
+qu’il (elle) fût annoncé(e)
+que nous fussions annoncé(e)s
+que vous fussiez annoncé(e)s
+qu’ils (elles) fussent annoncé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons annoncé(e)s
+soyez annoncé(e)s
+
+* INFINITIF
+
+** Présent
+
+être annoncé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant annoncé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été annoncé(e)
+tu as été annoncé(e)
+il (elle) a été annoncé(e)
+nous avons été annoncé(e)s
+vous avez été annoncé(e)s
+ils (elles) ont été annoncé(e)s
+
+** Plus-que-parfait
+
+j'avais été annoncé(e)
+il (elle) avait été annoncé(e)
+nous avions été annoncé(e)s
+ils (elles) avaient été annoncé(e)s
+
+** Passé antérieur
+
+j'eus été annoncé(e)
+tu eus été annoncé(e)
+il (elle) eut été annoncé(e)
+nous eûmes été annoncé(e)s
+vous eûtes été annoncé(e)s
+ils (elles) eurent été annoncé(e)s
+
+** Futur antérieur
+
+j'aurai été annoncé(e)
+tu auras été annoncé(e)
+il (elle) aura été annoncé(e)
+nous aurons été annoncé(e)s
+vous aurez été annoncé(e)s
+ils (elles) auront été annoncé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été annoncé(e)
+j'aurais été annoncé(e)
+il (elle) aurait été annoncé(e)
+nous aurions été annoncé(e)s
+vous auriez été annoncé(e)s
+ils (elles) auraient été annoncé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été annoncé(e)
+que tu aies été annoncé(e)
+qu’il (elle) ait été annoncé(e)
+que nous ayons été annoncé(e)s
+que vous ayez été annoncé(e)s
+qu’ils (elles) aient été annoncé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été annoncé(e)
+que tu eusses été annoncé(e)
+qu’il (elle) eût été annoncé(e)
+que nous eussions été annoncé(e)s
+que vous eussiez été annoncé(e)s
+qu’ils (elles) eussent été annoncé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été annoncé(e)
+ayons été annoncé(e)s
+ayez été annoncé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été annoncé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été annoncé(e)(s)

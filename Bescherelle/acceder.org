@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe acceder
+
+* INDICATIF
+
+** Présent
+
+j'accède
+tu accèdes
+il (elle) accède
+nous accédons
+vous accédez
+ils (elles) accèdent
+
+** Imparfait
+
+j'accédais
+tu accédais
+il (elle) accédait
+nous accédions
+vous accédiez
+ils (elles) accédaient
+
+** Passé simple
+
+j'accédai
+tu accédas
+il (elle) accéda
+nous accédâmes
+vous accédâtes
+ils (elles) accédèrent
+
+** Futur simple
+
+j'accéderai
+tu accéderas
+il (elle) accédera
+nous accéderons
+vous accéderez
+ils (elles) accéderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'accéderais
+tu accéderais
+il (elle) accéderait
+nous accéderions
+vous accéderiez
+ils (elles) accéderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accède
+que tu accèdes
+qu’il (elle) accède
+que nous accédions
+que vous accédiez
+qu’ils (elles) accèdent
+
+** Imparfait
+
+que j'accédasse
+que tu accédasses
+qu’il (elle) accédât
+que nous accédassions
+que vous accédassiez
+qu’ils (elles) accédassent
+
+* IMPÉRATIF
+
+** Présent
+
+accède
+accédons
+accédez
+
+* INFINITIF
+
+** Présent
+
+accéder
+
+* PARTICIPE
+
+** Présent
+
+accédant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accédé
+tu as accédé
+il (elle) a accédé
+nous avons accédé
+vous avez accédé
+ils (elles) ont accédé
+
+** Plus-que-parfait
+
+j'avais accédé
+tu avais accédé
+il (elle) avait accédé
+nous avions accédé
+vous aviez accédé
+ils (elles) avaient accédé
+
+** Passé antérieur
+
+j'eus accédé
+tu eus accédé
+il (elle) eut accédé
+nous eûmes accédé
+vous eûtes accédé
+ils (elles) eurent accédé
+
+** Futur antérieur
+
+j'aurai accédé
+tu auras accédé
+il (elle) aura accédé
+nous aurons accédé
+vous aurez accédé
+ils (elles) auront accédé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accédé
+tu aurais accédé
+il (elle) aurait accédé
+nous aurions accédé
+vous auriez accédé
+ils (elles) auraient accédé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accédé
+que tu aies accédé
+qu’il (elle) ait accédé
+que nous ayons accédé
+que vous ayez accédé
+qu’ils (elles) aient accédé
+
+** Plus-que-parfait
+
+que j'eusse accédé
+que tu eusses accédé
+qu’il (elle) eût accédé
+que nous eussions accédé
+que vous eussiez accédé
+qu’ils (elles) eussent accédé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accédé
+ayez accédé
+
+* INFINITIF
+
+** Passé
+
+avoir accédé
+
+* PARTICIPE
+
+** Passé
+
+ayant accédé
+accédé (invar.)

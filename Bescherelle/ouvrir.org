@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ouvrir
+
+* INDICATIF
+
+** Présent
+
+j'ouvre
+tu ouvres
+il (elle) ouvre
+nous ouvrons
+vous ouvrez
+ils (elles) ouvrent
+
+** Imparfait
+
+j'ouvrais
+tu ouvrais
+il (elle) ouvrait
+nous ouvrions
+vous ouvriez
+ils (elles) ouvraient
+
+** Passé simple
+
+j'ouvris
+tu ouvris
+il (elle) ouvrit
+nous ouvrîmes
+vous ouvrîtes
+ils (elles) ouvrirent
+
+** Futur simple
+
+j'ouvrirai
+tu ouvriras
+il (elle) ouvrira
+nous ouvrirons
+vous ouvrirez
+ils (elles) ouvriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ouvrirais
+tu ouvrirais
+il (elle) ouvrirait
+nous ouvririons
+vous ouvririez
+ils (elles) ouvriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ouvre
+que tu ouvres
+qu’il (elle) ouvre
+que nous ouvrions
+que vous ouvriez
+qu’ils (elles) ouvrent
+
+** Imparfait
+
+que j'ouvrisse
+que tu ouvrisses
+qu’il (elle) ouvrît
+que nous ouvrissions
+que vous ouvrissiez
+qu’ils (elles) ouvrissent
+
+* IMPÉRATIF
+
+** Présent
+
+ouvre
+ouvrons
+ouvrez
+
+* INFINITIF
+
+** Présent
+
+ouvrir
+
+* PARTICIPE
+
+** Présent
+
+ouvrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ouvert
+tu as ouvert
+il (elle) a ouvert
+nous avons ouvert
+vous avez ouvert
+ils (elles) ont ouvert
+
+** Plus-que-parfait
+
+j'avais ouvert
+tu avais ouvert
+il (elle) avait ouvert
+nous avions ouvert
+vous aviez ouvert
+ils (elles) avaient ouvert
+
+** Passé antérieur
+
+j'eus ouvert
+tu eus ouvert
+il (elle) eut ouvert
+nous eûmes ouvert
+vous eûtes ouvert
+ils (elles) eurent ouvert
+
+** Futur antérieur
+
+j'aurai ouvert
+tu auras ouvert
+il (elle) aura ouvert
+nous aurons ouvert
+vous aurez ouvert
+ils (elles) auront ouvert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ouvert
+tu aurais ouvert
+il (elle) aurait ouvert
+nous aurions ouvert
+vous auriez ouvert
+ils (elles) auraient ouvert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ouvert
+que tu aies ouvert
+qu’il (elle) ait ouvert
+que nous ayons ouvert
+que vous ayez ouvert
+qu’ils (elles) aient ouvert
+
+** Plus-que-parfait
+
+que j'eusse ouvert
+que tu eusses ouvert
+qu’il (elle) eût ouvert
+que nous eussions ouvert
+que vous eussiez ouvert
+qu’ils (elles) eussent ouvert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ouvert
+ayez ouvert
+
+* INFINITIF
+
+** Passé
+
+avoir ouvert
+
+* PARTICIPE
+
+** Passé
+
+ayant ouvert
+ouvert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis ouvert(e)
+tu es ouvert(e)
+il (elle) est ouvert(e)
+nous sommes ouvert(e)s
+vous êtes ouvert(e)s
+ils (elles) sont ouvert(e)s
+
+** Imparfait
+
+j'étais ouvert(e)
+tu étais ouvert(e)
+il (elle) était ouvert(e)
+nous étions ouvert(e)s
+vous étiez ouvert(e)s
+ils (elles) étaient ouvert(e)s
+
+** Passé simple
+
+je fus ouvert(e)
+tu fus ouvert(e)
+il (elle) fut ouvert(e)
+nous fûmes ouvert(e)s
+vous fûtes ouvert(e)s
+ils (elles) furent ouvert(e)s
+
+** Futur simple
+
+je serai ouvert(e)
+tu seras ouvert(e)
+il (elle) sera ouvert(e)
+nous serons ouvert(e)s
+vous serez ouvert(e)s
+ils (elles) seront ouvert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ouvert(e)
+tu serais ouvert(e)
+il (elle) serait ouvert(e)
+nous serions ouvert(e)s
+vous seriez ouvert(e)s
+ils (elles) seraient ouvert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ouvert(e)
+que tu sois ouvert(e)
+qu’il (elle) soit ouvert(e)
+que nous soyons ouvert(e)s
+que vous soyez ouvert(e)s
+qu’ils (elles) soient ouvert(e)s
+
+** Imparfait
+
+que je fusse ouvert(e)
+que tu fusses ouvert(e)
+qu’il (elle) fût ouvert(e)
+que nous fussions ouvert(e)s
+que vous fussiez ouvert(e)s
+qu’ils (elles) fussent ouvert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ouvert(e)s
+soyez ouvert(e)s
+
+* INFINITIF
+
+** Présent
+
+être ouvert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ouvert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ouvert(e)
+tu as été ouvert(e)
+il (elle) a été ouvert(e)
+nous avons été ouvert(e)s
+vous avez été ouvert(e)s
+ils (elles) ont été ouvert(e)s
+
+** Plus-que-parfait
+
+j'avais été ouvert(e)
+il (elle) avait été ouvert(e)
+nous avions été ouvert(e)s
+ils (elles) avaient été ouvert(e)s
+
+** Passé antérieur
+
+j'eus été ouvert(e)
+tu eus été ouvert(e)
+il (elle) eut été ouvert(e)
+nous eûmes été ouvert(e)s
+vous eûtes été ouvert(e)s
+ils (elles) eurent été ouvert(e)s
+
+** Futur antérieur
+
+j'aurai été ouvert(e)
+tu auras été ouvert(e)
+il (elle) aura été ouvert(e)
+nous aurons été ouvert(e)s
+vous aurez été ouvert(e)s
+ils (elles) auront été ouvert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ouvert(e)
+j'aurais été ouvert(e)
+il (elle) aurait été ouvert(e)
+nous aurions été ouvert(e)s
+vous auriez été ouvert(e)s
+ils (elles) auraient été ouvert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ouvert(e)
+que tu aies été ouvert(e)
+qu’il (elle) ait été ouvert(e)
+que nous ayons été ouvert(e)s
+que vous ayez été ouvert(e)s
+qu’ils (elles) aient été ouvert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ouvert(e)
+que tu eusses été ouvert(e)
+qu’il (elle) eût été ouvert(e)
+que nous eussions été ouvert(e)s
+que vous eussiez été ouvert(e)s
+qu’ils (elles) eussent été ouvert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ouvert(e)
+ayons été ouvert(e)s
+ayez été ouvert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ouvert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ouvert(e)(s)

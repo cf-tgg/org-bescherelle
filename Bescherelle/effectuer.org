@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe effectuer
+
+* INDICATIF
+
+** Présent
+
+j'effectue
+tu effectues
+il (elle) effectue
+nous effectuons
+vous effectuez
+ils (elles) effectuent
+
+** Imparfait
+
+j'effectuais
+tu effectuais
+il (elle) effectuait
+nous effectuions
+vous effectuiez
+ils (elles) effectuaient
+
+** Passé simple
+
+j'effectuai
+tu effectuas
+il (elle) effectua
+nous effectuâmes
+vous effectuâtes
+ils (elles) effectuèrent
+
+** Futur simple
+
+j'effectuerai
+tu effectueras
+il (elle) effectuera
+nous effectuerons
+vous effectuerez
+ils (elles) effectueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'effectuerais
+tu effectuerais
+il (elle) effectuerait
+nous effectuerions
+vous effectueriez
+ils (elles) effectueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'effectue
+que tu effectues
+qu’il (elle) effectue
+que nous effectuions
+que vous effectuiez
+qu’ils (elles) effectuent
+
+** Imparfait
+
+que j'effectuasse
+que tu effectuasses
+qu’il (elle) effectuât
+que nous effectuassions
+que vous effectuassiez
+qu’ils (elles) effectuassent
+
+* IMPÉRATIF
+
+** Présent
+
+effectue
+effectuons
+effectuez
+
+* INFINITIF
+
+** Présent
+
+effectuer
+
+* PARTICIPE
+
+** Présent
+
+effectuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai effectué
+tu as effectué
+il (elle) a effectué
+nous avons effectué
+vous avez effectué
+ils (elles) ont effectué
+
+** Plus-que-parfait
+
+j'avais effectué
+tu avais effectué
+il (elle) avait effectué
+nous avions effectué
+vous aviez effectué
+ils (elles) avaient effectué
+
+** Passé antérieur
+
+j'eus effectué
+tu eus effectué
+il (elle) eut effectué
+nous eûmes effectué
+vous eûtes effectué
+ils (elles) eurent effectué
+
+** Futur antérieur
+
+j'aurai effectué
+tu auras effectué
+il (elle) aura effectué
+nous aurons effectué
+vous aurez effectué
+ils (elles) auront effectué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais effectué
+tu aurais effectué
+il (elle) aurait effectué
+nous aurions effectué
+vous auriez effectué
+ils (elles) auraient effectué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie effectué
+que tu aies effectué
+qu’il (elle) ait effectué
+que nous ayons effectué
+que vous ayez effectué
+qu’ils (elles) aient effectué
+
+** Plus-que-parfait
+
+que j'eusse effectué
+que tu eusses effectué
+qu’il (elle) eût effectué
+que nous eussions effectué
+que vous eussiez effectué
+qu’ils (elles) eussent effectué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons effectué
+ayez effectué
+
+* INFINITIF
+
+** Passé
+
+avoir effectué
+
+* PARTICIPE
+
+** Passé
+
+ayant effectué
+effectué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis effectué(e)
+tu es effectué(e)
+il (elle) est effectué(e)
+nous sommes effectué(e)s
+vous êtes effectué(e)s
+ils (elles) sont effectué(e)s
+
+** Imparfait
+
+j'étais effectué(e)
+tu étais effectué(e)
+il (elle) était effectué(e)
+nous étions effectué(e)s
+vous étiez effectué(e)s
+ils (elles) étaient effectué(e)s
+
+** Passé simple
+
+je fus effectué(e)
+tu fus effectué(e)
+il (elle) fut effectué(e)
+nous fûmes effectué(e)s
+vous fûtes effectué(e)s
+ils (elles) furent effectué(e)s
+
+** Futur simple
+
+je serai effectué(e)
+tu seras effectué(e)
+il (elle) sera effectué(e)
+nous serons effectué(e)s
+vous serez effectué(e)s
+ils (elles) seront effectué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais effectué(e)
+tu serais effectué(e)
+il (elle) serait effectué(e)
+nous serions effectué(e)s
+vous seriez effectué(e)s
+ils (elles) seraient effectué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois effectué(e)
+que tu sois effectué(e)
+qu’il (elle) soit effectué(e)
+que nous soyons effectué(e)s
+que vous soyez effectué(e)s
+qu’ils (elles) soient effectué(e)s
+
+** Imparfait
+
+que je fusse effectué(e)
+que tu fusses effectué(e)
+qu’il (elle) fût effectué(e)
+que nous fussions effectué(e)s
+que vous fussiez effectué(e)s
+qu’ils (elles) fussent effectué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons effectué(e)s
+soyez effectué(e)s
+
+* INFINITIF
+
+** Présent
+
+être effectué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant effectué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été effectué(e)
+tu as été effectué(e)
+il (elle) a été effectué(e)
+nous avons été effectué(e)s
+vous avez été effectué(e)s
+ils (elles) ont été effectué(e)s
+
+** Plus-que-parfait
+
+j'avais été effectué(e)
+il (elle) avait été effectué(e)
+nous avions été effectué(e)s
+ils (elles) avaient été effectué(e)s
+
+** Passé antérieur
+
+j'eus été effectué(e)
+tu eus été effectué(e)
+il (elle) eut été effectué(e)
+nous eûmes été effectué(e)s
+vous eûtes été effectué(e)s
+ils (elles) eurent été effectué(e)s
+
+** Futur antérieur
+
+j'aurai été effectué(e)
+tu auras été effectué(e)
+il (elle) aura été effectué(e)
+nous aurons été effectué(e)s
+vous aurez été effectué(e)s
+ils (elles) auront été effectué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été effectué(e)
+j'aurais été effectué(e)
+il (elle) aurait été effectué(e)
+nous aurions été effectué(e)s
+vous auriez été effectué(e)s
+ils (elles) auraient été effectué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été effectué(e)
+que tu aies été effectué(e)
+qu’il (elle) ait été effectué(e)
+que nous ayons été effectué(e)s
+que vous ayez été effectué(e)s
+qu’ils (elles) aient été effectué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été effectué(e)
+que tu eusses été effectué(e)
+qu’il (elle) eût été effectué(e)
+que nous eussions été effectué(e)s
+que vous eussiez été effectué(e)s
+qu’ils (elles) eussent été effectué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été effectué(e)
+ayons été effectué(e)s
+ayez été effectué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été effectué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été effectué(e)(s)

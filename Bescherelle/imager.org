@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe imager
+
+* INDICATIF
+
+** Présent
+
+j'image
+tu images
+il (elle) image
+nous imageons
+vous imagez
+ils (elles) imagent
+
+** Imparfait
+
+j'imageais
+tu imageais
+il (elle) imageait
+nous imagions
+vous imagiez
+ils (elles) imageaient
+
+** Passé simple
+
+j'imageai
+tu imageas
+il (elle) imagea
+nous imageâmes
+vous imageâtes
+ils (elles) imagèrent
+
+** Futur simple
+
+j'imagerai
+tu imageras
+il (elle) imagera
+nous imagerons
+vous imagerez
+ils (elles) imageront
+
+* CONDITIONNEL
+
+** Présent
+
+j'imagerais
+tu imagerais
+il (elle) imagerait
+nous imagerions
+vous imageriez
+ils (elles) imageraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'image
+que tu images
+qu’il (elle) image
+que nous imagions
+que vous imagiez
+qu’ils (elles) imagent
+
+** Imparfait
+
+que j'imageasse
+que tu imageasses
+qu’il (elle) imageât
+que nous imageassions
+que vous imageassiez
+qu’ils (elles) imageassent
+
+* IMPÉRATIF
+
+** Présent
+
+image
+imageons
+imagez
+
+* INFINITIF
+
+** Présent
+
+imager
+
+* PARTICIPE
+
+** Présent
+
+imageant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imagé
+tu as imagé
+il (elle) a imagé
+nous avons imagé
+vous avez imagé
+ils (elles) ont imagé
+
+** Plus-que-parfait
+
+j'avais imagé
+tu avais imagé
+il (elle) avait imagé
+nous avions imagé
+vous aviez imagé
+ils (elles) avaient imagé
+
+** Passé antérieur
+
+j'eus imagé
+tu eus imagé
+il (elle) eut imagé
+nous eûmes imagé
+vous eûtes imagé
+ils (elles) eurent imagé
+
+** Futur antérieur
+
+j'aurai imagé
+tu auras imagé
+il (elle) aura imagé
+nous aurons imagé
+vous aurez imagé
+ils (elles) auront imagé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imagé
+tu aurais imagé
+il (elle) aurait imagé
+nous aurions imagé
+vous auriez imagé
+ils (elles) auraient imagé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imagé
+que tu aies imagé
+qu’il (elle) ait imagé
+que nous ayons imagé
+que vous ayez imagé
+qu’ils (elles) aient imagé
+
+** Plus-que-parfait
+
+que j'eusse imagé
+que tu eusses imagé
+qu’il (elle) eût imagé
+que nous eussions imagé
+que vous eussiez imagé
+qu’ils (elles) eussent imagé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imagé
+ayez imagé
+
+* INFINITIF
+
+** Passé
+
+avoir imagé
+
+* PARTICIPE
+
+** Passé
+
+ayant imagé
+imagé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis imagé(e)
+tu es imagé(e)
+il (elle) est imagé(e)
+nous sommes imagé(e)s
+vous êtes imagé(e)s
+ils (elles) sont imagé(e)s
+
+** Imparfait
+
+j'étais imagé(e)
+tu étais imagé(e)
+il (elle) était imagé(e)
+nous étions imagé(e)s
+vous étiez imagé(e)s
+ils (elles) étaient imagé(e)s
+
+** Passé simple
+
+je fus imagé(e)
+tu fus imagé(e)
+il (elle) fut imagé(e)
+nous fûmes imagé(e)s
+vous fûtes imagé(e)s
+ils (elles) furent imagé(e)s
+
+** Futur simple
+
+je serai imagé(e)
+tu seras imagé(e)
+il (elle) sera imagé(e)
+nous serons imagé(e)s
+vous serez imagé(e)s
+ils (elles) seront imagé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imagé(e)
+tu serais imagé(e)
+il (elle) serait imagé(e)
+nous serions imagé(e)s
+vous seriez imagé(e)s
+ils (elles) seraient imagé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imagé(e)
+que tu sois imagé(e)
+qu’il (elle) soit imagé(e)
+que nous soyons imagé(e)s
+que vous soyez imagé(e)s
+qu’ils (elles) soient imagé(e)s
+
+** Imparfait
+
+que je fusse imagé(e)
+que tu fusses imagé(e)
+qu’il (elle) fût imagé(e)
+que nous fussions imagé(e)s
+que vous fussiez imagé(e)s
+qu’ils (elles) fussent imagé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imagé(e)s
+soyez imagé(e)s
+
+* INFINITIF
+
+** Présent
+
+être imagé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imagé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imagé(e)
+tu as été imagé(e)
+il (elle) a été imagé(e)
+nous avons été imagé(e)s
+vous avez été imagé(e)s
+ils (elles) ont été imagé(e)s
+
+** Plus-que-parfait
+
+j'avais été imagé(e)
+il (elle) avait été imagé(e)
+nous avions été imagé(e)s
+ils (elles) avaient été imagé(e)s
+
+** Passé antérieur
+
+j'eus été imagé(e)
+tu eus été imagé(e)
+il (elle) eut été imagé(e)
+nous eûmes été imagé(e)s
+vous eûtes été imagé(e)s
+ils (elles) eurent été imagé(e)s
+
+** Futur antérieur
+
+j'aurai été imagé(e)
+tu auras été imagé(e)
+il (elle) aura été imagé(e)
+nous aurons été imagé(e)s
+vous aurez été imagé(e)s
+ils (elles) auront été imagé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imagé(e)
+j'aurais été imagé(e)
+il (elle) aurait été imagé(e)
+nous aurions été imagé(e)s
+vous auriez été imagé(e)s
+ils (elles) auraient été imagé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imagé(e)
+que tu aies été imagé(e)
+qu’il (elle) ait été imagé(e)
+que nous ayons été imagé(e)s
+que vous ayez été imagé(e)s
+qu’ils (elles) aient été imagé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imagé(e)
+que tu eusses été imagé(e)
+qu’il (elle) eût été imagé(e)
+que nous eussions été imagé(e)s
+que vous eussiez été imagé(e)s
+qu’ils (elles) eussent été imagé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imagé(e)
+ayons été imagé(e)s
+ayez été imagé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imagé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imagé(e)(s)

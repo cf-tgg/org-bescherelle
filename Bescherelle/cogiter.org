@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cogiter
+
+* INDICATIF
+
+** Présent
+
+je cogite
+tu cogites
+il (elle) cogite
+nous cogitons
+vous cogitez
+ils (elles) cogitent
+
+** Imparfait
+
+je cogitais
+tu cogitais
+il (elle) cogitait
+nous cogitions
+vous cogitiez
+ils (elles) cogitaient
+
+** Passé simple
+
+je cogitai
+tu cogitas
+il (elle) cogita
+nous cogitâmes
+vous cogitâtes
+ils (elles) cogitèrent
+
+** Futur simple
+
+je cogiterai
+tu cogiteras
+il (elle) cogitera
+nous cogiterons
+vous cogiterez
+ils (elles) cogiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je cogiterais
+tu cogiterais
+il (elle) cogiterait
+nous cogiterions
+vous cogiteriez
+ils (elles) cogiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cogite
+que tu cogites
+qu’il (elle) cogite
+que nous cogitions
+que vous cogitiez
+qu’ils (elles) cogitent
+
+** Imparfait
+
+que je cogitasse
+que tu cogitasses
+qu’il (elle) cogitât
+que nous cogitassions
+que vous cogitassiez
+qu’ils (elles) cogitassent
+
+* IMPÉRATIF
+
+** Présent
+
+cogite
+cogitons
+cogitez
+
+* INFINITIF
+
+** Présent
+
+cogiter
+
+* PARTICIPE
+
+** Présent
+
+cogitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cogité
+tu as cogité
+il (elle) a cogité
+nous avons cogité
+vous avez cogité
+ils (elles) ont cogité
+
+** Plus-que-parfait
+
+j'avais cogité
+tu avais cogité
+il (elle) avait cogité
+nous avions cogité
+vous aviez cogité
+ils (elles) avaient cogité
+
+** Passé antérieur
+
+j'eus cogité
+tu eus cogité
+il (elle) eut cogité
+nous eûmes cogité
+vous eûtes cogité
+ils (elles) eurent cogité
+
+** Futur antérieur
+
+j'aurai cogité
+tu auras cogité
+il (elle) aura cogité
+nous aurons cogité
+vous aurez cogité
+ils (elles) auront cogité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cogité
+tu aurais cogité
+il (elle) aurait cogité
+nous aurions cogité
+vous auriez cogité
+ils (elles) auraient cogité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cogité
+que tu aies cogité
+qu’il (elle) ait cogité
+que nous ayons cogité
+que vous ayez cogité
+qu’ils (elles) aient cogité
+
+** Plus-que-parfait
+
+que j'eusse cogité
+que tu eusses cogité
+qu’il (elle) eût cogité
+que nous eussions cogité
+que vous eussiez cogité
+qu’ils (elles) eussent cogité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cogité
+ayez cogité
+
+* INFINITIF
+
+** Passé
+
+avoir cogité
+
+* PARTICIPE
+
+** Passé
+
+ayant cogité
+cogité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cogité(e)
+tu es cogité(e)
+il (elle) est cogité(e)
+nous sommes cogité(e)s
+vous êtes cogité(e)s
+ils (elles) sont cogité(e)s
+
+** Imparfait
+
+j'étais cogité(e)
+tu étais cogité(e)
+il (elle) était cogité(e)
+nous étions cogité(e)s
+vous étiez cogité(e)s
+ils (elles) étaient cogité(e)s
+
+** Passé simple
+
+je fus cogité(e)
+tu fus cogité(e)
+il (elle) fut cogité(e)
+nous fûmes cogité(e)s
+vous fûtes cogité(e)s
+ils (elles) furent cogité(e)s
+
+** Futur simple
+
+je serai cogité(e)
+tu seras cogité(e)
+il (elle) sera cogité(e)
+nous serons cogité(e)s
+vous serez cogité(e)s
+ils (elles) seront cogité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cogité(e)
+tu serais cogité(e)
+il (elle) serait cogité(e)
+nous serions cogité(e)s
+vous seriez cogité(e)s
+ils (elles) seraient cogité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cogité(e)
+que tu sois cogité(e)
+qu’il (elle) soit cogité(e)
+que nous soyons cogité(e)s
+que vous soyez cogité(e)s
+qu’ils (elles) soient cogité(e)s
+
+** Imparfait
+
+que je fusse cogité(e)
+que tu fusses cogité(e)
+qu’il (elle) fût cogité(e)
+que nous fussions cogité(e)s
+que vous fussiez cogité(e)s
+qu’ils (elles) fussent cogité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cogité(e)s
+soyez cogité(e)s
+
+* INFINITIF
+
+** Présent
+
+être cogité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cogité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cogité(e)
+tu as été cogité(e)
+il (elle) a été cogité(e)
+nous avons été cogité(e)s
+vous avez été cogité(e)s
+ils (elles) ont été cogité(e)s
+
+** Plus-que-parfait
+
+j'avais été cogité(e)
+il (elle) avait été cogité(e)
+nous avions été cogité(e)s
+ils (elles) avaient été cogité(e)s
+
+** Passé antérieur
+
+j'eus été cogité(e)
+tu eus été cogité(e)
+il (elle) eut été cogité(e)
+nous eûmes été cogité(e)s
+vous eûtes été cogité(e)s
+ils (elles) eurent été cogité(e)s
+
+** Futur antérieur
+
+j'aurai été cogité(e)
+tu auras été cogité(e)
+il (elle) aura été cogité(e)
+nous aurons été cogité(e)s
+vous aurez été cogité(e)s
+ils (elles) auront été cogité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cogité(e)
+j'aurais été cogité(e)
+il (elle) aurait été cogité(e)
+nous aurions été cogité(e)s
+vous auriez été cogité(e)s
+ils (elles) auraient été cogité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cogité(e)
+que tu aies été cogité(e)
+qu’il (elle) ait été cogité(e)
+que nous ayons été cogité(e)s
+que vous ayez été cogité(e)s
+qu’ils (elles) aient été cogité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cogité(e)
+que tu eusses été cogité(e)
+qu’il (elle) eût été cogité(e)
+que nous eussions été cogité(e)s
+que vous eussiez été cogité(e)s
+qu’ils (elles) eussent été cogité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cogité(e)
+ayons été cogité(e)s
+ayez été cogité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cogité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cogité(e)(s)

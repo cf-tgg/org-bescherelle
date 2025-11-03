@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe survenir
+
+* INDICATIF
+
+** Présent
+
+je surviens
+tu surviens
+il (elle) survient
+nous survenons
+vous survenez
+ils (elles) surviennent
+
+** Imparfait
+
+je survenais
+tu survenais
+il (elle) survenait
+nous survenions
+vous surveniez
+ils (elles) survenaient
+
+** Passé simple
+
+je survins
+tu survins
+il (elle) survint
+nous survînmes
+vous survîntes
+ils (elles) survinrent
+
+** Futur simple
+
+je surviendrai
+tu surviendras
+il (elle) surviendra
+nous surviendrons
+vous surviendrez
+ils (elles) surviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je surviendrais
+tu surviendrais
+il (elle) surviendrait
+nous surviendrions
+vous surviendriez
+ils (elles) surviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je survienne
+que tu surviennes
+qu’il (elle) survienne
+que nous survenions
+que vous surveniez
+qu’ils (elles) surviennent
+
+** Imparfait
+
+que je survinsse
+que tu survinsses
+qu’il (elle) survînt
+que nous survinssions
+que vous survinssiez
+qu’ils (elles) survinssent
+
+* IMPÉRATIF
+
+** Présent
+
+surviens
+survenons
+survenez
+
+* INFINITIF
+
+** Présent
+
+survenir
+
+* PARTICIPE
+
+** Présent
+
+survenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis survenu(e)
+tu es survenu(e)
+il (elle) est survenu(e)
+nous sommes survenu(e)s
+vous êtes survenu(e)s
+ils (elles) sont survenu(e)s
+
+** Plus-que-parfait
+
+j'étais survenu(e)
+tu étais survenu(e)
+il (elle) était survenu(e)
+nous étions survenu(e)s
+vous étiez survenu(e)s
+ils (elles) étaient survenu(e)s
+
+** Passé antérieur
+
+je fus survenu(e)
+tu fus survenu(e)
+il (elle) fut survenu(e)
+nous fûmes survenu(e)s
+vous fûtes survenu(e)s
+ils (elles) furent survenu(e)s
+
+** Futur antérieur
+
+je serai survenu(e)
+tu seras survenu(e)
+il (elle) sera survenu(e)
+nous serons survenu(e)s
+vous serez survenu(e)s
+ils (elles) seront survenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais survenu(e)
+tu serais survenu(e)
+il (elle) serait survenu(e)
+nous serions survenu(e)s
+vous seriez survenu(e)s
+ils (elles) seraient survenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois survenu(e)
+que tu sois survenu(e)
+qu’il (elle) soit survenu(e)
+que nous soyons survenu(e)s
+que vous soyez survenu(e)s
+qu’ils (elles) soient survenu(e)s
+
+** Plus-que-parfait
+
+que je fusse survenu(e)
+que tu fusses survenu(e)
+qu’il (elle) fût survenu(e)
+que nous fussions survenu(e)s
+que vous fussiez survenu(e)s
+qu’ils (elles) fussent survenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons survenu(e)s
+soyez survenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être survenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant survenu(e)(s)
+survenu (u, ue, us, ues)

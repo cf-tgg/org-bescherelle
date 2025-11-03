@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe scruter
+
+* INDICATIF
+
+** Présent
+
+je scrute
+tu scrutes
+il (elle) scrute
+nous scrutons
+vous scrutez
+ils (elles) scrutent
+
+** Imparfait
+
+je scrutais
+tu scrutais
+il (elle) scrutait
+nous scrutions
+vous scrutiez
+ils (elles) scrutaient
+
+** Passé simple
+
+je scrutai
+tu scrutas
+il (elle) scruta
+nous scrutâmes
+vous scrutâtes
+ils (elles) scrutèrent
+
+** Futur simple
+
+je scruterai
+tu scruteras
+il (elle) scrutera
+nous scruterons
+vous scruterez
+ils (elles) scruteront
+
+* CONDITIONNEL
+
+** Présent
+
+je scruterais
+tu scruterais
+il (elle) scruterait
+nous scruterions
+vous scruteriez
+ils (elles) scruteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je scrute
+que tu scrutes
+qu’il (elle) scrute
+que nous scrutions
+que vous scrutiez
+qu’ils (elles) scrutent
+
+** Imparfait
+
+que je scrutasse
+que tu scrutasses
+qu’il (elle) scrutât
+que nous scrutassions
+que vous scrutassiez
+qu’ils (elles) scrutassent
+
+* IMPÉRATIF
+
+** Présent
+
+scrute
+scrutons
+scrutez
+
+* INFINITIF
+
+** Présent
+
+scruter
+
+* PARTICIPE
+
+** Présent
+
+scrutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai scruté
+tu as scruté
+il (elle) a scruté
+nous avons scruté
+vous avez scruté
+ils (elles) ont scruté
+
+** Plus-que-parfait
+
+j'avais scruté
+tu avais scruté
+il (elle) avait scruté
+nous avions scruté
+vous aviez scruté
+ils (elles) avaient scruté
+
+** Passé antérieur
+
+j'eus scruté
+tu eus scruté
+il (elle) eut scruté
+nous eûmes scruté
+vous eûtes scruté
+ils (elles) eurent scruté
+
+** Futur antérieur
+
+j'aurai scruté
+tu auras scruté
+il (elle) aura scruté
+nous aurons scruté
+vous aurez scruté
+ils (elles) auront scruté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais scruté
+tu aurais scruté
+il (elle) aurait scruté
+nous aurions scruté
+vous auriez scruté
+ils (elles) auraient scruté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie scruté
+que tu aies scruté
+qu’il (elle) ait scruté
+que nous ayons scruté
+que vous ayez scruté
+qu’ils (elles) aient scruté
+
+** Plus-que-parfait
+
+que j'eusse scruté
+que tu eusses scruté
+qu’il (elle) eût scruté
+que nous eussions scruté
+que vous eussiez scruté
+qu’ils (elles) eussent scruté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons scruté
+ayez scruté
+
+* INFINITIF
+
+** Passé
+
+avoir scruté
+
+* PARTICIPE
+
+** Passé
+
+ayant scruté
+scruté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis scruté(e)
+tu es scruté(e)
+il (elle) est scruté(e)
+nous sommes scruté(e)s
+vous êtes scruté(e)s
+ils (elles) sont scruté(e)s
+
+** Imparfait
+
+j'étais scruté(e)
+tu étais scruté(e)
+il (elle) était scruté(e)
+nous étions scruté(e)s
+vous étiez scruté(e)s
+ils (elles) étaient scruté(e)s
+
+** Passé simple
+
+je fus scruté(e)
+tu fus scruté(e)
+il (elle) fut scruté(e)
+nous fûmes scruté(e)s
+vous fûtes scruté(e)s
+ils (elles) furent scruté(e)s
+
+** Futur simple
+
+je serai scruté(e)
+tu seras scruté(e)
+il (elle) sera scruté(e)
+nous serons scruté(e)s
+vous serez scruté(e)s
+ils (elles) seront scruté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais scruté(e)
+tu serais scruté(e)
+il (elle) serait scruté(e)
+nous serions scruté(e)s
+vous seriez scruté(e)s
+ils (elles) seraient scruté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois scruté(e)
+que tu sois scruté(e)
+qu’il (elle) soit scruté(e)
+que nous soyons scruté(e)s
+que vous soyez scruté(e)s
+qu’ils (elles) soient scruté(e)s
+
+** Imparfait
+
+que je fusse scruté(e)
+que tu fusses scruté(e)
+qu’il (elle) fût scruté(e)
+que nous fussions scruté(e)s
+que vous fussiez scruté(e)s
+qu’ils (elles) fussent scruté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons scruté(e)s
+soyez scruté(e)s
+
+* INFINITIF
+
+** Présent
+
+être scruté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant scruté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été scruté(e)
+tu as été scruté(e)
+il (elle) a été scruté(e)
+nous avons été scruté(e)s
+vous avez été scruté(e)s
+ils (elles) ont été scruté(e)s
+
+** Plus-que-parfait
+
+j'avais été scruté(e)
+il (elle) avait été scruté(e)
+nous avions été scruté(e)s
+ils (elles) avaient été scruté(e)s
+
+** Passé antérieur
+
+j'eus été scruté(e)
+tu eus été scruté(e)
+il (elle) eut été scruté(e)
+nous eûmes été scruté(e)s
+vous eûtes été scruté(e)s
+ils (elles) eurent été scruté(e)s
+
+** Futur antérieur
+
+j'aurai été scruté(e)
+tu auras été scruté(e)
+il (elle) aura été scruté(e)
+nous aurons été scruté(e)s
+vous aurez été scruté(e)s
+ils (elles) auront été scruté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été scruté(e)
+j'aurais été scruté(e)
+il (elle) aurait été scruté(e)
+nous aurions été scruté(e)s
+vous auriez été scruté(e)s
+ils (elles) auraient été scruté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été scruté(e)
+que tu aies été scruté(e)
+qu’il (elle) ait été scruté(e)
+que nous ayons été scruté(e)s
+que vous ayez été scruté(e)s
+qu’ils (elles) aient été scruté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été scruté(e)
+que tu eusses été scruté(e)
+qu’il (elle) eût été scruté(e)
+que nous eussions été scruté(e)s
+que vous eussiez été scruté(e)s
+qu’ils (elles) eussent été scruté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été scruté(e)
+ayons été scruté(e)s
+ayez été scruté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été scruté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été scruté(e)(s)

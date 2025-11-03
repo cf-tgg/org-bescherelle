@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe soigner
+
+* INDICATIF
+
+** Présent
+
+je soigne
+tu soignes
+il (elle) soigne
+nous soignons
+vous soignez
+ils (elles) soignent
+
+** Imparfait
+
+je soignais
+tu soignais
+il (elle) soignait
+nous soignions
+vous soigniez
+ils (elles) soignaient
+
+** Passé simple
+
+je soignai
+tu soignas
+il (elle) soigna
+nous soignâmes
+vous soignâtes
+ils (elles) soignèrent
+
+** Futur simple
+
+je soignerai
+tu soigneras
+il (elle) soignera
+nous soignerons
+vous soignerez
+ils (elles) soigneront
+
+* CONDITIONNEL
+
+** Présent
+
+je soignerais
+tu soignerais
+il (elle) soignerait
+nous soignerions
+vous soigneriez
+ils (elles) soigneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soigne
+que tu soignes
+qu’il (elle) soigne
+que nous soignions
+que vous soigniez
+qu’ils (elles) soignent
+
+** Imparfait
+
+que je soignasse
+que tu soignasses
+qu’il (elle) soignât
+que nous soignassions
+que vous soignassiez
+qu’ils (elles) soignassent
+
+* IMPÉRATIF
+
+** Présent
+
+soigne
+soignons
+soignez
+
+* INFINITIF
+
+** Présent
+
+soigner
+
+* PARTICIPE
+
+** Présent
+
+soignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soigné
+tu as soigné
+il (elle) a soigné
+nous avons soigné
+vous avez soigné
+ils (elles) ont soigné
+
+** Plus-que-parfait
+
+j'avais soigné
+tu avais soigné
+il (elle) avait soigné
+nous avions soigné
+vous aviez soigné
+ils (elles) avaient soigné
+
+** Passé antérieur
+
+j'eus soigné
+tu eus soigné
+il (elle) eut soigné
+nous eûmes soigné
+vous eûtes soigné
+ils (elles) eurent soigné
+
+** Futur antérieur
+
+j'aurai soigné
+tu auras soigné
+il (elle) aura soigné
+nous aurons soigné
+vous aurez soigné
+ils (elles) auront soigné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soigné
+tu aurais soigné
+il (elle) aurait soigné
+nous aurions soigné
+vous auriez soigné
+ils (elles) auraient soigné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soigné
+que tu aies soigné
+qu’il (elle) ait soigné
+que nous ayons soigné
+que vous ayez soigné
+qu’ils (elles) aient soigné
+
+** Plus-que-parfait
+
+que j'eusse soigné
+que tu eusses soigné
+qu’il (elle) eût soigné
+que nous eussions soigné
+que vous eussiez soigné
+qu’ils (elles) eussent soigné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soigné
+ayez soigné
+
+* INFINITIF
+
+** Passé
+
+avoir soigné
+
+* PARTICIPE
+
+** Passé
+
+ayant soigné
+soigné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis soigné(e)
+tu es soigné(e)
+il (elle) est soigné(e)
+nous sommes soigné(e)s
+vous êtes soigné(e)s
+ils (elles) sont soigné(e)s
+
+** Imparfait
+
+j'étais soigné(e)
+tu étais soigné(e)
+il (elle) était soigné(e)
+nous étions soigné(e)s
+vous étiez soigné(e)s
+ils (elles) étaient soigné(e)s
+
+** Passé simple
+
+je fus soigné(e)
+tu fus soigné(e)
+il (elle) fut soigné(e)
+nous fûmes soigné(e)s
+vous fûtes soigné(e)s
+ils (elles) furent soigné(e)s
+
+** Futur simple
+
+je serai soigné(e)
+tu seras soigné(e)
+il (elle) sera soigné(e)
+nous serons soigné(e)s
+vous serez soigné(e)s
+ils (elles) seront soigné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soigné(e)
+tu serais soigné(e)
+il (elle) serait soigné(e)
+nous serions soigné(e)s
+vous seriez soigné(e)s
+ils (elles) seraient soigné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soigné(e)
+que tu sois soigné(e)
+qu’il (elle) soit soigné(e)
+que nous soyons soigné(e)s
+que vous soyez soigné(e)s
+qu’ils (elles) soient soigné(e)s
+
+** Imparfait
+
+que je fusse soigné(e)
+que tu fusses soigné(e)
+qu’il (elle) fût soigné(e)
+que nous fussions soigné(e)s
+que vous fussiez soigné(e)s
+qu’ils (elles) fussent soigné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soigné(e)s
+soyez soigné(e)s
+
+* INFINITIF
+
+** Présent
+
+être soigné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soigné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soigné(e)
+tu as été soigné(e)
+il (elle) a été soigné(e)
+nous avons été soigné(e)s
+vous avez été soigné(e)s
+ils (elles) ont été soigné(e)s
+
+** Plus-que-parfait
+
+j'avais été soigné(e)
+il (elle) avait été soigné(e)
+nous avions été soigné(e)s
+ils (elles) avaient été soigné(e)s
+
+** Passé antérieur
+
+j'eus été soigné(e)
+tu eus été soigné(e)
+il (elle) eut été soigné(e)
+nous eûmes été soigné(e)s
+vous eûtes été soigné(e)s
+ils (elles) eurent été soigné(e)s
+
+** Futur antérieur
+
+j'aurai été soigné(e)
+tu auras été soigné(e)
+il (elle) aura été soigné(e)
+nous aurons été soigné(e)s
+vous aurez été soigné(e)s
+ils (elles) auront été soigné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soigné(e)
+j'aurais été soigné(e)
+il (elle) aurait été soigné(e)
+nous aurions été soigné(e)s
+vous auriez été soigné(e)s
+ils (elles) auraient été soigné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soigné(e)
+que tu aies été soigné(e)
+qu’il (elle) ait été soigné(e)
+que nous ayons été soigné(e)s
+que vous ayez été soigné(e)s
+qu’ils (elles) aient été soigné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soigné(e)
+que tu eusses été soigné(e)
+qu’il (elle) eût été soigné(e)
+que nous eussions été soigné(e)s
+que vous eussiez été soigné(e)s
+qu’ils (elles) eussent été soigné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soigné(e)
+ayons été soigné(e)s
+ayez été soigné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soigné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soigné(e)(s)

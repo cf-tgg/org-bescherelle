@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe envoyer
+
+* INDICATIF
+
+** Présent
+
+j'envoie
+tu envoies
+il (elle) envoie
+nous envoyons
+vous envoyez
+ils (elles) envoient
+
+** Imparfait
+
+j'envoyais
+tu envoyais
+il (elle) envoyait
+nous envoyions
+vous envoyiez
+ils (elles) envoyaient
+
+** Passé simple
+
+j'envoyai
+tu envoyas
+il (elle) envoya
+nous envoyâmes
+vous envoyâtes
+ils (elles) envoyèrent
+
+** Futur simple
+
+j'enverrai
+tu enverras
+il (elle) enverra
+nous enverrons
+vous enverrez
+ils (elles) enverront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enverrais
+tu enverrais
+il (elle) enverrait
+nous enverrions
+vous enverriez
+ils (elles) enverraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'envoie
+que tu envoies
+qu’il (elle) envoie
+que nous envoyions
+que vous envoyiez
+qu’ils (elles) envoient
+
+** Imparfait
+
+que j'envoyasse
+que tu envoyasses
+qu’il (elle) envoyât
+que nous envoyassions
+que vous envoyassiez
+qu’ils (elles) envoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+envoie
+envoyons
+envoyez
+
+* INFINITIF
+
+** Présent
+
+envoyer
+
+* PARTICIPE
+
+** Présent
+
+envoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai envoyé
+tu as envoyé
+il (elle) a envoyé
+nous avons envoyé
+vous avez envoyé
+ils (elles) ont envoyé
+
+** Plus-que-parfait
+
+j'avais envoyé
+tu avais envoyé
+il (elle) avait envoyé
+nous avions envoyé
+vous aviez envoyé
+ils (elles) avaient envoyé
+
+** Passé antérieur
+
+j'eus envoyé
+tu eus envoyé
+il (elle) eut envoyé
+nous eûmes envoyé
+vous eûtes envoyé
+ils (elles) eurent envoyé
+
+** Futur antérieur
+
+j'aurai envoyé
+tu auras envoyé
+il (elle) aura envoyé
+nous aurons envoyé
+vous aurez envoyé
+ils (elles) auront envoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais envoyé
+tu aurais envoyé
+il (elle) aurait envoyé
+nous aurions envoyé
+vous auriez envoyé
+ils (elles) auraient envoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie envoyé
+que tu aies envoyé
+qu’il (elle) ait envoyé
+que nous ayons envoyé
+que vous ayez envoyé
+qu’ils (elles) aient envoyé
+
+** Plus-que-parfait
+
+que j'eusse envoyé
+que tu eusses envoyé
+qu’il (elle) eût envoyé
+que nous eussions envoyé
+que vous eussiez envoyé
+qu’ils (elles) eussent envoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons envoyé
+ayez envoyé
+
+* INFINITIF
+
+** Passé
+
+avoir envoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant envoyé
+envoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis envoyé(e)
+tu es envoyé(e)
+il (elle) est envoyé(e)
+nous sommes envoyé(e)s
+vous êtes envoyé(e)s
+ils (elles) sont envoyé(e)s
+
+** Imparfait
+
+j'étais envoyé(e)
+tu étais envoyé(e)
+il (elle) était envoyé(e)
+nous étions envoyé(e)s
+vous étiez envoyé(e)s
+ils (elles) étaient envoyé(e)s
+
+** Passé simple
+
+je fus envoyé(e)
+tu fus envoyé(e)
+il (elle) fut envoyé(e)
+nous fûmes envoyé(e)s
+vous fûtes envoyé(e)s
+ils (elles) furent envoyé(e)s
+
+** Futur simple
+
+je serai envoyé(e)
+tu seras envoyé(e)
+il (elle) sera envoyé(e)
+nous serons envoyé(e)s
+vous serez envoyé(e)s
+ils (elles) seront envoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais envoyé(e)
+tu serais envoyé(e)
+il (elle) serait envoyé(e)
+nous serions envoyé(e)s
+vous seriez envoyé(e)s
+ils (elles) seraient envoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois envoyé(e)
+que tu sois envoyé(e)
+qu’il (elle) soit envoyé(e)
+que nous soyons envoyé(e)s
+que vous soyez envoyé(e)s
+qu’ils (elles) soient envoyé(e)s
+
+** Imparfait
+
+que je fusse envoyé(e)
+que tu fusses envoyé(e)
+qu’il (elle) fût envoyé(e)
+que nous fussions envoyé(e)s
+que vous fussiez envoyé(e)s
+qu’ils (elles) fussent envoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons envoyé(e)s
+soyez envoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être envoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant envoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été envoyé(e)
+tu as été envoyé(e)
+il (elle) a été envoyé(e)
+nous avons été envoyé(e)s
+vous avez été envoyé(e)s
+ils (elles) ont été envoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été envoyé(e)
+il (elle) avait été envoyé(e)
+nous avions été envoyé(e)s
+ils (elles) avaient été envoyé(e)s
+
+** Passé antérieur
+
+j'eus été envoyé(e)
+tu eus été envoyé(e)
+il (elle) eut été envoyé(e)
+nous eûmes été envoyé(e)s
+vous eûtes été envoyé(e)s
+ils (elles) eurent été envoyé(e)s
+
+** Futur antérieur
+
+j'aurai été envoyé(e)
+tu auras été envoyé(e)
+il (elle) aura été envoyé(e)
+nous aurons été envoyé(e)s
+vous aurez été envoyé(e)s
+ils (elles) auront été envoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été envoyé(e)
+j'aurais été envoyé(e)
+il (elle) aurait été envoyé(e)
+nous aurions été envoyé(e)s
+vous auriez été envoyé(e)s
+ils (elles) auraient été envoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été envoyé(e)
+que tu aies été envoyé(e)
+qu’il (elle) ait été envoyé(e)
+que nous ayons été envoyé(e)s
+que vous ayez été envoyé(e)s
+qu’ils (elles) aient été envoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été envoyé(e)
+que tu eusses été envoyé(e)
+qu’il (elle) eût été envoyé(e)
+que nous eussions été envoyé(e)s
+que vous eussiez été envoyé(e)s
+qu’ils (elles) eussent été envoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été envoyé(e)
+ayons été envoyé(e)s
+ayez été envoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été envoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été envoyé(e)(s)

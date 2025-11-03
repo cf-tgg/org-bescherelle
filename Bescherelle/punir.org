@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe punir
+
+* INDICATIF
+
+** Présent
+
+je punis
+tu punis
+il (elle) punit
+nous punissons
+vous punissez
+ils (elles) punissent
+
+** Imparfait
+
+je punissais
+tu punissais
+il (elle) punissait
+nous punissions
+vous punissiez
+ils (elles) punissaient
+
+** Passé simple
+
+je punis
+tu punis
+il (elle) punit
+nous punîmes
+vous punîtes
+ils (elles) punirent
+
+** Futur simple
+
+je punirai
+tu puniras
+il (elle) punira
+nous punirons
+vous punirez
+ils (elles) puniront
+
+* CONDITIONNEL
+
+** Présent
+
+je punirais
+tu punirais
+il (elle) punirait
+nous punirions
+vous puniriez
+ils (elles) puniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je punisse
+que tu punisses
+qu’il (elle) punisse
+que nous punissions
+que vous punissiez
+qu’ils (elles) punissent
+
+** Imparfait
+
+que je punisse
+que tu punisses
+qu’il (elle) punît
+que nous punissions
+que vous punissiez
+qu’ils (elles) punissent
+
+* IMPÉRATIF
+
+** Présent
+
+punis
+punissons
+punissez
+
+* INFINITIF
+
+** Présent
+
+punir
+
+* PARTICIPE
+
+** Présent
+
+punissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai puni
+tu as puni
+il (elle) a puni
+nous avons puni
+vous avez puni
+ils (elles) ont puni
+
+** Plus-que-parfait
+
+j'avais puni
+tu avais puni
+il (elle) avait puni
+nous avions puni
+vous aviez puni
+ils (elles) avaient puni
+
+** Passé antérieur
+
+j'eus puni
+tu eus puni
+il (elle) eut puni
+nous eûmes puni
+vous eûtes puni
+ils (elles) eurent puni
+
+** Futur antérieur
+
+j'aurai puni
+tu auras puni
+il (elle) aura puni
+nous aurons puni
+vous aurez puni
+ils (elles) auront puni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais puni
+tu aurais puni
+il (elle) aurait puni
+nous aurions puni
+vous auriez puni
+ils (elles) auraient puni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie puni
+que tu aies puni
+qu’il (elle) ait puni
+que nous ayons puni
+que vous ayez puni
+qu’ils (elles) aient puni
+
+** Plus-que-parfait
+
+que j'eusse puni
+que tu eusses puni
+qu’il (elle) eût puni
+que nous eussions puni
+que vous eussiez puni
+qu’ils (elles) eussent puni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons puni
+ayez puni
+
+* INFINITIF
+
+** Passé
+
+avoir puni
+
+* PARTICIPE
+
+** Passé
+
+ayant puni
+puni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis puni(e)
+tu es puni(e)
+il (elle) est puni(e)
+nous sommes puni(e)s
+vous êtes puni(e)s
+ils (elles) sont puni(e)s
+
+** Imparfait
+
+j'étais puni(e)
+tu étais puni(e)
+il (elle) était puni(e)
+nous étions puni(e)s
+vous étiez puni(e)s
+ils (elles) étaient puni(e)s
+
+** Passé simple
+
+je fus puni(e)
+tu fus puni(e)
+il (elle) fut puni(e)
+nous fûmes puni(e)s
+vous fûtes puni(e)s
+ils (elles) furent puni(e)s
+
+** Futur simple
+
+je serai puni(e)
+tu seras puni(e)
+il (elle) sera puni(e)
+nous serons puni(e)s
+vous serez puni(e)s
+ils (elles) seront puni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais puni(e)
+tu serais puni(e)
+il (elle) serait puni(e)
+nous serions puni(e)s
+vous seriez puni(e)s
+ils (elles) seraient puni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois puni(e)
+que tu sois puni(e)
+qu’il (elle) soit puni(e)
+que nous soyons puni(e)s
+que vous soyez puni(e)s
+qu’ils (elles) soient puni(e)s
+
+** Imparfait
+
+que je fusse puni(e)
+que tu fusses puni(e)
+qu’il (elle) fût puni(e)
+que nous fussions puni(e)s
+que vous fussiez puni(e)s
+qu’ils (elles) fussent puni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons puni(e)s
+soyez puni(e)s
+
+* INFINITIF
+
+** Présent
+
+être puni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant puni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été puni(e)
+tu as été puni(e)
+il (elle) a été puni(e)
+nous avons été puni(e)s
+vous avez été puni(e)s
+ils (elles) ont été puni(e)s
+
+** Plus-que-parfait
+
+j'avais été puni(e)
+il (elle) avait été puni(e)
+nous avions été puni(e)s
+ils (elles) avaient été puni(e)s
+
+** Passé antérieur
+
+j'eus été puni(e)
+tu eus été puni(e)
+il (elle) eut été puni(e)
+nous eûmes été puni(e)s
+vous eûtes été puni(e)s
+ils (elles) eurent été puni(e)s
+
+** Futur antérieur
+
+j'aurai été puni(e)
+tu auras été puni(e)
+il (elle) aura été puni(e)
+nous aurons été puni(e)s
+vous aurez été puni(e)s
+ils (elles) auront été puni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été puni(e)
+j'aurais été puni(e)
+il (elle) aurait été puni(e)
+nous aurions été puni(e)s
+vous auriez été puni(e)s
+ils (elles) auraient été puni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été puni(e)
+que tu aies été puni(e)
+qu’il (elle) ait été puni(e)
+que nous ayons été puni(e)s
+que vous ayez été puni(e)s
+qu’ils (elles) aient été puni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été puni(e)
+que tu eusses été puni(e)
+qu’il (elle) eût été puni(e)
+que nous eussions été puni(e)s
+que vous eussiez été puni(e)s
+qu’ils (elles) eussent été puni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été puni(e)
+ayons été puni(e)s
+ayez été puni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été puni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été puni(e)(s)

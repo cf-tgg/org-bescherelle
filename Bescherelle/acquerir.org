@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe acquerir
+
+* INDICATIF
+
+** Présent
+
+j'acquiers
+tu acquiers
+il (elle) acquiert
+nous acquérons
+vous acquérez
+ils (elles) acquièrent
+
+** Imparfait
+
+j'acquérais
+tu acquérais
+il (elle) acquérait
+nous acquérions
+vous acquériez
+ils (elles) acquéraient
+
+** Passé simple
+
+j'acquis
+tu acquis
+il (elle) acquit
+nous acquîmes
+vous acquîtes
+ils (elles) acquirent
+
+** Futur simple
+
+j'acquerrai
+tu acquerras
+il (elle) acquerra
+nous acquerrons
+vous acquerrez
+ils (elles) acquerront
+
+* CONDITIONNEL
+
+** Présent
+
+j'acquerrais
+tu acquerrais
+il (elle) acquerrait
+nous acquerrions
+vous acquerriez
+ils (elles) acquerraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'acquière
+que tu acquières
+qu’il (elle) acquière
+que nous acquérions
+que vous acquériez
+qu’ils (elles) acquièrent
+
+** Imparfait
+
+que j'acquisse
+que tu acquisses
+qu’il (elle) acquît
+que nous acquissions
+que vous acquissiez
+qu’ils (elles) acquissent
+
+* IMPÉRATIF
+
+** Présent
+
+acquiers
+acquérons
+acquérez
+
+* INFINITIF
+
+** Présent
+
+acquérir
+
+* PARTICIPE
+
+** Présent
+
+acquérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai acquis
+tu as acquis
+il (elle) a acquis
+nous avons acquis
+vous avez acquis
+ils (elles) ont acquis
+
+** Plus-que-parfait
+
+j'avais acquis
+tu avais acquis
+il (elle) avait acquis
+nous avions acquis
+vous aviez acquis
+ils (elles) avaient acquis
+
+** Passé antérieur
+
+j'eus acquis
+tu eus acquis
+il (elle) eut acquis
+nous eûmes acquis
+vous eûtes acquis
+ils (elles) eurent acquis
+
+** Futur antérieur
+
+j'aurai acquis
+tu auras acquis
+il (elle) aura acquis
+nous aurons acquis
+vous aurez acquis
+ils (elles) auront acquis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais acquis
+tu aurais acquis
+il (elle) aurait acquis
+nous aurions acquis
+vous auriez acquis
+ils (elles) auraient acquis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie acquis
+que tu aies acquis
+qu’il (elle) ait acquis
+que nous ayons acquis
+que vous ayez acquis
+qu’ils (elles) aient acquis
+
+** Plus-que-parfait
+
+que j'eusse acquis
+que tu eusses acquis
+qu’il (elle) eût acquis
+que nous eussions acquis
+que vous eussiez acquis
+qu’ils (elles) eussent acquis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons acquis
+ayez acquis
+
+* INFINITIF
+
+** Passé
+
+avoir acquis
+
+* PARTICIPE
+
+** Passé
+
+ayant acquis
+acquis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis acquis(e)
+tu es acquis(e)
+il (elle) est acquis(e)
+nous sommes acquis(es)
+vous êtes acquis(es)
+ils (elles) sont acquis(es)
+
+** Imparfait
+
+j'étais acquis(e)
+tu étais acquis(e)
+il (elle) était acquis(e)
+nous étions acquis(es)
+vous étiez acquis(es)
+ils (elles) étaient acquis(es)
+
+** Passé simple
+
+je fus acquis(e)
+tu fus acquis(e)
+il (elle) fut acquis(e)
+nous fûmes acquis(es)
+vous fûtes acquis(es)
+ils (elles) furent acquis(es)
+
+** Futur simple
+
+je serai acquis(e)
+tu seras acquis(e)
+il (elle) sera acquis(e)
+nous serons acquis(es)
+vous serez acquis(es)
+ils (elles) seront acquis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais acquis(e)
+tu serais acquis(e)
+il (elle) serait acquis(e)
+nous serions acquis(es)
+vous seriez acquis(es)
+ils (elles) seraient acquis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois acquis(e)
+que tu sois acquis(e)
+qu’il (elle) soit acquis(e)
+que nous soyons acquis(es)
+que vous soyez acquis(es)
+qu’ils (elles) soient acquis(es)
+
+** Imparfait
+
+que je fusse acquis(e)
+que tu fusses acquis(e)
+qu’il (elle) fût acquis(e)
+que nous fussions acquis(es)
+que vous fussiez acquis(es)
+qu’ils (elles) fussent acquis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons acquis(es)
+soyez acquis(es)
+
+* INFINITIF
+
+** Présent
+
+être acquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant acquis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été acquis(e)
+tu as été acquis(e)
+il (elle) a été acquis(e)
+nous avons été acquis(es)
+vous avez été acquis(es)
+ils (elles) ont été acquis(es)
+
+** Plus-que-parfait
+
+j'avais été acquis(e)
+il (elle) avait été acquis(e)
+nous avions été acquis(es)
+ils (elles) avaient été acquis(es)
+
+** Passé antérieur
+
+j'eus été acquis(e)
+tu eus été acquis(e)
+il (elle) eut été acquis(e)
+nous eûmes été acquis(es)
+vous eûtes été acquis(es)
+ils (elles) eurent été acquis(es)
+
+** Futur antérieur
+
+j'aurai été acquis(e)
+tu auras été acquis(e)
+il (elle) aura été acquis(e)
+nous aurons été acquis(es)
+vous aurez été acquis(es)
+ils (elles) auront été acquis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été acquis(e)
+j'aurais été acquis(e)
+il (elle) aurait été acquis(e)
+nous aurions été acquis(es)
+vous auriez été acquis(es)
+ils (elles) auraient été acquis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été acquis(e)
+que tu aies été acquis(e)
+qu’il (elle) ait été acquis(e)
+que nous ayons été acquis(es)
+que vous ayez été acquis(es)
+qu’ils (elles) aient été acquis(es)
+
+** Plus-que-parfait
+
+que j'eusse été acquis(e)
+que tu eusses été acquis(e)
+qu’il (elle) eût été acquis(e)
+que nous eussions été acquis(es)
+que vous eussiez été acquis(es)
+qu’ils (elles) eussent été acquis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été acquis(e)
+ayons été acquis(es)
+ayez été acquis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été acquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été acquis (s, se, s, ses)

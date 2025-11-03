@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe renommer
+
+* INDICATIF
+
+** Présent
+
+je renomme
+tu renommes
+il (elle) renomme
+nous renommons
+vous renommez
+ils (elles) renomment
+
+** Imparfait
+
+je renommais
+tu renommais
+il (elle) renommait
+nous renommions
+vous renommiez
+ils (elles) renommaient
+
+** Passé simple
+
+je renommai
+tu renommas
+il (elle) renomma
+nous renommâmes
+vous renommâtes
+ils (elles) renommèrent
+
+** Futur simple
+
+je renommerai
+tu renommeras
+il (elle) renommera
+nous renommerons
+vous renommerez
+ils (elles) renommeront
+
+* CONDITIONNEL
+
+** Présent
+
+je renommerais
+tu renommerais
+il (elle) renommerait
+nous renommerions
+vous renommeriez
+ils (elles) renommeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je renomme
+que tu renommes
+qu’il (elle) renomme
+que nous renommions
+que vous renommiez
+qu’ils (elles) renomment
+
+** Imparfait
+
+que je renommasse
+que tu renommasses
+qu’il (elle) renommât
+que nous renommassions
+que vous renommassiez
+qu’ils (elles) renommassent
+
+* IMPÉRATIF
+
+** Présent
+
+renomme
+renommons
+renommez
+
+* INFINITIF
+
+** Présent
+
+renommer
+
+* PARTICIPE
+
+** Présent
+
+renommant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai renommé
+tu as renommé
+il (elle) a renommé
+nous avons renommé
+vous avez renommé
+ils (elles) ont renommé
+
+** Plus-que-parfait
+
+j'avais renommé
+tu avais renommé
+il (elle) avait renommé
+nous avions renommé
+vous aviez renommé
+ils (elles) avaient renommé
+
+** Passé antérieur
+
+j'eus renommé
+tu eus renommé
+il (elle) eut renommé
+nous eûmes renommé
+vous eûtes renommé
+ils (elles) eurent renommé
+
+** Futur antérieur
+
+j'aurai renommé
+tu auras renommé
+il (elle) aura renommé
+nous aurons renommé
+vous aurez renommé
+ils (elles) auront renommé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais renommé
+tu aurais renommé
+il (elle) aurait renommé
+nous aurions renommé
+vous auriez renommé
+ils (elles) auraient renommé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie renommé
+que tu aies renommé
+qu’il (elle) ait renommé
+que nous ayons renommé
+que vous ayez renommé
+qu’ils (elles) aient renommé
+
+** Plus-que-parfait
+
+que j'eusse renommé
+que tu eusses renommé
+qu’il (elle) eût renommé
+que nous eussions renommé
+que vous eussiez renommé
+qu’ils (elles) eussent renommé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons renommé
+ayez renommé
+
+* INFINITIF
+
+** Passé
+
+avoir renommé
+
+* PARTICIPE
+
+** Passé
+
+ayant renommé
+renommé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis renommé(e)
+tu es renommé(e)
+il (elle) est renommé(e)
+nous sommes renommé(e)s
+vous êtes renommé(e)s
+ils (elles) sont renommé(e)s
+
+** Imparfait
+
+j'étais renommé(e)
+tu étais renommé(e)
+il (elle) était renommé(e)
+nous étions renommé(e)s
+vous étiez renommé(e)s
+ils (elles) étaient renommé(e)s
+
+** Passé simple
+
+je fus renommé(e)
+tu fus renommé(e)
+il (elle) fut renommé(e)
+nous fûmes renommé(e)s
+vous fûtes renommé(e)s
+ils (elles) furent renommé(e)s
+
+** Futur simple
+
+je serai renommé(e)
+tu seras renommé(e)
+il (elle) sera renommé(e)
+nous serons renommé(e)s
+vous serez renommé(e)s
+ils (elles) seront renommé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais renommé(e)
+tu serais renommé(e)
+il (elle) serait renommé(e)
+nous serions renommé(e)s
+vous seriez renommé(e)s
+ils (elles) seraient renommé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois renommé(e)
+que tu sois renommé(e)
+qu’il (elle) soit renommé(e)
+que nous soyons renommé(e)s
+que vous soyez renommé(e)s
+qu’ils (elles) soient renommé(e)s
+
+** Imparfait
+
+que je fusse renommé(e)
+que tu fusses renommé(e)
+qu’il (elle) fût renommé(e)
+que nous fussions renommé(e)s
+que vous fussiez renommé(e)s
+qu’ils (elles) fussent renommé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons renommé(e)s
+soyez renommé(e)s
+
+* INFINITIF
+
+** Présent
+
+être renommé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant renommé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été renommé(e)
+tu as été renommé(e)
+il (elle) a été renommé(e)
+nous avons été renommé(e)s
+vous avez été renommé(e)s
+ils (elles) ont été renommé(e)s
+
+** Plus-que-parfait
+
+j'avais été renommé(e)
+il (elle) avait été renommé(e)
+nous avions été renommé(e)s
+ils (elles) avaient été renommé(e)s
+
+** Passé antérieur
+
+j'eus été renommé(e)
+tu eus été renommé(e)
+il (elle) eut été renommé(e)
+nous eûmes été renommé(e)s
+vous eûtes été renommé(e)s
+ils (elles) eurent été renommé(e)s
+
+** Futur antérieur
+
+j'aurai été renommé(e)
+tu auras été renommé(e)
+il (elle) aura été renommé(e)
+nous aurons été renommé(e)s
+vous aurez été renommé(e)s
+ils (elles) auront été renommé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été renommé(e)
+j'aurais été renommé(e)
+il (elle) aurait été renommé(e)
+nous aurions été renommé(e)s
+vous auriez été renommé(e)s
+ils (elles) auraient été renommé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été renommé(e)
+que tu aies été renommé(e)
+qu’il (elle) ait été renommé(e)
+que nous ayons été renommé(e)s
+que vous ayez été renommé(e)s
+qu’ils (elles) aient été renommé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été renommé(e)
+que tu eusses été renommé(e)
+qu’il (elle) eût été renommé(e)
+que nous eussions été renommé(e)s
+que vous eussiez été renommé(e)s
+qu’ils (elles) eussent été renommé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été renommé(e)
+ayons été renommé(e)s
+ayez été renommé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été renommé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été renommé(e)(s)

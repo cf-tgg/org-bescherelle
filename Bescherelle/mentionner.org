@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mentionner
+
+* INDICATIF
+
+** Présent
+
+je mentionne
+tu mentionnes
+il (elle) mentionne
+nous mentionnons
+vous mentionnez
+ils (elles) mentionnent
+
+** Imparfait
+
+je mentionnais
+tu mentionnais
+il (elle) mentionnait
+nous mentionnions
+vous mentionniez
+ils (elles) mentionnaient
+
+** Passé simple
+
+je mentionnai
+tu mentionnas
+il (elle) mentionna
+nous mentionnâmes
+vous mentionnâtes
+ils (elles) mentionnèrent
+
+** Futur simple
+
+je mentionnerai
+tu mentionneras
+il (elle) mentionnera
+nous mentionnerons
+vous mentionnerez
+ils (elles) mentionneront
+
+* CONDITIONNEL
+
+** Présent
+
+je mentionnerais
+tu mentionnerais
+il (elle) mentionnerait
+nous mentionnerions
+vous mentionneriez
+ils (elles) mentionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mentionne
+que tu mentionnes
+qu’il (elle) mentionne
+que nous mentionnions
+que vous mentionniez
+qu’ils (elles) mentionnent
+
+** Imparfait
+
+que je mentionnasse
+que tu mentionnasses
+qu’il (elle) mentionnât
+que nous mentionnassions
+que vous mentionnassiez
+qu’ils (elles) mentionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+mentionne
+mentionnons
+mentionnez
+
+* INFINITIF
+
+** Présent
+
+mentionner
+
+* PARTICIPE
+
+** Présent
+
+mentionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mentionné
+tu as mentionné
+il (elle) a mentionné
+nous avons mentionné
+vous avez mentionné
+ils (elles) ont mentionné
+
+** Plus-que-parfait
+
+j'avais mentionné
+tu avais mentionné
+il (elle) avait mentionné
+nous avions mentionné
+vous aviez mentionné
+ils (elles) avaient mentionné
+
+** Passé antérieur
+
+j'eus mentionné
+tu eus mentionné
+il (elle) eut mentionné
+nous eûmes mentionné
+vous eûtes mentionné
+ils (elles) eurent mentionné
+
+** Futur antérieur
+
+j'aurai mentionné
+tu auras mentionné
+il (elle) aura mentionné
+nous aurons mentionné
+vous aurez mentionné
+ils (elles) auront mentionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mentionné
+tu aurais mentionné
+il (elle) aurait mentionné
+nous aurions mentionné
+vous auriez mentionné
+ils (elles) auraient mentionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mentionné
+que tu aies mentionné
+qu’il (elle) ait mentionné
+que nous ayons mentionné
+que vous ayez mentionné
+qu’ils (elles) aient mentionné
+
+** Plus-que-parfait
+
+que j'eusse mentionné
+que tu eusses mentionné
+qu’il (elle) eût mentionné
+que nous eussions mentionné
+que vous eussiez mentionné
+qu’ils (elles) eussent mentionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mentionné
+ayez mentionné
+
+* INFINITIF
+
+** Passé
+
+avoir mentionné
+
+* PARTICIPE
+
+** Passé
+
+ayant mentionné
+mentionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mentionné(e)
+tu es mentionné(e)
+il (elle) est mentionné(e)
+nous sommes mentionné(e)s
+vous êtes mentionné(e)s
+ils (elles) sont mentionné(e)s
+
+** Imparfait
+
+j'étais mentionné(e)
+tu étais mentionné(e)
+il (elle) était mentionné(e)
+nous étions mentionné(e)s
+vous étiez mentionné(e)s
+ils (elles) étaient mentionné(e)s
+
+** Passé simple
+
+je fus mentionné(e)
+tu fus mentionné(e)
+il (elle) fut mentionné(e)
+nous fûmes mentionné(e)s
+vous fûtes mentionné(e)s
+ils (elles) furent mentionné(e)s
+
+** Futur simple
+
+je serai mentionné(e)
+tu seras mentionné(e)
+il (elle) sera mentionné(e)
+nous serons mentionné(e)s
+vous serez mentionné(e)s
+ils (elles) seront mentionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mentionné(e)
+tu serais mentionné(e)
+il (elle) serait mentionné(e)
+nous serions mentionné(e)s
+vous seriez mentionné(e)s
+ils (elles) seraient mentionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mentionné(e)
+que tu sois mentionné(e)
+qu’il (elle) soit mentionné(e)
+que nous soyons mentionné(e)s
+que vous soyez mentionné(e)s
+qu’ils (elles) soient mentionné(e)s
+
+** Imparfait
+
+que je fusse mentionné(e)
+que tu fusses mentionné(e)
+qu’il (elle) fût mentionné(e)
+que nous fussions mentionné(e)s
+que vous fussiez mentionné(e)s
+qu’ils (elles) fussent mentionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mentionné(e)s
+soyez mentionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être mentionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mentionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mentionné(e)
+tu as été mentionné(e)
+il (elle) a été mentionné(e)
+nous avons été mentionné(e)s
+vous avez été mentionné(e)s
+ils (elles) ont été mentionné(e)s
+
+** Plus-que-parfait
+
+j'avais été mentionné(e)
+il (elle) avait été mentionné(e)
+nous avions été mentionné(e)s
+ils (elles) avaient été mentionné(e)s
+
+** Passé antérieur
+
+j'eus été mentionné(e)
+tu eus été mentionné(e)
+il (elle) eut été mentionné(e)
+nous eûmes été mentionné(e)s
+vous eûtes été mentionné(e)s
+ils (elles) eurent été mentionné(e)s
+
+** Futur antérieur
+
+j'aurai été mentionné(e)
+tu auras été mentionné(e)
+il (elle) aura été mentionné(e)
+nous aurons été mentionné(e)s
+vous aurez été mentionné(e)s
+ils (elles) auront été mentionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mentionné(e)
+j'aurais été mentionné(e)
+il (elle) aurait été mentionné(e)
+nous aurions été mentionné(e)s
+vous auriez été mentionné(e)s
+ils (elles) auraient été mentionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mentionné(e)
+que tu aies été mentionné(e)
+qu’il (elle) ait été mentionné(e)
+que nous ayons été mentionné(e)s
+que vous ayez été mentionné(e)s
+qu’ils (elles) aient été mentionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mentionné(e)
+que tu eusses été mentionné(e)
+qu’il (elle) eût été mentionné(e)
+que nous eussions été mentionné(e)s
+que vous eussiez été mentionné(e)s
+qu’ils (elles) eussent été mentionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mentionné(e)
+ayons été mentionné(e)s
+ayez été mentionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mentionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mentionné(e)(s)

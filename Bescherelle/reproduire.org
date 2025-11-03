@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reproduire
+
+* INDICATIF
+
+** Présent
+
+je reproduis
+tu reproduis
+il (elle) reproduit
+nous reproduisons
+vous reproduisez
+ils (elles) reproduisent
+
+** Imparfait
+
+je reproduisais
+tu reproduisais
+il (elle) reproduisait
+nous reproduisions
+vous reproduisiez
+ils (elles) reproduisaient
+
+** Passé simple
+
+je reproduisis
+tu reproduisis
+il (elle) reproduisit
+nous reproduisîmes
+vous reproduisîtes
+ils (elles) reproduisirent
+
+** Futur simple
+
+je reproduirai
+tu reproduiras
+il (elle) reproduira
+nous reproduirons
+vous reproduirez
+ils (elles) reproduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je reproduirais
+tu reproduirais
+il (elle) reproduirait
+nous reproduirions
+vous reproduiriez
+ils (elles) reproduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reproduise
+que tu reproduises
+qu’il (elle) reproduise
+que nous reproduisions
+que vous reproduisiez
+qu’ils (elles) reproduisent
+
+** Imparfait
+
+que je reproduisisse
+que tu reproduisisses
+qu’il (elle) reproduisît
+que nous reproduisissions
+que vous reproduisissiez
+qu’ils (elles) reproduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+reproduis
+reproduisons
+reproduisez
+
+* INFINITIF
+
+** Présent
+
+reproduire
+
+* PARTICIPE
+
+** Présent
+
+reproduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reproduit
+tu as reproduit
+il (elle) a reproduit
+nous avons reproduit
+vous avez reproduit
+ils (elles) ont reproduit
+
+** Plus-que-parfait
+
+j'avais reproduit
+tu avais reproduit
+il (elle) avait reproduit
+nous avions reproduit
+vous aviez reproduit
+ils (elles) avaient reproduit
+
+** Passé antérieur
+
+j'eus reproduit
+tu eus reproduit
+il (elle) eut reproduit
+nous eûmes reproduit
+vous eûtes reproduit
+ils (elles) eurent reproduit
+
+** Futur antérieur
+
+j'aurai reproduit
+tu auras reproduit
+il (elle) aura reproduit
+nous aurons reproduit
+vous aurez reproduit
+ils (elles) auront reproduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reproduit
+tu aurais reproduit
+il (elle) aurait reproduit
+nous aurions reproduit
+vous auriez reproduit
+ils (elles) auraient reproduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reproduit
+que tu aies reproduit
+qu’il (elle) ait reproduit
+que nous ayons reproduit
+que vous ayez reproduit
+qu’ils (elles) aient reproduit
+
+** Plus-que-parfait
+
+que j'eusse reproduit
+que tu eusses reproduit
+qu’il (elle) eût reproduit
+que nous eussions reproduit
+que vous eussiez reproduit
+qu’ils (elles) eussent reproduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reproduit
+ayez reproduit
+
+* INFINITIF
+
+** Passé
+
+avoir reproduit
+
+* PARTICIPE
+
+** Passé
+
+ayant reproduit
+reproduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis reproduit(e)
+tu es reproduit(e)
+il (elle) est reproduit(e)
+nous sommes reproduit(e)s
+vous êtes reproduit(e)s
+ils (elles) sont reproduit(e)s
+
+** Imparfait
+
+j'étais reproduit(e)
+tu étais reproduit(e)
+il (elle) était reproduit(e)
+nous étions reproduit(e)s
+vous étiez reproduit(e)s
+ils (elles) étaient reproduit(e)s
+
+** Passé simple
+
+je fus reproduit(e)
+tu fus reproduit(e)
+il (elle) fut reproduit(e)
+nous fûmes reproduit(e)s
+vous fûtes reproduit(e)s
+ils (elles) furent reproduit(e)s
+
+** Futur simple
+
+je serai reproduit(e)
+tu seras reproduit(e)
+il (elle) sera reproduit(e)
+nous serons reproduit(e)s
+vous serez reproduit(e)s
+ils (elles) seront reproduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reproduit(e)
+tu serais reproduit(e)
+il (elle) serait reproduit(e)
+nous serions reproduit(e)s
+vous seriez reproduit(e)s
+ils (elles) seraient reproduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reproduit(e)
+que tu sois reproduit(e)
+qu’il (elle) soit reproduit(e)
+que nous soyons reproduit(e)s
+que vous soyez reproduit(e)s
+qu’ils (elles) soient reproduit(e)s
+
+** Imparfait
+
+que je fusse reproduit(e)
+que tu fusses reproduit(e)
+qu’il (elle) fût reproduit(e)
+que nous fussions reproduit(e)s
+que vous fussiez reproduit(e)s
+qu’ils (elles) fussent reproduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reproduit(e)s
+soyez reproduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être reproduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reproduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reproduit(e)
+tu as été reproduit(e)
+il (elle) a été reproduit(e)
+nous avons été reproduit(e)s
+vous avez été reproduit(e)s
+ils (elles) ont été reproduit(e)s
+
+** Plus-que-parfait
+
+j'avais été reproduit(e)
+il (elle) avait été reproduit(e)
+nous avions été reproduit(e)s
+ils (elles) avaient été reproduit(e)s
+
+** Passé antérieur
+
+j'eus été reproduit(e)
+tu eus été reproduit(e)
+il (elle) eut été reproduit(e)
+nous eûmes été reproduit(e)s
+vous eûtes été reproduit(e)s
+ils (elles) eurent été reproduit(e)s
+
+** Futur antérieur
+
+j'aurai été reproduit(e)
+tu auras été reproduit(e)
+il (elle) aura été reproduit(e)
+nous aurons été reproduit(e)s
+vous aurez été reproduit(e)s
+ils (elles) auront été reproduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reproduit(e)
+j'aurais été reproduit(e)
+il (elle) aurait été reproduit(e)
+nous aurions été reproduit(e)s
+vous auriez été reproduit(e)s
+ils (elles) auraient été reproduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reproduit(e)
+que tu aies été reproduit(e)
+qu’il (elle) ait été reproduit(e)
+que nous ayons été reproduit(e)s
+que vous ayez été reproduit(e)s
+qu’ils (elles) aient été reproduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reproduit(e)
+que tu eusses été reproduit(e)
+qu’il (elle) eût été reproduit(e)
+que nous eussions été reproduit(e)s
+que vous eussiez été reproduit(e)s
+qu’ils (elles) eussent été reproduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reproduit(e)
+ayons été reproduit(e)s
+ayez été reproduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reproduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reproduit(e)(s)

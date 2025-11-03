@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe provoquer
+
+* INDICATIF
+
+** Présent
+
+je provoque
+tu provoques
+il (elle) provoque
+nous provoquons
+vous provoquez
+ils (elles) provoquent
+
+** Imparfait
+
+je provoquais
+tu provoquais
+il (elle) provoquait
+nous provoquions
+vous provoquiez
+ils (elles) provoquaient
+
+** Passé simple
+
+je provoquai
+tu provoquas
+il (elle) provoqua
+nous provoquâmes
+vous provoquâtes
+ils (elles) provoquèrent
+
+** Futur simple
+
+je provoquerai
+tu provoqueras
+il (elle) provoquera
+nous provoquerons
+vous provoquerez
+ils (elles) provoqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je provoquerais
+tu provoquerais
+il (elle) provoquerait
+nous provoquerions
+vous provoqueriez
+ils (elles) provoqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je provoque
+que tu provoques
+qu’il (elle) provoque
+que nous provoquions
+que vous provoquiez
+qu’ils (elles) provoquent
+
+** Imparfait
+
+que je provoquasse
+que tu provoquasses
+qu’il (elle) provoquât
+que nous provoquassions
+que vous provoquassiez
+qu’ils (elles) provoquassent
+
+* IMPÉRATIF
+
+** Présent
+
+provoque
+provoquons
+provoquez
+
+* INFINITIF
+
+** Présent
+
+provoquer
+
+* PARTICIPE
+
+** Présent
+
+provoquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai provoqué
+tu as provoqué
+il (elle) a provoqué
+nous avons provoqué
+vous avez provoqué
+ils (elles) ont provoqué
+
+** Plus-que-parfait
+
+j'avais provoqué
+tu avais provoqué
+il (elle) avait provoqué
+nous avions provoqué
+vous aviez provoqué
+ils (elles) avaient provoqué
+
+** Passé antérieur
+
+j'eus provoqué
+tu eus provoqué
+il (elle) eut provoqué
+nous eûmes provoqué
+vous eûtes provoqué
+ils (elles) eurent provoqué
+
+** Futur antérieur
+
+j'aurai provoqué
+tu auras provoqué
+il (elle) aura provoqué
+nous aurons provoqué
+vous aurez provoqué
+ils (elles) auront provoqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais provoqué
+tu aurais provoqué
+il (elle) aurait provoqué
+nous aurions provoqué
+vous auriez provoqué
+ils (elles) auraient provoqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie provoqué
+que tu aies provoqué
+qu’il (elle) ait provoqué
+que nous ayons provoqué
+que vous ayez provoqué
+qu’ils (elles) aient provoqué
+
+** Plus-que-parfait
+
+que j'eusse provoqué
+que tu eusses provoqué
+qu’il (elle) eût provoqué
+que nous eussions provoqué
+que vous eussiez provoqué
+qu’ils (elles) eussent provoqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons provoqué
+ayez provoqué
+
+* INFINITIF
+
+** Passé
+
+avoir provoqué
+
+* PARTICIPE
+
+** Passé
+
+ayant provoqué
+provoqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis provoqué(e)
+tu es provoqué(e)
+il (elle) est provoqué(e)
+nous sommes provoqué(e)s
+vous êtes provoqué(e)s
+ils (elles) sont provoqué(e)s
+
+** Imparfait
+
+j'étais provoqué(e)
+tu étais provoqué(e)
+il (elle) était provoqué(e)
+nous étions provoqué(e)s
+vous étiez provoqué(e)s
+ils (elles) étaient provoqué(e)s
+
+** Passé simple
+
+je fus provoqué(e)
+tu fus provoqué(e)
+il (elle) fut provoqué(e)
+nous fûmes provoqué(e)s
+vous fûtes provoqué(e)s
+ils (elles) furent provoqué(e)s
+
+** Futur simple
+
+je serai provoqué(e)
+tu seras provoqué(e)
+il (elle) sera provoqué(e)
+nous serons provoqué(e)s
+vous serez provoqué(e)s
+ils (elles) seront provoqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais provoqué(e)
+tu serais provoqué(e)
+il (elle) serait provoqué(e)
+nous serions provoqué(e)s
+vous seriez provoqué(e)s
+ils (elles) seraient provoqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois provoqué(e)
+que tu sois provoqué(e)
+qu’il (elle) soit provoqué(e)
+que nous soyons provoqué(e)s
+que vous soyez provoqué(e)s
+qu’ils (elles) soient provoqué(e)s
+
+** Imparfait
+
+que je fusse provoqué(e)
+que tu fusses provoqué(e)
+qu’il (elle) fût provoqué(e)
+que nous fussions provoqué(e)s
+que vous fussiez provoqué(e)s
+qu’ils (elles) fussent provoqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons provoqué(e)s
+soyez provoqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être provoqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant provoqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été provoqué(e)
+tu as été provoqué(e)
+il (elle) a été provoqué(e)
+nous avons été provoqué(e)s
+vous avez été provoqué(e)s
+ils (elles) ont été provoqué(e)s
+
+** Plus-que-parfait
+
+j'avais été provoqué(e)
+il (elle) avait été provoqué(e)
+nous avions été provoqué(e)s
+ils (elles) avaient été provoqué(e)s
+
+** Passé antérieur
+
+j'eus été provoqué(e)
+tu eus été provoqué(e)
+il (elle) eut été provoqué(e)
+nous eûmes été provoqué(e)s
+vous eûtes été provoqué(e)s
+ils (elles) eurent été provoqué(e)s
+
+** Futur antérieur
+
+j'aurai été provoqué(e)
+tu auras été provoqué(e)
+il (elle) aura été provoqué(e)
+nous aurons été provoqué(e)s
+vous aurez été provoqué(e)s
+ils (elles) auront été provoqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été provoqué(e)
+j'aurais été provoqué(e)
+il (elle) aurait été provoqué(e)
+nous aurions été provoqué(e)s
+vous auriez été provoqué(e)s
+ils (elles) auraient été provoqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été provoqué(e)
+que tu aies été provoqué(e)
+qu’il (elle) ait été provoqué(e)
+que nous ayons été provoqué(e)s
+que vous ayez été provoqué(e)s
+qu’ils (elles) aient été provoqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été provoqué(e)
+que tu eusses été provoqué(e)
+qu’il (elle) eût été provoqué(e)
+que nous eussions été provoqué(e)s
+que vous eussiez été provoqué(e)s
+qu’ils (elles) eussent été provoqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été provoqué(e)
+ayons été provoqué(e)s
+ayez été provoqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été provoqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été provoqué(e)(s)

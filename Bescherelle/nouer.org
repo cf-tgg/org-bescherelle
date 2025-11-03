@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nouer
+
+* INDICATIF
+
+** Présent
+
+je noue
+tu noues
+il (elle) noue
+nous nouons
+vous nouez
+ils (elles) nouent
+
+** Imparfait
+
+je nouais
+tu nouais
+il (elle) nouait
+nous nouions
+vous nouiez
+ils (elles) nouaient
+
+** Passé simple
+
+je nouai
+tu nouas
+il (elle) noua
+nous nouâmes
+vous nouâtes
+ils (elles) nouèrent
+
+** Futur simple
+
+je nouerai
+tu noueras
+il (elle) nouera
+nous nouerons
+vous nouerez
+ils (elles) noueront
+
+* CONDITIONNEL
+
+** Présent
+
+je nouerais
+tu nouerais
+il (elle) nouerait
+nous nouerions
+vous noueriez
+ils (elles) noueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je noue
+que tu noues
+qu’il (elle) noue
+que nous nouions
+que vous nouiez
+qu’ils (elles) nouent
+
+** Imparfait
+
+que je nouasse
+que tu nouasses
+qu’il (elle) nouât
+que nous nouassions
+que vous nouassiez
+qu’ils (elles) nouassent
+
+* IMPÉRATIF
+
+** Présent
+
+noue
+nouons
+nouez
+
+* INFINITIF
+
+** Présent
+
+nouer
+
+* PARTICIPE
+
+** Présent
+
+nouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai noué
+tu as noué
+il (elle) a noué
+nous avons noué
+vous avez noué
+ils (elles) ont noué
+
+** Plus-que-parfait
+
+j'avais noué
+tu avais noué
+il (elle) avait noué
+nous avions noué
+vous aviez noué
+ils (elles) avaient noué
+
+** Passé antérieur
+
+j'eus noué
+tu eus noué
+il (elle) eut noué
+nous eûmes noué
+vous eûtes noué
+ils (elles) eurent noué
+
+** Futur antérieur
+
+j'aurai noué
+tu auras noué
+il (elle) aura noué
+nous aurons noué
+vous aurez noué
+ils (elles) auront noué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais noué
+tu aurais noué
+il (elle) aurait noué
+nous aurions noué
+vous auriez noué
+ils (elles) auraient noué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie noué
+que tu aies noué
+qu’il (elle) ait noué
+que nous ayons noué
+que vous ayez noué
+qu’ils (elles) aient noué
+
+** Plus-que-parfait
+
+que j'eusse noué
+que tu eusses noué
+qu’il (elle) eût noué
+que nous eussions noué
+que vous eussiez noué
+qu’ils (elles) eussent noué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons noué
+ayez noué
+
+* INFINITIF
+
+** Passé
+
+avoir noué
+
+* PARTICIPE
+
+** Passé
+
+ayant noué
+noué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis noué(e)
+tu es noué(e)
+il (elle) est noué(e)
+nous sommes noué(e)s
+vous êtes noué(e)s
+ils (elles) sont noué(e)s
+
+** Imparfait
+
+j'étais noué(e)
+tu étais noué(e)
+il (elle) était noué(e)
+nous étions noué(e)s
+vous étiez noué(e)s
+ils (elles) étaient noué(e)s
+
+** Passé simple
+
+je fus noué(e)
+tu fus noué(e)
+il (elle) fut noué(e)
+nous fûmes noué(e)s
+vous fûtes noué(e)s
+ils (elles) furent noué(e)s
+
+** Futur simple
+
+je serai noué(e)
+tu seras noué(e)
+il (elle) sera noué(e)
+nous serons noué(e)s
+vous serez noué(e)s
+ils (elles) seront noué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais noué(e)
+tu serais noué(e)
+il (elle) serait noué(e)
+nous serions noué(e)s
+vous seriez noué(e)s
+ils (elles) seraient noué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois noué(e)
+que tu sois noué(e)
+qu’il (elle) soit noué(e)
+que nous soyons noué(e)s
+que vous soyez noué(e)s
+qu’ils (elles) soient noué(e)s
+
+** Imparfait
+
+que je fusse noué(e)
+que tu fusses noué(e)
+qu’il (elle) fût noué(e)
+que nous fussions noué(e)s
+que vous fussiez noué(e)s
+qu’ils (elles) fussent noué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons noué(e)s
+soyez noué(e)s
+
+* INFINITIF
+
+** Présent
+
+être noué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant noué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été noué(e)
+tu as été noué(e)
+il (elle) a été noué(e)
+nous avons été noué(e)s
+vous avez été noué(e)s
+ils (elles) ont été noué(e)s
+
+** Plus-que-parfait
+
+j'avais été noué(e)
+il (elle) avait été noué(e)
+nous avions été noué(e)s
+ils (elles) avaient été noué(e)s
+
+** Passé antérieur
+
+j'eus été noué(e)
+tu eus été noué(e)
+il (elle) eut été noué(e)
+nous eûmes été noué(e)s
+vous eûtes été noué(e)s
+ils (elles) eurent été noué(e)s
+
+** Futur antérieur
+
+j'aurai été noué(e)
+tu auras été noué(e)
+il (elle) aura été noué(e)
+nous aurons été noué(e)s
+vous aurez été noué(e)s
+ils (elles) auront été noué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été noué(e)
+j'aurais été noué(e)
+il (elle) aurait été noué(e)
+nous aurions été noué(e)s
+vous auriez été noué(e)s
+ils (elles) auraient été noué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été noué(e)
+que tu aies été noué(e)
+qu’il (elle) ait été noué(e)
+que nous ayons été noué(e)s
+que vous ayez été noué(e)s
+qu’ils (elles) aient été noué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été noué(e)
+que tu eusses été noué(e)
+qu’il (elle) eût été noué(e)
+que nous eussions été noué(e)s
+que vous eussiez été noué(e)s
+qu’ils (elles) eussent été noué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été noué(e)
+ayons été noué(e)s
+ayez été noué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été noué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été noué(e)(s)

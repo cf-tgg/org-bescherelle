@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tuer
+
+* INDICATIF
+
+** Présent
+
+je tue
+tu tues
+il (elle) tue
+nous tuons
+vous tuez
+ils (elles) tuent
+
+** Imparfait
+
+je tuais
+tu tuais
+il (elle) tuait
+nous tuions
+vous tuiez
+ils (elles) tuaient
+
+** Passé simple
+
+je tuai
+tu tuas
+il (elle) tua
+nous tuâmes
+vous tuâtes
+ils (elles) tuèrent
+
+** Futur simple
+
+je tuerai
+tu tueras
+il (elle) tuera
+nous tuerons
+vous tuerez
+ils (elles) tueront
+
+* CONDITIONNEL
+
+** Présent
+
+je tuerais
+tu tuerais
+il (elle) tuerait
+nous tuerions
+vous tueriez
+ils (elles) tueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tue
+que tu tues
+qu’il (elle) tue
+que nous tuions
+que vous tuiez
+qu’ils (elles) tuent
+
+** Imparfait
+
+que je tuasse
+que tu tuasses
+qu’il (elle) tuât
+que nous tuassions
+que vous tuassiez
+qu’ils (elles) tuassent
+
+* IMPÉRATIF
+
+** Présent
+
+tue
+tuons
+tuez
+
+* INFINITIF
+
+** Présent
+
+tuer
+
+* PARTICIPE
+
+** Présent
+
+tuant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tué
+tu as tué
+il (elle) a tué
+nous avons tué
+vous avez tué
+ils (elles) ont tué
+
+** Plus-que-parfait
+
+j'avais tué
+tu avais tué
+il (elle) avait tué
+nous avions tué
+vous aviez tué
+ils (elles) avaient tué
+
+** Passé antérieur
+
+j'eus tué
+tu eus tué
+il (elle) eut tué
+nous eûmes tué
+vous eûtes tué
+ils (elles) eurent tué
+
+** Futur antérieur
+
+j'aurai tué
+tu auras tué
+il (elle) aura tué
+nous aurons tué
+vous aurez tué
+ils (elles) auront tué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tué
+tu aurais tué
+il (elle) aurait tué
+nous aurions tué
+vous auriez tué
+ils (elles) auraient tué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tué
+que tu aies tué
+qu’il (elle) ait tué
+que nous ayons tué
+que vous ayez tué
+qu’ils (elles) aient tué
+
+** Plus-que-parfait
+
+que j'eusse tué
+que tu eusses tué
+qu’il (elle) eût tué
+que nous eussions tué
+que vous eussiez tué
+qu’ils (elles) eussent tué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tué
+ayez tué
+
+* INFINITIF
+
+** Passé
+
+avoir tué
+
+* PARTICIPE
+
+** Passé
+
+ayant tué
+tué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tué(e)
+tu es tué(e)
+il (elle) est tué(e)
+nous sommes tué(e)s
+vous êtes tué(e)s
+ils (elles) sont tué(e)s
+
+** Imparfait
+
+j'étais tué(e)
+tu étais tué(e)
+il (elle) était tué(e)
+nous étions tué(e)s
+vous étiez tué(e)s
+ils (elles) étaient tué(e)s
+
+** Passé simple
+
+je fus tué(e)
+tu fus tué(e)
+il (elle) fut tué(e)
+nous fûmes tué(e)s
+vous fûtes tué(e)s
+ils (elles) furent tué(e)s
+
+** Futur simple
+
+je serai tué(e)
+tu seras tué(e)
+il (elle) sera tué(e)
+nous serons tué(e)s
+vous serez tué(e)s
+ils (elles) seront tué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tué(e)
+tu serais tué(e)
+il (elle) serait tué(e)
+nous serions tué(e)s
+vous seriez tué(e)s
+ils (elles) seraient tué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tué(e)
+que tu sois tué(e)
+qu’il (elle) soit tué(e)
+que nous soyons tué(e)s
+que vous soyez tué(e)s
+qu’ils (elles) soient tué(e)s
+
+** Imparfait
+
+que je fusse tué(e)
+que tu fusses tué(e)
+qu’il (elle) fût tué(e)
+que nous fussions tué(e)s
+que vous fussiez tué(e)s
+qu’ils (elles) fussent tué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tué(e)s
+soyez tué(e)s
+
+* INFINITIF
+
+** Présent
+
+être tué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tué(e)
+tu as été tué(e)
+il (elle) a été tué(e)
+nous avons été tué(e)s
+vous avez été tué(e)s
+ils (elles) ont été tué(e)s
+
+** Plus-que-parfait
+
+j'avais été tué(e)
+il (elle) avait été tué(e)
+nous avions été tué(e)s
+ils (elles) avaient été tué(e)s
+
+** Passé antérieur
+
+j'eus été tué(e)
+tu eus été tué(e)
+il (elle) eut été tué(e)
+nous eûmes été tué(e)s
+vous eûtes été tué(e)s
+ils (elles) eurent été tué(e)s
+
+** Futur antérieur
+
+j'aurai été tué(e)
+tu auras été tué(e)
+il (elle) aura été tué(e)
+nous aurons été tué(e)s
+vous aurez été tué(e)s
+ils (elles) auront été tué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tué(e)
+j'aurais été tué(e)
+il (elle) aurait été tué(e)
+nous aurions été tué(e)s
+vous auriez été tué(e)s
+ils (elles) auraient été tué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tué(e)
+que tu aies été tué(e)
+qu’il (elle) ait été tué(e)
+que nous ayons été tué(e)s
+que vous ayez été tué(e)s
+qu’ils (elles) aient été tué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tué(e)
+que tu eusses été tué(e)
+qu’il (elle) eût été tué(e)
+que nous eussions été tué(e)s
+que vous eussiez été tué(e)s
+qu’ils (elles) eussent été tué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tué(e)
+ayons été tué(e)s
+ayez été tué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tué(e)(s)

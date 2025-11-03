@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe causer
+
+* INDICATIF
+
+** Présent
+
+je cause
+tu causes
+il (elle) cause
+nous causons
+vous causez
+ils (elles) causent
+
+** Imparfait
+
+je causais
+tu causais
+il (elle) causait
+nous causions
+vous causiez
+ils (elles) causaient
+
+** Passé simple
+
+je causai
+tu causas
+il (elle) causa
+nous causâmes
+vous causâtes
+ils (elles) causèrent
+
+** Futur simple
+
+je causerai
+tu causeras
+il (elle) causera
+nous causerons
+vous causerez
+ils (elles) causeront
+
+* CONDITIONNEL
+
+** Présent
+
+je causerais
+tu causerais
+il (elle) causerait
+nous causerions
+vous causeriez
+ils (elles) causeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cause
+que tu causes
+qu’il (elle) cause
+que nous causions
+que vous causiez
+qu’ils (elles) causent
+
+** Imparfait
+
+que je causasse
+que tu causasses
+qu’il (elle) causât
+que nous causassions
+que vous causassiez
+qu’ils (elles) causassent
+
+* IMPÉRATIF
+
+** Présent
+
+cause
+causons
+causez
+
+* INFINITIF
+
+** Présent
+
+causer
+
+* PARTICIPE
+
+** Présent
+
+causant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai causé
+tu as causé
+il (elle) a causé
+nous avons causé
+vous avez causé
+ils (elles) ont causé
+
+** Plus-que-parfait
+
+j'avais causé
+tu avais causé
+il (elle) avait causé
+nous avions causé
+vous aviez causé
+ils (elles) avaient causé
+
+** Passé antérieur
+
+j'eus causé
+tu eus causé
+il (elle) eut causé
+nous eûmes causé
+vous eûtes causé
+ils (elles) eurent causé
+
+** Futur antérieur
+
+j'aurai causé
+tu auras causé
+il (elle) aura causé
+nous aurons causé
+vous aurez causé
+ils (elles) auront causé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais causé
+tu aurais causé
+il (elle) aurait causé
+nous aurions causé
+vous auriez causé
+ils (elles) auraient causé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie causé
+que tu aies causé
+qu’il (elle) ait causé
+que nous ayons causé
+que vous ayez causé
+qu’ils (elles) aient causé
+
+** Plus-que-parfait
+
+que j'eusse causé
+que tu eusses causé
+qu’il (elle) eût causé
+que nous eussions causé
+que vous eussiez causé
+qu’ils (elles) eussent causé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons causé
+ayez causé
+
+* INFINITIF
+
+** Passé
+
+avoir causé
+
+* PARTICIPE
+
+** Passé
+
+ayant causé
+causé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis causé(e)
+tu es causé(e)
+il (elle) est causé(e)
+nous sommes causé(e)s
+vous êtes causé(e)s
+ils (elles) sont causé(e)s
+
+** Imparfait
+
+j'étais causé(e)
+tu étais causé(e)
+il (elle) était causé(e)
+nous étions causé(e)s
+vous étiez causé(e)s
+ils (elles) étaient causé(e)s
+
+** Passé simple
+
+je fus causé(e)
+tu fus causé(e)
+il (elle) fut causé(e)
+nous fûmes causé(e)s
+vous fûtes causé(e)s
+ils (elles) furent causé(e)s
+
+** Futur simple
+
+je serai causé(e)
+tu seras causé(e)
+il (elle) sera causé(e)
+nous serons causé(e)s
+vous serez causé(e)s
+ils (elles) seront causé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais causé(e)
+tu serais causé(e)
+il (elle) serait causé(e)
+nous serions causé(e)s
+vous seriez causé(e)s
+ils (elles) seraient causé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois causé(e)
+que tu sois causé(e)
+qu’il (elle) soit causé(e)
+que nous soyons causé(e)s
+que vous soyez causé(e)s
+qu’ils (elles) soient causé(e)s
+
+** Imparfait
+
+que je fusse causé(e)
+que tu fusses causé(e)
+qu’il (elle) fût causé(e)
+que nous fussions causé(e)s
+que vous fussiez causé(e)s
+qu’ils (elles) fussent causé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons causé(e)s
+soyez causé(e)s
+
+* INFINITIF
+
+** Présent
+
+être causé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant causé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été causé(e)
+tu as été causé(e)
+il (elle) a été causé(e)
+nous avons été causé(e)s
+vous avez été causé(e)s
+ils (elles) ont été causé(e)s
+
+** Plus-que-parfait
+
+j'avais été causé(e)
+il (elle) avait été causé(e)
+nous avions été causé(e)s
+ils (elles) avaient été causé(e)s
+
+** Passé antérieur
+
+j'eus été causé(e)
+tu eus été causé(e)
+il (elle) eut été causé(e)
+nous eûmes été causé(e)s
+vous eûtes été causé(e)s
+ils (elles) eurent été causé(e)s
+
+** Futur antérieur
+
+j'aurai été causé(e)
+tu auras été causé(e)
+il (elle) aura été causé(e)
+nous aurons été causé(e)s
+vous aurez été causé(e)s
+ils (elles) auront été causé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été causé(e)
+j'aurais été causé(e)
+il (elle) aurait été causé(e)
+nous aurions été causé(e)s
+vous auriez été causé(e)s
+ils (elles) auraient été causé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été causé(e)
+que tu aies été causé(e)
+qu’il (elle) ait été causé(e)
+que nous ayons été causé(e)s
+que vous ayez été causé(e)s
+qu’ils (elles) aient été causé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été causé(e)
+que tu eusses été causé(e)
+qu’il (elle) eût été causé(e)
+que nous eussions été causé(e)s
+que vous eussiez été causé(e)s
+qu’ils (elles) eussent été causé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été causé(e)
+ayons été causé(e)s
+ayez été causé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été causé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été causé(e)(s)

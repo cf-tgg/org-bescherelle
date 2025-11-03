@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ordonner
+
+* INDICATIF
+
+** Présent
+
+j'ordonne
+tu ordonnes
+il (elle) ordonne
+nous ordonnons
+vous ordonnez
+ils (elles) ordonnent
+
+** Imparfait
+
+j'ordonnais
+tu ordonnais
+il (elle) ordonnait
+nous ordonnions
+vous ordonniez
+ils (elles) ordonnaient
+
+** Passé simple
+
+j'ordonnai
+tu ordonnas
+il (elle) ordonna
+nous ordonnâmes
+vous ordonnâtes
+ils (elles) ordonnèrent
+
+** Futur simple
+
+j'ordonnerai
+tu ordonneras
+il (elle) ordonnera
+nous ordonnerons
+vous ordonnerez
+ils (elles) ordonneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ordonnerais
+tu ordonnerais
+il (elle) ordonnerait
+nous ordonnerions
+vous ordonneriez
+ils (elles) ordonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ordonne
+que tu ordonnes
+qu’il (elle) ordonne
+que nous ordonnions
+que vous ordonniez
+qu’ils (elles) ordonnent
+
+** Imparfait
+
+que j'ordonnasse
+que tu ordonnasses
+qu’il (elle) ordonnât
+que nous ordonnassions
+que vous ordonnassiez
+qu’ils (elles) ordonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+ordonne
+ordonnons
+ordonnez
+
+* INFINITIF
+
+** Présent
+
+ordonner
+
+* PARTICIPE
+
+** Présent
+
+ordonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ordonné
+tu as ordonné
+il (elle) a ordonné
+nous avons ordonné
+vous avez ordonné
+ils (elles) ont ordonné
+
+** Plus-que-parfait
+
+j'avais ordonné
+tu avais ordonné
+il (elle) avait ordonné
+nous avions ordonné
+vous aviez ordonné
+ils (elles) avaient ordonné
+
+** Passé antérieur
+
+j'eus ordonné
+tu eus ordonné
+il (elle) eut ordonné
+nous eûmes ordonné
+vous eûtes ordonné
+ils (elles) eurent ordonné
+
+** Futur antérieur
+
+j'aurai ordonné
+tu auras ordonné
+il (elle) aura ordonné
+nous aurons ordonné
+vous aurez ordonné
+ils (elles) auront ordonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ordonné
+tu aurais ordonné
+il (elle) aurait ordonné
+nous aurions ordonné
+vous auriez ordonné
+ils (elles) auraient ordonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ordonné
+que tu aies ordonné
+qu’il (elle) ait ordonné
+que nous ayons ordonné
+que vous ayez ordonné
+qu’ils (elles) aient ordonné
+
+** Plus-que-parfait
+
+que j'eusse ordonné
+que tu eusses ordonné
+qu’il (elle) eût ordonné
+que nous eussions ordonné
+que vous eussiez ordonné
+qu’ils (elles) eussent ordonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ordonné
+ayez ordonné
+
+* INFINITIF
+
+** Passé
+
+avoir ordonné
+
+* PARTICIPE
+
+** Passé
+
+ayant ordonné
+ordonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ordonné(e)
+tu es ordonné(e)
+il (elle) est ordonné(e)
+nous sommes ordonné(e)s
+vous êtes ordonné(e)s
+ils (elles) sont ordonné(e)s
+
+** Imparfait
+
+j'étais ordonné(e)
+tu étais ordonné(e)
+il (elle) était ordonné(e)
+nous étions ordonné(e)s
+vous étiez ordonné(e)s
+ils (elles) étaient ordonné(e)s
+
+** Passé simple
+
+je fus ordonné(e)
+tu fus ordonné(e)
+il (elle) fut ordonné(e)
+nous fûmes ordonné(e)s
+vous fûtes ordonné(e)s
+ils (elles) furent ordonné(e)s
+
+** Futur simple
+
+je serai ordonné(e)
+tu seras ordonné(e)
+il (elle) sera ordonné(e)
+nous serons ordonné(e)s
+vous serez ordonné(e)s
+ils (elles) seront ordonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ordonné(e)
+tu serais ordonné(e)
+il (elle) serait ordonné(e)
+nous serions ordonné(e)s
+vous seriez ordonné(e)s
+ils (elles) seraient ordonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ordonné(e)
+que tu sois ordonné(e)
+qu’il (elle) soit ordonné(e)
+que nous soyons ordonné(e)s
+que vous soyez ordonné(e)s
+qu’ils (elles) soient ordonné(e)s
+
+** Imparfait
+
+que je fusse ordonné(e)
+que tu fusses ordonné(e)
+qu’il (elle) fût ordonné(e)
+que nous fussions ordonné(e)s
+que vous fussiez ordonné(e)s
+qu’ils (elles) fussent ordonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ordonné(e)s
+soyez ordonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être ordonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ordonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ordonné(e)
+tu as été ordonné(e)
+il (elle) a été ordonné(e)
+nous avons été ordonné(e)s
+vous avez été ordonné(e)s
+ils (elles) ont été ordonné(e)s
+
+** Plus-que-parfait
+
+j'avais été ordonné(e)
+il (elle) avait été ordonné(e)
+nous avions été ordonné(e)s
+ils (elles) avaient été ordonné(e)s
+
+** Passé antérieur
+
+j'eus été ordonné(e)
+tu eus été ordonné(e)
+il (elle) eut été ordonné(e)
+nous eûmes été ordonné(e)s
+vous eûtes été ordonné(e)s
+ils (elles) eurent été ordonné(e)s
+
+** Futur antérieur
+
+j'aurai été ordonné(e)
+tu auras été ordonné(e)
+il (elle) aura été ordonné(e)
+nous aurons été ordonné(e)s
+vous aurez été ordonné(e)s
+ils (elles) auront été ordonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ordonné(e)
+j'aurais été ordonné(e)
+il (elle) aurait été ordonné(e)
+nous aurions été ordonné(e)s
+vous auriez été ordonné(e)s
+ils (elles) auraient été ordonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ordonné(e)
+que tu aies été ordonné(e)
+qu’il (elle) ait été ordonné(e)
+que nous ayons été ordonné(e)s
+que vous ayez été ordonné(e)s
+qu’ils (elles) aient été ordonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ordonné(e)
+que tu eusses été ordonné(e)
+qu’il (elle) eût été ordonné(e)
+que nous eussions été ordonné(e)s
+que vous eussiez été ordonné(e)s
+qu’ils (elles) eussent été ordonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ordonné(e)
+ayons été ordonné(e)s
+ayez été ordonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ordonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ordonné(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sonner
+
+* INDICATIF
+
+** Présent
+
+je sonne
+tu sonnes
+il (elle) sonne
+nous sonnons
+vous sonnez
+ils (elles) sonnent
+
+** Imparfait
+
+je sonnais
+tu sonnais
+il (elle) sonnait
+nous sonnions
+vous sonniez
+ils (elles) sonnaient
+
+** Passé simple
+
+je sonnai
+tu sonnas
+il (elle) sonna
+nous sonnâmes
+vous sonnâtes
+ils (elles) sonnèrent
+
+** Futur simple
+
+je sonnerai
+tu sonneras
+il (elle) sonnera
+nous sonnerons
+vous sonnerez
+ils (elles) sonneront
+
+* CONDITIONNEL
+
+** Présent
+
+je sonnerais
+tu sonnerais
+il (elle) sonnerait
+nous sonnerions
+vous sonneriez
+ils (elles) sonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sonne
+que tu sonnes
+qu’il (elle) sonne
+que nous sonnions
+que vous sonniez
+qu’ils (elles) sonnent
+
+** Imparfait
+
+que je sonnasse
+que tu sonnasses
+qu’il (elle) sonnât
+que nous sonnassions
+que vous sonnassiez
+qu’ils (elles) sonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+sonne
+sonnons
+sonnez
+
+* INFINITIF
+
+** Présent
+
+sonner
+
+* PARTICIPE
+
+** Présent
+
+sonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sonné
+tu as sonné
+il (elle) a sonné
+nous avons sonné
+vous avez sonné
+ils (elles) ont sonné
+
+** Plus-que-parfait
+
+j'avais sonné
+tu avais sonné
+il (elle) avait sonné
+nous avions sonné
+vous aviez sonné
+ils (elles) avaient sonné
+
+** Passé antérieur
+
+j'eus sonné
+tu eus sonné
+il (elle) eut sonné
+nous eûmes sonné
+vous eûtes sonné
+ils (elles) eurent sonné
+
+** Futur antérieur
+
+j'aurai sonné
+tu auras sonné
+il (elle) aura sonné
+nous aurons sonné
+vous aurez sonné
+ils (elles) auront sonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sonné
+tu aurais sonné
+il (elle) aurait sonné
+nous aurions sonné
+vous auriez sonné
+ils (elles) auraient sonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sonné
+que tu aies sonné
+qu’il (elle) ait sonné
+que nous ayons sonné
+que vous ayez sonné
+qu’ils (elles) aient sonné
+
+** Plus-que-parfait
+
+que j'eusse sonné
+que tu eusses sonné
+qu’il (elle) eût sonné
+que nous eussions sonné
+que vous eussiez sonné
+qu’ils (elles) eussent sonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sonné
+ayez sonné
+
+* INFINITIF
+
+** Passé
+
+avoir sonné
+
+* PARTICIPE
+
+** Passé
+
+ayant sonné
+sonné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sonné(e)
+tu es sonné(e)
+il (elle) est sonné(e)
+nous sommes sonné(e)s
+vous êtes sonné(e)s
+ils (elles) sont sonné(e)s
+
+** Imparfait
+
+j'étais sonné(e)
+tu étais sonné(e)
+il (elle) était sonné(e)
+nous étions sonné(e)s
+vous étiez sonné(e)s
+ils (elles) étaient sonné(e)s
+
+** Passé simple
+
+je fus sonné(e)
+tu fus sonné(e)
+il (elle) fut sonné(e)
+nous fûmes sonné(e)s
+vous fûtes sonné(e)s
+ils (elles) furent sonné(e)s
+
+** Futur simple
+
+je serai sonné(e)
+tu seras sonné(e)
+il (elle) sera sonné(e)
+nous serons sonné(e)s
+vous serez sonné(e)s
+ils (elles) seront sonné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sonné(e)
+tu serais sonné(e)
+il (elle) serait sonné(e)
+nous serions sonné(e)s
+vous seriez sonné(e)s
+ils (elles) seraient sonné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sonné(e)
+que tu sois sonné(e)
+qu’il (elle) soit sonné(e)
+que nous soyons sonné(e)s
+que vous soyez sonné(e)s
+qu’ils (elles) soient sonné(e)s
+
+** Imparfait
+
+que je fusse sonné(e)
+que tu fusses sonné(e)
+qu’il (elle) fût sonné(e)
+que nous fussions sonné(e)s
+que vous fussiez sonné(e)s
+qu’ils (elles) fussent sonné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sonné(e)s
+soyez sonné(e)s
+
+* INFINITIF
+
+** Présent
+
+être sonné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sonné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sonné(e)
+tu as été sonné(e)
+il (elle) a été sonné(e)
+nous avons été sonné(e)s
+vous avez été sonné(e)s
+ils (elles) ont été sonné(e)s
+
+** Plus-que-parfait
+
+j'avais été sonné(e)
+il (elle) avait été sonné(e)
+nous avions été sonné(e)s
+ils (elles) avaient été sonné(e)s
+
+** Passé antérieur
+
+j'eus été sonné(e)
+tu eus été sonné(e)
+il (elle) eut été sonné(e)
+nous eûmes été sonné(e)s
+vous eûtes été sonné(e)s
+ils (elles) eurent été sonné(e)s
+
+** Futur antérieur
+
+j'aurai été sonné(e)
+tu auras été sonné(e)
+il (elle) aura été sonné(e)
+nous aurons été sonné(e)s
+vous aurez été sonné(e)s
+ils (elles) auront été sonné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sonné(e)
+j'aurais été sonné(e)
+il (elle) aurait été sonné(e)
+nous aurions été sonné(e)s
+vous auriez été sonné(e)s
+ils (elles) auraient été sonné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sonné(e)
+que tu aies été sonné(e)
+qu’il (elle) ait été sonné(e)
+que nous ayons été sonné(e)s
+que vous ayez été sonné(e)s
+qu’ils (elles) aient été sonné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sonné(e)
+que tu eusses été sonné(e)
+qu’il (elle) eût été sonné(e)
+que nous eussions été sonné(e)s
+que vous eussiez été sonné(e)s
+qu’ils (elles) eussent été sonné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sonné(e)
+ayons été sonné(e)s
+ayez été sonné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sonné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sonné(e)(s)

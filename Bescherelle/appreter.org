@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe appreter
+
+* INDICATIF
+
+** Présent
+
+j'apprête
+tu apprêtes
+il (elle) apprête
+nous apprêtons
+vous apprêtez
+ils (elles) apprêtent
+
+** Imparfait
+
+j'apprêtais
+tu apprêtais
+il (elle) apprêtait
+nous apprêtions
+vous apprêtiez
+ils (elles) apprêtaient
+
+** Passé simple
+
+j'apprêtai
+tu apprêtas
+il (elle) apprêta
+nous apprêtâmes
+vous apprêtâtes
+ils (elles) apprêtèrent
+
+** Futur simple
+
+j'apprêterai
+tu apprêteras
+il (elle) apprêtera
+nous apprêterons
+vous apprêterez
+ils (elles) apprêteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apprêterais
+tu apprêterais
+il (elle) apprêterait
+nous apprêterions
+vous apprêteriez
+ils (elles) apprêteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apprête
+que tu apprêtes
+qu’il (elle) apprête
+que nous apprêtions
+que vous apprêtiez
+qu’ils (elles) apprêtent
+
+** Imparfait
+
+que j'apprêtasse
+que tu apprêtasses
+qu’il (elle) apprêtât
+que nous apprêtassions
+que vous apprêtassiez
+qu’ils (elles) apprêtassent
+
+* IMPÉRATIF
+
+** Présent
+
+apprête
+apprêtons
+apprêtez
+
+* INFINITIF
+
+** Présent
+
+apprêter
+
+* PARTICIPE
+
+** Présent
+
+apprêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apprêté
+tu as apprêté
+il (elle) a apprêté
+nous avons apprêté
+vous avez apprêté
+ils (elles) ont apprêté
+
+** Plus-que-parfait
+
+j'avais apprêté
+tu avais apprêté
+il (elle) avait apprêté
+nous avions apprêté
+vous aviez apprêté
+ils (elles) avaient apprêté
+
+** Passé antérieur
+
+j'eus apprêté
+tu eus apprêté
+il (elle) eut apprêté
+nous eûmes apprêté
+vous eûtes apprêté
+ils (elles) eurent apprêté
+
+** Futur antérieur
+
+j'aurai apprêté
+tu auras apprêté
+il (elle) aura apprêté
+nous aurons apprêté
+vous aurez apprêté
+ils (elles) auront apprêté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apprêté
+tu aurais apprêté
+il (elle) aurait apprêté
+nous aurions apprêté
+vous auriez apprêté
+ils (elles) auraient apprêté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apprêté
+que tu aies apprêté
+qu’il (elle) ait apprêté
+que nous ayons apprêté
+que vous ayez apprêté
+qu’ils (elles) aient apprêté
+
+** Plus-que-parfait
+
+que j'eusse apprêté
+que tu eusses apprêté
+qu’il (elle) eût apprêté
+que nous eussions apprêté
+que vous eussiez apprêté
+qu’ils (elles) eussent apprêté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apprêté
+ayez apprêté
+
+* INFINITIF
+
+** Passé
+
+avoir apprêté
+
+* PARTICIPE
+
+** Passé
+
+ayant apprêté
+apprêté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apprêté(e)
+tu es apprêté(e)
+il (elle) est apprêté(e)
+nous sommes apprêté(e)s
+vous êtes apprêté(e)s
+ils (elles) sont apprêté(e)s
+
+** Imparfait
+
+j'étais apprêté(e)
+tu étais apprêté(e)
+il (elle) était apprêté(e)
+nous étions apprêté(e)s
+vous étiez apprêté(e)s
+ils (elles) étaient apprêté(e)s
+
+** Passé simple
+
+je fus apprêté(e)
+tu fus apprêté(e)
+il (elle) fut apprêté(e)
+nous fûmes apprêté(e)s
+vous fûtes apprêté(e)s
+ils (elles) furent apprêté(e)s
+
+** Futur simple
+
+je serai apprêté(e)
+tu seras apprêté(e)
+il (elle) sera apprêté(e)
+nous serons apprêté(e)s
+vous serez apprêté(e)s
+ils (elles) seront apprêté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apprêté(e)
+tu serais apprêté(e)
+il (elle) serait apprêté(e)
+nous serions apprêté(e)s
+vous seriez apprêté(e)s
+ils (elles) seraient apprêté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apprêté(e)
+que tu sois apprêté(e)
+qu’il (elle) soit apprêté(e)
+que nous soyons apprêté(e)s
+que vous soyez apprêté(e)s
+qu’ils (elles) soient apprêté(e)s
+
+** Imparfait
+
+que je fusse apprêté(e)
+que tu fusses apprêté(e)
+qu’il (elle) fût apprêté(e)
+que nous fussions apprêté(e)s
+que vous fussiez apprêté(e)s
+qu’ils (elles) fussent apprêté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apprêté(e)s
+soyez apprêté(e)s
+
+* INFINITIF
+
+** Présent
+
+être apprêté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apprêté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apprêté(e)
+tu as été apprêté(e)
+il (elle) a été apprêté(e)
+nous avons été apprêté(e)s
+vous avez été apprêté(e)s
+ils (elles) ont été apprêté(e)s
+
+** Plus-que-parfait
+
+j'avais été apprêté(e)
+il (elle) avait été apprêté(e)
+nous avions été apprêté(e)s
+ils (elles) avaient été apprêté(e)s
+
+** Passé antérieur
+
+j'eus été apprêté(e)
+tu eus été apprêté(e)
+il (elle) eut été apprêté(e)
+nous eûmes été apprêté(e)s
+vous eûtes été apprêté(e)s
+ils (elles) eurent été apprêté(e)s
+
+** Futur antérieur
+
+j'aurai été apprêté(e)
+tu auras été apprêté(e)
+il (elle) aura été apprêté(e)
+nous aurons été apprêté(e)s
+vous aurez été apprêté(e)s
+ils (elles) auront été apprêté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apprêté(e)
+j'aurais été apprêté(e)
+il (elle) aurait été apprêté(e)
+nous aurions été apprêté(e)s
+vous auriez été apprêté(e)s
+ils (elles) auraient été apprêté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apprêté(e)
+que tu aies été apprêté(e)
+qu’il (elle) ait été apprêté(e)
+que nous ayons été apprêté(e)s
+que vous ayez été apprêté(e)s
+qu’ils (elles) aient été apprêté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apprêté(e)
+que tu eusses été apprêté(e)
+qu’il (elle) eût été apprêté(e)
+que nous eussions été apprêté(e)s
+que vous eussiez été apprêté(e)s
+qu’ils (elles) eussent été apprêté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apprêté(e)
+ayons été apprêté(e)s
+ayez été apprêté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apprêté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apprêté(e)(s)

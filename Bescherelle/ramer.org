@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ramer
+
+* INDICATIF
+
+** Présent
+
+je rame
+tu rames
+il (elle) rame
+nous ramons
+vous ramez
+ils (elles) rament
+
+** Imparfait
+
+je ramais
+tu ramais
+il (elle) ramait
+nous ramions
+vous ramiez
+ils (elles) ramaient
+
+** Passé simple
+
+je ramai
+tu ramas
+il (elle) rama
+nous ramâmes
+vous ramâtes
+ils (elles) ramèrent
+
+** Futur simple
+
+je ramerai
+tu rameras
+il (elle) ramera
+nous ramerons
+vous ramerez
+ils (elles) rameront
+
+* CONDITIONNEL
+
+** Présent
+
+je ramerais
+tu ramerais
+il (elle) ramerait
+nous ramerions
+vous rameriez
+ils (elles) rameraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rame
+que tu rames
+qu’il (elle) rame
+que nous ramions
+que vous ramiez
+qu’ils (elles) rament
+
+** Imparfait
+
+que je ramasse
+que tu ramasses
+qu’il (elle) ramât
+que nous ramassions
+que vous ramassiez
+qu’ils (elles) ramassent
+
+* IMPÉRATIF
+
+** Présent
+
+rame
+ramons
+ramez
+
+* INFINITIF
+
+** Présent
+
+ramer
+
+* PARTICIPE
+
+** Présent
+
+ramant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ramé
+tu as ramé
+il (elle) a ramé
+nous avons ramé
+vous avez ramé
+ils (elles) ont ramé
+
+** Plus-que-parfait
+
+j'avais ramé
+tu avais ramé
+il (elle) avait ramé
+nous avions ramé
+vous aviez ramé
+ils (elles) avaient ramé
+
+** Passé antérieur
+
+j'eus ramé
+tu eus ramé
+il (elle) eut ramé
+nous eûmes ramé
+vous eûtes ramé
+ils (elles) eurent ramé
+
+** Futur antérieur
+
+j'aurai ramé
+tu auras ramé
+il (elle) aura ramé
+nous aurons ramé
+vous aurez ramé
+ils (elles) auront ramé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ramé
+tu aurais ramé
+il (elle) aurait ramé
+nous aurions ramé
+vous auriez ramé
+ils (elles) auraient ramé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ramé
+que tu aies ramé
+qu’il (elle) ait ramé
+que nous ayons ramé
+que vous ayez ramé
+qu’ils (elles) aient ramé
+
+** Plus-que-parfait
+
+que j'eusse ramé
+que tu eusses ramé
+qu’il (elle) eût ramé
+que nous eussions ramé
+que vous eussiez ramé
+qu’ils (elles) eussent ramé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ramé
+ayez ramé
+
+* INFINITIF
+
+** Passé
+
+avoir ramé
+
+* PARTICIPE
+
+** Passé
+
+ayant ramé
+ramé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ramé(e)
+tu es ramé(e)
+il (elle) est ramé(e)
+nous sommes ramé(e)s
+vous êtes ramé(e)s
+ils (elles) sont ramé(e)s
+
+** Imparfait
+
+j'étais ramé(e)
+tu étais ramé(e)
+il (elle) était ramé(e)
+nous étions ramé(e)s
+vous étiez ramé(e)s
+ils (elles) étaient ramé(e)s
+
+** Passé simple
+
+je fus ramé(e)
+tu fus ramé(e)
+il (elle) fut ramé(e)
+nous fûmes ramé(e)s
+vous fûtes ramé(e)s
+ils (elles) furent ramé(e)s
+
+** Futur simple
+
+je serai ramé(e)
+tu seras ramé(e)
+il (elle) sera ramé(e)
+nous serons ramé(e)s
+vous serez ramé(e)s
+ils (elles) seront ramé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ramé(e)
+tu serais ramé(e)
+il (elle) serait ramé(e)
+nous serions ramé(e)s
+vous seriez ramé(e)s
+ils (elles) seraient ramé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ramé(e)
+que tu sois ramé(e)
+qu’il (elle) soit ramé(e)
+que nous soyons ramé(e)s
+que vous soyez ramé(e)s
+qu’ils (elles) soient ramé(e)s
+
+** Imparfait
+
+que je fusse ramé(e)
+que tu fusses ramé(e)
+qu’il (elle) fût ramé(e)
+que nous fussions ramé(e)s
+que vous fussiez ramé(e)s
+qu’ils (elles) fussent ramé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ramé(e)s
+soyez ramé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ramé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ramé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ramé(e)
+tu as été ramé(e)
+il (elle) a été ramé(e)
+nous avons été ramé(e)s
+vous avez été ramé(e)s
+ils (elles) ont été ramé(e)s
+
+** Plus-que-parfait
+
+j'avais été ramé(e)
+il (elle) avait été ramé(e)
+nous avions été ramé(e)s
+ils (elles) avaient été ramé(e)s
+
+** Passé antérieur
+
+j'eus été ramé(e)
+tu eus été ramé(e)
+il (elle) eut été ramé(e)
+nous eûmes été ramé(e)s
+vous eûtes été ramé(e)s
+ils (elles) eurent été ramé(e)s
+
+** Futur antérieur
+
+j'aurai été ramé(e)
+tu auras été ramé(e)
+il (elle) aura été ramé(e)
+nous aurons été ramé(e)s
+vous aurez été ramé(e)s
+ils (elles) auront été ramé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ramé(e)
+j'aurais été ramé(e)
+il (elle) aurait été ramé(e)
+nous aurions été ramé(e)s
+vous auriez été ramé(e)s
+ils (elles) auraient été ramé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ramé(e)
+que tu aies été ramé(e)
+qu’il (elle) ait été ramé(e)
+que nous ayons été ramé(e)s
+que vous ayez été ramé(e)s
+qu’ils (elles) aient été ramé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ramé(e)
+que tu eusses été ramé(e)
+qu’il (elle) eût été ramé(e)
+que nous eussions été ramé(e)s
+que vous eussiez été ramé(e)s
+qu’ils (elles) eussent été ramé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ramé(e)
+ayons été ramé(e)s
+ayez été ramé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ramé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ramé(e)(s)

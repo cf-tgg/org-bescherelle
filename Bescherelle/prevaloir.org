@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe prevaloir
+
+* INDICATIF
+
+** Présent
+
+je prévaux
+tu prévaux
+il (elle) prévaut
+nous prévalons
+vous prévalez
+ils (elles) prévalent
+
+** Imparfait
+
+je prévalais
+tu prévalais
+il (elle) prévalait
+nous prévalions
+vous prévaliez
+ils (elles) prévalaient
+
+** Passé simple
+
+je prévalus
+tu prévalus
+il (elle) prévalut
+nous prévalûmes
+vous prévalûtes
+ils (elles) prévalurent
+
+** Futur simple
+
+je prévaudrai
+tu prévaudras
+il (elle) prévaudra
+nous prévaudrons
+vous prévaudrez
+ils (elles) prévaudront
+
+* CONDITIONNEL
+
+** Présent
+
+je prévaudrais
+tu prévaudrais
+il (elle) prévaudrait
+nous prévaudrions
+vous prévaudriez
+ils (elles) prévaudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prévale
+que tu prévales
+qu’il (elle) prévale
+que nous prévalions
+que vous prévaliez
+qu’ils (elles) prévalent
+
+** Imparfait
+
+que je prévalusse
+que tu prévalusses
+qu’il (elle) prévalût
+que nous prévalussions
+que vous prévalussiez
+qu’ils (elles) prévalussent
+
+* IMPÉRATIF
+
+** Présent
+
+prévaux
+prévalons
+prévalez
+
+* INFINITIF
+
+** Présent
+
+prévaloir
+
+* PARTICIPE
+
+** Présent
+
+prévalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prévalu
+tu as prévalu
+il (elle) a prévalu
+nous avons prévalu
+vous avez prévalu
+ils (elles) ont prévalu
+
+** Plus-que-parfait
+
+j'avais prévalu
+tu avais prévalu
+il (elle) avait prévalu
+nous avions prévalu
+vous aviez prévalu
+ils (elles) avaient prévalu
+
+** Passé antérieur
+
+j'eus prévalu
+tu eus prévalu
+il (elle) eut prévalu
+nous eûmes prévalu
+vous eûtes prévalu
+ils (elles) eurent prévalu
+
+** Futur antérieur
+
+j'aurai prévalu
+tu auras prévalu
+il (elle) aura prévalu
+nous aurons prévalu
+vous aurez prévalu
+ils (elles) auront prévalu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prévalu
+tu aurais prévalu
+il (elle) aurait prévalu
+nous aurions prévalu
+vous auriez prévalu
+ils (elles) auraient prévalu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prévalu
+que tu aies prévalu
+qu’il (elle) ait prévalu
+que nous ayons prévalu
+que vous ayez prévalu
+qu’ils (elles) aient prévalu
+
+** Plus-que-parfait
+
+que j'eusse prévalu
+que tu eusses prévalu
+qu’il (elle) eût prévalu
+que nous eussions prévalu
+que vous eussiez prévalu
+qu’ils (elles) eussent prévalu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prévalu
+ayez prévalu
+
+* INFINITIF
+
+** Passé
+
+avoir prévalu
+
+* PARTICIPE
+
+** Passé
+
+ayant prévalu
+prévalu (invar.)

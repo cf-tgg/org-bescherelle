@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe procurer
+
+* INDICATIF
+
+** Présent
+
+je procure
+tu procures
+il (elle) procure
+nous procurons
+vous procurez
+ils (elles) procurent
+
+** Imparfait
+
+je procurais
+tu procurais
+il (elle) procurait
+nous procurions
+vous procuriez
+ils (elles) procuraient
+
+** Passé simple
+
+je procurai
+tu procuras
+il (elle) procura
+nous procurâmes
+vous procurâtes
+ils (elles) procurèrent
+
+** Futur simple
+
+je procurerai
+tu procureras
+il (elle) procurera
+nous procurerons
+vous procurerez
+ils (elles) procureront
+
+* CONDITIONNEL
+
+** Présent
+
+je procurerais
+tu procurerais
+il (elle) procurerait
+nous procurerions
+vous procureriez
+ils (elles) procureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je procure
+que tu procures
+qu’il (elle) procure
+que nous procurions
+que vous procuriez
+qu’ils (elles) procurent
+
+** Imparfait
+
+que je procurasse
+que tu procurasses
+qu’il (elle) procurât
+que nous procurassions
+que vous procurassiez
+qu’ils (elles) procurassent
+
+* IMPÉRATIF
+
+** Présent
+
+procure
+procurons
+procurez
+
+* INFINITIF
+
+** Présent
+
+procurer
+
+* PARTICIPE
+
+** Présent
+
+procurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai procuré
+tu as procuré
+il (elle) a procuré
+nous avons procuré
+vous avez procuré
+ils (elles) ont procuré
+
+** Plus-que-parfait
+
+j'avais procuré
+tu avais procuré
+il (elle) avait procuré
+nous avions procuré
+vous aviez procuré
+ils (elles) avaient procuré
+
+** Passé antérieur
+
+j'eus procuré
+tu eus procuré
+il (elle) eut procuré
+nous eûmes procuré
+vous eûtes procuré
+ils (elles) eurent procuré
+
+** Futur antérieur
+
+j'aurai procuré
+tu auras procuré
+il (elle) aura procuré
+nous aurons procuré
+vous aurez procuré
+ils (elles) auront procuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais procuré
+tu aurais procuré
+il (elle) aurait procuré
+nous aurions procuré
+vous auriez procuré
+ils (elles) auraient procuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie procuré
+que tu aies procuré
+qu’il (elle) ait procuré
+que nous ayons procuré
+que vous ayez procuré
+qu’ils (elles) aient procuré
+
+** Plus-que-parfait
+
+que j'eusse procuré
+que tu eusses procuré
+qu’il (elle) eût procuré
+que nous eussions procuré
+que vous eussiez procuré
+qu’ils (elles) eussent procuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons procuré
+ayez procuré
+
+* INFINITIF
+
+** Passé
+
+avoir procuré
+
+* PARTICIPE
+
+** Passé
+
+ayant procuré
+procuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis procuré(e)
+tu es procuré(e)
+il (elle) est procuré(e)
+nous sommes procuré(e)s
+vous êtes procuré(e)s
+ils (elles) sont procuré(e)s
+
+** Imparfait
+
+j'étais procuré(e)
+tu étais procuré(e)
+il (elle) était procuré(e)
+nous étions procuré(e)s
+vous étiez procuré(e)s
+ils (elles) étaient procuré(e)s
+
+** Passé simple
+
+je fus procuré(e)
+tu fus procuré(e)
+il (elle) fut procuré(e)
+nous fûmes procuré(e)s
+vous fûtes procuré(e)s
+ils (elles) furent procuré(e)s
+
+** Futur simple
+
+je serai procuré(e)
+tu seras procuré(e)
+il (elle) sera procuré(e)
+nous serons procuré(e)s
+vous serez procuré(e)s
+ils (elles) seront procuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais procuré(e)
+tu serais procuré(e)
+il (elle) serait procuré(e)
+nous serions procuré(e)s
+vous seriez procuré(e)s
+ils (elles) seraient procuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois procuré(e)
+que tu sois procuré(e)
+qu’il (elle) soit procuré(e)
+que nous soyons procuré(e)s
+que vous soyez procuré(e)s
+qu’ils (elles) soient procuré(e)s
+
+** Imparfait
+
+que je fusse procuré(e)
+que tu fusses procuré(e)
+qu’il (elle) fût procuré(e)
+que nous fussions procuré(e)s
+que vous fussiez procuré(e)s
+qu’ils (elles) fussent procuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons procuré(e)s
+soyez procuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être procuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant procuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été procuré(e)
+tu as été procuré(e)
+il (elle) a été procuré(e)
+nous avons été procuré(e)s
+vous avez été procuré(e)s
+ils (elles) ont été procuré(e)s
+
+** Plus-que-parfait
+
+j'avais été procuré(e)
+il (elle) avait été procuré(e)
+nous avions été procuré(e)s
+ils (elles) avaient été procuré(e)s
+
+** Passé antérieur
+
+j'eus été procuré(e)
+tu eus été procuré(e)
+il (elle) eut été procuré(e)
+nous eûmes été procuré(e)s
+vous eûtes été procuré(e)s
+ils (elles) eurent été procuré(e)s
+
+** Futur antérieur
+
+j'aurai été procuré(e)
+tu auras été procuré(e)
+il (elle) aura été procuré(e)
+nous aurons été procuré(e)s
+vous aurez été procuré(e)s
+ils (elles) auront été procuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été procuré(e)
+j'aurais été procuré(e)
+il (elle) aurait été procuré(e)
+nous aurions été procuré(e)s
+vous auriez été procuré(e)s
+ils (elles) auraient été procuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été procuré(e)
+que tu aies été procuré(e)
+qu’il (elle) ait été procuré(e)
+que nous ayons été procuré(e)s
+que vous ayez été procuré(e)s
+qu’ils (elles) aient été procuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été procuré(e)
+que tu eusses été procuré(e)
+qu’il (elle) eût été procuré(e)
+que nous eussions été procuré(e)s
+que vous eussiez été procuré(e)s
+qu’ils (elles) eussent été procuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été procuré(e)
+ayons été procuré(e)s
+ayez été procuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été procuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été procuré(e)(s)

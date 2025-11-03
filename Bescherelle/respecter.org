@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe respecter
+
+* INDICATIF
+
+** Présent
+
+je respecte
+tu respectes
+il (elle) respecte
+nous respectons
+vous respectez
+ils (elles) respectent
+
+** Imparfait
+
+je respectais
+tu respectais
+il (elle) respectait
+nous respections
+vous respectiez
+ils (elles) respectaient
+
+** Passé simple
+
+je respectai
+tu respectas
+il (elle) respecta
+nous respectâmes
+vous respectâtes
+ils (elles) respectèrent
+
+** Futur simple
+
+je respecterai
+tu respecteras
+il (elle) respectera
+nous respecterons
+vous respecterez
+ils (elles) respecteront
+
+* CONDITIONNEL
+
+** Présent
+
+je respecterais
+tu respecterais
+il (elle) respecterait
+nous respecterions
+vous respecteriez
+ils (elles) respecteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je respecte
+que tu respectes
+qu’il (elle) respecte
+que nous respections
+que vous respectiez
+qu’ils (elles) respectent
+
+** Imparfait
+
+que je respectasse
+que tu respectasses
+qu’il (elle) respectât
+que nous respectassions
+que vous respectassiez
+qu’ils (elles) respectassent
+
+* IMPÉRATIF
+
+** Présent
+
+respecte
+respectons
+respectez
+
+* INFINITIF
+
+** Présent
+
+respecter
+
+* PARTICIPE
+
+** Présent
+
+respectant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai respecté
+tu as respecté
+il (elle) a respecté
+nous avons respecté
+vous avez respecté
+ils (elles) ont respecté
+
+** Plus-que-parfait
+
+j'avais respecté
+tu avais respecté
+il (elle) avait respecté
+nous avions respecté
+vous aviez respecté
+ils (elles) avaient respecté
+
+** Passé antérieur
+
+j'eus respecté
+tu eus respecté
+il (elle) eut respecté
+nous eûmes respecté
+vous eûtes respecté
+ils (elles) eurent respecté
+
+** Futur antérieur
+
+j'aurai respecté
+tu auras respecté
+il (elle) aura respecté
+nous aurons respecté
+vous aurez respecté
+ils (elles) auront respecté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais respecté
+tu aurais respecté
+il (elle) aurait respecté
+nous aurions respecté
+vous auriez respecté
+ils (elles) auraient respecté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie respecté
+que tu aies respecté
+qu’il (elle) ait respecté
+que nous ayons respecté
+que vous ayez respecté
+qu’ils (elles) aient respecté
+
+** Plus-que-parfait
+
+que j'eusse respecté
+que tu eusses respecté
+qu’il (elle) eût respecté
+que nous eussions respecté
+que vous eussiez respecté
+qu’ils (elles) eussent respecté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons respecté
+ayez respecté
+
+* INFINITIF
+
+** Passé
+
+avoir respecté
+
+* PARTICIPE
+
+** Passé
+
+ayant respecté
+respecté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis respecté(e)
+tu es respecté(e)
+il (elle) est respecté(e)
+nous sommes respecté(e)s
+vous êtes respecté(e)s
+ils (elles) sont respecté(e)s
+
+** Imparfait
+
+j'étais respecté(e)
+tu étais respecté(e)
+il (elle) était respecté(e)
+nous étions respecté(e)s
+vous étiez respecté(e)s
+ils (elles) étaient respecté(e)s
+
+** Passé simple
+
+je fus respecté(e)
+tu fus respecté(e)
+il (elle) fut respecté(e)
+nous fûmes respecté(e)s
+vous fûtes respecté(e)s
+ils (elles) furent respecté(e)s
+
+** Futur simple
+
+je serai respecté(e)
+tu seras respecté(e)
+il (elle) sera respecté(e)
+nous serons respecté(e)s
+vous serez respecté(e)s
+ils (elles) seront respecté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais respecté(e)
+tu serais respecté(e)
+il (elle) serait respecté(e)
+nous serions respecté(e)s
+vous seriez respecté(e)s
+ils (elles) seraient respecté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois respecté(e)
+que tu sois respecté(e)
+qu’il (elle) soit respecté(e)
+que nous soyons respecté(e)s
+que vous soyez respecté(e)s
+qu’ils (elles) soient respecté(e)s
+
+** Imparfait
+
+que je fusse respecté(e)
+que tu fusses respecté(e)
+qu’il (elle) fût respecté(e)
+que nous fussions respecté(e)s
+que vous fussiez respecté(e)s
+qu’ils (elles) fussent respecté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons respecté(e)s
+soyez respecté(e)s
+
+* INFINITIF
+
+** Présent
+
+être respecté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant respecté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été respecté(e)
+tu as été respecté(e)
+il (elle) a été respecté(e)
+nous avons été respecté(e)s
+vous avez été respecté(e)s
+ils (elles) ont été respecté(e)s
+
+** Plus-que-parfait
+
+j'avais été respecté(e)
+il (elle) avait été respecté(e)
+nous avions été respecté(e)s
+ils (elles) avaient été respecté(e)s
+
+** Passé antérieur
+
+j'eus été respecté(e)
+tu eus été respecté(e)
+il (elle) eut été respecté(e)
+nous eûmes été respecté(e)s
+vous eûtes été respecté(e)s
+ils (elles) eurent été respecté(e)s
+
+** Futur antérieur
+
+j'aurai été respecté(e)
+tu auras été respecté(e)
+il (elle) aura été respecté(e)
+nous aurons été respecté(e)s
+vous aurez été respecté(e)s
+ils (elles) auront été respecté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été respecté(e)
+j'aurais été respecté(e)
+il (elle) aurait été respecté(e)
+nous aurions été respecté(e)s
+vous auriez été respecté(e)s
+ils (elles) auraient été respecté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été respecté(e)
+que tu aies été respecté(e)
+qu’il (elle) ait été respecté(e)
+que nous ayons été respecté(e)s
+que vous ayez été respecté(e)s
+qu’ils (elles) aient été respecté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été respecté(e)
+que tu eusses été respecté(e)
+qu’il (elle) eût été respecté(e)
+que nous eussions été respecté(e)s
+que vous eussiez été respecté(e)s
+qu’ils (elles) eussent été respecté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été respecté(e)
+ayons été respecté(e)s
+ayez été respecté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été respecté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été respecté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe annoter
+
+* INDICATIF
+
+** Présent
+
+j'annote
+tu annotes
+il (elle) annote
+nous annotons
+vous annotez
+ils (elles) annotent
+
+** Imparfait
+
+j'annotais
+tu annotais
+il (elle) annotait
+nous annotions
+vous annotiez
+ils (elles) annotaient
+
+** Passé simple
+
+j'annotai
+tu annotas
+il (elle) annota
+nous annotâmes
+vous annotâtes
+ils (elles) annotèrent
+
+** Futur simple
+
+j'annoterai
+tu annoteras
+il (elle) annotera
+nous annoterons
+vous annoterez
+ils (elles) annoteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'annoterais
+tu annoterais
+il (elle) annoterait
+nous annoterions
+vous annoteriez
+ils (elles) annoteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'annote
+que tu annotes
+qu’il (elle) annote
+que nous annotions
+que vous annotiez
+qu’ils (elles) annotent
+
+** Imparfait
+
+que j'annotasse
+que tu annotasses
+qu’il (elle) annotât
+que nous annotassions
+que vous annotassiez
+qu’ils (elles) annotassent
+
+* IMPÉRATIF
+
+** Présent
+
+annote
+annotons
+annotez
+
+* INFINITIF
+
+** Présent
+
+annoter
+
+* PARTICIPE
+
+** Présent
+
+annotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai annoté
+tu as annoté
+il (elle) a annoté
+nous avons annoté
+vous avez annoté
+ils (elles) ont annoté
+
+** Plus-que-parfait
+
+j'avais annoté
+tu avais annoté
+il (elle) avait annoté
+nous avions annoté
+vous aviez annoté
+ils (elles) avaient annoté
+
+** Passé antérieur
+
+j'eus annoté
+tu eus annoté
+il (elle) eut annoté
+nous eûmes annoté
+vous eûtes annoté
+ils (elles) eurent annoté
+
+** Futur antérieur
+
+j'aurai annoté
+tu auras annoté
+il (elle) aura annoté
+nous aurons annoté
+vous aurez annoté
+ils (elles) auront annoté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais annoté
+tu aurais annoté
+il (elle) aurait annoté
+nous aurions annoté
+vous auriez annoté
+ils (elles) auraient annoté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie annoté
+que tu aies annoté
+qu’il (elle) ait annoté
+que nous ayons annoté
+que vous ayez annoté
+qu’ils (elles) aient annoté
+
+** Plus-que-parfait
+
+que j'eusse annoté
+que tu eusses annoté
+qu’il (elle) eût annoté
+que nous eussions annoté
+que vous eussiez annoté
+qu’ils (elles) eussent annoté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons annoté
+ayez annoté
+
+* INFINITIF
+
+** Passé
+
+avoir annoté
+
+* PARTICIPE
+
+** Passé
+
+ayant annoté
+annoté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis annoté(e)
+tu es annoté(e)
+il (elle) est annoté(e)
+nous sommes annoté(e)s
+vous êtes annoté(e)s
+ils (elles) sont annoté(e)s
+
+** Imparfait
+
+j'étais annoté(e)
+tu étais annoté(e)
+il (elle) était annoté(e)
+nous étions annoté(e)s
+vous étiez annoté(e)s
+ils (elles) étaient annoté(e)s
+
+** Passé simple
+
+je fus annoté(e)
+tu fus annoté(e)
+il (elle) fut annoté(e)
+nous fûmes annoté(e)s
+vous fûtes annoté(e)s
+ils (elles) furent annoté(e)s
+
+** Futur simple
+
+je serai annoté(e)
+tu seras annoté(e)
+il (elle) sera annoté(e)
+nous serons annoté(e)s
+vous serez annoté(e)s
+ils (elles) seront annoté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais annoté(e)
+tu serais annoté(e)
+il (elle) serait annoté(e)
+nous serions annoté(e)s
+vous seriez annoté(e)s
+ils (elles) seraient annoté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois annoté(e)
+que tu sois annoté(e)
+qu’il (elle) soit annoté(e)
+que nous soyons annoté(e)s
+que vous soyez annoté(e)s
+qu’ils (elles) soient annoté(e)s
+
+** Imparfait
+
+que je fusse annoté(e)
+que tu fusses annoté(e)
+qu’il (elle) fût annoté(e)
+que nous fussions annoté(e)s
+que vous fussiez annoté(e)s
+qu’ils (elles) fussent annoté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons annoté(e)s
+soyez annoté(e)s
+
+* INFINITIF
+
+** Présent
+
+être annoté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant annoté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été annoté(e)
+tu as été annoté(e)
+il (elle) a été annoté(e)
+nous avons été annoté(e)s
+vous avez été annoté(e)s
+ils (elles) ont été annoté(e)s
+
+** Plus-que-parfait
+
+j'avais été annoté(e)
+il (elle) avait été annoté(e)
+nous avions été annoté(e)s
+ils (elles) avaient été annoté(e)s
+
+** Passé antérieur
+
+j'eus été annoté(e)
+tu eus été annoté(e)
+il (elle) eut été annoté(e)
+nous eûmes été annoté(e)s
+vous eûtes été annoté(e)s
+ils (elles) eurent été annoté(e)s
+
+** Futur antérieur
+
+j'aurai été annoté(e)
+tu auras été annoté(e)
+il (elle) aura été annoté(e)
+nous aurons été annoté(e)s
+vous aurez été annoté(e)s
+ils (elles) auront été annoté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été annoté(e)
+j'aurais été annoté(e)
+il (elle) aurait été annoté(e)
+nous aurions été annoté(e)s
+vous auriez été annoté(e)s
+ils (elles) auraient été annoté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été annoté(e)
+que tu aies été annoté(e)
+qu’il (elle) ait été annoté(e)
+que nous ayons été annoté(e)s
+que vous ayez été annoté(e)s
+qu’ils (elles) aient été annoté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été annoté(e)
+que tu eusses été annoté(e)
+qu’il (elle) eût été annoté(e)
+que nous eussions été annoté(e)s
+que vous eussiez été annoté(e)s
+qu’ils (elles) eussent été annoté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été annoté(e)
+ayons été annoté(e)s
+ayez été annoté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été annoté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été annoté(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe reparaitre
+
+* INDICATIF
+
+** Présent
+
+je reparais
+tu reparais
+il (elle) reparaît
+nous reparaissons
+vous reparaissez
+ils (elles) reparaissent
+
+** Imparfait
+
+je reparaissais
+tu reparaissais
+il (elle) reparaissait
+nous reparaissions
+vous reparaissiez
+ils (elles) reparaissaient
+
+** Passé simple
+
+je reparus
+tu reparus
+il (elle) reparut
+nous reparûmes
+vous reparûtes
+ils (elles) reparurent
+
+** Futur simple
+
+je reparaîtrai
+tu reparaîtras
+il (elle) reparaîtra
+nous reparaîtrons
+vous reparaîtrez
+ils (elles) reparaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je reparaîtrais
+tu reparaîtrais
+il (elle) reparaîtrait
+nous reparaîtrions
+vous reparaîtriez
+ils (elles) reparaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reparaisse
+que tu reparaisses
+qu’il (elle) reparaisse
+que nous reparaissions
+que vous reparaissiez
+qu’ils (elles) reparaissent
+
+** Imparfait
+
+que je reparusse
+que tu reparusses
+qu’il (elle) reparût
+que nous reparussions
+que vous reparussiez
+qu’ils (elles) reparussent
+
+* IMPÉRATIF
+
+** Présent
+
+reparais
+reparaissons
+reparaissez
+
+* INFINITIF
+
+** Présent
+
+reparaître
+
+* PARTICIPE
+
+** Présent
+
+reparaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis reparu(e)
+tu as ou es reparu(e)
+il (elle) a ou est reparu(e)
+nous avons ou sommes reparu(e)s
+vous avez ou êtes reparu(e)s
+ils (elles) ont ou sont reparu(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais reparu(e)
+tu avais ou étais reparu(e)
+il (elle) avait ou était reparu(e)
+nous avions ou étions reparu(e)s
+vous aviez ou étiez reparu(e)s
+ils (elles) avaient ou étaient reparu(e)s
+
+** Passé antérieur
+
+j'eus ou fus reparu(e)
+tu eus ou fus reparu(e)
+il (elle) eut ou fut reparu(e)
+nous eûmes ou fûmes reparu(e)s
+vous eûtes ou fûtes reparu(e)s
+ils (elles) eurent ou furent reparu(e)s
+
+** Futur antérieur
+
+j'aurai ou serai reparu(e)
+tu auras ou seras reparu(e)
+il (elle) aura ou sera reparu(e)
+nous aurons ou serons reparu(e)s
+vous aurez ou serez reparu(e)s
+ils (elles) auront ou seront reparu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais reparu(e)
+tu aurais ou serais reparu(e)
+il (elle) aurait ou serait reparu(e)
+nous aurions ou serions reparu(e)s
+vous auriez ou seriez reparu(e)s
+ils (elles) auraient ou seraient reparu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois reparu(e)
+que tu aies ou sois reparu(e)
+qu’il (elle) ait ou soit reparu(e)
+que nous ayons ou soyons reparu(e)s
+que vous ayez ou soyez reparu(e)s
+qu’ils (elles) aient ou soient reparu(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse reparu(e)
+que tu eusses ou fusses reparu(e)
+qu’il (elle) eût ou fût reparu(e)
+que nous eussions ou fussions reparu(e)s
+que vous eussiez ou fussiez reparu(e)s
+qu’ils (elles) eussent ou fussent reparu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons reparu(e)s
+ayez ou soyez reparu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être reparu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant reparu(e)(s)
+reparu (u, ue, us, ues)

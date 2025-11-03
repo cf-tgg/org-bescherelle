@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe boucher
+
+* INDICATIF
+
+** Présent
+
+je bouche
+tu bouches
+il (elle) bouche
+nous bouchons
+vous bouchez
+ils (elles) bouchent
+
+** Imparfait
+
+je bouchais
+tu bouchais
+il (elle) bouchait
+nous bouchions
+vous bouchiez
+ils (elles) bouchaient
+
+** Passé simple
+
+je bouchai
+tu bouchas
+il (elle) boucha
+nous bouchâmes
+vous bouchâtes
+ils (elles) bouchèrent
+
+** Futur simple
+
+je boucherai
+tu boucheras
+il (elle) bouchera
+nous boucherons
+vous boucherez
+ils (elles) boucheront
+
+* CONDITIONNEL
+
+** Présent
+
+je boucherais
+tu boucherais
+il (elle) boucherait
+nous boucherions
+vous boucheriez
+ils (elles) boucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bouche
+que tu bouches
+qu’il (elle) bouche
+que nous bouchions
+que vous bouchiez
+qu’ils (elles) bouchent
+
+** Imparfait
+
+que je bouchasse
+que tu bouchasses
+qu’il (elle) bouchât
+que nous bouchassions
+que vous bouchassiez
+qu’ils (elles) bouchassent
+
+* IMPÉRATIF
+
+** Présent
+
+bouche
+bouchons
+bouchez
+
+* INFINITIF
+
+** Présent
+
+boucher
+
+* PARTICIPE
+
+** Présent
+
+bouchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bouché
+tu as bouché
+il (elle) a bouché
+nous avons bouché
+vous avez bouché
+ils (elles) ont bouché
+
+** Plus-que-parfait
+
+j'avais bouché
+tu avais bouché
+il (elle) avait bouché
+nous avions bouché
+vous aviez bouché
+ils (elles) avaient bouché
+
+** Passé antérieur
+
+j'eus bouché
+tu eus bouché
+il (elle) eut bouché
+nous eûmes bouché
+vous eûtes bouché
+ils (elles) eurent bouché
+
+** Futur antérieur
+
+j'aurai bouché
+tu auras bouché
+il (elle) aura bouché
+nous aurons bouché
+vous aurez bouché
+ils (elles) auront bouché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bouché
+tu aurais bouché
+il (elle) aurait bouché
+nous aurions bouché
+vous auriez bouché
+ils (elles) auraient bouché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bouché
+que tu aies bouché
+qu’il (elle) ait bouché
+que nous ayons bouché
+que vous ayez bouché
+qu’ils (elles) aient bouché
+
+** Plus-que-parfait
+
+que j'eusse bouché
+que tu eusses bouché
+qu’il (elle) eût bouché
+que nous eussions bouché
+que vous eussiez bouché
+qu’ils (elles) eussent bouché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bouché
+ayez bouché
+
+* INFINITIF
+
+** Passé
+
+avoir bouché
+
+* PARTICIPE
+
+** Passé
+
+ayant bouché
+bouché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bouché(e)
+tu es bouché(e)
+il (elle) est bouché(e)
+nous sommes bouché(e)s
+vous êtes bouché(e)s
+ils (elles) sont bouché(e)s
+
+** Imparfait
+
+j'étais bouché(e)
+tu étais bouché(e)
+il (elle) était bouché(e)
+nous étions bouché(e)s
+vous étiez bouché(e)s
+ils (elles) étaient bouché(e)s
+
+** Passé simple
+
+je fus bouché(e)
+tu fus bouché(e)
+il (elle) fut bouché(e)
+nous fûmes bouché(e)s
+vous fûtes bouché(e)s
+ils (elles) furent bouché(e)s
+
+** Futur simple
+
+je serai bouché(e)
+tu seras bouché(e)
+il (elle) sera bouché(e)
+nous serons bouché(e)s
+vous serez bouché(e)s
+ils (elles) seront bouché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bouché(e)
+tu serais bouché(e)
+il (elle) serait bouché(e)
+nous serions bouché(e)s
+vous seriez bouché(e)s
+ils (elles) seraient bouché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bouché(e)
+que tu sois bouché(e)
+qu’il (elle) soit bouché(e)
+que nous soyons bouché(e)s
+que vous soyez bouché(e)s
+qu’ils (elles) soient bouché(e)s
+
+** Imparfait
+
+que je fusse bouché(e)
+que tu fusses bouché(e)
+qu’il (elle) fût bouché(e)
+que nous fussions bouché(e)s
+que vous fussiez bouché(e)s
+qu’ils (elles) fussent bouché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bouché(e)s
+soyez bouché(e)s
+
+* INFINITIF
+
+** Présent
+
+être bouché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bouché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bouché(e)
+tu as été bouché(e)
+il (elle) a été bouché(e)
+nous avons été bouché(e)s
+vous avez été bouché(e)s
+ils (elles) ont été bouché(e)s
+
+** Plus-que-parfait
+
+j'avais été bouché(e)
+il (elle) avait été bouché(e)
+nous avions été bouché(e)s
+ils (elles) avaient été bouché(e)s
+
+** Passé antérieur
+
+j'eus été bouché(e)
+tu eus été bouché(e)
+il (elle) eut été bouché(e)
+nous eûmes été bouché(e)s
+vous eûtes été bouché(e)s
+ils (elles) eurent été bouché(e)s
+
+** Futur antérieur
+
+j'aurai été bouché(e)
+tu auras été bouché(e)
+il (elle) aura été bouché(e)
+nous aurons été bouché(e)s
+vous aurez été bouché(e)s
+ils (elles) auront été bouché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bouché(e)
+j'aurais été bouché(e)
+il (elle) aurait été bouché(e)
+nous aurions été bouché(e)s
+vous auriez été bouché(e)s
+ils (elles) auraient été bouché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bouché(e)
+que tu aies été bouché(e)
+qu’il (elle) ait été bouché(e)
+que nous ayons été bouché(e)s
+que vous ayez été bouché(e)s
+qu’ils (elles) aient été bouché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bouché(e)
+que tu eusses été bouché(e)
+qu’il (elle) eût été bouché(e)
+que nous eussions été bouché(e)s
+que vous eussiez été bouché(e)s
+qu’ils (elles) eussent été bouché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bouché(e)
+ayons été bouché(e)s
+ayez été bouché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bouché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bouché(e)(s)

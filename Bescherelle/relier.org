@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe relier
+
+* INDICATIF
+
+** Présent
+
+je relie
+tu relies
+il (elle) relie
+nous relions
+vous reliez
+ils (elles) relient
+
+** Imparfait
+
+je reliais
+tu reliais
+il (elle) reliait
+nous reliions
+vous reliiez
+ils (elles) reliaient
+
+** Passé simple
+
+je reliai
+tu relias
+il (elle) relia
+nous reliâmes
+vous reliâtes
+ils (elles) relièrent
+
+** Futur simple
+
+je relierai
+tu relieras
+il (elle) reliera
+nous relierons
+vous relierez
+ils (elles) relieront
+
+* CONDITIONNEL
+
+** Présent
+
+je relierais
+tu relierais
+il (elle) relierait
+nous relierions
+vous relieriez
+ils (elles) relieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je relie
+que tu relies
+qu’il (elle) relie
+que nous reliions
+que vous reliiez
+qu’ils (elles) relient
+
+** Imparfait
+
+que je reliasse
+que tu reliasses
+qu’il (elle) reliât
+que nous reliassions
+que vous reliassiez
+qu’ils (elles) reliassent
+
+* IMPÉRATIF
+
+** Présent
+
+relie
+relions
+reliez
+
+* INFINITIF
+
+** Présent
+
+relier
+
+* PARTICIPE
+
+** Présent
+
+reliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai relié
+tu as relié
+il (elle) a relié
+nous avons relié
+vous avez relié
+ils (elles) ont relié
+
+** Plus-que-parfait
+
+j'avais relié
+tu avais relié
+il (elle) avait relié
+nous avions relié
+vous aviez relié
+ils (elles) avaient relié
+
+** Passé antérieur
+
+j'eus relié
+tu eus relié
+il (elle) eut relié
+nous eûmes relié
+vous eûtes relié
+ils (elles) eurent relié
+
+** Futur antérieur
+
+j'aurai relié
+tu auras relié
+il (elle) aura relié
+nous aurons relié
+vous aurez relié
+ils (elles) auront relié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais relié
+tu aurais relié
+il (elle) aurait relié
+nous aurions relié
+vous auriez relié
+ils (elles) auraient relié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie relié
+que tu aies relié
+qu’il (elle) ait relié
+que nous ayons relié
+que vous ayez relié
+qu’ils (elles) aient relié
+
+** Plus-que-parfait
+
+que j'eusse relié
+que tu eusses relié
+qu’il (elle) eût relié
+que nous eussions relié
+que vous eussiez relié
+qu’ils (elles) eussent relié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons relié
+ayez relié
+
+* INFINITIF
+
+** Passé
+
+avoir relié
+
+* PARTICIPE
+
+** Passé
+
+ayant relié
+relié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis relié(e)
+tu es relié(e)
+il (elle) est relié(e)
+nous sommes relié(e)s
+vous êtes relié(e)s
+ils (elles) sont relié(e)s
+
+** Imparfait
+
+j'étais relié(e)
+tu étais relié(e)
+il (elle) était relié(e)
+nous étions relié(e)s
+vous étiez relié(e)s
+ils (elles) étaient relié(e)s
+
+** Passé simple
+
+je fus relié(e)
+tu fus relié(e)
+il (elle) fut relié(e)
+nous fûmes relié(e)s
+vous fûtes relié(e)s
+ils (elles) furent relié(e)s
+
+** Futur simple
+
+je serai relié(e)
+tu seras relié(e)
+il (elle) sera relié(e)
+nous serons relié(e)s
+vous serez relié(e)s
+ils (elles) seront relié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais relié(e)
+tu serais relié(e)
+il (elle) serait relié(e)
+nous serions relié(e)s
+vous seriez relié(e)s
+ils (elles) seraient relié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois relié(e)
+que tu sois relié(e)
+qu’il (elle) soit relié(e)
+que nous soyons relié(e)s
+que vous soyez relié(e)s
+qu’ils (elles) soient relié(e)s
+
+** Imparfait
+
+que je fusse relié(e)
+que tu fusses relié(e)
+qu’il (elle) fût relié(e)
+que nous fussions relié(e)s
+que vous fussiez relié(e)s
+qu’ils (elles) fussent relié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons relié(e)s
+soyez relié(e)s
+
+* INFINITIF
+
+** Présent
+
+être relié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant relié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été relié(e)
+tu as été relié(e)
+il (elle) a été relié(e)
+nous avons été relié(e)s
+vous avez été relié(e)s
+ils (elles) ont été relié(e)s
+
+** Plus-que-parfait
+
+j'avais été relié(e)
+il (elle) avait été relié(e)
+nous avions été relié(e)s
+ils (elles) avaient été relié(e)s
+
+** Passé antérieur
+
+j'eus été relié(e)
+tu eus été relié(e)
+il (elle) eut été relié(e)
+nous eûmes été relié(e)s
+vous eûtes été relié(e)s
+ils (elles) eurent été relié(e)s
+
+** Futur antérieur
+
+j'aurai été relié(e)
+tu auras été relié(e)
+il (elle) aura été relié(e)
+nous aurons été relié(e)s
+vous aurez été relié(e)s
+ils (elles) auront été relié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été relié(e)
+j'aurais été relié(e)
+il (elle) aurait été relié(e)
+nous aurions été relié(e)s
+vous auriez été relié(e)s
+ils (elles) auraient été relié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été relié(e)
+que tu aies été relié(e)
+qu’il (elle) ait été relié(e)
+que nous ayons été relié(e)s
+que vous ayez été relié(e)s
+qu’ils (elles) aient été relié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été relié(e)
+que tu eusses été relié(e)
+qu’il (elle) eût été relié(e)
+que nous eussions été relié(e)s
+que vous eussiez été relié(e)s
+qu’ils (elles) eussent été relié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été relié(e)
+ayons été relié(e)s
+ayez été relié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été relié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été relié(e)(s)

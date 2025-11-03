@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe louer
+
+* INDICATIF
+
+** Présent
+
+je loue
+tu loues
+il (elle) loue
+nous louons
+vous louez
+ils (elles) louent
+
+** Imparfait
+
+je louais
+tu louais
+il (elle) louait
+nous louions
+vous louiez
+ils (elles) louaient
+
+** Passé simple
+
+je louai
+tu louas
+il (elle) loua
+nous louâmes
+vous louâtes
+ils (elles) louèrent
+
+** Futur simple
+
+je louerai
+tu loueras
+il (elle) louera
+nous louerons
+vous louerez
+ils (elles) loueront
+
+* CONDITIONNEL
+
+** Présent
+
+je louerais
+tu louerais
+il (elle) louerait
+nous louerions
+vous loueriez
+ils (elles) loueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je loue
+que tu loues
+qu’il (elle) loue
+que nous louions
+que vous louiez
+qu’ils (elles) louent
+
+** Imparfait
+
+que je louasse
+que tu louasses
+qu’il (elle) louât
+que nous louassions
+que vous louassiez
+qu’ils (elles) louassent
+
+* IMPÉRATIF
+
+** Présent
+
+loue
+louons
+louez
+
+* INFINITIF
+
+** Présent
+
+louer
+
+* PARTICIPE
+
+** Présent
+
+louant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai loué
+tu as loué
+il (elle) a loué
+nous avons loué
+vous avez loué
+ils (elles) ont loué
+
+** Plus-que-parfait
+
+j'avais loué
+tu avais loué
+il (elle) avait loué
+nous avions loué
+vous aviez loué
+ils (elles) avaient loué
+
+** Passé antérieur
+
+j'eus loué
+tu eus loué
+il (elle) eut loué
+nous eûmes loué
+vous eûtes loué
+ils (elles) eurent loué
+
+** Futur antérieur
+
+j'aurai loué
+tu auras loué
+il (elle) aura loué
+nous aurons loué
+vous aurez loué
+ils (elles) auront loué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais loué
+tu aurais loué
+il (elle) aurait loué
+nous aurions loué
+vous auriez loué
+ils (elles) auraient loué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie loué
+que tu aies loué
+qu’il (elle) ait loué
+que nous ayons loué
+que vous ayez loué
+qu’ils (elles) aient loué
+
+** Plus-que-parfait
+
+que j'eusse loué
+que tu eusses loué
+qu’il (elle) eût loué
+que nous eussions loué
+que vous eussiez loué
+qu’ils (elles) eussent loué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons loué
+ayez loué
+
+* INFINITIF
+
+** Passé
+
+avoir loué
+
+* PARTICIPE
+
+** Passé
+
+ayant loué
+loué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis loué(e)
+tu es loué(e)
+il (elle) est loué(e)
+nous sommes loué(e)s
+vous êtes loué(e)s
+ils (elles) sont loué(e)s
+
+** Imparfait
+
+j'étais loué(e)
+tu étais loué(e)
+il (elle) était loué(e)
+nous étions loué(e)s
+vous étiez loué(e)s
+ils (elles) étaient loué(e)s
+
+** Passé simple
+
+je fus loué(e)
+tu fus loué(e)
+il (elle) fut loué(e)
+nous fûmes loué(e)s
+vous fûtes loué(e)s
+ils (elles) furent loué(e)s
+
+** Futur simple
+
+je serai loué(e)
+tu seras loué(e)
+il (elle) sera loué(e)
+nous serons loué(e)s
+vous serez loué(e)s
+ils (elles) seront loué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais loué(e)
+tu serais loué(e)
+il (elle) serait loué(e)
+nous serions loué(e)s
+vous seriez loué(e)s
+ils (elles) seraient loué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois loué(e)
+que tu sois loué(e)
+qu’il (elle) soit loué(e)
+que nous soyons loué(e)s
+que vous soyez loué(e)s
+qu’ils (elles) soient loué(e)s
+
+** Imparfait
+
+que je fusse loué(e)
+que tu fusses loué(e)
+qu’il (elle) fût loué(e)
+que nous fussions loué(e)s
+que vous fussiez loué(e)s
+qu’ils (elles) fussent loué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons loué(e)s
+soyez loué(e)s
+
+* INFINITIF
+
+** Présent
+
+être loué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant loué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été loué(e)
+tu as été loué(e)
+il (elle) a été loué(e)
+nous avons été loué(e)s
+vous avez été loué(e)s
+ils (elles) ont été loué(e)s
+
+** Plus-que-parfait
+
+j'avais été loué(e)
+il (elle) avait été loué(e)
+nous avions été loué(e)s
+ils (elles) avaient été loué(e)s
+
+** Passé antérieur
+
+j'eus été loué(e)
+tu eus été loué(e)
+il (elle) eut été loué(e)
+nous eûmes été loué(e)s
+vous eûtes été loué(e)s
+ils (elles) eurent été loué(e)s
+
+** Futur antérieur
+
+j'aurai été loué(e)
+tu auras été loué(e)
+il (elle) aura été loué(e)
+nous aurons été loué(e)s
+vous aurez été loué(e)s
+ils (elles) auront été loué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été loué(e)
+j'aurais été loué(e)
+il (elle) aurait été loué(e)
+nous aurions été loué(e)s
+vous auriez été loué(e)s
+ils (elles) auraient été loué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été loué(e)
+que tu aies été loué(e)
+qu’il (elle) ait été loué(e)
+que nous ayons été loué(e)s
+que vous ayez été loué(e)s
+qu’ils (elles) aient été loué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été loué(e)
+que tu eusses été loué(e)
+qu’il (elle) eût été loué(e)
+que nous eussions été loué(e)s
+que vous eussiez été loué(e)s
+qu’ils (elles) eussent été loué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été loué(e)
+ayons été loué(e)s
+ayez été loué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été loué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été loué(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vanner
+
+* INDICATIF
+
+** Présent
+
+je vanne
+tu vannes
+il (elle) vanne
+nous vannons
+vous vannez
+ils (elles) vannent
+
+** Imparfait
+
+je vannais
+tu vannais
+il (elle) vannait
+nous vannions
+vous vanniez
+ils (elles) vannaient
+
+** Passé simple
+
+je vannai
+tu vannas
+il (elle) vanna
+nous vannâmes
+vous vannâtes
+ils (elles) vannèrent
+
+** Futur simple
+
+je vannerai
+tu vanneras
+il (elle) vannera
+nous vannerons
+vous vannerez
+ils (elles) vanneront
+
+* CONDITIONNEL
+
+** Présent
+
+je vannerais
+tu vannerais
+il (elle) vannerait
+nous vannerions
+vous vanneriez
+ils (elles) vanneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vanne
+que tu vannes
+qu’il (elle) vanne
+que nous vannions
+que vous vanniez
+qu’ils (elles) vannent
+
+** Imparfait
+
+que je vannasse
+que tu vannasses
+qu’il (elle) vannât
+que nous vannassions
+que vous vannassiez
+qu’ils (elles) vannassent
+
+* IMPÉRATIF
+
+** Présent
+
+vanne
+vannons
+vannez
+
+* INFINITIF
+
+** Présent
+
+vanner
+
+* PARTICIPE
+
+** Présent
+
+vannant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vanné
+tu as vanné
+il (elle) a vanné
+nous avons vanné
+vous avez vanné
+ils (elles) ont vanné
+
+** Plus-que-parfait
+
+j'avais vanné
+tu avais vanné
+il (elle) avait vanné
+nous avions vanné
+vous aviez vanné
+ils (elles) avaient vanné
+
+** Passé antérieur
+
+j'eus vanné
+tu eus vanné
+il (elle) eut vanné
+nous eûmes vanné
+vous eûtes vanné
+ils (elles) eurent vanné
+
+** Futur antérieur
+
+j'aurai vanné
+tu auras vanné
+il (elle) aura vanné
+nous aurons vanné
+vous aurez vanné
+ils (elles) auront vanné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vanné
+tu aurais vanné
+il (elle) aurait vanné
+nous aurions vanné
+vous auriez vanné
+ils (elles) auraient vanné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vanné
+que tu aies vanné
+qu’il (elle) ait vanné
+que nous ayons vanné
+que vous ayez vanné
+qu’ils (elles) aient vanné
+
+** Plus-que-parfait
+
+que j'eusse vanné
+que tu eusses vanné
+qu’il (elle) eût vanné
+que nous eussions vanné
+que vous eussiez vanné
+qu’ils (elles) eussent vanné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vanné
+ayez vanné
+
+* INFINITIF
+
+** Passé
+
+avoir vanné
+
+* PARTICIPE
+
+** Passé
+
+ayant vanné
+vanné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis vanné(e)
+tu es vanné(e)
+il (elle) est vanné(e)
+nous sommes vanné(e)s
+vous êtes vanné(e)s
+ils (elles) sont vanné(e)s
+
+** Imparfait
+
+j'étais vanné(e)
+tu étais vanné(e)
+il (elle) était vanné(e)
+nous étions vanné(e)s
+vous étiez vanné(e)s
+ils (elles) étaient vanné(e)s
+
+** Passé simple
+
+je fus vanné(e)
+tu fus vanné(e)
+il (elle) fut vanné(e)
+nous fûmes vanné(e)s
+vous fûtes vanné(e)s
+ils (elles) furent vanné(e)s
+
+** Futur simple
+
+je serai vanné(e)
+tu seras vanné(e)
+il (elle) sera vanné(e)
+nous serons vanné(e)s
+vous serez vanné(e)s
+ils (elles) seront vanné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vanné(e)
+tu serais vanné(e)
+il (elle) serait vanné(e)
+nous serions vanné(e)s
+vous seriez vanné(e)s
+ils (elles) seraient vanné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vanné(e)
+que tu sois vanné(e)
+qu’il (elle) soit vanné(e)
+que nous soyons vanné(e)s
+que vous soyez vanné(e)s
+qu’ils (elles) soient vanné(e)s
+
+** Imparfait
+
+que je fusse vanné(e)
+que tu fusses vanné(e)
+qu’il (elle) fût vanné(e)
+que nous fussions vanné(e)s
+que vous fussiez vanné(e)s
+qu’ils (elles) fussent vanné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vanné(e)s
+soyez vanné(e)s
+
+* INFINITIF
+
+** Présent
+
+être vanné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vanné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vanné(e)
+tu as été vanné(e)
+il (elle) a été vanné(e)
+nous avons été vanné(e)s
+vous avez été vanné(e)s
+ils (elles) ont été vanné(e)s
+
+** Plus-que-parfait
+
+j'avais été vanné(e)
+il (elle) avait été vanné(e)
+nous avions été vanné(e)s
+ils (elles) avaient été vanné(e)s
+
+** Passé antérieur
+
+j'eus été vanné(e)
+tu eus été vanné(e)
+il (elle) eut été vanné(e)
+nous eûmes été vanné(e)s
+vous eûtes été vanné(e)s
+ils (elles) eurent été vanné(e)s
+
+** Futur antérieur
+
+j'aurai été vanné(e)
+tu auras été vanné(e)
+il (elle) aura été vanné(e)
+nous aurons été vanné(e)s
+vous aurez été vanné(e)s
+ils (elles) auront été vanné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vanné(e)
+j'aurais été vanné(e)
+il (elle) aurait été vanné(e)
+nous aurions été vanné(e)s
+vous auriez été vanné(e)s
+ils (elles) auraient été vanné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vanné(e)
+que tu aies été vanné(e)
+qu’il (elle) ait été vanné(e)
+que nous ayons été vanné(e)s
+que vous ayez été vanné(e)s
+qu’ils (elles) aient été vanné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vanné(e)
+que tu eusses été vanné(e)
+qu’il (elle) eût été vanné(e)
+que nous eussions été vanné(e)s
+que vous eussiez été vanné(e)s
+qu’ils (elles) eussent été vanné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vanné(e)
+ayons été vanné(e)s
+ayez été vanné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vanné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vanné(e)(s)

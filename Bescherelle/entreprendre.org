@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entreprendre
+
+* INDICATIF
+
+** Présent
+
+j'entreprends
+tu entreprends
+il (elle) entreprend
+nous entreprenons
+vous entreprenez
+ils (elles) entreprennent
+
+** Imparfait
+
+j'entreprenais
+tu entreprenais
+il (elle) entreprenait
+nous entreprenions
+vous entrepreniez
+ils (elles) entreprenaient
+
+** Passé simple
+
+j'entrepris
+tu entrepris
+il (elle) entreprit
+nous entreprîmes
+vous entreprîtes
+ils (elles) entreprirent
+
+** Futur simple
+
+j'entreprendrai
+tu entreprendras
+il (elle) entreprendra
+nous entreprendrons
+vous entreprendrez
+ils (elles) entreprendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entreprendrais
+tu entreprendrais
+il (elle) entreprendrait
+nous entreprendrions
+vous entreprendriez
+ils (elles) entreprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entreprenne
+que tu entreprennes
+qu’il (elle) entreprenne
+que nous entreprenions
+que vous entrepreniez
+qu’ils (elles) entreprennent
+
+** Imparfait
+
+que j'entreprisse
+que tu entreprisses
+qu’il (elle) entreprît
+que nous entreprissions
+que vous entreprissiez
+qu’ils (elles) entreprissent
+
+* IMPÉRATIF
+
+** Présent
+
+entreprends
+entreprenons
+entreprenez
+
+* INFINITIF
+
+** Présent
+
+entreprendre
+
+* PARTICIPE
+
+** Présent
+
+entreprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entrepris
+tu as entrepris
+il (elle) a entrepris
+nous avons entrepris
+vous avez entrepris
+ils (elles) ont entrepris
+
+** Plus-que-parfait
+
+j'avais entrepris
+tu avais entrepris
+il (elle) avait entrepris
+nous avions entrepris
+vous aviez entrepris
+ils (elles) avaient entrepris
+
+** Passé antérieur
+
+j'eus entrepris
+tu eus entrepris
+il (elle) eut entrepris
+nous eûmes entrepris
+vous eûtes entrepris
+ils (elles) eurent entrepris
+
+** Futur antérieur
+
+j'aurai entrepris
+tu auras entrepris
+il (elle) aura entrepris
+nous aurons entrepris
+vous aurez entrepris
+ils (elles) auront entrepris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entrepris
+tu aurais entrepris
+il (elle) aurait entrepris
+nous aurions entrepris
+vous auriez entrepris
+ils (elles) auraient entrepris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entrepris
+que tu aies entrepris
+qu’il (elle) ait entrepris
+que nous ayons entrepris
+que vous ayez entrepris
+qu’ils (elles) aient entrepris
+
+** Plus-que-parfait
+
+que j'eusse entrepris
+que tu eusses entrepris
+qu’il (elle) eût entrepris
+que nous eussions entrepris
+que vous eussiez entrepris
+qu’ils (elles) eussent entrepris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entrepris
+ayez entrepris
+
+* INFINITIF
+
+** Passé
+
+avoir entrepris
+
+* PARTICIPE
+
+** Passé
+
+ayant entrepris
+entrepris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis entrepris(e)
+tu es entrepris(e)
+il (elle) est entrepris(e)
+nous sommes entrepris(es)
+vous êtes entrepris(es)
+ils (elles) sont entrepris(es)
+
+** Imparfait
+
+j'étais entrepris(e)
+tu étais entrepris(e)
+il (elle) était entrepris(e)
+nous étions entrepris(es)
+vous étiez entrepris(es)
+ils (elles) étaient entrepris(es)
+
+** Passé simple
+
+je fus entrepris(e)
+tu fus entrepris(e)
+il (elle) fut entrepris(e)
+nous fûmes entrepris(es)
+vous fûtes entrepris(es)
+ils (elles) furent entrepris(es)
+
+** Futur simple
+
+je serai entrepris(e)
+tu seras entrepris(e)
+il (elle) sera entrepris(e)
+nous serons entrepris(es)
+vous serez entrepris(es)
+ils (elles) seront entrepris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entrepris(e)
+tu serais entrepris(e)
+il (elle) serait entrepris(e)
+nous serions entrepris(es)
+vous seriez entrepris(es)
+ils (elles) seraient entrepris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entrepris(e)
+que tu sois entrepris(e)
+qu’il (elle) soit entrepris(e)
+que nous soyons entrepris(es)
+que vous soyez entrepris(es)
+qu’ils (elles) soient entrepris(es)
+
+** Imparfait
+
+que je fusse entrepris(e)
+que tu fusses entrepris(e)
+qu’il (elle) fût entrepris(e)
+que nous fussions entrepris(es)
+que vous fussiez entrepris(es)
+qu’ils (elles) fussent entrepris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entrepris(es)
+soyez entrepris(es)
+
+* INFINITIF
+
+** Présent
+
+être entrepris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant entrepris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entrepris(e)
+tu as été entrepris(e)
+il (elle) a été entrepris(e)
+nous avons été entrepris(es)
+vous avez été entrepris(es)
+ils (elles) ont été entrepris(es)
+
+** Plus-que-parfait
+
+j'avais été entrepris(e)
+il (elle) avait été entrepris(e)
+nous avions été entrepris(es)
+ils (elles) avaient été entrepris(es)
+
+** Passé antérieur
+
+j'eus été entrepris(e)
+tu eus été entrepris(e)
+il (elle) eut été entrepris(e)
+nous eûmes été entrepris(es)
+vous eûtes été entrepris(es)
+ils (elles) eurent été entrepris(es)
+
+** Futur antérieur
+
+j'aurai été entrepris(e)
+tu auras été entrepris(e)
+il (elle) aura été entrepris(e)
+nous aurons été entrepris(es)
+vous aurez été entrepris(es)
+ils (elles) auront été entrepris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entrepris(e)
+j'aurais été entrepris(e)
+il (elle) aurait été entrepris(e)
+nous aurions été entrepris(es)
+vous auriez été entrepris(es)
+ils (elles) auraient été entrepris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entrepris(e)
+que tu aies été entrepris(e)
+qu’il (elle) ait été entrepris(e)
+que nous ayons été entrepris(es)
+que vous ayez été entrepris(es)
+qu’ils (elles) aient été entrepris(es)
+
+** Plus-que-parfait
+
+que j'eusse été entrepris(e)
+que tu eusses été entrepris(e)
+qu’il (elle) eût été entrepris(e)
+que nous eussions été entrepris(es)
+que vous eussiez été entrepris(es)
+qu’ils (elles) eussent été entrepris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entrepris(e)
+ayons été entrepris(es)
+ayez été entrepris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été entrepris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entrepris (s, se, s, ses)

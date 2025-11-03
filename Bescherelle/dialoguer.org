@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe dialoguer
+
+* INDICATIF
+
+** Présent
+
+je dialogue
+tu dialogues
+il (elle) dialogue
+nous dialoguons
+vous dialoguez
+ils (elles) dialoguent
+
+** Imparfait
+
+je dialoguais
+tu dialoguais
+il (elle) dialoguait
+nous dialoguions
+vous dialoguiez
+ils (elles) dialoguaient
+
+** Passé simple
+
+je dialoguai
+tu dialoguas
+il (elle) dialogua
+nous dialoguâmes
+vous dialoguâtes
+ils (elles) dialoguèrent
+
+** Futur simple
+
+je dialoguerai
+tu dialogueras
+il (elle) dialoguera
+nous dialoguerons
+vous dialoguerez
+ils (elles) dialogueront
+
+* CONDITIONNEL
+
+** Présent
+
+je dialoguerais
+tu dialoguerais
+il (elle) dialoguerait
+nous dialoguerions
+vous dialogueriez
+ils (elles) dialogueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dialogue
+que tu dialogues
+qu’il (elle) dialogue
+que nous dialoguions
+que vous dialoguiez
+qu’ils (elles) dialoguent
+
+** Imparfait
+
+que je dialoguasse
+que tu dialoguasses
+qu’il (elle) dialoguât
+que nous dialoguassions
+que vous dialoguassiez
+qu’ils (elles) dialoguassent
+
+* IMPÉRATIF
+
+** Présent
+
+dialogue
+dialoguons
+dialoguez
+
+* INFINITIF
+
+** Présent
+
+dialoguer
+
+* PARTICIPE
+
+** Présent
+
+dialoguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dialogué
+tu as dialogué
+il (elle) a dialogué
+nous avons dialogué
+vous avez dialogué
+ils (elles) ont dialogué
+
+** Plus-que-parfait
+
+j'avais dialogué
+tu avais dialogué
+il (elle) avait dialogué
+nous avions dialogué
+vous aviez dialogué
+ils (elles) avaient dialogué
+
+** Passé antérieur
+
+j'eus dialogué
+tu eus dialogué
+il (elle) eut dialogué
+nous eûmes dialogué
+vous eûtes dialogué
+ils (elles) eurent dialogué
+
+** Futur antérieur
+
+j'aurai dialogué
+tu auras dialogué
+il (elle) aura dialogué
+nous aurons dialogué
+vous aurez dialogué
+ils (elles) auront dialogué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dialogué
+tu aurais dialogué
+il (elle) aurait dialogué
+nous aurions dialogué
+vous auriez dialogué
+ils (elles) auraient dialogué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dialogué
+que tu aies dialogué
+qu’il (elle) ait dialogué
+que nous ayons dialogué
+que vous ayez dialogué
+qu’ils (elles) aient dialogué
+
+** Plus-que-parfait
+
+que j'eusse dialogué
+que tu eusses dialogué
+qu’il (elle) eût dialogué
+que nous eussions dialogué
+que vous eussiez dialogué
+qu’ils (elles) eussent dialogué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dialogué
+ayez dialogué
+
+* INFINITIF
+
+** Passé
+
+avoir dialogué
+
+* PARTICIPE
+
+** Passé
+
+ayant dialogué
+dialogué (invar.)

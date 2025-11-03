@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etendre
+
+* INDICATIF
+
+** Présent
+
+j'étends
+tu étends
+il (elle) étend
+nous étendons
+vous étendez
+ils (elles) étendent
+
+** Imparfait
+
+j'étendais
+tu étendais
+il (elle) étendait
+nous étendions
+vous étendiez
+ils (elles) étendaient
+
+** Passé simple
+
+j'étendis
+tu étendis
+il (elle) étendit
+nous étendîmes
+vous étendîtes
+ils (elles) étendirent
+
+** Futur simple
+
+j'étendrai
+tu étendras
+il (elle) étendra
+nous étendrons
+vous étendrez
+ils (elles) étendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étendrais
+tu étendrais
+il (elle) étendrait
+nous étendrions
+vous étendriez
+ils (elles) étendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étende
+que tu étendes
+qu’il (elle) étende
+que nous étendions
+que vous étendiez
+qu’ils (elles) étendent
+
+** Imparfait
+
+que j'étendisse
+que tu étendisses
+qu’il (elle) étendît
+que nous étendissions
+que vous étendissiez
+qu’ils (elles) étendissent
+
+* IMPÉRATIF
+
+** Présent
+
+étends
+étendons
+étendez
+
+* INFINITIF
+
+** Présent
+
+étendre
+
+* PARTICIPE
+
+** Présent
+
+étendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étendu
+tu as étendu
+il (elle) a étendu
+nous avons étendu
+vous avez étendu
+ils (elles) ont étendu
+
+** Plus-que-parfait
+
+j'avais étendu
+tu avais étendu
+il (elle) avait étendu
+nous avions étendu
+vous aviez étendu
+ils (elles) avaient étendu
+
+** Passé antérieur
+
+j'eus étendu
+tu eus étendu
+il (elle) eut étendu
+nous eûmes étendu
+vous eûtes étendu
+ils (elles) eurent étendu
+
+** Futur antérieur
+
+j'aurai étendu
+tu auras étendu
+il (elle) aura étendu
+nous aurons étendu
+vous aurez étendu
+ils (elles) auront étendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étendu
+tu aurais étendu
+il (elle) aurait étendu
+nous aurions étendu
+vous auriez étendu
+ils (elles) auraient étendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étendu
+que tu aies étendu
+qu’il (elle) ait étendu
+que nous ayons étendu
+que vous ayez étendu
+qu’ils (elles) aient étendu
+
+** Plus-que-parfait
+
+que j'eusse étendu
+que tu eusses étendu
+qu’il (elle) eût étendu
+que nous eussions étendu
+que vous eussiez étendu
+qu’ils (elles) eussent étendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étendu
+ayez étendu
+
+* INFINITIF
+
+** Passé
+
+avoir étendu
+
+* PARTICIPE
+
+** Passé
+
+ayant étendu
+étendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis étendu(e)
+tu es étendu(e)
+il (elle) est étendu(e)
+nous sommes étendu(e)s
+vous êtes étendu(e)s
+ils (elles) sont étendu(e)s
+
+** Imparfait
+
+j'étais étendu(e)
+tu étais étendu(e)
+il (elle) était étendu(e)
+nous étions étendu(e)s
+vous étiez étendu(e)s
+ils (elles) étaient étendu(e)s
+
+** Passé simple
+
+je fus étendu(e)
+tu fus étendu(e)
+il (elle) fut étendu(e)
+nous fûmes étendu(e)s
+vous fûtes étendu(e)s
+ils (elles) furent étendu(e)s
+
+** Futur simple
+
+je serai étendu(e)
+tu seras étendu(e)
+il (elle) sera étendu(e)
+nous serons étendu(e)s
+vous serez étendu(e)s
+ils (elles) seront étendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais étendu(e)
+tu serais étendu(e)
+il (elle) serait étendu(e)
+nous serions étendu(e)s
+vous seriez étendu(e)s
+ils (elles) seraient étendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois étendu(e)
+que tu sois étendu(e)
+qu’il (elle) soit étendu(e)
+que nous soyons étendu(e)s
+que vous soyez étendu(e)s
+qu’ils (elles) soient étendu(e)s
+
+** Imparfait
+
+que je fusse étendu(e)
+que tu fusses étendu(e)
+qu’il (elle) fût étendu(e)
+que nous fussions étendu(e)s
+que vous fussiez étendu(e)s
+qu’ils (elles) fussent étendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons étendu(e)s
+soyez étendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être étendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant étendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été étendu(e)
+tu as été étendu(e)
+il (elle) a été étendu(e)
+nous avons été étendu(e)s
+vous avez été étendu(e)s
+ils (elles) ont été étendu(e)s
+
+** Plus-que-parfait
+
+j'avais été étendu(e)
+il (elle) avait été étendu(e)
+nous avions été étendu(e)s
+ils (elles) avaient été étendu(e)s
+
+** Passé antérieur
+
+j'eus été étendu(e)
+tu eus été étendu(e)
+il (elle) eut été étendu(e)
+nous eûmes été étendu(e)s
+vous eûtes été étendu(e)s
+ils (elles) eurent été étendu(e)s
+
+** Futur antérieur
+
+j'aurai été étendu(e)
+tu auras été étendu(e)
+il (elle) aura été étendu(e)
+nous aurons été étendu(e)s
+vous aurez été étendu(e)s
+ils (elles) auront été étendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été étendu(e)
+j'aurais été étendu(e)
+il (elle) aurait été étendu(e)
+nous aurions été étendu(e)s
+vous auriez été étendu(e)s
+ils (elles) auraient été étendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été étendu(e)
+que tu aies été étendu(e)
+qu’il (elle) ait été étendu(e)
+que nous ayons été étendu(e)s
+que vous ayez été étendu(e)s
+qu’ils (elles) aient été étendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été étendu(e)
+que tu eusses été étendu(e)
+qu’il (elle) eût été étendu(e)
+que nous eussions été étendu(e)s
+que vous eussiez été étendu(e)s
+qu’ils (elles) eussent été étendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été étendu(e)
+ayons été étendu(e)s
+ayez été étendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été étendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été étendu(e)(s)

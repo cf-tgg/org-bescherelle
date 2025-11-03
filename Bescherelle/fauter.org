@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fauter
+
+* INDICATIF
+
+** Présent
+
+je faute
+tu fautes
+il (elle) faute
+nous fautons
+vous fautez
+ils (elles) fautent
+
+** Imparfait
+
+je fautais
+tu fautais
+il (elle) fautait
+nous fautions
+vous fautiez
+ils (elles) fautaient
+
+** Passé simple
+
+je fautai
+tu fautas
+il (elle) fauta
+nous fautâmes
+vous fautâtes
+ils (elles) fautèrent
+
+** Futur simple
+
+je fauterai
+tu fauteras
+il (elle) fautera
+nous fauterons
+vous fauterez
+ils (elles) fauteront
+
+* CONDITIONNEL
+
+** Présent
+
+je fauterais
+tu fauterais
+il (elle) fauterait
+nous fauterions
+vous fauteriez
+ils (elles) fauteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je faute
+que tu fautes
+qu’il (elle) faute
+que nous fautions
+que vous fautiez
+qu’ils (elles) fautent
+
+** Imparfait
+
+que je fautasse
+que tu fautasses
+qu’il (elle) fautât
+que nous fautassions
+que vous fautassiez
+qu’ils (elles) fautassent
+
+* IMPÉRATIF
+
+** Présent
+
+faute
+fautons
+fautez
+
+* INFINITIF
+
+** Présent
+
+fauter
+
+* PARTICIPE
+
+** Présent
+
+fautant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fauté
+tu as fauté
+il (elle) a fauté
+nous avons fauté
+vous avez fauté
+ils (elles) ont fauté
+
+** Plus-que-parfait
+
+j'avais fauté
+tu avais fauté
+il (elle) avait fauté
+nous avions fauté
+vous aviez fauté
+ils (elles) avaient fauté
+
+** Passé antérieur
+
+j'eus fauté
+tu eus fauté
+il (elle) eut fauté
+nous eûmes fauté
+vous eûtes fauté
+ils (elles) eurent fauté
+
+** Futur antérieur
+
+j'aurai fauté
+tu auras fauté
+il (elle) aura fauté
+nous aurons fauté
+vous aurez fauté
+ils (elles) auront fauté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fauté
+tu aurais fauté
+il (elle) aurait fauté
+nous aurions fauté
+vous auriez fauté
+ils (elles) auraient fauté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fauté
+que tu aies fauté
+qu’il (elle) ait fauté
+que nous ayons fauté
+que vous ayez fauté
+qu’ils (elles) aient fauté
+
+** Plus-que-parfait
+
+que j'eusse fauté
+que tu eusses fauté
+qu’il (elle) eût fauté
+que nous eussions fauté
+que vous eussiez fauté
+qu’ils (elles) eussent fauté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fauté
+ayez fauté
+
+* INFINITIF
+
+** Passé
+
+avoir fauté
+
+* PARTICIPE
+
+** Passé
+
+ayant fauté
+fauté (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brancher
+
+* INDICATIF
+
+** Présent
+
+je branche
+tu branches
+il (elle) branche
+nous branchons
+vous branchez
+ils (elles) branchent
+
+** Imparfait
+
+je branchais
+tu branchais
+il (elle) branchait
+nous branchions
+vous branchiez
+ils (elles) branchaient
+
+** Passé simple
+
+je branchai
+tu branchas
+il (elle) brancha
+nous branchâmes
+vous branchâtes
+ils (elles) branchèrent
+
+** Futur simple
+
+je brancherai
+tu brancheras
+il (elle) branchera
+nous brancherons
+vous brancherez
+ils (elles) brancheront
+
+* CONDITIONNEL
+
+** Présent
+
+je brancherais
+tu brancherais
+il (elle) brancherait
+nous brancherions
+vous brancheriez
+ils (elles) brancheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je branche
+que tu branches
+qu’il (elle) branche
+que nous branchions
+que vous branchiez
+qu’ils (elles) branchent
+
+** Imparfait
+
+que je branchasse
+que tu branchasses
+qu’il (elle) branchât
+que nous branchassions
+que vous branchassiez
+qu’ils (elles) branchassent
+
+* IMPÉRATIF
+
+** Présent
+
+branche
+branchons
+branchez
+
+* INFINITIF
+
+** Présent
+
+brancher
+
+* PARTICIPE
+
+** Présent
+
+branchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai branché
+tu as branché
+il (elle) a branché
+nous avons branché
+vous avez branché
+ils (elles) ont branché
+
+** Plus-que-parfait
+
+j'avais branché
+tu avais branché
+il (elle) avait branché
+nous avions branché
+vous aviez branché
+ils (elles) avaient branché
+
+** Passé antérieur
+
+j'eus branché
+tu eus branché
+il (elle) eut branché
+nous eûmes branché
+vous eûtes branché
+ils (elles) eurent branché
+
+** Futur antérieur
+
+j'aurai branché
+tu auras branché
+il (elle) aura branché
+nous aurons branché
+vous aurez branché
+ils (elles) auront branché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais branché
+tu aurais branché
+il (elle) aurait branché
+nous aurions branché
+vous auriez branché
+ils (elles) auraient branché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie branché
+que tu aies branché
+qu’il (elle) ait branché
+que nous ayons branché
+que vous ayez branché
+qu’ils (elles) aient branché
+
+** Plus-que-parfait
+
+que j'eusse branché
+que tu eusses branché
+qu’il (elle) eût branché
+que nous eussions branché
+que vous eussiez branché
+qu’ils (elles) eussent branché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons branché
+ayez branché
+
+* INFINITIF
+
+** Passé
+
+avoir branché
+
+* PARTICIPE
+
+** Passé
+
+ayant branché
+branché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis branché(e)
+tu es branché(e)
+il (elle) est branché(e)
+nous sommes branché(e)s
+vous êtes branché(e)s
+ils (elles) sont branché(e)s
+
+** Imparfait
+
+j'étais branché(e)
+tu étais branché(e)
+il (elle) était branché(e)
+nous étions branché(e)s
+vous étiez branché(e)s
+ils (elles) étaient branché(e)s
+
+** Passé simple
+
+je fus branché(e)
+tu fus branché(e)
+il (elle) fut branché(e)
+nous fûmes branché(e)s
+vous fûtes branché(e)s
+ils (elles) furent branché(e)s
+
+** Futur simple
+
+je serai branché(e)
+tu seras branché(e)
+il (elle) sera branché(e)
+nous serons branché(e)s
+vous serez branché(e)s
+ils (elles) seront branché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais branché(e)
+tu serais branché(e)
+il (elle) serait branché(e)
+nous serions branché(e)s
+vous seriez branché(e)s
+ils (elles) seraient branché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois branché(e)
+que tu sois branché(e)
+qu’il (elle) soit branché(e)
+que nous soyons branché(e)s
+que vous soyez branché(e)s
+qu’ils (elles) soient branché(e)s
+
+** Imparfait
+
+que je fusse branché(e)
+que tu fusses branché(e)
+qu’il (elle) fût branché(e)
+que nous fussions branché(e)s
+que vous fussiez branché(e)s
+qu’ils (elles) fussent branché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons branché(e)s
+soyez branché(e)s
+
+* INFINITIF
+
+** Présent
+
+être branché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant branché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été branché(e)
+tu as été branché(e)
+il (elle) a été branché(e)
+nous avons été branché(e)s
+vous avez été branché(e)s
+ils (elles) ont été branché(e)s
+
+** Plus-que-parfait
+
+j'avais été branché(e)
+il (elle) avait été branché(e)
+nous avions été branché(e)s
+ils (elles) avaient été branché(e)s
+
+** Passé antérieur
+
+j'eus été branché(e)
+tu eus été branché(e)
+il (elle) eut été branché(e)
+nous eûmes été branché(e)s
+vous eûtes été branché(e)s
+ils (elles) eurent été branché(e)s
+
+** Futur antérieur
+
+j'aurai été branché(e)
+tu auras été branché(e)
+il (elle) aura été branché(e)
+nous aurons été branché(e)s
+vous aurez été branché(e)s
+ils (elles) auront été branché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été branché(e)
+j'aurais été branché(e)
+il (elle) aurait été branché(e)
+nous aurions été branché(e)s
+vous auriez été branché(e)s
+ils (elles) auraient été branché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été branché(e)
+que tu aies été branché(e)
+qu’il (elle) ait été branché(e)
+que nous ayons été branché(e)s
+que vous ayez été branché(e)s
+qu’ils (elles) aient été branché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été branché(e)
+que tu eusses été branché(e)
+qu’il (elle) eût été branché(e)
+que nous eussions été branché(e)s
+que vous eussiez été branché(e)s
+qu’ils (elles) eussent été branché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été branché(e)
+ayons été branché(e)s
+ayez été branché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été branché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été branché(e)(s)

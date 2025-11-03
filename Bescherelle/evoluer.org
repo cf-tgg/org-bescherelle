@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe evoluer
+
+* INDICATIF
+
+** Présent
+
+j'évolue
+tu évolues
+il (elle) évolue
+nous évoluons
+vous évoluez
+ils (elles) évoluent
+
+** Imparfait
+
+j'évoluais
+tu évoluais
+il (elle) évoluait
+nous évoluions
+vous évoluiez
+ils (elles) évoluaient
+
+** Passé simple
+
+j'évoluai
+tu évoluas
+il (elle) évolua
+nous évoluâmes
+vous évoluâtes
+ils (elles) évoluèrent
+
+** Futur simple
+
+j'évoluerai
+tu évolueras
+il (elle) évoluera
+nous évoluerons
+vous évoluerez
+ils (elles) évolueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'évoluerais
+tu évoluerais
+il (elle) évoluerait
+nous évoluerions
+vous évolueriez
+ils (elles) évolueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'évolue
+que tu évolues
+qu’il (elle) évolue
+que nous évoluions
+que vous évoluiez
+qu’ils (elles) évoluent
+
+** Imparfait
+
+que j'évoluasse
+que tu évoluasses
+qu’il (elle) évoluât
+que nous évoluassions
+que vous évoluassiez
+qu’ils (elles) évoluassent
+
+* IMPÉRATIF
+
+** Présent
+
+évolue
+évoluons
+évoluez
+
+* INFINITIF
+
+** Présent
+
+évoluer
+
+* PARTICIPE
+
+** Présent
+
+évoluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai évolué
+tu as évolué
+il (elle) a évolué
+nous avons évolué
+vous avez évolué
+ils (elles) ont évolué
+
+** Plus-que-parfait
+
+j'avais évolué
+tu avais évolué
+il (elle) avait évolué
+nous avions évolué
+vous aviez évolué
+ils (elles) avaient évolué
+
+** Passé antérieur
+
+j'eus évolué
+tu eus évolué
+il (elle) eut évolué
+nous eûmes évolué
+vous eûtes évolué
+ils (elles) eurent évolué
+
+** Futur antérieur
+
+j'aurai évolué
+tu auras évolué
+il (elle) aura évolué
+nous aurons évolué
+vous aurez évolué
+ils (elles) auront évolué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais évolué
+tu aurais évolué
+il (elle) aurait évolué
+nous aurions évolué
+vous auriez évolué
+ils (elles) auraient évolué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie évolué
+que tu aies évolué
+qu’il (elle) ait évolué
+que nous ayons évolué
+que vous ayez évolué
+qu’ils (elles) aient évolué
+
+** Plus-que-parfait
+
+que j'eusse évolué
+que tu eusses évolué
+qu’il (elle) eût évolué
+que nous eussions évolué
+que vous eussiez évolué
+qu’ils (elles) eussent évolué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons évolué
+ayez évolué
+
+* INFINITIF
+
+** Passé
+
+avoir évolué
+
+* PARTICIPE
+
+** Passé
+
+ayant évolué
+évolué (invar.)

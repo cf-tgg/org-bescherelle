@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe comparaitre
+
+* INDICATIF
+
+** Présent
+
+je comparais
+tu comparais
+il (elle) comparaît
+nous comparaissons
+vous comparaissez
+ils (elles) comparaissent
+
+** Imparfait
+
+je comparaissais
+tu comparaissais
+il (elle) comparaissait
+nous comparaissions
+vous comparaissiez
+ils (elles) comparaissaient
+
+** Passé simple
+
+je comparus
+tu comparus
+il (elle) comparut
+nous comparûmes
+vous comparûtes
+ils (elles) comparurent
+
+** Futur simple
+
+je comparaîtrai
+tu comparaîtras
+il (elle) comparaîtra
+nous comparaîtrons
+vous comparaîtrez
+ils (elles) comparaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je comparaîtrais
+tu comparaîtrais
+il (elle) comparaîtrait
+nous comparaîtrions
+vous comparaîtriez
+ils (elles) comparaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je comparaisse
+que tu comparaisses
+qu’il (elle) comparaisse
+que nous comparaissions
+que vous comparaissiez
+qu’ils (elles) comparaissent
+
+** Imparfait
+
+que je comparusse
+que tu comparusses
+qu’il (elle) comparût
+que nous comparussions
+que vous comparussiez
+qu’ils (elles) comparussent
+
+* IMPÉRATIF
+
+** Présent
+
+comparais
+comparaissons
+comparaissez
+
+* INFINITIF
+
+** Présent
+
+comparaître
+
+* PARTICIPE
+
+** Présent
+
+comparaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai comparu
+tu as comparu
+il (elle) a comparu
+nous avons comparu
+vous avez comparu
+ils (elles) ont comparu
+
+** Plus-que-parfait
+
+j'avais comparu
+tu avais comparu
+il (elle) avait comparu
+nous avions comparu
+vous aviez comparu
+ils (elles) avaient comparu
+
+** Passé antérieur
+
+j'eus comparu
+tu eus comparu
+il (elle) eut comparu
+nous eûmes comparu
+vous eûtes comparu
+ils (elles) eurent comparu
+
+** Futur antérieur
+
+j'aurai comparu
+tu auras comparu
+il (elle) aura comparu
+nous aurons comparu
+vous aurez comparu
+ils (elles) auront comparu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais comparu
+tu aurais comparu
+il (elle) aurait comparu
+nous aurions comparu
+vous auriez comparu
+ils (elles) auraient comparu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie comparu
+que tu aies comparu
+qu’il (elle) ait comparu
+que nous ayons comparu
+que vous ayez comparu
+qu’ils (elles) aient comparu
+
+** Plus-que-parfait
+
+que j'eusse comparu
+que tu eusses comparu
+qu’il (elle) eût comparu
+que nous eussions comparu
+que vous eussiez comparu
+qu’ils (elles) eussent comparu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons comparu
+ayez comparu
+
+* INFINITIF
+
+** Passé
+
+avoir comparu
+
+* PARTICIPE
+
+** Passé
+
+ayant comparu
+comparu (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avertir
+
+* INDICATIF
+
+** Présent
+
+j'avertis
+tu avertis
+il (elle) avertit
+nous avertissons
+vous avertissez
+ils (elles) avertissent
+
+** Imparfait
+
+j'avertissais
+tu avertissais
+il (elle) avertissait
+nous avertissions
+vous avertissiez
+ils (elles) avertissaient
+
+** Passé simple
+
+j'avertis
+tu avertis
+il (elle) avertit
+nous avertîmes
+vous avertîtes
+ils (elles) avertirent
+
+** Futur simple
+
+j'avertirai
+tu avertiras
+il (elle) avertira
+nous avertirons
+vous avertirez
+ils (elles) avertiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'avertirais
+tu avertirais
+il (elle) avertirait
+nous avertirions
+vous avertiriez
+ils (elles) avertiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avertisse
+que tu avertisses
+qu’il (elle) avertisse
+que nous avertissions
+que vous avertissiez
+qu’ils (elles) avertissent
+
+** Imparfait
+
+que j'avertisse
+que tu avertisses
+qu’il (elle) avertît
+que nous avertissions
+que vous avertissiez
+qu’ils (elles) avertissent
+
+* IMPÉRATIF
+
+** Présent
+
+avertis
+avertissons
+avertissez
+
+* INFINITIF
+
+** Présent
+
+avertir
+
+* PARTICIPE
+
+** Présent
+
+avertissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai averti
+tu as averti
+il (elle) a averti
+nous avons averti
+vous avez averti
+ils (elles) ont averti
+
+** Plus-que-parfait
+
+j'avais averti
+tu avais averti
+il (elle) avait averti
+nous avions averti
+vous aviez averti
+ils (elles) avaient averti
+
+** Passé antérieur
+
+j'eus averti
+tu eus averti
+il (elle) eut averti
+nous eûmes averti
+vous eûtes averti
+ils (elles) eurent averti
+
+** Futur antérieur
+
+j'aurai averti
+tu auras averti
+il (elle) aura averti
+nous aurons averti
+vous aurez averti
+ils (elles) auront averti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais averti
+tu aurais averti
+il (elle) aurait averti
+nous aurions averti
+vous auriez averti
+ils (elles) auraient averti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie averti
+que tu aies averti
+qu’il (elle) ait averti
+que nous ayons averti
+que vous ayez averti
+qu’ils (elles) aient averti
+
+** Plus-que-parfait
+
+que j'eusse averti
+que tu eusses averti
+qu’il (elle) eût averti
+que nous eussions averti
+que vous eussiez averti
+qu’ils (elles) eussent averti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons averti
+ayez averti
+
+* INFINITIF
+
+** Passé
+
+avoir averti
+
+* PARTICIPE
+
+** Passé
+
+ayant averti
+averti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis averti(e)
+tu es averti(e)
+il (elle) est averti(e)
+nous sommes averti(e)s
+vous êtes averti(e)s
+ils (elles) sont averti(e)s
+
+** Imparfait
+
+j'étais averti(e)
+tu étais averti(e)
+il (elle) était averti(e)
+nous étions averti(e)s
+vous étiez averti(e)s
+ils (elles) étaient averti(e)s
+
+** Passé simple
+
+je fus averti(e)
+tu fus averti(e)
+il (elle) fut averti(e)
+nous fûmes averti(e)s
+vous fûtes averti(e)s
+ils (elles) furent averti(e)s
+
+** Futur simple
+
+je serai averti(e)
+tu seras averti(e)
+il (elle) sera averti(e)
+nous serons averti(e)s
+vous serez averti(e)s
+ils (elles) seront averti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais averti(e)
+tu serais averti(e)
+il (elle) serait averti(e)
+nous serions averti(e)s
+vous seriez averti(e)s
+ils (elles) seraient averti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois averti(e)
+que tu sois averti(e)
+qu’il (elle) soit averti(e)
+que nous soyons averti(e)s
+que vous soyez averti(e)s
+qu’ils (elles) soient averti(e)s
+
+** Imparfait
+
+que je fusse averti(e)
+que tu fusses averti(e)
+qu’il (elle) fût averti(e)
+que nous fussions averti(e)s
+que vous fussiez averti(e)s
+qu’ils (elles) fussent averti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons averti(e)s
+soyez averti(e)s
+
+* INFINITIF
+
+** Présent
+
+être averti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant averti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été averti(e)
+tu as été averti(e)
+il (elle) a été averti(e)
+nous avons été averti(e)s
+vous avez été averti(e)s
+ils (elles) ont été averti(e)s
+
+** Plus-que-parfait
+
+j'avais été averti(e)
+il (elle) avait été averti(e)
+nous avions été averti(e)s
+ils (elles) avaient été averti(e)s
+
+** Passé antérieur
+
+j'eus été averti(e)
+tu eus été averti(e)
+il (elle) eut été averti(e)
+nous eûmes été averti(e)s
+vous eûtes été averti(e)s
+ils (elles) eurent été averti(e)s
+
+** Futur antérieur
+
+j'aurai été averti(e)
+tu auras été averti(e)
+il (elle) aura été averti(e)
+nous aurons été averti(e)s
+vous aurez été averti(e)s
+ils (elles) auront été averti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été averti(e)
+j'aurais été averti(e)
+il (elle) aurait été averti(e)
+nous aurions été averti(e)s
+vous auriez été averti(e)s
+ils (elles) auraient été averti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été averti(e)
+que tu aies été averti(e)
+qu’il (elle) ait été averti(e)
+que nous ayons été averti(e)s
+que vous ayez été averti(e)s
+qu’ils (elles) aient été averti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été averti(e)
+que tu eusses été averti(e)
+qu’il (elle) eût été averti(e)
+que nous eussions été averti(e)s
+que vous eussiez été averti(e)s
+qu’ils (elles) eussent été averti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été averti(e)
+ayons été averti(e)s
+ayez été averti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été averti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été averti(e)(s)

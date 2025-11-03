@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe embarquer
+
+* INDICATIF
+
+** Présent
+
+j'embarque
+tu embarques
+il (elle) embarque
+nous embarquons
+vous embarquez
+ils (elles) embarquent
+
+** Imparfait
+
+j'embarquais
+tu embarquais
+il (elle) embarquait
+nous embarquions
+vous embarquiez
+ils (elles) embarquaient
+
+** Passé simple
+
+j'embarquai
+tu embarquas
+il (elle) embarqua
+nous embarquâmes
+vous embarquâtes
+ils (elles) embarquèrent
+
+** Futur simple
+
+j'embarquerai
+tu embarqueras
+il (elle) embarquera
+nous embarquerons
+vous embarquerez
+ils (elles) embarqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'embarquerais
+tu embarquerais
+il (elle) embarquerait
+nous embarquerions
+vous embarqueriez
+ils (elles) embarqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'embarque
+que tu embarques
+qu’il (elle) embarque
+que nous embarquions
+que vous embarquiez
+qu’ils (elles) embarquent
+
+** Imparfait
+
+que j'embarquasse
+que tu embarquasses
+qu’il (elle) embarquât
+que nous embarquassions
+que vous embarquassiez
+qu’ils (elles) embarquassent
+
+* IMPÉRATIF
+
+** Présent
+
+embarque
+embarquons
+embarquez
+
+* INFINITIF
+
+** Présent
+
+embarquer
+
+* PARTICIPE
+
+** Présent
+
+embarquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai embarqué
+tu as embarqué
+il (elle) a embarqué
+nous avons embarqué
+vous avez embarqué
+ils (elles) ont embarqué
+
+** Plus-que-parfait
+
+j'avais embarqué
+tu avais embarqué
+il (elle) avait embarqué
+nous avions embarqué
+vous aviez embarqué
+ils (elles) avaient embarqué
+
+** Passé antérieur
+
+j'eus embarqué
+tu eus embarqué
+il (elle) eut embarqué
+nous eûmes embarqué
+vous eûtes embarqué
+ils (elles) eurent embarqué
+
+** Futur antérieur
+
+j'aurai embarqué
+tu auras embarqué
+il (elle) aura embarqué
+nous aurons embarqué
+vous aurez embarqué
+ils (elles) auront embarqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais embarqué
+tu aurais embarqué
+il (elle) aurait embarqué
+nous aurions embarqué
+vous auriez embarqué
+ils (elles) auraient embarqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie embarqué
+que tu aies embarqué
+qu’il (elle) ait embarqué
+que nous ayons embarqué
+que vous ayez embarqué
+qu’ils (elles) aient embarqué
+
+** Plus-que-parfait
+
+que j'eusse embarqué
+que tu eusses embarqué
+qu’il (elle) eût embarqué
+que nous eussions embarqué
+que vous eussiez embarqué
+qu’ils (elles) eussent embarqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons embarqué
+ayez embarqué
+
+* INFINITIF
+
+** Passé
+
+avoir embarqué
+
+* PARTICIPE
+
+** Passé
+
+ayant embarqué
+embarqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis embarqué(e)
+tu es embarqué(e)
+il (elle) est embarqué(e)
+nous sommes embarqué(e)s
+vous êtes embarqué(e)s
+ils (elles) sont embarqué(e)s
+
+** Imparfait
+
+j'étais embarqué(e)
+tu étais embarqué(e)
+il (elle) était embarqué(e)
+nous étions embarqué(e)s
+vous étiez embarqué(e)s
+ils (elles) étaient embarqué(e)s
+
+** Passé simple
+
+je fus embarqué(e)
+tu fus embarqué(e)
+il (elle) fut embarqué(e)
+nous fûmes embarqué(e)s
+vous fûtes embarqué(e)s
+ils (elles) furent embarqué(e)s
+
+** Futur simple
+
+je serai embarqué(e)
+tu seras embarqué(e)
+il (elle) sera embarqué(e)
+nous serons embarqué(e)s
+vous serez embarqué(e)s
+ils (elles) seront embarqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais embarqué(e)
+tu serais embarqué(e)
+il (elle) serait embarqué(e)
+nous serions embarqué(e)s
+vous seriez embarqué(e)s
+ils (elles) seraient embarqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois embarqué(e)
+que tu sois embarqué(e)
+qu’il (elle) soit embarqué(e)
+que nous soyons embarqué(e)s
+que vous soyez embarqué(e)s
+qu’ils (elles) soient embarqué(e)s
+
+** Imparfait
+
+que je fusse embarqué(e)
+que tu fusses embarqué(e)
+qu’il (elle) fût embarqué(e)
+que nous fussions embarqué(e)s
+que vous fussiez embarqué(e)s
+qu’ils (elles) fussent embarqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons embarqué(e)s
+soyez embarqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être embarqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant embarqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été embarqué(e)
+tu as été embarqué(e)
+il (elle) a été embarqué(e)
+nous avons été embarqué(e)s
+vous avez été embarqué(e)s
+ils (elles) ont été embarqué(e)s
+
+** Plus-que-parfait
+
+j'avais été embarqué(e)
+il (elle) avait été embarqué(e)
+nous avions été embarqué(e)s
+ils (elles) avaient été embarqué(e)s
+
+** Passé antérieur
+
+j'eus été embarqué(e)
+tu eus été embarqué(e)
+il (elle) eut été embarqué(e)
+nous eûmes été embarqué(e)s
+vous eûtes été embarqué(e)s
+ils (elles) eurent été embarqué(e)s
+
+** Futur antérieur
+
+j'aurai été embarqué(e)
+tu auras été embarqué(e)
+il (elle) aura été embarqué(e)
+nous aurons été embarqué(e)s
+vous aurez été embarqué(e)s
+ils (elles) auront été embarqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été embarqué(e)
+j'aurais été embarqué(e)
+il (elle) aurait été embarqué(e)
+nous aurions été embarqué(e)s
+vous auriez été embarqué(e)s
+ils (elles) auraient été embarqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été embarqué(e)
+que tu aies été embarqué(e)
+qu’il (elle) ait été embarqué(e)
+que nous ayons été embarqué(e)s
+que vous ayez été embarqué(e)s
+qu’ils (elles) aient été embarqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été embarqué(e)
+que tu eusses été embarqué(e)
+qu’il (elle) eût été embarqué(e)
+que nous eussions été embarqué(e)s
+que vous eussiez été embarqué(e)s
+qu’ils (elles) eussent été embarqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été embarqué(e)
+ayons été embarqué(e)s
+ayez été embarqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été embarqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été embarqué(e)(s)

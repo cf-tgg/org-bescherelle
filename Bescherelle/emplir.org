@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emplir
+
+* INDICATIF
+
+** Présent
+
+j'emplis
+tu emplis
+il (elle) emplit
+nous emplissons
+vous emplissez
+ils (elles) emplissent
+
+** Imparfait
+
+j'emplissais
+tu emplissais
+il (elle) emplissait
+nous emplissions
+vous emplissiez
+ils (elles) emplissaient
+
+** Passé simple
+
+j'emplis
+tu emplis
+il (elle) emplit
+nous emplîmes
+vous emplîtes
+ils (elles) emplirent
+
+** Futur simple
+
+j'emplirai
+tu empliras
+il (elle) emplira
+nous emplirons
+vous emplirez
+ils (elles) empliront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emplirais
+tu emplirais
+il (elle) emplirait
+nous emplirions
+vous empliriez
+ils (elles) empliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emplisse
+que tu emplisses
+qu’il (elle) emplisse
+que nous emplissions
+que vous emplissiez
+qu’ils (elles) emplissent
+
+** Imparfait
+
+que j'emplisse
+que tu emplisses
+qu’il (elle) emplît
+que nous emplissions
+que vous emplissiez
+qu’ils (elles) emplissent
+
+* IMPÉRATIF
+
+** Présent
+
+emplis
+emplissons
+emplissez
+
+* INFINITIF
+
+** Présent
+
+emplir
+
+* PARTICIPE
+
+** Présent
+
+emplissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai empli
+tu as empli
+il (elle) a empli
+nous avons empli
+vous avez empli
+ils (elles) ont empli
+
+** Plus-que-parfait
+
+j'avais empli
+tu avais empli
+il (elle) avait empli
+nous avions empli
+vous aviez empli
+ils (elles) avaient empli
+
+** Passé antérieur
+
+j'eus empli
+tu eus empli
+il (elle) eut empli
+nous eûmes empli
+vous eûtes empli
+ils (elles) eurent empli
+
+** Futur antérieur
+
+j'aurai empli
+tu auras empli
+il (elle) aura empli
+nous aurons empli
+vous aurez empli
+ils (elles) auront empli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais empli
+tu aurais empli
+il (elle) aurait empli
+nous aurions empli
+vous auriez empli
+ils (elles) auraient empli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie empli
+que tu aies empli
+qu’il (elle) ait empli
+que nous ayons empli
+que vous ayez empli
+qu’ils (elles) aient empli
+
+** Plus-que-parfait
+
+que j'eusse empli
+que tu eusses empli
+qu’il (elle) eût empli
+que nous eussions empli
+que vous eussiez empli
+qu’ils (elles) eussent empli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons empli
+ayez empli
+
+* INFINITIF
+
+** Passé
+
+avoir empli
+
+* PARTICIPE
+
+** Passé
+
+ayant empli
+empli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis empli(e)
+tu es empli(e)
+il (elle) est empli(e)
+nous sommes empli(e)s
+vous êtes empli(e)s
+ils (elles) sont empli(e)s
+
+** Imparfait
+
+j'étais empli(e)
+tu étais empli(e)
+il (elle) était empli(e)
+nous étions empli(e)s
+vous étiez empli(e)s
+ils (elles) étaient empli(e)s
+
+** Passé simple
+
+je fus empli(e)
+tu fus empli(e)
+il (elle) fut empli(e)
+nous fûmes empli(e)s
+vous fûtes empli(e)s
+ils (elles) furent empli(e)s
+
+** Futur simple
+
+je serai empli(e)
+tu seras empli(e)
+il (elle) sera empli(e)
+nous serons empli(e)s
+vous serez empli(e)s
+ils (elles) seront empli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais empli(e)
+tu serais empli(e)
+il (elle) serait empli(e)
+nous serions empli(e)s
+vous seriez empli(e)s
+ils (elles) seraient empli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois empli(e)
+que tu sois empli(e)
+qu’il (elle) soit empli(e)
+que nous soyons empli(e)s
+que vous soyez empli(e)s
+qu’ils (elles) soient empli(e)s
+
+** Imparfait
+
+que je fusse empli(e)
+que tu fusses empli(e)
+qu’il (elle) fût empli(e)
+que nous fussions empli(e)s
+que vous fussiez empli(e)s
+qu’ils (elles) fussent empli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons empli(e)s
+soyez empli(e)s
+
+* INFINITIF
+
+** Présent
+
+être empli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant empli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été empli(e)
+tu as été empli(e)
+il (elle) a été empli(e)
+nous avons été empli(e)s
+vous avez été empli(e)s
+ils (elles) ont été empli(e)s
+
+** Plus-que-parfait
+
+j'avais été empli(e)
+il (elle) avait été empli(e)
+nous avions été empli(e)s
+ils (elles) avaient été empli(e)s
+
+** Passé antérieur
+
+j'eus été empli(e)
+tu eus été empli(e)
+il (elle) eut été empli(e)
+nous eûmes été empli(e)s
+vous eûtes été empli(e)s
+ils (elles) eurent été empli(e)s
+
+** Futur antérieur
+
+j'aurai été empli(e)
+tu auras été empli(e)
+il (elle) aura été empli(e)
+nous aurons été empli(e)s
+vous aurez été empli(e)s
+ils (elles) auront été empli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été empli(e)
+j'aurais été empli(e)
+il (elle) aurait été empli(e)
+nous aurions été empli(e)s
+vous auriez été empli(e)s
+ils (elles) auraient été empli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été empli(e)
+que tu aies été empli(e)
+qu’il (elle) ait été empli(e)
+que nous ayons été empli(e)s
+que vous ayez été empli(e)s
+qu’ils (elles) aient été empli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été empli(e)
+que tu eusses été empli(e)
+qu’il (elle) eût été empli(e)
+que nous eussions été empli(e)s
+que vous eussiez été empli(e)s
+qu’ils (elles) eussent été empli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été empli(e)
+ayons été empli(e)s
+ayez été empli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été empli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été empli(e)(s)

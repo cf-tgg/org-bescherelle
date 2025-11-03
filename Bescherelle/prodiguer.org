@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prodiguer
+
+* INDICATIF
+
+** Présent
+
+je prodigue
+tu prodigues
+il (elle) prodigue
+nous prodiguons
+vous prodiguez
+ils (elles) prodiguent
+
+** Imparfait
+
+je prodiguais
+tu prodiguais
+il (elle) prodiguait
+nous prodiguions
+vous prodiguiez
+ils (elles) prodiguaient
+
+** Passé simple
+
+je prodiguai
+tu prodiguas
+il (elle) prodigua
+nous prodiguâmes
+vous prodiguâtes
+ils (elles) prodiguèrent
+
+** Futur simple
+
+je prodiguerai
+tu prodigueras
+il (elle) prodiguera
+nous prodiguerons
+vous prodiguerez
+ils (elles) prodigueront
+
+* CONDITIONNEL
+
+** Présent
+
+je prodiguerais
+tu prodiguerais
+il (elle) prodiguerait
+nous prodiguerions
+vous prodigueriez
+ils (elles) prodigueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prodigue
+que tu prodigues
+qu’il (elle) prodigue
+que nous prodiguions
+que vous prodiguiez
+qu’ils (elles) prodiguent
+
+** Imparfait
+
+que je prodiguasse
+que tu prodiguasses
+qu’il (elle) prodiguât
+que nous prodiguassions
+que vous prodiguassiez
+qu’ils (elles) prodiguassent
+
+* IMPÉRATIF
+
+** Présent
+
+prodigue
+prodiguons
+prodiguez
+
+* INFINITIF
+
+** Présent
+
+prodiguer
+
+* PARTICIPE
+
+** Présent
+
+prodiguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prodigué
+tu as prodigué
+il (elle) a prodigué
+nous avons prodigué
+vous avez prodigué
+ils (elles) ont prodigué
+
+** Plus-que-parfait
+
+j'avais prodigué
+tu avais prodigué
+il (elle) avait prodigué
+nous avions prodigué
+vous aviez prodigué
+ils (elles) avaient prodigué
+
+** Passé antérieur
+
+j'eus prodigué
+tu eus prodigué
+il (elle) eut prodigué
+nous eûmes prodigué
+vous eûtes prodigué
+ils (elles) eurent prodigué
+
+** Futur antérieur
+
+j'aurai prodigué
+tu auras prodigué
+il (elle) aura prodigué
+nous aurons prodigué
+vous aurez prodigué
+ils (elles) auront prodigué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prodigué
+tu aurais prodigué
+il (elle) aurait prodigué
+nous aurions prodigué
+vous auriez prodigué
+ils (elles) auraient prodigué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prodigué
+que tu aies prodigué
+qu’il (elle) ait prodigué
+que nous ayons prodigué
+que vous ayez prodigué
+qu’ils (elles) aient prodigué
+
+** Plus-que-parfait
+
+que j'eusse prodigué
+que tu eusses prodigué
+qu’il (elle) eût prodigué
+que nous eussions prodigué
+que vous eussiez prodigué
+qu’ils (elles) eussent prodigué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prodigué
+ayez prodigué
+
+* INFINITIF
+
+** Passé
+
+avoir prodigué
+
+* PARTICIPE
+
+** Passé
+
+ayant prodigué
+prodigué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prodigué(e)
+tu es prodigué(e)
+il (elle) est prodigué(e)
+nous sommes prodigué(e)s
+vous êtes prodigué(e)s
+ils (elles) sont prodigué(e)s
+
+** Imparfait
+
+j'étais prodigué(e)
+tu étais prodigué(e)
+il (elle) était prodigué(e)
+nous étions prodigué(e)s
+vous étiez prodigué(e)s
+ils (elles) étaient prodigué(e)s
+
+** Passé simple
+
+je fus prodigué(e)
+tu fus prodigué(e)
+il (elle) fut prodigué(e)
+nous fûmes prodigué(e)s
+vous fûtes prodigué(e)s
+ils (elles) furent prodigué(e)s
+
+** Futur simple
+
+je serai prodigué(e)
+tu seras prodigué(e)
+il (elle) sera prodigué(e)
+nous serons prodigué(e)s
+vous serez prodigué(e)s
+ils (elles) seront prodigué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prodigué(e)
+tu serais prodigué(e)
+il (elle) serait prodigué(e)
+nous serions prodigué(e)s
+vous seriez prodigué(e)s
+ils (elles) seraient prodigué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prodigué(e)
+que tu sois prodigué(e)
+qu’il (elle) soit prodigué(e)
+que nous soyons prodigué(e)s
+que vous soyez prodigué(e)s
+qu’ils (elles) soient prodigué(e)s
+
+** Imparfait
+
+que je fusse prodigué(e)
+que tu fusses prodigué(e)
+qu’il (elle) fût prodigué(e)
+que nous fussions prodigué(e)s
+que vous fussiez prodigué(e)s
+qu’ils (elles) fussent prodigué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prodigué(e)s
+soyez prodigué(e)s
+
+* INFINITIF
+
+** Présent
+
+être prodigué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prodigué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prodigué(e)
+tu as été prodigué(e)
+il (elle) a été prodigué(e)
+nous avons été prodigué(e)s
+vous avez été prodigué(e)s
+ils (elles) ont été prodigué(e)s
+
+** Plus-que-parfait
+
+j'avais été prodigué(e)
+il (elle) avait été prodigué(e)
+nous avions été prodigué(e)s
+ils (elles) avaient été prodigué(e)s
+
+** Passé antérieur
+
+j'eus été prodigué(e)
+tu eus été prodigué(e)
+il (elle) eut été prodigué(e)
+nous eûmes été prodigué(e)s
+vous eûtes été prodigué(e)s
+ils (elles) eurent été prodigué(e)s
+
+** Futur antérieur
+
+j'aurai été prodigué(e)
+tu auras été prodigué(e)
+il (elle) aura été prodigué(e)
+nous aurons été prodigué(e)s
+vous aurez été prodigué(e)s
+ils (elles) auront été prodigué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prodigué(e)
+j'aurais été prodigué(e)
+il (elle) aurait été prodigué(e)
+nous aurions été prodigué(e)s
+vous auriez été prodigué(e)s
+ils (elles) auraient été prodigué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prodigué(e)
+que tu aies été prodigué(e)
+qu’il (elle) ait été prodigué(e)
+que nous ayons été prodigué(e)s
+que vous ayez été prodigué(e)s
+qu’ils (elles) aient été prodigué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prodigué(e)
+que tu eusses été prodigué(e)
+qu’il (elle) eût été prodigué(e)
+que nous eussions été prodigué(e)s
+que vous eussiez été prodigué(e)s
+qu’ils (elles) eussent été prodigué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prodigué(e)
+ayons été prodigué(e)s
+ayez été prodigué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prodigué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prodigué(e)(s)

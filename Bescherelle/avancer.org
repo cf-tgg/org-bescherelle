@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avancer
+
+* INDICATIF
+
+** Présent
+
+j'avance
+tu avances
+il (elle) avance
+nous avançons
+vous avancez
+ils (elles) avancent
+
+** Imparfait
+
+j'avançais
+tu avançais
+il (elle) avançait
+nous avancions
+vous avanciez
+ils (elles) avançaient
+
+** Passé simple
+
+j'avançai
+tu avanças
+il (elle) avança
+nous avançâmes
+vous avançâtes
+ils (elles) avancèrent
+
+** Futur simple
+
+j'avancerai
+tu avanceras
+il (elle) avancera
+nous avancerons
+vous avancerez
+ils (elles) avanceront
+
+* CONDITIONNEL
+
+** Présent
+
+j'avancerais
+tu avancerais
+il (elle) avancerait
+nous avancerions
+vous avanceriez
+ils (elles) avanceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avance
+que tu avances
+qu’il (elle) avance
+que nous avancions
+que vous avanciez
+qu’ils (elles) avancent
+
+** Imparfait
+
+que j'avançasse
+que tu avançasses
+qu’il (elle) avançât
+que nous avançassions
+que vous avançassiez
+qu’ils (elles) avançassent
+
+* IMPÉRATIF
+
+** Présent
+
+avance
+avançons
+avancez
+
+* INFINITIF
+
+** Présent
+
+avancer
+
+* PARTICIPE
+
+** Présent
+
+avançant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai avancé
+tu as avancé
+il (elle) a avancé
+nous avons avancé
+vous avez avancé
+ils (elles) ont avancé
+
+** Plus-que-parfait
+
+j'avais avancé
+tu avais avancé
+il (elle) avait avancé
+nous avions avancé
+vous aviez avancé
+ils (elles) avaient avancé
+
+** Passé antérieur
+
+j'eus avancé
+tu eus avancé
+il (elle) eut avancé
+nous eûmes avancé
+vous eûtes avancé
+ils (elles) eurent avancé
+
+** Futur antérieur
+
+j'aurai avancé
+tu auras avancé
+il (elle) aura avancé
+nous aurons avancé
+vous aurez avancé
+ils (elles) auront avancé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais avancé
+tu aurais avancé
+il (elle) aurait avancé
+nous aurions avancé
+vous auriez avancé
+ils (elles) auraient avancé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie avancé
+que tu aies avancé
+qu’il (elle) ait avancé
+que nous ayons avancé
+que vous ayez avancé
+qu’ils (elles) aient avancé
+
+** Plus-que-parfait
+
+que j'eusse avancé
+que tu eusses avancé
+qu’il (elle) eût avancé
+que nous eussions avancé
+que vous eussiez avancé
+qu’ils (elles) eussent avancé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons avancé
+ayez avancé
+
+* INFINITIF
+
+** Passé
+
+avoir avancé
+
+* PARTICIPE
+
+** Passé
+
+ayant avancé
+avancé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis avancé(e)
+tu es avancé(e)
+il (elle) est avancé(e)
+nous sommes avancé(e)s
+vous êtes avancé(e)s
+ils (elles) sont avancé(e)s
+
+** Imparfait
+
+j'étais avancé(e)
+tu étais avancé(e)
+il (elle) était avancé(e)
+nous étions avancé(e)s
+vous étiez avancé(e)s
+ils (elles) étaient avancé(e)s
+
+** Passé simple
+
+je fus avancé(e)
+tu fus avancé(e)
+il (elle) fut avancé(e)
+nous fûmes avancé(e)s
+vous fûtes avancé(e)s
+ils (elles) furent avancé(e)s
+
+** Futur simple
+
+je serai avancé(e)
+tu seras avancé(e)
+il (elle) sera avancé(e)
+nous serons avancé(e)s
+vous serez avancé(e)s
+ils (elles) seront avancé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais avancé(e)
+tu serais avancé(e)
+il (elle) serait avancé(e)
+nous serions avancé(e)s
+vous seriez avancé(e)s
+ils (elles) seraient avancé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois avancé(e)
+que tu sois avancé(e)
+qu’il (elle) soit avancé(e)
+que nous soyons avancé(e)s
+que vous soyez avancé(e)s
+qu’ils (elles) soient avancé(e)s
+
+** Imparfait
+
+que je fusse avancé(e)
+que tu fusses avancé(e)
+qu’il (elle) fût avancé(e)
+que nous fussions avancé(e)s
+que vous fussiez avancé(e)s
+qu’ils (elles) fussent avancé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons avancé(e)s
+soyez avancé(e)s
+
+* INFINITIF
+
+** Présent
+
+être avancé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant avancé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été avancé(e)
+tu as été avancé(e)
+il (elle) a été avancé(e)
+nous avons été avancé(e)s
+vous avez été avancé(e)s
+ils (elles) ont été avancé(e)s
+
+** Plus-que-parfait
+
+j'avais été avancé(e)
+il (elle) avait été avancé(e)
+nous avions été avancé(e)s
+ils (elles) avaient été avancé(e)s
+
+** Passé antérieur
+
+j'eus été avancé(e)
+tu eus été avancé(e)
+il (elle) eut été avancé(e)
+nous eûmes été avancé(e)s
+vous eûtes été avancé(e)s
+ils (elles) eurent été avancé(e)s
+
+** Futur antérieur
+
+j'aurai été avancé(e)
+tu auras été avancé(e)
+il (elle) aura été avancé(e)
+nous aurons été avancé(e)s
+vous aurez été avancé(e)s
+ils (elles) auront été avancé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été avancé(e)
+j'aurais été avancé(e)
+il (elle) aurait été avancé(e)
+nous aurions été avancé(e)s
+vous auriez été avancé(e)s
+ils (elles) auraient été avancé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été avancé(e)
+que tu aies été avancé(e)
+qu’il (elle) ait été avancé(e)
+que nous ayons été avancé(e)s
+que vous ayez été avancé(e)s
+qu’ils (elles) aient été avancé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été avancé(e)
+que tu eusses été avancé(e)
+qu’il (elle) eût été avancé(e)
+que nous eussions été avancé(e)s
+que vous eussiez été avancé(e)s
+qu’ils (elles) eussent été avancé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été avancé(e)
+ayons été avancé(e)s
+ayez été avancé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été avancé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été avancé(e)(s)

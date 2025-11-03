@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe formuler
+
+* INDICATIF
+
+** Présent
+
+je formule
+tu formules
+il (elle) formule
+nous formulons
+vous formulez
+ils (elles) formulent
+
+** Imparfait
+
+je formulais
+tu formulais
+il (elle) formulait
+nous formulions
+vous formuliez
+ils (elles) formulaient
+
+** Passé simple
+
+je formulai
+tu formulas
+il (elle) formula
+nous formulâmes
+vous formulâtes
+ils (elles) formulèrent
+
+** Futur simple
+
+je formulerai
+tu formuleras
+il (elle) formulera
+nous formulerons
+vous formulerez
+ils (elles) formuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je formulerais
+tu formulerais
+il (elle) formulerait
+nous formulerions
+vous formuleriez
+ils (elles) formuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je formule
+que tu formules
+qu’il (elle) formule
+que nous formulions
+que vous formuliez
+qu’ils (elles) formulent
+
+** Imparfait
+
+que je formulasse
+que tu formulasses
+qu’il (elle) formulât
+que nous formulassions
+que vous formulassiez
+qu’ils (elles) formulassent
+
+* IMPÉRATIF
+
+** Présent
+
+formule
+formulons
+formulez
+
+* INFINITIF
+
+** Présent
+
+formuler
+
+* PARTICIPE
+
+** Présent
+
+formulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai formulé
+tu as formulé
+il (elle) a formulé
+nous avons formulé
+vous avez formulé
+ils (elles) ont formulé
+
+** Plus-que-parfait
+
+j'avais formulé
+tu avais formulé
+il (elle) avait formulé
+nous avions formulé
+vous aviez formulé
+ils (elles) avaient formulé
+
+** Passé antérieur
+
+j'eus formulé
+tu eus formulé
+il (elle) eut formulé
+nous eûmes formulé
+vous eûtes formulé
+ils (elles) eurent formulé
+
+** Futur antérieur
+
+j'aurai formulé
+tu auras formulé
+il (elle) aura formulé
+nous aurons formulé
+vous aurez formulé
+ils (elles) auront formulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais formulé
+tu aurais formulé
+il (elle) aurait formulé
+nous aurions formulé
+vous auriez formulé
+ils (elles) auraient formulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie formulé
+que tu aies formulé
+qu’il (elle) ait formulé
+que nous ayons formulé
+que vous ayez formulé
+qu’ils (elles) aient formulé
+
+** Plus-que-parfait
+
+que j'eusse formulé
+que tu eusses formulé
+qu’il (elle) eût formulé
+que nous eussions formulé
+que vous eussiez formulé
+qu’ils (elles) eussent formulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons formulé
+ayez formulé
+
+* INFINITIF
+
+** Passé
+
+avoir formulé
+
+* PARTICIPE
+
+** Passé
+
+ayant formulé
+formulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis formulé(e)
+tu es formulé(e)
+il (elle) est formulé(e)
+nous sommes formulé(e)s
+vous êtes formulé(e)s
+ils (elles) sont formulé(e)s
+
+** Imparfait
+
+j'étais formulé(e)
+tu étais formulé(e)
+il (elle) était formulé(e)
+nous étions formulé(e)s
+vous étiez formulé(e)s
+ils (elles) étaient formulé(e)s
+
+** Passé simple
+
+je fus formulé(e)
+tu fus formulé(e)
+il (elle) fut formulé(e)
+nous fûmes formulé(e)s
+vous fûtes formulé(e)s
+ils (elles) furent formulé(e)s
+
+** Futur simple
+
+je serai formulé(e)
+tu seras formulé(e)
+il (elle) sera formulé(e)
+nous serons formulé(e)s
+vous serez formulé(e)s
+ils (elles) seront formulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais formulé(e)
+tu serais formulé(e)
+il (elle) serait formulé(e)
+nous serions formulé(e)s
+vous seriez formulé(e)s
+ils (elles) seraient formulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois formulé(e)
+que tu sois formulé(e)
+qu’il (elle) soit formulé(e)
+que nous soyons formulé(e)s
+que vous soyez formulé(e)s
+qu’ils (elles) soient formulé(e)s
+
+** Imparfait
+
+que je fusse formulé(e)
+que tu fusses formulé(e)
+qu’il (elle) fût formulé(e)
+que nous fussions formulé(e)s
+que vous fussiez formulé(e)s
+qu’ils (elles) fussent formulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons formulé(e)s
+soyez formulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être formulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant formulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été formulé(e)
+tu as été formulé(e)
+il (elle) a été formulé(e)
+nous avons été formulé(e)s
+vous avez été formulé(e)s
+ils (elles) ont été formulé(e)s
+
+** Plus-que-parfait
+
+j'avais été formulé(e)
+il (elle) avait été formulé(e)
+nous avions été formulé(e)s
+ils (elles) avaient été formulé(e)s
+
+** Passé antérieur
+
+j'eus été formulé(e)
+tu eus été formulé(e)
+il (elle) eut été formulé(e)
+nous eûmes été formulé(e)s
+vous eûtes été formulé(e)s
+ils (elles) eurent été formulé(e)s
+
+** Futur antérieur
+
+j'aurai été formulé(e)
+tu auras été formulé(e)
+il (elle) aura été formulé(e)
+nous aurons été formulé(e)s
+vous aurez été formulé(e)s
+ils (elles) auront été formulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été formulé(e)
+j'aurais été formulé(e)
+il (elle) aurait été formulé(e)
+nous aurions été formulé(e)s
+vous auriez été formulé(e)s
+ils (elles) auraient été formulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été formulé(e)
+que tu aies été formulé(e)
+qu’il (elle) ait été formulé(e)
+que nous ayons été formulé(e)s
+que vous ayez été formulé(e)s
+qu’ils (elles) aient été formulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été formulé(e)
+que tu eusses été formulé(e)
+qu’il (elle) eût été formulé(e)
+que nous eussions été formulé(e)s
+que vous eussiez été formulé(e)s
+qu’ils (elles) eussent été formulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été formulé(e)
+ayons été formulé(e)s
+ayez été formulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été formulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été formulé(e)(s)

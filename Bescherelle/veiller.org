@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe veiller
+
+* INDICATIF
+
+** Présent
+
+je veille
+tu veilles
+il (elle) veille
+nous veillons
+vous veillez
+ils (elles) veillent
+
+** Imparfait
+
+je veillais
+tu veillais
+il (elle) veillait
+nous veillions
+vous veilliez
+ils (elles) veillaient
+
+** Passé simple
+
+je veillai
+tu veillas
+il (elle) veilla
+nous veillâmes
+vous veillâtes
+ils (elles) veillèrent
+
+** Futur simple
+
+je veillerai
+tu veilleras
+il (elle) veillera
+nous veillerons
+vous veillerez
+ils (elles) veilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je veillerais
+tu veillerais
+il (elle) veillerait
+nous veillerions
+vous veilleriez
+ils (elles) veilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je veille
+que tu veilles
+qu’il (elle) veille
+que nous veillions
+que vous veilliez
+qu’ils (elles) veillent
+
+** Imparfait
+
+que je veillasse
+que tu veillasses
+qu’il (elle) veillât
+que nous veillassions
+que vous veillassiez
+qu’ils (elles) veillassent
+
+* IMPÉRATIF
+
+** Présent
+
+veille
+veillons
+veillez
+
+* INFINITIF
+
+** Présent
+
+veiller
+
+* PARTICIPE
+
+** Présent
+
+veillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai veillé
+tu as veillé
+il (elle) a veillé
+nous avons veillé
+vous avez veillé
+ils (elles) ont veillé
+
+** Plus-que-parfait
+
+j'avais veillé
+tu avais veillé
+il (elle) avait veillé
+nous avions veillé
+vous aviez veillé
+ils (elles) avaient veillé
+
+** Passé antérieur
+
+j'eus veillé
+tu eus veillé
+il (elle) eut veillé
+nous eûmes veillé
+vous eûtes veillé
+ils (elles) eurent veillé
+
+** Futur antérieur
+
+j'aurai veillé
+tu auras veillé
+il (elle) aura veillé
+nous aurons veillé
+vous aurez veillé
+ils (elles) auront veillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais veillé
+tu aurais veillé
+il (elle) aurait veillé
+nous aurions veillé
+vous auriez veillé
+ils (elles) auraient veillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie veillé
+que tu aies veillé
+qu’il (elle) ait veillé
+que nous ayons veillé
+que vous ayez veillé
+qu’ils (elles) aient veillé
+
+** Plus-que-parfait
+
+que j'eusse veillé
+que tu eusses veillé
+qu’il (elle) eût veillé
+que nous eussions veillé
+que vous eussiez veillé
+qu’ils (elles) eussent veillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons veillé
+ayez veillé
+
+* INFINITIF
+
+** Passé
+
+avoir veillé
+
+* PARTICIPE
+
+** Passé
+
+ayant veillé
+veillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis veillé(e)
+tu es veillé(e)
+il (elle) est veillé(e)
+nous sommes veillé(e)s
+vous êtes veillé(e)s
+ils (elles) sont veillé(e)s
+
+** Imparfait
+
+j'étais veillé(e)
+tu étais veillé(e)
+il (elle) était veillé(e)
+nous étions veillé(e)s
+vous étiez veillé(e)s
+ils (elles) étaient veillé(e)s
+
+** Passé simple
+
+je fus veillé(e)
+tu fus veillé(e)
+il (elle) fut veillé(e)
+nous fûmes veillé(e)s
+vous fûtes veillé(e)s
+ils (elles) furent veillé(e)s
+
+** Futur simple
+
+je serai veillé(e)
+tu seras veillé(e)
+il (elle) sera veillé(e)
+nous serons veillé(e)s
+vous serez veillé(e)s
+ils (elles) seront veillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais veillé(e)
+tu serais veillé(e)
+il (elle) serait veillé(e)
+nous serions veillé(e)s
+vous seriez veillé(e)s
+ils (elles) seraient veillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois veillé(e)
+que tu sois veillé(e)
+qu’il (elle) soit veillé(e)
+que nous soyons veillé(e)s
+que vous soyez veillé(e)s
+qu’ils (elles) soient veillé(e)s
+
+** Imparfait
+
+que je fusse veillé(e)
+que tu fusses veillé(e)
+qu’il (elle) fût veillé(e)
+que nous fussions veillé(e)s
+que vous fussiez veillé(e)s
+qu’ils (elles) fussent veillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons veillé(e)s
+soyez veillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être veillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant veillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été veillé(e)
+tu as été veillé(e)
+il (elle) a été veillé(e)
+nous avons été veillé(e)s
+vous avez été veillé(e)s
+ils (elles) ont été veillé(e)s
+
+** Plus-que-parfait
+
+j'avais été veillé(e)
+il (elle) avait été veillé(e)
+nous avions été veillé(e)s
+ils (elles) avaient été veillé(e)s
+
+** Passé antérieur
+
+j'eus été veillé(e)
+tu eus été veillé(e)
+il (elle) eut été veillé(e)
+nous eûmes été veillé(e)s
+vous eûtes été veillé(e)s
+ils (elles) eurent été veillé(e)s
+
+** Futur antérieur
+
+j'aurai été veillé(e)
+tu auras été veillé(e)
+il (elle) aura été veillé(e)
+nous aurons été veillé(e)s
+vous aurez été veillé(e)s
+ils (elles) auront été veillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été veillé(e)
+j'aurais été veillé(e)
+il (elle) aurait été veillé(e)
+nous aurions été veillé(e)s
+vous auriez été veillé(e)s
+ils (elles) auraient été veillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été veillé(e)
+que tu aies été veillé(e)
+qu’il (elle) ait été veillé(e)
+que nous ayons été veillé(e)s
+que vous ayez été veillé(e)s
+qu’ils (elles) aient été veillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été veillé(e)
+que tu eusses été veillé(e)
+qu’il (elle) eût été veillé(e)
+que nous eussions été veillé(e)s
+que vous eussiez été veillé(e)s
+qu’ils (elles) eussent été veillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été veillé(e)
+ayons été veillé(e)s
+ayez été veillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été veillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été veillé(e)(s)

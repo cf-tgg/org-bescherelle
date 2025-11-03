@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe additionner
+
+* INDICATIF
+
+** Présent
+
+j'additionne
+tu additionnes
+il (elle) additionne
+nous additionnons
+vous additionnez
+ils (elles) additionnent
+
+** Imparfait
+
+j'additionnais
+tu additionnais
+il (elle) additionnait
+nous additionnions
+vous additionniez
+ils (elles) additionnaient
+
+** Passé simple
+
+j'additionnai
+tu additionnas
+il (elle) additionna
+nous additionnâmes
+vous additionnâtes
+ils (elles) additionnèrent
+
+** Futur simple
+
+j'additionnerai
+tu additionneras
+il (elle) additionnera
+nous additionnerons
+vous additionnerez
+ils (elles) additionneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'additionnerais
+tu additionnerais
+il (elle) additionnerait
+nous additionnerions
+vous additionneriez
+ils (elles) additionneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'additionne
+que tu additionnes
+qu’il (elle) additionne
+que nous additionnions
+que vous additionniez
+qu’ils (elles) additionnent
+
+** Imparfait
+
+que j'additionnasse
+que tu additionnasses
+qu’il (elle) additionnât
+que nous additionnassions
+que vous additionnassiez
+qu’ils (elles) additionnassent
+
+* IMPÉRATIF
+
+** Présent
+
+additionne
+additionnons
+additionnez
+
+* INFINITIF
+
+** Présent
+
+additionner
+
+* PARTICIPE
+
+** Présent
+
+additionnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai additionné
+tu as additionné
+il (elle) a additionné
+nous avons additionné
+vous avez additionné
+ils (elles) ont additionné
+
+** Plus-que-parfait
+
+j'avais additionné
+tu avais additionné
+il (elle) avait additionné
+nous avions additionné
+vous aviez additionné
+ils (elles) avaient additionné
+
+** Passé antérieur
+
+j'eus additionné
+tu eus additionné
+il (elle) eut additionné
+nous eûmes additionné
+vous eûtes additionné
+ils (elles) eurent additionné
+
+** Futur antérieur
+
+j'aurai additionné
+tu auras additionné
+il (elle) aura additionné
+nous aurons additionné
+vous aurez additionné
+ils (elles) auront additionné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais additionné
+tu aurais additionné
+il (elle) aurait additionné
+nous aurions additionné
+vous auriez additionné
+ils (elles) auraient additionné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie additionné
+que tu aies additionné
+qu’il (elle) ait additionné
+que nous ayons additionné
+que vous ayez additionné
+qu’ils (elles) aient additionné
+
+** Plus-que-parfait
+
+que j'eusse additionné
+que tu eusses additionné
+qu’il (elle) eût additionné
+que nous eussions additionné
+que vous eussiez additionné
+qu’ils (elles) eussent additionné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons additionné
+ayez additionné
+
+* INFINITIF
+
+** Passé
+
+avoir additionné
+
+* PARTICIPE
+
+** Passé
+
+ayant additionné
+additionné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis additionné(e)
+tu es additionné(e)
+il (elle) est additionné(e)
+nous sommes additionné(e)s
+vous êtes additionné(e)s
+ils (elles) sont additionné(e)s
+
+** Imparfait
+
+j'étais additionné(e)
+tu étais additionné(e)
+il (elle) était additionné(e)
+nous étions additionné(e)s
+vous étiez additionné(e)s
+ils (elles) étaient additionné(e)s
+
+** Passé simple
+
+je fus additionné(e)
+tu fus additionné(e)
+il (elle) fut additionné(e)
+nous fûmes additionné(e)s
+vous fûtes additionné(e)s
+ils (elles) furent additionné(e)s
+
+** Futur simple
+
+je serai additionné(e)
+tu seras additionné(e)
+il (elle) sera additionné(e)
+nous serons additionné(e)s
+vous serez additionné(e)s
+ils (elles) seront additionné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais additionné(e)
+tu serais additionné(e)
+il (elle) serait additionné(e)
+nous serions additionné(e)s
+vous seriez additionné(e)s
+ils (elles) seraient additionné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois additionné(e)
+que tu sois additionné(e)
+qu’il (elle) soit additionné(e)
+que nous soyons additionné(e)s
+que vous soyez additionné(e)s
+qu’ils (elles) soient additionné(e)s
+
+** Imparfait
+
+que je fusse additionné(e)
+que tu fusses additionné(e)
+qu’il (elle) fût additionné(e)
+que nous fussions additionné(e)s
+que vous fussiez additionné(e)s
+qu’ils (elles) fussent additionné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons additionné(e)s
+soyez additionné(e)s
+
+* INFINITIF
+
+** Présent
+
+être additionné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant additionné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été additionné(e)
+tu as été additionné(e)
+il (elle) a été additionné(e)
+nous avons été additionné(e)s
+vous avez été additionné(e)s
+ils (elles) ont été additionné(e)s
+
+** Plus-que-parfait
+
+j'avais été additionné(e)
+il (elle) avait été additionné(e)
+nous avions été additionné(e)s
+ils (elles) avaient été additionné(e)s
+
+** Passé antérieur
+
+j'eus été additionné(e)
+tu eus été additionné(e)
+il (elle) eut été additionné(e)
+nous eûmes été additionné(e)s
+vous eûtes été additionné(e)s
+ils (elles) eurent été additionné(e)s
+
+** Futur antérieur
+
+j'aurai été additionné(e)
+tu auras été additionné(e)
+il (elle) aura été additionné(e)
+nous aurons été additionné(e)s
+vous aurez été additionné(e)s
+ils (elles) auront été additionné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été additionné(e)
+j'aurais été additionné(e)
+il (elle) aurait été additionné(e)
+nous aurions été additionné(e)s
+vous auriez été additionné(e)s
+ils (elles) auraient été additionné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été additionné(e)
+que tu aies été additionné(e)
+qu’il (elle) ait été additionné(e)
+que nous ayons été additionné(e)s
+que vous ayez été additionné(e)s
+qu’ils (elles) aient été additionné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été additionné(e)
+que tu eusses été additionné(e)
+qu’il (elle) eût été additionné(e)
+que nous eussions été additionné(e)s
+que vous eussiez été additionné(e)s
+qu’ils (elles) eussent été additionné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été additionné(e)
+ayons été additionné(e)s
+ayez été additionné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été additionné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été additionné(e)(s)

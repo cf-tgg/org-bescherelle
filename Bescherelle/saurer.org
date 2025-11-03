@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saurer
+
+* INDICATIF
+
+** Présent
+
+je saure
+tu saures
+il (elle) saure
+nous saurons
+vous saurez
+ils (elles) saurent
+
+** Imparfait
+
+je saurais
+tu saurais
+il (elle) saurait
+nous saurions
+vous sauriez
+ils (elles) sauraient
+
+** Passé simple
+
+je saurai
+tu sauras
+il (elle) saura
+nous saurâmes
+vous saurâtes
+ils (elles) saurèrent
+
+** Futur simple
+
+je saurerai
+tu saureras
+il (elle) saurera
+nous saurerons
+vous saurerez
+ils (elles) saureront
+
+* CONDITIONNEL
+
+** Présent
+
+je saurerais
+tu saurerais
+il (elle) saurerait
+nous saurerions
+vous saureriez
+ils (elles) saureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je saure
+que tu saures
+qu’il (elle) saure
+que nous saurions
+que vous sauriez
+qu’ils (elles) saurent
+
+** Imparfait
+
+que je saurasse
+que tu saurasses
+qu’il (elle) saurât
+que nous saurassions
+que vous saurassiez
+qu’ils (elles) saurassent
+
+* IMPÉRATIF
+
+** Présent
+
+saure
+saurons
+saurez
+
+* INFINITIF
+
+** Présent
+
+saurer
+
+* PARTICIPE
+
+** Présent
+
+saurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sauré
+tu as sauré
+il (elle) a sauré
+nous avons sauré
+vous avez sauré
+ils (elles) ont sauré
+
+** Plus-que-parfait
+
+j'avais sauré
+tu avais sauré
+il (elle) avait sauré
+nous avions sauré
+vous aviez sauré
+ils (elles) avaient sauré
+
+** Passé antérieur
+
+j'eus sauré
+tu eus sauré
+il (elle) eut sauré
+nous eûmes sauré
+vous eûtes sauré
+ils (elles) eurent sauré
+
+** Futur antérieur
+
+j'aurai sauré
+tu auras sauré
+il (elle) aura sauré
+nous aurons sauré
+vous aurez sauré
+ils (elles) auront sauré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sauré
+tu aurais sauré
+il (elle) aurait sauré
+nous aurions sauré
+vous auriez sauré
+ils (elles) auraient sauré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sauré
+que tu aies sauré
+qu’il (elle) ait sauré
+que nous ayons sauré
+que vous ayez sauré
+qu’ils (elles) aient sauré
+
+** Plus-que-parfait
+
+que j'eusse sauré
+que tu eusses sauré
+qu’il (elle) eût sauré
+que nous eussions sauré
+que vous eussiez sauré
+qu’ils (elles) eussent sauré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sauré
+ayez sauré
+
+* INFINITIF
+
+** Passé
+
+avoir sauré
+
+* PARTICIPE
+
+** Passé
+
+ayant sauré
+sauré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sauré(e)
+tu es sauré(e)
+il (elle) est sauré(e)
+nous sommes sauré(e)s
+vous êtes sauré(e)s
+ils (elles) sont sauré(e)s
+
+** Imparfait
+
+j'étais sauré(e)
+tu étais sauré(e)
+il (elle) était sauré(e)
+nous étions sauré(e)s
+vous étiez sauré(e)s
+ils (elles) étaient sauré(e)s
+
+** Passé simple
+
+je fus sauré(e)
+tu fus sauré(e)
+il (elle) fut sauré(e)
+nous fûmes sauré(e)s
+vous fûtes sauré(e)s
+ils (elles) furent sauré(e)s
+
+** Futur simple
+
+je serai sauré(e)
+tu seras sauré(e)
+il (elle) sera sauré(e)
+nous serons sauré(e)s
+vous serez sauré(e)s
+ils (elles) seront sauré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sauré(e)
+tu serais sauré(e)
+il (elle) serait sauré(e)
+nous serions sauré(e)s
+vous seriez sauré(e)s
+ils (elles) seraient sauré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sauré(e)
+que tu sois sauré(e)
+qu’il (elle) soit sauré(e)
+que nous soyons sauré(e)s
+que vous soyez sauré(e)s
+qu’ils (elles) soient sauré(e)s
+
+** Imparfait
+
+que je fusse sauré(e)
+que tu fusses sauré(e)
+qu’il (elle) fût sauré(e)
+que nous fussions sauré(e)s
+que vous fussiez sauré(e)s
+qu’ils (elles) fussent sauré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sauré(e)s
+soyez sauré(e)s
+
+* INFINITIF
+
+** Présent
+
+être sauré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sauré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sauré(e)
+tu as été sauré(e)
+il (elle) a été sauré(e)
+nous avons été sauré(e)s
+vous avez été sauré(e)s
+ils (elles) ont été sauré(e)s
+
+** Plus-que-parfait
+
+j'avais été sauré(e)
+il (elle) avait été sauré(e)
+nous avions été sauré(e)s
+ils (elles) avaient été sauré(e)s
+
+** Passé antérieur
+
+j'eus été sauré(e)
+tu eus été sauré(e)
+il (elle) eut été sauré(e)
+nous eûmes été sauré(e)s
+vous eûtes été sauré(e)s
+ils (elles) eurent été sauré(e)s
+
+** Futur antérieur
+
+j'aurai été sauré(e)
+tu auras été sauré(e)
+il (elle) aura été sauré(e)
+nous aurons été sauré(e)s
+vous aurez été sauré(e)s
+ils (elles) auront été sauré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sauré(e)
+j'aurais été sauré(e)
+il (elle) aurait été sauré(e)
+nous aurions été sauré(e)s
+vous auriez été sauré(e)s
+ils (elles) auraient été sauré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sauré(e)
+que tu aies été sauré(e)
+qu’il (elle) ait été sauré(e)
+que nous ayons été sauré(e)s
+que vous ayez été sauré(e)s
+qu’ils (elles) aient été sauré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sauré(e)
+que tu eusses été sauré(e)
+qu’il (elle) eût été sauré(e)
+que nous eussions été sauré(e)s
+que vous eussiez été sauré(e)s
+qu’ils (elles) eussent été sauré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sauré(e)
+ayons été sauré(e)s
+ayez été sauré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sauré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sauré(e)(s)

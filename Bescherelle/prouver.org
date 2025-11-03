@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prouver
+
+* INDICATIF
+
+** Présent
+
+je prouve
+tu prouves
+il (elle) prouve
+nous prouvons
+vous prouvez
+ils (elles) prouvent
+
+** Imparfait
+
+je prouvais
+tu prouvais
+il (elle) prouvait
+nous prouvions
+vous prouviez
+ils (elles) prouvaient
+
+** Passé simple
+
+je prouvai
+tu prouvas
+il (elle) prouva
+nous prouvâmes
+vous prouvâtes
+ils (elles) prouvèrent
+
+** Futur simple
+
+je prouverai
+tu prouveras
+il (elle) prouvera
+nous prouverons
+vous prouverez
+ils (elles) prouveront
+
+* CONDITIONNEL
+
+** Présent
+
+je prouverais
+tu prouverais
+il (elle) prouverait
+nous prouverions
+vous prouveriez
+ils (elles) prouveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prouve
+que tu prouves
+qu’il (elle) prouve
+que nous prouvions
+que vous prouviez
+qu’ils (elles) prouvent
+
+** Imparfait
+
+que je prouvasse
+que tu prouvasses
+qu’il (elle) prouvât
+que nous prouvassions
+que vous prouvassiez
+qu’ils (elles) prouvassent
+
+* IMPÉRATIF
+
+** Présent
+
+prouve
+prouvons
+prouvez
+
+* INFINITIF
+
+** Présent
+
+prouver
+
+* PARTICIPE
+
+** Présent
+
+prouvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prouvé
+tu as prouvé
+il (elle) a prouvé
+nous avons prouvé
+vous avez prouvé
+ils (elles) ont prouvé
+
+** Plus-que-parfait
+
+j'avais prouvé
+tu avais prouvé
+il (elle) avait prouvé
+nous avions prouvé
+vous aviez prouvé
+ils (elles) avaient prouvé
+
+** Passé antérieur
+
+j'eus prouvé
+tu eus prouvé
+il (elle) eut prouvé
+nous eûmes prouvé
+vous eûtes prouvé
+ils (elles) eurent prouvé
+
+** Futur antérieur
+
+j'aurai prouvé
+tu auras prouvé
+il (elle) aura prouvé
+nous aurons prouvé
+vous aurez prouvé
+ils (elles) auront prouvé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prouvé
+tu aurais prouvé
+il (elle) aurait prouvé
+nous aurions prouvé
+vous auriez prouvé
+ils (elles) auraient prouvé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prouvé
+que tu aies prouvé
+qu’il (elle) ait prouvé
+que nous ayons prouvé
+que vous ayez prouvé
+qu’ils (elles) aient prouvé
+
+** Plus-que-parfait
+
+que j'eusse prouvé
+que tu eusses prouvé
+qu’il (elle) eût prouvé
+que nous eussions prouvé
+que vous eussiez prouvé
+qu’ils (elles) eussent prouvé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prouvé
+ayez prouvé
+
+* INFINITIF
+
+** Passé
+
+avoir prouvé
+
+* PARTICIPE
+
+** Passé
+
+ayant prouvé
+prouvé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prouvé(e)
+tu es prouvé(e)
+il (elle) est prouvé(e)
+nous sommes prouvé(e)s
+vous êtes prouvé(e)s
+ils (elles) sont prouvé(e)s
+
+** Imparfait
+
+j'étais prouvé(e)
+tu étais prouvé(e)
+il (elle) était prouvé(e)
+nous étions prouvé(e)s
+vous étiez prouvé(e)s
+ils (elles) étaient prouvé(e)s
+
+** Passé simple
+
+je fus prouvé(e)
+tu fus prouvé(e)
+il (elle) fut prouvé(e)
+nous fûmes prouvé(e)s
+vous fûtes prouvé(e)s
+ils (elles) furent prouvé(e)s
+
+** Futur simple
+
+je serai prouvé(e)
+tu seras prouvé(e)
+il (elle) sera prouvé(e)
+nous serons prouvé(e)s
+vous serez prouvé(e)s
+ils (elles) seront prouvé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prouvé(e)
+tu serais prouvé(e)
+il (elle) serait prouvé(e)
+nous serions prouvé(e)s
+vous seriez prouvé(e)s
+ils (elles) seraient prouvé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prouvé(e)
+que tu sois prouvé(e)
+qu’il (elle) soit prouvé(e)
+que nous soyons prouvé(e)s
+que vous soyez prouvé(e)s
+qu’ils (elles) soient prouvé(e)s
+
+** Imparfait
+
+que je fusse prouvé(e)
+que tu fusses prouvé(e)
+qu’il (elle) fût prouvé(e)
+que nous fussions prouvé(e)s
+que vous fussiez prouvé(e)s
+qu’ils (elles) fussent prouvé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prouvé(e)s
+soyez prouvé(e)s
+
+* INFINITIF
+
+** Présent
+
+être prouvé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prouvé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prouvé(e)
+tu as été prouvé(e)
+il (elle) a été prouvé(e)
+nous avons été prouvé(e)s
+vous avez été prouvé(e)s
+ils (elles) ont été prouvé(e)s
+
+** Plus-que-parfait
+
+j'avais été prouvé(e)
+il (elle) avait été prouvé(e)
+nous avions été prouvé(e)s
+ils (elles) avaient été prouvé(e)s
+
+** Passé antérieur
+
+j'eus été prouvé(e)
+tu eus été prouvé(e)
+il (elle) eut été prouvé(e)
+nous eûmes été prouvé(e)s
+vous eûtes été prouvé(e)s
+ils (elles) eurent été prouvé(e)s
+
+** Futur antérieur
+
+j'aurai été prouvé(e)
+tu auras été prouvé(e)
+il (elle) aura été prouvé(e)
+nous aurons été prouvé(e)s
+vous aurez été prouvé(e)s
+ils (elles) auront été prouvé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prouvé(e)
+j'aurais été prouvé(e)
+il (elle) aurait été prouvé(e)
+nous aurions été prouvé(e)s
+vous auriez été prouvé(e)s
+ils (elles) auraient été prouvé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prouvé(e)
+que tu aies été prouvé(e)
+qu’il (elle) ait été prouvé(e)
+que nous ayons été prouvé(e)s
+que vous ayez été prouvé(e)s
+qu’ils (elles) aient été prouvé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prouvé(e)
+que tu eusses été prouvé(e)
+qu’il (elle) eût été prouvé(e)
+que nous eussions été prouvé(e)s
+que vous eussiez été prouvé(e)s
+qu’ils (elles) eussent été prouvé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prouvé(e)
+ayons été prouvé(e)s
+ayez été prouvé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prouvé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prouvé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe sommer
+
+* INDICATIF
+
+** Présent
+
+je somme
+tu sommes
+il (elle) somme
+nous sommons
+vous sommez
+ils (elles) somment
+
+** Imparfait
+
+je sommais
+tu sommais
+il (elle) sommait
+nous sommions
+vous sommiez
+ils (elles) sommaient
+
+** Passé simple
+
+je sommai
+tu sommas
+il (elle) somma
+nous sommâmes
+vous sommâtes
+ils (elles) sommèrent
+
+** Futur simple
+
+je sommerai
+tu sommeras
+il (elle) sommera
+nous sommerons
+vous sommerez
+ils (elles) sommeront
+
+* CONDITIONNEL
+
+** Présent
+
+je sommerais
+tu sommerais
+il (elle) sommerait
+nous sommerions
+vous sommeriez
+ils (elles) sommeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je somme
+que tu sommes
+qu’il (elle) somme
+que nous sommions
+que vous sommiez
+qu’ils (elles) somment
+
+** Imparfait
+
+que je sommasse
+que tu sommasses
+qu’il (elle) sommât
+que nous sommassions
+que vous sommassiez
+qu’ils (elles) sommassent
+
+* IMPÉRATIF
+
+** Présent
+
+somme
+sommons
+sommez
+
+* INFINITIF
+
+** Présent
+
+sommer
+
+* PARTICIPE
+
+** Présent
+
+sommant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sommé
+tu as sommé
+il (elle) a sommé
+nous avons sommé
+vous avez sommé
+ils (elles) ont sommé
+
+** Plus-que-parfait
+
+j'avais sommé
+tu avais sommé
+il (elle) avait sommé
+nous avions sommé
+vous aviez sommé
+ils (elles) avaient sommé
+
+** Passé antérieur
+
+j'eus sommé
+tu eus sommé
+il (elle) eut sommé
+nous eûmes sommé
+vous eûtes sommé
+ils (elles) eurent sommé
+
+** Futur antérieur
+
+j'aurai sommé
+tu auras sommé
+il (elle) aura sommé
+nous aurons sommé
+vous aurez sommé
+ils (elles) auront sommé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sommé
+tu aurais sommé
+il (elle) aurait sommé
+nous aurions sommé
+vous auriez sommé
+ils (elles) auraient sommé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sommé
+que tu aies sommé
+qu’il (elle) ait sommé
+que nous ayons sommé
+que vous ayez sommé
+qu’ils (elles) aient sommé
+
+** Plus-que-parfait
+
+que j'eusse sommé
+que tu eusses sommé
+qu’il (elle) eût sommé
+que nous eussions sommé
+que vous eussiez sommé
+qu’ils (elles) eussent sommé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sommé
+ayez sommé
+
+* INFINITIF
+
+** Passé
+
+avoir sommé
+
+* PARTICIPE
+
+** Passé
+
+ayant sommé
+sommé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sommé(e)
+tu es sommé(e)
+il (elle) est sommé(e)
+nous sommes sommé(e)s
+vous êtes sommé(e)s
+ils (elles) sont sommé(e)s
+
+** Imparfait
+
+j'étais sommé(e)
+tu étais sommé(e)
+il (elle) était sommé(e)
+nous étions sommé(e)s
+vous étiez sommé(e)s
+ils (elles) étaient sommé(e)s
+
+** Passé simple
+
+je fus sommé(e)
+tu fus sommé(e)
+il (elle) fut sommé(e)
+nous fûmes sommé(e)s
+vous fûtes sommé(e)s
+ils (elles) furent sommé(e)s
+
+** Futur simple
+
+je serai sommé(e)
+tu seras sommé(e)
+il (elle) sera sommé(e)
+nous serons sommé(e)s
+vous serez sommé(e)s
+ils (elles) seront sommé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sommé(e)
+tu serais sommé(e)
+il (elle) serait sommé(e)
+nous serions sommé(e)s
+vous seriez sommé(e)s
+ils (elles) seraient sommé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sommé(e)
+que tu sois sommé(e)
+qu’il (elle) soit sommé(e)
+que nous soyons sommé(e)s
+que vous soyez sommé(e)s
+qu’ils (elles) soient sommé(e)s
+
+** Imparfait
+
+que je fusse sommé(e)
+que tu fusses sommé(e)
+qu’il (elle) fût sommé(e)
+que nous fussions sommé(e)s
+que vous fussiez sommé(e)s
+qu’ils (elles) fussent sommé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sommé(e)s
+soyez sommé(e)s
+
+* INFINITIF
+
+** Présent
+
+être sommé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sommé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sommé(e)
+tu as été sommé(e)
+il (elle) a été sommé(e)
+nous avons été sommé(e)s
+vous avez été sommé(e)s
+ils (elles) ont été sommé(e)s
+
+** Plus-que-parfait
+
+j'avais été sommé(e)
+il (elle) avait été sommé(e)
+nous avions été sommé(e)s
+ils (elles) avaient été sommé(e)s
+
+** Passé antérieur
+
+j'eus été sommé(e)
+tu eus été sommé(e)
+il (elle) eut été sommé(e)
+nous eûmes été sommé(e)s
+vous eûtes été sommé(e)s
+ils (elles) eurent été sommé(e)s
+
+** Futur antérieur
+
+j'aurai été sommé(e)
+tu auras été sommé(e)
+il (elle) aura été sommé(e)
+nous aurons été sommé(e)s
+vous aurez été sommé(e)s
+ils (elles) auront été sommé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sommé(e)
+j'aurais été sommé(e)
+il (elle) aurait été sommé(e)
+nous aurions été sommé(e)s
+vous auriez été sommé(e)s
+ils (elles) auraient été sommé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sommé(e)
+que tu aies été sommé(e)
+qu’il (elle) ait été sommé(e)
+que nous ayons été sommé(e)s
+que vous ayez été sommé(e)s
+qu’ils (elles) aient été sommé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sommé(e)
+que tu eusses été sommé(e)
+qu’il (elle) eût été sommé(e)
+que nous eussions été sommé(e)s
+que vous eussiez été sommé(e)s
+qu’ils (elles) eussent été sommé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sommé(e)
+ayons été sommé(e)s
+ayez été sommé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sommé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sommé(e)(s)

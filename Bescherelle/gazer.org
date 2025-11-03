@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gazer
+
+* INDICATIF
+
+** Présent
+
+je gaze
+tu gazes
+il (elle) gaze
+nous gazons
+vous gazez
+ils (elles) gazent
+
+** Imparfait
+
+je gazais
+tu gazais
+il (elle) gazait
+nous gazions
+vous gaziez
+ils (elles) gazaient
+
+** Passé simple
+
+je gazai
+tu gazas
+il (elle) gaza
+nous gazâmes
+vous gazâtes
+ils (elles) gazèrent
+
+** Futur simple
+
+je gazerai
+tu gazeras
+il (elle) gazera
+nous gazerons
+vous gazerez
+ils (elles) gazeront
+
+* CONDITIONNEL
+
+** Présent
+
+je gazerais
+tu gazerais
+il (elle) gazerait
+nous gazerions
+vous gazeriez
+ils (elles) gazeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gaze
+que tu gazes
+qu’il (elle) gaze
+que nous gazions
+que vous gaziez
+qu’ils (elles) gazent
+
+** Imparfait
+
+que je gazasse
+que tu gazasses
+qu’il (elle) gazât
+que nous gazassions
+que vous gazassiez
+qu’ils (elles) gazassent
+
+* IMPÉRATIF
+
+** Présent
+
+gaze
+gazons
+gazez
+
+* INFINITIF
+
+** Présent
+
+gazer
+
+* PARTICIPE
+
+** Présent
+
+gazant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gazé
+tu as gazé
+il (elle) a gazé
+nous avons gazé
+vous avez gazé
+ils (elles) ont gazé
+
+** Plus-que-parfait
+
+j'avais gazé
+tu avais gazé
+il (elle) avait gazé
+nous avions gazé
+vous aviez gazé
+ils (elles) avaient gazé
+
+** Passé antérieur
+
+j'eus gazé
+tu eus gazé
+il (elle) eut gazé
+nous eûmes gazé
+vous eûtes gazé
+ils (elles) eurent gazé
+
+** Futur antérieur
+
+j'aurai gazé
+tu auras gazé
+il (elle) aura gazé
+nous aurons gazé
+vous aurez gazé
+ils (elles) auront gazé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gazé
+tu aurais gazé
+il (elle) aurait gazé
+nous aurions gazé
+vous auriez gazé
+ils (elles) auraient gazé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gazé
+que tu aies gazé
+qu’il (elle) ait gazé
+que nous ayons gazé
+que vous ayez gazé
+qu’ils (elles) aient gazé
+
+** Plus-que-parfait
+
+que j'eusse gazé
+que tu eusses gazé
+qu’il (elle) eût gazé
+que nous eussions gazé
+que vous eussiez gazé
+qu’ils (elles) eussent gazé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gazé
+ayez gazé
+
+* INFINITIF
+
+** Passé
+
+avoir gazé
+
+* PARTICIPE
+
+** Passé
+
+ayant gazé
+gazé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gazé(e)
+tu es gazé(e)
+il (elle) est gazé(e)
+nous sommes gazé(e)s
+vous êtes gazé(e)s
+ils (elles) sont gazé(e)s
+
+** Imparfait
+
+j'étais gazé(e)
+tu étais gazé(e)
+il (elle) était gazé(e)
+nous étions gazé(e)s
+vous étiez gazé(e)s
+ils (elles) étaient gazé(e)s
+
+** Passé simple
+
+je fus gazé(e)
+tu fus gazé(e)
+il (elle) fut gazé(e)
+nous fûmes gazé(e)s
+vous fûtes gazé(e)s
+ils (elles) furent gazé(e)s
+
+** Futur simple
+
+je serai gazé(e)
+tu seras gazé(e)
+il (elle) sera gazé(e)
+nous serons gazé(e)s
+vous serez gazé(e)s
+ils (elles) seront gazé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gazé(e)
+tu serais gazé(e)
+il (elle) serait gazé(e)
+nous serions gazé(e)s
+vous seriez gazé(e)s
+ils (elles) seraient gazé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gazé(e)
+que tu sois gazé(e)
+qu’il (elle) soit gazé(e)
+que nous soyons gazé(e)s
+que vous soyez gazé(e)s
+qu’ils (elles) soient gazé(e)s
+
+** Imparfait
+
+que je fusse gazé(e)
+que tu fusses gazé(e)
+qu’il (elle) fût gazé(e)
+que nous fussions gazé(e)s
+que vous fussiez gazé(e)s
+qu’ils (elles) fussent gazé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gazé(e)s
+soyez gazé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gazé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gazé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gazé(e)
+tu as été gazé(e)
+il (elle) a été gazé(e)
+nous avons été gazé(e)s
+vous avez été gazé(e)s
+ils (elles) ont été gazé(e)s
+
+** Plus-que-parfait
+
+j'avais été gazé(e)
+il (elle) avait été gazé(e)
+nous avions été gazé(e)s
+ils (elles) avaient été gazé(e)s
+
+** Passé antérieur
+
+j'eus été gazé(e)
+tu eus été gazé(e)
+il (elle) eut été gazé(e)
+nous eûmes été gazé(e)s
+vous eûtes été gazé(e)s
+ils (elles) eurent été gazé(e)s
+
+** Futur antérieur
+
+j'aurai été gazé(e)
+tu auras été gazé(e)
+il (elle) aura été gazé(e)
+nous aurons été gazé(e)s
+vous aurez été gazé(e)s
+ils (elles) auront été gazé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gazé(e)
+j'aurais été gazé(e)
+il (elle) aurait été gazé(e)
+nous aurions été gazé(e)s
+vous auriez été gazé(e)s
+ils (elles) auraient été gazé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gazé(e)
+que tu aies été gazé(e)
+qu’il (elle) ait été gazé(e)
+que nous ayons été gazé(e)s
+que vous ayez été gazé(e)s
+qu’ils (elles) aient été gazé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gazé(e)
+que tu eusses été gazé(e)
+qu’il (elle) eût été gazé(e)
+que nous eussions été gazé(e)s
+que vous eussiez été gazé(e)s
+qu’ils (elles) eussent été gazé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gazé(e)
+ayons été gazé(e)s
+ayez été gazé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gazé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gazé(e)(s)

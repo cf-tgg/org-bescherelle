@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confier
+
+* INDICATIF
+
+** Présent
+
+je confie
+tu confies
+il (elle) confie
+nous confions
+vous confiez
+ils (elles) confient
+
+** Imparfait
+
+je confiais
+tu confiais
+il (elle) confiait
+nous confiions
+vous confiiez
+ils (elles) confiaient
+
+** Passé simple
+
+je confiai
+tu confias
+il (elle) confia
+nous confiâmes
+vous confiâtes
+ils (elles) confièrent
+
+** Futur simple
+
+je confierai
+tu confieras
+il (elle) confiera
+nous confierons
+vous confierez
+ils (elles) confieront
+
+* CONDITIONNEL
+
+** Présent
+
+je confierais
+tu confierais
+il (elle) confierait
+nous confierions
+vous confieriez
+ils (elles) confieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confie
+que tu confies
+qu’il (elle) confie
+que nous confiions
+que vous confiiez
+qu’ils (elles) confient
+
+** Imparfait
+
+que je confiasse
+que tu confiasses
+qu’il (elle) confiât
+que nous confiassions
+que vous confiassiez
+qu’ils (elles) confiassent
+
+* IMPÉRATIF
+
+** Présent
+
+confie
+confions
+confiez
+
+* INFINITIF
+
+** Présent
+
+confier
+
+* PARTICIPE
+
+** Présent
+
+confiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confié
+tu as confié
+il (elle) a confié
+nous avons confié
+vous avez confié
+ils (elles) ont confié
+
+** Plus-que-parfait
+
+j'avais confié
+tu avais confié
+il (elle) avait confié
+nous avions confié
+vous aviez confié
+ils (elles) avaient confié
+
+** Passé antérieur
+
+j'eus confié
+tu eus confié
+il (elle) eut confié
+nous eûmes confié
+vous eûtes confié
+ils (elles) eurent confié
+
+** Futur antérieur
+
+j'aurai confié
+tu auras confié
+il (elle) aura confié
+nous aurons confié
+vous aurez confié
+ils (elles) auront confié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confié
+tu aurais confié
+il (elle) aurait confié
+nous aurions confié
+vous auriez confié
+ils (elles) auraient confié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confié
+que tu aies confié
+qu’il (elle) ait confié
+que nous ayons confié
+que vous ayez confié
+qu’ils (elles) aient confié
+
+** Plus-que-parfait
+
+que j'eusse confié
+que tu eusses confié
+qu’il (elle) eût confié
+que nous eussions confié
+que vous eussiez confié
+qu’ils (elles) eussent confié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confié
+ayez confié
+
+* INFINITIF
+
+** Passé
+
+avoir confié
+
+* PARTICIPE
+
+** Passé
+
+ayant confié
+confié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis confié(e)
+tu es confié(e)
+il (elle) est confié(e)
+nous sommes confié(e)s
+vous êtes confié(e)s
+ils (elles) sont confié(e)s
+
+** Imparfait
+
+j'étais confié(e)
+tu étais confié(e)
+il (elle) était confié(e)
+nous étions confié(e)s
+vous étiez confié(e)s
+ils (elles) étaient confié(e)s
+
+** Passé simple
+
+je fus confié(e)
+tu fus confié(e)
+il (elle) fut confié(e)
+nous fûmes confié(e)s
+vous fûtes confié(e)s
+ils (elles) furent confié(e)s
+
+** Futur simple
+
+je serai confié(e)
+tu seras confié(e)
+il (elle) sera confié(e)
+nous serons confié(e)s
+vous serez confié(e)s
+ils (elles) seront confié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confié(e)
+tu serais confié(e)
+il (elle) serait confié(e)
+nous serions confié(e)s
+vous seriez confié(e)s
+ils (elles) seraient confié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confié(e)
+que tu sois confié(e)
+qu’il (elle) soit confié(e)
+que nous soyons confié(e)s
+que vous soyez confié(e)s
+qu’ils (elles) soient confié(e)s
+
+** Imparfait
+
+que je fusse confié(e)
+que tu fusses confié(e)
+qu’il (elle) fût confié(e)
+que nous fussions confié(e)s
+que vous fussiez confié(e)s
+qu’ils (elles) fussent confié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confié(e)s
+soyez confié(e)s
+
+* INFINITIF
+
+** Présent
+
+être confié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confié(e)
+tu as été confié(e)
+il (elle) a été confié(e)
+nous avons été confié(e)s
+vous avez été confié(e)s
+ils (elles) ont été confié(e)s
+
+** Plus-que-parfait
+
+j'avais été confié(e)
+il (elle) avait été confié(e)
+nous avions été confié(e)s
+ils (elles) avaient été confié(e)s
+
+** Passé antérieur
+
+j'eus été confié(e)
+tu eus été confié(e)
+il (elle) eut été confié(e)
+nous eûmes été confié(e)s
+vous eûtes été confié(e)s
+ils (elles) eurent été confié(e)s
+
+** Futur antérieur
+
+j'aurai été confié(e)
+tu auras été confié(e)
+il (elle) aura été confié(e)
+nous aurons été confié(e)s
+vous aurez été confié(e)s
+ils (elles) auront été confié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confié(e)
+j'aurais été confié(e)
+il (elle) aurait été confié(e)
+nous aurions été confié(e)s
+vous auriez été confié(e)s
+ils (elles) auraient été confié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confié(e)
+que tu aies été confié(e)
+qu’il (elle) ait été confié(e)
+que nous ayons été confié(e)s
+que vous ayez été confié(e)s
+qu’ils (elles) aient été confié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confié(e)
+que tu eusses été confié(e)
+qu’il (elle) eût été confié(e)
+que nous eussions été confié(e)s
+que vous eussiez été confié(e)s
+qu’ils (elles) eussent été confié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confié(e)
+ayons été confié(e)s
+ayez été confié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confié(e)(s)

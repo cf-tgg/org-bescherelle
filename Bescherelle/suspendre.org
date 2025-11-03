@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe suspendre
+
+* INDICATIF
+
+** Présent
+
+je suspends
+tu suspends
+il (elle) suspend
+nous suspendons
+vous suspendez
+ils (elles) suspendent
+
+** Imparfait
+
+je suspendais
+tu suspendais
+il (elle) suspendait
+nous suspendions
+vous suspendiez
+ils (elles) suspendaient
+
+** Passé simple
+
+je suspendis
+tu suspendis
+il (elle) suspendit
+nous suspendîmes
+vous suspendîtes
+ils (elles) suspendirent
+
+** Futur simple
+
+je suspendrai
+tu suspendras
+il (elle) suspendra
+nous suspendrons
+vous suspendrez
+ils (elles) suspendront
+
+* CONDITIONNEL
+
+** Présent
+
+je suspendrais
+tu suspendrais
+il (elle) suspendrait
+nous suspendrions
+vous suspendriez
+ils (elles) suspendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je suspende
+que tu suspendes
+qu’il (elle) suspende
+que nous suspendions
+que vous suspendiez
+qu’ils (elles) suspendent
+
+** Imparfait
+
+que je suspendisse
+que tu suspendisses
+qu’il (elle) suspendît
+que nous suspendissions
+que vous suspendissiez
+qu’ils (elles) suspendissent
+
+* IMPÉRATIF
+
+** Présent
+
+suspends
+suspendons
+suspendez
+
+* INFINITIF
+
+** Présent
+
+suspendre
+
+* PARTICIPE
+
+** Présent
+
+suspendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai suspendu
+tu as suspendu
+il (elle) a suspendu
+nous avons suspendu
+vous avez suspendu
+ils (elles) ont suspendu
+
+** Plus-que-parfait
+
+j'avais suspendu
+tu avais suspendu
+il (elle) avait suspendu
+nous avions suspendu
+vous aviez suspendu
+ils (elles) avaient suspendu
+
+** Passé antérieur
+
+j'eus suspendu
+tu eus suspendu
+il (elle) eut suspendu
+nous eûmes suspendu
+vous eûtes suspendu
+ils (elles) eurent suspendu
+
+** Futur antérieur
+
+j'aurai suspendu
+tu auras suspendu
+il (elle) aura suspendu
+nous aurons suspendu
+vous aurez suspendu
+ils (elles) auront suspendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais suspendu
+tu aurais suspendu
+il (elle) aurait suspendu
+nous aurions suspendu
+vous auriez suspendu
+ils (elles) auraient suspendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie suspendu
+que tu aies suspendu
+qu’il (elle) ait suspendu
+que nous ayons suspendu
+que vous ayez suspendu
+qu’ils (elles) aient suspendu
+
+** Plus-que-parfait
+
+que j'eusse suspendu
+que tu eusses suspendu
+qu’il (elle) eût suspendu
+que nous eussions suspendu
+que vous eussiez suspendu
+qu’ils (elles) eussent suspendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons suspendu
+ayez suspendu
+
+* INFINITIF
+
+** Passé
+
+avoir suspendu
+
+* PARTICIPE
+
+** Passé
+
+ayant suspendu
+suspendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis suspendu(e)
+tu es suspendu(e)
+il (elle) est suspendu(e)
+nous sommes suspendu(e)s
+vous êtes suspendu(e)s
+ils (elles) sont suspendu(e)s
+
+** Imparfait
+
+j'étais suspendu(e)
+tu étais suspendu(e)
+il (elle) était suspendu(e)
+nous étions suspendu(e)s
+vous étiez suspendu(e)s
+ils (elles) étaient suspendu(e)s
+
+** Passé simple
+
+je fus suspendu(e)
+tu fus suspendu(e)
+il (elle) fut suspendu(e)
+nous fûmes suspendu(e)s
+vous fûtes suspendu(e)s
+ils (elles) furent suspendu(e)s
+
+** Futur simple
+
+je serai suspendu(e)
+tu seras suspendu(e)
+il (elle) sera suspendu(e)
+nous serons suspendu(e)s
+vous serez suspendu(e)s
+ils (elles) seront suspendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais suspendu(e)
+tu serais suspendu(e)
+il (elle) serait suspendu(e)
+nous serions suspendu(e)s
+vous seriez suspendu(e)s
+ils (elles) seraient suspendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois suspendu(e)
+que tu sois suspendu(e)
+qu’il (elle) soit suspendu(e)
+que nous soyons suspendu(e)s
+que vous soyez suspendu(e)s
+qu’ils (elles) soient suspendu(e)s
+
+** Imparfait
+
+que je fusse suspendu(e)
+que tu fusses suspendu(e)
+qu’il (elle) fût suspendu(e)
+que nous fussions suspendu(e)s
+que vous fussiez suspendu(e)s
+qu’ils (elles) fussent suspendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons suspendu(e)s
+soyez suspendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être suspendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant suspendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été suspendu(e)
+tu as été suspendu(e)
+il (elle) a été suspendu(e)
+nous avons été suspendu(e)s
+vous avez été suspendu(e)s
+ils (elles) ont été suspendu(e)s
+
+** Plus-que-parfait
+
+j'avais été suspendu(e)
+il (elle) avait été suspendu(e)
+nous avions été suspendu(e)s
+ils (elles) avaient été suspendu(e)s
+
+** Passé antérieur
+
+j'eus été suspendu(e)
+tu eus été suspendu(e)
+il (elle) eut été suspendu(e)
+nous eûmes été suspendu(e)s
+vous eûtes été suspendu(e)s
+ils (elles) eurent été suspendu(e)s
+
+** Futur antérieur
+
+j'aurai été suspendu(e)
+tu auras été suspendu(e)
+il (elle) aura été suspendu(e)
+nous aurons été suspendu(e)s
+vous aurez été suspendu(e)s
+ils (elles) auront été suspendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été suspendu(e)
+j'aurais été suspendu(e)
+il (elle) aurait été suspendu(e)
+nous aurions été suspendu(e)s
+vous auriez été suspendu(e)s
+ils (elles) auraient été suspendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été suspendu(e)
+que tu aies été suspendu(e)
+qu’il (elle) ait été suspendu(e)
+que nous ayons été suspendu(e)s
+que vous ayez été suspendu(e)s
+qu’ils (elles) aient été suspendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été suspendu(e)
+que tu eusses été suspendu(e)
+qu’il (elle) eût été suspendu(e)
+que nous eussions été suspendu(e)s
+que vous eussiez été suspendu(e)s
+qu’ils (elles) eussent été suspendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été suspendu(e)
+ayons été suspendu(e)s
+ayez été suspendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été suspendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été suspendu(e)(s)

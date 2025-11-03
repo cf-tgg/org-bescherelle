@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe chausser
+
+* INDICATIF
+
+** Présent
+
+je chausse
+tu chausses
+il (elle) chausse
+nous chaussons
+vous chaussez
+ils (elles) chaussent
+
+** Imparfait
+
+je chaussais
+tu chaussais
+il (elle) chaussait
+nous chaussions
+vous chaussiez
+ils (elles) chaussaient
+
+** Passé simple
+
+je chaussai
+tu chaussas
+il (elle) chaussa
+nous chaussâmes
+vous chaussâtes
+ils (elles) chaussèrent
+
+** Futur simple
+
+je chausserai
+tu chausseras
+il (elle) chaussera
+nous chausserons
+vous chausserez
+ils (elles) chausseront
+
+* CONDITIONNEL
+
+** Présent
+
+je chausserais
+tu chausserais
+il (elle) chausserait
+nous chausserions
+vous chausseriez
+ils (elles) chausseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chausse
+que tu chausses
+qu’il (elle) chausse
+que nous chaussions
+que vous chaussiez
+qu’ils (elles) chaussent
+
+** Imparfait
+
+que je chaussasse
+que tu chaussasses
+qu’il (elle) chaussât
+que nous chaussassions
+que vous chaussassiez
+qu’ils (elles) chaussassent
+
+* IMPÉRATIF
+
+** Présent
+
+chausse
+chaussons
+chaussez
+
+* INFINITIF
+
+** Présent
+
+chausser
+
+* PARTICIPE
+
+** Présent
+
+chaussant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chaussé
+tu as chaussé
+il (elle) a chaussé
+nous avons chaussé
+vous avez chaussé
+ils (elles) ont chaussé
+
+** Plus-que-parfait
+
+j'avais chaussé
+tu avais chaussé
+il (elle) avait chaussé
+nous avions chaussé
+vous aviez chaussé
+ils (elles) avaient chaussé
+
+** Passé antérieur
+
+j'eus chaussé
+tu eus chaussé
+il (elle) eut chaussé
+nous eûmes chaussé
+vous eûtes chaussé
+ils (elles) eurent chaussé
+
+** Futur antérieur
+
+j'aurai chaussé
+tu auras chaussé
+il (elle) aura chaussé
+nous aurons chaussé
+vous aurez chaussé
+ils (elles) auront chaussé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chaussé
+tu aurais chaussé
+il (elle) aurait chaussé
+nous aurions chaussé
+vous auriez chaussé
+ils (elles) auraient chaussé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chaussé
+que tu aies chaussé
+qu’il (elle) ait chaussé
+que nous ayons chaussé
+que vous ayez chaussé
+qu’ils (elles) aient chaussé
+
+** Plus-que-parfait
+
+que j'eusse chaussé
+que tu eusses chaussé
+qu’il (elle) eût chaussé
+que nous eussions chaussé
+que vous eussiez chaussé
+qu’ils (elles) eussent chaussé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chaussé
+ayez chaussé
+
+* INFINITIF
+
+** Passé
+
+avoir chaussé
+
+* PARTICIPE
+
+** Passé
+
+ayant chaussé
+chaussé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chaussé(e)
+tu es chaussé(e)
+il (elle) est chaussé(e)
+nous sommes chaussé(e)s
+vous êtes chaussé(e)s
+ils (elles) sont chaussé(e)s
+
+** Imparfait
+
+j'étais chaussé(e)
+tu étais chaussé(e)
+il (elle) était chaussé(e)
+nous étions chaussé(e)s
+vous étiez chaussé(e)s
+ils (elles) étaient chaussé(e)s
+
+** Passé simple
+
+je fus chaussé(e)
+tu fus chaussé(e)
+il (elle) fut chaussé(e)
+nous fûmes chaussé(e)s
+vous fûtes chaussé(e)s
+ils (elles) furent chaussé(e)s
+
+** Futur simple
+
+je serai chaussé(e)
+tu seras chaussé(e)
+il (elle) sera chaussé(e)
+nous serons chaussé(e)s
+vous serez chaussé(e)s
+ils (elles) seront chaussé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chaussé(e)
+tu serais chaussé(e)
+il (elle) serait chaussé(e)
+nous serions chaussé(e)s
+vous seriez chaussé(e)s
+ils (elles) seraient chaussé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chaussé(e)
+que tu sois chaussé(e)
+qu’il (elle) soit chaussé(e)
+que nous soyons chaussé(e)s
+que vous soyez chaussé(e)s
+qu’ils (elles) soient chaussé(e)s
+
+** Imparfait
+
+que je fusse chaussé(e)
+que tu fusses chaussé(e)
+qu’il (elle) fût chaussé(e)
+que nous fussions chaussé(e)s
+que vous fussiez chaussé(e)s
+qu’ils (elles) fussent chaussé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chaussé(e)s
+soyez chaussé(e)s
+
+* INFINITIF
+
+** Présent
+
+être chaussé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chaussé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chaussé(e)
+tu as été chaussé(e)
+il (elle) a été chaussé(e)
+nous avons été chaussé(e)s
+vous avez été chaussé(e)s
+ils (elles) ont été chaussé(e)s
+
+** Plus-que-parfait
+
+j'avais été chaussé(e)
+il (elle) avait été chaussé(e)
+nous avions été chaussé(e)s
+ils (elles) avaient été chaussé(e)s
+
+** Passé antérieur
+
+j'eus été chaussé(e)
+tu eus été chaussé(e)
+il (elle) eut été chaussé(e)
+nous eûmes été chaussé(e)s
+vous eûtes été chaussé(e)s
+ils (elles) eurent été chaussé(e)s
+
+** Futur antérieur
+
+j'aurai été chaussé(e)
+tu auras été chaussé(e)
+il (elle) aura été chaussé(e)
+nous aurons été chaussé(e)s
+vous aurez été chaussé(e)s
+ils (elles) auront été chaussé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chaussé(e)
+j'aurais été chaussé(e)
+il (elle) aurait été chaussé(e)
+nous aurions été chaussé(e)s
+vous auriez été chaussé(e)s
+ils (elles) auraient été chaussé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chaussé(e)
+que tu aies été chaussé(e)
+qu’il (elle) ait été chaussé(e)
+que nous ayons été chaussé(e)s
+que vous ayez été chaussé(e)s
+qu’ils (elles) aient été chaussé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chaussé(e)
+que tu eusses été chaussé(e)
+qu’il (elle) eût été chaussé(e)
+que nous eussions été chaussé(e)s
+que vous eussiez été chaussé(e)s
+qu’ils (elles) eussent été chaussé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chaussé(e)
+ayons été chaussé(e)s
+ayez été chaussé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chaussé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chaussé(e)(s)

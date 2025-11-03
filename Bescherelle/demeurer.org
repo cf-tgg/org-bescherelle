@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe demeurer
+
+* INDICATIF
+
+** Présent
+
+je demeure
+tu demeures
+il (elle) demeure
+nous demeurons
+vous demeurez
+ils (elles) demeurent
+
+** Imparfait
+
+je demeurais
+tu demeurais
+il (elle) demeurait
+nous demeurions
+vous demeuriez
+ils (elles) demeuraient
+
+** Passé simple
+
+je demeurai
+tu demeuras
+il (elle) demeura
+nous demeurâmes
+vous demeurâtes
+ils (elles) demeurèrent
+
+** Futur simple
+
+je demeurerai
+tu demeureras
+il (elle) demeurera
+nous demeurerons
+vous demeurerez
+ils (elles) demeureront
+
+* CONDITIONNEL
+
+** Présent
+
+je demeurerais
+tu demeurerais
+il (elle) demeurerait
+nous demeurerions
+vous demeureriez
+ils (elles) demeureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je demeure
+que tu demeures
+qu’il (elle) demeure
+que nous demeurions
+que vous demeuriez
+qu’ils (elles) demeurent
+
+** Imparfait
+
+que je demeurasse
+que tu demeurasses
+qu’il (elle) demeurât
+que nous demeurassions
+que vous demeurassiez
+qu’ils (elles) demeurassent
+
+* IMPÉRATIF
+
+** Présent
+
+demeure
+demeurons
+demeurez
+
+* INFINITIF
+
+** Présent
+
+demeurer
+
+* PARTICIPE
+
+** Présent
+
+demeurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis demeuré(e)
+tu as ou es demeuré(e)
+il (elle) a ou est demeuré(e)
+nous avons ou sommes demeuré(e)s
+vous avez ou êtes demeuré(e)s
+ils (elles) ont ou sont demeuré(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais demeuré(e)
+tu avais ou étais demeuré(e)
+il (elle) avait ou était demeuré(e)
+nous avions ou étions demeuré(e)s
+vous aviez ou étiez demeuré(e)s
+ils (elles) avaient ou étaient demeuré(e)s
+
+** Passé antérieur
+
+j'eus ou fus demeuré(e)
+tu eus ou fus demeuré(e)
+il (elle) eut ou fut demeuré(e)
+nous eûmes ou fûmes demeuré(e)s
+vous eûtes ou fûtes demeuré(e)s
+ils (elles) eurent ou furent demeuré(e)s
+
+** Futur antérieur
+
+j'aurai ou serai demeuré(e)
+tu auras ou seras demeuré(e)
+il (elle) aura ou sera demeuré(e)
+nous aurons ou serons demeuré(e)s
+vous aurez ou serez demeuré(e)s
+ils (elles) auront ou seront demeuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais demeuré(e)
+tu aurais ou serais demeuré(e)
+il (elle) aurait ou serait demeuré(e)
+nous aurions ou serions demeuré(e)s
+vous auriez ou seriez demeuré(e)s
+ils (elles) auraient ou seraient demeuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois demeuré(e)
+que tu aies ou sois demeuré(e)
+qu’il (elle) ait ou soit demeuré(e)
+que nous ayons ou soyons demeuré(e)s
+que vous ayez ou soyez demeuré(e)s
+qu’ils (elles) aient ou soient demeuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse demeuré(e)
+que tu eusses ou fusses demeuré(e)
+qu’il (elle) eût ou fût demeuré(e)
+que nous eussions ou fussions demeuré(e)s
+que vous eussiez ou fussiez demeuré(e)s
+qu’ils (elles) eussent ou fussent demeuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons demeuré(e)s
+ayez ou soyez demeuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être demeuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant demeuré(e)(s)
+demeuré (é, ée, és, ées)

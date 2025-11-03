@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe assimiler
+
+* INDICATIF
+
+** Présent
+
+j'assimile
+tu assimiles
+il (elle) assimile
+nous assimilons
+vous assimilez
+ils (elles) assimilent
+
+** Imparfait
+
+j'assimilais
+tu assimilais
+il (elle) assimilait
+nous assimilions
+vous assimiliez
+ils (elles) assimilaient
+
+** Passé simple
+
+j'assimilai
+tu assimilas
+il (elle) assimila
+nous assimilâmes
+vous assimilâtes
+ils (elles) assimilèrent
+
+** Futur simple
+
+j'assimilerai
+tu assimileras
+il (elle) assimilera
+nous assimilerons
+vous assimilerez
+ils (elles) assimileront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assimilerais
+tu assimilerais
+il (elle) assimilerait
+nous assimilerions
+vous assimileriez
+ils (elles) assimileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'assimile
+que tu assimiles
+qu’il (elle) assimile
+que nous assimilions
+que vous assimiliez
+qu’ils (elles) assimilent
+
+** Imparfait
+
+que j'assimilasse
+que tu assimilasses
+qu’il (elle) assimilât
+que nous assimilassions
+que vous assimilassiez
+qu’ils (elles) assimilassent
+
+* IMPÉRATIF
+
+** Présent
+
+assimile
+assimilons
+assimilez
+
+* INFINITIF
+
+** Présent
+
+assimiler
+
+* PARTICIPE
+
+** Présent
+
+assimilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assimilé
+tu as assimilé
+il (elle) a assimilé
+nous avons assimilé
+vous avez assimilé
+ils (elles) ont assimilé
+
+** Plus-que-parfait
+
+j'avais assimilé
+tu avais assimilé
+il (elle) avait assimilé
+nous avions assimilé
+vous aviez assimilé
+ils (elles) avaient assimilé
+
+** Passé antérieur
+
+j'eus assimilé
+tu eus assimilé
+il (elle) eut assimilé
+nous eûmes assimilé
+vous eûtes assimilé
+ils (elles) eurent assimilé
+
+** Futur antérieur
+
+j'aurai assimilé
+tu auras assimilé
+il (elle) aura assimilé
+nous aurons assimilé
+vous aurez assimilé
+ils (elles) auront assimilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assimilé
+tu aurais assimilé
+il (elle) aurait assimilé
+nous aurions assimilé
+vous auriez assimilé
+ils (elles) auraient assimilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assimilé
+que tu aies assimilé
+qu’il (elle) ait assimilé
+que nous ayons assimilé
+que vous ayez assimilé
+qu’ils (elles) aient assimilé
+
+** Plus-que-parfait
+
+que j'eusse assimilé
+que tu eusses assimilé
+qu’il (elle) eût assimilé
+que nous eussions assimilé
+que vous eussiez assimilé
+qu’ils (elles) eussent assimilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assimilé
+ayez assimilé
+
+* INFINITIF
+
+** Passé
+
+avoir assimilé
+
+* PARTICIPE
+
+** Passé
+
+ayant assimilé
+assimilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis assimilé(e)
+tu es assimilé(e)
+il (elle) est assimilé(e)
+nous sommes assimilé(e)s
+vous êtes assimilé(e)s
+ils (elles) sont assimilé(e)s
+
+** Imparfait
+
+j'étais assimilé(e)
+tu étais assimilé(e)
+il (elle) était assimilé(e)
+nous étions assimilé(e)s
+vous étiez assimilé(e)s
+ils (elles) étaient assimilé(e)s
+
+** Passé simple
+
+je fus assimilé(e)
+tu fus assimilé(e)
+il (elle) fut assimilé(e)
+nous fûmes assimilé(e)s
+vous fûtes assimilé(e)s
+ils (elles) furent assimilé(e)s
+
+** Futur simple
+
+je serai assimilé(e)
+tu seras assimilé(e)
+il (elle) sera assimilé(e)
+nous serons assimilé(e)s
+vous serez assimilé(e)s
+ils (elles) seront assimilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assimilé(e)
+tu serais assimilé(e)
+il (elle) serait assimilé(e)
+nous serions assimilé(e)s
+vous seriez assimilé(e)s
+ils (elles) seraient assimilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assimilé(e)
+que tu sois assimilé(e)
+qu’il (elle) soit assimilé(e)
+que nous soyons assimilé(e)s
+que vous soyez assimilé(e)s
+qu’ils (elles) soient assimilé(e)s
+
+** Imparfait
+
+que je fusse assimilé(e)
+que tu fusses assimilé(e)
+qu’il (elle) fût assimilé(e)
+que nous fussions assimilé(e)s
+que vous fussiez assimilé(e)s
+qu’ils (elles) fussent assimilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assimilé(e)s
+soyez assimilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être assimilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant assimilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assimilé(e)
+tu as été assimilé(e)
+il (elle) a été assimilé(e)
+nous avons été assimilé(e)s
+vous avez été assimilé(e)s
+ils (elles) ont été assimilé(e)s
+
+** Plus-que-parfait
+
+j'avais été assimilé(e)
+il (elle) avait été assimilé(e)
+nous avions été assimilé(e)s
+ils (elles) avaient été assimilé(e)s
+
+** Passé antérieur
+
+j'eus été assimilé(e)
+tu eus été assimilé(e)
+il (elle) eut été assimilé(e)
+nous eûmes été assimilé(e)s
+vous eûtes été assimilé(e)s
+ils (elles) eurent été assimilé(e)s
+
+** Futur antérieur
+
+j'aurai été assimilé(e)
+tu auras été assimilé(e)
+il (elle) aura été assimilé(e)
+nous aurons été assimilé(e)s
+vous aurez été assimilé(e)s
+ils (elles) auront été assimilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assimilé(e)
+j'aurais été assimilé(e)
+il (elle) aurait été assimilé(e)
+nous aurions été assimilé(e)s
+vous auriez été assimilé(e)s
+ils (elles) auraient été assimilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assimilé(e)
+que tu aies été assimilé(e)
+qu’il (elle) ait été assimilé(e)
+que nous ayons été assimilé(e)s
+que vous ayez été assimilé(e)s
+qu’ils (elles) aient été assimilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été assimilé(e)
+que tu eusses été assimilé(e)
+qu’il (elle) eût été assimilé(e)
+que nous eussions été assimilé(e)s
+que vous eussiez été assimilé(e)s
+qu’ils (elles) eussent été assimilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assimilé(e)
+ayons été assimilé(e)s
+ayez été assimilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été assimilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assimilé(e)(s)

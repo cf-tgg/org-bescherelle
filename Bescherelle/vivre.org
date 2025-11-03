@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe vivre
+
+* INDICATIF
+
+** Présent
+
+je vis
+tu vis
+il (elle) vit
+nous vivons
+vous vivez
+ils (elles) vivent
+
+** Imparfait
+
+je vivais
+tu vivais
+il (elle) vivait
+nous vivions
+vous viviez
+ils (elles) vivaient
+
+** Passé simple
+
+je vécus
+tu vécus
+il (elle) vécut
+nous vécûmes
+vous vécûtes
+ils (elles) vécurent
+
+** Futur simple
+
+je vivrai
+tu vivras
+il (elle) vivra
+nous vivrons
+vous vivrez
+ils (elles) vivront
+
+* CONDITIONNEL
+
+** Présent
+
+je vivrais
+tu vivrais
+il (elle) vivrait
+nous vivrions
+vous vivriez
+ils (elles) vivraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vive
+que tu vives
+qu’il (elle) vive
+que nous vivions
+que vous viviez
+qu’ils (elles) vivent
+
+** Imparfait
+
+que je vécusse
+que tu vécusses
+qu’il (elle) vécût
+que nous vécussions
+que vous vécussiez
+qu’ils (elles) vécussent
+
+* IMPÉRATIF
+
+** Présent
+
+vis
+vivons
+vivez
+
+* INFINITIF
+
+** Présent
+
+vivre
+
+* PARTICIPE
+
+** Présent
+
+vivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vécu
+tu as vécu
+il (elle) a vécu
+nous avons vécu
+vous avez vécu
+ils (elles) ont vécu
+
+** Plus-que-parfait
+
+j'avais vécu
+tu avais vécu
+il (elle) avait vécu
+nous avions vécu
+vous aviez vécu
+ils (elles) avaient vécu
+
+** Passé antérieur
+
+j'eus vécu
+tu eus vécu
+il (elle) eut vécu
+nous eûmes vécu
+vous eûtes vécu
+ils (elles) eurent vécu
+
+** Futur antérieur
+
+j'aurai vécu
+tu auras vécu
+il (elle) aura vécu
+nous aurons vécu
+vous aurez vécu
+ils (elles) auront vécu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vécu
+tu aurais vécu
+il (elle) aurait vécu
+nous aurions vécu
+vous auriez vécu
+ils (elles) auraient vécu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vécu
+que tu aies vécu
+qu’il (elle) ait vécu
+que nous ayons vécu
+que vous ayez vécu
+qu’ils (elles) aient vécu
+
+** Plus-que-parfait
+
+que j'eusse vécu
+que tu eusses vécu
+qu’il (elle) eût vécu
+que nous eussions vécu
+que vous eussiez vécu
+qu’ils (elles) eussent vécu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vécu
+ayez vécu
+
+* INFINITIF
+
+** Passé
+
+avoir vécu
+
+* PARTICIPE
+
+** Passé
+
+ayant vécu
+vécu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis vécu(e)
+tu es vécu(e)
+il (elle) est vécu(e)
+nous sommes vécu(e)s
+vous êtes vécu(e)s
+ils (elles) sont vécu(e)s
+
+** Imparfait
+
+j'étais vécu(e)
+tu étais vécu(e)
+il (elle) était vécu(e)
+nous étions vécu(e)s
+vous étiez vécu(e)s
+ils (elles) étaient vécu(e)s
+
+** Passé simple
+
+je fus vécu(e)
+tu fus vécu(e)
+il (elle) fut vécu(e)
+nous fûmes vécu(e)s
+vous fûtes vécu(e)s
+ils (elles) furent vécu(e)s
+
+** Futur simple
+
+je serai vécu(e)
+tu seras vécu(e)
+il (elle) sera vécu(e)
+nous serons vécu(e)s
+vous serez vécu(e)s
+ils (elles) seront vécu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais vécu(e)
+tu serais vécu(e)
+il (elle) serait vécu(e)
+nous serions vécu(e)s
+vous seriez vécu(e)s
+ils (elles) seraient vécu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois vécu(e)
+que tu sois vécu(e)
+qu’il (elle) soit vécu(e)
+que nous soyons vécu(e)s
+que vous soyez vécu(e)s
+qu’ils (elles) soient vécu(e)s
+
+** Imparfait
+
+que je fusse vécu(e)
+que tu fusses vécu(e)
+qu’il (elle) fût vécu(e)
+que nous fussions vécu(e)s
+que vous fussiez vécu(e)s
+qu’ils (elles) fussent vécu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons vécu(e)s
+soyez vécu(e)s
+
+* INFINITIF
+
+** Présent
+
+être vécu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant vécu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été vécu(e)
+tu as été vécu(e)
+il (elle) a été vécu(e)
+nous avons été vécu(e)s
+vous avez été vécu(e)s
+ils (elles) ont été vécu(e)s
+
+** Plus-que-parfait
+
+j'avais été vécu(e)
+il (elle) avait été vécu(e)
+nous avions été vécu(e)s
+ils (elles) avaient été vécu(e)s
+
+** Passé antérieur
+
+j'eus été vécu(e)
+tu eus été vécu(e)
+il (elle) eut été vécu(e)
+nous eûmes été vécu(e)s
+vous eûtes été vécu(e)s
+ils (elles) eurent été vécu(e)s
+
+** Futur antérieur
+
+j'aurai été vécu(e)
+tu auras été vécu(e)
+il (elle) aura été vécu(e)
+nous aurons été vécu(e)s
+vous aurez été vécu(e)s
+ils (elles) auront été vécu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été vécu(e)
+j'aurais été vécu(e)
+il (elle) aurait été vécu(e)
+nous aurions été vécu(e)s
+vous auriez été vécu(e)s
+ils (elles) auraient été vécu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été vécu(e)
+que tu aies été vécu(e)
+qu’il (elle) ait été vécu(e)
+que nous ayons été vécu(e)s
+que vous ayez été vécu(e)s
+qu’ils (elles) aient été vécu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été vécu(e)
+que tu eusses été vécu(e)
+qu’il (elle) eût été vécu(e)
+que nous eussions été vécu(e)s
+que vous eussiez été vécu(e)s
+qu’ils (elles) eussent été vécu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été vécu(e)
+ayons été vécu(e)s
+ayez été vécu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été vécu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été vécu(e)(s)

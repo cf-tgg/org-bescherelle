@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe souffler
+
+* INDICATIF
+
+** Présent
+
+je souffle
+tu souffles
+il (elle) souffle
+nous soufflons
+vous soufflez
+ils (elles) soufflent
+
+** Imparfait
+
+je soufflais
+tu soufflais
+il (elle) soufflait
+nous soufflions
+vous souffliez
+ils (elles) soufflaient
+
+** Passé simple
+
+je soufflai
+tu soufflas
+il (elle) souffla
+nous soufflâmes
+vous soufflâtes
+ils (elles) soufflèrent
+
+** Futur simple
+
+je soufflerai
+tu souffleras
+il (elle) soufflera
+nous soufflerons
+vous soufflerez
+ils (elles) souffleront
+
+* CONDITIONNEL
+
+** Présent
+
+je soufflerais
+tu soufflerais
+il (elle) soufflerait
+nous soufflerions
+vous souffleriez
+ils (elles) souffleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je souffle
+que tu souffles
+qu’il (elle) souffle
+que nous soufflions
+que vous souffliez
+qu’ils (elles) soufflent
+
+** Imparfait
+
+que je soufflasse
+que tu soufflasses
+qu’il (elle) soufflât
+que nous soufflassions
+que vous soufflassiez
+qu’ils (elles) soufflassent
+
+* IMPÉRATIF
+
+** Présent
+
+souffle
+soufflons
+soufflez
+
+* INFINITIF
+
+** Présent
+
+souffler
+
+* PARTICIPE
+
+** Présent
+
+soufflant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soufflé
+tu as soufflé
+il (elle) a soufflé
+nous avons soufflé
+vous avez soufflé
+ils (elles) ont soufflé
+
+** Plus-que-parfait
+
+j'avais soufflé
+tu avais soufflé
+il (elle) avait soufflé
+nous avions soufflé
+vous aviez soufflé
+ils (elles) avaient soufflé
+
+** Passé antérieur
+
+j'eus soufflé
+tu eus soufflé
+il (elle) eut soufflé
+nous eûmes soufflé
+vous eûtes soufflé
+ils (elles) eurent soufflé
+
+** Futur antérieur
+
+j'aurai soufflé
+tu auras soufflé
+il (elle) aura soufflé
+nous aurons soufflé
+vous aurez soufflé
+ils (elles) auront soufflé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soufflé
+tu aurais soufflé
+il (elle) aurait soufflé
+nous aurions soufflé
+vous auriez soufflé
+ils (elles) auraient soufflé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soufflé
+que tu aies soufflé
+qu’il (elle) ait soufflé
+que nous ayons soufflé
+que vous ayez soufflé
+qu’ils (elles) aient soufflé
+
+** Plus-que-parfait
+
+que j'eusse soufflé
+que tu eusses soufflé
+qu’il (elle) eût soufflé
+que nous eussions soufflé
+que vous eussiez soufflé
+qu’ils (elles) eussent soufflé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soufflé
+ayez soufflé
+
+* INFINITIF
+
+** Passé
+
+avoir soufflé
+
+* PARTICIPE
+
+** Passé
+
+ayant soufflé
+soufflé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis soufflé(e)
+tu es soufflé(e)
+il (elle) est soufflé(e)
+nous sommes soufflé(e)s
+vous êtes soufflé(e)s
+ils (elles) sont soufflé(e)s
+
+** Imparfait
+
+j'étais soufflé(e)
+tu étais soufflé(e)
+il (elle) était soufflé(e)
+nous étions soufflé(e)s
+vous étiez soufflé(e)s
+ils (elles) étaient soufflé(e)s
+
+** Passé simple
+
+je fus soufflé(e)
+tu fus soufflé(e)
+il (elle) fut soufflé(e)
+nous fûmes soufflé(e)s
+vous fûtes soufflé(e)s
+ils (elles) furent soufflé(e)s
+
+** Futur simple
+
+je serai soufflé(e)
+tu seras soufflé(e)
+il (elle) sera soufflé(e)
+nous serons soufflé(e)s
+vous serez soufflé(e)s
+ils (elles) seront soufflé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soufflé(e)
+tu serais soufflé(e)
+il (elle) serait soufflé(e)
+nous serions soufflé(e)s
+vous seriez soufflé(e)s
+ils (elles) seraient soufflé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soufflé(e)
+que tu sois soufflé(e)
+qu’il (elle) soit soufflé(e)
+que nous soyons soufflé(e)s
+que vous soyez soufflé(e)s
+qu’ils (elles) soient soufflé(e)s
+
+** Imparfait
+
+que je fusse soufflé(e)
+que tu fusses soufflé(e)
+qu’il (elle) fût soufflé(e)
+que nous fussions soufflé(e)s
+que vous fussiez soufflé(e)s
+qu’ils (elles) fussent soufflé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soufflé(e)s
+soyez soufflé(e)s
+
+* INFINITIF
+
+** Présent
+
+être soufflé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soufflé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soufflé(e)
+tu as été soufflé(e)
+il (elle) a été soufflé(e)
+nous avons été soufflé(e)s
+vous avez été soufflé(e)s
+ils (elles) ont été soufflé(e)s
+
+** Plus-que-parfait
+
+j'avais été soufflé(e)
+il (elle) avait été soufflé(e)
+nous avions été soufflé(e)s
+ils (elles) avaient été soufflé(e)s
+
+** Passé antérieur
+
+j'eus été soufflé(e)
+tu eus été soufflé(e)
+il (elle) eut été soufflé(e)
+nous eûmes été soufflé(e)s
+vous eûtes été soufflé(e)s
+ils (elles) eurent été soufflé(e)s
+
+** Futur antérieur
+
+j'aurai été soufflé(e)
+tu auras été soufflé(e)
+il (elle) aura été soufflé(e)
+nous aurons été soufflé(e)s
+vous aurez été soufflé(e)s
+ils (elles) auront été soufflé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soufflé(e)
+j'aurais été soufflé(e)
+il (elle) aurait été soufflé(e)
+nous aurions été soufflé(e)s
+vous auriez été soufflé(e)s
+ils (elles) auraient été soufflé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soufflé(e)
+que tu aies été soufflé(e)
+qu’il (elle) ait été soufflé(e)
+que nous ayons été soufflé(e)s
+que vous ayez été soufflé(e)s
+qu’ils (elles) aient été soufflé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soufflé(e)
+que tu eusses été soufflé(e)
+qu’il (elle) eût été soufflé(e)
+que nous eussions été soufflé(e)s
+que vous eussiez été soufflé(e)s
+qu’ils (elles) eussent été soufflé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soufflé(e)
+ayons été soufflé(e)s
+ayez été soufflé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soufflé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soufflé(e)(s)

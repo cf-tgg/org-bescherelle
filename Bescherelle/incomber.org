@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe incomber
+
+* INDICATIF
+
+** Présent
+
+j'incombe
+tu incombes
+il (elle) incombe
+nous incombons
+vous incombez
+ils (elles) incombent
+
+** Imparfait
+
+j'incombais
+tu incombais
+il (elle) incombait
+nous incombions
+vous incombiez
+ils (elles) incombaient
+
+** Passé simple
+
+j'incombai
+tu incombas
+il (elle) incomba
+nous incombâmes
+vous incombâtes
+ils (elles) incombèrent
+
+** Futur simple
+
+j'incomberai
+tu incomberas
+il (elle) incombera
+nous incomberons
+vous incomberez
+ils (elles) incomberont
+
+* CONDITIONNEL
+
+** Présent
+
+j'incomberais
+tu incomberais
+il (elle) incomberait
+nous incomberions
+vous incomberiez
+ils (elles) incomberaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'incombe
+que tu incombes
+qu’il (elle) incombe
+que nous incombions
+que vous incombiez
+qu’ils (elles) incombent
+
+** Imparfait
+
+que j'incombasse
+que tu incombasses
+qu’il (elle) incombât
+que nous incombassions
+que vous incombassiez
+qu’ils (elles) incombassent
+
+* IMPÉRATIF
+
+** Présent
+
+incombe
+incombons
+incombez
+
+* INFINITIF
+
+** Présent
+
+incomber
+
+* PARTICIPE
+
+** Présent
+
+incombant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai incombé
+tu as incombé
+il (elle) a incombé
+nous avons incombé
+vous avez incombé
+ils (elles) ont incombé
+
+** Plus-que-parfait
+
+j'avais incombé
+tu avais incombé
+il (elle) avait incombé
+nous avions incombé
+vous aviez incombé
+ils (elles) avaient incombé
+
+** Passé antérieur
+
+j'eus incombé
+tu eus incombé
+il (elle) eut incombé
+nous eûmes incombé
+vous eûtes incombé
+ils (elles) eurent incombé
+
+** Futur antérieur
+
+j'aurai incombé
+tu auras incombé
+il (elle) aura incombé
+nous aurons incombé
+vous aurez incombé
+ils (elles) auront incombé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais incombé
+tu aurais incombé
+il (elle) aurait incombé
+nous aurions incombé
+vous auriez incombé
+ils (elles) auraient incombé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie incombé
+que tu aies incombé
+qu’il (elle) ait incombé
+que nous ayons incombé
+que vous ayez incombé
+qu’ils (elles) aient incombé
+
+** Plus-que-parfait
+
+que j'eusse incombé
+que tu eusses incombé
+qu’il (elle) eût incombé
+que nous eussions incombé
+que vous eussiez incombé
+qu’ils (elles) eussent incombé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons incombé
+ayez incombé
+
+* INFINITIF
+
+** Passé
+
+avoir incombé
+
+* PARTICIPE
+
+** Passé
+
+ayant incombé
+incombé (invar.)

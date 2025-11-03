@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe parcourir
+
+* INDICATIF
+
+** Présent
+
+je parcours
+tu parcours
+il (elle) parcourt
+nous parcourons
+vous parcourez
+ils (elles) parcourent
+
+** Imparfait
+
+je parcourais
+tu parcourais
+il (elle) parcourait
+nous parcourions
+vous parcouriez
+ils (elles) parcouraient
+
+** Passé simple
+
+je parcourus
+tu parcourus
+il (elle) parcourut
+nous parcourûmes
+vous parcourûtes
+ils (elles) parcoururent
+
+** Futur simple
+
+je parcourrai
+tu parcourras
+il (elle) parcourra
+nous parcourrons
+vous parcourrez
+ils (elles) parcourront
+
+* CONDITIONNEL
+
+** Présent
+
+je parcourrais
+tu parcourrais
+il (elle) parcourrait
+nous parcourrions
+vous parcourriez
+ils (elles) parcourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parcoure
+que tu parcoures
+qu’il (elle) parcoure
+que nous parcourions
+que vous parcouriez
+qu’ils (elles) parcourent
+
+** Imparfait
+
+que je parcourusse
+que tu parcourusses
+qu’il (elle) parcourût
+que nous parcourussions
+que vous parcourussiez
+qu’ils (elles) parcourussent
+
+* IMPÉRATIF
+
+** Présent
+
+parcours
+parcourons
+parcourez
+
+* INFINITIF
+
+** Présent
+
+parcourir
+
+* PARTICIPE
+
+** Présent
+
+parcourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai parcouru
+tu as parcouru
+il (elle) a parcouru
+nous avons parcouru
+vous avez parcouru
+ils (elles) ont parcouru
+
+** Plus-que-parfait
+
+j'avais parcouru
+tu avais parcouru
+il (elle) avait parcouru
+nous avions parcouru
+vous aviez parcouru
+ils (elles) avaient parcouru
+
+** Passé antérieur
+
+j'eus parcouru
+tu eus parcouru
+il (elle) eut parcouru
+nous eûmes parcouru
+vous eûtes parcouru
+ils (elles) eurent parcouru
+
+** Futur antérieur
+
+j'aurai parcouru
+tu auras parcouru
+il (elle) aura parcouru
+nous aurons parcouru
+vous aurez parcouru
+ils (elles) auront parcouru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais parcouru
+tu aurais parcouru
+il (elle) aurait parcouru
+nous aurions parcouru
+vous auriez parcouru
+ils (elles) auraient parcouru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie parcouru
+que tu aies parcouru
+qu’il (elle) ait parcouru
+que nous ayons parcouru
+que vous ayez parcouru
+qu’ils (elles) aient parcouru
+
+** Plus-que-parfait
+
+que j'eusse parcouru
+que tu eusses parcouru
+qu’il (elle) eût parcouru
+que nous eussions parcouru
+que vous eussiez parcouru
+qu’ils (elles) eussent parcouru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons parcouru
+ayez parcouru
+
+* INFINITIF
+
+** Passé
+
+avoir parcouru
+
+* PARTICIPE
+
+** Passé
+
+ayant parcouru
+parcouru (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis parcouru(e)
+tu es parcouru(e)
+il (elle) est parcouru(e)
+nous sommes parcouru(e)s
+vous êtes parcouru(e)s
+ils (elles) sont parcouru(e)s
+
+** Imparfait
+
+j'étais parcouru(e)
+tu étais parcouru(e)
+il (elle) était parcouru(e)
+nous étions parcouru(e)s
+vous étiez parcouru(e)s
+ils (elles) étaient parcouru(e)s
+
+** Passé simple
+
+je fus parcouru(e)
+tu fus parcouru(e)
+il (elle) fut parcouru(e)
+nous fûmes parcouru(e)s
+vous fûtes parcouru(e)s
+ils (elles) furent parcouru(e)s
+
+** Futur simple
+
+je serai parcouru(e)
+tu seras parcouru(e)
+il (elle) sera parcouru(e)
+nous serons parcouru(e)s
+vous serez parcouru(e)s
+ils (elles) seront parcouru(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais parcouru(e)
+tu serais parcouru(e)
+il (elle) serait parcouru(e)
+nous serions parcouru(e)s
+vous seriez parcouru(e)s
+ils (elles) seraient parcouru(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois parcouru(e)
+que tu sois parcouru(e)
+qu’il (elle) soit parcouru(e)
+que nous soyons parcouru(e)s
+que vous soyez parcouru(e)s
+qu’ils (elles) soient parcouru(e)s
+
+** Imparfait
+
+que je fusse parcouru(e)
+que tu fusses parcouru(e)
+qu’il (elle) fût parcouru(e)
+que nous fussions parcouru(e)s
+que vous fussiez parcouru(e)s
+qu’ils (elles) fussent parcouru(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons parcouru(e)s
+soyez parcouru(e)s
+
+* INFINITIF
+
+** Présent
+
+être parcouru(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant parcouru(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été parcouru(e)
+tu as été parcouru(e)
+il (elle) a été parcouru(e)
+nous avons été parcouru(e)s
+vous avez été parcouru(e)s
+ils (elles) ont été parcouru(e)s
+
+** Plus-que-parfait
+
+j'avais été parcouru(e)
+il (elle) avait été parcouru(e)
+nous avions été parcouru(e)s
+ils (elles) avaient été parcouru(e)s
+
+** Passé antérieur
+
+j'eus été parcouru(e)
+tu eus été parcouru(e)
+il (elle) eut été parcouru(e)
+nous eûmes été parcouru(e)s
+vous eûtes été parcouru(e)s
+ils (elles) eurent été parcouru(e)s
+
+** Futur antérieur
+
+j'aurai été parcouru(e)
+tu auras été parcouru(e)
+il (elle) aura été parcouru(e)
+nous aurons été parcouru(e)s
+vous aurez été parcouru(e)s
+ils (elles) auront été parcouru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été parcouru(e)
+j'aurais été parcouru(e)
+il (elle) aurait été parcouru(e)
+nous aurions été parcouru(e)s
+vous auriez été parcouru(e)s
+ils (elles) auraient été parcouru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été parcouru(e)
+que tu aies été parcouru(e)
+qu’il (elle) ait été parcouru(e)
+que nous ayons été parcouru(e)s
+que vous ayez été parcouru(e)s
+qu’ils (elles) aient été parcouru(e)s
+
+** Plus-que-parfait
+
+que j'eusse été parcouru(e)
+que tu eusses été parcouru(e)
+qu’il (elle) eût été parcouru(e)
+que nous eussions été parcouru(e)s
+que vous eussiez été parcouru(e)s
+qu’ils (elles) eussent été parcouru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été parcouru(e)
+ayons été parcouru(e)s
+ayez été parcouru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été parcouru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été parcouru(e)(s)

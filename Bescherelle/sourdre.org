@@ -1,0 +1,89 @@
+#+title: Conjugaison du verbe sourdre
+
+* INDICATIF
+
+** Présent
+
+il (elle) sourd
+ils (elles) sourdent
+
+** Imparfait
+
+il (elle) sourdait
+ils (elles) sourdaient
+
+** Passé simple
+
+il (elle) sourdit
+ils (elles) sourdirent
+
+** Futur simple
+
+il (elle) sourdra
+ils (elles) sourdront
+
+* INFINITIF
+
+** Présent
+
+sourdre
+
+* PARTICIPE
+
+** Présent
+
+sourdant
+
+* INDICATIF
+
+** Passé composé
+
+il (elle) a sourdi
+ils (elles) ont sourdi
+
+** Plus-que-parfait
+
+il (elle) avait sourdi
+ils (elles) avaient sourdi
+
+** Passé antérieur
+
+il (elle) eut sourdi
+ils (elles) eurent sourdi
+
+** Futur antérieur
+
+il (elle) aura sourdi
+ils (elles) auront sourdi
+
+* CONDITIONNEL
+
+** Passé
+
+il (elle) aurait sourdi
+ils (elles) auraient sourdi
+
+* SUBJONCTIF
+
+** Passé
+
+qu’il (elle) ait sourdi
+qu’ils (elles) aient sourdi
+
+** Plus-que-parfait
+
+qu’il (elle) eût sourdi
+qu’ils (elles) eussent sourdi
+
+* INFINITIF
+
+** Passé
+
+avoir sourdi
+
+* PARTICIPE
+
+** Passé
+
+ayant sourdi
+sourdi (invar.)

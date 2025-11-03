@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe eviter
+
+* INDICATIF
+
+** Présent
+
+j'évite
+tu évites
+il (elle) évite
+nous évitons
+vous évitez
+ils (elles) évitent
+
+** Imparfait
+
+j'évitais
+tu évitais
+il (elle) évitait
+nous évitions
+vous évitiez
+ils (elles) évitaient
+
+** Passé simple
+
+j'évitai
+tu évitas
+il (elle) évita
+nous évitâmes
+vous évitâtes
+ils (elles) évitèrent
+
+** Futur simple
+
+j'éviterai
+tu éviteras
+il (elle) évitera
+nous éviterons
+vous éviterez
+ils (elles) éviteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'éviterais
+tu éviterais
+il (elle) éviterait
+nous éviterions
+vous éviteriez
+ils (elles) éviteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'évite
+que tu évites
+qu’il (elle) évite
+que nous évitions
+que vous évitiez
+qu’ils (elles) évitent
+
+** Imparfait
+
+que j'évitasse
+que tu évitasses
+qu’il (elle) évitât
+que nous évitassions
+que vous évitassiez
+qu’ils (elles) évitassent
+
+* IMPÉRATIF
+
+** Présent
+
+évite
+évitons
+évitez
+
+* INFINITIF
+
+** Présent
+
+éviter
+
+* PARTICIPE
+
+** Présent
+
+évitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai évité
+tu as évité
+il (elle) a évité
+nous avons évité
+vous avez évité
+ils (elles) ont évité
+
+** Plus-que-parfait
+
+j'avais évité
+tu avais évité
+il (elle) avait évité
+nous avions évité
+vous aviez évité
+ils (elles) avaient évité
+
+** Passé antérieur
+
+j'eus évité
+tu eus évité
+il (elle) eut évité
+nous eûmes évité
+vous eûtes évité
+ils (elles) eurent évité
+
+** Futur antérieur
+
+j'aurai évité
+tu auras évité
+il (elle) aura évité
+nous aurons évité
+vous aurez évité
+ils (elles) auront évité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais évité
+tu aurais évité
+il (elle) aurait évité
+nous aurions évité
+vous auriez évité
+ils (elles) auraient évité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie évité
+que tu aies évité
+qu’il (elle) ait évité
+que nous ayons évité
+que vous ayez évité
+qu’ils (elles) aient évité
+
+** Plus-que-parfait
+
+que j'eusse évité
+que tu eusses évité
+qu’il (elle) eût évité
+que nous eussions évité
+que vous eussiez évité
+qu’ils (elles) eussent évité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons évité
+ayez évité
+
+* INFINITIF
+
+** Passé
+
+avoir évité
+
+* PARTICIPE
+
+** Passé
+
+ayant évité
+évité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis évité(e)
+tu es évité(e)
+il (elle) est évité(e)
+nous sommes évité(e)s
+vous êtes évité(e)s
+ils (elles) sont évité(e)s
+
+** Imparfait
+
+j'étais évité(e)
+tu étais évité(e)
+il (elle) était évité(e)
+nous étions évité(e)s
+vous étiez évité(e)s
+ils (elles) étaient évité(e)s
+
+** Passé simple
+
+je fus évité(e)
+tu fus évité(e)
+il (elle) fut évité(e)
+nous fûmes évité(e)s
+vous fûtes évité(e)s
+ils (elles) furent évité(e)s
+
+** Futur simple
+
+je serai évité(e)
+tu seras évité(e)
+il (elle) sera évité(e)
+nous serons évité(e)s
+vous serez évité(e)s
+ils (elles) seront évité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais évité(e)
+tu serais évité(e)
+il (elle) serait évité(e)
+nous serions évité(e)s
+vous seriez évité(e)s
+ils (elles) seraient évité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois évité(e)
+que tu sois évité(e)
+qu’il (elle) soit évité(e)
+que nous soyons évité(e)s
+que vous soyez évité(e)s
+qu’ils (elles) soient évité(e)s
+
+** Imparfait
+
+que je fusse évité(e)
+que tu fusses évité(e)
+qu’il (elle) fût évité(e)
+que nous fussions évité(e)s
+que vous fussiez évité(e)s
+qu’ils (elles) fussent évité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons évité(e)s
+soyez évité(e)s
+
+* INFINITIF
+
+** Présent
+
+être évité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant évité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été évité(e)
+tu as été évité(e)
+il (elle) a été évité(e)
+nous avons été évité(e)s
+vous avez été évité(e)s
+ils (elles) ont été évité(e)s
+
+** Plus-que-parfait
+
+j'avais été évité(e)
+il (elle) avait été évité(e)
+nous avions été évité(e)s
+ils (elles) avaient été évité(e)s
+
+** Passé antérieur
+
+j'eus été évité(e)
+tu eus été évité(e)
+il (elle) eut été évité(e)
+nous eûmes été évité(e)s
+vous eûtes été évité(e)s
+ils (elles) eurent été évité(e)s
+
+** Futur antérieur
+
+j'aurai été évité(e)
+tu auras été évité(e)
+il (elle) aura été évité(e)
+nous aurons été évité(e)s
+vous aurez été évité(e)s
+ils (elles) auront été évité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été évité(e)
+j'aurais été évité(e)
+il (elle) aurait été évité(e)
+nous aurions été évité(e)s
+vous auriez été évité(e)s
+ils (elles) auraient été évité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été évité(e)
+que tu aies été évité(e)
+qu’il (elle) ait été évité(e)
+que nous ayons été évité(e)s
+que vous ayez été évité(e)s
+qu’ils (elles) aient été évité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été évité(e)
+que tu eusses été évité(e)
+qu’il (elle) eût été évité(e)
+que nous eussions été évité(e)s
+que vous eussiez été évité(e)s
+qu’ils (elles) eussent été évité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été évité(e)
+ayons été évité(e)s
+ayez été évité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été évité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été évité(e)(s)

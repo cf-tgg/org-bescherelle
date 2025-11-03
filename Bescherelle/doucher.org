@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe doucher
+
+* INDICATIF
+
+** Présent
+
+je douche
+tu douches
+il (elle) douche
+nous douchons
+vous douchez
+ils (elles) douchent
+
+** Imparfait
+
+je douchais
+tu douchais
+il (elle) douchait
+nous douchions
+vous douchiez
+ils (elles) douchaient
+
+** Passé simple
+
+je douchai
+tu douchas
+il (elle) doucha
+nous douchâmes
+vous douchâtes
+ils (elles) douchèrent
+
+** Futur simple
+
+je doucherai
+tu doucheras
+il (elle) douchera
+nous doucherons
+vous doucherez
+ils (elles) doucheront
+
+* CONDITIONNEL
+
+** Présent
+
+je doucherais
+tu doucherais
+il (elle) doucherait
+nous doucherions
+vous doucheriez
+ils (elles) doucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je douche
+que tu douches
+qu’il (elle) douche
+que nous douchions
+que vous douchiez
+qu’ils (elles) douchent
+
+** Imparfait
+
+que je douchasse
+que tu douchasses
+qu’il (elle) douchât
+que nous douchassions
+que vous douchassiez
+qu’ils (elles) douchassent
+
+* IMPÉRATIF
+
+** Présent
+
+douche
+douchons
+douchez
+
+* INFINITIF
+
+** Présent
+
+doucher
+
+* PARTICIPE
+
+** Présent
+
+douchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai douché
+tu as douché
+il (elle) a douché
+nous avons douché
+vous avez douché
+ils (elles) ont douché
+
+** Plus-que-parfait
+
+j'avais douché
+tu avais douché
+il (elle) avait douché
+nous avions douché
+vous aviez douché
+ils (elles) avaient douché
+
+** Passé antérieur
+
+j'eus douché
+tu eus douché
+il (elle) eut douché
+nous eûmes douché
+vous eûtes douché
+ils (elles) eurent douché
+
+** Futur antérieur
+
+j'aurai douché
+tu auras douché
+il (elle) aura douché
+nous aurons douché
+vous aurez douché
+ils (elles) auront douché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais douché
+tu aurais douché
+il (elle) aurait douché
+nous aurions douché
+vous auriez douché
+ils (elles) auraient douché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie douché
+que tu aies douché
+qu’il (elle) ait douché
+que nous ayons douché
+que vous ayez douché
+qu’ils (elles) aient douché
+
+** Plus-que-parfait
+
+que j'eusse douché
+que tu eusses douché
+qu’il (elle) eût douché
+que nous eussions douché
+que vous eussiez douché
+qu’ils (elles) eussent douché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons douché
+ayez douché
+
+* INFINITIF
+
+** Passé
+
+avoir douché
+
+* PARTICIPE
+
+** Passé
+
+ayant douché
+douché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis douché(e)
+tu es douché(e)
+il (elle) est douché(e)
+nous sommes douché(e)s
+vous êtes douché(e)s
+ils (elles) sont douché(e)s
+
+** Imparfait
+
+j'étais douché(e)
+tu étais douché(e)
+il (elle) était douché(e)
+nous étions douché(e)s
+vous étiez douché(e)s
+ils (elles) étaient douché(e)s
+
+** Passé simple
+
+je fus douché(e)
+tu fus douché(e)
+il (elle) fut douché(e)
+nous fûmes douché(e)s
+vous fûtes douché(e)s
+ils (elles) furent douché(e)s
+
+** Futur simple
+
+je serai douché(e)
+tu seras douché(e)
+il (elle) sera douché(e)
+nous serons douché(e)s
+vous serez douché(e)s
+ils (elles) seront douché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais douché(e)
+tu serais douché(e)
+il (elle) serait douché(e)
+nous serions douché(e)s
+vous seriez douché(e)s
+ils (elles) seraient douché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois douché(e)
+que tu sois douché(e)
+qu’il (elle) soit douché(e)
+que nous soyons douché(e)s
+que vous soyez douché(e)s
+qu’ils (elles) soient douché(e)s
+
+** Imparfait
+
+que je fusse douché(e)
+que tu fusses douché(e)
+qu’il (elle) fût douché(e)
+que nous fussions douché(e)s
+que vous fussiez douché(e)s
+qu’ils (elles) fussent douché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons douché(e)s
+soyez douché(e)s
+
+* INFINITIF
+
+** Présent
+
+être douché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant douché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été douché(e)
+tu as été douché(e)
+il (elle) a été douché(e)
+nous avons été douché(e)s
+vous avez été douché(e)s
+ils (elles) ont été douché(e)s
+
+** Plus-que-parfait
+
+j'avais été douché(e)
+il (elle) avait été douché(e)
+nous avions été douché(e)s
+ils (elles) avaient été douché(e)s
+
+** Passé antérieur
+
+j'eus été douché(e)
+tu eus été douché(e)
+il (elle) eut été douché(e)
+nous eûmes été douché(e)s
+vous eûtes été douché(e)s
+ils (elles) eurent été douché(e)s
+
+** Futur antérieur
+
+j'aurai été douché(e)
+tu auras été douché(e)
+il (elle) aura été douché(e)
+nous aurons été douché(e)s
+vous aurez été douché(e)s
+ils (elles) auront été douché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été douché(e)
+j'aurais été douché(e)
+il (elle) aurait été douché(e)
+nous aurions été douché(e)s
+vous auriez été douché(e)s
+ils (elles) auraient été douché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été douché(e)
+que tu aies été douché(e)
+qu’il (elle) ait été douché(e)
+que nous ayons été douché(e)s
+que vous ayez été douché(e)s
+qu’ils (elles) aient été douché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été douché(e)
+que tu eusses été douché(e)
+qu’il (elle) eût été douché(e)
+que nous eussions été douché(e)s
+que vous eussiez été douché(e)s
+qu’ils (elles) eussent été douché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été douché(e)
+ayons été douché(e)s
+ayez été douché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été douché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été douché(e)(s)

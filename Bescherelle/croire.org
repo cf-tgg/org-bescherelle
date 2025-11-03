@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe croire
+
+* INDICATIF
+
+** Présent
+
+je crois
+tu crois
+il (elle) croit
+nous croyons
+vous croyez
+ils (elles) croient
+
+** Imparfait
+
+je croyais
+tu croyais
+il (elle) croyait
+nous croyions
+vous croyiez
+ils (elles) croyaient
+
+** Passé simple
+
+je crus
+tu crus
+il (elle) crut
+nous crûmes
+vous crûtes
+ils (elles) crurent
+
+** Futur simple
+
+je croirai
+tu croiras
+il (elle) croira
+nous croirons
+vous croirez
+ils (elles) croiront
+
+* CONDITIONNEL
+
+** Présent
+
+je croirais
+tu croirais
+il (elle) croirait
+nous croirions
+vous croiriez
+ils (elles) croiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je croie
+que tu croies
+qu’il (elle) croie
+que nous croyions
+que vous croyiez
+qu’ils (elles) croient
+
+** Imparfait
+
+que je crusse
+que tu crusses
+qu’il (elle) crût
+que nous crussions
+que vous crussiez
+qu’ils (elles) crussent
+
+* IMPÉRATIF
+
+** Présent
+
+crois
+croyons
+croyez
+
+* INFINITIF
+
+** Présent
+
+croire
+
+* PARTICIPE
+
+** Présent
+
+croyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cru
+tu as cru
+il (elle) a cru
+nous avons cru
+vous avez cru
+ils (elles) ont cru
+
+** Plus-que-parfait
+
+j'avais cru
+tu avais cru
+il (elle) avait cru
+nous avions cru
+vous aviez cru
+ils (elles) avaient cru
+
+** Passé antérieur
+
+j'eus cru
+tu eus cru
+il (elle) eut cru
+nous eûmes cru
+vous eûtes cru
+ils (elles) eurent cru
+
+** Futur antérieur
+
+j'aurai cru
+tu auras cru
+il (elle) aura cru
+nous aurons cru
+vous aurez cru
+ils (elles) auront cru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cru
+tu aurais cru
+il (elle) aurait cru
+nous aurions cru
+vous auriez cru
+ils (elles) auraient cru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cru
+que tu aies cru
+qu’il (elle) ait cru
+que nous ayons cru
+que vous ayez cru
+qu’ils (elles) aient cru
+
+** Plus-que-parfait
+
+que j'eusse cru
+que tu eusses cru
+qu’il (elle) eût cru
+que nous eussions cru
+que vous eussiez cru
+qu’ils (elles) eussent cru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cru
+ayez cru
+
+* INFINITIF
+
+** Passé
+
+avoir cru
+
+* PARTICIPE
+
+** Passé
+
+ayant cru
+cru (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis cru(e)
+tu es cru(e)
+il (elle) est cru(e)
+nous sommes cru(e)s
+vous êtes cru(e)s
+ils (elles) sont cru(e)s
+
+** Imparfait
+
+j'étais cru(e)
+tu étais cru(e)
+il (elle) était cru(e)
+nous étions cru(e)s
+vous étiez cru(e)s
+ils (elles) étaient cru(e)s
+
+** Passé simple
+
+je fus cru(e)
+tu fus cru(e)
+il (elle) fut cru(e)
+nous fûmes cru(e)s
+vous fûtes cru(e)s
+ils (elles) furent cru(e)s
+
+** Futur simple
+
+je serai cru(e)
+tu seras cru(e)
+il (elle) sera cru(e)
+nous serons cru(e)s
+vous serez cru(e)s
+ils (elles) seront cru(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cru(e)
+tu serais cru(e)
+il (elle) serait cru(e)
+nous serions cru(e)s
+vous seriez cru(e)s
+ils (elles) seraient cru(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cru(e)
+que tu sois cru(e)
+qu’il (elle) soit cru(e)
+que nous soyons cru(e)s
+que vous soyez cru(e)s
+qu’ils (elles) soient cru(e)s
+
+** Imparfait
+
+que je fusse cru(e)
+que tu fusses cru(e)
+qu’il (elle) fût cru(e)
+que nous fussions cru(e)s
+que vous fussiez cru(e)s
+qu’ils (elles) fussent cru(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cru(e)s
+soyez cru(e)s
+
+* INFINITIF
+
+** Présent
+
+être cru(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cru(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cru(e)
+tu as été cru(e)
+il (elle) a été cru(e)
+nous avons été cru(e)s
+vous avez été cru(e)s
+ils (elles) ont été cru(e)s
+
+** Plus-que-parfait
+
+j'avais été cru(e)
+il (elle) avait été cru(e)
+nous avions été cru(e)s
+ils (elles) avaient été cru(e)s
+
+** Passé antérieur
+
+j'eus été cru(e)
+tu eus été cru(e)
+il (elle) eut été cru(e)
+nous eûmes été cru(e)s
+vous eûtes été cru(e)s
+ils (elles) eurent été cru(e)s
+
+** Futur antérieur
+
+j'aurai été cru(e)
+tu auras été cru(e)
+il (elle) aura été cru(e)
+nous aurons été cru(e)s
+vous aurez été cru(e)s
+ils (elles) auront été cru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cru(e)
+j'aurais été cru(e)
+il (elle) aurait été cru(e)
+nous aurions été cru(e)s
+vous auriez été cru(e)s
+ils (elles) auraient été cru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cru(e)
+que tu aies été cru(e)
+qu’il (elle) ait été cru(e)
+que nous ayons été cru(e)s
+que vous ayez été cru(e)s
+qu’ils (elles) aient été cru(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cru(e)
+que tu eusses été cru(e)
+qu’il (elle) eût été cru(e)
+que nous eussions été cru(e)s
+que vous eussiez été cru(e)s
+qu’ils (elles) eussent été cru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cru(e)
+ayons été cru(e)s
+ayez été cru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cru(e)(s)

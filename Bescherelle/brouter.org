@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brouter
+
+* INDICATIF
+
+** Présent
+
+je broute
+tu broutes
+il (elle) broute
+nous broutons
+vous broutez
+ils (elles) broutent
+
+** Imparfait
+
+je broutais
+tu broutais
+il (elle) broutait
+nous broutions
+vous broutiez
+ils (elles) broutaient
+
+** Passé simple
+
+je broutai
+tu broutas
+il (elle) brouta
+nous broutâmes
+vous broutâtes
+ils (elles) broutèrent
+
+** Futur simple
+
+je brouterai
+tu brouteras
+il (elle) broutera
+nous brouterons
+vous brouterez
+ils (elles) brouteront
+
+* CONDITIONNEL
+
+** Présent
+
+je brouterais
+tu brouterais
+il (elle) brouterait
+nous brouterions
+vous brouteriez
+ils (elles) brouteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je broute
+que tu broutes
+qu’il (elle) broute
+que nous broutions
+que vous broutiez
+qu’ils (elles) broutent
+
+** Imparfait
+
+que je broutasse
+que tu broutasses
+qu’il (elle) broutât
+que nous broutassions
+que vous broutassiez
+qu’ils (elles) broutassent
+
+* IMPÉRATIF
+
+** Présent
+
+broute
+broutons
+broutez
+
+* INFINITIF
+
+** Présent
+
+brouter
+
+* PARTICIPE
+
+** Présent
+
+broutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brouté
+tu as brouté
+il (elle) a brouté
+nous avons brouté
+vous avez brouté
+ils (elles) ont brouté
+
+** Plus-que-parfait
+
+j'avais brouté
+tu avais brouté
+il (elle) avait brouté
+nous avions brouté
+vous aviez brouté
+ils (elles) avaient brouté
+
+** Passé antérieur
+
+j'eus brouté
+tu eus brouté
+il (elle) eut brouté
+nous eûmes brouté
+vous eûtes brouté
+ils (elles) eurent brouté
+
+** Futur antérieur
+
+j'aurai brouté
+tu auras brouté
+il (elle) aura brouté
+nous aurons brouté
+vous aurez brouté
+ils (elles) auront brouté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brouté
+tu aurais brouté
+il (elle) aurait brouté
+nous aurions brouté
+vous auriez brouté
+ils (elles) auraient brouté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brouté
+que tu aies brouté
+qu’il (elle) ait brouté
+que nous ayons brouté
+que vous ayez brouté
+qu’ils (elles) aient brouté
+
+** Plus-que-parfait
+
+que j'eusse brouté
+que tu eusses brouté
+qu’il (elle) eût brouté
+que nous eussions brouté
+que vous eussiez brouté
+qu’ils (elles) eussent brouté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brouté
+ayez brouté
+
+* INFINITIF
+
+** Passé
+
+avoir brouté
+
+* PARTICIPE
+
+** Passé
+
+ayant brouté
+brouté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis brouté(e)
+tu es brouté(e)
+il (elle) est brouté(e)
+nous sommes brouté(e)s
+vous êtes brouté(e)s
+ils (elles) sont brouté(e)s
+
+** Imparfait
+
+j'étais brouté(e)
+tu étais brouté(e)
+il (elle) était brouté(e)
+nous étions brouté(e)s
+vous étiez brouté(e)s
+ils (elles) étaient brouté(e)s
+
+** Passé simple
+
+je fus brouté(e)
+tu fus brouté(e)
+il (elle) fut brouté(e)
+nous fûmes brouté(e)s
+vous fûtes brouté(e)s
+ils (elles) furent brouté(e)s
+
+** Futur simple
+
+je serai brouté(e)
+tu seras brouté(e)
+il (elle) sera brouté(e)
+nous serons brouté(e)s
+vous serez brouté(e)s
+ils (elles) seront brouté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais brouté(e)
+tu serais brouté(e)
+il (elle) serait brouté(e)
+nous serions brouté(e)s
+vous seriez brouté(e)s
+ils (elles) seraient brouté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois brouté(e)
+que tu sois brouté(e)
+qu’il (elle) soit brouté(e)
+que nous soyons brouté(e)s
+que vous soyez brouté(e)s
+qu’ils (elles) soient brouté(e)s
+
+** Imparfait
+
+que je fusse brouté(e)
+que tu fusses brouté(e)
+qu’il (elle) fût brouté(e)
+que nous fussions brouté(e)s
+que vous fussiez brouté(e)s
+qu’ils (elles) fussent brouté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons brouté(e)s
+soyez brouté(e)s
+
+* INFINITIF
+
+** Présent
+
+être brouté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant brouté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été brouté(e)
+tu as été brouté(e)
+il (elle) a été brouté(e)
+nous avons été brouté(e)s
+vous avez été brouté(e)s
+ils (elles) ont été brouté(e)s
+
+** Plus-que-parfait
+
+j'avais été brouté(e)
+il (elle) avait été brouté(e)
+nous avions été brouté(e)s
+ils (elles) avaient été brouté(e)s
+
+** Passé antérieur
+
+j'eus été brouté(e)
+tu eus été brouté(e)
+il (elle) eut été brouté(e)
+nous eûmes été brouté(e)s
+vous eûtes été brouté(e)s
+ils (elles) eurent été brouté(e)s
+
+** Futur antérieur
+
+j'aurai été brouté(e)
+tu auras été brouté(e)
+il (elle) aura été brouté(e)
+nous aurons été brouté(e)s
+vous aurez été brouté(e)s
+ils (elles) auront été brouté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été brouté(e)
+j'aurais été brouté(e)
+il (elle) aurait été brouté(e)
+nous aurions été brouté(e)s
+vous auriez été brouté(e)s
+ils (elles) auraient été brouté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été brouté(e)
+que tu aies été brouté(e)
+qu’il (elle) ait été brouté(e)
+que nous ayons été brouté(e)s
+que vous ayez été brouté(e)s
+qu’ils (elles) aient été brouté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été brouté(e)
+que tu eusses été brouté(e)
+qu’il (elle) eût été brouté(e)
+que nous eussions été brouté(e)s
+que vous eussiez été brouté(e)s
+qu’ils (elles) eussent été brouté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été brouté(e)
+ayons été brouté(e)s
+ayez été brouté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été brouté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été brouté(e)(s)

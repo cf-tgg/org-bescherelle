@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rectifier
+
+* INDICATIF
+
+** Présent
+
+je rectifie
+tu rectifies
+il (elle) rectifie
+nous rectifions
+vous rectifiez
+ils (elles) rectifient
+
+** Imparfait
+
+je rectifiais
+tu rectifiais
+il (elle) rectifiait
+nous rectifiions
+vous rectifiiez
+ils (elles) rectifiaient
+
+** Passé simple
+
+je rectifiai
+tu rectifias
+il (elle) rectifia
+nous rectifiâmes
+vous rectifiâtes
+ils (elles) rectifièrent
+
+** Futur simple
+
+je rectifierai
+tu rectifieras
+il (elle) rectifiera
+nous rectifierons
+vous rectifierez
+ils (elles) rectifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je rectifierais
+tu rectifierais
+il (elle) rectifierait
+nous rectifierions
+vous rectifieriez
+ils (elles) rectifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rectifie
+que tu rectifies
+qu’il (elle) rectifie
+que nous rectifiions
+que vous rectifiiez
+qu’ils (elles) rectifient
+
+** Imparfait
+
+que je rectifiasse
+que tu rectifiasses
+qu’il (elle) rectifiât
+que nous rectifiassions
+que vous rectifiassiez
+qu’ils (elles) rectifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+rectifie
+rectifions
+rectifiez
+
+* INFINITIF
+
+** Présent
+
+rectifier
+
+* PARTICIPE
+
+** Présent
+
+rectifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rectifié
+tu as rectifié
+il (elle) a rectifié
+nous avons rectifié
+vous avez rectifié
+ils (elles) ont rectifié
+
+** Plus-que-parfait
+
+j'avais rectifié
+tu avais rectifié
+il (elle) avait rectifié
+nous avions rectifié
+vous aviez rectifié
+ils (elles) avaient rectifié
+
+** Passé antérieur
+
+j'eus rectifié
+tu eus rectifié
+il (elle) eut rectifié
+nous eûmes rectifié
+vous eûtes rectifié
+ils (elles) eurent rectifié
+
+** Futur antérieur
+
+j'aurai rectifié
+tu auras rectifié
+il (elle) aura rectifié
+nous aurons rectifié
+vous aurez rectifié
+ils (elles) auront rectifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rectifié
+tu aurais rectifié
+il (elle) aurait rectifié
+nous aurions rectifié
+vous auriez rectifié
+ils (elles) auraient rectifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rectifié
+que tu aies rectifié
+qu’il (elle) ait rectifié
+que nous ayons rectifié
+que vous ayez rectifié
+qu’ils (elles) aient rectifié
+
+** Plus-que-parfait
+
+que j'eusse rectifié
+que tu eusses rectifié
+qu’il (elle) eût rectifié
+que nous eussions rectifié
+que vous eussiez rectifié
+qu’ils (elles) eussent rectifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rectifié
+ayez rectifié
+
+* INFINITIF
+
+** Passé
+
+avoir rectifié
+
+* PARTICIPE
+
+** Passé
+
+ayant rectifié
+rectifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rectifié(e)
+tu es rectifié(e)
+il (elle) est rectifié(e)
+nous sommes rectifié(e)s
+vous êtes rectifié(e)s
+ils (elles) sont rectifié(e)s
+
+** Imparfait
+
+j'étais rectifié(e)
+tu étais rectifié(e)
+il (elle) était rectifié(e)
+nous étions rectifié(e)s
+vous étiez rectifié(e)s
+ils (elles) étaient rectifié(e)s
+
+** Passé simple
+
+je fus rectifié(e)
+tu fus rectifié(e)
+il (elle) fut rectifié(e)
+nous fûmes rectifié(e)s
+vous fûtes rectifié(e)s
+ils (elles) furent rectifié(e)s
+
+** Futur simple
+
+je serai rectifié(e)
+tu seras rectifié(e)
+il (elle) sera rectifié(e)
+nous serons rectifié(e)s
+vous serez rectifié(e)s
+ils (elles) seront rectifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rectifié(e)
+tu serais rectifié(e)
+il (elle) serait rectifié(e)
+nous serions rectifié(e)s
+vous seriez rectifié(e)s
+ils (elles) seraient rectifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rectifié(e)
+que tu sois rectifié(e)
+qu’il (elle) soit rectifié(e)
+que nous soyons rectifié(e)s
+que vous soyez rectifié(e)s
+qu’ils (elles) soient rectifié(e)s
+
+** Imparfait
+
+que je fusse rectifié(e)
+que tu fusses rectifié(e)
+qu’il (elle) fût rectifié(e)
+que nous fussions rectifié(e)s
+que vous fussiez rectifié(e)s
+qu’ils (elles) fussent rectifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rectifié(e)s
+soyez rectifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être rectifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rectifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rectifié(e)
+tu as été rectifié(e)
+il (elle) a été rectifié(e)
+nous avons été rectifié(e)s
+vous avez été rectifié(e)s
+ils (elles) ont été rectifié(e)s
+
+** Plus-que-parfait
+
+j'avais été rectifié(e)
+il (elle) avait été rectifié(e)
+nous avions été rectifié(e)s
+ils (elles) avaient été rectifié(e)s
+
+** Passé antérieur
+
+j'eus été rectifié(e)
+tu eus été rectifié(e)
+il (elle) eut été rectifié(e)
+nous eûmes été rectifié(e)s
+vous eûtes été rectifié(e)s
+ils (elles) eurent été rectifié(e)s
+
+** Futur antérieur
+
+j'aurai été rectifié(e)
+tu auras été rectifié(e)
+il (elle) aura été rectifié(e)
+nous aurons été rectifié(e)s
+vous aurez été rectifié(e)s
+ils (elles) auront été rectifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rectifié(e)
+j'aurais été rectifié(e)
+il (elle) aurait été rectifié(e)
+nous aurions été rectifié(e)s
+vous auriez été rectifié(e)s
+ils (elles) auraient été rectifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rectifié(e)
+que tu aies été rectifié(e)
+qu’il (elle) ait été rectifié(e)
+que nous ayons été rectifié(e)s
+que vous ayez été rectifié(e)s
+qu’ils (elles) aient été rectifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rectifié(e)
+que tu eusses été rectifié(e)
+qu’il (elle) eût été rectifié(e)
+que nous eussions été rectifié(e)s
+que vous eussiez été rectifié(e)s
+qu’ils (elles) eussent été rectifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rectifié(e)
+ayons été rectifié(e)s
+ayez été rectifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rectifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rectifié(e)(s)

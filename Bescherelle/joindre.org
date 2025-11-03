@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe joindre
+
+* INDICATIF
+
+** Présent
+
+je joins
+tu joins
+il (elle) joint
+nous joignons
+vous joignez
+ils (elles) joignent
+
+** Imparfait
+
+je joignais
+tu joignais
+il (elle) joignait
+nous joignions
+vous joigniez
+ils (elles) joignaient
+
+** Passé simple
+
+je joignis
+tu joignis
+il (elle) joignit
+nous joignîmes
+vous joignîtes
+ils (elles) joignirent
+
+** Futur simple
+
+je joindrai
+tu joindras
+il (elle) joindra
+nous joindrons
+vous joindrez
+ils (elles) joindront
+
+* CONDITIONNEL
+
+** Présent
+
+je joindrais
+tu joindrais
+il (elle) joindrait
+nous joindrions
+vous joindriez
+ils (elles) joindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je joigne
+que tu joignes
+qu’il (elle) joigne
+que nous joignions
+que vous joigniez
+qu’ils (elles) joignent
+
+** Imparfait
+
+que je joignisse
+que tu joignisses
+qu’il (elle) joignît
+que nous joignissions
+que vous joignissiez
+qu’ils (elles) joignissent
+
+* IMPÉRATIF
+
+** Présent
+
+joins
+joignons
+joignez
+
+* INFINITIF
+
+** Présent
+
+joindre
+
+* PARTICIPE
+
+** Présent
+
+joignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai joint
+tu as joint
+il (elle) a joint
+nous avons joint
+vous avez joint
+ils (elles) ont joint
+
+** Plus-que-parfait
+
+j'avais joint
+tu avais joint
+il (elle) avait joint
+nous avions joint
+vous aviez joint
+ils (elles) avaient joint
+
+** Passé antérieur
+
+j'eus joint
+tu eus joint
+il (elle) eut joint
+nous eûmes joint
+vous eûtes joint
+ils (elles) eurent joint
+
+** Futur antérieur
+
+j'aurai joint
+tu auras joint
+il (elle) aura joint
+nous aurons joint
+vous aurez joint
+ils (elles) auront joint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais joint
+tu aurais joint
+il (elle) aurait joint
+nous aurions joint
+vous auriez joint
+ils (elles) auraient joint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie joint
+que tu aies joint
+qu’il (elle) ait joint
+que nous ayons joint
+que vous ayez joint
+qu’ils (elles) aient joint
+
+** Plus-que-parfait
+
+que j'eusse joint
+que tu eusses joint
+qu’il (elle) eût joint
+que nous eussions joint
+que vous eussiez joint
+qu’ils (elles) eussent joint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons joint
+ayez joint
+
+* INFINITIF
+
+** Passé
+
+avoir joint
+
+* PARTICIPE
+
+** Passé
+
+ayant joint
+joint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis joint(e)
+tu es joint(e)
+il (elle) est joint(e)
+nous sommes joint(e)s
+vous êtes joint(e)s
+ils (elles) sont joint(e)s
+
+** Imparfait
+
+j'étais joint(e)
+tu étais joint(e)
+il (elle) était joint(e)
+nous étions joint(e)s
+vous étiez joint(e)s
+ils (elles) étaient joint(e)s
+
+** Passé simple
+
+je fus joint(e)
+tu fus joint(e)
+il (elle) fut joint(e)
+nous fûmes joint(e)s
+vous fûtes joint(e)s
+ils (elles) furent joint(e)s
+
+** Futur simple
+
+je serai joint(e)
+tu seras joint(e)
+il (elle) sera joint(e)
+nous serons joint(e)s
+vous serez joint(e)s
+ils (elles) seront joint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais joint(e)
+tu serais joint(e)
+il (elle) serait joint(e)
+nous serions joint(e)s
+vous seriez joint(e)s
+ils (elles) seraient joint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois joint(e)
+que tu sois joint(e)
+qu’il (elle) soit joint(e)
+que nous soyons joint(e)s
+que vous soyez joint(e)s
+qu’ils (elles) soient joint(e)s
+
+** Imparfait
+
+que je fusse joint(e)
+que tu fusses joint(e)
+qu’il (elle) fût joint(e)
+que nous fussions joint(e)s
+que vous fussiez joint(e)s
+qu’ils (elles) fussent joint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons joint(e)s
+soyez joint(e)s
+
+* INFINITIF
+
+** Présent
+
+être joint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant joint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été joint(e)
+tu as été joint(e)
+il (elle) a été joint(e)
+nous avons été joint(e)s
+vous avez été joint(e)s
+ils (elles) ont été joint(e)s
+
+** Plus-que-parfait
+
+j'avais été joint(e)
+il (elle) avait été joint(e)
+nous avions été joint(e)s
+ils (elles) avaient été joint(e)s
+
+** Passé antérieur
+
+j'eus été joint(e)
+tu eus été joint(e)
+il (elle) eut été joint(e)
+nous eûmes été joint(e)s
+vous eûtes été joint(e)s
+ils (elles) eurent été joint(e)s
+
+** Futur antérieur
+
+j'aurai été joint(e)
+tu auras été joint(e)
+il (elle) aura été joint(e)
+nous aurons été joint(e)s
+vous aurez été joint(e)s
+ils (elles) auront été joint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été joint(e)
+j'aurais été joint(e)
+il (elle) aurait été joint(e)
+nous aurions été joint(e)s
+vous auriez été joint(e)s
+ils (elles) auraient été joint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été joint(e)
+que tu aies été joint(e)
+qu’il (elle) ait été joint(e)
+que nous ayons été joint(e)s
+que vous ayez été joint(e)s
+qu’ils (elles) aient été joint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été joint(e)
+que tu eusses été joint(e)
+qu’il (elle) eût été joint(e)
+que nous eussions été joint(e)s
+que vous eussiez été joint(e)s
+qu’ils (elles) eussent été joint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été joint(e)
+ayons été joint(e)s
+ayez été joint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été joint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été joint(e)(s)

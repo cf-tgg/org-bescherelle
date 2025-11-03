@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe nommer
+
+* INDICATIF
+
+** Présent
+
+je nomme
+tu nommes
+il (elle) nomme
+nous nommons
+vous nommez
+ils (elles) nomment
+
+** Imparfait
+
+je nommais
+tu nommais
+il (elle) nommait
+nous nommions
+vous nommiez
+ils (elles) nommaient
+
+** Passé simple
+
+je nommai
+tu nommas
+il (elle) nomma
+nous nommâmes
+vous nommâtes
+ils (elles) nommèrent
+
+** Futur simple
+
+je nommerai
+tu nommeras
+il (elle) nommera
+nous nommerons
+vous nommerez
+ils (elles) nommeront
+
+* CONDITIONNEL
+
+** Présent
+
+je nommerais
+tu nommerais
+il (elle) nommerait
+nous nommerions
+vous nommeriez
+ils (elles) nommeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je nomme
+que tu nommes
+qu’il (elle) nomme
+que nous nommions
+que vous nommiez
+qu’ils (elles) nomment
+
+** Imparfait
+
+que je nommasse
+que tu nommasses
+qu’il (elle) nommât
+que nous nommassions
+que vous nommassiez
+qu’ils (elles) nommassent
+
+* IMPÉRATIF
+
+** Présent
+
+nomme
+nommons
+nommez
+
+* INFINITIF
+
+** Présent
+
+nommer
+
+* PARTICIPE
+
+** Présent
+
+nommant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai nommé
+tu as nommé
+il (elle) a nommé
+nous avons nommé
+vous avez nommé
+ils (elles) ont nommé
+
+** Plus-que-parfait
+
+j'avais nommé
+tu avais nommé
+il (elle) avait nommé
+nous avions nommé
+vous aviez nommé
+ils (elles) avaient nommé
+
+** Passé antérieur
+
+j'eus nommé
+tu eus nommé
+il (elle) eut nommé
+nous eûmes nommé
+vous eûtes nommé
+ils (elles) eurent nommé
+
+** Futur antérieur
+
+j'aurai nommé
+tu auras nommé
+il (elle) aura nommé
+nous aurons nommé
+vous aurez nommé
+ils (elles) auront nommé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais nommé
+tu aurais nommé
+il (elle) aurait nommé
+nous aurions nommé
+vous auriez nommé
+ils (elles) auraient nommé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie nommé
+que tu aies nommé
+qu’il (elle) ait nommé
+que nous ayons nommé
+que vous ayez nommé
+qu’ils (elles) aient nommé
+
+** Plus-que-parfait
+
+que j'eusse nommé
+que tu eusses nommé
+qu’il (elle) eût nommé
+que nous eussions nommé
+que vous eussiez nommé
+qu’ils (elles) eussent nommé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons nommé
+ayez nommé
+
+* INFINITIF
+
+** Passé
+
+avoir nommé
+
+* PARTICIPE
+
+** Passé
+
+ayant nommé
+nommé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis nommé(e)
+tu es nommé(e)
+il (elle) est nommé(e)
+nous sommes nommé(e)s
+vous êtes nommé(e)s
+ils (elles) sont nommé(e)s
+
+** Imparfait
+
+j'étais nommé(e)
+tu étais nommé(e)
+il (elle) était nommé(e)
+nous étions nommé(e)s
+vous étiez nommé(e)s
+ils (elles) étaient nommé(e)s
+
+** Passé simple
+
+je fus nommé(e)
+tu fus nommé(e)
+il (elle) fut nommé(e)
+nous fûmes nommé(e)s
+vous fûtes nommé(e)s
+ils (elles) furent nommé(e)s
+
+** Futur simple
+
+je serai nommé(e)
+tu seras nommé(e)
+il (elle) sera nommé(e)
+nous serons nommé(e)s
+vous serez nommé(e)s
+ils (elles) seront nommé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais nommé(e)
+tu serais nommé(e)
+il (elle) serait nommé(e)
+nous serions nommé(e)s
+vous seriez nommé(e)s
+ils (elles) seraient nommé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois nommé(e)
+que tu sois nommé(e)
+qu’il (elle) soit nommé(e)
+que nous soyons nommé(e)s
+que vous soyez nommé(e)s
+qu’ils (elles) soient nommé(e)s
+
+** Imparfait
+
+que je fusse nommé(e)
+que tu fusses nommé(e)
+qu’il (elle) fût nommé(e)
+que nous fussions nommé(e)s
+que vous fussiez nommé(e)s
+qu’ils (elles) fussent nommé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons nommé(e)s
+soyez nommé(e)s
+
+* INFINITIF
+
+** Présent
+
+être nommé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant nommé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été nommé(e)
+tu as été nommé(e)
+il (elle) a été nommé(e)
+nous avons été nommé(e)s
+vous avez été nommé(e)s
+ils (elles) ont été nommé(e)s
+
+** Plus-que-parfait
+
+j'avais été nommé(e)
+il (elle) avait été nommé(e)
+nous avions été nommé(e)s
+ils (elles) avaient été nommé(e)s
+
+** Passé antérieur
+
+j'eus été nommé(e)
+tu eus été nommé(e)
+il (elle) eut été nommé(e)
+nous eûmes été nommé(e)s
+vous eûtes été nommé(e)s
+ils (elles) eurent été nommé(e)s
+
+** Futur antérieur
+
+j'aurai été nommé(e)
+tu auras été nommé(e)
+il (elle) aura été nommé(e)
+nous aurons été nommé(e)s
+vous aurez été nommé(e)s
+ils (elles) auront été nommé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été nommé(e)
+j'aurais été nommé(e)
+il (elle) aurait été nommé(e)
+nous aurions été nommé(e)s
+vous auriez été nommé(e)s
+ils (elles) auraient été nommé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été nommé(e)
+que tu aies été nommé(e)
+qu’il (elle) ait été nommé(e)
+que nous ayons été nommé(e)s
+que vous ayez été nommé(e)s
+qu’ils (elles) aient été nommé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été nommé(e)
+que tu eusses été nommé(e)
+qu’il (elle) eût été nommé(e)
+que nous eussions été nommé(e)s
+que vous eussiez été nommé(e)s
+qu’ils (elles) eussent été nommé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été nommé(e)
+ayons été nommé(e)s
+ayez été nommé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été nommé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été nommé(e)(s)

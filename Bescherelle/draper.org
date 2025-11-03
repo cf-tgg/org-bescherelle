@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe draper
+
+* INDICATIF
+
+** Présent
+
+je drape
+tu drapes
+il (elle) drape
+nous drapons
+vous drapez
+ils (elles) drapent
+
+** Imparfait
+
+je drapais
+tu drapais
+il (elle) drapait
+nous drapions
+vous drapiez
+ils (elles) drapaient
+
+** Passé simple
+
+je drapai
+tu drapas
+il (elle) drapa
+nous drapâmes
+vous drapâtes
+ils (elles) drapèrent
+
+** Futur simple
+
+je draperai
+tu draperas
+il (elle) drapera
+nous draperons
+vous draperez
+ils (elles) draperont
+
+* CONDITIONNEL
+
+** Présent
+
+je draperais
+tu draperais
+il (elle) draperait
+nous draperions
+vous draperiez
+ils (elles) draperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je drape
+que tu drapes
+qu’il (elle) drape
+que nous drapions
+que vous drapiez
+qu’ils (elles) drapent
+
+** Imparfait
+
+que je drapasse
+que tu drapasses
+qu’il (elle) drapât
+que nous drapassions
+que vous drapassiez
+qu’ils (elles) drapassent
+
+* IMPÉRATIF
+
+** Présent
+
+drape
+drapons
+drapez
+
+* INFINITIF
+
+** Présent
+
+draper
+
+* PARTICIPE
+
+** Présent
+
+drapant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai drapé
+tu as drapé
+il (elle) a drapé
+nous avons drapé
+vous avez drapé
+ils (elles) ont drapé
+
+** Plus-que-parfait
+
+j'avais drapé
+tu avais drapé
+il (elle) avait drapé
+nous avions drapé
+vous aviez drapé
+ils (elles) avaient drapé
+
+** Passé antérieur
+
+j'eus drapé
+tu eus drapé
+il (elle) eut drapé
+nous eûmes drapé
+vous eûtes drapé
+ils (elles) eurent drapé
+
+** Futur antérieur
+
+j'aurai drapé
+tu auras drapé
+il (elle) aura drapé
+nous aurons drapé
+vous aurez drapé
+ils (elles) auront drapé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais drapé
+tu aurais drapé
+il (elle) aurait drapé
+nous aurions drapé
+vous auriez drapé
+ils (elles) auraient drapé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie drapé
+que tu aies drapé
+qu’il (elle) ait drapé
+que nous ayons drapé
+que vous ayez drapé
+qu’ils (elles) aient drapé
+
+** Plus-que-parfait
+
+que j'eusse drapé
+que tu eusses drapé
+qu’il (elle) eût drapé
+que nous eussions drapé
+que vous eussiez drapé
+qu’ils (elles) eussent drapé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons drapé
+ayez drapé
+
+* INFINITIF
+
+** Passé
+
+avoir drapé
+
+* PARTICIPE
+
+** Passé
+
+ayant drapé
+drapé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis drapé(e)
+tu es drapé(e)
+il (elle) est drapé(e)
+nous sommes drapé(e)s
+vous êtes drapé(e)s
+ils (elles) sont drapé(e)s
+
+** Imparfait
+
+j'étais drapé(e)
+tu étais drapé(e)
+il (elle) était drapé(e)
+nous étions drapé(e)s
+vous étiez drapé(e)s
+ils (elles) étaient drapé(e)s
+
+** Passé simple
+
+je fus drapé(e)
+tu fus drapé(e)
+il (elle) fut drapé(e)
+nous fûmes drapé(e)s
+vous fûtes drapé(e)s
+ils (elles) furent drapé(e)s
+
+** Futur simple
+
+je serai drapé(e)
+tu seras drapé(e)
+il (elle) sera drapé(e)
+nous serons drapé(e)s
+vous serez drapé(e)s
+ils (elles) seront drapé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais drapé(e)
+tu serais drapé(e)
+il (elle) serait drapé(e)
+nous serions drapé(e)s
+vous seriez drapé(e)s
+ils (elles) seraient drapé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois drapé(e)
+que tu sois drapé(e)
+qu’il (elle) soit drapé(e)
+que nous soyons drapé(e)s
+que vous soyez drapé(e)s
+qu’ils (elles) soient drapé(e)s
+
+** Imparfait
+
+que je fusse drapé(e)
+que tu fusses drapé(e)
+qu’il (elle) fût drapé(e)
+que nous fussions drapé(e)s
+que vous fussiez drapé(e)s
+qu’ils (elles) fussent drapé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons drapé(e)s
+soyez drapé(e)s
+
+* INFINITIF
+
+** Présent
+
+être drapé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant drapé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été drapé(e)
+tu as été drapé(e)
+il (elle) a été drapé(e)
+nous avons été drapé(e)s
+vous avez été drapé(e)s
+ils (elles) ont été drapé(e)s
+
+** Plus-que-parfait
+
+j'avais été drapé(e)
+il (elle) avait été drapé(e)
+nous avions été drapé(e)s
+ils (elles) avaient été drapé(e)s
+
+** Passé antérieur
+
+j'eus été drapé(e)
+tu eus été drapé(e)
+il (elle) eut été drapé(e)
+nous eûmes été drapé(e)s
+vous eûtes été drapé(e)s
+ils (elles) eurent été drapé(e)s
+
+** Futur antérieur
+
+j'aurai été drapé(e)
+tu auras été drapé(e)
+il (elle) aura été drapé(e)
+nous aurons été drapé(e)s
+vous aurez été drapé(e)s
+ils (elles) auront été drapé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été drapé(e)
+j'aurais été drapé(e)
+il (elle) aurait été drapé(e)
+nous aurions été drapé(e)s
+vous auriez été drapé(e)s
+ils (elles) auraient été drapé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été drapé(e)
+que tu aies été drapé(e)
+qu’il (elle) ait été drapé(e)
+que nous ayons été drapé(e)s
+que vous ayez été drapé(e)s
+qu’ils (elles) aient été drapé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été drapé(e)
+que tu eusses été drapé(e)
+qu’il (elle) eût été drapé(e)
+que nous eussions été drapé(e)s
+que vous eussiez été drapé(e)s
+qu’ils (elles) eussent été drapé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été drapé(e)
+ayons été drapé(e)s
+ayez été drapé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été drapé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été drapé(e)(s)

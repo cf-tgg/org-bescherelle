@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe toucher
+
+* INDICATIF
+
+** Présent
+
+je touche
+tu touches
+il (elle) touche
+nous touchons
+vous touchez
+ils (elles) touchent
+
+** Imparfait
+
+je touchais
+tu touchais
+il (elle) touchait
+nous touchions
+vous touchiez
+ils (elles) touchaient
+
+** Passé simple
+
+je touchai
+tu touchas
+il (elle) toucha
+nous touchâmes
+vous touchâtes
+ils (elles) touchèrent
+
+** Futur simple
+
+je toucherai
+tu toucheras
+il (elle) touchera
+nous toucherons
+vous toucherez
+ils (elles) toucheront
+
+* CONDITIONNEL
+
+** Présent
+
+je toucherais
+tu toucherais
+il (elle) toucherait
+nous toucherions
+vous toucheriez
+ils (elles) toucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je touche
+que tu touches
+qu’il (elle) touche
+que nous touchions
+que vous touchiez
+qu’ils (elles) touchent
+
+** Imparfait
+
+que je touchasse
+que tu touchasses
+qu’il (elle) touchât
+que nous touchassions
+que vous touchassiez
+qu’ils (elles) touchassent
+
+* IMPÉRATIF
+
+** Présent
+
+touche
+touchons
+touchez
+
+* INFINITIF
+
+** Présent
+
+toucher
+
+* PARTICIPE
+
+** Présent
+
+touchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai touché
+tu as touché
+il (elle) a touché
+nous avons touché
+vous avez touché
+ils (elles) ont touché
+
+** Plus-que-parfait
+
+j'avais touché
+tu avais touché
+il (elle) avait touché
+nous avions touché
+vous aviez touché
+ils (elles) avaient touché
+
+** Passé antérieur
+
+j'eus touché
+tu eus touché
+il (elle) eut touché
+nous eûmes touché
+vous eûtes touché
+ils (elles) eurent touché
+
+** Futur antérieur
+
+j'aurai touché
+tu auras touché
+il (elle) aura touché
+nous aurons touché
+vous aurez touché
+ils (elles) auront touché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais touché
+tu aurais touché
+il (elle) aurait touché
+nous aurions touché
+vous auriez touché
+ils (elles) auraient touché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie touché
+que tu aies touché
+qu’il (elle) ait touché
+que nous ayons touché
+que vous ayez touché
+qu’ils (elles) aient touché
+
+** Plus-que-parfait
+
+que j'eusse touché
+que tu eusses touché
+qu’il (elle) eût touché
+que nous eussions touché
+que vous eussiez touché
+qu’ils (elles) eussent touché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons touché
+ayez touché
+
+* INFINITIF
+
+** Passé
+
+avoir touché
+
+* PARTICIPE
+
+** Passé
+
+ayant touché
+touché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis touché(e)
+tu es touché(e)
+il (elle) est touché(e)
+nous sommes touché(e)s
+vous êtes touché(e)s
+ils (elles) sont touché(e)s
+
+** Imparfait
+
+j'étais touché(e)
+tu étais touché(e)
+il (elle) était touché(e)
+nous étions touché(e)s
+vous étiez touché(e)s
+ils (elles) étaient touché(e)s
+
+** Passé simple
+
+je fus touché(e)
+tu fus touché(e)
+il (elle) fut touché(e)
+nous fûmes touché(e)s
+vous fûtes touché(e)s
+ils (elles) furent touché(e)s
+
+** Futur simple
+
+je serai touché(e)
+tu seras touché(e)
+il (elle) sera touché(e)
+nous serons touché(e)s
+vous serez touché(e)s
+ils (elles) seront touché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais touché(e)
+tu serais touché(e)
+il (elle) serait touché(e)
+nous serions touché(e)s
+vous seriez touché(e)s
+ils (elles) seraient touché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois touché(e)
+que tu sois touché(e)
+qu’il (elle) soit touché(e)
+que nous soyons touché(e)s
+que vous soyez touché(e)s
+qu’ils (elles) soient touché(e)s
+
+** Imparfait
+
+que je fusse touché(e)
+que tu fusses touché(e)
+qu’il (elle) fût touché(e)
+que nous fussions touché(e)s
+que vous fussiez touché(e)s
+qu’ils (elles) fussent touché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons touché(e)s
+soyez touché(e)s
+
+* INFINITIF
+
+** Présent
+
+être touché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant touché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été touché(e)
+tu as été touché(e)
+il (elle) a été touché(e)
+nous avons été touché(e)s
+vous avez été touché(e)s
+ils (elles) ont été touché(e)s
+
+** Plus-que-parfait
+
+j'avais été touché(e)
+il (elle) avait été touché(e)
+nous avions été touché(e)s
+ils (elles) avaient été touché(e)s
+
+** Passé antérieur
+
+j'eus été touché(e)
+tu eus été touché(e)
+il (elle) eut été touché(e)
+nous eûmes été touché(e)s
+vous eûtes été touché(e)s
+ils (elles) eurent été touché(e)s
+
+** Futur antérieur
+
+j'aurai été touché(e)
+tu auras été touché(e)
+il (elle) aura été touché(e)
+nous aurons été touché(e)s
+vous aurez été touché(e)s
+ils (elles) auront été touché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été touché(e)
+j'aurais été touché(e)
+il (elle) aurait été touché(e)
+nous aurions été touché(e)s
+vous auriez été touché(e)s
+ils (elles) auraient été touché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été touché(e)
+que tu aies été touché(e)
+qu’il (elle) ait été touché(e)
+que nous ayons été touché(e)s
+que vous ayez été touché(e)s
+qu’ils (elles) aient été touché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été touché(e)
+que tu eusses été touché(e)
+qu’il (elle) eût été touché(e)
+que nous eussions été touché(e)s
+que vous eussiez été touché(e)s
+qu’ils (elles) eussent été touché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été touché(e)
+ayons été touché(e)s
+ayez été touché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été touché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été touché(e)(s)

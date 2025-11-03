@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe heurter
+
+* INDICATIF
+
+** Présent
+
+je heurte
+tu heurtes
+il (elle) heurte
+nous heurtons
+vous heurtez
+ils (elles) heurtent
+
+** Imparfait
+
+je heurtais
+tu heurtais
+il (elle) heurtait
+nous heurtions
+vous heurtiez
+ils (elles) heurtaient
+
+** Passé simple
+
+je heurtai
+tu heurtas
+il (elle) heurta
+nous heurtâmes
+vous heurtâtes
+ils (elles) heurtèrent
+
+** Futur simple
+
+je heurterai
+tu heurteras
+il (elle) heurtera
+nous heurterons
+vous heurterez
+ils (elles) heurteront
+
+* CONDITIONNEL
+
+** Présent
+
+je heurterais
+tu heurterais
+il (elle) heurterait
+nous heurterions
+vous heurteriez
+ils (elles) heurteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je heurte
+que tu heurtes
+qu’il (elle) heurte
+que nous heurtions
+que vous heurtiez
+qu’ils (elles) heurtent
+
+** Imparfait
+
+que je heurtasse
+que tu heurtasses
+qu’il (elle) heurtât
+que nous heurtassions
+que vous heurtassiez
+qu’ils (elles) heurtassent
+
+* IMPÉRATIF
+
+** Présent
+
+heurte
+heurtons
+heurtez
+
+* INFINITIF
+
+** Présent
+
+heurter
+
+* PARTICIPE
+
+** Présent
+
+heurtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai heurté
+tu as heurté
+il (elle) a heurté
+nous avons heurté
+vous avez heurté
+ils (elles) ont heurté
+
+** Plus-que-parfait
+
+j'avais heurté
+tu avais heurté
+il (elle) avait heurté
+nous avions heurté
+vous aviez heurté
+ils (elles) avaient heurté
+
+** Passé antérieur
+
+j'eus heurté
+tu eus heurté
+il (elle) eut heurté
+nous eûmes heurté
+vous eûtes heurté
+ils (elles) eurent heurté
+
+** Futur antérieur
+
+j'aurai heurté
+tu auras heurté
+il (elle) aura heurté
+nous aurons heurté
+vous aurez heurté
+ils (elles) auront heurté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais heurté
+tu aurais heurté
+il (elle) aurait heurté
+nous aurions heurté
+vous auriez heurté
+ils (elles) auraient heurté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie heurté
+que tu aies heurté
+qu’il (elle) ait heurté
+que nous ayons heurté
+que vous ayez heurté
+qu’ils (elles) aient heurté
+
+** Plus-que-parfait
+
+que j'eusse heurté
+que tu eusses heurté
+qu’il (elle) eût heurté
+que nous eussions heurté
+que vous eussiez heurté
+qu’ils (elles) eussent heurté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons heurté
+ayez heurté
+
+* INFINITIF
+
+** Passé
+
+avoir heurté
+
+* PARTICIPE
+
+** Passé
+
+ayant heurté
+heurté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis heurté(e)
+tu es heurté(e)
+il (elle) est heurté(e)
+nous sommes heurté(e)s
+vous êtes heurté(e)s
+ils (elles) sont heurté(e)s
+
+** Imparfait
+
+j'étais heurté(e)
+tu étais heurté(e)
+il (elle) était heurté(e)
+nous étions heurté(e)s
+vous étiez heurté(e)s
+ils (elles) étaient heurté(e)s
+
+** Passé simple
+
+je fus heurté(e)
+tu fus heurté(e)
+il (elle) fut heurté(e)
+nous fûmes heurté(e)s
+vous fûtes heurté(e)s
+ils (elles) furent heurté(e)s
+
+** Futur simple
+
+je serai heurté(e)
+tu seras heurté(e)
+il (elle) sera heurté(e)
+nous serons heurté(e)s
+vous serez heurté(e)s
+ils (elles) seront heurté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais heurté(e)
+tu serais heurté(e)
+il (elle) serait heurté(e)
+nous serions heurté(e)s
+vous seriez heurté(e)s
+ils (elles) seraient heurté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois heurté(e)
+que tu sois heurté(e)
+qu’il (elle) soit heurté(e)
+que nous soyons heurté(e)s
+que vous soyez heurté(e)s
+qu’ils (elles) soient heurté(e)s
+
+** Imparfait
+
+que je fusse heurté(e)
+que tu fusses heurté(e)
+qu’il (elle) fût heurté(e)
+que nous fussions heurté(e)s
+que vous fussiez heurté(e)s
+qu’ils (elles) fussent heurté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons heurté(e)s
+soyez heurté(e)s
+
+* INFINITIF
+
+** Présent
+
+être heurté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant heurté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été heurté(e)
+tu as été heurté(e)
+il (elle) a été heurté(e)
+nous avons été heurté(e)s
+vous avez été heurté(e)s
+ils (elles) ont été heurté(e)s
+
+** Plus-que-parfait
+
+j'avais été heurté(e)
+il (elle) avait été heurté(e)
+nous avions été heurté(e)s
+ils (elles) avaient été heurté(e)s
+
+** Passé antérieur
+
+j'eus été heurté(e)
+tu eus été heurté(e)
+il (elle) eut été heurté(e)
+nous eûmes été heurté(e)s
+vous eûtes été heurté(e)s
+ils (elles) eurent été heurté(e)s
+
+** Futur antérieur
+
+j'aurai été heurté(e)
+tu auras été heurté(e)
+il (elle) aura été heurté(e)
+nous aurons été heurté(e)s
+vous aurez été heurté(e)s
+ils (elles) auront été heurté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été heurté(e)
+j'aurais été heurté(e)
+il (elle) aurait été heurté(e)
+nous aurions été heurté(e)s
+vous auriez été heurté(e)s
+ils (elles) auraient été heurté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été heurté(e)
+que tu aies été heurté(e)
+qu’il (elle) ait été heurté(e)
+que nous ayons été heurté(e)s
+que vous ayez été heurté(e)s
+qu’ils (elles) aient été heurté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été heurté(e)
+que tu eusses été heurté(e)
+qu’il (elle) eût été heurté(e)
+que nous eussions été heurté(e)s
+que vous eussiez été heurté(e)s
+qu’ils (elles) eussent été heurté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été heurté(e)
+ayons été heurté(e)s
+ayez été heurté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été heurté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été heurté(e)(s)

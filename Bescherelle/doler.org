@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe doler
+
+* INDICATIF
+
+** Présent
+
+je dole
+tu doles
+il (elle) dole
+nous dolons
+vous dolez
+ils (elles) dolent
+
+** Imparfait
+
+je dolais
+tu dolais
+il (elle) dolait
+nous dolions
+vous doliez
+ils (elles) dolaient
+
+** Passé simple
+
+je dolai
+tu dolas
+il (elle) dola
+nous dolâmes
+vous dolâtes
+ils (elles) dolèrent
+
+** Futur simple
+
+je dolerai
+tu doleras
+il (elle) dolera
+nous dolerons
+vous dolerez
+ils (elles) doleront
+
+* CONDITIONNEL
+
+** Présent
+
+je dolerais
+tu dolerais
+il (elle) dolerait
+nous dolerions
+vous doleriez
+ils (elles) doleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dole
+que tu doles
+qu’il (elle) dole
+que nous dolions
+que vous doliez
+qu’ils (elles) dolent
+
+** Imparfait
+
+que je dolasse
+que tu dolasses
+qu’il (elle) dolât
+que nous dolassions
+que vous dolassiez
+qu’ils (elles) dolassent
+
+* IMPÉRATIF
+
+** Présent
+
+dole
+dolons
+dolez
+
+* INFINITIF
+
+** Présent
+
+doler
+
+* PARTICIPE
+
+** Présent
+
+dolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dolé
+tu as dolé
+il (elle) a dolé
+nous avons dolé
+vous avez dolé
+ils (elles) ont dolé
+
+** Plus-que-parfait
+
+j'avais dolé
+tu avais dolé
+il (elle) avait dolé
+nous avions dolé
+vous aviez dolé
+ils (elles) avaient dolé
+
+** Passé antérieur
+
+j'eus dolé
+tu eus dolé
+il (elle) eut dolé
+nous eûmes dolé
+vous eûtes dolé
+ils (elles) eurent dolé
+
+** Futur antérieur
+
+j'aurai dolé
+tu auras dolé
+il (elle) aura dolé
+nous aurons dolé
+vous aurez dolé
+ils (elles) auront dolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dolé
+tu aurais dolé
+il (elle) aurait dolé
+nous aurions dolé
+vous auriez dolé
+ils (elles) auraient dolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dolé
+que tu aies dolé
+qu’il (elle) ait dolé
+que nous ayons dolé
+que vous ayez dolé
+qu’ils (elles) aient dolé
+
+** Plus-que-parfait
+
+que j'eusse dolé
+que tu eusses dolé
+qu’il (elle) eût dolé
+que nous eussions dolé
+que vous eussiez dolé
+qu’ils (elles) eussent dolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dolé
+ayez dolé
+
+* INFINITIF
+
+** Passé
+
+avoir dolé
+
+* PARTICIPE
+
+** Passé
+
+ayant dolé
+dolé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dolé(e)
+tu es dolé(e)
+il (elle) est dolé(e)
+nous sommes dolé(e)s
+vous êtes dolé(e)s
+ils (elles) sont dolé(e)s
+
+** Imparfait
+
+j'étais dolé(e)
+tu étais dolé(e)
+il (elle) était dolé(e)
+nous étions dolé(e)s
+vous étiez dolé(e)s
+ils (elles) étaient dolé(e)s
+
+** Passé simple
+
+je fus dolé(e)
+tu fus dolé(e)
+il (elle) fut dolé(e)
+nous fûmes dolé(e)s
+vous fûtes dolé(e)s
+ils (elles) furent dolé(e)s
+
+** Futur simple
+
+je serai dolé(e)
+tu seras dolé(e)
+il (elle) sera dolé(e)
+nous serons dolé(e)s
+vous serez dolé(e)s
+ils (elles) seront dolé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dolé(e)
+tu serais dolé(e)
+il (elle) serait dolé(e)
+nous serions dolé(e)s
+vous seriez dolé(e)s
+ils (elles) seraient dolé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dolé(e)
+que tu sois dolé(e)
+qu’il (elle) soit dolé(e)
+que nous soyons dolé(e)s
+que vous soyez dolé(e)s
+qu’ils (elles) soient dolé(e)s
+
+** Imparfait
+
+que je fusse dolé(e)
+que tu fusses dolé(e)
+qu’il (elle) fût dolé(e)
+que nous fussions dolé(e)s
+que vous fussiez dolé(e)s
+qu’ils (elles) fussent dolé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dolé(e)s
+soyez dolé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dolé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dolé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dolé(e)
+tu as été dolé(e)
+il (elle) a été dolé(e)
+nous avons été dolé(e)s
+vous avez été dolé(e)s
+ils (elles) ont été dolé(e)s
+
+** Plus-que-parfait
+
+j'avais été dolé(e)
+il (elle) avait été dolé(e)
+nous avions été dolé(e)s
+ils (elles) avaient été dolé(e)s
+
+** Passé antérieur
+
+j'eus été dolé(e)
+tu eus été dolé(e)
+il (elle) eut été dolé(e)
+nous eûmes été dolé(e)s
+vous eûtes été dolé(e)s
+ils (elles) eurent été dolé(e)s
+
+** Futur antérieur
+
+j'aurai été dolé(e)
+tu auras été dolé(e)
+il (elle) aura été dolé(e)
+nous aurons été dolé(e)s
+vous aurez été dolé(e)s
+ils (elles) auront été dolé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dolé(e)
+j'aurais été dolé(e)
+il (elle) aurait été dolé(e)
+nous aurions été dolé(e)s
+vous auriez été dolé(e)s
+ils (elles) auraient été dolé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dolé(e)
+que tu aies été dolé(e)
+qu’il (elle) ait été dolé(e)
+que nous ayons été dolé(e)s
+que vous ayez été dolé(e)s
+qu’ils (elles) aient été dolé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dolé(e)
+que tu eusses été dolé(e)
+qu’il (elle) eût été dolé(e)
+que nous eussions été dolé(e)s
+que vous eussiez été dolé(e)s
+qu’ils (elles) eussent été dolé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dolé(e)
+ayons été dolé(e)s
+ayez été dolé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dolé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dolé(e)(s)

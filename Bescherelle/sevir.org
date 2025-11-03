@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sevir
+
+* INDICATIF
+
+** Présent
+
+je sévis
+tu sévis
+il (elle) sévit
+nous sévissons
+vous sévissez
+ils (elles) sévissent
+
+** Imparfait
+
+je sévissais
+tu sévissais
+il (elle) sévissait
+nous sévissions
+vous sévissiez
+ils (elles) sévissaient
+
+** Passé simple
+
+je sévis
+tu sévis
+il (elle) sévit
+nous sévîmes
+vous sévîtes
+ils (elles) sévirent
+
+** Futur simple
+
+je sévirai
+tu séviras
+il (elle) sévira
+nous sévirons
+vous sévirez
+ils (elles) séviront
+
+* CONDITIONNEL
+
+** Présent
+
+je sévirais
+tu sévirais
+il (elle) sévirait
+nous sévirions
+vous séviriez
+ils (elles) séviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sévisse
+que tu sévisses
+qu’il (elle) sévisse
+que nous sévissions
+que vous sévissiez
+qu’ils (elles) sévissent
+
+** Imparfait
+
+que je sévisse
+que tu sévisses
+qu’il (elle) sévît
+que nous sévissions
+que vous sévissiez
+qu’ils (elles) sévissent
+
+* IMPÉRATIF
+
+** Présent
+
+sévis
+sévissons
+sévissez
+
+* INFINITIF
+
+** Présent
+
+sévir
+
+* PARTICIPE
+
+** Présent
+
+sévissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sévi
+tu as sévi
+il (elle) a sévi
+nous avons sévi
+vous avez sévi
+ils (elles) ont sévi
+
+** Plus-que-parfait
+
+j'avais sévi
+tu avais sévi
+il (elle) avait sévi
+nous avions sévi
+vous aviez sévi
+ils (elles) avaient sévi
+
+** Passé antérieur
+
+j'eus sévi
+tu eus sévi
+il (elle) eut sévi
+nous eûmes sévi
+vous eûtes sévi
+ils (elles) eurent sévi
+
+** Futur antérieur
+
+j'aurai sévi
+tu auras sévi
+il (elle) aura sévi
+nous aurons sévi
+vous aurez sévi
+ils (elles) auront sévi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sévi
+tu aurais sévi
+il (elle) aurait sévi
+nous aurions sévi
+vous auriez sévi
+ils (elles) auraient sévi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sévi
+que tu aies sévi
+qu’il (elle) ait sévi
+que nous ayons sévi
+que vous ayez sévi
+qu’ils (elles) aient sévi
+
+** Plus-que-parfait
+
+que j'eusse sévi
+que tu eusses sévi
+qu’il (elle) eût sévi
+que nous eussions sévi
+que vous eussiez sévi
+qu’ils (elles) eussent sévi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sévi
+ayez sévi
+
+* INFINITIF
+
+** Passé
+
+avoir sévi
+
+* PARTICIPE
+
+** Passé
+
+ayant sévi
+sévi (invar.)

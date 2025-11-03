@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe priser
+
+* INDICATIF
+
+** Présent
+
+je prise
+tu prises
+il (elle) prise
+nous prisons
+vous prisez
+ils (elles) prisent
+
+** Imparfait
+
+je prisais
+tu prisais
+il (elle) prisait
+nous prisions
+vous prisiez
+ils (elles) prisaient
+
+** Passé simple
+
+je prisai
+tu prisas
+il (elle) prisa
+nous prisâmes
+vous prisâtes
+ils (elles) prisèrent
+
+** Futur simple
+
+je priserai
+tu priseras
+il (elle) prisera
+nous priserons
+vous priserez
+ils (elles) priseront
+
+* CONDITIONNEL
+
+** Présent
+
+je priserais
+tu priserais
+il (elle) priserait
+nous priserions
+vous priseriez
+ils (elles) priseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prise
+que tu prises
+qu’il (elle) prise
+que nous prisions
+que vous prisiez
+qu’ils (elles) prisent
+
+** Imparfait
+
+que je prisasse
+que tu prisasses
+qu’il (elle) prisât
+que nous prisassions
+que vous prisassiez
+qu’ils (elles) prisassent
+
+* IMPÉRATIF
+
+** Présent
+
+prise
+prisons
+prisez
+
+* INFINITIF
+
+** Présent
+
+priser
+
+* PARTICIPE
+
+** Présent
+
+prisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prisé
+tu as prisé
+il (elle) a prisé
+nous avons prisé
+vous avez prisé
+ils (elles) ont prisé
+
+** Plus-que-parfait
+
+j'avais prisé
+tu avais prisé
+il (elle) avait prisé
+nous avions prisé
+vous aviez prisé
+ils (elles) avaient prisé
+
+** Passé antérieur
+
+j'eus prisé
+tu eus prisé
+il (elle) eut prisé
+nous eûmes prisé
+vous eûtes prisé
+ils (elles) eurent prisé
+
+** Futur antérieur
+
+j'aurai prisé
+tu auras prisé
+il (elle) aura prisé
+nous aurons prisé
+vous aurez prisé
+ils (elles) auront prisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prisé
+tu aurais prisé
+il (elle) aurait prisé
+nous aurions prisé
+vous auriez prisé
+ils (elles) auraient prisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prisé
+que tu aies prisé
+qu’il (elle) ait prisé
+que nous ayons prisé
+que vous ayez prisé
+qu’ils (elles) aient prisé
+
+** Plus-que-parfait
+
+que j'eusse prisé
+que tu eusses prisé
+qu’il (elle) eût prisé
+que nous eussions prisé
+que vous eussiez prisé
+qu’ils (elles) eussent prisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prisé
+ayez prisé
+
+* INFINITIF
+
+** Passé
+
+avoir prisé
+
+* PARTICIPE
+
+** Passé
+
+ayant prisé
+prisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prisé(e)
+tu es prisé(e)
+il (elle) est prisé(e)
+nous sommes prisé(e)s
+vous êtes prisé(e)s
+ils (elles) sont prisé(e)s
+
+** Imparfait
+
+j'étais prisé(e)
+tu étais prisé(e)
+il (elle) était prisé(e)
+nous étions prisé(e)s
+vous étiez prisé(e)s
+ils (elles) étaient prisé(e)s
+
+** Passé simple
+
+je fus prisé(e)
+tu fus prisé(e)
+il (elle) fut prisé(e)
+nous fûmes prisé(e)s
+vous fûtes prisé(e)s
+ils (elles) furent prisé(e)s
+
+** Futur simple
+
+je serai prisé(e)
+tu seras prisé(e)
+il (elle) sera prisé(e)
+nous serons prisé(e)s
+vous serez prisé(e)s
+ils (elles) seront prisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prisé(e)
+tu serais prisé(e)
+il (elle) serait prisé(e)
+nous serions prisé(e)s
+vous seriez prisé(e)s
+ils (elles) seraient prisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prisé(e)
+que tu sois prisé(e)
+qu’il (elle) soit prisé(e)
+que nous soyons prisé(e)s
+que vous soyez prisé(e)s
+qu’ils (elles) soient prisé(e)s
+
+** Imparfait
+
+que je fusse prisé(e)
+que tu fusses prisé(e)
+qu’il (elle) fût prisé(e)
+que nous fussions prisé(e)s
+que vous fussiez prisé(e)s
+qu’ils (elles) fussent prisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prisé(e)s
+soyez prisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être prisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prisé(e)
+tu as été prisé(e)
+il (elle) a été prisé(e)
+nous avons été prisé(e)s
+vous avez été prisé(e)s
+ils (elles) ont été prisé(e)s
+
+** Plus-que-parfait
+
+j'avais été prisé(e)
+il (elle) avait été prisé(e)
+nous avions été prisé(e)s
+ils (elles) avaient été prisé(e)s
+
+** Passé antérieur
+
+j'eus été prisé(e)
+tu eus été prisé(e)
+il (elle) eut été prisé(e)
+nous eûmes été prisé(e)s
+vous eûtes été prisé(e)s
+ils (elles) eurent été prisé(e)s
+
+** Futur antérieur
+
+j'aurai été prisé(e)
+tu auras été prisé(e)
+il (elle) aura été prisé(e)
+nous aurons été prisé(e)s
+vous aurez été prisé(e)s
+ils (elles) auront été prisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prisé(e)
+j'aurais été prisé(e)
+il (elle) aurait été prisé(e)
+nous aurions été prisé(e)s
+vous auriez été prisé(e)s
+ils (elles) auraient été prisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prisé(e)
+que tu aies été prisé(e)
+qu’il (elle) ait été prisé(e)
+que nous ayons été prisé(e)s
+que vous ayez été prisé(e)s
+qu’ils (elles) aient été prisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prisé(e)
+que tu eusses été prisé(e)
+qu’il (elle) eût été prisé(e)
+que nous eussions été prisé(e)s
+que vous eussiez été prisé(e)s
+qu’ils (elles) eussent été prisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prisé(e)
+ayons été prisé(e)s
+ayez été prisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prisé(e)(s)

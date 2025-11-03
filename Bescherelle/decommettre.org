@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe decommettre
+
+* INDICATIF
+
+** Présent
+
+je décommets
+tu décommets
+il (elle) décommet
+nous décommettons
+vous décommettez
+ils (elles) décommettent
+
+** Imparfait
+
+je décommettais
+tu décommettais
+il (elle) décommettait
+nous décommettions
+vous décommettiez
+ils (elles) décommettaient
+
+** Passé simple
+
+je décommis
+tu décommis
+il (elle) décommit
+nous décommîmes
+vous décommîtes
+ils (elles) décommirent
+
+** Futur simple
+
+je décommettrai
+tu décommettras
+il (elle) décommettra
+nous décommettrons
+vous décommettrez
+ils (elles) décommettront
+
+* CONDITIONNEL
+
+** Présent
+
+je décommettrais
+tu décommettrais
+il (elle) décommettrait
+nous décommettrions
+vous décommettriez
+ils (elles) décommettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je décommette
+que tu décommettes
+qu’il (elle) décommette
+que nous décommettions
+que vous décommettiez
+qu’ils (elles) décommettent
+
+** Imparfait
+
+que je décommisse
+que tu décommisses
+qu’il (elle) décommît
+que nous décommissions
+que vous décommissiez
+qu’ils (elles) décommissent
+
+* IMPÉRATIF
+
+** Présent
+
+décommets
+décommettons
+décommettez
+
+* INFINITIF
+
+** Présent
+
+décommettre
+
+* PARTICIPE
+
+** Présent
+
+décommettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai décommis
+tu as décommis
+il (elle) a décommis
+nous avons décommis
+vous avez décommis
+ils (elles) ont décommis
+
+** Plus-que-parfait
+
+j'avais décommis
+tu avais décommis
+il (elle) avait décommis
+nous avions décommis
+vous aviez décommis
+ils (elles) avaient décommis
+
+** Passé antérieur
+
+j'eus décommis
+tu eus décommis
+il (elle) eut décommis
+nous eûmes décommis
+vous eûtes décommis
+ils (elles) eurent décommis
+
+** Futur antérieur
+
+j'aurai décommis
+tu auras décommis
+il (elle) aura décommis
+nous aurons décommis
+vous aurez décommis
+ils (elles) auront décommis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais décommis
+tu aurais décommis
+il (elle) aurait décommis
+nous aurions décommis
+vous auriez décommis
+ils (elles) auraient décommis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie décommis
+que tu aies décommis
+qu’il (elle) ait décommis
+que nous ayons décommis
+que vous ayez décommis
+qu’ils (elles) aient décommis
+
+** Plus-que-parfait
+
+que j'eusse décommis
+que tu eusses décommis
+qu’il (elle) eût décommis
+que nous eussions décommis
+que vous eussiez décommis
+qu’ils (elles) eussent décommis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons décommis
+ayez décommis
+
+* INFINITIF
+
+** Passé
+
+avoir décommis
+
+* PARTICIPE
+
+** Passé
+
+ayant décommis
+décommis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis décommis(e)
+tu es décommis(e)
+il (elle) est décommis(e)
+nous sommes décommis(es)
+vous êtes décommis(es)
+ils (elles) sont décommis(es)
+
+** Imparfait
+
+j'étais décommis(e)
+tu étais décommis(e)
+il (elle) était décommis(e)
+nous étions décommis(es)
+vous étiez décommis(es)
+ils (elles) étaient décommis(es)
+
+** Passé simple
+
+je fus décommis(e)
+tu fus décommis(e)
+il (elle) fut décommis(e)
+nous fûmes décommis(es)
+vous fûtes décommis(es)
+ils (elles) furent décommis(es)
+
+** Futur simple
+
+je serai décommis(e)
+tu seras décommis(e)
+il (elle) sera décommis(e)
+nous serons décommis(es)
+vous serez décommis(es)
+ils (elles) seront décommis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais décommis(e)
+tu serais décommis(e)
+il (elle) serait décommis(e)
+nous serions décommis(es)
+vous seriez décommis(es)
+ils (elles) seraient décommis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois décommis(e)
+que tu sois décommis(e)
+qu’il (elle) soit décommis(e)
+que nous soyons décommis(es)
+que vous soyez décommis(es)
+qu’ils (elles) soient décommis(es)
+
+** Imparfait
+
+que je fusse décommis(e)
+que tu fusses décommis(e)
+qu’il (elle) fût décommis(e)
+que nous fussions décommis(es)
+que vous fussiez décommis(es)
+qu’ils (elles) fussent décommis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons décommis(es)
+soyez décommis(es)
+
+* INFINITIF
+
+** Présent
+
+être décommis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant décommis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été décommis(e)
+tu as été décommis(e)
+il (elle) a été décommis(e)
+nous avons été décommis(es)
+vous avez été décommis(es)
+ils (elles) ont été décommis(es)
+
+** Plus-que-parfait
+
+j'avais été décommis(e)
+il (elle) avait été décommis(e)
+nous avions été décommis(es)
+ils (elles) avaient été décommis(es)
+
+** Passé antérieur
+
+j'eus été décommis(e)
+tu eus été décommis(e)
+il (elle) eut été décommis(e)
+nous eûmes été décommis(es)
+vous eûtes été décommis(es)
+ils (elles) eurent été décommis(es)
+
+** Futur antérieur
+
+j'aurai été décommis(e)
+tu auras été décommis(e)
+il (elle) aura été décommis(e)
+nous aurons été décommis(es)
+vous aurez été décommis(es)
+ils (elles) auront été décommis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été décommis(e)
+j'aurais été décommis(e)
+il (elle) aurait été décommis(e)
+nous aurions été décommis(es)
+vous auriez été décommis(es)
+ils (elles) auraient été décommis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été décommis(e)
+que tu aies été décommis(e)
+qu’il (elle) ait été décommis(e)
+que nous ayons été décommis(es)
+que vous ayez été décommis(es)
+qu’ils (elles) aient été décommis(es)
+
+** Plus-que-parfait
+
+que j'eusse été décommis(e)
+que tu eusses été décommis(e)
+qu’il (elle) eût été décommis(e)
+que nous eussions été décommis(es)
+que vous eussiez été décommis(es)
+qu’ils (elles) eussent été décommis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été décommis(e)
+ayons été décommis(es)
+ayez été décommis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été décommis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été décommis (s, se, s, ses)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe relever
+
+* INDICATIF
+
+** Présent
+
+je relève
+tu relèves
+il (elle) relève
+nous relevons
+vous relevez
+ils (elles) relèvent
+
+** Imparfait
+
+je relevais
+tu relevais
+il (elle) relevait
+nous relevions
+vous releviez
+ils (elles) relevaient
+
+** Passé simple
+
+je relevai
+tu relevas
+il (elle) releva
+nous relevâmes
+vous relevâtes
+ils (elles) relevèrent
+
+** Futur simple
+
+je relèverai
+tu relèveras
+il (elle) relèvera
+nous relèverons
+vous relèverez
+ils (elles) relèveront
+
+* CONDITIONNEL
+
+** Présent
+
+je relèverais
+tu relèverais
+il (elle) relèverait
+nous relèverions
+vous relèveriez
+ils (elles) relèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je relève
+que tu relèves
+qu’il (elle) relève
+que nous relevions
+que vous releviez
+qu’ils (elles) relèvent
+
+** Imparfait
+
+que je relevasse
+que tu relevasses
+qu’il (elle) relevât
+que nous relevassions
+que vous relevassiez
+qu’ils (elles) relevassent
+
+* IMPÉRATIF
+
+** Présent
+
+relève
+relevons
+relevez
+
+* INFINITIF
+
+** Présent
+
+relever
+
+* PARTICIPE
+
+** Présent
+
+relevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai relevé
+tu as relevé
+il (elle) a relevé
+nous avons relevé
+vous avez relevé
+ils (elles) ont relevé
+
+** Plus-que-parfait
+
+j'avais relevé
+tu avais relevé
+il (elle) avait relevé
+nous avions relevé
+vous aviez relevé
+ils (elles) avaient relevé
+
+** Passé antérieur
+
+j'eus relevé
+tu eus relevé
+il (elle) eut relevé
+nous eûmes relevé
+vous eûtes relevé
+ils (elles) eurent relevé
+
+** Futur antérieur
+
+j'aurai relevé
+tu auras relevé
+il (elle) aura relevé
+nous aurons relevé
+vous aurez relevé
+ils (elles) auront relevé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais relevé
+tu aurais relevé
+il (elle) aurait relevé
+nous aurions relevé
+vous auriez relevé
+ils (elles) auraient relevé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie relevé
+que tu aies relevé
+qu’il (elle) ait relevé
+que nous ayons relevé
+que vous ayez relevé
+qu’ils (elles) aient relevé
+
+** Plus-que-parfait
+
+que j'eusse relevé
+que tu eusses relevé
+qu’il (elle) eût relevé
+que nous eussions relevé
+que vous eussiez relevé
+qu’ils (elles) eussent relevé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons relevé
+ayez relevé
+
+* INFINITIF
+
+** Passé
+
+avoir relevé
+
+* PARTICIPE
+
+** Passé
+
+ayant relevé
+relevé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis relevé(e)
+tu es relevé(e)
+il (elle) est relevé(e)
+nous sommes relevé(e)s
+vous êtes relevé(e)s
+ils (elles) sont relevé(e)s
+
+** Imparfait
+
+j'étais relevé(e)
+tu étais relevé(e)
+il (elle) était relevé(e)
+nous étions relevé(e)s
+vous étiez relevé(e)s
+ils (elles) étaient relevé(e)s
+
+** Passé simple
+
+je fus relevé(e)
+tu fus relevé(e)
+il (elle) fut relevé(e)
+nous fûmes relevé(e)s
+vous fûtes relevé(e)s
+ils (elles) furent relevé(e)s
+
+** Futur simple
+
+je serai relevé(e)
+tu seras relevé(e)
+il (elle) sera relevé(e)
+nous serons relevé(e)s
+vous serez relevé(e)s
+ils (elles) seront relevé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais relevé(e)
+tu serais relevé(e)
+il (elle) serait relevé(e)
+nous serions relevé(e)s
+vous seriez relevé(e)s
+ils (elles) seraient relevé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois relevé(e)
+que tu sois relevé(e)
+qu’il (elle) soit relevé(e)
+que nous soyons relevé(e)s
+que vous soyez relevé(e)s
+qu’ils (elles) soient relevé(e)s
+
+** Imparfait
+
+que je fusse relevé(e)
+que tu fusses relevé(e)
+qu’il (elle) fût relevé(e)
+que nous fussions relevé(e)s
+que vous fussiez relevé(e)s
+qu’ils (elles) fussent relevé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons relevé(e)s
+soyez relevé(e)s
+
+* INFINITIF
+
+** Présent
+
+être relevé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant relevé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été relevé(e)
+tu as été relevé(e)
+il (elle) a été relevé(e)
+nous avons été relevé(e)s
+vous avez été relevé(e)s
+ils (elles) ont été relevé(e)s
+
+** Plus-que-parfait
+
+j'avais été relevé(e)
+il (elle) avait été relevé(e)
+nous avions été relevé(e)s
+ils (elles) avaient été relevé(e)s
+
+** Passé antérieur
+
+j'eus été relevé(e)
+tu eus été relevé(e)
+il (elle) eut été relevé(e)
+nous eûmes été relevé(e)s
+vous eûtes été relevé(e)s
+ils (elles) eurent été relevé(e)s
+
+** Futur antérieur
+
+j'aurai été relevé(e)
+tu auras été relevé(e)
+il (elle) aura été relevé(e)
+nous aurons été relevé(e)s
+vous aurez été relevé(e)s
+ils (elles) auront été relevé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été relevé(e)
+j'aurais été relevé(e)
+il (elle) aurait été relevé(e)
+nous aurions été relevé(e)s
+vous auriez été relevé(e)s
+ils (elles) auraient été relevé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été relevé(e)
+que tu aies été relevé(e)
+qu’il (elle) ait été relevé(e)
+que nous ayons été relevé(e)s
+que vous ayez été relevé(e)s
+qu’ils (elles) aient été relevé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été relevé(e)
+que tu eusses été relevé(e)
+qu’il (elle) eût été relevé(e)
+que nous eussions été relevé(e)s
+que vous eussiez été relevé(e)s
+qu’ils (elles) eussent été relevé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été relevé(e)
+ayons été relevé(e)s
+ayez été relevé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été relevé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été relevé(e)(s)

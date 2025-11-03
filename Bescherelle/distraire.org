@@ -1,0 +1,336 @@
+#+title: Conjugaison du verbe distraire
+
+* INDICATIF
+
+** Présent
+
+je distrais
+tu distrais
+il (elle) distrait
+nous distrayons
+vous distrayez
+ils (elles) distraient
+
+** Imparfait
+
+je distrayais
+tu distrayais
+il (elle) distrayait
+nous distrayions
+vous distrayiez
+ils (elles) distrayaient
+
+** Futur simple
+
+je distrairai
+tu distrairas
+il (elle) distraira
+nous distrairons
+vous distrairez
+ils (elles) distrairont
+
+* CONDITIONNEL
+
+** Présent
+
+je distrairais
+tu distrairais
+il (elle) distrairait
+nous distrairions
+vous distrairiez
+ils (elles) distrairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je distraie
+que tu distraies
+qu’il (elle) distraie
+que nous distrayions
+que vous distrayiez
+qu’ils (elles) distraient
+
+* IMPÉRATIF
+
+** Présent
+
+distrais
+distrayons
+distrayez
+
+* INFINITIF
+
+** Présent
+
+distraire
+
+* PARTICIPE
+
+** Présent
+
+distrayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai distrait
+tu as distrait
+il (elle) a distrait
+nous avons distrait
+vous avez distrait
+ils (elles) ont distrait
+
+** Plus-que-parfait
+
+j'avais distrait
+tu avais distrait
+il (elle) avait distrait
+nous avions distrait
+vous aviez distrait
+ils (elles) avaient distrait
+
+** Passé antérieur
+
+j'eus distrait
+tu eus distrait
+il (elle) eut distrait
+nous eûmes distrait
+vous eûtes distrait
+ils (elles) eurent distrait
+
+** Futur antérieur
+
+j'aurai distrait
+tu auras distrait
+il (elle) aura distrait
+nous aurons distrait
+vous aurez distrait
+ils (elles) auront distrait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais distrait
+tu aurais distrait
+il (elle) aurait distrait
+nous aurions distrait
+vous auriez distrait
+ils (elles) auraient distrait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie distrait
+que tu aies distrait
+qu’il (elle) ait distrait
+que nous ayons distrait
+que vous ayez distrait
+qu’ils (elles) aient distrait
+
+** Plus-que-parfait
+
+que j'eusse distrait
+que tu eusses distrait
+qu’il (elle) eût distrait
+que nous eussions distrait
+que vous eussiez distrait
+qu’ils (elles) eussent distrait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons distrait
+ayez distrait
+
+* INFINITIF
+
+** Passé
+
+avoir distrait
+
+* PARTICIPE
+
+** Passé
+
+ayant distrait
+distrait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis distrait(e)
+tu es distrait(e)
+il (elle) est distrait(e)
+nous sommes distrait(e)s
+vous êtes distrait(e)s
+ils (elles) sont distrait(e)s
+
+** Imparfait
+
+j'étais distrait(e)
+tu étais distrait(e)
+il (elle) était distrait(e)
+nous étions distrait(e)s
+vous étiez distrait(e)s
+ils (elles) étaient distrait(e)s
+
+** Passé simple
+
+je fus distrait(e)
+tu fus distrait(e)
+il (elle) fut distrait(e)
+nous fûmes distrait(e)s
+vous fûtes distrait(e)s
+ils (elles) furent distrait(e)s
+
+** Futur simple
+
+je serai distrait(e)
+tu seras distrait(e)
+il (elle) sera distrait(e)
+nous serons distrait(e)s
+vous serez distrait(e)s
+ils (elles) seront distrait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais distrait(e)
+tu serais distrait(e)
+il (elle) serait distrait(e)
+nous serions distrait(e)s
+vous seriez distrait(e)s
+ils (elles) seraient distrait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois distrait(e)
+que tu sois distrait(e)
+qu’il (elle) soit distrait(e)
+que nous soyons distrait(e)s
+que vous soyez distrait(e)s
+qu’ils (elles) soient distrait(e)s
+
+** Imparfait
+
+que je fusse distrait(e)
+que tu fusses distrait(e)
+qu’il (elle) fût distrait(e)
+que nous fussions distrait(e)s
+que vous fussiez distrait(e)s
+qu’ils (elles) fussent distrait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons distrait(e)s
+soyez distrait(e)s
+
+* INFINITIF
+
+** Présent
+
+être distrait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant distrait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été distrait(e)
+tu as été distrait(e)
+il (elle) a été distrait(e)
+nous avons été distrait(e)s
+vous avez été distrait(e)s
+ils (elles) ont été distrait(e)s
+
+** Plus-que-parfait
+
+j'avais été distrait(e)
+il (elle) avait été distrait(e)
+nous avions été distrait(e)s
+ils (elles) avaient été distrait(e)s
+
+** Passé antérieur
+
+j'eus été distrait(e)
+tu eus été distrait(e)
+il (elle) eut été distrait(e)
+nous eûmes été distrait(e)s
+vous eûtes été distrait(e)s
+ils (elles) eurent été distrait(e)s
+
+** Futur antérieur
+
+j'aurai été distrait(e)
+tu auras été distrait(e)
+il (elle) aura été distrait(e)
+nous aurons été distrait(e)s
+vous aurez été distrait(e)s
+ils (elles) auront été distrait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été distrait(e)
+j'aurais été distrait(e)
+il (elle) aurait été distrait(e)
+nous aurions été distrait(e)s
+vous auriez été distrait(e)s
+ils (elles) auraient été distrait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été distrait(e)
+que tu aies été distrait(e)
+qu’il (elle) ait été distrait(e)
+que nous ayons été distrait(e)s
+que vous ayez été distrait(e)s
+qu’ils (elles) aient été distrait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été distrait(e)
+que tu eusses été distrait(e)
+qu’il (elle) eût été distrait(e)
+que nous eussions été distrait(e)s
+que vous eussiez été distrait(e)s
+qu’ils (elles) eussent été distrait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été distrait(e)
+ayons été distrait(e)s
+ayez été distrait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été distrait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été distrait(e)(s)

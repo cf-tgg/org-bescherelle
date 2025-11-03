@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe expedier
+
+* INDICATIF
+
+** Présent
+
+j'expédie
+tu expédies
+il (elle) expédie
+nous expédions
+vous expédiez
+ils (elles) expédient
+
+** Imparfait
+
+j'expédiais
+tu expédiais
+il (elle) expédiait
+nous expédiions
+vous expédiiez
+ils (elles) expédiaient
+
+** Passé simple
+
+j'expédiai
+tu expédias
+il (elle) expédia
+nous expédiâmes
+vous expédiâtes
+ils (elles) expédièrent
+
+** Futur simple
+
+j'expédierai
+tu expédieras
+il (elle) expédiera
+nous expédierons
+vous expédierez
+ils (elles) expédieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'expédierais
+tu expédierais
+il (elle) expédierait
+nous expédierions
+vous expédieriez
+ils (elles) expédieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'expédie
+que tu expédies
+qu’il (elle) expédie
+que nous expédiions
+que vous expédiiez
+qu’ils (elles) expédient
+
+** Imparfait
+
+que j'expédiasse
+que tu expédiasses
+qu’il (elle) expédiât
+que nous expédiassions
+que vous expédiassiez
+qu’ils (elles) expédiassent
+
+* IMPÉRATIF
+
+** Présent
+
+expédie
+expédions
+expédiez
+
+* INFINITIF
+
+** Présent
+
+expédier
+
+* PARTICIPE
+
+** Présent
+
+expédiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai expédié
+tu as expédié
+il (elle) a expédié
+nous avons expédié
+vous avez expédié
+ils (elles) ont expédié
+
+** Plus-que-parfait
+
+j'avais expédié
+tu avais expédié
+il (elle) avait expédié
+nous avions expédié
+vous aviez expédié
+ils (elles) avaient expédié
+
+** Passé antérieur
+
+j'eus expédié
+tu eus expédié
+il (elle) eut expédié
+nous eûmes expédié
+vous eûtes expédié
+ils (elles) eurent expédié
+
+** Futur antérieur
+
+j'aurai expédié
+tu auras expédié
+il (elle) aura expédié
+nous aurons expédié
+vous aurez expédié
+ils (elles) auront expédié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais expédié
+tu aurais expédié
+il (elle) aurait expédié
+nous aurions expédié
+vous auriez expédié
+ils (elles) auraient expédié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie expédié
+que tu aies expédié
+qu’il (elle) ait expédié
+que nous ayons expédié
+que vous ayez expédié
+qu’ils (elles) aient expédié
+
+** Plus-que-parfait
+
+que j'eusse expédié
+que tu eusses expédié
+qu’il (elle) eût expédié
+que nous eussions expédié
+que vous eussiez expédié
+qu’ils (elles) eussent expédié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons expédié
+ayez expédié
+
+* INFINITIF
+
+** Passé
+
+avoir expédié
+
+* PARTICIPE
+
+** Passé
+
+ayant expédié
+expédié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis expédié(e)
+tu es expédié(e)
+il (elle) est expédié(e)
+nous sommes expédié(e)s
+vous êtes expédié(e)s
+ils (elles) sont expédié(e)s
+
+** Imparfait
+
+j'étais expédié(e)
+tu étais expédié(e)
+il (elle) était expédié(e)
+nous étions expédié(e)s
+vous étiez expédié(e)s
+ils (elles) étaient expédié(e)s
+
+** Passé simple
+
+je fus expédié(e)
+tu fus expédié(e)
+il (elle) fut expédié(e)
+nous fûmes expédié(e)s
+vous fûtes expédié(e)s
+ils (elles) furent expédié(e)s
+
+** Futur simple
+
+je serai expédié(e)
+tu seras expédié(e)
+il (elle) sera expédié(e)
+nous serons expédié(e)s
+vous serez expédié(e)s
+ils (elles) seront expédié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais expédié(e)
+tu serais expédié(e)
+il (elle) serait expédié(e)
+nous serions expédié(e)s
+vous seriez expédié(e)s
+ils (elles) seraient expédié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois expédié(e)
+que tu sois expédié(e)
+qu’il (elle) soit expédié(e)
+que nous soyons expédié(e)s
+que vous soyez expédié(e)s
+qu’ils (elles) soient expédié(e)s
+
+** Imparfait
+
+que je fusse expédié(e)
+que tu fusses expédié(e)
+qu’il (elle) fût expédié(e)
+que nous fussions expédié(e)s
+que vous fussiez expédié(e)s
+qu’ils (elles) fussent expédié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons expédié(e)s
+soyez expédié(e)s
+
+* INFINITIF
+
+** Présent
+
+être expédié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant expédié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été expédié(e)
+tu as été expédié(e)
+il (elle) a été expédié(e)
+nous avons été expédié(e)s
+vous avez été expédié(e)s
+ils (elles) ont été expédié(e)s
+
+** Plus-que-parfait
+
+j'avais été expédié(e)
+il (elle) avait été expédié(e)
+nous avions été expédié(e)s
+ils (elles) avaient été expédié(e)s
+
+** Passé antérieur
+
+j'eus été expédié(e)
+tu eus été expédié(e)
+il (elle) eut été expédié(e)
+nous eûmes été expédié(e)s
+vous eûtes été expédié(e)s
+ils (elles) eurent été expédié(e)s
+
+** Futur antérieur
+
+j'aurai été expédié(e)
+tu auras été expédié(e)
+il (elle) aura été expédié(e)
+nous aurons été expédié(e)s
+vous aurez été expédié(e)s
+ils (elles) auront été expédié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été expédié(e)
+j'aurais été expédié(e)
+il (elle) aurait été expédié(e)
+nous aurions été expédié(e)s
+vous auriez été expédié(e)s
+ils (elles) auraient été expédié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été expédié(e)
+que tu aies été expédié(e)
+qu’il (elle) ait été expédié(e)
+que nous ayons été expédié(e)s
+que vous ayez été expédié(e)s
+qu’ils (elles) aient été expédié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été expédié(e)
+que tu eusses été expédié(e)
+qu’il (elle) eût été expédié(e)
+que nous eussions été expédié(e)s
+que vous eussiez été expédié(e)s
+qu’ils (elles) eussent été expédié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été expédié(e)
+ayons été expédié(e)s
+ayez été expédié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été expédié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été expédié(e)(s)

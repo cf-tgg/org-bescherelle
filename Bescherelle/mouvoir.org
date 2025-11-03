@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mouvoir
+
+* INDICATIF
+
+** Présent
+
+je meus
+tu meus
+il (elle) meut
+nous mouvons
+vous mouvez
+ils (elles) meuvent
+
+** Imparfait
+
+je mouvais
+tu mouvais
+il (elle) mouvait
+nous mouvions
+vous mouviez
+ils (elles) mouvaient
+
+** Passé simple
+
+je mus
+tu mus
+il (elle) mut
+nous mûmes
+vous mûtes
+ils (elles) murent
+
+** Futur simple
+
+je mouvrai
+tu mouvras
+il (elle) mouvra
+nous mouvrons
+vous mouvrez
+ils (elles) mouvront
+
+* CONDITIONNEL
+
+** Présent
+
+je mouvrais
+tu mouvrais
+il (elle) mouvrait
+nous mouvrions
+vous mouvriez
+ils (elles) mouvraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je meuve
+que tu meuves
+qu’il (elle) meuve
+que nous mouvions
+que vous mouviez
+qu’ils (elles) meuvent
+
+** Imparfait
+
+que je musse
+que tu musses
+qu’il (elle) mût
+que nous mussions
+que vous mussiez
+qu’ils (elles) mussent
+
+* IMPÉRATIF
+
+** Présent
+
+meus
+mouvons
+mouvez
+
+* INFINITIF
+
+** Présent
+
+mouvoir
+
+* PARTICIPE
+
+** Présent
+
+mouvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mû
+tu as mû
+il (elle) a mû
+nous avons mû
+vous avez mû
+ils (elles) ont mû
+
+** Plus-que-parfait
+
+j'avais mû
+tu avais mû
+il (elle) avait mû
+nous avions mû
+vous aviez mû
+ils (elles) avaient mû
+
+** Passé antérieur
+
+j'eus mû
+tu eus mû
+il (elle) eut mû
+nous eûmes mû
+vous eûtes mû
+ils (elles) eurent mû
+
+** Futur antérieur
+
+j'aurai mû
+tu auras mû
+il (elle) aura mû
+nous aurons mû
+vous aurez mû
+ils (elles) auront mû
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mû
+tu aurais mû
+il (elle) aurait mû
+nous aurions mû
+vous auriez mû
+ils (elles) auraient mû
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mû
+que tu aies mû
+qu’il (elle) ait mû
+que nous ayons mû
+que vous ayez mû
+qu’ils (elles) aient mû
+
+** Plus-que-parfait
+
+que j'eusse mû
+que tu eusses mû
+qu’il (elle) eût mû
+que nous eussions mû
+que vous eussiez mû
+qu’ils (elles) eussent mû
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mû
+ayez mû
+
+* INFINITIF
+
+** Passé
+
+avoir mû
+
+* PARTICIPE
+
+** Passé
+
+ayant mû
+mû (û, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis mû (û, ue)
+tu es mû (û, ue)
+il (elle) est mû (û, ue)
+nous sommes mu(e)s
+vous êtes mu(e)s
+ils (elles) sont mu(e)s
+
+** Imparfait
+
+j'étais mû (û, ue)
+tu étais mû (û, ue)
+il (elle) était mû (û, ue)
+nous étions mu(e)s
+vous étiez mu(e)s
+ils (elles) étaient mu(e)s
+
+** Passé simple
+
+je fus mû (û, ue)
+tu fus mû (û, ue)
+il (elle) fut mû (û, ue)
+nous fûmes mu(e)s
+vous fûtes mu(e)s
+ils (elles) furent mu(e)s
+
+** Futur simple
+
+je serai mû (û, ue)
+tu seras mû (û, ue)
+il (elle) sera mû (û, ue)
+nous serons mu(e)s
+vous serez mu(e)s
+ils (elles) seront mu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mû (û, ue)
+tu serais mû (û, ue)
+il (elle) serait mû (û, ue)
+nous serions mu(e)s
+vous seriez mu(e)s
+ils (elles) seraient mu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mû (û, ue)
+que tu sois mû (û, ue)
+qu’il (elle) soit mû (û, ue)
+que nous soyons mu(e)s
+que vous soyez mu(e)s
+qu’ils (elles) soient mu(e)s
+
+** Imparfait
+
+que je fusse mû (û, ue)
+que tu fusses mû (û, ue)
+qu’il (elle) fût mû (û, ue)
+que nous fussions mu(e)s
+que vous fussiez mu(e)s
+qu’ils (elles) fussent mu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mu(e)s
+soyez mu(e)s
+
+* INFINITIF
+
+** Présent
+
+être mû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Présent
+
+étant mû (û, ue, us, ues)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mû (û, ue)
+tu as été mû (û, ue)
+il (elle) a été mû (û, ue)
+nous avons été mu(e)s
+vous avez été mu(e)s
+ils (elles) ont été mu(e)s
+
+** Plus-que-parfait
+
+j'avais été mû (û, ue)
+il (elle) avait été mû (û, ue)
+nous avions été mu(e)s
+ils (elles) avaient été mu(e)s
+
+** Passé antérieur
+
+j'eus été mû (û, ue)
+tu eus été mû (û, ue)
+il (elle) eut été mû (û, ue)
+nous eûmes été mu(e)s
+vous eûtes été mu(e)s
+ils (elles) eurent été mu(e)s
+
+** Futur antérieur
+
+j'aurai été mû (û, ue)
+tu auras été mû (û, ue)
+il (elle) aura été mû (û, ue)
+nous aurons été mu(e)s
+vous aurez été mu(e)s
+ils (elles) auront été mu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mû (û, ue)
+j'aurais été mû (û, ue)
+il (elle) aurait été mû (û, ue)
+nous aurions été mu(e)s
+vous auriez été mu(e)s
+ils (elles) auraient été mu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mû (û, ue)
+que tu aies été mû (û, ue)
+qu’il (elle) ait été mû (û, ue)
+que nous ayons été mu(e)s
+que vous ayez été mu(e)s
+qu’ils (elles) aient été mu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mû (û, ue)
+que tu eusses été mû (û, ue)
+qu’il (elle) eût été mû (û, ue)
+que nous eussions été mu(e)s
+que vous eussiez été mu(e)s
+qu’ils (elles) eussent été mu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mû (û, ue)
+ayons été mu(e)s
+ayez été mu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mû (û, ue, us, ues)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mû (û, ue, us, ues)

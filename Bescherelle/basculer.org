@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe basculer
+
+* INDICATIF
+
+** Présent
+
+je bascule
+tu bascules
+il (elle) bascule
+nous basculons
+vous basculez
+ils (elles) basculent
+
+** Imparfait
+
+je basculais
+tu basculais
+il (elle) basculait
+nous basculions
+vous basculiez
+ils (elles) basculaient
+
+** Passé simple
+
+je basculai
+tu basculas
+il (elle) bascula
+nous basculâmes
+vous basculâtes
+ils (elles) basculèrent
+
+** Futur simple
+
+je basculerai
+tu basculeras
+il (elle) basculera
+nous basculerons
+vous basculerez
+ils (elles) basculeront
+
+* CONDITIONNEL
+
+** Présent
+
+je basculerais
+tu basculerais
+il (elle) basculerait
+nous basculerions
+vous basculeriez
+ils (elles) basculeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bascule
+que tu bascules
+qu’il (elle) bascule
+que nous basculions
+que vous basculiez
+qu’ils (elles) basculent
+
+** Imparfait
+
+que je basculasse
+que tu basculasses
+qu’il (elle) basculât
+que nous basculassions
+que vous basculassiez
+qu’ils (elles) basculassent
+
+* IMPÉRATIF
+
+** Présent
+
+bascule
+basculons
+basculez
+
+* INFINITIF
+
+** Présent
+
+basculer
+
+* PARTICIPE
+
+** Présent
+
+basculant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai basculé
+tu as basculé
+il (elle) a basculé
+nous avons basculé
+vous avez basculé
+ils (elles) ont basculé
+
+** Plus-que-parfait
+
+j'avais basculé
+tu avais basculé
+il (elle) avait basculé
+nous avions basculé
+vous aviez basculé
+ils (elles) avaient basculé
+
+** Passé antérieur
+
+j'eus basculé
+tu eus basculé
+il (elle) eut basculé
+nous eûmes basculé
+vous eûtes basculé
+ils (elles) eurent basculé
+
+** Futur antérieur
+
+j'aurai basculé
+tu auras basculé
+il (elle) aura basculé
+nous aurons basculé
+vous aurez basculé
+ils (elles) auront basculé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais basculé
+tu aurais basculé
+il (elle) aurait basculé
+nous aurions basculé
+vous auriez basculé
+ils (elles) auraient basculé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie basculé
+que tu aies basculé
+qu’il (elle) ait basculé
+que nous ayons basculé
+que vous ayez basculé
+qu’ils (elles) aient basculé
+
+** Plus-que-parfait
+
+que j'eusse basculé
+que tu eusses basculé
+qu’il (elle) eût basculé
+que nous eussions basculé
+que vous eussiez basculé
+qu’ils (elles) eussent basculé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons basculé
+ayez basculé
+
+* INFINITIF
+
+** Passé
+
+avoir basculé
+
+* PARTICIPE
+
+** Passé
+
+ayant basculé
+basculé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis basculé(e)
+tu es basculé(e)
+il (elle) est basculé(e)
+nous sommes basculé(e)s
+vous êtes basculé(e)s
+ils (elles) sont basculé(e)s
+
+** Imparfait
+
+j'étais basculé(e)
+tu étais basculé(e)
+il (elle) était basculé(e)
+nous étions basculé(e)s
+vous étiez basculé(e)s
+ils (elles) étaient basculé(e)s
+
+** Passé simple
+
+je fus basculé(e)
+tu fus basculé(e)
+il (elle) fut basculé(e)
+nous fûmes basculé(e)s
+vous fûtes basculé(e)s
+ils (elles) furent basculé(e)s
+
+** Futur simple
+
+je serai basculé(e)
+tu seras basculé(e)
+il (elle) sera basculé(e)
+nous serons basculé(e)s
+vous serez basculé(e)s
+ils (elles) seront basculé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais basculé(e)
+tu serais basculé(e)
+il (elle) serait basculé(e)
+nous serions basculé(e)s
+vous seriez basculé(e)s
+ils (elles) seraient basculé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois basculé(e)
+que tu sois basculé(e)
+qu’il (elle) soit basculé(e)
+que nous soyons basculé(e)s
+que vous soyez basculé(e)s
+qu’ils (elles) soient basculé(e)s
+
+** Imparfait
+
+que je fusse basculé(e)
+que tu fusses basculé(e)
+qu’il (elle) fût basculé(e)
+que nous fussions basculé(e)s
+que vous fussiez basculé(e)s
+qu’ils (elles) fussent basculé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons basculé(e)s
+soyez basculé(e)s
+
+* INFINITIF
+
+** Présent
+
+être basculé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant basculé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été basculé(e)
+tu as été basculé(e)
+il (elle) a été basculé(e)
+nous avons été basculé(e)s
+vous avez été basculé(e)s
+ils (elles) ont été basculé(e)s
+
+** Plus-que-parfait
+
+j'avais été basculé(e)
+il (elle) avait été basculé(e)
+nous avions été basculé(e)s
+ils (elles) avaient été basculé(e)s
+
+** Passé antérieur
+
+j'eus été basculé(e)
+tu eus été basculé(e)
+il (elle) eut été basculé(e)
+nous eûmes été basculé(e)s
+vous eûtes été basculé(e)s
+ils (elles) eurent été basculé(e)s
+
+** Futur antérieur
+
+j'aurai été basculé(e)
+tu auras été basculé(e)
+il (elle) aura été basculé(e)
+nous aurons été basculé(e)s
+vous aurez été basculé(e)s
+ils (elles) auront été basculé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été basculé(e)
+j'aurais été basculé(e)
+il (elle) aurait été basculé(e)
+nous aurions été basculé(e)s
+vous auriez été basculé(e)s
+ils (elles) auraient été basculé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été basculé(e)
+que tu aies été basculé(e)
+qu’il (elle) ait été basculé(e)
+que nous ayons été basculé(e)s
+que vous ayez été basculé(e)s
+qu’ils (elles) aient été basculé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été basculé(e)
+que tu eusses été basculé(e)
+qu’il (elle) eût été basculé(e)
+que nous eussions été basculé(e)s
+que vous eussiez été basculé(e)s
+qu’ils (elles) eussent été basculé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été basculé(e)
+ayons été basculé(e)s
+ayez été basculé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été basculé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été basculé(e)(s)

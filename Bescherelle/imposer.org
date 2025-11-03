@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe imposer
+
+* INDICATIF
+
+** Présent
+
+j'impose
+tu imposes
+il (elle) impose
+nous imposons
+vous imposez
+ils (elles) imposent
+
+** Imparfait
+
+j'imposais
+tu imposais
+il (elle) imposait
+nous imposions
+vous imposiez
+ils (elles) imposaient
+
+** Passé simple
+
+j'imposai
+tu imposas
+il (elle) imposa
+nous imposâmes
+vous imposâtes
+ils (elles) imposèrent
+
+** Futur simple
+
+j'imposerai
+tu imposeras
+il (elle) imposera
+nous imposerons
+vous imposerez
+ils (elles) imposeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'imposerais
+tu imposerais
+il (elle) imposerait
+nous imposerions
+vous imposeriez
+ils (elles) imposeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'impose
+que tu imposes
+qu’il (elle) impose
+que nous imposions
+que vous imposiez
+qu’ils (elles) imposent
+
+** Imparfait
+
+que j'imposasse
+que tu imposasses
+qu’il (elle) imposât
+que nous imposassions
+que vous imposassiez
+qu’ils (elles) imposassent
+
+* IMPÉRATIF
+
+** Présent
+
+impose
+imposons
+imposez
+
+* INFINITIF
+
+** Présent
+
+imposer
+
+* PARTICIPE
+
+** Présent
+
+imposant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imposé
+tu as imposé
+il (elle) a imposé
+nous avons imposé
+vous avez imposé
+ils (elles) ont imposé
+
+** Plus-que-parfait
+
+j'avais imposé
+tu avais imposé
+il (elle) avait imposé
+nous avions imposé
+vous aviez imposé
+ils (elles) avaient imposé
+
+** Passé antérieur
+
+j'eus imposé
+tu eus imposé
+il (elle) eut imposé
+nous eûmes imposé
+vous eûtes imposé
+ils (elles) eurent imposé
+
+** Futur antérieur
+
+j'aurai imposé
+tu auras imposé
+il (elle) aura imposé
+nous aurons imposé
+vous aurez imposé
+ils (elles) auront imposé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imposé
+tu aurais imposé
+il (elle) aurait imposé
+nous aurions imposé
+vous auriez imposé
+ils (elles) auraient imposé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imposé
+que tu aies imposé
+qu’il (elle) ait imposé
+que nous ayons imposé
+que vous ayez imposé
+qu’ils (elles) aient imposé
+
+** Plus-que-parfait
+
+que j'eusse imposé
+que tu eusses imposé
+qu’il (elle) eût imposé
+que nous eussions imposé
+que vous eussiez imposé
+qu’ils (elles) eussent imposé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imposé
+ayez imposé
+
+* INFINITIF
+
+** Passé
+
+avoir imposé
+
+* PARTICIPE
+
+** Passé
+
+ayant imposé
+imposé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis imposé(e)
+tu es imposé(e)
+il (elle) est imposé(e)
+nous sommes imposé(e)s
+vous êtes imposé(e)s
+ils (elles) sont imposé(e)s
+
+** Imparfait
+
+j'étais imposé(e)
+tu étais imposé(e)
+il (elle) était imposé(e)
+nous étions imposé(e)s
+vous étiez imposé(e)s
+ils (elles) étaient imposé(e)s
+
+** Passé simple
+
+je fus imposé(e)
+tu fus imposé(e)
+il (elle) fut imposé(e)
+nous fûmes imposé(e)s
+vous fûtes imposé(e)s
+ils (elles) furent imposé(e)s
+
+** Futur simple
+
+je serai imposé(e)
+tu seras imposé(e)
+il (elle) sera imposé(e)
+nous serons imposé(e)s
+vous serez imposé(e)s
+ils (elles) seront imposé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imposé(e)
+tu serais imposé(e)
+il (elle) serait imposé(e)
+nous serions imposé(e)s
+vous seriez imposé(e)s
+ils (elles) seraient imposé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imposé(e)
+que tu sois imposé(e)
+qu’il (elle) soit imposé(e)
+que nous soyons imposé(e)s
+que vous soyez imposé(e)s
+qu’ils (elles) soient imposé(e)s
+
+** Imparfait
+
+que je fusse imposé(e)
+que tu fusses imposé(e)
+qu’il (elle) fût imposé(e)
+que nous fussions imposé(e)s
+que vous fussiez imposé(e)s
+qu’ils (elles) fussent imposé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imposé(e)s
+soyez imposé(e)s
+
+* INFINITIF
+
+** Présent
+
+être imposé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imposé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imposé(e)
+tu as été imposé(e)
+il (elle) a été imposé(e)
+nous avons été imposé(e)s
+vous avez été imposé(e)s
+ils (elles) ont été imposé(e)s
+
+** Plus-que-parfait
+
+j'avais été imposé(e)
+il (elle) avait été imposé(e)
+nous avions été imposé(e)s
+ils (elles) avaient été imposé(e)s
+
+** Passé antérieur
+
+j'eus été imposé(e)
+tu eus été imposé(e)
+il (elle) eut été imposé(e)
+nous eûmes été imposé(e)s
+vous eûtes été imposé(e)s
+ils (elles) eurent été imposé(e)s
+
+** Futur antérieur
+
+j'aurai été imposé(e)
+tu auras été imposé(e)
+il (elle) aura été imposé(e)
+nous aurons été imposé(e)s
+vous aurez été imposé(e)s
+ils (elles) auront été imposé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imposé(e)
+j'aurais été imposé(e)
+il (elle) aurait été imposé(e)
+nous aurions été imposé(e)s
+vous auriez été imposé(e)s
+ils (elles) auraient été imposé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imposé(e)
+que tu aies été imposé(e)
+qu’il (elle) ait été imposé(e)
+que nous ayons été imposé(e)s
+que vous ayez été imposé(e)s
+qu’ils (elles) aient été imposé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imposé(e)
+que tu eusses été imposé(e)
+qu’il (elle) eût été imposé(e)
+que nous eussions été imposé(e)s
+que vous eussiez été imposé(e)s
+qu’ils (elles) eussent été imposé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imposé(e)
+ayons été imposé(e)s
+ayez été imposé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imposé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imposé(e)(s)

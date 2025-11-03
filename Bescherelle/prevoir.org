@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prevoir
+
+* INDICATIF
+
+** Présent
+
+je prévois
+tu prévois
+il (elle) prévoit
+nous prévoyons
+vous prévoyez
+ils (elles) prévoient
+
+** Imparfait
+
+je prévoyais
+tu prévoyais
+il (elle) prévoyait
+nous prévoyions
+vous prévoyiez
+ils (elles) prévoyaient
+
+** Passé simple
+
+je prévis
+tu prévis
+il (elle) prévit
+nous prévîmes
+vous prévîtes
+ils (elles) prévirent
+
+** Futur simple
+
+je prévoirai
+tu prévoiras
+il (elle) prévoira
+nous prévoirons
+vous prévoirez
+ils (elles) prévoiront
+
+* CONDITIONNEL
+
+** Présent
+
+je prévoirais
+tu prévoirais
+il (elle) prévoirait
+nous prévoirions
+vous prévoiriez
+ils (elles) prévoiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prévoie
+que tu prévoies
+qu’il (elle) prévoie
+que nous prévoyions
+que vous prévoyiez
+qu’ils (elles) prévoient
+
+** Imparfait
+
+que je prévisse
+que tu prévisses
+qu’il (elle) prévît
+que nous prévissions
+que vous prévissiez
+qu’ils (elles) prévissent
+
+* IMPÉRATIF
+
+** Présent
+
+prévois
+prévoyons
+prévoyez
+
+* INFINITIF
+
+** Présent
+
+prévoir
+
+* PARTICIPE
+
+** Présent
+
+prévoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prévu
+tu as prévu
+il (elle) a prévu
+nous avons prévu
+vous avez prévu
+ils (elles) ont prévu
+
+** Plus-que-parfait
+
+j'avais prévu
+tu avais prévu
+il (elle) avait prévu
+nous avions prévu
+vous aviez prévu
+ils (elles) avaient prévu
+
+** Passé antérieur
+
+j'eus prévu
+tu eus prévu
+il (elle) eut prévu
+nous eûmes prévu
+vous eûtes prévu
+ils (elles) eurent prévu
+
+** Futur antérieur
+
+j'aurai prévu
+tu auras prévu
+il (elle) aura prévu
+nous aurons prévu
+vous aurez prévu
+ils (elles) auront prévu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prévu
+tu aurais prévu
+il (elle) aurait prévu
+nous aurions prévu
+vous auriez prévu
+ils (elles) auraient prévu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prévu
+que tu aies prévu
+qu’il (elle) ait prévu
+que nous ayons prévu
+que vous ayez prévu
+qu’ils (elles) aient prévu
+
+** Plus-que-parfait
+
+que j'eusse prévu
+que tu eusses prévu
+qu’il (elle) eût prévu
+que nous eussions prévu
+que vous eussiez prévu
+qu’ils (elles) eussent prévu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prévu
+ayez prévu
+
+* INFINITIF
+
+** Passé
+
+avoir prévu
+
+* PARTICIPE
+
+** Passé
+
+ayant prévu
+prévu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis prévu(e)
+tu es prévu(e)
+il (elle) est prévu(e)
+nous sommes prévu(e)s
+vous êtes prévu(e)s
+ils (elles) sont prévu(e)s
+
+** Imparfait
+
+j'étais prévu(e)
+tu étais prévu(e)
+il (elle) était prévu(e)
+nous étions prévu(e)s
+vous étiez prévu(e)s
+ils (elles) étaient prévu(e)s
+
+** Passé simple
+
+je fus prévu(e)
+tu fus prévu(e)
+il (elle) fut prévu(e)
+nous fûmes prévu(e)s
+vous fûtes prévu(e)s
+ils (elles) furent prévu(e)s
+
+** Futur simple
+
+je serai prévu(e)
+tu seras prévu(e)
+il (elle) sera prévu(e)
+nous serons prévu(e)s
+vous serez prévu(e)s
+ils (elles) seront prévu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prévu(e)
+tu serais prévu(e)
+il (elle) serait prévu(e)
+nous serions prévu(e)s
+vous seriez prévu(e)s
+ils (elles) seraient prévu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prévu(e)
+que tu sois prévu(e)
+qu’il (elle) soit prévu(e)
+que nous soyons prévu(e)s
+que vous soyez prévu(e)s
+qu’ils (elles) soient prévu(e)s
+
+** Imparfait
+
+que je fusse prévu(e)
+que tu fusses prévu(e)
+qu’il (elle) fût prévu(e)
+que nous fussions prévu(e)s
+que vous fussiez prévu(e)s
+qu’ils (elles) fussent prévu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prévu(e)s
+soyez prévu(e)s
+
+* INFINITIF
+
+** Présent
+
+être prévu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prévu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prévu(e)
+tu as été prévu(e)
+il (elle) a été prévu(e)
+nous avons été prévu(e)s
+vous avez été prévu(e)s
+ils (elles) ont été prévu(e)s
+
+** Plus-que-parfait
+
+j'avais été prévu(e)
+il (elle) avait été prévu(e)
+nous avions été prévu(e)s
+ils (elles) avaient été prévu(e)s
+
+** Passé antérieur
+
+j'eus été prévu(e)
+tu eus été prévu(e)
+il (elle) eut été prévu(e)
+nous eûmes été prévu(e)s
+vous eûtes été prévu(e)s
+ils (elles) eurent été prévu(e)s
+
+** Futur antérieur
+
+j'aurai été prévu(e)
+tu auras été prévu(e)
+il (elle) aura été prévu(e)
+nous aurons été prévu(e)s
+vous aurez été prévu(e)s
+ils (elles) auront été prévu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prévu(e)
+j'aurais été prévu(e)
+il (elle) aurait été prévu(e)
+nous aurions été prévu(e)s
+vous auriez été prévu(e)s
+ils (elles) auraient été prévu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prévu(e)
+que tu aies été prévu(e)
+qu’il (elle) ait été prévu(e)
+que nous ayons été prévu(e)s
+que vous ayez été prévu(e)s
+qu’ils (elles) aient été prévu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prévu(e)
+que tu eusses été prévu(e)
+qu’il (elle) eût été prévu(e)
+que nous eussions été prévu(e)s
+que vous eussiez été prévu(e)s
+qu’ils (elles) eussent été prévu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prévu(e)
+ayons été prévu(e)s
+ayez été prévu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prévu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prévu(e)(s)

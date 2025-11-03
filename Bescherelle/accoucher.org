@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accoucher
+
+* INDICATIF
+
+** Présent
+
+j'accouche
+tu accouches
+il (elle) accouche
+nous accouchons
+vous accouchez
+ils (elles) accouchent
+
+** Imparfait
+
+j'accouchais
+tu accouchais
+il (elle) accouchait
+nous accouchions
+vous accouchiez
+ils (elles) accouchaient
+
+** Passé simple
+
+j'accouchai
+tu accouchas
+il (elle) accoucha
+nous accouchâmes
+vous accouchâtes
+ils (elles) accouchèrent
+
+** Futur simple
+
+j'accoucherai
+tu accoucheras
+il (elle) accouchera
+nous accoucherons
+vous accoucherez
+ils (elles) accoucheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accoucherais
+tu accoucherais
+il (elle) accoucherait
+nous accoucherions
+vous accoucheriez
+ils (elles) accoucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accouche
+que tu accouches
+qu’il (elle) accouche
+que nous accouchions
+que vous accouchiez
+qu’ils (elles) accouchent
+
+** Imparfait
+
+que j'accouchasse
+que tu accouchasses
+qu’il (elle) accouchât
+que nous accouchassions
+que vous accouchassiez
+qu’ils (elles) accouchassent
+
+* IMPÉRATIF
+
+** Présent
+
+accouche
+accouchons
+accouchez
+
+* INFINITIF
+
+** Présent
+
+accoucher
+
+* PARTICIPE
+
+** Présent
+
+accouchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis accouché(e)
+tu as ou es accouché(e)
+il (elle) a ou est accouché(e)
+nous avons ou sommes accouché(e)s
+vous avez ou êtes accouché(e)s
+ils (elles) ont ou sont accouché(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais accouché(e)
+tu avais ou étais accouché(e)
+il (elle) avait ou était accouché(e)
+nous avions ou étions accouché(e)s
+vous aviez ou étiez accouché(e)s
+ils (elles) avaient ou étaient accouché(e)s
+
+** Passé antérieur
+
+j'eus ou fus accouché(e)
+tu eus ou fus accouché(e)
+il (elle) eut ou fut accouché(e)
+nous eûmes ou fûmes accouché(e)s
+vous eûtes ou fûtes accouché(e)s
+ils (elles) eurent ou furent accouché(e)s
+
+** Futur antérieur
+
+j'aurai ou serai accouché(e)
+tu auras ou seras accouché(e)
+il (elle) aura ou sera accouché(e)
+nous aurons ou serons accouché(e)s
+vous aurez ou serez accouché(e)s
+ils (elles) auront ou seront accouché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais accouché(e)
+tu aurais ou serais accouché(e)
+il (elle) aurait ou serait accouché(e)
+nous aurions ou serions accouché(e)s
+vous auriez ou seriez accouché(e)s
+ils (elles) auraient ou seraient accouché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois accouché(e)
+que tu aies ou sois accouché(e)
+qu’il (elle) ait ou soit accouché(e)
+que nous ayons ou soyons accouché(e)s
+que vous ayez ou soyez accouché(e)s
+qu’ils (elles) aient ou soient accouché(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse accouché(e)
+que tu eusses ou fusses accouché(e)
+qu’il (elle) eût ou fût accouché(e)
+que nous eussions ou fussions accouché(e)s
+que vous eussiez ou fussiez accouché(e)s
+qu’ils (elles) eussent ou fussent accouché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons accouché(e)s
+ayez ou soyez accouché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être accouché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant accouché(e)(s)
+accouché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accouché(e)
+tu es accouché(e)
+il (elle) est accouché(e)
+nous sommes accouché(e)s
+vous êtes accouché(e)s
+ils (elles) sont accouché(e)s
+
+** Imparfait
+
+j'étais accouché(e)
+tu étais accouché(e)
+il (elle) était accouché(e)
+nous étions accouché(e)s
+vous étiez accouché(e)s
+ils (elles) étaient accouché(e)s
+
+** Passé simple
+
+je fus accouché(e)
+tu fus accouché(e)
+il (elle) fut accouché(e)
+nous fûmes accouché(e)s
+vous fûtes accouché(e)s
+ils (elles) furent accouché(e)s
+
+** Futur simple
+
+je serai accouché(e)
+tu seras accouché(e)
+il (elle) sera accouché(e)
+nous serons accouché(e)s
+vous serez accouché(e)s
+ils (elles) seront accouché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accouché(e)
+tu serais accouché(e)
+il (elle) serait accouché(e)
+nous serions accouché(e)s
+vous seriez accouché(e)s
+ils (elles) seraient accouché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accouché(e)
+que tu sois accouché(e)
+qu’il (elle) soit accouché(e)
+que nous soyons accouché(e)s
+que vous soyez accouché(e)s
+qu’ils (elles) soient accouché(e)s
+
+** Imparfait
+
+que je fusse accouché(e)
+que tu fusses accouché(e)
+qu’il (elle) fût accouché(e)
+que nous fussions accouché(e)s
+que vous fussiez accouché(e)s
+qu’ils (elles) fussent accouché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accouché(e)s
+soyez accouché(e)s
+
+* INFINITIF
+
+** Présent
+
+être accouché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accouché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accouché(e)
+tu as été accouché(e)
+il (elle) a été accouché(e)
+nous avons été accouché(e)s
+vous avez été accouché(e)s
+ils (elles) ont été accouché(e)s
+
+** Plus-que-parfait
+
+j'avais été accouché(e)
+il (elle) avait été accouché(e)
+nous avions été accouché(e)s
+ils (elles) avaient été accouché(e)s
+
+** Passé antérieur
+
+j'eus été accouché(e)
+tu eus été accouché(e)
+il (elle) eut été accouché(e)
+nous eûmes été accouché(e)s
+vous eûtes été accouché(e)s
+ils (elles) eurent été accouché(e)s
+
+** Futur antérieur
+
+j'aurai été accouché(e)
+tu auras été accouché(e)
+il (elle) aura été accouché(e)
+nous aurons été accouché(e)s
+vous aurez été accouché(e)s
+ils (elles) auront été accouché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accouché(e)
+j'aurais été accouché(e)
+il (elle) aurait été accouché(e)
+nous aurions été accouché(e)s
+vous auriez été accouché(e)s
+ils (elles) auraient été accouché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accouché(e)
+que tu aies été accouché(e)
+qu’il (elle) ait été accouché(e)
+que nous ayons été accouché(e)s
+que vous ayez été accouché(e)s
+qu’ils (elles) aient été accouché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accouché(e)
+que tu eusses été accouché(e)
+qu’il (elle) eût été accouché(e)
+que nous eussions été accouché(e)s
+que vous eussiez été accouché(e)s
+qu’ils (elles) eussent été accouché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accouché(e)
+ayons été accouché(e)s
+ayez été accouché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accouché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accouché(e)(s)

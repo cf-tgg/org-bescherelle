@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe glisser
+
+* INDICATIF
+
+** Présent
+
+je glisse
+tu glisses
+il (elle) glisse
+nous glissons
+vous glissez
+ils (elles) glissent
+
+** Imparfait
+
+je glissais
+tu glissais
+il (elle) glissait
+nous glissions
+vous glissiez
+ils (elles) glissaient
+
+** Passé simple
+
+je glissai
+tu glissas
+il (elle) glissa
+nous glissâmes
+vous glissâtes
+ils (elles) glissèrent
+
+** Futur simple
+
+je glisserai
+tu glisseras
+il (elle) glissera
+nous glisserons
+vous glisserez
+ils (elles) glisseront
+
+* CONDITIONNEL
+
+** Présent
+
+je glisserais
+tu glisserais
+il (elle) glisserait
+nous glisserions
+vous glisseriez
+ils (elles) glisseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je glisse
+que tu glisses
+qu’il (elle) glisse
+que nous glissions
+que vous glissiez
+qu’ils (elles) glissent
+
+** Imparfait
+
+que je glissasse
+que tu glissasses
+qu’il (elle) glissât
+que nous glissassions
+que vous glissassiez
+qu’ils (elles) glissassent
+
+* IMPÉRATIF
+
+** Présent
+
+glisse
+glissons
+glissez
+
+* INFINITIF
+
+** Présent
+
+glisser
+
+* PARTICIPE
+
+** Présent
+
+glissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai glissé
+tu as glissé
+il (elle) a glissé
+nous avons glissé
+vous avez glissé
+ils (elles) ont glissé
+
+** Plus-que-parfait
+
+j'avais glissé
+tu avais glissé
+il (elle) avait glissé
+nous avions glissé
+vous aviez glissé
+ils (elles) avaient glissé
+
+** Passé antérieur
+
+j'eus glissé
+tu eus glissé
+il (elle) eut glissé
+nous eûmes glissé
+vous eûtes glissé
+ils (elles) eurent glissé
+
+** Futur antérieur
+
+j'aurai glissé
+tu auras glissé
+il (elle) aura glissé
+nous aurons glissé
+vous aurez glissé
+ils (elles) auront glissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais glissé
+tu aurais glissé
+il (elle) aurait glissé
+nous aurions glissé
+vous auriez glissé
+ils (elles) auraient glissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie glissé
+que tu aies glissé
+qu’il (elle) ait glissé
+que nous ayons glissé
+que vous ayez glissé
+qu’ils (elles) aient glissé
+
+** Plus-que-parfait
+
+que j'eusse glissé
+que tu eusses glissé
+qu’il (elle) eût glissé
+que nous eussions glissé
+que vous eussiez glissé
+qu’ils (elles) eussent glissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons glissé
+ayez glissé
+
+* INFINITIF
+
+** Passé
+
+avoir glissé
+
+* PARTICIPE
+
+** Passé
+
+ayant glissé
+glissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis glissé(e)
+tu es glissé(e)
+il (elle) est glissé(e)
+nous sommes glissé(e)s
+vous êtes glissé(e)s
+ils (elles) sont glissé(e)s
+
+** Imparfait
+
+j'étais glissé(e)
+tu étais glissé(e)
+il (elle) était glissé(e)
+nous étions glissé(e)s
+vous étiez glissé(e)s
+ils (elles) étaient glissé(e)s
+
+** Passé simple
+
+je fus glissé(e)
+tu fus glissé(e)
+il (elle) fut glissé(e)
+nous fûmes glissé(e)s
+vous fûtes glissé(e)s
+ils (elles) furent glissé(e)s
+
+** Futur simple
+
+je serai glissé(e)
+tu seras glissé(e)
+il (elle) sera glissé(e)
+nous serons glissé(e)s
+vous serez glissé(e)s
+ils (elles) seront glissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais glissé(e)
+tu serais glissé(e)
+il (elle) serait glissé(e)
+nous serions glissé(e)s
+vous seriez glissé(e)s
+ils (elles) seraient glissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois glissé(e)
+que tu sois glissé(e)
+qu’il (elle) soit glissé(e)
+que nous soyons glissé(e)s
+que vous soyez glissé(e)s
+qu’ils (elles) soient glissé(e)s
+
+** Imparfait
+
+que je fusse glissé(e)
+que tu fusses glissé(e)
+qu’il (elle) fût glissé(e)
+que nous fussions glissé(e)s
+que vous fussiez glissé(e)s
+qu’ils (elles) fussent glissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons glissé(e)s
+soyez glissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être glissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant glissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été glissé(e)
+tu as été glissé(e)
+il (elle) a été glissé(e)
+nous avons été glissé(e)s
+vous avez été glissé(e)s
+ils (elles) ont été glissé(e)s
+
+** Plus-que-parfait
+
+j'avais été glissé(e)
+il (elle) avait été glissé(e)
+nous avions été glissé(e)s
+ils (elles) avaient été glissé(e)s
+
+** Passé antérieur
+
+j'eus été glissé(e)
+tu eus été glissé(e)
+il (elle) eut été glissé(e)
+nous eûmes été glissé(e)s
+vous eûtes été glissé(e)s
+ils (elles) eurent été glissé(e)s
+
+** Futur antérieur
+
+j'aurai été glissé(e)
+tu auras été glissé(e)
+il (elle) aura été glissé(e)
+nous aurons été glissé(e)s
+vous aurez été glissé(e)s
+ils (elles) auront été glissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été glissé(e)
+j'aurais été glissé(e)
+il (elle) aurait été glissé(e)
+nous aurions été glissé(e)s
+vous auriez été glissé(e)s
+ils (elles) auraient été glissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été glissé(e)
+que tu aies été glissé(e)
+qu’il (elle) ait été glissé(e)
+que nous ayons été glissé(e)s
+que vous ayez été glissé(e)s
+qu’ils (elles) aient été glissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été glissé(e)
+que tu eusses été glissé(e)
+qu’il (elle) eût été glissé(e)
+que nous eussions été glissé(e)s
+que vous eussiez été glissé(e)s
+qu’ils (elles) eussent été glissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été glissé(e)
+ayons été glissé(e)s
+ayez été glissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été glissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été glissé(e)(s)

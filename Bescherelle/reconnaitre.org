@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reconnaitre
+
+* INDICATIF
+
+** Présent
+
+je reconnais
+tu reconnais
+il (elle) reconnaît
+nous reconnaissons
+vous reconnaissez
+ils (elles) reconnaissent
+
+** Imparfait
+
+je reconnaissais
+tu reconnaissais
+il (elle) reconnaissait
+nous reconnaissions
+vous reconnaissiez
+ils (elles) reconnaissaient
+
+** Passé simple
+
+je reconnus
+tu reconnus
+il (elle) reconnut
+nous reconnûmes
+vous reconnûtes
+ils (elles) reconnurent
+
+** Futur simple
+
+je reconnaîtrai
+tu reconnaîtras
+il (elle) reconnaîtra
+nous reconnaîtrons
+vous reconnaîtrez
+ils (elles) reconnaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je reconnaîtrais
+tu reconnaîtrais
+il (elle) reconnaîtrait
+nous reconnaîtrions
+vous reconnaîtriez
+ils (elles) reconnaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reconnaisse
+que tu reconnaisses
+qu’il (elle) reconnaisse
+que nous reconnaissions
+que vous reconnaissiez
+qu’ils (elles) reconnaissent
+
+** Imparfait
+
+que je reconnusse
+que tu reconnusses
+qu’il (elle) reconnût
+que nous reconnussions
+que vous reconnussiez
+qu’ils (elles) reconnussent
+
+* IMPÉRATIF
+
+** Présent
+
+reconnais
+reconnaissons
+reconnaissez
+
+* INFINITIF
+
+** Présent
+
+reconnaître
+
+* PARTICIPE
+
+** Présent
+
+reconnaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reconnu
+tu as reconnu
+il (elle) a reconnu
+nous avons reconnu
+vous avez reconnu
+ils (elles) ont reconnu
+
+** Plus-que-parfait
+
+j'avais reconnu
+tu avais reconnu
+il (elle) avait reconnu
+nous avions reconnu
+vous aviez reconnu
+ils (elles) avaient reconnu
+
+** Passé antérieur
+
+j'eus reconnu
+tu eus reconnu
+il (elle) eut reconnu
+nous eûmes reconnu
+vous eûtes reconnu
+ils (elles) eurent reconnu
+
+** Futur antérieur
+
+j'aurai reconnu
+tu auras reconnu
+il (elle) aura reconnu
+nous aurons reconnu
+vous aurez reconnu
+ils (elles) auront reconnu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reconnu
+tu aurais reconnu
+il (elle) aurait reconnu
+nous aurions reconnu
+vous auriez reconnu
+ils (elles) auraient reconnu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reconnu
+que tu aies reconnu
+qu’il (elle) ait reconnu
+que nous ayons reconnu
+que vous ayez reconnu
+qu’ils (elles) aient reconnu
+
+** Plus-que-parfait
+
+que j'eusse reconnu
+que tu eusses reconnu
+qu’il (elle) eût reconnu
+que nous eussions reconnu
+que vous eussiez reconnu
+qu’ils (elles) eussent reconnu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reconnu
+ayez reconnu
+
+* INFINITIF
+
+** Passé
+
+avoir reconnu
+
+* PARTICIPE
+
+** Passé
+
+ayant reconnu
+reconnu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis reconnu(e)
+tu es reconnu(e)
+il (elle) est reconnu(e)
+nous sommes reconnu(e)s
+vous êtes reconnu(e)s
+ils (elles) sont reconnu(e)s
+
+** Imparfait
+
+j'étais reconnu(e)
+tu étais reconnu(e)
+il (elle) était reconnu(e)
+nous étions reconnu(e)s
+vous étiez reconnu(e)s
+ils (elles) étaient reconnu(e)s
+
+** Passé simple
+
+je fus reconnu(e)
+tu fus reconnu(e)
+il (elle) fut reconnu(e)
+nous fûmes reconnu(e)s
+vous fûtes reconnu(e)s
+ils (elles) furent reconnu(e)s
+
+** Futur simple
+
+je serai reconnu(e)
+tu seras reconnu(e)
+il (elle) sera reconnu(e)
+nous serons reconnu(e)s
+vous serez reconnu(e)s
+ils (elles) seront reconnu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reconnu(e)
+tu serais reconnu(e)
+il (elle) serait reconnu(e)
+nous serions reconnu(e)s
+vous seriez reconnu(e)s
+ils (elles) seraient reconnu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reconnu(e)
+que tu sois reconnu(e)
+qu’il (elle) soit reconnu(e)
+que nous soyons reconnu(e)s
+que vous soyez reconnu(e)s
+qu’ils (elles) soient reconnu(e)s
+
+** Imparfait
+
+que je fusse reconnu(e)
+que tu fusses reconnu(e)
+qu’il (elle) fût reconnu(e)
+que nous fussions reconnu(e)s
+que vous fussiez reconnu(e)s
+qu’ils (elles) fussent reconnu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reconnu(e)s
+soyez reconnu(e)s
+
+* INFINITIF
+
+** Présent
+
+être reconnu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reconnu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reconnu(e)
+tu as été reconnu(e)
+il (elle) a été reconnu(e)
+nous avons été reconnu(e)s
+vous avez été reconnu(e)s
+ils (elles) ont été reconnu(e)s
+
+** Plus-que-parfait
+
+j'avais été reconnu(e)
+il (elle) avait été reconnu(e)
+nous avions été reconnu(e)s
+ils (elles) avaient été reconnu(e)s
+
+** Passé antérieur
+
+j'eus été reconnu(e)
+tu eus été reconnu(e)
+il (elle) eut été reconnu(e)
+nous eûmes été reconnu(e)s
+vous eûtes été reconnu(e)s
+ils (elles) eurent été reconnu(e)s
+
+** Futur antérieur
+
+j'aurai été reconnu(e)
+tu auras été reconnu(e)
+il (elle) aura été reconnu(e)
+nous aurons été reconnu(e)s
+vous aurez été reconnu(e)s
+ils (elles) auront été reconnu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reconnu(e)
+j'aurais été reconnu(e)
+il (elle) aurait été reconnu(e)
+nous aurions été reconnu(e)s
+vous auriez été reconnu(e)s
+ils (elles) auraient été reconnu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reconnu(e)
+que tu aies été reconnu(e)
+qu’il (elle) ait été reconnu(e)
+que nous ayons été reconnu(e)s
+que vous ayez été reconnu(e)s
+qu’ils (elles) aient été reconnu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reconnu(e)
+que tu eusses été reconnu(e)
+qu’il (elle) eût été reconnu(e)
+que nous eussions été reconnu(e)s
+que vous eussiez été reconnu(e)s
+qu’ils (elles) eussent été reconnu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reconnu(e)
+ayons été reconnu(e)s
+ayez été reconnu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reconnu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reconnu(e)(s)

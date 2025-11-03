@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rappeler
+
+* INDICATIF
+
+** Présent
+
+je rappelle
+tu rappelles
+il (elle) rappelle
+nous rappelons
+vous rappelez
+ils (elles) rappellent
+
+** Imparfait
+
+je rappelais
+tu rappelais
+il (elle) rappelait
+nous rappelions
+vous rappeliez
+ils (elles) rappelaient
+
+** Passé simple
+
+je rappelai
+tu rappelas
+il (elle) rappela
+nous rappelâmes
+vous rappelâtes
+ils (elles) rappelèrent
+
+** Futur simple
+
+je rappellerai
+tu rappelleras
+il (elle) rappellera
+nous rappellerons
+vous rappellerez
+ils (elles) rappelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je rappellerais
+tu rappellerais
+il (elle) rappellerait
+nous rappellerions
+vous rappelleriez
+ils (elles) rappelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rappelle
+que tu rappelles
+qu’il (elle) rappelle
+que nous rappelions
+que vous rappeliez
+qu’ils (elles) rappellent
+
+** Imparfait
+
+que je rappelasse
+que tu rappelasses
+qu’il (elle) rappelât
+que nous rappelassions
+que vous rappelassiez
+qu’ils (elles) rappelassent
+
+* IMPÉRATIF
+
+** Présent
+
+rappelle
+rappelons
+rappelez
+
+* INFINITIF
+
+** Présent
+
+rappeler
+
+* PARTICIPE
+
+** Présent
+
+rappelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rappelé
+tu as rappelé
+il (elle) a rappelé
+nous avons rappelé
+vous avez rappelé
+ils (elles) ont rappelé
+
+** Plus-que-parfait
+
+j'avais rappelé
+tu avais rappelé
+il (elle) avait rappelé
+nous avions rappelé
+vous aviez rappelé
+ils (elles) avaient rappelé
+
+** Passé antérieur
+
+j'eus rappelé
+tu eus rappelé
+il (elle) eut rappelé
+nous eûmes rappelé
+vous eûtes rappelé
+ils (elles) eurent rappelé
+
+** Futur antérieur
+
+j'aurai rappelé
+tu auras rappelé
+il (elle) aura rappelé
+nous aurons rappelé
+vous aurez rappelé
+ils (elles) auront rappelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rappelé
+tu aurais rappelé
+il (elle) aurait rappelé
+nous aurions rappelé
+vous auriez rappelé
+ils (elles) auraient rappelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rappelé
+que tu aies rappelé
+qu’il (elle) ait rappelé
+que nous ayons rappelé
+que vous ayez rappelé
+qu’ils (elles) aient rappelé
+
+** Plus-que-parfait
+
+que j'eusse rappelé
+que tu eusses rappelé
+qu’il (elle) eût rappelé
+que nous eussions rappelé
+que vous eussiez rappelé
+qu’ils (elles) eussent rappelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rappelé
+ayez rappelé
+
+* INFINITIF
+
+** Passé
+
+avoir rappelé
+
+* PARTICIPE
+
+** Passé
+
+ayant rappelé
+rappelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rappelé(e)
+tu es rappelé(e)
+il (elle) est rappelé(e)
+nous sommes rappelé(e)s
+vous êtes rappelé(e)s
+ils (elles) sont rappelé(e)s
+
+** Imparfait
+
+j'étais rappelé(e)
+tu étais rappelé(e)
+il (elle) était rappelé(e)
+nous étions rappelé(e)s
+vous étiez rappelé(e)s
+ils (elles) étaient rappelé(e)s
+
+** Passé simple
+
+je fus rappelé(e)
+tu fus rappelé(e)
+il (elle) fut rappelé(e)
+nous fûmes rappelé(e)s
+vous fûtes rappelé(e)s
+ils (elles) furent rappelé(e)s
+
+** Futur simple
+
+je serai rappelé(e)
+tu seras rappelé(e)
+il (elle) sera rappelé(e)
+nous serons rappelé(e)s
+vous serez rappelé(e)s
+ils (elles) seront rappelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rappelé(e)
+tu serais rappelé(e)
+il (elle) serait rappelé(e)
+nous serions rappelé(e)s
+vous seriez rappelé(e)s
+ils (elles) seraient rappelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rappelé(e)
+que tu sois rappelé(e)
+qu’il (elle) soit rappelé(e)
+que nous soyons rappelé(e)s
+que vous soyez rappelé(e)s
+qu’ils (elles) soient rappelé(e)s
+
+** Imparfait
+
+que je fusse rappelé(e)
+que tu fusses rappelé(e)
+qu’il (elle) fût rappelé(e)
+que nous fussions rappelé(e)s
+que vous fussiez rappelé(e)s
+qu’ils (elles) fussent rappelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rappelé(e)s
+soyez rappelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rappelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rappelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rappelé(e)
+tu as été rappelé(e)
+il (elle) a été rappelé(e)
+nous avons été rappelé(e)s
+vous avez été rappelé(e)s
+ils (elles) ont été rappelé(e)s
+
+** Plus-que-parfait
+
+j'avais été rappelé(e)
+il (elle) avait été rappelé(e)
+nous avions été rappelé(e)s
+ils (elles) avaient été rappelé(e)s
+
+** Passé antérieur
+
+j'eus été rappelé(e)
+tu eus été rappelé(e)
+il (elle) eut été rappelé(e)
+nous eûmes été rappelé(e)s
+vous eûtes été rappelé(e)s
+ils (elles) eurent été rappelé(e)s
+
+** Futur antérieur
+
+j'aurai été rappelé(e)
+tu auras été rappelé(e)
+il (elle) aura été rappelé(e)
+nous aurons été rappelé(e)s
+vous aurez été rappelé(e)s
+ils (elles) auront été rappelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rappelé(e)
+j'aurais été rappelé(e)
+il (elle) aurait été rappelé(e)
+nous aurions été rappelé(e)s
+vous auriez été rappelé(e)s
+ils (elles) auraient été rappelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rappelé(e)
+que tu aies été rappelé(e)
+qu’il (elle) ait été rappelé(e)
+que nous ayons été rappelé(e)s
+que vous ayez été rappelé(e)s
+qu’ils (elles) aient été rappelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rappelé(e)
+que tu eusses été rappelé(e)
+qu’il (elle) eût été rappelé(e)
+que nous eussions été rappelé(e)s
+que vous eussiez été rappelé(e)s
+qu’ils (elles) eussent été rappelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rappelé(e)
+ayons été rappelé(e)s
+ayez été rappelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rappelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rappelé(e)(s)

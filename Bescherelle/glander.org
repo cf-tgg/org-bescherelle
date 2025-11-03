@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe glander
+
+* INDICATIF
+
+** Présent
+
+je glande
+tu glandes
+il (elle) glande
+nous glandons
+vous glandez
+ils (elles) glandent
+
+** Imparfait
+
+je glandais
+tu glandais
+il (elle) glandait
+nous glandions
+vous glandiez
+ils (elles) glandaient
+
+** Passé simple
+
+je glandai
+tu glandas
+il (elle) glanda
+nous glandâmes
+vous glandâtes
+ils (elles) glandèrent
+
+** Futur simple
+
+je glanderai
+tu glanderas
+il (elle) glandera
+nous glanderons
+vous glanderez
+ils (elles) glanderont
+
+* CONDITIONNEL
+
+** Présent
+
+je glanderais
+tu glanderais
+il (elle) glanderait
+nous glanderions
+vous glanderiez
+ils (elles) glanderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je glande
+que tu glandes
+qu’il (elle) glande
+que nous glandions
+que vous glandiez
+qu’ils (elles) glandent
+
+** Imparfait
+
+que je glandasse
+que tu glandasses
+qu’il (elle) glandât
+que nous glandassions
+que vous glandassiez
+qu’ils (elles) glandassent
+
+* IMPÉRATIF
+
+** Présent
+
+glande
+glandons
+glandez
+
+* INFINITIF
+
+** Présent
+
+glander
+
+* PARTICIPE
+
+** Présent
+
+glandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai glandé
+tu as glandé
+il (elle) a glandé
+nous avons glandé
+vous avez glandé
+ils (elles) ont glandé
+
+** Plus-que-parfait
+
+j'avais glandé
+tu avais glandé
+il (elle) avait glandé
+nous avions glandé
+vous aviez glandé
+ils (elles) avaient glandé
+
+** Passé antérieur
+
+j'eus glandé
+tu eus glandé
+il (elle) eut glandé
+nous eûmes glandé
+vous eûtes glandé
+ils (elles) eurent glandé
+
+** Futur antérieur
+
+j'aurai glandé
+tu auras glandé
+il (elle) aura glandé
+nous aurons glandé
+vous aurez glandé
+ils (elles) auront glandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais glandé
+tu aurais glandé
+il (elle) aurait glandé
+nous aurions glandé
+vous auriez glandé
+ils (elles) auraient glandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie glandé
+que tu aies glandé
+qu’il (elle) ait glandé
+que nous ayons glandé
+que vous ayez glandé
+qu’ils (elles) aient glandé
+
+** Plus-que-parfait
+
+que j'eusse glandé
+que tu eusses glandé
+qu’il (elle) eût glandé
+que nous eussions glandé
+que vous eussiez glandé
+qu’ils (elles) eussent glandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons glandé
+ayez glandé
+
+* INFINITIF
+
+** Passé
+
+avoir glandé
+
+* PARTICIPE
+
+** Passé
+
+ayant glandé
+glandé (invar.)

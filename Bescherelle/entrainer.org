@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entrainer
+
+* INDICATIF
+
+** Présent
+
+j'entraîne
+tu entraînes
+il (elle) entraîne
+nous entraînons
+vous entraînez
+ils (elles) entraînent
+
+** Imparfait
+
+j'entraînais
+tu entraînais
+il (elle) entraînait
+nous entraînions
+vous entraîniez
+ils (elles) entraînaient
+
+** Passé simple
+
+j'entraînai
+tu entraînas
+il (elle) entraîna
+nous entraînâmes
+vous entraînâtes
+ils (elles) entraînèrent
+
+** Futur simple
+
+j'entraînerai
+tu entraîneras
+il (elle) entraînera
+nous entraînerons
+vous entraînerez
+ils (elles) entraîneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entraînerais
+tu entraînerais
+il (elle) entraînerait
+nous entraînerions
+vous entraîneriez
+ils (elles) entraîneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entraîne
+que tu entraînes
+qu’il (elle) entraîne
+que nous entraînions
+que vous entraîniez
+qu’ils (elles) entraînent
+
+** Imparfait
+
+que j'entraînasse
+que tu entraînasses
+qu’il (elle) entraînât
+que nous entraînassions
+que vous entraînassiez
+qu’ils (elles) entraînassent
+
+* IMPÉRATIF
+
+** Présent
+
+entraîne
+entraînons
+entraînez
+
+* INFINITIF
+
+** Présent
+
+entraîner
+
+* PARTICIPE
+
+** Présent
+
+entraînant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entraîné
+tu as entraîné
+il (elle) a entraîné
+nous avons entraîné
+vous avez entraîné
+ils (elles) ont entraîné
+
+** Plus-que-parfait
+
+j'avais entraîné
+tu avais entraîné
+il (elle) avait entraîné
+nous avions entraîné
+vous aviez entraîné
+ils (elles) avaient entraîné
+
+** Passé antérieur
+
+j'eus entraîné
+tu eus entraîné
+il (elle) eut entraîné
+nous eûmes entraîné
+vous eûtes entraîné
+ils (elles) eurent entraîné
+
+** Futur antérieur
+
+j'aurai entraîné
+tu auras entraîné
+il (elle) aura entraîné
+nous aurons entraîné
+vous aurez entraîné
+ils (elles) auront entraîné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entraîné
+tu aurais entraîné
+il (elle) aurait entraîné
+nous aurions entraîné
+vous auriez entraîné
+ils (elles) auraient entraîné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entraîné
+que tu aies entraîné
+qu’il (elle) ait entraîné
+que nous ayons entraîné
+que vous ayez entraîné
+qu’ils (elles) aient entraîné
+
+** Plus-que-parfait
+
+que j'eusse entraîné
+que tu eusses entraîné
+qu’il (elle) eût entraîné
+que nous eussions entraîné
+que vous eussiez entraîné
+qu’ils (elles) eussent entraîné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entraîné
+ayez entraîné
+
+* INFINITIF
+
+** Passé
+
+avoir entraîné
+
+* PARTICIPE
+
+** Passé
+
+ayant entraîné
+entraîné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis entraîné(e)
+tu es entraîné(e)
+il (elle) est entraîné(e)
+nous sommes entraîné(e)s
+vous êtes entraîné(e)s
+ils (elles) sont entraîné(e)s
+
+** Imparfait
+
+j'étais entraîné(e)
+tu étais entraîné(e)
+il (elle) était entraîné(e)
+nous étions entraîné(e)s
+vous étiez entraîné(e)s
+ils (elles) étaient entraîné(e)s
+
+** Passé simple
+
+je fus entraîné(e)
+tu fus entraîné(e)
+il (elle) fut entraîné(e)
+nous fûmes entraîné(e)s
+vous fûtes entraîné(e)s
+ils (elles) furent entraîné(e)s
+
+** Futur simple
+
+je serai entraîné(e)
+tu seras entraîné(e)
+il (elle) sera entraîné(e)
+nous serons entraîné(e)s
+vous serez entraîné(e)s
+ils (elles) seront entraîné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entraîné(e)
+tu serais entraîné(e)
+il (elle) serait entraîné(e)
+nous serions entraîné(e)s
+vous seriez entraîné(e)s
+ils (elles) seraient entraîné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entraîné(e)
+que tu sois entraîné(e)
+qu’il (elle) soit entraîné(e)
+que nous soyons entraîné(e)s
+que vous soyez entraîné(e)s
+qu’ils (elles) soient entraîné(e)s
+
+** Imparfait
+
+que je fusse entraîné(e)
+que tu fusses entraîné(e)
+qu’il (elle) fût entraîné(e)
+que nous fussions entraîné(e)s
+que vous fussiez entraîné(e)s
+qu’ils (elles) fussent entraîné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entraîné(e)s
+soyez entraîné(e)s
+
+* INFINITIF
+
+** Présent
+
+être entraîné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entraîné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entraîné(e)
+tu as été entraîné(e)
+il (elle) a été entraîné(e)
+nous avons été entraîné(e)s
+vous avez été entraîné(e)s
+ils (elles) ont été entraîné(e)s
+
+** Plus-que-parfait
+
+j'avais été entraîné(e)
+il (elle) avait été entraîné(e)
+nous avions été entraîné(e)s
+ils (elles) avaient été entraîné(e)s
+
+** Passé antérieur
+
+j'eus été entraîné(e)
+tu eus été entraîné(e)
+il (elle) eut été entraîné(e)
+nous eûmes été entraîné(e)s
+vous eûtes été entraîné(e)s
+ils (elles) eurent été entraîné(e)s
+
+** Futur antérieur
+
+j'aurai été entraîné(e)
+tu auras été entraîné(e)
+il (elle) aura été entraîné(e)
+nous aurons été entraîné(e)s
+vous aurez été entraîné(e)s
+ils (elles) auront été entraîné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entraîné(e)
+j'aurais été entraîné(e)
+il (elle) aurait été entraîné(e)
+nous aurions été entraîné(e)s
+vous auriez été entraîné(e)s
+ils (elles) auraient été entraîné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entraîné(e)
+que tu aies été entraîné(e)
+qu’il (elle) ait été entraîné(e)
+que nous ayons été entraîné(e)s
+que vous ayez été entraîné(e)s
+qu’ils (elles) aient été entraîné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entraîné(e)
+que tu eusses été entraîné(e)
+qu’il (elle) eût été entraîné(e)
+que nous eussions été entraîné(e)s
+que vous eussiez été entraîné(e)s
+qu’ils (elles) eussent été entraîné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entraîné(e)
+ayons été entraîné(e)s
+ayez été entraîné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entraîné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entraîné(e)(s)

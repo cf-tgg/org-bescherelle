@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe visiter
+
+* INDICATIF
+
+** Présent
+
+je visite
+tu visites
+il (elle) visite
+nous visitons
+vous visitez
+ils (elles) visitent
+
+** Imparfait
+
+je visitais
+tu visitais
+il (elle) visitait
+nous visitions
+vous visitiez
+ils (elles) visitaient
+
+** Passé simple
+
+je visitai
+tu visitas
+il (elle) visita
+nous visitâmes
+vous visitâtes
+ils (elles) visitèrent
+
+** Futur simple
+
+je visiterai
+tu visiteras
+il (elle) visitera
+nous visiterons
+vous visiterez
+ils (elles) visiteront
+
+* CONDITIONNEL
+
+** Présent
+
+je visiterais
+tu visiterais
+il (elle) visiterait
+nous visiterions
+vous visiteriez
+ils (elles) visiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je visite
+que tu visites
+qu’il (elle) visite
+que nous visitions
+que vous visitiez
+qu’ils (elles) visitent
+
+** Imparfait
+
+que je visitasse
+que tu visitasses
+qu’il (elle) visitât
+que nous visitassions
+que vous visitassiez
+qu’ils (elles) visitassent
+
+* IMPÉRATIF
+
+** Présent
+
+visite
+visitons
+visitez
+
+* INFINITIF
+
+** Présent
+
+visiter
+
+* PARTICIPE
+
+** Présent
+
+visitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai visité
+tu as visité
+il (elle) a visité
+nous avons visité
+vous avez visité
+ils (elles) ont visité
+
+** Plus-que-parfait
+
+j'avais visité
+tu avais visité
+il (elle) avait visité
+nous avions visité
+vous aviez visité
+ils (elles) avaient visité
+
+** Passé antérieur
+
+j'eus visité
+tu eus visité
+il (elle) eut visité
+nous eûmes visité
+vous eûtes visité
+ils (elles) eurent visité
+
+** Futur antérieur
+
+j'aurai visité
+tu auras visité
+il (elle) aura visité
+nous aurons visité
+vous aurez visité
+ils (elles) auront visité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais visité
+tu aurais visité
+il (elle) aurait visité
+nous aurions visité
+vous auriez visité
+ils (elles) auraient visité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie visité
+que tu aies visité
+qu’il (elle) ait visité
+que nous ayons visité
+que vous ayez visité
+qu’ils (elles) aient visité
+
+** Plus-que-parfait
+
+que j'eusse visité
+que tu eusses visité
+qu’il (elle) eût visité
+que nous eussions visité
+que vous eussiez visité
+qu’ils (elles) eussent visité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons visité
+ayez visité
+
+* INFINITIF
+
+** Passé
+
+avoir visité
+
+* PARTICIPE
+
+** Passé
+
+ayant visité
+visité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis visité(e)
+tu es visité(e)
+il (elle) est visité(e)
+nous sommes visité(e)s
+vous êtes visité(e)s
+ils (elles) sont visité(e)s
+
+** Imparfait
+
+j'étais visité(e)
+tu étais visité(e)
+il (elle) était visité(e)
+nous étions visité(e)s
+vous étiez visité(e)s
+ils (elles) étaient visité(e)s
+
+** Passé simple
+
+je fus visité(e)
+tu fus visité(e)
+il (elle) fut visité(e)
+nous fûmes visité(e)s
+vous fûtes visité(e)s
+ils (elles) furent visité(e)s
+
+** Futur simple
+
+je serai visité(e)
+tu seras visité(e)
+il (elle) sera visité(e)
+nous serons visité(e)s
+vous serez visité(e)s
+ils (elles) seront visité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais visité(e)
+tu serais visité(e)
+il (elle) serait visité(e)
+nous serions visité(e)s
+vous seriez visité(e)s
+ils (elles) seraient visité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois visité(e)
+que tu sois visité(e)
+qu’il (elle) soit visité(e)
+que nous soyons visité(e)s
+que vous soyez visité(e)s
+qu’ils (elles) soient visité(e)s
+
+** Imparfait
+
+que je fusse visité(e)
+que tu fusses visité(e)
+qu’il (elle) fût visité(e)
+que nous fussions visité(e)s
+que vous fussiez visité(e)s
+qu’ils (elles) fussent visité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons visité(e)s
+soyez visité(e)s
+
+* INFINITIF
+
+** Présent
+
+être visité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant visité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été visité(e)
+tu as été visité(e)
+il (elle) a été visité(e)
+nous avons été visité(e)s
+vous avez été visité(e)s
+ils (elles) ont été visité(e)s
+
+** Plus-que-parfait
+
+j'avais été visité(e)
+il (elle) avait été visité(e)
+nous avions été visité(e)s
+ils (elles) avaient été visité(e)s
+
+** Passé antérieur
+
+j'eus été visité(e)
+tu eus été visité(e)
+il (elle) eut été visité(e)
+nous eûmes été visité(e)s
+vous eûtes été visité(e)s
+ils (elles) eurent été visité(e)s
+
+** Futur antérieur
+
+j'aurai été visité(e)
+tu auras été visité(e)
+il (elle) aura été visité(e)
+nous aurons été visité(e)s
+vous aurez été visité(e)s
+ils (elles) auront été visité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été visité(e)
+j'aurais été visité(e)
+il (elle) aurait été visité(e)
+nous aurions été visité(e)s
+vous auriez été visité(e)s
+ils (elles) auraient été visité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été visité(e)
+que tu aies été visité(e)
+qu’il (elle) ait été visité(e)
+que nous ayons été visité(e)s
+que vous ayez été visité(e)s
+qu’ils (elles) aient été visité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été visité(e)
+que tu eusses été visité(e)
+qu’il (elle) eût été visité(e)
+que nous eussions été visité(e)s
+que vous eussiez été visité(e)s
+qu’ils (elles) eussent été visité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été visité(e)
+ayons été visité(e)s
+ayez été visité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été visité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été visité(e)(s)

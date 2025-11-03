@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe retenir
+
+* INDICATIF
+
+** Présent
+
+je retiens
+tu retiens
+il (elle) retient
+nous retenons
+vous retenez
+ils (elles) retiennent
+
+** Imparfait
+
+je retenais
+tu retenais
+il (elle) retenait
+nous retenions
+vous reteniez
+ils (elles) retenaient
+
+** Passé simple
+
+je retins
+tu retins
+il (elle) retint
+nous retînmes
+vous retîntes
+ils (elles) retinrent
+
+** Futur simple
+
+je retiendrai
+tu retiendras
+il (elle) retiendra
+nous retiendrons
+vous retiendrez
+ils (elles) retiendront
+
+* CONDITIONNEL
+
+** Présent
+
+je retiendrais
+tu retiendrais
+il (elle) retiendrait
+nous retiendrions
+vous retiendriez
+ils (elles) retiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retienne
+que tu retiennes
+qu’il (elle) retienne
+que nous retenions
+que vous reteniez
+qu’ils (elles) retiennent
+
+** Imparfait
+
+que je retinsse
+que tu retinsses
+qu’il (elle) retînt
+que nous retinssions
+que vous retinssiez
+qu’ils (elles) retinssent
+
+* IMPÉRATIF
+
+** Présent
+
+retiens
+retenons
+retenez
+
+* INFINITIF
+
+** Présent
+
+retenir
+
+* PARTICIPE
+
+** Présent
+
+retenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retenu
+tu as retenu
+il (elle) a retenu
+nous avons retenu
+vous avez retenu
+ils (elles) ont retenu
+
+** Plus-que-parfait
+
+j'avais retenu
+tu avais retenu
+il (elle) avait retenu
+nous avions retenu
+vous aviez retenu
+ils (elles) avaient retenu
+
+** Passé antérieur
+
+j'eus retenu
+tu eus retenu
+il (elle) eut retenu
+nous eûmes retenu
+vous eûtes retenu
+ils (elles) eurent retenu
+
+** Futur antérieur
+
+j'aurai retenu
+tu auras retenu
+il (elle) aura retenu
+nous aurons retenu
+vous aurez retenu
+ils (elles) auront retenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retenu
+tu aurais retenu
+il (elle) aurait retenu
+nous aurions retenu
+vous auriez retenu
+ils (elles) auraient retenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retenu
+que tu aies retenu
+qu’il (elle) ait retenu
+que nous ayons retenu
+que vous ayez retenu
+qu’ils (elles) aient retenu
+
+** Plus-que-parfait
+
+que j'eusse retenu
+que tu eusses retenu
+qu’il (elle) eût retenu
+que nous eussions retenu
+que vous eussiez retenu
+qu’ils (elles) eussent retenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retenu
+ayez retenu
+
+* INFINITIF
+
+** Passé
+
+avoir retenu
+
+* PARTICIPE
+
+** Passé
+
+ayant retenu
+retenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis retenu(e)
+tu es retenu(e)
+il (elle) est retenu(e)
+nous sommes retenu(e)s
+vous êtes retenu(e)s
+ils (elles) sont retenu(e)s
+
+** Imparfait
+
+j'étais retenu(e)
+tu étais retenu(e)
+il (elle) était retenu(e)
+nous étions retenu(e)s
+vous étiez retenu(e)s
+ils (elles) étaient retenu(e)s
+
+** Passé simple
+
+je fus retenu(e)
+tu fus retenu(e)
+il (elle) fut retenu(e)
+nous fûmes retenu(e)s
+vous fûtes retenu(e)s
+ils (elles) furent retenu(e)s
+
+** Futur simple
+
+je serai retenu(e)
+tu seras retenu(e)
+il (elle) sera retenu(e)
+nous serons retenu(e)s
+vous serez retenu(e)s
+ils (elles) seront retenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais retenu(e)
+tu serais retenu(e)
+il (elle) serait retenu(e)
+nous serions retenu(e)s
+vous seriez retenu(e)s
+ils (elles) seraient retenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois retenu(e)
+que tu sois retenu(e)
+qu’il (elle) soit retenu(e)
+que nous soyons retenu(e)s
+que vous soyez retenu(e)s
+qu’ils (elles) soient retenu(e)s
+
+** Imparfait
+
+que je fusse retenu(e)
+que tu fusses retenu(e)
+qu’il (elle) fût retenu(e)
+que nous fussions retenu(e)s
+que vous fussiez retenu(e)s
+qu’ils (elles) fussent retenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons retenu(e)s
+soyez retenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être retenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant retenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été retenu(e)
+tu as été retenu(e)
+il (elle) a été retenu(e)
+nous avons été retenu(e)s
+vous avez été retenu(e)s
+ils (elles) ont été retenu(e)s
+
+** Plus-que-parfait
+
+j'avais été retenu(e)
+il (elle) avait été retenu(e)
+nous avions été retenu(e)s
+ils (elles) avaient été retenu(e)s
+
+** Passé antérieur
+
+j'eus été retenu(e)
+tu eus été retenu(e)
+il (elle) eut été retenu(e)
+nous eûmes été retenu(e)s
+vous eûtes été retenu(e)s
+ils (elles) eurent été retenu(e)s
+
+** Futur antérieur
+
+j'aurai été retenu(e)
+tu auras été retenu(e)
+il (elle) aura été retenu(e)
+nous aurons été retenu(e)s
+vous aurez été retenu(e)s
+ils (elles) auront été retenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été retenu(e)
+j'aurais été retenu(e)
+il (elle) aurait été retenu(e)
+nous aurions été retenu(e)s
+vous auriez été retenu(e)s
+ils (elles) auraient été retenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été retenu(e)
+que tu aies été retenu(e)
+qu’il (elle) ait été retenu(e)
+que nous ayons été retenu(e)s
+que vous ayez été retenu(e)s
+qu’ils (elles) aient été retenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été retenu(e)
+que tu eusses été retenu(e)
+qu’il (elle) eût été retenu(e)
+que nous eussions été retenu(e)s
+que vous eussiez été retenu(e)s
+qu’ils (elles) eussent été retenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été retenu(e)
+ayons été retenu(e)s
+ayez été retenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été retenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été retenu(e)(s)

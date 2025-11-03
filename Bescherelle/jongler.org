@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe jongler
+
+* INDICATIF
+
+** Présent
+
+je jongle
+tu jongles
+il (elle) jongle
+nous jonglons
+vous jonglez
+ils (elles) jonglent
+
+** Imparfait
+
+je jonglais
+tu jonglais
+il (elle) jonglait
+nous jonglions
+vous jongliez
+ils (elles) jonglaient
+
+** Passé simple
+
+je jonglai
+tu jonglas
+il (elle) jongla
+nous jonglâmes
+vous jonglâtes
+ils (elles) jonglèrent
+
+** Futur simple
+
+je jonglerai
+tu jongleras
+il (elle) jonglera
+nous jonglerons
+vous jonglerez
+ils (elles) jongleront
+
+* CONDITIONNEL
+
+** Présent
+
+je jonglerais
+tu jonglerais
+il (elle) jonglerait
+nous jonglerions
+vous jongleriez
+ils (elles) jongleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jongle
+que tu jongles
+qu’il (elle) jongle
+que nous jonglions
+que vous jongliez
+qu’ils (elles) jonglent
+
+** Imparfait
+
+que je jonglasse
+que tu jonglasses
+qu’il (elle) jonglât
+que nous jonglassions
+que vous jonglassiez
+qu’ils (elles) jonglassent
+
+* IMPÉRATIF
+
+** Présent
+
+jongle
+jonglons
+jonglez
+
+* INFINITIF
+
+** Présent
+
+jongler
+
+* PARTICIPE
+
+** Présent
+
+jonglant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jonglé
+tu as jonglé
+il (elle) a jonglé
+nous avons jonglé
+vous avez jonglé
+ils (elles) ont jonglé
+
+** Plus-que-parfait
+
+j'avais jonglé
+tu avais jonglé
+il (elle) avait jonglé
+nous avions jonglé
+vous aviez jonglé
+ils (elles) avaient jonglé
+
+** Passé antérieur
+
+j'eus jonglé
+tu eus jonglé
+il (elle) eut jonglé
+nous eûmes jonglé
+vous eûtes jonglé
+ils (elles) eurent jonglé
+
+** Futur antérieur
+
+j'aurai jonglé
+tu auras jonglé
+il (elle) aura jonglé
+nous aurons jonglé
+vous aurez jonglé
+ils (elles) auront jonglé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jonglé
+tu aurais jonglé
+il (elle) aurait jonglé
+nous aurions jonglé
+vous auriez jonglé
+ils (elles) auraient jonglé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jonglé
+que tu aies jonglé
+qu’il (elle) ait jonglé
+que nous ayons jonglé
+que vous ayez jonglé
+qu’ils (elles) aient jonglé
+
+** Plus-que-parfait
+
+que j'eusse jonglé
+que tu eusses jonglé
+qu’il (elle) eût jonglé
+que nous eussions jonglé
+que vous eussiez jonglé
+qu’ils (elles) eussent jonglé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jonglé
+ayez jonglé
+
+* INFINITIF
+
+** Passé
+
+avoir jonglé
+
+* PARTICIPE
+
+** Passé
+
+ayant jonglé
+jonglé (invar.)

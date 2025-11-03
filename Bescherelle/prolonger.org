@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe prolonger
+
+* INDICATIF
+
+** Présent
+
+je prolonge
+tu prolonges
+il (elle) prolonge
+nous prolongeons
+vous prolongez
+ils (elles) prolongent
+
+** Imparfait
+
+je prolongeais
+tu prolongeais
+il (elle) prolongeait
+nous prolongions
+vous prolongiez
+ils (elles) prolongeaient
+
+** Passé simple
+
+je prolongeai
+tu prolongeas
+il (elle) prolongea
+nous prolongeâmes
+vous prolongeâtes
+ils (elles) prolongèrent
+
+** Futur simple
+
+je prolongerai
+tu prolongeras
+il (elle) prolongera
+nous prolongerons
+vous prolongerez
+ils (elles) prolongeront
+
+* CONDITIONNEL
+
+** Présent
+
+je prolongerais
+tu prolongerais
+il (elle) prolongerait
+nous prolongerions
+vous prolongeriez
+ils (elles) prolongeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prolonge
+que tu prolonges
+qu’il (elle) prolonge
+que nous prolongions
+que vous prolongiez
+qu’ils (elles) prolongent
+
+** Imparfait
+
+que je prolongeasse
+que tu prolongeasses
+qu’il (elle) prolongeât
+que nous prolongeassions
+que vous prolongeassiez
+qu’ils (elles) prolongeassent
+
+* IMPÉRATIF
+
+** Présent
+
+prolonge
+prolongeons
+prolongez
+
+* INFINITIF
+
+** Présent
+
+prolonger
+
+* PARTICIPE
+
+** Présent
+
+prolongeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai prolongé
+tu as prolongé
+il (elle) a prolongé
+nous avons prolongé
+vous avez prolongé
+ils (elles) ont prolongé
+
+** Plus-que-parfait
+
+j'avais prolongé
+tu avais prolongé
+il (elle) avait prolongé
+nous avions prolongé
+vous aviez prolongé
+ils (elles) avaient prolongé
+
+** Passé antérieur
+
+j'eus prolongé
+tu eus prolongé
+il (elle) eut prolongé
+nous eûmes prolongé
+vous eûtes prolongé
+ils (elles) eurent prolongé
+
+** Futur antérieur
+
+j'aurai prolongé
+tu auras prolongé
+il (elle) aura prolongé
+nous aurons prolongé
+vous aurez prolongé
+ils (elles) auront prolongé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais prolongé
+tu aurais prolongé
+il (elle) aurait prolongé
+nous aurions prolongé
+vous auriez prolongé
+ils (elles) auraient prolongé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie prolongé
+que tu aies prolongé
+qu’il (elle) ait prolongé
+que nous ayons prolongé
+que vous ayez prolongé
+qu’ils (elles) aient prolongé
+
+** Plus-que-parfait
+
+que j'eusse prolongé
+que tu eusses prolongé
+qu’il (elle) eût prolongé
+que nous eussions prolongé
+que vous eussiez prolongé
+qu’ils (elles) eussent prolongé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons prolongé
+ayez prolongé
+
+* INFINITIF
+
+** Passé
+
+avoir prolongé
+
+* PARTICIPE
+
+** Passé
+
+ayant prolongé
+prolongé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis prolongé(e)
+tu es prolongé(e)
+il (elle) est prolongé(e)
+nous sommes prolongé(e)s
+vous êtes prolongé(e)s
+ils (elles) sont prolongé(e)s
+
+** Imparfait
+
+j'étais prolongé(e)
+tu étais prolongé(e)
+il (elle) était prolongé(e)
+nous étions prolongé(e)s
+vous étiez prolongé(e)s
+ils (elles) étaient prolongé(e)s
+
+** Passé simple
+
+je fus prolongé(e)
+tu fus prolongé(e)
+il (elle) fut prolongé(e)
+nous fûmes prolongé(e)s
+vous fûtes prolongé(e)s
+ils (elles) furent prolongé(e)s
+
+** Futur simple
+
+je serai prolongé(e)
+tu seras prolongé(e)
+il (elle) sera prolongé(e)
+nous serons prolongé(e)s
+vous serez prolongé(e)s
+ils (elles) seront prolongé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais prolongé(e)
+tu serais prolongé(e)
+il (elle) serait prolongé(e)
+nous serions prolongé(e)s
+vous seriez prolongé(e)s
+ils (elles) seraient prolongé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois prolongé(e)
+que tu sois prolongé(e)
+qu’il (elle) soit prolongé(e)
+que nous soyons prolongé(e)s
+que vous soyez prolongé(e)s
+qu’ils (elles) soient prolongé(e)s
+
+** Imparfait
+
+que je fusse prolongé(e)
+que tu fusses prolongé(e)
+qu’il (elle) fût prolongé(e)
+que nous fussions prolongé(e)s
+que vous fussiez prolongé(e)s
+qu’ils (elles) fussent prolongé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons prolongé(e)s
+soyez prolongé(e)s
+
+* INFINITIF
+
+** Présent
+
+être prolongé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant prolongé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été prolongé(e)
+tu as été prolongé(e)
+il (elle) a été prolongé(e)
+nous avons été prolongé(e)s
+vous avez été prolongé(e)s
+ils (elles) ont été prolongé(e)s
+
+** Plus-que-parfait
+
+j'avais été prolongé(e)
+il (elle) avait été prolongé(e)
+nous avions été prolongé(e)s
+ils (elles) avaient été prolongé(e)s
+
+** Passé antérieur
+
+j'eus été prolongé(e)
+tu eus été prolongé(e)
+il (elle) eut été prolongé(e)
+nous eûmes été prolongé(e)s
+vous eûtes été prolongé(e)s
+ils (elles) eurent été prolongé(e)s
+
+** Futur antérieur
+
+j'aurai été prolongé(e)
+tu auras été prolongé(e)
+il (elle) aura été prolongé(e)
+nous aurons été prolongé(e)s
+vous aurez été prolongé(e)s
+ils (elles) auront été prolongé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été prolongé(e)
+j'aurais été prolongé(e)
+il (elle) aurait été prolongé(e)
+nous aurions été prolongé(e)s
+vous auriez été prolongé(e)s
+ils (elles) auraient été prolongé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été prolongé(e)
+que tu aies été prolongé(e)
+qu’il (elle) ait été prolongé(e)
+que nous ayons été prolongé(e)s
+que vous ayez été prolongé(e)s
+qu’ils (elles) aient été prolongé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été prolongé(e)
+que tu eusses été prolongé(e)
+qu’il (elle) eût été prolongé(e)
+que nous eussions été prolongé(e)s
+que vous eussiez été prolongé(e)s
+qu’ils (elles) eussent été prolongé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été prolongé(e)
+ayons été prolongé(e)s
+ayez été prolongé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été prolongé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été prolongé(e)(s)

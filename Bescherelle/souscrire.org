@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe souscrire
+
+* INDICATIF
+
+** Présent
+
+je souscris
+tu souscris
+il (elle) souscrit
+nous souscrivons
+vous souscrivez
+ils (elles) souscrivent
+
+** Imparfait
+
+je souscrivais
+tu souscrivais
+il (elle) souscrivait
+nous souscrivions
+vous souscriviez
+ils (elles) souscrivaient
+
+** Passé simple
+
+je souscrivis
+tu souscrivis
+il (elle) souscrivit
+nous souscrivîmes
+vous souscrivîtes
+ils (elles) souscrivirent
+
+** Futur simple
+
+je souscrirai
+tu souscriras
+il (elle) souscrira
+nous souscrirons
+vous souscrirez
+ils (elles) souscriront
+
+* CONDITIONNEL
+
+** Présent
+
+je souscrirais
+tu souscrirais
+il (elle) souscrirait
+nous souscririons
+vous souscririez
+ils (elles) souscriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je souscrive
+que tu souscrives
+qu’il (elle) souscrive
+que nous souscrivions
+que vous souscriviez
+qu’ils (elles) souscrivent
+
+** Imparfait
+
+que je souscrivisse
+que tu souscrivisses
+qu’il (elle) souscrivît
+que nous souscrivissions
+que vous souscrivissiez
+qu’ils (elles) souscrivissent
+
+* IMPÉRATIF
+
+** Présent
+
+souscris
+souscrivons
+souscrivez
+
+* INFINITIF
+
+** Présent
+
+souscrire
+
+* PARTICIPE
+
+** Présent
+
+souscrivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai souscrit
+tu as souscrit
+il (elle) a souscrit
+nous avons souscrit
+vous avez souscrit
+ils (elles) ont souscrit
+
+** Plus-que-parfait
+
+j'avais souscrit
+tu avais souscrit
+il (elle) avait souscrit
+nous avions souscrit
+vous aviez souscrit
+ils (elles) avaient souscrit
+
+** Passé antérieur
+
+j'eus souscrit
+tu eus souscrit
+il (elle) eut souscrit
+nous eûmes souscrit
+vous eûtes souscrit
+ils (elles) eurent souscrit
+
+** Futur antérieur
+
+j'aurai souscrit
+tu auras souscrit
+il (elle) aura souscrit
+nous aurons souscrit
+vous aurez souscrit
+ils (elles) auront souscrit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais souscrit
+tu aurais souscrit
+il (elle) aurait souscrit
+nous aurions souscrit
+vous auriez souscrit
+ils (elles) auraient souscrit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie souscrit
+que tu aies souscrit
+qu’il (elle) ait souscrit
+que nous ayons souscrit
+que vous ayez souscrit
+qu’ils (elles) aient souscrit
+
+** Plus-que-parfait
+
+que j'eusse souscrit
+que tu eusses souscrit
+qu’il (elle) eût souscrit
+que nous eussions souscrit
+que vous eussiez souscrit
+qu’ils (elles) eussent souscrit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons souscrit
+ayez souscrit
+
+* INFINITIF
+
+** Passé
+
+avoir souscrit
+
+* PARTICIPE
+
+** Passé
+
+ayant souscrit
+souscrit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis souscrit(e)
+tu es souscrit(e)
+il (elle) est souscrit(e)
+nous sommes souscrit(e)s
+vous êtes souscrit(e)s
+ils (elles) sont souscrit(e)s
+
+** Imparfait
+
+j'étais souscrit(e)
+tu étais souscrit(e)
+il (elle) était souscrit(e)
+nous étions souscrit(e)s
+vous étiez souscrit(e)s
+ils (elles) étaient souscrit(e)s
+
+** Passé simple
+
+je fus souscrit(e)
+tu fus souscrit(e)
+il (elle) fut souscrit(e)
+nous fûmes souscrit(e)s
+vous fûtes souscrit(e)s
+ils (elles) furent souscrit(e)s
+
+** Futur simple
+
+je serai souscrit(e)
+tu seras souscrit(e)
+il (elle) sera souscrit(e)
+nous serons souscrit(e)s
+vous serez souscrit(e)s
+ils (elles) seront souscrit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais souscrit(e)
+tu serais souscrit(e)
+il (elle) serait souscrit(e)
+nous serions souscrit(e)s
+vous seriez souscrit(e)s
+ils (elles) seraient souscrit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois souscrit(e)
+que tu sois souscrit(e)
+qu’il (elle) soit souscrit(e)
+que nous soyons souscrit(e)s
+que vous soyez souscrit(e)s
+qu’ils (elles) soient souscrit(e)s
+
+** Imparfait
+
+que je fusse souscrit(e)
+que tu fusses souscrit(e)
+qu’il (elle) fût souscrit(e)
+que nous fussions souscrit(e)s
+que vous fussiez souscrit(e)s
+qu’ils (elles) fussent souscrit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons souscrit(e)s
+soyez souscrit(e)s
+
+* INFINITIF
+
+** Présent
+
+être souscrit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant souscrit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été souscrit(e)
+tu as été souscrit(e)
+il (elle) a été souscrit(e)
+nous avons été souscrit(e)s
+vous avez été souscrit(e)s
+ils (elles) ont été souscrit(e)s
+
+** Plus-que-parfait
+
+j'avais été souscrit(e)
+il (elle) avait été souscrit(e)
+nous avions été souscrit(e)s
+ils (elles) avaient été souscrit(e)s
+
+** Passé antérieur
+
+j'eus été souscrit(e)
+tu eus été souscrit(e)
+il (elle) eut été souscrit(e)
+nous eûmes été souscrit(e)s
+vous eûtes été souscrit(e)s
+ils (elles) eurent été souscrit(e)s
+
+** Futur antérieur
+
+j'aurai été souscrit(e)
+tu auras été souscrit(e)
+il (elle) aura été souscrit(e)
+nous aurons été souscrit(e)s
+vous aurez été souscrit(e)s
+ils (elles) auront été souscrit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été souscrit(e)
+j'aurais été souscrit(e)
+il (elle) aurait été souscrit(e)
+nous aurions été souscrit(e)s
+vous auriez été souscrit(e)s
+ils (elles) auraient été souscrit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été souscrit(e)
+que tu aies été souscrit(e)
+qu’il (elle) ait été souscrit(e)
+que nous ayons été souscrit(e)s
+que vous ayez été souscrit(e)s
+qu’ils (elles) aient été souscrit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été souscrit(e)
+que tu eusses été souscrit(e)
+qu’il (elle) eût été souscrit(e)
+que nous eussions été souscrit(e)s
+que vous eussiez été souscrit(e)s
+qu’ils (elles) eussent été souscrit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été souscrit(e)
+ayons été souscrit(e)s
+ayez été souscrit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été souscrit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été souscrit(e)(s)

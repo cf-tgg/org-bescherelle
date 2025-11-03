@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe oser
+
+* INDICATIF
+
+** Présent
+
+j'ose
+tu oses
+il (elle) ose
+nous osons
+vous osez
+ils (elles) osent
+
+** Imparfait
+
+j'osais
+tu osais
+il (elle) osait
+nous osions
+vous osiez
+ils (elles) osaient
+
+** Passé simple
+
+j'osai
+tu osas
+il (elle) osa
+nous osâmes
+vous osâtes
+ils (elles) osèrent
+
+** Futur simple
+
+j'oserai
+tu oseras
+il (elle) osera
+nous oserons
+vous oserez
+ils (elles) oseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'oserais
+tu oserais
+il (elle) oserait
+nous oserions
+vous oseriez
+ils (elles) oseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ose
+que tu oses
+qu’il (elle) ose
+que nous osions
+que vous osiez
+qu’ils (elles) osent
+
+** Imparfait
+
+que j'osasse
+que tu osasses
+qu’il (elle) osât
+que nous osassions
+que vous osassiez
+qu’ils (elles) osassent
+
+* IMPÉRATIF
+
+** Présent
+
+ose
+osons
+osez
+
+* INFINITIF
+
+** Présent
+
+oser
+
+* PARTICIPE
+
+** Présent
+
+osant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai osé
+tu as osé
+il (elle) a osé
+nous avons osé
+vous avez osé
+ils (elles) ont osé
+
+** Plus-que-parfait
+
+j'avais osé
+tu avais osé
+il (elle) avait osé
+nous avions osé
+vous aviez osé
+ils (elles) avaient osé
+
+** Passé antérieur
+
+j'eus osé
+tu eus osé
+il (elle) eut osé
+nous eûmes osé
+vous eûtes osé
+ils (elles) eurent osé
+
+** Futur antérieur
+
+j'aurai osé
+tu auras osé
+il (elle) aura osé
+nous aurons osé
+vous aurez osé
+ils (elles) auront osé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais osé
+tu aurais osé
+il (elle) aurait osé
+nous aurions osé
+vous auriez osé
+ils (elles) auraient osé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie osé
+que tu aies osé
+qu’il (elle) ait osé
+que nous ayons osé
+que vous ayez osé
+qu’ils (elles) aient osé
+
+** Plus-que-parfait
+
+que j'eusse osé
+que tu eusses osé
+qu’il (elle) eût osé
+que nous eussions osé
+que vous eussiez osé
+qu’ils (elles) eussent osé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons osé
+ayez osé
+
+* INFINITIF
+
+** Passé
+
+avoir osé
+
+* PARTICIPE
+
+** Passé
+
+ayant osé
+osé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis osé(e)
+tu es osé(e)
+il (elle) est osé(e)
+nous sommes osé(e)s
+vous êtes osé(e)s
+ils (elles) sont osé(e)s
+
+** Imparfait
+
+j'étais osé(e)
+tu étais osé(e)
+il (elle) était osé(e)
+nous étions osé(e)s
+vous étiez osé(e)s
+ils (elles) étaient osé(e)s
+
+** Passé simple
+
+je fus osé(e)
+tu fus osé(e)
+il (elle) fut osé(e)
+nous fûmes osé(e)s
+vous fûtes osé(e)s
+ils (elles) furent osé(e)s
+
+** Futur simple
+
+je serai osé(e)
+tu seras osé(e)
+il (elle) sera osé(e)
+nous serons osé(e)s
+vous serez osé(e)s
+ils (elles) seront osé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais osé(e)
+tu serais osé(e)
+il (elle) serait osé(e)
+nous serions osé(e)s
+vous seriez osé(e)s
+ils (elles) seraient osé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois osé(e)
+que tu sois osé(e)
+qu’il (elle) soit osé(e)
+que nous soyons osé(e)s
+que vous soyez osé(e)s
+qu’ils (elles) soient osé(e)s
+
+** Imparfait
+
+que je fusse osé(e)
+que tu fusses osé(e)
+qu’il (elle) fût osé(e)
+que nous fussions osé(e)s
+que vous fussiez osé(e)s
+qu’ils (elles) fussent osé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons osé(e)s
+soyez osé(e)s
+
+* INFINITIF
+
+** Présent
+
+être osé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant osé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été osé(e)
+tu as été osé(e)
+il (elle) a été osé(e)
+nous avons été osé(e)s
+vous avez été osé(e)s
+ils (elles) ont été osé(e)s
+
+** Plus-que-parfait
+
+j'avais été osé(e)
+il (elle) avait été osé(e)
+nous avions été osé(e)s
+ils (elles) avaient été osé(e)s
+
+** Passé antérieur
+
+j'eus été osé(e)
+tu eus été osé(e)
+il (elle) eut été osé(e)
+nous eûmes été osé(e)s
+vous eûtes été osé(e)s
+ils (elles) eurent été osé(e)s
+
+** Futur antérieur
+
+j'aurai été osé(e)
+tu auras été osé(e)
+il (elle) aura été osé(e)
+nous aurons été osé(e)s
+vous aurez été osé(e)s
+ils (elles) auront été osé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été osé(e)
+j'aurais été osé(e)
+il (elle) aurait été osé(e)
+nous aurions été osé(e)s
+vous auriez été osé(e)s
+ils (elles) auraient été osé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été osé(e)
+que tu aies été osé(e)
+qu’il (elle) ait été osé(e)
+que nous ayons été osé(e)s
+que vous ayez été osé(e)s
+qu’ils (elles) aient été osé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été osé(e)
+que tu eusses été osé(e)
+qu’il (elle) eût été osé(e)
+que nous eussions été osé(e)s
+que vous eussiez été osé(e)s
+qu’ils (elles) eussent été osé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été osé(e)
+ayons été osé(e)s
+ayez été osé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été osé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été osé(e)(s)

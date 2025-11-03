@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rassurer
+
+* INDICATIF
+
+** Présent
+
+je rassure
+tu rassures
+il (elle) rassure
+nous rassurons
+vous rassurez
+ils (elles) rassurent
+
+** Imparfait
+
+je rassurais
+tu rassurais
+il (elle) rassurait
+nous rassurions
+vous rassuriez
+ils (elles) rassuraient
+
+** Passé simple
+
+je rassurai
+tu rassuras
+il (elle) rassura
+nous rassurâmes
+vous rassurâtes
+ils (elles) rassurèrent
+
+** Futur simple
+
+je rassurerai
+tu rassureras
+il (elle) rassurera
+nous rassurerons
+vous rassurerez
+ils (elles) rassureront
+
+* CONDITIONNEL
+
+** Présent
+
+je rassurerais
+tu rassurerais
+il (elle) rassurerait
+nous rassurerions
+vous rassureriez
+ils (elles) rassureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rassure
+que tu rassures
+qu’il (elle) rassure
+que nous rassurions
+que vous rassuriez
+qu’ils (elles) rassurent
+
+** Imparfait
+
+que je rassurasse
+que tu rassurasses
+qu’il (elle) rassurât
+que nous rassurassions
+que vous rassurassiez
+qu’ils (elles) rassurassent
+
+* IMPÉRATIF
+
+** Présent
+
+rassure
+rassurons
+rassurez
+
+* INFINITIF
+
+** Présent
+
+rassurer
+
+* PARTICIPE
+
+** Présent
+
+rassurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rassuré
+tu as rassuré
+il (elle) a rassuré
+nous avons rassuré
+vous avez rassuré
+ils (elles) ont rassuré
+
+** Plus-que-parfait
+
+j'avais rassuré
+tu avais rassuré
+il (elle) avait rassuré
+nous avions rassuré
+vous aviez rassuré
+ils (elles) avaient rassuré
+
+** Passé antérieur
+
+j'eus rassuré
+tu eus rassuré
+il (elle) eut rassuré
+nous eûmes rassuré
+vous eûtes rassuré
+ils (elles) eurent rassuré
+
+** Futur antérieur
+
+j'aurai rassuré
+tu auras rassuré
+il (elle) aura rassuré
+nous aurons rassuré
+vous aurez rassuré
+ils (elles) auront rassuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rassuré
+tu aurais rassuré
+il (elle) aurait rassuré
+nous aurions rassuré
+vous auriez rassuré
+ils (elles) auraient rassuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rassuré
+que tu aies rassuré
+qu’il (elle) ait rassuré
+que nous ayons rassuré
+que vous ayez rassuré
+qu’ils (elles) aient rassuré
+
+** Plus-que-parfait
+
+que j'eusse rassuré
+que tu eusses rassuré
+qu’il (elle) eût rassuré
+que nous eussions rassuré
+que vous eussiez rassuré
+qu’ils (elles) eussent rassuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rassuré
+ayez rassuré
+
+* INFINITIF
+
+** Passé
+
+avoir rassuré
+
+* PARTICIPE
+
+** Passé
+
+ayant rassuré
+rassuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rassuré(e)
+tu es rassuré(e)
+il (elle) est rassuré(e)
+nous sommes rassuré(e)s
+vous êtes rassuré(e)s
+ils (elles) sont rassuré(e)s
+
+** Imparfait
+
+j'étais rassuré(e)
+tu étais rassuré(e)
+il (elle) était rassuré(e)
+nous étions rassuré(e)s
+vous étiez rassuré(e)s
+ils (elles) étaient rassuré(e)s
+
+** Passé simple
+
+je fus rassuré(e)
+tu fus rassuré(e)
+il (elle) fut rassuré(e)
+nous fûmes rassuré(e)s
+vous fûtes rassuré(e)s
+ils (elles) furent rassuré(e)s
+
+** Futur simple
+
+je serai rassuré(e)
+tu seras rassuré(e)
+il (elle) sera rassuré(e)
+nous serons rassuré(e)s
+vous serez rassuré(e)s
+ils (elles) seront rassuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rassuré(e)
+tu serais rassuré(e)
+il (elle) serait rassuré(e)
+nous serions rassuré(e)s
+vous seriez rassuré(e)s
+ils (elles) seraient rassuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rassuré(e)
+que tu sois rassuré(e)
+qu’il (elle) soit rassuré(e)
+que nous soyons rassuré(e)s
+que vous soyez rassuré(e)s
+qu’ils (elles) soient rassuré(e)s
+
+** Imparfait
+
+que je fusse rassuré(e)
+que tu fusses rassuré(e)
+qu’il (elle) fût rassuré(e)
+que nous fussions rassuré(e)s
+que vous fussiez rassuré(e)s
+qu’ils (elles) fussent rassuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rassuré(e)s
+soyez rassuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être rassuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rassuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rassuré(e)
+tu as été rassuré(e)
+il (elle) a été rassuré(e)
+nous avons été rassuré(e)s
+vous avez été rassuré(e)s
+ils (elles) ont été rassuré(e)s
+
+** Plus-que-parfait
+
+j'avais été rassuré(e)
+il (elle) avait été rassuré(e)
+nous avions été rassuré(e)s
+ils (elles) avaient été rassuré(e)s
+
+** Passé antérieur
+
+j'eus été rassuré(e)
+tu eus été rassuré(e)
+il (elle) eut été rassuré(e)
+nous eûmes été rassuré(e)s
+vous eûtes été rassuré(e)s
+ils (elles) eurent été rassuré(e)s
+
+** Futur antérieur
+
+j'aurai été rassuré(e)
+tu auras été rassuré(e)
+il (elle) aura été rassuré(e)
+nous aurons été rassuré(e)s
+vous aurez été rassuré(e)s
+ils (elles) auront été rassuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rassuré(e)
+j'aurais été rassuré(e)
+il (elle) aurait été rassuré(e)
+nous aurions été rassuré(e)s
+vous auriez été rassuré(e)s
+ils (elles) auraient été rassuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rassuré(e)
+que tu aies été rassuré(e)
+qu’il (elle) ait été rassuré(e)
+que nous ayons été rassuré(e)s
+que vous ayez été rassuré(e)s
+qu’ils (elles) aient été rassuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rassuré(e)
+que tu eusses été rassuré(e)
+qu’il (elle) eût été rassuré(e)
+que nous eussions été rassuré(e)s
+que vous eussiez été rassuré(e)s
+qu’ils (elles) eussent été rassuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rassuré(e)
+ayons été rassuré(e)s
+ayez été rassuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rassuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rassuré(e)(s)

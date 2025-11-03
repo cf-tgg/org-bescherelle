@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tatouer
+
+* INDICATIF
+
+** Présent
+
+je tatoue
+tu tatoues
+il (elle) tatoue
+nous tatouons
+vous tatouez
+ils (elles) tatouent
+
+** Imparfait
+
+je tatouais
+tu tatouais
+il (elle) tatouait
+nous tatouions
+vous tatouiez
+ils (elles) tatouaient
+
+** Passé simple
+
+je tatouai
+tu tatouas
+il (elle) tatoua
+nous tatouâmes
+vous tatouâtes
+ils (elles) tatouèrent
+
+** Futur simple
+
+je tatouerai
+tu tatoueras
+il (elle) tatouera
+nous tatouerons
+vous tatouerez
+ils (elles) tatoueront
+
+* CONDITIONNEL
+
+** Présent
+
+je tatouerais
+tu tatouerais
+il (elle) tatouerait
+nous tatouerions
+vous tatoueriez
+ils (elles) tatoueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tatoue
+que tu tatoues
+qu’il (elle) tatoue
+que nous tatouions
+que vous tatouiez
+qu’ils (elles) tatouent
+
+** Imparfait
+
+que je tatouasse
+que tu tatouasses
+qu’il (elle) tatouât
+que nous tatouassions
+que vous tatouassiez
+qu’ils (elles) tatouassent
+
+* IMPÉRATIF
+
+** Présent
+
+tatoue
+tatouons
+tatouez
+
+* INFINITIF
+
+** Présent
+
+tatouer
+
+* PARTICIPE
+
+** Présent
+
+tatouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tatoué
+tu as tatoué
+il (elle) a tatoué
+nous avons tatoué
+vous avez tatoué
+ils (elles) ont tatoué
+
+** Plus-que-parfait
+
+j'avais tatoué
+tu avais tatoué
+il (elle) avait tatoué
+nous avions tatoué
+vous aviez tatoué
+ils (elles) avaient tatoué
+
+** Passé antérieur
+
+j'eus tatoué
+tu eus tatoué
+il (elle) eut tatoué
+nous eûmes tatoué
+vous eûtes tatoué
+ils (elles) eurent tatoué
+
+** Futur antérieur
+
+j'aurai tatoué
+tu auras tatoué
+il (elle) aura tatoué
+nous aurons tatoué
+vous aurez tatoué
+ils (elles) auront tatoué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tatoué
+tu aurais tatoué
+il (elle) aurait tatoué
+nous aurions tatoué
+vous auriez tatoué
+ils (elles) auraient tatoué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tatoué
+que tu aies tatoué
+qu’il (elle) ait tatoué
+que nous ayons tatoué
+que vous ayez tatoué
+qu’ils (elles) aient tatoué
+
+** Plus-que-parfait
+
+que j'eusse tatoué
+que tu eusses tatoué
+qu’il (elle) eût tatoué
+que nous eussions tatoué
+que vous eussiez tatoué
+qu’ils (elles) eussent tatoué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tatoué
+ayez tatoué
+
+* INFINITIF
+
+** Passé
+
+avoir tatoué
+
+* PARTICIPE
+
+** Passé
+
+ayant tatoué
+tatoué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tatoué(e)
+tu es tatoué(e)
+il (elle) est tatoué(e)
+nous sommes tatoué(e)s
+vous êtes tatoué(e)s
+ils (elles) sont tatoué(e)s
+
+** Imparfait
+
+j'étais tatoué(e)
+tu étais tatoué(e)
+il (elle) était tatoué(e)
+nous étions tatoué(e)s
+vous étiez tatoué(e)s
+ils (elles) étaient tatoué(e)s
+
+** Passé simple
+
+je fus tatoué(e)
+tu fus tatoué(e)
+il (elle) fut tatoué(e)
+nous fûmes tatoué(e)s
+vous fûtes tatoué(e)s
+ils (elles) furent tatoué(e)s
+
+** Futur simple
+
+je serai tatoué(e)
+tu seras tatoué(e)
+il (elle) sera tatoué(e)
+nous serons tatoué(e)s
+vous serez tatoué(e)s
+ils (elles) seront tatoué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tatoué(e)
+tu serais tatoué(e)
+il (elle) serait tatoué(e)
+nous serions tatoué(e)s
+vous seriez tatoué(e)s
+ils (elles) seraient tatoué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tatoué(e)
+que tu sois tatoué(e)
+qu’il (elle) soit tatoué(e)
+que nous soyons tatoué(e)s
+que vous soyez tatoué(e)s
+qu’ils (elles) soient tatoué(e)s
+
+** Imparfait
+
+que je fusse tatoué(e)
+que tu fusses tatoué(e)
+qu’il (elle) fût tatoué(e)
+que nous fussions tatoué(e)s
+que vous fussiez tatoué(e)s
+qu’ils (elles) fussent tatoué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tatoué(e)s
+soyez tatoué(e)s
+
+* INFINITIF
+
+** Présent
+
+être tatoué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tatoué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tatoué(e)
+tu as été tatoué(e)
+il (elle) a été tatoué(e)
+nous avons été tatoué(e)s
+vous avez été tatoué(e)s
+ils (elles) ont été tatoué(e)s
+
+** Plus-que-parfait
+
+j'avais été tatoué(e)
+il (elle) avait été tatoué(e)
+nous avions été tatoué(e)s
+ils (elles) avaient été tatoué(e)s
+
+** Passé antérieur
+
+j'eus été tatoué(e)
+tu eus été tatoué(e)
+il (elle) eut été tatoué(e)
+nous eûmes été tatoué(e)s
+vous eûtes été tatoué(e)s
+ils (elles) eurent été tatoué(e)s
+
+** Futur antérieur
+
+j'aurai été tatoué(e)
+tu auras été tatoué(e)
+il (elle) aura été tatoué(e)
+nous aurons été tatoué(e)s
+vous aurez été tatoué(e)s
+ils (elles) auront été tatoué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tatoué(e)
+j'aurais été tatoué(e)
+il (elle) aurait été tatoué(e)
+nous aurions été tatoué(e)s
+vous auriez été tatoué(e)s
+ils (elles) auraient été tatoué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tatoué(e)
+que tu aies été tatoué(e)
+qu’il (elle) ait été tatoué(e)
+que nous ayons été tatoué(e)s
+que vous ayez été tatoué(e)s
+qu’ils (elles) aient été tatoué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tatoué(e)
+que tu eusses été tatoué(e)
+qu’il (elle) eût été tatoué(e)
+que nous eussions été tatoué(e)s
+que vous eussiez été tatoué(e)s
+qu’ils (elles) eussent été tatoué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tatoué(e)
+ayons été tatoué(e)s
+ayez été tatoué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tatoué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tatoué(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe errer
+
+* INDICATIF
+
+** Présent
+
+j'erre
+tu erres
+il (elle) erre
+nous errons
+vous errez
+ils (elles) errent
+
+** Imparfait
+
+j'errais
+tu errais
+il (elle) errait
+nous errions
+vous erriez
+ils (elles) erraient
+
+** Passé simple
+
+j'errai
+tu erras
+il (elle) erra
+nous errâmes
+vous errâtes
+ils (elles) errèrent
+
+** Futur simple
+
+j'errerai
+tu erreras
+il (elle) errera
+nous errerons
+vous errerez
+ils (elles) erreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'errerais
+tu errerais
+il (elle) errerait
+nous errerions
+vous erreriez
+ils (elles) erreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'erre
+que tu erres
+qu’il (elle) erre
+que nous errions
+que vous erriez
+qu’ils (elles) errent
+
+** Imparfait
+
+que j'errasse
+que tu errasses
+qu’il (elle) errât
+que nous errassions
+que vous errassiez
+qu’ils (elles) errassent
+
+* IMPÉRATIF
+
+** Présent
+
+erre
+errons
+errez
+
+* INFINITIF
+
+** Présent
+
+errer
+
+* PARTICIPE
+
+** Présent
+
+errant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai erré
+tu as erré
+il (elle) a erré
+nous avons erré
+vous avez erré
+ils (elles) ont erré
+
+** Plus-que-parfait
+
+j'avais erré
+tu avais erré
+il (elle) avait erré
+nous avions erré
+vous aviez erré
+ils (elles) avaient erré
+
+** Passé antérieur
+
+j'eus erré
+tu eus erré
+il (elle) eut erré
+nous eûmes erré
+vous eûtes erré
+ils (elles) eurent erré
+
+** Futur antérieur
+
+j'aurai erré
+tu auras erré
+il (elle) aura erré
+nous aurons erré
+vous aurez erré
+ils (elles) auront erré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais erré
+tu aurais erré
+il (elle) aurait erré
+nous aurions erré
+vous auriez erré
+ils (elles) auraient erré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie erré
+que tu aies erré
+qu’il (elle) ait erré
+que nous ayons erré
+que vous ayez erré
+qu’ils (elles) aient erré
+
+** Plus-que-parfait
+
+que j'eusse erré
+que tu eusses erré
+qu’il (elle) eût erré
+que nous eussions erré
+que vous eussiez erré
+qu’ils (elles) eussent erré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons erré
+ayez erré
+
+* INFINITIF
+
+** Passé
+
+avoir erré
+
+* PARTICIPE
+
+** Passé
+
+ayant erré
+erré (invar.)

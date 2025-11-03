@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe laver
+
+* INDICATIF
+
+** Présent
+
+je lave
+tu laves
+il (elle) lave
+nous lavons
+vous lavez
+ils (elles) lavent
+
+** Imparfait
+
+je lavais
+tu lavais
+il (elle) lavait
+nous lavions
+vous laviez
+ils (elles) lavaient
+
+** Passé simple
+
+je lavai
+tu lavas
+il (elle) lava
+nous lavâmes
+vous lavâtes
+ils (elles) lavèrent
+
+** Futur simple
+
+je laverai
+tu laveras
+il (elle) lavera
+nous laverons
+vous laverez
+ils (elles) laveront
+
+* CONDITIONNEL
+
+** Présent
+
+je laverais
+tu laverais
+il (elle) laverait
+nous laverions
+vous laveriez
+ils (elles) laveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lave
+que tu laves
+qu’il (elle) lave
+que nous lavions
+que vous laviez
+qu’ils (elles) lavent
+
+** Imparfait
+
+que je lavasse
+que tu lavasses
+qu’il (elle) lavât
+que nous lavassions
+que vous lavassiez
+qu’ils (elles) lavassent
+
+* IMPÉRATIF
+
+** Présent
+
+lave
+lavons
+lavez
+
+* INFINITIF
+
+** Présent
+
+laver
+
+* PARTICIPE
+
+** Présent
+
+lavant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lavé
+tu as lavé
+il (elle) a lavé
+nous avons lavé
+vous avez lavé
+ils (elles) ont lavé
+
+** Plus-que-parfait
+
+j'avais lavé
+tu avais lavé
+il (elle) avait lavé
+nous avions lavé
+vous aviez lavé
+ils (elles) avaient lavé
+
+** Passé antérieur
+
+j'eus lavé
+tu eus lavé
+il (elle) eut lavé
+nous eûmes lavé
+vous eûtes lavé
+ils (elles) eurent lavé
+
+** Futur antérieur
+
+j'aurai lavé
+tu auras lavé
+il (elle) aura lavé
+nous aurons lavé
+vous aurez lavé
+ils (elles) auront lavé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lavé
+tu aurais lavé
+il (elle) aurait lavé
+nous aurions lavé
+vous auriez lavé
+ils (elles) auraient lavé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lavé
+que tu aies lavé
+qu’il (elle) ait lavé
+que nous ayons lavé
+que vous ayez lavé
+qu’ils (elles) aient lavé
+
+** Plus-que-parfait
+
+que j'eusse lavé
+que tu eusses lavé
+qu’il (elle) eût lavé
+que nous eussions lavé
+que vous eussiez lavé
+qu’ils (elles) eussent lavé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lavé
+ayez lavé
+
+* INFINITIF
+
+** Passé
+
+avoir lavé
+
+* PARTICIPE
+
+** Passé
+
+ayant lavé
+lavé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lavé(e)
+tu es lavé(e)
+il (elle) est lavé(e)
+nous sommes lavé(e)s
+vous êtes lavé(e)s
+ils (elles) sont lavé(e)s
+
+** Imparfait
+
+j'étais lavé(e)
+tu étais lavé(e)
+il (elle) était lavé(e)
+nous étions lavé(e)s
+vous étiez lavé(e)s
+ils (elles) étaient lavé(e)s
+
+** Passé simple
+
+je fus lavé(e)
+tu fus lavé(e)
+il (elle) fut lavé(e)
+nous fûmes lavé(e)s
+vous fûtes lavé(e)s
+ils (elles) furent lavé(e)s
+
+** Futur simple
+
+je serai lavé(e)
+tu seras lavé(e)
+il (elle) sera lavé(e)
+nous serons lavé(e)s
+vous serez lavé(e)s
+ils (elles) seront lavé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lavé(e)
+tu serais lavé(e)
+il (elle) serait lavé(e)
+nous serions lavé(e)s
+vous seriez lavé(e)s
+ils (elles) seraient lavé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lavé(e)
+que tu sois lavé(e)
+qu’il (elle) soit lavé(e)
+que nous soyons lavé(e)s
+que vous soyez lavé(e)s
+qu’ils (elles) soient lavé(e)s
+
+** Imparfait
+
+que je fusse lavé(e)
+que tu fusses lavé(e)
+qu’il (elle) fût lavé(e)
+que nous fussions lavé(e)s
+que vous fussiez lavé(e)s
+qu’ils (elles) fussent lavé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lavé(e)s
+soyez lavé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lavé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lavé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lavé(e)
+tu as été lavé(e)
+il (elle) a été lavé(e)
+nous avons été lavé(e)s
+vous avez été lavé(e)s
+ils (elles) ont été lavé(e)s
+
+** Plus-que-parfait
+
+j'avais été lavé(e)
+il (elle) avait été lavé(e)
+nous avions été lavé(e)s
+ils (elles) avaient été lavé(e)s
+
+** Passé antérieur
+
+j'eus été lavé(e)
+tu eus été lavé(e)
+il (elle) eut été lavé(e)
+nous eûmes été lavé(e)s
+vous eûtes été lavé(e)s
+ils (elles) eurent été lavé(e)s
+
+** Futur antérieur
+
+j'aurai été lavé(e)
+tu auras été lavé(e)
+il (elle) aura été lavé(e)
+nous aurons été lavé(e)s
+vous aurez été lavé(e)s
+ils (elles) auront été lavé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lavé(e)
+j'aurais été lavé(e)
+il (elle) aurait été lavé(e)
+nous aurions été lavé(e)s
+vous auriez été lavé(e)s
+ils (elles) auraient été lavé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lavé(e)
+que tu aies été lavé(e)
+qu’il (elle) ait été lavé(e)
+que nous ayons été lavé(e)s
+que vous ayez été lavé(e)s
+qu’ils (elles) aient été lavé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lavé(e)
+que tu eusses été lavé(e)
+qu’il (elle) eût été lavé(e)
+que nous eussions été lavé(e)s
+que vous eussiez été lavé(e)s
+qu’ils (elles) eussent été lavé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lavé(e)
+ayons été lavé(e)s
+ayez été lavé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lavé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lavé(e)(s)

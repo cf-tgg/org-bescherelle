@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tendre
+
+* INDICATIF
+
+** Présent
+
+je tends
+tu tends
+il (elle) tend
+nous tendons
+vous tendez
+ils (elles) tendent
+
+** Imparfait
+
+je tendais
+tu tendais
+il (elle) tendait
+nous tendions
+vous tendiez
+ils (elles) tendaient
+
+** Passé simple
+
+je tendis
+tu tendis
+il (elle) tendit
+nous tendîmes
+vous tendîtes
+ils (elles) tendirent
+
+** Futur simple
+
+je tendrai
+tu tendras
+il (elle) tendra
+nous tendrons
+vous tendrez
+ils (elles) tendront
+
+* CONDITIONNEL
+
+** Présent
+
+je tendrais
+tu tendrais
+il (elle) tendrait
+nous tendrions
+vous tendriez
+ils (elles) tendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tende
+que tu tendes
+qu’il (elle) tende
+que nous tendions
+que vous tendiez
+qu’ils (elles) tendent
+
+** Imparfait
+
+que je tendisse
+que tu tendisses
+qu’il (elle) tendît
+que nous tendissions
+que vous tendissiez
+qu’ils (elles) tendissent
+
+* IMPÉRATIF
+
+** Présent
+
+tends
+tendons
+tendez
+
+* INFINITIF
+
+** Présent
+
+tendre
+
+* PARTICIPE
+
+** Présent
+
+tendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tendu
+tu as tendu
+il (elle) a tendu
+nous avons tendu
+vous avez tendu
+ils (elles) ont tendu
+
+** Plus-que-parfait
+
+j'avais tendu
+tu avais tendu
+il (elle) avait tendu
+nous avions tendu
+vous aviez tendu
+ils (elles) avaient tendu
+
+** Passé antérieur
+
+j'eus tendu
+tu eus tendu
+il (elle) eut tendu
+nous eûmes tendu
+vous eûtes tendu
+ils (elles) eurent tendu
+
+** Futur antérieur
+
+j'aurai tendu
+tu auras tendu
+il (elle) aura tendu
+nous aurons tendu
+vous aurez tendu
+ils (elles) auront tendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tendu
+tu aurais tendu
+il (elle) aurait tendu
+nous aurions tendu
+vous auriez tendu
+ils (elles) auraient tendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tendu
+que tu aies tendu
+qu’il (elle) ait tendu
+que nous ayons tendu
+que vous ayez tendu
+qu’ils (elles) aient tendu
+
+** Plus-que-parfait
+
+que j'eusse tendu
+que tu eusses tendu
+qu’il (elle) eût tendu
+que nous eussions tendu
+que vous eussiez tendu
+qu’ils (elles) eussent tendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tendu
+ayez tendu
+
+* INFINITIF
+
+** Passé
+
+avoir tendu
+
+* PARTICIPE
+
+** Passé
+
+ayant tendu
+tendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis tendu(e)
+tu es tendu(e)
+il (elle) est tendu(e)
+nous sommes tendu(e)s
+vous êtes tendu(e)s
+ils (elles) sont tendu(e)s
+
+** Imparfait
+
+j'étais tendu(e)
+tu étais tendu(e)
+il (elle) était tendu(e)
+nous étions tendu(e)s
+vous étiez tendu(e)s
+ils (elles) étaient tendu(e)s
+
+** Passé simple
+
+je fus tendu(e)
+tu fus tendu(e)
+il (elle) fut tendu(e)
+nous fûmes tendu(e)s
+vous fûtes tendu(e)s
+ils (elles) furent tendu(e)s
+
+** Futur simple
+
+je serai tendu(e)
+tu seras tendu(e)
+il (elle) sera tendu(e)
+nous serons tendu(e)s
+vous serez tendu(e)s
+ils (elles) seront tendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tendu(e)
+tu serais tendu(e)
+il (elle) serait tendu(e)
+nous serions tendu(e)s
+vous seriez tendu(e)s
+ils (elles) seraient tendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tendu(e)
+que tu sois tendu(e)
+qu’il (elle) soit tendu(e)
+que nous soyons tendu(e)s
+que vous soyez tendu(e)s
+qu’ils (elles) soient tendu(e)s
+
+** Imparfait
+
+que je fusse tendu(e)
+que tu fusses tendu(e)
+qu’il (elle) fût tendu(e)
+que nous fussions tendu(e)s
+que vous fussiez tendu(e)s
+qu’ils (elles) fussent tendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tendu(e)s
+soyez tendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être tendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tendu(e)
+tu as été tendu(e)
+il (elle) a été tendu(e)
+nous avons été tendu(e)s
+vous avez été tendu(e)s
+ils (elles) ont été tendu(e)s
+
+** Plus-que-parfait
+
+j'avais été tendu(e)
+il (elle) avait été tendu(e)
+nous avions été tendu(e)s
+ils (elles) avaient été tendu(e)s
+
+** Passé antérieur
+
+j'eus été tendu(e)
+tu eus été tendu(e)
+il (elle) eut été tendu(e)
+nous eûmes été tendu(e)s
+vous eûtes été tendu(e)s
+ils (elles) eurent été tendu(e)s
+
+** Futur antérieur
+
+j'aurai été tendu(e)
+tu auras été tendu(e)
+il (elle) aura été tendu(e)
+nous aurons été tendu(e)s
+vous aurez été tendu(e)s
+ils (elles) auront été tendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tendu(e)
+j'aurais été tendu(e)
+il (elle) aurait été tendu(e)
+nous aurions été tendu(e)s
+vous auriez été tendu(e)s
+ils (elles) auraient été tendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tendu(e)
+que tu aies été tendu(e)
+qu’il (elle) ait été tendu(e)
+que nous ayons été tendu(e)s
+que vous ayez été tendu(e)s
+qu’ils (elles) aient été tendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tendu(e)
+que tu eusses été tendu(e)
+qu’il (elle) eût été tendu(e)
+que nous eussions été tendu(e)s
+que vous eussiez été tendu(e)s
+qu’ils (elles) eussent été tendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tendu(e)
+ayons été tendu(e)s
+ayez été tendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tendu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aventurer
+
+* INDICATIF
+
+** Présent
+
+j'aventure
+tu aventures
+il (elle) aventure
+nous aventurons
+vous aventurez
+ils (elles) aventurent
+
+** Imparfait
+
+j'aventurais
+tu aventurais
+il (elle) aventurait
+nous aventurions
+vous aventuriez
+ils (elles) aventuraient
+
+** Passé simple
+
+j'aventurai
+tu aventuras
+il (elle) aventura
+nous aventurâmes
+vous aventurâtes
+ils (elles) aventurèrent
+
+** Futur simple
+
+j'aventurerai
+tu aventureras
+il (elle) aventurera
+nous aventurerons
+vous aventurerez
+ils (elles) aventureront
+
+* CONDITIONNEL
+
+** Présent
+
+j'aventurerais
+tu aventurerais
+il (elle) aventurerait
+nous aventurerions
+vous aventureriez
+ils (elles) aventureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aventure
+que tu aventures
+qu’il (elle) aventure
+que nous aventurions
+que vous aventuriez
+qu’ils (elles) aventurent
+
+** Imparfait
+
+que j'aventurasse
+que tu aventurasses
+qu’il (elle) aventurât
+que nous aventurassions
+que vous aventurassiez
+qu’ils (elles) aventurassent
+
+* IMPÉRATIF
+
+** Présent
+
+aventure
+aventurons
+aventurez
+
+* INFINITIF
+
+** Présent
+
+aventurer
+
+* PARTICIPE
+
+** Présent
+
+aventurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aventuré
+tu as aventuré
+il (elle) a aventuré
+nous avons aventuré
+vous avez aventuré
+ils (elles) ont aventuré
+
+** Plus-que-parfait
+
+j'avais aventuré
+tu avais aventuré
+il (elle) avait aventuré
+nous avions aventuré
+vous aviez aventuré
+ils (elles) avaient aventuré
+
+** Passé antérieur
+
+j'eus aventuré
+tu eus aventuré
+il (elle) eut aventuré
+nous eûmes aventuré
+vous eûtes aventuré
+ils (elles) eurent aventuré
+
+** Futur antérieur
+
+j'aurai aventuré
+tu auras aventuré
+il (elle) aura aventuré
+nous aurons aventuré
+vous aurez aventuré
+ils (elles) auront aventuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aventuré
+tu aurais aventuré
+il (elle) aurait aventuré
+nous aurions aventuré
+vous auriez aventuré
+ils (elles) auraient aventuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aventuré
+que tu aies aventuré
+qu’il (elle) ait aventuré
+que nous ayons aventuré
+que vous ayez aventuré
+qu’ils (elles) aient aventuré
+
+** Plus-que-parfait
+
+que j'eusse aventuré
+que tu eusses aventuré
+qu’il (elle) eût aventuré
+que nous eussions aventuré
+que vous eussiez aventuré
+qu’ils (elles) eussent aventuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aventuré
+ayez aventuré
+
+* INFINITIF
+
+** Passé
+
+avoir aventuré
+
+* PARTICIPE
+
+** Passé
+
+ayant aventuré
+aventuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aventuré(e)
+tu es aventuré(e)
+il (elle) est aventuré(e)
+nous sommes aventuré(e)s
+vous êtes aventuré(e)s
+ils (elles) sont aventuré(e)s
+
+** Imparfait
+
+j'étais aventuré(e)
+tu étais aventuré(e)
+il (elle) était aventuré(e)
+nous étions aventuré(e)s
+vous étiez aventuré(e)s
+ils (elles) étaient aventuré(e)s
+
+** Passé simple
+
+je fus aventuré(e)
+tu fus aventuré(e)
+il (elle) fut aventuré(e)
+nous fûmes aventuré(e)s
+vous fûtes aventuré(e)s
+ils (elles) furent aventuré(e)s
+
+** Futur simple
+
+je serai aventuré(e)
+tu seras aventuré(e)
+il (elle) sera aventuré(e)
+nous serons aventuré(e)s
+vous serez aventuré(e)s
+ils (elles) seront aventuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aventuré(e)
+tu serais aventuré(e)
+il (elle) serait aventuré(e)
+nous serions aventuré(e)s
+vous seriez aventuré(e)s
+ils (elles) seraient aventuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aventuré(e)
+que tu sois aventuré(e)
+qu’il (elle) soit aventuré(e)
+que nous soyons aventuré(e)s
+que vous soyez aventuré(e)s
+qu’ils (elles) soient aventuré(e)s
+
+** Imparfait
+
+que je fusse aventuré(e)
+que tu fusses aventuré(e)
+qu’il (elle) fût aventuré(e)
+que nous fussions aventuré(e)s
+que vous fussiez aventuré(e)s
+qu’ils (elles) fussent aventuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aventuré(e)s
+soyez aventuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être aventuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aventuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aventuré(e)
+tu as été aventuré(e)
+il (elle) a été aventuré(e)
+nous avons été aventuré(e)s
+vous avez été aventuré(e)s
+ils (elles) ont été aventuré(e)s
+
+** Plus-que-parfait
+
+j'avais été aventuré(e)
+il (elle) avait été aventuré(e)
+nous avions été aventuré(e)s
+ils (elles) avaient été aventuré(e)s
+
+** Passé antérieur
+
+j'eus été aventuré(e)
+tu eus été aventuré(e)
+il (elle) eut été aventuré(e)
+nous eûmes été aventuré(e)s
+vous eûtes été aventuré(e)s
+ils (elles) eurent été aventuré(e)s
+
+** Futur antérieur
+
+j'aurai été aventuré(e)
+tu auras été aventuré(e)
+il (elle) aura été aventuré(e)
+nous aurons été aventuré(e)s
+vous aurez été aventuré(e)s
+ils (elles) auront été aventuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aventuré(e)
+j'aurais été aventuré(e)
+il (elle) aurait été aventuré(e)
+nous aurions été aventuré(e)s
+vous auriez été aventuré(e)s
+ils (elles) auraient été aventuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aventuré(e)
+que tu aies été aventuré(e)
+qu’il (elle) ait été aventuré(e)
+que nous ayons été aventuré(e)s
+que vous ayez été aventuré(e)s
+qu’ils (elles) aient été aventuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aventuré(e)
+que tu eusses été aventuré(e)
+qu’il (elle) eût été aventuré(e)
+que nous eussions été aventuré(e)s
+que vous eussiez été aventuré(e)s
+qu’ils (elles) eussent été aventuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aventuré(e)
+ayons été aventuré(e)s
+ayez été aventuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aventuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aventuré(e)(s)

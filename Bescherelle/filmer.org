@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe filmer
+
+* INDICATIF
+
+** Présent
+
+je filme
+tu filmes
+il (elle) filme
+nous filmons
+vous filmez
+ils (elles) filment
+
+** Imparfait
+
+je filmais
+tu filmais
+il (elle) filmait
+nous filmions
+vous filmiez
+ils (elles) filmaient
+
+** Passé simple
+
+je filmai
+tu filmas
+il (elle) filma
+nous filmâmes
+vous filmâtes
+ils (elles) filmèrent
+
+** Futur simple
+
+je filmerai
+tu filmeras
+il (elle) filmera
+nous filmerons
+vous filmerez
+ils (elles) filmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je filmerais
+tu filmerais
+il (elle) filmerait
+nous filmerions
+vous filmeriez
+ils (elles) filmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je filme
+que tu filmes
+qu’il (elle) filme
+que nous filmions
+que vous filmiez
+qu’ils (elles) filment
+
+** Imparfait
+
+que je filmasse
+que tu filmasses
+qu’il (elle) filmât
+que nous filmassions
+que vous filmassiez
+qu’ils (elles) filmassent
+
+* IMPÉRATIF
+
+** Présent
+
+filme
+filmons
+filmez
+
+* INFINITIF
+
+** Présent
+
+filmer
+
+* PARTICIPE
+
+** Présent
+
+filmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai filmé
+tu as filmé
+il (elle) a filmé
+nous avons filmé
+vous avez filmé
+ils (elles) ont filmé
+
+** Plus-que-parfait
+
+j'avais filmé
+tu avais filmé
+il (elle) avait filmé
+nous avions filmé
+vous aviez filmé
+ils (elles) avaient filmé
+
+** Passé antérieur
+
+j'eus filmé
+tu eus filmé
+il (elle) eut filmé
+nous eûmes filmé
+vous eûtes filmé
+ils (elles) eurent filmé
+
+** Futur antérieur
+
+j'aurai filmé
+tu auras filmé
+il (elle) aura filmé
+nous aurons filmé
+vous aurez filmé
+ils (elles) auront filmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais filmé
+tu aurais filmé
+il (elle) aurait filmé
+nous aurions filmé
+vous auriez filmé
+ils (elles) auraient filmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie filmé
+que tu aies filmé
+qu’il (elle) ait filmé
+que nous ayons filmé
+que vous ayez filmé
+qu’ils (elles) aient filmé
+
+** Plus-que-parfait
+
+que j'eusse filmé
+que tu eusses filmé
+qu’il (elle) eût filmé
+que nous eussions filmé
+que vous eussiez filmé
+qu’ils (elles) eussent filmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons filmé
+ayez filmé
+
+* INFINITIF
+
+** Passé
+
+avoir filmé
+
+* PARTICIPE
+
+** Passé
+
+ayant filmé
+filmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis filmé(e)
+tu es filmé(e)
+il (elle) est filmé(e)
+nous sommes filmé(e)s
+vous êtes filmé(e)s
+ils (elles) sont filmé(e)s
+
+** Imparfait
+
+j'étais filmé(e)
+tu étais filmé(e)
+il (elle) était filmé(e)
+nous étions filmé(e)s
+vous étiez filmé(e)s
+ils (elles) étaient filmé(e)s
+
+** Passé simple
+
+je fus filmé(e)
+tu fus filmé(e)
+il (elle) fut filmé(e)
+nous fûmes filmé(e)s
+vous fûtes filmé(e)s
+ils (elles) furent filmé(e)s
+
+** Futur simple
+
+je serai filmé(e)
+tu seras filmé(e)
+il (elle) sera filmé(e)
+nous serons filmé(e)s
+vous serez filmé(e)s
+ils (elles) seront filmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais filmé(e)
+tu serais filmé(e)
+il (elle) serait filmé(e)
+nous serions filmé(e)s
+vous seriez filmé(e)s
+ils (elles) seraient filmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois filmé(e)
+que tu sois filmé(e)
+qu’il (elle) soit filmé(e)
+que nous soyons filmé(e)s
+que vous soyez filmé(e)s
+qu’ils (elles) soient filmé(e)s
+
+** Imparfait
+
+que je fusse filmé(e)
+que tu fusses filmé(e)
+qu’il (elle) fût filmé(e)
+que nous fussions filmé(e)s
+que vous fussiez filmé(e)s
+qu’ils (elles) fussent filmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons filmé(e)s
+soyez filmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être filmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant filmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été filmé(e)
+tu as été filmé(e)
+il (elle) a été filmé(e)
+nous avons été filmé(e)s
+vous avez été filmé(e)s
+ils (elles) ont été filmé(e)s
+
+** Plus-que-parfait
+
+j'avais été filmé(e)
+il (elle) avait été filmé(e)
+nous avions été filmé(e)s
+ils (elles) avaient été filmé(e)s
+
+** Passé antérieur
+
+j'eus été filmé(e)
+tu eus été filmé(e)
+il (elle) eut été filmé(e)
+nous eûmes été filmé(e)s
+vous eûtes été filmé(e)s
+ils (elles) eurent été filmé(e)s
+
+** Futur antérieur
+
+j'aurai été filmé(e)
+tu auras été filmé(e)
+il (elle) aura été filmé(e)
+nous aurons été filmé(e)s
+vous aurez été filmé(e)s
+ils (elles) auront été filmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été filmé(e)
+j'aurais été filmé(e)
+il (elle) aurait été filmé(e)
+nous aurions été filmé(e)s
+vous auriez été filmé(e)s
+ils (elles) auraient été filmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été filmé(e)
+que tu aies été filmé(e)
+qu’il (elle) ait été filmé(e)
+que nous ayons été filmé(e)s
+que vous ayez été filmé(e)s
+qu’ils (elles) aient été filmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été filmé(e)
+que tu eusses été filmé(e)
+qu’il (elle) eût été filmé(e)
+que nous eussions été filmé(e)s
+que vous eussiez été filmé(e)s
+qu’ils (elles) eussent été filmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été filmé(e)
+ayons été filmé(e)s
+ayez été filmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été filmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été filmé(e)(s)

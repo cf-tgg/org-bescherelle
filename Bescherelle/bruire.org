@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe bruire
+
+* INDICATIF
+
+** Présent
+
+je bruis
+tu bruis
+il (elle) bruit
+nous bruissons
+vous bruissez
+ils (elles) bruissent
+
+** Imparfait
+
+je bruissais
+tu bruissais
+il (elle) bruissait
+nous bruissions
+vous bruissiez
+ils (elles) bruissaient
+
+** Passé simple
+
+je bruis
+tu bruis
+il (elle) bruit
+nous bruîmes
+vous bruîtes
+ils (elles) bruirent
+
+** Futur simple
+
+je bruirai
+tu bruiras
+il (elle) bruira
+nous bruirons
+vous bruirez
+ils (elles) bruiront
+
+* CONDITIONNEL
+
+** Présent
+
+je bruirais
+tu bruirais
+il (elle) bruirait
+nous bruirions
+vous bruiriez
+ils (elles) bruiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bruisse
+que tu bruisses
+qu’il (elle) bruisse
+que nous bruissions
+que vous bruissiez
+qu’ils (elles) bruissent
+
+** Imparfait
+
+que je bruisse
+que tu bruisses
+qu’il (elle) bruît
+que nous bruissions
+que vous bruissiez
+qu’ils (elles) bruissent
+
+* IMPÉRATIF
+
+** Présent
+
+bruis
+bruissons
+bruissez
+
+* INFINITIF
+
+** Présent
+
+bruire
+
+* PARTICIPE
+
+** Présent
+
+bruissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brui
+tu as brui
+il (elle) a brui
+nous avons brui
+vous avez brui
+ils (elles) ont brui
+
+** Plus-que-parfait
+
+j'avais brui
+tu avais brui
+il (elle) avait brui
+nous avions brui
+vous aviez brui
+ils (elles) avaient brui
+
+** Passé antérieur
+
+j'eus brui
+tu eus brui
+il (elle) eut brui
+nous eûmes brui
+vous eûtes brui
+ils (elles) eurent brui
+
+** Futur antérieur
+
+j'aurai brui
+tu auras brui
+il (elle) aura brui
+nous aurons brui
+vous aurez brui
+ils (elles) auront brui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brui
+tu aurais brui
+il (elle) aurait brui
+nous aurions brui
+vous auriez brui
+ils (elles) auraient brui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brui
+que tu aies brui
+qu’il (elle) ait brui
+que nous ayons brui
+que vous ayez brui
+qu’ils (elles) aient brui
+
+** Plus-que-parfait
+
+que j'eusse brui
+que tu eusses brui
+qu’il (elle) eût brui
+que nous eussions brui
+que vous eussiez brui
+qu’ils (elles) eussent brui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brui
+ayez brui
+
+* INFINITIF
+
+** Passé
+
+avoir brui
+
+* PARTICIPE
+
+** Passé
+
+ayant brui
+brui (invar.)

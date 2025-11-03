@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ennuyer
+
+* INDICATIF
+
+** Présent
+
+j'ennuie
+tu ennuies
+il (elle) ennuie
+nous ennuyons
+vous ennuyez
+ils (elles) ennuient
+
+** Imparfait
+
+j'ennuyais
+tu ennuyais
+il (elle) ennuyait
+nous ennuyions
+vous ennuyiez
+ils (elles) ennuyaient
+
+** Passé simple
+
+j'ennuyai
+tu ennuyas
+il (elle) ennuya
+nous ennuyâmes
+vous ennuyâtes
+ils (elles) ennuyèrent
+
+** Futur simple
+
+j'ennuierai
+tu ennuieras
+il (elle) ennuiera
+nous ennuierons
+vous ennuierez
+ils (elles) ennuieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ennuierais
+tu ennuierais
+il (elle) ennuierait
+nous ennuierions
+vous ennuieriez
+ils (elles) ennuieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ennuie
+que tu ennuies
+qu’il (elle) ennuie
+que nous ennuyions
+que vous ennuyiez
+qu’ils (elles) ennuient
+
+** Imparfait
+
+que j'ennuyasse
+que tu ennuyasses
+qu’il (elle) ennuyât
+que nous ennuyassions
+que vous ennuyassiez
+qu’ils (elles) ennuyassent
+
+* IMPÉRATIF
+
+** Présent
+
+ennuie
+ennuyons
+ennuyez
+
+* INFINITIF
+
+** Présent
+
+ennuyer
+
+* PARTICIPE
+
+** Présent
+
+ennuyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ennuyé
+tu as ennuyé
+il (elle) a ennuyé
+nous avons ennuyé
+vous avez ennuyé
+ils (elles) ont ennuyé
+
+** Plus-que-parfait
+
+j'avais ennuyé
+tu avais ennuyé
+il (elle) avait ennuyé
+nous avions ennuyé
+vous aviez ennuyé
+ils (elles) avaient ennuyé
+
+** Passé antérieur
+
+j'eus ennuyé
+tu eus ennuyé
+il (elle) eut ennuyé
+nous eûmes ennuyé
+vous eûtes ennuyé
+ils (elles) eurent ennuyé
+
+** Futur antérieur
+
+j'aurai ennuyé
+tu auras ennuyé
+il (elle) aura ennuyé
+nous aurons ennuyé
+vous aurez ennuyé
+ils (elles) auront ennuyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ennuyé
+tu aurais ennuyé
+il (elle) aurait ennuyé
+nous aurions ennuyé
+vous auriez ennuyé
+ils (elles) auraient ennuyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ennuyé
+que tu aies ennuyé
+qu’il (elle) ait ennuyé
+que nous ayons ennuyé
+que vous ayez ennuyé
+qu’ils (elles) aient ennuyé
+
+** Plus-que-parfait
+
+que j'eusse ennuyé
+que tu eusses ennuyé
+qu’il (elle) eût ennuyé
+que nous eussions ennuyé
+que vous eussiez ennuyé
+qu’ils (elles) eussent ennuyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ennuyé
+ayez ennuyé
+
+* INFINITIF
+
+** Passé
+
+avoir ennuyé
+
+* PARTICIPE
+
+** Passé
+
+ayant ennuyé
+ennuyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ennuyé(e)
+tu es ennuyé(e)
+il (elle) est ennuyé(e)
+nous sommes ennuyé(e)s
+vous êtes ennuyé(e)s
+ils (elles) sont ennuyé(e)s
+
+** Imparfait
+
+j'étais ennuyé(e)
+tu étais ennuyé(e)
+il (elle) était ennuyé(e)
+nous étions ennuyé(e)s
+vous étiez ennuyé(e)s
+ils (elles) étaient ennuyé(e)s
+
+** Passé simple
+
+je fus ennuyé(e)
+tu fus ennuyé(e)
+il (elle) fut ennuyé(e)
+nous fûmes ennuyé(e)s
+vous fûtes ennuyé(e)s
+ils (elles) furent ennuyé(e)s
+
+** Futur simple
+
+je serai ennuyé(e)
+tu seras ennuyé(e)
+il (elle) sera ennuyé(e)
+nous serons ennuyé(e)s
+vous serez ennuyé(e)s
+ils (elles) seront ennuyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ennuyé(e)
+tu serais ennuyé(e)
+il (elle) serait ennuyé(e)
+nous serions ennuyé(e)s
+vous seriez ennuyé(e)s
+ils (elles) seraient ennuyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ennuyé(e)
+que tu sois ennuyé(e)
+qu’il (elle) soit ennuyé(e)
+que nous soyons ennuyé(e)s
+que vous soyez ennuyé(e)s
+qu’ils (elles) soient ennuyé(e)s
+
+** Imparfait
+
+que je fusse ennuyé(e)
+que tu fusses ennuyé(e)
+qu’il (elle) fût ennuyé(e)
+que nous fussions ennuyé(e)s
+que vous fussiez ennuyé(e)s
+qu’ils (elles) fussent ennuyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ennuyé(e)s
+soyez ennuyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ennuyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ennuyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ennuyé(e)
+tu as été ennuyé(e)
+il (elle) a été ennuyé(e)
+nous avons été ennuyé(e)s
+vous avez été ennuyé(e)s
+ils (elles) ont été ennuyé(e)s
+
+** Plus-que-parfait
+
+j'avais été ennuyé(e)
+il (elle) avait été ennuyé(e)
+nous avions été ennuyé(e)s
+ils (elles) avaient été ennuyé(e)s
+
+** Passé antérieur
+
+j'eus été ennuyé(e)
+tu eus été ennuyé(e)
+il (elle) eut été ennuyé(e)
+nous eûmes été ennuyé(e)s
+vous eûtes été ennuyé(e)s
+ils (elles) eurent été ennuyé(e)s
+
+** Futur antérieur
+
+j'aurai été ennuyé(e)
+tu auras été ennuyé(e)
+il (elle) aura été ennuyé(e)
+nous aurons été ennuyé(e)s
+vous aurez été ennuyé(e)s
+ils (elles) auront été ennuyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ennuyé(e)
+j'aurais été ennuyé(e)
+il (elle) aurait été ennuyé(e)
+nous aurions été ennuyé(e)s
+vous auriez été ennuyé(e)s
+ils (elles) auraient été ennuyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ennuyé(e)
+que tu aies été ennuyé(e)
+qu’il (elle) ait été ennuyé(e)
+que nous ayons été ennuyé(e)s
+que vous ayez été ennuyé(e)s
+qu’ils (elles) aient été ennuyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ennuyé(e)
+que tu eusses été ennuyé(e)
+qu’il (elle) eût été ennuyé(e)
+que nous eussions été ennuyé(e)s
+que vous eussiez été ennuyé(e)s
+qu’ils (elles) eussent été ennuyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ennuyé(e)
+ayons été ennuyé(e)s
+ayez été ennuyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ennuyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ennuyé(e)(s)

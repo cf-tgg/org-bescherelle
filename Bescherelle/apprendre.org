@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apprendre
+
+* INDICATIF
+
+** Présent
+
+j'apprends
+tu apprends
+il (elle) apprend
+nous apprenons
+vous apprenez
+ils (elles) apprennent
+
+** Imparfait
+
+j'apprenais
+tu apprenais
+il (elle) apprenait
+nous apprenions
+vous appreniez
+ils (elles) apprenaient
+
+** Passé simple
+
+j'appris
+tu appris
+il (elle) apprit
+nous apprîmes
+vous apprîtes
+ils (elles) apprirent
+
+** Futur simple
+
+j'apprendrai
+tu apprendras
+il (elle) apprendra
+nous apprendrons
+vous apprendrez
+ils (elles) apprendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apprendrais
+tu apprendrais
+il (elle) apprendrait
+nous apprendrions
+vous apprendriez
+ils (elles) apprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apprenne
+que tu apprennes
+qu’il (elle) apprenne
+que nous apprenions
+que vous appreniez
+qu’ils (elles) apprennent
+
+** Imparfait
+
+que j'apprisse
+que tu apprisses
+qu’il (elle) apprît
+que nous apprissions
+que vous apprissiez
+qu’ils (elles) apprissent
+
+* IMPÉRATIF
+
+** Présent
+
+apprends
+apprenons
+apprenez
+
+* INFINITIF
+
+** Présent
+
+apprendre
+
+* PARTICIPE
+
+** Présent
+
+apprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai appris
+tu as appris
+il (elle) a appris
+nous avons appris
+vous avez appris
+ils (elles) ont appris
+
+** Plus-que-parfait
+
+j'avais appris
+tu avais appris
+il (elle) avait appris
+nous avions appris
+vous aviez appris
+ils (elles) avaient appris
+
+** Passé antérieur
+
+j'eus appris
+tu eus appris
+il (elle) eut appris
+nous eûmes appris
+vous eûtes appris
+ils (elles) eurent appris
+
+** Futur antérieur
+
+j'aurai appris
+tu auras appris
+il (elle) aura appris
+nous aurons appris
+vous aurez appris
+ils (elles) auront appris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais appris
+tu aurais appris
+il (elle) aurait appris
+nous aurions appris
+vous auriez appris
+ils (elles) auraient appris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie appris
+que tu aies appris
+qu’il (elle) ait appris
+que nous ayons appris
+que vous ayez appris
+qu’ils (elles) aient appris
+
+** Plus-que-parfait
+
+que j'eusse appris
+que tu eusses appris
+qu’il (elle) eût appris
+que nous eussions appris
+que vous eussiez appris
+qu’ils (elles) eussent appris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons appris
+ayez appris
+
+* INFINITIF
+
+** Passé
+
+avoir appris
+
+* PARTICIPE
+
+** Passé
+
+ayant appris
+appris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis appris(e)
+tu es appris(e)
+il (elle) est appris(e)
+nous sommes appris(es)
+vous êtes appris(es)
+ils (elles) sont appris(es)
+
+** Imparfait
+
+j'étais appris(e)
+tu étais appris(e)
+il (elle) était appris(e)
+nous étions appris(es)
+vous étiez appris(es)
+ils (elles) étaient appris(es)
+
+** Passé simple
+
+je fus appris(e)
+tu fus appris(e)
+il (elle) fut appris(e)
+nous fûmes appris(es)
+vous fûtes appris(es)
+ils (elles) furent appris(es)
+
+** Futur simple
+
+je serai appris(e)
+tu seras appris(e)
+il (elle) sera appris(e)
+nous serons appris(es)
+vous serez appris(es)
+ils (elles) seront appris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais appris(e)
+tu serais appris(e)
+il (elle) serait appris(e)
+nous serions appris(es)
+vous seriez appris(es)
+ils (elles) seraient appris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois appris(e)
+que tu sois appris(e)
+qu’il (elle) soit appris(e)
+que nous soyons appris(es)
+que vous soyez appris(es)
+qu’ils (elles) soient appris(es)
+
+** Imparfait
+
+que je fusse appris(e)
+que tu fusses appris(e)
+qu’il (elle) fût appris(e)
+que nous fussions appris(es)
+que vous fussiez appris(es)
+qu’ils (elles) fussent appris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons appris(es)
+soyez appris(es)
+
+* INFINITIF
+
+** Présent
+
+être appris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant appris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été appris(e)
+tu as été appris(e)
+il (elle) a été appris(e)
+nous avons été appris(es)
+vous avez été appris(es)
+ils (elles) ont été appris(es)
+
+** Plus-que-parfait
+
+j'avais été appris(e)
+il (elle) avait été appris(e)
+nous avions été appris(es)
+ils (elles) avaient été appris(es)
+
+** Passé antérieur
+
+j'eus été appris(e)
+tu eus été appris(e)
+il (elle) eut été appris(e)
+nous eûmes été appris(es)
+vous eûtes été appris(es)
+ils (elles) eurent été appris(es)
+
+** Futur antérieur
+
+j'aurai été appris(e)
+tu auras été appris(e)
+il (elle) aura été appris(e)
+nous aurons été appris(es)
+vous aurez été appris(es)
+ils (elles) auront été appris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été appris(e)
+j'aurais été appris(e)
+il (elle) aurait été appris(e)
+nous aurions été appris(es)
+vous auriez été appris(es)
+ils (elles) auraient été appris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été appris(e)
+que tu aies été appris(e)
+qu’il (elle) ait été appris(e)
+que nous ayons été appris(es)
+que vous ayez été appris(es)
+qu’ils (elles) aient été appris(es)
+
+** Plus-que-parfait
+
+que j'eusse été appris(e)
+que tu eusses été appris(e)
+qu’il (elle) eût été appris(e)
+que nous eussions été appris(es)
+que vous eussiez été appris(es)
+qu’ils (elles) eussent été appris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été appris(e)
+ayons été appris(es)
+ayez été appris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été appris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été appris (s, se, s, ses)

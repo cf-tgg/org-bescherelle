@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bailler
+
+* INDICATIF
+
+** Présent
+
+je baille
+tu bailles
+il (elle) baille
+nous baillons
+vous baillez
+ils (elles) baillent
+
+** Imparfait
+
+je baillais
+tu baillais
+il (elle) baillait
+nous baillions
+vous bailliez
+ils (elles) baillaient
+
+** Passé simple
+
+je baillai
+tu baillas
+il (elle) bailla
+nous baillâmes
+vous baillâtes
+ils (elles) baillèrent
+
+** Futur simple
+
+je baillerai
+tu bailleras
+il (elle) baillera
+nous baillerons
+vous baillerez
+ils (elles) bailleront
+
+* CONDITIONNEL
+
+** Présent
+
+je baillerais
+tu baillerais
+il (elle) baillerait
+nous baillerions
+vous bailleriez
+ils (elles) bailleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je baille
+que tu bailles
+qu’il (elle) baille
+que nous baillions
+que vous bailliez
+qu’ils (elles) baillent
+
+** Imparfait
+
+que je baillasse
+que tu baillasses
+qu’il (elle) baillât
+que nous baillassions
+que vous baillassiez
+qu’ils (elles) baillassent
+
+* IMPÉRATIF
+
+** Présent
+
+baille
+baillons
+baillez
+
+* INFINITIF
+
+** Présent
+
+bailler
+
+* PARTICIPE
+
+** Présent
+
+baillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai baillé
+tu as baillé
+il (elle) a baillé
+nous avons baillé
+vous avez baillé
+ils (elles) ont baillé
+
+** Plus-que-parfait
+
+j'avais baillé
+tu avais baillé
+il (elle) avait baillé
+nous avions baillé
+vous aviez baillé
+ils (elles) avaient baillé
+
+** Passé antérieur
+
+j'eus baillé
+tu eus baillé
+il (elle) eut baillé
+nous eûmes baillé
+vous eûtes baillé
+ils (elles) eurent baillé
+
+** Futur antérieur
+
+j'aurai baillé
+tu auras baillé
+il (elle) aura baillé
+nous aurons baillé
+vous aurez baillé
+ils (elles) auront baillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais baillé
+tu aurais baillé
+il (elle) aurait baillé
+nous aurions baillé
+vous auriez baillé
+ils (elles) auraient baillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie baillé
+que tu aies baillé
+qu’il (elle) ait baillé
+que nous ayons baillé
+que vous ayez baillé
+qu’ils (elles) aient baillé
+
+** Plus-que-parfait
+
+que j'eusse baillé
+que tu eusses baillé
+qu’il (elle) eût baillé
+que nous eussions baillé
+que vous eussiez baillé
+qu’ils (elles) eussent baillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons baillé
+ayez baillé
+
+* INFINITIF
+
+** Passé
+
+avoir baillé
+
+* PARTICIPE
+
+** Passé
+
+ayant baillé
+baillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis baillé(e)
+tu es baillé(e)
+il (elle) est baillé(e)
+nous sommes baillé(e)s
+vous êtes baillé(e)s
+ils (elles) sont baillé(e)s
+
+** Imparfait
+
+j'étais baillé(e)
+tu étais baillé(e)
+il (elle) était baillé(e)
+nous étions baillé(e)s
+vous étiez baillé(e)s
+ils (elles) étaient baillé(e)s
+
+** Passé simple
+
+je fus baillé(e)
+tu fus baillé(e)
+il (elle) fut baillé(e)
+nous fûmes baillé(e)s
+vous fûtes baillé(e)s
+ils (elles) furent baillé(e)s
+
+** Futur simple
+
+je serai baillé(e)
+tu seras baillé(e)
+il (elle) sera baillé(e)
+nous serons baillé(e)s
+vous serez baillé(e)s
+ils (elles) seront baillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais baillé(e)
+tu serais baillé(e)
+il (elle) serait baillé(e)
+nous serions baillé(e)s
+vous seriez baillé(e)s
+ils (elles) seraient baillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois baillé(e)
+que tu sois baillé(e)
+qu’il (elle) soit baillé(e)
+que nous soyons baillé(e)s
+que vous soyez baillé(e)s
+qu’ils (elles) soient baillé(e)s
+
+** Imparfait
+
+que je fusse baillé(e)
+que tu fusses baillé(e)
+qu’il (elle) fût baillé(e)
+que nous fussions baillé(e)s
+que vous fussiez baillé(e)s
+qu’ils (elles) fussent baillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons baillé(e)s
+soyez baillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être baillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant baillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été baillé(e)
+tu as été baillé(e)
+il (elle) a été baillé(e)
+nous avons été baillé(e)s
+vous avez été baillé(e)s
+ils (elles) ont été baillé(e)s
+
+** Plus-que-parfait
+
+j'avais été baillé(e)
+il (elle) avait été baillé(e)
+nous avions été baillé(e)s
+ils (elles) avaient été baillé(e)s
+
+** Passé antérieur
+
+j'eus été baillé(e)
+tu eus été baillé(e)
+il (elle) eut été baillé(e)
+nous eûmes été baillé(e)s
+vous eûtes été baillé(e)s
+ils (elles) eurent été baillé(e)s
+
+** Futur antérieur
+
+j'aurai été baillé(e)
+tu auras été baillé(e)
+il (elle) aura été baillé(e)
+nous aurons été baillé(e)s
+vous aurez été baillé(e)s
+ils (elles) auront été baillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été baillé(e)
+j'aurais été baillé(e)
+il (elle) aurait été baillé(e)
+nous aurions été baillé(e)s
+vous auriez été baillé(e)s
+ils (elles) auraient été baillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été baillé(e)
+que tu aies été baillé(e)
+qu’il (elle) ait été baillé(e)
+que nous ayons été baillé(e)s
+que vous ayez été baillé(e)s
+qu’ils (elles) aient été baillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été baillé(e)
+que tu eusses été baillé(e)
+qu’il (elle) eût été baillé(e)
+que nous eussions été baillé(e)s
+que vous eussiez été baillé(e)s
+qu’ils (elles) eussent été baillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été baillé(e)
+ayons été baillé(e)s
+ayez été baillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été baillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été baillé(e)(s)

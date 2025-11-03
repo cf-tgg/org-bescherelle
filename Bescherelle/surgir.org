@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe surgir
+
+* INDICATIF
+
+** Présent
+
+je surgis
+tu surgis
+il (elle) surgit
+nous surgissons
+vous surgissez
+ils (elles) surgissent
+
+** Imparfait
+
+je surgissais
+tu surgissais
+il (elle) surgissait
+nous surgissions
+vous surgissiez
+ils (elles) surgissaient
+
+** Passé simple
+
+je surgis
+tu surgis
+il (elle) surgit
+nous surgîmes
+vous surgîtes
+ils (elles) surgirent
+
+** Futur simple
+
+je surgirai
+tu surgiras
+il (elle) surgira
+nous surgirons
+vous surgirez
+ils (elles) surgiront
+
+* CONDITIONNEL
+
+** Présent
+
+je surgirais
+tu surgirais
+il (elle) surgirait
+nous surgirions
+vous surgiriez
+ils (elles) surgiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je surgisse
+que tu surgisses
+qu’il (elle) surgisse
+que nous surgissions
+que vous surgissiez
+qu’ils (elles) surgissent
+
+** Imparfait
+
+que je surgisse
+que tu surgisses
+qu’il (elle) surgît
+que nous surgissions
+que vous surgissiez
+qu’ils (elles) surgissent
+
+* IMPÉRATIF
+
+** Présent
+
+surgis
+surgissons
+surgissez
+
+* INFINITIF
+
+** Présent
+
+surgir
+
+* PARTICIPE
+
+** Présent
+
+surgissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai surgi
+tu as surgi
+il (elle) a surgi
+nous avons surgi
+vous avez surgi
+ils (elles) ont surgi
+
+** Plus-que-parfait
+
+j'avais surgi
+tu avais surgi
+il (elle) avait surgi
+nous avions surgi
+vous aviez surgi
+ils (elles) avaient surgi
+
+** Passé antérieur
+
+j'eus surgi
+tu eus surgi
+il (elle) eut surgi
+nous eûmes surgi
+vous eûtes surgi
+ils (elles) eurent surgi
+
+** Futur antérieur
+
+j'aurai surgi
+tu auras surgi
+il (elle) aura surgi
+nous aurons surgi
+vous aurez surgi
+ils (elles) auront surgi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais surgi
+tu aurais surgi
+il (elle) aurait surgi
+nous aurions surgi
+vous auriez surgi
+ils (elles) auraient surgi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie surgi
+que tu aies surgi
+qu’il (elle) ait surgi
+que nous ayons surgi
+que vous ayez surgi
+qu’ils (elles) aient surgi
+
+** Plus-que-parfait
+
+que j'eusse surgi
+que tu eusses surgi
+qu’il (elle) eût surgi
+que nous eussions surgi
+que vous eussiez surgi
+qu’ils (elles) eussent surgi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons surgi
+ayez surgi
+
+* INFINITIF
+
+** Passé
+
+avoir surgi
+
+* PARTICIPE
+
+** Passé
+
+ayant surgi
+surgi (invar.)

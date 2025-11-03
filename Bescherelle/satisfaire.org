@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe satisfaire
+
+* INDICATIF
+
+** Présent
+
+je satisfais
+tu satisfais
+il (elle) satisfait
+nous satisfaisons
+vous satisfaites
+ils (elles) satisfont
+
+** Imparfait
+
+je satisfaisais
+tu satisfaisais
+il (elle) satisfaisait
+nous satisfaisions
+vous satisfaisiez
+ils (elles) satisfaisaient
+
+** Passé simple
+
+je satisfis
+tu satisfis
+il (elle) satisfit
+nous satisfîmes
+vous satisfîtes
+ils (elles) satisfirent
+
+** Futur simple
+
+je satisferai
+tu satisferas
+il (elle) satisfera
+nous satisferons
+vous satisferez
+ils (elles) satisferont
+
+* CONDITIONNEL
+
+** Présent
+
+je satisferais
+tu satisferais
+il (elle) satisferait
+nous satisferions
+vous satisferiez
+ils (elles) satisferaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je satisfasse
+que tu satisfasses
+qu’il (elle) satisfasse
+que nous satisfassions
+que vous satisfassiez
+qu’ils (elles) satisfassent
+
+** Imparfait
+
+que je satisfisse
+que tu satisfisses
+qu’il (elle) satisfît
+que nous satisfissions
+que vous satisfissiez
+qu’ils (elles) satisfissent
+
+* IMPÉRATIF
+
+** Présent
+
+satisfais
+satisfaisons
+satisfaites
+
+* INFINITIF
+
+** Présent
+
+satisfaire
+
+* PARTICIPE
+
+** Présent
+
+satisfaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai satisfait
+tu as satisfait
+il (elle) a satisfait
+nous avons satisfait
+vous avez satisfait
+ils (elles) ont satisfait
+
+** Plus-que-parfait
+
+j'avais satisfait
+tu avais satisfait
+il (elle) avait satisfait
+nous avions satisfait
+vous aviez satisfait
+ils (elles) avaient satisfait
+
+** Passé antérieur
+
+j'eus satisfait
+tu eus satisfait
+il (elle) eut satisfait
+nous eûmes satisfait
+vous eûtes satisfait
+ils (elles) eurent satisfait
+
+** Futur antérieur
+
+j'aurai satisfait
+tu auras satisfait
+il (elle) aura satisfait
+nous aurons satisfait
+vous aurez satisfait
+ils (elles) auront satisfait
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais satisfait
+tu aurais satisfait
+il (elle) aurait satisfait
+nous aurions satisfait
+vous auriez satisfait
+ils (elles) auraient satisfait
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie satisfait
+que tu aies satisfait
+qu’il (elle) ait satisfait
+que nous ayons satisfait
+que vous ayez satisfait
+qu’ils (elles) aient satisfait
+
+** Plus-que-parfait
+
+que j'eusse satisfait
+que tu eusses satisfait
+qu’il (elle) eût satisfait
+que nous eussions satisfait
+que vous eussiez satisfait
+qu’ils (elles) eussent satisfait
+
+* IMPÉRATIF
+
+** Passé
+
+ayons satisfait
+ayez satisfait
+
+* INFINITIF
+
+** Passé
+
+avoir satisfait
+
+* PARTICIPE
+
+** Passé
+
+ayant satisfait
+satisfait (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis satisfait(e)
+tu es satisfait(e)
+il (elle) est satisfait(e)
+nous sommes satisfait(e)s
+vous êtes satisfait(e)s
+ils (elles) sont satisfait(e)s
+
+** Imparfait
+
+j'étais satisfait(e)
+tu étais satisfait(e)
+il (elle) était satisfait(e)
+nous étions satisfait(e)s
+vous étiez satisfait(e)s
+ils (elles) étaient satisfait(e)s
+
+** Passé simple
+
+je fus satisfait(e)
+tu fus satisfait(e)
+il (elle) fut satisfait(e)
+nous fûmes satisfait(e)s
+vous fûtes satisfait(e)s
+ils (elles) furent satisfait(e)s
+
+** Futur simple
+
+je serai satisfait(e)
+tu seras satisfait(e)
+il (elle) sera satisfait(e)
+nous serons satisfait(e)s
+vous serez satisfait(e)s
+ils (elles) seront satisfait(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais satisfait(e)
+tu serais satisfait(e)
+il (elle) serait satisfait(e)
+nous serions satisfait(e)s
+vous seriez satisfait(e)s
+ils (elles) seraient satisfait(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois satisfait(e)
+que tu sois satisfait(e)
+qu’il (elle) soit satisfait(e)
+que nous soyons satisfait(e)s
+que vous soyez satisfait(e)s
+qu’ils (elles) soient satisfait(e)s
+
+** Imparfait
+
+que je fusse satisfait(e)
+que tu fusses satisfait(e)
+qu’il (elle) fût satisfait(e)
+que nous fussions satisfait(e)s
+que vous fussiez satisfait(e)s
+qu’ils (elles) fussent satisfait(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons satisfait(e)s
+soyez satisfait(e)s
+
+* INFINITIF
+
+** Présent
+
+être satisfait(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant satisfait(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été satisfait(e)
+tu as été satisfait(e)
+il (elle) a été satisfait(e)
+nous avons été satisfait(e)s
+vous avez été satisfait(e)s
+ils (elles) ont été satisfait(e)s
+
+** Plus-que-parfait
+
+j'avais été satisfait(e)
+il (elle) avait été satisfait(e)
+nous avions été satisfait(e)s
+ils (elles) avaient été satisfait(e)s
+
+** Passé antérieur
+
+j'eus été satisfait(e)
+tu eus été satisfait(e)
+il (elle) eut été satisfait(e)
+nous eûmes été satisfait(e)s
+vous eûtes été satisfait(e)s
+ils (elles) eurent été satisfait(e)s
+
+** Futur antérieur
+
+j'aurai été satisfait(e)
+tu auras été satisfait(e)
+il (elle) aura été satisfait(e)
+nous aurons été satisfait(e)s
+vous aurez été satisfait(e)s
+ils (elles) auront été satisfait(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été satisfait(e)
+j'aurais été satisfait(e)
+il (elle) aurait été satisfait(e)
+nous aurions été satisfait(e)s
+vous auriez été satisfait(e)s
+ils (elles) auraient été satisfait(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été satisfait(e)
+que tu aies été satisfait(e)
+qu’il (elle) ait été satisfait(e)
+que nous ayons été satisfait(e)s
+que vous ayez été satisfait(e)s
+qu’ils (elles) aient été satisfait(e)s
+
+** Plus-que-parfait
+
+que j'eusse été satisfait(e)
+que tu eusses été satisfait(e)
+qu’il (elle) eût été satisfait(e)
+que nous eussions été satisfait(e)s
+que vous eussiez été satisfait(e)s
+qu’ils (elles) eussent été satisfait(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été satisfait(e)
+ayons été satisfait(e)s
+ayez été satisfait(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été satisfait(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été satisfait(e)(s)

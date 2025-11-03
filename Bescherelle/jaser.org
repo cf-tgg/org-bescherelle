@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe jaser
+
+* INDICATIF
+
+** Présent
+
+je jase
+tu jases
+il (elle) jase
+nous jasons
+vous jasez
+ils (elles) jasent
+
+** Imparfait
+
+je jasais
+tu jasais
+il (elle) jasait
+nous jasions
+vous jasiez
+ils (elles) jasaient
+
+** Passé simple
+
+je jasai
+tu jasas
+il (elle) jasa
+nous jasâmes
+vous jasâtes
+ils (elles) jasèrent
+
+** Futur simple
+
+je jaserai
+tu jaseras
+il (elle) jasera
+nous jaserons
+vous jaserez
+ils (elles) jaseront
+
+* CONDITIONNEL
+
+** Présent
+
+je jaserais
+tu jaserais
+il (elle) jaserait
+nous jaserions
+vous jaseriez
+ils (elles) jaseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jase
+que tu jases
+qu’il (elle) jase
+que nous jasions
+que vous jasiez
+qu’ils (elles) jasent
+
+** Imparfait
+
+que je jasasse
+que tu jasasses
+qu’il (elle) jasât
+que nous jasassions
+que vous jasassiez
+qu’ils (elles) jasassent
+
+* IMPÉRATIF
+
+** Présent
+
+jase
+jasons
+jasez
+
+* INFINITIF
+
+** Présent
+
+jaser
+
+* PARTICIPE
+
+** Présent
+
+jasant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jasé
+tu as jasé
+il (elle) a jasé
+nous avons jasé
+vous avez jasé
+ils (elles) ont jasé
+
+** Plus-que-parfait
+
+j'avais jasé
+tu avais jasé
+il (elle) avait jasé
+nous avions jasé
+vous aviez jasé
+ils (elles) avaient jasé
+
+** Passé antérieur
+
+j'eus jasé
+tu eus jasé
+il (elle) eut jasé
+nous eûmes jasé
+vous eûtes jasé
+ils (elles) eurent jasé
+
+** Futur antérieur
+
+j'aurai jasé
+tu auras jasé
+il (elle) aura jasé
+nous aurons jasé
+vous aurez jasé
+ils (elles) auront jasé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jasé
+tu aurais jasé
+il (elle) aurait jasé
+nous aurions jasé
+vous auriez jasé
+ils (elles) auraient jasé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jasé
+que tu aies jasé
+qu’il (elle) ait jasé
+que nous ayons jasé
+que vous ayez jasé
+qu’ils (elles) aient jasé
+
+** Plus-que-parfait
+
+que j'eusse jasé
+que tu eusses jasé
+qu’il (elle) eût jasé
+que nous eussions jasé
+que vous eussiez jasé
+qu’ils (elles) eussent jasé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jasé
+ayez jasé
+
+* INFINITIF
+
+** Passé
+
+avoir jasé
+
+* PARTICIPE
+
+** Passé
+
+ayant jasé
+jasé (invar.)

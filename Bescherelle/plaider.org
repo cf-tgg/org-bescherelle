@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe plaider
+
+* INDICATIF
+
+** Présent
+
+je plaide
+tu plaides
+il (elle) plaide
+nous plaidons
+vous plaidez
+ils (elles) plaident
+
+** Imparfait
+
+je plaidais
+tu plaidais
+il (elle) plaidait
+nous plaidions
+vous plaidiez
+ils (elles) plaidaient
+
+** Passé simple
+
+je plaidai
+tu plaidas
+il (elle) plaida
+nous plaidâmes
+vous plaidâtes
+ils (elles) plaidèrent
+
+** Futur simple
+
+je plaiderai
+tu plaideras
+il (elle) plaidera
+nous plaiderons
+vous plaiderez
+ils (elles) plaideront
+
+* CONDITIONNEL
+
+** Présent
+
+je plaiderais
+tu plaiderais
+il (elle) plaiderait
+nous plaiderions
+vous plaideriez
+ils (elles) plaideraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plaide
+que tu plaides
+qu’il (elle) plaide
+que nous plaidions
+que vous plaidiez
+qu’ils (elles) plaident
+
+** Imparfait
+
+que je plaidasse
+que tu plaidasses
+qu’il (elle) plaidât
+que nous plaidassions
+que vous plaidassiez
+qu’ils (elles) plaidassent
+
+* IMPÉRATIF
+
+** Présent
+
+plaide
+plaidons
+plaidez
+
+* INFINITIF
+
+** Présent
+
+plaider
+
+* PARTICIPE
+
+** Présent
+
+plaidant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plaidé
+tu as plaidé
+il (elle) a plaidé
+nous avons plaidé
+vous avez plaidé
+ils (elles) ont plaidé
+
+** Plus-que-parfait
+
+j'avais plaidé
+tu avais plaidé
+il (elle) avait plaidé
+nous avions plaidé
+vous aviez plaidé
+ils (elles) avaient plaidé
+
+** Passé antérieur
+
+j'eus plaidé
+tu eus plaidé
+il (elle) eut plaidé
+nous eûmes plaidé
+vous eûtes plaidé
+ils (elles) eurent plaidé
+
+** Futur antérieur
+
+j'aurai plaidé
+tu auras plaidé
+il (elle) aura plaidé
+nous aurons plaidé
+vous aurez plaidé
+ils (elles) auront plaidé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plaidé
+tu aurais plaidé
+il (elle) aurait plaidé
+nous aurions plaidé
+vous auriez plaidé
+ils (elles) auraient plaidé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plaidé
+que tu aies plaidé
+qu’il (elle) ait plaidé
+que nous ayons plaidé
+que vous ayez plaidé
+qu’ils (elles) aient plaidé
+
+** Plus-que-parfait
+
+que j'eusse plaidé
+que tu eusses plaidé
+qu’il (elle) eût plaidé
+que nous eussions plaidé
+que vous eussiez plaidé
+qu’ils (elles) eussent plaidé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plaidé
+ayez plaidé
+
+* INFINITIF
+
+** Passé
+
+avoir plaidé
+
+* PARTICIPE
+
+** Passé
+
+ayant plaidé
+plaidé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis plaidé(e)
+tu es plaidé(e)
+il (elle) est plaidé(e)
+nous sommes plaidé(e)s
+vous êtes plaidé(e)s
+ils (elles) sont plaidé(e)s
+
+** Imparfait
+
+j'étais plaidé(e)
+tu étais plaidé(e)
+il (elle) était plaidé(e)
+nous étions plaidé(e)s
+vous étiez plaidé(e)s
+ils (elles) étaient plaidé(e)s
+
+** Passé simple
+
+je fus plaidé(e)
+tu fus plaidé(e)
+il (elle) fut plaidé(e)
+nous fûmes plaidé(e)s
+vous fûtes plaidé(e)s
+ils (elles) furent plaidé(e)s
+
+** Futur simple
+
+je serai plaidé(e)
+tu seras plaidé(e)
+il (elle) sera plaidé(e)
+nous serons plaidé(e)s
+vous serez plaidé(e)s
+ils (elles) seront plaidé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais plaidé(e)
+tu serais plaidé(e)
+il (elle) serait plaidé(e)
+nous serions plaidé(e)s
+vous seriez plaidé(e)s
+ils (elles) seraient plaidé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois plaidé(e)
+que tu sois plaidé(e)
+qu’il (elle) soit plaidé(e)
+que nous soyons plaidé(e)s
+que vous soyez plaidé(e)s
+qu’ils (elles) soient plaidé(e)s
+
+** Imparfait
+
+que je fusse plaidé(e)
+que tu fusses plaidé(e)
+qu’il (elle) fût plaidé(e)
+que nous fussions plaidé(e)s
+que vous fussiez plaidé(e)s
+qu’ils (elles) fussent plaidé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons plaidé(e)s
+soyez plaidé(e)s
+
+* INFINITIF
+
+** Présent
+
+être plaidé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant plaidé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été plaidé(e)
+tu as été plaidé(e)
+il (elle) a été plaidé(e)
+nous avons été plaidé(e)s
+vous avez été plaidé(e)s
+ils (elles) ont été plaidé(e)s
+
+** Plus-que-parfait
+
+j'avais été plaidé(e)
+il (elle) avait été plaidé(e)
+nous avions été plaidé(e)s
+ils (elles) avaient été plaidé(e)s
+
+** Passé antérieur
+
+j'eus été plaidé(e)
+tu eus été plaidé(e)
+il (elle) eut été plaidé(e)
+nous eûmes été plaidé(e)s
+vous eûtes été plaidé(e)s
+ils (elles) eurent été plaidé(e)s
+
+** Futur antérieur
+
+j'aurai été plaidé(e)
+tu auras été plaidé(e)
+il (elle) aura été plaidé(e)
+nous aurons été plaidé(e)s
+vous aurez été plaidé(e)s
+ils (elles) auront été plaidé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été plaidé(e)
+j'aurais été plaidé(e)
+il (elle) aurait été plaidé(e)
+nous aurions été plaidé(e)s
+vous auriez été plaidé(e)s
+ils (elles) auraient été plaidé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été plaidé(e)
+que tu aies été plaidé(e)
+qu’il (elle) ait été plaidé(e)
+que nous ayons été plaidé(e)s
+que vous ayez été plaidé(e)s
+qu’ils (elles) aient été plaidé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été plaidé(e)
+que tu eusses été plaidé(e)
+qu’il (elle) eût été plaidé(e)
+que nous eussions été plaidé(e)s
+que vous eussiez été plaidé(e)s
+qu’ils (elles) eussent été plaidé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été plaidé(e)
+ayons été plaidé(e)s
+ayez été plaidé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été plaidé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été plaidé(e)(s)

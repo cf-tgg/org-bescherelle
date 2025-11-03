@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe calmer
+
+* INDICATIF
+
+** Présent
+
+je calme
+tu calmes
+il (elle) calme
+nous calmons
+vous calmez
+ils (elles) calment
+
+** Imparfait
+
+je calmais
+tu calmais
+il (elle) calmait
+nous calmions
+vous calmiez
+ils (elles) calmaient
+
+** Passé simple
+
+je calmai
+tu calmas
+il (elle) calma
+nous calmâmes
+vous calmâtes
+ils (elles) calmèrent
+
+** Futur simple
+
+je calmerai
+tu calmeras
+il (elle) calmera
+nous calmerons
+vous calmerez
+ils (elles) calmeront
+
+* CONDITIONNEL
+
+** Présent
+
+je calmerais
+tu calmerais
+il (elle) calmerait
+nous calmerions
+vous calmeriez
+ils (elles) calmeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je calme
+que tu calmes
+qu’il (elle) calme
+que nous calmions
+que vous calmiez
+qu’ils (elles) calment
+
+** Imparfait
+
+que je calmasse
+que tu calmasses
+qu’il (elle) calmât
+que nous calmassions
+que vous calmassiez
+qu’ils (elles) calmassent
+
+* IMPÉRATIF
+
+** Présent
+
+calme
+calmons
+calmez
+
+* INFINITIF
+
+** Présent
+
+calmer
+
+* PARTICIPE
+
+** Présent
+
+calmant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai calmé
+tu as calmé
+il (elle) a calmé
+nous avons calmé
+vous avez calmé
+ils (elles) ont calmé
+
+** Plus-que-parfait
+
+j'avais calmé
+tu avais calmé
+il (elle) avait calmé
+nous avions calmé
+vous aviez calmé
+ils (elles) avaient calmé
+
+** Passé antérieur
+
+j'eus calmé
+tu eus calmé
+il (elle) eut calmé
+nous eûmes calmé
+vous eûtes calmé
+ils (elles) eurent calmé
+
+** Futur antérieur
+
+j'aurai calmé
+tu auras calmé
+il (elle) aura calmé
+nous aurons calmé
+vous aurez calmé
+ils (elles) auront calmé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais calmé
+tu aurais calmé
+il (elle) aurait calmé
+nous aurions calmé
+vous auriez calmé
+ils (elles) auraient calmé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie calmé
+que tu aies calmé
+qu’il (elle) ait calmé
+que nous ayons calmé
+que vous ayez calmé
+qu’ils (elles) aient calmé
+
+** Plus-que-parfait
+
+que j'eusse calmé
+que tu eusses calmé
+qu’il (elle) eût calmé
+que nous eussions calmé
+que vous eussiez calmé
+qu’ils (elles) eussent calmé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons calmé
+ayez calmé
+
+* INFINITIF
+
+** Passé
+
+avoir calmé
+
+* PARTICIPE
+
+** Passé
+
+ayant calmé
+calmé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis calmé(e)
+tu es calmé(e)
+il (elle) est calmé(e)
+nous sommes calmé(e)s
+vous êtes calmé(e)s
+ils (elles) sont calmé(e)s
+
+** Imparfait
+
+j'étais calmé(e)
+tu étais calmé(e)
+il (elle) était calmé(e)
+nous étions calmé(e)s
+vous étiez calmé(e)s
+ils (elles) étaient calmé(e)s
+
+** Passé simple
+
+je fus calmé(e)
+tu fus calmé(e)
+il (elle) fut calmé(e)
+nous fûmes calmé(e)s
+vous fûtes calmé(e)s
+ils (elles) furent calmé(e)s
+
+** Futur simple
+
+je serai calmé(e)
+tu seras calmé(e)
+il (elle) sera calmé(e)
+nous serons calmé(e)s
+vous serez calmé(e)s
+ils (elles) seront calmé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais calmé(e)
+tu serais calmé(e)
+il (elle) serait calmé(e)
+nous serions calmé(e)s
+vous seriez calmé(e)s
+ils (elles) seraient calmé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois calmé(e)
+que tu sois calmé(e)
+qu’il (elle) soit calmé(e)
+que nous soyons calmé(e)s
+que vous soyez calmé(e)s
+qu’ils (elles) soient calmé(e)s
+
+** Imparfait
+
+que je fusse calmé(e)
+que tu fusses calmé(e)
+qu’il (elle) fût calmé(e)
+que nous fussions calmé(e)s
+que vous fussiez calmé(e)s
+qu’ils (elles) fussent calmé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons calmé(e)s
+soyez calmé(e)s
+
+* INFINITIF
+
+** Présent
+
+être calmé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant calmé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été calmé(e)
+tu as été calmé(e)
+il (elle) a été calmé(e)
+nous avons été calmé(e)s
+vous avez été calmé(e)s
+ils (elles) ont été calmé(e)s
+
+** Plus-que-parfait
+
+j'avais été calmé(e)
+il (elle) avait été calmé(e)
+nous avions été calmé(e)s
+ils (elles) avaient été calmé(e)s
+
+** Passé antérieur
+
+j'eus été calmé(e)
+tu eus été calmé(e)
+il (elle) eut été calmé(e)
+nous eûmes été calmé(e)s
+vous eûtes été calmé(e)s
+ils (elles) eurent été calmé(e)s
+
+** Futur antérieur
+
+j'aurai été calmé(e)
+tu auras été calmé(e)
+il (elle) aura été calmé(e)
+nous aurons été calmé(e)s
+vous aurez été calmé(e)s
+ils (elles) auront été calmé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été calmé(e)
+j'aurais été calmé(e)
+il (elle) aurait été calmé(e)
+nous aurions été calmé(e)s
+vous auriez été calmé(e)s
+ils (elles) auraient été calmé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été calmé(e)
+que tu aies été calmé(e)
+qu’il (elle) ait été calmé(e)
+que nous ayons été calmé(e)s
+que vous ayez été calmé(e)s
+qu’ils (elles) aient été calmé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été calmé(e)
+que tu eusses été calmé(e)
+qu’il (elle) eût été calmé(e)
+que nous eussions été calmé(e)s
+que vous eussiez été calmé(e)s
+qu’ils (elles) eussent été calmé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été calmé(e)
+ayons été calmé(e)s
+ayez été calmé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été calmé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été calmé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe justifier
+
+* INDICATIF
+
+** Présent
+
+je justifie
+tu justifies
+il (elle) justifie
+nous justifions
+vous justifiez
+ils (elles) justifient
+
+** Imparfait
+
+je justifiais
+tu justifiais
+il (elle) justifiait
+nous justifiions
+vous justifiiez
+ils (elles) justifiaient
+
+** Passé simple
+
+je justifiai
+tu justifias
+il (elle) justifia
+nous justifiâmes
+vous justifiâtes
+ils (elles) justifièrent
+
+** Futur simple
+
+je justifierai
+tu justifieras
+il (elle) justifiera
+nous justifierons
+vous justifierez
+ils (elles) justifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je justifierais
+tu justifierais
+il (elle) justifierait
+nous justifierions
+vous justifieriez
+ils (elles) justifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je justifie
+que tu justifies
+qu’il (elle) justifie
+que nous justifiions
+que vous justifiiez
+qu’ils (elles) justifient
+
+** Imparfait
+
+que je justifiasse
+que tu justifiasses
+qu’il (elle) justifiât
+que nous justifiassions
+que vous justifiassiez
+qu’ils (elles) justifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+justifie
+justifions
+justifiez
+
+* INFINITIF
+
+** Présent
+
+justifier
+
+* PARTICIPE
+
+** Présent
+
+justifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai justifié
+tu as justifié
+il (elle) a justifié
+nous avons justifié
+vous avez justifié
+ils (elles) ont justifié
+
+** Plus-que-parfait
+
+j'avais justifié
+tu avais justifié
+il (elle) avait justifié
+nous avions justifié
+vous aviez justifié
+ils (elles) avaient justifié
+
+** Passé antérieur
+
+j'eus justifié
+tu eus justifié
+il (elle) eut justifié
+nous eûmes justifié
+vous eûtes justifié
+ils (elles) eurent justifié
+
+** Futur antérieur
+
+j'aurai justifié
+tu auras justifié
+il (elle) aura justifié
+nous aurons justifié
+vous aurez justifié
+ils (elles) auront justifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais justifié
+tu aurais justifié
+il (elle) aurait justifié
+nous aurions justifié
+vous auriez justifié
+ils (elles) auraient justifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie justifié
+que tu aies justifié
+qu’il (elle) ait justifié
+que nous ayons justifié
+que vous ayez justifié
+qu’ils (elles) aient justifié
+
+** Plus-que-parfait
+
+que j'eusse justifié
+que tu eusses justifié
+qu’il (elle) eût justifié
+que nous eussions justifié
+que vous eussiez justifié
+qu’ils (elles) eussent justifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons justifié
+ayez justifié
+
+* INFINITIF
+
+** Passé
+
+avoir justifié
+
+* PARTICIPE
+
+** Passé
+
+ayant justifié
+justifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis justifié(e)
+tu es justifié(e)
+il (elle) est justifié(e)
+nous sommes justifié(e)s
+vous êtes justifié(e)s
+ils (elles) sont justifié(e)s
+
+** Imparfait
+
+j'étais justifié(e)
+tu étais justifié(e)
+il (elle) était justifié(e)
+nous étions justifié(e)s
+vous étiez justifié(e)s
+ils (elles) étaient justifié(e)s
+
+** Passé simple
+
+je fus justifié(e)
+tu fus justifié(e)
+il (elle) fut justifié(e)
+nous fûmes justifié(e)s
+vous fûtes justifié(e)s
+ils (elles) furent justifié(e)s
+
+** Futur simple
+
+je serai justifié(e)
+tu seras justifié(e)
+il (elle) sera justifié(e)
+nous serons justifié(e)s
+vous serez justifié(e)s
+ils (elles) seront justifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais justifié(e)
+tu serais justifié(e)
+il (elle) serait justifié(e)
+nous serions justifié(e)s
+vous seriez justifié(e)s
+ils (elles) seraient justifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois justifié(e)
+que tu sois justifié(e)
+qu’il (elle) soit justifié(e)
+que nous soyons justifié(e)s
+que vous soyez justifié(e)s
+qu’ils (elles) soient justifié(e)s
+
+** Imparfait
+
+que je fusse justifié(e)
+que tu fusses justifié(e)
+qu’il (elle) fût justifié(e)
+que nous fussions justifié(e)s
+que vous fussiez justifié(e)s
+qu’ils (elles) fussent justifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons justifié(e)s
+soyez justifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être justifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant justifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été justifié(e)
+tu as été justifié(e)
+il (elle) a été justifié(e)
+nous avons été justifié(e)s
+vous avez été justifié(e)s
+ils (elles) ont été justifié(e)s
+
+** Plus-que-parfait
+
+j'avais été justifié(e)
+il (elle) avait été justifié(e)
+nous avions été justifié(e)s
+ils (elles) avaient été justifié(e)s
+
+** Passé antérieur
+
+j'eus été justifié(e)
+tu eus été justifié(e)
+il (elle) eut été justifié(e)
+nous eûmes été justifié(e)s
+vous eûtes été justifié(e)s
+ils (elles) eurent été justifié(e)s
+
+** Futur antérieur
+
+j'aurai été justifié(e)
+tu auras été justifié(e)
+il (elle) aura été justifié(e)
+nous aurons été justifié(e)s
+vous aurez été justifié(e)s
+ils (elles) auront été justifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été justifié(e)
+j'aurais été justifié(e)
+il (elle) aurait été justifié(e)
+nous aurions été justifié(e)s
+vous auriez été justifié(e)s
+ils (elles) auraient été justifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été justifié(e)
+que tu aies été justifié(e)
+qu’il (elle) ait été justifié(e)
+que nous ayons été justifié(e)s
+que vous ayez été justifié(e)s
+qu’ils (elles) aient été justifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été justifié(e)
+que tu eusses été justifié(e)
+qu’il (elle) eût été justifié(e)
+que nous eussions été justifié(e)s
+que vous eussiez été justifié(e)s
+qu’ils (elles) eussent été justifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été justifié(e)
+ayons été justifié(e)s
+ayez été justifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été justifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été justifié(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe parvenir
+
+* INDICATIF
+
+** Présent
+
+je parviens
+tu parviens
+il (elle) parvient
+nous parvenons
+vous parvenez
+ils (elles) parviennent
+
+** Imparfait
+
+je parvenais
+tu parvenais
+il (elle) parvenait
+nous parvenions
+vous parveniez
+ils (elles) parvenaient
+
+** Passé simple
+
+je parvins
+tu parvins
+il (elle) parvint
+nous parvînmes
+vous parvîntes
+ils (elles) parvinrent
+
+** Futur simple
+
+je parviendrai
+tu parviendras
+il (elle) parviendra
+nous parviendrons
+vous parviendrez
+ils (elles) parviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je parviendrais
+tu parviendrais
+il (elle) parviendrait
+nous parviendrions
+vous parviendriez
+ils (elles) parviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parvienne
+que tu parviennes
+qu’il (elle) parvienne
+que nous parvenions
+que vous parveniez
+qu’ils (elles) parviennent
+
+** Imparfait
+
+que je parvinsse
+que tu parvinsses
+qu’il (elle) parvînt
+que nous parvinssions
+que vous parvinssiez
+qu’ils (elles) parvinssent
+
+* IMPÉRATIF
+
+** Présent
+
+parviens
+parvenons
+parvenez
+
+* INFINITIF
+
+** Présent
+
+parvenir
+
+* PARTICIPE
+
+** Présent
+
+parvenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis parvenu(e)
+tu es parvenu(e)
+il (elle) est parvenu(e)
+nous sommes parvenu(e)s
+vous êtes parvenu(e)s
+ils (elles) sont parvenu(e)s
+
+** Plus-que-parfait
+
+j'étais parvenu(e)
+tu étais parvenu(e)
+il (elle) était parvenu(e)
+nous étions parvenu(e)s
+vous étiez parvenu(e)s
+ils (elles) étaient parvenu(e)s
+
+** Passé antérieur
+
+je fus parvenu(e)
+tu fus parvenu(e)
+il (elle) fut parvenu(e)
+nous fûmes parvenu(e)s
+vous fûtes parvenu(e)s
+ils (elles) furent parvenu(e)s
+
+** Futur antérieur
+
+je serai parvenu(e)
+tu seras parvenu(e)
+il (elle) sera parvenu(e)
+nous serons parvenu(e)s
+vous serez parvenu(e)s
+ils (elles) seront parvenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais parvenu(e)
+tu serais parvenu(e)
+il (elle) serait parvenu(e)
+nous serions parvenu(e)s
+vous seriez parvenu(e)s
+ils (elles) seraient parvenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois parvenu(e)
+que tu sois parvenu(e)
+qu’il (elle) soit parvenu(e)
+que nous soyons parvenu(e)s
+que vous soyez parvenu(e)s
+qu’ils (elles) soient parvenu(e)s
+
+** Plus-que-parfait
+
+que je fusse parvenu(e)
+que tu fusses parvenu(e)
+qu’il (elle) fût parvenu(e)
+que nous fussions parvenu(e)s
+que vous fussiez parvenu(e)s
+qu’ils (elles) fussent parvenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons parvenu(e)s
+soyez parvenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être parvenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant parvenu(e)(s)
+parvenu (u, ue, us, ues)

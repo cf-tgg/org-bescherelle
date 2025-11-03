@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interpeller
+
+* INDICATIF
+
+** Présent
+
+j'interpelle
+tu interpelles
+il (elle) interpelle
+nous interpellons
+vous interpellez
+ils (elles) interpellent
+
+** Imparfait
+
+j'interpellais
+tu interpellais
+il (elle) interpellait
+nous interpellions
+vous interpelliez
+ils (elles) interpellaient
+
+** Passé simple
+
+j'interpellai
+tu interpellas
+il (elle) interpella
+nous interpellâmes
+vous interpellâtes
+ils (elles) interpellèrent
+
+** Futur simple
+
+j'interpellerai
+tu interpelleras
+il (elle) interpellera
+nous interpellerons
+vous interpellerez
+ils (elles) interpelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interpellerais
+tu interpellerais
+il (elle) interpellerait
+nous interpellerions
+vous interpelleriez
+ils (elles) interpelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interpelle
+que tu interpelles
+qu’il (elle) interpelle
+que nous interpellions
+que vous interpelliez
+qu’ils (elles) interpellent
+
+** Imparfait
+
+que j'interpellasse
+que tu interpellasses
+qu’il (elle) interpellât
+que nous interpellassions
+que vous interpellassiez
+qu’ils (elles) interpellassent
+
+* IMPÉRATIF
+
+** Présent
+
+interpelle
+interpellons
+interpellez
+
+* INFINITIF
+
+** Présent
+
+interpeller
+
+* PARTICIPE
+
+** Présent
+
+interpellant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interpellé
+tu as interpellé
+il (elle) a interpellé
+nous avons interpellé
+vous avez interpellé
+ils (elles) ont interpellé
+
+** Plus-que-parfait
+
+j'avais interpellé
+tu avais interpellé
+il (elle) avait interpellé
+nous avions interpellé
+vous aviez interpellé
+ils (elles) avaient interpellé
+
+** Passé antérieur
+
+j'eus interpellé
+tu eus interpellé
+il (elle) eut interpellé
+nous eûmes interpellé
+vous eûtes interpellé
+ils (elles) eurent interpellé
+
+** Futur antérieur
+
+j'aurai interpellé
+tu auras interpellé
+il (elle) aura interpellé
+nous aurons interpellé
+vous aurez interpellé
+ils (elles) auront interpellé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interpellé
+tu aurais interpellé
+il (elle) aurait interpellé
+nous aurions interpellé
+vous auriez interpellé
+ils (elles) auraient interpellé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interpellé
+que tu aies interpellé
+qu’il (elle) ait interpellé
+que nous ayons interpellé
+que vous ayez interpellé
+qu’ils (elles) aient interpellé
+
+** Plus-que-parfait
+
+que j'eusse interpellé
+que tu eusses interpellé
+qu’il (elle) eût interpellé
+que nous eussions interpellé
+que vous eussiez interpellé
+qu’ils (elles) eussent interpellé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interpellé
+ayez interpellé
+
+* INFINITIF
+
+** Passé
+
+avoir interpellé
+
+* PARTICIPE
+
+** Passé
+
+ayant interpellé
+interpellé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis interpellé(e)
+tu es interpellé(e)
+il (elle) est interpellé(e)
+nous sommes interpellé(e)s
+vous êtes interpellé(e)s
+ils (elles) sont interpellé(e)s
+
+** Imparfait
+
+j'étais interpellé(e)
+tu étais interpellé(e)
+il (elle) était interpellé(e)
+nous étions interpellé(e)s
+vous étiez interpellé(e)s
+ils (elles) étaient interpellé(e)s
+
+** Passé simple
+
+je fus interpellé(e)
+tu fus interpellé(e)
+il (elle) fut interpellé(e)
+nous fûmes interpellé(e)s
+vous fûtes interpellé(e)s
+ils (elles) furent interpellé(e)s
+
+** Futur simple
+
+je serai interpellé(e)
+tu seras interpellé(e)
+il (elle) sera interpellé(e)
+nous serons interpellé(e)s
+vous serez interpellé(e)s
+ils (elles) seront interpellé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interpellé(e)
+tu serais interpellé(e)
+il (elle) serait interpellé(e)
+nous serions interpellé(e)s
+vous seriez interpellé(e)s
+ils (elles) seraient interpellé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interpellé(e)
+que tu sois interpellé(e)
+qu’il (elle) soit interpellé(e)
+que nous soyons interpellé(e)s
+que vous soyez interpellé(e)s
+qu’ils (elles) soient interpellé(e)s
+
+** Imparfait
+
+que je fusse interpellé(e)
+que tu fusses interpellé(e)
+qu’il (elle) fût interpellé(e)
+que nous fussions interpellé(e)s
+que vous fussiez interpellé(e)s
+qu’ils (elles) fussent interpellé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interpellé(e)s
+soyez interpellé(e)s
+
+* INFINITIF
+
+** Présent
+
+être interpellé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interpellé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interpellé(e)
+tu as été interpellé(e)
+il (elle) a été interpellé(e)
+nous avons été interpellé(e)s
+vous avez été interpellé(e)s
+ils (elles) ont été interpellé(e)s
+
+** Plus-que-parfait
+
+j'avais été interpellé(e)
+il (elle) avait été interpellé(e)
+nous avions été interpellé(e)s
+ils (elles) avaient été interpellé(e)s
+
+** Passé antérieur
+
+j'eus été interpellé(e)
+tu eus été interpellé(e)
+il (elle) eut été interpellé(e)
+nous eûmes été interpellé(e)s
+vous eûtes été interpellé(e)s
+ils (elles) eurent été interpellé(e)s
+
+** Futur antérieur
+
+j'aurai été interpellé(e)
+tu auras été interpellé(e)
+il (elle) aura été interpellé(e)
+nous aurons été interpellé(e)s
+vous aurez été interpellé(e)s
+ils (elles) auront été interpellé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interpellé(e)
+j'aurais été interpellé(e)
+il (elle) aurait été interpellé(e)
+nous aurions été interpellé(e)s
+vous auriez été interpellé(e)s
+ils (elles) auraient été interpellé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interpellé(e)
+que tu aies été interpellé(e)
+qu’il (elle) ait été interpellé(e)
+que nous ayons été interpellé(e)s
+que vous ayez été interpellé(e)s
+qu’ils (elles) aient été interpellé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interpellé(e)
+que tu eusses été interpellé(e)
+qu’il (elle) eût été interpellé(e)
+que nous eussions été interpellé(e)s
+que vous eussiez été interpellé(e)s
+qu’ils (elles) eussent été interpellé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interpellé(e)
+ayons été interpellé(e)s
+ayez été interpellé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interpellé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interpellé(e)(s)

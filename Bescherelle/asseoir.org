@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe asseoir
+
+* INDICATIF
+
+** Présent
+
+j'assieds / assois
+tu assieds / assois
+il (elle) assied / assoit
+nous asseyons / assoyons
+vous asseyez / assoyez
+ils (elles) asseyent / assoient
+
+** Imparfait
+
+j'asseyais / assoyais
+tu asseyais / assoyais
+il (elle) asseyait / assoyait
+nous asseyions / assoyions
+vous asseyiez / assoyiez
+ils (elles) asseyaient / assoyaient
+
+** Passé simple
+
+j'assis
+tu assis
+il (elle) assit
+nous assîmes
+vous assîtes
+ils (elles) assirent
+
+** Futur simple
+
+j'assiérai / assoirai
+tu assiéras / assoiras
+il (elle) assiéra / assoira
+nous assiérons / assoirons
+vous assiérez / assoirez
+ils (elles) assiéront / assoiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'assiérais / assoirais
+tu assiérais / assoirais
+il (elle) assiérait / assoirait
+nous assiérions / assoirions
+vous assiériez / assoiriez
+ils (elles) assiéraient / assoiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'asseye / assoie
+que tu asseyes / assoies
+qu’il (elle) asseye / assoie
+que nous asseyions / assoyions
+que vous asseyiez / assoyiez
+qu’ils (elles) asseyent / assoient
+
+** Imparfait
+
+que j'assisse
+que tu assisses
+qu’il (elle) assît
+que nous assissions
+que vous assissiez
+qu’ils (elles) assissent
+
+* IMPÉRATIF
+
+** Présent
+
+assieds / assois
+asseyons / assoyons
+asseyez / assoyez
+
+* INFINITIF
+
+** Présent
+
+asseoir
+
+* PARTICIPE
+
+** Présent
+
+asseyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai assis
+tu as assis
+il (elle) a assis
+nous avons assis
+vous avez assis
+ils (elles) ont assis
+
+** Plus-que-parfait
+
+j'avais assis
+tu avais assis
+il (elle) avait assis
+nous avions assis
+vous aviez assis
+ils (elles) avaient assis
+
+** Passé antérieur
+
+j'eus assis
+tu eus assis
+il (elle) eut assis
+nous eûmes assis
+vous eûtes assis
+ils (elles) eurent assis
+
+** Futur antérieur
+
+j'aurai assis
+tu auras assis
+il (elle) aura assis
+nous aurons assis
+vous aurez assis
+ils (elles) auront assis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais assis
+tu aurais assis
+il (elle) aurait assis
+nous aurions assis
+vous auriez assis
+ils (elles) auraient assis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie assis
+que tu aies assis
+qu’il (elle) ait assis
+que nous ayons assis
+que vous ayez assis
+qu’ils (elles) aient assis
+
+** Plus-que-parfait
+
+que j'eusse assis
+que tu eusses assis
+qu’il (elle) eût assis
+que nous eussions assis
+que vous eussiez assis
+qu’ils (elles) eussent assis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons assis
+ayez assis
+
+* INFINITIF
+
+** Passé
+
+avoir assis
+
+* PARTICIPE
+
+** Passé
+
+ayant assis
+assis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis assis(e)
+tu es assis(e)
+il (elle) est assis(e)
+nous sommes assis(es)
+vous êtes assis(es)
+ils (elles) sont assis(es)
+
+** Imparfait
+
+j'étais assis(e)
+tu étais assis(e)
+il (elle) était assis(e)
+nous étions assis(es)
+vous étiez assis(es)
+ils (elles) étaient assis(es)
+
+** Passé simple
+
+je fus assis(e)
+tu fus assis(e)
+il (elle) fut assis(e)
+nous fûmes assis(es)
+vous fûtes assis(es)
+ils (elles) furent assis(es)
+
+** Futur simple
+
+je serai assis(e)
+tu seras assis(e)
+il (elle) sera assis(e)
+nous serons assis(es)
+vous serez assis(es)
+ils (elles) seront assis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais assis(e)
+tu serais assis(e)
+il (elle) serait assis(e)
+nous serions assis(es)
+vous seriez assis(es)
+ils (elles) seraient assis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois assis(e)
+que tu sois assis(e)
+qu’il (elle) soit assis(e)
+que nous soyons assis(es)
+que vous soyez assis(es)
+qu’ils (elles) soient assis(es)
+
+** Imparfait
+
+que je fusse assis(e)
+que tu fusses assis(e)
+qu’il (elle) fût assis(e)
+que nous fussions assis(es)
+que vous fussiez assis(es)
+qu’ils (elles) fussent assis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons assis(es)
+soyez assis(es)
+
+* INFINITIF
+
+** Présent
+
+être assis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant assis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été assis(e)
+tu as été assis(e)
+il (elle) a été assis(e)
+nous avons été assis(es)
+vous avez été assis(es)
+ils (elles) ont été assis(es)
+
+** Plus-que-parfait
+
+j'avais été assis(e)
+il (elle) avait été assis(e)
+nous avions été assis(es)
+ils (elles) avaient été assis(es)
+
+** Passé antérieur
+
+j'eus été assis(e)
+tu eus été assis(e)
+il (elle) eut été assis(e)
+nous eûmes été assis(es)
+vous eûtes été assis(es)
+ils (elles) eurent été assis(es)
+
+** Futur antérieur
+
+j'aurai été assis(e)
+tu auras été assis(e)
+il (elle) aura été assis(e)
+nous aurons été assis(es)
+vous aurez été assis(es)
+ils (elles) auront été assis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été assis(e)
+j'aurais été assis(e)
+il (elle) aurait été assis(e)
+nous aurions été assis(es)
+vous auriez été assis(es)
+ils (elles) auraient été assis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été assis(e)
+que tu aies été assis(e)
+qu’il (elle) ait été assis(e)
+que nous ayons été assis(es)
+que vous ayez été assis(es)
+qu’ils (elles) aient été assis(es)
+
+** Plus-que-parfait
+
+que j'eusse été assis(e)
+que tu eusses été assis(e)
+qu’il (elle) eût été assis(e)
+que nous eussions été assis(es)
+que vous eussiez été assis(es)
+qu’ils (elles) eussent été assis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été assis(e)
+ayons été assis(es)
+ayez été assis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été assis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été assis (s, se, s, ses)

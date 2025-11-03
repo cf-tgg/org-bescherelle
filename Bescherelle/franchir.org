@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe franchir
+
+* INDICATIF
+
+** Présent
+
+je franchis
+tu franchis
+il (elle) franchit
+nous franchissons
+vous franchissez
+ils (elles) franchissent
+
+** Imparfait
+
+je franchissais
+tu franchissais
+il (elle) franchissait
+nous franchissions
+vous franchissiez
+ils (elles) franchissaient
+
+** Passé simple
+
+je franchis
+tu franchis
+il (elle) franchit
+nous franchîmes
+vous franchîtes
+ils (elles) franchirent
+
+** Futur simple
+
+je franchirai
+tu franchiras
+il (elle) franchira
+nous franchirons
+vous franchirez
+ils (elles) franchiront
+
+* CONDITIONNEL
+
+** Présent
+
+je franchirais
+tu franchirais
+il (elle) franchirait
+nous franchirions
+vous franchiriez
+ils (elles) franchiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je franchisse
+que tu franchisses
+qu’il (elle) franchisse
+que nous franchissions
+que vous franchissiez
+qu’ils (elles) franchissent
+
+** Imparfait
+
+que je franchisse
+que tu franchisses
+qu’il (elle) franchît
+que nous franchissions
+que vous franchissiez
+qu’ils (elles) franchissent
+
+* IMPÉRATIF
+
+** Présent
+
+franchis
+franchissons
+franchissez
+
+* INFINITIF
+
+** Présent
+
+franchir
+
+* PARTICIPE
+
+** Présent
+
+franchissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai franchi
+tu as franchi
+il (elle) a franchi
+nous avons franchi
+vous avez franchi
+ils (elles) ont franchi
+
+** Plus-que-parfait
+
+j'avais franchi
+tu avais franchi
+il (elle) avait franchi
+nous avions franchi
+vous aviez franchi
+ils (elles) avaient franchi
+
+** Passé antérieur
+
+j'eus franchi
+tu eus franchi
+il (elle) eut franchi
+nous eûmes franchi
+vous eûtes franchi
+ils (elles) eurent franchi
+
+** Futur antérieur
+
+j'aurai franchi
+tu auras franchi
+il (elle) aura franchi
+nous aurons franchi
+vous aurez franchi
+ils (elles) auront franchi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais franchi
+tu aurais franchi
+il (elle) aurait franchi
+nous aurions franchi
+vous auriez franchi
+ils (elles) auraient franchi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie franchi
+que tu aies franchi
+qu’il (elle) ait franchi
+que nous ayons franchi
+que vous ayez franchi
+qu’ils (elles) aient franchi
+
+** Plus-que-parfait
+
+que j'eusse franchi
+que tu eusses franchi
+qu’il (elle) eût franchi
+que nous eussions franchi
+que vous eussiez franchi
+qu’ils (elles) eussent franchi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons franchi
+ayez franchi
+
+* INFINITIF
+
+** Passé
+
+avoir franchi
+
+* PARTICIPE
+
+** Passé
+
+ayant franchi
+franchi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis franchi(e)
+tu es franchi(e)
+il (elle) est franchi(e)
+nous sommes franchi(e)s
+vous êtes franchi(e)s
+ils (elles) sont franchi(e)s
+
+** Imparfait
+
+j'étais franchi(e)
+tu étais franchi(e)
+il (elle) était franchi(e)
+nous étions franchi(e)s
+vous étiez franchi(e)s
+ils (elles) étaient franchi(e)s
+
+** Passé simple
+
+je fus franchi(e)
+tu fus franchi(e)
+il (elle) fut franchi(e)
+nous fûmes franchi(e)s
+vous fûtes franchi(e)s
+ils (elles) furent franchi(e)s
+
+** Futur simple
+
+je serai franchi(e)
+tu seras franchi(e)
+il (elle) sera franchi(e)
+nous serons franchi(e)s
+vous serez franchi(e)s
+ils (elles) seront franchi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais franchi(e)
+tu serais franchi(e)
+il (elle) serait franchi(e)
+nous serions franchi(e)s
+vous seriez franchi(e)s
+ils (elles) seraient franchi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois franchi(e)
+que tu sois franchi(e)
+qu’il (elle) soit franchi(e)
+que nous soyons franchi(e)s
+que vous soyez franchi(e)s
+qu’ils (elles) soient franchi(e)s
+
+** Imparfait
+
+que je fusse franchi(e)
+que tu fusses franchi(e)
+qu’il (elle) fût franchi(e)
+que nous fussions franchi(e)s
+que vous fussiez franchi(e)s
+qu’ils (elles) fussent franchi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons franchi(e)s
+soyez franchi(e)s
+
+* INFINITIF
+
+** Présent
+
+être franchi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant franchi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été franchi(e)
+tu as été franchi(e)
+il (elle) a été franchi(e)
+nous avons été franchi(e)s
+vous avez été franchi(e)s
+ils (elles) ont été franchi(e)s
+
+** Plus-que-parfait
+
+j'avais été franchi(e)
+il (elle) avait été franchi(e)
+nous avions été franchi(e)s
+ils (elles) avaient été franchi(e)s
+
+** Passé antérieur
+
+j'eus été franchi(e)
+tu eus été franchi(e)
+il (elle) eut été franchi(e)
+nous eûmes été franchi(e)s
+vous eûtes été franchi(e)s
+ils (elles) eurent été franchi(e)s
+
+** Futur antérieur
+
+j'aurai été franchi(e)
+tu auras été franchi(e)
+il (elle) aura été franchi(e)
+nous aurons été franchi(e)s
+vous aurez été franchi(e)s
+ils (elles) auront été franchi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été franchi(e)
+j'aurais été franchi(e)
+il (elle) aurait été franchi(e)
+nous aurions été franchi(e)s
+vous auriez été franchi(e)s
+ils (elles) auraient été franchi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été franchi(e)
+que tu aies été franchi(e)
+qu’il (elle) ait été franchi(e)
+que nous ayons été franchi(e)s
+que vous ayez été franchi(e)s
+qu’ils (elles) aient été franchi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été franchi(e)
+que tu eusses été franchi(e)
+qu’il (elle) eût été franchi(e)
+que nous eussions été franchi(e)s
+que vous eussiez été franchi(e)s
+qu’ils (elles) eussent été franchi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été franchi(e)
+ayons été franchi(e)s
+ayez été franchi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été franchi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été franchi(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bouillir
+
+* INDICATIF
+
+** Présent
+
+je bous
+tu bous
+il (elle) bout
+nous bouillons
+vous bouillez
+ils (elles) bouillent
+
+** Imparfait
+
+je bouillais
+tu bouillais
+il (elle) bouillait
+nous bouillions
+vous bouilliez
+ils (elles) bouillaient
+
+** Passé simple
+
+je bouillis
+tu bouillis
+il (elle) bouillit
+nous bouillîmes
+vous bouillîtes
+ils (elles) bouillirent
+
+** Futur simple
+
+je bouillirai
+tu bouilliras
+il (elle) bouillira
+nous bouillirons
+vous bouillirez
+ils (elles) bouilliront
+
+* CONDITIONNEL
+
+** Présent
+
+je bouillirais
+tu bouillirais
+il (elle) bouillirait
+nous bouillirions
+vous bouilliriez
+ils (elles) bouilliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bouille
+que tu bouilles
+qu’il (elle) bouille
+que nous bouillions
+que vous bouilliez
+qu’ils (elles) bouillent
+
+** Imparfait
+
+que je bouillisse
+que tu bouillisses
+qu’il (elle) bouillît
+que nous bouillissions
+que vous bouillissiez
+qu’ils (elles) bouillissent
+
+* IMPÉRATIF
+
+** Présent
+
+bous
+bouillons
+bouillez
+
+* INFINITIF
+
+** Présent
+
+bouillir
+
+* PARTICIPE
+
+** Présent
+
+bouillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bouilli
+tu as bouilli
+il (elle) a bouilli
+nous avons bouilli
+vous avez bouilli
+ils (elles) ont bouilli
+
+** Plus-que-parfait
+
+j'avais bouilli
+tu avais bouilli
+il (elle) avait bouilli
+nous avions bouilli
+vous aviez bouilli
+ils (elles) avaient bouilli
+
+** Passé antérieur
+
+j'eus bouilli
+tu eus bouilli
+il (elle) eut bouilli
+nous eûmes bouilli
+vous eûtes bouilli
+ils (elles) eurent bouilli
+
+** Futur antérieur
+
+j'aurai bouilli
+tu auras bouilli
+il (elle) aura bouilli
+nous aurons bouilli
+vous aurez bouilli
+ils (elles) auront bouilli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bouilli
+tu aurais bouilli
+il (elle) aurait bouilli
+nous aurions bouilli
+vous auriez bouilli
+ils (elles) auraient bouilli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bouilli
+que tu aies bouilli
+qu’il (elle) ait bouilli
+que nous ayons bouilli
+que vous ayez bouilli
+qu’ils (elles) aient bouilli
+
+** Plus-que-parfait
+
+que j'eusse bouilli
+que tu eusses bouilli
+qu’il (elle) eût bouilli
+que nous eussions bouilli
+que vous eussiez bouilli
+qu’ils (elles) eussent bouilli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bouilli
+ayez bouilli
+
+* INFINITIF
+
+** Passé
+
+avoir bouilli
+
+* PARTICIPE
+
+** Passé
+
+ayant bouilli
+bouilli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis bouilli(e)
+tu es bouilli(e)
+il (elle) est bouilli(e)
+nous sommes bouilli(e)s
+vous êtes bouilli(e)s
+ils (elles) sont bouilli(e)s
+
+** Imparfait
+
+j'étais bouilli(e)
+tu étais bouilli(e)
+il (elle) était bouilli(e)
+nous étions bouilli(e)s
+vous étiez bouilli(e)s
+ils (elles) étaient bouilli(e)s
+
+** Passé simple
+
+je fus bouilli(e)
+tu fus bouilli(e)
+il (elle) fut bouilli(e)
+nous fûmes bouilli(e)s
+vous fûtes bouilli(e)s
+ils (elles) furent bouilli(e)s
+
+** Futur simple
+
+je serai bouilli(e)
+tu seras bouilli(e)
+il (elle) sera bouilli(e)
+nous serons bouilli(e)s
+vous serez bouilli(e)s
+ils (elles) seront bouilli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bouilli(e)
+tu serais bouilli(e)
+il (elle) serait bouilli(e)
+nous serions bouilli(e)s
+vous seriez bouilli(e)s
+ils (elles) seraient bouilli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bouilli(e)
+que tu sois bouilli(e)
+qu’il (elle) soit bouilli(e)
+que nous soyons bouilli(e)s
+que vous soyez bouilli(e)s
+qu’ils (elles) soient bouilli(e)s
+
+** Imparfait
+
+que je fusse bouilli(e)
+que tu fusses bouilli(e)
+qu’il (elle) fût bouilli(e)
+que nous fussions bouilli(e)s
+que vous fussiez bouilli(e)s
+qu’ils (elles) fussent bouilli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bouilli(e)s
+soyez bouilli(e)s
+
+* INFINITIF
+
+** Présent
+
+être bouilli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bouilli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bouilli(e)
+tu as été bouilli(e)
+il (elle) a été bouilli(e)
+nous avons été bouilli(e)s
+vous avez été bouilli(e)s
+ils (elles) ont été bouilli(e)s
+
+** Plus-que-parfait
+
+j'avais été bouilli(e)
+il (elle) avait été bouilli(e)
+nous avions été bouilli(e)s
+ils (elles) avaient été bouilli(e)s
+
+** Passé antérieur
+
+j'eus été bouilli(e)
+tu eus été bouilli(e)
+il (elle) eut été bouilli(e)
+nous eûmes été bouilli(e)s
+vous eûtes été bouilli(e)s
+ils (elles) eurent été bouilli(e)s
+
+** Futur antérieur
+
+j'aurai été bouilli(e)
+tu auras été bouilli(e)
+il (elle) aura été bouilli(e)
+nous aurons été bouilli(e)s
+vous aurez été bouilli(e)s
+ils (elles) auront été bouilli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bouilli(e)
+j'aurais été bouilli(e)
+il (elle) aurait été bouilli(e)
+nous aurions été bouilli(e)s
+vous auriez été bouilli(e)s
+ils (elles) auraient été bouilli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bouilli(e)
+que tu aies été bouilli(e)
+qu’il (elle) ait été bouilli(e)
+que nous ayons été bouilli(e)s
+que vous ayez été bouilli(e)s
+qu’ils (elles) aient été bouilli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bouilli(e)
+que tu eusses été bouilli(e)
+qu’il (elle) eût été bouilli(e)
+que nous eussions été bouilli(e)s
+que vous eussiez été bouilli(e)s
+qu’ils (elles) eussent été bouilli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bouilli(e)
+ayons été bouilli(e)s
+ayez été bouilli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bouilli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bouilli(e)(s)

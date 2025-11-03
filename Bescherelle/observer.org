@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe observer
+
+* INDICATIF
+
+** Présent
+
+j'observe
+tu observes
+il (elle) observe
+nous observons
+vous observez
+ils (elles) observent
+
+** Imparfait
+
+j'observais
+tu observais
+il (elle) observait
+nous observions
+vous observiez
+ils (elles) observaient
+
+** Passé simple
+
+j'observai
+tu observas
+il (elle) observa
+nous observâmes
+vous observâtes
+ils (elles) observèrent
+
+** Futur simple
+
+j'observerai
+tu observeras
+il (elle) observera
+nous observerons
+vous observerez
+ils (elles) observeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'observerais
+tu observerais
+il (elle) observerait
+nous observerions
+vous observeriez
+ils (elles) observeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'observe
+que tu observes
+qu’il (elle) observe
+que nous observions
+que vous observiez
+qu’ils (elles) observent
+
+** Imparfait
+
+que j'observasse
+que tu observasses
+qu’il (elle) observât
+que nous observassions
+que vous observassiez
+qu’ils (elles) observassent
+
+* IMPÉRATIF
+
+** Présent
+
+observe
+observons
+observez
+
+* INFINITIF
+
+** Présent
+
+observer
+
+* PARTICIPE
+
+** Présent
+
+observant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai observé
+tu as observé
+il (elle) a observé
+nous avons observé
+vous avez observé
+ils (elles) ont observé
+
+** Plus-que-parfait
+
+j'avais observé
+tu avais observé
+il (elle) avait observé
+nous avions observé
+vous aviez observé
+ils (elles) avaient observé
+
+** Passé antérieur
+
+j'eus observé
+tu eus observé
+il (elle) eut observé
+nous eûmes observé
+vous eûtes observé
+ils (elles) eurent observé
+
+** Futur antérieur
+
+j'aurai observé
+tu auras observé
+il (elle) aura observé
+nous aurons observé
+vous aurez observé
+ils (elles) auront observé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais observé
+tu aurais observé
+il (elle) aurait observé
+nous aurions observé
+vous auriez observé
+ils (elles) auraient observé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie observé
+que tu aies observé
+qu’il (elle) ait observé
+que nous ayons observé
+que vous ayez observé
+qu’ils (elles) aient observé
+
+** Plus-que-parfait
+
+que j'eusse observé
+que tu eusses observé
+qu’il (elle) eût observé
+que nous eussions observé
+que vous eussiez observé
+qu’ils (elles) eussent observé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons observé
+ayez observé
+
+* INFINITIF
+
+** Passé
+
+avoir observé
+
+* PARTICIPE
+
+** Passé
+
+ayant observé
+observé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis observé(e)
+tu es observé(e)
+il (elle) est observé(e)
+nous sommes observé(e)s
+vous êtes observé(e)s
+ils (elles) sont observé(e)s
+
+** Imparfait
+
+j'étais observé(e)
+tu étais observé(e)
+il (elle) était observé(e)
+nous étions observé(e)s
+vous étiez observé(e)s
+ils (elles) étaient observé(e)s
+
+** Passé simple
+
+je fus observé(e)
+tu fus observé(e)
+il (elle) fut observé(e)
+nous fûmes observé(e)s
+vous fûtes observé(e)s
+ils (elles) furent observé(e)s
+
+** Futur simple
+
+je serai observé(e)
+tu seras observé(e)
+il (elle) sera observé(e)
+nous serons observé(e)s
+vous serez observé(e)s
+ils (elles) seront observé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais observé(e)
+tu serais observé(e)
+il (elle) serait observé(e)
+nous serions observé(e)s
+vous seriez observé(e)s
+ils (elles) seraient observé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois observé(e)
+que tu sois observé(e)
+qu’il (elle) soit observé(e)
+que nous soyons observé(e)s
+que vous soyez observé(e)s
+qu’ils (elles) soient observé(e)s
+
+** Imparfait
+
+que je fusse observé(e)
+que tu fusses observé(e)
+qu’il (elle) fût observé(e)
+que nous fussions observé(e)s
+que vous fussiez observé(e)s
+qu’ils (elles) fussent observé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons observé(e)s
+soyez observé(e)s
+
+* INFINITIF
+
+** Présent
+
+être observé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant observé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été observé(e)
+tu as été observé(e)
+il (elle) a été observé(e)
+nous avons été observé(e)s
+vous avez été observé(e)s
+ils (elles) ont été observé(e)s
+
+** Plus-que-parfait
+
+j'avais été observé(e)
+il (elle) avait été observé(e)
+nous avions été observé(e)s
+ils (elles) avaient été observé(e)s
+
+** Passé antérieur
+
+j'eus été observé(e)
+tu eus été observé(e)
+il (elle) eut été observé(e)
+nous eûmes été observé(e)s
+vous eûtes été observé(e)s
+ils (elles) eurent été observé(e)s
+
+** Futur antérieur
+
+j'aurai été observé(e)
+tu auras été observé(e)
+il (elle) aura été observé(e)
+nous aurons été observé(e)s
+vous aurez été observé(e)s
+ils (elles) auront été observé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été observé(e)
+j'aurais été observé(e)
+il (elle) aurait été observé(e)
+nous aurions été observé(e)s
+vous auriez été observé(e)s
+ils (elles) auraient été observé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été observé(e)
+que tu aies été observé(e)
+qu’il (elle) ait été observé(e)
+que nous ayons été observé(e)s
+que vous ayez été observé(e)s
+qu’ils (elles) aient été observé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été observé(e)
+que tu eusses été observé(e)
+qu’il (elle) eût été observé(e)
+que nous eussions été observé(e)s
+que vous eussiez été observé(e)s
+qu’ils (elles) eussent été observé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été observé(e)
+ayons été observé(e)s
+ayez été observé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été observé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été observé(e)(s)

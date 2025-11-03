@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe carreler
+
+* INDICATIF
+
+** Présent
+
+je carrelle
+tu carrelles
+il (elle) carrelle
+nous carrelons
+vous carrelez
+ils (elles) carrellent
+
+** Imparfait
+
+je carrelais
+tu carrelais
+il (elle) carrelait
+nous carrelions
+vous carreliez
+ils (elles) carrelaient
+
+** Passé simple
+
+je carrelai
+tu carrelas
+il (elle) carrela
+nous carrelâmes
+vous carrelâtes
+ils (elles) carrelèrent
+
+** Futur simple
+
+je carrellerai
+tu carrelleras
+il (elle) carrellera
+nous carrellerons
+vous carrellerez
+ils (elles) carrelleront
+
+* CONDITIONNEL
+
+** Présent
+
+je carrellerais
+tu carrellerais
+il (elle) carrellerait
+nous carrellerions
+vous carrelleriez
+ils (elles) carrelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je carrelle
+que tu carrelles
+qu’il (elle) carrelle
+que nous carrelions
+que vous carreliez
+qu’ils (elles) carrellent
+
+** Imparfait
+
+que je carrelasse
+que tu carrelasses
+qu’il (elle) carrelât
+que nous carrelassions
+que vous carrelassiez
+qu’ils (elles) carrelassent
+
+* IMPÉRATIF
+
+** Présent
+
+carrelle
+carrelons
+carrelez
+
+* INFINITIF
+
+** Présent
+
+carreler
+
+* PARTICIPE
+
+** Présent
+
+carrelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai carrelé
+tu as carrelé
+il (elle) a carrelé
+nous avons carrelé
+vous avez carrelé
+ils (elles) ont carrelé
+
+** Plus-que-parfait
+
+j'avais carrelé
+tu avais carrelé
+il (elle) avait carrelé
+nous avions carrelé
+vous aviez carrelé
+ils (elles) avaient carrelé
+
+** Passé antérieur
+
+j'eus carrelé
+tu eus carrelé
+il (elle) eut carrelé
+nous eûmes carrelé
+vous eûtes carrelé
+ils (elles) eurent carrelé
+
+** Futur antérieur
+
+j'aurai carrelé
+tu auras carrelé
+il (elle) aura carrelé
+nous aurons carrelé
+vous aurez carrelé
+ils (elles) auront carrelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais carrelé
+tu aurais carrelé
+il (elle) aurait carrelé
+nous aurions carrelé
+vous auriez carrelé
+ils (elles) auraient carrelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie carrelé
+que tu aies carrelé
+qu’il (elle) ait carrelé
+que nous ayons carrelé
+que vous ayez carrelé
+qu’ils (elles) aient carrelé
+
+** Plus-que-parfait
+
+que j'eusse carrelé
+que tu eusses carrelé
+qu’il (elle) eût carrelé
+que nous eussions carrelé
+que vous eussiez carrelé
+qu’ils (elles) eussent carrelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons carrelé
+ayez carrelé
+
+* INFINITIF
+
+** Passé
+
+avoir carrelé
+
+* PARTICIPE
+
+** Passé
+
+ayant carrelé
+carrelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis carrelé(e)
+tu es carrelé(e)
+il (elle) est carrelé(e)
+nous sommes carrelé(e)s
+vous êtes carrelé(e)s
+ils (elles) sont carrelé(e)s
+
+** Imparfait
+
+j'étais carrelé(e)
+tu étais carrelé(e)
+il (elle) était carrelé(e)
+nous étions carrelé(e)s
+vous étiez carrelé(e)s
+ils (elles) étaient carrelé(e)s
+
+** Passé simple
+
+je fus carrelé(e)
+tu fus carrelé(e)
+il (elle) fut carrelé(e)
+nous fûmes carrelé(e)s
+vous fûtes carrelé(e)s
+ils (elles) furent carrelé(e)s
+
+** Futur simple
+
+je serai carrelé(e)
+tu seras carrelé(e)
+il (elle) sera carrelé(e)
+nous serons carrelé(e)s
+vous serez carrelé(e)s
+ils (elles) seront carrelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais carrelé(e)
+tu serais carrelé(e)
+il (elle) serait carrelé(e)
+nous serions carrelé(e)s
+vous seriez carrelé(e)s
+ils (elles) seraient carrelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois carrelé(e)
+que tu sois carrelé(e)
+qu’il (elle) soit carrelé(e)
+que nous soyons carrelé(e)s
+que vous soyez carrelé(e)s
+qu’ils (elles) soient carrelé(e)s
+
+** Imparfait
+
+que je fusse carrelé(e)
+que tu fusses carrelé(e)
+qu’il (elle) fût carrelé(e)
+que nous fussions carrelé(e)s
+que vous fussiez carrelé(e)s
+qu’ils (elles) fussent carrelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons carrelé(e)s
+soyez carrelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être carrelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant carrelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été carrelé(e)
+tu as été carrelé(e)
+il (elle) a été carrelé(e)
+nous avons été carrelé(e)s
+vous avez été carrelé(e)s
+ils (elles) ont été carrelé(e)s
+
+** Plus-que-parfait
+
+j'avais été carrelé(e)
+il (elle) avait été carrelé(e)
+nous avions été carrelé(e)s
+ils (elles) avaient été carrelé(e)s
+
+** Passé antérieur
+
+j'eus été carrelé(e)
+tu eus été carrelé(e)
+il (elle) eut été carrelé(e)
+nous eûmes été carrelé(e)s
+vous eûtes été carrelé(e)s
+ils (elles) eurent été carrelé(e)s
+
+** Futur antérieur
+
+j'aurai été carrelé(e)
+tu auras été carrelé(e)
+il (elle) aura été carrelé(e)
+nous aurons été carrelé(e)s
+vous aurez été carrelé(e)s
+ils (elles) auront été carrelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été carrelé(e)
+j'aurais été carrelé(e)
+il (elle) aurait été carrelé(e)
+nous aurions été carrelé(e)s
+vous auriez été carrelé(e)s
+ils (elles) auraient été carrelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été carrelé(e)
+que tu aies été carrelé(e)
+qu’il (elle) ait été carrelé(e)
+que nous ayons été carrelé(e)s
+que vous ayez été carrelé(e)s
+qu’ils (elles) aient été carrelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été carrelé(e)
+que tu eusses été carrelé(e)
+qu’il (elle) eût été carrelé(e)
+que nous eussions été carrelé(e)s
+que vous eussiez été carrelé(e)s
+qu’ils (elles) eussent été carrelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été carrelé(e)
+ayons été carrelé(e)s
+ayez été carrelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été carrelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été carrelé(e)(s)

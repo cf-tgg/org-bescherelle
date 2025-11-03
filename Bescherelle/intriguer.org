@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe intriguer
+
+* INDICATIF
+
+** Présent
+
+j'intrigue
+tu intrigues
+il (elle) intrigue
+nous intriguons
+vous intriguez
+ils (elles) intriguent
+
+** Imparfait
+
+j'intriguais
+tu intriguais
+il (elle) intriguait
+nous intriguions
+vous intriguiez
+ils (elles) intriguaient
+
+** Passé simple
+
+j'intriguai
+tu intriguas
+il (elle) intrigua
+nous intriguâmes
+vous intriguâtes
+ils (elles) intriguèrent
+
+** Futur simple
+
+j'intriguerai
+tu intrigueras
+il (elle) intriguera
+nous intriguerons
+vous intriguerez
+ils (elles) intrigueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'intriguerais
+tu intriguerais
+il (elle) intriguerait
+nous intriguerions
+vous intrigueriez
+ils (elles) intrigueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'intrigue
+que tu intrigues
+qu’il (elle) intrigue
+que nous intriguions
+que vous intriguiez
+qu’ils (elles) intriguent
+
+** Imparfait
+
+que j'intriguasse
+que tu intriguasses
+qu’il (elle) intriguât
+que nous intriguassions
+que vous intriguassiez
+qu’ils (elles) intriguassent
+
+* IMPÉRATIF
+
+** Présent
+
+intrigue
+intriguons
+intriguez
+
+* INFINITIF
+
+** Présent
+
+intriguer
+
+* PARTICIPE
+
+** Présent
+
+intriguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai intrigué
+tu as intrigué
+il (elle) a intrigué
+nous avons intrigué
+vous avez intrigué
+ils (elles) ont intrigué
+
+** Plus-que-parfait
+
+j'avais intrigué
+tu avais intrigué
+il (elle) avait intrigué
+nous avions intrigué
+vous aviez intrigué
+ils (elles) avaient intrigué
+
+** Passé antérieur
+
+j'eus intrigué
+tu eus intrigué
+il (elle) eut intrigué
+nous eûmes intrigué
+vous eûtes intrigué
+ils (elles) eurent intrigué
+
+** Futur antérieur
+
+j'aurai intrigué
+tu auras intrigué
+il (elle) aura intrigué
+nous aurons intrigué
+vous aurez intrigué
+ils (elles) auront intrigué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais intrigué
+tu aurais intrigué
+il (elle) aurait intrigué
+nous aurions intrigué
+vous auriez intrigué
+ils (elles) auraient intrigué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie intrigué
+que tu aies intrigué
+qu’il (elle) ait intrigué
+que nous ayons intrigué
+que vous ayez intrigué
+qu’ils (elles) aient intrigué
+
+** Plus-que-parfait
+
+que j'eusse intrigué
+que tu eusses intrigué
+qu’il (elle) eût intrigué
+que nous eussions intrigué
+que vous eussiez intrigué
+qu’ils (elles) eussent intrigué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons intrigué
+ayez intrigué
+
+* INFINITIF
+
+** Passé
+
+avoir intrigué
+
+* PARTICIPE
+
+** Passé
+
+ayant intrigué
+intrigué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis intrigué(e)
+tu es intrigué(e)
+il (elle) est intrigué(e)
+nous sommes intrigué(e)s
+vous êtes intrigué(e)s
+ils (elles) sont intrigué(e)s
+
+** Imparfait
+
+j'étais intrigué(e)
+tu étais intrigué(e)
+il (elle) était intrigué(e)
+nous étions intrigué(e)s
+vous étiez intrigué(e)s
+ils (elles) étaient intrigué(e)s
+
+** Passé simple
+
+je fus intrigué(e)
+tu fus intrigué(e)
+il (elle) fut intrigué(e)
+nous fûmes intrigué(e)s
+vous fûtes intrigué(e)s
+ils (elles) furent intrigué(e)s
+
+** Futur simple
+
+je serai intrigué(e)
+tu seras intrigué(e)
+il (elle) sera intrigué(e)
+nous serons intrigué(e)s
+vous serez intrigué(e)s
+ils (elles) seront intrigué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais intrigué(e)
+tu serais intrigué(e)
+il (elle) serait intrigué(e)
+nous serions intrigué(e)s
+vous seriez intrigué(e)s
+ils (elles) seraient intrigué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois intrigué(e)
+que tu sois intrigué(e)
+qu’il (elle) soit intrigué(e)
+que nous soyons intrigué(e)s
+que vous soyez intrigué(e)s
+qu’ils (elles) soient intrigué(e)s
+
+** Imparfait
+
+que je fusse intrigué(e)
+que tu fusses intrigué(e)
+qu’il (elle) fût intrigué(e)
+que nous fussions intrigué(e)s
+que vous fussiez intrigué(e)s
+qu’ils (elles) fussent intrigué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons intrigué(e)s
+soyez intrigué(e)s
+
+* INFINITIF
+
+** Présent
+
+être intrigué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant intrigué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été intrigué(e)
+tu as été intrigué(e)
+il (elle) a été intrigué(e)
+nous avons été intrigué(e)s
+vous avez été intrigué(e)s
+ils (elles) ont été intrigué(e)s
+
+** Plus-que-parfait
+
+j'avais été intrigué(e)
+il (elle) avait été intrigué(e)
+nous avions été intrigué(e)s
+ils (elles) avaient été intrigué(e)s
+
+** Passé antérieur
+
+j'eus été intrigué(e)
+tu eus été intrigué(e)
+il (elle) eut été intrigué(e)
+nous eûmes été intrigué(e)s
+vous eûtes été intrigué(e)s
+ils (elles) eurent été intrigué(e)s
+
+** Futur antérieur
+
+j'aurai été intrigué(e)
+tu auras été intrigué(e)
+il (elle) aura été intrigué(e)
+nous aurons été intrigué(e)s
+vous aurez été intrigué(e)s
+ils (elles) auront été intrigué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été intrigué(e)
+j'aurais été intrigué(e)
+il (elle) aurait été intrigué(e)
+nous aurions été intrigué(e)s
+vous auriez été intrigué(e)s
+ils (elles) auraient été intrigué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été intrigué(e)
+que tu aies été intrigué(e)
+qu’il (elle) ait été intrigué(e)
+que nous ayons été intrigué(e)s
+que vous ayez été intrigué(e)s
+qu’ils (elles) aient été intrigué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été intrigué(e)
+que tu eusses été intrigué(e)
+qu’il (elle) eût été intrigué(e)
+que nous eussions été intrigué(e)s
+que vous eussiez été intrigué(e)s
+qu’ils (elles) eussent été intrigué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été intrigué(e)
+ayons été intrigué(e)s
+ayez été intrigué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été intrigué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été intrigué(e)(s)

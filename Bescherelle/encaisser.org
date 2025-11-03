@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe encaisser
+
+* INDICATIF
+
+** Présent
+
+j'encaisse
+tu encaisses
+il (elle) encaisse
+nous encaissons
+vous encaissez
+ils (elles) encaissent
+
+** Imparfait
+
+j'encaissais
+tu encaissais
+il (elle) encaissait
+nous encaissions
+vous encaissiez
+ils (elles) encaissaient
+
+** Passé simple
+
+j'encaissai
+tu encaissas
+il (elle) encaissa
+nous encaissâmes
+vous encaissâtes
+ils (elles) encaissèrent
+
+** Futur simple
+
+j'encaisserai
+tu encaisseras
+il (elle) encaissera
+nous encaisserons
+vous encaisserez
+ils (elles) encaisseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'encaisserais
+tu encaisserais
+il (elle) encaisserait
+nous encaisserions
+vous encaisseriez
+ils (elles) encaisseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'encaisse
+que tu encaisses
+qu’il (elle) encaisse
+que nous encaissions
+que vous encaissiez
+qu’ils (elles) encaissent
+
+** Imparfait
+
+que j'encaissasse
+que tu encaissasses
+qu’il (elle) encaissât
+que nous encaissassions
+que vous encaissassiez
+qu’ils (elles) encaissassent
+
+* IMPÉRATIF
+
+** Présent
+
+encaisse
+encaissons
+encaissez
+
+* INFINITIF
+
+** Présent
+
+encaisser
+
+* PARTICIPE
+
+** Présent
+
+encaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai encaissé
+tu as encaissé
+il (elle) a encaissé
+nous avons encaissé
+vous avez encaissé
+ils (elles) ont encaissé
+
+** Plus-que-parfait
+
+j'avais encaissé
+tu avais encaissé
+il (elle) avait encaissé
+nous avions encaissé
+vous aviez encaissé
+ils (elles) avaient encaissé
+
+** Passé antérieur
+
+j'eus encaissé
+tu eus encaissé
+il (elle) eut encaissé
+nous eûmes encaissé
+vous eûtes encaissé
+ils (elles) eurent encaissé
+
+** Futur antérieur
+
+j'aurai encaissé
+tu auras encaissé
+il (elle) aura encaissé
+nous aurons encaissé
+vous aurez encaissé
+ils (elles) auront encaissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais encaissé
+tu aurais encaissé
+il (elle) aurait encaissé
+nous aurions encaissé
+vous auriez encaissé
+ils (elles) auraient encaissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie encaissé
+que tu aies encaissé
+qu’il (elle) ait encaissé
+que nous ayons encaissé
+que vous ayez encaissé
+qu’ils (elles) aient encaissé
+
+** Plus-que-parfait
+
+que j'eusse encaissé
+que tu eusses encaissé
+qu’il (elle) eût encaissé
+que nous eussions encaissé
+que vous eussiez encaissé
+qu’ils (elles) eussent encaissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons encaissé
+ayez encaissé
+
+* INFINITIF
+
+** Passé
+
+avoir encaissé
+
+* PARTICIPE
+
+** Passé
+
+ayant encaissé
+encaissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis encaissé(e)
+tu es encaissé(e)
+il (elle) est encaissé(e)
+nous sommes encaissé(e)s
+vous êtes encaissé(e)s
+ils (elles) sont encaissé(e)s
+
+** Imparfait
+
+j'étais encaissé(e)
+tu étais encaissé(e)
+il (elle) était encaissé(e)
+nous étions encaissé(e)s
+vous étiez encaissé(e)s
+ils (elles) étaient encaissé(e)s
+
+** Passé simple
+
+je fus encaissé(e)
+tu fus encaissé(e)
+il (elle) fut encaissé(e)
+nous fûmes encaissé(e)s
+vous fûtes encaissé(e)s
+ils (elles) furent encaissé(e)s
+
+** Futur simple
+
+je serai encaissé(e)
+tu seras encaissé(e)
+il (elle) sera encaissé(e)
+nous serons encaissé(e)s
+vous serez encaissé(e)s
+ils (elles) seront encaissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais encaissé(e)
+tu serais encaissé(e)
+il (elle) serait encaissé(e)
+nous serions encaissé(e)s
+vous seriez encaissé(e)s
+ils (elles) seraient encaissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois encaissé(e)
+que tu sois encaissé(e)
+qu’il (elle) soit encaissé(e)
+que nous soyons encaissé(e)s
+que vous soyez encaissé(e)s
+qu’ils (elles) soient encaissé(e)s
+
+** Imparfait
+
+que je fusse encaissé(e)
+que tu fusses encaissé(e)
+qu’il (elle) fût encaissé(e)
+que nous fussions encaissé(e)s
+que vous fussiez encaissé(e)s
+qu’ils (elles) fussent encaissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons encaissé(e)s
+soyez encaissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être encaissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant encaissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été encaissé(e)
+tu as été encaissé(e)
+il (elle) a été encaissé(e)
+nous avons été encaissé(e)s
+vous avez été encaissé(e)s
+ils (elles) ont été encaissé(e)s
+
+** Plus-que-parfait
+
+j'avais été encaissé(e)
+il (elle) avait été encaissé(e)
+nous avions été encaissé(e)s
+ils (elles) avaient été encaissé(e)s
+
+** Passé antérieur
+
+j'eus été encaissé(e)
+tu eus été encaissé(e)
+il (elle) eut été encaissé(e)
+nous eûmes été encaissé(e)s
+vous eûtes été encaissé(e)s
+ils (elles) eurent été encaissé(e)s
+
+** Futur antérieur
+
+j'aurai été encaissé(e)
+tu auras été encaissé(e)
+il (elle) aura été encaissé(e)
+nous aurons été encaissé(e)s
+vous aurez été encaissé(e)s
+ils (elles) auront été encaissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été encaissé(e)
+j'aurais été encaissé(e)
+il (elle) aurait été encaissé(e)
+nous aurions été encaissé(e)s
+vous auriez été encaissé(e)s
+ils (elles) auraient été encaissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été encaissé(e)
+que tu aies été encaissé(e)
+qu’il (elle) ait été encaissé(e)
+que nous ayons été encaissé(e)s
+que vous ayez été encaissé(e)s
+qu’ils (elles) aient été encaissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été encaissé(e)
+que tu eusses été encaissé(e)
+qu’il (elle) eût été encaissé(e)
+que nous eussions été encaissé(e)s
+que vous eussiez été encaissé(e)s
+qu’ils (elles) eussent été encaissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été encaissé(e)
+ayons été encaissé(e)s
+ayez été encaissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été encaissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été encaissé(e)(s)

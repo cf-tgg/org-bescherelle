@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gravir
+
+* INDICATIF
+
+** Présent
+
+je gravis
+tu gravis
+il (elle) gravit
+nous gravissons
+vous gravissez
+ils (elles) gravissent
+
+** Imparfait
+
+je gravissais
+tu gravissais
+il (elle) gravissait
+nous gravissions
+vous gravissiez
+ils (elles) gravissaient
+
+** Passé simple
+
+je gravis
+tu gravis
+il (elle) gravit
+nous gravîmes
+vous gravîtes
+ils (elles) gravirent
+
+** Futur simple
+
+je gravirai
+tu graviras
+il (elle) gravira
+nous gravirons
+vous gravirez
+ils (elles) graviront
+
+* CONDITIONNEL
+
+** Présent
+
+je gravirais
+tu gravirais
+il (elle) gravirait
+nous gravirions
+vous graviriez
+ils (elles) graviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gravisse
+que tu gravisses
+qu’il (elle) gravisse
+que nous gravissions
+que vous gravissiez
+qu’ils (elles) gravissent
+
+** Imparfait
+
+que je gravisse
+que tu gravisses
+qu’il (elle) gravît
+que nous gravissions
+que vous gravissiez
+qu’ils (elles) gravissent
+
+* IMPÉRATIF
+
+** Présent
+
+gravis
+gravissons
+gravissez
+
+* INFINITIF
+
+** Présent
+
+gravir
+
+* PARTICIPE
+
+** Présent
+
+gravissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gravi
+tu as gravi
+il (elle) a gravi
+nous avons gravi
+vous avez gravi
+ils (elles) ont gravi
+
+** Plus-que-parfait
+
+j'avais gravi
+tu avais gravi
+il (elle) avait gravi
+nous avions gravi
+vous aviez gravi
+ils (elles) avaient gravi
+
+** Passé antérieur
+
+j'eus gravi
+tu eus gravi
+il (elle) eut gravi
+nous eûmes gravi
+vous eûtes gravi
+ils (elles) eurent gravi
+
+** Futur antérieur
+
+j'aurai gravi
+tu auras gravi
+il (elle) aura gravi
+nous aurons gravi
+vous aurez gravi
+ils (elles) auront gravi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gravi
+tu aurais gravi
+il (elle) aurait gravi
+nous aurions gravi
+vous auriez gravi
+ils (elles) auraient gravi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gravi
+que tu aies gravi
+qu’il (elle) ait gravi
+que nous ayons gravi
+que vous ayez gravi
+qu’ils (elles) aient gravi
+
+** Plus-que-parfait
+
+que j'eusse gravi
+que tu eusses gravi
+qu’il (elle) eût gravi
+que nous eussions gravi
+que vous eussiez gravi
+qu’ils (elles) eussent gravi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gravi
+ayez gravi
+
+* INFINITIF
+
+** Passé
+
+avoir gravi
+
+* PARTICIPE
+
+** Passé
+
+ayant gravi
+gravi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis gravi(e)
+tu es gravi(e)
+il (elle) est gravi(e)
+nous sommes gravi(e)s
+vous êtes gravi(e)s
+ils (elles) sont gravi(e)s
+
+** Imparfait
+
+j'étais gravi(e)
+tu étais gravi(e)
+il (elle) était gravi(e)
+nous étions gravi(e)s
+vous étiez gravi(e)s
+ils (elles) étaient gravi(e)s
+
+** Passé simple
+
+je fus gravi(e)
+tu fus gravi(e)
+il (elle) fut gravi(e)
+nous fûmes gravi(e)s
+vous fûtes gravi(e)s
+ils (elles) furent gravi(e)s
+
+** Futur simple
+
+je serai gravi(e)
+tu seras gravi(e)
+il (elle) sera gravi(e)
+nous serons gravi(e)s
+vous serez gravi(e)s
+ils (elles) seront gravi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gravi(e)
+tu serais gravi(e)
+il (elle) serait gravi(e)
+nous serions gravi(e)s
+vous seriez gravi(e)s
+ils (elles) seraient gravi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gravi(e)
+que tu sois gravi(e)
+qu’il (elle) soit gravi(e)
+que nous soyons gravi(e)s
+que vous soyez gravi(e)s
+qu’ils (elles) soient gravi(e)s
+
+** Imparfait
+
+que je fusse gravi(e)
+que tu fusses gravi(e)
+qu’il (elle) fût gravi(e)
+que nous fussions gravi(e)s
+que vous fussiez gravi(e)s
+qu’ils (elles) fussent gravi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gravi(e)s
+soyez gravi(e)s
+
+* INFINITIF
+
+** Présent
+
+être gravi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gravi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gravi(e)
+tu as été gravi(e)
+il (elle) a été gravi(e)
+nous avons été gravi(e)s
+vous avez été gravi(e)s
+ils (elles) ont été gravi(e)s
+
+** Plus-que-parfait
+
+j'avais été gravi(e)
+il (elle) avait été gravi(e)
+nous avions été gravi(e)s
+ils (elles) avaient été gravi(e)s
+
+** Passé antérieur
+
+j'eus été gravi(e)
+tu eus été gravi(e)
+il (elle) eut été gravi(e)
+nous eûmes été gravi(e)s
+vous eûtes été gravi(e)s
+ils (elles) eurent été gravi(e)s
+
+** Futur antérieur
+
+j'aurai été gravi(e)
+tu auras été gravi(e)
+il (elle) aura été gravi(e)
+nous aurons été gravi(e)s
+vous aurez été gravi(e)s
+ils (elles) auront été gravi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gravi(e)
+j'aurais été gravi(e)
+il (elle) aurait été gravi(e)
+nous aurions été gravi(e)s
+vous auriez été gravi(e)s
+ils (elles) auraient été gravi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gravi(e)
+que tu aies été gravi(e)
+qu’il (elle) ait été gravi(e)
+que nous ayons été gravi(e)s
+que vous ayez été gravi(e)s
+qu’ils (elles) aient été gravi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gravi(e)
+que tu eusses été gravi(e)
+qu’il (elle) eût été gravi(e)
+que nous eussions été gravi(e)s
+que vous eussiez été gravi(e)s
+qu’ils (elles) eussent été gravi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gravi(e)
+ayons été gravi(e)s
+ayez été gravi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gravi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gravi(e)(s)

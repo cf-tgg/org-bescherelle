@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe etinceler
+
+* INDICATIF
+
+** Présent
+
+j'étincelle
+tu étincelles
+il (elle) étincelle
+nous étincelons
+vous étincelez
+ils (elles) étincellent
+
+** Imparfait
+
+j'étincelais
+tu étincelais
+il (elle) étincelait
+nous étincelions
+vous étinceliez
+ils (elles) étincelaient
+
+** Passé simple
+
+j'étincelai
+tu étincelas
+il (elle) étincela
+nous étincelâmes
+vous étincelâtes
+ils (elles) étincelèrent
+
+** Futur simple
+
+j'étincellerai
+tu étincelleras
+il (elle) étincellera
+nous étincellerons
+vous étincellerez
+ils (elles) étincelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étincellerais
+tu étincellerais
+il (elle) étincellerait
+nous étincellerions
+vous étincelleriez
+ils (elles) étincelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étincelle
+que tu étincelles
+qu’il (elle) étincelle
+que nous étincelions
+que vous étinceliez
+qu’ils (elles) étincellent
+
+** Imparfait
+
+que j'étincelasse
+que tu étincelasses
+qu’il (elle) étincelât
+que nous étincelassions
+que vous étincelassiez
+qu’ils (elles) étincelassent
+
+* IMPÉRATIF
+
+** Présent
+
+étincelle
+étincelons
+étincelez
+
+* INFINITIF
+
+** Présent
+
+étinceler
+
+* PARTICIPE
+
+** Présent
+
+étincelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étincelé
+tu as étincelé
+il (elle) a étincelé
+nous avons étincelé
+vous avez étincelé
+ils (elles) ont étincelé
+
+** Plus-que-parfait
+
+j'avais étincelé
+tu avais étincelé
+il (elle) avait étincelé
+nous avions étincelé
+vous aviez étincelé
+ils (elles) avaient étincelé
+
+** Passé antérieur
+
+j'eus étincelé
+tu eus étincelé
+il (elle) eut étincelé
+nous eûmes étincelé
+vous eûtes étincelé
+ils (elles) eurent étincelé
+
+** Futur antérieur
+
+j'aurai étincelé
+tu auras étincelé
+il (elle) aura étincelé
+nous aurons étincelé
+vous aurez étincelé
+ils (elles) auront étincelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étincelé
+tu aurais étincelé
+il (elle) aurait étincelé
+nous aurions étincelé
+vous auriez étincelé
+ils (elles) auraient étincelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étincelé
+que tu aies étincelé
+qu’il (elle) ait étincelé
+que nous ayons étincelé
+que vous ayez étincelé
+qu’ils (elles) aient étincelé
+
+** Plus-que-parfait
+
+que j'eusse étincelé
+que tu eusses étincelé
+qu’il (elle) eût étincelé
+que nous eussions étincelé
+que vous eussiez étincelé
+qu’ils (elles) eussent étincelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étincelé
+ayez étincelé
+
+* INFINITIF
+
+** Passé
+
+avoir étincelé
+
+* PARTICIPE
+
+** Passé
+
+ayant étincelé
+étincelé (invar.)

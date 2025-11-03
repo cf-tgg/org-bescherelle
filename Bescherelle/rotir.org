@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rotir
+
+* INDICATIF
+
+** Présent
+
+je rôtis
+tu rôtis
+il (elle) rôtit
+nous rôtissons
+vous rôtissez
+ils (elles) rôtissent
+
+** Imparfait
+
+je rôtissais
+tu rôtissais
+il (elle) rôtissait
+nous rôtissions
+vous rôtissiez
+ils (elles) rôtissaient
+
+** Passé simple
+
+je rôtis
+tu rôtis
+il (elle) rôtit
+nous rôtîmes
+vous rôtîtes
+ils (elles) rôtirent
+
+** Futur simple
+
+je rôtirai
+tu rôtiras
+il (elle) rôtira
+nous rôtirons
+vous rôtirez
+ils (elles) rôtiront
+
+* CONDITIONNEL
+
+** Présent
+
+je rôtirais
+tu rôtirais
+il (elle) rôtirait
+nous rôtirions
+vous rôtiriez
+ils (elles) rôtiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rôtisse
+que tu rôtisses
+qu’il (elle) rôtisse
+que nous rôtissions
+que vous rôtissiez
+qu’ils (elles) rôtissent
+
+** Imparfait
+
+que je rôtisse
+que tu rôtisses
+qu’il (elle) rôtît
+que nous rôtissions
+que vous rôtissiez
+qu’ils (elles) rôtissent
+
+* IMPÉRATIF
+
+** Présent
+
+rôtis
+rôtissons
+rôtissez
+
+* INFINITIF
+
+** Présent
+
+rôtir
+
+* PARTICIPE
+
+** Présent
+
+rôtissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rôti
+tu as rôti
+il (elle) a rôti
+nous avons rôti
+vous avez rôti
+ils (elles) ont rôti
+
+** Plus-que-parfait
+
+j'avais rôti
+tu avais rôti
+il (elle) avait rôti
+nous avions rôti
+vous aviez rôti
+ils (elles) avaient rôti
+
+** Passé antérieur
+
+j'eus rôti
+tu eus rôti
+il (elle) eut rôti
+nous eûmes rôti
+vous eûtes rôti
+ils (elles) eurent rôti
+
+** Futur antérieur
+
+j'aurai rôti
+tu auras rôti
+il (elle) aura rôti
+nous aurons rôti
+vous aurez rôti
+ils (elles) auront rôti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rôti
+tu aurais rôti
+il (elle) aurait rôti
+nous aurions rôti
+vous auriez rôti
+ils (elles) auraient rôti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rôti
+que tu aies rôti
+qu’il (elle) ait rôti
+que nous ayons rôti
+que vous ayez rôti
+qu’ils (elles) aient rôti
+
+** Plus-que-parfait
+
+que j'eusse rôti
+que tu eusses rôti
+qu’il (elle) eût rôti
+que nous eussions rôti
+que vous eussiez rôti
+qu’ils (elles) eussent rôti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rôti
+ayez rôti
+
+* INFINITIF
+
+** Passé
+
+avoir rôti
+
+* PARTICIPE
+
+** Passé
+
+ayant rôti
+rôti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis rôti(e)
+tu es rôti(e)
+il (elle) est rôti(e)
+nous sommes rôti(e)s
+vous êtes rôti(e)s
+ils (elles) sont rôti(e)s
+
+** Imparfait
+
+j'étais rôti(e)
+tu étais rôti(e)
+il (elle) était rôti(e)
+nous étions rôti(e)s
+vous étiez rôti(e)s
+ils (elles) étaient rôti(e)s
+
+** Passé simple
+
+je fus rôti(e)
+tu fus rôti(e)
+il (elle) fut rôti(e)
+nous fûmes rôti(e)s
+vous fûtes rôti(e)s
+ils (elles) furent rôti(e)s
+
+** Futur simple
+
+je serai rôti(e)
+tu seras rôti(e)
+il (elle) sera rôti(e)
+nous serons rôti(e)s
+vous serez rôti(e)s
+ils (elles) seront rôti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rôti(e)
+tu serais rôti(e)
+il (elle) serait rôti(e)
+nous serions rôti(e)s
+vous seriez rôti(e)s
+ils (elles) seraient rôti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rôti(e)
+que tu sois rôti(e)
+qu’il (elle) soit rôti(e)
+que nous soyons rôti(e)s
+que vous soyez rôti(e)s
+qu’ils (elles) soient rôti(e)s
+
+** Imparfait
+
+que je fusse rôti(e)
+que tu fusses rôti(e)
+qu’il (elle) fût rôti(e)
+que nous fussions rôti(e)s
+que vous fussiez rôti(e)s
+qu’ils (elles) fussent rôti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rôti(e)s
+soyez rôti(e)s
+
+* INFINITIF
+
+** Présent
+
+être rôti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rôti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rôti(e)
+tu as été rôti(e)
+il (elle) a été rôti(e)
+nous avons été rôti(e)s
+vous avez été rôti(e)s
+ils (elles) ont été rôti(e)s
+
+** Plus-que-parfait
+
+j'avais été rôti(e)
+il (elle) avait été rôti(e)
+nous avions été rôti(e)s
+ils (elles) avaient été rôti(e)s
+
+** Passé antérieur
+
+j'eus été rôti(e)
+tu eus été rôti(e)
+il (elle) eut été rôti(e)
+nous eûmes été rôti(e)s
+vous eûtes été rôti(e)s
+ils (elles) eurent été rôti(e)s
+
+** Futur antérieur
+
+j'aurai été rôti(e)
+tu auras été rôti(e)
+il (elle) aura été rôti(e)
+nous aurons été rôti(e)s
+vous aurez été rôti(e)s
+ils (elles) auront été rôti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rôti(e)
+j'aurais été rôti(e)
+il (elle) aurait été rôti(e)
+nous aurions été rôti(e)s
+vous auriez été rôti(e)s
+ils (elles) auraient été rôti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rôti(e)
+que tu aies été rôti(e)
+qu’il (elle) ait été rôti(e)
+que nous ayons été rôti(e)s
+que vous ayez été rôti(e)s
+qu’ils (elles) aient été rôti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rôti(e)
+que tu eusses été rôti(e)
+qu’il (elle) eût été rôti(e)
+que nous eussions été rôti(e)s
+que vous eussiez été rôti(e)s
+qu’ils (elles) eussent été rôti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rôti(e)
+ayons été rôti(e)s
+ayez été rôti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rôti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rôti(e)(s)

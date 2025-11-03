@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe soutenir
+
+* INDICATIF
+
+** Présent
+
+je soutiens
+tu soutiens
+il (elle) soutient
+nous soutenons
+vous soutenez
+ils (elles) soutiennent
+
+** Imparfait
+
+je soutenais
+tu soutenais
+il (elle) soutenait
+nous soutenions
+vous souteniez
+ils (elles) soutenaient
+
+** Passé simple
+
+je soutins
+tu soutins
+il (elle) soutint
+nous soutînmes
+vous soutîntes
+ils (elles) soutinrent
+
+** Futur simple
+
+je soutiendrai
+tu soutiendras
+il (elle) soutiendra
+nous soutiendrons
+vous soutiendrez
+ils (elles) soutiendront
+
+* CONDITIONNEL
+
+** Présent
+
+je soutiendrais
+tu soutiendrais
+il (elle) soutiendrait
+nous soutiendrions
+vous soutiendriez
+ils (elles) soutiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soutienne
+que tu soutiennes
+qu’il (elle) soutienne
+que nous soutenions
+que vous souteniez
+qu’ils (elles) soutiennent
+
+** Imparfait
+
+que je soutinsse
+que tu soutinsses
+qu’il (elle) soutînt
+que nous soutinssions
+que vous soutinssiez
+qu’ils (elles) soutinssent
+
+* IMPÉRATIF
+
+** Présent
+
+soutiens
+soutenons
+soutenez
+
+* INFINITIF
+
+** Présent
+
+soutenir
+
+* PARTICIPE
+
+** Présent
+
+soutenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soutenu
+tu as soutenu
+il (elle) a soutenu
+nous avons soutenu
+vous avez soutenu
+ils (elles) ont soutenu
+
+** Plus-que-parfait
+
+j'avais soutenu
+tu avais soutenu
+il (elle) avait soutenu
+nous avions soutenu
+vous aviez soutenu
+ils (elles) avaient soutenu
+
+** Passé antérieur
+
+j'eus soutenu
+tu eus soutenu
+il (elle) eut soutenu
+nous eûmes soutenu
+vous eûtes soutenu
+ils (elles) eurent soutenu
+
+** Futur antérieur
+
+j'aurai soutenu
+tu auras soutenu
+il (elle) aura soutenu
+nous aurons soutenu
+vous aurez soutenu
+ils (elles) auront soutenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soutenu
+tu aurais soutenu
+il (elle) aurait soutenu
+nous aurions soutenu
+vous auriez soutenu
+ils (elles) auraient soutenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soutenu
+que tu aies soutenu
+qu’il (elle) ait soutenu
+que nous ayons soutenu
+que vous ayez soutenu
+qu’ils (elles) aient soutenu
+
+** Plus-que-parfait
+
+que j'eusse soutenu
+que tu eusses soutenu
+qu’il (elle) eût soutenu
+que nous eussions soutenu
+que vous eussiez soutenu
+qu’ils (elles) eussent soutenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soutenu
+ayez soutenu
+
+* INFINITIF
+
+** Passé
+
+avoir soutenu
+
+* PARTICIPE
+
+** Passé
+
+ayant soutenu
+soutenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis soutenu(e)
+tu es soutenu(e)
+il (elle) est soutenu(e)
+nous sommes soutenu(e)s
+vous êtes soutenu(e)s
+ils (elles) sont soutenu(e)s
+
+** Imparfait
+
+j'étais soutenu(e)
+tu étais soutenu(e)
+il (elle) était soutenu(e)
+nous étions soutenu(e)s
+vous étiez soutenu(e)s
+ils (elles) étaient soutenu(e)s
+
+** Passé simple
+
+je fus soutenu(e)
+tu fus soutenu(e)
+il (elle) fut soutenu(e)
+nous fûmes soutenu(e)s
+vous fûtes soutenu(e)s
+ils (elles) furent soutenu(e)s
+
+** Futur simple
+
+je serai soutenu(e)
+tu seras soutenu(e)
+il (elle) sera soutenu(e)
+nous serons soutenu(e)s
+vous serez soutenu(e)s
+ils (elles) seront soutenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soutenu(e)
+tu serais soutenu(e)
+il (elle) serait soutenu(e)
+nous serions soutenu(e)s
+vous seriez soutenu(e)s
+ils (elles) seraient soutenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soutenu(e)
+que tu sois soutenu(e)
+qu’il (elle) soit soutenu(e)
+que nous soyons soutenu(e)s
+que vous soyez soutenu(e)s
+qu’ils (elles) soient soutenu(e)s
+
+** Imparfait
+
+que je fusse soutenu(e)
+que tu fusses soutenu(e)
+qu’il (elle) fût soutenu(e)
+que nous fussions soutenu(e)s
+que vous fussiez soutenu(e)s
+qu’ils (elles) fussent soutenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soutenu(e)s
+soyez soutenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être soutenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soutenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soutenu(e)
+tu as été soutenu(e)
+il (elle) a été soutenu(e)
+nous avons été soutenu(e)s
+vous avez été soutenu(e)s
+ils (elles) ont été soutenu(e)s
+
+** Plus-que-parfait
+
+j'avais été soutenu(e)
+il (elle) avait été soutenu(e)
+nous avions été soutenu(e)s
+ils (elles) avaient été soutenu(e)s
+
+** Passé antérieur
+
+j'eus été soutenu(e)
+tu eus été soutenu(e)
+il (elle) eut été soutenu(e)
+nous eûmes été soutenu(e)s
+vous eûtes été soutenu(e)s
+ils (elles) eurent été soutenu(e)s
+
+** Futur antérieur
+
+j'aurai été soutenu(e)
+tu auras été soutenu(e)
+il (elle) aura été soutenu(e)
+nous aurons été soutenu(e)s
+vous aurez été soutenu(e)s
+ils (elles) auront été soutenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soutenu(e)
+j'aurais été soutenu(e)
+il (elle) aurait été soutenu(e)
+nous aurions été soutenu(e)s
+vous auriez été soutenu(e)s
+ils (elles) auraient été soutenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soutenu(e)
+que tu aies été soutenu(e)
+qu’il (elle) ait été soutenu(e)
+que nous ayons été soutenu(e)s
+que vous ayez été soutenu(e)s
+qu’ils (elles) aient été soutenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soutenu(e)
+que tu eusses été soutenu(e)
+qu’il (elle) eût été soutenu(e)
+que nous eussions été soutenu(e)s
+que vous eussiez été soutenu(e)s
+qu’ils (elles) eussent été soutenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soutenu(e)
+ayons été soutenu(e)s
+ayez été soutenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soutenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soutenu(e)(s)

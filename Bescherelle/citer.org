@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe citer
+
+* INDICATIF
+
+** Présent
+
+je cite
+tu cites
+il (elle) cite
+nous citons
+vous citez
+ils (elles) citent
+
+** Imparfait
+
+je citais
+tu citais
+il (elle) citait
+nous citions
+vous citiez
+ils (elles) citaient
+
+** Passé simple
+
+je citai
+tu citas
+il (elle) cita
+nous citâmes
+vous citâtes
+ils (elles) citèrent
+
+** Futur simple
+
+je citerai
+tu citeras
+il (elle) citera
+nous citerons
+vous citerez
+ils (elles) citeront
+
+* CONDITIONNEL
+
+** Présent
+
+je citerais
+tu citerais
+il (elle) citerait
+nous citerions
+vous citeriez
+ils (elles) citeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cite
+que tu cites
+qu’il (elle) cite
+que nous citions
+que vous citiez
+qu’ils (elles) citent
+
+** Imparfait
+
+que je citasse
+que tu citasses
+qu’il (elle) citât
+que nous citassions
+que vous citassiez
+qu’ils (elles) citassent
+
+* IMPÉRATIF
+
+** Présent
+
+cite
+citons
+citez
+
+* INFINITIF
+
+** Présent
+
+citer
+
+* PARTICIPE
+
+** Présent
+
+citant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cité
+tu as cité
+il (elle) a cité
+nous avons cité
+vous avez cité
+ils (elles) ont cité
+
+** Plus-que-parfait
+
+j'avais cité
+tu avais cité
+il (elle) avait cité
+nous avions cité
+vous aviez cité
+ils (elles) avaient cité
+
+** Passé antérieur
+
+j'eus cité
+tu eus cité
+il (elle) eut cité
+nous eûmes cité
+vous eûtes cité
+ils (elles) eurent cité
+
+** Futur antérieur
+
+j'aurai cité
+tu auras cité
+il (elle) aura cité
+nous aurons cité
+vous aurez cité
+ils (elles) auront cité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cité
+tu aurais cité
+il (elle) aurait cité
+nous aurions cité
+vous auriez cité
+ils (elles) auraient cité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cité
+que tu aies cité
+qu’il (elle) ait cité
+que nous ayons cité
+que vous ayez cité
+qu’ils (elles) aient cité
+
+** Plus-que-parfait
+
+que j'eusse cité
+que tu eusses cité
+qu’il (elle) eût cité
+que nous eussions cité
+que vous eussiez cité
+qu’ils (elles) eussent cité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cité
+ayez cité
+
+* INFINITIF
+
+** Passé
+
+avoir cité
+
+* PARTICIPE
+
+** Passé
+
+ayant cité
+cité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cité(e)
+tu es cité(e)
+il (elle) est cité(e)
+nous sommes cité(e)s
+vous êtes cité(e)s
+ils (elles) sont cité(e)s
+
+** Imparfait
+
+j'étais cité(e)
+tu étais cité(e)
+il (elle) était cité(e)
+nous étions cité(e)s
+vous étiez cité(e)s
+ils (elles) étaient cité(e)s
+
+** Passé simple
+
+je fus cité(e)
+tu fus cité(e)
+il (elle) fut cité(e)
+nous fûmes cité(e)s
+vous fûtes cité(e)s
+ils (elles) furent cité(e)s
+
+** Futur simple
+
+je serai cité(e)
+tu seras cité(e)
+il (elle) sera cité(e)
+nous serons cité(e)s
+vous serez cité(e)s
+ils (elles) seront cité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cité(e)
+tu serais cité(e)
+il (elle) serait cité(e)
+nous serions cité(e)s
+vous seriez cité(e)s
+ils (elles) seraient cité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cité(e)
+que tu sois cité(e)
+qu’il (elle) soit cité(e)
+que nous soyons cité(e)s
+que vous soyez cité(e)s
+qu’ils (elles) soient cité(e)s
+
+** Imparfait
+
+que je fusse cité(e)
+que tu fusses cité(e)
+qu’il (elle) fût cité(e)
+que nous fussions cité(e)s
+que vous fussiez cité(e)s
+qu’ils (elles) fussent cité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cité(e)s
+soyez cité(e)s
+
+* INFINITIF
+
+** Présent
+
+être cité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cité(e)
+tu as été cité(e)
+il (elle) a été cité(e)
+nous avons été cité(e)s
+vous avez été cité(e)s
+ils (elles) ont été cité(e)s
+
+** Plus-que-parfait
+
+j'avais été cité(e)
+il (elle) avait été cité(e)
+nous avions été cité(e)s
+ils (elles) avaient été cité(e)s
+
+** Passé antérieur
+
+j'eus été cité(e)
+tu eus été cité(e)
+il (elle) eut été cité(e)
+nous eûmes été cité(e)s
+vous eûtes été cité(e)s
+ils (elles) eurent été cité(e)s
+
+** Futur antérieur
+
+j'aurai été cité(e)
+tu auras été cité(e)
+il (elle) aura été cité(e)
+nous aurons été cité(e)s
+vous aurez été cité(e)s
+ils (elles) auront été cité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cité(e)
+j'aurais été cité(e)
+il (elle) aurait été cité(e)
+nous aurions été cité(e)s
+vous auriez été cité(e)s
+ils (elles) auraient été cité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cité(e)
+que tu aies été cité(e)
+qu’il (elle) ait été cité(e)
+que nous ayons été cité(e)s
+que vous ayez été cité(e)s
+qu’ils (elles) aient été cité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cité(e)
+que tu eusses été cité(e)
+qu’il (elle) eût été cité(e)
+que nous eussions été cité(e)s
+que vous eussiez été cité(e)s
+qu’ils (elles) eussent été cité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cité(e)
+ayons été cité(e)s
+ayez été cité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cité(e)(s)

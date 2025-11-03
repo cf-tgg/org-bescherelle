@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe afficher
+
+* INDICATIF
+
+** Présent
+
+j'affiche
+tu affiches
+il (elle) affiche
+nous affichons
+vous affichez
+ils (elles) affichent
+
+** Imparfait
+
+j'affichais
+tu affichais
+il (elle) affichait
+nous affichions
+vous affichiez
+ils (elles) affichaient
+
+** Passé simple
+
+j'affichai
+tu affichas
+il (elle) afficha
+nous affichâmes
+vous affichâtes
+ils (elles) affichèrent
+
+** Futur simple
+
+j'afficherai
+tu afficheras
+il (elle) affichera
+nous afficherons
+vous afficherez
+ils (elles) afficheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'afficherais
+tu afficherais
+il (elle) afficherait
+nous afficherions
+vous afficheriez
+ils (elles) afficheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'affiche
+que tu affiches
+qu’il (elle) affiche
+que nous affichions
+que vous affichiez
+qu’ils (elles) affichent
+
+** Imparfait
+
+que j'affichasse
+que tu affichasses
+qu’il (elle) affichât
+que nous affichassions
+que vous affichassiez
+qu’ils (elles) affichassent
+
+* IMPÉRATIF
+
+** Présent
+
+affiche
+affichons
+affichez
+
+* INFINITIF
+
+** Présent
+
+afficher
+
+* PARTICIPE
+
+** Présent
+
+affichant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai affiché
+tu as affiché
+il (elle) a affiché
+nous avons affiché
+vous avez affiché
+ils (elles) ont affiché
+
+** Plus-que-parfait
+
+j'avais affiché
+tu avais affiché
+il (elle) avait affiché
+nous avions affiché
+vous aviez affiché
+ils (elles) avaient affiché
+
+** Passé antérieur
+
+j'eus affiché
+tu eus affiché
+il (elle) eut affiché
+nous eûmes affiché
+vous eûtes affiché
+ils (elles) eurent affiché
+
+** Futur antérieur
+
+j'aurai affiché
+tu auras affiché
+il (elle) aura affiché
+nous aurons affiché
+vous aurez affiché
+ils (elles) auront affiché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais affiché
+tu aurais affiché
+il (elle) aurait affiché
+nous aurions affiché
+vous auriez affiché
+ils (elles) auraient affiché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie affiché
+que tu aies affiché
+qu’il (elle) ait affiché
+que nous ayons affiché
+que vous ayez affiché
+qu’ils (elles) aient affiché
+
+** Plus-que-parfait
+
+que j'eusse affiché
+que tu eusses affiché
+qu’il (elle) eût affiché
+que nous eussions affiché
+que vous eussiez affiché
+qu’ils (elles) eussent affiché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons affiché
+ayez affiché
+
+* INFINITIF
+
+** Passé
+
+avoir affiché
+
+* PARTICIPE
+
+** Passé
+
+ayant affiché
+affiché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis affiché(e)
+tu es affiché(e)
+il (elle) est affiché(e)
+nous sommes affiché(e)s
+vous êtes affiché(e)s
+ils (elles) sont affiché(e)s
+
+** Imparfait
+
+j'étais affiché(e)
+tu étais affiché(e)
+il (elle) était affiché(e)
+nous étions affiché(e)s
+vous étiez affiché(e)s
+ils (elles) étaient affiché(e)s
+
+** Passé simple
+
+je fus affiché(e)
+tu fus affiché(e)
+il (elle) fut affiché(e)
+nous fûmes affiché(e)s
+vous fûtes affiché(e)s
+ils (elles) furent affiché(e)s
+
+** Futur simple
+
+je serai affiché(e)
+tu seras affiché(e)
+il (elle) sera affiché(e)
+nous serons affiché(e)s
+vous serez affiché(e)s
+ils (elles) seront affiché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais affiché(e)
+tu serais affiché(e)
+il (elle) serait affiché(e)
+nous serions affiché(e)s
+vous seriez affiché(e)s
+ils (elles) seraient affiché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois affiché(e)
+que tu sois affiché(e)
+qu’il (elle) soit affiché(e)
+que nous soyons affiché(e)s
+que vous soyez affiché(e)s
+qu’ils (elles) soient affiché(e)s
+
+** Imparfait
+
+que je fusse affiché(e)
+que tu fusses affiché(e)
+qu’il (elle) fût affiché(e)
+que nous fussions affiché(e)s
+que vous fussiez affiché(e)s
+qu’ils (elles) fussent affiché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons affiché(e)s
+soyez affiché(e)s
+
+* INFINITIF
+
+** Présent
+
+être affiché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant affiché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été affiché(e)
+tu as été affiché(e)
+il (elle) a été affiché(e)
+nous avons été affiché(e)s
+vous avez été affiché(e)s
+ils (elles) ont été affiché(e)s
+
+** Plus-que-parfait
+
+j'avais été affiché(e)
+il (elle) avait été affiché(e)
+nous avions été affiché(e)s
+ils (elles) avaient été affiché(e)s
+
+** Passé antérieur
+
+j'eus été affiché(e)
+tu eus été affiché(e)
+il (elle) eut été affiché(e)
+nous eûmes été affiché(e)s
+vous eûtes été affiché(e)s
+ils (elles) eurent été affiché(e)s
+
+** Futur antérieur
+
+j'aurai été affiché(e)
+tu auras été affiché(e)
+il (elle) aura été affiché(e)
+nous aurons été affiché(e)s
+vous aurez été affiché(e)s
+ils (elles) auront été affiché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été affiché(e)
+j'aurais été affiché(e)
+il (elle) aurait été affiché(e)
+nous aurions été affiché(e)s
+vous auriez été affiché(e)s
+ils (elles) auraient été affiché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été affiché(e)
+que tu aies été affiché(e)
+qu’il (elle) ait été affiché(e)
+que nous ayons été affiché(e)s
+que vous ayez été affiché(e)s
+qu’ils (elles) aient été affiché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été affiché(e)
+que tu eusses été affiché(e)
+qu’il (elle) eût été affiché(e)
+que nous eussions été affiché(e)s
+que vous eussiez été affiché(e)s
+qu’ils (elles) eussent été affiché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été affiché(e)
+ayons été affiché(e)s
+ayez été affiché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été affiché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été affiché(e)(s)

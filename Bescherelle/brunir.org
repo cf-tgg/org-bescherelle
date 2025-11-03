@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brunir
+
+* INDICATIF
+
+** Présent
+
+je brunis
+tu brunis
+il (elle) brunit
+nous brunissons
+vous brunissez
+ils (elles) brunissent
+
+** Imparfait
+
+je brunissais
+tu brunissais
+il (elle) brunissait
+nous brunissions
+vous brunissiez
+ils (elles) brunissaient
+
+** Passé simple
+
+je brunis
+tu brunis
+il (elle) brunit
+nous brunîmes
+vous brunîtes
+ils (elles) brunirent
+
+** Futur simple
+
+je brunirai
+tu bruniras
+il (elle) brunira
+nous brunirons
+vous brunirez
+ils (elles) bruniront
+
+* CONDITIONNEL
+
+** Présent
+
+je brunirais
+tu brunirais
+il (elle) brunirait
+nous brunirions
+vous bruniriez
+ils (elles) bruniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brunisse
+que tu brunisses
+qu’il (elle) brunisse
+que nous brunissions
+que vous brunissiez
+qu’ils (elles) brunissent
+
+** Imparfait
+
+que je brunisse
+que tu brunisses
+qu’il (elle) brunît
+que nous brunissions
+que vous brunissiez
+qu’ils (elles) brunissent
+
+* IMPÉRATIF
+
+** Présent
+
+brunis
+brunissons
+brunissez
+
+* INFINITIF
+
+** Présent
+
+brunir
+
+* PARTICIPE
+
+** Présent
+
+brunissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bruni
+tu as bruni
+il (elle) a bruni
+nous avons bruni
+vous avez bruni
+ils (elles) ont bruni
+
+** Plus-que-parfait
+
+j'avais bruni
+tu avais bruni
+il (elle) avait bruni
+nous avions bruni
+vous aviez bruni
+ils (elles) avaient bruni
+
+** Passé antérieur
+
+j'eus bruni
+tu eus bruni
+il (elle) eut bruni
+nous eûmes bruni
+vous eûtes bruni
+ils (elles) eurent bruni
+
+** Futur antérieur
+
+j'aurai bruni
+tu auras bruni
+il (elle) aura bruni
+nous aurons bruni
+vous aurez bruni
+ils (elles) auront bruni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bruni
+tu aurais bruni
+il (elle) aurait bruni
+nous aurions bruni
+vous auriez bruni
+ils (elles) auraient bruni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bruni
+que tu aies bruni
+qu’il (elle) ait bruni
+que nous ayons bruni
+que vous ayez bruni
+qu’ils (elles) aient bruni
+
+** Plus-que-parfait
+
+que j'eusse bruni
+que tu eusses bruni
+qu’il (elle) eût bruni
+que nous eussions bruni
+que vous eussiez bruni
+qu’ils (elles) eussent bruni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bruni
+ayez bruni
+
+* INFINITIF
+
+** Passé
+
+avoir bruni
+
+* PARTICIPE
+
+** Passé
+
+ayant bruni
+bruni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis bruni(e)
+tu es bruni(e)
+il (elle) est bruni(e)
+nous sommes bruni(e)s
+vous êtes bruni(e)s
+ils (elles) sont bruni(e)s
+
+** Imparfait
+
+j'étais bruni(e)
+tu étais bruni(e)
+il (elle) était bruni(e)
+nous étions bruni(e)s
+vous étiez bruni(e)s
+ils (elles) étaient bruni(e)s
+
+** Passé simple
+
+je fus bruni(e)
+tu fus bruni(e)
+il (elle) fut bruni(e)
+nous fûmes bruni(e)s
+vous fûtes bruni(e)s
+ils (elles) furent bruni(e)s
+
+** Futur simple
+
+je serai bruni(e)
+tu seras bruni(e)
+il (elle) sera bruni(e)
+nous serons bruni(e)s
+vous serez bruni(e)s
+ils (elles) seront bruni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bruni(e)
+tu serais bruni(e)
+il (elle) serait bruni(e)
+nous serions bruni(e)s
+vous seriez bruni(e)s
+ils (elles) seraient bruni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bruni(e)
+que tu sois bruni(e)
+qu’il (elle) soit bruni(e)
+que nous soyons bruni(e)s
+que vous soyez bruni(e)s
+qu’ils (elles) soient bruni(e)s
+
+** Imparfait
+
+que je fusse bruni(e)
+que tu fusses bruni(e)
+qu’il (elle) fût bruni(e)
+que nous fussions bruni(e)s
+que vous fussiez bruni(e)s
+qu’ils (elles) fussent bruni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bruni(e)s
+soyez bruni(e)s
+
+* INFINITIF
+
+** Présent
+
+être bruni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bruni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bruni(e)
+tu as été bruni(e)
+il (elle) a été bruni(e)
+nous avons été bruni(e)s
+vous avez été bruni(e)s
+ils (elles) ont été bruni(e)s
+
+** Plus-que-parfait
+
+j'avais été bruni(e)
+il (elle) avait été bruni(e)
+nous avions été bruni(e)s
+ils (elles) avaient été bruni(e)s
+
+** Passé antérieur
+
+j'eus été bruni(e)
+tu eus été bruni(e)
+il (elle) eut été bruni(e)
+nous eûmes été bruni(e)s
+vous eûtes été bruni(e)s
+ils (elles) eurent été bruni(e)s
+
+** Futur antérieur
+
+j'aurai été bruni(e)
+tu auras été bruni(e)
+il (elle) aura été bruni(e)
+nous aurons été bruni(e)s
+vous aurez été bruni(e)s
+ils (elles) auront été bruni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bruni(e)
+j'aurais été bruni(e)
+il (elle) aurait été bruni(e)
+nous aurions été bruni(e)s
+vous auriez été bruni(e)s
+ils (elles) auraient été bruni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bruni(e)
+que tu aies été bruni(e)
+qu’il (elle) ait été bruni(e)
+que nous ayons été bruni(e)s
+que vous ayez été bruni(e)s
+qu’ils (elles) aient été bruni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bruni(e)
+que tu eusses été bruni(e)
+qu’il (elle) eût été bruni(e)
+que nous eussions été bruni(e)s
+que vous eussiez été bruni(e)s
+qu’ils (elles) eussent été bruni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bruni(e)
+ayons été bruni(e)s
+ayez été bruni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bruni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bruni(e)(s)

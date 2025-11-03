@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe appliquer
+
+* INDICATIF
+
+** Présent
+
+j'applique
+tu appliques
+il (elle) applique
+nous appliquons
+vous appliquez
+ils (elles) appliquent
+
+** Imparfait
+
+j'appliquais
+tu appliquais
+il (elle) appliquait
+nous appliquions
+vous appliquiez
+ils (elles) appliquaient
+
+** Passé simple
+
+j'appliquai
+tu appliquas
+il (elle) appliqua
+nous appliquâmes
+vous appliquâtes
+ils (elles) appliquèrent
+
+** Futur simple
+
+j'appliquerai
+tu appliqueras
+il (elle) appliquera
+nous appliquerons
+vous appliquerez
+ils (elles) appliqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'appliquerais
+tu appliquerais
+il (elle) appliquerait
+nous appliquerions
+vous appliqueriez
+ils (elles) appliqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'applique
+que tu appliques
+qu’il (elle) applique
+que nous appliquions
+que vous appliquiez
+qu’ils (elles) appliquent
+
+** Imparfait
+
+que j'appliquasse
+que tu appliquasses
+qu’il (elle) appliquât
+que nous appliquassions
+que vous appliquassiez
+qu’ils (elles) appliquassent
+
+* IMPÉRATIF
+
+** Présent
+
+applique
+appliquons
+appliquez
+
+* INFINITIF
+
+** Présent
+
+appliquer
+
+* PARTICIPE
+
+** Présent
+
+appliquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai appliqué
+tu as appliqué
+il (elle) a appliqué
+nous avons appliqué
+vous avez appliqué
+ils (elles) ont appliqué
+
+** Plus-que-parfait
+
+j'avais appliqué
+tu avais appliqué
+il (elle) avait appliqué
+nous avions appliqué
+vous aviez appliqué
+ils (elles) avaient appliqué
+
+** Passé antérieur
+
+j'eus appliqué
+tu eus appliqué
+il (elle) eut appliqué
+nous eûmes appliqué
+vous eûtes appliqué
+ils (elles) eurent appliqué
+
+** Futur antérieur
+
+j'aurai appliqué
+tu auras appliqué
+il (elle) aura appliqué
+nous aurons appliqué
+vous aurez appliqué
+ils (elles) auront appliqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais appliqué
+tu aurais appliqué
+il (elle) aurait appliqué
+nous aurions appliqué
+vous auriez appliqué
+ils (elles) auraient appliqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie appliqué
+que tu aies appliqué
+qu’il (elle) ait appliqué
+que nous ayons appliqué
+que vous ayez appliqué
+qu’ils (elles) aient appliqué
+
+** Plus-que-parfait
+
+que j'eusse appliqué
+que tu eusses appliqué
+qu’il (elle) eût appliqué
+que nous eussions appliqué
+que vous eussiez appliqué
+qu’ils (elles) eussent appliqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons appliqué
+ayez appliqué
+
+* INFINITIF
+
+** Passé
+
+avoir appliqué
+
+* PARTICIPE
+
+** Passé
+
+ayant appliqué
+appliqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis appliqué(e)
+tu es appliqué(e)
+il (elle) est appliqué(e)
+nous sommes appliqué(e)s
+vous êtes appliqué(e)s
+ils (elles) sont appliqué(e)s
+
+** Imparfait
+
+j'étais appliqué(e)
+tu étais appliqué(e)
+il (elle) était appliqué(e)
+nous étions appliqué(e)s
+vous étiez appliqué(e)s
+ils (elles) étaient appliqué(e)s
+
+** Passé simple
+
+je fus appliqué(e)
+tu fus appliqué(e)
+il (elle) fut appliqué(e)
+nous fûmes appliqué(e)s
+vous fûtes appliqué(e)s
+ils (elles) furent appliqué(e)s
+
+** Futur simple
+
+je serai appliqué(e)
+tu seras appliqué(e)
+il (elle) sera appliqué(e)
+nous serons appliqué(e)s
+vous serez appliqué(e)s
+ils (elles) seront appliqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais appliqué(e)
+tu serais appliqué(e)
+il (elle) serait appliqué(e)
+nous serions appliqué(e)s
+vous seriez appliqué(e)s
+ils (elles) seraient appliqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois appliqué(e)
+que tu sois appliqué(e)
+qu’il (elle) soit appliqué(e)
+que nous soyons appliqué(e)s
+que vous soyez appliqué(e)s
+qu’ils (elles) soient appliqué(e)s
+
+** Imparfait
+
+que je fusse appliqué(e)
+que tu fusses appliqué(e)
+qu’il (elle) fût appliqué(e)
+que nous fussions appliqué(e)s
+que vous fussiez appliqué(e)s
+qu’ils (elles) fussent appliqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons appliqué(e)s
+soyez appliqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être appliqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant appliqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été appliqué(e)
+tu as été appliqué(e)
+il (elle) a été appliqué(e)
+nous avons été appliqué(e)s
+vous avez été appliqué(e)s
+ils (elles) ont été appliqué(e)s
+
+** Plus-que-parfait
+
+j'avais été appliqué(e)
+il (elle) avait été appliqué(e)
+nous avions été appliqué(e)s
+ils (elles) avaient été appliqué(e)s
+
+** Passé antérieur
+
+j'eus été appliqué(e)
+tu eus été appliqué(e)
+il (elle) eut été appliqué(e)
+nous eûmes été appliqué(e)s
+vous eûtes été appliqué(e)s
+ils (elles) eurent été appliqué(e)s
+
+** Futur antérieur
+
+j'aurai été appliqué(e)
+tu auras été appliqué(e)
+il (elle) aura été appliqué(e)
+nous aurons été appliqué(e)s
+vous aurez été appliqué(e)s
+ils (elles) auront été appliqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été appliqué(e)
+j'aurais été appliqué(e)
+il (elle) aurait été appliqué(e)
+nous aurions été appliqué(e)s
+vous auriez été appliqué(e)s
+ils (elles) auraient été appliqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été appliqué(e)
+que tu aies été appliqué(e)
+qu’il (elle) ait été appliqué(e)
+que nous ayons été appliqué(e)s
+que vous ayez été appliqué(e)s
+qu’ils (elles) aient été appliqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été appliqué(e)
+que tu eusses été appliqué(e)
+qu’il (elle) eût été appliqué(e)
+que nous eussions été appliqué(e)s
+que vous eussiez été appliqué(e)s
+qu’ils (elles) eussent été appliqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été appliqué(e)
+ayons été appliqué(e)s
+ayez été appliqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été appliqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été appliqué(e)(s)

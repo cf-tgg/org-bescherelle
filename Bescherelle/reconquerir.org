@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reconquerir
+
+* INDICATIF
+
+** Présent
+
+je reconquiers
+tu reconquiers
+il (elle) reconquiert
+nous reconquérons
+vous reconquérez
+ils (elles) reconquièrent
+
+** Imparfait
+
+je reconquérais
+tu reconquérais
+il (elle) reconquérait
+nous reconquérions
+vous reconquériez
+ils (elles) reconquéraient
+
+** Passé simple
+
+je reconquis
+tu reconquis
+il (elle) reconquit
+nous reconquîmes
+vous reconquîtes
+ils (elles) reconquirent
+
+** Futur simple
+
+je reconquerrai
+tu reconquerras
+il (elle) reconquerra
+nous reconquerrons
+vous reconquerrez
+ils (elles) reconquerront
+
+* CONDITIONNEL
+
+** Présent
+
+je reconquerrais
+tu reconquerrais
+il (elle) reconquerrait
+nous reconquerrions
+vous reconquerriez
+ils (elles) reconquerraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reconquière
+que tu reconquières
+qu’il (elle) reconquière
+que nous reconquérions
+que vous reconquériez
+qu’ils (elles) reconquièrent
+
+** Imparfait
+
+que je reconquisse
+que tu reconquisses
+qu’il (elle) reconquît
+que nous reconquissions
+que vous reconquissiez
+qu’ils (elles) reconquissent
+
+* IMPÉRATIF
+
+** Présent
+
+reconquiers
+reconquérons
+reconquérez
+
+* INFINITIF
+
+** Présent
+
+reconquérir
+
+* PARTICIPE
+
+** Présent
+
+reconquérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reconquis
+tu as reconquis
+il (elle) a reconquis
+nous avons reconquis
+vous avez reconquis
+ils (elles) ont reconquis
+
+** Plus-que-parfait
+
+j'avais reconquis
+tu avais reconquis
+il (elle) avait reconquis
+nous avions reconquis
+vous aviez reconquis
+ils (elles) avaient reconquis
+
+** Passé antérieur
+
+j'eus reconquis
+tu eus reconquis
+il (elle) eut reconquis
+nous eûmes reconquis
+vous eûtes reconquis
+ils (elles) eurent reconquis
+
+** Futur antérieur
+
+j'aurai reconquis
+tu auras reconquis
+il (elle) aura reconquis
+nous aurons reconquis
+vous aurez reconquis
+ils (elles) auront reconquis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reconquis
+tu aurais reconquis
+il (elle) aurait reconquis
+nous aurions reconquis
+vous auriez reconquis
+ils (elles) auraient reconquis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reconquis
+que tu aies reconquis
+qu’il (elle) ait reconquis
+que nous ayons reconquis
+que vous ayez reconquis
+qu’ils (elles) aient reconquis
+
+** Plus-que-parfait
+
+que j'eusse reconquis
+que tu eusses reconquis
+qu’il (elle) eût reconquis
+que nous eussions reconquis
+que vous eussiez reconquis
+qu’ils (elles) eussent reconquis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reconquis
+ayez reconquis
+
+* INFINITIF
+
+** Passé
+
+avoir reconquis
+
+* PARTICIPE
+
+** Passé
+
+ayant reconquis
+reconquis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis reconquis(e)
+tu es reconquis(e)
+il (elle) est reconquis(e)
+nous sommes reconquis(es)
+vous êtes reconquis(es)
+ils (elles) sont reconquis(es)
+
+** Imparfait
+
+j'étais reconquis(e)
+tu étais reconquis(e)
+il (elle) était reconquis(e)
+nous étions reconquis(es)
+vous étiez reconquis(es)
+ils (elles) étaient reconquis(es)
+
+** Passé simple
+
+je fus reconquis(e)
+tu fus reconquis(e)
+il (elle) fut reconquis(e)
+nous fûmes reconquis(es)
+vous fûtes reconquis(es)
+ils (elles) furent reconquis(es)
+
+** Futur simple
+
+je serai reconquis(e)
+tu seras reconquis(e)
+il (elle) sera reconquis(e)
+nous serons reconquis(es)
+vous serez reconquis(es)
+ils (elles) seront reconquis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reconquis(e)
+tu serais reconquis(e)
+il (elle) serait reconquis(e)
+nous serions reconquis(es)
+vous seriez reconquis(es)
+ils (elles) seraient reconquis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reconquis(e)
+que tu sois reconquis(e)
+qu’il (elle) soit reconquis(e)
+que nous soyons reconquis(es)
+que vous soyez reconquis(es)
+qu’ils (elles) soient reconquis(es)
+
+** Imparfait
+
+que je fusse reconquis(e)
+que tu fusses reconquis(e)
+qu’il (elle) fût reconquis(e)
+que nous fussions reconquis(es)
+que vous fussiez reconquis(es)
+qu’ils (elles) fussent reconquis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reconquis(es)
+soyez reconquis(es)
+
+* INFINITIF
+
+** Présent
+
+être reconquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant reconquis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reconquis(e)
+tu as été reconquis(e)
+il (elle) a été reconquis(e)
+nous avons été reconquis(es)
+vous avez été reconquis(es)
+ils (elles) ont été reconquis(es)
+
+** Plus-que-parfait
+
+j'avais été reconquis(e)
+il (elle) avait été reconquis(e)
+nous avions été reconquis(es)
+ils (elles) avaient été reconquis(es)
+
+** Passé antérieur
+
+j'eus été reconquis(e)
+tu eus été reconquis(e)
+il (elle) eut été reconquis(e)
+nous eûmes été reconquis(es)
+vous eûtes été reconquis(es)
+ils (elles) eurent été reconquis(es)
+
+** Futur antérieur
+
+j'aurai été reconquis(e)
+tu auras été reconquis(e)
+il (elle) aura été reconquis(e)
+nous aurons été reconquis(es)
+vous aurez été reconquis(es)
+ils (elles) auront été reconquis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reconquis(e)
+j'aurais été reconquis(e)
+il (elle) aurait été reconquis(e)
+nous aurions été reconquis(es)
+vous auriez été reconquis(es)
+ils (elles) auraient été reconquis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reconquis(e)
+que tu aies été reconquis(e)
+qu’il (elle) ait été reconquis(e)
+que nous ayons été reconquis(es)
+que vous ayez été reconquis(es)
+qu’ils (elles) aient été reconquis(es)
+
+** Plus-que-parfait
+
+que j'eusse été reconquis(e)
+que tu eusses été reconquis(e)
+qu’il (elle) eût été reconquis(e)
+que nous eussions été reconquis(es)
+que vous eussiez été reconquis(es)
+qu’ils (elles) eussent été reconquis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reconquis(e)
+ayons été reconquis(es)
+ayez été reconquis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été reconquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reconquis (s, se, s, ses)

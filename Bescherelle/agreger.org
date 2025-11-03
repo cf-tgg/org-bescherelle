@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe agreger
+
+* INDICATIF
+
+** Présent
+
+j'agrège
+tu agrèges
+il (elle) agrège
+nous agrégeons
+vous agrégez
+ils (elles) agrègent
+
+** Imparfait
+
+j'agrégeais
+tu agrégeais
+il (elle) agrégeait
+nous agrégions
+vous agrégiez
+ils (elles) agrégeaient
+
+** Passé simple
+
+j'agrégeai
+tu agrégeas
+il (elle) agrégea
+nous agrégeâmes
+vous agrégeâtes
+ils (elles) agrégèrent
+
+** Futur simple
+
+j'agrégerai
+tu agrégeras
+il (elle) agrégera
+nous agrégerons
+vous agrégerez
+ils (elles) agrégeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'agrégerais
+tu agrégerais
+il (elle) agrégerait
+nous agrégerions
+vous agrégeriez
+ils (elles) agrégeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'agrège
+que tu agrèges
+qu’il (elle) agrège
+que nous agrégions
+que vous agrégiez
+qu’ils (elles) agrègent
+
+** Imparfait
+
+que j'agrégeasse
+que tu agrégeasses
+qu’il (elle) agrégeât
+que nous agrégeassions
+que vous agrégeassiez
+qu’ils (elles) agrégeassent
+
+* IMPÉRATIF
+
+** Présent
+
+agrège
+agrégeons
+agrégez
+
+* INFINITIF
+
+** Présent
+
+agréger
+
+* PARTICIPE
+
+** Présent
+
+agrégeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai agrégé
+tu as agrégé
+il (elle) a agrégé
+nous avons agrégé
+vous avez agrégé
+ils (elles) ont agrégé
+
+** Plus-que-parfait
+
+j'avais agrégé
+tu avais agrégé
+il (elle) avait agrégé
+nous avions agrégé
+vous aviez agrégé
+ils (elles) avaient agrégé
+
+** Passé antérieur
+
+j'eus agrégé
+tu eus agrégé
+il (elle) eut agrégé
+nous eûmes agrégé
+vous eûtes agrégé
+ils (elles) eurent agrégé
+
+** Futur antérieur
+
+j'aurai agrégé
+tu auras agrégé
+il (elle) aura agrégé
+nous aurons agrégé
+vous aurez agrégé
+ils (elles) auront agrégé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais agrégé
+tu aurais agrégé
+il (elle) aurait agrégé
+nous aurions agrégé
+vous auriez agrégé
+ils (elles) auraient agrégé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie agrégé
+que tu aies agrégé
+qu’il (elle) ait agrégé
+que nous ayons agrégé
+que vous ayez agrégé
+qu’ils (elles) aient agrégé
+
+** Plus-que-parfait
+
+que j'eusse agrégé
+que tu eusses agrégé
+qu’il (elle) eût agrégé
+que nous eussions agrégé
+que vous eussiez agrégé
+qu’ils (elles) eussent agrégé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons agrégé
+ayez agrégé
+
+* INFINITIF
+
+** Passé
+
+avoir agrégé
+
+* PARTICIPE
+
+** Passé
+
+ayant agrégé
+agrégé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis agrégé(e)
+tu es agrégé(e)
+il (elle) est agrégé(e)
+nous sommes agrégé(e)s
+vous êtes agrégé(e)s
+ils (elles) sont agrégé(e)s
+
+** Imparfait
+
+j'étais agrégé(e)
+tu étais agrégé(e)
+il (elle) était agrégé(e)
+nous étions agrégé(e)s
+vous étiez agrégé(e)s
+ils (elles) étaient agrégé(e)s
+
+** Passé simple
+
+je fus agrégé(e)
+tu fus agrégé(e)
+il (elle) fut agrégé(e)
+nous fûmes agrégé(e)s
+vous fûtes agrégé(e)s
+ils (elles) furent agrégé(e)s
+
+** Futur simple
+
+je serai agrégé(e)
+tu seras agrégé(e)
+il (elle) sera agrégé(e)
+nous serons agrégé(e)s
+vous serez agrégé(e)s
+ils (elles) seront agrégé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais agrégé(e)
+tu serais agrégé(e)
+il (elle) serait agrégé(e)
+nous serions agrégé(e)s
+vous seriez agrégé(e)s
+ils (elles) seraient agrégé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois agrégé(e)
+que tu sois agrégé(e)
+qu’il (elle) soit agrégé(e)
+que nous soyons agrégé(e)s
+que vous soyez agrégé(e)s
+qu’ils (elles) soient agrégé(e)s
+
+** Imparfait
+
+que je fusse agrégé(e)
+que tu fusses agrégé(e)
+qu’il (elle) fût agrégé(e)
+que nous fussions agrégé(e)s
+que vous fussiez agrégé(e)s
+qu’ils (elles) fussent agrégé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons agrégé(e)s
+soyez agrégé(e)s
+
+* INFINITIF
+
+** Présent
+
+être agrégé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant agrégé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été agrégé(e)
+tu as été agrégé(e)
+il (elle) a été agrégé(e)
+nous avons été agrégé(e)s
+vous avez été agrégé(e)s
+ils (elles) ont été agrégé(e)s
+
+** Plus-que-parfait
+
+j'avais été agrégé(e)
+il (elle) avait été agrégé(e)
+nous avions été agrégé(e)s
+ils (elles) avaient été agrégé(e)s
+
+** Passé antérieur
+
+j'eus été agrégé(e)
+tu eus été agrégé(e)
+il (elle) eut été agrégé(e)
+nous eûmes été agrégé(e)s
+vous eûtes été agrégé(e)s
+ils (elles) eurent été agrégé(e)s
+
+** Futur antérieur
+
+j'aurai été agrégé(e)
+tu auras été agrégé(e)
+il (elle) aura été agrégé(e)
+nous aurons été agrégé(e)s
+vous aurez été agrégé(e)s
+ils (elles) auront été agrégé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été agrégé(e)
+j'aurais été agrégé(e)
+il (elle) aurait été agrégé(e)
+nous aurions été agrégé(e)s
+vous auriez été agrégé(e)s
+ils (elles) auraient été agrégé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été agrégé(e)
+que tu aies été agrégé(e)
+qu’il (elle) ait été agrégé(e)
+que nous ayons été agrégé(e)s
+que vous ayez été agrégé(e)s
+qu’ils (elles) aient été agrégé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été agrégé(e)
+que tu eusses été agrégé(e)
+qu’il (elle) eût été agrégé(e)
+que nous eussions été agrégé(e)s
+que vous eussiez été agrégé(e)s
+qu’ils (elles) eussent été agrégé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été agrégé(e)
+ayons été agrégé(e)s
+ayez été agrégé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été agrégé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été agrégé(e)(s)

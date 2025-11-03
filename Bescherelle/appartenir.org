@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe appartenir
+
+* INDICATIF
+
+** Présent
+
+j'appartiens
+tu appartiens
+il (elle) appartient
+nous appartenons
+vous appartenez
+ils (elles) appartiennent
+
+** Imparfait
+
+j'appartenais
+tu appartenais
+il (elle) appartenait
+nous appartenions
+vous apparteniez
+ils (elles) appartenaient
+
+** Passé simple
+
+j'appartins
+tu appartins
+il (elle) appartint
+nous appartînmes
+vous appartîntes
+ils (elles) appartinrent
+
+** Futur simple
+
+j'appartiendrai
+tu appartiendras
+il (elle) appartiendra
+nous appartiendrons
+vous appartiendrez
+ils (elles) appartiendront
+
+* CONDITIONNEL
+
+** Présent
+
+j'appartiendrais
+tu appartiendrais
+il (elle) appartiendrait
+nous appartiendrions
+vous appartiendriez
+ils (elles) appartiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'appartienne
+que tu appartiennes
+qu’il (elle) appartienne
+que nous appartenions
+que vous apparteniez
+qu’ils (elles) appartiennent
+
+** Imparfait
+
+que j'appartinsse
+que tu appartinsses
+qu’il (elle) appartînt
+que nous appartinssions
+que vous appartinssiez
+qu’ils (elles) appartinssent
+
+* IMPÉRATIF
+
+** Présent
+
+appartiens
+appartenons
+appartenez
+
+* INFINITIF
+
+** Présent
+
+appartenir
+
+* PARTICIPE
+
+** Présent
+
+appartenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai appartenu
+tu as appartenu
+il (elle) a appartenu
+nous avons appartenu
+vous avez appartenu
+ils (elles) ont appartenu
+
+** Plus-que-parfait
+
+j'avais appartenu
+tu avais appartenu
+il (elle) avait appartenu
+nous avions appartenu
+vous aviez appartenu
+ils (elles) avaient appartenu
+
+** Passé antérieur
+
+j'eus appartenu
+tu eus appartenu
+il (elle) eut appartenu
+nous eûmes appartenu
+vous eûtes appartenu
+ils (elles) eurent appartenu
+
+** Futur antérieur
+
+j'aurai appartenu
+tu auras appartenu
+il (elle) aura appartenu
+nous aurons appartenu
+vous aurez appartenu
+ils (elles) auront appartenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais appartenu
+tu aurais appartenu
+il (elle) aurait appartenu
+nous aurions appartenu
+vous auriez appartenu
+ils (elles) auraient appartenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie appartenu
+que tu aies appartenu
+qu’il (elle) ait appartenu
+que nous ayons appartenu
+que vous ayez appartenu
+qu’ils (elles) aient appartenu
+
+** Plus-que-parfait
+
+que j'eusse appartenu
+que tu eusses appartenu
+qu’il (elle) eût appartenu
+que nous eussions appartenu
+que vous eussiez appartenu
+qu’ils (elles) eussent appartenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons appartenu
+ayez appartenu
+
+* INFINITIF
+
+** Passé
+
+avoir appartenu
+
+* PARTICIPE
+
+** Passé
+
+ayant appartenu
+appartenu (invar.)

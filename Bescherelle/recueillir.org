@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recueillir
+
+* INDICATIF
+
+** Présent
+
+je recueille
+tu recueilles
+il (elle) recueille
+nous recueillons
+vous recueillez
+ils (elles) recueillent
+
+** Imparfait
+
+je recueillais
+tu recueillais
+il (elle) recueillait
+nous recueillions
+vous recueilliez
+ils (elles) recueillaient
+
+** Passé simple
+
+je recueillis
+tu recueillis
+il (elle) recueillit
+nous recueillîmes
+vous recueillîtes
+ils (elles) recueillirent
+
+** Futur simple
+
+je recueillerai
+tu recueilleras
+il (elle) recueillera
+nous recueillerons
+vous recueillerez
+ils (elles) recueilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je recueillerais
+tu recueillerais
+il (elle) recueillerait
+nous recueillerions
+vous recueilleriez
+ils (elles) recueilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recueille
+que tu recueilles
+qu’il (elle) recueille
+que nous recueillions
+que vous recueilliez
+qu’ils (elles) recueillent
+
+** Imparfait
+
+que je recueillisse
+que tu recueillisses
+qu’il (elle) recueillît
+que nous recueillissions
+que vous recueillissiez
+qu’ils (elles) recueillissent
+
+* IMPÉRATIF
+
+** Présent
+
+recueille
+recueillons
+recueillez
+
+* INFINITIF
+
+** Présent
+
+recueillir
+
+* PARTICIPE
+
+** Présent
+
+recueillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recueilli
+tu as recueilli
+il (elle) a recueilli
+nous avons recueilli
+vous avez recueilli
+ils (elles) ont recueilli
+
+** Plus-que-parfait
+
+j'avais recueilli
+tu avais recueilli
+il (elle) avait recueilli
+nous avions recueilli
+vous aviez recueilli
+ils (elles) avaient recueilli
+
+** Passé antérieur
+
+j'eus recueilli
+tu eus recueilli
+il (elle) eut recueilli
+nous eûmes recueilli
+vous eûtes recueilli
+ils (elles) eurent recueilli
+
+** Futur antérieur
+
+j'aurai recueilli
+tu auras recueilli
+il (elle) aura recueilli
+nous aurons recueilli
+vous aurez recueilli
+ils (elles) auront recueilli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recueilli
+tu aurais recueilli
+il (elle) aurait recueilli
+nous aurions recueilli
+vous auriez recueilli
+ils (elles) auraient recueilli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recueilli
+que tu aies recueilli
+qu’il (elle) ait recueilli
+que nous ayons recueilli
+que vous ayez recueilli
+qu’ils (elles) aient recueilli
+
+** Plus-que-parfait
+
+que j'eusse recueilli
+que tu eusses recueilli
+qu’il (elle) eût recueilli
+que nous eussions recueilli
+que vous eussiez recueilli
+qu’ils (elles) eussent recueilli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recueilli
+ayez recueilli
+
+* INFINITIF
+
+** Passé
+
+avoir recueilli
+
+* PARTICIPE
+
+** Passé
+
+ayant recueilli
+recueilli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis recueilli(e)
+tu es recueilli(e)
+il (elle) est recueilli(e)
+nous sommes recueilli(e)s
+vous êtes recueilli(e)s
+ils (elles) sont recueilli(e)s
+
+** Imparfait
+
+j'étais recueilli(e)
+tu étais recueilli(e)
+il (elle) était recueilli(e)
+nous étions recueilli(e)s
+vous étiez recueilli(e)s
+ils (elles) étaient recueilli(e)s
+
+** Passé simple
+
+je fus recueilli(e)
+tu fus recueilli(e)
+il (elle) fut recueilli(e)
+nous fûmes recueilli(e)s
+vous fûtes recueilli(e)s
+ils (elles) furent recueilli(e)s
+
+** Futur simple
+
+je serai recueilli(e)
+tu seras recueilli(e)
+il (elle) sera recueilli(e)
+nous serons recueilli(e)s
+vous serez recueilli(e)s
+ils (elles) seront recueilli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recueilli(e)
+tu serais recueilli(e)
+il (elle) serait recueilli(e)
+nous serions recueilli(e)s
+vous seriez recueilli(e)s
+ils (elles) seraient recueilli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recueilli(e)
+que tu sois recueilli(e)
+qu’il (elle) soit recueilli(e)
+que nous soyons recueilli(e)s
+que vous soyez recueilli(e)s
+qu’ils (elles) soient recueilli(e)s
+
+** Imparfait
+
+que je fusse recueilli(e)
+que tu fusses recueilli(e)
+qu’il (elle) fût recueilli(e)
+que nous fussions recueilli(e)s
+que vous fussiez recueilli(e)s
+qu’ils (elles) fussent recueilli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recueilli(e)s
+soyez recueilli(e)s
+
+* INFINITIF
+
+** Présent
+
+être recueilli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recueilli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recueilli(e)
+tu as été recueilli(e)
+il (elle) a été recueilli(e)
+nous avons été recueilli(e)s
+vous avez été recueilli(e)s
+ils (elles) ont été recueilli(e)s
+
+** Plus-que-parfait
+
+j'avais été recueilli(e)
+il (elle) avait été recueilli(e)
+nous avions été recueilli(e)s
+ils (elles) avaient été recueilli(e)s
+
+** Passé antérieur
+
+j'eus été recueilli(e)
+tu eus été recueilli(e)
+il (elle) eut été recueilli(e)
+nous eûmes été recueilli(e)s
+vous eûtes été recueilli(e)s
+ils (elles) eurent été recueilli(e)s
+
+** Futur antérieur
+
+j'aurai été recueilli(e)
+tu auras été recueilli(e)
+il (elle) aura été recueilli(e)
+nous aurons été recueilli(e)s
+vous aurez été recueilli(e)s
+ils (elles) auront été recueilli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recueilli(e)
+j'aurais été recueilli(e)
+il (elle) aurait été recueilli(e)
+nous aurions été recueilli(e)s
+vous auriez été recueilli(e)s
+ils (elles) auraient été recueilli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recueilli(e)
+que tu aies été recueilli(e)
+qu’il (elle) ait été recueilli(e)
+que nous ayons été recueilli(e)s
+que vous ayez été recueilli(e)s
+qu’ils (elles) aient été recueilli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recueilli(e)
+que tu eusses été recueilli(e)
+qu’il (elle) eût été recueilli(e)
+que nous eussions été recueilli(e)s
+que vous eussiez été recueilli(e)s
+qu’ils (elles) eussent été recueilli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recueilli(e)
+ayons été recueilli(e)s
+ayez été recueilli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recueilli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recueilli(e)(s)

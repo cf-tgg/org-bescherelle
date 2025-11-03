@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe tournoyer
+
+* INDICATIF
+
+** Présent
+
+je tournoie
+tu tournoies
+il (elle) tournoie
+nous tournoyons
+vous tournoyez
+ils (elles) tournoient
+
+** Imparfait
+
+je tournoyais
+tu tournoyais
+il (elle) tournoyait
+nous tournoyions
+vous tournoyiez
+ils (elles) tournoyaient
+
+** Passé simple
+
+je tournoyai
+tu tournoyas
+il (elle) tournoya
+nous tournoyâmes
+vous tournoyâtes
+ils (elles) tournoyèrent
+
+** Futur simple
+
+je tournoierai
+tu tournoieras
+il (elle) tournoiera
+nous tournoierons
+vous tournoierez
+ils (elles) tournoieront
+
+* CONDITIONNEL
+
+** Présent
+
+je tournoierais
+tu tournoierais
+il (elle) tournoierait
+nous tournoierions
+vous tournoieriez
+ils (elles) tournoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tournoie
+que tu tournoies
+qu’il (elle) tournoie
+que nous tournoyions
+que vous tournoyiez
+qu’ils (elles) tournoient
+
+** Imparfait
+
+que je tournoyasse
+que tu tournoyasses
+qu’il (elle) tournoyât
+que nous tournoyassions
+que vous tournoyassiez
+qu’ils (elles) tournoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+tournoie
+tournoyons
+tournoyez
+
+* INFINITIF
+
+** Présent
+
+tournoyer
+
+* PARTICIPE
+
+** Présent
+
+tournoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tournoyé
+tu as tournoyé
+il (elle) a tournoyé
+nous avons tournoyé
+vous avez tournoyé
+ils (elles) ont tournoyé
+
+** Plus-que-parfait
+
+j'avais tournoyé
+tu avais tournoyé
+il (elle) avait tournoyé
+nous avions tournoyé
+vous aviez tournoyé
+ils (elles) avaient tournoyé
+
+** Passé antérieur
+
+j'eus tournoyé
+tu eus tournoyé
+il (elle) eut tournoyé
+nous eûmes tournoyé
+vous eûtes tournoyé
+ils (elles) eurent tournoyé
+
+** Futur antérieur
+
+j'aurai tournoyé
+tu auras tournoyé
+il (elle) aura tournoyé
+nous aurons tournoyé
+vous aurez tournoyé
+ils (elles) auront tournoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tournoyé
+tu aurais tournoyé
+il (elle) aurait tournoyé
+nous aurions tournoyé
+vous auriez tournoyé
+ils (elles) auraient tournoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tournoyé
+que tu aies tournoyé
+qu’il (elle) ait tournoyé
+que nous ayons tournoyé
+que vous ayez tournoyé
+qu’ils (elles) aient tournoyé
+
+** Plus-que-parfait
+
+que j'eusse tournoyé
+que tu eusses tournoyé
+qu’il (elle) eût tournoyé
+que nous eussions tournoyé
+que vous eussiez tournoyé
+qu’ils (elles) eussent tournoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tournoyé
+ayez tournoyé
+
+* INFINITIF
+
+** Passé
+
+avoir tournoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant tournoyé
+tournoyé (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe flamboyer
+
+* INDICATIF
+
+** Présent
+
+je flamboie
+tu flamboies
+il (elle) flamboie
+nous flamboyons
+vous flamboyez
+ils (elles) flamboient
+
+** Imparfait
+
+je flamboyais
+tu flamboyais
+il (elle) flamboyait
+nous flamboyions
+vous flamboyiez
+ils (elles) flamboyaient
+
+** Passé simple
+
+je flamboyai
+tu flamboyas
+il (elle) flamboya
+nous flamboyâmes
+vous flamboyâtes
+ils (elles) flamboyèrent
+
+** Futur simple
+
+je flamboierai
+tu flamboieras
+il (elle) flamboiera
+nous flamboierons
+vous flamboierez
+ils (elles) flamboieront
+
+* CONDITIONNEL
+
+** Présent
+
+je flamboierais
+tu flamboierais
+il (elle) flamboierait
+nous flamboierions
+vous flamboieriez
+ils (elles) flamboieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je flamboie
+que tu flamboies
+qu’il (elle) flamboie
+que nous flamboyions
+que vous flamboyiez
+qu’ils (elles) flamboient
+
+** Imparfait
+
+que je flamboyasse
+que tu flamboyasses
+qu’il (elle) flamboyât
+que nous flamboyassions
+que vous flamboyassiez
+qu’ils (elles) flamboyassent
+
+* IMPÉRATIF
+
+** Présent
+
+flamboie
+flamboyons
+flamboyez
+
+* INFINITIF
+
+** Présent
+
+flamboyer
+
+* PARTICIPE
+
+** Présent
+
+flamboyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai flamboyé
+tu as flamboyé
+il (elle) a flamboyé
+nous avons flamboyé
+vous avez flamboyé
+ils (elles) ont flamboyé
+
+** Plus-que-parfait
+
+j'avais flamboyé
+tu avais flamboyé
+il (elle) avait flamboyé
+nous avions flamboyé
+vous aviez flamboyé
+ils (elles) avaient flamboyé
+
+** Passé antérieur
+
+j'eus flamboyé
+tu eus flamboyé
+il (elle) eut flamboyé
+nous eûmes flamboyé
+vous eûtes flamboyé
+ils (elles) eurent flamboyé
+
+** Futur antérieur
+
+j'aurai flamboyé
+tu auras flamboyé
+il (elle) aura flamboyé
+nous aurons flamboyé
+vous aurez flamboyé
+ils (elles) auront flamboyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais flamboyé
+tu aurais flamboyé
+il (elle) aurait flamboyé
+nous aurions flamboyé
+vous auriez flamboyé
+ils (elles) auraient flamboyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie flamboyé
+que tu aies flamboyé
+qu’il (elle) ait flamboyé
+que nous ayons flamboyé
+que vous ayez flamboyé
+qu’ils (elles) aient flamboyé
+
+** Plus-que-parfait
+
+que j'eusse flamboyé
+que tu eusses flamboyé
+qu’il (elle) eût flamboyé
+que nous eussions flamboyé
+que vous eussiez flamboyé
+qu’ils (elles) eussent flamboyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons flamboyé
+ayez flamboyé
+
+* INFINITIF
+
+** Passé
+
+avoir flamboyé
+
+* PARTICIPE
+
+** Passé
+
+ayant flamboyé
+flamboyé (invar.)

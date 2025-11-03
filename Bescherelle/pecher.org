@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe pecher
+
+* INDICATIF
+
+** Présent
+
+je pèche
+tu pèches
+il (elle) pèche
+nous péchons
+vous péchez
+ils (elles) pèchent
+
+** Imparfait
+
+je péchais
+tu péchais
+il (elle) péchait
+nous péchions
+vous péchiez
+ils (elles) péchaient
+
+** Passé simple
+
+je péchai
+tu péchas
+il (elle) pécha
+nous péchâmes
+vous péchâtes
+ils (elles) péchèrent
+
+** Futur simple
+
+je pécherai
+tu pécheras
+il (elle) péchera
+nous pécherons
+vous pécherez
+ils (elles) pécheront
+
+* CONDITIONNEL
+
+** Présent
+
+je pécherais
+tu pécherais
+il (elle) pécherait
+nous pécherions
+vous pécheriez
+ils (elles) pécheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pèche
+que tu pèches
+qu’il (elle) pèche
+que nous péchions
+que vous péchiez
+qu’ils (elles) pèchent
+
+** Imparfait
+
+que je péchasse
+que tu péchasses
+qu’il (elle) péchât
+que nous péchassions
+que vous péchassiez
+qu’ils (elles) péchassent
+
+* IMPÉRATIF
+
+** Présent
+
+pèche
+péchons
+péchez
+
+* INFINITIF
+
+** Présent
+
+pécher
+
+* PARTICIPE
+
+** Présent
+
+péchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai péché
+tu as péché
+il (elle) a péché
+nous avons péché
+vous avez péché
+ils (elles) ont péché
+
+** Plus-que-parfait
+
+j'avais péché
+tu avais péché
+il (elle) avait péché
+nous avions péché
+vous aviez péché
+ils (elles) avaient péché
+
+** Passé antérieur
+
+j'eus péché
+tu eus péché
+il (elle) eut péché
+nous eûmes péché
+vous eûtes péché
+ils (elles) eurent péché
+
+** Futur antérieur
+
+j'aurai péché
+tu auras péché
+il (elle) aura péché
+nous aurons péché
+vous aurez péché
+ils (elles) auront péché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais péché
+tu aurais péché
+il (elle) aurait péché
+nous aurions péché
+vous auriez péché
+ils (elles) auraient péché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie péché
+que tu aies péché
+qu’il (elle) ait péché
+que nous ayons péché
+que vous ayez péché
+qu’ils (elles) aient péché
+
+** Plus-que-parfait
+
+que j'eusse péché
+que tu eusses péché
+qu’il (elle) eût péché
+que nous eussions péché
+que vous eussiez péché
+qu’ils (elles) eussent péché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons péché
+ayez péché
+
+* INFINITIF
+
+** Passé
+
+avoir péché
+
+* PARTICIPE
+
+** Passé
+
+ayant péché
+péché (invar.)

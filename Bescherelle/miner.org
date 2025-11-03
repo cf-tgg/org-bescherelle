@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe miner
+
+* INDICATIF
+
+** Présent
+
+je mine
+tu mines
+il (elle) mine
+nous minons
+vous minez
+ils (elles) minent
+
+** Imparfait
+
+je minais
+tu minais
+il (elle) minait
+nous minions
+vous miniez
+ils (elles) minaient
+
+** Passé simple
+
+je minai
+tu minas
+il (elle) mina
+nous minâmes
+vous minâtes
+ils (elles) minèrent
+
+** Futur simple
+
+je minerai
+tu mineras
+il (elle) minera
+nous minerons
+vous minerez
+ils (elles) mineront
+
+* CONDITIONNEL
+
+** Présent
+
+je minerais
+tu minerais
+il (elle) minerait
+nous minerions
+vous mineriez
+ils (elles) mineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mine
+que tu mines
+qu’il (elle) mine
+que nous minions
+que vous miniez
+qu’ils (elles) minent
+
+** Imparfait
+
+que je minasse
+que tu minasses
+qu’il (elle) minât
+que nous minassions
+que vous minassiez
+qu’ils (elles) minassent
+
+* IMPÉRATIF
+
+** Présent
+
+mine
+minons
+minez
+
+* INFINITIF
+
+** Présent
+
+miner
+
+* PARTICIPE
+
+** Présent
+
+minant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai miné
+tu as miné
+il (elle) a miné
+nous avons miné
+vous avez miné
+ils (elles) ont miné
+
+** Plus-que-parfait
+
+j'avais miné
+tu avais miné
+il (elle) avait miné
+nous avions miné
+vous aviez miné
+ils (elles) avaient miné
+
+** Passé antérieur
+
+j'eus miné
+tu eus miné
+il (elle) eut miné
+nous eûmes miné
+vous eûtes miné
+ils (elles) eurent miné
+
+** Futur antérieur
+
+j'aurai miné
+tu auras miné
+il (elle) aura miné
+nous aurons miné
+vous aurez miné
+ils (elles) auront miné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais miné
+tu aurais miné
+il (elle) aurait miné
+nous aurions miné
+vous auriez miné
+ils (elles) auraient miné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie miné
+que tu aies miné
+qu’il (elle) ait miné
+que nous ayons miné
+que vous ayez miné
+qu’ils (elles) aient miné
+
+** Plus-que-parfait
+
+que j'eusse miné
+que tu eusses miné
+qu’il (elle) eût miné
+que nous eussions miné
+que vous eussiez miné
+qu’ils (elles) eussent miné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons miné
+ayez miné
+
+* INFINITIF
+
+** Passé
+
+avoir miné
+
+* PARTICIPE
+
+** Passé
+
+ayant miné
+miné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis miné(e)
+tu es miné(e)
+il (elle) est miné(e)
+nous sommes miné(e)s
+vous êtes miné(e)s
+ils (elles) sont miné(e)s
+
+** Imparfait
+
+j'étais miné(e)
+tu étais miné(e)
+il (elle) était miné(e)
+nous étions miné(e)s
+vous étiez miné(e)s
+ils (elles) étaient miné(e)s
+
+** Passé simple
+
+je fus miné(e)
+tu fus miné(e)
+il (elle) fut miné(e)
+nous fûmes miné(e)s
+vous fûtes miné(e)s
+ils (elles) furent miné(e)s
+
+** Futur simple
+
+je serai miné(e)
+tu seras miné(e)
+il (elle) sera miné(e)
+nous serons miné(e)s
+vous serez miné(e)s
+ils (elles) seront miné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais miné(e)
+tu serais miné(e)
+il (elle) serait miné(e)
+nous serions miné(e)s
+vous seriez miné(e)s
+ils (elles) seraient miné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois miné(e)
+que tu sois miné(e)
+qu’il (elle) soit miné(e)
+que nous soyons miné(e)s
+que vous soyez miné(e)s
+qu’ils (elles) soient miné(e)s
+
+** Imparfait
+
+que je fusse miné(e)
+que tu fusses miné(e)
+qu’il (elle) fût miné(e)
+que nous fussions miné(e)s
+que vous fussiez miné(e)s
+qu’ils (elles) fussent miné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons miné(e)s
+soyez miné(e)s
+
+* INFINITIF
+
+** Présent
+
+être miné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant miné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été miné(e)
+tu as été miné(e)
+il (elle) a été miné(e)
+nous avons été miné(e)s
+vous avez été miné(e)s
+ils (elles) ont été miné(e)s
+
+** Plus-que-parfait
+
+j'avais été miné(e)
+il (elle) avait été miné(e)
+nous avions été miné(e)s
+ils (elles) avaient été miné(e)s
+
+** Passé antérieur
+
+j'eus été miné(e)
+tu eus été miné(e)
+il (elle) eut été miné(e)
+nous eûmes été miné(e)s
+vous eûtes été miné(e)s
+ils (elles) eurent été miné(e)s
+
+** Futur antérieur
+
+j'aurai été miné(e)
+tu auras été miné(e)
+il (elle) aura été miné(e)
+nous aurons été miné(e)s
+vous aurez été miné(e)s
+ils (elles) auront été miné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été miné(e)
+j'aurais été miné(e)
+il (elle) aurait été miné(e)
+nous aurions été miné(e)s
+vous auriez été miné(e)s
+ils (elles) auraient été miné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été miné(e)
+que tu aies été miné(e)
+qu’il (elle) ait été miné(e)
+que nous ayons été miné(e)s
+que vous ayez été miné(e)s
+qu’ils (elles) aient été miné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été miné(e)
+que tu eusses été miné(e)
+qu’il (elle) eût été miné(e)
+que nous eussions été miné(e)s
+que vous eussiez été miné(e)s
+qu’ils (elles) eussent été miné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été miné(e)
+ayons été miné(e)s
+ayez été miné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été miné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été miné(e)(s)

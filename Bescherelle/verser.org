@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe verser
+
+* INDICATIF
+
+** Présent
+
+je verse
+tu verses
+il (elle) verse
+nous versons
+vous versez
+ils (elles) versent
+
+** Imparfait
+
+je versais
+tu versais
+il (elle) versait
+nous versions
+vous versiez
+ils (elles) versaient
+
+** Passé simple
+
+je versai
+tu versas
+il (elle) versa
+nous versâmes
+vous versâtes
+ils (elles) versèrent
+
+** Futur simple
+
+je verserai
+tu verseras
+il (elle) versera
+nous verserons
+vous verserez
+ils (elles) verseront
+
+* CONDITIONNEL
+
+** Présent
+
+je verserais
+tu verserais
+il (elle) verserait
+nous verserions
+vous verseriez
+ils (elles) verseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je verse
+que tu verses
+qu’il (elle) verse
+que nous versions
+que vous versiez
+qu’ils (elles) versent
+
+** Imparfait
+
+que je versasse
+que tu versasses
+qu’il (elle) versât
+que nous versassions
+que vous versassiez
+qu’ils (elles) versassent
+
+* IMPÉRATIF
+
+** Présent
+
+verse
+versons
+versez
+
+* INFINITIF
+
+** Présent
+
+verser
+
+* PARTICIPE
+
+** Présent
+
+versant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai versé
+tu as versé
+il (elle) a versé
+nous avons versé
+vous avez versé
+ils (elles) ont versé
+
+** Plus-que-parfait
+
+j'avais versé
+tu avais versé
+il (elle) avait versé
+nous avions versé
+vous aviez versé
+ils (elles) avaient versé
+
+** Passé antérieur
+
+j'eus versé
+tu eus versé
+il (elle) eut versé
+nous eûmes versé
+vous eûtes versé
+ils (elles) eurent versé
+
+** Futur antérieur
+
+j'aurai versé
+tu auras versé
+il (elle) aura versé
+nous aurons versé
+vous aurez versé
+ils (elles) auront versé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais versé
+tu aurais versé
+il (elle) aurait versé
+nous aurions versé
+vous auriez versé
+ils (elles) auraient versé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie versé
+que tu aies versé
+qu’il (elle) ait versé
+que nous ayons versé
+que vous ayez versé
+qu’ils (elles) aient versé
+
+** Plus-que-parfait
+
+que j'eusse versé
+que tu eusses versé
+qu’il (elle) eût versé
+que nous eussions versé
+que vous eussiez versé
+qu’ils (elles) eussent versé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons versé
+ayez versé
+
+* INFINITIF
+
+** Passé
+
+avoir versé
+
+* PARTICIPE
+
+** Passé
+
+ayant versé
+versé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis versé(e)
+tu es versé(e)
+il (elle) est versé(e)
+nous sommes versé(e)s
+vous êtes versé(e)s
+ils (elles) sont versé(e)s
+
+** Imparfait
+
+j'étais versé(e)
+tu étais versé(e)
+il (elle) était versé(e)
+nous étions versé(e)s
+vous étiez versé(e)s
+ils (elles) étaient versé(e)s
+
+** Passé simple
+
+je fus versé(e)
+tu fus versé(e)
+il (elle) fut versé(e)
+nous fûmes versé(e)s
+vous fûtes versé(e)s
+ils (elles) furent versé(e)s
+
+** Futur simple
+
+je serai versé(e)
+tu seras versé(e)
+il (elle) sera versé(e)
+nous serons versé(e)s
+vous serez versé(e)s
+ils (elles) seront versé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais versé(e)
+tu serais versé(e)
+il (elle) serait versé(e)
+nous serions versé(e)s
+vous seriez versé(e)s
+ils (elles) seraient versé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois versé(e)
+que tu sois versé(e)
+qu’il (elle) soit versé(e)
+que nous soyons versé(e)s
+que vous soyez versé(e)s
+qu’ils (elles) soient versé(e)s
+
+** Imparfait
+
+que je fusse versé(e)
+que tu fusses versé(e)
+qu’il (elle) fût versé(e)
+que nous fussions versé(e)s
+que vous fussiez versé(e)s
+qu’ils (elles) fussent versé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons versé(e)s
+soyez versé(e)s
+
+* INFINITIF
+
+** Présent
+
+être versé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant versé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été versé(e)
+tu as été versé(e)
+il (elle) a été versé(e)
+nous avons été versé(e)s
+vous avez été versé(e)s
+ils (elles) ont été versé(e)s
+
+** Plus-que-parfait
+
+j'avais été versé(e)
+il (elle) avait été versé(e)
+nous avions été versé(e)s
+ils (elles) avaient été versé(e)s
+
+** Passé antérieur
+
+j'eus été versé(e)
+tu eus été versé(e)
+il (elle) eut été versé(e)
+nous eûmes été versé(e)s
+vous eûtes été versé(e)s
+ils (elles) eurent été versé(e)s
+
+** Futur antérieur
+
+j'aurai été versé(e)
+tu auras été versé(e)
+il (elle) aura été versé(e)
+nous aurons été versé(e)s
+vous aurez été versé(e)s
+ils (elles) auront été versé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été versé(e)
+j'aurais été versé(e)
+il (elle) aurait été versé(e)
+nous aurions été versé(e)s
+vous auriez été versé(e)s
+ils (elles) auraient été versé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été versé(e)
+que tu aies été versé(e)
+qu’il (elle) ait été versé(e)
+que nous ayons été versé(e)s
+que vous ayez été versé(e)s
+qu’ils (elles) aient été versé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été versé(e)
+que tu eusses été versé(e)
+qu’il (elle) eût été versé(e)
+que nous eussions été versé(e)s
+que vous eussiez été versé(e)s
+qu’ils (elles) eussent été versé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été versé(e)
+ayons été versé(e)s
+ayez été versé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été versé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été versé(e)(s)

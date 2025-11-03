@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe loger
+
+* INDICATIF
+
+** Présent
+
+je loge
+tu loges
+il (elle) loge
+nous logeons
+vous logez
+ils (elles) logent
+
+** Imparfait
+
+je logeais
+tu logeais
+il (elle) logeait
+nous logions
+vous logiez
+ils (elles) logeaient
+
+** Passé simple
+
+je logeai
+tu logeas
+il (elle) logea
+nous logeâmes
+vous logeâtes
+ils (elles) logèrent
+
+** Futur simple
+
+je logerai
+tu logeras
+il (elle) logera
+nous logerons
+vous logerez
+ils (elles) logeront
+
+* CONDITIONNEL
+
+** Présent
+
+je logerais
+tu logerais
+il (elle) logerait
+nous logerions
+vous logeriez
+ils (elles) logeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je loge
+que tu loges
+qu’il (elle) loge
+que nous logions
+que vous logiez
+qu’ils (elles) logent
+
+** Imparfait
+
+que je logeasse
+que tu logeasses
+qu’il (elle) logeât
+que nous logeassions
+que vous logeassiez
+qu’ils (elles) logeassent
+
+* IMPÉRATIF
+
+** Présent
+
+loge
+logeons
+logez
+
+* INFINITIF
+
+** Présent
+
+loger
+
+* PARTICIPE
+
+** Présent
+
+logeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai logé
+tu as logé
+il (elle) a logé
+nous avons logé
+vous avez logé
+ils (elles) ont logé
+
+** Plus-que-parfait
+
+j'avais logé
+tu avais logé
+il (elle) avait logé
+nous avions logé
+vous aviez logé
+ils (elles) avaient logé
+
+** Passé antérieur
+
+j'eus logé
+tu eus logé
+il (elle) eut logé
+nous eûmes logé
+vous eûtes logé
+ils (elles) eurent logé
+
+** Futur antérieur
+
+j'aurai logé
+tu auras logé
+il (elle) aura logé
+nous aurons logé
+vous aurez logé
+ils (elles) auront logé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais logé
+tu aurais logé
+il (elle) aurait logé
+nous aurions logé
+vous auriez logé
+ils (elles) auraient logé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie logé
+que tu aies logé
+qu’il (elle) ait logé
+que nous ayons logé
+que vous ayez logé
+qu’ils (elles) aient logé
+
+** Plus-que-parfait
+
+que j'eusse logé
+que tu eusses logé
+qu’il (elle) eût logé
+que nous eussions logé
+que vous eussiez logé
+qu’ils (elles) eussent logé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons logé
+ayez logé
+
+* INFINITIF
+
+** Passé
+
+avoir logé
+
+* PARTICIPE
+
+** Passé
+
+ayant logé
+logé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis logé(e)
+tu es logé(e)
+il (elle) est logé(e)
+nous sommes logé(e)s
+vous êtes logé(e)s
+ils (elles) sont logé(e)s
+
+** Imparfait
+
+j'étais logé(e)
+tu étais logé(e)
+il (elle) était logé(e)
+nous étions logé(e)s
+vous étiez logé(e)s
+ils (elles) étaient logé(e)s
+
+** Passé simple
+
+je fus logé(e)
+tu fus logé(e)
+il (elle) fut logé(e)
+nous fûmes logé(e)s
+vous fûtes logé(e)s
+ils (elles) furent logé(e)s
+
+** Futur simple
+
+je serai logé(e)
+tu seras logé(e)
+il (elle) sera logé(e)
+nous serons logé(e)s
+vous serez logé(e)s
+ils (elles) seront logé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais logé(e)
+tu serais logé(e)
+il (elle) serait logé(e)
+nous serions logé(e)s
+vous seriez logé(e)s
+ils (elles) seraient logé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois logé(e)
+que tu sois logé(e)
+qu’il (elle) soit logé(e)
+que nous soyons logé(e)s
+que vous soyez logé(e)s
+qu’ils (elles) soient logé(e)s
+
+** Imparfait
+
+que je fusse logé(e)
+que tu fusses logé(e)
+qu’il (elle) fût logé(e)
+que nous fussions logé(e)s
+que vous fussiez logé(e)s
+qu’ils (elles) fussent logé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons logé(e)s
+soyez logé(e)s
+
+* INFINITIF
+
+** Présent
+
+être logé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant logé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été logé(e)
+tu as été logé(e)
+il (elle) a été logé(e)
+nous avons été logé(e)s
+vous avez été logé(e)s
+ils (elles) ont été logé(e)s
+
+** Plus-que-parfait
+
+j'avais été logé(e)
+il (elle) avait été logé(e)
+nous avions été logé(e)s
+ils (elles) avaient été logé(e)s
+
+** Passé antérieur
+
+j'eus été logé(e)
+tu eus été logé(e)
+il (elle) eut été logé(e)
+nous eûmes été logé(e)s
+vous eûtes été logé(e)s
+ils (elles) eurent été logé(e)s
+
+** Futur antérieur
+
+j'aurai été logé(e)
+tu auras été logé(e)
+il (elle) aura été logé(e)
+nous aurons été logé(e)s
+vous aurez été logé(e)s
+ils (elles) auront été logé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été logé(e)
+j'aurais été logé(e)
+il (elle) aurait été logé(e)
+nous aurions été logé(e)s
+vous auriez été logé(e)s
+ils (elles) auraient été logé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été logé(e)
+que tu aies été logé(e)
+qu’il (elle) ait été logé(e)
+que nous ayons été logé(e)s
+que vous ayez été logé(e)s
+qu’ils (elles) aient été logé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été logé(e)
+que tu eusses été logé(e)
+qu’il (elle) eût été logé(e)
+que nous eussions été logé(e)s
+que vous eussiez été logé(e)s
+qu’ils (elles) eussent été logé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été logé(e)
+ayons été logé(e)s
+ayez été logé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été logé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été logé(e)(s)

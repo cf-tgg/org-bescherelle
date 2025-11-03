@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe empirer
+
+* INDICATIF
+
+** Présent
+
+j'empire
+tu empires
+il (elle) empire
+nous empirons
+vous empirez
+ils (elles) empirent
+
+** Imparfait
+
+j'empirais
+tu empirais
+il (elle) empirait
+nous empirions
+vous empiriez
+ils (elles) empiraient
+
+** Passé simple
+
+j'empirai
+tu empiras
+il (elle) empira
+nous empirâmes
+vous empirâtes
+ils (elles) empirèrent
+
+** Futur simple
+
+j'empirerai
+tu empireras
+il (elle) empirera
+nous empirerons
+vous empirerez
+ils (elles) empireront
+
+* CONDITIONNEL
+
+** Présent
+
+j'empirerais
+tu empirerais
+il (elle) empirerait
+nous empirerions
+vous empireriez
+ils (elles) empireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'empire
+que tu empires
+qu’il (elle) empire
+que nous empirions
+que vous empiriez
+qu’ils (elles) empirent
+
+** Imparfait
+
+que j'empirasse
+que tu empirasses
+qu’il (elle) empirât
+que nous empirassions
+que vous empirassiez
+qu’ils (elles) empirassent
+
+* IMPÉRATIF
+
+** Présent
+
+empire
+empirons
+empirez
+
+* INFINITIF
+
+** Présent
+
+empirer
+
+* PARTICIPE
+
+** Présent
+
+empirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai empiré
+tu as empiré
+il (elle) a empiré
+nous avons empiré
+vous avez empiré
+ils (elles) ont empiré
+
+** Plus-que-parfait
+
+j'avais empiré
+tu avais empiré
+il (elle) avait empiré
+nous avions empiré
+vous aviez empiré
+ils (elles) avaient empiré
+
+** Passé antérieur
+
+j'eus empiré
+tu eus empiré
+il (elle) eut empiré
+nous eûmes empiré
+vous eûtes empiré
+ils (elles) eurent empiré
+
+** Futur antérieur
+
+j'aurai empiré
+tu auras empiré
+il (elle) aura empiré
+nous aurons empiré
+vous aurez empiré
+ils (elles) auront empiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais empiré
+tu aurais empiré
+il (elle) aurait empiré
+nous aurions empiré
+vous auriez empiré
+ils (elles) auraient empiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie empiré
+que tu aies empiré
+qu’il (elle) ait empiré
+que nous ayons empiré
+que vous ayez empiré
+qu’ils (elles) aient empiré
+
+** Plus-que-parfait
+
+que j'eusse empiré
+que tu eusses empiré
+qu’il (elle) eût empiré
+que nous eussions empiré
+que vous eussiez empiré
+qu’ils (elles) eussent empiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons empiré
+ayez empiré
+
+* INFINITIF
+
+** Passé
+
+avoir empiré
+
+* PARTICIPE
+
+** Passé
+
+ayant empiré
+empiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis empiré(e)
+tu es empiré(e)
+il (elle) est empiré(e)
+nous sommes empiré(e)s
+vous êtes empiré(e)s
+ils (elles) sont empiré(e)s
+
+** Imparfait
+
+j'étais empiré(e)
+tu étais empiré(e)
+il (elle) était empiré(e)
+nous étions empiré(e)s
+vous étiez empiré(e)s
+ils (elles) étaient empiré(e)s
+
+** Passé simple
+
+je fus empiré(e)
+tu fus empiré(e)
+il (elle) fut empiré(e)
+nous fûmes empiré(e)s
+vous fûtes empiré(e)s
+ils (elles) furent empiré(e)s
+
+** Futur simple
+
+je serai empiré(e)
+tu seras empiré(e)
+il (elle) sera empiré(e)
+nous serons empiré(e)s
+vous serez empiré(e)s
+ils (elles) seront empiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais empiré(e)
+tu serais empiré(e)
+il (elle) serait empiré(e)
+nous serions empiré(e)s
+vous seriez empiré(e)s
+ils (elles) seraient empiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois empiré(e)
+que tu sois empiré(e)
+qu’il (elle) soit empiré(e)
+que nous soyons empiré(e)s
+que vous soyez empiré(e)s
+qu’ils (elles) soient empiré(e)s
+
+** Imparfait
+
+que je fusse empiré(e)
+que tu fusses empiré(e)
+qu’il (elle) fût empiré(e)
+que nous fussions empiré(e)s
+que vous fussiez empiré(e)s
+qu’ils (elles) fussent empiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons empiré(e)s
+soyez empiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être empiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant empiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été empiré(e)
+tu as été empiré(e)
+il (elle) a été empiré(e)
+nous avons été empiré(e)s
+vous avez été empiré(e)s
+ils (elles) ont été empiré(e)s
+
+** Plus-que-parfait
+
+j'avais été empiré(e)
+il (elle) avait été empiré(e)
+nous avions été empiré(e)s
+ils (elles) avaient été empiré(e)s
+
+** Passé antérieur
+
+j'eus été empiré(e)
+tu eus été empiré(e)
+il (elle) eut été empiré(e)
+nous eûmes été empiré(e)s
+vous eûtes été empiré(e)s
+ils (elles) eurent été empiré(e)s
+
+** Futur antérieur
+
+j'aurai été empiré(e)
+tu auras été empiré(e)
+il (elle) aura été empiré(e)
+nous aurons été empiré(e)s
+vous aurez été empiré(e)s
+ils (elles) auront été empiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été empiré(e)
+j'aurais été empiré(e)
+il (elle) aurait été empiré(e)
+nous aurions été empiré(e)s
+vous auriez été empiré(e)s
+ils (elles) auraient été empiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été empiré(e)
+que tu aies été empiré(e)
+qu’il (elle) ait été empiré(e)
+que nous ayons été empiré(e)s
+que vous ayez été empiré(e)s
+qu’ils (elles) aient été empiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été empiré(e)
+que tu eusses été empiré(e)
+qu’il (elle) eût été empiré(e)
+que nous eussions été empiré(e)s
+que vous eussiez été empiré(e)s
+qu’ils (elles) eussent été empiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été empiré(e)
+ayons été empiré(e)s
+ayez été empiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été empiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été empiré(e)(s)

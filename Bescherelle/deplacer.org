@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deplacer
+
+* INDICATIF
+
+** Présent
+
+je déplace
+tu déplaces
+il (elle) déplace
+nous déplaçons
+vous déplacez
+ils (elles) déplacent
+
+** Imparfait
+
+je déplaçais
+tu déplaçais
+il (elle) déplaçait
+nous déplacions
+vous déplaciez
+ils (elles) déplaçaient
+
+** Passé simple
+
+je déplaçai
+tu déplaças
+il (elle) déplaça
+nous déplaçâmes
+vous déplaçâtes
+ils (elles) déplacèrent
+
+** Futur simple
+
+je déplacerai
+tu déplaceras
+il (elle) déplacera
+nous déplacerons
+vous déplacerez
+ils (elles) déplaceront
+
+* CONDITIONNEL
+
+** Présent
+
+je déplacerais
+tu déplacerais
+il (elle) déplacerait
+nous déplacerions
+vous déplaceriez
+ils (elles) déplaceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déplace
+que tu déplaces
+qu’il (elle) déplace
+que nous déplacions
+que vous déplaciez
+qu’ils (elles) déplacent
+
+** Imparfait
+
+que je déplaçasse
+que tu déplaçasses
+qu’il (elle) déplaçât
+que nous déplaçassions
+que vous déplaçassiez
+qu’ils (elles) déplaçassent
+
+* IMPÉRATIF
+
+** Présent
+
+déplace
+déplaçons
+déplacez
+
+* INFINITIF
+
+** Présent
+
+déplacer
+
+* PARTICIPE
+
+** Présent
+
+déplaçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déplacé
+tu as déplacé
+il (elle) a déplacé
+nous avons déplacé
+vous avez déplacé
+ils (elles) ont déplacé
+
+** Plus-que-parfait
+
+j'avais déplacé
+tu avais déplacé
+il (elle) avait déplacé
+nous avions déplacé
+vous aviez déplacé
+ils (elles) avaient déplacé
+
+** Passé antérieur
+
+j'eus déplacé
+tu eus déplacé
+il (elle) eut déplacé
+nous eûmes déplacé
+vous eûtes déplacé
+ils (elles) eurent déplacé
+
+** Futur antérieur
+
+j'aurai déplacé
+tu auras déplacé
+il (elle) aura déplacé
+nous aurons déplacé
+vous aurez déplacé
+ils (elles) auront déplacé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déplacé
+tu aurais déplacé
+il (elle) aurait déplacé
+nous aurions déplacé
+vous auriez déplacé
+ils (elles) auraient déplacé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déplacé
+que tu aies déplacé
+qu’il (elle) ait déplacé
+que nous ayons déplacé
+que vous ayez déplacé
+qu’ils (elles) aient déplacé
+
+** Plus-que-parfait
+
+que j'eusse déplacé
+que tu eusses déplacé
+qu’il (elle) eût déplacé
+que nous eussions déplacé
+que vous eussiez déplacé
+qu’ils (elles) eussent déplacé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déplacé
+ayez déplacé
+
+* INFINITIF
+
+** Passé
+
+avoir déplacé
+
+* PARTICIPE
+
+** Passé
+
+ayant déplacé
+déplacé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis déplacé(e)
+tu es déplacé(e)
+il (elle) est déplacé(e)
+nous sommes déplacé(e)s
+vous êtes déplacé(e)s
+ils (elles) sont déplacé(e)s
+
+** Imparfait
+
+j'étais déplacé(e)
+tu étais déplacé(e)
+il (elle) était déplacé(e)
+nous étions déplacé(e)s
+vous étiez déplacé(e)s
+ils (elles) étaient déplacé(e)s
+
+** Passé simple
+
+je fus déplacé(e)
+tu fus déplacé(e)
+il (elle) fut déplacé(e)
+nous fûmes déplacé(e)s
+vous fûtes déplacé(e)s
+ils (elles) furent déplacé(e)s
+
+** Futur simple
+
+je serai déplacé(e)
+tu seras déplacé(e)
+il (elle) sera déplacé(e)
+nous serons déplacé(e)s
+vous serez déplacé(e)s
+ils (elles) seront déplacé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais déplacé(e)
+tu serais déplacé(e)
+il (elle) serait déplacé(e)
+nous serions déplacé(e)s
+vous seriez déplacé(e)s
+ils (elles) seraient déplacé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois déplacé(e)
+que tu sois déplacé(e)
+qu’il (elle) soit déplacé(e)
+que nous soyons déplacé(e)s
+que vous soyez déplacé(e)s
+qu’ils (elles) soient déplacé(e)s
+
+** Imparfait
+
+que je fusse déplacé(e)
+que tu fusses déplacé(e)
+qu’il (elle) fût déplacé(e)
+que nous fussions déplacé(e)s
+que vous fussiez déplacé(e)s
+qu’ils (elles) fussent déplacé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons déplacé(e)s
+soyez déplacé(e)s
+
+* INFINITIF
+
+** Présent
+
+être déplacé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant déplacé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été déplacé(e)
+tu as été déplacé(e)
+il (elle) a été déplacé(e)
+nous avons été déplacé(e)s
+vous avez été déplacé(e)s
+ils (elles) ont été déplacé(e)s
+
+** Plus-que-parfait
+
+j'avais été déplacé(e)
+il (elle) avait été déplacé(e)
+nous avions été déplacé(e)s
+ils (elles) avaient été déplacé(e)s
+
+** Passé antérieur
+
+j'eus été déplacé(e)
+tu eus été déplacé(e)
+il (elle) eut été déplacé(e)
+nous eûmes été déplacé(e)s
+vous eûtes été déplacé(e)s
+ils (elles) eurent été déplacé(e)s
+
+** Futur antérieur
+
+j'aurai été déplacé(e)
+tu auras été déplacé(e)
+il (elle) aura été déplacé(e)
+nous aurons été déplacé(e)s
+vous aurez été déplacé(e)s
+ils (elles) auront été déplacé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été déplacé(e)
+j'aurais été déplacé(e)
+il (elle) aurait été déplacé(e)
+nous aurions été déplacé(e)s
+vous auriez été déplacé(e)s
+ils (elles) auraient été déplacé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été déplacé(e)
+que tu aies été déplacé(e)
+qu’il (elle) ait été déplacé(e)
+que nous ayons été déplacé(e)s
+que vous ayez été déplacé(e)s
+qu’ils (elles) aient été déplacé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été déplacé(e)
+que tu eusses été déplacé(e)
+qu’il (elle) eût été déplacé(e)
+que nous eussions été déplacé(e)s
+que vous eussiez été déplacé(e)s
+qu’ils (elles) eussent été déplacé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été déplacé(e)
+ayons été déplacé(e)s
+ayez été déplacé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été déplacé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été déplacé(e)(s)

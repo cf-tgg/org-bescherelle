@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe murer
+
+* INDICATIF
+
+** Présent
+
+je mure
+tu mures
+il (elle) mure
+nous murons
+vous murez
+ils (elles) murent
+
+** Imparfait
+
+je murais
+tu murais
+il (elle) murait
+nous murions
+vous muriez
+ils (elles) muraient
+
+** Passé simple
+
+je murai
+tu muras
+il (elle) mura
+nous murâmes
+vous murâtes
+ils (elles) murèrent
+
+** Futur simple
+
+je murerai
+tu mureras
+il (elle) murera
+nous murerons
+vous murerez
+ils (elles) mureront
+
+* CONDITIONNEL
+
+** Présent
+
+je murerais
+tu murerais
+il (elle) murerait
+nous murerions
+vous mureriez
+ils (elles) mureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mure
+que tu mures
+qu’il (elle) mure
+que nous murions
+que vous muriez
+qu’ils (elles) murent
+
+** Imparfait
+
+que je murasse
+que tu murasses
+qu’il (elle) murât
+que nous murassions
+que vous murassiez
+qu’ils (elles) murassent
+
+* IMPÉRATIF
+
+** Présent
+
+mure
+murons
+murez
+
+* INFINITIF
+
+** Présent
+
+murer
+
+* PARTICIPE
+
+** Présent
+
+murant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai muré
+tu as muré
+il (elle) a muré
+nous avons muré
+vous avez muré
+ils (elles) ont muré
+
+** Plus-que-parfait
+
+j'avais muré
+tu avais muré
+il (elle) avait muré
+nous avions muré
+vous aviez muré
+ils (elles) avaient muré
+
+** Passé antérieur
+
+j'eus muré
+tu eus muré
+il (elle) eut muré
+nous eûmes muré
+vous eûtes muré
+ils (elles) eurent muré
+
+** Futur antérieur
+
+j'aurai muré
+tu auras muré
+il (elle) aura muré
+nous aurons muré
+vous aurez muré
+ils (elles) auront muré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais muré
+tu aurais muré
+il (elle) aurait muré
+nous aurions muré
+vous auriez muré
+ils (elles) auraient muré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie muré
+que tu aies muré
+qu’il (elle) ait muré
+que nous ayons muré
+que vous ayez muré
+qu’ils (elles) aient muré
+
+** Plus-que-parfait
+
+que j'eusse muré
+que tu eusses muré
+qu’il (elle) eût muré
+que nous eussions muré
+que vous eussiez muré
+qu’ils (elles) eussent muré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons muré
+ayez muré
+
+* INFINITIF
+
+** Passé
+
+avoir muré
+
+* PARTICIPE
+
+** Passé
+
+ayant muré
+muré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis muré(e)
+tu es muré(e)
+il (elle) est muré(e)
+nous sommes muré(e)s
+vous êtes muré(e)s
+ils (elles) sont muré(e)s
+
+** Imparfait
+
+j'étais muré(e)
+tu étais muré(e)
+il (elle) était muré(e)
+nous étions muré(e)s
+vous étiez muré(e)s
+ils (elles) étaient muré(e)s
+
+** Passé simple
+
+je fus muré(e)
+tu fus muré(e)
+il (elle) fut muré(e)
+nous fûmes muré(e)s
+vous fûtes muré(e)s
+ils (elles) furent muré(e)s
+
+** Futur simple
+
+je serai muré(e)
+tu seras muré(e)
+il (elle) sera muré(e)
+nous serons muré(e)s
+vous serez muré(e)s
+ils (elles) seront muré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais muré(e)
+tu serais muré(e)
+il (elle) serait muré(e)
+nous serions muré(e)s
+vous seriez muré(e)s
+ils (elles) seraient muré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois muré(e)
+que tu sois muré(e)
+qu’il (elle) soit muré(e)
+que nous soyons muré(e)s
+que vous soyez muré(e)s
+qu’ils (elles) soient muré(e)s
+
+** Imparfait
+
+que je fusse muré(e)
+que tu fusses muré(e)
+qu’il (elle) fût muré(e)
+que nous fussions muré(e)s
+que vous fussiez muré(e)s
+qu’ils (elles) fussent muré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons muré(e)s
+soyez muré(e)s
+
+* INFINITIF
+
+** Présent
+
+être muré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant muré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été muré(e)
+tu as été muré(e)
+il (elle) a été muré(e)
+nous avons été muré(e)s
+vous avez été muré(e)s
+ils (elles) ont été muré(e)s
+
+** Plus-que-parfait
+
+j'avais été muré(e)
+il (elle) avait été muré(e)
+nous avions été muré(e)s
+ils (elles) avaient été muré(e)s
+
+** Passé antérieur
+
+j'eus été muré(e)
+tu eus été muré(e)
+il (elle) eut été muré(e)
+nous eûmes été muré(e)s
+vous eûtes été muré(e)s
+ils (elles) eurent été muré(e)s
+
+** Futur antérieur
+
+j'aurai été muré(e)
+tu auras été muré(e)
+il (elle) aura été muré(e)
+nous aurons été muré(e)s
+vous aurez été muré(e)s
+ils (elles) auront été muré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été muré(e)
+j'aurais été muré(e)
+il (elle) aurait été muré(e)
+nous aurions été muré(e)s
+vous auriez été muré(e)s
+ils (elles) auraient été muré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été muré(e)
+que tu aies été muré(e)
+qu’il (elle) ait été muré(e)
+que nous ayons été muré(e)s
+que vous ayez été muré(e)s
+qu’ils (elles) aient été muré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été muré(e)
+que tu eusses été muré(e)
+qu’il (elle) eût été muré(e)
+que nous eussions été muré(e)s
+que vous eussiez été muré(e)s
+qu’ils (elles) eussent été muré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été muré(e)
+ayons été muré(e)s
+ayez été muré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été muré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été muré(e)(s)

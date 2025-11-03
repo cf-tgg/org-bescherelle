@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe envahir
+
+* INDICATIF
+
+** Présent
+
+j'envahis
+tu envahis
+il (elle) envahit
+nous envahissons
+vous envahissez
+ils (elles) envahissent
+
+** Imparfait
+
+j'envahissais
+tu envahissais
+il (elle) envahissait
+nous envahissions
+vous envahissiez
+ils (elles) envahissaient
+
+** Passé simple
+
+j'envahis
+tu envahis
+il (elle) envahit
+nous envahîmes
+vous envahîtes
+ils (elles) envahirent
+
+** Futur simple
+
+j'envahirai
+tu envahiras
+il (elle) envahira
+nous envahirons
+vous envahirez
+ils (elles) envahiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'envahirais
+tu envahirais
+il (elle) envahirait
+nous envahirions
+vous envahiriez
+ils (elles) envahiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'envahisse
+que tu envahisses
+qu’il (elle) envahisse
+que nous envahissions
+que vous envahissiez
+qu’ils (elles) envahissent
+
+** Imparfait
+
+que j'envahisse
+que tu envahisses
+qu’il (elle) envahît
+que nous envahissions
+que vous envahissiez
+qu’ils (elles) envahissent
+
+* IMPÉRATIF
+
+** Présent
+
+envahis
+envahissons
+envahissez
+
+* INFINITIF
+
+** Présent
+
+envahir
+
+* PARTICIPE
+
+** Présent
+
+envahissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai envahi
+tu as envahi
+il (elle) a envahi
+nous avons envahi
+vous avez envahi
+ils (elles) ont envahi
+
+** Plus-que-parfait
+
+j'avais envahi
+tu avais envahi
+il (elle) avait envahi
+nous avions envahi
+vous aviez envahi
+ils (elles) avaient envahi
+
+** Passé antérieur
+
+j'eus envahi
+tu eus envahi
+il (elle) eut envahi
+nous eûmes envahi
+vous eûtes envahi
+ils (elles) eurent envahi
+
+** Futur antérieur
+
+j'aurai envahi
+tu auras envahi
+il (elle) aura envahi
+nous aurons envahi
+vous aurez envahi
+ils (elles) auront envahi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais envahi
+tu aurais envahi
+il (elle) aurait envahi
+nous aurions envahi
+vous auriez envahi
+ils (elles) auraient envahi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie envahi
+que tu aies envahi
+qu’il (elle) ait envahi
+que nous ayons envahi
+que vous ayez envahi
+qu’ils (elles) aient envahi
+
+** Plus-que-parfait
+
+que j'eusse envahi
+que tu eusses envahi
+qu’il (elle) eût envahi
+que nous eussions envahi
+que vous eussiez envahi
+qu’ils (elles) eussent envahi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons envahi
+ayez envahi
+
+* INFINITIF
+
+** Passé
+
+avoir envahi
+
+* PARTICIPE
+
+** Passé
+
+ayant envahi
+envahi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis envahi(e)
+tu es envahi(e)
+il (elle) est envahi(e)
+nous sommes envahi(e)s
+vous êtes envahi(e)s
+ils (elles) sont envahi(e)s
+
+** Imparfait
+
+j'étais envahi(e)
+tu étais envahi(e)
+il (elle) était envahi(e)
+nous étions envahi(e)s
+vous étiez envahi(e)s
+ils (elles) étaient envahi(e)s
+
+** Passé simple
+
+je fus envahi(e)
+tu fus envahi(e)
+il (elle) fut envahi(e)
+nous fûmes envahi(e)s
+vous fûtes envahi(e)s
+ils (elles) furent envahi(e)s
+
+** Futur simple
+
+je serai envahi(e)
+tu seras envahi(e)
+il (elle) sera envahi(e)
+nous serons envahi(e)s
+vous serez envahi(e)s
+ils (elles) seront envahi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais envahi(e)
+tu serais envahi(e)
+il (elle) serait envahi(e)
+nous serions envahi(e)s
+vous seriez envahi(e)s
+ils (elles) seraient envahi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois envahi(e)
+que tu sois envahi(e)
+qu’il (elle) soit envahi(e)
+que nous soyons envahi(e)s
+que vous soyez envahi(e)s
+qu’ils (elles) soient envahi(e)s
+
+** Imparfait
+
+que je fusse envahi(e)
+que tu fusses envahi(e)
+qu’il (elle) fût envahi(e)
+que nous fussions envahi(e)s
+que vous fussiez envahi(e)s
+qu’ils (elles) fussent envahi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons envahi(e)s
+soyez envahi(e)s
+
+* INFINITIF
+
+** Présent
+
+être envahi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant envahi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été envahi(e)
+tu as été envahi(e)
+il (elle) a été envahi(e)
+nous avons été envahi(e)s
+vous avez été envahi(e)s
+ils (elles) ont été envahi(e)s
+
+** Plus-que-parfait
+
+j'avais été envahi(e)
+il (elle) avait été envahi(e)
+nous avions été envahi(e)s
+ils (elles) avaient été envahi(e)s
+
+** Passé antérieur
+
+j'eus été envahi(e)
+tu eus été envahi(e)
+il (elle) eut été envahi(e)
+nous eûmes été envahi(e)s
+vous eûtes été envahi(e)s
+ils (elles) eurent été envahi(e)s
+
+** Futur antérieur
+
+j'aurai été envahi(e)
+tu auras été envahi(e)
+il (elle) aura été envahi(e)
+nous aurons été envahi(e)s
+vous aurez été envahi(e)s
+ils (elles) auront été envahi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été envahi(e)
+j'aurais été envahi(e)
+il (elle) aurait été envahi(e)
+nous aurions été envahi(e)s
+vous auriez été envahi(e)s
+ils (elles) auraient été envahi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été envahi(e)
+que tu aies été envahi(e)
+qu’il (elle) ait été envahi(e)
+que nous ayons été envahi(e)s
+que vous ayez été envahi(e)s
+qu’ils (elles) aient été envahi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été envahi(e)
+que tu eusses été envahi(e)
+qu’il (elle) eût été envahi(e)
+que nous eussions été envahi(e)s
+que vous eussiez été envahi(e)s
+qu’ils (elles) eussent été envahi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été envahi(e)
+ayons été envahi(e)s
+ayez été envahi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été envahi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été envahi(e)(s)

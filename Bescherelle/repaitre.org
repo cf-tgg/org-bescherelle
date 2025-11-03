@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe repaitre
+
+* INDICATIF
+
+** Présent
+
+je repais
+tu repais
+il (elle) repaît
+nous repaissons
+vous repaissez
+ils (elles) repaissent
+
+** Imparfait
+
+je repaissais
+tu repaissais
+il (elle) repaissait
+nous repaissions
+vous repaissiez
+ils (elles) repaissaient
+
+** Passé simple
+
+je repus
+tu repus
+il (elle) reput
+nous repûmes
+vous repûtes
+ils (elles) repurent
+
+** Futur simple
+
+je repaîtrai
+tu repaîtras
+il (elle) repaîtra
+nous repaîtrons
+vous repaîtrez
+ils (elles) repaîtront
+
+* CONDITIONNEL
+
+** Présent
+
+je repaîtrais
+tu repaîtrais
+il (elle) repaîtrait
+nous repaîtrions
+vous repaîtriez
+ils (elles) repaîtraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je repaisse
+que tu repaisses
+qu’il (elle) repaisse
+que nous repaissions
+que vous repaissiez
+qu’ils (elles) repaissent
+
+** Imparfait
+
+que je repusse
+que tu repusses
+qu’il (elle) repût
+que nous repussions
+que vous repussiez
+qu’ils (elles) repussent
+
+* IMPÉRATIF
+
+** Présent
+
+repais
+repaissons
+repaissez
+
+* INFINITIF
+
+** Présent
+
+repaître
+
+* PARTICIPE
+
+** Présent
+
+repaissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai repu
+tu as repu
+il (elle) a repu
+nous avons repu
+vous avez repu
+ils (elles) ont repu
+
+** Plus-que-parfait
+
+j'avais repu
+tu avais repu
+il (elle) avait repu
+nous avions repu
+vous aviez repu
+ils (elles) avaient repu
+
+** Passé antérieur
+
+j'eus repu
+tu eus repu
+il (elle) eut repu
+nous eûmes repu
+vous eûtes repu
+ils (elles) eurent repu
+
+** Futur antérieur
+
+j'aurai repu
+tu auras repu
+il (elle) aura repu
+nous aurons repu
+vous aurez repu
+ils (elles) auront repu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais repu
+tu aurais repu
+il (elle) aurait repu
+nous aurions repu
+vous auriez repu
+ils (elles) auraient repu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie repu
+que tu aies repu
+qu’il (elle) ait repu
+que nous ayons repu
+que vous ayez repu
+qu’ils (elles) aient repu
+
+** Plus-que-parfait
+
+que j'eusse repu
+que tu eusses repu
+qu’il (elle) eût repu
+que nous eussions repu
+que vous eussiez repu
+qu’ils (elles) eussent repu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons repu
+ayez repu
+
+* INFINITIF
+
+** Passé
+
+avoir repu
+
+* PARTICIPE
+
+** Passé
+
+ayant repu
+repu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis repu(e)
+tu es repu(e)
+il (elle) est repu(e)
+nous sommes repu(e)s
+vous êtes repu(e)s
+ils (elles) sont repu(e)s
+
+** Imparfait
+
+j'étais repu(e)
+tu étais repu(e)
+il (elle) était repu(e)
+nous étions repu(e)s
+vous étiez repu(e)s
+ils (elles) étaient repu(e)s
+
+** Passé simple
+
+je fus repu(e)
+tu fus repu(e)
+il (elle) fut repu(e)
+nous fûmes repu(e)s
+vous fûtes repu(e)s
+ils (elles) furent repu(e)s
+
+** Futur simple
+
+je serai repu(e)
+tu seras repu(e)
+il (elle) sera repu(e)
+nous serons repu(e)s
+vous serez repu(e)s
+ils (elles) seront repu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais repu(e)
+tu serais repu(e)
+il (elle) serait repu(e)
+nous serions repu(e)s
+vous seriez repu(e)s
+ils (elles) seraient repu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois repu(e)
+que tu sois repu(e)
+qu’il (elle) soit repu(e)
+que nous soyons repu(e)s
+que vous soyez repu(e)s
+qu’ils (elles) soient repu(e)s
+
+** Imparfait
+
+que je fusse repu(e)
+que tu fusses repu(e)
+qu’il (elle) fût repu(e)
+que nous fussions repu(e)s
+que vous fussiez repu(e)s
+qu’ils (elles) fussent repu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons repu(e)s
+soyez repu(e)s
+
+* INFINITIF
+
+** Présent
+
+être repu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant repu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été repu(e)
+tu as été repu(e)
+il (elle) a été repu(e)
+nous avons été repu(e)s
+vous avez été repu(e)s
+ils (elles) ont été repu(e)s
+
+** Plus-que-parfait
+
+j'avais été repu(e)
+il (elle) avait été repu(e)
+nous avions été repu(e)s
+ils (elles) avaient été repu(e)s
+
+** Passé antérieur
+
+j'eus été repu(e)
+tu eus été repu(e)
+il (elle) eut été repu(e)
+nous eûmes été repu(e)s
+vous eûtes été repu(e)s
+ils (elles) eurent été repu(e)s
+
+** Futur antérieur
+
+j'aurai été repu(e)
+tu auras été repu(e)
+il (elle) aura été repu(e)
+nous aurons été repu(e)s
+vous aurez été repu(e)s
+ils (elles) auront été repu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été repu(e)
+j'aurais été repu(e)
+il (elle) aurait été repu(e)
+nous aurions été repu(e)s
+vous auriez été repu(e)s
+ils (elles) auraient été repu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été repu(e)
+que tu aies été repu(e)
+qu’il (elle) ait été repu(e)
+que nous ayons été repu(e)s
+que vous ayez été repu(e)s
+qu’ils (elles) aient été repu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été repu(e)
+que tu eusses été repu(e)
+qu’il (elle) eût été repu(e)
+que nous eussions été repu(e)s
+que vous eussiez été repu(e)s
+qu’ils (elles) eussent été repu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été repu(e)
+ayons été repu(e)s
+ayez été repu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été repu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été repu(e)(s)

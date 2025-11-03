@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe penser
+
+* INDICATIF
+
+** Présent
+
+je pense
+tu penses
+il (elle) pense
+nous pensons
+vous pensez
+ils (elles) pensent
+
+** Imparfait
+
+je pensais
+tu pensais
+il (elle) pensait
+nous pensions
+vous pensiez
+ils (elles) pensaient
+
+** Passé simple
+
+je pensai
+tu pensas
+il (elle) pensa
+nous pensâmes
+vous pensâtes
+ils (elles) pensèrent
+
+** Futur simple
+
+je penserai
+tu penseras
+il (elle) pensera
+nous penserons
+vous penserez
+ils (elles) penseront
+
+* CONDITIONNEL
+
+** Présent
+
+je penserais
+tu penserais
+il (elle) penserait
+nous penserions
+vous penseriez
+ils (elles) penseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pense
+que tu penses
+qu’il (elle) pense
+que nous pensions
+que vous pensiez
+qu’ils (elles) pensent
+
+** Imparfait
+
+que je pensasse
+que tu pensasses
+qu’il (elle) pensât
+que nous pensassions
+que vous pensassiez
+qu’ils (elles) pensassent
+
+* IMPÉRATIF
+
+** Présent
+
+pense
+pensons
+pensez
+
+* INFINITIF
+
+** Présent
+
+penser
+
+* PARTICIPE
+
+** Présent
+
+pensant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pensé
+tu as pensé
+il (elle) a pensé
+nous avons pensé
+vous avez pensé
+ils (elles) ont pensé
+
+** Plus-que-parfait
+
+j'avais pensé
+tu avais pensé
+il (elle) avait pensé
+nous avions pensé
+vous aviez pensé
+ils (elles) avaient pensé
+
+** Passé antérieur
+
+j'eus pensé
+tu eus pensé
+il (elle) eut pensé
+nous eûmes pensé
+vous eûtes pensé
+ils (elles) eurent pensé
+
+** Futur antérieur
+
+j'aurai pensé
+tu auras pensé
+il (elle) aura pensé
+nous aurons pensé
+vous aurez pensé
+ils (elles) auront pensé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pensé
+tu aurais pensé
+il (elle) aurait pensé
+nous aurions pensé
+vous auriez pensé
+ils (elles) auraient pensé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pensé
+que tu aies pensé
+qu’il (elle) ait pensé
+que nous ayons pensé
+que vous ayez pensé
+qu’ils (elles) aient pensé
+
+** Plus-que-parfait
+
+que j'eusse pensé
+que tu eusses pensé
+qu’il (elle) eût pensé
+que nous eussions pensé
+que vous eussiez pensé
+qu’ils (elles) eussent pensé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pensé
+ayez pensé
+
+* INFINITIF
+
+** Passé
+
+avoir pensé
+
+* PARTICIPE
+
+** Passé
+
+ayant pensé
+pensé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pensé(e)
+tu es pensé(e)
+il (elle) est pensé(e)
+nous sommes pensé(e)s
+vous êtes pensé(e)s
+ils (elles) sont pensé(e)s
+
+** Imparfait
+
+j'étais pensé(e)
+tu étais pensé(e)
+il (elle) était pensé(e)
+nous étions pensé(e)s
+vous étiez pensé(e)s
+ils (elles) étaient pensé(e)s
+
+** Passé simple
+
+je fus pensé(e)
+tu fus pensé(e)
+il (elle) fut pensé(e)
+nous fûmes pensé(e)s
+vous fûtes pensé(e)s
+ils (elles) furent pensé(e)s
+
+** Futur simple
+
+je serai pensé(e)
+tu seras pensé(e)
+il (elle) sera pensé(e)
+nous serons pensé(e)s
+vous serez pensé(e)s
+ils (elles) seront pensé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pensé(e)
+tu serais pensé(e)
+il (elle) serait pensé(e)
+nous serions pensé(e)s
+vous seriez pensé(e)s
+ils (elles) seraient pensé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pensé(e)
+que tu sois pensé(e)
+qu’il (elle) soit pensé(e)
+que nous soyons pensé(e)s
+que vous soyez pensé(e)s
+qu’ils (elles) soient pensé(e)s
+
+** Imparfait
+
+que je fusse pensé(e)
+que tu fusses pensé(e)
+qu’il (elle) fût pensé(e)
+que nous fussions pensé(e)s
+que vous fussiez pensé(e)s
+qu’ils (elles) fussent pensé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pensé(e)s
+soyez pensé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pensé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pensé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pensé(e)
+tu as été pensé(e)
+il (elle) a été pensé(e)
+nous avons été pensé(e)s
+vous avez été pensé(e)s
+ils (elles) ont été pensé(e)s
+
+** Plus-que-parfait
+
+j'avais été pensé(e)
+il (elle) avait été pensé(e)
+nous avions été pensé(e)s
+ils (elles) avaient été pensé(e)s
+
+** Passé antérieur
+
+j'eus été pensé(e)
+tu eus été pensé(e)
+il (elle) eut été pensé(e)
+nous eûmes été pensé(e)s
+vous eûtes été pensé(e)s
+ils (elles) eurent été pensé(e)s
+
+** Futur antérieur
+
+j'aurai été pensé(e)
+tu auras été pensé(e)
+il (elle) aura été pensé(e)
+nous aurons été pensé(e)s
+vous aurez été pensé(e)s
+ils (elles) auront été pensé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pensé(e)
+j'aurais été pensé(e)
+il (elle) aurait été pensé(e)
+nous aurions été pensé(e)s
+vous auriez été pensé(e)s
+ils (elles) auraient été pensé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pensé(e)
+que tu aies été pensé(e)
+qu’il (elle) ait été pensé(e)
+que nous ayons été pensé(e)s
+que vous ayez été pensé(e)s
+qu’ils (elles) aient été pensé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pensé(e)
+que tu eusses été pensé(e)
+qu’il (elle) eût été pensé(e)
+que nous eussions été pensé(e)s
+que vous eussiez été pensé(e)s
+qu’ils (elles) eussent été pensé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pensé(e)
+ayons été pensé(e)s
+ayez été pensé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pensé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pensé(e)(s)

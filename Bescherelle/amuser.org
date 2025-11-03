@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe amuser
+
+* INDICATIF
+
+** Présent
+
+j'amuse
+tu amuses
+il (elle) amuse
+nous amusons
+vous amusez
+ils (elles) amusent
+
+** Imparfait
+
+j'amusais
+tu amusais
+il (elle) amusait
+nous amusions
+vous amusiez
+ils (elles) amusaient
+
+** Passé simple
+
+j'amusai
+tu amusas
+il (elle) amusa
+nous amusâmes
+vous amusâtes
+ils (elles) amusèrent
+
+** Futur simple
+
+j'amuserai
+tu amuseras
+il (elle) amusera
+nous amuserons
+vous amuserez
+ils (elles) amuseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amuserais
+tu amuserais
+il (elle) amuserait
+nous amuserions
+vous amuseriez
+ils (elles) amuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amuse
+que tu amuses
+qu’il (elle) amuse
+que nous amusions
+que vous amusiez
+qu’ils (elles) amusent
+
+** Imparfait
+
+que j'amusasse
+que tu amusasses
+qu’il (elle) amusât
+que nous amusassions
+que vous amusassiez
+qu’ils (elles) amusassent
+
+* IMPÉRATIF
+
+** Présent
+
+amuse
+amusons
+amusez
+
+* INFINITIF
+
+** Présent
+
+amuser
+
+* PARTICIPE
+
+** Présent
+
+amusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amusé
+tu as amusé
+il (elle) a amusé
+nous avons amusé
+vous avez amusé
+ils (elles) ont amusé
+
+** Plus-que-parfait
+
+j'avais amusé
+tu avais amusé
+il (elle) avait amusé
+nous avions amusé
+vous aviez amusé
+ils (elles) avaient amusé
+
+** Passé antérieur
+
+j'eus amusé
+tu eus amusé
+il (elle) eut amusé
+nous eûmes amusé
+vous eûtes amusé
+ils (elles) eurent amusé
+
+** Futur antérieur
+
+j'aurai amusé
+tu auras amusé
+il (elle) aura amusé
+nous aurons amusé
+vous aurez amusé
+ils (elles) auront amusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amusé
+tu aurais amusé
+il (elle) aurait amusé
+nous aurions amusé
+vous auriez amusé
+ils (elles) auraient amusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amusé
+que tu aies amusé
+qu’il (elle) ait amusé
+que nous ayons amusé
+que vous ayez amusé
+qu’ils (elles) aient amusé
+
+** Plus-que-parfait
+
+que j'eusse amusé
+que tu eusses amusé
+qu’il (elle) eût amusé
+que nous eussions amusé
+que vous eussiez amusé
+qu’ils (elles) eussent amusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amusé
+ayez amusé
+
+* INFINITIF
+
+** Passé
+
+avoir amusé
+
+* PARTICIPE
+
+** Passé
+
+ayant amusé
+amusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis amusé(e)
+tu es amusé(e)
+il (elle) est amusé(e)
+nous sommes amusé(e)s
+vous êtes amusé(e)s
+ils (elles) sont amusé(e)s
+
+** Imparfait
+
+j'étais amusé(e)
+tu étais amusé(e)
+il (elle) était amusé(e)
+nous étions amusé(e)s
+vous étiez amusé(e)s
+ils (elles) étaient amusé(e)s
+
+** Passé simple
+
+je fus amusé(e)
+tu fus amusé(e)
+il (elle) fut amusé(e)
+nous fûmes amusé(e)s
+vous fûtes amusé(e)s
+ils (elles) furent amusé(e)s
+
+** Futur simple
+
+je serai amusé(e)
+tu seras amusé(e)
+il (elle) sera amusé(e)
+nous serons amusé(e)s
+vous serez amusé(e)s
+ils (elles) seront amusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais amusé(e)
+tu serais amusé(e)
+il (elle) serait amusé(e)
+nous serions amusé(e)s
+vous seriez amusé(e)s
+ils (elles) seraient amusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois amusé(e)
+que tu sois amusé(e)
+qu’il (elle) soit amusé(e)
+que nous soyons amusé(e)s
+que vous soyez amusé(e)s
+qu’ils (elles) soient amusé(e)s
+
+** Imparfait
+
+que je fusse amusé(e)
+que tu fusses amusé(e)
+qu’il (elle) fût amusé(e)
+que nous fussions amusé(e)s
+que vous fussiez amusé(e)s
+qu’ils (elles) fussent amusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons amusé(e)s
+soyez amusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être amusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant amusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été amusé(e)
+tu as été amusé(e)
+il (elle) a été amusé(e)
+nous avons été amusé(e)s
+vous avez été amusé(e)s
+ils (elles) ont été amusé(e)s
+
+** Plus-que-parfait
+
+j'avais été amusé(e)
+il (elle) avait été amusé(e)
+nous avions été amusé(e)s
+ils (elles) avaient été amusé(e)s
+
+** Passé antérieur
+
+j'eus été amusé(e)
+tu eus été amusé(e)
+il (elle) eut été amusé(e)
+nous eûmes été amusé(e)s
+vous eûtes été amusé(e)s
+ils (elles) eurent été amusé(e)s
+
+** Futur antérieur
+
+j'aurai été amusé(e)
+tu auras été amusé(e)
+il (elle) aura été amusé(e)
+nous aurons été amusé(e)s
+vous aurez été amusé(e)s
+ils (elles) auront été amusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été amusé(e)
+j'aurais été amusé(e)
+il (elle) aurait été amusé(e)
+nous aurions été amusé(e)s
+vous auriez été amusé(e)s
+ils (elles) auraient été amusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été amusé(e)
+que tu aies été amusé(e)
+qu’il (elle) ait été amusé(e)
+que nous ayons été amusé(e)s
+que vous ayez été amusé(e)s
+qu’ils (elles) aient été amusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été amusé(e)
+que tu eusses été amusé(e)
+qu’il (elle) eût été amusé(e)
+que nous eussions été amusé(e)s
+que vous eussiez été amusé(e)s
+qu’ils (elles) eussent été amusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été amusé(e)
+ayons été amusé(e)s
+ayez été amusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été amusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été amusé(e)(s)

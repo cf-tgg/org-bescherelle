@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe formater
+
+* INDICATIF
+
+** Présent
+
+je formate
+tu formates
+il (elle) formate
+nous formatons
+vous formatez
+ils (elles) formatent
+
+** Imparfait
+
+je formatais
+tu formatais
+il (elle) formatait
+nous formations
+vous formatiez
+ils (elles) formataient
+
+** Passé simple
+
+je formatai
+tu formatas
+il (elle) formata
+nous formatâmes
+vous formatâtes
+ils (elles) formatèrent
+
+** Futur simple
+
+je formaterai
+tu formateras
+il (elle) formatera
+nous formaterons
+vous formaterez
+ils (elles) formateront
+
+* CONDITIONNEL
+
+** Présent
+
+je formaterais
+tu formaterais
+il (elle) formaterait
+nous formaterions
+vous formateriez
+ils (elles) formateraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je formate
+que tu formates
+qu’il (elle) formate
+que nous formations
+que vous formatiez
+qu’ils (elles) formatent
+
+** Imparfait
+
+que je formatasse
+que tu formatasses
+qu’il (elle) formatât
+que nous formatassions
+que vous formatassiez
+qu’ils (elles) formatassent
+
+* IMPÉRATIF
+
+** Présent
+
+formate
+formatons
+formatez
+
+* INFINITIF
+
+** Présent
+
+formater
+
+* PARTICIPE
+
+** Présent
+
+formatant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai formaté
+tu as formaté
+il (elle) a formaté
+nous avons formaté
+vous avez formaté
+ils (elles) ont formaté
+
+** Plus-que-parfait
+
+j'avais formaté
+tu avais formaté
+il (elle) avait formaté
+nous avions formaté
+vous aviez formaté
+ils (elles) avaient formaté
+
+** Passé antérieur
+
+j'eus formaté
+tu eus formaté
+il (elle) eut formaté
+nous eûmes formaté
+vous eûtes formaté
+ils (elles) eurent formaté
+
+** Futur antérieur
+
+j'aurai formaté
+tu auras formaté
+il (elle) aura formaté
+nous aurons formaté
+vous aurez formaté
+ils (elles) auront formaté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais formaté
+tu aurais formaté
+il (elle) aurait formaté
+nous aurions formaté
+vous auriez formaté
+ils (elles) auraient formaté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie formaté
+que tu aies formaté
+qu’il (elle) ait formaté
+que nous ayons formaté
+que vous ayez formaté
+qu’ils (elles) aient formaté
+
+** Plus-que-parfait
+
+que j'eusse formaté
+que tu eusses formaté
+qu’il (elle) eût formaté
+que nous eussions formaté
+que vous eussiez formaté
+qu’ils (elles) eussent formaté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons formaté
+ayez formaté
+
+* INFINITIF
+
+** Passé
+
+avoir formaté
+
+* PARTICIPE
+
+** Passé
+
+ayant formaté
+formaté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis formaté(e)
+tu es formaté(e)
+il (elle) est formaté(e)
+nous sommes formaté(e)s
+vous êtes formaté(e)s
+ils (elles) sont formaté(e)s
+
+** Imparfait
+
+j'étais formaté(e)
+tu étais formaté(e)
+il (elle) était formaté(e)
+nous étions formaté(e)s
+vous étiez formaté(e)s
+ils (elles) étaient formaté(e)s
+
+** Passé simple
+
+je fus formaté(e)
+tu fus formaté(e)
+il (elle) fut formaté(e)
+nous fûmes formaté(e)s
+vous fûtes formaté(e)s
+ils (elles) furent formaté(e)s
+
+** Futur simple
+
+je serai formaté(e)
+tu seras formaté(e)
+il (elle) sera formaté(e)
+nous serons formaté(e)s
+vous serez formaté(e)s
+ils (elles) seront formaté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais formaté(e)
+tu serais formaté(e)
+il (elle) serait formaté(e)
+nous serions formaté(e)s
+vous seriez formaté(e)s
+ils (elles) seraient formaté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois formaté(e)
+que tu sois formaté(e)
+qu’il (elle) soit formaté(e)
+que nous soyons formaté(e)s
+que vous soyez formaté(e)s
+qu’ils (elles) soient formaté(e)s
+
+** Imparfait
+
+que je fusse formaté(e)
+que tu fusses formaté(e)
+qu’il (elle) fût formaté(e)
+que nous fussions formaté(e)s
+que vous fussiez formaté(e)s
+qu’ils (elles) fussent formaté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons formaté(e)s
+soyez formaté(e)s
+
+* INFINITIF
+
+** Présent
+
+être formaté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant formaté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été formaté(e)
+tu as été formaté(e)
+il (elle) a été formaté(e)
+nous avons été formaté(e)s
+vous avez été formaté(e)s
+ils (elles) ont été formaté(e)s
+
+** Plus-que-parfait
+
+j'avais été formaté(e)
+il (elle) avait été formaté(e)
+nous avions été formaté(e)s
+ils (elles) avaient été formaté(e)s
+
+** Passé antérieur
+
+j'eus été formaté(e)
+tu eus été formaté(e)
+il (elle) eut été formaté(e)
+nous eûmes été formaté(e)s
+vous eûtes été formaté(e)s
+ils (elles) eurent été formaté(e)s
+
+** Futur antérieur
+
+j'aurai été formaté(e)
+tu auras été formaté(e)
+il (elle) aura été formaté(e)
+nous aurons été formaté(e)s
+vous aurez été formaté(e)s
+ils (elles) auront été formaté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été formaté(e)
+j'aurais été formaté(e)
+il (elle) aurait été formaté(e)
+nous aurions été formaté(e)s
+vous auriez été formaté(e)s
+ils (elles) auraient été formaté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été formaté(e)
+que tu aies été formaté(e)
+qu’il (elle) ait été formaté(e)
+que nous ayons été formaté(e)s
+que vous ayez été formaté(e)s
+qu’ils (elles) aient été formaté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été formaté(e)
+que tu eusses été formaté(e)
+qu’il (elle) eût été formaté(e)
+que nous eussions été formaté(e)s
+que vous eussiez été formaté(e)s
+qu’ils (elles) eussent été formaté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été formaté(e)
+ayons été formaté(e)s
+ayez été formaté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été formaté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été formaté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe respirer
+
+* INDICATIF
+
+** Présent
+
+je respire
+tu respires
+il (elle) respire
+nous respirons
+vous respirez
+ils (elles) respirent
+
+** Imparfait
+
+je respirais
+tu respirais
+il (elle) respirait
+nous respirions
+vous respiriez
+ils (elles) respiraient
+
+** Passé simple
+
+je respirai
+tu respiras
+il (elle) respira
+nous respirâmes
+vous respirâtes
+ils (elles) respirèrent
+
+** Futur simple
+
+je respirerai
+tu respireras
+il (elle) respirera
+nous respirerons
+vous respirerez
+ils (elles) respireront
+
+* CONDITIONNEL
+
+** Présent
+
+je respirerais
+tu respirerais
+il (elle) respirerait
+nous respirerions
+vous respireriez
+ils (elles) respireraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je respire
+que tu respires
+qu’il (elle) respire
+que nous respirions
+que vous respiriez
+qu’ils (elles) respirent
+
+** Imparfait
+
+que je respirasse
+que tu respirasses
+qu’il (elle) respirât
+que nous respirassions
+que vous respirassiez
+qu’ils (elles) respirassent
+
+* IMPÉRATIF
+
+** Présent
+
+respire
+respirons
+respirez
+
+* INFINITIF
+
+** Présent
+
+respirer
+
+* PARTICIPE
+
+** Présent
+
+respirant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai respiré
+tu as respiré
+il (elle) a respiré
+nous avons respiré
+vous avez respiré
+ils (elles) ont respiré
+
+** Plus-que-parfait
+
+j'avais respiré
+tu avais respiré
+il (elle) avait respiré
+nous avions respiré
+vous aviez respiré
+ils (elles) avaient respiré
+
+** Passé antérieur
+
+j'eus respiré
+tu eus respiré
+il (elle) eut respiré
+nous eûmes respiré
+vous eûtes respiré
+ils (elles) eurent respiré
+
+** Futur antérieur
+
+j'aurai respiré
+tu auras respiré
+il (elle) aura respiré
+nous aurons respiré
+vous aurez respiré
+ils (elles) auront respiré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais respiré
+tu aurais respiré
+il (elle) aurait respiré
+nous aurions respiré
+vous auriez respiré
+ils (elles) auraient respiré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie respiré
+que tu aies respiré
+qu’il (elle) ait respiré
+que nous ayons respiré
+que vous ayez respiré
+qu’ils (elles) aient respiré
+
+** Plus-que-parfait
+
+que j'eusse respiré
+que tu eusses respiré
+qu’il (elle) eût respiré
+que nous eussions respiré
+que vous eussiez respiré
+qu’ils (elles) eussent respiré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons respiré
+ayez respiré
+
+* INFINITIF
+
+** Passé
+
+avoir respiré
+
+* PARTICIPE
+
+** Passé
+
+ayant respiré
+respiré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis respiré(e)
+tu es respiré(e)
+il (elle) est respiré(e)
+nous sommes respiré(e)s
+vous êtes respiré(e)s
+ils (elles) sont respiré(e)s
+
+** Imparfait
+
+j'étais respiré(e)
+tu étais respiré(e)
+il (elle) était respiré(e)
+nous étions respiré(e)s
+vous étiez respiré(e)s
+ils (elles) étaient respiré(e)s
+
+** Passé simple
+
+je fus respiré(e)
+tu fus respiré(e)
+il (elle) fut respiré(e)
+nous fûmes respiré(e)s
+vous fûtes respiré(e)s
+ils (elles) furent respiré(e)s
+
+** Futur simple
+
+je serai respiré(e)
+tu seras respiré(e)
+il (elle) sera respiré(e)
+nous serons respiré(e)s
+vous serez respiré(e)s
+ils (elles) seront respiré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais respiré(e)
+tu serais respiré(e)
+il (elle) serait respiré(e)
+nous serions respiré(e)s
+vous seriez respiré(e)s
+ils (elles) seraient respiré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois respiré(e)
+que tu sois respiré(e)
+qu’il (elle) soit respiré(e)
+que nous soyons respiré(e)s
+que vous soyez respiré(e)s
+qu’ils (elles) soient respiré(e)s
+
+** Imparfait
+
+que je fusse respiré(e)
+que tu fusses respiré(e)
+qu’il (elle) fût respiré(e)
+que nous fussions respiré(e)s
+que vous fussiez respiré(e)s
+qu’ils (elles) fussent respiré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons respiré(e)s
+soyez respiré(e)s
+
+* INFINITIF
+
+** Présent
+
+être respiré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant respiré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été respiré(e)
+tu as été respiré(e)
+il (elle) a été respiré(e)
+nous avons été respiré(e)s
+vous avez été respiré(e)s
+ils (elles) ont été respiré(e)s
+
+** Plus-que-parfait
+
+j'avais été respiré(e)
+il (elle) avait été respiré(e)
+nous avions été respiré(e)s
+ils (elles) avaient été respiré(e)s
+
+** Passé antérieur
+
+j'eus été respiré(e)
+tu eus été respiré(e)
+il (elle) eut été respiré(e)
+nous eûmes été respiré(e)s
+vous eûtes été respiré(e)s
+ils (elles) eurent été respiré(e)s
+
+** Futur antérieur
+
+j'aurai été respiré(e)
+tu auras été respiré(e)
+il (elle) aura été respiré(e)
+nous aurons été respiré(e)s
+vous aurez été respiré(e)s
+ils (elles) auront été respiré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été respiré(e)
+j'aurais été respiré(e)
+il (elle) aurait été respiré(e)
+nous aurions été respiré(e)s
+vous auriez été respiré(e)s
+ils (elles) auraient été respiré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été respiré(e)
+que tu aies été respiré(e)
+qu’il (elle) ait été respiré(e)
+que nous ayons été respiré(e)s
+que vous ayez été respiré(e)s
+qu’ils (elles) aient été respiré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été respiré(e)
+que tu eusses été respiré(e)
+qu’il (elle) eût été respiré(e)
+que nous eussions été respiré(e)s
+que vous eussiez été respiré(e)s
+qu’ils (elles) eussent été respiré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été respiré(e)
+ayons été respiré(e)s
+ayez été respiré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été respiré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été respiré(e)(s)

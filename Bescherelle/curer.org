@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe curer
+
+* INDICATIF
+
+** Présent
+
+je cure
+tu cures
+il (elle) cure
+nous curons
+vous curez
+ils (elles) curent
+
+** Imparfait
+
+je curais
+tu curais
+il (elle) curait
+nous curions
+vous curiez
+ils (elles) curaient
+
+** Passé simple
+
+je curai
+tu curas
+il (elle) cura
+nous curâmes
+vous curâtes
+ils (elles) curèrent
+
+** Futur simple
+
+je curerai
+tu cureras
+il (elle) curera
+nous curerons
+vous curerez
+ils (elles) cureront
+
+* CONDITIONNEL
+
+** Présent
+
+je curerais
+tu curerais
+il (elle) curerait
+nous curerions
+vous cureriez
+ils (elles) cureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cure
+que tu cures
+qu’il (elle) cure
+que nous curions
+que vous curiez
+qu’ils (elles) curent
+
+** Imparfait
+
+que je curasse
+que tu curasses
+qu’il (elle) curât
+que nous curassions
+que vous curassiez
+qu’ils (elles) curassent
+
+* IMPÉRATIF
+
+** Présent
+
+cure
+curons
+curez
+
+* INFINITIF
+
+** Présent
+
+curer
+
+* PARTICIPE
+
+** Présent
+
+curant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai curé
+tu as curé
+il (elle) a curé
+nous avons curé
+vous avez curé
+ils (elles) ont curé
+
+** Plus-que-parfait
+
+j'avais curé
+tu avais curé
+il (elle) avait curé
+nous avions curé
+vous aviez curé
+ils (elles) avaient curé
+
+** Passé antérieur
+
+j'eus curé
+tu eus curé
+il (elle) eut curé
+nous eûmes curé
+vous eûtes curé
+ils (elles) eurent curé
+
+** Futur antérieur
+
+j'aurai curé
+tu auras curé
+il (elle) aura curé
+nous aurons curé
+vous aurez curé
+ils (elles) auront curé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais curé
+tu aurais curé
+il (elle) aurait curé
+nous aurions curé
+vous auriez curé
+ils (elles) auraient curé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie curé
+que tu aies curé
+qu’il (elle) ait curé
+que nous ayons curé
+que vous ayez curé
+qu’ils (elles) aient curé
+
+** Plus-que-parfait
+
+que j'eusse curé
+que tu eusses curé
+qu’il (elle) eût curé
+que nous eussions curé
+que vous eussiez curé
+qu’ils (elles) eussent curé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons curé
+ayez curé
+
+* INFINITIF
+
+** Passé
+
+avoir curé
+
+* PARTICIPE
+
+** Passé
+
+ayant curé
+curé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis curé(e)
+tu es curé(e)
+il (elle) est curé(e)
+nous sommes curé(e)s
+vous êtes curé(e)s
+ils (elles) sont curé(e)s
+
+** Imparfait
+
+j'étais curé(e)
+tu étais curé(e)
+il (elle) était curé(e)
+nous étions curé(e)s
+vous étiez curé(e)s
+ils (elles) étaient curé(e)s
+
+** Passé simple
+
+je fus curé(e)
+tu fus curé(e)
+il (elle) fut curé(e)
+nous fûmes curé(e)s
+vous fûtes curé(e)s
+ils (elles) furent curé(e)s
+
+** Futur simple
+
+je serai curé(e)
+tu seras curé(e)
+il (elle) sera curé(e)
+nous serons curé(e)s
+vous serez curé(e)s
+ils (elles) seront curé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais curé(e)
+tu serais curé(e)
+il (elle) serait curé(e)
+nous serions curé(e)s
+vous seriez curé(e)s
+ils (elles) seraient curé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois curé(e)
+que tu sois curé(e)
+qu’il (elle) soit curé(e)
+que nous soyons curé(e)s
+que vous soyez curé(e)s
+qu’ils (elles) soient curé(e)s
+
+** Imparfait
+
+que je fusse curé(e)
+que tu fusses curé(e)
+qu’il (elle) fût curé(e)
+que nous fussions curé(e)s
+que vous fussiez curé(e)s
+qu’ils (elles) fussent curé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons curé(e)s
+soyez curé(e)s
+
+* INFINITIF
+
+** Présent
+
+être curé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant curé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été curé(e)
+tu as été curé(e)
+il (elle) a été curé(e)
+nous avons été curé(e)s
+vous avez été curé(e)s
+ils (elles) ont été curé(e)s
+
+** Plus-que-parfait
+
+j'avais été curé(e)
+il (elle) avait été curé(e)
+nous avions été curé(e)s
+ils (elles) avaient été curé(e)s
+
+** Passé antérieur
+
+j'eus été curé(e)
+tu eus été curé(e)
+il (elle) eut été curé(e)
+nous eûmes été curé(e)s
+vous eûtes été curé(e)s
+ils (elles) eurent été curé(e)s
+
+** Futur antérieur
+
+j'aurai été curé(e)
+tu auras été curé(e)
+il (elle) aura été curé(e)
+nous aurons été curé(e)s
+vous aurez été curé(e)s
+ils (elles) auront été curé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été curé(e)
+j'aurais été curé(e)
+il (elle) aurait été curé(e)
+nous aurions été curé(e)s
+vous auriez été curé(e)s
+ils (elles) auraient été curé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été curé(e)
+que tu aies été curé(e)
+qu’il (elle) ait été curé(e)
+que nous ayons été curé(e)s
+que vous ayez été curé(e)s
+qu’ils (elles) aient été curé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été curé(e)
+que tu eusses été curé(e)
+qu’il (elle) eût été curé(e)
+que nous eussions été curé(e)s
+que vous eussiez été curé(e)s
+qu’ils (elles) eussent été curé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été curé(e)
+ayons été curé(e)s
+ayez été curé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été curé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été curé(e)(s)

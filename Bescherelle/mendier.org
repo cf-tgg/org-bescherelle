@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mendier
+
+* INDICATIF
+
+** Présent
+
+je mendie
+tu mendies
+il (elle) mendie
+nous mendions
+vous mendiez
+ils (elles) mendient
+
+** Imparfait
+
+je mendiais
+tu mendiais
+il (elle) mendiait
+nous mendiions
+vous mendiiez
+ils (elles) mendiaient
+
+** Passé simple
+
+je mendiai
+tu mendias
+il (elle) mendia
+nous mendiâmes
+vous mendiâtes
+ils (elles) mendièrent
+
+** Futur simple
+
+je mendierai
+tu mendieras
+il (elle) mendiera
+nous mendierons
+vous mendierez
+ils (elles) mendieront
+
+* CONDITIONNEL
+
+** Présent
+
+je mendierais
+tu mendierais
+il (elle) mendierait
+nous mendierions
+vous mendieriez
+ils (elles) mendieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mendie
+que tu mendies
+qu’il (elle) mendie
+que nous mendiions
+que vous mendiiez
+qu’ils (elles) mendient
+
+** Imparfait
+
+que je mendiasse
+que tu mendiasses
+qu’il (elle) mendiât
+que nous mendiassions
+que vous mendiassiez
+qu’ils (elles) mendiassent
+
+* IMPÉRATIF
+
+** Présent
+
+mendie
+mendions
+mendiez
+
+* INFINITIF
+
+** Présent
+
+mendier
+
+* PARTICIPE
+
+** Présent
+
+mendiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mendié
+tu as mendié
+il (elle) a mendié
+nous avons mendié
+vous avez mendié
+ils (elles) ont mendié
+
+** Plus-que-parfait
+
+j'avais mendié
+tu avais mendié
+il (elle) avait mendié
+nous avions mendié
+vous aviez mendié
+ils (elles) avaient mendié
+
+** Passé antérieur
+
+j'eus mendié
+tu eus mendié
+il (elle) eut mendié
+nous eûmes mendié
+vous eûtes mendié
+ils (elles) eurent mendié
+
+** Futur antérieur
+
+j'aurai mendié
+tu auras mendié
+il (elle) aura mendié
+nous aurons mendié
+vous aurez mendié
+ils (elles) auront mendié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mendié
+tu aurais mendié
+il (elle) aurait mendié
+nous aurions mendié
+vous auriez mendié
+ils (elles) auraient mendié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mendié
+que tu aies mendié
+qu’il (elle) ait mendié
+que nous ayons mendié
+que vous ayez mendié
+qu’ils (elles) aient mendié
+
+** Plus-que-parfait
+
+que j'eusse mendié
+que tu eusses mendié
+qu’il (elle) eût mendié
+que nous eussions mendié
+que vous eussiez mendié
+qu’ils (elles) eussent mendié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mendié
+ayez mendié
+
+* INFINITIF
+
+** Passé
+
+avoir mendié
+
+* PARTICIPE
+
+** Passé
+
+ayant mendié
+mendié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mendié(e)
+tu es mendié(e)
+il (elle) est mendié(e)
+nous sommes mendié(e)s
+vous êtes mendié(e)s
+ils (elles) sont mendié(e)s
+
+** Imparfait
+
+j'étais mendié(e)
+tu étais mendié(e)
+il (elle) était mendié(e)
+nous étions mendié(e)s
+vous étiez mendié(e)s
+ils (elles) étaient mendié(e)s
+
+** Passé simple
+
+je fus mendié(e)
+tu fus mendié(e)
+il (elle) fut mendié(e)
+nous fûmes mendié(e)s
+vous fûtes mendié(e)s
+ils (elles) furent mendié(e)s
+
+** Futur simple
+
+je serai mendié(e)
+tu seras mendié(e)
+il (elle) sera mendié(e)
+nous serons mendié(e)s
+vous serez mendié(e)s
+ils (elles) seront mendié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mendié(e)
+tu serais mendié(e)
+il (elle) serait mendié(e)
+nous serions mendié(e)s
+vous seriez mendié(e)s
+ils (elles) seraient mendié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mendié(e)
+que tu sois mendié(e)
+qu’il (elle) soit mendié(e)
+que nous soyons mendié(e)s
+que vous soyez mendié(e)s
+qu’ils (elles) soient mendié(e)s
+
+** Imparfait
+
+que je fusse mendié(e)
+que tu fusses mendié(e)
+qu’il (elle) fût mendié(e)
+que nous fussions mendié(e)s
+que vous fussiez mendié(e)s
+qu’ils (elles) fussent mendié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mendié(e)s
+soyez mendié(e)s
+
+* INFINITIF
+
+** Présent
+
+être mendié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mendié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mendié(e)
+tu as été mendié(e)
+il (elle) a été mendié(e)
+nous avons été mendié(e)s
+vous avez été mendié(e)s
+ils (elles) ont été mendié(e)s
+
+** Plus-que-parfait
+
+j'avais été mendié(e)
+il (elle) avait été mendié(e)
+nous avions été mendié(e)s
+ils (elles) avaient été mendié(e)s
+
+** Passé antérieur
+
+j'eus été mendié(e)
+tu eus été mendié(e)
+il (elle) eut été mendié(e)
+nous eûmes été mendié(e)s
+vous eûtes été mendié(e)s
+ils (elles) eurent été mendié(e)s
+
+** Futur antérieur
+
+j'aurai été mendié(e)
+tu auras été mendié(e)
+il (elle) aura été mendié(e)
+nous aurons été mendié(e)s
+vous aurez été mendié(e)s
+ils (elles) auront été mendié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mendié(e)
+j'aurais été mendié(e)
+il (elle) aurait été mendié(e)
+nous aurions été mendié(e)s
+vous auriez été mendié(e)s
+ils (elles) auraient été mendié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mendié(e)
+que tu aies été mendié(e)
+qu’il (elle) ait été mendié(e)
+que nous ayons été mendié(e)s
+que vous ayez été mendié(e)s
+qu’ils (elles) aient été mendié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mendié(e)
+que tu eusses été mendié(e)
+qu’il (elle) eût été mendié(e)
+que nous eussions été mendié(e)s
+que vous eussiez été mendié(e)s
+qu’ils (elles) eussent été mendié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mendié(e)
+ayons été mendié(e)s
+ayez été mendié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mendié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mendié(e)(s)

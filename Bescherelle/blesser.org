@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe blesser
+
+* INDICATIF
+
+** Présent
+
+je blesse
+tu blesses
+il (elle) blesse
+nous blessons
+vous blessez
+ils (elles) blessent
+
+** Imparfait
+
+je blessais
+tu blessais
+il (elle) blessait
+nous blessions
+vous blessiez
+ils (elles) blessaient
+
+** Passé simple
+
+je blessai
+tu blessas
+il (elle) blessa
+nous blessâmes
+vous blessâtes
+ils (elles) blessèrent
+
+** Futur simple
+
+je blesserai
+tu blesseras
+il (elle) blessera
+nous blesserons
+vous blesserez
+ils (elles) blesseront
+
+* CONDITIONNEL
+
+** Présent
+
+je blesserais
+tu blesserais
+il (elle) blesserait
+nous blesserions
+vous blesseriez
+ils (elles) blesseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je blesse
+que tu blesses
+qu’il (elle) blesse
+que nous blessions
+que vous blessiez
+qu’ils (elles) blessent
+
+** Imparfait
+
+que je blessasse
+que tu blessasses
+qu’il (elle) blessât
+que nous blessassions
+que vous blessassiez
+qu’ils (elles) blessassent
+
+* IMPÉRATIF
+
+** Présent
+
+blesse
+blessons
+blessez
+
+* INFINITIF
+
+** Présent
+
+blesser
+
+* PARTICIPE
+
+** Présent
+
+blessant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai blessé
+tu as blessé
+il (elle) a blessé
+nous avons blessé
+vous avez blessé
+ils (elles) ont blessé
+
+** Plus-que-parfait
+
+j'avais blessé
+tu avais blessé
+il (elle) avait blessé
+nous avions blessé
+vous aviez blessé
+ils (elles) avaient blessé
+
+** Passé antérieur
+
+j'eus blessé
+tu eus blessé
+il (elle) eut blessé
+nous eûmes blessé
+vous eûtes blessé
+ils (elles) eurent blessé
+
+** Futur antérieur
+
+j'aurai blessé
+tu auras blessé
+il (elle) aura blessé
+nous aurons blessé
+vous aurez blessé
+ils (elles) auront blessé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais blessé
+tu aurais blessé
+il (elle) aurait blessé
+nous aurions blessé
+vous auriez blessé
+ils (elles) auraient blessé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie blessé
+que tu aies blessé
+qu’il (elle) ait blessé
+que nous ayons blessé
+que vous ayez blessé
+qu’ils (elles) aient blessé
+
+** Plus-que-parfait
+
+que j'eusse blessé
+que tu eusses blessé
+qu’il (elle) eût blessé
+que nous eussions blessé
+que vous eussiez blessé
+qu’ils (elles) eussent blessé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons blessé
+ayez blessé
+
+* INFINITIF
+
+** Passé
+
+avoir blessé
+
+* PARTICIPE
+
+** Passé
+
+ayant blessé
+blessé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis blessé(e)
+tu es blessé(e)
+il (elle) est blessé(e)
+nous sommes blessé(e)s
+vous êtes blessé(e)s
+ils (elles) sont blessé(e)s
+
+** Imparfait
+
+j'étais blessé(e)
+tu étais blessé(e)
+il (elle) était blessé(e)
+nous étions blessé(e)s
+vous étiez blessé(e)s
+ils (elles) étaient blessé(e)s
+
+** Passé simple
+
+je fus blessé(e)
+tu fus blessé(e)
+il (elle) fut blessé(e)
+nous fûmes blessé(e)s
+vous fûtes blessé(e)s
+ils (elles) furent blessé(e)s
+
+** Futur simple
+
+je serai blessé(e)
+tu seras blessé(e)
+il (elle) sera blessé(e)
+nous serons blessé(e)s
+vous serez blessé(e)s
+ils (elles) seront blessé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais blessé(e)
+tu serais blessé(e)
+il (elle) serait blessé(e)
+nous serions blessé(e)s
+vous seriez blessé(e)s
+ils (elles) seraient blessé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois blessé(e)
+que tu sois blessé(e)
+qu’il (elle) soit blessé(e)
+que nous soyons blessé(e)s
+que vous soyez blessé(e)s
+qu’ils (elles) soient blessé(e)s
+
+** Imparfait
+
+que je fusse blessé(e)
+que tu fusses blessé(e)
+qu’il (elle) fût blessé(e)
+que nous fussions blessé(e)s
+que vous fussiez blessé(e)s
+qu’ils (elles) fussent blessé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons blessé(e)s
+soyez blessé(e)s
+
+* INFINITIF
+
+** Présent
+
+être blessé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant blessé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été blessé(e)
+tu as été blessé(e)
+il (elle) a été blessé(e)
+nous avons été blessé(e)s
+vous avez été blessé(e)s
+ils (elles) ont été blessé(e)s
+
+** Plus-que-parfait
+
+j'avais été blessé(e)
+il (elle) avait été blessé(e)
+nous avions été blessé(e)s
+ils (elles) avaient été blessé(e)s
+
+** Passé antérieur
+
+j'eus été blessé(e)
+tu eus été blessé(e)
+il (elle) eut été blessé(e)
+nous eûmes été blessé(e)s
+vous eûtes été blessé(e)s
+ils (elles) eurent été blessé(e)s
+
+** Futur antérieur
+
+j'aurai été blessé(e)
+tu auras été blessé(e)
+il (elle) aura été blessé(e)
+nous aurons été blessé(e)s
+vous aurez été blessé(e)s
+ils (elles) auront été blessé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été blessé(e)
+j'aurais été blessé(e)
+il (elle) aurait été blessé(e)
+nous aurions été blessé(e)s
+vous auriez été blessé(e)s
+ils (elles) auraient été blessé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été blessé(e)
+que tu aies été blessé(e)
+qu’il (elle) ait été blessé(e)
+que nous ayons été blessé(e)s
+que vous ayez été blessé(e)s
+qu’ils (elles) aient été blessé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été blessé(e)
+que tu eusses été blessé(e)
+qu’il (elle) eût été blessé(e)
+que nous eussions été blessé(e)s
+que vous eussiez été blessé(e)s
+qu’ils (elles) eussent été blessé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été blessé(e)
+ayons été blessé(e)s
+ayez été blessé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été blessé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été blessé(e)(s)

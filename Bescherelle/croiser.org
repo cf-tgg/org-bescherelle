@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe croiser
+
+* INDICATIF
+
+** Présent
+
+je croise
+tu croises
+il (elle) croise
+nous croisons
+vous croisez
+ils (elles) croisent
+
+** Imparfait
+
+je croisais
+tu croisais
+il (elle) croisait
+nous croisions
+vous croisiez
+ils (elles) croisaient
+
+** Passé simple
+
+je croisai
+tu croisas
+il (elle) croisa
+nous croisâmes
+vous croisâtes
+ils (elles) croisèrent
+
+** Futur simple
+
+je croiserai
+tu croiseras
+il (elle) croisera
+nous croiserons
+vous croiserez
+ils (elles) croiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je croiserais
+tu croiserais
+il (elle) croiserait
+nous croiserions
+vous croiseriez
+ils (elles) croiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je croise
+que tu croises
+qu’il (elle) croise
+que nous croisions
+que vous croisiez
+qu’ils (elles) croisent
+
+** Imparfait
+
+que je croisasse
+que tu croisasses
+qu’il (elle) croisât
+que nous croisassions
+que vous croisassiez
+qu’ils (elles) croisassent
+
+* IMPÉRATIF
+
+** Présent
+
+croise
+croisons
+croisez
+
+* INFINITIF
+
+** Présent
+
+croiser
+
+* PARTICIPE
+
+** Présent
+
+croisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai croisé
+tu as croisé
+il (elle) a croisé
+nous avons croisé
+vous avez croisé
+ils (elles) ont croisé
+
+** Plus-que-parfait
+
+j'avais croisé
+tu avais croisé
+il (elle) avait croisé
+nous avions croisé
+vous aviez croisé
+ils (elles) avaient croisé
+
+** Passé antérieur
+
+j'eus croisé
+tu eus croisé
+il (elle) eut croisé
+nous eûmes croisé
+vous eûtes croisé
+ils (elles) eurent croisé
+
+** Futur antérieur
+
+j'aurai croisé
+tu auras croisé
+il (elle) aura croisé
+nous aurons croisé
+vous aurez croisé
+ils (elles) auront croisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais croisé
+tu aurais croisé
+il (elle) aurait croisé
+nous aurions croisé
+vous auriez croisé
+ils (elles) auraient croisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie croisé
+que tu aies croisé
+qu’il (elle) ait croisé
+que nous ayons croisé
+que vous ayez croisé
+qu’ils (elles) aient croisé
+
+** Plus-que-parfait
+
+que j'eusse croisé
+que tu eusses croisé
+qu’il (elle) eût croisé
+que nous eussions croisé
+que vous eussiez croisé
+qu’ils (elles) eussent croisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons croisé
+ayez croisé
+
+* INFINITIF
+
+** Passé
+
+avoir croisé
+
+* PARTICIPE
+
+** Passé
+
+ayant croisé
+croisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis croisé(e)
+tu es croisé(e)
+il (elle) est croisé(e)
+nous sommes croisé(e)s
+vous êtes croisé(e)s
+ils (elles) sont croisé(e)s
+
+** Imparfait
+
+j'étais croisé(e)
+tu étais croisé(e)
+il (elle) était croisé(e)
+nous étions croisé(e)s
+vous étiez croisé(e)s
+ils (elles) étaient croisé(e)s
+
+** Passé simple
+
+je fus croisé(e)
+tu fus croisé(e)
+il (elle) fut croisé(e)
+nous fûmes croisé(e)s
+vous fûtes croisé(e)s
+ils (elles) furent croisé(e)s
+
+** Futur simple
+
+je serai croisé(e)
+tu seras croisé(e)
+il (elle) sera croisé(e)
+nous serons croisé(e)s
+vous serez croisé(e)s
+ils (elles) seront croisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais croisé(e)
+tu serais croisé(e)
+il (elle) serait croisé(e)
+nous serions croisé(e)s
+vous seriez croisé(e)s
+ils (elles) seraient croisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois croisé(e)
+que tu sois croisé(e)
+qu’il (elle) soit croisé(e)
+que nous soyons croisé(e)s
+que vous soyez croisé(e)s
+qu’ils (elles) soient croisé(e)s
+
+** Imparfait
+
+que je fusse croisé(e)
+que tu fusses croisé(e)
+qu’il (elle) fût croisé(e)
+que nous fussions croisé(e)s
+que vous fussiez croisé(e)s
+qu’ils (elles) fussent croisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons croisé(e)s
+soyez croisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être croisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant croisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été croisé(e)
+tu as été croisé(e)
+il (elle) a été croisé(e)
+nous avons été croisé(e)s
+vous avez été croisé(e)s
+ils (elles) ont été croisé(e)s
+
+** Plus-que-parfait
+
+j'avais été croisé(e)
+il (elle) avait été croisé(e)
+nous avions été croisé(e)s
+ils (elles) avaient été croisé(e)s
+
+** Passé antérieur
+
+j'eus été croisé(e)
+tu eus été croisé(e)
+il (elle) eut été croisé(e)
+nous eûmes été croisé(e)s
+vous eûtes été croisé(e)s
+ils (elles) eurent été croisé(e)s
+
+** Futur antérieur
+
+j'aurai été croisé(e)
+tu auras été croisé(e)
+il (elle) aura été croisé(e)
+nous aurons été croisé(e)s
+vous aurez été croisé(e)s
+ils (elles) auront été croisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été croisé(e)
+j'aurais été croisé(e)
+il (elle) aurait été croisé(e)
+nous aurions été croisé(e)s
+vous auriez été croisé(e)s
+ils (elles) auraient été croisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été croisé(e)
+que tu aies été croisé(e)
+qu’il (elle) ait été croisé(e)
+que nous ayons été croisé(e)s
+que vous ayez été croisé(e)s
+qu’ils (elles) aient été croisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été croisé(e)
+que tu eusses été croisé(e)
+qu’il (elle) eût été croisé(e)
+que nous eussions été croisé(e)s
+que vous eussiez été croisé(e)s
+qu’ils (elles) eussent été croisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été croisé(e)
+ayons été croisé(e)s
+ayez été croisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été croisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été croisé(e)(s)

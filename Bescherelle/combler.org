@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe combler
+
+* INDICATIF
+
+** Présent
+
+je comble
+tu combles
+il (elle) comble
+nous comblons
+vous comblez
+ils (elles) comblent
+
+** Imparfait
+
+je comblais
+tu comblais
+il (elle) comblait
+nous comblions
+vous combliez
+ils (elles) comblaient
+
+** Passé simple
+
+je comblai
+tu comblas
+il (elle) combla
+nous comblâmes
+vous comblâtes
+ils (elles) comblèrent
+
+** Futur simple
+
+je comblerai
+tu combleras
+il (elle) comblera
+nous comblerons
+vous comblerez
+ils (elles) combleront
+
+* CONDITIONNEL
+
+** Présent
+
+je comblerais
+tu comblerais
+il (elle) comblerait
+nous comblerions
+vous combleriez
+ils (elles) combleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je comble
+que tu combles
+qu’il (elle) comble
+que nous comblions
+que vous combliez
+qu’ils (elles) comblent
+
+** Imparfait
+
+que je comblasse
+que tu comblasses
+qu’il (elle) comblât
+que nous comblassions
+que vous comblassiez
+qu’ils (elles) comblassent
+
+* IMPÉRATIF
+
+** Présent
+
+comble
+comblons
+comblez
+
+* INFINITIF
+
+** Présent
+
+combler
+
+* PARTICIPE
+
+** Présent
+
+comblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai comblé
+tu as comblé
+il (elle) a comblé
+nous avons comblé
+vous avez comblé
+ils (elles) ont comblé
+
+** Plus-que-parfait
+
+j'avais comblé
+tu avais comblé
+il (elle) avait comblé
+nous avions comblé
+vous aviez comblé
+ils (elles) avaient comblé
+
+** Passé antérieur
+
+j'eus comblé
+tu eus comblé
+il (elle) eut comblé
+nous eûmes comblé
+vous eûtes comblé
+ils (elles) eurent comblé
+
+** Futur antérieur
+
+j'aurai comblé
+tu auras comblé
+il (elle) aura comblé
+nous aurons comblé
+vous aurez comblé
+ils (elles) auront comblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais comblé
+tu aurais comblé
+il (elle) aurait comblé
+nous aurions comblé
+vous auriez comblé
+ils (elles) auraient comblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie comblé
+que tu aies comblé
+qu’il (elle) ait comblé
+que nous ayons comblé
+que vous ayez comblé
+qu’ils (elles) aient comblé
+
+** Plus-que-parfait
+
+que j'eusse comblé
+que tu eusses comblé
+qu’il (elle) eût comblé
+que nous eussions comblé
+que vous eussiez comblé
+qu’ils (elles) eussent comblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons comblé
+ayez comblé
+
+* INFINITIF
+
+** Passé
+
+avoir comblé
+
+* PARTICIPE
+
+** Passé
+
+ayant comblé
+comblé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis comblé(e)
+tu es comblé(e)
+il (elle) est comblé(e)
+nous sommes comblé(e)s
+vous êtes comblé(e)s
+ils (elles) sont comblé(e)s
+
+** Imparfait
+
+j'étais comblé(e)
+tu étais comblé(e)
+il (elle) était comblé(e)
+nous étions comblé(e)s
+vous étiez comblé(e)s
+ils (elles) étaient comblé(e)s
+
+** Passé simple
+
+je fus comblé(e)
+tu fus comblé(e)
+il (elle) fut comblé(e)
+nous fûmes comblé(e)s
+vous fûtes comblé(e)s
+ils (elles) furent comblé(e)s
+
+** Futur simple
+
+je serai comblé(e)
+tu seras comblé(e)
+il (elle) sera comblé(e)
+nous serons comblé(e)s
+vous serez comblé(e)s
+ils (elles) seront comblé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais comblé(e)
+tu serais comblé(e)
+il (elle) serait comblé(e)
+nous serions comblé(e)s
+vous seriez comblé(e)s
+ils (elles) seraient comblé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois comblé(e)
+que tu sois comblé(e)
+qu’il (elle) soit comblé(e)
+que nous soyons comblé(e)s
+que vous soyez comblé(e)s
+qu’ils (elles) soient comblé(e)s
+
+** Imparfait
+
+que je fusse comblé(e)
+que tu fusses comblé(e)
+qu’il (elle) fût comblé(e)
+que nous fussions comblé(e)s
+que vous fussiez comblé(e)s
+qu’ils (elles) fussent comblé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons comblé(e)s
+soyez comblé(e)s
+
+* INFINITIF
+
+** Présent
+
+être comblé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant comblé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été comblé(e)
+tu as été comblé(e)
+il (elle) a été comblé(e)
+nous avons été comblé(e)s
+vous avez été comblé(e)s
+ils (elles) ont été comblé(e)s
+
+** Plus-que-parfait
+
+j'avais été comblé(e)
+il (elle) avait été comblé(e)
+nous avions été comblé(e)s
+ils (elles) avaient été comblé(e)s
+
+** Passé antérieur
+
+j'eus été comblé(e)
+tu eus été comblé(e)
+il (elle) eut été comblé(e)
+nous eûmes été comblé(e)s
+vous eûtes été comblé(e)s
+ils (elles) eurent été comblé(e)s
+
+** Futur antérieur
+
+j'aurai été comblé(e)
+tu auras été comblé(e)
+il (elle) aura été comblé(e)
+nous aurons été comblé(e)s
+vous aurez été comblé(e)s
+ils (elles) auront été comblé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été comblé(e)
+j'aurais été comblé(e)
+il (elle) aurait été comblé(e)
+nous aurions été comblé(e)s
+vous auriez été comblé(e)s
+ils (elles) auraient été comblé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été comblé(e)
+que tu aies été comblé(e)
+qu’il (elle) ait été comblé(e)
+que nous ayons été comblé(e)s
+que vous ayez été comblé(e)s
+qu’ils (elles) aient été comblé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été comblé(e)
+que tu eusses été comblé(e)
+qu’il (elle) eût été comblé(e)
+que nous eussions été comblé(e)s
+que vous eussiez été comblé(e)s
+qu’ils (elles) eussent été comblé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été comblé(e)
+ayons été comblé(e)s
+ayez été comblé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été comblé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été comblé(e)(s)

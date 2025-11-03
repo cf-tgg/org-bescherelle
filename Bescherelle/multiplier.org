@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe multiplier
+
+* INDICATIF
+
+** Présent
+
+je multiplie
+tu multiplies
+il (elle) multiplie
+nous multiplions
+vous multipliez
+ils (elles) multiplient
+
+** Imparfait
+
+je multipliais
+tu multipliais
+il (elle) multipliait
+nous multipliions
+vous multipliiez
+ils (elles) multipliaient
+
+** Passé simple
+
+je multipliai
+tu multiplias
+il (elle) multiplia
+nous multipliâmes
+vous multipliâtes
+ils (elles) multiplièrent
+
+** Futur simple
+
+je multiplierai
+tu multiplieras
+il (elle) multipliera
+nous multiplierons
+vous multiplierez
+ils (elles) multiplieront
+
+* CONDITIONNEL
+
+** Présent
+
+je multiplierais
+tu multiplierais
+il (elle) multiplierait
+nous multiplierions
+vous multiplieriez
+ils (elles) multiplieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je multiplie
+que tu multiplies
+qu’il (elle) multiplie
+que nous multipliions
+que vous multipliiez
+qu’ils (elles) multiplient
+
+** Imparfait
+
+que je multipliasse
+que tu multipliasses
+qu’il (elle) multipliât
+que nous multipliassions
+que vous multipliassiez
+qu’ils (elles) multipliassent
+
+* IMPÉRATIF
+
+** Présent
+
+multiplie
+multiplions
+multipliez
+
+* INFINITIF
+
+** Présent
+
+multiplier
+
+* PARTICIPE
+
+** Présent
+
+multipliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai multiplié
+tu as multiplié
+il (elle) a multiplié
+nous avons multiplié
+vous avez multiplié
+ils (elles) ont multiplié
+
+** Plus-que-parfait
+
+j'avais multiplié
+tu avais multiplié
+il (elle) avait multiplié
+nous avions multiplié
+vous aviez multiplié
+ils (elles) avaient multiplié
+
+** Passé antérieur
+
+j'eus multiplié
+tu eus multiplié
+il (elle) eut multiplié
+nous eûmes multiplié
+vous eûtes multiplié
+ils (elles) eurent multiplié
+
+** Futur antérieur
+
+j'aurai multiplié
+tu auras multiplié
+il (elle) aura multiplié
+nous aurons multiplié
+vous aurez multiplié
+ils (elles) auront multiplié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais multiplié
+tu aurais multiplié
+il (elle) aurait multiplié
+nous aurions multiplié
+vous auriez multiplié
+ils (elles) auraient multiplié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie multiplié
+que tu aies multiplié
+qu’il (elle) ait multiplié
+que nous ayons multiplié
+que vous ayez multiplié
+qu’ils (elles) aient multiplié
+
+** Plus-que-parfait
+
+que j'eusse multiplié
+que tu eusses multiplié
+qu’il (elle) eût multiplié
+que nous eussions multiplié
+que vous eussiez multiplié
+qu’ils (elles) eussent multiplié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons multiplié
+ayez multiplié
+
+* INFINITIF
+
+** Passé
+
+avoir multiplié
+
+* PARTICIPE
+
+** Passé
+
+ayant multiplié
+multiplié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis multiplié(e)
+tu es multiplié(e)
+il (elle) est multiplié(e)
+nous sommes multiplié(e)s
+vous êtes multiplié(e)s
+ils (elles) sont multiplié(e)s
+
+** Imparfait
+
+j'étais multiplié(e)
+tu étais multiplié(e)
+il (elle) était multiplié(e)
+nous étions multiplié(e)s
+vous étiez multiplié(e)s
+ils (elles) étaient multiplié(e)s
+
+** Passé simple
+
+je fus multiplié(e)
+tu fus multiplié(e)
+il (elle) fut multiplié(e)
+nous fûmes multiplié(e)s
+vous fûtes multiplié(e)s
+ils (elles) furent multiplié(e)s
+
+** Futur simple
+
+je serai multiplié(e)
+tu seras multiplié(e)
+il (elle) sera multiplié(e)
+nous serons multiplié(e)s
+vous serez multiplié(e)s
+ils (elles) seront multiplié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais multiplié(e)
+tu serais multiplié(e)
+il (elle) serait multiplié(e)
+nous serions multiplié(e)s
+vous seriez multiplié(e)s
+ils (elles) seraient multiplié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois multiplié(e)
+que tu sois multiplié(e)
+qu’il (elle) soit multiplié(e)
+que nous soyons multiplié(e)s
+que vous soyez multiplié(e)s
+qu’ils (elles) soient multiplié(e)s
+
+** Imparfait
+
+que je fusse multiplié(e)
+que tu fusses multiplié(e)
+qu’il (elle) fût multiplié(e)
+que nous fussions multiplié(e)s
+que vous fussiez multiplié(e)s
+qu’ils (elles) fussent multiplié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons multiplié(e)s
+soyez multiplié(e)s
+
+* INFINITIF
+
+** Présent
+
+être multiplié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant multiplié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été multiplié(e)
+tu as été multiplié(e)
+il (elle) a été multiplié(e)
+nous avons été multiplié(e)s
+vous avez été multiplié(e)s
+ils (elles) ont été multiplié(e)s
+
+** Plus-que-parfait
+
+j'avais été multiplié(e)
+il (elle) avait été multiplié(e)
+nous avions été multiplié(e)s
+ils (elles) avaient été multiplié(e)s
+
+** Passé antérieur
+
+j'eus été multiplié(e)
+tu eus été multiplié(e)
+il (elle) eut été multiplié(e)
+nous eûmes été multiplié(e)s
+vous eûtes été multiplié(e)s
+ils (elles) eurent été multiplié(e)s
+
+** Futur antérieur
+
+j'aurai été multiplié(e)
+tu auras été multiplié(e)
+il (elle) aura été multiplié(e)
+nous aurons été multiplié(e)s
+vous aurez été multiplié(e)s
+ils (elles) auront été multiplié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été multiplié(e)
+j'aurais été multiplié(e)
+il (elle) aurait été multiplié(e)
+nous aurions été multiplié(e)s
+vous auriez été multiplié(e)s
+ils (elles) auraient été multiplié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été multiplié(e)
+que tu aies été multiplié(e)
+qu’il (elle) ait été multiplié(e)
+que nous ayons été multiplié(e)s
+que vous ayez été multiplié(e)s
+qu’ils (elles) aient été multiplié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été multiplié(e)
+que tu eusses été multiplié(e)
+qu’il (elle) eût été multiplié(e)
+que nous eussions été multiplié(e)s
+que vous eussiez été multiplié(e)s
+qu’ils (elles) eussent été multiplié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été multiplié(e)
+ayons été multiplié(e)s
+ayez été multiplié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été multiplié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été multiplié(e)(s)

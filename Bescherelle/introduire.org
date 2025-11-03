@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe introduire
+
+* INDICATIF
+
+** Présent
+
+j'introduis
+tu introduis
+il (elle) introduit
+nous introduisons
+vous introduisez
+ils (elles) introduisent
+
+** Imparfait
+
+j'introduisais
+tu introduisais
+il (elle) introduisait
+nous introduisions
+vous introduisiez
+ils (elles) introduisaient
+
+** Passé simple
+
+j'introduisis
+tu introduisis
+il (elle) introduisit
+nous introduisîmes
+vous introduisîtes
+ils (elles) introduisirent
+
+** Futur simple
+
+j'introduirai
+tu introduiras
+il (elle) introduira
+nous introduirons
+vous introduirez
+ils (elles) introduiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'introduirais
+tu introduirais
+il (elle) introduirait
+nous introduirions
+vous introduiriez
+ils (elles) introduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'introduise
+que tu introduises
+qu’il (elle) introduise
+que nous introduisions
+que vous introduisiez
+qu’ils (elles) introduisent
+
+** Imparfait
+
+que j'introduisisse
+que tu introduisisses
+qu’il (elle) introduisît
+que nous introduisissions
+que vous introduisissiez
+qu’ils (elles) introduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+introduis
+introduisons
+introduisez
+
+* INFINITIF
+
+** Présent
+
+introduire
+
+* PARTICIPE
+
+** Présent
+
+introduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai introduit
+tu as introduit
+il (elle) a introduit
+nous avons introduit
+vous avez introduit
+ils (elles) ont introduit
+
+** Plus-que-parfait
+
+j'avais introduit
+tu avais introduit
+il (elle) avait introduit
+nous avions introduit
+vous aviez introduit
+ils (elles) avaient introduit
+
+** Passé antérieur
+
+j'eus introduit
+tu eus introduit
+il (elle) eut introduit
+nous eûmes introduit
+vous eûtes introduit
+ils (elles) eurent introduit
+
+** Futur antérieur
+
+j'aurai introduit
+tu auras introduit
+il (elle) aura introduit
+nous aurons introduit
+vous aurez introduit
+ils (elles) auront introduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais introduit
+tu aurais introduit
+il (elle) aurait introduit
+nous aurions introduit
+vous auriez introduit
+ils (elles) auraient introduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie introduit
+que tu aies introduit
+qu’il (elle) ait introduit
+que nous ayons introduit
+que vous ayez introduit
+qu’ils (elles) aient introduit
+
+** Plus-que-parfait
+
+que j'eusse introduit
+que tu eusses introduit
+qu’il (elle) eût introduit
+que nous eussions introduit
+que vous eussiez introduit
+qu’ils (elles) eussent introduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons introduit
+ayez introduit
+
+* INFINITIF
+
+** Passé
+
+avoir introduit
+
+* PARTICIPE
+
+** Passé
+
+ayant introduit
+introduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis introduit(e)
+tu es introduit(e)
+il (elle) est introduit(e)
+nous sommes introduit(e)s
+vous êtes introduit(e)s
+ils (elles) sont introduit(e)s
+
+** Imparfait
+
+j'étais introduit(e)
+tu étais introduit(e)
+il (elle) était introduit(e)
+nous étions introduit(e)s
+vous étiez introduit(e)s
+ils (elles) étaient introduit(e)s
+
+** Passé simple
+
+je fus introduit(e)
+tu fus introduit(e)
+il (elle) fut introduit(e)
+nous fûmes introduit(e)s
+vous fûtes introduit(e)s
+ils (elles) furent introduit(e)s
+
+** Futur simple
+
+je serai introduit(e)
+tu seras introduit(e)
+il (elle) sera introduit(e)
+nous serons introduit(e)s
+vous serez introduit(e)s
+ils (elles) seront introduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais introduit(e)
+tu serais introduit(e)
+il (elle) serait introduit(e)
+nous serions introduit(e)s
+vous seriez introduit(e)s
+ils (elles) seraient introduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois introduit(e)
+que tu sois introduit(e)
+qu’il (elle) soit introduit(e)
+que nous soyons introduit(e)s
+que vous soyez introduit(e)s
+qu’ils (elles) soient introduit(e)s
+
+** Imparfait
+
+que je fusse introduit(e)
+que tu fusses introduit(e)
+qu’il (elle) fût introduit(e)
+que nous fussions introduit(e)s
+que vous fussiez introduit(e)s
+qu’ils (elles) fussent introduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons introduit(e)s
+soyez introduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être introduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant introduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été introduit(e)
+tu as été introduit(e)
+il (elle) a été introduit(e)
+nous avons été introduit(e)s
+vous avez été introduit(e)s
+ils (elles) ont été introduit(e)s
+
+** Plus-que-parfait
+
+j'avais été introduit(e)
+il (elle) avait été introduit(e)
+nous avions été introduit(e)s
+ils (elles) avaient été introduit(e)s
+
+** Passé antérieur
+
+j'eus été introduit(e)
+tu eus été introduit(e)
+il (elle) eut été introduit(e)
+nous eûmes été introduit(e)s
+vous eûtes été introduit(e)s
+ils (elles) eurent été introduit(e)s
+
+** Futur antérieur
+
+j'aurai été introduit(e)
+tu auras été introduit(e)
+il (elle) aura été introduit(e)
+nous aurons été introduit(e)s
+vous aurez été introduit(e)s
+ils (elles) auront été introduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été introduit(e)
+j'aurais été introduit(e)
+il (elle) aurait été introduit(e)
+nous aurions été introduit(e)s
+vous auriez été introduit(e)s
+ils (elles) auraient été introduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été introduit(e)
+que tu aies été introduit(e)
+qu’il (elle) ait été introduit(e)
+que nous ayons été introduit(e)s
+que vous ayez été introduit(e)s
+qu’ils (elles) aient été introduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été introduit(e)
+que tu eusses été introduit(e)
+qu’il (elle) eût été introduit(e)
+que nous eussions été introduit(e)s
+que vous eussiez été introduit(e)s
+qu’ils (elles) eussent été introduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été introduit(e)
+ayons été introduit(e)s
+ayez été introduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été introduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été introduit(e)(s)

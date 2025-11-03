@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deteindre
+
+* INDICATIF
+
+** Présent
+
+je déteins
+tu déteins
+il (elle) déteint
+nous déteignons
+vous déteignez
+ils (elles) déteignent
+
+** Imparfait
+
+je déteignais
+tu déteignais
+il (elle) déteignait
+nous déteignions
+vous déteigniez
+ils (elles) déteignaient
+
+** Passé simple
+
+je déteignis
+tu déteignis
+il (elle) déteignit
+nous déteignîmes
+vous déteignîtes
+ils (elles) déteignirent
+
+** Futur simple
+
+je déteindrai
+tu déteindras
+il (elle) déteindra
+nous déteindrons
+vous déteindrez
+ils (elles) déteindront
+
+* CONDITIONNEL
+
+** Présent
+
+je déteindrais
+tu déteindrais
+il (elle) déteindrait
+nous déteindrions
+vous déteindriez
+ils (elles) déteindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déteigne
+que tu déteignes
+qu’il (elle) déteigne
+que nous déteignions
+que vous déteigniez
+qu’ils (elles) déteignent
+
+** Imparfait
+
+que je déteignisse
+que tu déteignisses
+qu’il (elle) déteignît
+que nous déteignissions
+que vous déteignissiez
+qu’ils (elles) déteignissent
+
+* IMPÉRATIF
+
+** Présent
+
+déteins
+déteignons
+déteignez
+
+* INFINITIF
+
+** Présent
+
+déteindre
+
+* PARTICIPE
+
+** Présent
+
+déteignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déteint
+tu as déteint
+il (elle) a déteint
+nous avons déteint
+vous avez déteint
+ils (elles) ont déteint
+
+** Plus-que-parfait
+
+j'avais déteint
+tu avais déteint
+il (elle) avait déteint
+nous avions déteint
+vous aviez déteint
+ils (elles) avaient déteint
+
+** Passé antérieur
+
+j'eus déteint
+tu eus déteint
+il (elle) eut déteint
+nous eûmes déteint
+vous eûtes déteint
+ils (elles) eurent déteint
+
+** Futur antérieur
+
+j'aurai déteint
+tu auras déteint
+il (elle) aura déteint
+nous aurons déteint
+vous aurez déteint
+ils (elles) auront déteint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déteint
+tu aurais déteint
+il (elle) aurait déteint
+nous aurions déteint
+vous auriez déteint
+ils (elles) auraient déteint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déteint
+que tu aies déteint
+qu’il (elle) ait déteint
+que nous ayons déteint
+que vous ayez déteint
+qu’ils (elles) aient déteint
+
+** Plus-que-parfait
+
+que j'eusse déteint
+que tu eusses déteint
+qu’il (elle) eût déteint
+que nous eussions déteint
+que vous eussiez déteint
+qu’ils (elles) eussent déteint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déteint
+ayez déteint
+
+* INFINITIF
+
+** Passé
+
+avoir déteint
+
+* PARTICIPE
+
+** Passé
+
+ayant déteint
+déteint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis déteint(e)
+tu es déteint(e)
+il (elle) est déteint(e)
+nous sommes déteint(e)s
+vous êtes déteint(e)s
+ils (elles) sont déteint(e)s
+
+** Imparfait
+
+j'étais déteint(e)
+tu étais déteint(e)
+il (elle) était déteint(e)
+nous étions déteint(e)s
+vous étiez déteint(e)s
+ils (elles) étaient déteint(e)s
+
+** Passé simple
+
+je fus déteint(e)
+tu fus déteint(e)
+il (elle) fut déteint(e)
+nous fûmes déteint(e)s
+vous fûtes déteint(e)s
+ils (elles) furent déteint(e)s
+
+** Futur simple
+
+je serai déteint(e)
+tu seras déteint(e)
+il (elle) sera déteint(e)
+nous serons déteint(e)s
+vous serez déteint(e)s
+ils (elles) seront déteint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais déteint(e)
+tu serais déteint(e)
+il (elle) serait déteint(e)
+nous serions déteint(e)s
+vous seriez déteint(e)s
+ils (elles) seraient déteint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois déteint(e)
+que tu sois déteint(e)
+qu’il (elle) soit déteint(e)
+que nous soyons déteint(e)s
+que vous soyez déteint(e)s
+qu’ils (elles) soient déteint(e)s
+
+** Imparfait
+
+que je fusse déteint(e)
+que tu fusses déteint(e)
+qu’il (elle) fût déteint(e)
+que nous fussions déteint(e)s
+que vous fussiez déteint(e)s
+qu’ils (elles) fussent déteint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons déteint(e)s
+soyez déteint(e)s
+
+* INFINITIF
+
+** Présent
+
+être déteint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant déteint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été déteint(e)
+tu as été déteint(e)
+il (elle) a été déteint(e)
+nous avons été déteint(e)s
+vous avez été déteint(e)s
+ils (elles) ont été déteint(e)s
+
+** Plus-que-parfait
+
+j'avais été déteint(e)
+il (elle) avait été déteint(e)
+nous avions été déteint(e)s
+ils (elles) avaient été déteint(e)s
+
+** Passé antérieur
+
+j'eus été déteint(e)
+tu eus été déteint(e)
+il (elle) eut été déteint(e)
+nous eûmes été déteint(e)s
+vous eûtes été déteint(e)s
+ils (elles) eurent été déteint(e)s
+
+** Futur antérieur
+
+j'aurai été déteint(e)
+tu auras été déteint(e)
+il (elle) aura été déteint(e)
+nous aurons été déteint(e)s
+vous aurez été déteint(e)s
+ils (elles) auront été déteint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été déteint(e)
+j'aurais été déteint(e)
+il (elle) aurait été déteint(e)
+nous aurions été déteint(e)s
+vous auriez été déteint(e)s
+ils (elles) auraient été déteint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été déteint(e)
+que tu aies été déteint(e)
+qu’il (elle) ait été déteint(e)
+que nous ayons été déteint(e)s
+que vous ayez été déteint(e)s
+qu’ils (elles) aient été déteint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été déteint(e)
+que tu eusses été déteint(e)
+qu’il (elle) eût été déteint(e)
+que nous eussions été déteint(e)s
+que vous eussiez été déteint(e)s
+qu’ils (elles) eussent été déteint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été déteint(e)
+ayons été déteint(e)s
+ayez été déteint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été déteint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été déteint(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe duper
+
+* INDICATIF
+
+** Présent
+
+je dupe
+tu dupes
+il (elle) dupe
+nous dupons
+vous dupez
+ils (elles) dupent
+
+** Imparfait
+
+je dupais
+tu dupais
+il (elle) dupait
+nous dupions
+vous dupiez
+ils (elles) dupaient
+
+** Passé simple
+
+je dupai
+tu dupas
+il (elle) dupa
+nous dupâmes
+vous dupâtes
+ils (elles) dupèrent
+
+** Futur simple
+
+je duperai
+tu duperas
+il (elle) dupera
+nous duperons
+vous duperez
+ils (elles) duperont
+
+* CONDITIONNEL
+
+** Présent
+
+je duperais
+tu duperais
+il (elle) duperait
+nous duperions
+vous duperiez
+ils (elles) duperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dupe
+que tu dupes
+qu’il (elle) dupe
+que nous dupions
+que vous dupiez
+qu’ils (elles) dupent
+
+** Imparfait
+
+que je dupasse
+que tu dupasses
+qu’il (elle) dupât
+que nous dupassions
+que vous dupassiez
+qu’ils (elles) dupassent
+
+* IMPÉRATIF
+
+** Présent
+
+dupe
+dupons
+dupez
+
+* INFINITIF
+
+** Présent
+
+duper
+
+* PARTICIPE
+
+** Présent
+
+dupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dupé
+tu as dupé
+il (elle) a dupé
+nous avons dupé
+vous avez dupé
+ils (elles) ont dupé
+
+** Plus-que-parfait
+
+j'avais dupé
+tu avais dupé
+il (elle) avait dupé
+nous avions dupé
+vous aviez dupé
+ils (elles) avaient dupé
+
+** Passé antérieur
+
+j'eus dupé
+tu eus dupé
+il (elle) eut dupé
+nous eûmes dupé
+vous eûtes dupé
+ils (elles) eurent dupé
+
+** Futur antérieur
+
+j'aurai dupé
+tu auras dupé
+il (elle) aura dupé
+nous aurons dupé
+vous aurez dupé
+ils (elles) auront dupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dupé
+tu aurais dupé
+il (elle) aurait dupé
+nous aurions dupé
+vous auriez dupé
+ils (elles) auraient dupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dupé
+que tu aies dupé
+qu’il (elle) ait dupé
+que nous ayons dupé
+que vous ayez dupé
+qu’ils (elles) aient dupé
+
+** Plus-que-parfait
+
+que j'eusse dupé
+que tu eusses dupé
+qu’il (elle) eût dupé
+que nous eussions dupé
+que vous eussiez dupé
+qu’ils (elles) eussent dupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dupé
+ayez dupé
+
+* INFINITIF
+
+** Passé
+
+avoir dupé
+
+* PARTICIPE
+
+** Passé
+
+ayant dupé
+dupé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dupé(e)
+tu es dupé(e)
+il (elle) est dupé(e)
+nous sommes dupé(e)s
+vous êtes dupé(e)s
+ils (elles) sont dupé(e)s
+
+** Imparfait
+
+j'étais dupé(e)
+tu étais dupé(e)
+il (elle) était dupé(e)
+nous étions dupé(e)s
+vous étiez dupé(e)s
+ils (elles) étaient dupé(e)s
+
+** Passé simple
+
+je fus dupé(e)
+tu fus dupé(e)
+il (elle) fut dupé(e)
+nous fûmes dupé(e)s
+vous fûtes dupé(e)s
+ils (elles) furent dupé(e)s
+
+** Futur simple
+
+je serai dupé(e)
+tu seras dupé(e)
+il (elle) sera dupé(e)
+nous serons dupé(e)s
+vous serez dupé(e)s
+ils (elles) seront dupé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dupé(e)
+tu serais dupé(e)
+il (elle) serait dupé(e)
+nous serions dupé(e)s
+vous seriez dupé(e)s
+ils (elles) seraient dupé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dupé(e)
+que tu sois dupé(e)
+qu’il (elle) soit dupé(e)
+que nous soyons dupé(e)s
+que vous soyez dupé(e)s
+qu’ils (elles) soient dupé(e)s
+
+** Imparfait
+
+que je fusse dupé(e)
+que tu fusses dupé(e)
+qu’il (elle) fût dupé(e)
+que nous fussions dupé(e)s
+que vous fussiez dupé(e)s
+qu’ils (elles) fussent dupé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dupé(e)s
+soyez dupé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dupé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dupé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dupé(e)
+tu as été dupé(e)
+il (elle) a été dupé(e)
+nous avons été dupé(e)s
+vous avez été dupé(e)s
+ils (elles) ont été dupé(e)s
+
+** Plus-que-parfait
+
+j'avais été dupé(e)
+il (elle) avait été dupé(e)
+nous avions été dupé(e)s
+ils (elles) avaient été dupé(e)s
+
+** Passé antérieur
+
+j'eus été dupé(e)
+tu eus été dupé(e)
+il (elle) eut été dupé(e)
+nous eûmes été dupé(e)s
+vous eûtes été dupé(e)s
+ils (elles) eurent été dupé(e)s
+
+** Futur antérieur
+
+j'aurai été dupé(e)
+tu auras été dupé(e)
+il (elle) aura été dupé(e)
+nous aurons été dupé(e)s
+vous aurez été dupé(e)s
+ils (elles) auront été dupé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dupé(e)
+j'aurais été dupé(e)
+il (elle) aurait été dupé(e)
+nous aurions été dupé(e)s
+vous auriez été dupé(e)s
+ils (elles) auraient été dupé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dupé(e)
+que tu aies été dupé(e)
+qu’il (elle) ait été dupé(e)
+que nous ayons été dupé(e)s
+que vous ayez été dupé(e)s
+qu’ils (elles) aient été dupé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dupé(e)
+que tu eusses été dupé(e)
+qu’il (elle) eût été dupé(e)
+que nous eussions été dupé(e)s
+que vous eussiez été dupé(e)s
+qu’ils (elles) eussent été dupé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dupé(e)
+ayons été dupé(e)s
+ayez été dupé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dupé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dupé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe pincer
+
+* INDICATIF
+
+** Présent
+
+je pince
+tu pinces
+il (elle) pince
+nous pinçons
+vous pincez
+ils (elles) pincent
+
+** Imparfait
+
+je pinçais
+tu pinçais
+il (elle) pinçait
+nous pincions
+vous pinciez
+ils (elles) pinçaient
+
+** Passé simple
+
+je pinçai
+tu pinças
+il (elle) pinça
+nous pinçâmes
+vous pinçâtes
+ils (elles) pincèrent
+
+** Futur simple
+
+je pincerai
+tu pinceras
+il (elle) pincera
+nous pincerons
+vous pincerez
+ils (elles) pinceront
+
+* CONDITIONNEL
+
+** Présent
+
+je pincerais
+tu pincerais
+il (elle) pincerait
+nous pincerions
+vous pinceriez
+ils (elles) pinceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pince
+que tu pinces
+qu’il (elle) pince
+que nous pincions
+que vous pinciez
+qu’ils (elles) pincent
+
+** Imparfait
+
+que je pinçasse
+que tu pinçasses
+qu’il (elle) pinçât
+que nous pinçassions
+que vous pinçassiez
+qu’ils (elles) pinçassent
+
+* IMPÉRATIF
+
+** Présent
+
+pince
+pinçons
+pincez
+
+* INFINITIF
+
+** Présent
+
+pincer
+
+* PARTICIPE
+
+** Présent
+
+pinçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pincé
+tu as pincé
+il (elle) a pincé
+nous avons pincé
+vous avez pincé
+ils (elles) ont pincé
+
+** Plus-que-parfait
+
+j'avais pincé
+tu avais pincé
+il (elle) avait pincé
+nous avions pincé
+vous aviez pincé
+ils (elles) avaient pincé
+
+** Passé antérieur
+
+j'eus pincé
+tu eus pincé
+il (elle) eut pincé
+nous eûmes pincé
+vous eûtes pincé
+ils (elles) eurent pincé
+
+** Futur antérieur
+
+j'aurai pincé
+tu auras pincé
+il (elle) aura pincé
+nous aurons pincé
+vous aurez pincé
+ils (elles) auront pincé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pincé
+tu aurais pincé
+il (elle) aurait pincé
+nous aurions pincé
+vous auriez pincé
+ils (elles) auraient pincé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pincé
+que tu aies pincé
+qu’il (elle) ait pincé
+que nous ayons pincé
+que vous ayez pincé
+qu’ils (elles) aient pincé
+
+** Plus-que-parfait
+
+que j'eusse pincé
+que tu eusses pincé
+qu’il (elle) eût pincé
+que nous eussions pincé
+que vous eussiez pincé
+qu’ils (elles) eussent pincé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pincé
+ayez pincé
+
+* INFINITIF
+
+** Passé
+
+avoir pincé
+
+* PARTICIPE
+
+** Passé
+
+ayant pincé
+pincé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis pincé(e)
+tu es pincé(e)
+il (elle) est pincé(e)
+nous sommes pincé(e)s
+vous êtes pincé(e)s
+ils (elles) sont pincé(e)s
+
+** Imparfait
+
+j'étais pincé(e)
+tu étais pincé(e)
+il (elle) était pincé(e)
+nous étions pincé(e)s
+vous étiez pincé(e)s
+ils (elles) étaient pincé(e)s
+
+** Passé simple
+
+je fus pincé(e)
+tu fus pincé(e)
+il (elle) fut pincé(e)
+nous fûmes pincé(e)s
+vous fûtes pincé(e)s
+ils (elles) furent pincé(e)s
+
+** Futur simple
+
+je serai pincé(e)
+tu seras pincé(e)
+il (elle) sera pincé(e)
+nous serons pincé(e)s
+vous serez pincé(e)s
+ils (elles) seront pincé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais pincé(e)
+tu serais pincé(e)
+il (elle) serait pincé(e)
+nous serions pincé(e)s
+vous seriez pincé(e)s
+ils (elles) seraient pincé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois pincé(e)
+que tu sois pincé(e)
+qu’il (elle) soit pincé(e)
+que nous soyons pincé(e)s
+que vous soyez pincé(e)s
+qu’ils (elles) soient pincé(e)s
+
+** Imparfait
+
+que je fusse pincé(e)
+que tu fusses pincé(e)
+qu’il (elle) fût pincé(e)
+que nous fussions pincé(e)s
+que vous fussiez pincé(e)s
+qu’ils (elles) fussent pincé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons pincé(e)s
+soyez pincé(e)s
+
+* INFINITIF
+
+** Présent
+
+être pincé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant pincé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été pincé(e)
+tu as été pincé(e)
+il (elle) a été pincé(e)
+nous avons été pincé(e)s
+vous avez été pincé(e)s
+ils (elles) ont été pincé(e)s
+
+** Plus-que-parfait
+
+j'avais été pincé(e)
+il (elle) avait été pincé(e)
+nous avions été pincé(e)s
+ils (elles) avaient été pincé(e)s
+
+** Passé antérieur
+
+j'eus été pincé(e)
+tu eus été pincé(e)
+il (elle) eut été pincé(e)
+nous eûmes été pincé(e)s
+vous eûtes été pincé(e)s
+ils (elles) eurent été pincé(e)s
+
+** Futur antérieur
+
+j'aurai été pincé(e)
+tu auras été pincé(e)
+il (elle) aura été pincé(e)
+nous aurons été pincé(e)s
+vous aurez été pincé(e)s
+ils (elles) auront été pincé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été pincé(e)
+j'aurais été pincé(e)
+il (elle) aurait été pincé(e)
+nous aurions été pincé(e)s
+vous auriez été pincé(e)s
+ils (elles) auraient été pincé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été pincé(e)
+que tu aies été pincé(e)
+qu’il (elle) ait été pincé(e)
+que nous ayons été pincé(e)s
+que vous ayez été pincé(e)s
+qu’ils (elles) aient été pincé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été pincé(e)
+que tu eusses été pincé(e)
+qu’il (elle) eût été pincé(e)
+que nous eussions été pincé(e)s
+que vous eussiez été pincé(e)s
+qu’ils (elles) eussent été pincé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été pincé(e)
+ayons été pincé(e)s
+ayez été pincé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été pincé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été pincé(e)(s)

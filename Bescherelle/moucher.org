@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe moucher
+
+* INDICATIF
+
+** Présent
+
+je mouche
+tu mouches
+il (elle) mouche
+nous mouchons
+vous mouchez
+ils (elles) mouchent
+
+** Imparfait
+
+je mouchais
+tu mouchais
+il (elle) mouchait
+nous mouchions
+vous mouchiez
+ils (elles) mouchaient
+
+** Passé simple
+
+je mouchai
+tu mouchas
+il (elle) moucha
+nous mouchâmes
+vous mouchâtes
+ils (elles) mouchèrent
+
+** Futur simple
+
+je moucherai
+tu moucheras
+il (elle) mouchera
+nous moucherons
+vous moucherez
+ils (elles) moucheront
+
+* CONDITIONNEL
+
+** Présent
+
+je moucherais
+tu moucherais
+il (elle) moucherait
+nous moucherions
+vous moucheriez
+ils (elles) moucheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mouche
+que tu mouches
+qu’il (elle) mouche
+que nous mouchions
+que vous mouchiez
+qu’ils (elles) mouchent
+
+** Imparfait
+
+que je mouchasse
+que tu mouchasses
+qu’il (elle) mouchât
+que nous mouchassions
+que vous mouchassiez
+qu’ils (elles) mouchassent
+
+* IMPÉRATIF
+
+** Présent
+
+mouche
+mouchons
+mouchez
+
+* INFINITIF
+
+** Présent
+
+moucher
+
+* PARTICIPE
+
+** Présent
+
+mouchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mouché
+tu as mouché
+il (elle) a mouché
+nous avons mouché
+vous avez mouché
+ils (elles) ont mouché
+
+** Plus-que-parfait
+
+j'avais mouché
+tu avais mouché
+il (elle) avait mouché
+nous avions mouché
+vous aviez mouché
+ils (elles) avaient mouché
+
+** Passé antérieur
+
+j'eus mouché
+tu eus mouché
+il (elle) eut mouché
+nous eûmes mouché
+vous eûtes mouché
+ils (elles) eurent mouché
+
+** Futur antérieur
+
+j'aurai mouché
+tu auras mouché
+il (elle) aura mouché
+nous aurons mouché
+vous aurez mouché
+ils (elles) auront mouché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mouché
+tu aurais mouché
+il (elle) aurait mouché
+nous aurions mouché
+vous auriez mouché
+ils (elles) auraient mouché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mouché
+que tu aies mouché
+qu’il (elle) ait mouché
+que nous ayons mouché
+que vous ayez mouché
+qu’ils (elles) aient mouché
+
+** Plus-que-parfait
+
+que j'eusse mouché
+que tu eusses mouché
+qu’il (elle) eût mouché
+que nous eussions mouché
+que vous eussiez mouché
+qu’ils (elles) eussent mouché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mouché
+ayez mouché
+
+* INFINITIF
+
+** Passé
+
+avoir mouché
+
+* PARTICIPE
+
+** Passé
+
+ayant mouché
+mouché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mouché(e)
+tu es mouché(e)
+il (elle) est mouché(e)
+nous sommes mouché(e)s
+vous êtes mouché(e)s
+ils (elles) sont mouché(e)s
+
+** Imparfait
+
+j'étais mouché(e)
+tu étais mouché(e)
+il (elle) était mouché(e)
+nous étions mouché(e)s
+vous étiez mouché(e)s
+ils (elles) étaient mouché(e)s
+
+** Passé simple
+
+je fus mouché(e)
+tu fus mouché(e)
+il (elle) fut mouché(e)
+nous fûmes mouché(e)s
+vous fûtes mouché(e)s
+ils (elles) furent mouché(e)s
+
+** Futur simple
+
+je serai mouché(e)
+tu seras mouché(e)
+il (elle) sera mouché(e)
+nous serons mouché(e)s
+vous serez mouché(e)s
+ils (elles) seront mouché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mouché(e)
+tu serais mouché(e)
+il (elle) serait mouché(e)
+nous serions mouché(e)s
+vous seriez mouché(e)s
+ils (elles) seraient mouché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mouché(e)
+que tu sois mouché(e)
+qu’il (elle) soit mouché(e)
+que nous soyons mouché(e)s
+que vous soyez mouché(e)s
+qu’ils (elles) soient mouché(e)s
+
+** Imparfait
+
+que je fusse mouché(e)
+que tu fusses mouché(e)
+qu’il (elle) fût mouché(e)
+que nous fussions mouché(e)s
+que vous fussiez mouché(e)s
+qu’ils (elles) fussent mouché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mouché(e)s
+soyez mouché(e)s
+
+* INFINITIF
+
+** Présent
+
+être mouché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mouché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mouché(e)
+tu as été mouché(e)
+il (elle) a été mouché(e)
+nous avons été mouché(e)s
+vous avez été mouché(e)s
+ils (elles) ont été mouché(e)s
+
+** Plus-que-parfait
+
+j'avais été mouché(e)
+il (elle) avait été mouché(e)
+nous avions été mouché(e)s
+ils (elles) avaient été mouché(e)s
+
+** Passé antérieur
+
+j'eus été mouché(e)
+tu eus été mouché(e)
+il (elle) eut été mouché(e)
+nous eûmes été mouché(e)s
+vous eûtes été mouché(e)s
+ils (elles) eurent été mouché(e)s
+
+** Futur antérieur
+
+j'aurai été mouché(e)
+tu auras été mouché(e)
+il (elle) aura été mouché(e)
+nous aurons été mouché(e)s
+vous aurez été mouché(e)s
+ils (elles) auront été mouché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mouché(e)
+j'aurais été mouché(e)
+il (elle) aurait été mouché(e)
+nous aurions été mouché(e)s
+vous auriez été mouché(e)s
+ils (elles) auraient été mouché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mouché(e)
+que tu aies été mouché(e)
+qu’il (elle) ait été mouché(e)
+que nous ayons été mouché(e)s
+que vous ayez été mouché(e)s
+qu’ils (elles) aient été mouché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mouché(e)
+que tu eusses été mouché(e)
+qu’il (elle) eût été mouché(e)
+que nous eussions été mouché(e)s
+que vous eussiez été mouché(e)s
+qu’ils (elles) eussent été mouché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mouché(e)
+ayons été mouché(e)s
+ayez été mouché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mouché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mouché(e)(s)

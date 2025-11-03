@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe departir
+
+* INDICATIF
+
+** Présent
+
+je dépars
+tu dépars
+il (elle) départ
+nous départons
+vous départez
+ils (elles) départent
+
+** Imparfait
+
+je départais
+tu départais
+il (elle) départait
+nous départions
+vous départiez
+ils (elles) départaient
+
+** Passé simple
+
+je départis
+tu départis
+il (elle) départit
+nous départîmes
+vous départîtes
+ils (elles) départirent
+
+** Futur simple
+
+je départirai
+tu départiras
+il (elle) départira
+nous départirons
+vous départirez
+ils (elles) départiront
+
+* CONDITIONNEL
+
+** Présent
+
+je départirais
+tu départirais
+il (elle) départirait
+nous départirions
+vous départiriez
+ils (elles) départiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je départe
+que tu départes
+qu’il (elle) départe
+que nous départions
+que vous départiez
+qu’ils (elles) départent
+
+** Imparfait
+
+que je départisse
+que tu départisses
+qu’il (elle) départît
+que nous départissions
+que vous départissiez
+qu’ils (elles) départissent
+
+* IMPÉRATIF
+
+** Présent
+
+dépars
+départons
+départez
+
+* INFINITIF
+
+** Présent
+
+départir
+
+* PARTICIPE
+
+** Présent
+
+départant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai départi
+tu as départi
+il (elle) a départi
+nous avons départi
+vous avez départi
+ils (elles) ont départi
+
+** Plus-que-parfait
+
+j'avais départi
+tu avais départi
+il (elle) avait départi
+nous avions départi
+vous aviez départi
+ils (elles) avaient départi
+
+** Passé antérieur
+
+j'eus départi
+tu eus départi
+il (elle) eut départi
+nous eûmes départi
+vous eûtes départi
+ils (elles) eurent départi
+
+** Futur antérieur
+
+j'aurai départi
+tu auras départi
+il (elle) aura départi
+nous aurons départi
+vous aurez départi
+ils (elles) auront départi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais départi
+tu aurais départi
+il (elle) aurait départi
+nous aurions départi
+vous auriez départi
+ils (elles) auraient départi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie départi
+que tu aies départi
+qu’il (elle) ait départi
+que nous ayons départi
+que vous ayez départi
+qu’ils (elles) aient départi
+
+** Plus-que-parfait
+
+que j'eusse départi
+que tu eusses départi
+qu’il (elle) eût départi
+que nous eussions départi
+que vous eussiez départi
+qu’ils (elles) eussent départi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons départi
+ayez départi
+
+* INFINITIF
+
+** Passé
+
+avoir départi
+
+* PARTICIPE
+
+** Passé
+
+ayant départi
+départi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis départi(e)
+tu es départi(e)
+il (elle) est départi(e)
+nous sommes départi(e)s
+vous êtes départi(e)s
+ils (elles) sont départi(e)s
+
+** Imparfait
+
+j'étais départi(e)
+tu étais départi(e)
+il (elle) était départi(e)
+nous étions départi(e)s
+vous étiez départi(e)s
+ils (elles) étaient départi(e)s
+
+** Passé simple
+
+je fus départi(e)
+tu fus départi(e)
+il (elle) fut départi(e)
+nous fûmes départi(e)s
+vous fûtes départi(e)s
+ils (elles) furent départi(e)s
+
+** Futur simple
+
+je serai départi(e)
+tu seras départi(e)
+il (elle) sera départi(e)
+nous serons départi(e)s
+vous serez départi(e)s
+ils (elles) seront départi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais départi(e)
+tu serais départi(e)
+il (elle) serait départi(e)
+nous serions départi(e)s
+vous seriez départi(e)s
+ils (elles) seraient départi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois départi(e)
+que tu sois départi(e)
+qu’il (elle) soit départi(e)
+que nous soyons départi(e)s
+que vous soyez départi(e)s
+qu’ils (elles) soient départi(e)s
+
+** Imparfait
+
+que je fusse départi(e)
+que tu fusses départi(e)
+qu’il (elle) fût départi(e)
+que nous fussions départi(e)s
+que vous fussiez départi(e)s
+qu’ils (elles) fussent départi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons départi(e)s
+soyez départi(e)s
+
+* INFINITIF
+
+** Présent
+
+être départi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant départi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été départi(e)
+tu as été départi(e)
+il (elle) a été départi(e)
+nous avons été départi(e)s
+vous avez été départi(e)s
+ils (elles) ont été départi(e)s
+
+** Plus-que-parfait
+
+j'avais été départi(e)
+il (elle) avait été départi(e)
+nous avions été départi(e)s
+ils (elles) avaient été départi(e)s
+
+** Passé antérieur
+
+j'eus été départi(e)
+tu eus été départi(e)
+il (elle) eut été départi(e)
+nous eûmes été départi(e)s
+vous eûtes été départi(e)s
+ils (elles) eurent été départi(e)s
+
+** Futur antérieur
+
+j'aurai été départi(e)
+tu auras été départi(e)
+il (elle) aura été départi(e)
+nous aurons été départi(e)s
+vous aurez été départi(e)s
+ils (elles) auront été départi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été départi(e)
+j'aurais été départi(e)
+il (elle) aurait été départi(e)
+nous aurions été départi(e)s
+vous auriez été départi(e)s
+ils (elles) auraient été départi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été départi(e)
+que tu aies été départi(e)
+qu’il (elle) ait été départi(e)
+que nous ayons été départi(e)s
+que vous ayez été départi(e)s
+qu’ils (elles) aient été départi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été départi(e)
+que tu eusses été départi(e)
+qu’il (elle) eût été départi(e)
+que nous eussions été départi(e)s
+que vous eussiez été départi(e)s
+qu’ils (elles) eussent été départi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été départi(e)
+ayons été départi(e)s
+ayez été départi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été départi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été départi(e)(s)

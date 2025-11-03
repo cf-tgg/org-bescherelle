@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe comporter
+
+* INDICATIF
+
+** Présent
+
+je comporte
+tu comportes
+il (elle) comporte
+nous comportons
+vous comportez
+ils (elles) comportent
+
+** Imparfait
+
+je comportais
+tu comportais
+il (elle) comportait
+nous comportions
+vous comportiez
+ils (elles) comportaient
+
+** Passé simple
+
+je comportai
+tu comportas
+il (elle) comporta
+nous comportâmes
+vous comportâtes
+ils (elles) comportèrent
+
+** Futur simple
+
+je comporterai
+tu comporteras
+il (elle) comportera
+nous comporterons
+vous comporterez
+ils (elles) comporteront
+
+* CONDITIONNEL
+
+** Présent
+
+je comporterais
+tu comporterais
+il (elle) comporterait
+nous comporterions
+vous comporteriez
+ils (elles) comporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je comporte
+que tu comportes
+qu’il (elle) comporte
+que nous comportions
+que vous comportiez
+qu’ils (elles) comportent
+
+** Imparfait
+
+que je comportasse
+que tu comportasses
+qu’il (elle) comportât
+que nous comportassions
+que vous comportassiez
+qu’ils (elles) comportassent
+
+* IMPÉRATIF
+
+** Présent
+
+comporte
+comportons
+comportez
+
+* INFINITIF
+
+** Présent
+
+comporter
+
+* PARTICIPE
+
+** Présent
+
+comportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai comporté
+tu as comporté
+il (elle) a comporté
+nous avons comporté
+vous avez comporté
+ils (elles) ont comporté
+
+** Plus-que-parfait
+
+j'avais comporté
+tu avais comporté
+il (elle) avait comporté
+nous avions comporté
+vous aviez comporté
+ils (elles) avaient comporté
+
+** Passé antérieur
+
+j'eus comporté
+tu eus comporté
+il (elle) eut comporté
+nous eûmes comporté
+vous eûtes comporté
+ils (elles) eurent comporté
+
+** Futur antérieur
+
+j'aurai comporté
+tu auras comporté
+il (elle) aura comporté
+nous aurons comporté
+vous aurez comporté
+ils (elles) auront comporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais comporté
+tu aurais comporté
+il (elle) aurait comporté
+nous aurions comporté
+vous auriez comporté
+ils (elles) auraient comporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie comporté
+que tu aies comporté
+qu’il (elle) ait comporté
+que nous ayons comporté
+que vous ayez comporté
+qu’ils (elles) aient comporté
+
+** Plus-que-parfait
+
+que j'eusse comporté
+que tu eusses comporté
+qu’il (elle) eût comporté
+que nous eussions comporté
+que vous eussiez comporté
+qu’ils (elles) eussent comporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons comporté
+ayez comporté
+
+* INFINITIF
+
+** Passé
+
+avoir comporté
+
+* PARTICIPE
+
+** Passé
+
+ayant comporté
+comporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis comporté(e)
+tu es comporté(e)
+il (elle) est comporté(e)
+nous sommes comporté(e)s
+vous êtes comporté(e)s
+ils (elles) sont comporté(e)s
+
+** Imparfait
+
+j'étais comporté(e)
+tu étais comporté(e)
+il (elle) était comporté(e)
+nous étions comporté(e)s
+vous étiez comporté(e)s
+ils (elles) étaient comporté(e)s
+
+** Passé simple
+
+je fus comporté(e)
+tu fus comporté(e)
+il (elle) fut comporté(e)
+nous fûmes comporté(e)s
+vous fûtes comporté(e)s
+ils (elles) furent comporté(e)s
+
+** Futur simple
+
+je serai comporté(e)
+tu seras comporté(e)
+il (elle) sera comporté(e)
+nous serons comporté(e)s
+vous serez comporté(e)s
+ils (elles) seront comporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais comporté(e)
+tu serais comporté(e)
+il (elle) serait comporté(e)
+nous serions comporté(e)s
+vous seriez comporté(e)s
+ils (elles) seraient comporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois comporté(e)
+que tu sois comporté(e)
+qu’il (elle) soit comporté(e)
+que nous soyons comporté(e)s
+que vous soyez comporté(e)s
+qu’ils (elles) soient comporté(e)s
+
+** Imparfait
+
+que je fusse comporté(e)
+que tu fusses comporté(e)
+qu’il (elle) fût comporté(e)
+que nous fussions comporté(e)s
+que vous fussiez comporté(e)s
+qu’ils (elles) fussent comporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons comporté(e)s
+soyez comporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être comporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant comporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été comporté(e)
+tu as été comporté(e)
+il (elle) a été comporté(e)
+nous avons été comporté(e)s
+vous avez été comporté(e)s
+ils (elles) ont été comporté(e)s
+
+** Plus-que-parfait
+
+j'avais été comporté(e)
+il (elle) avait été comporté(e)
+nous avions été comporté(e)s
+ils (elles) avaient été comporté(e)s
+
+** Passé antérieur
+
+j'eus été comporté(e)
+tu eus été comporté(e)
+il (elle) eut été comporté(e)
+nous eûmes été comporté(e)s
+vous eûtes été comporté(e)s
+ils (elles) eurent été comporté(e)s
+
+** Futur antérieur
+
+j'aurai été comporté(e)
+tu auras été comporté(e)
+il (elle) aura été comporté(e)
+nous aurons été comporté(e)s
+vous aurez été comporté(e)s
+ils (elles) auront été comporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été comporté(e)
+j'aurais été comporté(e)
+il (elle) aurait été comporté(e)
+nous aurions été comporté(e)s
+vous auriez été comporté(e)s
+ils (elles) auraient été comporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été comporté(e)
+que tu aies été comporté(e)
+qu’il (elle) ait été comporté(e)
+que nous ayons été comporté(e)s
+que vous ayez été comporté(e)s
+qu’ils (elles) aient été comporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été comporté(e)
+que tu eusses été comporté(e)
+qu’il (elle) eût été comporté(e)
+que nous eussions été comporté(e)s
+que vous eussiez été comporté(e)s
+qu’ils (elles) eussent été comporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été comporté(e)
+ayons été comporté(e)s
+ayez été comporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été comporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été comporté(e)(s)

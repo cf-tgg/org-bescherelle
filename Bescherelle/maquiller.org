@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe maquiller
+
+* INDICATIF
+
+** Présent
+
+je maquille
+tu maquilles
+il (elle) maquille
+nous maquillons
+vous maquillez
+ils (elles) maquillent
+
+** Imparfait
+
+je maquillais
+tu maquillais
+il (elle) maquillait
+nous maquillions
+vous maquilliez
+ils (elles) maquillaient
+
+** Passé simple
+
+je maquillai
+tu maquillas
+il (elle) maquilla
+nous maquillâmes
+vous maquillâtes
+ils (elles) maquillèrent
+
+** Futur simple
+
+je maquillerai
+tu maquilleras
+il (elle) maquillera
+nous maquillerons
+vous maquillerez
+ils (elles) maquilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je maquillerais
+tu maquillerais
+il (elle) maquillerait
+nous maquillerions
+vous maquilleriez
+ils (elles) maquilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je maquille
+que tu maquilles
+qu’il (elle) maquille
+que nous maquillions
+que vous maquilliez
+qu’ils (elles) maquillent
+
+** Imparfait
+
+que je maquillasse
+que tu maquillasses
+qu’il (elle) maquillât
+que nous maquillassions
+que vous maquillassiez
+qu’ils (elles) maquillassent
+
+* IMPÉRATIF
+
+** Présent
+
+maquille
+maquillons
+maquillez
+
+* INFINITIF
+
+** Présent
+
+maquiller
+
+* PARTICIPE
+
+** Présent
+
+maquillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai maquillé
+tu as maquillé
+il (elle) a maquillé
+nous avons maquillé
+vous avez maquillé
+ils (elles) ont maquillé
+
+** Plus-que-parfait
+
+j'avais maquillé
+tu avais maquillé
+il (elle) avait maquillé
+nous avions maquillé
+vous aviez maquillé
+ils (elles) avaient maquillé
+
+** Passé antérieur
+
+j'eus maquillé
+tu eus maquillé
+il (elle) eut maquillé
+nous eûmes maquillé
+vous eûtes maquillé
+ils (elles) eurent maquillé
+
+** Futur antérieur
+
+j'aurai maquillé
+tu auras maquillé
+il (elle) aura maquillé
+nous aurons maquillé
+vous aurez maquillé
+ils (elles) auront maquillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais maquillé
+tu aurais maquillé
+il (elle) aurait maquillé
+nous aurions maquillé
+vous auriez maquillé
+ils (elles) auraient maquillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie maquillé
+que tu aies maquillé
+qu’il (elle) ait maquillé
+que nous ayons maquillé
+que vous ayez maquillé
+qu’ils (elles) aient maquillé
+
+** Plus-que-parfait
+
+que j'eusse maquillé
+que tu eusses maquillé
+qu’il (elle) eût maquillé
+que nous eussions maquillé
+que vous eussiez maquillé
+qu’ils (elles) eussent maquillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons maquillé
+ayez maquillé
+
+* INFINITIF
+
+** Passé
+
+avoir maquillé
+
+* PARTICIPE
+
+** Passé
+
+ayant maquillé
+maquillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis maquillé(e)
+tu es maquillé(e)
+il (elle) est maquillé(e)
+nous sommes maquillé(e)s
+vous êtes maquillé(e)s
+ils (elles) sont maquillé(e)s
+
+** Imparfait
+
+j'étais maquillé(e)
+tu étais maquillé(e)
+il (elle) était maquillé(e)
+nous étions maquillé(e)s
+vous étiez maquillé(e)s
+ils (elles) étaient maquillé(e)s
+
+** Passé simple
+
+je fus maquillé(e)
+tu fus maquillé(e)
+il (elle) fut maquillé(e)
+nous fûmes maquillé(e)s
+vous fûtes maquillé(e)s
+ils (elles) furent maquillé(e)s
+
+** Futur simple
+
+je serai maquillé(e)
+tu seras maquillé(e)
+il (elle) sera maquillé(e)
+nous serons maquillé(e)s
+vous serez maquillé(e)s
+ils (elles) seront maquillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais maquillé(e)
+tu serais maquillé(e)
+il (elle) serait maquillé(e)
+nous serions maquillé(e)s
+vous seriez maquillé(e)s
+ils (elles) seraient maquillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois maquillé(e)
+que tu sois maquillé(e)
+qu’il (elle) soit maquillé(e)
+que nous soyons maquillé(e)s
+que vous soyez maquillé(e)s
+qu’ils (elles) soient maquillé(e)s
+
+** Imparfait
+
+que je fusse maquillé(e)
+que tu fusses maquillé(e)
+qu’il (elle) fût maquillé(e)
+que nous fussions maquillé(e)s
+que vous fussiez maquillé(e)s
+qu’ils (elles) fussent maquillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons maquillé(e)s
+soyez maquillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être maquillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant maquillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été maquillé(e)
+tu as été maquillé(e)
+il (elle) a été maquillé(e)
+nous avons été maquillé(e)s
+vous avez été maquillé(e)s
+ils (elles) ont été maquillé(e)s
+
+** Plus-que-parfait
+
+j'avais été maquillé(e)
+il (elle) avait été maquillé(e)
+nous avions été maquillé(e)s
+ils (elles) avaient été maquillé(e)s
+
+** Passé antérieur
+
+j'eus été maquillé(e)
+tu eus été maquillé(e)
+il (elle) eut été maquillé(e)
+nous eûmes été maquillé(e)s
+vous eûtes été maquillé(e)s
+ils (elles) eurent été maquillé(e)s
+
+** Futur antérieur
+
+j'aurai été maquillé(e)
+tu auras été maquillé(e)
+il (elle) aura été maquillé(e)
+nous aurons été maquillé(e)s
+vous aurez été maquillé(e)s
+ils (elles) auront été maquillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été maquillé(e)
+j'aurais été maquillé(e)
+il (elle) aurait été maquillé(e)
+nous aurions été maquillé(e)s
+vous auriez été maquillé(e)s
+ils (elles) auraient été maquillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été maquillé(e)
+que tu aies été maquillé(e)
+qu’il (elle) ait été maquillé(e)
+que nous ayons été maquillé(e)s
+que vous ayez été maquillé(e)s
+qu’ils (elles) aient été maquillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été maquillé(e)
+que tu eusses été maquillé(e)
+qu’il (elle) eût été maquillé(e)
+que nous eussions été maquillé(e)s
+que vous eussiez été maquillé(e)s
+qu’ils (elles) eussent été maquillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été maquillé(e)
+ayons été maquillé(e)s
+ayez été maquillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été maquillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été maquillé(e)(s)

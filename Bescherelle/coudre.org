@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe coudre
+
+* INDICATIF
+
+** Présent
+
+je couds
+tu couds
+il (elle) coud
+nous cousons
+vous cousez
+ils (elles) cousent
+
+** Imparfait
+
+je cousais
+tu cousais
+il (elle) cousait
+nous cousions
+vous cousiez
+ils (elles) cousaient
+
+** Passé simple
+
+je cousis
+tu cousis
+il (elle) cousit
+nous cousîmes
+vous cousîtes
+ils (elles) cousirent
+
+** Futur simple
+
+je coudrai
+tu coudras
+il (elle) coudra
+nous coudrons
+vous coudrez
+ils (elles) coudront
+
+* CONDITIONNEL
+
+** Présent
+
+je coudrais
+tu coudrais
+il (elle) coudrait
+nous coudrions
+vous coudriez
+ils (elles) coudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je couse
+que tu couses
+qu’il (elle) couse
+que nous cousions
+que vous cousiez
+qu’ils (elles) cousent
+
+** Imparfait
+
+que je cousisse
+que tu cousisses
+qu’il (elle) cousît
+que nous cousissions
+que vous cousissiez
+qu’ils (elles) cousissent
+
+* IMPÉRATIF
+
+** Présent
+
+couds
+cousons
+cousez
+
+* INFINITIF
+
+** Présent
+
+coudre
+
+* PARTICIPE
+
+** Présent
+
+cousant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cousu
+tu as cousu
+il (elle) a cousu
+nous avons cousu
+vous avez cousu
+ils (elles) ont cousu
+
+** Plus-que-parfait
+
+j'avais cousu
+tu avais cousu
+il (elle) avait cousu
+nous avions cousu
+vous aviez cousu
+ils (elles) avaient cousu
+
+** Passé antérieur
+
+j'eus cousu
+tu eus cousu
+il (elle) eut cousu
+nous eûmes cousu
+vous eûtes cousu
+ils (elles) eurent cousu
+
+** Futur antérieur
+
+j'aurai cousu
+tu auras cousu
+il (elle) aura cousu
+nous aurons cousu
+vous aurez cousu
+ils (elles) auront cousu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cousu
+tu aurais cousu
+il (elle) aurait cousu
+nous aurions cousu
+vous auriez cousu
+ils (elles) auraient cousu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cousu
+que tu aies cousu
+qu’il (elle) ait cousu
+que nous ayons cousu
+que vous ayez cousu
+qu’ils (elles) aient cousu
+
+** Plus-que-parfait
+
+que j'eusse cousu
+que tu eusses cousu
+qu’il (elle) eût cousu
+que nous eussions cousu
+que vous eussiez cousu
+qu’ils (elles) eussent cousu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cousu
+ayez cousu
+
+* INFINITIF
+
+** Passé
+
+avoir cousu
+
+* PARTICIPE
+
+** Passé
+
+ayant cousu
+cousu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis cousu(e)
+tu es cousu(e)
+il (elle) est cousu(e)
+nous sommes cousu(e)s
+vous êtes cousu(e)s
+ils (elles) sont cousu(e)s
+
+** Imparfait
+
+j'étais cousu(e)
+tu étais cousu(e)
+il (elle) était cousu(e)
+nous étions cousu(e)s
+vous étiez cousu(e)s
+ils (elles) étaient cousu(e)s
+
+** Passé simple
+
+je fus cousu(e)
+tu fus cousu(e)
+il (elle) fut cousu(e)
+nous fûmes cousu(e)s
+vous fûtes cousu(e)s
+ils (elles) furent cousu(e)s
+
+** Futur simple
+
+je serai cousu(e)
+tu seras cousu(e)
+il (elle) sera cousu(e)
+nous serons cousu(e)s
+vous serez cousu(e)s
+ils (elles) seront cousu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cousu(e)
+tu serais cousu(e)
+il (elle) serait cousu(e)
+nous serions cousu(e)s
+vous seriez cousu(e)s
+ils (elles) seraient cousu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cousu(e)
+que tu sois cousu(e)
+qu’il (elle) soit cousu(e)
+que nous soyons cousu(e)s
+que vous soyez cousu(e)s
+qu’ils (elles) soient cousu(e)s
+
+** Imparfait
+
+que je fusse cousu(e)
+que tu fusses cousu(e)
+qu’il (elle) fût cousu(e)
+que nous fussions cousu(e)s
+que vous fussiez cousu(e)s
+qu’ils (elles) fussent cousu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cousu(e)s
+soyez cousu(e)s
+
+* INFINITIF
+
+** Présent
+
+être cousu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cousu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cousu(e)
+tu as été cousu(e)
+il (elle) a été cousu(e)
+nous avons été cousu(e)s
+vous avez été cousu(e)s
+ils (elles) ont été cousu(e)s
+
+** Plus-que-parfait
+
+j'avais été cousu(e)
+il (elle) avait été cousu(e)
+nous avions été cousu(e)s
+ils (elles) avaient été cousu(e)s
+
+** Passé antérieur
+
+j'eus été cousu(e)
+tu eus été cousu(e)
+il (elle) eut été cousu(e)
+nous eûmes été cousu(e)s
+vous eûtes été cousu(e)s
+ils (elles) eurent été cousu(e)s
+
+** Futur antérieur
+
+j'aurai été cousu(e)
+tu auras été cousu(e)
+il (elle) aura été cousu(e)
+nous aurons été cousu(e)s
+vous aurez été cousu(e)s
+ils (elles) auront été cousu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cousu(e)
+j'aurais été cousu(e)
+il (elle) aurait été cousu(e)
+nous aurions été cousu(e)s
+vous auriez été cousu(e)s
+ils (elles) auraient été cousu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cousu(e)
+que tu aies été cousu(e)
+qu’il (elle) ait été cousu(e)
+que nous ayons été cousu(e)s
+que vous ayez été cousu(e)s
+qu’ils (elles) aient été cousu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cousu(e)
+que tu eusses été cousu(e)
+qu’il (elle) eût été cousu(e)
+que nous eussions été cousu(e)s
+que vous eussiez été cousu(e)s
+qu’ils (elles) eussent été cousu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cousu(e)
+ayons été cousu(e)s
+ayez été cousu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cousu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cousu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enseigner
+
+* INDICATIF
+
+** Présent
+
+j'enseigne
+tu enseignes
+il (elle) enseigne
+nous enseignons
+vous enseignez
+ils (elles) enseignent
+
+** Imparfait
+
+j'enseignais
+tu enseignais
+il (elle) enseignait
+nous enseignions
+vous enseigniez
+ils (elles) enseignaient
+
+** Passé simple
+
+j'enseignai
+tu enseignas
+il (elle) enseigna
+nous enseignâmes
+vous enseignâtes
+ils (elles) enseignèrent
+
+** Futur simple
+
+j'enseignerai
+tu enseigneras
+il (elle) enseignera
+nous enseignerons
+vous enseignerez
+ils (elles) enseigneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enseignerais
+tu enseignerais
+il (elle) enseignerait
+nous enseignerions
+vous enseigneriez
+ils (elles) enseigneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enseigne
+que tu enseignes
+qu’il (elle) enseigne
+que nous enseignions
+que vous enseigniez
+qu’ils (elles) enseignent
+
+** Imparfait
+
+que j'enseignasse
+que tu enseignasses
+qu’il (elle) enseignât
+que nous enseignassions
+que vous enseignassiez
+qu’ils (elles) enseignassent
+
+* IMPÉRATIF
+
+** Présent
+
+enseigne
+enseignons
+enseignez
+
+* INFINITIF
+
+** Présent
+
+enseigner
+
+* PARTICIPE
+
+** Présent
+
+enseignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enseigné
+tu as enseigné
+il (elle) a enseigné
+nous avons enseigné
+vous avez enseigné
+ils (elles) ont enseigné
+
+** Plus-que-parfait
+
+j'avais enseigné
+tu avais enseigné
+il (elle) avait enseigné
+nous avions enseigné
+vous aviez enseigné
+ils (elles) avaient enseigné
+
+** Passé antérieur
+
+j'eus enseigné
+tu eus enseigné
+il (elle) eut enseigné
+nous eûmes enseigné
+vous eûtes enseigné
+ils (elles) eurent enseigné
+
+** Futur antérieur
+
+j'aurai enseigné
+tu auras enseigné
+il (elle) aura enseigné
+nous aurons enseigné
+vous aurez enseigné
+ils (elles) auront enseigné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enseigné
+tu aurais enseigné
+il (elle) aurait enseigné
+nous aurions enseigné
+vous auriez enseigné
+ils (elles) auraient enseigné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enseigné
+que tu aies enseigné
+qu’il (elle) ait enseigné
+que nous ayons enseigné
+que vous ayez enseigné
+qu’ils (elles) aient enseigné
+
+** Plus-que-parfait
+
+que j'eusse enseigné
+que tu eusses enseigné
+qu’il (elle) eût enseigné
+que nous eussions enseigné
+que vous eussiez enseigné
+qu’ils (elles) eussent enseigné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enseigné
+ayez enseigné
+
+* INFINITIF
+
+** Passé
+
+avoir enseigné
+
+* PARTICIPE
+
+** Passé
+
+ayant enseigné
+enseigné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enseigné(e)
+tu es enseigné(e)
+il (elle) est enseigné(e)
+nous sommes enseigné(e)s
+vous êtes enseigné(e)s
+ils (elles) sont enseigné(e)s
+
+** Imparfait
+
+j'étais enseigné(e)
+tu étais enseigné(e)
+il (elle) était enseigné(e)
+nous étions enseigné(e)s
+vous étiez enseigné(e)s
+ils (elles) étaient enseigné(e)s
+
+** Passé simple
+
+je fus enseigné(e)
+tu fus enseigné(e)
+il (elle) fut enseigné(e)
+nous fûmes enseigné(e)s
+vous fûtes enseigné(e)s
+ils (elles) furent enseigné(e)s
+
+** Futur simple
+
+je serai enseigné(e)
+tu seras enseigné(e)
+il (elle) sera enseigné(e)
+nous serons enseigné(e)s
+vous serez enseigné(e)s
+ils (elles) seront enseigné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enseigné(e)
+tu serais enseigné(e)
+il (elle) serait enseigné(e)
+nous serions enseigné(e)s
+vous seriez enseigné(e)s
+ils (elles) seraient enseigné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enseigné(e)
+que tu sois enseigné(e)
+qu’il (elle) soit enseigné(e)
+que nous soyons enseigné(e)s
+que vous soyez enseigné(e)s
+qu’ils (elles) soient enseigné(e)s
+
+** Imparfait
+
+que je fusse enseigné(e)
+que tu fusses enseigné(e)
+qu’il (elle) fût enseigné(e)
+que nous fussions enseigné(e)s
+que vous fussiez enseigné(e)s
+qu’ils (elles) fussent enseigné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enseigné(e)s
+soyez enseigné(e)s
+
+* INFINITIF
+
+** Présent
+
+être enseigné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enseigné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enseigné(e)
+tu as été enseigné(e)
+il (elle) a été enseigné(e)
+nous avons été enseigné(e)s
+vous avez été enseigné(e)s
+ils (elles) ont été enseigné(e)s
+
+** Plus-que-parfait
+
+j'avais été enseigné(e)
+il (elle) avait été enseigné(e)
+nous avions été enseigné(e)s
+ils (elles) avaient été enseigné(e)s
+
+** Passé antérieur
+
+j'eus été enseigné(e)
+tu eus été enseigné(e)
+il (elle) eut été enseigné(e)
+nous eûmes été enseigné(e)s
+vous eûtes été enseigné(e)s
+ils (elles) eurent été enseigné(e)s
+
+** Futur antérieur
+
+j'aurai été enseigné(e)
+tu auras été enseigné(e)
+il (elle) aura été enseigné(e)
+nous aurons été enseigné(e)s
+vous aurez été enseigné(e)s
+ils (elles) auront été enseigné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enseigné(e)
+j'aurais été enseigné(e)
+il (elle) aurait été enseigné(e)
+nous aurions été enseigné(e)s
+vous auriez été enseigné(e)s
+ils (elles) auraient été enseigné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enseigné(e)
+que tu aies été enseigné(e)
+qu’il (elle) ait été enseigné(e)
+que nous ayons été enseigné(e)s
+que vous ayez été enseigné(e)s
+qu’ils (elles) aient été enseigné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enseigné(e)
+que tu eusses été enseigné(e)
+qu’il (elle) eût été enseigné(e)
+que nous eussions été enseigné(e)s
+que vous eussiez été enseigné(e)s
+qu’ils (elles) eussent été enseigné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enseigné(e)
+ayons été enseigné(e)s
+ayez été enseigné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enseigné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enseigné(e)(s)

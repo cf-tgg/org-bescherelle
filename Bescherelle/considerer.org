@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe considerer
+
+* INDICATIF
+
+** Présent
+
+je considère
+tu considères
+il (elle) considère
+nous considérons
+vous considérez
+ils (elles) considèrent
+
+** Imparfait
+
+je considérais
+tu considérais
+il (elle) considérait
+nous considérions
+vous considériez
+ils (elles) considéraient
+
+** Passé simple
+
+je considérai
+tu considéras
+il (elle) considéra
+nous considérâmes
+vous considérâtes
+ils (elles) considérèrent
+
+** Futur simple
+
+je considérerai
+tu considéreras
+il (elle) considérera
+nous considérerons
+vous considérerez
+ils (elles) considéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je considérerais
+tu considérerais
+il (elle) considérerait
+nous considérerions
+vous considéreriez
+ils (elles) considéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je considère
+que tu considères
+qu’il (elle) considère
+que nous considérions
+que vous considériez
+qu’ils (elles) considèrent
+
+** Imparfait
+
+que je considérasse
+que tu considérasses
+qu’il (elle) considérât
+que nous considérassions
+que vous considérassiez
+qu’ils (elles) considérassent
+
+* IMPÉRATIF
+
+** Présent
+
+considère
+considérons
+considérez
+
+* INFINITIF
+
+** Présent
+
+considérer
+
+* PARTICIPE
+
+** Présent
+
+considérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai considéré
+tu as considéré
+il (elle) a considéré
+nous avons considéré
+vous avez considéré
+ils (elles) ont considéré
+
+** Plus-que-parfait
+
+j'avais considéré
+tu avais considéré
+il (elle) avait considéré
+nous avions considéré
+vous aviez considéré
+ils (elles) avaient considéré
+
+** Passé antérieur
+
+j'eus considéré
+tu eus considéré
+il (elle) eut considéré
+nous eûmes considéré
+vous eûtes considéré
+ils (elles) eurent considéré
+
+** Futur antérieur
+
+j'aurai considéré
+tu auras considéré
+il (elle) aura considéré
+nous aurons considéré
+vous aurez considéré
+ils (elles) auront considéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais considéré
+tu aurais considéré
+il (elle) aurait considéré
+nous aurions considéré
+vous auriez considéré
+ils (elles) auraient considéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie considéré
+que tu aies considéré
+qu’il (elle) ait considéré
+que nous ayons considéré
+que vous ayez considéré
+qu’ils (elles) aient considéré
+
+** Plus-que-parfait
+
+que j'eusse considéré
+que tu eusses considéré
+qu’il (elle) eût considéré
+que nous eussions considéré
+que vous eussiez considéré
+qu’ils (elles) eussent considéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons considéré
+ayez considéré
+
+* INFINITIF
+
+** Passé
+
+avoir considéré
+
+* PARTICIPE
+
+** Passé
+
+ayant considéré
+considéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis considéré(e)
+tu es considéré(e)
+il (elle) est considéré(e)
+nous sommes considéré(e)s
+vous êtes considéré(e)s
+ils (elles) sont considéré(e)s
+
+** Imparfait
+
+j'étais considéré(e)
+tu étais considéré(e)
+il (elle) était considéré(e)
+nous étions considéré(e)s
+vous étiez considéré(e)s
+ils (elles) étaient considéré(e)s
+
+** Passé simple
+
+je fus considéré(e)
+tu fus considéré(e)
+il (elle) fut considéré(e)
+nous fûmes considéré(e)s
+vous fûtes considéré(e)s
+ils (elles) furent considéré(e)s
+
+** Futur simple
+
+je serai considéré(e)
+tu seras considéré(e)
+il (elle) sera considéré(e)
+nous serons considéré(e)s
+vous serez considéré(e)s
+ils (elles) seront considéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais considéré(e)
+tu serais considéré(e)
+il (elle) serait considéré(e)
+nous serions considéré(e)s
+vous seriez considéré(e)s
+ils (elles) seraient considéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois considéré(e)
+que tu sois considéré(e)
+qu’il (elle) soit considéré(e)
+que nous soyons considéré(e)s
+que vous soyez considéré(e)s
+qu’ils (elles) soient considéré(e)s
+
+** Imparfait
+
+que je fusse considéré(e)
+que tu fusses considéré(e)
+qu’il (elle) fût considéré(e)
+que nous fussions considéré(e)s
+que vous fussiez considéré(e)s
+qu’ils (elles) fussent considéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons considéré(e)s
+soyez considéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être considéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant considéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été considéré(e)
+tu as été considéré(e)
+il (elle) a été considéré(e)
+nous avons été considéré(e)s
+vous avez été considéré(e)s
+ils (elles) ont été considéré(e)s
+
+** Plus-que-parfait
+
+j'avais été considéré(e)
+il (elle) avait été considéré(e)
+nous avions été considéré(e)s
+ils (elles) avaient été considéré(e)s
+
+** Passé antérieur
+
+j'eus été considéré(e)
+tu eus été considéré(e)
+il (elle) eut été considéré(e)
+nous eûmes été considéré(e)s
+vous eûtes été considéré(e)s
+ils (elles) eurent été considéré(e)s
+
+** Futur antérieur
+
+j'aurai été considéré(e)
+tu auras été considéré(e)
+il (elle) aura été considéré(e)
+nous aurons été considéré(e)s
+vous aurez été considéré(e)s
+ils (elles) auront été considéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été considéré(e)
+j'aurais été considéré(e)
+il (elle) aurait été considéré(e)
+nous aurions été considéré(e)s
+vous auriez été considéré(e)s
+ils (elles) auraient été considéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été considéré(e)
+que tu aies été considéré(e)
+qu’il (elle) ait été considéré(e)
+que nous ayons été considéré(e)s
+que vous ayez été considéré(e)s
+qu’ils (elles) aient été considéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été considéré(e)
+que tu eusses été considéré(e)
+qu’il (elle) eût été considéré(e)
+que nous eussions été considéré(e)s
+que vous eussiez été considéré(e)s
+qu’ils (elles) eussent été considéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été considéré(e)
+ayons été considéré(e)s
+ayez été considéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été considéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été considéré(e)(s)

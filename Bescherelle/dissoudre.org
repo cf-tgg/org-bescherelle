@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dissoudre
+
+* INDICATIF
+
+** Présent
+
+je dissous
+tu dissous
+il (elle) dissout
+nous dissolvons
+vous dissolvez
+ils (elles) dissolvent
+
+** Imparfait
+
+je dissolvais
+tu dissolvais
+il (elle) dissolvait
+nous dissolvions
+vous dissolviez
+ils (elles) dissolvaient
+
+** Passé simple
+
+je dissolus
+tu dissolus
+il (elle) dissolut
+nous dissolûmes
+vous dissolûtes
+ils (elles) dissolurent
+
+** Futur simple
+
+je dissoudrai
+tu dissoudras
+il (elle) dissoudra
+nous dissoudrons
+vous dissoudrez
+ils (elles) dissoudront
+
+* CONDITIONNEL
+
+** Présent
+
+je dissoudrais
+tu dissoudrais
+il (elle) dissoudrait
+nous dissoudrions
+vous dissoudriez
+ils (elles) dissoudraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dissolve
+que tu dissolves
+qu’il (elle) dissolve
+que nous dissolvions
+que vous dissolviez
+qu’ils (elles) dissolvent
+
+** Imparfait
+
+que je dissolusse
+que tu dissolusses
+qu’il (elle) dissolût
+que nous dissolussions
+que vous dissolussiez
+qu’ils (elles) dissolussent
+
+* IMPÉRATIF
+
+** Présent
+
+dissous
+dissolvons
+dissolvez
+
+* INFINITIF
+
+** Présent
+
+dissoudre
+
+* PARTICIPE
+
+** Présent
+
+dissolvant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dissous
+tu as dissous
+il (elle) a dissous
+nous avons dissous
+vous avez dissous
+ils (elles) ont dissous
+
+** Plus-que-parfait
+
+j'avais dissous
+tu avais dissous
+il (elle) avait dissous
+nous avions dissous
+vous aviez dissous
+ils (elles) avaient dissous
+
+** Passé antérieur
+
+j'eus dissous
+tu eus dissous
+il (elle) eut dissous
+nous eûmes dissous
+vous eûtes dissous
+ils (elles) eurent dissous
+
+** Futur antérieur
+
+j'aurai dissous
+tu auras dissous
+il (elle) aura dissous
+nous aurons dissous
+vous aurez dissous
+ils (elles) auront dissous
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dissous
+tu aurais dissous
+il (elle) aurait dissous
+nous aurions dissous
+vous auriez dissous
+ils (elles) auraient dissous
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dissous
+que tu aies dissous
+qu’il (elle) ait dissous
+que nous ayons dissous
+que vous ayez dissous
+qu’ils (elles) aient dissous
+
+** Plus-que-parfait
+
+que j'eusse dissous
+que tu eusses dissous
+qu’il (elle) eût dissous
+que nous eussions dissous
+que vous eussiez dissous
+qu’ils (elles) eussent dissous
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dissous
+ayez dissous
+
+* INFINITIF
+
+** Passé
+
+avoir dissous
+
+* PARTICIPE
+
+** Passé
+
+ayant dissous
+dissous (s, te, s, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis dissous (s, te)
+tu es dissous (s, te)
+il (elle) est dissous (s, te)
+nous sommes dissous (s, tes)
+vous êtes dissous (s, tes)
+ils (elles) sont dissous (s, tes)
+
+** Imparfait
+
+j'étais dissous (s, te)
+tu étais dissous (s, te)
+il (elle) était dissous (s, te)
+nous étions dissous (s, tes)
+vous étiez dissous (s, tes)
+ils (elles) étaient dissous (s, tes)
+
+** Passé simple
+
+je fus dissous (s, te)
+tu fus dissous (s, te)
+il (elle) fut dissous (s, te)
+nous fûmes dissous (s, tes)
+vous fûtes dissous (s, tes)
+ils (elles) furent dissous (s, tes)
+
+** Futur simple
+
+je serai dissous (s, te)
+tu seras dissous (s, te)
+il (elle) sera dissous (s, te)
+nous serons dissous (s, tes)
+vous serez dissous (s, tes)
+ils (elles) seront dissous (s, tes)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dissous (s, te)
+tu serais dissous (s, te)
+il (elle) serait dissous (s, te)
+nous serions dissous (s, tes)
+vous seriez dissous (s, tes)
+ils (elles) seraient dissous (s, tes)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dissous (s, te)
+que tu sois dissous (s, te)
+qu’il (elle) soit dissous (s, te)
+que nous soyons dissous (s, tes)
+que vous soyez dissous (s, tes)
+qu’ils (elles) soient dissous (s, tes)
+
+** Imparfait
+
+que je fusse dissous (s, te)
+que tu fusses dissous (s, te)
+qu’il (elle) fût dissous (s, te)
+que nous fussions dissous (s, tes)
+que vous fussiez dissous (s, tes)
+qu’ils (elles) fussent dissous (s, tes)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dissous (s, tes)
+soyez dissous (s, tes)
+
+* INFINITIF
+
+** Présent
+
+être dissous (s, te, s, tes)
+
+* PARTICIPE
+
+** Présent
+
+étant dissous (s, te, s, tes)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dissous (s, te)
+tu as été dissous (s, te)
+il (elle) a été dissous (s, te)
+nous avons été dissous (s, tes)
+vous avez été dissous (s, tes)
+ils (elles) ont été dissous (s, tes)
+
+** Plus-que-parfait
+
+j'avais été dissous (s, te)
+il (elle) avait été dissous (s, te)
+nous avions été dissous (s, tes)
+ils (elles) avaient été dissous (s, tes)
+
+** Passé antérieur
+
+j'eus été dissous (s, te)
+tu eus été dissous (s, te)
+il (elle) eut été dissous (s, te)
+nous eûmes été dissous (s, tes)
+vous eûtes été dissous (s, tes)
+ils (elles) eurent été dissous (s, tes)
+
+** Futur antérieur
+
+j'aurai été dissous (s, te)
+tu auras été dissous (s, te)
+il (elle) aura été dissous (s, te)
+nous aurons été dissous (s, tes)
+vous aurez été dissous (s, tes)
+ils (elles) auront été dissous (s, tes)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dissous (s, te)
+j'aurais été dissous (s, te)
+il (elle) aurait été dissous (s, te)
+nous aurions été dissous (s, tes)
+vous auriez été dissous (s, tes)
+ils (elles) auraient été dissous (s, tes)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dissous (s, te)
+que tu aies été dissous (s, te)
+qu’il (elle) ait été dissous (s, te)
+que nous ayons été dissous (s, tes)
+que vous ayez été dissous (s, tes)
+qu’ils (elles) aient été dissous (s, tes)
+
+** Plus-que-parfait
+
+que j'eusse été dissous (s, te)
+que tu eusses été dissous (s, te)
+qu’il (elle) eût été dissous (s, te)
+que nous eussions été dissous (s, tes)
+que vous eussiez été dissous (s, tes)
+qu’ils (elles) eussent été dissous (s, tes)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dissous (s, te)
+ayons été dissous (s, tes)
+ayez été dissous (s, tes)
+
+* INFINITIF
+
+** Passé
+
+avoir été dissous (s, te, s, tes)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dissous (s, te, s, tes)

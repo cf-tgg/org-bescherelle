@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe raser
+
+* INDICATIF
+
+** Présent
+
+je rase
+tu rases
+il (elle) rase
+nous rasons
+vous rasez
+ils (elles) rasent
+
+** Imparfait
+
+je rasais
+tu rasais
+il (elle) rasait
+nous rasions
+vous rasiez
+ils (elles) rasaient
+
+** Passé simple
+
+je rasai
+tu rasas
+il (elle) rasa
+nous rasâmes
+vous rasâtes
+ils (elles) rasèrent
+
+** Futur simple
+
+je raserai
+tu raseras
+il (elle) rasera
+nous raserons
+vous raserez
+ils (elles) raseront
+
+* CONDITIONNEL
+
+** Présent
+
+je raserais
+tu raserais
+il (elle) raserait
+nous raserions
+vous raseriez
+ils (elles) raseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rase
+que tu rases
+qu’il (elle) rase
+que nous rasions
+que vous rasiez
+qu’ils (elles) rasent
+
+** Imparfait
+
+que je rasasse
+que tu rasasses
+qu’il (elle) rasât
+que nous rasassions
+que vous rasassiez
+qu’ils (elles) rasassent
+
+* IMPÉRATIF
+
+** Présent
+
+rase
+rasons
+rasez
+
+* INFINITIF
+
+** Présent
+
+raser
+
+* PARTICIPE
+
+** Présent
+
+rasant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rasé
+tu as rasé
+il (elle) a rasé
+nous avons rasé
+vous avez rasé
+ils (elles) ont rasé
+
+** Plus-que-parfait
+
+j'avais rasé
+tu avais rasé
+il (elle) avait rasé
+nous avions rasé
+vous aviez rasé
+ils (elles) avaient rasé
+
+** Passé antérieur
+
+j'eus rasé
+tu eus rasé
+il (elle) eut rasé
+nous eûmes rasé
+vous eûtes rasé
+ils (elles) eurent rasé
+
+** Futur antérieur
+
+j'aurai rasé
+tu auras rasé
+il (elle) aura rasé
+nous aurons rasé
+vous aurez rasé
+ils (elles) auront rasé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rasé
+tu aurais rasé
+il (elle) aurait rasé
+nous aurions rasé
+vous auriez rasé
+ils (elles) auraient rasé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rasé
+que tu aies rasé
+qu’il (elle) ait rasé
+que nous ayons rasé
+que vous ayez rasé
+qu’ils (elles) aient rasé
+
+** Plus-que-parfait
+
+que j'eusse rasé
+que tu eusses rasé
+qu’il (elle) eût rasé
+que nous eussions rasé
+que vous eussiez rasé
+qu’ils (elles) eussent rasé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rasé
+ayez rasé
+
+* INFINITIF
+
+** Passé
+
+avoir rasé
+
+* PARTICIPE
+
+** Passé
+
+ayant rasé
+rasé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rasé(e)
+tu es rasé(e)
+il (elle) est rasé(e)
+nous sommes rasé(e)s
+vous êtes rasé(e)s
+ils (elles) sont rasé(e)s
+
+** Imparfait
+
+j'étais rasé(e)
+tu étais rasé(e)
+il (elle) était rasé(e)
+nous étions rasé(e)s
+vous étiez rasé(e)s
+ils (elles) étaient rasé(e)s
+
+** Passé simple
+
+je fus rasé(e)
+tu fus rasé(e)
+il (elle) fut rasé(e)
+nous fûmes rasé(e)s
+vous fûtes rasé(e)s
+ils (elles) furent rasé(e)s
+
+** Futur simple
+
+je serai rasé(e)
+tu seras rasé(e)
+il (elle) sera rasé(e)
+nous serons rasé(e)s
+vous serez rasé(e)s
+ils (elles) seront rasé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rasé(e)
+tu serais rasé(e)
+il (elle) serait rasé(e)
+nous serions rasé(e)s
+vous seriez rasé(e)s
+ils (elles) seraient rasé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rasé(e)
+que tu sois rasé(e)
+qu’il (elle) soit rasé(e)
+que nous soyons rasé(e)s
+que vous soyez rasé(e)s
+qu’ils (elles) soient rasé(e)s
+
+** Imparfait
+
+que je fusse rasé(e)
+que tu fusses rasé(e)
+qu’il (elle) fût rasé(e)
+que nous fussions rasé(e)s
+que vous fussiez rasé(e)s
+qu’ils (elles) fussent rasé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rasé(e)s
+soyez rasé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rasé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rasé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rasé(e)
+tu as été rasé(e)
+il (elle) a été rasé(e)
+nous avons été rasé(e)s
+vous avez été rasé(e)s
+ils (elles) ont été rasé(e)s
+
+** Plus-que-parfait
+
+j'avais été rasé(e)
+il (elle) avait été rasé(e)
+nous avions été rasé(e)s
+ils (elles) avaient été rasé(e)s
+
+** Passé antérieur
+
+j'eus été rasé(e)
+tu eus été rasé(e)
+il (elle) eut été rasé(e)
+nous eûmes été rasé(e)s
+vous eûtes été rasé(e)s
+ils (elles) eurent été rasé(e)s
+
+** Futur antérieur
+
+j'aurai été rasé(e)
+tu auras été rasé(e)
+il (elle) aura été rasé(e)
+nous aurons été rasé(e)s
+vous aurez été rasé(e)s
+ils (elles) auront été rasé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rasé(e)
+j'aurais été rasé(e)
+il (elle) aurait été rasé(e)
+nous aurions été rasé(e)s
+vous auriez été rasé(e)s
+ils (elles) auraient été rasé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rasé(e)
+que tu aies été rasé(e)
+qu’il (elle) ait été rasé(e)
+que nous ayons été rasé(e)s
+que vous ayez été rasé(e)s
+qu’ils (elles) aient été rasé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rasé(e)
+que tu eusses été rasé(e)
+qu’il (elle) eût été rasé(e)
+que nous eussions été rasé(e)s
+que vous eussiez été rasé(e)s
+qu’ils (elles) eussent été rasé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rasé(e)
+ayons été rasé(e)s
+ayez été rasé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rasé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rasé(e)(s)

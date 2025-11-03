@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe geler
+
+* INDICATIF
+
+** Présent
+
+je gèle
+tu gèles
+il (elle) gèle
+nous gelons
+vous gelez
+ils (elles) gèlent
+
+** Imparfait
+
+je gelais
+tu gelais
+il (elle) gelait
+nous gelions
+vous geliez
+ils (elles) gelaient
+
+** Passé simple
+
+je gelai
+tu gelas
+il (elle) gela
+nous gelâmes
+vous gelâtes
+ils (elles) gelèrent
+
+** Futur simple
+
+je gèlerai
+tu gèleras
+il (elle) gèlera
+nous gèlerons
+vous gèlerez
+ils (elles) gèleront
+
+* CONDITIONNEL
+
+** Présent
+
+je gèlerais
+tu gèlerais
+il (elle) gèlerait
+nous gèlerions
+vous gèleriez
+ils (elles) gèleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gèle
+que tu gèles
+qu’il (elle) gèle
+que nous gelions
+que vous geliez
+qu’ils (elles) gèlent
+
+** Imparfait
+
+que je gelasse
+que tu gelasses
+qu’il (elle) gelât
+que nous gelassions
+que vous gelassiez
+qu’ils (elles) gelassent
+
+* IMPÉRATIF
+
+** Présent
+
+gèle
+gelons
+gelez
+
+* INFINITIF
+
+** Présent
+
+geler
+
+* PARTICIPE
+
+** Présent
+
+gelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gelé
+tu as gelé
+il (elle) a gelé
+nous avons gelé
+vous avez gelé
+ils (elles) ont gelé
+
+** Plus-que-parfait
+
+j'avais gelé
+tu avais gelé
+il (elle) avait gelé
+nous avions gelé
+vous aviez gelé
+ils (elles) avaient gelé
+
+** Passé antérieur
+
+j'eus gelé
+tu eus gelé
+il (elle) eut gelé
+nous eûmes gelé
+vous eûtes gelé
+ils (elles) eurent gelé
+
+** Futur antérieur
+
+j'aurai gelé
+tu auras gelé
+il (elle) aura gelé
+nous aurons gelé
+vous aurez gelé
+ils (elles) auront gelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gelé
+tu aurais gelé
+il (elle) aurait gelé
+nous aurions gelé
+vous auriez gelé
+ils (elles) auraient gelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gelé
+que tu aies gelé
+qu’il (elle) ait gelé
+que nous ayons gelé
+que vous ayez gelé
+qu’ils (elles) aient gelé
+
+** Plus-que-parfait
+
+que j'eusse gelé
+que tu eusses gelé
+qu’il (elle) eût gelé
+que nous eussions gelé
+que vous eussiez gelé
+qu’ils (elles) eussent gelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gelé
+ayez gelé
+
+* INFINITIF
+
+** Passé
+
+avoir gelé
+
+* PARTICIPE
+
+** Passé
+
+ayant gelé
+gelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gelé(e)
+tu es gelé(e)
+il (elle) est gelé(e)
+nous sommes gelé(e)s
+vous êtes gelé(e)s
+ils (elles) sont gelé(e)s
+
+** Imparfait
+
+j'étais gelé(e)
+tu étais gelé(e)
+il (elle) était gelé(e)
+nous étions gelé(e)s
+vous étiez gelé(e)s
+ils (elles) étaient gelé(e)s
+
+** Passé simple
+
+je fus gelé(e)
+tu fus gelé(e)
+il (elle) fut gelé(e)
+nous fûmes gelé(e)s
+vous fûtes gelé(e)s
+ils (elles) furent gelé(e)s
+
+** Futur simple
+
+je serai gelé(e)
+tu seras gelé(e)
+il (elle) sera gelé(e)
+nous serons gelé(e)s
+vous serez gelé(e)s
+ils (elles) seront gelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gelé(e)
+tu serais gelé(e)
+il (elle) serait gelé(e)
+nous serions gelé(e)s
+vous seriez gelé(e)s
+ils (elles) seraient gelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gelé(e)
+que tu sois gelé(e)
+qu’il (elle) soit gelé(e)
+que nous soyons gelé(e)s
+que vous soyez gelé(e)s
+qu’ils (elles) soient gelé(e)s
+
+** Imparfait
+
+que je fusse gelé(e)
+que tu fusses gelé(e)
+qu’il (elle) fût gelé(e)
+que nous fussions gelé(e)s
+que vous fussiez gelé(e)s
+qu’ils (elles) fussent gelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gelé(e)s
+soyez gelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gelé(e)
+tu as été gelé(e)
+il (elle) a été gelé(e)
+nous avons été gelé(e)s
+vous avez été gelé(e)s
+ils (elles) ont été gelé(e)s
+
+** Plus-que-parfait
+
+j'avais été gelé(e)
+il (elle) avait été gelé(e)
+nous avions été gelé(e)s
+ils (elles) avaient été gelé(e)s
+
+** Passé antérieur
+
+j'eus été gelé(e)
+tu eus été gelé(e)
+il (elle) eut été gelé(e)
+nous eûmes été gelé(e)s
+vous eûtes été gelé(e)s
+ils (elles) eurent été gelé(e)s
+
+** Futur antérieur
+
+j'aurai été gelé(e)
+tu auras été gelé(e)
+il (elle) aura été gelé(e)
+nous aurons été gelé(e)s
+vous aurez été gelé(e)s
+ils (elles) auront été gelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gelé(e)
+j'aurais été gelé(e)
+il (elle) aurait été gelé(e)
+nous aurions été gelé(e)s
+vous auriez été gelé(e)s
+ils (elles) auraient été gelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gelé(e)
+que tu aies été gelé(e)
+qu’il (elle) ait été gelé(e)
+que nous ayons été gelé(e)s
+que vous ayez été gelé(e)s
+qu’ils (elles) aient été gelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gelé(e)
+que tu eusses été gelé(e)
+qu’il (elle) eût été gelé(e)
+que nous eussions été gelé(e)s
+que vous eussiez été gelé(e)s
+qu’ils (elles) eussent été gelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gelé(e)
+ayons été gelé(e)s
+ayez été gelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gelé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enregistrer
+
+* INDICATIF
+
+** Présent
+
+j'enregistre
+tu enregistres
+il (elle) enregistre
+nous enregistrons
+vous enregistrez
+ils (elles) enregistrent
+
+** Imparfait
+
+j'enregistrais
+tu enregistrais
+il (elle) enregistrait
+nous enregistrions
+vous enregistriez
+ils (elles) enregistraient
+
+** Passé simple
+
+j'enregistrai
+tu enregistras
+il (elle) enregistra
+nous enregistrâmes
+vous enregistrâtes
+ils (elles) enregistrèrent
+
+** Futur simple
+
+j'enregistrerai
+tu enregistreras
+il (elle) enregistrera
+nous enregistrerons
+vous enregistrerez
+ils (elles) enregistreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enregistrerais
+tu enregistrerais
+il (elle) enregistrerait
+nous enregistrerions
+vous enregistreriez
+ils (elles) enregistreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enregistre
+que tu enregistres
+qu’il (elle) enregistre
+que nous enregistrions
+que vous enregistriez
+qu’ils (elles) enregistrent
+
+** Imparfait
+
+que j'enregistrasse
+que tu enregistrasses
+qu’il (elle) enregistrât
+que nous enregistrassions
+que vous enregistrassiez
+qu’ils (elles) enregistrassent
+
+* IMPÉRATIF
+
+** Présent
+
+enregistre
+enregistrons
+enregistrez
+
+* INFINITIF
+
+** Présent
+
+enregistrer
+
+* PARTICIPE
+
+** Présent
+
+enregistrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enregistré
+tu as enregistré
+il (elle) a enregistré
+nous avons enregistré
+vous avez enregistré
+ils (elles) ont enregistré
+
+** Plus-que-parfait
+
+j'avais enregistré
+tu avais enregistré
+il (elle) avait enregistré
+nous avions enregistré
+vous aviez enregistré
+ils (elles) avaient enregistré
+
+** Passé antérieur
+
+j'eus enregistré
+tu eus enregistré
+il (elle) eut enregistré
+nous eûmes enregistré
+vous eûtes enregistré
+ils (elles) eurent enregistré
+
+** Futur antérieur
+
+j'aurai enregistré
+tu auras enregistré
+il (elle) aura enregistré
+nous aurons enregistré
+vous aurez enregistré
+ils (elles) auront enregistré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enregistré
+tu aurais enregistré
+il (elle) aurait enregistré
+nous aurions enregistré
+vous auriez enregistré
+ils (elles) auraient enregistré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enregistré
+que tu aies enregistré
+qu’il (elle) ait enregistré
+que nous ayons enregistré
+que vous ayez enregistré
+qu’ils (elles) aient enregistré
+
+** Plus-que-parfait
+
+que j'eusse enregistré
+que tu eusses enregistré
+qu’il (elle) eût enregistré
+que nous eussions enregistré
+que vous eussiez enregistré
+qu’ils (elles) eussent enregistré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enregistré
+ayez enregistré
+
+* INFINITIF
+
+** Passé
+
+avoir enregistré
+
+* PARTICIPE
+
+** Passé
+
+ayant enregistré
+enregistré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enregistré(e)
+tu es enregistré(e)
+il (elle) est enregistré(e)
+nous sommes enregistré(e)s
+vous êtes enregistré(e)s
+ils (elles) sont enregistré(e)s
+
+** Imparfait
+
+j'étais enregistré(e)
+tu étais enregistré(e)
+il (elle) était enregistré(e)
+nous étions enregistré(e)s
+vous étiez enregistré(e)s
+ils (elles) étaient enregistré(e)s
+
+** Passé simple
+
+je fus enregistré(e)
+tu fus enregistré(e)
+il (elle) fut enregistré(e)
+nous fûmes enregistré(e)s
+vous fûtes enregistré(e)s
+ils (elles) furent enregistré(e)s
+
+** Futur simple
+
+je serai enregistré(e)
+tu seras enregistré(e)
+il (elle) sera enregistré(e)
+nous serons enregistré(e)s
+vous serez enregistré(e)s
+ils (elles) seront enregistré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enregistré(e)
+tu serais enregistré(e)
+il (elle) serait enregistré(e)
+nous serions enregistré(e)s
+vous seriez enregistré(e)s
+ils (elles) seraient enregistré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enregistré(e)
+que tu sois enregistré(e)
+qu’il (elle) soit enregistré(e)
+que nous soyons enregistré(e)s
+que vous soyez enregistré(e)s
+qu’ils (elles) soient enregistré(e)s
+
+** Imparfait
+
+que je fusse enregistré(e)
+que tu fusses enregistré(e)
+qu’il (elle) fût enregistré(e)
+que nous fussions enregistré(e)s
+que vous fussiez enregistré(e)s
+qu’ils (elles) fussent enregistré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enregistré(e)s
+soyez enregistré(e)s
+
+* INFINITIF
+
+** Présent
+
+être enregistré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enregistré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enregistré(e)
+tu as été enregistré(e)
+il (elle) a été enregistré(e)
+nous avons été enregistré(e)s
+vous avez été enregistré(e)s
+ils (elles) ont été enregistré(e)s
+
+** Plus-que-parfait
+
+j'avais été enregistré(e)
+il (elle) avait été enregistré(e)
+nous avions été enregistré(e)s
+ils (elles) avaient été enregistré(e)s
+
+** Passé antérieur
+
+j'eus été enregistré(e)
+tu eus été enregistré(e)
+il (elle) eut été enregistré(e)
+nous eûmes été enregistré(e)s
+vous eûtes été enregistré(e)s
+ils (elles) eurent été enregistré(e)s
+
+** Futur antérieur
+
+j'aurai été enregistré(e)
+tu auras été enregistré(e)
+il (elle) aura été enregistré(e)
+nous aurons été enregistré(e)s
+vous aurez été enregistré(e)s
+ils (elles) auront été enregistré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enregistré(e)
+j'aurais été enregistré(e)
+il (elle) aurait été enregistré(e)
+nous aurions été enregistré(e)s
+vous auriez été enregistré(e)s
+ils (elles) auraient été enregistré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enregistré(e)
+que tu aies été enregistré(e)
+qu’il (elle) ait été enregistré(e)
+que nous ayons été enregistré(e)s
+que vous ayez été enregistré(e)s
+qu’ils (elles) aient été enregistré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enregistré(e)
+que tu eusses été enregistré(e)
+qu’il (elle) eût été enregistré(e)
+que nous eussions été enregistré(e)s
+que vous eussiez été enregistré(e)s
+qu’ils (elles) eussent été enregistré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enregistré(e)
+ayons été enregistré(e)s
+ayez été enregistré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enregistré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enregistré(e)(s)

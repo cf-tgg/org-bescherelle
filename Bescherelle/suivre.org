@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe suivre
+
+* INDICATIF
+
+** Présent
+
+je suis
+tu suis
+il (elle) suit
+nous suivons
+vous suivez
+ils (elles) suivent
+
+** Imparfait
+
+je suivais
+tu suivais
+il (elle) suivait
+nous suivions
+vous suiviez
+ils (elles) suivaient
+
+** Passé simple
+
+je suivis
+tu suivis
+il (elle) suivit
+nous suivîmes
+vous suivîtes
+ils (elles) suivirent
+
+** Futur simple
+
+je suivrai
+tu suivras
+il (elle) suivra
+nous suivrons
+vous suivrez
+ils (elles) suivront
+
+* CONDITIONNEL
+
+** Présent
+
+je suivrais
+tu suivrais
+il (elle) suivrait
+nous suivrions
+vous suivriez
+ils (elles) suivraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je suive
+que tu suives
+qu’il (elle) suive
+que nous suivions
+que vous suiviez
+qu’ils (elles) suivent
+
+** Imparfait
+
+que je suivisse
+que tu suivisses
+qu’il (elle) suivît
+que nous suivissions
+que vous suivissiez
+qu’ils (elles) suivissent
+
+* IMPÉRATIF
+
+** Présent
+
+suis
+suivons
+suivez
+
+* INFINITIF
+
+** Présent
+
+suivre
+
+* PARTICIPE
+
+** Présent
+
+suivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai suivi
+tu as suivi
+il (elle) a suivi
+nous avons suivi
+vous avez suivi
+ils (elles) ont suivi
+
+** Plus-que-parfait
+
+j'avais suivi
+tu avais suivi
+il (elle) avait suivi
+nous avions suivi
+vous aviez suivi
+ils (elles) avaient suivi
+
+** Passé antérieur
+
+j'eus suivi
+tu eus suivi
+il (elle) eut suivi
+nous eûmes suivi
+vous eûtes suivi
+ils (elles) eurent suivi
+
+** Futur antérieur
+
+j'aurai suivi
+tu auras suivi
+il (elle) aura suivi
+nous aurons suivi
+vous aurez suivi
+ils (elles) auront suivi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais suivi
+tu aurais suivi
+il (elle) aurait suivi
+nous aurions suivi
+vous auriez suivi
+ils (elles) auraient suivi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie suivi
+que tu aies suivi
+qu’il (elle) ait suivi
+que nous ayons suivi
+que vous ayez suivi
+qu’ils (elles) aient suivi
+
+** Plus-que-parfait
+
+que j'eusse suivi
+que tu eusses suivi
+qu’il (elle) eût suivi
+que nous eussions suivi
+que vous eussiez suivi
+qu’ils (elles) eussent suivi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons suivi
+ayez suivi
+
+* INFINITIF
+
+** Passé
+
+avoir suivi
+
+* PARTICIPE
+
+** Passé
+
+ayant suivi
+suivi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis suivi(e)
+tu es suivi(e)
+il (elle) est suivi(e)
+nous sommes suivi(e)s
+vous êtes suivi(e)s
+ils (elles) sont suivi(e)s
+
+** Imparfait
+
+j'étais suivi(e)
+tu étais suivi(e)
+il (elle) était suivi(e)
+nous étions suivi(e)s
+vous étiez suivi(e)s
+ils (elles) étaient suivi(e)s
+
+** Passé simple
+
+je fus suivi(e)
+tu fus suivi(e)
+il (elle) fut suivi(e)
+nous fûmes suivi(e)s
+vous fûtes suivi(e)s
+ils (elles) furent suivi(e)s
+
+** Futur simple
+
+je serai suivi(e)
+tu seras suivi(e)
+il (elle) sera suivi(e)
+nous serons suivi(e)s
+vous serez suivi(e)s
+ils (elles) seront suivi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais suivi(e)
+tu serais suivi(e)
+il (elle) serait suivi(e)
+nous serions suivi(e)s
+vous seriez suivi(e)s
+ils (elles) seraient suivi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois suivi(e)
+que tu sois suivi(e)
+qu’il (elle) soit suivi(e)
+que nous soyons suivi(e)s
+que vous soyez suivi(e)s
+qu’ils (elles) soient suivi(e)s
+
+** Imparfait
+
+que je fusse suivi(e)
+que tu fusses suivi(e)
+qu’il (elle) fût suivi(e)
+que nous fussions suivi(e)s
+que vous fussiez suivi(e)s
+qu’ils (elles) fussent suivi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons suivi(e)s
+soyez suivi(e)s
+
+* INFINITIF
+
+** Présent
+
+être suivi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant suivi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été suivi(e)
+tu as été suivi(e)
+il (elle) a été suivi(e)
+nous avons été suivi(e)s
+vous avez été suivi(e)s
+ils (elles) ont été suivi(e)s
+
+** Plus-que-parfait
+
+j'avais été suivi(e)
+il (elle) avait été suivi(e)
+nous avions été suivi(e)s
+ils (elles) avaient été suivi(e)s
+
+** Passé antérieur
+
+j'eus été suivi(e)
+tu eus été suivi(e)
+il (elle) eut été suivi(e)
+nous eûmes été suivi(e)s
+vous eûtes été suivi(e)s
+ils (elles) eurent été suivi(e)s
+
+** Futur antérieur
+
+j'aurai été suivi(e)
+tu auras été suivi(e)
+il (elle) aura été suivi(e)
+nous aurons été suivi(e)s
+vous aurez été suivi(e)s
+ils (elles) auront été suivi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été suivi(e)
+j'aurais été suivi(e)
+il (elle) aurait été suivi(e)
+nous aurions été suivi(e)s
+vous auriez été suivi(e)s
+ils (elles) auraient été suivi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été suivi(e)
+que tu aies été suivi(e)
+qu’il (elle) ait été suivi(e)
+que nous ayons été suivi(e)s
+que vous ayez été suivi(e)s
+qu’ils (elles) aient été suivi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été suivi(e)
+que tu eusses été suivi(e)
+qu’il (elle) eût été suivi(e)
+que nous eussions été suivi(e)s
+que vous eussiez été suivi(e)s
+qu’ils (elles) eussent été suivi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été suivi(e)
+ayons été suivi(e)s
+ayez été suivi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été suivi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été suivi(e)(s)

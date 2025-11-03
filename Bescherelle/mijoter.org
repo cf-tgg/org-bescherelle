@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mijoter
+
+* INDICATIF
+
+** Présent
+
+je mijote
+tu mijotes
+il (elle) mijote
+nous mijotons
+vous mijotez
+ils (elles) mijotent
+
+** Imparfait
+
+je mijotais
+tu mijotais
+il (elle) mijotait
+nous mijotions
+vous mijotiez
+ils (elles) mijotaient
+
+** Passé simple
+
+je mijotai
+tu mijotas
+il (elle) mijota
+nous mijotâmes
+vous mijotâtes
+ils (elles) mijotèrent
+
+** Futur simple
+
+je mijoterai
+tu mijoteras
+il (elle) mijotera
+nous mijoterons
+vous mijoterez
+ils (elles) mijoteront
+
+* CONDITIONNEL
+
+** Présent
+
+je mijoterais
+tu mijoterais
+il (elle) mijoterait
+nous mijoterions
+vous mijoteriez
+ils (elles) mijoteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mijote
+que tu mijotes
+qu’il (elle) mijote
+que nous mijotions
+que vous mijotiez
+qu’ils (elles) mijotent
+
+** Imparfait
+
+que je mijotasse
+que tu mijotasses
+qu’il (elle) mijotât
+que nous mijotassions
+que vous mijotassiez
+qu’ils (elles) mijotassent
+
+* IMPÉRATIF
+
+** Présent
+
+mijote
+mijotons
+mijotez
+
+* INFINITIF
+
+** Présent
+
+mijoter
+
+* PARTICIPE
+
+** Présent
+
+mijotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mijoté
+tu as mijoté
+il (elle) a mijoté
+nous avons mijoté
+vous avez mijoté
+ils (elles) ont mijoté
+
+** Plus-que-parfait
+
+j'avais mijoté
+tu avais mijoté
+il (elle) avait mijoté
+nous avions mijoté
+vous aviez mijoté
+ils (elles) avaient mijoté
+
+** Passé antérieur
+
+j'eus mijoté
+tu eus mijoté
+il (elle) eut mijoté
+nous eûmes mijoté
+vous eûtes mijoté
+ils (elles) eurent mijoté
+
+** Futur antérieur
+
+j'aurai mijoté
+tu auras mijoté
+il (elle) aura mijoté
+nous aurons mijoté
+vous aurez mijoté
+ils (elles) auront mijoté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mijoté
+tu aurais mijoté
+il (elle) aurait mijoté
+nous aurions mijoté
+vous auriez mijoté
+ils (elles) auraient mijoté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mijoté
+que tu aies mijoté
+qu’il (elle) ait mijoté
+que nous ayons mijoté
+que vous ayez mijoté
+qu’ils (elles) aient mijoté
+
+** Plus-que-parfait
+
+que j'eusse mijoté
+que tu eusses mijoté
+qu’il (elle) eût mijoté
+que nous eussions mijoté
+que vous eussiez mijoté
+qu’ils (elles) eussent mijoté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mijoté
+ayez mijoté
+
+* INFINITIF
+
+** Passé
+
+avoir mijoté
+
+* PARTICIPE
+
+** Passé
+
+ayant mijoté
+mijoté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mijoté(e)
+tu es mijoté(e)
+il (elle) est mijoté(e)
+nous sommes mijoté(e)s
+vous êtes mijoté(e)s
+ils (elles) sont mijoté(e)s
+
+** Imparfait
+
+j'étais mijoté(e)
+tu étais mijoté(e)
+il (elle) était mijoté(e)
+nous étions mijoté(e)s
+vous étiez mijoté(e)s
+ils (elles) étaient mijoté(e)s
+
+** Passé simple
+
+je fus mijoté(e)
+tu fus mijoté(e)
+il (elle) fut mijoté(e)
+nous fûmes mijoté(e)s
+vous fûtes mijoté(e)s
+ils (elles) furent mijoté(e)s
+
+** Futur simple
+
+je serai mijoté(e)
+tu seras mijoté(e)
+il (elle) sera mijoté(e)
+nous serons mijoté(e)s
+vous serez mijoté(e)s
+ils (elles) seront mijoté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mijoté(e)
+tu serais mijoté(e)
+il (elle) serait mijoté(e)
+nous serions mijoté(e)s
+vous seriez mijoté(e)s
+ils (elles) seraient mijoté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mijoté(e)
+que tu sois mijoté(e)
+qu’il (elle) soit mijoté(e)
+que nous soyons mijoté(e)s
+que vous soyez mijoté(e)s
+qu’ils (elles) soient mijoté(e)s
+
+** Imparfait
+
+que je fusse mijoté(e)
+que tu fusses mijoté(e)
+qu’il (elle) fût mijoté(e)
+que nous fussions mijoté(e)s
+que vous fussiez mijoté(e)s
+qu’ils (elles) fussent mijoté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mijoté(e)s
+soyez mijoté(e)s
+
+* INFINITIF
+
+** Présent
+
+être mijoté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mijoté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mijoté(e)
+tu as été mijoté(e)
+il (elle) a été mijoté(e)
+nous avons été mijoté(e)s
+vous avez été mijoté(e)s
+ils (elles) ont été mijoté(e)s
+
+** Plus-que-parfait
+
+j'avais été mijoté(e)
+il (elle) avait été mijoté(e)
+nous avions été mijoté(e)s
+ils (elles) avaient été mijoté(e)s
+
+** Passé antérieur
+
+j'eus été mijoté(e)
+tu eus été mijoté(e)
+il (elle) eut été mijoté(e)
+nous eûmes été mijoté(e)s
+vous eûtes été mijoté(e)s
+ils (elles) eurent été mijoté(e)s
+
+** Futur antérieur
+
+j'aurai été mijoté(e)
+tu auras été mijoté(e)
+il (elle) aura été mijoté(e)
+nous aurons été mijoté(e)s
+vous aurez été mijoté(e)s
+ils (elles) auront été mijoté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mijoté(e)
+j'aurais été mijoté(e)
+il (elle) aurait été mijoté(e)
+nous aurions été mijoté(e)s
+vous auriez été mijoté(e)s
+ils (elles) auraient été mijoté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mijoté(e)
+que tu aies été mijoté(e)
+qu’il (elle) ait été mijoté(e)
+que nous ayons été mijoté(e)s
+que vous ayez été mijoté(e)s
+qu’ils (elles) aient été mijoté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mijoté(e)
+que tu eusses été mijoté(e)
+qu’il (elle) eût été mijoté(e)
+que nous eussions été mijoté(e)s
+que vous eussiez été mijoté(e)s
+qu’ils (elles) eussent été mijoté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mijoté(e)
+ayons été mijoté(e)s
+ayez été mijoté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mijoté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mijoté(e)(s)

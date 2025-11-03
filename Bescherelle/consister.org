@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe consister
+
+* INDICATIF
+
+** Présent
+
+je consiste
+tu consistes
+il (elle) consiste
+nous consistons
+vous consistez
+ils (elles) consistent
+
+** Imparfait
+
+je consistais
+tu consistais
+il (elle) consistait
+nous consistions
+vous consistiez
+ils (elles) consistaient
+
+** Passé simple
+
+je consistai
+tu consistas
+il (elle) consista
+nous consistâmes
+vous consistâtes
+ils (elles) consistèrent
+
+** Futur simple
+
+je consisterai
+tu consisteras
+il (elle) consistera
+nous consisterons
+vous consisterez
+ils (elles) consisteront
+
+* CONDITIONNEL
+
+** Présent
+
+je consisterais
+tu consisterais
+il (elle) consisterait
+nous consisterions
+vous consisteriez
+ils (elles) consisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je consiste
+que tu consistes
+qu’il (elle) consiste
+que nous consistions
+que vous consistiez
+qu’ils (elles) consistent
+
+** Imparfait
+
+que je consistasse
+que tu consistasses
+qu’il (elle) consistât
+que nous consistassions
+que vous consistassiez
+qu’ils (elles) consistassent
+
+* IMPÉRATIF
+
+** Présent
+
+consiste
+consistons
+consistez
+
+* INFINITIF
+
+** Présent
+
+consister
+
+* PARTICIPE
+
+** Présent
+
+consistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consisté
+tu as consisté
+il (elle) a consisté
+nous avons consisté
+vous avez consisté
+ils (elles) ont consisté
+
+** Plus-que-parfait
+
+j'avais consisté
+tu avais consisté
+il (elle) avait consisté
+nous avions consisté
+vous aviez consisté
+ils (elles) avaient consisté
+
+** Passé antérieur
+
+j'eus consisté
+tu eus consisté
+il (elle) eut consisté
+nous eûmes consisté
+vous eûtes consisté
+ils (elles) eurent consisté
+
+** Futur antérieur
+
+j'aurai consisté
+tu auras consisté
+il (elle) aura consisté
+nous aurons consisté
+vous aurez consisté
+ils (elles) auront consisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consisté
+tu aurais consisté
+il (elle) aurait consisté
+nous aurions consisté
+vous auriez consisté
+ils (elles) auraient consisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consisté
+que tu aies consisté
+qu’il (elle) ait consisté
+que nous ayons consisté
+que vous ayez consisté
+qu’ils (elles) aient consisté
+
+** Plus-que-parfait
+
+que j'eusse consisté
+que tu eusses consisté
+qu’il (elle) eût consisté
+que nous eussions consisté
+que vous eussiez consisté
+qu’ils (elles) eussent consisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consisté
+ayez consisté
+
+* INFINITIF
+
+** Passé
+
+avoir consisté
+
+* PARTICIPE
+
+** Passé
+
+ayant consisté
+consisté (invar.)

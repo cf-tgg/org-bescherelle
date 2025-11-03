@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tromper
+
+* INDICATIF
+
+** Présent
+
+je trompe
+tu trompes
+il (elle) trompe
+nous trompons
+vous trompez
+ils (elles) trompent
+
+** Imparfait
+
+je trompais
+tu trompais
+il (elle) trompait
+nous trompions
+vous trompiez
+ils (elles) trompaient
+
+** Passé simple
+
+je trompai
+tu trompas
+il (elle) trompa
+nous trompâmes
+vous trompâtes
+ils (elles) trompèrent
+
+** Futur simple
+
+je tromperai
+tu tromperas
+il (elle) trompera
+nous tromperons
+vous tromperez
+ils (elles) tromperont
+
+* CONDITIONNEL
+
+** Présent
+
+je tromperais
+tu tromperais
+il (elle) tromperait
+nous tromperions
+vous tromperiez
+ils (elles) tromperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trompe
+que tu trompes
+qu’il (elle) trompe
+que nous trompions
+que vous trompiez
+qu’ils (elles) trompent
+
+** Imparfait
+
+que je trompasse
+que tu trompasses
+qu’il (elle) trompât
+que nous trompassions
+que vous trompassiez
+qu’ils (elles) trompassent
+
+* IMPÉRATIF
+
+** Présent
+
+trompe
+trompons
+trompez
+
+* INFINITIF
+
+** Présent
+
+tromper
+
+* PARTICIPE
+
+** Présent
+
+trompant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trompé
+tu as trompé
+il (elle) a trompé
+nous avons trompé
+vous avez trompé
+ils (elles) ont trompé
+
+** Plus-que-parfait
+
+j'avais trompé
+tu avais trompé
+il (elle) avait trompé
+nous avions trompé
+vous aviez trompé
+ils (elles) avaient trompé
+
+** Passé antérieur
+
+j'eus trompé
+tu eus trompé
+il (elle) eut trompé
+nous eûmes trompé
+vous eûtes trompé
+ils (elles) eurent trompé
+
+** Futur antérieur
+
+j'aurai trompé
+tu auras trompé
+il (elle) aura trompé
+nous aurons trompé
+vous aurez trompé
+ils (elles) auront trompé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trompé
+tu aurais trompé
+il (elle) aurait trompé
+nous aurions trompé
+vous auriez trompé
+ils (elles) auraient trompé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trompé
+que tu aies trompé
+qu’il (elle) ait trompé
+que nous ayons trompé
+que vous ayez trompé
+qu’ils (elles) aient trompé
+
+** Plus-que-parfait
+
+que j'eusse trompé
+que tu eusses trompé
+qu’il (elle) eût trompé
+que nous eussions trompé
+que vous eussiez trompé
+qu’ils (elles) eussent trompé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trompé
+ayez trompé
+
+* INFINITIF
+
+** Passé
+
+avoir trompé
+
+* PARTICIPE
+
+** Passé
+
+ayant trompé
+trompé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis trompé(e)
+tu es trompé(e)
+il (elle) est trompé(e)
+nous sommes trompé(e)s
+vous êtes trompé(e)s
+ils (elles) sont trompé(e)s
+
+** Imparfait
+
+j'étais trompé(e)
+tu étais trompé(e)
+il (elle) était trompé(e)
+nous étions trompé(e)s
+vous étiez trompé(e)s
+ils (elles) étaient trompé(e)s
+
+** Passé simple
+
+je fus trompé(e)
+tu fus trompé(e)
+il (elle) fut trompé(e)
+nous fûmes trompé(e)s
+vous fûtes trompé(e)s
+ils (elles) furent trompé(e)s
+
+** Futur simple
+
+je serai trompé(e)
+tu seras trompé(e)
+il (elle) sera trompé(e)
+nous serons trompé(e)s
+vous serez trompé(e)s
+ils (elles) seront trompé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trompé(e)
+tu serais trompé(e)
+il (elle) serait trompé(e)
+nous serions trompé(e)s
+vous seriez trompé(e)s
+ils (elles) seraient trompé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trompé(e)
+que tu sois trompé(e)
+qu’il (elle) soit trompé(e)
+que nous soyons trompé(e)s
+que vous soyez trompé(e)s
+qu’ils (elles) soient trompé(e)s
+
+** Imparfait
+
+que je fusse trompé(e)
+que tu fusses trompé(e)
+qu’il (elle) fût trompé(e)
+que nous fussions trompé(e)s
+que vous fussiez trompé(e)s
+qu’ils (elles) fussent trompé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trompé(e)s
+soyez trompé(e)s
+
+* INFINITIF
+
+** Présent
+
+être trompé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trompé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trompé(e)
+tu as été trompé(e)
+il (elle) a été trompé(e)
+nous avons été trompé(e)s
+vous avez été trompé(e)s
+ils (elles) ont été trompé(e)s
+
+** Plus-que-parfait
+
+j'avais été trompé(e)
+il (elle) avait été trompé(e)
+nous avions été trompé(e)s
+ils (elles) avaient été trompé(e)s
+
+** Passé antérieur
+
+j'eus été trompé(e)
+tu eus été trompé(e)
+il (elle) eut été trompé(e)
+nous eûmes été trompé(e)s
+vous eûtes été trompé(e)s
+ils (elles) eurent été trompé(e)s
+
+** Futur antérieur
+
+j'aurai été trompé(e)
+tu auras été trompé(e)
+il (elle) aura été trompé(e)
+nous aurons été trompé(e)s
+vous aurez été trompé(e)s
+ils (elles) auront été trompé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trompé(e)
+j'aurais été trompé(e)
+il (elle) aurait été trompé(e)
+nous aurions été trompé(e)s
+vous auriez été trompé(e)s
+ils (elles) auraient été trompé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trompé(e)
+que tu aies été trompé(e)
+qu’il (elle) ait été trompé(e)
+que nous ayons été trompé(e)s
+que vous ayez été trompé(e)s
+qu’ils (elles) aient été trompé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trompé(e)
+que tu eusses été trompé(e)
+qu’il (elle) eût été trompé(e)
+que nous eussions été trompé(e)s
+que vous eussiez été trompé(e)s
+qu’ils (elles) eussent été trompé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trompé(e)
+ayons été trompé(e)s
+ayez été trompé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trompé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trompé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe epater
+
+* INDICATIF
+
+** Présent
+
+j'épate
+tu épates
+il (elle) épate
+nous épatons
+vous épatez
+ils (elles) épatent
+
+** Imparfait
+
+j'épatais
+tu épatais
+il (elle) épatait
+nous épations
+vous épatiez
+ils (elles) épataient
+
+** Passé simple
+
+j'épatai
+tu épatas
+il (elle) épata
+nous épatâmes
+vous épatâtes
+ils (elles) épatèrent
+
+** Futur simple
+
+j'épaterai
+tu épateras
+il (elle) épatera
+nous épaterons
+vous épaterez
+ils (elles) épateront
+
+* CONDITIONNEL
+
+** Présent
+
+j'épaterais
+tu épaterais
+il (elle) épaterait
+nous épaterions
+vous épateriez
+ils (elles) épateraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'épate
+que tu épates
+qu’il (elle) épate
+que nous épations
+que vous épatiez
+qu’ils (elles) épatent
+
+** Imparfait
+
+que j'épatasse
+que tu épatasses
+qu’il (elle) épatât
+que nous épatassions
+que vous épatassiez
+qu’ils (elles) épatassent
+
+* IMPÉRATIF
+
+** Présent
+
+épate
+épatons
+épatez
+
+* INFINITIF
+
+** Présent
+
+épater
+
+* PARTICIPE
+
+** Présent
+
+épatant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai épaté
+tu as épaté
+il (elle) a épaté
+nous avons épaté
+vous avez épaté
+ils (elles) ont épaté
+
+** Plus-que-parfait
+
+j'avais épaté
+tu avais épaté
+il (elle) avait épaté
+nous avions épaté
+vous aviez épaté
+ils (elles) avaient épaté
+
+** Passé antérieur
+
+j'eus épaté
+tu eus épaté
+il (elle) eut épaté
+nous eûmes épaté
+vous eûtes épaté
+ils (elles) eurent épaté
+
+** Futur antérieur
+
+j'aurai épaté
+tu auras épaté
+il (elle) aura épaté
+nous aurons épaté
+vous aurez épaté
+ils (elles) auront épaté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais épaté
+tu aurais épaté
+il (elle) aurait épaté
+nous aurions épaté
+vous auriez épaté
+ils (elles) auraient épaté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie épaté
+que tu aies épaté
+qu’il (elle) ait épaté
+que nous ayons épaté
+que vous ayez épaté
+qu’ils (elles) aient épaté
+
+** Plus-que-parfait
+
+que j'eusse épaté
+que tu eusses épaté
+qu’il (elle) eût épaté
+que nous eussions épaté
+que vous eussiez épaté
+qu’ils (elles) eussent épaté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons épaté
+ayez épaté
+
+* INFINITIF
+
+** Passé
+
+avoir épaté
+
+* PARTICIPE
+
+** Passé
+
+ayant épaté
+épaté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis épaté(e)
+tu es épaté(e)
+il (elle) est épaté(e)
+nous sommes épaté(e)s
+vous êtes épaté(e)s
+ils (elles) sont épaté(e)s
+
+** Imparfait
+
+j'étais épaté(e)
+tu étais épaté(e)
+il (elle) était épaté(e)
+nous étions épaté(e)s
+vous étiez épaté(e)s
+ils (elles) étaient épaté(e)s
+
+** Passé simple
+
+je fus épaté(e)
+tu fus épaté(e)
+il (elle) fut épaté(e)
+nous fûmes épaté(e)s
+vous fûtes épaté(e)s
+ils (elles) furent épaté(e)s
+
+** Futur simple
+
+je serai épaté(e)
+tu seras épaté(e)
+il (elle) sera épaté(e)
+nous serons épaté(e)s
+vous serez épaté(e)s
+ils (elles) seront épaté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais épaté(e)
+tu serais épaté(e)
+il (elle) serait épaté(e)
+nous serions épaté(e)s
+vous seriez épaté(e)s
+ils (elles) seraient épaté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois épaté(e)
+que tu sois épaté(e)
+qu’il (elle) soit épaté(e)
+que nous soyons épaté(e)s
+que vous soyez épaté(e)s
+qu’ils (elles) soient épaté(e)s
+
+** Imparfait
+
+que je fusse épaté(e)
+que tu fusses épaté(e)
+qu’il (elle) fût épaté(e)
+que nous fussions épaté(e)s
+que vous fussiez épaté(e)s
+qu’ils (elles) fussent épaté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons épaté(e)s
+soyez épaté(e)s
+
+* INFINITIF
+
+** Présent
+
+être épaté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant épaté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été épaté(e)
+tu as été épaté(e)
+il (elle) a été épaté(e)
+nous avons été épaté(e)s
+vous avez été épaté(e)s
+ils (elles) ont été épaté(e)s
+
+** Plus-que-parfait
+
+j'avais été épaté(e)
+il (elle) avait été épaté(e)
+nous avions été épaté(e)s
+ils (elles) avaient été épaté(e)s
+
+** Passé antérieur
+
+j'eus été épaté(e)
+tu eus été épaté(e)
+il (elle) eut été épaté(e)
+nous eûmes été épaté(e)s
+vous eûtes été épaté(e)s
+ils (elles) eurent été épaté(e)s
+
+** Futur antérieur
+
+j'aurai été épaté(e)
+tu auras été épaté(e)
+il (elle) aura été épaté(e)
+nous aurons été épaté(e)s
+vous aurez été épaté(e)s
+ils (elles) auront été épaté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été épaté(e)
+j'aurais été épaté(e)
+il (elle) aurait été épaté(e)
+nous aurions été épaté(e)s
+vous auriez été épaté(e)s
+ils (elles) auraient été épaté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été épaté(e)
+que tu aies été épaté(e)
+qu’il (elle) ait été épaté(e)
+que nous ayons été épaté(e)s
+que vous ayez été épaté(e)s
+qu’ils (elles) aient été épaté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été épaté(e)
+que tu eusses été épaté(e)
+qu’il (elle) eût été épaté(e)
+que nous eussions été épaté(e)s
+que vous eussiez été épaté(e)s
+qu’ils (elles) eussent été épaté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été épaté(e)
+ayons été épaté(e)s
+ayez été épaté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été épaté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été épaté(e)(s)

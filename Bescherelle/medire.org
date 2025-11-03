@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe medire
+
+* INDICATIF
+
+** Présent
+
+je médis
+tu médis
+il (elle) médit
+nous médisons
+vous médisez
+ils (elles) médisent
+
+** Imparfait
+
+je médisais
+tu médisais
+il (elle) médisait
+nous médisions
+vous médisiez
+ils (elles) médisaient
+
+** Passé simple
+
+je médis
+tu médis
+il (elle) médit
+nous médîmes
+vous médîtes
+ils (elles) médirent
+
+** Futur simple
+
+je médirai
+tu médiras
+il (elle) médira
+nous médirons
+vous médirez
+ils (elles) médiront
+
+* CONDITIONNEL
+
+** Présent
+
+je médirais
+tu médirais
+il (elle) médirait
+nous médirions
+vous médiriez
+ils (elles) médiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je médise
+que tu médises
+qu’il (elle) médise
+que nous médisions
+que vous médisiez
+qu’ils (elles) médisent
+
+** Imparfait
+
+que je médisse
+que tu médisses
+qu’il (elle) médît
+que nous médissions
+que vous médissiez
+qu’ils (elles) médissent
+
+* IMPÉRATIF
+
+** Présent
+
+médis
+médisons
+médisez
+
+* INFINITIF
+
+** Présent
+
+médire
+
+* PARTICIPE
+
+** Présent
+
+médisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai médit
+tu as médit
+il (elle) a médit
+nous avons médit
+vous avez médit
+ils (elles) ont médit
+
+** Plus-que-parfait
+
+j'avais médit
+tu avais médit
+il (elle) avait médit
+nous avions médit
+vous aviez médit
+ils (elles) avaient médit
+
+** Passé antérieur
+
+j'eus médit
+tu eus médit
+il (elle) eut médit
+nous eûmes médit
+vous eûtes médit
+ils (elles) eurent médit
+
+** Futur antérieur
+
+j'aurai médit
+tu auras médit
+il (elle) aura médit
+nous aurons médit
+vous aurez médit
+ils (elles) auront médit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais médit
+tu aurais médit
+il (elle) aurait médit
+nous aurions médit
+vous auriez médit
+ils (elles) auraient médit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie médit
+que tu aies médit
+qu’il (elle) ait médit
+que nous ayons médit
+que vous ayez médit
+qu’ils (elles) aient médit
+
+** Plus-que-parfait
+
+que j'eusse médit
+que tu eusses médit
+qu’il (elle) eût médit
+que nous eussions médit
+que vous eussiez médit
+qu’ils (elles) eussent médit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons médit
+ayez médit
+
+* INFINITIF
+
+** Passé
+
+avoir médit
+
+* PARTICIPE
+
+** Passé
+
+ayant médit
+médit (invar.)

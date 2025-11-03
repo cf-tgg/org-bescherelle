@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe garder
+
+* INDICATIF
+
+** Présent
+
+je garde
+tu gardes
+il (elle) garde
+nous gardons
+vous gardez
+ils (elles) gardent
+
+** Imparfait
+
+je gardais
+tu gardais
+il (elle) gardait
+nous gardions
+vous gardiez
+ils (elles) gardaient
+
+** Passé simple
+
+je gardai
+tu gardas
+il (elle) garda
+nous gardâmes
+vous gardâtes
+ils (elles) gardèrent
+
+** Futur simple
+
+je garderai
+tu garderas
+il (elle) gardera
+nous garderons
+vous garderez
+ils (elles) garderont
+
+* CONDITIONNEL
+
+** Présent
+
+je garderais
+tu garderais
+il (elle) garderait
+nous garderions
+vous garderiez
+ils (elles) garderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je garde
+que tu gardes
+qu’il (elle) garde
+que nous gardions
+que vous gardiez
+qu’ils (elles) gardent
+
+** Imparfait
+
+que je gardasse
+que tu gardasses
+qu’il (elle) gardât
+que nous gardassions
+que vous gardassiez
+qu’ils (elles) gardassent
+
+* IMPÉRATIF
+
+** Présent
+
+garde
+gardons
+gardez
+
+* INFINITIF
+
+** Présent
+
+garder
+
+* PARTICIPE
+
+** Présent
+
+gardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gardé
+tu as gardé
+il (elle) a gardé
+nous avons gardé
+vous avez gardé
+ils (elles) ont gardé
+
+** Plus-que-parfait
+
+j'avais gardé
+tu avais gardé
+il (elle) avait gardé
+nous avions gardé
+vous aviez gardé
+ils (elles) avaient gardé
+
+** Passé antérieur
+
+j'eus gardé
+tu eus gardé
+il (elle) eut gardé
+nous eûmes gardé
+vous eûtes gardé
+ils (elles) eurent gardé
+
+** Futur antérieur
+
+j'aurai gardé
+tu auras gardé
+il (elle) aura gardé
+nous aurons gardé
+vous aurez gardé
+ils (elles) auront gardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gardé
+tu aurais gardé
+il (elle) aurait gardé
+nous aurions gardé
+vous auriez gardé
+ils (elles) auraient gardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gardé
+que tu aies gardé
+qu’il (elle) ait gardé
+que nous ayons gardé
+que vous ayez gardé
+qu’ils (elles) aient gardé
+
+** Plus-que-parfait
+
+que j'eusse gardé
+que tu eusses gardé
+qu’il (elle) eût gardé
+que nous eussions gardé
+que vous eussiez gardé
+qu’ils (elles) eussent gardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gardé
+ayez gardé
+
+* INFINITIF
+
+** Passé
+
+avoir gardé
+
+* PARTICIPE
+
+** Passé
+
+ayant gardé
+gardé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gardé(e)
+tu es gardé(e)
+il (elle) est gardé(e)
+nous sommes gardé(e)s
+vous êtes gardé(e)s
+ils (elles) sont gardé(e)s
+
+** Imparfait
+
+j'étais gardé(e)
+tu étais gardé(e)
+il (elle) était gardé(e)
+nous étions gardé(e)s
+vous étiez gardé(e)s
+ils (elles) étaient gardé(e)s
+
+** Passé simple
+
+je fus gardé(e)
+tu fus gardé(e)
+il (elle) fut gardé(e)
+nous fûmes gardé(e)s
+vous fûtes gardé(e)s
+ils (elles) furent gardé(e)s
+
+** Futur simple
+
+je serai gardé(e)
+tu seras gardé(e)
+il (elle) sera gardé(e)
+nous serons gardé(e)s
+vous serez gardé(e)s
+ils (elles) seront gardé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gardé(e)
+tu serais gardé(e)
+il (elle) serait gardé(e)
+nous serions gardé(e)s
+vous seriez gardé(e)s
+ils (elles) seraient gardé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gardé(e)
+que tu sois gardé(e)
+qu’il (elle) soit gardé(e)
+que nous soyons gardé(e)s
+que vous soyez gardé(e)s
+qu’ils (elles) soient gardé(e)s
+
+** Imparfait
+
+que je fusse gardé(e)
+que tu fusses gardé(e)
+qu’il (elle) fût gardé(e)
+que nous fussions gardé(e)s
+que vous fussiez gardé(e)s
+qu’ils (elles) fussent gardé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gardé(e)s
+soyez gardé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gardé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gardé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gardé(e)
+tu as été gardé(e)
+il (elle) a été gardé(e)
+nous avons été gardé(e)s
+vous avez été gardé(e)s
+ils (elles) ont été gardé(e)s
+
+** Plus-que-parfait
+
+j'avais été gardé(e)
+il (elle) avait été gardé(e)
+nous avions été gardé(e)s
+ils (elles) avaient été gardé(e)s
+
+** Passé antérieur
+
+j'eus été gardé(e)
+tu eus été gardé(e)
+il (elle) eut été gardé(e)
+nous eûmes été gardé(e)s
+vous eûtes été gardé(e)s
+ils (elles) eurent été gardé(e)s
+
+** Futur antérieur
+
+j'aurai été gardé(e)
+tu auras été gardé(e)
+il (elle) aura été gardé(e)
+nous aurons été gardé(e)s
+vous aurez été gardé(e)s
+ils (elles) auront été gardé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gardé(e)
+j'aurais été gardé(e)
+il (elle) aurait été gardé(e)
+nous aurions été gardé(e)s
+vous auriez été gardé(e)s
+ils (elles) auraient été gardé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gardé(e)
+que tu aies été gardé(e)
+qu’il (elle) ait été gardé(e)
+que nous ayons été gardé(e)s
+que vous ayez été gardé(e)s
+qu’ils (elles) aient été gardé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gardé(e)
+que tu eusses été gardé(e)
+qu’il (elle) eût été gardé(e)
+que nous eussions été gardé(e)s
+que vous eussiez été gardé(e)s
+qu’ils (elles) eussent été gardé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gardé(e)
+ayons été gardé(e)s
+ayez été gardé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gardé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gardé(e)(s)

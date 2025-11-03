@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accumuler
+
+* INDICATIF
+
+** Présent
+
+j'accumule
+tu accumules
+il (elle) accumule
+nous accumulons
+vous accumulez
+ils (elles) accumulent
+
+** Imparfait
+
+j'accumulais
+tu accumulais
+il (elle) accumulait
+nous accumulions
+vous accumuliez
+ils (elles) accumulaient
+
+** Passé simple
+
+j'accumulai
+tu accumulas
+il (elle) accumula
+nous accumulâmes
+vous accumulâtes
+ils (elles) accumulèrent
+
+** Futur simple
+
+j'accumulerai
+tu accumuleras
+il (elle) accumulera
+nous accumulerons
+vous accumulerez
+ils (elles) accumuleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accumulerais
+tu accumulerais
+il (elle) accumulerait
+nous accumulerions
+vous accumuleriez
+ils (elles) accumuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accumule
+que tu accumules
+qu’il (elle) accumule
+que nous accumulions
+que vous accumuliez
+qu’ils (elles) accumulent
+
+** Imparfait
+
+que j'accumulasse
+que tu accumulasses
+qu’il (elle) accumulât
+que nous accumulassions
+que vous accumulassiez
+qu’ils (elles) accumulassent
+
+* IMPÉRATIF
+
+** Présent
+
+accumule
+accumulons
+accumulez
+
+* INFINITIF
+
+** Présent
+
+accumuler
+
+* PARTICIPE
+
+** Présent
+
+accumulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accumulé
+tu as accumulé
+il (elle) a accumulé
+nous avons accumulé
+vous avez accumulé
+ils (elles) ont accumulé
+
+** Plus-que-parfait
+
+j'avais accumulé
+tu avais accumulé
+il (elle) avait accumulé
+nous avions accumulé
+vous aviez accumulé
+ils (elles) avaient accumulé
+
+** Passé antérieur
+
+j'eus accumulé
+tu eus accumulé
+il (elle) eut accumulé
+nous eûmes accumulé
+vous eûtes accumulé
+ils (elles) eurent accumulé
+
+** Futur antérieur
+
+j'aurai accumulé
+tu auras accumulé
+il (elle) aura accumulé
+nous aurons accumulé
+vous aurez accumulé
+ils (elles) auront accumulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accumulé
+tu aurais accumulé
+il (elle) aurait accumulé
+nous aurions accumulé
+vous auriez accumulé
+ils (elles) auraient accumulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accumulé
+que tu aies accumulé
+qu’il (elle) ait accumulé
+que nous ayons accumulé
+que vous ayez accumulé
+qu’ils (elles) aient accumulé
+
+** Plus-que-parfait
+
+que j'eusse accumulé
+que tu eusses accumulé
+qu’il (elle) eût accumulé
+que nous eussions accumulé
+que vous eussiez accumulé
+qu’ils (elles) eussent accumulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accumulé
+ayez accumulé
+
+* INFINITIF
+
+** Passé
+
+avoir accumulé
+
+* PARTICIPE
+
+** Passé
+
+ayant accumulé
+accumulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accumulé(e)
+tu es accumulé(e)
+il (elle) est accumulé(e)
+nous sommes accumulé(e)s
+vous êtes accumulé(e)s
+ils (elles) sont accumulé(e)s
+
+** Imparfait
+
+j'étais accumulé(e)
+tu étais accumulé(e)
+il (elle) était accumulé(e)
+nous étions accumulé(e)s
+vous étiez accumulé(e)s
+ils (elles) étaient accumulé(e)s
+
+** Passé simple
+
+je fus accumulé(e)
+tu fus accumulé(e)
+il (elle) fut accumulé(e)
+nous fûmes accumulé(e)s
+vous fûtes accumulé(e)s
+ils (elles) furent accumulé(e)s
+
+** Futur simple
+
+je serai accumulé(e)
+tu seras accumulé(e)
+il (elle) sera accumulé(e)
+nous serons accumulé(e)s
+vous serez accumulé(e)s
+ils (elles) seront accumulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accumulé(e)
+tu serais accumulé(e)
+il (elle) serait accumulé(e)
+nous serions accumulé(e)s
+vous seriez accumulé(e)s
+ils (elles) seraient accumulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accumulé(e)
+que tu sois accumulé(e)
+qu’il (elle) soit accumulé(e)
+que nous soyons accumulé(e)s
+que vous soyez accumulé(e)s
+qu’ils (elles) soient accumulé(e)s
+
+** Imparfait
+
+que je fusse accumulé(e)
+que tu fusses accumulé(e)
+qu’il (elle) fût accumulé(e)
+que nous fussions accumulé(e)s
+que vous fussiez accumulé(e)s
+qu’ils (elles) fussent accumulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accumulé(e)s
+soyez accumulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être accumulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accumulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accumulé(e)
+tu as été accumulé(e)
+il (elle) a été accumulé(e)
+nous avons été accumulé(e)s
+vous avez été accumulé(e)s
+ils (elles) ont été accumulé(e)s
+
+** Plus-que-parfait
+
+j'avais été accumulé(e)
+il (elle) avait été accumulé(e)
+nous avions été accumulé(e)s
+ils (elles) avaient été accumulé(e)s
+
+** Passé antérieur
+
+j'eus été accumulé(e)
+tu eus été accumulé(e)
+il (elle) eut été accumulé(e)
+nous eûmes été accumulé(e)s
+vous eûtes été accumulé(e)s
+ils (elles) eurent été accumulé(e)s
+
+** Futur antérieur
+
+j'aurai été accumulé(e)
+tu auras été accumulé(e)
+il (elle) aura été accumulé(e)
+nous aurons été accumulé(e)s
+vous aurez été accumulé(e)s
+ils (elles) auront été accumulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accumulé(e)
+j'aurais été accumulé(e)
+il (elle) aurait été accumulé(e)
+nous aurions été accumulé(e)s
+vous auriez été accumulé(e)s
+ils (elles) auraient été accumulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accumulé(e)
+que tu aies été accumulé(e)
+qu’il (elle) ait été accumulé(e)
+que nous ayons été accumulé(e)s
+que vous ayez été accumulé(e)s
+qu’ils (elles) aient été accumulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accumulé(e)
+que tu eusses été accumulé(e)
+qu’il (elle) eût été accumulé(e)
+que nous eussions été accumulé(e)s
+que vous eussiez été accumulé(e)s
+qu’ils (elles) eussent été accumulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accumulé(e)
+ayons été accumulé(e)s
+ayez été accumulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accumulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accumulé(e)(s)

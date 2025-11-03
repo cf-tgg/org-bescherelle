@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interroger
+
+* INDICATIF
+
+** Présent
+
+j'interroge
+tu interroges
+il (elle) interroge
+nous interrogeons
+vous interrogez
+ils (elles) interrogent
+
+** Imparfait
+
+j'interrogeais
+tu interrogeais
+il (elle) interrogeait
+nous interrogions
+vous interrogiez
+ils (elles) interrogeaient
+
+** Passé simple
+
+j'interrogeai
+tu interrogeas
+il (elle) interrogea
+nous interrogeâmes
+vous interrogeâtes
+ils (elles) interrogèrent
+
+** Futur simple
+
+j'interrogerai
+tu interrogeras
+il (elle) interrogera
+nous interrogerons
+vous interrogerez
+ils (elles) interrogeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interrogerais
+tu interrogerais
+il (elle) interrogerait
+nous interrogerions
+vous interrogeriez
+ils (elles) interrogeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interroge
+que tu interroges
+qu’il (elle) interroge
+que nous interrogions
+que vous interrogiez
+qu’ils (elles) interrogent
+
+** Imparfait
+
+que j'interrogeasse
+que tu interrogeasses
+qu’il (elle) interrogeât
+que nous interrogeassions
+que vous interrogeassiez
+qu’ils (elles) interrogeassent
+
+* IMPÉRATIF
+
+** Présent
+
+interroge
+interrogeons
+interrogez
+
+* INFINITIF
+
+** Présent
+
+interroger
+
+* PARTICIPE
+
+** Présent
+
+interrogeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interrogé
+tu as interrogé
+il (elle) a interrogé
+nous avons interrogé
+vous avez interrogé
+ils (elles) ont interrogé
+
+** Plus-que-parfait
+
+j'avais interrogé
+tu avais interrogé
+il (elle) avait interrogé
+nous avions interrogé
+vous aviez interrogé
+ils (elles) avaient interrogé
+
+** Passé antérieur
+
+j'eus interrogé
+tu eus interrogé
+il (elle) eut interrogé
+nous eûmes interrogé
+vous eûtes interrogé
+ils (elles) eurent interrogé
+
+** Futur antérieur
+
+j'aurai interrogé
+tu auras interrogé
+il (elle) aura interrogé
+nous aurons interrogé
+vous aurez interrogé
+ils (elles) auront interrogé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interrogé
+tu aurais interrogé
+il (elle) aurait interrogé
+nous aurions interrogé
+vous auriez interrogé
+ils (elles) auraient interrogé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interrogé
+que tu aies interrogé
+qu’il (elle) ait interrogé
+que nous ayons interrogé
+que vous ayez interrogé
+qu’ils (elles) aient interrogé
+
+** Plus-que-parfait
+
+que j'eusse interrogé
+que tu eusses interrogé
+qu’il (elle) eût interrogé
+que nous eussions interrogé
+que vous eussiez interrogé
+qu’ils (elles) eussent interrogé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interrogé
+ayez interrogé
+
+* INFINITIF
+
+** Passé
+
+avoir interrogé
+
+* PARTICIPE
+
+** Passé
+
+ayant interrogé
+interrogé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis interrogé(e)
+tu es interrogé(e)
+il (elle) est interrogé(e)
+nous sommes interrogé(e)s
+vous êtes interrogé(e)s
+ils (elles) sont interrogé(e)s
+
+** Imparfait
+
+j'étais interrogé(e)
+tu étais interrogé(e)
+il (elle) était interrogé(e)
+nous étions interrogé(e)s
+vous étiez interrogé(e)s
+ils (elles) étaient interrogé(e)s
+
+** Passé simple
+
+je fus interrogé(e)
+tu fus interrogé(e)
+il (elle) fut interrogé(e)
+nous fûmes interrogé(e)s
+vous fûtes interrogé(e)s
+ils (elles) furent interrogé(e)s
+
+** Futur simple
+
+je serai interrogé(e)
+tu seras interrogé(e)
+il (elle) sera interrogé(e)
+nous serons interrogé(e)s
+vous serez interrogé(e)s
+ils (elles) seront interrogé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interrogé(e)
+tu serais interrogé(e)
+il (elle) serait interrogé(e)
+nous serions interrogé(e)s
+vous seriez interrogé(e)s
+ils (elles) seraient interrogé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interrogé(e)
+que tu sois interrogé(e)
+qu’il (elle) soit interrogé(e)
+que nous soyons interrogé(e)s
+que vous soyez interrogé(e)s
+qu’ils (elles) soient interrogé(e)s
+
+** Imparfait
+
+que je fusse interrogé(e)
+que tu fusses interrogé(e)
+qu’il (elle) fût interrogé(e)
+que nous fussions interrogé(e)s
+que vous fussiez interrogé(e)s
+qu’ils (elles) fussent interrogé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interrogé(e)s
+soyez interrogé(e)s
+
+* INFINITIF
+
+** Présent
+
+être interrogé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interrogé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interrogé(e)
+tu as été interrogé(e)
+il (elle) a été interrogé(e)
+nous avons été interrogé(e)s
+vous avez été interrogé(e)s
+ils (elles) ont été interrogé(e)s
+
+** Plus-que-parfait
+
+j'avais été interrogé(e)
+il (elle) avait été interrogé(e)
+nous avions été interrogé(e)s
+ils (elles) avaient été interrogé(e)s
+
+** Passé antérieur
+
+j'eus été interrogé(e)
+tu eus été interrogé(e)
+il (elle) eut été interrogé(e)
+nous eûmes été interrogé(e)s
+vous eûtes été interrogé(e)s
+ils (elles) eurent été interrogé(e)s
+
+** Futur antérieur
+
+j'aurai été interrogé(e)
+tu auras été interrogé(e)
+il (elle) aura été interrogé(e)
+nous aurons été interrogé(e)s
+vous aurez été interrogé(e)s
+ils (elles) auront été interrogé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interrogé(e)
+j'aurais été interrogé(e)
+il (elle) aurait été interrogé(e)
+nous aurions été interrogé(e)s
+vous auriez été interrogé(e)s
+ils (elles) auraient été interrogé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interrogé(e)
+que tu aies été interrogé(e)
+qu’il (elle) ait été interrogé(e)
+que nous ayons été interrogé(e)s
+que vous ayez été interrogé(e)s
+qu’ils (elles) aient été interrogé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interrogé(e)
+que tu eusses été interrogé(e)
+qu’il (elle) eût été interrogé(e)
+que nous eussions été interrogé(e)s
+que vous eussiez été interrogé(e)s
+qu’ils (elles) eussent été interrogé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interrogé(e)
+ayons été interrogé(e)s
+ayez été interrogé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interrogé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interrogé(e)(s)

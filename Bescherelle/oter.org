@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe oter
+
+* INDICATIF
+
+** Présent
+
+j'ôte
+tu ôtes
+il (elle) ôte
+nous ôtons
+vous ôtez
+ils (elles) ôtent
+
+** Imparfait
+
+j'ôtais
+tu ôtais
+il (elle) ôtait
+nous ôtions
+vous ôtiez
+ils (elles) ôtaient
+
+** Passé simple
+
+j'ôtai
+tu ôtas
+il (elle) ôta
+nous ôtâmes
+vous ôtâtes
+ils (elles) ôtèrent
+
+** Futur simple
+
+j'ôterai
+tu ôteras
+il (elle) ôtera
+nous ôterons
+vous ôterez
+ils (elles) ôteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'ôterais
+tu ôterais
+il (elle) ôterait
+nous ôterions
+vous ôteriez
+ils (elles) ôteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'ôte
+que tu ôtes
+qu’il (elle) ôte
+que nous ôtions
+que vous ôtiez
+qu’ils (elles) ôtent
+
+** Imparfait
+
+que j'ôtasse
+que tu ôtasses
+qu’il (elle) ôtât
+que nous ôtassions
+que vous ôtassiez
+qu’ils (elles) ôtassent
+
+* IMPÉRATIF
+
+** Présent
+
+ôte
+ôtons
+ôtez
+
+* INFINITIF
+
+** Présent
+
+ôter
+
+* PARTICIPE
+
+** Présent
+
+ôtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ôté
+tu as ôté
+il (elle) a ôté
+nous avons ôté
+vous avez ôté
+ils (elles) ont ôté
+
+** Plus-que-parfait
+
+j'avais ôté
+tu avais ôté
+il (elle) avait ôté
+nous avions ôté
+vous aviez ôté
+ils (elles) avaient ôté
+
+** Passé antérieur
+
+j'eus ôté
+tu eus ôté
+il (elle) eut ôté
+nous eûmes ôté
+vous eûtes ôté
+ils (elles) eurent ôté
+
+** Futur antérieur
+
+j'aurai ôté
+tu auras ôté
+il (elle) aura ôté
+nous aurons ôté
+vous aurez ôté
+ils (elles) auront ôté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ôté
+tu aurais ôté
+il (elle) aurait ôté
+nous aurions ôté
+vous auriez ôté
+ils (elles) auraient ôté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ôté
+que tu aies ôté
+qu’il (elle) ait ôté
+que nous ayons ôté
+que vous ayez ôté
+qu’ils (elles) aient ôté
+
+** Plus-que-parfait
+
+que j'eusse ôté
+que tu eusses ôté
+qu’il (elle) eût ôté
+que nous eussions ôté
+que vous eussiez ôté
+qu’ils (elles) eussent ôté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ôté
+ayez ôté
+
+* INFINITIF
+
+** Passé
+
+avoir ôté
+
+* PARTICIPE
+
+** Passé
+
+ayant ôté
+ôté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ôté(e)
+tu es ôté(e)
+il (elle) est ôté(e)
+nous sommes ôté(e)s
+vous êtes ôté(e)s
+ils (elles) sont ôté(e)s
+
+** Imparfait
+
+j'étais ôté(e)
+tu étais ôté(e)
+il (elle) était ôté(e)
+nous étions ôté(e)s
+vous étiez ôté(e)s
+ils (elles) étaient ôté(e)s
+
+** Passé simple
+
+je fus ôté(e)
+tu fus ôté(e)
+il (elle) fut ôté(e)
+nous fûmes ôté(e)s
+vous fûtes ôté(e)s
+ils (elles) furent ôté(e)s
+
+** Futur simple
+
+je serai ôté(e)
+tu seras ôté(e)
+il (elle) sera ôté(e)
+nous serons ôté(e)s
+vous serez ôté(e)s
+ils (elles) seront ôté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ôté(e)
+tu serais ôté(e)
+il (elle) serait ôté(e)
+nous serions ôté(e)s
+vous seriez ôté(e)s
+ils (elles) seraient ôté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ôté(e)
+que tu sois ôté(e)
+qu’il (elle) soit ôté(e)
+que nous soyons ôté(e)s
+que vous soyez ôté(e)s
+qu’ils (elles) soient ôté(e)s
+
+** Imparfait
+
+que je fusse ôté(e)
+que tu fusses ôté(e)
+qu’il (elle) fût ôté(e)
+que nous fussions ôté(e)s
+que vous fussiez ôté(e)s
+qu’ils (elles) fussent ôté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ôté(e)s
+soyez ôté(e)s
+
+* INFINITIF
+
+** Présent
+
+être ôté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ôté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ôté(e)
+tu as été ôté(e)
+il (elle) a été ôté(e)
+nous avons été ôté(e)s
+vous avez été ôté(e)s
+ils (elles) ont été ôté(e)s
+
+** Plus-que-parfait
+
+j'avais été ôté(e)
+il (elle) avait été ôté(e)
+nous avions été ôté(e)s
+ils (elles) avaient été ôté(e)s
+
+** Passé antérieur
+
+j'eus été ôté(e)
+tu eus été ôté(e)
+il (elle) eut été ôté(e)
+nous eûmes été ôté(e)s
+vous eûtes été ôté(e)s
+ils (elles) eurent été ôté(e)s
+
+** Futur antérieur
+
+j'aurai été ôté(e)
+tu auras été ôté(e)
+il (elle) aura été ôté(e)
+nous aurons été ôté(e)s
+vous aurez été ôté(e)s
+ils (elles) auront été ôté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ôté(e)
+j'aurais été ôté(e)
+il (elle) aurait été ôté(e)
+nous aurions été ôté(e)s
+vous auriez été ôté(e)s
+ils (elles) auraient été ôté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ôté(e)
+que tu aies été ôté(e)
+qu’il (elle) ait été ôté(e)
+que nous ayons été ôté(e)s
+que vous ayez été ôté(e)s
+qu’ils (elles) aient été ôté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ôté(e)
+que tu eusses été ôté(e)
+qu’il (elle) eût été ôté(e)
+que nous eussions été ôté(e)s
+que vous eussiez été ôté(e)s
+qu’ils (elles) eussent été ôté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ôté(e)
+ayons été ôté(e)s
+ayez été ôté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ôté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ôté(e)(s)

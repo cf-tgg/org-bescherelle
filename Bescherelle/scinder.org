@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe scinder
+
+* INDICATIF
+
+** Présent
+
+je scinde
+tu scindes
+il (elle) scinde
+nous scindons
+vous scindez
+ils (elles) scindent
+
+** Imparfait
+
+je scindais
+tu scindais
+il (elle) scindait
+nous scindions
+vous scindiez
+ils (elles) scindaient
+
+** Passé simple
+
+je scindai
+tu scindas
+il (elle) scinda
+nous scindâmes
+vous scindâtes
+ils (elles) scindèrent
+
+** Futur simple
+
+je scinderai
+tu scinderas
+il (elle) scindera
+nous scinderons
+vous scinderez
+ils (elles) scinderont
+
+* CONDITIONNEL
+
+** Présent
+
+je scinderais
+tu scinderais
+il (elle) scinderait
+nous scinderions
+vous scinderiez
+ils (elles) scinderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je scinde
+que tu scindes
+qu’il (elle) scinde
+que nous scindions
+que vous scindiez
+qu’ils (elles) scindent
+
+** Imparfait
+
+que je scindasse
+que tu scindasses
+qu’il (elle) scindât
+que nous scindassions
+que vous scindassiez
+qu’ils (elles) scindassent
+
+* IMPÉRATIF
+
+** Présent
+
+scinde
+scindons
+scindez
+
+* INFINITIF
+
+** Présent
+
+scinder
+
+* PARTICIPE
+
+** Présent
+
+scindant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai scindé
+tu as scindé
+il (elle) a scindé
+nous avons scindé
+vous avez scindé
+ils (elles) ont scindé
+
+** Plus-que-parfait
+
+j'avais scindé
+tu avais scindé
+il (elle) avait scindé
+nous avions scindé
+vous aviez scindé
+ils (elles) avaient scindé
+
+** Passé antérieur
+
+j'eus scindé
+tu eus scindé
+il (elle) eut scindé
+nous eûmes scindé
+vous eûtes scindé
+ils (elles) eurent scindé
+
+** Futur antérieur
+
+j'aurai scindé
+tu auras scindé
+il (elle) aura scindé
+nous aurons scindé
+vous aurez scindé
+ils (elles) auront scindé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais scindé
+tu aurais scindé
+il (elle) aurait scindé
+nous aurions scindé
+vous auriez scindé
+ils (elles) auraient scindé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie scindé
+que tu aies scindé
+qu’il (elle) ait scindé
+que nous ayons scindé
+que vous ayez scindé
+qu’ils (elles) aient scindé
+
+** Plus-que-parfait
+
+que j'eusse scindé
+que tu eusses scindé
+qu’il (elle) eût scindé
+que nous eussions scindé
+que vous eussiez scindé
+qu’ils (elles) eussent scindé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons scindé
+ayez scindé
+
+* INFINITIF
+
+** Passé
+
+avoir scindé
+
+* PARTICIPE
+
+** Passé
+
+ayant scindé
+scindé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis scindé(e)
+tu es scindé(e)
+il (elle) est scindé(e)
+nous sommes scindé(e)s
+vous êtes scindé(e)s
+ils (elles) sont scindé(e)s
+
+** Imparfait
+
+j'étais scindé(e)
+tu étais scindé(e)
+il (elle) était scindé(e)
+nous étions scindé(e)s
+vous étiez scindé(e)s
+ils (elles) étaient scindé(e)s
+
+** Passé simple
+
+je fus scindé(e)
+tu fus scindé(e)
+il (elle) fut scindé(e)
+nous fûmes scindé(e)s
+vous fûtes scindé(e)s
+ils (elles) furent scindé(e)s
+
+** Futur simple
+
+je serai scindé(e)
+tu seras scindé(e)
+il (elle) sera scindé(e)
+nous serons scindé(e)s
+vous serez scindé(e)s
+ils (elles) seront scindé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais scindé(e)
+tu serais scindé(e)
+il (elle) serait scindé(e)
+nous serions scindé(e)s
+vous seriez scindé(e)s
+ils (elles) seraient scindé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois scindé(e)
+que tu sois scindé(e)
+qu’il (elle) soit scindé(e)
+que nous soyons scindé(e)s
+que vous soyez scindé(e)s
+qu’ils (elles) soient scindé(e)s
+
+** Imparfait
+
+que je fusse scindé(e)
+que tu fusses scindé(e)
+qu’il (elle) fût scindé(e)
+que nous fussions scindé(e)s
+que vous fussiez scindé(e)s
+qu’ils (elles) fussent scindé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons scindé(e)s
+soyez scindé(e)s
+
+* INFINITIF
+
+** Présent
+
+être scindé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant scindé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été scindé(e)
+tu as été scindé(e)
+il (elle) a été scindé(e)
+nous avons été scindé(e)s
+vous avez été scindé(e)s
+ils (elles) ont été scindé(e)s
+
+** Plus-que-parfait
+
+j'avais été scindé(e)
+il (elle) avait été scindé(e)
+nous avions été scindé(e)s
+ils (elles) avaient été scindé(e)s
+
+** Passé antérieur
+
+j'eus été scindé(e)
+tu eus été scindé(e)
+il (elle) eut été scindé(e)
+nous eûmes été scindé(e)s
+vous eûtes été scindé(e)s
+ils (elles) eurent été scindé(e)s
+
+** Futur antérieur
+
+j'aurai été scindé(e)
+tu auras été scindé(e)
+il (elle) aura été scindé(e)
+nous aurons été scindé(e)s
+vous aurez été scindé(e)s
+ils (elles) auront été scindé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été scindé(e)
+j'aurais été scindé(e)
+il (elle) aurait été scindé(e)
+nous aurions été scindé(e)s
+vous auriez été scindé(e)s
+ils (elles) auraient été scindé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été scindé(e)
+que tu aies été scindé(e)
+qu’il (elle) ait été scindé(e)
+que nous ayons été scindé(e)s
+que vous ayez été scindé(e)s
+qu’ils (elles) aient été scindé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été scindé(e)
+que tu eusses été scindé(e)
+qu’il (elle) eût été scindé(e)
+que nous eussions été scindé(e)s
+que vous eussiez été scindé(e)s
+qu’ils (elles) eussent été scindé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été scindé(e)
+ayons été scindé(e)s
+ayez été scindé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été scindé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été scindé(e)(s)

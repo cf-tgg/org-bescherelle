@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tenir
+
+* INDICATIF
+
+** Présent
+
+je tiens
+tu tiens
+il (elle) tient
+nous tenons
+vous tenez
+ils (elles) tiennent
+
+** Imparfait
+
+je tenais
+tu tenais
+il (elle) tenait
+nous tenions
+vous teniez
+ils (elles) tenaient
+
+** Passé simple
+
+je tins
+tu tins
+il (elle) tint
+nous tînmes
+vous tîntes
+ils (elles) tinrent
+
+** Futur simple
+
+je tiendrai
+tu tiendras
+il (elle) tiendra
+nous tiendrons
+vous tiendrez
+ils (elles) tiendront
+
+* CONDITIONNEL
+
+** Présent
+
+je tiendrais
+tu tiendrais
+il (elle) tiendrait
+nous tiendrions
+vous tiendriez
+ils (elles) tiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tienne
+que tu tiennes
+qu’il (elle) tienne
+que nous tenions
+que vous teniez
+qu’ils (elles) tiennent
+
+** Imparfait
+
+que je tinsse
+que tu tinsses
+qu’il (elle) tînt
+que nous tinssions
+que vous tinssiez
+qu’ils (elles) tinssent
+
+* IMPÉRATIF
+
+** Présent
+
+tiens
+tenons
+tenez
+
+* INFINITIF
+
+** Présent
+
+tenir
+
+* PARTICIPE
+
+** Présent
+
+tenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tenu
+tu as tenu
+il (elle) a tenu
+nous avons tenu
+vous avez tenu
+ils (elles) ont tenu
+
+** Plus-que-parfait
+
+j'avais tenu
+tu avais tenu
+il (elle) avait tenu
+nous avions tenu
+vous aviez tenu
+ils (elles) avaient tenu
+
+** Passé antérieur
+
+j'eus tenu
+tu eus tenu
+il (elle) eut tenu
+nous eûmes tenu
+vous eûtes tenu
+ils (elles) eurent tenu
+
+** Futur antérieur
+
+j'aurai tenu
+tu auras tenu
+il (elle) aura tenu
+nous aurons tenu
+vous aurez tenu
+ils (elles) auront tenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tenu
+tu aurais tenu
+il (elle) aurait tenu
+nous aurions tenu
+vous auriez tenu
+ils (elles) auraient tenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tenu
+que tu aies tenu
+qu’il (elle) ait tenu
+que nous ayons tenu
+que vous ayez tenu
+qu’ils (elles) aient tenu
+
+** Plus-que-parfait
+
+que j'eusse tenu
+que tu eusses tenu
+qu’il (elle) eût tenu
+que nous eussions tenu
+que vous eussiez tenu
+qu’ils (elles) eussent tenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tenu
+ayez tenu
+
+* INFINITIF
+
+** Passé
+
+avoir tenu
+
+* PARTICIPE
+
+** Passé
+
+ayant tenu
+tenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis tenu(e)
+tu es tenu(e)
+il (elle) est tenu(e)
+nous sommes tenu(e)s
+vous êtes tenu(e)s
+ils (elles) sont tenu(e)s
+
+** Imparfait
+
+j'étais tenu(e)
+tu étais tenu(e)
+il (elle) était tenu(e)
+nous étions tenu(e)s
+vous étiez tenu(e)s
+ils (elles) étaient tenu(e)s
+
+** Passé simple
+
+je fus tenu(e)
+tu fus tenu(e)
+il (elle) fut tenu(e)
+nous fûmes tenu(e)s
+vous fûtes tenu(e)s
+ils (elles) furent tenu(e)s
+
+** Futur simple
+
+je serai tenu(e)
+tu seras tenu(e)
+il (elle) sera tenu(e)
+nous serons tenu(e)s
+vous serez tenu(e)s
+ils (elles) seront tenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tenu(e)
+tu serais tenu(e)
+il (elle) serait tenu(e)
+nous serions tenu(e)s
+vous seriez tenu(e)s
+ils (elles) seraient tenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tenu(e)
+que tu sois tenu(e)
+qu’il (elle) soit tenu(e)
+que nous soyons tenu(e)s
+que vous soyez tenu(e)s
+qu’ils (elles) soient tenu(e)s
+
+** Imparfait
+
+que je fusse tenu(e)
+que tu fusses tenu(e)
+qu’il (elle) fût tenu(e)
+que nous fussions tenu(e)s
+que vous fussiez tenu(e)s
+qu’ils (elles) fussent tenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tenu(e)s
+soyez tenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être tenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tenu(e)
+tu as été tenu(e)
+il (elle) a été tenu(e)
+nous avons été tenu(e)s
+vous avez été tenu(e)s
+ils (elles) ont été tenu(e)s
+
+** Plus-que-parfait
+
+j'avais été tenu(e)
+il (elle) avait été tenu(e)
+nous avions été tenu(e)s
+ils (elles) avaient été tenu(e)s
+
+** Passé antérieur
+
+j'eus été tenu(e)
+tu eus été tenu(e)
+il (elle) eut été tenu(e)
+nous eûmes été tenu(e)s
+vous eûtes été tenu(e)s
+ils (elles) eurent été tenu(e)s
+
+** Futur antérieur
+
+j'aurai été tenu(e)
+tu auras été tenu(e)
+il (elle) aura été tenu(e)
+nous aurons été tenu(e)s
+vous aurez été tenu(e)s
+ils (elles) auront été tenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tenu(e)
+j'aurais été tenu(e)
+il (elle) aurait été tenu(e)
+nous aurions été tenu(e)s
+vous auriez été tenu(e)s
+ils (elles) auraient été tenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tenu(e)
+que tu aies été tenu(e)
+qu’il (elle) ait été tenu(e)
+que nous ayons été tenu(e)s
+que vous ayez été tenu(e)s
+qu’ils (elles) aient été tenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tenu(e)
+que tu eusses été tenu(e)
+qu’il (elle) eût été tenu(e)
+que nous eussions été tenu(e)s
+que vous eussiez été tenu(e)s
+qu’ils (elles) eussent été tenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tenu(e)
+ayons été tenu(e)s
+ayez été tenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tenu(e)(s)

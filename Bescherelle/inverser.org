@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inverser
+
+* INDICATIF
+
+** Présent
+
+j'inverse
+tu inverses
+il (elle) inverse
+nous inversons
+vous inversez
+ils (elles) inversent
+
+** Imparfait
+
+j'inversais
+tu inversais
+il (elle) inversait
+nous inversions
+vous inversiez
+ils (elles) inversaient
+
+** Passé simple
+
+j'inversai
+tu inversas
+il (elle) inversa
+nous inversâmes
+vous inversâtes
+ils (elles) inversèrent
+
+** Futur simple
+
+j'inverserai
+tu inverseras
+il (elle) inversera
+nous inverserons
+vous inverserez
+ils (elles) inverseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inverserais
+tu inverserais
+il (elle) inverserait
+nous inverserions
+vous inverseriez
+ils (elles) inverseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inverse
+que tu inverses
+qu’il (elle) inverse
+que nous inversions
+que vous inversiez
+qu’ils (elles) inversent
+
+** Imparfait
+
+que j'inversasse
+que tu inversasses
+qu’il (elle) inversât
+que nous inversassions
+que vous inversassiez
+qu’ils (elles) inversassent
+
+* IMPÉRATIF
+
+** Présent
+
+inverse
+inversons
+inversez
+
+* INFINITIF
+
+** Présent
+
+inverser
+
+* PARTICIPE
+
+** Présent
+
+inversant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inversé
+tu as inversé
+il (elle) a inversé
+nous avons inversé
+vous avez inversé
+ils (elles) ont inversé
+
+** Plus-que-parfait
+
+j'avais inversé
+tu avais inversé
+il (elle) avait inversé
+nous avions inversé
+vous aviez inversé
+ils (elles) avaient inversé
+
+** Passé antérieur
+
+j'eus inversé
+tu eus inversé
+il (elle) eut inversé
+nous eûmes inversé
+vous eûtes inversé
+ils (elles) eurent inversé
+
+** Futur antérieur
+
+j'aurai inversé
+tu auras inversé
+il (elle) aura inversé
+nous aurons inversé
+vous aurez inversé
+ils (elles) auront inversé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inversé
+tu aurais inversé
+il (elle) aurait inversé
+nous aurions inversé
+vous auriez inversé
+ils (elles) auraient inversé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inversé
+que tu aies inversé
+qu’il (elle) ait inversé
+que nous ayons inversé
+que vous ayez inversé
+qu’ils (elles) aient inversé
+
+** Plus-que-parfait
+
+que j'eusse inversé
+que tu eusses inversé
+qu’il (elle) eût inversé
+que nous eussions inversé
+que vous eussiez inversé
+qu’ils (elles) eussent inversé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inversé
+ayez inversé
+
+* INFINITIF
+
+** Passé
+
+avoir inversé
+
+* PARTICIPE
+
+** Passé
+
+ayant inversé
+inversé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inversé(e)
+tu es inversé(e)
+il (elle) est inversé(e)
+nous sommes inversé(e)s
+vous êtes inversé(e)s
+ils (elles) sont inversé(e)s
+
+** Imparfait
+
+j'étais inversé(e)
+tu étais inversé(e)
+il (elle) était inversé(e)
+nous étions inversé(e)s
+vous étiez inversé(e)s
+ils (elles) étaient inversé(e)s
+
+** Passé simple
+
+je fus inversé(e)
+tu fus inversé(e)
+il (elle) fut inversé(e)
+nous fûmes inversé(e)s
+vous fûtes inversé(e)s
+ils (elles) furent inversé(e)s
+
+** Futur simple
+
+je serai inversé(e)
+tu seras inversé(e)
+il (elle) sera inversé(e)
+nous serons inversé(e)s
+vous serez inversé(e)s
+ils (elles) seront inversé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inversé(e)
+tu serais inversé(e)
+il (elle) serait inversé(e)
+nous serions inversé(e)s
+vous seriez inversé(e)s
+ils (elles) seraient inversé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inversé(e)
+que tu sois inversé(e)
+qu’il (elle) soit inversé(e)
+que nous soyons inversé(e)s
+que vous soyez inversé(e)s
+qu’ils (elles) soient inversé(e)s
+
+** Imparfait
+
+que je fusse inversé(e)
+que tu fusses inversé(e)
+qu’il (elle) fût inversé(e)
+que nous fussions inversé(e)s
+que vous fussiez inversé(e)s
+qu’ils (elles) fussent inversé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inversé(e)s
+soyez inversé(e)s
+
+* INFINITIF
+
+** Présent
+
+être inversé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inversé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inversé(e)
+tu as été inversé(e)
+il (elle) a été inversé(e)
+nous avons été inversé(e)s
+vous avez été inversé(e)s
+ils (elles) ont été inversé(e)s
+
+** Plus-que-parfait
+
+j'avais été inversé(e)
+il (elle) avait été inversé(e)
+nous avions été inversé(e)s
+ils (elles) avaient été inversé(e)s
+
+** Passé antérieur
+
+j'eus été inversé(e)
+tu eus été inversé(e)
+il (elle) eut été inversé(e)
+nous eûmes été inversé(e)s
+vous eûtes été inversé(e)s
+ils (elles) eurent été inversé(e)s
+
+** Futur antérieur
+
+j'aurai été inversé(e)
+tu auras été inversé(e)
+il (elle) aura été inversé(e)
+nous aurons été inversé(e)s
+vous aurez été inversé(e)s
+ils (elles) auront été inversé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inversé(e)
+j'aurais été inversé(e)
+il (elle) aurait été inversé(e)
+nous aurions été inversé(e)s
+vous auriez été inversé(e)s
+ils (elles) auraient été inversé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inversé(e)
+que tu aies été inversé(e)
+qu’il (elle) ait été inversé(e)
+que nous ayons été inversé(e)s
+que vous ayez été inversé(e)s
+qu’ils (elles) aient été inversé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inversé(e)
+que tu eusses été inversé(e)
+qu’il (elle) eût été inversé(e)
+que nous eussions été inversé(e)s
+que vous eussiez été inversé(e)s
+qu’ils (elles) eussent été inversé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inversé(e)
+ayons été inversé(e)s
+ayez été inversé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inversé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inversé(e)(s)

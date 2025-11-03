@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe regarder
+
+* INDICATIF
+
+** Présent
+
+je regarde
+tu regardes
+il (elle) regarde
+nous regardons
+vous regardez
+ils (elles) regardent
+
+** Imparfait
+
+je regardais
+tu regardais
+il (elle) regardait
+nous regardions
+vous regardiez
+ils (elles) regardaient
+
+** Passé simple
+
+je regardai
+tu regardas
+il (elle) regarda
+nous regardâmes
+vous regardâtes
+ils (elles) regardèrent
+
+** Futur simple
+
+je regarderai
+tu regarderas
+il (elle) regardera
+nous regarderons
+vous regarderez
+ils (elles) regarderont
+
+* CONDITIONNEL
+
+** Présent
+
+je regarderais
+tu regarderais
+il (elle) regarderait
+nous regarderions
+vous regarderiez
+ils (elles) regarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je regarde
+que tu regardes
+qu’il (elle) regarde
+que nous regardions
+que vous regardiez
+qu’ils (elles) regardent
+
+** Imparfait
+
+que je regardasse
+que tu regardasses
+qu’il (elle) regardât
+que nous regardassions
+que vous regardassiez
+qu’ils (elles) regardassent
+
+* IMPÉRATIF
+
+** Présent
+
+regarde
+regardons
+regardez
+
+* INFINITIF
+
+** Présent
+
+regarder
+
+* PARTICIPE
+
+** Présent
+
+regardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai regardé
+tu as regardé
+il (elle) a regardé
+nous avons regardé
+vous avez regardé
+ils (elles) ont regardé
+
+** Plus-que-parfait
+
+j'avais regardé
+tu avais regardé
+il (elle) avait regardé
+nous avions regardé
+vous aviez regardé
+ils (elles) avaient regardé
+
+** Passé antérieur
+
+j'eus regardé
+tu eus regardé
+il (elle) eut regardé
+nous eûmes regardé
+vous eûtes regardé
+ils (elles) eurent regardé
+
+** Futur antérieur
+
+j'aurai regardé
+tu auras regardé
+il (elle) aura regardé
+nous aurons regardé
+vous aurez regardé
+ils (elles) auront regardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais regardé
+tu aurais regardé
+il (elle) aurait regardé
+nous aurions regardé
+vous auriez regardé
+ils (elles) auraient regardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie regardé
+que tu aies regardé
+qu’il (elle) ait regardé
+que nous ayons regardé
+que vous ayez regardé
+qu’ils (elles) aient regardé
+
+** Plus-que-parfait
+
+que j'eusse regardé
+que tu eusses regardé
+qu’il (elle) eût regardé
+que nous eussions regardé
+que vous eussiez regardé
+qu’ils (elles) eussent regardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons regardé
+ayez regardé
+
+* INFINITIF
+
+** Passé
+
+avoir regardé
+
+* PARTICIPE
+
+** Passé
+
+ayant regardé
+regardé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis regardé(e)
+tu es regardé(e)
+il (elle) est regardé(e)
+nous sommes regardé(e)s
+vous êtes regardé(e)s
+ils (elles) sont regardé(e)s
+
+** Imparfait
+
+j'étais regardé(e)
+tu étais regardé(e)
+il (elle) était regardé(e)
+nous étions regardé(e)s
+vous étiez regardé(e)s
+ils (elles) étaient regardé(e)s
+
+** Passé simple
+
+je fus regardé(e)
+tu fus regardé(e)
+il (elle) fut regardé(e)
+nous fûmes regardé(e)s
+vous fûtes regardé(e)s
+ils (elles) furent regardé(e)s
+
+** Futur simple
+
+je serai regardé(e)
+tu seras regardé(e)
+il (elle) sera regardé(e)
+nous serons regardé(e)s
+vous serez regardé(e)s
+ils (elles) seront regardé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais regardé(e)
+tu serais regardé(e)
+il (elle) serait regardé(e)
+nous serions regardé(e)s
+vous seriez regardé(e)s
+ils (elles) seraient regardé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois regardé(e)
+que tu sois regardé(e)
+qu’il (elle) soit regardé(e)
+que nous soyons regardé(e)s
+que vous soyez regardé(e)s
+qu’ils (elles) soient regardé(e)s
+
+** Imparfait
+
+que je fusse regardé(e)
+que tu fusses regardé(e)
+qu’il (elle) fût regardé(e)
+que nous fussions regardé(e)s
+que vous fussiez regardé(e)s
+qu’ils (elles) fussent regardé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons regardé(e)s
+soyez regardé(e)s
+
+* INFINITIF
+
+** Présent
+
+être regardé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant regardé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été regardé(e)
+tu as été regardé(e)
+il (elle) a été regardé(e)
+nous avons été regardé(e)s
+vous avez été regardé(e)s
+ils (elles) ont été regardé(e)s
+
+** Plus-que-parfait
+
+j'avais été regardé(e)
+il (elle) avait été regardé(e)
+nous avions été regardé(e)s
+ils (elles) avaient été regardé(e)s
+
+** Passé antérieur
+
+j'eus été regardé(e)
+tu eus été regardé(e)
+il (elle) eut été regardé(e)
+nous eûmes été regardé(e)s
+vous eûtes été regardé(e)s
+ils (elles) eurent été regardé(e)s
+
+** Futur antérieur
+
+j'aurai été regardé(e)
+tu auras été regardé(e)
+il (elle) aura été regardé(e)
+nous aurons été regardé(e)s
+vous aurez été regardé(e)s
+ils (elles) auront été regardé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été regardé(e)
+j'aurais été regardé(e)
+il (elle) aurait été regardé(e)
+nous aurions été regardé(e)s
+vous auriez été regardé(e)s
+ils (elles) auraient été regardé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été regardé(e)
+que tu aies été regardé(e)
+qu’il (elle) ait été regardé(e)
+que nous ayons été regardé(e)s
+que vous ayez été regardé(e)s
+qu’ils (elles) aient été regardé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été regardé(e)
+que tu eusses été regardé(e)
+qu’il (elle) eût été regardé(e)
+que nous eussions été regardé(e)s
+que vous eussiez été regardé(e)s
+qu’ils (elles) eussent été regardé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été regardé(e)
+ayons été regardé(e)s
+ayez été regardé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été regardé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été regardé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avaler
+
+* INDICATIF
+
+** Présent
+
+j'avale
+tu avales
+il (elle) avale
+nous avalons
+vous avalez
+ils (elles) avalent
+
+** Imparfait
+
+j'avalais
+tu avalais
+il (elle) avalait
+nous avalions
+vous avaliez
+ils (elles) avalaient
+
+** Passé simple
+
+j'avalai
+tu avalas
+il (elle) avala
+nous avalâmes
+vous avalâtes
+ils (elles) avalèrent
+
+** Futur simple
+
+j'avalerai
+tu avaleras
+il (elle) avalera
+nous avalerons
+vous avalerez
+ils (elles) avaleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'avalerais
+tu avalerais
+il (elle) avalerait
+nous avalerions
+vous avaleriez
+ils (elles) avaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avale
+que tu avales
+qu’il (elle) avale
+que nous avalions
+que vous avaliez
+qu’ils (elles) avalent
+
+** Imparfait
+
+que j'avalasse
+que tu avalasses
+qu’il (elle) avalât
+que nous avalassions
+que vous avalassiez
+qu’ils (elles) avalassent
+
+* IMPÉRATIF
+
+** Présent
+
+avale
+avalons
+avalez
+
+* INFINITIF
+
+** Présent
+
+avaler
+
+* PARTICIPE
+
+** Présent
+
+avalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai avalé
+tu as avalé
+il (elle) a avalé
+nous avons avalé
+vous avez avalé
+ils (elles) ont avalé
+
+** Plus-que-parfait
+
+j'avais avalé
+tu avais avalé
+il (elle) avait avalé
+nous avions avalé
+vous aviez avalé
+ils (elles) avaient avalé
+
+** Passé antérieur
+
+j'eus avalé
+tu eus avalé
+il (elle) eut avalé
+nous eûmes avalé
+vous eûtes avalé
+ils (elles) eurent avalé
+
+** Futur antérieur
+
+j'aurai avalé
+tu auras avalé
+il (elle) aura avalé
+nous aurons avalé
+vous aurez avalé
+ils (elles) auront avalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais avalé
+tu aurais avalé
+il (elle) aurait avalé
+nous aurions avalé
+vous auriez avalé
+ils (elles) auraient avalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie avalé
+que tu aies avalé
+qu’il (elle) ait avalé
+que nous ayons avalé
+que vous ayez avalé
+qu’ils (elles) aient avalé
+
+** Plus-que-parfait
+
+que j'eusse avalé
+que tu eusses avalé
+qu’il (elle) eût avalé
+que nous eussions avalé
+que vous eussiez avalé
+qu’ils (elles) eussent avalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons avalé
+ayez avalé
+
+* INFINITIF
+
+** Passé
+
+avoir avalé
+
+* PARTICIPE
+
+** Passé
+
+ayant avalé
+avalé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis avalé(e)
+tu es avalé(e)
+il (elle) est avalé(e)
+nous sommes avalé(e)s
+vous êtes avalé(e)s
+ils (elles) sont avalé(e)s
+
+** Imparfait
+
+j'étais avalé(e)
+tu étais avalé(e)
+il (elle) était avalé(e)
+nous étions avalé(e)s
+vous étiez avalé(e)s
+ils (elles) étaient avalé(e)s
+
+** Passé simple
+
+je fus avalé(e)
+tu fus avalé(e)
+il (elle) fut avalé(e)
+nous fûmes avalé(e)s
+vous fûtes avalé(e)s
+ils (elles) furent avalé(e)s
+
+** Futur simple
+
+je serai avalé(e)
+tu seras avalé(e)
+il (elle) sera avalé(e)
+nous serons avalé(e)s
+vous serez avalé(e)s
+ils (elles) seront avalé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais avalé(e)
+tu serais avalé(e)
+il (elle) serait avalé(e)
+nous serions avalé(e)s
+vous seriez avalé(e)s
+ils (elles) seraient avalé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois avalé(e)
+que tu sois avalé(e)
+qu’il (elle) soit avalé(e)
+que nous soyons avalé(e)s
+que vous soyez avalé(e)s
+qu’ils (elles) soient avalé(e)s
+
+** Imparfait
+
+que je fusse avalé(e)
+que tu fusses avalé(e)
+qu’il (elle) fût avalé(e)
+que nous fussions avalé(e)s
+que vous fussiez avalé(e)s
+qu’ils (elles) fussent avalé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons avalé(e)s
+soyez avalé(e)s
+
+* INFINITIF
+
+** Présent
+
+être avalé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant avalé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été avalé(e)
+tu as été avalé(e)
+il (elle) a été avalé(e)
+nous avons été avalé(e)s
+vous avez été avalé(e)s
+ils (elles) ont été avalé(e)s
+
+** Plus-que-parfait
+
+j'avais été avalé(e)
+il (elle) avait été avalé(e)
+nous avions été avalé(e)s
+ils (elles) avaient été avalé(e)s
+
+** Passé antérieur
+
+j'eus été avalé(e)
+tu eus été avalé(e)
+il (elle) eut été avalé(e)
+nous eûmes été avalé(e)s
+vous eûtes été avalé(e)s
+ils (elles) eurent été avalé(e)s
+
+** Futur antérieur
+
+j'aurai été avalé(e)
+tu auras été avalé(e)
+il (elle) aura été avalé(e)
+nous aurons été avalé(e)s
+vous aurez été avalé(e)s
+ils (elles) auront été avalé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été avalé(e)
+j'aurais été avalé(e)
+il (elle) aurait été avalé(e)
+nous aurions été avalé(e)s
+vous auriez été avalé(e)s
+ils (elles) auraient été avalé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été avalé(e)
+que tu aies été avalé(e)
+qu’il (elle) ait été avalé(e)
+que nous ayons été avalé(e)s
+que vous ayez été avalé(e)s
+qu’ils (elles) aient été avalé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été avalé(e)
+que tu eusses été avalé(e)
+qu’il (elle) eût été avalé(e)
+que nous eussions été avalé(e)s
+que vous eussiez été avalé(e)s
+qu’ils (elles) eussent été avalé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été avalé(e)
+ayons été avalé(e)s
+ayez été avalé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été avalé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été avalé(e)(s)

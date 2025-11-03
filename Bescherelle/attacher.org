@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attacher
+
+* INDICATIF
+
+** Présent
+
+j'attache
+tu attaches
+il (elle) attache
+nous attachons
+vous attachez
+ils (elles) attachent
+
+** Imparfait
+
+j'attachais
+tu attachais
+il (elle) attachait
+nous attachions
+vous attachiez
+ils (elles) attachaient
+
+** Passé simple
+
+j'attachai
+tu attachas
+il (elle) attacha
+nous attachâmes
+vous attachâtes
+ils (elles) attachèrent
+
+** Futur simple
+
+j'attacherai
+tu attacheras
+il (elle) attachera
+nous attacherons
+vous attacherez
+ils (elles) attacheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attacherais
+tu attacherais
+il (elle) attacherait
+nous attacherions
+vous attacheriez
+ils (elles) attacheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attache
+que tu attaches
+qu’il (elle) attache
+que nous attachions
+que vous attachiez
+qu’ils (elles) attachent
+
+** Imparfait
+
+que j'attachasse
+que tu attachasses
+qu’il (elle) attachât
+que nous attachassions
+que vous attachassiez
+qu’ils (elles) attachassent
+
+* IMPÉRATIF
+
+** Présent
+
+attache
+attachons
+attachez
+
+* INFINITIF
+
+** Présent
+
+attacher
+
+* PARTICIPE
+
+** Présent
+
+attachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attaché
+tu as attaché
+il (elle) a attaché
+nous avons attaché
+vous avez attaché
+ils (elles) ont attaché
+
+** Plus-que-parfait
+
+j'avais attaché
+tu avais attaché
+il (elle) avait attaché
+nous avions attaché
+vous aviez attaché
+ils (elles) avaient attaché
+
+** Passé antérieur
+
+j'eus attaché
+tu eus attaché
+il (elle) eut attaché
+nous eûmes attaché
+vous eûtes attaché
+ils (elles) eurent attaché
+
+** Futur antérieur
+
+j'aurai attaché
+tu auras attaché
+il (elle) aura attaché
+nous aurons attaché
+vous aurez attaché
+ils (elles) auront attaché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attaché
+tu aurais attaché
+il (elle) aurait attaché
+nous aurions attaché
+vous auriez attaché
+ils (elles) auraient attaché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attaché
+que tu aies attaché
+qu’il (elle) ait attaché
+que nous ayons attaché
+que vous ayez attaché
+qu’ils (elles) aient attaché
+
+** Plus-que-parfait
+
+que j'eusse attaché
+que tu eusses attaché
+qu’il (elle) eût attaché
+que nous eussions attaché
+que vous eussiez attaché
+qu’ils (elles) eussent attaché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attaché
+ayez attaché
+
+* INFINITIF
+
+** Passé
+
+avoir attaché
+
+* PARTICIPE
+
+** Passé
+
+ayant attaché
+attaché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attaché(e)
+tu es attaché(e)
+il (elle) est attaché(e)
+nous sommes attaché(e)s
+vous êtes attaché(e)s
+ils (elles) sont attaché(e)s
+
+** Imparfait
+
+j'étais attaché(e)
+tu étais attaché(e)
+il (elle) était attaché(e)
+nous étions attaché(e)s
+vous étiez attaché(e)s
+ils (elles) étaient attaché(e)s
+
+** Passé simple
+
+je fus attaché(e)
+tu fus attaché(e)
+il (elle) fut attaché(e)
+nous fûmes attaché(e)s
+vous fûtes attaché(e)s
+ils (elles) furent attaché(e)s
+
+** Futur simple
+
+je serai attaché(e)
+tu seras attaché(e)
+il (elle) sera attaché(e)
+nous serons attaché(e)s
+vous serez attaché(e)s
+ils (elles) seront attaché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attaché(e)
+tu serais attaché(e)
+il (elle) serait attaché(e)
+nous serions attaché(e)s
+vous seriez attaché(e)s
+ils (elles) seraient attaché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attaché(e)
+que tu sois attaché(e)
+qu’il (elle) soit attaché(e)
+que nous soyons attaché(e)s
+que vous soyez attaché(e)s
+qu’ils (elles) soient attaché(e)s
+
+** Imparfait
+
+que je fusse attaché(e)
+que tu fusses attaché(e)
+qu’il (elle) fût attaché(e)
+que nous fussions attaché(e)s
+que vous fussiez attaché(e)s
+qu’ils (elles) fussent attaché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attaché(e)s
+soyez attaché(e)s
+
+* INFINITIF
+
+** Présent
+
+être attaché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attaché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attaché(e)
+tu as été attaché(e)
+il (elle) a été attaché(e)
+nous avons été attaché(e)s
+vous avez été attaché(e)s
+ils (elles) ont été attaché(e)s
+
+** Plus-que-parfait
+
+j'avais été attaché(e)
+il (elle) avait été attaché(e)
+nous avions été attaché(e)s
+ils (elles) avaient été attaché(e)s
+
+** Passé antérieur
+
+j'eus été attaché(e)
+tu eus été attaché(e)
+il (elle) eut été attaché(e)
+nous eûmes été attaché(e)s
+vous eûtes été attaché(e)s
+ils (elles) eurent été attaché(e)s
+
+** Futur antérieur
+
+j'aurai été attaché(e)
+tu auras été attaché(e)
+il (elle) aura été attaché(e)
+nous aurons été attaché(e)s
+vous aurez été attaché(e)s
+ils (elles) auront été attaché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attaché(e)
+j'aurais été attaché(e)
+il (elle) aurait été attaché(e)
+nous aurions été attaché(e)s
+vous auriez été attaché(e)s
+ils (elles) auraient été attaché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attaché(e)
+que tu aies été attaché(e)
+qu’il (elle) ait été attaché(e)
+que nous ayons été attaché(e)s
+que vous ayez été attaché(e)s
+qu’ils (elles) aient été attaché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attaché(e)
+que tu eusses été attaché(e)
+qu’il (elle) eût été attaché(e)
+que nous eussions été attaché(e)s
+que vous eussiez été attaché(e)s
+qu’ils (elles) eussent été attaché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attaché(e)
+ayons été attaché(e)s
+ayez été attaché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attaché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attaché(e)(s)

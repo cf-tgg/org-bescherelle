@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe reparler
+
+* INDICATIF
+
+** Présent
+
+je reparle
+tu reparles
+il (elle) reparle
+nous reparlons
+vous reparlez
+ils (elles) reparlent
+
+** Imparfait
+
+je reparlais
+tu reparlais
+il (elle) reparlait
+nous reparlions
+vous reparliez
+ils (elles) reparlaient
+
+** Passé simple
+
+je reparlai
+tu reparlas
+il (elle) reparla
+nous reparlâmes
+vous reparlâtes
+ils (elles) reparlèrent
+
+** Futur simple
+
+je reparlerai
+tu reparleras
+il (elle) reparlera
+nous reparlerons
+vous reparlerez
+ils (elles) reparleront
+
+* CONDITIONNEL
+
+** Présent
+
+je reparlerais
+tu reparlerais
+il (elle) reparlerait
+nous reparlerions
+vous reparleriez
+ils (elles) reparleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reparle
+que tu reparles
+qu’il (elle) reparle
+que nous reparlions
+que vous reparliez
+qu’ils (elles) reparlent
+
+** Imparfait
+
+que je reparlasse
+que tu reparlasses
+qu’il (elle) reparlât
+que nous reparlassions
+que vous reparlassiez
+qu’ils (elles) reparlassent
+
+* IMPÉRATIF
+
+** Présent
+
+reparle
+reparlons
+reparlez
+
+* INFINITIF
+
+** Présent
+
+reparler
+
+* PARTICIPE
+
+** Présent
+
+reparlant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reparlé
+tu as reparlé
+il (elle) a reparlé
+nous avons reparlé
+vous avez reparlé
+ils (elles) ont reparlé
+
+** Plus-que-parfait
+
+j'avais reparlé
+tu avais reparlé
+il (elle) avait reparlé
+nous avions reparlé
+vous aviez reparlé
+ils (elles) avaient reparlé
+
+** Passé antérieur
+
+j'eus reparlé
+tu eus reparlé
+il (elle) eut reparlé
+nous eûmes reparlé
+vous eûtes reparlé
+ils (elles) eurent reparlé
+
+** Futur antérieur
+
+j'aurai reparlé
+tu auras reparlé
+il (elle) aura reparlé
+nous aurons reparlé
+vous aurez reparlé
+ils (elles) auront reparlé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reparlé
+tu aurais reparlé
+il (elle) aurait reparlé
+nous aurions reparlé
+vous auriez reparlé
+ils (elles) auraient reparlé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reparlé
+que tu aies reparlé
+qu’il (elle) ait reparlé
+que nous ayons reparlé
+que vous ayez reparlé
+qu’ils (elles) aient reparlé
+
+** Plus-que-parfait
+
+que j'eusse reparlé
+que tu eusses reparlé
+qu’il (elle) eût reparlé
+que nous eussions reparlé
+que vous eussiez reparlé
+qu’ils (elles) eussent reparlé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reparlé
+ayez reparlé
+
+* INFINITIF
+
+** Passé
+
+avoir reparlé
+
+* PARTICIPE
+
+** Passé
+
+ayant reparlé
+reparlé (invar.)

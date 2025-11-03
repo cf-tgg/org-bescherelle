@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe debuter
+
+* INDICATIF
+
+** Présent
+
+je débute
+tu débutes
+il (elle) débute
+nous débutons
+vous débutez
+ils (elles) débutent
+
+** Imparfait
+
+je débutais
+tu débutais
+il (elle) débutait
+nous débutions
+vous débutiez
+ils (elles) débutaient
+
+** Passé simple
+
+je débutai
+tu débutas
+il (elle) débuta
+nous débutâmes
+vous débutâtes
+ils (elles) débutèrent
+
+** Futur simple
+
+je débuterai
+tu débuteras
+il (elle) débutera
+nous débuterons
+vous débuterez
+ils (elles) débuteront
+
+* CONDITIONNEL
+
+** Présent
+
+je débuterais
+tu débuterais
+il (elle) débuterait
+nous débuterions
+vous débuteriez
+ils (elles) débuteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je débute
+que tu débutes
+qu’il (elle) débute
+que nous débutions
+que vous débutiez
+qu’ils (elles) débutent
+
+** Imparfait
+
+que je débutasse
+que tu débutasses
+qu’il (elle) débutât
+que nous débutassions
+que vous débutassiez
+qu’ils (elles) débutassent
+
+* IMPÉRATIF
+
+** Présent
+
+débute
+débutons
+débutez
+
+* INFINITIF
+
+** Présent
+
+débuter
+
+* PARTICIPE
+
+** Présent
+
+débutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai débuté
+tu as débuté
+il (elle) a débuté
+nous avons débuté
+vous avez débuté
+ils (elles) ont débuté
+
+** Plus-que-parfait
+
+j'avais débuté
+tu avais débuté
+il (elle) avait débuté
+nous avions débuté
+vous aviez débuté
+ils (elles) avaient débuté
+
+** Passé antérieur
+
+j'eus débuté
+tu eus débuté
+il (elle) eut débuté
+nous eûmes débuté
+vous eûtes débuté
+ils (elles) eurent débuté
+
+** Futur antérieur
+
+j'aurai débuté
+tu auras débuté
+il (elle) aura débuté
+nous aurons débuté
+vous aurez débuté
+ils (elles) auront débuté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais débuté
+tu aurais débuté
+il (elle) aurait débuté
+nous aurions débuté
+vous auriez débuté
+ils (elles) auraient débuté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie débuté
+que tu aies débuté
+qu’il (elle) ait débuté
+que nous ayons débuté
+que vous ayez débuté
+qu’ils (elles) aient débuté
+
+** Plus-que-parfait
+
+que j'eusse débuté
+que tu eusses débuté
+qu’il (elle) eût débuté
+que nous eussions débuté
+que vous eussiez débuté
+qu’ils (elles) eussent débuté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons débuté
+ayez débuté
+
+* INFINITIF
+
+** Passé
+
+avoir débuté
+
+* PARTICIPE
+
+** Passé
+
+ayant débuté
+débuté (invar.)

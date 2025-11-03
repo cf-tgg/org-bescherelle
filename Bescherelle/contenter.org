@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe contenter
+
+* INDICATIF
+
+** Présent
+
+je contente
+tu contentes
+il (elle) contente
+nous contentons
+vous contentez
+ils (elles) contentent
+
+** Imparfait
+
+je contentais
+tu contentais
+il (elle) contentait
+nous contentions
+vous contentiez
+ils (elles) contentaient
+
+** Passé simple
+
+je contentai
+tu contentas
+il (elle) contenta
+nous contentâmes
+vous contentâtes
+ils (elles) contentèrent
+
+** Futur simple
+
+je contenterai
+tu contenteras
+il (elle) contentera
+nous contenterons
+vous contenterez
+ils (elles) contenteront
+
+* CONDITIONNEL
+
+** Présent
+
+je contenterais
+tu contenterais
+il (elle) contenterait
+nous contenterions
+vous contenteriez
+ils (elles) contenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contente
+que tu contentes
+qu’il (elle) contente
+que nous contentions
+que vous contentiez
+qu’ils (elles) contentent
+
+** Imparfait
+
+que je contentasse
+que tu contentasses
+qu’il (elle) contentât
+que nous contentassions
+que vous contentassiez
+qu’ils (elles) contentassent
+
+* IMPÉRATIF
+
+** Présent
+
+contente
+contentons
+contentez
+
+* INFINITIF
+
+** Présent
+
+contenter
+
+* PARTICIPE
+
+** Présent
+
+contentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contenté
+tu as contenté
+il (elle) a contenté
+nous avons contenté
+vous avez contenté
+ils (elles) ont contenté
+
+** Plus-que-parfait
+
+j'avais contenté
+tu avais contenté
+il (elle) avait contenté
+nous avions contenté
+vous aviez contenté
+ils (elles) avaient contenté
+
+** Passé antérieur
+
+j'eus contenté
+tu eus contenté
+il (elle) eut contenté
+nous eûmes contenté
+vous eûtes contenté
+ils (elles) eurent contenté
+
+** Futur antérieur
+
+j'aurai contenté
+tu auras contenté
+il (elle) aura contenté
+nous aurons contenté
+vous aurez contenté
+ils (elles) auront contenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contenté
+tu aurais contenté
+il (elle) aurait contenté
+nous aurions contenté
+vous auriez contenté
+ils (elles) auraient contenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contenté
+que tu aies contenté
+qu’il (elle) ait contenté
+que nous ayons contenté
+que vous ayez contenté
+qu’ils (elles) aient contenté
+
+** Plus-que-parfait
+
+que j'eusse contenté
+que tu eusses contenté
+qu’il (elle) eût contenté
+que nous eussions contenté
+que vous eussiez contenté
+qu’ils (elles) eussent contenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contenté
+ayez contenté
+
+* INFINITIF
+
+** Passé
+
+avoir contenté
+
+* PARTICIPE
+
+** Passé
+
+ayant contenté
+contenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis contenté(e)
+tu es contenté(e)
+il (elle) est contenté(e)
+nous sommes contenté(e)s
+vous êtes contenté(e)s
+ils (elles) sont contenté(e)s
+
+** Imparfait
+
+j'étais contenté(e)
+tu étais contenté(e)
+il (elle) était contenté(e)
+nous étions contenté(e)s
+vous étiez contenté(e)s
+ils (elles) étaient contenté(e)s
+
+** Passé simple
+
+je fus contenté(e)
+tu fus contenté(e)
+il (elle) fut contenté(e)
+nous fûmes contenté(e)s
+vous fûtes contenté(e)s
+ils (elles) furent contenté(e)s
+
+** Futur simple
+
+je serai contenté(e)
+tu seras contenté(e)
+il (elle) sera contenté(e)
+nous serons contenté(e)s
+vous serez contenté(e)s
+ils (elles) seront contenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais contenté(e)
+tu serais contenté(e)
+il (elle) serait contenté(e)
+nous serions contenté(e)s
+vous seriez contenté(e)s
+ils (elles) seraient contenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois contenté(e)
+que tu sois contenté(e)
+qu’il (elle) soit contenté(e)
+que nous soyons contenté(e)s
+que vous soyez contenté(e)s
+qu’ils (elles) soient contenté(e)s
+
+** Imparfait
+
+que je fusse contenté(e)
+que tu fusses contenté(e)
+qu’il (elle) fût contenté(e)
+que nous fussions contenté(e)s
+que vous fussiez contenté(e)s
+qu’ils (elles) fussent contenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons contenté(e)s
+soyez contenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être contenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant contenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été contenté(e)
+tu as été contenté(e)
+il (elle) a été contenté(e)
+nous avons été contenté(e)s
+vous avez été contenté(e)s
+ils (elles) ont été contenté(e)s
+
+** Plus-que-parfait
+
+j'avais été contenté(e)
+il (elle) avait été contenté(e)
+nous avions été contenté(e)s
+ils (elles) avaient été contenté(e)s
+
+** Passé antérieur
+
+j'eus été contenté(e)
+tu eus été contenté(e)
+il (elle) eut été contenté(e)
+nous eûmes été contenté(e)s
+vous eûtes été contenté(e)s
+ils (elles) eurent été contenté(e)s
+
+** Futur antérieur
+
+j'aurai été contenté(e)
+tu auras été contenté(e)
+il (elle) aura été contenté(e)
+nous aurons été contenté(e)s
+vous aurez été contenté(e)s
+ils (elles) auront été contenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été contenté(e)
+j'aurais été contenté(e)
+il (elle) aurait été contenté(e)
+nous aurions été contenté(e)s
+vous auriez été contenté(e)s
+ils (elles) auraient été contenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été contenté(e)
+que tu aies été contenté(e)
+qu’il (elle) ait été contenté(e)
+que nous ayons été contenté(e)s
+que vous ayez été contenté(e)s
+qu’ils (elles) aient été contenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été contenté(e)
+que tu eusses été contenté(e)
+qu’il (elle) eût été contenté(e)
+que nous eussions été contenté(e)s
+que vous eussiez été contenté(e)s
+qu’ils (elles) eussent été contenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été contenté(e)
+ayons été contenté(e)s
+ayez été contenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été contenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été contenté(e)(s)

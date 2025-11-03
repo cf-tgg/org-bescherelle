@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cloner
+
+* INDICATIF
+
+** Présent
+
+je clone
+tu clones
+il (elle) clone
+nous clonons
+vous clonez
+ils (elles) clonent
+
+** Imparfait
+
+je clonais
+tu clonais
+il (elle) clonait
+nous clonions
+vous cloniez
+ils (elles) clonaient
+
+** Passé simple
+
+je clonai
+tu clonas
+il (elle) clona
+nous clonâmes
+vous clonâtes
+ils (elles) clonèrent
+
+** Futur simple
+
+je clonerai
+tu cloneras
+il (elle) clonera
+nous clonerons
+vous clonerez
+ils (elles) cloneront
+
+* CONDITIONNEL
+
+** Présent
+
+je clonerais
+tu clonerais
+il (elle) clonerait
+nous clonerions
+vous cloneriez
+ils (elles) cloneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je clone
+que tu clones
+qu’il (elle) clone
+que nous clonions
+que vous cloniez
+qu’ils (elles) clonent
+
+** Imparfait
+
+que je clonasse
+que tu clonasses
+qu’il (elle) clonât
+que nous clonassions
+que vous clonassiez
+qu’ils (elles) clonassent
+
+* IMPÉRATIF
+
+** Présent
+
+clone
+clonons
+clonez
+
+* INFINITIF
+
+** Présent
+
+cloner
+
+* PARTICIPE
+
+** Présent
+
+clonant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cloné
+tu as cloné
+il (elle) a cloné
+nous avons cloné
+vous avez cloné
+ils (elles) ont cloné
+
+** Plus-que-parfait
+
+j'avais cloné
+tu avais cloné
+il (elle) avait cloné
+nous avions cloné
+vous aviez cloné
+ils (elles) avaient cloné
+
+** Passé antérieur
+
+j'eus cloné
+tu eus cloné
+il (elle) eut cloné
+nous eûmes cloné
+vous eûtes cloné
+ils (elles) eurent cloné
+
+** Futur antérieur
+
+j'aurai cloné
+tu auras cloné
+il (elle) aura cloné
+nous aurons cloné
+vous aurez cloné
+ils (elles) auront cloné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cloné
+tu aurais cloné
+il (elle) aurait cloné
+nous aurions cloné
+vous auriez cloné
+ils (elles) auraient cloné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cloné
+que tu aies cloné
+qu’il (elle) ait cloné
+que nous ayons cloné
+que vous ayez cloné
+qu’ils (elles) aient cloné
+
+** Plus-que-parfait
+
+que j'eusse cloné
+que tu eusses cloné
+qu’il (elle) eût cloné
+que nous eussions cloné
+que vous eussiez cloné
+qu’ils (elles) eussent cloné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cloné
+ayez cloné
+
+* INFINITIF
+
+** Passé
+
+avoir cloné
+
+* PARTICIPE
+
+** Passé
+
+ayant cloné
+cloné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cloné(e)
+tu es cloné(e)
+il (elle) est cloné(e)
+nous sommes cloné(e)s
+vous êtes cloné(e)s
+ils (elles) sont cloné(e)s
+
+** Imparfait
+
+j'étais cloné(e)
+tu étais cloné(e)
+il (elle) était cloné(e)
+nous étions cloné(e)s
+vous étiez cloné(e)s
+ils (elles) étaient cloné(e)s
+
+** Passé simple
+
+je fus cloné(e)
+tu fus cloné(e)
+il (elle) fut cloné(e)
+nous fûmes cloné(e)s
+vous fûtes cloné(e)s
+ils (elles) furent cloné(e)s
+
+** Futur simple
+
+je serai cloné(e)
+tu seras cloné(e)
+il (elle) sera cloné(e)
+nous serons cloné(e)s
+vous serez cloné(e)s
+ils (elles) seront cloné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cloné(e)
+tu serais cloné(e)
+il (elle) serait cloné(e)
+nous serions cloné(e)s
+vous seriez cloné(e)s
+ils (elles) seraient cloné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cloné(e)
+que tu sois cloné(e)
+qu’il (elle) soit cloné(e)
+que nous soyons cloné(e)s
+que vous soyez cloné(e)s
+qu’ils (elles) soient cloné(e)s
+
+** Imparfait
+
+que je fusse cloné(e)
+que tu fusses cloné(e)
+qu’il (elle) fût cloné(e)
+que nous fussions cloné(e)s
+que vous fussiez cloné(e)s
+qu’ils (elles) fussent cloné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cloné(e)s
+soyez cloné(e)s
+
+* INFINITIF
+
+** Présent
+
+être cloné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cloné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cloné(e)
+tu as été cloné(e)
+il (elle) a été cloné(e)
+nous avons été cloné(e)s
+vous avez été cloné(e)s
+ils (elles) ont été cloné(e)s
+
+** Plus-que-parfait
+
+j'avais été cloné(e)
+il (elle) avait été cloné(e)
+nous avions été cloné(e)s
+ils (elles) avaient été cloné(e)s
+
+** Passé antérieur
+
+j'eus été cloné(e)
+tu eus été cloné(e)
+il (elle) eut été cloné(e)
+nous eûmes été cloné(e)s
+vous eûtes été cloné(e)s
+ils (elles) eurent été cloné(e)s
+
+** Futur antérieur
+
+j'aurai été cloné(e)
+tu auras été cloné(e)
+il (elle) aura été cloné(e)
+nous aurons été cloné(e)s
+vous aurez été cloné(e)s
+ils (elles) auront été cloné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cloné(e)
+j'aurais été cloné(e)
+il (elle) aurait été cloné(e)
+nous aurions été cloné(e)s
+vous auriez été cloné(e)s
+ils (elles) auraient été cloné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cloné(e)
+que tu aies été cloné(e)
+qu’il (elle) ait été cloné(e)
+que nous ayons été cloné(e)s
+que vous ayez été cloné(e)s
+qu’ils (elles) aient été cloné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cloné(e)
+que tu eusses été cloné(e)
+qu’il (elle) eût été cloné(e)
+que nous eussions été cloné(e)s
+que vous eussiez été cloné(e)s
+qu’ils (elles) eussent été cloné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cloné(e)
+ayons été cloné(e)s
+ayez été cloné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cloné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cloné(e)(s)

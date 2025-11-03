@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reconduire
+
+* INDICATIF
+
+** Présent
+
+je reconduis
+tu reconduis
+il (elle) reconduit
+nous reconduisons
+vous reconduisez
+ils (elles) reconduisent
+
+** Imparfait
+
+je reconduisais
+tu reconduisais
+il (elle) reconduisait
+nous reconduisions
+vous reconduisiez
+ils (elles) reconduisaient
+
+** Passé simple
+
+je reconduisis
+tu reconduisis
+il (elle) reconduisit
+nous reconduisîmes
+vous reconduisîtes
+ils (elles) reconduisirent
+
+** Futur simple
+
+je reconduirai
+tu reconduiras
+il (elle) reconduira
+nous reconduirons
+vous reconduirez
+ils (elles) reconduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je reconduirais
+tu reconduirais
+il (elle) reconduirait
+nous reconduirions
+vous reconduiriez
+ils (elles) reconduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reconduise
+que tu reconduises
+qu’il (elle) reconduise
+que nous reconduisions
+que vous reconduisiez
+qu’ils (elles) reconduisent
+
+** Imparfait
+
+que je reconduisisse
+que tu reconduisisses
+qu’il (elle) reconduisît
+que nous reconduisissions
+que vous reconduisissiez
+qu’ils (elles) reconduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+reconduis
+reconduisons
+reconduisez
+
+* INFINITIF
+
+** Présent
+
+reconduire
+
+* PARTICIPE
+
+** Présent
+
+reconduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reconduit
+tu as reconduit
+il (elle) a reconduit
+nous avons reconduit
+vous avez reconduit
+ils (elles) ont reconduit
+
+** Plus-que-parfait
+
+j'avais reconduit
+tu avais reconduit
+il (elle) avait reconduit
+nous avions reconduit
+vous aviez reconduit
+ils (elles) avaient reconduit
+
+** Passé antérieur
+
+j'eus reconduit
+tu eus reconduit
+il (elle) eut reconduit
+nous eûmes reconduit
+vous eûtes reconduit
+ils (elles) eurent reconduit
+
+** Futur antérieur
+
+j'aurai reconduit
+tu auras reconduit
+il (elle) aura reconduit
+nous aurons reconduit
+vous aurez reconduit
+ils (elles) auront reconduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reconduit
+tu aurais reconduit
+il (elle) aurait reconduit
+nous aurions reconduit
+vous auriez reconduit
+ils (elles) auraient reconduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reconduit
+que tu aies reconduit
+qu’il (elle) ait reconduit
+que nous ayons reconduit
+que vous ayez reconduit
+qu’ils (elles) aient reconduit
+
+** Plus-que-parfait
+
+que j'eusse reconduit
+que tu eusses reconduit
+qu’il (elle) eût reconduit
+que nous eussions reconduit
+que vous eussiez reconduit
+qu’ils (elles) eussent reconduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reconduit
+ayez reconduit
+
+* INFINITIF
+
+** Passé
+
+avoir reconduit
+
+* PARTICIPE
+
+** Passé
+
+ayant reconduit
+reconduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis reconduit(e)
+tu es reconduit(e)
+il (elle) est reconduit(e)
+nous sommes reconduit(e)s
+vous êtes reconduit(e)s
+ils (elles) sont reconduit(e)s
+
+** Imparfait
+
+j'étais reconduit(e)
+tu étais reconduit(e)
+il (elle) était reconduit(e)
+nous étions reconduit(e)s
+vous étiez reconduit(e)s
+ils (elles) étaient reconduit(e)s
+
+** Passé simple
+
+je fus reconduit(e)
+tu fus reconduit(e)
+il (elle) fut reconduit(e)
+nous fûmes reconduit(e)s
+vous fûtes reconduit(e)s
+ils (elles) furent reconduit(e)s
+
+** Futur simple
+
+je serai reconduit(e)
+tu seras reconduit(e)
+il (elle) sera reconduit(e)
+nous serons reconduit(e)s
+vous serez reconduit(e)s
+ils (elles) seront reconduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reconduit(e)
+tu serais reconduit(e)
+il (elle) serait reconduit(e)
+nous serions reconduit(e)s
+vous seriez reconduit(e)s
+ils (elles) seraient reconduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reconduit(e)
+que tu sois reconduit(e)
+qu’il (elle) soit reconduit(e)
+que nous soyons reconduit(e)s
+que vous soyez reconduit(e)s
+qu’ils (elles) soient reconduit(e)s
+
+** Imparfait
+
+que je fusse reconduit(e)
+que tu fusses reconduit(e)
+qu’il (elle) fût reconduit(e)
+que nous fussions reconduit(e)s
+que vous fussiez reconduit(e)s
+qu’ils (elles) fussent reconduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reconduit(e)s
+soyez reconduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être reconduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reconduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reconduit(e)
+tu as été reconduit(e)
+il (elle) a été reconduit(e)
+nous avons été reconduit(e)s
+vous avez été reconduit(e)s
+ils (elles) ont été reconduit(e)s
+
+** Plus-que-parfait
+
+j'avais été reconduit(e)
+il (elle) avait été reconduit(e)
+nous avions été reconduit(e)s
+ils (elles) avaient été reconduit(e)s
+
+** Passé antérieur
+
+j'eus été reconduit(e)
+tu eus été reconduit(e)
+il (elle) eut été reconduit(e)
+nous eûmes été reconduit(e)s
+vous eûtes été reconduit(e)s
+ils (elles) eurent été reconduit(e)s
+
+** Futur antérieur
+
+j'aurai été reconduit(e)
+tu auras été reconduit(e)
+il (elle) aura été reconduit(e)
+nous aurons été reconduit(e)s
+vous aurez été reconduit(e)s
+ils (elles) auront été reconduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reconduit(e)
+j'aurais été reconduit(e)
+il (elle) aurait été reconduit(e)
+nous aurions été reconduit(e)s
+vous auriez été reconduit(e)s
+ils (elles) auraient été reconduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reconduit(e)
+que tu aies été reconduit(e)
+qu’il (elle) ait été reconduit(e)
+que nous ayons été reconduit(e)s
+que vous ayez été reconduit(e)s
+qu’ils (elles) aient été reconduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reconduit(e)
+que tu eusses été reconduit(e)
+qu’il (elle) eût été reconduit(e)
+que nous eussions été reconduit(e)s
+que vous eussiez été reconduit(e)s
+qu’ils (elles) eussent été reconduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reconduit(e)
+ayons été reconduit(e)s
+ayez été reconduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reconduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reconduit(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe songer
+
+* INDICATIF
+
+** Présent
+
+je songe
+tu songes
+il (elle) songe
+nous songeons
+vous songez
+ils (elles) songent
+
+** Imparfait
+
+je songeais
+tu songeais
+il (elle) songeait
+nous songions
+vous songiez
+ils (elles) songeaient
+
+** Passé simple
+
+je songeai
+tu songeas
+il (elle) songea
+nous songeâmes
+vous songeâtes
+ils (elles) songèrent
+
+** Futur simple
+
+je songerai
+tu songeras
+il (elle) songera
+nous songerons
+vous songerez
+ils (elles) songeront
+
+* CONDITIONNEL
+
+** Présent
+
+je songerais
+tu songerais
+il (elle) songerait
+nous songerions
+vous songeriez
+ils (elles) songeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je songe
+que tu songes
+qu’il (elle) songe
+que nous songions
+que vous songiez
+qu’ils (elles) songent
+
+** Imparfait
+
+que je songeasse
+que tu songeasses
+qu’il (elle) songeât
+que nous songeassions
+que vous songeassiez
+qu’ils (elles) songeassent
+
+* IMPÉRATIF
+
+** Présent
+
+songe
+songeons
+songez
+
+* INFINITIF
+
+** Présent
+
+songer
+
+* PARTICIPE
+
+** Présent
+
+songeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai songé
+tu as songé
+il (elle) a songé
+nous avons songé
+vous avez songé
+ils (elles) ont songé
+
+** Plus-que-parfait
+
+j'avais songé
+tu avais songé
+il (elle) avait songé
+nous avions songé
+vous aviez songé
+ils (elles) avaient songé
+
+** Passé antérieur
+
+j'eus songé
+tu eus songé
+il (elle) eut songé
+nous eûmes songé
+vous eûtes songé
+ils (elles) eurent songé
+
+** Futur antérieur
+
+j'aurai songé
+tu auras songé
+il (elle) aura songé
+nous aurons songé
+vous aurez songé
+ils (elles) auront songé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais songé
+tu aurais songé
+il (elle) aurait songé
+nous aurions songé
+vous auriez songé
+ils (elles) auraient songé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie songé
+que tu aies songé
+qu’il (elle) ait songé
+que nous ayons songé
+que vous ayez songé
+qu’ils (elles) aient songé
+
+** Plus-que-parfait
+
+que j'eusse songé
+que tu eusses songé
+qu’il (elle) eût songé
+que nous eussions songé
+que vous eussiez songé
+qu’ils (elles) eussent songé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons songé
+ayez songé
+
+* INFINITIF
+
+** Passé
+
+avoir songé
+
+* PARTICIPE
+
+** Passé
+
+ayant songé
+songé (invar.)

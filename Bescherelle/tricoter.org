@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tricoter
+
+* INDICATIF
+
+** Présent
+
+je tricote
+tu tricotes
+il (elle) tricote
+nous tricotons
+vous tricotez
+ils (elles) tricotent
+
+** Imparfait
+
+je tricotais
+tu tricotais
+il (elle) tricotait
+nous tricotions
+vous tricotiez
+ils (elles) tricotaient
+
+** Passé simple
+
+je tricotai
+tu tricotas
+il (elle) tricota
+nous tricotâmes
+vous tricotâtes
+ils (elles) tricotèrent
+
+** Futur simple
+
+je tricoterai
+tu tricoteras
+il (elle) tricotera
+nous tricoterons
+vous tricoterez
+ils (elles) tricoteront
+
+* CONDITIONNEL
+
+** Présent
+
+je tricoterais
+tu tricoterais
+il (elle) tricoterait
+nous tricoterions
+vous tricoteriez
+ils (elles) tricoteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tricote
+que tu tricotes
+qu’il (elle) tricote
+que nous tricotions
+que vous tricotiez
+qu’ils (elles) tricotent
+
+** Imparfait
+
+que je tricotasse
+que tu tricotasses
+qu’il (elle) tricotât
+que nous tricotassions
+que vous tricotassiez
+qu’ils (elles) tricotassent
+
+* IMPÉRATIF
+
+** Présent
+
+tricote
+tricotons
+tricotez
+
+* INFINITIF
+
+** Présent
+
+tricoter
+
+* PARTICIPE
+
+** Présent
+
+tricotant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tricoté
+tu as tricoté
+il (elle) a tricoté
+nous avons tricoté
+vous avez tricoté
+ils (elles) ont tricoté
+
+** Plus-que-parfait
+
+j'avais tricoté
+tu avais tricoté
+il (elle) avait tricoté
+nous avions tricoté
+vous aviez tricoté
+ils (elles) avaient tricoté
+
+** Passé antérieur
+
+j'eus tricoté
+tu eus tricoté
+il (elle) eut tricoté
+nous eûmes tricoté
+vous eûtes tricoté
+ils (elles) eurent tricoté
+
+** Futur antérieur
+
+j'aurai tricoté
+tu auras tricoté
+il (elle) aura tricoté
+nous aurons tricoté
+vous aurez tricoté
+ils (elles) auront tricoté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tricoté
+tu aurais tricoté
+il (elle) aurait tricoté
+nous aurions tricoté
+vous auriez tricoté
+ils (elles) auraient tricoté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tricoté
+que tu aies tricoté
+qu’il (elle) ait tricoté
+que nous ayons tricoté
+que vous ayez tricoté
+qu’ils (elles) aient tricoté
+
+** Plus-que-parfait
+
+que j'eusse tricoté
+que tu eusses tricoté
+qu’il (elle) eût tricoté
+que nous eussions tricoté
+que vous eussiez tricoté
+qu’ils (elles) eussent tricoté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tricoté
+ayez tricoté
+
+* INFINITIF
+
+** Passé
+
+avoir tricoté
+
+* PARTICIPE
+
+** Passé
+
+ayant tricoté
+tricoté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tricoté(e)
+tu es tricoté(e)
+il (elle) est tricoté(e)
+nous sommes tricoté(e)s
+vous êtes tricoté(e)s
+ils (elles) sont tricoté(e)s
+
+** Imparfait
+
+j'étais tricoté(e)
+tu étais tricoté(e)
+il (elle) était tricoté(e)
+nous étions tricoté(e)s
+vous étiez tricoté(e)s
+ils (elles) étaient tricoté(e)s
+
+** Passé simple
+
+je fus tricoté(e)
+tu fus tricoté(e)
+il (elle) fut tricoté(e)
+nous fûmes tricoté(e)s
+vous fûtes tricoté(e)s
+ils (elles) furent tricoté(e)s
+
+** Futur simple
+
+je serai tricoté(e)
+tu seras tricoté(e)
+il (elle) sera tricoté(e)
+nous serons tricoté(e)s
+vous serez tricoté(e)s
+ils (elles) seront tricoté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tricoté(e)
+tu serais tricoté(e)
+il (elle) serait tricoté(e)
+nous serions tricoté(e)s
+vous seriez tricoté(e)s
+ils (elles) seraient tricoté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tricoté(e)
+que tu sois tricoté(e)
+qu’il (elle) soit tricoté(e)
+que nous soyons tricoté(e)s
+que vous soyez tricoté(e)s
+qu’ils (elles) soient tricoté(e)s
+
+** Imparfait
+
+que je fusse tricoté(e)
+que tu fusses tricoté(e)
+qu’il (elle) fût tricoté(e)
+que nous fussions tricoté(e)s
+que vous fussiez tricoté(e)s
+qu’ils (elles) fussent tricoté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tricoté(e)s
+soyez tricoté(e)s
+
+* INFINITIF
+
+** Présent
+
+être tricoté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tricoté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tricoté(e)
+tu as été tricoté(e)
+il (elle) a été tricoté(e)
+nous avons été tricoté(e)s
+vous avez été tricoté(e)s
+ils (elles) ont été tricoté(e)s
+
+** Plus-que-parfait
+
+j'avais été tricoté(e)
+il (elle) avait été tricoté(e)
+nous avions été tricoté(e)s
+ils (elles) avaient été tricoté(e)s
+
+** Passé antérieur
+
+j'eus été tricoté(e)
+tu eus été tricoté(e)
+il (elle) eut été tricoté(e)
+nous eûmes été tricoté(e)s
+vous eûtes été tricoté(e)s
+ils (elles) eurent été tricoté(e)s
+
+** Futur antérieur
+
+j'aurai été tricoté(e)
+tu auras été tricoté(e)
+il (elle) aura été tricoté(e)
+nous aurons été tricoté(e)s
+vous aurez été tricoté(e)s
+ils (elles) auront été tricoté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tricoté(e)
+j'aurais été tricoté(e)
+il (elle) aurait été tricoté(e)
+nous aurions été tricoté(e)s
+vous auriez été tricoté(e)s
+ils (elles) auraient été tricoté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tricoté(e)
+que tu aies été tricoté(e)
+qu’il (elle) ait été tricoté(e)
+que nous ayons été tricoté(e)s
+que vous ayez été tricoté(e)s
+qu’ils (elles) aient été tricoté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tricoté(e)
+que tu eusses été tricoté(e)
+qu’il (elle) eût été tricoté(e)
+que nous eussions été tricoté(e)s
+que vous eussiez été tricoté(e)s
+qu’ils (elles) eussent été tricoté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tricoté(e)
+ayons été tricoté(e)s
+ayez été tricoté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tricoté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tricoté(e)(s)

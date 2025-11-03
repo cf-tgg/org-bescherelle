@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe perir
+
+* INDICATIF
+
+** Présent
+
+je péris
+tu péris
+il (elle) périt
+nous périssons
+vous périssez
+ils (elles) périssent
+
+** Imparfait
+
+je périssais
+tu périssais
+il (elle) périssait
+nous périssions
+vous périssiez
+ils (elles) périssaient
+
+** Passé simple
+
+je péris
+tu péris
+il (elle) périt
+nous pérîmes
+vous pérîtes
+ils (elles) périrent
+
+** Futur simple
+
+je périrai
+tu périras
+il (elle) périra
+nous périrons
+vous périrez
+ils (elles) périront
+
+* CONDITIONNEL
+
+** Présent
+
+je périrais
+tu périrais
+il (elle) périrait
+nous péririons
+vous péririez
+ils (elles) périraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je périsse
+que tu périsses
+qu’il (elle) périsse
+que nous périssions
+que vous périssiez
+qu’ils (elles) périssent
+
+** Imparfait
+
+que je périsse
+que tu périsses
+qu’il (elle) pérît
+que nous périssions
+que vous périssiez
+qu’ils (elles) périssent
+
+* IMPÉRATIF
+
+** Présent
+
+péris
+périssons
+périssez
+
+* INFINITIF
+
+** Présent
+
+périr
+
+* PARTICIPE
+
+** Présent
+
+périssant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai péri
+tu as péri
+il (elle) a péri
+nous avons péri
+vous avez péri
+ils (elles) ont péri
+
+** Plus-que-parfait
+
+j'avais péri
+tu avais péri
+il (elle) avait péri
+nous avions péri
+vous aviez péri
+ils (elles) avaient péri
+
+** Passé antérieur
+
+j'eus péri
+tu eus péri
+il (elle) eut péri
+nous eûmes péri
+vous eûtes péri
+ils (elles) eurent péri
+
+** Futur antérieur
+
+j'aurai péri
+tu auras péri
+il (elle) aura péri
+nous aurons péri
+vous aurez péri
+ils (elles) auront péri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais péri
+tu aurais péri
+il (elle) aurait péri
+nous aurions péri
+vous auriez péri
+ils (elles) auraient péri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie péri
+que tu aies péri
+qu’il (elle) ait péri
+que nous ayons péri
+que vous ayez péri
+qu’ils (elles) aient péri
+
+** Plus-que-parfait
+
+que j'eusse péri
+que tu eusses péri
+qu’il (elle) eût péri
+que nous eussions péri
+que vous eussiez péri
+qu’ils (elles) eussent péri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons péri
+ayez péri
+
+* INFINITIF
+
+** Passé
+
+avoir péri
+
+* PARTICIPE
+
+** Passé
+
+ayant péri
+péri (invar.)

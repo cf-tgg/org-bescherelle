@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe remarquer
+
+* INDICATIF
+
+** Présent
+
+je remarque
+tu remarques
+il (elle) remarque
+nous remarquons
+vous remarquez
+ils (elles) remarquent
+
+** Imparfait
+
+je remarquais
+tu remarquais
+il (elle) remarquait
+nous remarquions
+vous remarquiez
+ils (elles) remarquaient
+
+** Passé simple
+
+je remarquai
+tu remarquas
+il (elle) remarqua
+nous remarquâmes
+vous remarquâtes
+ils (elles) remarquèrent
+
+** Futur simple
+
+je remarquerai
+tu remarqueras
+il (elle) remarquera
+nous remarquerons
+vous remarquerez
+ils (elles) remarqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je remarquerais
+tu remarquerais
+il (elle) remarquerait
+nous remarquerions
+vous remarqueriez
+ils (elles) remarqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je remarque
+que tu remarques
+qu’il (elle) remarque
+que nous remarquions
+que vous remarquiez
+qu’ils (elles) remarquent
+
+** Imparfait
+
+que je remarquasse
+que tu remarquasses
+qu’il (elle) remarquât
+que nous remarquassions
+que vous remarquassiez
+qu’ils (elles) remarquassent
+
+* IMPÉRATIF
+
+** Présent
+
+remarque
+remarquons
+remarquez
+
+* INFINITIF
+
+** Présent
+
+remarquer
+
+* PARTICIPE
+
+** Présent
+
+remarquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai remarqué
+tu as remarqué
+il (elle) a remarqué
+nous avons remarqué
+vous avez remarqué
+ils (elles) ont remarqué
+
+** Plus-que-parfait
+
+j'avais remarqué
+tu avais remarqué
+il (elle) avait remarqué
+nous avions remarqué
+vous aviez remarqué
+ils (elles) avaient remarqué
+
+** Passé antérieur
+
+j'eus remarqué
+tu eus remarqué
+il (elle) eut remarqué
+nous eûmes remarqué
+vous eûtes remarqué
+ils (elles) eurent remarqué
+
+** Futur antérieur
+
+j'aurai remarqué
+tu auras remarqué
+il (elle) aura remarqué
+nous aurons remarqué
+vous aurez remarqué
+ils (elles) auront remarqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais remarqué
+tu aurais remarqué
+il (elle) aurait remarqué
+nous aurions remarqué
+vous auriez remarqué
+ils (elles) auraient remarqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie remarqué
+que tu aies remarqué
+qu’il (elle) ait remarqué
+que nous ayons remarqué
+que vous ayez remarqué
+qu’ils (elles) aient remarqué
+
+** Plus-que-parfait
+
+que j'eusse remarqué
+que tu eusses remarqué
+qu’il (elle) eût remarqué
+que nous eussions remarqué
+que vous eussiez remarqué
+qu’ils (elles) eussent remarqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons remarqué
+ayez remarqué
+
+* INFINITIF
+
+** Passé
+
+avoir remarqué
+
+* PARTICIPE
+
+** Passé
+
+ayant remarqué
+remarqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis remarqué(e)
+tu es remarqué(e)
+il (elle) est remarqué(e)
+nous sommes remarqué(e)s
+vous êtes remarqué(e)s
+ils (elles) sont remarqué(e)s
+
+** Imparfait
+
+j'étais remarqué(e)
+tu étais remarqué(e)
+il (elle) était remarqué(e)
+nous étions remarqué(e)s
+vous étiez remarqué(e)s
+ils (elles) étaient remarqué(e)s
+
+** Passé simple
+
+je fus remarqué(e)
+tu fus remarqué(e)
+il (elle) fut remarqué(e)
+nous fûmes remarqué(e)s
+vous fûtes remarqué(e)s
+ils (elles) furent remarqué(e)s
+
+** Futur simple
+
+je serai remarqué(e)
+tu seras remarqué(e)
+il (elle) sera remarqué(e)
+nous serons remarqué(e)s
+vous serez remarqué(e)s
+ils (elles) seront remarqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais remarqué(e)
+tu serais remarqué(e)
+il (elle) serait remarqué(e)
+nous serions remarqué(e)s
+vous seriez remarqué(e)s
+ils (elles) seraient remarqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois remarqué(e)
+que tu sois remarqué(e)
+qu’il (elle) soit remarqué(e)
+que nous soyons remarqué(e)s
+que vous soyez remarqué(e)s
+qu’ils (elles) soient remarqué(e)s
+
+** Imparfait
+
+que je fusse remarqué(e)
+que tu fusses remarqué(e)
+qu’il (elle) fût remarqué(e)
+que nous fussions remarqué(e)s
+que vous fussiez remarqué(e)s
+qu’ils (elles) fussent remarqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons remarqué(e)s
+soyez remarqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être remarqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant remarqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été remarqué(e)
+tu as été remarqué(e)
+il (elle) a été remarqué(e)
+nous avons été remarqué(e)s
+vous avez été remarqué(e)s
+ils (elles) ont été remarqué(e)s
+
+** Plus-que-parfait
+
+j'avais été remarqué(e)
+il (elle) avait été remarqué(e)
+nous avions été remarqué(e)s
+ils (elles) avaient été remarqué(e)s
+
+** Passé antérieur
+
+j'eus été remarqué(e)
+tu eus été remarqué(e)
+il (elle) eut été remarqué(e)
+nous eûmes été remarqué(e)s
+vous eûtes été remarqué(e)s
+ils (elles) eurent été remarqué(e)s
+
+** Futur antérieur
+
+j'aurai été remarqué(e)
+tu auras été remarqué(e)
+il (elle) aura été remarqué(e)
+nous aurons été remarqué(e)s
+vous aurez été remarqué(e)s
+ils (elles) auront été remarqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été remarqué(e)
+j'aurais été remarqué(e)
+il (elle) aurait été remarqué(e)
+nous aurions été remarqué(e)s
+vous auriez été remarqué(e)s
+ils (elles) auraient été remarqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été remarqué(e)
+que tu aies été remarqué(e)
+qu’il (elle) ait été remarqué(e)
+que nous ayons été remarqué(e)s
+que vous ayez été remarqué(e)s
+qu’ils (elles) aient été remarqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été remarqué(e)
+que tu eusses été remarqué(e)
+qu’il (elle) eût été remarqué(e)
+que nous eussions été remarqué(e)s
+que vous eussiez été remarqué(e)s
+qu’ils (elles) eussent été remarqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été remarqué(e)
+ayons été remarqué(e)s
+ayez été remarqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été remarqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été remarqué(e)(s)

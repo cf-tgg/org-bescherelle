@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bleuir
+
+* INDICATIF
+
+** Présent
+
+je bleuis
+tu bleuis
+il (elle) bleuit
+nous bleuissons
+vous bleuissez
+ils (elles) bleuissent
+
+** Imparfait
+
+je bleuissais
+tu bleuissais
+il (elle) bleuissait
+nous bleuissions
+vous bleuissiez
+ils (elles) bleuissaient
+
+** Passé simple
+
+je bleuis
+tu bleuis
+il (elle) bleuit
+nous bleuîmes
+vous bleuîtes
+ils (elles) bleuirent
+
+** Futur simple
+
+je bleuirai
+tu bleuiras
+il (elle) bleuira
+nous bleuirons
+vous bleuirez
+ils (elles) bleuiront
+
+* CONDITIONNEL
+
+** Présent
+
+je bleuirais
+tu bleuirais
+il (elle) bleuirait
+nous bleuirions
+vous bleuiriez
+ils (elles) bleuiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bleuisse
+que tu bleuisses
+qu’il (elle) bleuisse
+que nous bleuissions
+que vous bleuissiez
+qu’ils (elles) bleuissent
+
+** Imparfait
+
+que je bleuisse
+que tu bleuisses
+qu’il (elle) bleuît
+que nous bleuissions
+que vous bleuissiez
+qu’ils (elles) bleuissent
+
+* IMPÉRATIF
+
+** Présent
+
+bleuis
+bleuissons
+bleuissez
+
+* INFINITIF
+
+** Présent
+
+bleuir
+
+* PARTICIPE
+
+** Présent
+
+bleuissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bleui
+tu as bleui
+il (elle) a bleui
+nous avons bleui
+vous avez bleui
+ils (elles) ont bleui
+
+** Plus-que-parfait
+
+j'avais bleui
+tu avais bleui
+il (elle) avait bleui
+nous avions bleui
+vous aviez bleui
+ils (elles) avaient bleui
+
+** Passé antérieur
+
+j'eus bleui
+tu eus bleui
+il (elle) eut bleui
+nous eûmes bleui
+vous eûtes bleui
+ils (elles) eurent bleui
+
+** Futur antérieur
+
+j'aurai bleui
+tu auras bleui
+il (elle) aura bleui
+nous aurons bleui
+vous aurez bleui
+ils (elles) auront bleui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bleui
+tu aurais bleui
+il (elle) aurait bleui
+nous aurions bleui
+vous auriez bleui
+ils (elles) auraient bleui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bleui
+que tu aies bleui
+qu’il (elle) ait bleui
+que nous ayons bleui
+que vous ayez bleui
+qu’ils (elles) aient bleui
+
+** Plus-que-parfait
+
+que j'eusse bleui
+que tu eusses bleui
+qu’il (elle) eût bleui
+que nous eussions bleui
+que vous eussiez bleui
+qu’ils (elles) eussent bleui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bleui
+ayez bleui
+
+* INFINITIF
+
+** Passé
+
+avoir bleui
+
+* PARTICIPE
+
+** Passé
+
+ayant bleui
+bleui (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis bleui(e)
+tu es bleui(e)
+il (elle) est bleui(e)
+nous sommes bleui(e)s
+vous êtes bleui(e)s
+ils (elles) sont bleui(e)s
+
+** Imparfait
+
+j'étais bleui(e)
+tu étais bleui(e)
+il (elle) était bleui(e)
+nous étions bleui(e)s
+vous étiez bleui(e)s
+ils (elles) étaient bleui(e)s
+
+** Passé simple
+
+je fus bleui(e)
+tu fus bleui(e)
+il (elle) fut bleui(e)
+nous fûmes bleui(e)s
+vous fûtes bleui(e)s
+ils (elles) furent bleui(e)s
+
+** Futur simple
+
+je serai bleui(e)
+tu seras bleui(e)
+il (elle) sera bleui(e)
+nous serons bleui(e)s
+vous serez bleui(e)s
+ils (elles) seront bleui(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bleui(e)
+tu serais bleui(e)
+il (elle) serait bleui(e)
+nous serions bleui(e)s
+vous seriez bleui(e)s
+ils (elles) seraient bleui(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bleui(e)
+que tu sois bleui(e)
+qu’il (elle) soit bleui(e)
+que nous soyons bleui(e)s
+que vous soyez bleui(e)s
+qu’ils (elles) soient bleui(e)s
+
+** Imparfait
+
+que je fusse bleui(e)
+que tu fusses bleui(e)
+qu’il (elle) fût bleui(e)
+que nous fussions bleui(e)s
+que vous fussiez bleui(e)s
+qu’ils (elles) fussent bleui(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bleui(e)s
+soyez bleui(e)s
+
+* INFINITIF
+
+** Présent
+
+être bleui(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bleui(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bleui(e)
+tu as été bleui(e)
+il (elle) a été bleui(e)
+nous avons été bleui(e)s
+vous avez été bleui(e)s
+ils (elles) ont été bleui(e)s
+
+** Plus-que-parfait
+
+j'avais été bleui(e)
+il (elle) avait été bleui(e)
+nous avions été bleui(e)s
+ils (elles) avaient été bleui(e)s
+
+** Passé antérieur
+
+j'eus été bleui(e)
+tu eus été bleui(e)
+il (elle) eut été bleui(e)
+nous eûmes été bleui(e)s
+vous eûtes été bleui(e)s
+ils (elles) eurent été bleui(e)s
+
+** Futur antérieur
+
+j'aurai été bleui(e)
+tu auras été bleui(e)
+il (elle) aura été bleui(e)
+nous aurons été bleui(e)s
+vous aurez été bleui(e)s
+ils (elles) auront été bleui(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bleui(e)
+j'aurais été bleui(e)
+il (elle) aurait été bleui(e)
+nous aurions été bleui(e)s
+vous auriez été bleui(e)s
+ils (elles) auraient été bleui(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bleui(e)
+que tu aies été bleui(e)
+qu’il (elle) ait été bleui(e)
+que nous ayons été bleui(e)s
+que vous ayez été bleui(e)s
+qu’ils (elles) aient été bleui(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bleui(e)
+que tu eusses été bleui(e)
+qu’il (elle) eût été bleui(e)
+que nous eussions été bleui(e)s
+que vous eussiez été bleui(e)s
+qu’ils (elles) eussent été bleui(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bleui(e)
+ayons été bleui(e)s
+ayez été bleui(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bleui(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bleui(e)(s)

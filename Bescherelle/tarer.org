@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tarer
+
+* INDICATIF
+
+** Présent
+
+je tare
+tu tares
+il (elle) tare
+nous tarons
+vous tarez
+ils (elles) tarent
+
+** Imparfait
+
+je tarais
+tu tarais
+il (elle) tarait
+nous tarions
+vous tariez
+ils (elles) taraient
+
+** Passé simple
+
+je tarai
+tu taras
+il (elle) tara
+nous tarâmes
+vous tarâtes
+ils (elles) tarèrent
+
+** Futur simple
+
+je tarerai
+tu tareras
+il (elle) tarera
+nous tarerons
+vous tarerez
+ils (elles) tareront
+
+* CONDITIONNEL
+
+** Présent
+
+je tarerais
+tu tarerais
+il (elle) tarerait
+nous tarerions
+vous tareriez
+ils (elles) tareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tare
+que tu tares
+qu’il (elle) tare
+que nous tarions
+que vous tariez
+qu’ils (elles) tarent
+
+** Imparfait
+
+que je tarasse
+que tu tarasses
+qu’il (elle) tarât
+que nous tarassions
+que vous tarassiez
+qu’ils (elles) tarassent
+
+* IMPÉRATIF
+
+** Présent
+
+tare
+tarons
+tarez
+
+* INFINITIF
+
+** Présent
+
+tarer
+
+* PARTICIPE
+
+** Présent
+
+tarant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai taré
+tu as taré
+il (elle) a taré
+nous avons taré
+vous avez taré
+ils (elles) ont taré
+
+** Plus-que-parfait
+
+j'avais taré
+tu avais taré
+il (elle) avait taré
+nous avions taré
+vous aviez taré
+ils (elles) avaient taré
+
+** Passé antérieur
+
+j'eus taré
+tu eus taré
+il (elle) eut taré
+nous eûmes taré
+vous eûtes taré
+ils (elles) eurent taré
+
+** Futur antérieur
+
+j'aurai taré
+tu auras taré
+il (elle) aura taré
+nous aurons taré
+vous aurez taré
+ils (elles) auront taré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais taré
+tu aurais taré
+il (elle) aurait taré
+nous aurions taré
+vous auriez taré
+ils (elles) auraient taré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie taré
+que tu aies taré
+qu’il (elle) ait taré
+que nous ayons taré
+que vous ayez taré
+qu’ils (elles) aient taré
+
+** Plus-que-parfait
+
+que j'eusse taré
+que tu eusses taré
+qu’il (elle) eût taré
+que nous eussions taré
+que vous eussiez taré
+qu’ils (elles) eussent taré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons taré
+ayez taré
+
+* INFINITIF
+
+** Passé
+
+avoir taré
+
+* PARTICIPE
+
+** Passé
+
+ayant taré
+taré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis taré(e)
+tu es taré(e)
+il (elle) est taré(e)
+nous sommes taré(e)s
+vous êtes taré(e)s
+ils (elles) sont taré(e)s
+
+** Imparfait
+
+j'étais taré(e)
+tu étais taré(e)
+il (elle) était taré(e)
+nous étions taré(e)s
+vous étiez taré(e)s
+ils (elles) étaient taré(e)s
+
+** Passé simple
+
+je fus taré(e)
+tu fus taré(e)
+il (elle) fut taré(e)
+nous fûmes taré(e)s
+vous fûtes taré(e)s
+ils (elles) furent taré(e)s
+
+** Futur simple
+
+je serai taré(e)
+tu seras taré(e)
+il (elle) sera taré(e)
+nous serons taré(e)s
+vous serez taré(e)s
+ils (elles) seront taré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais taré(e)
+tu serais taré(e)
+il (elle) serait taré(e)
+nous serions taré(e)s
+vous seriez taré(e)s
+ils (elles) seraient taré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois taré(e)
+que tu sois taré(e)
+qu’il (elle) soit taré(e)
+que nous soyons taré(e)s
+que vous soyez taré(e)s
+qu’ils (elles) soient taré(e)s
+
+** Imparfait
+
+que je fusse taré(e)
+que tu fusses taré(e)
+qu’il (elle) fût taré(e)
+que nous fussions taré(e)s
+que vous fussiez taré(e)s
+qu’ils (elles) fussent taré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons taré(e)s
+soyez taré(e)s
+
+* INFINITIF
+
+** Présent
+
+être taré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant taré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été taré(e)
+tu as été taré(e)
+il (elle) a été taré(e)
+nous avons été taré(e)s
+vous avez été taré(e)s
+ils (elles) ont été taré(e)s
+
+** Plus-que-parfait
+
+j'avais été taré(e)
+il (elle) avait été taré(e)
+nous avions été taré(e)s
+ils (elles) avaient été taré(e)s
+
+** Passé antérieur
+
+j'eus été taré(e)
+tu eus été taré(e)
+il (elle) eut été taré(e)
+nous eûmes été taré(e)s
+vous eûtes été taré(e)s
+ils (elles) eurent été taré(e)s
+
+** Futur antérieur
+
+j'aurai été taré(e)
+tu auras été taré(e)
+il (elle) aura été taré(e)
+nous aurons été taré(e)s
+vous aurez été taré(e)s
+ils (elles) auront été taré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été taré(e)
+j'aurais été taré(e)
+il (elle) aurait été taré(e)
+nous aurions été taré(e)s
+vous auriez été taré(e)s
+ils (elles) auraient été taré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été taré(e)
+que tu aies été taré(e)
+qu’il (elle) ait été taré(e)
+que nous ayons été taré(e)s
+que vous ayez été taré(e)s
+qu’ils (elles) aient été taré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été taré(e)
+que tu eusses été taré(e)
+qu’il (elle) eût été taré(e)
+que nous eussions été taré(e)s
+que vous eussiez été taré(e)s
+qu’ils (elles) eussent été taré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été taré(e)
+ayons été taré(e)s
+ayez été taré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été taré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été taré(e)(s)

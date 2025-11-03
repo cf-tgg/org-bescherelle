@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe chuter
+
+* INDICATIF
+
+** Présent
+
+je chute
+tu chutes
+il (elle) chute
+nous chutons
+vous chutez
+ils (elles) chutent
+
+** Imparfait
+
+je chutais
+tu chutais
+il (elle) chutait
+nous chutions
+vous chutiez
+ils (elles) chutaient
+
+** Passé simple
+
+je chutai
+tu chutas
+il (elle) chuta
+nous chutâmes
+vous chutâtes
+ils (elles) chutèrent
+
+** Futur simple
+
+je chuterai
+tu chuteras
+il (elle) chutera
+nous chuterons
+vous chuterez
+ils (elles) chuteront
+
+* CONDITIONNEL
+
+** Présent
+
+je chuterais
+tu chuterais
+il (elle) chuterait
+nous chuterions
+vous chuteriez
+ils (elles) chuteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chute
+que tu chutes
+qu’il (elle) chute
+que nous chutions
+que vous chutiez
+qu’ils (elles) chutent
+
+** Imparfait
+
+que je chutasse
+que tu chutasses
+qu’il (elle) chutât
+que nous chutassions
+que vous chutassiez
+qu’ils (elles) chutassent
+
+* IMPÉRATIF
+
+** Présent
+
+chute
+chutons
+chutez
+
+* INFINITIF
+
+** Présent
+
+chuter
+
+* PARTICIPE
+
+** Présent
+
+chutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chuté
+tu as chuté
+il (elle) a chuté
+nous avons chuté
+vous avez chuté
+ils (elles) ont chuté
+
+** Plus-que-parfait
+
+j'avais chuté
+tu avais chuté
+il (elle) avait chuté
+nous avions chuté
+vous aviez chuté
+ils (elles) avaient chuté
+
+** Passé antérieur
+
+j'eus chuté
+tu eus chuté
+il (elle) eut chuté
+nous eûmes chuté
+vous eûtes chuté
+ils (elles) eurent chuté
+
+** Futur antérieur
+
+j'aurai chuté
+tu auras chuté
+il (elle) aura chuté
+nous aurons chuté
+vous aurez chuté
+ils (elles) auront chuté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chuté
+tu aurais chuté
+il (elle) aurait chuté
+nous aurions chuté
+vous auriez chuté
+ils (elles) auraient chuté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chuté
+que tu aies chuté
+qu’il (elle) ait chuté
+que nous ayons chuté
+que vous ayez chuté
+qu’ils (elles) aient chuté
+
+** Plus-que-parfait
+
+que j'eusse chuté
+que tu eusses chuté
+qu’il (elle) eût chuté
+que nous eussions chuté
+que vous eussiez chuté
+qu’ils (elles) eussent chuté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chuté
+ayez chuté
+
+* INFINITIF
+
+** Passé
+
+avoir chuté
+
+* PARTICIPE
+
+** Passé
+
+ayant chuté
+chuté (invar.)

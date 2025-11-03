@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rougir
+
+* INDICATIF
+
+** Présent
+
+je rougis
+tu rougis
+il (elle) rougit
+nous rougissons
+vous rougissez
+ils (elles) rougissent
+
+** Imparfait
+
+je rougissais
+tu rougissais
+il (elle) rougissait
+nous rougissions
+vous rougissiez
+ils (elles) rougissaient
+
+** Passé simple
+
+je rougis
+tu rougis
+il (elle) rougit
+nous rougîmes
+vous rougîtes
+ils (elles) rougirent
+
+** Futur simple
+
+je rougirai
+tu rougiras
+il (elle) rougira
+nous rougirons
+vous rougirez
+ils (elles) rougiront
+
+* CONDITIONNEL
+
+** Présent
+
+je rougirais
+tu rougirais
+il (elle) rougirait
+nous rougirions
+vous rougiriez
+ils (elles) rougiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rougisse
+que tu rougisses
+qu’il (elle) rougisse
+que nous rougissions
+que vous rougissiez
+qu’ils (elles) rougissent
+
+** Imparfait
+
+que je rougisse
+que tu rougisses
+qu’il (elle) rougît
+que nous rougissions
+que vous rougissiez
+qu’ils (elles) rougissent
+
+* IMPÉRATIF
+
+** Présent
+
+rougis
+rougissons
+rougissez
+
+* INFINITIF
+
+** Présent
+
+rougir
+
+* PARTICIPE
+
+** Présent
+
+rougissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rougi
+tu as rougi
+il (elle) a rougi
+nous avons rougi
+vous avez rougi
+ils (elles) ont rougi
+
+** Plus-que-parfait
+
+j'avais rougi
+tu avais rougi
+il (elle) avait rougi
+nous avions rougi
+vous aviez rougi
+ils (elles) avaient rougi
+
+** Passé antérieur
+
+j'eus rougi
+tu eus rougi
+il (elle) eut rougi
+nous eûmes rougi
+vous eûtes rougi
+ils (elles) eurent rougi
+
+** Futur antérieur
+
+j'aurai rougi
+tu auras rougi
+il (elle) aura rougi
+nous aurons rougi
+vous aurez rougi
+ils (elles) auront rougi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rougi
+tu aurais rougi
+il (elle) aurait rougi
+nous aurions rougi
+vous auriez rougi
+ils (elles) auraient rougi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rougi
+que tu aies rougi
+qu’il (elle) ait rougi
+que nous ayons rougi
+que vous ayez rougi
+qu’ils (elles) aient rougi
+
+** Plus-que-parfait
+
+que j'eusse rougi
+que tu eusses rougi
+qu’il (elle) eût rougi
+que nous eussions rougi
+que vous eussiez rougi
+qu’ils (elles) eussent rougi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rougi
+ayez rougi
+
+* INFINITIF
+
+** Passé
+
+avoir rougi
+
+* PARTICIPE
+
+** Passé
+
+ayant rougi
+rougi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis rougi(e)
+tu es rougi(e)
+il (elle) est rougi(e)
+nous sommes rougi(e)s
+vous êtes rougi(e)s
+ils (elles) sont rougi(e)s
+
+** Imparfait
+
+j'étais rougi(e)
+tu étais rougi(e)
+il (elle) était rougi(e)
+nous étions rougi(e)s
+vous étiez rougi(e)s
+ils (elles) étaient rougi(e)s
+
+** Passé simple
+
+je fus rougi(e)
+tu fus rougi(e)
+il (elle) fut rougi(e)
+nous fûmes rougi(e)s
+vous fûtes rougi(e)s
+ils (elles) furent rougi(e)s
+
+** Futur simple
+
+je serai rougi(e)
+tu seras rougi(e)
+il (elle) sera rougi(e)
+nous serons rougi(e)s
+vous serez rougi(e)s
+ils (elles) seront rougi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rougi(e)
+tu serais rougi(e)
+il (elle) serait rougi(e)
+nous serions rougi(e)s
+vous seriez rougi(e)s
+ils (elles) seraient rougi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rougi(e)
+que tu sois rougi(e)
+qu’il (elle) soit rougi(e)
+que nous soyons rougi(e)s
+que vous soyez rougi(e)s
+qu’ils (elles) soient rougi(e)s
+
+** Imparfait
+
+que je fusse rougi(e)
+que tu fusses rougi(e)
+qu’il (elle) fût rougi(e)
+que nous fussions rougi(e)s
+que vous fussiez rougi(e)s
+qu’ils (elles) fussent rougi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rougi(e)s
+soyez rougi(e)s
+
+* INFINITIF
+
+** Présent
+
+être rougi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rougi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rougi(e)
+tu as été rougi(e)
+il (elle) a été rougi(e)
+nous avons été rougi(e)s
+vous avez été rougi(e)s
+ils (elles) ont été rougi(e)s
+
+** Plus-que-parfait
+
+j'avais été rougi(e)
+il (elle) avait été rougi(e)
+nous avions été rougi(e)s
+ils (elles) avaient été rougi(e)s
+
+** Passé antérieur
+
+j'eus été rougi(e)
+tu eus été rougi(e)
+il (elle) eut été rougi(e)
+nous eûmes été rougi(e)s
+vous eûtes été rougi(e)s
+ils (elles) eurent été rougi(e)s
+
+** Futur antérieur
+
+j'aurai été rougi(e)
+tu auras été rougi(e)
+il (elle) aura été rougi(e)
+nous aurons été rougi(e)s
+vous aurez été rougi(e)s
+ils (elles) auront été rougi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rougi(e)
+j'aurais été rougi(e)
+il (elle) aurait été rougi(e)
+nous aurions été rougi(e)s
+vous auriez été rougi(e)s
+ils (elles) auraient été rougi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rougi(e)
+que tu aies été rougi(e)
+qu’il (elle) ait été rougi(e)
+que nous ayons été rougi(e)s
+que vous ayez été rougi(e)s
+qu’ils (elles) aient été rougi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rougi(e)
+que tu eusses été rougi(e)
+qu’il (elle) eût été rougi(e)
+que nous eussions été rougi(e)s
+que vous eussiez été rougi(e)s
+qu’ils (elles) eussent été rougi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rougi(e)
+ayons été rougi(e)s
+ayez été rougi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rougi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rougi(e)(s)

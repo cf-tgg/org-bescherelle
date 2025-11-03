@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rayer
+
+* INDICATIF
+
+** Présent
+
+je raye
+tu rayes
+il (elle) raye
+nous rayons
+vous rayez
+ils (elles) rayent
+
+** Imparfait
+
+je rayais
+tu rayais
+il (elle) rayait
+nous rayions
+vous rayiez
+ils (elles) rayaient
+
+** Passé simple
+
+je rayai
+tu rayas
+il (elle) raya
+nous rayâmes
+vous rayâtes
+ils (elles) rayèrent
+
+** Futur simple
+
+je rayerai
+tu rayeras
+il (elle) rayera
+nous rayerons
+vous rayerez
+ils (elles) rayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je rayerais
+tu rayerais
+il (elle) rayerait
+nous rayerions
+vous rayeriez
+ils (elles) rayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je raye
+que tu rayes
+qu’il (elle) raye
+que nous rayions
+que vous rayiez
+qu’ils (elles) rayent
+
+** Imparfait
+
+que je rayasse
+que tu rayasses
+qu’il (elle) rayât
+que nous rayassions
+que vous rayassiez
+qu’ils (elles) rayassent
+
+* IMPÉRATIF
+
+** Présent
+
+raye
+rayons
+rayez
+
+* INFINITIF
+
+** Présent
+
+rayer
+
+* PARTICIPE
+
+** Présent
+
+rayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rayé
+tu as rayé
+il (elle) a rayé
+nous avons rayé
+vous avez rayé
+ils (elles) ont rayé
+
+** Plus-que-parfait
+
+j'avais rayé
+tu avais rayé
+il (elle) avait rayé
+nous avions rayé
+vous aviez rayé
+ils (elles) avaient rayé
+
+** Passé antérieur
+
+j'eus rayé
+tu eus rayé
+il (elle) eut rayé
+nous eûmes rayé
+vous eûtes rayé
+ils (elles) eurent rayé
+
+** Futur antérieur
+
+j'aurai rayé
+tu auras rayé
+il (elle) aura rayé
+nous aurons rayé
+vous aurez rayé
+ils (elles) auront rayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rayé
+tu aurais rayé
+il (elle) aurait rayé
+nous aurions rayé
+vous auriez rayé
+ils (elles) auraient rayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rayé
+que tu aies rayé
+qu’il (elle) ait rayé
+que nous ayons rayé
+que vous ayez rayé
+qu’ils (elles) aient rayé
+
+** Plus-que-parfait
+
+que j'eusse rayé
+que tu eusses rayé
+qu’il (elle) eût rayé
+que nous eussions rayé
+que vous eussiez rayé
+qu’ils (elles) eussent rayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rayé
+ayez rayé
+
+* INFINITIF
+
+** Passé
+
+avoir rayé
+
+* PARTICIPE
+
+** Passé
+
+ayant rayé
+rayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rayé(e)
+tu es rayé(e)
+il (elle) est rayé(e)
+nous sommes rayé(e)s
+vous êtes rayé(e)s
+ils (elles) sont rayé(e)s
+
+** Imparfait
+
+j'étais rayé(e)
+tu étais rayé(e)
+il (elle) était rayé(e)
+nous étions rayé(e)s
+vous étiez rayé(e)s
+ils (elles) étaient rayé(e)s
+
+** Passé simple
+
+je fus rayé(e)
+tu fus rayé(e)
+il (elle) fut rayé(e)
+nous fûmes rayé(e)s
+vous fûtes rayé(e)s
+ils (elles) furent rayé(e)s
+
+** Futur simple
+
+je serai rayé(e)
+tu seras rayé(e)
+il (elle) sera rayé(e)
+nous serons rayé(e)s
+vous serez rayé(e)s
+ils (elles) seront rayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rayé(e)
+tu serais rayé(e)
+il (elle) serait rayé(e)
+nous serions rayé(e)s
+vous seriez rayé(e)s
+ils (elles) seraient rayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rayé(e)
+que tu sois rayé(e)
+qu’il (elle) soit rayé(e)
+que nous soyons rayé(e)s
+que vous soyez rayé(e)s
+qu’ils (elles) soient rayé(e)s
+
+** Imparfait
+
+que je fusse rayé(e)
+que tu fusses rayé(e)
+qu’il (elle) fût rayé(e)
+que nous fussions rayé(e)s
+que vous fussiez rayé(e)s
+qu’ils (elles) fussent rayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rayé(e)s
+soyez rayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être rayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rayé(e)
+tu as été rayé(e)
+il (elle) a été rayé(e)
+nous avons été rayé(e)s
+vous avez été rayé(e)s
+ils (elles) ont été rayé(e)s
+
+** Plus-que-parfait
+
+j'avais été rayé(e)
+il (elle) avait été rayé(e)
+nous avions été rayé(e)s
+ils (elles) avaient été rayé(e)s
+
+** Passé antérieur
+
+j'eus été rayé(e)
+tu eus été rayé(e)
+il (elle) eut été rayé(e)
+nous eûmes été rayé(e)s
+vous eûtes été rayé(e)s
+ils (elles) eurent été rayé(e)s
+
+** Futur antérieur
+
+j'aurai été rayé(e)
+tu auras été rayé(e)
+il (elle) aura été rayé(e)
+nous aurons été rayé(e)s
+vous aurez été rayé(e)s
+ils (elles) auront été rayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rayé(e)
+j'aurais été rayé(e)
+il (elle) aurait été rayé(e)
+nous aurions été rayé(e)s
+vous auriez été rayé(e)s
+ils (elles) auraient été rayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rayé(e)
+que tu aies été rayé(e)
+qu’il (elle) ait été rayé(e)
+que nous ayons été rayé(e)s
+que vous ayez été rayé(e)s
+qu’ils (elles) aient été rayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rayé(e)
+que tu eusses été rayé(e)
+qu’il (elle) eût été rayé(e)
+que nous eussions été rayé(e)s
+que vous eussiez été rayé(e)s
+qu’ils (elles) eussent été rayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rayé(e)
+ayons été rayé(e)s
+ayez été rayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rayé(e)(s)

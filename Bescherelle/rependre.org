@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rependre
+
+* INDICATIF
+
+** Présent
+
+je repends
+tu repends
+il (elle) repend
+nous rependons
+vous rependez
+ils (elles) rependent
+
+** Imparfait
+
+je rependais
+tu rependais
+il (elle) rependait
+nous rependions
+vous rependiez
+ils (elles) rependaient
+
+** Passé simple
+
+je rependis
+tu rependis
+il (elle) rependit
+nous rependîmes
+vous rependîtes
+ils (elles) rependirent
+
+** Futur simple
+
+je rependrai
+tu rependras
+il (elle) rependra
+nous rependrons
+vous rependrez
+ils (elles) rependront
+
+* CONDITIONNEL
+
+** Présent
+
+je rependrais
+tu rependrais
+il (elle) rependrait
+nous rependrions
+vous rependriez
+ils (elles) rependraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je repende
+que tu rependes
+qu’il (elle) repende
+que nous rependions
+que vous rependiez
+qu’ils (elles) rependent
+
+** Imparfait
+
+que je rependisse
+que tu rependisses
+qu’il (elle) rependît
+que nous rependissions
+que vous rependissiez
+qu’ils (elles) rependissent
+
+* IMPÉRATIF
+
+** Présent
+
+repends
+rependons
+rependez
+
+* INFINITIF
+
+** Présent
+
+rependre
+
+* PARTICIPE
+
+** Présent
+
+rependant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rependu
+tu as rependu
+il (elle) a rependu
+nous avons rependu
+vous avez rependu
+ils (elles) ont rependu
+
+** Plus-que-parfait
+
+j'avais rependu
+tu avais rependu
+il (elle) avait rependu
+nous avions rependu
+vous aviez rependu
+ils (elles) avaient rependu
+
+** Passé antérieur
+
+j'eus rependu
+tu eus rependu
+il (elle) eut rependu
+nous eûmes rependu
+vous eûtes rependu
+ils (elles) eurent rependu
+
+** Futur antérieur
+
+j'aurai rependu
+tu auras rependu
+il (elle) aura rependu
+nous aurons rependu
+vous aurez rependu
+ils (elles) auront rependu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rependu
+tu aurais rependu
+il (elle) aurait rependu
+nous aurions rependu
+vous auriez rependu
+ils (elles) auraient rependu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rependu
+que tu aies rependu
+qu’il (elle) ait rependu
+que nous ayons rependu
+que vous ayez rependu
+qu’ils (elles) aient rependu
+
+** Plus-que-parfait
+
+que j'eusse rependu
+que tu eusses rependu
+qu’il (elle) eût rependu
+que nous eussions rependu
+que vous eussiez rependu
+qu’ils (elles) eussent rependu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rependu
+ayez rependu
+
+* INFINITIF
+
+** Passé
+
+avoir rependu
+
+* PARTICIPE
+
+** Passé
+
+ayant rependu
+rependu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis rependu(e)
+tu es rependu(e)
+il (elle) est rependu(e)
+nous sommes rependu(e)s
+vous êtes rependu(e)s
+ils (elles) sont rependu(e)s
+
+** Imparfait
+
+j'étais rependu(e)
+tu étais rependu(e)
+il (elle) était rependu(e)
+nous étions rependu(e)s
+vous étiez rependu(e)s
+ils (elles) étaient rependu(e)s
+
+** Passé simple
+
+je fus rependu(e)
+tu fus rependu(e)
+il (elle) fut rependu(e)
+nous fûmes rependu(e)s
+vous fûtes rependu(e)s
+ils (elles) furent rependu(e)s
+
+** Futur simple
+
+je serai rependu(e)
+tu seras rependu(e)
+il (elle) sera rependu(e)
+nous serons rependu(e)s
+vous serez rependu(e)s
+ils (elles) seront rependu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rependu(e)
+tu serais rependu(e)
+il (elle) serait rependu(e)
+nous serions rependu(e)s
+vous seriez rependu(e)s
+ils (elles) seraient rependu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rependu(e)
+que tu sois rependu(e)
+qu’il (elle) soit rependu(e)
+que nous soyons rependu(e)s
+que vous soyez rependu(e)s
+qu’ils (elles) soient rependu(e)s
+
+** Imparfait
+
+que je fusse rependu(e)
+que tu fusses rependu(e)
+qu’il (elle) fût rependu(e)
+que nous fussions rependu(e)s
+que vous fussiez rependu(e)s
+qu’ils (elles) fussent rependu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rependu(e)s
+soyez rependu(e)s
+
+* INFINITIF
+
+** Présent
+
+être rependu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rependu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rependu(e)
+tu as été rependu(e)
+il (elle) a été rependu(e)
+nous avons été rependu(e)s
+vous avez été rependu(e)s
+ils (elles) ont été rependu(e)s
+
+** Plus-que-parfait
+
+j'avais été rependu(e)
+il (elle) avait été rependu(e)
+nous avions été rependu(e)s
+ils (elles) avaient été rependu(e)s
+
+** Passé antérieur
+
+j'eus été rependu(e)
+tu eus été rependu(e)
+il (elle) eut été rependu(e)
+nous eûmes été rependu(e)s
+vous eûtes été rependu(e)s
+ils (elles) eurent été rependu(e)s
+
+** Futur antérieur
+
+j'aurai été rependu(e)
+tu auras été rependu(e)
+il (elle) aura été rependu(e)
+nous aurons été rependu(e)s
+vous aurez été rependu(e)s
+ils (elles) auront été rependu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rependu(e)
+j'aurais été rependu(e)
+il (elle) aurait été rependu(e)
+nous aurions été rependu(e)s
+vous auriez été rependu(e)s
+ils (elles) auraient été rependu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rependu(e)
+que tu aies été rependu(e)
+qu’il (elle) ait été rependu(e)
+que nous ayons été rependu(e)s
+que vous ayez été rependu(e)s
+qu’ils (elles) aient été rependu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rependu(e)
+que tu eusses été rependu(e)
+qu’il (elle) eût été rependu(e)
+que nous eussions été rependu(e)s
+que vous eussiez été rependu(e)s
+qu’ils (elles) eussent été rependu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rependu(e)
+ayons été rependu(e)s
+ayez été rependu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rependu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rependu(e)(s)

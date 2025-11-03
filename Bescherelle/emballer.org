@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe emballer
+
+* INDICATIF
+
+** Présent
+
+j'emballe
+tu emballes
+il (elle) emballe
+nous emballons
+vous emballez
+ils (elles) emballent
+
+** Imparfait
+
+j'emballais
+tu emballais
+il (elle) emballait
+nous emballions
+vous emballiez
+ils (elles) emballaient
+
+** Passé simple
+
+j'emballai
+tu emballas
+il (elle) emballa
+nous emballâmes
+vous emballâtes
+ils (elles) emballèrent
+
+** Futur simple
+
+j'emballerai
+tu emballeras
+il (elle) emballera
+nous emballerons
+vous emballerez
+ils (elles) emballeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emballerais
+tu emballerais
+il (elle) emballerait
+nous emballerions
+vous emballeriez
+ils (elles) emballeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emballe
+que tu emballes
+qu’il (elle) emballe
+que nous emballions
+que vous emballiez
+qu’ils (elles) emballent
+
+** Imparfait
+
+que j'emballasse
+que tu emballasses
+qu’il (elle) emballât
+que nous emballassions
+que vous emballassiez
+qu’ils (elles) emballassent
+
+* IMPÉRATIF
+
+** Présent
+
+emballe
+emballons
+emballez
+
+* INFINITIF
+
+** Présent
+
+emballer
+
+* PARTICIPE
+
+** Présent
+
+emballant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai emballé
+tu as emballé
+il (elle) a emballé
+nous avons emballé
+vous avez emballé
+ils (elles) ont emballé
+
+** Plus-que-parfait
+
+j'avais emballé
+tu avais emballé
+il (elle) avait emballé
+nous avions emballé
+vous aviez emballé
+ils (elles) avaient emballé
+
+** Passé antérieur
+
+j'eus emballé
+tu eus emballé
+il (elle) eut emballé
+nous eûmes emballé
+vous eûtes emballé
+ils (elles) eurent emballé
+
+** Futur antérieur
+
+j'aurai emballé
+tu auras emballé
+il (elle) aura emballé
+nous aurons emballé
+vous aurez emballé
+ils (elles) auront emballé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais emballé
+tu aurais emballé
+il (elle) aurait emballé
+nous aurions emballé
+vous auriez emballé
+ils (elles) auraient emballé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie emballé
+que tu aies emballé
+qu’il (elle) ait emballé
+que nous ayons emballé
+que vous ayez emballé
+qu’ils (elles) aient emballé
+
+** Plus-que-parfait
+
+que j'eusse emballé
+que tu eusses emballé
+qu’il (elle) eût emballé
+que nous eussions emballé
+que vous eussiez emballé
+qu’ils (elles) eussent emballé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons emballé
+ayez emballé
+
+* INFINITIF
+
+** Passé
+
+avoir emballé
+
+* PARTICIPE
+
+** Passé
+
+ayant emballé
+emballé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis emballé(e)
+tu es emballé(e)
+il (elle) est emballé(e)
+nous sommes emballé(e)s
+vous êtes emballé(e)s
+ils (elles) sont emballé(e)s
+
+** Imparfait
+
+j'étais emballé(e)
+tu étais emballé(e)
+il (elle) était emballé(e)
+nous étions emballé(e)s
+vous étiez emballé(e)s
+ils (elles) étaient emballé(e)s
+
+** Passé simple
+
+je fus emballé(e)
+tu fus emballé(e)
+il (elle) fut emballé(e)
+nous fûmes emballé(e)s
+vous fûtes emballé(e)s
+ils (elles) furent emballé(e)s
+
+** Futur simple
+
+je serai emballé(e)
+tu seras emballé(e)
+il (elle) sera emballé(e)
+nous serons emballé(e)s
+vous serez emballé(e)s
+ils (elles) seront emballé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais emballé(e)
+tu serais emballé(e)
+il (elle) serait emballé(e)
+nous serions emballé(e)s
+vous seriez emballé(e)s
+ils (elles) seraient emballé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois emballé(e)
+que tu sois emballé(e)
+qu’il (elle) soit emballé(e)
+que nous soyons emballé(e)s
+que vous soyez emballé(e)s
+qu’ils (elles) soient emballé(e)s
+
+** Imparfait
+
+que je fusse emballé(e)
+que tu fusses emballé(e)
+qu’il (elle) fût emballé(e)
+que nous fussions emballé(e)s
+que vous fussiez emballé(e)s
+qu’ils (elles) fussent emballé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons emballé(e)s
+soyez emballé(e)s
+
+* INFINITIF
+
+** Présent
+
+être emballé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant emballé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été emballé(e)
+tu as été emballé(e)
+il (elle) a été emballé(e)
+nous avons été emballé(e)s
+vous avez été emballé(e)s
+ils (elles) ont été emballé(e)s
+
+** Plus-que-parfait
+
+j'avais été emballé(e)
+il (elle) avait été emballé(e)
+nous avions été emballé(e)s
+ils (elles) avaient été emballé(e)s
+
+** Passé antérieur
+
+j'eus été emballé(e)
+tu eus été emballé(e)
+il (elle) eut été emballé(e)
+nous eûmes été emballé(e)s
+vous eûtes été emballé(e)s
+ils (elles) eurent été emballé(e)s
+
+** Futur antérieur
+
+j'aurai été emballé(e)
+tu auras été emballé(e)
+il (elle) aura été emballé(e)
+nous aurons été emballé(e)s
+vous aurez été emballé(e)s
+ils (elles) auront été emballé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été emballé(e)
+j'aurais été emballé(e)
+il (elle) aurait été emballé(e)
+nous aurions été emballé(e)s
+vous auriez été emballé(e)s
+ils (elles) auraient été emballé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été emballé(e)
+que tu aies été emballé(e)
+qu’il (elle) ait été emballé(e)
+que nous ayons été emballé(e)s
+que vous ayez été emballé(e)s
+qu’ils (elles) aient été emballé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été emballé(e)
+que tu eusses été emballé(e)
+qu’il (elle) eût été emballé(e)
+que nous eussions été emballé(e)s
+que vous eussiez été emballé(e)s
+qu’ils (elles) eussent été emballé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été emballé(e)
+ayons été emballé(e)s
+ayez été emballé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été emballé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été emballé(e)(s)

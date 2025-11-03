@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe defiler
+
+* INDICATIF
+
+** Présent
+
+je défile
+tu défiles
+il (elle) défile
+nous défilons
+vous défilez
+ils (elles) défilent
+
+** Imparfait
+
+je défilais
+tu défilais
+il (elle) défilait
+nous défilions
+vous défiliez
+ils (elles) défilaient
+
+** Passé simple
+
+je défilai
+tu défilas
+il (elle) défila
+nous défilâmes
+vous défilâtes
+ils (elles) défilèrent
+
+** Futur simple
+
+je défilerai
+tu défileras
+il (elle) défilera
+nous défilerons
+vous défilerez
+ils (elles) défileront
+
+* CONDITIONNEL
+
+** Présent
+
+je défilerais
+tu défilerais
+il (elle) défilerait
+nous défilerions
+vous défileriez
+ils (elles) défileraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je défile
+que tu défiles
+qu’il (elle) défile
+que nous défilions
+que vous défiliez
+qu’ils (elles) défilent
+
+** Imparfait
+
+que je défilasse
+que tu défilasses
+qu’il (elle) défilât
+que nous défilassions
+que vous défilassiez
+qu’ils (elles) défilassent
+
+* IMPÉRATIF
+
+** Présent
+
+défile
+défilons
+défilez
+
+* INFINITIF
+
+** Présent
+
+défiler
+
+* PARTICIPE
+
+** Présent
+
+défilant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai défilé
+tu as défilé
+il (elle) a défilé
+nous avons défilé
+vous avez défilé
+ils (elles) ont défilé
+
+** Plus-que-parfait
+
+j'avais défilé
+tu avais défilé
+il (elle) avait défilé
+nous avions défilé
+vous aviez défilé
+ils (elles) avaient défilé
+
+** Passé antérieur
+
+j'eus défilé
+tu eus défilé
+il (elle) eut défilé
+nous eûmes défilé
+vous eûtes défilé
+ils (elles) eurent défilé
+
+** Futur antérieur
+
+j'aurai défilé
+tu auras défilé
+il (elle) aura défilé
+nous aurons défilé
+vous aurez défilé
+ils (elles) auront défilé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais défilé
+tu aurais défilé
+il (elle) aurait défilé
+nous aurions défilé
+vous auriez défilé
+ils (elles) auraient défilé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie défilé
+que tu aies défilé
+qu’il (elle) ait défilé
+que nous ayons défilé
+que vous ayez défilé
+qu’ils (elles) aient défilé
+
+** Plus-que-parfait
+
+que j'eusse défilé
+que tu eusses défilé
+qu’il (elle) eût défilé
+que nous eussions défilé
+que vous eussiez défilé
+qu’ils (elles) eussent défilé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons défilé
+ayez défilé
+
+* INFINITIF
+
+** Passé
+
+avoir défilé
+
+* PARTICIPE
+
+** Passé
+
+ayant défilé
+défilé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis défilé(e)
+tu es défilé(e)
+il (elle) est défilé(e)
+nous sommes défilé(e)s
+vous êtes défilé(e)s
+ils (elles) sont défilé(e)s
+
+** Imparfait
+
+j'étais défilé(e)
+tu étais défilé(e)
+il (elle) était défilé(e)
+nous étions défilé(e)s
+vous étiez défilé(e)s
+ils (elles) étaient défilé(e)s
+
+** Passé simple
+
+je fus défilé(e)
+tu fus défilé(e)
+il (elle) fut défilé(e)
+nous fûmes défilé(e)s
+vous fûtes défilé(e)s
+ils (elles) furent défilé(e)s
+
+** Futur simple
+
+je serai défilé(e)
+tu seras défilé(e)
+il (elle) sera défilé(e)
+nous serons défilé(e)s
+vous serez défilé(e)s
+ils (elles) seront défilé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais défilé(e)
+tu serais défilé(e)
+il (elle) serait défilé(e)
+nous serions défilé(e)s
+vous seriez défilé(e)s
+ils (elles) seraient défilé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois défilé(e)
+que tu sois défilé(e)
+qu’il (elle) soit défilé(e)
+que nous soyons défilé(e)s
+que vous soyez défilé(e)s
+qu’ils (elles) soient défilé(e)s
+
+** Imparfait
+
+que je fusse défilé(e)
+que tu fusses défilé(e)
+qu’il (elle) fût défilé(e)
+que nous fussions défilé(e)s
+que vous fussiez défilé(e)s
+qu’ils (elles) fussent défilé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons défilé(e)s
+soyez défilé(e)s
+
+* INFINITIF
+
+** Présent
+
+être défilé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant défilé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été défilé(e)
+tu as été défilé(e)
+il (elle) a été défilé(e)
+nous avons été défilé(e)s
+vous avez été défilé(e)s
+ils (elles) ont été défilé(e)s
+
+** Plus-que-parfait
+
+j'avais été défilé(e)
+il (elle) avait été défilé(e)
+nous avions été défilé(e)s
+ils (elles) avaient été défilé(e)s
+
+** Passé antérieur
+
+j'eus été défilé(e)
+tu eus été défilé(e)
+il (elle) eut été défilé(e)
+nous eûmes été défilé(e)s
+vous eûtes été défilé(e)s
+ils (elles) eurent été défilé(e)s
+
+** Futur antérieur
+
+j'aurai été défilé(e)
+tu auras été défilé(e)
+il (elle) aura été défilé(e)
+nous aurons été défilé(e)s
+vous aurez été défilé(e)s
+ils (elles) auront été défilé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été défilé(e)
+j'aurais été défilé(e)
+il (elle) aurait été défilé(e)
+nous aurions été défilé(e)s
+vous auriez été défilé(e)s
+ils (elles) auraient été défilé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été défilé(e)
+que tu aies été défilé(e)
+qu’il (elle) ait été défilé(e)
+que nous ayons été défilé(e)s
+que vous ayez été défilé(e)s
+qu’ils (elles) aient été défilé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été défilé(e)
+que tu eusses été défilé(e)
+qu’il (elle) eût été défilé(e)
+que nous eussions été défilé(e)s
+que vous eussiez été défilé(e)s
+qu’ils (elles) eussent été défilé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été défilé(e)
+ayons été défilé(e)s
+ayez été défilé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été défilé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été défilé(e)(s)

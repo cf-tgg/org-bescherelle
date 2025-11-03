@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rencontrer
+
+* INDICATIF
+
+** Présent
+
+je rencontre
+tu rencontres
+il (elle) rencontre
+nous rencontrons
+vous rencontrez
+ils (elles) rencontrent
+
+** Imparfait
+
+je rencontrais
+tu rencontrais
+il (elle) rencontrait
+nous rencontrions
+vous rencontriez
+ils (elles) rencontraient
+
+** Passé simple
+
+je rencontrai
+tu rencontras
+il (elle) rencontra
+nous rencontrâmes
+vous rencontrâtes
+ils (elles) rencontrèrent
+
+** Futur simple
+
+je rencontrerai
+tu rencontreras
+il (elle) rencontrera
+nous rencontrerons
+vous rencontrerez
+ils (elles) rencontreront
+
+* CONDITIONNEL
+
+** Présent
+
+je rencontrerais
+tu rencontrerais
+il (elle) rencontrerait
+nous rencontrerions
+vous rencontreriez
+ils (elles) rencontreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rencontre
+que tu rencontres
+qu’il (elle) rencontre
+que nous rencontrions
+que vous rencontriez
+qu’ils (elles) rencontrent
+
+** Imparfait
+
+que je rencontrasse
+que tu rencontrasses
+qu’il (elle) rencontrât
+que nous rencontrassions
+que vous rencontrassiez
+qu’ils (elles) rencontrassent
+
+* IMPÉRATIF
+
+** Présent
+
+rencontre
+rencontrons
+rencontrez
+
+* INFINITIF
+
+** Présent
+
+rencontrer
+
+* PARTICIPE
+
+** Présent
+
+rencontrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rencontré
+tu as rencontré
+il (elle) a rencontré
+nous avons rencontré
+vous avez rencontré
+ils (elles) ont rencontré
+
+** Plus-que-parfait
+
+j'avais rencontré
+tu avais rencontré
+il (elle) avait rencontré
+nous avions rencontré
+vous aviez rencontré
+ils (elles) avaient rencontré
+
+** Passé antérieur
+
+j'eus rencontré
+tu eus rencontré
+il (elle) eut rencontré
+nous eûmes rencontré
+vous eûtes rencontré
+ils (elles) eurent rencontré
+
+** Futur antérieur
+
+j'aurai rencontré
+tu auras rencontré
+il (elle) aura rencontré
+nous aurons rencontré
+vous aurez rencontré
+ils (elles) auront rencontré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rencontré
+tu aurais rencontré
+il (elle) aurait rencontré
+nous aurions rencontré
+vous auriez rencontré
+ils (elles) auraient rencontré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rencontré
+que tu aies rencontré
+qu’il (elle) ait rencontré
+que nous ayons rencontré
+que vous ayez rencontré
+qu’ils (elles) aient rencontré
+
+** Plus-que-parfait
+
+que j'eusse rencontré
+que tu eusses rencontré
+qu’il (elle) eût rencontré
+que nous eussions rencontré
+que vous eussiez rencontré
+qu’ils (elles) eussent rencontré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rencontré
+ayez rencontré
+
+* INFINITIF
+
+** Passé
+
+avoir rencontré
+
+* PARTICIPE
+
+** Passé
+
+ayant rencontré
+rencontré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rencontré(e)
+tu es rencontré(e)
+il (elle) est rencontré(e)
+nous sommes rencontré(e)s
+vous êtes rencontré(e)s
+ils (elles) sont rencontré(e)s
+
+** Imparfait
+
+j'étais rencontré(e)
+tu étais rencontré(e)
+il (elle) était rencontré(e)
+nous étions rencontré(e)s
+vous étiez rencontré(e)s
+ils (elles) étaient rencontré(e)s
+
+** Passé simple
+
+je fus rencontré(e)
+tu fus rencontré(e)
+il (elle) fut rencontré(e)
+nous fûmes rencontré(e)s
+vous fûtes rencontré(e)s
+ils (elles) furent rencontré(e)s
+
+** Futur simple
+
+je serai rencontré(e)
+tu seras rencontré(e)
+il (elle) sera rencontré(e)
+nous serons rencontré(e)s
+vous serez rencontré(e)s
+ils (elles) seront rencontré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rencontré(e)
+tu serais rencontré(e)
+il (elle) serait rencontré(e)
+nous serions rencontré(e)s
+vous seriez rencontré(e)s
+ils (elles) seraient rencontré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rencontré(e)
+que tu sois rencontré(e)
+qu’il (elle) soit rencontré(e)
+que nous soyons rencontré(e)s
+que vous soyez rencontré(e)s
+qu’ils (elles) soient rencontré(e)s
+
+** Imparfait
+
+que je fusse rencontré(e)
+que tu fusses rencontré(e)
+qu’il (elle) fût rencontré(e)
+que nous fussions rencontré(e)s
+que vous fussiez rencontré(e)s
+qu’ils (elles) fussent rencontré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rencontré(e)s
+soyez rencontré(e)s
+
+* INFINITIF
+
+** Présent
+
+être rencontré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rencontré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rencontré(e)
+tu as été rencontré(e)
+il (elle) a été rencontré(e)
+nous avons été rencontré(e)s
+vous avez été rencontré(e)s
+ils (elles) ont été rencontré(e)s
+
+** Plus-que-parfait
+
+j'avais été rencontré(e)
+il (elle) avait été rencontré(e)
+nous avions été rencontré(e)s
+ils (elles) avaient été rencontré(e)s
+
+** Passé antérieur
+
+j'eus été rencontré(e)
+tu eus été rencontré(e)
+il (elle) eut été rencontré(e)
+nous eûmes été rencontré(e)s
+vous eûtes été rencontré(e)s
+ils (elles) eurent été rencontré(e)s
+
+** Futur antérieur
+
+j'aurai été rencontré(e)
+tu auras été rencontré(e)
+il (elle) aura été rencontré(e)
+nous aurons été rencontré(e)s
+vous aurez été rencontré(e)s
+ils (elles) auront été rencontré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rencontré(e)
+j'aurais été rencontré(e)
+il (elle) aurait été rencontré(e)
+nous aurions été rencontré(e)s
+vous auriez été rencontré(e)s
+ils (elles) auraient été rencontré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rencontré(e)
+que tu aies été rencontré(e)
+qu’il (elle) ait été rencontré(e)
+que nous ayons été rencontré(e)s
+que vous ayez été rencontré(e)s
+qu’ils (elles) aient été rencontré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rencontré(e)
+que tu eusses été rencontré(e)
+qu’il (elle) eût été rencontré(e)
+que nous eussions été rencontré(e)s
+que vous eussiez été rencontré(e)s
+qu’ils (elles) eussent été rencontré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rencontré(e)
+ayons été rencontré(e)s
+ayez été rencontré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rencontré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rencontré(e)(s)

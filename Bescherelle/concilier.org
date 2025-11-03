@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe concilier
+
+* INDICATIF
+
+** Présent
+
+je concilie
+tu concilies
+il (elle) concilie
+nous concilions
+vous conciliez
+ils (elles) concilient
+
+** Imparfait
+
+je conciliais
+tu conciliais
+il (elle) conciliait
+nous conciliions
+vous conciliiez
+ils (elles) conciliaient
+
+** Passé simple
+
+je conciliai
+tu concilias
+il (elle) concilia
+nous conciliâmes
+vous conciliâtes
+ils (elles) concilièrent
+
+** Futur simple
+
+je concilierai
+tu concilieras
+il (elle) conciliera
+nous concilierons
+vous concilierez
+ils (elles) concilieront
+
+* CONDITIONNEL
+
+** Présent
+
+je concilierais
+tu concilierais
+il (elle) concilierait
+nous concilierions
+vous concilieriez
+ils (elles) concilieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je concilie
+que tu concilies
+qu’il (elle) concilie
+que nous conciliions
+que vous conciliiez
+qu’ils (elles) concilient
+
+** Imparfait
+
+que je conciliasse
+que tu conciliasses
+qu’il (elle) conciliât
+que nous conciliassions
+que vous conciliassiez
+qu’ils (elles) conciliassent
+
+* IMPÉRATIF
+
+** Présent
+
+concilie
+concilions
+conciliez
+
+* INFINITIF
+
+** Présent
+
+concilier
+
+* PARTICIPE
+
+** Présent
+
+conciliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai concilié
+tu as concilié
+il (elle) a concilié
+nous avons concilié
+vous avez concilié
+ils (elles) ont concilié
+
+** Plus-que-parfait
+
+j'avais concilié
+tu avais concilié
+il (elle) avait concilié
+nous avions concilié
+vous aviez concilié
+ils (elles) avaient concilié
+
+** Passé antérieur
+
+j'eus concilié
+tu eus concilié
+il (elle) eut concilié
+nous eûmes concilié
+vous eûtes concilié
+ils (elles) eurent concilié
+
+** Futur antérieur
+
+j'aurai concilié
+tu auras concilié
+il (elle) aura concilié
+nous aurons concilié
+vous aurez concilié
+ils (elles) auront concilié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais concilié
+tu aurais concilié
+il (elle) aurait concilié
+nous aurions concilié
+vous auriez concilié
+ils (elles) auraient concilié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie concilié
+que tu aies concilié
+qu’il (elle) ait concilié
+que nous ayons concilié
+que vous ayez concilié
+qu’ils (elles) aient concilié
+
+** Plus-que-parfait
+
+que j'eusse concilié
+que tu eusses concilié
+qu’il (elle) eût concilié
+que nous eussions concilié
+que vous eussiez concilié
+qu’ils (elles) eussent concilié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons concilié
+ayez concilié
+
+* INFINITIF
+
+** Passé
+
+avoir concilié
+
+* PARTICIPE
+
+** Passé
+
+ayant concilié
+concilié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis concilié(e)
+tu es concilié(e)
+il (elle) est concilié(e)
+nous sommes concilié(e)s
+vous êtes concilié(e)s
+ils (elles) sont concilié(e)s
+
+** Imparfait
+
+j'étais concilié(e)
+tu étais concilié(e)
+il (elle) était concilié(e)
+nous étions concilié(e)s
+vous étiez concilié(e)s
+ils (elles) étaient concilié(e)s
+
+** Passé simple
+
+je fus concilié(e)
+tu fus concilié(e)
+il (elle) fut concilié(e)
+nous fûmes concilié(e)s
+vous fûtes concilié(e)s
+ils (elles) furent concilié(e)s
+
+** Futur simple
+
+je serai concilié(e)
+tu seras concilié(e)
+il (elle) sera concilié(e)
+nous serons concilié(e)s
+vous serez concilié(e)s
+ils (elles) seront concilié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais concilié(e)
+tu serais concilié(e)
+il (elle) serait concilié(e)
+nous serions concilié(e)s
+vous seriez concilié(e)s
+ils (elles) seraient concilié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois concilié(e)
+que tu sois concilié(e)
+qu’il (elle) soit concilié(e)
+que nous soyons concilié(e)s
+que vous soyez concilié(e)s
+qu’ils (elles) soient concilié(e)s
+
+** Imparfait
+
+que je fusse concilié(e)
+que tu fusses concilié(e)
+qu’il (elle) fût concilié(e)
+que nous fussions concilié(e)s
+que vous fussiez concilié(e)s
+qu’ils (elles) fussent concilié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons concilié(e)s
+soyez concilié(e)s
+
+* INFINITIF
+
+** Présent
+
+être concilié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant concilié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été concilié(e)
+tu as été concilié(e)
+il (elle) a été concilié(e)
+nous avons été concilié(e)s
+vous avez été concilié(e)s
+ils (elles) ont été concilié(e)s
+
+** Plus-que-parfait
+
+j'avais été concilié(e)
+il (elle) avait été concilié(e)
+nous avions été concilié(e)s
+ils (elles) avaient été concilié(e)s
+
+** Passé antérieur
+
+j'eus été concilié(e)
+tu eus été concilié(e)
+il (elle) eut été concilié(e)
+nous eûmes été concilié(e)s
+vous eûtes été concilié(e)s
+ils (elles) eurent été concilié(e)s
+
+** Futur antérieur
+
+j'aurai été concilié(e)
+tu auras été concilié(e)
+il (elle) aura été concilié(e)
+nous aurons été concilié(e)s
+vous aurez été concilié(e)s
+ils (elles) auront été concilié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été concilié(e)
+j'aurais été concilié(e)
+il (elle) aurait été concilié(e)
+nous aurions été concilié(e)s
+vous auriez été concilié(e)s
+ils (elles) auraient été concilié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été concilié(e)
+que tu aies été concilié(e)
+qu’il (elle) ait été concilié(e)
+que nous ayons été concilié(e)s
+que vous ayez été concilié(e)s
+qu’ils (elles) aient été concilié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été concilié(e)
+que tu eusses été concilié(e)
+qu’il (elle) eût été concilié(e)
+que nous eussions été concilié(e)s
+que vous eussiez été concilié(e)s
+qu’ils (elles) eussent été concilié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été concilié(e)
+ayons été concilié(e)s
+ayez été concilié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été concilié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été concilié(e)(s)

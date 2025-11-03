@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dicter
+
+* INDICATIF
+
+** Présent
+
+je dicte
+tu dictes
+il (elle) dicte
+nous dictons
+vous dictez
+ils (elles) dictent
+
+** Imparfait
+
+je dictais
+tu dictais
+il (elle) dictait
+nous dictions
+vous dictiez
+ils (elles) dictaient
+
+** Passé simple
+
+je dictai
+tu dictas
+il (elle) dicta
+nous dictâmes
+vous dictâtes
+ils (elles) dictèrent
+
+** Futur simple
+
+je dicterai
+tu dicteras
+il (elle) dictera
+nous dicterons
+vous dicterez
+ils (elles) dicteront
+
+* CONDITIONNEL
+
+** Présent
+
+je dicterais
+tu dicterais
+il (elle) dicterait
+nous dicterions
+vous dicteriez
+ils (elles) dicteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dicte
+que tu dictes
+qu’il (elle) dicte
+que nous dictions
+que vous dictiez
+qu’ils (elles) dictent
+
+** Imparfait
+
+que je dictasse
+que tu dictasses
+qu’il (elle) dictât
+que nous dictassions
+que vous dictassiez
+qu’ils (elles) dictassent
+
+* IMPÉRATIF
+
+** Présent
+
+dicte
+dictons
+dictez
+
+* INFINITIF
+
+** Présent
+
+dicter
+
+* PARTICIPE
+
+** Présent
+
+dictant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dicté
+tu as dicté
+il (elle) a dicté
+nous avons dicté
+vous avez dicté
+ils (elles) ont dicté
+
+** Plus-que-parfait
+
+j'avais dicté
+tu avais dicté
+il (elle) avait dicté
+nous avions dicté
+vous aviez dicté
+ils (elles) avaient dicté
+
+** Passé antérieur
+
+j'eus dicté
+tu eus dicté
+il (elle) eut dicté
+nous eûmes dicté
+vous eûtes dicté
+ils (elles) eurent dicté
+
+** Futur antérieur
+
+j'aurai dicté
+tu auras dicté
+il (elle) aura dicté
+nous aurons dicté
+vous aurez dicté
+ils (elles) auront dicté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dicté
+tu aurais dicté
+il (elle) aurait dicté
+nous aurions dicté
+vous auriez dicté
+ils (elles) auraient dicté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dicté
+que tu aies dicté
+qu’il (elle) ait dicté
+que nous ayons dicté
+que vous ayez dicté
+qu’ils (elles) aient dicté
+
+** Plus-que-parfait
+
+que j'eusse dicté
+que tu eusses dicté
+qu’il (elle) eût dicté
+que nous eussions dicté
+que vous eussiez dicté
+qu’ils (elles) eussent dicté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dicté
+ayez dicté
+
+* INFINITIF
+
+** Passé
+
+avoir dicté
+
+* PARTICIPE
+
+** Passé
+
+ayant dicté
+dicté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dicté(e)
+tu es dicté(e)
+il (elle) est dicté(e)
+nous sommes dicté(e)s
+vous êtes dicté(e)s
+ils (elles) sont dicté(e)s
+
+** Imparfait
+
+j'étais dicté(e)
+tu étais dicté(e)
+il (elle) était dicté(e)
+nous étions dicté(e)s
+vous étiez dicté(e)s
+ils (elles) étaient dicté(e)s
+
+** Passé simple
+
+je fus dicté(e)
+tu fus dicté(e)
+il (elle) fut dicté(e)
+nous fûmes dicté(e)s
+vous fûtes dicté(e)s
+ils (elles) furent dicté(e)s
+
+** Futur simple
+
+je serai dicté(e)
+tu seras dicté(e)
+il (elle) sera dicté(e)
+nous serons dicté(e)s
+vous serez dicté(e)s
+ils (elles) seront dicté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dicté(e)
+tu serais dicté(e)
+il (elle) serait dicté(e)
+nous serions dicté(e)s
+vous seriez dicté(e)s
+ils (elles) seraient dicté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dicté(e)
+que tu sois dicté(e)
+qu’il (elle) soit dicté(e)
+que nous soyons dicté(e)s
+que vous soyez dicté(e)s
+qu’ils (elles) soient dicté(e)s
+
+** Imparfait
+
+que je fusse dicté(e)
+que tu fusses dicté(e)
+qu’il (elle) fût dicté(e)
+que nous fussions dicté(e)s
+que vous fussiez dicté(e)s
+qu’ils (elles) fussent dicté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dicté(e)s
+soyez dicté(e)s
+
+* INFINITIF
+
+** Présent
+
+être dicté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dicté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dicté(e)
+tu as été dicté(e)
+il (elle) a été dicté(e)
+nous avons été dicté(e)s
+vous avez été dicté(e)s
+ils (elles) ont été dicté(e)s
+
+** Plus-que-parfait
+
+j'avais été dicté(e)
+il (elle) avait été dicté(e)
+nous avions été dicté(e)s
+ils (elles) avaient été dicté(e)s
+
+** Passé antérieur
+
+j'eus été dicté(e)
+tu eus été dicté(e)
+il (elle) eut été dicté(e)
+nous eûmes été dicté(e)s
+vous eûtes été dicté(e)s
+ils (elles) eurent été dicté(e)s
+
+** Futur antérieur
+
+j'aurai été dicté(e)
+tu auras été dicté(e)
+il (elle) aura été dicté(e)
+nous aurons été dicté(e)s
+vous aurez été dicté(e)s
+ils (elles) auront été dicté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dicté(e)
+j'aurais été dicté(e)
+il (elle) aurait été dicté(e)
+nous aurions été dicté(e)s
+vous auriez été dicté(e)s
+ils (elles) auraient été dicté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dicté(e)
+que tu aies été dicté(e)
+qu’il (elle) ait été dicté(e)
+que nous ayons été dicté(e)s
+que vous ayez été dicté(e)s
+qu’ils (elles) aient été dicté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dicté(e)
+que tu eusses été dicté(e)
+qu’il (elle) eût été dicté(e)
+que nous eussions été dicté(e)s
+que vous eussiez été dicté(e)s
+qu’ils (elles) eussent été dicté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dicté(e)
+ayons été dicté(e)s
+ayez été dicté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dicté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dicté(e)(s)

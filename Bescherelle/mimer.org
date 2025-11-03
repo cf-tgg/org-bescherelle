@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mimer
+
+* INDICATIF
+
+** Présent
+
+je mime
+tu mimes
+il (elle) mime
+nous mimons
+vous mimez
+ils (elles) miment
+
+** Imparfait
+
+je mimais
+tu mimais
+il (elle) mimait
+nous mimions
+vous mimiez
+ils (elles) mimaient
+
+** Passé simple
+
+je mimai
+tu mimas
+il (elle) mima
+nous mimâmes
+vous mimâtes
+ils (elles) mimèrent
+
+** Futur simple
+
+je mimerai
+tu mimeras
+il (elle) mimera
+nous mimerons
+vous mimerez
+ils (elles) mimeront
+
+* CONDITIONNEL
+
+** Présent
+
+je mimerais
+tu mimerais
+il (elle) mimerait
+nous mimerions
+vous mimeriez
+ils (elles) mimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mime
+que tu mimes
+qu’il (elle) mime
+que nous mimions
+que vous mimiez
+qu’ils (elles) miment
+
+** Imparfait
+
+que je mimasse
+que tu mimasses
+qu’il (elle) mimât
+que nous mimassions
+que vous mimassiez
+qu’ils (elles) mimassent
+
+* IMPÉRATIF
+
+** Présent
+
+mime
+mimons
+mimez
+
+* INFINITIF
+
+** Présent
+
+mimer
+
+* PARTICIPE
+
+** Présent
+
+mimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mimé
+tu as mimé
+il (elle) a mimé
+nous avons mimé
+vous avez mimé
+ils (elles) ont mimé
+
+** Plus-que-parfait
+
+j'avais mimé
+tu avais mimé
+il (elle) avait mimé
+nous avions mimé
+vous aviez mimé
+ils (elles) avaient mimé
+
+** Passé antérieur
+
+j'eus mimé
+tu eus mimé
+il (elle) eut mimé
+nous eûmes mimé
+vous eûtes mimé
+ils (elles) eurent mimé
+
+** Futur antérieur
+
+j'aurai mimé
+tu auras mimé
+il (elle) aura mimé
+nous aurons mimé
+vous aurez mimé
+ils (elles) auront mimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mimé
+tu aurais mimé
+il (elle) aurait mimé
+nous aurions mimé
+vous auriez mimé
+ils (elles) auraient mimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mimé
+que tu aies mimé
+qu’il (elle) ait mimé
+que nous ayons mimé
+que vous ayez mimé
+qu’ils (elles) aient mimé
+
+** Plus-que-parfait
+
+que j'eusse mimé
+que tu eusses mimé
+qu’il (elle) eût mimé
+que nous eussions mimé
+que vous eussiez mimé
+qu’ils (elles) eussent mimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mimé
+ayez mimé
+
+* INFINITIF
+
+** Passé
+
+avoir mimé
+
+* PARTICIPE
+
+** Passé
+
+ayant mimé
+mimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mimé(e)
+tu es mimé(e)
+il (elle) est mimé(e)
+nous sommes mimé(e)s
+vous êtes mimé(e)s
+ils (elles) sont mimé(e)s
+
+** Imparfait
+
+j'étais mimé(e)
+tu étais mimé(e)
+il (elle) était mimé(e)
+nous étions mimé(e)s
+vous étiez mimé(e)s
+ils (elles) étaient mimé(e)s
+
+** Passé simple
+
+je fus mimé(e)
+tu fus mimé(e)
+il (elle) fut mimé(e)
+nous fûmes mimé(e)s
+vous fûtes mimé(e)s
+ils (elles) furent mimé(e)s
+
+** Futur simple
+
+je serai mimé(e)
+tu seras mimé(e)
+il (elle) sera mimé(e)
+nous serons mimé(e)s
+vous serez mimé(e)s
+ils (elles) seront mimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mimé(e)
+tu serais mimé(e)
+il (elle) serait mimé(e)
+nous serions mimé(e)s
+vous seriez mimé(e)s
+ils (elles) seraient mimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mimé(e)
+que tu sois mimé(e)
+qu’il (elle) soit mimé(e)
+que nous soyons mimé(e)s
+que vous soyez mimé(e)s
+qu’ils (elles) soient mimé(e)s
+
+** Imparfait
+
+que je fusse mimé(e)
+que tu fusses mimé(e)
+qu’il (elle) fût mimé(e)
+que nous fussions mimé(e)s
+que vous fussiez mimé(e)s
+qu’ils (elles) fussent mimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mimé(e)s
+soyez mimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être mimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mimé(e)
+tu as été mimé(e)
+il (elle) a été mimé(e)
+nous avons été mimé(e)s
+vous avez été mimé(e)s
+ils (elles) ont été mimé(e)s
+
+** Plus-que-parfait
+
+j'avais été mimé(e)
+il (elle) avait été mimé(e)
+nous avions été mimé(e)s
+ils (elles) avaient été mimé(e)s
+
+** Passé antérieur
+
+j'eus été mimé(e)
+tu eus été mimé(e)
+il (elle) eut été mimé(e)
+nous eûmes été mimé(e)s
+vous eûtes été mimé(e)s
+ils (elles) eurent été mimé(e)s
+
+** Futur antérieur
+
+j'aurai été mimé(e)
+tu auras été mimé(e)
+il (elle) aura été mimé(e)
+nous aurons été mimé(e)s
+vous aurez été mimé(e)s
+ils (elles) auront été mimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mimé(e)
+j'aurais été mimé(e)
+il (elle) aurait été mimé(e)
+nous aurions été mimé(e)s
+vous auriez été mimé(e)s
+ils (elles) auraient été mimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mimé(e)
+que tu aies été mimé(e)
+qu’il (elle) ait été mimé(e)
+que nous ayons été mimé(e)s
+que vous ayez été mimé(e)s
+qu’ils (elles) aient été mimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mimé(e)
+que tu eusses été mimé(e)
+qu’il (elle) eût été mimé(e)
+que nous eussions été mimé(e)s
+que vous eussiez été mimé(e)s
+qu’ils (elles) eussent été mimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mimé(e)
+ayons été mimé(e)s
+ayez été mimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mimé(e)(s)

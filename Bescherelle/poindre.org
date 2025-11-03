@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe poindre
+
+* INDICATIF
+
+** Présent
+
+je poins
+tu poins
+il (elle) point
+nous poignons
+vous poignez
+ils (elles) poignent
+
+** Imparfait
+
+je poignais
+tu poignais
+il (elle) poignait
+nous poignions
+vous poigniez
+ils (elles) poignaient
+
+** Passé simple
+
+je poignis
+tu poignis
+il (elle) poignit
+nous poignîmes
+vous poignîtes
+ils (elles) poignirent
+
+** Futur simple
+
+je poindrai
+tu poindras
+il (elle) poindra
+nous poindrons
+vous poindrez
+ils (elles) poindront
+
+* CONDITIONNEL
+
+** Présent
+
+je poindrais
+tu poindrais
+il (elle) poindrait
+nous poindrions
+vous poindriez
+ils (elles) poindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je poigne
+que tu poignes
+qu’il (elle) poigne
+que nous poignions
+que vous poigniez
+qu’ils (elles) poignent
+
+** Imparfait
+
+que je poignisse
+que tu poignisses
+qu’il (elle) poignît
+que nous poignissions
+que vous poignissiez
+qu’ils (elles) poignissent
+
+* IMPÉRATIF
+
+** Présent
+
+poins
+poignons
+poignez
+
+* INFINITIF
+
+** Présent
+
+poindre
+
+* PARTICIPE
+
+** Présent
+
+poignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai point
+tu as point
+il (elle) a point
+nous avons point
+vous avez point
+ils (elles) ont point
+
+** Plus-que-parfait
+
+j'avais point
+tu avais point
+il (elle) avait point
+nous avions point
+vous aviez point
+ils (elles) avaient point
+
+** Passé antérieur
+
+j'eus point
+tu eus point
+il (elle) eut point
+nous eûmes point
+vous eûtes point
+ils (elles) eurent point
+
+** Futur antérieur
+
+j'aurai point
+tu auras point
+il (elle) aura point
+nous aurons point
+vous aurez point
+ils (elles) auront point
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais point
+tu aurais point
+il (elle) aurait point
+nous aurions point
+vous auriez point
+ils (elles) auraient point
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie point
+que tu aies point
+qu’il (elle) ait point
+que nous ayons point
+que vous ayez point
+qu’ils (elles) aient point
+
+** Plus-que-parfait
+
+que j'eusse point
+que tu eusses point
+qu’il (elle) eût point
+que nous eussions point
+que vous eussiez point
+qu’ils (elles) eussent point
+
+* IMPÉRATIF
+
+** Passé
+
+ayons point
+ayez point
+
+* INFINITIF
+
+** Passé
+
+avoir point
+
+* PARTICIPE
+
+** Passé
+
+ayant point
+point (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis point(e)
+tu es point(e)
+il (elle) est point(e)
+nous sommes point(e)s
+vous êtes point(e)s
+ils (elles) sont point(e)s
+
+** Imparfait
+
+j'étais point(e)
+tu étais point(e)
+il (elle) était point(e)
+nous étions point(e)s
+vous étiez point(e)s
+ils (elles) étaient point(e)s
+
+** Passé simple
+
+je fus point(e)
+tu fus point(e)
+il (elle) fut point(e)
+nous fûmes point(e)s
+vous fûtes point(e)s
+ils (elles) furent point(e)s
+
+** Futur simple
+
+je serai point(e)
+tu seras point(e)
+il (elle) sera point(e)
+nous serons point(e)s
+vous serez point(e)s
+ils (elles) seront point(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais point(e)
+tu serais point(e)
+il (elle) serait point(e)
+nous serions point(e)s
+vous seriez point(e)s
+ils (elles) seraient point(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois point(e)
+que tu sois point(e)
+qu’il (elle) soit point(e)
+que nous soyons point(e)s
+que vous soyez point(e)s
+qu’ils (elles) soient point(e)s
+
+** Imparfait
+
+que je fusse point(e)
+que tu fusses point(e)
+qu’il (elle) fût point(e)
+que nous fussions point(e)s
+que vous fussiez point(e)s
+qu’ils (elles) fussent point(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons point(e)s
+soyez point(e)s
+
+* INFINITIF
+
+** Présent
+
+être point(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant point(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été point(e)
+tu as été point(e)
+il (elle) a été point(e)
+nous avons été point(e)s
+vous avez été point(e)s
+ils (elles) ont été point(e)s
+
+** Plus-que-parfait
+
+j'avais été point(e)
+il (elle) avait été point(e)
+nous avions été point(e)s
+ils (elles) avaient été point(e)s
+
+** Passé antérieur
+
+j'eus été point(e)
+tu eus été point(e)
+il (elle) eut été point(e)
+nous eûmes été point(e)s
+vous eûtes été point(e)s
+ils (elles) eurent été point(e)s
+
+** Futur antérieur
+
+j'aurai été point(e)
+tu auras été point(e)
+il (elle) aura été point(e)
+nous aurons été point(e)s
+vous aurez été point(e)s
+ils (elles) auront été point(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été point(e)
+j'aurais été point(e)
+il (elle) aurait été point(e)
+nous aurions été point(e)s
+vous auriez été point(e)s
+ils (elles) auraient été point(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été point(e)
+que tu aies été point(e)
+qu’il (elle) ait été point(e)
+que nous ayons été point(e)s
+que vous ayez été point(e)s
+qu’ils (elles) aient été point(e)s
+
+** Plus-que-parfait
+
+que j'eusse été point(e)
+que tu eusses été point(e)
+qu’il (elle) eût été point(e)
+que nous eussions été point(e)s
+que vous eussiez été point(e)s
+qu’ils (elles) eussent été point(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été point(e)
+ayons été point(e)s
+ayez été point(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été point(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été point(e)(s)

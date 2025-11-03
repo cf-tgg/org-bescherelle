@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe requerir
+
+* INDICATIF
+
+** Présent
+
+je requiers
+tu requiers
+il (elle) requiert
+nous requérons
+vous requérez
+ils (elles) requièrent
+
+** Imparfait
+
+je requérais
+tu requérais
+il (elle) requérait
+nous requérions
+vous requériez
+ils (elles) requéraient
+
+** Passé simple
+
+je requis
+tu requis
+il (elle) requit
+nous requîmes
+vous requîtes
+ils (elles) requirent
+
+** Futur simple
+
+je requerrai
+tu requerras
+il (elle) requerra
+nous requerrons
+vous requerrez
+ils (elles) requerront
+
+* CONDITIONNEL
+
+** Présent
+
+je requerrais
+tu requerrais
+il (elle) requerrait
+nous requerrions
+vous requerriez
+ils (elles) requerraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je requière
+que tu requières
+qu’il (elle) requière
+que nous requérions
+que vous requériez
+qu’ils (elles) requièrent
+
+** Imparfait
+
+que je requisse
+que tu requisses
+qu’il (elle) requît
+que nous requissions
+que vous requissiez
+qu’ils (elles) requissent
+
+* IMPÉRATIF
+
+** Présent
+
+requiers
+requérons
+requérez
+
+* INFINITIF
+
+** Présent
+
+requérir
+
+* PARTICIPE
+
+** Présent
+
+requérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai requis
+tu as requis
+il (elle) a requis
+nous avons requis
+vous avez requis
+ils (elles) ont requis
+
+** Plus-que-parfait
+
+j'avais requis
+tu avais requis
+il (elle) avait requis
+nous avions requis
+vous aviez requis
+ils (elles) avaient requis
+
+** Passé antérieur
+
+j'eus requis
+tu eus requis
+il (elle) eut requis
+nous eûmes requis
+vous eûtes requis
+ils (elles) eurent requis
+
+** Futur antérieur
+
+j'aurai requis
+tu auras requis
+il (elle) aura requis
+nous aurons requis
+vous aurez requis
+ils (elles) auront requis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais requis
+tu aurais requis
+il (elle) aurait requis
+nous aurions requis
+vous auriez requis
+ils (elles) auraient requis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie requis
+que tu aies requis
+qu’il (elle) ait requis
+que nous ayons requis
+que vous ayez requis
+qu’ils (elles) aient requis
+
+** Plus-que-parfait
+
+que j'eusse requis
+que tu eusses requis
+qu’il (elle) eût requis
+que nous eussions requis
+que vous eussiez requis
+qu’ils (elles) eussent requis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons requis
+ayez requis
+
+* INFINITIF
+
+** Passé
+
+avoir requis
+
+* PARTICIPE
+
+** Passé
+
+ayant requis
+requis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis requis(e)
+tu es requis(e)
+il (elle) est requis(e)
+nous sommes requis(es)
+vous êtes requis(es)
+ils (elles) sont requis(es)
+
+** Imparfait
+
+j'étais requis(e)
+tu étais requis(e)
+il (elle) était requis(e)
+nous étions requis(es)
+vous étiez requis(es)
+ils (elles) étaient requis(es)
+
+** Passé simple
+
+je fus requis(e)
+tu fus requis(e)
+il (elle) fut requis(e)
+nous fûmes requis(es)
+vous fûtes requis(es)
+ils (elles) furent requis(es)
+
+** Futur simple
+
+je serai requis(e)
+tu seras requis(e)
+il (elle) sera requis(e)
+nous serons requis(es)
+vous serez requis(es)
+ils (elles) seront requis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais requis(e)
+tu serais requis(e)
+il (elle) serait requis(e)
+nous serions requis(es)
+vous seriez requis(es)
+ils (elles) seraient requis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois requis(e)
+que tu sois requis(e)
+qu’il (elle) soit requis(e)
+que nous soyons requis(es)
+que vous soyez requis(es)
+qu’ils (elles) soient requis(es)
+
+** Imparfait
+
+que je fusse requis(e)
+que tu fusses requis(e)
+qu’il (elle) fût requis(e)
+que nous fussions requis(es)
+que vous fussiez requis(es)
+qu’ils (elles) fussent requis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons requis(es)
+soyez requis(es)
+
+* INFINITIF
+
+** Présent
+
+être requis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant requis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été requis(e)
+tu as été requis(e)
+il (elle) a été requis(e)
+nous avons été requis(es)
+vous avez été requis(es)
+ils (elles) ont été requis(es)
+
+** Plus-que-parfait
+
+j'avais été requis(e)
+il (elle) avait été requis(e)
+nous avions été requis(es)
+ils (elles) avaient été requis(es)
+
+** Passé antérieur
+
+j'eus été requis(e)
+tu eus été requis(e)
+il (elle) eut été requis(e)
+nous eûmes été requis(es)
+vous eûtes été requis(es)
+ils (elles) eurent été requis(es)
+
+** Futur antérieur
+
+j'aurai été requis(e)
+tu auras été requis(e)
+il (elle) aura été requis(e)
+nous aurons été requis(es)
+vous aurez été requis(es)
+ils (elles) auront été requis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été requis(e)
+j'aurais été requis(e)
+il (elle) aurait été requis(e)
+nous aurions été requis(es)
+vous auriez été requis(es)
+ils (elles) auraient été requis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été requis(e)
+que tu aies été requis(e)
+qu’il (elle) ait été requis(e)
+que nous ayons été requis(es)
+que vous ayez été requis(es)
+qu’ils (elles) aient été requis(es)
+
+** Plus-que-parfait
+
+que j'eusse été requis(e)
+que tu eusses été requis(e)
+qu’il (elle) eût été requis(e)
+que nous eussions été requis(es)
+que vous eussiez été requis(es)
+qu’ils (elles) eussent été requis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été requis(e)
+ayons été requis(es)
+ayez été requis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été requis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été requis (s, se, s, ses)

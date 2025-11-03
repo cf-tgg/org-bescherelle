@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe donner
+
+* INDICATIF
+
+** Présent
+
+je donne
+tu donnes
+il (elle) donne
+nous donnons
+vous donnez
+ils (elles) donnent
+
+** Imparfait
+
+je donnais
+tu donnais
+il (elle) donnait
+nous donnions
+vous donniez
+ils (elles) donnaient
+
+** Passé simple
+
+je donnai
+tu donnas
+il (elle) donna
+nous donnâmes
+vous donnâtes
+ils (elles) donnèrent
+
+** Futur simple
+
+je donnerai
+tu donneras
+il (elle) donnera
+nous donnerons
+vous donnerez
+ils (elles) donneront
+
+* CONDITIONNEL
+
+** Présent
+
+je donnerais
+tu donnerais
+il (elle) donnerait
+nous donnerions
+vous donneriez
+ils (elles) donneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je donne
+que tu donnes
+qu’il (elle) donne
+que nous donnions
+que vous donniez
+qu’ils (elles) donnent
+
+** Imparfait
+
+que je donnasse
+que tu donnasses
+qu’il (elle) donnât
+que nous donnassions
+que vous donnassiez
+qu’ils (elles) donnassent
+
+* IMPÉRATIF
+
+** Présent
+
+donne
+donnons
+donnez
+
+* INFINITIF
+
+** Présent
+
+donner
+
+* PARTICIPE
+
+** Présent
+
+donnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai donné
+tu as donné
+il (elle) a donné
+nous avons donné
+vous avez donné
+ils (elles) ont donné
+
+** Plus-que-parfait
+
+j'avais donné
+tu avais donné
+il (elle) avait donné
+nous avions donné
+vous aviez donné
+ils (elles) avaient donné
+
+** Passé antérieur
+
+j'eus donné
+tu eus donné
+il (elle) eut donné
+nous eûmes donné
+vous eûtes donné
+ils (elles) eurent donné
+
+** Futur antérieur
+
+j'aurai donné
+tu auras donné
+il (elle) aura donné
+nous aurons donné
+vous aurez donné
+ils (elles) auront donné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais donné
+tu aurais donné
+il (elle) aurait donné
+nous aurions donné
+vous auriez donné
+ils (elles) auraient donné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie donné
+que tu aies donné
+qu’il (elle) ait donné
+que nous ayons donné
+que vous ayez donné
+qu’ils (elles) aient donné
+
+** Plus-que-parfait
+
+que j'eusse donné
+que tu eusses donné
+qu’il (elle) eût donné
+que nous eussions donné
+que vous eussiez donné
+qu’ils (elles) eussent donné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons donné
+ayez donné
+
+* INFINITIF
+
+** Passé
+
+avoir donné
+
+* PARTICIPE
+
+** Passé
+
+ayant donné
+donné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis donné(e)
+tu es donné(e)
+il (elle) est donné(e)
+nous sommes donné(e)s
+vous êtes donné(e)s
+ils (elles) sont donné(e)s
+
+** Imparfait
+
+j'étais donné(e)
+tu étais donné(e)
+il (elle) était donné(e)
+nous étions donné(e)s
+vous étiez donné(e)s
+ils (elles) étaient donné(e)s
+
+** Passé simple
+
+je fus donné(e)
+tu fus donné(e)
+il (elle) fut donné(e)
+nous fûmes donné(e)s
+vous fûtes donné(e)s
+ils (elles) furent donné(e)s
+
+** Futur simple
+
+je serai donné(e)
+tu seras donné(e)
+il (elle) sera donné(e)
+nous serons donné(e)s
+vous serez donné(e)s
+ils (elles) seront donné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais donné(e)
+tu serais donné(e)
+il (elle) serait donné(e)
+nous serions donné(e)s
+vous seriez donné(e)s
+ils (elles) seraient donné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois donné(e)
+que tu sois donné(e)
+qu’il (elle) soit donné(e)
+que nous soyons donné(e)s
+que vous soyez donné(e)s
+qu’ils (elles) soient donné(e)s
+
+** Imparfait
+
+que je fusse donné(e)
+que tu fusses donné(e)
+qu’il (elle) fût donné(e)
+que nous fussions donné(e)s
+que vous fussiez donné(e)s
+qu’ils (elles) fussent donné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons donné(e)s
+soyez donné(e)s
+
+* INFINITIF
+
+** Présent
+
+être donné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant donné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été donné(e)
+tu as été donné(e)
+il (elle) a été donné(e)
+nous avons été donné(e)s
+vous avez été donné(e)s
+ils (elles) ont été donné(e)s
+
+** Plus-que-parfait
+
+j'avais été donné(e)
+il (elle) avait été donné(e)
+nous avions été donné(e)s
+ils (elles) avaient été donné(e)s
+
+** Passé antérieur
+
+j'eus été donné(e)
+tu eus été donné(e)
+il (elle) eut été donné(e)
+nous eûmes été donné(e)s
+vous eûtes été donné(e)s
+ils (elles) eurent été donné(e)s
+
+** Futur antérieur
+
+j'aurai été donné(e)
+tu auras été donné(e)
+il (elle) aura été donné(e)
+nous aurons été donné(e)s
+vous aurez été donné(e)s
+ils (elles) auront été donné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été donné(e)
+j'aurais été donné(e)
+il (elle) aurait été donné(e)
+nous aurions été donné(e)s
+vous auriez été donné(e)s
+ils (elles) auraient été donné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été donné(e)
+que tu aies été donné(e)
+qu’il (elle) ait été donné(e)
+que nous ayons été donné(e)s
+que vous ayez été donné(e)s
+qu’ils (elles) aient été donné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été donné(e)
+que tu eusses été donné(e)
+qu’il (elle) eût été donné(e)
+que nous eussions été donné(e)s
+que vous eussiez été donné(e)s
+qu’ils (elles) eussent été donné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été donné(e)
+ayons été donné(e)s
+ayez été donné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été donné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été donné(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe payer
+
+* INDICATIF
+
+** Présent
+
+je paie / paye
+tu paies / payes
+il (elle) paie / paye
+nous payons
+vous payez
+ils (elles) paient / payent
+
+** Imparfait
+
+je payais
+tu payais
+il (elle) payait
+nous payions
+vous payiez
+ils (elles) payaient
+
+** Passé simple
+
+je payai
+tu payas
+il (elle) paya
+nous payâmes
+vous payâtes
+ils (elles) payèrent
+
+** Futur simple
+
+je paierai / payerai
+tu paieras / payeras
+il (elle) paiera / payera
+nous paierons / payerons
+vous paierez / payerez
+ils (elles) paieront / payeront
+
+* CONDITIONNEL
+
+** Présent
+
+je paierais / payerais
+tu paierais / payerais
+il (elle) paierait / payerait
+nous paierions / payerions
+vous paieriez / payeriez
+ils (elles) paieraient / payeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je paie / paye
+que tu paies / payes
+qu’il (elle) paie / paye
+que nous payions
+que vous payiez
+qu’ils (elles) paient / payent
+
+** Imparfait
+
+que je payasse
+que tu payasses
+qu’il (elle) payât
+que nous payassions
+que vous payassiez
+qu’ils (elles) payassent
+
+* IMPÉRATIF
+
+** Présent
+
+paie / paye
+payons
+payez
+
+* INFINITIF
+
+** Présent
+
+payer
+
+* PARTICIPE
+
+** Présent
+
+payant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai payé
+tu as payé
+il (elle) a payé
+nous avons payé
+vous avez payé
+ils (elles) ont payé
+
+** Plus-que-parfait
+
+j'avais payé
+tu avais payé
+il (elle) avait payé
+nous avions payé
+vous aviez payé
+ils (elles) avaient payé
+
+** Passé antérieur
+
+j'eus payé
+tu eus payé
+il (elle) eut payé
+nous eûmes payé
+vous eûtes payé
+ils (elles) eurent payé
+
+** Futur antérieur
+
+j'aurai payé
+tu auras payé
+il (elle) aura payé
+nous aurons payé
+vous aurez payé
+ils (elles) auront payé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais payé
+tu aurais payé
+il (elle) aurait payé
+nous aurions payé
+vous auriez payé
+ils (elles) auraient payé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie payé
+que tu aies payé
+qu’il (elle) ait payé
+que nous ayons payé
+que vous ayez payé
+qu’ils (elles) aient payé
+
+** Plus-que-parfait
+
+que j'eusse payé
+que tu eusses payé
+qu’il (elle) eût payé
+que nous eussions payé
+que vous eussiez payé
+qu’ils (elles) eussent payé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons payé
+ayez payé
+
+* INFINITIF
+
+** Passé
+
+avoir payé
+
+* PARTICIPE
+
+** Passé
+
+ayant payé
+payé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis payé(e)
+tu es payé(e)
+il (elle) est payé(e)
+nous sommes payé(e)s
+vous êtes payé(e)s
+ils (elles) sont payé(e)s
+
+** Imparfait
+
+j'étais payé(e)
+tu étais payé(e)
+il (elle) était payé(e)
+nous étions payé(e)s
+vous étiez payé(e)s
+ils (elles) étaient payé(e)s
+
+** Passé simple
+
+je fus payé(e)
+tu fus payé(e)
+il (elle) fut payé(e)
+nous fûmes payé(e)s
+vous fûtes payé(e)s
+ils (elles) furent payé(e)s
+
+** Futur simple
+
+je serai payé(e)
+tu seras payé(e)
+il (elle) sera payé(e)
+nous serons payé(e)s
+vous serez payé(e)s
+ils (elles) seront payé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais payé(e)
+tu serais payé(e)
+il (elle) serait payé(e)
+nous serions payé(e)s
+vous seriez payé(e)s
+ils (elles) seraient payé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois payé(e)
+que tu sois payé(e)
+qu’il (elle) soit payé(e)
+que nous soyons payé(e)s
+que vous soyez payé(e)s
+qu’ils (elles) soient payé(e)s
+
+** Imparfait
+
+que je fusse payé(e)
+que tu fusses payé(e)
+qu’il (elle) fût payé(e)
+que nous fussions payé(e)s
+que vous fussiez payé(e)s
+qu’ils (elles) fussent payé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons payé(e)s
+soyez payé(e)s
+
+* INFINITIF
+
+** Présent
+
+être payé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant payé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été payé(e)
+tu as été payé(e)
+il (elle) a été payé(e)
+nous avons été payé(e)s
+vous avez été payé(e)s
+ils (elles) ont été payé(e)s
+
+** Plus-que-parfait
+
+j'avais été payé(e)
+il (elle) avait été payé(e)
+nous avions été payé(e)s
+ils (elles) avaient été payé(e)s
+
+** Passé antérieur
+
+j'eus été payé(e)
+tu eus été payé(e)
+il (elle) eut été payé(e)
+nous eûmes été payé(e)s
+vous eûtes été payé(e)s
+ils (elles) eurent été payé(e)s
+
+** Futur antérieur
+
+j'aurai été payé(e)
+tu auras été payé(e)
+il (elle) aura été payé(e)
+nous aurons été payé(e)s
+vous aurez été payé(e)s
+ils (elles) auront été payé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été payé(e)
+j'aurais été payé(e)
+il (elle) aurait été payé(e)
+nous aurions été payé(e)s
+vous auriez été payé(e)s
+ils (elles) auraient été payé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été payé(e)
+que tu aies été payé(e)
+qu’il (elle) ait été payé(e)
+que nous ayons été payé(e)s
+que vous ayez été payé(e)s
+qu’ils (elles) aient été payé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été payé(e)
+que tu eusses été payé(e)
+qu’il (elle) eût été payé(e)
+que nous eussions été payé(e)s
+que vous eussiez été payé(e)s
+qu’ils (elles) eussent été payé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été payé(e)
+ayons été payé(e)s
+ayez été payé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été payé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été payé(e)(s)

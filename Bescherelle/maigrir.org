@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe maigrir
+
+* INDICATIF
+
+** Présent
+
+je maigris
+tu maigris
+il (elle) maigrit
+nous maigrissons
+vous maigrissez
+ils (elles) maigrissent
+
+** Imparfait
+
+je maigrissais
+tu maigrissais
+il (elle) maigrissait
+nous maigrissions
+vous maigrissiez
+ils (elles) maigrissaient
+
+** Passé simple
+
+je maigris
+tu maigris
+il (elle) maigrit
+nous maigrîmes
+vous maigrîtes
+ils (elles) maigrirent
+
+** Futur simple
+
+je maigrirai
+tu maigriras
+il (elle) maigrira
+nous maigrirons
+vous maigrirez
+ils (elles) maigriront
+
+* CONDITIONNEL
+
+** Présent
+
+je maigrirais
+tu maigrirais
+il (elle) maigrirait
+nous maigririons
+vous maigririez
+ils (elles) maigriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je maigrisse
+que tu maigrisses
+qu’il (elle) maigrisse
+que nous maigrissions
+que vous maigrissiez
+qu’ils (elles) maigrissent
+
+** Imparfait
+
+que je maigrisse
+que tu maigrisses
+qu’il (elle) maigrît
+que nous maigrissions
+que vous maigrissiez
+qu’ils (elles) maigrissent
+
+* IMPÉRATIF
+
+** Présent
+
+maigris
+maigrissons
+maigrissez
+
+* INFINITIF
+
+** Présent
+
+maigrir
+
+* PARTICIPE
+
+** Présent
+
+maigrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai maigri
+tu as maigri
+il (elle) a maigri
+nous avons maigri
+vous avez maigri
+ils (elles) ont maigri
+
+** Plus-que-parfait
+
+j'avais maigri
+tu avais maigri
+il (elle) avait maigri
+nous avions maigri
+vous aviez maigri
+ils (elles) avaient maigri
+
+** Passé antérieur
+
+j'eus maigri
+tu eus maigri
+il (elle) eut maigri
+nous eûmes maigri
+vous eûtes maigri
+ils (elles) eurent maigri
+
+** Futur antérieur
+
+j'aurai maigri
+tu auras maigri
+il (elle) aura maigri
+nous aurons maigri
+vous aurez maigri
+ils (elles) auront maigri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais maigri
+tu aurais maigri
+il (elle) aurait maigri
+nous aurions maigri
+vous auriez maigri
+ils (elles) auraient maigri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie maigri
+que tu aies maigri
+qu’il (elle) ait maigri
+que nous ayons maigri
+que vous ayez maigri
+qu’ils (elles) aient maigri
+
+** Plus-que-parfait
+
+que j'eusse maigri
+que tu eusses maigri
+qu’il (elle) eût maigri
+que nous eussions maigri
+que vous eussiez maigri
+qu’ils (elles) eussent maigri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons maigri
+ayez maigri
+
+* INFINITIF
+
+** Passé
+
+avoir maigri
+
+* PARTICIPE
+
+** Passé
+
+ayant maigri
+maigri (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis maigri(e)
+tu es maigri(e)
+il (elle) est maigri(e)
+nous sommes maigri(e)s
+vous êtes maigri(e)s
+ils (elles) sont maigri(e)s
+
+** Imparfait
+
+j'étais maigri(e)
+tu étais maigri(e)
+il (elle) était maigri(e)
+nous étions maigri(e)s
+vous étiez maigri(e)s
+ils (elles) étaient maigri(e)s
+
+** Passé simple
+
+je fus maigri(e)
+tu fus maigri(e)
+il (elle) fut maigri(e)
+nous fûmes maigri(e)s
+vous fûtes maigri(e)s
+ils (elles) furent maigri(e)s
+
+** Futur simple
+
+je serai maigri(e)
+tu seras maigri(e)
+il (elle) sera maigri(e)
+nous serons maigri(e)s
+vous serez maigri(e)s
+ils (elles) seront maigri(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais maigri(e)
+tu serais maigri(e)
+il (elle) serait maigri(e)
+nous serions maigri(e)s
+vous seriez maigri(e)s
+ils (elles) seraient maigri(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois maigri(e)
+que tu sois maigri(e)
+qu’il (elle) soit maigri(e)
+que nous soyons maigri(e)s
+que vous soyez maigri(e)s
+qu’ils (elles) soient maigri(e)s
+
+** Imparfait
+
+que je fusse maigri(e)
+que tu fusses maigri(e)
+qu’il (elle) fût maigri(e)
+que nous fussions maigri(e)s
+que vous fussiez maigri(e)s
+qu’ils (elles) fussent maigri(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons maigri(e)s
+soyez maigri(e)s
+
+* INFINITIF
+
+** Présent
+
+être maigri(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant maigri(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été maigri(e)
+tu as été maigri(e)
+il (elle) a été maigri(e)
+nous avons été maigri(e)s
+vous avez été maigri(e)s
+ils (elles) ont été maigri(e)s
+
+** Plus-que-parfait
+
+j'avais été maigri(e)
+il (elle) avait été maigri(e)
+nous avions été maigri(e)s
+ils (elles) avaient été maigri(e)s
+
+** Passé antérieur
+
+j'eus été maigri(e)
+tu eus été maigri(e)
+il (elle) eut été maigri(e)
+nous eûmes été maigri(e)s
+vous eûtes été maigri(e)s
+ils (elles) eurent été maigri(e)s
+
+** Futur antérieur
+
+j'aurai été maigri(e)
+tu auras été maigri(e)
+il (elle) aura été maigri(e)
+nous aurons été maigri(e)s
+vous aurez été maigri(e)s
+ils (elles) auront été maigri(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été maigri(e)
+j'aurais été maigri(e)
+il (elle) aurait été maigri(e)
+nous aurions été maigri(e)s
+vous auriez été maigri(e)s
+ils (elles) auraient été maigri(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été maigri(e)
+que tu aies été maigri(e)
+qu’il (elle) ait été maigri(e)
+que nous ayons été maigri(e)s
+que vous ayez été maigri(e)s
+qu’ils (elles) aient été maigri(e)s
+
+** Plus-que-parfait
+
+que j'eusse été maigri(e)
+que tu eusses été maigri(e)
+qu’il (elle) eût été maigri(e)
+que nous eussions été maigri(e)s
+que vous eussiez été maigri(e)s
+qu’ils (elles) eussent été maigri(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été maigri(e)
+ayons été maigri(e)s
+ayez été maigri(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été maigri(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été maigri(e)(s)

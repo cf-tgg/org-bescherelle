@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recommencer
+
+* INDICATIF
+
+** Présent
+
+je recommence
+tu recommences
+il (elle) recommence
+nous recommençons
+vous recommencez
+ils (elles) recommencent
+
+** Imparfait
+
+je recommençais
+tu recommençais
+il (elle) recommençait
+nous recommencions
+vous recommenciez
+ils (elles) recommençaient
+
+** Passé simple
+
+je recommençai
+tu recommenças
+il (elle) recommença
+nous recommençâmes
+vous recommençâtes
+ils (elles) recommencèrent
+
+** Futur simple
+
+je recommencerai
+tu recommenceras
+il (elle) recommencera
+nous recommencerons
+vous recommencerez
+ils (elles) recommenceront
+
+* CONDITIONNEL
+
+** Présent
+
+je recommencerais
+tu recommencerais
+il (elle) recommencerait
+nous recommencerions
+vous recommenceriez
+ils (elles) recommenceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recommence
+que tu recommences
+qu’il (elle) recommence
+que nous recommencions
+que vous recommenciez
+qu’ils (elles) recommencent
+
+** Imparfait
+
+que je recommençasse
+que tu recommençasses
+qu’il (elle) recommençât
+que nous recommençassions
+que vous recommençassiez
+qu’ils (elles) recommençassent
+
+* IMPÉRATIF
+
+** Présent
+
+recommence
+recommençons
+recommencez
+
+* INFINITIF
+
+** Présent
+
+recommencer
+
+* PARTICIPE
+
+** Présent
+
+recommençant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recommencé
+tu as recommencé
+il (elle) a recommencé
+nous avons recommencé
+vous avez recommencé
+ils (elles) ont recommencé
+
+** Plus-que-parfait
+
+j'avais recommencé
+tu avais recommencé
+il (elle) avait recommencé
+nous avions recommencé
+vous aviez recommencé
+ils (elles) avaient recommencé
+
+** Passé antérieur
+
+j'eus recommencé
+tu eus recommencé
+il (elle) eut recommencé
+nous eûmes recommencé
+vous eûtes recommencé
+ils (elles) eurent recommencé
+
+** Futur antérieur
+
+j'aurai recommencé
+tu auras recommencé
+il (elle) aura recommencé
+nous aurons recommencé
+vous aurez recommencé
+ils (elles) auront recommencé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recommencé
+tu aurais recommencé
+il (elle) aurait recommencé
+nous aurions recommencé
+vous auriez recommencé
+ils (elles) auraient recommencé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recommencé
+que tu aies recommencé
+qu’il (elle) ait recommencé
+que nous ayons recommencé
+que vous ayez recommencé
+qu’ils (elles) aient recommencé
+
+** Plus-que-parfait
+
+que j'eusse recommencé
+que tu eusses recommencé
+qu’il (elle) eût recommencé
+que nous eussions recommencé
+que vous eussiez recommencé
+qu’ils (elles) eussent recommencé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recommencé
+ayez recommencé
+
+* INFINITIF
+
+** Passé
+
+avoir recommencé
+
+* PARTICIPE
+
+** Passé
+
+ayant recommencé
+recommencé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis recommencé(e)
+tu es recommencé(e)
+il (elle) est recommencé(e)
+nous sommes recommencé(e)s
+vous êtes recommencé(e)s
+ils (elles) sont recommencé(e)s
+
+** Imparfait
+
+j'étais recommencé(e)
+tu étais recommencé(e)
+il (elle) était recommencé(e)
+nous étions recommencé(e)s
+vous étiez recommencé(e)s
+ils (elles) étaient recommencé(e)s
+
+** Passé simple
+
+je fus recommencé(e)
+tu fus recommencé(e)
+il (elle) fut recommencé(e)
+nous fûmes recommencé(e)s
+vous fûtes recommencé(e)s
+ils (elles) furent recommencé(e)s
+
+** Futur simple
+
+je serai recommencé(e)
+tu seras recommencé(e)
+il (elle) sera recommencé(e)
+nous serons recommencé(e)s
+vous serez recommencé(e)s
+ils (elles) seront recommencé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recommencé(e)
+tu serais recommencé(e)
+il (elle) serait recommencé(e)
+nous serions recommencé(e)s
+vous seriez recommencé(e)s
+ils (elles) seraient recommencé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recommencé(e)
+que tu sois recommencé(e)
+qu’il (elle) soit recommencé(e)
+que nous soyons recommencé(e)s
+que vous soyez recommencé(e)s
+qu’ils (elles) soient recommencé(e)s
+
+** Imparfait
+
+que je fusse recommencé(e)
+que tu fusses recommencé(e)
+qu’il (elle) fût recommencé(e)
+que nous fussions recommencé(e)s
+que vous fussiez recommencé(e)s
+qu’ils (elles) fussent recommencé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recommencé(e)s
+soyez recommencé(e)s
+
+* INFINITIF
+
+** Présent
+
+être recommencé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recommencé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recommencé(e)
+tu as été recommencé(e)
+il (elle) a été recommencé(e)
+nous avons été recommencé(e)s
+vous avez été recommencé(e)s
+ils (elles) ont été recommencé(e)s
+
+** Plus-que-parfait
+
+j'avais été recommencé(e)
+il (elle) avait été recommencé(e)
+nous avions été recommencé(e)s
+ils (elles) avaient été recommencé(e)s
+
+** Passé antérieur
+
+j'eus été recommencé(e)
+tu eus été recommencé(e)
+il (elle) eut été recommencé(e)
+nous eûmes été recommencé(e)s
+vous eûtes été recommencé(e)s
+ils (elles) eurent été recommencé(e)s
+
+** Futur antérieur
+
+j'aurai été recommencé(e)
+tu auras été recommencé(e)
+il (elle) aura été recommencé(e)
+nous aurons été recommencé(e)s
+vous aurez été recommencé(e)s
+ils (elles) auront été recommencé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recommencé(e)
+j'aurais été recommencé(e)
+il (elle) aurait été recommencé(e)
+nous aurions été recommencé(e)s
+vous auriez été recommencé(e)s
+ils (elles) auraient été recommencé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recommencé(e)
+que tu aies été recommencé(e)
+qu’il (elle) ait été recommencé(e)
+que nous ayons été recommencé(e)s
+que vous ayez été recommencé(e)s
+qu’ils (elles) aient été recommencé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recommencé(e)
+que tu eusses été recommencé(e)
+qu’il (elle) eût été recommencé(e)
+que nous eussions été recommencé(e)s
+que vous eussiez été recommencé(e)s
+qu’ils (elles) eussent été recommencé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recommencé(e)
+ayons été recommencé(e)s
+ayez été recommencé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recommencé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recommencé(e)(s)

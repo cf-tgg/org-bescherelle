@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe scier
+
+* INDICATIF
+
+** Présent
+
+je scie
+tu scies
+il (elle) scie
+nous scions
+vous sciez
+ils (elles) scient
+
+** Imparfait
+
+je sciais
+tu sciais
+il (elle) sciait
+nous sciions
+vous sciiez
+ils (elles) sciaient
+
+** Passé simple
+
+je sciai
+tu scias
+il (elle) scia
+nous sciâmes
+vous sciâtes
+ils (elles) scièrent
+
+** Futur simple
+
+je scierai
+tu scieras
+il (elle) sciera
+nous scierons
+vous scierez
+ils (elles) scieront
+
+* CONDITIONNEL
+
+** Présent
+
+je scierais
+tu scierais
+il (elle) scierait
+nous scierions
+vous scieriez
+ils (elles) scieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je scie
+que tu scies
+qu’il (elle) scie
+que nous sciions
+que vous sciiez
+qu’ils (elles) scient
+
+** Imparfait
+
+que je sciasse
+que tu sciasses
+qu’il (elle) sciât
+que nous sciassions
+que vous sciassiez
+qu’ils (elles) sciassent
+
+* IMPÉRATIF
+
+** Présent
+
+scie
+scions
+sciez
+
+* INFINITIF
+
+** Présent
+
+scier
+
+* PARTICIPE
+
+** Présent
+
+sciant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai scié
+tu as scié
+il (elle) a scié
+nous avons scié
+vous avez scié
+ils (elles) ont scié
+
+** Plus-que-parfait
+
+j'avais scié
+tu avais scié
+il (elle) avait scié
+nous avions scié
+vous aviez scié
+ils (elles) avaient scié
+
+** Passé antérieur
+
+j'eus scié
+tu eus scié
+il (elle) eut scié
+nous eûmes scié
+vous eûtes scié
+ils (elles) eurent scié
+
+** Futur antérieur
+
+j'aurai scié
+tu auras scié
+il (elle) aura scié
+nous aurons scié
+vous aurez scié
+ils (elles) auront scié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais scié
+tu aurais scié
+il (elle) aurait scié
+nous aurions scié
+vous auriez scié
+ils (elles) auraient scié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie scié
+que tu aies scié
+qu’il (elle) ait scié
+que nous ayons scié
+que vous ayez scié
+qu’ils (elles) aient scié
+
+** Plus-que-parfait
+
+que j'eusse scié
+que tu eusses scié
+qu’il (elle) eût scié
+que nous eussions scié
+que vous eussiez scié
+qu’ils (elles) eussent scié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons scié
+ayez scié
+
+* INFINITIF
+
+** Passé
+
+avoir scié
+
+* PARTICIPE
+
+** Passé
+
+ayant scié
+scié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis scié(e)
+tu es scié(e)
+il (elle) est scié(e)
+nous sommes scié(e)s
+vous êtes scié(e)s
+ils (elles) sont scié(e)s
+
+** Imparfait
+
+j'étais scié(e)
+tu étais scié(e)
+il (elle) était scié(e)
+nous étions scié(e)s
+vous étiez scié(e)s
+ils (elles) étaient scié(e)s
+
+** Passé simple
+
+je fus scié(e)
+tu fus scié(e)
+il (elle) fut scié(e)
+nous fûmes scié(e)s
+vous fûtes scié(e)s
+ils (elles) furent scié(e)s
+
+** Futur simple
+
+je serai scié(e)
+tu seras scié(e)
+il (elle) sera scié(e)
+nous serons scié(e)s
+vous serez scié(e)s
+ils (elles) seront scié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais scié(e)
+tu serais scié(e)
+il (elle) serait scié(e)
+nous serions scié(e)s
+vous seriez scié(e)s
+ils (elles) seraient scié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois scié(e)
+que tu sois scié(e)
+qu’il (elle) soit scié(e)
+que nous soyons scié(e)s
+que vous soyez scié(e)s
+qu’ils (elles) soient scié(e)s
+
+** Imparfait
+
+que je fusse scié(e)
+que tu fusses scié(e)
+qu’il (elle) fût scié(e)
+que nous fussions scié(e)s
+que vous fussiez scié(e)s
+qu’ils (elles) fussent scié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons scié(e)s
+soyez scié(e)s
+
+* INFINITIF
+
+** Présent
+
+être scié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant scié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été scié(e)
+tu as été scié(e)
+il (elle) a été scié(e)
+nous avons été scié(e)s
+vous avez été scié(e)s
+ils (elles) ont été scié(e)s
+
+** Plus-que-parfait
+
+j'avais été scié(e)
+il (elle) avait été scié(e)
+nous avions été scié(e)s
+ils (elles) avaient été scié(e)s
+
+** Passé antérieur
+
+j'eus été scié(e)
+tu eus été scié(e)
+il (elle) eut été scié(e)
+nous eûmes été scié(e)s
+vous eûtes été scié(e)s
+ils (elles) eurent été scié(e)s
+
+** Futur antérieur
+
+j'aurai été scié(e)
+tu auras été scié(e)
+il (elle) aura été scié(e)
+nous aurons été scié(e)s
+vous aurez été scié(e)s
+ils (elles) auront été scié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été scié(e)
+j'aurais été scié(e)
+il (elle) aurait été scié(e)
+nous aurions été scié(e)s
+vous auriez été scié(e)s
+ils (elles) auraient été scié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été scié(e)
+que tu aies été scié(e)
+qu’il (elle) ait été scié(e)
+que nous ayons été scié(e)s
+que vous ayez été scié(e)s
+qu’ils (elles) aient été scié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été scié(e)
+que tu eusses été scié(e)
+qu’il (elle) eût été scié(e)
+que nous eussions été scié(e)s
+que vous eussiez été scié(e)s
+qu’ils (elles) eussent été scié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été scié(e)
+ayons été scié(e)s
+ayez été scié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été scié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été scié(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe accoler
+
+* INDICATIF
+
+** Présent
+
+j'accole
+tu accoles
+il (elle) accole
+nous accolons
+vous accolez
+ils (elles) accolent
+
+** Imparfait
+
+j'accolais
+tu accolais
+il (elle) accolait
+nous accolions
+vous accoliez
+ils (elles) accolaient
+
+** Passé simple
+
+j'accolai
+tu accolas
+il (elle) accola
+nous accolâmes
+vous accolâtes
+ils (elles) accolèrent
+
+** Futur simple
+
+j'accolerai
+tu accoleras
+il (elle) accolera
+nous accolerons
+vous accolerez
+ils (elles) accoleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'accolerais
+tu accolerais
+il (elle) accolerait
+nous accolerions
+vous accoleriez
+ils (elles) accoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'accole
+que tu accoles
+qu’il (elle) accole
+que nous accolions
+que vous accoliez
+qu’ils (elles) accolent
+
+** Imparfait
+
+que j'accolasse
+que tu accolasses
+qu’il (elle) accolât
+que nous accolassions
+que vous accolassiez
+qu’ils (elles) accolassent
+
+* IMPÉRATIF
+
+** Présent
+
+accole
+accolons
+accolez
+
+* INFINITIF
+
+** Présent
+
+accoler
+
+* PARTICIPE
+
+** Présent
+
+accolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai accolé
+tu as accolé
+il (elle) a accolé
+nous avons accolé
+vous avez accolé
+ils (elles) ont accolé
+
+** Plus-que-parfait
+
+j'avais accolé
+tu avais accolé
+il (elle) avait accolé
+nous avions accolé
+vous aviez accolé
+ils (elles) avaient accolé
+
+** Passé antérieur
+
+j'eus accolé
+tu eus accolé
+il (elle) eut accolé
+nous eûmes accolé
+vous eûtes accolé
+ils (elles) eurent accolé
+
+** Futur antérieur
+
+j'aurai accolé
+tu auras accolé
+il (elle) aura accolé
+nous aurons accolé
+vous aurez accolé
+ils (elles) auront accolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais accolé
+tu aurais accolé
+il (elle) aurait accolé
+nous aurions accolé
+vous auriez accolé
+ils (elles) auraient accolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie accolé
+que tu aies accolé
+qu’il (elle) ait accolé
+que nous ayons accolé
+que vous ayez accolé
+qu’ils (elles) aient accolé
+
+** Plus-que-parfait
+
+que j'eusse accolé
+que tu eusses accolé
+qu’il (elle) eût accolé
+que nous eussions accolé
+que vous eussiez accolé
+qu’ils (elles) eussent accolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons accolé
+ayez accolé
+
+* INFINITIF
+
+** Passé
+
+avoir accolé
+
+* PARTICIPE
+
+** Passé
+
+ayant accolé
+accolé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis accolé(e)
+tu es accolé(e)
+il (elle) est accolé(e)
+nous sommes accolé(e)s
+vous êtes accolé(e)s
+ils (elles) sont accolé(e)s
+
+** Imparfait
+
+j'étais accolé(e)
+tu étais accolé(e)
+il (elle) était accolé(e)
+nous étions accolé(e)s
+vous étiez accolé(e)s
+ils (elles) étaient accolé(e)s
+
+** Passé simple
+
+je fus accolé(e)
+tu fus accolé(e)
+il (elle) fut accolé(e)
+nous fûmes accolé(e)s
+vous fûtes accolé(e)s
+ils (elles) furent accolé(e)s
+
+** Futur simple
+
+je serai accolé(e)
+tu seras accolé(e)
+il (elle) sera accolé(e)
+nous serons accolé(e)s
+vous serez accolé(e)s
+ils (elles) seront accolé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais accolé(e)
+tu serais accolé(e)
+il (elle) serait accolé(e)
+nous serions accolé(e)s
+vous seriez accolé(e)s
+ils (elles) seraient accolé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois accolé(e)
+que tu sois accolé(e)
+qu’il (elle) soit accolé(e)
+que nous soyons accolé(e)s
+que vous soyez accolé(e)s
+qu’ils (elles) soient accolé(e)s
+
+** Imparfait
+
+que je fusse accolé(e)
+que tu fusses accolé(e)
+qu’il (elle) fût accolé(e)
+que nous fussions accolé(e)s
+que vous fussiez accolé(e)s
+qu’ils (elles) fussent accolé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons accolé(e)s
+soyez accolé(e)s
+
+* INFINITIF
+
+** Présent
+
+être accolé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant accolé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été accolé(e)
+tu as été accolé(e)
+il (elle) a été accolé(e)
+nous avons été accolé(e)s
+vous avez été accolé(e)s
+ils (elles) ont été accolé(e)s
+
+** Plus-que-parfait
+
+j'avais été accolé(e)
+il (elle) avait été accolé(e)
+nous avions été accolé(e)s
+ils (elles) avaient été accolé(e)s
+
+** Passé antérieur
+
+j'eus été accolé(e)
+tu eus été accolé(e)
+il (elle) eut été accolé(e)
+nous eûmes été accolé(e)s
+vous eûtes été accolé(e)s
+ils (elles) eurent été accolé(e)s
+
+** Futur antérieur
+
+j'aurai été accolé(e)
+tu auras été accolé(e)
+il (elle) aura été accolé(e)
+nous aurons été accolé(e)s
+vous aurez été accolé(e)s
+ils (elles) auront été accolé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été accolé(e)
+j'aurais été accolé(e)
+il (elle) aurait été accolé(e)
+nous aurions été accolé(e)s
+vous auriez été accolé(e)s
+ils (elles) auraient été accolé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été accolé(e)
+que tu aies été accolé(e)
+qu’il (elle) ait été accolé(e)
+que nous ayons été accolé(e)s
+que vous ayez été accolé(e)s
+qu’ils (elles) aient été accolé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été accolé(e)
+que tu eusses été accolé(e)
+qu’il (elle) eût été accolé(e)
+que nous eussions été accolé(e)s
+que vous eussiez été accolé(e)s
+qu’ils (elles) eussent été accolé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été accolé(e)
+ayons été accolé(e)s
+ayez été accolé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été accolé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été accolé(e)(s)

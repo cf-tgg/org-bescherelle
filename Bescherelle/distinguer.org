@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe distinguer
+
+* INDICATIF
+
+** Présent
+
+je distingue
+tu distingues
+il (elle) distingue
+nous distinguons
+vous distinguez
+ils (elles) distinguent
+
+** Imparfait
+
+je distinguais
+tu distinguais
+il (elle) distinguait
+nous distinguions
+vous distinguiez
+ils (elles) distinguaient
+
+** Passé simple
+
+je distinguai
+tu distinguas
+il (elle) distingua
+nous distinguâmes
+vous distinguâtes
+ils (elles) distinguèrent
+
+** Futur simple
+
+je distinguerai
+tu distingueras
+il (elle) distinguera
+nous distinguerons
+vous distinguerez
+ils (elles) distingueront
+
+* CONDITIONNEL
+
+** Présent
+
+je distinguerais
+tu distinguerais
+il (elle) distinguerait
+nous distinguerions
+vous distingueriez
+ils (elles) distingueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je distingue
+que tu distingues
+qu’il (elle) distingue
+que nous distinguions
+que vous distinguiez
+qu’ils (elles) distinguent
+
+** Imparfait
+
+que je distinguasse
+que tu distinguasses
+qu’il (elle) distinguât
+que nous distinguassions
+que vous distinguassiez
+qu’ils (elles) distinguassent
+
+* IMPÉRATIF
+
+** Présent
+
+distingue
+distinguons
+distinguez
+
+* INFINITIF
+
+** Présent
+
+distinguer
+
+* PARTICIPE
+
+** Présent
+
+distinguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai distingué
+tu as distingué
+il (elle) a distingué
+nous avons distingué
+vous avez distingué
+ils (elles) ont distingué
+
+** Plus-que-parfait
+
+j'avais distingué
+tu avais distingué
+il (elle) avait distingué
+nous avions distingué
+vous aviez distingué
+ils (elles) avaient distingué
+
+** Passé antérieur
+
+j'eus distingué
+tu eus distingué
+il (elle) eut distingué
+nous eûmes distingué
+vous eûtes distingué
+ils (elles) eurent distingué
+
+** Futur antérieur
+
+j'aurai distingué
+tu auras distingué
+il (elle) aura distingué
+nous aurons distingué
+vous aurez distingué
+ils (elles) auront distingué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais distingué
+tu aurais distingué
+il (elle) aurait distingué
+nous aurions distingué
+vous auriez distingué
+ils (elles) auraient distingué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie distingué
+que tu aies distingué
+qu’il (elle) ait distingué
+que nous ayons distingué
+que vous ayez distingué
+qu’ils (elles) aient distingué
+
+** Plus-que-parfait
+
+que j'eusse distingué
+que tu eusses distingué
+qu’il (elle) eût distingué
+que nous eussions distingué
+que vous eussiez distingué
+qu’ils (elles) eussent distingué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons distingué
+ayez distingué
+
+* INFINITIF
+
+** Passé
+
+avoir distingué
+
+* PARTICIPE
+
+** Passé
+
+ayant distingué
+distingué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis distingué(e)
+tu es distingué(e)
+il (elle) est distingué(e)
+nous sommes distingué(e)s
+vous êtes distingué(e)s
+ils (elles) sont distingué(e)s
+
+** Imparfait
+
+j'étais distingué(e)
+tu étais distingué(e)
+il (elle) était distingué(e)
+nous étions distingué(e)s
+vous étiez distingué(e)s
+ils (elles) étaient distingué(e)s
+
+** Passé simple
+
+je fus distingué(e)
+tu fus distingué(e)
+il (elle) fut distingué(e)
+nous fûmes distingué(e)s
+vous fûtes distingué(e)s
+ils (elles) furent distingué(e)s
+
+** Futur simple
+
+je serai distingué(e)
+tu seras distingué(e)
+il (elle) sera distingué(e)
+nous serons distingué(e)s
+vous serez distingué(e)s
+ils (elles) seront distingué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais distingué(e)
+tu serais distingué(e)
+il (elle) serait distingué(e)
+nous serions distingué(e)s
+vous seriez distingué(e)s
+ils (elles) seraient distingué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois distingué(e)
+que tu sois distingué(e)
+qu’il (elle) soit distingué(e)
+que nous soyons distingué(e)s
+que vous soyez distingué(e)s
+qu’ils (elles) soient distingué(e)s
+
+** Imparfait
+
+que je fusse distingué(e)
+que tu fusses distingué(e)
+qu’il (elle) fût distingué(e)
+que nous fussions distingué(e)s
+que vous fussiez distingué(e)s
+qu’ils (elles) fussent distingué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons distingué(e)s
+soyez distingué(e)s
+
+* INFINITIF
+
+** Présent
+
+être distingué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant distingué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été distingué(e)
+tu as été distingué(e)
+il (elle) a été distingué(e)
+nous avons été distingué(e)s
+vous avez été distingué(e)s
+ils (elles) ont été distingué(e)s
+
+** Plus-que-parfait
+
+j'avais été distingué(e)
+il (elle) avait été distingué(e)
+nous avions été distingué(e)s
+ils (elles) avaient été distingué(e)s
+
+** Passé antérieur
+
+j'eus été distingué(e)
+tu eus été distingué(e)
+il (elle) eut été distingué(e)
+nous eûmes été distingué(e)s
+vous eûtes été distingué(e)s
+ils (elles) eurent été distingué(e)s
+
+** Futur antérieur
+
+j'aurai été distingué(e)
+tu auras été distingué(e)
+il (elle) aura été distingué(e)
+nous aurons été distingué(e)s
+vous aurez été distingué(e)s
+ils (elles) auront été distingué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été distingué(e)
+j'aurais été distingué(e)
+il (elle) aurait été distingué(e)
+nous aurions été distingué(e)s
+vous auriez été distingué(e)s
+ils (elles) auraient été distingué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été distingué(e)
+que tu aies été distingué(e)
+qu’il (elle) ait été distingué(e)
+que nous ayons été distingué(e)s
+que vous ayez été distingué(e)s
+qu’ils (elles) aient été distingué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été distingué(e)
+que tu eusses été distingué(e)
+qu’il (elle) eût été distingué(e)
+que nous eussions été distingué(e)s
+que vous eussiez été distingué(e)s
+qu’ils (elles) eussent été distingué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été distingué(e)
+ayons été distingué(e)s
+ayez été distingué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été distingué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été distingué(e)(s)

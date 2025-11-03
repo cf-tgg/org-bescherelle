@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fremir
+
+* INDICATIF
+
+** Présent
+
+je frémis
+tu frémis
+il (elle) frémit
+nous frémissons
+vous frémissez
+ils (elles) frémissent
+
+** Imparfait
+
+je frémissais
+tu frémissais
+il (elle) frémissait
+nous frémissions
+vous frémissiez
+ils (elles) frémissaient
+
+** Passé simple
+
+je frémis
+tu frémis
+il (elle) frémit
+nous frémîmes
+vous frémîtes
+ils (elles) frémirent
+
+** Futur simple
+
+je frémirai
+tu frémiras
+il (elle) frémira
+nous frémirons
+vous frémirez
+ils (elles) frémiront
+
+* CONDITIONNEL
+
+** Présent
+
+je frémirais
+tu frémirais
+il (elle) frémirait
+nous frémirions
+vous frémiriez
+ils (elles) frémiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je frémisse
+que tu frémisses
+qu’il (elle) frémisse
+que nous frémissions
+que vous frémissiez
+qu’ils (elles) frémissent
+
+** Imparfait
+
+que je frémisse
+que tu frémisses
+qu’il (elle) frémît
+que nous frémissions
+que vous frémissiez
+qu’ils (elles) frémissent
+
+* IMPÉRATIF
+
+** Présent
+
+frémis
+frémissons
+frémissez
+
+* INFINITIF
+
+** Présent
+
+frémir
+
+* PARTICIPE
+
+** Présent
+
+frémissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai frémi
+tu as frémi
+il (elle) a frémi
+nous avons frémi
+vous avez frémi
+ils (elles) ont frémi
+
+** Plus-que-parfait
+
+j'avais frémi
+tu avais frémi
+il (elle) avait frémi
+nous avions frémi
+vous aviez frémi
+ils (elles) avaient frémi
+
+** Passé antérieur
+
+j'eus frémi
+tu eus frémi
+il (elle) eut frémi
+nous eûmes frémi
+vous eûtes frémi
+ils (elles) eurent frémi
+
+** Futur antérieur
+
+j'aurai frémi
+tu auras frémi
+il (elle) aura frémi
+nous aurons frémi
+vous aurez frémi
+ils (elles) auront frémi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais frémi
+tu aurais frémi
+il (elle) aurait frémi
+nous aurions frémi
+vous auriez frémi
+ils (elles) auraient frémi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie frémi
+que tu aies frémi
+qu’il (elle) ait frémi
+que nous ayons frémi
+que vous ayez frémi
+qu’ils (elles) aient frémi
+
+** Plus-que-parfait
+
+que j'eusse frémi
+que tu eusses frémi
+qu’il (elle) eût frémi
+que nous eussions frémi
+que vous eussiez frémi
+qu’ils (elles) eussent frémi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons frémi
+ayez frémi
+
+* INFINITIF
+
+** Passé
+
+avoir frémi
+
+* PARTICIPE
+
+** Passé
+
+ayant frémi
+frémi (invar.)

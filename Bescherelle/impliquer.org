@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe impliquer
+
+* INDICATIF
+
+** Présent
+
+j'implique
+tu impliques
+il (elle) implique
+nous impliquons
+vous impliquez
+ils (elles) impliquent
+
+** Imparfait
+
+j'impliquais
+tu impliquais
+il (elle) impliquait
+nous impliquions
+vous impliquiez
+ils (elles) impliquaient
+
+** Passé simple
+
+j'impliquai
+tu impliquas
+il (elle) impliqua
+nous impliquâmes
+vous impliquâtes
+ils (elles) impliquèrent
+
+** Futur simple
+
+j'impliquerai
+tu impliqueras
+il (elle) impliquera
+nous impliquerons
+vous impliquerez
+ils (elles) impliqueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'impliquerais
+tu impliquerais
+il (elle) impliquerait
+nous impliquerions
+vous impliqueriez
+ils (elles) impliqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'implique
+que tu impliques
+qu’il (elle) implique
+que nous impliquions
+que vous impliquiez
+qu’ils (elles) impliquent
+
+** Imparfait
+
+que j'impliquasse
+que tu impliquasses
+qu’il (elle) impliquât
+que nous impliquassions
+que vous impliquassiez
+qu’ils (elles) impliquassent
+
+* IMPÉRATIF
+
+** Présent
+
+implique
+impliquons
+impliquez
+
+* INFINITIF
+
+** Présent
+
+impliquer
+
+* PARTICIPE
+
+** Présent
+
+impliquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai impliqué
+tu as impliqué
+il (elle) a impliqué
+nous avons impliqué
+vous avez impliqué
+ils (elles) ont impliqué
+
+** Plus-que-parfait
+
+j'avais impliqué
+tu avais impliqué
+il (elle) avait impliqué
+nous avions impliqué
+vous aviez impliqué
+ils (elles) avaient impliqué
+
+** Passé antérieur
+
+j'eus impliqué
+tu eus impliqué
+il (elle) eut impliqué
+nous eûmes impliqué
+vous eûtes impliqué
+ils (elles) eurent impliqué
+
+** Futur antérieur
+
+j'aurai impliqué
+tu auras impliqué
+il (elle) aura impliqué
+nous aurons impliqué
+vous aurez impliqué
+ils (elles) auront impliqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais impliqué
+tu aurais impliqué
+il (elle) aurait impliqué
+nous aurions impliqué
+vous auriez impliqué
+ils (elles) auraient impliqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie impliqué
+que tu aies impliqué
+qu’il (elle) ait impliqué
+que nous ayons impliqué
+que vous ayez impliqué
+qu’ils (elles) aient impliqué
+
+** Plus-que-parfait
+
+que j'eusse impliqué
+que tu eusses impliqué
+qu’il (elle) eût impliqué
+que nous eussions impliqué
+que vous eussiez impliqué
+qu’ils (elles) eussent impliqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons impliqué
+ayez impliqué
+
+* INFINITIF
+
+** Passé
+
+avoir impliqué
+
+* PARTICIPE
+
+** Passé
+
+ayant impliqué
+impliqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis impliqué(e)
+tu es impliqué(e)
+il (elle) est impliqué(e)
+nous sommes impliqué(e)s
+vous êtes impliqué(e)s
+ils (elles) sont impliqué(e)s
+
+** Imparfait
+
+j'étais impliqué(e)
+tu étais impliqué(e)
+il (elle) était impliqué(e)
+nous étions impliqué(e)s
+vous étiez impliqué(e)s
+ils (elles) étaient impliqué(e)s
+
+** Passé simple
+
+je fus impliqué(e)
+tu fus impliqué(e)
+il (elle) fut impliqué(e)
+nous fûmes impliqué(e)s
+vous fûtes impliqué(e)s
+ils (elles) furent impliqué(e)s
+
+** Futur simple
+
+je serai impliqué(e)
+tu seras impliqué(e)
+il (elle) sera impliqué(e)
+nous serons impliqué(e)s
+vous serez impliqué(e)s
+ils (elles) seront impliqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais impliqué(e)
+tu serais impliqué(e)
+il (elle) serait impliqué(e)
+nous serions impliqué(e)s
+vous seriez impliqué(e)s
+ils (elles) seraient impliqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois impliqué(e)
+que tu sois impliqué(e)
+qu’il (elle) soit impliqué(e)
+que nous soyons impliqué(e)s
+que vous soyez impliqué(e)s
+qu’ils (elles) soient impliqué(e)s
+
+** Imparfait
+
+que je fusse impliqué(e)
+que tu fusses impliqué(e)
+qu’il (elle) fût impliqué(e)
+que nous fussions impliqué(e)s
+que vous fussiez impliqué(e)s
+qu’ils (elles) fussent impliqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons impliqué(e)s
+soyez impliqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être impliqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant impliqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été impliqué(e)
+tu as été impliqué(e)
+il (elle) a été impliqué(e)
+nous avons été impliqué(e)s
+vous avez été impliqué(e)s
+ils (elles) ont été impliqué(e)s
+
+** Plus-que-parfait
+
+j'avais été impliqué(e)
+il (elle) avait été impliqué(e)
+nous avions été impliqué(e)s
+ils (elles) avaient été impliqué(e)s
+
+** Passé antérieur
+
+j'eus été impliqué(e)
+tu eus été impliqué(e)
+il (elle) eut été impliqué(e)
+nous eûmes été impliqué(e)s
+vous eûtes été impliqué(e)s
+ils (elles) eurent été impliqué(e)s
+
+** Futur antérieur
+
+j'aurai été impliqué(e)
+tu auras été impliqué(e)
+il (elle) aura été impliqué(e)
+nous aurons été impliqué(e)s
+vous aurez été impliqué(e)s
+ils (elles) auront été impliqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été impliqué(e)
+j'aurais été impliqué(e)
+il (elle) aurait été impliqué(e)
+nous aurions été impliqué(e)s
+vous auriez été impliqué(e)s
+ils (elles) auraient été impliqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été impliqué(e)
+que tu aies été impliqué(e)
+qu’il (elle) ait été impliqué(e)
+que nous ayons été impliqué(e)s
+que vous ayez été impliqué(e)s
+qu’ils (elles) aient été impliqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été impliqué(e)
+que tu eusses été impliqué(e)
+qu’il (elle) eût été impliqué(e)
+que nous eussions été impliqué(e)s
+que vous eussiez été impliqué(e)s
+qu’ils (elles) eussent été impliqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été impliqué(e)
+ayons été impliqué(e)s
+ayez été impliqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été impliqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été impliqué(e)(s)

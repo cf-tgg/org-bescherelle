@@ -1,0 +1,44 @@
+#+title: Conjugaison du verbe seoir
+
+* INDICATIF
+
+** Présent
+
+il (elle) sied
+ils (elles) siéent
+
+** Imparfait
+
+il (elle) seyait
+ils (elles) seyaient
+
+** Futur simple
+
+il (elle) siéra
+ils (elles) siéront
+
+* CONDITIONNEL
+
+** Présent
+
+il (elle) siérait
+ils (elles) siéraient
+
+* SUBJONCTIF
+
+** Présent
+
+qu’il (elle) siée
+qu’ils (elles) siéent
+
+* INFINITIF
+
+** Présent
+
+seoir
+
+* PARTICIPE
+
+** Présent
+
+séant

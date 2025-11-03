@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe refuser
+
+* INDICATIF
+
+** Présent
+
+je refuse
+tu refuses
+il (elle) refuse
+nous refusons
+vous refusez
+ils (elles) refusent
+
+** Imparfait
+
+je refusais
+tu refusais
+il (elle) refusait
+nous refusions
+vous refusiez
+ils (elles) refusaient
+
+** Passé simple
+
+je refusai
+tu refusas
+il (elle) refusa
+nous refusâmes
+vous refusâtes
+ils (elles) refusèrent
+
+** Futur simple
+
+je refuserai
+tu refuseras
+il (elle) refusera
+nous refuserons
+vous refuserez
+ils (elles) refuseront
+
+* CONDITIONNEL
+
+** Présent
+
+je refuserais
+tu refuserais
+il (elle) refuserait
+nous refuserions
+vous refuseriez
+ils (elles) refuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je refuse
+que tu refuses
+qu’il (elle) refuse
+que nous refusions
+que vous refusiez
+qu’ils (elles) refusent
+
+** Imparfait
+
+que je refusasse
+que tu refusasses
+qu’il (elle) refusât
+que nous refusassions
+que vous refusassiez
+qu’ils (elles) refusassent
+
+* IMPÉRATIF
+
+** Présent
+
+refuse
+refusons
+refusez
+
+* INFINITIF
+
+** Présent
+
+refuser
+
+* PARTICIPE
+
+** Présent
+
+refusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai refusé
+tu as refusé
+il (elle) a refusé
+nous avons refusé
+vous avez refusé
+ils (elles) ont refusé
+
+** Plus-que-parfait
+
+j'avais refusé
+tu avais refusé
+il (elle) avait refusé
+nous avions refusé
+vous aviez refusé
+ils (elles) avaient refusé
+
+** Passé antérieur
+
+j'eus refusé
+tu eus refusé
+il (elle) eut refusé
+nous eûmes refusé
+vous eûtes refusé
+ils (elles) eurent refusé
+
+** Futur antérieur
+
+j'aurai refusé
+tu auras refusé
+il (elle) aura refusé
+nous aurons refusé
+vous aurez refusé
+ils (elles) auront refusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais refusé
+tu aurais refusé
+il (elle) aurait refusé
+nous aurions refusé
+vous auriez refusé
+ils (elles) auraient refusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie refusé
+que tu aies refusé
+qu’il (elle) ait refusé
+que nous ayons refusé
+que vous ayez refusé
+qu’ils (elles) aient refusé
+
+** Plus-que-parfait
+
+que j'eusse refusé
+que tu eusses refusé
+qu’il (elle) eût refusé
+que nous eussions refusé
+que vous eussiez refusé
+qu’ils (elles) eussent refusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons refusé
+ayez refusé
+
+* INFINITIF
+
+** Passé
+
+avoir refusé
+
+* PARTICIPE
+
+** Passé
+
+ayant refusé
+refusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis refusé(e)
+tu es refusé(e)
+il (elle) est refusé(e)
+nous sommes refusé(e)s
+vous êtes refusé(e)s
+ils (elles) sont refusé(e)s
+
+** Imparfait
+
+j'étais refusé(e)
+tu étais refusé(e)
+il (elle) était refusé(e)
+nous étions refusé(e)s
+vous étiez refusé(e)s
+ils (elles) étaient refusé(e)s
+
+** Passé simple
+
+je fus refusé(e)
+tu fus refusé(e)
+il (elle) fut refusé(e)
+nous fûmes refusé(e)s
+vous fûtes refusé(e)s
+ils (elles) furent refusé(e)s
+
+** Futur simple
+
+je serai refusé(e)
+tu seras refusé(e)
+il (elle) sera refusé(e)
+nous serons refusé(e)s
+vous serez refusé(e)s
+ils (elles) seront refusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais refusé(e)
+tu serais refusé(e)
+il (elle) serait refusé(e)
+nous serions refusé(e)s
+vous seriez refusé(e)s
+ils (elles) seraient refusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois refusé(e)
+que tu sois refusé(e)
+qu’il (elle) soit refusé(e)
+que nous soyons refusé(e)s
+que vous soyez refusé(e)s
+qu’ils (elles) soient refusé(e)s
+
+** Imparfait
+
+que je fusse refusé(e)
+que tu fusses refusé(e)
+qu’il (elle) fût refusé(e)
+que nous fussions refusé(e)s
+que vous fussiez refusé(e)s
+qu’ils (elles) fussent refusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons refusé(e)s
+soyez refusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être refusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant refusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été refusé(e)
+tu as été refusé(e)
+il (elle) a été refusé(e)
+nous avons été refusé(e)s
+vous avez été refusé(e)s
+ils (elles) ont été refusé(e)s
+
+** Plus-que-parfait
+
+j'avais été refusé(e)
+il (elle) avait été refusé(e)
+nous avions été refusé(e)s
+ils (elles) avaient été refusé(e)s
+
+** Passé antérieur
+
+j'eus été refusé(e)
+tu eus été refusé(e)
+il (elle) eut été refusé(e)
+nous eûmes été refusé(e)s
+vous eûtes été refusé(e)s
+ils (elles) eurent été refusé(e)s
+
+** Futur antérieur
+
+j'aurai été refusé(e)
+tu auras été refusé(e)
+il (elle) aura été refusé(e)
+nous aurons été refusé(e)s
+vous aurez été refusé(e)s
+ils (elles) auront été refusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été refusé(e)
+j'aurais été refusé(e)
+il (elle) aurait été refusé(e)
+nous aurions été refusé(e)s
+vous auriez été refusé(e)s
+ils (elles) auraient été refusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été refusé(e)
+que tu aies été refusé(e)
+qu’il (elle) ait été refusé(e)
+que nous ayons été refusé(e)s
+que vous ayez été refusé(e)s
+qu’ils (elles) aient été refusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été refusé(e)
+que tu eusses été refusé(e)
+qu’il (elle) eût été refusé(e)
+que nous eussions été refusé(e)s
+que vous eussiez été refusé(e)s
+qu’ils (elles) eussent été refusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été refusé(e)
+ayons été refusé(e)s
+ayez été refusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été refusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été refusé(e)(s)

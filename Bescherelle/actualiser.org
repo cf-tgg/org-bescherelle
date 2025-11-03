@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe actualiser
+
+* INDICATIF
+
+** Présent
+
+j'actualise
+tu actualises
+il (elle) actualise
+nous actualisons
+vous actualisez
+ils (elles) actualisent
+
+** Imparfait
+
+j'actualisais
+tu actualisais
+il (elle) actualisait
+nous actualisions
+vous actualisiez
+ils (elles) actualisaient
+
+** Passé simple
+
+j'actualisai
+tu actualisas
+il (elle) actualisa
+nous actualisâmes
+vous actualisâtes
+ils (elles) actualisèrent
+
+** Futur simple
+
+j'actualiserai
+tu actualiseras
+il (elle) actualisera
+nous actualiserons
+vous actualiserez
+ils (elles) actualiseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'actualiserais
+tu actualiserais
+il (elle) actualiserait
+nous actualiserions
+vous actualiseriez
+ils (elles) actualiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'actualise
+que tu actualises
+qu’il (elle) actualise
+que nous actualisions
+que vous actualisiez
+qu’ils (elles) actualisent
+
+** Imparfait
+
+que j'actualisasse
+que tu actualisasses
+qu’il (elle) actualisât
+que nous actualisassions
+que vous actualisassiez
+qu’ils (elles) actualisassent
+
+* IMPÉRATIF
+
+** Présent
+
+actualise
+actualisons
+actualisez
+
+* INFINITIF
+
+** Présent
+
+actualiser
+
+* PARTICIPE
+
+** Présent
+
+actualisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai actualisé
+tu as actualisé
+il (elle) a actualisé
+nous avons actualisé
+vous avez actualisé
+ils (elles) ont actualisé
+
+** Plus-que-parfait
+
+j'avais actualisé
+tu avais actualisé
+il (elle) avait actualisé
+nous avions actualisé
+vous aviez actualisé
+ils (elles) avaient actualisé
+
+** Passé antérieur
+
+j'eus actualisé
+tu eus actualisé
+il (elle) eut actualisé
+nous eûmes actualisé
+vous eûtes actualisé
+ils (elles) eurent actualisé
+
+** Futur antérieur
+
+j'aurai actualisé
+tu auras actualisé
+il (elle) aura actualisé
+nous aurons actualisé
+vous aurez actualisé
+ils (elles) auront actualisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais actualisé
+tu aurais actualisé
+il (elle) aurait actualisé
+nous aurions actualisé
+vous auriez actualisé
+ils (elles) auraient actualisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie actualisé
+que tu aies actualisé
+qu’il (elle) ait actualisé
+que nous ayons actualisé
+que vous ayez actualisé
+qu’ils (elles) aient actualisé
+
+** Plus-que-parfait
+
+que j'eusse actualisé
+que tu eusses actualisé
+qu’il (elle) eût actualisé
+que nous eussions actualisé
+que vous eussiez actualisé
+qu’ils (elles) eussent actualisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons actualisé
+ayez actualisé
+
+* INFINITIF
+
+** Passé
+
+avoir actualisé
+
+* PARTICIPE
+
+** Passé
+
+ayant actualisé
+actualisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis actualisé(e)
+tu es actualisé(e)
+il (elle) est actualisé(e)
+nous sommes actualisé(e)s
+vous êtes actualisé(e)s
+ils (elles) sont actualisé(e)s
+
+** Imparfait
+
+j'étais actualisé(e)
+tu étais actualisé(e)
+il (elle) était actualisé(e)
+nous étions actualisé(e)s
+vous étiez actualisé(e)s
+ils (elles) étaient actualisé(e)s
+
+** Passé simple
+
+je fus actualisé(e)
+tu fus actualisé(e)
+il (elle) fut actualisé(e)
+nous fûmes actualisé(e)s
+vous fûtes actualisé(e)s
+ils (elles) furent actualisé(e)s
+
+** Futur simple
+
+je serai actualisé(e)
+tu seras actualisé(e)
+il (elle) sera actualisé(e)
+nous serons actualisé(e)s
+vous serez actualisé(e)s
+ils (elles) seront actualisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais actualisé(e)
+tu serais actualisé(e)
+il (elle) serait actualisé(e)
+nous serions actualisé(e)s
+vous seriez actualisé(e)s
+ils (elles) seraient actualisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois actualisé(e)
+que tu sois actualisé(e)
+qu’il (elle) soit actualisé(e)
+que nous soyons actualisé(e)s
+que vous soyez actualisé(e)s
+qu’ils (elles) soient actualisé(e)s
+
+** Imparfait
+
+que je fusse actualisé(e)
+que tu fusses actualisé(e)
+qu’il (elle) fût actualisé(e)
+que nous fussions actualisé(e)s
+que vous fussiez actualisé(e)s
+qu’ils (elles) fussent actualisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons actualisé(e)s
+soyez actualisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être actualisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant actualisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été actualisé(e)
+tu as été actualisé(e)
+il (elle) a été actualisé(e)
+nous avons été actualisé(e)s
+vous avez été actualisé(e)s
+ils (elles) ont été actualisé(e)s
+
+** Plus-que-parfait
+
+j'avais été actualisé(e)
+il (elle) avait été actualisé(e)
+nous avions été actualisé(e)s
+ils (elles) avaient été actualisé(e)s
+
+** Passé antérieur
+
+j'eus été actualisé(e)
+tu eus été actualisé(e)
+il (elle) eut été actualisé(e)
+nous eûmes été actualisé(e)s
+vous eûtes été actualisé(e)s
+ils (elles) eurent été actualisé(e)s
+
+** Futur antérieur
+
+j'aurai été actualisé(e)
+tu auras été actualisé(e)
+il (elle) aura été actualisé(e)
+nous aurons été actualisé(e)s
+vous aurez été actualisé(e)s
+ils (elles) auront été actualisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été actualisé(e)
+j'aurais été actualisé(e)
+il (elle) aurait été actualisé(e)
+nous aurions été actualisé(e)s
+vous auriez été actualisé(e)s
+ils (elles) auraient été actualisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été actualisé(e)
+que tu aies été actualisé(e)
+qu’il (elle) ait été actualisé(e)
+que nous ayons été actualisé(e)s
+que vous ayez été actualisé(e)s
+qu’ils (elles) aient été actualisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été actualisé(e)
+que tu eusses été actualisé(e)
+qu’il (elle) eût été actualisé(e)
+que nous eussions été actualisé(e)s
+que vous eussiez été actualisé(e)s
+qu’ils (elles) eussent été actualisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été actualisé(e)
+ayons été actualisé(e)s
+ayez été actualisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été actualisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été actualisé(e)(s)

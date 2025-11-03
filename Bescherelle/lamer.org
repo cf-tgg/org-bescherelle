@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lamer
+
+* INDICATIF
+
+** Présent
+
+je lame
+tu lames
+il (elle) lame
+nous lamons
+vous lamez
+ils (elles) lament
+
+** Imparfait
+
+je lamais
+tu lamais
+il (elle) lamait
+nous lamions
+vous lamiez
+ils (elles) lamaient
+
+** Passé simple
+
+je lamai
+tu lamas
+il (elle) lama
+nous lamâmes
+vous lamâtes
+ils (elles) lamèrent
+
+** Futur simple
+
+je lamerai
+tu lameras
+il (elle) lamera
+nous lamerons
+vous lamerez
+ils (elles) lameront
+
+* CONDITIONNEL
+
+** Présent
+
+je lamerais
+tu lamerais
+il (elle) lamerait
+nous lamerions
+vous lameriez
+ils (elles) lameraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lame
+que tu lames
+qu’il (elle) lame
+que nous lamions
+que vous lamiez
+qu’ils (elles) lament
+
+** Imparfait
+
+que je lamasse
+que tu lamasses
+qu’il (elle) lamât
+que nous lamassions
+que vous lamassiez
+qu’ils (elles) lamassent
+
+* IMPÉRATIF
+
+** Présent
+
+lame
+lamons
+lamez
+
+* INFINITIF
+
+** Présent
+
+lamer
+
+* PARTICIPE
+
+** Présent
+
+lamant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lamé
+tu as lamé
+il (elle) a lamé
+nous avons lamé
+vous avez lamé
+ils (elles) ont lamé
+
+** Plus-que-parfait
+
+j'avais lamé
+tu avais lamé
+il (elle) avait lamé
+nous avions lamé
+vous aviez lamé
+ils (elles) avaient lamé
+
+** Passé antérieur
+
+j'eus lamé
+tu eus lamé
+il (elle) eut lamé
+nous eûmes lamé
+vous eûtes lamé
+ils (elles) eurent lamé
+
+** Futur antérieur
+
+j'aurai lamé
+tu auras lamé
+il (elle) aura lamé
+nous aurons lamé
+vous aurez lamé
+ils (elles) auront lamé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lamé
+tu aurais lamé
+il (elle) aurait lamé
+nous aurions lamé
+vous auriez lamé
+ils (elles) auraient lamé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lamé
+que tu aies lamé
+qu’il (elle) ait lamé
+que nous ayons lamé
+que vous ayez lamé
+qu’ils (elles) aient lamé
+
+** Plus-que-parfait
+
+que j'eusse lamé
+que tu eusses lamé
+qu’il (elle) eût lamé
+que nous eussions lamé
+que vous eussiez lamé
+qu’ils (elles) eussent lamé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lamé
+ayez lamé
+
+* INFINITIF
+
+** Passé
+
+avoir lamé
+
+* PARTICIPE
+
+** Passé
+
+ayant lamé
+lamé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lamé(e)
+tu es lamé(e)
+il (elle) est lamé(e)
+nous sommes lamé(e)s
+vous êtes lamé(e)s
+ils (elles) sont lamé(e)s
+
+** Imparfait
+
+j'étais lamé(e)
+tu étais lamé(e)
+il (elle) était lamé(e)
+nous étions lamé(e)s
+vous étiez lamé(e)s
+ils (elles) étaient lamé(e)s
+
+** Passé simple
+
+je fus lamé(e)
+tu fus lamé(e)
+il (elle) fut lamé(e)
+nous fûmes lamé(e)s
+vous fûtes lamé(e)s
+ils (elles) furent lamé(e)s
+
+** Futur simple
+
+je serai lamé(e)
+tu seras lamé(e)
+il (elle) sera lamé(e)
+nous serons lamé(e)s
+vous serez lamé(e)s
+ils (elles) seront lamé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lamé(e)
+tu serais lamé(e)
+il (elle) serait lamé(e)
+nous serions lamé(e)s
+vous seriez lamé(e)s
+ils (elles) seraient lamé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lamé(e)
+que tu sois lamé(e)
+qu’il (elle) soit lamé(e)
+que nous soyons lamé(e)s
+que vous soyez lamé(e)s
+qu’ils (elles) soient lamé(e)s
+
+** Imparfait
+
+que je fusse lamé(e)
+que tu fusses lamé(e)
+qu’il (elle) fût lamé(e)
+que nous fussions lamé(e)s
+que vous fussiez lamé(e)s
+qu’ils (elles) fussent lamé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lamé(e)s
+soyez lamé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lamé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lamé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lamé(e)
+tu as été lamé(e)
+il (elle) a été lamé(e)
+nous avons été lamé(e)s
+vous avez été lamé(e)s
+ils (elles) ont été lamé(e)s
+
+** Plus-que-parfait
+
+j'avais été lamé(e)
+il (elle) avait été lamé(e)
+nous avions été lamé(e)s
+ils (elles) avaient été lamé(e)s
+
+** Passé antérieur
+
+j'eus été lamé(e)
+tu eus été lamé(e)
+il (elle) eut été lamé(e)
+nous eûmes été lamé(e)s
+vous eûtes été lamé(e)s
+ils (elles) eurent été lamé(e)s
+
+** Futur antérieur
+
+j'aurai été lamé(e)
+tu auras été lamé(e)
+il (elle) aura été lamé(e)
+nous aurons été lamé(e)s
+vous aurez été lamé(e)s
+ils (elles) auront été lamé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lamé(e)
+j'aurais été lamé(e)
+il (elle) aurait été lamé(e)
+nous aurions été lamé(e)s
+vous auriez été lamé(e)s
+ils (elles) auraient été lamé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lamé(e)
+que tu aies été lamé(e)
+qu’il (elle) ait été lamé(e)
+que nous ayons été lamé(e)s
+que vous ayez été lamé(e)s
+qu’ils (elles) aient été lamé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lamé(e)
+que tu eusses été lamé(e)
+qu’il (elle) eût été lamé(e)
+que nous eussions été lamé(e)s
+que vous eussiez été lamé(e)s
+qu’ils (elles) eussent été lamé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lamé(e)
+ayons été lamé(e)s
+ayez été lamé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lamé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lamé(e)(s)

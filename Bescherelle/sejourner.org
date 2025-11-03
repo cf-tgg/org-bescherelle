@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sejourner
+
+* INDICATIF
+
+** Présent
+
+je séjourne
+tu séjournes
+il (elle) séjourne
+nous séjournons
+vous séjournez
+ils (elles) séjournent
+
+** Imparfait
+
+je séjournais
+tu séjournais
+il (elle) séjournait
+nous séjournions
+vous séjourniez
+ils (elles) séjournaient
+
+** Passé simple
+
+je séjournai
+tu séjournas
+il (elle) séjourna
+nous séjournâmes
+vous séjournâtes
+ils (elles) séjournèrent
+
+** Futur simple
+
+je séjournerai
+tu séjourneras
+il (elle) séjournera
+nous séjournerons
+vous séjournerez
+ils (elles) séjourneront
+
+* CONDITIONNEL
+
+** Présent
+
+je séjournerais
+tu séjournerais
+il (elle) séjournerait
+nous séjournerions
+vous séjourneriez
+ils (elles) séjourneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je séjourne
+que tu séjournes
+qu’il (elle) séjourne
+que nous séjournions
+que vous séjourniez
+qu’ils (elles) séjournent
+
+** Imparfait
+
+que je séjournasse
+que tu séjournasses
+qu’il (elle) séjournât
+que nous séjournassions
+que vous séjournassiez
+qu’ils (elles) séjournassent
+
+* IMPÉRATIF
+
+** Présent
+
+séjourne
+séjournons
+séjournez
+
+* INFINITIF
+
+** Présent
+
+séjourner
+
+* PARTICIPE
+
+** Présent
+
+séjournant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai séjourné
+tu as séjourné
+il (elle) a séjourné
+nous avons séjourné
+vous avez séjourné
+ils (elles) ont séjourné
+
+** Plus-que-parfait
+
+j'avais séjourné
+tu avais séjourné
+il (elle) avait séjourné
+nous avions séjourné
+vous aviez séjourné
+ils (elles) avaient séjourné
+
+** Passé antérieur
+
+j'eus séjourné
+tu eus séjourné
+il (elle) eut séjourné
+nous eûmes séjourné
+vous eûtes séjourné
+ils (elles) eurent séjourné
+
+** Futur antérieur
+
+j'aurai séjourné
+tu auras séjourné
+il (elle) aura séjourné
+nous aurons séjourné
+vous aurez séjourné
+ils (elles) auront séjourné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais séjourné
+tu aurais séjourné
+il (elle) aurait séjourné
+nous aurions séjourné
+vous auriez séjourné
+ils (elles) auraient séjourné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie séjourné
+que tu aies séjourné
+qu’il (elle) ait séjourné
+que nous ayons séjourné
+que vous ayez séjourné
+qu’ils (elles) aient séjourné
+
+** Plus-que-parfait
+
+que j'eusse séjourné
+que tu eusses séjourné
+qu’il (elle) eût séjourné
+que nous eussions séjourné
+que vous eussiez séjourné
+qu’ils (elles) eussent séjourné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons séjourné
+ayez séjourné
+
+* INFINITIF
+
+** Passé
+
+avoir séjourné
+
+* PARTICIPE
+
+** Passé
+
+ayant séjourné
+séjourné (invar.)

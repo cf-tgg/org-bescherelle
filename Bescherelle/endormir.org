@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe endormir
+
+* INDICATIF
+
+** Présent
+
+j'endors
+tu endors
+il (elle) endort
+nous endormons
+vous endormez
+ils (elles) endorment
+
+** Imparfait
+
+j'endormais
+tu endormais
+il (elle) endormait
+nous endormions
+vous endormiez
+ils (elles) endormaient
+
+** Passé simple
+
+j'endormis
+tu endormis
+il (elle) endormit
+nous endormîmes
+vous endormîtes
+ils (elles) endormirent
+
+** Futur simple
+
+j'endormirai
+tu endormiras
+il (elle) endormira
+nous endormirons
+vous endormirez
+ils (elles) endormiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'endormirais
+tu endormirais
+il (elle) endormirait
+nous endormirions
+vous endormiriez
+ils (elles) endormiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'endorme
+que tu endormes
+qu’il (elle) endorme
+que nous endormions
+que vous endormiez
+qu’ils (elles) endorment
+
+** Imparfait
+
+que j'endormisse
+que tu endormisses
+qu’il (elle) endormît
+que nous endormissions
+que vous endormissiez
+qu’ils (elles) endormissent
+
+* IMPÉRATIF
+
+** Présent
+
+endors
+endormons
+endormez
+
+* INFINITIF
+
+** Présent
+
+endormir
+
+* PARTICIPE
+
+** Présent
+
+endormant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai endormi
+tu as endormi
+il (elle) a endormi
+nous avons endormi
+vous avez endormi
+ils (elles) ont endormi
+
+** Plus-que-parfait
+
+j'avais endormi
+tu avais endormi
+il (elle) avait endormi
+nous avions endormi
+vous aviez endormi
+ils (elles) avaient endormi
+
+** Passé antérieur
+
+j'eus endormi
+tu eus endormi
+il (elle) eut endormi
+nous eûmes endormi
+vous eûtes endormi
+ils (elles) eurent endormi
+
+** Futur antérieur
+
+j'aurai endormi
+tu auras endormi
+il (elle) aura endormi
+nous aurons endormi
+vous aurez endormi
+ils (elles) auront endormi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais endormi
+tu aurais endormi
+il (elle) aurait endormi
+nous aurions endormi
+vous auriez endormi
+ils (elles) auraient endormi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie endormi
+que tu aies endormi
+qu’il (elle) ait endormi
+que nous ayons endormi
+que vous ayez endormi
+qu’ils (elles) aient endormi
+
+** Plus-que-parfait
+
+que j'eusse endormi
+que tu eusses endormi
+qu’il (elle) eût endormi
+que nous eussions endormi
+que vous eussiez endormi
+qu’ils (elles) eussent endormi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons endormi
+ayez endormi
+
+* INFINITIF
+
+** Passé
+
+avoir endormi
+
+* PARTICIPE
+
+** Passé
+
+ayant endormi
+endormi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis endormi(e)
+tu es endormi(e)
+il (elle) est endormi(e)
+nous sommes endormi(e)s
+vous êtes endormi(e)s
+ils (elles) sont endormi(e)s
+
+** Imparfait
+
+j'étais endormi(e)
+tu étais endormi(e)
+il (elle) était endormi(e)
+nous étions endormi(e)s
+vous étiez endormi(e)s
+ils (elles) étaient endormi(e)s
+
+** Passé simple
+
+je fus endormi(e)
+tu fus endormi(e)
+il (elle) fut endormi(e)
+nous fûmes endormi(e)s
+vous fûtes endormi(e)s
+ils (elles) furent endormi(e)s
+
+** Futur simple
+
+je serai endormi(e)
+tu seras endormi(e)
+il (elle) sera endormi(e)
+nous serons endormi(e)s
+vous serez endormi(e)s
+ils (elles) seront endormi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais endormi(e)
+tu serais endormi(e)
+il (elle) serait endormi(e)
+nous serions endormi(e)s
+vous seriez endormi(e)s
+ils (elles) seraient endormi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois endormi(e)
+que tu sois endormi(e)
+qu’il (elle) soit endormi(e)
+que nous soyons endormi(e)s
+que vous soyez endormi(e)s
+qu’ils (elles) soient endormi(e)s
+
+** Imparfait
+
+que je fusse endormi(e)
+que tu fusses endormi(e)
+qu’il (elle) fût endormi(e)
+que nous fussions endormi(e)s
+que vous fussiez endormi(e)s
+qu’ils (elles) fussent endormi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons endormi(e)s
+soyez endormi(e)s
+
+* INFINITIF
+
+** Présent
+
+être endormi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant endormi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été endormi(e)
+tu as été endormi(e)
+il (elle) a été endormi(e)
+nous avons été endormi(e)s
+vous avez été endormi(e)s
+ils (elles) ont été endormi(e)s
+
+** Plus-que-parfait
+
+j'avais été endormi(e)
+il (elle) avait été endormi(e)
+nous avions été endormi(e)s
+ils (elles) avaient été endormi(e)s
+
+** Passé antérieur
+
+j'eus été endormi(e)
+tu eus été endormi(e)
+il (elle) eut été endormi(e)
+nous eûmes été endormi(e)s
+vous eûtes été endormi(e)s
+ils (elles) eurent été endormi(e)s
+
+** Futur antérieur
+
+j'aurai été endormi(e)
+tu auras été endormi(e)
+il (elle) aura été endormi(e)
+nous aurons été endormi(e)s
+vous aurez été endormi(e)s
+ils (elles) auront été endormi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été endormi(e)
+j'aurais été endormi(e)
+il (elle) aurait été endormi(e)
+nous aurions été endormi(e)s
+vous auriez été endormi(e)s
+ils (elles) auraient été endormi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été endormi(e)
+que tu aies été endormi(e)
+qu’il (elle) ait été endormi(e)
+que nous ayons été endormi(e)s
+que vous ayez été endormi(e)s
+qu’ils (elles) aient été endormi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été endormi(e)
+que tu eusses été endormi(e)
+qu’il (elle) eût été endormi(e)
+que nous eussions été endormi(e)s
+que vous eussiez été endormi(e)s
+qu’ils (elles) eussent été endormi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été endormi(e)
+ayons été endormi(e)s
+ayez été endormi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été endormi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été endormi(e)(s)

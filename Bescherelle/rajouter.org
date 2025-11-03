@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rajouter
+
+* INDICATIF
+
+** Présent
+
+je rajoute
+tu rajoutes
+il (elle) rajoute
+nous rajoutons
+vous rajoutez
+ils (elles) rajoutent
+
+** Imparfait
+
+je rajoutais
+tu rajoutais
+il (elle) rajoutait
+nous rajoutions
+vous rajoutiez
+ils (elles) rajoutaient
+
+** Passé simple
+
+je rajoutai
+tu rajoutas
+il (elle) rajouta
+nous rajoutâmes
+vous rajoutâtes
+ils (elles) rajoutèrent
+
+** Futur simple
+
+je rajouterai
+tu rajouteras
+il (elle) rajoutera
+nous rajouterons
+vous rajouterez
+ils (elles) rajouteront
+
+* CONDITIONNEL
+
+** Présent
+
+je rajouterais
+tu rajouterais
+il (elle) rajouterait
+nous rajouterions
+vous rajouteriez
+ils (elles) rajouteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rajoute
+que tu rajoutes
+qu’il (elle) rajoute
+que nous rajoutions
+que vous rajoutiez
+qu’ils (elles) rajoutent
+
+** Imparfait
+
+que je rajoutasse
+que tu rajoutasses
+qu’il (elle) rajoutât
+que nous rajoutassions
+que vous rajoutassiez
+qu’ils (elles) rajoutassent
+
+* IMPÉRATIF
+
+** Présent
+
+rajoute
+rajoutons
+rajoutez
+
+* INFINITIF
+
+** Présent
+
+rajouter
+
+* PARTICIPE
+
+** Présent
+
+rajoutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rajouté
+tu as rajouté
+il (elle) a rajouté
+nous avons rajouté
+vous avez rajouté
+ils (elles) ont rajouté
+
+** Plus-que-parfait
+
+j'avais rajouté
+tu avais rajouté
+il (elle) avait rajouté
+nous avions rajouté
+vous aviez rajouté
+ils (elles) avaient rajouté
+
+** Passé antérieur
+
+j'eus rajouté
+tu eus rajouté
+il (elle) eut rajouté
+nous eûmes rajouté
+vous eûtes rajouté
+ils (elles) eurent rajouté
+
+** Futur antérieur
+
+j'aurai rajouté
+tu auras rajouté
+il (elle) aura rajouté
+nous aurons rajouté
+vous aurez rajouté
+ils (elles) auront rajouté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rajouté
+tu aurais rajouté
+il (elle) aurait rajouté
+nous aurions rajouté
+vous auriez rajouté
+ils (elles) auraient rajouté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rajouté
+que tu aies rajouté
+qu’il (elle) ait rajouté
+que nous ayons rajouté
+que vous ayez rajouté
+qu’ils (elles) aient rajouté
+
+** Plus-que-parfait
+
+que j'eusse rajouté
+que tu eusses rajouté
+qu’il (elle) eût rajouté
+que nous eussions rajouté
+que vous eussiez rajouté
+qu’ils (elles) eussent rajouté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rajouté
+ayez rajouté
+
+* INFINITIF
+
+** Passé
+
+avoir rajouté
+
+* PARTICIPE
+
+** Passé
+
+ayant rajouté
+rajouté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis rajouté(e)
+tu es rajouté(e)
+il (elle) est rajouté(e)
+nous sommes rajouté(e)s
+vous êtes rajouté(e)s
+ils (elles) sont rajouté(e)s
+
+** Imparfait
+
+j'étais rajouté(e)
+tu étais rajouté(e)
+il (elle) était rajouté(e)
+nous étions rajouté(e)s
+vous étiez rajouté(e)s
+ils (elles) étaient rajouté(e)s
+
+** Passé simple
+
+je fus rajouté(e)
+tu fus rajouté(e)
+il (elle) fut rajouté(e)
+nous fûmes rajouté(e)s
+vous fûtes rajouté(e)s
+ils (elles) furent rajouté(e)s
+
+** Futur simple
+
+je serai rajouté(e)
+tu seras rajouté(e)
+il (elle) sera rajouté(e)
+nous serons rajouté(e)s
+vous serez rajouté(e)s
+ils (elles) seront rajouté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rajouté(e)
+tu serais rajouté(e)
+il (elle) serait rajouté(e)
+nous serions rajouté(e)s
+vous seriez rajouté(e)s
+ils (elles) seraient rajouté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rajouté(e)
+que tu sois rajouté(e)
+qu’il (elle) soit rajouté(e)
+que nous soyons rajouté(e)s
+que vous soyez rajouté(e)s
+qu’ils (elles) soient rajouté(e)s
+
+** Imparfait
+
+que je fusse rajouté(e)
+que tu fusses rajouté(e)
+qu’il (elle) fût rajouté(e)
+que nous fussions rajouté(e)s
+que vous fussiez rajouté(e)s
+qu’ils (elles) fussent rajouté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rajouté(e)s
+soyez rajouté(e)s
+
+* INFINITIF
+
+** Présent
+
+être rajouté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rajouté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rajouté(e)
+tu as été rajouté(e)
+il (elle) a été rajouté(e)
+nous avons été rajouté(e)s
+vous avez été rajouté(e)s
+ils (elles) ont été rajouté(e)s
+
+** Plus-que-parfait
+
+j'avais été rajouté(e)
+il (elle) avait été rajouté(e)
+nous avions été rajouté(e)s
+ils (elles) avaient été rajouté(e)s
+
+** Passé antérieur
+
+j'eus été rajouté(e)
+tu eus été rajouté(e)
+il (elle) eut été rajouté(e)
+nous eûmes été rajouté(e)s
+vous eûtes été rajouté(e)s
+ils (elles) eurent été rajouté(e)s
+
+** Futur antérieur
+
+j'aurai été rajouté(e)
+tu auras été rajouté(e)
+il (elle) aura été rajouté(e)
+nous aurons été rajouté(e)s
+vous aurez été rajouté(e)s
+ils (elles) auront été rajouté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rajouté(e)
+j'aurais été rajouté(e)
+il (elle) aurait été rajouté(e)
+nous aurions été rajouté(e)s
+vous auriez été rajouté(e)s
+ils (elles) auraient été rajouté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rajouté(e)
+que tu aies été rajouté(e)
+qu’il (elle) ait été rajouté(e)
+que nous ayons été rajouté(e)s
+que vous ayez été rajouté(e)s
+qu’ils (elles) aient été rajouté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rajouté(e)
+que tu eusses été rajouté(e)
+qu’il (elle) eût été rajouté(e)
+que nous eussions été rajouté(e)s
+que vous eussiez été rajouté(e)s
+qu’ils (elles) eussent été rajouté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rajouté(e)
+ayons été rajouté(e)s
+ayez été rajouté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rajouté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rajouté(e)(s)

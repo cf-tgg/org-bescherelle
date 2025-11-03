@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe deviner
+
+* INDICATIF
+
+** Présent
+
+je devine
+tu devines
+il (elle) devine
+nous devinons
+vous devinez
+ils (elles) devinent
+
+** Imparfait
+
+je devinais
+tu devinais
+il (elle) devinait
+nous devinions
+vous deviniez
+ils (elles) devinaient
+
+** Passé simple
+
+je devinai
+tu devinas
+il (elle) devina
+nous devinâmes
+vous devinâtes
+ils (elles) devinèrent
+
+** Futur simple
+
+je devinerai
+tu devineras
+il (elle) devinera
+nous devinerons
+vous devinerez
+ils (elles) devineront
+
+* CONDITIONNEL
+
+** Présent
+
+je devinerais
+tu devinerais
+il (elle) devinerait
+nous devinerions
+vous devineriez
+ils (elles) devineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je devine
+que tu devines
+qu’il (elle) devine
+que nous devinions
+que vous deviniez
+qu’ils (elles) devinent
+
+** Imparfait
+
+que je devinasse
+que tu devinasses
+qu’il (elle) devinât
+que nous devinassions
+que vous devinassiez
+qu’ils (elles) devinassent
+
+* IMPÉRATIF
+
+** Présent
+
+devine
+devinons
+devinez
+
+* INFINITIF
+
+** Présent
+
+deviner
+
+* PARTICIPE
+
+** Présent
+
+devinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai deviné
+tu as deviné
+il (elle) a deviné
+nous avons deviné
+vous avez deviné
+ils (elles) ont deviné
+
+** Plus-que-parfait
+
+j'avais deviné
+tu avais deviné
+il (elle) avait deviné
+nous avions deviné
+vous aviez deviné
+ils (elles) avaient deviné
+
+** Passé antérieur
+
+j'eus deviné
+tu eus deviné
+il (elle) eut deviné
+nous eûmes deviné
+vous eûtes deviné
+ils (elles) eurent deviné
+
+** Futur antérieur
+
+j'aurai deviné
+tu auras deviné
+il (elle) aura deviné
+nous aurons deviné
+vous aurez deviné
+ils (elles) auront deviné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais deviné
+tu aurais deviné
+il (elle) aurait deviné
+nous aurions deviné
+vous auriez deviné
+ils (elles) auraient deviné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie deviné
+que tu aies deviné
+qu’il (elle) ait deviné
+que nous ayons deviné
+que vous ayez deviné
+qu’ils (elles) aient deviné
+
+** Plus-que-parfait
+
+que j'eusse deviné
+que tu eusses deviné
+qu’il (elle) eût deviné
+que nous eussions deviné
+que vous eussiez deviné
+qu’ils (elles) eussent deviné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons deviné
+ayez deviné
+
+* INFINITIF
+
+** Passé
+
+avoir deviné
+
+* PARTICIPE
+
+** Passé
+
+ayant deviné
+deviné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis deviné(e)
+tu es deviné(e)
+il (elle) est deviné(e)
+nous sommes deviné(e)s
+vous êtes deviné(e)s
+ils (elles) sont deviné(e)s
+
+** Imparfait
+
+j'étais deviné(e)
+tu étais deviné(e)
+il (elle) était deviné(e)
+nous étions deviné(e)s
+vous étiez deviné(e)s
+ils (elles) étaient deviné(e)s
+
+** Passé simple
+
+je fus deviné(e)
+tu fus deviné(e)
+il (elle) fut deviné(e)
+nous fûmes deviné(e)s
+vous fûtes deviné(e)s
+ils (elles) furent deviné(e)s
+
+** Futur simple
+
+je serai deviné(e)
+tu seras deviné(e)
+il (elle) sera deviné(e)
+nous serons deviné(e)s
+vous serez deviné(e)s
+ils (elles) seront deviné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais deviné(e)
+tu serais deviné(e)
+il (elle) serait deviné(e)
+nous serions deviné(e)s
+vous seriez deviné(e)s
+ils (elles) seraient deviné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois deviné(e)
+que tu sois deviné(e)
+qu’il (elle) soit deviné(e)
+que nous soyons deviné(e)s
+que vous soyez deviné(e)s
+qu’ils (elles) soient deviné(e)s
+
+** Imparfait
+
+que je fusse deviné(e)
+que tu fusses deviné(e)
+qu’il (elle) fût deviné(e)
+que nous fussions deviné(e)s
+que vous fussiez deviné(e)s
+qu’ils (elles) fussent deviné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons deviné(e)s
+soyez deviné(e)s
+
+* INFINITIF
+
+** Présent
+
+être deviné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant deviné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été deviné(e)
+tu as été deviné(e)
+il (elle) a été deviné(e)
+nous avons été deviné(e)s
+vous avez été deviné(e)s
+ils (elles) ont été deviné(e)s
+
+** Plus-que-parfait
+
+j'avais été deviné(e)
+il (elle) avait été deviné(e)
+nous avions été deviné(e)s
+ils (elles) avaient été deviné(e)s
+
+** Passé antérieur
+
+j'eus été deviné(e)
+tu eus été deviné(e)
+il (elle) eut été deviné(e)
+nous eûmes été deviné(e)s
+vous eûtes été deviné(e)s
+ils (elles) eurent été deviné(e)s
+
+** Futur antérieur
+
+j'aurai été deviné(e)
+tu auras été deviné(e)
+il (elle) aura été deviné(e)
+nous aurons été deviné(e)s
+vous aurez été deviné(e)s
+ils (elles) auront été deviné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été deviné(e)
+j'aurais été deviné(e)
+il (elle) aurait été deviné(e)
+nous aurions été deviné(e)s
+vous auriez été deviné(e)s
+ils (elles) auraient été deviné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été deviné(e)
+que tu aies été deviné(e)
+qu’il (elle) ait été deviné(e)
+que nous ayons été deviné(e)s
+que vous ayez été deviné(e)s
+qu’ils (elles) aient été deviné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été deviné(e)
+que tu eusses été deviné(e)
+qu’il (elle) eût été deviné(e)
+que nous eussions été deviné(e)s
+que vous eussiez été deviné(e)s
+qu’ils (elles) eussent été deviné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été deviné(e)
+ayons été deviné(e)s
+ayez été deviné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été deviné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été deviné(e)(s)

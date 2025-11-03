@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe user
+
+* INDICATIF
+
+** Présent
+
+j'use
+tu uses
+il (elle) use
+nous usons
+vous usez
+ils (elles) usent
+
+** Imparfait
+
+j'usais
+tu usais
+il (elle) usait
+nous usions
+vous usiez
+ils (elles) usaient
+
+** Passé simple
+
+j'usai
+tu usas
+il (elle) usa
+nous usâmes
+vous usâtes
+ils (elles) usèrent
+
+** Futur simple
+
+j'userai
+tu useras
+il (elle) usera
+nous userons
+vous userez
+ils (elles) useront
+
+* CONDITIONNEL
+
+** Présent
+
+j'userais
+tu userais
+il (elle) userait
+nous userions
+vous useriez
+ils (elles) useraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'use
+que tu uses
+qu’il (elle) use
+que nous usions
+que vous usiez
+qu’ils (elles) usent
+
+** Imparfait
+
+que j'usasse
+que tu usasses
+qu’il (elle) usât
+que nous usassions
+que vous usassiez
+qu’ils (elles) usassent
+
+* IMPÉRATIF
+
+** Présent
+
+use
+usons
+usez
+
+* INFINITIF
+
+** Présent
+
+user
+
+* PARTICIPE
+
+** Présent
+
+usant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai usé
+tu as usé
+il (elle) a usé
+nous avons usé
+vous avez usé
+ils (elles) ont usé
+
+** Plus-que-parfait
+
+j'avais usé
+tu avais usé
+il (elle) avait usé
+nous avions usé
+vous aviez usé
+ils (elles) avaient usé
+
+** Passé antérieur
+
+j'eus usé
+tu eus usé
+il (elle) eut usé
+nous eûmes usé
+vous eûtes usé
+ils (elles) eurent usé
+
+** Futur antérieur
+
+j'aurai usé
+tu auras usé
+il (elle) aura usé
+nous aurons usé
+vous aurez usé
+ils (elles) auront usé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais usé
+tu aurais usé
+il (elle) aurait usé
+nous aurions usé
+vous auriez usé
+ils (elles) auraient usé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie usé
+que tu aies usé
+qu’il (elle) ait usé
+que nous ayons usé
+que vous ayez usé
+qu’ils (elles) aient usé
+
+** Plus-que-parfait
+
+que j'eusse usé
+que tu eusses usé
+qu’il (elle) eût usé
+que nous eussions usé
+que vous eussiez usé
+qu’ils (elles) eussent usé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons usé
+ayez usé
+
+* INFINITIF
+
+** Passé
+
+avoir usé
+
+* PARTICIPE
+
+** Passé
+
+ayant usé
+usé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis usé(e)
+tu es usé(e)
+il (elle) est usé(e)
+nous sommes usé(e)s
+vous êtes usé(e)s
+ils (elles) sont usé(e)s
+
+** Imparfait
+
+j'étais usé(e)
+tu étais usé(e)
+il (elle) était usé(e)
+nous étions usé(e)s
+vous étiez usé(e)s
+ils (elles) étaient usé(e)s
+
+** Passé simple
+
+je fus usé(e)
+tu fus usé(e)
+il (elle) fut usé(e)
+nous fûmes usé(e)s
+vous fûtes usé(e)s
+ils (elles) furent usé(e)s
+
+** Futur simple
+
+je serai usé(e)
+tu seras usé(e)
+il (elle) sera usé(e)
+nous serons usé(e)s
+vous serez usé(e)s
+ils (elles) seront usé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais usé(e)
+tu serais usé(e)
+il (elle) serait usé(e)
+nous serions usé(e)s
+vous seriez usé(e)s
+ils (elles) seraient usé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois usé(e)
+que tu sois usé(e)
+qu’il (elle) soit usé(e)
+que nous soyons usé(e)s
+que vous soyez usé(e)s
+qu’ils (elles) soient usé(e)s
+
+** Imparfait
+
+que je fusse usé(e)
+que tu fusses usé(e)
+qu’il (elle) fût usé(e)
+que nous fussions usé(e)s
+que vous fussiez usé(e)s
+qu’ils (elles) fussent usé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons usé(e)s
+soyez usé(e)s
+
+* INFINITIF
+
+** Présent
+
+être usé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant usé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été usé(e)
+tu as été usé(e)
+il (elle) a été usé(e)
+nous avons été usé(e)s
+vous avez été usé(e)s
+ils (elles) ont été usé(e)s
+
+** Plus-que-parfait
+
+j'avais été usé(e)
+il (elle) avait été usé(e)
+nous avions été usé(e)s
+ils (elles) avaient été usé(e)s
+
+** Passé antérieur
+
+j'eus été usé(e)
+tu eus été usé(e)
+il (elle) eut été usé(e)
+nous eûmes été usé(e)s
+vous eûtes été usé(e)s
+ils (elles) eurent été usé(e)s
+
+** Futur antérieur
+
+j'aurai été usé(e)
+tu auras été usé(e)
+il (elle) aura été usé(e)
+nous aurons été usé(e)s
+vous aurez été usé(e)s
+ils (elles) auront été usé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été usé(e)
+j'aurais été usé(e)
+il (elle) aurait été usé(e)
+nous aurions été usé(e)s
+vous auriez été usé(e)s
+ils (elles) auraient été usé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été usé(e)
+que tu aies été usé(e)
+qu’il (elle) ait été usé(e)
+que nous ayons été usé(e)s
+que vous ayez été usé(e)s
+qu’ils (elles) aient été usé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été usé(e)
+que tu eusses été usé(e)
+qu’il (elle) eût été usé(e)
+que nous eussions été usé(e)s
+que vous eussiez été usé(e)s
+qu’ils (elles) eussent été usé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été usé(e)
+ayons été usé(e)s
+ayez été usé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été usé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été usé(e)(s)

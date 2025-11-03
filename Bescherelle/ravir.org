@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ravir
+
+* INDICATIF
+
+** Présent
+
+je ravis
+tu ravis
+il (elle) ravit
+nous ravissons
+vous ravissez
+ils (elles) ravissent
+
+** Imparfait
+
+je ravissais
+tu ravissais
+il (elle) ravissait
+nous ravissions
+vous ravissiez
+ils (elles) ravissaient
+
+** Passé simple
+
+je ravis
+tu ravis
+il (elle) ravit
+nous ravîmes
+vous ravîtes
+ils (elles) ravirent
+
+** Futur simple
+
+je ravirai
+tu raviras
+il (elle) ravira
+nous ravirons
+vous ravirez
+ils (elles) raviront
+
+* CONDITIONNEL
+
+** Présent
+
+je ravirais
+tu ravirais
+il (elle) ravirait
+nous ravirions
+vous raviriez
+ils (elles) raviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ravisse
+que tu ravisses
+qu’il (elle) ravisse
+que nous ravissions
+que vous ravissiez
+qu’ils (elles) ravissent
+
+** Imparfait
+
+que je ravisse
+que tu ravisses
+qu’il (elle) ravît
+que nous ravissions
+que vous ravissiez
+qu’ils (elles) ravissent
+
+* IMPÉRATIF
+
+** Présent
+
+ravis
+ravissons
+ravissez
+
+* INFINITIF
+
+** Présent
+
+ravir
+
+* PARTICIPE
+
+** Présent
+
+ravissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ravi
+tu as ravi
+il (elle) a ravi
+nous avons ravi
+vous avez ravi
+ils (elles) ont ravi
+
+** Plus-que-parfait
+
+j'avais ravi
+tu avais ravi
+il (elle) avait ravi
+nous avions ravi
+vous aviez ravi
+ils (elles) avaient ravi
+
+** Passé antérieur
+
+j'eus ravi
+tu eus ravi
+il (elle) eut ravi
+nous eûmes ravi
+vous eûtes ravi
+ils (elles) eurent ravi
+
+** Futur antérieur
+
+j'aurai ravi
+tu auras ravi
+il (elle) aura ravi
+nous aurons ravi
+vous aurez ravi
+ils (elles) auront ravi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ravi
+tu aurais ravi
+il (elle) aurait ravi
+nous aurions ravi
+vous auriez ravi
+ils (elles) auraient ravi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ravi
+que tu aies ravi
+qu’il (elle) ait ravi
+que nous ayons ravi
+que vous ayez ravi
+qu’ils (elles) aient ravi
+
+** Plus-que-parfait
+
+que j'eusse ravi
+que tu eusses ravi
+qu’il (elle) eût ravi
+que nous eussions ravi
+que vous eussiez ravi
+qu’ils (elles) eussent ravi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ravi
+ayez ravi
+
+* INFINITIF
+
+** Passé
+
+avoir ravi
+
+* PARTICIPE
+
+** Passé
+
+ayant ravi
+ravi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis ravi(e)
+tu es ravi(e)
+il (elle) est ravi(e)
+nous sommes ravi(e)s
+vous êtes ravi(e)s
+ils (elles) sont ravi(e)s
+
+** Imparfait
+
+j'étais ravi(e)
+tu étais ravi(e)
+il (elle) était ravi(e)
+nous étions ravi(e)s
+vous étiez ravi(e)s
+ils (elles) étaient ravi(e)s
+
+** Passé simple
+
+je fus ravi(e)
+tu fus ravi(e)
+il (elle) fut ravi(e)
+nous fûmes ravi(e)s
+vous fûtes ravi(e)s
+ils (elles) furent ravi(e)s
+
+** Futur simple
+
+je serai ravi(e)
+tu seras ravi(e)
+il (elle) sera ravi(e)
+nous serons ravi(e)s
+vous serez ravi(e)s
+ils (elles) seront ravi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ravi(e)
+tu serais ravi(e)
+il (elle) serait ravi(e)
+nous serions ravi(e)s
+vous seriez ravi(e)s
+ils (elles) seraient ravi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ravi(e)
+que tu sois ravi(e)
+qu’il (elle) soit ravi(e)
+que nous soyons ravi(e)s
+que vous soyez ravi(e)s
+qu’ils (elles) soient ravi(e)s
+
+** Imparfait
+
+que je fusse ravi(e)
+que tu fusses ravi(e)
+qu’il (elle) fût ravi(e)
+que nous fussions ravi(e)s
+que vous fussiez ravi(e)s
+qu’ils (elles) fussent ravi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ravi(e)s
+soyez ravi(e)s
+
+* INFINITIF
+
+** Présent
+
+être ravi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ravi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ravi(e)
+tu as été ravi(e)
+il (elle) a été ravi(e)
+nous avons été ravi(e)s
+vous avez été ravi(e)s
+ils (elles) ont été ravi(e)s
+
+** Plus-que-parfait
+
+j'avais été ravi(e)
+il (elle) avait été ravi(e)
+nous avions été ravi(e)s
+ils (elles) avaient été ravi(e)s
+
+** Passé antérieur
+
+j'eus été ravi(e)
+tu eus été ravi(e)
+il (elle) eut été ravi(e)
+nous eûmes été ravi(e)s
+vous eûtes été ravi(e)s
+ils (elles) eurent été ravi(e)s
+
+** Futur antérieur
+
+j'aurai été ravi(e)
+tu auras été ravi(e)
+il (elle) aura été ravi(e)
+nous aurons été ravi(e)s
+vous aurez été ravi(e)s
+ils (elles) auront été ravi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ravi(e)
+j'aurais été ravi(e)
+il (elle) aurait été ravi(e)
+nous aurions été ravi(e)s
+vous auriez été ravi(e)s
+ils (elles) auraient été ravi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ravi(e)
+que tu aies été ravi(e)
+qu’il (elle) ait été ravi(e)
+que nous ayons été ravi(e)s
+que vous ayez été ravi(e)s
+qu’ils (elles) aient été ravi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ravi(e)
+que tu eusses été ravi(e)
+qu’il (elle) eût été ravi(e)
+que nous eussions été ravi(e)s
+que vous eussiez été ravi(e)s
+qu’ils (elles) eussent été ravi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ravi(e)
+ayons été ravi(e)s
+ayez été ravi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ravi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ravi(e)(s)

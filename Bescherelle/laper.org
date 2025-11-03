@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe laper
+
+* INDICATIF
+
+** Présent
+
+je lape
+tu lapes
+il (elle) lape
+nous lapons
+vous lapez
+ils (elles) lapent
+
+** Imparfait
+
+je lapais
+tu lapais
+il (elle) lapait
+nous lapions
+vous lapiez
+ils (elles) lapaient
+
+** Passé simple
+
+je lapai
+tu lapas
+il (elle) lapa
+nous lapâmes
+vous lapâtes
+ils (elles) lapèrent
+
+** Futur simple
+
+je laperai
+tu laperas
+il (elle) lapera
+nous laperons
+vous laperez
+ils (elles) laperont
+
+* CONDITIONNEL
+
+** Présent
+
+je laperais
+tu laperais
+il (elle) laperait
+nous laperions
+vous laperiez
+ils (elles) laperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lape
+que tu lapes
+qu’il (elle) lape
+que nous lapions
+que vous lapiez
+qu’ils (elles) lapent
+
+** Imparfait
+
+que je lapasse
+que tu lapasses
+qu’il (elle) lapât
+que nous lapassions
+que vous lapassiez
+qu’ils (elles) lapassent
+
+* IMPÉRATIF
+
+** Présent
+
+lape
+lapons
+lapez
+
+* INFINITIF
+
+** Présent
+
+laper
+
+* PARTICIPE
+
+** Présent
+
+lapant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lapé
+tu as lapé
+il (elle) a lapé
+nous avons lapé
+vous avez lapé
+ils (elles) ont lapé
+
+** Plus-que-parfait
+
+j'avais lapé
+tu avais lapé
+il (elle) avait lapé
+nous avions lapé
+vous aviez lapé
+ils (elles) avaient lapé
+
+** Passé antérieur
+
+j'eus lapé
+tu eus lapé
+il (elle) eut lapé
+nous eûmes lapé
+vous eûtes lapé
+ils (elles) eurent lapé
+
+** Futur antérieur
+
+j'aurai lapé
+tu auras lapé
+il (elle) aura lapé
+nous aurons lapé
+vous aurez lapé
+ils (elles) auront lapé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lapé
+tu aurais lapé
+il (elle) aurait lapé
+nous aurions lapé
+vous auriez lapé
+ils (elles) auraient lapé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lapé
+que tu aies lapé
+qu’il (elle) ait lapé
+que nous ayons lapé
+que vous ayez lapé
+qu’ils (elles) aient lapé
+
+** Plus-que-parfait
+
+que j'eusse lapé
+que tu eusses lapé
+qu’il (elle) eût lapé
+que nous eussions lapé
+que vous eussiez lapé
+qu’ils (elles) eussent lapé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lapé
+ayez lapé
+
+* INFINITIF
+
+** Passé
+
+avoir lapé
+
+* PARTICIPE
+
+** Passé
+
+ayant lapé
+lapé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lapé(e)
+tu es lapé(e)
+il (elle) est lapé(e)
+nous sommes lapé(e)s
+vous êtes lapé(e)s
+ils (elles) sont lapé(e)s
+
+** Imparfait
+
+j'étais lapé(e)
+tu étais lapé(e)
+il (elle) était lapé(e)
+nous étions lapé(e)s
+vous étiez lapé(e)s
+ils (elles) étaient lapé(e)s
+
+** Passé simple
+
+je fus lapé(e)
+tu fus lapé(e)
+il (elle) fut lapé(e)
+nous fûmes lapé(e)s
+vous fûtes lapé(e)s
+ils (elles) furent lapé(e)s
+
+** Futur simple
+
+je serai lapé(e)
+tu seras lapé(e)
+il (elle) sera lapé(e)
+nous serons lapé(e)s
+vous serez lapé(e)s
+ils (elles) seront lapé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lapé(e)
+tu serais lapé(e)
+il (elle) serait lapé(e)
+nous serions lapé(e)s
+vous seriez lapé(e)s
+ils (elles) seraient lapé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lapé(e)
+que tu sois lapé(e)
+qu’il (elle) soit lapé(e)
+que nous soyons lapé(e)s
+que vous soyez lapé(e)s
+qu’ils (elles) soient lapé(e)s
+
+** Imparfait
+
+que je fusse lapé(e)
+que tu fusses lapé(e)
+qu’il (elle) fût lapé(e)
+que nous fussions lapé(e)s
+que vous fussiez lapé(e)s
+qu’ils (elles) fussent lapé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lapé(e)s
+soyez lapé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lapé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lapé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lapé(e)
+tu as été lapé(e)
+il (elle) a été lapé(e)
+nous avons été lapé(e)s
+vous avez été lapé(e)s
+ils (elles) ont été lapé(e)s
+
+** Plus-que-parfait
+
+j'avais été lapé(e)
+il (elle) avait été lapé(e)
+nous avions été lapé(e)s
+ils (elles) avaient été lapé(e)s
+
+** Passé antérieur
+
+j'eus été lapé(e)
+tu eus été lapé(e)
+il (elle) eut été lapé(e)
+nous eûmes été lapé(e)s
+vous eûtes été lapé(e)s
+ils (elles) eurent été lapé(e)s
+
+** Futur antérieur
+
+j'aurai été lapé(e)
+tu auras été lapé(e)
+il (elle) aura été lapé(e)
+nous aurons été lapé(e)s
+vous aurez été lapé(e)s
+ils (elles) auront été lapé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lapé(e)
+j'aurais été lapé(e)
+il (elle) aurait été lapé(e)
+nous aurions été lapé(e)s
+vous auriez été lapé(e)s
+ils (elles) auraient été lapé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lapé(e)
+que tu aies été lapé(e)
+qu’il (elle) ait été lapé(e)
+que nous ayons été lapé(e)s
+que vous ayez été lapé(e)s
+qu’ils (elles) aient été lapé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lapé(e)
+que tu eusses été lapé(e)
+qu’il (elle) eût été lapé(e)
+que nous eussions été lapé(e)s
+que vous eussiez été lapé(e)s
+qu’ils (elles) eussent été lapé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lapé(e)
+ayons été lapé(e)s
+ayez été lapé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lapé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lapé(e)(s)

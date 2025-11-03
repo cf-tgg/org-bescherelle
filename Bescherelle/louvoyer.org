@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe louvoyer
+
+* INDICATIF
+
+** Présent
+
+je louvoie
+tu louvoies
+il (elle) louvoie
+nous louvoyons
+vous louvoyez
+ils (elles) louvoient
+
+** Imparfait
+
+je louvoyais
+tu louvoyais
+il (elle) louvoyait
+nous louvoyions
+vous louvoyiez
+ils (elles) louvoyaient
+
+** Passé simple
+
+je louvoyai
+tu louvoyas
+il (elle) louvoya
+nous louvoyâmes
+vous louvoyâtes
+ils (elles) louvoyèrent
+
+** Futur simple
+
+je louvoierai
+tu louvoieras
+il (elle) louvoiera
+nous louvoierons
+vous louvoierez
+ils (elles) louvoieront
+
+* CONDITIONNEL
+
+** Présent
+
+je louvoierais
+tu louvoierais
+il (elle) louvoierait
+nous louvoierions
+vous louvoieriez
+ils (elles) louvoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je louvoie
+que tu louvoies
+qu’il (elle) louvoie
+que nous louvoyions
+que vous louvoyiez
+qu’ils (elles) louvoient
+
+** Imparfait
+
+que je louvoyasse
+que tu louvoyasses
+qu’il (elle) louvoyât
+que nous louvoyassions
+que vous louvoyassiez
+qu’ils (elles) louvoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+louvoie
+louvoyons
+louvoyez
+
+* INFINITIF
+
+** Présent
+
+louvoyer
+
+* PARTICIPE
+
+** Présent
+
+louvoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai louvoyé
+tu as louvoyé
+il (elle) a louvoyé
+nous avons louvoyé
+vous avez louvoyé
+ils (elles) ont louvoyé
+
+** Plus-que-parfait
+
+j'avais louvoyé
+tu avais louvoyé
+il (elle) avait louvoyé
+nous avions louvoyé
+vous aviez louvoyé
+ils (elles) avaient louvoyé
+
+** Passé antérieur
+
+j'eus louvoyé
+tu eus louvoyé
+il (elle) eut louvoyé
+nous eûmes louvoyé
+vous eûtes louvoyé
+ils (elles) eurent louvoyé
+
+** Futur antérieur
+
+j'aurai louvoyé
+tu auras louvoyé
+il (elle) aura louvoyé
+nous aurons louvoyé
+vous aurez louvoyé
+ils (elles) auront louvoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais louvoyé
+tu aurais louvoyé
+il (elle) aurait louvoyé
+nous aurions louvoyé
+vous auriez louvoyé
+ils (elles) auraient louvoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie louvoyé
+que tu aies louvoyé
+qu’il (elle) ait louvoyé
+que nous ayons louvoyé
+que vous ayez louvoyé
+qu’ils (elles) aient louvoyé
+
+** Plus-que-parfait
+
+que j'eusse louvoyé
+que tu eusses louvoyé
+qu’il (elle) eût louvoyé
+que nous eussions louvoyé
+que vous eussiez louvoyé
+qu’ils (elles) eussent louvoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons louvoyé
+ayez louvoyé
+
+* INFINITIF
+
+** Passé
+
+avoir louvoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant louvoyé
+louvoyé (invar.)

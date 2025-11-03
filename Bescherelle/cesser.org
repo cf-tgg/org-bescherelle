@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cesser
+
+* INDICATIF
+
+** Présent
+
+je cesse
+tu cesses
+il (elle) cesse
+nous cessons
+vous cessez
+ils (elles) cessent
+
+** Imparfait
+
+je cessais
+tu cessais
+il (elle) cessait
+nous cessions
+vous cessiez
+ils (elles) cessaient
+
+** Passé simple
+
+je cessai
+tu cessas
+il (elle) cessa
+nous cessâmes
+vous cessâtes
+ils (elles) cessèrent
+
+** Futur simple
+
+je cesserai
+tu cesseras
+il (elle) cessera
+nous cesserons
+vous cesserez
+ils (elles) cesseront
+
+* CONDITIONNEL
+
+** Présent
+
+je cesserais
+tu cesserais
+il (elle) cesserait
+nous cesserions
+vous cesseriez
+ils (elles) cesseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cesse
+que tu cesses
+qu’il (elle) cesse
+que nous cessions
+que vous cessiez
+qu’ils (elles) cessent
+
+** Imparfait
+
+que je cessasse
+que tu cessasses
+qu’il (elle) cessât
+que nous cessassions
+que vous cessassiez
+qu’ils (elles) cessassent
+
+* IMPÉRATIF
+
+** Présent
+
+cesse
+cessons
+cessez
+
+* INFINITIF
+
+** Présent
+
+cesser
+
+* PARTICIPE
+
+** Présent
+
+cessant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cessé
+tu as cessé
+il (elle) a cessé
+nous avons cessé
+vous avez cessé
+ils (elles) ont cessé
+
+** Plus-que-parfait
+
+j'avais cessé
+tu avais cessé
+il (elle) avait cessé
+nous avions cessé
+vous aviez cessé
+ils (elles) avaient cessé
+
+** Passé antérieur
+
+j'eus cessé
+tu eus cessé
+il (elle) eut cessé
+nous eûmes cessé
+vous eûtes cessé
+ils (elles) eurent cessé
+
+** Futur antérieur
+
+j'aurai cessé
+tu auras cessé
+il (elle) aura cessé
+nous aurons cessé
+vous aurez cessé
+ils (elles) auront cessé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cessé
+tu aurais cessé
+il (elle) aurait cessé
+nous aurions cessé
+vous auriez cessé
+ils (elles) auraient cessé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cessé
+que tu aies cessé
+qu’il (elle) ait cessé
+que nous ayons cessé
+que vous ayez cessé
+qu’ils (elles) aient cessé
+
+** Plus-que-parfait
+
+que j'eusse cessé
+que tu eusses cessé
+qu’il (elle) eût cessé
+que nous eussions cessé
+que vous eussiez cessé
+qu’ils (elles) eussent cessé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cessé
+ayez cessé
+
+* INFINITIF
+
+** Passé
+
+avoir cessé
+
+* PARTICIPE
+
+** Passé
+
+ayant cessé
+cessé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cessé(e)
+tu es cessé(e)
+il (elle) est cessé(e)
+nous sommes cessé(e)s
+vous êtes cessé(e)s
+ils (elles) sont cessé(e)s
+
+** Imparfait
+
+j'étais cessé(e)
+tu étais cessé(e)
+il (elle) était cessé(e)
+nous étions cessé(e)s
+vous étiez cessé(e)s
+ils (elles) étaient cessé(e)s
+
+** Passé simple
+
+je fus cessé(e)
+tu fus cessé(e)
+il (elle) fut cessé(e)
+nous fûmes cessé(e)s
+vous fûtes cessé(e)s
+ils (elles) furent cessé(e)s
+
+** Futur simple
+
+je serai cessé(e)
+tu seras cessé(e)
+il (elle) sera cessé(e)
+nous serons cessé(e)s
+vous serez cessé(e)s
+ils (elles) seront cessé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cessé(e)
+tu serais cessé(e)
+il (elle) serait cessé(e)
+nous serions cessé(e)s
+vous seriez cessé(e)s
+ils (elles) seraient cessé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cessé(e)
+que tu sois cessé(e)
+qu’il (elle) soit cessé(e)
+que nous soyons cessé(e)s
+que vous soyez cessé(e)s
+qu’ils (elles) soient cessé(e)s
+
+** Imparfait
+
+que je fusse cessé(e)
+que tu fusses cessé(e)
+qu’il (elle) fût cessé(e)
+que nous fussions cessé(e)s
+que vous fussiez cessé(e)s
+qu’ils (elles) fussent cessé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cessé(e)s
+soyez cessé(e)s
+
+* INFINITIF
+
+** Présent
+
+être cessé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cessé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cessé(e)
+tu as été cessé(e)
+il (elle) a été cessé(e)
+nous avons été cessé(e)s
+vous avez été cessé(e)s
+ils (elles) ont été cessé(e)s
+
+** Plus-que-parfait
+
+j'avais été cessé(e)
+il (elle) avait été cessé(e)
+nous avions été cessé(e)s
+ils (elles) avaient été cessé(e)s
+
+** Passé antérieur
+
+j'eus été cessé(e)
+tu eus été cessé(e)
+il (elle) eut été cessé(e)
+nous eûmes été cessé(e)s
+vous eûtes été cessé(e)s
+ils (elles) eurent été cessé(e)s
+
+** Futur antérieur
+
+j'aurai été cessé(e)
+tu auras été cessé(e)
+il (elle) aura été cessé(e)
+nous aurons été cessé(e)s
+vous aurez été cessé(e)s
+ils (elles) auront été cessé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cessé(e)
+j'aurais été cessé(e)
+il (elle) aurait été cessé(e)
+nous aurions été cessé(e)s
+vous auriez été cessé(e)s
+ils (elles) auraient été cessé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cessé(e)
+que tu aies été cessé(e)
+qu’il (elle) ait été cessé(e)
+que nous ayons été cessé(e)s
+que vous ayez été cessé(e)s
+qu’ils (elles) aient été cessé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cessé(e)
+que tu eusses été cessé(e)
+qu’il (elle) eût été cessé(e)
+que nous eussions été cessé(e)s
+que vous eussiez été cessé(e)s
+qu’ils (elles) eussent été cessé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cessé(e)
+ayons été cessé(e)s
+ayez été cessé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cessé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cessé(e)(s)

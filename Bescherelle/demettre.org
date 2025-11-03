@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe demettre
+
+* INDICATIF
+
+** Présent
+
+je démets
+tu démets
+il (elle) démet
+nous démettons
+vous démettez
+ils (elles) démettent
+
+** Imparfait
+
+je démettais
+tu démettais
+il (elle) démettait
+nous démettions
+vous démettiez
+ils (elles) démettaient
+
+** Passé simple
+
+je démis
+tu démis
+il (elle) démit
+nous démîmes
+vous démîtes
+ils (elles) démirent
+
+** Futur simple
+
+je démettrai
+tu démettras
+il (elle) démettra
+nous démettrons
+vous démettrez
+ils (elles) démettront
+
+* CONDITIONNEL
+
+** Présent
+
+je démettrais
+tu démettrais
+il (elle) démettrait
+nous démettrions
+vous démettriez
+ils (elles) démettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je démette
+que tu démettes
+qu’il (elle) démette
+que nous démettions
+que vous démettiez
+qu’ils (elles) démettent
+
+** Imparfait
+
+que je démisse
+que tu démisses
+qu’il (elle) démît
+que nous démissions
+que vous démissiez
+qu’ils (elles) démissent
+
+* IMPÉRATIF
+
+** Présent
+
+démets
+démettons
+démettez
+
+* INFINITIF
+
+** Présent
+
+démettre
+
+* PARTICIPE
+
+** Présent
+
+démettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai démis
+tu as démis
+il (elle) a démis
+nous avons démis
+vous avez démis
+ils (elles) ont démis
+
+** Plus-que-parfait
+
+j'avais démis
+tu avais démis
+il (elle) avait démis
+nous avions démis
+vous aviez démis
+ils (elles) avaient démis
+
+** Passé antérieur
+
+j'eus démis
+tu eus démis
+il (elle) eut démis
+nous eûmes démis
+vous eûtes démis
+ils (elles) eurent démis
+
+** Futur antérieur
+
+j'aurai démis
+tu auras démis
+il (elle) aura démis
+nous aurons démis
+vous aurez démis
+ils (elles) auront démis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais démis
+tu aurais démis
+il (elle) aurait démis
+nous aurions démis
+vous auriez démis
+ils (elles) auraient démis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie démis
+que tu aies démis
+qu’il (elle) ait démis
+que nous ayons démis
+que vous ayez démis
+qu’ils (elles) aient démis
+
+** Plus-que-parfait
+
+que j'eusse démis
+que tu eusses démis
+qu’il (elle) eût démis
+que nous eussions démis
+que vous eussiez démis
+qu’ils (elles) eussent démis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons démis
+ayez démis
+
+* INFINITIF
+
+** Passé
+
+avoir démis
+
+* PARTICIPE
+
+** Passé
+
+ayant démis
+démis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis démis(e)
+tu es démis(e)
+il (elle) est démis(e)
+nous sommes démis(es)
+vous êtes démis(es)
+ils (elles) sont démis(es)
+
+** Imparfait
+
+j'étais démis(e)
+tu étais démis(e)
+il (elle) était démis(e)
+nous étions démis(es)
+vous étiez démis(es)
+ils (elles) étaient démis(es)
+
+** Passé simple
+
+je fus démis(e)
+tu fus démis(e)
+il (elle) fut démis(e)
+nous fûmes démis(es)
+vous fûtes démis(es)
+ils (elles) furent démis(es)
+
+** Futur simple
+
+je serai démis(e)
+tu seras démis(e)
+il (elle) sera démis(e)
+nous serons démis(es)
+vous serez démis(es)
+ils (elles) seront démis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais démis(e)
+tu serais démis(e)
+il (elle) serait démis(e)
+nous serions démis(es)
+vous seriez démis(es)
+ils (elles) seraient démis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois démis(e)
+que tu sois démis(e)
+qu’il (elle) soit démis(e)
+que nous soyons démis(es)
+que vous soyez démis(es)
+qu’ils (elles) soient démis(es)
+
+** Imparfait
+
+que je fusse démis(e)
+que tu fusses démis(e)
+qu’il (elle) fût démis(e)
+que nous fussions démis(es)
+que vous fussiez démis(es)
+qu’ils (elles) fussent démis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons démis(es)
+soyez démis(es)
+
+* INFINITIF
+
+** Présent
+
+être démis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant démis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été démis(e)
+tu as été démis(e)
+il (elle) a été démis(e)
+nous avons été démis(es)
+vous avez été démis(es)
+ils (elles) ont été démis(es)
+
+** Plus-que-parfait
+
+j'avais été démis(e)
+il (elle) avait été démis(e)
+nous avions été démis(es)
+ils (elles) avaient été démis(es)
+
+** Passé antérieur
+
+j'eus été démis(e)
+tu eus été démis(e)
+il (elle) eut été démis(e)
+nous eûmes été démis(es)
+vous eûtes été démis(es)
+ils (elles) eurent été démis(es)
+
+** Futur antérieur
+
+j'aurai été démis(e)
+tu auras été démis(e)
+il (elle) aura été démis(e)
+nous aurons été démis(es)
+vous aurez été démis(es)
+ils (elles) auront été démis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été démis(e)
+j'aurais été démis(e)
+il (elle) aurait été démis(e)
+nous aurions été démis(es)
+vous auriez été démis(es)
+ils (elles) auraient été démis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été démis(e)
+que tu aies été démis(e)
+qu’il (elle) ait été démis(e)
+que nous ayons été démis(es)
+que vous ayez été démis(es)
+qu’ils (elles) aient été démis(es)
+
+** Plus-que-parfait
+
+que j'eusse été démis(e)
+que tu eusses été démis(e)
+qu’il (elle) eût été démis(e)
+que nous eussions été démis(es)
+que vous eussiez été démis(es)
+qu’ils (elles) eussent été démis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été démis(e)
+ayons été démis(es)
+ayez été démis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été démis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été démis (s, se, s, ses)

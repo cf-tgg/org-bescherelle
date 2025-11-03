@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe recenser
+
+* INDICATIF
+
+** Présent
+
+je recense
+tu recenses
+il (elle) recense
+nous recensons
+vous recensez
+ils (elles) recensent
+
+** Imparfait
+
+je recensais
+tu recensais
+il (elle) recensait
+nous recensions
+vous recensiez
+ils (elles) recensaient
+
+** Passé simple
+
+je recensai
+tu recensas
+il (elle) recensa
+nous recensâmes
+vous recensâtes
+ils (elles) recensèrent
+
+** Futur simple
+
+je recenserai
+tu recenseras
+il (elle) recensera
+nous recenserons
+vous recenserez
+ils (elles) recenseront
+
+* CONDITIONNEL
+
+** Présent
+
+je recenserais
+tu recenserais
+il (elle) recenserait
+nous recenserions
+vous recenseriez
+ils (elles) recenseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recense
+que tu recenses
+qu’il (elle) recense
+que nous recensions
+que vous recensiez
+qu’ils (elles) recensent
+
+** Imparfait
+
+que je recensasse
+que tu recensasses
+qu’il (elle) recensât
+que nous recensassions
+que vous recensassiez
+qu’ils (elles) recensassent
+
+* IMPÉRATIF
+
+** Présent
+
+recense
+recensons
+recensez
+
+* INFINITIF
+
+** Présent
+
+recenser
+
+* PARTICIPE
+
+** Présent
+
+recensant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recensé
+tu as recensé
+il (elle) a recensé
+nous avons recensé
+vous avez recensé
+ils (elles) ont recensé
+
+** Plus-que-parfait
+
+j'avais recensé
+tu avais recensé
+il (elle) avait recensé
+nous avions recensé
+vous aviez recensé
+ils (elles) avaient recensé
+
+** Passé antérieur
+
+j'eus recensé
+tu eus recensé
+il (elle) eut recensé
+nous eûmes recensé
+vous eûtes recensé
+ils (elles) eurent recensé
+
+** Futur antérieur
+
+j'aurai recensé
+tu auras recensé
+il (elle) aura recensé
+nous aurons recensé
+vous aurez recensé
+ils (elles) auront recensé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recensé
+tu aurais recensé
+il (elle) aurait recensé
+nous aurions recensé
+vous auriez recensé
+ils (elles) auraient recensé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recensé
+que tu aies recensé
+qu’il (elle) ait recensé
+que nous ayons recensé
+que vous ayez recensé
+qu’ils (elles) aient recensé
+
+** Plus-que-parfait
+
+que j'eusse recensé
+que tu eusses recensé
+qu’il (elle) eût recensé
+que nous eussions recensé
+que vous eussiez recensé
+qu’ils (elles) eussent recensé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recensé
+ayez recensé
+
+* INFINITIF
+
+** Passé
+
+avoir recensé
+
+* PARTICIPE
+
+** Passé
+
+ayant recensé
+recensé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis recensé(e)
+tu es recensé(e)
+il (elle) est recensé(e)
+nous sommes recensé(e)s
+vous êtes recensé(e)s
+ils (elles) sont recensé(e)s
+
+** Imparfait
+
+j'étais recensé(e)
+tu étais recensé(e)
+il (elle) était recensé(e)
+nous étions recensé(e)s
+vous étiez recensé(e)s
+ils (elles) étaient recensé(e)s
+
+** Passé simple
+
+je fus recensé(e)
+tu fus recensé(e)
+il (elle) fut recensé(e)
+nous fûmes recensé(e)s
+vous fûtes recensé(e)s
+ils (elles) furent recensé(e)s
+
+** Futur simple
+
+je serai recensé(e)
+tu seras recensé(e)
+il (elle) sera recensé(e)
+nous serons recensé(e)s
+vous serez recensé(e)s
+ils (elles) seront recensé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recensé(e)
+tu serais recensé(e)
+il (elle) serait recensé(e)
+nous serions recensé(e)s
+vous seriez recensé(e)s
+ils (elles) seraient recensé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recensé(e)
+que tu sois recensé(e)
+qu’il (elle) soit recensé(e)
+que nous soyons recensé(e)s
+que vous soyez recensé(e)s
+qu’ils (elles) soient recensé(e)s
+
+** Imparfait
+
+que je fusse recensé(e)
+que tu fusses recensé(e)
+qu’il (elle) fût recensé(e)
+que nous fussions recensé(e)s
+que vous fussiez recensé(e)s
+qu’ils (elles) fussent recensé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recensé(e)s
+soyez recensé(e)s
+
+* INFINITIF
+
+** Présent
+
+être recensé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recensé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recensé(e)
+tu as été recensé(e)
+il (elle) a été recensé(e)
+nous avons été recensé(e)s
+vous avez été recensé(e)s
+ils (elles) ont été recensé(e)s
+
+** Plus-que-parfait
+
+j'avais été recensé(e)
+il (elle) avait été recensé(e)
+nous avions été recensé(e)s
+ils (elles) avaient été recensé(e)s
+
+** Passé antérieur
+
+j'eus été recensé(e)
+tu eus été recensé(e)
+il (elle) eut été recensé(e)
+nous eûmes été recensé(e)s
+vous eûtes été recensé(e)s
+ils (elles) eurent été recensé(e)s
+
+** Futur antérieur
+
+j'aurai été recensé(e)
+tu auras été recensé(e)
+il (elle) aura été recensé(e)
+nous aurons été recensé(e)s
+vous aurez été recensé(e)s
+ils (elles) auront été recensé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recensé(e)
+j'aurais été recensé(e)
+il (elle) aurait été recensé(e)
+nous aurions été recensé(e)s
+vous auriez été recensé(e)s
+ils (elles) auraient été recensé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recensé(e)
+que tu aies été recensé(e)
+qu’il (elle) ait été recensé(e)
+que nous ayons été recensé(e)s
+que vous ayez été recensé(e)s
+qu’ils (elles) aient été recensé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recensé(e)
+que tu eusses été recensé(e)
+qu’il (elle) eût été recensé(e)
+que nous eussions été recensé(e)s
+que vous eussiez été recensé(e)s
+qu’ils (elles) eussent été recensé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recensé(e)
+ayons été recensé(e)s
+ayez été recensé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recensé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recensé(e)(s)

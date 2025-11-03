@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe investir
+
+* INDICATIF
+
+** Présent
+
+j'investis
+tu investis
+il (elle) investit
+nous investissons
+vous investissez
+ils (elles) investissent
+
+** Imparfait
+
+j'investissais
+tu investissais
+il (elle) investissait
+nous investissions
+vous investissiez
+ils (elles) investissaient
+
+** Passé simple
+
+j'investis
+tu investis
+il (elle) investit
+nous investîmes
+vous investîtes
+ils (elles) investirent
+
+** Futur simple
+
+j'investirai
+tu investiras
+il (elle) investira
+nous investirons
+vous investirez
+ils (elles) investiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'investirais
+tu investirais
+il (elle) investirait
+nous investirions
+vous investiriez
+ils (elles) investiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'investisse
+que tu investisses
+qu’il (elle) investisse
+que nous investissions
+que vous investissiez
+qu’ils (elles) investissent
+
+** Imparfait
+
+que j'investisse
+que tu investisses
+qu’il (elle) investît
+que nous investissions
+que vous investissiez
+qu’ils (elles) investissent
+
+* IMPÉRATIF
+
+** Présent
+
+investis
+investissons
+investissez
+
+* INFINITIF
+
+** Présent
+
+investir
+
+* PARTICIPE
+
+** Présent
+
+investissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai investi
+tu as investi
+il (elle) a investi
+nous avons investi
+vous avez investi
+ils (elles) ont investi
+
+** Plus-que-parfait
+
+j'avais investi
+tu avais investi
+il (elle) avait investi
+nous avions investi
+vous aviez investi
+ils (elles) avaient investi
+
+** Passé antérieur
+
+j'eus investi
+tu eus investi
+il (elle) eut investi
+nous eûmes investi
+vous eûtes investi
+ils (elles) eurent investi
+
+** Futur antérieur
+
+j'aurai investi
+tu auras investi
+il (elle) aura investi
+nous aurons investi
+vous aurez investi
+ils (elles) auront investi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais investi
+tu aurais investi
+il (elle) aurait investi
+nous aurions investi
+vous auriez investi
+ils (elles) auraient investi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie investi
+que tu aies investi
+qu’il (elle) ait investi
+que nous ayons investi
+que vous ayez investi
+qu’ils (elles) aient investi
+
+** Plus-que-parfait
+
+que j'eusse investi
+que tu eusses investi
+qu’il (elle) eût investi
+que nous eussions investi
+que vous eussiez investi
+qu’ils (elles) eussent investi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons investi
+ayez investi
+
+* INFINITIF
+
+** Passé
+
+avoir investi
+
+* PARTICIPE
+
+** Passé
+
+ayant investi
+investi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis investi(e)
+tu es investi(e)
+il (elle) est investi(e)
+nous sommes investi(e)s
+vous êtes investi(e)s
+ils (elles) sont investi(e)s
+
+** Imparfait
+
+j'étais investi(e)
+tu étais investi(e)
+il (elle) était investi(e)
+nous étions investi(e)s
+vous étiez investi(e)s
+ils (elles) étaient investi(e)s
+
+** Passé simple
+
+je fus investi(e)
+tu fus investi(e)
+il (elle) fut investi(e)
+nous fûmes investi(e)s
+vous fûtes investi(e)s
+ils (elles) furent investi(e)s
+
+** Futur simple
+
+je serai investi(e)
+tu seras investi(e)
+il (elle) sera investi(e)
+nous serons investi(e)s
+vous serez investi(e)s
+ils (elles) seront investi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais investi(e)
+tu serais investi(e)
+il (elle) serait investi(e)
+nous serions investi(e)s
+vous seriez investi(e)s
+ils (elles) seraient investi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois investi(e)
+que tu sois investi(e)
+qu’il (elle) soit investi(e)
+que nous soyons investi(e)s
+que vous soyez investi(e)s
+qu’ils (elles) soient investi(e)s
+
+** Imparfait
+
+que je fusse investi(e)
+que tu fusses investi(e)
+qu’il (elle) fût investi(e)
+que nous fussions investi(e)s
+que vous fussiez investi(e)s
+qu’ils (elles) fussent investi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons investi(e)s
+soyez investi(e)s
+
+* INFINITIF
+
+** Présent
+
+être investi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant investi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été investi(e)
+tu as été investi(e)
+il (elle) a été investi(e)
+nous avons été investi(e)s
+vous avez été investi(e)s
+ils (elles) ont été investi(e)s
+
+** Plus-que-parfait
+
+j'avais été investi(e)
+il (elle) avait été investi(e)
+nous avions été investi(e)s
+ils (elles) avaient été investi(e)s
+
+** Passé antérieur
+
+j'eus été investi(e)
+tu eus été investi(e)
+il (elle) eut été investi(e)
+nous eûmes été investi(e)s
+vous eûtes été investi(e)s
+ils (elles) eurent été investi(e)s
+
+** Futur antérieur
+
+j'aurai été investi(e)
+tu auras été investi(e)
+il (elle) aura été investi(e)
+nous aurons été investi(e)s
+vous aurez été investi(e)s
+ils (elles) auront été investi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été investi(e)
+j'aurais été investi(e)
+il (elle) aurait été investi(e)
+nous aurions été investi(e)s
+vous auriez été investi(e)s
+ils (elles) auraient été investi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été investi(e)
+que tu aies été investi(e)
+qu’il (elle) ait été investi(e)
+que nous ayons été investi(e)s
+que vous ayez été investi(e)s
+qu’ils (elles) aient été investi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été investi(e)
+que tu eusses été investi(e)
+qu’il (elle) eût été investi(e)
+que nous eussions été investi(e)s
+que vous eussiez été investi(e)s
+qu’ils (elles) eussent été investi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été investi(e)
+ayons été investi(e)s
+ayez été investi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été investi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été investi(e)(s)

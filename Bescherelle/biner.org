@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe biner
+
+* INDICATIF
+
+** Présent
+
+je bine
+tu bines
+il (elle) bine
+nous binons
+vous binez
+ils (elles) binent
+
+** Imparfait
+
+je binais
+tu binais
+il (elle) binait
+nous binions
+vous biniez
+ils (elles) binaient
+
+** Passé simple
+
+je binai
+tu binas
+il (elle) bina
+nous binâmes
+vous binâtes
+ils (elles) binèrent
+
+** Futur simple
+
+je binerai
+tu bineras
+il (elle) binera
+nous binerons
+vous binerez
+ils (elles) bineront
+
+* CONDITIONNEL
+
+** Présent
+
+je binerais
+tu binerais
+il (elle) binerait
+nous binerions
+vous bineriez
+ils (elles) bineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bine
+que tu bines
+qu’il (elle) bine
+que nous binions
+que vous biniez
+qu’ils (elles) binent
+
+** Imparfait
+
+que je binasse
+que tu binasses
+qu’il (elle) binât
+que nous binassions
+que vous binassiez
+qu’ils (elles) binassent
+
+* IMPÉRATIF
+
+** Présent
+
+bine
+binons
+binez
+
+* INFINITIF
+
+** Présent
+
+biner
+
+* PARTICIPE
+
+** Présent
+
+binant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai biné
+tu as biné
+il (elle) a biné
+nous avons biné
+vous avez biné
+ils (elles) ont biné
+
+** Plus-que-parfait
+
+j'avais biné
+tu avais biné
+il (elle) avait biné
+nous avions biné
+vous aviez biné
+ils (elles) avaient biné
+
+** Passé antérieur
+
+j'eus biné
+tu eus biné
+il (elle) eut biné
+nous eûmes biné
+vous eûtes biné
+ils (elles) eurent biné
+
+** Futur antérieur
+
+j'aurai biné
+tu auras biné
+il (elle) aura biné
+nous aurons biné
+vous aurez biné
+ils (elles) auront biné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais biné
+tu aurais biné
+il (elle) aurait biné
+nous aurions biné
+vous auriez biné
+ils (elles) auraient biné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie biné
+que tu aies biné
+qu’il (elle) ait biné
+que nous ayons biné
+que vous ayez biné
+qu’ils (elles) aient biné
+
+** Plus-que-parfait
+
+que j'eusse biné
+que tu eusses biné
+qu’il (elle) eût biné
+que nous eussions biné
+que vous eussiez biné
+qu’ils (elles) eussent biné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons biné
+ayez biné
+
+* INFINITIF
+
+** Passé
+
+avoir biné
+
+* PARTICIPE
+
+** Passé
+
+ayant biné
+biné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis biné(e)
+tu es biné(e)
+il (elle) est biné(e)
+nous sommes biné(e)s
+vous êtes biné(e)s
+ils (elles) sont biné(e)s
+
+** Imparfait
+
+j'étais biné(e)
+tu étais biné(e)
+il (elle) était biné(e)
+nous étions biné(e)s
+vous étiez biné(e)s
+ils (elles) étaient biné(e)s
+
+** Passé simple
+
+je fus biné(e)
+tu fus biné(e)
+il (elle) fut biné(e)
+nous fûmes biné(e)s
+vous fûtes biné(e)s
+ils (elles) furent biné(e)s
+
+** Futur simple
+
+je serai biné(e)
+tu seras biné(e)
+il (elle) sera biné(e)
+nous serons biné(e)s
+vous serez biné(e)s
+ils (elles) seront biné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais biné(e)
+tu serais biné(e)
+il (elle) serait biné(e)
+nous serions biné(e)s
+vous seriez biné(e)s
+ils (elles) seraient biné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois biné(e)
+que tu sois biné(e)
+qu’il (elle) soit biné(e)
+que nous soyons biné(e)s
+que vous soyez biné(e)s
+qu’ils (elles) soient biné(e)s
+
+** Imparfait
+
+que je fusse biné(e)
+que tu fusses biné(e)
+qu’il (elle) fût biné(e)
+que nous fussions biné(e)s
+que vous fussiez biné(e)s
+qu’ils (elles) fussent biné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons biné(e)s
+soyez biné(e)s
+
+* INFINITIF
+
+** Présent
+
+être biné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant biné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été biné(e)
+tu as été biné(e)
+il (elle) a été biné(e)
+nous avons été biné(e)s
+vous avez été biné(e)s
+ils (elles) ont été biné(e)s
+
+** Plus-que-parfait
+
+j'avais été biné(e)
+il (elle) avait été biné(e)
+nous avions été biné(e)s
+ils (elles) avaient été biné(e)s
+
+** Passé antérieur
+
+j'eus été biné(e)
+tu eus été biné(e)
+il (elle) eut été biné(e)
+nous eûmes été biné(e)s
+vous eûtes été biné(e)s
+ils (elles) eurent été biné(e)s
+
+** Futur antérieur
+
+j'aurai été biné(e)
+tu auras été biné(e)
+il (elle) aura été biné(e)
+nous aurons été biné(e)s
+vous aurez été biné(e)s
+ils (elles) auront été biné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été biné(e)
+j'aurais été biné(e)
+il (elle) aurait été biné(e)
+nous aurions été biné(e)s
+vous auriez été biné(e)s
+ils (elles) auraient été biné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été biné(e)
+que tu aies été biné(e)
+qu’il (elle) ait été biné(e)
+que nous ayons été biné(e)s
+que vous ayez été biné(e)s
+qu’ils (elles) aient été biné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été biné(e)
+que tu eusses été biné(e)
+qu’il (elle) eût été biné(e)
+que nous eussions été biné(e)s
+que vous eussiez été biné(e)s
+qu’ils (elles) eussent été biné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été biné(e)
+ayons été biné(e)s
+ayez été biné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été biné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été biné(e)(s)

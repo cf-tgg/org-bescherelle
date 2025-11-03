@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe manquer
+
+* INDICATIF
+
+** Présent
+
+je manque
+tu manques
+il (elle) manque
+nous manquons
+vous manquez
+ils (elles) manquent
+
+** Imparfait
+
+je manquais
+tu manquais
+il (elle) manquait
+nous manquions
+vous manquiez
+ils (elles) manquaient
+
+** Passé simple
+
+je manquai
+tu manquas
+il (elle) manqua
+nous manquâmes
+vous manquâtes
+ils (elles) manquèrent
+
+** Futur simple
+
+je manquerai
+tu manqueras
+il (elle) manquera
+nous manquerons
+vous manquerez
+ils (elles) manqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je manquerais
+tu manquerais
+il (elle) manquerait
+nous manquerions
+vous manqueriez
+ils (elles) manqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je manque
+que tu manques
+qu’il (elle) manque
+que nous manquions
+que vous manquiez
+qu’ils (elles) manquent
+
+** Imparfait
+
+que je manquasse
+que tu manquasses
+qu’il (elle) manquât
+que nous manquassions
+que vous manquassiez
+qu’ils (elles) manquassent
+
+* IMPÉRATIF
+
+** Présent
+
+manque
+manquons
+manquez
+
+* INFINITIF
+
+** Présent
+
+manquer
+
+* PARTICIPE
+
+** Présent
+
+manquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai manqué
+tu as manqué
+il (elle) a manqué
+nous avons manqué
+vous avez manqué
+ils (elles) ont manqué
+
+** Plus-que-parfait
+
+j'avais manqué
+tu avais manqué
+il (elle) avait manqué
+nous avions manqué
+vous aviez manqué
+ils (elles) avaient manqué
+
+** Passé antérieur
+
+j'eus manqué
+tu eus manqué
+il (elle) eut manqué
+nous eûmes manqué
+vous eûtes manqué
+ils (elles) eurent manqué
+
+** Futur antérieur
+
+j'aurai manqué
+tu auras manqué
+il (elle) aura manqué
+nous aurons manqué
+vous aurez manqué
+ils (elles) auront manqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais manqué
+tu aurais manqué
+il (elle) aurait manqué
+nous aurions manqué
+vous auriez manqué
+ils (elles) auraient manqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie manqué
+que tu aies manqué
+qu’il (elle) ait manqué
+que nous ayons manqué
+que vous ayez manqué
+qu’ils (elles) aient manqué
+
+** Plus-que-parfait
+
+que j'eusse manqué
+que tu eusses manqué
+qu’il (elle) eût manqué
+que nous eussions manqué
+que vous eussiez manqué
+qu’ils (elles) eussent manqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons manqué
+ayez manqué
+
+* INFINITIF
+
+** Passé
+
+avoir manqué
+
+* PARTICIPE
+
+** Passé
+
+ayant manqué
+manqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis manqué(e)
+tu es manqué(e)
+il (elle) est manqué(e)
+nous sommes manqué(e)s
+vous êtes manqué(e)s
+ils (elles) sont manqué(e)s
+
+** Imparfait
+
+j'étais manqué(e)
+tu étais manqué(e)
+il (elle) était manqué(e)
+nous étions manqué(e)s
+vous étiez manqué(e)s
+ils (elles) étaient manqué(e)s
+
+** Passé simple
+
+je fus manqué(e)
+tu fus manqué(e)
+il (elle) fut manqué(e)
+nous fûmes manqué(e)s
+vous fûtes manqué(e)s
+ils (elles) furent manqué(e)s
+
+** Futur simple
+
+je serai manqué(e)
+tu seras manqué(e)
+il (elle) sera manqué(e)
+nous serons manqué(e)s
+vous serez manqué(e)s
+ils (elles) seront manqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais manqué(e)
+tu serais manqué(e)
+il (elle) serait manqué(e)
+nous serions manqué(e)s
+vous seriez manqué(e)s
+ils (elles) seraient manqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois manqué(e)
+que tu sois manqué(e)
+qu’il (elle) soit manqué(e)
+que nous soyons manqué(e)s
+que vous soyez manqué(e)s
+qu’ils (elles) soient manqué(e)s
+
+** Imparfait
+
+que je fusse manqué(e)
+que tu fusses manqué(e)
+qu’il (elle) fût manqué(e)
+que nous fussions manqué(e)s
+que vous fussiez manqué(e)s
+qu’ils (elles) fussent manqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons manqué(e)s
+soyez manqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être manqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant manqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été manqué(e)
+tu as été manqué(e)
+il (elle) a été manqué(e)
+nous avons été manqué(e)s
+vous avez été manqué(e)s
+ils (elles) ont été manqué(e)s
+
+** Plus-que-parfait
+
+j'avais été manqué(e)
+il (elle) avait été manqué(e)
+nous avions été manqué(e)s
+ils (elles) avaient été manqué(e)s
+
+** Passé antérieur
+
+j'eus été manqué(e)
+tu eus été manqué(e)
+il (elle) eut été manqué(e)
+nous eûmes été manqué(e)s
+vous eûtes été manqué(e)s
+ils (elles) eurent été manqué(e)s
+
+** Futur antérieur
+
+j'aurai été manqué(e)
+tu auras été manqué(e)
+il (elle) aura été manqué(e)
+nous aurons été manqué(e)s
+vous aurez été manqué(e)s
+ils (elles) auront été manqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été manqué(e)
+j'aurais été manqué(e)
+il (elle) aurait été manqué(e)
+nous aurions été manqué(e)s
+vous auriez été manqué(e)s
+ils (elles) auraient été manqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été manqué(e)
+que tu aies été manqué(e)
+qu’il (elle) ait été manqué(e)
+que nous ayons été manqué(e)s
+que vous ayez été manqué(e)s
+qu’ils (elles) aient été manqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été manqué(e)
+que tu eusses été manqué(e)
+qu’il (elle) eût été manqué(e)
+que nous eussions été manqué(e)s
+que vous eussiez été manqué(e)s
+qu’ils (elles) eussent été manqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été manqué(e)
+ayons été manqué(e)s
+ayez été manqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été manqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été manqué(e)(s)

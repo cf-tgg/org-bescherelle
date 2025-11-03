@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe laisser
+
+* INDICATIF
+
+** Présent
+
+je laisse
+tu laisses
+il (elle) laisse
+nous laissons
+vous laissez
+ils (elles) laissent
+
+** Imparfait
+
+je laissais
+tu laissais
+il (elle) laissait
+nous laissions
+vous laissiez
+ils (elles) laissaient
+
+** Passé simple
+
+je laissai
+tu laissas
+il (elle) laissa
+nous laissâmes
+vous laissâtes
+ils (elles) laissèrent
+
+** Futur simple
+
+je laisserai
+tu laisseras
+il (elle) laissera
+nous laisserons
+vous laisserez
+ils (elles) laisseront
+
+* CONDITIONNEL
+
+** Présent
+
+je laisserais
+tu laisserais
+il (elle) laisserait
+nous laisserions
+vous laisseriez
+ils (elles) laisseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je laisse
+que tu laisses
+qu’il (elle) laisse
+que nous laissions
+que vous laissiez
+qu’ils (elles) laissent
+
+** Imparfait
+
+que je laissasse
+que tu laissasses
+qu’il (elle) laissât
+que nous laissassions
+que vous laissassiez
+qu’ils (elles) laissassent
+
+* IMPÉRATIF
+
+** Présent
+
+laisse
+laissons
+laissez
+
+* INFINITIF
+
+** Présent
+
+laisser
+
+* PARTICIPE
+
+** Présent
+
+laissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai laissé
+tu as laissé
+il (elle) a laissé
+nous avons laissé
+vous avez laissé
+ils (elles) ont laissé
+
+** Plus-que-parfait
+
+j'avais laissé
+tu avais laissé
+il (elle) avait laissé
+nous avions laissé
+vous aviez laissé
+ils (elles) avaient laissé
+
+** Passé antérieur
+
+j'eus laissé
+tu eus laissé
+il (elle) eut laissé
+nous eûmes laissé
+vous eûtes laissé
+ils (elles) eurent laissé
+
+** Futur antérieur
+
+j'aurai laissé
+tu auras laissé
+il (elle) aura laissé
+nous aurons laissé
+vous aurez laissé
+ils (elles) auront laissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais laissé
+tu aurais laissé
+il (elle) aurait laissé
+nous aurions laissé
+vous auriez laissé
+ils (elles) auraient laissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie laissé
+que tu aies laissé
+qu’il (elle) ait laissé
+que nous ayons laissé
+que vous ayez laissé
+qu’ils (elles) aient laissé
+
+** Plus-que-parfait
+
+que j'eusse laissé
+que tu eusses laissé
+qu’il (elle) eût laissé
+que nous eussions laissé
+que vous eussiez laissé
+qu’ils (elles) eussent laissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons laissé
+ayez laissé
+
+* INFINITIF
+
+** Passé
+
+avoir laissé
+
+* PARTICIPE
+
+** Passé
+
+ayant laissé
+laissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis laissé(e)
+tu es laissé(e)
+il (elle) est laissé(e)
+nous sommes laissé(e)s
+vous êtes laissé(e)s
+ils (elles) sont laissé(e)s
+
+** Imparfait
+
+j'étais laissé(e)
+tu étais laissé(e)
+il (elle) était laissé(e)
+nous étions laissé(e)s
+vous étiez laissé(e)s
+ils (elles) étaient laissé(e)s
+
+** Passé simple
+
+je fus laissé(e)
+tu fus laissé(e)
+il (elle) fut laissé(e)
+nous fûmes laissé(e)s
+vous fûtes laissé(e)s
+ils (elles) furent laissé(e)s
+
+** Futur simple
+
+je serai laissé(e)
+tu seras laissé(e)
+il (elle) sera laissé(e)
+nous serons laissé(e)s
+vous serez laissé(e)s
+ils (elles) seront laissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais laissé(e)
+tu serais laissé(e)
+il (elle) serait laissé(e)
+nous serions laissé(e)s
+vous seriez laissé(e)s
+ils (elles) seraient laissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois laissé(e)
+que tu sois laissé(e)
+qu’il (elle) soit laissé(e)
+que nous soyons laissé(e)s
+que vous soyez laissé(e)s
+qu’ils (elles) soient laissé(e)s
+
+** Imparfait
+
+que je fusse laissé(e)
+que tu fusses laissé(e)
+qu’il (elle) fût laissé(e)
+que nous fussions laissé(e)s
+que vous fussiez laissé(e)s
+qu’ils (elles) fussent laissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons laissé(e)s
+soyez laissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être laissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant laissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été laissé(e)
+tu as été laissé(e)
+il (elle) a été laissé(e)
+nous avons été laissé(e)s
+vous avez été laissé(e)s
+ils (elles) ont été laissé(e)s
+
+** Plus-que-parfait
+
+j'avais été laissé(e)
+il (elle) avait été laissé(e)
+nous avions été laissé(e)s
+ils (elles) avaient été laissé(e)s
+
+** Passé antérieur
+
+j'eus été laissé(e)
+tu eus été laissé(e)
+il (elle) eut été laissé(e)
+nous eûmes été laissé(e)s
+vous eûtes été laissé(e)s
+ils (elles) eurent été laissé(e)s
+
+** Futur antérieur
+
+j'aurai été laissé(e)
+tu auras été laissé(e)
+il (elle) aura été laissé(e)
+nous aurons été laissé(e)s
+vous aurez été laissé(e)s
+ils (elles) auront été laissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été laissé(e)
+j'aurais été laissé(e)
+il (elle) aurait été laissé(e)
+nous aurions été laissé(e)s
+vous auriez été laissé(e)s
+ils (elles) auraient été laissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été laissé(e)
+que tu aies été laissé(e)
+qu’il (elle) ait été laissé(e)
+que nous ayons été laissé(e)s
+que vous ayez été laissé(e)s
+qu’ils (elles) aient été laissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été laissé(e)
+que tu eusses été laissé(e)
+qu’il (elle) eût été laissé(e)
+que nous eussions été laissé(e)s
+que vous eussiez été laissé(e)s
+qu’ils (elles) eussent été laissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été laissé(e)
+ayons été laissé(e)s
+ayez été laissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été laissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été laissé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe imiter
+
+* INDICATIF
+
+** Présent
+
+j'imite
+tu imites
+il (elle) imite
+nous imitons
+vous imitez
+ils (elles) imitent
+
+** Imparfait
+
+j'imitais
+tu imitais
+il (elle) imitait
+nous imitions
+vous imitiez
+ils (elles) imitaient
+
+** Passé simple
+
+j'imitai
+tu imitas
+il (elle) imita
+nous imitâmes
+vous imitâtes
+ils (elles) imitèrent
+
+** Futur simple
+
+j'imiterai
+tu imiteras
+il (elle) imitera
+nous imiterons
+vous imiterez
+ils (elles) imiteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'imiterais
+tu imiterais
+il (elle) imiterait
+nous imiterions
+vous imiteriez
+ils (elles) imiteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'imite
+que tu imites
+qu’il (elle) imite
+que nous imitions
+que vous imitiez
+qu’ils (elles) imitent
+
+** Imparfait
+
+que j'imitasse
+que tu imitasses
+qu’il (elle) imitât
+que nous imitassions
+que vous imitassiez
+qu’ils (elles) imitassent
+
+* IMPÉRATIF
+
+** Présent
+
+imite
+imitons
+imitez
+
+* INFINITIF
+
+** Présent
+
+imiter
+
+* PARTICIPE
+
+** Présent
+
+imitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imité
+tu as imité
+il (elle) a imité
+nous avons imité
+vous avez imité
+ils (elles) ont imité
+
+** Plus-que-parfait
+
+j'avais imité
+tu avais imité
+il (elle) avait imité
+nous avions imité
+vous aviez imité
+ils (elles) avaient imité
+
+** Passé antérieur
+
+j'eus imité
+tu eus imité
+il (elle) eut imité
+nous eûmes imité
+vous eûtes imité
+ils (elles) eurent imité
+
+** Futur antérieur
+
+j'aurai imité
+tu auras imité
+il (elle) aura imité
+nous aurons imité
+vous aurez imité
+ils (elles) auront imité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imité
+tu aurais imité
+il (elle) aurait imité
+nous aurions imité
+vous auriez imité
+ils (elles) auraient imité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imité
+que tu aies imité
+qu’il (elle) ait imité
+que nous ayons imité
+que vous ayez imité
+qu’ils (elles) aient imité
+
+** Plus-que-parfait
+
+que j'eusse imité
+que tu eusses imité
+qu’il (elle) eût imité
+que nous eussions imité
+que vous eussiez imité
+qu’ils (elles) eussent imité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imité
+ayez imité
+
+* INFINITIF
+
+** Passé
+
+avoir imité
+
+* PARTICIPE
+
+** Passé
+
+ayant imité
+imité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis imité(e)
+tu es imité(e)
+il (elle) est imité(e)
+nous sommes imité(e)s
+vous êtes imité(e)s
+ils (elles) sont imité(e)s
+
+** Imparfait
+
+j'étais imité(e)
+tu étais imité(e)
+il (elle) était imité(e)
+nous étions imité(e)s
+vous étiez imité(e)s
+ils (elles) étaient imité(e)s
+
+** Passé simple
+
+je fus imité(e)
+tu fus imité(e)
+il (elle) fut imité(e)
+nous fûmes imité(e)s
+vous fûtes imité(e)s
+ils (elles) furent imité(e)s
+
+** Futur simple
+
+je serai imité(e)
+tu seras imité(e)
+il (elle) sera imité(e)
+nous serons imité(e)s
+vous serez imité(e)s
+ils (elles) seront imité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imité(e)
+tu serais imité(e)
+il (elle) serait imité(e)
+nous serions imité(e)s
+vous seriez imité(e)s
+ils (elles) seraient imité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imité(e)
+que tu sois imité(e)
+qu’il (elle) soit imité(e)
+que nous soyons imité(e)s
+que vous soyez imité(e)s
+qu’ils (elles) soient imité(e)s
+
+** Imparfait
+
+que je fusse imité(e)
+que tu fusses imité(e)
+qu’il (elle) fût imité(e)
+que nous fussions imité(e)s
+que vous fussiez imité(e)s
+qu’ils (elles) fussent imité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imité(e)s
+soyez imité(e)s
+
+* INFINITIF
+
+** Présent
+
+être imité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imité(e)
+tu as été imité(e)
+il (elle) a été imité(e)
+nous avons été imité(e)s
+vous avez été imité(e)s
+ils (elles) ont été imité(e)s
+
+** Plus-que-parfait
+
+j'avais été imité(e)
+il (elle) avait été imité(e)
+nous avions été imité(e)s
+ils (elles) avaient été imité(e)s
+
+** Passé antérieur
+
+j'eus été imité(e)
+tu eus été imité(e)
+il (elle) eut été imité(e)
+nous eûmes été imité(e)s
+vous eûtes été imité(e)s
+ils (elles) eurent été imité(e)s
+
+** Futur antérieur
+
+j'aurai été imité(e)
+tu auras été imité(e)
+il (elle) aura été imité(e)
+nous aurons été imité(e)s
+vous aurez été imité(e)s
+ils (elles) auront été imité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imité(e)
+j'aurais été imité(e)
+il (elle) aurait été imité(e)
+nous aurions été imité(e)s
+vous auriez été imité(e)s
+ils (elles) auraient été imité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imité(e)
+que tu aies été imité(e)
+qu’il (elle) ait été imité(e)
+que nous ayons été imité(e)s
+que vous ayez été imité(e)s
+qu’ils (elles) aient été imité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imité(e)
+que tu eusses été imité(e)
+qu’il (elle) eût été imité(e)
+que nous eussions été imité(e)s
+que vous eussiez été imité(e)s
+qu’ils (elles) eussent été imité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imité(e)
+ayons été imité(e)s
+ayez été imité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imité(e)(s)

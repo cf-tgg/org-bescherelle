@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe repasser
+
+* INDICATIF
+
+** Présent
+
+je repasse
+tu repasses
+il (elle) repasse
+nous repassons
+vous repassez
+ils (elles) repassent
+
+** Imparfait
+
+je repassais
+tu repassais
+il (elle) repassait
+nous repassions
+vous repassiez
+ils (elles) repassaient
+
+** Passé simple
+
+je repassai
+tu repassas
+il (elle) repassa
+nous repassâmes
+vous repassâtes
+ils (elles) repassèrent
+
+** Futur simple
+
+je repasserai
+tu repasseras
+il (elle) repassera
+nous repasserons
+vous repasserez
+ils (elles) repasseront
+
+* CONDITIONNEL
+
+** Présent
+
+je repasserais
+tu repasserais
+il (elle) repasserait
+nous repasserions
+vous repasseriez
+ils (elles) repasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je repasse
+que tu repasses
+qu’il (elle) repasse
+que nous repassions
+que vous repassiez
+qu’ils (elles) repassent
+
+** Imparfait
+
+que je repassasse
+que tu repassasses
+qu’il (elle) repassât
+que nous repassassions
+que vous repassassiez
+qu’ils (elles) repassassent
+
+* IMPÉRATIF
+
+** Présent
+
+repasse
+repassons
+repassez
+
+* INFINITIF
+
+** Présent
+
+repasser
+
+* PARTICIPE
+
+** Présent
+
+repassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai repassé
+tu as repassé
+il (elle) a repassé
+nous avons repassé
+vous avez repassé
+ils (elles) ont repassé
+
+** Plus-que-parfait
+
+j'avais repassé
+tu avais repassé
+il (elle) avait repassé
+nous avions repassé
+vous aviez repassé
+ils (elles) avaient repassé
+
+** Passé antérieur
+
+j'eus repassé
+tu eus repassé
+il (elle) eut repassé
+nous eûmes repassé
+vous eûtes repassé
+ils (elles) eurent repassé
+
+** Futur antérieur
+
+j'aurai repassé
+tu auras repassé
+il (elle) aura repassé
+nous aurons repassé
+vous aurez repassé
+ils (elles) auront repassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais repassé
+tu aurais repassé
+il (elle) aurait repassé
+nous aurions repassé
+vous auriez repassé
+ils (elles) auraient repassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie repassé
+que tu aies repassé
+qu’il (elle) ait repassé
+que nous ayons repassé
+que vous ayez repassé
+qu’ils (elles) aient repassé
+
+** Plus-que-parfait
+
+que j'eusse repassé
+que tu eusses repassé
+qu’il (elle) eût repassé
+que nous eussions repassé
+que vous eussiez repassé
+qu’ils (elles) eussent repassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons repassé
+ayez repassé
+
+* INFINITIF
+
+** Passé
+
+avoir repassé
+
+* PARTICIPE
+
+** Passé
+
+ayant repassé
+repassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis repassé(e)
+tu es repassé(e)
+il (elle) est repassé(e)
+nous sommes repassé(e)s
+vous êtes repassé(e)s
+ils (elles) sont repassé(e)s
+
+** Imparfait
+
+j'étais repassé(e)
+tu étais repassé(e)
+il (elle) était repassé(e)
+nous étions repassé(e)s
+vous étiez repassé(e)s
+ils (elles) étaient repassé(e)s
+
+** Passé simple
+
+je fus repassé(e)
+tu fus repassé(e)
+il (elle) fut repassé(e)
+nous fûmes repassé(e)s
+vous fûtes repassé(e)s
+ils (elles) furent repassé(e)s
+
+** Futur simple
+
+je serai repassé(e)
+tu seras repassé(e)
+il (elle) sera repassé(e)
+nous serons repassé(e)s
+vous serez repassé(e)s
+ils (elles) seront repassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais repassé(e)
+tu serais repassé(e)
+il (elle) serait repassé(e)
+nous serions repassé(e)s
+vous seriez repassé(e)s
+ils (elles) seraient repassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois repassé(e)
+que tu sois repassé(e)
+qu’il (elle) soit repassé(e)
+que nous soyons repassé(e)s
+que vous soyez repassé(e)s
+qu’ils (elles) soient repassé(e)s
+
+** Imparfait
+
+que je fusse repassé(e)
+que tu fusses repassé(e)
+qu’il (elle) fût repassé(e)
+que nous fussions repassé(e)s
+que vous fussiez repassé(e)s
+qu’ils (elles) fussent repassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons repassé(e)s
+soyez repassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être repassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant repassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été repassé(e)
+tu as été repassé(e)
+il (elle) a été repassé(e)
+nous avons été repassé(e)s
+vous avez été repassé(e)s
+ils (elles) ont été repassé(e)s
+
+** Plus-que-parfait
+
+j'avais été repassé(e)
+il (elle) avait été repassé(e)
+nous avions été repassé(e)s
+ils (elles) avaient été repassé(e)s
+
+** Passé antérieur
+
+j'eus été repassé(e)
+tu eus été repassé(e)
+il (elle) eut été repassé(e)
+nous eûmes été repassé(e)s
+vous eûtes été repassé(e)s
+ils (elles) eurent été repassé(e)s
+
+** Futur antérieur
+
+j'aurai été repassé(e)
+tu auras été repassé(e)
+il (elle) aura été repassé(e)
+nous aurons été repassé(e)s
+vous aurez été repassé(e)s
+ils (elles) auront été repassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été repassé(e)
+j'aurais été repassé(e)
+il (elle) aurait été repassé(e)
+nous aurions été repassé(e)s
+vous auriez été repassé(e)s
+ils (elles) auraient été repassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été repassé(e)
+que tu aies été repassé(e)
+qu’il (elle) ait été repassé(e)
+que nous ayons été repassé(e)s
+que vous ayez été repassé(e)s
+qu’ils (elles) aient été repassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été repassé(e)
+que tu eusses été repassé(e)
+qu’il (elle) eût été repassé(e)
+que nous eussions été repassé(e)s
+que vous eussiez été repassé(e)s
+qu’ils (elles) eussent été repassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été repassé(e)
+ayons été repassé(e)s
+ayez été repassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été repassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été repassé(e)(s)

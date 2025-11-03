@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rouvrir
+
+* INDICATIF
+
+** Présent
+
+je rouvre
+tu rouvres
+il (elle) rouvre
+nous rouvrons
+vous rouvrez
+ils (elles) rouvrent
+
+** Imparfait
+
+je rouvrais
+tu rouvrais
+il (elle) rouvrait
+nous rouvrions
+vous rouvriez
+ils (elles) rouvraient
+
+** Passé simple
+
+je rouvris
+tu rouvris
+il (elle) rouvrit
+nous rouvrîmes
+vous rouvrîtes
+ils (elles) rouvrirent
+
+** Futur simple
+
+je rouvrirai
+tu rouvriras
+il (elle) rouvrira
+nous rouvrirons
+vous rouvrirez
+ils (elles) rouvriront
+
+* CONDITIONNEL
+
+** Présent
+
+je rouvrirais
+tu rouvrirais
+il (elle) rouvrirait
+nous rouvririons
+vous rouvririez
+ils (elles) rouvriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rouvre
+que tu rouvres
+qu’il (elle) rouvre
+que nous rouvrions
+que vous rouvriez
+qu’ils (elles) rouvrent
+
+** Imparfait
+
+que je rouvrisse
+que tu rouvrisses
+qu’il (elle) rouvrît
+que nous rouvrissions
+que vous rouvrissiez
+qu’ils (elles) rouvrissent
+
+* IMPÉRATIF
+
+** Présent
+
+rouvre
+rouvrons
+rouvrez
+
+* INFINITIF
+
+** Présent
+
+rouvrir
+
+* PARTICIPE
+
+** Présent
+
+rouvrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rouvert
+tu as rouvert
+il (elle) a rouvert
+nous avons rouvert
+vous avez rouvert
+ils (elles) ont rouvert
+
+** Plus-que-parfait
+
+j'avais rouvert
+tu avais rouvert
+il (elle) avait rouvert
+nous avions rouvert
+vous aviez rouvert
+ils (elles) avaient rouvert
+
+** Passé antérieur
+
+j'eus rouvert
+tu eus rouvert
+il (elle) eut rouvert
+nous eûmes rouvert
+vous eûtes rouvert
+ils (elles) eurent rouvert
+
+** Futur antérieur
+
+j'aurai rouvert
+tu auras rouvert
+il (elle) aura rouvert
+nous aurons rouvert
+vous aurez rouvert
+ils (elles) auront rouvert
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rouvert
+tu aurais rouvert
+il (elle) aurait rouvert
+nous aurions rouvert
+vous auriez rouvert
+ils (elles) auraient rouvert
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rouvert
+que tu aies rouvert
+qu’il (elle) ait rouvert
+que nous ayons rouvert
+que vous ayez rouvert
+qu’ils (elles) aient rouvert
+
+** Plus-que-parfait
+
+que j'eusse rouvert
+que tu eusses rouvert
+qu’il (elle) eût rouvert
+que nous eussions rouvert
+que vous eussiez rouvert
+qu’ils (elles) eussent rouvert
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rouvert
+ayez rouvert
+
+* INFINITIF
+
+** Passé
+
+avoir rouvert
+
+* PARTICIPE
+
+** Passé
+
+ayant rouvert
+rouvert (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis rouvert(e)
+tu es rouvert(e)
+il (elle) est rouvert(e)
+nous sommes rouvert(e)s
+vous êtes rouvert(e)s
+ils (elles) sont rouvert(e)s
+
+** Imparfait
+
+j'étais rouvert(e)
+tu étais rouvert(e)
+il (elle) était rouvert(e)
+nous étions rouvert(e)s
+vous étiez rouvert(e)s
+ils (elles) étaient rouvert(e)s
+
+** Passé simple
+
+je fus rouvert(e)
+tu fus rouvert(e)
+il (elle) fut rouvert(e)
+nous fûmes rouvert(e)s
+vous fûtes rouvert(e)s
+ils (elles) furent rouvert(e)s
+
+** Futur simple
+
+je serai rouvert(e)
+tu seras rouvert(e)
+il (elle) sera rouvert(e)
+nous serons rouvert(e)s
+vous serez rouvert(e)s
+ils (elles) seront rouvert(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rouvert(e)
+tu serais rouvert(e)
+il (elle) serait rouvert(e)
+nous serions rouvert(e)s
+vous seriez rouvert(e)s
+ils (elles) seraient rouvert(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rouvert(e)
+que tu sois rouvert(e)
+qu’il (elle) soit rouvert(e)
+que nous soyons rouvert(e)s
+que vous soyez rouvert(e)s
+qu’ils (elles) soient rouvert(e)s
+
+** Imparfait
+
+que je fusse rouvert(e)
+que tu fusses rouvert(e)
+qu’il (elle) fût rouvert(e)
+que nous fussions rouvert(e)s
+que vous fussiez rouvert(e)s
+qu’ils (elles) fussent rouvert(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rouvert(e)s
+soyez rouvert(e)s
+
+* INFINITIF
+
+** Présent
+
+être rouvert(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rouvert(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rouvert(e)
+tu as été rouvert(e)
+il (elle) a été rouvert(e)
+nous avons été rouvert(e)s
+vous avez été rouvert(e)s
+ils (elles) ont été rouvert(e)s
+
+** Plus-que-parfait
+
+j'avais été rouvert(e)
+il (elle) avait été rouvert(e)
+nous avions été rouvert(e)s
+ils (elles) avaient été rouvert(e)s
+
+** Passé antérieur
+
+j'eus été rouvert(e)
+tu eus été rouvert(e)
+il (elle) eut été rouvert(e)
+nous eûmes été rouvert(e)s
+vous eûtes été rouvert(e)s
+ils (elles) eurent été rouvert(e)s
+
+** Futur antérieur
+
+j'aurai été rouvert(e)
+tu auras été rouvert(e)
+il (elle) aura été rouvert(e)
+nous aurons été rouvert(e)s
+vous aurez été rouvert(e)s
+ils (elles) auront été rouvert(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rouvert(e)
+j'aurais été rouvert(e)
+il (elle) aurait été rouvert(e)
+nous aurions été rouvert(e)s
+vous auriez été rouvert(e)s
+ils (elles) auraient été rouvert(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rouvert(e)
+que tu aies été rouvert(e)
+qu’il (elle) ait été rouvert(e)
+que nous ayons été rouvert(e)s
+que vous ayez été rouvert(e)s
+qu’ils (elles) aient été rouvert(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rouvert(e)
+que tu eusses été rouvert(e)
+qu’il (elle) eût été rouvert(e)
+que nous eussions été rouvert(e)s
+que vous eussiez été rouvert(e)s
+qu’ils (elles) eussent été rouvert(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rouvert(e)
+ayons été rouvert(e)s
+ayez été rouvert(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rouvert(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rouvert(e)(s)

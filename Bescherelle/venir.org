@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe venir
+
+* INDICATIF
+
+** Présent
+
+je viens
+tu viens
+il (elle) vient
+nous venons
+vous venez
+ils (elles) viennent
+
+** Imparfait
+
+je venais
+tu venais
+il (elle) venait
+nous venions
+vous veniez
+ils (elles) venaient
+
+** Passé simple
+
+je vins
+tu vins
+il (elle) vint
+nous vînmes
+vous vîntes
+ils (elles) vinrent
+
+** Futur simple
+
+je viendrai
+tu viendras
+il (elle) viendra
+nous viendrons
+vous viendrez
+ils (elles) viendront
+
+* CONDITIONNEL
+
+** Présent
+
+je viendrais
+tu viendrais
+il (elle) viendrait
+nous viendrions
+vous viendriez
+ils (elles) viendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vienne
+que tu viennes
+qu’il (elle) vienne
+que nous venions
+que vous veniez
+qu’ils (elles) viennent
+
+** Imparfait
+
+que je vinsse
+que tu vinsses
+qu’il (elle) vînt
+que nous vinssions
+que vous vinssiez
+qu’ils (elles) vinssent
+
+* IMPÉRATIF
+
+** Présent
+
+viens
+venons
+venez
+
+* INFINITIF
+
+** Présent
+
+venir
+
+* PARTICIPE
+
+** Présent
+
+venant
+
+* INDICATIF
+
+** Passé composé
+
+je suis venu(e)
+tu es venu(e)
+il (elle) est venu(e)
+nous sommes venu(e)s
+vous êtes venu(e)s
+ils (elles) sont venu(e)s
+
+** Plus-que-parfait
+
+j'étais venu(e)
+tu étais venu(e)
+il (elle) était venu(e)
+nous étions venu(e)s
+vous étiez venu(e)s
+ils (elles) étaient venu(e)s
+
+** Passé antérieur
+
+je fus venu(e)
+tu fus venu(e)
+il (elle) fut venu(e)
+nous fûmes venu(e)s
+vous fûtes venu(e)s
+ils (elles) furent venu(e)s
+
+** Futur antérieur
+
+je serai venu(e)
+tu seras venu(e)
+il (elle) sera venu(e)
+nous serons venu(e)s
+vous serez venu(e)s
+ils (elles) seront venu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais venu(e)
+tu serais venu(e)
+il (elle) serait venu(e)
+nous serions venu(e)s
+vous seriez venu(e)s
+ils (elles) seraient venu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois venu(e)
+que tu sois venu(e)
+qu’il (elle) soit venu(e)
+que nous soyons venu(e)s
+que vous soyez venu(e)s
+qu’ils (elles) soient venu(e)s
+
+** Plus-que-parfait
+
+que je fusse venu(e)
+que tu fusses venu(e)
+qu’il (elle) fût venu(e)
+que nous fussions venu(e)s
+que vous fussiez venu(e)s
+qu’ils (elles) fussent venu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons venu(e)s
+soyez venu(e)s
+
+* INFINITIF
+
+** Passé
+
+être venu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant venu(e)(s)
+venu (u, ue, us, ues)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe muter
+
+* INDICATIF
+
+** Présent
+
+je mute
+tu mutes
+il (elle) mute
+nous mutons
+vous mutez
+ils (elles) mutent
+
+** Imparfait
+
+je mutais
+tu mutais
+il (elle) mutait
+nous mutions
+vous mutiez
+ils (elles) mutaient
+
+** Passé simple
+
+je mutai
+tu mutas
+il (elle) muta
+nous mutâmes
+vous mutâtes
+ils (elles) mutèrent
+
+** Futur simple
+
+je muterai
+tu muteras
+il (elle) mutera
+nous muterons
+vous muterez
+ils (elles) muteront
+
+* CONDITIONNEL
+
+** Présent
+
+je muterais
+tu muterais
+il (elle) muterait
+nous muterions
+vous muteriez
+ils (elles) muteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mute
+que tu mutes
+qu’il (elle) mute
+que nous mutions
+que vous mutiez
+qu’ils (elles) mutent
+
+** Imparfait
+
+que je mutasse
+que tu mutasses
+qu’il (elle) mutât
+que nous mutassions
+que vous mutassiez
+qu’ils (elles) mutassent
+
+* IMPÉRATIF
+
+** Présent
+
+mute
+mutons
+mutez
+
+* INFINITIF
+
+** Présent
+
+muter
+
+* PARTICIPE
+
+** Présent
+
+mutant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai muté
+tu as muté
+il (elle) a muté
+nous avons muté
+vous avez muté
+ils (elles) ont muté
+
+** Plus-que-parfait
+
+j'avais muté
+tu avais muté
+il (elle) avait muté
+nous avions muté
+vous aviez muté
+ils (elles) avaient muté
+
+** Passé antérieur
+
+j'eus muté
+tu eus muté
+il (elle) eut muté
+nous eûmes muté
+vous eûtes muté
+ils (elles) eurent muté
+
+** Futur antérieur
+
+j'aurai muté
+tu auras muté
+il (elle) aura muté
+nous aurons muté
+vous aurez muté
+ils (elles) auront muté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais muté
+tu aurais muté
+il (elle) aurait muté
+nous aurions muté
+vous auriez muté
+ils (elles) auraient muté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie muté
+que tu aies muté
+qu’il (elle) ait muté
+que nous ayons muté
+que vous ayez muté
+qu’ils (elles) aient muté
+
+** Plus-que-parfait
+
+que j'eusse muté
+que tu eusses muté
+qu’il (elle) eût muté
+que nous eussions muté
+que vous eussiez muté
+qu’ils (elles) eussent muté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons muté
+ayez muté
+
+* INFINITIF
+
+** Passé
+
+avoir muté
+
+* PARTICIPE
+
+** Passé
+
+ayant muté
+muté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis muté(e)
+tu es muté(e)
+il (elle) est muté(e)
+nous sommes muté(e)s
+vous êtes muté(e)s
+ils (elles) sont muté(e)s
+
+** Imparfait
+
+j'étais muté(e)
+tu étais muté(e)
+il (elle) était muté(e)
+nous étions muté(e)s
+vous étiez muté(e)s
+ils (elles) étaient muté(e)s
+
+** Passé simple
+
+je fus muté(e)
+tu fus muté(e)
+il (elle) fut muté(e)
+nous fûmes muté(e)s
+vous fûtes muté(e)s
+ils (elles) furent muté(e)s
+
+** Futur simple
+
+je serai muté(e)
+tu seras muté(e)
+il (elle) sera muté(e)
+nous serons muté(e)s
+vous serez muté(e)s
+ils (elles) seront muté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais muté(e)
+tu serais muté(e)
+il (elle) serait muté(e)
+nous serions muté(e)s
+vous seriez muté(e)s
+ils (elles) seraient muté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois muté(e)
+que tu sois muté(e)
+qu’il (elle) soit muté(e)
+que nous soyons muté(e)s
+que vous soyez muté(e)s
+qu’ils (elles) soient muté(e)s
+
+** Imparfait
+
+que je fusse muté(e)
+que tu fusses muté(e)
+qu’il (elle) fût muté(e)
+que nous fussions muté(e)s
+que vous fussiez muté(e)s
+qu’ils (elles) fussent muté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons muté(e)s
+soyez muté(e)s
+
+* INFINITIF
+
+** Présent
+
+être muté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant muté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été muté(e)
+tu as été muté(e)
+il (elle) a été muté(e)
+nous avons été muté(e)s
+vous avez été muté(e)s
+ils (elles) ont été muté(e)s
+
+** Plus-que-parfait
+
+j'avais été muté(e)
+il (elle) avait été muté(e)
+nous avions été muté(e)s
+ils (elles) avaient été muté(e)s
+
+** Passé antérieur
+
+j'eus été muté(e)
+tu eus été muté(e)
+il (elle) eut été muté(e)
+nous eûmes été muté(e)s
+vous eûtes été muté(e)s
+ils (elles) eurent été muté(e)s
+
+** Futur antérieur
+
+j'aurai été muté(e)
+tu auras été muté(e)
+il (elle) aura été muté(e)
+nous aurons été muté(e)s
+vous aurez été muté(e)s
+ils (elles) auront été muté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été muté(e)
+j'aurais été muté(e)
+il (elle) aurait été muté(e)
+nous aurions été muté(e)s
+vous auriez été muté(e)s
+ils (elles) auraient été muté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été muté(e)
+que tu aies été muté(e)
+qu’il (elle) ait été muté(e)
+que nous ayons été muté(e)s
+que vous ayez été muté(e)s
+qu’ils (elles) aient été muté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été muté(e)
+que tu eusses été muté(e)
+qu’il (elle) eût été muté(e)
+que nous eussions été muté(e)s
+que vous eussiez été muté(e)s
+qu’ils (elles) eussent été muté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été muté(e)
+ayons été muté(e)s
+ayez été muté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été muté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été muté(e)(s)

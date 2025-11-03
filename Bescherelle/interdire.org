@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interdire
+
+* INDICATIF
+
+** Présent
+
+j'interdis
+tu interdis
+il (elle) interdit
+nous interdisons
+vous interdisez
+ils (elles) interdisent
+
+** Imparfait
+
+j'interdisais
+tu interdisais
+il (elle) interdisait
+nous interdisions
+vous interdisiez
+ils (elles) interdisaient
+
+** Passé simple
+
+j'interdis
+tu interdis
+il (elle) interdit
+nous interdîmes
+vous interdîtes
+ils (elles) interdirent
+
+** Futur simple
+
+j'interdirai
+tu interdiras
+il (elle) interdira
+nous interdirons
+vous interdirez
+ils (elles) interdiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interdirais
+tu interdirais
+il (elle) interdirait
+nous interdirions
+vous interdiriez
+ils (elles) interdiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interdise
+que tu interdises
+qu’il (elle) interdise
+que nous interdisions
+que vous interdisiez
+qu’ils (elles) interdisent
+
+** Imparfait
+
+que j'interdisse
+que tu interdisses
+qu’il (elle) interdît
+que nous interdissions
+que vous interdissiez
+qu’ils (elles) interdissent
+
+* IMPÉRATIF
+
+** Présent
+
+interdis
+interdisons
+interdisez
+
+* INFINITIF
+
+** Présent
+
+interdire
+
+* PARTICIPE
+
+** Présent
+
+interdisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interdit
+tu as interdit
+il (elle) a interdit
+nous avons interdit
+vous avez interdit
+ils (elles) ont interdit
+
+** Plus-que-parfait
+
+j'avais interdit
+tu avais interdit
+il (elle) avait interdit
+nous avions interdit
+vous aviez interdit
+ils (elles) avaient interdit
+
+** Passé antérieur
+
+j'eus interdit
+tu eus interdit
+il (elle) eut interdit
+nous eûmes interdit
+vous eûtes interdit
+ils (elles) eurent interdit
+
+** Futur antérieur
+
+j'aurai interdit
+tu auras interdit
+il (elle) aura interdit
+nous aurons interdit
+vous aurez interdit
+ils (elles) auront interdit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interdit
+tu aurais interdit
+il (elle) aurait interdit
+nous aurions interdit
+vous auriez interdit
+ils (elles) auraient interdit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interdit
+que tu aies interdit
+qu’il (elle) ait interdit
+que nous ayons interdit
+que vous ayez interdit
+qu’ils (elles) aient interdit
+
+** Plus-que-parfait
+
+que j'eusse interdit
+que tu eusses interdit
+qu’il (elle) eût interdit
+que nous eussions interdit
+que vous eussiez interdit
+qu’ils (elles) eussent interdit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interdit
+ayez interdit
+
+* INFINITIF
+
+** Passé
+
+avoir interdit
+
+* PARTICIPE
+
+** Passé
+
+ayant interdit
+interdit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis interdit(e)
+tu es interdit(e)
+il (elle) est interdit(e)
+nous sommes interdit(e)s
+vous êtes interdit(e)s
+ils (elles) sont interdit(e)s
+
+** Imparfait
+
+j'étais interdit(e)
+tu étais interdit(e)
+il (elle) était interdit(e)
+nous étions interdit(e)s
+vous étiez interdit(e)s
+ils (elles) étaient interdit(e)s
+
+** Passé simple
+
+je fus interdit(e)
+tu fus interdit(e)
+il (elle) fut interdit(e)
+nous fûmes interdit(e)s
+vous fûtes interdit(e)s
+ils (elles) furent interdit(e)s
+
+** Futur simple
+
+je serai interdit(e)
+tu seras interdit(e)
+il (elle) sera interdit(e)
+nous serons interdit(e)s
+vous serez interdit(e)s
+ils (elles) seront interdit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interdit(e)
+tu serais interdit(e)
+il (elle) serait interdit(e)
+nous serions interdit(e)s
+vous seriez interdit(e)s
+ils (elles) seraient interdit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interdit(e)
+que tu sois interdit(e)
+qu’il (elle) soit interdit(e)
+que nous soyons interdit(e)s
+que vous soyez interdit(e)s
+qu’ils (elles) soient interdit(e)s
+
+** Imparfait
+
+que je fusse interdit(e)
+que tu fusses interdit(e)
+qu’il (elle) fût interdit(e)
+que nous fussions interdit(e)s
+que vous fussiez interdit(e)s
+qu’ils (elles) fussent interdit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interdit(e)s
+soyez interdit(e)s
+
+* INFINITIF
+
+** Présent
+
+être interdit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interdit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interdit(e)
+tu as été interdit(e)
+il (elle) a été interdit(e)
+nous avons été interdit(e)s
+vous avez été interdit(e)s
+ils (elles) ont été interdit(e)s
+
+** Plus-que-parfait
+
+j'avais été interdit(e)
+il (elle) avait été interdit(e)
+nous avions été interdit(e)s
+ils (elles) avaient été interdit(e)s
+
+** Passé antérieur
+
+j'eus été interdit(e)
+tu eus été interdit(e)
+il (elle) eut été interdit(e)
+nous eûmes été interdit(e)s
+vous eûtes été interdit(e)s
+ils (elles) eurent été interdit(e)s
+
+** Futur antérieur
+
+j'aurai été interdit(e)
+tu auras été interdit(e)
+il (elle) aura été interdit(e)
+nous aurons été interdit(e)s
+vous aurez été interdit(e)s
+ils (elles) auront été interdit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interdit(e)
+j'aurais été interdit(e)
+il (elle) aurait été interdit(e)
+nous aurions été interdit(e)s
+vous auriez été interdit(e)s
+ils (elles) auraient été interdit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interdit(e)
+que tu aies été interdit(e)
+qu’il (elle) ait été interdit(e)
+que nous ayons été interdit(e)s
+que vous ayez été interdit(e)s
+qu’ils (elles) aient été interdit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interdit(e)
+que tu eusses été interdit(e)
+qu’il (elle) eût été interdit(e)
+que nous eussions été interdit(e)s
+que vous eussiez été interdit(e)s
+qu’ils (elles) eussent été interdit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interdit(e)
+ayons été interdit(e)s
+ayez été interdit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interdit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interdit(e)(s)

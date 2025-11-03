@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe regir
+
+* INDICATIF
+
+** Présent
+
+je régis
+tu régis
+il (elle) régit
+nous régissons
+vous régissez
+ils (elles) régissent
+
+** Imparfait
+
+je régissais
+tu régissais
+il (elle) régissait
+nous régissions
+vous régissiez
+ils (elles) régissaient
+
+** Passé simple
+
+je régis
+tu régis
+il (elle) régit
+nous régîmes
+vous régîtes
+ils (elles) régirent
+
+** Futur simple
+
+je régirai
+tu régiras
+il (elle) régira
+nous régirons
+vous régirez
+ils (elles) régiront
+
+* CONDITIONNEL
+
+** Présent
+
+je régirais
+tu régirais
+il (elle) régirait
+nous régirions
+vous régiriez
+ils (elles) régiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je régisse
+que tu régisses
+qu’il (elle) régisse
+que nous régissions
+que vous régissiez
+qu’ils (elles) régissent
+
+** Imparfait
+
+que je régisse
+que tu régisses
+qu’il (elle) régît
+que nous régissions
+que vous régissiez
+qu’ils (elles) régissent
+
+* IMPÉRATIF
+
+** Présent
+
+régis
+régissons
+régissez
+
+* INFINITIF
+
+** Présent
+
+régir
+
+* PARTICIPE
+
+** Présent
+
+régissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai régi
+tu as régi
+il (elle) a régi
+nous avons régi
+vous avez régi
+ils (elles) ont régi
+
+** Plus-que-parfait
+
+j'avais régi
+tu avais régi
+il (elle) avait régi
+nous avions régi
+vous aviez régi
+ils (elles) avaient régi
+
+** Passé antérieur
+
+j'eus régi
+tu eus régi
+il (elle) eut régi
+nous eûmes régi
+vous eûtes régi
+ils (elles) eurent régi
+
+** Futur antérieur
+
+j'aurai régi
+tu auras régi
+il (elle) aura régi
+nous aurons régi
+vous aurez régi
+ils (elles) auront régi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais régi
+tu aurais régi
+il (elle) aurait régi
+nous aurions régi
+vous auriez régi
+ils (elles) auraient régi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie régi
+que tu aies régi
+qu’il (elle) ait régi
+que nous ayons régi
+que vous ayez régi
+qu’ils (elles) aient régi
+
+** Plus-que-parfait
+
+que j'eusse régi
+que tu eusses régi
+qu’il (elle) eût régi
+que nous eussions régi
+que vous eussiez régi
+qu’ils (elles) eussent régi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons régi
+ayez régi
+
+* INFINITIF
+
+** Passé
+
+avoir régi
+
+* PARTICIPE
+
+** Passé
+
+ayant régi
+régi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis régi(e)
+tu es régi(e)
+il (elle) est régi(e)
+nous sommes régi(e)s
+vous êtes régi(e)s
+ils (elles) sont régi(e)s
+
+** Imparfait
+
+j'étais régi(e)
+tu étais régi(e)
+il (elle) était régi(e)
+nous étions régi(e)s
+vous étiez régi(e)s
+ils (elles) étaient régi(e)s
+
+** Passé simple
+
+je fus régi(e)
+tu fus régi(e)
+il (elle) fut régi(e)
+nous fûmes régi(e)s
+vous fûtes régi(e)s
+ils (elles) furent régi(e)s
+
+** Futur simple
+
+je serai régi(e)
+tu seras régi(e)
+il (elle) sera régi(e)
+nous serons régi(e)s
+vous serez régi(e)s
+ils (elles) seront régi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais régi(e)
+tu serais régi(e)
+il (elle) serait régi(e)
+nous serions régi(e)s
+vous seriez régi(e)s
+ils (elles) seraient régi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois régi(e)
+que tu sois régi(e)
+qu’il (elle) soit régi(e)
+que nous soyons régi(e)s
+que vous soyez régi(e)s
+qu’ils (elles) soient régi(e)s
+
+** Imparfait
+
+que je fusse régi(e)
+que tu fusses régi(e)
+qu’il (elle) fût régi(e)
+que nous fussions régi(e)s
+que vous fussiez régi(e)s
+qu’ils (elles) fussent régi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons régi(e)s
+soyez régi(e)s
+
+* INFINITIF
+
+** Présent
+
+être régi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant régi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été régi(e)
+tu as été régi(e)
+il (elle) a été régi(e)
+nous avons été régi(e)s
+vous avez été régi(e)s
+ils (elles) ont été régi(e)s
+
+** Plus-que-parfait
+
+j'avais été régi(e)
+il (elle) avait été régi(e)
+nous avions été régi(e)s
+ils (elles) avaient été régi(e)s
+
+** Passé antérieur
+
+j'eus été régi(e)
+tu eus été régi(e)
+il (elle) eut été régi(e)
+nous eûmes été régi(e)s
+vous eûtes été régi(e)s
+ils (elles) eurent été régi(e)s
+
+** Futur antérieur
+
+j'aurai été régi(e)
+tu auras été régi(e)
+il (elle) aura été régi(e)
+nous aurons été régi(e)s
+vous aurez été régi(e)s
+ils (elles) auront été régi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été régi(e)
+j'aurais été régi(e)
+il (elle) aurait été régi(e)
+nous aurions été régi(e)s
+vous auriez été régi(e)s
+ils (elles) auraient été régi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été régi(e)
+que tu aies été régi(e)
+qu’il (elle) ait été régi(e)
+que nous ayons été régi(e)s
+que vous ayez été régi(e)s
+qu’ils (elles) aient été régi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été régi(e)
+que tu eusses été régi(e)
+qu’il (elle) eût été régi(e)
+que nous eussions été régi(e)s
+que vous eussiez été régi(e)s
+qu’ils (elles) eussent été régi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été régi(e)
+ayons été régi(e)s
+ayez été régi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été régi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été régi(e)(s)

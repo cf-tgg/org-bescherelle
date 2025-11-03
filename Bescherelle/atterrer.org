@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe atterrer
+
+* INDICATIF
+
+** Présent
+
+j'atterre
+tu atterres
+il (elle) atterre
+nous atterrons
+vous atterrez
+ils (elles) atterrent
+
+** Imparfait
+
+j'atterrais
+tu atterrais
+il (elle) atterrait
+nous atterrions
+vous atterriez
+ils (elles) atterraient
+
+** Passé simple
+
+j'atterrai
+tu atterras
+il (elle) atterra
+nous atterrâmes
+vous atterrâtes
+ils (elles) atterrèrent
+
+** Futur simple
+
+j'atterrerai
+tu atterreras
+il (elle) atterrera
+nous atterrerons
+vous atterrerez
+ils (elles) atterreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'atterrerais
+tu atterrerais
+il (elle) atterrerait
+nous atterrerions
+vous atterreriez
+ils (elles) atterreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'atterre
+que tu atterres
+qu’il (elle) atterre
+que nous atterrions
+que vous atterriez
+qu’ils (elles) atterrent
+
+** Imparfait
+
+que j'atterrasse
+que tu atterrasses
+qu’il (elle) atterrât
+que nous atterrassions
+que vous atterrassiez
+qu’ils (elles) atterrassent
+
+* IMPÉRATIF
+
+** Présent
+
+atterre
+atterrons
+atterrez
+
+* INFINITIF
+
+** Présent
+
+atterrer
+
+* PARTICIPE
+
+** Présent
+
+atterrant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai atterré
+tu as atterré
+il (elle) a atterré
+nous avons atterré
+vous avez atterré
+ils (elles) ont atterré
+
+** Plus-que-parfait
+
+j'avais atterré
+tu avais atterré
+il (elle) avait atterré
+nous avions atterré
+vous aviez atterré
+ils (elles) avaient atterré
+
+** Passé antérieur
+
+j'eus atterré
+tu eus atterré
+il (elle) eut atterré
+nous eûmes atterré
+vous eûtes atterré
+ils (elles) eurent atterré
+
+** Futur antérieur
+
+j'aurai atterré
+tu auras atterré
+il (elle) aura atterré
+nous aurons atterré
+vous aurez atterré
+ils (elles) auront atterré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais atterré
+tu aurais atterré
+il (elle) aurait atterré
+nous aurions atterré
+vous auriez atterré
+ils (elles) auraient atterré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie atterré
+que tu aies atterré
+qu’il (elle) ait atterré
+que nous ayons atterré
+que vous ayez atterré
+qu’ils (elles) aient atterré
+
+** Plus-que-parfait
+
+que j'eusse atterré
+que tu eusses atterré
+qu’il (elle) eût atterré
+que nous eussions atterré
+que vous eussiez atterré
+qu’ils (elles) eussent atterré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons atterré
+ayez atterré
+
+* INFINITIF
+
+** Passé
+
+avoir atterré
+
+* PARTICIPE
+
+** Passé
+
+ayant atterré
+atterré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis atterré(e)
+tu es atterré(e)
+il (elle) est atterré(e)
+nous sommes atterré(e)s
+vous êtes atterré(e)s
+ils (elles) sont atterré(e)s
+
+** Imparfait
+
+j'étais atterré(e)
+tu étais atterré(e)
+il (elle) était atterré(e)
+nous étions atterré(e)s
+vous étiez atterré(e)s
+ils (elles) étaient atterré(e)s
+
+** Passé simple
+
+je fus atterré(e)
+tu fus atterré(e)
+il (elle) fut atterré(e)
+nous fûmes atterré(e)s
+vous fûtes atterré(e)s
+ils (elles) furent atterré(e)s
+
+** Futur simple
+
+je serai atterré(e)
+tu seras atterré(e)
+il (elle) sera atterré(e)
+nous serons atterré(e)s
+vous serez atterré(e)s
+ils (elles) seront atterré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais atterré(e)
+tu serais atterré(e)
+il (elle) serait atterré(e)
+nous serions atterré(e)s
+vous seriez atterré(e)s
+ils (elles) seraient atterré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois atterré(e)
+que tu sois atterré(e)
+qu’il (elle) soit atterré(e)
+que nous soyons atterré(e)s
+que vous soyez atterré(e)s
+qu’ils (elles) soient atterré(e)s
+
+** Imparfait
+
+que je fusse atterré(e)
+que tu fusses atterré(e)
+qu’il (elle) fût atterré(e)
+que nous fussions atterré(e)s
+que vous fussiez atterré(e)s
+qu’ils (elles) fussent atterré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons atterré(e)s
+soyez atterré(e)s
+
+* INFINITIF
+
+** Présent
+
+être atterré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant atterré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été atterré(e)
+tu as été atterré(e)
+il (elle) a été atterré(e)
+nous avons été atterré(e)s
+vous avez été atterré(e)s
+ils (elles) ont été atterré(e)s
+
+** Plus-que-parfait
+
+j'avais été atterré(e)
+il (elle) avait été atterré(e)
+nous avions été atterré(e)s
+ils (elles) avaient été atterré(e)s
+
+** Passé antérieur
+
+j'eus été atterré(e)
+tu eus été atterré(e)
+il (elle) eut été atterré(e)
+nous eûmes été atterré(e)s
+vous eûtes été atterré(e)s
+ils (elles) eurent été atterré(e)s
+
+** Futur antérieur
+
+j'aurai été atterré(e)
+tu auras été atterré(e)
+il (elle) aura été atterré(e)
+nous aurons été atterré(e)s
+vous aurez été atterré(e)s
+ils (elles) auront été atterré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été atterré(e)
+j'aurais été atterré(e)
+il (elle) aurait été atterré(e)
+nous aurions été atterré(e)s
+vous auriez été atterré(e)s
+ils (elles) auraient été atterré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été atterré(e)
+que tu aies été atterré(e)
+qu’il (elle) ait été atterré(e)
+que nous ayons été atterré(e)s
+que vous ayez été atterré(e)s
+qu’ils (elles) aient été atterré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été atterré(e)
+que tu eusses été atterré(e)
+qu’il (elle) eût été atterré(e)
+que nous eussions été atterré(e)s
+que vous eussiez été atterré(e)s
+qu’ils (elles) eussent été atterré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été atterré(e)
+ayons été atterré(e)s
+ayez été atterré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été atterré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été atterré(e)(s)

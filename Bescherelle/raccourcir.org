@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe raccourcir
+
+* INDICATIF
+
+** Présent
+
+je raccourcis
+tu raccourcis
+il (elle) raccourcit
+nous raccourcissons
+vous raccourcissez
+ils (elles) raccourcissent
+
+** Imparfait
+
+je raccourcissais
+tu raccourcissais
+il (elle) raccourcissait
+nous raccourcissions
+vous raccourcissiez
+ils (elles) raccourcissaient
+
+** Passé simple
+
+je raccourcis
+tu raccourcis
+il (elle) raccourcit
+nous raccourcîmes
+vous raccourcîtes
+ils (elles) raccourcirent
+
+** Futur simple
+
+je raccourcirai
+tu raccourciras
+il (elle) raccourcira
+nous raccourcirons
+vous raccourcirez
+ils (elles) raccourciront
+
+* CONDITIONNEL
+
+** Présent
+
+je raccourcirais
+tu raccourcirais
+il (elle) raccourcirait
+nous raccourcirions
+vous raccourciriez
+ils (elles) raccourciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je raccourcisse
+que tu raccourcisses
+qu’il (elle) raccourcisse
+que nous raccourcissions
+que vous raccourcissiez
+qu’ils (elles) raccourcissent
+
+** Imparfait
+
+que je raccourcisse
+que tu raccourcisses
+qu’il (elle) raccourcît
+que nous raccourcissions
+que vous raccourcissiez
+qu’ils (elles) raccourcissent
+
+* IMPÉRATIF
+
+** Présent
+
+raccourcis
+raccourcissons
+raccourcissez
+
+* INFINITIF
+
+** Présent
+
+raccourcir
+
+* PARTICIPE
+
+** Présent
+
+raccourcissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai raccourci
+tu as raccourci
+il (elle) a raccourci
+nous avons raccourci
+vous avez raccourci
+ils (elles) ont raccourci
+
+** Plus-que-parfait
+
+j'avais raccourci
+tu avais raccourci
+il (elle) avait raccourci
+nous avions raccourci
+vous aviez raccourci
+ils (elles) avaient raccourci
+
+** Passé antérieur
+
+j'eus raccourci
+tu eus raccourci
+il (elle) eut raccourci
+nous eûmes raccourci
+vous eûtes raccourci
+ils (elles) eurent raccourci
+
+** Futur antérieur
+
+j'aurai raccourci
+tu auras raccourci
+il (elle) aura raccourci
+nous aurons raccourci
+vous aurez raccourci
+ils (elles) auront raccourci
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais raccourci
+tu aurais raccourci
+il (elle) aurait raccourci
+nous aurions raccourci
+vous auriez raccourci
+ils (elles) auraient raccourci
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie raccourci
+que tu aies raccourci
+qu’il (elle) ait raccourci
+que nous ayons raccourci
+que vous ayez raccourci
+qu’ils (elles) aient raccourci
+
+** Plus-que-parfait
+
+que j'eusse raccourci
+que tu eusses raccourci
+qu’il (elle) eût raccourci
+que nous eussions raccourci
+que vous eussiez raccourci
+qu’ils (elles) eussent raccourci
+
+* IMPÉRATIF
+
+** Passé
+
+ayons raccourci
+ayez raccourci
+
+* INFINITIF
+
+** Passé
+
+avoir raccourci
+
+* PARTICIPE
+
+** Passé
+
+ayant raccourci
+raccourci (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis raccourci(e)
+tu es raccourci(e)
+il (elle) est raccourci(e)
+nous sommes raccourci(e)s
+vous êtes raccourci(e)s
+ils (elles) sont raccourci(e)s
+
+** Imparfait
+
+j'étais raccourci(e)
+tu étais raccourci(e)
+il (elle) était raccourci(e)
+nous étions raccourci(e)s
+vous étiez raccourci(e)s
+ils (elles) étaient raccourci(e)s
+
+** Passé simple
+
+je fus raccourci(e)
+tu fus raccourci(e)
+il (elle) fut raccourci(e)
+nous fûmes raccourci(e)s
+vous fûtes raccourci(e)s
+ils (elles) furent raccourci(e)s
+
+** Futur simple
+
+je serai raccourci(e)
+tu seras raccourci(e)
+il (elle) sera raccourci(e)
+nous serons raccourci(e)s
+vous serez raccourci(e)s
+ils (elles) seront raccourci(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais raccourci(e)
+tu serais raccourci(e)
+il (elle) serait raccourci(e)
+nous serions raccourci(e)s
+vous seriez raccourci(e)s
+ils (elles) seraient raccourci(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois raccourci(e)
+que tu sois raccourci(e)
+qu’il (elle) soit raccourci(e)
+que nous soyons raccourci(e)s
+que vous soyez raccourci(e)s
+qu’ils (elles) soient raccourci(e)s
+
+** Imparfait
+
+que je fusse raccourci(e)
+que tu fusses raccourci(e)
+qu’il (elle) fût raccourci(e)
+que nous fussions raccourci(e)s
+que vous fussiez raccourci(e)s
+qu’ils (elles) fussent raccourci(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons raccourci(e)s
+soyez raccourci(e)s
+
+* INFINITIF
+
+** Présent
+
+être raccourci(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant raccourci(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été raccourci(e)
+tu as été raccourci(e)
+il (elle) a été raccourci(e)
+nous avons été raccourci(e)s
+vous avez été raccourci(e)s
+ils (elles) ont été raccourci(e)s
+
+** Plus-que-parfait
+
+j'avais été raccourci(e)
+il (elle) avait été raccourci(e)
+nous avions été raccourci(e)s
+ils (elles) avaient été raccourci(e)s
+
+** Passé antérieur
+
+j'eus été raccourci(e)
+tu eus été raccourci(e)
+il (elle) eut été raccourci(e)
+nous eûmes été raccourci(e)s
+vous eûtes été raccourci(e)s
+ils (elles) eurent été raccourci(e)s
+
+** Futur antérieur
+
+j'aurai été raccourci(e)
+tu auras été raccourci(e)
+il (elle) aura été raccourci(e)
+nous aurons été raccourci(e)s
+vous aurez été raccourci(e)s
+ils (elles) auront été raccourci(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été raccourci(e)
+j'aurais été raccourci(e)
+il (elle) aurait été raccourci(e)
+nous aurions été raccourci(e)s
+vous auriez été raccourci(e)s
+ils (elles) auraient été raccourci(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été raccourci(e)
+que tu aies été raccourci(e)
+qu’il (elle) ait été raccourci(e)
+que nous ayons été raccourci(e)s
+que vous ayez été raccourci(e)s
+qu’ils (elles) aient été raccourci(e)s
+
+** Plus-que-parfait
+
+que j'eusse été raccourci(e)
+que tu eusses été raccourci(e)
+qu’il (elle) eût été raccourci(e)
+que nous eussions été raccourci(e)s
+que vous eussiez été raccourci(e)s
+qu’ils (elles) eussent été raccourci(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été raccourci(e)
+ayons été raccourci(e)s
+ayez été raccourci(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été raccourci(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été raccourci(e)(s)

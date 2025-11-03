@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attraper
+
+* INDICATIF
+
+** Présent
+
+j'attrape
+tu attrapes
+il (elle) attrape
+nous attrapons
+vous attrapez
+ils (elles) attrapent
+
+** Imparfait
+
+j'attrapais
+tu attrapais
+il (elle) attrapait
+nous attrapions
+vous attrapiez
+ils (elles) attrapaient
+
+** Passé simple
+
+j'attrapai
+tu attrapas
+il (elle) attrapa
+nous attrapâmes
+vous attrapâtes
+ils (elles) attrapèrent
+
+** Futur simple
+
+j'attraperai
+tu attraperas
+il (elle) attrapera
+nous attraperons
+vous attraperez
+ils (elles) attraperont
+
+* CONDITIONNEL
+
+** Présent
+
+j'attraperais
+tu attraperais
+il (elle) attraperait
+nous attraperions
+vous attraperiez
+ils (elles) attraperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attrape
+que tu attrapes
+qu’il (elle) attrape
+que nous attrapions
+que vous attrapiez
+qu’ils (elles) attrapent
+
+** Imparfait
+
+que j'attrapasse
+que tu attrapasses
+qu’il (elle) attrapât
+que nous attrapassions
+que vous attrapassiez
+qu’ils (elles) attrapassent
+
+* IMPÉRATIF
+
+** Présent
+
+attrape
+attrapons
+attrapez
+
+* INFINITIF
+
+** Présent
+
+attraper
+
+* PARTICIPE
+
+** Présent
+
+attrapant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attrapé
+tu as attrapé
+il (elle) a attrapé
+nous avons attrapé
+vous avez attrapé
+ils (elles) ont attrapé
+
+** Plus-que-parfait
+
+j'avais attrapé
+tu avais attrapé
+il (elle) avait attrapé
+nous avions attrapé
+vous aviez attrapé
+ils (elles) avaient attrapé
+
+** Passé antérieur
+
+j'eus attrapé
+tu eus attrapé
+il (elle) eut attrapé
+nous eûmes attrapé
+vous eûtes attrapé
+ils (elles) eurent attrapé
+
+** Futur antérieur
+
+j'aurai attrapé
+tu auras attrapé
+il (elle) aura attrapé
+nous aurons attrapé
+vous aurez attrapé
+ils (elles) auront attrapé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attrapé
+tu aurais attrapé
+il (elle) aurait attrapé
+nous aurions attrapé
+vous auriez attrapé
+ils (elles) auraient attrapé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attrapé
+que tu aies attrapé
+qu’il (elle) ait attrapé
+que nous ayons attrapé
+que vous ayez attrapé
+qu’ils (elles) aient attrapé
+
+** Plus-que-parfait
+
+que j'eusse attrapé
+que tu eusses attrapé
+qu’il (elle) eût attrapé
+que nous eussions attrapé
+que vous eussiez attrapé
+qu’ils (elles) eussent attrapé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attrapé
+ayez attrapé
+
+* INFINITIF
+
+** Passé
+
+avoir attrapé
+
+* PARTICIPE
+
+** Passé
+
+ayant attrapé
+attrapé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attrapé(e)
+tu es attrapé(e)
+il (elle) est attrapé(e)
+nous sommes attrapé(e)s
+vous êtes attrapé(e)s
+ils (elles) sont attrapé(e)s
+
+** Imparfait
+
+j'étais attrapé(e)
+tu étais attrapé(e)
+il (elle) était attrapé(e)
+nous étions attrapé(e)s
+vous étiez attrapé(e)s
+ils (elles) étaient attrapé(e)s
+
+** Passé simple
+
+je fus attrapé(e)
+tu fus attrapé(e)
+il (elle) fut attrapé(e)
+nous fûmes attrapé(e)s
+vous fûtes attrapé(e)s
+ils (elles) furent attrapé(e)s
+
+** Futur simple
+
+je serai attrapé(e)
+tu seras attrapé(e)
+il (elle) sera attrapé(e)
+nous serons attrapé(e)s
+vous serez attrapé(e)s
+ils (elles) seront attrapé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attrapé(e)
+tu serais attrapé(e)
+il (elle) serait attrapé(e)
+nous serions attrapé(e)s
+vous seriez attrapé(e)s
+ils (elles) seraient attrapé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attrapé(e)
+que tu sois attrapé(e)
+qu’il (elle) soit attrapé(e)
+que nous soyons attrapé(e)s
+que vous soyez attrapé(e)s
+qu’ils (elles) soient attrapé(e)s
+
+** Imparfait
+
+que je fusse attrapé(e)
+que tu fusses attrapé(e)
+qu’il (elle) fût attrapé(e)
+que nous fussions attrapé(e)s
+que vous fussiez attrapé(e)s
+qu’ils (elles) fussent attrapé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attrapé(e)s
+soyez attrapé(e)s
+
+* INFINITIF
+
+** Présent
+
+être attrapé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attrapé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attrapé(e)
+tu as été attrapé(e)
+il (elle) a été attrapé(e)
+nous avons été attrapé(e)s
+vous avez été attrapé(e)s
+ils (elles) ont été attrapé(e)s
+
+** Plus-que-parfait
+
+j'avais été attrapé(e)
+il (elle) avait été attrapé(e)
+nous avions été attrapé(e)s
+ils (elles) avaient été attrapé(e)s
+
+** Passé antérieur
+
+j'eus été attrapé(e)
+tu eus été attrapé(e)
+il (elle) eut été attrapé(e)
+nous eûmes été attrapé(e)s
+vous eûtes été attrapé(e)s
+ils (elles) eurent été attrapé(e)s
+
+** Futur antérieur
+
+j'aurai été attrapé(e)
+tu auras été attrapé(e)
+il (elle) aura été attrapé(e)
+nous aurons été attrapé(e)s
+vous aurez été attrapé(e)s
+ils (elles) auront été attrapé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attrapé(e)
+j'aurais été attrapé(e)
+il (elle) aurait été attrapé(e)
+nous aurions été attrapé(e)s
+vous auriez été attrapé(e)s
+ils (elles) auraient été attrapé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attrapé(e)
+que tu aies été attrapé(e)
+qu’il (elle) ait été attrapé(e)
+que nous ayons été attrapé(e)s
+que vous ayez été attrapé(e)s
+qu’ils (elles) aient été attrapé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attrapé(e)
+que tu eusses été attrapé(e)
+qu’il (elle) eût été attrapé(e)
+que nous eussions été attrapé(e)s
+que vous eussiez été attrapé(e)s
+qu’ils (elles) eussent été attrapé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attrapé(e)
+ayons été attrapé(e)s
+ayez été attrapé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attrapé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attrapé(e)(s)

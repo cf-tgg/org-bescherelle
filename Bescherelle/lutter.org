@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe lutter
+
+* INDICATIF
+
+** Présent
+
+je lutte
+tu luttes
+il (elle) lutte
+nous luttons
+vous luttez
+ils (elles) luttent
+
+** Imparfait
+
+je luttais
+tu luttais
+il (elle) luttait
+nous luttions
+vous luttiez
+ils (elles) luttaient
+
+** Passé simple
+
+je luttai
+tu luttas
+il (elle) lutta
+nous luttâmes
+vous luttâtes
+ils (elles) luttèrent
+
+** Futur simple
+
+je lutterai
+tu lutteras
+il (elle) luttera
+nous lutterons
+vous lutterez
+ils (elles) lutteront
+
+* CONDITIONNEL
+
+** Présent
+
+je lutterais
+tu lutterais
+il (elle) lutterait
+nous lutterions
+vous lutteriez
+ils (elles) lutteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lutte
+que tu luttes
+qu’il (elle) lutte
+que nous luttions
+que vous luttiez
+qu’ils (elles) luttent
+
+** Imparfait
+
+que je luttasse
+que tu luttasses
+qu’il (elle) luttât
+que nous luttassions
+que vous luttassiez
+qu’ils (elles) luttassent
+
+* IMPÉRATIF
+
+** Présent
+
+lutte
+luttons
+luttez
+
+* INFINITIF
+
+** Présent
+
+lutter
+
+* PARTICIPE
+
+** Présent
+
+luttant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lutté
+tu as lutté
+il (elle) a lutté
+nous avons lutté
+vous avez lutté
+ils (elles) ont lutté
+
+** Plus-que-parfait
+
+j'avais lutté
+tu avais lutté
+il (elle) avait lutté
+nous avions lutté
+vous aviez lutté
+ils (elles) avaient lutté
+
+** Passé antérieur
+
+j'eus lutté
+tu eus lutté
+il (elle) eut lutté
+nous eûmes lutté
+vous eûtes lutté
+ils (elles) eurent lutté
+
+** Futur antérieur
+
+j'aurai lutté
+tu auras lutté
+il (elle) aura lutté
+nous aurons lutté
+vous aurez lutté
+ils (elles) auront lutté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lutté
+tu aurais lutté
+il (elle) aurait lutté
+nous aurions lutté
+vous auriez lutté
+ils (elles) auraient lutté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lutté
+que tu aies lutté
+qu’il (elle) ait lutté
+que nous ayons lutté
+que vous ayez lutté
+qu’ils (elles) aient lutté
+
+** Plus-que-parfait
+
+que j'eusse lutté
+que tu eusses lutté
+qu’il (elle) eût lutté
+que nous eussions lutté
+que vous eussiez lutté
+qu’ils (elles) eussent lutté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lutté
+ayez lutté
+
+* INFINITIF
+
+** Passé
+
+avoir lutté
+
+* PARTICIPE
+
+** Passé
+
+ayant lutté
+lutté (invar.)

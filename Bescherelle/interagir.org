@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe interagir
+
+* INDICATIF
+
+** Présent
+
+j'interagis
+tu interagis
+il (elle) interagit
+nous interagissons
+vous interagissez
+ils (elles) interagissent
+
+** Imparfait
+
+j'interagissais
+tu interagissais
+il (elle) interagissait
+nous interagissions
+vous interagissiez
+ils (elles) interagissaient
+
+** Passé simple
+
+j'interagis
+tu interagis
+il (elle) interagit
+nous interagîmes
+vous interagîtes
+ils (elles) interagirent
+
+** Futur simple
+
+j'interagirai
+tu interagiras
+il (elle) interagira
+nous interagirons
+vous interagirez
+ils (elles) interagiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interagirais
+tu interagirais
+il (elle) interagirait
+nous interagirions
+vous interagiriez
+ils (elles) interagiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interagisse
+que tu interagisses
+qu’il (elle) interagisse
+que nous interagissions
+que vous interagissiez
+qu’ils (elles) interagissent
+
+** Imparfait
+
+que j'interagisse
+que tu interagisses
+qu’il (elle) interagît
+que nous interagissions
+que vous interagissiez
+qu’ils (elles) interagissent
+
+* IMPÉRATIF
+
+** Présent
+
+interagis
+interagissons
+interagissez
+
+* INFINITIF
+
+** Présent
+
+interagir
+
+* PARTICIPE
+
+** Présent
+
+interagissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interagi
+tu as interagi
+il (elle) a interagi
+nous avons interagi
+vous avez interagi
+ils (elles) ont interagi
+
+** Plus-que-parfait
+
+j'avais interagi
+tu avais interagi
+il (elle) avait interagi
+nous avions interagi
+vous aviez interagi
+ils (elles) avaient interagi
+
+** Passé antérieur
+
+j'eus interagi
+tu eus interagi
+il (elle) eut interagi
+nous eûmes interagi
+vous eûtes interagi
+ils (elles) eurent interagi
+
+** Futur antérieur
+
+j'aurai interagi
+tu auras interagi
+il (elle) aura interagi
+nous aurons interagi
+vous aurez interagi
+ils (elles) auront interagi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interagi
+tu aurais interagi
+il (elle) aurait interagi
+nous aurions interagi
+vous auriez interagi
+ils (elles) auraient interagi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interagi
+que tu aies interagi
+qu’il (elle) ait interagi
+que nous ayons interagi
+que vous ayez interagi
+qu’ils (elles) aient interagi
+
+** Plus-que-parfait
+
+que j'eusse interagi
+que tu eusses interagi
+qu’il (elle) eût interagi
+que nous eussions interagi
+que vous eussiez interagi
+qu’ils (elles) eussent interagi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interagi
+ayez interagi
+
+* INFINITIF
+
+** Passé
+
+avoir interagi
+
+* PARTICIPE
+
+** Passé
+
+ayant interagi
+interagi (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sursauter
+
+* INDICATIF
+
+** Présent
+
+je sursaute
+tu sursautes
+il (elle) sursaute
+nous sursautons
+vous sursautez
+ils (elles) sursautent
+
+** Imparfait
+
+je sursautais
+tu sursautais
+il (elle) sursautait
+nous sursautions
+vous sursautiez
+ils (elles) sursautaient
+
+** Passé simple
+
+je sursautai
+tu sursautas
+il (elle) sursauta
+nous sursautâmes
+vous sursautâtes
+ils (elles) sursautèrent
+
+** Futur simple
+
+je sursauterai
+tu sursauteras
+il (elle) sursautera
+nous sursauterons
+vous sursauterez
+ils (elles) sursauteront
+
+* CONDITIONNEL
+
+** Présent
+
+je sursauterais
+tu sursauterais
+il (elle) sursauterait
+nous sursauterions
+vous sursauteriez
+ils (elles) sursauteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sursaute
+que tu sursautes
+qu’il (elle) sursaute
+que nous sursautions
+que vous sursautiez
+qu’ils (elles) sursautent
+
+** Imparfait
+
+que je sursautasse
+que tu sursautasses
+qu’il (elle) sursautât
+que nous sursautassions
+que vous sursautassiez
+qu’ils (elles) sursautassent
+
+* IMPÉRATIF
+
+** Présent
+
+sursaute
+sursautons
+sursautez
+
+* INFINITIF
+
+** Présent
+
+sursauter
+
+* PARTICIPE
+
+** Présent
+
+sursautant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sursauté
+tu as sursauté
+il (elle) a sursauté
+nous avons sursauté
+vous avez sursauté
+ils (elles) ont sursauté
+
+** Plus-que-parfait
+
+j'avais sursauté
+tu avais sursauté
+il (elle) avait sursauté
+nous avions sursauté
+vous aviez sursauté
+ils (elles) avaient sursauté
+
+** Passé antérieur
+
+j'eus sursauté
+tu eus sursauté
+il (elle) eut sursauté
+nous eûmes sursauté
+vous eûtes sursauté
+ils (elles) eurent sursauté
+
+** Futur antérieur
+
+j'aurai sursauté
+tu auras sursauté
+il (elle) aura sursauté
+nous aurons sursauté
+vous aurez sursauté
+ils (elles) auront sursauté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sursauté
+tu aurais sursauté
+il (elle) aurait sursauté
+nous aurions sursauté
+vous auriez sursauté
+ils (elles) auraient sursauté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sursauté
+que tu aies sursauté
+qu’il (elle) ait sursauté
+que nous ayons sursauté
+que vous ayez sursauté
+qu’ils (elles) aient sursauté
+
+** Plus-que-parfait
+
+que j'eusse sursauté
+que tu eusses sursauté
+qu’il (elle) eût sursauté
+que nous eussions sursauté
+que vous eussiez sursauté
+qu’ils (elles) eussent sursauté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sursauté
+ayez sursauté
+
+* INFINITIF
+
+** Passé
+
+avoir sursauté
+
+* PARTICIPE
+
+** Passé
+
+ayant sursauté
+sursauté (invar.)

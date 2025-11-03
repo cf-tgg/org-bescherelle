@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe traverser
+
+* INDICATIF
+
+** Présent
+
+je traverse
+tu traverses
+il (elle) traverse
+nous traversons
+vous traversez
+ils (elles) traversent
+
+** Imparfait
+
+je traversais
+tu traversais
+il (elle) traversait
+nous traversions
+vous traversiez
+ils (elles) traversaient
+
+** Passé simple
+
+je traversai
+tu traversas
+il (elle) traversa
+nous traversâmes
+vous traversâtes
+ils (elles) traversèrent
+
+** Futur simple
+
+je traverserai
+tu traverseras
+il (elle) traversera
+nous traverserons
+vous traverserez
+ils (elles) traverseront
+
+* CONDITIONNEL
+
+** Présent
+
+je traverserais
+tu traverserais
+il (elle) traverserait
+nous traverserions
+vous traverseriez
+ils (elles) traverseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je traverse
+que tu traverses
+qu’il (elle) traverse
+que nous traversions
+que vous traversiez
+qu’ils (elles) traversent
+
+** Imparfait
+
+que je traversasse
+que tu traversasses
+qu’il (elle) traversât
+que nous traversassions
+que vous traversassiez
+qu’ils (elles) traversassent
+
+* IMPÉRATIF
+
+** Présent
+
+traverse
+traversons
+traversez
+
+* INFINITIF
+
+** Présent
+
+traverser
+
+* PARTICIPE
+
+** Présent
+
+traversant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai traversé
+tu as traversé
+il (elle) a traversé
+nous avons traversé
+vous avez traversé
+ils (elles) ont traversé
+
+** Plus-que-parfait
+
+j'avais traversé
+tu avais traversé
+il (elle) avait traversé
+nous avions traversé
+vous aviez traversé
+ils (elles) avaient traversé
+
+** Passé antérieur
+
+j'eus traversé
+tu eus traversé
+il (elle) eut traversé
+nous eûmes traversé
+vous eûtes traversé
+ils (elles) eurent traversé
+
+** Futur antérieur
+
+j'aurai traversé
+tu auras traversé
+il (elle) aura traversé
+nous aurons traversé
+vous aurez traversé
+ils (elles) auront traversé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais traversé
+tu aurais traversé
+il (elle) aurait traversé
+nous aurions traversé
+vous auriez traversé
+ils (elles) auraient traversé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie traversé
+que tu aies traversé
+qu’il (elle) ait traversé
+que nous ayons traversé
+que vous ayez traversé
+qu’ils (elles) aient traversé
+
+** Plus-que-parfait
+
+que j'eusse traversé
+que tu eusses traversé
+qu’il (elle) eût traversé
+que nous eussions traversé
+que vous eussiez traversé
+qu’ils (elles) eussent traversé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons traversé
+ayez traversé
+
+* INFINITIF
+
+** Passé
+
+avoir traversé
+
+* PARTICIPE
+
+** Passé
+
+ayant traversé
+traversé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis traversé(e)
+tu es traversé(e)
+il (elle) est traversé(e)
+nous sommes traversé(e)s
+vous êtes traversé(e)s
+ils (elles) sont traversé(e)s
+
+** Imparfait
+
+j'étais traversé(e)
+tu étais traversé(e)
+il (elle) était traversé(e)
+nous étions traversé(e)s
+vous étiez traversé(e)s
+ils (elles) étaient traversé(e)s
+
+** Passé simple
+
+je fus traversé(e)
+tu fus traversé(e)
+il (elle) fut traversé(e)
+nous fûmes traversé(e)s
+vous fûtes traversé(e)s
+ils (elles) furent traversé(e)s
+
+** Futur simple
+
+je serai traversé(e)
+tu seras traversé(e)
+il (elle) sera traversé(e)
+nous serons traversé(e)s
+vous serez traversé(e)s
+ils (elles) seront traversé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais traversé(e)
+tu serais traversé(e)
+il (elle) serait traversé(e)
+nous serions traversé(e)s
+vous seriez traversé(e)s
+ils (elles) seraient traversé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois traversé(e)
+que tu sois traversé(e)
+qu’il (elle) soit traversé(e)
+que nous soyons traversé(e)s
+que vous soyez traversé(e)s
+qu’ils (elles) soient traversé(e)s
+
+** Imparfait
+
+que je fusse traversé(e)
+que tu fusses traversé(e)
+qu’il (elle) fût traversé(e)
+que nous fussions traversé(e)s
+que vous fussiez traversé(e)s
+qu’ils (elles) fussent traversé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons traversé(e)s
+soyez traversé(e)s
+
+* INFINITIF
+
+** Présent
+
+être traversé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant traversé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été traversé(e)
+tu as été traversé(e)
+il (elle) a été traversé(e)
+nous avons été traversé(e)s
+vous avez été traversé(e)s
+ils (elles) ont été traversé(e)s
+
+** Plus-que-parfait
+
+j'avais été traversé(e)
+il (elle) avait été traversé(e)
+nous avions été traversé(e)s
+ils (elles) avaient été traversé(e)s
+
+** Passé antérieur
+
+j'eus été traversé(e)
+tu eus été traversé(e)
+il (elle) eut été traversé(e)
+nous eûmes été traversé(e)s
+vous eûtes été traversé(e)s
+ils (elles) eurent été traversé(e)s
+
+** Futur antérieur
+
+j'aurai été traversé(e)
+tu auras été traversé(e)
+il (elle) aura été traversé(e)
+nous aurons été traversé(e)s
+vous aurez été traversé(e)s
+ils (elles) auront été traversé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été traversé(e)
+j'aurais été traversé(e)
+il (elle) aurait été traversé(e)
+nous aurions été traversé(e)s
+vous auriez été traversé(e)s
+ils (elles) auraient été traversé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été traversé(e)
+que tu aies été traversé(e)
+qu’il (elle) ait été traversé(e)
+que nous ayons été traversé(e)s
+que vous ayez été traversé(e)s
+qu’ils (elles) aient été traversé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été traversé(e)
+que tu eusses été traversé(e)
+qu’il (elle) eût été traversé(e)
+que nous eussions été traversé(e)s
+que vous eussiez été traversé(e)s
+qu’ils (elles) eussent été traversé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été traversé(e)
+ayons été traversé(e)s
+ayez été traversé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été traversé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été traversé(e)(s)

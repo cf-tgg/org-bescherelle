@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe recourir
+
+* INDICATIF
+
+** Présent
+
+je recours
+tu recours
+il (elle) recourt
+nous recourons
+vous recourez
+ils (elles) recourent
+
+** Imparfait
+
+je recourais
+tu recourais
+il (elle) recourait
+nous recourions
+vous recouriez
+ils (elles) recouraient
+
+** Passé simple
+
+je recourus
+tu recourus
+il (elle) recourut
+nous recourûmes
+vous recourûtes
+ils (elles) recoururent
+
+** Futur simple
+
+je recourrai
+tu recourras
+il (elle) recourra
+nous recourrons
+vous recourrez
+ils (elles) recourront
+
+* CONDITIONNEL
+
+** Présent
+
+je recourrais
+tu recourrais
+il (elle) recourrait
+nous recourrions
+vous recourriez
+ils (elles) recourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recoure
+que tu recoures
+qu’il (elle) recoure
+que nous recourions
+que vous recouriez
+qu’ils (elles) recourent
+
+** Imparfait
+
+que je recourusse
+que tu recourusses
+qu’il (elle) recourût
+que nous recourussions
+que vous recourussiez
+qu’ils (elles) recourussent
+
+* IMPÉRATIF
+
+** Présent
+
+recours
+recourons
+recourez
+
+* INFINITIF
+
+** Présent
+
+recourir
+
+* PARTICIPE
+
+** Présent
+
+recourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recouru
+tu as recouru
+il (elle) a recouru
+nous avons recouru
+vous avez recouru
+ils (elles) ont recouru
+
+** Plus-que-parfait
+
+j'avais recouru
+tu avais recouru
+il (elle) avait recouru
+nous avions recouru
+vous aviez recouru
+ils (elles) avaient recouru
+
+** Passé antérieur
+
+j'eus recouru
+tu eus recouru
+il (elle) eut recouru
+nous eûmes recouru
+vous eûtes recouru
+ils (elles) eurent recouru
+
+** Futur antérieur
+
+j'aurai recouru
+tu auras recouru
+il (elle) aura recouru
+nous aurons recouru
+vous aurez recouru
+ils (elles) auront recouru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recouru
+tu aurais recouru
+il (elle) aurait recouru
+nous aurions recouru
+vous auriez recouru
+ils (elles) auraient recouru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recouru
+que tu aies recouru
+qu’il (elle) ait recouru
+que nous ayons recouru
+que vous ayez recouru
+qu’ils (elles) aient recouru
+
+** Plus-que-parfait
+
+que j'eusse recouru
+que tu eusses recouru
+qu’il (elle) eût recouru
+que nous eussions recouru
+que vous eussiez recouru
+qu’ils (elles) eussent recouru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recouru
+ayez recouru
+
+* INFINITIF
+
+** Passé
+
+avoir recouru
+
+* PARTICIPE
+
+** Passé
+
+ayant recouru
+recouru (invar.)

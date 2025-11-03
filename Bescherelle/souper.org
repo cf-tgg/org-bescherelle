@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe souper
+
+* INDICATIF
+
+** Présent
+
+je soupe
+tu soupes
+il (elle) soupe
+nous soupons
+vous soupez
+ils (elles) soupent
+
+** Imparfait
+
+je soupais
+tu soupais
+il (elle) soupait
+nous soupions
+vous soupiez
+ils (elles) soupaient
+
+** Passé simple
+
+je soupai
+tu soupas
+il (elle) soupa
+nous soupâmes
+vous soupâtes
+ils (elles) soupèrent
+
+** Futur simple
+
+je souperai
+tu souperas
+il (elle) soupera
+nous souperons
+vous souperez
+ils (elles) souperont
+
+* CONDITIONNEL
+
+** Présent
+
+je souperais
+tu souperais
+il (elle) souperait
+nous souperions
+vous souperiez
+ils (elles) souperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soupe
+que tu soupes
+qu’il (elle) soupe
+que nous soupions
+que vous soupiez
+qu’ils (elles) soupent
+
+** Imparfait
+
+que je soupasse
+que tu soupasses
+qu’il (elle) soupât
+que nous soupassions
+que vous soupassiez
+qu’ils (elles) soupassent
+
+* IMPÉRATIF
+
+** Présent
+
+soupe
+soupons
+soupez
+
+* INFINITIF
+
+** Présent
+
+souper
+
+* PARTICIPE
+
+** Présent
+
+soupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soupé
+tu as soupé
+il (elle) a soupé
+nous avons soupé
+vous avez soupé
+ils (elles) ont soupé
+
+** Plus-que-parfait
+
+j'avais soupé
+tu avais soupé
+il (elle) avait soupé
+nous avions soupé
+vous aviez soupé
+ils (elles) avaient soupé
+
+** Passé antérieur
+
+j'eus soupé
+tu eus soupé
+il (elle) eut soupé
+nous eûmes soupé
+vous eûtes soupé
+ils (elles) eurent soupé
+
+** Futur antérieur
+
+j'aurai soupé
+tu auras soupé
+il (elle) aura soupé
+nous aurons soupé
+vous aurez soupé
+ils (elles) auront soupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soupé
+tu aurais soupé
+il (elle) aurait soupé
+nous aurions soupé
+vous auriez soupé
+ils (elles) auraient soupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soupé
+que tu aies soupé
+qu’il (elle) ait soupé
+que nous ayons soupé
+que vous ayez soupé
+qu’ils (elles) aient soupé
+
+** Plus-que-parfait
+
+que j'eusse soupé
+que tu eusses soupé
+qu’il (elle) eût soupé
+que nous eussions soupé
+que vous eussiez soupé
+qu’ils (elles) eussent soupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soupé
+ayez soupé
+
+* INFINITIF
+
+** Passé
+
+avoir soupé
+
+* PARTICIPE
+
+** Passé
+
+ayant soupé
+soupé (invar.)

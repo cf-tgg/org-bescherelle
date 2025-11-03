@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rendre
+
+* INDICATIF
+
+** Présent
+
+je rends
+tu rends
+il (elle) rend
+nous rendons
+vous rendez
+ils (elles) rendent
+
+** Imparfait
+
+je rendais
+tu rendais
+il (elle) rendait
+nous rendions
+vous rendiez
+ils (elles) rendaient
+
+** Passé simple
+
+je rendis
+tu rendis
+il (elle) rendit
+nous rendîmes
+vous rendîtes
+ils (elles) rendirent
+
+** Futur simple
+
+je rendrai
+tu rendras
+il (elle) rendra
+nous rendrons
+vous rendrez
+ils (elles) rendront
+
+* CONDITIONNEL
+
+** Présent
+
+je rendrais
+tu rendrais
+il (elle) rendrait
+nous rendrions
+vous rendriez
+ils (elles) rendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rende
+que tu rendes
+qu’il (elle) rende
+que nous rendions
+que vous rendiez
+qu’ils (elles) rendent
+
+** Imparfait
+
+que je rendisse
+que tu rendisses
+qu’il (elle) rendît
+que nous rendissions
+que vous rendissiez
+qu’ils (elles) rendissent
+
+* IMPÉRATIF
+
+** Présent
+
+rends
+rendons
+rendez
+
+* INFINITIF
+
+** Présent
+
+rendre
+
+* PARTICIPE
+
+** Présent
+
+rendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rendu
+tu as rendu
+il (elle) a rendu
+nous avons rendu
+vous avez rendu
+ils (elles) ont rendu
+
+** Plus-que-parfait
+
+j'avais rendu
+tu avais rendu
+il (elle) avait rendu
+nous avions rendu
+vous aviez rendu
+ils (elles) avaient rendu
+
+** Passé antérieur
+
+j'eus rendu
+tu eus rendu
+il (elle) eut rendu
+nous eûmes rendu
+vous eûtes rendu
+ils (elles) eurent rendu
+
+** Futur antérieur
+
+j'aurai rendu
+tu auras rendu
+il (elle) aura rendu
+nous aurons rendu
+vous aurez rendu
+ils (elles) auront rendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rendu
+tu aurais rendu
+il (elle) aurait rendu
+nous aurions rendu
+vous auriez rendu
+ils (elles) auraient rendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rendu
+que tu aies rendu
+qu’il (elle) ait rendu
+que nous ayons rendu
+que vous ayez rendu
+qu’ils (elles) aient rendu
+
+** Plus-que-parfait
+
+que j'eusse rendu
+que tu eusses rendu
+qu’il (elle) eût rendu
+que nous eussions rendu
+que vous eussiez rendu
+qu’ils (elles) eussent rendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rendu
+ayez rendu
+
+* INFINITIF
+
+** Passé
+
+avoir rendu
+
+* PARTICIPE
+
+** Passé
+
+ayant rendu
+rendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis rendu(e)
+tu es rendu(e)
+il (elle) est rendu(e)
+nous sommes rendu(e)s
+vous êtes rendu(e)s
+ils (elles) sont rendu(e)s
+
+** Imparfait
+
+j'étais rendu(e)
+tu étais rendu(e)
+il (elle) était rendu(e)
+nous étions rendu(e)s
+vous étiez rendu(e)s
+ils (elles) étaient rendu(e)s
+
+** Passé simple
+
+je fus rendu(e)
+tu fus rendu(e)
+il (elle) fut rendu(e)
+nous fûmes rendu(e)s
+vous fûtes rendu(e)s
+ils (elles) furent rendu(e)s
+
+** Futur simple
+
+je serai rendu(e)
+tu seras rendu(e)
+il (elle) sera rendu(e)
+nous serons rendu(e)s
+vous serez rendu(e)s
+ils (elles) seront rendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rendu(e)
+tu serais rendu(e)
+il (elle) serait rendu(e)
+nous serions rendu(e)s
+vous seriez rendu(e)s
+ils (elles) seraient rendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rendu(e)
+que tu sois rendu(e)
+qu’il (elle) soit rendu(e)
+que nous soyons rendu(e)s
+que vous soyez rendu(e)s
+qu’ils (elles) soient rendu(e)s
+
+** Imparfait
+
+que je fusse rendu(e)
+que tu fusses rendu(e)
+qu’il (elle) fût rendu(e)
+que nous fussions rendu(e)s
+que vous fussiez rendu(e)s
+qu’ils (elles) fussent rendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rendu(e)s
+soyez rendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être rendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rendu(e)
+tu as été rendu(e)
+il (elle) a été rendu(e)
+nous avons été rendu(e)s
+vous avez été rendu(e)s
+ils (elles) ont été rendu(e)s
+
+** Plus-que-parfait
+
+j'avais été rendu(e)
+il (elle) avait été rendu(e)
+nous avions été rendu(e)s
+ils (elles) avaient été rendu(e)s
+
+** Passé antérieur
+
+j'eus été rendu(e)
+tu eus été rendu(e)
+il (elle) eut été rendu(e)
+nous eûmes été rendu(e)s
+vous eûtes été rendu(e)s
+ils (elles) eurent été rendu(e)s
+
+** Futur antérieur
+
+j'aurai été rendu(e)
+tu auras été rendu(e)
+il (elle) aura été rendu(e)
+nous aurons été rendu(e)s
+vous aurez été rendu(e)s
+ils (elles) auront été rendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rendu(e)
+j'aurais été rendu(e)
+il (elle) aurait été rendu(e)
+nous aurions été rendu(e)s
+vous auriez été rendu(e)s
+ils (elles) auraient été rendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rendu(e)
+que tu aies été rendu(e)
+qu’il (elle) ait été rendu(e)
+que nous ayons été rendu(e)s
+que vous ayez été rendu(e)s
+qu’ils (elles) aient été rendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rendu(e)
+que tu eusses été rendu(e)
+qu’il (elle) eût été rendu(e)
+que nous eussions été rendu(e)s
+que vous eussiez été rendu(e)s
+qu’ils (elles) eussent été rendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rendu(e)
+ayons été rendu(e)s
+ayez été rendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rendu(e)(s)

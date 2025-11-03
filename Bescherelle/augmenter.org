@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe augmenter
+
+* INDICATIF
+
+** Présent
+
+j'augmente
+tu augmentes
+il (elle) augmente
+nous augmentons
+vous augmentez
+ils (elles) augmentent
+
+** Imparfait
+
+j'augmentais
+tu augmentais
+il (elle) augmentait
+nous augmentions
+vous augmentiez
+ils (elles) augmentaient
+
+** Passé simple
+
+j'augmentai
+tu augmentas
+il (elle) augmenta
+nous augmentâmes
+vous augmentâtes
+ils (elles) augmentèrent
+
+** Futur simple
+
+j'augmenterai
+tu augmenteras
+il (elle) augmentera
+nous augmenterons
+vous augmenterez
+ils (elles) augmenteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'augmenterais
+tu augmenterais
+il (elle) augmenterait
+nous augmenterions
+vous augmenteriez
+ils (elles) augmenteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'augmente
+que tu augmentes
+qu’il (elle) augmente
+que nous augmentions
+que vous augmentiez
+qu’ils (elles) augmentent
+
+** Imparfait
+
+que j'augmentasse
+que tu augmentasses
+qu’il (elle) augmentât
+que nous augmentassions
+que vous augmentassiez
+qu’ils (elles) augmentassent
+
+* IMPÉRATIF
+
+** Présent
+
+augmente
+augmentons
+augmentez
+
+* INFINITIF
+
+** Présent
+
+augmenter
+
+* PARTICIPE
+
+** Présent
+
+augmentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai augmenté
+tu as augmenté
+il (elle) a augmenté
+nous avons augmenté
+vous avez augmenté
+ils (elles) ont augmenté
+
+** Plus-que-parfait
+
+j'avais augmenté
+tu avais augmenté
+il (elle) avait augmenté
+nous avions augmenté
+vous aviez augmenté
+ils (elles) avaient augmenté
+
+** Passé antérieur
+
+j'eus augmenté
+tu eus augmenté
+il (elle) eut augmenté
+nous eûmes augmenté
+vous eûtes augmenté
+ils (elles) eurent augmenté
+
+** Futur antérieur
+
+j'aurai augmenté
+tu auras augmenté
+il (elle) aura augmenté
+nous aurons augmenté
+vous aurez augmenté
+ils (elles) auront augmenté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais augmenté
+tu aurais augmenté
+il (elle) aurait augmenté
+nous aurions augmenté
+vous auriez augmenté
+ils (elles) auraient augmenté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie augmenté
+que tu aies augmenté
+qu’il (elle) ait augmenté
+que nous ayons augmenté
+que vous ayez augmenté
+qu’ils (elles) aient augmenté
+
+** Plus-que-parfait
+
+que j'eusse augmenté
+que tu eusses augmenté
+qu’il (elle) eût augmenté
+que nous eussions augmenté
+que vous eussiez augmenté
+qu’ils (elles) eussent augmenté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons augmenté
+ayez augmenté
+
+* INFINITIF
+
+** Passé
+
+avoir augmenté
+
+* PARTICIPE
+
+** Passé
+
+ayant augmenté
+augmenté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis augmenté(e)
+tu es augmenté(e)
+il (elle) est augmenté(e)
+nous sommes augmenté(e)s
+vous êtes augmenté(e)s
+ils (elles) sont augmenté(e)s
+
+** Imparfait
+
+j'étais augmenté(e)
+tu étais augmenté(e)
+il (elle) était augmenté(e)
+nous étions augmenté(e)s
+vous étiez augmenté(e)s
+ils (elles) étaient augmenté(e)s
+
+** Passé simple
+
+je fus augmenté(e)
+tu fus augmenté(e)
+il (elle) fut augmenté(e)
+nous fûmes augmenté(e)s
+vous fûtes augmenté(e)s
+ils (elles) furent augmenté(e)s
+
+** Futur simple
+
+je serai augmenté(e)
+tu seras augmenté(e)
+il (elle) sera augmenté(e)
+nous serons augmenté(e)s
+vous serez augmenté(e)s
+ils (elles) seront augmenté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais augmenté(e)
+tu serais augmenté(e)
+il (elle) serait augmenté(e)
+nous serions augmenté(e)s
+vous seriez augmenté(e)s
+ils (elles) seraient augmenté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois augmenté(e)
+que tu sois augmenté(e)
+qu’il (elle) soit augmenté(e)
+que nous soyons augmenté(e)s
+que vous soyez augmenté(e)s
+qu’ils (elles) soient augmenté(e)s
+
+** Imparfait
+
+que je fusse augmenté(e)
+que tu fusses augmenté(e)
+qu’il (elle) fût augmenté(e)
+que nous fussions augmenté(e)s
+que vous fussiez augmenté(e)s
+qu’ils (elles) fussent augmenté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons augmenté(e)s
+soyez augmenté(e)s
+
+* INFINITIF
+
+** Présent
+
+être augmenté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant augmenté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été augmenté(e)
+tu as été augmenté(e)
+il (elle) a été augmenté(e)
+nous avons été augmenté(e)s
+vous avez été augmenté(e)s
+ils (elles) ont été augmenté(e)s
+
+** Plus-que-parfait
+
+j'avais été augmenté(e)
+il (elle) avait été augmenté(e)
+nous avions été augmenté(e)s
+ils (elles) avaient été augmenté(e)s
+
+** Passé antérieur
+
+j'eus été augmenté(e)
+tu eus été augmenté(e)
+il (elle) eut été augmenté(e)
+nous eûmes été augmenté(e)s
+vous eûtes été augmenté(e)s
+ils (elles) eurent été augmenté(e)s
+
+** Futur antérieur
+
+j'aurai été augmenté(e)
+tu auras été augmenté(e)
+il (elle) aura été augmenté(e)
+nous aurons été augmenté(e)s
+vous aurez été augmenté(e)s
+ils (elles) auront été augmenté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été augmenté(e)
+j'aurais été augmenté(e)
+il (elle) aurait été augmenté(e)
+nous aurions été augmenté(e)s
+vous auriez été augmenté(e)s
+ils (elles) auraient été augmenté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été augmenté(e)
+que tu aies été augmenté(e)
+qu’il (elle) ait été augmenté(e)
+que nous ayons été augmenté(e)s
+que vous ayez été augmenté(e)s
+qu’ils (elles) aient été augmenté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été augmenté(e)
+que tu eusses été augmenté(e)
+qu’il (elle) eût été augmenté(e)
+que nous eussions été augmenté(e)s
+que vous eussiez été augmenté(e)s
+qu’ils (elles) eussent été augmenté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été augmenté(e)
+ayons été augmenté(e)s
+ayez été augmenté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été augmenté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été augmenté(e)(s)

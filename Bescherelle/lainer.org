@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lainer
+
+* INDICATIF
+
+** Présent
+
+je laine
+tu laines
+il (elle) laine
+nous lainons
+vous lainez
+ils (elles) lainent
+
+** Imparfait
+
+je lainais
+tu lainais
+il (elle) lainait
+nous lainions
+vous lainiez
+ils (elles) lainaient
+
+** Passé simple
+
+je lainai
+tu lainas
+il (elle) laina
+nous lainâmes
+vous lainâtes
+ils (elles) lainèrent
+
+** Futur simple
+
+je lainerai
+tu laineras
+il (elle) lainera
+nous lainerons
+vous lainerez
+ils (elles) laineront
+
+* CONDITIONNEL
+
+** Présent
+
+je lainerais
+tu lainerais
+il (elle) lainerait
+nous lainerions
+vous laineriez
+ils (elles) laineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je laine
+que tu laines
+qu’il (elle) laine
+que nous lainions
+que vous lainiez
+qu’ils (elles) lainent
+
+** Imparfait
+
+que je lainasse
+que tu lainasses
+qu’il (elle) lainât
+que nous lainassions
+que vous lainassiez
+qu’ils (elles) lainassent
+
+* IMPÉRATIF
+
+** Présent
+
+laine
+lainons
+lainez
+
+* INFINITIF
+
+** Présent
+
+lainer
+
+* PARTICIPE
+
+** Présent
+
+lainant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lainé
+tu as lainé
+il (elle) a lainé
+nous avons lainé
+vous avez lainé
+ils (elles) ont lainé
+
+** Plus-que-parfait
+
+j'avais lainé
+tu avais lainé
+il (elle) avait lainé
+nous avions lainé
+vous aviez lainé
+ils (elles) avaient lainé
+
+** Passé antérieur
+
+j'eus lainé
+tu eus lainé
+il (elle) eut lainé
+nous eûmes lainé
+vous eûtes lainé
+ils (elles) eurent lainé
+
+** Futur antérieur
+
+j'aurai lainé
+tu auras lainé
+il (elle) aura lainé
+nous aurons lainé
+vous aurez lainé
+ils (elles) auront lainé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lainé
+tu aurais lainé
+il (elle) aurait lainé
+nous aurions lainé
+vous auriez lainé
+ils (elles) auraient lainé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lainé
+que tu aies lainé
+qu’il (elle) ait lainé
+que nous ayons lainé
+que vous ayez lainé
+qu’ils (elles) aient lainé
+
+** Plus-que-parfait
+
+que j'eusse lainé
+que tu eusses lainé
+qu’il (elle) eût lainé
+que nous eussions lainé
+que vous eussiez lainé
+qu’ils (elles) eussent lainé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lainé
+ayez lainé
+
+* INFINITIF
+
+** Passé
+
+avoir lainé
+
+* PARTICIPE
+
+** Passé
+
+ayant lainé
+lainé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lainé(e)
+tu es lainé(e)
+il (elle) est lainé(e)
+nous sommes lainé(e)s
+vous êtes lainé(e)s
+ils (elles) sont lainé(e)s
+
+** Imparfait
+
+j'étais lainé(e)
+tu étais lainé(e)
+il (elle) était lainé(e)
+nous étions lainé(e)s
+vous étiez lainé(e)s
+ils (elles) étaient lainé(e)s
+
+** Passé simple
+
+je fus lainé(e)
+tu fus lainé(e)
+il (elle) fut lainé(e)
+nous fûmes lainé(e)s
+vous fûtes lainé(e)s
+ils (elles) furent lainé(e)s
+
+** Futur simple
+
+je serai lainé(e)
+tu seras lainé(e)
+il (elle) sera lainé(e)
+nous serons lainé(e)s
+vous serez lainé(e)s
+ils (elles) seront lainé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lainé(e)
+tu serais lainé(e)
+il (elle) serait lainé(e)
+nous serions lainé(e)s
+vous seriez lainé(e)s
+ils (elles) seraient lainé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lainé(e)
+que tu sois lainé(e)
+qu’il (elle) soit lainé(e)
+que nous soyons lainé(e)s
+que vous soyez lainé(e)s
+qu’ils (elles) soient lainé(e)s
+
+** Imparfait
+
+que je fusse lainé(e)
+que tu fusses lainé(e)
+qu’il (elle) fût lainé(e)
+que nous fussions lainé(e)s
+que vous fussiez lainé(e)s
+qu’ils (elles) fussent lainé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lainé(e)s
+soyez lainé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lainé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lainé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lainé(e)
+tu as été lainé(e)
+il (elle) a été lainé(e)
+nous avons été lainé(e)s
+vous avez été lainé(e)s
+ils (elles) ont été lainé(e)s
+
+** Plus-que-parfait
+
+j'avais été lainé(e)
+il (elle) avait été lainé(e)
+nous avions été lainé(e)s
+ils (elles) avaient été lainé(e)s
+
+** Passé antérieur
+
+j'eus été lainé(e)
+tu eus été lainé(e)
+il (elle) eut été lainé(e)
+nous eûmes été lainé(e)s
+vous eûtes été lainé(e)s
+ils (elles) eurent été lainé(e)s
+
+** Futur antérieur
+
+j'aurai été lainé(e)
+tu auras été lainé(e)
+il (elle) aura été lainé(e)
+nous aurons été lainé(e)s
+vous aurez été lainé(e)s
+ils (elles) auront été lainé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lainé(e)
+j'aurais été lainé(e)
+il (elle) aurait été lainé(e)
+nous aurions été lainé(e)s
+vous auriez été lainé(e)s
+ils (elles) auraient été lainé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lainé(e)
+que tu aies été lainé(e)
+qu’il (elle) ait été lainé(e)
+que nous ayons été lainé(e)s
+que vous ayez été lainé(e)s
+qu’ils (elles) aient été lainé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lainé(e)
+que tu eusses été lainé(e)
+qu’il (elle) eût été lainé(e)
+que nous eussions été lainé(e)s
+que vous eussiez été lainé(e)s
+qu’ils (elles) eussent été lainé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lainé(e)
+ayons été lainé(e)s
+ayez été lainé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lainé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lainé(e)(s)

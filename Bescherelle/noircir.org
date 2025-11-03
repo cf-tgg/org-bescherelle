@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe noircir
+
+* INDICATIF
+
+** Présent
+
+je noircis
+tu noircis
+il (elle) noircit
+nous noircissons
+vous noircissez
+ils (elles) noircissent
+
+** Imparfait
+
+je noircissais
+tu noircissais
+il (elle) noircissait
+nous noircissions
+vous noircissiez
+ils (elles) noircissaient
+
+** Passé simple
+
+je noircis
+tu noircis
+il (elle) noircit
+nous noircîmes
+vous noircîtes
+ils (elles) noircirent
+
+** Futur simple
+
+je noircirai
+tu noirciras
+il (elle) noircira
+nous noircirons
+vous noircirez
+ils (elles) noirciront
+
+* CONDITIONNEL
+
+** Présent
+
+je noircirais
+tu noircirais
+il (elle) noircirait
+nous noircirions
+vous noirciriez
+ils (elles) noirciraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je noircisse
+que tu noircisses
+qu’il (elle) noircisse
+que nous noircissions
+que vous noircissiez
+qu’ils (elles) noircissent
+
+** Imparfait
+
+que je noircisse
+que tu noircisses
+qu’il (elle) noircît
+que nous noircissions
+que vous noircissiez
+qu’ils (elles) noircissent
+
+* IMPÉRATIF
+
+** Présent
+
+noircis
+noircissons
+noircissez
+
+* INFINITIF
+
+** Présent
+
+noircir
+
+* PARTICIPE
+
+** Présent
+
+noircissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai noirci
+tu as noirci
+il (elle) a noirci
+nous avons noirci
+vous avez noirci
+ils (elles) ont noirci
+
+** Plus-que-parfait
+
+j'avais noirci
+tu avais noirci
+il (elle) avait noirci
+nous avions noirci
+vous aviez noirci
+ils (elles) avaient noirci
+
+** Passé antérieur
+
+j'eus noirci
+tu eus noirci
+il (elle) eut noirci
+nous eûmes noirci
+vous eûtes noirci
+ils (elles) eurent noirci
+
+** Futur antérieur
+
+j'aurai noirci
+tu auras noirci
+il (elle) aura noirci
+nous aurons noirci
+vous aurez noirci
+ils (elles) auront noirci
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais noirci
+tu aurais noirci
+il (elle) aurait noirci
+nous aurions noirci
+vous auriez noirci
+ils (elles) auraient noirci
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie noirci
+que tu aies noirci
+qu’il (elle) ait noirci
+que nous ayons noirci
+que vous ayez noirci
+qu’ils (elles) aient noirci
+
+** Plus-que-parfait
+
+que j'eusse noirci
+que tu eusses noirci
+qu’il (elle) eût noirci
+que nous eussions noirci
+que vous eussiez noirci
+qu’ils (elles) eussent noirci
+
+* IMPÉRATIF
+
+** Passé
+
+ayons noirci
+ayez noirci
+
+* INFINITIF
+
+** Passé
+
+avoir noirci
+
+* PARTICIPE
+
+** Passé
+
+ayant noirci
+noirci (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis noirci(e)
+tu es noirci(e)
+il (elle) est noirci(e)
+nous sommes noirci(e)s
+vous êtes noirci(e)s
+ils (elles) sont noirci(e)s
+
+** Imparfait
+
+j'étais noirci(e)
+tu étais noirci(e)
+il (elle) était noirci(e)
+nous étions noirci(e)s
+vous étiez noirci(e)s
+ils (elles) étaient noirci(e)s
+
+** Passé simple
+
+je fus noirci(e)
+tu fus noirci(e)
+il (elle) fut noirci(e)
+nous fûmes noirci(e)s
+vous fûtes noirci(e)s
+ils (elles) furent noirci(e)s
+
+** Futur simple
+
+je serai noirci(e)
+tu seras noirci(e)
+il (elle) sera noirci(e)
+nous serons noirci(e)s
+vous serez noirci(e)s
+ils (elles) seront noirci(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais noirci(e)
+tu serais noirci(e)
+il (elle) serait noirci(e)
+nous serions noirci(e)s
+vous seriez noirci(e)s
+ils (elles) seraient noirci(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois noirci(e)
+que tu sois noirci(e)
+qu’il (elle) soit noirci(e)
+que nous soyons noirci(e)s
+que vous soyez noirci(e)s
+qu’ils (elles) soient noirci(e)s
+
+** Imparfait
+
+que je fusse noirci(e)
+que tu fusses noirci(e)
+qu’il (elle) fût noirci(e)
+que nous fussions noirci(e)s
+que vous fussiez noirci(e)s
+qu’ils (elles) fussent noirci(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons noirci(e)s
+soyez noirci(e)s
+
+* INFINITIF
+
+** Présent
+
+être noirci(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant noirci(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été noirci(e)
+tu as été noirci(e)
+il (elle) a été noirci(e)
+nous avons été noirci(e)s
+vous avez été noirci(e)s
+ils (elles) ont été noirci(e)s
+
+** Plus-que-parfait
+
+j'avais été noirci(e)
+il (elle) avait été noirci(e)
+nous avions été noirci(e)s
+ils (elles) avaient été noirci(e)s
+
+** Passé antérieur
+
+j'eus été noirci(e)
+tu eus été noirci(e)
+il (elle) eut été noirci(e)
+nous eûmes été noirci(e)s
+vous eûtes été noirci(e)s
+ils (elles) eurent été noirci(e)s
+
+** Futur antérieur
+
+j'aurai été noirci(e)
+tu auras été noirci(e)
+il (elle) aura été noirci(e)
+nous aurons été noirci(e)s
+vous aurez été noirci(e)s
+ils (elles) auront été noirci(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été noirci(e)
+j'aurais été noirci(e)
+il (elle) aurait été noirci(e)
+nous aurions été noirci(e)s
+vous auriez été noirci(e)s
+ils (elles) auraient été noirci(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été noirci(e)
+que tu aies été noirci(e)
+qu’il (elle) ait été noirci(e)
+que nous ayons été noirci(e)s
+que vous ayez été noirci(e)s
+qu’ils (elles) aient été noirci(e)s
+
+** Plus-que-parfait
+
+que j'eusse été noirci(e)
+que tu eusses été noirci(e)
+qu’il (elle) eût été noirci(e)
+que nous eussions été noirci(e)s
+que vous eussiez été noirci(e)s
+qu’ils (elles) eussent été noirci(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été noirci(e)
+ayons été noirci(e)s
+ayez été noirci(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été noirci(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été noirci(e)(s)

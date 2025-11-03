@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe taire
+
+* INDICATIF
+
+** Présent
+
+je tais
+tu tais
+il (elle) tait
+nous taisons
+vous taisez
+ils (elles) taisent
+
+** Imparfait
+
+je taisais
+tu taisais
+il (elle) taisait
+nous taisions
+vous taisiez
+ils (elles) taisaient
+
+** Passé simple
+
+je tus
+tu tus
+il (elle) tut
+nous tûmes
+vous tûtes
+ils (elles) turent
+
+** Futur simple
+
+je tairai
+tu tairas
+il (elle) taira
+nous tairons
+vous tairez
+ils (elles) tairont
+
+* CONDITIONNEL
+
+** Présent
+
+je tairais
+tu tairais
+il (elle) tairait
+nous tairions
+vous tairiez
+ils (elles) tairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je taise
+que tu taises
+qu’il (elle) taise
+que nous taisions
+que vous taisiez
+qu’ils (elles) taisent
+
+** Imparfait
+
+que je tusse
+que tu tusses
+qu’il (elle) tût
+que nous tussions
+que vous tussiez
+qu’ils (elles) tussent
+
+* IMPÉRATIF
+
+** Présent
+
+tais
+taisons
+taisez
+
+* INFINITIF
+
+** Présent
+
+taire
+
+* PARTICIPE
+
+** Présent
+
+taisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tu
+tu as tu
+il (elle) a tu
+nous avons tu
+vous avez tu
+ils (elles) ont tu
+
+** Plus-que-parfait
+
+j'avais tu
+tu avais tu
+il (elle) avait tu
+nous avions tu
+vous aviez tu
+ils (elles) avaient tu
+
+** Passé antérieur
+
+j'eus tu
+tu eus tu
+il (elle) eut tu
+nous eûmes tu
+vous eûtes tu
+ils (elles) eurent tu
+
+** Futur antérieur
+
+j'aurai tu
+tu auras tu
+il (elle) aura tu
+nous aurons tu
+vous aurez tu
+ils (elles) auront tu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tu
+tu aurais tu
+il (elle) aurait tu
+nous aurions tu
+vous auriez tu
+ils (elles) auraient tu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tu
+que tu aies tu
+qu’il (elle) ait tu
+que nous ayons tu
+que vous ayez tu
+qu’ils (elles) aient tu
+
+** Plus-que-parfait
+
+que j'eusse tu
+que tu eusses tu
+qu’il (elle) eût tu
+que nous eussions tu
+que vous eussiez tu
+qu’ils (elles) eussent tu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tu
+ayez tu
+
+* INFINITIF
+
+** Passé
+
+avoir tu
+
+* PARTICIPE
+
+** Passé
+
+ayant tu
+tu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis tu(e)
+tu es tu(e)
+il (elle) est tu(e)
+nous sommes tu(e)s
+vous êtes tu(e)s
+ils (elles) sont tu(e)s
+
+** Imparfait
+
+j'étais tu(e)
+tu étais tu(e)
+il (elle) était tu(e)
+nous étions tu(e)s
+vous étiez tu(e)s
+ils (elles) étaient tu(e)s
+
+** Passé simple
+
+je fus tu(e)
+tu fus tu(e)
+il (elle) fut tu(e)
+nous fûmes tu(e)s
+vous fûtes tu(e)s
+ils (elles) furent tu(e)s
+
+** Futur simple
+
+je serai tu(e)
+tu seras tu(e)
+il (elle) sera tu(e)
+nous serons tu(e)s
+vous serez tu(e)s
+ils (elles) seront tu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tu(e)
+tu serais tu(e)
+il (elle) serait tu(e)
+nous serions tu(e)s
+vous seriez tu(e)s
+ils (elles) seraient tu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tu(e)
+que tu sois tu(e)
+qu’il (elle) soit tu(e)
+que nous soyons tu(e)s
+que vous soyez tu(e)s
+qu’ils (elles) soient tu(e)s
+
+** Imparfait
+
+que je fusse tu(e)
+que tu fusses tu(e)
+qu’il (elle) fût tu(e)
+que nous fussions tu(e)s
+que vous fussiez tu(e)s
+qu’ils (elles) fussent tu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tu(e)s
+soyez tu(e)s
+
+* INFINITIF
+
+** Présent
+
+être tu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tu(e)
+tu as été tu(e)
+il (elle) a été tu(e)
+nous avons été tu(e)s
+vous avez été tu(e)s
+ils (elles) ont été tu(e)s
+
+** Plus-que-parfait
+
+j'avais été tu(e)
+il (elle) avait été tu(e)
+nous avions été tu(e)s
+ils (elles) avaient été tu(e)s
+
+** Passé antérieur
+
+j'eus été tu(e)
+tu eus été tu(e)
+il (elle) eut été tu(e)
+nous eûmes été tu(e)s
+vous eûtes été tu(e)s
+ils (elles) eurent été tu(e)s
+
+** Futur antérieur
+
+j'aurai été tu(e)
+tu auras été tu(e)
+il (elle) aura été tu(e)
+nous aurons été tu(e)s
+vous aurez été tu(e)s
+ils (elles) auront été tu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tu(e)
+j'aurais été tu(e)
+il (elle) aurait été tu(e)
+nous aurions été tu(e)s
+vous auriez été tu(e)s
+ils (elles) auraient été tu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tu(e)
+que tu aies été tu(e)
+qu’il (elle) ait été tu(e)
+que nous ayons été tu(e)s
+que vous ayez été tu(e)s
+qu’ils (elles) aient été tu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tu(e)
+que tu eusses été tu(e)
+qu’il (elle) eût été tu(e)
+que nous eussions été tu(e)s
+que vous eussiez été tu(e)s
+qu’ils (elles) eussent été tu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tu(e)
+ayons été tu(e)s
+ayez été tu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tu(e)(s)

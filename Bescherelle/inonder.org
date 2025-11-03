@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inonder
+
+* INDICATIF
+
+** Présent
+
+j'inonde
+tu inondes
+il (elle) inonde
+nous inondons
+vous inondez
+ils (elles) inondent
+
+** Imparfait
+
+j'inondais
+tu inondais
+il (elle) inondait
+nous inondions
+vous inondiez
+ils (elles) inondaient
+
+** Passé simple
+
+j'inondai
+tu inondas
+il (elle) inonda
+nous inondâmes
+vous inondâtes
+ils (elles) inondèrent
+
+** Futur simple
+
+j'inonderai
+tu inonderas
+il (elle) inondera
+nous inonderons
+vous inonderez
+ils (elles) inonderont
+
+* CONDITIONNEL
+
+** Présent
+
+j'inonderais
+tu inonderais
+il (elle) inonderait
+nous inonderions
+vous inonderiez
+ils (elles) inonderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'inonde
+que tu inondes
+qu’il (elle) inonde
+que nous inondions
+que vous inondiez
+qu’ils (elles) inondent
+
+** Imparfait
+
+que j'inondasse
+que tu inondasses
+qu’il (elle) inondât
+que nous inondassions
+que vous inondassiez
+qu’ils (elles) inondassent
+
+* IMPÉRATIF
+
+** Présent
+
+inonde
+inondons
+inondez
+
+* INFINITIF
+
+** Présent
+
+inonder
+
+* PARTICIPE
+
+** Présent
+
+inondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inondé
+tu as inondé
+il (elle) a inondé
+nous avons inondé
+vous avez inondé
+ils (elles) ont inondé
+
+** Plus-que-parfait
+
+j'avais inondé
+tu avais inondé
+il (elle) avait inondé
+nous avions inondé
+vous aviez inondé
+ils (elles) avaient inondé
+
+** Passé antérieur
+
+j'eus inondé
+tu eus inondé
+il (elle) eut inondé
+nous eûmes inondé
+vous eûtes inondé
+ils (elles) eurent inondé
+
+** Futur antérieur
+
+j'aurai inondé
+tu auras inondé
+il (elle) aura inondé
+nous aurons inondé
+vous aurez inondé
+ils (elles) auront inondé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inondé
+tu aurais inondé
+il (elle) aurait inondé
+nous aurions inondé
+vous auriez inondé
+ils (elles) auraient inondé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inondé
+que tu aies inondé
+qu’il (elle) ait inondé
+que nous ayons inondé
+que vous ayez inondé
+qu’ils (elles) aient inondé
+
+** Plus-que-parfait
+
+que j'eusse inondé
+que tu eusses inondé
+qu’il (elle) eût inondé
+que nous eussions inondé
+que vous eussiez inondé
+qu’ils (elles) eussent inondé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inondé
+ayez inondé
+
+* INFINITIF
+
+** Passé
+
+avoir inondé
+
+* PARTICIPE
+
+** Passé
+
+ayant inondé
+inondé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inondé(e)
+tu es inondé(e)
+il (elle) est inondé(e)
+nous sommes inondé(e)s
+vous êtes inondé(e)s
+ils (elles) sont inondé(e)s
+
+** Imparfait
+
+j'étais inondé(e)
+tu étais inondé(e)
+il (elle) était inondé(e)
+nous étions inondé(e)s
+vous étiez inondé(e)s
+ils (elles) étaient inondé(e)s
+
+** Passé simple
+
+je fus inondé(e)
+tu fus inondé(e)
+il (elle) fut inondé(e)
+nous fûmes inondé(e)s
+vous fûtes inondé(e)s
+ils (elles) furent inondé(e)s
+
+** Futur simple
+
+je serai inondé(e)
+tu seras inondé(e)
+il (elle) sera inondé(e)
+nous serons inondé(e)s
+vous serez inondé(e)s
+ils (elles) seront inondé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inondé(e)
+tu serais inondé(e)
+il (elle) serait inondé(e)
+nous serions inondé(e)s
+vous seriez inondé(e)s
+ils (elles) seraient inondé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inondé(e)
+que tu sois inondé(e)
+qu’il (elle) soit inondé(e)
+que nous soyons inondé(e)s
+que vous soyez inondé(e)s
+qu’ils (elles) soient inondé(e)s
+
+** Imparfait
+
+que je fusse inondé(e)
+que tu fusses inondé(e)
+qu’il (elle) fût inondé(e)
+que nous fussions inondé(e)s
+que vous fussiez inondé(e)s
+qu’ils (elles) fussent inondé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inondé(e)s
+soyez inondé(e)s
+
+* INFINITIF
+
+** Présent
+
+être inondé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inondé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inondé(e)
+tu as été inondé(e)
+il (elle) a été inondé(e)
+nous avons été inondé(e)s
+vous avez été inondé(e)s
+ils (elles) ont été inondé(e)s
+
+** Plus-que-parfait
+
+j'avais été inondé(e)
+il (elle) avait été inondé(e)
+nous avions été inondé(e)s
+ils (elles) avaient été inondé(e)s
+
+** Passé antérieur
+
+j'eus été inondé(e)
+tu eus été inondé(e)
+il (elle) eut été inondé(e)
+nous eûmes été inondé(e)s
+vous eûtes été inondé(e)s
+ils (elles) eurent été inondé(e)s
+
+** Futur antérieur
+
+j'aurai été inondé(e)
+tu auras été inondé(e)
+il (elle) aura été inondé(e)
+nous aurons été inondé(e)s
+vous aurez été inondé(e)s
+ils (elles) auront été inondé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inondé(e)
+j'aurais été inondé(e)
+il (elle) aurait été inondé(e)
+nous aurions été inondé(e)s
+vous auriez été inondé(e)s
+ils (elles) auraient été inondé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inondé(e)
+que tu aies été inondé(e)
+qu’il (elle) ait été inondé(e)
+que nous ayons été inondé(e)s
+que vous ayez été inondé(e)s
+qu’ils (elles) aient été inondé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inondé(e)
+que tu eusses été inondé(e)
+qu’il (elle) eût été inondé(e)
+que nous eussions été inondé(e)s
+que vous eussiez été inondé(e)s
+qu’ils (elles) eussent été inondé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inondé(e)
+ayons été inondé(e)s
+ayez été inondé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inondé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inondé(e)(s)

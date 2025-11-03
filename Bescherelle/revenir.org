@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe revenir
+
+* INDICATIF
+
+** Présent
+
+je reviens
+tu reviens
+il (elle) revient
+nous revenons
+vous revenez
+ils (elles) reviennent
+
+** Imparfait
+
+je revenais
+tu revenais
+il (elle) revenait
+nous revenions
+vous reveniez
+ils (elles) revenaient
+
+** Passé simple
+
+je revins
+tu revins
+il (elle) revint
+nous revînmes
+vous revîntes
+ils (elles) revinrent
+
+** Futur simple
+
+je reviendrai
+tu reviendras
+il (elle) reviendra
+nous reviendrons
+vous reviendrez
+ils (elles) reviendront
+
+* CONDITIONNEL
+
+** Présent
+
+je reviendrais
+tu reviendrais
+il (elle) reviendrait
+nous reviendrions
+vous reviendriez
+ils (elles) reviendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je revienne
+que tu reviennes
+qu’il (elle) revienne
+que nous revenions
+que vous reveniez
+qu’ils (elles) reviennent
+
+** Imparfait
+
+que je revinsse
+que tu revinsses
+qu’il (elle) revînt
+que nous revinssions
+que vous revinssiez
+qu’ils (elles) revinssent
+
+* IMPÉRATIF
+
+** Présent
+
+reviens
+revenons
+revenez
+
+* INFINITIF
+
+** Présent
+
+revenir
+
+* PARTICIPE
+
+** Présent
+
+revenant
+
+* INDICATIF
+
+** Passé composé
+
+je suis revenu(e)
+tu es revenu(e)
+il (elle) est revenu(e)
+nous sommes revenu(e)s
+vous êtes revenu(e)s
+ils (elles) sont revenu(e)s
+
+** Plus-que-parfait
+
+j'étais revenu(e)
+tu étais revenu(e)
+il (elle) était revenu(e)
+nous étions revenu(e)s
+vous étiez revenu(e)s
+ils (elles) étaient revenu(e)s
+
+** Passé antérieur
+
+je fus revenu(e)
+tu fus revenu(e)
+il (elle) fut revenu(e)
+nous fûmes revenu(e)s
+vous fûtes revenu(e)s
+ils (elles) furent revenu(e)s
+
+** Futur antérieur
+
+je serai revenu(e)
+tu seras revenu(e)
+il (elle) sera revenu(e)
+nous serons revenu(e)s
+vous serez revenu(e)s
+ils (elles) seront revenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais revenu(e)
+tu serais revenu(e)
+il (elle) serait revenu(e)
+nous serions revenu(e)s
+vous seriez revenu(e)s
+ils (elles) seraient revenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois revenu(e)
+que tu sois revenu(e)
+qu’il (elle) soit revenu(e)
+que nous soyons revenu(e)s
+que vous soyez revenu(e)s
+qu’ils (elles) soient revenu(e)s
+
+** Plus-que-parfait
+
+que je fusse revenu(e)
+que tu fusses revenu(e)
+qu’il (elle) fût revenu(e)
+que nous fussions revenu(e)s
+que vous fussiez revenu(e)s
+qu’ils (elles) fussent revenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons revenu(e)s
+soyez revenu(e)s
+
+* INFINITIF
+
+** Passé
+
+être revenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant revenu(e)(s)
+revenu (u, ue, us, ues)

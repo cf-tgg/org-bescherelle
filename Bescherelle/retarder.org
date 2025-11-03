@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe retarder
+
+* INDICATIF
+
+** Présent
+
+je retarde
+tu retardes
+il (elle) retarde
+nous retardons
+vous retardez
+ils (elles) retardent
+
+** Imparfait
+
+je retardais
+tu retardais
+il (elle) retardait
+nous retardions
+vous retardiez
+ils (elles) retardaient
+
+** Passé simple
+
+je retardai
+tu retardas
+il (elle) retarda
+nous retardâmes
+vous retardâtes
+ils (elles) retardèrent
+
+** Futur simple
+
+je retarderai
+tu retarderas
+il (elle) retardera
+nous retarderons
+vous retarderez
+ils (elles) retarderont
+
+* CONDITIONNEL
+
+** Présent
+
+je retarderais
+tu retarderais
+il (elle) retarderait
+nous retarderions
+vous retarderiez
+ils (elles) retarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je retarde
+que tu retardes
+qu’il (elle) retarde
+que nous retardions
+que vous retardiez
+qu’ils (elles) retardent
+
+** Imparfait
+
+que je retardasse
+que tu retardasses
+qu’il (elle) retardât
+que nous retardassions
+que vous retardassiez
+qu’ils (elles) retardassent
+
+* IMPÉRATIF
+
+** Présent
+
+retarde
+retardons
+retardez
+
+* INFINITIF
+
+** Présent
+
+retarder
+
+* PARTICIPE
+
+** Présent
+
+retardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai retardé
+tu as retardé
+il (elle) a retardé
+nous avons retardé
+vous avez retardé
+ils (elles) ont retardé
+
+** Plus-que-parfait
+
+j'avais retardé
+tu avais retardé
+il (elle) avait retardé
+nous avions retardé
+vous aviez retardé
+ils (elles) avaient retardé
+
+** Passé antérieur
+
+j'eus retardé
+tu eus retardé
+il (elle) eut retardé
+nous eûmes retardé
+vous eûtes retardé
+ils (elles) eurent retardé
+
+** Futur antérieur
+
+j'aurai retardé
+tu auras retardé
+il (elle) aura retardé
+nous aurons retardé
+vous aurez retardé
+ils (elles) auront retardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais retardé
+tu aurais retardé
+il (elle) aurait retardé
+nous aurions retardé
+vous auriez retardé
+ils (elles) auraient retardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie retardé
+que tu aies retardé
+qu’il (elle) ait retardé
+que nous ayons retardé
+que vous ayez retardé
+qu’ils (elles) aient retardé
+
+** Plus-que-parfait
+
+que j'eusse retardé
+que tu eusses retardé
+qu’il (elle) eût retardé
+que nous eussions retardé
+que vous eussiez retardé
+qu’ils (elles) eussent retardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons retardé
+ayez retardé
+
+* INFINITIF
+
+** Passé
+
+avoir retardé
+
+* PARTICIPE
+
+** Passé
+
+ayant retardé
+retardé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis retardé(e)
+tu es retardé(e)
+il (elle) est retardé(e)
+nous sommes retardé(e)s
+vous êtes retardé(e)s
+ils (elles) sont retardé(e)s
+
+** Imparfait
+
+j'étais retardé(e)
+tu étais retardé(e)
+il (elle) était retardé(e)
+nous étions retardé(e)s
+vous étiez retardé(e)s
+ils (elles) étaient retardé(e)s
+
+** Passé simple
+
+je fus retardé(e)
+tu fus retardé(e)
+il (elle) fut retardé(e)
+nous fûmes retardé(e)s
+vous fûtes retardé(e)s
+ils (elles) furent retardé(e)s
+
+** Futur simple
+
+je serai retardé(e)
+tu seras retardé(e)
+il (elle) sera retardé(e)
+nous serons retardé(e)s
+vous serez retardé(e)s
+ils (elles) seront retardé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais retardé(e)
+tu serais retardé(e)
+il (elle) serait retardé(e)
+nous serions retardé(e)s
+vous seriez retardé(e)s
+ils (elles) seraient retardé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois retardé(e)
+que tu sois retardé(e)
+qu’il (elle) soit retardé(e)
+que nous soyons retardé(e)s
+que vous soyez retardé(e)s
+qu’ils (elles) soient retardé(e)s
+
+** Imparfait
+
+que je fusse retardé(e)
+que tu fusses retardé(e)
+qu’il (elle) fût retardé(e)
+que nous fussions retardé(e)s
+que vous fussiez retardé(e)s
+qu’ils (elles) fussent retardé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons retardé(e)s
+soyez retardé(e)s
+
+* INFINITIF
+
+** Présent
+
+être retardé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant retardé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été retardé(e)
+tu as été retardé(e)
+il (elle) a été retardé(e)
+nous avons été retardé(e)s
+vous avez été retardé(e)s
+ils (elles) ont été retardé(e)s
+
+** Plus-que-parfait
+
+j'avais été retardé(e)
+il (elle) avait été retardé(e)
+nous avions été retardé(e)s
+ils (elles) avaient été retardé(e)s
+
+** Passé antérieur
+
+j'eus été retardé(e)
+tu eus été retardé(e)
+il (elle) eut été retardé(e)
+nous eûmes été retardé(e)s
+vous eûtes été retardé(e)s
+ils (elles) eurent été retardé(e)s
+
+** Futur antérieur
+
+j'aurai été retardé(e)
+tu auras été retardé(e)
+il (elle) aura été retardé(e)
+nous aurons été retardé(e)s
+vous aurez été retardé(e)s
+ils (elles) auront été retardé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été retardé(e)
+j'aurais été retardé(e)
+il (elle) aurait été retardé(e)
+nous aurions été retardé(e)s
+vous auriez été retardé(e)s
+ils (elles) auraient été retardé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été retardé(e)
+que tu aies été retardé(e)
+qu’il (elle) ait été retardé(e)
+que nous ayons été retardé(e)s
+que vous ayez été retardé(e)s
+qu’ils (elles) aient été retardé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été retardé(e)
+que tu eusses été retardé(e)
+qu’il (elle) eût été retardé(e)
+que nous eussions été retardé(e)s
+que vous eussiez été retardé(e)s
+qu’ils (elles) eussent été retardé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été retardé(e)
+ayons été retardé(e)s
+ayez été retardé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été retardé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été retardé(e)(s)

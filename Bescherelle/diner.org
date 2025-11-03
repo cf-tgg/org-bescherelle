@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe diner
+
+* INDICATIF
+
+** Présent
+
+je dîne
+tu dînes
+il (elle) dîne
+nous dînons
+vous dînez
+ils (elles) dînent
+
+** Imparfait
+
+je dînais
+tu dînais
+il (elle) dînait
+nous dînions
+vous dîniez
+ils (elles) dînaient
+
+** Passé simple
+
+je dînai
+tu dînas
+il (elle) dîna
+nous dînâmes
+vous dînâtes
+ils (elles) dînèrent
+
+** Futur simple
+
+je dînerai
+tu dîneras
+il (elle) dînera
+nous dînerons
+vous dînerez
+ils (elles) dîneront
+
+* CONDITIONNEL
+
+** Présent
+
+je dînerais
+tu dînerais
+il (elle) dînerait
+nous dînerions
+vous dîneriez
+ils (elles) dîneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dîne
+que tu dînes
+qu’il (elle) dîne
+que nous dînions
+que vous dîniez
+qu’ils (elles) dînent
+
+** Imparfait
+
+que je dînasse
+que tu dînasses
+qu’il (elle) dînât
+que nous dînassions
+que vous dînassiez
+qu’ils (elles) dînassent
+
+* IMPÉRATIF
+
+** Présent
+
+dîne
+dînons
+dînez
+
+* INFINITIF
+
+** Présent
+
+dîner
+
+* PARTICIPE
+
+** Présent
+
+dînant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dîné
+tu as dîné
+il (elle) a dîné
+nous avons dîné
+vous avez dîné
+ils (elles) ont dîné
+
+** Plus-que-parfait
+
+j'avais dîné
+tu avais dîné
+il (elle) avait dîné
+nous avions dîné
+vous aviez dîné
+ils (elles) avaient dîné
+
+** Passé antérieur
+
+j'eus dîné
+tu eus dîné
+il (elle) eut dîné
+nous eûmes dîné
+vous eûtes dîné
+ils (elles) eurent dîné
+
+** Futur antérieur
+
+j'aurai dîné
+tu auras dîné
+il (elle) aura dîné
+nous aurons dîné
+vous aurez dîné
+ils (elles) auront dîné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dîné
+tu aurais dîné
+il (elle) aurait dîné
+nous aurions dîné
+vous auriez dîné
+ils (elles) auraient dîné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dîné
+que tu aies dîné
+qu’il (elle) ait dîné
+que nous ayons dîné
+que vous ayez dîné
+qu’ils (elles) aient dîné
+
+** Plus-que-parfait
+
+que j'eusse dîné
+que tu eusses dîné
+qu’il (elle) eût dîné
+que nous eussions dîné
+que vous eussiez dîné
+qu’ils (elles) eussent dîné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dîné
+ayez dîné
+
+* INFINITIF
+
+** Passé
+
+avoir dîné
+
+* PARTICIPE
+
+** Passé
+
+ayant dîné
+dîné (invar.)

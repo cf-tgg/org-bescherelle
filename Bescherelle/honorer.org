@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe honorer
+
+* INDICATIF
+
+** Présent
+
+j'honore
+tu honores
+il (elle) honore
+nous honorons
+vous honorez
+ils (elles) honorent
+
+** Imparfait
+
+j'honorais
+tu honorais
+il (elle) honorait
+nous honorions
+vous honoriez
+ils (elles) honoraient
+
+** Passé simple
+
+j'honorai
+tu honoras
+il (elle) honora
+nous honorâmes
+vous honorâtes
+ils (elles) honorèrent
+
+** Futur simple
+
+j'honorerai
+tu honoreras
+il (elle) honorera
+nous honorerons
+vous honorerez
+ils (elles) honoreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'honorerais
+tu honorerais
+il (elle) honorerait
+nous honorerions
+vous honoreriez
+ils (elles) honoreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'honore
+que tu honores
+qu’il (elle) honore
+que nous honorions
+que vous honoriez
+qu’ils (elles) honorent
+
+** Imparfait
+
+que j'honorasse
+que tu honorasses
+qu’il (elle) honorât
+que nous honorassions
+que vous honorassiez
+qu’ils (elles) honorassent
+
+* IMPÉRATIF
+
+** Présent
+
+honore
+honorons
+honorez
+
+* INFINITIF
+
+** Présent
+
+honorer
+
+* PARTICIPE
+
+** Présent
+
+honorant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai honoré
+tu as honoré
+il (elle) a honoré
+nous avons honoré
+vous avez honoré
+ils (elles) ont honoré
+
+** Plus-que-parfait
+
+j'avais honoré
+tu avais honoré
+il (elle) avait honoré
+nous avions honoré
+vous aviez honoré
+ils (elles) avaient honoré
+
+** Passé antérieur
+
+j'eus honoré
+tu eus honoré
+il (elle) eut honoré
+nous eûmes honoré
+vous eûtes honoré
+ils (elles) eurent honoré
+
+** Futur antérieur
+
+j'aurai honoré
+tu auras honoré
+il (elle) aura honoré
+nous aurons honoré
+vous aurez honoré
+ils (elles) auront honoré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais honoré
+tu aurais honoré
+il (elle) aurait honoré
+nous aurions honoré
+vous auriez honoré
+ils (elles) auraient honoré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie honoré
+que tu aies honoré
+qu’il (elle) ait honoré
+que nous ayons honoré
+que vous ayez honoré
+qu’ils (elles) aient honoré
+
+** Plus-que-parfait
+
+que j'eusse honoré
+que tu eusses honoré
+qu’il (elle) eût honoré
+que nous eussions honoré
+que vous eussiez honoré
+qu’ils (elles) eussent honoré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons honoré
+ayez honoré
+
+* INFINITIF
+
+** Passé
+
+avoir honoré
+
+* PARTICIPE
+
+** Passé
+
+ayant honoré
+honoré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis honoré(e)
+tu es honoré(e)
+il (elle) est honoré(e)
+nous sommes honoré(e)s
+vous êtes honoré(e)s
+ils (elles) sont honoré(e)s
+
+** Imparfait
+
+j'étais honoré(e)
+tu étais honoré(e)
+il (elle) était honoré(e)
+nous étions honoré(e)s
+vous étiez honoré(e)s
+ils (elles) étaient honoré(e)s
+
+** Passé simple
+
+je fus honoré(e)
+tu fus honoré(e)
+il (elle) fut honoré(e)
+nous fûmes honoré(e)s
+vous fûtes honoré(e)s
+ils (elles) furent honoré(e)s
+
+** Futur simple
+
+je serai honoré(e)
+tu seras honoré(e)
+il (elle) sera honoré(e)
+nous serons honoré(e)s
+vous serez honoré(e)s
+ils (elles) seront honoré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais honoré(e)
+tu serais honoré(e)
+il (elle) serait honoré(e)
+nous serions honoré(e)s
+vous seriez honoré(e)s
+ils (elles) seraient honoré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois honoré(e)
+que tu sois honoré(e)
+qu’il (elle) soit honoré(e)
+que nous soyons honoré(e)s
+que vous soyez honoré(e)s
+qu’ils (elles) soient honoré(e)s
+
+** Imparfait
+
+que je fusse honoré(e)
+que tu fusses honoré(e)
+qu’il (elle) fût honoré(e)
+que nous fussions honoré(e)s
+que vous fussiez honoré(e)s
+qu’ils (elles) fussent honoré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons honoré(e)s
+soyez honoré(e)s
+
+* INFINITIF
+
+** Présent
+
+être honoré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant honoré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été honoré(e)
+tu as été honoré(e)
+il (elle) a été honoré(e)
+nous avons été honoré(e)s
+vous avez été honoré(e)s
+ils (elles) ont été honoré(e)s
+
+** Plus-que-parfait
+
+j'avais été honoré(e)
+il (elle) avait été honoré(e)
+nous avions été honoré(e)s
+ils (elles) avaient été honoré(e)s
+
+** Passé antérieur
+
+j'eus été honoré(e)
+tu eus été honoré(e)
+il (elle) eut été honoré(e)
+nous eûmes été honoré(e)s
+vous eûtes été honoré(e)s
+ils (elles) eurent été honoré(e)s
+
+** Futur antérieur
+
+j'aurai été honoré(e)
+tu auras été honoré(e)
+il (elle) aura été honoré(e)
+nous aurons été honoré(e)s
+vous aurez été honoré(e)s
+ils (elles) auront été honoré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été honoré(e)
+j'aurais été honoré(e)
+il (elle) aurait été honoré(e)
+nous aurions été honoré(e)s
+vous auriez été honoré(e)s
+ils (elles) auraient été honoré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été honoré(e)
+que tu aies été honoré(e)
+qu’il (elle) ait été honoré(e)
+que nous ayons été honoré(e)s
+que vous ayez été honoré(e)s
+qu’ils (elles) aient été honoré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été honoré(e)
+que tu eusses été honoré(e)
+qu’il (elle) eût été honoré(e)
+que nous eussions été honoré(e)s
+que vous eussiez été honoré(e)s
+qu’ils (elles) eussent été honoré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été honoré(e)
+ayons été honoré(e)s
+ayez été honoré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été honoré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été honoré(e)(s)

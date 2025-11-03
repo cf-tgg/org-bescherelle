@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe blaguer
+
+* INDICATIF
+
+** Présent
+
+je blague
+tu blagues
+il (elle) blague
+nous blaguons
+vous blaguez
+ils (elles) blaguent
+
+** Imparfait
+
+je blaguais
+tu blaguais
+il (elle) blaguait
+nous blaguions
+vous blaguiez
+ils (elles) blaguaient
+
+** Passé simple
+
+je blaguai
+tu blaguas
+il (elle) blagua
+nous blaguâmes
+vous blaguâtes
+ils (elles) blaguèrent
+
+** Futur simple
+
+je blaguerai
+tu blagueras
+il (elle) blaguera
+nous blaguerons
+vous blaguerez
+ils (elles) blagueront
+
+* CONDITIONNEL
+
+** Présent
+
+je blaguerais
+tu blaguerais
+il (elle) blaguerait
+nous blaguerions
+vous blagueriez
+ils (elles) blagueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je blague
+que tu blagues
+qu’il (elle) blague
+que nous blaguions
+que vous blaguiez
+qu’ils (elles) blaguent
+
+** Imparfait
+
+que je blaguasse
+que tu blaguasses
+qu’il (elle) blaguât
+que nous blaguassions
+que vous blaguassiez
+qu’ils (elles) blaguassent
+
+* IMPÉRATIF
+
+** Présent
+
+blague
+blaguons
+blaguez
+
+* INFINITIF
+
+** Présent
+
+blaguer
+
+* PARTICIPE
+
+** Présent
+
+blaguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai blagué
+tu as blagué
+il (elle) a blagué
+nous avons blagué
+vous avez blagué
+ils (elles) ont blagué
+
+** Plus-que-parfait
+
+j'avais blagué
+tu avais blagué
+il (elle) avait blagué
+nous avions blagué
+vous aviez blagué
+ils (elles) avaient blagué
+
+** Passé antérieur
+
+j'eus blagué
+tu eus blagué
+il (elle) eut blagué
+nous eûmes blagué
+vous eûtes blagué
+ils (elles) eurent blagué
+
+** Futur antérieur
+
+j'aurai blagué
+tu auras blagué
+il (elle) aura blagué
+nous aurons blagué
+vous aurez blagué
+ils (elles) auront blagué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais blagué
+tu aurais blagué
+il (elle) aurait blagué
+nous aurions blagué
+vous auriez blagué
+ils (elles) auraient blagué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie blagué
+que tu aies blagué
+qu’il (elle) ait blagué
+que nous ayons blagué
+que vous ayez blagué
+qu’ils (elles) aient blagué
+
+** Plus-que-parfait
+
+que j'eusse blagué
+que tu eusses blagué
+qu’il (elle) eût blagué
+que nous eussions blagué
+que vous eussiez blagué
+qu’ils (elles) eussent blagué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons blagué
+ayez blagué
+
+* INFINITIF
+
+** Passé
+
+avoir blagué
+
+* PARTICIPE
+
+** Passé
+
+ayant blagué
+blagué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis blagué(e)
+tu es blagué(e)
+il (elle) est blagué(e)
+nous sommes blagué(e)s
+vous êtes blagué(e)s
+ils (elles) sont blagué(e)s
+
+** Imparfait
+
+j'étais blagué(e)
+tu étais blagué(e)
+il (elle) était blagué(e)
+nous étions blagué(e)s
+vous étiez blagué(e)s
+ils (elles) étaient blagué(e)s
+
+** Passé simple
+
+je fus blagué(e)
+tu fus blagué(e)
+il (elle) fut blagué(e)
+nous fûmes blagué(e)s
+vous fûtes blagué(e)s
+ils (elles) furent blagué(e)s
+
+** Futur simple
+
+je serai blagué(e)
+tu seras blagué(e)
+il (elle) sera blagué(e)
+nous serons blagué(e)s
+vous serez blagué(e)s
+ils (elles) seront blagué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais blagué(e)
+tu serais blagué(e)
+il (elle) serait blagué(e)
+nous serions blagué(e)s
+vous seriez blagué(e)s
+ils (elles) seraient blagué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois blagué(e)
+que tu sois blagué(e)
+qu’il (elle) soit blagué(e)
+que nous soyons blagué(e)s
+que vous soyez blagué(e)s
+qu’ils (elles) soient blagué(e)s
+
+** Imparfait
+
+que je fusse blagué(e)
+que tu fusses blagué(e)
+qu’il (elle) fût blagué(e)
+que nous fussions blagué(e)s
+que vous fussiez blagué(e)s
+qu’ils (elles) fussent blagué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons blagué(e)s
+soyez blagué(e)s
+
+* INFINITIF
+
+** Présent
+
+être blagué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant blagué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été blagué(e)
+tu as été blagué(e)
+il (elle) a été blagué(e)
+nous avons été blagué(e)s
+vous avez été blagué(e)s
+ils (elles) ont été blagué(e)s
+
+** Plus-que-parfait
+
+j'avais été blagué(e)
+il (elle) avait été blagué(e)
+nous avions été blagué(e)s
+ils (elles) avaient été blagué(e)s
+
+** Passé antérieur
+
+j'eus été blagué(e)
+tu eus été blagué(e)
+il (elle) eut été blagué(e)
+nous eûmes été blagué(e)s
+vous eûtes été blagué(e)s
+ils (elles) eurent été blagué(e)s
+
+** Futur antérieur
+
+j'aurai été blagué(e)
+tu auras été blagué(e)
+il (elle) aura été blagué(e)
+nous aurons été blagué(e)s
+vous aurez été blagué(e)s
+ils (elles) auront été blagué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été blagué(e)
+j'aurais été blagué(e)
+il (elle) aurait été blagué(e)
+nous aurions été blagué(e)s
+vous auriez été blagué(e)s
+ils (elles) auraient été blagué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été blagué(e)
+que tu aies été blagué(e)
+qu’il (elle) ait été blagué(e)
+que nous ayons été blagué(e)s
+que vous ayez été blagué(e)s
+qu’ils (elles) aient été blagué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été blagué(e)
+que tu eusses été blagué(e)
+qu’il (elle) eût été blagué(e)
+que nous eussions été blagué(e)s
+que vous eussiez été blagué(e)s
+qu’ils (elles) eussent été blagué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été blagué(e)
+ayons été blagué(e)s
+ayez été blagué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été blagué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été blagué(e)(s)

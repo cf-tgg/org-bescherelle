@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe chercher
+
+* INDICATIF
+
+** Présent
+
+je cherche
+tu cherches
+il (elle) cherche
+nous cherchons
+vous cherchez
+ils (elles) cherchent
+
+** Imparfait
+
+je cherchais
+tu cherchais
+il (elle) cherchait
+nous cherchions
+vous cherchiez
+ils (elles) cherchaient
+
+** Passé simple
+
+je cherchai
+tu cherchas
+il (elle) chercha
+nous cherchâmes
+vous cherchâtes
+ils (elles) cherchèrent
+
+** Futur simple
+
+je chercherai
+tu chercheras
+il (elle) cherchera
+nous chercherons
+vous chercherez
+ils (elles) chercheront
+
+* CONDITIONNEL
+
+** Présent
+
+je chercherais
+tu chercherais
+il (elle) chercherait
+nous chercherions
+vous chercheriez
+ils (elles) chercheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cherche
+que tu cherches
+qu’il (elle) cherche
+que nous cherchions
+que vous cherchiez
+qu’ils (elles) cherchent
+
+** Imparfait
+
+que je cherchasse
+que tu cherchasses
+qu’il (elle) cherchât
+que nous cherchassions
+que vous cherchassiez
+qu’ils (elles) cherchassent
+
+* IMPÉRATIF
+
+** Présent
+
+cherche
+cherchons
+cherchez
+
+* INFINITIF
+
+** Présent
+
+chercher
+
+* PARTICIPE
+
+** Présent
+
+cherchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cherché
+tu as cherché
+il (elle) a cherché
+nous avons cherché
+vous avez cherché
+ils (elles) ont cherché
+
+** Plus-que-parfait
+
+j'avais cherché
+tu avais cherché
+il (elle) avait cherché
+nous avions cherché
+vous aviez cherché
+ils (elles) avaient cherché
+
+** Passé antérieur
+
+j'eus cherché
+tu eus cherché
+il (elle) eut cherché
+nous eûmes cherché
+vous eûtes cherché
+ils (elles) eurent cherché
+
+** Futur antérieur
+
+j'aurai cherché
+tu auras cherché
+il (elle) aura cherché
+nous aurons cherché
+vous aurez cherché
+ils (elles) auront cherché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cherché
+tu aurais cherché
+il (elle) aurait cherché
+nous aurions cherché
+vous auriez cherché
+ils (elles) auraient cherché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cherché
+que tu aies cherché
+qu’il (elle) ait cherché
+que nous ayons cherché
+que vous ayez cherché
+qu’ils (elles) aient cherché
+
+** Plus-que-parfait
+
+que j'eusse cherché
+que tu eusses cherché
+qu’il (elle) eût cherché
+que nous eussions cherché
+que vous eussiez cherché
+qu’ils (elles) eussent cherché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cherché
+ayez cherché
+
+* INFINITIF
+
+** Passé
+
+avoir cherché
+
+* PARTICIPE
+
+** Passé
+
+ayant cherché
+cherché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cherché(e)
+tu es cherché(e)
+il (elle) est cherché(e)
+nous sommes cherché(e)s
+vous êtes cherché(e)s
+ils (elles) sont cherché(e)s
+
+** Imparfait
+
+j'étais cherché(e)
+tu étais cherché(e)
+il (elle) était cherché(e)
+nous étions cherché(e)s
+vous étiez cherché(e)s
+ils (elles) étaient cherché(e)s
+
+** Passé simple
+
+je fus cherché(e)
+tu fus cherché(e)
+il (elle) fut cherché(e)
+nous fûmes cherché(e)s
+vous fûtes cherché(e)s
+ils (elles) furent cherché(e)s
+
+** Futur simple
+
+je serai cherché(e)
+tu seras cherché(e)
+il (elle) sera cherché(e)
+nous serons cherché(e)s
+vous serez cherché(e)s
+ils (elles) seront cherché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cherché(e)
+tu serais cherché(e)
+il (elle) serait cherché(e)
+nous serions cherché(e)s
+vous seriez cherché(e)s
+ils (elles) seraient cherché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cherché(e)
+que tu sois cherché(e)
+qu’il (elle) soit cherché(e)
+que nous soyons cherché(e)s
+que vous soyez cherché(e)s
+qu’ils (elles) soient cherché(e)s
+
+** Imparfait
+
+que je fusse cherché(e)
+que tu fusses cherché(e)
+qu’il (elle) fût cherché(e)
+que nous fussions cherché(e)s
+que vous fussiez cherché(e)s
+qu’ils (elles) fussent cherché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cherché(e)s
+soyez cherché(e)s
+
+* INFINITIF
+
+** Présent
+
+être cherché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cherché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cherché(e)
+tu as été cherché(e)
+il (elle) a été cherché(e)
+nous avons été cherché(e)s
+vous avez été cherché(e)s
+ils (elles) ont été cherché(e)s
+
+** Plus-que-parfait
+
+j'avais été cherché(e)
+il (elle) avait été cherché(e)
+nous avions été cherché(e)s
+ils (elles) avaient été cherché(e)s
+
+** Passé antérieur
+
+j'eus été cherché(e)
+tu eus été cherché(e)
+il (elle) eut été cherché(e)
+nous eûmes été cherché(e)s
+vous eûtes été cherché(e)s
+ils (elles) eurent été cherché(e)s
+
+** Futur antérieur
+
+j'aurai été cherché(e)
+tu auras été cherché(e)
+il (elle) aura été cherché(e)
+nous aurons été cherché(e)s
+vous aurez été cherché(e)s
+ils (elles) auront été cherché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cherché(e)
+j'aurais été cherché(e)
+il (elle) aurait été cherché(e)
+nous aurions été cherché(e)s
+vous auriez été cherché(e)s
+ils (elles) auraient été cherché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cherché(e)
+que tu aies été cherché(e)
+qu’il (elle) ait été cherché(e)
+que nous ayons été cherché(e)s
+que vous ayez été cherché(e)s
+qu’ils (elles) aient été cherché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cherché(e)
+que tu eusses été cherché(e)
+qu’il (elle) eût été cherché(e)
+que nous eussions été cherché(e)s
+que vous eussiez été cherché(e)s
+qu’ils (elles) eussent été cherché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cherché(e)
+ayons été cherché(e)s
+ayez été cherché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cherché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cherché(e)(s)

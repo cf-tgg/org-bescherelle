@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe soumettre
+
+* INDICATIF
+
+** Présent
+
+je soumets
+tu soumets
+il (elle) soumet
+nous soumettons
+vous soumettez
+ils (elles) soumettent
+
+** Imparfait
+
+je soumettais
+tu soumettais
+il (elle) soumettait
+nous soumettions
+vous soumettiez
+ils (elles) soumettaient
+
+** Passé simple
+
+je soumis
+tu soumis
+il (elle) soumit
+nous soumîmes
+vous soumîtes
+ils (elles) soumirent
+
+** Futur simple
+
+je soumettrai
+tu soumettras
+il (elle) soumettra
+nous soumettrons
+vous soumettrez
+ils (elles) soumettront
+
+* CONDITIONNEL
+
+** Présent
+
+je soumettrais
+tu soumettrais
+il (elle) soumettrait
+nous soumettrions
+vous soumettriez
+ils (elles) soumettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soumette
+que tu soumettes
+qu’il (elle) soumette
+que nous soumettions
+que vous soumettiez
+qu’ils (elles) soumettent
+
+** Imparfait
+
+que je soumisse
+que tu soumisses
+qu’il (elle) soumît
+que nous soumissions
+que vous soumissiez
+qu’ils (elles) soumissent
+
+* IMPÉRATIF
+
+** Présent
+
+soumets
+soumettons
+soumettez
+
+* INFINITIF
+
+** Présent
+
+soumettre
+
+* PARTICIPE
+
+** Présent
+
+soumettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soumis
+tu as soumis
+il (elle) a soumis
+nous avons soumis
+vous avez soumis
+ils (elles) ont soumis
+
+** Plus-que-parfait
+
+j'avais soumis
+tu avais soumis
+il (elle) avait soumis
+nous avions soumis
+vous aviez soumis
+ils (elles) avaient soumis
+
+** Passé antérieur
+
+j'eus soumis
+tu eus soumis
+il (elle) eut soumis
+nous eûmes soumis
+vous eûtes soumis
+ils (elles) eurent soumis
+
+** Futur antérieur
+
+j'aurai soumis
+tu auras soumis
+il (elle) aura soumis
+nous aurons soumis
+vous aurez soumis
+ils (elles) auront soumis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soumis
+tu aurais soumis
+il (elle) aurait soumis
+nous aurions soumis
+vous auriez soumis
+ils (elles) auraient soumis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soumis
+que tu aies soumis
+qu’il (elle) ait soumis
+que nous ayons soumis
+que vous ayez soumis
+qu’ils (elles) aient soumis
+
+** Plus-que-parfait
+
+que j'eusse soumis
+que tu eusses soumis
+qu’il (elle) eût soumis
+que nous eussions soumis
+que vous eussiez soumis
+qu’ils (elles) eussent soumis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soumis
+ayez soumis
+
+* INFINITIF
+
+** Passé
+
+avoir soumis
+
+* PARTICIPE
+
+** Passé
+
+ayant soumis
+soumis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis soumis(e)
+tu es soumis(e)
+il (elle) est soumis(e)
+nous sommes soumis(es)
+vous êtes soumis(es)
+ils (elles) sont soumis(es)
+
+** Imparfait
+
+j'étais soumis(e)
+tu étais soumis(e)
+il (elle) était soumis(e)
+nous étions soumis(es)
+vous étiez soumis(es)
+ils (elles) étaient soumis(es)
+
+** Passé simple
+
+je fus soumis(e)
+tu fus soumis(e)
+il (elle) fut soumis(e)
+nous fûmes soumis(es)
+vous fûtes soumis(es)
+ils (elles) furent soumis(es)
+
+** Futur simple
+
+je serai soumis(e)
+tu seras soumis(e)
+il (elle) sera soumis(e)
+nous serons soumis(es)
+vous serez soumis(es)
+ils (elles) seront soumis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soumis(e)
+tu serais soumis(e)
+il (elle) serait soumis(e)
+nous serions soumis(es)
+vous seriez soumis(es)
+ils (elles) seraient soumis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soumis(e)
+que tu sois soumis(e)
+qu’il (elle) soit soumis(e)
+que nous soyons soumis(es)
+que vous soyez soumis(es)
+qu’ils (elles) soient soumis(es)
+
+** Imparfait
+
+que je fusse soumis(e)
+que tu fusses soumis(e)
+qu’il (elle) fût soumis(e)
+que nous fussions soumis(es)
+que vous fussiez soumis(es)
+qu’ils (elles) fussent soumis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soumis(es)
+soyez soumis(es)
+
+* INFINITIF
+
+** Présent
+
+être soumis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant soumis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soumis(e)
+tu as été soumis(e)
+il (elle) a été soumis(e)
+nous avons été soumis(es)
+vous avez été soumis(es)
+ils (elles) ont été soumis(es)
+
+** Plus-que-parfait
+
+j'avais été soumis(e)
+il (elle) avait été soumis(e)
+nous avions été soumis(es)
+ils (elles) avaient été soumis(es)
+
+** Passé antérieur
+
+j'eus été soumis(e)
+tu eus été soumis(e)
+il (elle) eut été soumis(e)
+nous eûmes été soumis(es)
+vous eûtes été soumis(es)
+ils (elles) eurent été soumis(es)
+
+** Futur antérieur
+
+j'aurai été soumis(e)
+tu auras été soumis(e)
+il (elle) aura été soumis(e)
+nous aurons été soumis(es)
+vous aurez été soumis(es)
+ils (elles) auront été soumis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soumis(e)
+j'aurais été soumis(e)
+il (elle) aurait été soumis(e)
+nous aurions été soumis(es)
+vous auriez été soumis(es)
+ils (elles) auraient été soumis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soumis(e)
+que tu aies été soumis(e)
+qu’il (elle) ait été soumis(e)
+que nous ayons été soumis(es)
+que vous ayez été soumis(es)
+qu’ils (elles) aient été soumis(es)
+
+** Plus-que-parfait
+
+que j'eusse été soumis(e)
+que tu eusses été soumis(e)
+qu’il (elle) eût été soumis(e)
+que nous eussions été soumis(es)
+que vous eussiez été soumis(es)
+qu’ils (elles) eussent été soumis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soumis(e)
+ayons été soumis(es)
+ayez été soumis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été soumis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soumis (s, se, s, ses)

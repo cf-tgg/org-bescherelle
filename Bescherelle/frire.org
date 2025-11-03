@@ -1,0 +1,314 @@
+#+title: Conjugaison du verbe frire
+
+* INDICATIF
+
+** Présent
+
+je fris
+tu fris
+il (elle) frit
+
+** Imparfait
+
+
+** Futur simple
+
+je frirai
+tu friras
+il (elle) frira
+nous frirons
+vous frirez
+ils (elles) friront
+
+* CONDITIONNEL
+
+** Présent
+
+je frirais
+tu frirais
+il (elle) frirait
+nous fririons
+vous fririez
+ils (elles) friraient
+
+* IMPÉRATIF
+
+** Présent
+
+fris
+
+* INFINITIF
+
+** Présent
+
+frire
+
+* PARTICIPE
+
+** Présent
+
+friant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai frit
+tu as frit
+il (elle) a frit
+nous avons frit
+vous avez frit
+ils (elles) ont frit
+
+** Plus-que-parfait
+
+j'avais frit
+tu avais frit
+il (elle) avait frit
+nous avions frit
+vous aviez frit
+ils (elles) avaient frit
+
+** Passé antérieur
+
+j'eus frit
+tu eus frit
+il (elle) eut frit
+nous eûmes frit
+vous eûtes frit
+ils (elles) eurent frit
+
+** Futur antérieur
+
+j'aurai frit
+tu auras frit
+il (elle) aura frit
+nous aurons frit
+vous aurez frit
+ils (elles) auront frit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais frit
+tu aurais frit
+il (elle) aurait frit
+nous aurions frit
+vous auriez frit
+ils (elles) auraient frit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie frit
+que tu aies frit
+qu’il (elle) ait frit
+que nous ayons frit
+que vous ayez frit
+qu’ils (elles) aient frit
+
+** Plus-que-parfait
+
+que j'eusse frit
+que tu eusses frit
+qu’il (elle) eût frit
+que nous eussions frit
+que vous eussiez frit
+qu’ils (elles) eussent frit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons frit
+ayez frit
+
+* INFINITIF
+
+** Passé
+
+avoir frit
+
+* PARTICIPE
+
+** Passé
+
+ayant frit
+frit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis frit(e)
+tu es frit(e)
+il (elle) est frit(e)
+nous sommes frit(e)s
+vous êtes frit(e)s
+ils (elles) sont frit(e)s
+
+** Imparfait
+
+j'étais frit(e)
+tu étais frit(e)
+il (elle) était frit(e)
+nous étions frit(e)s
+vous étiez frit(e)s
+ils (elles) étaient frit(e)s
+
+** Passé simple
+
+je fus frit(e)
+tu fus frit(e)
+il (elle) fut frit(e)
+nous fûmes frit(e)s
+vous fûtes frit(e)s
+ils (elles) furent frit(e)s
+
+** Futur simple
+
+je serai frit(e)
+tu seras frit(e)
+il (elle) sera frit(e)
+nous serons frit(e)s
+vous serez frit(e)s
+ils (elles) seront frit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais frit(e)
+tu serais frit(e)
+il (elle) serait frit(e)
+nous serions frit(e)s
+vous seriez frit(e)s
+ils (elles) seraient frit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois frit(e)
+que tu sois frit(e)
+qu’il (elle) soit frit(e)
+que nous soyons frit(e)s
+que vous soyez frit(e)s
+qu’ils (elles) soient frit(e)s
+
+** Imparfait
+
+que je fusse frit(e)
+que tu fusses frit(e)
+qu’il (elle) fût frit(e)
+que nous fussions frit(e)s
+que vous fussiez frit(e)s
+qu’ils (elles) fussent frit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons frit(e)s
+soyez frit(e)s
+
+* INFINITIF
+
+** Présent
+
+être frit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant frit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été frit(e)
+tu as été frit(e)
+il (elle) a été frit(e)
+nous avons été frit(e)s
+vous avez été frit(e)s
+ils (elles) ont été frit(e)s
+
+** Plus-que-parfait
+
+j'avais été frit(e)
+il (elle) avait été frit(e)
+nous avions été frit(e)s
+ils (elles) avaient été frit(e)s
+
+** Passé antérieur
+
+j'eus été frit(e)
+tu eus été frit(e)
+il (elle) eut été frit(e)
+nous eûmes été frit(e)s
+vous eûtes été frit(e)s
+ils (elles) eurent été frit(e)s
+
+** Futur antérieur
+
+j'aurai été frit(e)
+tu auras été frit(e)
+il (elle) aura été frit(e)
+nous aurons été frit(e)s
+vous aurez été frit(e)s
+ils (elles) auront été frit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été frit(e)
+j'aurais été frit(e)
+il (elle) aurait été frit(e)
+nous aurions été frit(e)s
+vous auriez été frit(e)s
+ils (elles) auraient été frit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été frit(e)
+que tu aies été frit(e)
+qu’il (elle) ait été frit(e)
+que nous ayons été frit(e)s
+que vous ayez été frit(e)s
+qu’ils (elles) aient été frit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été frit(e)
+que tu eusses été frit(e)
+qu’il (elle) eût été frit(e)
+que nous eussions été frit(e)s
+que vous eussiez été frit(e)s
+qu’ils (elles) eussent été frit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été frit(e)
+ayons été frit(e)s
+ayez été frit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été frit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été frit(e)(s)

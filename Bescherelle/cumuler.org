@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cumuler
+
+* INDICATIF
+
+** Présent
+
+je cumule
+tu cumules
+il (elle) cumule
+nous cumulons
+vous cumulez
+ils (elles) cumulent
+
+** Imparfait
+
+je cumulais
+tu cumulais
+il (elle) cumulait
+nous cumulions
+vous cumuliez
+ils (elles) cumulaient
+
+** Passé simple
+
+je cumulai
+tu cumulas
+il (elle) cumula
+nous cumulâmes
+vous cumulâtes
+ils (elles) cumulèrent
+
+** Futur simple
+
+je cumulerai
+tu cumuleras
+il (elle) cumulera
+nous cumulerons
+vous cumulerez
+ils (elles) cumuleront
+
+* CONDITIONNEL
+
+** Présent
+
+je cumulerais
+tu cumulerais
+il (elle) cumulerait
+nous cumulerions
+vous cumuleriez
+ils (elles) cumuleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cumule
+que tu cumules
+qu’il (elle) cumule
+que nous cumulions
+que vous cumuliez
+qu’ils (elles) cumulent
+
+** Imparfait
+
+que je cumulasse
+que tu cumulasses
+qu’il (elle) cumulât
+que nous cumulassions
+que vous cumulassiez
+qu’ils (elles) cumulassent
+
+* IMPÉRATIF
+
+** Présent
+
+cumule
+cumulons
+cumulez
+
+* INFINITIF
+
+** Présent
+
+cumuler
+
+* PARTICIPE
+
+** Présent
+
+cumulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cumulé
+tu as cumulé
+il (elle) a cumulé
+nous avons cumulé
+vous avez cumulé
+ils (elles) ont cumulé
+
+** Plus-que-parfait
+
+j'avais cumulé
+tu avais cumulé
+il (elle) avait cumulé
+nous avions cumulé
+vous aviez cumulé
+ils (elles) avaient cumulé
+
+** Passé antérieur
+
+j'eus cumulé
+tu eus cumulé
+il (elle) eut cumulé
+nous eûmes cumulé
+vous eûtes cumulé
+ils (elles) eurent cumulé
+
+** Futur antérieur
+
+j'aurai cumulé
+tu auras cumulé
+il (elle) aura cumulé
+nous aurons cumulé
+vous aurez cumulé
+ils (elles) auront cumulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cumulé
+tu aurais cumulé
+il (elle) aurait cumulé
+nous aurions cumulé
+vous auriez cumulé
+ils (elles) auraient cumulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cumulé
+que tu aies cumulé
+qu’il (elle) ait cumulé
+que nous ayons cumulé
+que vous ayez cumulé
+qu’ils (elles) aient cumulé
+
+** Plus-que-parfait
+
+que j'eusse cumulé
+que tu eusses cumulé
+qu’il (elle) eût cumulé
+que nous eussions cumulé
+que vous eussiez cumulé
+qu’ils (elles) eussent cumulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cumulé
+ayez cumulé
+
+* INFINITIF
+
+** Passé
+
+avoir cumulé
+
+* PARTICIPE
+
+** Passé
+
+ayant cumulé
+cumulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cumulé(e)
+tu es cumulé(e)
+il (elle) est cumulé(e)
+nous sommes cumulé(e)s
+vous êtes cumulé(e)s
+ils (elles) sont cumulé(e)s
+
+** Imparfait
+
+j'étais cumulé(e)
+tu étais cumulé(e)
+il (elle) était cumulé(e)
+nous étions cumulé(e)s
+vous étiez cumulé(e)s
+ils (elles) étaient cumulé(e)s
+
+** Passé simple
+
+je fus cumulé(e)
+tu fus cumulé(e)
+il (elle) fut cumulé(e)
+nous fûmes cumulé(e)s
+vous fûtes cumulé(e)s
+ils (elles) furent cumulé(e)s
+
+** Futur simple
+
+je serai cumulé(e)
+tu seras cumulé(e)
+il (elle) sera cumulé(e)
+nous serons cumulé(e)s
+vous serez cumulé(e)s
+ils (elles) seront cumulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cumulé(e)
+tu serais cumulé(e)
+il (elle) serait cumulé(e)
+nous serions cumulé(e)s
+vous seriez cumulé(e)s
+ils (elles) seraient cumulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cumulé(e)
+que tu sois cumulé(e)
+qu’il (elle) soit cumulé(e)
+que nous soyons cumulé(e)s
+que vous soyez cumulé(e)s
+qu’ils (elles) soient cumulé(e)s
+
+** Imparfait
+
+que je fusse cumulé(e)
+que tu fusses cumulé(e)
+qu’il (elle) fût cumulé(e)
+que nous fussions cumulé(e)s
+que vous fussiez cumulé(e)s
+qu’ils (elles) fussent cumulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cumulé(e)s
+soyez cumulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être cumulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cumulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cumulé(e)
+tu as été cumulé(e)
+il (elle) a été cumulé(e)
+nous avons été cumulé(e)s
+vous avez été cumulé(e)s
+ils (elles) ont été cumulé(e)s
+
+** Plus-que-parfait
+
+j'avais été cumulé(e)
+il (elle) avait été cumulé(e)
+nous avions été cumulé(e)s
+ils (elles) avaient été cumulé(e)s
+
+** Passé antérieur
+
+j'eus été cumulé(e)
+tu eus été cumulé(e)
+il (elle) eut été cumulé(e)
+nous eûmes été cumulé(e)s
+vous eûtes été cumulé(e)s
+ils (elles) eurent été cumulé(e)s
+
+** Futur antérieur
+
+j'aurai été cumulé(e)
+tu auras été cumulé(e)
+il (elle) aura été cumulé(e)
+nous aurons été cumulé(e)s
+vous aurez été cumulé(e)s
+ils (elles) auront été cumulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cumulé(e)
+j'aurais été cumulé(e)
+il (elle) aurait été cumulé(e)
+nous aurions été cumulé(e)s
+vous auriez été cumulé(e)s
+ils (elles) auraient été cumulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cumulé(e)
+que tu aies été cumulé(e)
+qu’il (elle) ait été cumulé(e)
+que nous ayons été cumulé(e)s
+que vous ayez été cumulé(e)s
+qu’ils (elles) aient été cumulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cumulé(e)
+que tu eusses été cumulé(e)
+qu’il (elle) eût été cumulé(e)
+que nous eussions été cumulé(e)s
+que vous eussiez été cumulé(e)s
+qu’ils (elles) eussent été cumulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cumulé(e)
+ayons été cumulé(e)s
+ayez été cumulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cumulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cumulé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe souder
+
+* INDICATIF
+
+** Présent
+
+je soude
+tu soudes
+il (elle) soude
+nous soudons
+vous soudez
+ils (elles) soudent
+
+** Imparfait
+
+je soudais
+tu soudais
+il (elle) soudait
+nous soudions
+vous soudiez
+ils (elles) soudaient
+
+** Passé simple
+
+je soudai
+tu soudas
+il (elle) souda
+nous soudâmes
+vous soudâtes
+ils (elles) soudèrent
+
+** Futur simple
+
+je souderai
+tu souderas
+il (elle) soudera
+nous souderons
+vous souderez
+ils (elles) souderont
+
+* CONDITIONNEL
+
+** Présent
+
+je souderais
+tu souderais
+il (elle) souderait
+nous souderions
+vous souderiez
+ils (elles) souderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je soude
+que tu soudes
+qu’il (elle) soude
+que nous soudions
+que vous soudiez
+qu’ils (elles) soudent
+
+** Imparfait
+
+que je soudasse
+que tu soudasses
+qu’il (elle) soudât
+que nous soudassions
+que vous soudassiez
+qu’ils (elles) soudassent
+
+* IMPÉRATIF
+
+** Présent
+
+soude
+soudons
+soudez
+
+* INFINITIF
+
+** Présent
+
+souder
+
+* PARTICIPE
+
+** Présent
+
+soudant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai soudé
+tu as soudé
+il (elle) a soudé
+nous avons soudé
+vous avez soudé
+ils (elles) ont soudé
+
+** Plus-que-parfait
+
+j'avais soudé
+tu avais soudé
+il (elle) avait soudé
+nous avions soudé
+vous aviez soudé
+ils (elles) avaient soudé
+
+** Passé antérieur
+
+j'eus soudé
+tu eus soudé
+il (elle) eut soudé
+nous eûmes soudé
+vous eûtes soudé
+ils (elles) eurent soudé
+
+** Futur antérieur
+
+j'aurai soudé
+tu auras soudé
+il (elle) aura soudé
+nous aurons soudé
+vous aurez soudé
+ils (elles) auront soudé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais soudé
+tu aurais soudé
+il (elle) aurait soudé
+nous aurions soudé
+vous auriez soudé
+ils (elles) auraient soudé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie soudé
+que tu aies soudé
+qu’il (elle) ait soudé
+que nous ayons soudé
+que vous ayez soudé
+qu’ils (elles) aient soudé
+
+** Plus-que-parfait
+
+que j'eusse soudé
+que tu eusses soudé
+qu’il (elle) eût soudé
+que nous eussions soudé
+que vous eussiez soudé
+qu’ils (elles) eussent soudé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons soudé
+ayez soudé
+
+* INFINITIF
+
+** Passé
+
+avoir soudé
+
+* PARTICIPE
+
+** Passé
+
+ayant soudé
+soudé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis soudé(e)
+tu es soudé(e)
+il (elle) est soudé(e)
+nous sommes soudé(e)s
+vous êtes soudé(e)s
+ils (elles) sont soudé(e)s
+
+** Imparfait
+
+j'étais soudé(e)
+tu étais soudé(e)
+il (elle) était soudé(e)
+nous étions soudé(e)s
+vous étiez soudé(e)s
+ils (elles) étaient soudé(e)s
+
+** Passé simple
+
+je fus soudé(e)
+tu fus soudé(e)
+il (elle) fut soudé(e)
+nous fûmes soudé(e)s
+vous fûtes soudé(e)s
+ils (elles) furent soudé(e)s
+
+** Futur simple
+
+je serai soudé(e)
+tu seras soudé(e)
+il (elle) sera soudé(e)
+nous serons soudé(e)s
+vous serez soudé(e)s
+ils (elles) seront soudé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais soudé(e)
+tu serais soudé(e)
+il (elle) serait soudé(e)
+nous serions soudé(e)s
+vous seriez soudé(e)s
+ils (elles) seraient soudé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois soudé(e)
+que tu sois soudé(e)
+qu’il (elle) soit soudé(e)
+que nous soyons soudé(e)s
+que vous soyez soudé(e)s
+qu’ils (elles) soient soudé(e)s
+
+** Imparfait
+
+que je fusse soudé(e)
+que tu fusses soudé(e)
+qu’il (elle) fût soudé(e)
+que nous fussions soudé(e)s
+que vous fussiez soudé(e)s
+qu’ils (elles) fussent soudé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons soudé(e)s
+soyez soudé(e)s
+
+* INFINITIF
+
+** Présent
+
+être soudé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant soudé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été soudé(e)
+tu as été soudé(e)
+il (elle) a été soudé(e)
+nous avons été soudé(e)s
+vous avez été soudé(e)s
+ils (elles) ont été soudé(e)s
+
+** Plus-que-parfait
+
+j'avais été soudé(e)
+il (elle) avait été soudé(e)
+nous avions été soudé(e)s
+ils (elles) avaient été soudé(e)s
+
+** Passé antérieur
+
+j'eus été soudé(e)
+tu eus été soudé(e)
+il (elle) eut été soudé(e)
+nous eûmes été soudé(e)s
+vous eûtes été soudé(e)s
+ils (elles) eurent été soudé(e)s
+
+** Futur antérieur
+
+j'aurai été soudé(e)
+tu auras été soudé(e)
+il (elle) aura été soudé(e)
+nous aurons été soudé(e)s
+vous aurez été soudé(e)s
+ils (elles) auront été soudé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été soudé(e)
+j'aurais été soudé(e)
+il (elle) aurait été soudé(e)
+nous aurions été soudé(e)s
+vous auriez été soudé(e)s
+ils (elles) auraient été soudé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été soudé(e)
+que tu aies été soudé(e)
+qu’il (elle) ait été soudé(e)
+que nous ayons été soudé(e)s
+que vous ayez été soudé(e)s
+qu’ils (elles) aient été soudé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été soudé(e)
+que tu eusses été soudé(e)
+qu’il (elle) eût été soudé(e)
+que nous eussions été soudé(e)s
+que vous eussiez été soudé(e)s
+qu’ils (elles) eussent été soudé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été soudé(e)
+ayons été soudé(e)s
+ayez été soudé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été soudé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été soudé(e)(s)

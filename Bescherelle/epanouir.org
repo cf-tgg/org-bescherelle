@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe epanouir
+
+* INDICATIF
+
+** Présent
+
+j'épanouis
+tu épanouis
+il (elle) épanouit
+nous épanouissons
+vous épanouissez
+ils (elles) épanouissent
+
+** Imparfait
+
+j'épanouissais
+tu épanouissais
+il (elle) épanouissait
+nous épanouissions
+vous épanouissiez
+ils (elles) épanouissaient
+
+** Passé simple
+
+j'épanouis
+tu épanouis
+il (elle) épanouit
+nous épanouîmes
+vous épanouîtes
+ils (elles) épanouirent
+
+** Futur simple
+
+j'épanouirai
+tu épanouiras
+il (elle) épanouira
+nous épanouirons
+vous épanouirez
+ils (elles) épanouiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'épanouirais
+tu épanouirais
+il (elle) épanouirait
+nous épanouirions
+vous épanouiriez
+ils (elles) épanouiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'épanouisse
+que tu épanouisses
+qu’il (elle) épanouisse
+que nous épanouissions
+que vous épanouissiez
+qu’ils (elles) épanouissent
+
+** Imparfait
+
+que j'épanouisse
+que tu épanouisses
+qu’il (elle) épanouît
+que nous épanouissions
+que vous épanouissiez
+qu’ils (elles) épanouissent
+
+* IMPÉRATIF
+
+** Présent
+
+épanouis
+épanouissons
+épanouissez
+
+* INFINITIF
+
+** Présent
+
+épanouir
+
+* PARTICIPE
+
+** Présent
+
+épanouissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai épanoui
+tu as épanoui
+il (elle) a épanoui
+nous avons épanoui
+vous avez épanoui
+ils (elles) ont épanoui
+
+** Plus-que-parfait
+
+j'avais épanoui
+tu avais épanoui
+il (elle) avait épanoui
+nous avions épanoui
+vous aviez épanoui
+ils (elles) avaient épanoui
+
+** Passé antérieur
+
+j'eus épanoui
+tu eus épanoui
+il (elle) eut épanoui
+nous eûmes épanoui
+vous eûtes épanoui
+ils (elles) eurent épanoui
+
+** Futur antérieur
+
+j'aurai épanoui
+tu auras épanoui
+il (elle) aura épanoui
+nous aurons épanoui
+vous aurez épanoui
+ils (elles) auront épanoui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais épanoui
+tu aurais épanoui
+il (elle) aurait épanoui
+nous aurions épanoui
+vous auriez épanoui
+ils (elles) auraient épanoui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie épanoui
+que tu aies épanoui
+qu’il (elle) ait épanoui
+que nous ayons épanoui
+que vous ayez épanoui
+qu’ils (elles) aient épanoui
+
+** Plus-que-parfait
+
+que j'eusse épanoui
+que tu eusses épanoui
+qu’il (elle) eût épanoui
+que nous eussions épanoui
+que vous eussiez épanoui
+qu’ils (elles) eussent épanoui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons épanoui
+ayez épanoui
+
+* INFINITIF
+
+** Passé
+
+avoir épanoui
+
+* PARTICIPE
+
+** Passé
+
+ayant épanoui
+épanoui (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis épanoui(e)
+tu es épanoui(e)
+il (elle) est épanoui(e)
+nous sommes épanoui(e)s
+vous êtes épanoui(e)s
+ils (elles) sont épanoui(e)s
+
+** Imparfait
+
+j'étais épanoui(e)
+tu étais épanoui(e)
+il (elle) était épanoui(e)
+nous étions épanoui(e)s
+vous étiez épanoui(e)s
+ils (elles) étaient épanoui(e)s
+
+** Passé simple
+
+je fus épanoui(e)
+tu fus épanoui(e)
+il (elle) fut épanoui(e)
+nous fûmes épanoui(e)s
+vous fûtes épanoui(e)s
+ils (elles) furent épanoui(e)s
+
+** Futur simple
+
+je serai épanoui(e)
+tu seras épanoui(e)
+il (elle) sera épanoui(e)
+nous serons épanoui(e)s
+vous serez épanoui(e)s
+ils (elles) seront épanoui(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais épanoui(e)
+tu serais épanoui(e)
+il (elle) serait épanoui(e)
+nous serions épanoui(e)s
+vous seriez épanoui(e)s
+ils (elles) seraient épanoui(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois épanoui(e)
+que tu sois épanoui(e)
+qu’il (elle) soit épanoui(e)
+que nous soyons épanoui(e)s
+que vous soyez épanoui(e)s
+qu’ils (elles) soient épanoui(e)s
+
+** Imparfait
+
+que je fusse épanoui(e)
+que tu fusses épanoui(e)
+qu’il (elle) fût épanoui(e)
+que nous fussions épanoui(e)s
+que vous fussiez épanoui(e)s
+qu’ils (elles) fussent épanoui(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons épanoui(e)s
+soyez épanoui(e)s
+
+* INFINITIF
+
+** Présent
+
+être épanoui(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant épanoui(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été épanoui(e)
+tu as été épanoui(e)
+il (elle) a été épanoui(e)
+nous avons été épanoui(e)s
+vous avez été épanoui(e)s
+ils (elles) ont été épanoui(e)s
+
+** Plus-que-parfait
+
+j'avais été épanoui(e)
+il (elle) avait été épanoui(e)
+nous avions été épanoui(e)s
+ils (elles) avaient été épanoui(e)s
+
+** Passé antérieur
+
+j'eus été épanoui(e)
+tu eus été épanoui(e)
+il (elle) eut été épanoui(e)
+nous eûmes été épanoui(e)s
+vous eûtes été épanoui(e)s
+ils (elles) eurent été épanoui(e)s
+
+** Futur antérieur
+
+j'aurai été épanoui(e)
+tu auras été épanoui(e)
+il (elle) aura été épanoui(e)
+nous aurons été épanoui(e)s
+vous aurez été épanoui(e)s
+ils (elles) auront été épanoui(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été épanoui(e)
+j'aurais été épanoui(e)
+il (elle) aurait été épanoui(e)
+nous aurions été épanoui(e)s
+vous auriez été épanoui(e)s
+ils (elles) auraient été épanoui(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été épanoui(e)
+que tu aies été épanoui(e)
+qu’il (elle) ait été épanoui(e)
+que nous ayons été épanoui(e)s
+que vous ayez été épanoui(e)s
+qu’ils (elles) aient été épanoui(e)s
+
+** Plus-que-parfait
+
+que j'eusse été épanoui(e)
+que tu eusses été épanoui(e)
+qu’il (elle) eût été épanoui(e)
+que nous eussions été épanoui(e)s
+que vous eussiez été épanoui(e)s
+qu’ils (elles) eussent été épanoui(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été épanoui(e)
+ayons été épanoui(e)s
+ayez été épanoui(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été épanoui(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été épanoui(e)(s)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe dejeuner
+
+* INDICATIF
+
+** Présent
+
+je déjeune
+tu déjeunes
+il (elle) déjeune
+nous déjeunons
+vous déjeunez
+ils (elles) déjeunent
+
+** Imparfait
+
+je déjeunais
+tu déjeunais
+il (elle) déjeunait
+nous déjeunions
+vous déjeuniez
+ils (elles) déjeunaient
+
+** Passé simple
+
+je déjeunai
+tu déjeunas
+il (elle) déjeuna
+nous déjeunâmes
+vous déjeunâtes
+ils (elles) déjeunèrent
+
+** Futur simple
+
+je déjeunerai
+tu déjeuneras
+il (elle) déjeunera
+nous déjeunerons
+vous déjeunerez
+ils (elles) déjeuneront
+
+* CONDITIONNEL
+
+** Présent
+
+je déjeunerais
+tu déjeunerais
+il (elle) déjeunerait
+nous déjeunerions
+vous déjeuneriez
+ils (elles) déjeuneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je déjeune
+que tu déjeunes
+qu’il (elle) déjeune
+que nous déjeunions
+que vous déjeuniez
+qu’ils (elles) déjeunent
+
+** Imparfait
+
+que je déjeunasse
+que tu déjeunasses
+qu’il (elle) déjeunât
+que nous déjeunassions
+que vous déjeunassiez
+qu’ils (elles) déjeunassent
+
+* IMPÉRATIF
+
+** Présent
+
+déjeune
+déjeunons
+déjeunez
+
+* INFINITIF
+
+** Présent
+
+déjeuner
+
+* PARTICIPE
+
+** Présent
+
+déjeunant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai déjeuné
+tu as déjeuné
+il (elle) a déjeuné
+nous avons déjeuné
+vous avez déjeuné
+ils (elles) ont déjeuné
+
+** Plus-que-parfait
+
+j'avais déjeuné
+tu avais déjeuné
+il (elle) avait déjeuné
+nous avions déjeuné
+vous aviez déjeuné
+ils (elles) avaient déjeuné
+
+** Passé antérieur
+
+j'eus déjeuné
+tu eus déjeuné
+il (elle) eut déjeuné
+nous eûmes déjeuné
+vous eûtes déjeuné
+ils (elles) eurent déjeuné
+
+** Futur antérieur
+
+j'aurai déjeuné
+tu auras déjeuné
+il (elle) aura déjeuné
+nous aurons déjeuné
+vous aurez déjeuné
+ils (elles) auront déjeuné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais déjeuné
+tu aurais déjeuné
+il (elle) aurait déjeuné
+nous aurions déjeuné
+vous auriez déjeuné
+ils (elles) auraient déjeuné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie déjeuné
+que tu aies déjeuné
+qu’il (elle) ait déjeuné
+que nous ayons déjeuné
+que vous ayez déjeuné
+qu’ils (elles) aient déjeuné
+
+** Plus-que-parfait
+
+que j'eusse déjeuné
+que tu eusses déjeuné
+qu’il (elle) eût déjeuné
+que nous eussions déjeuné
+que vous eussiez déjeuné
+qu’ils (elles) eussent déjeuné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons déjeuné
+ayez déjeuné
+
+* INFINITIF
+
+** Passé
+
+avoir déjeuné
+
+* PARTICIPE
+
+** Passé
+
+ayant déjeuné
+déjeuné (invar.)

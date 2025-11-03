@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe transporter
+
+* INDICATIF
+
+** Présent
+
+je transporte
+tu transportes
+il (elle) transporte
+nous transportons
+vous transportez
+ils (elles) transportent
+
+** Imparfait
+
+je transportais
+tu transportais
+il (elle) transportait
+nous transportions
+vous transportiez
+ils (elles) transportaient
+
+** Passé simple
+
+je transportai
+tu transportas
+il (elle) transporta
+nous transportâmes
+vous transportâtes
+ils (elles) transportèrent
+
+** Futur simple
+
+je transporterai
+tu transporteras
+il (elle) transportera
+nous transporterons
+vous transporterez
+ils (elles) transporteront
+
+* CONDITIONNEL
+
+** Présent
+
+je transporterais
+tu transporterais
+il (elle) transporterait
+nous transporterions
+vous transporteriez
+ils (elles) transporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je transporte
+que tu transportes
+qu’il (elle) transporte
+que nous transportions
+que vous transportiez
+qu’ils (elles) transportent
+
+** Imparfait
+
+que je transportasse
+que tu transportasses
+qu’il (elle) transportât
+que nous transportassions
+que vous transportassiez
+qu’ils (elles) transportassent
+
+* IMPÉRATIF
+
+** Présent
+
+transporte
+transportons
+transportez
+
+* INFINITIF
+
+** Présent
+
+transporter
+
+* PARTICIPE
+
+** Présent
+
+transportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai transporté
+tu as transporté
+il (elle) a transporté
+nous avons transporté
+vous avez transporté
+ils (elles) ont transporté
+
+** Plus-que-parfait
+
+j'avais transporté
+tu avais transporté
+il (elle) avait transporté
+nous avions transporté
+vous aviez transporté
+ils (elles) avaient transporté
+
+** Passé antérieur
+
+j'eus transporté
+tu eus transporté
+il (elle) eut transporté
+nous eûmes transporté
+vous eûtes transporté
+ils (elles) eurent transporté
+
+** Futur antérieur
+
+j'aurai transporté
+tu auras transporté
+il (elle) aura transporté
+nous aurons transporté
+vous aurez transporté
+ils (elles) auront transporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais transporté
+tu aurais transporté
+il (elle) aurait transporté
+nous aurions transporté
+vous auriez transporté
+ils (elles) auraient transporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie transporté
+que tu aies transporté
+qu’il (elle) ait transporté
+que nous ayons transporté
+que vous ayez transporté
+qu’ils (elles) aient transporté
+
+** Plus-que-parfait
+
+que j'eusse transporté
+que tu eusses transporté
+qu’il (elle) eût transporté
+que nous eussions transporté
+que vous eussiez transporté
+qu’ils (elles) eussent transporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons transporté
+ayez transporté
+
+* INFINITIF
+
+** Passé
+
+avoir transporté
+
+* PARTICIPE
+
+** Passé
+
+ayant transporté
+transporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis transporté(e)
+tu es transporté(e)
+il (elle) est transporté(e)
+nous sommes transporté(e)s
+vous êtes transporté(e)s
+ils (elles) sont transporté(e)s
+
+** Imparfait
+
+j'étais transporté(e)
+tu étais transporté(e)
+il (elle) était transporté(e)
+nous étions transporté(e)s
+vous étiez transporté(e)s
+ils (elles) étaient transporté(e)s
+
+** Passé simple
+
+je fus transporté(e)
+tu fus transporté(e)
+il (elle) fut transporté(e)
+nous fûmes transporté(e)s
+vous fûtes transporté(e)s
+ils (elles) furent transporté(e)s
+
+** Futur simple
+
+je serai transporté(e)
+tu seras transporté(e)
+il (elle) sera transporté(e)
+nous serons transporté(e)s
+vous serez transporté(e)s
+ils (elles) seront transporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais transporté(e)
+tu serais transporté(e)
+il (elle) serait transporté(e)
+nous serions transporté(e)s
+vous seriez transporté(e)s
+ils (elles) seraient transporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois transporté(e)
+que tu sois transporté(e)
+qu’il (elle) soit transporté(e)
+que nous soyons transporté(e)s
+que vous soyez transporté(e)s
+qu’ils (elles) soient transporté(e)s
+
+** Imparfait
+
+que je fusse transporté(e)
+que tu fusses transporté(e)
+qu’il (elle) fût transporté(e)
+que nous fussions transporté(e)s
+que vous fussiez transporté(e)s
+qu’ils (elles) fussent transporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons transporté(e)s
+soyez transporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être transporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant transporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été transporté(e)
+tu as été transporté(e)
+il (elle) a été transporté(e)
+nous avons été transporté(e)s
+vous avez été transporté(e)s
+ils (elles) ont été transporté(e)s
+
+** Plus-que-parfait
+
+j'avais été transporté(e)
+il (elle) avait été transporté(e)
+nous avions été transporté(e)s
+ils (elles) avaient été transporté(e)s
+
+** Passé antérieur
+
+j'eus été transporté(e)
+tu eus été transporté(e)
+il (elle) eut été transporté(e)
+nous eûmes été transporté(e)s
+vous eûtes été transporté(e)s
+ils (elles) eurent été transporté(e)s
+
+** Futur antérieur
+
+j'aurai été transporté(e)
+tu auras été transporté(e)
+il (elle) aura été transporté(e)
+nous aurons été transporté(e)s
+vous aurez été transporté(e)s
+ils (elles) auront été transporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été transporté(e)
+j'aurais été transporté(e)
+il (elle) aurait été transporté(e)
+nous aurions été transporté(e)s
+vous auriez été transporté(e)s
+ils (elles) auraient été transporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été transporté(e)
+que tu aies été transporté(e)
+qu’il (elle) ait été transporté(e)
+que nous ayons été transporté(e)s
+que vous ayez été transporté(e)s
+qu’ils (elles) aient été transporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été transporté(e)
+que tu eusses été transporté(e)
+qu’il (elle) eût été transporté(e)
+que nous eussions été transporté(e)s
+que vous eussiez été transporté(e)s
+qu’ils (elles) eussent été transporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été transporté(e)
+ayons été transporté(e)s
+ayez été transporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été transporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été transporté(e)(s)

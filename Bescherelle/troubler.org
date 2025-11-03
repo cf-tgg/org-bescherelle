@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe troubler
+
+* INDICATIF
+
+** Présent
+
+je trouble
+tu troubles
+il (elle) trouble
+nous troublons
+vous troublez
+ils (elles) troublent
+
+** Imparfait
+
+je troublais
+tu troublais
+il (elle) troublait
+nous troublions
+vous troubliez
+ils (elles) troublaient
+
+** Passé simple
+
+je troublai
+tu troublas
+il (elle) troubla
+nous troublâmes
+vous troublâtes
+ils (elles) troublèrent
+
+** Futur simple
+
+je troublerai
+tu troubleras
+il (elle) troublera
+nous troublerons
+vous troublerez
+ils (elles) troubleront
+
+* CONDITIONNEL
+
+** Présent
+
+je troublerais
+tu troublerais
+il (elle) troublerait
+nous troublerions
+vous troubleriez
+ils (elles) troubleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trouble
+que tu troubles
+qu’il (elle) trouble
+que nous troublions
+que vous troubliez
+qu’ils (elles) troublent
+
+** Imparfait
+
+que je troublasse
+que tu troublasses
+qu’il (elle) troublât
+que nous troublassions
+que vous troublassiez
+qu’ils (elles) troublassent
+
+* IMPÉRATIF
+
+** Présent
+
+trouble
+troublons
+troublez
+
+* INFINITIF
+
+** Présent
+
+troubler
+
+* PARTICIPE
+
+** Présent
+
+troublant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai troublé
+tu as troublé
+il (elle) a troublé
+nous avons troublé
+vous avez troublé
+ils (elles) ont troublé
+
+** Plus-que-parfait
+
+j'avais troublé
+tu avais troublé
+il (elle) avait troublé
+nous avions troublé
+vous aviez troublé
+ils (elles) avaient troublé
+
+** Passé antérieur
+
+j'eus troublé
+tu eus troublé
+il (elle) eut troublé
+nous eûmes troublé
+vous eûtes troublé
+ils (elles) eurent troublé
+
+** Futur antérieur
+
+j'aurai troublé
+tu auras troublé
+il (elle) aura troublé
+nous aurons troublé
+vous aurez troublé
+ils (elles) auront troublé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais troublé
+tu aurais troublé
+il (elle) aurait troublé
+nous aurions troublé
+vous auriez troublé
+ils (elles) auraient troublé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie troublé
+que tu aies troublé
+qu’il (elle) ait troublé
+que nous ayons troublé
+que vous ayez troublé
+qu’ils (elles) aient troublé
+
+** Plus-que-parfait
+
+que j'eusse troublé
+que tu eusses troublé
+qu’il (elle) eût troublé
+que nous eussions troublé
+que vous eussiez troublé
+qu’ils (elles) eussent troublé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons troublé
+ayez troublé
+
+* INFINITIF
+
+** Passé
+
+avoir troublé
+
+* PARTICIPE
+
+** Passé
+
+ayant troublé
+troublé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis troublé(e)
+tu es troublé(e)
+il (elle) est troublé(e)
+nous sommes troublé(e)s
+vous êtes troublé(e)s
+ils (elles) sont troublé(e)s
+
+** Imparfait
+
+j'étais troublé(e)
+tu étais troublé(e)
+il (elle) était troublé(e)
+nous étions troublé(e)s
+vous étiez troublé(e)s
+ils (elles) étaient troublé(e)s
+
+** Passé simple
+
+je fus troublé(e)
+tu fus troublé(e)
+il (elle) fut troublé(e)
+nous fûmes troublé(e)s
+vous fûtes troublé(e)s
+ils (elles) furent troublé(e)s
+
+** Futur simple
+
+je serai troublé(e)
+tu seras troublé(e)
+il (elle) sera troublé(e)
+nous serons troublé(e)s
+vous serez troublé(e)s
+ils (elles) seront troublé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais troublé(e)
+tu serais troublé(e)
+il (elle) serait troublé(e)
+nous serions troublé(e)s
+vous seriez troublé(e)s
+ils (elles) seraient troublé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois troublé(e)
+que tu sois troublé(e)
+qu’il (elle) soit troublé(e)
+que nous soyons troublé(e)s
+que vous soyez troublé(e)s
+qu’ils (elles) soient troublé(e)s
+
+** Imparfait
+
+que je fusse troublé(e)
+que tu fusses troublé(e)
+qu’il (elle) fût troublé(e)
+que nous fussions troublé(e)s
+que vous fussiez troublé(e)s
+qu’ils (elles) fussent troublé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons troublé(e)s
+soyez troublé(e)s
+
+* INFINITIF
+
+** Présent
+
+être troublé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant troublé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été troublé(e)
+tu as été troublé(e)
+il (elle) a été troublé(e)
+nous avons été troublé(e)s
+vous avez été troublé(e)s
+ils (elles) ont été troublé(e)s
+
+** Plus-que-parfait
+
+j'avais été troublé(e)
+il (elle) avait été troublé(e)
+nous avions été troublé(e)s
+ils (elles) avaient été troublé(e)s
+
+** Passé antérieur
+
+j'eus été troublé(e)
+tu eus été troublé(e)
+il (elle) eut été troublé(e)
+nous eûmes été troublé(e)s
+vous eûtes été troublé(e)s
+ils (elles) eurent été troublé(e)s
+
+** Futur antérieur
+
+j'aurai été troublé(e)
+tu auras été troublé(e)
+il (elle) aura été troublé(e)
+nous aurons été troublé(e)s
+vous aurez été troublé(e)s
+ils (elles) auront été troublé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été troublé(e)
+j'aurais été troublé(e)
+il (elle) aurait été troublé(e)
+nous aurions été troublé(e)s
+vous auriez été troublé(e)s
+ils (elles) auraient été troublé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été troublé(e)
+que tu aies été troublé(e)
+qu’il (elle) ait été troublé(e)
+que nous ayons été troublé(e)s
+que vous ayez été troublé(e)s
+qu’ils (elles) aient été troublé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été troublé(e)
+que tu eusses été troublé(e)
+qu’il (elle) eût été troublé(e)
+que nous eussions été troublé(e)s
+que vous eussiez été troublé(e)s
+qu’ils (elles) eussent été troublé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été troublé(e)
+ayons été troublé(e)s
+ayez été troublé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été troublé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été troublé(e)(s)

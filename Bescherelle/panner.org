@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe panner
+
+* INDICATIF
+
+** Présent
+
+je panne
+tu pannes
+il (elle) panne
+nous pannons
+vous pannez
+ils (elles) pannent
+
+** Imparfait
+
+je pannais
+tu pannais
+il (elle) pannait
+nous pannions
+vous panniez
+ils (elles) pannaient
+
+** Passé simple
+
+je pannai
+tu pannas
+il (elle) panna
+nous pannâmes
+vous pannâtes
+ils (elles) pannèrent
+
+** Futur simple
+
+je pannerai
+tu panneras
+il (elle) pannera
+nous pannerons
+vous pannerez
+ils (elles) panneront
+
+* CONDITIONNEL
+
+** Présent
+
+je pannerais
+tu pannerais
+il (elle) pannerait
+nous pannerions
+vous panneriez
+ils (elles) panneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je panne
+que tu pannes
+qu’il (elle) panne
+que nous pannions
+que vous panniez
+qu’ils (elles) pannent
+
+** Imparfait
+
+que je pannasse
+que tu pannasses
+qu’il (elle) pannât
+que nous pannassions
+que vous pannassiez
+qu’ils (elles) pannassent
+
+* IMPÉRATIF
+
+** Présent
+
+panne
+pannons
+pannez
+
+* INFINITIF
+
+** Présent
+
+panner
+
+* PARTICIPE
+
+** Présent
+
+pannant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai panné
+tu as panné
+il (elle) a panné
+nous avons panné
+vous avez panné
+ils (elles) ont panné
+
+** Plus-que-parfait
+
+j'avais panné
+tu avais panné
+il (elle) avait panné
+nous avions panné
+vous aviez panné
+ils (elles) avaient panné
+
+** Passé antérieur
+
+j'eus panné
+tu eus panné
+il (elle) eut panné
+nous eûmes panné
+vous eûtes panné
+ils (elles) eurent panné
+
+** Futur antérieur
+
+j'aurai panné
+tu auras panné
+il (elle) aura panné
+nous aurons panné
+vous aurez panné
+ils (elles) auront panné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais panné
+tu aurais panné
+il (elle) aurait panné
+nous aurions panné
+vous auriez panné
+ils (elles) auraient panné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie panné
+que tu aies panné
+qu’il (elle) ait panné
+que nous ayons panné
+que vous ayez panné
+qu’ils (elles) aient panné
+
+** Plus-que-parfait
+
+que j'eusse panné
+que tu eusses panné
+qu’il (elle) eût panné
+que nous eussions panné
+que vous eussiez panné
+qu’ils (elles) eussent panné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons panné
+ayez panné
+
+* INFINITIF
+
+** Passé
+
+avoir panné
+
+* PARTICIPE
+
+** Passé
+
+ayant panné
+panné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis panné(e)
+tu es panné(e)
+il (elle) est panné(e)
+nous sommes panné(e)s
+vous êtes panné(e)s
+ils (elles) sont panné(e)s
+
+** Imparfait
+
+j'étais panné(e)
+tu étais panné(e)
+il (elle) était panné(e)
+nous étions panné(e)s
+vous étiez panné(e)s
+ils (elles) étaient panné(e)s
+
+** Passé simple
+
+je fus panné(e)
+tu fus panné(e)
+il (elle) fut panné(e)
+nous fûmes panné(e)s
+vous fûtes panné(e)s
+ils (elles) furent panné(e)s
+
+** Futur simple
+
+je serai panné(e)
+tu seras panné(e)
+il (elle) sera panné(e)
+nous serons panné(e)s
+vous serez panné(e)s
+ils (elles) seront panné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais panné(e)
+tu serais panné(e)
+il (elle) serait panné(e)
+nous serions panné(e)s
+vous seriez panné(e)s
+ils (elles) seraient panné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois panné(e)
+que tu sois panné(e)
+qu’il (elle) soit panné(e)
+que nous soyons panné(e)s
+que vous soyez panné(e)s
+qu’ils (elles) soient panné(e)s
+
+** Imparfait
+
+que je fusse panné(e)
+que tu fusses panné(e)
+qu’il (elle) fût panné(e)
+que nous fussions panné(e)s
+que vous fussiez panné(e)s
+qu’ils (elles) fussent panné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons panné(e)s
+soyez panné(e)s
+
+* INFINITIF
+
+** Présent
+
+être panné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant panné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été panné(e)
+tu as été panné(e)
+il (elle) a été panné(e)
+nous avons été panné(e)s
+vous avez été panné(e)s
+ils (elles) ont été panné(e)s
+
+** Plus-que-parfait
+
+j'avais été panné(e)
+il (elle) avait été panné(e)
+nous avions été panné(e)s
+ils (elles) avaient été panné(e)s
+
+** Passé antérieur
+
+j'eus été panné(e)
+tu eus été panné(e)
+il (elle) eut été panné(e)
+nous eûmes été panné(e)s
+vous eûtes été panné(e)s
+ils (elles) eurent été panné(e)s
+
+** Futur antérieur
+
+j'aurai été panné(e)
+tu auras été panné(e)
+il (elle) aura été panné(e)
+nous aurons été panné(e)s
+vous aurez été panné(e)s
+ils (elles) auront été panné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été panné(e)
+j'aurais été panné(e)
+il (elle) aurait été panné(e)
+nous aurions été panné(e)s
+vous auriez été panné(e)s
+ils (elles) auraient été panné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été panné(e)
+que tu aies été panné(e)
+qu’il (elle) ait été panné(e)
+que nous ayons été panné(e)s
+que vous ayez été panné(e)s
+qu’ils (elles) aient été panné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été panné(e)
+que tu eusses été panné(e)
+qu’il (elle) eût été panné(e)
+que nous eussions été panné(e)s
+que vous eussiez été panné(e)s
+qu’ils (elles) eussent été panné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été panné(e)
+ayons été panné(e)s
+ayez été panné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été panné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été panné(e)(s)

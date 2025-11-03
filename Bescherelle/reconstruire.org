@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reconstruire
+
+* INDICATIF
+
+** Présent
+
+je reconstruis
+tu reconstruis
+il (elle) reconstruit
+nous reconstruisons
+vous reconstruisez
+ils (elles) reconstruisent
+
+** Imparfait
+
+je reconstruisais
+tu reconstruisais
+il (elle) reconstruisait
+nous reconstruisions
+vous reconstruisiez
+ils (elles) reconstruisaient
+
+** Passé simple
+
+je reconstruisis
+tu reconstruisis
+il (elle) reconstruisit
+nous reconstruisîmes
+vous reconstruisîtes
+ils (elles) reconstruisirent
+
+** Futur simple
+
+je reconstruirai
+tu reconstruiras
+il (elle) reconstruira
+nous reconstruirons
+vous reconstruirez
+ils (elles) reconstruiront
+
+* CONDITIONNEL
+
+** Présent
+
+je reconstruirais
+tu reconstruirais
+il (elle) reconstruirait
+nous reconstruirions
+vous reconstruiriez
+ils (elles) reconstruiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reconstruise
+que tu reconstruises
+qu’il (elle) reconstruise
+que nous reconstruisions
+que vous reconstruisiez
+qu’ils (elles) reconstruisent
+
+** Imparfait
+
+que je reconstruisisse
+que tu reconstruisisses
+qu’il (elle) reconstruisît
+que nous reconstruisissions
+que vous reconstruisissiez
+qu’ils (elles) reconstruisissent
+
+* IMPÉRATIF
+
+** Présent
+
+reconstruis
+reconstruisons
+reconstruisez
+
+* INFINITIF
+
+** Présent
+
+reconstruire
+
+* PARTICIPE
+
+** Présent
+
+reconstruisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reconstruit
+tu as reconstruit
+il (elle) a reconstruit
+nous avons reconstruit
+vous avez reconstruit
+ils (elles) ont reconstruit
+
+** Plus-que-parfait
+
+j'avais reconstruit
+tu avais reconstruit
+il (elle) avait reconstruit
+nous avions reconstruit
+vous aviez reconstruit
+ils (elles) avaient reconstruit
+
+** Passé antérieur
+
+j'eus reconstruit
+tu eus reconstruit
+il (elle) eut reconstruit
+nous eûmes reconstruit
+vous eûtes reconstruit
+ils (elles) eurent reconstruit
+
+** Futur antérieur
+
+j'aurai reconstruit
+tu auras reconstruit
+il (elle) aura reconstruit
+nous aurons reconstruit
+vous aurez reconstruit
+ils (elles) auront reconstruit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reconstruit
+tu aurais reconstruit
+il (elle) aurait reconstruit
+nous aurions reconstruit
+vous auriez reconstruit
+ils (elles) auraient reconstruit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reconstruit
+que tu aies reconstruit
+qu’il (elle) ait reconstruit
+que nous ayons reconstruit
+que vous ayez reconstruit
+qu’ils (elles) aient reconstruit
+
+** Plus-que-parfait
+
+que j'eusse reconstruit
+que tu eusses reconstruit
+qu’il (elle) eût reconstruit
+que nous eussions reconstruit
+que vous eussiez reconstruit
+qu’ils (elles) eussent reconstruit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reconstruit
+ayez reconstruit
+
+* INFINITIF
+
+** Passé
+
+avoir reconstruit
+
+* PARTICIPE
+
+** Passé
+
+ayant reconstruit
+reconstruit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis reconstruit(e)
+tu es reconstruit(e)
+il (elle) est reconstruit(e)
+nous sommes reconstruit(e)s
+vous êtes reconstruit(e)s
+ils (elles) sont reconstruit(e)s
+
+** Imparfait
+
+j'étais reconstruit(e)
+tu étais reconstruit(e)
+il (elle) était reconstruit(e)
+nous étions reconstruit(e)s
+vous étiez reconstruit(e)s
+ils (elles) étaient reconstruit(e)s
+
+** Passé simple
+
+je fus reconstruit(e)
+tu fus reconstruit(e)
+il (elle) fut reconstruit(e)
+nous fûmes reconstruit(e)s
+vous fûtes reconstruit(e)s
+ils (elles) furent reconstruit(e)s
+
+** Futur simple
+
+je serai reconstruit(e)
+tu seras reconstruit(e)
+il (elle) sera reconstruit(e)
+nous serons reconstruit(e)s
+vous serez reconstruit(e)s
+ils (elles) seront reconstruit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reconstruit(e)
+tu serais reconstruit(e)
+il (elle) serait reconstruit(e)
+nous serions reconstruit(e)s
+vous seriez reconstruit(e)s
+ils (elles) seraient reconstruit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reconstruit(e)
+que tu sois reconstruit(e)
+qu’il (elle) soit reconstruit(e)
+que nous soyons reconstruit(e)s
+que vous soyez reconstruit(e)s
+qu’ils (elles) soient reconstruit(e)s
+
+** Imparfait
+
+que je fusse reconstruit(e)
+que tu fusses reconstruit(e)
+qu’il (elle) fût reconstruit(e)
+que nous fussions reconstruit(e)s
+que vous fussiez reconstruit(e)s
+qu’ils (elles) fussent reconstruit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reconstruit(e)s
+soyez reconstruit(e)s
+
+* INFINITIF
+
+** Présent
+
+être reconstruit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reconstruit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reconstruit(e)
+tu as été reconstruit(e)
+il (elle) a été reconstruit(e)
+nous avons été reconstruit(e)s
+vous avez été reconstruit(e)s
+ils (elles) ont été reconstruit(e)s
+
+** Plus-que-parfait
+
+j'avais été reconstruit(e)
+il (elle) avait été reconstruit(e)
+nous avions été reconstruit(e)s
+ils (elles) avaient été reconstruit(e)s
+
+** Passé antérieur
+
+j'eus été reconstruit(e)
+tu eus été reconstruit(e)
+il (elle) eut été reconstruit(e)
+nous eûmes été reconstruit(e)s
+vous eûtes été reconstruit(e)s
+ils (elles) eurent été reconstruit(e)s
+
+** Futur antérieur
+
+j'aurai été reconstruit(e)
+tu auras été reconstruit(e)
+il (elle) aura été reconstruit(e)
+nous aurons été reconstruit(e)s
+vous aurez été reconstruit(e)s
+ils (elles) auront été reconstruit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reconstruit(e)
+j'aurais été reconstruit(e)
+il (elle) aurait été reconstruit(e)
+nous aurions été reconstruit(e)s
+vous auriez été reconstruit(e)s
+ils (elles) auraient été reconstruit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reconstruit(e)
+que tu aies été reconstruit(e)
+qu’il (elle) ait été reconstruit(e)
+que nous ayons été reconstruit(e)s
+que vous ayez été reconstruit(e)s
+qu’ils (elles) aient été reconstruit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reconstruit(e)
+que tu eusses été reconstruit(e)
+qu’il (elle) eût été reconstruit(e)
+que nous eussions été reconstruit(e)s
+que vous eussiez été reconstruit(e)s
+qu’ils (elles) eussent été reconstruit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reconstruit(e)
+ayons été reconstruit(e)s
+ayez été reconstruit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reconstruit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reconstruit(e)(s)

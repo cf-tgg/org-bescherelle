@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe fraichir
+
+* INDICATIF
+
+** Présent
+
+je fraîchis
+tu fraîchis
+il (elle) fraîchit
+nous fraîchissons
+vous fraîchissez
+ils (elles) fraîchissent
+
+** Imparfait
+
+je fraîchissais
+tu fraîchissais
+il (elle) fraîchissait
+nous fraîchissions
+vous fraîchissiez
+ils (elles) fraîchissaient
+
+** Passé simple
+
+je fraîchis
+tu fraîchis
+il (elle) fraîchit
+nous fraîchîmes
+vous fraîchîtes
+ils (elles) fraîchirent
+
+** Futur simple
+
+je fraîchirai
+tu fraîchiras
+il (elle) fraîchira
+nous fraîchirons
+vous fraîchirez
+ils (elles) fraîchiront
+
+* CONDITIONNEL
+
+** Présent
+
+je fraîchirais
+tu fraîchirais
+il (elle) fraîchirait
+nous fraîchirions
+vous fraîchiriez
+ils (elles) fraîchiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fraîchisse
+que tu fraîchisses
+qu’il (elle) fraîchisse
+que nous fraîchissions
+que vous fraîchissiez
+qu’ils (elles) fraîchissent
+
+** Imparfait
+
+que je fraîchisse
+que tu fraîchisses
+qu’il (elle) fraîchît
+que nous fraîchissions
+que vous fraîchissiez
+qu’ils (elles) fraîchissent
+
+* IMPÉRATIF
+
+** Présent
+
+fraîchis
+fraîchissons
+fraîchissez
+
+* INFINITIF
+
+** Présent
+
+fraîchir
+
+* PARTICIPE
+
+** Présent
+
+fraîchissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fraîchi
+tu as fraîchi
+il (elle) a fraîchi
+nous avons fraîchi
+vous avez fraîchi
+ils (elles) ont fraîchi
+
+** Plus-que-parfait
+
+j'avais fraîchi
+tu avais fraîchi
+il (elle) avait fraîchi
+nous avions fraîchi
+vous aviez fraîchi
+ils (elles) avaient fraîchi
+
+** Passé antérieur
+
+j'eus fraîchi
+tu eus fraîchi
+il (elle) eut fraîchi
+nous eûmes fraîchi
+vous eûtes fraîchi
+ils (elles) eurent fraîchi
+
+** Futur antérieur
+
+j'aurai fraîchi
+tu auras fraîchi
+il (elle) aura fraîchi
+nous aurons fraîchi
+vous aurez fraîchi
+ils (elles) auront fraîchi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fraîchi
+tu aurais fraîchi
+il (elle) aurait fraîchi
+nous aurions fraîchi
+vous auriez fraîchi
+ils (elles) auraient fraîchi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fraîchi
+que tu aies fraîchi
+qu’il (elle) ait fraîchi
+que nous ayons fraîchi
+que vous ayez fraîchi
+qu’ils (elles) aient fraîchi
+
+** Plus-que-parfait
+
+que j'eusse fraîchi
+que tu eusses fraîchi
+qu’il (elle) eût fraîchi
+que nous eussions fraîchi
+que vous eussiez fraîchi
+qu’ils (elles) eussent fraîchi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fraîchi
+ayez fraîchi
+
+* INFINITIF
+
+** Passé
+
+avoir fraîchi
+
+* PARTICIPE
+
+** Passé
+
+ayant fraîchi
+fraîchi (invar.)

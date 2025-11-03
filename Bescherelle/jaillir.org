@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe jaillir
+
+* INDICATIF
+
+** Présent
+
+je jaillis
+tu jaillis
+il (elle) jaillit
+nous jaillissons
+vous jaillissez
+ils (elles) jaillissent
+
+** Imparfait
+
+je jaillissais
+tu jaillissais
+il (elle) jaillissait
+nous jaillissions
+vous jaillissiez
+ils (elles) jaillissaient
+
+** Passé simple
+
+je jaillis
+tu jaillis
+il (elle) jaillit
+nous jaillîmes
+vous jaillîtes
+ils (elles) jaillirent
+
+** Futur simple
+
+je jaillirai
+tu jailliras
+il (elle) jaillira
+nous jaillirons
+vous jaillirez
+ils (elles) jailliront
+
+* CONDITIONNEL
+
+** Présent
+
+je jaillirais
+tu jaillirais
+il (elle) jaillirait
+nous jaillirions
+vous jailliriez
+ils (elles) jailliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jaillisse
+que tu jaillisses
+qu’il (elle) jaillisse
+que nous jaillissions
+que vous jaillissiez
+qu’ils (elles) jaillissent
+
+** Imparfait
+
+que je jaillisse
+que tu jaillisses
+qu’il (elle) jaillît
+que nous jaillissions
+que vous jaillissiez
+qu’ils (elles) jaillissent
+
+* IMPÉRATIF
+
+** Présent
+
+jaillis
+jaillissons
+jaillissez
+
+* INFINITIF
+
+** Présent
+
+jaillir
+
+* PARTICIPE
+
+** Présent
+
+jaillissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jailli
+tu as jailli
+il (elle) a jailli
+nous avons jailli
+vous avez jailli
+ils (elles) ont jailli
+
+** Plus-que-parfait
+
+j'avais jailli
+tu avais jailli
+il (elle) avait jailli
+nous avions jailli
+vous aviez jailli
+ils (elles) avaient jailli
+
+** Passé antérieur
+
+j'eus jailli
+tu eus jailli
+il (elle) eut jailli
+nous eûmes jailli
+vous eûtes jailli
+ils (elles) eurent jailli
+
+** Futur antérieur
+
+j'aurai jailli
+tu auras jailli
+il (elle) aura jailli
+nous aurons jailli
+vous aurez jailli
+ils (elles) auront jailli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jailli
+tu aurais jailli
+il (elle) aurait jailli
+nous aurions jailli
+vous auriez jailli
+ils (elles) auraient jailli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jailli
+que tu aies jailli
+qu’il (elle) ait jailli
+que nous ayons jailli
+que vous ayez jailli
+qu’ils (elles) aient jailli
+
+** Plus-que-parfait
+
+que j'eusse jailli
+que tu eusses jailli
+qu’il (elle) eût jailli
+que nous eussions jailli
+que vous eussiez jailli
+qu’ils (elles) eussent jailli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jailli
+ayez jailli
+
+* INFINITIF
+
+** Passé
+
+avoir jailli
+
+* PARTICIPE
+
+** Passé
+
+ayant jailli
+jailli (invar.)

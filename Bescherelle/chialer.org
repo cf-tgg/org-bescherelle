@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe chialer
+
+* INDICATIF
+
+** Présent
+
+je chiale
+tu chiales
+il (elle) chiale
+nous chialons
+vous chialez
+ils (elles) chialent
+
+** Imparfait
+
+je chialais
+tu chialais
+il (elle) chialait
+nous chialions
+vous chialiez
+ils (elles) chialaient
+
+** Passé simple
+
+je chialai
+tu chialas
+il (elle) chiala
+nous chialâmes
+vous chialâtes
+ils (elles) chialèrent
+
+** Futur simple
+
+je chialerai
+tu chialeras
+il (elle) chialera
+nous chialerons
+vous chialerez
+ils (elles) chialeront
+
+* CONDITIONNEL
+
+** Présent
+
+je chialerais
+tu chialerais
+il (elle) chialerait
+nous chialerions
+vous chialeriez
+ils (elles) chialeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chiale
+que tu chiales
+qu’il (elle) chiale
+que nous chialions
+que vous chialiez
+qu’ils (elles) chialent
+
+** Imparfait
+
+que je chialasse
+que tu chialasses
+qu’il (elle) chialât
+que nous chialassions
+que vous chialassiez
+qu’ils (elles) chialassent
+
+* IMPÉRATIF
+
+** Présent
+
+chiale
+chialons
+chialez
+
+* INFINITIF
+
+** Présent
+
+chialer
+
+* PARTICIPE
+
+** Présent
+
+chialant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chialé
+tu as chialé
+il (elle) a chialé
+nous avons chialé
+vous avez chialé
+ils (elles) ont chialé
+
+** Plus-que-parfait
+
+j'avais chialé
+tu avais chialé
+il (elle) avait chialé
+nous avions chialé
+vous aviez chialé
+ils (elles) avaient chialé
+
+** Passé antérieur
+
+j'eus chialé
+tu eus chialé
+il (elle) eut chialé
+nous eûmes chialé
+vous eûtes chialé
+ils (elles) eurent chialé
+
+** Futur antérieur
+
+j'aurai chialé
+tu auras chialé
+il (elle) aura chialé
+nous aurons chialé
+vous aurez chialé
+ils (elles) auront chialé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chialé
+tu aurais chialé
+il (elle) aurait chialé
+nous aurions chialé
+vous auriez chialé
+ils (elles) auraient chialé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chialé
+que tu aies chialé
+qu’il (elle) ait chialé
+que nous ayons chialé
+que vous ayez chialé
+qu’ils (elles) aient chialé
+
+** Plus-que-parfait
+
+que j'eusse chialé
+que tu eusses chialé
+qu’il (elle) eût chialé
+que nous eussions chialé
+que vous eussiez chialé
+qu’ils (elles) eussent chialé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chialé
+ayez chialé
+
+* INFINITIF
+
+** Passé
+
+avoir chialé
+
+* PARTICIPE
+
+** Passé
+
+ayant chialé
+chialé (invar.)

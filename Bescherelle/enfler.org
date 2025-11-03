@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enfler
+
+* INDICATIF
+
+** Présent
+
+j'enfle
+tu enfles
+il (elle) enfle
+nous enflons
+vous enflez
+ils (elles) enflent
+
+** Imparfait
+
+j'enflais
+tu enflais
+il (elle) enflait
+nous enflions
+vous enfliez
+ils (elles) enflaient
+
+** Passé simple
+
+j'enflai
+tu enflas
+il (elle) enfla
+nous enflâmes
+vous enflâtes
+ils (elles) enflèrent
+
+** Futur simple
+
+j'enflerai
+tu enfleras
+il (elle) enflera
+nous enflerons
+vous enflerez
+ils (elles) enfleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enflerais
+tu enflerais
+il (elle) enflerait
+nous enflerions
+vous enfleriez
+ils (elles) enfleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enfle
+que tu enfles
+qu’il (elle) enfle
+que nous enflions
+que vous enfliez
+qu’ils (elles) enflent
+
+** Imparfait
+
+que j'enflasse
+que tu enflasses
+qu’il (elle) enflât
+que nous enflassions
+que vous enflassiez
+qu’ils (elles) enflassent
+
+* IMPÉRATIF
+
+** Présent
+
+enfle
+enflons
+enflez
+
+* INFINITIF
+
+** Présent
+
+enfler
+
+* PARTICIPE
+
+** Présent
+
+enflant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enflé
+tu as enflé
+il (elle) a enflé
+nous avons enflé
+vous avez enflé
+ils (elles) ont enflé
+
+** Plus-que-parfait
+
+j'avais enflé
+tu avais enflé
+il (elle) avait enflé
+nous avions enflé
+vous aviez enflé
+ils (elles) avaient enflé
+
+** Passé antérieur
+
+j'eus enflé
+tu eus enflé
+il (elle) eut enflé
+nous eûmes enflé
+vous eûtes enflé
+ils (elles) eurent enflé
+
+** Futur antérieur
+
+j'aurai enflé
+tu auras enflé
+il (elle) aura enflé
+nous aurons enflé
+vous aurez enflé
+ils (elles) auront enflé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enflé
+tu aurais enflé
+il (elle) aurait enflé
+nous aurions enflé
+vous auriez enflé
+ils (elles) auraient enflé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enflé
+que tu aies enflé
+qu’il (elle) ait enflé
+que nous ayons enflé
+que vous ayez enflé
+qu’ils (elles) aient enflé
+
+** Plus-que-parfait
+
+que j'eusse enflé
+que tu eusses enflé
+qu’il (elle) eût enflé
+que nous eussions enflé
+que vous eussiez enflé
+qu’ils (elles) eussent enflé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enflé
+ayez enflé
+
+* INFINITIF
+
+** Passé
+
+avoir enflé
+
+* PARTICIPE
+
+** Passé
+
+ayant enflé
+enflé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enflé(e)
+tu es enflé(e)
+il (elle) est enflé(e)
+nous sommes enflé(e)s
+vous êtes enflé(e)s
+ils (elles) sont enflé(e)s
+
+** Imparfait
+
+j'étais enflé(e)
+tu étais enflé(e)
+il (elle) était enflé(e)
+nous étions enflé(e)s
+vous étiez enflé(e)s
+ils (elles) étaient enflé(e)s
+
+** Passé simple
+
+je fus enflé(e)
+tu fus enflé(e)
+il (elle) fut enflé(e)
+nous fûmes enflé(e)s
+vous fûtes enflé(e)s
+ils (elles) furent enflé(e)s
+
+** Futur simple
+
+je serai enflé(e)
+tu seras enflé(e)
+il (elle) sera enflé(e)
+nous serons enflé(e)s
+vous serez enflé(e)s
+ils (elles) seront enflé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enflé(e)
+tu serais enflé(e)
+il (elle) serait enflé(e)
+nous serions enflé(e)s
+vous seriez enflé(e)s
+ils (elles) seraient enflé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enflé(e)
+que tu sois enflé(e)
+qu’il (elle) soit enflé(e)
+que nous soyons enflé(e)s
+que vous soyez enflé(e)s
+qu’ils (elles) soient enflé(e)s
+
+** Imparfait
+
+que je fusse enflé(e)
+que tu fusses enflé(e)
+qu’il (elle) fût enflé(e)
+que nous fussions enflé(e)s
+que vous fussiez enflé(e)s
+qu’ils (elles) fussent enflé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enflé(e)s
+soyez enflé(e)s
+
+* INFINITIF
+
+** Présent
+
+être enflé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enflé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enflé(e)
+tu as été enflé(e)
+il (elle) a été enflé(e)
+nous avons été enflé(e)s
+vous avez été enflé(e)s
+ils (elles) ont été enflé(e)s
+
+** Plus-que-parfait
+
+j'avais été enflé(e)
+il (elle) avait été enflé(e)
+nous avions été enflé(e)s
+ils (elles) avaient été enflé(e)s
+
+** Passé antérieur
+
+j'eus été enflé(e)
+tu eus été enflé(e)
+il (elle) eut été enflé(e)
+nous eûmes été enflé(e)s
+vous eûtes été enflé(e)s
+ils (elles) eurent été enflé(e)s
+
+** Futur antérieur
+
+j'aurai été enflé(e)
+tu auras été enflé(e)
+il (elle) aura été enflé(e)
+nous aurons été enflé(e)s
+vous aurez été enflé(e)s
+ils (elles) auront été enflé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enflé(e)
+j'aurais été enflé(e)
+il (elle) aurait été enflé(e)
+nous aurions été enflé(e)s
+vous auriez été enflé(e)s
+ils (elles) auraient été enflé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enflé(e)
+que tu aies été enflé(e)
+qu’il (elle) ait été enflé(e)
+que nous ayons été enflé(e)s
+que vous ayez été enflé(e)s
+qu’ils (elles) aient été enflé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enflé(e)
+que tu eusses été enflé(e)
+qu’il (elle) eût été enflé(e)
+que nous eussions été enflé(e)s
+que vous eussiez été enflé(e)s
+qu’ils (elles) eussent été enflé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enflé(e)
+ayons été enflé(e)s
+ayez été enflé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enflé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enflé(e)(s)

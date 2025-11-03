@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inventer
+
+* INDICATIF
+
+** Présent
+
+j'invente
+tu inventes
+il (elle) invente
+nous inventons
+vous inventez
+ils (elles) inventent
+
+** Imparfait
+
+j'inventais
+tu inventais
+il (elle) inventait
+nous inventions
+vous inventiez
+ils (elles) inventaient
+
+** Passé simple
+
+j'inventai
+tu inventas
+il (elle) inventa
+nous inventâmes
+vous inventâtes
+ils (elles) inventèrent
+
+** Futur simple
+
+j'inventerai
+tu inventeras
+il (elle) inventera
+nous inventerons
+vous inventerez
+ils (elles) inventeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inventerais
+tu inventerais
+il (elle) inventerait
+nous inventerions
+vous inventeriez
+ils (elles) inventeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'invente
+que tu inventes
+qu’il (elle) invente
+que nous inventions
+que vous inventiez
+qu’ils (elles) inventent
+
+** Imparfait
+
+que j'inventasse
+que tu inventasses
+qu’il (elle) inventât
+que nous inventassions
+que vous inventassiez
+qu’ils (elles) inventassent
+
+* IMPÉRATIF
+
+** Présent
+
+invente
+inventons
+inventez
+
+* INFINITIF
+
+** Présent
+
+inventer
+
+* PARTICIPE
+
+** Présent
+
+inventant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai inventé
+tu as inventé
+il (elle) a inventé
+nous avons inventé
+vous avez inventé
+ils (elles) ont inventé
+
+** Plus-que-parfait
+
+j'avais inventé
+tu avais inventé
+il (elle) avait inventé
+nous avions inventé
+vous aviez inventé
+ils (elles) avaient inventé
+
+** Passé antérieur
+
+j'eus inventé
+tu eus inventé
+il (elle) eut inventé
+nous eûmes inventé
+vous eûtes inventé
+ils (elles) eurent inventé
+
+** Futur antérieur
+
+j'aurai inventé
+tu auras inventé
+il (elle) aura inventé
+nous aurons inventé
+vous aurez inventé
+ils (elles) auront inventé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais inventé
+tu aurais inventé
+il (elle) aurait inventé
+nous aurions inventé
+vous auriez inventé
+ils (elles) auraient inventé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie inventé
+que tu aies inventé
+qu’il (elle) ait inventé
+que nous ayons inventé
+que vous ayez inventé
+qu’ils (elles) aient inventé
+
+** Plus-que-parfait
+
+que j'eusse inventé
+que tu eusses inventé
+qu’il (elle) eût inventé
+que nous eussions inventé
+que vous eussiez inventé
+qu’ils (elles) eussent inventé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons inventé
+ayez inventé
+
+* INFINITIF
+
+** Passé
+
+avoir inventé
+
+* PARTICIPE
+
+** Passé
+
+ayant inventé
+inventé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis inventé(e)
+tu es inventé(e)
+il (elle) est inventé(e)
+nous sommes inventé(e)s
+vous êtes inventé(e)s
+ils (elles) sont inventé(e)s
+
+** Imparfait
+
+j'étais inventé(e)
+tu étais inventé(e)
+il (elle) était inventé(e)
+nous étions inventé(e)s
+vous étiez inventé(e)s
+ils (elles) étaient inventé(e)s
+
+** Passé simple
+
+je fus inventé(e)
+tu fus inventé(e)
+il (elle) fut inventé(e)
+nous fûmes inventé(e)s
+vous fûtes inventé(e)s
+ils (elles) furent inventé(e)s
+
+** Futur simple
+
+je serai inventé(e)
+tu seras inventé(e)
+il (elle) sera inventé(e)
+nous serons inventé(e)s
+vous serez inventé(e)s
+ils (elles) seront inventé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais inventé(e)
+tu serais inventé(e)
+il (elle) serait inventé(e)
+nous serions inventé(e)s
+vous seriez inventé(e)s
+ils (elles) seraient inventé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois inventé(e)
+que tu sois inventé(e)
+qu’il (elle) soit inventé(e)
+que nous soyons inventé(e)s
+que vous soyez inventé(e)s
+qu’ils (elles) soient inventé(e)s
+
+** Imparfait
+
+que je fusse inventé(e)
+que tu fusses inventé(e)
+qu’il (elle) fût inventé(e)
+que nous fussions inventé(e)s
+que vous fussiez inventé(e)s
+qu’ils (elles) fussent inventé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons inventé(e)s
+soyez inventé(e)s
+
+* INFINITIF
+
+** Présent
+
+être inventé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant inventé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été inventé(e)
+tu as été inventé(e)
+il (elle) a été inventé(e)
+nous avons été inventé(e)s
+vous avez été inventé(e)s
+ils (elles) ont été inventé(e)s
+
+** Plus-que-parfait
+
+j'avais été inventé(e)
+il (elle) avait été inventé(e)
+nous avions été inventé(e)s
+ils (elles) avaient été inventé(e)s
+
+** Passé antérieur
+
+j'eus été inventé(e)
+tu eus été inventé(e)
+il (elle) eut été inventé(e)
+nous eûmes été inventé(e)s
+vous eûtes été inventé(e)s
+ils (elles) eurent été inventé(e)s
+
+** Futur antérieur
+
+j'aurai été inventé(e)
+tu auras été inventé(e)
+il (elle) aura été inventé(e)
+nous aurons été inventé(e)s
+vous aurez été inventé(e)s
+ils (elles) auront été inventé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été inventé(e)
+j'aurais été inventé(e)
+il (elle) aurait été inventé(e)
+nous aurions été inventé(e)s
+vous auriez été inventé(e)s
+ils (elles) auraient été inventé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été inventé(e)
+que tu aies été inventé(e)
+qu’il (elle) ait été inventé(e)
+que nous ayons été inventé(e)s
+que vous ayez été inventé(e)s
+qu’ils (elles) aient été inventé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été inventé(e)
+que tu eusses été inventé(e)
+qu’il (elle) eût été inventé(e)
+que nous eussions été inventé(e)s
+que vous eussiez été inventé(e)s
+qu’ils (elles) eussent été inventé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été inventé(e)
+ayons été inventé(e)s
+ayez été inventé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été inventé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été inventé(e)(s)

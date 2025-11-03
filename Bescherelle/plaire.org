@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe plaire
+
+* INDICATIF
+
+** Présent
+
+je plais
+tu plais
+il (elle) plaît
+nous plaisons
+vous plaisez
+ils (elles) plaisent
+
+** Imparfait
+
+je plaisais
+tu plaisais
+il (elle) plaisait
+nous plaisions
+vous plaisiez
+ils (elles) plaisaient
+
+** Passé simple
+
+je plus
+tu plus
+il (elle) plut
+nous plûmes
+vous plûtes
+ils (elles) plurent
+
+** Futur simple
+
+je plairai
+tu plairas
+il (elle) plaira
+nous plairons
+vous plairez
+ils (elles) plairont
+
+* CONDITIONNEL
+
+** Présent
+
+je plairais
+tu plairais
+il (elle) plairait
+nous plairions
+vous plairiez
+ils (elles) plairaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plaise
+que tu plaises
+qu’il (elle) plaise
+que nous plaisions
+que vous plaisiez
+qu’ils (elles) plaisent
+
+** Imparfait
+
+que je plusse
+que tu plusses
+qu’il (elle) plût
+que nous plussions
+que vous plussiez
+qu’ils (elles) plussent
+
+* IMPÉRATIF
+
+** Présent
+
+plais
+plaisons
+plaisez
+
+* INFINITIF
+
+** Présent
+
+plaire
+
+* PARTICIPE
+
+** Présent
+
+plaisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plu
+tu as plu
+il (elle) a plu
+nous avons plu
+vous avez plu
+ils (elles) ont plu
+
+** Plus-que-parfait
+
+j'avais plu
+tu avais plu
+il (elle) avait plu
+nous avions plu
+vous aviez plu
+ils (elles) avaient plu
+
+** Passé antérieur
+
+j'eus plu
+tu eus plu
+il (elle) eut plu
+nous eûmes plu
+vous eûtes plu
+ils (elles) eurent plu
+
+** Futur antérieur
+
+j'aurai plu
+tu auras plu
+il (elle) aura plu
+nous aurons plu
+vous aurez plu
+ils (elles) auront plu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plu
+tu aurais plu
+il (elle) aurait plu
+nous aurions plu
+vous auriez plu
+ils (elles) auraient plu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plu
+que tu aies plu
+qu’il (elle) ait plu
+que nous ayons plu
+que vous ayez plu
+qu’ils (elles) aient plu
+
+** Plus-que-parfait
+
+que j'eusse plu
+que tu eusses plu
+qu’il (elle) eût plu
+que nous eussions plu
+que vous eussiez plu
+qu’ils (elles) eussent plu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plu
+ayez plu
+
+* INFINITIF
+
+** Passé
+
+avoir plu
+
+* PARTICIPE
+
+** Passé
+
+ayant plu
+plu (invar.)

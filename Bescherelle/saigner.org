@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe saigner
+
+* INDICATIF
+
+** Présent
+
+je saigne
+tu saignes
+il (elle) saigne
+nous saignons
+vous saignez
+ils (elles) saignent
+
+** Imparfait
+
+je saignais
+tu saignais
+il (elle) saignait
+nous saignions
+vous saigniez
+ils (elles) saignaient
+
+** Passé simple
+
+je saignai
+tu saignas
+il (elle) saigna
+nous saignâmes
+vous saignâtes
+ils (elles) saignèrent
+
+** Futur simple
+
+je saignerai
+tu saigneras
+il (elle) saignera
+nous saignerons
+vous saignerez
+ils (elles) saigneront
+
+* CONDITIONNEL
+
+** Présent
+
+je saignerais
+tu saignerais
+il (elle) saignerait
+nous saignerions
+vous saigneriez
+ils (elles) saigneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je saigne
+que tu saignes
+qu’il (elle) saigne
+que nous saignions
+que vous saigniez
+qu’ils (elles) saignent
+
+** Imparfait
+
+que je saignasse
+que tu saignasses
+qu’il (elle) saignât
+que nous saignassions
+que vous saignassiez
+qu’ils (elles) saignassent
+
+* IMPÉRATIF
+
+** Présent
+
+saigne
+saignons
+saignez
+
+* INFINITIF
+
+** Présent
+
+saigner
+
+* PARTICIPE
+
+** Présent
+
+saignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai saigné
+tu as saigné
+il (elle) a saigné
+nous avons saigné
+vous avez saigné
+ils (elles) ont saigné
+
+** Plus-que-parfait
+
+j'avais saigné
+tu avais saigné
+il (elle) avait saigné
+nous avions saigné
+vous aviez saigné
+ils (elles) avaient saigné
+
+** Passé antérieur
+
+j'eus saigné
+tu eus saigné
+il (elle) eut saigné
+nous eûmes saigné
+vous eûtes saigné
+ils (elles) eurent saigné
+
+** Futur antérieur
+
+j'aurai saigné
+tu auras saigné
+il (elle) aura saigné
+nous aurons saigné
+vous aurez saigné
+ils (elles) auront saigné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais saigné
+tu aurais saigné
+il (elle) aurait saigné
+nous aurions saigné
+vous auriez saigné
+ils (elles) auraient saigné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie saigné
+que tu aies saigné
+qu’il (elle) ait saigné
+que nous ayons saigné
+que vous ayez saigné
+qu’ils (elles) aient saigné
+
+** Plus-que-parfait
+
+que j'eusse saigné
+que tu eusses saigné
+qu’il (elle) eût saigné
+que nous eussions saigné
+que vous eussiez saigné
+qu’ils (elles) eussent saigné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons saigné
+ayez saigné
+
+* INFINITIF
+
+** Passé
+
+avoir saigné
+
+* PARTICIPE
+
+** Passé
+
+ayant saigné
+saigné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis saigné(e)
+tu es saigné(e)
+il (elle) est saigné(e)
+nous sommes saigné(e)s
+vous êtes saigné(e)s
+ils (elles) sont saigné(e)s
+
+** Imparfait
+
+j'étais saigné(e)
+tu étais saigné(e)
+il (elle) était saigné(e)
+nous étions saigné(e)s
+vous étiez saigné(e)s
+ils (elles) étaient saigné(e)s
+
+** Passé simple
+
+je fus saigné(e)
+tu fus saigné(e)
+il (elle) fut saigné(e)
+nous fûmes saigné(e)s
+vous fûtes saigné(e)s
+ils (elles) furent saigné(e)s
+
+** Futur simple
+
+je serai saigné(e)
+tu seras saigné(e)
+il (elle) sera saigné(e)
+nous serons saigné(e)s
+vous serez saigné(e)s
+ils (elles) seront saigné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais saigné(e)
+tu serais saigné(e)
+il (elle) serait saigné(e)
+nous serions saigné(e)s
+vous seriez saigné(e)s
+ils (elles) seraient saigné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois saigné(e)
+que tu sois saigné(e)
+qu’il (elle) soit saigné(e)
+que nous soyons saigné(e)s
+que vous soyez saigné(e)s
+qu’ils (elles) soient saigné(e)s
+
+** Imparfait
+
+que je fusse saigné(e)
+que tu fusses saigné(e)
+qu’il (elle) fût saigné(e)
+que nous fussions saigné(e)s
+que vous fussiez saigné(e)s
+qu’ils (elles) fussent saigné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons saigné(e)s
+soyez saigné(e)s
+
+* INFINITIF
+
+** Présent
+
+être saigné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant saigné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été saigné(e)
+tu as été saigné(e)
+il (elle) a été saigné(e)
+nous avons été saigné(e)s
+vous avez été saigné(e)s
+ils (elles) ont été saigné(e)s
+
+** Plus-que-parfait
+
+j'avais été saigné(e)
+il (elle) avait été saigné(e)
+nous avions été saigné(e)s
+ils (elles) avaient été saigné(e)s
+
+** Passé antérieur
+
+j'eus été saigné(e)
+tu eus été saigné(e)
+il (elle) eut été saigné(e)
+nous eûmes été saigné(e)s
+vous eûtes été saigné(e)s
+ils (elles) eurent été saigné(e)s
+
+** Futur antérieur
+
+j'aurai été saigné(e)
+tu auras été saigné(e)
+il (elle) aura été saigné(e)
+nous aurons été saigné(e)s
+vous aurez été saigné(e)s
+ils (elles) auront été saigné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été saigné(e)
+j'aurais été saigné(e)
+il (elle) aurait été saigné(e)
+nous aurions été saigné(e)s
+vous auriez été saigné(e)s
+ils (elles) auraient été saigné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été saigné(e)
+que tu aies été saigné(e)
+qu’il (elle) ait été saigné(e)
+que nous ayons été saigné(e)s
+que vous ayez été saigné(e)s
+qu’ils (elles) aient été saigné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été saigné(e)
+que tu eusses été saigné(e)
+qu’il (elle) eût été saigné(e)
+que nous eussions été saigné(e)s
+que vous eussiez été saigné(e)s
+qu’ils (elles) eussent été saigné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été saigné(e)
+ayons été saigné(e)s
+ayez été saigné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été saigné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été saigné(e)(s)

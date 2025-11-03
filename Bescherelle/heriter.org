@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe heriter
+
+* INDICATIF
+
+** Présent
+
+j'hérite
+tu hérites
+il (elle) hérite
+nous héritons
+vous héritez
+ils (elles) héritent
+
+** Imparfait
+
+j'héritais
+tu héritais
+il (elle) héritait
+nous héritions
+vous héritiez
+ils (elles) héritaient
+
+** Passé simple
+
+j'héritai
+tu héritas
+il (elle) hérita
+nous héritâmes
+vous héritâtes
+ils (elles) héritèrent
+
+** Futur simple
+
+j'hériterai
+tu hériteras
+il (elle) héritera
+nous hériterons
+vous hériterez
+ils (elles) hériteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'hériterais
+tu hériterais
+il (elle) hériterait
+nous hériterions
+vous hériteriez
+ils (elles) hériteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'hérite
+que tu hérites
+qu’il (elle) hérite
+que nous héritions
+que vous héritiez
+qu’ils (elles) héritent
+
+** Imparfait
+
+que j'héritasse
+que tu héritasses
+qu’il (elle) héritât
+que nous héritassions
+que vous héritassiez
+qu’ils (elles) héritassent
+
+* IMPÉRATIF
+
+** Présent
+
+hérite
+héritons
+héritez
+
+* INFINITIF
+
+** Présent
+
+hériter
+
+* PARTICIPE
+
+** Présent
+
+héritant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai hérité
+tu as hérité
+il (elle) a hérité
+nous avons hérité
+vous avez hérité
+ils (elles) ont hérité
+
+** Plus-que-parfait
+
+j'avais hérité
+tu avais hérité
+il (elle) avait hérité
+nous avions hérité
+vous aviez hérité
+ils (elles) avaient hérité
+
+** Passé antérieur
+
+j'eus hérité
+tu eus hérité
+il (elle) eut hérité
+nous eûmes hérité
+vous eûtes hérité
+ils (elles) eurent hérité
+
+** Futur antérieur
+
+j'aurai hérité
+tu auras hérité
+il (elle) aura hérité
+nous aurons hérité
+vous aurez hérité
+ils (elles) auront hérité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais hérité
+tu aurais hérité
+il (elle) aurait hérité
+nous aurions hérité
+vous auriez hérité
+ils (elles) auraient hérité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie hérité
+que tu aies hérité
+qu’il (elle) ait hérité
+que nous ayons hérité
+que vous ayez hérité
+qu’ils (elles) aient hérité
+
+** Plus-que-parfait
+
+que j'eusse hérité
+que tu eusses hérité
+qu’il (elle) eût hérité
+que nous eussions hérité
+que vous eussiez hérité
+qu’ils (elles) eussent hérité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons hérité
+ayez hérité
+
+* INFINITIF
+
+** Passé
+
+avoir hérité
+
+* PARTICIPE
+
+** Passé
+
+ayant hérité
+hérité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis hérité(e)
+tu es hérité(e)
+il (elle) est hérité(e)
+nous sommes hérité(e)s
+vous êtes hérité(e)s
+ils (elles) sont hérité(e)s
+
+** Imparfait
+
+j'étais hérité(e)
+tu étais hérité(e)
+il (elle) était hérité(e)
+nous étions hérité(e)s
+vous étiez hérité(e)s
+ils (elles) étaient hérité(e)s
+
+** Passé simple
+
+je fus hérité(e)
+tu fus hérité(e)
+il (elle) fut hérité(e)
+nous fûmes hérité(e)s
+vous fûtes hérité(e)s
+ils (elles) furent hérité(e)s
+
+** Futur simple
+
+je serai hérité(e)
+tu seras hérité(e)
+il (elle) sera hérité(e)
+nous serons hérité(e)s
+vous serez hérité(e)s
+ils (elles) seront hérité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais hérité(e)
+tu serais hérité(e)
+il (elle) serait hérité(e)
+nous serions hérité(e)s
+vous seriez hérité(e)s
+ils (elles) seraient hérité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois hérité(e)
+que tu sois hérité(e)
+qu’il (elle) soit hérité(e)
+que nous soyons hérité(e)s
+que vous soyez hérité(e)s
+qu’ils (elles) soient hérité(e)s
+
+** Imparfait
+
+que je fusse hérité(e)
+que tu fusses hérité(e)
+qu’il (elle) fût hérité(e)
+que nous fussions hérité(e)s
+que vous fussiez hérité(e)s
+qu’ils (elles) fussent hérité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons hérité(e)s
+soyez hérité(e)s
+
+* INFINITIF
+
+** Présent
+
+être hérité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant hérité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été hérité(e)
+tu as été hérité(e)
+il (elle) a été hérité(e)
+nous avons été hérité(e)s
+vous avez été hérité(e)s
+ils (elles) ont été hérité(e)s
+
+** Plus-que-parfait
+
+j'avais été hérité(e)
+il (elle) avait été hérité(e)
+nous avions été hérité(e)s
+ils (elles) avaient été hérité(e)s
+
+** Passé antérieur
+
+j'eus été hérité(e)
+tu eus été hérité(e)
+il (elle) eut été hérité(e)
+nous eûmes été hérité(e)s
+vous eûtes été hérité(e)s
+ils (elles) eurent été hérité(e)s
+
+** Futur antérieur
+
+j'aurai été hérité(e)
+tu auras été hérité(e)
+il (elle) aura été hérité(e)
+nous aurons été hérité(e)s
+vous aurez été hérité(e)s
+ils (elles) auront été hérité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été hérité(e)
+j'aurais été hérité(e)
+il (elle) aurait été hérité(e)
+nous aurions été hérité(e)s
+vous auriez été hérité(e)s
+ils (elles) auraient été hérité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été hérité(e)
+que tu aies été hérité(e)
+qu’il (elle) ait été hérité(e)
+que nous ayons été hérité(e)s
+que vous ayez été hérité(e)s
+qu’ils (elles) aient été hérité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été hérité(e)
+que tu eusses été hérité(e)
+qu’il (elle) eût été hérité(e)
+que nous eussions été hérité(e)s
+que vous eussiez été hérité(e)s
+qu’ils (elles) eussent été hérité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été hérité(e)
+ayons été hérité(e)s
+ayez été hérité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été hérité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été hérité(e)(s)

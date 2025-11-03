@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe alleger
+
+* INDICATIF
+
+** Présent
+
+j'allège
+tu allèges
+il (elle) allège
+nous allégeons
+vous allégez
+ils (elles) allègent
+
+** Imparfait
+
+j'allégeais
+tu allégeais
+il (elle) allégeait
+nous allégions
+vous allégiez
+ils (elles) allégeaient
+
+** Passé simple
+
+j'allégeai
+tu allégeas
+il (elle) allégea
+nous allégeâmes
+vous allégeâtes
+ils (elles) allégèrent
+
+** Futur simple
+
+j'allégerai
+tu allégeras
+il (elle) allégera
+nous allégerons
+vous allégerez
+ils (elles) allégeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'allégerais
+tu allégerais
+il (elle) allégerait
+nous allégerions
+vous allégeriez
+ils (elles) allégeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'allège
+que tu allèges
+qu’il (elle) allège
+que nous allégions
+que vous allégiez
+qu’ils (elles) allègent
+
+** Imparfait
+
+que j'allégeasse
+que tu allégeasses
+qu’il (elle) allégeât
+que nous allégeassions
+que vous allégeassiez
+qu’ils (elles) allégeassent
+
+* IMPÉRATIF
+
+** Présent
+
+allège
+allégeons
+allégez
+
+* INFINITIF
+
+** Présent
+
+alléger
+
+* PARTICIPE
+
+** Présent
+
+allégeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai allégé
+tu as allégé
+il (elle) a allégé
+nous avons allégé
+vous avez allégé
+ils (elles) ont allégé
+
+** Plus-que-parfait
+
+j'avais allégé
+tu avais allégé
+il (elle) avait allégé
+nous avions allégé
+vous aviez allégé
+ils (elles) avaient allégé
+
+** Passé antérieur
+
+j'eus allégé
+tu eus allégé
+il (elle) eut allégé
+nous eûmes allégé
+vous eûtes allégé
+ils (elles) eurent allégé
+
+** Futur antérieur
+
+j'aurai allégé
+tu auras allégé
+il (elle) aura allégé
+nous aurons allégé
+vous aurez allégé
+ils (elles) auront allégé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais allégé
+tu aurais allégé
+il (elle) aurait allégé
+nous aurions allégé
+vous auriez allégé
+ils (elles) auraient allégé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie allégé
+que tu aies allégé
+qu’il (elle) ait allégé
+que nous ayons allégé
+que vous ayez allégé
+qu’ils (elles) aient allégé
+
+** Plus-que-parfait
+
+que j'eusse allégé
+que tu eusses allégé
+qu’il (elle) eût allégé
+que nous eussions allégé
+que vous eussiez allégé
+qu’ils (elles) eussent allégé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons allégé
+ayez allégé
+
+* INFINITIF
+
+** Passé
+
+avoir allégé
+
+* PARTICIPE
+
+** Passé
+
+ayant allégé
+allégé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis allégé(e)
+tu es allégé(e)
+il (elle) est allégé(e)
+nous sommes allégé(e)s
+vous êtes allégé(e)s
+ils (elles) sont allégé(e)s
+
+** Imparfait
+
+j'étais allégé(e)
+tu étais allégé(e)
+il (elle) était allégé(e)
+nous étions allégé(e)s
+vous étiez allégé(e)s
+ils (elles) étaient allégé(e)s
+
+** Passé simple
+
+je fus allégé(e)
+tu fus allégé(e)
+il (elle) fut allégé(e)
+nous fûmes allégé(e)s
+vous fûtes allégé(e)s
+ils (elles) furent allégé(e)s
+
+** Futur simple
+
+je serai allégé(e)
+tu seras allégé(e)
+il (elle) sera allégé(e)
+nous serons allégé(e)s
+vous serez allégé(e)s
+ils (elles) seront allégé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais allégé(e)
+tu serais allégé(e)
+il (elle) serait allégé(e)
+nous serions allégé(e)s
+vous seriez allégé(e)s
+ils (elles) seraient allégé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois allégé(e)
+que tu sois allégé(e)
+qu’il (elle) soit allégé(e)
+que nous soyons allégé(e)s
+que vous soyez allégé(e)s
+qu’ils (elles) soient allégé(e)s
+
+** Imparfait
+
+que je fusse allégé(e)
+que tu fusses allégé(e)
+qu’il (elle) fût allégé(e)
+que nous fussions allégé(e)s
+que vous fussiez allégé(e)s
+qu’ils (elles) fussent allégé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons allégé(e)s
+soyez allégé(e)s
+
+* INFINITIF
+
+** Présent
+
+être allégé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant allégé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été allégé(e)
+tu as été allégé(e)
+il (elle) a été allégé(e)
+nous avons été allégé(e)s
+vous avez été allégé(e)s
+ils (elles) ont été allégé(e)s
+
+** Plus-que-parfait
+
+j'avais été allégé(e)
+il (elle) avait été allégé(e)
+nous avions été allégé(e)s
+ils (elles) avaient été allégé(e)s
+
+** Passé antérieur
+
+j'eus été allégé(e)
+tu eus été allégé(e)
+il (elle) eut été allégé(e)
+nous eûmes été allégé(e)s
+vous eûtes été allégé(e)s
+ils (elles) eurent été allégé(e)s
+
+** Futur antérieur
+
+j'aurai été allégé(e)
+tu auras été allégé(e)
+il (elle) aura été allégé(e)
+nous aurons été allégé(e)s
+vous aurez été allégé(e)s
+ils (elles) auront été allégé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été allégé(e)
+j'aurais été allégé(e)
+il (elle) aurait été allégé(e)
+nous aurions été allégé(e)s
+vous auriez été allégé(e)s
+ils (elles) auraient été allégé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été allégé(e)
+que tu aies été allégé(e)
+qu’il (elle) ait été allégé(e)
+que nous ayons été allégé(e)s
+que vous ayez été allégé(e)s
+qu’ils (elles) aient été allégé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été allégé(e)
+que tu eusses été allégé(e)
+qu’il (elle) eût été allégé(e)
+que nous eussions été allégé(e)s
+que vous eussiez été allégé(e)s
+qu’ils (elles) eussent été allégé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été allégé(e)
+ayons été allégé(e)s
+ayez été allégé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été allégé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été allégé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe entacher
+
+* INDICATIF
+
+** Présent
+
+j'entache
+tu entaches
+il (elle) entache
+nous entachons
+vous entachez
+ils (elles) entachent
+
+** Imparfait
+
+j'entachais
+tu entachais
+il (elle) entachait
+nous entachions
+vous entachiez
+ils (elles) entachaient
+
+** Passé simple
+
+j'entachai
+tu entachas
+il (elle) entacha
+nous entachâmes
+vous entachâtes
+ils (elles) entachèrent
+
+** Futur simple
+
+j'entacherai
+tu entacheras
+il (elle) entachera
+nous entacherons
+vous entacherez
+ils (elles) entacheront
+
+* CONDITIONNEL
+
+** Présent
+
+j'entacherais
+tu entacherais
+il (elle) entacherait
+nous entacherions
+vous entacheriez
+ils (elles) entacheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'entache
+que tu entaches
+qu’il (elle) entache
+que nous entachions
+que vous entachiez
+qu’ils (elles) entachent
+
+** Imparfait
+
+que j'entachasse
+que tu entachasses
+qu’il (elle) entachât
+que nous entachassions
+que vous entachassiez
+qu’ils (elles) entachassent
+
+* IMPÉRATIF
+
+** Présent
+
+entache
+entachons
+entachez
+
+* INFINITIF
+
+** Présent
+
+entacher
+
+* PARTICIPE
+
+** Présent
+
+entachant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai entaché
+tu as entaché
+il (elle) a entaché
+nous avons entaché
+vous avez entaché
+ils (elles) ont entaché
+
+** Plus-que-parfait
+
+j'avais entaché
+tu avais entaché
+il (elle) avait entaché
+nous avions entaché
+vous aviez entaché
+ils (elles) avaient entaché
+
+** Passé antérieur
+
+j'eus entaché
+tu eus entaché
+il (elle) eut entaché
+nous eûmes entaché
+vous eûtes entaché
+ils (elles) eurent entaché
+
+** Futur antérieur
+
+j'aurai entaché
+tu auras entaché
+il (elle) aura entaché
+nous aurons entaché
+vous aurez entaché
+ils (elles) auront entaché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais entaché
+tu aurais entaché
+il (elle) aurait entaché
+nous aurions entaché
+vous auriez entaché
+ils (elles) auraient entaché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie entaché
+que tu aies entaché
+qu’il (elle) ait entaché
+que nous ayons entaché
+que vous ayez entaché
+qu’ils (elles) aient entaché
+
+** Plus-que-parfait
+
+que j'eusse entaché
+que tu eusses entaché
+qu’il (elle) eût entaché
+que nous eussions entaché
+que vous eussiez entaché
+qu’ils (elles) eussent entaché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons entaché
+ayez entaché
+
+* INFINITIF
+
+** Passé
+
+avoir entaché
+
+* PARTICIPE
+
+** Passé
+
+ayant entaché
+entaché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis entaché(e)
+tu es entaché(e)
+il (elle) est entaché(e)
+nous sommes entaché(e)s
+vous êtes entaché(e)s
+ils (elles) sont entaché(e)s
+
+** Imparfait
+
+j'étais entaché(e)
+tu étais entaché(e)
+il (elle) était entaché(e)
+nous étions entaché(e)s
+vous étiez entaché(e)s
+ils (elles) étaient entaché(e)s
+
+** Passé simple
+
+je fus entaché(e)
+tu fus entaché(e)
+il (elle) fut entaché(e)
+nous fûmes entaché(e)s
+vous fûtes entaché(e)s
+ils (elles) furent entaché(e)s
+
+** Futur simple
+
+je serai entaché(e)
+tu seras entaché(e)
+il (elle) sera entaché(e)
+nous serons entaché(e)s
+vous serez entaché(e)s
+ils (elles) seront entaché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais entaché(e)
+tu serais entaché(e)
+il (elle) serait entaché(e)
+nous serions entaché(e)s
+vous seriez entaché(e)s
+ils (elles) seraient entaché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois entaché(e)
+que tu sois entaché(e)
+qu’il (elle) soit entaché(e)
+que nous soyons entaché(e)s
+que vous soyez entaché(e)s
+qu’ils (elles) soient entaché(e)s
+
+** Imparfait
+
+que je fusse entaché(e)
+que tu fusses entaché(e)
+qu’il (elle) fût entaché(e)
+que nous fussions entaché(e)s
+que vous fussiez entaché(e)s
+qu’ils (elles) fussent entaché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons entaché(e)s
+soyez entaché(e)s
+
+* INFINITIF
+
+** Présent
+
+être entaché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant entaché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été entaché(e)
+tu as été entaché(e)
+il (elle) a été entaché(e)
+nous avons été entaché(e)s
+vous avez été entaché(e)s
+ils (elles) ont été entaché(e)s
+
+** Plus-que-parfait
+
+j'avais été entaché(e)
+il (elle) avait été entaché(e)
+nous avions été entaché(e)s
+ils (elles) avaient été entaché(e)s
+
+** Passé antérieur
+
+j'eus été entaché(e)
+tu eus été entaché(e)
+il (elle) eut été entaché(e)
+nous eûmes été entaché(e)s
+vous eûtes été entaché(e)s
+ils (elles) eurent été entaché(e)s
+
+** Futur antérieur
+
+j'aurai été entaché(e)
+tu auras été entaché(e)
+il (elle) aura été entaché(e)
+nous aurons été entaché(e)s
+vous aurez été entaché(e)s
+ils (elles) auront été entaché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été entaché(e)
+j'aurais été entaché(e)
+il (elle) aurait été entaché(e)
+nous aurions été entaché(e)s
+vous auriez été entaché(e)s
+ils (elles) auraient été entaché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été entaché(e)
+que tu aies été entaché(e)
+qu’il (elle) ait été entaché(e)
+que nous ayons été entaché(e)s
+que vous ayez été entaché(e)s
+qu’ils (elles) aient été entaché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été entaché(e)
+que tu eusses été entaché(e)
+qu’il (elle) eût été entaché(e)
+que nous eussions été entaché(e)s
+que vous eussiez été entaché(e)s
+qu’ils (elles) eussent été entaché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été entaché(e)
+ayons été entaché(e)s
+ayez été entaché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été entaché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été entaché(e)(s)

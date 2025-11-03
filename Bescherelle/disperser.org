@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe disperser
+
+* INDICATIF
+
+** Présent
+
+je disperse
+tu disperses
+il (elle) disperse
+nous dispersons
+vous dispersez
+ils (elles) dispersent
+
+** Imparfait
+
+je dispersais
+tu dispersais
+il (elle) dispersait
+nous dispersions
+vous dispersiez
+ils (elles) dispersaient
+
+** Passé simple
+
+je dispersai
+tu dispersas
+il (elle) dispersa
+nous dispersâmes
+vous dispersâtes
+ils (elles) dispersèrent
+
+** Futur simple
+
+je disperserai
+tu disperseras
+il (elle) dispersera
+nous disperserons
+vous disperserez
+ils (elles) disperseront
+
+* CONDITIONNEL
+
+** Présent
+
+je disperserais
+tu disperserais
+il (elle) disperserait
+nous disperserions
+vous disperseriez
+ils (elles) disperseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je disperse
+que tu disperses
+qu’il (elle) disperse
+que nous dispersions
+que vous dispersiez
+qu’ils (elles) dispersent
+
+** Imparfait
+
+que je dispersasse
+que tu dispersasses
+qu’il (elle) dispersât
+que nous dispersassions
+que vous dispersassiez
+qu’ils (elles) dispersassent
+
+* IMPÉRATIF
+
+** Présent
+
+disperse
+dispersons
+dispersez
+
+* INFINITIF
+
+** Présent
+
+disperser
+
+* PARTICIPE
+
+** Présent
+
+dispersant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dispersé
+tu as dispersé
+il (elle) a dispersé
+nous avons dispersé
+vous avez dispersé
+ils (elles) ont dispersé
+
+** Plus-que-parfait
+
+j'avais dispersé
+tu avais dispersé
+il (elle) avait dispersé
+nous avions dispersé
+vous aviez dispersé
+ils (elles) avaient dispersé
+
+** Passé antérieur
+
+j'eus dispersé
+tu eus dispersé
+il (elle) eut dispersé
+nous eûmes dispersé
+vous eûtes dispersé
+ils (elles) eurent dispersé
+
+** Futur antérieur
+
+j'aurai dispersé
+tu auras dispersé
+il (elle) aura dispersé
+nous aurons dispersé
+vous aurez dispersé
+ils (elles) auront dispersé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dispersé
+tu aurais dispersé
+il (elle) aurait dispersé
+nous aurions dispersé
+vous auriez dispersé
+ils (elles) auraient dispersé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dispersé
+que tu aies dispersé
+qu’il (elle) ait dispersé
+que nous ayons dispersé
+que vous ayez dispersé
+qu’ils (elles) aient dispersé
+
+** Plus-que-parfait
+
+que j'eusse dispersé
+que tu eusses dispersé
+qu’il (elle) eût dispersé
+que nous eussions dispersé
+que vous eussiez dispersé
+qu’ils (elles) eussent dispersé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dispersé
+ayez dispersé
+
+* INFINITIF
+
+** Passé
+
+avoir dispersé
+
+* PARTICIPE
+
+** Passé
+
+ayant dispersé
+dispersé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dispersé(e)
+tu es dispersé(e)
+il (elle) est dispersé(e)
+nous sommes dispersé(e)s
+vous êtes dispersé(e)s
+ils (elles) sont dispersé(e)s
+
+** Imparfait
+
+j'étais dispersé(e)
+tu étais dispersé(e)
+il (elle) était dispersé(e)
+nous étions dispersé(e)s
+vous étiez dispersé(e)s
+ils (elles) étaient dispersé(e)s
+
+** Passé simple
+
+je fus dispersé(e)
+tu fus dispersé(e)
+il (elle) fut dispersé(e)
+nous fûmes dispersé(e)s
+vous fûtes dispersé(e)s
+ils (elles) furent dispersé(e)s
+
+** Futur simple
+
+je serai dispersé(e)
+tu seras dispersé(e)
+il (elle) sera dispersé(e)
+nous serons dispersé(e)s
+vous serez dispersé(e)s
+ils (elles) seront dispersé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dispersé(e)
+tu serais dispersé(e)
+il (elle) serait dispersé(e)
+nous serions dispersé(e)s
+vous seriez dispersé(e)s
+ils (elles) seraient dispersé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dispersé(e)
+que tu sois dispersé(e)
+qu’il (elle) soit dispersé(e)
+que nous soyons dispersé(e)s
+que vous soyez dispersé(e)s
+qu’ils (elles) soient dispersé(e)s
+
+** Imparfait
+
+que je fusse dispersé(e)
+que tu fusses dispersé(e)
+qu’il (elle) fût dispersé(e)
+que nous fussions dispersé(e)s
+que vous fussiez dispersé(e)s
+qu’ils (elles) fussent dispersé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dispersé(e)s
+soyez dispersé(e)s
+
+* INFINITIF
+
+** Présent
+
+être dispersé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dispersé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dispersé(e)
+tu as été dispersé(e)
+il (elle) a été dispersé(e)
+nous avons été dispersé(e)s
+vous avez été dispersé(e)s
+ils (elles) ont été dispersé(e)s
+
+** Plus-que-parfait
+
+j'avais été dispersé(e)
+il (elle) avait été dispersé(e)
+nous avions été dispersé(e)s
+ils (elles) avaient été dispersé(e)s
+
+** Passé antérieur
+
+j'eus été dispersé(e)
+tu eus été dispersé(e)
+il (elle) eut été dispersé(e)
+nous eûmes été dispersé(e)s
+vous eûtes été dispersé(e)s
+ils (elles) eurent été dispersé(e)s
+
+** Futur antérieur
+
+j'aurai été dispersé(e)
+tu auras été dispersé(e)
+il (elle) aura été dispersé(e)
+nous aurons été dispersé(e)s
+vous aurez été dispersé(e)s
+ils (elles) auront été dispersé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dispersé(e)
+j'aurais été dispersé(e)
+il (elle) aurait été dispersé(e)
+nous aurions été dispersé(e)s
+vous auriez été dispersé(e)s
+ils (elles) auraient été dispersé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dispersé(e)
+que tu aies été dispersé(e)
+qu’il (elle) ait été dispersé(e)
+que nous ayons été dispersé(e)s
+que vous ayez été dispersé(e)s
+qu’ils (elles) aient été dispersé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dispersé(e)
+que tu eusses été dispersé(e)
+qu’il (elle) eût été dispersé(e)
+que nous eussions été dispersé(e)s
+que vous eussiez été dispersé(e)s
+qu’ils (elles) eussent été dispersé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dispersé(e)
+ayons été dispersé(e)s
+ayez été dispersé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dispersé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dispersé(e)(s)

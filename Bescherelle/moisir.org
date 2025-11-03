@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe moisir
+
+* INDICATIF
+
+** Présent
+
+je moisis
+tu moisis
+il (elle) moisit
+nous moisissons
+vous moisissez
+ils (elles) moisissent
+
+** Imparfait
+
+je moisissais
+tu moisissais
+il (elle) moisissait
+nous moisissions
+vous moisissiez
+ils (elles) moisissaient
+
+** Passé simple
+
+je moisis
+tu moisis
+il (elle) moisit
+nous moisîmes
+vous moisîtes
+ils (elles) moisirent
+
+** Futur simple
+
+je moisirai
+tu moisiras
+il (elle) moisira
+nous moisirons
+vous moisirez
+ils (elles) moisiront
+
+* CONDITIONNEL
+
+** Présent
+
+je moisirais
+tu moisirais
+il (elle) moisirait
+nous moisirions
+vous moisiriez
+ils (elles) moisiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je moisisse
+que tu moisisses
+qu’il (elle) moisisse
+que nous moisissions
+que vous moisissiez
+qu’ils (elles) moisissent
+
+** Imparfait
+
+que je moisisse
+que tu moisisses
+qu’il (elle) moisît
+que nous moisissions
+que vous moisissiez
+qu’ils (elles) moisissent
+
+* IMPÉRATIF
+
+** Présent
+
+moisis
+moisissons
+moisissez
+
+* INFINITIF
+
+** Présent
+
+moisir
+
+* PARTICIPE
+
+** Présent
+
+moisissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai moisi
+tu as moisi
+il (elle) a moisi
+nous avons moisi
+vous avez moisi
+ils (elles) ont moisi
+
+** Plus-que-parfait
+
+j'avais moisi
+tu avais moisi
+il (elle) avait moisi
+nous avions moisi
+vous aviez moisi
+ils (elles) avaient moisi
+
+** Passé antérieur
+
+j'eus moisi
+tu eus moisi
+il (elle) eut moisi
+nous eûmes moisi
+vous eûtes moisi
+ils (elles) eurent moisi
+
+** Futur antérieur
+
+j'aurai moisi
+tu auras moisi
+il (elle) aura moisi
+nous aurons moisi
+vous aurez moisi
+ils (elles) auront moisi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais moisi
+tu aurais moisi
+il (elle) aurait moisi
+nous aurions moisi
+vous auriez moisi
+ils (elles) auraient moisi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie moisi
+que tu aies moisi
+qu’il (elle) ait moisi
+que nous ayons moisi
+que vous ayez moisi
+qu’ils (elles) aient moisi
+
+** Plus-que-parfait
+
+que j'eusse moisi
+que tu eusses moisi
+qu’il (elle) eût moisi
+que nous eussions moisi
+que vous eussiez moisi
+qu’ils (elles) eussent moisi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons moisi
+ayez moisi
+
+* INFINITIF
+
+** Passé
+
+avoir moisi
+
+* PARTICIPE
+
+** Passé
+
+ayant moisi
+moisi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis moisi(e)
+tu es moisi(e)
+il (elle) est moisi(e)
+nous sommes moisi(e)s
+vous êtes moisi(e)s
+ils (elles) sont moisi(e)s
+
+** Imparfait
+
+j'étais moisi(e)
+tu étais moisi(e)
+il (elle) était moisi(e)
+nous étions moisi(e)s
+vous étiez moisi(e)s
+ils (elles) étaient moisi(e)s
+
+** Passé simple
+
+je fus moisi(e)
+tu fus moisi(e)
+il (elle) fut moisi(e)
+nous fûmes moisi(e)s
+vous fûtes moisi(e)s
+ils (elles) furent moisi(e)s
+
+** Futur simple
+
+je serai moisi(e)
+tu seras moisi(e)
+il (elle) sera moisi(e)
+nous serons moisi(e)s
+vous serez moisi(e)s
+ils (elles) seront moisi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais moisi(e)
+tu serais moisi(e)
+il (elle) serait moisi(e)
+nous serions moisi(e)s
+vous seriez moisi(e)s
+ils (elles) seraient moisi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois moisi(e)
+que tu sois moisi(e)
+qu’il (elle) soit moisi(e)
+que nous soyons moisi(e)s
+que vous soyez moisi(e)s
+qu’ils (elles) soient moisi(e)s
+
+** Imparfait
+
+que je fusse moisi(e)
+que tu fusses moisi(e)
+qu’il (elle) fût moisi(e)
+que nous fussions moisi(e)s
+que vous fussiez moisi(e)s
+qu’ils (elles) fussent moisi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons moisi(e)s
+soyez moisi(e)s
+
+* INFINITIF
+
+** Présent
+
+être moisi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant moisi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été moisi(e)
+tu as été moisi(e)
+il (elle) a été moisi(e)
+nous avons été moisi(e)s
+vous avez été moisi(e)s
+ils (elles) ont été moisi(e)s
+
+** Plus-que-parfait
+
+j'avais été moisi(e)
+il (elle) avait été moisi(e)
+nous avions été moisi(e)s
+ils (elles) avaient été moisi(e)s
+
+** Passé antérieur
+
+j'eus été moisi(e)
+tu eus été moisi(e)
+il (elle) eut été moisi(e)
+nous eûmes été moisi(e)s
+vous eûtes été moisi(e)s
+ils (elles) eurent été moisi(e)s
+
+** Futur antérieur
+
+j'aurai été moisi(e)
+tu auras été moisi(e)
+il (elle) aura été moisi(e)
+nous aurons été moisi(e)s
+vous aurez été moisi(e)s
+ils (elles) auront été moisi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été moisi(e)
+j'aurais été moisi(e)
+il (elle) aurait été moisi(e)
+nous aurions été moisi(e)s
+vous auriez été moisi(e)s
+ils (elles) auraient été moisi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été moisi(e)
+que tu aies été moisi(e)
+qu’il (elle) ait été moisi(e)
+que nous ayons été moisi(e)s
+que vous ayez été moisi(e)s
+qu’ils (elles) aient été moisi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été moisi(e)
+que tu eusses été moisi(e)
+qu’il (elle) eût été moisi(e)
+que nous eussions été moisi(e)s
+que vous eussiez été moisi(e)s
+qu’ils (elles) eussent été moisi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été moisi(e)
+ayons été moisi(e)s
+ayez été moisi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été moisi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été moisi(e)(s)

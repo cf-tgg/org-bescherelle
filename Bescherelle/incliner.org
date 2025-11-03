@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe incliner
+
+* INDICATIF
+
+** Présent
+
+j'incline
+tu inclines
+il (elle) incline
+nous inclinons
+vous inclinez
+ils (elles) inclinent
+
+** Imparfait
+
+j'inclinais
+tu inclinais
+il (elle) inclinait
+nous inclinions
+vous incliniez
+ils (elles) inclinaient
+
+** Passé simple
+
+j'inclinai
+tu inclinas
+il (elle) inclina
+nous inclinâmes
+vous inclinâtes
+ils (elles) inclinèrent
+
+** Futur simple
+
+j'inclinerai
+tu inclineras
+il (elle) inclinera
+nous inclinerons
+vous inclinerez
+ils (elles) inclineront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inclinerais
+tu inclinerais
+il (elle) inclinerait
+nous inclinerions
+vous inclineriez
+ils (elles) inclineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'incline
+que tu inclines
+qu’il (elle) incline
+que nous inclinions
+que vous incliniez
+qu’ils (elles) inclinent
+
+** Imparfait
+
+que j'inclinasse
+que tu inclinasses
+qu’il (elle) inclinât
+que nous inclinassions
+que vous inclinassiez
+qu’ils (elles) inclinassent
+
+* IMPÉRATIF
+
+** Présent
+
+incline
+inclinons
+inclinez
+
+* INFINITIF
+
+** Présent
+
+incliner
+
+* PARTICIPE
+
+** Présent
+
+inclinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai incliné
+tu as incliné
+il (elle) a incliné
+nous avons incliné
+vous avez incliné
+ils (elles) ont incliné
+
+** Plus-que-parfait
+
+j'avais incliné
+tu avais incliné
+il (elle) avait incliné
+nous avions incliné
+vous aviez incliné
+ils (elles) avaient incliné
+
+** Passé antérieur
+
+j'eus incliné
+tu eus incliné
+il (elle) eut incliné
+nous eûmes incliné
+vous eûtes incliné
+ils (elles) eurent incliné
+
+** Futur antérieur
+
+j'aurai incliné
+tu auras incliné
+il (elle) aura incliné
+nous aurons incliné
+vous aurez incliné
+ils (elles) auront incliné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais incliné
+tu aurais incliné
+il (elle) aurait incliné
+nous aurions incliné
+vous auriez incliné
+ils (elles) auraient incliné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie incliné
+que tu aies incliné
+qu’il (elle) ait incliné
+que nous ayons incliné
+que vous ayez incliné
+qu’ils (elles) aient incliné
+
+** Plus-que-parfait
+
+que j'eusse incliné
+que tu eusses incliné
+qu’il (elle) eût incliné
+que nous eussions incliné
+que vous eussiez incliné
+qu’ils (elles) eussent incliné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons incliné
+ayez incliné
+
+* INFINITIF
+
+** Passé
+
+avoir incliné
+
+* PARTICIPE
+
+** Passé
+
+ayant incliné
+incliné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis incliné(e)
+tu es incliné(e)
+il (elle) est incliné(e)
+nous sommes incliné(e)s
+vous êtes incliné(e)s
+ils (elles) sont incliné(e)s
+
+** Imparfait
+
+j'étais incliné(e)
+tu étais incliné(e)
+il (elle) était incliné(e)
+nous étions incliné(e)s
+vous étiez incliné(e)s
+ils (elles) étaient incliné(e)s
+
+** Passé simple
+
+je fus incliné(e)
+tu fus incliné(e)
+il (elle) fut incliné(e)
+nous fûmes incliné(e)s
+vous fûtes incliné(e)s
+ils (elles) furent incliné(e)s
+
+** Futur simple
+
+je serai incliné(e)
+tu seras incliné(e)
+il (elle) sera incliné(e)
+nous serons incliné(e)s
+vous serez incliné(e)s
+ils (elles) seront incliné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais incliné(e)
+tu serais incliné(e)
+il (elle) serait incliné(e)
+nous serions incliné(e)s
+vous seriez incliné(e)s
+ils (elles) seraient incliné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois incliné(e)
+que tu sois incliné(e)
+qu’il (elle) soit incliné(e)
+que nous soyons incliné(e)s
+que vous soyez incliné(e)s
+qu’ils (elles) soient incliné(e)s
+
+** Imparfait
+
+que je fusse incliné(e)
+que tu fusses incliné(e)
+qu’il (elle) fût incliné(e)
+que nous fussions incliné(e)s
+que vous fussiez incliné(e)s
+qu’ils (elles) fussent incliné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons incliné(e)s
+soyez incliné(e)s
+
+* INFINITIF
+
+** Présent
+
+être incliné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant incliné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été incliné(e)
+tu as été incliné(e)
+il (elle) a été incliné(e)
+nous avons été incliné(e)s
+vous avez été incliné(e)s
+ils (elles) ont été incliné(e)s
+
+** Plus-que-parfait
+
+j'avais été incliné(e)
+il (elle) avait été incliné(e)
+nous avions été incliné(e)s
+ils (elles) avaient été incliné(e)s
+
+** Passé antérieur
+
+j'eus été incliné(e)
+tu eus été incliné(e)
+il (elle) eut été incliné(e)
+nous eûmes été incliné(e)s
+vous eûtes été incliné(e)s
+ils (elles) eurent été incliné(e)s
+
+** Futur antérieur
+
+j'aurai été incliné(e)
+tu auras été incliné(e)
+il (elle) aura été incliné(e)
+nous aurons été incliné(e)s
+vous aurez été incliné(e)s
+ils (elles) auront été incliné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été incliné(e)
+j'aurais été incliné(e)
+il (elle) aurait été incliné(e)
+nous aurions été incliné(e)s
+vous auriez été incliné(e)s
+ils (elles) auraient été incliné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été incliné(e)
+que tu aies été incliné(e)
+qu’il (elle) ait été incliné(e)
+que nous ayons été incliné(e)s
+que vous ayez été incliné(e)s
+qu’ils (elles) aient été incliné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été incliné(e)
+que tu eusses été incliné(e)
+qu’il (elle) eût été incliné(e)
+que nous eussions été incliné(e)s
+que vous eussiez été incliné(e)s
+qu’ils (elles) eussent été incliné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été incliné(e)
+ayons été incliné(e)s
+ayez été incliné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été incliné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été incliné(e)(s)

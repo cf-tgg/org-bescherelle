@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe forger
+
+* INDICATIF
+
+** Présent
+
+je forge
+tu forges
+il (elle) forge
+nous forgeons
+vous forgez
+ils (elles) forgent
+
+** Imparfait
+
+je forgeais
+tu forgeais
+il (elle) forgeait
+nous forgions
+vous forgiez
+ils (elles) forgeaient
+
+** Passé simple
+
+je forgeai
+tu forgeas
+il (elle) forgea
+nous forgeâmes
+vous forgeâtes
+ils (elles) forgèrent
+
+** Futur simple
+
+je forgerai
+tu forgeras
+il (elle) forgera
+nous forgerons
+vous forgerez
+ils (elles) forgeront
+
+* CONDITIONNEL
+
+** Présent
+
+je forgerais
+tu forgerais
+il (elle) forgerait
+nous forgerions
+vous forgeriez
+ils (elles) forgeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je forge
+que tu forges
+qu’il (elle) forge
+que nous forgions
+que vous forgiez
+qu’ils (elles) forgent
+
+** Imparfait
+
+que je forgeasse
+que tu forgeasses
+qu’il (elle) forgeât
+que nous forgeassions
+que vous forgeassiez
+qu’ils (elles) forgeassent
+
+* IMPÉRATIF
+
+** Présent
+
+forge
+forgeons
+forgez
+
+* INFINITIF
+
+** Présent
+
+forger
+
+* PARTICIPE
+
+** Présent
+
+forgeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai forgé
+tu as forgé
+il (elle) a forgé
+nous avons forgé
+vous avez forgé
+ils (elles) ont forgé
+
+** Plus-que-parfait
+
+j'avais forgé
+tu avais forgé
+il (elle) avait forgé
+nous avions forgé
+vous aviez forgé
+ils (elles) avaient forgé
+
+** Passé antérieur
+
+j'eus forgé
+tu eus forgé
+il (elle) eut forgé
+nous eûmes forgé
+vous eûtes forgé
+ils (elles) eurent forgé
+
+** Futur antérieur
+
+j'aurai forgé
+tu auras forgé
+il (elle) aura forgé
+nous aurons forgé
+vous aurez forgé
+ils (elles) auront forgé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais forgé
+tu aurais forgé
+il (elle) aurait forgé
+nous aurions forgé
+vous auriez forgé
+ils (elles) auraient forgé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie forgé
+que tu aies forgé
+qu’il (elle) ait forgé
+que nous ayons forgé
+que vous ayez forgé
+qu’ils (elles) aient forgé
+
+** Plus-que-parfait
+
+que j'eusse forgé
+que tu eusses forgé
+qu’il (elle) eût forgé
+que nous eussions forgé
+que vous eussiez forgé
+qu’ils (elles) eussent forgé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons forgé
+ayez forgé
+
+* INFINITIF
+
+** Passé
+
+avoir forgé
+
+* PARTICIPE
+
+** Passé
+
+ayant forgé
+forgé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis forgé(e)
+tu es forgé(e)
+il (elle) est forgé(e)
+nous sommes forgé(e)s
+vous êtes forgé(e)s
+ils (elles) sont forgé(e)s
+
+** Imparfait
+
+j'étais forgé(e)
+tu étais forgé(e)
+il (elle) était forgé(e)
+nous étions forgé(e)s
+vous étiez forgé(e)s
+ils (elles) étaient forgé(e)s
+
+** Passé simple
+
+je fus forgé(e)
+tu fus forgé(e)
+il (elle) fut forgé(e)
+nous fûmes forgé(e)s
+vous fûtes forgé(e)s
+ils (elles) furent forgé(e)s
+
+** Futur simple
+
+je serai forgé(e)
+tu seras forgé(e)
+il (elle) sera forgé(e)
+nous serons forgé(e)s
+vous serez forgé(e)s
+ils (elles) seront forgé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais forgé(e)
+tu serais forgé(e)
+il (elle) serait forgé(e)
+nous serions forgé(e)s
+vous seriez forgé(e)s
+ils (elles) seraient forgé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois forgé(e)
+que tu sois forgé(e)
+qu’il (elle) soit forgé(e)
+que nous soyons forgé(e)s
+que vous soyez forgé(e)s
+qu’ils (elles) soient forgé(e)s
+
+** Imparfait
+
+que je fusse forgé(e)
+que tu fusses forgé(e)
+qu’il (elle) fût forgé(e)
+que nous fussions forgé(e)s
+que vous fussiez forgé(e)s
+qu’ils (elles) fussent forgé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons forgé(e)s
+soyez forgé(e)s
+
+* INFINITIF
+
+** Présent
+
+être forgé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant forgé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été forgé(e)
+tu as été forgé(e)
+il (elle) a été forgé(e)
+nous avons été forgé(e)s
+vous avez été forgé(e)s
+ils (elles) ont été forgé(e)s
+
+** Plus-que-parfait
+
+j'avais été forgé(e)
+il (elle) avait été forgé(e)
+nous avions été forgé(e)s
+ils (elles) avaient été forgé(e)s
+
+** Passé antérieur
+
+j'eus été forgé(e)
+tu eus été forgé(e)
+il (elle) eut été forgé(e)
+nous eûmes été forgé(e)s
+vous eûtes été forgé(e)s
+ils (elles) eurent été forgé(e)s
+
+** Futur antérieur
+
+j'aurai été forgé(e)
+tu auras été forgé(e)
+il (elle) aura été forgé(e)
+nous aurons été forgé(e)s
+vous aurez été forgé(e)s
+ils (elles) auront été forgé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été forgé(e)
+j'aurais été forgé(e)
+il (elle) aurait été forgé(e)
+nous aurions été forgé(e)s
+vous auriez été forgé(e)s
+ils (elles) auraient été forgé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été forgé(e)
+que tu aies été forgé(e)
+qu’il (elle) ait été forgé(e)
+que nous ayons été forgé(e)s
+que vous ayez été forgé(e)s
+qu’ils (elles) aient été forgé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été forgé(e)
+que tu eusses été forgé(e)
+qu’il (elle) eût été forgé(e)
+que nous eussions été forgé(e)s
+que vous eussiez été forgé(e)s
+qu’ils (elles) eussent été forgé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été forgé(e)
+ayons été forgé(e)s
+ayez été forgé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été forgé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été forgé(e)(s)

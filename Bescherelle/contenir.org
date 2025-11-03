@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe contenir
+
+* INDICATIF
+
+** Présent
+
+je contiens
+tu contiens
+il (elle) contient
+nous contenons
+vous contenez
+ils (elles) contiennent
+
+** Imparfait
+
+je contenais
+tu contenais
+il (elle) contenait
+nous contenions
+vous conteniez
+ils (elles) contenaient
+
+** Passé simple
+
+je contins
+tu contins
+il (elle) contint
+nous contînmes
+vous contîntes
+ils (elles) continrent
+
+** Futur simple
+
+je contiendrai
+tu contiendras
+il (elle) contiendra
+nous contiendrons
+vous contiendrez
+ils (elles) contiendront
+
+* CONDITIONNEL
+
+** Présent
+
+je contiendrais
+tu contiendrais
+il (elle) contiendrait
+nous contiendrions
+vous contiendriez
+ils (elles) contiendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contienne
+que tu contiennes
+qu’il (elle) contienne
+que nous contenions
+que vous conteniez
+qu’ils (elles) contiennent
+
+** Imparfait
+
+que je continsse
+que tu continsses
+qu’il (elle) contînt
+que nous continssions
+que vous continssiez
+qu’ils (elles) continssent
+
+* IMPÉRATIF
+
+** Présent
+
+contiens
+contenons
+contenez
+
+* INFINITIF
+
+** Présent
+
+contenir
+
+* PARTICIPE
+
+** Présent
+
+contenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contenu
+tu as contenu
+il (elle) a contenu
+nous avons contenu
+vous avez contenu
+ils (elles) ont contenu
+
+** Plus-que-parfait
+
+j'avais contenu
+tu avais contenu
+il (elle) avait contenu
+nous avions contenu
+vous aviez contenu
+ils (elles) avaient contenu
+
+** Passé antérieur
+
+j'eus contenu
+tu eus contenu
+il (elle) eut contenu
+nous eûmes contenu
+vous eûtes contenu
+ils (elles) eurent contenu
+
+** Futur antérieur
+
+j'aurai contenu
+tu auras contenu
+il (elle) aura contenu
+nous aurons contenu
+vous aurez contenu
+ils (elles) auront contenu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contenu
+tu aurais contenu
+il (elle) aurait contenu
+nous aurions contenu
+vous auriez contenu
+ils (elles) auraient contenu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contenu
+que tu aies contenu
+qu’il (elle) ait contenu
+que nous ayons contenu
+que vous ayez contenu
+qu’ils (elles) aient contenu
+
+** Plus-que-parfait
+
+que j'eusse contenu
+que tu eusses contenu
+qu’il (elle) eût contenu
+que nous eussions contenu
+que vous eussiez contenu
+qu’ils (elles) eussent contenu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contenu
+ayez contenu
+
+* INFINITIF
+
+** Passé
+
+avoir contenu
+
+* PARTICIPE
+
+** Passé
+
+ayant contenu
+contenu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis contenu(e)
+tu es contenu(e)
+il (elle) est contenu(e)
+nous sommes contenu(e)s
+vous êtes contenu(e)s
+ils (elles) sont contenu(e)s
+
+** Imparfait
+
+j'étais contenu(e)
+tu étais contenu(e)
+il (elle) était contenu(e)
+nous étions contenu(e)s
+vous étiez contenu(e)s
+ils (elles) étaient contenu(e)s
+
+** Passé simple
+
+je fus contenu(e)
+tu fus contenu(e)
+il (elle) fut contenu(e)
+nous fûmes contenu(e)s
+vous fûtes contenu(e)s
+ils (elles) furent contenu(e)s
+
+** Futur simple
+
+je serai contenu(e)
+tu seras contenu(e)
+il (elle) sera contenu(e)
+nous serons contenu(e)s
+vous serez contenu(e)s
+ils (elles) seront contenu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais contenu(e)
+tu serais contenu(e)
+il (elle) serait contenu(e)
+nous serions contenu(e)s
+vous seriez contenu(e)s
+ils (elles) seraient contenu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois contenu(e)
+que tu sois contenu(e)
+qu’il (elle) soit contenu(e)
+que nous soyons contenu(e)s
+que vous soyez contenu(e)s
+qu’ils (elles) soient contenu(e)s
+
+** Imparfait
+
+que je fusse contenu(e)
+que tu fusses contenu(e)
+qu’il (elle) fût contenu(e)
+que nous fussions contenu(e)s
+que vous fussiez contenu(e)s
+qu’ils (elles) fussent contenu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons contenu(e)s
+soyez contenu(e)s
+
+* INFINITIF
+
+** Présent
+
+être contenu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant contenu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été contenu(e)
+tu as été contenu(e)
+il (elle) a été contenu(e)
+nous avons été contenu(e)s
+vous avez été contenu(e)s
+ils (elles) ont été contenu(e)s
+
+** Plus-que-parfait
+
+j'avais été contenu(e)
+il (elle) avait été contenu(e)
+nous avions été contenu(e)s
+ils (elles) avaient été contenu(e)s
+
+** Passé antérieur
+
+j'eus été contenu(e)
+tu eus été contenu(e)
+il (elle) eut été contenu(e)
+nous eûmes été contenu(e)s
+vous eûtes été contenu(e)s
+ils (elles) eurent été contenu(e)s
+
+** Futur antérieur
+
+j'aurai été contenu(e)
+tu auras été contenu(e)
+il (elle) aura été contenu(e)
+nous aurons été contenu(e)s
+vous aurez été contenu(e)s
+ils (elles) auront été contenu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été contenu(e)
+j'aurais été contenu(e)
+il (elle) aurait été contenu(e)
+nous aurions été contenu(e)s
+vous auriez été contenu(e)s
+ils (elles) auraient été contenu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été contenu(e)
+que tu aies été contenu(e)
+qu’il (elle) ait été contenu(e)
+que nous ayons été contenu(e)s
+que vous ayez été contenu(e)s
+qu’ils (elles) aient été contenu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été contenu(e)
+que tu eusses été contenu(e)
+qu’il (elle) eût été contenu(e)
+que nous eussions été contenu(e)s
+que vous eussiez été contenu(e)s
+qu’ils (elles) eussent été contenu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été contenu(e)
+ayons été contenu(e)s
+ayez été contenu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été contenu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été contenu(e)(s)

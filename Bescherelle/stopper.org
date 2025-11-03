@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe stopper
+
+* INDICATIF
+
+** Présent
+
+je stoppe
+tu stoppes
+il (elle) stoppe
+nous stoppons
+vous stoppez
+ils (elles) stoppent
+
+** Imparfait
+
+je stoppais
+tu stoppais
+il (elle) stoppait
+nous stoppions
+vous stoppiez
+ils (elles) stoppaient
+
+** Passé simple
+
+je stoppai
+tu stoppas
+il (elle) stoppa
+nous stoppâmes
+vous stoppâtes
+ils (elles) stoppèrent
+
+** Futur simple
+
+je stopperai
+tu stopperas
+il (elle) stoppera
+nous stopperons
+vous stopperez
+ils (elles) stopperont
+
+* CONDITIONNEL
+
+** Présent
+
+je stopperais
+tu stopperais
+il (elle) stopperait
+nous stopperions
+vous stopperiez
+ils (elles) stopperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je stoppe
+que tu stoppes
+qu’il (elle) stoppe
+que nous stoppions
+que vous stoppiez
+qu’ils (elles) stoppent
+
+** Imparfait
+
+que je stoppasse
+que tu stoppasses
+qu’il (elle) stoppât
+que nous stoppassions
+que vous stoppassiez
+qu’ils (elles) stoppassent
+
+* IMPÉRATIF
+
+** Présent
+
+stoppe
+stoppons
+stoppez
+
+* INFINITIF
+
+** Présent
+
+stopper
+
+* PARTICIPE
+
+** Présent
+
+stoppant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai stoppé
+tu as stoppé
+il (elle) a stoppé
+nous avons stoppé
+vous avez stoppé
+ils (elles) ont stoppé
+
+** Plus-que-parfait
+
+j'avais stoppé
+tu avais stoppé
+il (elle) avait stoppé
+nous avions stoppé
+vous aviez stoppé
+ils (elles) avaient stoppé
+
+** Passé antérieur
+
+j'eus stoppé
+tu eus stoppé
+il (elle) eut stoppé
+nous eûmes stoppé
+vous eûtes stoppé
+ils (elles) eurent stoppé
+
+** Futur antérieur
+
+j'aurai stoppé
+tu auras stoppé
+il (elle) aura stoppé
+nous aurons stoppé
+vous aurez stoppé
+ils (elles) auront stoppé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais stoppé
+tu aurais stoppé
+il (elle) aurait stoppé
+nous aurions stoppé
+vous auriez stoppé
+ils (elles) auraient stoppé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie stoppé
+que tu aies stoppé
+qu’il (elle) ait stoppé
+que nous ayons stoppé
+que vous ayez stoppé
+qu’ils (elles) aient stoppé
+
+** Plus-que-parfait
+
+que j'eusse stoppé
+que tu eusses stoppé
+qu’il (elle) eût stoppé
+que nous eussions stoppé
+que vous eussiez stoppé
+qu’ils (elles) eussent stoppé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons stoppé
+ayez stoppé
+
+* INFINITIF
+
+** Passé
+
+avoir stoppé
+
+* PARTICIPE
+
+** Passé
+
+ayant stoppé
+stoppé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis stoppé(e)
+tu es stoppé(e)
+il (elle) est stoppé(e)
+nous sommes stoppé(e)s
+vous êtes stoppé(e)s
+ils (elles) sont stoppé(e)s
+
+** Imparfait
+
+j'étais stoppé(e)
+tu étais stoppé(e)
+il (elle) était stoppé(e)
+nous étions stoppé(e)s
+vous étiez stoppé(e)s
+ils (elles) étaient stoppé(e)s
+
+** Passé simple
+
+je fus stoppé(e)
+tu fus stoppé(e)
+il (elle) fut stoppé(e)
+nous fûmes stoppé(e)s
+vous fûtes stoppé(e)s
+ils (elles) furent stoppé(e)s
+
+** Futur simple
+
+je serai stoppé(e)
+tu seras stoppé(e)
+il (elle) sera stoppé(e)
+nous serons stoppé(e)s
+vous serez stoppé(e)s
+ils (elles) seront stoppé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais stoppé(e)
+tu serais stoppé(e)
+il (elle) serait stoppé(e)
+nous serions stoppé(e)s
+vous seriez stoppé(e)s
+ils (elles) seraient stoppé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois stoppé(e)
+que tu sois stoppé(e)
+qu’il (elle) soit stoppé(e)
+que nous soyons stoppé(e)s
+que vous soyez stoppé(e)s
+qu’ils (elles) soient stoppé(e)s
+
+** Imparfait
+
+que je fusse stoppé(e)
+que tu fusses stoppé(e)
+qu’il (elle) fût stoppé(e)
+que nous fussions stoppé(e)s
+que vous fussiez stoppé(e)s
+qu’ils (elles) fussent stoppé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons stoppé(e)s
+soyez stoppé(e)s
+
+* INFINITIF
+
+** Présent
+
+être stoppé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant stoppé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été stoppé(e)
+tu as été stoppé(e)
+il (elle) a été stoppé(e)
+nous avons été stoppé(e)s
+vous avez été stoppé(e)s
+ils (elles) ont été stoppé(e)s
+
+** Plus-que-parfait
+
+j'avais été stoppé(e)
+il (elle) avait été stoppé(e)
+nous avions été stoppé(e)s
+ils (elles) avaient été stoppé(e)s
+
+** Passé antérieur
+
+j'eus été stoppé(e)
+tu eus été stoppé(e)
+il (elle) eut été stoppé(e)
+nous eûmes été stoppé(e)s
+vous eûtes été stoppé(e)s
+ils (elles) eurent été stoppé(e)s
+
+** Futur antérieur
+
+j'aurai été stoppé(e)
+tu auras été stoppé(e)
+il (elle) aura été stoppé(e)
+nous aurons été stoppé(e)s
+vous aurez été stoppé(e)s
+ils (elles) auront été stoppé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été stoppé(e)
+j'aurais été stoppé(e)
+il (elle) aurait été stoppé(e)
+nous aurions été stoppé(e)s
+vous auriez été stoppé(e)s
+ils (elles) auraient été stoppé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été stoppé(e)
+que tu aies été stoppé(e)
+qu’il (elle) ait été stoppé(e)
+que nous ayons été stoppé(e)s
+que vous ayez été stoppé(e)s
+qu’ils (elles) aient été stoppé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été stoppé(e)
+que tu eusses été stoppé(e)
+qu’il (elle) eût été stoppé(e)
+que nous eussions été stoppé(e)s
+que vous eussiez été stoppé(e)s
+qu’ils (elles) eussent été stoppé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été stoppé(e)
+ayons été stoppé(e)s
+ayez été stoppé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été stoppé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été stoppé(e)(s)

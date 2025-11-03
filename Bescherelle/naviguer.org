@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe naviguer
+
+* INDICATIF
+
+** Présent
+
+je navigue
+tu navigues
+il (elle) navigue
+nous naviguons
+vous naviguez
+ils (elles) naviguent
+
+** Imparfait
+
+je naviguais
+tu naviguais
+il (elle) naviguait
+nous naviguions
+vous naviguiez
+ils (elles) naviguaient
+
+** Passé simple
+
+je naviguai
+tu naviguas
+il (elle) navigua
+nous naviguâmes
+vous naviguâtes
+ils (elles) naviguèrent
+
+** Futur simple
+
+je naviguerai
+tu navigueras
+il (elle) naviguera
+nous naviguerons
+vous naviguerez
+ils (elles) navigueront
+
+* CONDITIONNEL
+
+** Présent
+
+je naviguerais
+tu naviguerais
+il (elle) naviguerait
+nous naviguerions
+vous navigueriez
+ils (elles) navigueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je navigue
+que tu navigues
+qu’il (elle) navigue
+que nous naviguions
+que vous naviguiez
+qu’ils (elles) naviguent
+
+** Imparfait
+
+que je naviguasse
+que tu naviguasses
+qu’il (elle) naviguât
+que nous naviguassions
+que vous naviguassiez
+qu’ils (elles) naviguassent
+
+* IMPÉRATIF
+
+** Présent
+
+navigue
+naviguons
+naviguez
+
+* INFINITIF
+
+** Présent
+
+naviguer
+
+* PARTICIPE
+
+** Présent
+
+naviguant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai navigué
+tu as navigué
+il (elle) a navigué
+nous avons navigué
+vous avez navigué
+ils (elles) ont navigué
+
+** Plus-que-parfait
+
+j'avais navigué
+tu avais navigué
+il (elle) avait navigué
+nous avions navigué
+vous aviez navigué
+ils (elles) avaient navigué
+
+** Passé antérieur
+
+j'eus navigué
+tu eus navigué
+il (elle) eut navigué
+nous eûmes navigué
+vous eûtes navigué
+ils (elles) eurent navigué
+
+** Futur antérieur
+
+j'aurai navigué
+tu auras navigué
+il (elle) aura navigué
+nous aurons navigué
+vous aurez navigué
+ils (elles) auront navigué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais navigué
+tu aurais navigué
+il (elle) aurait navigué
+nous aurions navigué
+vous auriez navigué
+ils (elles) auraient navigué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie navigué
+que tu aies navigué
+qu’il (elle) ait navigué
+que nous ayons navigué
+que vous ayez navigué
+qu’ils (elles) aient navigué
+
+** Plus-que-parfait
+
+que j'eusse navigué
+que tu eusses navigué
+qu’il (elle) eût navigué
+que nous eussions navigué
+que vous eussiez navigué
+qu’ils (elles) eussent navigué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons navigué
+ayez navigué
+
+* INFINITIF
+
+** Passé
+
+avoir navigué
+
+* PARTICIPE
+
+** Passé
+
+ayant navigué
+navigué (invar.)

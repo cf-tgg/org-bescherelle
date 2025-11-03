@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bannir
+
+* INDICATIF
+
+** Présent
+
+je bannis
+tu bannis
+il (elle) bannit
+nous bannissons
+vous bannissez
+ils (elles) bannissent
+
+** Imparfait
+
+je bannissais
+tu bannissais
+il (elle) bannissait
+nous bannissions
+vous bannissiez
+ils (elles) bannissaient
+
+** Passé simple
+
+je bannis
+tu bannis
+il (elle) bannit
+nous bannîmes
+vous bannîtes
+ils (elles) bannirent
+
+** Futur simple
+
+je bannirai
+tu banniras
+il (elle) bannira
+nous bannirons
+vous bannirez
+ils (elles) banniront
+
+* CONDITIONNEL
+
+** Présent
+
+je bannirais
+tu bannirais
+il (elle) bannirait
+nous bannirions
+vous banniriez
+ils (elles) banniraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bannisse
+que tu bannisses
+qu’il (elle) bannisse
+que nous bannissions
+que vous bannissiez
+qu’ils (elles) bannissent
+
+** Imparfait
+
+que je bannisse
+que tu bannisses
+qu’il (elle) bannît
+que nous bannissions
+que vous bannissiez
+qu’ils (elles) bannissent
+
+* IMPÉRATIF
+
+** Présent
+
+bannis
+bannissons
+bannissez
+
+* INFINITIF
+
+** Présent
+
+bannir
+
+* PARTICIPE
+
+** Présent
+
+bannissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai banni
+tu as banni
+il (elle) a banni
+nous avons banni
+vous avez banni
+ils (elles) ont banni
+
+** Plus-que-parfait
+
+j'avais banni
+tu avais banni
+il (elle) avait banni
+nous avions banni
+vous aviez banni
+ils (elles) avaient banni
+
+** Passé antérieur
+
+j'eus banni
+tu eus banni
+il (elle) eut banni
+nous eûmes banni
+vous eûtes banni
+ils (elles) eurent banni
+
+** Futur antérieur
+
+j'aurai banni
+tu auras banni
+il (elle) aura banni
+nous aurons banni
+vous aurez banni
+ils (elles) auront banni
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais banni
+tu aurais banni
+il (elle) aurait banni
+nous aurions banni
+vous auriez banni
+ils (elles) auraient banni
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie banni
+que tu aies banni
+qu’il (elle) ait banni
+que nous ayons banni
+que vous ayez banni
+qu’ils (elles) aient banni
+
+** Plus-que-parfait
+
+que j'eusse banni
+que tu eusses banni
+qu’il (elle) eût banni
+que nous eussions banni
+que vous eussiez banni
+qu’ils (elles) eussent banni
+
+* IMPÉRATIF
+
+** Passé
+
+ayons banni
+ayez banni
+
+* INFINITIF
+
+** Passé
+
+avoir banni
+
+* PARTICIPE
+
+** Passé
+
+ayant banni
+banni (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis banni(e)
+tu es banni(e)
+il (elle) est banni(e)
+nous sommes banni(e)s
+vous êtes banni(e)s
+ils (elles) sont banni(e)s
+
+** Imparfait
+
+j'étais banni(e)
+tu étais banni(e)
+il (elle) était banni(e)
+nous étions banni(e)s
+vous étiez banni(e)s
+ils (elles) étaient banni(e)s
+
+** Passé simple
+
+je fus banni(e)
+tu fus banni(e)
+il (elle) fut banni(e)
+nous fûmes banni(e)s
+vous fûtes banni(e)s
+ils (elles) furent banni(e)s
+
+** Futur simple
+
+je serai banni(e)
+tu seras banni(e)
+il (elle) sera banni(e)
+nous serons banni(e)s
+vous serez banni(e)s
+ils (elles) seront banni(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais banni(e)
+tu serais banni(e)
+il (elle) serait banni(e)
+nous serions banni(e)s
+vous seriez banni(e)s
+ils (elles) seraient banni(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois banni(e)
+que tu sois banni(e)
+qu’il (elle) soit banni(e)
+que nous soyons banni(e)s
+que vous soyez banni(e)s
+qu’ils (elles) soient banni(e)s
+
+** Imparfait
+
+que je fusse banni(e)
+que tu fusses banni(e)
+qu’il (elle) fût banni(e)
+que nous fussions banni(e)s
+que vous fussiez banni(e)s
+qu’ils (elles) fussent banni(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons banni(e)s
+soyez banni(e)s
+
+* INFINITIF
+
+** Présent
+
+être banni(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant banni(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été banni(e)
+tu as été banni(e)
+il (elle) a été banni(e)
+nous avons été banni(e)s
+vous avez été banni(e)s
+ils (elles) ont été banni(e)s
+
+** Plus-que-parfait
+
+j'avais été banni(e)
+il (elle) avait été banni(e)
+nous avions été banni(e)s
+ils (elles) avaient été banni(e)s
+
+** Passé antérieur
+
+j'eus été banni(e)
+tu eus été banni(e)
+il (elle) eut été banni(e)
+nous eûmes été banni(e)s
+vous eûtes été banni(e)s
+ils (elles) eurent été banni(e)s
+
+** Futur antérieur
+
+j'aurai été banni(e)
+tu auras été banni(e)
+il (elle) aura été banni(e)
+nous aurons été banni(e)s
+vous aurez été banni(e)s
+ils (elles) auront été banni(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été banni(e)
+j'aurais été banni(e)
+il (elle) aurait été banni(e)
+nous aurions été banni(e)s
+vous auriez été banni(e)s
+ils (elles) auraient été banni(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été banni(e)
+que tu aies été banni(e)
+qu’il (elle) ait été banni(e)
+que nous ayons été banni(e)s
+que vous ayez été banni(e)s
+qu’ils (elles) aient été banni(e)s
+
+** Plus-que-parfait
+
+que j'eusse été banni(e)
+que tu eusses été banni(e)
+qu’il (elle) eût été banni(e)
+que nous eussions été banni(e)s
+que vous eussiez été banni(e)s
+qu’ils (elles) eussent été banni(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été banni(e)
+ayons été banni(e)s
+ayez été banni(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été banni(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été banni(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe depecher
+
+* INDICATIF
+
+** Présent
+
+je dépêche
+tu dépêches
+il (elle) dépêche
+nous dépêchons
+vous dépêchez
+ils (elles) dépêchent
+
+** Imparfait
+
+je dépêchais
+tu dépêchais
+il (elle) dépêchait
+nous dépêchions
+vous dépêchiez
+ils (elles) dépêchaient
+
+** Passé simple
+
+je dépêchai
+tu dépêchas
+il (elle) dépêcha
+nous dépêchâmes
+vous dépêchâtes
+ils (elles) dépêchèrent
+
+** Futur simple
+
+je dépêcherai
+tu dépêcheras
+il (elle) dépêchera
+nous dépêcherons
+vous dépêcherez
+ils (elles) dépêcheront
+
+* CONDITIONNEL
+
+** Présent
+
+je dépêcherais
+tu dépêcherais
+il (elle) dépêcherait
+nous dépêcherions
+vous dépêcheriez
+ils (elles) dépêcheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je dépêche
+que tu dépêches
+qu’il (elle) dépêche
+que nous dépêchions
+que vous dépêchiez
+qu’ils (elles) dépêchent
+
+** Imparfait
+
+que je dépêchasse
+que tu dépêchasses
+qu’il (elle) dépêchât
+que nous dépêchassions
+que vous dépêchassiez
+qu’ils (elles) dépêchassent
+
+* IMPÉRATIF
+
+** Présent
+
+dépêche
+dépêchons
+dépêchez
+
+* INFINITIF
+
+** Présent
+
+dépêcher
+
+* PARTICIPE
+
+** Présent
+
+dépêchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai dépêché
+tu as dépêché
+il (elle) a dépêché
+nous avons dépêché
+vous avez dépêché
+ils (elles) ont dépêché
+
+** Plus-que-parfait
+
+j'avais dépêché
+tu avais dépêché
+il (elle) avait dépêché
+nous avions dépêché
+vous aviez dépêché
+ils (elles) avaient dépêché
+
+** Passé antérieur
+
+j'eus dépêché
+tu eus dépêché
+il (elle) eut dépêché
+nous eûmes dépêché
+vous eûtes dépêché
+ils (elles) eurent dépêché
+
+** Futur antérieur
+
+j'aurai dépêché
+tu auras dépêché
+il (elle) aura dépêché
+nous aurons dépêché
+vous aurez dépêché
+ils (elles) auront dépêché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais dépêché
+tu aurais dépêché
+il (elle) aurait dépêché
+nous aurions dépêché
+vous auriez dépêché
+ils (elles) auraient dépêché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie dépêché
+que tu aies dépêché
+qu’il (elle) ait dépêché
+que nous ayons dépêché
+que vous ayez dépêché
+qu’ils (elles) aient dépêché
+
+** Plus-que-parfait
+
+que j'eusse dépêché
+que tu eusses dépêché
+qu’il (elle) eût dépêché
+que nous eussions dépêché
+que vous eussiez dépêché
+qu’ils (elles) eussent dépêché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons dépêché
+ayez dépêché
+
+* INFINITIF
+
+** Passé
+
+avoir dépêché
+
+* PARTICIPE
+
+** Passé
+
+ayant dépêché
+dépêché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis dépêché(e)
+tu es dépêché(e)
+il (elle) est dépêché(e)
+nous sommes dépêché(e)s
+vous êtes dépêché(e)s
+ils (elles) sont dépêché(e)s
+
+** Imparfait
+
+j'étais dépêché(e)
+tu étais dépêché(e)
+il (elle) était dépêché(e)
+nous étions dépêché(e)s
+vous étiez dépêché(e)s
+ils (elles) étaient dépêché(e)s
+
+** Passé simple
+
+je fus dépêché(e)
+tu fus dépêché(e)
+il (elle) fut dépêché(e)
+nous fûmes dépêché(e)s
+vous fûtes dépêché(e)s
+ils (elles) furent dépêché(e)s
+
+** Futur simple
+
+je serai dépêché(e)
+tu seras dépêché(e)
+il (elle) sera dépêché(e)
+nous serons dépêché(e)s
+vous serez dépêché(e)s
+ils (elles) seront dépêché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais dépêché(e)
+tu serais dépêché(e)
+il (elle) serait dépêché(e)
+nous serions dépêché(e)s
+vous seriez dépêché(e)s
+ils (elles) seraient dépêché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois dépêché(e)
+que tu sois dépêché(e)
+qu’il (elle) soit dépêché(e)
+que nous soyons dépêché(e)s
+que vous soyez dépêché(e)s
+qu’ils (elles) soient dépêché(e)s
+
+** Imparfait
+
+que je fusse dépêché(e)
+que tu fusses dépêché(e)
+qu’il (elle) fût dépêché(e)
+que nous fussions dépêché(e)s
+que vous fussiez dépêché(e)s
+qu’ils (elles) fussent dépêché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons dépêché(e)s
+soyez dépêché(e)s
+
+* INFINITIF
+
+** Présent
+
+être dépêché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant dépêché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été dépêché(e)
+tu as été dépêché(e)
+il (elle) a été dépêché(e)
+nous avons été dépêché(e)s
+vous avez été dépêché(e)s
+ils (elles) ont été dépêché(e)s
+
+** Plus-que-parfait
+
+j'avais été dépêché(e)
+il (elle) avait été dépêché(e)
+nous avions été dépêché(e)s
+ils (elles) avaient été dépêché(e)s
+
+** Passé antérieur
+
+j'eus été dépêché(e)
+tu eus été dépêché(e)
+il (elle) eut été dépêché(e)
+nous eûmes été dépêché(e)s
+vous eûtes été dépêché(e)s
+ils (elles) eurent été dépêché(e)s
+
+** Futur antérieur
+
+j'aurai été dépêché(e)
+tu auras été dépêché(e)
+il (elle) aura été dépêché(e)
+nous aurons été dépêché(e)s
+vous aurez été dépêché(e)s
+ils (elles) auront été dépêché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été dépêché(e)
+j'aurais été dépêché(e)
+il (elle) aurait été dépêché(e)
+nous aurions été dépêché(e)s
+vous auriez été dépêché(e)s
+ils (elles) auraient été dépêché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été dépêché(e)
+que tu aies été dépêché(e)
+qu’il (elle) ait été dépêché(e)
+que nous ayons été dépêché(e)s
+que vous ayez été dépêché(e)s
+qu’ils (elles) aient été dépêché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été dépêché(e)
+que tu eusses été dépêché(e)
+qu’il (elle) eût été dépêché(e)
+que nous eussions été dépêché(e)s
+que vous eussiez été dépêché(e)s
+qu’ils (elles) eussent été dépêché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été dépêché(e)
+ayons été dépêché(e)s
+ayez été dépêché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été dépêché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été dépêché(e)(s)

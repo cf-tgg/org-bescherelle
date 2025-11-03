@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe allumer
+
+* INDICATIF
+
+** Présent
+
+j'allume
+tu allumes
+il (elle) allume
+nous allumons
+vous allumez
+ils (elles) allument
+
+** Imparfait
+
+j'allumais
+tu allumais
+il (elle) allumait
+nous allumions
+vous allumiez
+ils (elles) allumaient
+
+** Passé simple
+
+j'allumai
+tu allumas
+il (elle) alluma
+nous allumâmes
+vous allumâtes
+ils (elles) allumèrent
+
+** Futur simple
+
+j'allumerai
+tu allumeras
+il (elle) allumera
+nous allumerons
+vous allumerez
+ils (elles) allumeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'allumerais
+tu allumerais
+il (elle) allumerait
+nous allumerions
+vous allumeriez
+ils (elles) allumeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'allume
+que tu allumes
+qu’il (elle) allume
+que nous allumions
+que vous allumiez
+qu’ils (elles) allument
+
+** Imparfait
+
+que j'allumasse
+que tu allumasses
+qu’il (elle) allumât
+que nous allumassions
+que vous allumassiez
+qu’ils (elles) allumassent
+
+* IMPÉRATIF
+
+** Présent
+
+allume
+allumons
+allumez
+
+* INFINITIF
+
+** Présent
+
+allumer
+
+* PARTICIPE
+
+** Présent
+
+allumant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai allumé
+tu as allumé
+il (elle) a allumé
+nous avons allumé
+vous avez allumé
+ils (elles) ont allumé
+
+** Plus-que-parfait
+
+j'avais allumé
+tu avais allumé
+il (elle) avait allumé
+nous avions allumé
+vous aviez allumé
+ils (elles) avaient allumé
+
+** Passé antérieur
+
+j'eus allumé
+tu eus allumé
+il (elle) eut allumé
+nous eûmes allumé
+vous eûtes allumé
+ils (elles) eurent allumé
+
+** Futur antérieur
+
+j'aurai allumé
+tu auras allumé
+il (elle) aura allumé
+nous aurons allumé
+vous aurez allumé
+ils (elles) auront allumé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais allumé
+tu aurais allumé
+il (elle) aurait allumé
+nous aurions allumé
+vous auriez allumé
+ils (elles) auraient allumé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie allumé
+que tu aies allumé
+qu’il (elle) ait allumé
+que nous ayons allumé
+que vous ayez allumé
+qu’ils (elles) aient allumé
+
+** Plus-que-parfait
+
+que j'eusse allumé
+que tu eusses allumé
+qu’il (elle) eût allumé
+que nous eussions allumé
+que vous eussiez allumé
+qu’ils (elles) eussent allumé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons allumé
+ayez allumé
+
+* INFINITIF
+
+** Passé
+
+avoir allumé
+
+* PARTICIPE
+
+** Passé
+
+ayant allumé
+allumé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis allumé(e)
+tu es allumé(e)
+il (elle) est allumé(e)
+nous sommes allumé(e)s
+vous êtes allumé(e)s
+ils (elles) sont allumé(e)s
+
+** Imparfait
+
+j'étais allumé(e)
+tu étais allumé(e)
+il (elle) était allumé(e)
+nous étions allumé(e)s
+vous étiez allumé(e)s
+ils (elles) étaient allumé(e)s
+
+** Passé simple
+
+je fus allumé(e)
+tu fus allumé(e)
+il (elle) fut allumé(e)
+nous fûmes allumé(e)s
+vous fûtes allumé(e)s
+ils (elles) furent allumé(e)s
+
+** Futur simple
+
+je serai allumé(e)
+tu seras allumé(e)
+il (elle) sera allumé(e)
+nous serons allumé(e)s
+vous serez allumé(e)s
+ils (elles) seront allumé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais allumé(e)
+tu serais allumé(e)
+il (elle) serait allumé(e)
+nous serions allumé(e)s
+vous seriez allumé(e)s
+ils (elles) seraient allumé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois allumé(e)
+que tu sois allumé(e)
+qu’il (elle) soit allumé(e)
+que nous soyons allumé(e)s
+que vous soyez allumé(e)s
+qu’ils (elles) soient allumé(e)s
+
+** Imparfait
+
+que je fusse allumé(e)
+que tu fusses allumé(e)
+qu’il (elle) fût allumé(e)
+que nous fussions allumé(e)s
+que vous fussiez allumé(e)s
+qu’ils (elles) fussent allumé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons allumé(e)s
+soyez allumé(e)s
+
+* INFINITIF
+
+** Présent
+
+être allumé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant allumé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été allumé(e)
+tu as été allumé(e)
+il (elle) a été allumé(e)
+nous avons été allumé(e)s
+vous avez été allumé(e)s
+ils (elles) ont été allumé(e)s
+
+** Plus-que-parfait
+
+j'avais été allumé(e)
+il (elle) avait été allumé(e)
+nous avions été allumé(e)s
+ils (elles) avaient été allumé(e)s
+
+** Passé antérieur
+
+j'eus été allumé(e)
+tu eus été allumé(e)
+il (elle) eut été allumé(e)
+nous eûmes été allumé(e)s
+vous eûtes été allumé(e)s
+ils (elles) eurent été allumé(e)s
+
+** Futur antérieur
+
+j'aurai été allumé(e)
+tu auras été allumé(e)
+il (elle) aura été allumé(e)
+nous aurons été allumé(e)s
+vous aurez été allumé(e)s
+ils (elles) auront été allumé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été allumé(e)
+j'aurais été allumé(e)
+il (elle) aurait été allumé(e)
+nous aurions été allumé(e)s
+vous auriez été allumé(e)s
+ils (elles) auraient été allumé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été allumé(e)
+que tu aies été allumé(e)
+qu’il (elle) ait été allumé(e)
+que nous ayons été allumé(e)s
+que vous ayez été allumé(e)s
+qu’ils (elles) aient été allumé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été allumé(e)
+que tu eusses été allumé(e)
+qu’il (elle) eût été allumé(e)
+que nous eussions été allumé(e)s
+que vous eussiez été allumé(e)s
+qu’ils (elles) eussent été allumé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été allumé(e)
+ayons été allumé(e)s
+ayez été allumé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été allumé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été allumé(e)(s)

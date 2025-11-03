@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe relayer
+
+* INDICATIF
+
+** Présent
+
+je relaie / relaye
+tu relaies / relayes
+il (elle) relaie / relaye
+nous relayons
+vous relayez
+ils (elles) relaient / relayent
+
+** Imparfait
+
+je relayais
+tu relayais
+il (elle) relayait
+nous relayions
+vous relayiez
+ils (elles) relayaient
+
+** Passé simple
+
+je relayai
+tu relayas
+il (elle) relaya
+nous relayâmes
+vous relayâtes
+ils (elles) relayèrent
+
+** Futur simple
+
+je relaierai / relayerai
+tu relaieras / relayeras
+il (elle) relaiera / relayera
+nous relaierons / relayerons
+vous relaierez / relayerez
+ils (elles) relaieront / relayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je relaierais / relayerais
+tu relaierais / relayerais
+il (elle) relaierait / relayerait
+nous relaierions / relayerions
+vous relaieriez / relayeriez
+ils (elles) relaieraient / relayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je relaie / relaye
+que tu relaies / relayes
+qu’il (elle) relaie / relaye
+que nous relayions
+que vous relayiez
+qu’ils (elles) relaient / relayent
+
+** Imparfait
+
+que je relayasse
+que tu relayasses
+qu’il (elle) relayât
+que nous relayassions
+que vous relayassiez
+qu’ils (elles) relayassent
+
+* IMPÉRATIF
+
+** Présent
+
+relaie / relaye
+relayons
+relayez
+
+* INFINITIF
+
+** Présent
+
+relayer
+
+* PARTICIPE
+
+** Présent
+
+relayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai relayé
+tu as relayé
+il (elle) a relayé
+nous avons relayé
+vous avez relayé
+ils (elles) ont relayé
+
+** Plus-que-parfait
+
+j'avais relayé
+tu avais relayé
+il (elle) avait relayé
+nous avions relayé
+vous aviez relayé
+ils (elles) avaient relayé
+
+** Passé antérieur
+
+j'eus relayé
+tu eus relayé
+il (elle) eut relayé
+nous eûmes relayé
+vous eûtes relayé
+ils (elles) eurent relayé
+
+** Futur antérieur
+
+j'aurai relayé
+tu auras relayé
+il (elle) aura relayé
+nous aurons relayé
+vous aurez relayé
+ils (elles) auront relayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais relayé
+tu aurais relayé
+il (elle) aurait relayé
+nous aurions relayé
+vous auriez relayé
+ils (elles) auraient relayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie relayé
+que tu aies relayé
+qu’il (elle) ait relayé
+que nous ayons relayé
+que vous ayez relayé
+qu’ils (elles) aient relayé
+
+** Plus-que-parfait
+
+que j'eusse relayé
+que tu eusses relayé
+qu’il (elle) eût relayé
+que nous eussions relayé
+que vous eussiez relayé
+qu’ils (elles) eussent relayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons relayé
+ayez relayé
+
+* INFINITIF
+
+** Passé
+
+avoir relayé
+
+* PARTICIPE
+
+** Passé
+
+ayant relayé
+relayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis relayé(e)
+tu es relayé(e)
+il (elle) est relayé(e)
+nous sommes relayé(e)s
+vous êtes relayé(e)s
+ils (elles) sont relayé(e)s
+
+** Imparfait
+
+j'étais relayé(e)
+tu étais relayé(e)
+il (elle) était relayé(e)
+nous étions relayé(e)s
+vous étiez relayé(e)s
+ils (elles) étaient relayé(e)s
+
+** Passé simple
+
+je fus relayé(e)
+tu fus relayé(e)
+il (elle) fut relayé(e)
+nous fûmes relayé(e)s
+vous fûtes relayé(e)s
+ils (elles) furent relayé(e)s
+
+** Futur simple
+
+je serai relayé(e)
+tu seras relayé(e)
+il (elle) sera relayé(e)
+nous serons relayé(e)s
+vous serez relayé(e)s
+ils (elles) seront relayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais relayé(e)
+tu serais relayé(e)
+il (elle) serait relayé(e)
+nous serions relayé(e)s
+vous seriez relayé(e)s
+ils (elles) seraient relayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois relayé(e)
+que tu sois relayé(e)
+qu’il (elle) soit relayé(e)
+que nous soyons relayé(e)s
+que vous soyez relayé(e)s
+qu’ils (elles) soient relayé(e)s
+
+** Imparfait
+
+que je fusse relayé(e)
+que tu fusses relayé(e)
+qu’il (elle) fût relayé(e)
+que nous fussions relayé(e)s
+que vous fussiez relayé(e)s
+qu’ils (elles) fussent relayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons relayé(e)s
+soyez relayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être relayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant relayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été relayé(e)
+tu as été relayé(e)
+il (elle) a été relayé(e)
+nous avons été relayé(e)s
+vous avez été relayé(e)s
+ils (elles) ont été relayé(e)s
+
+** Plus-que-parfait
+
+j'avais été relayé(e)
+il (elle) avait été relayé(e)
+nous avions été relayé(e)s
+ils (elles) avaient été relayé(e)s
+
+** Passé antérieur
+
+j'eus été relayé(e)
+tu eus été relayé(e)
+il (elle) eut été relayé(e)
+nous eûmes été relayé(e)s
+vous eûtes été relayé(e)s
+ils (elles) eurent été relayé(e)s
+
+** Futur antérieur
+
+j'aurai été relayé(e)
+tu auras été relayé(e)
+il (elle) aura été relayé(e)
+nous aurons été relayé(e)s
+vous aurez été relayé(e)s
+ils (elles) auront été relayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été relayé(e)
+j'aurais été relayé(e)
+il (elle) aurait été relayé(e)
+nous aurions été relayé(e)s
+vous auriez été relayé(e)s
+ils (elles) auraient été relayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été relayé(e)
+que tu aies été relayé(e)
+qu’il (elle) ait été relayé(e)
+que nous ayons été relayé(e)s
+que vous ayez été relayé(e)s
+qu’ils (elles) aient été relayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été relayé(e)
+que tu eusses été relayé(e)
+qu’il (elle) eût été relayé(e)
+que nous eussions été relayé(e)s
+que vous eussiez été relayé(e)s
+qu’ils (elles) eussent été relayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été relayé(e)
+ayons été relayé(e)s
+ayez été relayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été relayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été relayé(e)(s)

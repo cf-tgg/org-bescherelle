@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ployer
+
+* INDICATIF
+
+** Présent
+
+je ploie
+tu ploies
+il (elle) ploie
+nous ployons
+vous ployez
+ils (elles) ploient
+
+** Imparfait
+
+je ployais
+tu ployais
+il (elle) ployait
+nous ployions
+vous ployiez
+ils (elles) ployaient
+
+** Passé simple
+
+je ployai
+tu ployas
+il (elle) ploya
+nous ployâmes
+vous ployâtes
+ils (elles) ployèrent
+
+** Futur simple
+
+je ploierai
+tu ploieras
+il (elle) ploiera
+nous ploierons
+vous ploierez
+ils (elles) ploieront
+
+* CONDITIONNEL
+
+** Présent
+
+je ploierais
+tu ploierais
+il (elle) ploierait
+nous ploierions
+vous ploieriez
+ils (elles) ploieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ploie
+que tu ploies
+qu’il (elle) ploie
+que nous ployions
+que vous ployiez
+qu’ils (elles) ploient
+
+** Imparfait
+
+que je ployasse
+que tu ployasses
+qu’il (elle) ployât
+que nous ployassions
+que vous ployassiez
+qu’ils (elles) ployassent
+
+* IMPÉRATIF
+
+** Présent
+
+ploie
+ployons
+ployez
+
+* INFINITIF
+
+** Présent
+
+ployer
+
+* PARTICIPE
+
+** Présent
+
+ployant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ployé
+tu as ployé
+il (elle) a ployé
+nous avons ployé
+vous avez ployé
+ils (elles) ont ployé
+
+** Plus-que-parfait
+
+j'avais ployé
+tu avais ployé
+il (elle) avait ployé
+nous avions ployé
+vous aviez ployé
+ils (elles) avaient ployé
+
+** Passé antérieur
+
+j'eus ployé
+tu eus ployé
+il (elle) eut ployé
+nous eûmes ployé
+vous eûtes ployé
+ils (elles) eurent ployé
+
+** Futur antérieur
+
+j'aurai ployé
+tu auras ployé
+il (elle) aura ployé
+nous aurons ployé
+vous aurez ployé
+ils (elles) auront ployé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ployé
+tu aurais ployé
+il (elle) aurait ployé
+nous aurions ployé
+vous auriez ployé
+ils (elles) auraient ployé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ployé
+que tu aies ployé
+qu’il (elle) ait ployé
+que nous ayons ployé
+que vous ayez ployé
+qu’ils (elles) aient ployé
+
+** Plus-que-parfait
+
+que j'eusse ployé
+que tu eusses ployé
+qu’il (elle) eût ployé
+que nous eussions ployé
+que vous eussiez ployé
+qu’ils (elles) eussent ployé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ployé
+ayez ployé
+
+* INFINITIF
+
+** Passé
+
+avoir ployé
+
+* PARTICIPE
+
+** Passé
+
+ayant ployé
+ployé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis ployé(e)
+tu es ployé(e)
+il (elle) est ployé(e)
+nous sommes ployé(e)s
+vous êtes ployé(e)s
+ils (elles) sont ployé(e)s
+
+** Imparfait
+
+j'étais ployé(e)
+tu étais ployé(e)
+il (elle) était ployé(e)
+nous étions ployé(e)s
+vous étiez ployé(e)s
+ils (elles) étaient ployé(e)s
+
+** Passé simple
+
+je fus ployé(e)
+tu fus ployé(e)
+il (elle) fut ployé(e)
+nous fûmes ployé(e)s
+vous fûtes ployé(e)s
+ils (elles) furent ployé(e)s
+
+** Futur simple
+
+je serai ployé(e)
+tu seras ployé(e)
+il (elle) sera ployé(e)
+nous serons ployé(e)s
+vous serez ployé(e)s
+ils (elles) seront ployé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ployé(e)
+tu serais ployé(e)
+il (elle) serait ployé(e)
+nous serions ployé(e)s
+vous seriez ployé(e)s
+ils (elles) seraient ployé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ployé(e)
+que tu sois ployé(e)
+qu’il (elle) soit ployé(e)
+que nous soyons ployé(e)s
+que vous soyez ployé(e)s
+qu’ils (elles) soient ployé(e)s
+
+** Imparfait
+
+que je fusse ployé(e)
+que tu fusses ployé(e)
+qu’il (elle) fût ployé(e)
+que nous fussions ployé(e)s
+que vous fussiez ployé(e)s
+qu’ils (elles) fussent ployé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ployé(e)s
+soyez ployé(e)s
+
+* INFINITIF
+
+** Présent
+
+être ployé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ployé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ployé(e)
+tu as été ployé(e)
+il (elle) a été ployé(e)
+nous avons été ployé(e)s
+vous avez été ployé(e)s
+ils (elles) ont été ployé(e)s
+
+** Plus-que-parfait
+
+j'avais été ployé(e)
+il (elle) avait été ployé(e)
+nous avions été ployé(e)s
+ils (elles) avaient été ployé(e)s
+
+** Passé antérieur
+
+j'eus été ployé(e)
+tu eus été ployé(e)
+il (elle) eut été ployé(e)
+nous eûmes été ployé(e)s
+vous eûtes été ployé(e)s
+ils (elles) eurent été ployé(e)s
+
+** Futur antérieur
+
+j'aurai été ployé(e)
+tu auras été ployé(e)
+il (elle) aura été ployé(e)
+nous aurons été ployé(e)s
+vous aurez été ployé(e)s
+ils (elles) auront été ployé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ployé(e)
+j'aurais été ployé(e)
+il (elle) aurait été ployé(e)
+nous aurions été ployé(e)s
+vous auriez été ployé(e)s
+ils (elles) auraient été ployé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ployé(e)
+que tu aies été ployé(e)
+qu’il (elle) ait été ployé(e)
+que nous ayons été ployé(e)s
+que vous ayez été ployé(e)s
+qu’ils (elles) aient été ployé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ployé(e)
+que tu eusses été ployé(e)
+qu’il (elle) eût été ployé(e)
+que nous eussions été ployé(e)s
+que vous eussiez été ployé(e)s
+qu’ils (elles) eussent été ployé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ployé(e)
+ayons été ployé(e)s
+ayez été ployé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ployé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ployé(e)(s)

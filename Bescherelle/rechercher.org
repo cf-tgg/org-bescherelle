@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rechercher
+
+* INDICATIF
+
+** Présent
+
+je recherche
+tu recherches
+il (elle) recherche
+nous recherchons
+vous recherchez
+ils (elles) recherchent
+
+** Imparfait
+
+je recherchais
+tu recherchais
+il (elle) recherchait
+nous recherchions
+vous recherchiez
+ils (elles) recherchaient
+
+** Passé simple
+
+je recherchai
+tu recherchas
+il (elle) rechercha
+nous recherchâmes
+vous recherchâtes
+ils (elles) recherchèrent
+
+** Futur simple
+
+je rechercherai
+tu rechercheras
+il (elle) recherchera
+nous rechercherons
+vous rechercherez
+ils (elles) rechercheront
+
+* CONDITIONNEL
+
+** Présent
+
+je rechercherais
+tu rechercherais
+il (elle) rechercherait
+nous rechercherions
+vous rechercheriez
+ils (elles) rechercheraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je recherche
+que tu recherches
+qu’il (elle) recherche
+que nous recherchions
+que vous recherchiez
+qu’ils (elles) recherchent
+
+** Imparfait
+
+que je recherchasse
+que tu recherchasses
+qu’il (elle) recherchât
+que nous recherchassions
+que vous recherchassiez
+qu’ils (elles) recherchassent
+
+* IMPÉRATIF
+
+** Présent
+
+recherche
+recherchons
+recherchez
+
+* INFINITIF
+
+** Présent
+
+rechercher
+
+* PARTICIPE
+
+** Présent
+
+recherchant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai recherché
+tu as recherché
+il (elle) a recherché
+nous avons recherché
+vous avez recherché
+ils (elles) ont recherché
+
+** Plus-que-parfait
+
+j'avais recherché
+tu avais recherché
+il (elle) avait recherché
+nous avions recherché
+vous aviez recherché
+ils (elles) avaient recherché
+
+** Passé antérieur
+
+j'eus recherché
+tu eus recherché
+il (elle) eut recherché
+nous eûmes recherché
+vous eûtes recherché
+ils (elles) eurent recherché
+
+** Futur antérieur
+
+j'aurai recherché
+tu auras recherché
+il (elle) aura recherché
+nous aurons recherché
+vous aurez recherché
+ils (elles) auront recherché
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais recherché
+tu aurais recherché
+il (elle) aurait recherché
+nous aurions recherché
+vous auriez recherché
+ils (elles) auraient recherché
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie recherché
+que tu aies recherché
+qu’il (elle) ait recherché
+que nous ayons recherché
+que vous ayez recherché
+qu’ils (elles) aient recherché
+
+** Plus-que-parfait
+
+que j'eusse recherché
+que tu eusses recherché
+qu’il (elle) eût recherché
+que nous eussions recherché
+que vous eussiez recherché
+qu’ils (elles) eussent recherché
+
+* IMPÉRATIF
+
+** Passé
+
+ayons recherché
+ayez recherché
+
+* INFINITIF
+
+** Passé
+
+avoir recherché
+
+* PARTICIPE
+
+** Passé
+
+ayant recherché
+recherché (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis recherché(e)
+tu es recherché(e)
+il (elle) est recherché(e)
+nous sommes recherché(e)s
+vous êtes recherché(e)s
+ils (elles) sont recherché(e)s
+
+** Imparfait
+
+j'étais recherché(e)
+tu étais recherché(e)
+il (elle) était recherché(e)
+nous étions recherché(e)s
+vous étiez recherché(e)s
+ils (elles) étaient recherché(e)s
+
+** Passé simple
+
+je fus recherché(e)
+tu fus recherché(e)
+il (elle) fut recherché(e)
+nous fûmes recherché(e)s
+vous fûtes recherché(e)s
+ils (elles) furent recherché(e)s
+
+** Futur simple
+
+je serai recherché(e)
+tu seras recherché(e)
+il (elle) sera recherché(e)
+nous serons recherché(e)s
+vous serez recherché(e)s
+ils (elles) seront recherché(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais recherché(e)
+tu serais recherché(e)
+il (elle) serait recherché(e)
+nous serions recherché(e)s
+vous seriez recherché(e)s
+ils (elles) seraient recherché(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois recherché(e)
+que tu sois recherché(e)
+qu’il (elle) soit recherché(e)
+que nous soyons recherché(e)s
+que vous soyez recherché(e)s
+qu’ils (elles) soient recherché(e)s
+
+** Imparfait
+
+que je fusse recherché(e)
+que tu fusses recherché(e)
+qu’il (elle) fût recherché(e)
+que nous fussions recherché(e)s
+que vous fussiez recherché(e)s
+qu’ils (elles) fussent recherché(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons recherché(e)s
+soyez recherché(e)s
+
+* INFINITIF
+
+** Présent
+
+être recherché(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant recherché(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été recherché(e)
+tu as été recherché(e)
+il (elle) a été recherché(e)
+nous avons été recherché(e)s
+vous avez été recherché(e)s
+ils (elles) ont été recherché(e)s
+
+** Plus-que-parfait
+
+j'avais été recherché(e)
+il (elle) avait été recherché(e)
+nous avions été recherché(e)s
+ils (elles) avaient été recherché(e)s
+
+** Passé antérieur
+
+j'eus été recherché(e)
+tu eus été recherché(e)
+il (elle) eut été recherché(e)
+nous eûmes été recherché(e)s
+vous eûtes été recherché(e)s
+ils (elles) eurent été recherché(e)s
+
+** Futur antérieur
+
+j'aurai été recherché(e)
+tu auras été recherché(e)
+il (elle) aura été recherché(e)
+nous aurons été recherché(e)s
+vous aurez été recherché(e)s
+ils (elles) auront été recherché(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été recherché(e)
+j'aurais été recherché(e)
+il (elle) aurait été recherché(e)
+nous aurions été recherché(e)s
+vous auriez été recherché(e)s
+ils (elles) auraient été recherché(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été recherché(e)
+que tu aies été recherché(e)
+qu’il (elle) ait été recherché(e)
+que nous ayons été recherché(e)s
+que vous ayez été recherché(e)s
+qu’ils (elles) aient été recherché(e)s
+
+** Plus-que-parfait
+
+que j'eusse été recherché(e)
+que tu eusses été recherché(e)
+qu’il (elle) eût été recherché(e)
+que nous eussions été recherché(e)s
+que vous eussiez été recherché(e)s
+qu’ils (elles) eussent été recherché(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été recherché(e)
+ayons été recherché(e)s
+ayez été recherché(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été recherché(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été recherché(e)(s)

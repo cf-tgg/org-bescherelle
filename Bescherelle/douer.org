@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe douer
+
+* INDICATIF
+
+** Présent
+
+je doue
+tu doues
+il (elle) doue
+nous douons
+vous douez
+ils (elles) douent
+
+** Imparfait
+
+je douais
+tu douais
+il (elle) douait
+nous douions
+vous douiez
+ils (elles) douaient
+
+** Passé simple
+
+je douai
+tu douas
+il (elle) doua
+nous douâmes
+vous douâtes
+ils (elles) douèrent
+
+** Futur simple
+
+je douerai
+tu doueras
+il (elle) douera
+nous douerons
+vous douerez
+ils (elles) doueront
+
+* CONDITIONNEL
+
+** Présent
+
+je douerais
+tu douerais
+il (elle) douerait
+nous douerions
+vous doueriez
+ils (elles) doueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je doue
+que tu doues
+qu’il (elle) doue
+que nous douions
+que vous douiez
+qu’ils (elles) douent
+
+** Imparfait
+
+que je douasse
+que tu douasses
+qu’il (elle) douât
+que nous douassions
+que vous douassiez
+qu’ils (elles) douassent
+
+* IMPÉRATIF
+
+** Présent
+
+doue
+douons
+douez
+
+* INFINITIF
+
+** Présent
+
+douer
+
+* PARTICIPE
+
+** Présent
+
+douant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai doué
+tu as doué
+il (elle) a doué
+nous avons doué
+vous avez doué
+ils (elles) ont doué
+
+** Plus-que-parfait
+
+j'avais doué
+tu avais doué
+il (elle) avait doué
+nous avions doué
+vous aviez doué
+ils (elles) avaient doué
+
+** Passé antérieur
+
+j'eus doué
+tu eus doué
+il (elle) eut doué
+nous eûmes doué
+vous eûtes doué
+ils (elles) eurent doué
+
+** Futur antérieur
+
+j'aurai doué
+tu auras doué
+il (elle) aura doué
+nous aurons doué
+vous aurez doué
+ils (elles) auront doué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais doué
+tu aurais doué
+il (elle) aurait doué
+nous aurions doué
+vous auriez doué
+ils (elles) auraient doué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie doué
+que tu aies doué
+qu’il (elle) ait doué
+que nous ayons doué
+que vous ayez doué
+qu’ils (elles) aient doué
+
+** Plus-que-parfait
+
+que j'eusse doué
+que tu eusses doué
+qu’il (elle) eût doué
+que nous eussions doué
+que vous eussiez doué
+qu’ils (elles) eussent doué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons doué
+ayez doué
+
+* INFINITIF
+
+** Passé
+
+avoir doué
+
+* PARTICIPE
+
+** Passé
+
+ayant doué
+doué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis doué(e)
+tu es doué(e)
+il (elle) est doué(e)
+nous sommes doué(e)s
+vous êtes doué(e)s
+ils (elles) sont doué(e)s
+
+** Imparfait
+
+j'étais doué(e)
+tu étais doué(e)
+il (elle) était doué(e)
+nous étions doué(e)s
+vous étiez doué(e)s
+ils (elles) étaient doué(e)s
+
+** Passé simple
+
+je fus doué(e)
+tu fus doué(e)
+il (elle) fut doué(e)
+nous fûmes doué(e)s
+vous fûtes doué(e)s
+ils (elles) furent doué(e)s
+
+** Futur simple
+
+je serai doué(e)
+tu seras doué(e)
+il (elle) sera doué(e)
+nous serons doué(e)s
+vous serez doué(e)s
+ils (elles) seront doué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais doué(e)
+tu serais doué(e)
+il (elle) serait doué(e)
+nous serions doué(e)s
+vous seriez doué(e)s
+ils (elles) seraient doué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois doué(e)
+que tu sois doué(e)
+qu’il (elle) soit doué(e)
+que nous soyons doué(e)s
+que vous soyez doué(e)s
+qu’ils (elles) soient doué(e)s
+
+** Imparfait
+
+que je fusse doué(e)
+que tu fusses doué(e)
+qu’il (elle) fût doué(e)
+que nous fussions doué(e)s
+que vous fussiez doué(e)s
+qu’ils (elles) fussent doué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons doué(e)s
+soyez doué(e)s
+
+* INFINITIF
+
+** Présent
+
+être doué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant doué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été doué(e)
+tu as été doué(e)
+il (elle) a été doué(e)
+nous avons été doué(e)s
+vous avez été doué(e)s
+ils (elles) ont été doué(e)s
+
+** Plus-que-parfait
+
+j'avais été doué(e)
+il (elle) avait été doué(e)
+nous avions été doué(e)s
+ils (elles) avaient été doué(e)s
+
+** Passé antérieur
+
+j'eus été doué(e)
+tu eus été doué(e)
+il (elle) eut été doué(e)
+nous eûmes été doué(e)s
+vous eûtes été doué(e)s
+ils (elles) eurent été doué(e)s
+
+** Futur antérieur
+
+j'aurai été doué(e)
+tu auras été doué(e)
+il (elle) aura été doué(e)
+nous aurons été doué(e)s
+vous aurez été doué(e)s
+ils (elles) auront été doué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été doué(e)
+j'aurais été doué(e)
+il (elle) aurait été doué(e)
+nous aurions été doué(e)s
+vous auriez été doué(e)s
+ils (elles) auraient été doué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été doué(e)
+que tu aies été doué(e)
+qu’il (elle) ait été doué(e)
+que nous ayons été doué(e)s
+que vous ayez été doué(e)s
+qu’ils (elles) aient été doué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été doué(e)
+que tu eusses été doué(e)
+qu’il (elle) eût été doué(e)
+que nous eussions été doué(e)s
+que vous eussiez été doué(e)s
+qu’ils (elles) eussent été doué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été doué(e)
+ayons été doué(e)s
+ayez été doué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été doué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été doué(e)(s)

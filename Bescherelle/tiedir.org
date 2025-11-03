@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tiedir
+
+* INDICATIF
+
+** Présent
+
+je tiédis
+tu tiédis
+il (elle) tiédit
+nous tiédissons
+vous tiédissez
+ils (elles) tiédissent
+
+** Imparfait
+
+je tiédissais
+tu tiédissais
+il (elle) tiédissait
+nous tiédissions
+vous tiédissiez
+ils (elles) tiédissaient
+
+** Passé simple
+
+je tiédis
+tu tiédis
+il (elle) tiédit
+nous tiédîmes
+vous tiédîtes
+ils (elles) tiédirent
+
+** Futur simple
+
+je tiédirai
+tu tiédiras
+il (elle) tiédira
+nous tiédirons
+vous tiédirez
+ils (elles) tiédiront
+
+* CONDITIONNEL
+
+** Présent
+
+je tiédirais
+tu tiédirais
+il (elle) tiédirait
+nous tiédirions
+vous tiédiriez
+ils (elles) tiédiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tiédisse
+que tu tiédisses
+qu’il (elle) tiédisse
+que nous tiédissions
+que vous tiédissiez
+qu’ils (elles) tiédissent
+
+** Imparfait
+
+que je tiédisse
+que tu tiédisses
+qu’il (elle) tiédît
+que nous tiédissions
+que vous tiédissiez
+qu’ils (elles) tiédissent
+
+* IMPÉRATIF
+
+** Présent
+
+tiédis
+tiédissons
+tiédissez
+
+* INFINITIF
+
+** Présent
+
+tiédir
+
+* PARTICIPE
+
+** Présent
+
+tiédissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tiédi
+tu as tiédi
+il (elle) a tiédi
+nous avons tiédi
+vous avez tiédi
+ils (elles) ont tiédi
+
+** Plus-que-parfait
+
+j'avais tiédi
+tu avais tiédi
+il (elle) avait tiédi
+nous avions tiédi
+vous aviez tiédi
+ils (elles) avaient tiédi
+
+** Passé antérieur
+
+j'eus tiédi
+tu eus tiédi
+il (elle) eut tiédi
+nous eûmes tiédi
+vous eûtes tiédi
+ils (elles) eurent tiédi
+
+** Futur antérieur
+
+j'aurai tiédi
+tu auras tiédi
+il (elle) aura tiédi
+nous aurons tiédi
+vous aurez tiédi
+ils (elles) auront tiédi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tiédi
+tu aurais tiédi
+il (elle) aurait tiédi
+nous aurions tiédi
+vous auriez tiédi
+ils (elles) auraient tiédi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tiédi
+que tu aies tiédi
+qu’il (elle) ait tiédi
+que nous ayons tiédi
+que vous ayez tiédi
+qu’ils (elles) aient tiédi
+
+** Plus-que-parfait
+
+que j'eusse tiédi
+que tu eusses tiédi
+qu’il (elle) eût tiédi
+que nous eussions tiédi
+que vous eussiez tiédi
+qu’ils (elles) eussent tiédi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tiédi
+ayez tiédi
+
+* INFINITIF
+
+** Passé
+
+avoir tiédi
+
+* PARTICIPE
+
+** Passé
+
+ayant tiédi
+tiédi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis tiédi(e)
+tu es tiédi(e)
+il (elle) est tiédi(e)
+nous sommes tiédi(e)s
+vous êtes tiédi(e)s
+ils (elles) sont tiédi(e)s
+
+** Imparfait
+
+j'étais tiédi(e)
+tu étais tiédi(e)
+il (elle) était tiédi(e)
+nous étions tiédi(e)s
+vous étiez tiédi(e)s
+ils (elles) étaient tiédi(e)s
+
+** Passé simple
+
+je fus tiédi(e)
+tu fus tiédi(e)
+il (elle) fut tiédi(e)
+nous fûmes tiédi(e)s
+vous fûtes tiédi(e)s
+ils (elles) furent tiédi(e)s
+
+** Futur simple
+
+je serai tiédi(e)
+tu seras tiédi(e)
+il (elle) sera tiédi(e)
+nous serons tiédi(e)s
+vous serez tiédi(e)s
+ils (elles) seront tiédi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tiédi(e)
+tu serais tiédi(e)
+il (elle) serait tiédi(e)
+nous serions tiédi(e)s
+vous seriez tiédi(e)s
+ils (elles) seraient tiédi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tiédi(e)
+que tu sois tiédi(e)
+qu’il (elle) soit tiédi(e)
+que nous soyons tiédi(e)s
+que vous soyez tiédi(e)s
+qu’ils (elles) soient tiédi(e)s
+
+** Imparfait
+
+que je fusse tiédi(e)
+que tu fusses tiédi(e)
+qu’il (elle) fût tiédi(e)
+que nous fussions tiédi(e)s
+que vous fussiez tiédi(e)s
+qu’ils (elles) fussent tiédi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tiédi(e)s
+soyez tiédi(e)s
+
+* INFINITIF
+
+** Présent
+
+être tiédi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tiédi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tiédi(e)
+tu as été tiédi(e)
+il (elle) a été tiédi(e)
+nous avons été tiédi(e)s
+vous avez été tiédi(e)s
+ils (elles) ont été tiédi(e)s
+
+** Plus-que-parfait
+
+j'avais été tiédi(e)
+il (elle) avait été tiédi(e)
+nous avions été tiédi(e)s
+ils (elles) avaient été tiédi(e)s
+
+** Passé antérieur
+
+j'eus été tiédi(e)
+tu eus été tiédi(e)
+il (elle) eut été tiédi(e)
+nous eûmes été tiédi(e)s
+vous eûtes été tiédi(e)s
+ils (elles) eurent été tiédi(e)s
+
+** Futur antérieur
+
+j'aurai été tiédi(e)
+tu auras été tiédi(e)
+il (elle) aura été tiédi(e)
+nous aurons été tiédi(e)s
+vous aurez été tiédi(e)s
+ils (elles) auront été tiédi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tiédi(e)
+j'aurais été tiédi(e)
+il (elle) aurait été tiédi(e)
+nous aurions été tiédi(e)s
+vous auriez été tiédi(e)s
+ils (elles) auraient été tiédi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tiédi(e)
+que tu aies été tiédi(e)
+qu’il (elle) ait été tiédi(e)
+que nous ayons été tiédi(e)s
+que vous ayez été tiédi(e)s
+qu’ils (elles) aient été tiédi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tiédi(e)
+que tu eusses été tiédi(e)
+qu’il (elle) eût été tiédi(e)
+que nous eussions été tiédi(e)s
+que vous eussiez été tiédi(e)s
+qu’ils (elles) eussent été tiédi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tiédi(e)
+ayons été tiédi(e)s
+ayez été tiédi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tiédi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tiédi(e)(s)

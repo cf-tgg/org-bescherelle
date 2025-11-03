@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe revendre
+
+* INDICATIF
+
+** Présent
+
+je revends
+tu revends
+il (elle) revend
+nous revendons
+vous revendez
+ils (elles) revendent
+
+** Imparfait
+
+je revendais
+tu revendais
+il (elle) revendait
+nous revendions
+vous revendiez
+ils (elles) revendaient
+
+** Passé simple
+
+je revendis
+tu revendis
+il (elle) revendit
+nous revendîmes
+vous revendîtes
+ils (elles) revendirent
+
+** Futur simple
+
+je revendrai
+tu revendras
+il (elle) revendra
+nous revendrons
+vous revendrez
+ils (elles) revendront
+
+* CONDITIONNEL
+
+** Présent
+
+je revendrais
+tu revendrais
+il (elle) revendrait
+nous revendrions
+vous revendriez
+ils (elles) revendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je revende
+que tu revendes
+qu’il (elle) revende
+que nous revendions
+que vous revendiez
+qu’ils (elles) revendent
+
+** Imparfait
+
+que je revendisse
+que tu revendisses
+qu’il (elle) revendît
+que nous revendissions
+que vous revendissiez
+qu’ils (elles) revendissent
+
+* IMPÉRATIF
+
+** Présent
+
+revends
+revendons
+revendez
+
+* INFINITIF
+
+** Présent
+
+revendre
+
+* PARTICIPE
+
+** Présent
+
+revendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai revendu
+tu as revendu
+il (elle) a revendu
+nous avons revendu
+vous avez revendu
+ils (elles) ont revendu
+
+** Plus-que-parfait
+
+j'avais revendu
+tu avais revendu
+il (elle) avait revendu
+nous avions revendu
+vous aviez revendu
+ils (elles) avaient revendu
+
+** Passé antérieur
+
+j'eus revendu
+tu eus revendu
+il (elle) eut revendu
+nous eûmes revendu
+vous eûtes revendu
+ils (elles) eurent revendu
+
+** Futur antérieur
+
+j'aurai revendu
+tu auras revendu
+il (elle) aura revendu
+nous aurons revendu
+vous aurez revendu
+ils (elles) auront revendu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais revendu
+tu aurais revendu
+il (elle) aurait revendu
+nous aurions revendu
+vous auriez revendu
+ils (elles) auraient revendu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie revendu
+que tu aies revendu
+qu’il (elle) ait revendu
+que nous ayons revendu
+que vous ayez revendu
+qu’ils (elles) aient revendu
+
+** Plus-que-parfait
+
+que j'eusse revendu
+que tu eusses revendu
+qu’il (elle) eût revendu
+que nous eussions revendu
+que vous eussiez revendu
+qu’ils (elles) eussent revendu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons revendu
+ayez revendu
+
+* INFINITIF
+
+** Passé
+
+avoir revendu
+
+* PARTICIPE
+
+** Passé
+
+ayant revendu
+revendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis revendu(e)
+tu es revendu(e)
+il (elle) est revendu(e)
+nous sommes revendu(e)s
+vous êtes revendu(e)s
+ils (elles) sont revendu(e)s
+
+** Imparfait
+
+j'étais revendu(e)
+tu étais revendu(e)
+il (elle) était revendu(e)
+nous étions revendu(e)s
+vous étiez revendu(e)s
+ils (elles) étaient revendu(e)s
+
+** Passé simple
+
+je fus revendu(e)
+tu fus revendu(e)
+il (elle) fut revendu(e)
+nous fûmes revendu(e)s
+vous fûtes revendu(e)s
+ils (elles) furent revendu(e)s
+
+** Futur simple
+
+je serai revendu(e)
+tu seras revendu(e)
+il (elle) sera revendu(e)
+nous serons revendu(e)s
+vous serez revendu(e)s
+ils (elles) seront revendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais revendu(e)
+tu serais revendu(e)
+il (elle) serait revendu(e)
+nous serions revendu(e)s
+vous seriez revendu(e)s
+ils (elles) seraient revendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois revendu(e)
+que tu sois revendu(e)
+qu’il (elle) soit revendu(e)
+que nous soyons revendu(e)s
+que vous soyez revendu(e)s
+qu’ils (elles) soient revendu(e)s
+
+** Imparfait
+
+que je fusse revendu(e)
+que tu fusses revendu(e)
+qu’il (elle) fût revendu(e)
+que nous fussions revendu(e)s
+que vous fussiez revendu(e)s
+qu’ils (elles) fussent revendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons revendu(e)s
+soyez revendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être revendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant revendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été revendu(e)
+tu as été revendu(e)
+il (elle) a été revendu(e)
+nous avons été revendu(e)s
+vous avez été revendu(e)s
+ils (elles) ont été revendu(e)s
+
+** Plus-que-parfait
+
+j'avais été revendu(e)
+il (elle) avait été revendu(e)
+nous avions été revendu(e)s
+ils (elles) avaient été revendu(e)s
+
+** Passé antérieur
+
+j'eus été revendu(e)
+tu eus été revendu(e)
+il (elle) eut été revendu(e)
+nous eûmes été revendu(e)s
+vous eûtes été revendu(e)s
+ils (elles) eurent été revendu(e)s
+
+** Futur antérieur
+
+j'aurai été revendu(e)
+tu auras été revendu(e)
+il (elle) aura été revendu(e)
+nous aurons été revendu(e)s
+vous aurez été revendu(e)s
+ils (elles) auront été revendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été revendu(e)
+j'aurais été revendu(e)
+il (elle) aurait été revendu(e)
+nous aurions été revendu(e)s
+vous auriez été revendu(e)s
+ils (elles) auraient été revendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été revendu(e)
+que tu aies été revendu(e)
+qu’il (elle) ait été revendu(e)
+que nous ayons été revendu(e)s
+que vous ayez été revendu(e)s
+qu’ils (elles) aient été revendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été revendu(e)
+que tu eusses été revendu(e)
+qu’il (elle) eût été revendu(e)
+que nous eussions été revendu(e)s
+que vous eussiez été revendu(e)s
+qu’ils (elles) eussent été revendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été revendu(e)
+ayons été revendu(e)s
+ayez été revendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été revendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été revendu(e)(s)

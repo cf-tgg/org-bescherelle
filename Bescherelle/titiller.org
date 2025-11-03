@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe titiller
+
+* INDICATIF
+
+** Présent
+
+je titille
+tu titilles
+il (elle) titille
+nous titillons
+vous titillez
+ils (elles) titillent
+
+** Imparfait
+
+je titillais
+tu titillais
+il (elle) titillait
+nous titillions
+vous titilliez
+ils (elles) titillaient
+
+** Passé simple
+
+je titillai
+tu titillas
+il (elle) titilla
+nous titillâmes
+vous titillâtes
+ils (elles) titillèrent
+
+** Futur simple
+
+je titillerai
+tu titilleras
+il (elle) titillera
+nous titillerons
+vous titillerez
+ils (elles) titilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je titillerais
+tu titillerais
+il (elle) titillerait
+nous titillerions
+vous titilleriez
+ils (elles) titilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je titille
+que tu titilles
+qu’il (elle) titille
+que nous titillions
+que vous titilliez
+qu’ils (elles) titillent
+
+** Imparfait
+
+que je titillasse
+que tu titillasses
+qu’il (elle) titillât
+que nous titillassions
+que vous titillassiez
+qu’ils (elles) titillassent
+
+* IMPÉRATIF
+
+** Présent
+
+titille
+titillons
+titillez
+
+* INFINITIF
+
+** Présent
+
+titiller
+
+* PARTICIPE
+
+** Présent
+
+titillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai titillé
+tu as titillé
+il (elle) a titillé
+nous avons titillé
+vous avez titillé
+ils (elles) ont titillé
+
+** Plus-que-parfait
+
+j'avais titillé
+tu avais titillé
+il (elle) avait titillé
+nous avions titillé
+vous aviez titillé
+ils (elles) avaient titillé
+
+** Passé antérieur
+
+j'eus titillé
+tu eus titillé
+il (elle) eut titillé
+nous eûmes titillé
+vous eûtes titillé
+ils (elles) eurent titillé
+
+** Futur antérieur
+
+j'aurai titillé
+tu auras titillé
+il (elle) aura titillé
+nous aurons titillé
+vous aurez titillé
+ils (elles) auront titillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais titillé
+tu aurais titillé
+il (elle) aurait titillé
+nous aurions titillé
+vous auriez titillé
+ils (elles) auraient titillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie titillé
+que tu aies titillé
+qu’il (elle) ait titillé
+que nous ayons titillé
+que vous ayez titillé
+qu’ils (elles) aient titillé
+
+** Plus-que-parfait
+
+que j'eusse titillé
+que tu eusses titillé
+qu’il (elle) eût titillé
+que nous eussions titillé
+que vous eussiez titillé
+qu’ils (elles) eussent titillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons titillé
+ayez titillé
+
+* INFINITIF
+
+** Passé
+
+avoir titillé
+
+* PARTICIPE
+
+** Passé
+
+ayant titillé
+titillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis titillé(e)
+tu es titillé(e)
+il (elle) est titillé(e)
+nous sommes titillé(e)s
+vous êtes titillé(e)s
+ils (elles) sont titillé(e)s
+
+** Imparfait
+
+j'étais titillé(e)
+tu étais titillé(e)
+il (elle) était titillé(e)
+nous étions titillé(e)s
+vous étiez titillé(e)s
+ils (elles) étaient titillé(e)s
+
+** Passé simple
+
+je fus titillé(e)
+tu fus titillé(e)
+il (elle) fut titillé(e)
+nous fûmes titillé(e)s
+vous fûtes titillé(e)s
+ils (elles) furent titillé(e)s
+
+** Futur simple
+
+je serai titillé(e)
+tu seras titillé(e)
+il (elle) sera titillé(e)
+nous serons titillé(e)s
+vous serez titillé(e)s
+ils (elles) seront titillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais titillé(e)
+tu serais titillé(e)
+il (elle) serait titillé(e)
+nous serions titillé(e)s
+vous seriez titillé(e)s
+ils (elles) seraient titillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois titillé(e)
+que tu sois titillé(e)
+qu’il (elle) soit titillé(e)
+que nous soyons titillé(e)s
+que vous soyez titillé(e)s
+qu’ils (elles) soient titillé(e)s
+
+** Imparfait
+
+que je fusse titillé(e)
+que tu fusses titillé(e)
+qu’il (elle) fût titillé(e)
+que nous fussions titillé(e)s
+que vous fussiez titillé(e)s
+qu’ils (elles) fussent titillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons titillé(e)s
+soyez titillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être titillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant titillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été titillé(e)
+tu as été titillé(e)
+il (elle) a été titillé(e)
+nous avons été titillé(e)s
+vous avez été titillé(e)s
+ils (elles) ont été titillé(e)s
+
+** Plus-que-parfait
+
+j'avais été titillé(e)
+il (elle) avait été titillé(e)
+nous avions été titillé(e)s
+ils (elles) avaient été titillé(e)s
+
+** Passé antérieur
+
+j'eus été titillé(e)
+tu eus été titillé(e)
+il (elle) eut été titillé(e)
+nous eûmes été titillé(e)s
+vous eûtes été titillé(e)s
+ils (elles) eurent été titillé(e)s
+
+** Futur antérieur
+
+j'aurai été titillé(e)
+tu auras été titillé(e)
+il (elle) aura été titillé(e)
+nous aurons été titillé(e)s
+vous aurez été titillé(e)s
+ils (elles) auront été titillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été titillé(e)
+j'aurais été titillé(e)
+il (elle) aurait été titillé(e)
+nous aurions été titillé(e)s
+vous auriez été titillé(e)s
+ils (elles) auraient été titillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été titillé(e)
+que tu aies été titillé(e)
+qu’il (elle) ait été titillé(e)
+que nous ayons été titillé(e)s
+que vous ayez été titillé(e)s
+qu’ils (elles) aient été titillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été titillé(e)
+que tu eusses été titillé(e)
+qu’il (elle) eût été titillé(e)
+que nous eussions été titillé(e)s
+que vous eussiez été titillé(e)s
+qu’ils (elles) eussent été titillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été titillé(e)
+ayons été titillé(e)s
+ayez été titillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été titillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été titillé(e)(s)

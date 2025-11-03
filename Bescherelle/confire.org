@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe confire
+
+* INDICATIF
+
+** Présent
+
+je confis
+tu confis
+il (elle) confit
+nous confisons
+vous confisez
+ils (elles) confisent
+
+** Imparfait
+
+je confisais
+tu confisais
+il (elle) confisait
+nous confisions
+vous confisiez
+ils (elles) confisaient
+
+** Passé simple
+
+je confis
+tu confis
+il (elle) confit
+nous confîmes
+vous confîtes
+ils (elles) confirent
+
+** Futur simple
+
+je confirai
+tu confiras
+il (elle) confira
+nous confirons
+vous confirez
+ils (elles) confiront
+
+* CONDITIONNEL
+
+** Présent
+
+je confirais
+tu confirais
+il (elle) confirait
+nous confirions
+vous confiriez
+ils (elles) confiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je confise
+que tu confises
+qu’il (elle) confise
+que nous confisions
+que vous confisiez
+qu’ils (elles) confisent
+
+** Imparfait
+
+que je confisse
+que tu confisses
+qu’il (elle) confît
+que nous confissions
+que vous confissiez
+qu’ils (elles) confissent
+
+* IMPÉRATIF
+
+** Présent
+
+confis
+confisons
+confisez
+
+* INFINITIF
+
+** Présent
+
+confire
+
+* PARTICIPE
+
+** Présent
+
+confisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai confit
+tu as confit
+il (elle) a confit
+nous avons confit
+vous avez confit
+ils (elles) ont confit
+
+** Plus-que-parfait
+
+j'avais confit
+tu avais confit
+il (elle) avait confit
+nous avions confit
+vous aviez confit
+ils (elles) avaient confit
+
+** Passé antérieur
+
+j'eus confit
+tu eus confit
+il (elle) eut confit
+nous eûmes confit
+vous eûtes confit
+ils (elles) eurent confit
+
+** Futur antérieur
+
+j'aurai confit
+tu auras confit
+il (elle) aura confit
+nous aurons confit
+vous aurez confit
+ils (elles) auront confit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais confit
+tu aurais confit
+il (elle) aurait confit
+nous aurions confit
+vous auriez confit
+ils (elles) auraient confit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie confit
+que tu aies confit
+qu’il (elle) ait confit
+que nous ayons confit
+que vous ayez confit
+qu’ils (elles) aient confit
+
+** Plus-que-parfait
+
+que j'eusse confit
+que tu eusses confit
+qu’il (elle) eût confit
+que nous eussions confit
+que vous eussiez confit
+qu’ils (elles) eussent confit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons confit
+ayez confit
+
+* INFINITIF
+
+** Passé
+
+avoir confit
+
+* PARTICIPE
+
+** Passé
+
+ayant confit
+confit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis confit(e)
+tu es confit(e)
+il (elle) est confit(e)
+nous sommes confit(e)s
+vous êtes confit(e)s
+ils (elles) sont confit(e)s
+
+** Imparfait
+
+j'étais confit(e)
+tu étais confit(e)
+il (elle) était confit(e)
+nous étions confit(e)s
+vous étiez confit(e)s
+ils (elles) étaient confit(e)s
+
+** Passé simple
+
+je fus confit(e)
+tu fus confit(e)
+il (elle) fut confit(e)
+nous fûmes confit(e)s
+vous fûtes confit(e)s
+ils (elles) furent confit(e)s
+
+** Futur simple
+
+je serai confit(e)
+tu seras confit(e)
+il (elle) sera confit(e)
+nous serons confit(e)s
+vous serez confit(e)s
+ils (elles) seront confit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais confit(e)
+tu serais confit(e)
+il (elle) serait confit(e)
+nous serions confit(e)s
+vous seriez confit(e)s
+ils (elles) seraient confit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois confit(e)
+que tu sois confit(e)
+qu’il (elle) soit confit(e)
+que nous soyons confit(e)s
+que vous soyez confit(e)s
+qu’ils (elles) soient confit(e)s
+
+** Imparfait
+
+que je fusse confit(e)
+que tu fusses confit(e)
+qu’il (elle) fût confit(e)
+que nous fussions confit(e)s
+que vous fussiez confit(e)s
+qu’ils (elles) fussent confit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons confit(e)s
+soyez confit(e)s
+
+* INFINITIF
+
+** Présent
+
+être confit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant confit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été confit(e)
+tu as été confit(e)
+il (elle) a été confit(e)
+nous avons été confit(e)s
+vous avez été confit(e)s
+ils (elles) ont été confit(e)s
+
+** Plus-que-parfait
+
+j'avais été confit(e)
+il (elle) avait été confit(e)
+nous avions été confit(e)s
+ils (elles) avaient été confit(e)s
+
+** Passé antérieur
+
+j'eus été confit(e)
+tu eus été confit(e)
+il (elle) eut été confit(e)
+nous eûmes été confit(e)s
+vous eûtes été confit(e)s
+ils (elles) eurent été confit(e)s
+
+** Futur antérieur
+
+j'aurai été confit(e)
+tu auras été confit(e)
+il (elle) aura été confit(e)
+nous aurons été confit(e)s
+vous aurez été confit(e)s
+ils (elles) auront été confit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été confit(e)
+j'aurais été confit(e)
+il (elle) aurait été confit(e)
+nous aurions été confit(e)s
+vous auriez été confit(e)s
+ils (elles) auraient été confit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été confit(e)
+que tu aies été confit(e)
+qu’il (elle) ait été confit(e)
+que nous ayons été confit(e)s
+que vous ayez été confit(e)s
+qu’ils (elles) aient été confit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été confit(e)
+que tu eusses été confit(e)
+qu’il (elle) eût été confit(e)
+que nous eussions été confit(e)s
+que vous eussiez été confit(e)s
+qu’ils (elles) eussent été confit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été confit(e)
+ayons été confit(e)s
+ayez été confit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été confit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été confit(e)(s)

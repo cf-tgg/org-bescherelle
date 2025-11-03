@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe diagnostiquer
+
+* INDICATIF
+
+** Présent
+
+je diagnostique
+tu diagnostiques
+il (elle) diagnostique
+nous diagnostiquons
+vous diagnostiquez
+ils (elles) diagnostiquent
+
+** Imparfait
+
+je diagnostiquais
+tu diagnostiquais
+il (elle) diagnostiquait
+nous diagnostiquions
+vous diagnostiquiez
+ils (elles) diagnostiquaient
+
+** Passé simple
+
+je diagnostiquai
+tu diagnostiquas
+il (elle) diagnostiqua
+nous diagnostiquâmes
+vous diagnostiquâtes
+ils (elles) diagnostiquèrent
+
+** Futur simple
+
+je diagnostiquerai
+tu diagnostiqueras
+il (elle) diagnostiquera
+nous diagnostiquerons
+vous diagnostiquerez
+ils (elles) diagnostiqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je diagnostiquerais
+tu diagnostiquerais
+il (elle) diagnostiquerait
+nous diagnostiquerions
+vous diagnostiqueriez
+ils (elles) diagnostiqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je diagnostique
+que tu diagnostiques
+qu’il (elle) diagnostique
+que nous diagnostiquions
+que vous diagnostiquiez
+qu’ils (elles) diagnostiquent
+
+** Imparfait
+
+que je diagnostiquasse
+que tu diagnostiquasses
+qu’il (elle) diagnostiquât
+que nous diagnostiquassions
+que vous diagnostiquassiez
+qu’ils (elles) diagnostiquassent
+
+* IMPÉRATIF
+
+** Présent
+
+diagnostique
+diagnostiquons
+diagnostiquez
+
+* INFINITIF
+
+** Présent
+
+diagnostiquer
+
+* PARTICIPE
+
+** Présent
+
+diagnostiquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai diagnostiqué
+tu as diagnostiqué
+il (elle) a diagnostiqué
+nous avons diagnostiqué
+vous avez diagnostiqué
+ils (elles) ont diagnostiqué
+
+** Plus-que-parfait
+
+j'avais diagnostiqué
+tu avais diagnostiqué
+il (elle) avait diagnostiqué
+nous avions diagnostiqué
+vous aviez diagnostiqué
+ils (elles) avaient diagnostiqué
+
+** Passé antérieur
+
+j'eus diagnostiqué
+tu eus diagnostiqué
+il (elle) eut diagnostiqué
+nous eûmes diagnostiqué
+vous eûtes diagnostiqué
+ils (elles) eurent diagnostiqué
+
+** Futur antérieur
+
+j'aurai diagnostiqué
+tu auras diagnostiqué
+il (elle) aura diagnostiqué
+nous aurons diagnostiqué
+vous aurez diagnostiqué
+ils (elles) auront diagnostiqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais diagnostiqué
+tu aurais diagnostiqué
+il (elle) aurait diagnostiqué
+nous aurions diagnostiqué
+vous auriez diagnostiqué
+ils (elles) auraient diagnostiqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie diagnostiqué
+que tu aies diagnostiqué
+qu’il (elle) ait diagnostiqué
+que nous ayons diagnostiqué
+que vous ayez diagnostiqué
+qu’ils (elles) aient diagnostiqué
+
+** Plus-que-parfait
+
+que j'eusse diagnostiqué
+que tu eusses diagnostiqué
+qu’il (elle) eût diagnostiqué
+que nous eussions diagnostiqué
+que vous eussiez diagnostiqué
+qu’ils (elles) eussent diagnostiqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons diagnostiqué
+ayez diagnostiqué
+
+* INFINITIF
+
+** Passé
+
+avoir diagnostiqué
+
+* PARTICIPE
+
+** Passé
+
+ayant diagnostiqué
+diagnostiqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis diagnostiqué(e)
+tu es diagnostiqué(e)
+il (elle) est diagnostiqué(e)
+nous sommes diagnostiqué(e)s
+vous êtes diagnostiqué(e)s
+ils (elles) sont diagnostiqué(e)s
+
+** Imparfait
+
+j'étais diagnostiqué(e)
+tu étais diagnostiqué(e)
+il (elle) était diagnostiqué(e)
+nous étions diagnostiqué(e)s
+vous étiez diagnostiqué(e)s
+ils (elles) étaient diagnostiqué(e)s
+
+** Passé simple
+
+je fus diagnostiqué(e)
+tu fus diagnostiqué(e)
+il (elle) fut diagnostiqué(e)
+nous fûmes diagnostiqué(e)s
+vous fûtes diagnostiqué(e)s
+ils (elles) furent diagnostiqué(e)s
+
+** Futur simple
+
+je serai diagnostiqué(e)
+tu seras diagnostiqué(e)
+il (elle) sera diagnostiqué(e)
+nous serons diagnostiqué(e)s
+vous serez diagnostiqué(e)s
+ils (elles) seront diagnostiqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais diagnostiqué(e)
+tu serais diagnostiqué(e)
+il (elle) serait diagnostiqué(e)
+nous serions diagnostiqué(e)s
+vous seriez diagnostiqué(e)s
+ils (elles) seraient diagnostiqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois diagnostiqué(e)
+que tu sois diagnostiqué(e)
+qu’il (elle) soit diagnostiqué(e)
+que nous soyons diagnostiqué(e)s
+que vous soyez diagnostiqué(e)s
+qu’ils (elles) soient diagnostiqué(e)s
+
+** Imparfait
+
+que je fusse diagnostiqué(e)
+que tu fusses diagnostiqué(e)
+qu’il (elle) fût diagnostiqué(e)
+que nous fussions diagnostiqué(e)s
+que vous fussiez diagnostiqué(e)s
+qu’ils (elles) fussent diagnostiqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons diagnostiqué(e)s
+soyez diagnostiqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être diagnostiqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant diagnostiqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été diagnostiqué(e)
+tu as été diagnostiqué(e)
+il (elle) a été diagnostiqué(e)
+nous avons été diagnostiqué(e)s
+vous avez été diagnostiqué(e)s
+ils (elles) ont été diagnostiqué(e)s
+
+** Plus-que-parfait
+
+j'avais été diagnostiqué(e)
+il (elle) avait été diagnostiqué(e)
+nous avions été diagnostiqué(e)s
+ils (elles) avaient été diagnostiqué(e)s
+
+** Passé antérieur
+
+j'eus été diagnostiqué(e)
+tu eus été diagnostiqué(e)
+il (elle) eut été diagnostiqué(e)
+nous eûmes été diagnostiqué(e)s
+vous eûtes été diagnostiqué(e)s
+ils (elles) eurent été diagnostiqué(e)s
+
+** Futur antérieur
+
+j'aurai été diagnostiqué(e)
+tu auras été diagnostiqué(e)
+il (elle) aura été diagnostiqué(e)
+nous aurons été diagnostiqué(e)s
+vous aurez été diagnostiqué(e)s
+ils (elles) auront été diagnostiqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été diagnostiqué(e)
+j'aurais été diagnostiqué(e)
+il (elle) aurait été diagnostiqué(e)
+nous aurions été diagnostiqué(e)s
+vous auriez été diagnostiqué(e)s
+ils (elles) auraient été diagnostiqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été diagnostiqué(e)
+que tu aies été diagnostiqué(e)
+qu’il (elle) ait été diagnostiqué(e)
+que nous ayons été diagnostiqué(e)s
+que vous ayez été diagnostiqué(e)s
+qu’ils (elles) aient été diagnostiqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été diagnostiqué(e)
+que tu eusses été diagnostiqué(e)
+qu’il (elle) eût été diagnostiqué(e)
+que nous eussions été diagnostiqué(e)s
+que vous eussiez été diagnostiqué(e)s
+qu’ils (elles) eussent été diagnostiqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été diagnostiqué(e)
+ayons été diagnostiqué(e)s
+ayez été diagnostiqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été diagnostiqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été diagnostiqué(e)(s)

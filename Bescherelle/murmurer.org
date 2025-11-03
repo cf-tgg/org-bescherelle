@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe murmurer
+
+* INDICATIF
+
+** Présent
+
+je murmure
+tu murmures
+il (elle) murmure
+nous murmurons
+vous murmurez
+ils (elles) murmurent
+
+** Imparfait
+
+je murmurais
+tu murmurais
+il (elle) murmurait
+nous murmurions
+vous murmuriez
+ils (elles) murmuraient
+
+** Passé simple
+
+je murmurai
+tu murmuras
+il (elle) murmura
+nous murmurâmes
+vous murmurâtes
+ils (elles) murmurèrent
+
+** Futur simple
+
+je murmurerai
+tu murmureras
+il (elle) murmurera
+nous murmurerons
+vous murmurerez
+ils (elles) murmureront
+
+* CONDITIONNEL
+
+** Présent
+
+je murmurerais
+tu murmurerais
+il (elle) murmurerait
+nous murmurerions
+vous murmureriez
+ils (elles) murmureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je murmure
+que tu murmures
+qu’il (elle) murmure
+que nous murmurions
+que vous murmuriez
+qu’ils (elles) murmurent
+
+** Imparfait
+
+que je murmurasse
+que tu murmurasses
+qu’il (elle) murmurât
+que nous murmurassions
+que vous murmurassiez
+qu’ils (elles) murmurassent
+
+* IMPÉRATIF
+
+** Présent
+
+murmure
+murmurons
+murmurez
+
+* INFINITIF
+
+** Présent
+
+murmurer
+
+* PARTICIPE
+
+** Présent
+
+murmurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai murmuré
+tu as murmuré
+il (elle) a murmuré
+nous avons murmuré
+vous avez murmuré
+ils (elles) ont murmuré
+
+** Plus-que-parfait
+
+j'avais murmuré
+tu avais murmuré
+il (elle) avait murmuré
+nous avions murmuré
+vous aviez murmuré
+ils (elles) avaient murmuré
+
+** Passé antérieur
+
+j'eus murmuré
+tu eus murmuré
+il (elle) eut murmuré
+nous eûmes murmuré
+vous eûtes murmuré
+ils (elles) eurent murmuré
+
+** Futur antérieur
+
+j'aurai murmuré
+tu auras murmuré
+il (elle) aura murmuré
+nous aurons murmuré
+vous aurez murmuré
+ils (elles) auront murmuré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais murmuré
+tu aurais murmuré
+il (elle) aurait murmuré
+nous aurions murmuré
+vous auriez murmuré
+ils (elles) auraient murmuré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie murmuré
+que tu aies murmuré
+qu’il (elle) ait murmuré
+que nous ayons murmuré
+que vous ayez murmuré
+qu’ils (elles) aient murmuré
+
+** Plus-que-parfait
+
+que j'eusse murmuré
+que tu eusses murmuré
+qu’il (elle) eût murmuré
+que nous eussions murmuré
+que vous eussiez murmuré
+qu’ils (elles) eussent murmuré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons murmuré
+ayez murmuré
+
+* INFINITIF
+
+** Passé
+
+avoir murmuré
+
+* PARTICIPE
+
+** Passé
+
+ayant murmuré
+murmuré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis murmuré(e)
+tu es murmuré(e)
+il (elle) est murmuré(e)
+nous sommes murmuré(e)s
+vous êtes murmuré(e)s
+ils (elles) sont murmuré(e)s
+
+** Imparfait
+
+j'étais murmuré(e)
+tu étais murmuré(e)
+il (elle) était murmuré(e)
+nous étions murmuré(e)s
+vous étiez murmuré(e)s
+ils (elles) étaient murmuré(e)s
+
+** Passé simple
+
+je fus murmuré(e)
+tu fus murmuré(e)
+il (elle) fut murmuré(e)
+nous fûmes murmuré(e)s
+vous fûtes murmuré(e)s
+ils (elles) furent murmuré(e)s
+
+** Futur simple
+
+je serai murmuré(e)
+tu seras murmuré(e)
+il (elle) sera murmuré(e)
+nous serons murmuré(e)s
+vous serez murmuré(e)s
+ils (elles) seront murmuré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais murmuré(e)
+tu serais murmuré(e)
+il (elle) serait murmuré(e)
+nous serions murmuré(e)s
+vous seriez murmuré(e)s
+ils (elles) seraient murmuré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois murmuré(e)
+que tu sois murmuré(e)
+qu’il (elle) soit murmuré(e)
+que nous soyons murmuré(e)s
+que vous soyez murmuré(e)s
+qu’ils (elles) soient murmuré(e)s
+
+** Imparfait
+
+que je fusse murmuré(e)
+que tu fusses murmuré(e)
+qu’il (elle) fût murmuré(e)
+que nous fussions murmuré(e)s
+que vous fussiez murmuré(e)s
+qu’ils (elles) fussent murmuré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons murmuré(e)s
+soyez murmuré(e)s
+
+* INFINITIF
+
+** Présent
+
+être murmuré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant murmuré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été murmuré(e)
+tu as été murmuré(e)
+il (elle) a été murmuré(e)
+nous avons été murmuré(e)s
+vous avez été murmuré(e)s
+ils (elles) ont été murmuré(e)s
+
+** Plus-que-parfait
+
+j'avais été murmuré(e)
+il (elle) avait été murmuré(e)
+nous avions été murmuré(e)s
+ils (elles) avaient été murmuré(e)s
+
+** Passé antérieur
+
+j'eus été murmuré(e)
+tu eus été murmuré(e)
+il (elle) eut été murmuré(e)
+nous eûmes été murmuré(e)s
+vous eûtes été murmuré(e)s
+ils (elles) eurent été murmuré(e)s
+
+** Futur antérieur
+
+j'aurai été murmuré(e)
+tu auras été murmuré(e)
+il (elle) aura été murmuré(e)
+nous aurons été murmuré(e)s
+vous aurez été murmuré(e)s
+ils (elles) auront été murmuré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été murmuré(e)
+j'aurais été murmuré(e)
+il (elle) aurait été murmuré(e)
+nous aurions été murmuré(e)s
+vous auriez été murmuré(e)s
+ils (elles) auraient été murmuré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été murmuré(e)
+que tu aies été murmuré(e)
+qu’il (elle) ait été murmuré(e)
+que nous ayons été murmuré(e)s
+que vous ayez été murmuré(e)s
+qu’ils (elles) aient été murmuré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été murmuré(e)
+que tu eusses été murmuré(e)
+qu’il (elle) eût été murmuré(e)
+que nous eussions été murmuré(e)s
+que vous eussiez été murmuré(e)s
+qu’ils (elles) eussent été murmuré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été murmuré(e)
+ayons été murmuré(e)s
+ayez été murmuré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été murmuré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été murmuré(e)(s)

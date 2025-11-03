@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe amerrir
+
+* INDICATIF
+
+** Présent
+
+j'amerris
+tu amerris
+il (elle) amerrit
+nous amerrissons
+vous amerrissez
+ils (elles) amerrissent
+
+** Imparfait
+
+j'amerrissais
+tu amerrissais
+il (elle) amerrissait
+nous amerrissions
+vous amerrissiez
+ils (elles) amerrissaient
+
+** Passé simple
+
+j'amerris
+tu amerris
+il (elle) amerrit
+nous amerrîmes
+vous amerrîtes
+ils (elles) amerrirent
+
+** Futur simple
+
+j'amerrirai
+tu amerriras
+il (elle) amerrira
+nous amerrirons
+vous amerrirez
+ils (elles) amerriront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amerrirais
+tu amerrirais
+il (elle) amerrirait
+nous amerririons
+vous amerririez
+ils (elles) amerriraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amerrisse
+que tu amerrisses
+qu’il (elle) amerrisse
+que nous amerrissions
+que vous amerrissiez
+qu’ils (elles) amerrissent
+
+** Imparfait
+
+que j'amerrisse
+que tu amerrisses
+qu’il (elle) amerrît
+que nous amerrissions
+que vous amerrissiez
+qu’ils (elles) amerrissent
+
+* IMPÉRATIF
+
+** Présent
+
+amerris
+amerrissons
+amerrissez
+
+* INFINITIF
+
+** Présent
+
+amerrir
+
+* PARTICIPE
+
+** Présent
+
+amerrissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amerri
+tu as amerri
+il (elle) a amerri
+nous avons amerri
+vous avez amerri
+ils (elles) ont amerri
+
+** Plus-que-parfait
+
+j'avais amerri
+tu avais amerri
+il (elle) avait amerri
+nous avions amerri
+vous aviez amerri
+ils (elles) avaient amerri
+
+** Passé antérieur
+
+j'eus amerri
+tu eus amerri
+il (elle) eut amerri
+nous eûmes amerri
+vous eûtes amerri
+ils (elles) eurent amerri
+
+** Futur antérieur
+
+j'aurai amerri
+tu auras amerri
+il (elle) aura amerri
+nous aurons amerri
+vous aurez amerri
+ils (elles) auront amerri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amerri
+tu aurais amerri
+il (elle) aurait amerri
+nous aurions amerri
+vous auriez amerri
+ils (elles) auraient amerri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amerri
+que tu aies amerri
+qu’il (elle) ait amerri
+que nous ayons amerri
+que vous ayez amerri
+qu’ils (elles) aient amerri
+
+** Plus-que-parfait
+
+que j'eusse amerri
+que tu eusses amerri
+qu’il (elle) eût amerri
+que nous eussions amerri
+que vous eussiez amerri
+qu’ils (elles) eussent amerri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amerri
+ayez amerri
+
+* INFINITIF
+
+** Passé
+
+avoir amerri
+
+* PARTICIPE
+
+** Passé
+
+ayant amerri
+amerri (invar.)

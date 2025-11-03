@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe acquiescer
+
+* INDICATIF
+
+** Présent
+
+j'acquiesce
+tu acquiesces
+il (elle) acquiesce
+nous acquiesçons
+vous acquiescez
+ils (elles) acquiescent
+
+** Imparfait
+
+j'acquiesçais
+tu acquiesçais
+il (elle) acquiesçait
+nous acquiescions
+vous acquiesciez
+ils (elles) acquiesçaient
+
+** Passé simple
+
+j'acquiesçai
+tu acquiesças
+il (elle) acquiesça
+nous acquiesçâmes
+vous acquiesçâtes
+ils (elles) acquiescèrent
+
+** Futur simple
+
+j'acquiescerai
+tu acquiesceras
+il (elle) acquiescera
+nous acquiescerons
+vous acquiescerez
+ils (elles) acquiesceront
+
+* CONDITIONNEL
+
+** Présent
+
+j'acquiescerais
+tu acquiescerais
+il (elle) acquiescerait
+nous acquiescerions
+vous acquiesceriez
+ils (elles) acquiesceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'acquiesce
+que tu acquiesces
+qu’il (elle) acquiesce
+que nous acquiescions
+que vous acquiesciez
+qu’ils (elles) acquiescent
+
+** Imparfait
+
+que j'acquiesçasse
+que tu acquiesçasses
+qu’il (elle) acquiesçât
+que nous acquiesçassions
+que vous acquiesçassiez
+qu’ils (elles) acquiesçassent
+
+* IMPÉRATIF
+
+** Présent
+
+acquiesce
+acquiesçons
+acquiescez
+
+* INFINITIF
+
+** Présent
+
+acquiescer
+
+* PARTICIPE
+
+** Présent
+
+acquiesçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai acquiescé
+tu as acquiescé
+il (elle) a acquiescé
+nous avons acquiescé
+vous avez acquiescé
+ils (elles) ont acquiescé
+
+** Plus-que-parfait
+
+j'avais acquiescé
+tu avais acquiescé
+il (elle) avait acquiescé
+nous avions acquiescé
+vous aviez acquiescé
+ils (elles) avaient acquiescé
+
+** Passé antérieur
+
+j'eus acquiescé
+tu eus acquiescé
+il (elle) eut acquiescé
+nous eûmes acquiescé
+vous eûtes acquiescé
+ils (elles) eurent acquiescé
+
+** Futur antérieur
+
+j'aurai acquiescé
+tu auras acquiescé
+il (elle) aura acquiescé
+nous aurons acquiescé
+vous aurez acquiescé
+ils (elles) auront acquiescé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais acquiescé
+tu aurais acquiescé
+il (elle) aurait acquiescé
+nous aurions acquiescé
+vous auriez acquiescé
+ils (elles) auraient acquiescé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie acquiescé
+que tu aies acquiescé
+qu’il (elle) ait acquiescé
+que nous ayons acquiescé
+que vous ayez acquiescé
+qu’ils (elles) aient acquiescé
+
+** Plus-que-parfait
+
+que j'eusse acquiescé
+que tu eusses acquiescé
+qu’il (elle) eût acquiescé
+que nous eussions acquiescé
+que vous eussiez acquiescé
+qu’ils (elles) eussent acquiescé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons acquiescé
+ayez acquiescé
+
+* INFINITIF
+
+** Passé
+
+avoir acquiescé
+
+* PARTICIPE
+
+** Passé
+
+ayant acquiescé
+acquiescé (invar.)

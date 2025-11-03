@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe muser
+
+* INDICATIF
+
+** Présent
+
+je muse
+tu muses
+il (elle) muse
+nous musons
+vous musez
+ils (elles) musent
+
+** Imparfait
+
+je musais
+tu musais
+il (elle) musait
+nous musions
+vous musiez
+ils (elles) musaient
+
+** Passé simple
+
+je musai
+tu musas
+il (elle) musa
+nous musâmes
+vous musâtes
+ils (elles) musèrent
+
+** Futur simple
+
+je muserai
+tu museras
+il (elle) musera
+nous muserons
+vous muserez
+ils (elles) museront
+
+* CONDITIONNEL
+
+** Présent
+
+je muserais
+tu muserais
+il (elle) muserait
+nous muserions
+vous museriez
+ils (elles) museraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je muse
+que tu muses
+qu’il (elle) muse
+que nous musions
+que vous musiez
+qu’ils (elles) musent
+
+** Imparfait
+
+que je musasse
+que tu musasses
+qu’il (elle) musât
+que nous musassions
+que vous musassiez
+qu’ils (elles) musassent
+
+* IMPÉRATIF
+
+** Présent
+
+muse
+musons
+musez
+
+* INFINITIF
+
+** Présent
+
+muser
+
+* PARTICIPE
+
+** Présent
+
+musant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai musé
+tu as musé
+il (elle) a musé
+nous avons musé
+vous avez musé
+ils (elles) ont musé
+
+** Plus-que-parfait
+
+j'avais musé
+tu avais musé
+il (elle) avait musé
+nous avions musé
+vous aviez musé
+ils (elles) avaient musé
+
+** Passé antérieur
+
+j'eus musé
+tu eus musé
+il (elle) eut musé
+nous eûmes musé
+vous eûtes musé
+ils (elles) eurent musé
+
+** Futur antérieur
+
+j'aurai musé
+tu auras musé
+il (elle) aura musé
+nous aurons musé
+vous aurez musé
+ils (elles) auront musé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais musé
+tu aurais musé
+il (elle) aurait musé
+nous aurions musé
+vous auriez musé
+ils (elles) auraient musé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie musé
+que tu aies musé
+qu’il (elle) ait musé
+que nous ayons musé
+que vous ayez musé
+qu’ils (elles) aient musé
+
+** Plus-que-parfait
+
+que j'eusse musé
+que tu eusses musé
+qu’il (elle) eût musé
+que nous eussions musé
+que vous eussiez musé
+qu’ils (elles) eussent musé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons musé
+ayez musé
+
+* INFINITIF
+
+** Passé
+
+avoir musé
+
+* PARTICIPE
+
+** Passé
+
+ayant musé
+musé (invar.)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe appeler
+
+* INDICATIF
+
+** Présent
+
+j'appelle
+tu appelles
+il (elle) appelle
+nous appelons
+vous appelez
+ils (elles) appellent
+
+** Imparfait
+
+j'appelais
+tu appelais
+il (elle) appelait
+nous appelions
+vous appeliez
+ils (elles) appelaient
+
+** Passé simple
+
+j'appelai
+tu appelas
+il (elle) appela
+nous appelâmes
+vous appelâtes
+ils (elles) appelèrent
+
+** Futur simple
+
+j'appellerai
+tu appelleras
+il (elle) appellera
+nous appellerons
+vous appellerez
+ils (elles) appelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'appellerais
+tu appellerais
+il (elle) appellerait
+nous appellerions
+vous appelleriez
+ils (elles) appelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'appelle
+que tu appelles
+qu’il (elle) appelle
+que nous appelions
+que vous appeliez
+qu’ils (elles) appellent
+
+** Imparfait
+
+que j'appelasse
+que tu appelasses
+qu’il (elle) appelât
+que nous appelassions
+que vous appelassiez
+qu’ils (elles) appelassent
+
+* IMPÉRATIF
+
+** Présent
+
+appelle
+appelons
+appelez
+
+* INFINITIF
+
+** Présent
+
+appeler
+
+* PARTICIPE
+
+** Présent
+
+appelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai appelé
+tu as appelé
+il (elle) a appelé
+nous avons appelé
+vous avez appelé
+ils (elles) ont appelé
+
+** Plus-que-parfait
+
+j'avais appelé
+tu avais appelé
+il (elle) avait appelé
+nous avions appelé
+vous aviez appelé
+ils (elles) avaient appelé
+
+** Passé antérieur
+
+j'eus appelé
+tu eus appelé
+il (elle) eut appelé
+nous eûmes appelé
+vous eûtes appelé
+ils (elles) eurent appelé
+
+** Futur antérieur
+
+j'aurai appelé
+tu auras appelé
+il (elle) aura appelé
+nous aurons appelé
+vous aurez appelé
+ils (elles) auront appelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais appelé
+tu aurais appelé
+il (elle) aurait appelé
+nous aurions appelé
+vous auriez appelé
+ils (elles) auraient appelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie appelé
+que tu aies appelé
+qu’il (elle) ait appelé
+que nous ayons appelé
+que vous ayez appelé
+qu’ils (elles) aient appelé
+
+** Plus-que-parfait
+
+que j'eusse appelé
+que tu eusses appelé
+qu’il (elle) eût appelé
+que nous eussions appelé
+que vous eussiez appelé
+qu’ils (elles) eussent appelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons appelé
+ayez appelé
+
+* INFINITIF
+
+** Passé
+
+avoir appelé
+
+* PARTICIPE
+
+** Passé
+
+ayant appelé
+appelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis appelé(e)
+tu es appelé(e)
+il (elle) est appelé(e)
+nous sommes appelé(e)s
+vous êtes appelé(e)s
+ils (elles) sont appelé(e)s
+
+** Imparfait
+
+j'étais appelé(e)
+tu étais appelé(e)
+il (elle) était appelé(e)
+nous étions appelé(e)s
+vous étiez appelé(e)s
+ils (elles) étaient appelé(e)s
+
+** Passé simple
+
+je fus appelé(e)
+tu fus appelé(e)
+il (elle) fut appelé(e)
+nous fûmes appelé(e)s
+vous fûtes appelé(e)s
+ils (elles) furent appelé(e)s
+
+** Futur simple
+
+je serai appelé(e)
+tu seras appelé(e)
+il (elle) sera appelé(e)
+nous serons appelé(e)s
+vous serez appelé(e)s
+ils (elles) seront appelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais appelé(e)
+tu serais appelé(e)
+il (elle) serait appelé(e)
+nous serions appelé(e)s
+vous seriez appelé(e)s
+ils (elles) seraient appelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois appelé(e)
+que tu sois appelé(e)
+qu’il (elle) soit appelé(e)
+que nous soyons appelé(e)s
+que vous soyez appelé(e)s
+qu’ils (elles) soient appelé(e)s
+
+** Imparfait
+
+que je fusse appelé(e)
+que tu fusses appelé(e)
+qu’il (elle) fût appelé(e)
+que nous fussions appelé(e)s
+que vous fussiez appelé(e)s
+qu’ils (elles) fussent appelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons appelé(e)s
+soyez appelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être appelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant appelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été appelé(e)
+tu as été appelé(e)
+il (elle) a été appelé(e)
+nous avons été appelé(e)s
+vous avez été appelé(e)s
+ils (elles) ont été appelé(e)s
+
+** Plus-que-parfait
+
+j'avais été appelé(e)
+il (elle) avait été appelé(e)
+nous avions été appelé(e)s
+ils (elles) avaient été appelé(e)s
+
+** Passé antérieur
+
+j'eus été appelé(e)
+tu eus été appelé(e)
+il (elle) eut été appelé(e)
+nous eûmes été appelé(e)s
+vous eûtes été appelé(e)s
+ils (elles) eurent été appelé(e)s
+
+** Futur antérieur
+
+j'aurai été appelé(e)
+tu auras été appelé(e)
+il (elle) aura été appelé(e)
+nous aurons été appelé(e)s
+vous aurez été appelé(e)s
+ils (elles) auront été appelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été appelé(e)
+j'aurais été appelé(e)
+il (elle) aurait été appelé(e)
+nous aurions été appelé(e)s
+vous auriez été appelé(e)s
+ils (elles) auraient été appelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été appelé(e)
+que tu aies été appelé(e)
+qu’il (elle) ait été appelé(e)
+que nous ayons été appelé(e)s
+que vous ayez été appelé(e)s
+qu’ils (elles) aient été appelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été appelé(e)
+que tu eusses été appelé(e)
+qu’il (elle) eût été appelé(e)
+que nous eussions été appelé(e)s
+que vous eussiez été appelé(e)s
+qu’ils (elles) eussent été appelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été appelé(e)
+ayons été appelé(e)s
+ayez été appelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été appelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été appelé(e)(s)

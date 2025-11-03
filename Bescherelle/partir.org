@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe partir
+
+* INDICATIF
+
+** Présent
+
+je pars
+tu pars
+il (elle) part
+nous partons
+vous partez
+ils (elles) partent
+
+** Imparfait
+
+je partais
+tu partais
+il (elle) partait
+nous partions
+vous partiez
+ils (elles) partaient
+
+** Passé simple
+
+je partis
+tu partis
+il (elle) partit
+nous partîmes
+vous partîtes
+ils (elles) partirent
+
+** Futur simple
+
+je partirai
+tu partiras
+il (elle) partira
+nous partirons
+vous partirez
+ils (elles) partiront
+
+* CONDITIONNEL
+
+** Présent
+
+je partirais
+tu partirais
+il (elle) partirait
+nous partirions
+vous partiriez
+ils (elles) partiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je parte
+que tu partes
+qu’il (elle) parte
+que nous partions
+que vous partiez
+qu’ils (elles) partent
+
+** Imparfait
+
+que je partisse
+que tu partisses
+qu’il (elle) partît
+que nous partissions
+que vous partissiez
+qu’ils (elles) partissent
+
+* IMPÉRATIF
+
+** Présent
+
+pars
+partons
+partez
+
+* INFINITIF
+
+** Présent
+
+partir
+
+* PARTICIPE
+
+** Présent
+
+partant
+
+* INDICATIF
+
+** Passé composé
+
+je suis parti(e)
+tu es parti(e)
+il (elle) est parti(e)
+nous sommes parti(e)s
+vous êtes parti(e)s
+ils (elles) sont parti(e)s
+
+** Plus-que-parfait
+
+j'étais parti(e)
+tu étais parti(e)
+il (elle) était parti(e)
+nous étions parti(e)s
+vous étiez parti(e)s
+ils (elles) étaient parti(e)s
+
+** Passé antérieur
+
+je fus parti(e)
+tu fus parti(e)
+il (elle) fut parti(e)
+nous fûmes parti(e)s
+vous fûtes parti(e)s
+ils (elles) furent parti(e)s
+
+** Futur antérieur
+
+je serai parti(e)
+tu seras parti(e)
+il (elle) sera parti(e)
+nous serons parti(e)s
+vous serez parti(e)s
+ils (elles) seront parti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+je serais parti(e)
+tu serais parti(e)
+il (elle) serait parti(e)
+nous serions parti(e)s
+vous seriez parti(e)s
+ils (elles) seraient parti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que je sois parti(e)
+que tu sois parti(e)
+qu’il (elle) soit parti(e)
+que nous soyons parti(e)s
+que vous soyez parti(e)s
+qu’ils (elles) soient parti(e)s
+
+** Plus-que-parfait
+
+que je fusse parti(e)
+que tu fusses parti(e)
+qu’il (elle) fût parti(e)
+que nous fussions parti(e)s
+que vous fussiez parti(e)s
+qu’ils (elles) fussent parti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+soyons parti(e)s
+soyez parti(e)s
+
+* INFINITIF
+
+** Passé
+
+être parti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+étant parti(e)(s)
+parti (i, ie, is, ies)

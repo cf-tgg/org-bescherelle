@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe transmettre
+
+* INDICATIF
+
+** Présent
+
+je transmets
+tu transmets
+il (elle) transmet
+nous transmettons
+vous transmettez
+ils (elles) transmettent
+
+** Imparfait
+
+je transmettais
+tu transmettais
+il (elle) transmettait
+nous transmettions
+vous transmettiez
+ils (elles) transmettaient
+
+** Passé simple
+
+je transmis
+tu transmis
+il (elle) transmit
+nous transmîmes
+vous transmîtes
+ils (elles) transmirent
+
+** Futur simple
+
+je transmettrai
+tu transmettras
+il (elle) transmettra
+nous transmettrons
+vous transmettrez
+ils (elles) transmettront
+
+* CONDITIONNEL
+
+** Présent
+
+je transmettrais
+tu transmettrais
+il (elle) transmettrait
+nous transmettrions
+vous transmettriez
+ils (elles) transmettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je transmette
+que tu transmettes
+qu’il (elle) transmette
+que nous transmettions
+que vous transmettiez
+qu’ils (elles) transmettent
+
+** Imparfait
+
+que je transmisse
+que tu transmisses
+qu’il (elle) transmît
+que nous transmissions
+que vous transmissiez
+qu’ils (elles) transmissent
+
+* IMPÉRATIF
+
+** Présent
+
+transmets
+transmettons
+transmettez
+
+* INFINITIF
+
+** Présent
+
+transmettre
+
+* PARTICIPE
+
+** Présent
+
+transmettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai transmis
+tu as transmis
+il (elle) a transmis
+nous avons transmis
+vous avez transmis
+ils (elles) ont transmis
+
+** Plus-que-parfait
+
+j'avais transmis
+tu avais transmis
+il (elle) avait transmis
+nous avions transmis
+vous aviez transmis
+ils (elles) avaient transmis
+
+** Passé antérieur
+
+j'eus transmis
+tu eus transmis
+il (elle) eut transmis
+nous eûmes transmis
+vous eûtes transmis
+ils (elles) eurent transmis
+
+** Futur antérieur
+
+j'aurai transmis
+tu auras transmis
+il (elle) aura transmis
+nous aurons transmis
+vous aurez transmis
+ils (elles) auront transmis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais transmis
+tu aurais transmis
+il (elle) aurait transmis
+nous aurions transmis
+vous auriez transmis
+ils (elles) auraient transmis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie transmis
+que tu aies transmis
+qu’il (elle) ait transmis
+que nous ayons transmis
+que vous ayez transmis
+qu’ils (elles) aient transmis
+
+** Plus-que-parfait
+
+que j'eusse transmis
+que tu eusses transmis
+qu’il (elle) eût transmis
+que nous eussions transmis
+que vous eussiez transmis
+qu’ils (elles) eussent transmis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons transmis
+ayez transmis
+
+* INFINITIF
+
+** Passé
+
+avoir transmis
+
+* PARTICIPE
+
+** Passé
+
+ayant transmis
+transmis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis transmis(e)
+tu es transmis(e)
+il (elle) est transmis(e)
+nous sommes transmis(es)
+vous êtes transmis(es)
+ils (elles) sont transmis(es)
+
+** Imparfait
+
+j'étais transmis(e)
+tu étais transmis(e)
+il (elle) était transmis(e)
+nous étions transmis(es)
+vous étiez transmis(es)
+ils (elles) étaient transmis(es)
+
+** Passé simple
+
+je fus transmis(e)
+tu fus transmis(e)
+il (elle) fut transmis(e)
+nous fûmes transmis(es)
+vous fûtes transmis(es)
+ils (elles) furent transmis(es)
+
+** Futur simple
+
+je serai transmis(e)
+tu seras transmis(e)
+il (elle) sera transmis(e)
+nous serons transmis(es)
+vous serez transmis(es)
+ils (elles) seront transmis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais transmis(e)
+tu serais transmis(e)
+il (elle) serait transmis(e)
+nous serions transmis(es)
+vous seriez transmis(es)
+ils (elles) seraient transmis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois transmis(e)
+que tu sois transmis(e)
+qu’il (elle) soit transmis(e)
+que nous soyons transmis(es)
+que vous soyez transmis(es)
+qu’ils (elles) soient transmis(es)
+
+** Imparfait
+
+que je fusse transmis(e)
+que tu fusses transmis(e)
+qu’il (elle) fût transmis(e)
+que nous fussions transmis(es)
+que vous fussiez transmis(es)
+qu’ils (elles) fussent transmis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons transmis(es)
+soyez transmis(es)
+
+* INFINITIF
+
+** Présent
+
+être transmis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant transmis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été transmis(e)
+tu as été transmis(e)
+il (elle) a été transmis(e)
+nous avons été transmis(es)
+vous avez été transmis(es)
+ils (elles) ont été transmis(es)
+
+** Plus-que-parfait
+
+j'avais été transmis(e)
+il (elle) avait été transmis(e)
+nous avions été transmis(es)
+ils (elles) avaient été transmis(es)
+
+** Passé antérieur
+
+j'eus été transmis(e)
+tu eus été transmis(e)
+il (elle) eut été transmis(e)
+nous eûmes été transmis(es)
+vous eûtes été transmis(es)
+ils (elles) eurent été transmis(es)
+
+** Futur antérieur
+
+j'aurai été transmis(e)
+tu auras été transmis(e)
+il (elle) aura été transmis(e)
+nous aurons été transmis(es)
+vous aurez été transmis(es)
+ils (elles) auront été transmis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été transmis(e)
+j'aurais été transmis(e)
+il (elle) aurait été transmis(e)
+nous aurions été transmis(es)
+vous auriez été transmis(es)
+ils (elles) auraient été transmis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été transmis(e)
+que tu aies été transmis(e)
+qu’il (elle) ait été transmis(e)
+que nous ayons été transmis(es)
+que vous ayez été transmis(es)
+qu’ils (elles) aient été transmis(es)
+
+** Plus-que-parfait
+
+que j'eusse été transmis(e)
+que tu eusses été transmis(e)
+qu’il (elle) eût été transmis(e)
+que nous eussions été transmis(es)
+que vous eussiez été transmis(es)
+qu’ils (elles) eussent été transmis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été transmis(e)
+ayons été transmis(es)
+ayez été transmis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été transmis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été transmis (s, se, s, ses)

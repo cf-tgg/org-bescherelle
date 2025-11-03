@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe freiner
+
+* INDICATIF
+
+** Présent
+
+je freine
+tu freines
+il (elle) freine
+nous freinons
+vous freinez
+ils (elles) freinent
+
+** Imparfait
+
+je freinais
+tu freinais
+il (elle) freinait
+nous freinions
+vous freiniez
+ils (elles) freinaient
+
+** Passé simple
+
+je freinai
+tu freinas
+il (elle) freina
+nous freinâmes
+vous freinâtes
+ils (elles) freinèrent
+
+** Futur simple
+
+je freinerai
+tu freineras
+il (elle) freinera
+nous freinerons
+vous freinerez
+ils (elles) freineront
+
+* CONDITIONNEL
+
+** Présent
+
+je freinerais
+tu freinerais
+il (elle) freinerait
+nous freinerions
+vous freineriez
+ils (elles) freineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je freine
+que tu freines
+qu’il (elle) freine
+que nous freinions
+que vous freiniez
+qu’ils (elles) freinent
+
+** Imparfait
+
+que je freinasse
+que tu freinasses
+qu’il (elle) freinât
+que nous freinassions
+que vous freinassiez
+qu’ils (elles) freinassent
+
+* IMPÉRATIF
+
+** Présent
+
+freine
+freinons
+freinez
+
+* INFINITIF
+
+** Présent
+
+freiner
+
+* PARTICIPE
+
+** Présent
+
+freinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai freiné
+tu as freiné
+il (elle) a freiné
+nous avons freiné
+vous avez freiné
+ils (elles) ont freiné
+
+** Plus-que-parfait
+
+j'avais freiné
+tu avais freiné
+il (elle) avait freiné
+nous avions freiné
+vous aviez freiné
+ils (elles) avaient freiné
+
+** Passé antérieur
+
+j'eus freiné
+tu eus freiné
+il (elle) eut freiné
+nous eûmes freiné
+vous eûtes freiné
+ils (elles) eurent freiné
+
+** Futur antérieur
+
+j'aurai freiné
+tu auras freiné
+il (elle) aura freiné
+nous aurons freiné
+vous aurez freiné
+ils (elles) auront freiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais freiné
+tu aurais freiné
+il (elle) aurait freiné
+nous aurions freiné
+vous auriez freiné
+ils (elles) auraient freiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie freiné
+que tu aies freiné
+qu’il (elle) ait freiné
+que nous ayons freiné
+que vous ayez freiné
+qu’ils (elles) aient freiné
+
+** Plus-que-parfait
+
+que j'eusse freiné
+que tu eusses freiné
+qu’il (elle) eût freiné
+que nous eussions freiné
+que vous eussiez freiné
+qu’ils (elles) eussent freiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons freiné
+ayez freiné
+
+* INFINITIF
+
+** Passé
+
+avoir freiné
+
+* PARTICIPE
+
+** Passé
+
+ayant freiné
+freiné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis freiné(e)
+tu es freiné(e)
+il (elle) est freiné(e)
+nous sommes freiné(e)s
+vous êtes freiné(e)s
+ils (elles) sont freiné(e)s
+
+** Imparfait
+
+j'étais freiné(e)
+tu étais freiné(e)
+il (elle) était freiné(e)
+nous étions freiné(e)s
+vous étiez freiné(e)s
+ils (elles) étaient freiné(e)s
+
+** Passé simple
+
+je fus freiné(e)
+tu fus freiné(e)
+il (elle) fut freiné(e)
+nous fûmes freiné(e)s
+vous fûtes freiné(e)s
+ils (elles) furent freiné(e)s
+
+** Futur simple
+
+je serai freiné(e)
+tu seras freiné(e)
+il (elle) sera freiné(e)
+nous serons freiné(e)s
+vous serez freiné(e)s
+ils (elles) seront freiné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais freiné(e)
+tu serais freiné(e)
+il (elle) serait freiné(e)
+nous serions freiné(e)s
+vous seriez freiné(e)s
+ils (elles) seraient freiné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois freiné(e)
+que tu sois freiné(e)
+qu’il (elle) soit freiné(e)
+que nous soyons freiné(e)s
+que vous soyez freiné(e)s
+qu’ils (elles) soient freiné(e)s
+
+** Imparfait
+
+que je fusse freiné(e)
+que tu fusses freiné(e)
+qu’il (elle) fût freiné(e)
+que nous fussions freiné(e)s
+que vous fussiez freiné(e)s
+qu’ils (elles) fussent freiné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons freiné(e)s
+soyez freiné(e)s
+
+* INFINITIF
+
+** Présent
+
+être freiné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant freiné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été freiné(e)
+tu as été freiné(e)
+il (elle) a été freiné(e)
+nous avons été freiné(e)s
+vous avez été freiné(e)s
+ils (elles) ont été freiné(e)s
+
+** Plus-que-parfait
+
+j'avais été freiné(e)
+il (elle) avait été freiné(e)
+nous avions été freiné(e)s
+ils (elles) avaient été freiné(e)s
+
+** Passé antérieur
+
+j'eus été freiné(e)
+tu eus été freiné(e)
+il (elle) eut été freiné(e)
+nous eûmes été freiné(e)s
+vous eûtes été freiné(e)s
+ils (elles) eurent été freiné(e)s
+
+** Futur antérieur
+
+j'aurai été freiné(e)
+tu auras été freiné(e)
+il (elle) aura été freiné(e)
+nous aurons été freiné(e)s
+vous aurez été freiné(e)s
+ils (elles) auront été freiné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été freiné(e)
+j'aurais été freiné(e)
+il (elle) aurait été freiné(e)
+nous aurions été freiné(e)s
+vous auriez été freiné(e)s
+ils (elles) auraient été freiné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été freiné(e)
+que tu aies été freiné(e)
+qu’il (elle) ait été freiné(e)
+que nous ayons été freiné(e)s
+que vous ayez été freiné(e)s
+qu’ils (elles) aient été freiné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été freiné(e)
+que tu eusses été freiné(e)
+qu’il (elle) eût été freiné(e)
+que nous eussions été freiné(e)s
+que vous eussiez été freiné(e)s
+qu’ils (elles) eussent été freiné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été freiné(e)
+ayons été freiné(e)s
+ayez été freiné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été freiné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été freiné(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe inviter
+
+* INDICATIF
+
+** Présent
+
+j'invite
+tu invites
+il (elle) invite
+nous invitons
+vous invitez
+ils (elles) invitent
+
+** Imparfait
+
+j'invitais
+tu invitais
+il (elle) invitait
+nous invitions
+vous invitiez
+ils (elles) invitaient
+
+** Passé simple
+
+j'invitai
+tu invitas
+il (elle) invita
+nous invitâmes
+vous invitâtes
+ils (elles) invitèrent
+
+** Futur simple
+
+j'inviterai
+tu inviteras
+il (elle) invitera
+nous inviterons
+vous inviterez
+ils (elles) inviteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'inviterais
+tu inviterais
+il (elle) inviterait
+nous inviterions
+vous inviteriez
+ils (elles) inviteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'invite
+que tu invites
+qu’il (elle) invite
+que nous invitions
+que vous invitiez
+qu’ils (elles) invitent
+
+** Imparfait
+
+que j'invitasse
+que tu invitasses
+qu’il (elle) invitât
+que nous invitassions
+que vous invitassiez
+qu’ils (elles) invitassent
+
+* IMPÉRATIF
+
+** Présent
+
+invite
+invitons
+invitez
+
+* INFINITIF
+
+** Présent
+
+inviter
+
+* PARTICIPE
+
+** Présent
+
+invitant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai invité
+tu as invité
+il (elle) a invité
+nous avons invité
+vous avez invité
+ils (elles) ont invité
+
+** Plus-que-parfait
+
+j'avais invité
+tu avais invité
+il (elle) avait invité
+nous avions invité
+vous aviez invité
+ils (elles) avaient invité
+
+** Passé antérieur
+
+j'eus invité
+tu eus invité
+il (elle) eut invité
+nous eûmes invité
+vous eûtes invité
+ils (elles) eurent invité
+
+** Futur antérieur
+
+j'aurai invité
+tu auras invité
+il (elle) aura invité
+nous aurons invité
+vous aurez invité
+ils (elles) auront invité
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais invité
+tu aurais invité
+il (elle) aurait invité
+nous aurions invité
+vous auriez invité
+ils (elles) auraient invité
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie invité
+que tu aies invité
+qu’il (elle) ait invité
+que nous ayons invité
+que vous ayez invité
+qu’ils (elles) aient invité
+
+** Plus-que-parfait
+
+que j'eusse invité
+que tu eusses invité
+qu’il (elle) eût invité
+que nous eussions invité
+que vous eussiez invité
+qu’ils (elles) eussent invité
+
+* IMPÉRATIF
+
+** Passé
+
+ayons invité
+ayez invité
+
+* INFINITIF
+
+** Passé
+
+avoir invité
+
+* PARTICIPE
+
+** Passé
+
+ayant invité
+invité (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis invité(e)
+tu es invité(e)
+il (elle) est invité(e)
+nous sommes invité(e)s
+vous êtes invité(e)s
+ils (elles) sont invité(e)s
+
+** Imparfait
+
+j'étais invité(e)
+tu étais invité(e)
+il (elle) était invité(e)
+nous étions invité(e)s
+vous étiez invité(e)s
+ils (elles) étaient invité(e)s
+
+** Passé simple
+
+je fus invité(e)
+tu fus invité(e)
+il (elle) fut invité(e)
+nous fûmes invité(e)s
+vous fûtes invité(e)s
+ils (elles) furent invité(e)s
+
+** Futur simple
+
+je serai invité(e)
+tu seras invité(e)
+il (elle) sera invité(e)
+nous serons invité(e)s
+vous serez invité(e)s
+ils (elles) seront invité(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais invité(e)
+tu serais invité(e)
+il (elle) serait invité(e)
+nous serions invité(e)s
+vous seriez invité(e)s
+ils (elles) seraient invité(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois invité(e)
+que tu sois invité(e)
+qu’il (elle) soit invité(e)
+que nous soyons invité(e)s
+que vous soyez invité(e)s
+qu’ils (elles) soient invité(e)s
+
+** Imparfait
+
+que je fusse invité(e)
+que tu fusses invité(e)
+qu’il (elle) fût invité(e)
+que nous fussions invité(e)s
+que vous fussiez invité(e)s
+qu’ils (elles) fussent invité(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons invité(e)s
+soyez invité(e)s
+
+* INFINITIF
+
+** Présent
+
+être invité(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant invité(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été invité(e)
+tu as été invité(e)
+il (elle) a été invité(e)
+nous avons été invité(e)s
+vous avez été invité(e)s
+ils (elles) ont été invité(e)s
+
+** Plus-que-parfait
+
+j'avais été invité(e)
+il (elle) avait été invité(e)
+nous avions été invité(e)s
+ils (elles) avaient été invité(e)s
+
+** Passé antérieur
+
+j'eus été invité(e)
+tu eus été invité(e)
+il (elle) eut été invité(e)
+nous eûmes été invité(e)s
+vous eûtes été invité(e)s
+ils (elles) eurent été invité(e)s
+
+** Futur antérieur
+
+j'aurai été invité(e)
+tu auras été invité(e)
+il (elle) aura été invité(e)
+nous aurons été invité(e)s
+vous aurez été invité(e)s
+ils (elles) auront été invité(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été invité(e)
+j'aurais été invité(e)
+il (elle) aurait été invité(e)
+nous aurions été invité(e)s
+vous auriez été invité(e)s
+ils (elles) auraient été invité(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été invité(e)
+que tu aies été invité(e)
+qu’il (elle) ait été invité(e)
+que nous ayons été invité(e)s
+que vous ayez été invité(e)s
+qu’ils (elles) aient été invité(e)s
+
+** Plus-que-parfait
+
+que j'eusse été invité(e)
+que tu eusses été invité(e)
+qu’il (elle) eût été invité(e)
+que nous eussions été invité(e)s
+que vous eussiez été invité(e)s
+qu’ils (elles) eussent été invité(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été invité(e)
+ayons été invité(e)s
+ayez été invité(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été invité(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été invité(e)(s)

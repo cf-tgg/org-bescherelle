@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe analyser
+
+* INDICATIF
+
+** Présent
+
+j'analyse
+tu analyses
+il (elle) analyse
+nous analysons
+vous analysez
+ils (elles) analysent
+
+** Imparfait
+
+j'analysais
+tu analysais
+il (elle) analysait
+nous analysions
+vous analysiez
+ils (elles) analysaient
+
+** Passé simple
+
+j'analysai
+tu analysas
+il (elle) analysa
+nous analysâmes
+vous analysâtes
+ils (elles) analysèrent
+
+** Futur simple
+
+j'analyserai
+tu analyseras
+il (elle) analysera
+nous analyserons
+vous analyserez
+ils (elles) analyseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'analyserais
+tu analyserais
+il (elle) analyserait
+nous analyserions
+vous analyseriez
+ils (elles) analyseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'analyse
+que tu analyses
+qu’il (elle) analyse
+que nous analysions
+que vous analysiez
+qu’ils (elles) analysent
+
+** Imparfait
+
+que j'analysasse
+que tu analysasses
+qu’il (elle) analysât
+que nous analysassions
+que vous analysassiez
+qu’ils (elles) analysassent
+
+* IMPÉRATIF
+
+** Présent
+
+analyse
+analysons
+analysez
+
+* INFINITIF
+
+** Présent
+
+analyser
+
+* PARTICIPE
+
+** Présent
+
+analysant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai analysé
+tu as analysé
+il (elle) a analysé
+nous avons analysé
+vous avez analysé
+ils (elles) ont analysé
+
+** Plus-que-parfait
+
+j'avais analysé
+tu avais analysé
+il (elle) avait analysé
+nous avions analysé
+vous aviez analysé
+ils (elles) avaient analysé
+
+** Passé antérieur
+
+j'eus analysé
+tu eus analysé
+il (elle) eut analysé
+nous eûmes analysé
+vous eûtes analysé
+ils (elles) eurent analysé
+
+** Futur antérieur
+
+j'aurai analysé
+tu auras analysé
+il (elle) aura analysé
+nous aurons analysé
+vous aurez analysé
+ils (elles) auront analysé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais analysé
+tu aurais analysé
+il (elle) aurait analysé
+nous aurions analysé
+vous auriez analysé
+ils (elles) auraient analysé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie analysé
+que tu aies analysé
+qu’il (elle) ait analysé
+que nous ayons analysé
+que vous ayez analysé
+qu’ils (elles) aient analysé
+
+** Plus-que-parfait
+
+que j'eusse analysé
+que tu eusses analysé
+qu’il (elle) eût analysé
+que nous eussions analysé
+que vous eussiez analysé
+qu’ils (elles) eussent analysé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons analysé
+ayez analysé
+
+* INFINITIF
+
+** Passé
+
+avoir analysé
+
+* PARTICIPE
+
+** Passé
+
+ayant analysé
+analysé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis analysé(e)
+tu es analysé(e)
+il (elle) est analysé(e)
+nous sommes analysé(e)s
+vous êtes analysé(e)s
+ils (elles) sont analysé(e)s
+
+** Imparfait
+
+j'étais analysé(e)
+tu étais analysé(e)
+il (elle) était analysé(e)
+nous étions analysé(e)s
+vous étiez analysé(e)s
+ils (elles) étaient analysé(e)s
+
+** Passé simple
+
+je fus analysé(e)
+tu fus analysé(e)
+il (elle) fut analysé(e)
+nous fûmes analysé(e)s
+vous fûtes analysé(e)s
+ils (elles) furent analysé(e)s
+
+** Futur simple
+
+je serai analysé(e)
+tu seras analysé(e)
+il (elle) sera analysé(e)
+nous serons analysé(e)s
+vous serez analysé(e)s
+ils (elles) seront analysé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais analysé(e)
+tu serais analysé(e)
+il (elle) serait analysé(e)
+nous serions analysé(e)s
+vous seriez analysé(e)s
+ils (elles) seraient analysé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois analysé(e)
+que tu sois analysé(e)
+qu’il (elle) soit analysé(e)
+que nous soyons analysé(e)s
+que vous soyez analysé(e)s
+qu’ils (elles) soient analysé(e)s
+
+** Imparfait
+
+que je fusse analysé(e)
+que tu fusses analysé(e)
+qu’il (elle) fût analysé(e)
+que nous fussions analysé(e)s
+que vous fussiez analysé(e)s
+qu’ils (elles) fussent analysé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons analysé(e)s
+soyez analysé(e)s
+
+* INFINITIF
+
+** Présent
+
+être analysé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant analysé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été analysé(e)
+tu as été analysé(e)
+il (elle) a été analysé(e)
+nous avons été analysé(e)s
+vous avez été analysé(e)s
+ils (elles) ont été analysé(e)s
+
+** Plus-que-parfait
+
+j'avais été analysé(e)
+il (elle) avait été analysé(e)
+nous avions été analysé(e)s
+ils (elles) avaient été analysé(e)s
+
+** Passé antérieur
+
+j'eus été analysé(e)
+tu eus été analysé(e)
+il (elle) eut été analysé(e)
+nous eûmes été analysé(e)s
+vous eûtes été analysé(e)s
+ils (elles) eurent été analysé(e)s
+
+** Futur antérieur
+
+j'aurai été analysé(e)
+tu auras été analysé(e)
+il (elle) aura été analysé(e)
+nous aurons été analysé(e)s
+vous aurez été analysé(e)s
+ils (elles) auront été analysé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été analysé(e)
+j'aurais été analysé(e)
+il (elle) aurait été analysé(e)
+nous aurions été analysé(e)s
+vous auriez été analysé(e)s
+ils (elles) auraient été analysé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été analysé(e)
+que tu aies été analysé(e)
+qu’il (elle) ait été analysé(e)
+que nous ayons été analysé(e)s
+que vous ayez été analysé(e)s
+qu’ils (elles) aient été analysé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été analysé(e)
+que tu eusses été analysé(e)
+qu’il (elle) eût été analysé(e)
+que nous eussions été analysé(e)s
+que vous eussiez été analysé(e)s
+qu’ils (elles) eussent été analysé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été analysé(e)
+ayons été analysé(e)s
+ayez été analysé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été analysé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été analysé(e)(s)

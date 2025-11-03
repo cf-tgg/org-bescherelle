@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe jurer
+
+* INDICATIF
+
+** Présent
+
+je jure
+tu jures
+il (elle) jure
+nous jurons
+vous jurez
+ils (elles) jurent
+
+** Imparfait
+
+je jurais
+tu jurais
+il (elle) jurait
+nous jurions
+vous juriez
+ils (elles) juraient
+
+** Passé simple
+
+je jurai
+tu juras
+il (elle) jura
+nous jurâmes
+vous jurâtes
+ils (elles) jurèrent
+
+** Futur simple
+
+je jurerai
+tu jureras
+il (elle) jurera
+nous jurerons
+vous jurerez
+ils (elles) jureront
+
+* CONDITIONNEL
+
+** Présent
+
+je jurerais
+tu jurerais
+il (elle) jurerait
+nous jurerions
+vous jureriez
+ils (elles) jureraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jure
+que tu jures
+qu’il (elle) jure
+que nous jurions
+que vous juriez
+qu’ils (elles) jurent
+
+** Imparfait
+
+que je jurasse
+que tu jurasses
+qu’il (elle) jurât
+que nous jurassions
+que vous jurassiez
+qu’ils (elles) jurassent
+
+* IMPÉRATIF
+
+** Présent
+
+jure
+jurons
+jurez
+
+* INFINITIF
+
+** Présent
+
+jurer
+
+* PARTICIPE
+
+** Présent
+
+jurant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai juré
+tu as juré
+il (elle) a juré
+nous avons juré
+vous avez juré
+ils (elles) ont juré
+
+** Plus-que-parfait
+
+j'avais juré
+tu avais juré
+il (elle) avait juré
+nous avions juré
+vous aviez juré
+ils (elles) avaient juré
+
+** Passé antérieur
+
+j'eus juré
+tu eus juré
+il (elle) eut juré
+nous eûmes juré
+vous eûtes juré
+ils (elles) eurent juré
+
+** Futur antérieur
+
+j'aurai juré
+tu auras juré
+il (elle) aura juré
+nous aurons juré
+vous aurez juré
+ils (elles) auront juré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais juré
+tu aurais juré
+il (elle) aurait juré
+nous aurions juré
+vous auriez juré
+ils (elles) auraient juré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie juré
+que tu aies juré
+qu’il (elle) ait juré
+que nous ayons juré
+que vous ayez juré
+qu’ils (elles) aient juré
+
+** Plus-que-parfait
+
+que j'eusse juré
+que tu eusses juré
+qu’il (elle) eût juré
+que nous eussions juré
+que vous eussiez juré
+qu’ils (elles) eussent juré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons juré
+ayez juré
+
+* INFINITIF
+
+** Passé
+
+avoir juré
+
+* PARTICIPE
+
+** Passé
+
+ayant juré
+juré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis juré(e)
+tu es juré(e)
+il (elle) est juré(e)
+nous sommes juré(e)s
+vous êtes juré(e)s
+ils (elles) sont juré(e)s
+
+** Imparfait
+
+j'étais juré(e)
+tu étais juré(e)
+il (elle) était juré(e)
+nous étions juré(e)s
+vous étiez juré(e)s
+ils (elles) étaient juré(e)s
+
+** Passé simple
+
+je fus juré(e)
+tu fus juré(e)
+il (elle) fut juré(e)
+nous fûmes juré(e)s
+vous fûtes juré(e)s
+ils (elles) furent juré(e)s
+
+** Futur simple
+
+je serai juré(e)
+tu seras juré(e)
+il (elle) sera juré(e)
+nous serons juré(e)s
+vous serez juré(e)s
+ils (elles) seront juré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais juré(e)
+tu serais juré(e)
+il (elle) serait juré(e)
+nous serions juré(e)s
+vous seriez juré(e)s
+ils (elles) seraient juré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois juré(e)
+que tu sois juré(e)
+qu’il (elle) soit juré(e)
+que nous soyons juré(e)s
+que vous soyez juré(e)s
+qu’ils (elles) soient juré(e)s
+
+** Imparfait
+
+que je fusse juré(e)
+que tu fusses juré(e)
+qu’il (elle) fût juré(e)
+que nous fussions juré(e)s
+que vous fussiez juré(e)s
+qu’ils (elles) fussent juré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons juré(e)s
+soyez juré(e)s
+
+* INFINITIF
+
+** Présent
+
+être juré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant juré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été juré(e)
+tu as été juré(e)
+il (elle) a été juré(e)
+nous avons été juré(e)s
+vous avez été juré(e)s
+ils (elles) ont été juré(e)s
+
+** Plus-que-parfait
+
+j'avais été juré(e)
+il (elle) avait été juré(e)
+nous avions été juré(e)s
+ils (elles) avaient été juré(e)s
+
+** Passé antérieur
+
+j'eus été juré(e)
+tu eus été juré(e)
+il (elle) eut été juré(e)
+nous eûmes été juré(e)s
+vous eûtes été juré(e)s
+ils (elles) eurent été juré(e)s
+
+** Futur antérieur
+
+j'aurai été juré(e)
+tu auras été juré(e)
+il (elle) aura été juré(e)
+nous aurons été juré(e)s
+vous aurez été juré(e)s
+ils (elles) auront été juré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été juré(e)
+j'aurais été juré(e)
+il (elle) aurait été juré(e)
+nous aurions été juré(e)s
+vous auriez été juré(e)s
+ils (elles) auraient été juré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été juré(e)
+que tu aies été juré(e)
+qu’il (elle) ait été juré(e)
+que nous ayons été juré(e)s
+que vous ayez été juré(e)s
+qu’ils (elles) aient été juré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été juré(e)
+que tu eusses été juré(e)
+qu’il (elle) eût été juré(e)
+que nous eussions été juré(e)s
+que vous eussiez été juré(e)s
+qu’ils (elles) eussent été juré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été juré(e)
+ayons été juré(e)s
+ayez été juré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été juré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été juré(e)(s)

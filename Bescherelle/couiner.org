@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe couiner
+
+* INDICATIF
+
+** Présent
+
+je couine
+tu couines
+il (elle) couine
+nous couinons
+vous couinez
+ils (elles) couinent
+
+** Imparfait
+
+je couinais
+tu couinais
+il (elle) couinait
+nous couinions
+vous couiniez
+ils (elles) couinaient
+
+** Passé simple
+
+je couinai
+tu couinas
+il (elle) couina
+nous couinâmes
+vous couinâtes
+ils (elles) couinèrent
+
+** Futur simple
+
+je couinerai
+tu couineras
+il (elle) couinera
+nous couinerons
+vous couinerez
+ils (elles) couineront
+
+* CONDITIONNEL
+
+** Présent
+
+je couinerais
+tu couinerais
+il (elle) couinerait
+nous couinerions
+vous couineriez
+ils (elles) couineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je couine
+que tu couines
+qu’il (elle) couine
+que nous couinions
+que vous couiniez
+qu’ils (elles) couinent
+
+** Imparfait
+
+que je couinasse
+que tu couinasses
+qu’il (elle) couinât
+que nous couinassions
+que vous couinassiez
+qu’ils (elles) couinassent
+
+* IMPÉRATIF
+
+** Présent
+
+couine
+couinons
+couinez
+
+* INFINITIF
+
+** Présent
+
+couiner
+
+* PARTICIPE
+
+** Présent
+
+couinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai couiné
+tu as couiné
+il (elle) a couiné
+nous avons couiné
+vous avez couiné
+ils (elles) ont couiné
+
+** Plus-que-parfait
+
+j'avais couiné
+tu avais couiné
+il (elle) avait couiné
+nous avions couiné
+vous aviez couiné
+ils (elles) avaient couiné
+
+** Passé antérieur
+
+j'eus couiné
+tu eus couiné
+il (elle) eut couiné
+nous eûmes couiné
+vous eûtes couiné
+ils (elles) eurent couiné
+
+** Futur antérieur
+
+j'aurai couiné
+tu auras couiné
+il (elle) aura couiné
+nous aurons couiné
+vous aurez couiné
+ils (elles) auront couiné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais couiné
+tu aurais couiné
+il (elle) aurait couiné
+nous aurions couiné
+vous auriez couiné
+ils (elles) auraient couiné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie couiné
+que tu aies couiné
+qu’il (elle) ait couiné
+que nous ayons couiné
+que vous ayez couiné
+qu’ils (elles) aient couiné
+
+** Plus-que-parfait
+
+que j'eusse couiné
+que tu eusses couiné
+qu’il (elle) eût couiné
+que nous eussions couiné
+que vous eussiez couiné
+qu’ils (elles) eussent couiné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons couiné
+ayez couiné
+
+* INFINITIF
+
+** Passé
+
+avoir couiné
+
+* PARTICIPE
+
+** Passé
+
+ayant couiné
+couiné (invar.)

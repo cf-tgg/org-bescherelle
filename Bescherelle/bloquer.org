@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bloquer
+
+* INDICATIF
+
+** Présent
+
+je bloque
+tu bloques
+il (elle) bloque
+nous bloquons
+vous bloquez
+ils (elles) bloquent
+
+** Imparfait
+
+je bloquais
+tu bloquais
+il (elle) bloquait
+nous bloquions
+vous bloquiez
+ils (elles) bloquaient
+
+** Passé simple
+
+je bloquai
+tu bloquas
+il (elle) bloqua
+nous bloquâmes
+vous bloquâtes
+ils (elles) bloquèrent
+
+** Futur simple
+
+je bloquerai
+tu bloqueras
+il (elle) bloquera
+nous bloquerons
+vous bloquerez
+ils (elles) bloqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je bloquerais
+tu bloquerais
+il (elle) bloquerait
+nous bloquerions
+vous bloqueriez
+ils (elles) bloqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bloque
+que tu bloques
+qu’il (elle) bloque
+que nous bloquions
+que vous bloquiez
+qu’ils (elles) bloquent
+
+** Imparfait
+
+que je bloquasse
+que tu bloquasses
+qu’il (elle) bloquât
+que nous bloquassions
+que vous bloquassiez
+qu’ils (elles) bloquassent
+
+* IMPÉRATIF
+
+** Présent
+
+bloque
+bloquons
+bloquez
+
+* INFINITIF
+
+** Présent
+
+bloquer
+
+* PARTICIPE
+
+** Présent
+
+bloquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bloqué
+tu as bloqué
+il (elle) a bloqué
+nous avons bloqué
+vous avez bloqué
+ils (elles) ont bloqué
+
+** Plus-que-parfait
+
+j'avais bloqué
+tu avais bloqué
+il (elle) avait bloqué
+nous avions bloqué
+vous aviez bloqué
+ils (elles) avaient bloqué
+
+** Passé antérieur
+
+j'eus bloqué
+tu eus bloqué
+il (elle) eut bloqué
+nous eûmes bloqué
+vous eûtes bloqué
+ils (elles) eurent bloqué
+
+** Futur antérieur
+
+j'aurai bloqué
+tu auras bloqué
+il (elle) aura bloqué
+nous aurons bloqué
+vous aurez bloqué
+ils (elles) auront bloqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bloqué
+tu aurais bloqué
+il (elle) aurait bloqué
+nous aurions bloqué
+vous auriez bloqué
+ils (elles) auraient bloqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bloqué
+que tu aies bloqué
+qu’il (elle) ait bloqué
+que nous ayons bloqué
+que vous ayez bloqué
+qu’ils (elles) aient bloqué
+
+** Plus-que-parfait
+
+que j'eusse bloqué
+que tu eusses bloqué
+qu’il (elle) eût bloqué
+que nous eussions bloqué
+que vous eussiez bloqué
+qu’ils (elles) eussent bloqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bloqué
+ayez bloqué
+
+* INFINITIF
+
+** Passé
+
+avoir bloqué
+
+* PARTICIPE
+
+** Passé
+
+ayant bloqué
+bloqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bloqué(e)
+tu es bloqué(e)
+il (elle) est bloqué(e)
+nous sommes bloqué(e)s
+vous êtes bloqué(e)s
+ils (elles) sont bloqué(e)s
+
+** Imparfait
+
+j'étais bloqué(e)
+tu étais bloqué(e)
+il (elle) était bloqué(e)
+nous étions bloqué(e)s
+vous étiez bloqué(e)s
+ils (elles) étaient bloqué(e)s
+
+** Passé simple
+
+je fus bloqué(e)
+tu fus bloqué(e)
+il (elle) fut bloqué(e)
+nous fûmes bloqué(e)s
+vous fûtes bloqué(e)s
+ils (elles) furent bloqué(e)s
+
+** Futur simple
+
+je serai bloqué(e)
+tu seras bloqué(e)
+il (elle) sera bloqué(e)
+nous serons bloqué(e)s
+vous serez bloqué(e)s
+ils (elles) seront bloqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bloqué(e)
+tu serais bloqué(e)
+il (elle) serait bloqué(e)
+nous serions bloqué(e)s
+vous seriez bloqué(e)s
+ils (elles) seraient bloqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bloqué(e)
+que tu sois bloqué(e)
+qu’il (elle) soit bloqué(e)
+que nous soyons bloqué(e)s
+que vous soyez bloqué(e)s
+qu’ils (elles) soient bloqué(e)s
+
+** Imparfait
+
+que je fusse bloqué(e)
+que tu fusses bloqué(e)
+qu’il (elle) fût bloqué(e)
+que nous fussions bloqué(e)s
+que vous fussiez bloqué(e)s
+qu’ils (elles) fussent bloqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bloqué(e)s
+soyez bloqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être bloqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bloqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bloqué(e)
+tu as été bloqué(e)
+il (elle) a été bloqué(e)
+nous avons été bloqué(e)s
+vous avez été bloqué(e)s
+ils (elles) ont été bloqué(e)s
+
+** Plus-que-parfait
+
+j'avais été bloqué(e)
+il (elle) avait été bloqué(e)
+nous avions été bloqué(e)s
+ils (elles) avaient été bloqué(e)s
+
+** Passé antérieur
+
+j'eus été bloqué(e)
+tu eus été bloqué(e)
+il (elle) eut été bloqué(e)
+nous eûmes été bloqué(e)s
+vous eûtes été bloqué(e)s
+ils (elles) eurent été bloqué(e)s
+
+** Futur antérieur
+
+j'aurai été bloqué(e)
+tu auras été bloqué(e)
+il (elle) aura été bloqué(e)
+nous aurons été bloqué(e)s
+vous aurez été bloqué(e)s
+ils (elles) auront été bloqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bloqué(e)
+j'aurais été bloqué(e)
+il (elle) aurait été bloqué(e)
+nous aurions été bloqué(e)s
+vous auriez été bloqué(e)s
+ils (elles) auraient été bloqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bloqué(e)
+que tu aies été bloqué(e)
+qu’il (elle) ait été bloqué(e)
+que nous ayons été bloqué(e)s
+que vous ayez été bloqué(e)s
+qu’ils (elles) aient été bloqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bloqué(e)
+que tu eusses été bloqué(e)
+qu’il (elle) eût été bloqué(e)
+que nous eussions été bloqué(e)s
+que vous eussiez été bloqué(e)s
+qu’ils (elles) eussent été bloqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bloqué(e)
+ayons été bloqué(e)s
+ayez été bloqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bloqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bloqué(e)(s)

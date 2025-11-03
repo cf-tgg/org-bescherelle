@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe varier
+
+* INDICATIF
+
+** Présent
+
+je varie
+tu varies
+il (elle) varie
+nous varions
+vous variez
+ils (elles) varient
+
+** Imparfait
+
+je variais
+tu variais
+il (elle) variait
+nous variions
+vous variiez
+ils (elles) variaient
+
+** Passé simple
+
+je variai
+tu varias
+il (elle) varia
+nous variâmes
+vous variâtes
+ils (elles) varièrent
+
+** Futur simple
+
+je varierai
+tu varieras
+il (elle) variera
+nous varierons
+vous varierez
+ils (elles) varieront
+
+* CONDITIONNEL
+
+** Présent
+
+je varierais
+tu varierais
+il (elle) varierait
+nous varierions
+vous varieriez
+ils (elles) varieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je varie
+que tu varies
+qu’il (elle) varie
+que nous variions
+que vous variiez
+qu’ils (elles) varient
+
+** Imparfait
+
+que je variasse
+que tu variasses
+qu’il (elle) variât
+que nous variassions
+que vous variassiez
+qu’ils (elles) variassent
+
+* IMPÉRATIF
+
+** Présent
+
+varie
+varions
+variez
+
+* INFINITIF
+
+** Présent
+
+varier
+
+* PARTICIPE
+
+** Présent
+
+variant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai varié
+tu as varié
+il (elle) a varié
+nous avons varié
+vous avez varié
+ils (elles) ont varié
+
+** Plus-que-parfait
+
+j'avais varié
+tu avais varié
+il (elle) avait varié
+nous avions varié
+vous aviez varié
+ils (elles) avaient varié
+
+** Passé antérieur
+
+j'eus varié
+tu eus varié
+il (elle) eut varié
+nous eûmes varié
+vous eûtes varié
+ils (elles) eurent varié
+
+** Futur antérieur
+
+j'aurai varié
+tu auras varié
+il (elle) aura varié
+nous aurons varié
+vous aurez varié
+ils (elles) auront varié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais varié
+tu aurais varié
+il (elle) aurait varié
+nous aurions varié
+vous auriez varié
+ils (elles) auraient varié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie varié
+que tu aies varié
+qu’il (elle) ait varié
+que nous ayons varié
+que vous ayez varié
+qu’ils (elles) aient varié
+
+** Plus-que-parfait
+
+que j'eusse varié
+que tu eusses varié
+qu’il (elle) eût varié
+que nous eussions varié
+que vous eussiez varié
+qu’ils (elles) eussent varié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons varié
+ayez varié
+
+* INFINITIF
+
+** Passé
+
+avoir varié
+
+* PARTICIPE
+
+** Passé
+
+ayant varié
+varié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis varié(e)
+tu es varié(e)
+il (elle) est varié(e)
+nous sommes varié(e)s
+vous êtes varié(e)s
+ils (elles) sont varié(e)s
+
+** Imparfait
+
+j'étais varié(e)
+tu étais varié(e)
+il (elle) était varié(e)
+nous étions varié(e)s
+vous étiez varié(e)s
+ils (elles) étaient varié(e)s
+
+** Passé simple
+
+je fus varié(e)
+tu fus varié(e)
+il (elle) fut varié(e)
+nous fûmes varié(e)s
+vous fûtes varié(e)s
+ils (elles) furent varié(e)s
+
+** Futur simple
+
+je serai varié(e)
+tu seras varié(e)
+il (elle) sera varié(e)
+nous serons varié(e)s
+vous serez varié(e)s
+ils (elles) seront varié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais varié(e)
+tu serais varié(e)
+il (elle) serait varié(e)
+nous serions varié(e)s
+vous seriez varié(e)s
+ils (elles) seraient varié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois varié(e)
+que tu sois varié(e)
+qu’il (elle) soit varié(e)
+que nous soyons varié(e)s
+que vous soyez varié(e)s
+qu’ils (elles) soient varié(e)s
+
+** Imparfait
+
+que je fusse varié(e)
+que tu fusses varié(e)
+qu’il (elle) fût varié(e)
+que nous fussions varié(e)s
+que vous fussiez varié(e)s
+qu’ils (elles) fussent varié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons varié(e)s
+soyez varié(e)s
+
+* INFINITIF
+
+** Présent
+
+être varié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant varié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été varié(e)
+tu as été varié(e)
+il (elle) a été varié(e)
+nous avons été varié(e)s
+vous avez été varié(e)s
+ils (elles) ont été varié(e)s
+
+** Plus-que-parfait
+
+j'avais été varié(e)
+il (elle) avait été varié(e)
+nous avions été varié(e)s
+ils (elles) avaient été varié(e)s
+
+** Passé antérieur
+
+j'eus été varié(e)
+tu eus été varié(e)
+il (elle) eut été varié(e)
+nous eûmes été varié(e)s
+vous eûtes été varié(e)s
+ils (elles) eurent été varié(e)s
+
+** Futur antérieur
+
+j'aurai été varié(e)
+tu auras été varié(e)
+il (elle) aura été varié(e)
+nous aurons été varié(e)s
+vous aurez été varié(e)s
+ils (elles) auront été varié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été varié(e)
+j'aurais été varié(e)
+il (elle) aurait été varié(e)
+nous aurions été varié(e)s
+vous auriez été varié(e)s
+ils (elles) auraient été varié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été varié(e)
+que tu aies été varié(e)
+qu’il (elle) ait été varié(e)
+que nous ayons été varié(e)s
+que vous ayez été varié(e)s
+qu’ils (elles) aient été varié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été varié(e)
+que tu eusses été varié(e)
+qu’il (elle) eût été varié(e)
+que nous eussions été varié(e)s
+que vous eussiez été varié(e)s
+qu’ils (elles) eussent été varié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été varié(e)
+ayons été varié(e)s
+ayez été varié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été varié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été varié(e)(s)

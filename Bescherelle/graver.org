@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe graver
+
+* INDICATIF
+
+** Présent
+
+je grave
+tu graves
+il (elle) grave
+nous gravons
+vous gravez
+ils (elles) gravent
+
+** Imparfait
+
+je gravais
+tu gravais
+il (elle) gravait
+nous gravions
+vous graviez
+ils (elles) gravaient
+
+** Passé simple
+
+je gravai
+tu gravas
+il (elle) grava
+nous gravâmes
+vous gravâtes
+ils (elles) gravèrent
+
+** Futur simple
+
+je graverai
+tu graveras
+il (elle) gravera
+nous graverons
+vous graverez
+ils (elles) graveront
+
+* CONDITIONNEL
+
+** Présent
+
+je graverais
+tu graverais
+il (elle) graverait
+nous graverions
+vous graveriez
+ils (elles) graveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je grave
+que tu graves
+qu’il (elle) grave
+que nous gravions
+que vous graviez
+qu’ils (elles) gravent
+
+** Imparfait
+
+que je gravasse
+que tu gravasses
+qu’il (elle) gravât
+que nous gravassions
+que vous gravassiez
+qu’ils (elles) gravassent
+
+* IMPÉRATIF
+
+** Présent
+
+grave
+gravons
+gravez
+
+* INFINITIF
+
+** Présent
+
+graver
+
+* PARTICIPE
+
+** Présent
+
+gravant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gravé
+tu as gravé
+il (elle) a gravé
+nous avons gravé
+vous avez gravé
+ils (elles) ont gravé
+
+** Plus-que-parfait
+
+j'avais gravé
+tu avais gravé
+il (elle) avait gravé
+nous avions gravé
+vous aviez gravé
+ils (elles) avaient gravé
+
+** Passé antérieur
+
+j'eus gravé
+tu eus gravé
+il (elle) eut gravé
+nous eûmes gravé
+vous eûtes gravé
+ils (elles) eurent gravé
+
+** Futur antérieur
+
+j'aurai gravé
+tu auras gravé
+il (elle) aura gravé
+nous aurons gravé
+vous aurez gravé
+ils (elles) auront gravé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gravé
+tu aurais gravé
+il (elle) aurait gravé
+nous aurions gravé
+vous auriez gravé
+ils (elles) auraient gravé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gravé
+que tu aies gravé
+qu’il (elle) ait gravé
+que nous ayons gravé
+que vous ayez gravé
+qu’ils (elles) aient gravé
+
+** Plus-que-parfait
+
+que j'eusse gravé
+que tu eusses gravé
+qu’il (elle) eût gravé
+que nous eussions gravé
+que vous eussiez gravé
+qu’ils (elles) eussent gravé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gravé
+ayez gravé
+
+* INFINITIF
+
+** Passé
+
+avoir gravé
+
+* PARTICIPE
+
+** Passé
+
+ayant gravé
+gravé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis gravé(e)
+tu es gravé(e)
+il (elle) est gravé(e)
+nous sommes gravé(e)s
+vous êtes gravé(e)s
+ils (elles) sont gravé(e)s
+
+** Imparfait
+
+j'étais gravé(e)
+tu étais gravé(e)
+il (elle) était gravé(e)
+nous étions gravé(e)s
+vous étiez gravé(e)s
+ils (elles) étaient gravé(e)s
+
+** Passé simple
+
+je fus gravé(e)
+tu fus gravé(e)
+il (elle) fut gravé(e)
+nous fûmes gravé(e)s
+vous fûtes gravé(e)s
+ils (elles) furent gravé(e)s
+
+** Futur simple
+
+je serai gravé(e)
+tu seras gravé(e)
+il (elle) sera gravé(e)
+nous serons gravé(e)s
+vous serez gravé(e)s
+ils (elles) seront gravé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais gravé(e)
+tu serais gravé(e)
+il (elle) serait gravé(e)
+nous serions gravé(e)s
+vous seriez gravé(e)s
+ils (elles) seraient gravé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois gravé(e)
+que tu sois gravé(e)
+qu’il (elle) soit gravé(e)
+que nous soyons gravé(e)s
+que vous soyez gravé(e)s
+qu’ils (elles) soient gravé(e)s
+
+** Imparfait
+
+que je fusse gravé(e)
+que tu fusses gravé(e)
+qu’il (elle) fût gravé(e)
+que nous fussions gravé(e)s
+que vous fussiez gravé(e)s
+qu’ils (elles) fussent gravé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons gravé(e)s
+soyez gravé(e)s
+
+* INFINITIF
+
+** Présent
+
+être gravé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant gravé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été gravé(e)
+tu as été gravé(e)
+il (elle) a été gravé(e)
+nous avons été gravé(e)s
+vous avez été gravé(e)s
+ils (elles) ont été gravé(e)s
+
+** Plus-que-parfait
+
+j'avais été gravé(e)
+il (elle) avait été gravé(e)
+nous avions été gravé(e)s
+ils (elles) avaient été gravé(e)s
+
+** Passé antérieur
+
+j'eus été gravé(e)
+tu eus été gravé(e)
+il (elle) eut été gravé(e)
+nous eûmes été gravé(e)s
+vous eûtes été gravé(e)s
+ils (elles) eurent été gravé(e)s
+
+** Futur antérieur
+
+j'aurai été gravé(e)
+tu auras été gravé(e)
+il (elle) aura été gravé(e)
+nous aurons été gravé(e)s
+vous aurez été gravé(e)s
+ils (elles) auront été gravé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été gravé(e)
+j'aurais été gravé(e)
+il (elle) aurait été gravé(e)
+nous aurions été gravé(e)s
+vous auriez été gravé(e)s
+ils (elles) auraient été gravé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été gravé(e)
+que tu aies été gravé(e)
+qu’il (elle) ait été gravé(e)
+que nous ayons été gravé(e)s
+que vous ayez été gravé(e)s
+qu’ils (elles) aient été gravé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été gravé(e)
+que tu eusses été gravé(e)
+qu’il (elle) eût été gravé(e)
+que nous eussions été gravé(e)s
+que vous eussiez été gravé(e)s
+qu’ils (elles) eussent été gravé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été gravé(e)
+ayons été gravé(e)s
+ayez été gravé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été gravé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été gravé(e)(s)

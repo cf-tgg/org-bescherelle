@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fixer
+
+* INDICATIF
+
+** Présent
+
+je fixe
+tu fixes
+il (elle) fixe
+nous fixons
+vous fixez
+ils (elles) fixent
+
+** Imparfait
+
+je fixais
+tu fixais
+il (elle) fixait
+nous fixions
+vous fixiez
+ils (elles) fixaient
+
+** Passé simple
+
+je fixai
+tu fixas
+il (elle) fixa
+nous fixâmes
+vous fixâtes
+ils (elles) fixèrent
+
+** Futur simple
+
+je fixerai
+tu fixeras
+il (elle) fixera
+nous fixerons
+vous fixerez
+ils (elles) fixeront
+
+* CONDITIONNEL
+
+** Présent
+
+je fixerais
+tu fixerais
+il (elle) fixerait
+nous fixerions
+vous fixeriez
+ils (elles) fixeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fixe
+que tu fixes
+qu’il (elle) fixe
+que nous fixions
+que vous fixiez
+qu’ils (elles) fixent
+
+** Imparfait
+
+que je fixasse
+que tu fixasses
+qu’il (elle) fixât
+que nous fixassions
+que vous fixassiez
+qu’ils (elles) fixassent
+
+* IMPÉRATIF
+
+** Présent
+
+fixe
+fixons
+fixez
+
+* INFINITIF
+
+** Présent
+
+fixer
+
+* PARTICIPE
+
+** Présent
+
+fixant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai fixé
+tu as fixé
+il (elle) a fixé
+nous avons fixé
+vous avez fixé
+ils (elles) ont fixé
+
+** Plus-que-parfait
+
+j'avais fixé
+tu avais fixé
+il (elle) avait fixé
+nous avions fixé
+vous aviez fixé
+ils (elles) avaient fixé
+
+** Passé antérieur
+
+j'eus fixé
+tu eus fixé
+il (elle) eut fixé
+nous eûmes fixé
+vous eûtes fixé
+ils (elles) eurent fixé
+
+** Futur antérieur
+
+j'aurai fixé
+tu auras fixé
+il (elle) aura fixé
+nous aurons fixé
+vous aurez fixé
+ils (elles) auront fixé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais fixé
+tu aurais fixé
+il (elle) aurait fixé
+nous aurions fixé
+vous auriez fixé
+ils (elles) auraient fixé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie fixé
+que tu aies fixé
+qu’il (elle) ait fixé
+que nous ayons fixé
+que vous ayez fixé
+qu’ils (elles) aient fixé
+
+** Plus-que-parfait
+
+que j'eusse fixé
+que tu eusses fixé
+qu’il (elle) eût fixé
+que nous eussions fixé
+que vous eussiez fixé
+qu’ils (elles) eussent fixé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons fixé
+ayez fixé
+
+* INFINITIF
+
+** Passé
+
+avoir fixé
+
+* PARTICIPE
+
+** Passé
+
+ayant fixé
+fixé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis fixé(e)
+tu es fixé(e)
+il (elle) est fixé(e)
+nous sommes fixé(e)s
+vous êtes fixé(e)s
+ils (elles) sont fixé(e)s
+
+** Imparfait
+
+j'étais fixé(e)
+tu étais fixé(e)
+il (elle) était fixé(e)
+nous étions fixé(e)s
+vous étiez fixé(e)s
+ils (elles) étaient fixé(e)s
+
+** Passé simple
+
+je fus fixé(e)
+tu fus fixé(e)
+il (elle) fut fixé(e)
+nous fûmes fixé(e)s
+vous fûtes fixé(e)s
+ils (elles) furent fixé(e)s
+
+** Futur simple
+
+je serai fixé(e)
+tu seras fixé(e)
+il (elle) sera fixé(e)
+nous serons fixé(e)s
+vous serez fixé(e)s
+ils (elles) seront fixé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais fixé(e)
+tu serais fixé(e)
+il (elle) serait fixé(e)
+nous serions fixé(e)s
+vous seriez fixé(e)s
+ils (elles) seraient fixé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois fixé(e)
+que tu sois fixé(e)
+qu’il (elle) soit fixé(e)
+que nous soyons fixé(e)s
+que vous soyez fixé(e)s
+qu’ils (elles) soient fixé(e)s
+
+** Imparfait
+
+que je fusse fixé(e)
+que tu fusses fixé(e)
+qu’il (elle) fût fixé(e)
+que nous fussions fixé(e)s
+que vous fussiez fixé(e)s
+qu’ils (elles) fussent fixé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons fixé(e)s
+soyez fixé(e)s
+
+* INFINITIF
+
+** Présent
+
+être fixé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant fixé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été fixé(e)
+tu as été fixé(e)
+il (elle) a été fixé(e)
+nous avons été fixé(e)s
+vous avez été fixé(e)s
+ils (elles) ont été fixé(e)s
+
+** Plus-que-parfait
+
+j'avais été fixé(e)
+il (elle) avait été fixé(e)
+nous avions été fixé(e)s
+ils (elles) avaient été fixé(e)s
+
+** Passé antérieur
+
+j'eus été fixé(e)
+tu eus été fixé(e)
+il (elle) eut été fixé(e)
+nous eûmes été fixé(e)s
+vous eûtes été fixé(e)s
+ils (elles) eurent été fixé(e)s
+
+** Futur antérieur
+
+j'aurai été fixé(e)
+tu auras été fixé(e)
+il (elle) aura été fixé(e)
+nous aurons été fixé(e)s
+vous aurez été fixé(e)s
+ils (elles) auront été fixé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été fixé(e)
+j'aurais été fixé(e)
+il (elle) aurait été fixé(e)
+nous aurions été fixé(e)s
+vous auriez été fixé(e)s
+ils (elles) auraient été fixé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été fixé(e)
+que tu aies été fixé(e)
+qu’il (elle) ait été fixé(e)
+que nous ayons été fixé(e)s
+que vous ayez été fixé(e)s
+qu’ils (elles) aient été fixé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été fixé(e)
+que tu eusses été fixé(e)
+qu’il (elle) eût été fixé(e)
+que nous eussions été fixé(e)s
+que vous eussiez été fixé(e)s
+qu’ils (elles) eussent été fixé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été fixé(e)
+ayons été fixé(e)s
+ayez été fixé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été fixé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été fixé(e)(s)

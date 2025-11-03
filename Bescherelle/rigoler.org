@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe rigoler
+
+* INDICATIF
+
+** Présent
+
+je rigole
+tu rigoles
+il (elle) rigole
+nous rigolons
+vous rigolez
+ils (elles) rigolent
+
+** Imparfait
+
+je rigolais
+tu rigolais
+il (elle) rigolait
+nous rigolions
+vous rigoliez
+ils (elles) rigolaient
+
+** Passé simple
+
+je rigolai
+tu rigolas
+il (elle) rigola
+nous rigolâmes
+vous rigolâtes
+ils (elles) rigolèrent
+
+** Futur simple
+
+je rigolerai
+tu rigoleras
+il (elle) rigolera
+nous rigolerons
+vous rigolerez
+ils (elles) rigoleront
+
+* CONDITIONNEL
+
+** Présent
+
+je rigolerais
+tu rigolerais
+il (elle) rigolerait
+nous rigolerions
+vous rigoleriez
+ils (elles) rigoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rigole
+que tu rigoles
+qu’il (elle) rigole
+que nous rigolions
+que vous rigoliez
+qu’ils (elles) rigolent
+
+** Imparfait
+
+que je rigolasse
+que tu rigolasses
+qu’il (elle) rigolât
+que nous rigolassions
+que vous rigolassiez
+qu’ils (elles) rigolassent
+
+* IMPÉRATIF
+
+** Présent
+
+rigole
+rigolons
+rigolez
+
+* INFINITIF
+
+** Présent
+
+rigoler
+
+* PARTICIPE
+
+** Présent
+
+rigolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rigolé
+tu as rigolé
+il (elle) a rigolé
+nous avons rigolé
+vous avez rigolé
+ils (elles) ont rigolé
+
+** Plus-que-parfait
+
+j'avais rigolé
+tu avais rigolé
+il (elle) avait rigolé
+nous avions rigolé
+vous aviez rigolé
+ils (elles) avaient rigolé
+
+** Passé antérieur
+
+j'eus rigolé
+tu eus rigolé
+il (elle) eut rigolé
+nous eûmes rigolé
+vous eûtes rigolé
+ils (elles) eurent rigolé
+
+** Futur antérieur
+
+j'aurai rigolé
+tu auras rigolé
+il (elle) aura rigolé
+nous aurons rigolé
+vous aurez rigolé
+ils (elles) auront rigolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rigolé
+tu aurais rigolé
+il (elle) aurait rigolé
+nous aurions rigolé
+vous auriez rigolé
+ils (elles) auraient rigolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rigolé
+que tu aies rigolé
+qu’il (elle) ait rigolé
+que nous ayons rigolé
+que vous ayez rigolé
+qu’ils (elles) aient rigolé
+
+** Plus-que-parfait
+
+que j'eusse rigolé
+que tu eusses rigolé
+qu’il (elle) eût rigolé
+que nous eussions rigolé
+que vous eussiez rigolé
+qu’ils (elles) eussent rigolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rigolé
+ayez rigolé
+
+* INFINITIF
+
+** Passé
+
+avoir rigolé
+
+* PARTICIPE
+
+** Passé
+
+ayant rigolé
+rigolé (invar.)

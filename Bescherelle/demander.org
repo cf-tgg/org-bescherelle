@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe demander
+
+* INDICATIF
+
+** Présent
+
+je demande
+tu demandes
+il (elle) demande
+nous demandons
+vous demandez
+ils (elles) demandent
+
+** Imparfait
+
+je demandais
+tu demandais
+il (elle) demandait
+nous demandions
+vous demandiez
+ils (elles) demandaient
+
+** Passé simple
+
+je demandai
+tu demandas
+il (elle) demanda
+nous demandâmes
+vous demandâtes
+ils (elles) demandèrent
+
+** Futur simple
+
+je demanderai
+tu demanderas
+il (elle) demandera
+nous demanderons
+vous demanderez
+ils (elles) demanderont
+
+* CONDITIONNEL
+
+** Présent
+
+je demanderais
+tu demanderais
+il (elle) demanderait
+nous demanderions
+vous demanderiez
+ils (elles) demanderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je demande
+que tu demandes
+qu’il (elle) demande
+que nous demandions
+que vous demandiez
+qu’ils (elles) demandent
+
+** Imparfait
+
+que je demandasse
+que tu demandasses
+qu’il (elle) demandât
+que nous demandassions
+que vous demandassiez
+qu’ils (elles) demandassent
+
+* IMPÉRATIF
+
+** Présent
+
+demande
+demandons
+demandez
+
+* INFINITIF
+
+** Présent
+
+demander
+
+* PARTICIPE
+
+** Présent
+
+demandant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai demandé
+tu as demandé
+il (elle) a demandé
+nous avons demandé
+vous avez demandé
+ils (elles) ont demandé
+
+** Plus-que-parfait
+
+j'avais demandé
+tu avais demandé
+il (elle) avait demandé
+nous avions demandé
+vous aviez demandé
+ils (elles) avaient demandé
+
+** Passé antérieur
+
+j'eus demandé
+tu eus demandé
+il (elle) eut demandé
+nous eûmes demandé
+vous eûtes demandé
+ils (elles) eurent demandé
+
+** Futur antérieur
+
+j'aurai demandé
+tu auras demandé
+il (elle) aura demandé
+nous aurons demandé
+vous aurez demandé
+ils (elles) auront demandé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais demandé
+tu aurais demandé
+il (elle) aurait demandé
+nous aurions demandé
+vous auriez demandé
+ils (elles) auraient demandé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie demandé
+que tu aies demandé
+qu’il (elle) ait demandé
+que nous ayons demandé
+que vous ayez demandé
+qu’ils (elles) aient demandé
+
+** Plus-que-parfait
+
+que j'eusse demandé
+que tu eusses demandé
+qu’il (elle) eût demandé
+que nous eussions demandé
+que vous eussiez demandé
+qu’ils (elles) eussent demandé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons demandé
+ayez demandé
+
+* INFINITIF
+
+** Passé
+
+avoir demandé
+
+* PARTICIPE
+
+** Passé
+
+ayant demandé
+demandé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis demandé(e)
+tu es demandé(e)
+il (elle) est demandé(e)
+nous sommes demandé(e)s
+vous êtes demandé(e)s
+ils (elles) sont demandé(e)s
+
+** Imparfait
+
+j'étais demandé(e)
+tu étais demandé(e)
+il (elle) était demandé(e)
+nous étions demandé(e)s
+vous étiez demandé(e)s
+ils (elles) étaient demandé(e)s
+
+** Passé simple
+
+je fus demandé(e)
+tu fus demandé(e)
+il (elle) fut demandé(e)
+nous fûmes demandé(e)s
+vous fûtes demandé(e)s
+ils (elles) furent demandé(e)s
+
+** Futur simple
+
+je serai demandé(e)
+tu seras demandé(e)
+il (elle) sera demandé(e)
+nous serons demandé(e)s
+vous serez demandé(e)s
+ils (elles) seront demandé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais demandé(e)
+tu serais demandé(e)
+il (elle) serait demandé(e)
+nous serions demandé(e)s
+vous seriez demandé(e)s
+ils (elles) seraient demandé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois demandé(e)
+que tu sois demandé(e)
+qu’il (elle) soit demandé(e)
+que nous soyons demandé(e)s
+que vous soyez demandé(e)s
+qu’ils (elles) soient demandé(e)s
+
+** Imparfait
+
+que je fusse demandé(e)
+que tu fusses demandé(e)
+qu’il (elle) fût demandé(e)
+que nous fussions demandé(e)s
+que vous fussiez demandé(e)s
+qu’ils (elles) fussent demandé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons demandé(e)s
+soyez demandé(e)s
+
+* INFINITIF
+
+** Présent
+
+être demandé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant demandé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été demandé(e)
+tu as été demandé(e)
+il (elle) a été demandé(e)
+nous avons été demandé(e)s
+vous avez été demandé(e)s
+ils (elles) ont été demandé(e)s
+
+** Plus-que-parfait
+
+j'avais été demandé(e)
+il (elle) avait été demandé(e)
+nous avions été demandé(e)s
+ils (elles) avaient été demandé(e)s
+
+** Passé antérieur
+
+j'eus été demandé(e)
+tu eus été demandé(e)
+il (elle) eut été demandé(e)
+nous eûmes été demandé(e)s
+vous eûtes été demandé(e)s
+ils (elles) eurent été demandé(e)s
+
+** Futur antérieur
+
+j'aurai été demandé(e)
+tu auras été demandé(e)
+il (elle) aura été demandé(e)
+nous aurons été demandé(e)s
+vous aurez été demandé(e)s
+ils (elles) auront été demandé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été demandé(e)
+j'aurais été demandé(e)
+il (elle) aurait été demandé(e)
+nous aurions été demandé(e)s
+vous auriez été demandé(e)s
+ils (elles) auraient été demandé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été demandé(e)
+que tu aies été demandé(e)
+qu’il (elle) ait été demandé(e)
+que nous ayons été demandé(e)s
+que vous ayez été demandé(e)s
+qu’ils (elles) aient été demandé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été demandé(e)
+que tu eusses été demandé(e)
+qu’il (elle) eût été demandé(e)
+que nous eussions été demandé(e)s
+que vous eussiez été demandé(e)s
+qu’ils (elles) eussent été demandé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été demandé(e)
+ayons été demandé(e)s
+ayez été demandé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été demandé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été demandé(e)(s)

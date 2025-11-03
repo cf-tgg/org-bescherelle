@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe mentir
+
+* INDICATIF
+
+** Présent
+
+je mens
+tu mens
+il (elle) ment
+nous mentons
+vous mentez
+ils (elles) mentent
+
+** Imparfait
+
+je mentais
+tu mentais
+il (elle) mentait
+nous mentions
+vous mentiez
+ils (elles) mentaient
+
+** Passé simple
+
+je mentis
+tu mentis
+il (elle) mentit
+nous mentîmes
+vous mentîtes
+ils (elles) mentirent
+
+** Futur simple
+
+je mentirai
+tu mentiras
+il (elle) mentira
+nous mentirons
+vous mentirez
+ils (elles) mentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je mentirais
+tu mentirais
+il (elle) mentirait
+nous mentirions
+vous mentiriez
+ils (elles) mentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mente
+que tu mentes
+qu’il (elle) mente
+que nous mentions
+que vous mentiez
+qu’ils (elles) mentent
+
+** Imparfait
+
+que je mentisse
+que tu mentisses
+qu’il (elle) mentît
+que nous mentissions
+que vous mentissiez
+qu’ils (elles) mentissent
+
+* IMPÉRATIF
+
+** Présent
+
+mens
+mentons
+mentez
+
+* INFINITIF
+
+** Présent
+
+mentir
+
+* PARTICIPE
+
+** Présent
+
+mentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai menti
+tu as menti
+il (elle) a menti
+nous avons menti
+vous avez menti
+ils (elles) ont menti
+
+** Plus-que-parfait
+
+j'avais menti
+tu avais menti
+il (elle) avait menti
+nous avions menti
+vous aviez menti
+ils (elles) avaient menti
+
+** Passé antérieur
+
+j'eus menti
+tu eus menti
+il (elle) eut menti
+nous eûmes menti
+vous eûtes menti
+ils (elles) eurent menti
+
+** Futur antérieur
+
+j'aurai menti
+tu auras menti
+il (elle) aura menti
+nous aurons menti
+vous aurez menti
+ils (elles) auront menti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais menti
+tu aurais menti
+il (elle) aurait menti
+nous aurions menti
+vous auriez menti
+ils (elles) auraient menti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie menti
+que tu aies menti
+qu’il (elle) ait menti
+que nous ayons menti
+que vous ayez menti
+qu’ils (elles) aient menti
+
+** Plus-que-parfait
+
+que j'eusse menti
+que tu eusses menti
+qu’il (elle) eût menti
+que nous eussions menti
+que vous eussiez menti
+qu’ils (elles) eussent menti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons menti
+ayez menti
+
+* INFINITIF
+
+** Passé
+
+avoir menti
+
+* PARTICIPE
+
+** Passé
+
+ayant menti
+menti (invar.)

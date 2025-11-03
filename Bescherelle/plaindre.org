@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe plaindre
+
+* INDICATIF
+
+** Présent
+
+je plains
+tu plains
+il (elle) plaint
+nous plaignons
+vous plaignez
+ils (elles) plaignent
+
+** Imparfait
+
+je plaignais
+tu plaignais
+il (elle) plaignait
+nous plaignions
+vous plaigniez
+ils (elles) plaignaient
+
+** Passé simple
+
+je plaignis
+tu plaignis
+il (elle) plaignit
+nous plaignîmes
+vous plaignîtes
+ils (elles) plaignirent
+
+** Futur simple
+
+je plaindrai
+tu plaindras
+il (elle) plaindra
+nous plaindrons
+vous plaindrez
+ils (elles) plaindront
+
+* CONDITIONNEL
+
+** Présent
+
+je plaindrais
+tu plaindrais
+il (elle) plaindrait
+nous plaindrions
+vous plaindriez
+ils (elles) plaindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je plaigne
+que tu plaignes
+qu’il (elle) plaigne
+que nous plaignions
+que vous plaigniez
+qu’ils (elles) plaignent
+
+** Imparfait
+
+que je plaignisse
+que tu plaignisses
+qu’il (elle) plaignît
+que nous plaignissions
+que vous plaignissiez
+qu’ils (elles) plaignissent
+
+* IMPÉRATIF
+
+** Présent
+
+plains
+plaignons
+plaignez
+
+* INFINITIF
+
+** Présent
+
+plaindre
+
+* PARTICIPE
+
+** Présent
+
+plaignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai plaint
+tu as plaint
+il (elle) a plaint
+nous avons plaint
+vous avez plaint
+ils (elles) ont plaint
+
+** Plus-que-parfait
+
+j'avais plaint
+tu avais plaint
+il (elle) avait plaint
+nous avions plaint
+vous aviez plaint
+ils (elles) avaient plaint
+
+** Passé antérieur
+
+j'eus plaint
+tu eus plaint
+il (elle) eut plaint
+nous eûmes plaint
+vous eûtes plaint
+ils (elles) eurent plaint
+
+** Futur antérieur
+
+j'aurai plaint
+tu auras plaint
+il (elle) aura plaint
+nous aurons plaint
+vous aurez plaint
+ils (elles) auront plaint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais plaint
+tu aurais plaint
+il (elle) aurait plaint
+nous aurions plaint
+vous auriez plaint
+ils (elles) auraient plaint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie plaint
+que tu aies plaint
+qu’il (elle) ait plaint
+que nous ayons plaint
+que vous ayez plaint
+qu’ils (elles) aient plaint
+
+** Plus-que-parfait
+
+que j'eusse plaint
+que tu eusses plaint
+qu’il (elle) eût plaint
+que nous eussions plaint
+que vous eussiez plaint
+qu’ils (elles) eussent plaint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons plaint
+ayez plaint
+
+* INFINITIF
+
+** Passé
+
+avoir plaint
+
+* PARTICIPE
+
+** Passé
+
+ayant plaint
+plaint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis plaint(e)
+tu es plaint(e)
+il (elle) est plaint(e)
+nous sommes plaint(e)s
+vous êtes plaint(e)s
+ils (elles) sont plaint(e)s
+
+** Imparfait
+
+j'étais plaint(e)
+tu étais plaint(e)
+il (elle) était plaint(e)
+nous étions plaint(e)s
+vous étiez plaint(e)s
+ils (elles) étaient plaint(e)s
+
+** Passé simple
+
+je fus plaint(e)
+tu fus plaint(e)
+il (elle) fut plaint(e)
+nous fûmes plaint(e)s
+vous fûtes plaint(e)s
+ils (elles) furent plaint(e)s
+
+** Futur simple
+
+je serai plaint(e)
+tu seras plaint(e)
+il (elle) sera plaint(e)
+nous serons plaint(e)s
+vous serez plaint(e)s
+ils (elles) seront plaint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais plaint(e)
+tu serais plaint(e)
+il (elle) serait plaint(e)
+nous serions plaint(e)s
+vous seriez plaint(e)s
+ils (elles) seraient plaint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois plaint(e)
+que tu sois plaint(e)
+qu’il (elle) soit plaint(e)
+que nous soyons plaint(e)s
+que vous soyez plaint(e)s
+qu’ils (elles) soient plaint(e)s
+
+** Imparfait
+
+que je fusse plaint(e)
+que tu fusses plaint(e)
+qu’il (elle) fût plaint(e)
+que nous fussions plaint(e)s
+que vous fussiez plaint(e)s
+qu’ils (elles) fussent plaint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons plaint(e)s
+soyez plaint(e)s
+
+* INFINITIF
+
+** Présent
+
+être plaint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant plaint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été plaint(e)
+tu as été plaint(e)
+il (elle) a été plaint(e)
+nous avons été plaint(e)s
+vous avez été plaint(e)s
+ils (elles) ont été plaint(e)s
+
+** Plus-que-parfait
+
+j'avais été plaint(e)
+il (elle) avait été plaint(e)
+nous avions été plaint(e)s
+ils (elles) avaient été plaint(e)s
+
+** Passé antérieur
+
+j'eus été plaint(e)
+tu eus été plaint(e)
+il (elle) eut été plaint(e)
+nous eûmes été plaint(e)s
+vous eûtes été plaint(e)s
+ils (elles) eurent été plaint(e)s
+
+** Futur antérieur
+
+j'aurai été plaint(e)
+tu auras été plaint(e)
+il (elle) aura été plaint(e)
+nous aurons été plaint(e)s
+vous aurez été plaint(e)s
+ils (elles) auront été plaint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été plaint(e)
+j'aurais été plaint(e)
+il (elle) aurait été plaint(e)
+nous aurions été plaint(e)s
+vous auriez été plaint(e)s
+ils (elles) auraient été plaint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été plaint(e)
+que tu aies été plaint(e)
+qu’il (elle) ait été plaint(e)
+que nous ayons été plaint(e)s
+que vous ayez été plaint(e)s
+qu’ils (elles) aient été plaint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été plaint(e)
+que tu eusses été plaint(e)
+qu’il (elle) eût été plaint(e)
+que nous eussions été plaint(e)s
+que vous eussiez été plaint(e)s
+qu’ils (elles) eussent été plaint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été plaint(e)
+ayons été plaint(e)s
+ayez été plaint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été plaint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été plaint(e)(s)

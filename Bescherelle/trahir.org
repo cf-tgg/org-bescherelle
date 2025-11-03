@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe trahir
+
+* INDICATIF
+
+** Présent
+
+je trahis
+tu trahis
+il (elle) trahit
+nous trahissons
+vous trahissez
+ils (elles) trahissent
+
+** Imparfait
+
+je trahissais
+tu trahissais
+il (elle) trahissait
+nous trahissions
+vous trahissiez
+ils (elles) trahissaient
+
+** Passé simple
+
+je trahis
+tu trahis
+il (elle) trahit
+nous trahîmes
+vous trahîtes
+ils (elles) trahirent
+
+** Futur simple
+
+je trahirai
+tu trahiras
+il (elle) trahira
+nous trahirons
+vous trahirez
+ils (elles) trahiront
+
+* CONDITIONNEL
+
+** Présent
+
+je trahirais
+tu trahirais
+il (elle) trahirait
+nous trahirions
+vous trahiriez
+ils (elles) trahiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trahisse
+que tu trahisses
+qu’il (elle) trahisse
+que nous trahissions
+que vous trahissiez
+qu’ils (elles) trahissent
+
+** Imparfait
+
+que je trahisse
+que tu trahisses
+qu’il (elle) trahît
+que nous trahissions
+que vous trahissiez
+qu’ils (elles) trahissent
+
+* IMPÉRATIF
+
+** Présent
+
+trahis
+trahissons
+trahissez
+
+* INFINITIF
+
+** Présent
+
+trahir
+
+* PARTICIPE
+
+** Présent
+
+trahissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai trahi
+tu as trahi
+il (elle) a trahi
+nous avons trahi
+vous avez trahi
+ils (elles) ont trahi
+
+** Plus-que-parfait
+
+j'avais trahi
+tu avais trahi
+il (elle) avait trahi
+nous avions trahi
+vous aviez trahi
+ils (elles) avaient trahi
+
+** Passé antérieur
+
+j'eus trahi
+tu eus trahi
+il (elle) eut trahi
+nous eûmes trahi
+vous eûtes trahi
+ils (elles) eurent trahi
+
+** Futur antérieur
+
+j'aurai trahi
+tu auras trahi
+il (elle) aura trahi
+nous aurons trahi
+vous aurez trahi
+ils (elles) auront trahi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais trahi
+tu aurais trahi
+il (elle) aurait trahi
+nous aurions trahi
+vous auriez trahi
+ils (elles) auraient trahi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie trahi
+que tu aies trahi
+qu’il (elle) ait trahi
+que nous ayons trahi
+que vous ayez trahi
+qu’ils (elles) aient trahi
+
+** Plus-que-parfait
+
+que j'eusse trahi
+que tu eusses trahi
+qu’il (elle) eût trahi
+que nous eussions trahi
+que vous eussiez trahi
+qu’ils (elles) eussent trahi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons trahi
+ayez trahi
+
+* INFINITIF
+
+** Passé
+
+avoir trahi
+
+* PARTICIPE
+
+** Passé
+
+ayant trahi
+trahi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis trahi(e)
+tu es trahi(e)
+il (elle) est trahi(e)
+nous sommes trahi(e)s
+vous êtes trahi(e)s
+ils (elles) sont trahi(e)s
+
+** Imparfait
+
+j'étais trahi(e)
+tu étais trahi(e)
+il (elle) était trahi(e)
+nous étions trahi(e)s
+vous étiez trahi(e)s
+ils (elles) étaient trahi(e)s
+
+** Passé simple
+
+je fus trahi(e)
+tu fus trahi(e)
+il (elle) fut trahi(e)
+nous fûmes trahi(e)s
+vous fûtes trahi(e)s
+ils (elles) furent trahi(e)s
+
+** Futur simple
+
+je serai trahi(e)
+tu seras trahi(e)
+il (elle) sera trahi(e)
+nous serons trahi(e)s
+vous serez trahi(e)s
+ils (elles) seront trahi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais trahi(e)
+tu serais trahi(e)
+il (elle) serait trahi(e)
+nous serions trahi(e)s
+vous seriez trahi(e)s
+ils (elles) seraient trahi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois trahi(e)
+que tu sois trahi(e)
+qu’il (elle) soit trahi(e)
+que nous soyons trahi(e)s
+que vous soyez trahi(e)s
+qu’ils (elles) soient trahi(e)s
+
+** Imparfait
+
+que je fusse trahi(e)
+que tu fusses trahi(e)
+qu’il (elle) fût trahi(e)
+que nous fussions trahi(e)s
+que vous fussiez trahi(e)s
+qu’ils (elles) fussent trahi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons trahi(e)s
+soyez trahi(e)s
+
+* INFINITIF
+
+** Présent
+
+être trahi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant trahi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été trahi(e)
+tu as été trahi(e)
+il (elle) a été trahi(e)
+nous avons été trahi(e)s
+vous avez été trahi(e)s
+ils (elles) ont été trahi(e)s
+
+** Plus-que-parfait
+
+j'avais été trahi(e)
+il (elle) avait été trahi(e)
+nous avions été trahi(e)s
+ils (elles) avaient été trahi(e)s
+
+** Passé antérieur
+
+j'eus été trahi(e)
+tu eus été trahi(e)
+il (elle) eut été trahi(e)
+nous eûmes été trahi(e)s
+vous eûtes été trahi(e)s
+ils (elles) eurent été trahi(e)s
+
+** Futur antérieur
+
+j'aurai été trahi(e)
+tu auras été trahi(e)
+il (elle) aura été trahi(e)
+nous aurons été trahi(e)s
+vous aurez été trahi(e)s
+ils (elles) auront été trahi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été trahi(e)
+j'aurais été trahi(e)
+il (elle) aurait été trahi(e)
+nous aurions été trahi(e)s
+vous auriez été trahi(e)s
+ils (elles) auraient été trahi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été trahi(e)
+que tu aies été trahi(e)
+qu’il (elle) ait été trahi(e)
+que nous ayons été trahi(e)s
+que vous ayez été trahi(e)s
+qu’ils (elles) aient été trahi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été trahi(e)
+que tu eusses été trahi(e)
+qu’il (elle) eût été trahi(e)
+que nous eussions été trahi(e)s
+que vous eussiez été trahi(e)s
+qu’ils (elles) eussent été trahi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été trahi(e)
+ayons été trahi(e)s
+ayez été trahi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été trahi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été trahi(e)(s)

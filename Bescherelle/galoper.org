@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe galoper
+
+* INDICATIF
+
+** Présent
+
+je galope
+tu galopes
+il (elle) galope
+nous galopons
+vous galopez
+ils (elles) galopent
+
+** Imparfait
+
+je galopais
+tu galopais
+il (elle) galopait
+nous galopions
+vous galopiez
+ils (elles) galopaient
+
+** Passé simple
+
+je galopai
+tu galopas
+il (elle) galopa
+nous galopâmes
+vous galopâtes
+ils (elles) galopèrent
+
+** Futur simple
+
+je galoperai
+tu galoperas
+il (elle) galopera
+nous galoperons
+vous galoperez
+ils (elles) galoperont
+
+* CONDITIONNEL
+
+** Présent
+
+je galoperais
+tu galoperais
+il (elle) galoperait
+nous galoperions
+vous galoperiez
+ils (elles) galoperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je galope
+que tu galopes
+qu’il (elle) galope
+que nous galopions
+que vous galopiez
+qu’ils (elles) galopent
+
+** Imparfait
+
+que je galopasse
+que tu galopasses
+qu’il (elle) galopât
+que nous galopassions
+que vous galopassiez
+qu’ils (elles) galopassent
+
+* IMPÉRATIF
+
+** Présent
+
+galope
+galopons
+galopez
+
+* INFINITIF
+
+** Présent
+
+galoper
+
+* PARTICIPE
+
+** Présent
+
+galopant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai galopé
+tu as galopé
+il (elle) a galopé
+nous avons galopé
+vous avez galopé
+ils (elles) ont galopé
+
+** Plus-que-parfait
+
+j'avais galopé
+tu avais galopé
+il (elle) avait galopé
+nous avions galopé
+vous aviez galopé
+ils (elles) avaient galopé
+
+** Passé antérieur
+
+j'eus galopé
+tu eus galopé
+il (elle) eut galopé
+nous eûmes galopé
+vous eûtes galopé
+ils (elles) eurent galopé
+
+** Futur antérieur
+
+j'aurai galopé
+tu auras galopé
+il (elle) aura galopé
+nous aurons galopé
+vous aurez galopé
+ils (elles) auront galopé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais galopé
+tu aurais galopé
+il (elle) aurait galopé
+nous aurions galopé
+vous auriez galopé
+ils (elles) auraient galopé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie galopé
+que tu aies galopé
+qu’il (elle) ait galopé
+que nous ayons galopé
+que vous ayez galopé
+qu’ils (elles) aient galopé
+
+** Plus-que-parfait
+
+que j'eusse galopé
+que tu eusses galopé
+qu’il (elle) eût galopé
+que nous eussions galopé
+que vous eussiez galopé
+qu’ils (elles) eussent galopé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons galopé
+ayez galopé
+
+* INFINITIF
+
+** Passé
+
+avoir galopé
+
+* PARTICIPE
+
+** Passé
+
+ayant galopé
+galopé (invar.)

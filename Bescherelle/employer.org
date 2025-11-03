@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe employer
+
+* INDICATIF
+
+** Présent
+
+j'emploie
+tu emploies
+il (elle) emploie
+nous employons
+vous employez
+ils (elles) emploient
+
+** Imparfait
+
+j'employais
+tu employais
+il (elle) employait
+nous employions
+vous employiez
+ils (elles) employaient
+
+** Passé simple
+
+j'employai
+tu employas
+il (elle) employa
+nous employâmes
+vous employâtes
+ils (elles) employèrent
+
+** Futur simple
+
+j'emploierai
+tu emploieras
+il (elle) emploiera
+nous emploierons
+vous emploierez
+ils (elles) emploieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'emploierais
+tu emploierais
+il (elle) emploierait
+nous emploierions
+vous emploieriez
+ils (elles) emploieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'emploie
+que tu emploies
+qu’il (elle) emploie
+que nous employions
+que vous employiez
+qu’ils (elles) emploient
+
+** Imparfait
+
+que j'employasse
+que tu employasses
+qu’il (elle) employât
+que nous employassions
+que vous employassiez
+qu’ils (elles) employassent
+
+* IMPÉRATIF
+
+** Présent
+
+emploie
+employons
+employez
+
+* INFINITIF
+
+** Présent
+
+employer
+
+* PARTICIPE
+
+** Présent
+
+employant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai employé
+tu as employé
+il (elle) a employé
+nous avons employé
+vous avez employé
+ils (elles) ont employé
+
+** Plus-que-parfait
+
+j'avais employé
+tu avais employé
+il (elle) avait employé
+nous avions employé
+vous aviez employé
+ils (elles) avaient employé
+
+** Passé antérieur
+
+j'eus employé
+tu eus employé
+il (elle) eut employé
+nous eûmes employé
+vous eûtes employé
+ils (elles) eurent employé
+
+** Futur antérieur
+
+j'aurai employé
+tu auras employé
+il (elle) aura employé
+nous aurons employé
+vous aurez employé
+ils (elles) auront employé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais employé
+tu aurais employé
+il (elle) aurait employé
+nous aurions employé
+vous auriez employé
+ils (elles) auraient employé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie employé
+que tu aies employé
+qu’il (elle) ait employé
+que nous ayons employé
+que vous ayez employé
+qu’ils (elles) aient employé
+
+** Plus-que-parfait
+
+que j'eusse employé
+que tu eusses employé
+qu’il (elle) eût employé
+que nous eussions employé
+que vous eussiez employé
+qu’ils (elles) eussent employé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons employé
+ayez employé
+
+* INFINITIF
+
+** Passé
+
+avoir employé
+
+* PARTICIPE
+
+** Passé
+
+ayant employé
+employé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis employé(e)
+tu es employé(e)
+il (elle) est employé(e)
+nous sommes employé(e)s
+vous êtes employé(e)s
+ils (elles) sont employé(e)s
+
+** Imparfait
+
+j'étais employé(e)
+tu étais employé(e)
+il (elle) était employé(e)
+nous étions employé(e)s
+vous étiez employé(e)s
+ils (elles) étaient employé(e)s
+
+** Passé simple
+
+je fus employé(e)
+tu fus employé(e)
+il (elle) fut employé(e)
+nous fûmes employé(e)s
+vous fûtes employé(e)s
+ils (elles) furent employé(e)s
+
+** Futur simple
+
+je serai employé(e)
+tu seras employé(e)
+il (elle) sera employé(e)
+nous serons employé(e)s
+vous serez employé(e)s
+ils (elles) seront employé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais employé(e)
+tu serais employé(e)
+il (elle) serait employé(e)
+nous serions employé(e)s
+vous seriez employé(e)s
+ils (elles) seraient employé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois employé(e)
+que tu sois employé(e)
+qu’il (elle) soit employé(e)
+que nous soyons employé(e)s
+que vous soyez employé(e)s
+qu’ils (elles) soient employé(e)s
+
+** Imparfait
+
+que je fusse employé(e)
+que tu fusses employé(e)
+qu’il (elle) fût employé(e)
+que nous fussions employé(e)s
+que vous fussiez employé(e)s
+qu’ils (elles) fussent employé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons employé(e)s
+soyez employé(e)s
+
+* INFINITIF
+
+** Présent
+
+être employé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant employé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été employé(e)
+tu as été employé(e)
+il (elle) a été employé(e)
+nous avons été employé(e)s
+vous avez été employé(e)s
+ils (elles) ont été employé(e)s
+
+** Plus-que-parfait
+
+j'avais été employé(e)
+il (elle) avait été employé(e)
+nous avions été employé(e)s
+ils (elles) avaient été employé(e)s
+
+** Passé antérieur
+
+j'eus été employé(e)
+tu eus été employé(e)
+il (elle) eut été employé(e)
+nous eûmes été employé(e)s
+vous eûtes été employé(e)s
+ils (elles) eurent été employé(e)s
+
+** Futur antérieur
+
+j'aurai été employé(e)
+tu auras été employé(e)
+il (elle) aura été employé(e)
+nous aurons été employé(e)s
+vous aurez été employé(e)s
+ils (elles) auront été employé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été employé(e)
+j'aurais été employé(e)
+il (elle) aurait été employé(e)
+nous aurions été employé(e)s
+vous auriez été employé(e)s
+ils (elles) auraient été employé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été employé(e)
+que tu aies été employé(e)
+qu’il (elle) ait été employé(e)
+que nous ayons été employé(e)s
+que vous ayez été employé(e)s
+qu’ils (elles) aient été employé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été employé(e)
+que tu eusses été employé(e)
+qu’il (elle) eût été employé(e)
+que nous eussions été employé(e)s
+que vous eussiez été employé(e)s
+qu’ils (elles) eussent été employé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été employé(e)
+ayons été employé(e)s
+ayez été employé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été employé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été employé(e)(s)

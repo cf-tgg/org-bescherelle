@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe tarder
+
+* INDICATIF
+
+** Présent
+
+je tarde
+tu tardes
+il (elle) tarde
+nous tardons
+vous tardez
+ils (elles) tardent
+
+** Imparfait
+
+je tardais
+tu tardais
+il (elle) tardait
+nous tardions
+vous tardiez
+ils (elles) tardaient
+
+** Passé simple
+
+je tardai
+tu tardas
+il (elle) tarda
+nous tardâmes
+vous tardâtes
+ils (elles) tardèrent
+
+** Futur simple
+
+je tarderai
+tu tarderas
+il (elle) tardera
+nous tarderons
+vous tarderez
+ils (elles) tarderont
+
+* CONDITIONNEL
+
+** Présent
+
+je tarderais
+tu tarderais
+il (elle) tarderait
+nous tarderions
+vous tarderiez
+ils (elles) tarderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tarde
+que tu tardes
+qu’il (elle) tarde
+que nous tardions
+que vous tardiez
+qu’ils (elles) tardent
+
+** Imparfait
+
+que je tardasse
+que tu tardasses
+qu’il (elle) tardât
+que nous tardassions
+que vous tardassiez
+qu’ils (elles) tardassent
+
+* IMPÉRATIF
+
+** Présent
+
+tarde
+tardons
+tardez
+
+* INFINITIF
+
+** Présent
+
+tarder
+
+* PARTICIPE
+
+** Présent
+
+tardant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tardé
+tu as tardé
+il (elle) a tardé
+nous avons tardé
+vous avez tardé
+ils (elles) ont tardé
+
+** Plus-que-parfait
+
+j'avais tardé
+tu avais tardé
+il (elle) avait tardé
+nous avions tardé
+vous aviez tardé
+ils (elles) avaient tardé
+
+** Passé antérieur
+
+j'eus tardé
+tu eus tardé
+il (elle) eut tardé
+nous eûmes tardé
+vous eûtes tardé
+ils (elles) eurent tardé
+
+** Futur antérieur
+
+j'aurai tardé
+tu auras tardé
+il (elle) aura tardé
+nous aurons tardé
+vous aurez tardé
+ils (elles) auront tardé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tardé
+tu aurais tardé
+il (elle) aurait tardé
+nous aurions tardé
+vous auriez tardé
+ils (elles) auraient tardé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tardé
+que tu aies tardé
+qu’il (elle) ait tardé
+que nous ayons tardé
+que vous ayez tardé
+qu’ils (elles) aient tardé
+
+** Plus-que-parfait
+
+que j'eusse tardé
+que tu eusses tardé
+qu’il (elle) eût tardé
+que nous eussions tardé
+que vous eussiez tardé
+qu’ils (elles) eussent tardé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tardé
+ayez tardé
+
+* INFINITIF
+
+** Passé
+
+avoir tardé
+
+* PARTICIPE
+
+** Passé
+
+ayant tardé
+tardé (invar.)

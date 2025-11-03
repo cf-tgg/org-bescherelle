@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe biser
+
+* INDICATIF
+
+** Présent
+
+je bise
+tu bises
+il (elle) bise
+nous bisons
+vous bisez
+ils (elles) bisent
+
+** Imparfait
+
+je bisais
+tu bisais
+il (elle) bisait
+nous bisions
+vous bisiez
+ils (elles) bisaient
+
+** Passé simple
+
+je bisai
+tu bisas
+il (elle) bisa
+nous bisâmes
+vous bisâtes
+ils (elles) bisèrent
+
+** Futur simple
+
+je biserai
+tu biseras
+il (elle) bisera
+nous biserons
+vous biserez
+ils (elles) biseront
+
+* CONDITIONNEL
+
+** Présent
+
+je biserais
+tu biserais
+il (elle) biserait
+nous biserions
+vous biseriez
+ils (elles) biseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bise
+que tu bises
+qu’il (elle) bise
+que nous bisions
+que vous bisiez
+qu’ils (elles) bisent
+
+** Imparfait
+
+que je bisasse
+que tu bisasses
+qu’il (elle) bisât
+que nous bisassions
+que vous bisassiez
+qu’ils (elles) bisassent
+
+* IMPÉRATIF
+
+** Présent
+
+bise
+bisons
+bisez
+
+* INFINITIF
+
+** Présent
+
+biser
+
+* PARTICIPE
+
+** Présent
+
+bisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bisé
+tu as bisé
+il (elle) a bisé
+nous avons bisé
+vous avez bisé
+ils (elles) ont bisé
+
+** Plus-que-parfait
+
+j'avais bisé
+tu avais bisé
+il (elle) avait bisé
+nous avions bisé
+vous aviez bisé
+ils (elles) avaient bisé
+
+** Passé antérieur
+
+j'eus bisé
+tu eus bisé
+il (elle) eut bisé
+nous eûmes bisé
+vous eûtes bisé
+ils (elles) eurent bisé
+
+** Futur antérieur
+
+j'aurai bisé
+tu auras bisé
+il (elle) aura bisé
+nous aurons bisé
+vous aurez bisé
+ils (elles) auront bisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bisé
+tu aurais bisé
+il (elle) aurait bisé
+nous aurions bisé
+vous auriez bisé
+ils (elles) auraient bisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bisé
+que tu aies bisé
+qu’il (elle) ait bisé
+que nous ayons bisé
+que vous ayez bisé
+qu’ils (elles) aient bisé
+
+** Plus-que-parfait
+
+que j'eusse bisé
+que tu eusses bisé
+qu’il (elle) eût bisé
+que nous eussions bisé
+que vous eussiez bisé
+qu’ils (elles) eussent bisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bisé
+ayez bisé
+
+* INFINITIF
+
+** Passé
+
+avoir bisé
+
+* PARTICIPE
+
+** Passé
+
+ayant bisé
+bisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bisé(e)
+tu es bisé(e)
+il (elle) est bisé(e)
+nous sommes bisé(e)s
+vous êtes bisé(e)s
+ils (elles) sont bisé(e)s
+
+** Imparfait
+
+j'étais bisé(e)
+tu étais bisé(e)
+il (elle) était bisé(e)
+nous étions bisé(e)s
+vous étiez bisé(e)s
+ils (elles) étaient bisé(e)s
+
+** Passé simple
+
+je fus bisé(e)
+tu fus bisé(e)
+il (elle) fut bisé(e)
+nous fûmes bisé(e)s
+vous fûtes bisé(e)s
+ils (elles) furent bisé(e)s
+
+** Futur simple
+
+je serai bisé(e)
+tu seras bisé(e)
+il (elle) sera bisé(e)
+nous serons bisé(e)s
+vous serez bisé(e)s
+ils (elles) seront bisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bisé(e)
+tu serais bisé(e)
+il (elle) serait bisé(e)
+nous serions bisé(e)s
+vous seriez bisé(e)s
+ils (elles) seraient bisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bisé(e)
+que tu sois bisé(e)
+qu’il (elle) soit bisé(e)
+que nous soyons bisé(e)s
+que vous soyez bisé(e)s
+qu’ils (elles) soient bisé(e)s
+
+** Imparfait
+
+que je fusse bisé(e)
+que tu fusses bisé(e)
+qu’il (elle) fût bisé(e)
+que nous fussions bisé(e)s
+que vous fussiez bisé(e)s
+qu’ils (elles) fussent bisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bisé(e)s
+soyez bisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bisé(e)
+tu as été bisé(e)
+il (elle) a été bisé(e)
+nous avons été bisé(e)s
+vous avez été bisé(e)s
+ils (elles) ont été bisé(e)s
+
+** Plus-que-parfait
+
+j'avais été bisé(e)
+il (elle) avait été bisé(e)
+nous avions été bisé(e)s
+ils (elles) avaient été bisé(e)s
+
+** Passé antérieur
+
+j'eus été bisé(e)
+tu eus été bisé(e)
+il (elle) eut été bisé(e)
+nous eûmes été bisé(e)s
+vous eûtes été bisé(e)s
+ils (elles) eurent été bisé(e)s
+
+** Futur antérieur
+
+j'aurai été bisé(e)
+tu auras été bisé(e)
+il (elle) aura été bisé(e)
+nous aurons été bisé(e)s
+vous aurez été bisé(e)s
+ils (elles) auront été bisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bisé(e)
+j'aurais été bisé(e)
+il (elle) aurait été bisé(e)
+nous aurions été bisé(e)s
+vous auriez été bisé(e)s
+ils (elles) auraient été bisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bisé(e)
+que tu aies été bisé(e)
+qu’il (elle) ait été bisé(e)
+que nous ayons été bisé(e)s
+que vous ayez été bisé(e)s
+qu’ils (elles) aient été bisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bisé(e)
+que tu eusses été bisé(e)
+qu’il (elle) eût été bisé(e)
+que nous eussions été bisé(e)s
+que vous eussiez été bisé(e)s
+qu’ils (elles) eussent été bisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bisé(e)
+ayons été bisé(e)s
+ayez été bisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bisé(e)(s)

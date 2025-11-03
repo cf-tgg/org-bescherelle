@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mouler
+
+* INDICATIF
+
+** Présent
+
+je moule
+tu moules
+il (elle) moule
+nous moulons
+vous moulez
+ils (elles) moulent
+
+** Imparfait
+
+je moulais
+tu moulais
+il (elle) moulait
+nous moulions
+vous mouliez
+ils (elles) moulaient
+
+** Passé simple
+
+je moulai
+tu moulas
+il (elle) moula
+nous moulâmes
+vous moulâtes
+ils (elles) moulèrent
+
+** Futur simple
+
+je moulerai
+tu mouleras
+il (elle) moulera
+nous moulerons
+vous moulerez
+ils (elles) mouleront
+
+* CONDITIONNEL
+
+** Présent
+
+je moulerais
+tu moulerais
+il (elle) moulerait
+nous moulerions
+vous mouleriez
+ils (elles) mouleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je moule
+que tu moules
+qu’il (elle) moule
+que nous moulions
+que vous mouliez
+qu’ils (elles) moulent
+
+** Imparfait
+
+que je moulasse
+que tu moulasses
+qu’il (elle) moulât
+que nous moulassions
+que vous moulassiez
+qu’ils (elles) moulassent
+
+* IMPÉRATIF
+
+** Présent
+
+moule
+moulons
+moulez
+
+* INFINITIF
+
+** Présent
+
+mouler
+
+* PARTICIPE
+
+** Présent
+
+moulant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai moulé
+tu as moulé
+il (elle) a moulé
+nous avons moulé
+vous avez moulé
+ils (elles) ont moulé
+
+** Plus-que-parfait
+
+j'avais moulé
+tu avais moulé
+il (elle) avait moulé
+nous avions moulé
+vous aviez moulé
+ils (elles) avaient moulé
+
+** Passé antérieur
+
+j'eus moulé
+tu eus moulé
+il (elle) eut moulé
+nous eûmes moulé
+vous eûtes moulé
+ils (elles) eurent moulé
+
+** Futur antérieur
+
+j'aurai moulé
+tu auras moulé
+il (elle) aura moulé
+nous aurons moulé
+vous aurez moulé
+ils (elles) auront moulé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais moulé
+tu aurais moulé
+il (elle) aurait moulé
+nous aurions moulé
+vous auriez moulé
+ils (elles) auraient moulé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie moulé
+que tu aies moulé
+qu’il (elle) ait moulé
+que nous ayons moulé
+que vous ayez moulé
+qu’ils (elles) aient moulé
+
+** Plus-que-parfait
+
+que j'eusse moulé
+que tu eusses moulé
+qu’il (elle) eût moulé
+que nous eussions moulé
+que vous eussiez moulé
+qu’ils (elles) eussent moulé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons moulé
+ayez moulé
+
+* INFINITIF
+
+** Passé
+
+avoir moulé
+
+* PARTICIPE
+
+** Passé
+
+ayant moulé
+moulé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis moulé(e)
+tu es moulé(e)
+il (elle) est moulé(e)
+nous sommes moulé(e)s
+vous êtes moulé(e)s
+ils (elles) sont moulé(e)s
+
+** Imparfait
+
+j'étais moulé(e)
+tu étais moulé(e)
+il (elle) était moulé(e)
+nous étions moulé(e)s
+vous étiez moulé(e)s
+ils (elles) étaient moulé(e)s
+
+** Passé simple
+
+je fus moulé(e)
+tu fus moulé(e)
+il (elle) fut moulé(e)
+nous fûmes moulé(e)s
+vous fûtes moulé(e)s
+ils (elles) furent moulé(e)s
+
+** Futur simple
+
+je serai moulé(e)
+tu seras moulé(e)
+il (elle) sera moulé(e)
+nous serons moulé(e)s
+vous serez moulé(e)s
+ils (elles) seront moulé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais moulé(e)
+tu serais moulé(e)
+il (elle) serait moulé(e)
+nous serions moulé(e)s
+vous seriez moulé(e)s
+ils (elles) seraient moulé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois moulé(e)
+que tu sois moulé(e)
+qu’il (elle) soit moulé(e)
+que nous soyons moulé(e)s
+que vous soyez moulé(e)s
+qu’ils (elles) soient moulé(e)s
+
+** Imparfait
+
+que je fusse moulé(e)
+que tu fusses moulé(e)
+qu’il (elle) fût moulé(e)
+que nous fussions moulé(e)s
+que vous fussiez moulé(e)s
+qu’ils (elles) fussent moulé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons moulé(e)s
+soyez moulé(e)s
+
+* INFINITIF
+
+** Présent
+
+être moulé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant moulé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été moulé(e)
+tu as été moulé(e)
+il (elle) a été moulé(e)
+nous avons été moulé(e)s
+vous avez été moulé(e)s
+ils (elles) ont été moulé(e)s
+
+** Plus-que-parfait
+
+j'avais été moulé(e)
+il (elle) avait été moulé(e)
+nous avions été moulé(e)s
+ils (elles) avaient été moulé(e)s
+
+** Passé antérieur
+
+j'eus été moulé(e)
+tu eus été moulé(e)
+il (elle) eut été moulé(e)
+nous eûmes été moulé(e)s
+vous eûtes été moulé(e)s
+ils (elles) eurent été moulé(e)s
+
+** Futur antérieur
+
+j'aurai été moulé(e)
+tu auras été moulé(e)
+il (elle) aura été moulé(e)
+nous aurons été moulé(e)s
+vous aurez été moulé(e)s
+ils (elles) auront été moulé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été moulé(e)
+j'aurais été moulé(e)
+il (elle) aurait été moulé(e)
+nous aurions été moulé(e)s
+vous auriez été moulé(e)s
+ils (elles) auraient été moulé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été moulé(e)
+que tu aies été moulé(e)
+qu’il (elle) ait été moulé(e)
+que nous ayons été moulé(e)s
+que vous ayez été moulé(e)s
+qu’ils (elles) aient été moulé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été moulé(e)
+que tu eusses été moulé(e)
+qu’il (elle) eût été moulé(e)
+que nous eussions été moulé(e)s
+que vous eussiez été moulé(e)s
+qu’ils (elles) eussent été moulé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été moulé(e)
+ayons été moulé(e)s
+ayez été moulé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été moulé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été moulé(e)(s)

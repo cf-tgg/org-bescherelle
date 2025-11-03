@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enjoindre
+
+* INDICATIF
+
+** Présent
+
+j'enjoins
+tu enjoins
+il (elle) enjoint
+nous enjoignons
+vous enjoignez
+ils (elles) enjoignent
+
+** Imparfait
+
+j'enjoignais
+tu enjoignais
+il (elle) enjoignait
+nous enjoignions
+vous enjoigniez
+ils (elles) enjoignaient
+
+** Passé simple
+
+j'enjoignis
+tu enjoignis
+il (elle) enjoignit
+nous enjoignîmes
+vous enjoignîtes
+ils (elles) enjoignirent
+
+** Futur simple
+
+j'enjoindrai
+tu enjoindras
+il (elle) enjoindra
+nous enjoindrons
+vous enjoindrez
+ils (elles) enjoindront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enjoindrais
+tu enjoindrais
+il (elle) enjoindrait
+nous enjoindrions
+vous enjoindriez
+ils (elles) enjoindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enjoigne
+que tu enjoignes
+qu’il (elle) enjoigne
+que nous enjoignions
+que vous enjoigniez
+qu’ils (elles) enjoignent
+
+** Imparfait
+
+que j'enjoignisse
+que tu enjoignisses
+qu’il (elle) enjoignît
+que nous enjoignissions
+que vous enjoignissiez
+qu’ils (elles) enjoignissent
+
+* IMPÉRATIF
+
+** Présent
+
+enjoins
+enjoignons
+enjoignez
+
+* INFINITIF
+
+** Présent
+
+enjoindre
+
+* PARTICIPE
+
+** Présent
+
+enjoignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enjoint
+tu as enjoint
+il (elle) a enjoint
+nous avons enjoint
+vous avez enjoint
+ils (elles) ont enjoint
+
+** Plus-que-parfait
+
+j'avais enjoint
+tu avais enjoint
+il (elle) avait enjoint
+nous avions enjoint
+vous aviez enjoint
+ils (elles) avaient enjoint
+
+** Passé antérieur
+
+j'eus enjoint
+tu eus enjoint
+il (elle) eut enjoint
+nous eûmes enjoint
+vous eûtes enjoint
+ils (elles) eurent enjoint
+
+** Futur antérieur
+
+j'aurai enjoint
+tu auras enjoint
+il (elle) aura enjoint
+nous aurons enjoint
+vous aurez enjoint
+ils (elles) auront enjoint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enjoint
+tu aurais enjoint
+il (elle) aurait enjoint
+nous aurions enjoint
+vous auriez enjoint
+ils (elles) auraient enjoint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enjoint
+que tu aies enjoint
+qu’il (elle) ait enjoint
+que nous ayons enjoint
+que vous ayez enjoint
+qu’ils (elles) aient enjoint
+
+** Plus-que-parfait
+
+que j'eusse enjoint
+que tu eusses enjoint
+qu’il (elle) eût enjoint
+que nous eussions enjoint
+que vous eussiez enjoint
+qu’ils (elles) eussent enjoint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enjoint
+ayez enjoint
+
+* INFINITIF
+
+** Passé
+
+avoir enjoint
+
+* PARTICIPE
+
+** Passé
+
+ayant enjoint
+enjoint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis enjoint(e)
+tu es enjoint(e)
+il (elle) est enjoint(e)
+nous sommes enjoint(e)s
+vous êtes enjoint(e)s
+ils (elles) sont enjoint(e)s
+
+** Imparfait
+
+j'étais enjoint(e)
+tu étais enjoint(e)
+il (elle) était enjoint(e)
+nous étions enjoint(e)s
+vous étiez enjoint(e)s
+ils (elles) étaient enjoint(e)s
+
+** Passé simple
+
+je fus enjoint(e)
+tu fus enjoint(e)
+il (elle) fut enjoint(e)
+nous fûmes enjoint(e)s
+vous fûtes enjoint(e)s
+ils (elles) furent enjoint(e)s
+
+** Futur simple
+
+je serai enjoint(e)
+tu seras enjoint(e)
+il (elle) sera enjoint(e)
+nous serons enjoint(e)s
+vous serez enjoint(e)s
+ils (elles) seront enjoint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enjoint(e)
+tu serais enjoint(e)
+il (elle) serait enjoint(e)
+nous serions enjoint(e)s
+vous seriez enjoint(e)s
+ils (elles) seraient enjoint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enjoint(e)
+que tu sois enjoint(e)
+qu’il (elle) soit enjoint(e)
+que nous soyons enjoint(e)s
+que vous soyez enjoint(e)s
+qu’ils (elles) soient enjoint(e)s
+
+** Imparfait
+
+que je fusse enjoint(e)
+que tu fusses enjoint(e)
+qu’il (elle) fût enjoint(e)
+que nous fussions enjoint(e)s
+que vous fussiez enjoint(e)s
+qu’ils (elles) fussent enjoint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enjoint(e)s
+soyez enjoint(e)s
+
+* INFINITIF
+
+** Présent
+
+être enjoint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enjoint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enjoint(e)
+tu as été enjoint(e)
+il (elle) a été enjoint(e)
+nous avons été enjoint(e)s
+vous avez été enjoint(e)s
+ils (elles) ont été enjoint(e)s
+
+** Plus-que-parfait
+
+j'avais été enjoint(e)
+il (elle) avait été enjoint(e)
+nous avions été enjoint(e)s
+ils (elles) avaient été enjoint(e)s
+
+** Passé antérieur
+
+j'eus été enjoint(e)
+tu eus été enjoint(e)
+il (elle) eut été enjoint(e)
+nous eûmes été enjoint(e)s
+vous eûtes été enjoint(e)s
+ils (elles) eurent été enjoint(e)s
+
+** Futur antérieur
+
+j'aurai été enjoint(e)
+tu auras été enjoint(e)
+il (elle) aura été enjoint(e)
+nous aurons été enjoint(e)s
+vous aurez été enjoint(e)s
+ils (elles) auront été enjoint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enjoint(e)
+j'aurais été enjoint(e)
+il (elle) aurait été enjoint(e)
+nous aurions été enjoint(e)s
+vous auriez été enjoint(e)s
+ils (elles) auraient été enjoint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enjoint(e)
+que tu aies été enjoint(e)
+qu’il (elle) ait été enjoint(e)
+que nous ayons été enjoint(e)s
+que vous ayez été enjoint(e)s
+qu’ils (elles) aient été enjoint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enjoint(e)
+que tu eusses été enjoint(e)
+qu’il (elle) eût été enjoint(e)
+que nous eussions été enjoint(e)s
+que vous eussiez été enjoint(e)s
+qu’ils (elles) eussent été enjoint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enjoint(e)
+ayons été enjoint(e)s
+ayez été enjoint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enjoint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enjoint(e)(s)

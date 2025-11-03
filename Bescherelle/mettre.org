@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mettre
+
+* INDICATIF
+
+** Présent
+
+je mets
+tu mets
+il (elle) met
+nous mettons
+vous mettez
+ils (elles) mettent
+
+** Imparfait
+
+je mettais
+tu mettais
+il (elle) mettait
+nous mettions
+vous mettiez
+ils (elles) mettaient
+
+** Passé simple
+
+je mis
+tu mis
+il (elle) mit
+nous mîmes
+vous mîtes
+ils (elles) mirent
+
+** Futur simple
+
+je mettrai
+tu mettras
+il (elle) mettra
+nous mettrons
+vous mettrez
+ils (elles) mettront
+
+* CONDITIONNEL
+
+** Présent
+
+je mettrais
+tu mettrais
+il (elle) mettrait
+nous mettrions
+vous mettriez
+ils (elles) mettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mette
+que tu mettes
+qu’il (elle) mette
+que nous mettions
+que vous mettiez
+qu’ils (elles) mettent
+
+** Imparfait
+
+que je misse
+que tu misses
+qu’il (elle) mît
+que nous missions
+que vous missiez
+qu’ils (elles) missent
+
+* IMPÉRATIF
+
+** Présent
+
+mets
+mettons
+mettez
+
+* INFINITIF
+
+** Présent
+
+mettre
+
+* PARTICIPE
+
+** Présent
+
+mettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mis
+tu as mis
+il (elle) a mis
+nous avons mis
+vous avez mis
+ils (elles) ont mis
+
+** Plus-que-parfait
+
+j'avais mis
+tu avais mis
+il (elle) avait mis
+nous avions mis
+vous aviez mis
+ils (elles) avaient mis
+
+** Passé antérieur
+
+j'eus mis
+tu eus mis
+il (elle) eut mis
+nous eûmes mis
+vous eûtes mis
+ils (elles) eurent mis
+
+** Futur antérieur
+
+j'aurai mis
+tu auras mis
+il (elle) aura mis
+nous aurons mis
+vous aurez mis
+ils (elles) auront mis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mis
+tu aurais mis
+il (elle) aurait mis
+nous aurions mis
+vous auriez mis
+ils (elles) auraient mis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mis
+que tu aies mis
+qu’il (elle) ait mis
+que nous ayons mis
+que vous ayez mis
+qu’ils (elles) aient mis
+
+** Plus-que-parfait
+
+que j'eusse mis
+que tu eusses mis
+qu’il (elle) eût mis
+que nous eussions mis
+que vous eussiez mis
+qu’ils (elles) eussent mis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mis
+ayez mis
+
+* INFINITIF
+
+** Passé
+
+avoir mis
+
+* PARTICIPE
+
+** Passé
+
+ayant mis
+mis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis mis(e)
+tu es mis(e)
+il (elle) est mis(e)
+nous sommes mis(es)
+vous êtes mis(es)
+ils (elles) sont mis(es)
+
+** Imparfait
+
+j'étais mis(e)
+tu étais mis(e)
+il (elle) était mis(e)
+nous étions mis(es)
+vous étiez mis(es)
+ils (elles) étaient mis(es)
+
+** Passé simple
+
+je fus mis(e)
+tu fus mis(e)
+il (elle) fut mis(e)
+nous fûmes mis(es)
+vous fûtes mis(es)
+ils (elles) furent mis(es)
+
+** Futur simple
+
+je serai mis(e)
+tu seras mis(e)
+il (elle) sera mis(e)
+nous serons mis(es)
+vous serez mis(es)
+ils (elles) seront mis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mis(e)
+tu serais mis(e)
+il (elle) serait mis(e)
+nous serions mis(es)
+vous seriez mis(es)
+ils (elles) seraient mis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mis(e)
+que tu sois mis(e)
+qu’il (elle) soit mis(e)
+que nous soyons mis(es)
+que vous soyez mis(es)
+qu’ils (elles) soient mis(es)
+
+** Imparfait
+
+que je fusse mis(e)
+que tu fusses mis(e)
+qu’il (elle) fût mis(e)
+que nous fussions mis(es)
+que vous fussiez mis(es)
+qu’ils (elles) fussent mis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mis(es)
+soyez mis(es)
+
+* INFINITIF
+
+** Présent
+
+être mis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant mis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mis(e)
+tu as été mis(e)
+il (elle) a été mis(e)
+nous avons été mis(es)
+vous avez été mis(es)
+ils (elles) ont été mis(es)
+
+** Plus-que-parfait
+
+j'avais été mis(e)
+il (elle) avait été mis(e)
+nous avions été mis(es)
+ils (elles) avaient été mis(es)
+
+** Passé antérieur
+
+j'eus été mis(e)
+tu eus été mis(e)
+il (elle) eut été mis(e)
+nous eûmes été mis(es)
+vous eûtes été mis(es)
+ils (elles) eurent été mis(es)
+
+** Futur antérieur
+
+j'aurai été mis(e)
+tu auras été mis(e)
+il (elle) aura été mis(e)
+nous aurons été mis(es)
+vous aurez été mis(es)
+ils (elles) auront été mis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mis(e)
+j'aurais été mis(e)
+il (elle) aurait été mis(e)
+nous aurions été mis(es)
+vous auriez été mis(es)
+ils (elles) auraient été mis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mis(e)
+que tu aies été mis(e)
+qu’il (elle) ait été mis(e)
+que nous ayons été mis(es)
+que vous ayez été mis(es)
+qu’ils (elles) aient été mis(es)
+
+** Plus-que-parfait
+
+que j'eusse été mis(e)
+que tu eusses été mis(e)
+qu’il (elle) eût été mis(e)
+que nous eussions été mis(es)
+que vous eussiez été mis(es)
+qu’ils (elles) eussent été mis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mis(e)
+ayons été mis(es)
+ayez été mis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été mis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mis (s, se, s, ses)

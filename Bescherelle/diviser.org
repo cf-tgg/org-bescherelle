@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe diviser
+
+* INDICATIF
+
+** Présent
+
+je divise
+tu divises
+il (elle) divise
+nous divisons
+vous divisez
+ils (elles) divisent
+
+** Imparfait
+
+je divisais
+tu divisais
+il (elle) divisait
+nous divisions
+vous divisiez
+ils (elles) divisaient
+
+** Passé simple
+
+je divisai
+tu divisas
+il (elle) divisa
+nous divisâmes
+vous divisâtes
+ils (elles) divisèrent
+
+** Futur simple
+
+je diviserai
+tu diviseras
+il (elle) divisera
+nous diviserons
+vous diviserez
+ils (elles) diviseront
+
+* CONDITIONNEL
+
+** Présent
+
+je diviserais
+tu diviserais
+il (elle) diviserait
+nous diviserions
+vous diviseriez
+ils (elles) diviseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je divise
+que tu divises
+qu’il (elle) divise
+que nous divisions
+que vous divisiez
+qu’ils (elles) divisent
+
+** Imparfait
+
+que je divisasse
+que tu divisasses
+qu’il (elle) divisât
+que nous divisassions
+que vous divisassiez
+qu’ils (elles) divisassent
+
+* IMPÉRATIF
+
+** Présent
+
+divise
+divisons
+divisez
+
+* INFINITIF
+
+** Présent
+
+diviser
+
+* PARTICIPE
+
+** Présent
+
+divisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai divisé
+tu as divisé
+il (elle) a divisé
+nous avons divisé
+vous avez divisé
+ils (elles) ont divisé
+
+** Plus-que-parfait
+
+j'avais divisé
+tu avais divisé
+il (elle) avait divisé
+nous avions divisé
+vous aviez divisé
+ils (elles) avaient divisé
+
+** Passé antérieur
+
+j'eus divisé
+tu eus divisé
+il (elle) eut divisé
+nous eûmes divisé
+vous eûtes divisé
+ils (elles) eurent divisé
+
+** Futur antérieur
+
+j'aurai divisé
+tu auras divisé
+il (elle) aura divisé
+nous aurons divisé
+vous aurez divisé
+ils (elles) auront divisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais divisé
+tu aurais divisé
+il (elle) aurait divisé
+nous aurions divisé
+vous auriez divisé
+ils (elles) auraient divisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie divisé
+que tu aies divisé
+qu’il (elle) ait divisé
+que nous ayons divisé
+que vous ayez divisé
+qu’ils (elles) aient divisé
+
+** Plus-que-parfait
+
+que j'eusse divisé
+que tu eusses divisé
+qu’il (elle) eût divisé
+que nous eussions divisé
+que vous eussiez divisé
+qu’ils (elles) eussent divisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons divisé
+ayez divisé
+
+* INFINITIF
+
+** Passé
+
+avoir divisé
+
+* PARTICIPE
+
+** Passé
+
+ayant divisé
+divisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis divisé(e)
+tu es divisé(e)
+il (elle) est divisé(e)
+nous sommes divisé(e)s
+vous êtes divisé(e)s
+ils (elles) sont divisé(e)s
+
+** Imparfait
+
+j'étais divisé(e)
+tu étais divisé(e)
+il (elle) était divisé(e)
+nous étions divisé(e)s
+vous étiez divisé(e)s
+ils (elles) étaient divisé(e)s
+
+** Passé simple
+
+je fus divisé(e)
+tu fus divisé(e)
+il (elle) fut divisé(e)
+nous fûmes divisé(e)s
+vous fûtes divisé(e)s
+ils (elles) furent divisé(e)s
+
+** Futur simple
+
+je serai divisé(e)
+tu seras divisé(e)
+il (elle) sera divisé(e)
+nous serons divisé(e)s
+vous serez divisé(e)s
+ils (elles) seront divisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais divisé(e)
+tu serais divisé(e)
+il (elle) serait divisé(e)
+nous serions divisé(e)s
+vous seriez divisé(e)s
+ils (elles) seraient divisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois divisé(e)
+que tu sois divisé(e)
+qu’il (elle) soit divisé(e)
+que nous soyons divisé(e)s
+que vous soyez divisé(e)s
+qu’ils (elles) soient divisé(e)s
+
+** Imparfait
+
+que je fusse divisé(e)
+que tu fusses divisé(e)
+qu’il (elle) fût divisé(e)
+que nous fussions divisé(e)s
+que vous fussiez divisé(e)s
+qu’ils (elles) fussent divisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons divisé(e)s
+soyez divisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être divisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant divisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été divisé(e)
+tu as été divisé(e)
+il (elle) a été divisé(e)
+nous avons été divisé(e)s
+vous avez été divisé(e)s
+ils (elles) ont été divisé(e)s
+
+** Plus-que-parfait
+
+j'avais été divisé(e)
+il (elle) avait été divisé(e)
+nous avions été divisé(e)s
+ils (elles) avaient été divisé(e)s
+
+** Passé antérieur
+
+j'eus été divisé(e)
+tu eus été divisé(e)
+il (elle) eut été divisé(e)
+nous eûmes été divisé(e)s
+vous eûtes été divisé(e)s
+ils (elles) eurent été divisé(e)s
+
+** Futur antérieur
+
+j'aurai été divisé(e)
+tu auras été divisé(e)
+il (elle) aura été divisé(e)
+nous aurons été divisé(e)s
+vous aurez été divisé(e)s
+ils (elles) auront été divisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été divisé(e)
+j'aurais été divisé(e)
+il (elle) aurait été divisé(e)
+nous aurions été divisé(e)s
+vous auriez été divisé(e)s
+ils (elles) auraient été divisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été divisé(e)
+que tu aies été divisé(e)
+qu’il (elle) ait été divisé(e)
+que nous ayons été divisé(e)s
+que vous ayez été divisé(e)s
+qu’ils (elles) aient été divisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été divisé(e)
+que tu eusses été divisé(e)
+qu’il (elle) eût été divisé(e)
+que nous eussions été divisé(e)s
+que vous eussiez été divisé(e)s
+qu’ils (elles) eussent été divisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été divisé(e)
+ayons été divisé(e)s
+ayez été divisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été divisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été divisé(e)(s)

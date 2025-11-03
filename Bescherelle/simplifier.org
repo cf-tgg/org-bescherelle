@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe simplifier
+
+* INDICATIF
+
+** Présent
+
+je simplifie
+tu simplifies
+il (elle) simplifie
+nous simplifions
+vous simplifiez
+ils (elles) simplifient
+
+** Imparfait
+
+je simplifiais
+tu simplifiais
+il (elle) simplifiait
+nous simplifiions
+vous simplifiiez
+ils (elles) simplifiaient
+
+** Passé simple
+
+je simplifiai
+tu simplifias
+il (elle) simplifia
+nous simplifiâmes
+vous simplifiâtes
+ils (elles) simplifièrent
+
+** Futur simple
+
+je simplifierai
+tu simplifieras
+il (elle) simplifiera
+nous simplifierons
+vous simplifierez
+ils (elles) simplifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je simplifierais
+tu simplifierais
+il (elle) simplifierait
+nous simplifierions
+vous simplifieriez
+ils (elles) simplifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je simplifie
+que tu simplifies
+qu’il (elle) simplifie
+que nous simplifiions
+que vous simplifiiez
+qu’ils (elles) simplifient
+
+** Imparfait
+
+que je simplifiasse
+que tu simplifiasses
+qu’il (elle) simplifiât
+que nous simplifiassions
+que vous simplifiassiez
+qu’ils (elles) simplifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+simplifie
+simplifions
+simplifiez
+
+* INFINITIF
+
+** Présent
+
+simplifier
+
+* PARTICIPE
+
+** Présent
+
+simplifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai simplifié
+tu as simplifié
+il (elle) a simplifié
+nous avons simplifié
+vous avez simplifié
+ils (elles) ont simplifié
+
+** Plus-que-parfait
+
+j'avais simplifié
+tu avais simplifié
+il (elle) avait simplifié
+nous avions simplifié
+vous aviez simplifié
+ils (elles) avaient simplifié
+
+** Passé antérieur
+
+j'eus simplifié
+tu eus simplifié
+il (elle) eut simplifié
+nous eûmes simplifié
+vous eûtes simplifié
+ils (elles) eurent simplifié
+
+** Futur antérieur
+
+j'aurai simplifié
+tu auras simplifié
+il (elle) aura simplifié
+nous aurons simplifié
+vous aurez simplifié
+ils (elles) auront simplifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais simplifié
+tu aurais simplifié
+il (elle) aurait simplifié
+nous aurions simplifié
+vous auriez simplifié
+ils (elles) auraient simplifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie simplifié
+que tu aies simplifié
+qu’il (elle) ait simplifié
+que nous ayons simplifié
+que vous ayez simplifié
+qu’ils (elles) aient simplifié
+
+** Plus-que-parfait
+
+que j'eusse simplifié
+que tu eusses simplifié
+qu’il (elle) eût simplifié
+que nous eussions simplifié
+que vous eussiez simplifié
+qu’ils (elles) eussent simplifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons simplifié
+ayez simplifié
+
+* INFINITIF
+
+** Passé
+
+avoir simplifié
+
+* PARTICIPE
+
+** Passé
+
+ayant simplifié
+simplifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis simplifié(e)
+tu es simplifié(e)
+il (elle) est simplifié(e)
+nous sommes simplifié(e)s
+vous êtes simplifié(e)s
+ils (elles) sont simplifié(e)s
+
+** Imparfait
+
+j'étais simplifié(e)
+tu étais simplifié(e)
+il (elle) était simplifié(e)
+nous étions simplifié(e)s
+vous étiez simplifié(e)s
+ils (elles) étaient simplifié(e)s
+
+** Passé simple
+
+je fus simplifié(e)
+tu fus simplifié(e)
+il (elle) fut simplifié(e)
+nous fûmes simplifié(e)s
+vous fûtes simplifié(e)s
+ils (elles) furent simplifié(e)s
+
+** Futur simple
+
+je serai simplifié(e)
+tu seras simplifié(e)
+il (elle) sera simplifié(e)
+nous serons simplifié(e)s
+vous serez simplifié(e)s
+ils (elles) seront simplifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais simplifié(e)
+tu serais simplifié(e)
+il (elle) serait simplifié(e)
+nous serions simplifié(e)s
+vous seriez simplifié(e)s
+ils (elles) seraient simplifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois simplifié(e)
+que tu sois simplifié(e)
+qu’il (elle) soit simplifié(e)
+que nous soyons simplifié(e)s
+que vous soyez simplifié(e)s
+qu’ils (elles) soient simplifié(e)s
+
+** Imparfait
+
+que je fusse simplifié(e)
+que tu fusses simplifié(e)
+qu’il (elle) fût simplifié(e)
+que nous fussions simplifié(e)s
+que vous fussiez simplifié(e)s
+qu’ils (elles) fussent simplifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons simplifié(e)s
+soyez simplifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être simplifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant simplifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été simplifié(e)
+tu as été simplifié(e)
+il (elle) a été simplifié(e)
+nous avons été simplifié(e)s
+vous avez été simplifié(e)s
+ils (elles) ont été simplifié(e)s
+
+** Plus-que-parfait
+
+j'avais été simplifié(e)
+il (elle) avait été simplifié(e)
+nous avions été simplifié(e)s
+ils (elles) avaient été simplifié(e)s
+
+** Passé antérieur
+
+j'eus été simplifié(e)
+tu eus été simplifié(e)
+il (elle) eut été simplifié(e)
+nous eûmes été simplifié(e)s
+vous eûtes été simplifié(e)s
+ils (elles) eurent été simplifié(e)s
+
+** Futur antérieur
+
+j'aurai été simplifié(e)
+tu auras été simplifié(e)
+il (elle) aura été simplifié(e)
+nous aurons été simplifié(e)s
+vous aurez été simplifié(e)s
+ils (elles) auront été simplifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été simplifié(e)
+j'aurais été simplifié(e)
+il (elle) aurait été simplifié(e)
+nous aurions été simplifié(e)s
+vous auriez été simplifié(e)s
+ils (elles) auraient été simplifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été simplifié(e)
+que tu aies été simplifié(e)
+qu’il (elle) ait été simplifié(e)
+que nous ayons été simplifié(e)s
+que vous ayez été simplifié(e)s
+qu’ils (elles) aient été simplifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été simplifié(e)
+que tu eusses été simplifié(e)
+qu’il (elle) eût été simplifié(e)
+que nous eussions été simplifié(e)s
+que vous eussiez été simplifié(e)s
+qu’ils (elles) eussent été simplifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été simplifié(e)
+ayons été simplifié(e)s
+ayez été simplifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été simplifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été simplifié(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe bonder
+
+* INDICATIF
+
+** Présent
+
+je bonde
+tu bondes
+il (elle) bonde
+nous bondons
+vous bondez
+ils (elles) bondent
+
+** Imparfait
+
+je bondais
+tu bondais
+il (elle) bondait
+nous bondions
+vous bondiez
+ils (elles) bondaient
+
+** Passé simple
+
+je bondai
+tu bondas
+il (elle) bonda
+nous bondâmes
+vous bondâtes
+ils (elles) bondèrent
+
+** Futur simple
+
+je bonderai
+tu bonderas
+il (elle) bondera
+nous bonderons
+vous bonderez
+ils (elles) bonderont
+
+* CONDITIONNEL
+
+** Présent
+
+je bonderais
+tu bonderais
+il (elle) bonderait
+nous bonderions
+vous bonderiez
+ils (elles) bonderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je bonde
+que tu bondes
+qu’il (elle) bonde
+que nous bondions
+que vous bondiez
+qu’ils (elles) bondent
+
+** Imparfait
+
+que je bondasse
+que tu bondasses
+qu’il (elle) bondât
+que nous bondassions
+que vous bondassiez
+qu’ils (elles) bondassent
+
+* IMPÉRATIF
+
+** Présent
+
+bonde
+bondons
+bondez
+
+* INFINITIF
+
+** Présent
+
+bonder
+
+* PARTICIPE
+
+** Présent
+
+bondant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai bondé
+tu as bondé
+il (elle) a bondé
+nous avons bondé
+vous avez bondé
+ils (elles) ont bondé
+
+** Plus-que-parfait
+
+j'avais bondé
+tu avais bondé
+il (elle) avait bondé
+nous avions bondé
+vous aviez bondé
+ils (elles) avaient bondé
+
+** Passé antérieur
+
+j'eus bondé
+tu eus bondé
+il (elle) eut bondé
+nous eûmes bondé
+vous eûtes bondé
+ils (elles) eurent bondé
+
+** Futur antérieur
+
+j'aurai bondé
+tu auras bondé
+il (elle) aura bondé
+nous aurons bondé
+vous aurez bondé
+ils (elles) auront bondé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais bondé
+tu aurais bondé
+il (elle) aurait bondé
+nous aurions bondé
+vous auriez bondé
+ils (elles) auraient bondé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie bondé
+que tu aies bondé
+qu’il (elle) ait bondé
+que nous ayons bondé
+que vous ayez bondé
+qu’ils (elles) aient bondé
+
+** Plus-que-parfait
+
+que j'eusse bondé
+que tu eusses bondé
+qu’il (elle) eût bondé
+que nous eussions bondé
+que vous eussiez bondé
+qu’ils (elles) eussent bondé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons bondé
+ayez bondé
+
+* INFINITIF
+
+** Passé
+
+avoir bondé
+
+* PARTICIPE
+
+** Passé
+
+ayant bondé
+bondé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis bondé(e)
+tu es bondé(e)
+il (elle) est bondé(e)
+nous sommes bondé(e)s
+vous êtes bondé(e)s
+ils (elles) sont bondé(e)s
+
+** Imparfait
+
+j'étais bondé(e)
+tu étais bondé(e)
+il (elle) était bondé(e)
+nous étions bondé(e)s
+vous étiez bondé(e)s
+ils (elles) étaient bondé(e)s
+
+** Passé simple
+
+je fus bondé(e)
+tu fus bondé(e)
+il (elle) fut bondé(e)
+nous fûmes bondé(e)s
+vous fûtes bondé(e)s
+ils (elles) furent bondé(e)s
+
+** Futur simple
+
+je serai bondé(e)
+tu seras bondé(e)
+il (elle) sera bondé(e)
+nous serons bondé(e)s
+vous serez bondé(e)s
+ils (elles) seront bondé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais bondé(e)
+tu serais bondé(e)
+il (elle) serait bondé(e)
+nous serions bondé(e)s
+vous seriez bondé(e)s
+ils (elles) seraient bondé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois bondé(e)
+que tu sois bondé(e)
+qu’il (elle) soit bondé(e)
+que nous soyons bondé(e)s
+que vous soyez bondé(e)s
+qu’ils (elles) soient bondé(e)s
+
+** Imparfait
+
+que je fusse bondé(e)
+que tu fusses bondé(e)
+qu’il (elle) fût bondé(e)
+que nous fussions bondé(e)s
+que vous fussiez bondé(e)s
+qu’ils (elles) fussent bondé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons bondé(e)s
+soyez bondé(e)s
+
+* INFINITIF
+
+** Présent
+
+être bondé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant bondé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été bondé(e)
+tu as été bondé(e)
+il (elle) a été bondé(e)
+nous avons été bondé(e)s
+vous avez été bondé(e)s
+ils (elles) ont été bondé(e)s
+
+** Plus-que-parfait
+
+j'avais été bondé(e)
+il (elle) avait été bondé(e)
+nous avions été bondé(e)s
+ils (elles) avaient été bondé(e)s
+
+** Passé antérieur
+
+j'eus été bondé(e)
+tu eus été bondé(e)
+il (elle) eut été bondé(e)
+nous eûmes été bondé(e)s
+vous eûtes été bondé(e)s
+ils (elles) eurent été bondé(e)s
+
+** Futur antérieur
+
+j'aurai été bondé(e)
+tu auras été bondé(e)
+il (elle) aura été bondé(e)
+nous aurons été bondé(e)s
+vous aurez été bondé(e)s
+ils (elles) auront été bondé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été bondé(e)
+j'aurais été bondé(e)
+il (elle) aurait été bondé(e)
+nous aurions été bondé(e)s
+vous auriez été bondé(e)s
+ils (elles) auraient été bondé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été bondé(e)
+que tu aies été bondé(e)
+qu’il (elle) ait été bondé(e)
+que nous ayons été bondé(e)s
+que vous ayez été bondé(e)s
+qu’ils (elles) aient été bondé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été bondé(e)
+que tu eusses été bondé(e)
+qu’il (elle) eût été bondé(e)
+que nous eussions été bondé(e)s
+que vous eussiez été bondé(e)s
+qu’ils (elles) eussent été bondé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été bondé(e)
+ayons été bondé(e)s
+ayez été bondé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été bondé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été bondé(e)(s)

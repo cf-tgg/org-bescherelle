@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe forcer
+
+* INDICATIF
+
+** Présent
+
+je force
+tu forces
+il (elle) force
+nous forçons
+vous forcez
+ils (elles) forcent
+
+** Imparfait
+
+je forçais
+tu forçais
+il (elle) forçait
+nous forcions
+vous forciez
+ils (elles) forçaient
+
+** Passé simple
+
+je forçai
+tu forças
+il (elle) força
+nous forçâmes
+vous forçâtes
+ils (elles) forcèrent
+
+** Futur simple
+
+je forcerai
+tu forceras
+il (elle) forcera
+nous forcerons
+vous forcerez
+ils (elles) forceront
+
+* CONDITIONNEL
+
+** Présent
+
+je forcerais
+tu forcerais
+il (elle) forcerait
+nous forcerions
+vous forceriez
+ils (elles) forceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je force
+que tu forces
+qu’il (elle) force
+que nous forcions
+que vous forciez
+qu’ils (elles) forcent
+
+** Imparfait
+
+que je forçasse
+que tu forçasses
+qu’il (elle) forçât
+que nous forçassions
+que vous forçassiez
+qu’ils (elles) forçassent
+
+* IMPÉRATIF
+
+** Présent
+
+force
+forçons
+forcez
+
+* INFINITIF
+
+** Présent
+
+forcer
+
+* PARTICIPE
+
+** Présent
+
+forçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai forcé
+tu as forcé
+il (elle) a forcé
+nous avons forcé
+vous avez forcé
+ils (elles) ont forcé
+
+** Plus-que-parfait
+
+j'avais forcé
+tu avais forcé
+il (elle) avait forcé
+nous avions forcé
+vous aviez forcé
+ils (elles) avaient forcé
+
+** Passé antérieur
+
+j'eus forcé
+tu eus forcé
+il (elle) eut forcé
+nous eûmes forcé
+vous eûtes forcé
+ils (elles) eurent forcé
+
+** Futur antérieur
+
+j'aurai forcé
+tu auras forcé
+il (elle) aura forcé
+nous aurons forcé
+vous aurez forcé
+ils (elles) auront forcé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais forcé
+tu aurais forcé
+il (elle) aurait forcé
+nous aurions forcé
+vous auriez forcé
+ils (elles) auraient forcé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie forcé
+que tu aies forcé
+qu’il (elle) ait forcé
+que nous ayons forcé
+que vous ayez forcé
+qu’ils (elles) aient forcé
+
+** Plus-que-parfait
+
+que j'eusse forcé
+que tu eusses forcé
+qu’il (elle) eût forcé
+que nous eussions forcé
+que vous eussiez forcé
+qu’ils (elles) eussent forcé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons forcé
+ayez forcé
+
+* INFINITIF
+
+** Passé
+
+avoir forcé
+
+* PARTICIPE
+
+** Passé
+
+ayant forcé
+forcé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis forcé(e)
+tu es forcé(e)
+il (elle) est forcé(e)
+nous sommes forcé(e)s
+vous êtes forcé(e)s
+ils (elles) sont forcé(e)s
+
+** Imparfait
+
+j'étais forcé(e)
+tu étais forcé(e)
+il (elle) était forcé(e)
+nous étions forcé(e)s
+vous étiez forcé(e)s
+ils (elles) étaient forcé(e)s
+
+** Passé simple
+
+je fus forcé(e)
+tu fus forcé(e)
+il (elle) fut forcé(e)
+nous fûmes forcé(e)s
+vous fûtes forcé(e)s
+ils (elles) furent forcé(e)s
+
+** Futur simple
+
+je serai forcé(e)
+tu seras forcé(e)
+il (elle) sera forcé(e)
+nous serons forcé(e)s
+vous serez forcé(e)s
+ils (elles) seront forcé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais forcé(e)
+tu serais forcé(e)
+il (elle) serait forcé(e)
+nous serions forcé(e)s
+vous seriez forcé(e)s
+ils (elles) seraient forcé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois forcé(e)
+que tu sois forcé(e)
+qu’il (elle) soit forcé(e)
+que nous soyons forcé(e)s
+que vous soyez forcé(e)s
+qu’ils (elles) soient forcé(e)s
+
+** Imparfait
+
+que je fusse forcé(e)
+que tu fusses forcé(e)
+qu’il (elle) fût forcé(e)
+que nous fussions forcé(e)s
+que vous fussiez forcé(e)s
+qu’ils (elles) fussent forcé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons forcé(e)s
+soyez forcé(e)s
+
+* INFINITIF
+
+** Présent
+
+être forcé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant forcé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été forcé(e)
+tu as été forcé(e)
+il (elle) a été forcé(e)
+nous avons été forcé(e)s
+vous avez été forcé(e)s
+ils (elles) ont été forcé(e)s
+
+** Plus-que-parfait
+
+j'avais été forcé(e)
+il (elle) avait été forcé(e)
+nous avions été forcé(e)s
+ils (elles) avaient été forcé(e)s
+
+** Passé antérieur
+
+j'eus été forcé(e)
+tu eus été forcé(e)
+il (elle) eut été forcé(e)
+nous eûmes été forcé(e)s
+vous eûtes été forcé(e)s
+ils (elles) eurent été forcé(e)s
+
+** Futur antérieur
+
+j'aurai été forcé(e)
+tu auras été forcé(e)
+il (elle) aura été forcé(e)
+nous aurons été forcé(e)s
+vous aurez été forcé(e)s
+ils (elles) auront été forcé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été forcé(e)
+j'aurais été forcé(e)
+il (elle) aurait été forcé(e)
+nous aurions été forcé(e)s
+vous auriez été forcé(e)s
+ils (elles) auraient été forcé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été forcé(e)
+que tu aies été forcé(e)
+qu’il (elle) ait été forcé(e)
+que nous ayons été forcé(e)s
+que vous ayez été forcé(e)s
+qu’ils (elles) aient été forcé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été forcé(e)
+que tu eusses été forcé(e)
+qu’il (elle) eût été forcé(e)
+que nous eussions été forcé(e)s
+que vous eussiez été forcé(e)s
+qu’ils (elles) eussent été forcé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été forcé(e)
+ayons été forcé(e)s
+ayez été forcé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été forcé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été forcé(e)(s)

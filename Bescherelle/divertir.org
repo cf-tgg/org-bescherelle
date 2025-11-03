@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe divertir
+
+* INDICATIF
+
+** Présent
+
+je divertis
+tu divertis
+il (elle) divertit
+nous divertissons
+vous divertissez
+ils (elles) divertissent
+
+** Imparfait
+
+je divertissais
+tu divertissais
+il (elle) divertissait
+nous divertissions
+vous divertissiez
+ils (elles) divertissaient
+
+** Passé simple
+
+je divertis
+tu divertis
+il (elle) divertit
+nous divertîmes
+vous divertîtes
+ils (elles) divertirent
+
+** Futur simple
+
+je divertirai
+tu divertiras
+il (elle) divertira
+nous divertirons
+vous divertirez
+ils (elles) divertiront
+
+* CONDITIONNEL
+
+** Présent
+
+je divertirais
+tu divertirais
+il (elle) divertirait
+nous divertirions
+vous divertiriez
+ils (elles) divertiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je divertisse
+que tu divertisses
+qu’il (elle) divertisse
+que nous divertissions
+que vous divertissiez
+qu’ils (elles) divertissent
+
+** Imparfait
+
+que je divertisse
+que tu divertisses
+qu’il (elle) divertît
+que nous divertissions
+que vous divertissiez
+qu’ils (elles) divertissent
+
+* IMPÉRATIF
+
+** Présent
+
+divertis
+divertissons
+divertissez
+
+* INFINITIF
+
+** Présent
+
+divertir
+
+* PARTICIPE
+
+** Présent
+
+divertissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai diverti
+tu as diverti
+il (elle) a diverti
+nous avons diverti
+vous avez diverti
+ils (elles) ont diverti
+
+** Plus-que-parfait
+
+j'avais diverti
+tu avais diverti
+il (elle) avait diverti
+nous avions diverti
+vous aviez diverti
+ils (elles) avaient diverti
+
+** Passé antérieur
+
+j'eus diverti
+tu eus diverti
+il (elle) eut diverti
+nous eûmes diverti
+vous eûtes diverti
+ils (elles) eurent diverti
+
+** Futur antérieur
+
+j'aurai diverti
+tu auras diverti
+il (elle) aura diverti
+nous aurons diverti
+vous aurez diverti
+ils (elles) auront diverti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais diverti
+tu aurais diverti
+il (elle) aurait diverti
+nous aurions diverti
+vous auriez diverti
+ils (elles) auraient diverti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie diverti
+que tu aies diverti
+qu’il (elle) ait diverti
+que nous ayons diverti
+que vous ayez diverti
+qu’ils (elles) aient diverti
+
+** Plus-que-parfait
+
+que j'eusse diverti
+que tu eusses diverti
+qu’il (elle) eût diverti
+que nous eussions diverti
+que vous eussiez diverti
+qu’ils (elles) eussent diverti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons diverti
+ayez diverti
+
+* INFINITIF
+
+** Passé
+
+avoir diverti
+
+* PARTICIPE
+
+** Passé
+
+ayant diverti
+diverti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis diverti(e)
+tu es diverti(e)
+il (elle) est diverti(e)
+nous sommes diverti(e)s
+vous êtes diverti(e)s
+ils (elles) sont diverti(e)s
+
+** Imparfait
+
+j'étais diverti(e)
+tu étais diverti(e)
+il (elle) était diverti(e)
+nous étions diverti(e)s
+vous étiez diverti(e)s
+ils (elles) étaient diverti(e)s
+
+** Passé simple
+
+je fus diverti(e)
+tu fus diverti(e)
+il (elle) fut diverti(e)
+nous fûmes diverti(e)s
+vous fûtes diverti(e)s
+ils (elles) furent diverti(e)s
+
+** Futur simple
+
+je serai diverti(e)
+tu seras diverti(e)
+il (elle) sera diverti(e)
+nous serons diverti(e)s
+vous serez diverti(e)s
+ils (elles) seront diverti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais diverti(e)
+tu serais diverti(e)
+il (elle) serait diverti(e)
+nous serions diverti(e)s
+vous seriez diverti(e)s
+ils (elles) seraient diverti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois diverti(e)
+que tu sois diverti(e)
+qu’il (elle) soit diverti(e)
+que nous soyons diverti(e)s
+que vous soyez diverti(e)s
+qu’ils (elles) soient diverti(e)s
+
+** Imparfait
+
+que je fusse diverti(e)
+que tu fusses diverti(e)
+qu’il (elle) fût diverti(e)
+que nous fussions diverti(e)s
+que vous fussiez diverti(e)s
+qu’ils (elles) fussent diverti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons diverti(e)s
+soyez diverti(e)s
+
+* INFINITIF
+
+** Présent
+
+être diverti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant diverti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été diverti(e)
+tu as été diverti(e)
+il (elle) a été diverti(e)
+nous avons été diverti(e)s
+vous avez été diverti(e)s
+ils (elles) ont été diverti(e)s
+
+** Plus-que-parfait
+
+j'avais été diverti(e)
+il (elle) avait été diverti(e)
+nous avions été diverti(e)s
+ils (elles) avaient été diverti(e)s
+
+** Passé antérieur
+
+j'eus été diverti(e)
+tu eus été diverti(e)
+il (elle) eut été diverti(e)
+nous eûmes été diverti(e)s
+vous eûtes été diverti(e)s
+ils (elles) eurent été diverti(e)s
+
+** Futur antérieur
+
+j'aurai été diverti(e)
+tu auras été diverti(e)
+il (elle) aura été diverti(e)
+nous aurons été diverti(e)s
+vous aurez été diverti(e)s
+ils (elles) auront été diverti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été diverti(e)
+j'aurais été diverti(e)
+il (elle) aurait été diverti(e)
+nous aurions été diverti(e)s
+vous auriez été diverti(e)s
+ils (elles) auraient été diverti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été diverti(e)
+que tu aies été diverti(e)
+qu’il (elle) ait été diverti(e)
+que nous ayons été diverti(e)s
+que vous ayez été diverti(e)s
+qu’ils (elles) aient été diverti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été diverti(e)
+que tu eusses été diverti(e)
+qu’il (elle) eût été diverti(e)
+que nous eussions été diverti(e)s
+que vous eussiez été diverti(e)s
+qu’ils (elles) eussent été diverti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été diverti(e)
+ayons été diverti(e)s
+ayez été diverti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été diverti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été diverti(e)(s)

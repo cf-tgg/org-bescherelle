@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe participer
+
+* INDICATIF
+
+** Présent
+
+je participe
+tu participes
+il (elle) participe
+nous participons
+vous participez
+ils (elles) participent
+
+** Imparfait
+
+je participais
+tu participais
+il (elle) participait
+nous participions
+vous participiez
+ils (elles) participaient
+
+** Passé simple
+
+je participai
+tu participas
+il (elle) participa
+nous participâmes
+vous participâtes
+ils (elles) participèrent
+
+** Futur simple
+
+je participerai
+tu participeras
+il (elle) participera
+nous participerons
+vous participerez
+ils (elles) participeront
+
+* CONDITIONNEL
+
+** Présent
+
+je participerais
+tu participerais
+il (elle) participerait
+nous participerions
+vous participeriez
+ils (elles) participeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je participe
+que tu participes
+qu’il (elle) participe
+que nous participions
+que vous participiez
+qu’ils (elles) participent
+
+** Imparfait
+
+que je participasse
+que tu participasses
+qu’il (elle) participât
+que nous participassions
+que vous participassiez
+qu’ils (elles) participassent
+
+* IMPÉRATIF
+
+** Présent
+
+participe
+participons
+participez
+
+* INFINITIF
+
+** Présent
+
+participer
+
+* PARTICIPE
+
+** Présent
+
+participant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai participé
+tu as participé
+il (elle) a participé
+nous avons participé
+vous avez participé
+ils (elles) ont participé
+
+** Plus-que-parfait
+
+j'avais participé
+tu avais participé
+il (elle) avait participé
+nous avions participé
+vous aviez participé
+ils (elles) avaient participé
+
+** Passé antérieur
+
+j'eus participé
+tu eus participé
+il (elle) eut participé
+nous eûmes participé
+vous eûtes participé
+ils (elles) eurent participé
+
+** Futur antérieur
+
+j'aurai participé
+tu auras participé
+il (elle) aura participé
+nous aurons participé
+vous aurez participé
+ils (elles) auront participé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais participé
+tu aurais participé
+il (elle) aurait participé
+nous aurions participé
+vous auriez participé
+ils (elles) auraient participé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie participé
+que tu aies participé
+qu’il (elle) ait participé
+que nous ayons participé
+que vous ayez participé
+qu’ils (elles) aient participé
+
+** Plus-que-parfait
+
+que j'eusse participé
+que tu eusses participé
+qu’il (elle) eût participé
+que nous eussions participé
+que vous eussiez participé
+qu’ils (elles) eussent participé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons participé
+ayez participé
+
+* INFINITIF
+
+** Passé
+
+avoir participé
+
+* PARTICIPE
+
+** Passé
+
+ayant participé
+participé (invar.)

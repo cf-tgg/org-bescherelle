@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe zapper
+
+* INDICATIF
+
+** Présent
+
+je zappe
+tu zappes
+il (elle) zappe
+nous zappons
+vous zappez
+ils (elles) zappent
+
+** Imparfait
+
+je zappais
+tu zappais
+il (elle) zappait
+nous zappions
+vous zappiez
+ils (elles) zappaient
+
+** Passé simple
+
+je zappai
+tu zappas
+il (elle) zappa
+nous zappâmes
+vous zappâtes
+ils (elles) zappèrent
+
+** Futur simple
+
+je zapperai
+tu zapperas
+il (elle) zappera
+nous zapperons
+vous zapperez
+ils (elles) zapperont
+
+* CONDITIONNEL
+
+** Présent
+
+je zapperais
+tu zapperais
+il (elle) zapperait
+nous zapperions
+vous zapperiez
+ils (elles) zapperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je zappe
+que tu zappes
+qu’il (elle) zappe
+que nous zappions
+que vous zappiez
+qu’ils (elles) zappent
+
+** Imparfait
+
+que je zappasse
+que tu zappasses
+qu’il (elle) zappât
+que nous zappassions
+que vous zappassiez
+qu’ils (elles) zappassent
+
+* IMPÉRATIF
+
+** Présent
+
+zappe
+zappons
+zappez
+
+* INFINITIF
+
+** Présent
+
+zapper
+
+* PARTICIPE
+
+** Présent
+
+zappant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai zappé
+tu as zappé
+il (elle) a zappé
+nous avons zappé
+vous avez zappé
+ils (elles) ont zappé
+
+** Plus-que-parfait
+
+j'avais zappé
+tu avais zappé
+il (elle) avait zappé
+nous avions zappé
+vous aviez zappé
+ils (elles) avaient zappé
+
+** Passé antérieur
+
+j'eus zappé
+tu eus zappé
+il (elle) eut zappé
+nous eûmes zappé
+vous eûtes zappé
+ils (elles) eurent zappé
+
+** Futur antérieur
+
+j'aurai zappé
+tu auras zappé
+il (elle) aura zappé
+nous aurons zappé
+vous aurez zappé
+ils (elles) auront zappé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais zappé
+tu aurais zappé
+il (elle) aurait zappé
+nous aurions zappé
+vous auriez zappé
+ils (elles) auraient zappé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie zappé
+que tu aies zappé
+qu’il (elle) ait zappé
+que nous ayons zappé
+que vous ayez zappé
+qu’ils (elles) aient zappé
+
+** Plus-que-parfait
+
+que j'eusse zappé
+que tu eusses zappé
+qu’il (elle) eût zappé
+que nous eussions zappé
+que vous eussiez zappé
+qu’ils (elles) eussent zappé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons zappé
+ayez zappé
+
+* INFINITIF
+
+** Passé
+
+avoir zappé
+
+* PARTICIPE
+
+** Passé
+
+ayant zappé
+zappé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis zappé(e)
+tu es zappé(e)
+il (elle) est zappé(e)
+nous sommes zappé(e)s
+vous êtes zappé(e)s
+ils (elles) sont zappé(e)s
+
+** Imparfait
+
+j'étais zappé(e)
+tu étais zappé(e)
+il (elle) était zappé(e)
+nous étions zappé(e)s
+vous étiez zappé(e)s
+ils (elles) étaient zappé(e)s
+
+** Passé simple
+
+je fus zappé(e)
+tu fus zappé(e)
+il (elle) fut zappé(e)
+nous fûmes zappé(e)s
+vous fûtes zappé(e)s
+ils (elles) furent zappé(e)s
+
+** Futur simple
+
+je serai zappé(e)
+tu seras zappé(e)
+il (elle) sera zappé(e)
+nous serons zappé(e)s
+vous serez zappé(e)s
+ils (elles) seront zappé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais zappé(e)
+tu serais zappé(e)
+il (elle) serait zappé(e)
+nous serions zappé(e)s
+vous seriez zappé(e)s
+ils (elles) seraient zappé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois zappé(e)
+que tu sois zappé(e)
+qu’il (elle) soit zappé(e)
+que nous soyons zappé(e)s
+que vous soyez zappé(e)s
+qu’ils (elles) soient zappé(e)s
+
+** Imparfait
+
+que je fusse zappé(e)
+que tu fusses zappé(e)
+qu’il (elle) fût zappé(e)
+que nous fussions zappé(e)s
+que vous fussiez zappé(e)s
+qu’ils (elles) fussent zappé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons zappé(e)s
+soyez zappé(e)s
+
+* INFINITIF
+
+** Présent
+
+être zappé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant zappé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été zappé(e)
+tu as été zappé(e)
+il (elle) a été zappé(e)
+nous avons été zappé(e)s
+vous avez été zappé(e)s
+ils (elles) ont été zappé(e)s
+
+** Plus-que-parfait
+
+j'avais été zappé(e)
+il (elle) avait été zappé(e)
+nous avions été zappé(e)s
+ils (elles) avaient été zappé(e)s
+
+** Passé antérieur
+
+j'eus été zappé(e)
+tu eus été zappé(e)
+il (elle) eut été zappé(e)
+nous eûmes été zappé(e)s
+vous eûtes été zappé(e)s
+ils (elles) eurent été zappé(e)s
+
+** Futur antérieur
+
+j'aurai été zappé(e)
+tu auras été zappé(e)
+il (elle) aura été zappé(e)
+nous aurons été zappé(e)s
+vous aurez été zappé(e)s
+ils (elles) auront été zappé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été zappé(e)
+j'aurais été zappé(e)
+il (elle) aurait été zappé(e)
+nous aurions été zappé(e)s
+vous auriez été zappé(e)s
+ils (elles) auraient été zappé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été zappé(e)
+que tu aies été zappé(e)
+qu’il (elle) ait été zappé(e)
+que nous ayons été zappé(e)s
+que vous ayez été zappé(e)s
+qu’ils (elles) aient été zappé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été zappé(e)
+que tu eusses été zappé(e)
+qu’il (elle) eût été zappé(e)
+que nous eussions été zappé(e)s
+que vous eussiez été zappé(e)s
+qu’ils (elles) eussent été zappé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été zappé(e)
+ayons été zappé(e)s
+ayez été zappé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été zappé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été zappé(e)(s)

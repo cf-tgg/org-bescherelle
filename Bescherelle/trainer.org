@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe trainer
+
+* INDICATIF
+
+** Présent
+
+je traîne
+tu traînes
+il (elle) traîne
+nous traînons
+vous traînez
+ils (elles) traînent
+
+** Imparfait
+
+je traînais
+tu traînais
+il (elle) traînait
+nous traînions
+vous traîniez
+ils (elles) traînaient
+
+** Passé simple
+
+je traînai
+tu traînas
+il (elle) traîna
+nous traînâmes
+vous traînâtes
+ils (elles) traînèrent
+
+** Futur simple
+
+je traînerai
+tu traîneras
+il (elle) traînera
+nous traînerons
+vous traînerez
+ils (elles) traîneront
+
+* CONDITIONNEL
+
+** Présent
+
+je traînerais
+tu traînerais
+il (elle) traînerait
+nous traînerions
+vous traîneriez
+ils (elles) traîneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je traîne
+que tu traînes
+qu’il (elle) traîne
+que nous traînions
+que vous traîniez
+qu’ils (elles) traînent
+
+** Imparfait
+
+que je traînasse
+que tu traînasses
+qu’il (elle) traînât
+que nous traînassions
+que vous traînassiez
+qu’ils (elles) traînassent
+
+* IMPÉRATIF
+
+** Présent
+
+traîne
+traînons
+traînez
+
+* INFINITIF
+
+** Présent
+
+traîner
+
+* PARTICIPE
+
+** Présent
+
+traînant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai traîné
+tu as traîné
+il (elle) a traîné
+nous avons traîné
+vous avez traîné
+ils (elles) ont traîné
+
+** Plus-que-parfait
+
+j'avais traîné
+tu avais traîné
+il (elle) avait traîné
+nous avions traîné
+vous aviez traîné
+ils (elles) avaient traîné
+
+** Passé antérieur
+
+j'eus traîné
+tu eus traîné
+il (elle) eut traîné
+nous eûmes traîné
+vous eûtes traîné
+ils (elles) eurent traîné
+
+** Futur antérieur
+
+j'aurai traîné
+tu auras traîné
+il (elle) aura traîné
+nous aurons traîné
+vous aurez traîné
+ils (elles) auront traîné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais traîné
+tu aurais traîné
+il (elle) aurait traîné
+nous aurions traîné
+vous auriez traîné
+ils (elles) auraient traîné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie traîné
+que tu aies traîné
+qu’il (elle) ait traîné
+que nous ayons traîné
+que vous ayez traîné
+qu’ils (elles) aient traîné
+
+** Plus-que-parfait
+
+que j'eusse traîné
+que tu eusses traîné
+qu’il (elle) eût traîné
+que nous eussions traîné
+que vous eussiez traîné
+qu’ils (elles) eussent traîné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons traîné
+ayez traîné
+
+* INFINITIF
+
+** Passé
+
+avoir traîné
+
+* PARTICIPE
+
+** Passé
+
+ayant traîné
+traîné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis traîné(e)
+tu es traîné(e)
+il (elle) est traîné(e)
+nous sommes traîné(e)s
+vous êtes traîné(e)s
+ils (elles) sont traîné(e)s
+
+** Imparfait
+
+j'étais traîné(e)
+tu étais traîné(e)
+il (elle) était traîné(e)
+nous étions traîné(e)s
+vous étiez traîné(e)s
+ils (elles) étaient traîné(e)s
+
+** Passé simple
+
+je fus traîné(e)
+tu fus traîné(e)
+il (elle) fut traîné(e)
+nous fûmes traîné(e)s
+vous fûtes traîné(e)s
+ils (elles) furent traîné(e)s
+
+** Futur simple
+
+je serai traîné(e)
+tu seras traîné(e)
+il (elle) sera traîné(e)
+nous serons traîné(e)s
+vous serez traîné(e)s
+ils (elles) seront traîné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais traîné(e)
+tu serais traîné(e)
+il (elle) serait traîné(e)
+nous serions traîné(e)s
+vous seriez traîné(e)s
+ils (elles) seraient traîné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois traîné(e)
+que tu sois traîné(e)
+qu’il (elle) soit traîné(e)
+que nous soyons traîné(e)s
+que vous soyez traîné(e)s
+qu’ils (elles) soient traîné(e)s
+
+** Imparfait
+
+que je fusse traîné(e)
+que tu fusses traîné(e)
+qu’il (elle) fût traîné(e)
+que nous fussions traîné(e)s
+que vous fussiez traîné(e)s
+qu’ils (elles) fussent traîné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons traîné(e)s
+soyez traîné(e)s
+
+* INFINITIF
+
+** Présent
+
+être traîné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant traîné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été traîné(e)
+tu as été traîné(e)
+il (elle) a été traîné(e)
+nous avons été traîné(e)s
+vous avez été traîné(e)s
+ils (elles) ont été traîné(e)s
+
+** Plus-que-parfait
+
+j'avais été traîné(e)
+il (elle) avait été traîné(e)
+nous avions été traîné(e)s
+ils (elles) avaient été traîné(e)s
+
+** Passé antérieur
+
+j'eus été traîné(e)
+tu eus été traîné(e)
+il (elle) eut été traîné(e)
+nous eûmes été traîné(e)s
+vous eûtes été traîné(e)s
+ils (elles) eurent été traîné(e)s
+
+** Futur antérieur
+
+j'aurai été traîné(e)
+tu auras été traîné(e)
+il (elle) aura été traîné(e)
+nous aurons été traîné(e)s
+vous aurez été traîné(e)s
+ils (elles) auront été traîné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été traîné(e)
+j'aurais été traîné(e)
+il (elle) aurait été traîné(e)
+nous aurions été traîné(e)s
+vous auriez été traîné(e)s
+ils (elles) auraient été traîné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été traîné(e)
+que tu aies été traîné(e)
+qu’il (elle) ait été traîné(e)
+que nous ayons été traîné(e)s
+que vous ayez été traîné(e)s
+qu’ils (elles) aient été traîné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été traîné(e)
+que tu eusses été traîné(e)
+qu’il (elle) eût été traîné(e)
+que nous eussions été traîné(e)s
+que vous eussiez été traîné(e)s
+qu’ils (elles) eussent été traîné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été traîné(e)
+ayons été traîné(e)s
+ayez été traîné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été traîné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été traîné(e)(s)

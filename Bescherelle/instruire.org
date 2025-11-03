@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe instruire
+
+* INDICATIF
+
+** Présent
+
+j'instruis
+tu instruis
+il (elle) instruit
+nous instruisons
+vous instruisez
+ils (elles) instruisent
+
+** Imparfait
+
+j'instruisais
+tu instruisais
+il (elle) instruisait
+nous instruisions
+vous instruisiez
+ils (elles) instruisaient
+
+** Passé simple
+
+j'instruisis
+tu instruisis
+il (elle) instruisit
+nous instruisîmes
+vous instruisîtes
+ils (elles) instruisirent
+
+** Futur simple
+
+j'instruirai
+tu instruiras
+il (elle) instruira
+nous instruirons
+vous instruirez
+ils (elles) instruiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'instruirais
+tu instruirais
+il (elle) instruirait
+nous instruirions
+vous instruiriez
+ils (elles) instruiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'instruise
+que tu instruises
+qu’il (elle) instruise
+que nous instruisions
+que vous instruisiez
+qu’ils (elles) instruisent
+
+** Imparfait
+
+que j'instruisisse
+que tu instruisisses
+qu’il (elle) instruisît
+que nous instruisissions
+que vous instruisissiez
+qu’ils (elles) instruisissent
+
+* IMPÉRATIF
+
+** Présent
+
+instruis
+instruisons
+instruisez
+
+* INFINITIF
+
+** Présent
+
+instruire
+
+* PARTICIPE
+
+** Présent
+
+instruisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai instruit
+tu as instruit
+il (elle) a instruit
+nous avons instruit
+vous avez instruit
+ils (elles) ont instruit
+
+** Plus-que-parfait
+
+j'avais instruit
+tu avais instruit
+il (elle) avait instruit
+nous avions instruit
+vous aviez instruit
+ils (elles) avaient instruit
+
+** Passé antérieur
+
+j'eus instruit
+tu eus instruit
+il (elle) eut instruit
+nous eûmes instruit
+vous eûtes instruit
+ils (elles) eurent instruit
+
+** Futur antérieur
+
+j'aurai instruit
+tu auras instruit
+il (elle) aura instruit
+nous aurons instruit
+vous aurez instruit
+ils (elles) auront instruit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais instruit
+tu aurais instruit
+il (elle) aurait instruit
+nous aurions instruit
+vous auriez instruit
+ils (elles) auraient instruit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie instruit
+que tu aies instruit
+qu’il (elle) ait instruit
+que nous ayons instruit
+que vous ayez instruit
+qu’ils (elles) aient instruit
+
+** Plus-que-parfait
+
+que j'eusse instruit
+que tu eusses instruit
+qu’il (elle) eût instruit
+que nous eussions instruit
+que vous eussiez instruit
+qu’ils (elles) eussent instruit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons instruit
+ayez instruit
+
+* INFINITIF
+
+** Passé
+
+avoir instruit
+
+* PARTICIPE
+
+** Passé
+
+ayant instruit
+instruit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis instruit(e)
+tu es instruit(e)
+il (elle) est instruit(e)
+nous sommes instruit(e)s
+vous êtes instruit(e)s
+ils (elles) sont instruit(e)s
+
+** Imparfait
+
+j'étais instruit(e)
+tu étais instruit(e)
+il (elle) était instruit(e)
+nous étions instruit(e)s
+vous étiez instruit(e)s
+ils (elles) étaient instruit(e)s
+
+** Passé simple
+
+je fus instruit(e)
+tu fus instruit(e)
+il (elle) fut instruit(e)
+nous fûmes instruit(e)s
+vous fûtes instruit(e)s
+ils (elles) furent instruit(e)s
+
+** Futur simple
+
+je serai instruit(e)
+tu seras instruit(e)
+il (elle) sera instruit(e)
+nous serons instruit(e)s
+vous serez instruit(e)s
+ils (elles) seront instruit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais instruit(e)
+tu serais instruit(e)
+il (elle) serait instruit(e)
+nous serions instruit(e)s
+vous seriez instruit(e)s
+ils (elles) seraient instruit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois instruit(e)
+que tu sois instruit(e)
+qu’il (elle) soit instruit(e)
+que nous soyons instruit(e)s
+que vous soyez instruit(e)s
+qu’ils (elles) soient instruit(e)s
+
+** Imparfait
+
+que je fusse instruit(e)
+que tu fusses instruit(e)
+qu’il (elle) fût instruit(e)
+que nous fussions instruit(e)s
+que vous fussiez instruit(e)s
+qu’ils (elles) fussent instruit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons instruit(e)s
+soyez instruit(e)s
+
+* INFINITIF
+
+** Présent
+
+être instruit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant instruit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été instruit(e)
+tu as été instruit(e)
+il (elle) a été instruit(e)
+nous avons été instruit(e)s
+vous avez été instruit(e)s
+ils (elles) ont été instruit(e)s
+
+** Plus-que-parfait
+
+j'avais été instruit(e)
+il (elle) avait été instruit(e)
+nous avions été instruit(e)s
+ils (elles) avaient été instruit(e)s
+
+** Passé antérieur
+
+j'eus été instruit(e)
+tu eus été instruit(e)
+il (elle) eut été instruit(e)
+nous eûmes été instruit(e)s
+vous eûtes été instruit(e)s
+ils (elles) eurent été instruit(e)s
+
+** Futur antérieur
+
+j'aurai été instruit(e)
+tu auras été instruit(e)
+il (elle) aura été instruit(e)
+nous aurons été instruit(e)s
+vous aurez été instruit(e)s
+ils (elles) auront été instruit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été instruit(e)
+j'aurais été instruit(e)
+il (elle) aurait été instruit(e)
+nous aurions été instruit(e)s
+vous auriez été instruit(e)s
+ils (elles) auraient été instruit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été instruit(e)
+que tu aies été instruit(e)
+qu’il (elle) ait été instruit(e)
+que nous ayons été instruit(e)s
+que vous ayez été instruit(e)s
+qu’ils (elles) aient été instruit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été instruit(e)
+que tu eusses été instruit(e)
+qu’il (elle) eût été instruit(e)
+que nous eussions été instruit(e)s
+que vous eussiez été instruit(e)s
+qu’ils (elles) eussent été instruit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été instruit(e)
+ayons été instruit(e)s
+ayez été instruit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été instruit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été instruit(e)(s)

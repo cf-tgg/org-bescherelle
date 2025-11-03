@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe gerer
+
+* INDICATIF
+
+** Présent
+
+je gère
+tu gères
+il (elle) gère
+nous gérons
+vous gérez
+ils (elles) gèrent
+
+** Imparfait
+
+je gérais
+tu gérais
+il (elle) gérait
+nous gérions
+vous gériez
+ils (elles) géraient
+
+** Passé simple
+
+je gérai
+tu géras
+il (elle) géra
+nous gérâmes
+vous gérâtes
+ils (elles) gérèrent
+
+** Futur simple
+
+je gérerai
+tu géreras
+il (elle) gérera
+nous gérerons
+vous gérerez
+ils (elles) géreront
+
+* CONDITIONNEL
+
+** Présent
+
+je gérerais
+tu gérerais
+il (elle) gérerait
+nous gérerions
+vous géreriez
+ils (elles) géreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gère
+que tu gères
+qu’il (elle) gère
+que nous gérions
+que vous gériez
+qu’ils (elles) gèrent
+
+** Imparfait
+
+que je gérasse
+que tu gérasses
+qu’il (elle) gérât
+que nous gérassions
+que vous gérassiez
+qu’ils (elles) gérassent
+
+* IMPÉRATIF
+
+** Présent
+
+gère
+gérons
+gérez
+
+* INFINITIF
+
+** Présent
+
+gérer
+
+* PARTICIPE
+
+** Présent
+
+gérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai géré
+tu as géré
+il (elle) a géré
+nous avons géré
+vous avez géré
+ils (elles) ont géré
+
+** Plus-que-parfait
+
+j'avais géré
+tu avais géré
+il (elle) avait géré
+nous avions géré
+vous aviez géré
+ils (elles) avaient géré
+
+** Passé antérieur
+
+j'eus géré
+tu eus géré
+il (elle) eut géré
+nous eûmes géré
+vous eûtes géré
+ils (elles) eurent géré
+
+** Futur antérieur
+
+j'aurai géré
+tu auras géré
+il (elle) aura géré
+nous aurons géré
+vous aurez géré
+ils (elles) auront géré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais géré
+tu aurais géré
+il (elle) aurait géré
+nous aurions géré
+vous auriez géré
+ils (elles) auraient géré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie géré
+que tu aies géré
+qu’il (elle) ait géré
+que nous ayons géré
+que vous ayez géré
+qu’ils (elles) aient géré
+
+** Plus-que-parfait
+
+que j'eusse géré
+que tu eusses géré
+qu’il (elle) eût géré
+que nous eussions géré
+que vous eussiez géré
+qu’ils (elles) eussent géré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons géré
+ayez géré
+
+* INFINITIF
+
+** Passé
+
+avoir géré
+
+* PARTICIPE
+
+** Passé
+
+ayant géré
+géré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis géré(e)
+tu es géré(e)
+il (elle) est géré(e)
+nous sommes géré(e)s
+vous êtes géré(e)s
+ils (elles) sont géré(e)s
+
+** Imparfait
+
+j'étais géré(e)
+tu étais géré(e)
+il (elle) était géré(e)
+nous étions géré(e)s
+vous étiez géré(e)s
+ils (elles) étaient géré(e)s
+
+** Passé simple
+
+je fus géré(e)
+tu fus géré(e)
+il (elle) fut géré(e)
+nous fûmes géré(e)s
+vous fûtes géré(e)s
+ils (elles) furent géré(e)s
+
+** Futur simple
+
+je serai géré(e)
+tu seras géré(e)
+il (elle) sera géré(e)
+nous serons géré(e)s
+vous serez géré(e)s
+ils (elles) seront géré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais géré(e)
+tu serais géré(e)
+il (elle) serait géré(e)
+nous serions géré(e)s
+vous seriez géré(e)s
+ils (elles) seraient géré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois géré(e)
+que tu sois géré(e)
+qu’il (elle) soit géré(e)
+que nous soyons géré(e)s
+que vous soyez géré(e)s
+qu’ils (elles) soient géré(e)s
+
+** Imparfait
+
+que je fusse géré(e)
+que tu fusses géré(e)
+qu’il (elle) fût géré(e)
+que nous fussions géré(e)s
+que vous fussiez géré(e)s
+qu’ils (elles) fussent géré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons géré(e)s
+soyez géré(e)s
+
+* INFINITIF
+
+** Présent
+
+être géré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant géré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été géré(e)
+tu as été géré(e)
+il (elle) a été géré(e)
+nous avons été géré(e)s
+vous avez été géré(e)s
+ils (elles) ont été géré(e)s
+
+** Plus-que-parfait
+
+j'avais été géré(e)
+il (elle) avait été géré(e)
+nous avions été géré(e)s
+ils (elles) avaient été géré(e)s
+
+** Passé antérieur
+
+j'eus été géré(e)
+tu eus été géré(e)
+il (elle) eut été géré(e)
+nous eûmes été géré(e)s
+vous eûtes été géré(e)s
+ils (elles) eurent été géré(e)s
+
+** Futur antérieur
+
+j'aurai été géré(e)
+tu auras été géré(e)
+il (elle) aura été géré(e)
+nous aurons été géré(e)s
+vous aurez été géré(e)s
+ils (elles) auront été géré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été géré(e)
+j'aurais été géré(e)
+il (elle) aurait été géré(e)
+nous aurions été géré(e)s
+vous auriez été géré(e)s
+ils (elles) auraient été géré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été géré(e)
+que tu aies été géré(e)
+qu’il (elle) ait été géré(e)
+que nous ayons été géré(e)s
+que vous ayez été géré(e)s
+qu’ils (elles) aient été géré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été géré(e)
+que tu eusses été géré(e)
+qu’il (elle) eût été géré(e)
+que nous eussions été géré(e)s
+que vous eussiez été géré(e)s
+qu’ils (elles) eussent été géré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été géré(e)
+ayons été géré(e)s
+ayez été géré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été géré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été géré(e)(s)

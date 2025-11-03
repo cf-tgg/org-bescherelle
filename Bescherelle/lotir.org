@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lotir
+
+* INDICATIF
+
+** Présent
+
+je lotis
+tu lotis
+il (elle) lotit
+nous lotissons
+vous lotissez
+ils (elles) lotissent
+
+** Imparfait
+
+je lotissais
+tu lotissais
+il (elle) lotissait
+nous lotissions
+vous lotissiez
+ils (elles) lotissaient
+
+** Passé simple
+
+je lotis
+tu lotis
+il (elle) lotit
+nous lotîmes
+vous lotîtes
+ils (elles) lotirent
+
+** Futur simple
+
+je lotirai
+tu lotiras
+il (elle) lotira
+nous lotirons
+vous lotirez
+ils (elles) lotiront
+
+* CONDITIONNEL
+
+** Présent
+
+je lotirais
+tu lotirais
+il (elle) lotirait
+nous lotirions
+vous lotiriez
+ils (elles) lotiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lotisse
+que tu lotisses
+qu’il (elle) lotisse
+que nous lotissions
+que vous lotissiez
+qu’ils (elles) lotissent
+
+** Imparfait
+
+que je lotisse
+que tu lotisses
+qu’il (elle) lotît
+que nous lotissions
+que vous lotissiez
+qu’ils (elles) lotissent
+
+* IMPÉRATIF
+
+** Présent
+
+lotis
+lotissons
+lotissez
+
+* INFINITIF
+
+** Présent
+
+lotir
+
+* PARTICIPE
+
+** Présent
+
+lotissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai loti
+tu as loti
+il (elle) a loti
+nous avons loti
+vous avez loti
+ils (elles) ont loti
+
+** Plus-que-parfait
+
+j'avais loti
+tu avais loti
+il (elle) avait loti
+nous avions loti
+vous aviez loti
+ils (elles) avaient loti
+
+** Passé antérieur
+
+j'eus loti
+tu eus loti
+il (elle) eut loti
+nous eûmes loti
+vous eûtes loti
+ils (elles) eurent loti
+
+** Futur antérieur
+
+j'aurai loti
+tu auras loti
+il (elle) aura loti
+nous aurons loti
+vous aurez loti
+ils (elles) auront loti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais loti
+tu aurais loti
+il (elle) aurait loti
+nous aurions loti
+vous auriez loti
+ils (elles) auraient loti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie loti
+que tu aies loti
+qu’il (elle) ait loti
+que nous ayons loti
+que vous ayez loti
+qu’ils (elles) aient loti
+
+** Plus-que-parfait
+
+que j'eusse loti
+que tu eusses loti
+qu’il (elle) eût loti
+que nous eussions loti
+que vous eussiez loti
+qu’ils (elles) eussent loti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons loti
+ayez loti
+
+* INFINITIF
+
+** Passé
+
+avoir loti
+
+* PARTICIPE
+
+** Passé
+
+ayant loti
+loti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis loti(e)
+tu es loti(e)
+il (elle) est loti(e)
+nous sommes loti(e)s
+vous êtes loti(e)s
+ils (elles) sont loti(e)s
+
+** Imparfait
+
+j'étais loti(e)
+tu étais loti(e)
+il (elle) était loti(e)
+nous étions loti(e)s
+vous étiez loti(e)s
+ils (elles) étaient loti(e)s
+
+** Passé simple
+
+je fus loti(e)
+tu fus loti(e)
+il (elle) fut loti(e)
+nous fûmes loti(e)s
+vous fûtes loti(e)s
+ils (elles) furent loti(e)s
+
+** Futur simple
+
+je serai loti(e)
+tu seras loti(e)
+il (elle) sera loti(e)
+nous serons loti(e)s
+vous serez loti(e)s
+ils (elles) seront loti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais loti(e)
+tu serais loti(e)
+il (elle) serait loti(e)
+nous serions loti(e)s
+vous seriez loti(e)s
+ils (elles) seraient loti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois loti(e)
+que tu sois loti(e)
+qu’il (elle) soit loti(e)
+que nous soyons loti(e)s
+que vous soyez loti(e)s
+qu’ils (elles) soient loti(e)s
+
+** Imparfait
+
+que je fusse loti(e)
+que tu fusses loti(e)
+qu’il (elle) fût loti(e)
+que nous fussions loti(e)s
+que vous fussiez loti(e)s
+qu’ils (elles) fussent loti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons loti(e)s
+soyez loti(e)s
+
+* INFINITIF
+
+** Présent
+
+être loti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant loti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été loti(e)
+tu as été loti(e)
+il (elle) a été loti(e)
+nous avons été loti(e)s
+vous avez été loti(e)s
+ils (elles) ont été loti(e)s
+
+** Plus-que-parfait
+
+j'avais été loti(e)
+il (elle) avait été loti(e)
+nous avions été loti(e)s
+ils (elles) avaient été loti(e)s
+
+** Passé antérieur
+
+j'eus été loti(e)
+tu eus été loti(e)
+il (elle) eut été loti(e)
+nous eûmes été loti(e)s
+vous eûtes été loti(e)s
+ils (elles) eurent été loti(e)s
+
+** Futur antérieur
+
+j'aurai été loti(e)
+tu auras été loti(e)
+il (elle) aura été loti(e)
+nous aurons été loti(e)s
+vous aurez été loti(e)s
+ils (elles) auront été loti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été loti(e)
+j'aurais été loti(e)
+il (elle) aurait été loti(e)
+nous aurions été loti(e)s
+vous auriez été loti(e)s
+ils (elles) auraient été loti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été loti(e)
+que tu aies été loti(e)
+qu’il (elle) ait été loti(e)
+que nous ayons été loti(e)s
+que vous ayez été loti(e)s
+qu’ils (elles) aient été loti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été loti(e)
+que tu eusses été loti(e)
+qu’il (elle) eût été loti(e)
+que nous eussions été loti(e)s
+que vous eussiez été loti(e)s
+qu’ils (elles) eussent été loti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été loti(e)
+ayons été loti(e)s
+ayez été loti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été loti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été loti(e)(s)

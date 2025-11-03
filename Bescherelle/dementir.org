@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe dementir
+
+* INDICATIF
+
+** Présent
+
+je démens
+tu démens
+il (elle) dément
+nous démentons
+vous démentez
+ils (elles) démentent
+
+** Imparfait
+
+je démentais
+tu démentais
+il (elle) démentait
+nous démentions
+vous démentiez
+ils (elles) démentaient
+
+** Passé simple
+
+je démentis
+tu démentis
+il (elle) démentit
+nous démentîmes
+vous démentîtes
+ils (elles) démentirent
+
+** Futur simple
+
+je démentirai
+tu démentiras
+il (elle) démentira
+nous démentirons
+vous démentirez
+ils (elles) démentiront
+
+* CONDITIONNEL
+
+** Présent
+
+je démentirais
+tu démentirais
+il (elle) démentirait
+nous démentirions
+vous démentiriez
+ils (elles) démentiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je démente
+que tu démentes
+qu’il (elle) démente
+que nous démentions
+que vous démentiez
+qu’ils (elles) démentent
+
+** Imparfait
+
+que je démentisse
+que tu démentisses
+qu’il (elle) démentît
+que nous démentissions
+que vous démentissiez
+qu’ils (elles) démentissent
+
+* IMPÉRATIF
+
+** Présent
+
+démens
+démentons
+démentez
+
+* INFINITIF
+
+** Présent
+
+démentir
+
+* PARTICIPE
+
+** Présent
+
+démentant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai démenti
+tu as démenti
+il (elle) a démenti
+nous avons démenti
+vous avez démenti
+ils (elles) ont démenti
+
+** Plus-que-parfait
+
+j'avais démenti
+tu avais démenti
+il (elle) avait démenti
+nous avions démenti
+vous aviez démenti
+ils (elles) avaient démenti
+
+** Passé antérieur
+
+j'eus démenti
+tu eus démenti
+il (elle) eut démenti
+nous eûmes démenti
+vous eûtes démenti
+ils (elles) eurent démenti
+
+** Futur antérieur
+
+j'aurai démenti
+tu auras démenti
+il (elle) aura démenti
+nous aurons démenti
+vous aurez démenti
+ils (elles) auront démenti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais démenti
+tu aurais démenti
+il (elle) aurait démenti
+nous aurions démenti
+vous auriez démenti
+ils (elles) auraient démenti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie démenti
+que tu aies démenti
+qu’il (elle) ait démenti
+que nous ayons démenti
+que vous ayez démenti
+qu’ils (elles) aient démenti
+
+** Plus-que-parfait
+
+que j'eusse démenti
+que tu eusses démenti
+qu’il (elle) eût démenti
+que nous eussions démenti
+que vous eussiez démenti
+qu’ils (elles) eussent démenti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons démenti
+ayez démenti
+
+* INFINITIF
+
+** Passé
+
+avoir démenti
+
+* PARTICIPE
+
+** Passé
+
+ayant démenti
+démenti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis démenti(e)
+tu es démenti(e)
+il (elle) est démenti(e)
+nous sommes démenti(e)s
+vous êtes démenti(e)s
+ils (elles) sont démenti(e)s
+
+** Imparfait
+
+j'étais démenti(e)
+tu étais démenti(e)
+il (elle) était démenti(e)
+nous étions démenti(e)s
+vous étiez démenti(e)s
+ils (elles) étaient démenti(e)s
+
+** Passé simple
+
+je fus démenti(e)
+tu fus démenti(e)
+il (elle) fut démenti(e)
+nous fûmes démenti(e)s
+vous fûtes démenti(e)s
+ils (elles) furent démenti(e)s
+
+** Futur simple
+
+je serai démenti(e)
+tu seras démenti(e)
+il (elle) sera démenti(e)
+nous serons démenti(e)s
+vous serez démenti(e)s
+ils (elles) seront démenti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais démenti(e)
+tu serais démenti(e)
+il (elle) serait démenti(e)
+nous serions démenti(e)s
+vous seriez démenti(e)s
+ils (elles) seraient démenti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois démenti(e)
+que tu sois démenti(e)
+qu’il (elle) soit démenti(e)
+que nous soyons démenti(e)s
+que vous soyez démenti(e)s
+qu’ils (elles) soient démenti(e)s
+
+** Imparfait
+
+que je fusse démenti(e)
+que tu fusses démenti(e)
+qu’il (elle) fût démenti(e)
+que nous fussions démenti(e)s
+que vous fussiez démenti(e)s
+qu’ils (elles) fussent démenti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons démenti(e)s
+soyez démenti(e)s
+
+* INFINITIF
+
+** Présent
+
+être démenti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant démenti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été démenti(e)
+tu as été démenti(e)
+il (elle) a été démenti(e)
+nous avons été démenti(e)s
+vous avez été démenti(e)s
+ils (elles) ont été démenti(e)s
+
+** Plus-que-parfait
+
+j'avais été démenti(e)
+il (elle) avait été démenti(e)
+nous avions été démenti(e)s
+ils (elles) avaient été démenti(e)s
+
+** Passé antérieur
+
+j'eus été démenti(e)
+tu eus été démenti(e)
+il (elle) eut été démenti(e)
+nous eûmes été démenti(e)s
+vous eûtes été démenti(e)s
+ils (elles) eurent été démenti(e)s
+
+** Futur antérieur
+
+j'aurai été démenti(e)
+tu auras été démenti(e)
+il (elle) aura été démenti(e)
+nous aurons été démenti(e)s
+vous aurez été démenti(e)s
+ils (elles) auront été démenti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été démenti(e)
+j'aurais été démenti(e)
+il (elle) aurait été démenti(e)
+nous aurions été démenti(e)s
+vous auriez été démenti(e)s
+ils (elles) auraient été démenti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été démenti(e)
+que tu aies été démenti(e)
+qu’il (elle) ait été démenti(e)
+que nous ayons été démenti(e)s
+que vous ayez été démenti(e)s
+qu’ils (elles) aient été démenti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été démenti(e)
+que tu eusses été démenti(e)
+qu’il (elle) eût été démenti(e)
+que nous eussions été démenti(e)s
+que vous eussiez été démenti(e)s
+qu’ils (elles) eussent été démenti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été démenti(e)
+ayons été démenti(e)s
+ayez été démenti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été démenti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été démenti(e)(s)

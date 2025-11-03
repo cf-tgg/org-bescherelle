@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe aligner
+
+* INDICATIF
+
+** Présent
+
+j'aligne
+tu alignes
+il (elle) aligne
+nous alignons
+vous alignez
+ils (elles) alignent
+
+** Imparfait
+
+j'alignais
+tu alignais
+il (elle) alignait
+nous alignions
+vous aligniez
+ils (elles) alignaient
+
+** Passé simple
+
+j'alignai
+tu alignas
+il (elle) aligna
+nous alignâmes
+vous alignâtes
+ils (elles) alignèrent
+
+** Futur simple
+
+j'alignerai
+tu aligneras
+il (elle) alignera
+nous alignerons
+vous alignerez
+ils (elles) aligneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'alignerais
+tu alignerais
+il (elle) alignerait
+nous alignerions
+vous aligneriez
+ils (elles) aligneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'aligne
+que tu alignes
+qu’il (elle) aligne
+que nous alignions
+que vous aligniez
+qu’ils (elles) alignent
+
+** Imparfait
+
+que j'alignasse
+que tu alignasses
+qu’il (elle) alignât
+que nous alignassions
+que vous alignassiez
+qu’ils (elles) alignassent
+
+* IMPÉRATIF
+
+** Présent
+
+aligne
+alignons
+alignez
+
+* INFINITIF
+
+** Présent
+
+aligner
+
+* PARTICIPE
+
+** Présent
+
+alignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai aligné
+tu as aligné
+il (elle) a aligné
+nous avons aligné
+vous avez aligné
+ils (elles) ont aligné
+
+** Plus-que-parfait
+
+j'avais aligné
+tu avais aligné
+il (elle) avait aligné
+nous avions aligné
+vous aviez aligné
+ils (elles) avaient aligné
+
+** Passé antérieur
+
+j'eus aligné
+tu eus aligné
+il (elle) eut aligné
+nous eûmes aligné
+vous eûtes aligné
+ils (elles) eurent aligné
+
+** Futur antérieur
+
+j'aurai aligné
+tu auras aligné
+il (elle) aura aligné
+nous aurons aligné
+vous aurez aligné
+ils (elles) auront aligné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais aligné
+tu aurais aligné
+il (elle) aurait aligné
+nous aurions aligné
+vous auriez aligné
+ils (elles) auraient aligné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie aligné
+que tu aies aligné
+qu’il (elle) ait aligné
+que nous ayons aligné
+que vous ayez aligné
+qu’ils (elles) aient aligné
+
+** Plus-que-parfait
+
+que j'eusse aligné
+que tu eusses aligné
+qu’il (elle) eût aligné
+que nous eussions aligné
+que vous eussiez aligné
+qu’ils (elles) eussent aligné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons aligné
+ayez aligné
+
+* INFINITIF
+
+** Passé
+
+avoir aligné
+
+* PARTICIPE
+
+** Passé
+
+ayant aligné
+aligné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis aligné(e)
+tu es aligné(e)
+il (elle) est aligné(e)
+nous sommes aligné(e)s
+vous êtes aligné(e)s
+ils (elles) sont aligné(e)s
+
+** Imparfait
+
+j'étais aligné(e)
+tu étais aligné(e)
+il (elle) était aligné(e)
+nous étions aligné(e)s
+vous étiez aligné(e)s
+ils (elles) étaient aligné(e)s
+
+** Passé simple
+
+je fus aligné(e)
+tu fus aligné(e)
+il (elle) fut aligné(e)
+nous fûmes aligné(e)s
+vous fûtes aligné(e)s
+ils (elles) furent aligné(e)s
+
+** Futur simple
+
+je serai aligné(e)
+tu seras aligné(e)
+il (elle) sera aligné(e)
+nous serons aligné(e)s
+vous serez aligné(e)s
+ils (elles) seront aligné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais aligné(e)
+tu serais aligné(e)
+il (elle) serait aligné(e)
+nous serions aligné(e)s
+vous seriez aligné(e)s
+ils (elles) seraient aligné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois aligné(e)
+que tu sois aligné(e)
+qu’il (elle) soit aligné(e)
+que nous soyons aligné(e)s
+que vous soyez aligné(e)s
+qu’ils (elles) soient aligné(e)s
+
+** Imparfait
+
+que je fusse aligné(e)
+que tu fusses aligné(e)
+qu’il (elle) fût aligné(e)
+que nous fussions aligné(e)s
+que vous fussiez aligné(e)s
+qu’ils (elles) fussent aligné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons aligné(e)s
+soyez aligné(e)s
+
+* INFINITIF
+
+** Présent
+
+être aligné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant aligné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été aligné(e)
+tu as été aligné(e)
+il (elle) a été aligné(e)
+nous avons été aligné(e)s
+vous avez été aligné(e)s
+ils (elles) ont été aligné(e)s
+
+** Plus-que-parfait
+
+j'avais été aligné(e)
+il (elle) avait été aligné(e)
+nous avions été aligné(e)s
+ils (elles) avaient été aligné(e)s
+
+** Passé antérieur
+
+j'eus été aligné(e)
+tu eus été aligné(e)
+il (elle) eut été aligné(e)
+nous eûmes été aligné(e)s
+vous eûtes été aligné(e)s
+ils (elles) eurent été aligné(e)s
+
+** Futur antérieur
+
+j'aurai été aligné(e)
+tu auras été aligné(e)
+il (elle) aura été aligné(e)
+nous aurons été aligné(e)s
+vous aurez été aligné(e)s
+ils (elles) auront été aligné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été aligné(e)
+j'aurais été aligné(e)
+il (elle) aurait été aligné(e)
+nous aurions été aligné(e)s
+vous auriez été aligné(e)s
+ils (elles) auraient été aligné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été aligné(e)
+que tu aies été aligné(e)
+qu’il (elle) ait été aligné(e)
+que nous ayons été aligné(e)s
+que vous ayez été aligné(e)s
+qu’ils (elles) aient été aligné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été aligné(e)
+que tu eusses été aligné(e)
+qu’il (elle) eût été aligné(e)
+que nous eussions été aligné(e)s
+que vous eussiez été aligné(e)s
+qu’ils (elles) eussent été aligné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été aligné(e)
+ayons été aligné(e)s
+ayez été aligné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été aligné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été aligné(e)(s)

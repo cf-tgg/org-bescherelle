@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe utiliser
+
+* INDICATIF
+
+** Présent
+
+j'utilise
+tu utilises
+il (elle) utilise
+nous utilisons
+vous utilisez
+ils (elles) utilisent
+
+** Imparfait
+
+j'utilisais
+tu utilisais
+il (elle) utilisait
+nous utilisions
+vous utilisiez
+ils (elles) utilisaient
+
+** Passé simple
+
+j'utilisai
+tu utilisas
+il (elle) utilisa
+nous utilisâmes
+vous utilisâtes
+ils (elles) utilisèrent
+
+** Futur simple
+
+j'utiliserai
+tu utiliseras
+il (elle) utilisera
+nous utiliserons
+vous utiliserez
+ils (elles) utiliseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'utiliserais
+tu utiliserais
+il (elle) utiliserait
+nous utiliserions
+vous utiliseriez
+ils (elles) utiliseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'utilise
+que tu utilises
+qu’il (elle) utilise
+que nous utilisions
+que vous utilisiez
+qu’ils (elles) utilisent
+
+** Imparfait
+
+que j'utilisasse
+que tu utilisasses
+qu’il (elle) utilisât
+que nous utilisassions
+que vous utilisassiez
+qu’ils (elles) utilisassent
+
+* IMPÉRATIF
+
+** Présent
+
+utilise
+utilisons
+utilisez
+
+* INFINITIF
+
+** Présent
+
+utiliser
+
+* PARTICIPE
+
+** Présent
+
+utilisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai utilisé
+tu as utilisé
+il (elle) a utilisé
+nous avons utilisé
+vous avez utilisé
+ils (elles) ont utilisé
+
+** Plus-que-parfait
+
+j'avais utilisé
+tu avais utilisé
+il (elle) avait utilisé
+nous avions utilisé
+vous aviez utilisé
+ils (elles) avaient utilisé
+
+** Passé antérieur
+
+j'eus utilisé
+tu eus utilisé
+il (elle) eut utilisé
+nous eûmes utilisé
+vous eûtes utilisé
+ils (elles) eurent utilisé
+
+** Futur antérieur
+
+j'aurai utilisé
+tu auras utilisé
+il (elle) aura utilisé
+nous aurons utilisé
+vous aurez utilisé
+ils (elles) auront utilisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais utilisé
+tu aurais utilisé
+il (elle) aurait utilisé
+nous aurions utilisé
+vous auriez utilisé
+ils (elles) auraient utilisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie utilisé
+que tu aies utilisé
+qu’il (elle) ait utilisé
+que nous ayons utilisé
+que vous ayez utilisé
+qu’ils (elles) aient utilisé
+
+** Plus-que-parfait
+
+que j'eusse utilisé
+que tu eusses utilisé
+qu’il (elle) eût utilisé
+que nous eussions utilisé
+que vous eussiez utilisé
+qu’ils (elles) eussent utilisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons utilisé
+ayez utilisé
+
+* INFINITIF
+
+** Passé
+
+avoir utilisé
+
+* PARTICIPE
+
+** Passé
+
+ayant utilisé
+utilisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis utilisé(e)
+tu es utilisé(e)
+il (elle) est utilisé(e)
+nous sommes utilisé(e)s
+vous êtes utilisé(e)s
+ils (elles) sont utilisé(e)s
+
+** Imparfait
+
+j'étais utilisé(e)
+tu étais utilisé(e)
+il (elle) était utilisé(e)
+nous étions utilisé(e)s
+vous étiez utilisé(e)s
+ils (elles) étaient utilisé(e)s
+
+** Passé simple
+
+je fus utilisé(e)
+tu fus utilisé(e)
+il (elle) fut utilisé(e)
+nous fûmes utilisé(e)s
+vous fûtes utilisé(e)s
+ils (elles) furent utilisé(e)s
+
+** Futur simple
+
+je serai utilisé(e)
+tu seras utilisé(e)
+il (elle) sera utilisé(e)
+nous serons utilisé(e)s
+vous serez utilisé(e)s
+ils (elles) seront utilisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais utilisé(e)
+tu serais utilisé(e)
+il (elle) serait utilisé(e)
+nous serions utilisé(e)s
+vous seriez utilisé(e)s
+ils (elles) seraient utilisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois utilisé(e)
+que tu sois utilisé(e)
+qu’il (elle) soit utilisé(e)
+que nous soyons utilisé(e)s
+que vous soyez utilisé(e)s
+qu’ils (elles) soient utilisé(e)s
+
+** Imparfait
+
+que je fusse utilisé(e)
+que tu fusses utilisé(e)
+qu’il (elle) fût utilisé(e)
+que nous fussions utilisé(e)s
+que vous fussiez utilisé(e)s
+qu’ils (elles) fussent utilisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons utilisé(e)s
+soyez utilisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être utilisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant utilisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été utilisé(e)
+tu as été utilisé(e)
+il (elle) a été utilisé(e)
+nous avons été utilisé(e)s
+vous avez été utilisé(e)s
+ils (elles) ont été utilisé(e)s
+
+** Plus-que-parfait
+
+j'avais été utilisé(e)
+il (elle) avait été utilisé(e)
+nous avions été utilisé(e)s
+ils (elles) avaient été utilisé(e)s
+
+** Passé antérieur
+
+j'eus été utilisé(e)
+tu eus été utilisé(e)
+il (elle) eut été utilisé(e)
+nous eûmes été utilisé(e)s
+vous eûtes été utilisé(e)s
+ils (elles) eurent été utilisé(e)s
+
+** Futur antérieur
+
+j'aurai été utilisé(e)
+tu auras été utilisé(e)
+il (elle) aura été utilisé(e)
+nous aurons été utilisé(e)s
+vous aurez été utilisé(e)s
+ils (elles) auront été utilisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été utilisé(e)
+j'aurais été utilisé(e)
+il (elle) aurait été utilisé(e)
+nous aurions été utilisé(e)s
+vous auriez été utilisé(e)s
+ils (elles) auraient été utilisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été utilisé(e)
+que tu aies été utilisé(e)
+qu’il (elle) ait été utilisé(e)
+que nous ayons été utilisé(e)s
+que vous ayez été utilisé(e)s
+qu’ils (elles) aient été utilisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été utilisé(e)
+que tu eusses été utilisé(e)
+qu’il (elle) eût été utilisé(e)
+que nous eussions été utilisé(e)s
+que vous eussiez été utilisé(e)s
+qu’ils (elles) eussent été utilisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été utilisé(e)
+ayons été utilisé(e)s
+ayez été utilisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été utilisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été utilisé(e)(s)

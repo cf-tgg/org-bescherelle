@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mollir
+
+* INDICATIF
+
+** Présent
+
+je mollis
+tu mollis
+il (elle) mollit
+nous mollissons
+vous mollissez
+ils (elles) mollissent
+
+** Imparfait
+
+je mollissais
+tu mollissais
+il (elle) mollissait
+nous mollissions
+vous mollissiez
+ils (elles) mollissaient
+
+** Passé simple
+
+je mollis
+tu mollis
+il (elle) mollit
+nous mollîmes
+vous mollîtes
+ils (elles) mollirent
+
+** Futur simple
+
+je mollirai
+tu molliras
+il (elle) mollira
+nous mollirons
+vous mollirez
+ils (elles) molliront
+
+* CONDITIONNEL
+
+** Présent
+
+je mollirais
+tu mollirais
+il (elle) mollirait
+nous mollirions
+vous molliriez
+ils (elles) molliraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mollisse
+que tu mollisses
+qu’il (elle) mollisse
+que nous mollissions
+que vous mollissiez
+qu’ils (elles) mollissent
+
+** Imparfait
+
+que je mollisse
+que tu mollisses
+qu’il (elle) mollît
+que nous mollissions
+que vous mollissiez
+qu’ils (elles) mollissent
+
+* IMPÉRATIF
+
+** Présent
+
+mollis
+mollissons
+mollissez
+
+* INFINITIF
+
+** Présent
+
+mollir
+
+* PARTICIPE
+
+** Présent
+
+mollissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai molli
+tu as molli
+il (elle) a molli
+nous avons molli
+vous avez molli
+ils (elles) ont molli
+
+** Plus-que-parfait
+
+j'avais molli
+tu avais molli
+il (elle) avait molli
+nous avions molli
+vous aviez molli
+ils (elles) avaient molli
+
+** Passé antérieur
+
+j'eus molli
+tu eus molli
+il (elle) eut molli
+nous eûmes molli
+vous eûtes molli
+ils (elles) eurent molli
+
+** Futur antérieur
+
+j'aurai molli
+tu auras molli
+il (elle) aura molli
+nous aurons molli
+vous aurez molli
+ils (elles) auront molli
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais molli
+tu aurais molli
+il (elle) aurait molli
+nous aurions molli
+vous auriez molli
+ils (elles) auraient molli
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie molli
+que tu aies molli
+qu’il (elle) ait molli
+que nous ayons molli
+que vous ayez molli
+qu’ils (elles) aient molli
+
+** Plus-que-parfait
+
+que j'eusse molli
+que tu eusses molli
+qu’il (elle) eût molli
+que nous eussions molli
+que vous eussiez molli
+qu’ils (elles) eussent molli
+
+* IMPÉRATIF
+
+** Passé
+
+ayons molli
+ayez molli
+
+* INFINITIF
+
+** Passé
+
+avoir molli
+
+* PARTICIPE
+
+** Passé
+
+ayant molli
+molli (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis molli(e)
+tu es molli(e)
+il (elle) est molli(e)
+nous sommes molli(e)s
+vous êtes molli(e)s
+ils (elles) sont molli(e)s
+
+** Imparfait
+
+j'étais molli(e)
+tu étais molli(e)
+il (elle) était molli(e)
+nous étions molli(e)s
+vous étiez molli(e)s
+ils (elles) étaient molli(e)s
+
+** Passé simple
+
+je fus molli(e)
+tu fus molli(e)
+il (elle) fut molli(e)
+nous fûmes molli(e)s
+vous fûtes molli(e)s
+ils (elles) furent molli(e)s
+
+** Futur simple
+
+je serai molli(e)
+tu seras molli(e)
+il (elle) sera molli(e)
+nous serons molli(e)s
+vous serez molli(e)s
+ils (elles) seront molli(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais molli(e)
+tu serais molli(e)
+il (elle) serait molli(e)
+nous serions molli(e)s
+vous seriez molli(e)s
+ils (elles) seraient molli(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois molli(e)
+que tu sois molli(e)
+qu’il (elle) soit molli(e)
+que nous soyons molli(e)s
+que vous soyez molli(e)s
+qu’ils (elles) soient molli(e)s
+
+** Imparfait
+
+que je fusse molli(e)
+que tu fusses molli(e)
+qu’il (elle) fût molli(e)
+que nous fussions molli(e)s
+que vous fussiez molli(e)s
+qu’ils (elles) fussent molli(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons molli(e)s
+soyez molli(e)s
+
+* INFINITIF
+
+** Présent
+
+être molli(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant molli(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été molli(e)
+tu as été molli(e)
+il (elle) a été molli(e)
+nous avons été molli(e)s
+vous avez été molli(e)s
+ils (elles) ont été molli(e)s
+
+** Plus-que-parfait
+
+j'avais été molli(e)
+il (elle) avait été molli(e)
+nous avions été molli(e)s
+ils (elles) avaient été molli(e)s
+
+** Passé antérieur
+
+j'eus été molli(e)
+tu eus été molli(e)
+il (elle) eut été molli(e)
+nous eûmes été molli(e)s
+vous eûtes été molli(e)s
+ils (elles) eurent été molli(e)s
+
+** Futur antérieur
+
+j'aurai été molli(e)
+tu auras été molli(e)
+il (elle) aura été molli(e)
+nous aurons été molli(e)s
+vous aurez été molli(e)s
+ils (elles) auront été molli(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été molli(e)
+j'aurais été molli(e)
+il (elle) aurait été molli(e)
+nous aurions été molli(e)s
+vous auriez été molli(e)s
+ils (elles) auraient été molli(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été molli(e)
+que tu aies été molli(e)
+qu’il (elle) ait été molli(e)
+que nous ayons été molli(e)s
+que vous ayez été molli(e)s
+qu’ils (elles) aient été molli(e)s
+
+** Plus-que-parfait
+
+que j'eusse été molli(e)
+que tu eusses été molli(e)
+qu’il (elle) eût été molli(e)
+que nous eussions été molli(e)s
+que vous eussiez été molli(e)s
+qu’ils (elles) eussent été molli(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été molli(e)
+ayons été molli(e)s
+ayez été molli(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été molli(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été molli(e)(s)

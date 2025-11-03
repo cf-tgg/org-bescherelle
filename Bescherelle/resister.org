@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe resister
+
+* INDICATIF
+
+** Présent
+
+je résiste
+tu résistes
+il (elle) résiste
+nous résistons
+vous résistez
+ils (elles) résistent
+
+** Imparfait
+
+je résistais
+tu résistais
+il (elle) résistait
+nous résistions
+vous résistiez
+ils (elles) résistaient
+
+** Passé simple
+
+je résistai
+tu résistas
+il (elle) résista
+nous résistâmes
+vous résistâtes
+ils (elles) résistèrent
+
+** Futur simple
+
+je résisterai
+tu résisteras
+il (elle) résistera
+nous résisterons
+vous résisterez
+ils (elles) résisteront
+
+* CONDITIONNEL
+
+** Présent
+
+je résisterais
+tu résisterais
+il (elle) résisterait
+nous résisterions
+vous résisteriez
+ils (elles) résisteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je résiste
+que tu résistes
+qu’il (elle) résiste
+que nous résistions
+que vous résistiez
+qu’ils (elles) résistent
+
+** Imparfait
+
+que je résistasse
+que tu résistasses
+qu’il (elle) résistât
+que nous résistassions
+que vous résistassiez
+qu’ils (elles) résistassent
+
+* IMPÉRATIF
+
+** Présent
+
+résiste
+résistons
+résistez
+
+* INFINITIF
+
+** Présent
+
+résister
+
+* PARTICIPE
+
+** Présent
+
+résistant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai résisté
+tu as résisté
+il (elle) a résisté
+nous avons résisté
+vous avez résisté
+ils (elles) ont résisté
+
+** Plus-que-parfait
+
+j'avais résisté
+tu avais résisté
+il (elle) avait résisté
+nous avions résisté
+vous aviez résisté
+ils (elles) avaient résisté
+
+** Passé antérieur
+
+j'eus résisté
+tu eus résisté
+il (elle) eut résisté
+nous eûmes résisté
+vous eûtes résisté
+ils (elles) eurent résisté
+
+** Futur antérieur
+
+j'aurai résisté
+tu auras résisté
+il (elle) aura résisté
+nous aurons résisté
+vous aurez résisté
+ils (elles) auront résisté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais résisté
+tu aurais résisté
+il (elle) aurait résisté
+nous aurions résisté
+vous auriez résisté
+ils (elles) auraient résisté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie résisté
+que tu aies résisté
+qu’il (elle) ait résisté
+que nous ayons résisté
+que vous ayez résisté
+qu’ils (elles) aient résisté
+
+** Plus-que-parfait
+
+que j'eusse résisté
+que tu eusses résisté
+qu’il (elle) eût résisté
+que nous eussions résisté
+que vous eussiez résisté
+qu’ils (elles) eussent résisté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons résisté
+ayez résisté
+
+* INFINITIF
+
+** Passé
+
+avoir résisté
+
+* PARTICIPE
+
+** Passé
+
+ayant résisté
+résisté (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe jeuner
+
+* INDICATIF
+
+** Présent
+
+je jeûne
+tu jeûnes
+il (elle) jeûne
+nous jeûnons
+vous jeûnez
+ils (elles) jeûnent
+
+** Imparfait
+
+je jeûnais
+tu jeûnais
+il (elle) jeûnait
+nous jeûnions
+vous jeûniez
+ils (elles) jeûnaient
+
+** Passé simple
+
+je jeûnai
+tu jeûnas
+il (elle) jeûna
+nous jeûnâmes
+vous jeûnâtes
+ils (elles) jeûnèrent
+
+** Futur simple
+
+je jeûnerai
+tu jeûneras
+il (elle) jeûnera
+nous jeûnerons
+vous jeûnerez
+ils (elles) jeûneront
+
+* CONDITIONNEL
+
+** Présent
+
+je jeûnerais
+tu jeûnerais
+il (elle) jeûnerait
+nous jeûnerions
+vous jeûneriez
+ils (elles) jeûneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je jeûne
+que tu jeûnes
+qu’il (elle) jeûne
+que nous jeûnions
+que vous jeûniez
+qu’ils (elles) jeûnent
+
+** Imparfait
+
+que je jeûnasse
+que tu jeûnasses
+qu’il (elle) jeûnât
+que nous jeûnassions
+que vous jeûnassiez
+qu’ils (elles) jeûnassent
+
+* IMPÉRATIF
+
+** Présent
+
+jeûne
+jeûnons
+jeûnez
+
+* INFINITIF
+
+** Présent
+
+jeûner
+
+* PARTICIPE
+
+** Présent
+
+jeûnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jeûné
+tu as jeûné
+il (elle) a jeûné
+nous avons jeûné
+vous avez jeûné
+ils (elles) ont jeûné
+
+** Plus-que-parfait
+
+j'avais jeûné
+tu avais jeûné
+il (elle) avait jeûné
+nous avions jeûné
+vous aviez jeûné
+ils (elles) avaient jeûné
+
+** Passé antérieur
+
+j'eus jeûné
+tu eus jeûné
+il (elle) eut jeûné
+nous eûmes jeûné
+vous eûtes jeûné
+ils (elles) eurent jeûné
+
+** Futur antérieur
+
+j'aurai jeûné
+tu auras jeûné
+il (elle) aura jeûné
+nous aurons jeûné
+vous aurez jeûné
+ils (elles) auront jeûné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jeûné
+tu aurais jeûné
+il (elle) aurait jeûné
+nous aurions jeûné
+vous auriez jeûné
+ils (elles) auraient jeûné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jeûné
+que tu aies jeûné
+qu’il (elle) ait jeûné
+que nous ayons jeûné
+que vous ayez jeûné
+qu’ils (elles) aient jeûné
+
+** Plus-que-parfait
+
+que j'eusse jeûné
+que tu eusses jeûné
+qu’il (elle) eût jeûné
+que nous eussions jeûné
+que vous eussiez jeûné
+qu’ils (elles) eussent jeûné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jeûné
+ayez jeûné
+
+* INFINITIF
+
+** Passé
+
+avoir jeûné
+
+* PARTICIPE
+
+** Passé
+
+ayant jeûné
+jeûné (invar.)

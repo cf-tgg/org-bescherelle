@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe communiquer
+
+* INDICATIF
+
+** Présent
+
+je communique
+tu communiques
+il (elle) communique
+nous communiquons
+vous communiquez
+ils (elles) communiquent
+
+** Imparfait
+
+je communiquais
+tu communiquais
+il (elle) communiquait
+nous communiquions
+vous communiquiez
+ils (elles) communiquaient
+
+** Passé simple
+
+je communiquai
+tu communiquas
+il (elle) communiqua
+nous communiquâmes
+vous communiquâtes
+ils (elles) communiquèrent
+
+** Futur simple
+
+je communiquerai
+tu communiqueras
+il (elle) communiquera
+nous communiquerons
+vous communiquerez
+ils (elles) communiqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je communiquerais
+tu communiquerais
+il (elle) communiquerait
+nous communiquerions
+vous communiqueriez
+ils (elles) communiqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je communique
+que tu communiques
+qu’il (elle) communique
+que nous communiquions
+que vous communiquiez
+qu’ils (elles) communiquent
+
+** Imparfait
+
+que je communiquasse
+que tu communiquasses
+qu’il (elle) communiquât
+que nous communiquassions
+que vous communiquassiez
+qu’ils (elles) communiquassent
+
+* IMPÉRATIF
+
+** Présent
+
+communique
+communiquons
+communiquez
+
+* INFINITIF
+
+** Présent
+
+communiquer
+
+* PARTICIPE
+
+** Présent
+
+communiquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai communiqué
+tu as communiqué
+il (elle) a communiqué
+nous avons communiqué
+vous avez communiqué
+ils (elles) ont communiqué
+
+** Plus-que-parfait
+
+j'avais communiqué
+tu avais communiqué
+il (elle) avait communiqué
+nous avions communiqué
+vous aviez communiqué
+ils (elles) avaient communiqué
+
+** Passé antérieur
+
+j'eus communiqué
+tu eus communiqué
+il (elle) eut communiqué
+nous eûmes communiqué
+vous eûtes communiqué
+ils (elles) eurent communiqué
+
+** Futur antérieur
+
+j'aurai communiqué
+tu auras communiqué
+il (elle) aura communiqué
+nous aurons communiqué
+vous aurez communiqué
+ils (elles) auront communiqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais communiqué
+tu aurais communiqué
+il (elle) aurait communiqué
+nous aurions communiqué
+vous auriez communiqué
+ils (elles) auraient communiqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie communiqué
+que tu aies communiqué
+qu’il (elle) ait communiqué
+que nous ayons communiqué
+que vous ayez communiqué
+qu’ils (elles) aient communiqué
+
+** Plus-que-parfait
+
+que j'eusse communiqué
+que tu eusses communiqué
+qu’il (elle) eût communiqué
+que nous eussions communiqué
+que vous eussiez communiqué
+qu’ils (elles) eussent communiqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons communiqué
+ayez communiqué
+
+* INFINITIF
+
+** Passé
+
+avoir communiqué
+
+* PARTICIPE
+
+** Passé
+
+ayant communiqué
+communiqué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis communiqué(e)
+tu es communiqué(e)
+il (elle) est communiqué(e)
+nous sommes communiqué(e)s
+vous êtes communiqué(e)s
+ils (elles) sont communiqué(e)s
+
+** Imparfait
+
+j'étais communiqué(e)
+tu étais communiqué(e)
+il (elle) était communiqué(e)
+nous étions communiqué(e)s
+vous étiez communiqué(e)s
+ils (elles) étaient communiqué(e)s
+
+** Passé simple
+
+je fus communiqué(e)
+tu fus communiqué(e)
+il (elle) fut communiqué(e)
+nous fûmes communiqué(e)s
+vous fûtes communiqué(e)s
+ils (elles) furent communiqué(e)s
+
+** Futur simple
+
+je serai communiqué(e)
+tu seras communiqué(e)
+il (elle) sera communiqué(e)
+nous serons communiqué(e)s
+vous serez communiqué(e)s
+ils (elles) seront communiqué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais communiqué(e)
+tu serais communiqué(e)
+il (elle) serait communiqué(e)
+nous serions communiqué(e)s
+vous seriez communiqué(e)s
+ils (elles) seraient communiqué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois communiqué(e)
+que tu sois communiqué(e)
+qu’il (elle) soit communiqué(e)
+que nous soyons communiqué(e)s
+que vous soyez communiqué(e)s
+qu’ils (elles) soient communiqué(e)s
+
+** Imparfait
+
+que je fusse communiqué(e)
+que tu fusses communiqué(e)
+qu’il (elle) fût communiqué(e)
+que nous fussions communiqué(e)s
+que vous fussiez communiqué(e)s
+qu’ils (elles) fussent communiqué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons communiqué(e)s
+soyez communiqué(e)s
+
+* INFINITIF
+
+** Présent
+
+être communiqué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant communiqué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été communiqué(e)
+tu as été communiqué(e)
+il (elle) a été communiqué(e)
+nous avons été communiqué(e)s
+vous avez été communiqué(e)s
+ils (elles) ont été communiqué(e)s
+
+** Plus-que-parfait
+
+j'avais été communiqué(e)
+il (elle) avait été communiqué(e)
+nous avions été communiqué(e)s
+ils (elles) avaient été communiqué(e)s
+
+** Passé antérieur
+
+j'eus été communiqué(e)
+tu eus été communiqué(e)
+il (elle) eut été communiqué(e)
+nous eûmes été communiqué(e)s
+vous eûtes été communiqué(e)s
+ils (elles) eurent été communiqué(e)s
+
+** Futur antérieur
+
+j'aurai été communiqué(e)
+tu auras été communiqué(e)
+il (elle) aura été communiqué(e)
+nous aurons été communiqué(e)s
+vous aurez été communiqué(e)s
+ils (elles) auront été communiqué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été communiqué(e)
+j'aurais été communiqué(e)
+il (elle) aurait été communiqué(e)
+nous aurions été communiqué(e)s
+vous auriez été communiqué(e)s
+ils (elles) auraient été communiqué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été communiqué(e)
+que tu aies été communiqué(e)
+qu’il (elle) ait été communiqué(e)
+que nous ayons été communiqué(e)s
+que vous ayez été communiqué(e)s
+qu’ils (elles) aient été communiqué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été communiqué(e)
+que tu eusses été communiqué(e)
+qu’il (elle) eût été communiqué(e)
+que nous eussions été communiqué(e)s
+que vous eussiez été communiqué(e)s
+qu’ils (elles) eussent été communiqué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été communiqué(e)
+ayons été communiqué(e)s
+ayez été communiqué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été communiqué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été communiqué(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe regler
+
+* INDICATIF
+
+** Présent
+
+je règle
+tu règles
+il (elle) règle
+nous réglons
+vous réglez
+ils (elles) règlent
+
+** Imparfait
+
+je réglais
+tu réglais
+il (elle) réglait
+nous réglions
+vous régliez
+ils (elles) réglaient
+
+** Passé simple
+
+je réglai
+tu réglas
+il (elle) régla
+nous réglâmes
+vous réglâtes
+ils (elles) réglèrent
+
+** Futur simple
+
+je réglerai
+tu régleras
+il (elle) réglera
+nous réglerons
+vous réglerez
+ils (elles) régleront
+
+* CONDITIONNEL
+
+** Présent
+
+je réglerais
+tu réglerais
+il (elle) réglerait
+nous réglerions
+vous régleriez
+ils (elles) régleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je règle
+que tu règles
+qu’il (elle) règle
+que nous réglions
+que vous régliez
+qu’ils (elles) règlent
+
+** Imparfait
+
+que je réglasse
+que tu réglasses
+qu’il (elle) réglât
+que nous réglassions
+que vous réglassiez
+qu’ils (elles) réglassent
+
+* IMPÉRATIF
+
+** Présent
+
+règle
+réglons
+réglez
+
+* INFINITIF
+
+** Présent
+
+régler
+
+* PARTICIPE
+
+** Présent
+
+réglant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai réglé
+tu as réglé
+il (elle) a réglé
+nous avons réglé
+vous avez réglé
+ils (elles) ont réglé
+
+** Plus-que-parfait
+
+j'avais réglé
+tu avais réglé
+il (elle) avait réglé
+nous avions réglé
+vous aviez réglé
+ils (elles) avaient réglé
+
+** Passé antérieur
+
+j'eus réglé
+tu eus réglé
+il (elle) eut réglé
+nous eûmes réglé
+vous eûtes réglé
+ils (elles) eurent réglé
+
+** Futur antérieur
+
+j'aurai réglé
+tu auras réglé
+il (elle) aura réglé
+nous aurons réglé
+vous aurez réglé
+ils (elles) auront réglé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais réglé
+tu aurais réglé
+il (elle) aurait réglé
+nous aurions réglé
+vous auriez réglé
+ils (elles) auraient réglé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie réglé
+que tu aies réglé
+qu’il (elle) ait réglé
+que nous ayons réglé
+que vous ayez réglé
+qu’ils (elles) aient réglé
+
+** Plus-que-parfait
+
+que j'eusse réglé
+que tu eusses réglé
+qu’il (elle) eût réglé
+que nous eussions réglé
+que vous eussiez réglé
+qu’ils (elles) eussent réglé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons réglé
+ayez réglé
+
+* INFINITIF
+
+** Passé
+
+avoir réglé
+
+* PARTICIPE
+
+** Passé
+
+ayant réglé
+réglé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis réglé(e)
+tu es réglé(e)
+il (elle) est réglé(e)
+nous sommes réglé(e)s
+vous êtes réglé(e)s
+ils (elles) sont réglé(e)s
+
+** Imparfait
+
+j'étais réglé(e)
+tu étais réglé(e)
+il (elle) était réglé(e)
+nous étions réglé(e)s
+vous étiez réglé(e)s
+ils (elles) étaient réglé(e)s
+
+** Passé simple
+
+je fus réglé(e)
+tu fus réglé(e)
+il (elle) fut réglé(e)
+nous fûmes réglé(e)s
+vous fûtes réglé(e)s
+ils (elles) furent réglé(e)s
+
+** Futur simple
+
+je serai réglé(e)
+tu seras réglé(e)
+il (elle) sera réglé(e)
+nous serons réglé(e)s
+vous serez réglé(e)s
+ils (elles) seront réglé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais réglé(e)
+tu serais réglé(e)
+il (elle) serait réglé(e)
+nous serions réglé(e)s
+vous seriez réglé(e)s
+ils (elles) seraient réglé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois réglé(e)
+que tu sois réglé(e)
+qu’il (elle) soit réglé(e)
+que nous soyons réglé(e)s
+que vous soyez réglé(e)s
+qu’ils (elles) soient réglé(e)s
+
+** Imparfait
+
+que je fusse réglé(e)
+que tu fusses réglé(e)
+qu’il (elle) fût réglé(e)
+que nous fussions réglé(e)s
+que vous fussiez réglé(e)s
+qu’ils (elles) fussent réglé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons réglé(e)s
+soyez réglé(e)s
+
+* INFINITIF
+
+** Présent
+
+être réglé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant réglé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été réglé(e)
+tu as été réglé(e)
+il (elle) a été réglé(e)
+nous avons été réglé(e)s
+vous avez été réglé(e)s
+ils (elles) ont été réglé(e)s
+
+** Plus-que-parfait
+
+j'avais été réglé(e)
+il (elle) avait été réglé(e)
+nous avions été réglé(e)s
+ils (elles) avaient été réglé(e)s
+
+** Passé antérieur
+
+j'eus été réglé(e)
+tu eus été réglé(e)
+il (elle) eut été réglé(e)
+nous eûmes été réglé(e)s
+vous eûtes été réglé(e)s
+ils (elles) eurent été réglé(e)s
+
+** Futur antérieur
+
+j'aurai été réglé(e)
+tu auras été réglé(e)
+il (elle) aura été réglé(e)
+nous aurons été réglé(e)s
+vous aurez été réglé(e)s
+ils (elles) auront été réglé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été réglé(e)
+j'aurais été réglé(e)
+il (elle) aurait été réglé(e)
+nous aurions été réglé(e)s
+vous auriez été réglé(e)s
+ils (elles) auraient été réglé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été réglé(e)
+que tu aies été réglé(e)
+qu’il (elle) ait été réglé(e)
+que nous ayons été réglé(e)s
+que vous ayez été réglé(e)s
+qu’ils (elles) aient été réglé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été réglé(e)
+que tu eusses été réglé(e)
+qu’il (elle) eût été réglé(e)
+que nous eussions été réglé(e)s
+que vous eussiez été réglé(e)s
+qu’ils (elles) eussent été réglé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été réglé(e)
+ayons été réglé(e)s
+ayez été réglé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été réglé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été réglé(e)(s)

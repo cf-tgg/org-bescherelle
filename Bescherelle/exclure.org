@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe exclure
+
+* INDICATIF
+
+** Présent
+
+j'exclus
+tu exclus
+il (elle) exclut
+nous excluons
+vous excluez
+ils (elles) excluent
+
+** Imparfait
+
+j'excluais
+tu excluais
+il (elle) excluait
+nous excluions
+vous excluiez
+ils (elles) excluaient
+
+** Passé simple
+
+j'exclus
+tu exclus
+il (elle) exclut
+nous exclûmes
+vous exclûtes
+ils (elles) exclurent
+
+** Futur simple
+
+j'exclurai
+tu excluras
+il (elle) exclura
+nous exclurons
+vous exclurez
+ils (elles) excluront
+
+* CONDITIONNEL
+
+** Présent
+
+j'exclurais
+tu exclurais
+il (elle) exclurait
+nous exclurions
+vous excluriez
+ils (elles) excluraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'exclue
+que tu exclues
+qu’il (elle) exclue
+que nous excluions
+que vous excluiez
+qu’ils (elles) excluent
+
+** Imparfait
+
+que j'exclusse
+que tu exclusses
+qu’il (elle) exclût
+que nous exclussions
+que vous exclussiez
+qu’ils (elles) exclussent
+
+* IMPÉRATIF
+
+** Présent
+
+exclus
+excluons
+excluez
+
+* INFINITIF
+
+** Présent
+
+exclure
+
+* PARTICIPE
+
+** Présent
+
+excluant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai exclu
+tu as exclu
+il (elle) a exclu
+nous avons exclu
+vous avez exclu
+ils (elles) ont exclu
+
+** Plus-que-parfait
+
+j'avais exclu
+tu avais exclu
+il (elle) avait exclu
+nous avions exclu
+vous aviez exclu
+ils (elles) avaient exclu
+
+** Passé antérieur
+
+j'eus exclu
+tu eus exclu
+il (elle) eut exclu
+nous eûmes exclu
+vous eûtes exclu
+ils (elles) eurent exclu
+
+** Futur antérieur
+
+j'aurai exclu
+tu auras exclu
+il (elle) aura exclu
+nous aurons exclu
+vous aurez exclu
+ils (elles) auront exclu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais exclu
+tu aurais exclu
+il (elle) aurait exclu
+nous aurions exclu
+vous auriez exclu
+ils (elles) auraient exclu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie exclu
+que tu aies exclu
+qu’il (elle) ait exclu
+que nous ayons exclu
+que vous ayez exclu
+qu’ils (elles) aient exclu
+
+** Plus-que-parfait
+
+que j'eusse exclu
+que tu eusses exclu
+qu’il (elle) eût exclu
+que nous eussions exclu
+que vous eussiez exclu
+qu’ils (elles) eussent exclu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons exclu
+ayez exclu
+
+* INFINITIF
+
+** Passé
+
+avoir exclu
+
+* PARTICIPE
+
+** Passé
+
+ayant exclu
+exclu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis exclu(e)
+tu es exclu(e)
+il (elle) est exclu(e)
+nous sommes exclu(e)s
+vous êtes exclu(e)s
+ils (elles) sont exclu(e)s
+
+** Imparfait
+
+j'étais exclu(e)
+tu étais exclu(e)
+il (elle) était exclu(e)
+nous étions exclu(e)s
+vous étiez exclu(e)s
+ils (elles) étaient exclu(e)s
+
+** Passé simple
+
+je fus exclu(e)
+tu fus exclu(e)
+il (elle) fut exclu(e)
+nous fûmes exclu(e)s
+vous fûtes exclu(e)s
+ils (elles) furent exclu(e)s
+
+** Futur simple
+
+je serai exclu(e)
+tu seras exclu(e)
+il (elle) sera exclu(e)
+nous serons exclu(e)s
+vous serez exclu(e)s
+ils (elles) seront exclu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais exclu(e)
+tu serais exclu(e)
+il (elle) serait exclu(e)
+nous serions exclu(e)s
+vous seriez exclu(e)s
+ils (elles) seraient exclu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois exclu(e)
+que tu sois exclu(e)
+qu’il (elle) soit exclu(e)
+que nous soyons exclu(e)s
+que vous soyez exclu(e)s
+qu’ils (elles) soient exclu(e)s
+
+** Imparfait
+
+que je fusse exclu(e)
+que tu fusses exclu(e)
+qu’il (elle) fût exclu(e)
+que nous fussions exclu(e)s
+que vous fussiez exclu(e)s
+qu’ils (elles) fussent exclu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons exclu(e)s
+soyez exclu(e)s
+
+* INFINITIF
+
+** Présent
+
+être exclu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant exclu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été exclu(e)
+tu as été exclu(e)
+il (elle) a été exclu(e)
+nous avons été exclu(e)s
+vous avez été exclu(e)s
+ils (elles) ont été exclu(e)s
+
+** Plus-que-parfait
+
+j'avais été exclu(e)
+il (elle) avait été exclu(e)
+nous avions été exclu(e)s
+ils (elles) avaient été exclu(e)s
+
+** Passé antérieur
+
+j'eus été exclu(e)
+tu eus été exclu(e)
+il (elle) eut été exclu(e)
+nous eûmes été exclu(e)s
+vous eûtes été exclu(e)s
+ils (elles) eurent été exclu(e)s
+
+** Futur antérieur
+
+j'aurai été exclu(e)
+tu auras été exclu(e)
+il (elle) aura été exclu(e)
+nous aurons été exclu(e)s
+vous aurez été exclu(e)s
+ils (elles) auront été exclu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été exclu(e)
+j'aurais été exclu(e)
+il (elle) aurait été exclu(e)
+nous aurions été exclu(e)s
+vous auriez été exclu(e)s
+ils (elles) auraient été exclu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été exclu(e)
+que tu aies été exclu(e)
+qu’il (elle) ait été exclu(e)
+que nous ayons été exclu(e)s
+que vous ayez été exclu(e)s
+qu’ils (elles) aient été exclu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été exclu(e)
+que tu eusses été exclu(e)
+qu’il (elle) eût été exclu(e)
+que nous eussions été exclu(e)s
+que vous eussiez été exclu(e)s
+qu’ils (elles) eussent été exclu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été exclu(e)
+ayons été exclu(e)s
+ayez été exclu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été exclu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été exclu(e)(s)

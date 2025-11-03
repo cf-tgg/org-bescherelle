@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reporter
+
+* INDICATIF
+
+** Présent
+
+je reporte
+tu reportes
+il (elle) reporte
+nous reportons
+vous reportez
+ils (elles) reportent
+
+** Imparfait
+
+je reportais
+tu reportais
+il (elle) reportait
+nous reportions
+vous reportiez
+ils (elles) reportaient
+
+** Passé simple
+
+je reportai
+tu reportas
+il (elle) reporta
+nous reportâmes
+vous reportâtes
+ils (elles) reportèrent
+
+** Futur simple
+
+je reporterai
+tu reporteras
+il (elle) reportera
+nous reporterons
+vous reporterez
+ils (elles) reporteront
+
+* CONDITIONNEL
+
+** Présent
+
+je reporterais
+tu reporterais
+il (elle) reporterait
+nous reporterions
+vous reporteriez
+ils (elles) reporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reporte
+que tu reportes
+qu’il (elle) reporte
+que nous reportions
+que vous reportiez
+qu’ils (elles) reportent
+
+** Imparfait
+
+que je reportasse
+que tu reportasses
+qu’il (elle) reportât
+que nous reportassions
+que vous reportassiez
+qu’ils (elles) reportassent
+
+* IMPÉRATIF
+
+** Présent
+
+reporte
+reportons
+reportez
+
+* INFINITIF
+
+** Présent
+
+reporter
+
+* PARTICIPE
+
+** Présent
+
+reportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai reporté
+tu as reporté
+il (elle) a reporté
+nous avons reporté
+vous avez reporté
+ils (elles) ont reporté
+
+** Plus-que-parfait
+
+j'avais reporté
+tu avais reporté
+il (elle) avait reporté
+nous avions reporté
+vous aviez reporté
+ils (elles) avaient reporté
+
+** Passé antérieur
+
+j'eus reporté
+tu eus reporté
+il (elle) eut reporté
+nous eûmes reporté
+vous eûtes reporté
+ils (elles) eurent reporté
+
+** Futur antérieur
+
+j'aurai reporté
+tu auras reporté
+il (elle) aura reporté
+nous aurons reporté
+vous aurez reporté
+ils (elles) auront reporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais reporté
+tu aurais reporté
+il (elle) aurait reporté
+nous aurions reporté
+vous auriez reporté
+ils (elles) auraient reporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie reporté
+que tu aies reporté
+qu’il (elle) ait reporté
+que nous ayons reporté
+que vous ayez reporté
+qu’ils (elles) aient reporté
+
+** Plus-que-parfait
+
+que j'eusse reporté
+que tu eusses reporté
+qu’il (elle) eût reporté
+que nous eussions reporté
+que vous eussiez reporté
+qu’ils (elles) eussent reporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons reporté
+ayez reporté
+
+* INFINITIF
+
+** Passé
+
+avoir reporté
+
+* PARTICIPE
+
+** Passé
+
+ayant reporté
+reporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis reporté(e)
+tu es reporté(e)
+il (elle) est reporté(e)
+nous sommes reporté(e)s
+vous êtes reporté(e)s
+ils (elles) sont reporté(e)s
+
+** Imparfait
+
+j'étais reporté(e)
+tu étais reporté(e)
+il (elle) était reporté(e)
+nous étions reporté(e)s
+vous étiez reporté(e)s
+ils (elles) étaient reporté(e)s
+
+** Passé simple
+
+je fus reporté(e)
+tu fus reporté(e)
+il (elle) fut reporté(e)
+nous fûmes reporté(e)s
+vous fûtes reporté(e)s
+ils (elles) furent reporté(e)s
+
+** Futur simple
+
+je serai reporté(e)
+tu seras reporté(e)
+il (elle) sera reporté(e)
+nous serons reporté(e)s
+vous serez reporté(e)s
+ils (elles) seront reporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais reporté(e)
+tu serais reporté(e)
+il (elle) serait reporté(e)
+nous serions reporté(e)s
+vous seriez reporté(e)s
+ils (elles) seraient reporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois reporté(e)
+que tu sois reporté(e)
+qu’il (elle) soit reporté(e)
+que nous soyons reporté(e)s
+que vous soyez reporté(e)s
+qu’ils (elles) soient reporté(e)s
+
+** Imparfait
+
+que je fusse reporté(e)
+que tu fusses reporté(e)
+qu’il (elle) fût reporté(e)
+que nous fussions reporté(e)s
+que vous fussiez reporté(e)s
+qu’ils (elles) fussent reporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons reporté(e)s
+soyez reporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être reporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant reporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été reporté(e)
+tu as été reporté(e)
+il (elle) a été reporté(e)
+nous avons été reporté(e)s
+vous avez été reporté(e)s
+ils (elles) ont été reporté(e)s
+
+** Plus-que-parfait
+
+j'avais été reporté(e)
+il (elle) avait été reporté(e)
+nous avions été reporté(e)s
+ils (elles) avaient été reporté(e)s
+
+** Passé antérieur
+
+j'eus été reporté(e)
+tu eus été reporté(e)
+il (elle) eut été reporté(e)
+nous eûmes été reporté(e)s
+vous eûtes été reporté(e)s
+ils (elles) eurent été reporté(e)s
+
+** Futur antérieur
+
+j'aurai été reporté(e)
+tu auras été reporté(e)
+il (elle) aura été reporté(e)
+nous aurons été reporté(e)s
+vous aurez été reporté(e)s
+ils (elles) auront été reporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été reporté(e)
+j'aurais été reporté(e)
+il (elle) aurait été reporté(e)
+nous aurions été reporté(e)s
+vous auriez été reporté(e)s
+ils (elles) auraient été reporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été reporté(e)
+que tu aies été reporté(e)
+qu’il (elle) ait été reporté(e)
+que nous ayons été reporté(e)s
+que vous ayez été reporté(e)s
+qu’ils (elles) aient été reporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été reporté(e)
+que tu eusses été reporté(e)
+qu’il (elle) eût été reporté(e)
+que nous eussions été reporté(e)s
+que vous eussiez été reporté(e)s
+qu’ils (elles) eussent été reporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été reporté(e)
+ayons été reporté(e)s
+ayez été reporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été reporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été reporté(e)(s)

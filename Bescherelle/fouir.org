@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe fouir
+
+* INDICATIF
+
+** Présent
+
+je fouis
+tu fouis
+il (elle) fouit
+nous fouissons
+vous fouissez
+ils (elles) fouissent
+
+** Imparfait
+
+je fouissais
+tu fouissais
+il (elle) fouissait
+nous fouissions
+vous fouissiez
+ils (elles) fouissaient
+
+** Passé simple
+
+je fouis
+tu fouis
+il (elle) fouit
+nous fouîmes
+vous fouîtes
+ils (elles) fouirent
+
+** Futur simple
+
+je fouirai
+tu fouiras
+il (elle) fouira
+nous fouirons
+vous fouirez
+ils (elles) fouiront
+
+* CONDITIONNEL
+
+** Présent
+
+je fouirais
+tu fouirais
+il (elle) fouirait
+nous fouirions
+vous fouiriez
+ils (elles) fouiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je fouisse
+que tu fouisses
+qu’il (elle) fouisse
+que nous fouissions
+que vous fouissiez
+qu’ils (elles) fouissent
+
+** Imparfait
+
+que je fouisse
+que tu fouisses
+qu’il (elle) fouît
+que nous fouissions
+que vous fouissiez
+qu’ils (elles) fouissent
+
+* IMPÉRATIF
+
+** Présent
+
+fouis
+fouissons
+fouissez
+
+* INFINITIF
+
+** Présent
+
+fouir
+
+* PARTICIPE
+
+** Présent
+
+fouissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai foui
+tu as foui
+il (elle) a foui
+nous avons foui
+vous avez foui
+ils (elles) ont foui
+
+** Plus-que-parfait
+
+j'avais foui
+tu avais foui
+il (elle) avait foui
+nous avions foui
+vous aviez foui
+ils (elles) avaient foui
+
+** Passé antérieur
+
+j'eus foui
+tu eus foui
+il (elle) eut foui
+nous eûmes foui
+vous eûtes foui
+ils (elles) eurent foui
+
+** Futur antérieur
+
+j'aurai foui
+tu auras foui
+il (elle) aura foui
+nous aurons foui
+vous aurez foui
+ils (elles) auront foui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais foui
+tu aurais foui
+il (elle) aurait foui
+nous aurions foui
+vous auriez foui
+ils (elles) auraient foui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie foui
+que tu aies foui
+qu’il (elle) ait foui
+que nous ayons foui
+que vous ayez foui
+qu’ils (elles) aient foui
+
+** Plus-que-parfait
+
+que j'eusse foui
+que tu eusses foui
+qu’il (elle) eût foui
+que nous eussions foui
+que vous eussiez foui
+qu’ils (elles) eussent foui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons foui
+ayez foui
+
+* INFINITIF
+
+** Passé
+
+avoir foui
+
+* PARTICIPE
+
+** Passé
+
+ayant foui
+foui (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis foui(e)
+tu es foui(e)
+il (elle) est foui(e)
+nous sommes foui(e)s
+vous êtes foui(e)s
+ils (elles) sont foui(e)s
+
+** Imparfait
+
+j'étais foui(e)
+tu étais foui(e)
+il (elle) était foui(e)
+nous étions foui(e)s
+vous étiez foui(e)s
+ils (elles) étaient foui(e)s
+
+** Passé simple
+
+je fus foui(e)
+tu fus foui(e)
+il (elle) fut foui(e)
+nous fûmes foui(e)s
+vous fûtes foui(e)s
+ils (elles) furent foui(e)s
+
+** Futur simple
+
+je serai foui(e)
+tu seras foui(e)
+il (elle) sera foui(e)
+nous serons foui(e)s
+vous serez foui(e)s
+ils (elles) seront foui(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais foui(e)
+tu serais foui(e)
+il (elle) serait foui(e)
+nous serions foui(e)s
+vous seriez foui(e)s
+ils (elles) seraient foui(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois foui(e)
+que tu sois foui(e)
+qu’il (elle) soit foui(e)
+que nous soyons foui(e)s
+que vous soyez foui(e)s
+qu’ils (elles) soient foui(e)s
+
+** Imparfait
+
+que je fusse foui(e)
+que tu fusses foui(e)
+qu’il (elle) fût foui(e)
+que nous fussions foui(e)s
+que vous fussiez foui(e)s
+qu’ils (elles) fussent foui(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons foui(e)s
+soyez foui(e)s
+
+* INFINITIF
+
+** Présent
+
+être foui(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant foui(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été foui(e)
+tu as été foui(e)
+il (elle) a été foui(e)
+nous avons été foui(e)s
+vous avez été foui(e)s
+ils (elles) ont été foui(e)s
+
+** Plus-que-parfait
+
+j'avais été foui(e)
+il (elle) avait été foui(e)
+nous avions été foui(e)s
+ils (elles) avaient été foui(e)s
+
+** Passé antérieur
+
+j'eus été foui(e)
+tu eus été foui(e)
+il (elle) eut été foui(e)
+nous eûmes été foui(e)s
+vous eûtes été foui(e)s
+ils (elles) eurent été foui(e)s
+
+** Futur antérieur
+
+j'aurai été foui(e)
+tu auras été foui(e)
+il (elle) aura été foui(e)
+nous aurons été foui(e)s
+vous aurez été foui(e)s
+ils (elles) auront été foui(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été foui(e)
+j'aurais été foui(e)
+il (elle) aurait été foui(e)
+nous aurions été foui(e)s
+vous auriez été foui(e)s
+ils (elles) auraient été foui(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été foui(e)
+que tu aies été foui(e)
+qu’il (elle) ait été foui(e)
+que nous ayons été foui(e)s
+que vous ayez été foui(e)s
+qu’ils (elles) aient été foui(e)s
+
+** Plus-que-parfait
+
+que j'eusse été foui(e)
+que tu eusses été foui(e)
+qu’il (elle) eût été foui(e)
+que nous eussions été foui(e)s
+que vous eussiez été foui(e)s
+qu’ils (elles) eussent été foui(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été foui(e)
+ayons été foui(e)s
+ayez été foui(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été foui(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été foui(e)(s)

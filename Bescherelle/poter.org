@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe poter
+
+* INDICATIF
+
+** Présent
+
+je pote
+tu potes
+il (elle) pote
+nous potons
+vous potez
+ils (elles) potent
+
+** Imparfait
+
+je potais
+tu potais
+il (elle) potait
+nous potions
+vous potiez
+ils (elles) potaient
+
+** Passé simple
+
+je potai
+tu potas
+il (elle) pota
+nous potâmes
+vous potâtes
+ils (elles) potèrent
+
+** Futur simple
+
+je poterai
+tu poteras
+il (elle) potera
+nous poterons
+vous poterez
+ils (elles) poteront
+
+* CONDITIONNEL
+
+** Présent
+
+je poterais
+tu poterais
+il (elle) poterait
+nous poterions
+vous poteriez
+ils (elles) poteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pote
+que tu potes
+qu’il (elle) pote
+que nous potions
+que vous potiez
+qu’ils (elles) potent
+
+** Imparfait
+
+que je potasse
+que tu potasses
+qu’il (elle) potât
+que nous potassions
+que vous potassiez
+qu’ils (elles) potassent
+
+* IMPÉRATIF
+
+** Présent
+
+pote
+potons
+potez
+
+* INFINITIF
+
+** Présent
+
+poter
+
+* PARTICIPE
+
+** Présent
+
+potant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai poté
+tu as poté
+il (elle) a poté
+nous avons poté
+vous avez poté
+ils (elles) ont poté
+
+** Plus-que-parfait
+
+j'avais poté
+tu avais poté
+il (elle) avait poté
+nous avions poté
+vous aviez poté
+ils (elles) avaient poté
+
+** Passé antérieur
+
+j'eus poté
+tu eus poté
+il (elle) eut poté
+nous eûmes poté
+vous eûtes poté
+ils (elles) eurent poté
+
+** Futur antérieur
+
+j'aurai poté
+tu auras poté
+il (elle) aura poté
+nous aurons poté
+vous aurez poté
+ils (elles) auront poté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais poté
+tu aurais poté
+il (elle) aurait poté
+nous aurions poté
+vous auriez poté
+ils (elles) auraient poté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie poté
+que tu aies poté
+qu’il (elle) ait poté
+que nous ayons poté
+que vous ayez poté
+qu’ils (elles) aient poté
+
+** Plus-que-parfait
+
+que j'eusse poté
+que tu eusses poté
+qu’il (elle) eût poté
+que nous eussions poté
+que vous eussiez poté
+qu’ils (elles) eussent poté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons poté
+ayez poté
+
+* INFINITIF
+
+** Passé
+
+avoir poté
+
+* PARTICIPE
+
+** Passé
+
+ayant poté
+poté (invar.)

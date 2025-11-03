@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe boiser
+
+* INDICATIF
+
+** Présent
+
+je boise
+tu boises
+il (elle) boise
+nous boisons
+vous boisez
+ils (elles) boisent
+
+** Imparfait
+
+je boisais
+tu boisais
+il (elle) boisait
+nous boisions
+vous boisiez
+ils (elles) boisaient
+
+** Passé simple
+
+je boisai
+tu boisas
+il (elle) boisa
+nous boisâmes
+vous boisâtes
+ils (elles) boisèrent
+
+** Futur simple
+
+je boiserai
+tu boiseras
+il (elle) boisera
+nous boiserons
+vous boiserez
+ils (elles) boiseront
+
+* CONDITIONNEL
+
+** Présent
+
+je boiserais
+tu boiserais
+il (elle) boiserait
+nous boiserions
+vous boiseriez
+ils (elles) boiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je boise
+que tu boises
+qu’il (elle) boise
+que nous boisions
+que vous boisiez
+qu’ils (elles) boisent
+
+** Imparfait
+
+que je boisasse
+que tu boisasses
+qu’il (elle) boisât
+que nous boisassions
+que vous boisassiez
+qu’ils (elles) boisassent
+
+* IMPÉRATIF
+
+** Présent
+
+boise
+boisons
+boisez
+
+* INFINITIF
+
+** Présent
+
+boiser
+
+* PARTICIPE
+
+** Présent
+
+boisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai boisé
+tu as boisé
+il (elle) a boisé
+nous avons boisé
+vous avez boisé
+ils (elles) ont boisé
+
+** Plus-que-parfait
+
+j'avais boisé
+tu avais boisé
+il (elle) avait boisé
+nous avions boisé
+vous aviez boisé
+ils (elles) avaient boisé
+
+** Passé antérieur
+
+j'eus boisé
+tu eus boisé
+il (elle) eut boisé
+nous eûmes boisé
+vous eûtes boisé
+ils (elles) eurent boisé
+
+** Futur antérieur
+
+j'aurai boisé
+tu auras boisé
+il (elle) aura boisé
+nous aurons boisé
+vous aurez boisé
+ils (elles) auront boisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais boisé
+tu aurais boisé
+il (elle) aurait boisé
+nous aurions boisé
+vous auriez boisé
+ils (elles) auraient boisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie boisé
+que tu aies boisé
+qu’il (elle) ait boisé
+que nous ayons boisé
+que vous ayez boisé
+qu’ils (elles) aient boisé
+
+** Plus-que-parfait
+
+que j'eusse boisé
+que tu eusses boisé
+qu’il (elle) eût boisé
+que nous eussions boisé
+que vous eussiez boisé
+qu’ils (elles) eussent boisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons boisé
+ayez boisé
+
+* INFINITIF
+
+** Passé
+
+avoir boisé
+
+* PARTICIPE
+
+** Passé
+
+ayant boisé
+boisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis boisé(e)
+tu es boisé(e)
+il (elle) est boisé(e)
+nous sommes boisé(e)s
+vous êtes boisé(e)s
+ils (elles) sont boisé(e)s
+
+** Imparfait
+
+j'étais boisé(e)
+tu étais boisé(e)
+il (elle) était boisé(e)
+nous étions boisé(e)s
+vous étiez boisé(e)s
+ils (elles) étaient boisé(e)s
+
+** Passé simple
+
+je fus boisé(e)
+tu fus boisé(e)
+il (elle) fut boisé(e)
+nous fûmes boisé(e)s
+vous fûtes boisé(e)s
+ils (elles) furent boisé(e)s
+
+** Futur simple
+
+je serai boisé(e)
+tu seras boisé(e)
+il (elle) sera boisé(e)
+nous serons boisé(e)s
+vous serez boisé(e)s
+ils (elles) seront boisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais boisé(e)
+tu serais boisé(e)
+il (elle) serait boisé(e)
+nous serions boisé(e)s
+vous seriez boisé(e)s
+ils (elles) seraient boisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois boisé(e)
+que tu sois boisé(e)
+qu’il (elle) soit boisé(e)
+que nous soyons boisé(e)s
+que vous soyez boisé(e)s
+qu’ils (elles) soient boisé(e)s
+
+** Imparfait
+
+que je fusse boisé(e)
+que tu fusses boisé(e)
+qu’il (elle) fût boisé(e)
+que nous fussions boisé(e)s
+que vous fussiez boisé(e)s
+qu’ils (elles) fussent boisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons boisé(e)s
+soyez boisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être boisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant boisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été boisé(e)
+tu as été boisé(e)
+il (elle) a été boisé(e)
+nous avons été boisé(e)s
+vous avez été boisé(e)s
+ils (elles) ont été boisé(e)s
+
+** Plus-que-parfait
+
+j'avais été boisé(e)
+il (elle) avait été boisé(e)
+nous avions été boisé(e)s
+ils (elles) avaient été boisé(e)s
+
+** Passé antérieur
+
+j'eus été boisé(e)
+tu eus été boisé(e)
+il (elle) eut été boisé(e)
+nous eûmes été boisé(e)s
+vous eûtes été boisé(e)s
+ils (elles) eurent été boisé(e)s
+
+** Futur antérieur
+
+j'aurai été boisé(e)
+tu auras été boisé(e)
+il (elle) aura été boisé(e)
+nous aurons été boisé(e)s
+vous aurez été boisé(e)s
+ils (elles) auront été boisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été boisé(e)
+j'aurais été boisé(e)
+il (elle) aurait été boisé(e)
+nous aurions été boisé(e)s
+vous auriez été boisé(e)s
+ils (elles) auraient été boisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été boisé(e)
+que tu aies été boisé(e)
+qu’il (elle) ait été boisé(e)
+que nous ayons été boisé(e)s
+que vous ayez été boisé(e)s
+qu’ils (elles) aient été boisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été boisé(e)
+que tu eusses été boisé(e)
+qu’il (elle) eût été boisé(e)
+que nous eussions été boisé(e)s
+que vous eussiez été boisé(e)s
+qu’ils (elles) eussent été boisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été boisé(e)
+ayons été boisé(e)s
+ayez été boisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été boisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été boisé(e)(s)

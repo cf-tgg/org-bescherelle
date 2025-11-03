@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe vaquer
+
+* INDICATIF
+
+** Présent
+
+je vaque
+tu vaques
+il (elle) vaque
+nous vaquons
+vous vaquez
+ils (elles) vaquent
+
+** Imparfait
+
+je vaquais
+tu vaquais
+il (elle) vaquait
+nous vaquions
+vous vaquiez
+ils (elles) vaquaient
+
+** Passé simple
+
+je vaquai
+tu vaquas
+il (elle) vaqua
+nous vaquâmes
+vous vaquâtes
+ils (elles) vaquèrent
+
+** Futur simple
+
+je vaquerai
+tu vaqueras
+il (elle) vaquera
+nous vaquerons
+vous vaquerez
+ils (elles) vaqueront
+
+* CONDITIONNEL
+
+** Présent
+
+je vaquerais
+tu vaquerais
+il (elle) vaquerait
+nous vaquerions
+vous vaqueriez
+ils (elles) vaqueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vaque
+que tu vaques
+qu’il (elle) vaque
+que nous vaquions
+que vous vaquiez
+qu’ils (elles) vaquent
+
+** Imparfait
+
+que je vaquasse
+que tu vaquasses
+qu’il (elle) vaquât
+que nous vaquassions
+que vous vaquassiez
+qu’ils (elles) vaquassent
+
+* IMPÉRATIF
+
+** Présent
+
+vaque
+vaquons
+vaquez
+
+* INFINITIF
+
+** Présent
+
+vaquer
+
+* PARTICIPE
+
+** Présent
+
+vaquant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai vaqué
+tu as vaqué
+il (elle) a vaqué
+nous avons vaqué
+vous avez vaqué
+ils (elles) ont vaqué
+
+** Plus-que-parfait
+
+j'avais vaqué
+tu avais vaqué
+il (elle) avait vaqué
+nous avions vaqué
+vous aviez vaqué
+ils (elles) avaient vaqué
+
+** Passé antérieur
+
+j'eus vaqué
+tu eus vaqué
+il (elle) eut vaqué
+nous eûmes vaqué
+vous eûtes vaqué
+ils (elles) eurent vaqué
+
+** Futur antérieur
+
+j'aurai vaqué
+tu auras vaqué
+il (elle) aura vaqué
+nous aurons vaqué
+vous aurez vaqué
+ils (elles) auront vaqué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais vaqué
+tu aurais vaqué
+il (elle) aurait vaqué
+nous aurions vaqué
+vous auriez vaqué
+ils (elles) auraient vaqué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie vaqué
+que tu aies vaqué
+qu’il (elle) ait vaqué
+que nous ayons vaqué
+que vous ayez vaqué
+qu’ils (elles) aient vaqué
+
+** Plus-que-parfait
+
+que j'eusse vaqué
+que tu eusses vaqué
+qu’il (elle) eût vaqué
+que nous eussions vaqué
+que vous eussiez vaqué
+qu’ils (elles) eussent vaqué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons vaqué
+ayez vaqué
+
+* INFINITIF
+
+** Passé
+
+avoir vaqué
+
+* PARTICIPE
+
+** Passé
+
+ayant vaqué
+vaqué (invar.)

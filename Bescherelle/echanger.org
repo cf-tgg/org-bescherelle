@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe echanger
+
+* INDICATIF
+
+** Présent
+
+j'échange
+tu échanges
+il (elle) échange
+nous échangeons
+vous échangez
+ils (elles) échangent
+
+** Imparfait
+
+j'échangeais
+tu échangeais
+il (elle) échangeait
+nous échangions
+vous échangiez
+ils (elles) échangeaient
+
+** Passé simple
+
+j'échangeai
+tu échangeas
+il (elle) échangea
+nous échangeâmes
+vous échangeâtes
+ils (elles) échangèrent
+
+** Futur simple
+
+j'échangerai
+tu échangeras
+il (elle) échangera
+nous échangerons
+vous échangerez
+ils (elles) échangeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'échangerais
+tu échangerais
+il (elle) échangerait
+nous échangerions
+vous échangeriez
+ils (elles) échangeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'échange
+que tu échanges
+qu’il (elle) échange
+que nous échangions
+que vous échangiez
+qu’ils (elles) échangent
+
+** Imparfait
+
+que j'échangeasse
+que tu échangeasses
+qu’il (elle) échangeât
+que nous échangeassions
+que vous échangeassiez
+qu’ils (elles) échangeassent
+
+* IMPÉRATIF
+
+** Présent
+
+échange
+échangeons
+échangez
+
+* INFINITIF
+
+** Présent
+
+échanger
+
+* PARTICIPE
+
+** Présent
+
+échangeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai échangé
+tu as échangé
+il (elle) a échangé
+nous avons échangé
+vous avez échangé
+ils (elles) ont échangé
+
+** Plus-que-parfait
+
+j'avais échangé
+tu avais échangé
+il (elle) avait échangé
+nous avions échangé
+vous aviez échangé
+ils (elles) avaient échangé
+
+** Passé antérieur
+
+j'eus échangé
+tu eus échangé
+il (elle) eut échangé
+nous eûmes échangé
+vous eûtes échangé
+ils (elles) eurent échangé
+
+** Futur antérieur
+
+j'aurai échangé
+tu auras échangé
+il (elle) aura échangé
+nous aurons échangé
+vous aurez échangé
+ils (elles) auront échangé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais échangé
+tu aurais échangé
+il (elle) aurait échangé
+nous aurions échangé
+vous auriez échangé
+ils (elles) auraient échangé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie échangé
+que tu aies échangé
+qu’il (elle) ait échangé
+que nous ayons échangé
+que vous ayez échangé
+qu’ils (elles) aient échangé
+
+** Plus-que-parfait
+
+que j'eusse échangé
+que tu eusses échangé
+qu’il (elle) eût échangé
+que nous eussions échangé
+que vous eussiez échangé
+qu’ils (elles) eussent échangé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons échangé
+ayez échangé
+
+* INFINITIF
+
+** Passé
+
+avoir échangé
+
+* PARTICIPE
+
+** Passé
+
+ayant échangé
+échangé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis échangé(e)
+tu es échangé(e)
+il (elle) est échangé(e)
+nous sommes échangé(e)s
+vous êtes échangé(e)s
+ils (elles) sont échangé(e)s
+
+** Imparfait
+
+j'étais échangé(e)
+tu étais échangé(e)
+il (elle) était échangé(e)
+nous étions échangé(e)s
+vous étiez échangé(e)s
+ils (elles) étaient échangé(e)s
+
+** Passé simple
+
+je fus échangé(e)
+tu fus échangé(e)
+il (elle) fut échangé(e)
+nous fûmes échangé(e)s
+vous fûtes échangé(e)s
+ils (elles) furent échangé(e)s
+
+** Futur simple
+
+je serai échangé(e)
+tu seras échangé(e)
+il (elle) sera échangé(e)
+nous serons échangé(e)s
+vous serez échangé(e)s
+ils (elles) seront échangé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais échangé(e)
+tu serais échangé(e)
+il (elle) serait échangé(e)
+nous serions échangé(e)s
+vous seriez échangé(e)s
+ils (elles) seraient échangé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois échangé(e)
+que tu sois échangé(e)
+qu’il (elle) soit échangé(e)
+que nous soyons échangé(e)s
+que vous soyez échangé(e)s
+qu’ils (elles) soient échangé(e)s
+
+** Imparfait
+
+que je fusse échangé(e)
+que tu fusses échangé(e)
+qu’il (elle) fût échangé(e)
+que nous fussions échangé(e)s
+que vous fussiez échangé(e)s
+qu’ils (elles) fussent échangé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons échangé(e)s
+soyez échangé(e)s
+
+* INFINITIF
+
+** Présent
+
+être échangé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant échangé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été échangé(e)
+tu as été échangé(e)
+il (elle) a été échangé(e)
+nous avons été échangé(e)s
+vous avez été échangé(e)s
+ils (elles) ont été échangé(e)s
+
+** Plus-que-parfait
+
+j'avais été échangé(e)
+il (elle) avait été échangé(e)
+nous avions été échangé(e)s
+ils (elles) avaient été échangé(e)s
+
+** Passé antérieur
+
+j'eus été échangé(e)
+tu eus été échangé(e)
+il (elle) eut été échangé(e)
+nous eûmes été échangé(e)s
+vous eûtes été échangé(e)s
+ils (elles) eurent été échangé(e)s
+
+** Futur antérieur
+
+j'aurai été échangé(e)
+tu auras été échangé(e)
+il (elle) aura été échangé(e)
+nous aurons été échangé(e)s
+vous aurez été échangé(e)s
+ils (elles) auront été échangé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été échangé(e)
+j'aurais été échangé(e)
+il (elle) aurait été échangé(e)
+nous aurions été échangé(e)s
+vous auriez été échangé(e)s
+ils (elles) auraient été échangé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été échangé(e)
+que tu aies été échangé(e)
+qu’il (elle) ait été échangé(e)
+que nous ayons été échangé(e)s
+que vous ayez été échangé(e)s
+qu’ils (elles) aient été échangé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été échangé(e)
+que tu eusses été échangé(e)
+qu’il (elle) eût été échangé(e)
+que nous eussions été échangé(e)s
+que vous eussiez été échangé(e)s
+qu’ils (elles) eussent été échangé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été échangé(e)
+ayons été échangé(e)s
+ayez été échangé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été échangé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été échangé(e)(s)

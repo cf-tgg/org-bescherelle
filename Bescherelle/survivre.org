@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe survivre
+
+* INDICATIF
+
+** Présent
+
+je survis
+tu survis
+il (elle) survit
+nous survivons
+vous survivez
+ils (elles) survivent
+
+** Imparfait
+
+je survivais
+tu survivais
+il (elle) survivait
+nous survivions
+vous surviviez
+ils (elles) survivaient
+
+** Passé simple
+
+je survécus
+tu survécus
+il (elle) survécut
+nous survécûmes
+vous survécûtes
+ils (elles) survécurent
+
+** Futur simple
+
+je survivrai
+tu survivras
+il (elle) survivra
+nous survivrons
+vous survivrez
+ils (elles) survivront
+
+* CONDITIONNEL
+
+** Présent
+
+je survivrais
+tu survivrais
+il (elle) survivrait
+nous survivrions
+vous survivriez
+ils (elles) survivraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je survive
+que tu survives
+qu’il (elle) survive
+que nous survivions
+que vous surviviez
+qu’ils (elles) survivent
+
+** Imparfait
+
+que je survécusse
+que tu survécusses
+qu’il (elle) survécût
+que nous survécussions
+que vous survécussiez
+qu’ils (elles) survécussent
+
+* IMPÉRATIF
+
+** Présent
+
+survis
+survivons
+survivez
+
+* INFINITIF
+
+** Présent
+
+survivre
+
+* PARTICIPE
+
+** Présent
+
+survivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai survécu
+tu as survécu
+il (elle) a survécu
+nous avons survécu
+vous avez survécu
+ils (elles) ont survécu
+
+** Plus-que-parfait
+
+j'avais survécu
+tu avais survécu
+il (elle) avait survécu
+nous avions survécu
+vous aviez survécu
+ils (elles) avaient survécu
+
+** Passé antérieur
+
+j'eus survécu
+tu eus survécu
+il (elle) eut survécu
+nous eûmes survécu
+vous eûtes survécu
+ils (elles) eurent survécu
+
+** Futur antérieur
+
+j'aurai survécu
+tu auras survécu
+il (elle) aura survécu
+nous aurons survécu
+vous aurez survécu
+ils (elles) auront survécu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais survécu
+tu aurais survécu
+il (elle) aurait survécu
+nous aurions survécu
+vous auriez survécu
+ils (elles) auraient survécu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie survécu
+que tu aies survécu
+qu’il (elle) ait survécu
+que nous ayons survécu
+que vous ayez survécu
+qu’ils (elles) aient survécu
+
+** Plus-que-parfait
+
+que j'eusse survécu
+que tu eusses survécu
+qu’il (elle) eût survécu
+que nous eussions survécu
+que vous eussiez survécu
+qu’ils (elles) eussent survécu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons survécu
+ayez survécu
+
+* INFINITIF
+
+** Passé
+
+avoir survécu
+
+* PARTICIPE
+
+** Passé
+
+ayant survécu
+survécu (invar.)

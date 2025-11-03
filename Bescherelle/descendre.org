@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe descendre
+
+* INDICATIF
+
+** Présent
+
+je descends
+tu descends
+il (elle) descend
+nous descendons
+vous descendez
+ils (elles) descendent
+
+** Imparfait
+
+je descendais
+tu descendais
+il (elle) descendait
+nous descendions
+vous descendiez
+ils (elles) descendaient
+
+** Passé simple
+
+je descendis
+tu descendis
+il (elle) descendit
+nous descendîmes
+vous descendîtes
+ils (elles) descendirent
+
+** Futur simple
+
+je descendrai
+tu descendras
+il (elle) descendra
+nous descendrons
+vous descendrez
+ils (elles) descendront
+
+* CONDITIONNEL
+
+** Présent
+
+je descendrais
+tu descendrais
+il (elle) descendrait
+nous descendrions
+vous descendriez
+ils (elles) descendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je descende
+que tu descendes
+qu’il (elle) descende
+que nous descendions
+que vous descendiez
+qu’ils (elles) descendent
+
+** Imparfait
+
+que je descendisse
+que tu descendisses
+qu’il (elle) descendît
+que nous descendissions
+que vous descendissiez
+qu’ils (elles) descendissent
+
+* IMPÉRATIF
+
+** Présent
+
+descends
+descendons
+descendez
+
+* INFINITIF
+
+** Présent
+
+descendre
+
+* PARTICIPE
+
+** Présent
+
+descendant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ou suis descendu(e)
+tu as ou es descendu(e)
+il (elle) a ou est descendu(e)
+nous avons ou sommes descendu(e)s
+vous avez ou êtes descendu(e)s
+ils (elles) ont ou sont descendu(e)s
+
+** Plus-que-parfait
+
+j'avais ou étais descendu(e)
+tu avais ou étais descendu(e)
+il (elle) avait ou était descendu(e)
+nous avions ou étions descendu(e)s
+vous aviez ou étiez descendu(e)s
+ils (elles) avaient ou étaient descendu(e)s
+
+** Passé antérieur
+
+j'eus ou fus descendu(e)
+tu eus ou fus descendu(e)
+il (elle) eut ou fut descendu(e)
+nous eûmes ou fûmes descendu(e)s
+vous eûtes ou fûtes descendu(e)s
+ils (elles) eurent ou furent descendu(e)s
+
+** Futur antérieur
+
+j'aurai ou serai descendu(e)
+tu auras ou seras descendu(e)
+il (elle) aura ou sera descendu(e)
+nous aurons ou serons descendu(e)s
+vous aurez ou serez descendu(e)s
+ils (elles) auront ou seront descendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ou serais descendu(e)
+tu aurais ou serais descendu(e)
+il (elle) aurait ou serait descendu(e)
+nous aurions ou serions descendu(e)s
+vous auriez ou seriez descendu(e)s
+ils (elles) auraient ou seraient descendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ou sois descendu(e)
+que tu aies ou sois descendu(e)
+qu’il (elle) ait ou soit descendu(e)
+que nous ayons ou soyons descendu(e)s
+que vous ayez ou soyez descendu(e)s
+qu’ils (elles) aient ou soient descendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse ou fusse descendu(e)
+que tu eusses ou fusses descendu(e)
+qu’il (elle) eût ou fût descendu(e)
+que nous eussions ou fussions descendu(e)s
+que vous eussiez ou fussiez descendu(e)s
+qu’ils (elles) eussent ou fussent descendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ou soyons descendu(e)s
+ayez ou soyez descendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir ou être descendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant ou étant descendu(e)(s)
+descendu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis descendu(e)
+tu es descendu(e)
+il (elle) est descendu(e)
+nous sommes descendu(e)s
+vous êtes descendu(e)s
+ils (elles) sont descendu(e)s
+
+** Imparfait
+
+j'étais descendu(e)
+tu étais descendu(e)
+il (elle) était descendu(e)
+nous étions descendu(e)s
+vous étiez descendu(e)s
+ils (elles) étaient descendu(e)s
+
+** Passé simple
+
+je fus descendu(e)
+tu fus descendu(e)
+il (elle) fut descendu(e)
+nous fûmes descendu(e)s
+vous fûtes descendu(e)s
+ils (elles) furent descendu(e)s
+
+** Futur simple
+
+je serai descendu(e)
+tu seras descendu(e)
+il (elle) sera descendu(e)
+nous serons descendu(e)s
+vous serez descendu(e)s
+ils (elles) seront descendu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais descendu(e)
+tu serais descendu(e)
+il (elle) serait descendu(e)
+nous serions descendu(e)s
+vous seriez descendu(e)s
+ils (elles) seraient descendu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois descendu(e)
+que tu sois descendu(e)
+qu’il (elle) soit descendu(e)
+que nous soyons descendu(e)s
+que vous soyez descendu(e)s
+qu’ils (elles) soient descendu(e)s
+
+** Imparfait
+
+que je fusse descendu(e)
+que tu fusses descendu(e)
+qu’il (elle) fût descendu(e)
+que nous fussions descendu(e)s
+que vous fussiez descendu(e)s
+qu’ils (elles) fussent descendu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons descendu(e)s
+soyez descendu(e)s
+
+* INFINITIF
+
+** Présent
+
+être descendu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant descendu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été descendu(e)
+tu as été descendu(e)
+il (elle) a été descendu(e)
+nous avons été descendu(e)s
+vous avez été descendu(e)s
+ils (elles) ont été descendu(e)s
+
+** Plus-que-parfait
+
+j'avais été descendu(e)
+il (elle) avait été descendu(e)
+nous avions été descendu(e)s
+ils (elles) avaient été descendu(e)s
+
+** Passé antérieur
+
+j'eus été descendu(e)
+tu eus été descendu(e)
+il (elle) eut été descendu(e)
+nous eûmes été descendu(e)s
+vous eûtes été descendu(e)s
+ils (elles) eurent été descendu(e)s
+
+** Futur antérieur
+
+j'aurai été descendu(e)
+tu auras été descendu(e)
+il (elle) aura été descendu(e)
+nous aurons été descendu(e)s
+vous aurez été descendu(e)s
+ils (elles) auront été descendu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été descendu(e)
+j'aurais été descendu(e)
+il (elle) aurait été descendu(e)
+nous aurions été descendu(e)s
+vous auriez été descendu(e)s
+ils (elles) auraient été descendu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été descendu(e)
+que tu aies été descendu(e)
+qu’il (elle) ait été descendu(e)
+que nous ayons été descendu(e)s
+que vous ayez été descendu(e)s
+qu’ils (elles) aient été descendu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été descendu(e)
+que tu eusses été descendu(e)
+qu’il (elle) eût été descendu(e)
+que nous eussions été descendu(e)s
+que vous eussiez été descendu(e)s
+qu’ils (elles) eussent été descendu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été descendu(e)
+ayons été descendu(e)s
+ayez été descendu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été descendu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été descendu(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe acter
+
+* INDICATIF
+
+** Présent
+
+j'acte
+tu actes
+il (elle) acte
+nous actons
+vous actez
+ils (elles) actent
+
+** Imparfait
+
+j'actais
+tu actais
+il (elle) actait
+nous actions
+vous actiez
+ils (elles) actaient
+
+** Passé simple
+
+j'actai
+tu actas
+il (elle) acta
+nous actâmes
+vous actâtes
+ils (elles) actèrent
+
+** Futur simple
+
+j'acterai
+tu acteras
+il (elle) actera
+nous acterons
+vous acterez
+ils (elles) acteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'acterais
+tu acterais
+il (elle) acterait
+nous acterions
+vous acteriez
+ils (elles) acteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'acte
+que tu actes
+qu’il (elle) acte
+que nous actions
+que vous actiez
+qu’ils (elles) actent
+
+** Imparfait
+
+que j'actasse
+que tu actasses
+qu’il (elle) actât
+que nous actassions
+que vous actassiez
+qu’ils (elles) actassent
+
+* IMPÉRATIF
+
+** Présent
+
+acte
+actons
+actez
+
+* INFINITIF
+
+** Présent
+
+acter
+
+* PARTICIPE
+
+** Présent
+
+actant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai acté
+tu as acté
+il (elle) a acté
+nous avons acté
+vous avez acté
+ils (elles) ont acté
+
+** Plus-que-parfait
+
+j'avais acté
+tu avais acté
+il (elle) avait acté
+nous avions acté
+vous aviez acté
+ils (elles) avaient acté
+
+** Passé antérieur
+
+j'eus acté
+tu eus acté
+il (elle) eut acté
+nous eûmes acté
+vous eûtes acté
+ils (elles) eurent acté
+
+** Futur antérieur
+
+j'aurai acté
+tu auras acté
+il (elle) aura acté
+nous aurons acté
+vous aurez acté
+ils (elles) auront acté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais acté
+tu aurais acté
+il (elle) aurait acté
+nous aurions acté
+vous auriez acté
+ils (elles) auraient acté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie acté
+que tu aies acté
+qu’il (elle) ait acté
+que nous ayons acté
+que vous ayez acté
+qu’ils (elles) aient acté
+
+** Plus-que-parfait
+
+que j'eusse acté
+que tu eusses acté
+qu’il (elle) eût acté
+que nous eussions acté
+que vous eussiez acté
+qu’ils (elles) eussent acté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons acté
+ayez acté
+
+* INFINITIF
+
+** Passé
+
+avoir acté
+
+* PARTICIPE
+
+** Passé
+
+ayant acté
+acté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis acté(e)
+tu es acté(e)
+il (elle) est acté(e)
+nous sommes acté(e)s
+vous êtes acté(e)s
+ils (elles) sont acté(e)s
+
+** Imparfait
+
+j'étais acté(e)
+tu étais acté(e)
+il (elle) était acté(e)
+nous étions acté(e)s
+vous étiez acté(e)s
+ils (elles) étaient acté(e)s
+
+** Passé simple
+
+je fus acté(e)
+tu fus acté(e)
+il (elle) fut acté(e)
+nous fûmes acté(e)s
+vous fûtes acté(e)s
+ils (elles) furent acté(e)s
+
+** Futur simple
+
+je serai acté(e)
+tu seras acté(e)
+il (elle) sera acté(e)
+nous serons acté(e)s
+vous serez acté(e)s
+ils (elles) seront acté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais acté(e)
+tu serais acté(e)
+il (elle) serait acté(e)
+nous serions acté(e)s
+vous seriez acté(e)s
+ils (elles) seraient acté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois acté(e)
+que tu sois acté(e)
+qu’il (elle) soit acté(e)
+que nous soyons acté(e)s
+que vous soyez acté(e)s
+qu’ils (elles) soient acté(e)s
+
+** Imparfait
+
+que je fusse acté(e)
+que tu fusses acté(e)
+qu’il (elle) fût acté(e)
+que nous fussions acté(e)s
+que vous fussiez acté(e)s
+qu’ils (elles) fussent acté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons acté(e)s
+soyez acté(e)s
+
+* INFINITIF
+
+** Présent
+
+être acté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant acté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été acté(e)
+tu as été acté(e)
+il (elle) a été acté(e)
+nous avons été acté(e)s
+vous avez été acté(e)s
+ils (elles) ont été acté(e)s
+
+** Plus-que-parfait
+
+j'avais été acté(e)
+il (elle) avait été acté(e)
+nous avions été acté(e)s
+ils (elles) avaient été acté(e)s
+
+** Passé antérieur
+
+j'eus été acté(e)
+tu eus été acté(e)
+il (elle) eut été acté(e)
+nous eûmes été acté(e)s
+vous eûtes été acté(e)s
+ils (elles) eurent été acté(e)s
+
+** Futur antérieur
+
+j'aurai été acté(e)
+tu auras été acté(e)
+il (elle) aura été acté(e)
+nous aurons été acté(e)s
+vous aurez été acté(e)s
+ils (elles) auront été acté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été acté(e)
+j'aurais été acté(e)
+il (elle) aurait été acté(e)
+nous aurions été acté(e)s
+vous auriez été acté(e)s
+ils (elles) auraient été acté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été acté(e)
+que tu aies été acté(e)
+qu’il (elle) ait été acté(e)
+que nous ayons été acté(e)s
+que vous ayez été acté(e)s
+qu’ils (elles) aient été acté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été acté(e)
+que tu eusses été acté(e)
+qu’il (elle) eût été acté(e)
+que nous eussions été acté(e)s
+que vous eussiez été acté(e)s
+qu’ils (elles) eussent été acté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été acté(e)
+ayons été acté(e)s
+ayez été acté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été acté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été acté(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe traduire
+
+* INDICATIF
+
+** Présent
+
+je traduis
+tu traduis
+il (elle) traduit
+nous traduisons
+vous traduisez
+ils (elles) traduisent
+
+** Imparfait
+
+je traduisais
+tu traduisais
+il (elle) traduisait
+nous traduisions
+vous traduisiez
+ils (elles) traduisaient
+
+** Passé simple
+
+je traduisis
+tu traduisis
+il (elle) traduisit
+nous traduisîmes
+vous traduisîtes
+ils (elles) traduisirent
+
+** Futur simple
+
+je traduirai
+tu traduiras
+il (elle) traduira
+nous traduirons
+vous traduirez
+ils (elles) traduiront
+
+* CONDITIONNEL
+
+** Présent
+
+je traduirais
+tu traduirais
+il (elle) traduirait
+nous traduirions
+vous traduiriez
+ils (elles) traduiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je traduise
+que tu traduises
+qu’il (elle) traduise
+que nous traduisions
+que vous traduisiez
+qu’ils (elles) traduisent
+
+** Imparfait
+
+que je traduisisse
+que tu traduisisses
+qu’il (elle) traduisît
+que nous traduisissions
+que vous traduisissiez
+qu’ils (elles) traduisissent
+
+* IMPÉRATIF
+
+** Présent
+
+traduis
+traduisons
+traduisez
+
+* INFINITIF
+
+** Présent
+
+traduire
+
+* PARTICIPE
+
+** Présent
+
+traduisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai traduit
+tu as traduit
+il (elle) a traduit
+nous avons traduit
+vous avez traduit
+ils (elles) ont traduit
+
+** Plus-que-parfait
+
+j'avais traduit
+tu avais traduit
+il (elle) avait traduit
+nous avions traduit
+vous aviez traduit
+ils (elles) avaient traduit
+
+** Passé antérieur
+
+j'eus traduit
+tu eus traduit
+il (elle) eut traduit
+nous eûmes traduit
+vous eûtes traduit
+ils (elles) eurent traduit
+
+** Futur antérieur
+
+j'aurai traduit
+tu auras traduit
+il (elle) aura traduit
+nous aurons traduit
+vous aurez traduit
+ils (elles) auront traduit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais traduit
+tu aurais traduit
+il (elle) aurait traduit
+nous aurions traduit
+vous auriez traduit
+ils (elles) auraient traduit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie traduit
+que tu aies traduit
+qu’il (elle) ait traduit
+que nous ayons traduit
+que vous ayez traduit
+qu’ils (elles) aient traduit
+
+** Plus-que-parfait
+
+que j'eusse traduit
+que tu eusses traduit
+qu’il (elle) eût traduit
+que nous eussions traduit
+que vous eussiez traduit
+qu’ils (elles) eussent traduit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons traduit
+ayez traduit
+
+* INFINITIF
+
+** Passé
+
+avoir traduit
+
+* PARTICIPE
+
+** Passé
+
+ayant traduit
+traduit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis traduit(e)
+tu es traduit(e)
+il (elle) est traduit(e)
+nous sommes traduit(e)s
+vous êtes traduit(e)s
+ils (elles) sont traduit(e)s
+
+** Imparfait
+
+j'étais traduit(e)
+tu étais traduit(e)
+il (elle) était traduit(e)
+nous étions traduit(e)s
+vous étiez traduit(e)s
+ils (elles) étaient traduit(e)s
+
+** Passé simple
+
+je fus traduit(e)
+tu fus traduit(e)
+il (elle) fut traduit(e)
+nous fûmes traduit(e)s
+vous fûtes traduit(e)s
+ils (elles) furent traduit(e)s
+
+** Futur simple
+
+je serai traduit(e)
+tu seras traduit(e)
+il (elle) sera traduit(e)
+nous serons traduit(e)s
+vous serez traduit(e)s
+ils (elles) seront traduit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais traduit(e)
+tu serais traduit(e)
+il (elle) serait traduit(e)
+nous serions traduit(e)s
+vous seriez traduit(e)s
+ils (elles) seraient traduit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois traduit(e)
+que tu sois traduit(e)
+qu’il (elle) soit traduit(e)
+que nous soyons traduit(e)s
+que vous soyez traduit(e)s
+qu’ils (elles) soient traduit(e)s
+
+** Imparfait
+
+que je fusse traduit(e)
+que tu fusses traduit(e)
+qu’il (elle) fût traduit(e)
+que nous fussions traduit(e)s
+que vous fussiez traduit(e)s
+qu’ils (elles) fussent traduit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons traduit(e)s
+soyez traduit(e)s
+
+* INFINITIF
+
+** Présent
+
+être traduit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant traduit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été traduit(e)
+tu as été traduit(e)
+il (elle) a été traduit(e)
+nous avons été traduit(e)s
+vous avez été traduit(e)s
+ils (elles) ont été traduit(e)s
+
+** Plus-que-parfait
+
+j'avais été traduit(e)
+il (elle) avait été traduit(e)
+nous avions été traduit(e)s
+ils (elles) avaient été traduit(e)s
+
+** Passé antérieur
+
+j'eus été traduit(e)
+tu eus été traduit(e)
+il (elle) eut été traduit(e)
+nous eûmes été traduit(e)s
+vous eûtes été traduit(e)s
+ils (elles) eurent été traduit(e)s
+
+** Futur antérieur
+
+j'aurai été traduit(e)
+tu auras été traduit(e)
+il (elle) aura été traduit(e)
+nous aurons été traduit(e)s
+vous aurez été traduit(e)s
+ils (elles) auront été traduit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été traduit(e)
+j'aurais été traduit(e)
+il (elle) aurait été traduit(e)
+nous aurions été traduit(e)s
+vous auriez été traduit(e)s
+ils (elles) auraient été traduit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été traduit(e)
+que tu aies été traduit(e)
+qu’il (elle) ait été traduit(e)
+que nous ayons été traduit(e)s
+que vous ayez été traduit(e)s
+qu’ils (elles) aient été traduit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été traduit(e)
+que tu eusses été traduit(e)
+qu’il (elle) eût été traduit(e)
+que nous eussions été traduit(e)s
+que vous eussiez été traduit(e)s
+qu’ils (elles) eussent été traduit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été traduit(e)
+ayons été traduit(e)s
+ayez été traduit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été traduit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été traduit(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe suer
+
+* INDICATIF
+
+** Présent
+
+je sue
+tu sues
+il (elle) sue
+nous suons
+vous suez
+ils (elles) suent
+
+** Imparfait
+
+je suais
+tu suais
+il (elle) suait
+nous suions
+vous suiez
+ils (elles) suaient
+
+** Passé simple
+
+je suai
+tu suas
+il (elle) sua
+nous suâmes
+vous suâtes
+ils (elles) suèrent
+
+** Futur simple
+
+je suerai
+tu sueras
+il (elle) suera
+nous suerons
+vous suerez
+ils (elles) sueront
+
+* CONDITIONNEL
+
+** Présent
+
+je suerais
+tu suerais
+il (elle) suerait
+nous suerions
+vous sueriez
+ils (elles) sueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je sue
+que tu sues
+qu’il (elle) sue
+que nous suions
+que vous suiez
+qu’ils (elles) suent
+
+** Imparfait
+
+que je suasse
+que tu suasses
+qu’il (elle) suât
+que nous suassions
+que vous suassiez
+qu’ils (elles) suassent
+
+* IMPÉRATIF
+
+** Présent
+
+sue
+suons
+suez
+
+* INFINITIF
+
+** Présent
+
+suer
+
+* PARTICIPE
+
+** Présent
+
+suant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai sué
+tu as sué
+il (elle) a sué
+nous avons sué
+vous avez sué
+ils (elles) ont sué
+
+** Plus-que-parfait
+
+j'avais sué
+tu avais sué
+il (elle) avait sué
+nous avions sué
+vous aviez sué
+ils (elles) avaient sué
+
+** Passé antérieur
+
+j'eus sué
+tu eus sué
+il (elle) eut sué
+nous eûmes sué
+vous eûtes sué
+ils (elles) eurent sué
+
+** Futur antérieur
+
+j'aurai sué
+tu auras sué
+il (elle) aura sué
+nous aurons sué
+vous aurez sué
+ils (elles) auront sué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais sué
+tu aurais sué
+il (elle) aurait sué
+nous aurions sué
+vous auriez sué
+ils (elles) auraient sué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie sué
+que tu aies sué
+qu’il (elle) ait sué
+que nous ayons sué
+que vous ayez sué
+qu’ils (elles) aient sué
+
+** Plus-que-parfait
+
+que j'eusse sué
+que tu eusses sué
+qu’il (elle) eût sué
+que nous eussions sué
+que vous eussiez sué
+qu’ils (elles) eussent sué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons sué
+ayez sué
+
+* INFINITIF
+
+** Passé
+
+avoir sué
+
+* PARTICIPE
+
+** Passé
+
+ayant sué
+sué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis sué(e)
+tu es sué(e)
+il (elle) est sué(e)
+nous sommes sué(e)s
+vous êtes sué(e)s
+ils (elles) sont sué(e)s
+
+** Imparfait
+
+j'étais sué(e)
+tu étais sué(e)
+il (elle) était sué(e)
+nous étions sué(e)s
+vous étiez sué(e)s
+ils (elles) étaient sué(e)s
+
+** Passé simple
+
+je fus sué(e)
+tu fus sué(e)
+il (elle) fut sué(e)
+nous fûmes sué(e)s
+vous fûtes sué(e)s
+ils (elles) furent sué(e)s
+
+** Futur simple
+
+je serai sué(e)
+tu seras sué(e)
+il (elle) sera sué(e)
+nous serons sué(e)s
+vous serez sué(e)s
+ils (elles) seront sué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais sué(e)
+tu serais sué(e)
+il (elle) serait sué(e)
+nous serions sué(e)s
+vous seriez sué(e)s
+ils (elles) seraient sué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois sué(e)
+que tu sois sué(e)
+qu’il (elle) soit sué(e)
+que nous soyons sué(e)s
+que vous soyez sué(e)s
+qu’ils (elles) soient sué(e)s
+
+** Imparfait
+
+que je fusse sué(e)
+que tu fusses sué(e)
+qu’il (elle) fût sué(e)
+que nous fussions sué(e)s
+que vous fussiez sué(e)s
+qu’ils (elles) fussent sué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons sué(e)s
+soyez sué(e)s
+
+* INFINITIF
+
+** Présent
+
+être sué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant sué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été sué(e)
+tu as été sué(e)
+il (elle) a été sué(e)
+nous avons été sué(e)s
+vous avez été sué(e)s
+ils (elles) ont été sué(e)s
+
+** Plus-que-parfait
+
+j'avais été sué(e)
+il (elle) avait été sué(e)
+nous avions été sué(e)s
+ils (elles) avaient été sué(e)s
+
+** Passé antérieur
+
+j'eus été sué(e)
+tu eus été sué(e)
+il (elle) eut été sué(e)
+nous eûmes été sué(e)s
+vous eûtes été sué(e)s
+ils (elles) eurent été sué(e)s
+
+** Futur antérieur
+
+j'aurai été sué(e)
+tu auras été sué(e)
+il (elle) aura été sué(e)
+nous aurons été sué(e)s
+vous aurez été sué(e)s
+ils (elles) auront été sué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été sué(e)
+j'aurais été sué(e)
+il (elle) aurait été sué(e)
+nous aurions été sué(e)s
+vous auriez été sué(e)s
+ils (elles) auraient été sué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été sué(e)
+que tu aies été sué(e)
+qu’il (elle) ait été sué(e)
+que nous ayons été sué(e)s
+que vous ayez été sué(e)s
+qu’ils (elles) aient été sué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été sué(e)
+que tu eusses été sué(e)
+qu’il (elle) eût été sué(e)
+que nous eussions été sué(e)s
+que vous eussiez été sué(e)s
+qu’ils (elles) eussent été sué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été sué(e)
+ayons été sué(e)s
+ayez été sué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été sué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été sué(e)(s)

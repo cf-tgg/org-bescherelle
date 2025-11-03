@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe contacter
+
+* INDICATIF
+
+** Présent
+
+je contacte
+tu contactes
+il (elle) contacte
+nous contactons
+vous contactez
+ils (elles) contactent
+
+** Imparfait
+
+je contactais
+tu contactais
+il (elle) contactait
+nous contactions
+vous contactiez
+ils (elles) contactaient
+
+** Passé simple
+
+je contactai
+tu contactas
+il (elle) contacta
+nous contactâmes
+vous contactâtes
+ils (elles) contactèrent
+
+** Futur simple
+
+je contacterai
+tu contacteras
+il (elle) contactera
+nous contacterons
+vous contacterez
+ils (elles) contacteront
+
+* CONDITIONNEL
+
+** Présent
+
+je contacterais
+tu contacterais
+il (elle) contacterait
+nous contacterions
+vous contacteriez
+ils (elles) contacteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je contacte
+que tu contactes
+qu’il (elle) contacte
+que nous contactions
+que vous contactiez
+qu’ils (elles) contactent
+
+** Imparfait
+
+que je contactasse
+que tu contactasses
+qu’il (elle) contactât
+que nous contactassions
+que vous contactassiez
+qu’ils (elles) contactassent
+
+* IMPÉRATIF
+
+** Présent
+
+contacte
+contactons
+contactez
+
+* INFINITIF
+
+** Présent
+
+contacter
+
+* PARTICIPE
+
+** Présent
+
+contactant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai contacté
+tu as contacté
+il (elle) a contacté
+nous avons contacté
+vous avez contacté
+ils (elles) ont contacté
+
+** Plus-que-parfait
+
+j'avais contacté
+tu avais contacté
+il (elle) avait contacté
+nous avions contacté
+vous aviez contacté
+ils (elles) avaient contacté
+
+** Passé antérieur
+
+j'eus contacté
+tu eus contacté
+il (elle) eut contacté
+nous eûmes contacté
+vous eûtes contacté
+ils (elles) eurent contacté
+
+** Futur antérieur
+
+j'aurai contacté
+tu auras contacté
+il (elle) aura contacté
+nous aurons contacté
+vous aurez contacté
+ils (elles) auront contacté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais contacté
+tu aurais contacté
+il (elle) aurait contacté
+nous aurions contacté
+vous auriez contacté
+ils (elles) auraient contacté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie contacté
+que tu aies contacté
+qu’il (elle) ait contacté
+que nous ayons contacté
+que vous ayez contacté
+qu’ils (elles) aient contacté
+
+** Plus-que-parfait
+
+que j'eusse contacté
+que tu eusses contacté
+qu’il (elle) eût contacté
+que nous eussions contacté
+que vous eussiez contacté
+qu’ils (elles) eussent contacté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons contacté
+ayez contacté
+
+* INFINITIF
+
+** Passé
+
+avoir contacté
+
+* PARTICIPE
+
+** Passé
+
+ayant contacté
+contacté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis contacté(e)
+tu es contacté(e)
+il (elle) est contacté(e)
+nous sommes contacté(e)s
+vous êtes contacté(e)s
+ils (elles) sont contacté(e)s
+
+** Imparfait
+
+j'étais contacté(e)
+tu étais contacté(e)
+il (elle) était contacté(e)
+nous étions contacté(e)s
+vous étiez contacté(e)s
+ils (elles) étaient contacté(e)s
+
+** Passé simple
+
+je fus contacté(e)
+tu fus contacté(e)
+il (elle) fut contacté(e)
+nous fûmes contacté(e)s
+vous fûtes contacté(e)s
+ils (elles) furent contacté(e)s
+
+** Futur simple
+
+je serai contacté(e)
+tu seras contacté(e)
+il (elle) sera contacté(e)
+nous serons contacté(e)s
+vous serez contacté(e)s
+ils (elles) seront contacté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais contacté(e)
+tu serais contacté(e)
+il (elle) serait contacté(e)
+nous serions contacté(e)s
+vous seriez contacté(e)s
+ils (elles) seraient contacté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois contacté(e)
+que tu sois contacté(e)
+qu’il (elle) soit contacté(e)
+que nous soyons contacté(e)s
+que vous soyez contacté(e)s
+qu’ils (elles) soient contacté(e)s
+
+** Imparfait
+
+que je fusse contacté(e)
+que tu fusses contacté(e)
+qu’il (elle) fût contacté(e)
+que nous fussions contacté(e)s
+que vous fussiez contacté(e)s
+qu’ils (elles) fussent contacté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons contacté(e)s
+soyez contacté(e)s
+
+* INFINITIF
+
+** Présent
+
+être contacté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant contacté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été contacté(e)
+tu as été contacté(e)
+il (elle) a été contacté(e)
+nous avons été contacté(e)s
+vous avez été contacté(e)s
+ils (elles) ont été contacté(e)s
+
+** Plus-que-parfait
+
+j'avais été contacté(e)
+il (elle) avait été contacté(e)
+nous avions été contacté(e)s
+ils (elles) avaient été contacté(e)s
+
+** Passé antérieur
+
+j'eus été contacté(e)
+tu eus été contacté(e)
+il (elle) eut été contacté(e)
+nous eûmes été contacté(e)s
+vous eûtes été contacté(e)s
+ils (elles) eurent été contacté(e)s
+
+** Futur antérieur
+
+j'aurai été contacté(e)
+tu auras été contacté(e)
+il (elle) aura été contacté(e)
+nous aurons été contacté(e)s
+vous aurez été contacté(e)s
+ils (elles) auront été contacté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été contacté(e)
+j'aurais été contacté(e)
+il (elle) aurait été contacté(e)
+nous aurions été contacté(e)s
+vous auriez été contacté(e)s
+ils (elles) auraient été contacté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été contacté(e)
+que tu aies été contacté(e)
+qu’il (elle) ait été contacté(e)
+que nous ayons été contacté(e)s
+que vous ayez été contacté(e)s
+qu’ils (elles) aient été contacté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été contacté(e)
+que tu eusses été contacté(e)
+qu’il (elle) eût été contacté(e)
+que nous eussions été contacté(e)s
+que vous eussiez été contacté(e)s
+qu’ils (elles) eussent été contacté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été contacté(e)
+ayons été contacté(e)s
+ayez été contacté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été contacté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été contacté(e)(s)

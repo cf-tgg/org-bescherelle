@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe atteindre
+
+* INDICATIF
+
+** Présent
+
+j'atteins
+tu atteins
+il (elle) atteint
+nous atteignons
+vous atteignez
+ils (elles) atteignent
+
+** Imparfait
+
+j'atteignais
+tu atteignais
+il (elle) atteignait
+nous atteignions
+vous atteigniez
+ils (elles) atteignaient
+
+** Passé simple
+
+j'atteignis
+tu atteignis
+il (elle) atteignit
+nous atteignîmes
+vous atteignîtes
+ils (elles) atteignirent
+
+** Futur simple
+
+j'atteindrai
+tu atteindras
+il (elle) atteindra
+nous atteindrons
+vous atteindrez
+ils (elles) atteindront
+
+* CONDITIONNEL
+
+** Présent
+
+j'atteindrais
+tu atteindrais
+il (elle) atteindrait
+nous atteindrions
+vous atteindriez
+ils (elles) atteindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'atteigne
+que tu atteignes
+qu’il (elle) atteigne
+que nous atteignions
+que vous atteigniez
+qu’ils (elles) atteignent
+
+** Imparfait
+
+que j'atteignisse
+que tu atteignisses
+qu’il (elle) atteignît
+que nous atteignissions
+que vous atteignissiez
+qu’ils (elles) atteignissent
+
+* IMPÉRATIF
+
+** Présent
+
+atteins
+atteignons
+atteignez
+
+* INFINITIF
+
+** Présent
+
+atteindre
+
+* PARTICIPE
+
+** Présent
+
+atteignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai atteint
+tu as atteint
+il (elle) a atteint
+nous avons atteint
+vous avez atteint
+ils (elles) ont atteint
+
+** Plus-que-parfait
+
+j'avais atteint
+tu avais atteint
+il (elle) avait atteint
+nous avions atteint
+vous aviez atteint
+ils (elles) avaient atteint
+
+** Passé antérieur
+
+j'eus atteint
+tu eus atteint
+il (elle) eut atteint
+nous eûmes atteint
+vous eûtes atteint
+ils (elles) eurent atteint
+
+** Futur antérieur
+
+j'aurai atteint
+tu auras atteint
+il (elle) aura atteint
+nous aurons atteint
+vous aurez atteint
+ils (elles) auront atteint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais atteint
+tu aurais atteint
+il (elle) aurait atteint
+nous aurions atteint
+vous auriez atteint
+ils (elles) auraient atteint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie atteint
+que tu aies atteint
+qu’il (elle) ait atteint
+que nous ayons atteint
+que vous ayez atteint
+qu’ils (elles) aient atteint
+
+** Plus-que-parfait
+
+que j'eusse atteint
+que tu eusses atteint
+qu’il (elle) eût atteint
+que nous eussions atteint
+que vous eussiez atteint
+qu’ils (elles) eussent atteint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons atteint
+ayez atteint
+
+* INFINITIF
+
+** Passé
+
+avoir atteint
+
+* PARTICIPE
+
+** Passé
+
+ayant atteint
+atteint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis atteint(e)
+tu es atteint(e)
+il (elle) est atteint(e)
+nous sommes atteint(e)s
+vous êtes atteint(e)s
+ils (elles) sont atteint(e)s
+
+** Imparfait
+
+j'étais atteint(e)
+tu étais atteint(e)
+il (elle) était atteint(e)
+nous étions atteint(e)s
+vous étiez atteint(e)s
+ils (elles) étaient atteint(e)s
+
+** Passé simple
+
+je fus atteint(e)
+tu fus atteint(e)
+il (elle) fut atteint(e)
+nous fûmes atteint(e)s
+vous fûtes atteint(e)s
+ils (elles) furent atteint(e)s
+
+** Futur simple
+
+je serai atteint(e)
+tu seras atteint(e)
+il (elle) sera atteint(e)
+nous serons atteint(e)s
+vous serez atteint(e)s
+ils (elles) seront atteint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais atteint(e)
+tu serais atteint(e)
+il (elle) serait atteint(e)
+nous serions atteint(e)s
+vous seriez atteint(e)s
+ils (elles) seraient atteint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois atteint(e)
+que tu sois atteint(e)
+qu’il (elle) soit atteint(e)
+que nous soyons atteint(e)s
+que vous soyez atteint(e)s
+qu’ils (elles) soient atteint(e)s
+
+** Imparfait
+
+que je fusse atteint(e)
+que tu fusses atteint(e)
+qu’il (elle) fût atteint(e)
+que nous fussions atteint(e)s
+que vous fussiez atteint(e)s
+qu’ils (elles) fussent atteint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons atteint(e)s
+soyez atteint(e)s
+
+* INFINITIF
+
+** Présent
+
+être atteint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant atteint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été atteint(e)
+tu as été atteint(e)
+il (elle) a été atteint(e)
+nous avons été atteint(e)s
+vous avez été atteint(e)s
+ils (elles) ont été atteint(e)s
+
+** Plus-que-parfait
+
+j'avais été atteint(e)
+il (elle) avait été atteint(e)
+nous avions été atteint(e)s
+ils (elles) avaient été atteint(e)s
+
+** Passé antérieur
+
+j'eus été atteint(e)
+tu eus été atteint(e)
+il (elle) eut été atteint(e)
+nous eûmes été atteint(e)s
+vous eûtes été atteint(e)s
+ils (elles) eurent été atteint(e)s
+
+** Futur antérieur
+
+j'aurai été atteint(e)
+tu auras été atteint(e)
+il (elle) aura été atteint(e)
+nous aurons été atteint(e)s
+vous aurez été atteint(e)s
+ils (elles) auront été atteint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été atteint(e)
+j'aurais été atteint(e)
+il (elle) aurait été atteint(e)
+nous aurions été atteint(e)s
+vous auriez été atteint(e)s
+ils (elles) auraient été atteint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été atteint(e)
+que tu aies été atteint(e)
+qu’il (elle) ait été atteint(e)
+que nous ayons été atteint(e)s
+que vous ayez été atteint(e)s
+qu’ils (elles) aient été atteint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été atteint(e)
+que tu eusses été atteint(e)
+qu’il (elle) eût été atteint(e)
+que nous eussions été atteint(e)s
+que vous eussiez été atteint(e)s
+qu’ils (elles) eussent été atteint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été atteint(e)
+ayons été atteint(e)s
+ayez été atteint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été atteint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été atteint(e)(s)

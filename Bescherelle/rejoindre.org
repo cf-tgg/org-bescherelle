@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe rejoindre
+
+* INDICATIF
+
+** Présent
+
+je rejoins
+tu rejoins
+il (elle) rejoint
+nous rejoignons
+vous rejoignez
+ils (elles) rejoignent
+
+** Imparfait
+
+je rejoignais
+tu rejoignais
+il (elle) rejoignait
+nous rejoignions
+vous rejoigniez
+ils (elles) rejoignaient
+
+** Passé simple
+
+je rejoignis
+tu rejoignis
+il (elle) rejoignit
+nous rejoignîmes
+vous rejoignîtes
+ils (elles) rejoignirent
+
+** Futur simple
+
+je rejoindrai
+tu rejoindras
+il (elle) rejoindra
+nous rejoindrons
+vous rejoindrez
+ils (elles) rejoindront
+
+* CONDITIONNEL
+
+** Présent
+
+je rejoindrais
+tu rejoindrais
+il (elle) rejoindrait
+nous rejoindrions
+vous rejoindriez
+ils (elles) rejoindraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rejoigne
+que tu rejoignes
+qu’il (elle) rejoigne
+que nous rejoignions
+que vous rejoigniez
+qu’ils (elles) rejoignent
+
+** Imparfait
+
+que je rejoignisse
+que tu rejoignisses
+qu’il (elle) rejoignît
+que nous rejoignissions
+que vous rejoignissiez
+qu’ils (elles) rejoignissent
+
+* IMPÉRATIF
+
+** Présent
+
+rejoins
+rejoignons
+rejoignez
+
+* INFINITIF
+
+** Présent
+
+rejoindre
+
+* PARTICIPE
+
+** Présent
+
+rejoignant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rejoint
+tu as rejoint
+il (elle) a rejoint
+nous avons rejoint
+vous avez rejoint
+ils (elles) ont rejoint
+
+** Plus-que-parfait
+
+j'avais rejoint
+tu avais rejoint
+il (elle) avait rejoint
+nous avions rejoint
+vous aviez rejoint
+ils (elles) avaient rejoint
+
+** Passé antérieur
+
+j'eus rejoint
+tu eus rejoint
+il (elle) eut rejoint
+nous eûmes rejoint
+vous eûtes rejoint
+ils (elles) eurent rejoint
+
+** Futur antérieur
+
+j'aurai rejoint
+tu auras rejoint
+il (elle) aura rejoint
+nous aurons rejoint
+vous aurez rejoint
+ils (elles) auront rejoint
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rejoint
+tu aurais rejoint
+il (elle) aurait rejoint
+nous aurions rejoint
+vous auriez rejoint
+ils (elles) auraient rejoint
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rejoint
+que tu aies rejoint
+qu’il (elle) ait rejoint
+que nous ayons rejoint
+que vous ayez rejoint
+qu’ils (elles) aient rejoint
+
+** Plus-que-parfait
+
+que j'eusse rejoint
+que tu eusses rejoint
+qu’il (elle) eût rejoint
+que nous eussions rejoint
+que vous eussiez rejoint
+qu’ils (elles) eussent rejoint
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rejoint
+ayez rejoint
+
+* INFINITIF
+
+** Passé
+
+avoir rejoint
+
+* PARTICIPE
+
+** Passé
+
+ayant rejoint
+rejoint (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis rejoint(e)
+tu es rejoint(e)
+il (elle) est rejoint(e)
+nous sommes rejoint(e)s
+vous êtes rejoint(e)s
+ils (elles) sont rejoint(e)s
+
+** Imparfait
+
+j'étais rejoint(e)
+tu étais rejoint(e)
+il (elle) était rejoint(e)
+nous étions rejoint(e)s
+vous étiez rejoint(e)s
+ils (elles) étaient rejoint(e)s
+
+** Passé simple
+
+je fus rejoint(e)
+tu fus rejoint(e)
+il (elle) fut rejoint(e)
+nous fûmes rejoint(e)s
+vous fûtes rejoint(e)s
+ils (elles) furent rejoint(e)s
+
+** Futur simple
+
+je serai rejoint(e)
+tu seras rejoint(e)
+il (elle) sera rejoint(e)
+nous serons rejoint(e)s
+vous serez rejoint(e)s
+ils (elles) seront rejoint(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais rejoint(e)
+tu serais rejoint(e)
+il (elle) serait rejoint(e)
+nous serions rejoint(e)s
+vous seriez rejoint(e)s
+ils (elles) seraient rejoint(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois rejoint(e)
+que tu sois rejoint(e)
+qu’il (elle) soit rejoint(e)
+que nous soyons rejoint(e)s
+que vous soyez rejoint(e)s
+qu’ils (elles) soient rejoint(e)s
+
+** Imparfait
+
+que je fusse rejoint(e)
+que tu fusses rejoint(e)
+qu’il (elle) fût rejoint(e)
+que nous fussions rejoint(e)s
+que vous fussiez rejoint(e)s
+qu’ils (elles) fussent rejoint(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons rejoint(e)s
+soyez rejoint(e)s
+
+* INFINITIF
+
+** Présent
+
+être rejoint(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant rejoint(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été rejoint(e)
+tu as été rejoint(e)
+il (elle) a été rejoint(e)
+nous avons été rejoint(e)s
+vous avez été rejoint(e)s
+ils (elles) ont été rejoint(e)s
+
+** Plus-que-parfait
+
+j'avais été rejoint(e)
+il (elle) avait été rejoint(e)
+nous avions été rejoint(e)s
+ils (elles) avaient été rejoint(e)s
+
+** Passé antérieur
+
+j'eus été rejoint(e)
+tu eus été rejoint(e)
+il (elle) eut été rejoint(e)
+nous eûmes été rejoint(e)s
+vous eûtes été rejoint(e)s
+ils (elles) eurent été rejoint(e)s
+
+** Futur antérieur
+
+j'aurai été rejoint(e)
+tu auras été rejoint(e)
+il (elle) aura été rejoint(e)
+nous aurons été rejoint(e)s
+vous aurez été rejoint(e)s
+ils (elles) auront été rejoint(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été rejoint(e)
+j'aurais été rejoint(e)
+il (elle) aurait été rejoint(e)
+nous aurions été rejoint(e)s
+vous auriez été rejoint(e)s
+ils (elles) auraient été rejoint(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été rejoint(e)
+que tu aies été rejoint(e)
+qu’il (elle) ait été rejoint(e)
+que nous ayons été rejoint(e)s
+que vous ayez été rejoint(e)s
+qu’ils (elles) aient été rejoint(e)s
+
+** Plus-que-parfait
+
+que j'eusse été rejoint(e)
+que tu eusses été rejoint(e)
+qu’il (elle) eût été rejoint(e)
+que nous eussions été rejoint(e)s
+que vous eussiez été rejoint(e)s
+qu’ils (elles) eussent été rejoint(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été rejoint(e)
+ayons été rejoint(e)s
+ayez été rejoint(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été rejoint(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été rejoint(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe interrompre
+
+* INDICATIF
+
+** Présent
+
+j'interromps
+tu interromps
+il (elle) interrompt
+nous interrompons
+vous interrompez
+ils (elles) interrompent
+
+** Imparfait
+
+j'interrompais
+tu interrompais
+il (elle) interrompait
+nous interrompions
+vous interrompiez
+ils (elles) interrompaient
+
+** Passé simple
+
+j'interrompis
+tu interrompis
+il (elle) interrompit
+nous interrompîmes
+vous interrompîtes
+ils (elles) interrompirent
+
+** Futur simple
+
+j'interromprai
+tu interrompras
+il (elle) interrompra
+nous interromprons
+vous interromprez
+ils (elles) interrompront
+
+* CONDITIONNEL
+
+** Présent
+
+j'interromprais
+tu interromprais
+il (elle) interromprait
+nous interromprions
+vous interrompriez
+ils (elles) interrompraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'interrompe
+que tu interrompes
+qu’il (elle) interrompe
+que nous interrompions
+que vous interrompiez
+qu’ils (elles) interrompent
+
+** Imparfait
+
+que j'interrompisse
+que tu interrompisses
+qu’il (elle) interrompît
+que nous interrompissions
+que vous interrompissiez
+qu’ils (elles) interrompissent
+
+* IMPÉRATIF
+
+** Présent
+
+interromps
+interrompons
+interrompez
+
+* INFINITIF
+
+** Présent
+
+interrompre
+
+* PARTICIPE
+
+** Présent
+
+interrompant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai interrompu
+tu as interrompu
+il (elle) a interrompu
+nous avons interrompu
+vous avez interrompu
+ils (elles) ont interrompu
+
+** Plus-que-parfait
+
+j'avais interrompu
+tu avais interrompu
+il (elle) avait interrompu
+nous avions interrompu
+vous aviez interrompu
+ils (elles) avaient interrompu
+
+** Passé antérieur
+
+j'eus interrompu
+tu eus interrompu
+il (elle) eut interrompu
+nous eûmes interrompu
+vous eûtes interrompu
+ils (elles) eurent interrompu
+
+** Futur antérieur
+
+j'aurai interrompu
+tu auras interrompu
+il (elle) aura interrompu
+nous aurons interrompu
+vous aurez interrompu
+ils (elles) auront interrompu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais interrompu
+tu aurais interrompu
+il (elle) aurait interrompu
+nous aurions interrompu
+vous auriez interrompu
+ils (elles) auraient interrompu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie interrompu
+que tu aies interrompu
+qu’il (elle) ait interrompu
+que nous ayons interrompu
+que vous ayez interrompu
+qu’ils (elles) aient interrompu
+
+** Plus-que-parfait
+
+que j'eusse interrompu
+que tu eusses interrompu
+qu’il (elle) eût interrompu
+que nous eussions interrompu
+que vous eussiez interrompu
+qu’ils (elles) eussent interrompu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons interrompu
+ayez interrompu
+
+* INFINITIF
+
+** Passé
+
+avoir interrompu
+
+* PARTICIPE
+
+** Passé
+
+ayant interrompu
+interrompu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis interrompu(e)
+tu es interrompu(e)
+il (elle) est interrompu(e)
+nous sommes interrompu(e)s
+vous êtes interrompu(e)s
+ils (elles) sont interrompu(e)s
+
+** Imparfait
+
+j'étais interrompu(e)
+tu étais interrompu(e)
+il (elle) était interrompu(e)
+nous étions interrompu(e)s
+vous étiez interrompu(e)s
+ils (elles) étaient interrompu(e)s
+
+** Passé simple
+
+je fus interrompu(e)
+tu fus interrompu(e)
+il (elle) fut interrompu(e)
+nous fûmes interrompu(e)s
+vous fûtes interrompu(e)s
+ils (elles) furent interrompu(e)s
+
+** Futur simple
+
+je serai interrompu(e)
+tu seras interrompu(e)
+il (elle) sera interrompu(e)
+nous serons interrompu(e)s
+vous serez interrompu(e)s
+ils (elles) seront interrompu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais interrompu(e)
+tu serais interrompu(e)
+il (elle) serait interrompu(e)
+nous serions interrompu(e)s
+vous seriez interrompu(e)s
+ils (elles) seraient interrompu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois interrompu(e)
+que tu sois interrompu(e)
+qu’il (elle) soit interrompu(e)
+que nous soyons interrompu(e)s
+que vous soyez interrompu(e)s
+qu’ils (elles) soient interrompu(e)s
+
+** Imparfait
+
+que je fusse interrompu(e)
+que tu fusses interrompu(e)
+qu’il (elle) fût interrompu(e)
+que nous fussions interrompu(e)s
+que vous fussiez interrompu(e)s
+qu’ils (elles) fussent interrompu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons interrompu(e)s
+soyez interrompu(e)s
+
+* INFINITIF
+
+** Présent
+
+être interrompu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant interrompu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été interrompu(e)
+tu as été interrompu(e)
+il (elle) a été interrompu(e)
+nous avons été interrompu(e)s
+vous avez été interrompu(e)s
+ils (elles) ont été interrompu(e)s
+
+** Plus-que-parfait
+
+j'avais été interrompu(e)
+il (elle) avait été interrompu(e)
+nous avions été interrompu(e)s
+ils (elles) avaient été interrompu(e)s
+
+** Passé antérieur
+
+j'eus été interrompu(e)
+tu eus été interrompu(e)
+il (elle) eut été interrompu(e)
+nous eûmes été interrompu(e)s
+vous eûtes été interrompu(e)s
+ils (elles) eurent été interrompu(e)s
+
+** Futur antérieur
+
+j'aurai été interrompu(e)
+tu auras été interrompu(e)
+il (elle) aura été interrompu(e)
+nous aurons été interrompu(e)s
+vous aurez été interrompu(e)s
+ils (elles) auront été interrompu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été interrompu(e)
+j'aurais été interrompu(e)
+il (elle) aurait été interrompu(e)
+nous aurions été interrompu(e)s
+vous auriez été interrompu(e)s
+ils (elles) auraient été interrompu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été interrompu(e)
+que tu aies été interrompu(e)
+qu’il (elle) ait été interrompu(e)
+que nous ayons été interrompu(e)s
+que vous ayez été interrompu(e)s
+qu’ils (elles) aient été interrompu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été interrompu(e)
+que tu eusses été interrompu(e)
+qu’il (elle) eût été interrompu(e)
+que nous eussions été interrompu(e)s
+que vous eussiez été interrompu(e)s
+qu’ils (elles) eussent été interrompu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été interrompu(e)
+ayons été interrompu(e)s
+ayez été interrompu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été interrompu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été interrompu(e)(s)

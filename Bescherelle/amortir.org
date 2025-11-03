@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe amortir
+
+* INDICATIF
+
+** Présent
+
+j'amortis
+tu amortis
+il (elle) amortit
+nous amortissons
+vous amortissez
+ils (elles) amortissent
+
+** Imparfait
+
+j'amortissais
+tu amortissais
+il (elle) amortissait
+nous amortissions
+vous amortissiez
+ils (elles) amortissaient
+
+** Passé simple
+
+j'amortis
+tu amortis
+il (elle) amortit
+nous amortîmes
+vous amortîtes
+ils (elles) amortirent
+
+** Futur simple
+
+j'amortirai
+tu amortiras
+il (elle) amortira
+nous amortirons
+vous amortirez
+ils (elles) amortiront
+
+* CONDITIONNEL
+
+** Présent
+
+j'amortirais
+tu amortirais
+il (elle) amortirait
+nous amortirions
+vous amortiriez
+ils (elles) amortiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'amortisse
+que tu amortisses
+qu’il (elle) amortisse
+que nous amortissions
+que vous amortissiez
+qu’ils (elles) amortissent
+
+** Imparfait
+
+que j'amortisse
+que tu amortisses
+qu’il (elle) amortît
+que nous amortissions
+que vous amortissiez
+qu’ils (elles) amortissent
+
+* IMPÉRATIF
+
+** Présent
+
+amortis
+amortissons
+amortissez
+
+* INFINITIF
+
+** Présent
+
+amortir
+
+* PARTICIPE
+
+** Présent
+
+amortissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai amorti
+tu as amorti
+il (elle) a amorti
+nous avons amorti
+vous avez amorti
+ils (elles) ont amorti
+
+** Plus-que-parfait
+
+j'avais amorti
+tu avais amorti
+il (elle) avait amorti
+nous avions amorti
+vous aviez amorti
+ils (elles) avaient amorti
+
+** Passé antérieur
+
+j'eus amorti
+tu eus amorti
+il (elle) eut amorti
+nous eûmes amorti
+vous eûtes amorti
+ils (elles) eurent amorti
+
+** Futur antérieur
+
+j'aurai amorti
+tu auras amorti
+il (elle) aura amorti
+nous aurons amorti
+vous aurez amorti
+ils (elles) auront amorti
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais amorti
+tu aurais amorti
+il (elle) aurait amorti
+nous aurions amorti
+vous auriez amorti
+ils (elles) auraient amorti
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie amorti
+que tu aies amorti
+qu’il (elle) ait amorti
+que nous ayons amorti
+que vous ayez amorti
+qu’ils (elles) aient amorti
+
+** Plus-que-parfait
+
+que j'eusse amorti
+que tu eusses amorti
+qu’il (elle) eût amorti
+que nous eussions amorti
+que vous eussiez amorti
+qu’ils (elles) eussent amorti
+
+* IMPÉRATIF
+
+** Passé
+
+ayons amorti
+ayez amorti
+
+* INFINITIF
+
+** Passé
+
+avoir amorti
+
+* PARTICIPE
+
+** Passé
+
+ayant amorti
+amorti (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis amorti(e)
+tu es amorti(e)
+il (elle) est amorti(e)
+nous sommes amorti(e)s
+vous êtes amorti(e)s
+ils (elles) sont amorti(e)s
+
+** Imparfait
+
+j'étais amorti(e)
+tu étais amorti(e)
+il (elle) était amorti(e)
+nous étions amorti(e)s
+vous étiez amorti(e)s
+ils (elles) étaient amorti(e)s
+
+** Passé simple
+
+je fus amorti(e)
+tu fus amorti(e)
+il (elle) fut amorti(e)
+nous fûmes amorti(e)s
+vous fûtes amorti(e)s
+ils (elles) furent amorti(e)s
+
+** Futur simple
+
+je serai amorti(e)
+tu seras amorti(e)
+il (elle) sera amorti(e)
+nous serons amorti(e)s
+vous serez amorti(e)s
+ils (elles) seront amorti(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais amorti(e)
+tu serais amorti(e)
+il (elle) serait amorti(e)
+nous serions amorti(e)s
+vous seriez amorti(e)s
+ils (elles) seraient amorti(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois amorti(e)
+que tu sois amorti(e)
+qu’il (elle) soit amorti(e)
+que nous soyons amorti(e)s
+que vous soyez amorti(e)s
+qu’ils (elles) soient amorti(e)s
+
+** Imparfait
+
+que je fusse amorti(e)
+que tu fusses amorti(e)
+qu’il (elle) fût amorti(e)
+que nous fussions amorti(e)s
+que vous fussiez amorti(e)s
+qu’ils (elles) fussent amorti(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons amorti(e)s
+soyez amorti(e)s
+
+* INFINITIF
+
+** Présent
+
+être amorti(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant amorti(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été amorti(e)
+tu as été amorti(e)
+il (elle) a été amorti(e)
+nous avons été amorti(e)s
+vous avez été amorti(e)s
+ils (elles) ont été amorti(e)s
+
+** Plus-que-parfait
+
+j'avais été amorti(e)
+il (elle) avait été amorti(e)
+nous avions été amorti(e)s
+ils (elles) avaient été amorti(e)s
+
+** Passé antérieur
+
+j'eus été amorti(e)
+tu eus été amorti(e)
+il (elle) eut été amorti(e)
+nous eûmes été amorti(e)s
+vous eûtes été amorti(e)s
+ils (elles) eurent été amorti(e)s
+
+** Futur antérieur
+
+j'aurai été amorti(e)
+tu auras été amorti(e)
+il (elle) aura été amorti(e)
+nous aurons été amorti(e)s
+vous aurez été amorti(e)s
+ils (elles) auront été amorti(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été amorti(e)
+j'aurais été amorti(e)
+il (elle) aurait été amorti(e)
+nous aurions été amorti(e)s
+vous auriez été amorti(e)s
+ils (elles) auraient été amorti(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été amorti(e)
+que tu aies été amorti(e)
+qu’il (elle) ait été amorti(e)
+que nous ayons été amorti(e)s
+que vous ayez été amorti(e)s
+qu’ils (elles) aient été amorti(e)s
+
+** Plus-que-parfait
+
+que j'eusse été amorti(e)
+que tu eusses été amorti(e)
+qu’il (elle) eût été amorti(e)
+que nous eussions été amorti(e)s
+que vous eussiez été amorti(e)s
+qu’ils (elles) eussent été amorti(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été amorti(e)
+ayons été amorti(e)s
+ayez été amorti(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été amorti(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été amorti(e)(s)

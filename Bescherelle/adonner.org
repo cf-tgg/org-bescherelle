@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe adonner
+
+* INDICATIF
+
+** Présent
+
+j'adonne
+tu adonnes
+il (elle) adonne
+nous adonnons
+vous adonnez
+ils (elles) adonnent
+
+** Imparfait
+
+j'adonnais
+tu adonnais
+il (elle) adonnait
+nous adonnions
+vous adonniez
+ils (elles) adonnaient
+
+** Passé simple
+
+j'adonnai
+tu adonnas
+il (elle) adonna
+nous adonnâmes
+vous adonnâtes
+ils (elles) adonnèrent
+
+** Futur simple
+
+j'adonnerai
+tu adonneras
+il (elle) adonnera
+nous adonnerons
+vous adonnerez
+ils (elles) adonneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adonnerais
+tu adonnerais
+il (elle) adonnerait
+nous adonnerions
+vous adonneriez
+ils (elles) adonneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adonne
+que tu adonnes
+qu’il (elle) adonne
+que nous adonnions
+que vous adonniez
+qu’ils (elles) adonnent
+
+** Imparfait
+
+que j'adonnasse
+que tu adonnasses
+qu’il (elle) adonnât
+que nous adonnassions
+que vous adonnassiez
+qu’ils (elles) adonnassent
+
+* IMPÉRATIF
+
+** Présent
+
+adonne
+adonnons
+adonnez
+
+* INFINITIF
+
+** Présent
+
+adonner
+
+* PARTICIPE
+
+** Présent
+
+adonnant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adonné
+tu as adonné
+il (elle) a adonné
+nous avons adonné
+vous avez adonné
+ils (elles) ont adonné
+
+** Plus-que-parfait
+
+j'avais adonné
+tu avais adonné
+il (elle) avait adonné
+nous avions adonné
+vous aviez adonné
+ils (elles) avaient adonné
+
+** Passé antérieur
+
+j'eus adonné
+tu eus adonné
+il (elle) eut adonné
+nous eûmes adonné
+vous eûtes adonné
+ils (elles) eurent adonné
+
+** Futur antérieur
+
+j'aurai adonné
+tu auras adonné
+il (elle) aura adonné
+nous aurons adonné
+vous aurez adonné
+ils (elles) auront adonné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adonné
+tu aurais adonné
+il (elle) aurait adonné
+nous aurions adonné
+vous auriez adonné
+ils (elles) auraient adonné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adonné
+que tu aies adonné
+qu’il (elle) ait adonné
+que nous ayons adonné
+que vous ayez adonné
+qu’ils (elles) aient adonné
+
+** Plus-que-parfait
+
+que j'eusse adonné
+que tu eusses adonné
+qu’il (elle) eût adonné
+que nous eussions adonné
+que vous eussiez adonné
+qu’ils (elles) eussent adonné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adonné
+ayez adonné
+
+* INFINITIF
+
+** Passé
+
+avoir adonné
+
+* PARTICIPE
+
+** Passé
+
+ayant adonné
+adonné (invar.)

@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe pater
+
+* INDICATIF
+
+** Présent
+
+je pâte
+tu pâtes
+il (elle) pâte
+nous pâtons
+vous pâtez
+ils (elles) pâtent
+
+** Imparfait
+
+je pâtais
+tu pâtais
+il (elle) pâtait
+nous pâtions
+vous pâtiez
+ils (elles) pâtaient
+
+** Passé simple
+
+je pâtai
+tu pâtas
+il (elle) pâta
+nous pâtâmes
+vous pâtâtes
+ils (elles) pâtèrent
+
+** Futur simple
+
+je pâterai
+tu pâteras
+il (elle) pâtera
+nous pâterons
+vous pâterez
+ils (elles) pâteront
+
+* CONDITIONNEL
+
+** Présent
+
+je pâterais
+tu pâterais
+il (elle) pâterait
+nous pâterions
+vous pâteriez
+ils (elles) pâteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je pâte
+que tu pâtes
+qu’il (elle) pâte
+que nous pâtions
+que vous pâtiez
+qu’ils (elles) pâtent
+
+** Imparfait
+
+que je pâtasse
+que tu pâtasses
+qu’il (elle) pâtât
+que nous pâtassions
+que vous pâtassiez
+qu’ils (elles) pâtassent
+
+* IMPÉRATIF
+
+** Présent
+
+pâte
+pâtons
+pâtez
+
+* INFINITIF
+
+** Présent
+
+pâter
+
+* PARTICIPE
+
+** Présent
+
+pâtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai pâté
+tu as pâté
+il (elle) a pâté
+nous avons pâté
+vous avez pâté
+ils (elles) ont pâté
+
+** Plus-que-parfait
+
+j'avais pâté
+tu avais pâté
+il (elle) avait pâté
+nous avions pâté
+vous aviez pâté
+ils (elles) avaient pâté
+
+** Passé antérieur
+
+j'eus pâté
+tu eus pâté
+il (elle) eut pâté
+nous eûmes pâté
+vous eûtes pâté
+ils (elles) eurent pâté
+
+** Futur antérieur
+
+j'aurai pâté
+tu auras pâté
+il (elle) aura pâté
+nous aurons pâté
+vous aurez pâté
+ils (elles) auront pâté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais pâté
+tu aurais pâté
+il (elle) aurait pâté
+nous aurions pâté
+vous auriez pâté
+ils (elles) auraient pâté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie pâté
+que tu aies pâté
+qu’il (elle) ait pâté
+que nous ayons pâté
+que vous ayez pâté
+qu’ils (elles) aient pâté
+
+** Plus-que-parfait
+
+que j'eusse pâté
+que tu eusses pâté
+qu’il (elle) eût pâté
+que nous eussions pâté
+que vous eussiez pâté
+qu’ils (elles) eussent pâté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons pâté
+ayez pâté
+
+* INFINITIF
+
+** Passé
+
+avoir pâté
+
+* PARTICIPE
+
+** Passé
+
+ayant pâté
+pâté (invar.)

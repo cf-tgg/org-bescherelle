@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe signifier
+
+* INDICATIF
+
+** Présent
+
+je signifie
+tu signifies
+il (elle) signifie
+nous signifions
+vous signifiez
+ils (elles) signifient
+
+** Imparfait
+
+je signifiais
+tu signifiais
+il (elle) signifiait
+nous signifiions
+vous signifiiez
+ils (elles) signifiaient
+
+** Passé simple
+
+je signifiai
+tu signifias
+il (elle) signifia
+nous signifiâmes
+vous signifiâtes
+ils (elles) signifièrent
+
+** Futur simple
+
+je signifierai
+tu signifieras
+il (elle) signifiera
+nous signifierons
+vous signifierez
+ils (elles) signifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je signifierais
+tu signifierais
+il (elle) signifierait
+nous signifierions
+vous signifieriez
+ils (elles) signifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je signifie
+que tu signifies
+qu’il (elle) signifie
+que nous signifiions
+que vous signifiiez
+qu’ils (elles) signifient
+
+** Imparfait
+
+que je signifiasse
+que tu signifiasses
+qu’il (elle) signifiât
+que nous signifiassions
+que vous signifiassiez
+qu’ils (elles) signifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+signifie
+signifions
+signifiez
+
+* INFINITIF
+
+** Présent
+
+signifier
+
+* PARTICIPE
+
+** Présent
+
+signifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai signifié
+tu as signifié
+il (elle) a signifié
+nous avons signifié
+vous avez signifié
+ils (elles) ont signifié
+
+** Plus-que-parfait
+
+j'avais signifié
+tu avais signifié
+il (elle) avait signifié
+nous avions signifié
+vous aviez signifié
+ils (elles) avaient signifié
+
+** Passé antérieur
+
+j'eus signifié
+tu eus signifié
+il (elle) eut signifié
+nous eûmes signifié
+vous eûtes signifié
+ils (elles) eurent signifié
+
+** Futur antérieur
+
+j'aurai signifié
+tu auras signifié
+il (elle) aura signifié
+nous aurons signifié
+vous aurez signifié
+ils (elles) auront signifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais signifié
+tu aurais signifié
+il (elle) aurait signifié
+nous aurions signifié
+vous auriez signifié
+ils (elles) auraient signifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie signifié
+que tu aies signifié
+qu’il (elle) ait signifié
+que nous ayons signifié
+que vous ayez signifié
+qu’ils (elles) aient signifié
+
+** Plus-que-parfait
+
+que j'eusse signifié
+que tu eusses signifié
+qu’il (elle) eût signifié
+que nous eussions signifié
+que vous eussiez signifié
+qu’ils (elles) eussent signifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons signifié
+ayez signifié
+
+* INFINITIF
+
+** Passé
+
+avoir signifié
+
+* PARTICIPE
+
+** Passé
+
+ayant signifié
+signifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis signifié(e)
+tu es signifié(e)
+il (elle) est signifié(e)
+nous sommes signifié(e)s
+vous êtes signifié(e)s
+ils (elles) sont signifié(e)s
+
+** Imparfait
+
+j'étais signifié(e)
+tu étais signifié(e)
+il (elle) était signifié(e)
+nous étions signifié(e)s
+vous étiez signifié(e)s
+ils (elles) étaient signifié(e)s
+
+** Passé simple
+
+je fus signifié(e)
+tu fus signifié(e)
+il (elle) fut signifié(e)
+nous fûmes signifié(e)s
+vous fûtes signifié(e)s
+ils (elles) furent signifié(e)s
+
+** Futur simple
+
+je serai signifié(e)
+tu seras signifié(e)
+il (elle) sera signifié(e)
+nous serons signifié(e)s
+vous serez signifié(e)s
+ils (elles) seront signifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais signifié(e)
+tu serais signifié(e)
+il (elle) serait signifié(e)
+nous serions signifié(e)s
+vous seriez signifié(e)s
+ils (elles) seraient signifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois signifié(e)
+que tu sois signifié(e)
+qu’il (elle) soit signifié(e)
+que nous soyons signifié(e)s
+que vous soyez signifié(e)s
+qu’ils (elles) soient signifié(e)s
+
+** Imparfait
+
+que je fusse signifié(e)
+que tu fusses signifié(e)
+qu’il (elle) fût signifié(e)
+que nous fussions signifié(e)s
+que vous fussiez signifié(e)s
+qu’ils (elles) fussent signifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons signifié(e)s
+soyez signifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être signifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant signifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été signifié(e)
+tu as été signifié(e)
+il (elle) a été signifié(e)
+nous avons été signifié(e)s
+vous avez été signifié(e)s
+ils (elles) ont été signifié(e)s
+
+** Plus-que-parfait
+
+j'avais été signifié(e)
+il (elle) avait été signifié(e)
+nous avions été signifié(e)s
+ils (elles) avaient été signifié(e)s
+
+** Passé antérieur
+
+j'eus été signifié(e)
+tu eus été signifié(e)
+il (elle) eut été signifié(e)
+nous eûmes été signifié(e)s
+vous eûtes été signifié(e)s
+ils (elles) eurent été signifié(e)s
+
+** Futur antérieur
+
+j'aurai été signifié(e)
+tu auras été signifié(e)
+il (elle) aura été signifié(e)
+nous aurons été signifié(e)s
+vous aurez été signifié(e)s
+ils (elles) auront été signifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été signifié(e)
+j'aurais été signifié(e)
+il (elle) aurait été signifié(e)
+nous aurions été signifié(e)s
+vous auriez été signifié(e)s
+ils (elles) auraient été signifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été signifié(e)
+que tu aies été signifié(e)
+qu’il (elle) ait été signifié(e)
+que nous ayons été signifié(e)s
+que vous ayez été signifié(e)s
+qu’ils (elles) aient été signifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été signifié(e)
+que tu eusses été signifié(e)
+qu’il (elle) eût été signifié(e)
+que nous eussions été signifié(e)s
+que vous eussiez été signifié(e)s
+qu’ils (elles) eussent été signifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été signifié(e)
+ayons été signifié(e)s
+ayez été signifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été signifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été signifié(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mater
+
+* INDICATIF
+
+** Présent
+
+je mate
+tu mates
+il (elle) mate
+nous matons
+vous matez
+ils (elles) matent
+
+** Imparfait
+
+je matais
+tu matais
+il (elle) matait
+nous mations
+vous matiez
+ils (elles) mataient
+
+** Passé simple
+
+je matai
+tu matas
+il (elle) mata
+nous matâmes
+vous matâtes
+ils (elles) matèrent
+
+** Futur simple
+
+je materai
+tu materas
+il (elle) matera
+nous materons
+vous materez
+ils (elles) materont
+
+* CONDITIONNEL
+
+** Présent
+
+je materais
+tu materais
+il (elle) materait
+nous materions
+vous materiez
+ils (elles) materaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mate
+que tu mates
+qu’il (elle) mate
+que nous mations
+que vous matiez
+qu’ils (elles) matent
+
+** Imparfait
+
+que je matasse
+que tu matasses
+qu’il (elle) matât
+que nous matassions
+que vous matassiez
+qu’ils (elles) matassent
+
+* IMPÉRATIF
+
+** Présent
+
+mate
+matons
+matez
+
+* INFINITIF
+
+** Présent
+
+mater
+
+* PARTICIPE
+
+** Présent
+
+matant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai maté
+tu as maté
+il (elle) a maté
+nous avons maté
+vous avez maté
+ils (elles) ont maté
+
+** Plus-que-parfait
+
+j'avais maté
+tu avais maté
+il (elle) avait maté
+nous avions maté
+vous aviez maté
+ils (elles) avaient maté
+
+** Passé antérieur
+
+j'eus maté
+tu eus maté
+il (elle) eut maté
+nous eûmes maté
+vous eûtes maté
+ils (elles) eurent maté
+
+** Futur antérieur
+
+j'aurai maté
+tu auras maté
+il (elle) aura maté
+nous aurons maté
+vous aurez maté
+ils (elles) auront maté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais maté
+tu aurais maté
+il (elle) aurait maté
+nous aurions maté
+vous auriez maté
+ils (elles) auraient maté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie maté
+que tu aies maté
+qu’il (elle) ait maté
+que nous ayons maté
+que vous ayez maté
+qu’ils (elles) aient maté
+
+** Plus-que-parfait
+
+que j'eusse maté
+que tu eusses maté
+qu’il (elle) eût maté
+que nous eussions maté
+que vous eussiez maté
+qu’ils (elles) eussent maté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons maté
+ayez maté
+
+* INFINITIF
+
+** Passé
+
+avoir maté
+
+* PARTICIPE
+
+** Passé
+
+ayant maté
+maté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis maté(e)
+tu es maté(e)
+il (elle) est maté(e)
+nous sommes maté(e)s
+vous êtes maté(e)s
+ils (elles) sont maté(e)s
+
+** Imparfait
+
+j'étais maté(e)
+tu étais maté(e)
+il (elle) était maté(e)
+nous étions maté(e)s
+vous étiez maté(e)s
+ils (elles) étaient maté(e)s
+
+** Passé simple
+
+je fus maté(e)
+tu fus maté(e)
+il (elle) fut maté(e)
+nous fûmes maté(e)s
+vous fûtes maté(e)s
+ils (elles) furent maté(e)s
+
+** Futur simple
+
+je serai maté(e)
+tu seras maté(e)
+il (elle) sera maté(e)
+nous serons maté(e)s
+vous serez maté(e)s
+ils (elles) seront maté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais maté(e)
+tu serais maté(e)
+il (elle) serait maté(e)
+nous serions maté(e)s
+vous seriez maté(e)s
+ils (elles) seraient maté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois maté(e)
+que tu sois maté(e)
+qu’il (elle) soit maté(e)
+que nous soyons maté(e)s
+que vous soyez maté(e)s
+qu’ils (elles) soient maté(e)s
+
+** Imparfait
+
+que je fusse maté(e)
+que tu fusses maté(e)
+qu’il (elle) fût maté(e)
+que nous fussions maté(e)s
+que vous fussiez maté(e)s
+qu’ils (elles) fussent maté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons maté(e)s
+soyez maté(e)s
+
+* INFINITIF
+
+** Présent
+
+être maté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant maté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été maté(e)
+tu as été maté(e)
+il (elle) a été maté(e)
+nous avons été maté(e)s
+vous avez été maté(e)s
+ils (elles) ont été maté(e)s
+
+** Plus-que-parfait
+
+j'avais été maté(e)
+il (elle) avait été maté(e)
+nous avions été maté(e)s
+ils (elles) avaient été maté(e)s
+
+** Passé antérieur
+
+j'eus été maté(e)
+tu eus été maté(e)
+il (elle) eut été maté(e)
+nous eûmes été maté(e)s
+vous eûtes été maté(e)s
+ils (elles) eurent été maté(e)s
+
+** Futur antérieur
+
+j'aurai été maté(e)
+tu auras été maté(e)
+il (elle) aura été maté(e)
+nous aurons été maté(e)s
+vous aurez été maté(e)s
+ils (elles) auront été maté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été maté(e)
+j'aurais été maté(e)
+il (elle) aurait été maté(e)
+nous aurions été maté(e)s
+vous auriez été maté(e)s
+ils (elles) auraient été maté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été maté(e)
+que tu aies été maté(e)
+qu’il (elle) ait été maté(e)
+que nous ayons été maté(e)s
+que vous ayez été maté(e)s
+qu’ils (elles) aient été maté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été maté(e)
+que tu eusses été maté(e)
+qu’il (elle) eût été maté(e)
+que nous eussions été maté(e)s
+que vous eussiez été maté(e)s
+qu’ils (elles) eussent été maté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été maté(e)
+ayons été maté(e)s
+ayez été maté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été maté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été maté(e)(s)

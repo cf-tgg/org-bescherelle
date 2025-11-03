@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe attiser
+
+* INDICATIF
+
+** Présent
+
+j'attise
+tu attises
+il (elle) attise
+nous attisons
+vous attisez
+ils (elles) attisent
+
+** Imparfait
+
+j'attisais
+tu attisais
+il (elle) attisait
+nous attisions
+vous attisiez
+ils (elles) attisaient
+
+** Passé simple
+
+j'attisai
+tu attisas
+il (elle) attisa
+nous attisâmes
+vous attisâtes
+ils (elles) attisèrent
+
+** Futur simple
+
+j'attiserai
+tu attiseras
+il (elle) attisera
+nous attiserons
+vous attiserez
+ils (elles) attiseront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attiserais
+tu attiserais
+il (elle) attiserait
+nous attiserions
+vous attiseriez
+ils (elles) attiseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attise
+que tu attises
+qu’il (elle) attise
+que nous attisions
+que vous attisiez
+qu’ils (elles) attisent
+
+** Imparfait
+
+que j'attisasse
+que tu attisasses
+qu’il (elle) attisât
+que nous attisassions
+que vous attisassiez
+qu’ils (elles) attisassent
+
+* IMPÉRATIF
+
+** Présent
+
+attise
+attisons
+attisez
+
+* INFINITIF
+
+** Présent
+
+attiser
+
+* PARTICIPE
+
+** Présent
+
+attisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attisé
+tu as attisé
+il (elle) a attisé
+nous avons attisé
+vous avez attisé
+ils (elles) ont attisé
+
+** Plus-que-parfait
+
+j'avais attisé
+tu avais attisé
+il (elle) avait attisé
+nous avions attisé
+vous aviez attisé
+ils (elles) avaient attisé
+
+** Passé antérieur
+
+j'eus attisé
+tu eus attisé
+il (elle) eut attisé
+nous eûmes attisé
+vous eûtes attisé
+ils (elles) eurent attisé
+
+** Futur antérieur
+
+j'aurai attisé
+tu auras attisé
+il (elle) aura attisé
+nous aurons attisé
+vous aurez attisé
+ils (elles) auront attisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attisé
+tu aurais attisé
+il (elle) aurait attisé
+nous aurions attisé
+vous auriez attisé
+ils (elles) auraient attisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attisé
+que tu aies attisé
+qu’il (elle) ait attisé
+que nous ayons attisé
+que vous ayez attisé
+qu’ils (elles) aient attisé
+
+** Plus-que-parfait
+
+que j'eusse attisé
+que tu eusses attisé
+qu’il (elle) eût attisé
+que nous eussions attisé
+que vous eussiez attisé
+qu’ils (elles) eussent attisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attisé
+ayez attisé
+
+* INFINITIF
+
+** Passé
+
+avoir attisé
+
+* PARTICIPE
+
+** Passé
+
+ayant attisé
+attisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attisé(e)
+tu es attisé(e)
+il (elle) est attisé(e)
+nous sommes attisé(e)s
+vous êtes attisé(e)s
+ils (elles) sont attisé(e)s
+
+** Imparfait
+
+j'étais attisé(e)
+tu étais attisé(e)
+il (elle) était attisé(e)
+nous étions attisé(e)s
+vous étiez attisé(e)s
+ils (elles) étaient attisé(e)s
+
+** Passé simple
+
+je fus attisé(e)
+tu fus attisé(e)
+il (elle) fut attisé(e)
+nous fûmes attisé(e)s
+vous fûtes attisé(e)s
+ils (elles) furent attisé(e)s
+
+** Futur simple
+
+je serai attisé(e)
+tu seras attisé(e)
+il (elle) sera attisé(e)
+nous serons attisé(e)s
+vous serez attisé(e)s
+ils (elles) seront attisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attisé(e)
+tu serais attisé(e)
+il (elle) serait attisé(e)
+nous serions attisé(e)s
+vous seriez attisé(e)s
+ils (elles) seraient attisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attisé(e)
+que tu sois attisé(e)
+qu’il (elle) soit attisé(e)
+que nous soyons attisé(e)s
+que vous soyez attisé(e)s
+qu’ils (elles) soient attisé(e)s
+
+** Imparfait
+
+que je fusse attisé(e)
+que tu fusses attisé(e)
+qu’il (elle) fût attisé(e)
+que nous fussions attisé(e)s
+que vous fussiez attisé(e)s
+qu’ils (elles) fussent attisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attisé(e)s
+soyez attisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être attisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attisé(e)
+tu as été attisé(e)
+il (elle) a été attisé(e)
+nous avons été attisé(e)s
+vous avez été attisé(e)s
+ils (elles) ont été attisé(e)s
+
+** Plus-que-parfait
+
+j'avais été attisé(e)
+il (elle) avait été attisé(e)
+nous avions été attisé(e)s
+ils (elles) avaient été attisé(e)s
+
+** Passé antérieur
+
+j'eus été attisé(e)
+tu eus été attisé(e)
+il (elle) eut été attisé(e)
+nous eûmes été attisé(e)s
+vous eûtes été attisé(e)s
+ils (elles) eurent été attisé(e)s
+
+** Futur antérieur
+
+j'aurai été attisé(e)
+tu auras été attisé(e)
+il (elle) aura été attisé(e)
+nous aurons été attisé(e)s
+vous aurez été attisé(e)s
+ils (elles) auront été attisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attisé(e)
+j'aurais été attisé(e)
+il (elle) aurait été attisé(e)
+nous aurions été attisé(e)s
+vous auriez été attisé(e)s
+ils (elles) auraient été attisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attisé(e)
+que tu aies été attisé(e)
+qu’il (elle) ait été attisé(e)
+que nous ayons été attisé(e)s
+que vous ayez été attisé(e)s
+qu’ils (elles) aient été attisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attisé(e)
+que tu eusses été attisé(e)
+qu’il (elle) eût été attisé(e)
+que nous eussions été attisé(e)s
+que vous eussiez été attisé(e)s
+qu’ils (elles) eussent été attisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attisé(e)
+ayons été attisé(e)s
+ayez été attisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attisé(e)(s)

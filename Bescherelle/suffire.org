@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe suffire
+
+* INDICATIF
+
+** Présent
+
+je suffis
+tu suffis
+il (elle) suffit
+nous suffisons
+vous suffisez
+ils (elles) suffisent
+
+** Imparfait
+
+je suffisais
+tu suffisais
+il (elle) suffisait
+nous suffisions
+vous suffisiez
+ils (elles) suffisaient
+
+** Passé simple
+
+je suffis
+tu suffis
+il (elle) suffit
+nous suffîmes
+vous suffîtes
+ils (elles) suffirent
+
+** Futur simple
+
+je suffirai
+tu suffiras
+il (elle) suffira
+nous suffirons
+vous suffirez
+ils (elles) suffiront
+
+* CONDITIONNEL
+
+** Présent
+
+je suffirais
+tu suffirais
+il (elle) suffirait
+nous suffirions
+vous suffiriez
+ils (elles) suffiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je suffise
+que tu suffises
+qu’il (elle) suffise
+que nous suffisions
+que vous suffisiez
+qu’ils (elles) suffisent
+
+** Imparfait
+
+que je suffisse
+que tu suffisses
+qu’il (elle) suffît
+que nous suffissions
+que vous suffissiez
+qu’ils (elles) suffissent
+
+* IMPÉRATIF
+
+** Présent
+
+suffis
+suffisons
+suffisez
+
+* INFINITIF
+
+** Présent
+
+suffire
+
+* PARTICIPE
+
+** Présent
+
+suffisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai suffi
+tu as suffi
+il (elle) a suffi
+nous avons suffi
+vous avez suffi
+ils (elles) ont suffi
+
+** Plus-que-parfait
+
+j'avais suffi
+tu avais suffi
+il (elle) avait suffi
+nous avions suffi
+vous aviez suffi
+ils (elles) avaient suffi
+
+** Passé antérieur
+
+j'eus suffi
+tu eus suffi
+il (elle) eut suffi
+nous eûmes suffi
+vous eûtes suffi
+ils (elles) eurent suffi
+
+** Futur antérieur
+
+j'aurai suffi
+tu auras suffi
+il (elle) aura suffi
+nous aurons suffi
+vous aurez suffi
+ils (elles) auront suffi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais suffi
+tu aurais suffi
+il (elle) aurait suffi
+nous aurions suffi
+vous auriez suffi
+ils (elles) auraient suffi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie suffi
+que tu aies suffi
+qu’il (elle) ait suffi
+que nous ayons suffi
+que vous ayez suffi
+qu’ils (elles) aient suffi
+
+** Plus-que-parfait
+
+que j'eusse suffi
+que tu eusses suffi
+qu’il (elle) eût suffi
+que nous eussions suffi
+que vous eussiez suffi
+qu’ils (elles) eussent suffi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons suffi
+ayez suffi
+
+* INFINITIF
+
+** Passé
+
+avoir suffi
+
+* PARTICIPE
+
+** Passé
+
+ayant suffi
+suffi (invar.)

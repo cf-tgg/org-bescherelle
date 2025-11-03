@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe asservir
+
+* INDICATIF
+
+** Présent
+
+j'asservis
+tu asservis
+il (elle) asservit
+nous asservissons
+vous asservissez
+ils (elles) asservissent
+
+** Imparfait
+
+j'asservissais
+tu asservissais
+il (elle) asservissait
+nous asservissions
+vous asservissiez
+ils (elles) asservissaient
+
+** Passé simple
+
+j'asservis
+tu asservis
+il (elle) asservit
+nous asservîmes
+vous asservîtes
+ils (elles) asservirent
+
+** Futur simple
+
+j'asservirai
+tu asserviras
+il (elle) asservira
+nous asservirons
+vous asservirez
+ils (elles) asserviront
+
+* CONDITIONNEL
+
+** Présent
+
+j'asservirais
+tu asservirais
+il (elle) asservirait
+nous asservirions
+vous asserviriez
+ils (elles) asserviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'asservisse
+que tu asservisses
+qu’il (elle) asservisse
+que nous asservissions
+que vous asservissiez
+qu’ils (elles) asservissent
+
+** Imparfait
+
+que j'asservisse
+que tu asservisses
+qu’il (elle) asservît
+que nous asservissions
+que vous asservissiez
+qu’ils (elles) asservissent
+
+* IMPÉRATIF
+
+** Présent
+
+asservis
+asservissons
+asservissez
+
+* INFINITIF
+
+** Présent
+
+asservir
+
+* PARTICIPE
+
+** Présent
+
+asservissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai asservi
+tu as asservi
+il (elle) a asservi
+nous avons asservi
+vous avez asservi
+ils (elles) ont asservi
+
+** Plus-que-parfait
+
+j'avais asservi
+tu avais asservi
+il (elle) avait asservi
+nous avions asservi
+vous aviez asservi
+ils (elles) avaient asservi
+
+** Passé antérieur
+
+j'eus asservi
+tu eus asservi
+il (elle) eut asservi
+nous eûmes asservi
+vous eûtes asservi
+ils (elles) eurent asservi
+
+** Futur antérieur
+
+j'aurai asservi
+tu auras asservi
+il (elle) aura asservi
+nous aurons asservi
+vous aurez asservi
+ils (elles) auront asservi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais asservi
+tu aurais asservi
+il (elle) aurait asservi
+nous aurions asservi
+vous auriez asservi
+ils (elles) auraient asservi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie asservi
+que tu aies asservi
+qu’il (elle) ait asservi
+que nous ayons asservi
+que vous ayez asservi
+qu’ils (elles) aient asservi
+
+** Plus-que-parfait
+
+que j'eusse asservi
+que tu eusses asservi
+qu’il (elle) eût asservi
+que nous eussions asservi
+que vous eussiez asservi
+qu’ils (elles) eussent asservi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons asservi
+ayez asservi
+
+* INFINITIF
+
+** Passé
+
+avoir asservi
+
+* PARTICIPE
+
+** Passé
+
+ayant asservi
+asservi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis asservi(e)
+tu es asservi(e)
+il (elle) est asservi(e)
+nous sommes asservi(e)s
+vous êtes asservi(e)s
+ils (elles) sont asservi(e)s
+
+** Imparfait
+
+j'étais asservi(e)
+tu étais asservi(e)
+il (elle) était asservi(e)
+nous étions asservi(e)s
+vous étiez asservi(e)s
+ils (elles) étaient asservi(e)s
+
+** Passé simple
+
+je fus asservi(e)
+tu fus asservi(e)
+il (elle) fut asservi(e)
+nous fûmes asservi(e)s
+vous fûtes asservi(e)s
+ils (elles) furent asservi(e)s
+
+** Futur simple
+
+je serai asservi(e)
+tu seras asservi(e)
+il (elle) sera asservi(e)
+nous serons asservi(e)s
+vous serez asservi(e)s
+ils (elles) seront asservi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais asservi(e)
+tu serais asservi(e)
+il (elle) serait asservi(e)
+nous serions asservi(e)s
+vous seriez asservi(e)s
+ils (elles) seraient asservi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois asservi(e)
+que tu sois asservi(e)
+qu’il (elle) soit asservi(e)
+que nous soyons asservi(e)s
+que vous soyez asservi(e)s
+qu’ils (elles) soient asservi(e)s
+
+** Imparfait
+
+que je fusse asservi(e)
+que tu fusses asservi(e)
+qu’il (elle) fût asservi(e)
+que nous fussions asservi(e)s
+que vous fussiez asservi(e)s
+qu’ils (elles) fussent asservi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons asservi(e)s
+soyez asservi(e)s
+
+* INFINITIF
+
+** Présent
+
+être asservi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant asservi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été asservi(e)
+tu as été asservi(e)
+il (elle) a été asservi(e)
+nous avons été asservi(e)s
+vous avez été asservi(e)s
+ils (elles) ont été asservi(e)s
+
+** Plus-que-parfait
+
+j'avais été asservi(e)
+il (elle) avait été asservi(e)
+nous avions été asservi(e)s
+ils (elles) avaient été asservi(e)s
+
+** Passé antérieur
+
+j'eus été asservi(e)
+tu eus été asservi(e)
+il (elle) eut été asservi(e)
+nous eûmes été asservi(e)s
+vous eûtes été asservi(e)s
+ils (elles) eurent été asservi(e)s
+
+** Futur antérieur
+
+j'aurai été asservi(e)
+tu auras été asservi(e)
+il (elle) aura été asservi(e)
+nous aurons été asservi(e)s
+vous aurez été asservi(e)s
+ils (elles) auront été asservi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été asservi(e)
+j'aurais été asservi(e)
+il (elle) aurait été asservi(e)
+nous aurions été asservi(e)s
+vous auriez été asservi(e)s
+ils (elles) auraient été asservi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été asservi(e)
+que tu aies été asservi(e)
+qu’il (elle) ait été asservi(e)
+que nous ayons été asservi(e)s
+que vous ayez été asservi(e)s
+qu’ils (elles) aient été asservi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été asservi(e)
+que tu eusses été asservi(e)
+qu’il (elle) eût été asservi(e)
+que nous eussions été asservi(e)s
+que vous eussiez été asservi(e)s
+qu’ils (elles) eussent été asservi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été asservi(e)
+ayons été asservi(e)s
+ayez été asservi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été asservi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été asservi(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe cultiver
+
+* INDICATIF
+
+** Présent
+
+je cultive
+tu cultives
+il (elle) cultive
+nous cultivons
+vous cultivez
+ils (elles) cultivent
+
+** Imparfait
+
+je cultivais
+tu cultivais
+il (elle) cultivait
+nous cultivions
+vous cultiviez
+ils (elles) cultivaient
+
+** Passé simple
+
+je cultivai
+tu cultivas
+il (elle) cultiva
+nous cultivâmes
+vous cultivâtes
+ils (elles) cultivèrent
+
+** Futur simple
+
+je cultiverai
+tu cultiveras
+il (elle) cultivera
+nous cultiverons
+vous cultiverez
+ils (elles) cultiveront
+
+* CONDITIONNEL
+
+** Présent
+
+je cultiverais
+tu cultiverais
+il (elle) cultiverait
+nous cultiverions
+vous cultiveriez
+ils (elles) cultiveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cultive
+que tu cultives
+qu’il (elle) cultive
+que nous cultivions
+que vous cultiviez
+qu’ils (elles) cultivent
+
+** Imparfait
+
+que je cultivasse
+que tu cultivasses
+qu’il (elle) cultivât
+que nous cultivassions
+que vous cultivassiez
+qu’ils (elles) cultivassent
+
+* IMPÉRATIF
+
+** Présent
+
+cultive
+cultivons
+cultivez
+
+* INFINITIF
+
+** Présent
+
+cultiver
+
+* PARTICIPE
+
+** Présent
+
+cultivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cultivé
+tu as cultivé
+il (elle) a cultivé
+nous avons cultivé
+vous avez cultivé
+ils (elles) ont cultivé
+
+** Plus-que-parfait
+
+j'avais cultivé
+tu avais cultivé
+il (elle) avait cultivé
+nous avions cultivé
+vous aviez cultivé
+ils (elles) avaient cultivé
+
+** Passé antérieur
+
+j'eus cultivé
+tu eus cultivé
+il (elle) eut cultivé
+nous eûmes cultivé
+vous eûtes cultivé
+ils (elles) eurent cultivé
+
+** Futur antérieur
+
+j'aurai cultivé
+tu auras cultivé
+il (elle) aura cultivé
+nous aurons cultivé
+vous aurez cultivé
+ils (elles) auront cultivé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cultivé
+tu aurais cultivé
+il (elle) aurait cultivé
+nous aurions cultivé
+vous auriez cultivé
+ils (elles) auraient cultivé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cultivé
+que tu aies cultivé
+qu’il (elle) ait cultivé
+que nous ayons cultivé
+que vous ayez cultivé
+qu’ils (elles) aient cultivé
+
+** Plus-que-parfait
+
+que j'eusse cultivé
+que tu eusses cultivé
+qu’il (elle) eût cultivé
+que nous eussions cultivé
+que vous eussiez cultivé
+qu’ils (elles) eussent cultivé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cultivé
+ayez cultivé
+
+* INFINITIF
+
+** Passé
+
+avoir cultivé
+
+* PARTICIPE
+
+** Passé
+
+ayant cultivé
+cultivé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cultivé(e)
+tu es cultivé(e)
+il (elle) est cultivé(e)
+nous sommes cultivé(e)s
+vous êtes cultivé(e)s
+ils (elles) sont cultivé(e)s
+
+** Imparfait
+
+j'étais cultivé(e)
+tu étais cultivé(e)
+il (elle) était cultivé(e)
+nous étions cultivé(e)s
+vous étiez cultivé(e)s
+ils (elles) étaient cultivé(e)s
+
+** Passé simple
+
+je fus cultivé(e)
+tu fus cultivé(e)
+il (elle) fut cultivé(e)
+nous fûmes cultivé(e)s
+vous fûtes cultivé(e)s
+ils (elles) furent cultivé(e)s
+
+** Futur simple
+
+je serai cultivé(e)
+tu seras cultivé(e)
+il (elle) sera cultivé(e)
+nous serons cultivé(e)s
+vous serez cultivé(e)s
+ils (elles) seront cultivé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cultivé(e)
+tu serais cultivé(e)
+il (elle) serait cultivé(e)
+nous serions cultivé(e)s
+vous seriez cultivé(e)s
+ils (elles) seraient cultivé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cultivé(e)
+que tu sois cultivé(e)
+qu’il (elle) soit cultivé(e)
+que nous soyons cultivé(e)s
+que vous soyez cultivé(e)s
+qu’ils (elles) soient cultivé(e)s
+
+** Imparfait
+
+que je fusse cultivé(e)
+que tu fusses cultivé(e)
+qu’il (elle) fût cultivé(e)
+que nous fussions cultivé(e)s
+que vous fussiez cultivé(e)s
+qu’ils (elles) fussent cultivé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cultivé(e)s
+soyez cultivé(e)s
+
+* INFINITIF
+
+** Présent
+
+être cultivé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cultivé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cultivé(e)
+tu as été cultivé(e)
+il (elle) a été cultivé(e)
+nous avons été cultivé(e)s
+vous avez été cultivé(e)s
+ils (elles) ont été cultivé(e)s
+
+** Plus-que-parfait
+
+j'avais été cultivé(e)
+il (elle) avait été cultivé(e)
+nous avions été cultivé(e)s
+ils (elles) avaient été cultivé(e)s
+
+** Passé antérieur
+
+j'eus été cultivé(e)
+tu eus été cultivé(e)
+il (elle) eut été cultivé(e)
+nous eûmes été cultivé(e)s
+vous eûtes été cultivé(e)s
+ils (elles) eurent été cultivé(e)s
+
+** Futur antérieur
+
+j'aurai été cultivé(e)
+tu auras été cultivé(e)
+il (elle) aura été cultivé(e)
+nous aurons été cultivé(e)s
+vous aurez été cultivé(e)s
+ils (elles) auront été cultivé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cultivé(e)
+j'aurais été cultivé(e)
+il (elle) aurait été cultivé(e)
+nous aurions été cultivé(e)s
+vous auriez été cultivé(e)s
+ils (elles) auraient été cultivé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cultivé(e)
+que tu aies été cultivé(e)
+qu’il (elle) ait été cultivé(e)
+que nous ayons été cultivé(e)s
+que vous ayez été cultivé(e)s
+qu’ils (elles) aient été cultivé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cultivé(e)
+que tu eusses été cultivé(e)
+qu’il (elle) eût été cultivé(e)
+que nous eussions été cultivé(e)s
+que vous eussiez été cultivé(e)s
+qu’ils (elles) eussent été cultivé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cultivé(e)
+ayons été cultivé(e)s
+ayez été cultivé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cultivé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cultivé(e)(s)

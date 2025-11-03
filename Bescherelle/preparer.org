@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe preparer
+
+* INDICATIF
+
+** Présent
+
+je prépare
+tu prépares
+il (elle) prépare
+nous préparons
+vous préparez
+ils (elles) préparent
+
+** Imparfait
+
+je préparais
+tu préparais
+il (elle) préparait
+nous préparions
+vous prépariez
+ils (elles) préparaient
+
+** Passé simple
+
+je préparai
+tu préparas
+il (elle) prépara
+nous préparâmes
+vous préparâtes
+ils (elles) préparèrent
+
+** Futur simple
+
+je préparerai
+tu prépareras
+il (elle) préparera
+nous préparerons
+vous préparerez
+ils (elles) prépareront
+
+* CONDITIONNEL
+
+** Présent
+
+je préparerais
+tu préparerais
+il (elle) préparerait
+nous préparerions
+vous prépareriez
+ils (elles) prépareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je prépare
+que tu prépares
+qu’il (elle) prépare
+que nous préparions
+que vous prépariez
+qu’ils (elles) préparent
+
+** Imparfait
+
+que je préparasse
+que tu préparasses
+qu’il (elle) préparât
+que nous préparassions
+que vous préparassiez
+qu’ils (elles) préparassent
+
+* IMPÉRATIF
+
+** Présent
+
+prépare
+préparons
+préparez
+
+* INFINITIF
+
+** Présent
+
+préparer
+
+* PARTICIPE
+
+** Présent
+
+préparant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai préparé
+tu as préparé
+il (elle) a préparé
+nous avons préparé
+vous avez préparé
+ils (elles) ont préparé
+
+** Plus-que-parfait
+
+j'avais préparé
+tu avais préparé
+il (elle) avait préparé
+nous avions préparé
+vous aviez préparé
+ils (elles) avaient préparé
+
+** Passé antérieur
+
+j'eus préparé
+tu eus préparé
+il (elle) eut préparé
+nous eûmes préparé
+vous eûtes préparé
+ils (elles) eurent préparé
+
+** Futur antérieur
+
+j'aurai préparé
+tu auras préparé
+il (elle) aura préparé
+nous aurons préparé
+vous aurez préparé
+ils (elles) auront préparé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais préparé
+tu aurais préparé
+il (elle) aurait préparé
+nous aurions préparé
+vous auriez préparé
+ils (elles) auraient préparé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie préparé
+que tu aies préparé
+qu’il (elle) ait préparé
+que nous ayons préparé
+que vous ayez préparé
+qu’ils (elles) aient préparé
+
+** Plus-que-parfait
+
+que j'eusse préparé
+que tu eusses préparé
+qu’il (elle) eût préparé
+que nous eussions préparé
+que vous eussiez préparé
+qu’ils (elles) eussent préparé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons préparé
+ayez préparé
+
+* INFINITIF
+
+** Passé
+
+avoir préparé
+
+* PARTICIPE
+
+** Passé
+
+ayant préparé
+préparé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis préparé(e)
+tu es préparé(e)
+il (elle) est préparé(e)
+nous sommes préparé(e)s
+vous êtes préparé(e)s
+ils (elles) sont préparé(e)s
+
+** Imparfait
+
+j'étais préparé(e)
+tu étais préparé(e)
+il (elle) était préparé(e)
+nous étions préparé(e)s
+vous étiez préparé(e)s
+ils (elles) étaient préparé(e)s
+
+** Passé simple
+
+je fus préparé(e)
+tu fus préparé(e)
+il (elle) fut préparé(e)
+nous fûmes préparé(e)s
+vous fûtes préparé(e)s
+ils (elles) furent préparé(e)s
+
+** Futur simple
+
+je serai préparé(e)
+tu seras préparé(e)
+il (elle) sera préparé(e)
+nous serons préparé(e)s
+vous serez préparé(e)s
+ils (elles) seront préparé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais préparé(e)
+tu serais préparé(e)
+il (elle) serait préparé(e)
+nous serions préparé(e)s
+vous seriez préparé(e)s
+ils (elles) seraient préparé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois préparé(e)
+que tu sois préparé(e)
+qu’il (elle) soit préparé(e)
+que nous soyons préparé(e)s
+que vous soyez préparé(e)s
+qu’ils (elles) soient préparé(e)s
+
+** Imparfait
+
+que je fusse préparé(e)
+que tu fusses préparé(e)
+qu’il (elle) fût préparé(e)
+que nous fussions préparé(e)s
+que vous fussiez préparé(e)s
+qu’ils (elles) fussent préparé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons préparé(e)s
+soyez préparé(e)s
+
+* INFINITIF
+
+** Présent
+
+être préparé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant préparé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été préparé(e)
+tu as été préparé(e)
+il (elle) a été préparé(e)
+nous avons été préparé(e)s
+vous avez été préparé(e)s
+ils (elles) ont été préparé(e)s
+
+** Plus-que-parfait
+
+j'avais été préparé(e)
+il (elle) avait été préparé(e)
+nous avions été préparé(e)s
+ils (elles) avaient été préparé(e)s
+
+** Passé antérieur
+
+j'eus été préparé(e)
+tu eus été préparé(e)
+il (elle) eut été préparé(e)
+nous eûmes été préparé(e)s
+vous eûtes été préparé(e)s
+ils (elles) eurent été préparé(e)s
+
+** Futur antérieur
+
+j'aurai été préparé(e)
+tu auras été préparé(e)
+il (elle) aura été préparé(e)
+nous aurons été préparé(e)s
+vous aurez été préparé(e)s
+ils (elles) auront été préparé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été préparé(e)
+j'aurais été préparé(e)
+il (elle) aurait été préparé(e)
+nous aurions été préparé(e)s
+vous auriez été préparé(e)s
+ils (elles) auraient été préparé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été préparé(e)
+que tu aies été préparé(e)
+qu’il (elle) ait été préparé(e)
+que nous ayons été préparé(e)s
+que vous ayez été préparé(e)s
+qu’ils (elles) aient été préparé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été préparé(e)
+que tu eusses été préparé(e)
+qu’il (elle) eût été préparé(e)
+que nous eussions été préparé(e)s
+que vous eussiez été préparé(e)s
+qu’ils (elles) eussent été préparé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été préparé(e)
+ayons été préparé(e)s
+ayez été préparé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été préparé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été préparé(e)(s)

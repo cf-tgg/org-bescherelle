@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe egaler
+
+* INDICATIF
+
+** Présent
+
+j'égale
+tu égales
+il (elle) égale
+nous égalons
+vous égalez
+ils (elles) égalent
+
+** Imparfait
+
+j'égalais
+tu égalais
+il (elle) égalait
+nous égalions
+vous égaliez
+ils (elles) égalaient
+
+** Passé simple
+
+j'égalai
+tu égalas
+il (elle) égala
+nous égalâmes
+vous égalâtes
+ils (elles) égalèrent
+
+** Futur simple
+
+j'égalerai
+tu égaleras
+il (elle) égalera
+nous égalerons
+vous égalerez
+ils (elles) égaleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'égalerais
+tu égalerais
+il (elle) égalerait
+nous égalerions
+vous égaleriez
+ils (elles) égaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'égale
+que tu égales
+qu’il (elle) égale
+que nous égalions
+que vous égaliez
+qu’ils (elles) égalent
+
+** Imparfait
+
+que j'égalasse
+que tu égalasses
+qu’il (elle) égalât
+que nous égalassions
+que vous égalassiez
+qu’ils (elles) égalassent
+
+* IMPÉRATIF
+
+** Présent
+
+égale
+égalons
+égalez
+
+* INFINITIF
+
+** Présent
+
+égaler
+
+* PARTICIPE
+
+** Présent
+
+égalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai égalé
+tu as égalé
+il (elle) a égalé
+nous avons égalé
+vous avez égalé
+ils (elles) ont égalé
+
+** Plus-que-parfait
+
+j'avais égalé
+tu avais égalé
+il (elle) avait égalé
+nous avions égalé
+vous aviez égalé
+ils (elles) avaient égalé
+
+** Passé antérieur
+
+j'eus égalé
+tu eus égalé
+il (elle) eut égalé
+nous eûmes égalé
+vous eûtes égalé
+ils (elles) eurent égalé
+
+** Futur antérieur
+
+j'aurai égalé
+tu auras égalé
+il (elle) aura égalé
+nous aurons égalé
+vous aurez égalé
+ils (elles) auront égalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais égalé
+tu aurais égalé
+il (elle) aurait égalé
+nous aurions égalé
+vous auriez égalé
+ils (elles) auraient égalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie égalé
+que tu aies égalé
+qu’il (elle) ait égalé
+que nous ayons égalé
+que vous ayez égalé
+qu’ils (elles) aient égalé
+
+** Plus-que-parfait
+
+que j'eusse égalé
+que tu eusses égalé
+qu’il (elle) eût égalé
+que nous eussions égalé
+que vous eussiez égalé
+qu’ils (elles) eussent égalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons égalé
+ayez égalé
+
+* INFINITIF
+
+** Passé
+
+avoir égalé
+
+* PARTICIPE
+
+** Passé
+
+ayant égalé
+égalé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis égalé(e)
+tu es égalé(e)
+il (elle) est égalé(e)
+nous sommes égalé(e)s
+vous êtes égalé(e)s
+ils (elles) sont égalé(e)s
+
+** Imparfait
+
+j'étais égalé(e)
+tu étais égalé(e)
+il (elle) était égalé(e)
+nous étions égalé(e)s
+vous étiez égalé(e)s
+ils (elles) étaient égalé(e)s
+
+** Passé simple
+
+je fus égalé(e)
+tu fus égalé(e)
+il (elle) fut égalé(e)
+nous fûmes égalé(e)s
+vous fûtes égalé(e)s
+ils (elles) furent égalé(e)s
+
+** Futur simple
+
+je serai égalé(e)
+tu seras égalé(e)
+il (elle) sera égalé(e)
+nous serons égalé(e)s
+vous serez égalé(e)s
+ils (elles) seront égalé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais égalé(e)
+tu serais égalé(e)
+il (elle) serait égalé(e)
+nous serions égalé(e)s
+vous seriez égalé(e)s
+ils (elles) seraient égalé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois égalé(e)
+que tu sois égalé(e)
+qu’il (elle) soit égalé(e)
+que nous soyons égalé(e)s
+que vous soyez égalé(e)s
+qu’ils (elles) soient égalé(e)s
+
+** Imparfait
+
+que je fusse égalé(e)
+que tu fusses égalé(e)
+qu’il (elle) fût égalé(e)
+que nous fussions égalé(e)s
+que vous fussiez égalé(e)s
+qu’ils (elles) fussent égalé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons égalé(e)s
+soyez égalé(e)s
+
+* INFINITIF
+
+** Présent
+
+être égalé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant égalé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été égalé(e)
+tu as été égalé(e)
+il (elle) a été égalé(e)
+nous avons été égalé(e)s
+vous avez été égalé(e)s
+ils (elles) ont été égalé(e)s
+
+** Plus-que-parfait
+
+j'avais été égalé(e)
+il (elle) avait été égalé(e)
+nous avions été égalé(e)s
+ils (elles) avaient été égalé(e)s
+
+** Passé antérieur
+
+j'eus été égalé(e)
+tu eus été égalé(e)
+il (elle) eut été égalé(e)
+nous eûmes été égalé(e)s
+vous eûtes été égalé(e)s
+ils (elles) eurent été égalé(e)s
+
+** Futur antérieur
+
+j'aurai été égalé(e)
+tu auras été égalé(e)
+il (elle) aura été égalé(e)
+nous aurons été égalé(e)s
+vous aurez été égalé(e)s
+ils (elles) auront été égalé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été égalé(e)
+j'aurais été égalé(e)
+il (elle) aurait été égalé(e)
+nous aurions été égalé(e)s
+vous auriez été égalé(e)s
+ils (elles) auraient été égalé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été égalé(e)
+que tu aies été égalé(e)
+qu’il (elle) ait été égalé(e)
+que nous ayons été égalé(e)s
+que vous ayez été égalé(e)s
+qu’ils (elles) aient été égalé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été égalé(e)
+que tu eusses été égalé(e)
+qu’il (elle) eût été égalé(e)
+que nous eussions été égalé(e)s
+que vous eussiez été égalé(e)s
+qu’ils (elles) eussent été égalé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été égalé(e)
+ayons été égalé(e)s
+ayez été égalé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été égalé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été égalé(e)(s)

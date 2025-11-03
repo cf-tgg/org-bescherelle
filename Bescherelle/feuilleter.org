@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe feuilleter
+
+* INDICATIF
+
+** Présent
+
+je feuillette
+tu feuillettes
+il (elle) feuillette
+nous feuilletons
+vous feuilletez
+ils (elles) feuillettent
+
+** Imparfait
+
+je feuilletais
+tu feuilletais
+il (elle) feuilletait
+nous feuilletions
+vous feuilletiez
+ils (elles) feuilletaient
+
+** Passé simple
+
+je feuilletai
+tu feuilletas
+il (elle) feuilleta
+nous feuilletâmes
+vous feuilletâtes
+ils (elles) feuilletèrent
+
+** Futur simple
+
+je feuilletterai
+tu feuilletteras
+il (elle) feuillettera
+nous feuilletterons
+vous feuilletterez
+ils (elles) feuilletteront
+
+* CONDITIONNEL
+
+** Présent
+
+je feuilletterais
+tu feuilletterais
+il (elle) feuilletterait
+nous feuilletterions
+vous feuilletteriez
+ils (elles) feuilletteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je feuillette
+que tu feuillettes
+qu’il (elle) feuillette
+que nous feuilletions
+que vous feuilletiez
+qu’ils (elles) feuillettent
+
+** Imparfait
+
+que je feuilletasse
+que tu feuilletasses
+qu’il (elle) feuilletât
+que nous feuilletassions
+que vous feuilletassiez
+qu’ils (elles) feuilletassent
+
+* IMPÉRATIF
+
+** Présent
+
+feuillette
+feuilletons
+feuilletez
+
+* INFINITIF
+
+** Présent
+
+feuilleter
+
+* PARTICIPE
+
+** Présent
+
+feuilletant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai feuilleté
+tu as feuilleté
+il (elle) a feuilleté
+nous avons feuilleté
+vous avez feuilleté
+ils (elles) ont feuilleté
+
+** Plus-que-parfait
+
+j'avais feuilleté
+tu avais feuilleté
+il (elle) avait feuilleté
+nous avions feuilleté
+vous aviez feuilleté
+ils (elles) avaient feuilleté
+
+** Passé antérieur
+
+j'eus feuilleté
+tu eus feuilleté
+il (elle) eut feuilleté
+nous eûmes feuilleté
+vous eûtes feuilleté
+ils (elles) eurent feuilleté
+
+** Futur antérieur
+
+j'aurai feuilleté
+tu auras feuilleté
+il (elle) aura feuilleté
+nous aurons feuilleté
+vous aurez feuilleté
+ils (elles) auront feuilleté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais feuilleté
+tu aurais feuilleté
+il (elle) aurait feuilleté
+nous aurions feuilleté
+vous auriez feuilleté
+ils (elles) auraient feuilleté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie feuilleté
+que tu aies feuilleté
+qu’il (elle) ait feuilleté
+que nous ayons feuilleté
+que vous ayez feuilleté
+qu’ils (elles) aient feuilleté
+
+** Plus-que-parfait
+
+que j'eusse feuilleté
+que tu eusses feuilleté
+qu’il (elle) eût feuilleté
+que nous eussions feuilleté
+que vous eussiez feuilleté
+qu’ils (elles) eussent feuilleté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons feuilleté
+ayez feuilleté
+
+* INFINITIF
+
+** Passé
+
+avoir feuilleté
+
+* PARTICIPE
+
+** Passé
+
+ayant feuilleté
+feuilleté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis feuilleté(e)
+tu es feuilleté(e)
+il (elle) est feuilleté(e)
+nous sommes feuilleté(e)s
+vous êtes feuilleté(e)s
+ils (elles) sont feuilleté(e)s
+
+** Imparfait
+
+j'étais feuilleté(e)
+tu étais feuilleté(e)
+il (elle) était feuilleté(e)
+nous étions feuilleté(e)s
+vous étiez feuilleté(e)s
+ils (elles) étaient feuilleté(e)s
+
+** Passé simple
+
+je fus feuilleté(e)
+tu fus feuilleté(e)
+il (elle) fut feuilleté(e)
+nous fûmes feuilleté(e)s
+vous fûtes feuilleté(e)s
+ils (elles) furent feuilleté(e)s
+
+** Futur simple
+
+je serai feuilleté(e)
+tu seras feuilleté(e)
+il (elle) sera feuilleté(e)
+nous serons feuilleté(e)s
+vous serez feuilleté(e)s
+ils (elles) seront feuilleté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais feuilleté(e)
+tu serais feuilleté(e)
+il (elle) serait feuilleté(e)
+nous serions feuilleté(e)s
+vous seriez feuilleté(e)s
+ils (elles) seraient feuilleté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois feuilleté(e)
+que tu sois feuilleté(e)
+qu’il (elle) soit feuilleté(e)
+que nous soyons feuilleté(e)s
+que vous soyez feuilleté(e)s
+qu’ils (elles) soient feuilleté(e)s
+
+** Imparfait
+
+que je fusse feuilleté(e)
+que tu fusses feuilleté(e)
+qu’il (elle) fût feuilleté(e)
+que nous fussions feuilleté(e)s
+que vous fussiez feuilleté(e)s
+qu’ils (elles) fussent feuilleté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons feuilleté(e)s
+soyez feuilleté(e)s
+
+* INFINITIF
+
+** Présent
+
+être feuilleté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant feuilleté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été feuilleté(e)
+tu as été feuilleté(e)
+il (elle) a été feuilleté(e)
+nous avons été feuilleté(e)s
+vous avez été feuilleté(e)s
+ils (elles) ont été feuilleté(e)s
+
+** Plus-que-parfait
+
+j'avais été feuilleté(e)
+il (elle) avait été feuilleté(e)
+nous avions été feuilleté(e)s
+ils (elles) avaient été feuilleté(e)s
+
+** Passé antérieur
+
+j'eus été feuilleté(e)
+tu eus été feuilleté(e)
+il (elle) eut été feuilleté(e)
+nous eûmes été feuilleté(e)s
+vous eûtes été feuilleté(e)s
+ils (elles) eurent été feuilleté(e)s
+
+** Futur antérieur
+
+j'aurai été feuilleté(e)
+tu auras été feuilleté(e)
+il (elle) aura été feuilleté(e)
+nous aurons été feuilleté(e)s
+vous aurez été feuilleté(e)s
+ils (elles) auront été feuilleté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été feuilleté(e)
+j'aurais été feuilleté(e)
+il (elle) aurait été feuilleté(e)
+nous aurions été feuilleté(e)s
+vous auriez été feuilleté(e)s
+ils (elles) auraient été feuilleté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été feuilleté(e)
+que tu aies été feuilleté(e)
+qu’il (elle) ait été feuilleté(e)
+que nous ayons été feuilleté(e)s
+que vous ayez été feuilleté(e)s
+qu’ils (elles) aient été feuilleté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été feuilleté(e)
+que tu eusses été feuilleté(e)
+qu’il (elle) eût été feuilleté(e)
+que nous eussions été feuilleté(e)s
+que vous eussiez été feuilleté(e)s
+qu’ils (elles) eussent été feuilleté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été feuilleté(e)
+ayons été feuilleté(e)s
+ayez été feuilleté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été feuilleté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été feuilleté(e)(s)

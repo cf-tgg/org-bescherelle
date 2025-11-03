@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe liberer
+
+* INDICATIF
+
+** Présent
+
+je libère
+tu libères
+il (elle) libère
+nous libérons
+vous libérez
+ils (elles) libèrent
+
+** Imparfait
+
+je libérais
+tu libérais
+il (elle) libérait
+nous libérions
+vous libériez
+ils (elles) libéraient
+
+** Passé simple
+
+je libérai
+tu libéras
+il (elle) libéra
+nous libérâmes
+vous libérâtes
+ils (elles) libérèrent
+
+** Futur simple
+
+je libérerai
+tu libéreras
+il (elle) libérera
+nous libérerons
+vous libérerez
+ils (elles) libéreront
+
+* CONDITIONNEL
+
+** Présent
+
+je libérerais
+tu libérerais
+il (elle) libérerait
+nous libérerions
+vous libéreriez
+ils (elles) libéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je libère
+que tu libères
+qu’il (elle) libère
+que nous libérions
+que vous libériez
+qu’ils (elles) libèrent
+
+** Imparfait
+
+que je libérasse
+que tu libérasses
+qu’il (elle) libérât
+que nous libérassions
+que vous libérassiez
+qu’ils (elles) libérassent
+
+* IMPÉRATIF
+
+** Présent
+
+libère
+libérons
+libérez
+
+* INFINITIF
+
+** Présent
+
+libérer
+
+* PARTICIPE
+
+** Présent
+
+libérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai libéré
+tu as libéré
+il (elle) a libéré
+nous avons libéré
+vous avez libéré
+ils (elles) ont libéré
+
+** Plus-que-parfait
+
+j'avais libéré
+tu avais libéré
+il (elle) avait libéré
+nous avions libéré
+vous aviez libéré
+ils (elles) avaient libéré
+
+** Passé antérieur
+
+j'eus libéré
+tu eus libéré
+il (elle) eut libéré
+nous eûmes libéré
+vous eûtes libéré
+ils (elles) eurent libéré
+
+** Futur antérieur
+
+j'aurai libéré
+tu auras libéré
+il (elle) aura libéré
+nous aurons libéré
+vous aurez libéré
+ils (elles) auront libéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais libéré
+tu aurais libéré
+il (elle) aurait libéré
+nous aurions libéré
+vous auriez libéré
+ils (elles) auraient libéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie libéré
+que tu aies libéré
+qu’il (elle) ait libéré
+que nous ayons libéré
+que vous ayez libéré
+qu’ils (elles) aient libéré
+
+** Plus-que-parfait
+
+que j'eusse libéré
+que tu eusses libéré
+qu’il (elle) eût libéré
+que nous eussions libéré
+que vous eussiez libéré
+qu’ils (elles) eussent libéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons libéré
+ayez libéré
+
+* INFINITIF
+
+** Passé
+
+avoir libéré
+
+* PARTICIPE
+
+** Passé
+
+ayant libéré
+libéré (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis libéré(e)
+tu es libéré(e)
+il (elle) est libéré(e)
+nous sommes libéré(e)s
+vous êtes libéré(e)s
+ils (elles) sont libéré(e)s
+
+** Imparfait
+
+j'étais libéré(e)
+tu étais libéré(e)
+il (elle) était libéré(e)
+nous étions libéré(e)s
+vous étiez libéré(e)s
+ils (elles) étaient libéré(e)s
+
+** Passé simple
+
+je fus libéré(e)
+tu fus libéré(e)
+il (elle) fut libéré(e)
+nous fûmes libéré(e)s
+vous fûtes libéré(e)s
+ils (elles) furent libéré(e)s
+
+** Futur simple
+
+je serai libéré(e)
+tu seras libéré(e)
+il (elle) sera libéré(e)
+nous serons libéré(e)s
+vous serez libéré(e)s
+ils (elles) seront libéré(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais libéré(e)
+tu serais libéré(e)
+il (elle) serait libéré(e)
+nous serions libéré(e)s
+vous seriez libéré(e)s
+ils (elles) seraient libéré(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois libéré(e)
+que tu sois libéré(e)
+qu’il (elle) soit libéré(e)
+que nous soyons libéré(e)s
+que vous soyez libéré(e)s
+qu’ils (elles) soient libéré(e)s
+
+** Imparfait
+
+que je fusse libéré(e)
+que tu fusses libéré(e)
+qu’il (elle) fût libéré(e)
+que nous fussions libéré(e)s
+que vous fussiez libéré(e)s
+qu’ils (elles) fussent libéré(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons libéré(e)s
+soyez libéré(e)s
+
+* INFINITIF
+
+** Présent
+
+être libéré(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant libéré(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été libéré(e)
+tu as été libéré(e)
+il (elle) a été libéré(e)
+nous avons été libéré(e)s
+vous avez été libéré(e)s
+ils (elles) ont été libéré(e)s
+
+** Plus-que-parfait
+
+j'avais été libéré(e)
+il (elle) avait été libéré(e)
+nous avions été libéré(e)s
+ils (elles) avaient été libéré(e)s
+
+** Passé antérieur
+
+j'eus été libéré(e)
+tu eus été libéré(e)
+il (elle) eut été libéré(e)
+nous eûmes été libéré(e)s
+vous eûtes été libéré(e)s
+ils (elles) eurent été libéré(e)s
+
+** Futur antérieur
+
+j'aurai été libéré(e)
+tu auras été libéré(e)
+il (elle) aura été libéré(e)
+nous aurons été libéré(e)s
+vous aurez été libéré(e)s
+ils (elles) auront été libéré(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été libéré(e)
+j'aurais été libéré(e)
+il (elle) aurait été libéré(e)
+nous aurions été libéré(e)s
+vous auriez été libéré(e)s
+ils (elles) auraient été libéré(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été libéré(e)
+que tu aies été libéré(e)
+qu’il (elle) ait été libéré(e)
+que nous ayons été libéré(e)s
+que vous ayez été libéré(e)s
+qu’ils (elles) aient été libéré(e)s
+
+** Plus-que-parfait
+
+que j'eusse été libéré(e)
+que tu eusses été libéré(e)
+qu’il (elle) eût été libéré(e)
+que nous eussions été libéré(e)s
+que vous eussiez été libéré(e)s
+qu’ils (elles) eussent été libéré(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été libéré(e)
+ayons été libéré(e)s
+ayez été libéré(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été libéré(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été libéré(e)(s)

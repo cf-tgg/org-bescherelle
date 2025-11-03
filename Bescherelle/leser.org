@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe leser
+
+* INDICATIF
+
+** Présent
+
+je lèse
+tu lèses
+il (elle) lèse
+nous lésons
+vous lésez
+ils (elles) lèsent
+
+** Imparfait
+
+je lésais
+tu lésais
+il (elle) lésait
+nous lésions
+vous lésiez
+ils (elles) lésaient
+
+** Passé simple
+
+je lésai
+tu lésas
+il (elle) lésa
+nous lésâmes
+vous lésâtes
+ils (elles) lésèrent
+
+** Futur simple
+
+je léserai
+tu léseras
+il (elle) lésera
+nous léserons
+vous léserez
+ils (elles) léseront
+
+* CONDITIONNEL
+
+** Présent
+
+je léserais
+tu léserais
+il (elle) léserait
+nous léserions
+vous léseriez
+ils (elles) léseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lèse
+que tu lèses
+qu’il (elle) lèse
+que nous lésions
+que vous lésiez
+qu’ils (elles) lèsent
+
+** Imparfait
+
+que je lésasse
+que tu lésasses
+qu’il (elle) lésât
+que nous lésassions
+que vous lésassiez
+qu’ils (elles) lésassent
+
+* IMPÉRATIF
+
+** Présent
+
+lèse
+lésons
+lésez
+
+* INFINITIF
+
+** Présent
+
+léser
+
+* PARTICIPE
+
+** Présent
+
+lésant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lésé
+tu as lésé
+il (elle) a lésé
+nous avons lésé
+vous avez lésé
+ils (elles) ont lésé
+
+** Plus-que-parfait
+
+j'avais lésé
+tu avais lésé
+il (elle) avait lésé
+nous avions lésé
+vous aviez lésé
+ils (elles) avaient lésé
+
+** Passé antérieur
+
+j'eus lésé
+tu eus lésé
+il (elle) eut lésé
+nous eûmes lésé
+vous eûtes lésé
+ils (elles) eurent lésé
+
+** Futur antérieur
+
+j'aurai lésé
+tu auras lésé
+il (elle) aura lésé
+nous aurons lésé
+vous aurez lésé
+ils (elles) auront lésé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lésé
+tu aurais lésé
+il (elle) aurait lésé
+nous aurions lésé
+vous auriez lésé
+ils (elles) auraient lésé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lésé
+que tu aies lésé
+qu’il (elle) ait lésé
+que nous ayons lésé
+que vous ayez lésé
+qu’ils (elles) aient lésé
+
+** Plus-que-parfait
+
+que j'eusse lésé
+que tu eusses lésé
+qu’il (elle) eût lésé
+que nous eussions lésé
+que vous eussiez lésé
+qu’ils (elles) eussent lésé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lésé
+ayez lésé
+
+* INFINITIF
+
+** Passé
+
+avoir lésé
+
+* PARTICIPE
+
+** Passé
+
+ayant lésé
+lésé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lésé(e)
+tu es lésé(e)
+il (elle) est lésé(e)
+nous sommes lésé(e)s
+vous êtes lésé(e)s
+ils (elles) sont lésé(e)s
+
+** Imparfait
+
+j'étais lésé(e)
+tu étais lésé(e)
+il (elle) était lésé(e)
+nous étions lésé(e)s
+vous étiez lésé(e)s
+ils (elles) étaient lésé(e)s
+
+** Passé simple
+
+je fus lésé(e)
+tu fus lésé(e)
+il (elle) fut lésé(e)
+nous fûmes lésé(e)s
+vous fûtes lésé(e)s
+ils (elles) furent lésé(e)s
+
+** Futur simple
+
+je serai lésé(e)
+tu seras lésé(e)
+il (elle) sera lésé(e)
+nous serons lésé(e)s
+vous serez lésé(e)s
+ils (elles) seront lésé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lésé(e)
+tu serais lésé(e)
+il (elle) serait lésé(e)
+nous serions lésé(e)s
+vous seriez lésé(e)s
+ils (elles) seraient lésé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lésé(e)
+que tu sois lésé(e)
+qu’il (elle) soit lésé(e)
+que nous soyons lésé(e)s
+que vous soyez lésé(e)s
+qu’ils (elles) soient lésé(e)s
+
+** Imparfait
+
+que je fusse lésé(e)
+que tu fusses lésé(e)
+qu’il (elle) fût lésé(e)
+que nous fussions lésé(e)s
+que vous fussiez lésé(e)s
+qu’ils (elles) fussent lésé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lésé(e)s
+soyez lésé(e)s
+
+* INFINITIF
+
+** Présent
+
+être lésé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lésé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lésé(e)
+tu as été lésé(e)
+il (elle) a été lésé(e)
+nous avons été lésé(e)s
+vous avez été lésé(e)s
+ils (elles) ont été lésé(e)s
+
+** Plus-que-parfait
+
+j'avais été lésé(e)
+il (elle) avait été lésé(e)
+nous avions été lésé(e)s
+ils (elles) avaient été lésé(e)s
+
+** Passé antérieur
+
+j'eus été lésé(e)
+tu eus été lésé(e)
+il (elle) eut été lésé(e)
+nous eûmes été lésé(e)s
+vous eûtes été lésé(e)s
+ils (elles) eurent été lésé(e)s
+
+** Futur antérieur
+
+j'aurai été lésé(e)
+tu auras été lésé(e)
+il (elle) aura été lésé(e)
+nous aurons été lésé(e)s
+vous aurez été lésé(e)s
+ils (elles) auront été lésé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lésé(e)
+j'aurais été lésé(e)
+il (elle) aurait été lésé(e)
+nous aurions été lésé(e)s
+vous auriez été lésé(e)s
+ils (elles) auraient été lésé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lésé(e)
+que tu aies été lésé(e)
+qu’il (elle) ait été lésé(e)
+que nous ayons été lésé(e)s
+que vous ayez été lésé(e)s
+qu’ils (elles) aient été lésé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lésé(e)
+que tu eusses été lésé(e)
+qu’il (elle) eût été lésé(e)
+que nous eussions été lésé(e)s
+que vous eussiez été lésé(e)s
+qu’ils (elles) eussent été lésé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lésé(e)
+ayons été lésé(e)s
+ayez été lésé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lésé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lésé(e)(s)

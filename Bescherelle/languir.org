@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe languir
+
+* INDICATIF
+
+** Présent
+
+je languis
+tu languis
+il (elle) languit
+nous languissons
+vous languissez
+ils (elles) languissent
+
+** Imparfait
+
+je languissais
+tu languissais
+il (elle) languissait
+nous languissions
+vous languissiez
+ils (elles) languissaient
+
+** Passé simple
+
+je languis
+tu languis
+il (elle) languit
+nous languîmes
+vous languîtes
+ils (elles) languirent
+
+** Futur simple
+
+je languirai
+tu languiras
+il (elle) languira
+nous languirons
+vous languirez
+ils (elles) languiront
+
+* CONDITIONNEL
+
+** Présent
+
+je languirais
+tu languirais
+il (elle) languirait
+nous languirions
+vous languiriez
+ils (elles) languiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je languisse
+que tu languisses
+qu’il (elle) languisse
+que nous languissions
+que vous languissiez
+qu’ils (elles) languissent
+
+** Imparfait
+
+que je languisse
+que tu languisses
+qu’il (elle) languît
+que nous languissions
+que vous languissiez
+qu’ils (elles) languissent
+
+* IMPÉRATIF
+
+** Présent
+
+languis
+languissons
+languissez
+
+* INFINITIF
+
+** Présent
+
+languir
+
+* PARTICIPE
+
+** Présent
+
+languissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai langui
+tu as langui
+il (elle) a langui
+nous avons langui
+vous avez langui
+ils (elles) ont langui
+
+** Plus-que-parfait
+
+j'avais langui
+tu avais langui
+il (elle) avait langui
+nous avions langui
+vous aviez langui
+ils (elles) avaient langui
+
+** Passé antérieur
+
+j'eus langui
+tu eus langui
+il (elle) eut langui
+nous eûmes langui
+vous eûtes langui
+ils (elles) eurent langui
+
+** Futur antérieur
+
+j'aurai langui
+tu auras langui
+il (elle) aura langui
+nous aurons langui
+vous aurez langui
+ils (elles) auront langui
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais langui
+tu aurais langui
+il (elle) aurait langui
+nous aurions langui
+vous auriez langui
+ils (elles) auraient langui
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie langui
+que tu aies langui
+qu’il (elle) ait langui
+que nous ayons langui
+que vous ayez langui
+qu’ils (elles) aient langui
+
+** Plus-que-parfait
+
+que j'eusse langui
+que tu eusses langui
+qu’il (elle) eût langui
+que nous eussions langui
+que vous eussiez langui
+qu’ils (elles) eussent langui
+
+* IMPÉRATIF
+
+** Passé
+
+ayons langui
+ayez langui
+
+* INFINITIF
+
+** Passé
+
+avoir langui
+
+* PARTICIPE
+
+** Passé
+
+ayant langui
+langui (invar.)

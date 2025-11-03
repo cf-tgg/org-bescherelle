@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe clouer
+
+* INDICATIF
+
+** Présent
+
+je cloue
+tu cloues
+il (elle) cloue
+nous clouons
+vous clouez
+ils (elles) clouent
+
+** Imparfait
+
+je clouais
+tu clouais
+il (elle) clouait
+nous clouions
+vous clouiez
+ils (elles) clouaient
+
+** Passé simple
+
+je clouai
+tu clouas
+il (elle) cloua
+nous clouâmes
+vous clouâtes
+ils (elles) clouèrent
+
+** Futur simple
+
+je clouerai
+tu cloueras
+il (elle) clouera
+nous clouerons
+vous clouerez
+ils (elles) cloueront
+
+* CONDITIONNEL
+
+** Présent
+
+je clouerais
+tu clouerais
+il (elle) clouerait
+nous clouerions
+vous cloueriez
+ils (elles) cloueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je cloue
+que tu cloues
+qu’il (elle) cloue
+que nous clouions
+que vous clouiez
+qu’ils (elles) clouent
+
+** Imparfait
+
+que je clouasse
+que tu clouasses
+qu’il (elle) clouât
+que nous clouassions
+que vous clouassiez
+qu’ils (elles) clouassent
+
+* IMPÉRATIF
+
+** Présent
+
+cloue
+clouons
+clouez
+
+* INFINITIF
+
+** Présent
+
+clouer
+
+* PARTICIPE
+
+** Présent
+
+clouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai cloué
+tu as cloué
+il (elle) a cloué
+nous avons cloué
+vous avez cloué
+ils (elles) ont cloué
+
+** Plus-que-parfait
+
+j'avais cloué
+tu avais cloué
+il (elle) avait cloué
+nous avions cloué
+vous aviez cloué
+ils (elles) avaient cloué
+
+** Passé antérieur
+
+j'eus cloué
+tu eus cloué
+il (elle) eut cloué
+nous eûmes cloué
+vous eûtes cloué
+ils (elles) eurent cloué
+
+** Futur antérieur
+
+j'aurai cloué
+tu auras cloué
+il (elle) aura cloué
+nous aurons cloué
+vous aurez cloué
+ils (elles) auront cloué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais cloué
+tu aurais cloué
+il (elle) aurait cloué
+nous aurions cloué
+vous auriez cloué
+ils (elles) auraient cloué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie cloué
+que tu aies cloué
+qu’il (elle) ait cloué
+que nous ayons cloué
+que vous ayez cloué
+qu’ils (elles) aient cloué
+
+** Plus-que-parfait
+
+que j'eusse cloué
+que tu eusses cloué
+qu’il (elle) eût cloué
+que nous eussions cloué
+que vous eussiez cloué
+qu’ils (elles) eussent cloué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons cloué
+ayez cloué
+
+* INFINITIF
+
+** Passé
+
+avoir cloué
+
+* PARTICIPE
+
+** Passé
+
+ayant cloué
+cloué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis cloué(e)
+tu es cloué(e)
+il (elle) est cloué(e)
+nous sommes cloué(e)s
+vous êtes cloué(e)s
+ils (elles) sont cloué(e)s
+
+** Imparfait
+
+j'étais cloué(e)
+tu étais cloué(e)
+il (elle) était cloué(e)
+nous étions cloué(e)s
+vous étiez cloué(e)s
+ils (elles) étaient cloué(e)s
+
+** Passé simple
+
+je fus cloué(e)
+tu fus cloué(e)
+il (elle) fut cloué(e)
+nous fûmes cloué(e)s
+vous fûtes cloué(e)s
+ils (elles) furent cloué(e)s
+
+** Futur simple
+
+je serai cloué(e)
+tu seras cloué(e)
+il (elle) sera cloué(e)
+nous serons cloué(e)s
+vous serez cloué(e)s
+ils (elles) seront cloué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais cloué(e)
+tu serais cloué(e)
+il (elle) serait cloué(e)
+nous serions cloué(e)s
+vous seriez cloué(e)s
+ils (elles) seraient cloué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois cloué(e)
+que tu sois cloué(e)
+qu’il (elle) soit cloué(e)
+que nous soyons cloué(e)s
+que vous soyez cloué(e)s
+qu’ils (elles) soient cloué(e)s
+
+** Imparfait
+
+que je fusse cloué(e)
+que tu fusses cloué(e)
+qu’il (elle) fût cloué(e)
+que nous fussions cloué(e)s
+que vous fussiez cloué(e)s
+qu’ils (elles) fussent cloué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons cloué(e)s
+soyez cloué(e)s
+
+* INFINITIF
+
+** Présent
+
+être cloué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant cloué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été cloué(e)
+tu as été cloué(e)
+il (elle) a été cloué(e)
+nous avons été cloué(e)s
+vous avez été cloué(e)s
+ils (elles) ont été cloué(e)s
+
+** Plus-que-parfait
+
+j'avais été cloué(e)
+il (elle) avait été cloué(e)
+nous avions été cloué(e)s
+ils (elles) avaient été cloué(e)s
+
+** Passé antérieur
+
+j'eus été cloué(e)
+tu eus été cloué(e)
+il (elle) eut été cloué(e)
+nous eûmes été cloué(e)s
+vous eûtes été cloué(e)s
+ils (elles) eurent été cloué(e)s
+
+** Futur antérieur
+
+j'aurai été cloué(e)
+tu auras été cloué(e)
+il (elle) aura été cloué(e)
+nous aurons été cloué(e)s
+vous aurez été cloué(e)s
+ils (elles) auront été cloué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été cloué(e)
+j'aurais été cloué(e)
+il (elle) aurait été cloué(e)
+nous aurions été cloué(e)s
+vous auriez été cloué(e)s
+ils (elles) auraient été cloué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été cloué(e)
+que tu aies été cloué(e)
+qu’il (elle) ait été cloué(e)
+que nous ayons été cloué(e)s
+que vous ayez été cloué(e)s
+qu’ils (elles) aient été cloué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été cloué(e)
+que tu eusses été cloué(e)
+qu’il (elle) eût été cloué(e)
+que nous eussions été cloué(e)s
+que vous eussiez été cloué(e)s
+qu’ils (elles) eussent été cloué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été cloué(e)
+ayons été cloué(e)s
+ayez été cloué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été cloué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été cloué(e)(s)

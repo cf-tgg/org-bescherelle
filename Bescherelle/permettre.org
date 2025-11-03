@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe permettre
+
+* INDICATIF
+
+** Présent
+
+je permets
+tu permets
+il (elle) permet
+nous permettons
+vous permettez
+ils (elles) permettent
+
+** Imparfait
+
+je permettais
+tu permettais
+il (elle) permettait
+nous permettions
+vous permettiez
+ils (elles) permettaient
+
+** Passé simple
+
+je permis
+tu permis
+il (elle) permit
+nous permîmes
+vous permîtes
+ils (elles) permirent
+
+** Futur simple
+
+je permettrai
+tu permettras
+il (elle) permettra
+nous permettrons
+vous permettrez
+ils (elles) permettront
+
+* CONDITIONNEL
+
+** Présent
+
+je permettrais
+tu permettrais
+il (elle) permettrait
+nous permettrions
+vous permettriez
+ils (elles) permettraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je permette
+que tu permettes
+qu’il (elle) permette
+que nous permettions
+que vous permettiez
+qu’ils (elles) permettent
+
+** Imparfait
+
+que je permisse
+que tu permisses
+qu’il (elle) permît
+que nous permissions
+que vous permissiez
+qu’ils (elles) permissent
+
+* IMPÉRATIF
+
+** Présent
+
+permets
+permettons
+permettez
+
+* INFINITIF
+
+** Présent
+
+permettre
+
+* PARTICIPE
+
+** Présent
+
+permettant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai permis
+tu as permis
+il (elle) a permis
+nous avons permis
+vous avez permis
+ils (elles) ont permis
+
+** Plus-que-parfait
+
+j'avais permis
+tu avais permis
+il (elle) avait permis
+nous avions permis
+vous aviez permis
+ils (elles) avaient permis
+
+** Passé antérieur
+
+j'eus permis
+tu eus permis
+il (elle) eut permis
+nous eûmes permis
+vous eûtes permis
+ils (elles) eurent permis
+
+** Futur antérieur
+
+j'aurai permis
+tu auras permis
+il (elle) aura permis
+nous aurons permis
+vous aurez permis
+ils (elles) auront permis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais permis
+tu aurais permis
+il (elle) aurait permis
+nous aurions permis
+vous auriez permis
+ils (elles) auraient permis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie permis
+que tu aies permis
+qu’il (elle) ait permis
+que nous ayons permis
+que vous ayez permis
+qu’ils (elles) aient permis
+
+** Plus-que-parfait
+
+que j'eusse permis
+que tu eusses permis
+qu’il (elle) eût permis
+que nous eussions permis
+que vous eussiez permis
+qu’ils (elles) eussent permis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons permis
+ayez permis
+
+* INFINITIF
+
+** Passé
+
+avoir permis
+
+* PARTICIPE
+
+** Passé
+
+ayant permis
+permis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis permis(e)
+tu es permis(e)
+il (elle) est permis(e)
+nous sommes permis(es)
+vous êtes permis(es)
+ils (elles) sont permis(es)
+
+** Imparfait
+
+j'étais permis(e)
+tu étais permis(e)
+il (elle) était permis(e)
+nous étions permis(es)
+vous étiez permis(es)
+ils (elles) étaient permis(es)
+
+** Passé simple
+
+je fus permis(e)
+tu fus permis(e)
+il (elle) fut permis(e)
+nous fûmes permis(es)
+vous fûtes permis(es)
+ils (elles) furent permis(es)
+
+** Futur simple
+
+je serai permis(e)
+tu seras permis(e)
+il (elle) sera permis(e)
+nous serons permis(es)
+vous serez permis(es)
+ils (elles) seront permis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais permis(e)
+tu serais permis(e)
+il (elle) serait permis(e)
+nous serions permis(es)
+vous seriez permis(es)
+ils (elles) seraient permis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois permis(e)
+que tu sois permis(e)
+qu’il (elle) soit permis(e)
+que nous soyons permis(es)
+que vous soyez permis(es)
+qu’ils (elles) soient permis(es)
+
+** Imparfait
+
+que je fusse permis(e)
+que tu fusses permis(e)
+qu’il (elle) fût permis(e)
+que nous fussions permis(es)
+que vous fussiez permis(es)
+qu’ils (elles) fussent permis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons permis(es)
+soyez permis(es)
+
+* INFINITIF
+
+** Présent
+
+être permis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant permis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été permis(e)
+tu as été permis(e)
+il (elle) a été permis(e)
+nous avons été permis(es)
+vous avez été permis(es)
+ils (elles) ont été permis(es)
+
+** Plus-que-parfait
+
+j'avais été permis(e)
+il (elle) avait été permis(e)
+nous avions été permis(es)
+ils (elles) avaient été permis(es)
+
+** Passé antérieur
+
+j'eus été permis(e)
+tu eus été permis(e)
+il (elle) eut été permis(e)
+nous eûmes été permis(es)
+vous eûtes été permis(es)
+ils (elles) eurent été permis(es)
+
+** Futur antérieur
+
+j'aurai été permis(e)
+tu auras été permis(e)
+il (elle) aura été permis(e)
+nous aurons été permis(es)
+vous aurez été permis(es)
+ils (elles) auront été permis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été permis(e)
+j'aurais été permis(e)
+il (elle) aurait été permis(e)
+nous aurions été permis(es)
+vous auriez été permis(es)
+ils (elles) auraient été permis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été permis(e)
+que tu aies été permis(e)
+qu’il (elle) ait été permis(e)
+que nous ayons été permis(es)
+que vous ayez été permis(es)
+qu’ils (elles) aient été permis(es)
+
+** Plus-que-parfait
+
+que j'eusse été permis(e)
+que tu eusses été permis(e)
+qu’il (elle) eût été permis(e)
+que nous eussions été permis(es)
+que vous eussiez été permis(es)
+qu’ils (elles) eussent été permis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été permis(e)
+ayons été permis(es)
+ayez été permis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été permis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été permis (s, se, s, ses)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apitoyer
+
+* INDICATIF
+
+** Présent
+
+j'apitoie
+tu apitoies
+il (elle) apitoie
+nous apitoyons
+vous apitoyez
+ils (elles) apitoient
+
+** Imparfait
+
+j'apitoyais
+tu apitoyais
+il (elle) apitoyait
+nous apitoyions
+vous apitoyiez
+ils (elles) apitoyaient
+
+** Passé simple
+
+j'apitoyai
+tu apitoyas
+il (elle) apitoya
+nous apitoyâmes
+vous apitoyâtes
+ils (elles) apitoyèrent
+
+** Futur simple
+
+j'apitoierai
+tu apitoieras
+il (elle) apitoiera
+nous apitoierons
+vous apitoierez
+ils (elles) apitoieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apitoierais
+tu apitoierais
+il (elle) apitoierait
+nous apitoierions
+vous apitoieriez
+ils (elles) apitoieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apitoie
+que tu apitoies
+qu’il (elle) apitoie
+que nous apitoyions
+que vous apitoyiez
+qu’ils (elles) apitoient
+
+** Imparfait
+
+que j'apitoyasse
+que tu apitoyasses
+qu’il (elle) apitoyât
+que nous apitoyassions
+que vous apitoyassiez
+qu’ils (elles) apitoyassent
+
+* IMPÉRATIF
+
+** Présent
+
+apitoie
+apitoyons
+apitoyez
+
+* INFINITIF
+
+** Présent
+
+apitoyer
+
+* PARTICIPE
+
+** Présent
+
+apitoyant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apitoyé
+tu as apitoyé
+il (elle) a apitoyé
+nous avons apitoyé
+vous avez apitoyé
+ils (elles) ont apitoyé
+
+** Plus-que-parfait
+
+j'avais apitoyé
+tu avais apitoyé
+il (elle) avait apitoyé
+nous avions apitoyé
+vous aviez apitoyé
+ils (elles) avaient apitoyé
+
+** Passé antérieur
+
+j'eus apitoyé
+tu eus apitoyé
+il (elle) eut apitoyé
+nous eûmes apitoyé
+vous eûtes apitoyé
+ils (elles) eurent apitoyé
+
+** Futur antérieur
+
+j'aurai apitoyé
+tu auras apitoyé
+il (elle) aura apitoyé
+nous aurons apitoyé
+vous aurez apitoyé
+ils (elles) auront apitoyé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apitoyé
+tu aurais apitoyé
+il (elle) aurait apitoyé
+nous aurions apitoyé
+vous auriez apitoyé
+ils (elles) auraient apitoyé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apitoyé
+que tu aies apitoyé
+qu’il (elle) ait apitoyé
+que nous ayons apitoyé
+que vous ayez apitoyé
+qu’ils (elles) aient apitoyé
+
+** Plus-que-parfait
+
+que j'eusse apitoyé
+que tu eusses apitoyé
+qu’il (elle) eût apitoyé
+que nous eussions apitoyé
+que vous eussiez apitoyé
+qu’ils (elles) eussent apitoyé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apitoyé
+ayez apitoyé
+
+* INFINITIF
+
+** Passé
+
+avoir apitoyé
+
+* PARTICIPE
+
+** Passé
+
+ayant apitoyé
+apitoyé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apitoyé(e)
+tu es apitoyé(e)
+il (elle) est apitoyé(e)
+nous sommes apitoyé(e)s
+vous êtes apitoyé(e)s
+ils (elles) sont apitoyé(e)s
+
+** Imparfait
+
+j'étais apitoyé(e)
+tu étais apitoyé(e)
+il (elle) était apitoyé(e)
+nous étions apitoyé(e)s
+vous étiez apitoyé(e)s
+ils (elles) étaient apitoyé(e)s
+
+** Passé simple
+
+je fus apitoyé(e)
+tu fus apitoyé(e)
+il (elle) fut apitoyé(e)
+nous fûmes apitoyé(e)s
+vous fûtes apitoyé(e)s
+ils (elles) furent apitoyé(e)s
+
+** Futur simple
+
+je serai apitoyé(e)
+tu seras apitoyé(e)
+il (elle) sera apitoyé(e)
+nous serons apitoyé(e)s
+vous serez apitoyé(e)s
+ils (elles) seront apitoyé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apitoyé(e)
+tu serais apitoyé(e)
+il (elle) serait apitoyé(e)
+nous serions apitoyé(e)s
+vous seriez apitoyé(e)s
+ils (elles) seraient apitoyé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apitoyé(e)
+que tu sois apitoyé(e)
+qu’il (elle) soit apitoyé(e)
+que nous soyons apitoyé(e)s
+que vous soyez apitoyé(e)s
+qu’ils (elles) soient apitoyé(e)s
+
+** Imparfait
+
+que je fusse apitoyé(e)
+que tu fusses apitoyé(e)
+qu’il (elle) fût apitoyé(e)
+que nous fussions apitoyé(e)s
+que vous fussiez apitoyé(e)s
+qu’ils (elles) fussent apitoyé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apitoyé(e)s
+soyez apitoyé(e)s
+
+* INFINITIF
+
+** Présent
+
+être apitoyé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apitoyé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apitoyé(e)
+tu as été apitoyé(e)
+il (elle) a été apitoyé(e)
+nous avons été apitoyé(e)s
+vous avez été apitoyé(e)s
+ils (elles) ont été apitoyé(e)s
+
+** Plus-que-parfait
+
+j'avais été apitoyé(e)
+il (elle) avait été apitoyé(e)
+nous avions été apitoyé(e)s
+ils (elles) avaient été apitoyé(e)s
+
+** Passé antérieur
+
+j'eus été apitoyé(e)
+tu eus été apitoyé(e)
+il (elle) eut été apitoyé(e)
+nous eûmes été apitoyé(e)s
+vous eûtes été apitoyé(e)s
+ils (elles) eurent été apitoyé(e)s
+
+** Futur antérieur
+
+j'aurai été apitoyé(e)
+tu auras été apitoyé(e)
+il (elle) aura été apitoyé(e)
+nous aurons été apitoyé(e)s
+vous aurez été apitoyé(e)s
+ils (elles) auront été apitoyé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apitoyé(e)
+j'aurais été apitoyé(e)
+il (elle) aurait été apitoyé(e)
+nous aurions été apitoyé(e)s
+vous auriez été apitoyé(e)s
+ils (elles) auraient été apitoyé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apitoyé(e)
+que tu aies été apitoyé(e)
+qu’il (elle) ait été apitoyé(e)
+que nous ayons été apitoyé(e)s
+que vous ayez été apitoyé(e)s
+qu’ils (elles) aient été apitoyé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apitoyé(e)
+que tu eusses été apitoyé(e)
+qu’il (elle) eût été apitoyé(e)
+que nous eussions été apitoyé(e)s
+que vous eussiez été apitoyé(e)s
+qu’ils (elles) eussent été apitoyé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apitoyé(e)
+ayons été apitoyé(e)s
+ayez été apitoyé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apitoyé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apitoyé(e)(s)

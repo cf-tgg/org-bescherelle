@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe brandir
+
+* INDICATIF
+
+** Présent
+
+je brandis
+tu brandis
+il (elle) brandit
+nous brandissons
+vous brandissez
+ils (elles) brandissent
+
+** Imparfait
+
+je brandissais
+tu brandissais
+il (elle) brandissait
+nous brandissions
+vous brandissiez
+ils (elles) brandissaient
+
+** Passé simple
+
+je brandis
+tu brandis
+il (elle) brandit
+nous brandîmes
+vous brandîtes
+ils (elles) brandirent
+
+** Futur simple
+
+je brandirai
+tu brandiras
+il (elle) brandira
+nous brandirons
+vous brandirez
+ils (elles) brandiront
+
+* CONDITIONNEL
+
+** Présent
+
+je brandirais
+tu brandirais
+il (elle) brandirait
+nous brandirions
+vous brandiriez
+ils (elles) brandiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je brandisse
+que tu brandisses
+qu’il (elle) brandisse
+que nous brandissions
+que vous brandissiez
+qu’ils (elles) brandissent
+
+** Imparfait
+
+que je brandisse
+que tu brandisses
+qu’il (elle) brandît
+que nous brandissions
+que vous brandissiez
+qu’ils (elles) brandissent
+
+* IMPÉRATIF
+
+** Présent
+
+brandis
+brandissons
+brandissez
+
+* INFINITIF
+
+** Présent
+
+brandir
+
+* PARTICIPE
+
+** Présent
+
+brandissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai brandi
+tu as brandi
+il (elle) a brandi
+nous avons brandi
+vous avez brandi
+ils (elles) ont brandi
+
+** Plus-que-parfait
+
+j'avais brandi
+tu avais brandi
+il (elle) avait brandi
+nous avions brandi
+vous aviez brandi
+ils (elles) avaient brandi
+
+** Passé antérieur
+
+j'eus brandi
+tu eus brandi
+il (elle) eut brandi
+nous eûmes brandi
+vous eûtes brandi
+ils (elles) eurent brandi
+
+** Futur antérieur
+
+j'aurai brandi
+tu auras brandi
+il (elle) aura brandi
+nous aurons brandi
+vous aurez brandi
+ils (elles) auront brandi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais brandi
+tu aurais brandi
+il (elle) aurait brandi
+nous aurions brandi
+vous auriez brandi
+ils (elles) auraient brandi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie brandi
+que tu aies brandi
+qu’il (elle) ait brandi
+que nous ayons brandi
+que vous ayez brandi
+qu’ils (elles) aient brandi
+
+** Plus-que-parfait
+
+que j'eusse brandi
+que tu eusses brandi
+qu’il (elle) eût brandi
+que nous eussions brandi
+que vous eussiez brandi
+qu’ils (elles) eussent brandi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons brandi
+ayez brandi
+
+* INFINITIF
+
+** Passé
+
+avoir brandi
+
+* PARTICIPE
+
+** Passé
+
+ayant brandi
+brandi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis brandi(e)
+tu es brandi(e)
+il (elle) est brandi(e)
+nous sommes brandi(e)s
+vous êtes brandi(e)s
+ils (elles) sont brandi(e)s
+
+** Imparfait
+
+j'étais brandi(e)
+tu étais brandi(e)
+il (elle) était brandi(e)
+nous étions brandi(e)s
+vous étiez brandi(e)s
+ils (elles) étaient brandi(e)s
+
+** Passé simple
+
+je fus brandi(e)
+tu fus brandi(e)
+il (elle) fut brandi(e)
+nous fûmes brandi(e)s
+vous fûtes brandi(e)s
+ils (elles) furent brandi(e)s
+
+** Futur simple
+
+je serai brandi(e)
+tu seras brandi(e)
+il (elle) sera brandi(e)
+nous serons brandi(e)s
+vous serez brandi(e)s
+ils (elles) seront brandi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais brandi(e)
+tu serais brandi(e)
+il (elle) serait brandi(e)
+nous serions brandi(e)s
+vous seriez brandi(e)s
+ils (elles) seraient brandi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois brandi(e)
+que tu sois brandi(e)
+qu’il (elle) soit brandi(e)
+que nous soyons brandi(e)s
+que vous soyez brandi(e)s
+qu’ils (elles) soient brandi(e)s
+
+** Imparfait
+
+que je fusse brandi(e)
+que tu fusses brandi(e)
+qu’il (elle) fût brandi(e)
+que nous fussions brandi(e)s
+que vous fussiez brandi(e)s
+qu’ils (elles) fussent brandi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons brandi(e)s
+soyez brandi(e)s
+
+* INFINITIF
+
+** Présent
+
+être brandi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant brandi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été brandi(e)
+tu as été brandi(e)
+il (elle) a été brandi(e)
+nous avons été brandi(e)s
+vous avez été brandi(e)s
+ils (elles) ont été brandi(e)s
+
+** Plus-que-parfait
+
+j'avais été brandi(e)
+il (elle) avait été brandi(e)
+nous avions été brandi(e)s
+ils (elles) avaient été brandi(e)s
+
+** Passé antérieur
+
+j'eus été brandi(e)
+tu eus été brandi(e)
+il (elle) eut été brandi(e)
+nous eûmes été brandi(e)s
+vous eûtes été brandi(e)s
+ils (elles) eurent été brandi(e)s
+
+** Futur antérieur
+
+j'aurai été brandi(e)
+tu auras été brandi(e)
+il (elle) aura été brandi(e)
+nous aurons été brandi(e)s
+vous aurez été brandi(e)s
+ils (elles) auront été brandi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été brandi(e)
+j'aurais été brandi(e)
+il (elle) aurait été brandi(e)
+nous aurions été brandi(e)s
+vous auriez été brandi(e)s
+ils (elles) auraient été brandi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été brandi(e)
+que tu aies été brandi(e)
+qu’il (elle) ait été brandi(e)
+que nous ayons été brandi(e)s
+que vous ayez été brandi(e)s
+qu’ils (elles) aient été brandi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été brandi(e)
+que tu eusses été brandi(e)
+qu’il (elle) eût été brandi(e)
+que nous eussions été brandi(e)s
+que vous eussiez été brandi(e)s
+qu’ils (elles) eussent été brandi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été brandi(e)
+ayons été brandi(e)s
+ayez été brandi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été brandi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été brandi(e)(s)

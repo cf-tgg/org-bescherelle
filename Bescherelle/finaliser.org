@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe finaliser
+
+* INDICATIF
+
+** Présent
+
+je finalise
+tu finalises
+il (elle) finalise
+nous finalisons
+vous finalisez
+ils (elles) finalisent
+
+** Imparfait
+
+je finalisais
+tu finalisais
+il (elle) finalisait
+nous finalisions
+vous finalisiez
+ils (elles) finalisaient
+
+** Passé simple
+
+je finalisai
+tu finalisas
+il (elle) finalisa
+nous finalisâmes
+vous finalisâtes
+ils (elles) finalisèrent
+
+** Futur simple
+
+je finaliserai
+tu finaliseras
+il (elle) finalisera
+nous finaliserons
+vous finaliserez
+ils (elles) finaliseront
+
+* CONDITIONNEL
+
+** Présent
+
+je finaliserais
+tu finaliserais
+il (elle) finaliserait
+nous finaliserions
+vous finaliseriez
+ils (elles) finaliseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je finalise
+que tu finalises
+qu’il (elle) finalise
+que nous finalisions
+que vous finalisiez
+qu’ils (elles) finalisent
+
+** Imparfait
+
+que je finalisasse
+que tu finalisasses
+qu’il (elle) finalisât
+que nous finalisassions
+que vous finalisassiez
+qu’ils (elles) finalisassent
+
+* IMPÉRATIF
+
+** Présent
+
+finalise
+finalisons
+finalisez
+
+* INFINITIF
+
+** Présent
+
+finaliser
+
+* PARTICIPE
+
+** Présent
+
+finalisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai finalisé
+tu as finalisé
+il (elle) a finalisé
+nous avons finalisé
+vous avez finalisé
+ils (elles) ont finalisé
+
+** Plus-que-parfait
+
+j'avais finalisé
+tu avais finalisé
+il (elle) avait finalisé
+nous avions finalisé
+vous aviez finalisé
+ils (elles) avaient finalisé
+
+** Passé antérieur
+
+j'eus finalisé
+tu eus finalisé
+il (elle) eut finalisé
+nous eûmes finalisé
+vous eûtes finalisé
+ils (elles) eurent finalisé
+
+** Futur antérieur
+
+j'aurai finalisé
+tu auras finalisé
+il (elle) aura finalisé
+nous aurons finalisé
+vous aurez finalisé
+ils (elles) auront finalisé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais finalisé
+tu aurais finalisé
+il (elle) aurait finalisé
+nous aurions finalisé
+vous auriez finalisé
+ils (elles) auraient finalisé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie finalisé
+que tu aies finalisé
+qu’il (elle) ait finalisé
+que nous ayons finalisé
+que vous ayez finalisé
+qu’ils (elles) aient finalisé
+
+** Plus-que-parfait
+
+que j'eusse finalisé
+que tu eusses finalisé
+qu’il (elle) eût finalisé
+que nous eussions finalisé
+que vous eussiez finalisé
+qu’ils (elles) eussent finalisé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons finalisé
+ayez finalisé
+
+* INFINITIF
+
+** Passé
+
+avoir finalisé
+
+* PARTICIPE
+
+** Passé
+
+ayant finalisé
+finalisé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis finalisé(e)
+tu es finalisé(e)
+il (elle) est finalisé(e)
+nous sommes finalisé(e)s
+vous êtes finalisé(e)s
+ils (elles) sont finalisé(e)s
+
+** Imparfait
+
+j'étais finalisé(e)
+tu étais finalisé(e)
+il (elle) était finalisé(e)
+nous étions finalisé(e)s
+vous étiez finalisé(e)s
+ils (elles) étaient finalisé(e)s
+
+** Passé simple
+
+je fus finalisé(e)
+tu fus finalisé(e)
+il (elle) fut finalisé(e)
+nous fûmes finalisé(e)s
+vous fûtes finalisé(e)s
+ils (elles) furent finalisé(e)s
+
+** Futur simple
+
+je serai finalisé(e)
+tu seras finalisé(e)
+il (elle) sera finalisé(e)
+nous serons finalisé(e)s
+vous serez finalisé(e)s
+ils (elles) seront finalisé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais finalisé(e)
+tu serais finalisé(e)
+il (elle) serait finalisé(e)
+nous serions finalisé(e)s
+vous seriez finalisé(e)s
+ils (elles) seraient finalisé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois finalisé(e)
+que tu sois finalisé(e)
+qu’il (elle) soit finalisé(e)
+que nous soyons finalisé(e)s
+que vous soyez finalisé(e)s
+qu’ils (elles) soient finalisé(e)s
+
+** Imparfait
+
+que je fusse finalisé(e)
+que tu fusses finalisé(e)
+qu’il (elle) fût finalisé(e)
+que nous fussions finalisé(e)s
+que vous fussiez finalisé(e)s
+qu’ils (elles) fussent finalisé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons finalisé(e)s
+soyez finalisé(e)s
+
+* INFINITIF
+
+** Présent
+
+être finalisé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant finalisé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été finalisé(e)
+tu as été finalisé(e)
+il (elle) a été finalisé(e)
+nous avons été finalisé(e)s
+vous avez été finalisé(e)s
+ils (elles) ont été finalisé(e)s
+
+** Plus-que-parfait
+
+j'avais été finalisé(e)
+il (elle) avait été finalisé(e)
+nous avions été finalisé(e)s
+ils (elles) avaient été finalisé(e)s
+
+** Passé antérieur
+
+j'eus été finalisé(e)
+tu eus été finalisé(e)
+il (elle) eut été finalisé(e)
+nous eûmes été finalisé(e)s
+vous eûtes été finalisé(e)s
+ils (elles) eurent été finalisé(e)s
+
+** Futur antérieur
+
+j'aurai été finalisé(e)
+tu auras été finalisé(e)
+il (elle) aura été finalisé(e)
+nous aurons été finalisé(e)s
+vous aurez été finalisé(e)s
+ils (elles) auront été finalisé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été finalisé(e)
+j'aurais été finalisé(e)
+il (elle) aurait été finalisé(e)
+nous aurions été finalisé(e)s
+vous auriez été finalisé(e)s
+ils (elles) auraient été finalisé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été finalisé(e)
+que tu aies été finalisé(e)
+qu’il (elle) ait été finalisé(e)
+que nous ayons été finalisé(e)s
+que vous ayez été finalisé(e)s
+qu’ils (elles) aient été finalisé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été finalisé(e)
+que tu eusses été finalisé(e)
+qu’il (elle) eût été finalisé(e)
+que nous eussions été finalisé(e)s
+que vous eussiez été finalisé(e)s
+qu’ils (elles) eussent été finalisé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été finalisé(e)
+ayons été finalisé(e)s
+ayez été finalisé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été finalisé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été finalisé(e)(s)

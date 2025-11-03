@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe redire
+
+* INDICATIF
+
+** Présent
+
+je redis
+tu redis
+il (elle) redit
+nous redisons
+vous redites
+ils (elles) redisent
+
+** Imparfait
+
+je redisais
+tu redisais
+il (elle) redisait
+nous redisions
+vous redisiez
+ils (elles) redisaient
+
+** Passé simple
+
+je redis
+tu redis
+il (elle) redit
+nous redîmes
+vous redîtes
+ils (elles) redirent
+
+** Futur simple
+
+je redirai
+tu rediras
+il (elle) redira
+nous redirons
+vous redirez
+ils (elles) rediront
+
+* CONDITIONNEL
+
+** Présent
+
+je redirais
+tu redirais
+il (elle) redirait
+nous redirions
+vous rediriez
+ils (elles) rediraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je redise
+que tu redises
+qu’il (elle) redise
+que nous redisions
+que vous redisiez
+qu’ils (elles) redisent
+
+** Imparfait
+
+que je redisse
+que tu redisses
+qu’il (elle) redît
+que nous redissions
+que vous redissiez
+qu’ils (elles) redissent
+
+* IMPÉRATIF
+
+** Présent
+
+redis
+redisons
+redites
+
+* INFINITIF
+
+** Présent
+
+redire
+
+* PARTICIPE
+
+** Présent
+
+redisant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai redit
+tu as redit
+il (elle) a redit
+nous avons redit
+vous avez redit
+ils (elles) ont redit
+
+** Plus-que-parfait
+
+j'avais redit
+tu avais redit
+il (elle) avait redit
+nous avions redit
+vous aviez redit
+ils (elles) avaient redit
+
+** Passé antérieur
+
+j'eus redit
+tu eus redit
+il (elle) eut redit
+nous eûmes redit
+vous eûtes redit
+ils (elles) eurent redit
+
+** Futur antérieur
+
+j'aurai redit
+tu auras redit
+il (elle) aura redit
+nous aurons redit
+vous aurez redit
+ils (elles) auront redit
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais redit
+tu aurais redit
+il (elle) aurait redit
+nous aurions redit
+vous auriez redit
+ils (elles) auraient redit
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie redit
+que tu aies redit
+qu’il (elle) ait redit
+que nous ayons redit
+que vous ayez redit
+qu’ils (elles) aient redit
+
+** Plus-que-parfait
+
+que j'eusse redit
+que tu eusses redit
+qu’il (elle) eût redit
+que nous eussions redit
+que vous eussiez redit
+qu’ils (elles) eussent redit
+
+* IMPÉRATIF
+
+** Passé
+
+ayons redit
+ayez redit
+
+* INFINITIF
+
+** Passé
+
+avoir redit
+
+* PARTICIPE
+
+** Passé
+
+ayant redit
+redit (t, te, ts, tes)
+
+* INDICATIF
+
+** Présent
+
+je suis redit(e)
+tu es redit(e)
+il (elle) est redit(e)
+nous sommes redit(e)s
+vous êtes redit(e)s
+ils (elles) sont redit(e)s
+
+** Imparfait
+
+j'étais redit(e)
+tu étais redit(e)
+il (elle) était redit(e)
+nous étions redit(e)s
+vous étiez redit(e)s
+ils (elles) étaient redit(e)s
+
+** Passé simple
+
+je fus redit(e)
+tu fus redit(e)
+il (elle) fut redit(e)
+nous fûmes redit(e)s
+vous fûtes redit(e)s
+ils (elles) furent redit(e)s
+
+** Futur simple
+
+je serai redit(e)
+tu seras redit(e)
+il (elle) sera redit(e)
+nous serons redit(e)s
+vous serez redit(e)s
+ils (elles) seront redit(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais redit(e)
+tu serais redit(e)
+il (elle) serait redit(e)
+nous serions redit(e)s
+vous seriez redit(e)s
+ils (elles) seraient redit(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois redit(e)
+que tu sois redit(e)
+qu’il (elle) soit redit(e)
+que nous soyons redit(e)s
+que vous soyez redit(e)s
+qu’ils (elles) soient redit(e)s
+
+** Imparfait
+
+que je fusse redit(e)
+que tu fusses redit(e)
+qu’il (elle) fût redit(e)
+que nous fussions redit(e)s
+que vous fussiez redit(e)s
+qu’ils (elles) fussent redit(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons redit(e)s
+soyez redit(e)s
+
+* INFINITIF
+
+** Présent
+
+être redit(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant redit(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été redit(e)
+tu as été redit(e)
+il (elle) a été redit(e)
+nous avons été redit(e)s
+vous avez été redit(e)s
+ils (elles) ont été redit(e)s
+
+** Plus-que-parfait
+
+j'avais été redit(e)
+il (elle) avait été redit(e)
+nous avions été redit(e)s
+ils (elles) avaient été redit(e)s
+
+** Passé antérieur
+
+j'eus été redit(e)
+tu eus été redit(e)
+il (elle) eut été redit(e)
+nous eûmes été redit(e)s
+vous eûtes été redit(e)s
+ils (elles) eurent été redit(e)s
+
+** Futur antérieur
+
+j'aurai été redit(e)
+tu auras été redit(e)
+il (elle) aura été redit(e)
+nous aurons été redit(e)s
+vous aurez été redit(e)s
+ils (elles) auront été redit(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été redit(e)
+j'aurais été redit(e)
+il (elle) aurait été redit(e)
+nous aurions été redit(e)s
+vous auriez été redit(e)s
+ils (elles) auraient été redit(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été redit(e)
+que tu aies été redit(e)
+qu’il (elle) ait été redit(e)
+que nous ayons été redit(e)s
+que vous ayez été redit(e)s
+qu’ils (elles) aient été redit(e)s
+
+** Plus-que-parfait
+
+que j'eusse été redit(e)
+que tu eusses été redit(e)
+qu’il (elle) eût été redit(e)
+que nous eussions été redit(e)s
+que vous eussiez été redit(e)s
+qu’ils (elles) eussent été redit(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été redit(e)
+ayons été redit(e)s
+ayez été redit(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été redit(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été redit(e)(s)

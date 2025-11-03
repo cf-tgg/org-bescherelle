@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe ressembler
+
+* INDICATIF
+
+** Présent
+
+je ressemble
+tu ressembles
+il (elle) ressemble
+nous ressemblons
+vous ressemblez
+ils (elles) ressemblent
+
+** Imparfait
+
+je ressemblais
+tu ressemblais
+il (elle) ressemblait
+nous ressemblions
+vous ressembliez
+ils (elles) ressemblaient
+
+** Passé simple
+
+je ressemblai
+tu ressemblas
+il (elle) ressembla
+nous ressemblâmes
+vous ressemblâtes
+ils (elles) ressemblèrent
+
+** Futur simple
+
+je ressemblerai
+tu ressembleras
+il (elle) ressemblera
+nous ressemblerons
+vous ressemblerez
+ils (elles) ressembleront
+
+* CONDITIONNEL
+
+** Présent
+
+je ressemblerais
+tu ressemblerais
+il (elle) ressemblerait
+nous ressemblerions
+vous ressembleriez
+ils (elles) ressembleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ressemble
+que tu ressembles
+qu’il (elle) ressemble
+que nous ressemblions
+que vous ressembliez
+qu’ils (elles) ressemblent
+
+** Imparfait
+
+que je ressemblasse
+que tu ressemblasses
+qu’il (elle) ressemblât
+que nous ressemblassions
+que vous ressemblassiez
+qu’ils (elles) ressemblassent
+
+* IMPÉRATIF
+
+** Présent
+
+ressemble
+ressemblons
+ressemblez
+
+* INFINITIF
+
+** Présent
+
+ressembler
+
+* PARTICIPE
+
+** Présent
+
+ressemblant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ressemblé
+tu as ressemblé
+il (elle) a ressemblé
+nous avons ressemblé
+vous avez ressemblé
+ils (elles) ont ressemblé
+
+** Plus-que-parfait
+
+j'avais ressemblé
+tu avais ressemblé
+il (elle) avait ressemblé
+nous avions ressemblé
+vous aviez ressemblé
+ils (elles) avaient ressemblé
+
+** Passé antérieur
+
+j'eus ressemblé
+tu eus ressemblé
+il (elle) eut ressemblé
+nous eûmes ressemblé
+vous eûtes ressemblé
+ils (elles) eurent ressemblé
+
+** Futur antérieur
+
+j'aurai ressemblé
+tu auras ressemblé
+il (elle) aura ressemblé
+nous aurons ressemblé
+vous aurez ressemblé
+ils (elles) auront ressemblé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ressemblé
+tu aurais ressemblé
+il (elle) aurait ressemblé
+nous aurions ressemblé
+vous auriez ressemblé
+ils (elles) auraient ressemblé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ressemblé
+que tu aies ressemblé
+qu’il (elle) ait ressemblé
+que nous ayons ressemblé
+que vous ayez ressemblé
+qu’ils (elles) aient ressemblé
+
+** Plus-que-parfait
+
+que j'eusse ressemblé
+que tu eusses ressemblé
+qu’il (elle) eût ressemblé
+que nous eussions ressemblé
+que vous eussiez ressemblé
+qu’ils (elles) eussent ressemblé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ressemblé
+ayez ressemblé
+
+* INFINITIF
+
+** Passé
+
+avoir ressemblé
+
+* PARTICIPE
+
+** Passé
+
+ayant ressemblé
+ressemblé (invar.)

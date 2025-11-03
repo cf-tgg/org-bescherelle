@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe servir
+
+* INDICATIF
+
+** Présent
+
+je sers
+tu sers
+il (elle) sert
+nous servons
+vous servez
+ils (elles) servent
+
+** Imparfait
+
+je servais
+tu servais
+il (elle) servait
+nous servions
+vous serviez
+ils (elles) servaient
+
+** Passé simple
+
+je servis
+tu servis
+il (elle) servit
+nous servîmes
+vous servîtes
+ils (elles) servirent
+
+** Futur simple
+
+je servirai
+tu serviras
+il (elle) servira
+nous servirons
+vous servirez
+ils (elles) serviront
+
+* CONDITIONNEL
+
+** Présent
+
+je servirais
+tu servirais
+il (elle) servirait
+nous servirions
+vous serviriez
+ils (elles) serviraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je serve
+que tu serves
+qu’il (elle) serve
+que nous servions
+que vous serviez
+qu’ils (elles) servent
+
+** Imparfait
+
+que je servisse
+que tu servisses
+qu’il (elle) servît
+que nous servissions
+que vous servissiez
+qu’ils (elles) servissent
+
+* IMPÉRATIF
+
+** Présent
+
+sers
+servons
+servez
+
+* INFINITIF
+
+** Présent
+
+servir
+
+* PARTICIPE
+
+** Présent
+
+servant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai servi
+tu as servi
+il (elle) a servi
+nous avons servi
+vous avez servi
+ils (elles) ont servi
+
+** Plus-que-parfait
+
+j'avais servi
+tu avais servi
+il (elle) avait servi
+nous avions servi
+vous aviez servi
+ils (elles) avaient servi
+
+** Passé antérieur
+
+j'eus servi
+tu eus servi
+il (elle) eut servi
+nous eûmes servi
+vous eûtes servi
+ils (elles) eurent servi
+
+** Futur antérieur
+
+j'aurai servi
+tu auras servi
+il (elle) aura servi
+nous aurons servi
+vous aurez servi
+ils (elles) auront servi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais servi
+tu aurais servi
+il (elle) aurait servi
+nous aurions servi
+vous auriez servi
+ils (elles) auraient servi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie servi
+que tu aies servi
+qu’il (elle) ait servi
+que nous ayons servi
+que vous ayez servi
+qu’ils (elles) aient servi
+
+** Plus-que-parfait
+
+que j'eusse servi
+que tu eusses servi
+qu’il (elle) eût servi
+que nous eussions servi
+que vous eussiez servi
+qu’ils (elles) eussent servi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons servi
+ayez servi
+
+* INFINITIF
+
+** Passé
+
+avoir servi
+
+* PARTICIPE
+
+** Passé
+
+ayant servi
+servi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis servi(e)
+tu es servi(e)
+il (elle) est servi(e)
+nous sommes servi(e)s
+vous êtes servi(e)s
+ils (elles) sont servi(e)s
+
+** Imparfait
+
+j'étais servi(e)
+tu étais servi(e)
+il (elle) était servi(e)
+nous étions servi(e)s
+vous étiez servi(e)s
+ils (elles) étaient servi(e)s
+
+** Passé simple
+
+je fus servi(e)
+tu fus servi(e)
+il (elle) fut servi(e)
+nous fûmes servi(e)s
+vous fûtes servi(e)s
+ils (elles) furent servi(e)s
+
+** Futur simple
+
+je serai servi(e)
+tu seras servi(e)
+il (elle) sera servi(e)
+nous serons servi(e)s
+vous serez servi(e)s
+ils (elles) seront servi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais servi(e)
+tu serais servi(e)
+il (elle) serait servi(e)
+nous serions servi(e)s
+vous seriez servi(e)s
+ils (elles) seraient servi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois servi(e)
+que tu sois servi(e)
+qu’il (elle) soit servi(e)
+que nous soyons servi(e)s
+que vous soyez servi(e)s
+qu’ils (elles) soient servi(e)s
+
+** Imparfait
+
+que je fusse servi(e)
+que tu fusses servi(e)
+qu’il (elle) fût servi(e)
+que nous fussions servi(e)s
+que vous fussiez servi(e)s
+qu’ils (elles) fussent servi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons servi(e)s
+soyez servi(e)s
+
+* INFINITIF
+
+** Présent
+
+être servi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant servi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été servi(e)
+tu as été servi(e)
+il (elle) a été servi(e)
+nous avons été servi(e)s
+vous avez été servi(e)s
+ils (elles) ont été servi(e)s
+
+** Plus-que-parfait
+
+j'avais été servi(e)
+il (elle) avait été servi(e)
+nous avions été servi(e)s
+ils (elles) avaient été servi(e)s
+
+** Passé antérieur
+
+j'eus été servi(e)
+tu eus été servi(e)
+il (elle) eut été servi(e)
+nous eûmes été servi(e)s
+vous eûtes été servi(e)s
+ils (elles) eurent été servi(e)s
+
+** Futur antérieur
+
+j'aurai été servi(e)
+tu auras été servi(e)
+il (elle) aura été servi(e)
+nous aurons été servi(e)s
+vous aurez été servi(e)s
+ils (elles) auront été servi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été servi(e)
+j'aurais été servi(e)
+il (elle) aurait été servi(e)
+nous aurions été servi(e)s
+vous auriez été servi(e)s
+ils (elles) auraient été servi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été servi(e)
+que tu aies été servi(e)
+qu’il (elle) ait été servi(e)
+que nous ayons été servi(e)s
+que vous ayez été servi(e)s
+qu’ils (elles) aient été servi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été servi(e)
+que tu eusses été servi(e)
+qu’il (elle) eût été servi(e)
+que nous eussions été servi(e)s
+que vous eussiez été servi(e)s
+qu’ils (elles) eussent été servi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été servi(e)
+ayons été servi(e)s
+ayez été servi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été servi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été servi(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conter
+
+* INDICATIF
+
+** Présent
+
+je conte
+tu contes
+il (elle) conte
+nous contons
+vous contez
+ils (elles) content
+
+** Imparfait
+
+je contais
+tu contais
+il (elle) contait
+nous contions
+vous contiez
+ils (elles) contaient
+
+** Passé simple
+
+je contai
+tu contas
+il (elle) conta
+nous contâmes
+vous contâtes
+ils (elles) contèrent
+
+** Futur simple
+
+je conterai
+tu conteras
+il (elle) contera
+nous conterons
+vous conterez
+ils (elles) conteront
+
+* CONDITIONNEL
+
+** Présent
+
+je conterais
+tu conterais
+il (elle) conterait
+nous conterions
+vous conteriez
+ils (elles) conteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conte
+que tu contes
+qu’il (elle) conte
+que nous contions
+que vous contiez
+qu’ils (elles) content
+
+** Imparfait
+
+que je contasse
+que tu contasses
+qu’il (elle) contât
+que nous contassions
+que vous contassiez
+qu’ils (elles) contassent
+
+* IMPÉRATIF
+
+** Présent
+
+conte
+contons
+contez
+
+* INFINITIF
+
+** Présent
+
+conter
+
+* PARTICIPE
+
+** Présent
+
+contant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conté
+tu as conté
+il (elle) a conté
+nous avons conté
+vous avez conté
+ils (elles) ont conté
+
+** Plus-que-parfait
+
+j'avais conté
+tu avais conté
+il (elle) avait conté
+nous avions conté
+vous aviez conté
+ils (elles) avaient conté
+
+** Passé antérieur
+
+j'eus conté
+tu eus conté
+il (elle) eut conté
+nous eûmes conté
+vous eûtes conté
+ils (elles) eurent conté
+
+** Futur antérieur
+
+j'aurai conté
+tu auras conté
+il (elle) aura conté
+nous aurons conté
+vous aurez conté
+ils (elles) auront conté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conté
+tu aurais conté
+il (elle) aurait conté
+nous aurions conté
+vous auriez conté
+ils (elles) auraient conté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conté
+que tu aies conté
+qu’il (elle) ait conté
+que nous ayons conté
+que vous ayez conté
+qu’ils (elles) aient conté
+
+** Plus-que-parfait
+
+que j'eusse conté
+que tu eusses conté
+qu’il (elle) eût conté
+que nous eussions conté
+que vous eussiez conté
+qu’ils (elles) eussent conté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conté
+ayez conté
+
+* INFINITIF
+
+** Passé
+
+avoir conté
+
+* PARTICIPE
+
+** Passé
+
+ayant conté
+conté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis conté(e)
+tu es conté(e)
+il (elle) est conté(e)
+nous sommes conté(e)s
+vous êtes conté(e)s
+ils (elles) sont conté(e)s
+
+** Imparfait
+
+j'étais conté(e)
+tu étais conté(e)
+il (elle) était conté(e)
+nous étions conté(e)s
+vous étiez conté(e)s
+ils (elles) étaient conté(e)s
+
+** Passé simple
+
+je fus conté(e)
+tu fus conté(e)
+il (elle) fut conté(e)
+nous fûmes conté(e)s
+vous fûtes conté(e)s
+ils (elles) furent conté(e)s
+
+** Futur simple
+
+je serai conté(e)
+tu seras conté(e)
+il (elle) sera conté(e)
+nous serons conté(e)s
+vous serez conté(e)s
+ils (elles) seront conté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conté(e)
+tu serais conté(e)
+il (elle) serait conté(e)
+nous serions conté(e)s
+vous seriez conté(e)s
+ils (elles) seraient conté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conté(e)
+que tu sois conté(e)
+qu’il (elle) soit conté(e)
+que nous soyons conté(e)s
+que vous soyez conté(e)s
+qu’ils (elles) soient conté(e)s
+
+** Imparfait
+
+que je fusse conté(e)
+que tu fusses conté(e)
+qu’il (elle) fût conté(e)
+que nous fussions conté(e)s
+que vous fussiez conté(e)s
+qu’ils (elles) fussent conté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conté(e)s
+soyez conté(e)s
+
+* INFINITIF
+
+** Présent
+
+être conté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant conté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conté(e)
+tu as été conté(e)
+il (elle) a été conté(e)
+nous avons été conté(e)s
+vous avez été conté(e)s
+ils (elles) ont été conté(e)s
+
+** Plus-que-parfait
+
+j'avais été conté(e)
+il (elle) avait été conté(e)
+nous avions été conté(e)s
+ils (elles) avaient été conté(e)s
+
+** Passé antérieur
+
+j'eus été conté(e)
+tu eus été conté(e)
+il (elle) eut été conté(e)
+nous eûmes été conté(e)s
+vous eûtes été conté(e)s
+ils (elles) eurent été conté(e)s
+
+** Futur antérieur
+
+j'aurai été conté(e)
+tu auras été conté(e)
+il (elle) aura été conté(e)
+nous aurons été conté(e)s
+vous aurez été conté(e)s
+ils (elles) auront été conté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conté(e)
+j'aurais été conté(e)
+il (elle) aurait été conté(e)
+nous aurions été conté(e)s
+vous auriez été conté(e)s
+ils (elles) auraient été conté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conté(e)
+que tu aies été conté(e)
+qu’il (elle) ait été conté(e)
+que nous ayons été conté(e)s
+que vous ayez été conté(e)s
+qu’ils (elles) aient été conté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été conté(e)
+que tu eusses été conté(e)
+qu’il (elle) eût été conté(e)
+que nous eussions été conté(e)s
+que vous eussiez été conté(e)s
+qu’ils (elles) eussent été conté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conté(e)
+ayons été conté(e)s
+ayez été conté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été conté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conté(e)(s)

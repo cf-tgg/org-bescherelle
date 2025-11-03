@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe consoler
+
+* INDICATIF
+
+** Présent
+
+je console
+tu consoles
+il (elle) console
+nous consolons
+vous consolez
+ils (elles) consolent
+
+** Imparfait
+
+je consolais
+tu consolais
+il (elle) consolait
+nous consolions
+vous consoliez
+ils (elles) consolaient
+
+** Passé simple
+
+je consolai
+tu consolas
+il (elle) consola
+nous consolâmes
+vous consolâtes
+ils (elles) consolèrent
+
+** Futur simple
+
+je consolerai
+tu consoleras
+il (elle) consolera
+nous consolerons
+vous consolerez
+ils (elles) consoleront
+
+* CONDITIONNEL
+
+** Présent
+
+je consolerais
+tu consolerais
+il (elle) consolerait
+nous consolerions
+vous consoleriez
+ils (elles) consoleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je console
+que tu consoles
+qu’il (elle) console
+que nous consolions
+que vous consoliez
+qu’ils (elles) consolent
+
+** Imparfait
+
+que je consolasse
+que tu consolasses
+qu’il (elle) consolât
+que nous consolassions
+que vous consolassiez
+qu’ils (elles) consolassent
+
+* IMPÉRATIF
+
+** Présent
+
+console
+consolons
+consolez
+
+* INFINITIF
+
+** Présent
+
+consoler
+
+* PARTICIPE
+
+** Présent
+
+consolant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai consolé
+tu as consolé
+il (elle) a consolé
+nous avons consolé
+vous avez consolé
+ils (elles) ont consolé
+
+** Plus-que-parfait
+
+j'avais consolé
+tu avais consolé
+il (elle) avait consolé
+nous avions consolé
+vous aviez consolé
+ils (elles) avaient consolé
+
+** Passé antérieur
+
+j'eus consolé
+tu eus consolé
+il (elle) eut consolé
+nous eûmes consolé
+vous eûtes consolé
+ils (elles) eurent consolé
+
+** Futur antérieur
+
+j'aurai consolé
+tu auras consolé
+il (elle) aura consolé
+nous aurons consolé
+vous aurez consolé
+ils (elles) auront consolé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais consolé
+tu aurais consolé
+il (elle) aurait consolé
+nous aurions consolé
+vous auriez consolé
+ils (elles) auraient consolé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie consolé
+que tu aies consolé
+qu’il (elle) ait consolé
+que nous ayons consolé
+que vous ayez consolé
+qu’ils (elles) aient consolé
+
+** Plus-que-parfait
+
+que j'eusse consolé
+que tu eusses consolé
+qu’il (elle) eût consolé
+que nous eussions consolé
+que vous eussiez consolé
+qu’ils (elles) eussent consolé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons consolé
+ayez consolé
+
+* INFINITIF
+
+** Passé
+
+avoir consolé
+
+* PARTICIPE
+
+** Passé
+
+ayant consolé
+consolé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis consolé(e)
+tu es consolé(e)
+il (elle) est consolé(e)
+nous sommes consolé(e)s
+vous êtes consolé(e)s
+ils (elles) sont consolé(e)s
+
+** Imparfait
+
+j'étais consolé(e)
+tu étais consolé(e)
+il (elle) était consolé(e)
+nous étions consolé(e)s
+vous étiez consolé(e)s
+ils (elles) étaient consolé(e)s
+
+** Passé simple
+
+je fus consolé(e)
+tu fus consolé(e)
+il (elle) fut consolé(e)
+nous fûmes consolé(e)s
+vous fûtes consolé(e)s
+ils (elles) furent consolé(e)s
+
+** Futur simple
+
+je serai consolé(e)
+tu seras consolé(e)
+il (elle) sera consolé(e)
+nous serons consolé(e)s
+vous serez consolé(e)s
+ils (elles) seront consolé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais consolé(e)
+tu serais consolé(e)
+il (elle) serait consolé(e)
+nous serions consolé(e)s
+vous seriez consolé(e)s
+ils (elles) seraient consolé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois consolé(e)
+que tu sois consolé(e)
+qu’il (elle) soit consolé(e)
+que nous soyons consolé(e)s
+que vous soyez consolé(e)s
+qu’ils (elles) soient consolé(e)s
+
+** Imparfait
+
+que je fusse consolé(e)
+que tu fusses consolé(e)
+qu’il (elle) fût consolé(e)
+que nous fussions consolé(e)s
+que vous fussiez consolé(e)s
+qu’ils (elles) fussent consolé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons consolé(e)s
+soyez consolé(e)s
+
+* INFINITIF
+
+** Présent
+
+être consolé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant consolé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été consolé(e)
+tu as été consolé(e)
+il (elle) a été consolé(e)
+nous avons été consolé(e)s
+vous avez été consolé(e)s
+ils (elles) ont été consolé(e)s
+
+** Plus-que-parfait
+
+j'avais été consolé(e)
+il (elle) avait été consolé(e)
+nous avions été consolé(e)s
+ils (elles) avaient été consolé(e)s
+
+** Passé antérieur
+
+j'eus été consolé(e)
+tu eus été consolé(e)
+il (elle) eut été consolé(e)
+nous eûmes été consolé(e)s
+vous eûtes été consolé(e)s
+ils (elles) eurent été consolé(e)s
+
+** Futur antérieur
+
+j'aurai été consolé(e)
+tu auras été consolé(e)
+il (elle) aura été consolé(e)
+nous aurons été consolé(e)s
+vous aurez été consolé(e)s
+ils (elles) auront été consolé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été consolé(e)
+j'aurais été consolé(e)
+il (elle) aurait été consolé(e)
+nous aurions été consolé(e)s
+vous auriez été consolé(e)s
+ils (elles) auraient été consolé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été consolé(e)
+que tu aies été consolé(e)
+qu’il (elle) ait été consolé(e)
+que nous ayons été consolé(e)s
+que vous ayez été consolé(e)s
+qu’ils (elles) aient été consolé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été consolé(e)
+que tu eusses été consolé(e)
+qu’il (elle) eût été consolé(e)
+que nous eussions été consolé(e)s
+que vous eussiez été consolé(e)s
+qu’ils (elles) eussent été consolé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été consolé(e)
+ayons été consolé(e)s
+ayez été consolé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été consolé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été consolé(e)(s)

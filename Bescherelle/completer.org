@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe completer
+
+* INDICATIF
+
+** Présent
+
+je complète
+tu complètes
+il (elle) complète
+nous complétons
+vous complétez
+ils (elles) complètent
+
+** Imparfait
+
+je complétais
+tu complétais
+il (elle) complétait
+nous complétions
+vous complétiez
+ils (elles) complétaient
+
+** Passé simple
+
+je complétai
+tu complétas
+il (elle) compléta
+nous complétâmes
+vous complétâtes
+ils (elles) complétèrent
+
+** Futur simple
+
+je compléterai
+tu compléteras
+il (elle) complétera
+nous compléterons
+vous compléterez
+ils (elles) compléteront
+
+* CONDITIONNEL
+
+** Présent
+
+je compléterais
+tu compléterais
+il (elle) compléterait
+nous compléterions
+vous compléteriez
+ils (elles) compléteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je complète
+que tu complètes
+qu’il (elle) complète
+que nous complétions
+que vous complétiez
+qu’ils (elles) complètent
+
+** Imparfait
+
+que je complétasse
+que tu complétasses
+qu’il (elle) complétât
+que nous complétassions
+que vous complétassiez
+qu’ils (elles) complétassent
+
+* IMPÉRATIF
+
+** Présent
+
+complète
+complétons
+complétez
+
+* INFINITIF
+
+** Présent
+
+compléter
+
+* PARTICIPE
+
+** Présent
+
+complétant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai complété
+tu as complété
+il (elle) a complété
+nous avons complété
+vous avez complété
+ils (elles) ont complété
+
+** Plus-que-parfait
+
+j'avais complété
+tu avais complété
+il (elle) avait complété
+nous avions complété
+vous aviez complété
+ils (elles) avaient complété
+
+** Passé antérieur
+
+j'eus complété
+tu eus complété
+il (elle) eut complété
+nous eûmes complété
+vous eûtes complété
+ils (elles) eurent complété
+
+** Futur antérieur
+
+j'aurai complété
+tu auras complété
+il (elle) aura complété
+nous aurons complété
+vous aurez complété
+ils (elles) auront complété
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais complété
+tu aurais complété
+il (elle) aurait complété
+nous aurions complété
+vous auriez complété
+ils (elles) auraient complété
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie complété
+que tu aies complété
+qu’il (elle) ait complété
+que nous ayons complété
+que vous ayez complété
+qu’ils (elles) aient complété
+
+** Plus-que-parfait
+
+que j'eusse complété
+que tu eusses complété
+qu’il (elle) eût complété
+que nous eussions complété
+que vous eussiez complété
+qu’ils (elles) eussent complété
+
+* IMPÉRATIF
+
+** Passé
+
+ayons complété
+ayez complété
+
+* INFINITIF
+
+** Passé
+
+avoir complété
+
+* PARTICIPE
+
+** Passé
+
+ayant complété
+complété (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis complété(e)
+tu es complété(e)
+il (elle) est complété(e)
+nous sommes complété(e)s
+vous êtes complété(e)s
+ils (elles) sont complété(e)s
+
+** Imparfait
+
+j'étais complété(e)
+tu étais complété(e)
+il (elle) était complété(e)
+nous étions complété(e)s
+vous étiez complété(e)s
+ils (elles) étaient complété(e)s
+
+** Passé simple
+
+je fus complété(e)
+tu fus complété(e)
+il (elle) fut complété(e)
+nous fûmes complété(e)s
+vous fûtes complété(e)s
+ils (elles) furent complété(e)s
+
+** Futur simple
+
+je serai complété(e)
+tu seras complété(e)
+il (elle) sera complété(e)
+nous serons complété(e)s
+vous serez complété(e)s
+ils (elles) seront complété(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais complété(e)
+tu serais complété(e)
+il (elle) serait complété(e)
+nous serions complété(e)s
+vous seriez complété(e)s
+ils (elles) seraient complété(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois complété(e)
+que tu sois complété(e)
+qu’il (elle) soit complété(e)
+que nous soyons complété(e)s
+que vous soyez complété(e)s
+qu’ils (elles) soient complété(e)s
+
+** Imparfait
+
+que je fusse complété(e)
+que tu fusses complété(e)
+qu’il (elle) fût complété(e)
+que nous fussions complété(e)s
+que vous fussiez complété(e)s
+qu’ils (elles) fussent complété(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons complété(e)s
+soyez complété(e)s
+
+* INFINITIF
+
+** Présent
+
+être complété(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant complété(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été complété(e)
+tu as été complété(e)
+il (elle) a été complété(e)
+nous avons été complété(e)s
+vous avez été complété(e)s
+ils (elles) ont été complété(e)s
+
+** Plus-que-parfait
+
+j'avais été complété(e)
+il (elle) avait été complété(e)
+nous avions été complété(e)s
+ils (elles) avaient été complété(e)s
+
+** Passé antérieur
+
+j'eus été complété(e)
+tu eus été complété(e)
+il (elle) eut été complété(e)
+nous eûmes été complété(e)s
+vous eûtes été complété(e)s
+ils (elles) eurent été complété(e)s
+
+** Futur antérieur
+
+j'aurai été complété(e)
+tu auras été complété(e)
+il (elle) aura été complété(e)
+nous aurons été complété(e)s
+vous aurez été complété(e)s
+ils (elles) auront été complété(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été complété(e)
+j'aurais été complété(e)
+il (elle) aurait été complété(e)
+nous aurions été complété(e)s
+vous auriez été complété(e)s
+ils (elles) auraient été complété(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été complété(e)
+que tu aies été complété(e)
+qu’il (elle) ait été complété(e)
+que nous ayons été complété(e)s
+que vous ayez été complété(e)s
+qu’ils (elles) aient été complété(e)s
+
+** Plus-que-parfait
+
+que j'eusse été complété(e)
+que tu eusses été complété(e)
+qu’il (elle) eût été complété(e)
+que nous eussions été complété(e)s
+que vous eussiez été complété(e)s
+qu’ils (elles) eussent été complété(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été complété(e)
+ayons été complété(e)s
+ayez été complété(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été complété(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été complété(e)(s)

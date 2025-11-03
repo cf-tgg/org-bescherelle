@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe apporter
+
+* INDICATIF
+
+** Présent
+
+j'apporte
+tu apportes
+il (elle) apporte
+nous apportons
+vous apportez
+ils (elles) apportent
+
+** Imparfait
+
+j'apportais
+tu apportais
+il (elle) apportait
+nous apportions
+vous apportiez
+ils (elles) apportaient
+
+** Passé simple
+
+j'apportai
+tu apportas
+il (elle) apporta
+nous apportâmes
+vous apportâtes
+ils (elles) apportèrent
+
+** Futur simple
+
+j'apporterai
+tu apporteras
+il (elle) apportera
+nous apporterons
+vous apporterez
+ils (elles) apporteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'apporterais
+tu apporterais
+il (elle) apporterait
+nous apporterions
+vous apporteriez
+ils (elles) apporteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'apporte
+que tu apportes
+qu’il (elle) apporte
+que nous apportions
+que vous apportiez
+qu’ils (elles) apportent
+
+** Imparfait
+
+que j'apportasse
+que tu apportasses
+qu’il (elle) apportât
+que nous apportassions
+que vous apportassiez
+qu’ils (elles) apportassent
+
+* IMPÉRATIF
+
+** Présent
+
+apporte
+apportons
+apportez
+
+* INFINITIF
+
+** Présent
+
+apporter
+
+* PARTICIPE
+
+** Présent
+
+apportant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai apporté
+tu as apporté
+il (elle) a apporté
+nous avons apporté
+vous avez apporté
+ils (elles) ont apporté
+
+** Plus-que-parfait
+
+j'avais apporté
+tu avais apporté
+il (elle) avait apporté
+nous avions apporté
+vous aviez apporté
+ils (elles) avaient apporté
+
+** Passé antérieur
+
+j'eus apporté
+tu eus apporté
+il (elle) eut apporté
+nous eûmes apporté
+vous eûtes apporté
+ils (elles) eurent apporté
+
+** Futur antérieur
+
+j'aurai apporté
+tu auras apporté
+il (elle) aura apporté
+nous aurons apporté
+vous aurez apporté
+ils (elles) auront apporté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais apporté
+tu aurais apporté
+il (elle) aurait apporté
+nous aurions apporté
+vous auriez apporté
+ils (elles) auraient apporté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie apporté
+que tu aies apporté
+qu’il (elle) ait apporté
+que nous ayons apporté
+que vous ayez apporté
+qu’ils (elles) aient apporté
+
+** Plus-que-parfait
+
+que j'eusse apporté
+que tu eusses apporté
+qu’il (elle) eût apporté
+que nous eussions apporté
+que vous eussiez apporté
+qu’ils (elles) eussent apporté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons apporté
+ayez apporté
+
+* INFINITIF
+
+** Passé
+
+avoir apporté
+
+* PARTICIPE
+
+** Passé
+
+ayant apporté
+apporté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis apporté(e)
+tu es apporté(e)
+il (elle) est apporté(e)
+nous sommes apporté(e)s
+vous êtes apporté(e)s
+ils (elles) sont apporté(e)s
+
+** Imparfait
+
+j'étais apporté(e)
+tu étais apporté(e)
+il (elle) était apporté(e)
+nous étions apporté(e)s
+vous étiez apporté(e)s
+ils (elles) étaient apporté(e)s
+
+** Passé simple
+
+je fus apporté(e)
+tu fus apporté(e)
+il (elle) fut apporté(e)
+nous fûmes apporté(e)s
+vous fûtes apporté(e)s
+ils (elles) furent apporté(e)s
+
+** Futur simple
+
+je serai apporté(e)
+tu seras apporté(e)
+il (elle) sera apporté(e)
+nous serons apporté(e)s
+vous serez apporté(e)s
+ils (elles) seront apporté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais apporté(e)
+tu serais apporté(e)
+il (elle) serait apporté(e)
+nous serions apporté(e)s
+vous seriez apporté(e)s
+ils (elles) seraient apporté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois apporté(e)
+que tu sois apporté(e)
+qu’il (elle) soit apporté(e)
+que nous soyons apporté(e)s
+que vous soyez apporté(e)s
+qu’ils (elles) soient apporté(e)s
+
+** Imparfait
+
+que je fusse apporté(e)
+que tu fusses apporté(e)
+qu’il (elle) fût apporté(e)
+que nous fussions apporté(e)s
+que vous fussiez apporté(e)s
+qu’ils (elles) fussent apporté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons apporté(e)s
+soyez apporté(e)s
+
+* INFINITIF
+
+** Présent
+
+être apporté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant apporté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été apporté(e)
+tu as été apporté(e)
+il (elle) a été apporté(e)
+nous avons été apporté(e)s
+vous avez été apporté(e)s
+ils (elles) ont été apporté(e)s
+
+** Plus-que-parfait
+
+j'avais été apporté(e)
+il (elle) avait été apporté(e)
+nous avions été apporté(e)s
+ils (elles) avaient été apporté(e)s
+
+** Passé antérieur
+
+j'eus été apporté(e)
+tu eus été apporté(e)
+il (elle) eut été apporté(e)
+nous eûmes été apporté(e)s
+vous eûtes été apporté(e)s
+ils (elles) eurent été apporté(e)s
+
+** Futur antérieur
+
+j'aurai été apporté(e)
+tu auras été apporté(e)
+il (elle) aura été apporté(e)
+nous aurons été apporté(e)s
+vous aurez été apporté(e)s
+ils (elles) auront été apporté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été apporté(e)
+j'aurais été apporté(e)
+il (elle) aurait été apporté(e)
+nous aurions été apporté(e)s
+vous auriez été apporté(e)s
+ils (elles) auraient été apporté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été apporté(e)
+que tu aies été apporté(e)
+qu’il (elle) ait été apporté(e)
+que nous ayons été apporté(e)s
+que vous ayez été apporté(e)s
+qu’ils (elles) aient été apporté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été apporté(e)
+que tu eusses été apporté(e)
+qu’il (elle) eût été apporté(e)
+que nous eussions été apporté(e)s
+que vous eussiez été apporté(e)s
+qu’ils (elles) eussent été apporté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été apporté(e)
+ayons été apporté(e)s
+ayez été apporté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été apporté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été apporté(e)(s)

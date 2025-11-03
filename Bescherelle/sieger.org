@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe sieger
+
+* INDICATIF
+
+** Présent
+
+je siège
+tu sièges
+il (elle) siège
+nous siégeons
+vous siégez
+ils (elles) siègent
+
+** Imparfait
+
+je siégeais
+tu siégeais
+il (elle) siégeait
+nous siégions
+vous siégiez
+ils (elles) siégeaient
+
+** Passé simple
+
+je siégeai
+tu siégeas
+il (elle) siégea
+nous siégeâmes
+vous siégeâtes
+ils (elles) siégèrent
+
+** Futur simple
+
+je siégerai
+tu siégeras
+il (elle) siégera
+nous siégerons
+vous siégerez
+ils (elles) siégeront
+
+* CONDITIONNEL
+
+** Présent
+
+je siégerais
+tu siégerais
+il (elle) siégerait
+nous siégerions
+vous siégeriez
+ils (elles) siégeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je siège
+que tu sièges
+qu’il (elle) siège
+que nous siégions
+que vous siégiez
+qu’ils (elles) siègent
+
+** Imparfait
+
+que je siégeasse
+que tu siégeasses
+qu’il (elle) siégeât
+que nous siégeassions
+que vous siégeassiez
+qu’ils (elles) siégeassent
+
+* IMPÉRATIF
+
+** Présent
+
+siège
+siégeons
+siégez
+
+* INFINITIF
+
+** Présent
+
+siéger
+
+* PARTICIPE
+
+** Présent
+
+siégeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai siégé
+tu as siégé
+il (elle) a siégé
+nous avons siégé
+vous avez siégé
+ils (elles) ont siégé
+
+** Plus-que-parfait
+
+j'avais siégé
+tu avais siégé
+il (elle) avait siégé
+nous avions siégé
+vous aviez siégé
+ils (elles) avaient siégé
+
+** Passé antérieur
+
+j'eus siégé
+tu eus siégé
+il (elle) eut siégé
+nous eûmes siégé
+vous eûtes siégé
+ils (elles) eurent siégé
+
+** Futur antérieur
+
+j'aurai siégé
+tu auras siégé
+il (elle) aura siégé
+nous aurons siégé
+vous aurez siégé
+ils (elles) auront siégé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais siégé
+tu aurais siégé
+il (elle) aurait siégé
+nous aurions siégé
+vous auriez siégé
+ils (elles) auraient siégé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie siégé
+que tu aies siégé
+qu’il (elle) ait siégé
+que nous ayons siégé
+que vous ayez siégé
+qu’ils (elles) aient siégé
+
+** Plus-que-parfait
+
+que j'eusse siégé
+que tu eusses siégé
+qu’il (elle) eût siégé
+que nous eussions siégé
+que vous eussiez siégé
+qu’ils (elles) eussent siégé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons siégé
+ayez siégé
+
+* INFINITIF
+
+** Passé
+
+avoir siégé
+
+* PARTICIPE
+
+** Passé
+
+ayant siégé
+siégé (invar.)

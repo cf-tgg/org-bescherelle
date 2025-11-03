@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe mouiller
+
+* INDICATIF
+
+** Présent
+
+je mouille
+tu mouilles
+il (elle) mouille
+nous mouillons
+vous mouillez
+ils (elles) mouillent
+
+** Imparfait
+
+je mouillais
+tu mouillais
+il (elle) mouillait
+nous mouillions
+vous mouilliez
+ils (elles) mouillaient
+
+** Passé simple
+
+je mouillai
+tu mouillas
+il (elle) mouilla
+nous mouillâmes
+vous mouillâtes
+ils (elles) mouillèrent
+
+** Futur simple
+
+je mouillerai
+tu mouilleras
+il (elle) mouillera
+nous mouillerons
+vous mouillerez
+ils (elles) mouilleront
+
+* CONDITIONNEL
+
+** Présent
+
+je mouillerais
+tu mouillerais
+il (elle) mouillerait
+nous mouillerions
+vous mouilleriez
+ils (elles) mouilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je mouille
+que tu mouilles
+qu’il (elle) mouille
+que nous mouillions
+que vous mouilliez
+qu’ils (elles) mouillent
+
+** Imparfait
+
+que je mouillasse
+que tu mouillasses
+qu’il (elle) mouillât
+que nous mouillassions
+que vous mouillassiez
+qu’ils (elles) mouillassent
+
+* IMPÉRATIF
+
+** Présent
+
+mouille
+mouillons
+mouillez
+
+* INFINITIF
+
+** Présent
+
+mouiller
+
+* PARTICIPE
+
+** Présent
+
+mouillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai mouillé
+tu as mouillé
+il (elle) a mouillé
+nous avons mouillé
+vous avez mouillé
+ils (elles) ont mouillé
+
+** Plus-que-parfait
+
+j'avais mouillé
+tu avais mouillé
+il (elle) avait mouillé
+nous avions mouillé
+vous aviez mouillé
+ils (elles) avaient mouillé
+
+** Passé antérieur
+
+j'eus mouillé
+tu eus mouillé
+il (elle) eut mouillé
+nous eûmes mouillé
+vous eûtes mouillé
+ils (elles) eurent mouillé
+
+** Futur antérieur
+
+j'aurai mouillé
+tu auras mouillé
+il (elle) aura mouillé
+nous aurons mouillé
+vous aurez mouillé
+ils (elles) auront mouillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais mouillé
+tu aurais mouillé
+il (elle) aurait mouillé
+nous aurions mouillé
+vous auriez mouillé
+ils (elles) auraient mouillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie mouillé
+que tu aies mouillé
+qu’il (elle) ait mouillé
+que nous ayons mouillé
+que vous ayez mouillé
+qu’ils (elles) aient mouillé
+
+** Plus-que-parfait
+
+que j'eusse mouillé
+que tu eusses mouillé
+qu’il (elle) eût mouillé
+que nous eussions mouillé
+que vous eussiez mouillé
+qu’ils (elles) eussent mouillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons mouillé
+ayez mouillé
+
+* INFINITIF
+
+** Passé
+
+avoir mouillé
+
+* PARTICIPE
+
+** Passé
+
+ayant mouillé
+mouillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis mouillé(e)
+tu es mouillé(e)
+il (elle) est mouillé(e)
+nous sommes mouillé(e)s
+vous êtes mouillé(e)s
+ils (elles) sont mouillé(e)s
+
+** Imparfait
+
+j'étais mouillé(e)
+tu étais mouillé(e)
+il (elle) était mouillé(e)
+nous étions mouillé(e)s
+vous étiez mouillé(e)s
+ils (elles) étaient mouillé(e)s
+
+** Passé simple
+
+je fus mouillé(e)
+tu fus mouillé(e)
+il (elle) fut mouillé(e)
+nous fûmes mouillé(e)s
+vous fûtes mouillé(e)s
+ils (elles) furent mouillé(e)s
+
+** Futur simple
+
+je serai mouillé(e)
+tu seras mouillé(e)
+il (elle) sera mouillé(e)
+nous serons mouillé(e)s
+vous serez mouillé(e)s
+ils (elles) seront mouillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais mouillé(e)
+tu serais mouillé(e)
+il (elle) serait mouillé(e)
+nous serions mouillé(e)s
+vous seriez mouillé(e)s
+ils (elles) seraient mouillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois mouillé(e)
+que tu sois mouillé(e)
+qu’il (elle) soit mouillé(e)
+que nous soyons mouillé(e)s
+que vous soyez mouillé(e)s
+qu’ils (elles) soient mouillé(e)s
+
+** Imparfait
+
+que je fusse mouillé(e)
+que tu fusses mouillé(e)
+qu’il (elle) fût mouillé(e)
+que nous fussions mouillé(e)s
+que vous fussiez mouillé(e)s
+qu’ils (elles) fussent mouillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons mouillé(e)s
+soyez mouillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être mouillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant mouillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été mouillé(e)
+tu as été mouillé(e)
+il (elle) a été mouillé(e)
+nous avons été mouillé(e)s
+vous avez été mouillé(e)s
+ils (elles) ont été mouillé(e)s
+
+** Plus-que-parfait
+
+j'avais été mouillé(e)
+il (elle) avait été mouillé(e)
+nous avions été mouillé(e)s
+ils (elles) avaient été mouillé(e)s
+
+** Passé antérieur
+
+j'eus été mouillé(e)
+tu eus été mouillé(e)
+il (elle) eut été mouillé(e)
+nous eûmes été mouillé(e)s
+vous eûtes été mouillé(e)s
+ils (elles) eurent été mouillé(e)s
+
+** Futur antérieur
+
+j'aurai été mouillé(e)
+tu auras été mouillé(e)
+il (elle) aura été mouillé(e)
+nous aurons été mouillé(e)s
+vous aurez été mouillé(e)s
+ils (elles) auront été mouillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été mouillé(e)
+j'aurais été mouillé(e)
+il (elle) aurait été mouillé(e)
+nous aurions été mouillé(e)s
+vous auriez été mouillé(e)s
+ils (elles) auraient été mouillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été mouillé(e)
+que tu aies été mouillé(e)
+qu’il (elle) ait été mouillé(e)
+que nous ayons été mouillé(e)s
+que vous ayez été mouillé(e)s
+qu’ils (elles) aient été mouillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été mouillé(e)
+que tu eusses été mouillé(e)
+qu’il (elle) eût été mouillé(e)
+que nous eussions été mouillé(e)s
+que vous eussiez été mouillé(e)s
+qu’ils (elles) eussent été mouillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été mouillé(e)
+ayons été mouillé(e)s
+ayez été mouillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été mouillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été mouillé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tourner
+
+* INDICATIF
+
+** Présent
+
+je tourne
+tu tournes
+il (elle) tourne
+nous tournons
+vous tournez
+ils (elles) tournent
+
+** Imparfait
+
+je tournais
+tu tournais
+il (elle) tournait
+nous tournions
+vous tourniez
+ils (elles) tournaient
+
+** Passé simple
+
+je tournai
+tu tournas
+il (elle) tourna
+nous tournâmes
+vous tournâtes
+ils (elles) tournèrent
+
+** Futur simple
+
+je tournerai
+tu tourneras
+il (elle) tournera
+nous tournerons
+vous tournerez
+ils (elles) tourneront
+
+* CONDITIONNEL
+
+** Présent
+
+je tournerais
+tu tournerais
+il (elle) tournerait
+nous tournerions
+vous tourneriez
+ils (elles) tourneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je tourne
+que tu tournes
+qu’il (elle) tourne
+que nous tournions
+que vous tourniez
+qu’ils (elles) tournent
+
+** Imparfait
+
+que je tournasse
+que tu tournasses
+qu’il (elle) tournât
+que nous tournassions
+que vous tournassiez
+qu’ils (elles) tournassent
+
+* IMPÉRATIF
+
+** Présent
+
+tourne
+tournons
+tournez
+
+* INFINITIF
+
+** Présent
+
+tourner
+
+* PARTICIPE
+
+** Présent
+
+tournant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tourné
+tu as tourné
+il (elle) a tourné
+nous avons tourné
+vous avez tourné
+ils (elles) ont tourné
+
+** Plus-que-parfait
+
+j'avais tourné
+tu avais tourné
+il (elle) avait tourné
+nous avions tourné
+vous aviez tourné
+ils (elles) avaient tourné
+
+** Passé antérieur
+
+j'eus tourné
+tu eus tourné
+il (elle) eut tourné
+nous eûmes tourné
+vous eûtes tourné
+ils (elles) eurent tourné
+
+** Futur antérieur
+
+j'aurai tourné
+tu auras tourné
+il (elle) aura tourné
+nous aurons tourné
+vous aurez tourné
+ils (elles) auront tourné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tourné
+tu aurais tourné
+il (elle) aurait tourné
+nous aurions tourné
+vous auriez tourné
+ils (elles) auraient tourné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tourné
+que tu aies tourné
+qu’il (elle) ait tourné
+que nous ayons tourné
+que vous ayez tourné
+qu’ils (elles) aient tourné
+
+** Plus-que-parfait
+
+que j'eusse tourné
+que tu eusses tourné
+qu’il (elle) eût tourné
+que nous eussions tourné
+que vous eussiez tourné
+qu’ils (elles) eussent tourné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tourné
+ayez tourné
+
+* INFINITIF
+
+** Passé
+
+avoir tourné
+
+* PARTICIPE
+
+** Passé
+
+ayant tourné
+tourné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tourné(e)
+tu es tourné(e)
+il (elle) est tourné(e)
+nous sommes tourné(e)s
+vous êtes tourné(e)s
+ils (elles) sont tourné(e)s
+
+** Imparfait
+
+j'étais tourné(e)
+tu étais tourné(e)
+il (elle) était tourné(e)
+nous étions tourné(e)s
+vous étiez tourné(e)s
+ils (elles) étaient tourné(e)s
+
+** Passé simple
+
+je fus tourné(e)
+tu fus tourné(e)
+il (elle) fut tourné(e)
+nous fûmes tourné(e)s
+vous fûtes tourné(e)s
+ils (elles) furent tourné(e)s
+
+** Futur simple
+
+je serai tourné(e)
+tu seras tourné(e)
+il (elle) sera tourné(e)
+nous serons tourné(e)s
+vous serez tourné(e)s
+ils (elles) seront tourné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tourné(e)
+tu serais tourné(e)
+il (elle) serait tourné(e)
+nous serions tourné(e)s
+vous seriez tourné(e)s
+ils (elles) seraient tourné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tourné(e)
+que tu sois tourné(e)
+qu’il (elle) soit tourné(e)
+que nous soyons tourné(e)s
+que vous soyez tourné(e)s
+qu’ils (elles) soient tourné(e)s
+
+** Imparfait
+
+que je fusse tourné(e)
+que tu fusses tourné(e)
+qu’il (elle) fût tourné(e)
+que nous fussions tourné(e)s
+que vous fussiez tourné(e)s
+qu’ils (elles) fussent tourné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tourné(e)s
+soyez tourné(e)s
+
+* INFINITIF
+
+** Présent
+
+être tourné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tourné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tourné(e)
+tu as été tourné(e)
+il (elle) a été tourné(e)
+nous avons été tourné(e)s
+vous avez été tourné(e)s
+ils (elles) ont été tourné(e)s
+
+** Plus-que-parfait
+
+j'avais été tourné(e)
+il (elle) avait été tourné(e)
+nous avions été tourné(e)s
+ils (elles) avaient été tourné(e)s
+
+** Passé antérieur
+
+j'eus été tourné(e)
+tu eus été tourné(e)
+il (elle) eut été tourné(e)
+nous eûmes été tourné(e)s
+vous eûtes été tourné(e)s
+ils (elles) eurent été tourné(e)s
+
+** Futur antérieur
+
+j'aurai été tourné(e)
+tu auras été tourné(e)
+il (elle) aura été tourné(e)
+nous aurons été tourné(e)s
+vous aurez été tourné(e)s
+ils (elles) auront été tourné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tourné(e)
+j'aurais été tourné(e)
+il (elle) aurait été tourné(e)
+nous aurions été tourné(e)s
+vous auriez été tourné(e)s
+ils (elles) auraient été tourné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tourné(e)
+que tu aies été tourné(e)
+qu’il (elle) ait été tourné(e)
+que nous ayons été tourné(e)s
+que vous ayez été tourné(e)s
+qu’ils (elles) aient été tourné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tourné(e)
+que tu eusses été tourné(e)
+qu’il (elle) eût été tourné(e)
+que nous eussions été tourné(e)s
+que vous eussiez été tourné(e)s
+qu’ils (elles) eussent été tourné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tourné(e)
+ayons été tourné(e)s
+ayez été tourné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tourné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tourné(e)(s)

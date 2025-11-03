@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe baisser
+
+* INDICATIF
+
+** Présent
+
+je baisse
+tu baisses
+il (elle) baisse
+nous baissons
+vous baissez
+ils (elles) baissent
+
+** Imparfait
+
+je baissais
+tu baissais
+il (elle) baissait
+nous baissions
+vous baissiez
+ils (elles) baissaient
+
+** Passé simple
+
+je baissai
+tu baissas
+il (elle) baissa
+nous baissâmes
+vous baissâtes
+ils (elles) baissèrent
+
+** Futur simple
+
+je baisserai
+tu baisseras
+il (elle) baissera
+nous baisserons
+vous baisserez
+ils (elles) baisseront
+
+* CONDITIONNEL
+
+** Présent
+
+je baisserais
+tu baisserais
+il (elle) baisserait
+nous baisserions
+vous baisseriez
+ils (elles) baisseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je baisse
+que tu baisses
+qu’il (elle) baisse
+que nous baissions
+que vous baissiez
+qu’ils (elles) baissent
+
+** Imparfait
+
+que je baissasse
+que tu baissasses
+qu’il (elle) baissât
+que nous baissassions
+que vous baissassiez
+qu’ils (elles) baissassent
+
+* IMPÉRATIF
+
+** Présent
+
+baisse
+baissons
+baissez
+
+* INFINITIF
+
+** Présent
+
+baisser
+
+* PARTICIPE
+
+** Présent
+
+baissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai baissé
+tu as baissé
+il (elle) a baissé
+nous avons baissé
+vous avez baissé
+ils (elles) ont baissé
+
+** Plus-que-parfait
+
+j'avais baissé
+tu avais baissé
+il (elle) avait baissé
+nous avions baissé
+vous aviez baissé
+ils (elles) avaient baissé
+
+** Passé antérieur
+
+j'eus baissé
+tu eus baissé
+il (elle) eut baissé
+nous eûmes baissé
+vous eûtes baissé
+ils (elles) eurent baissé
+
+** Futur antérieur
+
+j'aurai baissé
+tu auras baissé
+il (elle) aura baissé
+nous aurons baissé
+vous aurez baissé
+ils (elles) auront baissé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais baissé
+tu aurais baissé
+il (elle) aurait baissé
+nous aurions baissé
+vous auriez baissé
+ils (elles) auraient baissé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie baissé
+que tu aies baissé
+qu’il (elle) ait baissé
+que nous ayons baissé
+que vous ayez baissé
+qu’ils (elles) aient baissé
+
+** Plus-que-parfait
+
+que j'eusse baissé
+que tu eusses baissé
+qu’il (elle) eût baissé
+que nous eussions baissé
+que vous eussiez baissé
+qu’ils (elles) eussent baissé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons baissé
+ayez baissé
+
+* INFINITIF
+
+** Passé
+
+avoir baissé
+
+* PARTICIPE
+
+** Passé
+
+ayant baissé
+baissé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis baissé(e)
+tu es baissé(e)
+il (elle) est baissé(e)
+nous sommes baissé(e)s
+vous êtes baissé(e)s
+ils (elles) sont baissé(e)s
+
+** Imparfait
+
+j'étais baissé(e)
+tu étais baissé(e)
+il (elle) était baissé(e)
+nous étions baissé(e)s
+vous étiez baissé(e)s
+ils (elles) étaient baissé(e)s
+
+** Passé simple
+
+je fus baissé(e)
+tu fus baissé(e)
+il (elle) fut baissé(e)
+nous fûmes baissé(e)s
+vous fûtes baissé(e)s
+ils (elles) furent baissé(e)s
+
+** Futur simple
+
+je serai baissé(e)
+tu seras baissé(e)
+il (elle) sera baissé(e)
+nous serons baissé(e)s
+vous serez baissé(e)s
+ils (elles) seront baissé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais baissé(e)
+tu serais baissé(e)
+il (elle) serait baissé(e)
+nous serions baissé(e)s
+vous seriez baissé(e)s
+ils (elles) seraient baissé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois baissé(e)
+que tu sois baissé(e)
+qu’il (elle) soit baissé(e)
+que nous soyons baissé(e)s
+que vous soyez baissé(e)s
+qu’ils (elles) soient baissé(e)s
+
+** Imparfait
+
+que je fusse baissé(e)
+que tu fusses baissé(e)
+qu’il (elle) fût baissé(e)
+que nous fussions baissé(e)s
+que vous fussiez baissé(e)s
+qu’ils (elles) fussent baissé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons baissé(e)s
+soyez baissé(e)s
+
+* INFINITIF
+
+** Présent
+
+être baissé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant baissé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été baissé(e)
+tu as été baissé(e)
+il (elle) a été baissé(e)
+nous avons été baissé(e)s
+vous avez été baissé(e)s
+ils (elles) ont été baissé(e)s
+
+** Plus-que-parfait
+
+j'avais été baissé(e)
+il (elle) avait été baissé(e)
+nous avions été baissé(e)s
+ils (elles) avaient été baissé(e)s
+
+** Passé antérieur
+
+j'eus été baissé(e)
+tu eus été baissé(e)
+il (elle) eut été baissé(e)
+nous eûmes été baissé(e)s
+vous eûtes été baissé(e)s
+ils (elles) eurent été baissé(e)s
+
+** Futur antérieur
+
+j'aurai été baissé(e)
+tu auras été baissé(e)
+il (elle) aura été baissé(e)
+nous aurons été baissé(e)s
+vous aurez été baissé(e)s
+ils (elles) auront été baissé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été baissé(e)
+j'aurais été baissé(e)
+il (elle) aurait été baissé(e)
+nous aurions été baissé(e)s
+vous auriez été baissé(e)s
+ils (elles) auraient été baissé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été baissé(e)
+que tu aies été baissé(e)
+qu’il (elle) ait été baissé(e)
+que nous ayons été baissé(e)s
+que vous ayez été baissé(e)s
+qu’ils (elles) aient été baissé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été baissé(e)
+que tu eusses été baissé(e)
+qu’il (elle) eût été baissé(e)
+que nous eussions été baissé(e)s
+que vous eussiez été baissé(e)s
+qu’ils (elles) eussent été baissé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été baissé(e)
+ayons été baissé(e)s
+ayez été baissé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été baissé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été baissé(e)(s)

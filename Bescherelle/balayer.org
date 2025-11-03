@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe balayer
+
+* INDICATIF
+
+** Présent
+
+je balaie / balaye
+tu balaies / balayes
+il (elle) balaie / balaye
+nous balayons
+vous balayez
+ils (elles) balaient / balayent
+
+** Imparfait
+
+je balayais
+tu balayais
+il (elle) balayait
+nous balayions
+vous balayiez
+ils (elles) balayaient
+
+** Passé simple
+
+je balayai
+tu balayas
+il (elle) balaya
+nous balayâmes
+vous balayâtes
+ils (elles) balayèrent
+
+** Futur simple
+
+je balaierai / balayerai
+tu balaieras / balayeras
+il (elle) balaiera / balayera
+nous balaierons / balayerons
+vous balaierez / balayerez
+ils (elles) balaieront / balayeront
+
+* CONDITIONNEL
+
+** Présent
+
+je balaierais / balayerais
+tu balaierais / balayerais
+il (elle) balaierait / balayerait
+nous balaierions / balayerions
+vous balaieriez / balayeriez
+ils (elles) balaieraient / balayeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je balaie / balaye
+que tu balaies / balayes
+qu’il (elle) balaie / balaye
+que nous balayions
+que vous balayiez
+qu’ils (elles) balaient / balayent
+
+** Imparfait
+
+que je balayasse
+que tu balayasses
+qu’il (elle) balayât
+que nous balayassions
+que vous balayassiez
+qu’ils (elles) balayassent
+
+* IMPÉRATIF
+
+** Présent
+
+balaie / balaye
+balayons
+balayez
+
+* INFINITIF
+
+** Présent
+
+balayer
+
+* PARTICIPE
+
+** Présent
+
+balayant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai balayé
+tu as balayé
+il (elle) a balayé
+nous avons balayé
+vous avez balayé
+ils (elles) ont balayé
+
+** Plus-que-parfait
+
+j'avais balayé
+tu avais balayé
+il (elle) avait balayé
+nous avions balayé
+vous aviez balayé
+ils (elles) avaient balayé
+
+** Passé antérieur
+
+j'eus balayé
+tu eus balayé
+il (elle) eut balayé
+nous eûmes balayé
+vous eûtes balayé
+ils (elles) eurent balayé
+
+** Futur antérieur
+
+j'aurai balayé
+tu auras balayé
+il (elle) aura balayé
+nous aurons balayé
+vous aurez balayé
+ils (elles) auront balayé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais balayé
+tu aurais balayé
+il (elle) aurait balayé
+nous aurions balayé
+vous auriez balayé
+ils (elles) auraient balayé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie balayé
+que tu aies balayé
+qu’il (elle) ait balayé
+que nous ayons balayé
+que vous ayez balayé
+qu’ils (elles) aient balayé
+
+** Plus-que-parfait
+
+que j'eusse balayé
+que tu eusses balayé
+qu’il (elle) eût balayé
+que nous eussions balayé
+que vous eussiez balayé
+qu’ils (elles) eussent balayé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons balayé
+ayez balayé
+
+* INFINITIF
+
+** Passé
+
+avoir balayé
+
+* PARTICIPE
+
+** Passé
+
+ayant balayé
+balayé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis balayé(e)
+tu es balayé(e)
+il (elle) est balayé(e)
+nous sommes balayé(e)s
+vous êtes balayé(e)s
+ils (elles) sont balayé(e)s
+
+** Imparfait
+
+j'étais balayé(e)
+tu étais balayé(e)
+il (elle) était balayé(e)
+nous étions balayé(e)s
+vous étiez balayé(e)s
+ils (elles) étaient balayé(e)s
+
+** Passé simple
+
+je fus balayé(e)
+tu fus balayé(e)
+il (elle) fut balayé(e)
+nous fûmes balayé(e)s
+vous fûtes balayé(e)s
+ils (elles) furent balayé(e)s
+
+** Futur simple
+
+je serai balayé(e)
+tu seras balayé(e)
+il (elle) sera balayé(e)
+nous serons balayé(e)s
+vous serez balayé(e)s
+ils (elles) seront balayé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais balayé(e)
+tu serais balayé(e)
+il (elle) serait balayé(e)
+nous serions balayé(e)s
+vous seriez balayé(e)s
+ils (elles) seraient balayé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois balayé(e)
+que tu sois balayé(e)
+qu’il (elle) soit balayé(e)
+que nous soyons balayé(e)s
+que vous soyez balayé(e)s
+qu’ils (elles) soient balayé(e)s
+
+** Imparfait
+
+que je fusse balayé(e)
+que tu fusses balayé(e)
+qu’il (elle) fût balayé(e)
+que nous fussions balayé(e)s
+que vous fussiez balayé(e)s
+qu’ils (elles) fussent balayé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons balayé(e)s
+soyez balayé(e)s
+
+* INFINITIF
+
+** Présent
+
+être balayé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant balayé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été balayé(e)
+tu as été balayé(e)
+il (elle) a été balayé(e)
+nous avons été balayé(e)s
+vous avez été balayé(e)s
+ils (elles) ont été balayé(e)s
+
+** Plus-que-parfait
+
+j'avais été balayé(e)
+il (elle) avait été balayé(e)
+nous avions été balayé(e)s
+ils (elles) avaient été balayé(e)s
+
+** Passé antérieur
+
+j'eus été balayé(e)
+tu eus été balayé(e)
+il (elle) eut été balayé(e)
+nous eûmes été balayé(e)s
+vous eûtes été balayé(e)s
+ils (elles) eurent été balayé(e)s
+
+** Futur antérieur
+
+j'aurai été balayé(e)
+tu auras été balayé(e)
+il (elle) aura été balayé(e)
+nous aurons été balayé(e)s
+vous aurez été balayé(e)s
+ils (elles) auront été balayé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été balayé(e)
+j'aurais été balayé(e)
+il (elle) aurait été balayé(e)
+nous aurions été balayé(e)s
+vous auriez été balayé(e)s
+ils (elles) auraient été balayé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été balayé(e)
+que tu aies été balayé(e)
+qu’il (elle) ait été balayé(e)
+que nous ayons été balayé(e)s
+que vous ayez été balayé(e)s
+qu’ils (elles) aient été balayé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été balayé(e)
+que tu eusses été balayé(e)
+qu’il (elle) eût été balayé(e)
+que nous eussions été balayé(e)s
+que vous eussiez été balayé(e)s
+qu’ils (elles) eussent été balayé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été balayé(e)
+ayons été balayé(e)s
+ayez été balayé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été balayé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été balayé(e)(s)

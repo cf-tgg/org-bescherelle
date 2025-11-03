@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe oublier
+
+* INDICATIF
+
+** Présent
+
+j'oublie
+tu oublies
+il (elle) oublie
+nous oublions
+vous oubliez
+ils (elles) oublient
+
+** Imparfait
+
+j'oubliais
+tu oubliais
+il (elle) oubliait
+nous oubliions
+vous oubliiez
+ils (elles) oubliaient
+
+** Passé simple
+
+j'oubliai
+tu oublias
+il (elle) oublia
+nous oubliâmes
+vous oubliâtes
+ils (elles) oublièrent
+
+** Futur simple
+
+j'oublierai
+tu oublieras
+il (elle) oubliera
+nous oublierons
+vous oublierez
+ils (elles) oublieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'oublierais
+tu oublierais
+il (elle) oublierait
+nous oublierions
+vous oublieriez
+ils (elles) oublieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oublie
+que tu oublies
+qu’il (elle) oublie
+que nous oubliions
+que vous oubliiez
+qu’ils (elles) oublient
+
+** Imparfait
+
+que j'oubliasse
+que tu oubliasses
+qu’il (elle) oubliât
+que nous oubliassions
+que vous oubliassiez
+qu’ils (elles) oubliassent
+
+* IMPÉRATIF
+
+** Présent
+
+oublie
+oublions
+oubliez
+
+* INFINITIF
+
+** Présent
+
+oublier
+
+* PARTICIPE
+
+** Présent
+
+oubliant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai oublié
+tu as oublié
+il (elle) a oublié
+nous avons oublié
+vous avez oublié
+ils (elles) ont oublié
+
+** Plus-que-parfait
+
+j'avais oublié
+tu avais oublié
+il (elle) avait oublié
+nous avions oublié
+vous aviez oublié
+ils (elles) avaient oublié
+
+** Passé antérieur
+
+j'eus oublié
+tu eus oublié
+il (elle) eut oublié
+nous eûmes oublié
+vous eûtes oublié
+ils (elles) eurent oublié
+
+** Futur antérieur
+
+j'aurai oublié
+tu auras oublié
+il (elle) aura oublié
+nous aurons oublié
+vous aurez oublié
+ils (elles) auront oublié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais oublié
+tu aurais oublié
+il (elle) aurait oublié
+nous aurions oublié
+vous auriez oublié
+ils (elles) auraient oublié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie oublié
+que tu aies oublié
+qu’il (elle) ait oublié
+que nous ayons oublié
+que vous ayez oublié
+qu’ils (elles) aient oublié
+
+** Plus-que-parfait
+
+que j'eusse oublié
+que tu eusses oublié
+qu’il (elle) eût oublié
+que nous eussions oublié
+que vous eussiez oublié
+qu’ils (elles) eussent oublié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons oublié
+ayez oublié
+
+* INFINITIF
+
+** Passé
+
+avoir oublié
+
+* PARTICIPE
+
+** Passé
+
+ayant oublié
+oublié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis oublié(e)
+tu es oublié(e)
+il (elle) est oublié(e)
+nous sommes oublié(e)s
+vous êtes oublié(e)s
+ils (elles) sont oublié(e)s
+
+** Imparfait
+
+j'étais oublié(e)
+tu étais oublié(e)
+il (elle) était oublié(e)
+nous étions oublié(e)s
+vous étiez oublié(e)s
+ils (elles) étaient oublié(e)s
+
+** Passé simple
+
+je fus oublié(e)
+tu fus oublié(e)
+il (elle) fut oublié(e)
+nous fûmes oublié(e)s
+vous fûtes oublié(e)s
+ils (elles) furent oublié(e)s
+
+** Futur simple
+
+je serai oublié(e)
+tu seras oublié(e)
+il (elle) sera oublié(e)
+nous serons oublié(e)s
+vous serez oublié(e)s
+ils (elles) seront oublié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais oublié(e)
+tu serais oublié(e)
+il (elle) serait oublié(e)
+nous serions oublié(e)s
+vous seriez oublié(e)s
+ils (elles) seraient oublié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois oublié(e)
+que tu sois oublié(e)
+qu’il (elle) soit oublié(e)
+que nous soyons oublié(e)s
+que vous soyez oublié(e)s
+qu’ils (elles) soient oublié(e)s
+
+** Imparfait
+
+que je fusse oublié(e)
+que tu fusses oublié(e)
+qu’il (elle) fût oublié(e)
+que nous fussions oublié(e)s
+que vous fussiez oublié(e)s
+qu’ils (elles) fussent oublié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons oublié(e)s
+soyez oublié(e)s
+
+* INFINITIF
+
+** Présent
+
+être oublié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant oublié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été oublié(e)
+tu as été oublié(e)
+il (elle) a été oublié(e)
+nous avons été oublié(e)s
+vous avez été oublié(e)s
+ils (elles) ont été oublié(e)s
+
+** Plus-que-parfait
+
+j'avais été oublié(e)
+il (elle) avait été oublié(e)
+nous avions été oublié(e)s
+ils (elles) avaient été oublié(e)s
+
+** Passé antérieur
+
+j'eus été oublié(e)
+tu eus été oublié(e)
+il (elle) eut été oublié(e)
+nous eûmes été oublié(e)s
+vous eûtes été oublié(e)s
+ils (elles) eurent été oublié(e)s
+
+** Futur antérieur
+
+j'aurai été oublié(e)
+tu auras été oublié(e)
+il (elle) aura été oublié(e)
+nous aurons été oublié(e)s
+vous aurez été oublié(e)s
+ils (elles) auront été oublié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été oublié(e)
+j'aurais été oublié(e)
+il (elle) aurait été oublié(e)
+nous aurions été oublié(e)s
+vous auriez été oublié(e)s
+ils (elles) auraient été oublié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été oublié(e)
+que tu aies été oublié(e)
+qu’il (elle) ait été oublié(e)
+que nous ayons été oublié(e)s
+que vous ayez été oublié(e)s
+qu’ils (elles) aient été oublié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été oublié(e)
+que tu eusses été oublié(e)
+qu’il (elle) eût été oublié(e)
+que nous eussions été oublié(e)s
+que vous eussiez été oublié(e)s
+qu’ils (elles) eussent été oublié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été oublié(e)
+ayons été oublié(e)s
+ayez été oublié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été oublié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été oublié(e)(s)

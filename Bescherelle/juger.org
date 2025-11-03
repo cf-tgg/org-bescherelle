@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe juger
+
+* INDICATIF
+
+** Présent
+
+je juge
+tu juges
+il (elle) juge
+nous jugeons
+vous jugez
+ils (elles) jugent
+
+** Imparfait
+
+je jugeais
+tu jugeais
+il (elle) jugeait
+nous jugions
+vous jugiez
+ils (elles) jugeaient
+
+** Passé simple
+
+je jugeai
+tu jugeas
+il (elle) jugea
+nous jugeâmes
+vous jugeâtes
+ils (elles) jugèrent
+
+** Futur simple
+
+je jugerai
+tu jugeras
+il (elle) jugera
+nous jugerons
+vous jugerez
+ils (elles) jugeront
+
+* CONDITIONNEL
+
+** Présent
+
+je jugerais
+tu jugerais
+il (elle) jugerait
+nous jugerions
+vous jugeriez
+ils (elles) jugeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je juge
+que tu juges
+qu’il (elle) juge
+que nous jugions
+que vous jugiez
+qu’ils (elles) jugent
+
+** Imparfait
+
+que je jugeasse
+que tu jugeasses
+qu’il (elle) jugeât
+que nous jugeassions
+que vous jugeassiez
+qu’ils (elles) jugeassent
+
+* IMPÉRATIF
+
+** Présent
+
+juge
+jugeons
+jugez
+
+* INFINITIF
+
+** Présent
+
+juger
+
+* PARTICIPE
+
+** Présent
+
+jugeant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai jugé
+tu as jugé
+il (elle) a jugé
+nous avons jugé
+vous avez jugé
+ils (elles) ont jugé
+
+** Plus-que-parfait
+
+j'avais jugé
+tu avais jugé
+il (elle) avait jugé
+nous avions jugé
+vous aviez jugé
+ils (elles) avaient jugé
+
+** Passé antérieur
+
+j'eus jugé
+tu eus jugé
+il (elle) eut jugé
+nous eûmes jugé
+vous eûtes jugé
+ils (elles) eurent jugé
+
+** Futur antérieur
+
+j'aurai jugé
+tu auras jugé
+il (elle) aura jugé
+nous aurons jugé
+vous aurez jugé
+ils (elles) auront jugé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais jugé
+tu aurais jugé
+il (elle) aurait jugé
+nous aurions jugé
+vous auriez jugé
+ils (elles) auraient jugé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie jugé
+que tu aies jugé
+qu’il (elle) ait jugé
+que nous ayons jugé
+que vous ayez jugé
+qu’ils (elles) aient jugé
+
+** Plus-que-parfait
+
+que j'eusse jugé
+que tu eusses jugé
+qu’il (elle) eût jugé
+que nous eussions jugé
+que vous eussiez jugé
+qu’ils (elles) eussent jugé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons jugé
+ayez jugé
+
+* INFINITIF
+
+** Passé
+
+avoir jugé
+
+* PARTICIPE
+
+** Passé
+
+ayant jugé
+jugé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis jugé(e)
+tu es jugé(e)
+il (elle) est jugé(e)
+nous sommes jugé(e)s
+vous êtes jugé(e)s
+ils (elles) sont jugé(e)s
+
+** Imparfait
+
+j'étais jugé(e)
+tu étais jugé(e)
+il (elle) était jugé(e)
+nous étions jugé(e)s
+vous étiez jugé(e)s
+ils (elles) étaient jugé(e)s
+
+** Passé simple
+
+je fus jugé(e)
+tu fus jugé(e)
+il (elle) fut jugé(e)
+nous fûmes jugé(e)s
+vous fûtes jugé(e)s
+ils (elles) furent jugé(e)s
+
+** Futur simple
+
+je serai jugé(e)
+tu seras jugé(e)
+il (elle) sera jugé(e)
+nous serons jugé(e)s
+vous serez jugé(e)s
+ils (elles) seront jugé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais jugé(e)
+tu serais jugé(e)
+il (elle) serait jugé(e)
+nous serions jugé(e)s
+vous seriez jugé(e)s
+ils (elles) seraient jugé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois jugé(e)
+que tu sois jugé(e)
+qu’il (elle) soit jugé(e)
+que nous soyons jugé(e)s
+que vous soyez jugé(e)s
+qu’ils (elles) soient jugé(e)s
+
+** Imparfait
+
+que je fusse jugé(e)
+que tu fusses jugé(e)
+qu’il (elle) fût jugé(e)
+que nous fussions jugé(e)s
+que vous fussiez jugé(e)s
+qu’ils (elles) fussent jugé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons jugé(e)s
+soyez jugé(e)s
+
+* INFINITIF
+
+** Présent
+
+être jugé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant jugé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été jugé(e)
+tu as été jugé(e)
+il (elle) a été jugé(e)
+nous avons été jugé(e)s
+vous avez été jugé(e)s
+ils (elles) ont été jugé(e)s
+
+** Plus-que-parfait
+
+j'avais été jugé(e)
+il (elle) avait été jugé(e)
+nous avions été jugé(e)s
+ils (elles) avaient été jugé(e)s
+
+** Passé antérieur
+
+j'eus été jugé(e)
+tu eus été jugé(e)
+il (elle) eut été jugé(e)
+nous eûmes été jugé(e)s
+vous eûtes été jugé(e)s
+ils (elles) eurent été jugé(e)s
+
+** Futur antérieur
+
+j'aurai été jugé(e)
+tu auras été jugé(e)
+il (elle) aura été jugé(e)
+nous aurons été jugé(e)s
+vous aurez été jugé(e)s
+ils (elles) auront été jugé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été jugé(e)
+j'aurais été jugé(e)
+il (elle) aurait été jugé(e)
+nous aurions été jugé(e)s
+vous auriez été jugé(e)s
+ils (elles) auraient été jugé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été jugé(e)
+que tu aies été jugé(e)
+qu’il (elle) ait été jugé(e)
+que nous ayons été jugé(e)s
+que vous ayez été jugé(e)s
+qu’ils (elles) aient été jugé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été jugé(e)
+que tu eusses été jugé(e)
+qu’il (elle) eût été jugé(e)
+que nous eussions été jugé(e)s
+que vous eussiez été jugé(e)s
+qu’ils (elles) eussent été jugé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été jugé(e)
+ayons été jugé(e)s
+ayez été jugé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été jugé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été jugé(e)(s)

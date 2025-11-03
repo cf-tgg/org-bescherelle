@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe reprendre
+
+* INDICATIF
+
+** Présent
+
+je reprends
+tu reprends
+il (elle) reprend
+nous reprenons
+vous reprenez
+ils (elles) reprennent
+
+** Imparfait
+
+je reprenais
+tu reprenais
+il (elle) reprenait
+nous reprenions
+vous repreniez
+ils (elles) reprenaient
+
+** Passé simple
+
+je repris
+tu repris
+il (elle) reprit
+nous reprîmes
+vous reprîtes
+ils (elles) reprirent
+
+** Futur simple
+
+je reprendrai
+tu reprendras
+il (elle) reprendra
+nous reprendrons
+vous reprendrez
+ils (elles) reprendront
+
+* CONDITIONNEL
+
+** Présent
+
+je reprendrais
+tu reprendrais
+il (elle) reprendrait
+nous reprendrions
+vous reprendriez
+ils (elles) reprendraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je reprenne
+que tu reprennes
+qu’il (elle) reprenne
+que nous reprenions
+que vous repreniez
+qu’ils (elles) reprennent
+
+** Imparfait
+
+que je reprisse
+que tu reprisses
+qu’il (elle) reprît
+que nous reprissions
+que vous reprissiez
+qu’ils (elles) reprissent
+
+* IMPÉRATIF
+
+** Présent
+
+reprends
+reprenons
+reprenez
+
+* INFINITIF
+
+** Présent
+
+reprendre
+
+* PARTICIPE
+
+** Présent
+
+reprenant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai repris
+tu as repris
+il (elle) a repris
+nous avons repris
+vous avez repris
+ils (elles) ont repris
+
+** Plus-que-parfait
+
+j'avais repris
+tu avais repris
+il (elle) avait repris
+nous avions repris
+vous aviez repris
+ils (elles) avaient repris
+
+** Passé antérieur
+
+j'eus repris
+tu eus repris
+il (elle) eut repris
+nous eûmes repris
+vous eûtes repris
+ils (elles) eurent repris
+
+** Futur antérieur
+
+j'aurai repris
+tu auras repris
+il (elle) aura repris
+nous aurons repris
+vous aurez repris
+ils (elles) auront repris
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais repris
+tu aurais repris
+il (elle) aurait repris
+nous aurions repris
+vous auriez repris
+ils (elles) auraient repris
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie repris
+que tu aies repris
+qu’il (elle) ait repris
+que nous ayons repris
+que vous ayez repris
+qu’ils (elles) aient repris
+
+** Plus-que-parfait
+
+que j'eusse repris
+que tu eusses repris
+qu’il (elle) eût repris
+que nous eussions repris
+que vous eussiez repris
+qu’ils (elles) eussent repris
+
+* IMPÉRATIF
+
+** Passé
+
+ayons repris
+ayez repris
+
+* INFINITIF
+
+** Passé
+
+avoir repris
+
+* PARTICIPE
+
+** Passé
+
+ayant repris
+repris (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis repris(e)
+tu es repris(e)
+il (elle) est repris(e)
+nous sommes repris(es)
+vous êtes repris(es)
+ils (elles) sont repris(es)
+
+** Imparfait
+
+j'étais repris(e)
+tu étais repris(e)
+il (elle) était repris(e)
+nous étions repris(es)
+vous étiez repris(es)
+ils (elles) étaient repris(es)
+
+** Passé simple
+
+je fus repris(e)
+tu fus repris(e)
+il (elle) fut repris(e)
+nous fûmes repris(es)
+vous fûtes repris(es)
+ils (elles) furent repris(es)
+
+** Futur simple
+
+je serai repris(e)
+tu seras repris(e)
+il (elle) sera repris(e)
+nous serons repris(es)
+vous serez repris(es)
+ils (elles) seront repris(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais repris(e)
+tu serais repris(e)
+il (elle) serait repris(e)
+nous serions repris(es)
+vous seriez repris(es)
+ils (elles) seraient repris(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois repris(e)
+que tu sois repris(e)
+qu’il (elle) soit repris(e)
+que nous soyons repris(es)
+que vous soyez repris(es)
+qu’ils (elles) soient repris(es)
+
+** Imparfait
+
+que je fusse repris(e)
+que tu fusses repris(e)
+qu’il (elle) fût repris(e)
+que nous fussions repris(es)
+que vous fussiez repris(es)
+qu’ils (elles) fussent repris(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons repris(es)
+soyez repris(es)
+
+* INFINITIF
+
+** Présent
+
+être repris (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant repris (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été repris(e)
+tu as été repris(e)
+il (elle) a été repris(e)
+nous avons été repris(es)
+vous avez été repris(es)
+ils (elles) ont été repris(es)
+
+** Plus-que-parfait
+
+j'avais été repris(e)
+il (elle) avait été repris(e)
+nous avions été repris(es)
+ils (elles) avaient été repris(es)
+
+** Passé antérieur
+
+j'eus été repris(e)
+tu eus été repris(e)
+il (elle) eut été repris(e)
+nous eûmes été repris(es)
+vous eûtes été repris(es)
+ils (elles) eurent été repris(es)
+
+** Futur antérieur
+
+j'aurai été repris(e)
+tu auras été repris(e)
+il (elle) aura été repris(e)
+nous aurons été repris(es)
+vous aurez été repris(es)
+ils (elles) auront été repris(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été repris(e)
+j'aurais été repris(e)
+il (elle) aurait été repris(e)
+nous aurions été repris(es)
+vous auriez été repris(es)
+ils (elles) auraient été repris(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été repris(e)
+que tu aies été repris(e)
+qu’il (elle) ait été repris(e)
+que nous ayons été repris(es)
+que vous ayez été repris(es)
+qu’ils (elles) aient été repris(es)
+
+** Plus-que-parfait
+
+que j'eusse été repris(e)
+que tu eusses été repris(e)
+qu’il (elle) eût été repris(e)
+que nous eussions été repris(es)
+que vous eussiez été repris(es)
+qu’ils (elles) eussent été repris(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été repris(e)
+ayons été repris(es)
+ayez été repris(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été repris (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été repris (s, se, s, ses)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lier
+
+* INDICATIF
+
+** Présent
+
+je lie
+tu lies
+il (elle) lie
+nous lions
+vous liez
+ils (elles) lient
+
+** Imparfait
+
+je liais
+tu liais
+il (elle) liait
+nous liions
+vous liiez
+ils (elles) liaient
+
+** Passé simple
+
+je liai
+tu lias
+il (elle) lia
+nous liâmes
+vous liâtes
+ils (elles) lièrent
+
+** Futur simple
+
+je lierai
+tu lieras
+il (elle) liera
+nous lierons
+vous lierez
+ils (elles) lieront
+
+* CONDITIONNEL
+
+** Présent
+
+je lierais
+tu lierais
+il (elle) lierait
+nous lierions
+vous lieriez
+ils (elles) lieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lie
+que tu lies
+qu’il (elle) lie
+que nous liions
+que vous liiez
+qu’ils (elles) lient
+
+** Imparfait
+
+que je liasse
+que tu liasses
+qu’il (elle) liât
+que nous liassions
+que vous liassiez
+qu’ils (elles) liassent
+
+* IMPÉRATIF
+
+** Présent
+
+lie
+lions
+liez
+
+* INFINITIF
+
+** Présent
+
+lier
+
+* PARTICIPE
+
+** Présent
+
+liant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai lié
+tu as lié
+il (elle) a lié
+nous avons lié
+vous avez lié
+ils (elles) ont lié
+
+** Plus-que-parfait
+
+j'avais lié
+tu avais lié
+il (elle) avait lié
+nous avions lié
+vous aviez lié
+ils (elles) avaient lié
+
+** Passé antérieur
+
+j'eus lié
+tu eus lié
+il (elle) eut lié
+nous eûmes lié
+vous eûtes lié
+ils (elles) eurent lié
+
+** Futur antérieur
+
+j'aurai lié
+tu auras lié
+il (elle) aura lié
+nous aurons lié
+vous aurez lié
+ils (elles) auront lié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais lié
+tu aurais lié
+il (elle) aurait lié
+nous aurions lié
+vous auriez lié
+ils (elles) auraient lié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie lié
+que tu aies lié
+qu’il (elle) ait lié
+que nous ayons lié
+que vous ayez lié
+qu’ils (elles) aient lié
+
+** Plus-que-parfait
+
+que j'eusse lié
+que tu eusses lié
+qu’il (elle) eût lié
+que nous eussions lié
+que vous eussiez lié
+qu’ils (elles) eussent lié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons lié
+ayez lié
+
+* INFINITIF
+
+** Passé
+
+avoir lié
+
+* PARTICIPE
+
+** Passé
+
+ayant lié
+lié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis lié(e)
+tu es lié(e)
+il (elle) est lié(e)
+nous sommes lié(e)s
+vous êtes lié(e)s
+ils (elles) sont lié(e)s
+
+** Imparfait
+
+j'étais lié(e)
+tu étais lié(e)
+il (elle) était lié(e)
+nous étions lié(e)s
+vous étiez lié(e)s
+ils (elles) étaient lié(e)s
+
+** Passé simple
+
+je fus lié(e)
+tu fus lié(e)
+il (elle) fut lié(e)
+nous fûmes lié(e)s
+vous fûtes lié(e)s
+ils (elles) furent lié(e)s
+
+** Futur simple
+
+je serai lié(e)
+tu seras lié(e)
+il (elle) sera lié(e)
+nous serons lié(e)s
+vous serez lié(e)s
+ils (elles) seront lié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais lié(e)
+tu serais lié(e)
+il (elle) serait lié(e)
+nous serions lié(e)s
+vous seriez lié(e)s
+ils (elles) seraient lié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois lié(e)
+que tu sois lié(e)
+qu’il (elle) soit lié(e)
+que nous soyons lié(e)s
+que vous soyez lié(e)s
+qu’ils (elles) soient lié(e)s
+
+** Imparfait
+
+que je fusse lié(e)
+que tu fusses lié(e)
+qu’il (elle) fût lié(e)
+que nous fussions lié(e)s
+que vous fussiez lié(e)s
+qu’ils (elles) fussent lié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons lié(e)s
+soyez lié(e)s
+
+* INFINITIF
+
+** Présent
+
+être lié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant lié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été lié(e)
+tu as été lié(e)
+il (elle) a été lié(e)
+nous avons été lié(e)s
+vous avez été lié(e)s
+ils (elles) ont été lié(e)s
+
+** Plus-que-parfait
+
+j'avais été lié(e)
+il (elle) avait été lié(e)
+nous avions été lié(e)s
+ils (elles) avaient été lié(e)s
+
+** Passé antérieur
+
+j'eus été lié(e)
+tu eus été lié(e)
+il (elle) eut été lié(e)
+nous eûmes été lié(e)s
+vous eûtes été lié(e)s
+ils (elles) eurent été lié(e)s
+
+** Futur antérieur
+
+j'aurai été lié(e)
+tu auras été lié(e)
+il (elle) aura été lié(e)
+nous aurons été lié(e)s
+vous aurez été lié(e)s
+ils (elles) auront été lié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été lié(e)
+j'aurais été lié(e)
+il (elle) aurait été lié(e)
+nous aurions été lié(e)s
+vous auriez été lié(e)s
+ils (elles) auraient été lié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été lié(e)
+que tu aies été lié(e)
+qu’il (elle) ait été lié(e)
+que nous ayons été lié(e)s
+que vous ayez été lié(e)s
+qu’ils (elles) aient été lié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été lié(e)
+que tu eusses été lié(e)
+qu’il (elle) eût été lié(e)
+que nous eussions été lié(e)s
+que vous eussiez été lié(e)s
+qu’ils (elles) eussent été lié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été lié(e)
+ayons été lié(e)s
+ayez été lié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été lié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été lié(e)(s)

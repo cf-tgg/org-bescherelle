@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe ressaisir
+
+* INDICATIF
+
+** Présent
+
+je ressaisis
+tu ressaisis
+il (elle) ressaisit
+nous ressaisissons
+vous ressaisissez
+ils (elles) ressaisissent
+
+** Imparfait
+
+je ressaisissais
+tu ressaisissais
+il (elle) ressaisissait
+nous ressaisissions
+vous ressaisissiez
+ils (elles) ressaisissaient
+
+** Passé simple
+
+je ressaisis
+tu ressaisis
+il (elle) ressaisit
+nous ressaisîmes
+vous ressaisîtes
+ils (elles) ressaisirent
+
+** Futur simple
+
+je ressaisirai
+tu ressaisiras
+il (elle) ressaisira
+nous ressaisirons
+vous ressaisirez
+ils (elles) ressaisiront
+
+* CONDITIONNEL
+
+** Présent
+
+je ressaisirais
+tu ressaisirais
+il (elle) ressaisirait
+nous ressaisirions
+vous ressaisiriez
+ils (elles) ressaisiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je ressaisisse
+que tu ressaisisses
+qu’il (elle) ressaisisse
+que nous ressaisissions
+que vous ressaisissiez
+qu’ils (elles) ressaisissent
+
+** Imparfait
+
+que je ressaisisse
+que tu ressaisisses
+qu’il (elle) ressaisît
+que nous ressaisissions
+que vous ressaisissiez
+qu’ils (elles) ressaisissent
+
+* IMPÉRATIF
+
+** Présent
+
+ressaisis
+ressaisissons
+ressaisissez
+
+* INFINITIF
+
+** Présent
+
+ressaisir
+
+* PARTICIPE
+
+** Présent
+
+ressaisissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai ressaisi
+tu as ressaisi
+il (elle) a ressaisi
+nous avons ressaisi
+vous avez ressaisi
+ils (elles) ont ressaisi
+
+** Plus-que-parfait
+
+j'avais ressaisi
+tu avais ressaisi
+il (elle) avait ressaisi
+nous avions ressaisi
+vous aviez ressaisi
+ils (elles) avaient ressaisi
+
+** Passé antérieur
+
+j'eus ressaisi
+tu eus ressaisi
+il (elle) eut ressaisi
+nous eûmes ressaisi
+vous eûtes ressaisi
+ils (elles) eurent ressaisi
+
+** Futur antérieur
+
+j'aurai ressaisi
+tu auras ressaisi
+il (elle) aura ressaisi
+nous aurons ressaisi
+vous aurez ressaisi
+ils (elles) auront ressaisi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais ressaisi
+tu aurais ressaisi
+il (elle) aurait ressaisi
+nous aurions ressaisi
+vous auriez ressaisi
+ils (elles) auraient ressaisi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie ressaisi
+que tu aies ressaisi
+qu’il (elle) ait ressaisi
+que nous ayons ressaisi
+que vous ayez ressaisi
+qu’ils (elles) aient ressaisi
+
+** Plus-que-parfait
+
+que j'eusse ressaisi
+que tu eusses ressaisi
+qu’il (elle) eût ressaisi
+que nous eussions ressaisi
+que vous eussiez ressaisi
+qu’ils (elles) eussent ressaisi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons ressaisi
+ayez ressaisi
+
+* INFINITIF
+
+** Passé
+
+avoir ressaisi
+
+* PARTICIPE
+
+** Passé
+
+ayant ressaisi
+ressaisi (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis ressaisi(e)
+tu es ressaisi(e)
+il (elle) est ressaisi(e)
+nous sommes ressaisi(e)s
+vous êtes ressaisi(e)s
+ils (elles) sont ressaisi(e)s
+
+** Imparfait
+
+j'étais ressaisi(e)
+tu étais ressaisi(e)
+il (elle) était ressaisi(e)
+nous étions ressaisi(e)s
+vous étiez ressaisi(e)s
+ils (elles) étaient ressaisi(e)s
+
+** Passé simple
+
+je fus ressaisi(e)
+tu fus ressaisi(e)
+il (elle) fut ressaisi(e)
+nous fûmes ressaisi(e)s
+vous fûtes ressaisi(e)s
+ils (elles) furent ressaisi(e)s
+
+** Futur simple
+
+je serai ressaisi(e)
+tu seras ressaisi(e)
+il (elle) sera ressaisi(e)
+nous serons ressaisi(e)s
+vous serez ressaisi(e)s
+ils (elles) seront ressaisi(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais ressaisi(e)
+tu serais ressaisi(e)
+il (elle) serait ressaisi(e)
+nous serions ressaisi(e)s
+vous seriez ressaisi(e)s
+ils (elles) seraient ressaisi(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois ressaisi(e)
+que tu sois ressaisi(e)
+qu’il (elle) soit ressaisi(e)
+que nous soyons ressaisi(e)s
+que vous soyez ressaisi(e)s
+qu’ils (elles) soient ressaisi(e)s
+
+** Imparfait
+
+que je fusse ressaisi(e)
+que tu fusses ressaisi(e)
+qu’il (elle) fût ressaisi(e)
+que nous fussions ressaisi(e)s
+que vous fussiez ressaisi(e)s
+qu’ils (elles) fussent ressaisi(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons ressaisi(e)s
+soyez ressaisi(e)s
+
+* INFINITIF
+
+** Présent
+
+être ressaisi(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant ressaisi(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été ressaisi(e)
+tu as été ressaisi(e)
+il (elle) a été ressaisi(e)
+nous avons été ressaisi(e)s
+vous avez été ressaisi(e)s
+ils (elles) ont été ressaisi(e)s
+
+** Plus-que-parfait
+
+j'avais été ressaisi(e)
+il (elle) avait été ressaisi(e)
+nous avions été ressaisi(e)s
+ils (elles) avaient été ressaisi(e)s
+
+** Passé antérieur
+
+j'eus été ressaisi(e)
+tu eus été ressaisi(e)
+il (elle) eut été ressaisi(e)
+nous eûmes été ressaisi(e)s
+vous eûtes été ressaisi(e)s
+ils (elles) eurent été ressaisi(e)s
+
+** Futur antérieur
+
+j'aurai été ressaisi(e)
+tu auras été ressaisi(e)
+il (elle) aura été ressaisi(e)
+nous aurons été ressaisi(e)s
+vous aurez été ressaisi(e)s
+ils (elles) auront été ressaisi(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été ressaisi(e)
+j'aurais été ressaisi(e)
+il (elle) aurait été ressaisi(e)
+nous aurions été ressaisi(e)s
+vous auriez été ressaisi(e)s
+ils (elles) auraient été ressaisi(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été ressaisi(e)
+que tu aies été ressaisi(e)
+qu’il (elle) ait été ressaisi(e)
+que nous ayons été ressaisi(e)s
+que vous ayez été ressaisi(e)s
+qu’ils (elles) aient été ressaisi(e)s
+
+** Plus-que-parfait
+
+que j'eusse été ressaisi(e)
+que tu eusses été ressaisi(e)
+qu’il (elle) eût été ressaisi(e)
+que nous eussions été ressaisi(e)s
+que vous eussiez été ressaisi(e)s
+qu’ils (elles) eussent été ressaisi(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été ressaisi(e)
+ayons été ressaisi(e)s
+ayez été ressaisi(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été ressaisi(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été ressaisi(e)(s)

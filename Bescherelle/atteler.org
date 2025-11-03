@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe atteler
+
+* INDICATIF
+
+** Présent
+
+j'attelle
+tu attelles
+il (elle) attelle
+nous attelons
+vous attelez
+ils (elles) attellent
+
+** Imparfait
+
+j'attelais
+tu attelais
+il (elle) attelait
+nous attelions
+vous atteliez
+ils (elles) attelaient
+
+** Passé simple
+
+j'attelai
+tu attelas
+il (elle) attela
+nous attelâmes
+vous attelâtes
+ils (elles) attelèrent
+
+** Futur simple
+
+j'attellerai
+tu attelleras
+il (elle) attellera
+nous attellerons
+vous attellerez
+ils (elles) attelleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'attellerais
+tu attellerais
+il (elle) attellerait
+nous attellerions
+vous attelleriez
+ils (elles) attelleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'attelle
+que tu attelles
+qu’il (elle) attelle
+que nous attelions
+que vous atteliez
+qu’ils (elles) attellent
+
+** Imparfait
+
+que j'attelasse
+que tu attelasses
+qu’il (elle) attelât
+que nous attelassions
+que vous attelassiez
+qu’ils (elles) attelassent
+
+* IMPÉRATIF
+
+** Présent
+
+attelle
+attelons
+attelez
+
+* INFINITIF
+
+** Présent
+
+atteler
+
+* PARTICIPE
+
+** Présent
+
+attelant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai attelé
+tu as attelé
+il (elle) a attelé
+nous avons attelé
+vous avez attelé
+ils (elles) ont attelé
+
+** Plus-que-parfait
+
+j'avais attelé
+tu avais attelé
+il (elle) avait attelé
+nous avions attelé
+vous aviez attelé
+ils (elles) avaient attelé
+
+** Passé antérieur
+
+j'eus attelé
+tu eus attelé
+il (elle) eut attelé
+nous eûmes attelé
+vous eûtes attelé
+ils (elles) eurent attelé
+
+** Futur antérieur
+
+j'aurai attelé
+tu auras attelé
+il (elle) aura attelé
+nous aurons attelé
+vous aurez attelé
+ils (elles) auront attelé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais attelé
+tu aurais attelé
+il (elle) aurait attelé
+nous aurions attelé
+vous auriez attelé
+ils (elles) auraient attelé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie attelé
+que tu aies attelé
+qu’il (elle) ait attelé
+que nous ayons attelé
+que vous ayez attelé
+qu’ils (elles) aient attelé
+
+** Plus-que-parfait
+
+que j'eusse attelé
+que tu eusses attelé
+qu’il (elle) eût attelé
+que nous eussions attelé
+que vous eussiez attelé
+qu’ils (elles) eussent attelé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons attelé
+ayez attelé
+
+* INFINITIF
+
+** Passé
+
+avoir attelé
+
+* PARTICIPE
+
+** Passé
+
+ayant attelé
+attelé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis attelé(e)
+tu es attelé(e)
+il (elle) est attelé(e)
+nous sommes attelé(e)s
+vous êtes attelé(e)s
+ils (elles) sont attelé(e)s
+
+** Imparfait
+
+j'étais attelé(e)
+tu étais attelé(e)
+il (elle) était attelé(e)
+nous étions attelé(e)s
+vous étiez attelé(e)s
+ils (elles) étaient attelé(e)s
+
+** Passé simple
+
+je fus attelé(e)
+tu fus attelé(e)
+il (elle) fut attelé(e)
+nous fûmes attelé(e)s
+vous fûtes attelé(e)s
+ils (elles) furent attelé(e)s
+
+** Futur simple
+
+je serai attelé(e)
+tu seras attelé(e)
+il (elle) sera attelé(e)
+nous serons attelé(e)s
+vous serez attelé(e)s
+ils (elles) seront attelé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais attelé(e)
+tu serais attelé(e)
+il (elle) serait attelé(e)
+nous serions attelé(e)s
+vous seriez attelé(e)s
+ils (elles) seraient attelé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois attelé(e)
+que tu sois attelé(e)
+qu’il (elle) soit attelé(e)
+que nous soyons attelé(e)s
+que vous soyez attelé(e)s
+qu’ils (elles) soient attelé(e)s
+
+** Imparfait
+
+que je fusse attelé(e)
+que tu fusses attelé(e)
+qu’il (elle) fût attelé(e)
+que nous fussions attelé(e)s
+que vous fussiez attelé(e)s
+qu’ils (elles) fussent attelé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons attelé(e)s
+soyez attelé(e)s
+
+* INFINITIF
+
+** Présent
+
+être attelé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant attelé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été attelé(e)
+tu as été attelé(e)
+il (elle) a été attelé(e)
+nous avons été attelé(e)s
+vous avez été attelé(e)s
+ils (elles) ont été attelé(e)s
+
+** Plus-que-parfait
+
+j'avais été attelé(e)
+il (elle) avait été attelé(e)
+nous avions été attelé(e)s
+ils (elles) avaient été attelé(e)s
+
+** Passé antérieur
+
+j'eus été attelé(e)
+tu eus été attelé(e)
+il (elle) eut été attelé(e)
+nous eûmes été attelé(e)s
+vous eûtes été attelé(e)s
+ils (elles) eurent été attelé(e)s
+
+** Futur antérieur
+
+j'aurai été attelé(e)
+tu auras été attelé(e)
+il (elle) aura été attelé(e)
+nous aurons été attelé(e)s
+vous aurez été attelé(e)s
+ils (elles) auront été attelé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été attelé(e)
+j'aurais été attelé(e)
+il (elle) aurait été attelé(e)
+nous aurions été attelé(e)s
+vous auriez été attelé(e)s
+ils (elles) auraient été attelé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été attelé(e)
+que tu aies été attelé(e)
+qu’il (elle) ait été attelé(e)
+que nous ayons été attelé(e)s
+que vous ayez été attelé(e)s
+qu’ils (elles) aient été attelé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été attelé(e)
+que tu eusses été attelé(e)
+qu’il (elle) eût été attelé(e)
+que nous eussions été attelé(e)s
+que vous eussiez été attelé(e)s
+qu’ils (elles) eussent été attelé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été attelé(e)
+ayons été attelé(e)s
+ayez été attelé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été attelé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été attelé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe imprimer
+
+* INDICATIF
+
+** Présent
+
+j'imprime
+tu imprimes
+il (elle) imprime
+nous imprimons
+vous imprimez
+ils (elles) impriment
+
+** Imparfait
+
+j'imprimais
+tu imprimais
+il (elle) imprimait
+nous imprimions
+vous imprimiez
+ils (elles) imprimaient
+
+** Passé simple
+
+j'imprimai
+tu imprimas
+il (elle) imprima
+nous imprimâmes
+vous imprimâtes
+ils (elles) imprimèrent
+
+** Futur simple
+
+j'imprimerai
+tu imprimeras
+il (elle) imprimera
+nous imprimerons
+vous imprimerez
+ils (elles) imprimeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'imprimerais
+tu imprimerais
+il (elle) imprimerait
+nous imprimerions
+vous imprimeriez
+ils (elles) imprimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'imprime
+que tu imprimes
+qu’il (elle) imprime
+que nous imprimions
+que vous imprimiez
+qu’ils (elles) impriment
+
+** Imparfait
+
+que j'imprimasse
+que tu imprimasses
+qu’il (elle) imprimât
+que nous imprimassions
+que vous imprimassiez
+qu’ils (elles) imprimassent
+
+* IMPÉRATIF
+
+** Présent
+
+imprime
+imprimons
+imprimez
+
+* INFINITIF
+
+** Présent
+
+imprimer
+
+* PARTICIPE
+
+** Présent
+
+imprimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai imprimé
+tu as imprimé
+il (elle) a imprimé
+nous avons imprimé
+vous avez imprimé
+ils (elles) ont imprimé
+
+** Plus-que-parfait
+
+j'avais imprimé
+tu avais imprimé
+il (elle) avait imprimé
+nous avions imprimé
+vous aviez imprimé
+ils (elles) avaient imprimé
+
+** Passé antérieur
+
+j'eus imprimé
+tu eus imprimé
+il (elle) eut imprimé
+nous eûmes imprimé
+vous eûtes imprimé
+ils (elles) eurent imprimé
+
+** Futur antérieur
+
+j'aurai imprimé
+tu auras imprimé
+il (elle) aura imprimé
+nous aurons imprimé
+vous aurez imprimé
+ils (elles) auront imprimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais imprimé
+tu aurais imprimé
+il (elle) aurait imprimé
+nous aurions imprimé
+vous auriez imprimé
+ils (elles) auraient imprimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie imprimé
+que tu aies imprimé
+qu’il (elle) ait imprimé
+que nous ayons imprimé
+que vous ayez imprimé
+qu’ils (elles) aient imprimé
+
+** Plus-que-parfait
+
+que j'eusse imprimé
+que tu eusses imprimé
+qu’il (elle) eût imprimé
+que nous eussions imprimé
+que vous eussiez imprimé
+qu’ils (elles) eussent imprimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons imprimé
+ayez imprimé
+
+* INFINITIF
+
+** Passé
+
+avoir imprimé
+
+* PARTICIPE
+
+** Passé
+
+ayant imprimé
+imprimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis imprimé(e)
+tu es imprimé(e)
+il (elle) est imprimé(e)
+nous sommes imprimé(e)s
+vous êtes imprimé(e)s
+ils (elles) sont imprimé(e)s
+
+** Imparfait
+
+j'étais imprimé(e)
+tu étais imprimé(e)
+il (elle) était imprimé(e)
+nous étions imprimé(e)s
+vous étiez imprimé(e)s
+ils (elles) étaient imprimé(e)s
+
+** Passé simple
+
+je fus imprimé(e)
+tu fus imprimé(e)
+il (elle) fut imprimé(e)
+nous fûmes imprimé(e)s
+vous fûtes imprimé(e)s
+ils (elles) furent imprimé(e)s
+
+** Futur simple
+
+je serai imprimé(e)
+tu seras imprimé(e)
+il (elle) sera imprimé(e)
+nous serons imprimé(e)s
+vous serez imprimé(e)s
+ils (elles) seront imprimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais imprimé(e)
+tu serais imprimé(e)
+il (elle) serait imprimé(e)
+nous serions imprimé(e)s
+vous seriez imprimé(e)s
+ils (elles) seraient imprimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois imprimé(e)
+que tu sois imprimé(e)
+qu’il (elle) soit imprimé(e)
+que nous soyons imprimé(e)s
+que vous soyez imprimé(e)s
+qu’ils (elles) soient imprimé(e)s
+
+** Imparfait
+
+que je fusse imprimé(e)
+que tu fusses imprimé(e)
+qu’il (elle) fût imprimé(e)
+que nous fussions imprimé(e)s
+que vous fussiez imprimé(e)s
+qu’ils (elles) fussent imprimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons imprimé(e)s
+soyez imprimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être imprimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant imprimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été imprimé(e)
+tu as été imprimé(e)
+il (elle) a été imprimé(e)
+nous avons été imprimé(e)s
+vous avez été imprimé(e)s
+ils (elles) ont été imprimé(e)s
+
+** Plus-que-parfait
+
+j'avais été imprimé(e)
+il (elle) avait été imprimé(e)
+nous avions été imprimé(e)s
+ils (elles) avaient été imprimé(e)s
+
+** Passé antérieur
+
+j'eus été imprimé(e)
+tu eus été imprimé(e)
+il (elle) eut été imprimé(e)
+nous eûmes été imprimé(e)s
+vous eûtes été imprimé(e)s
+ils (elles) eurent été imprimé(e)s
+
+** Futur antérieur
+
+j'aurai été imprimé(e)
+tu auras été imprimé(e)
+il (elle) aura été imprimé(e)
+nous aurons été imprimé(e)s
+vous aurez été imprimé(e)s
+ils (elles) auront été imprimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été imprimé(e)
+j'aurais été imprimé(e)
+il (elle) aurait été imprimé(e)
+nous aurions été imprimé(e)s
+vous auriez été imprimé(e)s
+ils (elles) auraient été imprimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été imprimé(e)
+que tu aies été imprimé(e)
+qu’il (elle) ait été imprimé(e)
+que nous ayons été imprimé(e)s
+que vous ayez été imprimé(e)s
+qu’ils (elles) aient été imprimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été imprimé(e)
+que tu eusses été imprimé(e)
+qu’il (elle) eût été imprimé(e)
+que nous eussions été imprimé(e)s
+que vous eussiez été imprimé(e)s
+qu’ils (elles) eussent été imprimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été imprimé(e)
+ayons été imprimé(e)s
+ayez été imprimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été imprimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été imprimé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tracer
+
+* INDICATIF
+
+** Présent
+
+je trace
+tu traces
+il (elle) trace
+nous traçons
+vous tracez
+ils (elles) tracent
+
+** Imparfait
+
+je traçais
+tu traçais
+il (elle) traçait
+nous tracions
+vous traciez
+ils (elles) traçaient
+
+** Passé simple
+
+je traçai
+tu traças
+il (elle) traça
+nous traçâmes
+vous traçâtes
+ils (elles) tracèrent
+
+** Futur simple
+
+je tracerai
+tu traceras
+il (elle) tracera
+nous tracerons
+vous tracerez
+ils (elles) traceront
+
+* CONDITIONNEL
+
+** Présent
+
+je tracerais
+tu tracerais
+il (elle) tracerait
+nous tracerions
+vous traceriez
+ils (elles) traceraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je trace
+que tu traces
+qu’il (elle) trace
+que nous tracions
+que vous traciez
+qu’ils (elles) tracent
+
+** Imparfait
+
+que je traçasse
+que tu traçasses
+qu’il (elle) traçât
+que nous traçassions
+que vous traçassiez
+qu’ils (elles) traçassent
+
+* IMPÉRATIF
+
+** Présent
+
+trace
+traçons
+tracez
+
+* INFINITIF
+
+** Présent
+
+tracer
+
+* PARTICIPE
+
+** Présent
+
+traçant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai tracé
+tu as tracé
+il (elle) a tracé
+nous avons tracé
+vous avez tracé
+ils (elles) ont tracé
+
+** Plus-que-parfait
+
+j'avais tracé
+tu avais tracé
+il (elle) avait tracé
+nous avions tracé
+vous aviez tracé
+ils (elles) avaient tracé
+
+** Passé antérieur
+
+j'eus tracé
+tu eus tracé
+il (elle) eut tracé
+nous eûmes tracé
+vous eûtes tracé
+ils (elles) eurent tracé
+
+** Futur antérieur
+
+j'aurai tracé
+tu auras tracé
+il (elle) aura tracé
+nous aurons tracé
+vous aurez tracé
+ils (elles) auront tracé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais tracé
+tu aurais tracé
+il (elle) aurait tracé
+nous aurions tracé
+vous auriez tracé
+ils (elles) auraient tracé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie tracé
+que tu aies tracé
+qu’il (elle) ait tracé
+que nous ayons tracé
+que vous ayez tracé
+qu’ils (elles) aient tracé
+
+** Plus-que-parfait
+
+que j'eusse tracé
+que tu eusses tracé
+qu’il (elle) eût tracé
+que nous eussions tracé
+que vous eussiez tracé
+qu’ils (elles) eussent tracé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons tracé
+ayez tracé
+
+* INFINITIF
+
+** Passé
+
+avoir tracé
+
+* PARTICIPE
+
+** Passé
+
+ayant tracé
+tracé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis tracé(e)
+tu es tracé(e)
+il (elle) est tracé(e)
+nous sommes tracé(e)s
+vous êtes tracé(e)s
+ils (elles) sont tracé(e)s
+
+** Imparfait
+
+j'étais tracé(e)
+tu étais tracé(e)
+il (elle) était tracé(e)
+nous étions tracé(e)s
+vous étiez tracé(e)s
+ils (elles) étaient tracé(e)s
+
+** Passé simple
+
+je fus tracé(e)
+tu fus tracé(e)
+il (elle) fut tracé(e)
+nous fûmes tracé(e)s
+vous fûtes tracé(e)s
+ils (elles) furent tracé(e)s
+
+** Futur simple
+
+je serai tracé(e)
+tu seras tracé(e)
+il (elle) sera tracé(e)
+nous serons tracé(e)s
+vous serez tracé(e)s
+ils (elles) seront tracé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais tracé(e)
+tu serais tracé(e)
+il (elle) serait tracé(e)
+nous serions tracé(e)s
+vous seriez tracé(e)s
+ils (elles) seraient tracé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois tracé(e)
+que tu sois tracé(e)
+qu’il (elle) soit tracé(e)
+que nous soyons tracé(e)s
+que vous soyez tracé(e)s
+qu’ils (elles) soient tracé(e)s
+
+** Imparfait
+
+que je fusse tracé(e)
+que tu fusses tracé(e)
+qu’il (elle) fût tracé(e)
+que nous fussions tracé(e)s
+que vous fussiez tracé(e)s
+qu’ils (elles) fussent tracé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons tracé(e)s
+soyez tracé(e)s
+
+* INFINITIF
+
+** Présent
+
+être tracé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant tracé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été tracé(e)
+tu as été tracé(e)
+il (elle) a été tracé(e)
+nous avons été tracé(e)s
+vous avez été tracé(e)s
+ils (elles) ont été tracé(e)s
+
+** Plus-que-parfait
+
+j'avais été tracé(e)
+il (elle) avait été tracé(e)
+nous avions été tracé(e)s
+ils (elles) avaient été tracé(e)s
+
+** Passé antérieur
+
+j'eus été tracé(e)
+tu eus été tracé(e)
+il (elle) eut été tracé(e)
+nous eûmes été tracé(e)s
+vous eûtes été tracé(e)s
+ils (elles) eurent été tracé(e)s
+
+** Futur antérieur
+
+j'aurai été tracé(e)
+tu auras été tracé(e)
+il (elle) aura été tracé(e)
+nous aurons été tracé(e)s
+vous aurez été tracé(e)s
+ils (elles) auront été tracé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été tracé(e)
+j'aurais été tracé(e)
+il (elle) aurait été tracé(e)
+nous aurions été tracé(e)s
+vous auriez été tracé(e)s
+ils (elles) auraient été tracé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été tracé(e)
+que tu aies été tracé(e)
+qu’il (elle) ait été tracé(e)
+que nous ayons été tracé(e)s
+que vous ayez été tracé(e)s
+qu’ils (elles) aient été tracé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été tracé(e)
+que tu eusses été tracé(e)
+qu’il (elle) eût été tracé(e)
+que nous eussions été tracé(e)s
+que vous eussiez été tracé(e)s
+qu’ils (elles) eussent été tracé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été tracé(e)
+ayons été tracé(e)s
+ayez été tracé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été tracé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été tracé(e)(s)

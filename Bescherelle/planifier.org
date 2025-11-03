@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe planifier
+
+* INDICATIF
+
+** Présent
+
+je planifie
+tu planifies
+il (elle) planifie
+nous planifions
+vous planifiez
+ils (elles) planifient
+
+** Imparfait
+
+je planifiais
+tu planifiais
+il (elle) planifiait
+nous planifiions
+vous planifiiez
+ils (elles) planifiaient
+
+** Passé simple
+
+je planifiai
+tu planifias
+il (elle) planifia
+nous planifiâmes
+vous planifiâtes
+ils (elles) planifièrent
+
+** Futur simple
+
+je planifierai
+tu planifieras
+il (elle) planifiera
+nous planifierons
+vous planifierez
+ils (elles) planifieront
+
+* CONDITIONNEL
+
+** Présent
+
+je planifierais
+tu planifierais
+il (elle) planifierait
+nous planifierions
+vous planifieriez
+ils (elles) planifieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je planifie
+que tu planifies
+qu’il (elle) planifie
+que nous planifiions
+que vous planifiiez
+qu’ils (elles) planifient
+
+** Imparfait
+
+que je planifiasse
+que tu planifiasses
+qu’il (elle) planifiât
+que nous planifiassions
+que vous planifiassiez
+qu’ils (elles) planifiassent
+
+* IMPÉRATIF
+
+** Présent
+
+planifie
+planifions
+planifiez
+
+* INFINITIF
+
+** Présent
+
+planifier
+
+* PARTICIPE
+
+** Présent
+
+planifiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai planifié
+tu as planifié
+il (elle) a planifié
+nous avons planifié
+vous avez planifié
+ils (elles) ont planifié
+
+** Plus-que-parfait
+
+j'avais planifié
+tu avais planifié
+il (elle) avait planifié
+nous avions planifié
+vous aviez planifié
+ils (elles) avaient planifié
+
+** Passé antérieur
+
+j'eus planifié
+tu eus planifié
+il (elle) eut planifié
+nous eûmes planifié
+vous eûtes planifié
+ils (elles) eurent planifié
+
+** Futur antérieur
+
+j'aurai planifié
+tu auras planifié
+il (elle) aura planifié
+nous aurons planifié
+vous aurez planifié
+ils (elles) auront planifié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais planifié
+tu aurais planifié
+il (elle) aurait planifié
+nous aurions planifié
+vous auriez planifié
+ils (elles) auraient planifié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie planifié
+que tu aies planifié
+qu’il (elle) ait planifié
+que nous ayons planifié
+que vous ayez planifié
+qu’ils (elles) aient planifié
+
+** Plus-que-parfait
+
+que j'eusse planifié
+que tu eusses planifié
+qu’il (elle) eût planifié
+que nous eussions planifié
+que vous eussiez planifié
+qu’ils (elles) eussent planifié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons planifié
+ayez planifié
+
+* INFINITIF
+
+** Passé
+
+avoir planifié
+
+* PARTICIPE
+
+** Passé
+
+ayant planifié
+planifié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis planifié(e)
+tu es planifié(e)
+il (elle) est planifié(e)
+nous sommes planifié(e)s
+vous êtes planifié(e)s
+ils (elles) sont planifié(e)s
+
+** Imparfait
+
+j'étais planifié(e)
+tu étais planifié(e)
+il (elle) était planifié(e)
+nous étions planifié(e)s
+vous étiez planifié(e)s
+ils (elles) étaient planifié(e)s
+
+** Passé simple
+
+je fus planifié(e)
+tu fus planifié(e)
+il (elle) fut planifié(e)
+nous fûmes planifié(e)s
+vous fûtes planifié(e)s
+ils (elles) furent planifié(e)s
+
+** Futur simple
+
+je serai planifié(e)
+tu seras planifié(e)
+il (elle) sera planifié(e)
+nous serons planifié(e)s
+vous serez planifié(e)s
+ils (elles) seront planifié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais planifié(e)
+tu serais planifié(e)
+il (elle) serait planifié(e)
+nous serions planifié(e)s
+vous seriez planifié(e)s
+ils (elles) seraient planifié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois planifié(e)
+que tu sois planifié(e)
+qu’il (elle) soit planifié(e)
+que nous soyons planifié(e)s
+que vous soyez planifié(e)s
+qu’ils (elles) soient planifié(e)s
+
+** Imparfait
+
+que je fusse planifié(e)
+que tu fusses planifié(e)
+qu’il (elle) fût planifié(e)
+que nous fussions planifié(e)s
+que vous fussiez planifié(e)s
+qu’ils (elles) fussent planifié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons planifié(e)s
+soyez planifié(e)s
+
+* INFINITIF
+
+** Présent
+
+être planifié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant planifié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été planifié(e)
+tu as été planifié(e)
+il (elle) a été planifié(e)
+nous avons été planifié(e)s
+vous avez été planifié(e)s
+ils (elles) ont été planifié(e)s
+
+** Plus-que-parfait
+
+j'avais été planifié(e)
+il (elle) avait été planifié(e)
+nous avions été planifié(e)s
+ils (elles) avaient été planifié(e)s
+
+** Passé antérieur
+
+j'eus été planifié(e)
+tu eus été planifié(e)
+il (elle) eut été planifié(e)
+nous eûmes été planifié(e)s
+vous eûtes été planifié(e)s
+ils (elles) eurent été planifié(e)s
+
+** Futur antérieur
+
+j'aurai été planifié(e)
+tu auras été planifié(e)
+il (elle) aura été planifié(e)
+nous aurons été planifié(e)s
+vous aurez été planifié(e)s
+ils (elles) auront été planifié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été planifié(e)
+j'aurais été planifié(e)
+il (elle) aurait été planifié(e)
+nous aurions été planifié(e)s
+vous auriez été planifié(e)s
+ils (elles) auraient été planifié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été planifié(e)
+que tu aies été planifié(e)
+qu’il (elle) ait été planifié(e)
+que nous ayons été planifié(e)s
+que vous ayez été planifié(e)s
+qu’ils (elles) aient été planifié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été planifié(e)
+que tu eusses été planifié(e)
+qu’il (elle) eût été planifié(e)
+que nous eussions été planifié(e)s
+que vous eussiez été planifié(e)s
+qu’ils (elles) eussent été planifié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été planifié(e)
+ayons été planifié(e)s
+ayez été planifié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été planifié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été planifié(e)(s)

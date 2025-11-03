@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe grever
+
+* INDICATIF
+
+** Présent
+
+je grève
+tu grèves
+il (elle) grève
+nous grevons
+vous grevez
+ils (elles) grèvent
+
+** Imparfait
+
+je grevais
+tu grevais
+il (elle) grevait
+nous grevions
+vous greviez
+ils (elles) grevaient
+
+** Passé simple
+
+je grevai
+tu grevas
+il (elle) greva
+nous grevâmes
+vous grevâtes
+ils (elles) grevèrent
+
+** Futur simple
+
+je grèverai
+tu grèveras
+il (elle) grèvera
+nous grèverons
+vous grèverez
+ils (elles) grèveront
+
+* CONDITIONNEL
+
+** Présent
+
+je grèverais
+tu grèverais
+il (elle) grèverait
+nous grèverions
+vous grèveriez
+ils (elles) grèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je grève
+que tu grèves
+qu’il (elle) grève
+que nous grevions
+que vous greviez
+qu’ils (elles) grèvent
+
+** Imparfait
+
+que je grevasse
+que tu grevasses
+qu’il (elle) grevât
+que nous grevassions
+que vous grevassiez
+qu’ils (elles) grevassent
+
+* IMPÉRATIF
+
+** Présent
+
+grève
+grevons
+grevez
+
+* INFINITIF
+
+** Présent
+
+grever
+
+* PARTICIPE
+
+** Présent
+
+grevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai grevé
+tu as grevé
+il (elle) a grevé
+nous avons grevé
+vous avez grevé
+ils (elles) ont grevé
+
+** Plus-que-parfait
+
+j'avais grevé
+tu avais grevé
+il (elle) avait grevé
+nous avions grevé
+vous aviez grevé
+ils (elles) avaient grevé
+
+** Passé antérieur
+
+j'eus grevé
+tu eus grevé
+il (elle) eut grevé
+nous eûmes grevé
+vous eûtes grevé
+ils (elles) eurent grevé
+
+** Futur antérieur
+
+j'aurai grevé
+tu auras grevé
+il (elle) aura grevé
+nous aurons grevé
+vous aurez grevé
+ils (elles) auront grevé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais grevé
+tu aurais grevé
+il (elle) aurait grevé
+nous aurions grevé
+vous auriez grevé
+ils (elles) auraient grevé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie grevé
+que tu aies grevé
+qu’il (elle) ait grevé
+que nous ayons grevé
+que vous ayez grevé
+qu’ils (elles) aient grevé
+
+** Plus-que-parfait
+
+que j'eusse grevé
+que tu eusses grevé
+qu’il (elle) eût grevé
+que nous eussions grevé
+que vous eussiez grevé
+qu’ils (elles) eussent grevé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons grevé
+ayez grevé
+
+* INFINITIF
+
+** Passé
+
+avoir grevé
+
+* PARTICIPE
+
+** Passé
+
+ayant grevé
+grevé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis grevé(e)
+tu es grevé(e)
+il (elle) est grevé(e)
+nous sommes grevé(e)s
+vous êtes grevé(e)s
+ils (elles) sont grevé(e)s
+
+** Imparfait
+
+j'étais grevé(e)
+tu étais grevé(e)
+il (elle) était grevé(e)
+nous étions grevé(e)s
+vous étiez grevé(e)s
+ils (elles) étaient grevé(e)s
+
+** Passé simple
+
+je fus grevé(e)
+tu fus grevé(e)
+il (elle) fut grevé(e)
+nous fûmes grevé(e)s
+vous fûtes grevé(e)s
+ils (elles) furent grevé(e)s
+
+** Futur simple
+
+je serai grevé(e)
+tu seras grevé(e)
+il (elle) sera grevé(e)
+nous serons grevé(e)s
+vous serez grevé(e)s
+ils (elles) seront grevé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais grevé(e)
+tu serais grevé(e)
+il (elle) serait grevé(e)
+nous serions grevé(e)s
+vous seriez grevé(e)s
+ils (elles) seraient grevé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois grevé(e)
+que tu sois grevé(e)
+qu’il (elle) soit grevé(e)
+que nous soyons grevé(e)s
+que vous soyez grevé(e)s
+qu’ils (elles) soient grevé(e)s
+
+** Imparfait
+
+que je fusse grevé(e)
+que tu fusses grevé(e)
+qu’il (elle) fût grevé(e)
+que nous fussions grevé(e)s
+que vous fussiez grevé(e)s
+qu’ils (elles) fussent grevé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons grevé(e)s
+soyez grevé(e)s
+
+* INFINITIF
+
+** Présent
+
+être grevé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant grevé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été grevé(e)
+tu as été grevé(e)
+il (elle) a été grevé(e)
+nous avons été grevé(e)s
+vous avez été grevé(e)s
+ils (elles) ont été grevé(e)s
+
+** Plus-que-parfait
+
+j'avais été grevé(e)
+il (elle) avait été grevé(e)
+nous avions été grevé(e)s
+ils (elles) avaient été grevé(e)s
+
+** Passé antérieur
+
+j'eus été grevé(e)
+tu eus été grevé(e)
+il (elle) eut été grevé(e)
+nous eûmes été grevé(e)s
+vous eûtes été grevé(e)s
+ils (elles) eurent été grevé(e)s
+
+** Futur antérieur
+
+j'aurai été grevé(e)
+tu auras été grevé(e)
+il (elle) aura été grevé(e)
+nous aurons été grevé(e)s
+vous aurez été grevé(e)s
+ils (elles) auront été grevé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été grevé(e)
+j'aurais été grevé(e)
+il (elle) aurait été grevé(e)
+nous aurions été grevé(e)s
+vous auriez été grevé(e)s
+ils (elles) auraient été grevé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été grevé(e)
+que tu aies été grevé(e)
+qu’il (elle) ait été grevé(e)
+que nous ayons été grevé(e)s
+que vous ayez été grevé(e)s
+qu’ils (elles) aient été grevé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été grevé(e)
+que tu eusses été grevé(e)
+qu’il (elle) eût été grevé(e)
+que nous eussions été grevé(e)s
+que vous eussiez été grevé(e)s
+qu’ils (elles) eussent été grevé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été grevé(e)
+ayons été grevé(e)s
+ayez été grevé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été grevé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été grevé(e)(s)

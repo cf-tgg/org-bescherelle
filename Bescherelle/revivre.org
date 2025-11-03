@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe revivre
+
+* INDICATIF
+
+** Présent
+
+je revis
+tu revis
+il (elle) revit
+nous revivons
+vous revivez
+ils (elles) revivent
+
+** Imparfait
+
+je revivais
+tu revivais
+il (elle) revivait
+nous revivions
+vous reviviez
+ils (elles) revivaient
+
+** Passé simple
+
+je revécus
+tu revécus
+il (elle) revécut
+nous revécûmes
+vous revécûtes
+ils (elles) revécurent
+
+** Futur simple
+
+je revivrai
+tu revivras
+il (elle) revivra
+nous revivrons
+vous revivrez
+ils (elles) revivront
+
+* CONDITIONNEL
+
+** Présent
+
+je revivrais
+tu revivrais
+il (elle) revivrait
+nous revivrions
+vous revivriez
+ils (elles) revivraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je revive
+que tu revives
+qu’il (elle) revive
+que nous revivions
+que vous reviviez
+qu’ils (elles) revivent
+
+** Imparfait
+
+que je revécusse
+que tu revécusses
+qu’il (elle) revécût
+que nous revécussions
+que vous revécussiez
+qu’ils (elles) revécussent
+
+* IMPÉRATIF
+
+** Présent
+
+revis
+revivons
+revivez
+
+* INFINITIF
+
+** Présent
+
+revivre
+
+* PARTICIPE
+
+** Présent
+
+revivant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai revécu
+tu as revécu
+il (elle) a revécu
+nous avons revécu
+vous avez revécu
+ils (elles) ont revécu
+
+** Plus-que-parfait
+
+j'avais revécu
+tu avais revécu
+il (elle) avait revécu
+nous avions revécu
+vous aviez revécu
+ils (elles) avaient revécu
+
+** Passé antérieur
+
+j'eus revécu
+tu eus revécu
+il (elle) eut revécu
+nous eûmes revécu
+vous eûtes revécu
+ils (elles) eurent revécu
+
+** Futur antérieur
+
+j'aurai revécu
+tu auras revécu
+il (elle) aura revécu
+nous aurons revécu
+vous aurez revécu
+ils (elles) auront revécu
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais revécu
+tu aurais revécu
+il (elle) aurait revécu
+nous aurions revécu
+vous auriez revécu
+ils (elles) auraient revécu
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie revécu
+que tu aies revécu
+qu’il (elle) ait revécu
+que nous ayons revécu
+que vous ayez revécu
+qu’ils (elles) aient revécu
+
+** Plus-que-parfait
+
+que j'eusse revécu
+que tu eusses revécu
+qu’il (elle) eût revécu
+que nous eussions revécu
+que vous eussiez revécu
+qu’ils (elles) eussent revécu
+
+* IMPÉRATIF
+
+** Passé
+
+ayons revécu
+ayez revécu
+
+* INFINITIF
+
+** Passé
+
+avoir revécu
+
+* PARTICIPE
+
+** Passé
+
+ayant revécu
+revécu (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis revécu(e)
+tu es revécu(e)
+il (elle) est revécu(e)
+nous sommes revécu(e)s
+vous êtes revécu(e)s
+ils (elles) sont revécu(e)s
+
+** Imparfait
+
+j'étais revécu(e)
+tu étais revécu(e)
+il (elle) était revécu(e)
+nous étions revécu(e)s
+vous étiez revécu(e)s
+ils (elles) étaient revécu(e)s
+
+** Passé simple
+
+je fus revécu(e)
+tu fus revécu(e)
+il (elle) fut revécu(e)
+nous fûmes revécu(e)s
+vous fûtes revécu(e)s
+ils (elles) furent revécu(e)s
+
+** Futur simple
+
+je serai revécu(e)
+tu seras revécu(e)
+il (elle) sera revécu(e)
+nous serons revécu(e)s
+vous serez revécu(e)s
+ils (elles) seront revécu(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais revécu(e)
+tu serais revécu(e)
+il (elle) serait revécu(e)
+nous serions revécu(e)s
+vous seriez revécu(e)s
+ils (elles) seraient revécu(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois revécu(e)
+que tu sois revécu(e)
+qu’il (elle) soit revécu(e)
+que nous soyons revécu(e)s
+que vous soyez revécu(e)s
+qu’ils (elles) soient revécu(e)s
+
+** Imparfait
+
+que je fusse revécu(e)
+que tu fusses revécu(e)
+qu’il (elle) fût revécu(e)
+que nous fussions revécu(e)s
+que vous fussiez revécu(e)s
+qu’ils (elles) fussent revécu(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons revécu(e)s
+soyez revécu(e)s
+
+* INFINITIF
+
+** Présent
+
+être revécu(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant revécu(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été revécu(e)
+tu as été revécu(e)
+il (elle) a été revécu(e)
+nous avons été revécu(e)s
+vous avez été revécu(e)s
+ils (elles) ont été revécu(e)s
+
+** Plus-que-parfait
+
+j'avais été revécu(e)
+il (elle) avait été revécu(e)
+nous avions été revécu(e)s
+ils (elles) avaient été revécu(e)s
+
+** Passé antérieur
+
+j'eus été revécu(e)
+tu eus été revécu(e)
+il (elle) eut été revécu(e)
+nous eûmes été revécu(e)s
+vous eûtes été revécu(e)s
+ils (elles) eurent été revécu(e)s
+
+** Futur antérieur
+
+j'aurai été revécu(e)
+tu auras été revécu(e)
+il (elle) aura été revécu(e)
+nous aurons été revécu(e)s
+vous aurez été revécu(e)s
+ils (elles) auront été revécu(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été revécu(e)
+j'aurais été revécu(e)
+il (elle) aurait été revécu(e)
+nous aurions été revécu(e)s
+vous auriez été revécu(e)s
+ils (elles) auraient été revécu(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été revécu(e)
+que tu aies été revécu(e)
+qu’il (elle) ait été revécu(e)
+que nous ayons été revécu(e)s
+que vous ayez été revécu(e)s
+qu’ils (elles) aient été revécu(e)s
+
+** Plus-que-parfait
+
+que j'eusse été revécu(e)
+que tu eusses été revécu(e)
+qu’il (elle) eût été revécu(e)
+que nous eussions été revécu(e)s
+que vous eussiez été revécu(e)s
+qu’ils (elles) eussent été revécu(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été revécu(e)
+ayons été revécu(e)s
+ayez été revécu(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été revécu(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été revécu(e)(s)

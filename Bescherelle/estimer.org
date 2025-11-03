@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe estimer
+
+* INDICATIF
+
+** Présent
+
+j'estime
+tu estimes
+il (elle) estime
+nous estimons
+vous estimez
+ils (elles) estiment
+
+** Imparfait
+
+j'estimais
+tu estimais
+il (elle) estimait
+nous estimions
+vous estimiez
+ils (elles) estimaient
+
+** Passé simple
+
+j'estimai
+tu estimas
+il (elle) estima
+nous estimâmes
+vous estimâtes
+ils (elles) estimèrent
+
+** Futur simple
+
+j'estimerai
+tu estimeras
+il (elle) estimera
+nous estimerons
+vous estimerez
+ils (elles) estimeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'estimerais
+tu estimerais
+il (elle) estimerait
+nous estimerions
+vous estimeriez
+ils (elles) estimeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'estime
+que tu estimes
+qu’il (elle) estime
+que nous estimions
+que vous estimiez
+qu’ils (elles) estiment
+
+** Imparfait
+
+que j'estimasse
+que tu estimasses
+qu’il (elle) estimât
+que nous estimassions
+que vous estimassiez
+qu’ils (elles) estimassent
+
+* IMPÉRATIF
+
+** Présent
+
+estime
+estimons
+estimez
+
+* INFINITIF
+
+** Présent
+
+estimer
+
+* PARTICIPE
+
+** Présent
+
+estimant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai estimé
+tu as estimé
+il (elle) a estimé
+nous avons estimé
+vous avez estimé
+ils (elles) ont estimé
+
+** Plus-que-parfait
+
+j'avais estimé
+tu avais estimé
+il (elle) avait estimé
+nous avions estimé
+vous aviez estimé
+ils (elles) avaient estimé
+
+** Passé antérieur
+
+j'eus estimé
+tu eus estimé
+il (elle) eut estimé
+nous eûmes estimé
+vous eûtes estimé
+ils (elles) eurent estimé
+
+** Futur antérieur
+
+j'aurai estimé
+tu auras estimé
+il (elle) aura estimé
+nous aurons estimé
+vous aurez estimé
+ils (elles) auront estimé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais estimé
+tu aurais estimé
+il (elle) aurait estimé
+nous aurions estimé
+vous auriez estimé
+ils (elles) auraient estimé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie estimé
+que tu aies estimé
+qu’il (elle) ait estimé
+que nous ayons estimé
+que vous ayez estimé
+qu’ils (elles) aient estimé
+
+** Plus-que-parfait
+
+que j'eusse estimé
+que tu eusses estimé
+qu’il (elle) eût estimé
+que nous eussions estimé
+que vous eussiez estimé
+qu’ils (elles) eussent estimé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons estimé
+ayez estimé
+
+* INFINITIF
+
+** Passé
+
+avoir estimé
+
+* PARTICIPE
+
+** Passé
+
+ayant estimé
+estimé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis estimé(e)
+tu es estimé(e)
+il (elle) est estimé(e)
+nous sommes estimé(e)s
+vous êtes estimé(e)s
+ils (elles) sont estimé(e)s
+
+** Imparfait
+
+j'étais estimé(e)
+tu étais estimé(e)
+il (elle) était estimé(e)
+nous étions estimé(e)s
+vous étiez estimé(e)s
+ils (elles) étaient estimé(e)s
+
+** Passé simple
+
+je fus estimé(e)
+tu fus estimé(e)
+il (elle) fut estimé(e)
+nous fûmes estimé(e)s
+vous fûtes estimé(e)s
+ils (elles) furent estimé(e)s
+
+** Futur simple
+
+je serai estimé(e)
+tu seras estimé(e)
+il (elle) sera estimé(e)
+nous serons estimé(e)s
+vous serez estimé(e)s
+ils (elles) seront estimé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais estimé(e)
+tu serais estimé(e)
+il (elle) serait estimé(e)
+nous serions estimé(e)s
+vous seriez estimé(e)s
+ils (elles) seraient estimé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois estimé(e)
+que tu sois estimé(e)
+qu’il (elle) soit estimé(e)
+que nous soyons estimé(e)s
+que vous soyez estimé(e)s
+qu’ils (elles) soient estimé(e)s
+
+** Imparfait
+
+que je fusse estimé(e)
+que tu fusses estimé(e)
+qu’il (elle) fût estimé(e)
+que nous fussions estimé(e)s
+que vous fussiez estimé(e)s
+qu’ils (elles) fussent estimé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons estimé(e)s
+soyez estimé(e)s
+
+* INFINITIF
+
+** Présent
+
+être estimé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant estimé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été estimé(e)
+tu as été estimé(e)
+il (elle) a été estimé(e)
+nous avons été estimé(e)s
+vous avez été estimé(e)s
+ils (elles) ont été estimé(e)s
+
+** Plus-que-parfait
+
+j'avais été estimé(e)
+il (elle) avait été estimé(e)
+nous avions été estimé(e)s
+ils (elles) avaient été estimé(e)s
+
+** Passé antérieur
+
+j'eus été estimé(e)
+tu eus été estimé(e)
+il (elle) eut été estimé(e)
+nous eûmes été estimé(e)s
+vous eûtes été estimé(e)s
+ils (elles) eurent été estimé(e)s
+
+** Futur antérieur
+
+j'aurai été estimé(e)
+tu auras été estimé(e)
+il (elle) aura été estimé(e)
+nous aurons été estimé(e)s
+vous aurez été estimé(e)s
+ils (elles) auront été estimé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été estimé(e)
+j'aurais été estimé(e)
+il (elle) aurait été estimé(e)
+nous aurions été estimé(e)s
+vous auriez été estimé(e)s
+ils (elles) auraient été estimé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été estimé(e)
+que tu aies été estimé(e)
+qu’il (elle) ait été estimé(e)
+que nous ayons été estimé(e)s
+que vous ayez été estimé(e)s
+qu’ils (elles) aient été estimé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été estimé(e)
+que tu eusses été estimé(e)
+qu’il (elle) eût été estimé(e)
+que nous eussions été estimé(e)s
+que vous eussiez été estimé(e)s
+qu’ils (elles) eussent été estimé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été estimé(e)
+ayons été estimé(e)s
+ayez été estimé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été estimé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été estimé(e)(s)

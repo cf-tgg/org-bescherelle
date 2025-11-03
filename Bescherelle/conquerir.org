@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe conquerir
+
+* INDICATIF
+
+** Présent
+
+je conquiers
+tu conquiers
+il (elle) conquiert
+nous conquérons
+vous conquérez
+ils (elles) conquièrent
+
+** Imparfait
+
+je conquérais
+tu conquérais
+il (elle) conquérait
+nous conquérions
+vous conquériez
+ils (elles) conquéraient
+
+** Passé simple
+
+je conquis
+tu conquis
+il (elle) conquit
+nous conquîmes
+vous conquîtes
+ils (elles) conquirent
+
+** Futur simple
+
+je conquerrai
+tu conquerras
+il (elle) conquerra
+nous conquerrons
+vous conquerrez
+ils (elles) conquerront
+
+* CONDITIONNEL
+
+** Présent
+
+je conquerrais
+tu conquerrais
+il (elle) conquerrait
+nous conquerrions
+vous conquerriez
+ils (elles) conquerraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je conquière
+que tu conquières
+qu’il (elle) conquière
+que nous conquérions
+que vous conquériez
+qu’ils (elles) conquièrent
+
+** Imparfait
+
+que je conquisse
+que tu conquisses
+qu’il (elle) conquît
+que nous conquissions
+que vous conquissiez
+qu’ils (elles) conquissent
+
+* IMPÉRATIF
+
+** Présent
+
+conquiers
+conquérons
+conquérez
+
+* INFINITIF
+
+** Présent
+
+conquérir
+
+* PARTICIPE
+
+** Présent
+
+conquérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai conquis
+tu as conquis
+il (elle) a conquis
+nous avons conquis
+vous avez conquis
+ils (elles) ont conquis
+
+** Plus-que-parfait
+
+j'avais conquis
+tu avais conquis
+il (elle) avait conquis
+nous avions conquis
+vous aviez conquis
+ils (elles) avaient conquis
+
+** Passé antérieur
+
+j'eus conquis
+tu eus conquis
+il (elle) eut conquis
+nous eûmes conquis
+vous eûtes conquis
+ils (elles) eurent conquis
+
+** Futur antérieur
+
+j'aurai conquis
+tu auras conquis
+il (elle) aura conquis
+nous aurons conquis
+vous aurez conquis
+ils (elles) auront conquis
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais conquis
+tu aurais conquis
+il (elle) aurait conquis
+nous aurions conquis
+vous auriez conquis
+ils (elles) auraient conquis
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie conquis
+que tu aies conquis
+qu’il (elle) ait conquis
+que nous ayons conquis
+que vous ayez conquis
+qu’ils (elles) aient conquis
+
+** Plus-que-parfait
+
+que j'eusse conquis
+que tu eusses conquis
+qu’il (elle) eût conquis
+que nous eussions conquis
+que vous eussiez conquis
+qu’ils (elles) eussent conquis
+
+* IMPÉRATIF
+
+** Passé
+
+ayons conquis
+ayez conquis
+
+* INFINITIF
+
+** Passé
+
+avoir conquis
+
+* PARTICIPE
+
+** Passé
+
+ayant conquis
+conquis (s, se, s, ses)
+
+* INDICATIF
+
+** Présent
+
+je suis conquis(e)
+tu es conquis(e)
+il (elle) est conquis(e)
+nous sommes conquis(es)
+vous êtes conquis(es)
+ils (elles) sont conquis(es)
+
+** Imparfait
+
+j'étais conquis(e)
+tu étais conquis(e)
+il (elle) était conquis(e)
+nous étions conquis(es)
+vous étiez conquis(es)
+ils (elles) étaient conquis(es)
+
+** Passé simple
+
+je fus conquis(e)
+tu fus conquis(e)
+il (elle) fut conquis(e)
+nous fûmes conquis(es)
+vous fûtes conquis(es)
+ils (elles) furent conquis(es)
+
+** Futur simple
+
+je serai conquis(e)
+tu seras conquis(e)
+il (elle) sera conquis(e)
+nous serons conquis(es)
+vous serez conquis(es)
+ils (elles) seront conquis(es)
+
+* CONDITIONNEL
+
+** Présent
+
+je serais conquis(e)
+tu serais conquis(e)
+il (elle) serait conquis(e)
+nous serions conquis(es)
+vous seriez conquis(es)
+ils (elles) seraient conquis(es)
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois conquis(e)
+que tu sois conquis(e)
+qu’il (elle) soit conquis(e)
+que nous soyons conquis(es)
+que vous soyez conquis(es)
+qu’ils (elles) soient conquis(es)
+
+** Imparfait
+
+que je fusse conquis(e)
+que tu fusses conquis(e)
+qu’il (elle) fût conquis(e)
+que nous fussions conquis(es)
+que vous fussiez conquis(es)
+qu’ils (elles) fussent conquis(es)
+
+* IMPÉRATIF
+
+** Présent
+
+soyons conquis(es)
+soyez conquis(es)
+
+* INFINITIF
+
+** Présent
+
+être conquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Présent
+
+étant conquis (s, se, s, ses)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été conquis(e)
+tu as été conquis(e)
+il (elle) a été conquis(e)
+nous avons été conquis(es)
+vous avez été conquis(es)
+ils (elles) ont été conquis(es)
+
+** Plus-que-parfait
+
+j'avais été conquis(e)
+il (elle) avait été conquis(e)
+nous avions été conquis(es)
+ils (elles) avaient été conquis(es)
+
+** Passé antérieur
+
+j'eus été conquis(e)
+tu eus été conquis(e)
+il (elle) eut été conquis(e)
+nous eûmes été conquis(es)
+vous eûtes été conquis(es)
+ils (elles) eurent été conquis(es)
+
+** Futur antérieur
+
+j'aurai été conquis(e)
+tu auras été conquis(e)
+il (elle) aura été conquis(e)
+nous aurons été conquis(es)
+vous aurez été conquis(es)
+ils (elles) auront été conquis(es)
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été conquis(e)
+j'aurais été conquis(e)
+il (elle) aurait été conquis(e)
+nous aurions été conquis(es)
+vous auriez été conquis(es)
+ils (elles) auraient été conquis(es)
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été conquis(e)
+que tu aies été conquis(e)
+qu’il (elle) ait été conquis(e)
+que nous ayons été conquis(es)
+que vous ayez été conquis(es)
+qu’ils (elles) aient été conquis(es)
+
+** Plus-que-parfait
+
+que j'eusse été conquis(e)
+que tu eusses été conquis(e)
+qu’il (elle) eût été conquis(e)
+que nous eussions été conquis(es)
+que vous eussiez été conquis(es)
+qu’ils (elles) eussent été conquis(es)
+
+* IMPÉRATIF
+
+** Passé
+
+aie été conquis(e)
+ayons été conquis(es)
+ayez été conquis(es)
+
+* INFINITIF
+
+** Passé
+
+avoir été conquis (s, se, s, ses)
+
+* PARTICIPE
+
+** Passé
+
+ayant été conquis (s, se, s, ses)

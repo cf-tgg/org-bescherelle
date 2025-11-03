@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe chasser
+
+* INDICATIF
+
+** Présent
+
+je chasse
+tu chasses
+il (elle) chasse
+nous chassons
+vous chassez
+ils (elles) chassent
+
+** Imparfait
+
+je chassais
+tu chassais
+il (elle) chassait
+nous chassions
+vous chassiez
+ils (elles) chassaient
+
+** Passé simple
+
+je chassai
+tu chassas
+il (elle) chassa
+nous chassâmes
+vous chassâtes
+ils (elles) chassèrent
+
+** Futur simple
+
+je chasserai
+tu chasseras
+il (elle) chassera
+nous chasserons
+vous chasserez
+ils (elles) chasseront
+
+* CONDITIONNEL
+
+** Présent
+
+je chasserais
+tu chasserais
+il (elle) chasserait
+nous chasserions
+vous chasseriez
+ils (elles) chasseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je chasse
+que tu chasses
+qu’il (elle) chasse
+que nous chassions
+que vous chassiez
+qu’ils (elles) chassent
+
+** Imparfait
+
+que je chassasse
+que tu chassasses
+qu’il (elle) chassât
+que nous chassassions
+que vous chassassiez
+qu’ils (elles) chassassent
+
+* IMPÉRATIF
+
+** Présent
+
+chasse
+chassons
+chassez
+
+* INFINITIF
+
+** Présent
+
+chasser
+
+* PARTICIPE
+
+** Présent
+
+chassant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai chassé
+tu as chassé
+il (elle) a chassé
+nous avons chassé
+vous avez chassé
+ils (elles) ont chassé
+
+** Plus-que-parfait
+
+j'avais chassé
+tu avais chassé
+il (elle) avait chassé
+nous avions chassé
+vous aviez chassé
+ils (elles) avaient chassé
+
+** Passé antérieur
+
+j'eus chassé
+tu eus chassé
+il (elle) eut chassé
+nous eûmes chassé
+vous eûtes chassé
+ils (elles) eurent chassé
+
+** Futur antérieur
+
+j'aurai chassé
+tu auras chassé
+il (elle) aura chassé
+nous aurons chassé
+vous aurez chassé
+ils (elles) auront chassé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais chassé
+tu aurais chassé
+il (elle) aurait chassé
+nous aurions chassé
+vous auriez chassé
+ils (elles) auraient chassé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie chassé
+que tu aies chassé
+qu’il (elle) ait chassé
+que nous ayons chassé
+que vous ayez chassé
+qu’ils (elles) aient chassé
+
+** Plus-que-parfait
+
+que j'eusse chassé
+que tu eusses chassé
+qu’il (elle) eût chassé
+que nous eussions chassé
+que vous eussiez chassé
+qu’ils (elles) eussent chassé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons chassé
+ayez chassé
+
+* INFINITIF
+
+** Passé
+
+avoir chassé
+
+* PARTICIPE
+
+** Passé
+
+ayant chassé
+chassé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis chassé(e)
+tu es chassé(e)
+il (elle) est chassé(e)
+nous sommes chassé(e)s
+vous êtes chassé(e)s
+ils (elles) sont chassé(e)s
+
+** Imparfait
+
+j'étais chassé(e)
+tu étais chassé(e)
+il (elle) était chassé(e)
+nous étions chassé(e)s
+vous étiez chassé(e)s
+ils (elles) étaient chassé(e)s
+
+** Passé simple
+
+je fus chassé(e)
+tu fus chassé(e)
+il (elle) fut chassé(e)
+nous fûmes chassé(e)s
+vous fûtes chassé(e)s
+ils (elles) furent chassé(e)s
+
+** Futur simple
+
+je serai chassé(e)
+tu seras chassé(e)
+il (elle) sera chassé(e)
+nous serons chassé(e)s
+vous serez chassé(e)s
+ils (elles) seront chassé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais chassé(e)
+tu serais chassé(e)
+il (elle) serait chassé(e)
+nous serions chassé(e)s
+vous seriez chassé(e)s
+ils (elles) seraient chassé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois chassé(e)
+que tu sois chassé(e)
+qu’il (elle) soit chassé(e)
+que nous soyons chassé(e)s
+que vous soyez chassé(e)s
+qu’ils (elles) soient chassé(e)s
+
+** Imparfait
+
+que je fusse chassé(e)
+que tu fusses chassé(e)
+qu’il (elle) fût chassé(e)
+que nous fussions chassé(e)s
+que vous fussiez chassé(e)s
+qu’ils (elles) fussent chassé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons chassé(e)s
+soyez chassé(e)s
+
+* INFINITIF
+
+** Présent
+
+être chassé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant chassé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été chassé(e)
+tu as été chassé(e)
+il (elle) a été chassé(e)
+nous avons été chassé(e)s
+vous avez été chassé(e)s
+ils (elles) ont été chassé(e)s
+
+** Plus-que-parfait
+
+j'avais été chassé(e)
+il (elle) avait été chassé(e)
+nous avions été chassé(e)s
+ils (elles) avaient été chassé(e)s
+
+** Passé antérieur
+
+j'eus été chassé(e)
+tu eus été chassé(e)
+il (elle) eut été chassé(e)
+nous eûmes été chassé(e)s
+vous eûtes été chassé(e)s
+ils (elles) eurent été chassé(e)s
+
+** Futur antérieur
+
+j'aurai été chassé(e)
+tu auras été chassé(e)
+il (elle) aura été chassé(e)
+nous aurons été chassé(e)s
+vous aurez été chassé(e)s
+ils (elles) auront été chassé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été chassé(e)
+j'aurais été chassé(e)
+il (elle) aurait été chassé(e)
+nous aurions été chassé(e)s
+vous auriez été chassé(e)s
+ils (elles) auraient été chassé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été chassé(e)
+que tu aies été chassé(e)
+qu’il (elle) ait été chassé(e)
+que nous ayons été chassé(e)s
+que vous ayez été chassé(e)s
+qu’ils (elles) aient été chassé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été chassé(e)
+que tu eusses été chassé(e)
+qu’il (elle) eût été chassé(e)
+que nous eussions été chassé(e)s
+que vous eussiez été chassé(e)s
+qu’ils (elles) eussent été chassé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été chassé(e)
+ayons été chassé(e)s
+ayez été chassé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été chassé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été chassé(e)(s)

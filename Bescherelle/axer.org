@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe axer
+
+* INDICATIF
+
+** Présent
+
+j'axe
+tu axes
+il (elle) axe
+nous axons
+vous axez
+ils (elles) axent
+
+** Imparfait
+
+j'axais
+tu axais
+il (elle) axait
+nous axions
+vous axiez
+ils (elles) axaient
+
+** Passé simple
+
+j'axai
+tu axas
+il (elle) axa
+nous axâmes
+vous axâtes
+ils (elles) axèrent
+
+** Futur simple
+
+j'axerai
+tu axeras
+il (elle) axera
+nous axerons
+vous axerez
+ils (elles) axeront
+
+* CONDITIONNEL
+
+** Présent
+
+j'axerais
+tu axerais
+il (elle) axerait
+nous axerions
+vous axeriez
+ils (elles) axeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'axe
+que tu axes
+qu’il (elle) axe
+que nous axions
+que vous axiez
+qu’ils (elles) axent
+
+** Imparfait
+
+que j'axasse
+que tu axasses
+qu’il (elle) axât
+que nous axassions
+que vous axassiez
+qu’ils (elles) axassent
+
+* IMPÉRATIF
+
+** Présent
+
+axe
+axons
+axez
+
+* INFINITIF
+
+** Présent
+
+axer
+
+* PARTICIPE
+
+** Présent
+
+axant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai axé
+tu as axé
+il (elle) a axé
+nous avons axé
+vous avez axé
+ils (elles) ont axé
+
+** Plus-que-parfait
+
+j'avais axé
+tu avais axé
+il (elle) avait axé
+nous avions axé
+vous aviez axé
+ils (elles) avaient axé
+
+** Passé antérieur
+
+j'eus axé
+tu eus axé
+il (elle) eut axé
+nous eûmes axé
+vous eûtes axé
+ils (elles) eurent axé
+
+** Futur antérieur
+
+j'aurai axé
+tu auras axé
+il (elle) aura axé
+nous aurons axé
+vous aurez axé
+ils (elles) auront axé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais axé
+tu aurais axé
+il (elle) aurait axé
+nous aurions axé
+vous auriez axé
+ils (elles) auraient axé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie axé
+que tu aies axé
+qu’il (elle) ait axé
+que nous ayons axé
+que vous ayez axé
+qu’ils (elles) aient axé
+
+** Plus-que-parfait
+
+que j'eusse axé
+que tu eusses axé
+qu’il (elle) eût axé
+que nous eussions axé
+que vous eussiez axé
+qu’ils (elles) eussent axé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons axé
+ayez axé
+
+* INFINITIF
+
+** Passé
+
+avoir axé
+
+* PARTICIPE
+
+** Passé
+
+ayant axé
+axé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis axé(e)
+tu es axé(e)
+il (elle) est axé(e)
+nous sommes axé(e)s
+vous êtes axé(e)s
+ils (elles) sont axé(e)s
+
+** Imparfait
+
+j'étais axé(e)
+tu étais axé(e)
+il (elle) était axé(e)
+nous étions axé(e)s
+vous étiez axé(e)s
+ils (elles) étaient axé(e)s
+
+** Passé simple
+
+je fus axé(e)
+tu fus axé(e)
+il (elle) fut axé(e)
+nous fûmes axé(e)s
+vous fûtes axé(e)s
+ils (elles) furent axé(e)s
+
+** Futur simple
+
+je serai axé(e)
+tu seras axé(e)
+il (elle) sera axé(e)
+nous serons axé(e)s
+vous serez axé(e)s
+ils (elles) seront axé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais axé(e)
+tu serais axé(e)
+il (elle) serait axé(e)
+nous serions axé(e)s
+vous seriez axé(e)s
+ils (elles) seraient axé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois axé(e)
+que tu sois axé(e)
+qu’il (elle) soit axé(e)
+que nous soyons axé(e)s
+que vous soyez axé(e)s
+qu’ils (elles) soient axé(e)s
+
+** Imparfait
+
+que je fusse axé(e)
+que tu fusses axé(e)
+qu’il (elle) fût axé(e)
+que nous fussions axé(e)s
+que vous fussiez axé(e)s
+qu’ils (elles) fussent axé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons axé(e)s
+soyez axé(e)s
+
+* INFINITIF
+
+** Présent
+
+être axé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant axé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été axé(e)
+tu as été axé(e)
+il (elle) a été axé(e)
+nous avons été axé(e)s
+vous avez été axé(e)s
+ils (elles) ont été axé(e)s
+
+** Plus-que-parfait
+
+j'avais été axé(e)
+il (elle) avait été axé(e)
+nous avions été axé(e)s
+ils (elles) avaient été axé(e)s
+
+** Passé antérieur
+
+j'eus été axé(e)
+tu eus été axé(e)
+il (elle) eut été axé(e)
+nous eûmes été axé(e)s
+vous eûtes été axé(e)s
+ils (elles) eurent été axé(e)s
+
+** Futur antérieur
+
+j'aurai été axé(e)
+tu auras été axé(e)
+il (elle) aura été axé(e)
+nous aurons été axé(e)s
+vous aurez été axé(e)s
+ils (elles) auront été axé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été axé(e)
+j'aurais été axé(e)
+il (elle) aurait été axé(e)
+nous aurions été axé(e)s
+vous auriez été axé(e)s
+ils (elles) auraient été axé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été axé(e)
+que tu aies été axé(e)
+qu’il (elle) ait été axé(e)
+que nous ayons été axé(e)s
+que vous ayez été axé(e)s
+qu’ils (elles) aient été axé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été axé(e)
+que tu eusses été axé(e)
+qu’il (elle) eût été axé(e)
+que nous eussions été axé(e)s
+que vous eussiez été axé(e)s
+qu’ils (elles) eussent été axé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été axé(e)
+ayons été axé(e)s
+ayez été axé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été axé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été axé(e)(s)

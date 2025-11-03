@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe avouer
+
+* INDICATIF
+
+** Présent
+
+j'avoue
+tu avoues
+il (elle) avoue
+nous avouons
+vous avouez
+ils (elles) avouent
+
+** Imparfait
+
+j'avouais
+tu avouais
+il (elle) avouait
+nous avouions
+vous avouiez
+ils (elles) avouaient
+
+** Passé simple
+
+j'avouai
+tu avouas
+il (elle) avoua
+nous avouâmes
+vous avouâtes
+ils (elles) avouèrent
+
+** Futur simple
+
+j'avouerai
+tu avoueras
+il (elle) avouera
+nous avouerons
+vous avouerez
+ils (elles) avoueront
+
+* CONDITIONNEL
+
+** Présent
+
+j'avouerais
+tu avouerais
+il (elle) avouerait
+nous avouerions
+vous avoueriez
+ils (elles) avoueraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'avoue
+que tu avoues
+qu’il (elle) avoue
+que nous avouions
+que vous avouiez
+qu’ils (elles) avouent
+
+** Imparfait
+
+que j'avouasse
+que tu avouasses
+qu’il (elle) avouât
+que nous avouassions
+que vous avouassiez
+qu’ils (elles) avouassent
+
+* IMPÉRATIF
+
+** Présent
+
+avoue
+avouons
+avouez
+
+* INFINITIF
+
+** Présent
+
+avouer
+
+* PARTICIPE
+
+** Présent
+
+avouant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai avoué
+tu as avoué
+il (elle) a avoué
+nous avons avoué
+vous avez avoué
+ils (elles) ont avoué
+
+** Plus-que-parfait
+
+j'avais avoué
+tu avais avoué
+il (elle) avait avoué
+nous avions avoué
+vous aviez avoué
+ils (elles) avaient avoué
+
+** Passé antérieur
+
+j'eus avoué
+tu eus avoué
+il (elle) eut avoué
+nous eûmes avoué
+vous eûtes avoué
+ils (elles) eurent avoué
+
+** Futur antérieur
+
+j'aurai avoué
+tu auras avoué
+il (elle) aura avoué
+nous aurons avoué
+vous aurez avoué
+ils (elles) auront avoué
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais avoué
+tu aurais avoué
+il (elle) aurait avoué
+nous aurions avoué
+vous auriez avoué
+ils (elles) auraient avoué
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie avoué
+que tu aies avoué
+qu’il (elle) ait avoué
+que nous ayons avoué
+que vous ayez avoué
+qu’ils (elles) aient avoué
+
+** Plus-que-parfait
+
+que j'eusse avoué
+que tu eusses avoué
+qu’il (elle) eût avoué
+que nous eussions avoué
+que vous eussiez avoué
+qu’ils (elles) eussent avoué
+
+* IMPÉRATIF
+
+** Passé
+
+ayons avoué
+ayez avoué
+
+* INFINITIF
+
+** Passé
+
+avoir avoué
+
+* PARTICIPE
+
+** Passé
+
+ayant avoué
+avoué (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis avoué(e)
+tu es avoué(e)
+il (elle) est avoué(e)
+nous sommes avoué(e)s
+vous êtes avoué(e)s
+ils (elles) sont avoué(e)s
+
+** Imparfait
+
+j'étais avoué(e)
+tu étais avoué(e)
+il (elle) était avoué(e)
+nous étions avoué(e)s
+vous étiez avoué(e)s
+ils (elles) étaient avoué(e)s
+
+** Passé simple
+
+je fus avoué(e)
+tu fus avoué(e)
+il (elle) fut avoué(e)
+nous fûmes avoué(e)s
+vous fûtes avoué(e)s
+ils (elles) furent avoué(e)s
+
+** Futur simple
+
+je serai avoué(e)
+tu seras avoué(e)
+il (elle) sera avoué(e)
+nous serons avoué(e)s
+vous serez avoué(e)s
+ils (elles) seront avoué(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais avoué(e)
+tu serais avoué(e)
+il (elle) serait avoué(e)
+nous serions avoué(e)s
+vous seriez avoué(e)s
+ils (elles) seraient avoué(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois avoué(e)
+que tu sois avoué(e)
+qu’il (elle) soit avoué(e)
+que nous soyons avoué(e)s
+que vous soyez avoué(e)s
+qu’ils (elles) soient avoué(e)s
+
+** Imparfait
+
+que je fusse avoué(e)
+que tu fusses avoué(e)
+qu’il (elle) fût avoué(e)
+que nous fussions avoué(e)s
+que vous fussiez avoué(e)s
+qu’ils (elles) fussent avoué(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons avoué(e)s
+soyez avoué(e)s
+
+* INFINITIF
+
+** Présent
+
+être avoué(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant avoué(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été avoué(e)
+tu as été avoué(e)
+il (elle) a été avoué(e)
+nous avons été avoué(e)s
+vous avez été avoué(e)s
+ils (elles) ont été avoué(e)s
+
+** Plus-que-parfait
+
+j'avais été avoué(e)
+il (elle) avait été avoué(e)
+nous avions été avoué(e)s
+ils (elles) avaient été avoué(e)s
+
+** Passé antérieur
+
+j'eus été avoué(e)
+tu eus été avoué(e)
+il (elle) eut été avoué(e)
+nous eûmes été avoué(e)s
+vous eûtes été avoué(e)s
+ils (elles) eurent été avoué(e)s
+
+** Futur antérieur
+
+j'aurai été avoué(e)
+tu auras été avoué(e)
+il (elle) aura été avoué(e)
+nous aurons été avoué(e)s
+vous aurez été avoué(e)s
+ils (elles) auront été avoué(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été avoué(e)
+j'aurais été avoué(e)
+il (elle) aurait été avoué(e)
+nous aurions été avoué(e)s
+vous auriez été avoué(e)s
+ils (elles) auraient été avoué(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été avoué(e)
+que tu aies été avoué(e)
+qu’il (elle) ait été avoué(e)
+que nous ayons été avoué(e)s
+que vous ayez été avoué(e)s
+qu’ils (elles) aient été avoué(e)s
+
+** Plus-que-parfait
+
+que j'eusse été avoué(e)
+que tu eusses été avoué(e)
+qu’il (elle) eût été avoué(e)
+que nous eussions été avoué(e)s
+que vous eussiez été avoué(e)s
+qu’ils (elles) eussent été avoué(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été avoué(e)
+ayons été avoué(e)s
+ayez été avoué(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été avoué(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été avoué(e)(s)

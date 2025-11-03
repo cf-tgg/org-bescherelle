@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe garer
+
+* INDICATIF
+
+** Présent
+
+je gare
+tu gares
+il (elle) gare
+nous garons
+vous garez
+ils (elles) garent
+
+** Imparfait
+
+je garais
+tu garais
+il (elle) garait
+nous garions
+vous gariez
+ils (elles) garaient
+
+** Passé simple
+
+je garai
+tu garas
+il (elle) gara
+nous garâmes
+vous garâtes
+ils (elles) garèrent
+
+** Futur simple
+
+je garerai
+tu gareras
+il (elle) garera
+nous garerons
+vous garerez
+ils (elles) gareront
+
+* CONDITIONNEL
+
+** Présent
+
+je garerais
+tu garerais
+il (elle) garerait
+nous garerions
+vous gareriez
+ils (elles) gareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gare
+que tu gares
+qu’il (elle) gare
+que nous garions
+que vous gariez
+qu’ils (elles) garent
+
+** Imparfait
+
+que je garasse
+que tu garasses
+qu’il (elle) garât
+que nous garassions
+que vous garassiez
+qu’ils (elles) garassent
+
+* IMPÉRATIF
+
+** Présent
+
+gare
+garons
+garez
+
+* INFINITIF
+
+** Présent
+
+garer
+
+* PARTICIPE
+
+** Présent
+
+garant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai garé
+tu as garé
+il (elle) a garé
+nous avons garé
+vous avez garé
+ils (elles) ont garé
+
+** Plus-que-parfait
+
+j'avais garé
+tu avais garé
+il (elle) avait garé
+nous avions garé
+vous aviez garé
+ils (elles) avaient garé
+
+** Passé antérieur
+
+j'eus garé
+tu eus garé
+il (elle) eut garé
+nous eûmes garé
+vous eûtes garé
+ils (elles) eurent garé
+
+** Futur antérieur
+
+j'aurai garé
+tu auras garé
+il (elle) aura garé
+nous aurons garé
+vous aurez garé
+ils (elles) auront garé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais garé
+tu aurais garé
+il (elle) aurait garé
+nous aurions garé
+vous auriez garé
+ils (elles) auraient garé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie garé
+que tu aies garé
+qu’il (elle) ait garé
+que nous ayons garé
+que vous ayez garé
+qu’ils (elles) aient garé
+
+** Plus-que-parfait
+
+que j'eusse garé
+que tu eusses garé
+qu’il (elle) eût garé
+que nous eussions garé
+que vous eussiez garé
+qu’ils (elles) eussent garé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons garé
+ayez garé
+
+* INFINITIF
+
+** Passé
+
+avoir garé
+
+* PARTICIPE
+
+** Passé
+
+ayant garé
+garé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis garé(e)
+tu es garé(e)
+il (elle) est garé(e)
+nous sommes garé(e)s
+vous êtes garé(e)s
+ils (elles) sont garé(e)s
+
+** Imparfait
+
+j'étais garé(e)
+tu étais garé(e)
+il (elle) était garé(e)
+nous étions garé(e)s
+vous étiez garé(e)s
+ils (elles) étaient garé(e)s
+
+** Passé simple
+
+je fus garé(e)
+tu fus garé(e)
+il (elle) fut garé(e)
+nous fûmes garé(e)s
+vous fûtes garé(e)s
+ils (elles) furent garé(e)s
+
+** Futur simple
+
+je serai garé(e)
+tu seras garé(e)
+il (elle) sera garé(e)
+nous serons garé(e)s
+vous serez garé(e)s
+ils (elles) seront garé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais garé(e)
+tu serais garé(e)
+il (elle) serait garé(e)
+nous serions garé(e)s
+vous seriez garé(e)s
+ils (elles) seraient garé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois garé(e)
+que tu sois garé(e)
+qu’il (elle) soit garé(e)
+que nous soyons garé(e)s
+que vous soyez garé(e)s
+qu’ils (elles) soient garé(e)s
+
+** Imparfait
+
+que je fusse garé(e)
+que tu fusses garé(e)
+qu’il (elle) fût garé(e)
+que nous fussions garé(e)s
+que vous fussiez garé(e)s
+qu’ils (elles) fussent garé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons garé(e)s
+soyez garé(e)s
+
+* INFINITIF
+
+** Présent
+
+être garé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant garé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été garé(e)
+tu as été garé(e)
+il (elle) a été garé(e)
+nous avons été garé(e)s
+vous avez été garé(e)s
+ils (elles) ont été garé(e)s
+
+** Plus-que-parfait
+
+j'avais été garé(e)
+il (elle) avait été garé(e)
+nous avions été garé(e)s
+ils (elles) avaient été garé(e)s
+
+** Passé antérieur
+
+j'eus été garé(e)
+tu eus été garé(e)
+il (elle) eut été garé(e)
+nous eûmes été garé(e)s
+vous eûtes été garé(e)s
+ils (elles) eurent été garé(e)s
+
+** Futur antérieur
+
+j'aurai été garé(e)
+tu auras été garé(e)
+il (elle) aura été garé(e)
+nous aurons été garé(e)s
+vous aurez été garé(e)s
+ils (elles) auront été garé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été garé(e)
+j'aurais été garé(e)
+il (elle) aurait été garé(e)
+nous aurions été garé(e)s
+vous auriez été garé(e)s
+ils (elles) auraient été garé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été garé(e)
+que tu aies été garé(e)
+qu’il (elle) ait été garé(e)
+que nous ayons été garé(e)s
+que vous ayez été garé(e)s
+qu’ils (elles) aient été garé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été garé(e)
+que tu eusses été garé(e)
+qu’il (elle) eût été garé(e)
+que nous eussions été garé(e)s
+que vous eussiez été garé(e)s
+qu’ils (elles) eussent été garé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été garé(e)
+ayons été garé(e)s
+ayez été garé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été garé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été garé(e)(s)

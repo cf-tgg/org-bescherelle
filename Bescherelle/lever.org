@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe lever
+
+* INDICATIF
+
+** Présent
+
+je lève
+tu lèves
+il (elle) lève
+nous levons
+vous levez
+ils (elles) lèvent
+
+** Imparfait
+
+je levais
+tu levais
+il (elle) levait
+nous levions
+vous leviez
+ils (elles) levaient
+
+** Passé simple
+
+je levai
+tu levas
+il (elle) leva
+nous levâmes
+vous levâtes
+ils (elles) levèrent
+
+** Futur simple
+
+je lèverai
+tu lèveras
+il (elle) lèvera
+nous lèverons
+vous lèverez
+ils (elles) lèveront
+
+* CONDITIONNEL
+
+** Présent
+
+je lèverais
+tu lèverais
+il (elle) lèverait
+nous lèverions
+vous lèveriez
+ils (elles) lèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je lève
+que tu lèves
+qu’il (elle) lève
+que nous levions
+que vous leviez
+qu’ils (elles) lèvent
+
+** Imparfait
+
+que je levasse
+que tu levasses
+qu’il (elle) levât
+que nous levassions
+que vous levassiez
+qu’ils (elles) levassent
+
+* IMPÉRATIF
+
+** Présent
+
+lève
+levons
+levez
+
+* INFINITIF
+
+** Présent
+
+lever
+
+* PARTICIPE
+
+** Présent
+
+levant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai levé
+tu as levé
+il (elle) a levé
+nous avons levé
+vous avez levé
+ils (elles) ont levé
+
+** Plus-que-parfait
+
+j'avais levé
+tu avais levé
+il (elle) avait levé
+nous avions levé
+vous aviez levé
+ils (elles) avaient levé
+
+** Passé antérieur
+
+j'eus levé
+tu eus levé
+il (elle) eut levé
+nous eûmes levé
+vous eûtes levé
+ils (elles) eurent levé
+
+** Futur antérieur
+
+j'aurai levé
+tu auras levé
+il (elle) aura levé
+nous aurons levé
+vous aurez levé
+ils (elles) auront levé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais levé
+tu aurais levé
+il (elle) aurait levé
+nous aurions levé
+vous auriez levé
+ils (elles) auraient levé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie levé
+que tu aies levé
+qu’il (elle) ait levé
+que nous ayons levé
+que vous ayez levé
+qu’ils (elles) aient levé
+
+** Plus-que-parfait
+
+que j'eusse levé
+que tu eusses levé
+qu’il (elle) eût levé
+que nous eussions levé
+que vous eussiez levé
+qu’ils (elles) eussent levé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons levé
+ayez levé
+
+* INFINITIF
+
+** Passé
+
+avoir levé
+
+* PARTICIPE
+
+** Passé
+
+ayant levé
+levé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis levé(e)
+tu es levé(e)
+il (elle) est levé(e)
+nous sommes levé(e)s
+vous êtes levé(e)s
+ils (elles) sont levé(e)s
+
+** Imparfait
+
+j'étais levé(e)
+tu étais levé(e)
+il (elle) était levé(e)
+nous étions levé(e)s
+vous étiez levé(e)s
+ils (elles) étaient levé(e)s
+
+** Passé simple
+
+je fus levé(e)
+tu fus levé(e)
+il (elle) fut levé(e)
+nous fûmes levé(e)s
+vous fûtes levé(e)s
+ils (elles) furent levé(e)s
+
+** Futur simple
+
+je serai levé(e)
+tu seras levé(e)
+il (elle) sera levé(e)
+nous serons levé(e)s
+vous serez levé(e)s
+ils (elles) seront levé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais levé(e)
+tu serais levé(e)
+il (elle) serait levé(e)
+nous serions levé(e)s
+vous seriez levé(e)s
+ils (elles) seraient levé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois levé(e)
+que tu sois levé(e)
+qu’il (elle) soit levé(e)
+que nous soyons levé(e)s
+que vous soyez levé(e)s
+qu’ils (elles) soient levé(e)s
+
+** Imparfait
+
+que je fusse levé(e)
+que tu fusses levé(e)
+qu’il (elle) fût levé(e)
+que nous fussions levé(e)s
+que vous fussiez levé(e)s
+qu’ils (elles) fussent levé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons levé(e)s
+soyez levé(e)s
+
+* INFINITIF
+
+** Présent
+
+être levé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant levé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été levé(e)
+tu as été levé(e)
+il (elle) a été levé(e)
+nous avons été levé(e)s
+vous avez été levé(e)s
+ils (elles) ont été levé(e)s
+
+** Plus-que-parfait
+
+j'avais été levé(e)
+il (elle) avait été levé(e)
+nous avions été levé(e)s
+ils (elles) avaient été levé(e)s
+
+** Passé antérieur
+
+j'eus été levé(e)
+tu eus été levé(e)
+il (elle) eut été levé(e)
+nous eûmes été levé(e)s
+vous eûtes été levé(e)s
+ils (elles) eurent été levé(e)s
+
+** Futur antérieur
+
+j'aurai été levé(e)
+tu auras été levé(e)
+il (elle) aura été levé(e)
+nous aurons été levé(e)s
+vous aurez été levé(e)s
+ils (elles) auront été levé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été levé(e)
+j'aurais été levé(e)
+il (elle) aurait été levé(e)
+nous aurions été levé(e)s
+vous auriez été levé(e)s
+ils (elles) auraient été levé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été levé(e)
+que tu aies été levé(e)
+qu’il (elle) ait été levé(e)
+que nous ayons été levé(e)s
+que vous ayez été levé(e)s
+qu’ils (elles) aient été levé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été levé(e)
+que tu eusses été levé(e)
+qu’il (elle) eût été levé(e)
+que nous eussions été levé(e)s
+que vous eussiez été levé(e)s
+qu’ils (elles) eussent été levé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été levé(e)
+ayons été levé(e)s
+ayez été levé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été levé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été levé(e)(s)

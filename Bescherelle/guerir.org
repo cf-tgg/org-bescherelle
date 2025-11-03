@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe guerir
+
+* INDICATIF
+
+** Présent
+
+je guéris
+tu guéris
+il (elle) guérit
+nous guérissons
+vous guérissez
+ils (elles) guérissent
+
+** Imparfait
+
+je guérissais
+tu guérissais
+il (elle) guérissait
+nous guérissions
+vous guérissiez
+ils (elles) guérissaient
+
+** Passé simple
+
+je guéris
+tu guéris
+il (elle) guérit
+nous guérîmes
+vous guérîtes
+ils (elles) guérirent
+
+** Futur simple
+
+je guérirai
+tu guériras
+il (elle) guérira
+nous guérirons
+vous guérirez
+ils (elles) guériront
+
+* CONDITIONNEL
+
+** Présent
+
+je guérirais
+tu guérirais
+il (elle) guérirait
+nous guéririons
+vous guéririez
+ils (elles) guériraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je guérisse
+que tu guérisses
+qu’il (elle) guérisse
+que nous guérissions
+que vous guérissiez
+qu’ils (elles) guérissent
+
+** Imparfait
+
+que je guérisse
+que tu guérisses
+qu’il (elle) guérît
+que nous guérissions
+que vous guérissiez
+qu’ils (elles) guérissent
+
+* IMPÉRATIF
+
+** Présent
+
+guéris
+guérissons
+guérissez
+
+* INFINITIF
+
+** Présent
+
+guérir
+
+* PARTICIPE
+
+** Présent
+
+guérissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai guéri
+tu as guéri
+il (elle) a guéri
+nous avons guéri
+vous avez guéri
+ils (elles) ont guéri
+
+** Plus-que-parfait
+
+j'avais guéri
+tu avais guéri
+il (elle) avait guéri
+nous avions guéri
+vous aviez guéri
+ils (elles) avaient guéri
+
+** Passé antérieur
+
+j'eus guéri
+tu eus guéri
+il (elle) eut guéri
+nous eûmes guéri
+vous eûtes guéri
+ils (elles) eurent guéri
+
+** Futur antérieur
+
+j'aurai guéri
+tu auras guéri
+il (elle) aura guéri
+nous aurons guéri
+vous aurez guéri
+ils (elles) auront guéri
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais guéri
+tu aurais guéri
+il (elle) aurait guéri
+nous aurions guéri
+vous auriez guéri
+ils (elles) auraient guéri
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie guéri
+que tu aies guéri
+qu’il (elle) ait guéri
+que nous ayons guéri
+que vous ayez guéri
+qu’ils (elles) aient guéri
+
+** Plus-que-parfait
+
+que j'eusse guéri
+que tu eusses guéri
+qu’il (elle) eût guéri
+que nous eussions guéri
+que vous eussiez guéri
+qu’ils (elles) eussent guéri
+
+* IMPÉRATIF
+
+** Passé
+
+ayons guéri
+ayez guéri
+
+* INFINITIF
+
+** Passé
+
+avoir guéri
+
+* PARTICIPE
+
+** Passé
+
+ayant guéri
+guéri (i, ie, is, ies)
+
+* INDICATIF
+
+** Présent
+
+je suis guéri(e)
+tu es guéri(e)
+il (elle) est guéri(e)
+nous sommes guéri(e)s
+vous êtes guéri(e)s
+ils (elles) sont guéri(e)s
+
+** Imparfait
+
+j'étais guéri(e)
+tu étais guéri(e)
+il (elle) était guéri(e)
+nous étions guéri(e)s
+vous étiez guéri(e)s
+ils (elles) étaient guéri(e)s
+
+** Passé simple
+
+je fus guéri(e)
+tu fus guéri(e)
+il (elle) fut guéri(e)
+nous fûmes guéri(e)s
+vous fûtes guéri(e)s
+ils (elles) furent guéri(e)s
+
+** Futur simple
+
+je serai guéri(e)
+tu seras guéri(e)
+il (elle) sera guéri(e)
+nous serons guéri(e)s
+vous serez guéri(e)s
+ils (elles) seront guéri(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais guéri(e)
+tu serais guéri(e)
+il (elle) serait guéri(e)
+nous serions guéri(e)s
+vous seriez guéri(e)s
+ils (elles) seraient guéri(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois guéri(e)
+que tu sois guéri(e)
+qu’il (elle) soit guéri(e)
+que nous soyons guéri(e)s
+que vous soyez guéri(e)s
+qu’ils (elles) soient guéri(e)s
+
+** Imparfait
+
+que je fusse guéri(e)
+que tu fusses guéri(e)
+qu’il (elle) fût guéri(e)
+que nous fussions guéri(e)s
+que vous fussiez guéri(e)s
+qu’ils (elles) fussent guéri(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons guéri(e)s
+soyez guéri(e)s
+
+* INFINITIF
+
+** Présent
+
+être guéri(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant guéri(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été guéri(e)
+tu as été guéri(e)
+il (elle) a été guéri(e)
+nous avons été guéri(e)s
+vous avez été guéri(e)s
+ils (elles) ont été guéri(e)s
+
+** Plus-que-parfait
+
+j'avais été guéri(e)
+il (elle) avait été guéri(e)
+nous avions été guéri(e)s
+ils (elles) avaient été guéri(e)s
+
+** Passé antérieur
+
+j'eus été guéri(e)
+tu eus été guéri(e)
+il (elle) eut été guéri(e)
+nous eûmes été guéri(e)s
+vous eûtes été guéri(e)s
+ils (elles) eurent été guéri(e)s
+
+** Futur antérieur
+
+j'aurai été guéri(e)
+tu auras été guéri(e)
+il (elle) aura été guéri(e)
+nous aurons été guéri(e)s
+vous aurez été guéri(e)s
+ils (elles) auront été guéri(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été guéri(e)
+j'aurais été guéri(e)
+il (elle) aurait été guéri(e)
+nous aurions été guéri(e)s
+vous auriez été guéri(e)s
+ils (elles) auraient été guéri(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été guéri(e)
+que tu aies été guéri(e)
+qu’il (elle) ait été guéri(e)
+que nous ayons été guéri(e)s
+que vous ayez été guéri(e)s
+qu’ils (elles) aient été guéri(e)s
+
+** Plus-que-parfait
+
+que j'eusse été guéri(e)
+que tu eusses été guéri(e)
+qu’il (elle) eût été guéri(e)
+que nous eussions été guéri(e)s
+que vous eussiez été guéri(e)s
+qu’ils (elles) eussent été guéri(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été guéri(e)
+ayons été guéri(e)s
+ayez été guéri(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été guéri(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été guéri(e)(s)

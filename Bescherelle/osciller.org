@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe osciller
+
+* INDICATIF
+
+** Présent
+
+j'oscille
+tu oscilles
+il (elle) oscille
+nous oscillons
+vous oscillez
+ils (elles) oscillent
+
+** Imparfait
+
+j'oscillais
+tu oscillais
+il (elle) oscillait
+nous oscillions
+vous oscilliez
+ils (elles) oscillaient
+
+** Passé simple
+
+j'oscillai
+tu oscillas
+il (elle) oscilla
+nous oscillâmes
+vous oscillâtes
+ils (elles) oscillèrent
+
+** Futur simple
+
+j'oscillerai
+tu oscilleras
+il (elle) oscillera
+nous oscillerons
+vous oscillerez
+ils (elles) oscilleront
+
+* CONDITIONNEL
+
+** Présent
+
+j'oscillerais
+tu oscillerais
+il (elle) oscillerait
+nous oscillerions
+vous oscilleriez
+ils (elles) oscilleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oscille
+que tu oscilles
+qu’il (elle) oscille
+que nous oscillions
+que vous oscilliez
+qu’ils (elles) oscillent
+
+** Imparfait
+
+que j'oscillasse
+que tu oscillasses
+qu’il (elle) oscillât
+que nous oscillassions
+que vous oscillassiez
+qu’ils (elles) oscillassent
+
+* IMPÉRATIF
+
+** Présent
+
+oscille
+oscillons
+oscillez
+
+* INFINITIF
+
+** Présent
+
+osciller
+
+* PARTICIPE
+
+** Présent
+
+oscillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai oscillé
+tu as oscillé
+il (elle) a oscillé
+nous avons oscillé
+vous avez oscillé
+ils (elles) ont oscillé
+
+** Plus-que-parfait
+
+j'avais oscillé
+tu avais oscillé
+il (elle) avait oscillé
+nous avions oscillé
+vous aviez oscillé
+ils (elles) avaient oscillé
+
+** Passé antérieur
+
+j'eus oscillé
+tu eus oscillé
+il (elle) eut oscillé
+nous eûmes oscillé
+vous eûtes oscillé
+ils (elles) eurent oscillé
+
+** Futur antérieur
+
+j'aurai oscillé
+tu auras oscillé
+il (elle) aura oscillé
+nous aurons oscillé
+vous aurez oscillé
+ils (elles) auront oscillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais oscillé
+tu aurais oscillé
+il (elle) aurait oscillé
+nous aurions oscillé
+vous auriez oscillé
+ils (elles) auraient oscillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie oscillé
+que tu aies oscillé
+qu’il (elle) ait oscillé
+que nous ayons oscillé
+que vous ayez oscillé
+qu’ils (elles) aient oscillé
+
+** Plus-que-parfait
+
+que j'eusse oscillé
+que tu eusses oscillé
+qu’il (elle) eût oscillé
+que nous eussions oscillé
+que vous eussiez oscillé
+qu’ils (elles) eussent oscillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons oscillé
+ayez oscillé
+
+* INFINITIF
+
+** Passé
+
+avoir oscillé
+
+* PARTICIPE
+
+** Passé
+
+ayant oscillé
+oscillé (invar.)

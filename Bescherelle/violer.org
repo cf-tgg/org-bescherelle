@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe violer
+
+* INDICATIF
+
+** Présent
+
+je viole
+tu violes
+il (elle) viole
+nous violons
+vous violez
+ils (elles) violent
+
+** Imparfait
+
+je violais
+tu violais
+il (elle) violait
+nous violions
+vous violiez
+ils (elles) violaient
+
+** Passé simple
+
+je violai
+tu violas
+il (elle) viola
+nous violâmes
+vous violâtes
+ils (elles) violèrent
+
+** Futur simple
+
+je violerai
+tu violeras
+il (elle) violera
+nous violerons
+vous violerez
+ils (elles) violeront
+
+* CONDITIONNEL
+
+** Présent
+
+je violerais
+tu violerais
+il (elle) violerait
+nous violerions
+vous violeriez
+ils (elles) violeraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je viole
+que tu violes
+qu’il (elle) viole
+que nous violions
+que vous violiez
+qu’ils (elles) violent
+
+** Imparfait
+
+que je violasse
+que tu violasses
+qu’il (elle) violât
+que nous violassions
+que vous violassiez
+qu’ils (elles) violassent
+
+* IMPÉRATIF
+
+** Présent
+
+viole
+violons
+violez
+
+* INFINITIF
+
+** Présent
+
+violer
+
+* PARTICIPE
+
+** Présent
+
+violant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai violé
+tu as violé
+il (elle) a violé
+nous avons violé
+vous avez violé
+ils (elles) ont violé
+
+** Plus-que-parfait
+
+j'avais violé
+tu avais violé
+il (elle) avait violé
+nous avions violé
+vous aviez violé
+ils (elles) avaient violé
+
+** Passé antérieur
+
+j'eus violé
+tu eus violé
+il (elle) eut violé
+nous eûmes violé
+vous eûtes violé
+ils (elles) eurent violé
+
+** Futur antérieur
+
+j'aurai violé
+tu auras violé
+il (elle) aura violé
+nous aurons violé
+vous aurez violé
+ils (elles) auront violé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais violé
+tu aurais violé
+il (elle) aurait violé
+nous aurions violé
+vous auriez violé
+ils (elles) auraient violé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie violé
+que tu aies violé
+qu’il (elle) ait violé
+que nous ayons violé
+que vous ayez violé
+qu’ils (elles) aient violé
+
+** Plus-que-parfait
+
+que j'eusse violé
+que tu eusses violé
+qu’il (elle) eût violé
+que nous eussions violé
+que vous eussiez violé
+qu’ils (elles) eussent violé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons violé
+ayez violé
+
+* INFINITIF
+
+** Passé
+
+avoir violé
+
+* PARTICIPE
+
+** Passé
+
+ayant violé
+violé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis violé(e)
+tu es violé(e)
+il (elle) est violé(e)
+nous sommes violé(e)s
+vous êtes violé(e)s
+ils (elles) sont violé(e)s
+
+** Imparfait
+
+j'étais violé(e)
+tu étais violé(e)
+il (elle) était violé(e)
+nous étions violé(e)s
+vous étiez violé(e)s
+ils (elles) étaient violé(e)s
+
+** Passé simple
+
+je fus violé(e)
+tu fus violé(e)
+il (elle) fut violé(e)
+nous fûmes violé(e)s
+vous fûtes violé(e)s
+ils (elles) furent violé(e)s
+
+** Futur simple
+
+je serai violé(e)
+tu seras violé(e)
+il (elle) sera violé(e)
+nous serons violé(e)s
+vous serez violé(e)s
+ils (elles) seront violé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais violé(e)
+tu serais violé(e)
+il (elle) serait violé(e)
+nous serions violé(e)s
+vous seriez violé(e)s
+ils (elles) seraient violé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois violé(e)
+que tu sois violé(e)
+qu’il (elle) soit violé(e)
+que nous soyons violé(e)s
+que vous soyez violé(e)s
+qu’ils (elles) soient violé(e)s
+
+** Imparfait
+
+que je fusse violé(e)
+que tu fusses violé(e)
+qu’il (elle) fût violé(e)
+que nous fussions violé(e)s
+que vous fussiez violé(e)s
+qu’ils (elles) fussent violé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons violé(e)s
+soyez violé(e)s
+
+* INFINITIF
+
+** Présent
+
+être violé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant violé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été violé(e)
+tu as été violé(e)
+il (elle) a été violé(e)
+nous avons été violé(e)s
+vous avez été violé(e)s
+ils (elles) ont été violé(e)s
+
+** Plus-que-parfait
+
+j'avais été violé(e)
+il (elle) avait été violé(e)
+nous avions été violé(e)s
+ils (elles) avaient été violé(e)s
+
+** Passé antérieur
+
+j'eus été violé(e)
+tu eus été violé(e)
+il (elle) eut été violé(e)
+nous eûmes été violé(e)s
+vous eûtes été violé(e)s
+ils (elles) eurent été violé(e)s
+
+** Futur antérieur
+
+j'aurai été violé(e)
+tu auras été violé(e)
+il (elle) aura été violé(e)
+nous aurons été violé(e)s
+vous aurez été violé(e)s
+ils (elles) auront été violé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été violé(e)
+j'aurais été violé(e)
+il (elle) aurait été violé(e)
+nous aurions été violé(e)s
+vous auriez été violé(e)s
+ils (elles) auraient été violé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été violé(e)
+que tu aies été violé(e)
+qu’il (elle) ait été violé(e)
+que nous ayons été violé(e)s
+que vous ayez été violé(e)s
+qu’ils (elles) aient été violé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été violé(e)
+que tu eusses été violé(e)
+qu’il (elle) eût été violé(e)
+que nous eussions été violé(e)s
+que vous eussiez été violé(e)s
+qu’ils (elles) eussent été violé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été violé(e)
+ayons été violé(e)s
+ayez été violé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été violé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été violé(e)(s)

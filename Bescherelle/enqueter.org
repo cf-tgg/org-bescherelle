@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe enqueter
+
+* INDICATIF
+
+** Présent
+
+j'enquête
+tu enquêtes
+il (elle) enquête
+nous enquêtons
+vous enquêtez
+ils (elles) enquêtent
+
+** Imparfait
+
+j'enquêtais
+tu enquêtais
+il (elle) enquêtait
+nous enquêtions
+vous enquêtiez
+ils (elles) enquêtaient
+
+** Passé simple
+
+j'enquêtai
+tu enquêtas
+il (elle) enquêta
+nous enquêtâmes
+vous enquêtâtes
+ils (elles) enquêtèrent
+
+** Futur simple
+
+j'enquêterai
+tu enquêteras
+il (elle) enquêtera
+nous enquêterons
+vous enquêterez
+ils (elles) enquêteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enquêterais
+tu enquêterais
+il (elle) enquêterait
+nous enquêterions
+vous enquêteriez
+ils (elles) enquêteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enquête
+que tu enquêtes
+qu’il (elle) enquête
+que nous enquêtions
+que vous enquêtiez
+qu’ils (elles) enquêtent
+
+** Imparfait
+
+que j'enquêtasse
+que tu enquêtasses
+qu’il (elle) enquêtât
+que nous enquêtassions
+que vous enquêtassiez
+qu’ils (elles) enquêtassent
+
+* IMPÉRATIF
+
+** Présent
+
+enquête
+enquêtons
+enquêtez
+
+* INFINITIF
+
+** Présent
+
+enquêter
+
+* PARTICIPE
+
+** Présent
+
+enquêtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enquêté
+tu as enquêté
+il (elle) a enquêté
+nous avons enquêté
+vous avez enquêté
+ils (elles) ont enquêté
+
+** Plus-que-parfait
+
+j'avais enquêté
+tu avais enquêté
+il (elle) avait enquêté
+nous avions enquêté
+vous aviez enquêté
+ils (elles) avaient enquêté
+
+** Passé antérieur
+
+j'eus enquêté
+tu eus enquêté
+il (elle) eut enquêté
+nous eûmes enquêté
+vous eûtes enquêté
+ils (elles) eurent enquêté
+
+** Futur antérieur
+
+j'aurai enquêté
+tu auras enquêté
+il (elle) aura enquêté
+nous aurons enquêté
+vous aurez enquêté
+ils (elles) auront enquêté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enquêté
+tu aurais enquêté
+il (elle) aurait enquêté
+nous aurions enquêté
+vous auriez enquêté
+ils (elles) auraient enquêté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enquêté
+que tu aies enquêté
+qu’il (elle) ait enquêté
+que nous ayons enquêté
+que vous ayez enquêté
+qu’ils (elles) aient enquêté
+
+** Plus-que-parfait
+
+que j'eusse enquêté
+que tu eusses enquêté
+qu’il (elle) eût enquêté
+que nous eussions enquêté
+que vous eussiez enquêté
+qu’ils (elles) eussent enquêté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enquêté
+ayez enquêté
+
+* INFINITIF
+
+** Passé
+
+avoir enquêté
+
+* PARTICIPE
+
+** Passé
+
+ayant enquêté
+enquêté (invar.)

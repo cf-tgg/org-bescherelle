@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe persuader
+
+* INDICATIF
+
+** Présent
+
+je persuade
+tu persuades
+il (elle) persuade
+nous persuadons
+vous persuadez
+ils (elles) persuadent
+
+** Imparfait
+
+je persuadais
+tu persuadais
+il (elle) persuadait
+nous persuadions
+vous persuadiez
+ils (elles) persuadaient
+
+** Passé simple
+
+je persuadai
+tu persuadas
+il (elle) persuada
+nous persuadâmes
+vous persuadâtes
+ils (elles) persuadèrent
+
+** Futur simple
+
+je persuaderai
+tu persuaderas
+il (elle) persuadera
+nous persuaderons
+vous persuaderez
+ils (elles) persuaderont
+
+* CONDITIONNEL
+
+** Présent
+
+je persuaderais
+tu persuaderais
+il (elle) persuaderait
+nous persuaderions
+vous persuaderiez
+ils (elles) persuaderaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je persuade
+que tu persuades
+qu’il (elle) persuade
+que nous persuadions
+que vous persuadiez
+qu’ils (elles) persuadent
+
+** Imparfait
+
+que je persuadasse
+que tu persuadasses
+qu’il (elle) persuadât
+que nous persuadassions
+que vous persuadassiez
+qu’ils (elles) persuadassent
+
+* IMPÉRATIF
+
+** Présent
+
+persuade
+persuadons
+persuadez
+
+* INFINITIF
+
+** Présent
+
+persuader
+
+* PARTICIPE
+
+** Présent
+
+persuadant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai persuadé
+tu as persuadé
+il (elle) a persuadé
+nous avons persuadé
+vous avez persuadé
+ils (elles) ont persuadé
+
+** Plus-que-parfait
+
+j'avais persuadé
+tu avais persuadé
+il (elle) avait persuadé
+nous avions persuadé
+vous aviez persuadé
+ils (elles) avaient persuadé
+
+** Passé antérieur
+
+j'eus persuadé
+tu eus persuadé
+il (elle) eut persuadé
+nous eûmes persuadé
+vous eûtes persuadé
+ils (elles) eurent persuadé
+
+** Futur antérieur
+
+j'aurai persuadé
+tu auras persuadé
+il (elle) aura persuadé
+nous aurons persuadé
+vous aurez persuadé
+ils (elles) auront persuadé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais persuadé
+tu aurais persuadé
+il (elle) aurait persuadé
+nous aurions persuadé
+vous auriez persuadé
+ils (elles) auraient persuadé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie persuadé
+que tu aies persuadé
+qu’il (elle) ait persuadé
+que nous ayons persuadé
+que vous ayez persuadé
+qu’ils (elles) aient persuadé
+
+** Plus-que-parfait
+
+que j'eusse persuadé
+que tu eusses persuadé
+qu’il (elle) eût persuadé
+que nous eussions persuadé
+que vous eussiez persuadé
+qu’ils (elles) eussent persuadé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons persuadé
+ayez persuadé
+
+* INFINITIF
+
+** Passé
+
+avoir persuadé
+
+* PARTICIPE
+
+** Passé
+
+ayant persuadé
+persuadé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis persuadé(e)
+tu es persuadé(e)
+il (elle) est persuadé(e)
+nous sommes persuadé(e)s
+vous êtes persuadé(e)s
+ils (elles) sont persuadé(e)s
+
+** Imparfait
+
+j'étais persuadé(e)
+tu étais persuadé(e)
+il (elle) était persuadé(e)
+nous étions persuadé(e)s
+vous étiez persuadé(e)s
+ils (elles) étaient persuadé(e)s
+
+** Passé simple
+
+je fus persuadé(e)
+tu fus persuadé(e)
+il (elle) fut persuadé(e)
+nous fûmes persuadé(e)s
+vous fûtes persuadé(e)s
+ils (elles) furent persuadé(e)s
+
+** Futur simple
+
+je serai persuadé(e)
+tu seras persuadé(e)
+il (elle) sera persuadé(e)
+nous serons persuadé(e)s
+vous serez persuadé(e)s
+ils (elles) seront persuadé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais persuadé(e)
+tu serais persuadé(e)
+il (elle) serait persuadé(e)
+nous serions persuadé(e)s
+vous seriez persuadé(e)s
+ils (elles) seraient persuadé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois persuadé(e)
+que tu sois persuadé(e)
+qu’il (elle) soit persuadé(e)
+que nous soyons persuadé(e)s
+que vous soyez persuadé(e)s
+qu’ils (elles) soient persuadé(e)s
+
+** Imparfait
+
+que je fusse persuadé(e)
+que tu fusses persuadé(e)
+qu’il (elle) fût persuadé(e)
+que nous fussions persuadé(e)s
+que vous fussiez persuadé(e)s
+qu’ils (elles) fussent persuadé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons persuadé(e)s
+soyez persuadé(e)s
+
+* INFINITIF
+
+** Présent
+
+être persuadé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant persuadé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été persuadé(e)
+tu as été persuadé(e)
+il (elle) a été persuadé(e)
+nous avons été persuadé(e)s
+vous avez été persuadé(e)s
+ils (elles) ont été persuadé(e)s
+
+** Plus-que-parfait
+
+j'avais été persuadé(e)
+il (elle) avait été persuadé(e)
+nous avions été persuadé(e)s
+ils (elles) avaient été persuadé(e)s
+
+** Passé antérieur
+
+j'eus été persuadé(e)
+tu eus été persuadé(e)
+il (elle) eut été persuadé(e)
+nous eûmes été persuadé(e)s
+vous eûtes été persuadé(e)s
+ils (elles) eurent été persuadé(e)s
+
+** Futur antérieur
+
+j'aurai été persuadé(e)
+tu auras été persuadé(e)
+il (elle) aura été persuadé(e)
+nous aurons été persuadé(e)s
+vous aurez été persuadé(e)s
+ils (elles) auront été persuadé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été persuadé(e)
+j'aurais été persuadé(e)
+il (elle) aurait été persuadé(e)
+nous aurions été persuadé(e)s
+vous auriez été persuadé(e)s
+ils (elles) auraient été persuadé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été persuadé(e)
+que tu aies été persuadé(e)
+qu’il (elle) ait été persuadé(e)
+que nous ayons été persuadé(e)s
+que vous ayez été persuadé(e)s
+qu’ils (elles) aient été persuadé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été persuadé(e)
+que tu eusses été persuadé(e)
+qu’il (elle) eût été persuadé(e)
+que nous eussions été persuadé(e)s
+que vous eussiez été persuadé(e)s
+qu’ils (elles) eussent été persuadé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été persuadé(e)
+ayons été persuadé(e)s
+ayez été persuadé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été persuadé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été persuadé(e)(s)

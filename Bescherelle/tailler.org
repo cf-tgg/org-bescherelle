@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe tailler
+
+* INDICATIF
+
+** Présent
+
+je taille
+tu tailles
+il (elle) taille
+nous taillons
+vous taillez
+ils (elles) taillent
+
+** Imparfait
+
+je taillais
+tu taillais
+il (elle) taillait
+nous taillions
+vous tailliez
+ils (elles) taillaient
+
+** Passé simple
+
+je taillai
+tu taillas
+il (elle) tailla
+nous taillâmes
+vous taillâtes
+ils (elles) taillèrent
+
+** Futur simple
+
+je taillerai
+tu tailleras
+il (elle) taillera
+nous taillerons
+vous taillerez
+ils (elles) tailleront
+
+* CONDITIONNEL
+
+** Présent
+
+je taillerais
+tu taillerais
+il (elle) taillerait
+nous taillerions
+vous tailleriez
+ils (elles) tailleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je taille
+que tu tailles
+qu’il (elle) taille
+que nous taillions
+que vous tailliez
+qu’ils (elles) taillent
+
+** Imparfait
+
+que je taillasse
+que tu taillasses
+qu’il (elle) taillât
+que nous taillassions
+que vous taillassiez
+qu’ils (elles) taillassent
+
+* IMPÉRATIF
+
+** Présent
+
+taille
+taillons
+taillez
+
+* INFINITIF
+
+** Présent
+
+tailler
+
+* PARTICIPE
+
+** Présent
+
+taillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai taillé
+tu as taillé
+il (elle) a taillé
+nous avons taillé
+vous avez taillé
+ils (elles) ont taillé
+
+** Plus-que-parfait
+
+j'avais taillé
+tu avais taillé
+il (elle) avait taillé
+nous avions taillé
+vous aviez taillé
+ils (elles) avaient taillé
+
+** Passé antérieur
+
+j'eus taillé
+tu eus taillé
+il (elle) eut taillé
+nous eûmes taillé
+vous eûtes taillé
+ils (elles) eurent taillé
+
+** Futur antérieur
+
+j'aurai taillé
+tu auras taillé
+il (elle) aura taillé
+nous aurons taillé
+vous aurez taillé
+ils (elles) auront taillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais taillé
+tu aurais taillé
+il (elle) aurait taillé
+nous aurions taillé
+vous auriez taillé
+ils (elles) auraient taillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie taillé
+que tu aies taillé
+qu’il (elle) ait taillé
+que nous ayons taillé
+que vous ayez taillé
+qu’ils (elles) aient taillé
+
+** Plus-que-parfait
+
+que j'eusse taillé
+que tu eusses taillé
+qu’il (elle) eût taillé
+que nous eussions taillé
+que vous eussiez taillé
+qu’ils (elles) eussent taillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons taillé
+ayez taillé
+
+* INFINITIF
+
+** Passé
+
+avoir taillé
+
+* PARTICIPE
+
+** Passé
+
+ayant taillé
+taillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis taillé(e)
+tu es taillé(e)
+il (elle) est taillé(e)
+nous sommes taillé(e)s
+vous êtes taillé(e)s
+ils (elles) sont taillé(e)s
+
+** Imparfait
+
+j'étais taillé(e)
+tu étais taillé(e)
+il (elle) était taillé(e)
+nous étions taillé(e)s
+vous étiez taillé(e)s
+ils (elles) étaient taillé(e)s
+
+** Passé simple
+
+je fus taillé(e)
+tu fus taillé(e)
+il (elle) fut taillé(e)
+nous fûmes taillé(e)s
+vous fûtes taillé(e)s
+ils (elles) furent taillé(e)s
+
+** Futur simple
+
+je serai taillé(e)
+tu seras taillé(e)
+il (elle) sera taillé(e)
+nous serons taillé(e)s
+vous serez taillé(e)s
+ils (elles) seront taillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais taillé(e)
+tu serais taillé(e)
+il (elle) serait taillé(e)
+nous serions taillé(e)s
+vous seriez taillé(e)s
+ils (elles) seraient taillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois taillé(e)
+que tu sois taillé(e)
+qu’il (elle) soit taillé(e)
+que nous soyons taillé(e)s
+que vous soyez taillé(e)s
+qu’ils (elles) soient taillé(e)s
+
+** Imparfait
+
+que je fusse taillé(e)
+que tu fusses taillé(e)
+qu’il (elle) fût taillé(e)
+que nous fussions taillé(e)s
+que vous fussiez taillé(e)s
+qu’ils (elles) fussent taillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons taillé(e)s
+soyez taillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être taillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant taillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été taillé(e)
+tu as été taillé(e)
+il (elle) a été taillé(e)
+nous avons été taillé(e)s
+vous avez été taillé(e)s
+ils (elles) ont été taillé(e)s
+
+** Plus-que-parfait
+
+j'avais été taillé(e)
+il (elle) avait été taillé(e)
+nous avions été taillé(e)s
+ils (elles) avaient été taillé(e)s
+
+** Passé antérieur
+
+j'eus été taillé(e)
+tu eus été taillé(e)
+il (elle) eut été taillé(e)
+nous eûmes été taillé(e)s
+vous eûtes été taillé(e)s
+ils (elles) eurent été taillé(e)s
+
+** Futur antérieur
+
+j'aurai été taillé(e)
+tu auras été taillé(e)
+il (elle) aura été taillé(e)
+nous aurons été taillé(e)s
+vous aurez été taillé(e)s
+ils (elles) auront été taillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été taillé(e)
+j'aurais été taillé(e)
+il (elle) aurait été taillé(e)
+nous aurions été taillé(e)s
+vous auriez été taillé(e)s
+ils (elles) auraient été taillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été taillé(e)
+que tu aies été taillé(e)
+qu’il (elle) ait été taillé(e)
+que nous ayons été taillé(e)s
+que vous ayez été taillé(e)s
+qu’ils (elles) aient été taillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été taillé(e)
+que tu eusses été taillé(e)
+qu’il (elle) eût été taillé(e)
+que nous eussions été taillé(e)s
+que vous eussiez été taillé(e)s
+qu’ils (elles) eussent été taillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été taillé(e)
+ayons été taillé(e)s
+ayez été taillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été taillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été taillé(e)(s)

@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe regrouper
+
+* INDICATIF
+
+** Présent
+
+je regroupe
+tu regroupes
+il (elle) regroupe
+nous regroupons
+vous regroupez
+ils (elles) regroupent
+
+** Imparfait
+
+je regroupais
+tu regroupais
+il (elle) regroupait
+nous regroupions
+vous regroupiez
+ils (elles) regroupaient
+
+** Passé simple
+
+je regroupai
+tu regroupas
+il (elle) regroupa
+nous regroupâmes
+vous regroupâtes
+ils (elles) regroupèrent
+
+** Futur simple
+
+je regrouperai
+tu regrouperas
+il (elle) regroupera
+nous regrouperons
+vous regrouperez
+ils (elles) regrouperont
+
+* CONDITIONNEL
+
+** Présent
+
+je regrouperais
+tu regrouperais
+il (elle) regrouperait
+nous regrouperions
+vous regrouperiez
+ils (elles) regrouperaient
+
+* SUBJONCTIF
+
+** Présent
+
+que je regroupe
+que tu regroupes
+qu’il (elle) regroupe
+que nous regroupions
+que vous regroupiez
+qu’ils (elles) regroupent
+
+** Imparfait
+
+que je regroupasse
+que tu regroupasses
+qu’il (elle) regroupât
+que nous regroupassions
+que vous regroupassiez
+qu’ils (elles) regroupassent
+
+* IMPÉRATIF
+
+** Présent
+
+regroupe
+regroupons
+regroupez
+
+* INFINITIF
+
+** Présent
+
+regrouper
+
+* PARTICIPE
+
+** Présent
+
+regroupant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai regroupé
+tu as regroupé
+il (elle) a regroupé
+nous avons regroupé
+vous avez regroupé
+ils (elles) ont regroupé
+
+** Plus-que-parfait
+
+j'avais regroupé
+tu avais regroupé
+il (elle) avait regroupé
+nous avions regroupé
+vous aviez regroupé
+ils (elles) avaient regroupé
+
+** Passé antérieur
+
+j'eus regroupé
+tu eus regroupé
+il (elle) eut regroupé
+nous eûmes regroupé
+vous eûtes regroupé
+ils (elles) eurent regroupé
+
+** Futur antérieur
+
+j'aurai regroupé
+tu auras regroupé
+il (elle) aura regroupé
+nous aurons regroupé
+vous aurez regroupé
+ils (elles) auront regroupé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais regroupé
+tu aurais regroupé
+il (elle) aurait regroupé
+nous aurions regroupé
+vous auriez regroupé
+ils (elles) auraient regroupé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie regroupé
+que tu aies regroupé
+qu’il (elle) ait regroupé
+que nous ayons regroupé
+que vous ayez regroupé
+qu’ils (elles) aient regroupé
+
+** Plus-que-parfait
+
+que j'eusse regroupé
+que tu eusses regroupé
+qu’il (elle) eût regroupé
+que nous eussions regroupé
+que vous eussiez regroupé
+qu’ils (elles) eussent regroupé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons regroupé
+ayez regroupé
+
+* INFINITIF
+
+** Passé
+
+avoir regroupé
+
+* PARTICIPE
+
+** Passé
+
+ayant regroupé
+regroupé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis regroupé(e)
+tu es regroupé(e)
+il (elle) est regroupé(e)
+nous sommes regroupé(e)s
+vous êtes regroupé(e)s
+ils (elles) sont regroupé(e)s
+
+** Imparfait
+
+j'étais regroupé(e)
+tu étais regroupé(e)
+il (elle) était regroupé(e)
+nous étions regroupé(e)s
+vous étiez regroupé(e)s
+ils (elles) étaient regroupé(e)s
+
+** Passé simple
+
+je fus regroupé(e)
+tu fus regroupé(e)
+il (elle) fut regroupé(e)
+nous fûmes regroupé(e)s
+vous fûtes regroupé(e)s
+ils (elles) furent regroupé(e)s
+
+** Futur simple
+
+je serai regroupé(e)
+tu seras regroupé(e)
+il (elle) sera regroupé(e)
+nous serons regroupé(e)s
+vous serez regroupé(e)s
+ils (elles) seront regroupé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais regroupé(e)
+tu serais regroupé(e)
+il (elle) serait regroupé(e)
+nous serions regroupé(e)s
+vous seriez regroupé(e)s
+ils (elles) seraient regroupé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois regroupé(e)
+que tu sois regroupé(e)
+qu’il (elle) soit regroupé(e)
+que nous soyons regroupé(e)s
+que vous soyez regroupé(e)s
+qu’ils (elles) soient regroupé(e)s
+
+** Imparfait
+
+que je fusse regroupé(e)
+que tu fusses regroupé(e)
+qu’il (elle) fût regroupé(e)
+que nous fussions regroupé(e)s
+que vous fussiez regroupé(e)s
+qu’ils (elles) fussent regroupé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons regroupé(e)s
+soyez regroupé(e)s
+
+* INFINITIF
+
+** Présent
+
+être regroupé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant regroupé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été regroupé(e)
+tu as été regroupé(e)
+il (elle) a été regroupé(e)
+nous avons été regroupé(e)s
+vous avez été regroupé(e)s
+ils (elles) ont été regroupé(e)s
+
+** Plus-que-parfait
+
+j'avais été regroupé(e)
+il (elle) avait été regroupé(e)
+nous avions été regroupé(e)s
+ils (elles) avaient été regroupé(e)s
+
+** Passé antérieur
+
+j'eus été regroupé(e)
+tu eus été regroupé(e)
+il (elle) eut été regroupé(e)
+nous eûmes été regroupé(e)s
+vous eûtes été regroupé(e)s
+ils (elles) eurent été regroupé(e)s
+
+** Futur antérieur
+
+j'aurai été regroupé(e)
+tu auras été regroupé(e)
+il (elle) aura été regroupé(e)
+nous aurons été regroupé(e)s
+vous aurez été regroupé(e)s
+ils (elles) auront été regroupé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été regroupé(e)
+j'aurais été regroupé(e)
+il (elle) aurait été regroupé(e)
+nous aurions été regroupé(e)s
+vous auriez été regroupé(e)s
+ils (elles) auraient été regroupé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été regroupé(e)
+que tu aies été regroupé(e)
+qu’il (elle) ait été regroupé(e)
+que nous ayons été regroupé(e)s
+que vous ayez été regroupé(e)s
+qu’ils (elles) aient été regroupé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été regroupé(e)
+que tu eusses été regroupé(e)
+qu’il (elle) eût été regroupé(e)
+que nous eussions été regroupé(e)s
+que vous eussiez été regroupé(e)s
+qu’ils (elles) eussent été regroupé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été regroupé(e)
+ayons été regroupé(e)s
+ayez été regroupé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été regroupé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été regroupé(e)(s)

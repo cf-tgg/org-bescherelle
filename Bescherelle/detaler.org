@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe detaler
+
+* INDICATIF
+
+** Présent
+
+je détale
+tu détales
+il (elle) détale
+nous détalons
+vous détalez
+ils (elles) détalent
+
+** Imparfait
+
+je détalais
+tu détalais
+il (elle) détalait
+nous détalions
+vous détaliez
+ils (elles) détalaient
+
+** Passé simple
+
+je détalai
+tu détalas
+il (elle) détala
+nous détalâmes
+vous détalâtes
+ils (elles) détalèrent
+
+** Futur simple
+
+je détalerai
+tu détaleras
+il (elle) détalera
+nous détalerons
+vous détalerez
+ils (elles) détaleront
+
+* CONDITIONNEL
+
+** Présent
+
+je détalerais
+tu détalerais
+il (elle) détalerait
+nous détalerions
+vous détaleriez
+ils (elles) détaleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je détale
+que tu détales
+qu’il (elle) détale
+que nous détalions
+que vous détaliez
+qu’ils (elles) détalent
+
+** Imparfait
+
+que je détalasse
+que tu détalasses
+qu’il (elle) détalât
+que nous détalassions
+que vous détalassiez
+qu’ils (elles) détalassent
+
+* IMPÉRATIF
+
+** Présent
+
+détale
+détalons
+détalez
+
+* INFINITIF
+
+** Présent
+
+détaler
+
+* PARTICIPE
+
+** Présent
+
+détalant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai détalé
+tu as détalé
+il (elle) a détalé
+nous avons détalé
+vous avez détalé
+ils (elles) ont détalé
+
+** Plus-que-parfait
+
+j'avais détalé
+tu avais détalé
+il (elle) avait détalé
+nous avions détalé
+vous aviez détalé
+ils (elles) avaient détalé
+
+** Passé antérieur
+
+j'eus détalé
+tu eus détalé
+il (elle) eut détalé
+nous eûmes détalé
+vous eûtes détalé
+ils (elles) eurent détalé
+
+** Futur antérieur
+
+j'aurai détalé
+tu auras détalé
+il (elle) aura détalé
+nous aurons détalé
+vous aurez détalé
+ils (elles) auront détalé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais détalé
+tu aurais détalé
+il (elle) aurait détalé
+nous aurions détalé
+vous auriez détalé
+ils (elles) auraient détalé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie détalé
+que tu aies détalé
+qu’il (elle) ait détalé
+que nous ayons détalé
+que vous ayez détalé
+qu’ils (elles) aient détalé
+
+** Plus-que-parfait
+
+que j'eusse détalé
+que tu eusses détalé
+qu’il (elle) eût détalé
+que nous eussions détalé
+que vous eussiez détalé
+qu’ils (elles) eussent détalé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons détalé
+ayez détalé
+
+* INFINITIF
+
+** Passé
+
+avoir détalé
+
+* PARTICIPE
+
+** Passé
+
+ayant détalé
+détalé (invar.)

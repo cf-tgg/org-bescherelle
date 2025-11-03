@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe etudier
+
+* INDICATIF
+
+** Présent
+
+j'étudie
+tu étudies
+il (elle) étudie
+nous étudions
+vous étudiez
+ils (elles) étudient
+
+** Imparfait
+
+j'étudiais
+tu étudiais
+il (elle) étudiait
+nous étudiions
+vous étudiiez
+ils (elles) étudiaient
+
+** Passé simple
+
+j'étudiai
+tu étudias
+il (elle) étudia
+nous étudiâmes
+vous étudiâtes
+ils (elles) étudièrent
+
+** Futur simple
+
+j'étudierai
+tu étudieras
+il (elle) étudiera
+nous étudierons
+vous étudierez
+ils (elles) étudieront
+
+* CONDITIONNEL
+
+** Présent
+
+j'étudierais
+tu étudierais
+il (elle) étudierait
+nous étudierions
+vous étudieriez
+ils (elles) étudieraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'étudie
+que tu étudies
+qu’il (elle) étudie
+que nous étudiions
+que vous étudiiez
+qu’ils (elles) étudient
+
+** Imparfait
+
+que j'étudiasse
+que tu étudiasses
+qu’il (elle) étudiât
+que nous étudiassions
+que vous étudiassiez
+qu’ils (elles) étudiassent
+
+* IMPÉRATIF
+
+** Présent
+
+étudie
+étudions
+étudiez
+
+* INFINITIF
+
+** Présent
+
+étudier
+
+* PARTICIPE
+
+** Présent
+
+étudiant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai étudié
+tu as étudié
+il (elle) a étudié
+nous avons étudié
+vous avez étudié
+ils (elles) ont étudié
+
+** Plus-que-parfait
+
+j'avais étudié
+tu avais étudié
+il (elle) avait étudié
+nous avions étudié
+vous aviez étudié
+ils (elles) avaient étudié
+
+** Passé antérieur
+
+j'eus étudié
+tu eus étudié
+il (elle) eut étudié
+nous eûmes étudié
+vous eûtes étudié
+ils (elles) eurent étudié
+
+** Futur antérieur
+
+j'aurai étudié
+tu auras étudié
+il (elle) aura étudié
+nous aurons étudié
+vous aurez étudié
+ils (elles) auront étudié
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais étudié
+tu aurais étudié
+il (elle) aurait étudié
+nous aurions étudié
+vous auriez étudié
+ils (elles) auraient étudié
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie étudié
+que tu aies étudié
+qu’il (elle) ait étudié
+que nous ayons étudié
+que vous ayez étudié
+qu’ils (elles) aient étudié
+
+** Plus-que-parfait
+
+que j'eusse étudié
+que tu eusses étudié
+qu’il (elle) eût étudié
+que nous eussions étudié
+que vous eussiez étudié
+qu’ils (elles) eussent étudié
+
+* IMPÉRATIF
+
+** Passé
+
+ayons étudié
+ayez étudié
+
+* INFINITIF
+
+** Passé
+
+avoir étudié
+
+* PARTICIPE
+
+** Passé
+
+ayant étudié
+étudié (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis étudié(e)
+tu es étudié(e)
+il (elle) est étudié(e)
+nous sommes étudié(e)s
+vous êtes étudié(e)s
+ils (elles) sont étudié(e)s
+
+** Imparfait
+
+j'étais étudié(e)
+tu étais étudié(e)
+il (elle) était étudié(e)
+nous étions étudié(e)s
+vous étiez étudié(e)s
+ils (elles) étaient étudié(e)s
+
+** Passé simple
+
+je fus étudié(e)
+tu fus étudié(e)
+il (elle) fut étudié(e)
+nous fûmes étudié(e)s
+vous fûtes étudié(e)s
+ils (elles) furent étudié(e)s
+
+** Futur simple
+
+je serai étudié(e)
+tu seras étudié(e)
+il (elle) sera étudié(e)
+nous serons étudié(e)s
+vous serez étudié(e)s
+ils (elles) seront étudié(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais étudié(e)
+tu serais étudié(e)
+il (elle) serait étudié(e)
+nous serions étudié(e)s
+vous seriez étudié(e)s
+ils (elles) seraient étudié(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois étudié(e)
+que tu sois étudié(e)
+qu’il (elle) soit étudié(e)
+que nous soyons étudié(e)s
+que vous soyez étudié(e)s
+qu’ils (elles) soient étudié(e)s
+
+** Imparfait
+
+que je fusse étudié(e)
+que tu fusses étudié(e)
+qu’il (elle) fût étudié(e)
+que nous fussions étudié(e)s
+que vous fussiez étudié(e)s
+qu’ils (elles) fussent étudié(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons étudié(e)s
+soyez étudié(e)s
+
+* INFINITIF
+
+** Présent
+
+être étudié(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant étudié(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été étudié(e)
+tu as été étudié(e)
+il (elle) a été étudié(e)
+nous avons été étudié(e)s
+vous avez été étudié(e)s
+ils (elles) ont été étudié(e)s
+
+** Plus-que-parfait
+
+j'avais été étudié(e)
+il (elle) avait été étudié(e)
+nous avions été étudié(e)s
+ils (elles) avaient été étudié(e)s
+
+** Passé antérieur
+
+j'eus été étudié(e)
+tu eus été étudié(e)
+il (elle) eut été étudié(e)
+nous eûmes été étudié(e)s
+vous eûtes été étudié(e)s
+ils (elles) eurent été étudié(e)s
+
+** Futur antérieur
+
+j'aurai été étudié(e)
+tu auras été étudié(e)
+il (elle) aura été étudié(e)
+nous aurons été étudié(e)s
+vous aurez été étudié(e)s
+ils (elles) auront été étudié(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été étudié(e)
+j'aurais été étudié(e)
+il (elle) aurait été étudié(e)
+nous aurions été étudié(e)s
+vous auriez été étudié(e)s
+ils (elles) auraient été étudié(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été étudié(e)
+que tu aies été étudié(e)
+qu’il (elle) ait été étudié(e)
+que nous ayons été étudié(e)s
+que vous ayez été étudié(e)s
+qu’ils (elles) aient été étudié(e)s
+
+** Plus-que-parfait
+
+que j'eusse été étudié(e)
+que tu eusses été étudié(e)
+qu’il (elle) eût été étudié(e)
+que nous eussions été étudié(e)s
+que vous eussiez été étudié(e)s
+qu’ils (elles) eussent été étudié(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été étudié(e)
+ayons été étudié(e)s
+ayez été étudié(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été étudié(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été étudié(e)(s)

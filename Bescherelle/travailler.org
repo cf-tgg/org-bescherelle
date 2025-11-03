@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe travailler
+
+* INDICATIF
+
+** Présent
+
+je travaille
+tu travailles
+il (elle) travaille
+nous travaillons
+vous travaillez
+ils (elles) travaillent
+
+** Imparfait
+
+je travaillais
+tu travaillais
+il (elle) travaillait
+nous travaillions
+vous travailliez
+ils (elles) travaillaient
+
+** Passé simple
+
+je travaillai
+tu travaillas
+il (elle) travailla
+nous travaillâmes
+vous travaillâtes
+ils (elles) travaillèrent
+
+** Futur simple
+
+je travaillerai
+tu travailleras
+il (elle) travaillera
+nous travaillerons
+vous travaillerez
+ils (elles) travailleront
+
+* CONDITIONNEL
+
+** Présent
+
+je travaillerais
+tu travaillerais
+il (elle) travaillerait
+nous travaillerions
+vous travailleriez
+ils (elles) travailleraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je travaille
+que tu travailles
+qu’il (elle) travaille
+que nous travaillions
+que vous travailliez
+qu’ils (elles) travaillent
+
+** Imparfait
+
+que je travaillasse
+que tu travaillasses
+qu’il (elle) travaillât
+que nous travaillassions
+que vous travaillassiez
+qu’ils (elles) travaillassent
+
+* IMPÉRATIF
+
+** Présent
+
+travaille
+travaillons
+travaillez
+
+* INFINITIF
+
+** Présent
+
+travailler
+
+* PARTICIPE
+
+** Présent
+
+travaillant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai travaillé
+tu as travaillé
+il (elle) a travaillé
+nous avons travaillé
+vous avez travaillé
+ils (elles) ont travaillé
+
+** Plus-que-parfait
+
+j'avais travaillé
+tu avais travaillé
+il (elle) avait travaillé
+nous avions travaillé
+vous aviez travaillé
+ils (elles) avaient travaillé
+
+** Passé antérieur
+
+j'eus travaillé
+tu eus travaillé
+il (elle) eut travaillé
+nous eûmes travaillé
+vous eûtes travaillé
+ils (elles) eurent travaillé
+
+** Futur antérieur
+
+j'aurai travaillé
+tu auras travaillé
+il (elle) aura travaillé
+nous aurons travaillé
+vous aurez travaillé
+ils (elles) auront travaillé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais travaillé
+tu aurais travaillé
+il (elle) aurait travaillé
+nous aurions travaillé
+vous auriez travaillé
+ils (elles) auraient travaillé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie travaillé
+que tu aies travaillé
+qu’il (elle) ait travaillé
+que nous ayons travaillé
+que vous ayez travaillé
+qu’ils (elles) aient travaillé
+
+** Plus-que-parfait
+
+que j'eusse travaillé
+que tu eusses travaillé
+qu’il (elle) eût travaillé
+que nous eussions travaillé
+que vous eussiez travaillé
+qu’ils (elles) eussent travaillé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons travaillé
+ayez travaillé
+
+* INFINITIF
+
+** Passé
+
+avoir travaillé
+
+* PARTICIPE
+
+** Passé
+
+ayant travaillé
+travaillé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis travaillé(e)
+tu es travaillé(e)
+il (elle) est travaillé(e)
+nous sommes travaillé(e)s
+vous êtes travaillé(e)s
+ils (elles) sont travaillé(e)s
+
+** Imparfait
+
+j'étais travaillé(e)
+tu étais travaillé(e)
+il (elle) était travaillé(e)
+nous étions travaillé(e)s
+vous étiez travaillé(e)s
+ils (elles) étaient travaillé(e)s
+
+** Passé simple
+
+je fus travaillé(e)
+tu fus travaillé(e)
+il (elle) fut travaillé(e)
+nous fûmes travaillé(e)s
+vous fûtes travaillé(e)s
+ils (elles) furent travaillé(e)s
+
+** Futur simple
+
+je serai travaillé(e)
+tu seras travaillé(e)
+il (elle) sera travaillé(e)
+nous serons travaillé(e)s
+vous serez travaillé(e)s
+ils (elles) seront travaillé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais travaillé(e)
+tu serais travaillé(e)
+il (elle) serait travaillé(e)
+nous serions travaillé(e)s
+vous seriez travaillé(e)s
+ils (elles) seraient travaillé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois travaillé(e)
+que tu sois travaillé(e)
+qu’il (elle) soit travaillé(e)
+que nous soyons travaillé(e)s
+que vous soyez travaillé(e)s
+qu’ils (elles) soient travaillé(e)s
+
+** Imparfait
+
+que je fusse travaillé(e)
+que tu fusses travaillé(e)
+qu’il (elle) fût travaillé(e)
+que nous fussions travaillé(e)s
+que vous fussiez travaillé(e)s
+qu’ils (elles) fussent travaillé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons travaillé(e)s
+soyez travaillé(e)s
+
+* INFINITIF
+
+** Présent
+
+être travaillé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant travaillé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été travaillé(e)
+tu as été travaillé(e)
+il (elle) a été travaillé(e)
+nous avons été travaillé(e)s
+vous avez été travaillé(e)s
+ils (elles) ont été travaillé(e)s
+
+** Plus-que-parfait
+
+j'avais été travaillé(e)
+il (elle) avait été travaillé(e)
+nous avions été travaillé(e)s
+ils (elles) avaient été travaillé(e)s
+
+** Passé antérieur
+
+j'eus été travaillé(e)
+tu eus été travaillé(e)
+il (elle) eut été travaillé(e)
+nous eûmes été travaillé(e)s
+vous eûtes été travaillé(e)s
+ils (elles) eurent été travaillé(e)s
+
+** Futur antérieur
+
+j'aurai été travaillé(e)
+tu auras été travaillé(e)
+il (elle) aura été travaillé(e)
+nous aurons été travaillé(e)s
+vous aurez été travaillé(e)s
+ils (elles) auront été travaillé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été travaillé(e)
+j'aurais été travaillé(e)
+il (elle) aurait été travaillé(e)
+nous aurions été travaillé(e)s
+vous auriez été travaillé(e)s
+ils (elles) auraient été travaillé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été travaillé(e)
+que tu aies été travaillé(e)
+qu’il (elle) ait été travaillé(e)
+que nous ayons été travaillé(e)s
+que vous ayez été travaillé(e)s
+qu’ils (elles) aient été travaillé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été travaillé(e)
+que tu eusses été travaillé(e)
+qu’il (elle) eût été travaillé(e)
+que nous eussions été travaillé(e)s
+que vous eussiez été travaillé(e)s
+qu’ils (elles) eussent été travaillé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été travaillé(e)
+ayons été travaillé(e)s
+ayez été travaillé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été travaillé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été travaillé(e)(s)

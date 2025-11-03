@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe diffuser
+
+* INDICATIF
+
+** Présent
+
+je diffuse
+tu diffuses
+il (elle) diffuse
+nous diffusons
+vous diffusez
+ils (elles) diffusent
+
+** Imparfait
+
+je diffusais
+tu diffusais
+il (elle) diffusait
+nous diffusions
+vous diffusiez
+ils (elles) diffusaient
+
+** Passé simple
+
+je diffusai
+tu diffusas
+il (elle) diffusa
+nous diffusâmes
+vous diffusâtes
+ils (elles) diffusèrent
+
+** Futur simple
+
+je diffuserai
+tu diffuseras
+il (elle) diffusera
+nous diffuserons
+vous diffuserez
+ils (elles) diffuseront
+
+* CONDITIONNEL
+
+** Présent
+
+je diffuserais
+tu diffuserais
+il (elle) diffuserait
+nous diffuserions
+vous diffuseriez
+ils (elles) diffuseraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je diffuse
+que tu diffuses
+qu’il (elle) diffuse
+que nous diffusions
+que vous diffusiez
+qu’ils (elles) diffusent
+
+** Imparfait
+
+que je diffusasse
+que tu diffusasses
+qu’il (elle) diffusât
+que nous diffusassions
+que vous diffusassiez
+qu’ils (elles) diffusassent
+
+* IMPÉRATIF
+
+** Présent
+
+diffuse
+diffusons
+diffusez
+
+* INFINITIF
+
+** Présent
+
+diffuser
+
+* PARTICIPE
+
+** Présent
+
+diffusant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai diffusé
+tu as diffusé
+il (elle) a diffusé
+nous avons diffusé
+vous avez diffusé
+ils (elles) ont diffusé
+
+** Plus-que-parfait
+
+j'avais diffusé
+tu avais diffusé
+il (elle) avait diffusé
+nous avions diffusé
+vous aviez diffusé
+ils (elles) avaient diffusé
+
+** Passé antérieur
+
+j'eus diffusé
+tu eus diffusé
+il (elle) eut diffusé
+nous eûmes diffusé
+vous eûtes diffusé
+ils (elles) eurent diffusé
+
+** Futur antérieur
+
+j'aurai diffusé
+tu auras diffusé
+il (elle) aura diffusé
+nous aurons diffusé
+vous aurez diffusé
+ils (elles) auront diffusé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais diffusé
+tu aurais diffusé
+il (elle) aurait diffusé
+nous aurions diffusé
+vous auriez diffusé
+ils (elles) auraient diffusé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie diffusé
+que tu aies diffusé
+qu’il (elle) ait diffusé
+que nous ayons diffusé
+que vous ayez diffusé
+qu’ils (elles) aient diffusé
+
+** Plus-que-parfait
+
+que j'eusse diffusé
+que tu eusses diffusé
+qu’il (elle) eût diffusé
+que nous eussions diffusé
+que vous eussiez diffusé
+qu’ils (elles) eussent diffusé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons diffusé
+ayez diffusé
+
+* INFINITIF
+
+** Passé
+
+avoir diffusé
+
+* PARTICIPE
+
+** Passé
+
+ayant diffusé
+diffusé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis diffusé(e)
+tu es diffusé(e)
+il (elle) est diffusé(e)
+nous sommes diffusé(e)s
+vous êtes diffusé(e)s
+ils (elles) sont diffusé(e)s
+
+** Imparfait
+
+j'étais diffusé(e)
+tu étais diffusé(e)
+il (elle) était diffusé(e)
+nous étions diffusé(e)s
+vous étiez diffusé(e)s
+ils (elles) étaient diffusé(e)s
+
+** Passé simple
+
+je fus diffusé(e)
+tu fus diffusé(e)
+il (elle) fut diffusé(e)
+nous fûmes diffusé(e)s
+vous fûtes diffusé(e)s
+ils (elles) furent diffusé(e)s
+
+** Futur simple
+
+je serai diffusé(e)
+tu seras diffusé(e)
+il (elle) sera diffusé(e)
+nous serons diffusé(e)s
+vous serez diffusé(e)s
+ils (elles) seront diffusé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais diffusé(e)
+tu serais diffusé(e)
+il (elle) serait diffusé(e)
+nous serions diffusé(e)s
+vous seriez diffusé(e)s
+ils (elles) seraient diffusé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois diffusé(e)
+que tu sois diffusé(e)
+qu’il (elle) soit diffusé(e)
+que nous soyons diffusé(e)s
+que vous soyez diffusé(e)s
+qu’ils (elles) soient diffusé(e)s
+
+** Imparfait
+
+que je fusse diffusé(e)
+que tu fusses diffusé(e)
+qu’il (elle) fût diffusé(e)
+que nous fussions diffusé(e)s
+que vous fussiez diffusé(e)s
+qu’ils (elles) fussent diffusé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons diffusé(e)s
+soyez diffusé(e)s
+
+* INFINITIF
+
+** Présent
+
+être diffusé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant diffusé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été diffusé(e)
+tu as été diffusé(e)
+il (elle) a été diffusé(e)
+nous avons été diffusé(e)s
+vous avez été diffusé(e)s
+ils (elles) ont été diffusé(e)s
+
+** Plus-que-parfait
+
+j'avais été diffusé(e)
+il (elle) avait été diffusé(e)
+nous avions été diffusé(e)s
+ils (elles) avaient été diffusé(e)s
+
+** Passé antérieur
+
+j'eus été diffusé(e)
+tu eus été diffusé(e)
+il (elle) eut été diffusé(e)
+nous eûmes été diffusé(e)s
+vous eûtes été diffusé(e)s
+ils (elles) eurent été diffusé(e)s
+
+** Futur antérieur
+
+j'aurai été diffusé(e)
+tu auras été diffusé(e)
+il (elle) aura été diffusé(e)
+nous aurons été diffusé(e)s
+vous aurez été diffusé(e)s
+ils (elles) auront été diffusé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été diffusé(e)
+j'aurais été diffusé(e)
+il (elle) aurait été diffusé(e)
+nous aurions été diffusé(e)s
+vous auriez été diffusé(e)s
+ils (elles) auraient été diffusé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été diffusé(e)
+que tu aies été diffusé(e)
+qu’il (elle) ait été diffusé(e)
+que nous ayons été diffusé(e)s
+que vous ayez été diffusé(e)s
+qu’ils (elles) aient été diffusé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été diffusé(e)
+que tu eusses été diffusé(e)
+qu’il (elle) eût été diffusé(e)
+que nous eussions été diffusé(e)s
+que vous eussiez été diffusé(e)s
+qu’ils (elles) eussent été diffusé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été diffusé(e)
+ayons été diffusé(e)s
+ayez été diffusé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été diffusé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été diffusé(e)(s)

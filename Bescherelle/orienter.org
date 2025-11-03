@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe orienter
+
+* INDICATIF
+
+** Présent
+
+j'oriente
+tu orientes
+il (elle) oriente
+nous orientons
+vous orientez
+ils (elles) orientent
+
+** Imparfait
+
+j'orientais
+tu orientais
+il (elle) orientait
+nous orientions
+vous orientiez
+ils (elles) orientaient
+
+** Passé simple
+
+j'orientai
+tu orientas
+il (elle) orienta
+nous orientâmes
+vous orientâtes
+ils (elles) orientèrent
+
+** Futur simple
+
+j'orienterai
+tu orienteras
+il (elle) orientera
+nous orienterons
+vous orienterez
+ils (elles) orienteront
+
+* CONDITIONNEL
+
+** Présent
+
+j'orienterais
+tu orienterais
+il (elle) orienterait
+nous orienterions
+vous orienteriez
+ils (elles) orienteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'oriente
+que tu orientes
+qu’il (elle) oriente
+que nous orientions
+que vous orientiez
+qu’ils (elles) orientent
+
+** Imparfait
+
+que j'orientasse
+que tu orientasses
+qu’il (elle) orientât
+que nous orientassions
+que vous orientassiez
+qu’ils (elles) orientassent
+
+* IMPÉRATIF
+
+** Présent
+
+oriente
+orientons
+orientez
+
+* INFINITIF
+
+** Présent
+
+orienter
+
+* PARTICIPE
+
+** Présent
+
+orientant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai orienté
+tu as orienté
+il (elle) a orienté
+nous avons orienté
+vous avez orienté
+ils (elles) ont orienté
+
+** Plus-que-parfait
+
+j'avais orienté
+tu avais orienté
+il (elle) avait orienté
+nous avions orienté
+vous aviez orienté
+ils (elles) avaient orienté
+
+** Passé antérieur
+
+j'eus orienté
+tu eus orienté
+il (elle) eut orienté
+nous eûmes orienté
+vous eûtes orienté
+ils (elles) eurent orienté
+
+** Futur antérieur
+
+j'aurai orienté
+tu auras orienté
+il (elle) aura orienté
+nous aurons orienté
+vous aurez orienté
+ils (elles) auront orienté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais orienté
+tu aurais orienté
+il (elle) aurait orienté
+nous aurions orienté
+vous auriez orienté
+ils (elles) auraient orienté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie orienté
+que tu aies orienté
+qu’il (elle) ait orienté
+que nous ayons orienté
+que vous ayez orienté
+qu’ils (elles) aient orienté
+
+** Plus-que-parfait
+
+que j'eusse orienté
+que tu eusses orienté
+qu’il (elle) eût orienté
+que nous eussions orienté
+que vous eussiez orienté
+qu’ils (elles) eussent orienté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons orienté
+ayez orienté
+
+* INFINITIF
+
+** Passé
+
+avoir orienté
+
+* PARTICIPE
+
+** Passé
+
+ayant orienté
+orienté (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis orienté(e)
+tu es orienté(e)
+il (elle) est orienté(e)
+nous sommes orienté(e)s
+vous êtes orienté(e)s
+ils (elles) sont orienté(e)s
+
+** Imparfait
+
+j'étais orienté(e)
+tu étais orienté(e)
+il (elle) était orienté(e)
+nous étions orienté(e)s
+vous étiez orienté(e)s
+ils (elles) étaient orienté(e)s
+
+** Passé simple
+
+je fus orienté(e)
+tu fus orienté(e)
+il (elle) fut orienté(e)
+nous fûmes orienté(e)s
+vous fûtes orienté(e)s
+ils (elles) furent orienté(e)s
+
+** Futur simple
+
+je serai orienté(e)
+tu seras orienté(e)
+il (elle) sera orienté(e)
+nous serons orienté(e)s
+vous serez orienté(e)s
+ils (elles) seront orienté(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais orienté(e)
+tu serais orienté(e)
+il (elle) serait orienté(e)
+nous serions orienté(e)s
+vous seriez orienté(e)s
+ils (elles) seraient orienté(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois orienté(e)
+que tu sois orienté(e)
+qu’il (elle) soit orienté(e)
+que nous soyons orienté(e)s
+que vous soyez orienté(e)s
+qu’ils (elles) soient orienté(e)s
+
+** Imparfait
+
+que je fusse orienté(e)
+que tu fusses orienté(e)
+qu’il (elle) fût orienté(e)
+que nous fussions orienté(e)s
+que vous fussiez orienté(e)s
+qu’ils (elles) fussent orienté(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons orienté(e)s
+soyez orienté(e)s
+
+* INFINITIF
+
+** Présent
+
+être orienté(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant orienté(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été orienté(e)
+tu as été orienté(e)
+il (elle) a été orienté(e)
+nous avons été orienté(e)s
+vous avez été orienté(e)s
+ils (elles) ont été orienté(e)s
+
+** Plus-que-parfait
+
+j'avais été orienté(e)
+il (elle) avait été orienté(e)
+nous avions été orienté(e)s
+ils (elles) avaient été orienté(e)s
+
+** Passé antérieur
+
+j'eus été orienté(e)
+tu eus été orienté(e)
+il (elle) eut été orienté(e)
+nous eûmes été orienté(e)s
+vous eûtes été orienté(e)s
+ils (elles) eurent été orienté(e)s
+
+** Futur antérieur
+
+j'aurai été orienté(e)
+tu auras été orienté(e)
+il (elle) aura été orienté(e)
+nous aurons été orienté(e)s
+vous aurez été orienté(e)s
+ils (elles) auront été orienté(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été orienté(e)
+j'aurais été orienté(e)
+il (elle) aurait été orienté(e)
+nous aurions été orienté(e)s
+vous auriez été orienté(e)s
+ils (elles) auraient été orienté(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été orienté(e)
+que tu aies été orienté(e)
+qu’il (elle) ait été orienté(e)
+que nous ayons été orienté(e)s
+que vous ayez été orienté(e)s
+qu’ils (elles) aient été orienté(e)s
+
+** Plus-que-parfait
+
+que j'eusse été orienté(e)
+que tu eusses été orienté(e)
+qu’il (elle) eût été orienté(e)
+que nous eussions été orienté(e)s
+que vous eussiez été orienté(e)s
+qu’ils (elles) eussent été orienté(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été orienté(e)
+ayons été orienté(e)s
+ayez été orienté(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été orienté(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été orienté(e)(s)

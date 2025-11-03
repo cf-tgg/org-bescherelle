@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe comparer
+
+* INDICATIF
+
+** Présent
+
+je compare
+tu compares
+il (elle) compare
+nous comparons
+vous comparez
+ils (elles) comparent
+
+** Imparfait
+
+je comparais
+tu comparais
+il (elle) comparait
+nous comparions
+vous compariez
+ils (elles) comparaient
+
+** Passé simple
+
+je comparai
+tu comparas
+il (elle) compara
+nous comparâmes
+vous comparâtes
+ils (elles) comparèrent
+
+** Futur simple
+
+je comparerai
+tu compareras
+il (elle) comparera
+nous comparerons
+vous comparerez
+ils (elles) compareront
+
+* CONDITIONNEL
+
+** Présent
+
+je comparerais
+tu comparerais
+il (elle) comparerait
+nous comparerions
+vous compareriez
+ils (elles) compareraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je compare
+que tu compares
+qu’il (elle) compare
+que nous comparions
+que vous compariez
+qu’ils (elles) comparent
+
+** Imparfait
+
+que je comparasse
+que tu comparasses
+qu’il (elle) comparât
+que nous comparassions
+que vous comparassiez
+qu’ils (elles) comparassent
+
+* IMPÉRATIF
+
+** Présent
+
+compare
+comparons
+comparez
+
+* INFINITIF
+
+** Présent
+
+comparer
+
+* PARTICIPE
+
+** Présent
+
+comparant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai comparé
+tu as comparé
+il (elle) a comparé
+nous avons comparé
+vous avez comparé
+ils (elles) ont comparé
+
+** Plus-que-parfait
+
+j'avais comparé
+tu avais comparé
+il (elle) avait comparé
+nous avions comparé
+vous aviez comparé
+ils (elles) avaient comparé
+
+** Passé antérieur
+
+j'eus comparé
+tu eus comparé
+il (elle) eut comparé
+nous eûmes comparé
+vous eûtes comparé
+ils (elles) eurent comparé
+
+** Futur antérieur
+
+j'aurai comparé
+tu auras comparé
+il (elle) aura comparé
+nous aurons comparé
+vous aurez comparé
+ils (elles) auront comparé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais comparé
+tu aurais comparé
+il (elle) aurait comparé
+nous aurions comparé
+vous auriez comparé
+ils (elles) auraient comparé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie comparé
+que tu aies comparé
+qu’il (elle) ait comparé
+que nous ayons comparé
+que vous ayez comparé
+qu’ils (elles) aient comparé
+
+** Plus-que-parfait
+
+que j'eusse comparé
+que tu eusses comparé
+qu’il (elle) eût comparé
+que nous eussions comparé
+que vous eussiez comparé
+qu’ils (elles) eussent comparé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons comparé
+ayez comparé
+
+* INFINITIF
+
+** Passé
+
+avoir comparé
+
+* PARTICIPE
+
+** Passé
+
+ayant comparé
+comparé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis comparé(e)
+tu es comparé(e)
+il (elle) est comparé(e)
+nous sommes comparé(e)s
+vous êtes comparé(e)s
+ils (elles) sont comparé(e)s
+
+** Imparfait
+
+j'étais comparé(e)
+tu étais comparé(e)
+il (elle) était comparé(e)
+nous étions comparé(e)s
+vous étiez comparé(e)s
+ils (elles) étaient comparé(e)s
+
+** Passé simple
+
+je fus comparé(e)
+tu fus comparé(e)
+il (elle) fut comparé(e)
+nous fûmes comparé(e)s
+vous fûtes comparé(e)s
+ils (elles) furent comparé(e)s
+
+** Futur simple
+
+je serai comparé(e)
+tu seras comparé(e)
+il (elle) sera comparé(e)
+nous serons comparé(e)s
+vous serez comparé(e)s
+ils (elles) seront comparé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais comparé(e)
+tu serais comparé(e)
+il (elle) serait comparé(e)
+nous serions comparé(e)s
+vous seriez comparé(e)s
+ils (elles) seraient comparé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois comparé(e)
+que tu sois comparé(e)
+qu’il (elle) soit comparé(e)
+que nous soyons comparé(e)s
+que vous soyez comparé(e)s
+qu’ils (elles) soient comparé(e)s
+
+** Imparfait
+
+que je fusse comparé(e)
+que tu fusses comparé(e)
+qu’il (elle) fût comparé(e)
+que nous fussions comparé(e)s
+que vous fussiez comparé(e)s
+qu’ils (elles) fussent comparé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons comparé(e)s
+soyez comparé(e)s
+
+* INFINITIF
+
+** Présent
+
+être comparé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant comparé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été comparé(e)
+tu as été comparé(e)
+il (elle) a été comparé(e)
+nous avons été comparé(e)s
+vous avez été comparé(e)s
+ils (elles) ont été comparé(e)s
+
+** Plus-que-parfait
+
+j'avais été comparé(e)
+il (elle) avait été comparé(e)
+nous avions été comparé(e)s
+ils (elles) avaient été comparé(e)s
+
+** Passé antérieur
+
+j'eus été comparé(e)
+tu eus été comparé(e)
+il (elle) eut été comparé(e)
+nous eûmes été comparé(e)s
+vous eûtes été comparé(e)s
+ils (elles) eurent été comparé(e)s
+
+** Futur antérieur
+
+j'aurai été comparé(e)
+tu auras été comparé(e)
+il (elle) aura été comparé(e)
+nous aurons été comparé(e)s
+vous aurez été comparé(e)s
+ils (elles) auront été comparé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été comparé(e)
+j'aurais été comparé(e)
+il (elle) aurait été comparé(e)
+nous aurions été comparé(e)s
+vous auriez été comparé(e)s
+ils (elles) auraient été comparé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été comparé(e)
+que tu aies été comparé(e)
+qu’il (elle) ait été comparé(e)
+que nous ayons été comparé(e)s
+que vous ayez été comparé(e)s
+qu’ils (elles) aient été comparé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été comparé(e)
+que tu eusses été comparé(e)
+qu’il (elle) eût été comparé(e)
+que nous eussions été comparé(e)s
+que vous eussiez été comparé(e)s
+qu’ils (elles) eussent été comparé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été comparé(e)
+ayons été comparé(e)s
+ayez été comparé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été comparé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été comparé(e)(s)

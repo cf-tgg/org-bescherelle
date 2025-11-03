@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enchainer
+
+* INDICATIF
+
+** Présent
+
+j'enchaîne
+tu enchaînes
+il (elle) enchaîne
+nous enchaînons
+vous enchaînez
+ils (elles) enchaînent
+
+** Imparfait
+
+j'enchaînais
+tu enchaînais
+il (elle) enchaînait
+nous enchaînions
+vous enchaîniez
+ils (elles) enchaînaient
+
+** Passé simple
+
+j'enchaînai
+tu enchaînas
+il (elle) enchaîna
+nous enchaînâmes
+vous enchaînâtes
+ils (elles) enchaînèrent
+
+** Futur simple
+
+j'enchaînerai
+tu enchaîneras
+il (elle) enchaînera
+nous enchaînerons
+vous enchaînerez
+ils (elles) enchaîneront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enchaînerais
+tu enchaînerais
+il (elle) enchaînerait
+nous enchaînerions
+vous enchaîneriez
+ils (elles) enchaîneraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enchaîne
+que tu enchaînes
+qu’il (elle) enchaîne
+que nous enchaînions
+que vous enchaîniez
+qu’ils (elles) enchaînent
+
+** Imparfait
+
+que j'enchaînasse
+que tu enchaînasses
+qu’il (elle) enchaînât
+que nous enchaînassions
+que vous enchaînassiez
+qu’ils (elles) enchaînassent
+
+* IMPÉRATIF
+
+** Présent
+
+enchaîne
+enchaînons
+enchaînez
+
+* INFINITIF
+
+** Présent
+
+enchaîner
+
+* PARTICIPE
+
+** Présent
+
+enchaînant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enchaîné
+tu as enchaîné
+il (elle) a enchaîné
+nous avons enchaîné
+vous avez enchaîné
+ils (elles) ont enchaîné
+
+** Plus-que-parfait
+
+j'avais enchaîné
+tu avais enchaîné
+il (elle) avait enchaîné
+nous avions enchaîné
+vous aviez enchaîné
+ils (elles) avaient enchaîné
+
+** Passé antérieur
+
+j'eus enchaîné
+tu eus enchaîné
+il (elle) eut enchaîné
+nous eûmes enchaîné
+vous eûtes enchaîné
+ils (elles) eurent enchaîné
+
+** Futur antérieur
+
+j'aurai enchaîné
+tu auras enchaîné
+il (elle) aura enchaîné
+nous aurons enchaîné
+vous aurez enchaîné
+ils (elles) auront enchaîné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enchaîné
+tu aurais enchaîné
+il (elle) aurait enchaîné
+nous aurions enchaîné
+vous auriez enchaîné
+ils (elles) auraient enchaîné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enchaîné
+que tu aies enchaîné
+qu’il (elle) ait enchaîné
+que nous ayons enchaîné
+que vous ayez enchaîné
+qu’ils (elles) aient enchaîné
+
+** Plus-que-parfait
+
+que j'eusse enchaîné
+que tu eusses enchaîné
+qu’il (elle) eût enchaîné
+que nous eussions enchaîné
+que vous eussiez enchaîné
+qu’ils (elles) eussent enchaîné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enchaîné
+ayez enchaîné
+
+* INFINITIF
+
+** Passé
+
+avoir enchaîné
+
+* PARTICIPE
+
+** Passé
+
+ayant enchaîné
+enchaîné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enchaîné(e)
+tu es enchaîné(e)
+il (elle) est enchaîné(e)
+nous sommes enchaîné(e)s
+vous êtes enchaîné(e)s
+ils (elles) sont enchaîné(e)s
+
+** Imparfait
+
+j'étais enchaîné(e)
+tu étais enchaîné(e)
+il (elle) était enchaîné(e)
+nous étions enchaîné(e)s
+vous étiez enchaîné(e)s
+ils (elles) étaient enchaîné(e)s
+
+** Passé simple
+
+je fus enchaîné(e)
+tu fus enchaîné(e)
+il (elle) fut enchaîné(e)
+nous fûmes enchaîné(e)s
+vous fûtes enchaîné(e)s
+ils (elles) furent enchaîné(e)s
+
+** Futur simple
+
+je serai enchaîné(e)
+tu seras enchaîné(e)
+il (elle) sera enchaîné(e)
+nous serons enchaîné(e)s
+vous serez enchaîné(e)s
+ils (elles) seront enchaîné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enchaîné(e)
+tu serais enchaîné(e)
+il (elle) serait enchaîné(e)
+nous serions enchaîné(e)s
+vous seriez enchaîné(e)s
+ils (elles) seraient enchaîné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enchaîné(e)
+que tu sois enchaîné(e)
+qu’il (elle) soit enchaîné(e)
+que nous soyons enchaîné(e)s
+que vous soyez enchaîné(e)s
+qu’ils (elles) soient enchaîné(e)s
+
+** Imparfait
+
+que je fusse enchaîné(e)
+que tu fusses enchaîné(e)
+qu’il (elle) fût enchaîné(e)
+que nous fussions enchaîné(e)s
+que vous fussiez enchaîné(e)s
+qu’ils (elles) fussent enchaîné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enchaîné(e)s
+soyez enchaîné(e)s
+
+* INFINITIF
+
+** Présent
+
+être enchaîné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enchaîné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enchaîné(e)
+tu as été enchaîné(e)
+il (elle) a été enchaîné(e)
+nous avons été enchaîné(e)s
+vous avez été enchaîné(e)s
+ils (elles) ont été enchaîné(e)s
+
+** Plus-que-parfait
+
+j'avais été enchaîné(e)
+il (elle) avait été enchaîné(e)
+nous avions été enchaîné(e)s
+ils (elles) avaient été enchaîné(e)s
+
+** Passé antérieur
+
+j'eus été enchaîné(e)
+tu eus été enchaîné(e)
+il (elle) eut été enchaîné(e)
+nous eûmes été enchaîné(e)s
+vous eûtes été enchaîné(e)s
+ils (elles) eurent été enchaîné(e)s
+
+** Futur antérieur
+
+j'aurai été enchaîné(e)
+tu auras été enchaîné(e)
+il (elle) aura été enchaîné(e)
+nous aurons été enchaîné(e)s
+vous aurez été enchaîné(e)s
+ils (elles) auront été enchaîné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enchaîné(e)
+j'aurais été enchaîné(e)
+il (elle) aurait été enchaîné(e)
+nous aurions été enchaîné(e)s
+vous auriez été enchaîné(e)s
+ils (elles) auraient été enchaîné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enchaîné(e)
+que tu aies été enchaîné(e)
+qu’il (elle) ait été enchaîné(e)
+que nous ayons été enchaîné(e)s
+que vous ayez été enchaîné(e)s
+qu’ils (elles) aient été enchaîné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enchaîné(e)
+que tu eusses été enchaîné(e)
+qu’il (elle) eût été enchaîné(e)
+que nous eussions été enchaîné(e)s
+que vous eussiez été enchaîné(e)s
+qu’ils (elles) eussent été enchaîné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enchaîné(e)
+ayons été enchaîné(e)s
+ayez été enchaîné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enchaîné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enchaîné(e)(s)

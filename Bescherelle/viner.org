@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe viner
+
+* INDICATIF
+
+** Présent
+
+je vine
+tu vines
+il (elle) vine
+nous vinons
+vous vinez
+ils (elles) vinent
+
+** Imparfait
+
+je vinais
+tu vinais
+il (elle) vinait
+nous vinions
+vous viniez
+ils (elles) vinaient
+
+** Passé simple
+
+je vinai
+tu vinas
+il (elle) vina
+nous vinâmes
+vous vinâtes
+ils (elles) vinèrent
+
+** Futur simple
+
+je vinerai
+tu vineras
+il (elle) vinera
+nous vinerons
+vous vinerez
+ils (elles) vineront
+
+* CONDITIONNEL
+
+** Présent
+
+je vinerais
+tu vinerais
+il (elle) vinerait
+nous vinerions
+vous vineriez
+ils (elles) vineraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je vine
+que tu vines
+qu’il (elle) vine
+que nous vinions
+que vous viniez
+qu’ils (elles) vinent
+
+** Imparfait
+
+que je vinasse
+que tu vinasses
+qu’il (elle) vinât
+que nous vinassions
+que vous vinassiez
+qu’ils (elles) vinassent
+
+* IMPÉRATIF
+
+** Présent
+
+vine
+vinons
+vinez
+
+* INFINITIF
+
+** Présent
+
+viner
+
+* PARTICIPE
+
+** Présent
+
+vinant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai viné
+tu as viné
+il (elle) a viné
+nous avons viné
+vous avez viné
+ils (elles) ont viné
+
+** Plus-que-parfait
+
+j'avais viné
+tu avais viné
+il (elle) avait viné
+nous avions viné
+vous aviez viné
+ils (elles) avaient viné
+
+** Passé antérieur
+
+j'eus viné
+tu eus viné
+il (elle) eut viné
+nous eûmes viné
+vous eûtes viné
+ils (elles) eurent viné
+
+** Futur antérieur
+
+j'aurai viné
+tu auras viné
+il (elle) aura viné
+nous aurons viné
+vous aurez viné
+ils (elles) auront viné
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais viné
+tu aurais viné
+il (elle) aurait viné
+nous aurions viné
+vous auriez viné
+ils (elles) auraient viné
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie viné
+que tu aies viné
+qu’il (elle) ait viné
+que nous ayons viné
+que vous ayez viné
+qu’ils (elles) aient viné
+
+** Plus-que-parfait
+
+que j'eusse viné
+que tu eusses viné
+qu’il (elle) eût viné
+que nous eussions viné
+que vous eussiez viné
+qu’ils (elles) eussent viné
+
+* IMPÉRATIF
+
+** Passé
+
+ayons viné
+ayez viné
+
+* INFINITIF
+
+** Passé
+
+avoir viné
+
+* PARTICIPE
+
+** Passé
+
+ayant viné
+viné (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis viné(e)
+tu es viné(e)
+il (elle) est viné(e)
+nous sommes viné(e)s
+vous êtes viné(e)s
+ils (elles) sont viné(e)s
+
+** Imparfait
+
+j'étais viné(e)
+tu étais viné(e)
+il (elle) était viné(e)
+nous étions viné(e)s
+vous étiez viné(e)s
+ils (elles) étaient viné(e)s
+
+** Passé simple
+
+je fus viné(e)
+tu fus viné(e)
+il (elle) fut viné(e)
+nous fûmes viné(e)s
+vous fûtes viné(e)s
+ils (elles) furent viné(e)s
+
+** Futur simple
+
+je serai viné(e)
+tu seras viné(e)
+il (elle) sera viné(e)
+nous serons viné(e)s
+vous serez viné(e)s
+ils (elles) seront viné(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais viné(e)
+tu serais viné(e)
+il (elle) serait viné(e)
+nous serions viné(e)s
+vous seriez viné(e)s
+ils (elles) seraient viné(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois viné(e)
+que tu sois viné(e)
+qu’il (elle) soit viné(e)
+que nous soyons viné(e)s
+que vous soyez viné(e)s
+qu’ils (elles) soient viné(e)s
+
+** Imparfait
+
+que je fusse viné(e)
+que tu fusses viné(e)
+qu’il (elle) fût viné(e)
+que nous fussions viné(e)s
+que vous fussiez viné(e)s
+qu’ils (elles) fussent viné(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons viné(e)s
+soyez viné(e)s
+
+* INFINITIF
+
+** Présent
+
+être viné(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant viné(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été viné(e)
+tu as été viné(e)
+il (elle) a été viné(e)
+nous avons été viné(e)s
+vous avez été viné(e)s
+ils (elles) ont été viné(e)s
+
+** Plus-que-parfait
+
+j'avais été viné(e)
+il (elle) avait été viné(e)
+nous avions été viné(e)s
+ils (elles) avaient été viné(e)s
+
+** Passé antérieur
+
+j'eus été viné(e)
+tu eus été viné(e)
+il (elle) eut été viné(e)
+nous eûmes été viné(e)s
+vous eûtes été viné(e)s
+ils (elles) eurent été viné(e)s
+
+** Futur antérieur
+
+j'aurai été viné(e)
+tu auras été viné(e)
+il (elle) aura été viné(e)
+nous aurons été viné(e)s
+vous aurez été viné(e)s
+ils (elles) auront été viné(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été viné(e)
+j'aurais été viné(e)
+il (elle) aurait été viné(e)
+nous aurions été viné(e)s
+vous auriez été viné(e)s
+ils (elles) auraient été viné(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été viné(e)
+que tu aies été viné(e)
+qu’il (elle) ait été viné(e)
+que nous ayons été viné(e)s
+que vous ayez été viné(e)s
+qu’ils (elles) aient été viné(e)s
+
+** Plus-que-parfait
+
+que j'eusse été viné(e)
+que tu eusses été viné(e)
+qu’il (elle) eût été viné(e)
+que nous eussions été viné(e)s
+que vous eussiez été viné(e)s
+qu’ils (elles) eussent été viné(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été viné(e)
+ayons été viné(e)s
+ayez été viné(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été viné(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été viné(e)(s)

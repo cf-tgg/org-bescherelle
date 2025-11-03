@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe giter
+
+* INDICATIF
+
+** Présent
+
+je gîte
+tu gîtes
+il (elle) gîte
+nous gîtons
+vous gîtez
+ils (elles) gîtent
+
+** Imparfait
+
+je gîtais
+tu gîtais
+il (elle) gîtait
+nous gîtions
+vous gîtiez
+ils (elles) gîtaient
+
+** Passé simple
+
+je gîtai
+tu gîtas
+il (elle) gîta
+nous gîtâmes
+vous gîtâtes
+ils (elles) gîtèrent
+
+** Futur simple
+
+je gîterai
+tu gîteras
+il (elle) gîtera
+nous gîterons
+vous gîterez
+ils (elles) gîteront
+
+* CONDITIONNEL
+
+** Présent
+
+je gîterais
+tu gîterais
+il (elle) gîterait
+nous gîterions
+vous gîteriez
+ils (elles) gîteraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je gîte
+que tu gîtes
+qu’il (elle) gîte
+que nous gîtions
+que vous gîtiez
+qu’ils (elles) gîtent
+
+** Imparfait
+
+que je gîtasse
+que tu gîtasses
+qu’il (elle) gîtât
+que nous gîtassions
+que vous gîtassiez
+qu’ils (elles) gîtassent
+
+* IMPÉRATIF
+
+** Présent
+
+gîte
+gîtons
+gîtez
+
+* INFINITIF
+
+** Présent
+
+gîter
+
+* PARTICIPE
+
+** Présent
+
+gîtant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai gîté
+tu as gîté
+il (elle) a gîté
+nous avons gîté
+vous avez gîté
+ils (elles) ont gîté
+
+** Plus-que-parfait
+
+j'avais gîté
+tu avais gîté
+il (elle) avait gîté
+nous avions gîté
+vous aviez gîté
+ils (elles) avaient gîté
+
+** Passé antérieur
+
+j'eus gîté
+tu eus gîté
+il (elle) eut gîté
+nous eûmes gîté
+vous eûtes gîté
+ils (elles) eurent gîté
+
+** Futur antérieur
+
+j'aurai gîté
+tu auras gîté
+il (elle) aura gîté
+nous aurons gîté
+vous aurez gîté
+ils (elles) auront gîté
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais gîté
+tu aurais gîté
+il (elle) aurait gîté
+nous aurions gîté
+vous auriez gîté
+ils (elles) auraient gîté
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie gîté
+que tu aies gîté
+qu’il (elle) ait gîté
+que nous ayons gîté
+que vous ayez gîté
+qu’ils (elles) aient gîté
+
+** Plus-que-parfait
+
+que j'eusse gîté
+que tu eusses gîté
+qu’il (elle) eût gîté
+que nous eussions gîté
+que vous eussiez gîté
+qu’ils (elles) eussent gîté
+
+* IMPÉRATIF
+
+** Passé
+
+ayons gîté
+ayez gîté
+
+* INFINITIF
+
+** Passé
+
+avoir gîté
+
+* PARTICIPE
+
+** Passé
+
+ayant gîté
+gîté (invar.)

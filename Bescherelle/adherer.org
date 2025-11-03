@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe adherer
+
+* INDICATIF
+
+** Présent
+
+j'adhère
+tu adhères
+il (elle) adhère
+nous adhérons
+vous adhérez
+ils (elles) adhèrent
+
+** Imparfait
+
+j'adhérais
+tu adhérais
+il (elle) adhérait
+nous adhérions
+vous adhériez
+ils (elles) adhéraient
+
+** Passé simple
+
+j'adhérai
+tu adhéras
+il (elle) adhéra
+nous adhérâmes
+vous adhérâtes
+ils (elles) adhérèrent
+
+** Futur simple
+
+j'adhérerai
+tu adhéreras
+il (elle) adhérera
+nous adhérerons
+vous adhérerez
+ils (elles) adhéreront
+
+* CONDITIONNEL
+
+** Présent
+
+j'adhérerais
+tu adhérerais
+il (elle) adhérerait
+nous adhérerions
+vous adhéreriez
+ils (elles) adhéreraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'adhère
+que tu adhères
+qu’il (elle) adhère
+que nous adhérions
+que vous adhériez
+qu’ils (elles) adhèrent
+
+** Imparfait
+
+que j'adhérasse
+que tu adhérasses
+qu’il (elle) adhérât
+que nous adhérassions
+que vous adhérassiez
+qu’ils (elles) adhérassent
+
+* IMPÉRATIF
+
+** Présent
+
+adhère
+adhérons
+adhérez
+
+* INFINITIF
+
+** Présent
+
+adhérer
+
+* PARTICIPE
+
+** Présent
+
+adhérant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai adhéré
+tu as adhéré
+il (elle) a adhéré
+nous avons adhéré
+vous avez adhéré
+ils (elles) ont adhéré
+
+** Plus-que-parfait
+
+j'avais adhéré
+tu avais adhéré
+il (elle) avait adhéré
+nous avions adhéré
+vous aviez adhéré
+ils (elles) avaient adhéré
+
+** Passé antérieur
+
+j'eus adhéré
+tu eus adhéré
+il (elle) eut adhéré
+nous eûmes adhéré
+vous eûtes adhéré
+ils (elles) eurent adhéré
+
+** Futur antérieur
+
+j'aurai adhéré
+tu auras adhéré
+il (elle) aura adhéré
+nous aurons adhéré
+vous aurez adhéré
+ils (elles) auront adhéré
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais adhéré
+tu aurais adhéré
+il (elle) aurait adhéré
+nous aurions adhéré
+vous auriez adhéré
+ils (elles) auraient adhéré
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie adhéré
+que tu aies adhéré
+qu’il (elle) ait adhéré
+que nous ayons adhéré
+que vous ayez adhéré
+qu’ils (elles) aient adhéré
+
+** Plus-que-parfait
+
+que j'eusse adhéré
+que tu eusses adhéré
+qu’il (elle) eût adhéré
+que nous eussions adhéré
+que vous eussiez adhéré
+qu’ils (elles) eussent adhéré
+
+* IMPÉRATIF
+
+** Passé
+
+ayons adhéré
+ayez adhéré
+
+* INFINITIF
+
+** Passé
+
+avoir adhéré
+
+* PARTICIPE
+
+** Passé
+
+ayant adhéré
+adhéré (invar.)

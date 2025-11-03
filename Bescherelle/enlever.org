@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe enlever
+
+* INDICATIF
+
+** Présent
+
+j'enlève
+tu enlèves
+il (elle) enlève
+nous enlevons
+vous enlevez
+ils (elles) enlèvent
+
+** Imparfait
+
+j'enlevais
+tu enlevais
+il (elle) enlevait
+nous enlevions
+vous enleviez
+ils (elles) enlevaient
+
+** Passé simple
+
+j'enlevai
+tu enlevas
+il (elle) enleva
+nous enlevâmes
+vous enlevâtes
+ils (elles) enlevèrent
+
+** Futur simple
+
+j'enlèverai
+tu enlèveras
+il (elle) enlèvera
+nous enlèverons
+vous enlèverez
+ils (elles) enlèveront
+
+* CONDITIONNEL
+
+** Présent
+
+j'enlèverais
+tu enlèverais
+il (elle) enlèverait
+nous enlèverions
+vous enlèveriez
+ils (elles) enlèveraient
+
+* SUBJONCTIF
+
+** Présent
+
+que j'enlève
+que tu enlèves
+qu’il (elle) enlève
+que nous enlevions
+que vous enleviez
+qu’ils (elles) enlèvent
+
+** Imparfait
+
+que j'enlevasse
+que tu enlevasses
+qu’il (elle) enlevât
+que nous enlevassions
+que vous enlevassiez
+qu’ils (elles) enlevassent
+
+* IMPÉRATIF
+
+** Présent
+
+enlève
+enlevons
+enlevez
+
+* INFINITIF
+
+** Présent
+
+enlever
+
+* PARTICIPE
+
+** Présent
+
+enlevant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai enlevé
+tu as enlevé
+il (elle) a enlevé
+nous avons enlevé
+vous avez enlevé
+ils (elles) ont enlevé
+
+** Plus-que-parfait
+
+j'avais enlevé
+tu avais enlevé
+il (elle) avait enlevé
+nous avions enlevé
+vous aviez enlevé
+ils (elles) avaient enlevé
+
+** Passé antérieur
+
+j'eus enlevé
+tu eus enlevé
+il (elle) eut enlevé
+nous eûmes enlevé
+vous eûtes enlevé
+ils (elles) eurent enlevé
+
+** Futur antérieur
+
+j'aurai enlevé
+tu auras enlevé
+il (elle) aura enlevé
+nous aurons enlevé
+vous aurez enlevé
+ils (elles) auront enlevé
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais enlevé
+tu aurais enlevé
+il (elle) aurait enlevé
+nous aurions enlevé
+vous auriez enlevé
+ils (elles) auraient enlevé
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie enlevé
+que tu aies enlevé
+qu’il (elle) ait enlevé
+que nous ayons enlevé
+que vous ayez enlevé
+qu’ils (elles) aient enlevé
+
+** Plus-que-parfait
+
+que j'eusse enlevé
+que tu eusses enlevé
+qu’il (elle) eût enlevé
+que nous eussions enlevé
+que vous eussiez enlevé
+qu’ils (elles) eussent enlevé
+
+* IMPÉRATIF
+
+** Passé
+
+ayons enlevé
+ayez enlevé
+
+* INFINITIF
+
+** Passé
+
+avoir enlevé
+
+* PARTICIPE
+
+** Passé
+
+ayant enlevé
+enlevé (é, ée, és, ées)
+
+* INDICATIF
+
+** Présent
+
+je suis enlevé(e)
+tu es enlevé(e)
+il (elle) est enlevé(e)
+nous sommes enlevé(e)s
+vous êtes enlevé(e)s
+ils (elles) sont enlevé(e)s
+
+** Imparfait
+
+j'étais enlevé(e)
+tu étais enlevé(e)
+il (elle) était enlevé(e)
+nous étions enlevé(e)s
+vous étiez enlevé(e)s
+ils (elles) étaient enlevé(e)s
+
+** Passé simple
+
+je fus enlevé(e)
+tu fus enlevé(e)
+il (elle) fut enlevé(e)
+nous fûmes enlevé(e)s
+vous fûtes enlevé(e)s
+ils (elles) furent enlevé(e)s
+
+** Futur simple
+
+je serai enlevé(e)
+tu seras enlevé(e)
+il (elle) sera enlevé(e)
+nous serons enlevé(e)s
+vous serez enlevé(e)s
+ils (elles) seront enlevé(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais enlevé(e)
+tu serais enlevé(e)
+il (elle) serait enlevé(e)
+nous serions enlevé(e)s
+vous seriez enlevé(e)s
+ils (elles) seraient enlevé(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois enlevé(e)
+que tu sois enlevé(e)
+qu’il (elle) soit enlevé(e)
+que nous soyons enlevé(e)s
+que vous soyez enlevé(e)s
+qu’ils (elles) soient enlevé(e)s
+
+** Imparfait
+
+que je fusse enlevé(e)
+que tu fusses enlevé(e)
+qu’il (elle) fût enlevé(e)
+que nous fussions enlevé(e)s
+que vous fussiez enlevé(e)s
+qu’ils (elles) fussent enlevé(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons enlevé(e)s
+soyez enlevé(e)s
+
+* INFINITIF
+
+** Présent
+
+être enlevé(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant enlevé(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été enlevé(e)
+tu as été enlevé(e)
+il (elle) a été enlevé(e)
+nous avons été enlevé(e)s
+vous avez été enlevé(e)s
+ils (elles) ont été enlevé(e)s
+
+** Plus-que-parfait
+
+j'avais été enlevé(e)
+il (elle) avait été enlevé(e)
+nous avions été enlevé(e)s
+ils (elles) avaient été enlevé(e)s
+
+** Passé antérieur
+
+j'eus été enlevé(e)
+tu eus été enlevé(e)
+il (elle) eut été enlevé(e)
+nous eûmes été enlevé(e)s
+vous eûtes été enlevé(e)s
+ils (elles) eurent été enlevé(e)s
+
+** Futur antérieur
+
+j'aurai été enlevé(e)
+tu auras été enlevé(e)
+il (elle) aura été enlevé(e)
+nous aurons été enlevé(e)s
+vous aurez été enlevé(e)s
+ils (elles) auront été enlevé(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été enlevé(e)
+j'aurais été enlevé(e)
+il (elle) aurait été enlevé(e)
+nous aurions été enlevé(e)s
+vous auriez été enlevé(e)s
+ils (elles) auraient été enlevé(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été enlevé(e)
+que tu aies été enlevé(e)
+qu’il (elle) ait été enlevé(e)
+que nous ayons été enlevé(e)s
+que vous ayez été enlevé(e)s
+qu’ils (elles) aient été enlevé(e)s
+
+** Plus-que-parfait
+
+que j'eusse été enlevé(e)
+que tu eusses été enlevé(e)
+qu’il (elle) eût été enlevé(e)
+que nous eussions été enlevé(e)s
+que vous eussiez été enlevé(e)s
+qu’ils (elles) eussent été enlevé(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été enlevé(e)
+ayons été enlevé(e)s
+ayez été enlevé(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été enlevé(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été enlevé(e)(s)

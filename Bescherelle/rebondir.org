@@ -1,0 +1,179 @@
+#+title: Conjugaison du verbe rebondir
+
+* INDICATIF
+
+** Présent
+
+je rebondis
+tu rebondis
+il (elle) rebondit
+nous rebondissons
+vous rebondissez
+ils (elles) rebondissent
+
+** Imparfait
+
+je rebondissais
+tu rebondissais
+il (elle) rebondissait
+nous rebondissions
+vous rebondissiez
+ils (elles) rebondissaient
+
+** Passé simple
+
+je rebondis
+tu rebondis
+il (elle) rebondit
+nous rebondîmes
+vous rebondîtes
+ils (elles) rebondirent
+
+** Futur simple
+
+je rebondirai
+tu rebondiras
+il (elle) rebondira
+nous rebondirons
+vous rebondirez
+ils (elles) rebondiront
+
+* CONDITIONNEL
+
+** Présent
+
+je rebondirais
+tu rebondirais
+il (elle) rebondirait
+nous rebondirions
+vous rebondiriez
+ils (elles) rebondiraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je rebondisse
+que tu rebondisses
+qu’il (elle) rebondisse
+que nous rebondissions
+que vous rebondissiez
+qu’ils (elles) rebondissent
+
+** Imparfait
+
+que je rebondisse
+que tu rebondisses
+qu’il (elle) rebondît
+que nous rebondissions
+que vous rebondissiez
+qu’ils (elles) rebondissent
+
+* IMPÉRATIF
+
+** Présent
+
+rebondis
+rebondissons
+rebondissez
+
+* INFINITIF
+
+** Présent
+
+rebondir
+
+* PARTICIPE
+
+** Présent
+
+rebondissant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai rebondi
+tu as rebondi
+il (elle) a rebondi
+nous avons rebondi
+vous avez rebondi
+ils (elles) ont rebondi
+
+** Plus-que-parfait
+
+j'avais rebondi
+tu avais rebondi
+il (elle) avait rebondi
+nous avions rebondi
+vous aviez rebondi
+ils (elles) avaient rebondi
+
+** Passé antérieur
+
+j'eus rebondi
+tu eus rebondi
+il (elle) eut rebondi
+nous eûmes rebondi
+vous eûtes rebondi
+ils (elles) eurent rebondi
+
+** Futur antérieur
+
+j'aurai rebondi
+tu auras rebondi
+il (elle) aura rebondi
+nous aurons rebondi
+vous aurez rebondi
+ils (elles) auront rebondi
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais rebondi
+tu aurais rebondi
+il (elle) aurait rebondi
+nous aurions rebondi
+vous auriez rebondi
+ils (elles) auraient rebondi
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie rebondi
+que tu aies rebondi
+qu’il (elle) ait rebondi
+que nous ayons rebondi
+que vous ayez rebondi
+qu’ils (elles) aient rebondi
+
+** Plus-que-parfait
+
+que j'eusse rebondi
+que tu eusses rebondi
+qu’il (elle) eût rebondi
+que nous eussions rebondi
+que vous eussiez rebondi
+qu’ils (elles) eussent rebondi
+
+* IMPÉRATIF
+
+** Passé
+
+ayons rebondi
+ayez rebondi
+
+* INFINITIF
+
+** Passé
+
+avoir rebondi
+
+* PARTICIPE
+
+** Passé
+
+ayant rebondi
+rebondi (invar.)

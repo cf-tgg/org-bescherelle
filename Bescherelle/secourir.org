@@ -1,0 +1,354 @@
+#+title: Conjugaison du verbe secourir
+
+* INDICATIF
+
+** Présent
+
+je secours
+tu secours
+il (elle) secourt
+nous secourons
+vous secourez
+ils (elles) secourent
+
+** Imparfait
+
+je secourais
+tu secourais
+il (elle) secourait
+nous secourions
+vous secouriez
+ils (elles) secouraient
+
+** Passé simple
+
+je secourus
+tu secourus
+il (elle) secourut
+nous secourûmes
+vous secourûtes
+ils (elles) secoururent
+
+** Futur simple
+
+je secourrai
+tu secourras
+il (elle) secourra
+nous secourrons
+vous secourrez
+ils (elles) secourront
+
+* CONDITIONNEL
+
+** Présent
+
+je secourrais
+tu secourrais
+il (elle) secourrait
+nous secourrions
+vous secourriez
+ils (elles) secourraient
+
+* SUBJONCTIF
+
+** Présent
+
+que je secoure
+que tu secoures
+qu’il (elle) secoure
+que nous secourions
+que vous secouriez
+qu’ils (elles) secourent
+
+** Imparfait
+
+que je secourusse
+que tu secourusses
+qu’il (elle) secourût
+que nous secourussions
+que vous secourussiez
+qu’ils (elles) secourussent
+
+* IMPÉRATIF
+
+** Présent
+
+secours
+secourons
+secourez
+
+* INFINITIF
+
+** Présent
+
+secourir
+
+* PARTICIPE
+
+** Présent
+
+secourant
+
+* INDICATIF
+
+** Passé composé
+
+j'ai secouru
+tu as secouru
+il (elle) a secouru
+nous avons secouru
+vous avez secouru
+ils (elles) ont secouru
+
+** Plus-que-parfait
+
+j'avais secouru
+tu avais secouru
+il (elle) avait secouru
+nous avions secouru
+vous aviez secouru
+ils (elles) avaient secouru
+
+** Passé antérieur
+
+j'eus secouru
+tu eus secouru
+il (elle) eut secouru
+nous eûmes secouru
+vous eûtes secouru
+ils (elles) eurent secouru
+
+** Futur antérieur
+
+j'aurai secouru
+tu auras secouru
+il (elle) aura secouru
+nous aurons secouru
+vous aurez secouru
+ils (elles) auront secouru
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais secouru
+tu aurais secouru
+il (elle) aurait secouru
+nous aurions secouru
+vous auriez secouru
+ils (elles) auraient secouru
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie secouru
+que tu aies secouru
+qu’il (elle) ait secouru
+que nous ayons secouru
+que vous ayez secouru
+qu’ils (elles) aient secouru
+
+** Plus-que-parfait
+
+que j'eusse secouru
+que tu eusses secouru
+qu’il (elle) eût secouru
+que nous eussions secouru
+que vous eussiez secouru
+qu’ils (elles) eussent secouru
+
+* IMPÉRATIF
+
+** Passé
+
+ayons secouru
+ayez secouru
+
+* INFINITIF
+
+** Passé
+
+avoir secouru
+
+* PARTICIPE
+
+** Passé
+
+ayant secouru
+secouru (u, ue, us, ues)
+
+* INDICATIF
+
+** Présent
+
+je suis secouru(e)
+tu es secouru(e)
+il (elle) est secouru(e)
+nous sommes secouru(e)s
+vous êtes secouru(e)s
+ils (elles) sont secouru(e)s
+
+** Imparfait
+
+j'étais secouru(e)
+tu étais secouru(e)
+il (elle) était secouru(e)
+nous étions secouru(e)s
+vous étiez secouru(e)s
+ils (elles) étaient secouru(e)s
+
+** Passé simple
+
+je fus secouru(e)
+tu fus secouru(e)
+il (elle) fut secouru(e)
+nous fûmes secouru(e)s
+vous fûtes secouru(e)s
+ils (elles) furent secouru(e)s
+
+** Futur simple
+
+je serai secouru(e)
+tu seras secouru(e)
+il (elle) sera secouru(e)
+nous serons secouru(e)s
+vous serez secouru(e)s
+ils (elles) seront secouru(e)s
+
+* CONDITIONNEL
+
+** Présent
+
+je serais secouru(e)
+tu serais secouru(e)
+il (elle) serait secouru(e)
+nous serions secouru(e)s
+vous seriez secouru(e)s
+ils (elles) seraient secouru(e)s
+
+* SUBJONCTIF
+
+** Présent
+
+que je sois secouru(e)
+que tu sois secouru(e)
+qu’il (elle) soit secouru(e)
+que nous soyons secouru(e)s
+que vous soyez secouru(e)s
+qu’ils (elles) soient secouru(e)s
+
+** Imparfait
+
+que je fusse secouru(e)
+que tu fusses secouru(e)
+qu’il (elle) fût secouru(e)
+que nous fussions secouru(e)s
+que vous fussiez secouru(e)s
+qu’ils (elles) fussent secouru(e)s
+
+* IMPÉRATIF
+
+** Présent
+
+soyons secouru(e)s
+soyez secouru(e)s
+
+* INFINITIF
+
+** Présent
+
+être secouru(e)(s)
+
+* PARTICIPE
+
+** Présent
+
+étant secouru(e)(s)
+
+* INDICATIF
+
+** Passé composé
+
+j'ai été secouru(e)
+tu as été secouru(e)
+il (elle) a été secouru(e)
+nous avons été secouru(e)s
+vous avez été secouru(e)s
+ils (elles) ont été secouru(e)s
+
+** Plus-que-parfait
+
+j'avais été secouru(e)
+il (elle) avait été secouru(e)
+nous avions été secouru(e)s
+ils (elles) avaient été secouru(e)s
+
+** Passé antérieur
+
+j'eus été secouru(e)
+tu eus été secouru(e)
+il (elle) eut été secouru(e)
+nous eûmes été secouru(e)s
+vous eûtes été secouru(e)s
+ils (elles) eurent été secouru(e)s
+
+** Futur antérieur
+
+j'aurai été secouru(e)
+tu auras été secouru(e)
+il (elle) aura été secouru(e)
+nous aurons été secouru(e)s
+vous aurez été secouru(e)s
+ils (elles) auront été secouru(e)s
+
+* CONDITIONNEL
+
+** Passé
+
+j'aurais été secouru(e)
+j'aurais été secouru(e)
+il (elle) aurait été secouru(e)
+nous aurions été secouru(e)s
+vous auriez été secouru(e)s
+ils (elles) auraient été secouru(e)s
+
+* SUBJONCTIF
+
+** Passé
+
+que j'aie été secouru(e)
+que tu aies été secouru(e)
+qu’il (elle) ait été secouru(e)
+que nous ayons été secouru(e)s
+que vous ayez été secouru(e)s
+qu’ils (elles) aient été secouru(e)s
+
+** Plus-que-parfait
+
+que j'eusse été secouru(e)
+que tu eusses été secouru(e)
+qu’il (elle) eût été secouru(e)
+que nous eussions été secouru(e)s
+que vous eussiez été secouru(e)s
+qu’ils (elles) eussent été secouru(e)s
+
+* IMPÉRATIF
+
+** Passé
+
+aie été secouru(e)
+ayons été secouru(e)s
+ayez été secouru(e)s
+
+* INFINITIF
+
+** Passé
+
+avoir été secouru(e)(s)
+
+* PARTICIPE
+
+** Passé
+
+ayant été secouru(e)(s)
