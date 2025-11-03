@@ -31,17 +31,19 @@
 #{{{ Default Variables
 BESCHERELLE_DIR="$HOME/Documents/Bescherelle"
 verb_list="$BESCHERELLE_DIR/verbes"
+INSTALL_ONLY=0
 OPEN=0
 SEARCH=0
 COMPOSE=0
 QUIET=1
+VERBOSE=0
 TTS_OUT=0
 TRIM_TENSE=1
 BESCHERELLE=0
 MASCULIN=0
 FEMININ=0
 #}}}
-
+[ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
 #{{{ Functions
 usage() {
     env SCRIPT_NAME=$0 envsubst <<-'MAN'
@@ -69,7 +71,7 @@ usage() {
         -t                           tts output (requires working piper-tts configuration)
         -T                           output verb tenses in output (TRIM_TENSE=0)
         -q                           quiet (default)
-        -v                           verbose (QUIET=0)
+        -v                           verbose +1 (QUIET=$((QUIET-VERBOSE)))
         -h                           display this help message
 
 
@@ -151,9 +153,7 @@ bescherelle () { cat "${BESCHERELLE_DIR}"/* | grep -vE '^[*#]' | sed "/^$/d" | f
 
 #}}}
 
-verb=$(echo "$1" | to_ascii | to_lowercase)
-
-while getopts "V:d:smBfOTqctvh" opt ; do
+while getopts "V:d:smBIOTfqctvh" opt ; do
     case "$opt" in
         V) verb=$(echo "$OPTARG" | to_ascii | to_lowercase) ;;
         d) BESCHERELLE_DIR="$OPTARG" ;;
@@ -162,43 +162,49 @@ while getopts "V:d:smBfOTqctvh" opt ; do
         s) SEARCH=1 ;;
         m) MASCULIN=1 ;;
         f) FEMININ=1 ;;
-        v) QUIET=0 ;;
         q) QUIET=1 ;;
+        v) VERBOSE=$((VERBOSE+1)) ;;
         c) COMPOSE=1 ;;
         T) TRIM_TENSE=0 ;;
         t) TTS_OUT=1 ;;
+        I) INSTALL_ONLY=1 ;;
         h) usage >&2 ; exit 0 ;;
-    esac
+   esac
 done
-shift $((OPTIND - 1))
+shift $(($OPTIND-1))
+OPTIND=1
+QUIET=$((QUIET-VERBOSE))
+[ ! -n "$verb" ] && verb=$(echo "$1" | to_ascii | to_lowercase)
 
-[ -n "$verb" ] || verb=$(echo "$1" | to_ascii | to_lowercase)
-[ -d "$BESCHERELLE_DIR" ] || mkdir -pv "$BESCHERELLE_DIR"
-[ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
-[ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
-        [ -f "$(find . -type f -name 'verbes')" ] && mv ./verbes "$verb_list"
-        [ -f "$verb_list" ] || curl -sL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
-        bootstrap_script="$BESCHERELLE_DIR/bescherelle-parallel-bootstrap.sh"
-        printf '%s est vide.. Peut-être essayer: `hul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ; parallel --progress --verbose --dry-run -j0 --joblog "%s" "%s" -v -V {} :::: "%s` ?\n' "$BESCHERELLE_DIR" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$0" "$verb_list" >&2
-        printf '#!/bin/sh\n\nhul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ;\n %s --progress --verbose --dry-run -j0 --joblog %s %s/%s -v -V {} :::: %s\n' "$(command -v parallel)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$(pwd)" "${0##*/}" "$verb_list" | tee "$bootstrap_script"
-        [ -f "$bootstrap_script" ] && chmod 0700 "$bootstrap_script" && "$bootstrap_script" && {
-                printf "dry run completed. Run the real job? [y/N] "
-                stty -echo -icanon
-                ans=$(dd bs=1 count=1 2>/dev/null)
-                stty sane
-                echo "$ans" | grep -i "y" && sed -i 's/ --dry-run//' "$bootstrap_script" && "$bootstrap_script"
-                exit 0
-            }
-        exit 1
-}
+# [ $(find "$BESCHERELLE_DIR" -type f -name "*.org" | wc -l) -gt 1 ] || {
+#         [ -f "$(find . -type f -name 'verbes')" ] && mv ./verbes "$verb_list"
+#         [ -f "$verb_list" ] || curl -sL 'https://raw.githubusercontent.com/cf-tgg/org-bescherelle/refs/heads/master/verbes' > "$verb_list"
+#         bootstrap_script="$BESCHERELLE_DIR/bescherelle-parallel-bootstrap.sh"
+#         printf '%s est vide.. Peut-être essayer: `hul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ; parallel --progress --verbose --dry-run -j0 --joblog "%s" "%s" -v -V {} :::: "%s` ?\n' "$BESCHERELLE_DIR" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$0" "$verb_list" >&2
+#         printf '#!/bin/sh\n\nhul=$(ulimit -Hn) ; ul=$((hul / 2)) ; ulimit -n ${ul} ;\n %s --progress --verbose --dry-run -j0 --joblog %s %s/%s -vI {} :::: %s\n' "$(command -v parallel)" "$BESCHERELLE_DIR/bescherelle-bootstrap.log" "$(pwd)" "${0##*/}" "$verb_list" | tee "$bootstrap_script"
+#         [ -f "$bootstrap_script" ] && chmod 0700 "$bootstrap_script" && "$bootstrap_script" && {
+#                 printf "dry run completed. Run the real job? [y/N] "
+#                 stty -echo -icanon
+#                 ans=$(dd bs=1 count=1 2>/dev/null)
+#                 stty sane
+#                 echo "$ans" | grep -i "y" && sed -i 's/ --dry-run//' "$bootstrap_script" && "$bootstrap_script"
+#                 exit 0
+#             }
+#         exit 1
+# }
 
 orgverb="${BESCHERELLE_DIR}/${verb}.org"
 
-if [ -f "$orgverb" ] && [ $(wc -l < "$orgverb") -gt 2 ] ; then
-    [ $QUIET -lt 1 ] && echo "$verb est déjà là: $orgverb" >&2
+if [ -f "$orgverb" ] && [ $(wc -l < "$orgverb" 2>/dev/null) -gt 2 ]; then
+    [ $QUIET -lt 1 ] && printf '[INFO] %-30s %-30s\n' "$verb" "$orgverb" >&2
+    [ $INSTALL_ONLY -eq 1 ] && exit 0
     [ $OPEN -eq 1 ] && setsid -f $EDITOR "$orgverb" >/dev/null 2>&1
-    [ $SEARCH -gt 0 ] && output=$(grep -rn "$verb" "$BESCHERELLE_DIR" | cut -d ':' -f1 | sort -u | xargs cat | grep -vE '^[*#]' |sed "/^$/d" | fzf --multi) || \
-            output=$(cat "$orgverb" | grep -vE '^#'  | org_concat_headers | sed "/^$/d" | fzf --multi)
+    [ $BESCHERELLE -eq 1 ] && output=$(bescherelle)
+    if [ $SEARCH -eq 1 ]; then
+        output=$(grep -rn "$verb" "$BESCHERELLE_DIR" | cut -d ':' -f1 | sort -u | xargs cat | grep -vE '^[*#]' |sed "/^$/d" | fzf --multi)
+    else
+        output=$(cat "$orgverb" | grep -vE '^#'  | org_concat_headers | sed "/^$/d" | fzf --multi)
+    fi
 else
     LC_ALL=en_US.UTF-8 curl -sL "https://conjugaison.bescherelle.com/verbes/$verb" |
         iconv -f utf-8 -t utf-8 2>/dev/null |
@@ -231,7 +237,12 @@ else
           if (NF) print $0
       }
       ' | sed "s/’ /'/g;s/  / /g" | trim_if_match "contacter" >"$orgverb"
-    [ -f "$orgverb" ] && output=$(verbcat "$orgverb")
+    [ -f "$orgverb" ] || { printf '[ERROR] CMD no such file: %s (%s)\n' "$orgverb" "$verb"  >&2 ; exit 1 ; }
+    [ $INSTALL_ONLY -eq 1 ] && {
+        [ $QUIET -lt 1 ] && printf '[INFO] CMD installation du verbe %s terminée: %s\n' "$verb" "$orgverb" >&2
+        exit 0
+    }
+    output=$(verbcat "$orgverb")
 fi
 
 if [ -n "$output" ]; then
