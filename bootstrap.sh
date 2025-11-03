@@ -8,9 +8,18 @@ verbes=$(find . -type f -name "verbes" -exec realpath {} \;)
 [ -f "$verbes" ] || { printf '[ERROR] CMD no such file: %s\n' "$verbes" >&2 ; exit 1 ; }
 BESCHERELLE_DIR=${BESCHERELLE_DIR:-"$HOME/Documents/Bescherelle"}
 ( [ ! -d "$BESCHERELLE_DIR" ] && mkdir -p "$BESCHERELLE_DIR") || { printf '[ERROR] CMD could not create directory: %s\n' "$BESCHERELLE_DIR" >&2 ; exit 1 ; }
-[ -x "$(command -v parallel)" ] && parallel=$(which parallel) || { printf '[ERROR] CMD: could not find parallel executable on PATH\n' >&2 ; exit 1 ; }
 
-hul=$(ulimit -Hn) ul=$((hul/2))
-ulimit -n ${ul}
+if [ -x "$(command -v parallel)" ]; then
+    # async
+    parallel=$(which parallel) || { printf '[ERROR] CMD: could not find parallel executable on PATH\n' >&2 ; }
+    hul=$(ulimit -Hn) ul=$((hul/2))
+    ulimit -n ${ul}
+    $parallel --progress --verbose -j0 --joblog "$BESCHERELLE_DIR/bescherelle-bootstrap.log" $conjuge -vI {} :::: "$verbes"
+else
+    # sync
+    while IFS= read -r verbe; do
+        $conjuge -vI "$verbe" || continue
+    done < "$verbes"
+fi
 
-$parallel --progress --verbose -j0 --joblog "$BESCHERELLE_DIR/bescherelle-bootstrap.log" $conjuge -vI {} :::: "$verbes"
+exit 0
